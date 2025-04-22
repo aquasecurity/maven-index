@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SHA1 Shard Lookup</title>
+</head>
+<body>
+  <h1>SHA1 Shard Lookup</h1>
+  <form id="lookup">
+    <label>
+      Group ID:
+      <input type="text" name="g" placeholder="com.example" required>
+    </label>
+    <label>
+      Artifact ID:
+      <input type="text" name="a" placeholder="my-artifact" required>
+    </label>
+    <button type="submit">Search</button>
+  </form>
+
+  <script>
+    // 64-bit FNV-1a hash function combining Group ID and Artifact ID
+    function hashGA(groupId, artifactId) {
+      const FNV_OFFSET_BASIS = 0xcbf29ce484222325n;
+      const FNV_PRIME = 0x100000001b3n;
+      let hash = FNV_OFFSET_BASIS;
+      const combined = groupId + '|' + artifactId;
+      for (let i = 0; i < combined.length; i++) {
+        hash ^= BigInt(combined.charCodeAt(i));
+        hash = (hash * FNV_PRIME) & ((1n << 64n) - 1n);
+      }
+      return hash;
+    }
+
+    // Split hex string into two-character chunks to build directory path and file name
+    function shardPathFromIndex(idx, shardCount) {
+      // Calculate required hex digits based on shard count
+      const requiredHexDigits = Math.ceil(Math.log(shardCount) / Math.log(16));
+      // Ensure the hex string has the required number of digits with zero padding
+      const hex = idx.toString(16).padStart(requiredHexDigits, '0');
+      const chunks = hex.match(/.{1,2}/g) || [];           // ["00","01"] or ["0f","1"] or ["ab","cd","e"]
+      const fileBase = chunks.pop();                       // last chunk becomes file base
+      const directories = chunks;                          // remaining chunks become directories
+      const relativePath = directories.length
+        ? directories.join('/') + '/' + fileBase + '.tsv'
+        : fileBase + '.tsv';
+      return 'https://github.com/aquasecurity/maven-index/blob/main/central/' + relativePath;
+    }
+
+    document.getElementById('lookup').addEventListener('submit', function(event) {
+      event.preventDefault();
+      const groupId    = event.target.g.value.trim();
+      const artifactId = event.target.a.value.trim();
+      const SHARD_COUNT = 8192;  // adjust to match the shard count
+      const hashValue = hashGA(groupId, artifactId);
+      const index = Number(hashValue % BigInt(SHARD_COUNT));
+      const targetPath = shardPathFromIndex(index, SHARD_COUNT);
+      // Redirect browser to the corresponding shard TSV file
+      window.location.href = targetPath;
+    });
+  </script>
+</body>
+</html>

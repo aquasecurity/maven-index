@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
         with:
           repository: aquasecurity/trivy-java-db
-          ref: 0b9df878cf4f1bfcdc42eec68a1b19800f0dfb64
+          ref: 1ac7a8d1246ffc287024b289e05a7a9e85d7f7ae
           path: trivy-java-db
 
       - name: Checkout maven-index repository
@@ -33,12 +33,12 @@ jobs:
           cd trivy-java-db
           make build
 
-      - name: Run crawler
+      - name: Run crawler with Maven Central Index source
         run: |
           cd trivy-java-db
-          ./trivy-java-db crawl --index-dir ${GITHUB_WORKSPACE}/maven-index --shards 8192
+          ./trivy-java-db crawl --index-dir ${GITHUB_WORKSPACE}/maven-index --shards 8192 --source central
 
-      - name: Sort TSV files
+      - name: Sort TSV files after Maven Central Index update
         run: |
           cd maven-index
           find . -name "*.tsv" -type f | while read file; do
@@ -48,10 +48,10 @@ jobs:
             sort -t $'\t' -k1,1 -k2,2 -k3,3 -o "$file" "$file"
           done
 
-      - name: Commit and push changes
+      - name: Commit Maven Central Index changes
         run: |
           cd maven-index
           git config user.name "GitHub Actions Bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --staged --quiet || (git commit -m "Update maven index" && git push) 
+          git diff --staged --quiet || (git commit -m "Update maven index from Maven Central Index" && git push) 
