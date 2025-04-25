@@ -83,6 +83,8 @@ com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-10-kotlin-2.1.20
 com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-10-kotlin-2.1.20-RC2	1.0.0-BETA-10-kotlin-2.1.20-RC2-metadata	80568a59d083b91e57c24e5f2da87c55267ed1a4
 com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-10-kotlin-2.1.20-RC3	1.0.0-BETA-10-kotlin-2.1.20-RC3-metadata	81db140d10c3febc717bc2fe1c4f572f73077165
 com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-11	1.0.0-BETA-11-metadata	1e7c98f057a11842ad88ac2bf2b3c7b0e771ecec
+com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-11-kotlin-2.1.21-RC	1.0.0-BETA-11-kotlin-2.1.21-RC-metadata	86b069a9492c592f3348a5c78cd32bec09f102a5
+com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-11-kotlin-2.2.0-Beta1	1.0.0-BETA-11-kotlin-2.2.0-Beta1-metadata	2b2f7e4b46032436173c54c252a5ae9d015030f3
 com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-2	1.0.0-BETA-2-metadata	5fa98610c76eb0f77530b4160d8725fa0b37996f
 com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-2-kotlin-2.0.0-Beta5	1.0.0-BETA-2-kotlin-2.0.0-Beta5-metadata	f0b15d7c4d61975616f37046dbbd5dc2d661b770
 com.rickclephas.kmp	nsexception-kt-core-watchosarm32	1.0.0-BETA-2-kotlin-2.0.0-RC1	1.0.0-BETA-2-kotlin-2.0.0-RC1-metadata	09a3285dc93ad1ec7dfd959dc45b6d271e16cdc9
@@ -613,6 +615,7 @@ dev.zio	zio-aws-outposts_2.12	7.31.24.1	-	1b373e04e1884415f608fdc09af5aa821f7fe4
 dev.zio	zio-aws-outposts_2.12	7.31.25.1	-	eedf8b5e5e5ed3f89ac46858f8adc6a4c1c06a62
 dev.zio	zio-aws-outposts_2.12	7.31.26.1	-	c9401130d905fbd51e15ffdada7304d123f3eb15
 dev.zio	zio-aws-outposts_2.12	7.31.26.2	-	aeda89995a8987061ccd1a8d2d1551bb1f36f2c2
+dev.zio	zio-aws-outposts_2.12	7.31.27.1	-	85a18dc7fa47a710aace2c2088bc7940aee33dbd
 dev.zio	zio-aws-outposts_2.12	7.31.3.1	-	4a3cafb0bdd3f1e5317acd4c820e51fe8b600f1c
 dev.zio	zio-aws-outposts_2.12	7.31.4.1	-	c4958ced0f5e05a9088e091f2c40661f7580b6c8
 dev.zio	zio-aws-outposts_2.12	7.31.6.1	-	f1a5c47d8faf1725f1176009e12710077e0536cc
@@ -1395,6 +1398,7 @@ org.apache.httpcomponents.client5	httpclient5-testing	5.4-beta1	-	854a7e0a22c073
 org.apache.httpcomponents.client5	httpclient5-testing	5.4.1	-	5b90382582052af3889046e251d6dbaf624b6444
 org.apache.httpcomponents.client5	httpclient5-testing	5.4.2	-	9d276b87221c6ea7d0944a8561b04eca507ff00c
 org.apache.httpcomponents.client5	httpclient5-testing	5.4.3	-	78109ece88071c075d2796568b96ae99f411f12a
+org.apache.httpcomponents.client5	httpclient5-testing	5.4.4	-	d12022616b3295fc8000abe292819274e10bb41a
 org.apache.httpcomponents.client5	httpclient5-testing	5.5-alpha1	-	6e8eedd02ef2e26dbdd1fce8bebcd027eb3e025f
 org.apache.opennlp	opennlp-models-sentdetect-da	1.1.0	-	b0509166c1a1f89c1d430f59c90ca3265e52dde1
 org.apache.opennlp	opennlp-models-sentdetect-da	1.2.0	-	77ac8a9cedbbfe2da1f3dfcae4530a2a32fdba14
@@ -1644,6 +1648,7 @@ org.finos.legend.engine	legend-engine-test-server-shared	4.78.0	-	28a76689d9e324
 org.finos.legend.engine	legend-engine-test-server-shared	4.78.1	-	12edd999e8d58d873be99d6647c19c1b9d3b2500
 org.finos.legend.engine	legend-engine-test-server-shared	4.78.2	-	73ef6ea274059ae5f31a1399f434f9faf4874f78
 org.finos.legend.engine	legend-engine-test-server-shared	4.78.3	-	e83fae8c59cf168fc98864d35df49b77b291949e
+org.finos.legend.engine	legend-engine-test-server-shared	4.78.6	-	7a7d88cde62039d32a7845c3017d052f39fcfccd
 org.finos.legend.engine	legend-engine-test-server-shared	4.79.0	-	d6bbaca926a0f35fd1ad2b03619de4cb3021fe0c
 org.finos.legend.engine	legend-engine-test-server-shared	4.8.0	-	fde8ba8294c0f9ada62f500c6c4bbc79b311cf7b
 org.finos.legend.engine	legend-engine-test-server-shared	4.80.0	-	902ace13671772a0e108fe01255b886685405a3a

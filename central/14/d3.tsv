@@ -983,6 +983,7 @@ dev.zio	zio-aws-kms_2.13	7.31.24.1	-	7b477072c1bc5142505760d34a5bb67532f8b953
 dev.zio	zio-aws-kms_2.13	7.31.25.1	-	228f1856c4a8c434d98e32cd8894efb804a46f8c
 dev.zio	zio-aws-kms_2.13	7.31.26.1	-	9fe013ce9a0f3edf1509a6b4e5a57baa3f7620ee
 dev.zio	zio-aws-kms_2.13	7.31.26.2	-	565ac3ef3267ff12badfee1800e1c7af3cfe029e
+dev.zio	zio-aws-kms_2.13	7.31.27.1	-	51a97eb0775e80a54cf2a77e5d8ce13eead8ab1d
 dev.zio	zio-aws-kms_2.13	7.31.3.1	-	4f1137b66855a05421f0ca7c40aad15543303421
 dev.zio	zio-aws-kms_2.13	7.31.4.1	-	6fb921a5c4b2e5eb9428747b7a216816ba8ae8ea
 dev.zio	zio-aws-kms_2.13	7.31.6.1	-	9e0afdd85e1d90b1b24a2f195ef638aa02a87d9c
@@ -1054,6 +1055,7 @@ io.continual	continualModelServer	0.3.25	-	60e21f6985d4c29daa21cefc50f8a64260800
 io.continual	continualModelServer	0.3.26	-	8f0ed9d3fd9e516f84f20cdc9c367ecef7382ff6
 io.continual	continualModelServer	0.3.27	-	f71b89961ab5b6d88e3351cdee6dbe0aeb7fd360
 io.continual	continualModelServer	0.3.28	-	3f1f20794cfd1fff526cd71219d61954f1d1e452
+io.continual	continualModelServer	0.3.29	-	1562ce86e008085be00af1804e3aa5eb2d3809af
 io.continual	continualModelServer	0.3.3	-	d5b0a1ac41b105d01f47b3a04a8b59e2aae30b4e
 io.continual	continualModelServer	0.3.4	-	465b63f1e0334709329d506239962b1d389c28f2
 io.continual	continualModelServer	0.3.8	-	e3980eecc18df88492ddd5de06013d5008be4e73
@@ -1307,6 +1309,7 @@ io.trino	trino-tests	471	-	707852513a48323eaa2ece003ea94ea3a52787a8
 io.trino	trino-tests	472	-	f11e19fb8a4685b49feb68abda373e55bef2a8aa
 io.trino	trino-tests	473	-	2378739b7e40cd2fdd9e2686fcc5c18ded7600e6
 io.trino	trino-tests	474	-	b844a69cb04f55ffef67a1afb99a788c4f2c5309
+io.trino	trino-tests	475	-	f62188cf0f6a79ff76ab0592c619b18478c57ecc
 me.ahoo.cosec	cosec-webmvc	0.8.2	-	e5dee81682c5fbad20b4f97ffd5fb9cf2cabc6fd
 me.ahoo.cosec	cosec-webmvc	0.8.5	-	7f06758018abe598975b160ac8b51eb044492029
 me.ahoo.cosec	cosec-webmvc	0.8.6	-	696e0e978aaa6ec5aa0b9f1420821dfe59cf0f3d
@@ -1413,6 +1416,7 @@ me.ahoo.cosec	cosec-webmvc	2.13.0	-	e81f0af07209bbbcedc014b3849202c798493404
 me.ahoo.cosec	cosec-webmvc	2.13.1	-	57021714127e7f23061644d61f9889440b4fb08a
 me.ahoo.cosec	cosec-webmvc	2.13.2	-	1d33090304b5d26acf9231e419e1730fbf73ada7
 me.ahoo.cosec	cosec-webmvc	2.13.3	-	b68a0941f54bb6b4a926a116a6acdbaf162813bc
+me.ahoo.cosec	cosec-webmvc	2.13.5	-	de47fcb5e3cad703bd976a30d1b5f9378c7cffa4
 me.ahoo.cosec	cosec-webmvc	2.2.0	-	1a4c542095f33d4cb92aac34e0528d23d22f2bb9
 me.ahoo.cosec	cosec-webmvc	2.2.2	-	f8b0a5401e169d684b48a3670037e06a46cef6ab
 me.ahoo.cosec	cosec-webmvc	2.2.3	-	f15327ba2174018385c7a8d0159daeaa864c78a9
@@ -1470,6 +1474,7 @@ media.kamel	kamel-image-default-iossimulatorarm64	1.0.1	1.0.1-metadata	7cda64dba
 media.kamel	kamel-image-default-iossimulatorarm64	1.0.2	1.0.2-metadata	f1d38656768cf4fb9c93c72ab51d7eb0bc4e1c52
 media.kamel	kamel-image-default-iossimulatorarm64	1.0.3	1.0.3-metadata	77f28f3ca8f727b0fcfc3eb6221e69121e52a4cb
 net.dankito.web	ktor2-web-client-jvm	1.0.0	-	20722ea545694fae90dea7d419717f753624a941
+net.dankito.web	ktor2-web-client-jvm	1.1.0	-	5f477f2290e313cb933bb29d36a927d50474159d
 org.apache.camel.quarkus	camel-quarkus-geocoder-integration-test	1.1.0	-	3efb8334d447fceb3cf76ed23ad82c8d00f5b01b
 org.apache.camel.quarkus	camel-quarkus-integration-test-aws2-sqs-quarkus-client	2.10.0	-	199cb82ddcd94a398f2a226a0bcbd2d803de4908
 org.apache.camel.quarkus	camel-quarkus-integration-test-aws2-sqs-quarkus-client	2.11.0	-	c6c0c519aa7d92f516470394a664db8d1f71cfd6

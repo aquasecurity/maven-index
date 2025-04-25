@@ -49,6 +49,7 @@ com.expediagroup	graphql-kotlin-hooks-provider	6.0.0-alpha.6	-	fc2fdbff8617bfcec
 com.expediagroup	graphql-kotlin-hooks-provider	6.1.0	-	feebb69572557c51426ac130db650948fdeb0a5c
 com.expediagroup	graphql-kotlin-hooks-provider	6.10.0	-	cff1f28efcc81ebdb7bf6b16a2d4583bf749977e
 com.expediagroup	graphql-kotlin-hooks-provider	6.10.1	-	577fb9f9dce9dbacac11e03de5fc1a9ca8ef625d
+com.expediagroup	graphql-kotlin-hooks-provider	6.10.2	-	d6f61638ac104db30c4f3c4b39e5e9d77fe0ed0d
 com.expediagroup	graphql-kotlin-hooks-provider	6.2.0	-	9f0e31dbe264a5c1d90672156529ea47610c614f
 com.expediagroup	graphql-kotlin-hooks-provider	6.2.1	-	b4207423c0e1674e47f2c4d5dafa4cfb9250cf8a
 com.expediagroup	graphql-kotlin-hooks-provider	6.2.2	-	8b557ddaaf0a09079f5e4dc13f3cabb1d4e48218
@@ -101,6 +102,7 @@ com.expediagroup	graphql-kotlin-hooks-provider	7.2.1	-	20df9eff777b093d9a77e3f51
 com.expediagroup	graphql-kotlin-hooks-provider	7.2.2	-	461c20a35a8f9c075d88c1101ce5a2f42c87ad9f
 com.expediagroup	graphql-kotlin-hooks-provider	7.3.0	-	42cb81bf54cd0c4d12077984517691c3b69f4b00
 com.expediagroup	graphql-kotlin-hooks-provider	7.3.1	-	b5433a27bbcfd13e2abb0e8a23a6fffe7ed7a1c0
+com.expediagroup	graphql-kotlin-hooks-provider	7.3.2	-	09d4da6a3cffb11b682a98b2357e8316cffb76fd
 com.expediagroup	graphql-kotlin-hooks-provider	8.0.0	-	f5f7cdfb7a7aee9d1e4872485246e8a26d740d84
 com.expediagroup	graphql-kotlin-hooks-provider	8.0.0-alpha.1	-	e70b43e730c3988ae43872699be151305882a33c
 com.expediagroup	graphql-kotlin-hooks-provider	8.0.0-alpha.3	-	bb9347c622335a9b5637ba6c6054137fe70fcb8f
@@ -114,8 +116,11 @@ com.expediagroup	graphql-kotlin-hooks-provider	8.4.0	-	e9820a3e7febfa8aada43c82f
 com.expediagroup	graphql-kotlin-hooks-provider	8.5.0	-	0b2df04474def5301106d36945706a818872b4d5
 com.expediagroup	graphql-kotlin-hooks-provider	8.6.0	-	1aa3adb30cb13ea2fcf7c15346aafb19488469ad
 com.expediagroup	graphql-kotlin-hooks-provider	8.6.1	-	5215f0f57efa6a73afc7d039579ca09d365c4651
+com.expediagroup	graphql-kotlin-hooks-provider	8.6.2	-	56d7f0d87a7c436d4f19a52457827263bd45dc65
 com.expediagroup	graphql-kotlin-hooks-provider	9.0.0-alpha.4	-	74e25de5f60dbedb1f388b7821e80daa6a4a3b01
 com.expediagroup	graphql-kotlin-hooks-provider	9.0.0-alpha.5	-	15490338152e177281995ab21765f9c4b882f6af
+com.expediagroup	graphql-kotlin-hooks-provider	9.0.0-alpha.6	-	c82991e7d7b71752a6c17b591d2ad5a17a2d7141
+com.expediagroup	graphql-kotlin-hooks-provider	9.0.0-alpha.7	-	87f14cf590f8bbfb6edb59858247e949032e49f7
 com.github.enerccio	gson-utilities	1.0.0	-	4b381d306e45ec2353336be1fca212426d5ffda1
 com.github.enerccio	gson-utilities	1.0.1	-	150987a122b2df25243a4bc6f13117fb56c88fe3
 com.github.enerccio	gson-utilities	1.1.0	-	dd4095fb9c2138f9170d0813c3e7148fcf1ad13c
@@ -632,6 +637,7 @@ dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.24.1	-	69e45a505ca081e40ab2b40b92f2f61
 dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.25.1	-	3ffc009ac28c6869d6f2beb71ba64e4a5cbd27a3
 dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.26.1	-	84099af0be966210c0cf3e3286f0be54a9dea79c
 dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.26.2	-	6ccd1202371177e5efb459ca820fb234524e36d3
+dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.27.1	-	9fd6c9dd4ca325dc0f74bfe8223c8921607f121c
 dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.3.1	-	8a3385ee93eca088041aef05c1be1ed8bc1f5e96
 dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.4.1	-	df9d8d656b69a14281c8514b16e20eaf2218fbe7
 dev.zio	zio-aws-kinesisanalyticsv2_3	7.31.6.1	-	c5e76f22b1430cd4386c7e135a154bd3b9f1a23e
@@ -813,6 +819,7 @@ dev.zio	zio-aws-supportapp_3	7.31.24.1	-	79c7771b2290c8ee68055b11787de5cd0f02770
 dev.zio	zio-aws-supportapp_3	7.31.25.1	-	95d690ea428b44d1e84f42837b00a95ae4f58e63
 dev.zio	zio-aws-supportapp_3	7.31.26.1	-	cfb6ccf67f6f3d21197378b999804eee72a0d4be
 dev.zio	zio-aws-supportapp_3	7.31.26.2	-	8195ac772d0dd2e9dc36614e1ee7393ed1d30302
+dev.zio	zio-aws-supportapp_3	7.31.27.1	-	5ab4aaff93584a2fe47b2012a8404764be60a4d4
 dev.zio	zio-aws-supportapp_3	7.31.3.1	-	33acb0867bb5e7955678abeec148b37192b45c39
 dev.zio	zio-aws-supportapp_3	7.31.4.1	-	8afbadb10ce4d7d2fe6fcafd896e3d64ba0bf0de
 dev.zio	zio-aws-supportapp_3	7.31.6.1	-	d78a7ec9692f546d12a64cd3727094fb663651ab
@@ -1695,6 +1702,7 @@ org.testcontainers	rabbitmq	1.20.3	-	c76f3a7f6321d08a5f0ec747e61603287b007de1
 org.testcontainers	rabbitmq	1.20.4	-	ddf677adadd6f85a555787142b2dedf05724fba5
 org.testcontainers	rabbitmq	1.20.5	-	ac60c29168bcbe95047bbafef91a4a6d2fa822a6
 org.testcontainers	rabbitmq	1.20.6	-	ac60c29168bcbe95047bbafef91a4a6d2fa822a6
+org.testcontainers	rabbitmq	1.21.0	-	f850c44659717e5ecf14776f836d76a857680be2
 org.webjars.npm	atlaskit__primitives	1.0.6	-	ca84a95f5b48e442b6999602544a1409fa5b0baf
 org.webjars.npm	babel__helper-environment-visitor	7.16.7	-	996940dfba18069319e3def46baeb85eae5760cf
 org.webjars.npm	babel__helper-environment-visitor	7.18.2	-	51bb1acfa91bacfc489afad23fa27635ff6f3f92
