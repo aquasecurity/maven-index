@@ -119,6 +119,8 @@ com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.23.4	-	44babe4374
 com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.0	-	8a4ee8fc4b445ba7d127e4968bc0dd0077fb8646
 com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.1	-	6a9fcc4e74fd3f600053b2fc64266b499586805e
 com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.10	-	3ba4dbb3b13891da61ba981c64ce45c6899f4211
+com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.11	-	89f00bebe21db864e0e875ff301f138a013e6583
+com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.12	-	17633b6c11cb7c58df54d070fb23cd50835263f9
 com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.2	-	cc8430b44fbc1886dfc26f5a6f3f055213b1dd19
 com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.3	-	0df8407cfeef6ef0c44de87e1a274189e6550fd0
 com.anaptecs.jeaf.generator	jeaf-generator-test-spring-boot3	1.24.4	-	ef1b0eeab41a7fbed78eb5092a398d2156c61cc9
@@ -921,6 +923,7 @@ dev.zio	zio-aws-notificationscontacts_2.13	7.31.25.1	-	e388cc2acd355b96a9aee48b0
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.26.1	-	8f150d2c3c11c67dd845ba418bf6b90e764ef136
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.26.2	-	7a143b430a37823680a71056b122fda91aa01f81
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.27.1	-	3234f08a52e883663762e5ae27e6a6b686519dd4
+dev.zio	zio-aws-notificationscontacts_2.13	7.31.28.1	-	3d5db73a93b3671f572c291f92f8530c21a671ec
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.3.1	-	c2425e2b947cfb8ea09afae5db04862aa45b03db
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.4.1	-	cf5ab1f2420b129eb98ef1335bb7a38a47e981c7
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.6.1	-	b84471865572d69083bf69b15f02048b13d7056b
@@ -1488,6 +1491,7 @@ org.apereo.cas	cas-server-support-reports	7.2.0-RC4	-	2fd254285d96667674659d59ff
 org.apereo.cas	cas-server-support-reports	7.2.0-RC5	-	cab67b22bb39342837db5a584cd2eb1571793174
 org.apereo.cas	cas-server-support-reports	7.2.0-RC6	-	1ca42e3816ac4e086159d2e6cd227700db471576
 org.apereo.cas	cas-server-support-reports	7.2.1	-	0298b4ec2650d06a4163a187ea58600e74d1f7ef
+org.apereo.cas	cas-server-support-reports	7.3.0-RC1	-	1405065b795724c1e69897f4a15ae6658ef1819e
 org.apereo.cas	cas-server-support-reports	v6.4.0-RC5	-	4009ec791441249928e42da66a529c502513cada
 org.apereo.cas	cas-server-support-reports	v6.4.0-RC6	-	7ab544df8ef0fb258c44ad9c3360dfcb8b3e3c16
 org.bytedeco	javacpp	0.10	-	3346d5861a21ed4e230d56487694d9a1787dad62
@@ -1906,6 +1910,9 @@ org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.33.0	-	a5f9c
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.34.0	-	7a4af36c046b26828780c77b62c8b71d5d2e5843
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.34.1	-	b89a796a59bdf791fbf940f5f7114cfe9a1bf84c
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.35.0	-	db55a43d7bafb11f5c6498704f534029815561ec
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.37.0	-	e4abf43ecb94f838219ccd2b6c247c454e5a5e2f
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.38.0	-	e72f15fcec2d8046c7c4b357dd717b089b130280
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.39.0	-	2c1db4e20150f1b0f3a61583bb6502bae0e2386a
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.4.1	-	e2e7ab1d0a8ba8ae0fb28ad706774369f0f27ca7
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.5.0	-	21cf54c3207ee1e17aaab4e017529c16ce0cbd7f
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.6.0	-	8d73996d095c51eed0d4b0447112e062cc87e3b6
@@ -2346,5 +2353,6 @@ pl.iterators	kebs-http4s-stir_2.13	2.0.0	-	68e4fdaab9d76ee760676bdc7ddea25d95aec
 pl.iterators	kebs-http4s-stir_2.13	2.0.1	-	dce0e2cca846b6204538a17b51375ba1ed76c95d
 pl.iterators	kebs-http4s-stir_2.13	2.0.1-rc1	-	da15b9e34ed316aba116065f989db12f0ecc6519
 pl.iterators	kebs-http4s-stir_2.13	2.1.0	-	361c6ab9eed4909120c2d1ef937949c8b41e8a78
+pl.iterators	kebs-http4s-stir_2.13	2.1.1	-	b8312abfa97ed2575f69fa101e0070962f8c617f
 ru.opensecreto	jcommands	1.2.1	-	b72efa0e09cbf3ed6bc7ccc09d6f8dddf7fb1600
 ru.opensecreto	jcommands	1.3	-	56816504d8f03225cf47c8a58b1e3b4deb453c3b
