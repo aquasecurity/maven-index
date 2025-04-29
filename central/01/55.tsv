@@ -676,6 +676,8 @@ com.google.api.grpc	proto-google-cloud-bigtable-v2	2.57.0	-	98cbd5a111d317a8b081
 com.google.api.grpc	proto-google-cloud-bigtable-v2	2.57.1	-	ec69403ca59a819cfae2be2982e8448e24aef9ea
 com.google.api.grpc	proto-google-cloud-bigtable-v2	2.57.2	-	f1d9801ebea137ac043e2d18044f01461c2b1574
 com.google.api.grpc	proto-google-cloud-bigtable-v2	2.57.3	-	78a9001a631d53af28c4c3026ec068a29c402694
+com.google.api.grpc	proto-google-cloud-bigtable-v2	2.58.0	-	05530b0be8ab4425bc5c09bcb91338ef497f600e
+com.google.api.grpc	proto-google-cloud-bigtable-v2	2.58.1	-	ab2aa0711157e57a44fbd2d828e3e5c82560e60c
 com.google.api.grpc	proto-google-cloud-bigtable-v2	2.6.0	-	3f019db632a000ac726ca7b19c963aa637a5d0d9
 com.google.api.grpc	proto-google-cloud-bigtable-v2	2.6.1	-	23ba00ec0ae55a7ef33b69673428616a97aee951
 com.google.api.grpc	proto-google-cloud-bigtable-v2	2.6.2	-	ea57e0020568fb525f7207770c25e54a52cfdd41
@@ -1072,6 +1074,7 @@ org.apache.camel.quarkus	camel-quarkus-aws-xray	3.2.1	-	3844d9c434011777cd317d3b
 org.apache.camel.quarkus	camel-quarkus-aws-xray	3.2.2	-	8ca7de4569019fdd45349c8aa4df6e6ff6063f20
 org.apache.camel.quarkus	camel-quarkus-aws-xray	3.2.3	-	7ff2d2e2d60dddd116ebfc666d477376b33d877c
 org.apache.camel.quarkus	camel-quarkus-aws-xray	3.20.0	-	920a339bfe1d5206365c90fff24b6d8e90bbcf1a
+org.apache.camel.quarkus	camel-quarkus-aws-xray	3.22.0	-	45cb08d771ec5866c5ab7a1abbb27c16ae7e06e8
 org.apache.camel.quarkus	camel-quarkus-aws-xray	3.4.0	-	9699b0773b3db698860c247b0fe9ab844ad408d3
 org.apache.camel.quarkus	camel-quarkus-aws-xray	3.5.0	-	b11caf1e73254d4c786a74e18f3ee5d7660bc950
 org.apache.camel.quarkus	camel-quarkus-aws-xray	3.6.0	-	3a8967d39a2f9f735b72db1e307ae5b4dee98dbf
@@ -1127,6 +1130,7 @@ org.apache.shenyu	shenyu-spring-boot-starter-plugin-general-context	2.5.1	-	7baa
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-general-context	2.6.0	-	f1bc24703637170957cf4a7e16cb6fa11b020544
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-general-context	2.6.1	-	1c59df274a69fd7e235140bcbcd183843dbca606
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-general-context	2.7.0	-	1b3b99d67316d1d225db496deaf84352cc1ea66c
+org.apache.shenyu	shenyu-spring-boot-starter-plugin-general-context	2.7.0.1	-	5ad16f0451cfe4e8d508f037dd5246701104a31d
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.4.0	-	813675363df1a8eb712ac83e5f20b145cf382e1c
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.4.1	-	e63ef3ba6648ee6d0d5aac2a75bc959708605fba
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.4.2	-	c4e8b388ce55f4da0e7f36a3d28958e54d5dc227
@@ -1136,6 +1140,7 @@ org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.5.1	-	977d6d7a35e
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.6.0	-	0348323dea23a469c3f2e6d852b45444c6361c24
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.6.1	-	33fb71b4796aea10860660219c5c5c938d6ca7fa
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.7.0	-	d5fbcd535b538d0e9841943820d6385cb62e2830
+org.apache.shenyu	shenyu-spring-boot-starter-plugin-sentinel	2.7.0.1	-	99b2f0bce5748d5ea6a1b8a70d66f182472f709f
 org.bitbucket.b_c	jose4j	0.3.6	-	2dccf971279899d03dc14f04a3336b04638081bf
 org.bitbucket.b_c	jose4j	0.3.7	-	269bd092d8f28e34f3ebaa65f856ca3204973bf7
 org.bitbucket.b_c	jose4j	0.3.8	-	2dd11be8820de88c7cee06d8cdad9e3e66dd9a72
@@ -1381,6 +1386,7 @@ org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.18.0.80725	-	1aee5
 org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.19.0.80932	-	1cee9d93f7f8844c03847967cbc0c0eb87e91bc5
 org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.19.1.80951	-	9fe0fb3ea220d7af3131464241cb23796e37ad82
 org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.2.0.78029	-	2c21a11e9b9c9140040145a98d833ad3365ae9d1
+org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.20.0.81055	-	a682d58dc5b86f13e22b5a9b54f2529c61675dde
 org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.3.0.78427	-	43f65d0dceccabcd04daa3430f05872f0d53e64e
 org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.3.1.78456	-	3fac267022d079179964a00ebf8c5acc1a91b3c1
 org.sonarsource.sonarlint.core	sonarlint-java-client-utils	10.3.2.78498	-	0fce882bccab718ba99f5bf70f34bc82a2f29008
