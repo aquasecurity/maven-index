@@ -496,6 +496,7 @@ io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.1	-	73ad7846341d70c0d0
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.11	-	b4940660d929c4c4b9c44ffc59aeafeb99df2bb2
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.12	-	683f7eb92feebb788f96b36bec6671cdd21439bd
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.15	-	ab8f13b52495c39a41bca43aecc709fae2c49ea2
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.16	-	f2bef9e850b6cedb3324d76f8032f76159a004af
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.2	-	07883680110b1c240f51000689a0730429b858de
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.3	-	890f0258c347698cbd95db9c27a2f1973f0ea4c6
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.4	-	34073c00651268cd84d45a50aa992702ed3e990b
@@ -512,6 +513,7 @@ io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.0-alpha4	-	db5b5522a7d
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.0-alpha5	-	4590c08b64b3df5d2b57f4c5e7a5ce8667517506
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.1	-	e9479606fc1b8fca8a32276afe3f35dc72e3f1ef
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.10	-	d9bf278a0f54f306936c79373db5b778705f4dc1
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.11	-	a4b9a2401cb0fcd3cc0501ba34f49d75fe238840
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.2	-	ab1b27b0b6ab7520a57f992f8dbeef238dbe377f
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.5	-	8cef1587041ff313073644bf732b987faf437c73
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.6	-	ae4eb9c276203900ec168329e02b14e0a1fd56ea
@@ -1877,6 +1879,7 @@ org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250314-674e3e1-NIGHTLY	-	ac467e
 org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250318-daca114-NIGHTLY	-	fbdb24c1b80d09a35d5a3f84d983dacd3f751209
 org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250319-2b41273-NIGHTLY	-	92723ba6f20b625d9b978241edf9bf54e368092b
 org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250326-98b374a-NIGHTLY	-	9e443abaff279a45dd36c7957035ae43bf1fd246
+org.scala-lang	scala3-interfaces	3.3.6-RC2	-	34e34d6b5c5373ae9633cc8608448caa6515806c
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250402-71aca20-NIGHTLY	-	4887617c7c1d887fbb05c4a257c933bc3ccee559
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250403-3c1ff9a-NIGHTLY	-	abbb5e92ed3b0bce61e6eb1f163dd5a53814f9c3
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250408-f8a1729-NIGHTLY	-	f7ee80d9fbc319be35d9bda8c07c2a4a23c52581
@@ -1886,6 +1889,7 @@ org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250424-835dea2-NIGHTLY	-	960dcf
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250425-d21a280-NIGHTLY	-	e9c651562f14f3faa63ddfbc1bd3a020824c26ff
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250426-2b2895a-NIGHTLY	-	708de90b8a5df35f3c47d2c31d8dddae9fd09631
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250427-e3c4028-NIGHTLY	-	e0d9587a58726d9acf4cd9eb6ec6ef895266588d
+org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250428-84ea7eb-NIGHTLY	-	957d68c865c15ff98aef2d8aac4b05f6cd46da92
 org.scala-lang	scala3-interfaces	3.4.0	-	1c6ceb786d5eb954edc171e8f3e10313247dd743
 org.scala-lang	scala3-interfaces	3.4.0-RC1	-	4a3784208b10a0a53ea51b11ede55f373714dda5
 org.scala-lang	scala3-interfaces	3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY	-	e3267dcb107c6c557d97bc6b30df9083c668e153
@@ -2337,6 +2341,7 @@ org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250416-2d034c2-NIGHTLY	-	ad678e
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250417-05b102a-NIGHTLY	-	7a73ea930e8ce24fed21af6ccef0ed703629a6fd
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250424-99d640c-NIGHTLY	-	eeb046339d47bad9003a83ec16b68a191ce64a94
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250425-fb6cc9b-NIGHTLY	-	3b7d79e66c2ff4b89413ef04066091d31fbf4a06
+org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250428-08f2e4a-NIGHTLY	-	37426638af26f3a06f5064160de5030085716aba
 org.specs2	specs2-matcher_native0.4_2.12	4.14.0	-	9c5596e7a792e038d6b163ca796a2b223c21a738
 org.specs2	specs2-matcher_native0.4_2.12	4.14.1	-	a66bd45e3403578a76c6b7fc8ed4a937c15d8f27
 org.specs2	specs2-matcher_native0.4_2.12	4.15.0	-	ac2a7221d388ce85056cc28307d0928c5f39e1e1

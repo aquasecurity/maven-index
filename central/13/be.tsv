@@ -46,6 +46,7 @@ com.eygraber	vice-core-iossimulatorarm64	0.9.6	0.9.6-metadata	b304ec17cd04cb76ae
 com.eygraber	vice-core-iossimulatorarm64	0.9.7	0.9.7-metadata	dcb990c9977a6dc7f7a71df8e84571e5a9605ec8
 com.eygraber	vice-core-iossimulatorarm64	0.9.8	0.9.8-metadata	ea2afe155d05aa481ebeb404f1171c5983875de3
 com.eygraber	vice-core-iossimulatorarm64	0.9.9	0.9.9-metadata	f845ffc0dcfa54459a6b18e7021d59941f98571e
+com.facebook.airlift.drift	drift-transport-apache	0.217	-	02c8df8fd8e59c59a056a1f77324d56b373a3b79
 com.facebook.presto	presto-router	0.275	-	7f9b6e8acd2f33e3d1c868822cd7319d3da320b9
 com.facebook.presto	presto-router	0.276	-	73634faf27055e43078e780e96086918256ff942
 com.facebook.presto	presto-router	0.276.1	-	f7cd7c1379fedde4ea4254091337adb11ccff5fd
@@ -1741,6 +1742,7 @@ io.automatiko.quarkus	automatiko-operator	0.40.0	-	b9adcf0296336e062002c13326cf2
 io.automatiko.quarkus	automatiko-operator	0.41.0	-	ca1f5c2892f6436c3b3bc0015ecd0824ffb29554
 io.automatiko.quarkus	automatiko-operator	0.42.0	-	545ea492bab365a6eb4d25a26a58787eab1a3480
 io.automatiko.quarkus	automatiko-operator	0.42.1	-	6581b6f06a2aa3fa1b390fa93e0ee0bb66f15bfa
+io.automatiko.quarkus	automatiko-operator	0.42.2	-	eb1a0a8194ea71b129c08c6aaf68ae0feefc1f91
 io.automatiko.quarkus	automatiko-operator	0.5.0	-	6fba87ea9099bd62ec288f5651d523df0e12a314
 io.automatiko.quarkus	automatiko-operator	0.6.0	-	ea7580b298f1a90f2ae91e5936fdeb9ce6830936
 io.automatiko.quarkus	automatiko-operator	0.7.0	-	df9801055eff97bd9950fa6e7b76502a8f458515
@@ -2089,10 +2091,12 @@ io.spinnaker.echo	echo-scheduler	2.47.0	-	de026d11d7aed9ef3c7b5959f43b7165dcbde3
 io.spinnaker.echo	echo-scheduler	2.47.1	-	ed123ccd1d8c8772936ba2a7c3292002a3f6aa24
 io.spinnaker.echo	echo-scheduler	2.47.2	-	6f8a07adf01a262d2b4d2d07853d2c138937b257
 io.spinnaker.echo	echo-scheduler	2025.0-0	-	047eac89bf4d9cf0253be57c6666ef0c95c67bdc
+io.spinnaker.echo	echo-scheduler	2025.0-1	-	e7dd3cf9ebeccaf157a7fd3aabc1e89d48f83c5b
 io.spinnaker.echo	echo-scheduler	2025.0.0	-	f83c2398833d3241789a3115012335b9f73b3f3e
 io.spinnaker.echo	echo-scheduler	main-5	-	72084a39b8fda230ecfc83567ba752ef26ea8a7c
 io.spinnaker.echo	echo-scheduler	main-6	-	b6fe0f79c58169b8d4c373ce49c953de12ca4fd3
 io.spinnaker.echo	echo-scheduler	main-7	-	d2b6be802b54b3326963fcf60d55713ae15b6bb6
+io.spinnaker.echo	echo-scheduler	main-8	-	c9aa13203eb9c3b190c61635a8e128a165b2930e
 merlin-tutorial	publisher-api	1.0	-	260bb55a167e5375c53526372c7e3495559de13c
 net.afanasev	kson-annotation	1.1	-	a2c45785ed2e665c09f13b43b2f157a8cd96cec6
 net.stickycode.deploy	sticky-deployer-tomcat8	2.1	-	40a731fc990b533b75b180175f5482884c08df0d

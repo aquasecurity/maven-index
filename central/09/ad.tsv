@@ -427,6 +427,7 @@ com.palantir.cassandra	cassandra-all	2.2.18-1.190.0-rc1	-	7c5341d5ace695d0d45c48
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.0	-	574521a3fcae94910b732d4abff1e9bbe192e12a
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.0-rc1	-	d4d1ce0443f9d498072648c6a7d6a9756cbacde4
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc1	-	c740b81be41620054b50cf968fce1f5a153d8e87
+com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc10	-	e70ce800be45a12337bb22cbc3cbd7ed86c2326d
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc2	-	e7d32ea1d276175de9568babce5f488879633b39
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc3	-	cb66da86deb91d2d02cd0c1c7abd6678e1b4b37c
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc4	-	124d0884a42d92bcb02e6ca649982c2e25c556cf
@@ -434,6 +435,7 @@ com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc5	-	5ef2df4342daa0d81e7d7d
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc6	-	cc7bf0865d60af7e18af9c453a506e9cf38ce5cf
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc7	-	8d3cd20a36594d5e31941b3a271a9fac8859e3b2
 com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc8	-	1a873f504a42a3fbbd656ef6b7f6f6f611a0ec32
+com.palantir.cassandra	cassandra-all	2.2.18-1.191.1-rc9	-	8f7b35ac65667aa71d633e6294cb29e67c096680
 com.palantir.cassandra	cassandra-all	2.2.18-1.192.0	-	11426b5d3616738f671cf4d7d9f94ba9d94be2e3
 com.palantir.cassandra	cassandra-all	2.2.18-1.192.0-rc1	-	7cbcdd528a689ae510e546e463a57bddb1921769
 com.palantir.cassandra	cassandra-all	2.2.18-1.192.0-rc2	-	8ae679d73b8591f07c06c64d7c2c7a5dc5684592
@@ -501,6 +503,8 @@ com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc14	-	fa87beffa2405af2980ad
 com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc15	-	90784dc97a4b5583d5c9d50145eea27ac1a73369
 com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc16	-	1808e371800492d06418b1748543f9abfde01ef0
 com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc17	-	3e4e3b65cb99fa751b03f8b13ef54dabe97f841f
+com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc18	-	31515fe0e0b9cb2a6e1b836d8ff65db354c27868
+com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc19	-	424dafa5f2ab45bb42ed12bf9eb89a94fd665248
 com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc2	-	a6980cbd61ed87142a3c428d8054d50a881c4d5d
 com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc3	-	0819394629b35f70eb5ba002c7f7d7cb1412c8b5
 com.palantir.cassandra	cassandra-all	2.2.18-1.205.0-rc5	-	0dc016c17a9e7f0bc4bb2aea94b4e3b857ff150a
@@ -810,6 +814,7 @@ io.camunda.optimize	optimize-backend	8.8.0-alpha2	-	1c860d27137ec0dbf126c358cec8
 io.camunda.optimize	optimize-backend	8.8.0-alpha2-rc1	-	929ed7fd72c96910c37dcddece3a3af1d2d5092d
 io.camunda.optimize	optimize-backend	8.8.0-alpha3	-	61f4b4cd6a865de9ba3c488bca5d4c7df7601121
 io.camunda.optimize	optimize-backend	8.8.0-alpha3-rc3	-	49e7e6f4158b6cb7666c881a887965ebb2b62137
+io.camunda.optimize	optimize-backend	8.8.0-alpha4-rc1	-	f418f97802989f49339058ec6dfdc88286474bd8
 io.digdag	digdag-server	0.10.0	-	be6bbd2627a47f7f5eb79dd148c144640b2bef18
 io.digdag	digdag-server	0.10.1	-	d8be74ac5a7ae82ae6e37a89b8c98b10a3775b72
 io.digdag	digdag-server	0.10.2	-	d73d0a4d398a93d7cf0ed9f9231b76cdd21d915c
@@ -3287,6 +3292,7 @@ software.amazon.awssdk	cloudfront	2.31.29	-	f3a0379ebdab82abe2c79021b63a256a18c9
 software.amazon.awssdk	cloudfront	2.31.3	-	d457dffc51e57786a0dcd4f1ff9700b6fab4abf1
 software.amazon.awssdk	cloudfront	2.31.30	-	cd8f4cb209b3e38e532038c4d8fe2977c02b240a
 software.amazon.awssdk	cloudfront	2.31.31	-	071fa19787f7d8b094c9d0c6bd4faef68e475948
+software.amazon.awssdk	cloudfront	2.31.32	-	7179fec4ea97e6ab4346c57d98b2e988c1ae6b07
 software.amazon.awssdk	cloudfront	2.31.4	-	9031ac8e6dafcc87c7f20c105b8bd5c93b24d37c
 software.amazon.awssdk	cloudfront	2.31.5	-	7b91820889c067fc4a1e2224775433f20d3dcda7
 software.amazon.awssdk	cloudfront	2.31.6	-	2a476494dba4a317000bf684ddf08ab218fe9a13

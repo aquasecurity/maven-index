@@ -138,6 +138,7 @@ com.okracode.qconfig	qconfig-common	0.5.0-SNAPSHOT-1.0.0	-	ea30fba885ce8c1dfa9e7
 com.okracode.qconfig	qconfig-common	0.5.0-SNAPSHOT-1.0.1	-	da4939b66f3b599ef61bc9d4f3bf1678fe2ff6ca
 com.oracle.coherence.ce	coherence-grpc-proxy-common	14.1.2-0-0	-	f5f79dc9e2ada1777f126cacd8ce53236abf4bee
 com.oracle.coherence.ce	coherence-grpc-proxy-common	14.1.2-0-1	-	082a731d0de09ad94cb9c6ab1a7cbfa55c193dd3
+com.oracle.coherence.ce	coherence-grpc-proxy-common	14.1.2-0-2	-	bfaa7d42dd31212688267d50e0d753fadbf2c062
 com.oracle.coherence.ce	coherence-grpc-proxy-common	24.03	-	2fe8ec3d16f8a6d76fe7a07c522d13061e6a5536
 com.oracle.coherence.ce	coherence-grpc-proxy-common	24.03.1	-	f0fee17e8b4f779ec61aeaf13a07a8326565fbb8
 com.oracle.coherence.ce	coherence-grpc-proxy-common	24.09	-	da40987f2e611de7f2e738464a57591ebbd75834
@@ -145,6 +146,7 @@ com.oracle.coherence.ce	coherence-grpc-proxy-common	24.09.1	-	5a587c1740438307f1
 com.oracle.coherence.ce	coherence-grpc-proxy-common	24.09.2	-	3d9098519d51fcfeeac1d53d60c5da75e9b52083
 com.oracle.coherence.ce	coherence-grpc-proxy-common	24.09.3	-	410c97bebc25fd8fe1f6cad4da1587b6db03071c
 com.oracle.coherence.ce	coherence-grpc-proxy-common	25.03	-	f1d7550a4ac2b17bf92941a468418b7d9418466b
+com.oracle.coherence.ce	coherence-grpc-proxy-common	25.03.1	-	e5f990d53f5e082acaa75d7fa5fd1d946c8dbc90
 com.outr	reactify_native0.4_2.13	4.0.4	-	56db34a7daa2ec8d1693ff3430216de9c92bc3a6
 com.outr	reactify_native0.4_2.13	4.0.5	-	b5fc4d1f78e56194d154b501a8001bfa036d5d05
 com.outr	reactify_native0.4_2.13	4.0.6	-	7e445aa638debf6604d9eedde22135f4c77738a5
@@ -1099,6 +1101,8 @@ com.squareup.misk	misk-rate-limiting-bucket4j-redis	2025.04.28.203816-9b5ed38	-	
 com.squareup.misk	misk-rate-limiting-bucket4j-redis	2025.04.28.203816-9b5ed38	2025.04.28.203816-9b5ed38-test-fixtures	2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.squareup.misk	misk-rate-limiting-bucket4j-redis	2025.04.28.231800-8fc0296	-	e870750fa907a02da084cc440160f92d23bb9c28
 com.squareup.misk	misk-rate-limiting-bucket4j-redis	2025.04.28.231800-8fc0296	2025.04.28.231800-8fc0296-test-fixtures	2ad14aed781c4a73ed4dbb421966d408a0a06686
+com.squareup.misk	misk-rate-limiting-bucket4j-redis	2025.04.29.071058-3c3c9d2	-	e870750fa907a02da084cc440160f92d23bb9c28
+com.squareup.misk	misk-rate-limiting-bucket4j-redis	2025.04.29.071058-3c3c9d2	2025.04.29.071058-3c3c9d2-test-fixtures	2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.teragrep	jla_06	1.0.1	-	879e1beb02ef72143fb21705fccfabf3ebc6a5b9
 com.teragrep	jla_06	1.0.2	-	74beed6e1f6ba5d1c02678920d4627c53aac99d2
 com.teragrep	jla_06	1.0.5	-	8ec4e6c68de5a0ad8bb2aee668f3510a47370cf9
@@ -1718,6 +1722,8 @@ org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.38.0	-	93bc25a
 org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.39.0	-	5588fcd228ecb6e1dc181c6b2bd5e7dfd8eced01
 org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.4.1	-	258c85616eb16891ab9e6d791b20706a656e61ad
 org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.40.0	-	43f2b7f23d90229c3fded220d6bd9548e7835f48
+org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.41.1	-	fd85bf648329d2ad2b806b05a54dca0778521674
+org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.42.0	-	86e4cd1354957d15d73f96dc1f59814a369e4299
 org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.5.0	-	0f57a87766973fb5abe58d6aec88add44b6419b5
 org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.6.0	-	0267fc9f9b0b765cb4c9d1a9a06f1ff4d3c41556
 org.eclipse.dirigible	dirigible-components-ui-perspective-jobs	11.6.1	-	a3d93be0d93a3fff8e8cbb2f48c8f60ddb41bdb5
@@ -2020,5 +2026,6 @@ software.amazon.awsconstructs	lambdaopensearch	2.81.0	-	142327164c0630e7f4b66f35
 software.amazon.awsconstructs	lambdaopensearch	2.82.0	-	b40ee2d4ad5bbcc2cd3ecff0bfd97e60993f73a7
 software.amazon.awsconstructs	lambdaopensearch	2.83.0	-	6b55095a82256c1aff4a09dac4d29c8d8220075d
 software.amazon.awsconstructs	lambdaopensearch	2.84.0	-	b219c785e80ebb935ae148ea7890fef5cd9f7240
+software.amazon.awsconstructs	lambdaopensearch	2.85.0	-	923fd6a5af563e5f01ae91d7ef550ae6f935b916
 uk.co.nichesolutions.presto	presto-ml	0.143-CUSTOM	-	75df54471eea691c46179d45c13143bb6c10fb14
 uk.org.adamretter.shadoop	shadoop	1.0	-	aeb55d4a39a6a89526ed27ed073e97f5969ecde8
