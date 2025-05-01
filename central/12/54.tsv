@@ -8,6 +8,9 @@ cn.virens	virens-oauth2	1.3.6	-	412a873ca74283d53a00261e1a14b5119c4ce91d
 cn.virens	virens-oauth2	1.3.7	-	42f6f47b8ba524483dca357c0ca4ecfa6c68c1cc
 cn.virens	virens-oauth2	1.3.8	-	918620c0ee6a0195f54c35812bfc116fec60613b
 cn.virens	virens-oauth2	1.3.9	-	529b08b382acc8260f10d7aaaa1bf7ffc9d74c1f
+com.anymindgroup	zio-pubsub-serde-circe_native0.4_3	0.0.1-test	-	65d8930ba06ee60152882e8941b3ae9135f8e4e2
+com.anymindgroup	zio-pubsub-serde-circe_native0.4_3	0.2.1	-	46790ff07a439145ffa24c387c73888f4d57ccef
+com.anymindgroup	zio-pubsub-serde-circe_native0.4_3	0.2.2	-	ab7de912d96420a2e578513e9a2345812c7716e8
 com.arakelian	retry	3.1.0	-	0517b1898100eaa37c653d5bda0b6cf3072cc8fe
 com.arakelian	retry	3.2.0	-	47d06e6e5226bbd862911bd8de29fbd2f7df9958
 com.arakelian	retry	3.3.0	-	d496fc9a525f953fc4b1d72ab94e60e10401dd2d
@@ -130,6 +133,7 @@ com.dimafeng	testcontainers-scala_2.12	0.41.1	-	753bf983bf0f30252925a4adb2e91fa7
 com.dimafeng	testcontainers-scala_2.12	0.41.2	-	950474cab12c5be8b4a737654f57103f7d395886
 com.dimafeng	testcontainers-scala_2.12	0.41.3	-	ec0def058521aeb27d41fcd45e2f68fc5745c8ce
 com.dimafeng	testcontainers-scala_2.12	0.41.4	-	e1dbe761f1a13935389b215e070bde654e71ea48
+com.dimafeng	testcontainers-scala_2.12	0.41.5	-	a2746b3bcb3e15e65ddab320e41495bb9bc6fae2
 com.dimafeng	testcontainers-scala_2.12	0.41.8	-	ffa1b9d90107cce2a747841d66d48c9282aad6d0
 com.dimafeng	testcontainers-scala_2.12	0.43.0	-	4229daa7a5ba1b13b8ab4bf2d6858bb2036c0fb0
 com.dimafeng	testcontainers-scala_2.12	0.5.0	-	b8aeebe9b21540d34acab0b061e55bc387ed6f45
@@ -289,6 +293,8 @@ com.kumuluz.ee	kumuluzee-microProfile-2.1	4.0.0	-	18a903540237db4fc99383b37feb81
 com.kumuluz.ee	kumuluzee-microProfile-2.1	4.0.0-beta.1	-	f405be4fc3c8fa7fc103c98a7ccd549896aa8e8b
 com.kumuluz.ee	kumuluzee-microProfile-2.1	4.1.0	-	80c33090d574c65431117d1ff84c22ee606e5575
 com.meedoc	scalatra-auth_2.11	2.4.1	-	48b3bfc6d87cdc2a584212d704663145bfe420d8
+com.mysitex.sx.lib	db2jcc_license_cu	1.0	-	74cc584f38528f8a464e20cec71a923e284cd99c
+com.mysitex.sx.lib	db2jcc_license_cu	1.1	-	74cc584f38528f8a464e20cec71a923e284cd99c
 com.tencentcloudapi	tencentcloud-sdk-java-postgres	1.1.1	-	3be07944c3f05223057f22707f6384058e57a80c
 com.tencentcloudapi	tencentcloud-sdk-java-postgres	1.1.1	1.1.1-jar-with-dependencies	4afa423d4b536a2d1995f488016c81fd9ace7e86
 com.tencentcloudapi	tencentcloud-sdk-java-postgres	1.1.11	-	f806330aa8d115a243dbc41940b9fcef31b5f9ef
@@ -2120,6 +2126,8 @@ io.kamon	kamon-akka-http_2.11	2.7.2	-	777d7b6946429045d3f46d98345876c596786aff
 io.kamon	kamon-akka-http_2.11	2.7.3	-	2d1de092e163768797638cb65fc9baba952c6b4c
 io.kamon	kamon-akka-http_2.11	2.7.4	-	f4c6e11238b11c990d1b9a37ad90e7cf8d577aa3
 io.kamon	kamon-akka-http_2.11	2.7.5	-	77e54954d76d4337924415644dcf626d3a09c01a
+io.kamon	kamon-akka-http_2.11	2.7.6	-	5d7f900d4f08de76d46f0b1262254400546853ef
+io.kamon	kamon-akka-http_2.11	2.7.7	-	7d832e9e4c7dfc9b908bf992f43a500e282dc8ea
 io.lsn	spring-rest	2.1.0	-	5ab906f9ae8406f74591f6f9d8f5e471cd576106
 io.lsn	spring-rest	2.1.1	-	014c756c041cb480ff6d907c30554feb07ea86dc
 io.lsn	spring-rest	2.1.10	-	8d47cff8940ebfcc5aaf5f239a7d452a4d201cab
@@ -2216,6 +2224,7 @@ net.jextra	tucker	1.3.0-3	-	25713beee70afa9d7175ebf1759e853f4190b10c
 net.jextra	tucker	2.0.0-1	-	8ea28ee1f5c2664bbc13931d23176c3881a1fa41
 net.jextra	tucker	2.1.0-1	-	fd369801a9f9c5e66b96eb40efbec123dc41fdb2
 net.jextra	tucker	2.2.0-1	-	a5312565fc1d554d9ef344cee4d9358eb68d3921
+net.jextra	tucker	2.3.0-1	-	8388a4b4692627a6ec5e5b4cf77f3cba657d0bd2
 net.jextra	tucker	2.3.0-2	-	c7dd220bc667ce84937888bb0f1cd1de90c8c9ff
 net.kurobako	gesturefx-sample	0.7.1	-	e0b09284fb1e5bf787cc985d0af0eacfd5359ff6
 net.kurobako	gesturefx-sample	0.7.1	0.7.1-jar-with-dependencies	8b12717d51fd7fb19ac45e99c246a8d9485f3d68

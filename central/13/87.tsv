@@ -52,6 +52,7 @@ com.cerner.beadledom	beadledom-resteasy-genericresponse	3.4	-	42dcd9332796d40568
 com.cerner.beadledom	beadledom-resteasy-genericresponse	3.5	-	c08a880479677f04a76c474b1e104ff1d4c49817
 com.cerner.beadledom	beadledom-resteasy-genericresponse	3.6	-	c54f947dfaa9f662cc0d853835b2b97cfb30e11c
 com.cerner.beadledom	beadledom-resteasy-genericresponse	3.7	-	a1d6111a44f19fcdc234f0aaed147a62dcefef95
+com.cerner.beadledom	beadledom-resteasy-genericresponse	3.7.1	-	fd21dbc2b6227c9f877730b22517816dc3b30545
 com.cerner.beadledom	beadledom-resteasy-genericresponse	4.0	-	53238fc4c859695bba2d1df4285cf8358cbaef3c
 com.cerner.beadledom	beadledom-resteasy-genericresponse	4.1	-	3657141cbbf604d4895ae9a5d7ebbf07ce32f482
 com.cerner.beadledom	beadledom-resteasy-genericresponse	4.1.1	-	df4e7bb38d4143230db84ed6cd7c9495ed5c9bac
@@ -1806,6 +1807,12 @@ dev.kord.cache	cache-api-macosarm64	0.5.4	0.5.4-metadata	178203d9fe3ac53c0130f83
 dev.kord.cache	cache-api-macosarm64	0.5.5	0.5.5-metadata	83baa99580e1998f043c711dd2673f0753246d2f
 dev.kord.cache	cache-api-macosarm64	0.5.6	0.5.6-metadata	08ba3ed0d04e31fdde9bf5a52302f30c16518092
 dev.kord.cache	cache-api-macosarm64	unspecified	unspecified-metadata	31da7929c089b41bd6c0dcca6177811975a3f7f6
+dev.mauch.spark.dfio	serde-spark-3.3_2.12	0.0.10	-	ac1fbe68989f0e7fe40edf42a3acf3167c81fa88
+dev.mauch.spark.dfio	serde-spark-3.3_2.12	0.0.2	-	d8132ee7e6dd30240d28dde564b8578d8f903e67
+dev.mauch.spark.dfio	serde-spark-3.3_2.12	0.0.3	-	0ddb2bf13d6cacb4781749dbdf38944a5534be47
+dev.mauch.spark.dfio	serde-spark-3.3_2.12	0.0.6	-	21b62cadaa1667253774902fbdf9e4f96dfea526
+dev.mauch.spark.dfio	serde-spark-3.3_2.12	0.0.7	-	3f13f005a6ed3c51bf0aa39ab23ae207af635c6a
+dev.mauch.spark.dfio	serde-spark-3.3_2.12	0.0.8	-	9f49f5efb949ce4d0d007fa395b347a2fd5bd722
 dev.zio	zio-aws-emr_2.12	5.17.102.7	-	81d199c050820304dd9c5f7d29c0e52b58ad85db
 dev.zio	zio-aws-emr_2.12	5.17.102.8	-	1b30f21f4660e69129328d1f89600d6dd58c98ae
 dev.zio	zio-aws-emr_2.12	5.17.102.9	-	b5a2e8eeff3eede5fd83214b180e5519ff4e220a
@@ -2403,6 +2410,7 @@ org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-JDK17-M10	-	8b
 org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-JDK17-M5	-	0641a9de273599078bfbe15e6935da532fd6b675
 org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-JDK17-M6	-	7c581af2d8ce2548ff49cbd27c0a29a720dfa3dc
 org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-JDK17-M7	-	996cfd6084ce075bafb884d78cb0a8f885b33b7f
+org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-JDK17-M9	-	8344edb5bc918f65bec41fed3b2eecbaaffc2ddc
 org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-M1	-	13281267f65d166a9eae88ba592a9658df0596ba
 org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-M10	-	592dcb055f7caf580120e0a8671eaf03db299804
 org.glassfish.main.flashlight	flashlight-extra-jdk-packages	8.0.0-M11	-	ac209a10891899f74cb42a108615109ade0b2414
@@ -2548,6 +2556,9 @@ org.keycloak	keycloak-tomcat7-adapter	9.0.3	-	3c102a715b0d41f13e111d659e9c623e31
 org.mvnpm.at.radix-ui	react-roving-focus	1.0.4	-	0b9bb43f377ce8d2e738c46f70d81193ccec643a
 org.mvnpm.at.radix-ui	react-roving-focus	1.1.2	-	0b8dd85e4748c3b44b3c058c7fd75d1ec849e50e
 org.mvnpm.at.radix-ui	react-roving-focus	1.1.3	-	944439ead993d67df8e2ca990258a26545a678c2
+org.mvnpm.at.radix-ui	react-roving-focus	1.1.4	-	17072e869349a8d567e3cabea696f69ca8c59eac
+org.mvnpm.at.radix-ui	react-roving-focus	1.1.6	-	382fe1734f1fa518e1d3b0269f97914534532f04
+org.mvnpm.at.radix-ui	react-roving-focus	1.1.7	-	40d104b97553699bb5dfa64a1ace5af0c6186606
 org.octopusden.octopus.automation.teamcity	octopus-teamcity-automation	1.0.10	-	ad28464ca73021799f034296e97e63f61f8f4199
 org.octopusden.octopus.automation.teamcity	octopus-teamcity-automation	1.0.10	1.0.10-all	4f30cb50a0b72b0c158d35c071dbe7cd910d9928
 org.octopusden.octopus.automation.teamcity	octopus-teamcity-automation	1.0.11	-	285a797850ec705e7d6ffe54d6eab4bc3f705382

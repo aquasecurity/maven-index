@@ -383,6 +383,16 @@ data.org.wso2.carbon.commons	org.wso2.carbon.databridge.agent.thrift	4.4.8	-	740
 data.org.wso2.carbon.commons	org.wso2.carbon.databridge.agent.thrift	4.4.9	-	c982086d61ad18ee6efc20f815f11373ccca8b4e
 de.jensklingenberg.ktorfit	ktorfit-lib-light-ktor-3.0.0-beta-2-watchosarm64	2.0.1	2.0.1-metadata	073bd7fe191b49f6d5c3c08f29bb865c78104cf6
 de.jensklingenberg.ktorfit	ktorfit-lib-light-ktor-3.0.0-beta-2-watchosarm64	2.1.0	2.1.0-metadata	5f5f85dfe0f9be3effec1defa80a89de6e41d821
+dev.scalafreaks	odin-json_2.13	0.14.0	-	fec3d4b2351c75e011e2cb50f972f05f01aed2f1
+dev.scalafreaks	odin-json_2.13	0.14.0-RC2	-	45ff8dc91b6c0bdc22e9200fd915fc148b5e1110
+dev.scalafreaks	odin-json_2.13	0.15.0	-	7d540041c67b45e256a643a8f9828edf7e5c529d
+dev.scalafreaks	odin-json_2.13	0.15.0-RC1	-	db08d39903e937722ac4a15006f9019be02cd58d
+dev.scalafreaks	odin-json_2.13	0.15.0-RC2	-	112bcbc85f325e1a025b7e6d7e32da2a8eb74814
+dev.scalafreaks	odin-json_2.13	0.15.0-RC3	-	782c4e197629e1456c37c1afd9211644002eaf13
+dev.scalafreaks	odin-json_2.13	0.16.0	-	45e4b812c188c5153c8e31020ed7b03534497640
+dev.scalafreaks	odin-json_2.13	0.17.0	-	d296940165b6e1936cba4ed4de5a128de8a59e05
+dev.scalafreaks	odin-json_2.13	0.17.0-RC1	-	0d005f4cb3621c1a0e6fae4faa0cddca70c6149c
+dev.scalafreaks	odin-json_2.13	0.17.0-RC2	-	42fbc9cd9ff8af6d26c96df7afdd2b663d8c82d0
 dev.zio	zio-aws-applicationcostprofiler_2.13	5.17.102.7	-	56830ff49317ebd4b01d537831f1e042afddaaf0
 dev.zio	zio-aws-applicationcostprofiler_2.13	5.17.102.8	-	d57431f220a8cc9b7e9f80f111f15d2915d3cce9
 dev.zio	zio-aws-applicationcostprofiler_2.13	5.17.102.9	-	0b378b1f16ba702ea7a39360588a98bfb229b90d
@@ -1546,6 +1556,7 @@ io.streamnative	jclouds-shaded	3.0.3.2	-	dd2bd04d2fb91df328b72fc29b706d5880a5ebb
 io.streamnative	jclouds-shaded	3.0.3.3	-	19ea0bad6f6eb42ebeed0d5da34b50e5c541736d
 io.streamnative	jclouds-shaded	3.0.3.4	-	e1840878ec50b861429342dddb93b68fca095718
 io.streamnative	jclouds-shaded	3.0.3.5	-	d7dabe2dc6f53eef51a43e405810061d444db37f
+io.streamnative	jclouds-shaded	3.0.4.1	-	7604d2b5fb1c8995a5bd272208ecf11a4eec7339
 io.streamnative	jclouds-shaded	3.0.4.2	-	1faef23a6d72e99c28ad39c2204d5bb316850806
 io.streamnative	jclouds-shaded	3.0.4.3	-	a83681d2e184bad291f3dd1409f4c005c9042476
 io.streamnative	jclouds-shaded	3.0.4.4	-	b21a66b6eeb4a7f0c08ed80ce88915ef2d174dcc
@@ -1596,6 +1607,7 @@ io.streamnative	jclouds-shaded	3.2.1.1	-	d26500e6769292f089d2c374413601e637d4dbf
 io.streamnative	jclouds-shaded	3.2.1.2	-	5495c3c63dfd0733bae081796d43333f862d4a9f
 io.streamnative	jclouds-shaded	3.2.1.3	-	ec3c04e8ee03d7f42aec25f91bfab33bda6baac2
 io.streamnative	jclouds-shaded	3.2.1.4	-	efb2d11358c764af7db4bdaae0f77fec853f371b
+io.streamnative	jclouds-shaded	3.2.2.1	-	e13842223e7c8b95846774ff0129711589740c49
 io.streamnative	jclouds-shaded	3.2.2.2	-	9ea77d0922f3698b41712d5eaac2fa8de3022cfb
 io.streamnative	jclouds-shaded	3.2.2.3	-	bf6c9b3bce92e9ab2fdbdeb4f9f7b1406830c7bc
 io.streamnative	jclouds-shaded	3.2.2.4	-	8964ccc99e459ae897c891a4689a8cce5f6cf2f8
@@ -1639,6 +1651,7 @@ io.streamnative	jclouds-shaded	3.4.0-SNAPSHOT.ursa0815	-	39d145fde899e479cc9769d
 io.streamnative	jclouds-shaded	4.0.0-SNAPSHOT.ursa	-	5a56e64448b9bddb9f5bd427574691610b3e26c2
 io.streamnative	jclouds-shaded	4.0.0.0	-	890a3a9edfacb6ea2ad0fc03a0ba9df0f85d6c6b
 io.streamnative	jclouds-shaded	4.0.0.1	-	2d0fc0d9185b0adc70e70d72d2ba67014d9fd821
+io.streamnative	jclouds-shaded	4.0.0.10	-	856a59a365f21e15110213306ddd8684dc660f5c
 io.streamnative	jclouds-shaded	4.0.0.2	-	b793ca44d0b4226c11d1454ac55598739c32dc9d
 io.streamnative	jclouds-shaded	4.0.0.3	-	753ba91b0c902397eb99e1c4a58fb4c6a51e20e7
 io.streamnative	jclouds-shaded	4.0.0.4	-	1b94a5012f1d4102b3054f14be24f981909b6655
@@ -1790,6 +1803,7 @@ net.sc8s	lagom-server-circe-testkit_2.13	0.94.0	-	97556a0ff7ccf2b1f326f5b4883b7c
 net.sc8s	lagom-server-circe-testkit_2.13	0.95.0	-	59a59cab09fa40b6fcc478b00264d4bab0ea6936
 net.sc8s	lagom-server-circe-testkit_2.13	0.96.0	-	c34a15fec69854a86b7744899a0c8407ae43e105
 net.sc8s	lagom-server-circe-testkit_2.13	0.97.0	-	93a5bd911f77c61eacaf96ab07bb3dde42700fa3
+net.sc8s	lagom-server-circe-testkit_2.13	0.98.0	-	40e69879fd52c9fec84092cde616781361102061
 net.sc8s	lagom-server-circe-testkit_2.13	0.99.0	-	6c999cde1dc244227a34de05abb437fe565e0736
 org.apache.shenyu	shenyu-plguin-transform	2.6.0	-	d010ed538f2027b5c2810a601aec0c70409d0622
 org.broadleafcommerce	ecommerce-archetype	1.5.0-GA	-	6cd38c8a281095a3d0f0a900d353b08501a552a2

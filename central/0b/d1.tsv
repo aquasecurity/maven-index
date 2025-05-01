@@ -301,6 +301,7 @@ com.daml	ledger-api-akka_2.12	1.9.0-snapshot.20210111.6034.0.7855b023	-	b566ec36
 com.daml	ledger-api-akka_2.12	1.9.0-snapshot.20210112.6040.0.7171cb38	-	b566ec366e046199b3bb6fb8f262b0d4ca62e908
 com.daml	ledger-api-akka_2.12	1.9.0-snapshot.20210113.6060.0.9ed787cb	-	513f7ce8512f7f6e8e447ebefb5917929f5d3d48
 com.daml	ledger-api-akka_2.12	1.9.0-snapshot.20210119.6062.0.5b3663a5	-	513f7ce8512f7f6e8e447ebefb5917929f5d3d48
+com.eff3ct	criteria4s-sql_2.13	0.9.0	-	f1f6ba09ece3b67fb6c0807e341bc83aea1dd7d6
 com.floragunn	search-guard-ssl	2.0.2.5	-	fb0894a00fe1b4f18c8c4dbec87036a8e03dd53e
 com.floragunn	search-guard-ssl	2.1.0.0	-	b769454cd09398059344e69f505bd5162ac22ef6
 com.floragunn	search-guard-ssl	2.1.0.1	-	ff6f136437ac28906890d5fc96e875ccee86740b
@@ -702,6 +703,7 @@ com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.28	1.0.28-source
 com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.29	-	ec2832374f75a63a3fcf34d36a8595e1349b549c
 com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.29	1.0.29-sources-commercial	af0ae4bcaf48672c288433e1b1154151bfdd5e63
 com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.3	-	2a478dabb9f359468a91b0c42fea68364dbbb069
+com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.30	-	1ae9dcadb1349fcbd94b8854f72b85ae24ebf0df
 com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.31	-	a922e78d2d530485202edfcd3eae7f9f23b13d82
 com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.31	1.0.31-sources-commercial	62b34e784c4ce5f3b4b258d5cbb4a5d7774d3574
 com.liferay	com.liferay.message.boards.layout.set.prototype	1.0.32	-	9f4ca7b2f6cbc270b76f0cd5d05093f88d9da3e9
@@ -763,6 +765,7 @@ com.liferay	com.liferay.message.boards.layout.set.prototype	2.0.7	-	87ca351c9b54
 com.liferay	com.liferay.message.boards.layout.set.prototype	2.0.7	2.0.7-sources-commercial	baf53333a262fc05faa2558b6fbcc474377e8c2c
 com.liferay	com.liferay.message.boards.layout.set.prototype	2.0.8	-	16037960849528a1ae4494a38acc0a76dbe4fe58
 com.liferay	com.liferay.message.boards.layout.set.prototype	2.0.8	2.0.8-sources-commercial	00a0d785b3f5659b9766e301d0159b835ce7770c
+com.liferay	com.liferay.message.boards.layout.set.prototype	2.0.9	-	d6cef61be2782282fabd2b3894102514f625d300
 com.liferay	com.liferay.message.boards.layout.set.prototype	3.0.0	-	0b305124256792c850266a89637e020bc5804673
 com.liferay	com.liferay.message.boards.layout.set.prototype	3.0.0	3.0.0-sources-commercial	e36a57bf2e31be19eb7fd7bf68f43858f76879a2
 com.liferay	com.liferay.message.boards.layout.set.prototype	3.0.1	-	ff9a967720726faace3177c7e280cbf36d9f40ad
@@ -1410,6 +1413,7 @@ io.quarkus	quarkus-grpc-cli	3.17.1	-	925b393a95ad66d3c7c45dfe18e6b724914841f3
 io.quarkus	quarkus-grpc-cli	3.17.2	-	8ddbd1b272b3736dbc6c71c177047f67e255e9e5
 io.quarkus	quarkus-grpc-cli	3.17.3	-	09031b92f0d5b1accafa614f5a443169bbc2353d
 io.quarkus	quarkus-grpc-cli	3.17.4	-	7be13361e505d86b6401c18c64131fe9e87ecfd8
+io.quarkus	quarkus-grpc-cli	3.17.5	-	1ef8089a4960087d5ea476b0597529ff4e3041a1
 io.quarkus	quarkus-grpc-cli	3.17.6	-	fce1f9bb6b3780a2836f85b1bf2aa02eed7a7f20
 io.quarkus	quarkus-grpc-cli	3.17.7	-	51246011958a90120c8e2c1436d69c6cc8ef4060
 io.quarkus	quarkus-grpc-cli	3.17.8	-	d0b12da43ded2d6fcc16f0ea67d7e1bcee12c77c
@@ -1665,6 +1669,7 @@ io.quarkus	quarkus-picocli-deployment	3.17.1	-	ff2c1305d4cddb757d20fd506babfdec8
 io.quarkus	quarkus-picocli-deployment	3.17.2	-	6bd74bc660b9066ae5f1ca960a8513562effe0ef
 io.quarkus	quarkus-picocli-deployment	3.17.3	-	423f0514575d07e3f4e9c935618cfc6c64e1f207
 io.quarkus	quarkus-picocli-deployment	3.17.4	-	176f905749f392435a9e3df6c3dba6e3180419ac
+io.quarkus	quarkus-picocli-deployment	3.17.5	-	e6043bf8a377d3fba1dcee7788692d3060c177b8
 io.quarkus	quarkus-picocli-deployment	3.17.6	-	c6d5a566f601494f3a89d2fbb4855005674cd5ff
 io.quarkus	quarkus-picocli-deployment	3.17.7	-	31382475e163edac80ac1f8a3e7ec3d41d702d1a
 io.quarkus	quarkus-picocli-deployment	3.17.8	-	85056f08e102beb8241a2e85f9d3145595315e1f

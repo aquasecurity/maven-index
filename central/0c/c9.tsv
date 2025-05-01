@@ -64,6 +64,7 @@ com.aliyun	xtrace20190808	1.3.1	-	42afc8b8cb5467519f907d9b280843b65eb2c7f9
 com.aliyun	xtrace20190808	1.3.1	1.3.1-shaded	f7a2676b4eade6dc098d881110819265772ce3e7
 com.aliyun	xtrace20190808	1.3.2	-	5feaf693b8270a14257ffa2f5a25f4b39083205a
 com.aliyun	xtrace20190808	1.3.2	1.3.2-shaded	241abe20772a796bce3dd147898b7d440b0116c1
+com.ancientlightstudios	simplegen-dataformat-xml	2.1.0	-	851b3627758af58c0b83a846282d20357a081ce9
 com.ancientlightstudios	simplegen-dataformat-xml	2.1.1	-	4c9ce015a2254e4f714356f7b3f1470008f5bff4
 com.ancientlightstudios	simplegen-dataformat-xml	3.0.0	-	81e55e358e14e08bdbc2ee84c6510cce3124b395
 com.ancientlightstudios	simplegen-dataformat-xml	3.1.0	-	8c6dc4e0a617b8ed01d7840f8726b943c0ea965a
@@ -236,6 +237,7 @@ com.jessecorbett	diskord-bot-jvm	5.5.1	-	0e105a572bee24e3188d17e9fa4e16c1c93f245
 com.linkedin.dagli	embedding-classification	14.0.0-beta1	-	eeb4a17e5e9aef51a0786bbf88d2f4725dd95798
 com.linkedin.dagli	embedding-classification	14.0.0-beta2	-	38cb4bc5015265b2eb11f3b71602b074e07b16ce
 com.linkedin.dagli	embedding-classification	15.0.0-beta3	-	6dd5cff7d933f8d6eef0ff1b3da7f79d3474ed09
+com.linkedin.dagli	embedding-classification	15.0.0-beta4	-	24de6a2558ab688b5045caa561dfaba8aa753745
 com.linkedin.dagli	embedding-classification	15.0.0-beta5	-	041be11db1c4a7e6262748157f6bfddf3cfd3c9f
 com.linkedin.dagli	embedding-classification	15.0.0-beta6	-	b1c4f68e923986b348a0e50294ffdf544c61e779
 com.linkedin.dagli	embedding-classification	15.0.0-beta7	-	5f4cdc707448401a7536bf06555c936e27837bd0
@@ -786,6 +788,8 @@ dev.zio	zio-aws-proton_2.12	7.31.6.3	-	69327a8e791a96ed42d356633ad1e11e3790fc32
 dev.zio	zio-aws-proton_2.12	7.31.7.1	-	7923d4b1db5190798a3cd6a04e3d94dfe1bf8fec
 dev.zio	zio-aws-proton_2.12	7.31.8.1	-	14dedc99893a282584beb3cb830dbe281e53d976
 dev.zio	zio-aws-proton_2.12	7.31.9.1	-	7b948008e44387f3930cd44fc6adcc136cc4cf95
+io.github.dotty-cps-async	cps-async-connect-zio_sjs1_3	1.0.0	-	ecc2554359b916155d3ea368a401adcb27ef4c9b
+io.github.dotty-cps-async	cps-async-connect-zio_sjs1_3	1.0.1	-	1a0fef2e918f6e156469f8dc455647efd6d229bb
 io.github.javaf	extra-boolean	0.0.2	-	f9b07132ae04241ea38d1b2ccf80636669b98f39
 io.github.javaf	extra-boolean	1.0.0	-	a19eb60a44caba1d5110bbe9664715ebdedd9c84
 io.github.javaf	extra-boolean	1.1.0	-	9c05b9c67597e89db3f9406f7a2608d58f2488e7
@@ -803,6 +807,11 @@ io.github.javaf	extra-boolean	1.3.1	-	17a28d2f583636eb2356c62ca015717eea0f9675
 io.github.javaf	extra-boolean	1.3.2	-	4911e4542f0826c9847fd97844546586ed30005c
 io.github.javaf	extra-boolean	1.3.3	-	f4c81053a3b695e9902cfecb83a981d28b44a90d
 io.github.javaf	extra-boolean	1.3.4	-	c6f35bee24fa8ac36006d04e54ec52b252334dde
+io.github.jirihausner	zio-schema-circe_2.12	0.1.0	-	7dc56969f35481a14771ebcebec8f54a73a535c1
+io.github.jirihausner	zio-schema-circe_2.12	0.1.1	-	1bc5b19186ad0d539dae4c3315db9b3c0c1901c9
+io.github.jirihausner	zio-schema-circe_2.12	0.2.0	-	9a961d85af9a0786707915166de88dc6648693f4
+io.github.jirihausner	zio-schema-circe_2.12	0.3.0	-	ac35348d1e6b99dd5624c64f4f76d7e584700072
+io.github.jirihausner	zio-schema-circe_2.12	0.3.1	-	19a2e3db0de91180716348d11a98bda679696c53
 io.github.vigoo	zio-aws-dynamodb_2.12	2.14.3.0	-	5b8d12dd8d9b59b2d83e46e8f615de06416ed6e8
 io.github.vigoo	zio-aws-dynamodb_2.12	2.14.7.0	-	085027e194d7965cd5e6ed2fc6d49c49f6106a58
 io.github.vigoo	zio-aws-dynamodb_2.12	3.15.16.3	-	1ae03b58bcbc998ddd6fb28b23be002ab3695a0c
@@ -1307,6 +1316,7 @@ io.quarkus	quarkus-oidc-common-deployment	3.17.1	-	8351973e9a4c8084fe90d0435533d
 io.quarkus	quarkus-oidc-common-deployment	3.17.2	-	65aae143e1e64575b5b7862f7fdb4b2944139cd6
 io.quarkus	quarkus-oidc-common-deployment	3.17.3	-	fdc4879a1042d43e1fa1d7a15d664b95bab62109
 io.quarkus	quarkus-oidc-common-deployment	3.17.4	-	a8ee4fde31bb66968f6d076670b2e4134885b6ad
+io.quarkus	quarkus-oidc-common-deployment	3.17.5	-	4df2ec415e09e9032f74ee9f8773a4e9e5a7a94c
 io.quarkus	quarkus-oidc-common-deployment	3.17.6	-	939607cc97ff13bfeada266af09a0f640e1381b6
 io.quarkus	quarkus-oidc-common-deployment	3.17.7	-	8f801d473ffdb09280cf272a8bfe971fa671ad29
 io.quarkus	quarkus-oidc-common-deployment	3.17.8	-	dd8d41963225aad69bcf0bec6a23c8fb903bc96f
@@ -1679,6 +1689,7 @@ org.mobicents.resources	restcomm-slee-ra-map-docs-sources-restcomm	2.8.34	-	89d6
 org.mobicents.resources	restcomm-slee-ra-map-docs-sources-restcomm	2.8.35	-	f50880cc13462e2f7ea5da000b983c7b39bbd1af
 org.mobicents.resources	restcomm-slee-ra-map-docs-sources-restcomm	2.8.36	-	25e901dc6fcc5d85dff329908eafe4e24926241c
 org.mobicents.resources	restcomm-slee-ra-map-docs-sources-restcomm	2.8.37	-	7edf8b2b04dbe423bc1bca2d46cd815c9f29481f
+org.mvnpm	jsc-android	250231.0.0	-	d59da2e804916e48d89ff86a176d02597d5440eb
 org.smyld.main	smyld-main-lang	1.0.1	-	eb5b3d6bd98557338142697523f9e0351f6d107b
 org.smyld.main	smyld-main-lang	1.0.2	-	afcc0f37a162ddd98dc02aae08a9b76f625ccdd6
 org.smyld.main	smyld-main-lang	1.0.3	-	f5602a3b99093764d47b1605c4102317811391f9

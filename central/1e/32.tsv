@@ -1039,6 +1039,7 @@ io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.19	-	74edd87dff3569a9924
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.2	-	1aeae797cf4871b8ecdc00c182617c7df22929a7
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.20	-	32919060c71344a7d5c5a7ff92f7101dff2870cb
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.21	-	1b017a4791a8f031ee9bd2702bb1d081c0b2bebc
+io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.22	-	e5193a9c752307f3ecc2c5d283b6fb44a94059fd
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.23	-	ac736f30afe1c3ed609ae8640d4156f8f63c391e
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.24	-	71ff8ff59023960d8b13888947bbc3bda46abec2
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	3.21.25	-	cf50534340f6b2f272ba81da2e3607631561c7b2
@@ -1101,6 +1102,7 @@ io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.11	-	22d15f8ac0addc0315bd
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.12	-	797a638e07b308bf5b6caf8a507b769fbeac7a39
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.13	-	c76d5280fa2d163f193c13e987ec37063bf4db3c
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.14	-	33bc76e1262ee0b968b39a0f7760770eaf9057ab
+io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.15	-	0a0688f6473b2a1dd939eee0b0c0a329d4c681c2
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.16	-	e9462a159bdb4fec085caf7cbcd78eea81676faa
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.17	-	0715330287160fe7a5cb5878ad8ba582e7715de9
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.0.18	-	2c4d59a1a8e8890601368f6343db1ac37104daa2
@@ -1128,6 +1130,7 @@ io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.14	-	8a965c7757319ad90eed
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.15	-	00ac806fdff8a1676c0f35dacfa199bcf0cedd58
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.16	-	1ba7f88fd68c5d5d73f8d54628d24957159ea0b0
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.17	-	6385c7322d873f47666056d60411048a02ad9ebf
+io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.18	-	d88994dba6afa4bbd2c3259428ef548f6ef0a11a
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.19	-	c83e8029517dedc60348cc0e6b560f474f04db61
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.2	-	297bfbde49229482b624ee3a61a897c840da17d8
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.1.20	-	219da3c52f3a1ebf0ea6a7dfaa914e3bc1c64e20
@@ -1188,8 +1191,10 @@ io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.2.4	-	2bb2beb9ab5f3a45382a4
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.2.5	-	31df50da0c988dc83d57dc4195b808495f253028
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.2.6	-	b2fa38078f7bef3e66fc6283292ae8b9f0efbed0
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.2.7	-	cec77b3a3ef1fabbcd138010c2ce18f4ef887e47
+io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.2.8	-	7fa209b7f8df9d9edad723b1ccb8e2f9c541f8bf
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.2.9	-	cf3b279c674eedf41eb4db4bf592b1d447d20d88
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.3.0	-	53c06e0081c8bf70e84fa328935489d38cda9304
+io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.3.1	-	306bcf977b859a56e059e87b8a28c6a572db1d15
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.3.10	-	2cb7947a47a14fc9429ac8d2ed81fb118a2fcc78
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.3.11	-	2655e17aed7f17cc8cdc23f8a7def26646d2e97e
 io.gravitee.am.gateway	gravitee-am-gateway-reactor	4.3.12	-	9953fce95ac920a7dfc2965290de44a2c9ce328c
@@ -1295,6 +1300,8 @@ io.kamon	kamon-apache-httpclient_3	2.7.2	-	ff8d4529101525daec181828bc39c467de64d
 io.kamon	kamon-apache-httpclient_3	2.7.3	-	85a0ad4775d2be685a1c6027815597ccbe4f57c3
 io.kamon	kamon-apache-httpclient_3	2.7.4	-	b37e50eb9aa81ce07c080183a430fb80a7095200
 io.kamon	kamon-apache-httpclient_3	2.7.5	-	08ede44f2d80ab79bb7dd29a43de70727dbe622f
+io.kamon	kamon-apache-httpclient_3	2.7.6	-	001073dd4c91431f745cfe0f91832bdf19029bc7
+io.kamon	kamon-apache-httpclient_3	2.7.7	-	a85eb0356d1ffd70028e7a9fb5c158e90f8f1a10
 io.kanaka	play-monadic-actions-scalaz_7-2_2.12	2.1.0	-	c3a6334dc2828b776137aa34eda13eac3680b129
 io.kanaka	play-monadic-actions-scalaz_7-2_2.12	2.2.1	-	b1f71f5d9b9f259425599bc0151f6910bded72bd
 io.leopard	leopard-email	0.9.11	-	726d1febce072d113f473ec9778d213d2682f1b2

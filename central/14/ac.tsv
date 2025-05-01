@@ -56,6 +56,7 @@ com.finbourne	luminesce-sdk	2.0.123	-	9610e649332abe9eebbb635e083d73ee834737c2
 com.finbourne	luminesce-sdk	2.0.124	-	f8c1b075401797aef7d41e5ad4d24fe8e54caca6
 com.finbourne	luminesce-sdk	2.0.125	-	e51bcc1f24a6eaf0e7a0b37f521844cb23dd2344
 com.finbourne	luminesce-sdk	2.0.126	-	9e180a749ed86aae87b7c361930e7a53ff420e90
+com.finbourne	luminesce-sdk	2.0.127	-	7bc4a4f342bb80824fccd37a65b751955bf4e052
 com.finbourne	luminesce-sdk	2.0.128	-	e606ea5c08d5b6233262627e1e211109fbe3798a
 com.finbourne	luminesce-sdk	2.0.129	-	9c94b467a543d426fa822ddabfdb21a789358427
 com.finbourne	luminesce-sdk	2.0.13	-	35df8e14cfffb713838e8b1d77beaec32b0d4128
@@ -241,6 +242,7 @@ com.finbourne	luminesce-sdk	2.0.3	-	1ff607e3f8d8d98ed02e688b4852e0792c144a14
 com.finbourne	luminesce-sdk	2.0.30	-	005d18732ae5944ca2adea3894b95cf41be4eb1c
 com.finbourne	luminesce-sdk	2.0.300	-	abe11278f1036a3846bcc3dd3a5de7a8e456d6c1
 com.finbourne	luminesce-sdk	2.0.301	-	c7dcf09e1dca813d546f34beca6a6f9a2a087064
+com.finbourne	luminesce-sdk	2.0.302	-	bd9cbbe08e2fc7d58e85e32391e52825231675a3
 com.finbourne	luminesce-sdk	2.0.303	-	9085a3e420b68316ab715e9823c6f9be49527727
 com.finbourne	luminesce-sdk	2.0.304	-	9f5dec27be5df521ac263770208939889650ec14
 com.finbourne	luminesce-sdk	2.0.305	-	9aa2c3b1e0e896aaf47c79dd94fb81557d28c5ac
@@ -837,6 +839,7 @@ dev.zio	zio-internal-macros_2.12	2.1.10	-	3f6ff0df684c396b441aee794deb4f17b758b1
 dev.zio	zio-internal-macros_2.12	2.1.11	-	71c5d83c79213377cc89281a2b925a58fcbf979b
 dev.zio	zio-internal-macros_2.12	2.1.12	-	109895435845d9b245c2237611da7983f4d0b175
 dev.zio	zio-internal-macros_2.12	2.1.13	-	71757a150aa544cb5fd8390a0c78aa002afe8e6b
+dev.zio	zio-internal-macros_2.12	2.1.14	-	3482633bc8af37525b1dd476041b08d2de08e1a3
 dev.zio	zio-internal-macros_2.12	2.1.15	-	4fb75ef3752dd65958a4c95870ad4c8fa43e00d9
 dev.zio	zio-internal-macros_2.12	2.1.16	-	1ee6b7e21b9a8407803de2473cbe828dd5743964
 dev.zio	zio-internal-macros_2.12	2.1.17	-	e207e1ee84f9c70faf9a8107eacd32473316a838
@@ -875,6 +878,13 @@ io.github.cdklabs.cdk_cloudformation	awscommunity-s3-bucket-module	1.4.0-alpha.7
 io.github.cdklabs.cdk_cloudformation	awscommunity-s3-bucket-module	1.5.0-alpha.7	-	dfe8193d47fbbabd953e8faf1075a57a5fb5e3c8
 io.github.cdklabs.cdk_cloudformation	awscommunity-s3-bucket-module	1.8.0-alpha.7	-	8a6e91d71180f6229fde266caed3b08825cc6b0e
 io.github.cdklabs.cdk_cloudformation	awscommunity-s3-bucket-module	1.9.0-alpha.7	-	298f68ba4798c6cde117ab453dadcbb1b78fe2ea
+io.github.m3is0	jsonrpc4cats-circe_native0.5_3	0.2.0	-	7aa3c53cae2655e007376933377108dd5304ead7
+io.github.m3is0	jsonrpc4cats-circe_native0.5_3	0.3.0	-	39051244e38ca394559eb6c3211fb1d1b1c9c890
+io.github.m3is0	jsonrpc4cats-circe_native0.5_3	0.4.0	-	d7d509818f659ff2fe12b01881c9969b4b7879a7
+io.github.m3is0	jsonrpc4cats-circe_native0.5_3	0.5.0	-	d409eb99e7f937b1fd463737fd292160865e41a0
+io.github.m3is0	jsonrpc4cats-circe_native0.5_3	0.6.0	-	5cefb0fb3c917267ebec3e318d1f2eb3ae7c1264
+io.github.m3is0	jsonrpc4cats-circe_native0.5_3	0.6.1	-	96e28d341e8c06ea9fa3979f93f4bf089836aef7
+io.github.m3is0	jsonrpc4cats-circe_native0.5_3	0.7.0	-	c496ee4feb8e2426cb713530ea0b1b76e9d60d6c
 io.github.vinceglb	confettikit-iosarm64	0.1.0	0.1.0-metadata	07dd45a1666957c823ca63502fe3790ffb8a0276
 io.github.vinceglb	confettikit-iosarm64	0.2.0	0.2.0-metadata	9c03f793e729764540a7d5626a0692fffd5f9002
 io.github.vinceglb	confettikit-iosarm64	0.3.0	0.3.0-metadata	32bbc486819e62a5032f50790085e6a2a0800e89
@@ -940,6 +950,8 @@ io.kamon	kamon-jdbc_2.13	2.7.2	-	396842203648515f17ba04e2b6e5d167394734b6
 io.kamon	kamon-jdbc_2.13	2.7.3	-	906c4e7db0c43d32a408bbd24c8aea96afb779bc
 io.kamon	kamon-jdbc_2.13	2.7.4	-	a16f04de092ee4e3081178b910a2ab3e123fcb83
 io.kamon	kamon-jdbc_2.13	2.7.5	-	80cc84950de9f4cc48ecf2d44006666061b329cd
+io.kamon	kamon-jdbc_2.13	2.7.6	-	3af9ebaf096b285a643e73650852ee5328129aeb
+io.kamon	kamon-jdbc_2.13	2.7.7	-	dbb1854e096cd54bdbe185d27c2ca98efe31af00
 io.mycat.bigmem	mycat-bigmemory	0.0.1-RELEASE	-	e4641a623f7a99d27f4ce26d8b52b28c9f5660cf
 io.vertx	vertx-rx-java2-gen	3.6.0	-	eb9149e0c6f73b3ad94de35e8890b815cf2da732
 io.vertx	vertx-rx-java2-gen	3.6.0.CR1	-	85d7b41d3fd8d7f73c9cb3ce4597996ec262add5

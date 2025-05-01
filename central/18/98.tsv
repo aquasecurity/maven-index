@@ -345,6 +345,8 @@ com.lightbend.akka	akka-stream-alpakka-geode_2.11	2.0.2	-	5c98c06e073961ee8356e9
 com.mydataharbor	redis-6.0.x-plugin	1.1.0	-	dc13ae753b3e539147ddf2a69ec85b27c3746db7
 com.mydataharbor	redis-6.0.x-plugin	2.0.0	-	e022bf3ca6f5abd48e521b41cc2a448f818f481a
 com.mydataharbor	redis-6.0.x-plugin	2.0.1	-	1abdc4f47a322b7ae5bf8ac9edee7352702b8a2b
+com.mysitex.sx.jdbc	jdbc-appender	1.2	-	182f2c7e176815472dd1dccf8dc74f9b0a8c426c
+com.mysitex.sx.jdbc	jdbc-appender	1.3	-	182f2c7e176815472dd1dccf8dc74f9b0a8c426c
 com.nrinaudo	kantan.codecs-enumeratum_sjs0.6_2.13	0.5.1	-	815c39c7ac32ea0c17926f230cbf6c4112e156f7
 com.rameshkp	openapi-merger-gradle-plugin	1.0.2	-	6525447591d24cede2eac6d83aaa8048ebaa3e52
 com.rameshkp	openapi-merger-gradle-plugin	1.0.3	-	d56526d3f21355d3fe9d114b1931fa55e09d2b21
@@ -1952,6 +1954,7 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.19	-	08a
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.2	-	be5d6a03bb94001b6103c181356e3e7ba581133b
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.20	-	5eca94129a141b3367002a80ec043c0a74b29d6a
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.21	-	ab2bcf74ec4f666567340866e6012a5a3a6256a8
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.22	-	3f5a5cae4b520f62211ea3fabd0f8824eb8cb4f2
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.23	-	1ef14297ba1b2fc619eb8757e758fb71a10caab2
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.24	-	658c4a93b75d627353d0eacd23a6fbf1ee0fec5d
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	3.21.25	-	17305594f683b661002c5dc8b244cd93ecd9a123
@@ -2014,6 +2017,7 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.11	-	1ea8
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.12	-	cf6bec4c21adaddb565568fa16550ee694f39c87
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.13	-	942ab0a7fe5bc77370e2724ebb7823c17d6f074a
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.14	-	5216391e007c81d7b794c480a16b98a444ee8ab5
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.15	-	662c49e0b112e6bf029dace2b24d159857e5dc27
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.16	-	4973a31f61ad3e298f3315a313c2bcaebff415f6
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.17	-	492d886ca2f6abf332f69f3d1a9d65c618b87a05
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.0.18	-	085fed104db801174f57b89cdaed88a9e78a5bc9
@@ -2041,6 +2045,7 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.14	-	9d44
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.15	-	e191f4ec17b8aec1fae79e0a51def50502c1f7ed
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.16	-	2a07538bd5e8673de6f7cb125637558448de5df4
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.17	-	ad5adfa2121a53504cd94ec5b3f195db999e8d8b
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.18	-	9582bbf29a50be785ee3eb3537af50341184ddb5
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.19	-	5a9a3d2e1d85aa473559e5dcdcbeacdf8519b22d
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.2	-	b779078e4dc00d953cf9a72e164a2635c8e49fbc
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.1.20	-	74e6144c43e9b0234af1d5fd0905e052ac4daaf3
@@ -2101,8 +2106,10 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.2.4	-	9495d
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.2.5	-	b264a49ba101dd55dc947b7be1c7d944b59d9ca7
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.2.6	-	1465e2669229cc74821d76f11b6e9f18a0dcafb1
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.2.7	-	0b7a421813e533ee524b824148f71337d3ee9e4d
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.2.8	-	cb1df193bd879c5ca0148e86dc6242b147911cce
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.2.9	-	843f44dee47b78c387fd73523cf3848b8e5c8a84
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.3.0	-	d98f93b9254613913ee2e21bfe0f4f00e9f83a52
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.3.1	-	10fa4c1b499b9e6eba464916dedc6f231d3dfcf0
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.3.10	-	bb503673f26962003f1741808fea2534055f25fb
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.3.11	-	7f772f30d90a0169ea17cfbe355694a88ef2e214
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-context	4.3.12	-	c2b6000c9e67bb1d6e291ab13076a01d7a2df59b
@@ -2398,6 +2405,7 @@ io.quarkus	quarkus-messaging-pulsar-deployment	3.17.1	-	8e29f0da15b0ddc2abcf2260
 io.quarkus	quarkus-messaging-pulsar-deployment	3.17.2	-	08141e743d7a3c9b2ba8ee16c168f0a306760cfe
 io.quarkus	quarkus-messaging-pulsar-deployment	3.17.3	-	b416ff0c558c060a92f92b6a7d6417ced2373eca
 io.quarkus	quarkus-messaging-pulsar-deployment	3.17.4	-	ecd4d0e54cb8b60994fe086adbf3c43912dce94d
+io.quarkus	quarkus-messaging-pulsar-deployment	3.17.5	-	8599c49ad414ca6029f2420f8460a0a1b1d09792
 io.quarkus	quarkus-messaging-pulsar-deployment	3.17.6	-	aece1efb0de22b62e3c668e64276700cdd2120bc
 io.quarkus	quarkus-messaging-pulsar-deployment	3.17.7	-	31fdf05ea378728927766032064f39bfde4e37da
 io.quarkus	quarkus-messaging-pulsar-deployment	3.17.8	-	37161d683146918dae264484713ba101fe838949
@@ -2600,6 +2608,7 @@ org.apache.camel	camel-jgroups-raft-starter	2.25.0	-	d0dfaaf96887cd4657630b74ce9
 org.apache.camel	camel-jgroups-raft-starter	2.25.1	-	ec36cf0ee271def50e0b7c76e3cb68744a60e8d8
 org.apache.camel	camel-jgroups-raft-starter	2.25.2	-	67c393200af974db2a4afeba4884873e913f8bdc
 org.apache.camel	camel-jgroups-raft-starter	2.25.3	-	a82e8af8daf203c0b12dd8dd829ba9e9ffbf3591
+org.apache.camel	camel-jgroups-raft-starter	2.25.4	-	f2e4ad894a7170414c242fd57dd4efbaed583ab9
 org.apache.camel	camel-jgroups-raft-starter	3.0.0-M1	-	6386051c8b289220748979cedb9572f65f7d2842
 org.apache.camel	camel-jgroups-raft-starter	3.0.0-M2	-	80975d067cb5a3a5c1399c4e88063e1033bac1c1
 org.apache.camel	camel-jgroups-raft-starter	3.0.0-M3	-	cd7ce83d2fab6a198077613a0505fbc046e945ca

@@ -7,10 +7,16 @@ com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.1	-	02a49b61834aa1d11289
 com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.1-SNAPSHOT-3c76893	-	f50c70ce0a29bfd953a70d5a5b0b7577dfe758eb
 com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.1-SNAPSHOT-4670905	-	3d0a211f67c2ad73c45da99b8ed503a8eb3dc0da
 com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.1-SNAPSHOT-8da4484	-	895174f0a7c344c5c4f5f5bb6fc6eedc27c6a763
+com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.10	-	49fb4129d8f1d208bb0b084fb71c4e6dc4b23a9f
+com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.11	-	4dba8c9229238434210505d47811edb776a841ee
 com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.2-SNAPSHOT-86382c9	-	32f05ec361e12235249499c96326cf9fc1407dd2
 com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.3	-	8c4c7cea5ebfc490b506b616f1bd01cc21f5ba1b
 com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.4	-	58297e617beb4c8effc7d8f71e8970a0c4ea645f
 com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.4-SNAPSHOT-35e64fa	-	3d411dc777564e97a7ca0b026419c9f8e57fb907
+com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.8	-	11525a3e88eb3a4ad019eb241db31700c25dea76
+com.ascentstream.pulsar	pulsar-functions-runtime	2.10.7.9	-	5a5aa764180e00a9c941b31a4684a999fcc07c40
+com.ascentstream.pulsar	pulsar-functions-runtime	3.0.10.0	-	2df3ec643a27e3c4fd89185f25816e254c2a045f
+com.ascentstream.pulsar	pulsar-functions-runtime	3.0.11.0	-	08c51d5fba462b093cdc42da02539572a7198c73
 com.ascentstream.pulsar	pulsar-functions-runtime	3.0.7.0-SNAPSHOT-a030c50	-	b6e530847eb1ef75ffc65d71b61ca9f27949d1b1
 com.ascentstream.pulsar	pulsar-functions-runtime	3.0.8.0-SNAPSHOT-16a7bcc	-	21bb374d81b17be9ab68d1b7f9abdd900100b5f7
 com.digitalasset	daml-lf-scenario-interpreter_2.12	100.13.35	-	1c25d411305b01467defcceecfff3a8746d40eff
@@ -965,6 +971,7 @@ io.shiftleft	semanticcpg-tests_2.13	1.3.158	-	1cfe86fa2a9b71046b138c4ecceac106aa
 io.shiftleft	semanticcpg-tests_2.13	1.3.159	-	a7204743cb10cd12c14a7d90e7725a55fbf94d4b
 io.shiftleft	semanticcpg-tests_2.13	1.3.16	-	c4d3d209cc51199c0a6e0c145fff1b0d4289d635
 io.shiftleft	semanticcpg-tests_2.13	1.3.160	-	5411b38e8497d65e4e8cb6386419942722a737a0
+io.shiftleft	semanticcpg-tests_2.13	1.3.161	-	73c21b4826630c0fff1024600dcb2490879d9240
 io.shiftleft	semanticcpg-tests_2.13	1.3.162	-	f6d9266fd0716421e7d2ddef84861dffab5e8f8e
 io.shiftleft	semanticcpg-tests_2.13	1.3.163	-	7d73fcdb64d2e15a9d6c46736d704bb33a373d95
 io.shiftleft	semanticcpg-tests_2.13	1.3.164	-	7fac482289ad1c13a5cf8cceb8b0956ec67d5abe
@@ -1548,6 +1555,7 @@ io.streamnative.pulsar.handlers	kafka-client-api	3.0.3.2	-	64b6ba914a13ee429e5eb
 io.streamnative.pulsar.handlers	kafka-client-api	3.0.3.3	-	c69a55e784d91e28a379002fa3c60130e4408a30
 io.streamnative.pulsar.handlers	kafka-client-api	3.0.3.4	-	8bb39d572a7a61837ec1f22067c2923ba13aed79
 io.streamnative.pulsar.handlers	kafka-client-api	3.0.3.5	-	e052ee90c23d25cd1870b976fdcc6d1dbf602b52
+io.streamnative.pulsar.handlers	kafka-client-api	3.0.4.1	-	bb7af5e985d4652307683e0576d4dddbc54aaa18
 io.streamnative.pulsar.handlers	kafka-client-api	3.0.4.2	-	2c1c70ef05bc79dedfb1d37269fb4b764be32eca
 io.streamnative.pulsar.handlers	kafka-client-api	3.0.4.3	-	9dcc30b85a55d1e651aa229442cc1c2bdcac5bbf
 io.streamnative.pulsar.handlers	kafka-client-api	3.0.4.4	-	d6d18173f66351bb385b13b471da4a08edc8ff25
@@ -1596,6 +1604,7 @@ io.streamnative.pulsar.handlers	kafka-client-api	3.2.1.1	-	a7be21a7e987b438dac7e
 io.streamnative.pulsar.handlers	kafka-client-api	3.2.1.2	-	4ab032c5db59ac540a150ac1487b14cfe8eced0f
 io.streamnative.pulsar.handlers	kafka-client-api	3.2.1.3	-	34b1e8235339e5392754481e1a18c3027aa77b22
 io.streamnative.pulsar.handlers	kafka-client-api	3.2.1.4	-	9c85b918f346b60d82a59d722c99d88a614cf4a4
+io.streamnative.pulsar.handlers	kafka-client-api	3.2.2.1	-	3b6ae981a883e53062ca502488e5efa21a0589d2
 io.streamnative.pulsar.handlers	kafka-client-api	3.2.2.2	-	cce178e49973dbd38a7e48db99ab37f61081e983
 io.streamnative.pulsar.handlers	kafka-client-api	3.2.2.3	-	ad3b44276ec62a2efa1a66ccf932aafa0ba16b6a
 io.streamnative.pulsar.handlers	kafka-client-api	3.2.2.4	-	3a5bcfd54674399d6d4f8c3ee12835f4de934139
@@ -1639,6 +1648,7 @@ io.streamnative.pulsar.handlers	kafka-client-api	3.3.5.4	-	880543714f4431400f2a1
 io.streamnative.pulsar.handlers	kafka-client-api	3.3.5.5	-	486ad9ea0663bcd07b647373bf6e01c05fbc68cd
 io.streamnative.pulsar.handlers	kafka-client-api	4.0.0.0	-	cd601b991e5b56f6fd3fe70c702b071d79325aaf
 io.streamnative.pulsar.handlers	kafka-client-api	4.0.0.1	-	130bc001d535a54ae8c945a9d13ff6c35076f9a6
+io.streamnative.pulsar.handlers	kafka-client-api	4.0.0.10	-	a9371da57b9afccea3c17065f5fdd7cf1ba2e86d
 io.streamnative.pulsar.handlers	kafka-client-api	4.0.0.2	-	4fab98071fcefe48dd1aa8c693f7fc37a064685c
 io.streamnative.pulsar.handlers	kafka-client-api	4.0.0.3	-	2542bf34cb449fbc89d53d075c80a058391f7228
 io.streamnative.pulsar.handlers	kafka-client-api	4.0.0.4	-	ffbda9d529d660b9ac3a60d06cc9087538c38b9e

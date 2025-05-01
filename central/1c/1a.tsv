@@ -491,6 +491,7 @@ data.org.typelevel	cats-laws_2.12	2.0.0-M3	-	5df7dfc6b59366a46f9044d44735034388d
 data.org.typelevel	cats-laws_2.12	2.0.0-M4	-	7bf94df9d13e60c5c6cb598f28affed2bfdad61d
 dev.aspectj	agent-embedder-maven-plugin	1.0	-	cf428cb5f71f55e4c5838b7f3b7921004c09e431
 dev.optics	monocle-unsafe_native0.4_3	3.2.0	-	772ebe29109f74ebe8e7c00964797bb270114700
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.0	-	4436c85360deb97c4c4ea0e655bee7b6b4f8001b
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.0-alpha2	-	f08ae69576ab4504768acfbc7f2083371bc200de
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.1	-	73ad7846341d70c0d0097c929682c2590687deb5
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.5.11	-	b4940660d929c4c4b9c44ffc59aeafeb99df2bb2
@@ -771,6 +772,7 @@ org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0
 org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0.0-JDK17-M5	-	4c647e1e2518c14142f3255c46520b8564bf37c9
 org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0.0-JDK17-M6	-	3a604fe95c4aff21c3a49ef4c0b1b8d17bc7d0dd
 org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0.0-JDK17-M7	-	2d6c2826103b0495d4527fce358a8c71f255c75d
+org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0.0-JDK17-M9	-	2428338216631be71dd2285d254c7b170a90b4e8
 org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0.0-M1	-	db7ea4354217c78ebb7a0d110a3d5b040e3bfa7a
 org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0.0-M10	-	3c5640fc475606d9d14506f7ab773cbe86e72955
 org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	8.0.0-M11	-	58751cf195433986804824ccc835f917447db2e1
@@ -1057,6 +1059,7 @@ org.scala-lang	scala3-interfaces	3.0.0-M1-bin-20201022-b26dbc4-NIGHTLY	-	f4edfbe
 org.scala-lang	scala3-interfaces	3.0.0-M1-bin-20201023-6098ec2-NIGHTLY	-	f586662465bf7b984cf8185344cc2ee03366f4ab
 org.scala-lang	scala3-interfaces	3.0.0-M1-bin-20201026-ac4e29d-NIGHTLY	-	bade0a82aa548434bc0ab15bb8dd349b7d97b446
 org.scala-lang	scala3-interfaces	3.0.0-M1-bin-20201027-b5a1715-NIGHTLY	-	62470df3d2821f2ec8e45313940452eacc455da9
+org.scala-lang	scala3-interfaces	3.0.0-M1-bin-20201029-1f433d5-NIGHTLY	-	962b8949964d4d4a59827435edad72423fe943ae
 org.scala-lang	scala3-interfaces	3.0.0-M2	-	9a34407ec2726a43bdcf70573561699f32fe8ef1
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201030-300e9a2-NIGHTLY	-	d8c967ae005ca38fa5be843a8100df0643d217a0
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201031-1ab76c1-NIGHTLY	-	44a1dc237035704d322b61cb847759a9f580823f
@@ -1068,6 +1071,7 @@ org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201107-5c84e42-NIGHTLY	-	25761c1
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201108-3938388-NIGHTLY	-	b475a844cfb7a668a6b1a3198ea62698e000099a
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201109-ca216a8-NIGHTLY	-	2034d4a696118e5add1f1718fc55be4430f6d560
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201111-306e4fc-NIGHTLY	-	769625d0a3a045c3660169038af77f3494a76cc4
+org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201111-66eee84-NIGHTLY	-	18020e9634697ff3974970223dc41b46cdc32513
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201112-462a72f-NIGHTLY	-	f80b34f28538402b364e8e629003ae59165a7ac5
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201113-6b9796c-NIGHTLY	-	3fe90c846565cafd15773f37318bf522cb600cfe
 org.scala-lang	scala3-interfaces	3.0.0-M2-bin-20201114-93f24a0-NIGHTLY	-	7b53708068982bd652222b00f1095eb84ea34a2a
@@ -1520,6 +1524,7 @@ org.scala-lang	scala3-interfaces	3.2.0-RC1-bin-20220609-2836fbc-NIGHTLY	-	df0b10
 org.scala-lang	scala3-interfaces	3.2.0-RC1-bin-20220610-30f83f7-NIGHTLY	-	f307cf35cb2b4ed5cab0e41fd6b3abb8fa7f2293
 org.scala-lang	scala3-interfaces	3.2.0-RC1-bin-20220611-0260d75-NIGHTLY	-	dbf7bf903da52f51bf64d4534aca5d332e25af5b
 org.scala-lang	scala3-interfaces	3.2.0-RC1-bin-20220612-1e09221-NIGHTLY	-	2b559f3e712c79370ebeb45675ce61a564608bfe
+org.scala-lang	scala3-interfaces	3.2.0-RC1-bin-20220613-6635929-NIGHTLY	-	1a46b8a220f8c9ac1e981ebaf190d04f2d24dd94
 org.scala-lang	scala3-interfaces	3.2.0-RC1-bin-20220614-741587d-NIGHTLY	-	b756c306be92580d5a1a5c2d31bd05c8b6ef8d3a
 org.scala-lang	scala3-interfaces	3.2.0-RC2	-	c9e9e0b3bcde358b23c224f5f2504b4b4c95d94a
 org.scala-lang	scala3-interfaces	3.2.0-RC3	-	5d9218c264fb110996319d9902a50b54eb1eeead
@@ -2070,6 +2075,7 @@ org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240329-c8c3bde-NIGHTLY	-	ce0de1
 org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240331-cc55381-NIGHTLY	-	ed9133c125e19f947d328cf4ec0b0873c19ff75c
 org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240402-ebf1d6b-NIGHTLY	-	5b63cca2353205483b14dc849c2372b236b1a835
 org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240403-ece87c3-NIGHTLY	-	b5b59e0c5ca0bef404ee47df5066760cf9270075
+org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240404-a7f00e2-NIGHTLY	-	0fd6494b19eca29cf837e3e7137d44060191c1df
 org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240405-85672a0-NIGHTLY	-	00a7d603f0c173f60f81f8aec54e6d3b48d25a15
 org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240406-521ce95-NIGHTLY	-	a174a2d90c47ce4c4027ca84c3bb56dc0ce4ebe2
 org.scala-lang	scala3-interfaces	3.5.0-RC1-bin-20240408-1e8a653-NIGHTLY	-	745bb155293898b771a5b19815bec9face614a93
@@ -2261,6 +2267,7 @@ org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241212-20e6f11-NIGHTLY	-	b15e69
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241213-7573951-NIGHTLY	-	8152d88c73bda1ca25ed3e0ee75595f3719efba5
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241216-7dc5008-NIGHTLY	-	f666b15ceb69d291ba39bcbf543cd1f8a6fba70b
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241217-ae80285-NIGHTLY	-	87f74ff60900dc00e797651700accd69ae80f929
+org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241218-bd1f004-NIGHTLY	-	8039739dc522339b732d66e09630d0a0269b6b99
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241220-0bfa1af-NIGHTLY	-	aeb1ed197de353ed86be374e2bad8efb17f3502d
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241220-d50973b-NIGHTLY	-	acff8b92fc4d2db23d90d58c7e7bdac7e48a6235
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20241223-4d3f757-NIGHTLY	-	fd5318e246f4c113b6be859e90034727218b7ffc

@@ -215,6 +215,7 @@ com.jpmorgan.quorum	tessera-grpc-dist	0.11.0.30092019145247	-	0ea7e2e43ff2d9408f
 com.jpmorgan.quorum	tessera-grpc-dist	0.11.0.30092019145247	0.11.0.30092019145247-app	429ef9a0552076e40f1c6e0697164433b48ae136
 com.jpmorgan.quorum	tessera-grpc-dist	0.11.0.30092019161842	-	cabf2886d81c400e3e769d1387c0c6a4198fe8ec
 com.jpmorgan.quorum	tessera-grpc-dist	0.11.0.30092019161842	0.11.0.30092019161842-app	e5312923e2c99cadf634b6fe25118a730b7a2ce8
+com.microsoft.azure.kusto	kusto-ingest	${revision}	-	550280fd726c20184f5daf5eb1c842efc12e2d9d
 com.microsoft.azure.kusto	kusto-ingest	1.0.0	-	5c5dfdffa6810479f1113b80543b775301ef448b
 com.microsoft.azure.kusto	kusto-ingest	1.0.0-BETA-02	-	d0041b9234584dc75c166398b073868c58cd8522
 com.microsoft.azure.kusto	kusto-ingest	1.0.0-BETA-03	-	60ac44e6bed2db5c0980c57e8e66b7adbea79891
@@ -823,6 +824,12 @@ io.github.ashimjk	account	1.0.0	-	f5a218db0b4891d81e78fa99084ced1f14d8cc83
 io.github.ashimjk	account	1.0.1	-	c63224fcf33c325e284996a98e3883e04a791ce9
 io.github.ashimjk	account	1.0.2	-	adfc823b2eb249694e906205c6e2583d08af650a
 io.github.ashimjk	account	1.0.3	-	c9e875386c91f9f938792a9eeb8265bda2834954
+io.github.bideweilai	weilai-common	4.1.1	-	fc61ed7a72af2d8ced3e8f973fa7c601431c67a5
+io.github.bideweilai	weilai-common	4.1.2	-	a4580b512900daf11f43a6d4b9bbe62ab33730be
+io.github.bideweilai	weilai-common	4.1.3	-	5ab5089d51758e88913f38b74f730312a9247e53
+io.github.bideweilai	weilai-common	4.1.4	-	d122eb33413ba2df76c48f754a87684167289288
+io.github.bideweilai	weilai-common	4.1.5	-	1a8790b9aa8cc1453ff531919fed11706bc83a82
+io.github.bideweilai	weilai-common	4.1.6	-	ecedf9ff9b9abda0fd8482fc8f691590b7b21a3c
 io.github.dftrakesh	uni	1.0.0	-	1705bff7c1893333efff1555f20ddeae841aa54c
 io.github.dweb-channel	lib_biometrics-desktop	1.0.0	-	427f9a256a1ae74c10737d0cf9a8dd898614d5b5
 io.github.dweb-channel	lib_biometrics-desktop	1.1.0	-	427f9a256a1ae74c10737d0cf9a8dd898614d5b5
@@ -1588,6 +1595,7 @@ io.streamnative	pulsar-io-hbase	3.0.3.2	-	07331ed9bcc21c79f05c8d81614c47bbb38736
 io.streamnative	pulsar-io-hbase	3.0.3.3	-	d531568f406ebf0b17a90d1566057c1558efa4d1
 io.streamnative	pulsar-io-hbase	3.0.3.4	-	67e3e79d0994a556c6d43bde36fb96e675141072
 io.streamnative	pulsar-io-hbase	3.0.3.5	-	5b31a0902c9e3cf86e689e01fa9fa07f40bd4cdc
+io.streamnative	pulsar-io-hbase	3.0.4.1	-	30c915b28ba0bfce601db993a8907bcdb8a99a4f
 io.streamnative	pulsar-io-hbase	3.0.4.2	-	a573da2f74f46301af97dcaefda3cd63f5251bbf
 io.streamnative	pulsar-io-hbase	3.0.4.3	-	203057491b5c81b6399391cf3aa8f2b21b6d3824
 io.streamnative	pulsar-io-hbase	3.0.4.4	-	dc6282c54fc559279f4488de9a2385fdcc4c0abb
@@ -1638,6 +1646,7 @@ io.streamnative	pulsar-io-hbase	3.2.1.1	-	41b581366df323836ab86af872696fb2dec2ae
 io.streamnative	pulsar-io-hbase	3.2.1.2	-	3fdecce72218ec0c650245cc9224a7714fb6ea6f
 io.streamnative	pulsar-io-hbase	3.2.1.3	-	6886aa181a0359c8f5b2b0116995b583dff038f4
 io.streamnative	pulsar-io-hbase	3.2.1.4	-	38a28df64c31000e85c7d96d282424bf0cb0bd0c
+io.streamnative	pulsar-io-hbase	3.2.2.1	-	c570dd4459175e51b73bfebbd6091da5c8f57536
 io.streamnative	pulsar-io-hbase	3.2.2.2	-	f5eb1d44bd3c7dcaca8ee7f612e5305626b3bcb0
 io.streamnative	pulsar-io-hbase	3.2.2.3	-	59408a68321d82beaa1cdb15b4e1f954863becd3
 io.streamnative	pulsar-io-hbase	3.2.2.4	-	a80ea2a5e664301b8b557c94bf20f08bf84853d2
@@ -1681,6 +1690,7 @@ io.streamnative	pulsar-io-hbase	3.4.0-SNAPSHOT.ursa0815	-	438e6edfc36b0cca39f062
 io.streamnative	pulsar-io-hbase	4.0.0-SNAPSHOT.ursa	-	801a410d1f0ffa33f561c9e454c1fced5d2c4445
 io.streamnative	pulsar-io-hbase	4.0.0.0	-	e43297c13d09ed4434ab2b25baf623113f9cea93
 io.streamnative	pulsar-io-hbase	4.0.0.1	-	f39c900b45601105ab3b4a3c9650ad0e45e45a72
+io.streamnative	pulsar-io-hbase	4.0.0.10	-	83346619570db2f4f12650ce935c70c94efc2d51
 io.streamnative	pulsar-io-hbase	4.0.0.2	-	fb09a2ce52fcf999bbff7f78ae368899494f63df
 io.streamnative	pulsar-io-hbase	4.0.0.3	-	2dee70191e897085512b1bc07e9f3ab8e9607c81
 io.streamnative	pulsar-io-hbase	4.0.0.4	-	bc27cb6cd8555cc9aaae1bf63b2f54232fe4889b

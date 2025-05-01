@@ -48,10 +48,16 @@ com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.1	-	ce7f477ecfb27051c79c6
 com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.1-SNAPSHOT-3c76893	-	cc776b2d201539d3d25d2773b448f964a9157d19
 com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.1-SNAPSHOT-4670905	-	4428a4c9deea0d3a5239221ceccf9995b334c7ac
 com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.1-SNAPSHOT-8da4484	-	af64e1ba6aeded44534a4f7c5eb66f72f1502c11
+com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.10	-	d6fa6a885d8bc56736524e37cef2d2bfd355254e
+com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.11	-	b48dccab9a67ebefde6ac665d9a8d59a8b4ec5cc
 com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.2-SNAPSHOT-86382c9	-	f63ba29bbbdc5cbe87b19fe2c67ec9ad52d221f9
 com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.3	-	b832c607455574da71b6543da3642be61c735131
 com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.4	-	9f2f98db16ab52dbb6c930d3806cf23efe9320d8
 com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.4-SNAPSHOT-35e64fa	-	c05079ab05c0e8252ef8acbf359175d0008edee5
+com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.8	-	ba43762c82f9a35a5765883dde69f61935431f97
+com.ascentstream.pulsar	pulsar-functions-worker	2.10.7.9	-	55eba5dca05b37b178b35c5fc943a673c6bc7868
+com.ascentstream.pulsar	pulsar-functions-worker	3.0.10.0	-	03083e8d5bf570688e27908bdd207fdf59d47aca
+com.ascentstream.pulsar	pulsar-functions-worker	3.0.11.0	-	b5f7c1e2219b2c05ceb0dbe63eb0bfdccab6cee1
 com.ascentstream.pulsar	pulsar-functions-worker	3.0.7.0-SNAPSHOT-a030c50	-	8d326d5adbd0ab474ce882c8448c4fc66c3c904a
 com.ascentstream.pulsar	pulsar-functions-worker	3.0.8.0-SNAPSHOT-16a7bcc	-	d831268be474c3fcdd7ecc8c97009119f9a5a80d
 com.cerner.common.kafka	common-kafka-test	1.2	-	16c65eab99c504647ff500947bfc8deda81154a5
@@ -491,6 +497,7 @@ com.vaadin	vaadin-form-layout-flow	14.12.0	-	91766da2014fd8544ba3db45c4ea9a79109
 com.vaadin	vaadin-form-layout-flow	14.12.1	-	0c8624b34f4e18a835e480cb7413bd3e7ba18d15
 com.vaadin	vaadin-form-layout-flow	14.12.2	-	1d2bcce125a8bdbd301745ee8d0a850e0ff6ee46
 com.vaadin	vaadin-form-layout-flow	14.12.3	-	da10902f6b7275d5e25a71b1af35c67171df589c
+com.vaadin	vaadin-form-layout-flow	14.12.4	-	35f34c3e0310df33583cef904534282fe36125e4
 com.vaadin	vaadin-form-layout-flow	14.12.5	-	7611ef3271920dcd855a963ca23eb262841541a5
 com.vaadin	vaadin-form-layout-flow	14.12.6	-	ed4052699ace40bc755722bcb213039a62f1b32c
 com.vaadin	vaadin-form-layout-flow	14.12.7	-	fdbb7df840cccec27387f3f556b2f7fe2681ccf5
@@ -1335,6 +1342,8 @@ io.kamon	kamon-alpakka-kafka_2.13	2.7.2	-	98a096cababc19df96ad57fa615a27203c377e
 io.kamon	kamon-alpakka-kafka_2.13	2.7.3	-	d2509e93bdb03f8e524874fcf6097977d5a6c21b
 io.kamon	kamon-alpakka-kafka_2.13	2.7.4	-	f6e9e7e4e89cd5c4edeca35faca49511ab06b069
 io.kamon	kamon-alpakka-kafka_2.13	2.7.5	-	e30ad4623509064f57f2c6dd2728047f4c2e7d04
+io.kamon	kamon-alpakka-kafka_2.13	2.7.6	-	e4ba04ab78ef13c6b608491305f8b1a79962b033
+io.kamon	kamon-alpakka-kafka_2.13	2.7.7	-	edc2bdcdc791bbe08424d3766df4f4a3a72164f7
 io.kriptal.ethers	ethers-signers-gcp	1.1.0	-	4724beff3374d44ca21fa34e30d0487e705a2cf8
 io.kriptal.ethers	ethers-signers-gcp	1.2.0	-	34d22f8d734767287c24165fc0ca5ec362e75773
 io.kriptal.ethers	ethers-signers-gcp	1.2.1	-	704e3707f795eae5c2650a827eaa0d7f7dce8438
@@ -1820,6 +1829,7 @@ org.noear	nami.channel.socketd.smartsocket	1.4.3	-	ec49e7f826350360a7741972dc753
 org.noear	nami.channel.socketd.smartsocket	1.4.4	-	71f1879804e7ce62993f1cfdb1ce90e283108b88
 org.noear	nami.channel.socketd.smartsocket	1.4.5	-	e54078a4646abcf873776e3c08a7314772137f36
 org.noear	nami.channel.socketd.smartsocket	1.4.6	-	7d13f40478c571c53e963d08c3482e948330ccc4
+org.noear	nami.channel.socketd.smartsocket	1.4.7	-	2482071bd2b7fd902d0a95486868e38738a0ff0b
 org.noear	nami.channel.socketd.smartsocket	1.4.8	-	38a903e70d4618b0605929e53d2e9d437467c186
 org.noear	nami.channel.socketd.smartsocket	1.4.9	-	dda5bc90c42d1cffe44a268f4e941fcaab385a87
 org.noear	nami.channel.socketd.smartsocket	1.5.0	-	0a642d1698fd35ac4051926df75049fcf3ba3656

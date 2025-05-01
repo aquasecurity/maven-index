@@ -174,6 +174,9 @@ com.fraktalio.fmodel	domain-jvm	3.5.0	-	06b8893c2a9c43e357d6771ca4b24e3c0abb4694
 com.fraktalio.fmodel	domain-jvm	3.5.1	-	d5f6a3dc3d4e351ae34938bcad0d8fdfdcb919a2
 com.fraktalio.fmodel	domain-jvm	3.6.0	-	133a545f68b7d3d2c9aacc4236d5b41c04bb58ec
 com.github.adedayo.eclipse.sdk	org.eclipse.search	3.11.0	-	6eeff6e0228f6b68b2a279091982ad7ebb45fc3a
+com.github.j5ik2o	akka-persistence-dynamodb-state-base_3	1.16.464	-	63164a56a09122b1b7412817c99369f1dd0bc33c
+com.github.j5ik2o	akka-persistence-dynamodb-state-base_3	1.16.466	-	de65ccf0775738923b65857bbffe4e30873a9e72
+com.github.j5ik2o	akka-persistence-dynamodb-state-base_3	1.16.492	-	4e13c679b834b535379fa5bac78f3fc1a28cd380
 com.github.molecule-labs	molecule-io_2.11	0.5.2	-	77e6a7c06d4732b2cc5bdcd9b56a4d65dc2d78f5
 com.github.scullxbones	lift-json-ext_2.13	3.4.3-LJ-patched	-	727f623ad393f5406b785c8ca994ff399a1dcb84
 com.github.waffle	waffle-tomcat11	3.4.0	-	be41ab299f198c511e72f037af48ce066ce125bc
@@ -191,6 +194,8 @@ com.google.code.spring-crypto-utils	spring-crypto-utils	1.4.0	-	014af2a41ee07a72
 com.helipy.text	ahocorasick-doublearray	1.0.0	-	67a77ee9332515e6bf9cf73b5360741b3b23767a
 com.helipy.text	ahocorasick-doublearray	1.1.0	-	dc257be238f8c92361b78fb51bcb8043a7ab24e6
 com.joanzapata.android.asyncservice	android-asyncservice-processors	0.0.5	-	027b78f9f819aabbba1436832be22cbb27fdae6c
+com.kevel	apso-collections_2.12	0.20.0	-	850b8049b0fbc9ec79ab5f453c39228f8202d322
+com.kevel	apso-collections_2.12	0.21.0	-	6ff87bbe18b990f80772e6417b66b7abcaf2403d
 com.lt-peacock	batch-email-sender	1.1.2	-	b879593ca90dda76dd28e34460da419d0bba48d5
 com.microsoft.azure.notificationhubs.v2017_04_01	azure-mgmt-notificationhubs	1.0.0-beta-1	-	ad16da696a1995ebd8e61a7ce04a91abbedbb3c1
 com.s24.tomcat	tomcat-cache-realm	0.1.0	-	207a955574648b85637177a2591f01e93ca1d1dd
@@ -1595,6 +1600,7 @@ io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.19	-	113d4b4a42ca7026df5dc
 io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.2	-	2d7d1b76834a6df75ab7e72522328c2b743e8d4b
 io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.20	-	be4c48553c8b2785b32baa3100d080e833c71876
 io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.21	-	ff3194c888dc4e171e24a881ed41482a237218a6
+io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.22	-	7cdee32e9aba11451fe09af446b6c7591fcc8ca1
 io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.23	-	266b2150e0e1a34e67dc5f9a47c796ed75e1af35
 io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.24	-	45964c9f1b0d06b300ea6ac0d41e21bb209e346c
 io.gravitee.am.reporter	gravitee-am-reporter-api	3.21.25	-	da1dc0873564cbfb8b76ceb1371edb8c93020516
@@ -1657,6 +1663,7 @@ io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.11	-	ba59f34804e8146e62d2b8
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.12	-	fa907fa87f737c6af6ab369fecda043ae14c8d55
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.13	-	d63361c9d2b6e1be5e84ab6d19117bd4fa562133
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.14	-	7cedadddf424705bce20f9fa7ac6b4215c5b326b
+io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.15	-	d47f500fd2449730039355ec64a4a157d31d6341
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.16	-	516107d5f9e2bae0a930aae8993e4e58afbfc1fd
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.17	-	d3e859905afba53c6ad6fbe4149fea5cb5dab877
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.0.18	-	a485d4e660904d8baf773251cf13ec18ef440b36
@@ -1684,6 +1691,7 @@ io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.14	-	d27afa184060530c991687
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.15	-	84148cf391734dcbae0ecd43e603c877f1360c17
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.16	-	f8e4105cc94c1513c2534382d505fd8b64115bc2
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.17	-	81985557d281842b8759a2a69ac0d935f6c416c8
+io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.18	-	c4b19b179c234541f5230d6214cbde73a6ae7f4f
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.19	-	44e28617ec7ad62d9d622d187907cf65ea4a6f52
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.2	-	b1292e7d0265b765b42013e14ac6befdb7194aac
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.1.20	-	51478c9debe4e7b65ed6d4e973d0c6ac468e50ea
@@ -1744,8 +1752,10 @@ io.gravitee.am.reporter	gravitee-am-reporter-api	4.2.4	-	5d4aaa103d462fe110ab54b
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.2.5	-	9dc74cde5a8d59c7ef21078e14f79664777f20a0
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.2.6	-	56406c1b3f64802450ab31631f218ff9a37cd7b8
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.2.7	-	e319a3a056dd7349d4650ae8319a73afb32e4dac
+io.gravitee.am.reporter	gravitee-am-reporter-api	4.2.8	-	67b8742fe8e047a2e4506ff23f39b5ad658fe82b
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.2.9	-	6f6747866119652763aa154f018edaf7e029e144
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.3.0	-	e74700e83b00f74dde4452e78b23f96534f9b21e
+io.gravitee.am.reporter	gravitee-am-reporter-api	4.3.1	-	450b479c894c953c7b98929258b861139fab6b6d
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.3.10	-	c23e26737dce7059020def806a9753c591a2df8e
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.3.11	-	59c9010c627edeeeecdc57ba4c6a268a9114c30d
 io.gravitee.am.reporter	gravitee-am-reporter-api	4.3.12	-	76cf7210c056389cb2876fc7037c6f08282cc424

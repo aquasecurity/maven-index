@@ -21,6 +21,7 @@ com.acxiom	metalus-mongo_2.11-spark_2.4	1.9.1	-	6cf4cb18440667c907a3ac7734cddc45
 com.acxiom	metalus-mongo_2.11-spark_2.4	1.9.2	-	f11cbd175cfa8dbea40b91e29b6e8ed4944e2412
 com.acxiom	metalus-mongo_2.11-spark_2.4	1.9.3	-	6f16029cf7098ef2650e9cc7e0b186b0dd4f40b5
 com.acxiom	metalus-mongo_2.11-spark_2.4	1.9.4	-	68b9133d7c5183de7eb8508a358a212ee25e1a08
+com.acxiom	metalus-mongo_2.11-spark_2.4	1.9.5	-	cee899b1cbb8842c179950689a6ede9a32e4d66b
 com.alibaba.blink	flink-yarn-shuffle	1.5.1	-	8ad91d55f594b805030290eb48482c606fb0d02a
 com.alibaba.blink	flink-yarn-shuffle	blink-3.2.0	-	c156cfb6b38d504ed6c002a553984793b8c0b0a2
 com.alibaba.blink	flink-yarn-shuffle	blink-3.2.1	-	2140ba7b7a4899bbc79f676079c9ef22facedf9b
@@ -38,10 +39,16 @@ com.ascentstream.pulsar	pulsar-io-core	2.10.7.1	-	4c3eea26c5da69072ca4f0e25d903e
 com.ascentstream.pulsar	pulsar-io-core	2.10.7.1-SNAPSHOT-3c76893	-	b3b52f8488108728dce0f10f5139c45e20dbb004
 com.ascentstream.pulsar	pulsar-io-core	2.10.7.1-SNAPSHOT-4670905	-	97c9136409dd3f825fd25060946256f21bf1ed13
 com.ascentstream.pulsar	pulsar-io-core	2.10.7.1-SNAPSHOT-8da4484	-	13e7a95220ff7e2cd973b01753982990ab7e47bd
+com.ascentstream.pulsar	pulsar-io-core	2.10.7.10	-	09018a0ec54e02444a92e537a50db2d03055c84a
+com.ascentstream.pulsar	pulsar-io-core	2.10.7.11	-	7a5b35b9d7c9f4d9085c9549fa78e6ca9cc625b6
 com.ascentstream.pulsar	pulsar-io-core	2.10.7.2-SNAPSHOT-86382c9	-	71b058d883986303211d5e0ec6a95dd848535cf6
 com.ascentstream.pulsar	pulsar-io-core	2.10.7.3	-	dce3595595b704bba2228cbc0d3cdd5121b789e2
 com.ascentstream.pulsar	pulsar-io-core	2.10.7.4	-	bb34e2d80d7d41adaa12b8e0d21d3e8258b3df70
 com.ascentstream.pulsar	pulsar-io-core	2.10.7.4-SNAPSHOT-35e64fa	-	68ec6711658de5915a7d429d0ad85cdb1da433dc
+com.ascentstream.pulsar	pulsar-io-core	2.10.7.8	-	3471258d79bed144bfb93de736002a3e4d5ba43c
+com.ascentstream.pulsar	pulsar-io-core	2.10.7.9	-	c8a2ff53f79dabde901d591d8d84ae25625cf67a
+com.ascentstream.pulsar	pulsar-io-core	3.0.10.0	-	5f00e10e520c00db8ba0fd484d166d9d7b7d8e12
+com.ascentstream.pulsar	pulsar-io-core	3.0.11.0	-	5c31002c530bc48d18393db586a00900ac4ba09a
 com.ascentstream.pulsar	pulsar-io-core	3.0.7.0-SNAPSHOT-a030c50	-	81a43727cdeead7eb9b06ed9f817929b9fe4c578
 com.ascentstream.pulsar	pulsar-io-core	3.0.8.0-SNAPSHOT-16a7bcc	-	a597b6c8390e935b761d3b609747786d5a056f68
 com.autotec.sdk	aci-java	2.0.0	-	e1782c0c2901a80a832a6956ae294bfca18e1dee
@@ -236,6 +243,7 @@ com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.11.0	-	642c2f8f8a57bd8a64160488b2
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.12.0	-	4257fab56dbd6518112efa7966b5b9d0eb3a318a
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.13.0	-	2ab054a172d12271fc65b5f4a58e072a71a208db
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.14.0	-	ced655ca2aa8542bb872ad789394c0e2c46d664a
+com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.15.0	-	04c71daab4702741a8d60d9ee5ea34908071e4a9
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.16.0	-	0db05e66b73904e5041cc1e6461a4005194f47df
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.17.0	-	aade577558dcfc782a9046d15f4792a82362917c
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.18.0	-	2cffc20cf11e00ae409285752b003ebb5c355f88
@@ -244,6 +252,7 @@ com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.3.0	-	ca81ef827257b425b7f66146e8f
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.4.0	-	26b22e4f4033552910e4410cb4345219d9972403
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.5.0	-	ecaba40535960be448b7f119d31a61233392ebbe
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.6.0	-	2a4716efd5d871f3d3506afb6aa39f5c0c91313f
+com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.7.0	-	8eb98d89acdd735799590934594fd5f226d8186c
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.8.0	-	ca9348b08b97eeb2d8aa4a899e2a37380afd38a0
 com.sap.cloud.sdk.s4hana	s4hana-connectivity	5.9.0	-	be16531f2dc23c3f4c5e6d03acb22a167b9e9b0d
 com.tencentcloudapi	tencentcloud-sdk-java-waf	3.1.1008	-	835e18c86dd07f0883be7985470bdb25c568e89b
@@ -1351,6 +1360,7 @@ io.github.shuigedeng	taotao-cloud-starter-apollo	2024.06	-	12ac76d246894ab73cba7
 io.github.shuigedeng	taotao-cloud-starter-apollo	2024.07	-	fe9704d0c2dcca6bca6efb84ffb6f979f86a2443
 io.github.shuigedeng	taotao-cloud-starter-apollo	2024.08	-	f7eeadde4b6a827def8eaec71743c1a70e745aef
 io.github.shuigedeng	taotao-cloud-starter-apollo	2024.09	-	2f30a6368fb85d97dd5479a9797f847067f837b2
+io.github.valdo404	osm4scala-spark3_2.13	1.0.11	-	b870d32459399cf67222585b6c05a9700e135073
 io.github.woody230.gw2	v2-tile-cache	2.0.1	-	0f931cc0b2d892913fda8ff9dc778488bf788558
 io.github.woody230.gw2	v2-tile-cache	2.0.2	-	2bd330c4fd14a3508850c2c9de3e64b5e6bf6717
 io.laminext	websocket_sjs1_2.13	0.12.0	-	6a9fbe313f627d1c7fbff4570b9f58c4bf88136e
@@ -1707,6 +1717,7 @@ org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.13	-	24f2abff8fc
 org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.14	-	3f2b2d00f1f7ceefced0e0bbdcf9bf9017d8f162
 org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.15	-	5a9acb00f18c97df7c912cdd9211aa8e3013331d
 org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.16	-	771fe51bef9488227d41bf94401cd8ca802ffde2
+org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.17	-	3856079f3d8f13144033b982a266991c067b473f
 org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.2	-	42fab2c007c70e5c1339b9f5fedc7803855784a8
 org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.3	-	94ab7ede82256c06bd7702acb8cd0cb3271d6dab
 org.glassfish.jersey.containers	jersey-container-jetty-http	3.0.4	-	34ffec46f63edd51817bf4436a493882fbd04fc3

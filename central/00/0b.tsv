@@ -14,6 +14,7 @@ cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.301	-	5a05583fcaeb6260f97d06e4ae3
 cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.304	-	6dfa717fa6a33ea71861fbf1c50a107240cb4036
 cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.310	-	aaf44b307b569747d2bf5c9ead273da8db6c5135
 cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.317	-	c560c64fc0a9a3be4b1cdf2cc8b853ab912df523
+cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.319	-	f4fd0b24fc45c9eeb4d3531024d9602f5c7b700e
 cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.371	-	f490bc8d7e72d668125f8f9bc7569fc6a562db3e
 cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.372	-	638ec5c47fce75ff9f8a7fa913a718c3bc12b1be
 cn.ibizlab.plugin	ibiz-cloud-notify-ebsx	8.1.0.458	-	093f9d34d3519119f663055a757f4011d45323da
@@ -1868,6 +1869,8 @@ io.kamon	kamon-zipkin_3	2.7.2	-	a2b31571791341d012fa26f2725e7ac4010e9722
 io.kamon	kamon-zipkin_3	2.7.3	-	759709a6f29460cfa08d5a0a5c82ea541070ad56
 io.kamon	kamon-zipkin_3	2.7.4	-	77ea386007cbeca90c61cf945bc18bec51c0ce53
 io.kamon	kamon-zipkin_3	2.7.5	-	609065e07000976100fd4992747b4df07a2b8faa
+io.kamon	kamon-zipkin_3	2.7.6	-	d11caf9ea8443bfc3f7f333ac34cd25f4e13370f
+io.kamon	kamon-zipkin_3	2.7.7	-	64a9598c6c531049fd4142f5460c1ae750e3848d
 io.ktor	ktor-jackson-metadata	1.1.1	-	0074ce298acb82b5b060420c988494c8219c7a77
 io.ktor	ktor-jackson-metadata	1.1.1	1.1.1-kdoc	f35f746e2149027862f0febef52380f8ae865e27
 io.ktor	ktor-jackson-metadata	1.1.2	-	195b75b6242daa8ceaf2ac07d83bb816281859e7
@@ -2204,6 +2207,7 @@ io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.1	-	b36e5cba84c9855400
 io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.2	-	b5937e746c562a213a5b7be73e51729f1f401098
 io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.3	-	7f78d12727510ed978005597fd3eab00958ee679
 io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.4	-	9decae8ef3bc616e501bc8c9806fd6015afac442
+io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.5	-	d0c24895b8689c20ef0aeeb11b7999f9d20752de
 io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.6	-	a3727c1128d514a6f256138d1e74c06015d6d336
 io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.7	-	2b424565653262b5f45a361a78345b1e9bf6827e
 io.quarkus	quarkus-resteasy-mutiny-common-deployment	3.17.8	-	d55a8b1cff2ebcda1b9e47fe8a398186c5c10ab6
@@ -2442,6 +2446,7 @@ org.codehaus.mojo.unix	unix-sysv-pkg	1.0-alpha-5	-	2959359c14e9a6e4a67cfc7536b4d
 org.ctoolkit.services	ctoolkit-services-api	0.5	-	2cbb0ab062a92684cc22e24dbc2c64f2da9c2f74
 org.ctoolkit.services	ctoolkit-services-api	0.6	-	5d54f4562291b06a8eba0383c62350a77a6670ad
 org.jboss.integration.jboss-integration	5.0.2.GA	lib	jboss-integration-5.0.2.GA	68508e73e43869da5a114b52bce2bd2a795300b8
+org.languagetool	language-gl	$%7Brevision%7D	-	10e5a0fe164a4c19a726411e186eefba2670b498
 org.languagetool	language-gl	2.1	-	560833028f3c36158ed55de3cfb5e32662729a49
 org.languagetool	language-gl	2.2	-	0f48796d6071cd4543552899741407adf168f856
 org.languagetool	language-gl	2.3.1	-	42fd28309b202a03b727a57b8800b7c62402ac15
@@ -2490,6 +2495,7 @@ org.languagetool	language-gl	6.6	-	a10b84a747c28ef2df39fd403969f248948a2d47
 org.mvnpm	turbo	1.11.3	-	d4718354b7decdb164feda6d27a7ffed32c1bd45
 org.mvnpm	turbo	2.4.4	-	48e76fe0868c1b722348a42f0bd74def3deb74d9
 org.mvnpm	turbo	2.5.0	-	20fa3e63d9e701fd7f98ec802cbdf04a6b18c261
+org.mvnpm	turbo	2.5.1	-	dae0861722d7016d12927ef3b42b750688a32f2d
 org.neo4j.procedure	apoc-extended	2025.01.0	-	327c940027cdde02670a22cce495376c3296e514
 org.neo4j.procedure	apoc-extended	2025.01.0	2025.01.0-extended	31f77376eb18f84b3b16ccca19fef774c0fd8f8b
 org.neo4j.procedure	apoc-extended	2025.02.0	-	c3884314e566f13ee493dd3bc0f911fb4dffe847

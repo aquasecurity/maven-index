@@ -92,6 +92,8 @@ com.github.sbt	sbt-ci-release_2.12_1.0	1.8.0	-	df0c9e5eeb065a2b8fe438feabb60b7f1
 com.github.sbt	sbt-ci-release_2.12_1.0	1.8.0	sbt-ci-release-1.8.0	df0c9e5eeb065a2b8fe438feabb60b7f1062c5b0
 com.github.sbt	sbt-ci-release_2.12_1.0	1.9.0	-	7a87907c9de72d440a337185f221165adc634e49
 com.github.sbt	sbt-ci-release_2.12_1.0	1.9.0	sbt-ci-release-1.9.0	7a87907c9de72d440a337185f221165adc634e49
+com.github.sbt	sbt-ci-release_2.12_1.0	1.9.1	-	8d9ccab2b5f85ab6233c8b75a88b3c670557adb3
+com.github.sbt	sbt-ci-release_2.12_1.0	1.9.2	-	72bbc48f959a23dc73a97512b0cc2c2c9b759dcf
 com.github.sbt	sbt-ci-release_2.12_1.0	1.9.3	-	d8f1a91be6fa0ddc823e255851b1b4b10bb20cff
 com.github.sbt	sbt-ci-release_2.12_1.0	1.9.3	sbt-ci-release-1.9.3	d8f1a91be6fa0ddc823e255851b1b4b10bb20cff
 com.github.xincao9	ptk-sample	1.0	-	92589d8594c7f94e0fe0bf70f4497778d5342c1b
@@ -899,6 +901,7 @@ io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.1	-	64564ef5287426b96e90eff
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.2	-	e67215ad87e14622595913827970e9ef7ea455c2
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.3	-	a9afaa2840b9aa75d00db4864313bb4fce6691ef
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.4	-	abad0eb4b3698b7855c67b968660815e6633bbc4
+io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.5	-	b57339bf542ca1b4ad54861b60aab9e10ac7c76a
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.6	-	fef4a402b192f8fc71a57456fb44d9a3dad9579b
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.7	-	7c3826ff4d0dc1962046a16dc4b03ed6318fa3ae
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.17.8	-	aca3955360c0424c1aa777c6caae242c08722fbc
@@ -1133,6 +1136,7 @@ org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.2.4	-	a8f
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.2.5	-	01cdc0968694ec224ddf7719f46ad8ef46b2858f
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.2.6	-	ce03c1fbfb15725b0caa102e7bbb60c9034c86d9
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.2.7	-	5924dbef52a8fd4849d7003e01aae5fc9ac4cee4
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.2.8	-	efa613b74e3a3619b57f220c211d4c8055641318
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.2.9	-	71677d7e05c8d026586fc3bdff22c4f761671b34
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.3.0	-	c0d1af769be66976bfe0e123630b49693406e148
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	10.4.0	-	aeaf9469ef7de0398c278da55e696e578295bc15
@@ -1354,6 +1358,7 @@ org.glassfish.main.docs	website	8.0.0-JDK17-M10	-	a90b32f9cb21364727c78c1e4cb46e
 org.glassfish.main.docs	website	8.0.0-JDK17-M5	-	73cb12d4e7ebc7aa65c2b33d41bfc55f293df017
 org.glassfish.main.docs	website	8.0.0-JDK17-M6	-	d90650e80e5bb14f8228c307c11c064fed9e2125
 org.glassfish.main.docs	website	8.0.0-JDK17-M7	-	7a4ab2ff5c34b6d2328ef44287edff285bba38fc
+org.glassfish.main.docs	website	8.0.0-JDK17-M9	-	90b7d173338ecf1a0fe4d46f9495235a23ee89ce
 org.glassfish.main.docs	website	8.0.0-M1	-	a35014ccc2d38c18f72299d568da096b91ee0441
 org.glassfish.main.docs	website	8.0.0-M10	-	5e339672a5974f2cb2596d4d606e132502be762a
 org.glassfish.main.docs	website	8.0.0-M11	-	60d9a9f78dca8c4fff0b8a7062ab5f50a54dddfd
@@ -1655,6 +1660,7 @@ org.ops4j.pax.url	pax-url-aether-support	2.6.11	-	3243717c030981fa098addd89f7f2b
 org.ops4j.pax.url	pax-url-aether-support	2.6.12	-	a037761ce1ca94436e097919d0e36b1c957cb0c9
 org.ops4j.pax.url	pax-url-aether-support	2.6.13	-	02ba1da5dc5afb600ec538fd301a2b31ab55adb6
 org.ops4j.pax.url	pax-url-aether-support	2.6.14	-	8f8af885de557593aecce992fe4a082233fefe11
+org.ops4j.pax.url	pax-url-aether-support	2.6.15	-	9e349fdd1d442de0eab9c2563fe5d078c9e8ff60
 org.ops4j.pax.url	pax-url-aether-support	2.6.16	-	c9cfb93b3b340219d323790a0bfca72d9320934b
 org.ops4j.pax.url	pax-url-aether-support	2.6.2	-	bafe604c72fc1d1059bd731738fc9f3c5ba6b5a8
 org.ops4j.pax.url	pax-url-aether-support	2.6.3	-	06916b77fd0f8bd3826b398584c91a8ad468a035

@@ -717,6 +717,7 @@ io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.2	-	6b0808c798a68c969ba117b2157133a6c923c875
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.20	-	d3f5703508ac55abe7f644abcfa3797e9143af79
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.21	-	03bb321f81dc2129732cf2716b4c76a06e3e0201
+io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.22	-	50a3cc4872486ab9bd4d2f2cefe9c404e971290f
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.23	-	36f67a80cce58a0786c74eae491262d387e618d3
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.24	-	0037c0c02931e52bfa815005aceb8b45f986be8e
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	3.21.25	-	322135d63ee50758d263752f251e22c626b91132
@@ -779,6 +780,7 @@ io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.1
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.12	-	82aa390bb9d3d2cccb262ee6a1086881be575558
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.13	-	fd14c3757d066db602176591254c96ab3aa3ce79
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.14	-	6abcae3496bcebec5844f1e200e84d19353b05b6
+io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.15	-	1d2e76bfbceed918c2d5a6b9ea8b4dc101011bb5
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.16	-	baaa2ffc596b31fcd3cbe412ad343427e95ee0e7
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.17	-	6d6692310cb36f0e431dd01ead1930b183cd66c0
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.0.18	-	f7a3267bd010a0963160c869bd307a6e8c5a1395
@@ -806,6 +808,7 @@ io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.1
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.15	-	1b86bc0d8856412cdb40dcb45cfe7cca8d087edd
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.16	-	6f09882c7a72c834cc7da3f8bfd12a495c1ce798
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.17	-	e9455da5f6d5337eb7f37e2e4a3f60abdb3287c7
+io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.18	-	57d02a74cb440a98617041e6beface6ec2fa9800
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.19	-	3dd06c9fbef13943bd1018132d726e9f9ec59068
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.2	-	b048d6cf11b8a0dabdd05fd300b769b2db5ae969
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.1.20	-	82ed8d5d559803062520be322752a11831293e15
@@ -866,8 +869,10 @@ io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.2.4
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.2.5	-	4875c0d69accb2638fe1d1b1c7255201c6011dde
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.2.6	-	d24a10117847cc80dfdbf1d95002b771c554fb9c
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.2.7	-	92c9cff997a23e88698958d8d54066fd7d306ee0
+io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.2.8	-	2617aa8a5bec4b60f4412dfba8ebc0c0491fb8f4
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.2.9	-	e7615b05891a0fdda28c66e8a99f2b4f52d762d5
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.3.0	-	c24d34cd90e1116d708f23ba5df8614679c9c560
+io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.3.1	-	4655aca154f63f664f899fd5ffcccd8fccd6c087
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.3.10	-	217233d6d4fa62b751190226a43fe9367150dc7a
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.3.11	-	d18f740c1a30fa170eb6e9e60641b46c8bbcecd7
 io.gravitee.am.gateway.standalone	gravitee-am-gateway-standalone-container	4.3.12	-	6c9bd925dddf4a013831a42475db6f1ecc23d12d
@@ -1130,6 +1135,7 @@ org.apache.camel	camel-jclouds-starter	2.25.0	-	e85d92b6e9e449770cfdc1db481e20aa
 org.apache.camel	camel-jclouds-starter	2.25.1	-	301f6c636b64c9bfb62231faf7856c681d9d03f8
 org.apache.camel	camel-jclouds-starter	2.25.2	-	653aed5e62bbce08f3b26761a27ac5c1eb5b1326
 org.apache.camel	camel-jclouds-starter	2.25.3	-	f12bbb0f5ec15460a6dd8e6b3e5b608aca3afbde
+org.apache.camel	camel-jclouds-starter	2.25.4	-	0fb1c9a409dd18d19af01eefb8c7c3f423a51d2a
 org.apache.camel	camel-jclouds-starter	3.0.0-M1	-	b2c227a963dd2a3f0684136fd2775740c655d4cf
 org.apache.camel	camel-jclouds-starter	3.0.0-M2	-	56c4c0fbeed24d4ce73207fd9cebcfce664c0d26
 org.apache.camel	camel-jclouds-starter	3.0.0-M3	-	df7d07db9e523d36d85e02d79b126f0d7dd0259c

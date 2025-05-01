@@ -305,6 +305,7 @@ com.thoughtworks.paranamer	paranamer-generator	2.8	-	5928c175920c6e95d5be724cb59
 com.thoughtworks.paranamer	paranamer-generator	2.8.1	-	b94075761965ef6ede26783dcc55ecc5ee240bec
 com.thoughtworks.paranamer	paranamer-generator	2.8.2	-	3f993a806c96ed424383117945ad817e4474c37c
 com.thoughtworks.paranamer	paranamer-generator	2.8.3	-	8e5518dd282f634cdbe6483fa64ccc40f10b0380
+com.uroria	engine-api	894318b224	-	e249640b78962366e919d3968914976f1df573e9
 com.vegardit.no-npe	no-npe-eea-javax-servlet-api-4	1.0.0	-	219ece952723f8cde9a432eb66eea9e5ff2685a9
 com.vegardit.no-npe	no-npe-eea-javax-servlet-api-4	1.0.1	-	b651de225cd5d6bab87765c9dc1f61561861b421
 com.vegardit.no-npe	no-npe-eea-javax-servlet-api-4	1.0.2	-	331a861e20a41c89de256adfdd4fdbdf5e72dbbb
@@ -472,6 +473,20 @@ io.bootique.jetty	bootique-jetty-jakarta-cors	3.0-RC1	-	675350d72d3e63110b270c0d
 io.bootique.jetty	bootique-jetty-jakarta-cors	3.0.M1	-	f2d84cb260decacd11c16ea21ca2f03ea619715b
 io.bootique.jetty	bootique-jetty-jakarta-cors	3.0.M2	-	817fe88ee1425f37fffd016b9a4985961d1ab675
 io.github.RafhaelSouza	mssc-brewery-config	1.0.0	-	d8024d569ba987be2fe3722044640d96949f011c
+io.github.breninsul	servlet-logging-starter	1.0.0	-	3dd080a4226297f19057d878dd81861c9cf4e234
+io.github.breninsul	servlet-logging-starter	1.0.1	-	f969824e17b3b4869d6da99d9acfc3af3b44487e
+io.github.breninsul	servlet-logging-starter	1.0.2	-	3ae48ef6597dd30555cd74913063ce2c86f7e508
+io.github.breninsul	servlet-logging-starter	1.0.2.1	-	1aef3215cf7295d163fde5ed207f338e49f50f80
+io.github.breninsul	servlet-logging-starter	1.0.2.3	-	3c7c60252a45683158889d5854ccd1c314914959
+io.github.breninsul	servlet-logging-starter	1.1.0	-	d9391f295541802587c72a574c76931e5415f072
+io.github.breninsul	servlet-logging-starter	2.0.0	-	487013ae5f2a28222ee4f246d6d10db338c14597
+io.github.breninsul	servlet-logging-starter	2.0.1	-	da5423ebd5059b50a9cd5a8c50f61b14e299a93b
+io.github.breninsul	servlet-logging-starter	2.0.2	-	7e3a4e2519504bb1152d391cef46fa6f524ca663
+io.github.breninsul	servlet-logging-starter	2.0.3	-	0d5a215b4ba29597e3383ee7f805d278cfd294fb
+io.github.breninsul	servlet-logging-starter	2.1.0	-	a6e1786b9a1a24f66d538aca21af6e37f3d1febc
+io.github.breninsul	servlet-logging-starter	2.1.1	-	d8bcda2119634169d5c05cb0ef7dd3cd8cd555e2
+io.github.breninsul	servlet-logging-starter	2.1.2	-	718902b8105e03161901c2dfd8dfa4aedfd4adc3
+io.github.breninsul	servlet-logging-starter	2.1.3	-	8309e4031d4772e64d1881530a2a771d29197ddb
 io.github.jamsesso	json-logic-java	1.0.0	-	09f30db509cc9ed794f7f97b472ae995242f7e64
 io.github.jamsesso	json-logic-java	1.0.1	-	bd695280bf55ac0378c0cddd8693551f1736cf9a
 io.github.jamsesso	json-logic-java	1.0.2	-	a4dfde79295df1a2ca0f2f946bbb3df24fa44613
@@ -871,6 +886,7 @@ io.streamnative.pulsar.handlers	kafka-0-10	3.0.3.2	-	f8ca1a63a2f509966dd989a912c
 io.streamnative.pulsar.handlers	kafka-0-10	3.0.3.3	-	5997062c7a990f819408fbfdfef4d1812662d9d7
 io.streamnative.pulsar.handlers	kafka-0-10	3.0.3.4	-	360c184ef77e89b67609f24b59ff8c4dc08709ff
 io.streamnative.pulsar.handlers	kafka-0-10	3.0.3.5	-	3bd45286757f371468a1ac9cdc3aff8200761f55
+io.streamnative.pulsar.handlers	kafka-0-10	3.0.4.1	-	c0bb41b4873bed606daa6adff7040a4833291b64
 io.streamnative.pulsar.handlers	kafka-0-10	3.0.4.2	-	56f1b4327be60d73d0f1ed5f94eae551cfd6eb56
 io.streamnative.pulsar.handlers	kafka-0-10	3.0.4.3	-	b973733c6e02e189047db0e64c36c1e44f7ad0f9
 io.streamnative.pulsar.handlers	kafka-0-10	3.0.4.4	-	6f0fcac6eccf4ae6f75410e704060dd172ee08f8
@@ -919,6 +935,7 @@ io.streamnative.pulsar.handlers	kafka-0-10	3.2.1.1	-	a92817c39df170bf8809c3deb88
 io.streamnative.pulsar.handlers	kafka-0-10	3.2.1.2	-	e37b57664d640a3aabf1d461005731eccac7c16b
 io.streamnative.pulsar.handlers	kafka-0-10	3.2.1.3	-	62b6dca098a92da02f20b8771053105f2020c9fe
 io.streamnative.pulsar.handlers	kafka-0-10	3.2.1.4	-	f2153c16fa287bfb1e2eafe69ec601fc79568e82
+io.streamnative.pulsar.handlers	kafka-0-10	3.2.2.1	-	2f3db9571603f2ad3a30618c4b035ec1730b3690
 io.streamnative.pulsar.handlers	kafka-0-10	3.2.2.2	-	9cf9b84e9c6231cabd93e6e7a01f874e7a204bd2
 io.streamnative.pulsar.handlers	kafka-0-10	3.2.2.3	-	738ea065c10d3ee28e9f0216dc51589b9364668a
 io.streamnative.pulsar.handlers	kafka-0-10	3.2.2.4	-	6250ba08b561d4c135f2a8e4a9944adfb8b79e81
@@ -962,6 +979,7 @@ io.streamnative.pulsar.handlers	kafka-0-10	3.3.5.4	-	5f9da1fbc74ec0bf09764746379
 io.streamnative.pulsar.handlers	kafka-0-10	3.3.5.5	-	56c0abcc135f41cb573033e25c04276544639708
 io.streamnative.pulsar.handlers	kafka-0-10	4.0.0.0	-	649451553f1e02c03742cac8bbfc605d65738e09
 io.streamnative.pulsar.handlers	kafka-0-10	4.0.0.1	-	44d9ed4add760510b27b1aa3036ede8613c07589
+io.streamnative.pulsar.handlers	kafka-0-10	4.0.0.10	-	78f12634432204d36e82985ab304877924b6276f
 io.streamnative.pulsar.handlers	kafka-0-10	4.0.0.2	-	b855402fbeac5dcbf627c16ea48e49641306073b
 io.streamnative.pulsar.handlers	kafka-0-10	4.0.0.3	-	c7c2c4c3d4a3f1708911a460f16c3253826d9463
 io.streamnative.pulsar.handlers	kafka-0-10	4.0.0.4	-	332457f9a270411fb721aacedf86b4aaf97ddfe4

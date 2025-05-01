@@ -1237,6 +1237,7 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.19
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.2	-	0a01ae83302fa040aa4ea520460efbdbcabf13ad
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.20	-	876a70244975353f148f68d6c5106e105151b7f2
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.21	-	db2b4f838d2635cf7cd5ca5c61617f657893a814
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.22	-	aea83dcbc131a736b86a6d9155b61f65ea032827
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.23	-	575e8b28c51cfdf1502d3ea2afa967cc4d5c5b24
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.24	-	7f614e57c0fae871069e006dd3ec311c75fee4c9
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	3.21.25	-	39060f1feb6c784188bc28e8a3d2b17a0e0c5d2c
@@ -1299,6 +1300,7 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.11	
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.12	-	0053a2d7220691ac935a639075005ae97fa2c708
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.13	-	484a02e0638f27c17351aa2e596451eb7496c3c9
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.14	-	74908d77607f65a2dd433aba3f86fae04dcca7db
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.15	-	9d885fe91217ac8cf7e67086aa7fc4fa96394c0c
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.16	-	469176ea4e2d13f716cb6c12e6caaf12e94c950b
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.17	-	d0d157a6f299e9f05f4a9ca73e8f1fccb108e55b
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.0.18	-	2b0761df464e61bc15327cd814c7452d4489ef1e
@@ -1326,6 +1328,7 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.14	
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.15	-	8d1c57100156307802458c9d6609613f4450d5fb
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.16	-	c810f2075d40a41fd32f2b7412d00a0488ca0725
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.17	-	a2ff90693e5943919908b40082a69c83ac2e34ce
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.18	-	985f473ca55a4b33a9e4f67363ff2a712f1b0c86
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.19	-	a8bae9264c936684c818bc796103ce9aa2d6ef4f
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.2	-	de37589b8fa77a65fd3a05c072886c0a9d2b1941
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.1.20	-	a46394122d68b5ee2528a5f8e6ef74dfae8f844b
@@ -1386,8 +1389,10 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.2.4	-
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.2.5	-	5eee0091078e283b59b9c12bd3855d899e38261b
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.2.6	-	a9b7fbe4c97d06e219937b2229034ed66e67286f
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.2.7	-	20996203e5e5b332b7741d07cf9fd9dee8e5bff1
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.2.8	-	7aea1bffb980fa9d262a192c6eb68036e473dd11
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.2.9	-	22b800b5388b978bb964014bf5b02b5c16df28a4
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.3.0	-	3c4a9805d9e9671fba9ccbd3f1784224b639f8da
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.3.1	-	b2108c4c6130468e7219bd3b26dae2161f19dc05
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.3.10	-	779a492c96d46f420b692155fd284e55fd607e21
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.3.11	-	999b28b805695df80f37cb16699fcadbfe0b3159
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-certificate	4.3.12	-	6d88a997583088128eef3181b653546df8fa2394
@@ -1657,6 +1662,8 @@ org.mvnpm.at.mui	material	5.16.14	-	6413691d67e5f34c840886c4cdaea335e9fa4053
 org.mvnpm.at.mui	material	6.0.0	-	8b23e13f4f9a52a650638ed2096afae60a4dcbe4
 org.mvnpm.at.mui	material	6.3.1	-	f616e52f75b6584db61bb21f088bef9e9ba373c4
 org.mvnpm.at.mui	material	6.4.0	-	458f1eaa178fa32533c83e85907db01831a7878a
+org.mvnpm.at.mui	material	6.4.11	-	c75e61e0c776922d108575744c9b03b2e1956db8
+org.mvnpm.at.mui	material	7.0.2	-	466566eb520f0efa787f2e2457c7010125e0b5ad
 org.netbeans.modules	org-netbeans-modules-gsf-codecoverage	RELEASE100	-	a50dbb58b05670cbcfa67171225a4c63edf11a68
 org.netbeans.modules	org-netbeans-modules-gsf-codecoverage	RELEASE110	-	4f026c27db7633df2cdad826ec557f8c2a787d6d
 org.netbeans.modules	org-netbeans-modules-gsf-codecoverage	RELEASE111	-	45def3a76696c382a3c2c7b55847cdcb1eb156f3

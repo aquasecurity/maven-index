@@ -267,10 +267,16 @@ com.ascentstream.pulsar	pulsar-client	2.10.7.1	-	773fd80c57f9485fab433dc9a0c5fc9
 com.ascentstream.pulsar	pulsar-client	2.10.7.1-SNAPSHOT-3c76893	-	b60c984a505b131e7d4b28222382ddcd49f4e069
 com.ascentstream.pulsar	pulsar-client	2.10.7.1-SNAPSHOT-4670905	-	b605fe4fffecc8d4b1018c5a5401e9062c466702
 com.ascentstream.pulsar	pulsar-client	2.10.7.1-SNAPSHOT-8da4484	-	3b62fc5848bdf96054f72ebcf4c9e56ebd4c35dd
+com.ascentstream.pulsar	pulsar-client	2.10.7.10	-	1470662ed1cfa20aaffe99d388402b6e388d2603
+com.ascentstream.pulsar	pulsar-client	2.10.7.11	-	d011dc4e03e3a1c35ba1ffded8a2a01ddaa33175
 com.ascentstream.pulsar	pulsar-client	2.10.7.2-SNAPSHOT-86382c9	-	30dab857bd003d141c1fbc70e254595519a7325e
 com.ascentstream.pulsar	pulsar-client	2.10.7.3	-	82d9e2d2c3ab72a5dd1e0076f49de733b668d4dd
 com.ascentstream.pulsar	pulsar-client	2.10.7.4	-	7a24a82fbb6d6cb6960d6a245d90566dc196b3d8
 com.ascentstream.pulsar	pulsar-client	2.10.7.4-SNAPSHOT-35e64fa	-	e7f02250e181c16d155038380ff487413036130a
+com.ascentstream.pulsar	pulsar-client	2.10.7.8	-	b8e1c75b86a8402c72c91fd130d1acc19844246f
+com.ascentstream.pulsar	pulsar-client	2.10.7.9	-	b343524ef1ff92a5335529eacdeec0f7867e97ce
+com.ascentstream.pulsar	pulsar-client	3.0.10.0	-	f38f7d05ef17189b5bdd8c25e2a78337743b443c
+com.ascentstream.pulsar	pulsar-client	3.0.11.0	-	5f777dce733296077181df9f2d3484fc1e57753f
 com.ascentstream.pulsar	pulsar-client	3.0.7.0-SNAPSHOT-a030c50	-	6fa2219c230eb2b0a2b85da3736c5d63b89d5b65
 com.ascentstream.pulsar	pulsar-client	3.0.8.0-SNAPSHOT-16a7bcc	-	312581b79215ee8859a57dac07c1674e17883adf
 com.baidu.cloud	spring-cloud-baidu-thirdparty-commons	2022.2.0	-	9e32f9f12ffdec39988ce7b12158a901f5acf128
@@ -1550,6 +1556,7 @@ io.github.pme123	camundala-bpmn_3	1.30.22	-	7f4378df41bf02035af44e257e1d48eba9d1
 io.github.pme123	camundala-bpmn_3	1.30.23	-	aef8cecf5f4604572c50dbd396268185ca8ea7e4
 io.github.pme123	camundala-bpmn_3	1.30.24	-	b554b6c284c7e0b66633b624b1e129a0b3d20105
 io.github.pme123	camundala-bpmn_3	1.30.25	-	2e1a02024f88e06a9e2a9fbf124a46a03304fdb5
+io.github.pme123	camundala-bpmn_3	1.30.26	-	484490c47696f6ad1fae1d71b54bec0da7047409
 io.github.pme123	camundala-bpmn_3	1.30.27	-	c7ba90221afdce19341ceca997b3700550c4c8e1
 io.github.pme123	camundala-bpmn_3	1.30.28	-	97a51e68df6389c00d6f4c0f714c6c8b8421e079
 io.github.pme123	camundala-bpmn_3	1.30.29	-	a24e82596317a9ba7bee10ff30647e643ff9c22e
@@ -1964,6 +1971,7 @@ org.apache.camel.springboot	camel-catalog-provider-springboot	3.4.6	-	02aafb7c9c
 org.apache.camel.springboot	camel-catalog-provider-springboot	3.5.0	-	510f2882403197397d24141e015cc32967510e03
 org.apache.camel.springboot	camel-catalog-provider-springboot	3.6.0	-	0613b24cf84f264ad0c0b0c9bd56d40c3e09c21a
 org.apache.camel.springboot	camel-catalog-provider-springboot	3.7.0	-	b8eb2eadc7b903bf286189c530d973421c9e7815
+org.apache.camel.springboot	camel-catalog-provider-springboot	3.7.1	-	ffaa8a9731da4ba65f7ba377fe6a8a7c58118aa4
 org.apache.camel.springboot	camel-catalog-provider-springboot	3.7.2	-	828e19b17e2c1cd50538aa6ba0e6ea7c3d92c617
 org.apache.camel.springboot	camel-catalog-provider-springboot	3.7.3	-	91a9c8c47743fefdc36a0df4503cf5d9c2a9b96e
 org.apache.camel.springboot	camel-catalog-provider-springboot	3.7.4	-	6f7da19a95d95ec3b230e37a8b1f3db45801b9b5
@@ -2333,6 +2341,7 @@ org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-JDK17-M10	-	e9d8
 org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-JDK17-M5	-	a94e86196dcdcac0e229e4016ff8133bee7fdf38
 org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-JDK17-M6	-	124fb665d6cae207821c7ff26da4647c103bf4f3
 org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-JDK17-M7	-	b8175a7ade146ab44d80a45c418287a318c680ed
+org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-JDK17-M9	-	f6dafa6496f124568ce386fcdfb2819d900295ba
 org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-M1	-	36b093e3f60e04125292f21bec8cb7454996b6a0
 org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-M10	-	105f3e0a1ff48bc29d7adbc8446974a2506ad3e2
 org.glassfish.main.extras	glassfish-embedded-static-shell	8.0.0-M11	-	1c8e262714f05d4e15cbfde81e118aac206ceb29

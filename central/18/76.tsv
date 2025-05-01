@@ -1510,6 +1510,7 @@ io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.19	-	d76112f56c1f7ebd0c87
 io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.2	-	5c5bbbb72e3a0b08ee435bf9ee623f1d7796c7cd
 io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.20	-	9c53a597c214688a93f7da797af4e22a615ee554
 io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.21	-	becca477ab897d4a9b4dfcfc08e188adcec04dcf
+io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.22	-	37a45f0c94675344784a55ac8ff9c856a98d3388
 io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.23	-	f44c19915718ac050397aa0f32eba2c46685c8ee
 io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.24	-	59662abb412faf92d8f4f2578571c011fa0ec5eb
 io.gravitee.am.gateway	gravitee-am-gateway-policy	3.21.25	-	1d6a213ff0f0edde83dd829f013e714e67c6faea
@@ -1572,6 +1573,7 @@ io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.11	-	4874aae6df078714929f7
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.12	-	af0cd608208623357ffeb62c116b980be289973d
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.13	-	42e89e93dbc05986ab1f40cf73d457bac9b0d7e3
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.14	-	62eba32465d3d0ea0ff4e3e322befed641592522
+io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.15	-	f277c2be2e9c5175a1fa9d347042bde1a4f91f57
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.16	-	6f59c75e159d97c1318f08dc88ca29818f9c797a
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.17	-	4fe2698825650a60e490bbd782c3b606a43d9381
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.0.18	-	60a9797a5875f440189ae2a8794e88959a9464fd
@@ -1599,6 +1601,7 @@ io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.14	-	d35936b0b8864bfbdcb79
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.15	-	115553c2d97a25962399f19d88e24c5b55546d2b
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.16	-	a8f90299ab43068c23727c017c8193a9354ba83b
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.17	-	191b6679425566a3cecc4c4ceecaaed5cba561b9
+io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.18	-	14c82f03e3b428946303dcea39d6f5a2494af9a0
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.19	-	4d1d69e40dd91d1c861b1d3ec7e09b86722a73d2
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.2	-	ea8f694d198162d5e3fe9b0e5a8eeb916003b3ed
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.1.20	-	efb8eded7fc8644e403cdfda70525dbb6d48d698
@@ -1659,8 +1662,10 @@ io.gravitee.am.gateway	gravitee-am-gateway-policy	4.2.4	-	26267a3c33107fd2a99c57
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.2.5	-	d07ad27a4f8b47b46cd79d5369ada21ed1adda5a
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.2.6	-	02a49e327222a96388a9b5da7403c79f4083d831
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.2.7	-	96310d7cf661991781056430a8792e7fb9fbebf0
+io.gravitee.am.gateway	gravitee-am-gateway-policy	4.2.8	-	c66a82f490629d0f71e4d886e5be810faaf84df7
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.2.9	-	d76131a60f6682a9c46d2ef769404b67403a4490
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.3.0	-	66b6e855b80783b188e99df1dcba9e5667e1d000
+io.gravitee.am.gateway	gravitee-am-gateway-policy	4.3.1	-	18e511fa761b7d116e37c8f3fd62fe71879cf263
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.3.10	-	dbd78e43514aa07e067731518c35e2318c0eb8bd
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.3.11	-	63d3f3f0adeeb2753b9411f12d2a3d7644eaed64
 io.gravitee.am.gateway	gravitee-am-gateway-policy	4.3.12	-	c8d502cfb4c60b923853bdbf3cf0f81e78dc1a51
@@ -1898,6 +1903,7 @@ io.quarkus.arc	arc-atinject-tck-runner	3.17.1	-	8f60c96f1970baf8f63315b3501e51a9
 io.quarkus.arc	arc-atinject-tck-runner	3.17.2	-	68ef9bf4bacf7b32d8a2b7b39cdefd6ddff0c750
 io.quarkus.arc	arc-atinject-tck-runner	3.17.3	-	2b25c4d272be9c102cba847700ce59a2e27d51b0
 io.quarkus.arc	arc-atinject-tck-runner	3.17.4	-	49521d66b57b2060576b7acc1d8c4f4d30a1f592
+io.quarkus.arc	arc-atinject-tck-runner	3.17.5	-	02067d699b1b79522b341715e3094ab36edb07a2
 io.quarkus.arc	arc-atinject-tck-runner	3.17.6	-	5a8b6edc3152d2a03b7faedc5902670dcab40000
 io.quarkus.arc	arc-atinject-tck-runner	3.17.7	-	9269db964b1343a3218a5f08eaadfc0330ce9a09
 io.quarkus.arc	arc-atinject-tck-runner	3.17.8	-	15cc16eebc350c4b36c3fc44dbc13bed4d9d7c59
@@ -2607,6 +2613,7 @@ org.mule.tools	mule-catalog-archetype	3.7.0	-	446a166918e8e924dd70839fee40f2effd
 org.mule.tools	mule-catalog-archetype	3.8.0	-	fb4e4cc5fbc34cd4984920f9ca9fe835214f35b3
 org.mule.tools	mule-catalog-archetype	3.8.1	-	bc4afae56b87fa027845dcac267ac27284ca8110
 org.mule.tools	mule-catalog-archetype	3.9.0	-	a33cdc2723515b3fee1b23df0eaab7b57479e25c
+org.mvnpm	colorette	1.4.0	-	04d92c1574b43cc8cae54c4e942fc7ac0ca81e34
 org.mvnpm	colorette	2.0.20	-	7491efa105e5da3d67be35e3375a6b5a968c50f6
 org.opensearch.plugin	ingest-user-agent	1.0.0	-	e65e20daa547b4591e2882c868ff7f33c892d5eb
 org.opensearch.plugin	ingest-user-agent	1.1.0	-	2e8e76a60ccd031627472eff6eb572ad18051db7

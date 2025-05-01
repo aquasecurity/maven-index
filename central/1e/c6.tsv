@@ -10,6 +10,7 @@ ch.exense.step	step-automation-packages-sample-junit	3.24.3	-	453e9cf25f75458dfd
 ch.exense.step	step-automation-packages-sample-junit	3.24.3	3.24.3-jar-with-dependencies	08e9c7c9da09907cb4bb8e9539d0b10bdd442fdd
 ch.exense.step	step-automation-packages-sample-junit	3.24.4	-	26f8bd0d46aabbce9681c85f4c5f4bb0a5d02f9e
 ch.exense.step	step-automation-packages-sample-junit	3.24.4	3.24.4-jar-with-dependencies	38c224a434ccb5af257e6cde848489325c4b3181
+ch.exense.step	step-automation-packages-sample-junit	3.24.5	-	bfbf7d807be0f9e2287de55de982bf591c536b9b
 ch.exense.step	step-automation-packages-sample-junit	3.24.6	-	aa86e814243d769a372623074ced25b1bae5dddb
 ch.exense.step	step-automation-packages-sample-junit	3.24.6	3.24.6-jar-with-dependencies	013cf659fd0b90d2c27992119f37b31b3fc8c93c
 ch.exense.step	step-automation-packages-sample-junit	3.25.0	-	5b04d4db386525165820513a209e7a0fd04d14a0
@@ -371,6 +372,7 @@ com.daml	http-test-utils_2.13	2.9.0-snapshot.20240402.12718.0.vbb951d6b	-	aca626
 com.daml	http-test-utils_2.13	2.9.0-snapshot.20240402.12722.0.v99293bb4	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	2.9.0-snapshot.20240402.12722.1.v99293bb4	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	2.9.0-snapshot.20240403.12723.0.v893d7404	-	aca6260bba28889c6485e711e16f2e8311a62d56
+com.daml	http-test-utils_2.13	2.9.0-snapshot.20240404.12726.0.v5f6bd1d0	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	2.9.0-snapshot.20240408.12727.0.v1f85d6fa	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	2.9.0-snapshot.20240409.12732.0.v79c64703	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	2.9.0-snapshot.20240410.12734.0.v7ca3419a	-	aca6260bba28889c6485e711e16f2e8311a62d56
@@ -516,6 +518,7 @@ com.daml	http-test-utils_2.13	3.1.0-snapshot.20240329.12973.0.v3b51e1d5	-	aca626
 com.daml	http-test-utils_2.13	3.1.0-snapshot.20240402.12976.0.vaef62dc3	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.1.0-snapshot.20240402.12980.0.vdee7adc6	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.1.0-snapshot.20240403.12984.0.vcf2b387c	-	aca6260bba28889c6485e711e16f2e8311a62d56
+com.daml	http-test-utils_2.13	3.1.0-snapshot.20240404.12987.0.v655af784	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.1.0-snapshot.20240405.12988.0.vc3194058	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.1.0-snapshot.20240408.12992.0.v0ec87985	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.1.0-snapshot.20240409.12996.0.vbe4fc91c	-	aca6260bba28889c6485e711e16f2e8311a62d56
@@ -702,6 +705,7 @@ com.daml	http-test-utils_2.13	3.3.0-snapshot.20241212.13479.0.va9f5f91b	-	aca626
 com.daml	http-test-utils_2.13	3.3.0-snapshot.20241213.13481.0.vd934c2f9	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.3.0-snapshot.20241216.13485.0.va69e378b	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.3.0-snapshot.20241218.13489.0.v0b3a5a73	-	aca6260bba28889c6485e711e16f2e8311a62d56
+com.daml	http-test-utils_2.13	3.3.0-snapshot.20241218.13493.0.v00a49d59	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.3.0-snapshot.20241219.13494.0.v31045c53	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.3.0-snapshot.20241220.13496.0.v964b91f8	-	aca6260bba28889c6485e711e16f2e8311a62d56
 com.daml	http-test-utils_2.13	3.3.0-snapshot.20250106.13498.0.v4c96c1de	-	aca6260bba28889c6485e711e16f2e8311a62d56
@@ -1172,6 +1176,8 @@ io.kamon	kamon-opentelemetry_2.13	2.7.2	-	f09aa1ba0a4e0cfa5ee9d2edc8de2a7bbaf785
 io.kamon	kamon-opentelemetry_2.13	2.7.3	-	0244f4244447e575c85bbb1111260120ec07080e
 io.kamon	kamon-opentelemetry_2.13	2.7.4	-	3f5b47304409875b00915202cff287213a5dfdf3
 io.kamon	kamon-opentelemetry_2.13	2.7.5	-	045fe1b22173e82c3cac6b4ad81eb9ecb019e4fb
+io.kamon	kamon-opentelemetry_2.13	2.7.6	-	d0f2a2793f2b56bab6e79d446c47e9b72f17f2b6
+io.kamon	kamon-opentelemetry_2.13	2.7.7	-	d367e599867afe0095c313af8666bf6956de70f2
 io.kinoplan	utils-implicits-collection_sjs1_2.12	0.0.14	-	90d0b71ea8331253df3fde9faa9c86583d6889eb
 io.kinoplan	utils-implicits-collection_sjs1_2.12	0.0.15	-	34cb3e54a49377936acd4b26d9ebe140f2bc68c6
 io.kinoplan	utils-implicits-collection_sjs1_2.12	0.0.16	-	e436b96e5327c55ccc57ffcdd79d33e8a87827c3

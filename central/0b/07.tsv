@@ -19,6 +19,7 @@ cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.301	-	98ccaa578c0e54ada5f953d9549a3f
 cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.304	-	ba57f70a58f308f33a416315ba7ff3fd576d9d11
 cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.310	-	5cb53cec7d589dea2a0c0dca949f560b1b369c89
 cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.317	-	651a407abb6b0d78803d2ea4ce82574a085d488c
+cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.319	-	9a04daf376a158aebf68f5c52b7f0e26ad6724c4
 cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.371	-	9d0eb92db23b01bf352a0dc798e4c70eac1b7c95
 cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.372	-	c25e530bbd0418d7a90300d938fea43ccfebf736
 cn.ibizlab.plugin	ibiz-codegen-groovy	8.1.0.458	-	bd4495bf8ad1b6561bc72f09f82e98ca7f952bf9
@@ -1579,6 +1580,7 @@ io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.19	-	34aefdb292660ed
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.2	-	8db110ada21518353ce196479d59015d7ca57e24
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.20	-	63d2a96ea3dd846e20222934497975fd38da7276
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.21	-	d2a5b51cdacd7728a6e94cbed9c1c4034708e0e4
+io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.22	-	2a2d69cf8a6def7badc3651aa50d05bd9363a296
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.23	-	ebeff62d6635b66596bc4f2cd7da531def64edaa
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.24	-	a90e09d372db82d86ab3b1018b2ed3c9226972cf
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	3.21.25	-	64b08e6666cdea4b5430ffb18c4e41a1c575f609
@@ -1596,6 +1598,7 @@ io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.11	-	367809a798a0e4f7
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.12	-	c2ce820f5f935aba25390b394ca66e56f8ae648d
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.13	-	e7949485087f6833b3a5935ee39069a82d3798b5
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.14	-	9e8bda594d94fb34957f88e4a5c714aea791893b
+io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.15	-	f0dabcff9860b99afb88a44e03c179469e9c1038
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.16	-	03da1e5943ba5d0d51798b3b59b00263b7e5724c
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.17	-	ec1e42d46e061e33281ceb9489a06594f5e91d40
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.0.18	-	0d2b95dc242115cf46f669ae7cadd8ca5cf664cb
@@ -1623,6 +1626,7 @@ io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.14	-	d24396cc4e800fb9
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.15	-	2c1b6628f83dfc4c32cbc358daa4abf7f2af531a
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.16	-	2b246602f878d3b1249edf46ba99b3736ba69bff
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.17	-	a84679908abf2e4dfbef943f98d529b364d1774b
+io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.18	-	700ce0c9575e7d99146631468538bf8ef3ccf135
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.19	-	9c8731578b3a7f9380896338d0cc96c020c79731
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.2	-	b769c32675e7a0e97bcc440d04cb1033f59de88c
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.1.20	-	293adbf6d8d0c290782c4d9d828a9158f19f3716
@@ -1683,8 +1687,10 @@ io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.2.4	-	7268d3aecf0bdc22d
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.2.5	-	08aa9c59100e8ee4086159a175ab81df075aa851
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.2.6	-	a7bef69920e03f925a7000cbc421d7d5e730b8b4
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.2.7	-	8b082b9da783c212e2a77adbecf19708617aa863
+io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.2.8	-	afd7ac2cf0b8ec7b81f6c5f81c0175820376e4dc
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.2.9	-	864a0d78a0495cea2624b4d87b6650a5310b56ec
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.3.0	-	4ac9d798a3dd70378876e48c58edb7c95b64ddc7
+io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.3.1	-	731fb94467b45c3ecd0f400163f339e073e50631
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.3.10	-	48c036fbc20ba9c8d5b54b38066ae21fee129d66
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.3.11	-	c79045010bafa83ed6aff10a06a3eb5cd8d6cae6
 io.gravitee.am.ciba	gravitee-am-ciba-delegated-service	4.3.12	-	29093dc7b82d4b0b0e927ea417a1090f9501f56f

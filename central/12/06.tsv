@@ -241,10 +241,16 @@ com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.1	-	44aed372
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.1-SNAPSHOT-3c76893	-	0542ade8e1f200baa46a133619e23f91b297c665
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.1-SNAPSHOT-4670905	-	4bf51cd407112fc0bbbed86ff6520ec33b18b586
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.1-SNAPSHOT-8da4484	-	2442173b97a7325abc802df24d9f987d3dc4d174
+com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.10	-	f08f994a353ac7ad0c0f7e6bae58fe991cc996b3
+com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.11	-	bcd147a57be6ebcb60b23389a520f248800c205b
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.2-SNAPSHOT-86382c9	-	8081fd270064dbf63e4dd30c83419cf9b9631a7b
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.3	-	565fb078d295a538e4b66b03a788a63c494498eb
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.4	-	4b8ada9a8f99ffd144fe2c903cccd1db51a6007b
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.4-SNAPSHOT-35e64fa	-	3f1ade7c8e61dbe2bf6f1966423e1d17748a2c89
+com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.8	-	21d9e18f48706a98e9a511bad6553081d5703315
+com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	2.10.7.9	-	a83e5153b77451bbf1ac7c0bd9b893c2219d4068
+com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	3.0.10.0	-	d668996fa758d456ae57b9f2054c528954b46fcf
+com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	3.0.11.0	-	d64e23c2eda947204d8d7c8e24179e36fa183578
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	3.0.7.0-SNAPSHOT-a030c50	-	0d3b764192adf8f1e592c1c55c007e2fedfaf9ea
 com.ascentstream.pulsar	pulsar-io-batch-discovery-triggerers	3.0.8.0-SNAPSHOT-16a7bcc	-	d9dda5c551fd4122debda35285c40dca2280abe8
 com.besselstudio	coingecko_2.12	0.1.6	-	a455b701331b818c75486d3872bcb33998fb22db
@@ -498,6 +504,7 @@ com.hashicorp	cdktf-provider-digitalocean	11.10.0	-	42a04190c74236b9aadfe7be07dd
 com.hashicorp	cdktf-provider-digitalocean	11.10.1	-	82714314997a3d8b2c92bda5c725830e3905717e
 com.hashicorp	cdktf-provider-digitalocean	11.11.0	-	4df09524139c23ad75c171a277c2b5a0df1bd101
 com.hashicorp	cdktf-provider-digitalocean	11.12.0	-	3275dc7befa15dc68c97b2a4c50d21560998e235
+com.hashicorp	cdktf-provider-digitalocean	11.12.1	-	86347e090900ac34925e94e9859e91d08750c856
 com.hashicorp	cdktf-provider-digitalocean	11.13.0	-	cb619149af445ec2325ad7ea37a4ad3b76456c17
 com.hashicorp	cdktf-provider-digitalocean	11.14.0	-	15e719ae889319c4254ec71987c8ba803450caaf
 com.hashicorp	cdktf-provider-digitalocean	11.14.1	-	fc358d458ec6c9f969f23b2231e6cb368974f039
@@ -1382,6 +1389,7 @@ org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.3-RC2	-	8b66eae
 org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.4	-	a63ad8ede61aadf068123a2b9d8c670666bd049f
 org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.4-RC1	-	c3cccdbba503856b79da802dbde05ccac998db7c
 org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.5	-	5e9dff7551e7754a324a71d8b3ebc79ba4f6d498
+org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.5-RC1	-	8fa8045875cd5557c1bc2c8696c83f932c908f85
 org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.5-RC2	-	65fe18c122767ca84cbc0623f2ff4e5e53328dfe
 org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.5-RC3	-	ad6519567b6048c2d305f71fe9604166f76a75d2
 org.eclipse.persistence	org.eclipse.persistence.dbws.builder	4.0.6	-	f3efd949fa225109fab5b3c76d75347d2bf12df6
@@ -1395,8 +1403,11 @@ org.eclipse.persistence	org.eclipse.persistence.dbws.builder	5.0.0-B06	-	ecced70
 org.eclipse.persistence	org.eclipse.persistence.dbws.builder	5.0.0-B07	-	a2b720b37461bb499381419212f095e87b891b6b
 org.mvnpm.at.radix-ui	react-dropdown-menu	2.0.5	-	bb5c9fd5972e1eda232e7976b412921930f9bf80
 org.mvnpm.at.radix-ui	react-dropdown-menu	2.0.6	-	3fd2657bc2fdd2e351a958dc682d60b150996707
+org.mvnpm.at.radix-ui	react-dropdown-menu	2.1.10	-	7c322327ae125f6cb8e8b64f9419ae3107b8238c
+org.mvnpm.at.radix-ui	react-dropdown-menu	2.1.11	-	df44c216bd22a4a366c6d2242c13130434cb505f
 org.mvnpm.at.radix-ui	react-dropdown-menu	2.1.6	-	b2ef4415dbde93bc1e7e582e34a91853c7ab1f98
 org.mvnpm.at.radix-ui	react-dropdown-menu	2.1.7	-	75af5161a477b80425095af612830f6072ae961a
+org.mvnpm.at.radix-ui	react-dropdown-menu	2.1.8	-	03f5e91534163129c7d37dca954f9dc438572876
 org.neo4j	neo4j-cypher-compiled-runtime-3.2	3.2.0	-	ddf3cae712b150be8e870fd6b96a4d71085b254d
 org.neo4j	neo4j-cypher-compiled-runtime-3.2	3.2.0-alpha05	-	a7d932b22d0164559c9d5e4c00d2fcac9617dd27
 org.neo4j	neo4j-cypher-compiled-runtime-3.2	3.2.0-alpha06	-	6e92e0b764db27de72cc1e8ab4d137d538b8a46a
