@@ -790,6 +790,7 @@ com.liferay	com.liferay.portal.security.ldap.api	8.0.0	-	a3fb1651ab4e8757a3efe0d
 com.liferay	com.liferay.portal.security.ldap.api	8.0.1	-	9bacf974da5bfdb72dd7ba4ff942347ce7e5e599
 com.liferay	com.liferay.portal.security.ldap.api	8.1.0	-	5e075e290e281dd71186b134bfb278eefa11a271
 com.liferay	com.liferay.portal.security.ldap.api	8.1.1	-	6964b936877a6b8fd668b4dfe1d4952784f4748f
+com.liferay	com.liferay.portal.security.ldap.api	8.1.2	-	dc582e9af0272c08071a251ba77ddf8bfb3c706d
 com.liferay	com.liferay.questions.web	1.0.0	-	6b284f05561409061b33d2258016971dfbb22b18
 com.liferay	com.liferay.questions.web	1.0.0	1.0.0-jsdoc	bfb709d01def63a451335a8a3badef06dcfcaca9
 com.liferay	com.liferay.questions.web	1.0.0	1.0.0-jspc	a1f37856a8146eaa3f0980b841511408b47b3096
@@ -1301,6 +1302,9 @@ com.liferay	com.liferay.questions.web	2.0.125	2.0.125-jspc	3969919be0d6ccd5eb84b
 com.liferay	com.liferay.questions.web	2.0.126	-	6f0917801cd63cd4d5ff52219069fe789370e9ab
 com.liferay	com.liferay.questions.web	2.0.126	2.0.126-jsdoc	9e297a266bf62a88e9bb13c9a1aa93a2cde43659
 com.liferay	com.liferay.questions.web	2.0.126	2.0.126-jspc	ef5b586aee210d6339f7dd716133ef57b9c47fd2
+com.liferay	com.liferay.questions.web	2.0.127	-	a58886d5bfc8283166859022aba46f9969db1b46
+com.liferay	com.liferay.questions.web	2.0.127	2.0.127-jsdoc	5e6178574e90fa506068f0b6e0fb855351b38d7e
+com.liferay	com.liferay.questions.web	2.0.127	2.0.127-jspc	2f11a0b2d1cd842925a1f6f59558aa1e0ee6bbb2
 com.liferay	com.liferay.questions.web	2.0.13	-	95825bea7ba406d2b8d34e6b75f8e9bd5f24133f
 com.liferay	com.liferay.questions.web	2.0.13	2.0.13-jsdoc	32a8304108a7452aa175323a6114c8b0faba061d
 com.liferay	com.liferay.questions.web	2.0.13	2.0.13-jspc	2dce853b34b3b7eac22fe3001bd952950487e4da
@@ -2732,6 +2736,7 @@ io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.23	-	66da450b9e1f53
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.24	-	be96403a79a1ea04883862ca961d04581b4455ba
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.25	-	e7636da3a98739e384a5d84a642bc38d6ff403b7
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.26	-	335dd544a58de17a2491cae451db9684bb698604
+io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.27	-	d1c382b9e936e5b799a1c520b15750ecd1655c3a
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.3	-	a990d16109859dc506a3f91d6693615d21d77c1a
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.4	-	8b2777a1e1cddacb75e581ab736211dde5b229d3
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.4.5	-	a74c5622bbee15d7d5ae1533aed1ef8e6fbcce9c
@@ -2748,6 +2753,7 @@ io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.12	-	968756e527ecb5
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.13	-	5e138ce202315af8575f119f5fffd7abd35e224c
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.14	-	42b3d17cf9c175719e79c8df3d360e0a8f163cb2
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.15	-	bbc85c1b1e0c478d07478be01e9c19c2c080cd47
+io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.16	-	b31bbf47039ca480a5d66793e747b360a9b2f999
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.2	-	4a081073201de846d28ca63345b06f8f16b56a6c
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.3	-	09d86e2374bc34d79905ad0014d0c017bc892f7d
 io.gravitee.apim.rest.api	gravitee-apim-rest-api-service	4.5.4	-	26cd51958fd8b22b904c57f93a934afd28152765
@@ -3831,6 +3837,7 @@ software.amazon.awssdk	georoutes	2.31.31	-	b3cdc13ec62157cab5ee40db60d80e9493bce
 software.amazon.awssdk	georoutes	2.31.32	-	384e5d0b4e27d4afd343385a7fa3d5beff503f14
 software.amazon.awssdk	georoutes	2.31.33	-	33c5b83f7f542bf9db329eceabd7102e9fbb7e11
 software.amazon.awssdk	georoutes	2.31.34	-	0c9ec54e524a1e97c73148a44142e6f885c80f66
+software.amazon.awssdk	georoutes	2.31.35	-	e70361e0c35a0add4fc3cac27125116b3f73432a
 software.amazon.awssdk	georoutes	2.31.4	-	fed2df0803c6bcb5b69a970761db424840912179
 software.amazon.awssdk	georoutes	2.31.5	-	c1233c8e6f9ca1fa171140286a2fcb598dec1145
 software.amazon.awssdk	georoutes	2.31.6	-	c65d2b71cbff2fbe100fb9ad8551cfab8fb2b830

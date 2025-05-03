@@ -127,6 +127,7 @@ com.liferay	com.liferay.oauth2.provider.rest.spi	4.0.4	4.0.4-sources-commercial	
 com.liferay	com.liferay.oauth2.provider.rest.spi	4.0.5	-	7ea468284dacc653a1f6520a557779fecd15757a
 com.liferay	com.liferay.oauth2.provider.rest.spi	4.0.5	4.0.5-sources-commercial	07c12b5036bbfbc4f119098535136b691dbd60b9
 com.liferay	com.liferay.oauth2.provider.rest.spi	4.0.6	-	15ed05e51d8ec604b3f29a24289b38afd47f93cb
+com.liferay	com.liferay.oauth2.provider.rest.spi	4.0.7	-	38fe4c9833baa9d1bbb839150f9bb9953394e9de
 com.lightbend.lagom	lagom-scaladsl-broker_2.12	1.4.0	-	b3ca9c4dc6dedb8a48346f217fb92ec82cbe9cd3
 com.lightbend.lagom	lagom-scaladsl-broker_2.12	1.4.0-M3	-	50464a906fae5cd0f1dddf4759186c6eb4f9e50a
 com.lightbend.lagom	lagom-scaladsl-broker_2.12	1.4.0-RC1	-	d94aeb1daff0b777318b4d54452f414533d4ba98
@@ -1270,6 +1271,7 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-20250311	-	d39b0a2bdd736451a9d8753b
 org.anyline	anyline-data-cache-ehcache	8.7.2-20250312	-	989186202b203d4e37724baa6db5e6a8e58d9148
 org.anyline	anyline-data-cache-ehcache	8.7.2-20250401	-	a390978343233417a9a27fbeaf184f426ccd1a73
 org.anyline	anyline-data-cache-ehcache	8.7.2-20250404	-	faabda046289059f6c34a0ad09caccad4064ce5e
+org.anyline	anyline-data-cache-ehcache	8.7.2-20250502	-	5b5e4608501343e0d73f039315fd6d02cdd51eb6
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20240816	-	905cc13ff0c291359bd7aab0ce81c6e614cd4ec2
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20240820	-	1e28efc85dac168ecbdf4ab7759c480a4f37952e
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20240826	-	388d338411a68e08a86d5cf678d5044e838aa726
@@ -1286,6 +1288,7 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250102	-	523345a822283db4dd
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250108	-	4be210cfae896b21dff99b4dbd6f8c5d5e21f854
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250212	-	50f34bf502e7f8d2b736e41ae4e78be4a6463c8f
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250404	-	7f5e7dc3de36cc8ddffedc7a61e466a012913330
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250502	-	eeea87af32f598e151dc7091b686672078be20d6
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20240501	-	a5173b2487735f32bb44a87df3e5f4990bae5ec8
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20240505	-	3d4b2f883d9e2edfb1095f94c26c3bf5fe0a179e
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20240506	-	c485a27b9c00495f62522fc9cf91730de732115f
@@ -1360,6 +1363,7 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250109	-	f6b83a9d25d4bf744e
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250212	-	d4610cc9bf7da44d451088f9b734d336a8e40c85
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250312	-	24b713cc6db52637dd8bd92fd322a085a8719336
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250404	-	a11df331c0a35ed9c8cbb7b295038eb7d09fd4d7
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250502	-	aa89e44c756ec165a9139dac7f6b53b247ffc79c
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20240501	-	8bfaae173de0c1c35ea087c9f89b65ddc420338b
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20240505	-	b004b6a169f2eb07765f44c5ab067a1a8d470aac
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20240506	-	8319503f774ac2a362612fa33f6ef653bb23fd1e
@@ -1437,6 +1441,7 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250212	-	f4fdde84e5c92ca7d9
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250225	-	0e99dfafdf4cc0ee10a61df7417659f69b9c93a3
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250312	-	89ca40c3af662e2d26ab61ea648321ab408c9a38
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250404	-	13caef7b123a5c35948b2e1f8ef9e0b124c8073a
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250502	-	ca0a97a0e768ec76a9c7ec1b3e00bb9ba32dc324
 org.apache.archiva.redback	redback-authentication-users	2.0	-	465c8dc3492e7d1e8b184bc912b13e9f97a7c462
 org.apache.archiva.redback	redback-authentication-users	2.1	-	8bfd9e6f7ecdd21c30ff7e4a3941419b93aa421d
 org.apache.archiva.redback	redback-authentication-users	2.2	-	4392c94a3a4ddcd4d16759d9dedcfb3de9135801
@@ -1562,6 +1567,7 @@ org.eclipse.jetty	jetty-osgi	12.0.17	-	48a1ac20f96542e320571b49775026edfc648e56
 org.eclipse.jetty	jetty-osgi	12.0.18	-	d96c354177a59065e7bd3b5344d9d5df30a6f0fb
 org.eclipse.jetty	jetty-osgi	12.0.19	-	764c20b18bb3e3ccef62e3ee55aed86bfde16fe7
 org.eclipse.jetty	jetty-osgi	12.0.2	-	c25998db775a80a5b8c5fc4acb940aa21abec119
+org.eclipse.jetty	jetty-osgi	12.0.20	-	792db646956ea04ac6467cb0b6ec219846b943d8
 org.eclipse.jetty	jetty-osgi	12.0.3	-	1469260230a709fe405248d0fbadff5bf926253a
 org.eclipse.jetty	jetty-osgi	12.0.4	-	01b74b700b495e3338f1d33d9f76708d4fa143ea
 org.eclipse.jetty	jetty-osgi	12.0.5	-	7a4821a8794f5bbb8502973e80f60f131121f8b7

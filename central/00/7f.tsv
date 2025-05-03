@@ -1282,6 +1282,8 @@ io.github.danielliu1123	grpc-starter-test	3.4.3.1	-	bb285275d2b20fd40b0ea98fa7ff
 io.github.danielliu1123	grpc-starter-test	3.4.3.1	3.4.3.1-optional-support	233770e0e9e3d813738bd106d15d89622fd2ab31
 io.github.danielliu1123	grpc-starter-test	3.4.4	-	af5f5a248fd9b4acf5b8e98f49323d85495a2f9f
 io.github.danielliu1123	grpc-starter-test	3.4.4	3.4.4-optional-support	889d313967663e5724bbc4b2bb461dbb6f686d72
+io.github.danielliu1123	grpc-starter-test	3.4.5	-	ab26f2c62a5d221775f5857a97d16abce1eda567
+io.github.danielliu1123	grpc-starter-test	3.4.5	3.4.5-optional-support	14044129858d483ec7ea3f8cb1b18ef30cc935b9
 io.github.nickngn	spring-boot-starter-dynamic-search	0.1.0	0.1.0-plain	fa8e420b20f4cd71a6ff79eaaee7ed0484691fc0
 io.higgs	transformer-defaults	0.0.10	-	8aa0f91226d0b181965104120a0bf0bd97a5ee29
 io.higgs	transformer-defaults	0.0.11	-	15174c77f70b5f26b9b8f6b19bea25f1c146907c
@@ -1736,6 +1738,7 @@ org.anyline	anyline-data-jdbc-cassandra	8.7.2-20250311	-	e9e99a3865d3491f826cd8e
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-20250312	-	cf85d084d3bf304ffed80918da682faf8e3ceff4
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-20250401	-	b0be4cdae8f8da1848d49fd0978b30b87254e807
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-20250404	-	820aab730c200a9e63ee613537b807b2c74fb6d8
+org.anyline	anyline-data-jdbc-cassandra	8.7.2-20250502	-	a851af60d5e23f3cbab21c02deaf15b38c24de8f
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20240816	-	a1f39f2216019b8b74bca906c21008d23814b1fa
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20240819	-	37c11c50d76895c53451de4eba5140c1e20c170a
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20240826	-	1be12f2be9047581c5d99ce54ddb44975a771ad3
@@ -1751,6 +1754,7 @@ org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20250108	-	e3549c0badd1698fc
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20250212	-	c193b83c0a5707528c3aa8f84841060cd1df56c3
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20250312	-	a126839db729b028caf0eee19bdc76ef41cd5672
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20250404	-	19244c56e348e7f89ac390bb2ec30b3d8cf03df3
+org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk11-20250502	-	18b07a4d13d054f509dd9ac127ae2871987245e3
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20240501	-	ad25018878f627ca5730a24a7b9f846aa8ce909d
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20240505	-	509d318cb72e1de2209431e06ce7bf852b3548b1
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20240506	-	60311406fd8d780893877a884ecb5632099db749
@@ -1827,6 +1831,7 @@ org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20250109	-	44d013d58b08c7d51
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20250212	-	b90b942169af5ac68f97543ca7a4d62c36f374a6
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20250312	-	eab01d80e631e6d162801dac183ae05ec0bb7def
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20250404	-	88cbef1fead0314a86153c87533096c1ff5f36b7
+org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk17-20250502	-	54e913df50156cc680b158b3687cbb7b342b230b
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20240501	-	222ed9bb92998e16dc5318feeacfb3cef1b41ad8
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20240505	-	94163eab56927c28c0a21a38db239de19a74173b
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20240506	-	3d5dbdefec7e2bc7ab1f23be0a966117062e4488
@@ -1911,6 +1916,7 @@ org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20250212	-	7c4f716329c53cca2
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20250225	-	f98f08a1e5047581aaacc33ca21ebf2caddf4326
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20250312	-	c6130e3498b05a3939a86282800c88d8d5841e2f
 org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20250404	-	5f1f1dd6390758e608a990cae14b4c7aca1617fc
+org.anyline	anyline-data-jdbc-cassandra	8.7.2-jdk21-20250502	-	49b51d76e4442fa25c0ca51ea954c65cfa667d40
 org.apache.camel	camel-jackson-protobuf	3.10.0	-	a6dcaf3d7335e12f39d40e53279e8786ba61baa4
 org.apache.camel	camel-jackson-protobuf	3.11.0	-	f99acbca3b9719e3b541ce5110e7f725873b35a2
 org.apache.camel	camel-jackson-protobuf	3.11.1	-	4e31ab8c06e3ed26e993608efc9af5edd5cbc4e1

@@ -216,6 +216,7 @@ com.google.api.grpc	grpc-google-common-protos	2.54.1	-	f04d24859fa28b494fc93420c
 com.google.api.grpc	grpc-google-common-protos	2.55.0	-	40db5a35c9bd256aefe41fa64af1d7ca414654b1
 com.google.api.grpc	grpc-google-common-protos	2.55.1	-	be63a60acfd4b2c2674842e5dea93e2c91bf7fc4
 com.google.api.grpc	grpc-google-common-protos	2.55.2	-	e1e26ed962358cc48a11d2e919b611503077a99f
+com.google.api.grpc	grpc-google-common-protos	2.55.3	-	e12813e2831a808c94db05dfa236b50138771ce6
 com.google.api.grpc	grpc-google-common-protos	2.6.0	-	ee15bbdcf9aac1a373cdff4b71c850b82a1c02fc
 com.google.api.grpc	grpc-google-common-protos	2.7.0	-	5de69f7846d2d6d07561dabcb74adb429f7149be
 com.google.api.grpc	grpc-google-common-protos	2.7.1	-	f807d1d3498ae17f6e5756735c4b63e17c75b61d
@@ -507,6 +508,7 @@ com.ritense.valtimo	localization	12.10.0.RELEASE	12.10.0.RELEASE-plain	7e5d0ec85
 com.ritense.valtimo	localization	12.10.1.RELEASE	12.10.1.RELEASE-plain	efa0f50f85f01e19aad8c00c0c45878470693596
 com.ritense.valtimo	localization	12.10.2.RELEASE	12.10.2.RELEASE-plain	2c5daa493a7ca8b8614800fd8ae238d020cf3623
 com.ritense.valtimo	localization	12.11.0.RELEASE	12.11.0.RELEASE-plain	026bc148558efd7d1475c6459c87a271cd5f5db8
+com.ritense.valtimo	localization	12.12.0.RELEASE	12.12.0.RELEASE-plain	bcea7a030c40d81a1130a7f134f2385212becb89
 com.ritense.valtimo	localization	12.2.0.RELEASE	12.2.0.RELEASE-plain	26274a50dba4d4042be92035ac0fb5c66fccbb2b
 com.ritense.valtimo	localization	12.2.1.RELEASE	12.2.1.RELEASE-plain	4a5262588484e8dfe1582a98566a8d9285d706fa
 com.ritense.valtimo	localization	12.3.0.RELEASE	12.3.0.RELEASE-plain	169694cecf2f79de40f644de4a432ee6a54adc7b
@@ -563,6 +565,7 @@ com.ritense.valtimo	object-management	12.10.0.RELEASE	12.10.0.RELEASE-plain	fd62
 com.ritense.valtimo	object-management	12.10.1.RELEASE	12.10.1.RELEASE-plain	a7a71d390dc0b80a7b7c33f5f460053d94a83e88
 com.ritense.valtimo	object-management	12.10.2.RELEASE	12.10.2.RELEASE-plain	6984a7f20d88ac9f61471de9147834922be20dac
 com.ritense.valtimo	object-management	12.11.0.RELEASE	12.11.0.RELEASE-plain	42d4e189ab10cf131869014dcaf5181f7e94c1d1
+com.ritense.valtimo	object-management	12.12.0.RELEASE	12.12.0.RELEASE-plain	0fee34b6b8b08a4089462b26b5d958d3b3a1adbe
 com.ritense.valtimo	object-management	12.2.0.RELEASE	12.2.0.RELEASE-plain	5f060fb6a1649953214741a6400b63dd484a6f35
 com.ritense.valtimo	object-management	12.2.1.RELEASE	12.2.1.RELEASE-plain	8536671561e0695c65adfafddf64ecbbae7dfc1c
 com.ritense.valtimo	object-management	12.3.0.RELEASE	12.3.0.RELEASE-plain	12bf315ecc1d992022376c14e5e49e058330b4db
@@ -1621,6 +1624,7 @@ org.anyline	anyline-data-jdbc-yashandb	8.7.2-20250225	-	5f311e737491a5693f5eb817
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-20250312	-	2414fe6cac363633c4acb76879622efb406bacdc
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-20250401	-	6cd5c5688ba6416b2e054a37516b5053f6d489b9
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-20250404	-	7696d74867737b4889d79709ecb74820a7c82ef8
+org.anyline	anyline-data-jdbc-yashandb	8.7.2-20250502	-	d505f683300be8cc6e82a2512b5bea8fe73b6ef8
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20240911	-	457a8f7e79f7745cd38686a94d8414d7238aa3da
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20240912	-	8f00311e497b67acd36f7879e581b8ccde8140ce
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20240919	-	c1f0be4767ee731260f6765235b30809ce44a6d4
@@ -1633,6 +1637,7 @@ org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20250108	-	a0c56a6c0697829e3c
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20250212	-	3efb455843d5d1f20005ae2fa1a514de0434ebbd
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20250312	-	754fe2461f6a35951e69bdb0301f59c0c71c99db
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20250404	-	85b1c3c3744e5163d7b18d13fac337798740722b
+org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk11-20250502	-	43686fe8e5d9a5e3fcf5acfc25bb560fff4dabf8
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20240911	-	16b712ab92f6ccf35c06d78b1475d0f8334efce1
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20240912	-	1ad31c148851abb36a13468c327f00a193d61469
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20240919	-	3f974bed25db3fdd1f35a2c2c334782fb288e90f
@@ -1650,6 +1655,7 @@ org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20250109	-	a5cc692b085fcd237f
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20250212	-	23747189641b3044ed0c97f2ec98b85f1b8972e1
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20250312	-	806f5027f953c3f7cf61e9700773d9202621696f
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20250404	-	6867f69e510440ad1ccbf018a665c569fcf48621
+org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk17-20250502	-	bf6ccf56b72d7fb7ac433f4c72d9914a5171bd2f
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20240911	-	d0ced0ec3d33a47b26b2eb7b5805b8871ea0d1f4
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20240912	-	e18dd87ab7d91574eff42b1cc1368b53f157aada
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20240916	-	488d984f7ba46f2bf83a006a19335ca7edeb8f0e
@@ -1672,6 +1678,7 @@ org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20250109	-	9fee3a15e0199093cd
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20250212	-	d0f922f65316fb3585055f6f4364dc4a84fa5ec6
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20250312	-	02e291a01861ca9430eb3e1a98c590e020ab249c
 org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20250404	-	6e44e8f92098cc4bc77b09b14579b9cc7c1eb802
+org.anyline	anyline-data-jdbc-yashandb	8.7.2-jdk21-20250502	-	6aadfdedd1057cd2c121213d1c9be9e77942bc63
 org.apache.camel.kafkaconnector	camel-crypto-kafka-connector	0.1.0	-	3ad29c016d52f5ba6e303cf94c10a1fea7ea1864
 org.apache.camel.kafkaconnector	camel-crypto-kafka-connector	0.10.0	-	2fd4f36dde0bab30778ac21b1edcd5cea8860979
 org.apache.camel.kafkaconnector	camel-crypto-kafka-connector	0.10.1	-	086b7ea653c6f1b3148532f61390490b75539b7f
