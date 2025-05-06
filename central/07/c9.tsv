@@ -1768,6 +1768,8 @@ com.yahoo.vespa	config-application-package	8.513.17	-	b166d30b024b9e6cffb7b36296
 com.yahoo.vespa	config-application-package	8.513.17	8.513.17-jar-with-dependencies	e7389d37a13d78c806b93475a4deb1f3cab6aa98
 com.yahoo.vespa	config-application-package	8.514.24	-	67d77b34961ad378b5263d2d52e8c3e3382240b2
 com.yahoo.vespa	config-application-package	8.514.24	8.514.24-jar-with-dependencies	f66898359aec9ac06ed05536086c8fe30cede0a3
+com.yahoo.vespa	config-application-package	8.515.40	-	e47d8b78b0e045827a42a638a95ce672ee939faa
+com.yahoo.vespa	config-application-package	8.515.40	8.515.40-jar-with-dependencies	31b9593b6ec819f415388804d9d008dd35290eaf
 com.yahoo.vespa	config-application-package	8.52.15	-	a4313c53cf86b4b7f8e6d018fe8739c0a058fdcf
 com.yahoo.vespa	config-application-package	8.52.15	8.52.15-jar-with-dependencies	e1a44e4509157ed30a7e00cedc3247e3c535b4f9
 com.yahoo.vespa	config-application-package	8.53.21	-	4f82fcbd0fbc9d0a5eecc0779cdd4ec37ee73fa8
@@ -2010,6 +2012,7 @@ io.camunda.connector	connector-runtime-core	8.4.13	-	f90760904b39993142369d22254
 io.camunda.connector	connector-runtime-core	8.4.15	-	0f3a22d2a9e96791da5229de274b6d923343574c
 io.camunda.connector	connector-runtime-core	8.4.16	-	c7ab18181c50cfca8710176c53f9c7d2988ad291
 io.camunda.connector	connector-runtime-core	8.4.18	-	55b5ec18698ab81864d50f4af076aae9e93ce409
+io.camunda.connector	connector-runtime-core	8.4.19	-	c48eb70297833e9b90913d247fb129db15b5373c
 io.camunda.connector	connector-runtime-core	8.4.2	-	b2dc8c6db05070d749b2c8297f573a474fc40a05
 io.camunda.connector	connector-runtime-core	8.4.3	-	1a7210860787b6b48c7e3844dcea3cb1913af90b
 io.camunda.connector	connector-runtime-core	8.4.4	-	e7a9166f36f2546298635549135dcee420d33c9d
@@ -2397,6 +2400,7 @@ io.github.kitlangton	neotype-chimney_sjs1_3	0.3.19	-	6d71ea51a5f6ca99abdfc7311a0
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.20	-	f695d2bc1de06859a2e47554bc1fa18c8a9fd064
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.21	-	0036e6b87bd5888c0d1507b2111fa6078de53b97
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.23	-	7bdb22ba7709a1fc69cad0c9d39088a0b269ade2
+io.github.kitlangton	neotype-chimney_sjs1_3	0.3.24	-	318efc78391618869e826bd1296702eb3766cec8
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.4	-	d2ca6fc91120b472dc0679a739542c2be3224209
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.5	-	9df9e72097dd4077693bcc6f7407ce812808e4ba
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.6	-	e42cd765b28bf576dd6b5786dd93689af73a70ab
@@ -2713,6 +2717,10 @@ org.eclipse.dirigible	dirigible-repository-api-test	11.44.0	-	b482c528d4b21347a1
 org.eclipse.dirigible	dirigible-repository-api-test	11.45.0	-	77e3b5a55dd2c53aed8a4f1d597b142ff290b960
 org.eclipse.dirigible	dirigible-repository-api-test	11.45.1	-	6192a6a887cf4685d931e80480702692521a8ab5
 org.eclipse.dirigible	dirigible-repository-api-test	11.45.3	-	1702882507d72783d77f22f16d1dd633264b1976
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.4	-	4ccb29772ee6264e6bbb17685750a5c5301c16ae
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.5	-	8fbbf9f48f23c92400803b4067a4a2f7feaf85f5
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.6	-	d98fab5d8a2efc37db57e335731868db9daeca4e
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.7	-	a992d3f75ca75f63a85ed357b05f0dc7aeae61ef
 org.eclipse.dirigible	dirigible-repository-api-test	11.5.0	-	9f112a609cb36398b38d51c75be75454d7f42459
 org.eclipse.dirigible	dirigible-repository-api-test	11.6.0	-	09de1b3f8b3fe58679357f057cd6e24aad8638b1
 org.eclipse.dirigible	dirigible-repository-api-test	11.6.1	-	2b8db8da7c017eba98d56ce7f8f4e8d1afce3377
@@ -3673,3 +3681,4 @@ tz.co.asoft	kollections-stacks-macosx64	3.0.9	3.0.9-metadata	d348dbc8391291c01c0
 tz.co.asoft	kollections-stacks-macosx64	3.1.0	3.1.0-metadata	2835ae00ba2a883ed53f981744e74289599149a6
 tz.co.asoft	kollections-stacks-macosx64	3.1.1	3.1.1-metadata	791e744a6ec27f0c17e56e42dce2185239e02065
 tz.co.asoft	kollections-stacks-macosx64	3.1.11	3.1.11-metadata	d3b10af3517e2425563f47d38311e1f69ab02b68
+tz.co.asoft	kollections-stacks-macosx64	3.1.12	3.1.12-metadata	700c6b23b973529b3cad8a96c2e11e3717cdad96
