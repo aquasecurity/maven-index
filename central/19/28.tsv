@@ -798,6 +798,7 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.4.22	-	7aaa7a86b762133dc3a230fe3d9d8a1ee29d2171
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.4.23	-	a27a50f11c8d23eda561f78103d0f4953ba463ec
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.4.24	-	f0c2347cd62415bc73e4d99055de9218786a5d26
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.4.25	-	92789cce0f44b52d8a11a43c41fb3bf677bc63f3
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.4.3	-	2f7ea5a49e85b3064ac84740a4e09745a6bf7139
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.4.4	-	85484ef90d2f3d38adc084c4eadffba4f0c7d17c
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.4.5	-	f49cca4a85eb04afd12d4a007d44f79c9ada9e07
@@ -816,6 +817,7 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.5.12	-	3fd00a5cc134d619e136d44cf6328352bbb0f458
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.5.13	-	5ec88bcae8f890f5b1a537f9b224b726b8ffa482
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.5.14	-	b3a2ae7a710a2800fb21c84da20ffffed9c1e315
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.5.15	-	c784c41a668ec5b1f5bde530237b7dc3f6b2d3a8
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.5.2	-	374e23342fe312697d9b872c17689e9714e39ecb
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.5.3	-	0b52b554091f11fb84978fbd45e2c09df208dedb
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.5.4	-	cc37f66953ff35c733010accb3f660013f61077d
@@ -836,6 +838,7 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.6.6	-	4113a93981d5fe67ef792ee16f705329b0866a71
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.6.7	-	3b2731f9a17396cb60bda384bd37afc3f2e0da3d
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.6.8	-	faf4fe6ca362738c5b470535987ad688beb659c9
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.6.9	-	f7145a28bb3fc5e3ac0bb8354df1e951c2e3ed31
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.7.0	-	48829239f9091937995458978263ffb01da40306
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.7.0-alpha.1	-	2ed9d10880db8baabb23c636cb6a63e32036f864
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.7.0-alpha.2	-	16ad48ab175ebc155b6d76608641b35d78f938e2
@@ -843,6 +846,7 @@ io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.7.0-alpha.4	-	5619e89d7c170e5c8eff5e73c81bf639ba4ebbcd
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.7.1	-	9964b8ff8975b5c662c0afc15cb1b9d35f2f8ea3
 io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.7.2	-	8d4e512dd196e85f20c897772f2eceb570143737
+io.gravitee.am.plugins.handlers	gravitee-am-plugins-handlers-identityprovider	4.7.3	-	39130ba49f75ff617fd1bcbdc5f883c81852e2b9
 io.islandtime	serialization-extensions-iosSimulatorArm64	0.6.2	0.6.2-metadata	d551f6dd19b27984e3be0d3a60cc7ef0f7d4ad5e
 io.islandtime	serialization-extensions-iosSimulatorArm64	0.6.3	0.6.3-metadata	d6c519f6bbd9ecd40677badd1f0a8908d180d847
 io.quarkiverse.artemis	quarkus-integration-test-artemis-jms-with-default-and-external	2.0.0	-	12fa14e123f37f5164221d3060312fef26b522c5
@@ -3101,6 +3105,7 @@ software.amazon.awssdk	netty-nio-client	2.31.33	-	9a888ef05b5add08b2b78ac321819b
 software.amazon.awssdk	netty-nio-client	2.31.34	-	c5a0e08ab7c572e34b981cfccb5a508eed0245c3
 software.amazon.awssdk	netty-nio-client	2.31.35	-	4a63924c464b6c2b5195eaa46a5841074f89ffab
 software.amazon.awssdk	netty-nio-client	2.31.36	-	0ecf421e59954fc939ed3393ea9b6a3abd2029d8
+software.amazon.awssdk	netty-nio-client	2.31.37	-	5b522f659480df7f9ed1debfc3227ad1643dc0fb
 software.amazon.awssdk	netty-nio-client	2.31.4	-	c801947a0acb4285ca8f8f9cc53576623a95e739
 software.amazon.awssdk	netty-nio-client	2.31.5	-	fa71a1642d011271396d0dd62471f4ba086a5735
 software.amazon.awssdk	netty-nio-client	2.31.6	-	333a0bb3ca4be00aa8dfd3d5cc5697585c861e8d
