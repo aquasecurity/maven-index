@@ -753,6 +753,7 @@ io.quarkus	quarkus-spring-di-deployment	3.21.4	-	cd767463570455fd911f6b00e1df7f1
 io.quarkus	quarkus-spring-di-deployment	3.22.0	-	5ef128327109ce2b433b29ac290e01bbf6836c05
 io.quarkus	quarkus-spring-di-deployment	3.22.0.CR1	-	654cce0732a8f6d2e80e00d2fe953f9470384426
 io.quarkus	quarkus-spring-di-deployment	3.22.1	-	fedd5d41b1acceb75a071cc9c64e8243821dec6f
+io.quarkus	quarkus-spring-di-deployment	3.22.2	-	73e88724c7ed6c35beb358d0d6c61d1431dc25d3
 io.quarkus	quarkus-spring-di-deployment	3.3.0	-	22606bb7e6eb1bcd263ab070a5178df8ce1c6719
 io.quarkus	quarkus-spring-di-deployment	3.3.0.CR1	-	e8f43696a94131644da55cfcdbda60f456a0a19a
 io.quarkus	quarkus-spring-di-deployment	3.3.1	-	b2fc1ed2df1f3888487c889779e755da04d01a83
@@ -1095,6 +1096,10 @@ org.apache.orc	orc-tools	1.8.8	-	c2826e4e4f875c4c6c6287dc18cd4de33b0a8246
 org.apache.orc	orc-tools	1.8.8	1.8.8-nohive	d3d5b29fed40793a2d272c0117d6e21823b5e467
 org.apache.orc	orc-tools	1.8.8	1.8.8-shaded-protobuf	ba12873f3b050c52979c294d57cb1618345956e9
 org.apache.orc	orc-tools	1.8.8	1.8.8-uber	dc024feb880c128117e7708477cebb02222f21cb
+org.apache.orc	orc-tools	1.8.9	-	51e9442e204cf32aaba8b144f684d04950d9639e
+org.apache.orc	orc-tools	1.8.9	1.8.9-nohive	f3a5736f63818692e7156ad94944a14b7ba169bf
+org.apache.orc	orc-tools	1.8.9	1.8.9-shaded-protobuf	b1b6aa5446e4e47570ac4d58c1dd665b43c7b250
+org.apache.orc	orc-tools	1.8.9	1.8.9-uber	c04fcc8009cf04afec3e8ae67744daef87f2e1b6
 org.apache.orc	orc-tools	1.9.0	-	d3b3650dbc3d950a47d991683fe1f5c0da4bfbbc
 org.apache.orc	orc-tools	1.9.0	1.9.0-nohive	22f6208d9db3b49d815557eae9c753db4032edbf
 org.apache.orc	orc-tools	1.9.0	1.9.0-shaded-protobuf	8e692528ea4dd2c8ebc1726a768874751ac1c2ed
@@ -1119,6 +1124,10 @@ org.apache.orc	orc-tools	1.9.5	-	e74e37c2c7d96424809dbcc2f64441ee6e95133d
 org.apache.orc	orc-tools	1.9.5	1.9.5-nohive	6521f0fc63865affba3ef249b8f5bcd357c068a8
 org.apache.orc	orc-tools	1.9.5	1.9.5-shaded-protobuf	82da0afed8f669123824346244ec2a60aac7a29c
 org.apache.orc	orc-tools	1.9.5	1.9.5-uber	3b6bb2b30b2d60890fde7db198c46b686d1e96e9
+org.apache.orc	orc-tools	1.9.6	-	72fc7ed7bb0912e969f56ff1fbabeb2e6643d212
+org.apache.orc	orc-tools	1.9.6	1.9.6-nohive	4b7b89472a168ae9ab25a60a1befa9ded81ed0f4
+org.apache.orc	orc-tools	1.9.6	1.9.6-shaded-protobuf	e215cf1cf9d4f0159112cd8b69f7c95a78d8c1bd
+org.apache.orc	orc-tools	1.9.6	1.9.6-uber	bd8b837acbf29161fb5a2ebe7915a977109a6d10
 org.apache.orc	orc-tools	2.0.0	-	04669cb953074fd4fa4465b377370b0c46d09623
 org.apache.orc	orc-tools	2.0.0	2.0.0-nohive	6ff958415e381772074f71230fe298e4c78431cf
 org.apache.orc	orc-tools	2.0.0	2.0.0-shaded-protobuf	8cce65cd589c9960d813f3deefd70e19bb992a23
@@ -1139,6 +1148,10 @@ org.apache.orc	orc-tools	2.0.4	-	80729cd27e825eb4801d1944cd6c16a60cd7ef25
 org.apache.orc	orc-tools	2.0.4	2.0.4-nohive	061983eb087af6a6764fd6275709cf940a18a703
 org.apache.orc	orc-tools	2.0.4	2.0.4-shaded-protobuf	e00868d4a4334e3a3ccf2cad6f70a163e294f95e
 org.apache.orc	orc-tools	2.0.4	2.0.4-uber	fb37ee4342ced85481a1d98462f4cc6e868ee84a
+org.apache.orc	orc-tools	2.0.5	-	58baf2940b8a6acaa58f052fdb2cd95d51c338ff
+org.apache.orc	orc-tools	2.0.5	2.0.5-nohive	e43ca19aade457b88f62aa0b91cac9d7a1fa0a15
+org.apache.orc	orc-tools	2.0.5	2.0.5-shaded-protobuf	2e3fe399ab6505a0a3a4fd5c88432be2dcde4a15
+org.apache.orc	orc-tools	2.0.5	2.0.5-uber	ff1385112e2b9808674daf27a30cce3cb8333b1d
 org.apache.orc	orc-tools	2.1.0	-	234c245af4d68374d04fa4610db8eb22fa3676ae
 org.apache.orc	orc-tools	2.1.0	2.1.0-nohive	d63315e71cabf88b17b90af0e518057c5c4ee184
 org.apache.orc	orc-tools	2.1.0	2.1.0-shaded-protobuf	2e92c51df119ff37538af3359705029f801d9da2
@@ -3077,6 +3090,7 @@ software.amazon.awssdk	organizations	2.31.34	-	425d769564d55a18ff3a7b6bd715fae99
 software.amazon.awssdk	organizations	2.31.35	-	00d503a11cc4678bad6a15f3e37f21371f3af4b2
 software.amazon.awssdk	organizations	2.31.36	-	fd874990ea20d3bebb5b3b891df0baec00f516a8
 software.amazon.awssdk	organizations	2.31.37	-	b1436b254209a4def3f77287ddd81470fac6072d
+software.amazon.awssdk	organizations	2.31.38	-	0777106dbb619f8582a18adff14a15395b00ee72
 software.amazon.awssdk	organizations	2.31.4	-	ed57aa8c9395c23c5d1df8ed4c0f0d181c27f8fc
 software.amazon.awssdk	organizations	2.31.5	-	8b406f3e95a2fb3f5776aa59238e91556da9c9ee
 software.amazon.awssdk	organizations	2.31.6	-	70339dc06c30be0ad7335ee711f897687d810d5b
