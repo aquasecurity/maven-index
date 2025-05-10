@@ -966,6 +966,7 @@ io.helidon.integrations.common	helidon-integrations-common-rest	4.1.6	-	d8d16961
 io.helidon.integrations.common	helidon-integrations-common-rest	4.1.7	-	25f11d52c7ec61cb9de2fe27cd08441e2bf4c6e5
 io.helidon.integrations.common	helidon-integrations-common-rest	4.2.0	-	046a5052ab25d1538b4515cab2eecdaf9e17d18f
 io.helidon.integrations.common	helidon-integrations-common-rest	4.2.1	-	a30e03558dc6350cbea271fc837f25fe22dd3810
+io.helidon.integrations.common	helidon-integrations-common-rest	4.2.2	-	c890bd84b848a78b9abc242497a98e22e51a4086
 io.ktor	ktor-network-tls-watchosx86	1.4.0	-	9338ba6c70fdc1567eb23529fd3547ff45c9859f
 io.ktor	ktor-network-tls-watchosx86	1.4.0	1.4.0-kdoc	9338ba6c70fdc1567eb23529fd3547ff45c9859f
 io.ktor	ktor-network-tls-watchosx86	1.4.0	1.4.0-metadata	caa2b974c8c00e80b53af388222eb6f3697f19f7
@@ -1396,6 +1397,7 @@ org.anyline	anyline-data-jdbc-greatdb	8.7.2-20250312	-	44ca46f3b9eb7489bff5063d8
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-20250401	-	bd89603ba2b5852df1d0aad73de16401e4010203
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-20250404	-	cee1447678dc6dde4935233c62978547696b389e
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-20250502	-	e6d97fa21b55b318ea8e79f0fc4526808bcb210c
+org.anyline	anyline-data-jdbc-greatdb	8.7.2-20250509	-	27906e605ce4bca9c65124b2909740b3583f80e0
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20240816	-	5dc05b16721647dba51b970bd9f217bfbc6d692d
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20240826	-	684ba4f3e0cf425eb69cff5361f73e1079a3f470
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20240827	-	83ae91a06eb87a0982748e0d22261ca9b2d79def
@@ -1409,6 +1411,7 @@ org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20250108	-	58ad08c5b2d5cda9532
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20250312	-	bb5a2fab1b53f113cb2b2187b284957956d24aee
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20250404	-	91e1f37ba35e03010c362644bd9ad3796cf9938a
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20250502	-	562812331df1ffccc7e6fd13b8fdae231b613e0e
+org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk11-20250509	-	068dc6dd7ef78ba8d8644a1befb42da806d36970
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20240501	-	f27a3a2e8a42ade1be036d79ef6f07a3629ec11c
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20240505	-	2e9b2b45f079b131eb28c834e2c27c4f58567187
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20240506	-	efd7d74fdf5f3516bcb147178a121bb27e814006
@@ -1482,6 +1485,7 @@ org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20250212	-	f49f505e94f043e9e2e
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20250312	-	38eb7f4ef47c603014a55e82fe9e487768505952
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20250404	-	5a773eb346271f9e4ee46405725f84b4f5d5913a
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20250502	-	159480d5ac5fde4aa477b562ab4e4caa9ea2c24b
+org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk17-20250509	-	1ea75ce7b42c4b8405c7236813be6b5ecbf16ec5
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20240501	-	2c0bcbf25a8eeafef40d793a08942b61766f0c46
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20240505	-	b554c257a8db02be039aa00b4016b65cf5eb9021
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20240506	-	b505eb401ef721a7d4358999d3bfce55311a752d
@@ -1563,6 +1567,7 @@ org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20250212	-	fdd40826efe9b5a2acc
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20250312	-	9f8b0691af6314db5b7aac88103408b3f3a47a39
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20250404	-	73396e332f4910bb71fa24bef7360a332913ceea
 org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20250502	-	c63c621703a3dd401ef4f58593e4a01d821a533e
+org.anyline	anyline-data-jdbc-greatdb	8.7.2-jdk21-20250509	-	d443ec7153d7392230d5f05c59361a1e26101ad1
 org.apache.custos	custos-api	1.1	-	3640b3ffbb66708b69d5b5e60bbaede7acfc7f3e
 org.apache.taverna.commonactivities	taverna-rest-activity	2.1.0-incubating	-	7a8542567f40c675c0e2b724f13a7d777f64f1d0
 org.bremersee	common-xml-spring-webflux	3.0.1	-	b938fe71ee75d3b46b1b479914d35e58727e02cb

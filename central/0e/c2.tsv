@@ -1129,6 +1129,7 @@ io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.24	-	8b8
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.25	-	6b76c664b24324c2e205186279a02659f4388b4d
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.26	-	c156e85f5af6fb152dba82bfa9a47069bde5288f
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.27	-	099904e66677b44db3e57ed871743820c7373cd9
+io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.28	-	b3dc343db6309f936b4d41d665343451fab4ae53
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.3	-	6f0e4e38b05cb431e17f5f7c3925fb636022ee4b
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.4	-	3798b51dc281b861de0bc97189019fe0935f6af6
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.4.5	-	3feffca832d07304a3e20302c38af7dd319ebdba
@@ -1146,6 +1147,7 @@ io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.13	-	a67
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.14	-	903c530eef75cd45525ab99a01a54035036561b1
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.15	-	3c0ea648692128efef0d588ad35ddad9cc238627
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.16	-	b554228c67428b1608c36a91691b495e2cd75179
+io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.17	-	3162e75010f6105fa844a3bfb9540f392da6327e
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.2	-	98b7d1badb3e0f0d359becc5b72a8447bf89cf36
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.3	-	6b6eb776aa3fcbe7765e807ccc8373cc458e1162
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.5.4	-	6d609f0b44f0cf2d1507898f47be0c6bf77a881b
@@ -1158,6 +1160,7 @@ io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.0	-	9d11
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.0-alpha.3	-	80f548b4b89835251b17fec6a7232abdf234416e
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.1	-	172037fd513db75fc50df2d51531142dc4461751
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.10	-	7fb4edeae9c7bf5e7999ee9c121b739b990e5258
+io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.11	-	55ffe3e339c86bc0c91dc928e97ebbda5e435d84
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.2	-	8bd0de687c2dea907f0a5c36ee824a205b65de9a
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.3	-	dc057e76eed9736d17fa60be66727481ea166fc9
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.6.4	-	458a0787edde842856d073637e9d39bf7b1a1b10
@@ -1174,6 +1177,7 @@ io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.7.1	-	fd1e
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.7.2	-	8dc6ee65f5bf7594abfeb607ef1a945644d7c891
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.7.3	-	d9efbf01e63132f7e394c1ed6507cfb77f2761dd
 io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.7.4	-	91b6f6dd6766b4167a635825d566a81eab5bf932
+io.gravitee.apim.rest.api.idp	gravitee-apim-rest-api-idp-repository	4.7.5	-	9da220401c6f7e8b1e6eabca554b5fb00129a588
 io.kamon	kamon-core_2.13	2.0.0	-	9f411fdff586955696bc3b9d7a87cb0a426a9ccc
 io.kamon	kamon-core_2.13	2.0.0-RC1	-	d7d44227cb8143c6e9cab92e43a33644d5194238
 io.kamon	kamon-core_2.13	2.0.1	-	956e86a5f3dc67f583549dfd037280cb49d0f39a
@@ -1648,6 +1652,11 @@ xyz.block.ftl	ftl-jvm-runtime-deployment	0.486.0	-	495c74157ca49237f5639b4adc825
 xyz.block.ftl	ftl-jvm-runtime-deployment	0.487.0	-	48d4d922e4cbc45e90f44839789df8e711de1c4e
 xyz.block.ftl	ftl-jvm-runtime-deployment	0.487.1	-	941b4ab11f1a066872fad54ba9ffb7ec3ca0fd36
 xyz.block.ftl	ftl-jvm-runtime-deployment	0.487.2	-	abc39ffb429608b9a819eb16cf3dcf04cff94f13
+xyz.block.ftl	ftl-jvm-runtime-deployment	0.487.3	-	09007602f4df2fcf9a2055f1f4870050874920f1
+xyz.block.ftl	ftl-jvm-runtime-deployment	0.487.4	-	51dc8e873494bd8154f7fe9cc5e0bf0751672ed2
+xyz.block.ftl	ftl-jvm-runtime-deployment	0.488.0	-	97ae1627cf5f08b43d40d29e72544f057a9d384b
+xyz.block.ftl	ftl-jvm-runtime-deployment	0.488.1	-	d1a1c9383c7eaa3b528404fe6af83a040a51db42
+xyz.block.ftl	ftl-jvm-runtime-deployment	0.489.0	-	4428b4a7e9fe821a629a356beecaa3541337b00d
 xyz.block.ftl	ftl-jvm-runtime-deployment	jvm-publish	-	4ea9f02f74cabf26c92e7d5907636f083a617204
 xyz.block.ftl	ftl-jvm-runtime-deployment	main	-	e6b20cd88141f88f061c29495a4a7f65d8e00dfe
 xyz.block.ftl	ftl-jvm-runtime-deployment	v0.361.0	-	d6e7a22ce8dc9571a955c0e1f34c5d30aa4143b2

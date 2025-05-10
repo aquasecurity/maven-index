@@ -1159,6 +1159,7 @@ org.apache.camel.springboot	camel-rest-starter	4.8.3	-	215cae678520c527fe7de74ae
 org.apache.camel.springboot	camel-rest-starter	4.8.4	-	5dca87bcfc3d4fb67c76753dfbc0814166212c5b
 org.apache.camel.springboot	camel-rest-starter	4.8.5	-	c3b83f4d3a57799182d2f46fe3185880858dc097
 org.apache.camel.springboot	camel-rest-starter	4.8.6	-	451f43eab4d7f9e77e73960cc09a6e66575ab4e5
+org.apache.camel.springboot	camel-rest-starter	4.8.7	-	3f460d9d031c57ae445e87deaef37256b143278d
 org.apache.camel.springboot	camel-rest-starter	4.9.0	-	b900ed4102ae894dc1ab80f8c6c91574b12a4287
 org.apache.geronimo.modules	geronimo-naming	1.2-beta	-	97ea1ada3fa78981ec6f70d811a4d06aaa3fbc7a
 org.apache.geronimo.modules	geronimo-naming	2.0.1	-	3ac3b16602d0d57550a748d183c41a9226df9543
@@ -2280,12 +2281,16 @@ org.hpccsystems	dfsclient	9.10.22-1	-	8c5edfa7ab42181eb7eea17283851c75ab825c57
 org.hpccsystems	dfsclient	9.10.22-1	9.10.22-1-jar-with-dependencies	6092ca73216e3f375c842c9fc388c8716f6eeed3
 org.hpccsystems	dfsclient	9.10.24-1	-	1910d6ceb69c78915562e51b32cbaf5e5e917c63
 org.hpccsystems	dfsclient	9.10.24-1	9.10.24-1-jar-with-dependencies	03503f16a968b9e99f6121977fcfbd6091fb17f1
+org.hpccsystems	dfsclient	9.10.26-1	-	d89675d5f00e398542641a15ddf80fd250d33bc4
+org.hpccsystems	dfsclient	9.10.26-1	9.10.26-1-jar-with-dependencies	776b9dae20baa5ba904a7dea5783267482a48190
 org.hpccsystems	dfsclient	9.10.4-1	-	273df267de5842fde3646b76b34a7842284afa55
 org.hpccsystems	dfsclient	9.10.4-1	9.10.4-1-jar-with-dependencies	aaf37ece993a43d835f6d370539cf71686aafdc8
 org.hpccsystems	dfsclient	9.10.6-1	-	42fa4cfcc40169b59fe03ccfb22cb520804e2512
 org.hpccsystems	dfsclient	9.10.6-1	9.10.6-1-jar-with-dependencies	85b4b85ae1f53696853c5e9dc8b6e397456e2f1e
 org.hpccsystems	dfsclient	9.10.8-1	-	9e1cbc747cb6c4db807fa95b8f75178a9644d29d
 org.hpccsystems	dfsclient	9.10.8-1	9.10.8-1-jar-with-dependencies	512c353d162755c923f80b1a88db1e4ff0610fb6
+org.hpccsystems	dfsclient	9.12.0-1	-	ae31169100151cefb57d0e54821297dbe9e89517
+org.hpccsystems	dfsclient	9.12.0-1	9.12.0-1-jar-with-dependencies	754d75f55526e3c6bd404a0c7745c4a3b7d8066a
 org.hpccsystems	dfsclient	9.2.0-1	-	d24c806a10ecf2a6c2c651e01e47ebff0c0bb7a2
 org.hpccsystems	dfsclient	9.2.0-1	9.2.0-1-jar-with-dependencies	e73a41ca88c905c796b3bc32804be8dbf87b7e69
 org.hpccsystems	dfsclient	9.2.10-1	-	b965441d344e5561f79c0d5c3a11fba541342ce3
@@ -2606,6 +2611,8 @@ org.hpccsystems	dfsclient	9.6.100-1	-	72f0fc3429fb84df26ac88f1afbc9303b7bba66a
 org.hpccsystems	dfsclient	9.6.100-1	9.6.100-1-jar-with-dependencies	820bc5356d9f972b8906fd249f7b349ea137c25a
 org.hpccsystems	dfsclient	9.6.102-1	-	7b458a190c207700f1ed20c2b16e2cb54a65f9b6
 org.hpccsystems	dfsclient	9.6.102-1	9.6.102-1-jar-with-dependencies	f39ca832ce2d27d914652eaa617732eddf437dfe
+org.hpccsystems	dfsclient	9.6.104-1	-	10ee89372fa583ff78083aab352735f3cdee4b5c
+org.hpccsystems	dfsclient	9.6.104-1	9.6.104-1-jar-with-dependencies	fcee114dc252a3915c815ccb837eb629b6d4113d
 org.hpccsystems	dfsclient	9.6.12-1	-	5f20e872a27f2386fa87d3ae4dbbcd0c9eb39188
 org.hpccsystems	dfsclient	9.6.12-1	9.6.12-1-jar-with-dependencies	0b154d1d10c60ea24aa6d53ff7052df5b4140348
 org.hpccsystems	dfsclient	9.6.14-1	-	cdcad1a624b26bb20568850f1b3ed1d53918c830
@@ -2780,6 +2787,8 @@ org.hpccsystems	dfsclient	9.8.78-1	-	f2ffdb4bdca53a7c09c53f96fbe53b89340a8870
 org.hpccsystems	dfsclient	9.8.78-1	9.8.78-1-jar-with-dependencies	959b5cd78bdb81554576482f44afe4d127fb2a4c
 org.hpccsystems	dfsclient	9.8.8-1	-	050982c8632342a86cfb258d8c607aa9bc4fc1ff
 org.hpccsystems	dfsclient	9.8.8-1	9.8.8-1-jar-with-dependencies	759b06b8a8be43b32e5cf4989fd67d8a236e6eec
+org.hpccsystems	dfsclient	9.8.80-1	-	06588e3d75e6dda2e5c9b7f1fa33795e35f71f22
+org.hpccsystems	dfsclient	9.8.80-1	9.8.80-1-jar-with-dependencies	f84b0bcfa03a64c6c5d2e3ebfe8ed130e6fa1e22
 org.kaloz.gatling	http-cometd	1.0.0-RC1	-	9d223d041fba74492443c09bf38d9fb41dc98a05
 org.microshed.boost	boost-maven-plugin	0.2.0	-	ad4aa469d8dc97010315e582a40ad052e29b04a0
 org.microshed.boost	boost-maven-plugin	0.2.1	-	76f1ea360df5f11c47e20a4cf4885ada2e1e0b3f

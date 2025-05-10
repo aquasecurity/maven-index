@@ -462,6 +462,7 @@ com.lihaoyi	mill-dist-native-linux-aarch64	0.13.0-M2-56-51ca83	-	a9ab07e5daec4e7
 com.lihaoyi	mill-dist-native-linux-aarch64	0.13.0-M2-57-7578c2	-	8f9351a6550ed4b7c5c56aa4c733338c7044f1d1
 com.lihaoyi	mill-dist-native-linux-aarch64	0.13.0-M2-58-7b62c3	-	b1fed6f5036967edda794daa1f108220583b85f6
 com.lihaoyi	mill-dist-native-linux-aarch64	0.13.0-M2-59-17fa7b	-	97492a2f59469347e8c9e19dcd630efd822d5ab4
+com.lihaoyi	mill-dist-native-linux-aarch64	0.13.0-M2-74-132761	-	03123b649638d7e9dd3f80807fc93fea63b177cf
 com.microsoft.azure.cdn.v2020_09_01	azure-mgmt-cdn	1.0.0-beta	-	8ff46cae0ef47489201692764f7a0635d014c392
 com.palantir.atlasdb	atlasdb-buggify	0.1000.0	-	b1d0bb98b4f54af3ec87e6450e9a9507f59f22de
 com.palantir.atlasdb	atlasdb-buggify	0.1001.0	-	700a0e6b36bb8c41592f34d615f5919a2fc23243
@@ -1259,6 +1260,7 @@ org.anyline	anyline-data-jdbc-hive	8.7.2-20250312	-	ca35afdf224b796cc5f279c14dd6
 org.anyline	anyline-data-jdbc-hive	8.7.2-20250401	-	d47578a8a30f742a8e15f10394f6fdde93f619cf
 org.anyline	anyline-data-jdbc-hive	8.7.2-20250404	-	f59e2858d300f88255137b6d82c56706f16d2af4
 org.anyline	anyline-data-jdbc-hive	8.7.2-20250502	-	dc90b9245d3a9fa1937fa8068a800ca838f574be
+org.anyline	anyline-data-jdbc-hive	8.7.2-20250509	-	5cd7d9816153fd0aea2b446e06797a1b0d3dedec
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20240816	-	eac4b5bb663e2ccee8f92dfb71dad4c1c3f07eb0
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20240819	-	c0f437e2c6325b9e397dfc15a6e4b3c2c996971a
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20240826	-	e2f8b5965576127ea600bf6e5509439655cefa8a
@@ -1277,6 +1279,7 @@ org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20250212	-	181234c593b83fd4bf24d4
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20250312	-	3f9a18510328d20f04d4d88b1462bd95dd9da901
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20250404	-	dd4459faca228a4a73993ead1f66e4ea94954c54
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20250502	-	d5236005b27f489f95207705bb32dcef016112af
+org.anyline	anyline-data-jdbc-hive	8.7.2-jdk11-20250509	-	e209156236580739dc4b0184c8c7c603099897cb
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20240501	-	bfb60c1c61de236e3156c78840971b0673e8dc9e
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20240505	-	770c15dbe01dfdcc40fb7de4144224fe14e05dda
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20240506	-	9713390218934d43aece3d43cf17bc977c08762b
@@ -1351,6 +1354,7 @@ org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20250212	-	dd699d24ded433df8cfb8c
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20250312	-	0cc9a81cd640a09228c4367d43a89e87fbe4cf99
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20250404	-	03c6f964877639238fca3bbf2264c81de7c036fb
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20250502	-	182f807a534fbbee7e87b14e94698c0a16bdc8d8
+org.anyline	anyline-data-jdbc-hive	8.7.2-jdk17-20250509	-	5b2baf2afb41036dae18a0b0727d28f4c38845ef
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20240501	-	f5384b5102668c36d4136f5cd973511a8998c69f
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20240505	-	09b405ee32ed85182876ed35f8642c914cc73aac
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20240506	-	c21cf1025e2b233af4e8d02b2716cf0d4ae3d35f
@@ -1433,6 +1437,7 @@ org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20250212	-	f8dfc3be105b32c202712e
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20250312	-	e30287e5009ca0a4ffd90419f76f71808e1096ea
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20250404	-	f993e1b6798f5ba86cc5811c73e2425712f0252f
 org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20250502	-	480f244b7697dcf2d34605ac68722e9e28db2b4c
+org.anyline	anyline-data-jdbc-hive	8.7.2-jdk21-20250509	-	8a3aa92149dbc3005e659429a551e8052e1e1488
 org.apache.batchee	batchee-jackson	0.1-incubating	-	382478aef3d57f4365b040d1fe5c7e5e3d2a513d
 org.apache.batchee	batchee-jackson	0.2-incubating	-	d4c17cfdd4932111de27038f0926aeea23fedf96
 org.apache.batchee	batchee-jackson	0.3-incubating	-	6a41cecd95bb5d12c708697f45a9545ea52afd87

@@ -277,6 +277,10 @@ com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC12	-	60a37f49dff7bb9df72
 com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC13	-	8d53552d7bde7444d5751a006f761788d4bcddbc
 com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC13-snapshot	-	96fc98efd328ae2387a44d9a3ad453b8446216ea
 com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC14	-	207bb4cc63a6b35fae2fe1de96673bbd7917f4dc
+com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC15	-	bc2a8a5769cfbdc7a30aadc5632d99e6a827efc6
+com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC16	-	0b25d17cbc8cea1658d6b5bddac7d110ead934f4
+com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC17	-	2c8ba721388aeb791f045db562e87091caa1151c
+com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC18	-	30dd13fb5dde9ba47bf3694741d46bdb061e257a
 com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC2	-	8037c0e2a70931dba20e1ec6110d48f9e87320a3
 com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC3	-	6ae1644083cbb45a607945dd424949be471c94b0
 com.sparkutils	kogito-4-spark_15.4.dbr_3.5_2.12	0.0.1-RC3.1	-	22be93907a5580f2d5196647ec56772927ce4c18
@@ -644,6 +648,7 @@ org.anyline	anyline-environment-spring-data	8.7.2-20250312	-	870b4ffbc29fb30ffcf
 org.anyline	anyline-environment-spring-data	8.7.2-20250401	-	712867e0a61f73c49ad5290ba33ee53fbd70510d
 org.anyline	anyline-environment-spring-data	8.7.2-20250404	-	346d25953ce941516b22f029db25fc37ae7d143c
 org.anyline	anyline-environment-spring-data	8.7.2-20250502	-	6a8835fda30d3fbc14762e70a7346332351ee33d
+org.anyline	anyline-environment-spring-data	8.7.2-20250509	-	218ad59f5d8b87861d75de8037b68aa418841026
 org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20240816	-	4d643136ee888bdfc9498601650fd74ee7e0520d
 org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20240819	-	3b8e622a633a3baf7066150f43bc261b252c5a3c
 org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20240826	-	b163721e4286c8da350c0f5f4abe46a91c7e0e89
@@ -660,6 +665,7 @@ org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20250108	-	6984f990011d5
 org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20250212	-	636721c4898468e392df955e4a47220082eabb19
 org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20250404	-	aa72d500aa9f80298a983c47e3f1855b98256b78
 org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20250502	-	f620d89bd9c200c9f62768c1a9dd0a7d78eef847
+org.anyline	anyline-environment-spring-data	8.7.2-jdk11-20250509	-	efa24eb14d6fd879c2aca679ddcfe5122df8fdc5
 org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20240815	-	7aaa0ddf6e8ed88cc9b12390bb909b6e5393d912
 org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20240819	-	7cccfdd02a08e8fcc89458c49dee8566362a4eeb
 org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20240827	-	f6c059322d9a93b810c75cdef7ad2e6235935542
@@ -685,6 +691,7 @@ org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20250212	-	61acc95b550f4
 org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20250312	-	6d9fb6d94f91e16047e7a2d407f651882f8f4c4e
 org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20250404	-	df9f43033ca21445b61c621672f95b6c59fc57f3
 org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20250502	-	ccbcb2601497a6d51f0353953f5e06ca5e23ada7
+org.anyline	anyline-environment-spring-data	8.7.2-jdk17-20250509	-	e7b011eec39f1c20a9bcf6b858f501dda9bb3623
 org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20240815	-	4736ac4d68985fc9790939bec10516bcd4d52eac
 org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20240819	-	e46adf0f93ef93651df7ce0dd421654244aa43c6
 org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20240827	-	1c92f2dd28e15121514f74909a60abb0f2ab9f34
@@ -713,6 +720,7 @@ org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20250225	-	c0118e85bc1a9
 org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20250312	-	6a5b5c1ba24ee4e6d76d73d12b5826d8f2cf2b80
 org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20250404	-	f283666113e73c38d4a6e58c3e39a8a0054b7e63
 org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20250502	-	97e9fe6a92dd97fef4f27b8965ddeab5c1633d1f
+org.anyline	anyline-environment-spring-data	8.7.2-jdk21-20250509	-	0e2155d0a061dd9d47ab4dd1c977b3bcf58b0c75
 org.apache.atlas	impala-bridge	2.1.0	-	07e433480f3531d986168da0d8d5e807d49b29c5
 org.apache.atlas	impala-bridge	2.2.0	-	3ff3cdf881763d20522909476c8b56f7fd2d3548
 org.apache.atlas	impala-bridge	2.3.0	-	f23ea59dfb2d75de18391bc548d038174de3b1f5
