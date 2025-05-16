@@ -821,6 +821,7 @@ io.coil-kt.coil3	coil-test-macosarm64	3.0.4		N/A
 io.coil-kt.coil3	coil-test-macosarm64	3.0.4	metadata	6086b339ff02b790693f9cff892b47e66f5d0623
 io.coil-kt.coil3	coil-test-macosarm64	3.1.0		N/A
 io.coil-kt.coil3	coil-test-macosarm64	3.1.0	metadata	913339bbcab2b6f20318657f95738b8841355373
+io.coil-kt.coil3	coil-test-macosarm64	3.2.0	metadata	db1cee93efc6a3536bdc3c7554ad0930ddc4ecf1
 io.coil-kt.coil3	coil-test-macosarm64	3.2.0-rc01		N/A
 io.coil-kt.coil3	coil-test-macosarm64	3.2.0-rc01	metadata	05b9af58fe9d996855b692b1710aa37e842c1ca2
 io.coil-kt.coil3	coil-test-macosarm64	3.2.0-rc02		N/A
@@ -1120,6 +1121,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.13.2-a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.13.3-alpha		75613beda07c166749782898fc5ccb66bec4caa9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.14.0-alpha		7446296e3552ac7908c03c180a3ca8162cc4a31c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.15.0-alpha		e81632237219744c777511b6967cec22cb3ea10f
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.16.0-alpha		dd0a23865bc31768707a2d4b5b2cfaab9416dfaa
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.2.0-alpha		f568637845be32e12b4c517bf33ee2f78849876c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.3.0-alpha		0f6de8eeffb2579bd48416385c2dd2ca73fb5e2d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jdbc	2.4.0-alpha		c8875cad8abdfe7fbd825e1f0ec67a9585c9cb83
@@ -1265,6 +1267,7 @@ io.xpipe	xpipe-beacon	16.0		2f5bfd7aef571e2ddab508562326b44be72a8621
 io.xpipe	xpipe-beacon	16.1		62b332b69ece9eb2517be462d424a5e3aba48974
 io.xpipe	xpipe-beacon	16.2		ffae32902f594bddf46cc7f375d1adceb7959ead
 io.xpipe	xpipe-beacon	16.2.1		1b2a808af1ab91013e4e145ad7c3dc0d4ef04e69
+io.xpipe	xpipe-beacon	16.3		d737a2928289e451ca642084cdffe271e438f143
 io.xpipe	xpipe-beacon	8.0		c1aa62ea4930fd7fddd3af2e36bcc44636ba169a
 io.xpipe	xpipe-beacon	8.0.1		66c41c6bc579e1985fa7c1c0bb00906016fc5837
 io.xpipe	xpipe-beacon	8.1		3c573dc585ba91f60a0354045a1458a61a548ff3
@@ -1396,6 +1399,7 @@ org.apache.seatunnel	seatunnel-engine-examples	2.3.7		ee1c11899a7fcc5924d234aded
 org.apache.seatunnel	seatunnel-engine-examples	2.3.8		f7b00a3c6e27d75504ef779314d0da571e09a06a
 org.apache.seatunnel	seatunnel-engine-examples	2.3.9		51acfcfe16d95d7a2ae75bed00f56b5ccce73849
 org.apache.stanbol	org.apache.stanbol.enhancer.enginemanager	0.9.0-incubating		71ee73500f7a38b1bc35267809d19323ac30b58c
+org.apereo.cas.api.cas-server-core-api	5.0.0.RC2	api		5ce2fdd323c6d5527ce414d6b66280211e1b8557
 org.blufin	blufin-cron	0.0.1		e914cb3c9af4115d615724ebd7b0c48b55812a56
 org.bndly.common	org.bndly.common.varnish	1.0.0		92d37d611418c7736b65c3e69c9e21f85c272a32
 org.bndly.common	org.bndly.common.varnish	1.0.1		3cbbe8488339b0d890ccdf46b8137947ccc8d036
@@ -1532,6 +1536,19 @@ org.eclipse.dirigible	dirigible-components-api-platform	11.41.1		3f03c5becb58d2b
 org.eclipse.dirigible	dirigible-components-api-platform	11.42.0		f025dcd7de1b812f512a67de338247155cc465b4
 org.eclipse.dirigible	dirigible-components-api-platform	11.43.0		54968794d7015611005fab30fd646c6ff6421efe
 org.eclipse.dirigible	dirigible-components-api-platform	11.44.0		cce95756e8c4a23b85bdeef53ae7e9d3f6dd5ebb
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.0		961ea173ef6d9d0d35a65e049ce87a389bbad641
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.1		b65f04afd4e8df5ed73e707c848fbcbf5701de7e
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.10		1e435c82ca3e7246ad4deca6de198370e9e4627c
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.11		5b0f3a3dad0966b33e40d5f5fa6caee82b9316d5
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.12		6462f3406e4d44858fd763150584cd277a5ee582
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.13		4bbebda1eda8647572843e3c7663da1fbff45246
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.3		bdbe889bdac4aee981f5d589b7c15bba7bb1507b
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.4		5ebec789fb078f921286a6699b238effd26063b4
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.5		cc6338b6d41367685de79bba39c511fcadcbfdde
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.6		85b4538f8194fabe52f5ed2d4faaedb1a868e384
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.7		9dfa6e61ec3edcea1d9e0f2dc01bba0d7939460d
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.8		e3e7a5582b969c63967813e59878abbc10a6715f
+org.eclipse.dirigible	dirigible-components-api-platform	11.45.9		40d755f3111e6583ab75674c5bbd60fa10a736f9
 org.eclipse.dirigible	dirigible-components-api-platform	11.5.0		14c6f1d67b9da99d21e11752e4640724fd04d1aa
 org.eclipse.dirigible	dirigible-components-api-platform	11.6.0		5e311644ed8c5f157f02f87c4958a93f4b1463ba
 org.eclipse.dirigible	dirigible-components-api-platform	11.6.1		311bbf530b6302bf2aa24cbffaff5ce1c1193965
@@ -2079,6 +2096,7 @@ org.tinygroup	org.tinygroup.genservicewrap	tiny-3.0.0		171ba2d05d3a8f2317e837366
 org.webjars.bowergithub.predixdesignsystem	px-vis-timeseries	3.4.4		d9d787076ab66541b87364892bc74d38ed005e09
 org.webjars.bowergithub.predixdesignsystem	px-vis-timeseries	4.0.0		2fac0135a9b558c29e078dd4b1f263bf00120aa1
 org.webjars.npm	stylus-normalizer	1.0.1		e1ac0773ee59c17042882ca5c8c326c3f8763b9c
+org.webjars.npm	whatwg-node__server	0.10.6		c1b83099341c7827d534c971ef6ed70ba5eed955
 org.wso2.ei	data-services-feature	1.1.0		N/A
 org.wso2.ei	data-services-feature	1.1.0-alpha		N/A
 org.wso2.ei	data-services-feature	1.1.0-beta		N/A

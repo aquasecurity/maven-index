@@ -110,6 +110,7 @@ com.getyourguide.openapi.validation	metrics-reporter-datadog	2.2.1		466c0641ddf6
 com.getyourguide.openapi.validation	metrics-reporter-datadog	2.2.2		95c7d459960d35e784415e825e82256004c1471f
 com.getyourguide.openapi.validation	metrics-reporter-datadog	3.0.0		3e8bbfd83d282e9631a3022a9e59f8c8f4dea881
 com.getyourguide.openapi.validation	metrics-reporter-datadog	3.1.0		e7cf48d0986742b6d1dc4b10be6b8760704577a6
+com.getyourguide.openapi.validation	metrics-reporter-datadog	3.1.1		77140fe9debe2b8d58c7809d7b0d797a42f3a193
 com.github.dredwardhyde	jaffa-rpc-maven-plugin	1.0		1ca8f9b6ced496dc61d82565d721bae27656e958
 com.github.dredwardhyde	jaffa-rpc-maven-plugin	1.1		69eb2abb015884bd633237e9eb2e081c50665b6d
 com.github.dredwardhyde	jaffa-rpc-maven-plugin	1.2		6bfd3989a31dcc281d1119144bd8db087a3a1d63
@@ -200,6 +201,7 @@ com.jd.live	joylive-transmission-dubbo2.6	1.5.0		80355ffb144b1ff6b262478b1fcc9a5
 com.jd.live	joylive-transmission-dubbo2.6	1.5.1		47873d5210926817593553066458515b4bde4520
 com.jd.live	joylive-transmission-dubbo2.6	1.5.2		009b2a58decdd616efcea6a87c4f593811bfbab6
 com.jd.live	joylive-transmission-dubbo2.6	1.6.0		efdb96f54da5824ce032b971e0c465f827e3d319
+com.jd.live	joylive-transmission-dubbo2.6	1.7.0		015363bd07f22280b100fbf09d5cac233f6cc4fc
 com.kamingpan.infrastructure	infrastructure-subscription	1.0.0		94e7d21ce1c8c7a69ccc8815fbf117b68fc32b08
 com.lightbend.cloudflow	contrib-spark-testkit_2.12	0.0.2		c42eeae3ad20633af8d4318edd87a1de05ee8c85
 com.lightbend.cloudflow	contrib-spark-testkit_2.12	0.0.3		8b21989beeb1df681881b3dc60dff63d8ee119a2
@@ -453,6 +455,8 @@ io.ktor	ktor-server-host-common-watchosdevicearm64	3.1.1		d00dc2132f3800fdd55bda
 io.ktor	ktor-server-host-common-watchosdevicearm64	3.1.1	metadata	c70e0ee84bdb20c2b79f5d33709cbefc29f06228
 io.ktor	ktor-server-host-common-watchosdevicearm64	3.1.2		decf0ed0ad1dbeb447ce30b43061671b61c94d14
 io.ktor	ktor-server-host-common-watchosdevicearm64	3.1.2	metadata	397f0a4383c52921a9dfe58dedce797a6f117766
+io.ktor	ktor-server-host-common-watchosdevicearm64	3.1.3		d299141f38b9d917d8799aaeb7f9267486dcf71b
+io.ktor	ktor-server-host-common-watchosdevicearm64	3.1.3	metadata	05421d714699e7823af53bc314e13ff80a1604a6
 io.netty	netty-transport-native-epoll	4.0.16.Final		168955f60f292ca71bfa6a41fdcf61c8102fa854
 io.netty	netty-transport-native-epoll	4.0.17.Final		6e54cc6dc5fb7c6b4315210bb1d94f293d3c84e8
 io.netty	netty-transport-native-epoll	4.0.18.Final		ad0c011003bb6e43502d3edc825979f1d2cc15fe
@@ -941,6 +945,10 @@ io.netty	netty-transport-native-epoll	4.2.0.RC4		94ab3c8bc6b74db256a9fd8147be92f
 io.netty	netty-transport-native-epoll	4.2.0.RC4	linux-aarch_64	fab501e3694d28571a5ee6b7c631d9cf34fd6d58
 io.netty	netty-transport-native-epoll	4.2.0.RC4	linux-riscv64	4e9d23b7b5b39d3b2dd3ccb72188cd91de41b039
 io.netty	netty-transport-native-epoll	4.2.0.RC4	linux-x86_64	260b9c016f79757dd50a24294b879bec5980907f
+io.netty	netty-transport-native-epoll	4.2.1.Final		9d7316af8b3176f078990ad053150acc611dfa08
+io.netty	netty-transport-native-epoll	4.2.1.Final	linux-aarch_64	3e260db9af622a2611c53efab6dad2046cfe9984
+io.netty	netty-transport-native-epoll	4.2.1.Final	linux-riscv64	d5b0629fb93682a8b0381a58739a8e8c1c74de04
+io.netty	netty-transport-native-epoll	4.2.1.Final	linux-x86_64	6db9320c0c143bce3150d79edfca917e6c0b9ef8
 io.netty	netty-transport-native-epoll	5.0.0.Alpha2		c7c1153856f310bf9ed514e12127cfa3e7a4efb9
 io.netty	netty-transport-native-epoll	5.0.0.Alpha2	linux-x86_64	361d2107c092c851103964ea7adc2af53c6a6d22
 io.permazen	permazen-kv-fdb	4.0.0		66e28e80c0c5724af8f6e121f4548004dc3a2d4f
@@ -1147,6 +1155,7 @@ org.anyline	anyboot-jpush	2.2.2.835		bcbef305062256eae298de54aaf52cd159d2ec81
 org.anyline	anyboot-jpush	8.3.6.200		4f3bd937f782734a8326b77ef9df57f1a263c679
 org.anyline	anyboot-jpush	8.3.6.210		02c591c746c2a4c8339aca74e88c951835848597
 org.anyline	anyboot-jpush	8.3.6.211		fa08f1cdb1cc293cbcc28d9326d69a42b4e62bf0
+org.apache.amoro	amoro-format-mixed-flink-1.17	0.8.0-incubating		d9c6e817bd840c3da9dfddd65eba590d551ca0c7
 org.apache.atlas	atlas-intg	0.8-incubating		0d6bbcb55003495d2ab525db6df81b4d83bffae1
 org.apache.atlas	atlas-intg	0.8.1		1a7100dea3c0e8ac738007f1511f519a5e6c654c
 org.apache.atlas	atlas-intg	0.8.2		fb08aad123a4baddd0396536376156bc1789d71f

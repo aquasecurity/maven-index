@@ -871,6 +871,7 @@ com.couchbase.client	core-io	3.7.7		0b4a4f87a51249db26d00cf0fe67336343608b45
 com.couchbase.client	core-io	3.7.8		67875ebd0b74f1ddf757d5b422cfd2f75bc55dc4
 com.couchbase.client	core-io	3.7.9		547bd235389ec9ddf3a43b64309f28af7a3d96d0
 com.couchbase.client	core-io	3.8.0		90cb721152c1a278168f92deef65aa57a97e1814
+com.couchbase.client	core-io	3.8.1		f9ca40e32e87840d110ade7ee490896a9d4f1e18
 com.digitalpetri.opcua	ua-server	0.4.0		b8d6578ae715bbba23cbfe8356fdbe05fa6651e8
 com.digitalpetri.opcua	ua-server	0.4.1		ae06579d05bbdc5523e77ee6446053c274ccdef3
 com.digitalpetri.opcua	ua-server	0.4.2		bc8ea73359d81988baff56ff0dc153fd4c5d666e
@@ -1106,6 +1107,8 @@ dev.ikm.elk	elk-snomed-reasoner	0.37.4		0d88ee8a86af6bae93c27e54508c8d728b74c865
 dev.ikm.elk	elk-snomed-reasoner	0.37.5		334ce430a20dd53f6cbce46a3f0496b4f3fe04f6
 dev.ikm.elk	elk-snomed-reasoner	0.37.6		c9e39e29c00660649588244964de0ac71f38c749
 dev.ikm.elk	elk-snomed-reasoner	0.37.7		a5649fa5a7486913bd16e9a818c96bd0b9758f3f
+dev.ikm.elk	elk-snomed-reasoner	0.37.8		673e678ef3f0b68bd6e8b710cbb455cc9b209e9e
+dev.ikm.elk	elk-snomed-reasoner	0.37.9		64783d572db79df46d0634f63264f63a894ab6a3
 dev.ikm.jpms	jsr305	3.0.2-r1		7d7177f8738765114b028086bbbd74336488ba28
 dev.ikm.jpms	jsr305	3.0.2-r2		bbdfbd3b7b37e5b9a71bdd4f2ca4a1bf36d9c74a
 dev.ikm.jpms	jsr305	3.0.2-r3		N/A
@@ -1184,8 +1187,10 @@ io.moneyhash	MoneyHashShared-iosarm64	0.1.1011		N/A
 io.moneyhash	MoneyHashShared-iosarm64	0.1.1011	metadata	f530689abf6c9bf533d4f491e6ae51b0ff6b9fc4
 io.moneyhash	MoneyHashShared-iosarm64	078c3c5		N/A
 io.moneyhash	MoneyHashShared-iosarm64	078c3c5	metadata	43e96a09aef35e3315b4936e8c6a569679cb8bff
+io.moneyhash	MoneyHashShared-iosarm64	0957958	metadata	5616409a5ca8dc3a25be4f6bd73f24322aeec09a
 io.moneyhash	MoneyHashShared-iosarm64	0d2fb44		N/A
 io.moneyhash	MoneyHashShared-iosarm64	0d2fb44	metadata	6af1e0d24964ba1025c5b8a991ca10d9b4bd313c
+io.moneyhash	MoneyHashShared-iosarm64	0f13e16	metadata	44e11c751703cfd5531b729030495f219f14ce95
 io.moneyhash	MoneyHashShared-iosarm64	159994a		N/A
 io.moneyhash	MoneyHashShared-iosarm64	159994a	metadata	c31f1708f0645e994f56803ad625b0790d37fe52
 io.moneyhash	MoneyHashShared-iosarm64	169df22		N/A
@@ -1202,6 +1207,7 @@ io.moneyhash	MoneyHashShared-iosarm64	2.0.5		N/A
 io.moneyhash	MoneyHashShared-iosarm64	2.0.5	metadata	cbedb85cb1ced663128028240bd4b6efbc4ad988
 io.moneyhash	MoneyHashShared-iosarm64	211ca28		N/A
 io.moneyhash	MoneyHashShared-iosarm64	211ca28	metadata	a8af39844737167ec869cdffb2264e89c645ede6
+io.moneyhash	MoneyHashShared-iosarm64	2155b0e	metadata	66269b6a89fcc16dfbc5473e3a3879aee3648bdf
 io.moneyhash	MoneyHashShared-iosarm64	2159e27		N/A
 io.moneyhash	MoneyHashShared-iosarm64	2159e27	metadata	633ca833e54f69afbc690ac78ec98510810bbf99
 io.moneyhash	MoneyHashShared-iosarm64	27ba471		N/A
@@ -1600,6 +1606,7 @@ org.jruby	jruby-stdlib	1.7.7		571a9e7f52339cf17ba3a0e7190b5ff075246bfb
 org.jruby	jruby-stdlib	1.7.8		681c0d05000c7c1825491ad0f503b88f037c3a2d
 org.jruby	jruby-stdlib	1.7.9		f5c3460156945328b2f99e3e672bc7214d10f154
 org.jruby	jruby-stdlib	10.0.0.0		d5c53440001f7441d9a2c5ff9637d5955b05b6df
+org.jruby	jruby-stdlib	10.0.0.1		cbe1d7f48d6ba990bfc4610058649e0a4657538f
 org.jruby	jruby-stdlib	9.0.0.0		49e6f87b2964cb882f0cbb4961fec39eeb6fcd17
 org.jruby	jruby-stdlib	9.0.0.0.pre1		ec3322eaa7784b42e06ff3f0530f3bee21f63f2b
 org.jruby	jruby-stdlib	9.0.0.0.pre2		61be2803f7ad254a9155c481cd18e6080b092079
@@ -1674,6 +1681,7 @@ org.jruby	jruby-stdlib	9.4.1.0		9d8e4b7d7e063bd7a4c6e29fb1f20e0aff15d4ba
 org.jruby	jruby-stdlib	9.4.10.0		8074a8b80349887d1facbb0c271a5805f9f404bc
 org.jruby	jruby-stdlib	9.4.11.0		25936d4beba44a580809d5b3c079d1072f9e0b1a
 org.jruby	jruby-stdlib	9.4.12.0		e7ba69bd101cbde2c94f6b0858f62db299d795d6
+org.jruby	jruby-stdlib	9.4.12.1		fa9ae57cd51fd4e370b5e5f24ab2a53c015e83da
 org.jruby	jruby-stdlib	9.4.2.0		d347e1304efcaffc81ac869668ae1e547f554dd5
 org.jruby	jruby-stdlib	9.4.3.0		826ace6301d537838b8d02b5b81897986654674e
 org.jruby	jruby-stdlib	9.4.4.0		cc94d452c8e5e5412f941b288a3911ae3692fbaf
@@ -1741,6 +1749,10 @@ tz.co.asoft	kotlinx-interoperable-exports	3.0.6		d04f96534a3ff8198226fdbc3b688d1
 tz.co.asoft	kotlinx-interoperable-exports	3.0.7		86af6a93bd415cb2902380dbf529438048fb66ac
 tz.co.asoft	kotlinx-interoperable-exports	3.0.8		a808d14e14a9864f7b72a7eda1fc9141e012a3a6
 tz.co.asoft	kotlinx-interoperable-exports	3.0.9		a808d14e14a9864f7b72a7eda1fc9141e012a3a6
+tz.co.asoft	kotlinx-interoperable-exports	3.1.0		1a2c1b4d49a7c78c6af57f958a72fe67acf83ba8
+tz.co.asoft	kotlinx-interoperable-exports	3.1.1		1a2c1b4d49a7c78c6af57f958a72fe67acf83ba8
+tz.co.asoft	kotlinx-interoperable-exports	3.1.11		1a2c1b4d49a7c78c6af57f958a72fe67acf83ba8
+tz.co.asoft	kotlinx-interoperable-exports	3.1.12		1a2c1b4d49a7c78c6af57f958a72fe67acf83ba8
 tz.co.asoft	neat-validation-wasm-wasi	3.0.1		N/A
 tz.co.asoft	neat-validation-wasm-wasi	3.0.11		N/A
 tz.co.asoft	neat-validation-wasm-wasi	3.0.12		N/A

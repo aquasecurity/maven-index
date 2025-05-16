@@ -233,6 +233,7 @@ com.github.pjfanning	pekko-http-zio-json_2.12	2.8.0		a3c22e8b5282971fdbdb152e5bd
 com.github.pjfanning	pekko-http-zio-json_2.12	3.0.0		70150c16769f0b67d9c3c513539a911342166e11
 com.github.pjfanning	pekko-http-zio-json_2.12	3.0.1		b976391442d69f53ff6875229cb6dbe15fece574
 com.github.pjfanning	pekko-http-zio-json_2.12	3.1.0		9fe1bbbc5892c770f4933daf280bb8ad6d56d052
+com.github.pjfanning	pekko-http-zio-json_2.12	3.1.1		646dd929108225ef522c6ce2bae0ce28b1b12d1d
 com.github.runbuggyinc	stripe-java7	16.4.0		7a4290ad4fbd3f5a1591b6de3ea2c5e7a793faa5
 com.github.shynixn.ball	ball-bukkit-plugin	1.0		bd10b9963a86e586f1fe8ad42807d940f4f246a7
 com.github.shynixn.ball	ball-bukkit-plugin	1.1		767aaf06bea9a3c0154446198690a799bd32a179
@@ -886,6 +887,8 @@ io.jooby	jooby-jwt	3.5.5		c68509adf01dc7293350df6c470ea751f26c6292
 io.jooby	jooby-jwt	3.6.0		744c0a1f517125fe1d66bd86a93773daebb264f4
 io.jooby	jooby-jwt	3.6.1		edc2c76bb4f5a0db602269c37efa45f4b8bc4ec4
 io.jooby	jooby-jwt	3.7.0		30b0fe7851d86fb37c31ca83ae1723112ae56f15
+io.jooby	jooby-jwt	3.8.0		3bfa82e3f83e69c0684a2692a725b827e9921c89
+io.jooby	jooby-jwt	3.8.1		7372ac7f49923e88c4f315a403e16a53bc5601f7
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-manager-common-mingwx64	0.1.1		N/A
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-manager-common-mingwx64	0.1.2		N/A
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-manager-common-mingwx64	0.1.3		N/A
@@ -1077,6 +1080,7 @@ no.mnemonic.services.common	service-api	0.7.0		7d43c21ac8d6fa20c8e4f5da114acf325
 no.mnemonic.services.common	service-api	0.7.3		d8adea6cff6e42996081facd8b694bbb1e1fc685
 no.mnemonic.services.common	service-api	0.8.0		f15c269b083dce546ba454f02ca72e6ccc9f4658
 no.mnemonic.services.common	service-api	0.8.1		35b956ff04b43e72df51364a6b5c60f028ed9082
+no.mnemonic.services.common	service-api	0.8.2		5b311aec401d3d8ac50b8521c1e3f43a041f3d19
 org.apache.camel.k	camel-k-master	1.10.0		0b3ba998efa071b7ca24ac14e62f51ffda639464
 org.apache.camel.k	camel-k-master	1.11.0		4d8855879ad0b11d0176aed627815b41abc5a8e2
 org.apache.camel.k	camel-k-master	1.12.0		a55df0f8d138531dc19c81ebb277e7fa42b6cad9
@@ -1591,7 +1595,9 @@ org.elasticsearch	elasticsearch	8.17.2		2b2e7d5e83e109e4fb39a0af42d82bf0f65bc46b
 org.elasticsearch	elasticsearch	8.17.3		0238daca7ceb01172558b351a9188f9dd18910c8
 org.elasticsearch	elasticsearch	8.17.4		cf3ec425be0e2f5745d109ace15317bbe0f367ff
 org.elasticsearch	elasticsearch	8.17.5		1f88165b15dc42729ddccfc5d4a20d7f550b133f
+org.elasticsearch	elasticsearch	8.17.6		04681864b3a9f944c2b8732ed77dd903a45de47c
 org.elasticsearch	elasticsearch	8.18.0		577ddbc7ed1daf706a8eedb4d814c325942aa7fa
+org.elasticsearch	elasticsearch	8.18.1		ded2ab6735e6204babf85fe092f687e3c24b1d02
 org.elasticsearch	elasticsearch	8.2.0		3279242c487a544f635cd55601e1a6e2759be405
 org.elasticsearch	elasticsearch	8.2.1		f9335a1013cef1450d51c97897e8d8a364b80879
 org.elasticsearch	elasticsearch	8.2.2		c7a738e103c994f859257eaf838d820998b062fd
@@ -1622,6 +1628,7 @@ org.elasticsearch	elasticsearch	8.9.2		1b5333094a656163ffacaf5166945bd80dda0898
 org.elasticsearch	elasticsearch	9.0.0		b6385838e1dbc7264dda8b083be1e581b88814f9
 org.elasticsearch	elasticsearch	9.0.0-beta1		a1248bfeb9fb349fc61ce953f5d38010aa66ad59
 org.elasticsearch	elasticsearch	9.0.0-rc1		fa5f6474e6a49d3da04a77791d301801a0f1be46
+org.elasticsearch	elasticsearch	9.0.1		28318d69f227700a31854973123d770a4efe6e3c
 org.glassfish.grizzly.samples	grizzly-http-ajp-samples	2.0.1		1165999fce6d2b1b7f975c0a2411ebb566f1c4d6
 org.glassfish.grizzly.samples	grizzly-http-ajp-samples	2.0.1-b2		57486e83df128a1d171a912949bf8503dcd48e3d
 org.glassfish.grizzly.samples	grizzly-http-ajp-samples	2.1		cba52ea685e6ad14ef5fe5b2a08a66dd889b3853
@@ -2507,6 +2514,7 @@ org.janusgraph	janusgraph-core	1.1.1-20241115-173143.8c78268		fc768d767ac45af661
 org.janusgraph	janusgraph-core	1.1.1-20241115-201642.8c78268		eb5facc1b637ad78213c381f95c8914a5311090e
 org.janusgraph	janusgraph-core	1.1.1-20241116-021934.5be16ea		11d99b3143dbc9ef72d7ca6ae091a33290316fbd
 org.janusgraph	janusgraph-core	1.1.1-20241118-163713.4b9d009		d15765a27acf3b13703e417fc4e87fba4ff17716
+org.janusgraph	janusgraph-core	1.1.1-20250511-122520.43d05f8		7b06a19cb2ad1ac302cee4effc983ac9628c9d5a
 org.janusgraph	janusgraph-core	1.2.0-20241115-203411.9121dd8		8faa9a14c5661cf59e1ba853367e3dbf096b146f
 org.janusgraph	janusgraph-core	1.2.0-20241116-110554.8064ac9		52ad8ade758e549290989b02e1fa8692a05361c0
 org.janusgraph	janusgraph-core	1.2.0-20241120-125614.80ef1d9		1ab3a29339933f4e1e768c8d450e172472b3da9c
@@ -2525,6 +2533,7 @@ org.janusgraph	janusgraph-core	1.2.0-20250216-125009.330bd38		1c5e7a011483e476ea
 org.janusgraph	janusgraph-core	1.2.0-20250216-225746.b5e2f5d		a17c3e9e687506fb44b807407b8ef1d7c04d2efb
 org.janusgraph	janusgraph-core	1.2.0-20250216-225808.6db9d55		252880a45347235feae1aac281f5c68610896b70
 org.janusgraph	janusgraph-core	1.2.0-20250219-143145.6c030f7		24edf24b012d61b8366923cd66abaf9aeda02118
+org.janusgraph	janusgraph-core	1.2.0-20250509-104313.02c1bcb		272a6d4b0e260e107ed6dc745b242bfdbacd6b43
 org.mobicents.tools.snmp	snmp-parent	2.8.10		N/A
 org.mobicents.tools.snmp	snmp-parent	2.8.11		N/A
 org.mobicents.tools.snmp	snmp-parent	2.8.12		N/A
@@ -2697,4 +2706,6 @@ se.laz.casual	casual-event-client	3.2.50		e54867cffcf1cac22e2fffa89ff3327b1412c4
 se.laz.casual	casual-event-client	3.3.0		dc43ca8a565ab5bc5c2d7b6da457a8a1e1e02a7e
 se.laz.casual	casual-event-client	3.3.1		223604d9fc4a366edac069f68f99e9f8b3139224
 se.laz.casual	casual-event-client	3.3.4		8d67b7bd482f28e2e12ccb9893215785064a535d
+se.laz.casual	casual-event-client	3.3.5		a0ac4e5a28cea283180fa2f109ba8c3fd239b408
+se.laz.casual	casual-event-client	3.3.6		b1cfa316b743dc3e585365b99c18d69e42624bb7
 wang.jiejin	report-springboot-starter	0.0.1		c4a1b3a7ac6dcec53cc1ec42b61b2bc630d8ce71

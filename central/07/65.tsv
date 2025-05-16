@@ -1611,6 +1611,8 @@ com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.183.3		0c59f51e8
 com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.183.4		641ddc8832d037b6cb88fca3b68f538d6e760e6e
 com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.184.0		34f47798109a2315aa03964d03fc8fe8c1f7ea52
 com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.185.0		d029c5c5e233a8358e9ea8fb60686e09144ea7e5
+com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.185.1		6617d4e5dfaead494c465a7f97cf0bf97a4bb001
+com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.186.0		a5a6f17307be9adbacc7455701b9e3dceb1fd8f7
 com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.86.0		e0f1221bb43437aa103dae39a7b81395aae59ae9
 com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.87.0		0e84a5366372036b1f4cef5eadef7b5db4a2dce5
 com.google.api.grpc	grpc-google-cloud-bigquerystorage-v1beta2	0.88.0		98fd49a9de15330cde8100e2f5cca2799c5805f1
@@ -2193,6 +2195,7 @@ io.quarkus	quarkus-apicurio-registry-avro-deployment	3.15.2		baf791b28eb02293c6f
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.15.3		eb1f4ad0c049a8c023782a80f06841b3aeb85397
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.15.3.1		8fb646e99dbbd19ef691bb20198f68badbb3167d
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.15.4		0d23366427e35136d437db04f010df7411ed3fec
+io.quarkus	quarkus-apicurio-registry-avro-deployment	3.15.5		1d8514d30c765a5e10a9f19ab65427abfeff2090
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.16.0		26e0ae7af9ffb37c14d0acf6932dd34cbcc0e0f0
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.16.0.CR1		1678abb6220d42d5f3c4f258716cbbaa814aff78
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.16.1		c763c826b77af5925632cbd53059e4cb37810080
@@ -2237,6 +2240,7 @@ io.quarkus	quarkus-apicurio-registry-avro-deployment	3.2.8.Final		6536ecb3cb228c
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.2.9.Final		696f17e347a13e5a0c264fac9c0a0ad5b6dc93d9
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.20.0		84dfd1032508c0bfaaae7d3e5ce7dd24458a6696
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.20.0.CR1		448f0f8865f535965b074067609c9436915d2e87
+io.quarkus	quarkus-apicurio-registry-avro-deployment	3.20.1		a131e788b21df46376516ec0c7e2bd71d2abfd68
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.21.0		c241647780ff61b2f48210ff5bd38b8f47bfc292
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.21.0.CR1		4d329562ec82614ee2a3b665469d13b61cff5741
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.21.1		68d8e5705bf4d57a41b5de56f2873d8c28e4e614
@@ -2246,6 +2250,9 @@ io.quarkus	quarkus-apicurio-registry-avro-deployment	3.21.4		7437ff1dc13665ff935
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.22.0		d97c11ec54de613bc3a4bceec8327a4842818366
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.22.0.CR1		6b0e5bfc4a4203a4503c65097fd74f2bf88456ac
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.22.1		7cf1751d10c1076705d98d66aebff4ae006c0138
+io.quarkus	quarkus-apicurio-registry-avro-deployment	3.22.2		ff141c6b421aa6dd4a4a586cc825861c9897a220
+io.quarkus	quarkus-apicurio-registry-avro-deployment	3.22.3		96b72278ee0a05bef149da47a80eee59f1d363cd
+io.quarkus	quarkus-apicurio-registry-avro-deployment	3.23.0.CR1		9b3ff327d604a935bc718f5c6644b9083b94edf9
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.3.0		1df27ad121339cc9bc26f963ac90e985301711f2
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.3.0.CR1		6f83ac3e03051c7de38243f5c15d9940f2edcc94
 io.quarkus	quarkus-apicurio-registry-avro-deployment	3.3.1		b3bd3ef9447a0d1a7dde2e173c58712adb817a4a
@@ -2482,6 +2489,7 @@ org.apache.camel.quarkus	camel-quarkus-opensearch	3.17.0		0d9f72962cdc15cf7369f7
 org.apache.camel.quarkus	camel-quarkus-opensearch	3.18.0		19b789387e23a9313e3a359ccd5bfaaa2165d342
 org.apache.camel.quarkus	camel-quarkus-opensearch	3.19.0		4e46edc707bea02571a367a02fdc2a7bd18cbce8
 org.apache.camel.quarkus	camel-quarkus-opensearch	3.20.0		58390d2399f5b7839017f579625ede8839b6abfe
+org.apache.camel.quarkus	camel-quarkus-opensearch	3.20.1		4943286b2dd1960f6d913ecc7d1f66d65ddb164b
 org.apache.camel.quarkus	camel-quarkus-opensearch	3.22.0		8fb5381be0eb28fbac917da021ee8d7613c534c3
 org.apache.camel.quarkus	camel-quarkus-opensearch	3.8.0		246abe944b00483b8671316e6ec7ab283cb9460d
 org.apache.camel.quarkus	camel-quarkus-opensearch	3.8.1		5152c46a63895c32dfa825b9a7045eab23a35012

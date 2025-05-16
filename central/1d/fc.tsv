@@ -863,6 +863,8 @@ de.gematik.test	tiger-standalone-proxy	3.7.4		600e4dcab71d9573637b3d3648eb06f869
 de.gematik.test	tiger-standalone-proxy	3.7.5		68fefc969e74e34ab311a6772522d5e84f21e5e9
 de.gematik.test	tiger-standalone-proxy	3.7.6		7abbadadd5663689faad64c2af11a2e04ce0c2b0
 de.gematik.test	tiger-standalone-proxy	3.7.7		3792293b626de6f0ea09cc588a3b0385c15bb4e5
+de.gematik.test	tiger-standalone-proxy	3.7.8		5a584267d36e23f2834bc5e005a616a8d3b12869
+de.gematik.test	tiger-standalone-proxy	3.7.9		f0e365eded5b78dedcd6695dc2cc27fcf3c1b5ab
 de.hdodenhof	androidstatemachine	1.0.0		N/A
 de.mhus.rest	rest-osgi	7.0.0		8a646128d75bd0b500cc47fe6f8e25e29554d746
 de.mhus.rest	rest-osgi	7.1.0		be702eca0a8aeaa2452c621769d6d9fb9a55f140
@@ -1002,6 +1004,7 @@ io.github.pdvrieze.xmlutil	core-io-iosx64	0.91.0		N/A
 io.github.pdvrieze.xmlutil	core-io-iosx64	0.91.0	metadata	bab2d59864f50e4b895764bf4ace651b34f014c1
 io.github.pdvrieze.xmlutil	core-io-iosx64	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	core-io-iosx64	0.91.0-RC1	metadata	aeb7efbc05734ae640c168f85e48095aef8235de
+io.github.pdvrieze.xmlutil	core-io-iosx64	0.91.1	metadata	fcff305c2a2d06d1d6aec2fed8023bc03c56918e
 io.github.strongdm	strongdm-sdk-java	0.9.28		c2a2c074c4bca16b3fcb5f8c5fcbcdcd26780384
 io.github.strongdm	strongdm-sdk-java	0.9.29		6a72bf58bc2744b4abf6802f38abd05696f8ceac
 io.github.strongdm	strongdm-sdk-java	0.9.30		031a006a9fc09b563b4b2feab8d70afa7f5eda29
@@ -1400,10 +1403,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTransl
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.80.0		738292b16a3596efb4a0ba0cf21ffe549193a380
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.81.0		e6e0f64060c7f2f323f05a82d70ee458f65af3ae
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.82.0		bbf9036f4a9464d82f3ce883dfc862f6472131d8
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.82.1		b28636b88f215fa80301b145357366c6ed7cd616
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.83.0		e30091bdf0182f3e9bbe4ae0015054ad0bdb9a5b
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.83.1		799040919c82bccd297e5e95725c7ade8248a71e
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.83.2		2f9903f3ecc1ed98ba9b69153e7d8bba11f23474
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.83.3		3f1fac2e7fe1bab0b2c2fd5fe7bbff2cbd26713a
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.84.0		58be113e57951c6b54f11e5bb406c31a574c6b99
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.84.1		60f28e512005e556301748c8b263dc248d9fe75c
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.85.0		74c62ab526766a643b0349429ea2f196404eff8a
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.85.1		781486a817b107a57dd4f197b905bbb2794eeb1b
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.85.2		5b5f06331daf23dbf9ec3afb9f23f91ad1a7cf84
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-sqlDialectTranslation-pure	4.85.3		a7af97e93e817f93770eec1605003b5ab7d7a336
 org.hisrc.jsonix	jsonix-schema-compiler-full	2.0.11		f7f9902bbbb2670f21878b7b23aade4addb33d1c
 org.hisrc.jsonix	jsonix-schema-compiler-full	2.1.0		55fe1586cf49f967557fe76671c62381097f8a23
 org.hisrc.jsonix	jsonix-schema-compiler-full	2.1.1		7760077e7c6e0539d2bcf4b97fe2cc7ec41d1f07
@@ -1638,6 +1648,7 @@ org.spire-math	cats-laws_2.10	0.2.0		45637fd0802662e9444ba89279556c5add6eba84
 org.spire-math	cats-laws_2.10	0.3.0		2616e9d9709f996d7194461f4e4e0420d5d72098
 org.springframework.ai	spring-ai-starter-mcp-server-webmvc	1.0.0-M7		f7cdf8e3c1c4e57b9ed4925f0214e0569dffcf71
 org.springframework.ai	spring-ai-starter-mcp-server-webmvc	1.0.0-M8		7c6e18e1ce120a2155e0b75503342fa401681892
+org.springframework.ai	spring-ai-starter-mcp-server-webmvc	1.0.0-RC1		cd30e1d82e86e4f35503fe75536078727d573d46
 org.springframework.cloud.stream.app	tcp-app-starters-common	1.1.0.RELEASE		ad88fb767759a7cef212e3be5a21a8e0d960d184
 org.springframework.cloud.stream.app	tcp-app-starters-common	1.1.1.RELEASE		b2623dc578bd30bd5a682f48451717bde55c7b30
 org.springframework.cloud.stream.app	tcp-app-starters-common	1.2.0.RELEASE		68765454007bd34597d4508df58d443b83cefabe
@@ -1983,6 +1994,8 @@ org.xwiki.commons	xwiki-commons-crypto-common	16.10.3		1326479c1a0cc7348686ad5fc
 org.xwiki.commons	xwiki-commons-crypto-common	16.10.4		9b296032d6267bc4d8dc1c6e50525bd0a4f02686
 org.xwiki.commons	xwiki-commons-crypto-common	16.10.5		0414a86ed4fe562956bcf5f1e8c17453d7f44dbf
 org.xwiki.commons	xwiki-commons-crypto-common	16.10.6		d3ea6cf16adb884fe1b702fcf9eac31080e4b1b9
+org.xwiki.commons	xwiki-commons-crypto-common	16.10.7		2f9d98f7fa5a44c540eb8a0467a872179b47fee5
+org.xwiki.commons	xwiki-commons-crypto-common	16.10.8		a9d9040da7991a92bc81a018ec040b6fe580be7e
 org.xwiki.commons	xwiki-commons-crypto-common	16.2.0		69a23c57abac5153868a68c46dc64b19b85da52f
 org.xwiki.commons	xwiki-commons-crypto-common	16.2.0-rc-1		7c084592c12a664dd23e35403da9ff337e312467
 org.xwiki.commons	xwiki-commons-crypto-common	16.3.0		bdb48fb84f80248ba4bb3f955c96de7d54522d39
@@ -1997,6 +2010,7 @@ org.xwiki.commons	xwiki-commons-crypto-common	16.4.4		df0db8358be537bed78e481c26
 org.xwiki.commons	xwiki-commons-crypto-common	16.4.5		e3b8092c20884f1c11c51dd7f99fc97c2e5023f0
 org.xwiki.commons	xwiki-commons-crypto-common	16.4.6		d6fee2ad7615dd852943652ddc0514fd8e78338a
 org.xwiki.commons	xwiki-commons-crypto-common	16.4.7		e91aeea6558dd31c950fb0c3de0fd36bb11d4a13
+org.xwiki.commons	xwiki-commons-crypto-common	16.4.8		fba7c63875e02b0c66624a172773d0c3acb9c0a4
 org.xwiki.commons	xwiki-commons-crypto-common	16.5.0		06e2a74b15384ee05df00faf0d4bc3057025a192
 org.xwiki.commons	xwiki-commons-crypto-common	16.5.0-rc-1		1a662da6fdf60f4bbb239ea3cdb37343d329fa9a
 org.xwiki.commons	xwiki-commons-crypto-common	16.6.0		2ab3d39b79da5b3d6c0519493bd127d12713a4c8

@@ -77,6 +77,7 @@ cloud.piranha.arquillian	piranha-arquillian-server	25.1.0		469bea9055aa5b9d4b399
 cloud.piranha.arquillian	piranha-arquillian-server	25.2.0		cea1be0e5ce4a0f8159138e6f7c0090a1473680c
 cloud.piranha.arquillian	piranha-arquillian-server	25.3.0		a087f54e29daa2457a4abe92144a7b3f925a30c8
 cloud.piranha.arquillian	piranha-arquillian-server	25.4.0		0570854b97e254078b8a9c188e0e9616542a7905
+cloud.piranha.arquillian	piranha-arquillian-server	25.5.0		3317272dcf7f019877a308cedf10ea7f98cd8fed
 com.apollographql.apollo	apollo-mutiny-support	2.5.10		fafff739e6856d2523fd92b23a7b3044a6db2935
 com.apollographql.apollo	apollo-mutiny-support	2.5.11		ce0706d28e5ad5f7291b25999f7df6eea52cb769
 com.apollographql.apollo	apollo-mutiny-support	2.5.12		32805025e817b6429aaadeb574ceae3c9a2cd98d
@@ -687,6 +688,7 @@ com.google.apis	google-api-services-walletobjects	v1-rev20241203-2.0.0		8bd96652
 com.google.apis	google-api-services-walletobjects	v1-rev20250204-2.0.0		a7be2688f46c67825689f668167214c21c4e4eee
 com.google.apis	google-api-services-walletobjects	v1-rev20250303-2.0.0		d406f9ac0cd46b6dadd7b86f24f1d6dfe12318bd
 com.google.apis	google-api-services-walletobjects	v1-rev20250312-2.0.0		69db856933f1e97f8d68909533c0eff0513030eb
+com.google.apis	google-api-services-walletobjects	v1-rev20250506-2.0.0		c1636b589d0eab44f9d5d1a848774c1dffcbe74d
 com.kkalisz.datamap	runtime-android	0.0.1		N/A
 com.liferay.commerce	com.liferay.headless.commerce.admin.site.setting.client	1.0.0		32f660cb00b63fd8f02865c7e0fc49f22865fd0c
 com.liferay.commerce	com.liferay.headless.commerce.admin.site.setting.client	1.0.1		00f78de4801f9c69b7d6d6ceaeb6e2bb3776a403
@@ -947,6 +949,7 @@ dev.zio	zio-aws-invoicing_3	7.31.27.1		48f484b58025df2d42283bbbec1ce41f2ec882b8
 dev.zio	zio-aws-invoicing_3	7.31.28.1		991c52e1bd1cca17551a377e44abaa9ef054404a
 dev.zio	zio-aws-invoicing_3	7.31.3.1		5a87fc792a9a762f54ae1c28147d6a3ec54c5938
 dev.zio	zio-aws-invoicing_3	7.31.30.1		e2a98c3d5005c4d496cdccddc06ead34cd412e31
+dev.zio	zio-aws-invoicing_3	7.31.30.2		c73d6a184a3b3eb9941b16e5c6dcc7ac72753974
 dev.zio	zio-aws-invoicing_3	7.31.4.1		d037bfa76dff037404d58b3a8ec7b2c4c682dfc7
 dev.zio	zio-aws-invoicing_3	7.31.6.1		d910d3a62abe246d892c0bc077d13e4a8796f1dc
 dev.zio	zio-aws-invoicing_3	7.31.6.2		d17651a1d1b56a6d08e36146686e66f184182170
@@ -1037,7 +1040,11 @@ io.pravega	pravega-client	0.9.0		4fd8cc6a38363479ea6fa174eec2638933cc7ce9
 io.pravega	pravega-client	0.9.1		8de169a3d0465e3cc511bf98845e98255f85cfda
 io.spinnaker.kork	kork-test	2025.0-0		d09a287155fd54d52656d34845f2f1527fe7e0ad
 io.spinnaker.kork	kork-test	2025.0-1		61d3deb097fe4eb194777e63197a8a2559661d91
+io.spinnaker.kork	kork-test	2025.0-2		9270b3589bbc675403e6011fafe899936827110e
+io.spinnaker.kork	kork-test	2025.0-3		a2f9f87f6e58c6a3be0e0a12e48e1a36be9d37db
+io.spinnaker.kork	kork-test	2025.0-4		c3a6520096707f6e246a80df199790654ac9cc98
 io.spinnaker.kork	kork-test	2025.0.0		919423ef4453b3c6db7e5f00371ebefc5675a585
+io.spinnaker.kork	kork-test	2025.0.1		32a9ec5325e38c5d1e70c51f1ff8bc1da09168b0
 io.spinnaker.kork	kork-test	7.105.0		265600362346f342a41251d4b7c7e3c4b1659be6
 io.spinnaker.kork	kork-test	7.107.0		a9e822cf57751330a7b71023e96a2ac304e5325c
 io.spinnaker.kork	kork-test	7.108.0		cfe4230e6ce4ea30e225dbcd1e91066c76d3af2d
@@ -1217,10 +1224,14 @@ io.spinnaker.kork	kork-test	7.92.4		05309ad87a11abc1d9fdcfb98408a605d508be70
 io.spinnaker.kork	kork-test	7.92.5		1fe71a81203647dd90d0d3f1d7c4d1444f526f44
 io.spinnaker.kork	kork-test	7.92.6		3acbd5b5269458069770028ae2394ccdbe8e5756
 io.spinnaker.kork	kork-test	7.92.7		2a8f2f90690c097f7c8134bf2a6466cc00202a35
+io.spinnaker.kork	kork-test	main-10		db70dedcb7bbdc1ba7cc1d69104f55f324b91644
+io.spinnaker.kork	kork-test	main-11		a36dbabec1ef398ab453ee439c5a053a70abe726
+io.spinnaker.kork	kork-test	main-12		2d1bc61bdbbc1026cce112e309dea633fb3549af
 io.spinnaker.kork	kork-test	main-5		cfbe1e30fc7b5f14bbada0eb921aa53286c5a79f
 io.spinnaker.kork	kork-test	main-6		ce002bb854cb3adc740c3e5a8e4ece7d2c10da0b
 io.spinnaker.kork	kork-test	main-7		23ef7401db596f22a71c0f75e0fe5a2bba51d0ca
 io.spinnaker.kork	kork-test	main-8		f442d50f64cbe744a2860d45e1930e7907ccb2c0
+io.spinnaker.kork	kork-test	main-9		5c1707c843dc8c0ec0679fb31cf32c480c0aa326
 io.vproxy	commons	1.0.0		0a0dcc71507c745ee0298ebbb60932c50bad60dc
 io.vproxy	commons	1.0.1		fe6c087de310d923d8829537bfd33f4449539268
 io.vproxy	commons	1.0.2		9078ae650de28457a47a67d16af677e25b6b8e93

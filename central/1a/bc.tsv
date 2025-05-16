@@ -495,6 +495,8 @@ io.matthewnelson.kmp-tor	resource-exec-tor-iosarm64	408.15.0		N/A
 io.matthewnelson.kmp-tor	resource-exec-tor-iosarm64	408.15.0	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
 io.matthewnelson.kmp-tor	resource-exec-tor-iosarm64	408.16.0		N/A
 io.matthewnelson.kmp-tor	resource-exec-tor-iosarm64	408.16.0	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
+io.matthewnelson.kmp-tor	resource-exec-tor-iosarm64	408.16.1	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
+io.matthewnelson.kmp-tor	resource-exec-tor-iosarm64	408.16.2	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
 io.openharmony.tpc.thirdlib	WaveView	1.0.0		N/A
 io.openharmony.tpc.thirdlib	WaveView	1.0.1		N/A
 io.openharmony.tpc.thirdlib	WaveView	1.0.2		N/A
@@ -725,6 +727,7 @@ org.filteredpush	sci_name_qc	1.0.1		c462d28d1c45b028eb5d1b85f9e001477432a486
 org.filteredpush	sci_name_qc	1.1.0		17e278ccf5b66d069ae4c6e3608ccbb3ac686cb1
 org.filteredpush	sci_name_qc	1.1.1		76c083c6da33b85a8141bede33df414003cb4ae6
 org.filteredpush	sci_name_qc	1.1.2		e2a13c69a4f772aa977f276e2f795ac6d67a4f0c
+org.filteredpush	sci_name_qc	1.2.0		4f2808779c52d0647ac4f687b6af3a2aba6d55a1
 org.http4s	http4s-fs2-data-csv_2.13	0.2.0		9ae49dc49790bfadc4803c54358a1ed89a0fcebb
 org.http4s	http4s-fs2-data-csv_2.13	0.2.0-M39		bd07c133693ee7ce7b4b1aa356bc62f7b215419b
 org.http4s	http4s-fs2-data-csv_2.13	0.3.0		b36ee17fcc14d0978865a7b23934442bb609a916
@@ -829,6 +832,7 @@ org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.7.1		N/A
 org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.7.3		N/A
 org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.8.0	metadata	5fe69a5675f516fd1b6c51272446695d4ed853f9
 org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.foundation	foundation-layout-macosarm64	1.8.0-alpha02		N/A
@@ -2460,7 +2464,18 @@ software.amazon.awssdk	rdsdata	2.31.30		901c3486fb8ffff30c3caa8a13990f5c13cb5449
 software.amazon.awssdk	rdsdata	2.31.31		c29b98c577f201d3e6482b527d046e226e0e3af2
 software.amazon.awssdk	rdsdata	2.31.32		03ece9eb09a30549b8b3a0dacdaf835d56966f12
 software.amazon.awssdk	rdsdata	2.31.33		43646f9a5fe672aafa1f606de0bd6c395b091be7
+software.amazon.awssdk	rdsdata	2.31.34		ffab397cbaad6a7730a17f085c0b39519423628b
+software.amazon.awssdk	rdsdata	2.31.35		cccfc00e2e528d4f8668c7ccafac84b37fc3969a
+software.amazon.awssdk	rdsdata	2.31.36		e94f5773ac1ae9db53575c1a1f5ba191b3c0697d
+software.amazon.awssdk	rdsdata	2.31.37		6c3619239b6aacfc43913908d08bbae92674900e
+software.amazon.awssdk	rdsdata	2.31.38		e659a08150cb53a116bb27f6cef1b18976b98877
+software.amazon.awssdk	rdsdata	2.31.39		e2f3b6c71bf59d089af434cf882b7b2a6dab0518
 software.amazon.awssdk	rdsdata	2.31.4		5f057fe9e99038cd57f1e8d21566832b7a1a1209
+software.amazon.awssdk	rdsdata	2.31.40		7381b89c80755372b6c98891943288464910f823
+software.amazon.awssdk	rdsdata	2.31.41		46a10080b2c6b77cbc86c665552be0331b6cba01
+software.amazon.awssdk	rdsdata	2.31.42		b3525d898c7a72d2939627ba128890920cac7d91
+software.amazon.awssdk	rdsdata	2.31.43		3d16dc92112d652fd62936a1eb9b3a617a5bf13e
+software.amazon.awssdk	rdsdata	2.31.44		a58d000d3a695e1d84383e553e861bedb587ca4f
 software.amazon.awssdk	rdsdata	2.31.5		148b9155bc76c7d88d2b8e205cb4c42bf7d34cb0
 software.amazon.awssdk	rdsdata	2.31.6		92b25161e54e627a8b6ab926313878edc9186a33
 software.amazon.awssdk	rdsdata	2.31.7		f58880388bd4c1284ab494fdac792364c9d64e6a
@@ -2668,5 +2683,9 @@ tz.co.asoft	raven-outbox-local-macosx64	3.0.8		N/A
 tz.co.asoft	raven-outbox-local-macosx64	3.0.8	metadata	7ce817496ef8125476f944fa579301349d0523c0
 tz.co.asoft	raven-outbox-local-macosx64	3.0.9		N/A
 tz.co.asoft	raven-outbox-local-macosx64	3.0.9	metadata	f1e3c7319cab96deb78b55b0ae73f75cdced9e19
+tz.co.asoft	raven-outbox-local-macosx64	3.1.0	metadata	9268e965601fdee7bfe7eda19e37d5ba6b8ea7cc
+tz.co.asoft	raven-outbox-local-macosx64	3.1.1	metadata	f555b3cb96c7dc1d667195612166a7b6b7457ac3
+tz.co.asoft	raven-outbox-local-macosx64	3.1.11	metadata	06d56cda07c7a2950053eeb407174336edf848c4
+tz.co.asoft	raven-outbox-local-macosx64	3.1.12	metadata	3710a52e54704bfa44badc4ce532a8759b23a5c2
 xyz.kotlinw	kotlinw-remoting-core	0.0.6		320448f04d29d7481cb11b04c76203dca8e1f5c9
 xyz.kotlinw	kotlinw-remoting-core	0.0.7		af15c40e4e8f6522ffb45d9bde9cdc1811d9912e

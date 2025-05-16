@@ -3,6 +3,7 @@ at.researchstudio.sat	won-facets-tx	0.3		9c4f7c1cfc57f998c066154f60499021708b095
 cc.drx	repl_2.13	e		cb30d36f4a9382f37405a1221d6603beed64678d
 cc.drx	repl_2.13	e3		c2863e101c9fa6d2bdcbe4df566fabfcad1e1c74
 cc.drx	repl_2.13	ee		d9c7a62c2732ed43193878b675e141c0591b7be3
+cn.com.antcloud.api	antcloud-api-provider-unicontact	1.0.4		3172ec06ab29df27e060da94780b9655c4c5a8ed
 co.fs2	fs2-cats_2.12	0.2.0		f68f0b0e36f149bbc2fc32fe80bb7e0bf1d53c10
 co.fs2	fs2-cats_2.12	0.3.0		4fdd2f31d83a761b3db0a6c08ca2a4476bda1f0c
 co.fs2	fs2-cats_2.12	0.4.0		3182031591053307511bc042cf5209c9b038a5d4
@@ -507,6 +508,7 @@ io.helidon.integrations.micrometer	helidon-integrations-micrometer	4.1.6		b23cb8
 io.helidon.integrations.micrometer	helidon-integrations-micrometer	4.1.7		188aeea215fc8315c4ee0fa111cdc4abc5d8463b
 io.helidon.integrations.micrometer	helidon-integrations-micrometer	4.2.0		92b8b9c2e845797f1d3add519f33d4f0b9663fd1
 io.helidon.integrations.micrometer	helidon-integrations-micrometer	4.2.1		077f570b098758286d7dc26b06f94756503a438a
+io.helidon.integrations.micrometer	helidon-integrations-micrometer	4.2.2		6f45366cea48295f6fe5d36cfb2764723883c7a0
 io.hypersistence	hypersistence-utils-hibernate-55	3.0.0		35fe187b140db9e718123d7e8d12033d62a5d0e8
 io.hypersistence	hypersistence-utils-hibernate-55	3.0.1		02b9569c421acaa6bcae71a25ddd0e20641759d2
 io.hypersistence	hypersistence-utils-hibernate-55	3.1.0		0d84306fd958c1208046407660bc60da7d79a149
@@ -790,6 +792,7 @@ org.apache.camel.quarkus	camel-quarkus-nats	3.2.1		2dbbb7ae4dbc31feb013bba913bbd
 org.apache.camel.quarkus	camel-quarkus-nats	3.2.2		9466496de79e4269d19791248de09ac017e99580
 org.apache.camel.quarkus	camel-quarkus-nats	3.2.3		3fcad224da916c86eb7b26a5c6e385cdd9175b42
 org.apache.camel.quarkus	camel-quarkus-nats	3.20.0		daa5fde24756f093adea019cacb8dacd6c5e223d
+org.apache.camel.quarkus	camel-quarkus-nats	3.20.1		f7f2287b24f801ab25a4092e47ae8399056dd0dd
 org.apache.camel.quarkus	camel-quarkus-nats	3.22.0		78d612f93dad08b71de50cd8a75f11380d3aabf3
 org.apache.camel.quarkus	camel-quarkus-nats	3.4.0		028e7d238e66e97b7aa067eca23e5d0fa82ebf29
 org.apache.camel.quarkus	camel-quarkus-nats	3.5.0		c310ed90d8e395fbb57019a68d69f586b0966e82
@@ -1247,6 +1250,8 @@ org.graceframework	grace-logging	2023.2.0-M3		37530855cc12e2d39227460ee425799523
 org.graceframework	grace-logging	2023.2.0-RC1		fe36add689f31b2b9e765bc0b2cb169d69894beb
 org.graceframework	grace-logging	2023.3.0-M1		935a5527435d565f931c4cd31e8b175c6250777f
 org.graceframework	grace-logging	2023.3.0-M2		d2cf74af514cab5ddeff670f6550e0c6a93d8576
+org.graceframework	grace-logging	2023.3.0-RC1		8805fcfecce2579e0b37da10f3a9e6e6d834abb1
+org.graceframework	grace-logging	2023.3.0-RC2		ebaf1dab2ece525b9929982855461aa84b365444
 org.gridkit.heapunit	heapunit	0.1		24500e79f68630948c891b725d9b86a274090ae0
 org.gridkit.heapunit	heapunit	0.2		30d41d09b7f72b4f4e7b327dcb2271b0ee72fd0a
 org.jasig.resource-aggregator	resource-aggregator-plugin	1.0.2		0f0a64aa575199d092a629a24c50905896b4fa66
@@ -1552,7 +1557,16 @@ org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-419		e7ea4
 org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-42		8e539e89c389fdda9959d2da55a7939a70131687
 org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-421		b723f8944109ff9161f0a028f3a7ab79543401a6
 org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-423		39a39a78ad0ff78a1f78414dbef4e940b4f64b34
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-424		d6ef99f2d2eefa7214fe737d297113807b250947
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-426		32c5ef516d1cc059f111dd9ab14c6c6f3a89caa4
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-428		596209ffc4c921eff1bcc52cd9dbb5488ddda6f9
 org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-43		b86d9b47cee48a18513298f4632ba93325fb2496
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-430		9f726ef48185166ddd3d39b375b0c8b82b00a018
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-435		87edde37d68f72314a5616eed3246086044f01e2
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-436		d4c5b158e46d4c5f4454ee8bfa108047e5616e86
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-437		71d29f46c2924f9c3fa0e45b2f3bca2443271220
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-438		3a0055c276f81caaff886e508e4a56f6b73a5b7d
+org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-439		f7dcc066c1ec7202634b3ca06d3da8fb1ae4e370
 org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-44		102b80278ad23ffd364ecf84f7a952dc3252b4d4
 org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-46		530281fc2a587b9d9cd9a32c5e4c3dab82754257
 org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	0.12.0-47		0385734e37c367188c4f2d39ad4bd2e95c39bc61

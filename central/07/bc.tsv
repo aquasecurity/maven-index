@@ -160,6 +160,8 @@ com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.18.2		132a5c2411f8ee29
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.18.2	no-metainf-services	f667a875b423a1fd2d3ff702c15f31b7dfd313ab
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.18.3		f7c11860ba5a1aae87f7f79546bb5d9a4dddaa9c
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.18.3	no-metainf-services	91d7d2965c3f5bdab3bf85605f7d76094fb58eb2
+com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.18.4		7a06057d2fccb03ed0588529a53dbd9cd23c3b26
+com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.18.4	no-metainf-services	fa653e525ad9937c0ea8165d7a3bcceed35b96ee
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.19.0		fb6a3fb22408c66e0fa95f4badd522a9b3001f51
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.19.0	no-metainf-services	8b7031c693b5b66c18088593c7b9078d54e5727d
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-cbor-provider	2.19.0-rc2		b4a3bd15a2fdee4d544e4149d1facb12e01521de
@@ -600,6 +602,7 @@ com.stripe	stripe-scala_2.9.1	1.0.4		9ec00eee9069b3d2eb705164ceb036f70535a8fb
 com.stripe	stripe-scala_2.9.1	1.0.6		f040806c2df7f36178876ceff282e48c5fc0a7e9
 com.stripe	stripe-scala_2.9.1	1.1.1		f3900549896c66425c82720c4960afe3103fd3d5
 com.stripe	stripe-scala_2.9.1	1.1.2		7e80d6d97656dce8b2d0486e89abbcb9876bb96c
+com.trueaccord.scalapb	sbt-protoc_2.10_0.13	0.2		79dcc8cba48d1df32fa83c9ba81b24f7cb19b9d9
 com.typesafe.play	play-test_2.13.0-M3	2.7.0-M1		e1da30f844b822c12e1fbca37123acc2901cb5de
 com.typesafe.play	play-test_2.13.0-M3	2.7.0-M2		375120cee80f965b9d080bb149b85bbca41b5243
 com.typesafe.play	play-test_2.13.0-M3	2.7.0-M3		505b2b74169c48a7af1a8ac8acb8c62aa020a622
@@ -1059,6 +1062,8 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.21		2aa5eaa5
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.22		6ceeda0a1bac1c2e83baee01ec65fc5335d5707a
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.23		8b3122fea1189b5dda1a7ccbd4f3d2f39a388281
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.24		bd1b430aecfbb2215eba94c6c712103e955bd2e7
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.25		0deba8aa780f9494974f9aeba5a4dd099724eb49
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.26		ea20374aa88ccc922ca87149af1c4921f5804d3f
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.3		b4210883f7a0938b9ded3bd6b23379de34b8ef7e
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.4		341d908d4565b4f9bfdc7f00ffd920185b304091
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.4.5		67982501c108f4b4444768a7d74b43a17b582a4d
@@ -1077,6 +1082,8 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.11		cec47fa5
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.12		25665957f4242101ff6866f56dfab0b739d17ba1
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.13		f634ba6747c1c3ad2eb1323ec517c0df5352d2f0
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.14		a4590592b0b4b4f15fffbdbd94ab230839d18116
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.15		ee38633c1f983195aa4add131a52b385685df8b1
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.16		4e0117b2d385fe059d565b822d3f70d02a1964cc
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.2		4a2a544d1e39ec783f34ad49bab89c22555028bd
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.3		c6d50de06504538015f90128e6c47591a051f2ea
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.5.4		345bd16e737190c1e20d1a23eecf881f9210b489
@@ -1090,6 +1097,7 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.0-alpha.1		9
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.0-alpha.2		e93301aaf3a58bcba14d3850e76be0c6014c3000
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.0-alpha.3		d5152c0291286d74e61abd6f4dbcc1dd633b0307
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.1		79a53a4846b3a80fa4897590729a08de9f611ee8
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.10		091ba59a560bd80ee015d06625622b59e13d9a34
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.2		9615bd66a55d915a12ad0a499848406ba79e03ca
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.3		17f90d0b9adf1177620374972af8b1cc27315b1d
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.4		bc200992e6fc7a03d79a34a5206775371e16ca65
@@ -1097,6 +1105,7 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.5		af65a081a
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.6		8fe8d6f63fd7eab5075bb3ffd16adb160dd6f8ac
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.7		828df1c716b9b737b82f1c4b9043749f73e0c556
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.8		133ac37d6e8f1f3968e19ee60e6509e43cd3f7a8
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.6.9		30cea049af338cb69f65f32f03de837ad415717b
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.0		8cc4c10a45f75e6bee82e13df9fe21b934354c0b
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.0-alpha.1		0f5a5e6da98b1e0664948693450258c0f1605e70
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.0-alpha.2		ae46ea986bc9d82f3039e724430cc788dde1f110
@@ -1104,6 +1113,8 @@ io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.0-alpha.3		a
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.0-alpha.4		9c5857eb371b804383f07f4211f78d95aa10340e
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.1		0d0b9a17cc97c741c17373aa540c27f2603cfbb8
 io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.2		87106e5d1b7e75e5b2f26884d8b43391cce241b3
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.3		1977768e53f9f7edeca11d0d6eac736d5cc6ba99
+io.gravitee.am.gateway.handler	gravitee-am-gateway-handler-oidc	4.7.4		a22581acccac5b2c55bc0f898f18c0e01069847f
 io.micronaut	http-netty	1.0.0.M4		cca87577eace8627ebfc6d903e3355238c92f531
 io.micronaut	http-netty	1.0.0.RC2		91302141c17fc2c5b697b0d51a858339dcc58245
 io.micronaut.tracing	micronaut-tracing-opentelemetry-zipkin-exporter	5.0.2		ab30c4130de0c00bf5adb7430630369701694dc4

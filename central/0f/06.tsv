@@ -32,6 +32,7 @@ app.lexilabs.basic	basic-logging-iosx64	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-logging-iosx64	0.2.5-beta01	metadata	e2433c3d250b39dd0d004ecc26be019256840558
 app.lexilabs.basic	basic-logging-iosx64	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-logging-iosx64	0.2.5-beta02	metadata	98b098dee34e45c7c4f593c945f17e3f8997576c
+app.lexilabs.basic	basic-logging-iosx64	0.2.6	metadata	9c6a1ddac7a41bedd018af00d157832acc396471
 app.lexilabs.basic	basic-logging-iosx64	0.2.6-beta01		N/A
 app.lexilabs.basic	basic-logging-iosx64	0.2.6-beta01	metadata	a9679fe8a78c5e4c948cd0a9db5167d2f1bf1b00
 app.lexilabs.basic	basic-logging-iosx64	0.2.6-beta02		N/A
@@ -966,6 +967,7 @@ org.apache.camel.springboot	camel-zeebe-starter	4.8.3		cec64bc19993bcfca3c7c9e86
 org.apache.camel.springboot	camel-zeebe-starter	4.8.4		bdbc30e9923d3e8358597264ef23bd7aeb15ebf0
 org.apache.camel.springboot	camel-zeebe-starter	4.8.5		0ecbf45ab2aeeea07796fd95f41c9f44f23f6e75
 org.apache.camel.springboot	camel-zeebe-starter	4.8.6		b521af710491cd0170c650b1ac46ad63ec6ef22b
+org.apache.camel.springboot	camel-zeebe-starter	4.8.7		a032ec3316d2a4bd801f4cbfff5fe2901a24dbf9
 org.apache.camel.springboot	camel-zeebe-starter	4.9.0		d36820fb3f4a235d4cc9a5d3bc42fa2797c73864
 org.apache.geronimo.samples	myphonebook-jetty	2.1.2		N/A
 org.apache.geronimo.samples	myphonebook-jetty	2.1.7		N/A
@@ -1161,10 +1163,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analy
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.80.0		a351341444d14bbffdfe107e491cc6c686e505ab
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.81.0		c7b8f2c955ad4f8679251d83e628b7c0f7ef3cef
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.82.0		e1548bf1e41e2213bef119fab02ad7e2ba12cda4
+org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.82.1		67e3f75bdd9470b1887686f23359880f75a695d8
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.83.0		35439b4276a8488519ca32c0040a3327931888a0
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.83.1		c0c70d334a084e1d472eff021b21eb627e8bc2af
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.83.2		1191f7e262955f1a5debed77aae68e64f95548df
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.83.3		9e7b4a97932aa7d853e8d468dabd825827c7d3cf
+org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.84.0		f96afa009726f645129aa6f97eb0245a72324c6f
+org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.84.1		97df7fc51c3f654dd2908371494d0495259bf886
+org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.85.0		66a88aae54d7c6fbf0516b063b5e97d4aa56bfb7
+org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.85.1		de4a694c13fb5d6ff9f94bf7ce0252dfacc2c149
+org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.85.2		67cce58ac312557a3bd5e10998afb1e3d59c55c4
+org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.85.3		ef3569efe6a36de0aa27d08970fd545f654f4b98
 org.finos.legend.engine	legend-engine-xt-relationalStore-store-entitlement-analytics	4.9.0		d5f047468b364bc49bd7629431228551f64c6769
 org.gedcomx	gedcomx-date	1.0.106.M1		19c7b32b91b7d5f2d00319342edfa50d8da0ea0b
 org.gedcomx	gedcomx-date	1.0.111.M1		57dbc47dcb84fc977fc3b232e4c2751cd215050d
@@ -1642,10 +1651,12 @@ org.jetbrains.kotlin	sir	2.1.20-Beta2		fa49400b4fc882722c31cfcbce820740b6519bda
 org.jetbrains.kotlin	sir	2.1.20-RC		257d17972bc005e285ccf93e20debfaf2420a4df
 org.jetbrains.kotlin	sir	2.1.20-RC2		e8220b9e88aa6d54b8f5ce8d82cb7f5b4ce9eeb0
 org.jetbrains.kotlin	sir	2.1.20-RC3		ddcd26f4b572c5784148577a961002007f85c8b0
+org.jetbrains.kotlin	sir	2.1.21		5a53458db84e132b2ee859063e4f56e311e38ed3
 org.jetbrains.kotlin	sir	2.1.21-RC		a7530f36df004f282b2abf50182ffadae0a835fc
 org.jetbrains.kotlin	sir	2.1.21-RC2		22479b8b2eadcc06bdbfcfe47d44eca2fbe6a885
 org.jetbrains.kotlin	sir	2.2.0-Beta1		10b24ae4430a0d927e8bfacb636933806e6c8ba8
 org.jetbrains.kotlin	sir	2.2.0-Beta2		641cc7ec0eb86759cdcbea5f8abb3c74aa9bf22f
+org.jetbrains.kotlin	sir	2.2.0-RC		dc71268ed7b80926cd42c1572eb8258f02939331
 org.jetbrains.kotlinx	kotlinx-serialization-json-io-watchosarm64	1.7.1		N/A
 org.jetbrains.kotlinx	kotlinx-serialization-json-io-watchosarm64	1.7.1	metadata	b64e3385a373c73620671c739fecf54c147179b0
 org.jetbrains.kotlinx	kotlinx-serialization-json-io-watchosarm64	1.7.2		N/A

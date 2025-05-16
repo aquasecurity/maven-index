@@ -108,6 +108,7 @@ com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-10		N/A
 com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-10	metadata	74a0f556b9f3a462516ff8dcf68305b14ae6dc78
 com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-10-kotlin-2.1.21-RC		N/A
 com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-10-kotlin-2.1.21-RC	metadata	70757e22b2ef1a7059a0960bd18bbe2f68dc405c
+com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-10-kotlin-2.1.21-RC2	metadata	526765835d553a8ed6565715e76dc96a78c2a94e
 com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-10-kotlin-2.2.0-Beta1		N/A
 com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-10-kotlin-2.2.0-Beta1	metadata	1eb5a1017bf7c9f9b74988c287e3f975546496a6
 com.rickclephas.kmp	kmp-observableviewmodel-core-watchosx64	1.0.0-BETA-2		N/A
@@ -340,6 +341,7 @@ dev.opensavvy.prepared	runner-kotest	2.0.0		72d0765bf1fd4f65ad7c87d91d0afbc3e1da
 dev.opensavvy.prepared	runner-kotest	2.0.0-alpha.1		d25468ff23c4ba3a858d39e74d939ccb4a8475f5
 dev.opensavvy.prepared	runner-kotest	2.0.0-alpha.2		c4eede936dc9b66c1ac362f313155d870b701378
 dev.opensavvy.prepared	runner-kotest	2.0.0-rc.1		72d0765bf1fd4f65ad7c87d91d0afbc3e1da46f5
+dev.opensavvy.prepared	runner-kotest	2.0.1		c6059dd3497906f5c591422a281a8590faca0df0
 fun.adaptive	fun.adaptive.gradle.plugin	0.6.0		N/A
 fun.adaptive	fun.adaptive.gradle.plugin	0.6.1		N/A
 fun.adaptive	fun.adaptive.gradle.plugin	0.7.0		N/A
@@ -570,6 +572,8 @@ io.github.lsd-consulting	lsd-core	7.0.74		102ff70f22aa2bcae6abdef07bea238d9476ef
 io.github.lsd-consulting	lsd-core	7.0.75		f6c09b121c9e764a068ce7deebe16b137c2ab709
 io.github.lsd-consulting	lsd-core	7.0.76		e0b67fc80b419f5fb52460efb9ab049bff61d134
 io.github.lsd-consulting	lsd-core	7.0.77		6ef18673fdfdeca072d99c9e31b0e55d06ef28d2
+io.github.lsd-consulting	lsd-core	7.0.78		b37df07b6c90f6d3f145a2706aaae890d8bb5c37
+io.github.lsd-consulting	lsd-core	7.0.79		0c1e293d15c32660045738ea3d11258c33a65e7e
 io.github.lsd-consulting	lsd-core	7.0.8		a594a3040d8c587132a99d512e5e202ae0167def
 io.github.lsd-consulting	lsd-core	7.0.9		0326a989aa46ee9523792187a45ebbeb211acd88
 io.github.open-accelerators	hedge-fund-administration	1.0.2		N/A
@@ -619,6 +623,7 @@ io.hyperfoil.tools	horreum-integration-tests	0.17.0		545a5a6355f917e55122dfbf3fe
 io.hyperfoil.tools	horreum-integration-tests	0.17.1		161bbd85ee995749ad38ce24fea145910f94ada4
 io.hyperfoil.tools	horreum-integration-tests	0.18.0		05c3ea5168f8f19973c90ffa3f3a76bf5cb26766
 io.hyperfoil.tools	horreum-integration-tests	0.18.1		db29198c0d5e8613b2883b31ef93b0958217d213
+io.hyperfoil.tools	horreum-integration-tests	0.18.2		07ba57484d2af235d06e6282a59d35e25dfdc8c8
 io.hyperfoil.tools	horreum-integration-tests	0.8.0		294642998a2ed494fe1641e2a900537d374b975b
 io.hyperfoil.tools	horreum-integration-tests	0.8.1		7804a5499d88fb5ed6ea48ce137721da0fb9e220
 io.hyperfoil.tools	horreum-integration-tests	0.8.2		b6807bb434f3104f3fde881457e6c3c88418ad23
@@ -849,6 +854,8 @@ io.kestra	kestra	0.22.2		04eeb1e25eab4941a9faac7b14d96aae804898e9
 io.kestra	kestra	0.22.3		321e32243d441d1e7eb7227218fa33d0b84abc8f
 io.kestra	kestra	0.22.4		96afb72d5c56743491d9f5e632da43ef253a8d33
 io.kestra	kestra	0.22.5		2c5f329c05e5439b75ee044a607e5137c9ce7663
+io.kestra	kestra	0.22.6		796c10236cfaaf92afa0ef41fc1d01d53abee8dc
+io.kestra	kestra	0.22.7		fb3501c36761f907c6767c7ba674da611864528c
 io.kestra	kestra	0.3.0		84ebc77f9618f2bc341eee9d02b187fe4c5cc71d
 io.kestra	kestra	0.3.1		5f3709479cb01163e9c2619c9e17dfaac268bd04
 io.kestra	kestra	0.3.2		87a3fb0fa58e9986a59d366e484add6ed7e51d58
@@ -1163,6 +1170,7 @@ net.javacrumbs.shedlock	shedlock-provider-jdbc-micronaut	6.3.0		fe7e448d7b9c7975
 net.javacrumbs.shedlock	shedlock-provider-jdbc-micronaut	6.3.1		01d006b225057245bb6b17c0c3284df4e7dafd54
 net.javacrumbs.shedlock	shedlock-provider-jdbc-micronaut	6.4.0		0d8d06fffc530d1bc544c3bbffd22f84d31bf829
 net.javacrumbs.shedlock	shedlock-provider-jdbc-micronaut	6.5.0		9bdac4c34d5ccbbea5a437a63ac66ff7674f14c5
+net.javacrumbs.shedlock	shedlock-provider-jdbc-micronaut	6.6.0		7f0fd011a17438a2aa6a833d9546fe42d2330ac5
 org.activiti	spring-boot-sample-actuator	5.17.0		0dd93856e72ff6993b1d8001ff10a8236507b628
 org.activiti	spring-boot-sample-actuator	5.18.0		d9650827d6d14ef6ce14c0fcc5dddb30b6bff053
 org.activiti	spring-boot-sample-actuator	5.19.0		77c8b2fafcdf6435078162fe91d3bdaff770c77a

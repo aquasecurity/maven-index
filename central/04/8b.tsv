@@ -431,7 +431,16 @@ aws.sdk.kotlin	personalize-jvm	1.4.73		b330f52c7ea8c1ca1e91f10e9ecf399e04c615a6
 aws.sdk.kotlin	personalize-jvm	1.4.74		b7b69ba3f2b0e30d56bd47db6cfc3baf63d1f608
 aws.sdk.kotlin	personalize-jvm	1.4.75		48ef96aa9bd349dde975af7250a1df09a8671048
 aws.sdk.kotlin	personalize-jvm	1.4.76		01e7ef4e421d53f768056761381d795930ed5d34
+aws.sdk.kotlin	personalize-jvm	1.4.77		5e73fc6f7b24a56662a6968cc8140e86d2fccfee
+aws.sdk.kotlin	personalize-jvm	1.4.78		99e4433a68bd71781d31c3957bd7e5ce2fa4446b
+aws.sdk.kotlin	personalize-jvm	1.4.79		f9b40f3187edc004471a8295f0f3a46a2e76f031
 aws.sdk.kotlin	personalize-jvm	1.4.8		c935f918efdd5cd588a0b9942fc81bb11809f55b
+aws.sdk.kotlin	personalize-jvm	1.4.80		97b63b88eb2e2ba34c891856c9d296c49e6a91b4
+aws.sdk.kotlin	personalize-jvm	1.4.81		b3501aa18f3052daa49659c651ddc097e0e1afbb
+aws.sdk.kotlin	personalize-jvm	1.4.82		e18585b350fceaf897cb9b4f2a7aca67c08e9b44
+aws.sdk.kotlin	personalize-jvm	1.4.83		99564103f8b0052c88022f68458ecfcc4688d53a
+aws.sdk.kotlin	personalize-jvm	1.4.84		39fcf1bbb9ce829797f9d58d1c73c1f7961bd73c
+aws.sdk.kotlin	personalize-jvm	1.4.85		127c862df8a64c7cccbb47d1ad79a05d05aecae7
 aws.sdk.kotlin	personalize-jvm	1.4.9		9d0fab83fa55f866e7dd07f7877dd6c239954ad2
 be.bosa.commons-eid	commons-eid-dialogs	1.0.4		00da3f7e8260e548907df91ac17fa9933517a6ae
 be.bosa.commons-eid	commons-eid-dialogs	1.0.5		26616ab7167b68b3bfd26840a4e9cfa725f918e9
@@ -779,6 +788,7 @@ dev.langchain4j	langchain4j-community-lucene	1.0.0-beta1		e1507fcdb0d1a27d41275f
 dev.langchain4j	langchain4j-community-lucene	1.0.0-beta2		a2116927a3b0490a398e408d87ee4cdde991551a
 dev.langchain4j	langchain4j-community-lucene	1.0.0-beta3		76b2c663f1c01e1ce89c34e4e1234c97e5a61faa
 dev.langchain4j	langchain4j-community-lucene	1.0.0-beta4		1cd45095f45f4a887f0c64d3d50b1b2774d87e2a
+dev.langchain4j	langchain4j-community-lucene	1.0.0-beta5		60112878963536393dbd2652faa0dd714688a5c5
 dev.zio	zio-concurrent_native0.4_2.11	1.0.13		357e63756c353a3fe0e44cfea8c506f72c138f68
 dev.zio	zio-concurrent_native0.4_2.11	1.0.14		eb1afd386f2bbedd0a3f53c2fef19bb6ee9a31ea
 dev.zio	zio-concurrent_native0.4_2.11	1.0.15		c1f27f3e0fc138f1763bb3c54c7d6faee1961851
@@ -1049,6 +1059,7 @@ io.ktor	ktor-resources	3.0.3		80f8701c8056346305691baddf34bd6edf19186f
 io.ktor	ktor-resources	3.1.0		2ae9c178b6896477252023b41da3c8fc0f840b19
 io.ktor	ktor-resources	3.1.1		2ae9c178b6896477252023b41da3c8fc0f840b19
 io.ktor	ktor-resources	3.1.2		dd1896154521422fef4f1f19132a596da98d9ce0
+io.ktor	ktor-resources	3.1.3		dd1896154521422fef4f1f19132a596da98d9ce0
 io.micrometer	micrometer-registry-appoptics	1.1.0		c71a434ea7665e2ce6ca35854af2d22d4d88d3b3
 io.micrometer	micrometer-registry-appoptics	1.1.1		619552af217dae9922bc8ccdf611e6094e2b0174
 io.micrometer	micrometer-registry-appoptics	1.1.10		3433fc9e0fc870b1199eaccd7936c4d883c25a6d
@@ -1116,6 +1127,7 @@ io.micrometer	micrometer-registry-appoptics	1.13.10		0f9a09d6eb2616405f0c46bc1dc
 io.micrometer	micrometer-registry-appoptics	1.13.11		3f89ba2f13339b688efb83d39a5f9cd936c00a8a
 io.micrometer	micrometer-registry-appoptics	1.13.12		b07961606156423dc060558b8a5233f95b8044cc
 io.micrometer	micrometer-registry-appoptics	1.13.13		c5e69e3aa44c8269d769f5a31fffc6bc4b0a1cb1
+io.micrometer	micrometer-registry-appoptics	1.13.14		b8f407fc7cd56e6dfaeeac9bea86127e0f3fbca3
 io.micrometer	micrometer-registry-appoptics	1.13.2		b68bdea186b064e1a7c60be62aa787b071856a70
 io.micrometer	micrometer-registry-appoptics	1.13.3		1140bc1cfc0c7333bcb29c9fa56de2540848865b
 io.micrometer	micrometer-registry-appoptics	1.13.4		4276ad0837f3a132f024f7621426b3270d7e76ea
@@ -1131,6 +1143,8 @@ io.micrometer	micrometer-registry-appoptics	1.14.3		f6db54c915ddfd8ce77557e52af2
 io.micrometer	micrometer-registry-appoptics	1.14.4		777744de4bff6a1cc5b65ece3801cbf5fed9ded8
 io.micrometer	micrometer-registry-appoptics	1.14.5		4088ace3d7abce19f1f04182588d022f362bedfb
 io.micrometer	micrometer-registry-appoptics	1.14.6		7d9b7497e48377392ea87fb5d248b8787d0f40c0
+io.micrometer	micrometer-registry-appoptics	1.14.7		a41eaf60edcbb6579e602ab183ce84d10f1ae328
+io.micrometer	micrometer-registry-appoptics	1.15.0		c70f0f49ad68d9cf744201b2e27fb128a8e2772a
 io.micrometer	micrometer-registry-appoptics	1.15.0-M2		a8e25dee134400650cd586cfd701eb8569457a53
 io.micrometer	micrometer-registry-appoptics	1.15.0-M3		aae1c0b074c688c2731b5bf45dce2e388d258f88
 io.micrometer	micrometer-registry-appoptics	1.15.0-RC1		9122f84ecc66c39d08088d83c506b043bf2227ef
@@ -1283,6 +1297,7 @@ io.spring.javaformat	spring-javaformat-vscode-extension	0.0.40		6113008ade56df8f
 io.spring.javaformat	spring-javaformat-vscode-extension	0.0.41		048ee0fc2cdd75184612ca5b6fa7ec680f16a2ec
 io.spring.javaformat	spring-javaformat-vscode-extension	0.0.42		6f0c8f3ffda4f17c7be1c35c9a4ff38c7512fc7d
 io.spring.javaformat	spring-javaformat-vscode-extension	0.0.43		ee7cd526ce1c538a931fbfde03d98790428a1dde
+io.spring.javaformat	spring-javaformat-vscode-extension	0.0.44		03a0210e75fa543c67c848726de0e10d1bb4ead8
 javax.servlet.jsp.jstl	jstl	1.2		N/A
 net.exoego	aws-sdk-scalajs-facade-storagegateway_sjs0.6_2.12	0.24.0-v2-473-0		d1b68be7093252d3331fff5d934cf139409d82ab
 net.exoego	aws-sdk-scalajs-facade-storagegateway_sjs0.6_2.12	0.24.1-v2-473-0		64f7c278d94eafa092ffc5bee27137812165c173
@@ -1510,6 +1525,7 @@ org.apache.openejb	apache-tomcat	7.0.30		N/A
 org.apache.openejb	apache-tomcat	7.0.34		N/A
 org.apache.opennlp	opennlp-models-tokenizer-eu	1.2.0		010625214eca43deffa4ccecae0e8455d60d51bd
 org.apache.paimon	paimon-gs-impl	1.1.0		07416f920e61f778a9e158f7246c61f915e4c1b3
+org.apache.paimon	paimon-gs-impl	1.1.1		06acbaf3e7279b61764dd682097d375d6710f93f
 org.bitbucket.javatek	require	1.0		6218192e0c8a2e2a30a909d829b3ba43c7626c41
 org.chenile	chenile-mqtt-parent	2.0.1		N/A
 org.chenile	chenile-mqtt-parent	2.0.18		N/A
@@ -1802,6 +1818,8 @@ org.wso2.analytics.solutions	apim-analytics-feature	1.0.7		N/A
 org.wso2.analytics.solutions	apim-analytics-feature	1.0.8		N/A
 org.wso2.analytics.solutions	apim-analytics-feature	1.0.9		N/A
 org.wso2.apk	org.wso2.choreo.connect.enforcer	0.0.1-m6		066dc4461770fec26d2eb863c7ca0988290d0f3d
+org.xerial.sbt	sbt-sonatype_2.12_1.0.0-M5	2.0		1bb11708e97756f7e3e4b3e252d7d531e80508c6
+org.xerial.sbt	sbt-sonatype_2.12_1.0.0-M5	2.0.0-M1		6680f4e59833f6e83c5c565b37febd43b021ef67
 tz.co.asoft	captain-url-mingwx64	2.0.17		N/A
 tz.co.asoft	captain-url-mingwx64	2.0.18		N/A
 xyz.weechang	moreco-demo	0.0.1		N/A

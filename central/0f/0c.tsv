@@ -63,6 +63,7 @@ com.arangodb	vst-protocol	7.15.0		d53353db10aa8b1cf8d6ebfae94bd2c7baed7893
 com.arangodb	vst-protocol	7.16.0		63db522b53c5df87abeaa3bf8cdcf5e8cd863cff
 com.arangodb	vst-protocol	7.17.0		59cf881c384dcd68982b4b0558845eb81a461f10
 com.arangodb	vst-protocol	7.17.1		4dadc073e16ab25aab4d5153493a34fbb396e831
+com.arangodb	vst-protocol	7.18.0		cf5d2f1cc0540a1c5fb1e464a2b18ee792ae1f6d
 com.arangodb	vst-protocol	7.2.0		47d10b63c8343567dc630ec863310239d662adef
 com.arangodb	vst-protocol	7.3.0		0d9aad135da768deab23ca5442925bda10600689
 com.arangodb	vst-protocol	7.4.0		038840b27de3567bf1ac77e713910682278e07c4
@@ -283,6 +284,7 @@ dev.langchain4j	langchain4j-jlama	1.0.0-beta1		aa4e7f4f9bc46ea2fe19cbc39ba4ea366
 dev.langchain4j	langchain4j-jlama	1.0.0-beta2		100ed899e238355d9c3de24d7acd525c68c496e6
 dev.langchain4j	langchain4j-jlama	1.0.0-beta3		292a9c469b7fbeb8b6795b4563e790edc31fcebd
 dev.langchain4j	langchain4j-jlama	1.0.0-beta4		963f0bc32baf0502b41e5dd6b22419bfde3b3cb9
+dev.langchain4j	langchain4j-jlama	1.0.0-beta5		c4788b665fa7d8ee2e0cbc983569c77037ca7d6e
 eu.joaocosta	minart-image_sjs1_2.13	0.4.0		975af437d2d6fb1369e59f11c150ba9e3221d66a
 eu.joaocosta	minart-image_sjs1_2.13	0.4.0-RC1		5516820877b5b68a9fa4fac46f5ce16ed94d1a75
 eu.joaocosta	minart-image_sjs1_2.13	0.4.1		49f51f4d7fcd71bebb03e27bf222de82d499aec9
@@ -522,6 +524,8 @@ io.stargate.db	persistence-api	2.0.29		a08bcc2efc15685e5b45df293522a4523450ec99
 io.stargate.db	persistence-api	2.0.3		cf16c6d281ebe19a4eb0e277fa1d410e83fbea25
 io.stargate.db	persistence-api	2.0.30		dfd1709fa06961d913f46018043879447fb64871
 io.stargate.db	persistence-api	2.0.31		e78f523720aef15f9003d53c25eb56b5e912cfb9
+io.stargate.db	persistence-api	2.0.32		b49148666ce85125e2a7755114b6ab1ffc501625
+io.stargate.db	persistence-api	2.0.33		9ae18f96a2e02fef0e59f859f7721456d68395aa
 io.stargate.db	persistence-api	2.0.4		d8fb839932e8bd3d965df6907192fda18817ea0d
 io.stargate.db	persistence-api	2.0.5		47d4ec797c585109873c76c5fc0346969d722ceb
 io.stargate.db	persistence-api	2.0.6		2d62127c0a3ede91b707ade5a0bd9b5a166ea692
@@ -555,6 +559,7 @@ io.stargate.db	persistence-api	2.1.0-BETA-21		81ff80860ccec34a64a637e648b1542eda
 io.stargate.db	persistence-api	2.1.0-BETA-22		0b07191fa874ced6825b1f7512c70243d27365ec
 io.stargate.db	persistence-api	2.1.0-BETA-23		cf93c2dc443212e152083ae76e3d4418e953e70c
 io.stargate.db	persistence-api	2.1.0-BETA-24		685b8148991330c01e662de2d35ab0bcba99ed77
+io.stargate.db	persistence-api	2.1.0-BETA-25		c5b79878edb4740a338b56cdff60deee343768b8
 io.stargate.db	persistence-api	2.1.0-BETA-3		1b6040d4f8fd480165e3422a1d040cce742e7051
 io.stargate.db	persistence-api	2.1.0-BETA-4		7e9070680e3981747ab511a95284712e05c7ff91
 io.stargate.db	persistence-api	2.1.0-BETA-5		1bbab34625ad65c6b36f5dedac6a88e99d06dbe3
@@ -757,6 +762,8 @@ org.flywaydb	flyway-database-informix	11.7.0		6f432f6a087b1dba90206fe7c88c7785b0
 org.flywaydb	flyway-database-informix	11.7.1		16e2567cc4844de9fa77afffb875a636266ede6c
 org.flywaydb	flyway-database-informix	11.7.2		533147e5eeb4da645ad727737ded88ebec5ededd
 org.flywaydb	flyway-database-informix	11.8.0		f35d177467388cbc597ecc18eb994c81e5c84883
+org.flywaydb	flyway-database-informix	11.8.1		fb492181be9fa4eb26e5c38d15816df81da1b18a
+org.flywaydb	flyway-database-informix	11.8.2		52146927c2fc28be2673758a94bf1332581104d3
 org.hawkular.btm	hawkular-btm-btxn-instrumentation	0.0.2		N/A
 org.hawkular.btm	hawkular-btm-btxn-instrumentation	0.1.0.Final		N/A
 org.hawkular.btm	hawkular-btm-btxn-instrumentation	0.2.0.Final		d0b7dfa08985a3396169fd6bc754558f924cc9a4
@@ -1065,6 +1072,7 @@ org.tpolecat	natchez-lightstep-grpc_2.12	0.3.4		63ab01e7eb0cf6707cd974ddf2f7219b
 org.tpolecat	natchez-lightstep-grpc_2.12	0.3.5		9d4e6eb49bab64ae556772941780fc5f41bbe6e4
 org.tpolecat	natchez-lightstep-grpc_2.12	0.3.6		6692883f8f1a5af09a387d88bdd8ab223b657ba3
 org.tpolecat	natchez-lightstep-grpc_2.12	0.3.7		2bc48a67e192cafe16cac026ac4d97c62c3af148
+org.tpolecat	natchez-lightstep-grpc_2.12	0.3.8		cce5e855d2200267feca63923ba785890c7e9ece
 org.webjars.bower	woofmark	3.0.2		dce36aece6f3fc693b4721edafa220da863285e0
 org.webjars.bower	woofmark	4.2.3		fa12416eebae1979fbd13159f4d5cfafb9db43e1
 org.webjars.npm	gaugeJS	1.3.7		40810bc9323e291d94ce02a4dbe095014c0a04b5

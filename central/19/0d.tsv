@@ -13,6 +13,7 @@ cn.com.jeeweb	common-zxing	1.0.1		83950437e1ed7d13b46b48af19d23c3e639c52a7
 cn.com.jeeweb	common-zxing	3.0.2		1371afd72b081c896f237d073b1a6337701fb8c3
 cn.com.jeeweb	common-zxing	3.0.6		dacff77c3e131e7a19f1a59678550de877f52ae9
 cn.com.jeeweb	common-zxing	3.0.8		4796fabf27b9a7b92277b0be7c8ec0d8c8039543
+cn.com.jeeweb	common-zxing	3.1.0		0faa875ee4e751c84e72dd2f6f3b4285c256923f
 com.arkivanov.essenty	instance-keeper-watchosarm32	0.1.0		N/A
 com.arkivanov.essenty	instance-keeper-watchosarm32	0.1.1		N/A
 com.arkivanov.essenty	instance-keeper-watchosarm32	0.1.2		N/A
@@ -1150,6 +1151,7 @@ com.google.apis	google-api-services-gamesConfiguration	v1configuration-rev98-1.2
 com.google.apis	google-api-services-gamesConfiguration	v1configuration-rev99-1.18.0-rc		a371e681258e2edb472235d840e80594cf06b634
 com.google.apis	google-api-services-gamesConfiguration	v1configuration-rev99-1.20.0		cee4870b58820919cbc92d85a02839d10c284a05
 com.google.apis	google-api-services-gamesConfiguration	v1configuration-rev99-1.21.0		fe716385506073b12c0d28df8b798a570ac2fc1d
+com.gw2tb.gw2api	api-client-ktor-iosx64	0.10.0	metadata	4e8f1033938168d25df4a762efd83818d69d79ed
 com.gw2tb.gw2api	api-client-ktor-iosx64	0.5.0		N/A
 com.gw2tb.gw2api	api-client-ktor-iosx64	0.5.0	metadata	fdf8f1e8d208aa245749c31de7c76c3f9bd7c76f
 com.gw2tb.gw2api	api-client-ktor-iosx64	0.6.0		N/A
@@ -1229,6 +1231,10 @@ com.tunjid.treenav	strings-jvm	0.0.14		64a6a861b14ef06522ae09fc332f637c5570dda8
 com.tunjid.treenav	strings-jvm	0.0.2		a032f373f0fba507778f24598284667437be77c1
 com.tunjid.treenav	strings-jvm	0.0.20		64a6a861b14ef06522ae09fc332f637c5570dda8
 com.tunjid.treenav	strings-jvm	0.0.21		64a6a861b14ef06522ae09fc332f637c5570dda8
+com.tunjid.treenav	strings-jvm	0.0.22		c33002271872f661a7a08762868f2b65518dc800
+com.tunjid.treenav	strings-jvm	0.0.23		c33002271872f661a7a08762868f2b65518dc800
+com.tunjid.treenav	strings-jvm	0.0.24		c33002271872f661a7a08762868f2b65518dc800
+com.tunjid.treenav	strings-jvm	0.0.25		c33002271872f661a7a08762868f2b65518dc800
 com.tunjid.treenav	strings-jvm	0.0.3		9b28a3eef2e8da2e34474e161b39ab525ba9c337
 com.tunjid.treenav	strings-jvm	0.0.4		3bcb422a00716578f13b573c12d02af043c76815
 com.tunjid.treenav	strings-jvm	0.0.5		67227d5ad3f66d249743d9c8b66bfa6f78154646
@@ -2027,7 +2033,14 @@ com.yahoo.vespa	model-integration	8.511.14		688b7d1a74e486f0512e96807dec6efa6be4
 com.yahoo.vespa	model-integration	8.512.63		1c5a582388748f8765037cf30aa9f2dab816659a
 com.yahoo.vespa	model-integration	8.513.17		577c9e88cfbfc90bd732c834d1ec95700dddb5f4
 com.yahoo.vespa	model-integration	8.514.24		e280643b5e5c4c59ff1d2abfb258e2982aac648d
+com.yahoo.vespa	model-integration	8.515.40		b3ad1874361b211b92bd4f457d29ab694528e730
+com.yahoo.vespa	model-integration	8.516.26		e5a9eb077ff4233e139c83b506739601f61766ac
+com.yahoo.vespa	model-integration	8.517.15		66c851f397749eecd2c8fbe4daa71d5c3e7ef26c
+com.yahoo.vespa	model-integration	8.518.4		1aa235f21c4e203428cf06dbd3e103c612a14fb8
+com.yahoo.vespa	model-integration	8.519.55		3aa7f21b68b58e49f555feb81b0eda50b9100f31
 com.yahoo.vespa	model-integration	8.52.15		3f7143b029478b7dc921146a1465056fcdcb96e0
+com.yahoo.vespa	model-integration	8.520.18		6d4f73db96884a92427ead173da3fcbf9ec38163
+com.yahoo.vespa	model-integration	8.521.17		893de9e5e5d799f1553f4c17da21ba18719e85fd
 com.yahoo.vespa	model-integration	8.53.21		f1e3cd9ba53f6ed5bfe8480eaf720956918c3bc5
 com.yahoo.vespa	model-integration	8.54.61		2a0fee87c13efcdfea6c9d4ee9029abd6269448f
 com.yahoo.vespa	model-integration	8.56.20		0498d1541b2d9b75612db0651a9b95ec7ea94daf
@@ -2266,6 +2279,7 @@ io.github.tweener	chartopia	2.0.2		7b1f3ff6a5088902bb11564fd88f748961173320
 io.github.tweener	chartopia	2.0.3		7b1f3ff6a5088902bb11564fd88f748961173320
 io.github.tweener	chartopia	2.0.4		7b1f3ff6a5088902bb11564fd88f748961173320
 io.github.tweener	chartopia	2.0.5		95ea722f84de03c884dd14f07bee729fdd3decda
+io.github.tweener	chartopia	2.0.6		bd35e53350078209dfa48ce654c7a5e68bf0cec0
 io.gitlab.hohserg.elegant.networking	elegant-networking-1.17	3.14		858c1ab1921eab297edd56a54fd89673ab440fb5
 io.gitlab.hohserg.elegant.networking	elegant-networking-1.17	3.16		9aa9ce6df86de7868f4f8a81f6f7313560d717fa
 io.gitlab.hohserg.elegant.networking	elegant-networking-1.17	3.17		a34d4d7a06353dca677afca21a1c2268e26dde60
@@ -2300,6 +2314,7 @@ io.helidon.microprofile.service-common	helidon-microprofile-service-common	4.1.6
 io.helidon.microprofile.service-common	helidon-microprofile-service-common	4.1.7		d581babe37992c908fc4d632476271c5bc48b00f
 io.helidon.microprofile.service-common	helidon-microprofile-service-common	4.2.0		76d0e0b2388932bfa89d2bc3550016c4276689c2
 io.helidon.microprofile.service-common	helidon-microprofile-service-common	4.2.1		5815da1f7e13e90ba4619e530686e937fb41cb67
+io.helidon.microprofile.service-common	helidon-microprofile-service-common	4.2.2		c3b03472ceaaa1cf268becd10ca7a57dd3b1957d
 io.inkstand	inkstand-core	0.1.1		e25b8df0af9aaeb625e9b62da7b067feaac0c7a1
 io.inkstand	inkstand-core	0.1.2		a1f483bb0da29483f09c9b9940001e7f0e6af6fe
 io.inkstand	inkstand-core	0.1.3		a50f20dc87a7cd59ae24f804adbfa72ad62a6e04
@@ -3159,6 +3174,10 @@ tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.0.8		N/A
 tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.0.8	metadata	d4e1b646f37a835208c22882ded5df648c91f757
 tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.0.9		N/A
 tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.0.9	metadata	b72ccc99fc1acec6f69e42daa891b00102028524
+tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.1.0	metadata	7acad5b0a6df99966c4adb4ab99ab8b016f8c71c
+tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.1.1	metadata	b96487f1d83efcbf4d36967c123887cb13f2f9a6
+tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.1.11	metadata	c76ed387f5fd4da39924e3cb72fcb32d77bff9ef
+tz.co.asoft	raven-outbox-server-tvossimulatorarm64	3.1.12	metadata	c10191d717f20672bef6d3ed44944debcc4ad10e
 tz.co.asoft	symphony-input-list-iosarm64	2.0.17		N/A
 tz.co.asoft	symphony-input-list-iosarm64	2.0.17	metadata	bdadb61cba87148b21bf7f015f8fff20d23cf0cf
 tz.co.asoft	symphony-input-list-iosarm64	2.0.18		N/A

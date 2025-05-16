@@ -265,6 +265,7 @@ com.vesoft	driver	5.0.0		b8afbb797f4f38c34ac5edfad8a4f6cb1b6866f4
 com.vesoft	driver	5.0.0-rc1		c9465f1744ac97a88150016b29cc90ce5853b320
 com.vesoft	driver	5.0.0-rc2		ec5d832f221794385ff43f28cfadbbebc0819cba
 com.vesoft	driver	5.0.1		3365a6e54710e98ff80f9ff54c2936b4be9e7391
+com.vesoft	driver	5.1.0		f96078ab6c5ea63a8592ce229f419f7613174798
 com.wizzdi	pricing-model	1.0.0		651bb073b455409cf6ed5328a1c5e9fe130b7d02
 com.wizzdi	pricing-model	4.1.5		32f6efd34186c466777e30b0b8c82d7664c0ffa3
 com.wizzdi	pricing-model	6.0.1		2398f5054a7bf4b20a3dfae7ec18be4e1a2cf32d
@@ -1195,7 +1196,14 @@ com.yahoo.vespa	vespa-application-maven-plugin	8.511.14		951308626ac6af74419facc
 com.yahoo.vespa	vespa-application-maven-plugin	8.512.63		c8200703f1091611693305e8f8b6d014da5bb660
 com.yahoo.vespa	vespa-application-maven-plugin	8.513.17		acacf0a524c915ae72d93f25b39812bd8847d396
 com.yahoo.vespa	vespa-application-maven-plugin	8.514.24		3394d5b98d5da243162691343aa3ea5440f72187
+com.yahoo.vespa	vespa-application-maven-plugin	8.515.40		2bc4d032f4e4b85619b03c2a64197a8e059f1ba0
+com.yahoo.vespa	vespa-application-maven-plugin	8.516.26		bb9951f3dfb3a7ec005e6eceea66c4dc2c0e33cc
+com.yahoo.vespa	vespa-application-maven-plugin	8.517.15		ba703c122a19c27b5f38a9f27d8d652956f7c133
+com.yahoo.vespa	vespa-application-maven-plugin	8.518.4		925db60616d975a203465c0212c08fb7f936ac03
+com.yahoo.vespa	vespa-application-maven-plugin	8.519.55		f64bdf07bf972f4778f530ce144c0742011361b1
 com.yahoo.vespa	vespa-application-maven-plugin	8.52.15		4373745a03cf263c19723a2a009d7140cdddf3f9
+com.yahoo.vespa	vespa-application-maven-plugin	8.520.18		4f3ae195230b3812ea917364b1318cb655e3921a
+com.yahoo.vespa	vespa-application-maven-plugin	8.521.17		f0084774edd4d9257edc1e35525b59e1b7710ba8
 com.yahoo.vespa	vespa-application-maven-plugin	8.53.21		b2a4a72375c041f88c60525d41938ef629eeb88e
 com.yahoo.vespa	vespa-application-maven-plugin	8.54.61		cc991a8a14d0e7633eab625f731b22bf14dd1d15
 com.yahoo.vespa	vespa-application-maven-plugin	8.56.20		3333f1ce84d91fdd153118658d0c81fb27a72260
@@ -1383,6 +1391,8 @@ io.camunda	camunda-service	8.6.12-rc1		1ec85c8b9a4a5b1bcb26f0b0055e248766a37e7b
 io.camunda	camunda-service	8.6.13		018d39b15c5638b4d94d80026bd2728b57f6fd6f
 io.camunda	camunda-service	8.6.14		95d1a96afdc862e1ce5f6b8f9b8005e9e7568543
 io.camunda	camunda-service	8.6.14-rc1		c0ae3fd615db5311f8fb2bb7548e745aef0bc744
+io.camunda	camunda-service	8.6.15		f6122e4948bdca15bb94ed2c384a6b1ecfde233f
+io.camunda	camunda-service	8.6.15-rc1		efe60e20cfa549fbdfe79868889c9bb79172bebd
 io.camunda	camunda-service	8.6.2		f9736a0cca4ca0967581823d2d87a2bd5dedb2cf
 io.camunda	camunda-service	8.6.3		6bd7e0738a271d336af28f978aade6c55d160118
 io.camunda	camunda-service	8.6.4		d8ed57217da8e040f77637e90f873eb1bad6a637
@@ -1418,12 +1428,15 @@ io.camunda	camunda-service	8.7.0-alpha5-rc1		5dbb7ef9afdaf446ab6a53eb389a807a942
 io.camunda	camunda-service	8.7.0-rc3		532909e2571009fac79a7f5c16134188c2ea006b
 io.camunda	camunda-service	8.7.1		96ee4f4c0fcd2e6da84859a96c1427ade13408a7
 io.camunda	camunda-service	8.7.1-rc1		0063747856ae4e25e62671f6f8d3eb61c551cf3b
+io.camunda	camunda-service	8.7.2		950a02700e059e17e9266611dc9b92c81c23d5d2
+io.camunda	camunda-service	8.7.2-rc1		bbfdb82bfbcca2706653e0bbf883435b82d8d035
 io.camunda	camunda-service	8.8.0-alpha1		da7505f754d7fe858d0c3855f24dd430dbf51327
 io.camunda	camunda-service	8.8.0-alpha1-rc1		7ab607d8b991b84abaf909a81990afe9c5478e75
 io.camunda	camunda-service	8.8.0-alpha2		af2d054c0c5d3c52660321b0fafc98b22bbf5b4a
 io.camunda	camunda-service	8.8.0-alpha2-rc1		201e20af69dffb3892c12609e80b744d89e91b82
 io.camunda	camunda-service	8.8.0-alpha3		c1cf9da3871135d64a0b564945d0378fcdd51a0a
 io.camunda	camunda-service	8.8.0-alpha3-rc3		42605fcb3d43572022ff1f9ee219a9fda05a65f7
+io.camunda	camunda-service	8.8.0-alpha4		bca278c9faeedc975305b8fd5b268d7c3aa654cc
 io.camunda	camunda-service	8.8.0-alpha4-rc1		50d9e9b9a3dac927c0de2622b30f7035716984b8
 io.easyspring.security	spring-social-we-chat	1.0.0-RELEASE		768779aaf64a8c6e8f58405b0ffdb3c951939aed
 io.easyspring.security	spring-social-we-chat	1.0.1-RELEASE		3d49540c178f23ec592c6a4c4f64a7d9d45397c9
@@ -1871,6 +1884,7 @@ io.ktor	ktor-server-host-common-androidnativex86	3.0.3		0303d335ae93225c697628d3
 io.ktor	ktor-server-host-common-androidnativex86	3.1.0		09fcdd848f4992fb3e300fc99a86501049499b11
 io.ktor	ktor-server-host-common-androidnativex86	3.1.1		2edd153fe1d2d9c22912f420e6adb8d139d7ed7e
 io.ktor	ktor-server-host-common-androidnativex86	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-server-host-common-androidnativex86	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 io.paradoxical	json-path	2.3-experimental		601c0d460559d157c42fa2bdcc0f4f8d6672154d
 io.paradoxical	json-path	2.3-experimental-1		709180b8ba792fd79305d1c3f10e37410b131387
 io.soabase	soabase-admin	0.1.0		9aa2b1b05bf1528b992f5c02c6ac3d9c1087d1c1
@@ -2018,6 +2032,9 @@ net.codinux.log	loki-log-appender-base-linuxX64	0.6.1		N/A
 net.reactivecore	usql_3	0.2.0		90d054f9442dcff7fc39beb0e43d09f643ad8ee4
 net.reactivecore	usql_3	0.2.1		86accf51f0248e5756ea7c923821c2750292d63b
 net.reactivecore	usql_3	0.2.2		0413f2432582d044883d05df61fb5bf78ac0d07e
+net.reactivecore	usql_3	0.2.3		6cce090109e8e18422fc062ddb8dfb392a22f48b
+net.reactivecore	usql_3	0.3.0		af1b4131f25d7ea075db1724ac118d6681acbf3d
+net.reactivecore	usql_3	0.3.1		915ab47e7e961a9eab198826b766108ab39efb8c
 org.aksw.jenax	jenax-server-standalone	4.4.0-1		c11be1aecb9abe83c7c70be0a029113eb089c8d8
 org.aksw.jenax	jenax-server-standalone	4.4.0-2		b588c4a99aa38b8a498fbeb14e685de789a39e18
 org.aksw.jenax	jenax-server-standalone	4.8.0-1		f98e5ba2f9acda14145367d64002668ec979c70b
@@ -2417,6 +2434,7 @@ org.scalatra	scalatra-common-javax_2.13	3.0.0-RC1		422d04d6363273f6f296bf8110835
 org.scalatra	scalatra-common-javax_2.13	3.1.0		a3b6b08b1e0a8e92d497af56dc17708676948c09
 org.scalatra	scalatra-common-javax_2.13	3.1.0-M1		d87be5253ff902811f5ffc466093a509a1257db5
 org.scalatra	scalatra-common-javax_2.13	3.1.1		3136c0a8286cda9964f83b1026e0fc2a412679bc
+org.scalatra	scalatra-common-javax_2.13	3.1.2		4024c67f924596adecd06dcf57de663683c864dd
 org.scommons.service	scommons-service-dao_2.12	0.1.0		005a7f7a9b477b9a3af2df4130b69eea7f139ea8
 org.scommons.service	scommons-service-dao_2.12	0.2.0		46407fe67b4502b7572fd63097b5de1c69c6752f
 org.scommons.service	scommons-service-dao_2.12	0.3.0		8245fdf9463b2a6632d19511cf2bf411c9b01496

@@ -14,6 +14,7 @@ cn.legendshop	jpaplus-annotation	7.1.0.0		d142914bf9e9990eec39d41ef25fe819b79b47
 com.aliyun	alibabacloud-config20200907	1.0.0		1f89d182ff04156d0fe4e6cbd98215474b158277
 com.aliyun	alibabacloud-config20200907	1.0.1		a3088edb09ad3fc98c965c75f1f89a4b4758ea7f
 com.aliyun	alibabacloud-config20200907	1.0.10		8d0f5b9c04c366c176e5a55c5b7426516faa314e
+com.aliyun	alibabacloud-config20200907	1.0.11		66bda3df5572fcec4f1475253ea5b9d5d45919b3
 com.aliyun	alibabacloud-config20200907	1.0.2		3f9d521838359d4d9b46a344b132e35fd95e32e3
 com.aliyun	alibabacloud-config20200907	1.0.3		c62f72e5af04deb39958ed03b76e9fde045b0956
 com.aliyun	alibabacloud-config20200907	1.0.4		c316fa03127c35cfe710732bd168bcd5b9fc579e
@@ -531,6 +532,7 @@ dk.cloudcreate.essentials	types-spring-web	0.40.20		d0bd0ed33b84ca1a384803c0f7b9
 dk.cloudcreate.essentials	types-spring-web	0.40.21		39191f0ec1b56946e9a15376e2fd1c02af25f245
 dk.cloudcreate.essentials	types-spring-web	0.40.22		3ded04ed26438c252eb13659adebb668e431d685
 dk.cloudcreate.essentials	types-spring-web	0.40.23		c103aaca22e884076580809f148abd5cda502a9b
+dk.cloudcreate.essentials	types-spring-web	0.40.24		fbd0deac966cca6b3fa72a1fc475f107bca37265
 dk.cloudcreate.essentials	types-spring-web	0.40.3		008e3a627d6dc826a0b8b74707c7a4d9f727a3be
 dk.cloudcreate.essentials	types-spring-web	0.40.4		154faf0718d42cc953759613bd75f8b775d55037
 dk.cloudcreate.essentials	types-spring-web	0.40.5		9d3faa40f99241ede278a086d062687c7df3eb6e
@@ -637,6 +639,7 @@ io.getkyo	kyo-scheduler_sjs1_2.13	0.16.1		bd59061128350395ddcb7c3f3417545e32d300
 io.getkyo	kyo-scheduler_sjs1_2.13	0.16.2		0632cd926d0327f051905324781ed14a19ba79e9
 io.getkyo	kyo-scheduler_sjs1_2.13	0.17.0		2a8ccf3f2bd0f278b252cb41e7ecf7afcd7c8133
 io.getkyo	kyo-scheduler_sjs1_2.13	0.18.0		6a5eced7665289d660fee99695eaf453f6a3c444
+io.getkyo	kyo-scheduler_sjs1_2.13	0.19.0		68493cfcae88537a10e1348e5586979c5431732e
 io.getkyo	kyo-scheduler_sjs1_2.13	0.9.3		6ebd8e438b5a728b200c69377d91060edbbfc25f
 io.github.scala-loci	scala-loci-language_sjs1_2.13	0.5.0		1ed4d97f657ba0a3ec6efbb5ba3ae9fdc9d2f936
 io.github.tabilzad.inspektor	ktor-docs-plugin-gradle	0.7.1-alpha		32a556b2786273bf8f9f33a8f476476b9765d926
@@ -1209,6 +1212,8 @@ io.ktor	ktor-client-cio-watchosarm32	3.1.1		b2a36a9e0843638b76c9276925eb5d157a3a
 io.ktor	ktor-client-cio-watchosarm32	3.1.1	metadata	9a8314858986324790065858df1e14d77f7c25e7
 io.ktor	ktor-client-cio-watchosarm32	3.1.2		0f8534b8b8869e2a882ab30f1235c9fc9ae9ae91
 io.ktor	ktor-client-cio-watchosarm32	3.1.2	metadata	2b8a2b4f664d196f5430db1b418a2f11fd815ba9
+io.ktor	ktor-client-cio-watchosarm32	3.1.3		c736c7ba82449a8b63a022484d8d29941477f5cc
+io.ktor	ktor-client-cio-watchosarm32	3.1.3	metadata	42615b17e369d835d135ed79a5b4bbf5e295d68f
 io.ktor	ktor-events-androidnativex86	3.0.0		dacde2f68c95295dac1b0a870735a6804eb7a84b
 io.ktor	ktor-events-androidnativex86	3.0.1		d371fe9208cd6a12625704cb6b9409b1669769b1
 io.ktor	ktor-events-androidnativex86	3.0.2		5ea7352abbaca748ddaa9c076353b93d162adc00
@@ -1216,6 +1221,7 @@ io.ktor	ktor-events-androidnativex86	3.0.3		0303d335ae93225c697628d39c9ee4130896
 io.ktor	ktor-events-androidnativex86	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-events-androidnativex86	3.1.1		2edd153fe1d2d9c22912f420e6adb8d139d7ed7e
 io.ktor	ktor-events-androidnativex86	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-events-androidnativex86	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 io.monix	monix-dynamodb_3	0.9.0		161bccf855e060dc7be32f2a05dd057d915aa763
 io.nuls	contract-module	0.9.11		N/A
 io.openliberty.features	jmsMdb-3.2	18.0.0.2		N/A
@@ -1324,6 +1330,7 @@ net.sf.tsl2nano	tsl2.nano.gp	2.5.2		d7a6e102e21ce7699e6d995c961c10f083b838bb
 net.sf.tsl2nano	tsl2.nano.gp	2.5.3		d49a271435172ecfcbccf70ce47fab94f008a4a6
 net.sf.tsl2nano	tsl2.nano.gp	2.5.4b		cb2d3ee3286f06aab8692beab59c48d7b4811d77
 net.sf.tsl2nano	tsl2.nano.gp	2.5.5		bdcdca57e0eab1e70a9badc543414e3c2c3ee6c8
+net.sf.tsl2nano	tsl2.nano.gp	2.5.6		cb117eee89a572a89167186281720125849c0773
 nz.co.senanque	madura-objects-test-externals	3.0.0		4e55ddca694b7920f379f66f411b652f14bd8f75
 nz.co.senanque	madura-objects-test-externals	3.0.1		eadfc1ff9cd5c0436df89a8616e0c90dc12d01c6
 nz.co.senanque	madura-objects-test-externals	3.0.2		afdd63b8fe2630ccdef3078fa2b4d9922bf39837
@@ -2209,6 +2216,7 @@ org.janusgraph	janusgraph-solr	1.1.1-20241115-173143.8c78268		d7195a24570b10a024
 org.janusgraph	janusgraph-solr	1.1.1-20241115-201642.8c78268		d19ff54d58ae3f69406bed3e68cec5632775e375
 org.janusgraph	janusgraph-solr	1.1.1-20241116-021934.5be16ea		6bd195bf46d820c7210a9a2e5f416c48db2fabb0
 org.janusgraph	janusgraph-solr	1.1.1-20241118-163713.4b9d009		c1ad6fa5c4fcadad091d187e74d1409785a42afc
+org.janusgraph	janusgraph-solr	1.1.1-20250511-122520.43d05f8		b210e458455d0632eea2897b1a5a3bc9d9d74a95
 org.janusgraph	janusgraph-solr	1.2.0-20241115-203411.9121dd8		936a6216cb2fbbfe532224c73cf3758032631114
 org.janusgraph	janusgraph-solr	1.2.0-20241116-110554.8064ac9		7b30f87a0ff528ea9ee77fcebf5d333353a329b6
 org.janusgraph	janusgraph-solr	1.2.0-20241120-125614.80ef1d9		d6a7b45dfafbd518555c824a157b4c656d2839a2
@@ -2227,6 +2235,7 @@ org.janusgraph	janusgraph-solr	1.2.0-20250216-125009.330bd38		adaf95ca25069bc55f
 org.janusgraph	janusgraph-solr	1.2.0-20250216-225746.b5e2f5d		c723743e87260939ab6e31f3c44a88d508396988
 org.janusgraph	janusgraph-solr	1.2.0-20250216-225808.6db9d55		dd2ae5e65b7fb06fd070730034cde1475fe4ebd4
 org.janusgraph	janusgraph-solr	1.2.0-20250219-143145.6c030f7		8972cd3aa81dbedc461ddaf51cf72f96d434d480
+org.janusgraph	janusgraph-solr	1.2.0-20250509-104313.02c1bcb		8f28a240256bf48f8c695f5ac1541f876c49f0bb
 org.jodd	jodd-http	3.4.0		11c9f708301c7a6084d2f628f4b28d151abd420d
 org.jodd	jodd-http	3.4.1		d9b732896072ab87adda4d01c2da9f5d72096203
 org.jodd	jodd-http	3.4.10		b0c1e80513c19299918d717b3a1c5f1374842537
@@ -2712,6 +2721,7 @@ ru.tinkoff.kora	cache-redis	1.1.22		36e4c534402bc02ea5c275569e29c2f624dda134
 ru.tinkoff.kora	cache-redis	1.1.23		afc0ede7cf17697b2369e7e4df3dee779b0428ba
 ru.tinkoff.kora	cache-redis	1.1.24		59554816834502c949e8d1eed75291f93ce7a661
 ru.tinkoff.kora	cache-redis	1.1.25		9949a31600b2e05072437f17db6cf0975799f6f1
+ru.tinkoff.kora	cache-redis	1.1.26		2ea432c6b8cf0be505c0de995ec70840d647d792
 ru.tinkoff.kora	cache-redis	1.1.3		d2e3ba750811408c35e4443bef1faa97e34d1d7c
 ru.tinkoff.kora	cache-redis	1.1.4		f020798e66eca841438e1abe89b962202949feeb
 ru.tinkoff.kora	cache-redis	1.1.5		5c85c3118dc870ae642bc958d4103901fca0cd46

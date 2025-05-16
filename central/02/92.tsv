@@ -577,6 +577,7 @@ com.sparkutils	shim_runtime_2.4.0.oss_2.4_2.11	0.0.1-RC2		443acea1b18a6f128f95da
 com.sparkutils	shim_runtime_2.4.0.oss_2.4_2.11	0.0.1-RC3		44555bacad64c6333d749afecfa9550c7c6f8288
 com.sparkutils	shim_runtime_2.4.0.oss_2.4_2.11	0.0.1-RC4		b1e8c345d203d8e9bb73a9843635784736d27370
 com.sparkutils	shim_runtime_2.4.0.oss_2.4_2.11	0.2.0-RC1		350382d9918bbfe740ff53f4a34204fcbcd78e45
+com.sparkutils	shim_runtime_2.4.0.oss_2.4_2.11	0.2.0-RC2		0b3114a5c5c95fa5f300ff515a71a46ffe8b8e34
 com.trimble	trimble-id	1.0.0		f6ad695e8da88a500ab4ec4069a6d3db7b6c616d
 com.trimble	trimble-id	1.0.0-RC1		2b4c402ac577d6ae3b5de2ddbc340f1fd7a1611e
 com.trimble	trimble-id	1.0.0-RC2		c2f884956215c2aa8ad6f717e85cf74b0812f6ba
@@ -1445,6 +1446,7 @@ io.quarkus	quarkus-elytron-security-oauth2-deployment	3.15.2		cc757e4c8f01592a34
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.15.3		abbca57933c831700991748cc6b3aa07e4a13ce2
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.15.3.1		d2066b021a6a5e6a48ab98f73dde2988b55e4915
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.15.4		26902c83a751b163ffc3973af053c3a6cebae516
+io.quarkus	quarkus-elytron-security-oauth2-deployment	3.15.5		9e3436bf9697f53bf4537258dd60b4630630aeec
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.16.0		16a8273fa00eeafe3a39c97b5fd9a195338a7867
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.16.0.CR1		e9dae0edbe24f4bebd7a450e2ed7a874654ae84b
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.16.1		2bea5ebb52eca075fe079d6c9a2d0a1219a45763
@@ -1489,6 +1491,7 @@ io.quarkus	quarkus-elytron-security-oauth2-deployment	3.2.8.Final		82ac2b25316dd
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.2.9.Final		76964ad134abd66af53b1f9c2ceb4395dcef48fa
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.20.0		474d9f6bad34d105aa94401f5fd928335da5d74c
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.20.0.CR1		5ec78842c76bbc72099a7bac5d68065ba600c8f5
+io.quarkus	quarkus-elytron-security-oauth2-deployment	3.20.1		d38c7525f56befb1a470e2cae69ef84afa875f98
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.21.0		047fd06a20be7b3bb2788c677aa36d6c6c8cca45
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.21.0.CR1		1bffa712465ce3bc6c1f2acb74aebf1dd448db2f
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.21.1		5d01d8e321690c3c7ee5742307c935ba6f5cf04f
@@ -1498,6 +1501,9 @@ io.quarkus	quarkus-elytron-security-oauth2-deployment	3.21.4		17f8c360f6fa4972a9
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.22.0		966c3a0b6fa4bdca64ec6d95827869f7db990a70
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.22.0.CR1		6a5458cd3e2a2bbfaf874ec34d906380a02b58e6
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.22.1		6ed2dd63defd293d229fe216f907790f5b2dce6f
+io.quarkus	quarkus-elytron-security-oauth2-deployment	3.22.2		a5b486fe832c658d0f44e23df8d596ccb9647ad7
+io.quarkus	quarkus-elytron-security-oauth2-deployment	3.22.3		7e89f7e9f3bea5534e752dc116664525a5d2c9c9
+io.quarkus	quarkus-elytron-security-oauth2-deployment	3.23.0.CR1		7e6f42c03181346905364545fa632c8eda3cd358
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.3.0		5b9d107fd2dcc7cc14878d500d5657219ed60acf
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.3.0.CR1		45799752722755b540ac8933b1e22d71bb2a42b9
 io.quarkus	quarkus-elytron-security-oauth2-deployment	3.3.1		9484b8c80d0f158981962247bc607d4ae27ef4b1
@@ -2311,6 +2317,7 @@ org.wso2.carbon.analytics	org.wso2.carbon.analytics.spark.event	1.3.7		f419d17d4
 org.wso2.carbon.analytics	org.wso2.carbon.analytics.spark.event	1.3.8		df3a7a43dcd9cb0dda03581fe597ce99de5dcf63
 org.wso2.carbon.analytics	org.wso2.carbon.analytics.spark.event	1.3.9		a6ff3de04cf33270c7a18b32d407877833d2bc26
 org.wso2.carbon.analytics	org.wso2.carbon.analytics.spark.event	1.4.3		c1829fdffb55c34ec12b5e38382b3b0e0afdb584
+ovh.plrapps	mapcompose-mp-iosX64	0.10.0	metadata	24ce447d8ec064652ca6db98b7c4149dc2511afc
 ovh.plrapps	mapcompose-mp-iosX64	0.10.0-beta01		N/A
 ovh.plrapps	mapcompose-mp-iosX64	0.10.0-beta01	metadata	cb80cbcbfff31dec6a24467cb4a99c0256c062b0
 ovh.plrapps	mapcompose-mp-iosX64	0.10.0-beta02		N/A

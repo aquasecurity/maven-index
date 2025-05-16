@@ -75,6 +75,7 @@ com.expediagroup	graphql-kotlin-federated-hooks-provider	6.1.0		583b427f2b2d99cf
 com.expediagroup	graphql-kotlin-federated-hooks-provider	6.10.0		2e58dc0b12c355aa6bd854093a41450e095e2d22
 com.expediagroup	graphql-kotlin-federated-hooks-provider	6.10.1		5cd1b194d4451b7f201d5cfa0757fa27fcde2124
 com.expediagroup	graphql-kotlin-federated-hooks-provider	6.10.2		49c636f834a6bbe751e58ccfda84d4dfeeeaf53c
+com.expediagroup	graphql-kotlin-federated-hooks-provider	6.11.0		0674280cdfcb201eebbe66549b77727a469cfd48
 com.expediagroup	graphql-kotlin-federated-hooks-provider	6.2.0		855667b158f54b32d7b7c584b3a2d21b13f5b573
 com.expediagroup	graphql-kotlin-federated-hooks-provider	6.2.1		fc65ec4e630a200f92dba952c665af3231806ba4
 com.expediagroup	graphql-kotlin-federated-hooks-provider	6.2.2		5010a22027fc29f9b282492c5cf4d430f3927952
@@ -147,6 +148,7 @@ com.expediagroup	graphql-kotlin-federated-hooks-provider	9.0.0-alpha.4		6137a2c1
 com.expediagroup	graphql-kotlin-federated-hooks-provider	9.0.0-alpha.5		c47a834ac1696c9297a27d0f29ad0e9811a4c45a
 com.expediagroup	graphql-kotlin-federated-hooks-provider	9.0.0-alpha.6		971344580600cc356b786903bd664d719fb76abe
 com.expediagroup	graphql-kotlin-federated-hooks-provider	9.0.0-alpha.7		543d8ed2964756272e8c89e52820f99f4adb0a70
+com.expediagroup	graphql-kotlin-federated-hooks-provider	9.0.0-alpha.8		e5202e0f6733c3cd71ef6e1bc7cbd355a70c0756
 com.github.alexarchambault.tmp.ammonite	ammonite-sshd_2.12.1	2.3.8-125-0c2846b7		be1d36e462dd7922ec442b70fbea1b59727b1cdc
 com.github.alexarchambault.tmp.ammonite	ammonite-sshd_2.12.1	2.3.8-126-b13d995b		9e99d6cd4ea3b888072b0e7a77213540ef4da2b0
 com.github.alexarchambault.tmp.ammonite	ammonite-sshd_2.12.1	2.3.8-91-0bf267c2		88d9decc062e5cb327ef27780789cf9891939051
@@ -496,6 +498,7 @@ com.jd.live	joylive-eventbus-disruptor	1.5.0		f77ac54ef96a09bb871eca0e118543fb9c
 com.jd.live	joylive-eventbus-disruptor	1.5.1		d526167b0bd2727912d04da742dfa4a093522356
 com.jd.live	joylive-eventbus-disruptor	1.5.2		370f847b65f45b0b1d62082a610e1378ccce0bed
 com.jd.live	joylive-eventbus-disruptor	1.6.0		0fe122ccfd9a36ee4dac17e55c2f88114ddaae68
+com.jd.live	joylive-eventbus-disruptor	1.7.0		4e38567005022911c5d3671581f64fe18bb7502a
 com.jtransc	jtransc-main	0.1.0		d705d21124f9fd679676fffae0d1d0254330a515
 com.jtransc	jtransc-main	0.1.1		dc18d6943aec72e60e8cabd6af279ff877a503c7
 com.jtransc	jtransc-main	0.1.2		83e4546152504875a7a17ca22808b9095e33a574
@@ -1012,6 +1015,9 @@ io.github.cmmplb	spring-boot-starter-report	3.3.4.0		f5eef022bc6501f918294d9f136
 io.github.ffgaff	ffgaff-common-generator	1.0.2		bb1e4ea122975d4173d152e1203bcd1bb183cb0a
 io.github.ffgaff	ffgaff-common-generator	1.0.3		1a17bb7e318aa002f8d780d0784632263a9c4da1
 io.github.hnaderi	edomata-sql-backend_3	0.1.0		db74618c7395f53e9698b80130291685d636bc72
+io.github.maczikasz	hw-svala-plugin_2.12_1.0	0.0.1-local-ivy-sbt-141181		58ad6e3b69cf4eddb5905ecce4c3c73c7e251bd4
+io.github.maczikasz	hw-svala-plugin_2.12_1.0	0.0.1-local-ivy-sbt-525458		58ad6e3b69cf4eddb5905ecce4c3c73c7e251bd4
+io.github.maczikasz	hw-svala-plugin_2.12_1.0	0.0.1-local-ivy-sbt-692458		58ad6e3b69cf4eddb5905ecce4c3c73c7e251bd4
 io.github.melangad	spring-config-rest-client	0.0.1		b834a8c7225de1d60fd69b873e7cc2d5e7a5b901
 io.github.melangad	spring-config-rest-client	0.1.0		ed99bd0bc1cffea9d06ddbddd221c6d767660266
 io.github.neotypes	neotypes-refined_2.12	0.18.0		b0072f5b8ff3b53366926d1bce8573147db6400f
@@ -1440,6 +1446,7 @@ org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.2.1		a2d2493f97e105ee6
 org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.2.2		bab1693621870b4e332f35db4d83eec2bf16f73b
 org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.2.3		a4d2618eb462b3190d390653e3fa62629ff19605
 org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.20.0		83d387a891d1eea6f57ce2046505d1a3844f8e58
+org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.20.1		b3647590ce73059fd0450fdf5a34f809cb924c63
 org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.22.0		ef8d797d0c3712e3b2b3b6b2d564e2ece24ce311
 org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.4.0		1ea01ee0222d42c93c1349cca2630f99d94ffbd3
 org.apache.camel.quarkus	camel-quarkus-timer-deployment	3.5.0		67bd54ba0b971b140bab96abc2e246b029237280

@@ -144,6 +144,7 @@ com.expediagroup	graphql-kotlin-federation	6.1.0		fa19b7ada3678303cb17b55a9b0c55
 com.expediagroup	graphql-kotlin-federation	6.10.0		58fac97272845a0010cc5d8396196108eed371de
 com.expediagroup	graphql-kotlin-federation	6.10.1		3429632733fd20c184ba606e1ea9693b324d77b1
 com.expediagroup	graphql-kotlin-federation	6.10.2		591e53ccb2e1871339a754cd5bba59176fdcdf80
+com.expediagroup	graphql-kotlin-federation	6.11.0		1bc3024d067b9ed7442a34e0d4905e1e95c81f03
 com.expediagroup	graphql-kotlin-federation	6.2.0		26344dc14061b2dcb14b79e907c4f79bcc4d7d68
 com.expediagroup	graphql-kotlin-federation	6.2.1		2e54b55da709f54bf01abf0994a5d17a207f0817
 com.expediagroup	graphql-kotlin-federation	6.2.2		e5383a037169b39742fc26c1b761153efc9afaa7
@@ -216,6 +217,7 @@ com.expediagroup	graphql-kotlin-federation	9.0.0-alpha.4		9d9130c3cf15667d35b699
 com.expediagroup	graphql-kotlin-federation	9.0.0-alpha.5		4b3e38e07faf76416eec17759656ccb73c4e5d25
 com.expediagroup	graphql-kotlin-federation	9.0.0-alpha.6		9cf06079c3b71a7ae8def2ab0f56efb2080b7d26
 com.expediagroup	graphql-kotlin-federation	9.0.0-alpha.7		d140d5d4b1c9fdcac492bf659944f08c17d6b756
+com.expediagroup	graphql-kotlin-federation	9.0.0-alpha.8		474a2a873649a29854a794acbbc12556dbcc0a13
 com.gitee.tingen	oss4j-core	0.1.2		b58f9e0f9a3e8733dff0490487ce01f41c2a4e7f
 com.gitee.tingen	oss4j-core	0.1.4		acbe468be969c6a7b0961b93990ac74f24f68b92
 com.gitee.tingen	oss4j-core	0.1.5		fbccd40f261a34eac3f0cea5b8fc731eca8482f5
@@ -235,6 +237,7 @@ com.github.houbb	md-escape	1.0.0		e3bf0b48cffabfdec2d32d7e46aab9c5958eec8a
 com.github.levkhomich	akka-tracing-spray-client_2.10	0.5		96a3ca2b37cb1e5978cde858a8250315fe403424
 com.github.levkhomich	akka-tracing-spray-client_2.10	0.5.1		e887b24f09f57929f489a0c9dc64841658ecb4a4
 com.github.levkhomich	akka-tracing-spray-client_2.10	0.5.2		91f9bac9bceca2838385699f358ba13c1a87f97a
+com.github.philcali	sbt-cx-docco_2.9.1_0.11.1	0.1.0		9568abe71ab9398fcc6a720a32c7b242351d58fb
 com.github.pjfanning	pekko-http-session-core_2.12	0.7.0+10-b11344e5		126cbfb0ac2fa2fcde106cf6bbb853ead8d19635
 com.github.pjfanning	pekko-http-session-core_2.12	0.8.0		432decb1bd91e4d7d586194c881306c1fd9c3a2c
 com.github.stephenc.high-scale-lib	java_util_concurrent_chm	1.0.0		f19f01bb13bf8346d732241b0da9ce4adf56f253
@@ -1299,6 +1302,7 @@ io.quarkus	quarkus-openshift-client	3.15.2		524734770e9b14b519d51a0f93c59313c9b4
 io.quarkus	quarkus-openshift-client	3.15.3		5f3616f116f96022fa033f8f8e7538a6138f942d
 io.quarkus	quarkus-openshift-client	3.15.3.1		f9446c06b68e2231d64dcd65f811818539ec3136
 io.quarkus	quarkus-openshift-client	3.15.4		915303a480adb9ba0e7f1c1c32694483122426c8
+io.quarkus	quarkus-openshift-client	3.15.5		2c151189fcc721d8c1aa7e10ba09734ed062966f
 io.quarkus	quarkus-openshift-client	3.16.0		cd20d0896a5bdd1daaf6b7bc0110af113857e4ff
 io.quarkus	quarkus-openshift-client	3.16.0.CR1		ba0de09bff3a852ed98434071e23e675497d7df9
 io.quarkus	quarkus-openshift-client	3.16.1		797c1ee8ab2e5d1dc6cf612ffe6bf154477581ce
@@ -1343,6 +1347,7 @@ io.quarkus	quarkus-openshift-client	3.2.8.Final		6269867528adec34c015982386988ad
 io.quarkus	quarkus-openshift-client	3.2.9.Final		45626514ed3e047d7e4e5098a7b145426877d97c
 io.quarkus	quarkus-openshift-client	3.20.0		ab3112e31b6ddb892a7be5c001a2a866bc4f4636
 io.quarkus	quarkus-openshift-client	3.20.0.CR1		1f6d94a00b8f91c9b7b891cd4a45a9a0fbec8395
+io.quarkus	quarkus-openshift-client	3.20.1		491e75e30be27bd99b400958b005e1f49602a5db
 io.quarkus	quarkus-openshift-client	3.21.0		56873864298060f612648db0471c60329c00593d
 io.quarkus	quarkus-openshift-client	3.21.0.CR1		de7cc6788e7e7e5df1c3aa4cdbd851c9902edfcc
 io.quarkus	quarkus-openshift-client	3.21.1		1643fb8f7985e10c9ea3f9bfaac145e8f1e167cb
@@ -1352,6 +1357,9 @@ io.quarkus	quarkus-openshift-client	3.21.4		0dabef8e2431a11f884c53f2b75c00a5f4c2
 io.quarkus	quarkus-openshift-client	3.22.0		80c924dc9af9e1c951bacfbc99c6fdb50a41c556
 io.quarkus	quarkus-openshift-client	3.22.0.CR1		00484d9447cd6e2fa8ea1207aaa621a26d3b8136
 io.quarkus	quarkus-openshift-client	3.22.1		dda399ff6a9a76b20880d9304f9b9fadc7501a2f
+io.quarkus	quarkus-openshift-client	3.22.2		ab8eddec836448ac06fbd77392e857b95579c921
+io.quarkus	quarkus-openshift-client	3.22.3		a8f3e4e245f9e5f5be0dc84235e1b56a4041a485
+io.quarkus	quarkus-openshift-client	3.23.0.CR1		ff5409b0a38cbe19b20be3ef53fc292048ce22b5
 io.quarkus	quarkus-openshift-client	3.3.0		d844f1fbd49909a0a6e9ffb998a32b5da0fbf5d9
 io.quarkus	quarkus-openshift-client	3.3.0.CR1		3090a2b44af3d618131fe0cfdbfc87683f3084fd
 io.quarkus	quarkus-openshift-client	3.3.1		d1afba57294612f2163b9e90583b9feccfdc5f6c
@@ -2001,6 +2009,7 @@ org.apereo.cas	cas-server-core-monitor	7.2.0-RC6		98148a853f689b8912adac081efc2c
 org.apereo.cas	cas-server-core-monitor	7.2.0-RC6	resources	a80bd4a35dd9db568dce81ab16add5899c2143a6
 org.apereo.cas	cas-server-core-monitor	7.2.1		a54c00a95a500ffd379c89144f8551df47728ab1
 org.apereo.cas	cas-server-core-monitor	7.2.1	resources	a015c674c9c9bca8157f5706b55855e558e678cd
+org.apereo.cas	cas-server-core-monitor	7.2.2		e7a4376f8127ed671a37e45756688a63a1822f9a
 org.apereo.cas	cas-server-core-monitor	7.3.0-RC1		141d26f90cd771030c71285bb57ea1d6d13ac427
 org.apereo.cas	cas-server-core-monitor	7.3.0-RC1	resources	c433ef6e7c5b23ae0abc694cac19409980f6c009
 org.apereo.cas	cas-server-core-monitor	v6.4.0-RC5		ef36d9fad89bfebf8b74e2588bc36775ce4ff5ae

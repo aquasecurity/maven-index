@@ -1918,6 +1918,7 @@ com.linked-planet.client	kotlin-insight-client-test-sdk	0.13.9		e98897f2e2feb0c0
 com.linked-planet.client	kotlin-insight-client-test-sdk	0.14.0		8cf5ee1c1e13212407744d2f98fdfaf679a12f59
 com.linked-planet.client	kotlin-insight-client-test-sdk	0.14.1		e6d709c2c6bb2bc3caa86e68efdf337deeb05c47
 com.linked-planet.client	kotlin-insight-client-test-sdk	0.14.10		462f5b2ad882c5ad5a3f7e3ec2670de598abcc59
+com.linked-planet.client	kotlin-insight-client-test-sdk	0.14.11		e1ae1c5ae649ea1e14e4ee1a2d4c9d512eededd9
 com.linked-planet.client	kotlin-insight-client-test-sdk	0.14.2		f1d3099039fb93a4100eb2f30ccc72bfc68026c3
 com.linked-planet.client	kotlin-insight-client-test-sdk	0.14.3		50b79d734ab48c8da7bbbbe39fb45a3ce7c97324
 com.linked-planet.client	kotlin-insight-client-test-sdk	0.14.5		4f775ae8b8b0f802d4b25c03b3efe215e3551d7f
@@ -2062,6 +2063,8 @@ com.sdl.audiencemanager	audiencemanager_core	8.6.0		dad6ae7e161aa0e9e1e1d5a2c1c1
 com.spotify	featran-numpy_3	0.8.0		08fbfb405a1de09c3fb154e84fd0dabccb0ea5ac
 com.sun.fastinfoset.runtime	fastinfoset-runtime	0.1		0d8661cd7e115e35533046eabe0fbb3715399cdb
 com.swirlds	base-concurrent	0.62.0		c4063e83c544fb8207a41a3b7c3fa48526d9ffe2
+com.swirlds	base-concurrent	0.62.1		5138a77dcf2711365673a04af31e8fc5b0313f1f
+com.swirlds	base-concurrent	0.62.2		6b85d69be4fda7695d3e5330c25f6ae19461a410
 com.torodb.testing	mongodb-docker	1.0.0		3c20a74c6a9d913d9299b740cb20f2b8684c9b35
 com.twitter	chill-akka_2.9.3	0.3.2		9698f33f9d19a831a2d597256c7cdb8cc638f321
 com.zackjp	hiccup	1.0.0-rc1		ddb63917ea1e2ddf9ff68178756f5dff6208f9ed
@@ -2137,6 +2140,7 @@ dev.zio	zio-json_2.12	0.7.4		0b2aa9720f11c5807e90bf638fb09bf585014077
 dev.zio	zio-json_2.12	0.7.40		d125f3f08afbf8d72bd6386f4e49f1d860452896
 dev.zio	zio-json_2.12	0.7.41		14cc5cce445a875406c08538f740be6df155b68c
 dev.zio	zio-json_2.12	0.7.42		702d1ea348ec0be702d834d11f5a834a7208965d
+dev.zio	zio-json_2.12	0.7.43		1c644d1266342e9f940d2f646fc180f6ada6e395
 dev.zio	zio-json_2.12	0.7.5		fec8482ebc21f8bcaeeda4ba452e7531993d9b6f
 dev.zio	zio-json_2.12	0.7.6		cb108ae3991bbeee7bfe194d1adb399986fd40c6
 dev.zio	zio-json_2.12	0.7.7		807b6c844617da07d6ed63eeb1a4597f26da2986
@@ -2506,6 +2510,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2.13.3-alpha		daa5498279b5e7c2322c4a0749108a21f1edcbe2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2.14.0-alpha		da270d4a2a518c5671d85515d5c71cf08d294d77
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2.15.0-alpha		b4b851b94dfc4dbd1466f9667db23e7b02fcb508
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2.16.0-alpha		f2cb19520d83039c18e0ebbdd83914cb8b76077a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2.2.0-alpha		70d818e970738592c38cbadcd54ce84483a87d9b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2.3.0-alpha		e167422b2d6c8c5b65d88579333535ad2213227c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-armeria-1.3	2.4.0-alpha		7d42682fd41678d2a3bb79b30716b4bf01d42f03
@@ -4389,7 +4394,18 @@ software.amazon.awssdk	mq	2.31.30		60a18f870cd2bfb4eef23b0c2af8cc58c72b91eb
 software.amazon.awssdk	mq	2.31.31		ad78d638e6bb10090bd2d7a8d6030e020a00c596
 software.amazon.awssdk	mq	2.31.32		9459c25b1c979d6bac780715a5e9d7f05ad81ead
 software.amazon.awssdk	mq	2.31.33		d721ba43c763068579b39dcaaf93375fbcb435eb
+software.amazon.awssdk	mq	2.31.34		bcb7223a3fb0f5bbd7579ae42df47f76b08c89b5
+software.amazon.awssdk	mq	2.31.35		42d0ce426b1e72bc0f6e19692d3d307b0a184d59
+software.amazon.awssdk	mq	2.31.36		fe3ca7dcc5c5366adde39cd45f97a5cbf2062510
+software.amazon.awssdk	mq	2.31.37		9e4c7c23be3d0d312fc80b41267abc00ae167dee
+software.amazon.awssdk	mq	2.31.38		87cabbf63ca94bd89bbc445a3241dfe324099336
+software.amazon.awssdk	mq	2.31.39		93af36691232011ec514494461e2490303c31c2f
 software.amazon.awssdk	mq	2.31.4		6db5b655526f47c05a3f20ecec978c344a3d7fce
+software.amazon.awssdk	mq	2.31.40		f33322bd4f2028c8e39e05873f4a5a202c620a23
+software.amazon.awssdk	mq	2.31.41		b36fa9fb49182f671538af93d80f6b969839c168
+software.amazon.awssdk	mq	2.31.42		cb1c7806f6125d7fda00a11d01ac20d58f77db85
+software.amazon.awssdk	mq	2.31.43		20d7688d26e942e94089367bba603b91bc693f52
+software.amazon.awssdk	mq	2.31.44		6226e94ae9ea20ecd58248fd7e5ffae15d7cba3e
 software.amazon.awssdk	mq	2.31.5		69c324530e3fe6c76559ff8da8066d1d629b85da
 software.amazon.awssdk	mq	2.31.6		233a8616b6524713a3f99fc77b3ad3075f600c8a
 software.amazon.awssdk	mq	2.31.7		c7053a614e40c04863bf219a8c29f8860b6a0523

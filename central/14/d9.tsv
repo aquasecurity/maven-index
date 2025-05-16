@@ -299,6 +299,7 @@ com.google.cloud	google-cloud-service-management-spring-starter	4.10.6-preview		
 com.google.cloud	google-cloud-service-management-spring-starter	4.10.7-preview		a6fe410d7c20cc7b3a316f85fe92e5a0652714ae
 com.google.cloud	google-cloud-service-management-spring-starter	4.10.8-preview		d00629ee619b532115a34bf1be92e68946ea9397
 com.google.cloud	google-cloud-service-management-spring-starter	4.10.9-preview		3fa093615cb9657fbcff360522870779b7767178
+com.google.cloud	google-cloud-service-management-spring-starter	4.11.0-preview		a6ec7d859b03ea37a2449547a7425198313f9c32
 com.google.cloud	google-cloud-service-management-spring-starter	4.2.0-preview		a4864f848998ae4a33a0bd2f80025e0058b4bfd1
 com.google.cloud	google-cloud-service-management-spring-starter	4.3.0-preview		eb437cac2172006f919360fb1fae15caf94cb1e4
 com.google.cloud	google-cloud-service-management-spring-starter	4.3.1-preview		2898eba3f568ba50487f0ce6f52f7c032cbc714c
@@ -330,6 +331,7 @@ com.google.cloud	google-cloud-service-management-spring-starter	5.11.0-preview		
 com.google.cloud	google-cloud-service-management-spring-starter	5.11.1-preview		1ee901b9788bac91df509b64f9eaec94d39fc401
 com.google.cloud	google-cloud-service-management-spring-starter	5.11.2-preview		828963b78494837c7e527205ede89ed6a21c3cb2
 com.google.cloud	google-cloud-service-management-spring-starter	5.11.3-preview		16c511f869f2a925f06b186a4c067d54a9da450f
+com.google.cloud	google-cloud-service-management-spring-starter	5.12.0-preview		25e382146cbc9dcc2bf3861aee76cb794ac9ac16
 com.google.cloud	google-cloud-service-management-spring-starter	5.2.0-preview		35f3d47a87c61f2f0a6aa216bc72f0a87aafe8f1
 com.google.cloud	google-cloud-service-management-spring-starter	5.2.1-preview		dca8770095fd9e40f0661817e6098d313de891ca
 com.google.cloud	google-cloud-service-management-spring-starter	5.3.0-preview		9d6753e5cecf250ea7e489f74e22fb81d63c81a0
@@ -627,6 +629,8 @@ com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.63.0		23aa3d1f63b5c4d05ad7c
 com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.63.1		b173c78739870564eb5f06b6de2a58d51fcd9f9c
 com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.63.2		9cf5a7b62ce8d418694cbd8c215aa2285635ace5
 com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.63.3		0f72d1094b7a111f1d222ac88b29d8b69fdec28a
+com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.64.0		2f3cc436215647e84ebe8a9d9d859651c68ab132
+com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.65.0		c043de007b02bb4a4b7ae9b393bb67583a734daa
 com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.7.0		adb028ee7979ba414264300ae2dc748e43159c93
 com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.8.0		c8f526fb9338e9486ac24e6bf51c1667a968411d
 com.oracle.oci.sdk	oci-java-sdk-databasemanagement	3.9.0		aff5af655141030e1058d5a932fc05741eaa1a94
@@ -1080,10 +1084,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.79.0		169e
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.80.0		cdda5280c455eecb32f638a0107490b1b9adb689
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.81.0		a2ff77b2e5444e767cafa64da95afca737d14fce
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.82.0		e5815b3d2f42086eb6044ffa179c0223a86c897b
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.82.1		0867a900e13da8995cdeaf2c99d5a5c654cbb737
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.83.0		5d869ed7a9746637fb8e173b98eadd5e1bc10af4
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.83.1		b2d93dfd5d963fb6b8523892c54e7e8fbb3cb067
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.83.2		7f75bf3043ead18d08b142458deb6f91341e44f6
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.83.3		aefebe90f9268704913c0946a51881f46aaf8def
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.84.0		d8f7664cb1d7d27eafd29a323630510d623d3c5b
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.84.1		30e9b505003179aa6ec45628fb455db84cf74161
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.85.0		59746f6c922cdae959906e5d7ac5a689ee3f071a
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.85.1		5c03fd7a0d19c472173e8f99f09cbe3d3982f187
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.85.2		05b49e748dce604c7599d65876724a04cf23a0ab
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-PCT	4.85.3		56ada303a776e1735f2b93a8f905296614a6de32
 org.hudsonci.plugins	maven3-eventspy-common	3.0.0		fe5a34be4cfefdb11dcfb54e20784af2d9b729e3
 org.hudsonci.plugins	maven3-eventspy-common	3.0.1		afd4215393c4c6845e5f9baa0640fcb491de2d52
 org.hudsonci.plugins	maven3-eventspy-common	3.0.2		4ebe745260f4ecffcf576428b6ad4a718f57a6a6

@@ -19,8 +19,13 @@ be.fluid-it.microservice.bundle	microservice-bundle-bom	0.1-7		N/A
 be.fluid-it.microservice.bundle	microservice-bundle-bom	0.1-8		N/A
 be.fluid-it.microservice.bundle	microservice-bundle-bom	0.1-9		N/A
 ca.bcit.KaJiN	sort	1.0.0		f2c0c22cfd2e7ddc0b3250af90effd92dc85ab7c
+ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.1.0		d8dd694abc09e5953132dc7e3aeb09953efaa28f
 ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.10.0		4107e7afb07d58a88aa18c1c4b65d3e73898489c
+ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.2.0		dd953acbcb3215376ba4e94dcfbac7f9eda51371
 ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.3.0		f8f75d0569e72463e21eaf59a5a18fb47b21c35e
+ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.6.0		fee68ae81ba67464ccee4e78c7fe4feea7dc6e97
+ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.7.0		dcb33fd1c80a445904578d711df126ed774e0dff
+ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.8.0		ac8628983d0a35ee3a4ba5251c5d7077024ce272
 ch.epfl.scala	sbt-plugin-example-right_2.12_1.0	0.9.0		eedc7510edecc2fbc54b53d73b55254b5186de34
 cn.com.antcloud.api	antcloud-api-ak_571f76a3878740b1a038445e78896b07	1.0.0		9941c56fd3f3ddd941fb6b6fb35eec8a60b64579
 cn.jdevelops	cloud-gateway	2.0.1		b7d87fcdf98291ad23170e1497f44b77bf16e1fd
@@ -413,6 +418,7 @@ com.liferay	com.liferay.lcs.client.web	1.0.61		299be39b32b516b80cc770e594ad5544d
 com.liferay	com.liferay.lcs.client.web	1.0.61	jspc	e4e77ecadd7c9b3279be65b575fef9b559725bb9
 com.liferay	com.liferay.lcs.client.web	1.0.62		1852628e7e7093951ee802cf464f3952b48d9e98
 com.liferay	com.liferay.lcs.client.web	1.0.62	jspc	3fed562861e59a52e09b5a24a8223792a5ff547b
+com.liferay	org.apache.axis2.jaxws	1.8.0.JAKARTA-LIFERAY-PATCHED-1		280010c5a652c00a490610b8445cbf4288d51711
 com.lihaoyi	ammonite-cross-3.0.2-compiler-interface_2.13.7	2.5.1-6-5fce97fb		ba8f6055120eaba95481e8fd71d50ee7e4cfbf76
 com.lihaoyi	ammonite-cross-3.0.2-compiler-interface_2.13.7	2.5.1-7-cd989427		cab44c6a01cab4eea99a757134472917842be082
 com.lihaoyi	ammonite-cross-3.0.2-compiler-interface_2.13.7	2.5.11		3ca2b08da4fec60f260b1f413af429d7e0b8ba84
@@ -1321,6 +1327,7 @@ org.apache.camel.quarkus	camel-quarkus-mllp	3.2.1		337eaaaf485d94dd39d1081aa243e
 org.apache.camel.quarkus	camel-quarkus-mllp	3.2.2		4ef8b2b458d6e0bf347b40eec34195f971ebba03
 org.apache.camel.quarkus	camel-quarkus-mllp	3.2.3		500c13e100ea535307155ac03128bd3908628028
 org.apache.camel.quarkus	camel-quarkus-mllp	3.20.0		01059c053b66fdf10c13827072cb6765e178e9e8
+org.apache.camel.quarkus	camel-quarkus-mllp	3.20.1		862d23c6ad14c79d0cc7b840dd23fec721f6cb8e
 org.apache.camel.quarkus	camel-quarkus-mllp	3.22.0		b9dbed50ed5072310580d2faee62ada002a220e8
 org.apache.camel.quarkus	camel-quarkus-mllp	3.4.0		46fa96e12b1f45c36113f077b955fbde54f1c0ad
 org.apache.camel.quarkus	camel-quarkus-mllp	3.5.0		bb5e25cea3e24b5b90a1e825cdd4a2c8ba6ec3b4
@@ -1694,6 +1701,7 @@ org.tpolecat	natchez-log-odin_3	0.3.4		b596d0be31fde8e6c335b52df273668792250117
 org.tpolecat	natchez-log-odin_3	0.3.5		09a417b0e59e1f88786e00447e1ee37b251d0408
 org.tpolecat	natchez-log-odin_3	0.3.6		b00018ebc06b7db43b4bbeafd99936541ac8ac54
 org.tpolecat	natchez-log-odin_3	0.3.7		4efdbfee855e6469fd9fe92548998919abae17f6
+org.tpolecat	natchez-log-odin_3	0.3.8		1137c7b552b33df275a062718eb2125495e22ba2
 org.uberfire	uberfire-message-console-backend	2.10.0.Final		b4e619360451e8727a22b965a1e84e9479ecbad8
 org.uberfire	uberfire-message-console-backend	2.11.0.Final		bd7188c7277bbce8f5a50fd6cac8de820c75c891
 org.uberfire	uberfire-message-console-backend	2.12.0.Final		f0adeab404e670136b4f0a7e2016beaf2dcae26c
@@ -3131,7 +3139,18 @@ software.amazon.awssdk	elasticsearch	2.31.30		3ef7a06bbfaeeaec97e581bc4d1b4cca39
 software.amazon.awssdk	elasticsearch	2.31.31		1085085f629a6a57b0ae7d591b7203f9027342ad
 software.amazon.awssdk	elasticsearch	2.31.32		b93363a3cc375e62983711c3d99972a9beec44e9
 software.amazon.awssdk	elasticsearch	2.31.33		593716c25ea5171a42faedfefafdaade5797161d
+software.amazon.awssdk	elasticsearch	2.31.34		3828cb39115e2954de03fb5acc2f3d590ee4acd6
+software.amazon.awssdk	elasticsearch	2.31.35		264d2ae4baacedcd782be435a2c0d07c34d15a7e
+software.amazon.awssdk	elasticsearch	2.31.36		68a5b4a2b5b3643fe2297416e456d7c4b519978f
+software.amazon.awssdk	elasticsearch	2.31.37		26c4582d2b701551fe459381b17f4d6f1fdc0247
+software.amazon.awssdk	elasticsearch	2.31.38		73624a28ad8e506f1fc02c23a29e7a50c024ef42
+software.amazon.awssdk	elasticsearch	2.31.39		7ece860941797f4a684a015b2f933e61bcb33988
 software.amazon.awssdk	elasticsearch	2.31.4		1dc927f499699b2298225f49884ebe4ddd055035
+software.amazon.awssdk	elasticsearch	2.31.40		6560f5dd372616b4f03f32a6437258b495e06a3e
+software.amazon.awssdk	elasticsearch	2.31.41		90ce4f0b4656e304ac912df5e42a20cf58995e4d
+software.amazon.awssdk	elasticsearch	2.31.42		be35ecffae739d91d4cf725553efbef19ca0a973
+software.amazon.awssdk	elasticsearch	2.31.43		4c69bd8bcfae9869bcd5c053546f690873f13afb
+software.amazon.awssdk	elasticsearch	2.31.44		8eeec5441a1394a91062dbb784b004539a54c817
 software.amazon.awssdk	elasticsearch	2.31.5		037b7281b11ff635093e2bb35590f6f189d47b6f
 software.amazon.awssdk	elasticsearch	2.31.6		81c4798afbe0003a73fe39bbb7f14d22f41a185b
 software.amazon.awssdk	elasticsearch	2.31.7		f57432d4d7c55cefa425783b45857c35f270e01c

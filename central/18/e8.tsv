@@ -864,6 +864,7 @@ com.ibeetl	sql-firewall	3.30.7-RELEASE		82bba0de75993665277031892fa2e629feaa96ee
 com.ibeetl	sql-firewall	3.30.8-RELEASE		fa0e9ce9d521bc50bbef4e36b71d280b28cb194f
 com.ibeetl	sql-firewall	3.30.9-RELEASE		fd40ff176217fc3ee10fecfc90b217615a4944d5
 com.ibeetl	sql-firewall	3.31-RELEASE		f46970570257d966cc4c978e6521e7b1bf2e1bcb
+com.ibeetl	sql-firewall	3.32-RELEASE		ed7d690d67461c9236900205f8af9aa8df5c194b
 com.isthisone	socket-holder-channel	1.0.0		aed15bbff1574a8fabf9776aa090077462b3e7ec
 com.isthisone	socket-holder-channel	1.1.0		0ddfd4f0578ce50e01d695649537d8080a62f058
 com.lightbend.akka	akka-projection-r2dbc_2.13	0.2.0		c31c3b150f3d14491c06b295957180d03736f2dd
@@ -1285,6 +1286,7 @@ dev.zio	zio-aws-pinpoint_2.12	7.31.27.1		46795b70dc8bce16198c257c2db5db7fb08598c
 dev.zio	zio-aws-pinpoint_2.12	7.31.28.1		c7f4390975401613cfdf7dfbf38ed77778d454a2
 dev.zio	zio-aws-pinpoint_2.12	7.31.3.1		869b4bdae17ac2350018330127fffa17b42042ef
 dev.zio	zio-aws-pinpoint_2.12	7.31.30.1		5b7bab0a8581d48e796c81aaa6855ebf0b5b4f53
+dev.zio	zio-aws-pinpoint_2.12	7.31.30.2		1ae14e1a7128418a91d97a8b055912d508b2e4d4
 dev.zio	zio-aws-pinpoint_2.12	7.31.4.1		087486b326ac510ecbed94fb34ec4f4fc9dce54d
 dev.zio	zio-aws-pinpoint_2.12	7.31.6.1		6117ac680f758f8d19c750aabed8ad23a1d8e302
 dev.zio	zio-aws-pinpoint_2.12	7.31.6.2		6a8b63db3b1b4eb9f9486930011d8ef34da70fbc
@@ -1444,6 +1446,8 @@ io.ktor	ktor-resources-tvossimulatorarm64	3.1.1		0b5e406f01a0f29ddf85a6ecaf29765
 io.ktor	ktor-resources-tvossimulatorarm64	3.1.1	metadata	6e75fd2ed2c4ddda6037cec3b82a4651286312ad
 io.ktor	ktor-resources-tvossimulatorarm64	3.1.2		a4fd982cd1e084a4c1e088594e46b2b04873e092
 io.ktor	ktor-resources-tvossimulatorarm64	3.1.2	metadata	c7f01f6ddf00b65016e4e5dbb02968160b4803bf
+io.ktor	ktor-resources-tvossimulatorarm64	3.1.3		008f8338814c0718494adfb794463f34caf9427b
+io.ktor	ktor-resources-tvossimulatorarm64	3.1.3	metadata	ac0aefff14b7b6f535b8b370b3968d1cf3e08b81
 io.liftwizard	liftwizard-application	0.1.0		181f4ede76c9cc0a5e68a8dc756213dcac44601b
 io.liftwizard	liftwizard-application	0.10.0		3f5fbd928dbceceefe78e0abe64fcf56236579cd
 io.liftwizard	liftwizard-application	0.11.0		b07a3f00431227942f1a0e3550d1f7ec7e5269c0
@@ -1510,6 +1514,7 @@ io.liftwizard	liftwizard-application	2.1.28		356303e70fef792e6f80edc70432dd00b8e
 io.liftwizard	liftwizard-application	2.1.29		ecda127716ae818d2dab39c8de4ec66ce4b5e532
 io.liftwizard	liftwizard-application	2.1.3		2ab21b83f823c928062a77756db0abcb65b756dc
 io.liftwizard	liftwizard-application	2.1.30		d632cfb5d76beddf283e5c4d210d1f6efcc16193
+io.liftwizard	liftwizard-application	2.1.31		26fbad30b519c76fdfc10a030695c9cbbdec3c63
 io.liftwizard	liftwizard-application	2.1.4		b29d306c8086441ae253553ec2839b4fa958e8e2
 io.liftwizard	liftwizard-application	2.1.5		33963317bb79290b3cbc4eb64db78e6ced1a1c92
 io.liftwizard	liftwizard-application	2.1.6		d098c9a072a9b183c152e93028d0f27f26d4bf2c
@@ -1773,6 +1778,7 @@ io.quarkus	quarkus-junit5-mockito	3.15.2		5624e687716e0c61a88ab22953ad16864d0872
 io.quarkus	quarkus-junit5-mockito	3.15.3		7db972db41bbf060831413146fef6c455da7b8ab
 io.quarkus	quarkus-junit5-mockito	3.15.3.1		7844ff513d2853eedaec1e1795ac99aa0fa52c37
 io.quarkus	quarkus-junit5-mockito	3.15.4		1332d4e850b03fcc315fed39d8395f5e65e71fe5
+io.quarkus	quarkus-junit5-mockito	3.15.5		5852a6a02270b96bf28cbaef6e33558e8fe41e30
 io.quarkus	quarkus-junit5-mockito	3.16.0		6c944512051cd3640c75afb0cb625a4dcb3119c5
 io.quarkus	quarkus-junit5-mockito	3.16.0.CR1		2b66b294b437a66a63a7566189a266c717fed8d7
 io.quarkus	quarkus-junit5-mockito	3.16.1		c5446ed87208f981cf9594549859272d143c9786
@@ -1817,6 +1823,7 @@ io.quarkus	quarkus-junit5-mockito	3.2.8.Final		0e7a590d34a325d35bef9ae48fe2d86c3
 io.quarkus	quarkus-junit5-mockito	3.2.9.Final		eca5e3833e3701c6607b37e9f2d765e41911eee6
 io.quarkus	quarkus-junit5-mockito	3.20.0		f49b93659f8fff45fd8ac60e462af8a11b65ddfd
 io.quarkus	quarkus-junit5-mockito	3.20.0.CR1		0d1a4489af77b3154f5d443f4a926803d900eb8d
+io.quarkus	quarkus-junit5-mockito	3.20.1		f7eacba8fc80cf97b3d349ab39b80bc4d7c6dbef
 io.quarkus	quarkus-junit5-mockito	3.21.0		39696e94cedc5c7df8cca6c978005594c9aa8eea
 io.quarkus	quarkus-junit5-mockito	3.21.0.CR1		c17199fc80e149c136d2d79690c6802316ee19ea
 io.quarkus	quarkus-junit5-mockito	3.21.1		39944574c7649d31276055e3de4a165940ee0232
@@ -1826,6 +1833,9 @@ io.quarkus	quarkus-junit5-mockito	3.21.4		472dae611c8e7bf53f6e96b6b268098dfd63f9
 io.quarkus	quarkus-junit5-mockito	3.22.0		f560a7cb789bca893f8ec4cf1224a95c0392fbe3
 io.quarkus	quarkus-junit5-mockito	3.22.0.CR1		d6b53426f8695c083645d42da5256bd6b8fc94d1
 io.quarkus	quarkus-junit5-mockito	3.22.1		c4b9432c658ca0f97ca0d280a290a7699957754c
+io.quarkus	quarkus-junit5-mockito	3.22.2		a0f458ff3005732ae8dd1117be69123dc6e12244
+io.quarkus	quarkus-junit5-mockito	3.22.3		828ef99fee418a3b30b3e5d8c896ea6d413f13fc
+io.quarkus	quarkus-junit5-mockito	3.23.0.CR1		700077a8d08387d7c9ce9a2fedb8e234d219b2a1
 io.quarkus	quarkus-junit5-mockito	3.3.0		c54b7750b268c64f58731dfecd3a6ce2e8effc35
 io.quarkus	quarkus-junit5-mockito	3.3.0.CR1		c246d25deb231390d58106d88c7dae71a4d4c1ca
 io.quarkus	quarkus-junit5-mockito	3.3.1		203cd6c4c79c8843c3a2859bbfe0225455f060f7
@@ -1925,6 +1935,8 @@ org.anyline	anyline-log	8.7.2-20250312		c9220292bb30a055de793c4b6de04c24376eee70
 org.anyline	anyline-log	8.7.2-20250401		346065ccbbd6ead0f04de829828e057b08c72d88
 org.anyline	anyline-log	8.7.2-20250404		0ebfa320b8d91db741299a516248332002eaaafe
 org.anyline	anyline-log	8.7.2-20250502		731ba434d7cea49a472540420fff0f73bcbc37dd
+org.anyline	anyline-log	8.7.2-20250509		04e3f0f7f67077245b80f1a774e184d6d03b1b84
+org.anyline	anyline-log	8.7.2-20250515		00bb5a46363982d81a79f64621c0efe7bcd4df65
 org.anyline	anyline-log	8.7.2-jdk11-20240919		e39a9cca2c7836c9c4e236aa40ffce0d09a52514
 org.anyline	anyline-log	8.7.2-jdk11-20241015		a84c04659924969e0d34ce3755115f8e6923d95a
 org.anyline	anyline-log	8.7.2-jdk11-20241022		46dc372fba2ae434639993c87320fe3e0a697c70
@@ -1935,6 +1947,9 @@ org.anyline	anyline-log	8.7.2-jdk11-20250108		c13f571956e94e68d0df53b1967aebf2b6
 org.anyline	anyline-log	8.7.2-jdk11-20250212		66cd6c3df6ac612dcc3164a6c76e79dfdbcbb888
 org.anyline	anyline-log	8.7.2-jdk11-20250312		728e24ab0438f3b837cd40df0b52979d3759ff1b
 org.anyline	anyline-log	8.7.2-jdk11-20250404		54571f2353b3a9ce7b00db74fff85ebfdc70f4fb
+org.anyline	anyline-log	8.7.2-jdk11-20250502		17205c8be38aacbc6325cceaacae8ff52a3ec1eb
+org.anyline	anyline-log	8.7.2-jdk11-20250509		8a370412ad066e0d88bb7b1afda1ea30d7737c71
+org.anyline	anyline-log	8.7.2-jdk11-20250515		6fd6036bfa1ad7dd0cf9424117d9688b8597df95
 org.anyline	anyline-log	8.7.2-jdk17-20240917		19d77692c2a88fa7031114036ff9ca6b2d9bb5c0
 org.anyline	anyline-log	8.7.2-jdk17-20240919		32d807c72d9090d91e24fa9b5e9a503a217403c3
 org.anyline	anyline-log	8.7.2-jdk17-20240920		17e905fa94fc9cbf5c7992ccc10be64424f76842
@@ -1951,6 +1966,9 @@ org.anyline	anyline-log	8.7.2-jdk17-20250109		77cf1d67b4f4dd5ab82072c597092e6fa8
 org.anyline	anyline-log	8.7.2-jdk17-20250212		7c3a9b5b947e9bb01ab5f2111ea5466a2db8623a
 org.anyline	anyline-log	8.7.2-jdk17-20250312		cd529be6a6b5e0d74f3775c502601b71964908e8
 org.anyline	anyline-log	8.7.2-jdk17-20250404		6451c9603ff4153780e93794f69b18057a65a7fe
+org.anyline	anyline-log	8.7.2-jdk17-20250502		1f4e1a1c27c3fc397c26c29f86023b366b018249
+org.anyline	anyline-log	8.7.2-jdk17-20250509		5169bd8de3206a84c78e1fd78868b371575585f5
+org.anyline	anyline-log	8.7.2-jdk17-20250515		85f4bf1ca7fcdb3235cb8ae4cac18994f4182c49
 org.anyline	anyline-log	8.7.2-jdk21-20240916		dc1301c843a9168ee0c8985f7c742d5846e48fed
 org.anyline	anyline-log	8.7.2-jdk21-20240925		c62e70475ec7dfcd2b07ce3aa6909ad119f614a9
 org.anyline	anyline-log	8.7.2-jdk21-20240930		609087f410634cc37bacdd6176998528374c8af3
@@ -1973,6 +1991,9 @@ org.anyline	anyline-log	8.7.2-jdk21-20250212		0038bec7c3af177b68eb541bbe97e58f72
 org.anyline	anyline-log	8.7.2-jdk21-20250225		9acb309dd43d5865b324fe2cbadc35900560070f
 org.anyline	anyline-log	8.7.2-jdk21-20250312		1d8a6d654628b70323c1f51e11638115b96192ed
 org.anyline	anyline-log	8.7.2-jdk21-20250404		d56b1f35a0b33448aef481b8576d00ac9505dd56
+org.anyline	anyline-log	8.7.2-jdk21-20250502		096df1df3f6b33738b31750428a3cd9b45b92680
+org.anyline	anyline-log	8.7.2-jdk21-20250509		c575f96fe0e0d2490c4827e4e55da0bb65bd3fc7
+org.anyline	anyline-log	8.7.2-jdk21-20250515		31e48c8ba6c792243d07dbc18729c05787d8c204
 org.apache.geronimo.configs	jetty7-deployer	2.2		N/A
 org.apache.geronimo.configs	jetty7-deployer	2.2.1		N/A
 org.apache.nifi	nifi-database-dialect-service	2.2.0		3f3cda981a9579524abc8aeb33bdec7b64c48fa2

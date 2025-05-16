@@ -126,7 +126,16 @@ aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.73-beta		6cfbdb09f607c47b0dd374a817d5
 aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.74-beta		91df0a3338e0fe1b58a63980d9a8bb0136dbe564
 aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.75-beta		e3af84884c7d2b6ac63bf45e7052cd7c60e25e6e
 aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.76-beta		f49d67b0a4854fe053f4b49d0ebb8182f68e4095
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.77-beta		27bc824339d829353acbc5ab692b1dd0507d5818
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.78-beta		e5a9aa938db6ff1228e0faac82f2e46792d8e843
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.79-beta		a59d79484b2a89c41804e4a352e9bd4acc5fbf27
 aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.8-beta		d2a3e1a195f7224f2a9833e6f4e631585ff14f17
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.80-beta		fc3684e93fd033a9b024f7813d3bc4362635385a
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.81-beta		f98b3e115ea2e03c2b2998277ae370549191e8d9
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.82-beta		b77c6b857ff0e773e315fd1d31953488d641625d
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.83-beta		2f1e18bed0299281439e2278e9fcb424b1cec188
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.84-beta		40b62d55c4fb713b9562abd40fd4d869cb2729f6
+aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.85-beta		cdbf53d1f144c63836b834b2f0d1ec5eca564073
 aws.sdk.kotlin	dynamodb-mapper-codegen	1.4.9-beta		479d216b2242ea5f9508fedf2438b4efa2bc92f5
 cn.featherfly.common	common-javassist	0.1.0		0988a32123571264d2e314241d719454b04cbd04
 cn.featherfly.common	common-javassist	0.1.1		271850c64015e94cd16551f5a3ada15dda127022
@@ -361,6 +370,7 @@ com.soywiz	korlibs-io-wasm-js	6.0.1		N/A
 com.starrocks	starrocks-spark-connector-3.3_2.12	1.1.0		3c05ee70504a93a22c175abff81e9f651b45a2f4
 com.starrocks	starrocks-spark-connector-3.3_2.12	1.1.1		c8a48f43a94efb5cd1b14b9d9f84765443947231
 com.starrocks	starrocks-spark-connector-3.3_2.12	1.1.2		c36a9e4926b374d36a2efd6ef9b8bcb12a8ad942
+com.starrocks	starrocks-spark-connector-3.3_2.12	1.1.3		2c5d57d461d35657316e60fd864cf6041df7323b
 com.tenonedesign.t1autograph	t1autograph	2.0.4		N/A
 com.tenonedesign.t1autograph	t1autograph	2.0.5		N/A
 com.tenonedesign.t1autograph	t1autograph	2.0.6		N/A
@@ -513,6 +523,7 @@ dev.zio	zio-aws-pcaconnectorad_3	7.31.27.1		1d78e638b1673202eb8d7d3e8bcd608794f4
 dev.zio	zio-aws-pcaconnectorad_3	7.31.28.1		70b1a84d075c74364f2b5b2cc5be7a0f6c7a82cc
 dev.zio	zio-aws-pcaconnectorad_3	7.31.3.1		84cf602b6c1f6fc39cd2987f7b73244a404ae68b
 dev.zio	zio-aws-pcaconnectorad_3	7.31.30.1		8b287df9397d3164ea83c5b1ef4d756b7a016aac
+dev.zio	zio-aws-pcaconnectorad_3	7.31.30.2		925a8996053e9a28f1365f531b893160c26c8e79
 dev.zio	zio-aws-pcaconnectorad_3	7.31.4.1		d103f594eaed8ad1da20e95cb72ddcf808b1afff
 dev.zio	zio-aws-pcaconnectorad_3	7.31.6.1		b6e929dfeaf66df0c5e80a01d1e94591e4801d8d
 dev.zio	zio-aws-pcaconnectorad_3	7.31.6.2		f03fe7ff10c6678bc38a2cee423f9b044d036e18
@@ -728,6 +739,7 @@ io.micrometer	micrometer-registry-jmx	1.13.10		66bdebe20dafbb8ab4de351e808c6484d
 io.micrometer	micrometer-registry-jmx	1.13.11		98f0d509ab8525b9b1d75b862415770676aef8d4
 io.micrometer	micrometer-registry-jmx	1.13.12		1eedf72167135da493c3efbd58b66c53dc4b800e
 io.micrometer	micrometer-registry-jmx	1.13.13		738991a242d3babd1ea10e33994e8d85d0da7640
+io.micrometer	micrometer-registry-jmx	1.13.14		7aad92a5247a6ec512cd6b8ea9f2d5e5cfba2660
 io.micrometer	micrometer-registry-jmx	1.13.2		adc98f9ebb77a0cc7ffa6921829a7aa98e6f252c
 io.micrometer	micrometer-registry-jmx	1.13.3		1603a17191ab9d0314eea6b52d638fde54917d4d
 io.micrometer	micrometer-registry-jmx	1.13.4		b0021d574cda5b143760e1c714162d0c58a89928
@@ -743,6 +755,8 @@ io.micrometer	micrometer-registry-jmx	1.14.3		cebfdfa6ae29bb1b452de3d83b2c0522b2
 io.micrometer	micrometer-registry-jmx	1.14.4		bb57b79d5f9da5208b471ab8515cf82a4b3fa3cb
 io.micrometer	micrometer-registry-jmx	1.14.5		ce942fc1eba23beb0d36709af4adc3d46c1fd5a6
 io.micrometer	micrometer-registry-jmx	1.14.6		298871ad352b08af3f966d9e85d4c76f745d0712
+io.micrometer	micrometer-registry-jmx	1.14.7		ce94a6624239aba16f0377835408880d3863353e
+io.micrometer	micrometer-registry-jmx	1.15.0		4547ad81b3ec881139a695e2d285589d2e1cb3eb
 io.micrometer	micrometer-registry-jmx	1.15.0-M2		d0d5562d14be984236d972684795c6f85b814ed9
 io.micrometer	micrometer-registry-jmx	1.15.0-M3		8664b7898cc15304ddd5eb3bd1c28cb8b6de32df
 io.micrometer	micrometer-registry-jmx	1.15.0-RC1		ea41981ed4404649f66c811490076b7e212020c6
@@ -1207,6 +1221,7 @@ org.eclipse.jetty.demos	demo-async-rest-webapp	11.0.8		N/A
 org.eclipse.jetty.demos	demo-async-rest-webapp	11.0.9		N/A
 org.eclipse.jnosql.mapping	jnosql-tinkerpop-connections	1.1.5		168d7dbe417f309a435fd4359ac1ae129839e142
 org.eclipse.jnosql.mapping	jnosql-tinkerpop-connections	1.1.6		cd516c8021acf94b8956b8beda065d83b7831820
+org.eclipse.jnosql.mapping	jnosql-tinkerpop-connections	1.1.7		a3b582780cc8539505f6854ca83cdf2d0d6c3598
 org.glassfish.osgi-platforms	osgi-platforms	10.0-b28		N/A
 org.glassfish.osgi-platforms	osgi-platforms	3.0		N/A
 org.glassfish.osgi-platforms	osgi-platforms	3.0-Prelude		N/A
@@ -1703,6 +1718,7 @@ org.scalatra	scalatra-javax_2.13	3.0.0-RC1		70582c877852642b5ea69588d521013b417a
 org.scalatra	scalatra-javax_2.13	3.1.0		849900ab4bbf9a84ae737e4ee953f7ede93afa7f
 org.scalatra	scalatra-javax_2.13	3.1.0-M1		e90fd80532149ae8b00339148f16d0d7b6ebf090
 org.scalatra	scalatra-javax_2.13	3.1.1		30096512a733c720d1e609828ea3e7810e3c38dd
+org.scalatra	scalatra-javax_2.13	3.1.2		fa578e24020db621812d9b871ab907cb4ac67f7b
 org.scalaz	scalaz-core_sjs0.6_2.12.0-M5	7.2.4		9e3882bbe506cb550afb3a55835a8e34d925a7cc
 org.scalaz	scalaz-core_sjs0.6_2.12.0-M5	7.2.5		49102fa11646f2e306fbc215cb3c32ae4087de0a
 org.scalaz	scalaz-core_sjs0.6_2.12.0-M5	7.2.6		d778de228fc722b543df9261d9d4389b996671e8

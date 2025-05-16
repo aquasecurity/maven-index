@@ -331,6 +331,7 @@ com.pulumi	vault	6.5.0-alpha.1732688851		13e721cacf7bceae6e913fb3d2ee30a0042d421
 com.pulumi	vault	6.5.0-alpha.1732775348		c8b3690c0f9d0d2315a08b61ce4f44f0f5e19677
 com.pulumi	vault	6.6.0		a8b5412ce4807953122df61ba351279f63838bf7
 com.pulumi	vault	6.7.0		23fb0f79d3b27a81a609b4f20e3ebbd1e74c9d7d
+com.pulumi	vault	6.7.1		b180d59dd80f3ab195b7aa5f192183501d4538f2
 com.softwaremill.sttp.tapir	tapir-refined_sjs1_3	1.0.0		fa9303b4204a592a7f46059340378dfed221f462
 com.softwaremill.sttp.tapir	tapir-refined_sjs1_3	1.0.1		ed1360e5d3f510bc363dac22484ce57950790411
 com.softwaremill.sttp.tapir	tapir-refined_sjs1_3	1.0.2		98d8cc1e184af28cfab94f25c480ff36bc7aed03
@@ -1120,6 +1121,9 @@ io.insert-koin	koin-core-viewmodel-macosarm64	4.0.4		N/A
 io.insert-koin	koin-core-viewmodel-macosarm64	4.0.4	metadata	99273f8cfd9e870f7cc31586e05aa65624b5bb21
 io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta1		N/A
 io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta1	metadata	319a52932c86b7468b1e1bd03dce1708c546c8e7
+io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta10	metadata	20fcf9002ee482de0c8e9c9540aa4d4b2281ffad
+io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta11	metadata	2cab32607cff15f0a1d57718e0621f013d84de06
+io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta13-KTOR-EAP	metadata	629f841abd7e2bc74ac82727dda1adcee1b00d14
 io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta3		N/A
 io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta3	metadata	5eb90ece236a78e7fb348da12a6f24bf4eaae4cf
 io.insert-koin	koin-core-viewmodel-macosarm64	4.1.0-Beta4		N/A
@@ -1427,6 +1431,7 @@ org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.2.1		fc767900888658bcc
 org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.2.2		8df656bc7b04f866a09248dfefa7692f7f5deea5
 org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.2.3		366e32af3d9fa8d190d8d17a27327469836866a5
 org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.20.0		9fe24b9717ffe9d27fef97e20f9b611e828a0763
+org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.20.1		81d7d112f2bdf24a22c7e78ac27524a7f24bf108
 org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.22.0		e9205bf40ce3a7682e6889a315ef2083ce834f4e
 org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.4.0		b55d47b50364e12d105cab747ade59026c5a3b7f
 org.apache.camel.quarkus	camel-quarkus-reactive-streams	3.5.0		47db206477c0da3b81f4424daff40b845a4c1d02
@@ -1471,8 +1476,10 @@ org.archive.heritrix	heritrix-commons	3.5.0		18d22e62a1d0bc33a8098d26708c65f0966
 org.archive.heritrix	heritrix-commons	3.6.0		6309ade34c5430b7f38e4c4cde20af433fe944ae
 org.archive.heritrix	heritrix-commons	3.7.0		42447f3907f583f0b3bde3e93f52909759c8ee9a
 org.archive.heritrix	heritrix-commons	3.8.0		3760e7c69f102fd955248f38c78d7a8457657f76
+org.archive.heritrix	heritrix-commons	3.9.0		2902748e2ffc58fdcae05e4cf640c7ac8c675a09
 org.bithon.agent	agent-sdk	1.0.0-RELEASE		7e091ad02bf16dfdd01b3df6b0ae3f637cd9b017
 org.bithon.agent	agent-sdk	1.1.0-RELEASE		04dbfff4529d7c749145c5036e04e3ea08020372
+org.bithon.agent	agent-sdk	1.2.0		ff3800370f2c7bf3189cf0cc1faf52c60889b50e
 org.codehaus.mojo	commons-attributes-maven-plugin	1.0		e37c70fd35da09bbe09631d724f4e7e58d1393d3
 org.connectorio.binding	plc4x	2.5.0		N/A
 org.glassfish.common	amx-core	3.0		225033acd27b09055837b2d0d13e772b8c0fe995
@@ -1811,6 +1818,8 @@ org.protelis	protelis-lang	18.0.3		0a77d632051ac08e802917f27b34c6b75b243307
 org.protelis	protelis-lang	18.0.3	all	4e6a91c99b8017b3df137a43a660e4379e9c0b47
 org.protelis	protelis-lang	18.0.4		b6c7dc3bdf5acad5aa23f3c375a0c0c0e5b01919
 org.protelis	protelis-lang	18.0.4	all	7833b822ea63fedee55d176fd4c73e454a68adaa
+org.protelis	protelis-lang	18.0.5		91baaf181231af65d3952b7cffcd118c79b7806d
+org.protelis	protelis-lang	18.0.5	all	857bda789233bd5f683a923bd3440e6d46eecc50
 org.springframework.integration	spring-integration-aws	0.5.0.RELEASE		2c64a55016f948c9d5ff977054d11b5cd006db1b
 org.springframework.integration	spring-integration-aws	1.0.0.RELEASE		79934dae8033050d740ee39d23ed0f225420e40d
 org.springframework.integration	spring-integration-aws	1.1.0.RELEASE		f6a0c0c599456e175e47cef9c2433b6057ca1c22
@@ -1945,6 +1954,7 @@ org.wildfly	wildfly-clustering-marshalling-api	35.0.0.Final		e8df9593a4c91bb0644
 org.wildfly	wildfly-clustering-marshalling-api	35.0.1.Final		e4f48857cc22d4cb1376fb87128cbb93553b425c
 org.wildfly	wildfly-clustering-marshalling-api	36.0.0.Beta1		5916cb9920e02edb79b4e57e98a30a3afc980540
 org.wildfly	wildfly-clustering-marshalling-api	36.0.0.Final		266c73fc33463564050704f34102aebc6eeb7441
+org.wildfly	wildfly-clustering-marshalling-api	36.0.1.Final		f7ce5f0e8a40ce19211df17280002e9412a25f6c
 ru.kode	way-jvm	0.8.0		477c217a6ea8f6c722429219ccb06db26e9c001f
 ru.kode	way-jvm	0.8.1		477c217a6ea8f6c722429219ccb06db26e9c001f
 ru.kode	way-jvm	0.8.10		7a2f73b9d1e50b4db6d934c57f96ded8683c5f02
@@ -1994,3 +2004,7 @@ tz.co.asoft	raven-sms-console-watchosarm64	3.0.8		N/A
 tz.co.asoft	raven-sms-console-watchosarm64	3.0.8	metadata	2cf99d814c0f37a527209f36d7dda83e17110f47
 tz.co.asoft	raven-sms-console-watchosarm64	3.0.9		N/A
 tz.co.asoft	raven-sms-console-watchosarm64	3.0.9	metadata	ae008160ad3a1d6843e4591899835c9ac04f7324
+tz.co.asoft	raven-sms-console-watchosarm64	3.1.0	metadata	15feba01b16e93c3b15721d8682805ba7f28fed0
+tz.co.asoft	raven-sms-console-watchosarm64	3.1.1	metadata	a51f8e242060b26d6fc76051efa3396f3a5102b5
+tz.co.asoft	raven-sms-console-watchosarm64	3.1.11	metadata	a3208a0a139bba77c3b3e5fe83aa1bdfa83165e8
+tz.co.asoft	raven-sms-console-watchosarm64	3.1.12	metadata	fb6d6e24478ae7b642a68a7c3fb389ebcdac39d6

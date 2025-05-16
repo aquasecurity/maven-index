@@ -152,6 +152,7 @@ com.algolia	algoliasearch-scala_2.13	2.17.2		43601813bcc8cb60c37710fb3f34fd2e211
 com.algolia	algoliasearch-scala_2.13	2.17.3		5829debc0e6fe3a719a237c1ac7c3eb0c983ad99
 com.algolia	algoliasearch-scala_2.13	2.17.4		2e9a78027ed8abe4fbbf1126acfaec8d98ef35c8
 com.algolia	algoliasearch-scala_2.13	2.17.5		881e28c91e00ff9d790dbb8e10a8072c5e22b62d
+com.algolia	algoliasearch-scala_2.13	2.18.0		0489f6ea2fc2a7248617c3fcc6a455e950f0c452
 com.algolia	algoliasearch-scala_2.13	2.2.0		3550501f1b882d1bd72994962e25992510e14ac7
 com.algolia	algoliasearch-scala_2.13	2.2.1		ad694cd9b1fb2d26352ee8b3641a606f72f0bebd
 com.algolia	algoliasearch-scala_2.13	2.2.2		f84772e9f7ae16e3d5823abb55373d6be05a5bf8
@@ -264,6 +265,7 @@ com.auth0	auth0	2.17.0		46a38f12f33d8cd1d8be725bea30e0608fe96f5d
 com.auth0	auth0	2.18.0		4e1a9517a9c40d4a82ccaa8c8c8d8daf606b6dd3
 com.auth0	auth0	2.19.0		d37f95f5907aba541597c097d5bf95f3bb6bae33
 com.auth0	auth0	2.2.0		1029f4700501874c9c9aa7e47b3bbd98d26fc7b1
+com.auth0	auth0	2.20.0		a9adef0336dd0ee83a7b427fe65eebe51d3091ea
 com.auth0	auth0	2.3.0		aa1e081590da9900a6bb5427fe8238398aad0bc4
 com.auth0	auth0	2.4.0		39ac4ff13d58bda0186c37b258601e5a6326ce58
 com.auth0	auth0	2.5.0		3ae0cf1e1b36f7f3255729449f8e4e384784037d
@@ -607,6 +609,7 @@ com.daml	caching_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		3ec01122af42b1
 com.daml	caching_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		3ec01122af42b1ea08913cf07c1c4b38f126f4a0
 com.daml	caching_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		3ec01122af42b1ea08913cf07c1c4b38f126f4a0
 com.daml	caching_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		3ec01122af42b1ea08913cf07c1c4b38f126f4a0
+com.daml	caching_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		3ec01122af42b1ea08913cf07c1c4b38f126f4a0
 com.daml	caching_2.13	2.2.0		2a83dab5fa919e1d22a49cd50700ec8431345db1
 com.daml	caching_2.13	2.2.0-snapshot.20220412.9721.0.b7c4bdab		2a83dab5fa919e1d22a49cd50700ec8431345db1
 com.daml	caching_2.13	2.2.0-snapshot.20220413.9724.0.2dc1085b		2a83dab5fa919e1d22a49cd50700ec8431345db1
@@ -1646,6 +1649,9 @@ com.daml	caching_2.13	3.3.0-snapshot.20250414.13754.0.v6f99815d		417f7310dd92e76
 com.daml	caching_2.13	3.3.0-snapshot.20250415.13756.0.vafc5c867		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.daml	caching_2.13	3.3.0-snapshot.20250424.13760.0.v90d51dbb		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.daml	caching_2.13	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.3.0-snapshot.20250507.13770.0.v8a383258		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.3.0-snapshot.20250509.13773.0.v7f71343b		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.3.0-snapshot.20250515.13776.0.ved4899eb		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.daml	caching_2.13	3.4.0-snapshot.20250415.13757.0.v8ac8af98		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.daml	caching_2.13	3.4.0-snapshot.20250415.13760.0.vea143716		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.daml	caching_2.13	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		417f7310dd92e768de1f30c46fc50fedb00b7dea
@@ -1662,6 +1668,16 @@ com.daml	caching_2.13	3.4.0-snapshot.20250430.13801.0.v62e9a71a		417f7310dd92e76
 com.daml	caching_2.13	3.4.0-snapshot.20250430.13804.0.vecb995a9		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.daml	caching_2.13	3.4.0-snapshot.20250501.13805.0.v6dcc9347		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.daml	caching_2.13	3.4.0-snapshot.20250502.13811.0.vc9342f2a		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250505.13814.0.v8f469e2a		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250505.13817.0.vf79dda6c		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250506.13820.0.vb449114c		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250508.13828.0.v6124cac0		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250512.13837.0.v78d1b88c		417f7310dd92e768de1f30c46fc50fedb00b7dea
+com.daml	caching_2.13	3.4.0-snapshot.20250513.13844.0.vbc99348c		417f7310dd92e768de1f30c46fc50fedb00b7dea
 com.day.crx.sling	parent	1.4.0-0001		N/A
 com.day.crx.sling	parent	1.4.0-0002		N/A
 com.day.crx.sling	parent	1.4.1		N/A
@@ -2531,6 +2547,7 @@ org.jboss.hal	hal-build-config	3.6.8.Final		cd81e1b3d06d307debe5e2cc9b14b7194a43
 org.jboss.hal	hal-build-config	3.6.9.Final		70f2afbb64daea4e99bd7962630b0c106c87e17e
 org.jboss.hal	hal-build-config	3.7.0.Final		9b8c34b45ac8304290c881bb4207bde3fee0b969
 org.jboss.hal	hal-build-config	3.7.10.Final		2d443332e28cc80a79cc5a792870012da9f0760e
+org.jboss.hal	hal-build-config	3.7.11.Final		eed7d539b3947f53754a54c4d9720ceb3c0095b2
 org.jboss.hal	hal-build-config	3.7.4.Final		6a7b9444b21a5677e1d5bdde53723883e36dce11
 org.jboss.hal	hal-build-config	3.7.5.Final		8017d3ef5ca007d56f0a3d8c325054162082dff5
 org.jboss.hal	hal-build-config	3.7.6.Final		4a5fefbf838a78f7f7fbc8b423e50a00b0e5fb16

@@ -281,6 +281,8 @@ com.google.cloud	google-cloud-functions	2.60.0		a59c11a2e24939c251811d6f1ccc1385
 com.google.cloud	google-cloud-functions	2.61.0		f491381719fb41d185b24641b59234260323d031
 com.google.cloud	google-cloud-functions	2.62.0		8cffc80764690e8df73f0759160ab055ccf78c72
 com.google.cloud	google-cloud-functions	2.63.0		6651e37f303ccee379086d4de46ae1cab9bbd2d8
+com.google.cloud	google-cloud-functions	2.64.0		b22dc63a9949316e0749e268c25bb9498ed1aaf4
+com.google.cloud	google-cloud-functions	2.65.0		d13f6f1a4e637edca71b3b255c884eb1648976fb
 com.google.cloud	google-cloud-functions	2.7.0		36feb6fcee0e503091f4d8b7b2dd552b8d11b66f
 com.google.cloud	google-cloud-functions	2.8.0		c4b9d109ca6c6d8d9ecb0bc5e234183e64b57e81
 com.google.cloud	google-cloud-functions	2.9.0		a3025eb1394020eec7291e5a853a1bf24891b7af
@@ -451,6 +453,8 @@ com.liferay	com.liferay.portal.template.soy.renderer.impl	3.0.4		dd519a5ccc08c8e
 com.liferay	com.liferay.portal.template.soy.renderer.impl	3.0.5		15f6bf7ef401cef3af429eeb70dcdde4864b8edb
 com.liferay	com.liferay.portal.template.soy.renderer.impl	3.0.6		9415d74de86e974ea7668ca28450efac0695fe3b
 com.liferay	com.liferay.portal.template.soy.renderer.impl	3.0.7		5f80ad3ad86a6f9ff444267639bc80bbe20b95a7
+com.lifeway	sbt-testdocker_2.12_1.0	1.0.0		fe265b14e881978d6f8d7b662caa002fc655ff8c
+com.lifeway	sbt-testdocker_2.12_1.0	1.1.0		3b4fe1a7665fe553d4e17540f5939c21ddc86627
 com.manticore-projects.jdbc	MJdbcUtils	1.1.0		dd671ae8d8d22f3e1d93c8bb3966a6e7dd7b1349
 com.nike.fleam	fleam_2.12	5.0.0		083c1a1deba921f5dcbb4dea921d401f6e4b5fad
 com.nike.fleam	fleam_2.12	6.0.0		5f3ce23713acee726da6774e3861c12ea9090db0
@@ -1086,6 +1090,8 @@ io.ktor	ktor-resources-watchosx64	3.1.1		0b5e406f01a0f29ddf85a6ecaf29765b882fd13
 io.ktor	ktor-resources-watchosx64	3.1.1	metadata	95145295c04d41cea82751d17dc9310ccf17a3e0
 io.ktor	ktor-resources-watchosx64	3.1.2		a4fd982cd1e084a4c1e088594e46b2b04873e092
 io.ktor	ktor-resources-watchosx64	3.1.2	metadata	458cf0f7eeac9b22113a75d1785a7bb284f33423
+io.ktor	ktor-resources-watchosx64	3.1.3		8883a19eac52477e19e84fc4657340aa2f62fd1a
+io.ktor	ktor-resources-watchosx64	3.1.3	metadata	e5a25c4fdfa20de0c9f77f1a7c70b20deb1fc842
 io.maryk	maryk-generator-macosx64	0.2		N/A
 io.maryk	maryk-generator-macosx64	0.2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.maryk	maryk-generator-macosx64	0.3		N/A
@@ -1900,6 +1906,19 @@ org.eclipse.dirigible	dirigible-components-resources-resources	11.41.1		34d8d9a0
 org.eclipse.dirigible	dirigible-components-resources-resources	11.42.0		a940097ee4ac8d68b68932263d1eed747d7442ca
 org.eclipse.dirigible	dirigible-components-resources-resources	11.43.0		3eb42294f0aa2b775d57ab6ad5934c0121f19e10
 org.eclipse.dirigible	dirigible-components-resources-resources	11.44.0		68f28ecb2ac5fdfd9230e042f838b4e404f645b3
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.0		d95e1471516820e430553e3fa9a61c65139ba452
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.1		ca6c2fc14d3be546fdf0dba79bde16fb349712b9
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.10		601e4fc4dc0e90fbd8fc82d8f7a331849a0e3e9a
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.11		a91308e3a84dd13f5dba99cb4360a3d1d32ca2bc
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.12		ed9e9a8d5df9ffcb4a7c6984f21fc3c4eca8a253
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.13		c2419bc3f9782d6c241c70e0844fe418d8212c87
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.3		ac03484e53256e0d08486594106d43f84eaa3f2e
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.4		b5f85848f2b72aa42fefda5ba65a92c69679ebb1
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.5		450e8ae600cd86c360feaf1e03edc5ec0e6deef4
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.6		43d1dbe103a46c31a6125dc759ae66ef60d30556
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.7		eb5094af93fce11933fbb0348474ddd880f2b06a
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.8		f832a6e4db5b2f641e98b125800e17f7fe1d8f58
+org.eclipse.dirigible	dirigible-components-resources-resources	11.45.9		d434be5dec57b281602350d1bce2bf9676bba344
 org.eclipse.dirigible	dirigible-components-resources-resources	11.5.0		427de700c63eba3ca73dd3d76ec6aa5bfd837cd0
 org.eclipse.dirigible	dirigible-components-resources-resources	11.6.0		e095c87944a06748bc3c34bdde38d5e55beccb20
 org.eclipse.dirigible	dirigible-components-resources-resources	11.6.1		92e357a11e80c17f689a1232a39b11a5b5323414

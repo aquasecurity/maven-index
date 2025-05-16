@@ -29,6 +29,9 @@ cc.autoapi.pucong	liteflow-design-web	1.1.3		c12fc2f8df6cd6782d295520045a2a6edb9
 cc.autoapi.pucong	liteflow-design-web	1.1.3-release		8b025a694a3098f149ccac9119d2530c51f13074
 cc.autoapi.pucong	liteflow-design-web	1.1.4		92ee1311d7a097613a3a93dc6f749b201a0791c1
 cc.autoapi.pucong	liteflow-design-web	1.1.5		61cc62baaa0e8776bc39217af24b94c0cdd80e6b
+ch.epfl.scala	sbt-web-scalajs-bundler-sjs06_2.10_0.13	0.16.0		654a70fac51de7ae6be9b76bcbdf366103edcb85
+ch.epfl.scala	sbt-web-scalajs-bundler-sjs06_2.10_0.13	0.17.0		26a1108aca5ca9d1866ad9b995d9d217c7c2ade3
+ch.epfl.scala	sbt-web-scalajs-bundler-sjs06_2.10_0.13	0.18.0		ecca633b7338ba59d6ac697d6daa950c69ce2541
 cloud.piranha.http	piranha-http-netty	19.12.0		f788dddac9d31483d64426e19b6f649c34c53e21
 cloud.piranha.http	piranha-http-netty	20.1.2		665acad95f503e2cb7c1b4964cca1c9da270ea38
 cloud.piranha.http	piranha-http-netty	20.10.0		66cef14645638c99cbf2913c75a03a130d28137a
@@ -94,6 +97,7 @@ cloud.piranha.http	piranha-http-netty	25.1.0		c2c10e09297b9d6a74e8f4b2471620f564
 cloud.piranha.http	piranha-http-netty	25.2.0		407de41421ce213b67c6f52bc484517adfb025d2
 cloud.piranha.http	piranha-http-netty	25.3.0		b9145c72ae46065a8d6f902e7a656f06d07b6e41
 cloud.piranha.http	piranha-http-netty	25.4.0		38b48dab130354da7e90f9387739ccb0b1d945e7
+cloud.piranha.http	piranha-http-netty	25.5.0		eee167e1a3951673bece3e4c20d0aa79e3d4be90
 co.pango	core-service-config	4.9.3		N/A
 co.pango	core-service-config	4.9.3-RC1		N/A
 co.pango	core-service-config	4.9.3-RC2		N/A
@@ -185,6 +189,8 @@ com.aliyun	ehpcinstant20230701	2.0.0		34c900b3a53aefb09038a578b7645fe8b973574f
 com.aliyun	ehpcinstant20230701	2.0.0	shaded	f2098f8352b14c69eecb2c7e69ebbd2c71d75cae
 com.aliyun	ehpcinstant20230701	2.0.1		900cba52bb7ca8bed1cead705afa90b340eca9d4
 com.aliyun	ehpcinstant20230701	2.0.1	shaded	104b74a0f654874dbc0fc038d52d2918c1aca06d
+com.aliyun	ehpcinstant20230701	2.0.2		66d3ee81ce3f91d3b6e7d929f8468f23ca51be19
+com.aliyun	ehpcinstant20230701	2.0.2	shaded	28ea9d02cdaedf8fa71c1bd35ba5f3ff113dff04
 com.cognitect	http-client	0.1.101		38d2bb118da2443a3d8268ac84ef19aa289f5209
 com.cognitect	http-client	0.1.104		b0a213333c6d0d96e53ce1b61f7b4f0060e9229a
 com.cognitect	http-client	0.1.105		0535e91c7ebe6701b0d299beb4f4cdf70ce29502
@@ -1812,6 +1818,7 @@ dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.27.1		d0cecf3b5deedea9fed
 dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.28.1		55b9b98844eca71f30e2df7208cf9a21c32c121d
 dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.3.1		0d06fde3e2747e27a7eea1b8eb77ad77939d10da
 dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.30.1		fc1f1cfc1a684b6687513efc2aeae69892a8ef9e
+dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.30.2		ee9efcdb4ddbffa11a5c479f53db1af8adc67b25
 dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.4.1		8d53ba92f8237a38deddbb6fe9a046eae7f3287f
 dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.6.1		62092b836f13df3a5e8cc1d3588d246c5233a434
 dev.zio	zio-aws-sagemakerfeaturestoreruntime_2.12	7.31.6.2		0b49eb3677c8894c84c91679f0ec33104a6b9796
@@ -2320,6 +2327,7 @@ org.graceframework.profiles	rest-api	2023.2.0-M2		aa7c38b953a4c853cf83d00895cfed
 org.graceframework.profiles	rest-api	2023.2.0-RC1		236a192e476aa1d995bc4e3694e7bfd4d4694e21
 org.graceframework.profiles	rest-api	2023.3.0-M1		c2f4ed3da0e4d4a41d64db12fa8205542f6a64ae
 org.graceframework.profiles	rest-api	2023.3.0-M2		9412597dde8bd602bc9ff6efc130dfe70853a358
+org.graceframework.profiles	rest-api	2023.3.0-RC1		163a3e3843de76cdd4738be8b92587c85b272238
 org.influxlakehouse	influxlakehouse-util	2.12_3.5.0_1.0		0db3728daf36ee99b2dc5da9166da378d05f6fe9
 org.influxlakehouse	influxlakehouse-util	2.12_3.5.0_1.1		5b8c17e93f0524cc68325430b9babb33b75482f4
 org.jetbrains.androidx.core	core-uri-tvosarm64	1.0.0-alpha01		N/A

@@ -724,6 +724,8 @@ io.camunda	zeebe-gateway-grpc	8.6.12-rc1		a679591f5c1a39a41acefc9aefa59cc0b2b57e
 io.camunda	zeebe-gateway-grpc	8.6.13		dbe2efedc353fa5a82ddd738723d3a90531fe929
 io.camunda	zeebe-gateway-grpc	8.6.14		21c046ea58edd373d49ed2b6716566069127d350
 io.camunda	zeebe-gateway-grpc	8.6.14-rc1		c57ecbd5dc979b0c706355dc1bdf4cdd35fa7295
+io.camunda	zeebe-gateway-grpc	8.6.15		8a227bac85b958aa31e1ee70d53b2ebcf6e3d5ea
+io.camunda	zeebe-gateway-grpc	8.6.15-rc1		16e10d74377b7b7e6997f23539df3303f59987f5
 io.camunda	zeebe-gateway-grpc	8.6.2		6e301846fa08474b510692b0741f56390c302d25
 io.camunda	zeebe-gateway-grpc	8.6.3		3a025f11b020be989074464e3a11c4be1c83166a
 io.camunda	zeebe-gateway-grpc	8.6.4		8dd88557bda801fe4d02edd27916ed9e689e6f51
@@ -759,12 +761,15 @@ io.camunda	zeebe-gateway-grpc	8.7.0-alpha5-rc1		4b28e9006b17a6c19dd844068c18b913
 io.camunda	zeebe-gateway-grpc	8.7.0-rc3		8490c011bca53ef74308cc83707016a7b0ddcafb
 io.camunda	zeebe-gateway-grpc	8.7.1		4e325828a05a32c4a58ef1a2b75a0d5a017ce1f7
 io.camunda	zeebe-gateway-grpc	8.7.1-rc1		0a727902bf843e761a91f1a5684cd970257cf285
+io.camunda	zeebe-gateway-grpc	8.7.2		aaa236a1fb590edf1f494090784c7d0176eb87d0
+io.camunda	zeebe-gateway-grpc	8.7.2-rc1		8bf1c3309294e05fe80d932c8d99f858d5e1c1b9
 io.camunda	zeebe-gateway-grpc	8.8.0-alpha1		027470b2c601b815dac8de4546a6ded59ff8dcca
 io.camunda	zeebe-gateway-grpc	8.8.0-alpha1-rc1		534d57cbb321608504d3eaca50e81c9f096cfb43
 io.camunda	zeebe-gateway-grpc	8.8.0-alpha2		e1a3effc608b3c3b1330e6903d60be74b20bc0fa
 io.camunda	zeebe-gateway-grpc	8.8.0-alpha2-rc1		bf48ba90a085df8ef5ca85524c290d37f577c3bb
 io.camunda	zeebe-gateway-grpc	8.8.0-alpha3		f5880604e7e44a9e58fc8eb10a690fd09220b207
 io.camunda	zeebe-gateway-grpc	8.8.0-alpha3-rc3		35adefe1d0889e1adeec395a2f1858a888618a8a
+io.camunda	zeebe-gateway-grpc	8.8.0-alpha4		4436c1d7246453efb14c50a25d83f83cd2a34c50
 io.camunda	zeebe-gateway-grpc	8.8.0-alpha4-rc1		e809f973b06f7869f52e89872791f591bc70021c
 io.circe	circe-jackson29_2.11	0.10.0		568986815bbe757e5d85556c92200a63f592abba
 io.circe	circe-jackson29_2.11	0.11.0		e95d553ef6500cbe2dd1364f4e064ae44387e5e5
@@ -1043,6 +1048,7 @@ io.ktor	ktor-network-androidnativex86	3.0.3		a13d2b7365487ee3fdea4d3b8b9be0e10c4
 io.ktor	ktor-network-androidnativex86	3.1.0		09fcdd848f4992fb3e300fc99a86501049499b11
 io.ktor	ktor-network-androidnativex86	3.1.1		472a9a69732ae927ff259fbbd5d5391045afd769
 io.ktor	ktor-network-androidnativex86	3.1.2		dc9824e1810f82414ff1fa5406b7128fc7fd6c99
+io.ktor	ktor-network-androidnativex86	3.1.3		4a2491d6f69b79618581e5a398626ff8868d384b
 io.redlink.nlp	nlp-opennlp-default	3.0.0		060c0955be15ec7001ac300e8c504cfc44b7fb98
 io.restx	restx-specs-shell	0.2.4		50fc5bbd3f3cef9cbe1c25c700d956c4e316f7c0
 io.restx	restx-specs-shell	0.2.5		063dbe588982fa29f3519091b1d44e81e462229f
@@ -1441,6 +1447,9 @@ org.huiche	huiche-sql-dialect	3.0.19		32e3a94e3b355723a5f179045163984ac377f4fa
 org.huiche	huiche-sql-dialect	3.0.2		3f1ce7a54e8a458ab3048d03208ed3c89712edd6
 org.huiche	huiche-sql-dialect	3.0.20		b5b7bb8d73a7d381408033a4f8c2caedf6ab63ae
 org.huiche	huiche-sql-dialect	3.0.21		dbadf1d4773758c2ca262894bcba9aba5a969120
+org.huiche	huiche-sql-dialect	3.0.22		5d8bf7c75d7ad1f724287b4fac5d2f054ad2877f
+org.huiche	huiche-sql-dialect	3.0.23		4937be371d4f69df393052304b8740421e333b2f
+org.huiche	huiche-sql-dialect	3.0.24		3c00b2e96a5ff7b397d3d7f1671a11e26aff481f
 org.huiche	huiche-sql-dialect	3.0.3		05b9ff2ec8f5d6536c4deffb55fc74f9fd813f89
 org.huiche	huiche-sql-dialect	3.0.4		8a990b8660c549b2eba2afc0efa18f9e6638b504
 org.huiche	huiche-sql-dialect	3.0.5		5917e2ac2ce8254fa23bad5b249d2d8b16735cb7
@@ -2010,6 +2019,7 @@ org.wildfly	wildfly-clustering-singleton-api	35.0.0.Final		71ee30958ae13de6843dc
 org.wildfly	wildfly-clustering-singleton-api	35.0.1.Final		a4cab48c9ee5ad550c42c64c498fd51a9e408d71
 org.wildfly	wildfly-clustering-singleton-api	36.0.0.Beta1		f93549fa8b07bed4f1730bb4a0e398569de3b917
 org.wildfly	wildfly-clustering-singleton-api	36.0.0.Final		b4bcadce88d98a6b45c5eabf7aff205e3269b698
+org.wildfly	wildfly-clustering-singleton-api	36.0.1.Final		c83b0472f589c74cb2a370de14f49195c84d39c6
 org.wildfly.unstable.api.annotation	unstable-api-annotation-plugin-tests-test-module-b	1.0.0.Beta1		9df9f84fce3b91fab260f59878f0e2b84bf1817b
 org.wildfly.unstable.api.annotation	unstable-api-annotation-plugin-tests-test-module-b	1.0.0.Final		bb9bfdb2ca0b11100d1388779442ea365bde81a6
 org.wildfly.unstable.api.annotation	unstable-api-annotation-plugin-tests-test-module-b	1.0.1.Final		49db52ec612a8f3ef258a19c3f085c32eddc09bb
@@ -2058,6 +2068,10 @@ tz.co.asoft	kase-optional-macosarm64	3.0.8		N/A
 tz.co.asoft	kase-optional-macosarm64	3.0.8	metadata	d7a2cfe16b34b462cf219c9d2ba8c78fbe787002
 tz.co.asoft	kase-optional-macosarm64	3.0.9		N/A
 tz.co.asoft	kase-optional-macosarm64	3.0.9	metadata	2391546b7b36f7c5d1e9d9c04036b0bbb9009cee
+tz.co.asoft	kase-optional-macosarm64	3.1.0	metadata	d2e6430c7587d22ebf26e98d06ba947487be420f
+tz.co.asoft	kase-optional-macosarm64	3.1.1	metadata	384bc8ec74c25f7c1d6016a76180bf571e2f4c4a
+tz.co.asoft	kase-optional-macosarm64	3.1.11	metadata	7992e1b0b1637f9f1dd51eb47aab0b100755ba57
+tz.co.asoft	kase-optional-macosarm64	3.1.12	metadata	c94b252637bc36c3ba2dbbe0d3fb3d00dd03db7f
 uk.org.retep.tools	retepTools	10.1		N/A
 uk.org.retep.tools	retepTools	10.5		N/A
 uk.org.retep.tools	retepTools	10.5.1		N/A

@@ -72,6 +72,9 @@ com.github.marcosemiao.log4jdbc	log4jdbc-impl	0.1.1		807210a1cdb24c070e59cf4e170
 com.github.marcosemiao.log4jdbc	log4jdbc-impl	0.1.2		677c608a58f08eab50aabb69b7708628f53c885d
 com.github.marcosemiao.log4jdbc	log4jdbc-impl	0.2.0		80d9df281efc2b519438f4781f20704c536617d8
 com.github.scalaprops	scalaprops_sjs0.6_2.13.0-RC3	0.6.0		b8c6cc5c54b8f12bb4da466b507a6c554b1dea46
+com.github.stacycurl	sbt-tcr_2.12_1.0	1.0.0		393286cc7c2661e08fb3956384cdea1104901e7e
+com.github.stacycurl	sbt-tcr_2.12_1.0	1.0.1		dd9489d6b1ea5572cff99599f79043c0118104a7
+com.github.stacycurl	sbt-tcr_2.12_1.0	1.0.2		dafc95e6c84505a1d6c43179cb5d6e0de322cb45
 com.github.stpatrck	eddn	1.0.0		N/A
 com.github.testing-blaze	blaze-epic	1.0.0		N/A
 com.github.testing-blaze	blaze-epic	1.0.1		N/A
@@ -794,6 +797,7 @@ dev.zio	zio-aws-emrserverless_2.13	7.31.27.1		99bfdb301af6959750d8323f1fcaa9b595
 dev.zio	zio-aws-emrserverless_2.13	7.31.28.1		a252d0f5ad7ddb9ddba256d1d7ceb5ff24b29b22
 dev.zio	zio-aws-emrserverless_2.13	7.31.3.1		70e78564dda72ebf8435dd50c09a0bea0d050873
 dev.zio	zio-aws-emrserverless_2.13	7.31.30.1		7c2021c704c13232633c0d2a36c53ceda28bbd29
+dev.zio	zio-aws-emrserverless_2.13	7.31.30.2		1cccf29c9fc78f7b7dfc42a8b9b6fc2e3369d596
 dev.zio	zio-aws-emrserverless_2.13	7.31.4.1		a9df980f9fde26a3ce6d06cebfac72b255bc077f
 dev.zio	zio-aws-emrserverless_2.13	7.31.6.1		b371221323301834a1edfc5f95addd0547a912f4
 dev.zio	zio-aws-emrserverless_2.13	7.31.6.2		78b80e4e60fe00b02309c36447584c36f445762a
@@ -837,6 +841,7 @@ dev.zio	zio-json_native0.5_3	0.7.4		9a8baac4f169ffbf4a03d68eca6af5fd626be28e
 dev.zio	zio-json_native0.5_3	0.7.40		129be5365a4ba21630cbf740faa6fbd2da61cd65
 dev.zio	zio-json_native0.5_3	0.7.41		4a724ff98075b0527f31011364d14553f1b05cb3
 dev.zio	zio-json_native0.5_3	0.7.42		36e09fe2e8eae381174c433efa5eb286316878d5
+dev.zio	zio-json_native0.5_3	0.7.43		67a89370a35d87464f7ee8c8932db21e32d411f0
 dev.zio	zio-json_native0.5_3	0.7.5		12950811bc40c1eddd238e53b74eac60d3be4749
 dev.zio	zio-json_native0.5_3	0.7.6		824c32d4cf83303189c936e1192512aa0b12df49
 dev.zio	zio-json_native0.5_3	0.7.7		4a77cd7e87267a593bd64005179dac99f5749318
@@ -1013,6 +1018,7 @@ io.github.hansanto	kault-tvosx64	1.5.0		N/A
 io.github.hansanto	kault-tvosx64	1.5.0	metadata	880b426a86aa833e1818699c436b0e9e3e265268
 io.github.hansanto	kault-tvosx64	1.5.1		N/A
 io.github.hansanto	kault-tvosx64	1.5.1	metadata	c94e5f6d3adf14df0bda4a057b867e0ec839f826
+io.github.hansanto	kault-tvosx64	1.5.2	metadata	d74da5a367ef0d18c59c95aeae30adb08e279c6e
 io.github.luoqqsh	cvplayer-ijk	1.0.0		N/A
 io.github.luoqqsh	cvplayer-ijk	1.0.1		N/A
 io.github.luoqqsh	cvplayer-ijk	1.0.2		N/A
@@ -1238,6 +1244,7 @@ io.netty	netty-testsuite	4.2.0.RC1		7c47515b9eaf9f888346535810cd9e435afb059d
 io.netty	netty-testsuite	4.2.0.RC2		f3ca68097a94f99927f1b08a540fbd05f1d83067
 io.netty	netty-testsuite	4.2.0.RC3		65b8f4e060b08622e7a3a2013e36a1f048cf4896
 io.netty	netty-testsuite	4.2.0.RC4		07a5b478f9d0ddd6b9121c2c56c91a43be616011
+io.netty	netty-testsuite	4.2.1.Final		9baef36881132559976578af7ea91d7f16c366de
 io.netty	netty-testsuite	5.0.0.Alpha2		d177ce13fd60ad0b8b31dd1f640ff9aa92ecba05
 io.permazen	permazen-kv-sqlite	4.0.0		ac9b54dac411a4acd5e2a615a350001d8d409cbb
 io.permazen	permazen-kv-sqlite	4.0.1		fe398c19fa4e8aef1f26fb0d1e3964128ed6dfd6
@@ -1852,6 +1859,7 @@ sh.almond.tmp.ammonite	ammonite-repl-api_2.13.11	3.0.0-M0-58-8d00463c		18e18344f
 sh.almond.tmp.ammonite	ammonite-repl-api_2.13.11	3.0.0-M0-67-83057fea		77de7d4ccf411999b1a8b26fe00c027d2b9fe5bf
 sh.almond.tmp.ammonite	ammonite-repl-api_2.13.11	3.0.0-M0-67-fcfedca6		c5a46df8d8bb4033d1f67f8d0c192782bc65e98b
 software.amazon.app.platform	renderer-public-desktop	0.0.1		e624152e8f895ad2e3577f316ee89347c9caa11b
+software.amazon.app.platform	renderer-public-desktop	0.0.2		e624152e8f895ad2e3577f316ee89347c9caa11b
 software.amazon.awssdk	http-auth-aws	2.21.0		4458d944c54636a22996f1f0e958631d36c3b90f
 software.amazon.awssdk	http-auth-aws	2.21.1		17d162f75ec42be5d938d97c9f8b1c8d2a516a5c
 software.amazon.awssdk	http-auth-aws	2.21.10		d468e57b714571de3a221812e8c35ccbf94c0252
@@ -2227,7 +2235,18 @@ software.amazon.awssdk	http-auth-aws	2.31.30		f6ac7b00c87c173626729fe4450d46f4f8
 software.amazon.awssdk	http-auth-aws	2.31.31		e4bf82864129fdc58dab939884077ee6a632ded6
 software.amazon.awssdk	http-auth-aws	2.31.32		e4c9e1f696e301d42f1031f9d001612366fa89b7
 software.amazon.awssdk	http-auth-aws	2.31.33		6000e5ae17a67d121178dfc37eaf851fd8c475a3
+software.amazon.awssdk	http-auth-aws	2.31.34		65260c9c954be66ead1f46aff60952ce40adb762
+software.amazon.awssdk	http-auth-aws	2.31.35		43f4977f818fe61e17bfad9c30197f3183f81c59
+software.amazon.awssdk	http-auth-aws	2.31.36		0db0c457e0ea013b6cc3954d6437819f74b4cf21
+software.amazon.awssdk	http-auth-aws	2.31.37		41cda91dd02a9259576000cdffc14f06d8c84966
+software.amazon.awssdk	http-auth-aws	2.31.38		1dd1de5a64c24c198683394dc698a97c70eb024d
+software.amazon.awssdk	http-auth-aws	2.31.39		51b08a706ef9fcda8e5975f5f1a5a984303e9597
 software.amazon.awssdk	http-auth-aws	2.31.4		459bdafc2e1f05bb8948099917f337776c4f8304
+software.amazon.awssdk	http-auth-aws	2.31.40		6b16342f61251b6cbe18b5c442730a73b2ff8bc6
+software.amazon.awssdk	http-auth-aws	2.31.41		18a845795028b5fd198f7227ac40015fe084dcf3
+software.amazon.awssdk	http-auth-aws	2.31.42		23599218f105ad1963b734b8b960649797c9bf6e
+software.amazon.awssdk	http-auth-aws	2.31.43		a0506b4c2998875c66424ae323ed5dba7010bb8f
+software.amazon.awssdk	http-auth-aws	2.31.44		fe422409c022bf73e75a3a83ed3418481d7f2c44
 software.amazon.awssdk	http-auth-aws	2.31.5		4aca15b487d44b5a96b256161ea1b0922918a089
 software.amazon.awssdk	http-auth-aws	2.31.6		3a1d997cff3514473b552969b5c96441d7b5da40
 software.amazon.awssdk	http-auth-aws	2.31.7		b621f6e0672b70fea706867d35c008c5a4592b01

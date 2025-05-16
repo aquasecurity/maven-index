@@ -427,6 +427,11 @@ com.gu.identity	identity-crypto_2.11	3.99		119852033aa63f24bb62049b1f9ac8edbaa2e
 com.hianzuo.android	LibRootTools	1.0.0		N/A
 com.hianzuo.android	LibRootTools	1.0.1		N/A
 com.hianzuo.android	LibRootTools	1.0.2		N/A
+com.lightbend.lagom	lagom-sbt-plugin_2.12_1.0	1.6.5		50c73a781b560dd63bf71813166f150b26372c67
+com.lightbend.lagom	lagom-sbt-plugin_2.12_1.0	1.6.5-RC2		e6d54e3074cbf214ae3edb9f867ec35e2624b590
+com.lightbend.lagom	lagom-sbt-plugin_2.12_1.0	1.6.6		7995a59e706eb8e2f8f3b9d2cee6979cc1989446
+com.lightbend.lagom	lagom-sbt-plugin_2.12_1.0	1.6.7		5494b701b45680ff8ff1ae2cdfb7c416203bfa6f
+com.lightbend.lagom	lagom-sbt-plugin_2.12_1.0	1.6.8-RC1		590378720a84e78b30130db597e132e649da0561
 com.sobot.zcsdk	ordersdk_x	1.0		N/A
 com.sobot.zcsdk	ordersdk_x	1.0.0		N/A
 com.sobot.zcsdk	ordersdk_x	2.0.0		N/A
@@ -696,6 +701,7 @@ com.vaadin	flow-client	23.5.1		f878fde2e1dd9317f455c46032712f6f44abd747
 com.vaadin	flow-client	23.5.10		0bb41f4affa11d1ec1f2fd5bc21f9984cc0796d9
 com.vaadin	flow-client	23.5.11		64dd8c882e307ddec341c917e6a0329b7d855e5c
 com.vaadin	flow-client	23.5.12		ac9a61adfa2f609779461ae455b64d6fc42f2737
+com.vaadin	flow-client	23.5.13		545907526596299e5f761a4e210cb882b6cd8cae
 com.vaadin	flow-client	23.5.2		db866038b58800bfbda6677439669a53c010304c
 com.vaadin	flow-client	23.5.3		c3d4578d6540c38e509b1215b60e0ad43aae09d4
 com.vaadin	flow-client	23.5.4		d7f8d778d8ac0327f377716b85c525500be69b0c
@@ -816,6 +822,7 @@ com.vaadin	flow-client	24.6.0		f3322a8b72625a403db8cd86a5d5a29e5e4a14fb
 com.vaadin	flow-client	24.6.1		76367cc2ef8e9c35c983f7a31b594db6fc2d43fc
 com.vaadin	flow-client	24.6.10		7b70af08076ca93d0878904f23616e2b31c468dc
 com.vaadin	flow-client	24.6.11		6c21ffc32d5c2cb8cdb7ede06230d3f4b58d273d
+com.vaadin	flow-client	24.6.12		0b43aebae1ed6a0cf3bb6cd74e04e64ead4b3199
 com.vaadin	flow-client	24.6.2		ff669545831f6e85d5d31908a55a2d65dbaf5f4d
 com.vaadin	flow-client	24.6.3		213aded89cef2d59b690db1976990cf88d976559
 com.vaadin	flow-client	24.6.4		cdafb98a2e38c55e3d9f6f9422d12b8fec74ef06
@@ -830,6 +837,7 @@ com.vaadin	flow-client	24.7.2		aa50863b97fc7ea184cae6b71467c66b4a2f3002
 com.vaadin	flow-client	24.7.3		e1840562b02509c51239f8fb2385421c904f5554
 com.vaadin	flow-client	24.7.4		18ebd6055ddfad12540c56b286c3011bbbcdf6f2
 com.vaadin	flow-client	24.7.5		af7fd9e2e9369955796eb3373e89346c70b1ab5e
+com.vaadin	flow-client	24.7.6		7342f629ee6ed79f4256bd2fcd0d54f9a5346018
 com.vaadin	flow-client	3.0.0		052a4ba655dac13862815ccb85f390ab276b8e3b
 com.vaadin	flow-client	3.0.1		5e286a0f362e04e7d952a6ad6a87205aea99eb67
 com.vaadin	flow-client	3.0.2		d60fe66cf077e9313669b8ade568be3ff70f6562
@@ -1269,6 +1277,7 @@ dev.zio	zio-aws-backupgateway_2.12	7.31.27.1		f0539d2cd07e098c4801b1f9ff78ca2ba2
 dev.zio	zio-aws-backupgateway_2.12	7.31.28.1		17977534040c0f9917fe843670e064f9bf95413a
 dev.zio	zio-aws-backupgateway_2.12	7.31.3.1		f3b11ac975ce2f21be51aaf82f0e2a24fdf7fa71
 dev.zio	zio-aws-backupgateway_2.12	7.31.30.1		b3ded893a51475552b4639ae1288a7b1094eb429
+dev.zio	zio-aws-backupgateway_2.12	7.31.30.2		f12039e41129fc063621de8bbb935a6e50922cf5
 dev.zio	zio-aws-backupgateway_2.12	7.31.4.1		874e60b81aa52db1829731d06cad0921e459f65a
 dev.zio	zio-aws-backupgateway_2.12	7.31.6.1		14fb8666f015ca47090ef8613241718a7a085d4a
 dev.zio	zio-aws-backupgateway_2.12	7.31.6.2		7c0a47c1f9fee02ef50f37c73d7a4edde223642c
@@ -1594,6 +1603,7 @@ dev.zio	zio-aws-connectcontactlens_2.12	7.31.27.1		42d9032dd8cb14840c42b135e1334
 dev.zio	zio-aws-connectcontactlens_2.12	7.31.28.1		cbff6dfddb08762ae240354c7881e94d4d0290cd
 dev.zio	zio-aws-connectcontactlens_2.12	7.31.3.1		1242940fe283ad234dc6d1466c710ba4f2a9a075
 dev.zio	zio-aws-connectcontactlens_2.12	7.31.30.1		1c3006ceae9f9fb80d59dadd640c69752f64d879
+dev.zio	zio-aws-connectcontactlens_2.12	7.31.30.2		db2b0baaccd6d9ea1af5969f02d4fdf624901156
 dev.zio	zio-aws-connectcontactlens_2.12	7.31.4.1		0210397e45ee44a570596f333f803478adee5c6b
 dev.zio	zio-aws-connectcontactlens_2.12	7.31.6.1		d3d6e926e591304f85a34c012fed11d7fe9ff035
 dev.zio	zio-aws-connectcontactlens_2.12	7.31.6.2		12d57da25d7debbafcc24f0f95a4413db0e47b1c
@@ -2218,6 +2228,19 @@ org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.41.1		124d421
 org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.42.0		fa3d61b285d19f1ef5ac5aec3808fbda5a847a7a
 org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.43.0		4c2c4d5fdc6919e2bfa4ba458c86c95f7a8b29f8
 org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.44.0		52b2fb08d184b910f7b3a63b6eae9107b2de214b
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.0		e547560de9c62d3c0a7cffdbaddf8729f4910967
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.1		ef4fc2994170534ea1cef23c926233565b0d73de
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.10		fe9707d0f127ed32e52e0bf7190eeda1bea96c0b
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.11		1e0cfb71ecb91d6f12ada34a720a8a0d940d84fe
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.12		3e02caf2eafe384ef0a196f9a8a1c64dfbe369c4
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.13		6445fb5516b22de8023ccbb072d10b74022e4cd0
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.3		67396cbf5570f44642fe22f424c94ab10313031c
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.4		ab76d6dd5506ab0ac16f62bc7e2cbb3a3c6e3144
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.5		ae750ef06857728c246da8eb5040030b81904daf
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.6		1b38291331d4f2a044d02205e9ffd0dd6d2c6e1f
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.7		1c415fd683f53bee52f913d4f36ff88b044c86bf
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.8		406b8354efc2ce3139fb05c6fde623fe6a9eec7d
+org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.45.9		9bbc6b265de1e99aa47bc955e31b258787e1df75
 org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.5.0		579ab8ac6613f34d94b306e36b9a52e2de3b147f
 org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.6.0		11a5357ef21d1b5ebce1de4149f9c558296e9083
 org.eclipse.dirigible	dirigible-components-ui-editor-extensions	11.6.1		8d642df2f565adbdfa8e270a45e312e281e123d7
@@ -2566,6 +2589,9 @@ org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	6.6.0.0		82959dd0085cf22cae
 org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	6.6.0.1		41bf472f9d949a15b2f821abc3ca66dc0eb881f2
 org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	6.6.1.0		b470e6f0c6b13a6c611f9fa39e9b45dc58bec32f
 org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	6.7.0.0		8b349cde2330018057aed4174c441f7e5058ba50
+org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	6.8.0.0		df5c713fca1d55446973acdc9bd63a256cd0d104
+org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	6.8.1.0		2cbd8f50e384943c7aa5458e1b6a6edddf9d2371
+org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	6.9.0.0		c8bce73bd96cd56179ee97bfb6c3911a60d3dc35
 org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	v6.3.0.0		7b44a785ced4d6f2b12a706670a791385a99140d
 org.http4k	http4k-connect-amazon-cloudwatchlogs-fake	v6.4.1.0		2d5450025948408799f1706438ef14f25994c473
 org.json4s	json4s-scalaz_2.12.0-RC1	3.4.1		73cf6191077c829af59911f13feca7f6d7731346
@@ -2711,6 +2737,7 @@ org.restcomm.smpp	ch-sxmp	7.0.6		f48493e43935c18b5b034a0768ec8270a5042bd0
 org.scalatra	scalatra-compat-jakarta_3	3.1.0		e6bab6b2d68af67d4e48c78c1d93e8a1da8eafa5
 org.scalatra	scalatra-compat-jakarta_3	3.1.0-M1		9025b029ae723c57b568dd6d077e355c86a9da92
 org.scalatra	scalatra-compat-jakarta_3	3.1.1		0ecb76210325918b73484a27b2b1dbed7d4966ab
+org.scalatra	scalatra-compat-jakarta_3	3.1.2		fa960d34888d538eb16b99a5733b025042f60b78
 org.scalatra.scalate	scalate-util_2.13.0-M5	1.9.1		13bf0b9e26f7fcb61b24ca8389d818fac22e9d81
 org.scalatra.scalate	scalate-util_2.13.0-M5	1.9.1-RC1		677229674dc7443c10d315bced8a9acb74067a98
 org.smallmind	schema-validation-plugin	2.0.1		7c206bb39250dab602e3638e31b378c08d31a687

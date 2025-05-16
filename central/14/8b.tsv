@@ -15,6 +15,7 @@ ai.djl.tablesaw	tablesaw	0.30.0		b3c0dc40f6f885d614b8d5c046ea1e84731c6564
 ai.djl.tablesaw	tablesaw	0.31.0		18d5629f65d10b24414b5b1ffc6e6c67cd84f943
 ai.djl.tablesaw	tablesaw	0.31.1		8ac8f7185600b230adf3bfd307e278d39d5cff5c
 ai.djl.tablesaw	tablesaw	0.32.0		ee02288617b02b6a2aa32d7cc661e38b94a648c2
+ai.djl.tablesaw	tablesaw	0.33.0		4b0a515a09a9583f258408c8fa1095a1330efc9d
 cn.fossc.polaris.framework	polaris-framework-module-infra	3.0.1		7504013dc3c782480a2628284e37d5219771b5dd
 cn.fossc.polaris.framework	polaris-framework-module-infra	3.0.10		462623001a47cf9ba05198db00ce2829388c3a6b
 cn.fossc.polaris.framework	polaris-framework-module-infra	3.0.11		16aed8aa436c7aa7a64821cd44a7e39535c6840e
@@ -921,6 +922,7 @@ dev.elide	elide-core-tvossimulatorarm64	1.0.0-alpha8		N/A
 dev.elide	elide-core-tvossimulatorarm64	1.0.0-alpha8	metadata	426b1cec1208864747016a968ccbd1efc1462189
 dev.elide	elide-core-tvossimulatorarm64	1.0.0-alpha9		N/A
 dev.elide	elide-core-tvossimulatorarm64	1.0.0-alpha9	metadata	426b1cec1208864747016a968ccbd1efc1462189
+dev.langchain4j	langchain4j-http-client	1.0.0		c92da02cc675bd7855f526ee1bb3573c34f7324b
 dev.langchain4j	langchain4j-http-client	1.0.0-beta1		bcba254451c4e412fd8b28ec28a146c89788903f
 dev.langchain4j	langchain4j-http-client	1.0.0-beta2		941c7fa56702a2b72ce6de9b73c859af527b21db
 dev.langchain4j	langchain4j-http-client	1.0.0-beta3		d0705b683647142a56bf5a5791b9128aad6c32ca
@@ -1094,6 +1096,7 @@ io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.13.2-a
 io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.13.3-alpha		ef2514b02e39a64e0024fb426a008b1d4e7ca298
 io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.14.0-alpha		27c89ef0bb4e7f10090cc87ab991d39994ad1c2c
 io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.15.0-alpha		19b89d0f1e1704f733de4e233467631f38920c58
+io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.16.0-alpha		f72e0525bf84681bfea6e537e2011915d8696ee0
 io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.2.0-alpha		ef5284a08c9fa2e19bc4636f1627832aa273d9c4
 io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.3.0-alpha		1b1540f3bcaf32a779266f62962c8d61f49d34c0
 io.opentelemetry.instrumentation	opentelemetry-runtime-telemetry-java17	2.4.0-alpha		e6515442d3660f3c8a2db1d8f4efb355ba0fcd17
@@ -1880,6 +1883,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-preview	11.41.1		d8edda4e152c
 org.eclipse.dirigible	dirigible-components-ui-view-preview	11.42.0		d54d026901c359b69b90ec85596bfff4f71b0c03
 org.eclipse.dirigible	dirigible-components-ui-view-preview	11.43.0		c14d59f6a26de7c7e492d460bdbc40337a95465a
 org.eclipse.dirigible	dirigible-components-ui-view-preview	11.44.0		da593104f827580af7acf502bcc7e0078842d0fe
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.0		fcec2964b7301d48be5a48b6c6d66230368d0099
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.1		4ddb42544ccf717f38a6ada598f4b79e85b59d38
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.10		c5936d34dbb4e99793f76f424e2108c6a69fe767
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.11		aade9cafe99cc795bfd8f6cf48ae614d87e3af89
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.12		b3544dca457589270eec5dca0f7bd6c440f5b6f9
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.13		ad0721f063b4710c200566ac2b3a94a51d350872
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.3		e86a3e55c2884214da2380b5858e03ba236b9b79
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.4		57142171ae7e4e48caef0deebc16c72e90628455
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.5		bf81260546d50354d3915ebc2c5941e472950371
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.6		ce7d78e100b3d09161a46bec7319ca5636daccd2
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.7		cebc913877393616a6a59791f77784d7f1e63679
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.8		def770eef74136b988c086e7ee00308ac01688b4
+org.eclipse.dirigible	dirigible-components-ui-view-preview	11.45.9		c441165140a7a93a708fe7a775eac863fc57b508
 org.eclipse.dirigible	dirigible-components-ui-view-preview	11.5.0		18beea043cdefdb4ad2bd3d042189743729c9707
 org.eclipse.dirigible	dirigible-components-ui-view-preview	11.6.0		02ab35e405f93dacb24f2c5e3f0dc0c550408234
 org.eclipse.dirigible	dirigible-components-ui-view-preview	11.6.1		b87fd50a65e2c523199781d0c2ba8df7bc10051c
@@ -2814,6 +2830,8 @@ org.xwiki.commons	xwiki-commons-legacy-component-api	16.10.3		0640df2e313508deca
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.10.4		dc74f339e4e901ea6857f9c29da06f817ce41ade
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.10.5		c039dc7b8ab25f8e31b6836761a622e3de5b021b
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.10.6		0cb06eba304841f6576b7db6fae5fe0b91b5fad0
+org.xwiki.commons	xwiki-commons-legacy-component-api	16.10.7		f66528d782ff3ae969c0d3125a37bcbc5f345f97
+org.xwiki.commons	xwiki-commons-legacy-component-api	16.10.8		1b649a0821a4ef26162fd2aa9808b30c9cabe192
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.2.0		1b12c9d4aa5acb33a4be34c81ca1b4a9abd47ef8
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.2.0-rc-1		8ad3ce489e9907d38bfeee09d25941714992755a
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.3.0		848324ed5c8caa694cba0f59cf90df56ed9596af
@@ -2828,6 +2846,7 @@ org.xwiki.commons	xwiki-commons-legacy-component-api	16.4.4		c561d7628764cc609a0
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.4.5		b56e212ca19e84dffa46d7b1f11fb559985e5e8b
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.4.6		a54bd7917cb25d1d1425b179e577687b5ffbd0b5
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.4.7		d202e0848bd5e2ef8e11e00aebf26ae42e776e9e
+org.xwiki.commons	xwiki-commons-legacy-component-api	16.4.8		be2c7bc504d4cd1f433f04064c941799c76593fe
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.5.0		0a9bf05caf6be01ba29ec157344319d338e7ff18
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.5.0-rc-1		a4598b6408177664ce171790fa78dccc82a31a29
 org.xwiki.commons	xwiki-commons-legacy-component-api	16.6.0		2867e907b355e47edb9d098c4e1108b5cafeee0f

@@ -472,7 +472,16 @@ aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.73		dfa7cae7ea42fe8f611ff2ec
 aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.74		5f58c7389fe9a6d5ab2e14dd6d30121db1df13ec
 aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.75		a9ab0f878aa7dfdf15fadb246e2755e57a481bb1
 aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.76		c09401c1f76e5c2f8ebb6be4776603956a8432ac
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.77		391056daf13eadc75f0b1c13fc5e6fb9b80ca386
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.78		199bd13f9d9de390c72df6ad1fddb321b821a630
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.79		077a6ee2ac601b8c4535509d6c3c3255a8d70514
 aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.8		1e82ee6b285fbb8fffe783ce2e2db931aa4fe1f7
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.80		ad1dcdbb9c2ac06c8959b0e5d72ff9d3fe076155
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.81		cf7a85edc36194b3eb32179ca2cdc780048baf7c
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.82		6b43dff55aa2b3f4f6580cf579898d0c59ebaf07
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.83		6da438c11b2e249db6e4e0c1cd3c8d18031f55b5
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.84		939174d4f7b4b6e8b3a50d2ae12c95ae7eb4fecc
+aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.85		74129f7c3f400fda97fa884e64fdd830a131f608
 aws.sdk.kotlin	sagemakerfeaturestoreruntime-jvm	1.4.9		ac9ac562ff5117212fbae0b2bee320deb86fc257
 ch.epfl.scala	scala-debug-adapter_2.13	3.0.7		45e025fd5d76f619a6d6d25f53fa2267720ee050
 ch.epfl.scala	scala-debug-adapter_2.13	3.0.8		4a6ea3eace0433670d4a0eb92a7c9114712b10a5
@@ -1176,6 +1185,7 @@ me.ahoo.cosec	cosec-social	2.13.1		404a99675055c7ef41ade92fbbb5511a22c42b63
 me.ahoo.cosec	cosec-social	2.13.2		ff3175a36d09f85cfeb2e622b68c11957ad82747
 me.ahoo.cosec	cosec-social	2.13.3		b66d06eb8a42a4b1ed1f64a3c663ee6f0add8c9e
 me.ahoo.cosec	cosec-social	2.13.5		1de5aa50e25728b730a907a5857ea5d3918ad055
+me.ahoo.cosec	cosec-social	2.13.6		b8f55cecc6ac0a41e1f7af956ed096ed02863515
 me.ahoo.cosec	cosec-social	2.6.0		a1e2dcf2bd4a2f50afa7e3d8dd746e5291c705e9
 me.ahoo.cosec	cosec-social	2.6.10		fae6825da7c5e1423280d7e1856fbcbd4bae0146
 me.ahoo.cosec	cosec-social	2.6.2		8487ead4be654c1817b883d67d330ffcc91bf996
@@ -1463,6 +1473,7 @@ org.apache.tomcat	tomcat-websocket-api	10.1.36		a3bb064244e62af37967df1e433a8166
 org.apache.tomcat	tomcat-websocket-api	10.1.39		ef956c6739ae1c1cf1153e86168f6062449dda8c
 org.apache.tomcat	tomcat-websocket-api	10.1.4		58174f0844293300df77c9c910cea4dbac2446fc
 org.apache.tomcat	tomcat-websocket-api	10.1.40		1a486d119fddff0eada1b2fb164e0898d21cdc58
+org.apache.tomcat	tomcat-websocket-api	10.1.41		8bcaa2c69c2e093873c480e85f0acaa4272fdaf3
 org.apache.tomcat	tomcat-websocket-api	10.1.5		b6a6f065031a9633386670572df08049479f0f9b
 org.apache.tomcat	tomcat-websocket-api	10.1.6		eb68d800f21bffd74c3b754869246f74c84656c3
 org.apache.tomcat	tomcat-websocket-api	10.1.7		9648a5442c45e3592ae636b962376c8cafc95e4e
@@ -1498,6 +1509,7 @@ org.apache.tomcat	tomcat-websocket-api	11.0.3		48122bb94198f1d051031693ff934c372
 org.apache.tomcat	tomcat-websocket-api	11.0.4		c839bf6567b51aa0a71761db9fe1e49483450b3d
 org.apache.tomcat	tomcat-websocket-api	11.0.5		b0875cc5d9b9ec44604aac5c669194d3fea6f42f
 org.apache.tomcat	tomcat-websocket-api	11.0.6		b1251e23156b75b8c09cb9fef7cc90d1445b8354
+org.apache.tomcat	tomcat-websocket-api	11.0.7		fbfe9f08c72ad4017a355fb53b68141b3e32022c
 org.apache.tomcat	tomcat-websocket-api	7.0.100		cd2cadaa4897255c436d53b7020e4f38197ba3da
 org.apache.tomcat	tomcat-websocket-api	7.0.103		fe223772eae91031c15cf4a86582a4511d06128e
 org.apache.tomcat	tomcat-websocket-api	7.0.104		d7dd8211d64da8b0b9b9aadd457a7eb83b738dad
@@ -1698,6 +1710,7 @@ org.apache.tomcat	tomcat-websocket-api	9.0.10		3922c31b2597729d955e7d7a21a4e88c0
 org.apache.tomcat	tomcat-websocket-api	9.0.100		01fdecad5ea8392727aaebab26bbf20725a656d2
 org.apache.tomcat	tomcat-websocket-api	9.0.102		a7f62c2d4650e00d40e756c8a1ea898d1268aa4f
 org.apache.tomcat	tomcat-websocket-api	9.0.104		9b28a8b293970234d067a306b1731caca431b170
+org.apache.tomcat	tomcat-websocket-api	9.0.105		8d65dd5f78b1342bfacefad188c585fe9e1793d5
 org.apache.tomcat	tomcat-websocket-api	9.0.11		8823070060f54643e3bb63f8c90afe539b975305
 org.apache.tomcat	tomcat-websocket-api	9.0.12		e2ee346cbb44e3a0c1e711f0e808693aa1f6bb04
 org.apache.tomcat	tomcat-websocket-api	9.0.13		f50aeba1f3ce41330b2347eae34e83133912590b
@@ -3422,7 +3435,18 @@ software.amazon.awssdk	codegurureviewer	2.31.30		d56e9e7abe8603c46b285f35ad7db5c
 software.amazon.awssdk	codegurureviewer	2.31.31		a3656e5079cd2ccded4fae0392b190fcb7c21fa4
 software.amazon.awssdk	codegurureviewer	2.31.32		94e2c264a47c6571a363144c181d3755b203d410
 software.amazon.awssdk	codegurureviewer	2.31.33		fb4892805b518c80ae1c4e590b79aeda36e90d83
+software.amazon.awssdk	codegurureviewer	2.31.34		c0c1ca32990eb1850abc85655cb0e0056f67d132
+software.amazon.awssdk	codegurureviewer	2.31.35		a2a9d87d1fda4f85b8eaec21247850f760a9a7ea
+software.amazon.awssdk	codegurureviewer	2.31.36		17542e4ccfa778690c2b9897df927dcb9223671f
+software.amazon.awssdk	codegurureviewer	2.31.37		02394e1140bf4608ff2b6d88cf879f31f822f2f5
+software.amazon.awssdk	codegurureviewer	2.31.38		382a6c14ca75511b8d1a7c4db8ca780dbe0e4802
+software.amazon.awssdk	codegurureviewer	2.31.39		05b94c72bc5cf52ac4ca6deb4b5c0dd98803872d
 software.amazon.awssdk	codegurureviewer	2.31.4		fccf0e1b47813cf2f7cbed42ec43d16176d09f90
+software.amazon.awssdk	codegurureviewer	2.31.40		a67737e5876338fdbe83253af093a40a933b43c6
+software.amazon.awssdk	codegurureviewer	2.31.41		dafd3518a0aa358e3dc7ca8f092d219d61491947
+software.amazon.awssdk	codegurureviewer	2.31.42		7048c3536bfcbda823d410849005087430a52c70
+software.amazon.awssdk	codegurureviewer	2.31.43		eb50d142d014bdcfb44c84dfef192376f9e73b11
+software.amazon.awssdk	codegurureviewer	2.31.44		e3f7f25b94a6ec5061a12b8cd7172e42e98e7bb7
 software.amazon.awssdk	codegurureviewer	2.31.5		1f6f86849f6c0968c77632f1ee97fc6132befbc0
 software.amazon.awssdk	codegurureviewer	2.31.6		f05c67ea18e6bc1c8ebfff2717dc659c7d8ba518
 software.amazon.awssdk	codegurureviewer	2.31.7		4ac28aca7832e8d4ca2f79a1a01ec086b7e30096

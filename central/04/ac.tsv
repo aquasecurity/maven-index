@@ -84,6 +84,7 @@ com.exasol	project-keeper-core	4.4.0		44f5ceab0ce72fd48ed2fbe52555ef60a5274b29
 com.exasol	project-keeper-core	4.5.0		5b955dd926baea267b395a0320264213be01c6ed
 com.exasol	project-keeper-core	5.0.0		f8b114756657bce6c81c86c6ece5f112ae7bd6e7
 com.exasol	project-keeper-core	5.0.1		f11e71f696118bf7dc1994a343f8cdf0abdefc94
+com.exasol	project-keeper-core	5.1.0		bfdb7161597720c02363a66321d4ac98dcdfc5dd
 com.feingto	feingto-plugin	2.0.1.RELEASE		4ac42d222c0c362b45e470206fef3dd296810f7e
 com.feingto	feingto-plugin	2.0.2.RELEASE		ccab8febe0466263409300da6e3743cedcbb6e1b
 com.feingto	feingto-plugin	2.0.5.RELEASE		c88d8f534390239efeb35bbb29a210b43b212783
@@ -623,6 +624,8 @@ com.vaadin	vaadin-tabs-flow	23.5.12		b69ae084608fd7e2aabaee607f2a17afeb1aad2a
 com.vaadin	vaadin-tabs-flow	23.5.13		41a9f2b311c5778cbac6f0aba695fefcf5c1106e
 com.vaadin	vaadin-tabs-flow	23.5.14		4ef94aa1fb310fa916c32483cacd00644153712b
 com.vaadin	vaadin-tabs-flow	23.5.15		f1bd6e9bf1567d93a0648e0530bb1315db2ee94f
+com.vaadin	vaadin-tabs-flow	23.5.16		4cdb676b20aa50416aaa701ea45d98541cfcde44
+com.vaadin	vaadin-tabs-flow	23.5.17		8157599e6efdce2f757c4dbafffe7d69a3ff1b50
 com.vaadin	vaadin-tabs-flow	23.5.2		f665e27c8d633e45c2f71ceeeae1e98b44516825
 com.vaadin	vaadin-tabs-flow	23.5.3		acd6bab9be1d6d5a55457da675dcc268066b2889
 com.vaadin	vaadin-tabs-flow	23.5.4		e4d5cba591a62f114aff1581b38f8b6c70a65484
@@ -737,6 +740,7 @@ com.vaadin	vaadin-tabs-flow	24.5.8		f1aa0e5beb2a9fddfc63d9d3be804c6cbb263c22
 com.vaadin	vaadin-tabs-flow	24.5.9		bb038465363eae0341abd3c0fdf0488c8bf7e2ab
 com.vaadin	vaadin-tabs-flow	24.6.0		e7cafe3164521815598470dac96358d29a233817
 com.vaadin	vaadin-tabs-flow	24.6.1		0157a3d0a60a1f03c34b2fa19cd0b5e54df7f41c
+com.vaadin	vaadin-tabs-flow	24.6.10		39a36ff7731e56f3a049a42e4354d6dbb6158e73
 com.vaadin	vaadin-tabs-flow	24.6.2		3d7a9d60b13b4342b861015e0745e895ef6b94a1
 com.vaadin	vaadin-tabs-flow	24.6.3		13d8fec6d5b503c65ba478ced27d83be65c716cb
 com.vaadin	vaadin-tabs-flow	24.6.4		151d084400e7f62f425e83c4a2ddefdfb53f7373
@@ -749,6 +753,7 @@ com.vaadin	vaadin-tabs-flow	24.7.0		432ff19628cc236783bb6f3f878e48f95e8410d2
 com.vaadin	vaadin-tabs-flow	24.7.1		66ec00fd133ce3ee8c6fee21bf17a3157386b848
 com.vaadin	vaadin-tabs-flow	24.7.2		a52de511c4c6f694f034461d4b66a28ed4fd22cd
 com.vaadin	vaadin-tabs-flow	24.7.3		b3b37bc08c256bf1827d522f81d9026c28c56f4a
+com.vaadin	vaadin-tabs-flow	24.7.4		5cc11d2cdab6e2f4409161c149389ff5b7c81103
 com.vaadin	vaadin-tabs-flow	3.0.0		507f68ae91850b73d35d8e0ce25089cf470fab2a
 com.vaadin	vaadin-tabs-flow	3.1.0		431b1542ea045a80e76ff2c880f0b9816e9c7477
 com.vaadin	vaadin-tabs-flow	4.0.0		8d3d1c9c72094c9bcfb370b355c5a5815357a36a
@@ -1136,10 +1141,17 @@ org.finos.legend.engine	legend-engine-shared-structures	4.79.0		058ff21fdffb091d
 org.finos.legend.engine	legend-engine-shared-structures	4.80.0		6ff54650949e245d4dcc422ea742508cd95b7766
 org.finos.legend.engine	legend-engine-shared-structures	4.81.0		2137e9dafd471e559b1fff4c808e43152aac0097
 org.finos.legend.engine	legend-engine-shared-structures	4.82.0		805dad1c02e9860d2dd93c7b9b057ff8d395120d
+org.finos.legend.engine	legend-engine-shared-structures	4.82.1		06710433f5c00e09b7da514c5263accbf14c51d4
 org.finos.legend.engine	legend-engine-shared-structures	4.83.0		1558a2c44ab7046d29604cc5c5d4c5befc529e3d
 org.finos.legend.engine	legend-engine-shared-structures	4.83.1		afcd97c2b22abdde1088c652ee30946a43fbe218
 org.finos.legend.engine	legend-engine-shared-structures	4.83.2		a73693b0d4ef3b7fe85a2e484d200c03a46427ab
 org.finos.legend.engine	legend-engine-shared-structures	4.83.3		6a195ac8f01391b0167efedfc80b57a135767ff0
+org.finos.legend.engine	legend-engine-shared-structures	4.84.0		2514b2a584d9d3bfe3c0b7cfcdb335e10ba55630
+org.finos.legend.engine	legend-engine-shared-structures	4.84.1		a15a9aeeeb753727d2c2ce229c7f5c6de46964ba
+org.finos.legend.engine	legend-engine-shared-structures	4.85.0		a52d02027e7566014bed1babcc32c19211e5d333
+org.finos.legend.engine	legend-engine-shared-structures	4.85.1		c0bf70ee2c1fbde23b738dc535a55dcb8e78c542
+org.finos.legend.engine	legend-engine-shared-structures	4.85.2		22ce3fcc577144ae362b7fdbaac15de9311356a9
+org.finos.legend.engine	legend-engine-shared-structures	4.85.3		4849ef11146d65cadcb92eab4498b45b5c4000ca
 org.geckoprojects.search	org.apache.lucene.join	9.11.1		BAFB29EAE152B69B527F3188125793871AFB4338
 org.geckoprojects.search	org.apache.lucene.join	9.5.0		3B00786F90C4DCD34CB07CA4C642F1E3193CC6D1
 org.geckoprojects.search	org.apache.lucene.join	9.6.0		5EEED9FE312704C1AEE4870B26CB0B2AD3542C1B

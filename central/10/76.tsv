@@ -167,6 +167,8 @@ com.datalogics.pdfl	forms-extension	18.44.0		b2ace98e067a2bfd7d926f92860f05b55fd
 com.datalogics.pdfl	forms-extension	18.45.0		f5bba70b2f5be37353e6c4bbc4cf4b3d83eca24c
 com.datalogics.pdfl	forms-extension	18.46.0		4d8e5cc568143ce924a164c6d5e0a7404749d814
 com.datalogics.pdfl	forms-extension	18.47.0		2148ef8b25d2b51933812feec7dd601a6620bcef
+com.datalogics.pdfl	forms-extension	18.48.0		5b65663a4249192a6182b282bef18164fafc33c5
+com.datalogics.pdfl	forms-extension	18.49.0		8e327f2feb5a9af4ab6cab931c4eafc78cdedd13
 com.dncomponents.tea.core	bootstrap-ui	3.0.0-alpha-1		4608c70db5622976c8cef115a9c35df0d7aff66b
 com.dncomponents.tea.core	bootstrap-ui	3.0.0-alpha-2		20e2eb5a743cecc1c1fd272e0df8022e931d7b29
 com.dncomponents.tea.core	bootstrap-ui	3.0.0-alpha-3		2951bf4a3763ae0b3e4d42d73c7bfd562299471b
@@ -278,6 +280,7 @@ com.johnsnowlabs.nlp	spark-nlp-aarch64_2.12	5.5.1		2131090b5cf4509d5d41b723580f5
 com.johnsnowlabs.nlp	spark-nlp-aarch64_2.12	5.5.2		a0e74041716c1fc96c5739b411bc6111a4f556f6
 com.johnsnowlabs.nlp	spark-nlp-aarch64_2.12	5.5.3		059b6ee990d70d68ba2204288930fde571091965
 com.johnsnowlabs.nlp	spark-nlp-aarch64_2.12	6.0.0		42072a687ff1924ef57a127bf05bd2311a0ca025
+com.johnsnowlabs.nlp	spark-nlp-aarch64_2.12	6.0.1		00e156936458de2a3729be1f5334fa495cf2ffcd
 com.kevel	apso-encryption_3	0.21.1		d46fb43c3f04eeeb6c98161e6b1ee305da06f866
 com.kevel	apso-encryption_3	0.22.0		63217b937ade45c6d386ab3a2159d0e5ccfef7b1
 com.kevel	apso-encryption_3	0.22.1		3f1e61353819bac37d27c7f72bd3d056587ef181
@@ -922,6 +925,14 @@ com.salesforce.datacloud	jdbc-proto	0.25.5		6fa040e161184fdcb5d52179654892d3f470
 com.salesforce.datacloud	jdbc-proto	0.25.6		6fa040e161184fdcb5d52179654892d3f47088ff
 com.salesforce.datacloud	jdbc-proto	0.25.7		6fa040e161184fdcb5d52179654892d3f47088ff
 com.salesforce.datacloud	jdbc-proto	0.26.0		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.26.1		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.26.2		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.26.3		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.26.4		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.27.0		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.28.0		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.28.1		6fa040e161184fdcb5d52179654892d3f47088ff
+com.salesforce.datacloud	jdbc-proto	0.28.2		6fa040e161184fdcb5d52179654892d3f47088ff
 com.sksamuel.scrimage	scrimage-io-extra_2.11	2.1.0		193d4dd4ec9942026c93cdf486ad4b03d2ff4d0f
 com.sksamuel.scrimage	scrimage-io-extra_2.11	2.1.1		fe0180a140b50d96ee5fa1d4a5b9fe8c4f76ed7e
 com.sksamuel.scrimage	scrimage-io-extra_2.11	2.1.2		d06efdabf26ee9220add6d3319cd1c4a0ea0ffdb
@@ -1280,6 +1291,7 @@ dev.zio	zio-aws-identitystore_2.12	7.31.27.1		63729b54daa67f342bfd844410d2f33f65
 dev.zio	zio-aws-identitystore_2.12	7.31.28.1		64be602af58a47f0e6d739c46a1aa6b482abbfe6
 dev.zio	zio-aws-identitystore_2.12	7.31.3.1		064de423cfe1d09f15beb3ec4b2f84360d1e824a
 dev.zio	zio-aws-identitystore_2.12	7.31.30.1		2943a11ba505db7172558684920ab0cf7b3db5cc
+dev.zio	zio-aws-identitystore_2.12	7.31.30.2		e00a67f60952b07764624fc38e1f0903393750ff
 dev.zio	zio-aws-identitystore_2.12	7.31.4.1		1d220b1833ac050accdd96114fc5b6df8f238636
 dev.zio	zio-aws-identitystore_2.12	7.31.6.1		6d2d710276cfc79cc4ece1914de50e75c968fe34
 dev.zio	zio-aws-identitystore_2.12	7.31.6.2		81b3903ac64eccef9f24add6b5821bf65d1a571c
@@ -1436,6 +1448,7 @@ dev.zio	zio-aws-sagemakergeospatial_3	7.31.27.1		7b1b98d13677fbca5581ac2a5fcd238
 dev.zio	zio-aws-sagemakergeospatial_3	7.31.28.1		81fd873e735df8a493892622fed3c5bcb6ee8cda
 dev.zio	zio-aws-sagemakergeospatial_3	7.31.3.1		745a1efd12882aaf5f4bf5f83efd9ed0a2ed1190
 dev.zio	zio-aws-sagemakergeospatial_3	7.31.30.1		50bc6c31a63a0715d15e8f971b2178826652eaa3
+dev.zio	zio-aws-sagemakergeospatial_3	7.31.30.2		363872b89e084595070591bb4bdaa8459981e4cd
 dev.zio	zio-aws-sagemakergeospatial_3	7.31.4.1		66dac54b51d5b9f86ff52a46d1a971c18c6b8ac2
 dev.zio	zio-aws-sagemakergeospatial_3	7.31.6.1		964a617d109bbba7683db81fba1e93bfe6a2ccee
 dev.zio	zio-aws-sagemakergeospatial_3	7.31.6.2		f33eb6cc47932d0d7a921abb0b095abda7ba809c
@@ -1607,6 +1620,9 @@ it.agilelab	wasp-model_2.12	2.35.0-emr212		9ec60a77389fbf6106d31dfcb6a9bdce4d4df
 it.agilelab	wasp-model_2.12	2.35.0-emr613		0a98860b3d88d834dd72e912b8aba3596a265a25
 it.agilelab	wasp-model_2.12	2.36.0		1eaed1db8b62e40d8b1c53f3ac4af381c88194c2
 it.agilelab	wasp-model_2.12	2.36.0-emr613		519162569542c02ed11086d0f2f3d8e242ce5a56
+it.agilelab	wasp-model_2.12	3.0.0		bc6e8f6bf1f2307c0069cdc280bd1a90ed9895af
+it.agilelab	wasp-model_2.12	3.0.0-3_3		b749694be032c2d0f3f23610385671a573327ab0
+it.agilelab	wasp-model_2.12	3.0.0-3_5		960fdae2b5eccb7cf152ed86ba924b956b04cbf7
 kr.ikhoon.armeria	armeria-grpc-protocol	0.1.0-beta2		9ed9ca2c9be3a64c14f61505db09879090ce9dee
 kr.ikhoon.armeria	armeria-grpc-protocol	0.1.0-rc1		75e017f8c6c4f1cbdd3bf72f0dbaf134c8512816
 me.lucko	adventure-platform-bukkit	4.0.0		50f3ebe40c1a6cd63300d8c6ffc6dfafdd59c4e3
@@ -2055,6 +2071,7 @@ org.apereo.cas	cas-server-core-cookie	7.2.0-RC6		e5a744c5e449abec374a81210702209
 org.apereo.cas	cas-server-core-cookie	7.2.0-RC6	resources	47e542faf6a2bfa402704a1dd4cfc58243a4ef34
 org.apereo.cas	cas-server-core-cookie	7.2.1		09386391c070bf93bd109f68b14e9b8b924a00a0
 org.apereo.cas	cas-server-core-cookie	7.2.1	resources	edb04f1dd541a00bbfc2c26b81ee93e878596e50
+org.apereo.cas	cas-server-core-cookie	7.2.2		f5a33284de86e010084dde94cd5ffe6f7d76d56e
 org.apereo.cas	cas-server-core-cookie	7.3.0-RC1		80b840458682904050c242659aa094668975358c
 org.apereo.cas	cas-server-core-cookie	7.3.0-RC1	resources	c89dc7f8f87850b2fe934f1e03023234cbf87b20
 org.apereo.cas	cas-server-core-cookie	v6.4.0-RC5		085f7eb503664e2bd1b9d6aaa8619ef4763dc73f

@@ -424,6 +424,7 @@ io.deephaven	deephaven-extensions-trackedfile	0.37.5		7b0fea7f4639e598a1655f5801
 io.deephaven	deephaven-extensions-trackedfile	0.37.6		eb1858838a90e940eab4256bbc79a6d827cc2928
 io.deephaven	deephaven-extensions-trackedfile	0.38.0		263ef1d2b4500a8f917c440c1f983f7e1a7c996e
 io.deephaven	deephaven-extensions-trackedfile	0.39.0		f0ed7c4dcc945475b42a895b93685b4faaab972a
+io.deephaven	deephaven-extensions-trackedfile	0.39.1		6ac96664d95fcc0c2d60bbba736de8c88baa5f21
 io.github.dawdler-series	dawdler-boot-server-dependencies	1.0.2-jdk1.8-RELEASES		N/A
 io.github.dawdler-series	dawdler-boot-server-dependencies	1.0.2-jdk17-RELEASES		N/A
 io.github.dawdler-series	dawdler-boot-server-dependencies	1.0.2-jdk21-RELEASES		N/A
@@ -484,6 +485,7 @@ io.github.wooenrico	kafka	1.0.1.RC2		a286b271c929f2893ccf57ede8c08a0092ab1e9f
 io.github.wooenrico	kafka	1.0.10		af1121a70eceb8fe5c38d548ea300a711df38b62
 io.github.wooenrico	kafka	1.0.10.RC1		9c3d36f0c636961bea1e00abde2aebd5d0275da2
 io.github.wooenrico	kafka	1.0.10.RC2		e1583b3131527875fce3505ab9dec9c9081a51fe
+io.github.wooenrico	kafka	1.0.11.RC1		f4b5cfc17a517c65216899778499fc81cabf35d1
 io.github.wooenrico	kafka	1.0.2		ee24a3c1f42e9ea635cc2a91bc7eef849b05163e
 io.github.wooenrico	kafka	1.0.2.1		041c739181261ed695aae4fe259081b5e1d36660
 io.github.wooenrico	kafka	1.0.2.RC0		bfae8005abfa124e463e50c4487cad213ef24f55
@@ -526,6 +528,7 @@ io.imqa	imqa-plugin	0.1		72a9b619100defe3cc184577c4f25d4908a4ec1d
 io.mokamint	io-mokamint-application-messages-api	1.0.0		cf10d76d3ac494b25a0f20b727209a48b49d37f5
 io.mokamint	io-mokamint-application-messages-api	1.1.0		d8d6e72606f5556a6f98affb4e77fa6dd24d8c85
 io.mokamint	io-mokamint-application-messages-api	1.2.0		2c1e4457c7371a54fbe2fe5806b2c27c38a4fbc3
+io.mokamint	io-mokamint-application-messages-api	1.2.1		b711f42398cd3fa820f5a0459d1e893d11104d0b
 io.monix	minitest-laws_sjs1_3.0.0-RC2	2.9.4		ae854ea11d3ec947d3da7b5d48b5b5c8a59d6062
 io.monix	minitest-laws_sjs1_3.0.0-RC2	2.9.5		e9e67454750ba287d85e2e3a534e777594a83823
 io.spinnaker.halyard	halyard-config	1.45.0		6b3a1d2af9fe3b3a097d2532327b2fcd7fc24c22
@@ -556,11 +559,19 @@ io.spinnaker.halyard	halyard-config	1.69.0		4081fb89706798db4b6143f1885308249423
 io.spinnaker.halyard	halyard-config	1.70.0		981efa83aae8f8724618a262de57ac3329ff0ad5
 io.spinnaker.halyard	halyard-config	2025.0-0		f67a96ca65361bd7402f3a4118355e396fb25bfd
 io.spinnaker.halyard	halyard-config	2025.0-1		aa70c30c09ab653daa833ccd319c5e6f51e03f32
+io.spinnaker.halyard	halyard-config	2025.0-2		dbf79e8a2f43f2ac75e0b585b7c1b157006575a2
+io.spinnaker.halyard	halyard-config	2025.0-3		8416c5503c1f0c79044a5285ff9f8401f9bad1d1
+io.spinnaker.halyard	halyard-config	2025.0-4		a336c0a6a5bcc24a1c9c9e1aa4fd1583f398c93e
 io.spinnaker.halyard	halyard-config	2025.0.0		5ace32abfe5d926fdd001f7e10f1853f432bd711
+io.spinnaker.halyard	halyard-config	2025.0.1		3dd355bede11f079da5d902868f598a3643cc133
+io.spinnaker.halyard	halyard-config	main-10		a0b88bfe0ad559fc18ebc3417720bf477a46e91b
+io.spinnaker.halyard	halyard-config	main-11		9a2a774d79238d3350adbc1e33f7e3b61e67694a
+io.spinnaker.halyard	halyard-config	main-12		6fe3bebec80c83f3f9411646bdb8c207a953dd3a
 io.spinnaker.halyard	halyard-config	main-5		a7a6e9f52e5903479b6f38c8c0f5ad0e42abedf9
 io.spinnaker.halyard	halyard-config	main-6		ad0f2e9dbde789e609017ed8766b662076bfaac5
 io.spinnaker.halyard	halyard-config	main-7		180047afb35cf9331a132f5ec4cb2fbbe13ad765
 io.spinnaker.halyard	halyard-config	main-8		7a9e77b4257fe7f8b0a86960fcc13fa998b693aa
+io.spinnaker.halyard	halyard-config	main-9		721c66903bf3a0c622df529e0234a644e011ca6f
 io.spinnaker.halyard	halyard-config	version-1.44.1		f6874b60b317b023ddba8d82441d14ffdf483fd5
 love.forte.simbot.component	simbot-component-onebot-v11-core-watchosx64	0.0.2		N/A
 love.forte.simbot.component	simbot-component-onebot-v11-core-watchosx64	0.0.2	metadata	306992ad7526354898280903aac96f9ad931628f

@@ -272,6 +272,7 @@ com.graphaware.neo4j	server-common	2.2.4.34		6eb3d92c2cb65cdfb961ec52413837fbe5a
 com.graphaware.neo4j	server-common	2.2.5.34		0bffe59fff9545f655f3083f399f16f741c6797c
 com.graphaware.neo4j	server-common	2.2.5.35		b283e2216e405a7328a3d16c3586e4a815805d54
 com.graphaware.neo4j	server-common	2.2.6.35		da523a4a5a87352a6580dfd10210271ad1f45c14
+com.gu	sbt-packages-to-directories_2.12_1.0	0.1.0		651b2edf5e3fb6bd089a4bf996793232109f6f79
 com.gutils	gpatch	0.0.1		N/A
 com.kasukusakura	brigadier-resscope	0.0.1		8e47d713c4a04aa432c0ae14b6b5972da7c88f77
 com.kumuluz.ee.testing	kumuluzee-arquillian-container	1.0.0		f10146189bdf4e6f8f31f5d7683dbed3528e8646
@@ -492,6 +493,9 @@ com.sparkutils	dmn-4-spark_14.0.dbr_3.5_2.12	0.0.1-RC2		2d44d1180f6017239c09b443
 com.sparkutils	dmn-4-spark_14.0.dbr_3.5_2.12	0.0.1-RC3		8cccf58062ecaf3e04c7cc94be92c168955cea7b
 com.sparkutils	dmn-4-spark_14.0.dbr_3.5_2.12	0.0.1-RC4		f4cf5a8b38f99bbea7c98388a459b4c9dc4aebc2
 com.sparkutils	dmn-4-spark_14.0.dbr_3.5_2.12	0.0.1-RC5		1e488319e2332709984d6679025547a641df29d1
+com.sparkutils	dmn-4-spark_14.0.dbr_3.5_2.12	0.0.1-RC6		201887d5c4d450a5c3ad17a51c0fd925124f2571
+com.sparkutils	dmn-4-spark_14.0.dbr_3.5_2.12	0.0.1-RC7		debb3fbd682cf95973994a9c31eca707135c22b8
+com.sparkutils	dmn-4-spark_14.0.dbr_3.5_2.12	0.0.1-RC8		af2ba616bd79acb7d210795068cbc8c418575721
 com.thoughtworks.extractor	extractor-scala_2.11	1.0.0		30a705ef2368e58a5a1fceca708f5cd72c141888
 com.treeyh.raindrop	raindrop-core	1.0.0		6d9ee70a67fa87de72ba0e63036b1497eefc1129
 com.typesafe.akka	akka-persistence-tck_2.13	2.5.23		f211b7cdfc1a44e524843aa87c65156d8b8b3fad
@@ -1474,7 +1478,14 @@ com.yahoo.vespa	defaults	8.511.14		4a15ee1c0e10a2b149c4cc94669c9019ec0a07de
 com.yahoo.vespa	defaults	8.512.63		aa246ccc8c046f6d3d7764e1ed3561e3df5e1ef1
 com.yahoo.vespa	defaults	8.513.17		9b0faae4e610526d3535c3a60ddfed796bb3fb96
 com.yahoo.vespa	defaults	8.514.24		fd65a7dd57ea6df89a0f75ba9fbedb664e35f7c2
+com.yahoo.vespa	defaults	8.515.40		2ca72856250d4e7abcf35244d9d651737f1d67fe
+com.yahoo.vespa	defaults	8.516.26		8044410275295541fe4076a182e41808c4587162
+com.yahoo.vespa	defaults	8.517.15		4297c5e67d9fbd033c099947b36aaf4936224658
+com.yahoo.vespa	defaults	8.518.4		b2f09b5115a27d4f87949c82f644226a991f6ca6
+com.yahoo.vespa	defaults	8.519.55		d7b21c286bf9e3d70bc877107e3ae3d7c49d661d
 com.yahoo.vespa	defaults	8.52.15		69e092319e916b9e6c90aa0083eee06b745caffe
+com.yahoo.vespa	defaults	8.520.18		ca4a6e4593fa6a50d80e1b2e408377f35e59f683
+com.yahoo.vespa	defaults	8.521.17		aa51dcf9df0dd0e36f3058cb87dff48f919b56c3
 com.yahoo.vespa	defaults	8.53.21		4228905bda794ce7ca845ff20cbbba0f632ff84c
 com.yahoo.vespa	defaults	8.54.61		20a9903b1bfdc24a1f53b5c3be0789dbdb392d22
 com.yahoo.vespa	defaults	8.56.20		2243dd0f1677db9174656b4c48923fe5fcae0aa9
@@ -2092,6 +2103,8 @@ net.databinder	dispatch-twitter_2.8.0.RC1	0.8.0.Beta1		43cbeed8ac84f17e28adc7db8
 net.databinder	pamflet-library_2.8.1	0.2.3		8ba585bd3f0bece8f3bfccfb34ff06ec8be28204
 net.databinder	pamflet-library_2.8.1	0.2.4		7f19db316d41ab0920fa5116d8975dbd6bb630b3
 net.databinder	pamflet-library_2.8.1	0.2.5		e735e48977f2dc27f954f786a579318222eb58aa
+net.folivo	trixnity-test-utils-macosarm64	4.15.2	metadata	e46e96e476b689762bc1cf4a92bd4fc6ce9248a4
+net.folivo	trixnity-test-utils-macosarm64	4.15.3	metadata	cbca4e1eb28c3608440a560499ff731713823289
 net.javacrumbs	smock-springws	0.1		ee99fefa10c5fa42fc5eb37f2ec715b6d6853c27
 net.javacrumbs	smock-springws	0.2		4eb5333d5a3c8f75f5e776006bafaec59390e108
 net.javacrumbs	smock-springws	0.3		38aaeb5622fc3caa6ba65b40d972ceab165d14f2
@@ -2189,6 +2202,7 @@ org.apache.tomcat	tomcat-coyote-ffm	10.1.35		dd167de8cc7cf09d96154a4ef41755ea5df
 org.apache.tomcat	tomcat-coyote-ffm	10.1.36		02df64da4905ce985b5022b9dc22cb94dbb277a3
 org.apache.tomcat	tomcat-coyote-ffm	10.1.39		3ad43721280fc5a62635261ac16be6edc62456b9
 org.apache.tomcat	tomcat-coyote-ffm	10.1.40		6539fae7ed48e94e7b97d606c30169650432a587
+org.apache.tomcat	tomcat-coyote-ffm	10.1.41		1724a056f48bc3f5688c16744dda6d62ca18ca9b
 org.apache.tomcat	tomcat-coyote-ffm	11.0.0		71e126e90d9568ab742bc6fe99e6dfe9c9c959b3
 org.apache.tomcat	tomcat-coyote-ffm	11.0.0-M22		0cde9eef50161427e109300413a60bbe5ea74372
 org.apache.tomcat	tomcat-coyote-ffm	11.0.0-M24		db6731e0097dbfbe8d505a87c3f549addd5b77ac
@@ -2200,9 +2214,11 @@ org.apache.tomcat	tomcat-coyote-ffm	11.0.3		d44a58f94834a98eb2afcb350468435d1a97
 org.apache.tomcat	tomcat-coyote-ffm	11.0.4		7523f54dbea33aa94c6960111fdef11b8f7cbae4
 org.apache.tomcat	tomcat-coyote-ffm	11.0.5		45af9a217b28f952c344d80cc2e2a9c31d25d0bb
 org.apache.tomcat	tomcat-coyote-ffm	11.0.6		3334ea8c25ea4d2ace8eff3baca5e597ac8c9532
+org.apache.tomcat	tomcat-coyote-ffm	11.0.7		9f3636ae4bc3ffd6abc0f1f6de3c5971ef245ddb
 org.apache.tomcat	tomcat-coyote-ffm	9.0.100		df44dc08fc20e1b3d18ff847d5c817381ae9ac53
 org.apache.tomcat	tomcat-coyote-ffm	9.0.102		a8c848515197f27b447c3f9fc80ef02d4290da83
 org.apache.tomcat	tomcat-coyote-ffm	9.0.104		eb2518c159e5735759d8ec91c2f6010f45282f1f
+org.apache.tomcat	tomcat-coyote-ffm	9.0.105		ae3a7c30ee47e90d327986a7253001ee6f2174d7
 org.apache.tomcat	tomcat-coyote-ffm	9.0.93		0f7608db9901f62d7174445159aef22701653c9b
 org.apache.tomcat	tomcat-coyote-ffm	9.0.94		c5c22881a7923edc71a0c66e833a66ab071f95e1
 org.apache.tomcat	tomcat-coyote-ffm	9.0.95		329a5dc1f135279dcf484603c0569fa1d27d637b
@@ -2423,6 +2439,7 @@ org.jboss.narayana.jta	jta	7.0.2.Final		15138a46da387f2213bbc2a78331f7ce9a5c0c8d
 org.jboss.narayana.jta	jta	7.1.0.Final		3e1ec4edade0ce017a54c8f9d86f642708b4b065
 org.jboss.narayana.jta	jta	7.2.0.Final		317d6fcbae22add26a0226eced62d887f6f8ce4b
 org.jboss.narayana.jta	jta	7.2.1.Final		d29babcb4061a442f10f93feb53c8865793efdcd
+org.jboss.narayana.jta	jta	7.2.2.Final		f21a81088c3a14c6d643c0b6d33037dd394542d0
 org.jeasy	easy-batch-extensions	6.0.0		N/A
 org.jeasy	easy-batch-extensions	6.1.0		N/A
 org.jeasy	easy-batch-extensions	7.0.0		N/A

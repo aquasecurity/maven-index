@@ -551,6 +551,7 @@ com.ringcentral.platform.metrics	metrics-facade-spring-boot-starter	3.2.0-RELEAS
 com.ringcentral.platform.metrics	metrics-facade-spring-boot-starter	4.0.0-RELEASE		b18557b98bf4d5cb1c9c0e141dff82ddee0637ca
 com.scalar-labs	scalardb-cluster-embedding-java-client-sdk	3.15.1		6868999340e31e98562b0bf18f25ee5568229e64
 com.scalar-labs	scalardb-cluster-embedding-java-client-sdk	3.15.2		de419b2260358e274ab62c0e893f139f81413828
+com.scalar-labs	scalardb-cluster-embedding-java-client-sdk	3.15.3		d8c15c9dfeedca3d0993bafffe744c3ab219b6c5
 com.sflpro.identity	identity	0.0.2		N/A
 com.sflpro.identity	identity	0.0.4		N/A
 com.sflpro.identity	identity	0.0.5		N/A
@@ -657,6 +658,8 @@ com.yomahub	liteflow-script-javax	2.13.1		50c7276489bb7d5dd2959262d8594a9be2760b
 com.yomahub	liteflow-script-javax	2.13.1.1		9c85905e3370187f818cccab0261508af3f1a6fd
 com.yomahub	liteflow-script-javax	2.13.1.2		e96b5e9e46b8ab14bae531b3a55c465ff7ba0119
 com.yomahub	liteflow-script-javax	2.13.1.3		4c1c77d0976e2de5743d20e51bf5f19e043c0fb0
+com.yomahub	liteflow-script-javax	2.13.2		1c901b9766264b6a0a05aa59d6265c75dda51ab2
+com.yomahub	liteflow-script-javax	2.13.2.1		1d503aa128a60cb443c1a899063dc8bcea9ac131
 com.zeoflow	anidero	1.0.0		N/A
 com.zeoflow	anidero	1.0.1		N/A
 com.zeoflow	anidero	1.0.2		N/A
@@ -884,6 +887,7 @@ dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.27.1		f9321320d228e653085c1e5d627f
 dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.28.1		5e7f1edfd6595eb87883265ace1a95cc6334d46b
 dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.3.1		b3493dde581dba560e41a553f668f55a700d2e67
 dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.30.1		26c754d8ce09355730061b8809801245fc3d7ad5
+dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.30.2		5393e3e55d80f2ea506b65edf201cf561efc08aa
 dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.4.1		40b58bf6508067c478224ccddd5b685cacf96e2e
 dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.6.1		1c3ab9e92bfcf8b3bd2df306bc2d7cc2c623fe80
 dev.zio	zio-aws-chimesdkmediapipelines_3	7.31.6.2		2f2892d045d06c078c47da983807fe6beeb2d4d8
@@ -1293,6 +1297,15 @@ me.ahoo.wow	wow-redis	5.12.1		de0744497dc530302238d9a21f6ec33bfa81371f
 me.ahoo.wow	wow-redis	5.12.2		590a8ea6dca562944a7039b1b1adf609340f4fbf
 me.ahoo.wow	wow-redis	5.12.3		b604b92d7d5683471f360d2ca7091f3f06fab338
 me.ahoo.wow	wow-redis	5.12.5		5aa0cca7a392ff6f7d1ca2c583948dd7af796c66
+me.ahoo.wow	wow-redis	5.12.6		22f8f58d94a769784c2c7c99e13b8659a0dcadc3
+me.ahoo.wow	wow-redis	5.12.8		4e424eeceac472a27d662124eb869b896d190cb3
+me.ahoo.wow	wow-redis	5.12.9		c737778fa9f12ea49208446db3fedf35a2c3f481
+me.ahoo.wow	wow-redis	5.13.0		b690a3d1a48d31275c569f7080c17295857f1711
+me.ahoo.wow	wow-redis	5.13.1		122148caf784bbd46fd0ec255ffcebf62ff4c306
+me.ahoo.wow	wow-redis	5.13.2		c619caa7b817d9ba1be4db8322905deb10eb4d8d
+me.ahoo.wow	wow-redis	5.13.3		ad57a6804e91a083728c40e7269da0c0169fe113
+me.ahoo.wow	wow-redis	5.13.5		67e8b7f42718d810f3c77fc5a067cdb9458db765
+me.ahoo.wow	wow-redis	5.13.6		7f19953eee9b1b0c10446dc4d1e9c8bc2b6703bb
 me.ahoo.wow	wow-redis	5.2.0		1feb113eb23fa238b7536046e50267f81d7c2938
 me.ahoo.wow	wow-redis	5.2.1		5e33dd505f7785c02e454fabc8697e017086cd23
 me.ahoo.wow	wow-redis	5.2.2		0eb38b0896e559e040e0fd8e52a9db6e927e8b80
@@ -1497,6 +1510,7 @@ org.apache.camel.quarkus	camel-quarkus-support-aws	3.2.1		a770b88096d67d66e2f54f
 org.apache.camel.quarkus	camel-quarkus-support-aws	3.2.2		0686f1a83248d3c2fd290ec88b25920f82921672
 org.apache.camel.quarkus	camel-quarkus-support-aws	3.2.3		2b8293c22e6d62f06194398dbe0ac9986d3228c6
 org.apache.camel.quarkus	camel-quarkus-support-aws	3.20.0		2fa94fff0a3cba13fe37824179c440b7630f4429
+org.apache.camel.quarkus	camel-quarkus-support-aws	3.20.1		8dd192c7c44651e229b7241c4974345f6d43ea50
 org.apache.camel.quarkus	camel-quarkus-support-aws	3.22.0		a68f928c63efb625d584ebabe57cd8b49550c138
 org.apache.camel.quarkus	camel-quarkus-support-aws	3.4.0		85d39ad8ae34ec5de69d1bc7a643546ff847c3e1
 org.apache.camel.quarkus	camel-quarkus-support-aws	3.5.0		1eb3d3b87950e60a7df039fcec98c156869e0757
@@ -1969,6 +1983,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-tvosx64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-tvosx64	0.6.1	metadata	46ac1db4a1fb57ae411dafe20423d67fc8e80399
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-tvosx64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-tvosx64	0.6.2	metadata	6fe8433f288496508f5c687f68a6e59395ad8848
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-tvosx64	0.7.0	metadata	1310fe06ac38df441864fbd23f8102173db462e9
 org.jsimpledb	jsimpledb-guiapp	2.0.0		ab244500ed13812a4e424194a393859ac82e6b59
 org.jsimpledb	jsimpledb-guiapp	2.0.1		db4fcd1ab16764a29ecc1e97ccd498abb47b0e58
 org.jsimpledb	jsimpledb-guiapp	2.1.0		72418deed0b4a6cb468c55f0aa5658558c42753b

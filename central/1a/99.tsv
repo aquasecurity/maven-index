@@ -419,6 +419,7 @@ com.lihaoyi	mill-main-init_2.13	0.12.1-7-d8bbe5		e517730c891e363c9b17bad5b0f0ec5
 com.lihaoyi	mill-main-init_2.13	0.12.10		6a4b80ddf0592e565cea95ea2e7a30368391ca48
 com.lihaoyi	mill-main-init_2.13	0.12.10-3-7afdee		efcd8b8d68a52a573415941073e7b81705822855
 com.lihaoyi	mill-main-init_2.13	0.12.10-6-cb6954		fdb6056a3cb1375d56a419e1d41c1e153eac6dee
+com.lihaoyi	mill-main-init_2.13	0.12.11		e1af705450984ae7d547e9a036e6c4204c269267
 com.lihaoyi	mill-main-init_2.13	0.12.2		976854b7788a7f4196cde82b721b2387535d6710
 com.lihaoyi	mill-main-init_2.13	0.12.2-16-4a07b2		bb64f23fb79a0b1d14749bab6c8d1c4e1886f6f3
 com.lihaoyi	mill-main-init_2.13	0.12.2-20-231ff6		f93fb66a7ca207c4b454c975d30d9e6c0e7597a3
@@ -508,6 +509,7 @@ com.mdsol	mauth-authenticator-scala_2.12	17.0.0		6173d4cbb1e969ae74ce6fbf0959f5a
 com.mdsol	mauth-authenticator-scala_2.12	17.1.0		1553ee55094c475c248a16ba29947e0e816ba6f1
 com.mdsol	mauth-authenticator-scala_2.12	18.0.0		847bb04eee8044a6c1bdf1df3bf376e5807f78e7
 com.mdsol	mauth-authenticator-scala_2.12	18.1.0		c2d8c47feb5b58ec4d0b823d383aac106b6fd0ea
+com.mdsol	mauth-authenticator-scala_2.12	19.0.0		8fcb71f16843e237ae8b99ef6898c4461c943809
 com.mdsol	mauth-authenticator-scala_2.12	3.0.0		4ebf48a6c91c601e627e0ba4bf3596d4b4cecde5
 com.mdsol	mauth-authenticator-scala_2.12	4.0.0		0b41b1851f4dd24806e886638594d49315609c6a
 com.mdsol	mauth-authenticator-scala_2.12	4.0.1		a37ed7b4813f90660f64ac6a6f4fb92f34c59122
@@ -1501,6 +1503,7 @@ org.apereo.cas	cas-server-support-mongo-ticket-registry	7.2.0-RC6		ddf9693ebd74a
 org.apereo.cas	cas-server-support-mongo-ticket-registry	7.2.0-RC6	resources	865f30cf3652673af054c093326ba1b9e6da360a
 org.apereo.cas	cas-server-support-mongo-ticket-registry	7.2.1		ec1a5183caa45cb82c7a056d670a29f8a2c65e34
 org.apereo.cas	cas-server-support-mongo-ticket-registry	7.2.1	resources	3036faaa504130a4a0c059a88137fa6354f5f321
+org.apereo.cas	cas-server-support-mongo-ticket-registry	7.2.2		5f55e892eb5697e5c906c18ff8b36bb91d6d0fba
 org.apereo.cas	cas-server-support-mongo-ticket-registry	7.3.0-RC1		3968aa0b37d7376e35302916e5df373bc3de7b9c
 org.apereo.cas	cas-server-support-mongo-ticket-registry	7.3.0-RC1	resources	c1d1ae02830cb68bb56619e7dca4d6eca6856987
 org.apereo.cas	cas-server-support-mongo-ticket-registry	v6.4.0-RC5		2874e5254a1f5ef786e4c908d4e664a6d08dd6cf
@@ -1705,6 +1708,7 @@ org.teavm	teavm-relocated-libs-asm-analysis	0.10.0		35d4640fdeea0caa8bb25dcd3a9a
 org.teavm	teavm-relocated-libs-asm-analysis	0.10.1		35d4640fdeea0caa8bb25dcd3a9a794694fba60d
 org.teavm	teavm-relocated-libs-asm-analysis	0.10.2		35d4640fdeea0caa8bb25dcd3a9a794694fba60d
 org.teavm	teavm-relocated-libs-asm-analysis	0.11.0		3ae65c87dfbaceec728f93ef470663b3b31fc2b4
+org.teavm	teavm-relocated-libs-asm-analysis	0.12.0		3ae65c87dfbaceec728f93ef470663b3b31fc2b4
 org.teavm	teavm-relocated-libs-asm-analysis	0.8.0		3d71339854dc5360de75711fee9878b6f75826df
 org.teavm	teavm-relocated-libs-asm-analysis	0.8.1		3d71339854dc5360de75711fee9878b6f75826df
 org.teavm	teavm-relocated-libs-asm-analysis	0.9.0		32aeeac68547d85f2cfb72af3dcf2b1fc4b831c0
@@ -2060,7 +2064,18 @@ software.amazon.awssdk	retries	2.31.30		119e7ae810e91c99183a656e1b912e482013c8ba
 software.amazon.awssdk	retries	2.31.31		7c92b1c599438cea9a28ea039870f3484ef91f4a
 software.amazon.awssdk	retries	2.31.32		ef6e360d9746f25c9edd68db7b699ef3cfaa5896
 software.amazon.awssdk	retries	2.31.33		77dbec740e17027b53773fc8cc1f2401e38340db
+software.amazon.awssdk	retries	2.31.34		9db298ec542e2beb466384e167561fcc100e30a8
+software.amazon.awssdk	retries	2.31.35		0f31af02a914084f6d4354f216ed94460aced1f9
+software.amazon.awssdk	retries	2.31.36		b996cf4032fa6477d44a46bdb4305ed3b33bd044
+software.amazon.awssdk	retries	2.31.37		66150197f2f1506febd21d85c8b3da200cb9a5cf
+software.amazon.awssdk	retries	2.31.38		a951febd9b42a04671fd8aff0edcca0695ca75b4
+software.amazon.awssdk	retries	2.31.39		5199b7be1fb7190b75a444829ab925490e58ed11
 software.amazon.awssdk	retries	2.31.4		46707efa2e3306ab9a108d522cbbf69741de635d
+software.amazon.awssdk	retries	2.31.40		09e1b0e2545013c8f4a5ece638ed5bb0bdee3734
+software.amazon.awssdk	retries	2.31.41		a246c61157c1b64e05d39c97a0e8c20254759af6
+software.amazon.awssdk	retries	2.31.42		c5d76f48bb25aab42cf3013d33b6b79513dd8e49
+software.amazon.awssdk	retries	2.31.43		4bd47b96e4cda08e2e82bece3748662498fe91bb
+software.amazon.awssdk	retries	2.31.44		f5a3f8767dc1b4e5c2e207ba9fb913580d185dd7
 software.amazon.awssdk	retries	2.31.5		76071705e8cd3f65ae743e21d16dae6425f64137
 software.amazon.awssdk	retries	2.31.6		45cdef0ca38f2a7f8d358c88917e676ba71e52a2
 software.amazon.awssdk	retries	2.31.7		15af13b93e4b0d30b836be915b811295599e8cb7
@@ -2104,6 +2119,9 @@ tz.co.asoft	symphony-actions-jvm	3.0.6		e21d6395a2cd2df2c33ee1667addafe79057a989
 tz.co.asoft	symphony-actions-jvm	3.0.7		2442a93d2a8e079a987084e27dc465516d3d9748
 tz.co.asoft	symphony-actions-jvm	3.0.8		2442a93d2a8e079a987084e27dc465516d3d9748
 tz.co.asoft	symphony-actions-jvm	3.0.9		2442a93d2a8e079a987084e27dc465516d3d9748
+tz.co.asoft	symphony-actions-jvm	3.1.1		fac8ece6ed53e9db6f2fd80ff0813fb983dc16c4
+tz.co.asoft	symphony-actions-jvm	3.1.11		fac8ece6ed53e9db6f2fd80ff0813fb983dc16c4
+tz.co.asoft	symphony-actions-jvm	3.1.12		fac8ece6ed53e9db6f2fd80ff0813fb983dc16c4
 uk.co.chrisjenx	calligraphy	0.7.0		9135336ae3829af19fee194319e024e73f4a7c16
 uk.co.chrisjenx	calligraphy	0.7.1		7d035f89be3d9616f56839cc35cbe2faa942d35d
 uk.co.chrisjenx	calligraphy	0.7.2		6a4194ce16b6e95e6294523d1068d484d1f48904

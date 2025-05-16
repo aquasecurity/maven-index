@@ -115,6 +115,7 @@ com.mnubo	dbevolv-elasticsearch2_2.10	1.0.17		c0e70d867cacf83440aca2cbf4f7928e51
 com.mnubo	dbevolv-elasticsearch2_2.10	1.0.18		67f424790dd5cb5006c0c38c95b8870a21b73625
 com.mnubo	dbevolv-elasticsearch2_2.10	1.0.19		1979ae1680f5c59ec7f40ee9c88fe3d4cb84c604
 com.palantir.gradle.utils	circleci-artifacts	0.10.0		4a737b43b4cc8d99cb69ed73ed79fa8bf3e35fb0
+com.palantir.gradle.utils	circleci-artifacts	0.11.0		672e380b76ae2e4ed68e921bcfb37c4c940eb7e3
 com.palantir.gradle.utils	circleci-artifacts	0.6.0		590d6359753985632bfd9cc8c8b4d2d9611a396b
 com.palantir.gradle.utils	circleci-artifacts	0.7.0		7771f80a590620a7b902f4c532813833b57f7c48
 com.palantir.gradle.utils	circleci-artifacts	0.8.0		a208ae7038dd4fcdc18e4b6f518e92358637aff9
@@ -433,7 +434,11 @@ io.qtjambi	qtjambi-network-debuginfo-windows-x64	6.8.3		1a6248f28b274bde9c2ad35d
 io.qtjambi	qtjambi-network-debuginfo-windows-x64	6.9.0		061ab98a7bf726427655e67e9a687f7b94214bcd
 io.spinnaker.gate	gate-web	2025.0-0		82ccf179de4140d623ed9b486f4beb681bddc70f
 io.spinnaker.gate	gate-web	2025.0-1		2e60c42337932c60e5741153fd3562de9d1257b1
+io.spinnaker.gate	gate-web	2025.0-2		6098a43b86cfd21051b73fbcf4ecaa3a5ee5c3ba
+io.spinnaker.gate	gate-web	2025.0-3		921de76713db065fbc1ccb9e7a2b0bd9f3d7b3dd
+io.spinnaker.gate	gate-web	2025.0-4		5f191e4c03b79e66d51794613421819366537fa5
 io.spinnaker.gate	gate-web	2025.0.0		e17c0b8a5091955a83be554a9bd13769697cd223
+io.spinnaker.gate	gate-web	2025.0.1		a3e5893baea438f510237c1d2a400e973af4a722
 io.spinnaker.gate	gate-web	6.52.0		151226da2d1d31140c893024e95b970d24409345
 io.spinnaker.gate	gate-web	6.53.0		9e90e2b32e6c36f4e71da35793280b161529d652
 io.spinnaker.gate	gate-web	6.54.0		2467da23a2834becfb3bed3b71da2640af4b77d7
@@ -487,10 +492,18 @@ io.spinnaker.gate	gate-web	6.66.6		dc878b271bc261bf0c05eb448a86d2e959ffc83c
 io.spinnaker.gate	gate-web	6.67.0		d05d13e26ba026b5da0620943eb88f9705d507fa
 io.spinnaker.gate	gate-web	6.68.0		228b2d4a50443c22014db298ec73d0f28fa79376
 io.spinnaker.gate	gate-web	6.69.0		7baf85e5d95c51d99350ad3a1a0d9beda77dba61
+io.spinnaker.gate	gate-web	main-10		c44fa890e6dcb4215300a77663798cbbc75cf848
+io.spinnaker.gate	gate-web	main-11		1144e321817e30c04a51ac91b509ebbd7d4eaad6
+io.spinnaker.gate	gate-web	main-12		4b42288fab4e0f1eae265e2bf3bb1289f025b897
 io.spinnaker.gate	gate-web	main-5		356f7432b7136a1a560e82c1e3b0dc855eadf9f4
 io.spinnaker.gate	gate-web	main-6		cf62fac06dbe67a48971623130b56148436adacd
 io.spinnaker.gate	gate-web	main-7		0e4e5d181a2c2573371869cddc255ca0c06969a9
 io.spinnaker.gate	gate-web	main-8		9924da92d0430680f4c5a0adc0e5c5c1f2249705
+io.spinnaker.gate	gate-web	main-9		b8abe7db3269f972d921102f85c04fef1f1b4f15
+io.taig.sbt	scalariform_2.10_0.13	1.4.0		9f29332c930ffb5b0cbb53a078dd159d85ded3fb
+io.taig.sbt	scalariform_2.10_0.13	1.5.0		7bf3b85c94e8f474fe967fff641f4ba5e94409d3
+io.taig.sbt	scalariform_2.10_0.13	1.5.1		a8305b26d6b0184f5aa5346a2c93da72459b6bdf
+io.taig.sbt	scalariform_2.10_0.13	1.6.0		bed4325ba55da90ddf9431261f24398c1a8f6a6d
 net.databinder	dispatch-json_2.8.0.RC6	0.7.4		2c41a11597a60c6533723ab5b91c663e0f140766
 net.databinder	dispatch-json_2.8.0.RC6	0.8.0.Beta1		4a6349f3107290ab5b87cd8c65428ef56017f6ec
 net.isger	brick-sched-quartz	0.0.2-alpha		96dbb4384367ec8b89666da471022e2781924d8d
@@ -1267,3 +1280,7 @@ tz.co.asoft	nation-currencies-watchosx64	3.0.14		N/A
 tz.co.asoft	nation-currencies-watchosx64	3.0.14	metadata	90f75e7d7ac20fbef550d6dd2c1d6d6e79ed8780
 tz.co.asoft	nation-currencies-watchosx64	3.0.15		N/A
 tz.co.asoft	nation-currencies-watchosx64	3.0.15	metadata	e7371a96a5d11d665055c2c95d128f8c47f30afd
+tz.co.asoft	nation-currencies-watchosx64	3.1.0	metadata	8a2c09927b9654a994591b08a6b72f4d7fbae80f
+tz.co.asoft	nation-currencies-watchosx64	3.1.1	metadata	aeddcfa8ff598c1ff7b32dd84ea5339f0b07f6c5
+tz.co.asoft	nation-currencies-watchosx64	3.1.11	metadata	8c2e24cb4486f4957d21802d8fd634706bdcf38f
+tz.co.asoft	nation-currencies-watchosx64	3.1.12	metadata	fe9b1273ce893123d8f5b9fa6201d8dfeed1c502

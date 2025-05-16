@@ -461,6 +461,9 @@ com.hashicorp	cdktf-provider-google-beta	14.3.0		3fa98b15db301e4b608294aa2f31bb1
 com.hashicorp	cdktf-provider-google-beta	14.30.0		de0efc83d89f3e25449e5a7f5f818b777699397c
 com.hashicorp	cdktf-provider-google-beta	14.31.0		08c578ae219f8737fda53f73c9beda882cb75182
 com.hashicorp	cdktf-provider-google-beta	14.32.0		da9c3b44552b873d406ad3f5b51a8c18cf68bb9a
+com.hashicorp	cdktf-provider-google-beta	14.33.0		84658ed415a4117459a49816a3734516a7836fe5
+com.hashicorp	cdktf-provider-google-beta	14.33.1		a6044765278f0dbc2127931e249d46a0487b164f
+com.hashicorp	cdktf-provider-google-beta	14.34.0		ab4a99331e77dbba2864d01d63643a171f6b83e4
 com.hashicorp	cdktf-provider-google-beta	14.4.0		5804b68e95dd2617d74acb7ed357200d831d1441
 com.hashicorp	cdktf-provider-google-beta	14.5.0		7e97b7ec8b47d366baad5879d931629dc1963a5d
 com.hashicorp	cdktf-provider-google-beta	14.6.0		b8b13a043d17586adfd09a0f509a52906f3000e9
@@ -746,6 +749,7 @@ io.getkyo	kyo-bench_3	0.16.1		6cbf303efb185033333aeaff360ac4be4f4dba8f
 io.getkyo	kyo-bench_3	0.16.2		bacd961328d402641b9c9114c63eabb5b619f79a
 io.getkyo	kyo-bench_3	0.17.0		abe7dea5606e1a257dcdc34ce6be49cf54a05ffb
 io.getkyo	kyo-bench_3	0.18.0		62d93a01175ec4349f88f3cf6b855ea5e28bab98
+io.getkyo	kyo-bench_3	0.19.0		4b5d3cdd997f68dc575f8d54c5aefd60facdc231
 io.getkyo	kyo-bench_3	0.2.0		5808257c6d8a0c608fe6b79c73dae913cd6e9d33
 io.getkyo	kyo-bench_3	0.2.1		9862706b268b335746dae315c2abea1e769c7f6b
 io.getkyo	kyo-bench_3	0.2.2		da0d781b121d385b3d59d231277cc17a6a1520a4
@@ -1155,6 +1159,7 @@ io.scalaland	chimney-macro-commons_sjs1_2.13	1.7.0		5f728e3fff137ed022cdf1d6915a
 io.scalaland	chimney-macro-commons_sjs1_2.13	1.7.1		bcb29d30994f367cb6feccdd539025dc2499edc3
 io.scalaland	chimney-macro-commons_sjs1_2.13	1.7.2		d94a76a274ab69349cfc9080bb317ec1a132a6d7
 io.scalaland	chimney-macro-commons_sjs1_2.13	1.7.3		744ff4e758a46f1c82aecbb4b5256dc9b1145e96
+io.scalaland	chimney-macro-commons_sjs1_2.13	2.0.0		98dba9b4b83ee0f889cf663856b4437cfd777230
 io.scalaland	chimney-macro-commons_sjs1_2.13	2.0.0-RC1		c7f420ed9c2e2a80dd726328e7f24e56e88762c2
 io.scalaland	chimney-macro-commons_sjs1_2.13	2.0.0-RC2		faee61d19e9ba2c77d8c4c66d238ed173a24e0f4
 io.scalaland	chimney-macro-commons_sjs1_2.13	2.0.0-RC3		b50381900426125f59c59b00fd4c82de50431cb5
@@ -1186,6 +1191,7 @@ io.stigg	stigg-sidecar-sdk	2.330.0		7126e4e590e7010e2b1579d7ae4f1a86d54fd012
 io.stigg	stigg-sidecar-sdk	2.333.0		8ceb6df5434c9348522b4f26c003616a019ac844
 io.stigg	stigg-sidecar-sdk	2.337.0		3fd4bab44020615328dddc1819dcce3003068278
 io.stigg	stigg-sidecar-sdk	2.36.0		7836761d85b9886511468f2d686eec3ab1d04290
+io.stigg	stigg-sidecar-sdk	2.381.0		ec32f30dcfeea7d62aea8d8cfa339fa97fa83c0a
 io.stigg	stigg-sidecar-sdk	2.48.0		d35f4cdc4fc6eb0f1ff1217b1138c27619780de2
 io.stigg	stigg-sidecar-sdk	2.78.2		03ae2079961dff9243c405bddeca1fa949bea743
 io.stigg	stigg-sidecar-sdk	2.81.0		35b4b54c76bcb1f4bb6f68588da6fa4b3df397de
@@ -1644,6 +1650,7 @@ org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.7.1		N/A
 org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.7.3		N/A
 org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.ui	ui-unit-uikitsimarm64	1.8.0-alpha02		N/A
@@ -1764,6 +1771,7 @@ org.refcodes	refcodes-archetype-alt-decoupling	3.3.6		eda4c21bd0fe36b4f27645da58
 org.refcodes	refcodes-archetype-alt-decoupling	3.3.7		f496b5be183c47f3a7173580da7d53a05443457d
 org.refcodes	refcodes-archetype-alt-decoupling	3.3.8		6be7ded7ae80b2f7662c5b7d3950da8a04b4a656
 org.refcodes	refcodes-archetype-alt-decoupling	3.3.9		d5a19fc2ae4f8f5e92bf010041180d45c55e91d0
+org.refcodes	refcodes-archetype-alt-decoupling	3.4.0		1e65f83ff672be190ae19192c725981fc4eab580
 org.scalikejdbc	scalikejdbc_2.13.0-M4	3.3.0		d74e8309d138f188cba5425ec223db1c28141e5f
 org.scalikejdbc	scalikejdbc_2.13.0-M4	3.3.0-RC1		4a6ffd81e5bab67d6f6fd0ada9400667abdb1edd
 org.scalikejdbc	scalikejdbc_2.13.0-M4	3.3.1		416b897f44d4a4225fe0640e15a465d95e15e2e1
@@ -1801,5 +1809,6 @@ org.wildfly	wildfly-core-model-test	8.2.1.Final		N/A
 ru.biosoft	jobcontrol	1.0.0		b771d4bc857478cb96dfa1b2013d6dc9cc76c0bc
 ru.surfstudio.android	animations	0.5.0		N/A
 tech.kage.time	tech.kage.time-parent	1.0.0		N/A
+tz.co.asoft	kiota-file-compose-iossimulatorarm64	3.1.12	metadata	92b9e6a18a5173117178970c64f9467523bb4e7e
 za.co.absa	pramen-api_2.11	1.0.0		a1b3c9805fdb29b379c6b9a2fac27c6831134cc9
 za.co.absa	pramen-api_2.11	1.0.1		e92d649e3e51a67cbb62a7e730f2165050d44731

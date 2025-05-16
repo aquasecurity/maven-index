@@ -58,6 +58,7 @@ com.dropbox.sign	dropbox-sign	1.6.0		49baf0ad3bf015fa6aa15a85cab7a270401a60c5
 com.dropbox.sign	dropbox-sign	1.6.1		c6282eb228e5d8acbf5f4b42a4d9c69d1897abe5
 com.dropbox.sign	dropbox-sign	1.7.0		e534237f629fddf3e7efcccd0c47cc3027b236c9
 com.dropbox.sign	dropbox-sign	1.8.0		f69eef9673dbe39d7d96111ca9887e9cd3836799
+com.dropbox.sign	dropbox-sign	1.9.0		540445791f1cc09b4808871cd34091f4317e8f93
 com.dropbox.sign	dropbox-sign	2.0.0		cd16bd9ff28df672150d156bcf061420694b317d
 com.dropbox.sign	dropbox-sign	2.0.1		18ddc1fcf3b0269521b613ee747426a661bb42ee
 com.dropbox.sign	dropbox-sign	2.1.0		5475d73330c65477a251f16d3088d8bade103aaa
@@ -65,6 +66,7 @@ com.dropbox.sign	dropbox-sign	2.2.0		2569a985017ef8c05a181a6aa76be9fb9cfd905c
 com.dropbox.sign	dropbox-sign	2.2.1		f9413a4a62204d724db0d4399006c34cc38c4a97
 com.dropbox.sign	dropbox-sign	2.3.0		14cb427db650b54a2dc24bb7e130050a86b58b30
 com.dropbox.sign	dropbox-sign	2.4.0		1d48f2594c6dca4c54ed7871cf2cefa00871c3ee
+com.dropbox.sign	dropbox-sign	2.5.0		b27094161bd2a9d137de60c989098f61fa761e21
 com.factset.sdk	globalfilings	0.1.0		95d5128b4e226c1c8529f1a0cbbbf99d7d3a4676
 com.factset.sdk	globalfilings	0.1.1		7c85ccb5e9afd4005f6864fcebc6a14c55b4f98a
 com.factset.sdk	globalfilings	0.1.2		5a1f120424858b53c9cbd874af1cf76ac5797650
@@ -325,6 +327,7 @@ dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.27.1		28ab1b62060d827daa512614
 dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.28.1		ebd0218d7bad8e238308dac832781e026281e7c7
 dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.3.1		f1392beda25ab9770e1f714fa7e2b6811a698cc2
 dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.30.1		055d44e68be759d5e968f8fd7fb099026afe5daa
+dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.30.2		d450157e606891790be2ba5afd0dfd38ba60b776
 dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.4.1		c8a2756065fb76579a55ce20c251450c94091d33
 dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.6.1		48afb1cc157e3e52eb4e9bc78a395c5d301b3630
 dev.zio	zio-aws-paymentcryptographydata_2.12	7.31.6.2		cf4447e979e7ea8093315921f17718474ef96b77
@@ -523,6 +526,7 @@ org.apache.camel.quarkus	camel-quarkus-git	3.2.1		4b07b0cd8d9ddc33072b4aafc92f97
 org.apache.camel.quarkus	camel-quarkus-git	3.2.2		68bda54e453abed49cdbe97fa862bdb0df00bde0
 org.apache.camel.quarkus	camel-quarkus-git	3.2.3		8639bf634efa9841796f8dfbf263ec380141d8bf
 org.apache.camel.quarkus	camel-quarkus-git	3.20.0		24c2d79011f5e94837f2b0313bd7ff32c60fb22e
+org.apache.camel.quarkus	camel-quarkus-git	3.20.1		cdc84564ae1337f7066424a388dd95a1010fc322
 org.apache.camel.quarkus	camel-quarkus-git	3.22.0		d3e39ce893c4ec3480088a51af4c667473e0f7e0
 org.apache.camel.quarkus	camel-quarkus-git	3.4.0		ec43de3fc97e7fc22f33a3c3ab0d0fc21abadc7e
 org.apache.camel.quarkus	camel-quarkus-git	3.5.0		8a56c7a46f76a0525922b67677a86bfbe65bc4fb
@@ -680,6 +684,7 @@ org.finos.legend.depot	legend-depot-notifications-api	2.49.0		c0300d92794fedb12c
 org.finos.legend.depot	legend-depot-notifications-api	2.50.0		e431625a4ff17e30ca014f426886692237b876c6
 org.finos.legend.depot	legend-depot-notifications-api	2.60.0		f407e7f5be671d6e8539d22593dca55ecd4128e4
 org.finos.legend.depot	legend-depot-notifications-api	2.61.0		15e3a82345aebd709e682696c3e34f536da58bdf
+org.finos.legend.depot	legend-depot-notifications-api	2.62.0		7994b0741eb42ea36d0a3a09455220f1e1e5272c
 org.fuzzydb	org.fuzzydb.io.packet	1.0.0.M1		a1929444c4495a365294a9675b41c2c28cccc811
 org.fuzzydb	org.fuzzydb.io.packet	1.0.0.M2		c672e77bb0c08fb624ef5d21a0a8471d07a8b907
 org.fuzzydb	org.fuzzydb.io.packet	1.0.0.M3		93a7e70fc21643601084aa439658741fda14c567
@@ -1162,6 +1167,7 @@ org.webjars.bowergithub.carrooi	js-googlemapsloader	3.2.1		7723103e5df02a4b7983d
 org.webjars.bowergithub.carrooi	js-googlemapsloader	3.3.0		b2520a04010a3c24ba0d46ea8281bfbd5f6d66dc
 org.webjars.npm	jupyterlab__notebook	4.0.0-alpha.15		25124e116cc2c33056375b16acb9ffee7ea3e411
 org.webjars.npm	jupyterlab__notebook	4.0.0-alpha.9		d2d05f3c709eca6a1a5fd1881b183741c5f3e231
+org.webjars.npm	radix-ui__react-tabs	1.1.4		1f8ae5698dd425021fa6bb55b0774f03e2d4fef8
 org.wso2.carbon.appmgt	org.wso2.appmgt.idp.category.feature	1.2.0		N/A
 org.wso2.carbon.appmgt	org.wso2.appmgt.idp.category.feature	1.2.0-BETA		N/A
 org.wso2.carbon.appmgt	org.wso2.appmgt.idp.category.feature	1.2.1		N/A
@@ -1289,3 +1295,5 @@ top.tanmw	efficient-boot-form-start	2.6.0		880115332ff6cec93f31ba3370940cf8fe68d
 top.tanmw	efficient-boot-form-start	2.7.0		d47acd1d049fc423984275bc175fdcd6fcafb574
 top.tanmw	efficient-boot-form-start	2.8.0		7cd799dc9169b2648aef54fe703ca6c23908b3e8
 top.tanmw	efficient-boot-form-start	2.9.0		61f0379a07e5c2ec9adede28d29d7899510ffab4
+tz.co.asoft	kiota-file-system-macosx64	3.1.11	metadata	26b66d7c0d49f20a7f8401441c56b0fbfa0f6b1b
+tz.co.asoft	kiota-file-system-macosx64	3.1.12	metadata	bc4da0ad78505b231d188408f7170cee6356a163

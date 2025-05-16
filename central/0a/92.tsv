@@ -236,6 +236,7 @@ com.ivanceras	parent	0.0.7		N/A
 com.ivanceras	parent	0.0.8		N/A
 com.ivanceras	parent	0.1.0		N/A
 com.ivanceras	parent	0.1.2		N/A
+com.lightbend.sbt	sbt-bill-of-materials_2.12_1.0	1.0.2		a6eafce225e2e031f1c7807e40bc6a5f558f9d2f
 com.lordofthejars.diferencia	diferencia-java-arquillian-standalone-ftest	0.4.0		8aeeb18168730e93acc9492a507cbfa2556c5320
 com.lordofthejars.diferencia	diferencia-java-arquillian-standalone-ftest	0.5.0		454cbe562d339ef7de1686e2bf466d1e3f15db7c
 com.lordofthejars.diferencia	diferencia-java-arquillian-standalone-ftest	0.6.0		91c8c6cc326f96af1013020a098b4e0ffc387702
@@ -626,6 +627,7 @@ io.airlift.drift	drift-idl-generator	1.2		c8a162c5c0c5f739a902deaa51b44fbce3ea65
 io.airlift.drift	drift-idl-generator	1.20		538a31beb8e9d11067eb8aa866f8cfc33593d5c2
 io.airlift.drift	drift-idl-generator	1.21		180b177070a5a11b9ba72e896532b39ac32c9583
 io.airlift.drift	drift-idl-generator	1.22		e47f8de6544dc7085108082ead244c3d865a9247
+io.airlift.drift	drift-idl-generator	1.23		d9baf3455e9d6b99eb26f46d553d7da0d24be229
 io.airlift.drift	drift-idl-generator	1.3		7fb2b006a9f8db4ec7f80a87a613cf827bd207c8
 io.airlift.drift	drift-idl-generator	1.4		c20a235d6fe6fa3a7d0fd3cdee63ff6ddef4b748
 io.airlift.drift	drift-idl-generator	1.5		ea30dc5ac29c9dd97cf37faad36324fc918ce27c
@@ -670,6 +672,7 @@ io.automatiko.build	automatiko-engine-codegen	0.41.0		db6b3e752358190b00f5916e4c
 io.automatiko.build	automatiko-engine-codegen	0.42.0		2ebac44a3fdcf8e2e3f69b4150c1d4bae6ead612
 io.automatiko.build	automatiko-engine-codegen	0.42.1		4afd17648bd35c1d50e16cb669da74658420fd14
 io.automatiko.build	automatiko-engine-codegen	0.42.2		846ce1b7fd489816c66d95ac0f9a508c6910fea3
+io.automatiko.build	automatiko-engine-codegen	0.43.0		e3f3ccfc2f7bbde558216021b7ecf487e7e9f1ea
 io.automatiko.build	automatiko-engine-codegen	0.5.0		810622c4340abd9eec3d1b4a940f9a03ba4b9b0a
 io.automatiko.build	automatiko-engine-codegen	0.6.0		36a364d33c82d6187ee228fa318b64ed1606c8e3
 io.automatiko.build	automatiko-engine-codegen	0.7.0		69fd54c9d5578078026e44f17012a63dbf7df83d
@@ -701,6 +704,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-struts-7.0	2.
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-struts-7.0	2.13.3-alpha		f42cfcb67477e0a86c31a2554229ce90f7cd8f44
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-struts-7.0	2.14.0-alpha		850e42cf740431e4a826365bef0850608ed0626a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-struts-7.0	2.15.0-alpha		0f03cc19290df9ffb03f442002a8d0933cac2163
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-struts-7.0	2.16.0-alpha		cf0f768b62aa7ef9c1e04905280b634b4a8be019
 io.vlingo.xoom	xoom-codegen	1.10.1		2d03a8673a107cd2227152d67079fa09d681763e
 io.vlingo.xoom	xoom-codegen	1.11.0		acec35d1a0d77725ab206d1ad2444bbeffb799c4
 io.vlingo.xoom	xoom-codegen	1.11.1		18498ad42275dafadca7c4605832ca1a6bbd1467
@@ -822,6 +826,9 @@ it.unibo.tuprolog	dsl-solve-js	1.0.1		N/A
 it.unibo.tuprolog	dsl-solve-js	1.0.2		N/A
 it.unibo.tuprolog	dsl-solve-js	1.0.3		N/A
 it.unibo.tuprolog	dsl-solve-js	1.0.4		N/A
+net.virtual-void	sbt-cross-building_2.9.1_0.11.1	0.5.0		29bb2980e7c08f5b59124daa4f1795f551b65ca3
+net.virtual-void	sbt-cross-building_2.9.1_0.11.1	0.5.1		c58c84908238c75f5a0fd5d0c2e3b147fa6a144f
+net.virtual-void	sbt-cross-building_2.9.1_0.11.1	0.6.0		6a89d502eada7d8b28798dc9519f4c70be9601da
 org.agmip.parent	agmip-base-parent	2.0.0		N/A
 org.agmip.parent	agmip-base-parent	2.0.1		N/A
 org.apache.clerezza.provisioning	security	0.1		N/A
@@ -1619,6 +1626,7 @@ org.sonarsource.sonarlint.core	sonarlint-telemetry	10.19.0.80932		63b74b0832da97
 org.sonarsource.sonarlint.core	sonarlint-telemetry	10.19.1.80951		8ae54340011813a109533f170450fd905d13dcff
 org.sonarsource.sonarlint.core	sonarlint-telemetry	10.2.0.78029		69105c12b6ecb2ced00b8f73d9819cace4b3a9bd
 org.sonarsource.sonarlint.core	sonarlint-telemetry	10.20.0.81055		6426c6a8accd5dbce1354e41e15f9cf3b7dbc515
+org.sonarsource.sonarlint.core	sonarlint-telemetry	10.21.0.81131		9e9143e336a78c91e2a52071b2d2d59d2178ded4
 org.sonarsource.sonarlint.core	sonarlint-telemetry	10.3.0.78427		e6921c39eea311f746f217a0b6fa079df17a25fc
 org.sonarsource.sonarlint.core	sonarlint-telemetry	10.3.1.78456		8a6fc4211c0a98330c8972a058764fdd1d3c567f
 org.sonarsource.sonarlint.core	sonarlint-telemetry	10.3.2.78498		6eb82a2286edb5315f8ad41bd9f732b8849ca459
@@ -1671,3 +1679,5 @@ org.xworker	xworker_javafx	2.0.3		85ee325db91b5075856c740ed3d152d219eaba32
 pe.devs.kmp	pagination	1.0.0		7b99f465b77a96460a6925a692d055f4f908aab0
 pe.devs.kmp	pagination	1.0.1		e0bac51c9c9d7d7eb99c195e66ccd50d874ee722
 sh.den	scala-offheap_2.11	0.1		be83b8f99ea49eac2fbd558cc3f1fb306133034c
+tz.co.asoft	kiota-file-picker-core-jvm	3.1.11		f499754182284f16bbc2a5482c66d3385eb58f08
+tz.co.asoft	kiota-file-picker-core-jvm	3.1.12		f499754182284f16bbc2a5482c66d3385eb58f08

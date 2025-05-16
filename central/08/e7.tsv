@@ -44,6 +44,7 @@ com.aliyun	alibabacloud-aicontent20240611	1.0.3		1883ed37d49b131b65fdb8be37362ab
 com.aliyun	alibabacloud-aicontent20240611	1.0.4		4078d97e3ef63066ffcc93676d69df8219058852
 com.aliyun	alibabacloud-aicontent20240611	2.0.0		e1c275d3926d85792ba5663eef947d5e7b2e8ecf
 com.aliyun	alibabacloud-aicontent20240611	2.0.1		b46e0e0a4dac1c53229a75a56cf5020c79483d15
+com.aliyun	alibabacloud-aicontent20240611	3.0.0		00e3c0d0bedbcd413a7b6c9da7850576852aad41
 com.amysta.jclouds.provider	rackspace-clouddns-us	2.0.0		b0061ed59cbe709066f176b5bcc9103294db9f70
 com.amysta.jclouds.provider	rackspace-clouddns-us	2.0.1		d315b5ecc79b5f1d5e036dc0fff6b80f782da4e1
 com.anaptecs.jeaf.generator	jeaf-generator-test-services-impl	1.10.0		99969efdb9d2e95c4e77b966be704ad6ee3dbcd7
@@ -302,6 +303,7 @@ com.powsybl	powsybl-network-store-model	1.21.1		178fcc9e1bc5276e656d49a2d21cd374
 com.powsybl	powsybl-network-store-model	1.22.0		d29bee6e2924f79c64ca3da404f92122d0ad0e4d
 com.powsybl	powsybl-network-store-model	1.23.0		09ad11161c0cced4288fbb2ffd689562fabe356c
 com.powsybl	powsybl-network-store-model	1.24.0		fde8ff10aaa60d8fbe22e3e64c9563987e57ad88
+com.powsybl	powsybl-network-store-model	1.25.0		aa43913cbedcc89c8e665322bc4f4e7d4b30145c
 com.powsybl	powsybl-network-store-model	1.3.0		bf7b1a55b89973f2dc8796bd0bdc58c639607964
 com.powsybl	powsybl-network-store-model	1.4.0		fac46e6b95dac22913fa87618d315799d67c29b4
 com.powsybl	powsybl-network-store-model	1.5.0		d7d5daf7c88f00cb2da79c5112fa8f2822a6d1a7
@@ -436,6 +438,7 @@ com.sparkutils	shim_runtime_3.5.0.oss_3.5_2.12	0.0.1-RC2		200bc81bcdf78b5c264025
 com.sparkutils	shim_runtime_3.5.0.oss_3.5_2.12	0.0.1-RC3		bb3db8ad29743efc1ef36e7e154a5b89487d89ee
 com.sparkutils	shim_runtime_3.5.0.oss_3.5_2.12	0.0.1-RC4		8f1cc128b3cbfe522755a951f62e37b160479889
 com.sparkutils	shim_runtime_3.5.0.oss_3.5_2.12	0.2.0-RC1		8ab1d29effa1a446e7fdaaa08287f06eea43afc5
+com.sparkutils	shim_runtime_3.5.0.oss_3.5_2.12	0.2.0-RC2		97b6b138dd796dc92628ea4f95717038683d2789
 com.typesafe.akka	akka-testkit_2.10.0-M7	2.1-M2		98dc27d4f6a408b8d668438c673b79994bab8a39
 com.verygoodsecurity	adapter-bouncer	1.0.3		N/A
 com.verygoodsecurity	adapter-bouncer	1.0.4		N/A
@@ -827,6 +830,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-res
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-resteasy-common	2.13.3-alpha		f6dc0577c050d3590fc81de3b9dc8ad12e7eee28
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-resteasy-common	2.14.0-alpha		7e541bed30e5bca219f69c6970cf2e195dbdcce3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-resteasy-common	2.15.0-alpha		db7b17310f272ebb16e1ad6c50c1eec6d29ff6bd
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-resteasy-common	2.16.0-alpha		4db22b28d26fd5cdf5a25f9493902dd0b8c784fd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-resteasy-common	2.2.0-alpha		a7316f8ff6ec10ce08fc0eb65537a266a7dfe234
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-resteasy-common	2.3.0-alpha		50400da254333a1e4f6cf6faf48a3fd84b99bace
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-resteasy-common	2.4.0-alpha		cf12a58e29c90dceb30a611227253db907c49d9d
@@ -941,7 +945,11 @@ io.rsocket.kotlin	rsocket-ktor-client-iosx64	0.20.0		N/A
 io.rsocket.kotlin	rsocket-ktor-client-iosx64	0.20.0	metadata	5eac1ec44787f0ca40934157b2c0e84bc9f75e78
 io.spinnaker.clouddriver	clouddriver-docker	2025.0-0		d0055622ac9752bf6d9cbc6be1037cd544d68cfb
 io.spinnaker.clouddriver	clouddriver-docker	2025.0-1		cf74954eac60f9dd219b56513b2cde79ebe1ab96
+io.spinnaker.clouddriver	clouddriver-docker	2025.0-2		91774d1d4d1b31cfa71b1d1181249920233fe469
+io.spinnaker.clouddriver	clouddriver-docker	2025.0-3		3991e301f16959ccdfc686d8e559e4dcc79063c4
+io.spinnaker.clouddriver	clouddriver-docker	2025.0-4		d1ea18c11853e85c1e53951d30b6ec265a650efc
 io.spinnaker.clouddriver	clouddriver-docker	2025.0.0		bb9dc7f82da35627da3a2d18481397aaae387ef7
+io.spinnaker.clouddriver	clouddriver-docker	2025.0.1		dbd7f224ef5d0b15f92733a45398fc26a566a7b8
 io.spinnaker.clouddriver	clouddriver-docker	5.74.0		e2d9e833b507957a034f1be75226947498be4ffd
 io.spinnaker.clouddriver	clouddriver-docker	5.74.2		153258e99ba8ea1b66207d3daadc509895cfe9c9
 io.spinnaker.clouddriver	clouddriver-docker	5.74.3		02e33758af9ead0fe6d757c5513fa32b3a20ecd1
@@ -1022,14 +1030,19 @@ io.spinnaker.clouddriver	clouddriver-docker	5.91.3		f8c23d77c2d336b345d095edfb68
 io.spinnaker.clouddriver	clouddriver-docker	5.91.4		465f5e1d8cfb330b368540f0d75d44dfc69eec5f
 io.spinnaker.clouddriver	clouddriver-docker	5.91.5		b4e978897b0a624c03c932b152a8a78ad4115b90
 io.spinnaker.clouddriver	clouddriver-docker	5.91.6		3e45627c6bfab0e8f36afb7375f0d1783b9d6b57
+io.spinnaker.clouddriver	clouddriver-docker	5.91.7		858407d367b1409c7291a4d4e09f1c794fb20aa1
 io.spinnaker.clouddriver	clouddriver-docker	5.92.0		51718a14b73fc571eff4b647d3bcbfaab81c82c1
 io.spinnaker.clouddriver	clouddriver-docker	5.93.0		817196ca4c13bb3d06857df40dbfb515d8041d9f
 io.spinnaker.clouddriver	clouddriver-docker	5.94.0		d4c9f2d497d4dbb3ef6092cc064456e762a63e15
 io.spinnaker.clouddriver	clouddriver-docker	5.95.0		94b7c6da28cb5c180e569d9756f906b57e740517
+io.spinnaker.clouddriver	clouddriver-docker	main-10		3dc2f96f201d57d1f1079a164b8c7cc1c997d484
+io.spinnaker.clouddriver	clouddriver-docker	main-11		3080b5398b8dca3b9f379534a00e6edd88f88b34
+io.spinnaker.clouddriver	clouddriver-docker	main-12		6a075d7243f318b6f042abe8de7b3dadd46868ee
 io.spinnaker.clouddriver	clouddriver-docker	main-5		ddd54317fb99d72475ed4f2fd121924dc0d49b24
 io.spinnaker.clouddriver	clouddriver-docker	main-6		99ec7af5f3074706dc5c533efd201afff1b235e1
 io.spinnaker.clouddriver	clouddriver-docker	main-7		5f3d5a17362db8eb00c5801857d9f39cc3ea1d0d
 io.spinnaker.clouddriver	clouddriver-docker	main-8		6cceb6c1aba443c50b3c22f5b53989cdc87e8f47
+io.spinnaker.clouddriver	clouddriver-docker	main-9		cb45450a6866e8c698d7511f84bbcdb96e390f57
 io.sunshower.aire	aire-common	1.0.6.Final		3b0ee02bb88fb0f4eac788d7f4b51bb0e9472459
 io.sunshower.aire	aire-common	1.0.8.Final		e6fa1c0ace3a643ac9f2abd02174155116e69f92
 io.suzaku	boopickle_sjs1_2.13	1.3.2		b1d37b8c623cc07c45aecc1620dd8d5396ce678b
@@ -1230,6 +1243,7 @@ org.apache.tomcat	tomcat-storeconfig	10.1.36		070982c026318077082e22ab225b3ec997
 org.apache.tomcat	tomcat-storeconfig	10.1.39		21713e2e92e53c401b19dd388a15afb0baee9bde
 org.apache.tomcat	tomcat-storeconfig	10.1.4		cd61abd62dc0f53fc2e6f0f045591ea2d9fced99
 org.apache.tomcat	tomcat-storeconfig	10.1.40		ad1ee810509c5887560b31208854cf75589a1eb0
+org.apache.tomcat	tomcat-storeconfig	10.1.41		bdf291df4287fb79f11e4ed8df793ea7d76e5463
 org.apache.tomcat	tomcat-storeconfig	10.1.5		07509da772a745fb10716f3d58f1fbbcdda23d7c
 org.apache.tomcat	tomcat-storeconfig	10.1.6		6ba33e75c36a6c18291e0b45b9af9c2ea4c94908
 org.apache.tomcat	tomcat-storeconfig	10.1.7		4ef503ce6111c40323d2a469cdd9947606dc13e1
@@ -1265,6 +1279,7 @@ org.apache.tomcat	tomcat-storeconfig	11.0.3		690d061e46c71fab3219a216805ca69ae23
 org.apache.tomcat	tomcat-storeconfig	11.0.4		6a4b7f63a201e0ca0b0c70ff21cef5572f2b65ac
 org.apache.tomcat	tomcat-storeconfig	11.0.5		d65bfd354e3f315c0136017bf3e5124931c2937a
 org.apache.tomcat	tomcat-storeconfig	11.0.6		ebf7f337f6bb4a01ed529636a09bd996dab59e5a
+org.apache.tomcat	tomcat-storeconfig	11.0.7		790c896c67ea4b3ff10bbafab1e1479ce7df394b
 org.apache.tomcat	tomcat-storeconfig	8.0.22		40b39b2f70f403f3b23ffa30d8c9c16411270d0c
 org.apache.tomcat	tomcat-storeconfig	8.0.23		c24783a2b679f71b73d99677e150454bb959c94c
 org.apache.tomcat	tomcat-storeconfig	8.0.24		d49c05a20ff9a5f9d088b8d6dca2cd8c28f94d4e
@@ -1402,6 +1417,7 @@ org.apache.tomcat	tomcat-storeconfig	9.0.10		3c5ee6f065a9149ddc5946fe8c3e6de2d1a
 org.apache.tomcat	tomcat-storeconfig	9.0.100		eeb713d5796ce23667bd0573909e7ce9dff4e044
 org.apache.tomcat	tomcat-storeconfig	9.0.102		b1b7184503c1931aaf1572e25c9791d1b437988e
 org.apache.tomcat	tomcat-storeconfig	9.0.104		8ea3ebc57803858250e6b7ff9b6d2ccf720446b2
+org.apache.tomcat	tomcat-storeconfig	9.0.105		a30949f9ca6357655d8890967031a7ea0536bfbd
 org.apache.tomcat	tomcat-storeconfig	9.0.11		6ca2d903a6adae053cd5e2a5057bcf63c070f250
 org.apache.tomcat	tomcat-storeconfig	9.0.12		434a74be7919276b8beb3bbe4ad4763be2f05c3e
 org.apache.tomcat	tomcat-storeconfig	9.0.13		9421a9b166c245f03db416f2888f5672f09fb98b

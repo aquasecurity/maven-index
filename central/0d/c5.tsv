@@ -466,6 +466,9 @@ com.daml	daml-lf-1.16-archive-java-proto	2.9.7		b0b8926cb2791ae67a81253db6afff16
 com.fizzgate	fizz-simple-cache-plugin	1.0		878551fa1eb318831ddcaefd03977007cdb48a77
 com.fizzgate	fizz-simple-cache-plugin	2.7.1		7d625c548af4dc2a47df8c24310f04012b0c663e
 com.github.cornerman	simple-scalajs-requests_2.12	0.1.0		027cf4b85b7fd99c7592479742ac8db861325cf1
+com.github.ehsanyou	sbt-docker-compose_2.10_0.13	0.0.0		52b3395ecf4cb1d0ca9be7e75170a730b119f299
+com.github.ehsanyou	sbt-docker-compose_2.10_0.13	1.1.0		2a6606a61f5a246a737393652b933bd81fe24e8e
+com.github.ehsanyou	sbt-docker-compose_2.10_0.13	2.0.0		9930b9581817d7f309ee778935c2714a5c4fb780
 com.github.kvafy	hello-world	0.5		a2ab190b95ec0a000d8a91d596e810f8b827c3c7
 com.github.kvafy	hello-world	0.6		a140a75fa59f4b860da9de377fd62970a09bc9c3
 com.github.kvafy	hello-world	1.2		645817fdca196e9b0fcd49747a5ca1237e7ca429
@@ -544,6 +547,8 @@ com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.63.0		d49b4e
 com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.64.0		b944dfea3e45fbe06f8863d1d6cf2c101dee0a06
 com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.65.0		42b1f7ecc24975fe3adc57ceb98384c72797a034
 com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.66.0		c7dcc70017e9918caffc8b34c8d2b121329292c1
+com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.67.0		a4c600f97ac9d00f53e038212db284070593c3c1
+com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.68.0		5dc119de6d7262b1da5d9786c99abda9984e7d9a
 com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.7.0		1d61ecaf50bc5dd0f88def22a93a50905d7bc35e
 com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.7.1		f49ade70cecfd07ef2b6fcfb585bc4c6644f04dd
 com.google.api.grpc	proto-google-cloud-dataproc-metastore-v1alpha	0.8.0		2b21ba57325d9a556b1cd34b0c2e67efd6429466
@@ -1103,6 +1108,8 @@ io.camunda.connector	connector-aws-sns	8.4.16		a7208ebded5f45fd27fbd3964db66caa1
 io.camunda.connector	connector-aws-sns	8.4.16	with-dependencies	32179b22bf99561d72394be9ada42a9e6cdbca03
 io.camunda.connector	connector-aws-sns	8.4.18		80951c16f53f31af69cdbc333a1e02938f454b49
 io.camunda.connector	connector-aws-sns	8.4.18	with-dependencies	5e818726ecc5558539205cebbdaa026ffb85be0b
+io.camunda.connector	connector-aws-sns	8.4.19		cf5ad3ac0bc7d0ae8b344c216ccbc43ee3ed33cb
+io.camunda.connector	connector-aws-sns	8.4.19	with-dependencies	7d1a70794f33c1af905abf1a7517e2e4f3d1360f
 io.camunda.connector	connector-aws-sns	8.4.2		0c3d4cf2c9124446fa79f38b1b0c20af2678df48
 io.camunda.connector	connector-aws-sns	8.4.2	with-dependencies	de78f824cce0a45603f885ef13bd619e473074f4
 io.camunda.connector	connector-aws-sns	8.4.3		aa2bd0a40406985360e9e78197a649e2c59a2dad
@@ -1169,6 +1176,8 @@ io.camunda.connector	connector-aws-sns	8.6.10		1ae5ed9e9616adadf8628511674e0c2c8
 io.camunda.connector	connector-aws-sns	8.6.10	with-dependencies	4d349758d831b6c9147a41484fe8f45138ef642f
 io.camunda.connector	connector-aws-sns	8.6.11		36846373bc970e2f717c9ba872140dc4096e3113
 io.camunda.connector	connector-aws-sns	8.6.11	with-dependencies	bf916c457dfa9fdf617dcb10694437369cc83786
+io.camunda.connector	connector-aws-sns	8.6.12		5b809beaee347ed5e294335d29ea1314a9397cff
+io.camunda.connector	connector-aws-sns	8.6.12	with-dependencies	99d1ffc2cad52b98e58396029ff7d1e34d0cd087
 io.camunda.connector	connector-aws-sns	8.6.2		308b50b0bf0b8389a76da5f605c22cd18adfa44a
 io.camunda.connector	connector-aws-sns	8.6.2	with-dependencies	c809ab82a4370524600b63fbd2c1946c05d2bc6c
 io.camunda.connector	connector-aws-sns	8.6.5		fd9d106fe5475102a62c6f544e00e158b6ab33ff
@@ -1191,10 +1200,18 @@ io.camunda.connector	connector-aws-sns	8.7.0-alpha3.3		bc928412459314dd266de2087
 io.camunda.connector	connector-aws-sns	8.7.0-alpha3.3	with-dependencies	81351194da71909c40183252e3bb422412b8e2c4
 io.camunda.connector	connector-aws-sns	8.7.0-alpha4		cc253f17f2f45e93ae553f480c3b639363f4e34e
 io.camunda.connector	connector-aws-sns	8.7.0-alpha4	with-dependencies	160b5eb1e50e4abc5957d321f587e5e68e57a4e0
+io.camunda.connector	connector-aws-sns	8.7.1		3a794ad97294f8fecd6cbe1af00627dbee1eade7
+io.camunda.connector	connector-aws-sns	8.7.1	with-dependencies	a6c7fcf154a282328c9a3dd6468f245d759ee841
+io.camunda.connector	connector-aws-sns	8.7.2		054ad4474f323b1ea4610d759af4415175ded8a6
+io.camunda.connector	connector-aws-sns	8.7.2	with-dependencies	1c4635659cad77284859ca57d60c29f87c132283
 io.camunda.connector	connector-aws-sns	8.8.0-alpha3		ce9b1019c233f948862bf5ac0fda7f911d461eeb
 io.camunda.connector	connector-aws-sns	8.8.0-alpha3	with-dependencies	ba9dab4165ccdb9b64b76566ff312ef64ce179b3
 io.camunda.connector	connector-aws-sns	8.8.0-alpha3.1		b13bf321b83f3ce68d9a0cefb0b50c90d6e8d93e
 io.camunda.connector	connector-aws-sns	8.8.0-alpha3.1	with-dependencies	ef2c4319ba900aa7c3267c8f467668e3c551082e
+io.camunda.connector	connector-aws-sns	8.8.0-alpha4		5e09b8ce29a3062865689c219b45683826b3e5a5
+io.camunda.connector	connector-aws-sns	8.8.0-alpha4	with-dependencies	8edb65c082c45859ae50419102e60a6f4ffd03fb
+io.camunda.connector	connector-aws-sns	8.8.0-alpha4.1		49d6a5277d90052ce71addd2ae9218963c3fe138
+io.camunda.connector	connector-aws-sns	8.8.0-alpha4.1	with-dependencies	9720bcaf5ec8d49f77afed215e53cf055ebef165
 io.fabric8.jenkins.packages	jenkins-packages	1.0.0		N/A
 io.fabric8.jenkins.packages	jenkins-packages	1.0.1		N/A
 io.fabric8.jenkins.packages	jenkins-packages	1.0.15		N/A

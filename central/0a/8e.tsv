@@ -467,7 +467,16 @@ aws.sdk.kotlin	detective-jvm	1.4.73		2be883c875b97c8ad97e36820b3588a4f9654d37
 aws.sdk.kotlin	detective-jvm	1.4.74		a152c24cd020173759e3379706da528e0b55f6f0
 aws.sdk.kotlin	detective-jvm	1.4.75		2fdde23fdc8f70310212d6ea9f9585a3b13da8c3
 aws.sdk.kotlin	detective-jvm	1.4.76		336843a87858ef0979ec7b10c6702dc9d117e8c2
+aws.sdk.kotlin	detective-jvm	1.4.77		7a28d6bbd407fd70b7d14c73f457688205576ff1
+aws.sdk.kotlin	detective-jvm	1.4.78		502bb5c154f29e7634303a8e29862a3734647fd5
+aws.sdk.kotlin	detective-jvm	1.4.79		b80fe39fff9c12ddedb6346e45e0a0c60b1efbb4
 aws.sdk.kotlin	detective-jvm	1.4.8		53034131a06deaca96baf5cc25a0df9671dd193d
+aws.sdk.kotlin	detective-jvm	1.4.80		b9f9b7e0b787fb6f447ec23e7feef71c7a5fca9b
+aws.sdk.kotlin	detective-jvm	1.4.81		87a81c21ca44a4f55076c3730c11061a4bacaa5e
+aws.sdk.kotlin	detective-jvm	1.4.82		fe15626ab77a9a53d8f1b9f16efea4e5d8e4127f
+aws.sdk.kotlin	detective-jvm	1.4.83		a6a7a953e95c270732c19afba9997aa2c2e6efdc
+aws.sdk.kotlin	detective-jvm	1.4.84		485639a7a1232b8ff0906c04f3fa63e9fb7d45dd
+aws.sdk.kotlin	detective-jvm	1.4.85		7edad1c86dd493ac94ba848384e3e641dde85b25
 aws.sdk.kotlin	detective-jvm	1.4.9		c32c185af51d7c8bed2795107a520f280fa292e7
 cloud.piranha.extension	piranha-extension-standard-annotationscan	22.1.0		e8d534fcf4985e7a5c6496b55d37f2a06f974e63
 cn.jdevelops	jdevelops-api-version	2.0.7		8ae1c74d656f87bece413cb5bc62ba23247b82e0
@@ -1090,6 +1099,7 @@ com.walmartlabs.concord.plugins.basic	kv-tasks	2.23.0		3a070585d938527e3a48e9992
 com.walmartlabs.concord.plugins.basic	kv-tasks	2.24.0		bf2b52f8187694b464ede6fcc04db7fc08033b4e
 com.walmartlabs.concord.plugins.basic	kv-tasks	2.25.0		9055dc6f5933862d56cf3ec27860227a61cfc8f0
 com.walmartlabs.concord.plugins.basic	kv-tasks	2.25.1		fce283ddf3ab3969d29a41cc8a9c5d4312db4794
+com.walmartlabs.concord.plugins.basic	kv-tasks	2.26.0		7031849f1412a9aef744dd10b6ea4f303e6f7550
 com.walmartlabs.concord.plugins.basic	kv-tasks	2.3.0		ee5ed7f6e49b56b8a53fdfaa99716d289e1f2bdf
 com.walmartlabs.concord.plugins.basic	kv-tasks	2.4.0		c057840da959984200b6a68719a5ecdce3b5e267
 com.walmartlabs.concord.plugins.basic	kv-tasks	2.5.0		24985a68aba0cd3c44fb402ba06f4e41f8d88e4f
@@ -1102,6 +1112,7 @@ com.webull.openapi	webull-java-sdk-core	0.2.0		f398e7bb0e7c1a043f27472fe8755b64c
 com.webull.openapi	webull-java-sdk-core	0.2.1		7a7f67fa7e036cdd2967306b16dab81b58d4607b
 com.webull.openapi	webull-java-sdk-core	0.2.10		6fe18d5a9268a37e46dd1e36667f8b67093a5244
 com.webull.openapi	webull-java-sdk-core	0.2.11		27b83f4425f93d41261394f4b52ce47ee9090660
+com.webull.openapi	webull-java-sdk-core	0.2.12		e0ba8571c47f6def7d29b43132a6ceaf216097b2
 com.webull.openapi	webull-java-sdk-core	0.2.2		9a8fe8ebc050dd43a1a9fdd1dc5a0290f1d7b943
 com.webull.openapi	webull-java-sdk-core	0.2.3		b75b93190e2276c3d9be601ad16b5ee674040586
 com.webull.openapi	webull-java-sdk-core	0.2.4		39c74327b81b0ef26e3ba6c01ada74ac4cf0d70b
@@ -1348,6 +1359,7 @@ io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.28		30d9d28262989d0403e9be7a
 io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.29		76bdfd98ebc858a5153c26a2aae8e34924dc4cfe
 io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.3		162cc6e56914f59c25790fedca63729d26ae7627
 io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.30		82bcd17667f3fa1d968757f7da446b24754af8f8
+io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.31		430eaca78627d6f4d51a80a1fff9583ff74d7520
 io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.4		21382a48ad32fb230b483ae4fad5cb9354689e26
 io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.5		3b32e8c6b217db531d9d6f7049026ed635b5279d
 io.liftwizard	liftwizard-bundle-dynamic-bundles	2.1.6		8e511f3431fe7015d51c3690b4975a4e9fc25368
@@ -1636,6 +1648,7 @@ org.apache.camel	camel-google-drive	4.8.3		bdd870f03ae9c0aadba473eb1faefc8ff4675
 org.apache.camel	camel-google-drive	4.8.4		caa562d5e40cb293e0ad92b990ecdd0e8b248923
 org.apache.camel	camel-google-drive	4.8.5		d33a15a7dc091d7653d6cc37f9155f920344c2d9
 org.apache.camel	camel-google-drive	4.8.6		0e01ee164275382f5df4f2f9030e2be298b5fb37
+org.apache.camel	camel-google-drive	4.8.7		a0174a8bb8e05e35c5cc45a45b78b38e51e30826
 org.apache.camel	camel-google-drive	4.9.0		8117351eba09d6da1af97dc7ab402622163e8505
 org.apache.camel.quarkus	camel-quarkus-disruptor-parent	1.1.0		N/A
 org.apache.camel.quarkus	camel-quarkus-disruptor-parent	1.2.0		N/A
@@ -2002,6 +2015,7 @@ org.apereo.cas	cas-server-support-passwordless-ldap	7.2.0-RC6		a11b9ac2478499410
 org.apereo.cas	cas-server-support-passwordless-ldap	7.2.0-RC6	resources	ad98747b4b1c8a50a92a0cfeed7d06f1b3c1288f
 org.apereo.cas	cas-server-support-passwordless-ldap	7.2.1		8dc7960e55bde2780094ea99ddb5e2b5aaa1850f
 org.apereo.cas	cas-server-support-passwordless-ldap	7.2.1	resources	6d2b2aa713f3a8fdcaf8dd62e9336621066d1d97
+org.apereo.cas	cas-server-support-passwordless-ldap	7.2.2		3c2c44f0a16b9afe3592f99df7fbafde2e722c83
 org.apereo.cas	cas-server-support-passwordless-ldap	7.3.0-RC1		a0f44f745936ea7b1a4c0d66ce715f75d9c8aeb6
 org.apereo.cas	cas-server-support-passwordless-ldap	7.3.0-RC1	resources	441e5ccb88d930e9aa2dcd156fcac77f158357d0
 org.apereo.cas	cas-server-support-passwordless-ldap	v6.4.0-RC5		87cf377d9384152f09c4179c075defa7a5566755
@@ -4678,6 +4692,7 @@ sh.christian.ozone	api-gen-runtime-iosx64	0.3.1		N/A
 sh.christian.ozone	api-gen-runtime-iosx64	0.3.1	metadata	4aeacad31e43d4d7a5096ac5612c22e6337972e3
 sh.christian.ozone	api-gen-runtime-iosx64	0.3.2		N/A
 sh.christian.ozone	api-gen-runtime-iosx64	0.3.2	metadata	4b781280fb07563abe1bcb95ed284f864b98b0be
+sh.christian.ozone	api-gen-runtime-iosx64	0.3.3	metadata	57a89e29ac83157aadf489525c5a42a0a41d7002
 software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.0.1		N/A
 software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.0.1	metadata	f57af98b83028f7ea3eb6f5a4c2dec27c02b8abe
 software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.0.2		N/A
@@ -4698,6 +4713,7 @@ software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.1.3		N/A
 software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.1.3	metadata	9509c6bfd56e8a672e676494432a941c88fbedd1
 software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.1.4		N/A
 software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.1.4	metadata	9e217384c89df6b76d894e66263334613ac138e9
+software.amazon.lastmile.kotlin.inject.anvil	runtime-watchosarm32	0.1.5	metadata	46ee38ad47dd0861778bc3f877723fd28374d437
 software.amazon.smithy.java	protocol-test-harness	0.0.1		7b33e740c4d5e9b6f6eaa6b5c362ee718b11ae0e
 software.amazon.smithy.java	protocol-test-harness	0.0.2		ef7f0c6977ed00bb3dac81bcc9c11b99684b266d
 space.x9x.radp	scaffold-simple	0.1.3		6673ebe85674bdf7a50f64f05a5a9021128e9149

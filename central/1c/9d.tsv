@@ -429,8 +429,20 @@ aws.sdk.kotlin	databasemigrationservice-jvm	1.4.73		0325c2bbc95043df05b70eae73b0
 aws.sdk.kotlin	databasemigrationservice-jvm	1.4.74		bd6a156dbdcbe287e3edd1c65c40bf078392d947
 aws.sdk.kotlin	databasemigrationservice-jvm	1.4.75		528ef6bdc51b22094f3ed32903b65462bc940122
 aws.sdk.kotlin	databasemigrationservice-jvm	1.4.76		84986792957a97e277fa850932f7844caa63abc3
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.77		32f35f5e2bc86bb19c549e18e8ccae352104fcb6
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.78		85298295cea8dbe557d8095a3b3f87e9c5729d5c
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.79		c47e6df00e9c548a42c704f375353e7b9c23f05c
 aws.sdk.kotlin	databasemigrationservice-jvm	1.4.8		19a233b184383d9d5ad64d7f7152c0c85adc5203
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.80		f75d88a1caca39291a788dec0ea342a96bcb554e
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.81		b1000f0223af4576e4972fc8d2df749281b50868
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.82		9112bde40b82f7a2f0fabe824e5869715e29a5de
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.83		939d7e9e080346b2ceed4603138e2b8029dde4e3
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.84		9733ffa2bc2ee5d446bb719553af9c15e0dfbabb
+aws.sdk.kotlin	databasemigrationservice-jvm	1.4.85		fd8cc824a34489ffe928ed24a417bf74edf3bc97
 aws.sdk.kotlin	databasemigrationservice-jvm	1.4.9		025b0c0c55b23e7dd4fa64d9b635689ccbfc42ee
+ch.epfl.scala	sbt-scalajs-bundler-sjs06_2.10_0.13	0.16.0		7fa78bf332670d10c41a41f295c8183cb921de5a
+ch.epfl.scala	sbt-scalajs-bundler-sjs06_2.10_0.13	0.17.0		9fbff48afffc16c66bd807a49442a5db2dfb3b8b
+ch.epfl.scala	sbt-scalajs-bundler-sjs06_2.10_0.13	0.18.0		89605b2d10fa74d5b8ca7819e60bf8e30a7419e2
 com.alibaba.csp	sentinel-demo-rocketmq	0.1.0		72d1d9172cca8b49ca97ff46df005f0ad73a7583
 com.alibaba.csp	sentinel-demo-rocketmq	0.1.1		1abbb456bbedf1e084f98b07a5cf5318976a208f
 com.alibaba.csp	sentinel-demo-rocketmq	0.1.2		76c961d1a7258797f9b38c8e4e7653d0636a80ac
@@ -794,6 +806,8 @@ com.power4j.fist3	fist-support-data	3.4.0		70eeea1a06dc5239addfca1058c37af2eb22d
 com.power4j.fist3	fist-support-data	3.4.2		1848747d4c47d9e96c2432a192bcc38d45f6eaec
 com.power4j.fist3	fist-support-data	3.5.0		057d94f984c6f9c5f0653467e39beb25395bce43
 com.power4j.fist3	fist-support-data	3.6.0		6d0c36a16409a171ff977919cdb1dfbb60e36c8c
+com.power4j.fist3	fist-support-data	3.7.0		62d34535f9b09b5f537a44ce3c0698077e23de78
+com.power4j.fist3	fist-support-data	3.7.1		861705b3ecb76602dc4bf217dce7b8e5ec1bbbd5
 com.power4j.fist3	fist-support-data	3.x		d71ac515facf2849fd6e72457051a435d6b14e5a
 com.speedment	speedment-archetype-mysql	2.3.0		cccff6e944555ed6f877cb1c85327923cf1e01d7
 com.speedment	speedment-archetype-mysql	2.3.2		b23ad185aa203dd7d115ef0dea71ccdeac6a5b7a
@@ -1225,6 +1239,7 @@ dev.zio	zio-test-sbt_sjs1_2.12	2.1.14		00cf942bb7eb3c8d58e7850d3a4fa5e9ac7fb8bc
 dev.zio	zio-test-sbt_sjs1_2.12	2.1.15		e55524193dc03d1d57eccb0142fb7c10b7c2739d
 dev.zio	zio-test-sbt_sjs1_2.12	2.1.16		56786ab9b6446b5d38ee406db3a5cf0ebdc56b86
 dev.zio	zio-test-sbt_sjs1_2.12	2.1.17		4b271924e7fe1469882fffa978f6e2c6f3eec3cf
+dev.zio	zio-test-sbt_sjs1_2.12	2.1.18		df9248e2a89882e89e43c456a3f4a3b3405b454c
 dev.zio	zio-test-sbt_sjs1_2.12	2.1.2		0b138a0c2e23ff4c100425518daf35aeb1978705
 dev.zio	zio-test-sbt_sjs1_2.12	2.1.3		f9b569365b80dd5b59313a654fff2b218644b17a
 dev.zio	zio-test-sbt_sjs1_2.12	2.1.4		0828c7e33b323154d66c5c431ef59b38086dbf5e
@@ -1312,6 +1327,8 @@ io.camunda	camunda-process-test-example	8.6.12-rc1		ff1d245f4f87011d2344c1b0a25d
 io.camunda	camunda-process-test-example	8.6.13		0ca0f360119d009d96e707b52ca8f7413f821373
 io.camunda	camunda-process-test-example	8.6.14		911f818f1ef8c70508ad0a11382bc9afbf84a3e9
 io.camunda	camunda-process-test-example	8.6.14-rc1		2bf5e1575373af2c386a238f323686b62d189216
+io.camunda	camunda-process-test-example	8.6.15		88306af18393872fd951b4342fcc3b6fbd6ca4e0
+io.camunda	camunda-process-test-example	8.6.15-rc1		d0f2ace5e4a5bf319cca90e063506f24761618f4
 io.camunda	camunda-process-test-example	8.6.2		8ae6f80e4f8a65e2b001708635d018da1d8254dc
 io.camunda	camunda-process-test-example	8.6.3		def2b074650296204cd244ecdda656afba7980b8
 io.camunda	camunda-process-test-example	8.6.4		67001707b100abe809452f09aba38aefd827bd39
@@ -1347,12 +1364,15 @@ io.camunda	camunda-process-test-example	8.7.0-alpha5-rc1		44b8c9826b8bfef8a23c91
 io.camunda	camunda-process-test-example	8.7.0-rc3		794cce611c4a41e57c8a0cc98a59cef202e4103c
 io.camunda	camunda-process-test-example	8.7.1		8f4bc6db468b2fd5d29215ced52a02c01222fd59
 io.camunda	camunda-process-test-example	8.7.1-rc1		d0d4c04d2664dea81bbc8418e3dad0aec74e9568
+io.camunda	camunda-process-test-example	8.7.2		39f99a06cc8f07e4ec798fe3329cefec20bbc071
+io.camunda	camunda-process-test-example	8.7.2-rc1		0cd424217a446e630c8b51f4757852b3cbcd5458
 io.camunda	camunda-process-test-example	8.8.0-alpha1		5496b2b74834c3bba442dd95bdf59604cb18a4c9
 io.camunda	camunda-process-test-example	8.8.0-alpha1-rc1		0af3f82ca181e8ebcde7e5ef4afbd9a5f066faff
 io.camunda	camunda-process-test-example	8.8.0-alpha2		1b3cabe2073db532cd223271ef95b5c6bb1389a3
 io.camunda	camunda-process-test-example	8.8.0-alpha2-rc1		75674ce91f6b3313c23ada56f8bcfea29e96d172
 io.camunda	camunda-process-test-example	8.8.0-alpha3		838a790e0adccae243da2fcf9b39cc5f977af5c8
 io.camunda	camunda-process-test-example	8.8.0-alpha3-rc3		4e196dc6e686b9326389a550606949415a6888d5
+io.camunda	camunda-process-test-example	8.8.0-alpha4		97fd22914a42511018e62a62e520620c3c0ecc8a
 io.camunda	camunda-process-test-example	8.8.0-alpha4-rc1		f8781fec203ef522a22cccd84a2a46960e491cd2
 io.github.joselion	atomic-flyway	1.0.0		83da03a5762015d983f51434e8c2783e8dae22ea
 io.github.joselion	atomic-flyway	1.0.1		b0a632acdd6f65228b375b09e881308a16e1b8eb
@@ -1379,6 +1399,7 @@ io.github.the-best-is-best	compose-google-sigin-in-iosx64	1.0.0		N/A
 io.github.the-best-is-best	compose-google-sigin-in-iosx64	1.0.0	metadata	b6c7a9a1ad99a9d8cd01776a045217ab3d194e33
 io.github.the-best-is-best	compose-google-sigin-in-iosx64	1.0.1		N/A
 io.github.the-best-is-best	compose-google-sigin-in-iosx64	1.0.1	metadata	b6c7a9a1ad99a9d8cd01776a045217ab3d194e33
+io.github.the-best-is-best	compose-google-sigin-in-iosx64	1.1.0	metadata	c6f68781e0aac6624cdbb52c0cfb867ac1b3d578
 io.ks3	ks3-standard-macosarm64	0.2.0		N/A
 io.ks3	ks3-standard-macosarm64	0.2.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.ks3	ks3-standard-macosarm64	0.2.1		N/A

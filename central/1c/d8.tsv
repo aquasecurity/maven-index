@@ -159,6 +159,11 @@ com.apihug	it-common-spring-data	1.3.4-RELEASE		f10925f5e9297647e991293658cfc76b
 com.apihug	it-common-spring-data	1.3.5-M1		a17908386c9b279a0083196cf628272b9d6b334a
 com.apihug	it-common-spring-data	1.3.5-M2		48f20d178023b363b060382859dc96ba711781bc
 com.apihug	it-common-spring-data	1.3.5-RELEASE		d856ff12655a2be23b962a33db983727ac4f9e32
+com.apihug	it-common-spring-data	1.3.6-M1		b613c90a4131f8a4be85653b6c191c59eae1adcb
+com.apihug	it-common-spring-data	1.3.6-RELEASE		2314a515db82997be970b5226aadece09b35ff5e
+com.apihug	it-common-spring-data	1.3.7-RELEASE		45bc0963a78922ffd1f41a8bedece3b5c0bb1f8a
+com.apihug	it-common-spring-data	1.3.8-M1		e6beda37f3c0abdcf7c12c396fcb4278442d3387
+com.apihug	it-common-spring-data	1.3.8-RELEASE		8a23e0540ae824f3d6567c7e8941bd2f53a6bbe4
 com.day.commons	day-commons-json	2.0.2		090d5d33186d3dccc8010fd1f6cbf70391030322
 com.github.aloiscochard.sindi	sindi_2.9.1	0.5		7199d7ba26bcf4d41621b0bfc09070ad545c8d11
 com.github.aloiscochard.sindi	sindi_2.9.1	1.0-RC1		e5a7a6a6e84ca22624d933a578dcef3b1bbd7569
@@ -571,6 +576,7 @@ org.apache.tika	tika-langdetect-optimaize	2.9.0		26f80254054418d5b884e16f3c49f28
 org.apache.tika	tika-langdetect-optimaize	2.9.1		eca26cf8b8576323722c7fe282ace9a379f87d07
 org.apache.tika	tika-langdetect-optimaize	2.9.2		7a48a287e464b456a85c79f318d7bad7db201518
 org.apache.tika	tika-langdetect-optimaize	2.9.3		e10129f6e3ed0b37fb9aaba3d54e8a8cd668f9ce
+org.apache.tika	tika-langdetect-optimaize	2.9.4		ded39ab5071c6e2ebde44dd6a3b4596899a9a23b
 org.apache.tika	tika-langdetect-optimaize	3.0.0		0def9893627ea26ed168c9fc4ca20a9db26a7b9a
 org.apache.tika	tika-langdetect-optimaize	3.0.0-BETA		d32ad556fa288b3f055fbb40777324260e6ed097
 org.apache.tika	tika-langdetect-optimaize	3.0.0-BETA2		06fcc5896386b929f33eb90ac920b499e4432bcc
@@ -844,10 +850,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-fu
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.80.0		ccb84447c37b6004f53a4c2ed7da4d1cadcdf459
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.81.0		9768ca9c764fbc99ea675c9c7beb1c8344045f61
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.82.0		9c9d67cc678d8fb72ddc58be39c610e041daf592
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.82.1		8c5565aa5f7409adeb4479998b7d26cae0799d3f
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.83.0		2ef5dbfbe43eac91b88cc2787f618337dead59fe
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.83.1		2f7b595b48c033650a50718030331bb2c76f4514
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.83.2		ca8812c51e5077b9faa8e1e56d00e728f5f235f0
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.83.3		f287458bd3d4dac2e1474b659895c8aea4b91c6e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.84.0		756e4303c554d5e0bcb33dbd665a25b248b2e06f
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.84.1		a392738c37b7d2d86d737f624a4e28faa1e105ed
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.85.0		bcdd6dfc635e91922c458723b7b57c867c18d7ab
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.85.1		e8ef584f509683ab9c66b29fee9772356af797f8
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.85.2		1578fd5ded841355570fa18e997e98ac14c234b9
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-pureExtensions	4.85.3		10b51599d2cb11fc4c1e3c3c2151a3ec4a699d59
 org.http4s	http4s-tests_2.11	0.15.0		330b5f0635ec35c246929565a9143b8719fe6e81
 org.http4s	http4s-tests_2.11	0.15.0a		54f92400a9434f48078b5ddd8f7f9ca0baef5e82
 org.http4s	http4s-tests_2.11	0.15.1		310fd9c8e9596403136bb27ad12d46b4f309e215

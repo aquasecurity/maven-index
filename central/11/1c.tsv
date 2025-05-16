@@ -468,6 +468,7 @@ com.twitter	util-thrift_2.13	22.4.0		fcdadb518837fb4aa6e35639221ca006ec0c1e7b
 com.twitter	util-thrift_2.13	22.7.0		34141999d224ac475ad4f40e7c49d4d5e7ef21ba
 com.twitter	util-thrift_2.13	23.11.0		1cf1bbb11c863ecb39f0cf5cd760d63e26912800
 com.twitter	util-thrift_2.13	24.2.0		0df3ae84693c33cbc1f27f2863760831073b024f
+dev.cheleb	sbt-serenity_2.12_1.0	0.0.1		fd22df6931352e3c30f5d90543684f3028845718
 dev.cheleb	sbt-serenity_2.12_1.0	0.0.2		9580655a4a050563f1d46bceb864fa85e8907219
 dev.cheleb	sbt-serenity_2.12_1.0	0.0.3		6b97d4061f96e3b2aa880a96a03b9bf55e3cf2e5
 dev.cheleb	sbt-serenity_2.12_1.0	0.0.4		c0e9f46111f4d5d0cb6208277c6e88afdcbbb5f8
@@ -596,6 +597,7 @@ io.deephaven	deephaven-Configuration	0.37.5		0308b8a58161327448068ae5a28194f4474
 io.deephaven	deephaven-Configuration	0.37.6		e36b1b5d898af7013b0d569d24658a6225da3f57
 io.deephaven	deephaven-Configuration	0.38.0		0226fd1cf14653898aafb18c4b27bb5f4b4dd075
 io.deephaven	deephaven-Configuration	0.39.0		4129570d63e1018fe30aa2ed298889a9310946a6
+io.deephaven	deephaven-Configuration	0.39.1		8768a07d55b1e7d6237a4688f8482736bc7a8f12
 io.exoquery	terpal-sql-core-macosarm64	1.0.0.PL-1.0.0		N/A
 io.exoquery	terpal-sql-core-macosarm64	1.0.0.PL-1.0.0	metadata	ce6c3675e6158aceb47e1afafc5f39631add3ba4
 io.exoquery	terpal-sql-core-macosarm64	1.0.0.PL-1.1.0		N/A
@@ -610,6 +612,7 @@ io.exoquery	terpal-sql-core-macosarm64	2.0.0.PL-3.1.0		N/A
 io.exoquery	terpal-sql-core-macosarm64	2.0.0.PL-3.1.0	metadata	4d2ec088e1e72f4eff845c27cf916f4cf1ba3e6b
 io.exoquery	terpal-sql-core-macosarm64	2.0.0.PL-3.2.0		N/A
 io.exoquery	terpal-sql-core-macosarm64	2.0.0.PL-3.2.0	metadata	dff0be04c68b6f05659d77b939b61ebc7dfb5278
+io.exoquery	terpal-sql-core-macosarm64	2.0.0.PL-3.2.1	metadata	e81694289dfafc65f0ec3ba6d61787ae7f2d0f39
 io.github.bes2008.solution.agileway.jwt	agileway-jwt-core	4.4.1		fe591ac5e746f019e0dcb9ff7a4236526f733b80
 io.github.bes2008.solution.agileway.jwt	agileway-jwt-core	4.4.2		23da5ecbad937beaee183d53ae8ed14cd82cac4e
 io.github.bes2008.solution.agileway.jwt	agileway-jwt-core	4.4.3		a9438bd9623824cd5061df8b241782639cb65a62
@@ -761,6 +764,7 @@ io.ktor	ktor-server-compression-jvm	3.0.3		bc99724f567be208fb60f1556854f85476205
 io.ktor	ktor-server-compression-jvm	3.1.0		adc29aee660c607ec83f1156780eb824d9fe193b
 io.ktor	ktor-server-compression-jvm	3.1.1		ef536b0847563b1c6d006f664302d0f44d80386f
 io.ktor	ktor-server-compression-jvm	3.1.2		60ee5b30f5a7d389a6ab8c03bd7b31350e1f6f12
+io.ktor	ktor-server-compression-jvm	3.1.3		67bb83d0d32caa3908b36434460e518a1ff659a6
 io.moia	itkit-pekko_2.13	0.1.0		da98c562160f868a95d3966c21e0c220f2f6ba2c
 io.moia	itkit-pekko_2.13	1.0.0		89155fed0d0049055fd270a4f7c0ab354eb05987
 io.slugstack.oss	rewrite-definitions	0.0.10		52922ccb7725921d74026a1a17f3c869a3de7c89
@@ -965,6 +969,7 @@ org.apache.camel.springboot	camel-yaml-dsl-starter	4.8.3		c3d99812e7f80cc383eeea
 org.apache.camel.springboot	camel-yaml-dsl-starter	4.8.4		48a6392b0835c2d79a5102436f09eaf15af79675
 org.apache.camel.springboot	camel-yaml-dsl-starter	4.8.5		b731ced810f7cd27058621768c4b00dfc3747e6d
 org.apache.camel.springboot	camel-yaml-dsl-starter	4.8.6		2f2504fe9364ba32d7d0723dca9c56f2d4fa991f
+org.apache.camel.springboot	camel-yaml-dsl-starter	4.8.7		6d5b316f97b14cf3fe547d1a004173166eb579f6
 org.apache.camel.springboot	camel-yaml-dsl-starter	4.9.0		a3803ae358baa7168df7d5e581dbebc124e349fa
 org.apache.ctakes	ctakes-models	5.0.0		N/A
 org.apache.dubbo	dubbo-serialization-hessian2	2.7.0		ba1533e45da67c9473434e7d25d102133c388cb5
@@ -1123,6 +1128,12 @@ org.dronda.lib	dronda-commons-domain-jvm	0.1.0		d206fcff19757f2f260e8ad4584f018e
 org.factcast	factcast-server-rest	0.0.10		f026bdb9d0e23b28e19da3081507027098dd90a3
 org.factcast	factcast-server-rest	0.0.6		dc3260b5d09c5a2ae49204c78aeb2b61fbab34da
 org.ferris.net	ferris-net	0.0.1		8781a8880a6f1e341e905a35d23808eeed59446c
+org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.14.0		6d9a4f771b68113e0b6ace01f3296eafba8157ec
+org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.15.0		89b1a7027646b5e0c127c5c8dbe603c2577e6684
+org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.15.1		e6318baba9eb4b9690cd9d4e914e50fd449d02f2
+org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.16.0		2201ca265fbe279479c52a024047651985f7b43c
+org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.16.1		640b3fceec7c77977a6ee917f0a7a4c4a1fd413c
+org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.16.2		915c502dc0505b0e91e44388f6c3ab62125a5257
 org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.17.0		dc549b92ec3be05549a625227bf2d8bfc5051d6d
 org.foundweekends.giter8	sbt-giter8-scaffold_2.12_1.0	0.17.0-RC1		6d28eae9c5aabf61ce4c5eb45c6dc3416aec1601
 org.jboss.errai.demos	errai-ui-demos-i18ndemo	2.4.0.Beta1		N/A

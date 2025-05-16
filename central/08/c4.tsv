@@ -4,6 +4,7 @@ bi.deep	druid-encrypting-password-provider	28.0.0		fdd9273e174840f72b91655015990
 bi.deep	druid-encrypting-password-provider	29.0.0		44343051c586064d0ee71e699c25190c77efb418
 bi.deep	druid-encrypting-password-provider	30.0.0		51a6c8cd3b3c9e45664f5eba72991ccda8d18f6a
 bi.deep	druid-encrypting-password-provider	31.0.0		7b09d28ec4d20faedce56e52e1d2094e6b0bce1c
+bi.deep	druid-encrypting-password-provider	32.0.1		265a970d8be774f91db3d922de749cdf43d3b609
 cloud.oneentry	sdk-attributes-sets-macosarm64	1.1.1		N/A
 cloud.oneentry	sdk-attributes-sets-macosarm64	1.1.1	metadata	9a7cd685af814302fc98b5547a5f5128f2de37f4
 cloud.oneentry	sdk-attributes-sets-macosarm64	1.2.0		N/A
@@ -714,6 +715,7 @@ com.tencent.bk.devops.ci.dockerhost	api-dockerhost	3.2.0		58d316d56b304e940181e8
 com.tencent.bk.devops.ci.dockerhost	api-dockerhost	3.2.0-rc.1		79fc97bdaf8d24f20711a5ea2a2f9ff0046e0e9a
 com.tencent.bk.devops.ci.dockerhost	api-dockerhost	3.2.0-rc.2		151fa44839fb2d2c51de6f721cd99836d2e37659
 com.tencent.bk.devops.ci.dockerhost	api-dockerhost	3.2.0-rc.4		8ae9287c364fc467d4871ba53ee2c1d0e6e5a239
+com.tencent.bk.devops.ci.dockerhost	api-dockerhost	4.0.0-rc.1		8ac8c1a7dce3e40ffbb8564e958a254b259b1050
 com.xixudi	kits	1.0.0		f233e0a26795549cfb4ec7b74b135885628744ea
 de.knutwalker	algebra-parent_2.11	0.1.0		3a7ea19071fa8630a6e30f887e7cef07a62a7b8c
 dev.jordond.compass	compass-autocomplete-mobile	0.1.6		abf8c803769f02c88b52ed6b072b77cbe9c14aa2
@@ -1094,6 +1096,8 @@ io.ktor	ktor-server-caching-headers-macosx64	3.1.1		f30f6b4f9963c39fad3e5a5147b3
 io.ktor	ktor-server-caching-headers-macosx64	3.1.1	metadata	179f61a5c0cfea9f418cecfe9a671966904ff8f3
 io.ktor	ktor-server-caching-headers-macosx64	3.1.2		f43c03fac60114ca57308613f60c47dfdd463134
 io.ktor	ktor-server-caching-headers-macosx64	3.1.2	metadata	ac3406f8fe120917309c57c8cdc242db37739097
+io.ktor	ktor-server-caching-headers-macosx64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-server-caching-headers-macosx64	3.1.3	metadata	2a5fea5e782691d1711cd6ebeae574a83e54928f
 io.shaka	naive-http-server_2.11	13		da176a8b6c7fa44884bb6562c6e3aa289e9bcad1
 io.shaka	naive-http-server_2.11	14		33dc34d8177d22200c767a13c53a5a5b2d7fb677
 io.shaka	naive-http-server_2.11	15		fb276a75d74ca544dbf10a9ee830697e9efc094d
@@ -1124,6 +1128,7 @@ org.anarres.graphviz	graphviz-builder-jgrapht	1.0.6		0276c1753d324e569ac364199b3
 org.anarres.graphviz	graphviz-builder-jgrapht	1.0.7		df3e04df6723ad052d1a318fa4f987b521201c1e
 org.anarres.graphviz	graphviz-builder-jgrapht	1.0.8		4eb86d22b3e3372697f6fcd6cbc5fea79306540b
 org.anarres.graphviz	graphviz-builder-jgrapht	1.0.9		bb858dc80394d6dfc954096a9d25853d26030780
+org.apache.amoro	amoro-mixed-hive	0.8.0-incubating		b402e7328f9b27379308112189666879a135d55b
 org.apache.camel.karaf	camel-redis	4.10.3		aee1b31e87b9c47a30e60dec38dd57f736e004e0
 org.apache.camel.karaf	camel-redis	4.7.0		cb25106013ace8ae12fd7ed1444b29471b70505b
 org.apache.camel.karaf	camel-redis	4.8.1		e351d8b9a929d8c0626d49a456c00e034bdef7e6
@@ -1183,6 +1188,7 @@ org.apache.camel.quarkus	camel-quarkus-redis	3.2.1		ff66affaa82d8d89a0dcf749e8ed
 org.apache.camel.quarkus	camel-quarkus-redis	3.2.2		f5d176e62eb6f1ffc3d0590e4954903a19810793
 org.apache.camel.quarkus	camel-quarkus-redis	3.2.3		d592932a95ff2926dd8aa907f68ddb4aca9494d5
 org.apache.camel.quarkus	camel-quarkus-redis	3.20.0		ca70526aff37a88308795973705618077886c499
+org.apache.camel.quarkus	camel-quarkus-redis	3.20.1		4fcf9079d7a12816c5714a934adaa90828e90932
 org.apache.camel.quarkus	camel-quarkus-redis	3.22.0		c37f2cd5691f4da8ae194e2456775ab378bf2c62
 org.apache.camel.quarkus	camel-quarkus-redis	3.4.0		cbf37fb6c98996e122182159bdede34f1ab8df19
 org.apache.camel.quarkus	camel-quarkus-redis	3.5.0		c774dda1a8cbb8f7c2c6bae511e2537b70bce91e
@@ -1233,6 +1239,7 @@ org.apache.tika	tika-parser-xml-module	2.9.0		9c733edc92f93af657b1eebe82c0aca69a
 org.apache.tika	tika-parser-xml-module	2.9.1		aa2eae90cfc929703413026457f5f6d15d997796
 org.apache.tika	tika-parser-xml-module	2.9.2		ff707716c0c4748ffeb21996aefa8d269b3eab5b
 org.apache.tika	tika-parser-xml-module	2.9.3		8244c899e94e4c1bddbc9e29e0985e326d78f695
+org.apache.tika	tika-parser-xml-module	2.9.4		785786bf9f0e161868ed0ca35d4d68e774de7c94
 org.apache.tika	tika-parser-xml-module	3.0.0		32534537c5ae25bb1cfb272106f04280ea2ac7c7
 org.apache.tika	tika-parser-xml-module	3.0.0-BETA		397ca3a5e5f0549dcd8a319a645a43ccbdee20a8
 org.apache.tika	tika-parser-xml-module	3.0.0-BETA2		adfc793e24f8785510e31c0c834541df1d883f14
@@ -1504,3 +1511,6 @@ tz.co.asoft	krono-api	3.0.6		7bd17c1afeb8b40b9a67d77d8489e8aac5c98925
 tz.co.asoft	krono-api	3.0.7		0034e1002e4e4c341ffbea5ed87e95eb771c67af
 tz.co.asoft	krono-api	3.0.8		436957a2207c59541be7a4cd97c65b36c42bd989
 tz.co.asoft	krono-api	3.0.9		436957a2207c59541be7a4cd97c65b36c42bd989
+tz.co.asoft	krono-api	3.1.1		9f5872720f35f19cfffc00039104ef2a5dc449f5
+tz.co.asoft	krono-api	3.1.11		9f5872720f35f19cfffc00039104ef2a5dc449f5
+tz.co.asoft	krono-api	3.1.12		9f5872720f35f19cfffc00039104ef2a5dc449f5

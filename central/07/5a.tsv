@@ -1,3 +1,4 @@
+ch.ubique.gradle	alpaka	8.10.0		dab2b1451f76cef81f0c2cd22b2063c497f8ed9f
 ch.ubique.gradle	alpaka	8.6.0		471b7c0524fa88e0562fa3d53002399d864e8755
 ch.ubique.gradle	alpaka	8.7.0		acff08c90cb64379dcd77b5ba3b993e90c6b29bb
 ch.ubique.gradle	alpaka	8.7.1		cbcd231ccf35a0ff189b5819fb8268344135bc1c
@@ -442,6 +443,7 @@ dev.langchain4j	langchain4j-community-zhipu-ai	1.0.0-beta1		b001b687e0830de7838a
 dev.langchain4j	langchain4j-community-zhipu-ai	1.0.0-beta2		bff7e33e2df6679b5cffaa1932535f471d1e6ccb
 dev.langchain4j	langchain4j-community-zhipu-ai	1.0.0-beta3		7f577c3dc876bb5a1c53ba10b4a506ef2180df0f
 dev.langchain4j	langchain4j-community-zhipu-ai	1.0.0-beta4		c8cdbd67cad0bcd843f3f1168bf1928090869f1d
+dev.langchain4j	langchain4j-community-zhipu-ai	1.0.0-beta5		3b3d56d6a36a21056def28fa7466ffba77dffb12
 fr.iscpif.gridscale	localexample_2.12	2.10		f0807533f19d8706ec869fc2fbda1c484855b387
 fr.iscpif.gridscale	localexample_2.12	2.11		f2a636fcba6ab216a3108a3eaf0afd7b1bf5e7cc
 fr.iscpif.gridscale	localexample_2.12	2.12		80d7a3cdaa53e8976142c22bb2c1ad6b5a90e562
@@ -785,6 +787,7 @@ io.quarkus	quarkus-mailer	3.15.2		47acdcc5357168d374cc60599c41cae8bccd6779
 io.quarkus	quarkus-mailer	3.15.3		87d18f6c13d7597eefef5393a2a6b0019332cd6b
 io.quarkus	quarkus-mailer	3.15.3.1		f98508a971048629e53a26d27af95984e49c6bcc
 io.quarkus	quarkus-mailer	3.15.4		a3b8fb89ab73188663a8290ede1c3e2152d3b6d6
+io.quarkus	quarkus-mailer	3.15.5		321e44c2aee374304af4a7a41086aea45a887ade
 io.quarkus	quarkus-mailer	3.16.0		2c17b0bbc01625f7818d911c99ef72aa987a73d2
 io.quarkus	quarkus-mailer	3.16.0.CR1		93a0fcb0c18030b7ad45aa51caf061a737fde99f
 io.quarkus	quarkus-mailer	3.16.1		390dc3477f0446664f78c02370364f403eea1e26
@@ -829,6 +832,7 @@ io.quarkus	quarkus-mailer	3.2.8.Final		ba3965d56336bf9582332b39e5e1a43aed2f1f07
 io.quarkus	quarkus-mailer	3.2.9.Final		9bf784a2af3f6494d1cee63f26da64ce8ea4c02b
 io.quarkus	quarkus-mailer	3.20.0		82f1ece43a5d2598c82e50d7d29ed1bd16d184aa
 io.quarkus	quarkus-mailer	3.20.0.CR1		d8769a9bc137b852286b728900745fa356bc455d
+io.quarkus	quarkus-mailer	3.20.1		d6f714279f55a46e85235541ca239593d239ee32
 io.quarkus	quarkus-mailer	3.21.0		a432b1c8afd66e407b68b7af995c5c3833e022e5
 io.quarkus	quarkus-mailer	3.21.0.CR1		430c59bf602a0326d577cbcfa3dea2de2dc7d7c0
 io.quarkus	quarkus-mailer	3.21.1		32d4d46cf9c7618e5da06aed9351938bb8a4e143
@@ -838,6 +842,9 @@ io.quarkus	quarkus-mailer	3.21.4		2f5023b4143ad6eb7985d938798ac05a4b28c660
 io.quarkus	quarkus-mailer	3.22.0		05416899fc8d70649b0c6257e7d3f2d3136a893d
 io.quarkus	quarkus-mailer	3.22.0.CR1		4af4c015a84f95b063670a5870550ab943cf30cd
 io.quarkus	quarkus-mailer	3.22.1		e7fc96b33345c6f4b0548dc387fa07bffa4c5b95
+io.quarkus	quarkus-mailer	3.22.2		a7531b3480d2f3ee714ba1b46b97f7bdc6e000f5
+io.quarkus	quarkus-mailer	3.22.3		30bebd377313f3baa9c21fb5159104b870e51514
+io.quarkus	quarkus-mailer	3.23.0.CR1		86a6a83d49b345bf5bdfad218914dbd33bae0734
 io.quarkus	quarkus-mailer	3.3.0		379c596de713323d35ebf40ed0c189e21caf004c
 io.quarkus	quarkus-mailer	3.3.0.CR1		6af0bb12f314e27dbaa523675a3dd9970f3d6332
 io.quarkus	quarkus-mailer	3.3.1		463b89eac40034702f51a499d37956661b9c6d85
@@ -891,7 +898,11 @@ io.sitoolkit.rdg	sit-rdg	0.9		N/A
 io.sitoolkit.rdg	sit-rdg	1.0.0-beta.1		N/A
 io.spinnaker.kork	kork-actuator	2025.0-0		65ebd117f900a4a57e4d042b266b3d1a3f9ea35d
 io.spinnaker.kork	kork-actuator	2025.0-1		677c2309df6b535fab4edee4fd849f6f01cc2ec8
+io.spinnaker.kork	kork-actuator	2025.0-2		3b53fffaa8c0b8d8f2229daeb63ccb2b21a7901f
+io.spinnaker.kork	kork-actuator	2025.0-3		2adb8160d988a0427abfba307364d163c24709b2
+io.spinnaker.kork	kork-actuator	2025.0-4		c3f999f9e27b53826c93dd0fd2ffb37b43263988
 io.spinnaker.kork	kork-actuator	2025.0.0		24bda4e3a9b329aa3b71880463e48e215500a884
+io.spinnaker.kork	kork-actuator	2025.0.1		73dc86689376db7af0b12d3721721c62f771c63b
 io.spinnaker.kork	kork-actuator	7.105.0		aafcd2961207bd7eefe8406ae2a503eb92521aac
 io.spinnaker.kork	kork-actuator	7.107.0		31f3a08bf9267e9fa44b7f4f1a65902efcb112c1
 io.spinnaker.kork	kork-actuator	7.108.0		a4652cd2f6e9552c6bbd5d8d7c7f740095934e4d
@@ -1071,10 +1082,14 @@ io.spinnaker.kork	kork-actuator	7.92.4		bf79c561e6c50ac1f1476d1cfc7710132ad82800
 io.spinnaker.kork	kork-actuator	7.92.5		fcc58368f38c26f8a6f67cc5ad8439d2233a9854
 io.spinnaker.kork	kork-actuator	7.92.6		cb31850669baa0e27852ac4120eabd400d67758b
 io.spinnaker.kork	kork-actuator	7.92.7		47392e3266eff82864ee15c8a55fc03904e534a0
+io.spinnaker.kork	kork-actuator	main-10		b537d106932051e53d9cef263deedb91bd6587a9
+io.spinnaker.kork	kork-actuator	main-11		2acbc52ad9983946553db30c2099fcf7959ab8d7
+io.spinnaker.kork	kork-actuator	main-12		729b252f923395a062e9e22613c63ee047aee093
 io.spinnaker.kork	kork-actuator	main-5		63f29c450c96e1f1936c63e8745048c710415502
 io.spinnaker.kork	kork-actuator	main-6		ac80832d50c76e23ff4891316cb2fd20375f785f
 io.spinnaker.kork	kork-actuator	main-7		05b09ca8bc1866ada1f1a6988f945c2999cdf5cc
 io.spinnaker.kork	kork-actuator	main-8		48ca962d84814fc1c544b8ccaa61bc0f8c5b50e6
+io.spinnaker.kork	kork-actuator	main-9		b0fdc4a4c241081c0628be7755aa1e9507afbcc1
 io.stryker-mutator	stryker4s-sbt-testrunner_3	0.15.1		568e3e94c80e8359a11d184b827b917b963495e6
 io.stryker-mutator	stryker4s-sbt-testrunner_3	0.15.2		38941818fab6990b8e79f4f05437f46b2eab7711
 io.stryker-mutator	stryker4s-sbt-testrunner_3	0.16.0		8262bad1b066f2aa571060fc1d9ec377d2f81c09
@@ -1082,6 +1097,7 @@ io.stryker-mutator	stryker4s-sbt-testrunner_3	0.16.1		4d2283925f668fecdd15d851df
 io.stryker-mutator	stryker4s-sbt-testrunner_3	0.17.0		6db9d80ee6e26005defc244d9884ec6873d77037
 io.stryker-mutator	stryker4s-sbt-testrunner_3	0.17.1		d8c6e881d4b20c2d645d1b2eb11ee794204f50d6
 io.stryker-mutator	stryker4s-sbt-testrunner_3	0.17.2		1d2b50ce16b1946e39424530f18b822bb115b716
+io.stryker-mutator	stryker4s-sbt-testrunner_3	0.18.0		c86bb196b073d2f62bb11aa1546835e5bb17ac17
 io.thill.trakrj	trakrj	0.10.1		14552c98974dd81634e4bd2bf789b2f5dbd49b24
 io.thill.trakrj	trakrj	0.10.2		c675e1d538f28caccdc062e79f02cf9fcf72a628
 io.thill.trakrj	trakrj	0.9.2		475f1beded289a7ba38f9984aee240b1e15809db
@@ -1247,6 +1263,7 @@ org.apache.camel.quarkus	camel-quarkus-qute-component	3.2.1		4f01dd3caff2aaecb3b
 org.apache.camel.quarkus	camel-quarkus-qute-component	3.2.2		6850290346a17df7517b2513c5bf9c4958c07dbd
 org.apache.camel.quarkus	camel-quarkus-qute-component	3.2.3		c3c78a1df6625939ef033dcfbe71ad86b265c620
 org.apache.camel.quarkus	camel-quarkus-qute-component	3.20.0		1c67a35890dceab143e921ae046b2a5f3a04ad1b
+org.apache.camel.quarkus	camel-quarkus-qute-component	3.20.1		2d2cb655c2358984b3df9d8a25cc7a9f97012be7
 org.apache.camel.quarkus	camel-quarkus-qute-component	3.22.0		67df38fa7a402356735cb3bbaedb4aaabc738923
 org.apache.camel.quarkus	camel-quarkus-qute-component	3.4.0		98edd70dcd844324f72b7c14f01102032ca2e744
 org.apache.camel.quarkus	camel-quarkus-qute-component	3.5.0		ec5e8b26008a58e75ac88ede6ab872c2ce951f4d

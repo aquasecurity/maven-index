@@ -221,6 +221,7 @@ com.airlenet.netconf	yang-model	1.1.0		169181c8d0b4ca7b06e412e67bd0d3bcbc1a7fbd
 com.airlenet.netconf	yang-model	2.0.0		4328e81c4c7cd02d932e91aea28694ab61b03824
 com.anyascii	anyascii	0.3.1		f7e5d6a4d097e91c442032cde84f6038c40105f5
 com.anyascii	anyascii	0.3.2		11643fa4762602a491cbd0ae63b68364bf184e63
+com.elarib	partial-sbt_2.12_1.0	0.1		995daaa4e19df6820b7b0956233f74cedf1b1076
 com.fiftyonezero.eel	eel-core_2.10	0.11.0		56e87e8576b6cc8c0ca671432e729be1de531b9e
 com.github.isyscore	sdk-ldap	0.1.0		e837cf3e8c8f079915f1dff43c7b5159439ade98
 com.github.isyscore	sdk-ldap	0.1.1		ee758e3b7c8c84462121c8f34f013471a57133c4
@@ -1105,6 +1106,8 @@ io.ktor	ktor-serialization-kotlinx-watchosdevicearm64	3.1.1		dfccb55ca0ee27182a8
 io.ktor	ktor-serialization-kotlinx-watchosdevicearm64	3.1.1	metadata	4afb2026232507b9ee63748378a478e0a2888313
 io.ktor	ktor-serialization-kotlinx-watchosdevicearm64	3.1.2		71ba439aca77c03915c0a440b169f1ec2a2a99f5
 io.ktor	ktor-serialization-kotlinx-watchosdevicearm64	3.1.2	metadata	1df2abda42e9f8050c657cf6af5573369937fb31
+io.ktor	ktor-serialization-kotlinx-watchosdevicearm64	3.1.3		1452db3e960848a6b85451f3f71ad7dd2aee123b
+io.ktor	ktor-serialization-kotlinx-watchosdevicearm64	3.1.3	metadata	889cfb5552fc97488dc37097bcd8ebeaad8b379b
 io.mraa.at.upm	upm_hcsr04	1.2.0		N/A
 io.mraa.at.upm	upm_hcsr04	1.3.0		N/A
 io.mraa.at.upm	upm_hcsr04	1.5.0		N/A
@@ -1346,6 +1349,7 @@ io.quarkus	quarkus-mutiny	3.15.2		84a084ccafacde5f272715bc92d480d079c30fdb
 io.quarkus	quarkus-mutiny	3.15.3		574b4713b04d1062ffaa6e94d2a818fefb405216
 io.quarkus	quarkus-mutiny	3.15.3.1		d133b44e306bff2be01a4adfdb3058c35f1f6efc
 io.quarkus	quarkus-mutiny	3.15.4		ebf35756fbd1c7ec497106faf1b9e43ba2290116
+io.quarkus	quarkus-mutiny	3.15.5		7c1e76cdb91021a89bcdd8ee33eaa54fded219e6
 io.quarkus	quarkus-mutiny	3.16.0		11624b56fc7ecabce6c2580773e34311aba5e888
 io.quarkus	quarkus-mutiny	3.16.0.CR1		df7e16825994c8967cd63d1f2422572384a48c35
 io.quarkus	quarkus-mutiny	3.16.1		bd419d87e1bdef24baada75bac98ab4527767a3c
@@ -1390,6 +1394,7 @@ io.quarkus	quarkus-mutiny	3.2.8.Final		67ea764f2580a10b1817cc941eb84ca99db816ce
 io.quarkus	quarkus-mutiny	3.2.9.Final		08a3515e4caf677c0c10f504d2488dfeee4b10bf
 io.quarkus	quarkus-mutiny	3.20.0		56f12dc7e1e5a5022a9b9cdb43fde49e5b28f5f6
 io.quarkus	quarkus-mutiny	3.20.0.CR1		b393b62a7a62c07bdfd9b05b078c4b9ac116a39d
+io.quarkus	quarkus-mutiny	3.20.1		cac1986492804152d14972ed7fc4f377af4bdda5
 io.quarkus	quarkus-mutiny	3.21.0		675368a9196e76806988604391cc985d7b1e4102
 io.quarkus	quarkus-mutiny	3.21.0.CR1		7ee0c787c9b6664f5106d0cb600eafddceb9c283
 io.quarkus	quarkus-mutiny	3.21.1		0aed3d4d7a6e487f658bb08728d7a311f4d7daf1
@@ -1399,6 +1404,9 @@ io.quarkus	quarkus-mutiny	3.21.4		c432bae81a5ccf3fe5c2e75e73f5bc9986d2c6e8
 io.quarkus	quarkus-mutiny	3.22.0		bc936f1d328818e8be9d42b371feb821d162ce77
 io.quarkus	quarkus-mutiny	3.22.0.CR1		a04e957a01ab41fc24d20d20a995c9fd5cabfd52
 io.quarkus	quarkus-mutiny	3.22.1		53f280340d8a4c8cc7584c4c6e001b66fa17a522
+io.quarkus	quarkus-mutiny	3.22.2		44723b2d01069fefd10d3c5fad17c1948a12e572
+io.quarkus	quarkus-mutiny	3.22.3		dbe76e8b7913847b524ea04d62e3175c25492eb1
+io.quarkus	quarkus-mutiny	3.23.0.CR1		8db7dfd363b3b771db16cffeab96768fd816d103
 io.quarkus	quarkus-mutiny	3.3.0		b638c6092e8a1c4500746767a03e806122941024
 io.quarkus	quarkus-mutiny	3.3.0.CR1		4a6b3ddc69fb6057a97b38e22af2a030eefc257f
 io.quarkus	quarkus-mutiny	3.3.1		a76ad0673e9ca692e4b35d2ff9b1c1cf11b42b85
@@ -1485,6 +1493,7 @@ io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.28		0e878cc678e5117
 io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.29		11d89e8a04b84485539ad778a8af9feee10a321b
 io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.3		3d3f9fdab3f96c3c56b27788b9a4513d57c62b9e
 io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.30		061544ab264a8a84480fed3a193fe1de42990168
+io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.31		21faeae582775b01f41e022d633c38a4c1766b49
 io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.4		829a18c92abd9b8a5d3acfe63fad43e87f242c27
 io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.5		5bbb91b377fa748fd66617d688f42a943e99495e
 io.swagger.core.v3	swagger-jaxrs2-servlet-initializer-v2	2.2.6		c39433bd8d62ec397f22b34fc4b7a901d2536218
@@ -1643,6 +1652,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-console	11.41.1		fc02b3741635
 org.eclipse.dirigible	dirigible-components-ui-view-console	11.42.0		d2d0e167aa9a81290a467672a1ff7122b2832d3d
 org.eclipse.dirigible	dirigible-components-ui-view-console	11.43.0		3a6ea67f94f57893118f90e1f504471e1d341234
 org.eclipse.dirigible	dirigible-components-ui-view-console	11.44.0		2e57047fb350595f37ec4a84b9e9e03d237d44cf
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.0		03348f3cfa2c86bb9b9fe6ae2dce21b2628f4ea3
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.1		4cbc0072c708eba9f2e77b4a19a83b8d8ab792c6
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.10		b8a87de49e4c3d725f296d8580d8495a77334022
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.11		24c232bac00f8614a7b871d972754f1d99b4f314
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.12		631b3caac1091986209fda95ea17a978a31b3a99
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.13		44057b149c145bc17b61d27f517a58fca23af1a0
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.3		f476c55bddf6d5c30c8d8a05a6bff5e899781e61
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.4		aec017244549dee7a8cbdbccdc1a4c6e6e72e600
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.5		c345ff69993630dddf72b95346f1137db5c31425
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.6		25f2b8333155d8e1c4e483d77fb98ac0a52ba810
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.7		56201bec4c65aa7c882f5180a62a4bcd3952cfde
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.8		f3167c81b0a412271b6aa73902d6d42b5d651f03
+org.eclipse.dirigible	dirigible-components-ui-view-console	11.45.9		d2886e824e363b67091e8304bdc1552f83403ccb
 org.eclipse.dirigible	dirigible-components-ui-view-console	11.5.0		cea761330d051451ec6aa46b617155451b6f571e
 org.eclipse.dirigible	dirigible-components-ui-view-console	11.6.0		49700fc797c946f4d0aa6386b7d22c3d42e01f0f
 org.eclipse.dirigible	dirigible-components-ui-view-console	11.6.1		f14e6522769656560cf97c9d9e46830b556b2f53
@@ -1750,10 +1772,12 @@ org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.1.20-Beta2		1605fc419df2fa
 org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.1.20-RC		fa1e081691a9ff8d814872c1c26f06375240929d
 org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.1.20-RC2		5a39af648b6ecb9452557384ae8daa1c9873c1e7
 org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.1.20-RC3		a06ccb29c69e45bddae701315ea8c8a32b3bed2e
+org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.1.21		646f5ad9bdcf983b5ab2f1844ced5695b8b486f1
 org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.1.21-RC		55bf46d07222e2e25721ef51a7c38c5573e0a1b8
 org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.1.21-RC2		cc6577b4d38dee99194316f29394e175a5c374c4
 org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.2.0-Beta1		940fa66afef2606caac4b42c4758af6d5669ee96
 org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.2.0-Beta2		b5c50a2aa4198e3eae8c51e85e7357c7b110bafd
+org.jetbrains.kotlin	kotlin-compose-compiler-plugin	2.2.0-RC		cc92c1a56e88af8bd178c0e86c46a5f736ecb07f
 org.jibx.config.repo	jibx-repository	1.3.3		N/A
 org.jibx.config.repo	jibx-repository	1.4.2		N/A
 org.kie.modules	org-apache-geronimo-specs	6.1.0.Beta1		N/A
@@ -3152,7 +3176,18 @@ software.amazon.awssdk	iotthingsgraph	2.31.30		16726c8c4b22f8397291a6fef3438337c
 software.amazon.awssdk	iotthingsgraph	2.31.31		17b4360a2cf6f9f5f3e39aab395001773128ad7d
 software.amazon.awssdk	iotthingsgraph	2.31.32		74aae3bba51add404756fec456877a8c7f281d63
 software.amazon.awssdk	iotthingsgraph	2.31.33		5e4defd8d5e7ac6ee0b987458fd339f9639fd253
+software.amazon.awssdk	iotthingsgraph	2.31.34		79291c042abcaca02b7d173d919e68efb6acbeb6
+software.amazon.awssdk	iotthingsgraph	2.31.35		88d5225020f0cea6ae77f0a0a15c0ea2394345c8
+software.amazon.awssdk	iotthingsgraph	2.31.36		faecec08b3aca04bd72040176247862f614d234d
+software.amazon.awssdk	iotthingsgraph	2.31.37		b374e8dd92f41847b769233e01ad28baa4efe70c
+software.amazon.awssdk	iotthingsgraph	2.31.38		84495a2c2aecc0ca686bbd59f999303aa42d185e
+software.amazon.awssdk	iotthingsgraph	2.31.39		ac6e5584abea15dcc964e26abe157930ae76abaf
 software.amazon.awssdk	iotthingsgraph	2.31.4		78126814477965b8f1882fa40d9ac5344d565f92
+software.amazon.awssdk	iotthingsgraph	2.31.40		e639847fd30274dbe9e74994ce7d0061be5394df
+software.amazon.awssdk	iotthingsgraph	2.31.41		7f8b70bca69440fca97d436037355355a16054f5
+software.amazon.awssdk	iotthingsgraph	2.31.42		141dbaf8b7f14d9ee60fec69f2479dc713970dc5
+software.amazon.awssdk	iotthingsgraph	2.31.43		7726af2c0caa3be1d32cc3b33586aa6243b5dd64
+software.amazon.awssdk	iotthingsgraph	2.31.44		1f0cf7c3e0c07230dd351eb83b1a9b990fb2434c
 software.amazon.awssdk	iotthingsgraph	2.31.5		094d438f19fe4a1dbe0ee6ece16d634b51cef820
 software.amazon.awssdk	iotthingsgraph	2.31.6		56659ae3e8d6731de02d2f67fa7ddd4552a020e6
 software.amazon.awssdk	iotthingsgraph	2.31.7		81e3f857ccfd349b699206bf2356eb644fdf0ba3

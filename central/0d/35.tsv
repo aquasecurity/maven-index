@@ -121,6 +121,7 @@ com.automacent	automacent-fwk-archetype	1.2		f1fc7f76398a92ed20251ad9fc4b5f9f0ea
 com.automacent	automacent-fwk-archetype	1.3		f616a92dc5e7f5392f321f9c1871408bd6ea81d3
 com.automacent	automacent-fwk-archetype	1.4		33ac59a4be4fbcad9ddf92b7312a8e402775202f
 com.conviva.sdk	conviva-irdeto-sdk	2.145.0		N/A
+com.dadrox	sbt-test-reports_2.10_0.13	0.1		1b9613da936a57e97e0a439cbf75332cb8a9c54d
 com.geotab	java-sdk-common	9.0.10		4e515abe11d6f1adbc4f2294b6b8446db4d015c8
 com.geotab	java-sdk-common	9.0.6		cabd554954851f66366f3eec1df06da83e511e4e
 com.geotab	java-sdk-common	9.0.7		3c6cab7d19bdf4df1d17e7ea960b2d15945ab046
@@ -367,6 +368,7 @@ com.vaadin	vaadin-testbench-shared	9.3.0		6b7d54873620c55d9aad58293a229f8d01a203
 com.vaadin	vaadin-testbench-shared	9.3.1		1ed202ba10accb90b1cf1508dac35fbbcc8c217a
 com.vaadin	vaadin-testbench-shared	9.3.10		4948d34f18db24b4d7d02798bfa7fe3ac9c04f63
 com.vaadin	vaadin-testbench-shared	9.3.11		dc1f8df687043f6768d80db882de9757c8650518
+com.vaadin	vaadin-testbench-shared	9.3.12		1f852b449184815f1a81b0968ee978f4c94e92e6
 com.vaadin	vaadin-testbench-shared	9.3.2		41e10e337d0723fcf8e5aedaf58638f3e72ec175
 com.vaadin	vaadin-testbench-shared	9.3.3		bb7d563a3ba5528b6c47147f8c22e28b34e51020
 com.vaadin	vaadin-testbench-shared	9.3.4		9b824d01e8d804bcc1857a1ea5f5643c61a02ea5
@@ -1289,7 +1291,14 @@ com.yahoo.vespa	vespaclient-container-plugin	8.511.14		111faece1e9a1d3360866e856
 com.yahoo.vespa	vespaclient-container-plugin	8.512.63		b258d6dff2abedf6234fdbd66fe37363e3cdfdc0
 com.yahoo.vespa	vespaclient-container-plugin	8.513.17		13ab1a0217824732ed9481b89b73e3456a0f1898
 com.yahoo.vespa	vespaclient-container-plugin	8.514.24		c1c3b5f5b39cf86e306ee9c78a4fae44ae75cec0
+com.yahoo.vespa	vespaclient-container-plugin	8.515.40		40ef35202a0b6b41dc448b1f2aba6e92dace6194
+com.yahoo.vespa	vespaclient-container-plugin	8.516.26		5ad338eb33ac593ca4310739e0717ea90ec00e0a
+com.yahoo.vespa	vespaclient-container-plugin	8.517.15		96e501753bbb40f43d7e559198373b6e8a6213ca
+com.yahoo.vespa	vespaclient-container-plugin	8.518.4		4b0db4c4190f58f32dd8d669bc9bfe6864703f69
+com.yahoo.vespa	vespaclient-container-plugin	8.519.55		1c17f6aa36734e18917b4fb533ad2e11eb773381
 com.yahoo.vespa	vespaclient-container-plugin	8.52.15		4c601cf051420f9594ec1e1d6533570c9219ed29
+com.yahoo.vespa	vespaclient-container-plugin	8.520.18		3b4a8674c6b1ff2debc0e04e641098f10b8d2908
+com.yahoo.vespa	vespaclient-container-plugin	8.521.17		e5b35b2b4c069c99f36d3137f921b1aa530251b6
 com.yahoo.vespa	vespaclient-container-plugin	8.53.21		f6742096791336a6bcc35ebbb867e7a87acc7d20
 com.yahoo.vespa	vespaclient-container-plugin	8.54.61		447d2056fb9d1f844e21bb476f3a26cc3edbcfd8
 com.yahoo.vespa	vespaclient-container-plugin	8.56.20		d715aa61079b1874dfcd7e404a62f8b95d2026ef
@@ -1540,6 +1549,7 @@ io.ktor	ktor-server-velocity-jvm	3.0.3		0e5de1bb2b8ea286c33e95aee1bd92c9576d51bf
 io.ktor	ktor-server-velocity-jvm	3.1.0		d2198c3250eeab8dda0ea876b987ec1fa7849ecb
 io.ktor	ktor-server-velocity-jvm	3.1.1		7057fe613a87135bf8fd4a801bbb5010de0ea024
 io.ktor	ktor-server-velocity-jvm	3.1.2		0122de25e2e2a0eaedbe6cb7ad4f24a60711133c
+io.ktor	ktor-server-velocity-jvm	3.1.3		10a8e9047eb37581ee33eee36c0b327acce3ac9b
 io.micrometer	micrometer-registry-otlp	1.10.0		7e05548699b768ee8a464521b3406b68066ce618
 io.micrometer	micrometer-registry-otlp	1.10.1		e8eb50cc6a594d7afb1d02f89440e659bf85a9ff
 io.micrometer	micrometer-registry-otlp	1.10.10		85db8dd1cfd3d728a54bf180fed1c49d4d50c348
@@ -1587,6 +1597,7 @@ io.micrometer	micrometer-registry-otlp	1.13.10		b517fc64bc10c59b540d205c3ff71fc4
 io.micrometer	micrometer-registry-otlp	1.13.11		25236e65a9e2df5f783d9ad573e3965492c9703e
 io.micrometer	micrometer-registry-otlp	1.13.12		f9bf7b20873d44b17747a7d8580d3a5dc5816d81
 io.micrometer	micrometer-registry-otlp	1.13.13		25bd84b3ffdaa4bfaf85f2a67bd02bb152168bdf
+io.micrometer	micrometer-registry-otlp	1.13.14		19bf9b2f5bd10e330353a441483ed8c3b93e7528
 io.micrometer	micrometer-registry-otlp	1.13.2		a852e38d67ac320d5b5c0f0d86a1be6343be57e1
 io.micrometer	micrometer-registry-otlp	1.13.3		0a9c84d4de0086c72f51f8e12d7349be1bd58a8d
 io.micrometer	micrometer-registry-otlp	1.13.4		e94d3ae981333a5f8f23ca45e7dc738db9a0db52
@@ -1602,6 +1613,8 @@ io.micrometer	micrometer-registry-otlp	1.14.3		ca25dacf92780c261dddfa590ad17e371
 io.micrometer	micrometer-registry-otlp	1.14.4		3642085b83c70813e497cd80c17e85195429ae09
 io.micrometer	micrometer-registry-otlp	1.14.5		029737cd8e34ac587b14f42f9088424536f3f680
 io.micrometer	micrometer-registry-otlp	1.14.6		ef57d3742389836395ccd5e47fbd16b7c69116b1
+io.micrometer	micrometer-registry-otlp	1.14.7		8326530107c79e67bace7b89d0b3dd8a2dc257d0
+io.micrometer	micrometer-registry-otlp	1.15.0		4f555da4f46b738e06b5c7299cd43ff21093fbcb
 io.micrometer	micrometer-registry-otlp	1.15.0-M2		11850455577d647723bb27cc06d4d117979e1295
 io.micrometer	micrometer-registry-otlp	1.15.0-M3		02f50a5ad86a0be553ac4151139130c42885a4d3
 io.micrometer	micrometer-registry-otlp	1.15.0-RC1		e478181cef8efba8eb1c8d837fac03a2c9e457ed
@@ -2254,6 +2267,7 @@ org.apache.camel.springboot	camel-knative-starter	4.8.3		80ee862a3bb40ccce178622
 org.apache.camel.springboot	camel-knative-starter	4.8.4		729bd345f9e4e0bf3c8e34b8a1b3a1e411fb3052
 org.apache.camel.springboot	camel-knative-starter	4.8.5		232e459f3941a1685d3dcad260e430dde3513d5b
 org.apache.camel.springboot	camel-knative-starter	4.8.6		85f24f05d15c7c86d8ff0e438f3630c84790de5e
+org.apache.camel.springboot	camel-knative-starter	4.8.7		aff394e2056fd69789d91195055fefe5b7087bc7
 org.apache.camel.springboot	camel-knative-starter	4.9.0		3fe775120ef4c240595a406040764dfa89899854
 org.apache.dubbo	dubbo-rpc-redis	2.7.0		62bd9fcf21fa87b04e3e4b38dd18e28d6297f20c
 org.apache.dubbo	dubbo-rpc-redis	2.7.1		aa189545f43c194feb1f35e1d43fb266b82c4cb0
@@ -2494,6 +2508,7 @@ org.scalameta	metals_2.13	1.4.2		27823eaa350fae1f1f02c0cbf01ed30d7a266ee3
 org.scalameta	metals_2.13	1.5.0		c01c0ee320951ff41d14ee6679ea6f7e97c3bc16
 org.scalameta	metals_2.13	1.5.1		cfda71df6ecf89a112c219b707691135c1bd0860
 org.scalameta	metals_2.13	1.5.2		7b8bf520c188e160fb93796be4fe5824ce9b1694
+org.scalameta	metals_2.13	1.5.3		0317db62b6006f49a0d253634fb9ee489aa2e834
 org.seleniumhq.selenium.client-drivers	selenium-ruby-client-driver	1.0		N/A
 org.seleniumhq.selenium.client-drivers	selenium-ruby-client-driver	1.0-beta-2		N/A
 org.seleniumhq.selenium.client-drivers	selenium-ruby-client-driver	1.0.1		N/A

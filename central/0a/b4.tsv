@@ -140,6 +140,10 @@ com.microsoft.azure	azure-mgmt-recoveryservices	1.8.0-beta		51c9e106724e3e051701
 com.microsoft.azure	azure-mgmt-recoveryservices	1.9.0-beta		14e34b47f3e2955db43c2c7970c9e840f1a2e8ac
 com.nordstrom.xrpc	xrpc	0.1.0		d7e68ea94f2b5a293d0875b61fd866ff25b342ae
 com.nordstrom.xrpc	xrpc	0.1.4		17d711ca0216d43b4a6c832859ed2661cdb740be
+com.orrsella	sbt-stats_2.9.1_0.12	1.0		1829910ab4c815187f576844ab2f27d4b012ce7a
+com.orrsella	sbt-stats_2.9.1_0.12	1.0.1		b573ca935f6ca36cf92d9ab5a4fbd7f65e7d8d2a
+com.orrsella	sbt-stats_2.9.1_0.12	1.0.2		79ef47afa08b3d333a4fa904bca38e5189632758
+com.orrsella	sbt-stats_2.9.1_0.12	1.0.5		7e8819b318891e15ef49500af35cb645dd10b8f7
 com.softwaremill.sttp.client3	zio-json_sjs1_2.13	3.1.9		8fff95c30a9bb852a523f6c8143336b53eed3cec
 com.softwaremill.sttp.client3	zio-json_sjs1_2.13	3.10.0		a525eb26ea3c0a38c7e26037b482ffd7f2af05bb
 com.softwaremill.sttp.client3	zio-json_sjs1_2.13	3.10.1		70f7d7c6a11550a06758a0d51c70e81771efb6bc
@@ -369,6 +373,7 @@ dev.galasa	dev.galasa.cicsts.ceci.manager.ivt	0.25.0		082aef755dbeb0b69f47c411d9
 dev.galasa	dev.galasa.cicsts.ceci.manager.ivt	0.38.0		12759fd3aac26454bff4d9d4c0753f30ca4c4cd2
 dev.galasa	dev.galasa.cicsts.ceci.manager.ivt	0.39.0		04fce2283689e5395a1dc46decfab3502d767391
 dev.galasa	dev.galasa.cicsts.ceci.manager.ivt	0.40.0		1e2a16372d82a26367c392d36a858cc40e4427b1
+dev.galasa	dev.galasa.cicsts.ceci.manager.ivt	0.41.0		006dfd66b2528fa31f5b4cb79f3fecd9aedf0244
 io.apicurio	apicurio-registry-operator	2.2.0.Final		N/A
 io.apicurio	apicurio-registry-operator	2.4.6.Final		N/A
 io.apicurio	apicurio-registry-operator	3.0.0		N/A
@@ -435,6 +440,8 @@ io.github.ljnelson	dev5432	0.0.1		d0c61def7b05b8e6e19f6fad072dfe8c29608ab0
 io.github.ljnelson	dev5432	0.0.2		0209be8d679b4091a4b0e28a7085cbf18c5c65f3
 io.github.ljnelson	dev5432	0.0.3		626fc206865ed356e1b2b85fb0ff39d076e55419
 io.github.ljnelson	dev5432	0.0.4		5d68b4fbe95af9985f37883ba512c5ebe60f5c54
+io.github.morgaroth	sbt-s3_2.10_0.13	0.16		c828a42d60e5ffd02efc41fa289b2273821a4ec9
+io.github.morgaroth	sbt-s3_2.10_0.13	0.17		d2622d6175f9450adc1a822678271acd7a9c1b99
 io.github.rhdunn	xqt-kotlinx-lsp	1.0.0		a2249f2a1d8112ab5054f299f3f242b06987ebf4
 io.github.rhdunn	xqt-kotlinx-lsp	1.0.1		a7dd41fd7147ee2a254370a05d5574d9d5c9ac2b
 io.github.rhdunn	xqt-kotlinx-lsp	2.0.0		17d64ca59a6e66f993f69a1592aeba6f7a7f391e
@@ -1140,6 +1147,7 @@ org.apache.camel	camel-eip-documentation-enricher-maven-plugin	4.8.3		c2a826f7e6
 org.apache.camel	camel-eip-documentation-enricher-maven-plugin	4.8.4		a95238b0e60ea23ad7a124ecb85c05d13a5247c3
 org.apache.camel	camel-eip-documentation-enricher-maven-plugin	4.8.5		035e5aebd565cf2d8e45cd8b9901ff39196144dd
 org.apache.camel	camel-eip-documentation-enricher-maven-plugin	4.8.6		b1dea1dc7b098bcb8bc9c769be92df2ffe287235
+org.apache.camel	camel-eip-documentation-enricher-maven-plugin	4.8.7		55aec64abe40ee18878a31a82d03826d49bdc0a3
 org.apache.camel	camel-eip-documentation-enricher-maven-plugin	4.9.0		8cbb5609e8ee6081f4ea8d299b8e5211c04e4b09
 org.apache.karaf.audit	org.apache.karaf.audit.core	4.2.0		8de4bf3a11524aa649826589b59d6744579f00fd
 org.apache.karaf.audit	org.apache.karaf.audit.core	4.2.0.M2		82bbb3285b5e10258b4bf8fe8805cd15ab824131
@@ -1354,6 +1362,7 @@ org.gosu-lang.gosu	gosu-maven-compiler	1.17.9		6409dec9d90d3ae3e4a78de1eafac832b
 org.gosu-lang.gosu	gosu-maven-compiler	1.18.1		8257bb6a0e5f9d5350398ef15dcb841de4964a72
 org.gosu-lang.gosu	gosu-maven-compiler	1.18.2		c211f67f9e74cc2b5ddea49eb9cef4237caf9929
 org.gosu-lang.gosu	gosu-maven-compiler	1.18.3		98f5684ee1f1ede159b092ba635e37ff7ff3cfa8
+org.gosu-lang.gosu	gosu-maven-compiler	1.18.4		daf991df2dff675fc0dce7199f25c7c192097920
 org.gosu-lang.gosu	gosu-maven-compiler	1.9		fa1fe12ae10a4670d2770210c544eaff4999ebe7
 org.gosu-lang.gosu	gosu-maven-compiler	1.9.1		38f55105c679ad234c31ef02ebdbeb83b5bb4ccb
 org.gosu-lang.gosu	gosu-maven-compiler	1.9.2		f0bfb32f7cbbadd578304d441e55c917a6669158
@@ -2239,6 +2248,7 @@ org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.13		aea06ec096b578637
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.14		b5c9314ec1a4520339e2441e82ef4492c875e3bd
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.15		078979d9a0782232c23705e121dec06526bab181
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.16		67ffa6607fd5bd90df0e7fcf0809a79538e35c65
+org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.17		01309d4954cf3f79cefaea301d7f535abfd19111
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.2		2d6e82d409360a74baf31263146b740bfb81a4ed
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.3		44346c38fa6da0eb5fe81f2c928b5fc23c3e69bf
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.4		6ab56c8cc9e2cdb9d1ea9d938c37cc61e6cbb7c4
@@ -2247,6 +2257,10 @@ org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.6		2b685e7cda37668e02
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.7		5ca434daa1a7cdb89f8be286647570fbfc568135
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.8		b6a94055c022c9089072522b972968a55c306046
 org.sdase.commons	sda-commons-server-spring-data-mongo	7.3.9		830d916784f58f19e5888b3499db33c65b09d790
+org.sdase.commons	sda-commons-server-spring-data-mongo	7.4.0		3c9f1b3c818ee1ab80ec65e5118d39b9bfd720af
+org.sdase.commons	sda-commons-server-spring-data-mongo	7.5.0		71eddfe97d0724081ffbde0669907ead8c87695a
+org.sdase.commons	sda-commons-server-spring-data-mongo	7.5.1		b1016677b35c69c139296140f8dd1016d3e41628
+org.sdase.commons	sda-commons-server-spring-data-mongo	7.5.2		692a5964f3398efb713d6809bdae1c6bf0d05891
 org.sonarsource.java	java-custom-rules-example	6.14.0.25463		0c67c3067166bbed8eb4a97ae225e2ee2ce5cce3
 org.sonarsource.java	java-custom-rules-example	6.15.0.25849		3d77da66d935a85defc47b9edddea4ada341e219
 org.sonarsource.java	java-custom-rules-example	6.15.1.26025		aaf52a2cf32d7a159bdc4850ad6cd6437d861adc
@@ -2297,6 +2311,7 @@ org.sonarsource.java	java-custom-rules-example	8.10.0.38194		5a2d7e9031b863d4b58
 org.sonarsource.java	java-custom-rules-example	8.11.0.38440		555537a875419164ed1adceb6317a99aca79b7d6
 org.sonarsource.java	java-custom-rules-example	8.12.0.38599		7c25450d3567bda972607474e8cdce7d734e0935
 org.sonarsource.java	java-custom-rules-example	8.13.0.38826		c5b6e17482c5d06cbdf3be1883f4e0d0b6245dbd
+org.sonarsource.java	java-custom-rules-example	8.14.0.39102		fba9ab388549512c657de919b53ead9268b350fd
 org.sonarsource.java	java-custom-rules-example	8.2.0.36672		80d0876d3430804b460fd6bc34c862fb4491cc71
 org.sonarsource.java	java-custom-rules-example	8.3.0.36747		8bbcb7d079b01b6b3bc7172980798d2139260f0b
 org.sonarsource.java	java-custom-rules-example	8.4.0.37032		d90c47771c8a8f71f87af3fbdcabb5b02086f0c4
@@ -2520,6 +2535,7 @@ team.razz.eva	eva-domain	0.7.4		47ec7b5f173bfff5e93d15592a7ef534b4cba6a3
 team.razz.eva	eva-domain	0.7.5		47ec7b5f173bfff5e93d15592a7ef534b4cba6a3
 team.razz.eva	eva-domain	0.7.6		47ec7b5f173bfff5e93d15592a7ef534b4cba6a3
 team.razz.eva	eva-domain	0.8.0		47ec7b5f173bfff5e93d15592a7ef534b4cba6a3
+team.razz.eva	eva-domain	0.8.1		47ec7b5f173bfff5e93d15592a7ef534b4cba6a3
 tools.jackson.datatype	jackson-datatypes-misc-parent	3.0.0-rc1		N/A
 tools.jackson.datatype	jackson-datatypes-misc-parent	3.0.0-rc2		N/A
 tools.jackson.datatype	jackson-datatypes-misc-parent	3.0.0-rc3		N/A

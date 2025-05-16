@@ -776,6 +776,7 @@ com.vaadin	flow-html-components	23.5.1		80c872ede26e5aaa20d6d24517a5453de671c76c
 com.vaadin	flow-html-components	23.5.10		75895ddba679f9dff156e6969fa30ea99ae2b808
 com.vaadin	flow-html-components	23.5.11		eebd10a59cac8259837c14c5ea78bc11994d8f95
 com.vaadin	flow-html-components	23.5.12		a6f8277cc7e87c41b056301cd960b46f9ae370a6
+com.vaadin	flow-html-components	23.5.13		8012a5cdfe0f42467a70493808553d57122fd606
 com.vaadin	flow-html-components	23.5.2		d3e3e8490fb9d9f9d36bd2f30776a1709a1ca6e5
 com.vaadin	flow-html-components	23.5.3		76b2e87de63421d17b2c76fcca24bccb6392fc58
 com.vaadin	flow-html-components	23.5.4		52e4c692b545a644f24bd0f6e3ceab25e2dde367
@@ -896,6 +897,7 @@ com.vaadin	flow-html-components	24.6.0		ea944ac28c29d55cd49cd90229ab564f1cb487bf
 com.vaadin	flow-html-components	24.6.1		cd295c84d2a0870188e2b99ef6e474e10184e51c
 com.vaadin	flow-html-components	24.6.10		3d4587483f71fe3a18718b52700d266ff4732e91
 com.vaadin	flow-html-components	24.6.11		591727270d8c8457722ce442d4a91f52c3fd63fe
+com.vaadin	flow-html-components	24.6.12		d8d1fc74a340fe781d90d42fdfa5f515db53f813
 com.vaadin	flow-html-components	24.6.2		d808e2bbaec0ae81e6bc7a02e2fb80d05baf1920
 com.vaadin	flow-html-components	24.6.3		025a93d0cfce4b357a8ae6d998c2edbf6aa2ac91
 com.vaadin	flow-html-components	24.6.4		37defcaebc4c1165d51346120d6b72ed8554255a
@@ -910,6 +912,7 @@ com.vaadin	flow-html-components	24.7.2		5a97f0a4ae8965ee3c5b368f560d4d415b07782f
 com.vaadin	flow-html-components	24.7.3		9965cc78b901cb9420c9f79970d72dc5017029f6
 com.vaadin	flow-html-components	24.7.4		131b6e01a884b4cb752664ff6f55a7bc74efd6ae
 com.vaadin	flow-html-components	24.7.5		a7c9187d4d04f9dfc46d6abb056236ef080207a3
+com.vaadin	flow-html-components	24.7.6		5dc2a74df22ccb7a772702c342d6aa214179efc4
 com.vaadin	flow-html-components	3.0.0		2cee86a58bed834891f687d7f43eddd33f20d9e8
 com.vaadin	flow-html-components	3.0.1		38d3987b3da50b5fdb94f730c0bc01fb48bb1ad9
 com.vaadin	flow-html-components	3.0.2		5017a69d73dfe9a67e0440d3b22297964c09b24a
@@ -1378,6 +1381,7 @@ io.quarkus	quarkus-test-oidc-server	3.15.2		5a313bf77d39a3f24da2913cb3297390c363
 io.quarkus	quarkus-test-oidc-server	3.15.3		663155c5058e0e72dfc8d7dd51db224ba534cca7
 io.quarkus	quarkus-test-oidc-server	3.15.3.1		e570a7d28bdf5e061e4e8f7a4a4f32c654c540a3
 io.quarkus	quarkus-test-oidc-server	3.15.4		55debcb9845eaa85ebf4b86538957e728a0d5a7a
+io.quarkus	quarkus-test-oidc-server	3.15.5		51442b1a394b8e0f77a1a6c26a19395242ac981a
 io.quarkus	quarkus-test-oidc-server	3.16.0		5ae321e1291394af4199ce97751ec6b89888bb33
 io.quarkus	quarkus-test-oidc-server	3.16.0.CR1		bbd5e59ae162e4a46bc499d07c831cbafe01c254
 io.quarkus	quarkus-test-oidc-server	3.16.1		d9061970d4c75126d95225582f16f5f84a3a5c01
@@ -1422,6 +1426,7 @@ io.quarkus	quarkus-test-oidc-server	3.2.8.Final		59c7672a51a985e3c8a508ef0f2c477
 io.quarkus	quarkus-test-oidc-server	3.2.9.Final		38fbc21b3467a55921680c97e526e4c052b57822
 io.quarkus	quarkus-test-oidc-server	3.20.0		2bd39b289ec03a0c4c948583d503a92ac7cc7759
 io.quarkus	quarkus-test-oidc-server	3.20.0.CR1		141f9fff39eadffc92117a5fed884d520195636d
+io.quarkus	quarkus-test-oidc-server	3.20.1		07441964874a6366e37c094c9b9fa65d7e3a89c2
 io.quarkus	quarkus-test-oidc-server	3.21.0		dffae6ac754f57ca8b3f34fbdb4752a98c85a8c3
 io.quarkus	quarkus-test-oidc-server	3.21.0.CR1		66fabe6dab236faa3cb6cefd54a873301beca460
 io.quarkus	quarkus-test-oidc-server	3.21.1		3875221fedf677f07009cf1204f2a5d9ed0fb8b8
@@ -1431,6 +1436,9 @@ io.quarkus	quarkus-test-oidc-server	3.21.4		d5c00b14e021fd54a132e016b6ab0e045280
 io.quarkus	quarkus-test-oidc-server	3.22.0		aceaaf50dbb9ddf3de10f3ef356faaa474e85ef0
 io.quarkus	quarkus-test-oidc-server	3.22.0.CR1		b2c59db1ccb56d3fcd4da47465cc55f981b9c382
 io.quarkus	quarkus-test-oidc-server	3.22.1		1f2eeae624ac7ede4b290d46eb5e3d16aa67c1fd
+io.quarkus	quarkus-test-oidc-server	3.22.2		b1cf073c5ec162efac55fc581f14c5c85e4ee555
+io.quarkus	quarkus-test-oidc-server	3.22.3		ddb78690f8be13c68f995b5ab59e119a5029b828
+io.quarkus	quarkus-test-oidc-server	3.23.0.CR1		cea86eb0e5f0f072ba14707b62836896d981b36a
 io.quarkus	quarkus-test-oidc-server	3.3.0		df6969562428dce92b2de1317514ab876c46159d
 io.quarkus	quarkus-test-oidc-server	3.3.0.CR1		b70f1c711397492ead41f0bf4caecf0e289f3fff
 io.quarkus	quarkus-test-oidc-server	3.3.1		4e97bf5358745330192394da51e87addda6a2c2d
@@ -1855,6 +1863,10 @@ tz.co.asoft	sim-core-tvosarm64	3.0.14		N/A
 tz.co.asoft	sim-core-tvosarm64	3.0.14	metadata	3b2fa4be72abbfa441edfc32ba4e700e57aa27de
 tz.co.asoft	sim-core-tvosarm64	3.0.15		N/A
 tz.co.asoft	sim-core-tvosarm64	3.0.15	metadata	1202ae6770b73c7890de98bb4d70ecab4aff2f9e
+tz.co.asoft	sim-core-tvosarm64	3.1.0	metadata	9157d5af6e2186bbce46d44d3fc98b80a38a44cd
+tz.co.asoft	sim-core-tvosarm64	3.1.1	metadata	44e8cdc7f08a5ed778a698d7e0ae1b1e3d362767
+tz.co.asoft	sim-core-tvosarm64	3.1.11	metadata	bbfdd63a40227a3a02ec3eeec1236b7ba31f2d55
+tz.co.asoft	sim-core-tvosarm64	3.1.12	metadata	a567ee8af68f09a8ec76a772c58e1aabe10a0d26
 xyz.xiezc	yao	1.0		N/A
 xyz.xiezc	yao	2.0		N/A
 xyz.xiezc	yao	2.1		N/A

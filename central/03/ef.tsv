@@ -157,6 +157,8 @@ com.gitee.qdbp	qdbp-json	5.7.240622		cc74d59cbe6d35cefd7c9878a520874a67c34744
 com.gitee.qdbp	qdbp-json	5.7.240808		1b9aeef9f5f0a252ff27b15f214f59402ceb86c4
 com.gitee.qdbp	qdbp-json	5.7.240902		79fb72d23a119addec5389e61f67cde9c9337afb
 com.gitee.qdbp	qdbp-json	5.7.250412		9626373d3e6f2a4135d8d97538d7b74cff1e69f1
+com.gitee.qdbp	qdbp-json	5.7.250512		e89fcec4d14ced7362ca57438e260d083419c750
+com.gitee.qdbp	qdbp-json	5.8.250510		218fb330054042ced6da6f801f7b88aaa15019e6
 com.github.deaktator	scala-runtime-manifest_2.12	1.0.0		ae4e8140f1695e0e2740c5e6e3bcbf8ae87a20cb
 com.github.forwardloop	glicko2s_2.11	0.9		f2be60eeb55c6172d445e807f96b848a4b405e61
 com.github.forwardloop	glicko2s_2.11	0.9.1		abab07a09cd074f030165ec5c8b23285457b040a
@@ -177,6 +179,7 @@ com.github.izeigerman	akkeeper-yarn_2.12	0.4.9		69fd0c2eb0d0ff71b10ae7b9cea15de1
 com.github.kamijin-fanta	scala-java-time_2.11	1.0.0		bc1a429e675129d3d040fcc291996713a4e1de0c
 com.github.robert2411.platform.utils	serialization	1.0.3		28a52452553b427cae10e7855e8bb6fd40829f78
 com.github.robert2411.platform.utils	serialization	1.0.4		240d02f9024cc47556c508f64fcd845d9e9bb55d
+com.github.sbt	sbt-fmpp_2.12_1.0	0.4.0		4bd8ccec21f335b06f8606e1fb71e5b52807b714
 com.github.scala-blitz	scala-blitz_2.10	1.0-M1		deb0031cc3b3933ffeacb7f5a3d741fa80667692
 com.github.scala-blitz	scala-blitz_2.10	1.0-M2		88e14c6a80bd281d1f26df449a70edd598ffeaf1
 com.github.seratch	jslack-lightning-micronaut	3.1.1		c125d6178c1aeb4b52fb620881543654bb13d2dd
@@ -1028,6 +1031,7 @@ com.strumenta.kolasu	kolasu-lionweb-gen	1.5.79		5831bc829c77ff6788e14b3a32eb790f
 com.strumenta.kolasu	kolasu-lionweb-gen	1.5.80		889bec57dcb2c4bfdb2929fa80bb1b9432599485
 com.strumenta.kolasu	kolasu-lionweb-gen	1.5.81		dbeadabb86879f2ce343727a2ce2fc6325b19564
 com.strumenta.kolasu	kolasu-lionweb-gen	1.5.82		83ed90f36c4ec419c2576fa99725124704d17094
+com.strumenta.kolasu	kolasu-lionweb-gen	1.5.83		6066355a3c26b845961aa357a62498291f2dda30
 com.tencent.trpc	trpc-validation-pgv	1.0.0		2bdd0f59a1becc8b2a581550fdd15cb51b2c599d
 com.tencent.trpc	trpc-validation-pgv	1.1.0		393b90da7e908f9c62f1e6a9039815cf6878b87e
 com.tencent.trpc	trpc-validation-pgv	1.1.1		cdad4630ac12d7eeebc648b42d57c0359ae0fbc3
@@ -1142,6 +1146,7 @@ io.camunda	zeebe-client-spring	8.5.14		f1e0921cc95f47f635a9e81b9025fe845d6d7bf8
 io.camunda	zeebe-client-spring	8.5.15		58bf2a844f5729be35c0a917321aa5c3927e16bb
 io.camunda	zeebe-client-spring	8.5.16		573e5793f4da01a7a08540905e8caaae76983977
 io.camunda	zeebe-client-spring	8.5.17		548d0d851e3bb88f11513833b9e71b60fdd95fdf
+io.camunda	zeebe-client-spring	8.5.18		c874014fe4a60fca5c3d000487cbb1db17112c81
 io.camunda	zeebe-client-spring	8.5.2		5f6c781f666e20850045c5d09152cc6177ec3cc4
 io.camunda	zeebe-client-spring	8.5.3		5565afd13d0d7eec55a049e7b080f2de0c22a5d9
 io.camunda	zeebe-client-spring	8.5.4		8443d4f9c06048fc924e767f12f147fa1a534a15
@@ -1230,6 +1235,7 @@ io.github.ermadmi78	kobby-generator-kotlin	4.0.3-beta.03		2c99d6bcb7340ba48dd94a
 io.github.ermadmi78	kobby-generator-kotlin	4.1.0		f169ae2a0bd749d0ca0f990c97b03c4485d031f8
 io.github.ermadmi78	kobby-generator-kotlin	4.1.0-beta.01		43fb4c3047ae19e68244221ec2d2db321cf3df9a
 io.github.ermadmi78	kobby-generator-kotlin	4.1.1		70c306ceded6c4d8be9cdfe3425230e390a2c026
+io.github.ermadmi78	kobby-generator-kotlin	5.0.0-beta.01		b841ae318b99898993c5a05a9cb161ac2757dbff
 io.github.jmcardon	tsec-hash-bouncy_3	0.3.0-M1		97d28fc14d3fc23991bbf4d78c274e55cf577b71
 io.github.jmcardon	tsec-hash-bouncy_3	0.3.0-M2		6bcd54d011c960e4a3ac7006d8ec76d122bb956e
 io.github.jmcardon	tsec-hash-bouncy_3	0.4.0		927f9792385fe79caa604f101695acd040cf2e58
@@ -1687,6 +1693,7 @@ org.jboss.narayana.arjunacore	arjunacore	7.0.2.Final		064fa5982161060563e02e03ad
 org.jboss.narayana.arjunacore	arjunacore	7.1.0.Final		a5289e717011ac12515cf7ab30d5de8f44d37138
 org.jboss.narayana.arjunacore	arjunacore	7.2.0.Final		b14c91c939e4ee6cf216289a38a18d40fa18a8ee
 org.jboss.narayana.arjunacore	arjunacore	7.2.1.Final		bc6e7b694612bbb6970b26c4dd17186081c7b4a9
+org.jboss.narayana.arjunacore	arjunacore	7.2.2.Final		867f86e17103aae353a8841bd3e18fa37b905098
 org.jibx.schema.org.opentravel.x2014B	org.jibx.schema.org.opentravel.x2014B.rail	1.2.4		d632c80ef1b00ba6ac54e921716512a02b5faf9f
 org.jvnet.hudson.main	hudson-maven-legacy	2.1.0		N/A
 org.jvnet.hudson.main	hudson-maven-legacy	2.1.1		N/A

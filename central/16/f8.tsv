@@ -1,4 +1,5 @@
 au.net.causal.maven.native-security	natsec-maven-plugin	1.0		7189ef4e6926fabcaae7168ed93806819d0a4b9b
+ch.epfl.scala	sbt-maven-resolver_2.10_0.13	0.13.17-sourcedeps		106ce6e8523e47bfaec12ee404cc46076c32d712
 city.smartb.fixers.gradle	plugin	0.1.0		053359d893a68970296ac876f20f4423515d5231
 city.smartb.fixers.gradle	plugin	0.1.1		9826f72e67c64d164646663a12c1d1af03226d18
 city.smartb.fixers.gradle	plugin	0.10.0		884fa5731c752aa5a8232df7c322bced99fcca4c
@@ -258,6 +259,8 @@ com.google.cloud	google-cloud-automl	2.59.0		f0187d0266e605bdeaaaf6b785a4c50c736
 com.google.cloud	google-cloud-automl	2.6.0		763ed9249efac1f3af89d6b165571d2b6f1d00da
 com.google.cloud	google-cloud-automl	2.60.0		fafc43158bcfd481c9605a3ba412dd2180811671
 com.google.cloud	google-cloud-automl	2.61.0		58ffaa0fd955f751e4db1f7a4d8ca4110dbf4bef
+com.google.cloud	google-cloud-automl	2.62.0		18bf51ebc5657321b5c845929feb0e614d21f774
+com.google.cloud	google-cloud-automl	2.63.0		42d9affff4107024840d87f2c7e5fbe7da2e6a42
 com.google.cloud	google-cloud-automl	2.7.0		82337612fe2afb5d8daea2278702f5dac1c01eb9
 com.google.cloud	google-cloud-automl	2.8.0		dc9ea71e7ae229e799c0e15ce93bd6dd76ce2995
 com.google.cloud	google-cloud-automl	2.9.0		641a9ada1287224f20870ca0fe99ca13917b8e2b
@@ -918,6 +921,8 @@ com.vaadin	vaadin-rich-text-editor-flow	23.5.12		67db172ee93c1c5107fde7ffcbbbdd8
 com.vaadin	vaadin-rich-text-editor-flow	23.5.13		e5b9e1e904b1e63040ed96517c997d3d8a8ea0a9
 com.vaadin	vaadin-rich-text-editor-flow	23.5.14		5b91f435ad429d40db3c26bf30686b2936c970f7
 com.vaadin	vaadin-rich-text-editor-flow	23.5.15		7ca63e3b48ebd9f63fb065e38082c3122e118ebf
+com.vaadin	vaadin-rich-text-editor-flow	23.5.16		525c6d8f91b081891a0b7168dc9ebf40c2603992
+com.vaadin	vaadin-rich-text-editor-flow	23.5.17		ff7a7df2e4004908443569a1f7929149d7ca9267
 com.vaadin	vaadin-rich-text-editor-flow	23.5.2		4ddc5925bcefce458593692be0475b1214342e25
 com.vaadin	vaadin-rich-text-editor-flow	23.5.3		0821c986baf6f886568f484591a0e094f9240ae6
 com.vaadin	vaadin-rich-text-editor-flow	23.5.4		95f4abc7ff1512d10ce3f7b4bc0991ee443f76f2
@@ -1032,6 +1037,7 @@ com.vaadin	vaadin-rich-text-editor-flow	24.5.8		427150b00bf3eb7c0606361ea3312ab9
 com.vaadin	vaadin-rich-text-editor-flow	24.5.9		29447a489c9e51255ea9f986870d8006a1257c0a
 com.vaadin	vaadin-rich-text-editor-flow	24.6.0		d2d8046e108bda8da9bbbc4160fa7651cc2e4b1a
 com.vaadin	vaadin-rich-text-editor-flow	24.6.1		2244fdecc9502ad7b563a17fbcac5be2f0c2950a
+com.vaadin	vaadin-rich-text-editor-flow	24.6.10		077356c4b9dfc7ad907e318cbc4446196efd9dbe
 com.vaadin	vaadin-rich-text-editor-flow	24.6.2		e0be4d70f9730a222934a393055a4cf0425d3e3a
 com.vaadin	vaadin-rich-text-editor-flow	24.6.3		0792f62b9a863dc10ca2dd87c74edd9662c36c35
 com.vaadin	vaadin-rich-text-editor-flow	24.6.4		fcfdcaf4d5d81178a9f3cf58464a6b528e4bb1d6
@@ -1044,6 +1050,7 @@ com.vaadin	vaadin-rich-text-editor-flow	24.7.0		a91fd55221e34beaf3dca7a2e7394a6f
 com.vaadin	vaadin-rich-text-editor-flow	24.7.1		906bdad106e016b2f610147e7f2dbc785ae55289
 com.vaadin	vaadin-rich-text-editor-flow	24.7.2		7db0fc121706ff2c83c774a056649a6d26e874b7
 com.vaadin	vaadin-rich-text-editor-flow	24.7.3		e256f3b22dce0c34c7b2db9b15c3e27b60fd4398
+com.vaadin	vaadin-rich-text-editor-flow	24.7.4		2a42f2bc2a5e1c8a6f32e2ac2c23d70e22b11614
 com.vaadin	vaadin-rich-text-editor-flow	3.0.0		c4043e3d01f72184bea38f9261eb9c1081cf9864
 com.vaadin	vaadin-rich-text-editor-flow	3.1.0		a5782bd014b3732f661f281f4d457c522bd2f7dc
 com.vaadin	vaadin-rich-text-editor-flow	3.1.1		9b8a733d40b01ff1f512936bce38a5785524da31
@@ -1765,6 +1772,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-lis
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-listener	3.2.2		f87a3b1397e7aff05ec643d32df8dc855e08b797
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-listener	3.2.3		67e4e906c07be809c4e8aa28ba02f470f06d0c2f
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-listener	3.20.0		d8e75dcb96dde754cb19d0da172b6e53b4ad41d3
+org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-listener	3.20.1		a7f5a7551ec6ee690f66c0669a293dc14f2401a0
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-listener	3.22.0		15ec165416312a7d51cc724444ab318928b8574c
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-listener	3.4.0		a23846d1d4233894b59f00388a5ee126291fbea7
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-main-listener	3.5.0		a041c42772f895a80470672d475b126c35e46ad0
@@ -1839,6 +1847,7 @@ org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.2.1		c039413dbe2f63c8c5
 org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.2.2		99abf7ddb663c80c43c0614a6571d3085d172b28
 org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.2.3		022a67adf371820a4ce0ab5f9e4d4578e7cbe60f
 org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.20.0		a2dfbb7f59fc3cd9f49c84e99678e9b77062fa44
+org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.20.1		ba6465b55586ce53c315e84ae94af9092c2d92c4
 org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.22.0		24f705d990557417398a442e918b8740fa90f9ad
 org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.4.0		b24d0fe0871712b2e397a267ebf5cb8d7e88c28d
 org.apache.camel.quarkus	camel-quarkus-qute-deployment	3.5.0		0d35aaa09aea3bce7fdbb0d44a1a0d61a3c76c1a
@@ -1932,6 +1941,8 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-data-keyvalue
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-data-keyvalue	3.2.5_1		b58e2296b7c72eaa30ef58c819a4af16ced9889f
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-data-keyvalue	3.3.4_1		9a6768348ce0a4d9f0ae1449b310428d5a198d6a
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-data-keyvalue	3.3.5_1		32bfb66deab9777e36df146f88078d79ff39e84b
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-data-keyvalue	3.3.9_1		7834f5001c5651ba0c3f383bbd16931b229dabaf
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-data-keyvalue	3.4.5_1		57b16a3b3377dcca634a1de77c472cc3e1fac2ab
 org.bedework.deploy	bw-wf-calendar-feature-pack	4.0.1		N/A
 org.bedework.deploy	bw-wf-calendar-feature-pack	4.0.2		N/A
 org.bedework.deploy	bw-wf-calendar-feature-pack	4.0.3		N/A

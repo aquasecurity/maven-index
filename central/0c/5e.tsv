@@ -1222,6 +1222,8 @@ com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.10.5		8f
 com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.10.5.ee		acf3edbb838b024f5cdcd0fa63fce16995363627
 com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.11.0		ed042dadb8a1dabbb0a50a2ae7afe9d3ea48c998
 com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.11.0.ee		9a0b7da878559c1d66bac3e5f4af4548da480908
+com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.11.1		e1b201775ab24eb67e00641b164ca42b0dbfd15a
+com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.11.1.ee		9d01bc08dbddfb7cfafbb19e1517e7e644c0c1ee
 com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.2.0		2ce411c4ae0dad8dae8ac6c393f7f4e45908117f
 com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.2.0.ee		adda7067b257f4c4dcdfed5509aa733c6730b4d8
 com.wavemaker.connector.build	wavemaker-connector-build-maven-plugin	11.2.1		9d36d844135a96d9c1e99cb8db6bc21b7d50cde8
@@ -1816,6 +1818,7 @@ io.helidon.webserver	helidon-webserver-websocket	4.1.6		c40bcd9f1e2ba5303c3bb5f4
 io.helidon.webserver	helidon-webserver-websocket	4.1.7		108d939311b22fe47af66d235cb8d8f40c71f7e6
 io.helidon.webserver	helidon-webserver-websocket	4.2.0		5eee9dcbe65e334817b94610deeeda85fb864295
 io.helidon.webserver	helidon-webserver-websocket	4.2.1		20128f5136c46599c9c5904430a4c3806ce89ffa
+io.helidon.webserver	helidon-webserver-websocket	4.2.2		f7083b8bf0a87dad2e9f10223631590f6b6019eb
 io.joynr.examples	android-example	0.6.0		4f1d1f3ab36229d819a37dc957bc102593c7074a
 io.joynr.examples	android-example	0.7.0		0ded855d0ec1083efc79fd3a780a6f4fc810ef20
 io.joynr.examples	android-example	0.7.1		25b46bdeaa04d135dc638694f1e237385be66522
@@ -1863,6 +1866,7 @@ io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.19
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.19.4		b7e7a2a28c8f66d8d6de0b78432236bdb1e2fb10
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.20.0		fcf08e83599e403136fd7cec71d0918c3b259966
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.20.0.CR1		6edd3784330aa99e955558546410bc28b40ee439
+io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.20.1		fec7ebf3c5f4b72978ec945a0ffc214e9e276979
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.21.0		1052364d5962c00e090a6b641e0909455c626c7c
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.21.0.CR1		c5bb3f098d23a015ee66b6f6247a0b468869398a
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.21.1		f22b70233105f904f41346dbc1e230168dc99fd4
@@ -1872,6 +1876,9 @@ io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.21
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.22.0		07cb1ee063594ce22283a5a3ecdc4eb01836cb9e
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.22.0.CR1		04c51e8b4619a111c4deaac48d4101e124ae8040
 io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.22.1		ef04de1167c36a65e21c1f96d2a7fca86ce51f6c
+io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.22.2		e70c3d00813ba3c4bf09cd1966c9b91661f0cf6c
+io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.22.3		6662374cd2cafbd8d7f36022eb16953f037308be
+io.quarkus	quarkus-hibernate-search-backend-elasticsearch-common-deployment	3.23.0.CR1		6a978c252a31c9f3fda1adcc740ae068f502d5b2
 io.quarkus	quarkus-jsch-deployment	1.10.0.CR1		9fb7bef2d5ce48bdf4c3b4bce318012902b5f971
 io.quarkus	quarkus-jsch-deployment	1.10.0.Final		4daf74521a10557a46d437d9d56167f9f8b0f815
 io.quarkus	quarkus-jsch-deployment	1.10.1.Final		0be9fe821ca2acb8637561b4790971d7a058e08c
@@ -2559,6 +2566,7 @@ org.apereo.cas	cas-server-support-gauth-core-mfa	7.2.0-RC6		072f20398cbdcda4d4b9
 org.apereo.cas	cas-server-support-gauth-core-mfa	7.2.0-RC6	resources	9ab2b2d78b4efd374ad2b69ae3f1306c87af266e
 org.apereo.cas	cas-server-support-gauth-core-mfa	7.2.1		8d58fc3eebc70e58689331a5e8deebe93b7843d2
 org.apereo.cas	cas-server-support-gauth-core-mfa	7.2.1	resources	a075c1488602d3307cb721ab09d50933c5742476
+org.apereo.cas	cas-server-support-gauth-core-mfa	7.2.2		e192ab18b98d96b442855fe74ff2e498d6ebd9fa
 org.apereo.cas	cas-server-support-gauth-core-mfa	7.3.0-RC1		3640a63d63009cd4d02a1ee8fe550f3c873c6c8f
 org.apereo.cas	cas-server-support-gauth-core-mfa	7.3.0-RC1	resources	7effe53aa84bf3c4a78dce546c58d6bd35250208
 org.apereo.cas	cas-server-support-gauth-core-mfa	v6.4.0-RC5		a4f3263e8407f9afd3105f5046c10fd91a267a19
@@ -2973,6 +2981,7 @@ org.apereo.cas	cas-server-support-surrogate-authentication-rest	7.2.0-RC6		ee28e
 org.apereo.cas	cas-server-support-surrogate-authentication-rest	7.2.0-RC6	resources	7fe7eb514c4e621a18e8642b25260cf9a219dc07
 org.apereo.cas	cas-server-support-surrogate-authentication-rest	7.2.1		d1e38d2f0200ad44ca93613b2337448f0a877c05
 org.apereo.cas	cas-server-support-surrogate-authentication-rest	7.2.1	resources	b600a27febafa76af84df70371537dfc99a7211b
+org.apereo.cas	cas-server-support-surrogate-authentication-rest	7.2.2		73dc438122b568c3e89f46c9df0ce1c93649ca95
 org.apereo.cas	cas-server-support-surrogate-authentication-rest	7.3.0-RC1		3bb622cd5d0b0462c1174d66da1795dda95ff2a1
 org.apereo.cas	cas-server-support-surrogate-authentication-rest	7.3.0-RC1	resources	067ebb442a5d04fef107b85397f4dc8c92b2e962
 org.apereo.cas	cas-server-support-surrogate-authentication-rest	v6.4.0-RC5		9209c0886846f70bfd6c2ad5b2f8d8ed6d2a1c02
@@ -4912,7 +4921,18 @@ software.amazon.awssdk	dax	2.31.30		85e8d806222fc181edad66f56b0a417447d93950
 software.amazon.awssdk	dax	2.31.31		3303ee9a5fd4650376b357c4f74df58a42f89cbf
 software.amazon.awssdk	dax	2.31.32		23d78016b2438e40f0399500b366020f3f2b7b32
 software.amazon.awssdk	dax	2.31.33		5fd007d124998102f5e5106ad8864ccdf50cf3aa
+software.amazon.awssdk	dax	2.31.34		8f3c803eb449ba1672bf2e34d8939293b5d87213
+software.amazon.awssdk	dax	2.31.35		081a47e3a51cb8111003ff8469a536f6949e7f01
+software.amazon.awssdk	dax	2.31.36		7c8e2a3158934b94e3806acb405a04d9f01893e7
+software.amazon.awssdk	dax	2.31.37		812b0587e060323e38587b4eed63d8bb9c33995b
+software.amazon.awssdk	dax	2.31.38		682fa224dae6da87e354b19ea250412a59a65df8
+software.amazon.awssdk	dax	2.31.39		ec3a640ace76694d4f772abf5297e6108e9cb1e0
 software.amazon.awssdk	dax	2.31.4		ac674f5c2d0a1ba70af7b319dc475d1d735c32d8
+software.amazon.awssdk	dax	2.31.40		62f556ff5f053b26f05826e9efdd31bd0fdf0767
+software.amazon.awssdk	dax	2.31.41		9c553f20bd415bd12783d1e182444282acc4113b
+software.amazon.awssdk	dax	2.31.42		bfb82a3e9febabe34de51aad199b8ca5904b47cd
+software.amazon.awssdk	dax	2.31.43		d5509f1cc450b23e5adca9dd09abf468e566516b
+software.amazon.awssdk	dax	2.31.44		ecff02c78c794a1f98e903c51c383b70ddb970c7
 software.amazon.awssdk	dax	2.31.5		ae051ee4ed57c7f9eadb563ac0a162c398f2d77b
 software.amazon.awssdk	dax	2.31.6		0188f8971586b8c097637701684c315e416468a1
 software.amazon.awssdk	dax	2.31.7		4b09469d9388d2a6e5070dba395ed31b68ee831e

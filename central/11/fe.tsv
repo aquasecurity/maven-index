@@ -101,6 +101,8 @@ com.expediagroup.apiary	apiary-privileges-grantor-lambda	8.0.2		6863bad15127cbdc
 com.expediagroup.apiary	apiary-privileges-grantor-lambda	8.1.0		c55549b41ade4e77a48128b5af8edb3bbe27287f
 com.expediagroup.apiary	apiary-privileges-grantor-lambda	8.1.2		f64a0792e070dc73fb78c129dde563403bd880e1
 com.expediagroup.apiary	apiary-privileges-grantor-lambda	8.1.3		7d9dacdc89fa4c147f23ea3610ab0e166d34311d
+com.expediagroup.apiary	apiary-privileges-grantor-lambda	8.1.4		a1026d625f73846fbb0e4a0573f969596f68b52d
+com.expediagroup.apiary	apiary-privileges-grantor-lambda	8.1.5		0caae8319bfa526b855c6ad680dd3e73b299a3ce
 com.farao-community.farao	core-valid-adapter-app	1.0.0		4b337d33ffcdf67872c6e10ce521dd949575b933
 com.farao-community.farao	core-valid-adapter-app	1.1.0		b1cd0dcccf6560fbe47aa651113274d3c7d00b77
 com.farao-community.farao	core-valid-adapter-app	1.1.2		8de1c7cde7fcb666ed83a3c33c1c039eaa7c892b
@@ -156,6 +158,8 @@ com.shakelang.util	parseutils-jvm	0.5.0	html-docs	d71d2760dfd428c2c7d17dbbfa7246
 com.shakelang.util	parseutils-jvm	0.5.1		003f7340fc1625be0012f5eb1a2c2b5f4c4bdde9
 com.shakelang.util	parseutils-jvm	0.5.1	html-docs	47d5682af62bf91b2935477f097a35f14505c152
 com.solacesystems	sol-jms-compat-1.1	1.0.0		1b2984648eb23d2b5196b46c187a87af1096287e
+com.sonar-scala	sbt-sonar_2.10_0.13	2.2.1		fa1e45a4b5724214cfcba6e6d2aa4f0897f4f42b
+com.sonar-scala	sbt-sonar_2.10_0.13	2.3.0		8bbc3de57ec5b32f1acaec3c808662a0135a1750
 com.zuoxiaolong	niubi-job-spring	0.9.0-beta1		59077caed127704d97097efe873e56dbdb729eae
 com.zuoxiaolong	niubi-job-spring	0.9.1-beta2		b827a6014efa108c77465a84da7a6d123ce1be5e
 com.zuoxiaolong	niubi-job-spring	0.9.2		faa62a8e743838e4bd976fe523d78e5eb09adfb4
@@ -270,11 +274,14 @@ io.github.dunmengjun	sqldsl	1.0.4		12e068a63305b0e301fbba41bec7a07d4ad4df23
 io.github.dunmengjun	sqldsl	1.0.5		d75146c9523cc2ea3807552cd1b4116982559be5
 io.github.dunmengjun	sqldsl	1.0.6		0f02e14b0c07c6ab0a2fde69aa4c60c1dfa78ed7
 io.github.edadma	recognizer_sjs1_3	0.0.1		228316cc20ca98706a8dcc137fb318e8e1f2d1f3
+io.github.edadma	recognizer_sjs1_3	0.0.2		257640c5efe656939eeec5c1db01c443c2fb896d
+io.github.edadma	recognizer_sjs1_3	0.0.3		8e9180c771c3058be88b1aabb7fcaa9554ab4ca8
 io.github.essentiale	mapping_2.13	1.0.2		79f155cbd947ba311f12e9ba1e055a31a4d61195
 io.github.essentiale	mapping_2.13	1.0.4		c1743bc1cc60c9b7097a4e66b94b6911cb8f23d5
 io.github.gabrieldrn	carbon-common-wasm-js	0.5.0		N/A
 io.github.gustiks	neuralogic-cli	0.3.0		e37f898724348581d06040ccc1d5427abeb14c4e
 io.github.gustiks	neuralogic-cli	0.3.0	jar-with-dependencies	5f5758490cc23e8ba108242430e064ca9d39e79e
+io.github.huaweicloud	dms-kafka-iam-auth	1.0.0		f0ce62022afb8a7fbfc8eb45daf5a304ee2e196b
 io.github.irgaly.kottage	kottage-data-sqlite-macosX64	0.9.0		N/A
 io.github.irgaly.kottage	kottage-data-sqlite-macosX64	0.9.0	metadata	55329f981aee0c6570877b682dacf8aa2027324c
 io.github.irgaly.kottage	kottage-data-sqlite-macosX64	0.9.1		N/A
@@ -578,6 +585,7 @@ org.apache.camel.quarkus	camel-quarkus-ldif	3.2.1		cb6c6c657e7041432e64c0538466a
 org.apache.camel.quarkus	camel-quarkus-ldif	3.2.2		6886c677260e7b836eb200533724c969971a9e1d
 org.apache.camel.quarkus	camel-quarkus-ldif	3.2.3		78863478af551686bee7f709111f3281532aea57
 org.apache.camel.quarkus	camel-quarkus-ldif	3.20.0		43ca84c62454d8bd86a2c5f2074ad8d5f2e6e164
+org.apache.camel.quarkus	camel-quarkus-ldif	3.20.1		5ef9749bfe318affd38bafac425f8c74687ab830
 org.apache.camel.quarkus	camel-quarkus-ldif	3.22.0		41d32d94dd885a1097eb94eb370d05e32e341653
 org.apache.camel.quarkus	camel-quarkus-ldif	3.4.0		3328c92e86becf91ace7d6002712ec1db5c60225
 org.apache.camel.quarkus	camel-quarkus-ldif	3.5.0		ea5614dc46ec95c0e2cc748ca7a4bd84a66ab216
@@ -969,10 +977,17 @@ org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.8.0
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.80.0		000ad56fb4787f45c83435ce1b02fb0f793e6134
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.81.0		e88dcac526348efb9cc862a1a9f9c3cda1d2a59f
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.82.0		e306c78b6a421b50c4863d6e759e80796b4f6762
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.82.1		2c6e281e4a4dd4a6c69358fe3127e0bdf412b884
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.83.0		d29e99c2513a4278e5982184eedd24c8bab1bbd0
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.83.1		69921481506b0062e7e1921fa24869ee733762bf
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.83.2		5c3d08e8ba4f3315c2378b77860180e4c77b1036
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.83.3		36697f49772314d29fec1b231e4bc05494a68ce8
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.84.0		e8ba2b794b87d56e05417e987ac2c3d3b3211771
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.84.1		89e0cb70886fa1d7374ab94ac821ec3a45d0bd6d
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.85.0		720023c64f093dbdd180d483ad9273208725215d
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.85.1		8a06dd3cbd64a930b09252609fc2488045e903fa
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.85.2		c27bfee37d62d05607148e49e498013f72b3e94a
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.85.3		446642baa3516c64cdef18dc67e9193715df501a
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-generation	4.9.0		dbaecab1fd27467080f51f77e91274f72a6bf1e1
 org.kill-bill.billing.plugin.java	gocardless-plugin	1.0.1		d0e2f1ece325d733c36f963caae69360f4de6a1c
 org.kodein.emoji	emoji-kt-linuxx64	1.0.0		N/A
@@ -1052,6 +1067,7 @@ org.webjars.bowergithub.startbootstrap	startbootstrap-clean-blog	6.0.7		a82e7792
 org.webjars.npm	google-p12-pem	1.0.2		6a7417b83b3fc9c1c0ef0b9afe0fe522d9c1d7f0
 org.webjars.npm	google-p12-pem	1.0.3		dc0915fd4766c2767fb92f4cfa6131e0e88eef58
 org.webjars.npm	google-p12-pem	3.0.3		f2410ec4c6d71624ae9fb1d95a7923b15d9e411b
+org.webjars.npm	http-terminator	3.2.0		f12a631bcc961e7a29629590608347042b077172
 org.wildfly.configuration	runtime	0.3.0		dab025d21a794808aab17ab8e0ec13cf35cc5f3b
 org.wildfly.configuration	runtime	0.3.2		a060f63cc68a5604d8c9d7f1096173e401490841
 org.wildfly.configuration	runtime	0.3.3		bac74355ed06278452b7602e2323db126bb1fff1
@@ -1152,4 +1168,8 @@ tz.co.asoft	koncurrent-later-core-macosarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-later-core-macosarm64	3.0.8	metadata	1d735a51a7ae6accd5efdad83e84f80cb4412812
 tz.co.asoft	koncurrent-later-core-macosarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-later-core-macosarm64	3.0.9	metadata	e803d6228ee906968c9412741b74ee60f4075649
+tz.co.asoft	koncurrent-later-core-macosarm64	3.1.0	metadata	b6570763ad2ef435a41b1db9838c70a58b8cc6b7
+tz.co.asoft	koncurrent-later-core-macosarm64	3.1.1	metadata	60d049799e2171739fd526cef245bba9ae560983
+tz.co.asoft	koncurrent-later-core-macosarm64	3.1.11	metadata	c2b72255b03c0520d9593037a0f6782978a8df57
+tz.co.asoft	koncurrent-later-core-macosarm64	3.1.12	metadata	a239aec5c058edc669ab6235e6727a06742a3758
 wang.harlon.plugin	monkey	0.0.1		99441af077ceb4500bf54068998a58f5169e1b86

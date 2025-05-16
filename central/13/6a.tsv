@@ -635,6 +635,7 @@ dev.zio	zio-aws-networkmonitor_2.13	7.31.27.1		f2685b75929cc5f04ec26d9dacaf151f6
 dev.zio	zio-aws-networkmonitor_2.13	7.31.28.1		be9a19faa3fc2d2765f4b448d4872a41cc3909cf
 dev.zio	zio-aws-networkmonitor_2.13	7.31.3.1		c7ea5f2c6e63b038ee66f47bfe860f7886fa260b
 dev.zio	zio-aws-networkmonitor_2.13	7.31.30.1		3e30376f339ac199e73cf195838541b29fbe0a81
+dev.zio	zio-aws-networkmonitor_2.13	7.31.30.2		54ac264a724b1d1d8c2e325bdf238392bca8d4ce
 dev.zio	zio-aws-networkmonitor_2.13	7.31.4.1		c5c37cb7e0b6405f8de2981e552e0f91caa58d59
 dev.zio	zio-aws-networkmonitor_2.13	7.31.6.1		09e49c8eb7ba748e9184b63a0b559da9aa68f6ab
 dev.zio	zio-aws-networkmonitor_2.13	7.31.6.2		d0da2b7d3c14405443bef92e1f0fcc3aabed1430
@@ -658,6 +659,7 @@ io.freefair.okhttp-spring-boot	okhttp-spring-client	3.2.8		3d9a0c63396d0274f2b0d
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.2.9		9fcdf6fdb7657db733a9064719eeffce3445b8ad
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.3.0-M2		f317b9af1659e12ca5707b928bcd0f61fa357fb3
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.3.10		78b465d1953381929fb19d9b4f982b26efe59d8d
+io.freefair.okhttp-spring-boot	okhttp-spring-client	3.3.11		b26135e051153709d6e343b9692cec4d2f166fd8
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.3.2		0ab5370c608498bc78c01b172b771a54c3b5ea20
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.3.3		c7ed91606339111cffe5300359ab70cf41911fc4
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.3.4		82e71aa586a41ff7e0fb09f89eecd2e024c04db1
@@ -671,8 +673,10 @@ io.freefair.okhttp-spring-boot	okhttp-spring-client	3.4.0-rc1		b815393f38390d26a
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.4.1		c0d0cfae7edb76862d158286b9778b20d3fcb711
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.4.2		427c3065afd89a85ab77b2ce405731c23596e90b
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.4.4		2aa46dacb2619e708f8fd844576430f7753c58ec
+io.freefair.okhttp-spring-boot	okhttp-spring-client	3.4.5		0a2c41a354b54a3620626393b9678f0530bbad62
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.5.0-m1		4ba5bb3386a1961165f78452d7d284ff1b861ae0
 io.freefair.okhttp-spring-boot	okhttp-spring-client	3.5.0-m3		9bcdb5c8ce5e3192b3c2e67d5c2028dfff0d1ad1
+io.freefair.okhttp-spring-boot	okhttp-spring-client	3.5.0-rc1		02d7f5c9415e891aed64b05d685f1223e8121221
 io.gitee.chming7	data-converter-json	1.0.0		4f3f51548acc671472d0c7008874419b1b721c93
 io.gitee.chming7	data-converter-json	1.0.1		74ec99af1bf088392d7593c39be73cf7fa14b8ac
 io.gitee.chming7	data-converter-json	1.0.10		e260cbac3be3a80e6ce2ad87070276332ef91e3b
@@ -1285,6 +1289,7 @@ org.apereo.cas	cas-server-support-saml-core-api	7.2.0-RC6		1f836472347bd6b6e41aa
 org.apereo.cas	cas-server-support-saml-core-api	7.2.0-RC6	resources	c1e900be769c305ae531d018b0e4730bccd8d651
 org.apereo.cas	cas-server-support-saml-core-api	7.2.1		bd9c407cc4dde35e71e894698da8ef3bf564173f
 org.apereo.cas	cas-server-support-saml-core-api	7.2.1	resources	93a3437deba1cbbf0b76deba2a0ca28788a70032
+org.apereo.cas	cas-server-support-saml-core-api	7.2.2		3fd69f23014dc9a280a9342b7aa2bdef453ef1fd
 org.apereo.cas	cas-server-support-saml-core-api	7.3.0-RC1		b91a0dc855963fc593d9131ecec6e0b0c84cb8fb
 org.apereo.cas	cas-server-support-saml-core-api	7.3.0-RC1	resources	205e5ab5d27bea6eadd9eac6392f8c093bd4972c
 org.apereo.cas	cas-server-support-saml-core-api	v6.4.0-RC5		1ef9eda734be0c01e66667bd89e6d0332957329f
@@ -1930,6 +1935,7 @@ software.amazon.awsconstructs	kinesisstreamsgluejob	2.83.0		c49d82995f03bf921c8a
 software.amazon.awsconstructs	kinesisstreamsgluejob	2.84.0		f37954cd752633992d83b403e0691a278fdd755d
 software.amazon.awsconstructs	kinesisstreamsgluejob	2.85.0		d7a2f7708f4ef25fb1f5d3f0f14b12725b067310
 software.amazon.awsconstructs	kinesisstreamsgluejob	2.85.1		3c7c6d478f79495380f76fe90318b81905e146e4
+software.amazon.awsconstructs	kinesisstreamsgluejob	2.85.2		116a77ee9e9ab3c127416d499dd35f0fbb3f7c46
 software.amazon.awsconstructs	kinesisstreamsgluejob	2.9.0		699e47c6ec603a898fa833e8090d049c93647d9d
 tz.co.asoft	symphony-input-geo-watchosx64	2.0.17		N/A
 tz.co.asoft	symphony-input-geo-watchosx64	2.0.17	metadata	6abe896560627a3bfc235843774cd9cab9449c79

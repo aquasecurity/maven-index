@@ -429,7 +429,16 @@ aws.sdk.kotlin	s3outposts-jvm	1.4.73		3ca758443d4eac1365f794949d1ea1cb9e3afbda
 aws.sdk.kotlin	s3outposts-jvm	1.4.74		22734d932218380ad2ed9947b00dbac6b5ca54a8
 aws.sdk.kotlin	s3outposts-jvm	1.4.75		d106b29cbcaad1a00b818634a1912e29b87e3ee1
 aws.sdk.kotlin	s3outposts-jvm	1.4.76		0b2a06b541a7c9518ee97584ffd51c9a56bb2de3
+aws.sdk.kotlin	s3outposts-jvm	1.4.77		08864927bc526060c43b4faabc18f0b859fc5ad0
+aws.sdk.kotlin	s3outposts-jvm	1.4.78		86dc0323374578c9f8abae0a29c70f92a287ab8e
+aws.sdk.kotlin	s3outposts-jvm	1.4.79		d1cf62a23bd2dcd8a36c44aaf96c17d5eea05c3b
 aws.sdk.kotlin	s3outposts-jvm	1.4.8		f9ae3abd8986a3611d55bc336310a28b6ca71c7d
+aws.sdk.kotlin	s3outposts-jvm	1.4.80		3711c3cf59a5027f5d774a352ac287c564da7df2
+aws.sdk.kotlin	s3outposts-jvm	1.4.81		d02cd74efaa9a6bd73070b94f21fea0d9c006d46
+aws.sdk.kotlin	s3outposts-jvm	1.4.82		8a931d8b0efad36cbd336c881ef46c3ca91ebc68
+aws.sdk.kotlin	s3outposts-jvm	1.4.83		86a6266d914d80b9df8b1547dccd92078ff5117e
+aws.sdk.kotlin	s3outposts-jvm	1.4.84		68716993e206e30dd9f0bebdae2e6b290dac5eab
+aws.sdk.kotlin	s3outposts-jvm	1.4.85		b8d016758456bc93688de73707ee07e47792dc48
 aws.sdk.kotlin	s3outposts-jvm	1.4.9		53774690154ccfd5493b4555021657ab25f3d930
 cn.yanjingtp.utils	utils	1.0		N/A
 cn.yanjingtp.utils	utils	1.0.8		N/A
@@ -893,6 +902,7 @@ com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.3		79a9582f1339c59cff1b7fa1dce2393
 com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.30		1144ee0f1e5c57236959a605152c90e3d8558584
 com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.31		0602c7998552cdaa42a00a06b40f373d237e528f
 com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.32		cc4002075aa91c732821bb353b228e1ea59d6943
+com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.33		202baf176f28315f3de48fa67d3fbf4b7edb0cdb
 com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.4		c835c59cf3b15e2bdbe73ac0950f427c5e1893fa
 com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.5		6def070924c6e96f98bba960e8c1020f2a18522a
 com.netflix.atlas_v1	atlas-eval_2.13	1.8.0-rc.6		bd376dc77b43beaa9afe109233aac4059c4fde1b
@@ -1043,6 +1053,7 @@ io.github.cquiroz	scala-java-time-tzdb_3.0.0-RC1	2.2.0		30330471ca8c8faa84e3e208
 io.github.cquiroz	scala-java-time-tzdb_3.0.0-RC1	2.2.1		ad3c43ef3ac79c931f87597363c79c0dc1bba98f
 io.github.cvb941	kotlin-parallel-operations-linuxarm64	2.0.0		N/A
 io.github.nasmedia-tech	nstationsdk-domain	0		N/A
+io.insert-koin	koin-ktor-iosx64	4.1.0-Beta13-KTOR-EAP	metadata	a268aba3194402e75a34aed5fc4c0587520586ec
 io.remotecontrol	remote-core	0.7		9dc2d0de6edcac0da0831bc94bf47eac0c792936
 lu.uni.serval	flakime-core	0.1.2		8992a04529ec08bb009961ac54de365d77c2690a
 lu.uni.serval	flakime-core	0.1.3		ee392066703f582f0d2d06a5f9ca543442496d5c
@@ -1262,6 +1273,8 @@ org.camunda.community.vanillabp	camunda8-spring-boot-adapter	1.4.0		ce675b774c30
 org.camunda.community.vanillabp	camunda8-spring-boot-adapter	1.4.1		6f6edc5023be5e567a7c33747e7115f74b65d99d
 org.camunda.community.vanillabp	camunda8-spring-boot-adapter	1.4.2		78c1732ad649885a4d07b3239342833773237bd2
 org.camunda.community.vanillabp	camunda8-spring-boot-adapter	1.5.0		4155dec81d205eff7470e3b15606dcdd97ff76a7
+org.camunda.community.vanillabp	camunda8-spring-boot-adapter	1.6.0		9b3fe2d576d5b1c47219b5ac8b10666fc68bde03
+org.camunda.community.vanillabp	camunda8-spring-boot-adapter	1.6.1		18c2d995123f8e263a31cf41a6ad57ac4e28d0a7
 org.carewebframework	org.carewebframework.messaging.jms-parent	5.0.0-RC1		N/A
 org.carewebframework	org.carewebframework.messaging.jms-parent	5.0.0-RC2		N/A
 org.carewebframework	org.carewebframework.messaging.jms-parent	5.0.0-RC3		N/A
@@ -1605,6 +1618,7 @@ org.eclipse.dirigible	dirigible-resources-mxgraph	7.2.0		f90d17f7f416e565972af3c
 org.eclipse.esmf	esmf-aspect-model-validator	2.10.0		11aacadf8470c12b48cf343d2e4f2cb988f9fcf8
 org.eclipse.esmf	esmf-aspect-model-validator	2.10.1		ef7d3e05f10f286149022b04ce9d311cedaea744
 org.eclipse.esmf	esmf-aspect-model-validator	2.10.2		86d7f802085e18a0170afa16b34d8ead8737d2bf
+org.eclipse.esmf	esmf-aspect-model-validator	2.10.3		2c0e56be1956b01d5ddbc6cdf12fcb94afa5dac3
 org.eclipse.esmf	esmf-aspect-model-validator	2.2.0		1739f16759889bf24dbd0aff9408ed6f3ef496bf
 org.eclipse.esmf	esmf-aspect-model-validator	2.2.1		8b5dbfbf395c294cc4ef38c733e1bd51349535e3
 org.eclipse.esmf	esmf-aspect-model-validator	2.2.2		9ae0de5ca16cf015082c09d6007a4d1da24d347d
@@ -1760,6 +1774,7 @@ se.sundsvall.dept44	dept44-starter-test	5.0.2		37cda42e9e8d1b4779269d8960141fd45
 se.sundsvall.dept44	dept44-starter-test	5.1.0		42193cba457ca5b43c9724e52778765ab4c34411
 se.sundsvall.dept44	dept44-starter-test	6.0.0		a151ee5614a9ab687c2e260c9494955ea1a03b3a
 se.sundsvall.dept44	dept44-starter-test	6.0.1		77a1a64d970a47aea9424327798092a276a1b6ed
+se.sundsvall.dept44	dept44-starter-test	6.0.10		269de36da490f270fd30f4c683c6fda66e403f32
 se.sundsvall.dept44	dept44-starter-test	6.0.2		e849f682a4596088e73fa5d7c3a2c413bc126e57
 se.sundsvall.dept44	dept44-starter-test	6.0.3		e14c81a17308c0b9dea4f2ac216d53d67428ab57
 se.sundsvall.dept44	dept44-starter-test	6.0.4		a788c981c94645ffcd6f3525c643eb9df3ad6c41

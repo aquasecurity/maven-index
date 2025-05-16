@@ -492,7 +492,16 @@ aws.sdk.kotlin	transcribe	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	transcribe	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	transcribe	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	transcribe	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	transcribe	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	transcribe	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	transcribe	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 city.smartb.cccev	concept-api	0.14.0		b4bdf92200ea5d3c9e9d0ecd42c59a1190b982cb
 city.smartb.cccev	concept-api	0.14.1		a13788eb44d1738e27fa0cd3c162dbff26348adf
@@ -1236,6 +1245,7 @@ io.github.kevincianfarini.monarch	core-iosarm64	0.2.2		N/A
 io.github.kevincianfarini.monarch	core-iosarm64	0.2.2	metadata	4553014599ff4901846452a936b4072da49c7ef2
 io.github.kevincianfarini.monarch	core-iosarm64	0.2.3		N/A
 io.github.kevincianfarini.monarch	core-iosarm64	0.2.3	metadata	2bc024a0157d7dd7213ebf35177076d36912ba7d
+io.github.kevincianfarini.monarch	core-iosarm64	0.2.4	metadata	310d3493a1f6260ae1bc4db7bba2c612b47f8070
 io.github.marcelorubim	quarkus-monitor-bom	0.0.1		N/A
 io.github.marcelorubim	quarkus-monitor-bom	0.0.2		N/A
 io.github.marcelorubim	quarkus-monitor-bom	0.0.3		N/A
@@ -1278,6 +1288,7 @@ org.apache.cxf.dosgi.samples	cxf-dosgi-ri-samples-greeter-rest-impl2	1.6.0		bbcb
 org.apache.cxf.dosgi.samples	cxf-dosgi-ri-samples-greeter-rest-impl2	1.7.0		6decdc20459c02cb74d04532e329ab03d930f06d
 org.apache.cxf.dosgi.samples	cxf-dosgi-ri-samples-greeter-rest-impl2	1.8.0		e4a1c6aba46fe7ffa6ca52789cf2019c25d9ae9a
 org.apache.gravitino	gravitino-cli	0.8.0-incubating		2d148d4e52613b2442e2d380b071adeb9312213a
+org.apache.gravitino	gravitino-cli	0.9.0-incubating		27789cfd46c72ad0727e73c65e5535c670ad9328
 org.apache.iotdb	iotdb-code-coverage	0.12.2		N/A
 org.apache.iotdb	iotdb-code-coverage	0.12.3		N/A
 org.apache.iotdb	iotdb-code-coverage	0.12.4		N/A
@@ -1323,6 +1334,7 @@ org.apache.tika	tika-parser-mail-module	2.9.0		041b8b890973428b7d6ddae1c7b051bc8
 org.apache.tika	tika-parser-mail-module	2.9.1		37fd1b51841e97678aff2378b7fd131f47555d4a
 org.apache.tika	tika-parser-mail-module	2.9.2		b1af32e8befb8e6ad4d2ca333e53e8002e81aa24
 org.apache.tika	tika-parser-mail-module	2.9.3		d6fda6f89cf7716f09151e63e3ce82fb642aedc7
+org.apache.tika	tika-parser-mail-module	2.9.4		aaef1b39b1b76d99f254bc1e13b937b3ba0e59cf
 org.apache.tika	tika-parser-mail-module	3.0.0		0c316f030144fbc3bc432e4ee3123cdc60886b8e
 org.apache.tika	tika-parser-mail-module	3.0.0-BETA		7d71578aec73e68af26eb094398ac0dade58afb1
 org.apache.tika	tika-parser-mail-module	3.0.0-BETA2		94f53e3769e7299f083ee01d17e461c4f22aea6a
@@ -1804,6 +1816,7 @@ org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	4.0.5.Final		
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.0.Beta1		027636916310675e69ab5e14189e90af7a12cc16
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.0.Final		ee2917842746f1ab6c8deaae459ecd2f168c421f
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.1.Final		47171ed1362bfc650fa041da64df43bfa634e4a0
+org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.10.Final		d62bf6f7ffe9081c8427e2d80ed0fa8734a0e5a7
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.2.Final		7453f7628c02be460175267f05280520f949df94
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.3.Final		61e5cda83e7192f25beb9851bd1f534fd66271d1
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.4.Final		a1193bf3495c1f1f11d0dd3f29aed0bf2e9d3ad8
@@ -1811,6 +1824,7 @@ org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.5.Final		
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.6.Final		35bc1040b0b3ea7c7db0d64c80562d03948aec89
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.7.Final		d409cf7a059ee0985215f8b18881c38ad6554dcc
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.8.Final		f3bcdc470489127eccc211200c84d398f33c1acf
+org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	5.0.9.Final		71eb2fe9f7e4842459dcba5d75af9d8198db0570
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.0.Beta1		63fc85f901c6c6d898872cd8df83134ae62fbf1a
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.0.Beta2		6ec9d07713056b183efc2e0d6f095249e00a48f4
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.0.Beta3		0aa247079f6407c07de344f05e62aed81ec20f06
@@ -1818,7 +1832,10 @@ org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.0.Final		
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.1.Final		54c29b56ee071fef964d3c241fa1f45f41372e17
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.2.Final		6be0c80e4d6f5d799da9c9ff177ab3133d0531a5
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.3.Final		49d19cde04a4a0527bf8b61de7f24b8005ba20dd
+org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	6.0.4.Final		1440c95fd7c476ab0098a47955710895aff32375
 org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	7.0.0.Beta1		3fbb563ea1ac2d3775e367ca59750a53d2bc38c4
+org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	7.0.0.Beta2		0cd567eadc5da731f38f570c588360e0b061d0a0
+org.wildfly.clustering	wildfly-clustering-session-spec-servlet-6.0	7.0.0.Final		edc7b1de178afb655ce7a4547ecc9ca48ffde3c6
 org.wildfly.glow	wildfly-glow-test-feature-pack-layer-metadata-tests	1.0.0.Alpha1		7807a2697daa8ae943bace530c89feb441723ef5
 org.wildfly.glow	wildfly-glow-test-feature-pack-layer-metadata-tests	1.0.0.Alpha10		fb1ae0df76d5b4a53579acf53d11bbf48bd5fc52
 org.wildfly.glow	wildfly-glow-test-feature-pack-layer-metadata-tests	1.0.0.Alpha11		edf677f68ac6eb51289e3e2c7c1c2137d42c7537

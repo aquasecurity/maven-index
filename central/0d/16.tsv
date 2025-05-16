@@ -22,6 +22,7 @@ ca.ibodrov.mica	integration-tests	0.0.23		caa4f5aecbe5964b74053c597b8a24855c52d7
 ca.ibodrov.mica	integration-tests	0.0.24		739a4a138728802820b64956f9ab8f800def15b1
 ca.ibodrov.mica	integration-tests	0.0.25		b192de7a2ac0627ed2892aa1f934124ded540f17
 ca.ibodrov.mica	integration-tests	0.0.26		b4286b7262bf0c81060b4ec5eb69dfa696c84d06
+ca.ibodrov.mica	integration-tests	0.0.27		0d19d84f990f5dea3c4ca4d893cc419ba72bb890
 ca.ibodrov.mica	integration-tests	0.0.5		0a1b97e08fb8e46aa680d5734e79c1e0e5003cb6
 ca.ibodrov.mica	integration-tests	0.0.6		ecc69104e1d5dbb4b6ad93312bf973c73d88c35c
 ca.ibodrov.mica	integration-tests	0.0.7		da32852a1b1d3256158d3030d1504eb4bfb971a6
@@ -1796,6 +1797,7 @@ io.getstream	stream-android-push-xiaomi-jvm	1.2.1		2ad14aed781c4a73ed4dbb421966d
 io.getstream	stream-android-push-xiaomi-jvm	1.2.2		2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.getstream	stream-android-push-xiaomi-jvm	1.3.0		2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.getstream	stream-android-push-xiaomi-jvm	1.3.1		2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.getstream	stream-android-push-xiaomi-jvm	1.3.2		2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.github.webbabyking	wang-dynamic-classloader-core	6.0		N/A
 io.github.webbabyking	wang-dynamic-classloader-core	6.0	plain	d53b925ac63748b43e38c8770eeb94c47d65dcb8
 io.github.webbabyking	wang-dynamic-classloader-core	6.0.1		N/A
@@ -1839,6 +1841,7 @@ io.matthewnelson.kmp-tor	runtime-ctrl-iosx64	2.2.0		N/A
 io.matthewnelson.kmp-tor	runtime-ctrl-iosx64	2.2.0	metadata	037a92c5590144f9fab6f9d071ba789361ac5209
 io.matthewnelson.kmp-tor	runtime-ctrl-iosx64	2.2.1		N/A
 io.matthewnelson.kmp-tor	runtime-ctrl-iosx64	2.2.1	metadata	037a92c5590144f9fab6f9d071ba789361ac5209
+io.matthewnelson.kmp-tor	runtime-ctrl-iosx64	2.3.0	metadata	037a92c5590144f9fab6f9d071ba789361ac5209
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-ailanguage	3.0.0		9bfc91fbc4762fe6370a4b98b9b92f35f6f8ae6b
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-ailanguage	3.0.0-M10		21b1850aaadefe97eb697d797619f24eed94e213
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-ailanguage	3.0.0-M11		2cc91318bc8b5bd5931a8c1e5048a7b26ee29d6d
@@ -1969,6 +1972,7 @@ net.guerlab.smart.region	smart-region-web	20.2.1	exec	c7ce73b222942ec6ebb0f6eaa0
 net.guerlab.smart.region	smart-region-web	20.2.3		ea73b2821b6702156be630083715e9e1facc28f4
 net.guerlab.smart.region	smart-region-web	20.2.3	exec	11a97959b021047737052a34dc3ea32821c3b3a9
 net.guerlab.smart.region	smart-region-web	20.3.0		7226bea6a988a136505020e701f7b0f80da3f744
+net.guerlab.smart.region	smart-region-web	20.3.0	exec	e7154a36e08e51fcd1e85ee8609e5bb0e8e51693
 net.guerlab.smart.region	smart-region-web	20.3.1		286b2e2cf462e80431639b0508c115ec6d552e32
 net.guerlab.smart.region	smart-region-web	20.3.1	exec	0951973f228c37b41c4701b44c424ef09c7118c8
 net.guerlab.smart.region	smart-region-web	21.0.0		bdb19adf0773129c79f163877d618f22c15c1fe9
@@ -2118,6 +2122,7 @@ org.apache.camel.quarkus	camel-quarkus-jackson	3.2.1		3e0f94d882f7b1374b17f52438
 org.apache.camel.quarkus	camel-quarkus-jackson	3.2.2		42e4064681752a4029bbe7530907107231219598
 org.apache.camel.quarkus	camel-quarkus-jackson	3.2.3		8b6a5bf222819405f07e49dead4471f71b8b0e7b
 org.apache.camel.quarkus	camel-quarkus-jackson	3.20.0		6fe3b67de6adeb98011373d92127f2128c0cf131
+org.apache.camel.quarkus	camel-quarkus-jackson	3.20.1		3194d4968a5a37a3b42e686023373c4e2de9c601
 org.apache.camel.quarkus	camel-quarkus-jackson	3.22.0		d72c11ab19080fd6758263e2e46c7fb508161877
 org.apache.camel.quarkus	camel-quarkus-jackson	3.4.0		6bb5a8e2eacc26cda00d4781f38244aef6ad1ff7
 org.apache.camel.quarkus	camel-quarkus-jackson	3.5.0		259ad63455aae56b36f1da71cabb6919aa3f5594
@@ -2327,10 +2332,12 @@ org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.1.20-Beta2		569f773041a9d1bda
 org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.1.20-RC		569f773041a9d1bda0d1af48b3d8e965ab76460d
 org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.1.20-RC2		569f773041a9d1bda0d1af48b3d8e965ab76460d
 org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.1.20-RC3		569f773041a9d1bda0d1af48b3d8e965ab76460d
+org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.1.21		569f773041a9d1bda0d1af48b3d8e965ab76460d
 org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.1.21-RC		569f773041a9d1bda0d1af48b3d8e965ab76460d
 org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.1.21-RC2		569f773041a9d1bda0d1af48b3d8e965ab76460d
 org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.2.0-Beta1		baa946c11241d0666f4f979f258e551c2b2edc22
 org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.2.0-Beta2		baa946c11241d0666f4f979f258e551c2b2edc22
+org.jetbrains.kotlin	kotlin-gradle-build-metrics	2.2.0-RC		baa946c11241d0666f4f979f258e551c2b2edc22
 org.mapsforge	mapsforge-poi	0.10.0		1210d1b39ea1cc4e9308e488f29ebe8f6664fe58
 org.mapsforge	mapsforge-poi	0.11.0		69c83243bd3622753d8550d282c18790702860bf
 org.mapsforge	mapsforge-poi	0.12.0		930cd73fa286da39420b4fda29e13bf67f771249

@@ -55,6 +55,8 @@ com.aliyun	wss20211221	1.4.0		1a3d394eeed1f398163c3241cb12efba0c32727c
 com.aliyun	wss20211221	1.4.0	shaded	550cd6a8f1f77b397922e74d9c81ed5b34c80db5
 com.aliyun	wss20211221	1.4.1		26b86b7c9ccbdab6e21ec34ae571576f16aa6265
 com.aliyun	wss20211221	1.4.1	shaded	62105727a110e497097f51a2596a6383f9735087
+com.aliyun	wss20211221	1.5.0		2f04af58da36f49971261566cdc8fccad9deef91
+com.aliyun	wss20211221	1.5.0	shaded	ba377d5cff4ea15ff2f86b4975908330965d28ec
 com.busymachines	pureharm-route-http4s-tapir-ce2_2.13	0.5-11-334582e		68929335c41ad49afd56eec36b9c29efbf43f9e6
 com.busymachines	pureharm-route-http4s-tapir-ce2_2.13	0.5-2-4dad691		0e544a6813a8ca10ca00dd0253c7100d09611f61
 com.busymachines	pureharm-route-http4s-tapir-ce2_2.13	0.5-9-9fd87ac		d4a8f700b42ee8bf7462d1bd77c26c2a1b396ceb
@@ -205,6 +207,7 @@ com.daml	telemetry_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		d9713bd7bd98
 com.daml	telemetry_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		d9713bd7bd989b757970955390660dfc19736df6
 com.daml	telemetry_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		d9713bd7bd989b757970955390660dfc19736df6
 com.daml	telemetry_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		d9713bd7bd989b757970955390660dfc19736df6
+com.daml	telemetry_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		d9713bd7bd989b757970955390660dfc19736df6
 com.daml	telemetry_2.13	2.6.0		9c381f3c2696072ac853ec2b9527fe163f7da906
 com.daml	telemetry_2.13	2.6.0-snapshot.20221212.11134.0.1ac41995		1de23aa8e45924c2b41f3f92306980e19fbf1496
 com.daml	telemetry_2.13	2.6.0-snapshot.20221213.11139.0.5ab3fd7c		1de23aa8e45924c2b41f3f92306980e19fbf1496
@@ -2014,7 +2017,14 @@ com.yahoo.vespa	config-proxy	8.511.14		53b53d0895220a9aa2c7f25d8995d47f7e53e613
 com.yahoo.vespa	config-proxy	8.512.63		fb8228aaf8bf41599ab2a1989e2b666dc147831f
 com.yahoo.vespa	config-proxy	8.513.17		27c105a733edafc8c3f61641f7f400eb7314914c
 com.yahoo.vespa	config-proxy	8.514.24		0e62649745f8e1c1c9578d104290837249e8e174
+com.yahoo.vespa	config-proxy	8.515.40		a3ab159f356b96e7ef55fc45d0d2d8a3a39f6096
+com.yahoo.vespa	config-proxy	8.516.26		b45a93df337a3c3d6a1e53f072a741c07c70329d
+com.yahoo.vespa	config-proxy	8.517.15		4f36b87905ca009ab0f976aab252e2458755e216
+com.yahoo.vespa	config-proxy	8.518.4		7a907edaed16d884b46cb487af7d34dcb68a0210
+com.yahoo.vespa	config-proxy	8.519.55		917de80247779ae95c61d1f3fe78d99540252af0
 com.yahoo.vespa	config-proxy	8.52.15		63574e022988197bba7961f4089997f3d310d151
+com.yahoo.vespa	config-proxy	8.520.18		68ac81dcd3dffb827314a567c2a35732bcbcf3f9
+com.yahoo.vespa	config-proxy	8.521.17		9699d4cec49afb0c3442afb59e28d732ea6c997e
 com.yahoo.vespa	config-proxy	8.53.21		a1953af49c135270a2fb6f1563c78ced7cd935cb
 com.yahoo.vespa	config-proxy	8.54.61		8d4a32120f74e42d50e442ab7ebc0a2ed3a09169
 com.yahoo.vespa	config-proxy	8.56.20		d46239d7a581c674bcfa42c400ee30dfffd519ce
@@ -2245,6 +2255,7 @@ dev.zio	zio-aws-apptest_2.12	7.31.27.1		a5bfc3ddcadb0d92c2651c5619e55c68af2409fc
 dev.zio	zio-aws-apptest_2.12	7.31.28.1		162543d94b3860c37478f3831b91c72a1aa0a9ff
 dev.zio	zio-aws-apptest_2.12	7.31.3.1		9530b47c13f2f97bd5e25efc787cca474698769d
 dev.zio	zio-aws-apptest_2.12	7.31.30.1		c4e451e3ccb57578c7b75ec30da797fa64d20891
+dev.zio	zio-aws-apptest_2.12	7.31.30.2		0c1b91640843ae734b492657e57219a8950cbd58
 dev.zio	zio-aws-apptest_2.12	7.31.4.1		66290c846e1d0de0451f3dade59097dae107b7ab
 dev.zio	zio-aws-apptest_2.12	7.31.6.1		398c2a62abdc952c7eed5203bb2ff28fd56f6f06
 dev.zio	zio-aws-apptest_2.12	7.31.6.2		15b404c61f04396371e8d790e21dddc7891eca67
@@ -2586,6 +2597,7 @@ io.ktor	ktor-http-cio-androidnativearm32	3.0.3		a13d2b7365487ee3fdea4d3b8b9be0e1
 io.ktor	ktor-http-cio-androidnativearm32	3.1.0		09fcdd848f4992fb3e300fc99a86501049499b11
 io.ktor	ktor-http-cio-androidnativearm32	3.1.1		2edd153fe1d2d9c22912f420e6adb8d139d7ed7e
 io.ktor	ktor-http-cio-androidnativearm32	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-http-cio-androidnativearm32	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 io.privy	kmp-network-public-iosarm64	0.0.1		N/A
 io.privy	kmp-network-public-iosarm64	0.0.1	metadata	e7e29558128b09762c4cce6f842e64bfd0531014
 io.privy	kmp-network-public-iosarm64	0.0.2		N/A
@@ -2834,6 +2846,7 @@ org.apereo.cas	cas-server-support-mail-microsoft	7.2.0-RC6		abfd7211518f0adcc998
 org.apereo.cas	cas-server-support-mail-microsoft	7.2.0-RC6	resources	550779c8f49e8fda42f68768bddbac79396fb15d
 org.apereo.cas	cas-server-support-mail-microsoft	7.2.1		cea183cc44d500632593d9a10dd3f5e021404e8c
 org.apereo.cas	cas-server-support-mail-microsoft	7.2.1	resources	f3c1af01a65817ddcc31746dbc1efbf922cfbfa0
+org.apereo.cas	cas-server-support-mail-microsoft	7.2.2		40853a7aa3b84cdf955909d6eb5e69147e2ae927
 org.apereo.cas	cas-server-support-mail-microsoft	7.3.0-RC1		5108acceab549c1c86955202d4c1e7004f8f2cac
 org.apereo.cas	cas-server-support-mail-microsoft	7.3.0-RC1	resources	8e6f5bd3474bbc07df07aaaddfbd8d2136909f5b
 org.apereo.cas	cas-server-support-sqrl	5.2.0-RC1		d9cbfc9190b7f55d0aade2c81f180893d3597eb8
@@ -2887,6 +2900,7 @@ org.bardframework.commons	common-security-redis	3.7.1		80362a5fd53529b884cd43d59
 org.bardframework.commons	common-security-redis	3.8.1		13cebcdc49f4d6099769ed258fd86fe82d1a6dc4
 org.bardframework.commons	common-security-redis	3.9.1		34f5d0707424ab39e4c5772dd536dbfd3e92bcca
 org.bardframework.commons	common-security-redis	3.9.11		ede372678f05d5eb32a01eba0ec372e932d99041
+org.bardframework.commons	common-security-redis	4.1.11		9242cac690b88757edea57e0292d190d939021dd
 org.eclipse.che.core	che-core-db-vendor-postgresql	6.10.0		af4fe82d6032aec551bcf2796f02cd54b437bc6d
 org.eclipse.che.core	che-core-db-vendor-postgresql	6.11.0		62ae41ae436e4bf29f2a50a430f98ef778c6a78c
 org.eclipse.che.core	che-core-db-vendor-postgresql	6.11.1		2be90bf1742603de2130368ec013e1225f4bc765
@@ -4109,6 +4123,7 @@ org.open-metadata	openmetadata-spec	1.6.0-rc3		3a34488d30bfba01d93da07bca042e167
 org.open-metadata	openmetadata-spec	1.6.1		bded269f01a4fb329b18cf3fba005e4a7fd54dd0
 org.open-metadata	openmetadata-spec	1.6.10		3a2caac0ea32ccd2131be133673c6ac71426cbff
 org.open-metadata	openmetadata-spec	1.6.11		878d9923ae169e4f43c43c2da916ac386b2572f0
+org.open-metadata	openmetadata-spec	1.6.12		4276ee6f470185481f7a683aa93c1bb242aa1753
 org.open-metadata	openmetadata-spec	1.6.2		076bb7daba1e9ecf83ca4d1d1bec315285c73f36
 org.open-metadata	openmetadata-spec	1.6.3		829a0601cf811282e91355ef4e6c6562d2c283ae
 org.open-metadata	openmetadata-spec	1.6.4		c7d1cf8a8706e52374f7d2f290e27dd4ae622d39
@@ -4453,4 +4468,8 @@ tz.co.asoft	raven-config-tvosarm64	3.0.8		N/A
 tz.co.asoft	raven-config-tvosarm64	3.0.8	metadata	0941fcbd3e47d833c738d15bcf77cfa097b36748
 tz.co.asoft	raven-config-tvosarm64	3.0.9		N/A
 tz.co.asoft	raven-config-tvosarm64	3.0.9	metadata	4ba19d4eb3c20751c88fd40b7694177aa693f8b3
+tz.co.asoft	raven-config-tvosarm64	3.1.0	metadata	da8e929d4d3b346d982caf799b3468fa88f3a6c1
+tz.co.asoft	raven-config-tvosarm64	3.1.1	metadata	5daf7c7a3c88371681c299e8b1ad02d5d8b235d4
+tz.co.asoft	raven-config-tvosarm64	3.1.11	metadata	553a47aa9a5239e96621d812b66015a4ae037dfb
+tz.co.asoft	raven-config-tvosarm64	3.1.12	metadata	a36dd5b17625b52663311b329fdf7ba6a282f66b
 vip.apicloud	apicloud-common	3.0.0		4041d29ad8ef472b16c75e61cc9d04ed27fba7bc

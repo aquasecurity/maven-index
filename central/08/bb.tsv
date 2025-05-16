@@ -199,6 +199,7 @@ com.daml	ledger-api-errors_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		318f
 com.daml	ledger-api-errors_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		318fed15493d8864509a795878296cbd9e8b9252
 com.daml	ledger-api-errors_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		318fed15493d8864509a795878296cbd9e8b9252
 com.daml	ledger-api-errors_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		318fed15493d8864509a795878296cbd9e8b9252
+com.daml	ledger-api-errors_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		318fed15493d8864509a795878296cbd9e8b9252
 com.daml	ledger-api-errors_2.13	2.5.0		7fa17f7a19905b05c0a3e183fad1cc6a1da7a6de
 com.daml	ledger-api-errors_2.13	2.5.0-snapshot.20221107.10906.0.346bb489		70f4a7ddf9ec658d0848089b26363f63c146a847
 com.daml	ledger-api-errors_2.13	2.5.0-snapshot.20221108.10912.0.27f0f2b0		70f4a7ddf9ec658d0848089b26363f63c146a847
@@ -836,6 +837,7 @@ com.github.rremer	minecraft-modpack-almond	1.18.1-1		N/A
 com.github.rremer	minecraft-modpack-almond	1.18.1-2		N/A
 com.github.rremer	minecraft-modpack-almond	20w10a-1		N/A
 com.github.rremer	minecraft-modpack-almond	20w14a-1		N/A
+com.github.xuwei-k	adt-generator_2.10_0.13	0.1.0		cedc5bd4f36f574d6c799a222c24a0cfa81271cb
 com.google.appengine.archetypes	hello-endpoints-archetype	1.0		decb91eb6309702688df4a117d1b9bfe9d99ea60
 com.google.appengine.archetypes	hello-endpoints-archetype	1.1		fca713dbff7ed216c7c8eeb3a348e9484efe3de7
 com.google.appengine.archetypes	hello-endpoints-archetype	1.1.1-1.9.4		6ced54a492c9c320354fb78d796a060a01cabc29
@@ -2478,8 +2480,22 @@ com.yahoo.vespa	config-model	8.513.17		2568fc45fdd84c0bf9c9f0dc297acb221062e3d7
 com.yahoo.vespa	config-model	8.513.17	apiplugin	996ebb9813cc9b3d3489de9a7908a5e95785ca0e
 com.yahoo.vespa	config-model	8.514.24		ad5b545fc0b1a43c21bb944685b1fa42dcf959d9
 com.yahoo.vespa	config-model	8.514.24	apiplugin	381423b3d6008efa8f24eb8ba5510e921c661537
+com.yahoo.vespa	config-model	8.515.40		fa0637b72d666ee1a82c3bb5ee567638b2e7b338
+com.yahoo.vespa	config-model	8.515.40	apiplugin	458d615a2e0a249984e09b3fabfdd50e55628c41
+com.yahoo.vespa	config-model	8.516.26		8642701af8e321c220ab1f48fccf8d9c6929f588
+com.yahoo.vespa	config-model	8.516.26	apiplugin	557cad6410ec367abf79119b4e370eaf966a7dbf
+com.yahoo.vespa	config-model	8.517.15		d2ced076d44c3df7f8948de69ad2547a17366a29
+com.yahoo.vespa	config-model	8.517.15	apiplugin	43311903e84594c766e9d394ebc47992583a2c4e
+com.yahoo.vespa	config-model	8.518.4		97fe511393993c85c8205d98eff53b4a6ae77c3e
+com.yahoo.vespa	config-model	8.518.4	apiplugin	afa07bef5522139dbc48b9fa0f3be785bdc333a2
+com.yahoo.vespa	config-model	8.519.55		bca0cceabaa8735e1ec9d0d865465b0fe5f534b6
+com.yahoo.vespa	config-model	8.519.55	apiplugin	dc36214df3c02fbf6bd57f1d0b97c783be138cf2
 com.yahoo.vespa	config-model	8.52.15		1df33faa180096b1837f174f16599b3d85537450
 com.yahoo.vespa	config-model	8.52.15	apiplugin	aa25f7caba5e8599f4007581aac5de262d2bbb17
+com.yahoo.vespa	config-model	8.520.18		c8f34638355fdb06e11545f02eea261fcc07e1ee
+com.yahoo.vespa	config-model	8.520.18	apiplugin	a6abdcc26556f0a0e842f1b9feacefbc01ef9834
+com.yahoo.vespa	config-model	8.521.17		53dd2ca8f0ed7838c24ab332da60d20989b18177
+com.yahoo.vespa	config-model	8.521.17	apiplugin	d4da041c8c7a93acee3208c65976d780a66acc21
 com.yahoo.vespa	config-model	8.53.21		8043f6e9c6201f7f4895008f2a1f057c0bf58e60
 com.yahoo.vespa	config-model	8.53.21	apiplugin	c1091ba64a288a154c3858933a8f46a451f4bf5e
 com.yahoo.vespa	config-model	8.54.61		ddbc71e2b56e680d5d96dd4f212ba9032b082461
@@ -2979,6 +2995,7 @@ dev.zio	zio-aws-route53domains_2.12	7.31.27.1		db15b290b51ec43589b2f66e53c6e478c
 dev.zio	zio-aws-route53domains_2.12	7.31.28.1		1ce675d1324c14366d287ab08b831582fdb11784
 dev.zio	zio-aws-route53domains_2.12	7.31.3.1		221654789acdf6940772cb957609c31a0ef56e2d
 dev.zio	zio-aws-route53domains_2.12	7.31.30.1		7e49e8bf90c6f772ecfb4cb13711d9e59134a5c0
+dev.zio	zio-aws-route53domains_2.12	7.31.30.2		a9b6763e33c3c52b9f6b456365ec07ae21870769
 dev.zio	zio-aws-route53domains_2.12	7.31.4.1		3a7284b55ffa1bc0236663631e1a6872921962f9
 dev.zio	zio-aws-route53domains_2.12	7.31.6.1		235aa22da6d42438ef80cc2b49e920e4daa84751
 dev.zio	zio-aws-route53domains_2.12	7.31.6.2		2f1e8f9359b63fec090d705615c0911a54ef648a
@@ -3068,6 +3085,7 @@ io.deephaven	deephaven-java-client-flight	0.37.5		eb4abc09528925809166c02df2a56b
 io.deephaven	deephaven-java-client-flight	0.37.6		b8307d78f2c04ed79f3bfbdb6dcbc300eba58d91
 io.deephaven	deephaven-java-client-flight	0.38.0		4eec138b8e0365855714d38e2132403e0bf1ac74
 io.deephaven	deephaven-java-client-flight	0.39.0		7bcaa0868765d7fa0e33ea510b5dd58538f3f75e
+io.deephaven	deephaven-java-client-flight	0.39.1		9aee1eede1618a28cfbf2277d24d5e55915bde92
 io.deephaven	deephaven-java-client-flight	0.6.0		4f20c11a7f8bcd2a2d07e2fd0ec4a4019b6401a2
 io.deephaven	deephaven-java-client-flight	0.6.1		612b82083285efc9c31767059ba5333de8242e49
 io.deephaven	deephaven-java-client-flight	0.7.0		e8e05e7f2df63a409ea13f30fb10efbc794f7f6c
@@ -3600,6 +3618,7 @@ org.anyline	anyline-data-jdbc-derby	8.7.2-20250312		d7485e436a09b564ab51fb369abf
 org.anyline	anyline-data-jdbc-derby	8.7.2-20250401		f4928be5ca5f66107abe1a7ec2dae4a2472aaced
 org.anyline	anyline-data-jdbc-derby	8.7.2-20250404		8db23f5324a9c9ac37331f6dbb19f1f2897748e1
 org.anyline	anyline-data-jdbc-derby	8.7.2-20250502		0575008509642429c83568dfe8bd3dbcb7a4553a
+org.anyline	anyline-data-jdbc-derby	8.7.2-20250509		096f98253845b1635a44dc304dcb0ca907e62598
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20240816		0807c626fb77b19dd68682e938f0bc289cd72182
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20240819		a8e0bb77692ed861dc5343c91192ea9417b35033
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20240826		79a66c71e65ece960b3ccd4f4584ac3d925d9bb8
@@ -3617,6 +3636,9 @@ org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20250108		04c6e4a3ffea39985c2d2f
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20250212		e9291b93669ab014d6072161aaa25170749ad24b
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20250312		6374c94a580d1649445f10de1e72b60f0a9fe3e3
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20250404		6715d79f341065bbebbba584c4a6f16aa67c35b3
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20250502		49fa03ec2885559a41f1139da41ad31f398c1971
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20250509		fd37aac5cb30e77e55f385230e674bcffbd522d0
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk11-20250515		586892d3a41de761bb59880f39c146eab61eab12
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20240501		b1f085593361682a2b8da2defd2db83950fa5ed0
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20240505		01308a683ec546c5f4bcdb546755a1982f68129a
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20240506		6d72151dea9902db38fd4ed52b1344ff9b656816
@@ -3690,6 +3712,9 @@ org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20250109		5cd8a071b3f789b9aa36a6
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20250212		9ad72744d48d4a823aeb1b21d84a54172d0ce23d
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20250312		c1bcecffb59672e3d18f8c6491dc4d15300f7c32
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20250404		a549d3426748d40aeafea402840817e3f1190f61
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20250502		c5be6cf8917f9dd29af03c92b1b1656655fcb0ef
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20250509		81cb7885e4e9f59b8222dac488c32be0fbebed54
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk17-20250515		4b21f100ca789b6b76b2003bf945f49ec60c0cb9
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20240501		1e8ac42c5a63913865bf3382548915a8b2e6109d
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20240505		a2819f73b447c3cb56724a28ee82104455fc9c3b
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20240506		6a9f99e7c9b5948af8a0f2943f6cfddca5ec9d1f
@@ -3771,6 +3796,8 @@ org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20250109		dda48024af92f53af843da
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20250212		69cbb4fd624cb88decab7ce7b93a42c36c27bbc8
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20250312		63568c2cfbc95e7d87c7be4fa09a9c0e3033446b
 org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20250404		bb2fd8beb456f688c22898446c86e9447d0c0a8b
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20250502		230312beceaa2db3dde4748903cbc0cd99750576
+org.anyline	anyline-data-jdbc-derby	8.7.2-jdk21-20250509		4b425faaf6368cbabbfa363e18733f6f5305fc3e
 org.apache.druid.integration-tests	druid-it-tools	24.0.0		0a756374048fe57938ab917bb1380a29d95bee2e
 org.apache.druid.integration-tests	druid-it-tools	24.0.1		41a706561fe2fe68b7b812561195a21caae470f4
 org.apache.druid.integration-tests	druid-it-tools	24.0.2		7741478f6144cf041b6f4a4519703356a01f822e

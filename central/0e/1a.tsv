@@ -491,7 +491,16 @@ aws.sdk.kotlin	mediaconvert	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	mediaconvert	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	mediaconvert	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	mediaconvert	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	mediaconvert	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	mediaconvert	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	mediaconvert	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 berkano	berkano-taglib-unit	20050615.232615		cdbfcc627349cf7e2057b3e0822d3484a164c246
 berkano	berkano-taglib-unit	20050615.234701		cdbfcc627349cf7e2057b3e0822d3484a164c246
@@ -652,6 +661,7 @@ com.agorapulse	micronaut-amazon-awssdk-dynamodb-benchmarks	3.3.8		6c1d800174fa40
 com.agorapulse	micronaut-amazon-awssdk-dynamodb-benchmarks	3.3.9		b60066d0053ddc12c562713bad333514980c25af
 com.agorapulse	micronaut-amazon-awssdk-dynamodb-benchmarks	3.4.0		e81e18ac1c735a01d05a44f072f4f9786bff3207
 com.agorapulse	micronaut-amazon-awssdk-dynamodb-benchmarks	3.4.1		8106deb536b49c421d0e241b87ad84ad3d194974
+com.agorapulse	micronaut-amazon-awssdk-dynamodb-benchmarks	3.4.2		930c32a588e9e1fe4741192c0b8b42101a9c59f2
 com.alibaba.ververica	ververica-connector-lindorm	1.13-vvr-4.0.15		e4a90a23844e55e76877101bb56c31176cec18ab
 com.alibaba.ververica	ververica-connector-lindorm	1.13-vvr-4.0.7		6bcac90ebf130f833950df7e4ada25266679674b
 com.alibaba.ververica	ververica-connector-lindorm	1.15-vvr-6.0.2-3		c2bf0a68c75b0dcf3223a9d0a1fdcefa1d522c5b
@@ -1182,6 +1192,7 @@ community.flock.wirespec.plugin.arguments	arguments	0.12.9		95f6b1dc7f34c41298e0
 community.flock.wirespec.plugin.arguments	arguments	0.13.0		18f80ed6aea999f10f95aa52011a9a2a02146e4d
 community.flock.wirespec.plugin.arguments	arguments	0.13.1		18f80ed6aea999f10f95aa52011a9a2a02146e4d
 community.flock.wirespec.plugin.arguments	arguments	0.14.10		4fac56ebf150d29e2e759b51dd573cbf3d040b70
+community.flock.wirespec.plugin.arguments	arguments	0.14.11		4fac56ebf150d29e2e759b51dd573cbf3d040b70
 community.flock.wirespec.plugin.arguments	arguments	0.14.3		18f80ed6aea999f10f95aa52011a9a2a02146e4d
 community.flock.wirespec.plugin.arguments	arguments	0.9.10		962ec8e5825e8985ecb6c1f133045ac65a9787ba
 community.flock.wirespec.plugin.arguments	arguments	0.9.15		5fe7ed8f42068fd8c20fef3dd673c029706b3159
@@ -1520,6 +1531,7 @@ dev.zio	zio-aws-rdsdata_2.12	7.31.27.1		7a9f29b5f978c26eaf4fa90b8910a7d75e308b54
 dev.zio	zio-aws-rdsdata_2.12	7.31.28.1		fcd653c0cbfe9b4c00c15ae8a4043ea9d327899d
 dev.zio	zio-aws-rdsdata_2.12	7.31.3.1		8cb0397c144ee8289e01e8d1c019b5685888e6ed
 dev.zio	zio-aws-rdsdata_2.12	7.31.30.1		1481f8a5a558090975f342bbc0648b7f11ec7038
+dev.zio	zio-aws-rdsdata_2.12	7.31.30.2		5155acfd1f5b17a321b436169eef043c50e69b3c
 dev.zio	zio-aws-rdsdata_2.12	7.31.4.1		1b910fa682e63241d52b89a79c7e240c6f71d2e6
 dev.zio	zio-aws-rdsdata_2.12	7.31.6.1		53402db65089967c2c98e80b6a7eaf5ad60e8fd8
 dev.zio	zio-aws-rdsdata_2.12	7.31.6.2		decdcb6bbc3a15b942b184e587e5cfcb244f7264
@@ -2175,12 +2187,14 @@ org.mycore	mycore-csl	2020.05		a7411cecdef225138ac6106a291b0d90ac85724b
 org.mycore	mycore-csl	2020.06.0		425e59bebd7c2196941562d0f506bb4f599fef95
 org.mycore	mycore-csl	2020.06.1		b231b894d79ab35f7a1668f4385c543d06347178
 org.mycore	mycore-csl	2020.06.2		5390d5ff101c8aedc5a6a8371c3e8d8bbe716ce5
+org.mycore	mycore-csl	2020.06.3		9a4c91e6cf783c6dc2df26ef6aa75d867a94a055
 org.mycore	mycore-csl	2020.08		ac14332fa610a4c7a45ef66080b7e1620a451875
 org.mycore	mycore-csl	2020.11		41d4a77f63b3036ca7628318ca7e25e528bfd5be
 org.mycore	mycore-csl	2021.02		19b71a4a09d4b60c4e86a4cded93c5bfda0bbd4b
 org.mycore	mycore-csl	2021.05		fd0cb46438acbf4b9557d094b16e1bd717fe23fa
 org.mycore	mycore-csl	2021.06.0		e7fba89b85c0250f509d7b31e1fd82f587131312
 org.mycore	mycore-csl	2021.06.1		9fd054e251040a3bb58e741cc247192b78e27340
+org.mycore	mycore-csl	2021.06.2		137ef9bbc342bcd6da456288b8ef85a76a4d69a8
 org.mycore	mycore-csl	2021.08		fb6b8ff7bcc446ca1e56ec2a6bd00831bd3204ab
 org.mycore	mycore-csl	2021.11		f18930c0ab2bd208ddc9dec3a65a642f7b4ae433
 org.mycore	mycore-csl	2022.02		91e62e6be84f2cb4b315fa07cc9f57f99a1cf43f
@@ -2188,6 +2202,7 @@ org.mycore	mycore-csl	2022.05		801a0a5881d1efef3f5679e63eb90747976f9b6a
 org.mycore	mycore-csl	2022.06.0		7002117fc670b3dfc6ba251721f7b811b744fae7
 org.mycore	mycore-csl	2022.06.1		6cbbbfeef53832f4db2ad4f89973aefaea5ba642
 org.mycore	mycore-csl	2022.06.2		29c83fb6d5f471aa54e7ccefa9a83545e50ccc95
+org.mycore	mycore-csl	2022.06.3		bcee9a6e930f0c1e9e158d8fcaa961aaccf5ed70
 org.mycore	mycore-csl	2022.08		179294260e38e51569352cb496b2ad88ad4de452
 org.mycore	mycore-csl	2023.05		ff5b56b9f6e7eeca8bf89813e8aed8417f99a52f
 org.mycore	mycore-csl	2023.06.0		c7ab46803fbcffd2ca1ff2da7b3497a2fe1de14f
@@ -2199,6 +2214,7 @@ org.mycore	mycore-csl	2024.05		331e2cd73aefcc5a3e0939553f96e5d2a743751c
 org.mycore	mycore-csl	2024.06.0		abc0189d0b5c36b4432e21d10814a06079629b01
 org.mycore	mycore-csl	2024.11		c66b0d5ead9aa6ab24a9af5cccf1a1d2e2f2ecb3
 org.ojbc.bundles.intermediaries	court-case-query-service-intermediary	1.0.0		61d785e029b2c965a9a1dbfffa0059ed1dce168d
+org.oxerr.vividseats.client.cxf	vividseats-client-cxf-impl	0.0.13		4f381fc89e0d0034379a56a4e0b2372dc21027bc
 org.readutf.hermes	netty	1.1.0		7f09be60fcadbc74f6451efd1167e03b2956a3cc
 org.readutf.hermes	netty	1.2.0		8dc2203412857546e872a69f9f86d875359905ae
 org.realityforge.getopt4j	getopt4j	1.1		3cc63deac51513ae8e7e54516f465e84da9a5149

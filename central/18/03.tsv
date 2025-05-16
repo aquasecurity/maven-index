@@ -145,6 +145,7 @@ com.arangodb	http-protocol	7.15.0		ae56f29259205a1c45f12ebb7522129d85b5c77c
 com.arangodb	http-protocol	7.16.0		cb10ff1b4af82d278beebf51ac1148e87926a338
 com.arangodb	http-protocol	7.17.0		a94e7f33142c9d987e0d262eba7e95f17704525e
 com.arangodb	http-protocol	7.17.1		4eeeee39f6059d807ee46ac690d0eac902888e8e
+com.arangodb	http-protocol	7.18.0		fb21e606eeee24f1b72a6afdbe557015e59b6307
 com.arangodb	http-protocol	7.2.0		e1126779ab181522f13737e92aa78fb5323d05a2
 com.arangodb	http-protocol	7.3.0		3a72cd2b69290ecbf30b0fcf7a19b321ed269f57
 com.arangodb	http-protocol	7.4.0		8fe3102ad70a6ce7335b29fb0f7a2f591c97ba31
@@ -302,6 +303,7 @@ io.camunda.connector	connector-runtime-spring	8.4.13		c5f28703ea3ce03d6a0da01d46
 io.camunda.connector	connector-runtime-spring	8.4.15		1a864ba2e95a0919a90c2cc8124c9761164e3918
 io.camunda.connector	connector-runtime-spring	8.4.16		f8be115869c465bf75f434288f58ecbbc80ed0d7
 io.camunda.connector	connector-runtime-spring	8.4.18		8a74f2abd886d70cbb38e869d4b0a45612cb91d6
+io.camunda.connector	connector-runtime-spring	8.4.19		6c4d81fd3ef735ee5454404c6b16d3cf4588760a
 io.camunda.connector	connector-runtime-spring	8.4.2		cccff5c348f5da496d109b6f8a1144649428b0d9
 io.camunda.connector	connector-runtime-spring	8.4.3		59532bccace3aabd5c2c4ccd3a8d9f3721e74542
 io.camunda.connector	connector-runtime-spring	8.4.4		3d08ea889d3c296437069d6e159bfd7ed0005d1d
@@ -335,6 +337,7 @@ io.camunda.connector	connector-runtime-spring	8.6.0-alpha5		64935481cee930b54a17
 io.camunda.connector	connector-runtime-spring	8.6.1		c00256b1b631aeb03d7ac7cffbb7e31f3081e11a
 io.camunda.connector	connector-runtime-spring	8.6.10		8261403026f2e8db26a61bf4df5a0143e776295a
 io.camunda.connector	connector-runtime-spring	8.6.11		e895d276a113ee4e455dd39f70b590ad92c563c2
+io.camunda.connector	connector-runtime-spring	8.6.12		0da71fbf919fc286eebc149633daa29bc55f3cc7
 io.camunda.connector	connector-runtime-spring	8.6.2		e0b834c14b6406cdecdf5c58db4861b138a923c5
 io.camunda.connector	connector-runtime-spring	8.6.5		dbbf51c7a9c506441165948e7b18731acaaa3613
 io.camunda.connector	connector-runtime-spring	8.6.6		ba3adc1b0c83ae50031fe2403069aeba93eab92c
@@ -346,8 +349,12 @@ io.camunda.connector	connector-runtime-spring	8.7.0-alpha3.1		af58c8902c92816e33
 io.camunda.connector	connector-runtime-spring	8.7.0-alpha3.2		fbf7f3762d9d816a50cbd044163304a942db542b
 io.camunda.connector	connector-runtime-spring	8.7.0-alpha3.3		6df456b862486aba8f0f8e5de89794a680be8724
 io.camunda.connector	connector-runtime-spring	8.7.0-alpha4		66f29fc7faa6cc455cd6d680dcb61afdb86d4036
+io.camunda.connector	connector-runtime-spring	8.7.1		8b124b252b76e9f67c52bb2e1f8e00d741845b04
+io.camunda.connector	connector-runtime-spring	8.7.2		15690a34662317e6aa5a8d4845b7049996dca3d6
 io.camunda.connector	connector-runtime-spring	8.8.0-alpha3		6e7a3d86ca5153b5096451f3c9ac2da2977a1f43
 io.camunda.connector	connector-runtime-spring	8.8.0-alpha3.1		7af95eb2119c96788dd76ea048b7c828d1b70711
+io.camunda.connector	connector-runtime-spring	8.8.0-alpha4		59c129d0747a1070cbdd0fc7f33a12e7f422eb5e
+io.camunda.connector	connector-runtime-spring	8.8.0-alpha4.1		37fd83f475eb99393d3186f93c086cbe63732616
 io.circe	circe-generic_native0.4_2.12	0.14.3		52155020aca231d90c4a1adf667d469bfba6d957
 io.circe	circe-generic_native0.4_2.12	0.14.4		e600c6a97cccd242d9ea533a0004735aa03a570c
 io.circe	circe-generic_native0.4_2.12	0.14.5		be4f47bc3a37ae7763ce2102ebfd9d6799d2306b
@@ -360,6 +367,7 @@ io.github.oitstack	goblin-container-redis	0.0.5		5e067b82cfd07a4f4d3392f95f2bf37
 io.github.oitstack	goblin-container-redis	0.0.6		a3a864fb40d29ee0b10c0ee57c25beccad962259
 io.github.pandulapeter.kubriko	plugin-serialization-desktop	0.0.1		909f048b49e5c8a7a4f4ce74fb244c71f6cb2793
 io.github.pandulapeter.kubriko	plugin-serialization-desktop	0.0.2		0ae98f888b4288277bc578396e5253948a9daa38
+io.github.pandulapeter.kubriko	plugin-serialization-desktop	0.0.3		a24ef02719adb00fb49fdbf6d922b533e5b38d45
 io.github.pandulapeter.kubriko	plugin-serialization-desktop	unspecified		909f048b49e5c8a7a4f4ce74fb244c71f6cb2793
 io.github.ro4	spel-validation	1.0.0		7206e2a9a80306887064d217e45f5fdb5f330464
 io.github.shabinder	zipline-cryptography-tvosx64	1.10.0-LEGACY		N/A
@@ -489,6 +497,8 @@ org.daisy.pipeline.modules	tts-adapter-cereproc	1.1.6		66c4cd11bbf9d6ae248072e79
 org.daisy.pipeline.modules	tts-adapter-cereproc	1.1.6	doc	9e12cc7aa554f7d4bf9e21e20d4626586d416e43
 org.daisy.pipeline.modules	tts-adapter-cereproc	1.1.7		14f404bd2beb55cbfd8bc31d4acdaad39f502894
 org.daisy.pipeline.modules	tts-adapter-cereproc	1.1.7	doc	203c668cf6b70998cd0fb46d4c0171349df9cbab
+org.daisy.pipeline.modules	tts-adapter-cereproc	1.1.8		79614a31436d7b84db7651ba8da6a614afe3ee3a
+org.daisy.pipeline.modules	tts-adapter-cereproc	1.1.8	doc	9d896b0ab27f88d7809b9a3edb110df98a161353
 org.dkpro.core	dkpro-core-mstparser-asl	1.11.0		f6eb5122c44c6b38dbbb298dd00eacba58ff9d5a
 org.dkpro.core	dkpro-core-mstparser-asl	1.11.1		2b633d81b116ca830215b3b813fba4d656be011a
 org.dkpro.core	dkpro-core-mstparser-asl	1.12.0		88cf6a6f6846468e758a96d965bd294fa06e1aa7
@@ -845,3 +855,5 @@ works.bosk	bosk-core	0.1.123		64933e8196929abd784a0beaf1b75d19af49f56b
 works.bosk	bosk-core	0.1.124		129e8e3d2c0ef8a746024325c20e09fa01dde1ca
 works.bosk	bosk-core	0.1.125		fcbb99f8f2bdbf1da947d316947f2fa3fbcacbc0
 works.bosk	bosk-core	0.1.126		105a84c269bba8b27f1c74c554483b54cbec2617
+works.bosk	bosk-core	0.1.127		656ba42d0eda8e9b4e2dfd771d5ad28449c1b4db
+works.bosk	bosk-core	0.1.128		a44ac9deb8b8fe743ea3a8c1ec65047c3487d773

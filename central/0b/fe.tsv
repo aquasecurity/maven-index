@@ -81,6 +81,8 @@ com.github.marcosemiao.lang.jarnativeloader	parent	0.0.2		N/A
 com.github.nicktgn.mvp	tiny-android-mvp	0.1.2		N/A
 com.github.pepelu0	pepelu-java-plugins-parent	0.0.1		N/A
 com.github.tulskiy	jkeymaster-parent	1.3		N/A
+com.github.xuwei-k	mima013-plugin_2.10_0.13	0.1.0		76d1af5eef00eb99ae8449af4f33a88886a86f51
+com.github.xuwei-k	mima013-plugin_2.10_0.13	0.1.1		18a4f3ebeb526827c625c265d7dc034adb5c58a5
 com.gitlab.cdc-java.deps	cdc-deps-bom	0.0.10		N/A
 com.gitlab.cdc-java.deps	cdc-deps-bom	0.0.11		N/A
 com.gitlab.cdc-java.deps	cdc-deps-bom	0.0.11.2		N/A
@@ -188,9 +190,12 @@ com.gu	facia-json-play30_2.13	18.1.0-PREVIEW.group-based-default-boosts.2025-04-
 com.gu	facia-json-play30_2.13	18.1.0-PREVIEW.group-based-default-boosts.2025-04-30T1029.90f88dee		360745bba631af93434439e4b299bdbfd5d4d405
 com.gu	facia-json-play30_2.13	18.1.0-PREVIEW.group-based-default-boosts.2025-05-01T0848.344c70a0		01a1e6c2ccd7166f0ad59f24c4c1aa8e3209ab4c
 com.gu	facia-json-play30_2.13	18.1.0-PREVIEW.group-based-default-boosts.2025-05-01T1308.2fd5da37		e7a938f62c52e992969d2743ba4c032828b3f7ec
+com.gu	facia-json-play30_2.13	18.1.1		f9dc0f9c94a2cf6adaafa82b2b365b8927db7c96
 com.gu	facia-json-play30_2.13	19.0.0-PREVIEW.fpallow-media-atoms.2025-04-14T1417.bc08f21d		db7cca9506d44bfebac0438320ec47480338fb35
 com.gu	facia-json-play30_2.13	19.0.0-PREVIEW.fpallow-media-atoms.2025-04-24T1539.ea7f07a0		6902b01ca282815010570a28096e3abc205b4be2
 com.gu	facia-json-play30_2.13	19.0.0-PREVIEW.fpallow-media-atoms.2025-05-01T1033.4a4d2a24		b5ac3c25189826d907f99c5bd51dfabbcef7a99e
+com.gu	facia-json-play30_2.13	19.0.0-PREVIEW.fpallow-media-atoms.2025-05-09T1007.0266482a		e5ce596f84983fe9872f3428b5257d98a001f15d
+com.gu	facia-json-play30_2.13	19.0.0-PREVIEW.fpallow-media-atoms.2025-05-15T1413.90f28479		01e7dbd58e838b13ae5f97f09ed32865fe3994ba
 com.gu	facia-json-play30_2.13	4.0.10		0c94aee498415e94c28c9b1775c04a12ca6a05fe
 com.gu	facia-json-play30_2.13	4.0.9		bcd46ff81af5efc1c29985d790790dac6de63d87
 com.gu	facia-json-play30_2.13	5.0.0		f64932f0ceb0e7eb9e922458ea30c7562b93926e
@@ -268,6 +273,8 @@ com.scylladb	scylla-driver-parent	3.7.1-scylla-2		N/A
 com.singhinderjeet	playn-http-android	1.2		c8bf8909770733fa902d4416e698ca315c688956
 com.squareup.retrofit2	response-type-keeper	2.10.0		bae76c1a713c376c0a2ea429214fd23143b29889
 com.squareup.retrofit2	response-type-keeper	2.11.0		ee2cbc476e7592e36e4ca6261db211447a7afaf7
+com.squareup.retrofit2	response-type-keeper	2.12.0		2a1677364596bb5f96494c85048ae8846e30eb2c
+com.squareup.retrofit2	response-type-keeper	3.0.0		78dac692d754f64a3f57a85ae1c7ca3a8f2e9128
 com.unquietcode.tools.flapi	flapi-runtime	1.0		746693baa9b8563e4765b0281f195f0d44135189
 com.unquietcode.tools.flapi	flapi-runtime	2.0		96b73f0fce1d83cfe13195a347d410ccbca51045
 de.svws-nrw	svws-module-dav-api	0.0.12		03de592570ca51a11fe9cc3ef08bd0a39c0cba9d
@@ -886,6 +893,7 @@ org.apereo.cas	cas-server-support-yubikey-jpa	7.2.0-RC6		fc81e43288ff06eef281174
 org.apereo.cas	cas-server-support-yubikey-jpa	7.2.0-RC6	resources	7eb1aa672fcc8697772313dfc0b5c3c41b40f242
 org.apereo.cas	cas-server-support-yubikey-jpa	7.2.1		61f626c05ceeeb6470c5a57df029ade4a73a7a5d
 org.apereo.cas	cas-server-support-yubikey-jpa	7.2.1	resources	9942091bafb2eefbf3c7b9bc01492db8232d8f3d
+org.apereo.cas	cas-server-support-yubikey-jpa	7.2.2		63f07b0050e96e47aba98f12229b118b99a6fe3a
 org.apereo.cas	cas-server-support-yubikey-jpa	7.3.0-RC1		927b08c56d5cf1e840faf8a27fb4c7e768d0f35e
 org.apereo.cas	cas-server-support-yubikey-jpa	7.3.0-RC1	resources	d185abd4ceebe63c0ab8e461a59a248210df3f82
 org.apereo.cas	cas-server-support-yubikey-jpa	v6.4.0-RC5		5f90337bd18a971cb29f702ccbe4443900149bdc
@@ -1257,6 +1265,19 @@ org.eclipse.dirigible	dirigible-components-template-react	11.41.1		d3bfee97262e1
 org.eclipse.dirigible	dirigible-components-template-react	11.42.0		8db2b084d6e8a34f0b84cb36f2210a453305b545
 org.eclipse.dirigible	dirigible-components-template-react	11.43.0		e911eade521be70e3c4a206f50cd6ff2fcef9e44
 org.eclipse.dirigible	dirigible-components-template-react	11.44.0		8fb88de8900287d26151f1b85a1cdbde7e99526f
+org.eclipse.dirigible	dirigible-components-template-react	11.45.0		100c14c144ea92ea4c3edc467560d8ca9a411e48
+org.eclipse.dirigible	dirigible-components-template-react	11.45.1		80ad284f95b0476edd73f7dd4c6159aa43061613
+org.eclipse.dirigible	dirigible-components-template-react	11.45.10		9d8aa9daa45516c3b92c3d4568cf924bc12cd098
+org.eclipse.dirigible	dirigible-components-template-react	11.45.11		36627d9f5bcbc5a11f2db5a2fe6b40d874d160e0
+org.eclipse.dirigible	dirigible-components-template-react	11.45.12		b450df12f70b6737fecb623d04981d2f3b3f9ede
+org.eclipse.dirigible	dirigible-components-template-react	11.45.13		1fd6667589a899eddf108e753e5a757558bd81ee
+org.eclipse.dirigible	dirigible-components-template-react	11.45.3		8d4b3021ae0c2f8d49a1e9e0268605e0f6f427dd
+org.eclipse.dirigible	dirigible-components-template-react	11.45.4		f0bd3f55510af9e90ee16f4b8f4b42967c6f256a
+org.eclipse.dirigible	dirigible-components-template-react	11.45.5		6937b395185f010f9aa177ae08a6b8c6968cc787
+org.eclipse.dirigible	dirigible-components-template-react	11.45.6		b861999834f0fc43aa771f8a5b9bf5f1816d6234
+org.eclipse.dirigible	dirigible-components-template-react	11.45.7		09443ae5212a9f94b3f0f7570a909bf76f670988
+org.eclipse.dirigible	dirigible-components-template-react	11.45.8		f57618f53d8c5e15b22e745b8960b952a4637588
+org.eclipse.dirigible	dirigible-components-template-react	11.45.9		ab27b05cc8e2eb5df87b8f014acf494fefd7925f
 org.eclipse.dirigible	dirigible-components-template-react	11.5.0		36d82e05c0347d3c6cf71b0ed65d9d5d39a431cc
 org.eclipse.dirigible	dirigible-components-template-react	11.6.0		fb0c148c1b766237445d2b3878af4b99fd042801
 org.eclipse.dirigible	dirigible-components-template-react	11.6.1		f739d2c16e19774f7d823ff194f9c04d2c9677b3

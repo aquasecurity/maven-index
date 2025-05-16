@@ -51,6 +51,7 @@ com.bkahlert.kommons	kommons-test-js	2.8.0		N/A
 com.bryghts.ftypes-array	ftypes-array_2.11	0.0.1		1ba07304989f7d6261c52706e35762fcbf5b4a4d
 com.buttercms.android	buttercmsclient-kotlin	1.0.0		N/A
 com.clever-cloud	testcontainers-ceph	1.0.1		6524df42bdf2fb29f6120ecc05897a0db6274cd8
+com.clever-cloud	testcontainers-ceph	2.0.2		a3877b4f932c843e8b7166dc9977f63f9e963fc6
 com.codesnippets4all	jthunder	1.1		4844397cc6e2fee9c39742262c16c1fa2c39600f
 com.codesnippets4all	jthunder	1.2		57665db72c6639c70a971f596c2bd66fdeaf728e
 com.codesnippets4all	jthunder	1.2.1		814301d99a88b634a0057bbeede1111cb320f823
@@ -854,6 +855,7 @@ dev.zio	zio-aws-datasync_3	7.31.27.1		af2740a7cb48499bb482897997aa52fa05df90f0
 dev.zio	zio-aws-datasync_3	7.31.28.1		04c95c524f258f1bd4eb0e3756b2fc9a7bb82c65
 dev.zio	zio-aws-datasync_3	7.31.3.1		02e1d5c2ef1383ffcbd390b78e61c05336745c5f
 dev.zio	zio-aws-datasync_3	7.31.30.1		e69c982d8aec9a7cad42cb7e7e517697926e30d6
+dev.zio	zio-aws-datasync_3	7.31.30.2		cdd947050c0fa7d09c357200d901fc33d556fd15
 dev.zio	zio-aws-datasync_3	7.31.4.1		dc2fa5830d9c2ee745bb7a255764bac544ba0453
 dev.zio	zio-aws-datasync_3	7.31.6.1		bff8aee54d7a7b8c65515a0bc6b78c1420c327a8
 dev.zio	zio-aws-datasync_3	7.31.6.2		b006bb2103e665f49d3e4d711ddc3b5fe27e6d1a
@@ -1190,6 +1192,7 @@ org.apache.camel.quarkus	camel-quarkus-csimple	3.2.1		4899d21d31cc7bcefcbf2ac95c
 org.apache.camel.quarkus	camel-quarkus-csimple	3.2.2		ac7204440024fcedf9839edabb7ecd3540dd7287
 org.apache.camel.quarkus	camel-quarkus-csimple	3.2.3		66664b6de24319b2a9e474c8780f46048706fbe2
 org.apache.camel.quarkus	camel-quarkus-csimple	3.20.0		ea208615a0fb1cf581d45c8a09d917271cac04a9
+org.apache.camel.quarkus	camel-quarkus-csimple	3.20.1		3c46f8105780c9177034a892b0133ea5b5ad4d0e
 org.apache.camel.quarkus	camel-quarkus-csimple	3.22.0		da6e9f79bb426e191708ac8b01422c913318cad6
 org.apache.camel.quarkus	camel-quarkus-csimple	3.4.0		9090ee885957faae1a67942b240b87e2ec833f90
 org.apache.camel.quarkus	camel-quarkus-csimple	3.5.0		9115bab99fba83ffbb7db61d244183ce85d033a6
@@ -1237,6 +1240,7 @@ org.citrusframework	citrus-rmi	4.4.0		0c175f7a54c8729be2932abb61e8bf1669c23b8d
 org.citrusframework	citrus-rmi	4.5.0		a993cc78baa2df374d91560c5848e10d6231a026
 org.citrusframework	citrus-rmi	4.5.1		118c6c44435b53d4f361e91972bc579ac636d702
 org.citrusframework	citrus-rmi	4.5.2		c5020526a024a3d06fd461e487dba90a9c6d45fc
+org.citrusframework	citrus-rmi	4.6.0		d90e9ab24fcb7de1f9b1c061b47d74b354c67b1a
 org.eclipse.jkube	kubernetes-maven-doc	0.1.0		dcd9cb3148148795310df77152e50038e1ecd445
 org.eclipse.jkube	kubernetes-maven-doc	0.1.1		98b118aa1c51858c750b276f77bae23a4d5a6645
 org.eclipse.jkube	kubernetes-maven-doc	0.2.0		3072322ac951f5b1dbad3c96dfe51349085647c5
@@ -1491,6 +1495,7 @@ org.scalameta	scalafmt-interfaces	3.9.2		27f93cebc7758b15db316a1b727cc5ca4844ed5
 org.scalameta	scalafmt-interfaces	3.9.3		fb84d15d683b5ea7c6dffe19e93b81f462885f69
 org.scalameta	scalafmt-interfaces	3.9.4		09ae1c7c86aa57fb37ca790c965533070c26de81
 org.scalameta	scalafmt-interfaces	3.9.5		5ee426333f0ca56e0e3d122df3b47fc75d820979
+org.scalameta	scalafmt-interfaces	3.9.6		fe11adc163b253c9d5f43d7f4ae7afb1b93fecd2
 org.scalamolecule	molecule-db-sql-h2_sjs1_3	0.19.0		655602e6a5bea1107af73f5b9a6de7435e7ba00a
 org.superfine	tracking-tenjin	0.0.15		N/A
 org.timothyb89	eventbus	1.0		1a440a3603f5cfafe92c42394553183ab04efa58
@@ -2876,7 +2881,18 @@ software.amazon.awssdk	ec2instanceconnect	2.31.30		31e7b45abbc050ebd3f7aeb906582
 software.amazon.awssdk	ec2instanceconnect	2.31.31		617e74ff3f188fb4194bd0f69b852af6a711d721
 software.amazon.awssdk	ec2instanceconnect	2.31.32		f7f7531c8992c4b9ccec42d1de23e75f492db1a9
 software.amazon.awssdk	ec2instanceconnect	2.31.33		81de0ce8ed404db9ebff6dac1e2c951d076b5906
+software.amazon.awssdk	ec2instanceconnect	2.31.34		456fab4c240dd33e62b567ca1fc797b702c3bd40
+software.amazon.awssdk	ec2instanceconnect	2.31.35		497eee6e2565c3e1c35020ebe9f2d4b90cbf02f3
+software.amazon.awssdk	ec2instanceconnect	2.31.36		a784cfdda9c1942974bbad493bbc9ff149fdf0ca
+software.amazon.awssdk	ec2instanceconnect	2.31.37		f1b987524eb5c26fa4f5d2f222072b5f9dc17094
+software.amazon.awssdk	ec2instanceconnect	2.31.38		86c9d00c7b4b149d637653fa588f52ef0f4c345f
+software.amazon.awssdk	ec2instanceconnect	2.31.39		817fe3c68648cbcf210d0d4627b189553bc05574
 software.amazon.awssdk	ec2instanceconnect	2.31.4		4728d48eaf272bb43c3026d5fd209a28879728ed
+software.amazon.awssdk	ec2instanceconnect	2.31.40		5f7d544c0b4ad201d4c4400995cec3199193d8df
+software.amazon.awssdk	ec2instanceconnect	2.31.41		609ee962bf1cdde297ed18eac975b1af79681299
+software.amazon.awssdk	ec2instanceconnect	2.31.42		d7cb9c5dedb6bad375c9240c936ed681e29981a8
+software.amazon.awssdk	ec2instanceconnect	2.31.43		e1af828eeeb918d92ccf77fe3fc830b28727b72a
+software.amazon.awssdk	ec2instanceconnect	2.31.44		6e9160cd3218f135f4deea7ee1f8d9f4e3f75ac6
 software.amazon.awssdk	ec2instanceconnect	2.31.5		d304ae39dcb964d5625170296d76f31a6a6bfb3f
 software.amazon.awssdk	ec2instanceconnect	2.31.6		fd2b2a2518ea561b5cefe87f5a534643b606e235
 software.amazon.awssdk	ec2instanceconnect	2.31.7		a0c478d2c6420caf82b75dbf4adf006108672004
@@ -3160,6 +3176,7 @@ systems.manifold	manifold-xml-rt	2025.1.10		61788e55b6beffc07863ee70d7a6a220b9d4
 systems.manifold	manifold-xml-rt	2025.1.11		8512c8bced5059d3099f9af76665c9afa73d1ec1
 systems.manifold	manifold-xml-rt	2025.1.12		79456a76733ccd0f2e79acb88a06f201d5db39f2
 systems.manifold	manifold-xml-rt	2025.1.13		c4905ff4c6700dd10d4a4080f411ef657a92764c
+systems.manifold	manifold-xml-rt	2025.1.14		e70c9ba5b7c580d13a3fd02a9e06ab0cb879132d
 systems.manifold	manifold-xml-rt	2025.1.2		ff7b6303f4d9d805c0d30660a2b0dfdb175cb651
 systems.manifold	manifold-xml-rt	2025.1.3		f40306d38e630bdce5bfad7ab6296b32bab9d120
 systems.manifold	manifold-xml-rt	2025.1.4		be35d59219ed9f59e9f768081feeef55a1cef467

@@ -132,6 +132,8 @@ com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.37.0		6205a3cd172fa48
 com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.38.0		fa25240a78435c52aefa8be4976d2c47c2f3a98f
 com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.39.0		f5e4395f02eda43463a68f6f66fdbd5d2fa78660
 com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.40.0		1fd7f95575e0e1f962a24289a8ca36525f1fd3da
+com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.41.0		e35def31eb08a1dc2c9853036c854cec79110a95
+com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.42.0		af3dc5f876b90e61bfa73f8f71f3b484d1248d68
 com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.6.0		bb848241a63ba36beec56923fba35e569d344b91
 com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.7.0		a0f43660bc73af979a06af68156d2fb14df9481e
 com.google.api.grpc	grpc-google-cloud-policysimulator-v1	0.8.0		b8cd8aeac24da9c3c17b1c1242b35e0e82dd2a6b
@@ -502,6 +504,7 @@ dev.opensavvy.prepared	runner-test-initiative-watchosarm64	2.0.0-alpha.2		N/A
 dev.opensavvy.prepared	runner-test-initiative-watchosarm64	2.0.0-alpha.2	metadata	6cb8c3a33c6ee0a0425481f206ea9a8748127039
 dev.opensavvy.prepared	runner-test-initiative-watchosarm64	2.0.0-rc.1		N/A
 dev.opensavvy.prepared	runner-test-initiative-watchosarm64	2.0.0-rc.1	metadata	d06682c283b8f63333df130d0806c34ea8c28af3
+dev.opensavvy.prepared	runner-test-initiative-watchosarm64	2.0.1	metadata	487b311d923b07ec4f7336fac1933538819ea39a
 eu.codlab	kotlin-permissions-macosarm64	1.10.0		N/A
 eu.codlab	kotlin-permissions-macosarm64	1.10.0	metadata	bcfa8db580cc99e1786cc57d59da22e02b7cf69a
 eu.codlab	kotlin-permissions-macosarm64	1.11.0		N/A
@@ -995,6 +998,19 @@ org.eclipse.dirigible	dirigible-components-template-view	11.41.1		139f9ec140d62d
 org.eclipse.dirigible	dirigible-components-template-view	11.42.0		a2b24aa2dd5deb6c50e018666e2bbcb713de9372
 org.eclipse.dirigible	dirigible-components-template-view	11.43.0		d8a42fe680d8794db0054071db77c60d989ecbef
 org.eclipse.dirigible	dirigible-components-template-view	11.44.0		42063acaaed7be7dbde28630c9c746daed06fa2d
+org.eclipse.dirigible	dirigible-components-template-view	11.45.0		389896982e95c94fe0abb1b0019164b281b67c86
+org.eclipse.dirigible	dirigible-components-template-view	11.45.1		daf48439aae6fe690f428359b2ce832c9d46f797
+org.eclipse.dirigible	dirigible-components-template-view	11.45.10		2d8676901c0098651a18ad6721f0b153cfa9340e
+org.eclipse.dirigible	dirigible-components-template-view	11.45.11		9d920a63e7962865ea77465bd6ee9f8a1a7c5e22
+org.eclipse.dirigible	dirigible-components-template-view	11.45.12		1f56f5abe4167d15532d1d62732c2cb9140cdf46
+org.eclipse.dirigible	dirigible-components-template-view	11.45.13		c913021d0c72b55eea945c562a3dc402685ae481
+org.eclipse.dirigible	dirigible-components-template-view	11.45.3		5dfff5145c2bcfc76bef6419fb5d1f0813d66801
+org.eclipse.dirigible	dirigible-components-template-view	11.45.4		0f5b2c785f06e8a517ae1b07a773591c1a5754a8
+org.eclipse.dirigible	dirigible-components-template-view	11.45.5		b24fdeeb32bdc4a517b2bf57f5802aa22e471501
+org.eclipse.dirigible	dirigible-components-template-view	11.45.6		4a91f18e8c7b2e6cc2a042eeaafa2069bcc69bd5
+org.eclipse.dirigible	dirigible-components-template-view	11.45.7		74683fff68c8d20fe7841fc45237a66a1dfe2abd
+org.eclipse.dirigible	dirigible-components-template-view	11.45.8		b92a2b5d02a51b59781c645fcccbb0762525f6ce
+org.eclipse.dirigible	dirigible-components-template-view	11.45.9		a7a24c04200078d05215b91bb4434f3390a9ca10
 org.eclipse.dirigible	dirigible-components-template-view	11.5.0		b823587fc6506e23185677ceda8f36c11bcbb0d7
 org.eclipse.dirigible	dirigible-components-template-view	11.6.0		cbcc5701e71517c9f68d0f6195cd4f9c665df9c4
 org.eclipse.dirigible	dirigible-components-template-view	11.6.1		4357814939786fb7367beda645cf2c1969dd14e4
@@ -1507,6 +1523,8 @@ org.ossreviewtoolkit.clients	vulnerable-code-client	55.3.0		e2a1bd5926def1d64033
 org.ossreviewtoolkit.clients	vulnerable-code-client	56.0.0		a2991c96e4eafe39fa083e70d64e99d4681d8b23
 org.ossreviewtoolkit.clients	vulnerable-code-client	56.1.0		4f9a2b203c4e68b56360d5cd497db17f1734d6f4
 org.ossreviewtoolkit.clients	vulnerable-code-client	57.0.0		b2b3fec886c086e676396d0909db4d48c2d06212
+org.ossreviewtoolkit.clients	vulnerable-code-client	58.0.0		0699e0907e6b0b976ef6660e189c9514b6bfd3ed
+org.ossreviewtoolkit.clients	vulnerable-code-client	58.0.1		ec9f2286c0eb25df2ac7863eedbc309b89c8a7ca
 org.ossreviewtoolkit.clients	vulnerable-code-client	6.0.0		451e47814ab257072a215229939895c13383b02d
 org.ossreviewtoolkit.clients	vulnerable-code-client	6.1.0		4f9a6a96ba3004b65fecd19e770ba884e7d3a377
 org.ossreviewtoolkit.clients	vulnerable-code-client	6.1.1		c9f46c7c98e89a471809efdba53771dc4b98efe1
@@ -2684,7 +2702,18 @@ software.amazon.awssdk	archetype-tools	2.31.30		b935d5a1c5724a5cc9d6c5af6e78e79f
 software.amazon.awssdk	archetype-tools	2.31.31		9c67492f8cdcb35740fa58fe16c4d1adf6fe5906
 software.amazon.awssdk	archetype-tools	2.31.32		14ac30e2f3aadf716505c094d8153f71990d8160
 software.amazon.awssdk	archetype-tools	2.31.33		821e7837fde649734267e9108fd99ca09f2d7d99
+software.amazon.awssdk	archetype-tools	2.31.34		cc999dd8afbb727fb53de9c7923dca6295763ddc
+software.amazon.awssdk	archetype-tools	2.31.35		a6a5fb91dc51f1dcaa095d11d3c96936356629cb
+software.amazon.awssdk	archetype-tools	2.31.36		6caf1e338aaa5350efae78f5a1cc12ca43304102
+software.amazon.awssdk	archetype-tools	2.31.37		9ca684d6d370c2d8c829262890fec059a4641a3c
+software.amazon.awssdk	archetype-tools	2.31.38		b877f5b781cfc45f52abd9854697ddc3eb49f004
+software.amazon.awssdk	archetype-tools	2.31.39		11576d7948bfc55c9cf2d2aee29d93dfd5fd07a6
 software.amazon.awssdk	archetype-tools	2.31.4		7375084cb0a0114f978c03d8f0ba5b8c8ac38034
+software.amazon.awssdk	archetype-tools	2.31.40		4f5fdbceea998aeaac5948fe43f96b815918a4e7
+software.amazon.awssdk	archetype-tools	2.31.41		15c7f632884015ffc22f5fa1804bba4ac91bd739
+software.amazon.awssdk	archetype-tools	2.31.42		882972a7e88151153445f0a4703e2995ef60d629
+software.amazon.awssdk	archetype-tools	2.31.43		11b532dd8f557c05131b579e82987a0ff3d77e94
+software.amazon.awssdk	archetype-tools	2.31.44		9fefe6653d11f3680fe7533dc99eeadf68da45b0
 software.amazon.awssdk	archetype-tools	2.31.5		b4afcf439ed8fff1fe812aea5364d82b9f42e990
 software.amazon.awssdk	archetype-tools	2.31.6		d9a698f645e1e7ccab47bc1525c61ea0fc38dc26
 software.amazon.awssdk	archetype-tools	2.31.7		cd4006caf609942f2551e142e1a953c4309f85d0

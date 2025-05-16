@@ -47,6 +47,7 @@ cn.com.jeeweb	common-http-apache	1.0.6		0a5a2a1c50849c48b52d7994b6d386e3eacde1c7
 cn.com.jeeweb	common-http-apache	3.0.2		0715c6b6afd76460491e1a268a2e47c9555538db
 cn.com.jeeweb	common-http-apache	3.0.6		7e44efb7b3471845d9b9ff9862ae5716c8c62d8b
 cn.com.jeeweb	common-http-apache	3.0.8		9140688acb8759c874615d688b6d7dbe43079f88
+cn.com.jeeweb	common-http-apache	3.1.0		313183ffeb64cb23428ea834b2876043c0f2f4fa
 com.caucho	hessian-flex	3.1.5		N/A
 com.disneystreaming.smithy	aws-geo-routes-spec	2025.04.08		581507dfcd3b136859c26ad3b16d82c065e1983a
 com.faasadmin	faas-monitor	1.0.2		0bc1deba8f71cd0a18591080cc5c54860f21b692
@@ -299,6 +300,7 @@ com.jd.live	joylive-eventbus-jbus	1.5.0		053527153d34162c3816ad3158aa9567a3403d4
 com.jd.live	joylive-eventbus-jbus	1.5.1		5c6ff2497228188941d2dd399bae2d1e323b9649
 com.jd.live	joylive-eventbus-jbus	1.5.2		47a9f1e726ccd3adbc51a0bb073ec81ab42e618a
 com.jd.live	joylive-eventbus-jbus	1.6.0		8426ab91c9e2b0a9153b689afea4b38cc488186e
+com.jd.live	joylive-eventbus-jbus	1.7.0		49eb6f28484eff0b8c554d36aeb00f2a13947ad5
 com.kenai.nbpwr	org-jdesktop-animation-timing	1.0-201002281504		c59154a5ed8f757eff5c205e0fb3912bb8435edd
 com.lmaye	spring-boot-starter-data-web	1.0.11-RELEASE		ba1380d1e01bca2435cc0ff0dcc570aefeb21bf5
 com.lmaye	spring-boot-starter-data-web	1.0.12-RELEASE		a066b61632f996c2b8a2b7cb9d335c1916647d74
@@ -327,6 +329,7 @@ com.powsybl	open-rao-crac-util	6.2.1		35e1f12be0096393c7205acb103602b909507d37
 com.powsybl	open-rao-crac-util	6.2.2		4b87cf6657302ca2c8d5e506c0251a2f04e93c68
 com.powsybl	open-rao-crac-util	6.3.0		ae1967d4ffcc2a9918eef1153efae7354b91d7f6
 com.powsybl	open-rao-crac-util	6.4.0		1d74d2b5df1222e9f8a7e44700f0b9c69619a881
+com.powsybl	open-rao-crac-util	6.5.0		caa947515e7f3fe76368e7b7d035f6eefa9e94db
 com.softwaremill.odelay	odelay-twitter_2.11	0.3.0		1522787d0b6c2248449f45224bff6c42d19972f0
 com.softwaremill.odelay	odelay-twitter_2.11	0.3.1		abf2e471f6a7c07f70dda898f68d5ccaf86d0e1e
 com.softwaremill.odelay	odelay-twitter_2.11	0.3.2		61274f7022cbbb4da9a11d50b1b5ba67a0642a49
@@ -374,6 +377,7 @@ com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.14.3
 com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.14.4		09dab26ebaa9fde4406cfb3fd9e56d3ca558ca07
 com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.15.0		0cc172cb466697e9d7186c47c978994e6121c2ec
 com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.15.1		f98a0ceeda8749f7734ee3829dca1c6e740408b4
+com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.15.2		80868f1ccf4ae04888522f378345cc60cab67841
 com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.2.0		2acb1c75143c13055000874232df432d9ebc6ef5
 com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.2.1		fde5af85bd6291d2265e6f44ee5f52a92e339d7f
 com.solace.connector.core.archetype	pubsubplus-connector-binder-archetype	2.2.2		0fc4a19daed87bc2059801373f636dc4b8e1fac3
@@ -506,6 +510,7 @@ dev.galasa	dev.galasa.cicsts.cemt.manager	0.25.0		b85ee2a00501de998474163fdfe920
 dev.galasa	dev.galasa.cicsts.cemt.manager	0.38.0		3521acb99fc6e9293fe0d07b6b61cb57528531f1
 dev.galasa	dev.galasa.cicsts.cemt.manager	0.39.0		40e02e50c5776e55d76dff0580d3a372dbc053a5
 dev.galasa	dev.galasa.cicsts.cemt.manager	0.40.0		cea43f7b8b7c803f973a8036ab842a200263f0df
+dev.galasa	dev.galasa.cicsts.cemt.manager	0.41.0		945329bf5fa91251900f88d910db64a7703567ba
 dev.inmo	micro_utils.ksp.variations-linuxarm64	0.24.6		N/A
 dev.inmo	micro_utils.ksp.variations-linuxarm64	0.24.7		N/A
 dev.inmo	micro_utils.ksp.variations-linuxarm64	0.24.8		N/A
@@ -2773,7 +2778,18 @@ software.amazon.awssdk	appconfig	2.31.30		d5b5ffc51888154ec7b624ff39bd16a2b69195
 software.amazon.awssdk	appconfig	2.31.31		4ef055577ec43749742e610daee4bfd51edb9b98
 software.amazon.awssdk	appconfig	2.31.32		1218701e3dbdc60a2bf751887c6a2517404bfce6
 software.amazon.awssdk	appconfig	2.31.33		1c61055684a9ec072a10450b1c69c41b308de085
+software.amazon.awssdk	appconfig	2.31.34		a9d2cccedd47b825add8b126aed40ce79635a0f3
+software.amazon.awssdk	appconfig	2.31.35		443ed5f88dc4b421b752bfa7b2d2f7b821afa4aa
+software.amazon.awssdk	appconfig	2.31.36		f7028df6b86567dd31b23805fd24c1c2447538f4
+software.amazon.awssdk	appconfig	2.31.37		e3b9bdc60eecbb033290db4b44540e46c469ad4c
+software.amazon.awssdk	appconfig	2.31.38		54ebdd0f8b759895940af4a214e79a279d42bc0a
+software.amazon.awssdk	appconfig	2.31.39		7021f66bca38ecbcc8f401147dfd075b7733511c
 software.amazon.awssdk	appconfig	2.31.4		8fdee9b00b69c1d92737dcd95cb21353d488c951
+software.amazon.awssdk	appconfig	2.31.40		fd926223e1b423ac0ba1e8c9ff2a22e1b0346b64
+software.amazon.awssdk	appconfig	2.31.41		3bb62839c984eb86a62b82b277ae030c9e8bf6aa
+software.amazon.awssdk	appconfig	2.31.42		9552553c69be5f783f426d531e1150b50586d062
+software.amazon.awssdk	appconfig	2.31.43		2b99639c4ef44eaa0333922ddbea22b1d68b915d
+software.amazon.awssdk	appconfig	2.31.44		e24ebd6a2f760a67e1ee82a742129e217948240f
 software.amazon.awssdk	appconfig	2.31.5		4b5093980f4f69c1994b4d1365883653c4874b2b
 software.amazon.awssdk	appconfig	2.31.6		62aed8ae1423a515db20fc1398a8b0bf1e15e876
 software.amazon.awssdk	appconfig	2.31.7		029fa4674a98900dd93e908d22cb2a4bf03745e6
@@ -4091,7 +4107,18 @@ software.amazon.awssdk	groundstation	2.31.30		c45c125e729588646d47dfe5eed573e030
 software.amazon.awssdk	groundstation	2.31.31		8d0157440cc739c23d487374a7c7fa40b8416637
 software.amazon.awssdk	groundstation	2.31.32		b5404432e2c6ca025a02f7095d86c000f69c30ec
 software.amazon.awssdk	groundstation	2.31.33		92ba74d2036b9b457bcc29e6c8bf1f35a9b00d34
+software.amazon.awssdk	groundstation	2.31.34		54513987bdcf0c0dc0ce2d3cf541b0d717e0d63d
+software.amazon.awssdk	groundstation	2.31.35		7c4cf3e24ea34ecccbc892d13644cf55d3075cb3
+software.amazon.awssdk	groundstation	2.31.36		56a2e3d7e079a89eb1c5019fb0d8e1ecb7ff0ea0
+software.amazon.awssdk	groundstation	2.31.37		81d201e1ff1591912d0f237c8dd0f628851f8e21
+software.amazon.awssdk	groundstation	2.31.38		7ae7a62c3f49638128f0339003979537e212da10
+software.amazon.awssdk	groundstation	2.31.39		07ebfb628fd2c068d4bf58631c13a60edfdaaf41
 software.amazon.awssdk	groundstation	2.31.4		19f5d6e89b642f983e162d7ba9567f74c97cae7e
+software.amazon.awssdk	groundstation	2.31.40		7fc8113a9757b38470f78e0fc9c16e7817650b03
+software.amazon.awssdk	groundstation	2.31.41		f4a595be54c790b4a9892de7b76c536538214fb5
+software.amazon.awssdk	groundstation	2.31.42		611cb48186d71aa9aafffa84ec4af178a4b2221f
+software.amazon.awssdk	groundstation	2.31.43		1e2c9fb727fcc793c4bd98b32e717189346351c4
+software.amazon.awssdk	groundstation	2.31.44		41298161e6b4b9eddfe39e3619f44643db4866e1
 software.amazon.awssdk	groundstation	2.31.5		f22b834132d7dac065916726c35bde30b0a8863c
 software.amazon.awssdk	groundstation	2.31.6		551c2e26d32ff8bd97149de1549de22962df540e
 software.amazon.awssdk	groundstation	2.31.7		f625ed67ae53dd30253d0f9df317a5e87f1912c1

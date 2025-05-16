@@ -387,6 +387,7 @@ com.google.apis	google-api-services-osconfig	v1-rev20241002-2.0.0		b65839c477c37
 com.google.apis	google-api-services-osconfig	v1-rev20241021-2.0.0		a87c924bfc723efaa1015b5215d654dd4bb1d0ce
 com.google.apis	google-api-services-osconfig	v1-rev20241201-2.0.0		58c9e2ffaa0503a9bb93d81478fae38279a5ec79
 com.google.apis	google-api-services-osconfig	v1-rev20250323-2.0.0		d559d39514b140fbc05c489272936d833e9bddcb
+com.google.apis	google-api-services-osconfig	v1-rev20250511-2.0.0		a75ff5311e8753fe220d577b8869a62bf2bc64f4
 com.google.apis	google-api-services-osconfig	v1-rev3-1.18.0-rc		00d5fba7db8a2411e0a7f283caa280e3e0f4c5bd
 com.google.apis	google-api-services-osconfig	v1-rev3-1.25.0		a873d8cd8fa9d8959dc25274ca941630f24aaa0d
 com.google.apis	google-api-services-osconfig	v1-rev7-1.18.0-rc		f2ceeceb35716e7a8f2f7d293986683dc632eee8
@@ -421,6 +422,7 @@ com.google.apis	google-api-services-osconfig	v1alpha-rev20240901-2.0.0		3a36626c
 com.google.apis	google-api-services-osconfig	v1alpha-rev20241021-2.0.0		ef8a1fa3aefedd9e1309825489549ba5b5007279
 com.google.apis	google-api-services-osconfig	v1alpha-rev20241117-2.0.0		267e817d539da9021256638331b9f25457ea81e5
 com.google.apis	google-api-services-osconfig	v1alpha-rev20250323-2.0.0		060da6276e78b78290297b65911569c605561689
+com.google.apis	google-api-services-osconfig	v1alpha-rev20250511-2.0.0		b605470e9379f1beeff6838efcc5ef78d0dcbe8e
 com.google.apis	google-api-services-osconfig	v1beta-rev2-1.18.0-rc		14c7ea2b07a52c1f4650bd97c423673ea879dd90
 com.google.apis	google-api-services-osconfig	v1beta-rev2-1.25.0		030e627705d429f106b4379769d90f0b6395e48e
 com.google.apis	google-api-services-osconfig	v1beta-rev20200207-1.30.8		3c2b4555f98fbd12d73085eadea81a44ea135547
@@ -460,6 +462,7 @@ com.google.apis	google-api-services-osconfig	v1beta-rev20241002-2.0.0		9fffdd1b7
 com.google.apis	google-api-services-osconfig	v1beta-rev20241021-2.0.0		dbfbe55e2f68c9a25fc9e847c46dcb6fb3026935
 com.google.apis	google-api-services-osconfig	v1beta-rev20241201-2.0.0		67eb64f274a492b8aa09f8fe8b35d389fd20ea81
 com.google.apis	google-api-services-osconfig	v1beta-rev20250323-2.0.0		ea982774af70da7494987d7f34ade18db90460fb
+com.google.apis	google-api-services-osconfig	v1beta-rev20250511-2.0.0		c30e898b7936e2d80b95023e0b526c0ab6709321
 com.google.apis	google-api-services-osconfig	v1beta-rev3-1.18.0-rc		f6130d1ef9e713c709b93cc64db8d9df35a93689
 com.google.apis	google-api-services-osconfig	v1beta-rev3-1.25.0		2530052f6ede4a27f060ea07cb953a85b438c505
 com.google.apis	google-api-services-osconfig	v1beta-rev4-1.18.0-rc		a0b68c041ab1a4e6eeade401c98abce50f6fd11a
@@ -470,9 +473,11 @@ com.google.apis	google-api-services-osconfig	v1beta-rev6-1.18.0-rc		f3d18bdd8ab1
 com.google.apis	google-api-services-osconfig	v1beta-rev6-1.25.0		6bc305a8fead4410e553f53710e04edf0355a075
 com.google.apis	google-api-services-osconfig	v2-rev20250302-2.0.0		4ae43928cf28cfd903425d826ec8163931b38699
 com.google.apis	google-api-services-osconfig	v2-rev20250323-2.0.0		dc0063cbf53f2a3dd3155e95b412b1b0134cfbcb
+com.google.apis	google-api-services-osconfig	v2-rev20250511-2.0.0		2d86e6a3f68f509966728080d548153e5ef77d7a
 com.google.apis	google-api-services-osconfig	v2beta-rev20241104-2.0.0		dbf1b80e67769fe173d5cab2a40fd7902e007f90
 com.google.apis	google-api-services-osconfig	v2beta-rev20241117-2.0.0		fdbea771fb47e205d0545fb1656be2eefdbd067d
 com.google.apis	google-api-services-osconfig	v2beta-rev20250323-2.0.0		cf9bf3dcc35cc2289a36f9e4255c6d9356b81f99
+com.google.apis	google-api-services-osconfig	v2beta-rev20250511-2.0.0		d8f69d3a776618825d38899879c293b30d8800a9
 com.gruelbox	xchange-campbx	4.3.16.1		570273a7e433ac972046eb9747cd75cb11eb9577
 com.gruelbox	xchange-campbx	4.3.17.1		00f7ad4fd6c2484570735bf73922706368146c60
 com.iblotus.exchange	match-making	1.0		e55905e379ed2336821c546d4f5c2ebe64d703cf
@@ -1626,6 +1631,8 @@ io.cdap.cdap	cdap-authenticator-ext-gcp	6.8.3		5fbee80a95a0040f366153b1353752e6e
 io.cdap.cdap	cdap-authenticator-ext-gcp	6.9.0		eb1ea01bf8f34a501dc7c61c9d70a6435882ef18
 io.cdap.cdap	cdap-authenticator-ext-gcp	6.9.1		11cbb0d295056e9fe20a4e10604de4d7715015d2
 io.cdap.cdap	cdap-authenticator-ext-gcp	6.9.2		1b8d72544c9aef64035fd320e83f7e1532e0d603
+io.chrisdavenport	sbt-no-publish_2.12_1.0	0.0.1		9e3dfd7afa08ed02982eac6e389cc80652f9dd29
+io.chrisdavenport	sbt-no-publish_2.12_1.0	0.1.0		30c6eb9b953ade113af0d196c67a7023245cb4d9
 io.github.iamthevoid.reactivebinding	anko-mvvm	1.0.0-beta08		N/A
 io.github.iamthevoid.reactivebinding	anko-mvvm	1.0.0-beta09		N/A
 io.github.iamthevoid.reactivebinding	anko-mvvm	1.0.0-beta10		N/A
@@ -2196,6 +2203,7 @@ org.apache.tika	tika-pipes-iterator-gcs	2.9.0		35f334f89852930fffc657b5a0da467a2
 org.apache.tika	tika-pipes-iterator-gcs	2.9.1		1c68650111e03f02d6a3f2c938ebccd2ca64242c
 org.apache.tika	tika-pipes-iterator-gcs	2.9.2		5b73cf87a9f7c3001c203e7149147ecfad1e0220
 org.apache.tika	tika-pipes-iterator-gcs	2.9.3		b6d999be75e462663a1339a0629279302bce8e6a
+org.apache.tika	tika-pipes-iterator-gcs	2.9.4		e1181bef84819bd4ccfce17192eb1a0f47c8bafe
 org.apache.tika	tika-pipes-iterator-gcs	3.0.0		c0f9f2936cd53b72ef2d40a72bf8f050de2500b1
 org.apache.tika	tika-pipes-iterator-gcs	3.0.0-BETA		fb2865900535782b0c60e6703defa2691ed0539f
 org.apache.tika	tika-pipes-iterator-gcs	3.0.0-BETA2		4bd6c7c3fe9197ed122da09a149e8ff770efc951
@@ -2366,6 +2374,7 @@ org.apereo.cas	cas-server-support-account-mgmt-api	7.2.0-RC6		5fdeca970898c58a20
 org.apereo.cas	cas-server-support-account-mgmt-api	7.2.0-RC6	resources	855b8c6a379197e0872f635212051e3a7e54182a
 org.apereo.cas	cas-server-support-account-mgmt-api	7.2.1		3da1101c759a4646511e68bbde7835f493d0d025
 org.apereo.cas	cas-server-support-account-mgmt-api	7.2.1	resources	c47f33236af9a543afeb153c020c6b3169a077db
+org.apereo.cas	cas-server-support-account-mgmt-api	7.2.2		3b4cbadf3c1f5aada4feb56bdbb3ccce3ba354a5
 org.apereo.cas	cas-server-support-account-mgmt-api	7.3.0-RC1		809289bee318300b3ba2f85d472232f4a72cf6ea
 org.apereo.cas	cas-server-support-account-mgmt-api	7.3.0-RC1	resources	6cb383c3b3300fdaca23acccbe163ee0ae77a0ce
 org.bedework.deploy	bw-wfmodules-database-db	1.0.10		N/A
@@ -2552,8 +2561,11 @@ org.sejda	sejda-itext	1.0.0.M8		923f54cd4f803308203427b86025f95031101280
 org.sejda	sejda-itext	1.0.0.M9		f060f68357f090c0f356da56cd9fd2878e3802f3
 org.sejda	sejda-itext	1.0.0.RELEASE		b980fb204120ae25a39ff49af3372d5a9b56a81e
 org.testifyproject.local-resources	hdfs	1.0.0		248c8e4a5749ba8bfb4307353f34891c8ef4a5ec
+org.testifyproject.local-resources	hdfs	1.0.0	2.8.1	248c8e4a5749ba8bfb4307353f34891c8ef4a5ec
 org.testifyproject.local-resources	hdfs	1.0.1		ab8740d77baf785fc2c97ec7431e1c668416d5db
+org.testifyproject.local-resources	hdfs	1.0.1	2.8.1	ab8740d77baf785fc2c97ec7431e1c668416d5db
 org.testifyproject.local-resources	hdfs	1.0.2		6d17a3778421bd5ebcc8a3f9684a9a3f936326af
+org.testifyproject.local-resources	hdfs	1.0.2	2.8.1	6d17a3778421bd5ebcc8a3f9684a9a3f936326af
 org.typelevel	otel4s-oteljava-common_2.13	0.10.0		e4798dfa728d71831f6bb0596537e4ca5ba3d080
 org.typelevel	otel4s-oteljava-common_2.13	0.11.0		396354af17f2527a62c82c0cf739c2f57643baba
 org.typelevel	otel4s-oteljava-common_2.13	0.11.1		baf76deb31d055c60db36a3ac9534024e85d8260
@@ -2987,6 +2999,7 @@ ru.tinkoff.kora	opentelemetry-module	1.1.22		38446d77344cb4ac0f6b9192bf8bff577c7
 ru.tinkoff.kora	opentelemetry-module	1.1.23		e1233efafe00a043d7412eca79784e203311593e
 ru.tinkoff.kora	opentelemetry-module	1.1.24		e1b77bb97b28ecdf4e45e97af57174348a85ded5
 ru.tinkoff.kora	opentelemetry-module	1.1.25		a1c066156a5943e32254d84ada0d315635bebb1a
+ru.tinkoff.kora	opentelemetry-module	1.1.26		c8b0c31e3e620d78a7e7b33c011c03d0a94e3b23
 ru.tinkoff.kora	opentelemetry-module	1.1.3		122bb4ee95efeb862bda36be903d950e758a7111
 ru.tinkoff.kora	opentelemetry-module	1.1.4		14d7fbf4ce29556329889386c37ccc5547b1da9c
 ru.tinkoff.kora	opentelemetry-module	1.1.5		129ff3ce07b53f2ea93782c8111c03558b27d870
@@ -3042,3 +3055,7 @@ tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.0.8		N/A
 tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.0.8	metadata	f057699c3affb6b79a208e6517569e784778ecf0
 tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.0.9		N/A
 tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.0.9	metadata	b6ae467900f249f2836a1c7943f608f2777cf4d5
+tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.1.0	metadata	14e29dae0f0bdde29e5f20cfd91634bdcd0f25df
+tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.1.1	metadata	9054de85a44e76e227c4e417fae8c80a3453e788
+tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.1.11	metadata	39bcf8125c546a9e89a739386e98d147826d9b51
+tz.co.asoft	kollections-atomic-tvossimulatorarm64	3.1.12	metadata	4c350f96037a7101c49b9391827ae5dbbe08c0be

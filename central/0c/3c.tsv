@@ -41,6 +41,7 @@ cloud.piranha.feature	piranha-feature-impl	25.1.0		227baed0cf1878e8a64e5d1b7668b
 cloud.piranha.feature	piranha-feature-impl	25.2.0		76205c6a832186e18e5c396f361444a56cfa85c1
 cloud.piranha.feature	piranha-feature-impl	25.3.0		fad6d9107d166237b4cab49916aee153f5044637
 cloud.piranha.feature	piranha-feature-impl	25.4.0		650ee7d12209effac71a32a5970511c0d66495cb
+cloud.piranha.feature	piranha-feature-impl	25.5.0		9d41d8df7f0b89d10ab9876d7b69a235b6963bed
 com.alexitc	playsonifytest_2.12	1.0.0		fbe41b7b3cad62aba5a4d821c59fdaabb160cdd7
 com.alexitc	playsonifytest_2.12	1.1.0		4201fff6fe38b5e7d4bb705a0996dfce476944f2
 com.alexitc	playsonifytest_2.12	1.2.0		1c3ea7c6e38fdf9b079ededea8d7857d0886b34e
@@ -231,6 +232,8 @@ com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.143		924613a21c5b76b7d518185581bc245
 com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.144		dbcb48c88b6e616d25bcf383057a0d5a04550ae6
 com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.145		ed7dfd37d1f98cd466efe08437e0dc82548c2eab
 com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.146		4eeacdacca7ac0afd1d5d8be6b0caeb53bd6e328
+com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.147		82fccb4410594056a87f86a72ba251b8343f238b
+com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.148		22166bac0398eb2f28fabb0e2dafe5911107356c
 com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.15		029d369fe18baba4b37eb9eae091f62c3a0407e3
 com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.16		9aa24ba17ab5b700fe65e4a8887109a153b139c4
 com.huaweicloud.sdk	huaweicloud-sdk-cfw	3.1.17		dc7b5e7d4b19e406eac5ca28ae7268b4e30a73fa
@@ -351,6 +354,7 @@ com.oracle.database.jdbc	ojdbc8	19.23.0.0		f1789a271868d5d04d148db47161905dff2a2
 com.oracle.database.jdbc	ojdbc8	19.24.0.0		f46bbf6c42210736236e81bb18a955e3e1aa9a88
 com.oracle.database.jdbc	ojdbc8	19.25.0.0		d82419ba52c6064a40e211cce991e6e778249912
 com.oracle.database.jdbc	ojdbc8	19.26.0.0		c4e79028b6b15e76b4a626cbea4741e7fb528521
+com.oracle.database.jdbc	ojdbc8	19.27.0.0		826f47e565202b5b46fe5d7d3b0eb74bcfac356e
 com.oracle.database.jdbc	ojdbc8	19.3.0.0		967c0b1a2d5b1435324de34a9b8018d294f8f47b
 com.oracle.database.jdbc	ojdbc8	19.6.0.0		f385f5a085bca626491baf0488fc865a43f6b409
 com.oracle.database.jdbc	ojdbc8	19.7.0.0		4992bc772912be182084b560c6719bd8b12d1a55
@@ -380,6 +384,7 @@ com.oracle.database.jdbc	ojdbc8	23.4.0.24.05		7b80db96f6e8d5d26a7a13bcf282a5433e
 com.oracle.database.jdbc	ojdbc8	23.5.0.24.07		00d56a1420cc0e93b141754b33d4f07cf670d026
 com.oracle.database.jdbc	ojdbc8	23.6.0.24.10		885e864eec92aee2b84cc4b5899669062b6c0e7d
 com.oracle.database.jdbc	ojdbc8	23.7.0.25.01		65cc9902e2d3f270908f7e45b9570079988d1b5f
+com.oracle.database.jdbc	ojdbc8	23.8.0.25.04		ccb2cb450ba1bc41a6373f2a50357b24c0eb6e49
 com.rightcom	rightpoll-iosarm64	1.0.0		N/A
 com.rightcom	rightpoll-iosarm64	1.0.0	metadata	68db3ce982be7f50181085436773efa01d2337a4
 com.rightcom	rightpoll-iosarm64	1.0.1		N/A
@@ -478,6 +483,7 @@ io.camunda.connector	connectors-e2e-test-kafka	8.4.13		d98ab072d04501303d7d4f9f3
 io.camunda.connector	connectors-e2e-test-kafka	8.4.15		802df3cdc675d97b9df4f3668e4349aafdc05b9f
 io.camunda.connector	connectors-e2e-test-kafka	8.4.16		b05e41023d063f0e97b8e2de897b88a0f94d8a97
 io.camunda.connector	connectors-e2e-test-kafka	8.4.18		169ad4369e7ce4c9078e43f13ea708a16cc276bf
+io.camunda.connector	connectors-e2e-test-kafka	8.4.19		b22eb476dfada3f41c24c7f8e6ab696895b2af3f
 io.camunda.connector	connectors-e2e-test-kafka	8.4.2		6fab49ef33332e9a8755cce6c2b08f5b1d967240
 io.camunda.connector	connectors-e2e-test-kafka	8.4.3		00385dd6ad4d20dcacb0a5e54c75098d930448b4
 io.camunda.connector	connectors-e2e-test-kafka	8.4.4		4d1e5998e1cd4f5a03fc2c12a70562fcd4ed147e
@@ -511,6 +517,7 @@ io.camunda.connector	connectors-e2e-test-kafka	8.6.0-alpha5		a3c76b97247d4aa69dc
 io.camunda.connector	connectors-e2e-test-kafka	8.6.1		26c828f0db9da79fef98505b1fc2ea12619d6ec7
 io.camunda.connector	connectors-e2e-test-kafka	8.6.10		49cdce59fc3d786bc9fa8b6e3460f0880f75a773
 io.camunda.connector	connectors-e2e-test-kafka	8.6.11		973fab737dcb4f9eaa7b1da1d7fbcba31f44b21d
+io.camunda.connector	connectors-e2e-test-kafka	8.6.12		34558a89bdf35fc9567b07583f014c817b007006
 io.camunda.connector	connectors-e2e-test-kafka	8.6.2		b2e38f0681922672b6faf296222f5f2da6d84a66
 io.camunda.connector	connectors-e2e-test-kafka	8.6.5		8859fe440eeb4c721c2192127bf1427a3e30232d
 io.camunda.connector	connectors-e2e-test-kafka	8.6.6		fd94ea138be674a01de1c5152c7864f1670a0f96
@@ -522,8 +529,12 @@ io.camunda.connector	connectors-e2e-test-kafka	8.7.0-alpha3.1		bc33ed6291e43bec9
 io.camunda.connector	connectors-e2e-test-kafka	8.7.0-alpha3.2		343f443d22476189147854f6a3bf72eb13d40c78
 io.camunda.connector	connectors-e2e-test-kafka	8.7.0-alpha3.3		0b27f795d12bf3cf20fbd1a30a7c69a81e9face4
 io.camunda.connector	connectors-e2e-test-kafka	8.7.0-alpha4		bfc6eabd835715b6d2baef6443554ab166d3bf0e
+io.camunda.connector	connectors-e2e-test-kafka	8.7.1		0233036770a006756d7852469e08c947adbd44f7
+io.camunda.connector	connectors-e2e-test-kafka	8.7.2		b97ff6ac08b0c65590dfe0db479f4d99939264c0
 io.camunda.connector	connectors-e2e-test-kafka	8.8.0-alpha3		dbb28aed6660c7c2790f7a626d2ce4e800327a2f
 io.camunda.connector	connectors-e2e-test-kafka	8.8.0-alpha3.1		05f2666bc428f4cb85986753cf82dff0751b38f6
+io.camunda.connector	connectors-e2e-test-kafka	8.8.0-alpha4		2be4e0f9617728722b9b15a537833e85bc269128
+io.camunda.connector	connectors-e2e-test-kafka	8.8.0-alpha4.1		3f8a6a6040222237f3506e067c48faef42163db4
 io.fluidsonic.dataloader	fluid-dataloader-watchossimulatorarm64	0.2.0		N/A
 io.fluidsonic.dataloader	fluid-dataloader-watchossimulatorarm64	0.2.0	metadata	0fc2ed702e67669c9e36f1fa7dbeb682c7adde0f
 io.gitee.open-nw	nw-spring-boot-starter-session	2023.1.0		de66e13428391f9daaef885d9901e8486a03f0e6
@@ -572,6 +583,7 @@ io.github.iltotore	iron_sjs1_3	2.6.0		a1c97f55aba9feefac2719529462530ccf484086
 io.github.iltotore	iron_sjs1_3	2.6.0-RC1		870f8bde78175cad7fd057bdf55c9b866c9d1fb3
 io.github.iltotore	iron_sjs1_3	3.0.0		4d690781216c3189e297aedfcae7db042e4e2163
 io.github.iltotore	iron_sjs1_3	3.0.0-RC1		e1b1e64139b1a8ad6bd80c0959d194c53798dd07
+io.github.iltotore	iron_sjs1_3	3.0.1		aa92e571dc2641c2dcee6250272c25f6e3e9b897
 io.github.irgaly.kfswatch	kfswatch-macosArm64	0.9.0		N/A
 io.github.irgaly.kfswatch	kfswatch-macosArm64	0.9.0	metadata	59ef19bbc34444fed7da269985f4def8751dd622
 io.github.irgaly.kfswatch	kfswatch-macosArm64	1.0.0		N/A
@@ -645,6 +657,7 @@ io.github.sebaslogen	resaca-iosarm64	4.4.3		N/A
 io.github.sebaslogen	resaca-iosarm64	4.4.3	metadata	ade78b2f88d7eae6a8bf277637fb7401d140eafc
 io.github.sebaslogen	resaca-iosarm64	4.4.4		N/A
 io.github.sebaslogen	resaca-iosarm64	4.4.4	metadata	74437fb3aab391c90104e34fc2d82a1832d75592
+io.github.sebaslogen	resaca-iosarm64	4.4.5	metadata	f868d418db5a4384b53907eae73e776cfe8279a9
 io.github.spah1879	hwp-doclet	1.0.0		008b4c719ab8efca2461c54d3671513a45d9d09d
 io.github.spah1879	hwp-doclet	1.1.0		8a07d617dcbbc3697d948cf0cd1374f3d52e5f26
 io.github.zhuto666	wx-pay-spring-boot-starter-parent	1.0		N/A
@@ -730,6 +743,8 @@ io.ktor	ktor-server-forwarded-header-macosx64	3.1.1		5761e5e690f92ccaec5c802bae1
 io.ktor	ktor-server-forwarded-header-macosx64	3.1.1	metadata	123ae3bf55d2aa6712784e7cf0de2cbaba329e8a
 io.ktor	ktor-server-forwarded-header-macosx64	3.1.2		76c821031793c3fcc918c7b3fabce6a72140b33b
 io.ktor	ktor-server-forwarded-header-macosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-forwarded-header-macosx64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-forwarded-header-macosx64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.ktor	ktor-server-test-suites-watchosx64	2.0.0		b0b76ef99da30e2e95580334f5b634bed1cee359
 io.ktor	ktor-server-test-suites-watchosx64	2.0.0	metadata	811364ca866b2c915a5c18a7de9c0eddb85acf92
 io.ktor	ktor-server-test-suites-watchosx64	2.0.0-beta-1		dc33bdbca005aaf6f4d1073992520dc394936345
@@ -1377,6 +1392,8 @@ net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.15.0		N/A
 net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.15.0	metadata	f78a4dbcb021a3f3d694b000034f18e4777151d8
 net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.15.1		N/A
 net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.15.1	metadata	782e5d9753c49b1b789a11d6fb5e9a1261a33c02
+net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.15.2	metadata	6ad29faf73dce2750e6ab8b2798e6b20f04056d2
+net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.15.3	metadata	d3c1feb081839aca560fd2e5fd935c7537da4d2b
 net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.2.0		N/A
 net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.2.0	metadata	8d6af8f6b742b7197801c4e16b7fb5a4bad934b1
 net.folivo	trixnity-applicationserviceapi-model-iosarm64	4.2.1		N/A
@@ -1984,12 +2001,14 @@ org.mycore.mir	mir-common-resources	2021.02		40f1adf953d728e3ec9d1af29e43c9a8cc8
 org.mycore.mir	mir-common-resources	2021.05		a17f84e59eeb510d4952f79baa359d50db99327f
 org.mycore.mir	mir-common-resources	2021.06.0		ac046d8213cb3b07c9401c5884b44cbabe5eea1b
 org.mycore.mir	mir-common-resources	2021.06.1		9ba7a094a798d7db993c37bcec4c74d2435bce38
+org.mycore.mir	mir-common-resources	2021.06.2		7c21cc8848beeea22a463c7bd4f9e04e62c0c57a
 org.mycore.mir	mir-common-resources	2021.08		62d664216f66987e2eea4505967342f8696d55f2
 org.mycore.mir	mir-common-resources	2021.11		d713b38c76c9ec93e6bba6411d909a9a8165c64b
 org.mycore.mir	mir-common-resources	2022.05		bd6e610bb97be55b33d26dd1d327e3bdb0723c14
 org.mycore.mir	mir-common-resources	2022.06.0		0b32b165f17c96ae9f0fc4a351f79959d087d0db
 org.mycore.mir	mir-common-resources	2022.06.1		3bb0c918ea8e869ad2c17f71886941847abf37f4
 org.mycore.mir	mir-common-resources	2022.06.2		3071fe1d4eb78ca6a046a857266c6e674c341b36
+org.mycore.mir	mir-common-resources	2022.06.3		808daa87eeee60984ac1bc89feb681b03a3e6219
 org.mycore.mir	mir-common-resources	2022.08		fbecac2403eab15ede62d66cde11bf805c5104c7
 org.mycore.mir	mir-common-resources	2023.05		c98f29fd96e212784b98c63ece05981a8cce33ca
 org.mycore.mir	mir-common-resources	2023.06.0		63cea88b6fb7505ca83401a7a9157916abae6b56

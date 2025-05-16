@@ -495,6 +495,11 @@ io.consensys.protocols	tuweni-bytes	25.2.0		1565b0f0246e2c4d8cf90119a023f96854fc
 io.consensys.protocols	tuweni-bytes	25.2.0-RC1		554085e47d8cbd5998a7e8009954b94adade717b
 io.consensys.protocols	tuweni-bytes	25.2.0-RC2		3822790b3ebcb928389dd8fbddb90862e7bf35a3
 io.consensys.protocols	tuweni-bytes	25.2.0-RC3		099e5b090481952f32e5658cc880fdeed126a1f0
+io.crashbox	sbt-gpg_2.12_1.0	0.1.3		633b49c415d22f9f27400d038017aef83d81a002
+io.crashbox	sbt-gpg_2.12_1.0	0.1.5		2d8940aeae0f063fc51ccf8f33f36d4496a09546
+io.crashbox	sbt-gpg_2.12_1.0	0.1.6		e768f6b026d3328ff53e0a7b1a25741b33e8b7ec
+io.crashbox	sbt-gpg_2.12_1.0	0.2.0		aff64cd99e55ac02d33c075a4512671b28f03b4b
+io.crashbox	sbt-gpg_2.12_1.0	0.2.1		45d60cd693131c6a33ac467968dda4c5840a6da4
 io.cyclops	io.cyclops	0.1.0		ebea17739b337c3829f65ccbebdc3ff082e6ce5f
 io.github.argonaut-io	argonaut-scalaz_sjs1_2.13	6.3.11		323c4cfcbfc2b9409e9b8ca5240bbf9e7253a931
 io.github.givimad	piper-jni	1.2.0-0bb4cb9		3fe7e21a76ae8f8ad130cf8ccdb0685abcc4b339
@@ -599,10 +604,12 @@ io.helidon.integrations.vault.secrets	helidon-integrations-vault-secrets-kv1	4.1
 io.helidon.integrations.vault.secrets	helidon-integrations-vault-secrets-kv1	4.1.7		0d22741c9027060f0888d06f9ce440771dd53788
 io.helidon.integrations.vault.secrets	helidon-integrations-vault-secrets-kv1	4.2.0		b2c4265c526e59b6a95c9ac3782aa3cd9010bf21
 io.helidon.integrations.vault.secrets	helidon-integrations-vault-secrets-kv1	4.2.1		877677b7457e2024adf839bb19230010d4479e58
+io.helidon.integrations.vault.secrets	helidon-integrations-vault-secrets-kv1	4.2.2		4b2decebec831081304756461e47a9a72645c06a
 io.kotest	kotest-property-arrow-iossimulatorarm64	6.0.0.M2		N/A
 io.kotest	kotest-property-arrow-iossimulatorarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-arrow-iossimulatorarm64	6.0.0.M3		N/A
 io.kotest	kotest-property-arrow-iossimulatorarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-property-arrow-iossimulatorarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.qtjambi	qtjambi-quick-native-linux-arm64	6.7.3		ef5e387effdb0c927fc70a536b8dbf66d51980cc
 io.regadas	coursier-apps	0.1.0		2518cc82efb74ece7c6666eb859ec0525b86df6d
 io.symcpe.hendrix	hendrix-api	0.0.18		ca0680e1725c2b9e69149e08110b79ce86b68c27
@@ -723,6 +730,7 @@ org.apache.gora	gora-shims-hadoop1	0.5		55937e475520f63d3b2909dca4bd7869f15b2dd9
 org.apache.gora	gora-shims-hadoop1	0.6		287c3465a2fbd060b60c26db5d480b9a0fcbdbbb
 org.apache.gora	gora-shims-hadoop1	0.6.1		8fbd80179e3785084e83ccb29b64734a43dd283c
 org.apache.gravitino	gravitino-catalog-jdbc-oceanbase	0.8.0-incubating		bdcbbbe23faf804846ecd90c679614b301624cfe
+org.apache.gravitino	gravitino-catalog-jdbc-oceanbase	0.9.0-incubating		3319d7138dc9ac862859f3d563eabec5250f7b8b
 org.apache.isis.viewer	isis-viewer-restfulobjects-testing	2.0.0-M4		95d34a0367a17151fc7a0dc3b0b7015a2ab967c7
 org.apache.isis.viewer	isis-viewer-restfulobjects-testing	2.0.0-M5		7c0dbb4b7113dfbbca2d355c79659341c988b2f5
 org.apache.isis.viewer	isis-viewer-restfulobjects-testing	2.0.0-M6		39945f0ad3b03c26c46490e302bb00c3f6e03609
@@ -2613,6 +2621,10 @@ tz.co.asoft	neat-formatting-tvosarm64	3.0.8		N/A
 tz.co.asoft	neat-formatting-tvosarm64	3.0.8	metadata	7ed5198b97ac9e1ba8f296a04bfb568d642e310a
 tz.co.asoft	neat-formatting-tvosarm64	3.0.9		N/A
 tz.co.asoft	neat-formatting-tvosarm64	3.0.9	metadata	f5fb43b3968768c1c8f6ed3b7f5d88997d5848b1
+tz.co.asoft	neat-formatting-tvosarm64	3.1.0	metadata	be4ec02b4bf3205230d93a2fe5109bce975d3f24
+tz.co.asoft	neat-formatting-tvosarm64	3.1.1	metadata	c0420cc07ef2489eadeefa518e5b986d114a36b7
+tz.co.asoft	neat-formatting-tvosarm64	3.1.11	metadata	74a16a1da368709d3baed8bd384025d7871978e0
+tz.co.asoft	neat-formatting-tvosarm64	3.1.12	metadata	46988d3c9a9781b8d867d4180e698f036b25b187
 xyz.block.ftl	ftl-java-runtime	0.368.0		4158d3e0fcbf787191759bdf815edbe98f5730cf
 xyz.block.ftl	ftl-java-runtime	0.368.1		6af1e6c797b82ce79d8d0abc258c52443b456e0d
 xyz.block.ftl	ftl-java-runtime	0.369.0		938cef14ff7075afbb916306be8160f469edbb11
@@ -2832,6 +2844,44 @@ xyz.block.ftl	ftl-java-runtime	0.479.1		670353a4d0d5df16ce4ae77b7a88138cd18e4e67
 xyz.block.ftl	ftl-java-runtime	0.480.0		6d3b371813516c388bb75d41907a73a94daa3766
 xyz.block.ftl	ftl-java-runtime	0.480.1		1778d8e2764068965f8a3aa8ed75ee33728403b3
 xyz.block.ftl	ftl-java-runtime	0.480.2		633b464b442ae8b3e271870001a50e929208a053
+xyz.block.ftl	ftl-java-runtime	0.481.0		f527e45affaddaf2bba79e9034f8beda5d404ad7
+xyz.block.ftl	ftl-java-runtime	0.482.0		b4dad039a614c5bc2a86c276e1fd677b772be8a3
+xyz.block.ftl	ftl-java-runtime	0.482.1		af29547e36681610e6bc453f415affbd0df9beac
+xyz.block.ftl	ftl-java-runtime	0.483.0		0a24fb66c7df991ae3eee05f7c6895b020b845ae
+xyz.block.ftl	ftl-java-runtime	0.484.0		e16842d68177d34f55a9b41cca33419c48d22bb6
+xyz.block.ftl	ftl-java-runtime	0.484.1		553583344d45061d31116bf6b9173db6521e0874
+xyz.block.ftl	ftl-java-runtime	0.485.0		f7fd099a84075c4815fde271ec2be52bd10a4c19
+xyz.block.ftl	ftl-java-runtime	0.486.0		503e6cec1b97546268c90989dcaaebf59dee44a7
+xyz.block.ftl	ftl-java-runtime	0.487.0		79af7b2a702cdec4142009dac40c6c98f6a4dc2e
+xyz.block.ftl	ftl-java-runtime	0.487.1		664e9a9547b6dc16b4265712fee09dfe09505ebf
+xyz.block.ftl	ftl-java-runtime	0.487.2		381aec63902326de90eed31ff4a98e2906b29290
+xyz.block.ftl	ftl-java-runtime	0.487.3		0f48278bf59bd3f702e7ffb963c75d53570ed006
+xyz.block.ftl	ftl-java-runtime	0.487.4		cf20b5a75d277484be53bd1794f2aeb4aee7fe0b
+xyz.block.ftl	ftl-java-runtime	0.488.0		2639ce0acd725b488dc3423a23be0fab9b5667b2
+xyz.block.ftl	ftl-java-runtime	0.488.1		60818c757e51fc525a36cfdbf8092dec22c1839b
+xyz.block.ftl	ftl-java-runtime	0.489.0		046854c9f190156e44ca6ab2bad6cbaa8e714651
+xyz.block.ftl	ftl-java-runtime	0.489.1		6dcd66c7cf17db871e26544567f4afa98160651e
+xyz.block.ftl	ftl-java-runtime	0.489.2		29a5366e3d740785f03ba6be113f99d3b482ae12
+xyz.block.ftl	ftl-java-runtime	0.489.3		350f9a8250d784acce6914d81c44d9fc640272da
+xyz.block.ftl	ftl-java-runtime	0.490.0		e727776fe005cb41935db8a43cebb257578fb06d
+xyz.block.ftl	ftl-java-runtime	0.490.1		4aedc371092ad1345e92fc8268bf7891f26f2ae3
+xyz.block.ftl	ftl-java-runtime	0.491.0		07fcc7abcc79398835a05a09de83ac0a19ecac1d
+xyz.block.ftl	ftl-java-runtime	0.491.1		0ad56620217c0fe5d1ffe53bb9bae9d1fd8c3aed
+xyz.block.ftl	ftl-java-runtime	0.491.2		8f3332be014ad135f6573371953634b707f0a880
+xyz.block.ftl	ftl-java-runtime	0.492.0		faedf31192716ae8156d33cd9cc6876fdf9b13a2
+xyz.block.ftl	ftl-java-runtime	0.492.1		ff4cbd2dda757d1ab004f317266050613ee632ee
+xyz.block.ftl	ftl-java-runtime	0.492.2		f63154b5dfee5567dcd3b5b89e7d10c2f21ffde1
+xyz.block.ftl	ftl-java-runtime	0.493.0		069421c96dfd474ddc93489037a7a0c2fafbc142
+xyz.block.ftl	ftl-java-runtime	0.493.1		d9f965a6bc0aff01c628dedfb46d5b6fa8130d84
+xyz.block.ftl	ftl-java-runtime	0.493.2		cbd832d6d57c3e13847276dad4dd808c17ce3940
+xyz.block.ftl	ftl-java-runtime	0.493.3		1eb667abcfcdcb87a004786e99ac4f947a7e0671
+xyz.block.ftl	ftl-java-runtime	0.493.4		c9f1d96abfdaef170ec1e51890e7da71b69788d0
+xyz.block.ftl	ftl-java-runtime	0.493.5		11e80b80c197e1ceedac9c9a7a2bbca4a3cea7af
+xyz.block.ftl	ftl-java-runtime	0.494.0		2d13b2bf9f031d481d7eaa997ee8bed1ad262b7d
+xyz.block.ftl	ftl-java-runtime	0.494.1		09b6b4006537ecbccbb5c0cc641e60f0b398ae8e
+xyz.block.ftl	ftl-java-runtime	0.494.2		a8c572aa1697043901b6de197499948b141861eb
+xyz.block.ftl	ftl-java-runtime	0.494.3		ec34e1990976b4adfe7033679ec631b4bafd7ca4
+xyz.block.ftl	ftl-java-runtime	0.494.4		7ac3582a0a95f1a7e896dcc8811efe0c54619637
 xyz.block.ftl	ftl-java-runtime	jvm-publish		91abe3057f90786649437d856ee2d2f27c627701
 xyz.block.ftl	ftl-java-runtime	main		720f4908f8d419d1b792b7da6ff759b58b0e51b1
 xyz.block.ftl	ftl-java-runtime	v0.361.0		47a120fe73b612fd16edf89350e2bc30cebfd89a

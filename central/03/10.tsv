@@ -246,6 +246,9 @@ com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.51.0		d1e085460
 com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.52.0		1e660cc940663a2e958d0adab1d8a9e16db1aa26
 com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.53.0		0c0f8dfe6de9aa3c575b6ee7632a4720d77dd03b
 com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.54.0		97a0c534ee12814e623573f45afb8ef15402f6ab
+com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.55.0		2f68ed0a72b5d0ef4403bb8f0e41de660778fc63
+com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.56.0		853325d1c796102c79a04c6999773155ec1ab53f
+com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.57.0		dc47ca3af57c14f845f2c5ec7d7207fc85be248b
 com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.6.0		7dc7e346e95ca09d7fcb2743d013064303c0fa4d
 com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.7.0		bf83b71f562afef4eb4175c2574cb46b885839b0
 com.google.maps.api.grpc	grpc-google-maps-addressvalidation-v1	0.8.0		22e20a5bb3b0a7e544850ae40343f903fbb35fd8
@@ -493,6 +496,7 @@ dev.continuously.libretto	libretto-examples_3	0.3.1		4ddaf191026028258b8411eee9b
 dev.continuously.libretto	libretto-examples_3	0.3.2		cb41273330d70b3ff8c83dd26b6ef8bcc75d69f8
 dev.continuously.libretto	libretto-examples_3	0.3.3		0bb6760288187ea72f743124a7a03b7049393646
 dev.continuously.libretto	libretto-examples_3	0.3.4		06da74d80fcf3fefc6a0141eb65d61fdfa0d12ab
+dev.continuously.libretto	libretto-examples_3	0.3.5		2153762382a8f6e96fe3bfd4c096cd7d29a4c34f
 dev.zio	zio-aws-cloudhsm_2.12	5.17.102.7		ab1117ae637d2867e82ed16f3512d513278ba30c
 dev.zio	zio-aws-cloudhsm_2.12	5.17.102.8		55e6fa8ce0fb67926fcdfd84978b08d57031cef0
 dev.zio	zio-aws-cloudhsm_2.12	5.17.102.9		f6bf272335a4f850529221970d2ade6baf3c4b34
@@ -811,6 +815,7 @@ dev.zio	zio-aws-cloudhsm_2.12	7.31.27.1		f9a182b185e23cc160b1e6a48131ce5c8f3d3b9
 dev.zio	zio-aws-cloudhsm_2.12	7.31.28.1		b2e3a18c3b33921e979ae759d7dafc4b7eeb21d8
 dev.zio	zio-aws-cloudhsm_2.12	7.31.3.1		515c8a7230e61a1a6224626e1252aa8a712dab97
 dev.zio	zio-aws-cloudhsm_2.12	7.31.30.1		3a3363e558c8769fe4e52c03bca4b0c5585c9713
+dev.zio	zio-aws-cloudhsm_2.12	7.31.30.2		ac5956c535c41fc77ad9aa16c767c00ca18fc931
 dev.zio	zio-aws-cloudhsm_2.12	7.31.4.1		2fcf7d85f94eeafc31db9b8fe81c030197e61391
 dev.zio	zio-aws-cloudhsm_2.12	7.31.6.1		b7b2f6edd0a19df6b7fc6da17dc1f28411379f68
 dev.zio	zio-aws-cloudhsm_2.12	7.31.6.2		5a68b7c65b42edbfed5cf78f605b0bbfdfcf6b94
@@ -1136,6 +1141,7 @@ dev.zio	zio-aws-transcribestreaming_3	7.31.27.1		541175451b73d85bd19b631ce57ad59
 dev.zio	zio-aws-transcribestreaming_3	7.31.28.1		6501bdc899c9e38bf8573a95e64611af4eb6ded5
 dev.zio	zio-aws-transcribestreaming_3	7.31.3.1		57036e36836b6168612ee592c0c953b6f4112cd7
 dev.zio	zio-aws-transcribestreaming_3	7.31.30.1		b343248cccc5a77d04ef1471f6357b470b78c4b8
+dev.zio	zio-aws-transcribestreaming_3	7.31.30.2		3ae5f5e44479e184fb340c979c5ab6998f09e395
 dev.zio	zio-aws-transcribestreaming_3	7.31.4.1		79f4d28b00d245648ab338cad94711822799511b
 dev.zio	zio-aws-transcribestreaming_3	7.31.6.1		04be925fc0d6a917251aee1d0be92cf7bbd91d24
 dev.zio	zio-aws-transcribestreaming_3	7.31.6.2		f03e8321782fdecfa05ed0086b924de7e811b512
@@ -3466,7 +3472,18 @@ software.amazon.awssdk	kinesisvideomedia	2.31.30		2656a1abad2a7d64133b75ae1da3e8
 software.amazon.awssdk	kinesisvideomedia	2.31.31		6d0653d6c40764d378a9e2566cf1bfd659c76cb3
 software.amazon.awssdk	kinesisvideomedia	2.31.32		1ec149e0b91fa7d5b499586f11e6d5d2dca67831
 software.amazon.awssdk	kinesisvideomedia	2.31.33		67bf1405a446a70772af843b9d1d4d297029b55b
+software.amazon.awssdk	kinesisvideomedia	2.31.34		d231c57650a5d13cba4204cbeb531e0ed056eb2b
+software.amazon.awssdk	kinesisvideomedia	2.31.35		87c5005d1627f650c6b6e1a3e2c7904dcdf72ebb
+software.amazon.awssdk	kinesisvideomedia	2.31.36		15cf29f6296771e57cb86964ea82df543eb62cd9
+software.amazon.awssdk	kinesisvideomedia	2.31.37		405d2d33684f6d4308aecd3d37170aac0f48df6d
+software.amazon.awssdk	kinesisvideomedia	2.31.38		2556abddc7b8102cc8278b268839c78944b4703f
+software.amazon.awssdk	kinesisvideomedia	2.31.39		a81f35801c65ead59584537a931af330cfa48341
 software.amazon.awssdk	kinesisvideomedia	2.31.4		5f9952c82d2095347f64b247b51cde7ffcb5195a
+software.amazon.awssdk	kinesisvideomedia	2.31.40		0c55eda5667e4fa39b78c42e154188181005a055
+software.amazon.awssdk	kinesisvideomedia	2.31.41		9e47aef5956fc4a85af2091228d636631cd7bf3f
+software.amazon.awssdk	kinesisvideomedia	2.31.42		bdfe96fe10d1a87f1c17d84bcb5d2bb6c0df9c0e
+software.amazon.awssdk	kinesisvideomedia	2.31.43		1cb9e3e7728f153edcecc66394373139766d65d9
+software.amazon.awssdk	kinesisvideomedia	2.31.44		991792e7eebd8b34a3a627b1ef5b5345ec70523b
 software.amazon.awssdk	kinesisvideomedia	2.31.5		cd7da79dcf64dd4ddf21e9f81768d4af64b1d5d5
 software.amazon.awssdk	kinesisvideomedia	2.31.6		6e06f2ecb1dd2df563e8150884d2985a13bcde29
 software.amazon.awssdk	kinesisvideomedia	2.31.7		44871a5928bcc0cc8330ffda03065189d3bf325c

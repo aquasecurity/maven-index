@@ -531,6 +531,7 @@ com.linkedin.coral	coral-hive	2.2.5		52bbdf74bbc8cc62749b09080b2f5ec266387e06
 com.linkedin.coral	coral-hive	2.2.50		30edf52b586386f8b6475426c8cab40438fe036a
 com.linkedin.coral	coral-hive	2.2.51		158a9ef958d9f75e7e6eef7a79d667723370c28d
 com.linkedin.coral	coral-hive	2.2.52		0dd53918b02157c1a82a891c1492ec3357509945
+com.linkedin.coral	coral-hive	2.2.53		2d2effafc9396a1fbd33d8fe2e36aee57608da03
 com.linkedin.coral	coral-hive	2.2.6		7c70f5028a6fd16babff051f5bbeeb2c9f8f1809
 com.linkedin.coral	coral-hive	2.2.7		4eacd137bb9bb3cc62910621767afee916938c72
 com.linkedin.coral	coral-hive	2.2.8		ebbffa3c6d4fb7c123f11c74d401e91200f099ce
@@ -1149,6 +1150,7 @@ io.ktor	ktor-server-default-headers-linuxx64	3.0.3		29690be6c1cc18547c2fa78a58a0
 io.ktor	ktor-server-default-headers-linuxx64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-server-default-headers-linuxx64	3.1.1		482ab5f3c87fe74b6fe2f74562430124b26ffa8b
 io.ktor	ktor-server-default-headers-linuxx64	3.1.2		c7ea590251306e7d85065e7df32befb8f97b0096
+io.ktor	ktor-server-default-headers-linuxx64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.monix	monix-kafka-10_2.11	0.10		66f57d304563e2a438c3b8e51a4ad58b984e7ef3
 io.monix	monix-kafka-10_2.11	0.11		523c2bf1a6131206520f963285c48f2a4ab83cea
 io.monix	monix-kafka-10_2.11	0.12		61a8bfb95508bf59c9403d59c5ce4b41b20eb2ec
@@ -1359,6 +1361,7 @@ org.apache.camel.quarkus	camel-quarkus-cm-sms	3.2.1		da64f6268ff3f403881f55814f6
 org.apache.camel.quarkus	camel-quarkus-cm-sms	3.2.2		40953d255666e684fc787d59aac4251ab2104b1e
 org.apache.camel.quarkus	camel-quarkus-cm-sms	3.2.3		c89f4dd07f1ca7b93891fb6ce497ef3ec797b129
 org.apache.camel.quarkus	camel-quarkus-cm-sms	3.20.0		95d74d829c3cb1a0e36b4ed97d3af793beb802e3
+org.apache.camel.quarkus	camel-quarkus-cm-sms	3.20.1		e0f30ae2783c94ca84aad33ab3b5475c019d76bc
 org.apache.camel.quarkus	camel-quarkus-cm-sms	3.22.0		7fc72e35b8eee5c04f17c06807cdc2b1b2640c7a
 org.apache.camel.quarkus	camel-quarkus-cm-sms	3.4.0		45575a56922d53dca0b64ca8f9a8738b46f2c919
 org.apache.camel.quarkus	camel-quarkus-cm-sms	3.5.0		3405111a1980c90c96c4b347d6b0977b8063768c
@@ -1456,6 +1459,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.quickfix	1.6.4_1		b7
 org.apache.woden	woden	1.0M10		N/A
 org.apache.woden	woden	1.0M8		N/A
 org.apache.woden	woden	1.0M9		N/A
+org.apereo.cas.support.cas-server-support-memcached-ticket-registry	5.0.0.RC2	support		e6411a44ba3860970b4f4c1669b546658d59d0b5
 org.asynchttpclient	async-http-client-extras-registry	2.0.0		a412f864984241e8fc173736ef130e41c2a856d7
 org.asynchttpclient	async-http-client-extras-registry	2.0.0-RC1		79cdc90e92e9f80cd5a67ac153fa505b8d95f6f5
 org.asynchttpclient	async-http-client-extras-registry	2.0.0-RC10		2b1a25a34d68e5a5bf31dd6845d196215df43736
@@ -1657,6 +1661,8 @@ org.eclipse.jetty	jetty-http-tools	12.0.17		79a133917be1cf69999f678aaf60e73b65e0
 org.eclipse.jetty	jetty-http-tools	12.0.18		42439496a1e533fd1c2a26462e8dfdca0b2d7f26
 org.eclipse.jetty	jetty-http-tools	12.0.19		1745c2c4410a45a63382ce78dcbfd7cec805f283
 org.eclipse.jetty	jetty-http-tools	12.0.2		99806ae9772e8d2608aadb64b633c37df69d3de9
+org.eclipse.jetty	jetty-http-tools	12.0.20		6f028c2685c60b830cd28177faa833485a2c1648
+org.eclipse.jetty	jetty-http-tools	12.0.21		4fd56a5f4b2e01a5de64bf0932e938452d0e7e6b
 org.eclipse.jetty	jetty-http-tools	12.0.3		19fcee852d2bd20caeaca32685e78b9f305e1380
 org.eclipse.jetty	jetty-http-tools	12.0.4		671533f2e0399e3eec48594dae1764e5672315d5
 org.eclipse.jetty	jetty-http-tools	12.0.5		b346d2ef65e279c9f65c4101f68e9b569478d678
@@ -1871,6 +1877,7 @@ org.finos.legend.depot	legend-depot-core-data-api	2.6.1		ee6795b4ce79efb1db693b6
 org.finos.legend.depot	legend-depot-core-data-api	2.6.2		b3e46bb7dae82e6ea615ceb8acb66a906638a9c4
 org.finos.legend.depot	legend-depot-core-data-api	2.60.0		1059a1c654ab16dcc2e2afdd50e4425342e25ed4
 org.finos.legend.depot	legend-depot-core-data-api	2.61.0		d886328dce44059eb1e0bbfd58a489cabbe1eb3f
+org.finos.legend.depot	legend-depot-core-data-api	2.62.0		c4158f505d45a2feacf776287bc41ceade0f9f8c
 org.finos.legend.depot	legend-depot-core-data-api	2.7.0		6a8bec4e39eedefba4c0694a7108978050cbf669
 org.finos.legend.depot	legend-depot-core-data-api	2.8.0		5291ffeb5693bc5a754a82276a7b3346a9d6caf0
 org.finos.legend.depot	legend-depot-core-data-api	2.9.0		85224cf5d8838cc9a150083ae8435e0abc6fdcc8

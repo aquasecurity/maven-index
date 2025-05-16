@@ -339,6 +339,7 @@ com.outr	spice-delta_2.13	0.1.6		41586aa40d5a627d7ea49089cdd04e203bb21fb8
 com.outr	spice-delta_2.13	0.1.7		592af9513f27f18b8a8eef1eaaba09f218903912
 com.outr	spice-delta_2.13	0.1.8		97f51442e3da06a25fb4f8623aaedd495584108a
 com.outr	spice-delta_2.13	0.1.9		3564ad1f1a2d2cb94675987a1b35d8ce8a5fefec
+com.outr	spice-delta_2.13	0.10.0		2a645f86cf7cd2988871b19de455061a5b82c805
 com.outr	spice-delta_2.13	0.2.0		a203bdd9e3e4815def53cee771fbd280d525d3d4
 com.outr	spice-delta_2.13	0.3.0		94385393b779ea0890e5011424b4bea6c71e0a11
 com.outr	spice-delta_2.13	0.4.0		d0e39616a0df28512d0b98d3fbcfb6b3e26c3980
@@ -568,6 +569,7 @@ dev.opensavvy.ktmongo	driver-sync	0.12.1		cb783320622a27f2a004cef4630e171a8fc8d9
 dev.opensavvy.ktmongo	driver-sync	0.13.0		d1c882fee8c3a50c179082e54dca4e23a99df603
 dev.opensavvy.ktmongo	driver-sync	0.14.0		d1c882fee8c3a50c179082e54dca4e23a99df603
 dev.opensavvy.ktmongo	driver-sync	0.15.0		d1c882fee8c3a50c179082e54dca4e23a99df603
+dev.opensavvy.ktmongo	driver-sync	0.16.0		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 dev.opensavvy.ktmongo	driver-sync	0.2.0		81d7820888bebc7aa5392b21f2cbfcc41232234b
 dev.opensavvy.ktmongo	driver-sync	0.3.0		8bc4f82abfb157e95adc8576ef976743eb01fa27
 dev.opensavvy.ktmongo	driver-sync	0.4.0		9505d8d9d15275a21e17fc7dae1c15bb81cf9e73
@@ -712,6 +714,7 @@ io.github.pdvrieze.xmlutil	core-compat-macosarm64	0.91.0		N/A
 io.github.pdvrieze.xmlutil	core-compat-macosarm64	0.91.0	metadata	c0e0167575e7b4903d1520287cf3af673617a623
 io.github.pdvrieze.xmlutil	core-compat-macosarm64	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	core-compat-macosarm64	0.91.0-RC1	metadata	21db2ae7ff3be2950b3e5999c9fc09c3023eca63
+io.github.pdvrieze.xmlutil	core-compat-macosarm64	0.91.1	metadata	4e55efe451a0c25958494c72ed29233e57ea3b3e
 io.github.persistencelkg	KG-Eighteem-Arhats	1.0.0.RELEASE		N/A
 io.github.realyusufismail	yde-impl	2.0.0-alpha.1		d63d2dce3640ceee157335b54bc17d4c6e814133
 io.github.srcimon	platformer-example	1.0.0-RC1		1e2c0fc1b488c9d4fc3e360648a9998c2f2ee378
@@ -1116,6 +1119,7 @@ io.quarkus	quarkus-elytron-security-jdbc-deployment	3.15.2		897cacdb07544eaf671e
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.15.3		d107b8b74592e9c5ef3365786ed3788feb086064
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.15.3.1		43eaa280163d06d9b6b0fcede20438e77b1c814b
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.15.4		70e9bd65c2851fa3612655f84accca9179284c7d
+io.quarkus	quarkus-elytron-security-jdbc-deployment	3.15.5		630824e9e032187ea6c707033938f5965f29d662
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.16.0		a3fcd92e03ca4d30cf93f00a550f90410cd5f3c2
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.16.0.CR1		f6937b165746701bb2ab8cb0fd6b4e2191fdd2a0
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.16.1		7cca751c9e1aeaa294b4883e4bccce84cc53eeea
@@ -1160,6 +1164,7 @@ io.quarkus	quarkus-elytron-security-jdbc-deployment	3.2.8.Final		a58e928d2cb2335
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.2.9.Final		8ab78fd0f78c8ceabf8898523ba2813f4492aa7a
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.20.0		5c78a74db4ebef44d1b3cc033f37cbdecbecdfd2
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.20.0.CR1		5e3f802fb9a003b479be218995d326b91ac812cc
+io.quarkus	quarkus-elytron-security-jdbc-deployment	3.20.1		f253a017a120d2bde5308cdee5b6cdce4dea1d6d
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.21.0		2cd2595a6947d30ba939e0881353bbb4313515af
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.21.0.CR1		8722e4ee517b8f96960f1d023180ae68a2230563
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.21.1		815bb74f1153c22fd938d82fddc77c12d3e622d7
@@ -1169,6 +1174,9 @@ io.quarkus	quarkus-elytron-security-jdbc-deployment	3.21.4		5564272faf4b85fb3e65
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.22.0		6c46eec1823d8d0a09b134126723b3e8604be835
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.22.0.CR1		be3c9a684167f3213d48a8c036e69ba0bf0a26ba
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.22.1		68a4fbc7252356f65e4f2cfa54b01a911c549fbe
+io.quarkus	quarkus-elytron-security-jdbc-deployment	3.22.2		5e1c9f108f5b655487270b34753a538e3809afe7
+io.quarkus	quarkus-elytron-security-jdbc-deployment	3.22.3		ae55d7d3e5a74a837bd514386b7a1bdeb4293ef6
+io.quarkus	quarkus-elytron-security-jdbc-deployment	3.23.0.CR1		ba491a133af0dae3306d0e34d82883c60dcfe41c
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.3.0		a8bf82dc1363d866413c4b35533bb4623cabb085
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.3.0.CR1		00182aeee722651360ddd49191ab3f612542c497
 io.quarkus	quarkus-elytron-security-jdbc-deployment	3.3.1		6cdcfb7defbf4dce3d4e2b4db4a48590fe71158d
@@ -1533,6 +1541,10 @@ org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	0.16.0-dev-6363		
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	0.16.0-dev-6363	all	e0c1326194828874de7bb503fb7acad62da322cc
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	0.16.0-dev-6396		6e6555ea51b023ed7b81f86d8aaf73e2360754a7
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	0.16.0-dev-6396	all	1025cb8ad15655429cfaf77ffd948486a35713d3
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-Beta1		82c0700c16e7ada038711e944da86616bf25bc81
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-Beta1	all	ecbd7943e64bcf293d6b070c48d0d1799ae6f1e8
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-Beta2		b994102e082086721e9c92d54739c9fd0990dfcf
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-Beta2	all	b2db3534168d440a48afb8bcd7a3377964ed98a6
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6428		97a2895654193f0d7525754ef313eae567c43206
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6428	all	6fb36f8bd21dd610832428098cd927f30f2226cd
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6444		614a1f141aa7ff4485985fb8eeba6a45f6540eb3
@@ -1595,6 +1607,40 @@ org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6946		3
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6946	all	d689bb7085993240d906291d4af5b2dad827df88
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6948		09b3e7c65adceaaab3e68b43eb45c4d810ccaf6d
 org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6948	all	85f3248e33894dc4b4074ac68d6f52b8083d8234
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6971		0b36604d4b4c0f70494f070a39b8b71c36bb699d
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6971	all	ca94815aca6e365555ed5cf5b60f9ae940645a90
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6984		2c316ee845b302f22d0a1bdb1924cf49d565fabc
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-6984	all	9b55b07a2e01afb9a64cba42038b2e5ba7ff0bb6
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7011		e222f19d14916cfad193f460c2ba58a83a68f3be
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7011	all	70dc092a7b7fd1f104e34285f4dab5a2436db926
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7018		5bd27d43e89fa03c6b00e3e28077bb8b49d28b1f
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7018	all	ccc40201053b2358478ab4bbaa5652d50a17cc54
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7072		7e8795d8ea9f38ebc30d601e1098d7636ff17dd1
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7072	all	23fbac318a78e01338ba16e2542e17c2413e69ce
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7077		ccb4ecdd4fdd8eed40c48d2021fe99ed9aecb19c
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7077	all	0330a1898351c957f757aec8bb36b55ea7acb4cf
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7080		56ad1b76c61f165486d3313181c0df70cb8a7f89
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7080	all	6b9f0fd389d6345461b3307cd9c3bbb804fd4cd8
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7089		8610ab536f341dff4eb5353fe9e20939732aa6ee
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7089	all	4234a1a5ab68cb10fe5dac02bb46c639003bbe97
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7095		bec7e6ff960a554f5446bea0b4edd18f5adf6494
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7095	all	97a08a49ba591619bf573eed286def1556dae8ad
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7098		809f05b683c73a7c19bd6719fbda020483e8c1fc
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7098	all	25bf3b438693778a7fd31299578340eea2f03f0a
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7100		4d44815b4cc713d072e4040c36893d224058e6e7
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7100	all	8094803700092ccee7c6437754f1607790d7f023
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7127		45c8c10d028e9bd230b46b123db5883af64d957e
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7127	all	c33fab2d7b9ee5e1dba7dfdb57847a9084b4f9a2
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7128		fab4501abc80a62f6765e1e5b254d90a756a48b8
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7128	all	932906e15fb4bf7e5ecef5d0a73a1910717a8455
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7164		37d4782869d16c6a4c3b626ddc5ac4477d843a18
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7164	all	b12e9a7306fac0600fda793d9e92aa17b5415c5a
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7185		0a449c51a3fe39ce8eb7f91cf7590006cbb1fd04
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7185	all	737c11aecf287fd1599e8f1cb76ec5dc0fb823e1
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7194		84a9e1c6126cdae8c9863c2569706a0efabe73fa
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7194	all	a6b1c87cb480070f8e2268c97d35694914e3abd0
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7196		41995ffedc741e9e1980cd0953aa34131b144345
+org.jetbrains.kotlinx.dataframe	dataframe-compiler-plugin-core	1.0.0-dev-7196	all	3b2c9b3d257b915dddd6477eb3990f44c1580ce6
 org.jsonex	treedoc	0.1.11		e1657466931baa439d97e572b04ed13824816388
 org.jsonex	treedoc	0.1.12		651a17c19e7a2edd9abe61649d3f879f295fce01
 org.jsonex	treedoc	0.1.13		8a69bb6b76e59b2af115e269190787f6f70fbc2b

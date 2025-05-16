@@ -552,6 +552,14 @@ com.salesforce.datacloud	jdbc-http	0.25.5		cc0a34cce8a999d7b9c3db2af1670a21f4e52
 com.salesforce.datacloud	jdbc-http	0.25.6		61a1fb3168e6beda6cc7d7dc172aede91be7dea1
 com.salesforce.datacloud	jdbc-http	0.25.7		73a0308b89c3140cee484d0f399ef3d20ab26a33
 com.salesforce.datacloud	jdbc-http	0.26.0		8feaf74bf9b670a4ac936663236f733fa4119b1b
+com.salesforce.datacloud	jdbc-http	0.26.1		7822f20eca38fe77b50cb36af647722a8d290831
+com.salesforce.datacloud	jdbc-http	0.26.2		9a9d8632fbb02cc298fe22abd120e9f12b9bb5ff
+com.salesforce.datacloud	jdbc-http	0.26.3		aa2cdd447f7d4d054ddbabede7378048907b7234
+com.salesforce.datacloud	jdbc-http	0.26.4		e0c4c36c74f676f5003ce94ab21992006db47049
+com.salesforce.datacloud	jdbc-http	0.27.0		a4735f69e75a26a35dd701e8d698d49e114e6a0a
+com.salesforce.datacloud	jdbc-http	0.28.0		36494dcc8b2eb2cf72d427acacce875800b9d770
+com.salesforce.datacloud	jdbc-http	0.28.1		1fc3b069e05552151a36c1e6933ad6af3fc91bfa
+com.salesforce.datacloud	jdbc-http	0.28.2		8dc7fb751703f9c7d943e8884ad71cfa9a7d4f18
 com.softwaremill.sttp.tapir	tapir-core_sjs1_2.12	0.17.0		c0a30b5ef55fa4c1c74c6bc5cb00a880ce59147e
 com.softwaremill.sttp.tapir	tapir-core_sjs1_2.12	0.17.0-M10		33d1391fda39172c6b86b82414073392faa098e0
 com.softwaremill.sttp.tapir	tapir-core_sjs1_2.12	0.17.0-M11		bcd99623d2c9196d018e9b9d9d348d49f777f5d9
@@ -749,6 +757,7 @@ com.ucasoft.komm	komm-annotations-macosx64	0.22.8		N/A
 com.ucasoft.komm	komm-annotations-macosx64	0.22.8	metadata	6caab52293021c3da07729000c16518ac1fe78cc
 com.ucasoft.komm	komm-annotations-macosx64	0.24.3		N/A
 com.ucasoft.komm	komm-annotations-macosx64	0.24.3	metadata	ab946ad7f3e5052fbbc87bb54140e1a4e35f97b2
+com.ucasoft.komm	komm-annotations-macosx64	0.25.0	metadata	7344aa2a762c3de78e3e5a9d88231ac8c9d1febe
 com.ucasoft.komm	komm-annotations-macosx64	0.3.5		N/A
 com.ucasoft.komm	komm-annotations-macosx64	0.3.5	metadata	cfbcdec6f93a4889985cae52eb4fb73b8d31de98
 com.ucasoft.komm	komm-annotations-macosx64	0.4.1		N/A
@@ -1011,6 +1020,7 @@ io.github.pdvrieze.xmlutil	serialutil	0.90.2-beta1		39bc34f2e73a91e126f29cb8c2f0
 io.github.pdvrieze.xmlutil	serialutil	0.90.3		283e306b962a34c63c4db58c003476e7a8550da5
 io.github.pdvrieze.xmlutil	serialutil	0.91.0		99db19cf5522f3bb8c24e148d450301d38a5ee27
 io.github.pdvrieze.xmlutil	serialutil	0.91.0-RC1		99db19cf5522f3bb8c24e148d450301d38a5ee27
+io.github.pdvrieze.xmlutil	serialutil	0.91.1		b5fdd98dd9168d126be5b677572720ebd670967e
 io.github.sohaib-ali-12	test-maven-repo	1.0.0		4cb39b30f8dec8fa33c9c9ee9192802ebb43fb7c
 io.github.xxfast	kstore-js	0.1		N/A
 io.github.xxfast	kstore-js	0.1.1		N/A
@@ -1228,6 +1238,7 @@ org.apache.camel.springboot	camel-cxf-soap-starter	4.8.3		122b69e46c50e469292343
 org.apache.camel.springboot	camel-cxf-soap-starter	4.8.4		f40d2d47f115abbc6d2285196c7014dfa3d1e9ba
 org.apache.camel.springboot	camel-cxf-soap-starter	4.8.5		73f3e65c5921b4740a1bcba106f118c7e9dbbd45
 org.apache.camel.springboot	camel-cxf-soap-starter	4.8.6		f03b72eeb93935069b4583d8792e4ffac5983431
+org.apache.camel.springboot	camel-cxf-soap-starter	4.8.7		b0dbf77b513e6f659f1c2da8d73390029c6774e8
 org.apache.camel.springboot	camel-cxf-soap-starter	4.9.0		1172e9ebc6028c07b8beb442efda0cb40f173f71
 org.apache.skywalking	skywalking-log-receiver-plugin	10.0.1		399b518b2ef1bc0e90fe6e7fcaaea217aed130bf
 org.apache.skywalking	skywalking-log-receiver-plugin	10.1.0		474dab8c22284f276b96a3e756f0b8675c1206a9
@@ -1580,4 +1591,7 @@ tz.co.asoft	epsilon-core-macosx64	3.0.8		N/A
 tz.co.asoft	epsilon-core-macosx64	3.0.8	metadata	c9ee1842b5cebfee25f6a1d913806c76faa39500
 tz.co.asoft	epsilon-core-macosx64	3.0.9		N/A
 tz.co.asoft	epsilon-core-macosx64	3.0.9	metadata	0c28ca360ab01da69b52ba5c57d247425d452237
+tz.co.asoft	epsilon-core-macosx64	3.1.1	metadata	b1c7c9d76c7f6f9679330da38593521455f44f2d
+tz.co.asoft	epsilon-core-macosx64	3.1.11	metadata	5d63e3c9725e81a6d33951f12fad5c790c5223d8
+tz.co.asoft	epsilon-core-macosx64	3.1.12	metadata	3f9d99be3e3781945dbe012a90e572c377f2162f
 uk.org.retep.xmpp.protocol	schemas	10.1		6c1ad32ba834a2760857a0a0bd43f462ff53c53f

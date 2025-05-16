@@ -125,6 +125,7 @@ com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.17.8		4fd0f7aeccbd57bb061e
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.17.9		fb4750d46eb8740bc37dabbf0d5539db264c35d0
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.0		23d406ebb6766316276cc2c861e824eb9db81539
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.0-1-19acfb2		9542bfbe87a5e58e17b9a488ed6396386afe8d41
+com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.0-1-26737b4		e508d75b9f282c824cc8d749753b26ba43ae9bcc
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.0-1-5a26ba3		f8d8ba6474cb8752cd73b040eac94306137febf1
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.0-1-8d943ab		08155917edf1feaf24f0cfc9d819b212d977052e
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.0-1-b0aa866		db4883af7a221dd252a6a8814e51c7f12eaaf088
@@ -251,6 +252,7 @@ com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.31		673ae09d5e524c17104
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.32		8d88d9a73a906494e76174b67a5dc91b5177ef69
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.33		4f1b74d88cfe935b35c6a58e2b454b7da5ad3093
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.34		5dbd07e1e92dd522e85b0d0c2767d601ca61563b
+com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.35		73cf5216ff7f9555d032e025be3b41447ea6aaf9
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.4		d73be10d9698b7b2ceefd88f00870b719f6d78c6
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.5		3a0533dcb898b622c3c45ebaed2b6a8524f43600
 com.disneystreaming.smithy4s	smithy4s-http4s_sjs1_3	0.18.6		49ea80de90f3906916a60803f6f24da3629e587a
@@ -662,6 +664,7 @@ io.coil-kt.coil3	coil-compose-core-macosx64	3.0.4		N/A
 io.coil-kt.coil3	coil-compose-core-macosx64	3.0.4	metadata	bc344eebe5c9d9f2eead7956d3bb898ed4a00a44
 io.coil-kt.coil3	coil-compose-core-macosx64	3.1.0		N/A
 io.coil-kt.coil3	coil-compose-core-macosx64	3.1.0	metadata	6dd905a8a398354d331da2e32317181b4e25c0f4
+io.coil-kt.coil3	coil-compose-core-macosx64	3.2.0	metadata	ddd91f9c66046885c11c6abdf80b792090f84800
 io.coil-kt.coil3	coil-compose-core-macosx64	3.2.0-rc01		N/A
 io.coil-kt.coil3	coil-compose-core-macosx64	3.2.0-rc01	metadata	d2e1fc0a0aef5a19825cecdebd8716a95521bb84
 io.coil-kt.coil3	coil-compose-core-macosx64	3.2.0-rc02		N/A
@@ -927,6 +930,7 @@ io.hotmoka.websockets	io-hotmoka-websockets-client-api	1.4.5		072121e2ed8bbb82ca
 io.hotmoka.websockets	io-hotmoka-websockets-client-api	1.5.0		59fec06879fa2b20df6fd6631f6c8c366b78792d
 io.hotmoka.websockets	io-hotmoka-websockets-client-api	1.6.0		b8740f4dc8926af70d7e65d7fb02a92e5f6c825d
 io.hotmoka.websockets	io-hotmoka-websockets-client-api	1.6.1		102af56339c4c97f8ead13c5e392a2a87bfcd53e
+io.hotmoka.websockets	io-hotmoka-websockets-client-api	1.6.2		ae6f0cc49ec0ee55138709f608536a4a467ef4e5
 io.maryk	maryk-testlib-mingwx64	0.6.0		N/A
 io.netty.incubator	netty-incubator-codec-quic	0.0.1.Final		cc642b79b151aca826c5081bcf439e7a6e5a3319
 io.netty.incubator	netty-incubator-codec-quic	0.0.1.Final	linux-x86_64	42fba814c3181ec28e95b36111ef8058e5c090b6
@@ -1323,6 +1327,7 @@ io.quarkus	quarkus-hibernate-orm-panache-deployment	3.15.2		24d31236815ce01e145b
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.15.3		ec96fb05209f441c371eed3a07b4363a2dd9ad09
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.15.3.1		a7be86253408ae6e8378919fd5fdbb77e32b7654
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.15.4		68e603c0de615d54b04af9d5606903ab28b1d832
+io.quarkus	quarkus-hibernate-orm-panache-deployment	3.15.5		ce07c90be60d5d3f411e76a3ff5af2232cff5cfe
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.16.0		d98532a6bf8624101b16236811b0bdba03aed10b
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.16.0.CR1		e2277d9fff181f4fcb5ce51ddbfc5330e0ca3ecd
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.16.1		983b7c94f54e24ee9140c32b46a554610501fe25
@@ -1367,6 +1372,7 @@ io.quarkus	quarkus-hibernate-orm-panache-deployment	3.2.8.Final		f492c15c9f0f018
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.2.9.Final		65796c338ab577a626ff53512333cd3e3c080edb
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.20.0		936507e651c531b9a0a09c3b0efa36a9a2ed91df
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.20.0.CR1		a4b27136205b155d577840d6d9f7863f24668f4b
+io.quarkus	quarkus-hibernate-orm-panache-deployment	3.20.1		26aa3b862816eff94dc83633d47bd616a2c19c19
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.21.0		22ae0864f9f6a25442de2c5bccd700363c3ab209
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.21.0.CR1		c547b4751f920d4e1775e6e49eb87e27603fc8a2
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.21.1		d75bc9ebe539dd689bf0d319b558f95d56ac7639
@@ -1376,6 +1382,9 @@ io.quarkus	quarkus-hibernate-orm-panache-deployment	3.21.4		c4ec45438dea420eadb3
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.22.0		265666312597db4c5fd49d02c8a983e5adaecb0e
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.22.0.CR1		161fea20f5f92358dc1cc5a8313154da1f75105b
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.22.1		222e971005a716afaf5e19529fcf76bdc5bfdf2b
+io.quarkus	quarkus-hibernate-orm-panache-deployment	3.22.2		35f97e8bc955987cd8bf2b86c5014e3f6a91b29b
+io.quarkus	quarkus-hibernate-orm-panache-deployment	3.22.3		1d81524b89f8fdae60cc34a5c841d728aa7f1a20
+io.quarkus	quarkus-hibernate-orm-panache-deployment	3.23.0.CR1		b01e548c18b10e7b2cbaa8f4601b2cdcc8b2fd70
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.3.0		d8d7b36581c5b8c5f1efc7e714242241929155c1
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.3.0.CR1		9992cb5cc9a5d873653ec4cbad694eaa9d5e7a95
 io.quarkus	quarkus-hibernate-orm-panache-deployment	3.3.1		5c3bbff8655070329dc701725e36cb90b11d3e37
@@ -1552,6 +1561,8 @@ org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.17		959b7a2fc0a8c6b5405
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.18		992db6709c6bc239b9f876af04eee9da9d6b3d81
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.19		5aac552a039484e76018b0db871454ff50964554
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.2		75f4a3313ae5e3f9ef4bb8f71c7a15955ecd8255
+org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.20		4e2a8a7f78033cdc5337e2eee2544d429909bb25
+org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.21		d9c4e6b9e6793d52edd2d2465fcae961568271a4
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.3		cfbced3902e683b856e8732c9d12fe2256869a9e
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.4		b44be697865641045c4aed5f057d886855510288
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-embedded	12.0.5		cabf3b16070cb163dc6e3e7f92277e40d8ac44ff

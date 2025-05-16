@@ -78,6 +78,7 @@ build.bleep	bleep-plugin-jni_3	0.0.9		d0c292df748ff74d496f05e8c4383d00268a8649
 ch.epfl.scala	scalafix-testkit_2.13.16	0.14.0		37eac5cb5b8c7c78a3ae04e85ab24990cc25a08c
 ch.epfl.scala	scalafix-testkit_2.13.16	0.14.1		a10f6e7240cfe12ac5fabd58e31a48ad59714b95
 ch.epfl.scala	scalafix-testkit_2.13.16	0.14.2		a19ab22932a3ee2106f8f7ab1e140eab323f884c
+ch.epfl.scala	scalafix-testkit_2.13.16	0.14.3		3090a5031a054e27fb8282093c12dca485e9b8d9
 cn.shengwang.rtc	full-vqa	0.0.0-test.2		N/A
 cn.shengwang.rtc	full-vqa	0.0.0-test.3		N/A
 cn.shengwang.rtc	full-vqa	0.0.0-test.4		N/A
@@ -245,6 +246,7 @@ com.fasterxml.jackson.module	jackson-module-kotlin	2.18.0-rc1		853d5ec828d22447f
 com.fasterxml.jackson.module	jackson-module-kotlin	2.18.1		759bf128585939a60445ed3994c0e905c0344e3f
 com.fasterxml.jackson.module	jackson-module-kotlin	2.18.2		64d2a72bacd16a9bb46db5662396dd0b606992d4
 com.fasterxml.jackson.module	jackson-module-kotlin	2.18.3		d79c117605fc157ec32ec9774690bb3e493938ce
+com.fasterxml.jackson.module	jackson-module-kotlin	2.18.4		eb2fb7d0e235adb8e0c8c83290c15fefba243010
 com.fasterxml.jackson.module	jackson-module-kotlin	2.19.0		b26bbc89112d7b71e3ef4d523671f430e95426fe
 com.fasterxml.jackson.module	jackson-module-kotlin	2.19.0-rc2		7137d3f24a362453b1e6e2dfdd2e3bf7ef23e8f2
 com.fasterxml.jackson.module	jackson-module-kotlin	2.4.2-rc1		9b1fb88b338ddb649741483cb1ec8ba323eed5ba
@@ -895,6 +897,8 @@ com.oracle.oci.sdk	oci-java-sdk-oda	3.63.0		281e7f8a7323c410c86af47d597dd115186b
 com.oracle.oci.sdk	oci-java-sdk-oda	3.63.1		e9ff28fe38abe60ac3032cdce06e4bf2240ce27c
 com.oracle.oci.sdk	oci-java-sdk-oda	3.63.2		b69fddb49004316f4130e063771ccbd3889ac68c
 com.oracle.oci.sdk	oci-java-sdk-oda	3.63.3		7798f064b91fdabbc3b00445edf5cdc3baf9024e
+com.oracle.oci.sdk	oci-java-sdk-oda	3.64.0		a9f25e7a13290d4eedcd86fdcb24c15edfac11dd
+com.oracle.oci.sdk	oci-java-sdk-oda	3.65.0		76226df82f96990ede10c63bafc5ba5c4b075fa8
 com.oracle.oci.sdk	oci-java-sdk-oda	3.7.0		ed33d7644f4f817edaa72848afa7f427ea6d60e1
 com.oracle.oci.sdk	oci-java-sdk-oda	3.8.0		03f7c89ae6effb1a11b3285c5627d5e2aaa257d6
 com.oracle.oci.sdk	oci-java-sdk-oda	3.9.0		9703a490e5db944d18dc77726335674efd6cc1e2
@@ -1705,6 +1709,7 @@ io.kotest	kotest-property	5.9.1		2552f5508fc2d5cdefc71bc89a1f8d2539ff478a
 io.kotest	kotest-property	6.0.0.M1		121d0b1018420afd59003fa19fdce85b15f22a44
 io.kotest	kotest-property	6.0.0.M2		ee7ffeb09358ab873551a4b199738b47200562dc
 io.kotest	kotest-property	6.0.0.M3		f8b3b0ffac368ce7c8ef58b8bf25fc6a819ade6e
+io.kotest	kotest-property	6.0.0.M4		f8b3b0ffac368ce7c8ef58b8bf25fc6a819ade6e
 io.ktor	ktor-serialization-kotlinx-json-iosarm64	2.0.0		6a1b704a818895f5a3d7e88a89762ddaa4228916
 io.ktor	ktor-serialization-kotlinx-json-iosarm64	2.0.0	metadata	7d239a65c736a5d310a03d2198eac8ef92ac5738
 io.ktor	ktor-serialization-kotlinx-json-iosarm64	2.0.0-beta-1		eb1ff3d5a4bed401ac6ef9aa4b79de8c5bfc609b
@@ -1785,6 +1790,8 @@ io.ktor	ktor-serialization-kotlinx-json-iosarm64	3.1.1		2a313294ab7686334049d95e
 io.ktor	ktor-serialization-kotlinx-json-iosarm64	3.1.1	metadata	ca98ddbf1215cbd0f5cd04df74e8492ecffd493e
 io.ktor	ktor-serialization-kotlinx-json-iosarm64	3.1.2		f10d8eec6cb5518406f34ce69a1a1082d4c81d55
 io.ktor	ktor-serialization-kotlinx-json-iosarm64	3.1.2	metadata	82240c49b45126f8fa27a135986181580973ab33
+io.ktor	ktor-serialization-kotlinx-json-iosarm64	3.1.3		1452db3e960848a6b85451f3f71ad7dd2aee123b
+io.ktor	ktor-serialization-kotlinx-json-iosarm64	3.1.3	metadata	3005325dfde022e9400ec6d1cacb36eb004ac9c7
 io.ktor	ktor-server-http-redirect-watchosx64	2.0.0		6a1b704a818895f5a3d7e88a89762ddaa4228916
 io.ktor	ktor-server-http-redirect-watchosx64	2.0.0	metadata	af04aafd65011a1909cea419b3dbf900a6751303
 io.ktor	ktor-server-http-redirect-watchosx64	2.0.0-rc-1		e3b6b50a3ab42410ad339c120baf59afe1cc0abd
@@ -1863,6 +1870,8 @@ io.ktor	ktor-server-http-redirect-watchosx64	3.1.1		aa0ff6f53ee834f6a18ca1427c2e
 io.ktor	ktor-server-http-redirect-watchosx64	3.1.1	metadata	c7c66775a46e9637ec2f2c912728a3980cdfaeea
 io.ktor	ktor-server-http-redirect-watchosx64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-http-redirect-watchosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-http-redirect-watchosx64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-http-redirect-watchosx64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.lamma	lamma_2.12	2.3.1		88af1f1586a38b46235d218318a7f864673de833
 io.nuls.sdk-module	nuls-sdk	0.9.11		6921f9335c27f77c6519a6589a0a31ae29dd5e82
 io.permazen	permazen-cli-telnet	4.0.0		fd243a4160580eb5189503a0a13669da894923ea
@@ -2086,6 +2095,7 @@ org.apache.flink	flink-table-uber_2.12	1.9.3		cc7ecd378f214129efdba084b9cbd0a890
 org.apache.geronimo.samples.javaee5	sendmail-tomcat	3.0-beta-1		N/A
 org.apache.geronimo.samples.javaee5	sendmail-tomcat	3.0.0		N/A
 org.apache.gravitino	gravitino-catalog-common	0.8.0-incubating		e915b76cf81b85c694880f45179b97efc39a2273
+org.apache.gravitino	gravitino-catalog-common	0.9.0-incubating		1908b81f2309cb879f6ebd3f3e8f4df1fc3301a6
 org.apache.gravitino	gravitino-spark-3.4_2.12	0.6.0-incubating		c2c7187e50f5a2b8fe7e16be3690c9394d73d32b
 org.apache.gravitino	gravitino-spark-3.4_2.12	0.6.0-incubating	all	27e59d8b5d6e0f037ba83d199dacba40242844da
 org.apache.gravitino	gravitino-spark-3.4_2.12	0.6.1-incubating		8f8363a6b9298e4b9b12747696e10c84e9e95d11
@@ -2094,6 +2104,8 @@ org.apache.gravitino	gravitino-spark-3.4_2.12	0.7.0-incubating		48857a4c242f08c3
 org.apache.gravitino	gravitino-spark-3.4_2.12	0.7.0-incubating	all	920429cddf7e7debb652a6bae891931973bde99e
 org.apache.gravitino	gravitino-spark-3.4_2.12	0.8.0-incubating		766dfe2358a5189271bc574c2a63bdd87c5aee66
 org.apache.gravitino	gravitino-spark-3.4_2.12	0.8.0-incubating	all	b8df122ccbf868bd4b37f5edb7fb29a369c96989
+org.apache.gravitino	gravitino-spark-3.4_2.12	0.9.0-incubating		19055cd357a42db91ee909fc2c481ea8db990692
+org.apache.gravitino	gravitino-spark-3.4_2.12	0.9.0-incubating	all	e9934043777ddfa7b1e6c41afa5c8fb893f447a0
 org.apache.kafka	kafka-streams-examples	0.10.0.0		c7ff7ade21d8428282abed73a05271f1cabb974a
 org.apache.kafka	kafka-streams-examples	0.10.0.1		58ff29abfc6c22f26d431d0ea5320e635e582435
 org.apache.kafka	kafka-streams-examples	0.10.1.0		dacdb5fccc28cace1c419d1bfa541a818681ae2f
@@ -2196,6 +2208,7 @@ org.apache.kylin	kylin-core-metrics	5.0.0		5843151f1bdeb739b1ef10dc13f9146ffa9b8
 org.apache.kylin	kylin-core-metrics	5.0.0-alpha		cbbfaeca661832b7bea640d494de65ff5a069b58
 org.apache.kylin	kylin-core-metrics	5.0.0-beta		73ac00ec3e8f861ac145567043f32f6f0c6c5319
 org.apache.kylin	kylin-core-metrics	5.0.2		c9ab970b6724ea7348057ca065fca48a466be5d7
+org.apereo.cas.support.cas-server-support-ehcache-ticket-registry	5.0.0.RC2	support		412850435c0aa2d84ea30b7fbc8643b48691e594
 org.archmix	walleed	0.0.1		00581bd4bcd6dcf84eff9910049cfc3cc352fdc4
 org.codehaus.plexus.redback	redback-xwork-example	1.0		N/A
 org.codehaus.plexus.redback	redback-xwork-example	1.0-alpha-1		N/A

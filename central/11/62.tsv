@@ -984,6 +984,7 @@ org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.2.1		2a827e1169ac150415
 org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.2.2		83179b552a39dbe52c23b6918ea4fe1e3123f096
 org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.2.3		af4626eb83e73d9b0044ed2bf658a935ba8aec5e
 org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.20.0		a5a6a1c926967e6ff4ccda86358bd2df3880cb65
+org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.20.1		18e89fb2111d11af53401791a4ed969b810a0205
 org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.22.0		d7d6da22bb50664a8fd4712acd2fa89a02ab1151
 org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.4.0		8d3c4fbd5c2027b0861edde56e9d138d00cd76ac
 org.apache.camel.quarkus	camel-quarkus-jooq-deployment	3.5.0		351da9e780dd881a0bcda4246f39a10dafb3f613
@@ -1231,10 +1232,17 @@ org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.79.0		28506c101db1
 org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.80.0		61207bea5449f678b5bd281d4d3499c86a9276c3
 org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.81.0		21a4a8f7e221f166002f729d1e8a6d28d171ec0e
 org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.82.0		5e7fd604399e455cc74052cc6d7d67e6a6fcaed8
+org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.82.1		5641b1e9f4c251c9b40db584dc6b9cc58337a98b
 org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.83.0		0225faa26fed13b3f664deeaf8b4dbf479b9103d
 org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.83.1		ef0b97f141789d685222a0e0085a7599e851413d
 org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.83.2		0b916e7c23239115d2dd2e3310d2876c3db61eb0
 org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.83.3		af58da308d71b9b654b87e119538dba8ee7bc217
+org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.84.0		7c8cf3b9aebb898bd7be3102674af8caa4124a44
+org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.84.1		1bb5cecdf7f1b6c90132f31fdecd36c0dbb31d8a
+org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.85.0		6451e3c16529956d6ae2a530041651adb3af6fa3
+org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.85.1		02e01caf073e76a26ab66eb3a348e686626431fa
+org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.85.2		977ee3ecca140430f6ae4ca153598de579e99fee
+org.finos.legend.engine	legend-engine-xt-hostedService-pure	4.85.3		c34ca96c16d06fb74bac32457147e3d9a7c873de
 org.forgerock.cuppa	cuppa-junit	1.0.0		bbbf5038fc526c2ecb1828b52d9dfa913255cf4c
 org.forgerock.cuppa	cuppa-junit	1.1.0		53321d9249197ec56f504b5f1ca4ef78f985c7c3
 org.forgerock.cuppa	cuppa-junit	1.2.0		1cb36c7035a269a369035eeb47c840860dbd0f14
@@ -1608,6 +1616,7 @@ org.wildfly.security	wildfly-elytron-sasl-plain	2.1.0.Final		faa51793bfd2070fe32
 org.wildfly.security	wildfly-elytron-sasl-plain	2.2.0.Final		a67413e376f3bc841e8681fcc042f488d8b39445
 org.wildfly.security	wildfly-elytron-sasl-plain	2.2.1.Final		c20636f84fab8b283795281760c8750b61aed3e5
 org.wildfly.security	wildfly-elytron-sasl-plain	2.2.10.Final		7a172cc93e138b65827f474d842c406cdc50101b
+org.wildfly.security	wildfly-elytron-sasl-plain	2.2.11.Final		9786fb3e82d8770662f8d1e35971d7c4e51b909a
 org.wildfly.security	wildfly-elytron-sasl-plain	2.2.2.Final		0e2fb13e4389d668fb3c6a46f9e6c14ea7bbee37
 org.wildfly.security	wildfly-elytron-sasl-plain	2.2.3.Final		ac40358a574c9d240fea97e4df501e594222a131
 org.wildfly.security	wildfly-elytron-sasl-plain	2.2.4.Final		fd6744c68b6a0c60e3ae1b46f2e850de627afe3b
@@ -1630,6 +1639,7 @@ org.wildfly.security	wildfly-elytron-sasl-plain	2.6.0.Final		3c66746772944f9a445
 org.wildfly.security	wildfly-elytron-sasl-plain	2.6.1.Final		3a6b131ff29edabb2bcef21683dee6060123dd28
 org.wildfly.security	wildfly-elytron-sasl-plain	2.6.2.Final		e11b0248edd031bd7ef192d657416f4817d262d3
 org.wildfly.security	wildfly-elytron-sasl-plain	2.6.3.Final		51aa73b89d2173b7a99d22eb378eb78fa4a0b50b
+org.wildfly.security	wildfly-elytron-sasl-plain	2.6.4.Final		148f99acf5a960b422a7645cc01ac47fca4e5046
 org.wildfly.swarm	hawkular-runtime	1.0.0.Alpha6		8dc836abf3366b28d730a6e552dd438655fba987
 org.wildfly.swarm	hawkular-runtime	1.0.0.Alpha7		5e04c1b156c9d02d1cab0a5880da869887f23fb3
 org.wildfly.swarm	hawkular-runtime	1.0.0.Alpha8		f24ea4585cd6c313cc2c6c947e09e8d6e9feac67

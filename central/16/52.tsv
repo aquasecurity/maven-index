@@ -369,6 +369,7 @@ com.ibeetl	sql-gen	3.30.7-RELEASE		9a042339cfc48b8b2247792f0590be7b5b674cc5
 com.ibeetl	sql-gen	3.30.8-RELEASE		96406042077de2044437b18885958528bcd21a14
 com.ibeetl	sql-gen	3.30.9-RELEASE		ba8e04b72ee42b6921358c5562f1a81d27d63efc
 com.ibeetl	sql-gen	3.31-RELEASE		ea421d685b7ab4ffea161b1597ba4e077281677b
+com.ibeetl	sql-gen	3.32-RELEASE		9428dd83a05b216b5301848e6294243474090d4f
 com.ibeetl	sql-gen	3.4.0-RELEASE		07046e09f5b370e4de4a30e0fcee2aec62ceb783
 com.ibeetl	sql-gen	3.4.1-RELEASE		8d86f6fdb298911b86575a9550f071711e6e4826
 com.ibeetl	sql-gen	3.4.2-RELEASE		be6a56a62c7dad559a070acce4dcf1fe4da80451
@@ -609,6 +610,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.0	2.13.3-alpha		204b8d790a475c014edff6b96a19ca998bcc903b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.0	2.14.0-alpha		38e8faa3b6d43a9a52107c492ee8ca1d640c19ab
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.0	2.15.0-alpha		a51063cfa2543d7bbd7883564edad28c67eeb69b
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.0	2.16.0-alpha		81c76b017a60f751458a785efee7f0514cfe8133
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.0	2.2.0-alpha		b8ccde3ef1f8c01b9e5cd53b7d8078d4d14c1922
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.0	2.3.0-alpha		cc8e5c157334b0b9214d39a38cdbb9d04e632b4e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-http-1.0	2.4.0-alpha		aa8510c44d3b8f4cd959c77064dd3f6724b58590
@@ -778,6 +780,7 @@ io.quarkus	quarkus-resteasy-reactive-links	3.15.2		d4715ee4364432e5428baa4e5cd0c
 io.quarkus	quarkus-resteasy-reactive-links	3.15.3		ba41edd82c234b8741fc6ca644cd082336468be3
 io.quarkus	quarkus-resteasy-reactive-links	3.15.3.1		cc11be273068b0f47d5d8bee1ce4fac3a56df240
 io.quarkus	quarkus-resteasy-reactive-links	3.15.4		744a47586ee396d49951c6de358c3b4aaf23361e
+io.quarkus	quarkus-resteasy-reactive-links	3.15.5		9b0fef41ee1cb7f77770b07ca3b477fd203452f0
 io.quarkus	quarkus-resteasy-reactive-links	3.2.0.CR1		fb2ac2f9488b90e28b8302ba3523cf5884f4f96d
 io.quarkus	quarkus-resteasy-reactive-links	3.2.0.Final		f86b1714424e5dfca82539a53729e8cc09fa687c
 io.quarkus	quarkus-resteasy-reactive-links	3.2.1.Final		9eab0c6523ec633a6f162207d2e2399579a5f99b
@@ -870,6 +873,7 @@ io.toolisticon.cute	extension-modulesupport	1.5.0		1bff2db1afd5bf82e43f6cdbfe7fa
 io.toolisticon.cute	extension-modulesupport	1.5.1		6d772ae128b932834b0def04bd612ffea472976b
 io.toolisticon.cute	extension-modulesupport	1.6.0		f4035a7040d61ed46172b39a8c477a8f31fae68d
 io.toolisticon.cute	extension-modulesupport	1.7.0		ab61376c1c6fde2340b6c062c81934c5436698f6
+io.toolisticon.cute	extension-modulesupport	1.8.0		ed4653c73f2ee86ad987aa4e523c3d455101061b
 me.proton.core	crypto-dagger	10.0.0		N/A
 me.proton.core	crypto-dagger	10.1.0		N/A
 me.proton.core	crypto-dagger	10.2.0		N/A
@@ -1360,7 +1364,9 @@ org.elasticsearch	elasticsearch-spark-20_2.12	8.17.2		5157105fa2d48fa6978d3ab4f2
 org.elasticsearch	elasticsearch-spark-20_2.12	8.17.3		2dfedbe0eb6fc3b9deab95779b3302814bb46e52
 org.elasticsearch	elasticsearch-spark-20_2.12	8.17.4		b3b4a0aee07ba327d38bd01f089a8eaeb10b3ad7
 org.elasticsearch	elasticsearch-spark-20_2.12	8.17.5		375ef6619f07542c027d2760a766fef4dc578035
+org.elasticsearch	elasticsearch-spark-20_2.12	8.17.6		4a6f9a805805c0ee96dad0ddd5bff711a1503b04
 org.elasticsearch	elasticsearch-spark-20_2.12	8.18.0		22a1bcd6efa3e6ce019c4eb5c493a894180e3435
+org.elasticsearch	elasticsearch-spark-20_2.12	8.18.1		1f79182ff44e2f7b65dd7e8b894fd1aac60acdb4
 org.elasticsearch	elasticsearch-spark-20_2.12	8.2.0		b5ceda87f3399d2725ed208f1b31e4170f008f94
 org.elasticsearch	elasticsearch-spark-20_2.12	8.2.1		ba479940c1a04ccf3a26a9fb747742df3e09784e
 org.elasticsearch	elasticsearch-spark-20_2.12	8.2.2		93de320460a142c6d5d78d33c33221ddaf8b6851

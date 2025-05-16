@@ -418,6 +418,12 @@ com.ibm.cics	cics-bundle-reactor-archetype	1.0.4		d0c97e79d811a1a330d7eb72475333
 com.ibm.cics	cics-bundle-reactor-archetype	1.0.5		3f226576782751ddae9203868e91cc7b648f0de6
 com.ibm.cics	cics-bundle-reactor-archetype	1.0.6		1dbb09f9d8d99b08d55d7636ed279e7b44fa1039
 com.ibm.cics	cics-bundle-reactor-archetype	1.0.7		59d39726001cb991a77acf322c0c6b38d9f0111c
+com.itv	sbt-scalapact_2.10_0.13	2.2.0		2106ab5267daa2691563bdd7e0fdf21f9331dd32
+com.itv	sbt-scalapact_2.10_0.13	2.2.1		5f6793bf036726d6bf6866b786d56751922bb458
+com.itv	sbt-scalapact_2.10_0.13	2.2.2		b2cb93ae5723323751d4b86e49a28b43b1c254a2
+com.itv	sbt-scalapact_2.10_0.13	2.2.3		bee29570ab09262b2f541f1b6bc824e6012c284b
+com.itv	sbt-scalapact_2.10_0.13	2.2.4		04d828015b88da417c308932d23d9afb8c05415b
+com.itv	sbt-scalapact_2.10_0.13	2.2.5		a236ee0ff7f1b82bb016dcd33b493d338068bb70
 com.jalalkiswani	j-framework-web	7.0.0-PRE-RELEASE		029d6d65a8c2fb7a9d46b82eb919d88d36d443c9
 com.julianpeeters	avro-scala-macro-annotations_2.10	0.1		e353cfd2d408822a555b4c58dfd328b84f5da875
 com.julianpeeters	avro-scala-macro-annotations_2.10	0.2		78052ee3d58ed38ba68d4bfb3d0b8666198b7dac
@@ -1212,6 +1218,7 @@ io.quarkus	quarkus-undertow	3.15.2		85f30396b3bc127774e13746c39ab65026d7196c
 io.quarkus	quarkus-undertow	3.15.3		5d05166d1beacd3882bd1050262f8873e3b5f99a
 io.quarkus	quarkus-undertow	3.15.3.1		b0d84b084fd47dca5757006b7901c413a97d4802
 io.quarkus	quarkus-undertow	3.15.4		cc195170a92f0ab91cc7ec6eff0a030531df179a
+io.quarkus	quarkus-undertow	3.15.5		4522eb0a29cd6024d5c93d4fdcc0dae0619cd9d3
 io.quarkus	quarkus-undertow	3.16.0		af722f480c61999c6044d7f0965c613351ddcfdc
 io.quarkus	quarkus-undertow	3.16.0.CR1		cc6e91fa9c21c2fe3f2dc3a385fd9477ad65d4b5
 io.quarkus	quarkus-undertow	3.16.1		50dc9fe91615007e79e191716efecf5d622de83b
@@ -1256,6 +1263,7 @@ io.quarkus	quarkus-undertow	3.2.8.Final		0795146790267150d06cb345cd992c8e8ae49ef
 io.quarkus	quarkus-undertow	3.2.9.Final		2b848c4d1c72ca35bed189171da33f7853a4b5d3
 io.quarkus	quarkus-undertow	3.20.0		54f74fca95f210b9ca7b0f1d56776ca88343b34a
 io.quarkus	quarkus-undertow	3.20.0.CR1		554fdd005973a49eceab525913c8deb2c3c502d1
+io.quarkus	quarkus-undertow	3.20.1		f8a8d0eec254099140c6f48b468c3eeeb3c71241
 io.quarkus	quarkus-undertow	3.21.0		8fe93eb6d2eb7c58f0d4918d9affe7d04bac696a
 io.quarkus	quarkus-undertow	3.21.0.CR1		994de77498f4e212e148f1b20e248bbaa3537095
 io.quarkus	quarkus-undertow	3.21.1		ed1bca40156a1144efd6b4514c232400e4d97dc8
@@ -1265,6 +1273,9 @@ io.quarkus	quarkus-undertow	3.21.4		820e4e541968fedd5c4f40b4eb67371a1953350a
 io.quarkus	quarkus-undertow	3.22.0		c22ef6f312fdfc97ae232a4b76cc5aff4b445f8e
 io.quarkus	quarkus-undertow	3.22.0.CR1		5d049c45c2b2de41e1c3bc4b5f5ca8c48448a645
 io.quarkus	quarkus-undertow	3.22.1		24f831c9bb18213a81f2b030c2b05fbef504ef31
+io.quarkus	quarkus-undertow	3.22.2		1adbb65c2e69c78553c5b1e9e474f30b6ace64f2
+io.quarkus	quarkus-undertow	3.22.3		3295f957188e79d1f0486a77d48df182fec1a88d
+io.quarkus	quarkus-undertow	3.23.0.CR1		ccb115ebbeb14c1c08ad3f46484c58d2396e02d7
 io.quarkus	quarkus-undertow	3.3.0		039c6fe3972c84eea3b1e0c0d1e67d26174e4796
 io.quarkus	quarkus-undertow	3.3.0.CR1		03ad157808d6e2fdd0af3411a909e9496b45c03d
 io.quarkus	quarkus-undertow	3.3.1		abf53a6c9c418e4c9c8b9350b0cadfe858c634e8
@@ -1374,11 +1385,19 @@ io.spinnaker.kayenta	kayenta-orca	2.45.0		a5ca47f7a0c2c900843b47a995a57b3ba48edd
 io.spinnaker.kayenta	kayenta-orca	2.46.0		cd10832572f64c7244c3b508db5f56499d40e063
 io.spinnaker.kayenta	kayenta-orca	2025.0-0		8ad7343055e0596ad3aac9b4bfa46b5a26be0585
 io.spinnaker.kayenta	kayenta-orca	2025.0-1		82f97b235e36f6e72345d313326787652c2b1340
+io.spinnaker.kayenta	kayenta-orca	2025.0-2		a018a29a0d0af7068420accd35a5808388b8c8c4
+io.spinnaker.kayenta	kayenta-orca	2025.0-3		2573e76581079cc8477673c5d81c0fea08805e5c
+io.spinnaker.kayenta	kayenta-orca	2025.0-4		caf16f79bb42c0e58e6addec596be6ba9ead0f77
 io.spinnaker.kayenta	kayenta-orca	2025.0.0		ca57adca3e1dba5ba391a10cede5f5ad921b2765
+io.spinnaker.kayenta	kayenta-orca	2025.0.1		a0bb13143ef4575211dbbf5f02c4a28ea940f54a
+io.spinnaker.kayenta	kayenta-orca	main-10		3a3375ce20ea9603a92c52e011e02628e93f86e5
+io.spinnaker.kayenta	kayenta-orca	main-11		71d7646a13ff3b7553bae3e3110064e9e3055add
+io.spinnaker.kayenta	kayenta-orca	main-12		5e38e578166837201be42a3a5f8dd237586987ff
 io.spinnaker.kayenta	kayenta-orca	main-5		7690ca1b00f662184e85baba73241ebf923e8967
 io.spinnaker.kayenta	kayenta-orca	main-6		a5dddd7ba7cdef777792ca6d2fee0fd93f8647f8
 io.spinnaker.kayenta	kayenta-orca	main-7		7c120c4b46d42c54215cc0854370b1e1284171ad
 io.spinnaker.kayenta	kayenta-orca	main-8		98c37860efab4bc9befc211dcddd362817c1aeb6
+io.spinnaker.kayenta	kayenta-orca	main-9		01864c8c2fd1aaa3896a6dfc72edaaca2023bad1
 io.sunshower.aire.ux.controls	aire-switch-parent	1.0.20.Final		N/A
 io.sunshower.aire.ux.controls	aire-switch-parent	1.0.22.Final		N/A
 io.youi	youi-app_2.13	0.11.11		0d5a515491f49e0709b1e6945c7f6ef51b0e3570
@@ -1629,6 +1648,8 @@ org.flywaydb	flyway-mysql	11.7.0		298270d7e29661e2792a1db6f18b63d8189cb5d5
 org.flywaydb	flyway-mysql	11.7.1		4e2b586232af332c656895e6735d4a04b38ecf72
 org.flywaydb	flyway-mysql	11.7.2		08d2884d56785b6f70b105991db72f885015decb
 org.flywaydb	flyway-mysql	11.8.0		f466b3f86bc14547d75949b2f0e4b823439544d7
+org.flywaydb	flyway-mysql	11.8.1		8a75435afeedbe1417ec5a77a138c2615256d568
+org.flywaydb	flyway-mysql	11.8.2		e396312304912fe516f3277267f64d961183666c
 org.flywaydb	flyway-mysql	8.2.1		a21a75bfc96faaa7316c6220c10178de229adbd7
 org.flywaydb	flyway-mysql	8.2.2		12767655c9457fce8ff49fde4d3148164ae31b8c
 org.flywaydb	flyway-mysql	8.2.3		a64ce144c4d8ff7edb2c7c456d74783c292780b9
@@ -1813,6 +1834,7 @@ org.webjars.npm	github-com-Viima-jquery-comments	1.2.0		a13e8a8f6661a1b9799d09e1
 org.webjars.npm	github-com-simogeo-geostats	2.0.0		893cd82b095811898174f08d289d14a2b9edc7c2
 org.wso2.orbit.io.grpc	grpc-context	1.27.2.wso2v1		232f1af233fb452afd94c361c10bdd02eee22483
 software.visionary	loadr	2025.03.28		N/A
+software.visionary	loadr	2025.03.28	software.visionary	802dad7d652493f4447892935b5ae986f38dc540
 ws.ament.hammock	messaging-artemis	0.5.0		71689640a4ab8057465ecbedd5f629c2c9b9d08b
 ws.ament.hammock	messaging-artemis	1.0		a445bf7377c3215df272ce049d3d38d1dd72190a
 ws.ament.hammock	messaging-artemis	1.1		610f12f60d1461b9825df3602433ffdf288f7c9b

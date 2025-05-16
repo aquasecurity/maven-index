@@ -315,6 +315,7 @@ com.agorapulse	micronaut-aws-sdk-kinesis-annotation-processor	3.3.8		82620beb7a4
 com.agorapulse	micronaut-aws-sdk-kinesis-annotation-processor	3.3.9		bc5b35fbceeaa849f6f0dd7213d6679b147cfc31
 com.agorapulse	micronaut-aws-sdk-kinesis-annotation-processor	3.4.0		a6c4001fb62b55873e555edd5911b1ed80512385
 com.agorapulse	micronaut-aws-sdk-kinesis-annotation-processor	3.4.1		c625c9fedd334aa97727fbf3aecc8821d5971eca
+com.agorapulse	micronaut-aws-sdk-kinesis-annotation-processor	3.4.2		dff5140b408e053a82221e3e30647abd07a14319
 com.amazonaws.scala	aws-scala-sdk-ses	1.10.7		ad9278dc4265b105c2a79cf8faad2ab572e1b895
 com.apollographql.apollo	apollo-annotations-wasm-js	4.0.0		N/A
 com.apollographql.apollo	apollo-annotations-wasm-js	4.0.0-rc.1		N/A
@@ -1142,6 +1143,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.24		019bf420bb2af1c
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.25		af1d04c762c61a114ffae430f9949c69b792748f
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.26		9b7dd283d5f249d89c0d8297474911b4ee517f31
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.27		2f050f0b3dcb1f77a04caa84d1b5e60760a39568
+io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.28		88f5ee7296068d750a1265ace32f49404ba2bef9
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.3		67de22a41529310b560d738332b115349502d566
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.4		9a19284123803d283ca6b05a59f863d5176e06b9
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.4.5		e07796972ab0532e4a53e4337dbdbd439aa28ed5
@@ -1159,6 +1161,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.13		5c99f12faf21a92
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.14		26528355b32d28affccf220a51f54b46172e04ba
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.15		5edea96a9198c0592d526a8c35262f940e19b2fd
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.16		77df82980668d74af1f5c33c6900e67a2f8f8ba6
+io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.17		44f3777844dd66c7f4469e33429784fed6769912
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.2		f22b8031a94234de37acd9911fa4d05f8cd68161
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.3		b447e0dc93dae3c17a1602fee48cccc3ce13ef4d
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.5.4		a1e4386132e785abc834b73c73b1937ec95b8c25
@@ -1171,6 +1174,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.0		28b8996dcac5f503
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.0-alpha.3		0a838c8ad1870986d3408f9730a9bc86662387b9
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.1		43e17a2d208b8f3902c075ec0362a00e95158d37
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.10		9b497a0504c72bb12d50de4fdc73e1bc77f2d21d
+io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.11		3f4d6f03b91dd9defd544425041ed119555e5d10
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.2		2c03df4bee0772d64d5687aa3dcd35a879a17e3f
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.3		7e69f23915ab7aba59ae8569328d84c4e3064f01
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.6.4		72465a23255e47294ba36f87c3d14350e11a6ae7
@@ -1187,6 +1191,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.7.1		fe2342ff39dc3f80
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.7.2		93d08a31b568ad31a85435e7855739dfb87b11eb
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.7.3		00ddd00759b0d771de1f41c498581d742b824927
 io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.7.4		4aa4bee069457ce29ccb92ba2f1f60beef10b31d
+io.gravitee.apim.gateway	gravitee-apim-gateway-reporting	4.7.5		b5892563e255b8335ea8e682673223e07ed2787e
 io.ktor	ktor-client-winhttp	2.2.0		04275453d9b51a87a4c1a7616cb955f923155ffa
 io.ktor	ktor-client-winhttp	2.2.0	all	4a3f203c9da49697fa7948e30edc166c34689bea
 io.ktor	ktor-client-winhttp	2.2.1		fe7d8bc0146cf8f63f08c0afde1479febfcc134f
@@ -1227,6 +1232,7 @@ io.ktor	ktor-client-winhttp	3.0.3		35a8be9b6953d87655e1bc6442a53d22ab150b6e
 io.ktor	ktor-client-winhttp	3.1.0		35a8be9b6953d87655e1bc6442a53d22ab150b6e
 io.ktor	ktor-client-winhttp	3.1.1		35a8be9b6953d87655e1bc6442a53d22ab150b6e
 io.ktor	ktor-client-winhttp	3.1.2		02ed16562614db16b78497bdbbdc7d5ea189ac5d
+io.ktor	ktor-client-winhttp	3.1.3		02ed16562614db16b78497bdbbdc7d5ea189ac5d
 io.miragon.miranum	connect-process-api	0.10.0		8e99c56cdf3fb29e7df61fb387986906cd91ea39
 io.miragon.miranum	connect-process-api	0.11.0		ceaa5eb57a366f9cc6978c566765b81df0c38a0d
 io.miragon.miranum	connect-process-api	0.8.0		63e567e25c9d16ba2286681be881f474396b7d66
@@ -1710,6 +1716,7 @@ org.danilopianini	rrmxmx-kt-watchossimulatorarm64	2.0.3		N/A
 org.danilopianini	rrmxmx-kt-watchossimulatorarm64	2.0.3	metadata	9b842f8e9560baff81efa419886aa6ee0d268f82
 org.danilopianini	rrmxmx-kt-watchossimulatorarm64	2.0.4		N/A
 org.danilopianini	rrmxmx-kt-watchossimulatorarm64	2.0.4	metadata	8675c9450c469767377b3d515fc9da30d6aa5c64
+org.danilopianini	rrmxmx-kt-watchossimulatorarm64	2.0.5	metadata	905ad087290e988f7235549b33251372a9dc2d79
 org.dromara	stream-plugin-mybatis-plus	1.4.3		0bc98443daee04e028d93fe1935aa227bd7db6bc
 org.dromara	stream-plugin-mybatis-plus	1.4.4		71f0b86c977a54aa661c3c22d4c96c2cbac7180f
 org.eclipse.core.runtime.compatibility	registry	3.2.1-R32x_v20060907		9415f82939d3fccc33e15e3b0702d5443b5968f6
@@ -2423,6 +2430,7 @@ org.wildfly	wildfly-jdr	35.0.0.Final		718dce56cff4b222ccc6b006d6fd2133fd1a4e13
 org.wildfly	wildfly-jdr	35.0.1.Final		c0732ef9c1601b666a792b321aa415106720a59d
 org.wildfly	wildfly-jdr	36.0.0.Beta1		0f67dcab4cd73ce4fcc87222eb653067a5e9b821
 org.wildfly	wildfly-jdr	36.0.0.Final		8840cfa4dc421fa9e28e140a33e30042c8db5a69
+org.wildfly	wildfly-jdr	36.0.1.Final		8294d1ab4f08b4fc15797fce4fe50e078b0984cf
 org.wildfly	wildfly-jdr	8.0.0.Alpha1		715c00dcfe28cc61a233719e1c4074f28a50478d
 org.wildfly	wildfly-jdr	8.0.0.Alpha2		3ad51b97a717cebbaa2f6f5122dbb2dfe1b104ce
 org.wildfly	wildfly-jdr	8.0.0.Alpha3		b106ae6ccc1d89a39bf799242d44112f93689531

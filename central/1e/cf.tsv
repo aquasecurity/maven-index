@@ -61,6 +61,7 @@ com.arangodb	jackson-serde-vpack	7.15.0		7bf01c27ec619255c9f8a96cd9dee03ed118429
 com.arangodb	jackson-serde-vpack	7.16.0		a259a9e9c3f8c9bab4a5aedcbbfe70c49a51cd28
 com.arangodb	jackson-serde-vpack	7.17.0		9dd905a9814485a43832385800b026cd265137ca
 com.arangodb	jackson-serde-vpack	7.17.1		389aad74f2759b8ee9763d62412f6a5f2a623228
+com.arangodb	jackson-serde-vpack	7.18.0		ae1b12732f758e8052d77a02191a9b05d5bd4da5
 com.arangodb	jackson-serde-vpack	7.2.0		30fd0f1855bc95915a5cef6906295951e093ffe5
 com.arangodb	jackson-serde-vpack	7.3.0		ae6460c62f55108070f018a697292fdf79e5eac8
 com.arangodb	jackson-serde-vpack	7.4.0		c1b3a0ecfa0f7c30d002b749486e5b7042a39187
@@ -352,6 +353,8 @@ com.playtika.testcontainers	embedded-couchbase	3.1.0		1d2b9f2e8b2a649587ecaec005
 com.playtika.testcontainers	embedded-couchbase	3.1.1		06a249a08287629d0b3775a6700619c2649cd58a
 com.playtika.testcontainers	embedded-couchbase	3.1.10		5864f6e90fd634bb7426da0d5eb51b1c62461a2f
 com.playtika.testcontainers	embedded-couchbase	3.1.11		dba2ce225b680b2d318d99739ecc0b6286614f72
+com.playtika.testcontainers	embedded-couchbase	3.1.12		932ce09dfcec7860b90f0c73a89e2ce788b960c4
+com.playtika.testcontainers	embedded-couchbase	3.1.13		8a17f17408459835461819555ce15e3bf7517d12
 com.playtika.testcontainers	embedded-couchbase	3.1.2		ba83969a306afce549c2833a2fdc353b9564c213
 com.playtika.testcontainers	embedded-couchbase	3.1.3		0c079acc0688d20080b004e396074cf9d1c29f9f
 com.playtika.testcontainers	embedded-couchbase	3.1.4		3ab5b1948ea0713d6fe89dcf9730a5a414853beb
@@ -750,6 +753,8 @@ com.vaadin	vaadin-form-layout-flow	23.5.12		b76fb1fafe9b00d00f7be8b227fbdf758d91
 com.vaadin	vaadin-form-layout-flow	23.5.13		cfd7522105010eae6c1bcdbc5a5f1ee233184c27
 com.vaadin	vaadin-form-layout-flow	23.5.14		d134870b1a61b21ebafea26b6ec21d2ccbe896be
 com.vaadin	vaadin-form-layout-flow	23.5.15		a2ac0b5bd86eeba8028ce59b1f3f953a11e6b78d
+com.vaadin	vaadin-form-layout-flow	23.5.16		01c8ca944ec799b5712ac810ed336344bbf59b91
+com.vaadin	vaadin-form-layout-flow	23.5.17		57ef17e36e56adb89647243b3afc74aa42c1e654
 com.vaadin	vaadin-form-layout-flow	23.5.2		077d791e9692787a1914ab3d6aac7c67bffcbf48
 com.vaadin	vaadin-form-layout-flow	23.5.3		7faf9cd5277ad5590d7d64556df41a556434e22e
 com.vaadin	vaadin-form-layout-flow	23.5.4		ff4b12c586e6ea1aa77b1ffd9c659522fde56ec6
@@ -864,6 +869,7 @@ com.vaadin	vaadin-form-layout-flow	24.5.8		7677e73e229d5d67ed2b3efefe92b803e131e
 com.vaadin	vaadin-form-layout-flow	24.5.9		e5ce2518ad3408624e65bc25b63784ad6095afc4
 com.vaadin	vaadin-form-layout-flow	24.6.0		dd05157b29f1e47e4e3a947134cd0873fe95afa9
 com.vaadin	vaadin-form-layout-flow	24.6.1		274d728330beca06a3070b1a8fd6a588b89a5b82
+com.vaadin	vaadin-form-layout-flow	24.6.10		331240e061c1e8a5f57f3923e52a1584c0bcff48
 com.vaadin	vaadin-form-layout-flow	24.6.2		2fc09a0c6ff4c833d11d103dc11daae7aea96285
 com.vaadin	vaadin-form-layout-flow	24.6.3		71b1854d2e38280600d844fd7bd986ef1aa4916b
 com.vaadin	vaadin-form-layout-flow	24.6.4		6dc78a3ba1a1d599cf61c990bf5205cc4a65fbed
@@ -876,6 +882,7 @@ com.vaadin	vaadin-form-layout-flow	24.7.0		99381dbe5a72dea37a8ba91ec375d127e2744
 com.vaadin	vaadin-form-layout-flow	24.7.1		3745afba5c855b1e1ba317e1c96b381cd0b86352
 com.vaadin	vaadin-form-layout-flow	24.7.2		01e62a79b005fac22944a508f797a3ea5f66afb8
 com.vaadin	vaadin-form-layout-flow	24.7.3		51e98d70936f3552abb4d26c25b812ade6ad4154
+com.vaadin	vaadin-form-layout-flow	24.7.4		74907b18ed84064f04483ab61c2d4f06a95b88ac
 com.vaadin	vaadin-form-layout-flow	3.0.0		913a6306d972302c16ae4ce501271d2d5e5566e7
 com.vaadin	vaadin-form-layout-flow	3.1.0		23e48deb73f06d33ffc7d67a890e80397abffcf6
 com.vaadin	vaadin-form-layout-flow	4.0.0		40ccfae2253d050fa929cc6135fb8da274daa6d7
@@ -1294,6 +1301,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.24		b0f7bc1d91238e6
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.25		cfb2d153c3ef1c8e0667d2a5c70c54b64a29fb61
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.26		20fc733a5ed272d27fe86abc96ff88b33daff7b0
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.27		570e448d6a770e2d9eb81e37db20b5c9b46b48ae
+io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.28		7d533d52f7f39a44f855fc3865bf1bdd6fece3ae
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.3		b3cdfa94bc30e1ed75c0dee2ae06ac899f7f3152
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.4		c6f229cc6855e8f8a87ae9a5cb5b43c5dc5e0d3f
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.4.5		757375110a4de704efa36a87ad40a735ba106e74
@@ -1311,6 +1319,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.13		f1d3a43f8a32dfc
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.14		fd36c7a382c02cec0cd4515e4cba3220333cf8c5
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.15		b7771b546560a96bab7828c2e9524846ec05e8da
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.16		b99a823df171a78639ff747d1df1b875e41f84b9
+io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.17		bd9aeaf49e23ae002c7d7109cae9d84808a3f623
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.2		a8300aa144b9b95759b1fb247f6b14fd15100e61
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.3		fbd19574895c0f1640989a80aeef277036ac2fd4
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.5.4		9b7ad095c005e26427ee4f533215727c65643dd0
@@ -1323,6 +1332,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.0		45d29a3385228dd7
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.0-alpha.3		0d31422f56acac116be359950e0b7cb67f551273
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.1		136a6f39c6b392ecc4d14af744573865ea384972
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.10		06ddc9fafed18731ab57eef802de719ca24cc540
+io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.11		e3056b33a56e115ecf6d97b92e6fca920cfff3d5
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.2		34bc919bcfe0272c1d958fb7d8dc9a94d33c8499
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.3		511b4c04262ac73c836e643dce57627d7497e698
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.6.4		0350359e2efde82f0f0e9098b85b8e1ad6986128
@@ -1339,6 +1349,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.7.1		67595359d3734524
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.7.2		0d04f883927a01dc966fd684c3fd20d57d59f545
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.7.3		0d8161c862d3dae8e6784e82c8b4d73192414835
 io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.7.4		0da4e9037facdfe05e22b7c65ed3aaa0bda3172d
+io.gravitee.apim.gateway	gravitee-apim-gateway-connector	4.7.5		8be89769b5db1e183b9ab57ec9ebf13e162b2641
 io.kamon	kamon-alpakka-kafka_2.13	2.5.10		70454fd4677bda09b158192fd7928d5bca91c923
 io.kamon	kamon-alpakka-kafka_2.13	2.5.11		f6c22e0c05e49e76ca3b6353c2337f96c7c1d7b6
 io.kamon	kamon-alpakka-kafka_2.13	2.5.12		8168c22d6b5aba7cf297a328638ab3e5bb69ba7e
@@ -1430,6 +1441,7 @@ io.liftwizard	liftwizard-graphql-exception	2.1.28		689dd32d9accdd7a64db447cd2b0c
 io.liftwizard	liftwizard-graphql-exception	2.1.29		32da9cf827df28538cc2d29c75412bd8792b5be7
 io.liftwizard	liftwizard-graphql-exception	2.1.3		b3534c783e3bb1947da161afe43d4de35bb44765
 io.liftwizard	liftwizard-graphql-exception	2.1.30		67196f91d04cedfa66e75a535f875cc8b54ec8d3
+io.liftwizard	liftwizard-graphql-exception	2.1.31		10e48b4b83343fb2ae99fe05126b4a38fd27d278
 io.liftwizard	liftwizard-graphql-exception	2.1.4		a0fbd9fa90d3094f8e23f6cc563e14f7a2b123ce
 io.liftwizard	liftwizard-graphql-exception	2.1.5		6e39d93312d2013df710fbd397c1a15108e659f0
 io.liftwizard	liftwizard-graphql-exception	2.1.6		226d6a7b8a94867d9d584573a22f897a970acff6
@@ -1780,6 +1792,7 @@ io.quarkus	quarkus-logging-gelf-parent	3.9.4		N/A
 io.quarkus	quarkus-logging-gelf-parent	3.9.5		N/A
 io.toolisticon.aptk	aptk-api	0.30.0		31c76660221dbfdf57cbaad9a7e11486115f9f43
 io.toolisticon.aptk	aptk-api	0.30.1		30149a337e6818744ca2b8d0b46964b4d6abd902
+io.toolisticon.aptk	aptk-api	0.30.2		eafea0b1c4b7292d6e5ef32037ac8f4bec220fa5
 net.gutefrage.mandrill	mandrill-core_2.11	0.1.5		71e76952fc67e9a347cacf0097a775fbad083a55
 net.gutefrage.mandrill	mandrill-core_2.11	0.1.6		3ced4b304eb82a1639b12a1822a8e95873cf76dd
 net.hamnaberg.json	immutable-json-reflection-codec	3.0.0		3e3e219783bc354fef002e0191c81c71f3399e99
@@ -1841,6 +1854,7 @@ one.leftshift.asteria	asteria-jira	4.0.4		e6186cd231c866ce7934803e1a5b34e255b5e9
 org.apache.camel.quarkus	camel-quarkus-integration-test-fury	3.18.0		29771032b425efb132535b19f02ec2da14ddba00
 org.apache.camel.quarkus	camel-quarkus-integration-test-fury	3.19.0		4cd21d8912150a605fa462abbd142207e6881527
 org.apache.camel.quarkus	camel-quarkus-integration-test-fury	3.20.0		478c9655af5d0177d317d0a9a2f2fa51f923a44c
+org.apache.camel.quarkus	camel-quarkus-integration-test-fury	3.20.1		26f15b5fc2e16016944263f9d359cf5d6fbc77ae
 org.apache.camel.quarkus	camel-quarkus-integration-test-fury	3.22.0		9aad12ac49da1441489de0f0ff3483fe1d257f32
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-routes-collector-parent	1.0.0		N/A
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-routes-collector-parent	1.0.0-CR2		N/A
@@ -3051,6 +3065,7 @@ org.opensearch	opensearch-geo	2.6.0		eb44d11a810ea6e0350bb0cebf9db6499b825aee
 org.opensearch	opensearch-geo	2.7.0		a63b31d32d1339957f361586acdf67b41d1df17c
 org.opensearch	opensearch-geo	2.8.0		489bb1b4c5e8a37308ef066cb24df8733997ae08
 org.opensearch	opensearch-geo	2.9.0		b8fcdda317364c0155cc951a10bfca47cf38133b
+org.opensearch	opensearch-geo	3.0.0		83367dc141e2ad1c40f9a03ed23147a32cc2e3d0
 org.opensearch	opensearch-geo	3.0.0-alpha1		a3a47d164f5a62352df4d56911d9598bfb0bcf39
 org.opensearch	opensearch-geo	3.0.0-beta1		b2e0b5e3a563135c00c554bdf0d6b41a5079de46
 org.ops4j.pax.url	pax-url-commons	1.0.0		26672de681fefaffb603f3e1eb07b0c515493aa3
@@ -3313,6 +3328,7 @@ org.typelevel	otel4s-semconv-experimental_3	0.7.0		de6d3bb067066b6cf8a1f5a38fcff
 org.typelevel	otel4s-semconv-experimental_3	0.8.0		ce63ac6a4f509adfeed9d87c0700b4a4940fcec7
 org.typelevel	otel4s-semconv-experimental_3	0.8.1		1fb7ec8500da040df664de0c2a77f1d9d6e2dd57
 org.typelevel	otel4s-semconv-experimental_3	0.9.0		c1117b5da68f7e7a55cfe12202b88b5248c68fb9
+org.webjars.npm	set-cookie-parser	2.7.1		de063b31d27ef1fc9eb42553f3c3fae5a2282fee
 org.webjars.npm	types__cucumber	2.0.3		e2e86ee0f502e61adbbd1a3c74a9d071c0d8051e
 org.webjars.npm	types__cucumber	3.2.1		c3d54548c9a17b763677c536f2e18dcaecb344c2
 sk.seges.corpis	corpis-application-scaffold-processors-parent	1.1.1		N/A

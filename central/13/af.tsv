@@ -9,6 +9,7 @@ ch.exense.step	step-controller-plugins-measurement	3.26.5-customized-j		4c3ddaf5
 ch.exense.step	step-controller-plugins-measurement	3.27.0		f1ca97ea4f281da990d74369494d93009486f43d
 ch.exense.step	step-controller-plugins-measurement	3.27.1		73491cab1ba9c29612a5767c1642c06522f74a71
 ch.exense.step	step-controller-plugins-measurement	3.27.2		bafc05f31114f0029a965aef0692e12f93b3cd1a
+ch.exense.step	step-controller-plugins-measurement	3.27.3		2a2c7ca7432cb7798c88e4b741ccf8bd31949782
 co.actioniq.thirdparty.com.twitter	scrooge-linter_2.10	3.17.0-4232bc888d6b09f0bf41930956b39dd8f398d96f		4f44bbdb649dbef57713e6ef4bebe7e91352d410
 co.actioniq.thirdparty.com.twitter	scrooge-linter_2.10	3.17.0-8c5cbcb473dd73e8900604e172d0e8c1bf2c8a74		a25312355ab0bc56e17d67edae350ab907e07bcb
 co.actioniq.thirdparty.com.twitter	scrooge-linter_2.10	3.17.0-fda97c3c64755e87643b4700e3b9ac136f24e79d		4fa8e4582e2880a1559f98a982b7662d9126a0c8
@@ -225,6 +226,8 @@ com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.59.0		0bc788ae68
 com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.6.0		1be45d544ff5fff6850941d538699dbf35d2f95d
 com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.60.0		1cdf998f9e67e77f18a91caa7e3293a58bf6e408
 com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.61.0		05c5484c22b46365d6103340345a9d9a0586f74b
+com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.62.0		51086295b2eb4ddf5dae6358fc54773be39e6682
+com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.63.0		3bc5cb0765f439f3e2a79cb49bcfbb389a580906
 com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.7.0		bfa1e1ccf911a400f3cf72c5948f1e2d3af53d22
 com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.8.0		c662357d13b0440768cbb894feaed8e26f9f2d0c
 com.google.api.grpc	proto-google-cloud-workflow-executions-v1	2.9.0		2833f3f9cbc6951190923a40c65daba9e8b250e9
@@ -592,7 +595,10 @@ com.mx.path-facilities	store-redis	4.1.0-rc.0		0d96b478d3c01ef510cf076564a2f8a4f
 com.mx.path-facilities	store-redis	5.0.0		1bc450a1509f1f9b194438a4f167084db48ebe80
 com.mx.path-facilities	store-redis	5.0.1		536dfb5b14040826a5c6f7f5cd23951baa90aaf3
 com.mx.path-facilities	store-redis	5.0.2		dd318d5da9b4d11cfbcf39fbdd916fec70b2f697
+com.mx.path-facilities	store-redis	5.1.0		b3bd7668417c879bd1eb3a96f6b5960dc824c6b1
 com.mx.path-facilities	store-redis	5.1.0-rc.1		9d0fe8333e1a544ef69fff1c447043a319385801
+com.mx.path-facilities	store-redis	5.2.0		25ba8f6783e43adf64e06437cd740b903a6005bf
+com.mx.path-facilities	store-redis	5.3.0		3831406a177f55281f9ac1e486e230c077f5b80c
 com.orctom.laputa	laputa-http-client	0.3		1eb6acaaee0b1dc0e1ec887875e4eab9fce89649
 com.paytmpayments.customuisdk	data-core	1.0.0		N/A
 com.paytmpayments.customuisdk	data-core	1.0.1		N/A
@@ -823,6 +829,7 @@ io.ktor	ktor-serialization-kotlinx-protobuf-androidnativearm64	3.0.3		5b1b866d15
 io.ktor	ktor-serialization-kotlinx-protobuf-androidnativearm64	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-serialization-kotlinx-protobuf-androidnativearm64	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-serialization-kotlinx-protobuf-androidnativearm64	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-serialization-kotlinx-protobuf-androidnativearm64	3.1.3		757091c83620341448204fe54900ba92d9ea1e5e
 io.skuber	skuber-examples_3	3.0.0-beta3		922c789f011389be554619a1f386909a45ed16c3
 io.skuber	skuber-examples_3	3.0.0-beta4		78ad16a9d4d5257e5eccc60e5e617308a20b948f
 io.skuber	skuber-examples_3	3.0.0-beta5		8573e83cffbae478b7e3be43c56093011c313e19
@@ -1279,6 +1286,7 @@ org.anyline	anyline-data-jdbc-mysql	8.7.2-20250312		7478c180835b4cf77469bd6a016e
 org.anyline	anyline-data-jdbc-mysql	8.7.2-20250401		39f27323c8a3bfad0d8450c0f36e727c8ce526d9
 org.anyline	anyline-data-jdbc-mysql	8.7.2-20250404		9e81ad72263711f5722fef40becc909f573e8d72
 org.anyline	anyline-data-jdbc-mysql	8.7.2-20250502		26822befaf6260abd80e6ba638fb10d64c9f837e
+org.anyline	anyline-data-jdbc-mysql	8.7.2-20250509		9c2a3b8396c3bc6d94f55a38859a9300cb04a25c
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20240816		a43cd2fd7e8e57f03357272656fe95308478e713
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20240819		72d7587883707d3d380dfd7d9840de5954ad988f
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20240826		a6a71b9ff80121b714d997e5aedb856015d82f30
@@ -1296,6 +1304,9 @@ org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20250108		e9b3dfa9002b06e6cd5d65
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20250212		1ac0ed8db1a484233bf8fc259783aa5a272629d4
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20250312		cafe9fc08b3da1596613fa2ede04f5ba62483749
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20250404		fb96222bf173da3f2b0fe2f284245458f7b2218d
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20250502		2de28bcdc97e4c9da797a3d8a6a365a6df950aa8
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20250509		9bf360db45f969f9ae53c5c796f53be7c1249e5c
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk11-20250515		ca0d7ae8ba96ac6b8386965700b4ac23c9064eb1
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20240501		32c312fef73dda5b25c3ac4425c09acdea28f516
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20240505		22241241e5cb3de86c4b8a538e1f735c6be7745e
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20240506		9f337e4cc6253fe37dbb20a181bd6d29c4ae9dfd
@@ -1369,6 +1380,9 @@ org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20250109		29c8327e1c6833fcff2465
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20250212		0c6924f43244bec8b214464dff0ba46b75970674
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20250312		9e8a5d47209ac64b1741fe4a17ca1824c0810dd5
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20250404		be5bdbf08378d5f33864dc35c8d13fc18f41502f
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20250502		198c3fb959d371624cc400f49df0d7c9cadb8eca
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20250509		c2b04822fa91f092b01ad7f7f2116ab41badd4f6
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk17-20250515		b625c5ece923b71b599e73c3a8d41a3b5b4c43c2
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20240501		579af8b18e9c27d4d5972854a152ea0a647f9881
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20240505		e45be81d87882b2e8c9543aea59bfe9f7c113e3e
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20240506		a3c2bf7e0203f5f66dfdb338e3489a5c9bd23b7f
@@ -1450,6 +1464,8 @@ org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20250109		fb07b9e803a459a1fda93b
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20250212		94827fd71fb4d61982bb02860c1e9799f1b09994
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20250312		de0fe4e69a9fc556a81b546f304857625ffa23c2
 org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20250404		52a5c32dea7960afc352a4495edd81fef124d82a
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20250502		22bfd9c0633b42caac96b0b4190df0ae08ff9481
+org.anyline	anyline-data-jdbc-mysql	8.7.2-jdk21-20250509		7f6d6d5153b3ee0c78c7174f6190d42928a71ea6
 org.apache.camel.springboot	camel-sip-starter	3.0.0		f4b6d38765e6539e15864cf78758add076808d9f
 org.apache.camel.springboot	camel-sip-starter	3.0.1		c3c6c15e581e910a042a30da58ef425dbddae8d8
 org.apache.camel.springboot	camel-sip-starter	3.1.0		13c0a3a11430ef6fac332816753652c6e86560dc
@@ -1711,6 +1727,7 @@ org.jmonkeyengine	jme3-ios	3.8.0-alpha3		2cfccb1107b4e04889211b8b7aa940b47f831ba
 org.jmonkeyengine	jme3-ios	3.8.0-alpha4		3ea168c4c9c3ce58494fa2f16272c0838daf94c3
 org.jmonkeyengine	jme3-ios	3.8.0-beta1		2826cbe199bd6b9cb9590b32d2d8638fe7e3c015
 org.jmonkeyengine	jme3-ios	3.8.0-stable		f18a720fc57599fc9bea95285c476f62bca66492
+org.jmonkeyengine	jme3-ios	3.8.1-stable		0650185e3d39b62178925c053a791ee15e3043a2
 org.joinedworkz.facilities	spring-boot-angular	1.3.27		a9d5407ee2186dfc92b92755d015842ca9e891b5
 org.joinedworkz.facilities	spring-boot-angular	1.3.28		5d9e58ec5ce867383e474c0b3972809757ad4ca7
 org.joinedworkz.facilities	spring-boot-angular	1.3.29		702e56a284eba10662a3d23bfd8853f9d16125c2
@@ -2387,6 +2404,7 @@ org.webjars.npm	babel__compat-data	7.21.0		6dd4b5f99ca4f5702f4f8593fe8ae8203b79d
 org.webjars.npm	babel__compat-data	7.21.9		7284ee58e899951b9f1646003e44a427731e651c
 org.webjars.npm	babel__compat-data	7.24.1		4184fbc1c634654da0284fb660b31c65aead769b
 org.webjars.npm	babel__compat-data	7.26.8		8392bd061c28a64b18f1026ebf7ffafe71181068
+org.webjars.npm	babel__compat-data	7.27.2		87c9f3b5a030458c89b6babe0bf4ce9547bcc89a
 org.webjars.npm	babel__compat-data	7.8.1		3e59ee4f3380a2f5a71be6b1b75e72347994ee9e
 org.webjars.npm	babel__compat-data	7.8.5		2e4ac1a74b3cfc7195588af918c7daaa13d1659f
 org.webjars.npm	babel__compat-data	8.0.0-alpha.12		a732febc3d506dba202ba5583ddfe195447bc577

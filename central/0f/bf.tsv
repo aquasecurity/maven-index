@@ -418,6 +418,7 @@ io.mats3	mats-spring-test	RC-1.0.0.RC0+2025-03-29		a2e88810d4dc02ec3f499ba5deeb9
 io.mats3	mats-spring-test	RC-1.0.0.RC1+2025-04-03		2f88acd5801e101d81e9de1cd68d62220f08fd46
 io.mats3	mats-spring-test	RC-1.0.0.RC2+2025-04-03		aba1f6fcadb50b818d78623959fd477d67c7d378
 io.mats3	mats-spring-test	RC-1.0.0.RC3+2025-04-10		a3dbbb32bc846640467f06b046004955a0d0be7d
+io.mats3	mats-spring-test	RC-1.0.0.RC4+2025-05-15		515976bd983e2cfb3bc0e73b6c3063f89abcd5db
 io.mats3	mats-spring-test	RC0-0.18.5-2022-02-22		9763a6e57cd8154363344eeb1747c2f608d20844
 io.mats3	mats-spring-test	RC0-0.19.0-2022-11-04		9cae9f72d8cca77e6669f17bb1a3a541b952bec6
 io.mats3	mats-spring-test	RC0-0.19.12-2023-10-27		b598729a2cab05ae263bda3698909225b00589e5
@@ -749,6 +750,7 @@ org.apache.beam	beam-sdks-java-transform-service-app	2.61.0		bdfc55762c2d83cd970
 org.apache.beam	beam-sdks-java-transform-service-app	2.62.0		ba3b15dca6c52a90a67f019bf839692afbe6e979
 org.apache.beam	beam-sdks-java-transform-service-app	2.63.0		ca26ef15112edcb133e457df882dbef24e3038f7
 org.apache.beam	beam-sdks-java-transform-service-app	2.64.0		f6a78e0f1f5f683c231dc4e4ae20cfd10f2ea623
+org.apache.beam	beam-sdks-java-transform-service-app	2.65.0		25b40e54a2a7a7bd740b70b504ad1ebc10f94086
 org.apache.tomee	microprofile-jwt-itests	10.0.0		e02d282a02e6b634fc8cb06556baf051e50fe92b
 org.apache.tomee	microprofile-jwt-itests	10.0.0-M1		451f861f8829f5e6503332b6d1ae877ef2b32d53
 org.apache.tomee	microprofile-jwt-itests	10.0.0-M2		64da33f0167a09e38d8fddbb0f718dcf84f75ace
@@ -1016,6 +1018,7 @@ org.opensearch.plugin	discovery-azure-classic	2.6.0		adfde15eafe3591521fc03952e3
 org.opensearch.plugin	discovery-azure-classic	2.7.0		7b5c0a1ee5b9e87b72d7074cbf0c2842bee5c2e2
 org.opensearch.plugin	discovery-azure-classic	2.8.0		70417a45e901598381ba1d38b552965b0bbd75d3
 org.opensearch.plugin	discovery-azure-classic	2.9.0		098f8cb163cd1a10e6f7d7e15ae799bd985500ec
+org.opensearch.plugin	discovery-azure-classic	3.0.0		9cb7172f3206273ba7f50bdc5a7344836d0d2aed
 org.opensearch.plugin	discovery-azure-classic	3.0.0-alpha1		21804b5cbd0eae6fbba45324b78bb974c92b179f
 org.opensearch.plugin	discovery-azure-classic	3.0.0-beta1		7dc390544c06123f3ccfadbd0cf57fca8d28d678
 org.ow2.joram	joram-tools-rest-jms	5.12.0		9b7078b42636dd02efb3eb6d98cf03258daa09ac
@@ -1054,6 +1057,7 @@ org.sonatype.sisu.jira.mediator	sisu-jira-mediator-parent	1.3		N/A
 org.sonatype.sisu.jira.mediator	sisu-jira-mediator-parent	1.3.1		N/A
 org.sonatype.sisu.jira.mediator	sisu-jira-mediator-parent	1.4		N/A
 org.sonatype.sisu.jira.mediator	sisu-jira-mediator-parent	1.4.1		N/A
+org.springframework.ai	spring-ai-model-chat-memory-repository-cassandra	1.0.0-RC1		bcfed328d47d92d7b8647698850e567c1d8035b1
 org.springframework.cloud	spring-cloud-contract-tools	1.0.0.RELEASE		N/A
 org.springframework.cloud	spring-cloud-contract-tools	1.0.1.RELEASE		N/A
 org.springframework.cloud	spring-cloud-contract-tools	1.0.2.RELEASE		N/A
@@ -1309,6 +1313,9 @@ software.amazon.awscdk	iotevents-alpha	2.190.0-alpha.0		37669a2dc4fae20a91098ad0
 software.amazon.awscdk	iotevents-alpha	2.191.0-alpha.0		1283f0fc8f6b63e1554d7a4c7ae209753c66e7b4
 software.amazon.awscdk	iotevents-alpha	2.192.0-alpha.0		1796fc958630bd6482f672ec3c98ce8932f2c5c9
 software.amazon.awscdk	iotevents-alpha	2.193.0-alpha.0		9837e5563a7eb9e322a7d9a98958573ba77e527d
+software.amazon.awscdk	iotevents-alpha	2.194.0-alpha.0		257831450ef3bc379b20fdb67a141d19c0d45b67
+software.amazon.awscdk	iotevents-alpha	2.195.0-alpha.0		3236478760fa6deb84055cccfa9c0542cfba4644
+software.amazon.awscdk	iotevents-alpha	2.196.0-alpha.0		9865102560b05a4951c0c269fe167d50848b53b7
 software.amazon.awscdk	iotevents-alpha	2.2.0-alpha.0		3358d424a25fd38b3aabeb84ace3da0533c63030
 software.amazon.awscdk	iotevents-alpha	2.20.0-alpha.0		f39b063a9241977c1de8a870e8b761e3bef73759
 software.amazon.awscdk	iotevents-alpha	2.21.0-alpha.0		f0eb793b6aeed98664bdc979468d0e29f33b7195

@@ -210,6 +210,10 @@ com.github.rarnu	rarnubase	1.1.5		N/A
 com.github.rarnu	rarnubase	1.1.6		N/A
 com.github.rarnu	rarnubase	1.2.0		N/A
 com.github.rarnu	rarnubase	1.2.1		N/A
+com.github.sbt	sbt-ci-release_2.12_1.0	1.5.10		9c0569345e0736bd7e48b1f8f47b79dd3c91d77f
+com.github.sbt	sbt-ci-release_2.12_1.0	1.5.11		36cc46c4b820d79ab13cb09bedf5083d67a65438
+com.github.sbt	sbt-ci-release_2.12_1.0	1.5.12		e31dbfad0f4325e7215cccc0c18153f2d2c0b6de
+com.github.sbt	sbt-ci-release_2.12_1.0	1.5.9		b7912495cfb63b963926718e6cfcafba40386938
 com.github.sbt	sbt-ci-release_2.12_1.0	1.6.0		2a61e410d32be46365cb5708cd01083fd38c7841
 com.github.sbt	sbt-ci-release_2.12_1.0	1.6.1		497f71cf87d3788208651bcc24be76fa7cfac045
 com.github.sbt	sbt-ci-release_2.12_1.0	1.7.0		6c483180ea4e8aa5800d1ee230c51d5691d71ead
@@ -775,6 +779,7 @@ dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.28.0-alpha01		6aee3aa1eb
 dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.29.0		f0f5042f4fd0915a7594db7524135ba3d9dea81a
 dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.29.0-alpha01		c1fefd17a797f6ea6563dc64d388d960b9287434
 dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.30.0		aca3d96d8e1a47be7589ba539dc5f3e4d06f09ec
+dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.31.0-alpha01		2f19276e3f31004442007a42ebd196eb49ee3880
 dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.8.0		9ebd6bc75b25becc0cb15db623d8942872b6489a
 dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.9.0		20a64908ebde5c32a7478834d84c97a6591deff8
 dev.zacsweers.moshix	moshi-sealed-java-sealed-reflect	0.9.1		8d696495bec647ff82c4097b8bd29deef1da91f5
@@ -1046,6 +1051,7 @@ io.quarkus	quarkus-liquibase-mongodb-deployment	3.15.2		5c1c8ea6bc7def2526d0a47c
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.15.3		f0c8798a331d6c25ddac59f144d752b40bd50c1d
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.15.3.1		5755e85c4280d2a6f1036a019528abd7c865e8f7
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.15.4		ef61943d940b889c099b99cff6a852dfbabc9a7a
+io.quarkus	quarkus-liquibase-mongodb-deployment	3.15.5		fbc78de6abd7fba6ca3cf9e6da24cfe1c0251576
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.16.0		5a26349c2d517ad7b23548eb7d768db0f9a49ca9
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.16.0.CR1		1ec38f70bbc78e3f1cd558dae0604c7d8963a2b3
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.16.1		f57733fa0857a4d0b7156010e11c3ed5723e58e9
@@ -1090,6 +1096,7 @@ io.quarkus	quarkus-liquibase-mongodb-deployment	3.2.8.Final		dede446afc0c7edafbe
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.2.9.Final		4d4b3b13e35046e499c6987fef971a0f498016e2
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.20.0		9b6eee403a010fcbda16764b88ca71fce90b6df4
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.20.0.CR1		32bda308725d8cea0b96010fa662f942aee22739
+io.quarkus	quarkus-liquibase-mongodb-deployment	3.20.1		c454635e1c5d1210a7f1fa1691d372926f0b2b67
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.21.0		a4bf7b459a456ef098affccfdc3976e90ce34a37
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.21.0.CR1		c8ada89f6c7bccbaab5a43c7d5dea09ebfc03bf3
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.21.1		4ef92cbb5cde6c51670b712d98bd908d1140b236
@@ -1099,6 +1106,9 @@ io.quarkus	quarkus-liquibase-mongodb-deployment	3.21.4		dc6400621732870f08162986
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.22.0		d38a5405d04d4ed2985912b6df26c22833136a76
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.22.0.CR1		e5c1671c590b16d21b355765c97bc44393721a93
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.22.1		38e5eb65152d9c3e9e0a459587330224352f29b2
+io.quarkus	quarkus-liquibase-mongodb-deployment	3.22.2		5625f728a50295cc41094b057ea043259a7d404f
+io.quarkus	quarkus-liquibase-mongodb-deployment	3.22.3		d262f600063486e567f26f7c1925faced7b5e84f
+io.quarkus	quarkus-liquibase-mongodb-deployment	3.23.0.CR1		e2d902f5b8d3ef34b82897a22c74f7f98c1f6c82
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.3.0		b53a320a5e7625785253877f78104b09f96ca38a
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.3.0.CR1		11843c1ac4a103c5ebf23f889a41e2456b95a878
 io.quarkus	quarkus-liquibase-mongodb-deployment	3.3.1		96f3b93fd9cbe794c92d7708fa380b4b1e77070a
@@ -1417,6 +1427,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.41.1		c8d
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.42.0		d9b01a2b9fbfe3b531b737f29c5be67614858d3e
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.43.0		b45360601fc98c941bd2b296d6ef177229450f6f
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.44.0		42319ad20b6fc48cbac72bdc0ebc88f507b290ff
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.0		9977c1bb330dc953419979f5faafb8e337afe9d0
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.1		4d1522719e0d74fb1158b65f62c904421c60c136
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.10		88207b6abc819b24980eeca6a34b2ebcdfbf8223
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.11		dcb39e4af7dd60d64f226f50c7be0a9f3b90e1b9
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.12		e94309f303811f2ba6b077d38d891a640a2cd7c0
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.13		fcb9d5e8c577f67b45e5918c543cf42ca14e4c26
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.3		ba334d6440253a8d1a10c8ca1c4bbec5cde6f890
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.4		fd06f8860c8177496903f06c39565e635f846f56
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.5		cdefe124d9fd281195a8535b301bf53842732d1d
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.6		ab649f8dd2f4b7cb76b72db6793d4b5218317954
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.7		da8bfe38d30c7242387f1b8a9867e69500633113
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.8		84a61773065130f3d369012ecf0b95261529d0df
+org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.45.9		abe920d0219c334d97ccbcd766823b9bf8efd140
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.5.0		f7bfdc6ab574d043ea32b34102408a4a61821b4e
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.6.0		640750327a39b0c7d35461d4eb2923efdc258652
 org.eclipse.dirigible	dirigible-components-ide-ui-publisher-service	11.6.1		0930d62883eea09ceab57e1d6173c3bd06fb00dc
@@ -1648,6 +1671,7 @@ org.jetbrains.compose.material3	material3-uikitx64	1.7.1		N/A
 org.jetbrains.compose.material3	material3-uikitx64	1.7.1	metadata	79a695d406581346dc4adba4d5f2da5ddc402b62
 org.jetbrains.compose.material3	material3-uikitx64	1.7.3		N/A
 org.jetbrains.compose.material3	material3-uikitx64	1.7.3	metadata	79a695d406581346dc4adba4d5f2da5ddc402b62
+org.jetbrains.compose.material3	material3-uikitx64	1.8.0	metadata	62f606e549782cc979752792820162b89883d346
 org.jetbrains.compose.material3	material3-uikitx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.material3	material3-uikitx64	1.8.0-alpha01	metadata	79a695d406581346dc4adba4d5f2da5ddc402b62
 org.jetbrains.compose.material3	material3-uikitx64	1.8.0-alpha02		N/A

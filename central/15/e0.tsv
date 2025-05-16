@@ -177,6 +177,11 @@ com.apihug	it-common-api	1.3.4-RELEASE		2e812cb12a25adae54b7d0b84f944f89041f8f7d
 com.apihug	it-common-api	1.3.5-M1		bb2e077981ff5d245d545588c342735658a57be2
 com.apihug	it-common-api	1.3.5-M2		f3d0f8279cb6e3c578ffa8f5cea8ef9babf1c266
 com.apihug	it-common-api	1.3.5-RELEASE		5e45aa0368488a60995097062d98a2f8df447e54
+com.apihug	it-common-api	1.3.6-M1		22a7cef2577db4312eafdabb1bcb8f7dcae7b282
+com.apihug	it-common-api	1.3.6-RELEASE		9fb928df22d039591d2dbb9118e16046fcfd7d35
+com.apihug	it-common-api	1.3.7-RELEASE		4cb8982e3a49b25e10af1bee0a5672a3ad79d236
+com.apihug	it-common-api	1.3.8-M1		71048b50767f77febf2fca228625e2134e858bdc
+com.apihug	it-common-api	1.3.8-RELEASE		b140981cf777f419c85ed94b428eb60044fa1ca7
 com.canoo.dolphin-platform	dolphin-remoting-combined	0.10.0		0917bab549f35e50cebbb49015d6a4da560b59f8
 com.canoo.dolphin-platform	dolphin-remoting-combined	0.11.0		9cd57cffe6f14852b6d566dfc6d7e405b3eeca6b
 com.canoo.dolphin-platform	dolphin-remoting-combined	0.12.0		c4ebf790651ff977383a721bb37ef36de08ab478
@@ -495,8 +500,17 @@ de.cidaas	oauth2-interceptor	1.2.0		576c7b202d298ca7b467f6e444acf63ba70503ea
 de.cidaas	oauth2-interceptor	1.2.1		20f19d052921cc32b480fafef4a39bfffb7deac5
 de.cidaas	oauth2-interceptor	1.2.2		d20ed32a8850c3f85d9dee33fe3fcfc34930c21b
 de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.3		823a46bda1ed71d549d6b1c9b3dedc83ee3e4134
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.3	10.5.4	7e9f0550cfc7701a636de7b39446434b697796db
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.3	11.0.1	20c898b07a23b2ffa2856d0574aa9f6307244cc7
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.3	9.0.4	80b2956b5848cb9c02a080b4d73672f6ca60b180
 de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.4		00ad45334038852941a5690c9fd6647b46873edb
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.4	10.5.4	49a4058770af491022f8185c321c611a02a751a0
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.4	11.0.1	19fd383e6b154409f44b093ccf863a67d4ce824e
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.4	9.0.4	82fa88ea71e044a0d87005f17f8c59cac7578631
 de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.5		2128cbb24edc0d08e189768e66fdbb93cff81836
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.5	10.5.4	8e67c668810b96decd53ac17284a0cdd38f7b3ae
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.5	11.1.3	8f6b27bfe9603c8cec188097de6f130de8a505e9
+de.plushnikov.lombok-intellij-plugin	intellij-facade-factory	0.5	9.0.4	625bd730502337dcf85d333d9ad30ab6421b172c
 dev.nesk.akkurate	akkurate-kotlinx-datetime-tvosarm64	0.10.0		N/A
 dev.nesk.akkurate	akkurate-kotlinx-datetime-tvosarm64	0.10.0	metadata	5422201fb165f8fa5260576b3d2420efa80c05c7
 dev.nesk.akkurate	akkurate-kotlinx-datetime-tvosarm64	0.11.0		N/A
@@ -1134,6 +1148,10 @@ io.github.clescot	kafka-connect-http-connectors	0.8.24		7ce131436b73d5024fdd38ff
 io.github.clescot	kafka-connect-http-connectors	0.8.24	docker-info	ffbb9ae557b74d2ebd0f6c08e47bf154a31b23f6
 io.github.clescot	kafka-connect-http-connectors	0.8.25		34bf67dce5e379689e822da0ce914d069cbb76af
 io.github.clescot	kafka-connect-http-connectors	0.8.25	docker-info	372415ead51d22d2afcc21ebf7ad9724ca930b46
+io.github.clescot	kafka-connect-http-connectors	0.8.26		a705e97a2969804d4e0424179e91014dacceb679
+io.github.clescot	kafka-connect-http-connectors	0.8.26	docker-info	26d403b9af008c0690b55f527326850de3c52b70
+io.github.clescot	kafka-connect-http-connectors	0.8.27		93f3a9b62016b0d1b8d6665fe05e0da5607cd7b5
+io.github.clescot	kafka-connect-http-connectors	0.8.27	docker-info	6f95a764f6a16b9f6da066df7bfd27962d48cf26
 io.github.clescot	kafka-connect-http-connectors	0.8.3		1035cc025321aa84bff6082fea0929c359e4f2a1
 io.github.clescot	kafka-connect-http-connectors	0.8.3	docker-info	cfb4372210c2dcd94795d0a7681e890fe3f7a220
 io.github.clescot	kafka-connect-http-connectors	0.8.4		ed1194e074175e88f662cf5cf8a0833b91faac50
@@ -1601,6 +1619,13 @@ org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.4.8-6.28.2		4a2b0530c6748
 org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.4.9-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.0-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.1-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.2-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.3-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.4-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.5-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.6-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.7-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-react-router	2025.5.8-6.28.2		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-react-router	6.10.0-pre.531		5d761a7657caf62d1e845345c7a70880d9fae928
 org.jetbrains.kotlin-wrappers	kotlin-react-router	6.10.0-pre.532		5d761a7657caf62d1e845345c7a70880d9fae928
 org.jetbrains.kotlin-wrappers	kotlin-react-router	6.10.0-pre.533		5d761a7657caf62d1e845345c7a70880d9fae928
@@ -2153,3 +2178,4 @@ se.oyabun.criters	criters-reactor	1.0.0		N/A
 se.oyabun.criters	criters-reactor	1.0.1		N/A
 software.amazon.app.platform	presenter-public-iosx64	0.0.1		N/A
 software.amazon.app.platform	presenter-public-iosx64	0.0.1	metadata	7deda52b244feef8a6093e44862075443ed7dd8a
+software.amazon.app.platform	presenter-public-iosx64	0.0.2	metadata	6d1abc08c63703774c933bd364a9fcdc57014808

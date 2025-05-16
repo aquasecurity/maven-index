@@ -377,6 +377,8 @@ com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.143		27591a98020eba33032490dd850
 com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.144		4ba370c907d59d551b56ec6845e7b80a88121ef0
 com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.145		a8dbf602f31b7f7bc63905fe709eeb3cac69b78a
 com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.146		8c46a0d366eba2c069c1e9c992237e4a2d7d0b2d
+com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.147		aa749caa17d18e0510edebe8cdb6fe8921e9b84c
+com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.148		b7fce6dd703abac646ba2c227432be1bc520669e
 com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.15		df3faa94fce5d2449e80404563f75672a44f27c2
 com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.16		a85e1a03dc597110b4a46995f82b3cbc539bbe80
 com.huaweicloud.sdk	huaweicloud-sdk-meeting	3.1.17		7135ecc102526f1efd7c6204dba43ead5db9c07b
@@ -972,6 +974,7 @@ dev.zio	zio-aws-guardduty_2.13	7.31.27.1		53f26df0fdd24cae2a7b0df5a0f472ab82385d
 dev.zio	zio-aws-guardduty_2.13	7.31.28.1		d30d1fbdbe633d497b537565f592a0579d4aef52
 dev.zio	zio-aws-guardduty_2.13	7.31.3.1		c2ef5336d1233128c89b61c141e96eb8248d1681
 dev.zio	zio-aws-guardduty_2.13	7.31.30.1		f573b8344e14ae56aa34e55ab07798846b256e6a
+dev.zio	zio-aws-guardduty_2.13	7.31.30.2		e42d2fab63dc28274bb5a3ff2fa796e60f3c3e2e
 dev.zio	zio-aws-guardduty_2.13	7.31.4.1		e07d1a0be3588db60d9d4cb32ea64136fb07dd9c
 dev.zio	zio-aws-guardduty_2.13	7.31.6.1		4a984bfd8e80fc3e2bf1fed6b8c89d8ffe8bd46f
 dev.zio	zio-aws-guardduty_2.13	7.31.6.2		c9e6c92283ca88a6c947b4badc0da7e1052802da
@@ -1416,6 +1419,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-import	11.41.1		3243f4de96f83e
 org.eclipse.dirigible	dirigible-components-ide-ui-import	11.42.0		006434fe5ceb5c9329ae3bb4be3166def5843d9a
 org.eclipse.dirigible	dirigible-components-ide-ui-import	11.43.0		abb32726c0556b0a824de201665abf91280d6048
 org.eclipse.dirigible	dirigible-components-ide-ui-import	11.44.0		71f804511db43fad5089eb729f5029ad4d175655
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.0		e27ca9bb9000c14c7328c1fb6dbf860393984b97
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.1		4c95756f4b624297ab91542086c47add1004857b
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.10		d0bfd1ec699abb642bcb52ad7dfab4d8050e2139
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.11		26d9fa7ef22cdffeed66296da381dfc49b35932a
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.12		f11b550450306e98ba246705d67d3253c5382654
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.13		1fbf0a88d897b3e8045749448538bf3e64fbd98d
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.3		a9bcf77cd7ef90bc18246777fb43fe44723b15d1
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.4		26bac142539dd6db43a4574168ba153d17534d45
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.5		bdaa25de44fe7f07f65f812a8203340e11ea50fc
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.6		773134bf6958d9a56a95892e560639e467f91f96
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.7		666568e682ad39eee328553a43f34129fefe0707
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.8		308321d1b7628eabcfdb2846b88293340dbc62e1
+org.eclipse.dirigible	dirigible-components-ide-ui-import	11.45.9		3bddfb891f7b3b08381e987fac8efeca080e5efb
 org.eclipse.dirigible	dirigible-components-ide-ui-import	11.5.0		b43d5564842d16278a21b8869fd982ba98f69415
 org.eclipse.dirigible	dirigible-components-ide-ui-import	11.6.0		c0ada8bcd79ea536734bb0bf965069580c2a4e0d
 org.eclipse.dirigible	dirigible-components-ide-ui-import	11.6.1		e5c92cb4d84423280eebccfb92155cbc220de91b
@@ -2119,4 +2135,8 @@ tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.0.8		N/A
 tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.0.8	metadata	8d052ae44e26825a392616d94c5b852d527e145e
 tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.0.9		N/A
 tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.0.9	metadata	0010630f70fded251faf8f6c5b61dc2ea6c7f1a4
+tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.1.0	metadata	b5ef798dedffcfa49b891d07de9fa1769900f784
+tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.1.1	metadata	0c29429133eb0bb1a1ef8858d20f0d9e367ab56e
+tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.1.11	metadata	7df502b5c6b08d1cacab5058289575c2a18bb9c7
+tz.co.asoft	kotlinx-interoperable-exports-tvosarm64	3.1.12	metadata	fd48654f12af1b734fcadcd29f091b57d37beaf5
 uk.org.retep.third-party	third-party	10.1		N/A

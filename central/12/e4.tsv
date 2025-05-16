@@ -458,6 +458,7 @@ com.solace.connector.core.transform	pubsubplus-connector-transform-processor	2.1
 com.solace.connector.core.transform	pubsubplus-connector-transform-processor	2.14.4		dbb274ae20faab90068f194a7967ed1e715bad5f
 com.solace.connector.core.transform	pubsubplus-connector-transform-processor	2.15.0		5e8f9cfb41d2f483ed30a1e532c84ef8c6667646
 com.solace.connector.core.transform	pubsubplus-connector-transform-processor	2.15.1		008322534312afb658d07ed4a62717a64f03d439
+com.solace.connector.core.transform	pubsubplus-connector-transform-processor	2.15.2		d5b75398133f91203bfcbff33089e2e46af44922
 com.solace.connector.core.transform	pubsubplus-connector-transform-processor	2.8.1		87d9c2e2ed654160f9700ec8608fcc9fa8307184
 com.solace.connector.core.transform	pubsubplus-connector-transform-processor	2.9.0		34e667d749dbf96d365d7d44bf0606b4cf7bbc47
 com.sparkjava	spark-template-freemarker	1.0		3b1c6993f46b80c1ce7b1c7505c2ad3c9d4083ba
@@ -829,6 +830,9 @@ de.otto.synapse	synapse-aws	0.9.1		b86e147062f8c8b253a63fdaed45381ec8e48425
 de.otto.synapse	synapse-aws	0.9.2		114b19137832bb382db5a554faf6a890e9f4ab9a
 de.otto.synapse	synapse-aws	0.9.3		f9672fb644a1cbadd387d324b15812e5a6c91517
 de.otto.synapse	synapse-aws	0.9.4		ff0d1996105dc9babdacbab866e6147e4330630f
+de.sciss	sbt-appbundle_2.9.1_0.11.2	0.10		af8fd0111921c5cefbb0c86d67bd3cdea4273faf
+de.sciss	sbt-appbundle_2.9.1_0.11.2	0.11		5941f26870f0c8cedbd6c09b262def6402cb8230
+de.sciss	sbt-appbundle_2.9.1_0.11.2	0.13		37e7812cb4c92078792c3b43823054526d1a720b
 dev.inmo	micro_utils.ksp.classcasts.generator.test-android	0.21.2		N/A
 dev.inmo	micro_utils.ksp.classcasts.generator.test-android	0.21.3		N/A
 dev.inmo	micro_utils.ksp.classcasts.generator.test-android	0.21.4		N/A
@@ -1053,6 +1057,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2.13.3-alpha		8149163198b01d46b753ce3d63a766d059ff9d58
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2.14.0-alpha		66b2c46b9bc7031de0e67368f1e7c0ac17ca2103
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2.15.0-alpha		281f461e6ccc9eb83495f4e9fb36e3c53385d0c9
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2.16.0-alpha		8a61a4250d00a4a2903bd00489e4b0667a52e23a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2.2.0-alpha		4700f25e108d0ccc32bbd5a01a72c85386551914
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2.3.0-alpha		b3ccd2bad330132001ed6b2cf179f8b7f05fa974
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-5.1	2.4.0-alpha		2983458ec0d63bd566257dddc9ca64c3f8a4f1d4
@@ -1342,10 +1347,17 @@ org.finos.legend.engine	legend-engine-xt-hostedService-api	4.79.0		b6e9c72629f68
 org.finos.legend.engine	legend-engine-xt-hostedService-api	4.80.0		246a175750e8029f3b8e9a687926debbf274f8f3
 org.finos.legend.engine	legend-engine-xt-hostedService-api	4.81.0		4fb8049f0e0f70ea68e1ec6114dd3b3485512961
 org.finos.legend.engine	legend-engine-xt-hostedService-api	4.82.0		66459dfed9484c7c5fa528ebbff037445b6afcb7
+org.finos.legend.engine	legend-engine-xt-hostedService-api	4.82.1		96cc0c5266c0c079c92e12d3a48f56ca4c2d35a3
 org.finos.legend.engine	legend-engine-xt-hostedService-api	4.83.0		9efab74e41a3582cfbce3209dedb3ef6c0428d6f
 org.finos.legend.engine	legend-engine-xt-hostedService-api	4.83.1		709473e93a00acfa1bb055f394460c3428236e6a
 org.finos.legend.engine	legend-engine-xt-hostedService-api	4.83.2		5ce03b2fae3d9430080887a7214fdbfeec203f6a
 org.finos.legend.engine	legend-engine-xt-hostedService-api	4.83.3		689282d82d8309837da4deb666c0b0835c516692
+org.finos.legend.engine	legend-engine-xt-hostedService-api	4.84.0		0d0443d65294a264350f22a07e875c858b3f9f95
+org.finos.legend.engine	legend-engine-xt-hostedService-api	4.84.1		f6cf464aa9f3456208b0b2921c30731fb7079bf8
+org.finos.legend.engine	legend-engine-xt-hostedService-api	4.85.0		142d987223ed719c44b08e46dfda93a15a605ffe
+org.finos.legend.engine	legend-engine-xt-hostedService-api	4.85.1		7b427a1575258d4f408074a8d593c5d5ebe45b7f
+org.finos.legend.engine	legend-engine-xt-hostedService-api	4.85.2		9f9c2aa098c9401e9a7fe3babacfbcf91443de4b
+org.finos.legend.engine	legend-engine-xt-hostedService-api	4.85.3		252c7d7229e24f7d76af687e123c83e12d8698a4
 org.hornetq.rest	hornetq-rest	1.0-beta-1		44a1bd62931cd83c1b8722ebfc15c95b79ebfb5c
 org.hornetq.rest	hornetq-rest	1.0-beta-2		9ea93b657c5c537b4c29dea4b31a0d46455aca50
 org.hornetq.rest	hornetq-rest	1.0-beta-3		4edc97a5849f5bb52cc8b6946d05b38170445d53
@@ -1509,6 +1521,7 @@ org.mongodb	mongodb-driver-legacy	5.3.0-beta0		1173358060234c00123f964b2f2833a35
 org.mongodb	mongodb-driver-legacy	5.3.1		e8e03cc0ba92b1c96d90ac60ac65cd4c3d548ec3
 org.mongodb	mongodb-driver-legacy	5.4.0		18098a125d1d3cf72e2ddfeb9d1b1ea3930c1676
 org.mongodb	mongodb-driver-legacy	5.4.0-alpha0		3f70eff0d3ca9f6b6c3f3ae943be8aa4963ed7f0
+org.mongodb	mongodb-driver-legacy	5.5.0		85e12efd0217bc614392b0c1fa44de3a5a2a33f2
 org.mycore	mycore-classbrowser	2018.05		f9b8aa2e1538189b7c013a97846eeb4fb22620ea
 org.mycore	mycore-classbrowser	2018.06.0		1b7664d8fdeaf52d23eb96eae0026ae6005d63f8
 org.mycore	mycore-classbrowser	2018.06.0.1		d1688b67cb6f55f5c5ecc128e45f61a6591fffe7
@@ -1529,12 +1542,14 @@ org.mycore	mycore-classbrowser	2020.05		4fea8f518bfe4203478de78205943edcc146056c
 org.mycore	mycore-classbrowser	2020.06.0		ca02c98710732b5ec4d350e31c0401fc04fad51f
 org.mycore	mycore-classbrowser	2020.06.1		6479570b88f484b80bff59c9ab63c842ccf1108f
 org.mycore	mycore-classbrowser	2020.06.2		061dfa84b4333b03c94f1cac48fddf5456104d2e
+org.mycore	mycore-classbrowser	2020.06.3		1edef37f9c3493f87f62740f7d91bd538814c87a
 org.mycore	mycore-classbrowser	2020.08		13ff5336d553a7df54219c83956965f74823e49a
 org.mycore	mycore-classbrowser	2020.11		2c51920cce457787cc9890389850f7f4cb38fc77
 org.mycore	mycore-classbrowser	2021.02		e22187bccd8633b873ec90330e51706071162b97
 org.mycore	mycore-classbrowser	2021.05		8fe0ed13edecc1a6b805dbe334e29cb0386f05fb
 org.mycore	mycore-classbrowser	2021.06.0		19aaab32102ec997af86154fbd8a687175533b44
 org.mycore	mycore-classbrowser	2021.06.1		2ee6e75e5a72cd64706bd6d7450ddf4a3f8e2943
+org.mycore	mycore-classbrowser	2021.06.2		f001afd6f4abb4546bc8da8766ab4d2a9163d50e
 org.mycore	mycore-classbrowser	2021.08		d3c24456dfbef7f57510c5e7babb8d33e5cc0244
 org.mycore	mycore-classbrowser	2021.11		ad1a379401ba677d551052d542e0b294f0109f99
 org.mycore	mycore-classbrowser	2022.02		257083ae85dc9ce2981847058aaf4b89eea39f4c
@@ -1542,6 +1557,7 @@ org.mycore	mycore-classbrowser	2022.05		65cfb8c470c3fba29c37927e1bca6b78895a13df
 org.mycore	mycore-classbrowser	2022.06.0		dca94b75cb0861466274360081d15a53a81e5aee
 org.mycore	mycore-classbrowser	2022.06.1		ee991ea15122f5a71c054c2ddc005e36cc134163
 org.mycore	mycore-classbrowser	2022.06.2		ac79b69a8087e9c5a3457a500f534c623ded032d
+org.mycore	mycore-classbrowser	2022.06.3		601627c85a328033b36bcb57e7423d00a17eac28
 org.mycore	mycore-classbrowser	2022.08		516073eac75fb19ca9250c75f21feb802990103b
 org.mycore	mycore-classbrowser	2023.05		95a26d4e21042091de667565d41b3ee44e65be0e
 org.mycore	mycore-classbrowser	2023.06.0		99c865c85028d6409a9a5d3f3f76e69be1f7c2af
@@ -1840,6 +1856,7 @@ ru.i-novus.messaging	messaging-support-kafka	4.1.3		6f1d46fd63a616ce4aa97f204667
 ru.i-novus.messaging	messaging-support-kafka	4.6.1		0418ddacd392ca810181786aa10ab92f7e10997b
 ru.i-novus.messaging	messaging-support-kafka	4.7.3		c1d89f1c4ffba3fe694b5dfc1157fe1fc34cae1b
 ru.i-novus.messaging	messaging-support-kafka	5.0.4		3813e8df676cf72485cb26881c49ba58c34e014f
+ru.i-novus.messaging	messaging-support-kafka	5.0.5		e680c1df00eca847a3f8ca70351397a5f00d024c
 sh.almond	scala-kernel-api_2.12.13	0.11.2		589edc345089e98ee7fd2814f03989aaa270b24f
 sh.almond	scala-kernel-api_2.12.13	0.13.0		00c87eb55bb43b720a2148ba6a34a70393e32b17
 sh.almond	scala-kernel-api_2.12.13	0.13.1		e20f465d92a32bcb266ef7fb01be28f2617e18ef
@@ -1870,6 +1887,7 @@ sh.almond	scala-kernel-api_2.12.13	0.14.0-RC7		daeea8d3e41e061b2a83e36fb5508d107
 sh.almond	scala-kernel-api_2.12.13	0.14.0-RC8		940d2e4534c911c53099490694565514d8330872
 sh.almond	scala-kernel-api_2.12.13	0.14.0-RC9		e08110eec384ab55c80a8042c7dc10529d9438a6
 tech.guazi.com	uploadimage	1.0.0		N/A
+tv.cntt	xitrum-plugin_2.10_0.13	1.4		a2cb405ba400ffb07a77aa133505589cfae7c243
 tz.co.asoft	later-test-expect-tvosarm64	0.0.51		N/A
 tz.co.asoft	later-test-expect-tvosarm64	0.0.60		N/A
 tz.co.asoft	later-test-expect-tvosarm64	0.0.61		N/A

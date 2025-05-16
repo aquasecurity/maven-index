@@ -156,6 +156,7 @@ com.emarsys	core	3.7.9		N/A
 com.emarsys	core	3.8.0		N/A
 com.emarsys	core	3.8.1		N/A
 com.emarsys	core	3.9.0		N/A
+com.fortysevendeg	sbt-dependencies_2.10_0.13	0.0.1		24f0fb4654ce25a7dcfb88328b88decb71527bd8
 com.fredhopper.server	embedded-rest-server	0.1.0		d252a4c9aebc49dda10dfb4b678b8bd55eb3a0ed
 com.fredhopper.server	embedded-rest-server	0.1.2		531ed544f1ea7db2c595e7f8c578651a56dad681
 com.fredhopper.server	embedded-rest-server	0.1.3		59c54ae43741466744b5d3b2190d019512fd1bc1
@@ -810,6 +811,7 @@ dev.zio	zio-aws-cloudwatchevents_2.13	7.31.27.1		26c98645a9e210abcbec0c3a1885ec1
 dev.zio	zio-aws-cloudwatchevents_2.13	7.31.28.1		88b8610cd63993abd79acc641b9c7e2b6b767e32
 dev.zio	zio-aws-cloudwatchevents_2.13	7.31.3.1		53a237489914b285709c9b362e95617266223e7c
 dev.zio	zio-aws-cloudwatchevents_2.13	7.31.30.1		599426ff740faf90bfa348510cd5530b47f35552
+dev.zio	zio-aws-cloudwatchevents_2.13	7.31.30.2		656fcc22f21d229e1da5e8f6f98e018014c04668
 dev.zio	zio-aws-cloudwatchevents_2.13	7.31.4.1		39f08d4ef259d1e5b321323310dfd30778b9f464
 dev.zio	zio-aws-cloudwatchevents_2.13	7.31.6.1		a221d0afc551f8289121153d20a2fb76a0e8acea
 dev.zio	zio-aws-cloudwatchevents_2.13	7.31.6.2		c0398509b4971ab86af2cf58fac8dabf8536fcaf
@@ -1485,6 +1487,8 @@ tech.antibytes.kfixture	ktx-datetime-iosx64	0.4.0		N/A
 tech.antibytes.kfixture	ktx-datetime-iosx64	0.4.0	metadata	16d06f991b654f596db73855ee7f3f82f6cd20a9
 tz.co.asoft	klip-api-watchossimulatorarm64	3.0.15		N/A
 tz.co.asoft	klip-api-watchossimulatorarm64	3.0.15	metadata	4b0bb63c3fbd29662aa4d8e918c524fe39af4475
+tz.co.asoft	klip-api-watchossimulatorarm64	3.1.1	metadata	5d9bc0d35d6a0ee51b402d41c00fb5013ad74cb2
+tz.co.asoft	klip-api-watchossimulatorarm64	3.1.11	metadata	70deae5df33a7ca4579dc7ff8df5e07281863cf5
 tz.co.asoft	symphony-paginator-jvm	2.0.17		3438ee2520d6965369edf1c509b7871529e52fb7
 tz.co.asoft	symphony-paginator-jvm	2.0.18		3438ee2520d6965369edf1c509b7871529e52fb7
 tz.co.asoft	symphony-paginator-jvm	3.0.1		2d4295bdd0826dfc39e948397886db7a54499e4a
@@ -1501,6 +1505,9 @@ tz.co.asoft	symphony-paginator-jvm	3.0.6		178e4e9703f9949a301c91524ad1ae0f97c947
 tz.co.asoft	symphony-paginator-jvm	3.0.7		ffff5286188ae634f1bd97ad06593d603b0dd3e0
 tz.co.asoft	symphony-paginator-jvm	3.0.8		ffff5286188ae634f1bd97ad06593d603b0dd3e0
 tz.co.asoft	symphony-paginator-jvm	3.0.9		ffff5286188ae634f1bd97ad06593d603b0dd3e0
+tz.co.asoft	symphony-paginator-jvm	3.1.1		1630e301ea9ff31ca3e680d0378802150aeda1cd
+tz.co.asoft	symphony-paginator-jvm	3.1.11		1630e301ea9ff31ca3e680d0378802150aeda1cd
+tz.co.asoft	symphony-paginator-jvm	3.1.12		1630e301ea9ff31ca3e680d0378802150aeda1cd
 uk.gov.nationalarchives	sns-utils_2.13	0.1.100		f4da292db00cf7f692dafdfb2930cb1554b0d8f1
 uk.gov.nationalarchives	sns-utils_2.13	0.1.101		9061098a064057d639a63debe9d633ac824de7b3
 uk.gov.nationalarchives	sns-utils_2.13	0.1.102		91de9b64b4187ae2559d4ffa1f11279ded69d669
@@ -1657,6 +1664,14 @@ uk.gov.nationalarchives	sns-utils_2.13	0.1.253		6fc6eb6744f9d79c1248b8fbe0778363
 uk.gov.nationalarchives	sns-utils_2.13	0.1.254		8178acba31af5a3aefe756cbd15d4d75a2ddc695
 uk.gov.nationalarchives	sns-utils_2.13	0.1.255		614cd74d881912fdba80a97386d06f10266d2283
 uk.gov.nationalarchives	sns-utils_2.13	0.1.256		811040826b51a266dfe7fe1ff22f456df8caf32e
+uk.gov.nationalarchives	sns-utils_2.13	0.1.257		c4094e4dd84ec2b19e3645b4865d4de39855cada
+uk.gov.nationalarchives	sns-utils_2.13	0.1.258		fb10e4753cb3212e23ebf106fcec777a52551713
+uk.gov.nationalarchives	sns-utils_2.13	0.1.259		d85992b2d015ce0cf6b7e7af03b5a6c3f810d1fd
+uk.gov.nationalarchives	sns-utils_2.13	0.1.260		3ca6c3d24bbb84916b392aeaf7252547e5c7604a
+uk.gov.nationalarchives	sns-utils_2.13	0.1.261		b9283501af93d6e7ca22b9e5dadc64e61d4d9a25
+uk.gov.nationalarchives	sns-utils_2.13	0.1.262		e671480c8eec7a510edbfc3a47832c5a59f733b0
+uk.gov.nationalarchives	sns-utils_2.13	0.1.263		7155a2f79622a8f5d334c4e5ff08dde27aecd2d0
+uk.gov.nationalarchives	sns-utils_2.13	0.1.264		0f8e2c0e5954288a2a049e6eb12785b291db1e1e
 uk.gov.nationalarchives	sns-utils_2.13	0.1.55		7b31a60db2986b379a0ba984917910de2c8615c4
 uk.gov.nationalarchives	sns-utils_2.13	0.1.56		e9363b0e57b7c583cdfe02df3b123970123dc4fe
 uk.gov.nationalarchives	sns-utils_2.13	0.1.57		75aa340f08425ca92f332ae38f2330e597e31598

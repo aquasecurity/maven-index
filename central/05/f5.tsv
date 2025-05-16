@@ -199,6 +199,7 @@ com.eygraber	compose-placeholder-material-iosarm64	1.0.1		N/A
 com.eygraber	compose-placeholder-material-iosarm64	1.0.1	metadata	4fe4b40160a892f447d6987fb2ad87a919c8114a
 com.eygraber	compose-placeholder-material-iosarm64	1.0.10		N/A
 com.eygraber	compose-placeholder-material-iosarm64	1.0.10	metadata	ca64e724c485feb69aa01011bc198907532b45bb
+com.eygraber	compose-placeholder-material-iosarm64	1.0.11	metadata	ad1c07c438f233fdd4edc26d82e0e645022d586f
 com.eygraber	compose-placeholder-material-iosarm64	1.0.2		N/A
 com.eygraber	compose-placeholder-material-iosarm64	1.0.2	metadata	2263051c815e46cd1974b7e65f20cd73b0166fe4
 com.eygraber	compose-placeholder-material-iosarm64	1.0.3		N/A
@@ -384,6 +385,7 @@ com.okta.jwt	okta-jwt-verifier-impl	0.5.0		d6cb3fdcb4ee886d79b8c482134d4cd55ab31
 com.okta.jwt	okta-jwt-verifier-impl	0.5.1		6821da3c288765b1e65592e4be655974ab8f20dc
 com.okta.jwt	okta-jwt-verifier-impl	0.5.10		c67a1c4da43d9be7343d630aca3dcbc5acf8032b
 com.okta.jwt	okta-jwt-verifier-impl	0.5.11		36ef5d9730c0aa640765c74949aecb15c722b0ec
+com.okta.jwt	okta-jwt-verifier-impl	0.5.12		611cc50ed17ffe7a44873dee41f7d2ed07461d3a
 com.okta.jwt	okta-jwt-verifier-impl	0.5.2		9d5d8fa96d2a307276ffad6bccba843f1754dcb3
 com.okta.jwt	okta-jwt-verifier-impl	0.5.3		0517fb54b5fa857cad456e95878d538855d7bd4c
 com.okta.jwt	okta-jwt-verifier-impl	0.5.4		6bebfb2f1ae4ef3cae986b98ecdd958eae866567
@@ -1457,6 +1459,7 @@ io.quarkus	quarkus-container-image-buildpack	3.15.2		5619d3c83ab8b00cf4c155e0ad5
 io.quarkus	quarkus-container-image-buildpack	3.15.3		df05370a96fdfc12b5ab92d8267d50ed47ed1b23
 io.quarkus	quarkus-container-image-buildpack	3.15.3.1		81ad98830d30f9f383f6288a32aba90f7d1fb82e
 io.quarkus	quarkus-container-image-buildpack	3.15.4		f9fc808f547911be1e85392b7bd9134da4c65cbe
+io.quarkus	quarkus-container-image-buildpack	3.15.5		8e89cf2f1206634af30921f8b18667497de6be13
 io.quarkus	quarkus-container-image-buildpack	3.16.0		1c6a7c0659c59d73a71eb0e3f884e9afc94de8ed
 io.quarkus	quarkus-container-image-buildpack	3.16.0.CR1		74c2705f8ab5ed0568fdc304ca42c4d3ea6dc09f
 io.quarkus	quarkus-container-image-buildpack	3.16.1		e7efa6b181460bead21ccf223dbfe3c9ffa82e2b
@@ -1501,6 +1504,7 @@ io.quarkus	quarkus-container-image-buildpack	3.2.8.Final		c7220277d914227652039e
 io.quarkus	quarkus-container-image-buildpack	3.2.9.Final		60e627c3c5ccc12da7cf3ab419d86d018b9dc572
 io.quarkus	quarkus-container-image-buildpack	3.20.0		36b3029aa5e005b40db8424070eaf4dbff00f333
 io.quarkus	quarkus-container-image-buildpack	3.20.0.CR1		1dab856799f1a8b81a3aa6e846cfc7d0e87653bf
+io.quarkus	quarkus-container-image-buildpack	3.20.1		43970cba4043c927102c73a93450d93aa30f64c4
 io.quarkus	quarkus-container-image-buildpack	3.21.0		9cade9f06d022e34b4adf5e447f4a0ccc8e08943
 io.quarkus	quarkus-container-image-buildpack	3.21.0.CR1		10c28e59af76200acfd3b14f99ee8e1cb626cb74
 io.quarkus	quarkus-container-image-buildpack	3.21.1		2ddafb07ecb38121bc59062b0c69857d07f2986c
@@ -1510,6 +1514,9 @@ io.quarkus	quarkus-container-image-buildpack	3.21.4		3d54f93fc783bf6532ed9717ddb
 io.quarkus	quarkus-container-image-buildpack	3.22.0		516a7e9729d7365614d2c8cca0337ed6a0134fbf
 io.quarkus	quarkus-container-image-buildpack	3.22.0.CR1		34617dbcc8d97623a99ff2fc5d44ea1d710adeec
 io.quarkus	quarkus-container-image-buildpack	3.22.1		7156c2f3e40be748c82028502b1646aca763a5ea
+io.quarkus	quarkus-container-image-buildpack	3.22.2		ba0dc603c57465eab08f7b97816761cceb7643e2
+io.quarkus	quarkus-container-image-buildpack	3.22.3		e0aa1876eaa8ed9aad91ed1dc1e7bd5099918de2
+io.quarkus	quarkus-container-image-buildpack	3.23.0.CR1		8a0c70a2829da879b749dc90ee41efdf7ed1f183
 io.quarkus	quarkus-container-image-buildpack	3.3.0		b9fcd15a02efc6eb59402ee268059461066cf31c
 io.quarkus	quarkus-container-image-buildpack	3.3.0.CR1		2f0d8597b3c61a4c5c588ee95dca4013ef281e25
 io.quarkus	quarkus-container-image-buildpack	3.3.1		4d00017c7c02b565258dae653befa4fa7510e3ef
@@ -2279,7 +2286,10 @@ io.streamlayer	sl-protofiles	5.155.1		0de89c1cb7b2048de451ae146b856cfbc310a199
 io.streamlayer	sl-protofiles	5.156.0		49ab0836614bc185f1b232f278c6a0e52382cc0f
 io.streamlayer	sl-protofiles	5.157.0		274eaf10319ca94aec95edc2bfe49d99ec2c201f
 io.streamlayer	sl-protofiles	5.157.1		0b7846c340a045e0b9c5630247dc3ece5ec1d8c8
+io.streamlayer	sl-protofiles	5.158.0		1747d331b745fb9ff76d67b35a576f05ac7f0602
+io.streamlayer	sl-protofiles	5.159.0		426b666f6d49dca98b345b4db16e137f22f4c838
 io.streamlayer	sl-protofiles	5.16.0		39b3cddb6b7f897a8476b4efd1cda6e886006462
+io.streamlayer	sl-protofiles	5.160.0		a1aacbf2ca21118553c5927af8d0a693eea68ddf
 io.streamlayer	sl-protofiles	5.17.0		77eb6fe66186afc87a3125d5dba6946ff0a6a4ec
 io.streamlayer	sl-protofiles	5.17.1		63bd7cbdfdc5f748d6acc38ce9736f2b60b68c47
 io.streamlayer	sl-protofiles	5.17.2		aafd04adfc1150a3574d4401afb6ca639632c48f
@@ -2880,6 +2890,13 @@ org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.4.8-2.0.1		4a2b0530c6748
 org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.4.9-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.0-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.1-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.2-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.3-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.4-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.5-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.6-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.7-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-null-writable	2025.5.8-2.0.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jnosql.artemis	cassandra-extension	0.0.2		2ddc25eacb1d99868c8dc18db2ba6ec191e50163
 org.jnosql.artemis	cassandra-extension	0.0.3		9528064a387875898e0513af566ded289f3d0a81
 org.jnosql.artemis	cassandra-extension	0.0.4		51344e29ca6ef5f72d78678d56f547b5e90e787d
@@ -2905,6 +2922,8 @@ org.logging4s	logging4s-upickle_3	0.8.0		c9fe55292bea11d8e967efca11e9cd948380ae7
 org.logging4s	logging4s-upickle_3	0.8.1		a767dd9a503f6de3a7986809d5bc790198391eff
 org.logging4s	logging4s-upickle_3	0.8.2		d1d38bd0a35aa1648587563954a4f92fa9e656d5
 org.logging4s	logging4s-upickle_3	0.8.3		580e9cb0e1e4be2c886be521cde4b4263053246f
+org.logging4s	logging4s-upickle_3	0.9.0		6a48672760db846bf78945f9bc805692f450fbb4
+org.logging4s	logging4s-upickle_3	0.9.1		409b4bc26be01bf0a8c75d37c31bf4dab7e4d1a8
 org.mvnpm	p-limit	1.3.0		44ec1411abc4e4337bc8c457a9260a320142bc75
 org.mvnpm	p-limit	2.3.0		434cf81d74ff51d8e74c3e3cb66b004d00ba3496
 org.mvnpm	p-limit	3.1.0		512bf1c06a08cdca80596ec88c7f97401b72bbd1

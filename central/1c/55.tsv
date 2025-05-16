@@ -1,3 +1,4 @@
+ba.sake	sharaf-core_3	0.10.0		4f7e3d3e52aa008fdd3e36740862837d4aa579bf
 br.com.jhemarcos	cns-api	0.0.1		37727a7a8912174f3e96f8d4f0f7182751d9e252
 br.com.jhemarcos	cns-api	1.0.0		4c47d716fa5c4e978ad10f3583fb1c8b58242101
 ch.digitalfondue.vatchecker	vatchecker	1.0		41ed76ec36d9a166b97acbc1f912361f5b25b72f
@@ -190,6 +191,7 @@ com.factset.sdk	vermilion	2.1.0		aa5897cb8aba78a7199bbe22ac925e5ae4d08766
 com.factset.sdk	vermilion	2.2.0		da082d52a157de768e46deb1514f60cdc631e03e
 com.factset.sdk	vermilion	2.2.1		15634ab35c85ad0a8a6e503ce778dc628674eb5e
 com.factset.sdk	vermilion	2.2.2		3f43db2035a5065321fbf7ef62d4a2a1ff513548
+com.factset.sdk	vermilion	2.3.0		0569d06864edd1c3793e60c5534e786c07fb0688
 com.getsentry.raven	raven-logback	7.0.0		d5a1c1491fd7a2003146d165a088d12a6e7e05de
 com.getsentry.raven	raven-logback	7.1.0		a668b60fb259846b7d75e8955786e5a8ebc97115
 com.getsentry.raven	raven-logback	7.2.0		89729102f6beb9f5eaa9f18b2cfbd37ec1959a90
@@ -765,6 +767,7 @@ dev.zio	zio-aws-mediaconnect_3	7.31.27.1		c10a2c9b0742ab6625f06b1b3975330489ef3c
 dev.zio	zio-aws-mediaconnect_3	7.31.28.1		b9ce32bfb5c36bf661efa4e6036793a04c014c43
 dev.zio	zio-aws-mediaconnect_3	7.31.3.1		a5b9778f1510c2b0def2d48c52d259bf26d75cf9
 dev.zio	zio-aws-mediaconnect_3	7.31.30.1		d991197f5d74837fa20fa8035b4dcf9818d6306f
+dev.zio	zio-aws-mediaconnect_3	7.31.30.2		9d1bdd1591b264aed121a1477011e44be8bbb7f7
 dev.zio	zio-aws-mediaconnect_3	7.31.4.1		16d9e85392e8b3f28e68b32e42c8d4f53c754475
 dev.zio	zio-aws-mediaconnect_3	7.31.6.1		4f66cda808ccd5240757ef5711a09a449732e304
 dev.zio	zio-aws-mediaconnect_3	7.31.6.2		b97dbf4e7aac69ee3e34841d0c5c0f668d5971a8
@@ -917,6 +920,8 @@ io.ktor	ktor-server-data-conversion-iosarm64	3.1.1		c3b1b0a0a95659a3d627a1ff86e7
 io.ktor	ktor-server-data-conversion-iosarm64	3.1.1	metadata	289c249e17f0e3766bc50557b9c66d0ec5ebce60
 io.ktor	ktor-server-data-conversion-iosarm64	3.1.2		69dadeefcce7407ad9cab9164c00cd09324a2203
 io.ktor	ktor-server-data-conversion-iosarm64	3.1.2	metadata	06e95fef04001016105f67115e54e3be2a25c359
+io.ktor	ktor-server-data-conversion-iosarm64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-data-conversion-iosarm64	3.1.3	metadata	1177e9d20991acb0fcfdfdc82462870ac06d5c93
 io.methvin.standardmethods	macros_2.13	0.2.0		1d08aebf3ab61b44cda690f8be76aa90a16566c9
 io.micronaut.email	micronaut-email-sendgrid	1.0.0		050f0f10f313c27e547987f03c2f7b9b922f52a8
 io.micronaut.email	micronaut-email-sendgrid	1.0.1		ba6695eeaa99f42e5813921d20cd8ba189b5188d
@@ -1236,6 +1241,7 @@ org.apache.camel	camel-bonita	4.8.3		c303ca3b4aeef7f91b44a5c6abe4326cebd719e6
 org.apache.camel	camel-bonita	4.8.4		624e1d706ea971abe8793092df43a79c19bb23fd
 org.apache.camel	camel-bonita	4.8.5		63554e8a7e7fcbdd95b77060d763b85d6d040759
 org.apache.camel	camel-bonita	4.8.6		18855f92d0d0f846d71479c7158b8f206bee2ae4
+org.apache.camel	camel-bonita	4.8.7		f23f9c461449eea467259f89681f508c3a83d3c4
 org.apache.camel	camel-bonita	4.9.0		a1eab2abddb3ec20d654066dec340ed3963b22e5
 org.apache.camel	camel-spring-xml	3.10.0		7ef212ba0f85e2961456d35c6f7077b84966023a
 org.apache.camel	camel-spring-xml	3.11.0		5a7eda798fa5cac401f00d9bf51a6cbc4b666deb
@@ -1331,6 +1337,7 @@ org.apache.camel	camel-spring-xml	4.8.3		53e63ab242582a6635113e34f8ca268529d3c99
 org.apache.camel	camel-spring-xml	4.8.4		f57dad056f7de332680239027718ae9c2d63e96b
 org.apache.camel	camel-spring-xml	4.8.5		9686e3af23852be3b44914fdeea3bae8687e1bc3
 org.apache.camel	camel-spring-xml	4.8.6		9ba590962533355f9235ea36217c410765a012c1
+org.apache.camel	camel-spring-xml	4.8.7		a573b5748f0dd8d2735f0ef417890c46b3a2f13a
 org.apache.camel	camel-spring-xml	4.9.0		4bb800ee4c876e73f9b53f25a68990ac6a115d07
 org.arquillian	arquillian-universe	1.0.0.Alpha1		N/A
 org.arquillian	arquillian-universe	1.0.0.Alpha2		N/A

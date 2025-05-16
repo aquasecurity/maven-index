@@ -200,6 +200,8 @@ com.google.api.grpc	proto-google-cloud-translate-v3	2.59.0		f416f8331075e401dc78
 com.google.api.grpc	proto-google-cloud-translate-v3	2.6.0		8ff4c12468ea7224bb2fbd4de145002076dcfdad
 com.google.api.grpc	proto-google-cloud-translate-v3	2.60.0		26f89cfd9a92dd8bcea9b0da40e694aa3ae9172e
 com.google.api.grpc	proto-google-cloud-translate-v3	2.61.0		d7fd41bf75065d0976e39b7f9dc64f97a68c870e
+com.google.api.grpc	proto-google-cloud-translate-v3	2.62.0		e00958cf2d4b30697e9317d70f7bef76be2896f3
+com.google.api.grpc	proto-google-cloud-translate-v3	2.63.0		294e3b0f88dbbf4c4277e1432e81cbf27e206c4a
 com.google.api.grpc	proto-google-cloud-translate-v3	2.7.0		01a76ed74c73d231824b6de97348dd56e4c0681c
 com.google.api.grpc	proto-google-cloud-translate-v3	2.8.0		fc91a0154cb520cba31ab0f3dd8128e6f92de3c7
 com.google.api.grpc	proto-google-cloud-translate-v3	2.9.0		576cd5e2abbeaa6f8c084983a5ce223f1a7d091d
@@ -1173,6 +1175,7 @@ dev.zio	zio-macros_2.12	2.1.14		c3230bfde6965effd615ddb744cfb8c0ad51a00e
 dev.zio	zio-macros_2.12	2.1.15		4339ab46400f6e8e0e47e718d550e77fb6a53e27
 dev.zio	zio-macros_2.12	2.1.16		97150c490056df6b7ab687e1ec8f826dc66b2db6
 dev.zio	zio-macros_2.12	2.1.17		ff1a341813ba64a649ee5ba52fcb8954554120ac
+dev.zio	zio-macros_2.12	2.1.18		899617fa88e0beab25392fc651e1239021152224
 dev.zio	zio-macros_2.12	2.1.2		f92f75936b6b3a5df36d34837a360f30edc2cf45
 dev.zio	zio-macros_2.12	2.1.3		316ccdb19aa3766c3b7c5e78792aa248f8b4bda5
 dev.zio	zio-macros_2.12	2.1.4		a696cf6187695507b303c614cd180315a6f9e3ed
@@ -1270,6 +1273,12 @@ hu.bme.mit.theta	theta-xcfa-cli	6.13.0		de4e98f6263b0bde5bcbf6c20fb8e6264723dcbb
 hu.bme.mit.theta	theta-xcfa-cli	6.13.0	all	9e385eaaee06ab7911ac90c7441fc9c5fba9191c
 hu.bme.mit.theta	theta-xcfa-cli	6.13.1		0ab845aa870c186d03d0bdc8f270a7372545c810
 hu.bme.mit.theta	theta-xcfa-cli	6.13.1	all	91cc552cf8bc192c0dc61f1ef328436df4db00cc
+hu.bme.mit.theta	theta-xcfa-cli	6.13.2		67c8e099ff98f1252518f4f03fc65e9fb8e0a79f
+hu.bme.mit.theta	theta-xcfa-cli	6.13.2	all	3309473f876c07e0fbbee413df2a82f14a34d026
+hu.bme.mit.theta	theta-xcfa-cli	6.14.0		f629a54d42e23d105b34eaf5e3c17fbc68663771
+hu.bme.mit.theta	theta-xcfa-cli	6.14.0	all	e6d0c04887d1f1dad8c6500b27a8dc9e30913243
+hu.bme.mit.theta	theta-xcfa-cli	6.14.1		07c3c2747e62b8a74709f21408af8551ae5c4c5e
+hu.bme.mit.theta	theta-xcfa-cli	6.14.1	all	ba7185fdf56ae7e2de1e719027d49680cb1c0158
 hu.bme.mit.theta	theta-xcfa-cli	6.2.0		de70c6be8056b3d752b7f8c4d5f93a3bd71f614d
 hu.bme.mit.theta	theta-xcfa-cli	6.2.0	all	c37c56ac0dd8efc3b46bf1aba5bf653bf2d1d07a
 hu.bme.mit.theta	theta-xcfa-cli	6.3.3		f6dcbbc7ced353e6aa73763b10b697a17d236501
@@ -1949,7 +1958,11 @@ io.smallrye	power-annotations	2.0.0.RC3		01c62c2d6e399adb929b21886d04124e4a780b1
 io.smallrye	power-annotations	2.0.0.RC4		9170ca4db3d9bf3255dbc16e2658387b2f9a36cf
 io.spinnaker.gate	gate-plugins-test	2025.0-0		afd6dfc2e67831a71aa2dd6cf18be6da5a0939be
 io.spinnaker.gate	gate-plugins-test	2025.0-1		62826450a09f4a092607ce732f768f21b4581919
+io.spinnaker.gate	gate-plugins-test	2025.0-2		36e9c8ac91b428f05cf055a581d552823d47f803
+io.spinnaker.gate	gate-plugins-test	2025.0-3		40fa3a495504fcdda0404bb2e0eb6da72508b74f
+io.spinnaker.gate	gate-plugins-test	2025.0-4		da12176444dd05b8feabab74fae53ba1a79bcf46
 io.spinnaker.gate	gate-plugins-test	2025.0.0		634ed665308ed7e6369d993bd2c8ef0f43fecc24
+io.spinnaker.gate	gate-plugins-test	2025.0.1		2a874310511f1a6c22c4f3b531abb48e95ded094
 io.spinnaker.gate	gate-plugins-test	6.52.0		ef21b89b225c6b5e48416a2a450131cb3f484ee8
 io.spinnaker.gate	gate-plugins-test	6.53.0		e791577ef8bc1005a893e5f6cd0c104a83e754b9
 io.spinnaker.gate	gate-plugins-test	6.54.0		0c676527c524d23417409779f623551c51da073d
@@ -2003,10 +2016,14 @@ io.spinnaker.gate	gate-plugins-test	6.66.6		cd4586bb1efadf82bd8f024028bc37d46c5d
 io.spinnaker.gate	gate-plugins-test	6.67.0		5d321855e3ea043c7187e2283e48131ca43c9427
 io.spinnaker.gate	gate-plugins-test	6.68.0		c35952ffd8003fb8113bc7607cd512a11133ae74
 io.spinnaker.gate	gate-plugins-test	6.69.0		54143a5dac8edaedce61cb18998c8f6a4b5ab72a
+io.spinnaker.gate	gate-plugins-test	main-10		aed34e114c59e055bf32e803d6bb43fb840d17a2
+io.spinnaker.gate	gate-plugins-test	main-11		29073bef3fbf32a44db3e6f112a5c0d2cd310c48
+io.spinnaker.gate	gate-plugins-test	main-12		ed676b5e6dfb6f0f3e080a713c336d64436ad448
 io.spinnaker.gate	gate-plugins-test	main-5		bb81ea97ea25a4f2227b4bec8c58616d21c99136
 io.spinnaker.gate	gate-plugins-test	main-6		af7bdb7f5dd99045f720397fe3d8d20d5087f500
 io.spinnaker.gate	gate-plugins-test	main-7		ef36cccc7a345c74ffc4afad7dab4b0595f23eb7
 io.spinnaker.gate	gate-plugins-test	main-8		8ad5abd5ae698abac02acd0b000ee100af04b86d
+io.spinnaker.gate	gate-plugins-test	main-9		a9c0bf482600e47a43858ac693708c4f4cd43132
 it.techgap	tgi-commons-security	1.2.1		1d99604dfba0a17c47e417ca983d4b67e1d3cb3a
 it.techgap	tgi-commons-security	1.2.2		43ce44b158e18ead55c00b744592dc9ab61b6ac6
 it.techgap	tgi-commons-security	2.0.0		c9050c6f58c5f176575973793f42f5012aa0702b
@@ -2763,6 +2780,7 @@ software.amazon.awsconstructs	kinesisfirehoses3	2.83.0		f9ff64504a98ccaacb50b677
 software.amazon.awsconstructs	kinesisfirehoses3	2.84.0		7575bfc75d6da04a09810c6894886a989336c598
 software.amazon.awsconstructs	kinesisfirehoses3	2.85.0		c347e4ee7611372e93bcd32bb637c2ed4df9d6e9
 software.amazon.awsconstructs	kinesisfirehoses3	2.85.1		63e1cdbf31fa7e64f1610dcbd920a089b08913ac
+software.amazon.awsconstructs	kinesisfirehoses3	2.85.2		c4f3558595ac2f6ad93fdfddf48b9d6dc1e277fe
 software.amazon.awsconstructs	kinesisfirehoses3	2.9.0		e193a0c2bb4e784d768fa2e4eefd0788b6628ae7
 software.amazon.glue	schema-registry-common	1.0.0		864edc6dd7c8747eb30b23ae8a4953f80d1e607d
 software.amazon.glue	schema-registry-common	1.0.1		18af9ff0e011fb2274b73f3a1b54318256d0b010

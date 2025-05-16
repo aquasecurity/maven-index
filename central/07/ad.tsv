@@ -14,6 +14,7 @@ ai.djl.timeseries	timeseries	0.30.0		c3e5bd3c6830838cb2cf4a2099a63a9ef821fe32
 ai.djl.timeseries	timeseries	0.31.0		c6c15401d239111f47055b0ef0bde6108eb1897b
 ai.djl.timeseries	timeseries	0.31.1		a5d8e56a0f6730c9e2d6565d8e7b11418e30adb9
 ai.djl.timeseries	timeseries	0.32.0		fcbaabb6fde283c4703f876aa9c03a6ae7f20173
+ai.djl.timeseries	timeseries	0.33.0		be37eeb434f5e3dc9aeb0644f4503a667ca69f68
 app.cash.better.dynamic.features	runtime	0.1.0		N/A
 app.cash.better.dynamic.features	runtime	0.1.1		N/A
 app.cash.better.dynamic.features	runtime	0.1.2		N/A
@@ -74,6 +75,7 @@ com.aliyun	alibabacloud-ebs20210730	3.0.0		e9d6eefca05dc058d73a13bc507d2231dfeb2
 com.aliyun	alibabacloud-ebs20210730	3.0.1		c9b38c1ab35de3d18b64359de9ea736a24cd0442
 com.aliyun	alibabacloud-ebs20210730	3.0.2		bdc477bc49bd211e6714f54b8dde6493bec02d45
 com.aliyun	alibabacloud-ebs20210730	3.0.3		ff8343b7522045987028e59ab0eae52d098c5da6
+com.aliyun	alibabacloud-ebs20210730	3.0.4		fbe1b77f76e4ab624028c1a6fbd1b8dd8be18da8
 com.github.IndiscriminateCoding	api4s-core_2.12	0.0.3		5036ea0fbbcfd3ab27f1a5ced65aaed8ad593fce
 com.github.IndiscriminateCoding	api4s-core_2.12	0.0.4		3cc7c36ad8ca98a30d2f47eacf86b51d7784c457
 com.github.IndiscriminateCoding	api4s-core_2.12	0.0.5		cd22d6ab447eeeea965ce21ff8620acb3fd47544
@@ -524,6 +526,7 @@ dev.zio	zio-concurrent_2.13	2.1.14		17b54a7bb2ead50ad9c0a3eb5186e8fa440bc9cc
 dev.zio	zio-concurrent_2.13	2.1.15		6e1036bf64942f2bf430cecf1a198687e87fe592
 dev.zio	zio-concurrent_2.13	2.1.16		05c5fade46c54443a64b0aae43b207f21d42de9c
 dev.zio	zio-concurrent_2.13	2.1.17		1db07958666c5bc92ba4561ca27554b8e0fd97ab
+dev.zio	zio-concurrent_2.13	2.1.18		ee259bff2ea5b48fc6c27d01f353ec8a214302b6
 dev.zio	zio-concurrent_2.13	2.1.2		3266aa69ddfa718bdb8c2aae5c5566dd1a9d69e1
 dev.zio	zio-concurrent_2.13	2.1.3		dc8ceacc0714f616dd3aee15ef4c0c37b5b6f94b
 dev.zio	zio-concurrent_2.13	2.1.4		c6fba447d960cd62c6f9aebbbb311f237bb25653
@@ -796,6 +799,8 @@ io.ktor	ktor-server-double-receive-macosx64	3.1.1		a17ddb8ef822998e6418834ff1c59
 io.ktor	ktor-server-double-receive-macosx64	3.1.1	metadata	123ae3bf55d2aa6712784e7cf0de2cbaba329e8a
 io.ktor	ktor-server-double-receive-macosx64	3.1.2		76c821031793c3fcc918c7b3fabce6a72140b33b
 io.ktor	ktor-server-double-receive-macosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-double-receive-macosx64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-double-receive-macosx64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.matthewnelson.encoding	base32-watchosdevicearm64	2.0.0		N/A
 io.matthewnelson.encoding	base32-watchosdevicearm64	2.0.0	metadata	9d8c093f5ec6a748dbcffc4f572b37db61c65a3e
 io.matthewnelson.encoding	base32-watchosdevicearm64	2.1.0		N/A
@@ -1005,6 +1010,7 @@ org.apache.camel	camel-jte	4.8.3		d4efaaa4bf452a2257daa50a31740e2108c51a04
 org.apache.camel	camel-jte	4.8.4		8a42130fa8263efcec38c1caf18a4c9ce4f56cfa
 org.apache.camel	camel-jte	4.8.5		5864767ec645a54d643ed7034817df3e95ba5264
 org.apache.camel	camel-jte	4.8.6		eeb7166d87000eb7bfc5ec7019613613c81218fc
+org.apache.camel	camel-jte	4.8.7		28d13c010053c00c44e7e840d4f1324115d4364f
 org.apache.camel	camel-jte	4.9.0		e2bfcf5f6ea12cecf6e7d2ce8c23c1e614d45654
 org.apache.karaf.examples	karaf-rest-example-client-jersey	4.3.0		35ecc36bb686298e214880b01776c56f542faef5
 org.apache.karaf.examples	karaf-rest-example-client-jersey	4.3.1		ab62f4899315f0c256fbf260dcee53aeeb128491
@@ -1496,6 +1502,7 @@ sh.christian.ozone	bluesky-jvm	0.2.0		745c42d00613862bd5bc9e2cb76b389bfb4b46ba
 sh.christian.ozone	bluesky-jvm	0.3.0		63d33daa6c1b2d6b2c82bce2d8b59de09ce77acc
 sh.christian.ozone	bluesky-jvm	0.3.1		9f8f0c80e34abde1a6f9ed4826760f414af3ad09
 sh.christian.ozone	bluesky-jvm	0.3.2		57487ed802b9b0de798e5f7fe48afd6c7bd9bb18
+sh.christian.ozone	bluesky-jvm	0.3.3		eba42a6071840972b2daac1e28dc6484c8bb03d7
 tech.aegean.next	nirvana-member-social	AN-0.0.1		f0802ce77c975738cbb3ce3e286ebb268528a301
 tech.guyi.ipojo	ipojo	1.0.0.0		415ace916ec177411bde8e37919812aa15627f5f
 tech.guyi.ipojo	ipojo	1.0.0.1		f126494887121ed41a3854f2acf65291094f7663

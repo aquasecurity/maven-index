@@ -372,6 +372,7 @@ io.fabric8	kubernetes-model-resource	7.0.0		89a830a23e37556d56415c036f396855398c
 io.fabric8	kubernetes-model-resource	7.0.1		b4d33605736b257798a3c8a97244acaefbf6cc84
 io.fabric8	kubernetes-model-resource	7.1.0		0b0724c5b5ef6bfee2a61eb6cf6f953394949c4a
 io.fabric8	kubernetes-model-resource	7.2.0		493fba368bc5ed06120451938f6f3e5b7dca1d6c
+io.fabric8	kubernetes-model-resource	7.3.0		47f866952a0b4e6fe3e8d52306401b4fe2e635fd
 io.github.bei-dou	beidou-common	0.1-snapshot		N/A
 io.github.drkunibar.netbeans	nb-maven-runner	1.0.1		ec427212a7bf79cefc4ea669794d69f3fd6ed6a7
 io.github.isnott	nott-mybatis-orm	0.0.3		6a343bae1de9713d37c38c9e3f696e07a573a4ff
@@ -431,6 +432,7 @@ io.helidon.microprofile.testing	helidon-microprofile-testing-testng	4.1.6		570de
 io.helidon.microprofile.testing	helidon-microprofile-testing-testng	4.1.7		96398ace8a6253ca9452e2bbe8da4eeca381958c
 io.helidon.microprofile.testing	helidon-microprofile-testing-testng	4.2.0		e44916cf3e3bb80caa8f824c30a08517334bd9d7
 io.helidon.microprofile.testing	helidon-microprofile-testing-testng	4.2.1		93409e858046bd43d71d1c3816d2bf565d11453a
+io.helidon.microprofile.testing	helidon-microprofile-testing-testng	4.2.2		7b0843ec45f697e8c34ef04ec0a045ed7f3b45ef
 io.kotest	kotest-assertions-core-watchossimulatorarm64	5.0.0		N/A
 io.kotest	kotest-assertions-core-watchossimulatorarm64	5.0.0	metadata	666e0721351d28e996e6b8a42b8b7c5fac5e4146
 io.kotest	kotest-assertions-core-watchossimulatorarm64	5.0.0.M1		N/A
@@ -509,6 +511,7 @@ io.kotest	kotest-assertions-core-watchossimulatorarm64	6.0.0.M2		N/A
 io.kotest	kotest-assertions-core-watchossimulatorarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-assertions-core-watchossimulatorarm64	6.0.0.M3		N/A
 io.kotest	kotest-assertions-core-watchossimulatorarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-assertions-core-watchossimulatorarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.molr	molr	0.3.14		N/A
 io.molr	molr	0.3.15		N/A
 io.molr	molr	0.3.17		N/A
@@ -696,6 +699,7 @@ org.apache.camel.quarkus	camel-quarkus-componentdsl	2.0.0-M1		2448c8ac3994f6529e
 org.apache.camel.quarkus	camel-quarkus-smooks-deployment	3.18.0		7c42d5dcb3ce44b33de5c31ff55e808154b6ee86
 org.apache.camel.quarkus	camel-quarkus-smooks-deployment	3.19.0		c60b0d939a3ac4323e197e27ec59667c148f4582
 org.apache.camel.quarkus	camel-quarkus-smooks-deployment	3.20.0		c9e78129154273a1fadbb15ecd09c50a92cff7c5
+org.apache.camel.quarkus	camel-quarkus-smooks-deployment	3.20.1		79d5d1b0b9f5095c12418959095ab8f5a9ed86b4
 org.apache.camel.quarkus	camel-quarkus-smooks-deployment	3.22.0		684d503383c825d28c1ce8c570805fca4dc60b38
 org.apache.camel.springboot	camel-neo4j-starter	4.10.0		9b5a1db774e7ca2b83df1fbefcf462ae7517b040
 org.apache.camel.springboot	camel-neo4j-starter	4.10.1		b8563e57b1434a657c176816759c713e5a778274
@@ -1122,6 +1126,7 @@ org.apereo.cas	cas-server-support-pm-ldap	7.2.0-RC6		aa5ca1676d3cecc30ec2ef6020a
 org.apereo.cas	cas-server-support-pm-ldap	7.2.0-RC6	resources	559e749be208d0f34e55a3123e38d626edc7ae3f
 org.apereo.cas	cas-server-support-pm-ldap	7.2.1		3f239e183ea627d0d75bf07bf1922e82fbbb0c17
 org.apereo.cas	cas-server-support-pm-ldap	7.2.1	resources	f789d653cd14703e3ceafc62f2dc3d5b2482ae14
+org.apereo.cas	cas-server-support-pm-ldap	7.2.2		fb9bd017ea15c12157fef642b885f3470944d80b
 org.apereo.cas	cas-server-support-pm-ldap	7.3.0-RC1		fe23a86759f52a5f035fa1ac3a2d7ef95517de60
 org.apereo.cas	cas-server-support-pm-ldap	7.3.0-RC1	resources	94f8badbf2a776059a7b1378075d3c39648314d1
 org.apereo.cas	cas-server-support-pm-ldap	v6.4.0-RC5		491eedb53fcbdf69f842e07f3d01c05231b504e1
@@ -1686,7 +1691,18 @@ software.amazon.awssdk	workspacesthinclient	2.31.30		d6005fd00762dd88e098a2b0b82
 software.amazon.awssdk	workspacesthinclient	2.31.31		b0e0bfb837d6ed430c3e88c469dfc8c7f683f776
 software.amazon.awssdk	workspacesthinclient	2.31.32		34ab4e193457116374d6d77d8d327f502b17d9c1
 software.amazon.awssdk	workspacesthinclient	2.31.33		02c652ee9f7d22bee8f53e9ec0192732ef001252
+software.amazon.awssdk	workspacesthinclient	2.31.34		266c407e4d93e23879d4f1af2c324672b7c5d7c6
+software.amazon.awssdk	workspacesthinclient	2.31.35		912f567cb97d003e30dbfea82fc9b6eb390e9344
+software.amazon.awssdk	workspacesthinclient	2.31.36		3e3eb6f11e9206e30c5e64f84423bf8c91ea80a5
+software.amazon.awssdk	workspacesthinclient	2.31.37		89fc74c7f7f337a57dc832770d911306f69a583d
+software.amazon.awssdk	workspacesthinclient	2.31.38		0900e6037dc0739333e876e005eac7cfbe3c34e1
+software.amazon.awssdk	workspacesthinclient	2.31.39		1e38ad923a3b6bbcf628a7a274216176adcb12ea
 software.amazon.awssdk	workspacesthinclient	2.31.4		2ff7b40896bfe276f4b4e35eb2d3c5cc75c77e9e
+software.amazon.awssdk	workspacesthinclient	2.31.40		014c0337ef8c5c67b029b027a667b069a81eced7
+software.amazon.awssdk	workspacesthinclient	2.31.41		60761e19acfe2452910565fb56df0c1a27451162
+software.amazon.awssdk	workspacesthinclient	2.31.42		a9a209e0c69fd1c869c87d3a5ee012c436afd559
+software.amazon.awssdk	workspacesthinclient	2.31.43		09d0e47e39f58e5bea263af441a47c2bf748c727
+software.amazon.awssdk	workspacesthinclient	2.31.44		367ee5f25c2ece07ebb5f24203c8469510050395
 software.amazon.awssdk	workspacesthinclient	2.31.5		cdb93464f41407feea45ac1f4ee131faed2e2227
 software.amazon.awssdk	workspacesthinclient	2.31.6		da598e1ba313c59b4cd87570fd2fbca424501a32
 software.amazon.awssdk	workspacesthinclient	2.31.7		21880110c02e4141b8d16e81f473726c70980963

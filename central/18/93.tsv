@@ -785,6 +785,7 @@ dev.zio	zio-aws-glacier_2.13	7.31.27.1		6ef171c03b494449cbce0abefbf14f33fe9053b4
 dev.zio	zio-aws-glacier_2.13	7.31.28.1		411e72fcd43f6ca4b5516a957bad69cdb3de2f85
 dev.zio	zio-aws-glacier_2.13	7.31.3.1		49971dd36348b5c7cff28ea081064baeb81e30f5
 dev.zio	zio-aws-glacier_2.13	7.31.30.1		baab9cce6a9a0294d9ed5da10bcc62680f419a2e
+dev.zio	zio-aws-glacier_2.13	7.31.30.2		306d41cbc5c899cdf20c5ab01590d61a9cac543c
 dev.zio	zio-aws-glacier_2.13	7.31.4.1		e3c013cfdf897d80b14775e082069d4c1f9dcdb1
 dev.zio	zio-aws-glacier_2.13	7.31.6.1		20d0949a7f424305fe315c99b4c5b4822da59587
 dev.zio	zio-aws-glacier_2.13	7.31.6.2		da62e4b82e0304f729afc2de230855e888e7dcab
@@ -822,6 +823,9 @@ io.americanexpress.synapse	sample-client-reactive-weather	0.4.10		da10cdc5824ca8
 io.americanexpress.synapse	sample-client-reactive-weather	0.4.11		bf92587045c1bb303ce1ff11df3ee8f9b00dd221
 io.americanexpress.synapse	sample-client-reactive-weather	0.4.12		3bb74a0927817487e1e30e25760a424ecaeeb45d
 io.americanexpress.synapse	sample-client-reactive-weather	0.4.13		2570ca91cfdf742d2def3d54f3b1ecf79e9739bc
+io.americanexpress.synapse	sample-client-reactive-weather	0.4.14		63d946aa9a3ade0a769582e80a6cfb95e476d9ad
+io.americanexpress.synapse	sample-client-reactive-weather	0.4.15		a52d36e1ba5aae8df4dd0555fe4f39409b0315f7
+io.americanexpress.synapse	sample-client-reactive-weather	0.4.16		674b069636d5b674e1ac898bd5b8e8f89570092b
 io.americanexpress.synapse	sample-client-reactive-weather	0.4.2		c2bf0931253341e320d5c9f0e248319cfdef8123
 io.americanexpress.synapse	sample-client-reactive-weather	0.4.3		8810b6782fa3706e290799135695b6d78c9a9f48
 io.americanexpress.synapse	sample-client-reactive-weather	0.4.4		a995511d4a27d9cdd4861ae683dd2cff2db43d32
@@ -1428,6 +1432,7 @@ org.apereo.cas	cas-server-support-oauth-uma	7.2.0-RC6		0e1c8e29d239f9bcc68e31011
 org.apereo.cas	cas-server-support-oauth-uma	7.2.0-RC6	resources	fcdfe5cc2d746b1ef0654452304ad7634706fad3
 org.apereo.cas	cas-server-support-oauth-uma	7.2.1		50395ea90494b27f0c9136bfcf9d9366f096b52c
 org.apereo.cas	cas-server-support-oauth-uma	7.2.1	resources	d52e69c0b2796c9086fab49318f3bb7b6f63ab66
+org.apereo.cas	cas-server-support-oauth-uma	7.2.2		edb87c0ab2b8fd0782c328597b0c912779210359
 org.apereo.cas	cas-server-support-oauth-uma	7.3.0-RC1		1e430a2ec62a74845b09849348306e54d1aed216
 org.apereo.cas	cas-server-support-oauth-uma	7.3.0-RC1	resources	7c5d8e9a9a78bd0fdacbe872f92d7ac11224d794
 org.apereo.cas	cas-server-support-oauth-uma	v6.4.0-RC5		b8b0b172c89876ca7e5d378f641fea31109f6884
@@ -1479,6 +1484,7 @@ org.bardframework.commons	common-jackson	3.7.1		0b8f45508e09aeafa18402b08821b58d
 org.bardframework.commons	common-jackson	3.8.1		60e78971ed558bf2ce275312fce706f979ef828f
 org.bardframework.commons	common-jackson	3.9.1		023b9b41a5e4f6d099404d69d2f7f5c7f3a63cee
 org.bardframework.commons	common-jackson	3.9.11		94e9699b3ae8fa01d741e03736cd03fb56e11659
+org.bardframework.commons	common-jackson	4.1.11		03393c6733cb61baac5e773b97d5a2a3edd38c6f
 org.bndly.common.rest	org.bndly.common.rest.global-jaxbcontext-provider	1.0.0		a8c93a9f29bdc26a10efb17d77f9512a4c10e847
 org.bndly.common.rest	org.bndly.common.rest.global-jaxbcontext-provider	1.0.1		ad9bb5522e36dad76a050fe5e08963223408f761
 org.bndly.common.rest	org.bndly.common.rest.global-jaxbcontext-provider	1.0.2		cfce13ab32d87f348d4187d498cdd96249c95c09
@@ -1555,6 +1561,19 @@ org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.4
 org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.42.0		bc0428c13066810ce2cf78702a49fb9c01798523
 org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.43.0		740cfab39d6fad4ecd3e9f2e8cd9478dd3a60fe8
 org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.44.0		752a8ab856122fe2d28fc2b6a0ba372234b9d49f
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.0		0353d945270459d8fda1d89af1764e18e68b0c36
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.1		a004802c015847401f45b09a98774d5df9656a29
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.10		0a4827a4a4ac5baaa635e566563152f82d40b52d
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.11		b7c152e3c486c7d1275574e5cb77d005b217cdee
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.12		4743beb67e250a46c931b05fab355b28177df3ae
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.13		0b7b2710131a3c600f5b0ab7415c69fd4773537c
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.3		518b21ac289d04c78350fb9f1656ee326daae2f8
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.4		30236b40b169fc45ab5816249a3dc0f4aecebcc6
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.5		71e35cdaaf285f104486a08aba23eca83e7c6307
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.6		ebba48ffdb6f6f0aa1eafa78f92492ee77927d14
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.7		18a124936b512ad1af656c43a5b2c2a58cea34ba
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.8		13ed6f3f3df5190a4ff914fb92e4d3709196852c
+org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.45.9		179af1ce2144413df2c5808dfed6cfb845417746
 org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.5.0		5de91d1381d73780b9abff8d9e351296f3939831
 org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.6.0		26d58de381edff11eef4f200b4fddc0d91e4111b
 org.eclipse.dirigible	dirigible-components-ui-ext-documents-content-type-ms	11.6.1		8a66660f316880074bd68660e72ce13a5ed31831

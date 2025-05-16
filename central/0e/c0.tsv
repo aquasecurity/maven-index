@@ -561,6 +561,7 @@ dev.inmo	tgbotapi.utils-jvm	23.2.0		7b7fd82fec54f456c850488913c570c9c17526e8
 dev.inmo	tgbotapi.utils-jvm	24.0.0		7b7fd82fec54f456c850488913c570c9c17526e8
 dev.inmo	tgbotapi.utils-jvm	24.0.1		7b7fd82fec54f456c850488913c570c9c17526e8
 dev.inmo	tgbotapi.utils-jvm	24.0.2		f9c44c0c501e649f9562f246406096642317c6cc
+dev.inmo	tgbotapi.utils-jvm	25.0.0-rc		f00a88294607627ffe00c5a5ca0fdf407bfc81f4
 dev.inmo	tgbotapi.utils-jvm	3.0.0		abee74ea1e19f409e936a12a1cb8ce7df771ff4e
 dev.inmo	tgbotapi.utils-jvm	3.0.1		5c0af429dc513c03ea313cc453afaaf09a3248d9
 dev.inmo	tgbotapi.utils-jvm	3.0.2		5c7554410532b1057ff7628b9f17cf8fe1aa7cc5
@@ -1191,6 +1192,9 @@ org.daisy.pipeline.modules	audio-common	5.1.4	xprocdoc	7b46f944dbe2be4cbe555c9dd
 org.daisy.pipeline.modules	audio-common	5.1.5		c3841b6383ca1c0682216b5436fe2e568cc7f8c9
 org.daisy.pipeline.modules	audio-common	5.1.5	doc	2640c3aa1ca4ae702c4d81e56ffd5a081af5d369
 org.daisy.pipeline.modules	audio-common	5.1.5	xprocdoc	f17ed9c33c6a614410b3548a7dc051a7dcf73b9f
+org.daisy.pipeline.modules	audio-common	5.1.6		60429d60619195afdc25520378b2b8c57ea5b976
+org.daisy.pipeline.modules	audio-common	5.1.6	doc	7673abab9bfa05cc8689663efdeff3edbfc8ef09
+org.daisy.pipeline.modules	audio-common	5.1.6	xprocdoc	6138438f776f897422e276afc048aede38898158
 org.eclipse.birt.runtime.3_7_1	org.apache.batik.parser	1.6.0		5e6dd459704dd6bd168f1b030cb739872e994339
 org.eclipse.jetty	jetty-deploy	10.0.0		44307f9fd4b06bee3a30f4d930a3925e21e86ed0
 org.eclipse.jetty	jetty-deploy	10.0.0-alpha0		6530db9ff4001374dc236b476488c3a7f4ed682f
@@ -1277,6 +1281,8 @@ org.eclipse.jetty	jetty-deploy	12.0.17		6129d204a2142c3a4e37ba61eda132f7b463b967
 org.eclipse.jetty	jetty-deploy	12.0.18		584fb6316638cb6cebe225cff076afec5f7911d3
 org.eclipse.jetty	jetty-deploy	12.0.19		4212352fdb204267c1aa4016cd7177d0c2f3d550
 org.eclipse.jetty	jetty-deploy	12.0.2		9fefd0a00655296a8128ddef051c2696f94f7a90
+org.eclipse.jetty	jetty-deploy	12.0.20		0954aaac3a6f11d239dde94943d91e3764de574c
+org.eclipse.jetty	jetty-deploy	12.0.21		4e921b30ca3bb700d9265b68fac8a9782489e6c0
 org.eclipse.jetty	jetty-deploy	12.0.3		0a1e2d8120995009ac1790c0d0dec0eb85c4d413
 org.eclipse.jetty	jetty-deploy	12.0.4		08a2a3a97406d90cd0f8c5f196771ed302a90c4a
 org.eclipse.jetty	jetty-deploy	12.0.5		17b797c09b65bc9aacc56ab6703e9bdb1272e034
@@ -1711,6 +1717,7 @@ org.eclipse.jgit	org.eclipse.jgit.lfs	6.9.0.202403050737-r		334bd6230555dd1eb8ab
 org.eclipse.jgit	org.eclipse.jgit.lfs	7.0.0.202409031743-r		95f28ca36011f9cba2a95c9829b5844cf83d1493
 org.eclipse.jgit	org.eclipse.jgit.lfs	7.1.0.202411261347-r		767520d974477a8086dcb333a3746ac2f679a643
 org.eclipse.jgit	org.eclipse.jgit.lfs	7.2.0.202503040940-r		21b6c0d03236d7889c80ebbd6b18fb79246f19d9
+org.eclipse.jgit	org.eclipse.jgit.lfs	7.2.1.202505142326-r		c599e6652b31273a8668982082916e1ac1c5fec6
 org.eclipse.neoscada.hmi	org.eclipse.scada.vi.details	0.1.0		590a9dc1e47103a449277f0879ac094713c52c12
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.74.0		86067778659191508d0131510d61076476d1b781
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.75.0		2d1d98661336ffcba9ae0f24eb8c80db5036edd1
@@ -1728,10 +1735,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functio
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.80.0		75f2cfda32ee7e6e4b34e09c497bc9ae39484dfb
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.81.0		3e30e11bac4f14feaa86b5931210c7226b79ddac
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.82.0		5a3b7978b7652f14c6123d185e85760952b97052
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.82.1		357db0e05c725c3a2e2584fef7bbc6a137d14856
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.83.0		f7f21f0e7e04317ac0c8d16e935e9e070b94bb2f
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.83.1		e891b90f68bd4bcf8f81df08b8013bae0d0b77f3
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.83.2		e1cb1def218df0f5ae087c7196fd5e6576db7d1e
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.83.3		1acff098806d91988ffea8e3f151e088c6a20d6b
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.84.0		de2d8b1337c122275785b10024875db81b8d31cc
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.84.1		80e96cd1f714fc45fd4df06c9131c57f4405a25e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.85.0		4f7daa43ed74cc8660c2c56ed7548289371311dd
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.85.1		25077158f988cdab8518f62a179d211f1e5b2b5e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.85.2		348c748878f41b666838f477e95160675af97acb
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-standard	4.85.3		0817a9ad03bd719ac5db02c9524b822b71d6e894
 org.geomesa.nifi	geomesa-gt-processors_2.13	4.0.0		ac73c419175b0752882d92dba22146b1940516e6
 org.geomesa.nifi	geomesa-gt-processors_2.13	4.0.1		e0bbf8ec59ca3c30f027a272490adfb2fc7040c5
 org.geomesa.nifi	geomesa-gt-processors_2.13	4.0.2		ad3eb5132e005d1db36f574a69a02e48f23361d1
@@ -3219,6 +3233,9 @@ software.amazon.awscdk	pipes-targets-alpha	2.190.0-alpha.0		092314dc794d98d3578c
 software.amazon.awscdk	pipes-targets-alpha	2.191.0-alpha.0		b6018029dae72aa869dafaf795343a9f29c6e72d
 software.amazon.awscdk	pipes-targets-alpha	2.192.0-alpha.0		6ef1f92bf7e9a78dcb4bcbba90a7ee18f3c4e2a2
 software.amazon.awscdk	pipes-targets-alpha	2.193.0-alpha.0		1e2698b6866d5567f3b23996f558499f6430a2f3
+software.amazon.awscdk	pipes-targets-alpha	2.194.0-alpha.0		ae10c50363139a16f174de26daf12ff78242fadf
+software.amazon.awscdk	pipes-targets-alpha	2.195.0-alpha.0		0c1880c59ec71ee41ce607a4db4fe460221eb127
+software.amazon.awscdk	pipes-targets-alpha	2.196.0-alpha.0		01dae678ddf19fbd72de684d06e8e5431c814ccc
 solutions.deepfield	spark-itcase	1.0.0		N/A
 solutions.deepfield	spark-itcase	1.0.1		N/A
 solutions.deepfield	spark-itcase	1.0.2		N/A
@@ -3263,6 +3280,10 @@ tz.co.asoft	kase-possible-watchosarm64	3.0.8		N/A
 tz.co.asoft	kase-possible-watchosarm64	3.0.8	metadata	9119ba4b19ac60157de9c1ca302fae9d4a5f26d1
 tz.co.asoft	kase-possible-watchosarm64	3.0.9		N/A
 tz.co.asoft	kase-possible-watchosarm64	3.0.9	metadata	d6cda4f676fa600b9e8f0a59f04b92167cbebf6f
+tz.co.asoft	kase-possible-watchosarm64	3.1.0	metadata	eb82fead3fcc59cff715391e6692f20cf1a97707
+tz.co.asoft	kase-possible-watchosarm64	3.1.1	metadata	f22f78924755c80a94bb58b6f2257dfe0f8bcd60
+tz.co.asoft	kase-possible-watchosarm64	3.1.11	metadata	31749772092795e1c38311ef85badd548991b19f
+tz.co.asoft	kase-possible-watchosarm64	3.1.12	metadata	e9bf05744d92964af3b34a71e88a6fe2630fde4a
 us.ihmc	euclid-shape	0.16.2		71a3bd9e1d3c8f642974ae5ca78f0d6001319185
 us.ihmc	euclid-shape	0.17.0		38aa35bfa40d6953b4aeddc4e3e01f67778d0926
 us.ihmc	euclid-shape	0.17.1		02de8d5294e5f25980a90f375a02e6806fc8ed9a

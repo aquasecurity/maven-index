@@ -151,6 +151,7 @@ com.google.cloud	google-cloud-accessapproval-spring-starter	4.10.6-preview		42bb
 com.google.cloud	google-cloud-accessapproval-spring-starter	4.10.7-preview		3658cb50588a201eb202477a485ab543f4f265f4
 com.google.cloud	google-cloud-accessapproval-spring-starter	4.10.8-preview		9b67962aceb8a6a21cae3e6576bf930b34cd3104
 com.google.cloud	google-cloud-accessapproval-spring-starter	4.10.9-preview		143f0252f0bfe8ef2fa0c9431f5e550d73ada313
+com.google.cloud	google-cloud-accessapproval-spring-starter	4.11.0-preview		148a39f4a0057dd01d4ba453feb4048c30969511
 com.google.cloud	google-cloud-accessapproval-spring-starter	4.2.0-preview		2ee43a03593f03cb4bd01500fd5c11db8e6f0a06
 com.google.cloud	google-cloud-accessapproval-spring-starter	4.3.0-preview		ad61d1e1cc7b6a7f3bd4eb3dff9fd084c32c2958
 com.google.cloud	google-cloud-accessapproval-spring-starter	4.3.1-preview		899f35463493f677d81566b0f0c10409384d3d28
@@ -182,6 +183,7 @@ com.google.cloud	google-cloud-accessapproval-spring-starter	5.11.0-preview		eb26
 com.google.cloud	google-cloud-accessapproval-spring-starter	5.11.1-preview		84e802fbe231b570bf33fc6d3d51a8d644546b28
 com.google.cloud	google-cloud-accessapproval-spring-starter	5.11.2-preview		716f832968c0dcf60aacb243e343155c089137eb
 com.google.cloud	google-cloud-accessapproval-spring-starter	5.11.3-preview		77d08421dbc89b71b41915e1777f95d0a743d117
+com.google.cloud	google-cloud-accessapproval-spring-starter	5.12.0-preview		7028dc8c747e4e4c5d6e5d09043584a7c43fbcae
 com.google.cloud	google-cloud-accessapproval-spring-starter	5.2.0-preview		96fce9f08ba342d507671e960fe20f843ac59e3e
 com.google.cloud	google-cloud-accessapproval-spring-starter	5.2.1-preview		40b9dacbdf7efcf8f966ff9448c29be7c4235210
 com.google.cloud	google-cloud-accessapproval-spring-starter	5.3.0-preview		b3ac562ed0c072d68aeb8c8ee80c9417cb2d6d04
@@ -275,6 +277,7 @@ com.infomaximum	platform	0.1.25		0059eb5bc2f2f6770bee6aa97219cd3414419937
 com.infomaximum	platform	0.1.26		c10d3a46732073b297f471b29705955eb3689b74
 com.infomaximum	platform	0.1.27		920ba59949c2365fa730f9363411f8b69a06415e
 com.infomaximum	platform	0.1.28		ccc054e2585d91284e002a80964a914d842a6443
+com.infomaximum	platform	0.1.29		2368042592b697fec9e2b2a50aa5cd4c3b2c5d76
 com.infomaximum	platform	0.1.3		aa74884e14110ef69a598db8390f7475f530e288
 com.infomaximum	platform	0.1.4		d5e1561ea4e7ca2d53a564365f247c8512536836
 com.infomaximum	platform	0.1.4f1		2c9cf2b7ca8b65ec61b7601456c0546acfc0521b
@@ -543,6 +546,7 @@ com.trueaccord.scalapb	scalapb-runtime_sjs0.6_2.11	0.6.4		31acc4cf04a9770528ea78
 com.trueaccord.scalapb	scalapb-runtime_sjs0.6_2.11	0.6.5		444d06544f5c6dde9673fec979dbee662657248c
 com.trueaccord.scalapb	scalapb-runtime_sjs0.6_2.11	0.6.6		57db576611157a99412b8a6d7396049e4919bc91
 com.trueaccord.scalapb	scalapb-runtime_sjs0.6_2.11	0.6.7		66f50fd549ed5b599ceeb8ab350d810d344d8c6a
+com.websudos	phantom-sbt_2.11_0.13	1.27.0		b57594441dfe60888a65b2fa0766181679042da0
 com.zendesk.jazon	jazon-spock	0.3.0		5e43768e33024fa675d4541db2e80b084c259094
 com.zendesk.jazon	jazon-spock	0.3.1		42eb19c9efd8229d627f562c4133618d8278c2e4
 com.zendesk.jazon	jazon-spock	0.4.0		56e941177aee1a98048206d667bdc13bcf824469
@@ -886,6 +890,7 @@ io.liftwizard	liftwizard-connection-manager-holder	2.1.28		15a404f0dfb25a47abf19
 io.liftwizard	liftwizard-connection-manager-holder	2.1.29		efaf68e9e3b9d8979f639e061c3ac1709c691a94
 io.liftwizard	liftwizard-connection-manager-holder	2.1.3		f65a081813610fdf99c6b3895c6bdf55f15f3a48
 io.liftwizard	liftwizard-connection-manager-holder	2.1.30		b52ad14131a6d34263e1910204efa2c4156dce2c
+io.liftwizard	liftwizard-connection-manager-holder	2.1.31		a5176aec8aaaf84f783d33dd452d68ee90e87bc8
 io.liftwizard	liftwizard-connection-manager-holder	2.1.4		a3e32bf4e5ea1c47e2c20d47ce4087a6a1168123
 io.liftwizard	liftwizard-connection-manager-holder	2.1.5		cbf1d900f1a5c4b8c628e43db5875bccfc5bd3a2
 io.liftwizard	liftwizard-connection-manager-holder	2.1.6		390ed8256bed3c8eaa4bf199abf01d60c576f363
@@ -1283,10 +1288,12 @@ org.jetbrains.kotlin	kotlin-scripting-common	2.1.20-Beta2		745b087d29166efb42dd4
 org.jetbrains.kotlin	kotlin-scripting-common	2.1.20-RC		0213fa9e5f364576c9081d56d6db69d9b7f29069
 org.jetbrains.kotlin	kotlin-scripting-common	2.1.20-RC2		f9098f18a43a88539171509ccf842eb1b0a4822b
 org.jetbrains.kotlin	kotlin-scripting-common	2.1.20-RC3		fbc3e8b284dbed5755f22b729b1a09ff99703fca
+org.jetbrains.kotlin	kotlin-scripting-common	2.1.21		887594efb212f2efb4230f5424d7c423baa84069
 org.jetbrains.kotlin	kotlin-scripting-common	2.1.21-RC		78e895f24eb99ac7cc713d0ef437866d3165248d
 org.jetbrains.kotlin	kotlin-scripting-common	2.1.21-RC2		2696493f3eb40bd9bd42444b689e633db3f8c6b8
 org.jetbrains.kotlin	kotlin-scripting-common	2.2.0-Beta1		ebd40209444e9b262ece2c8a061ed8b03860a3b0
 org.jetbrains.kotlin	kotlin-scripting-common	2.2.0-Beta2		9d9a1da358becd3f3072fd1602a05fcfd61926f3
+org.jetbrains.kotlin	kotlin-scripting-common	2.2.0-RC		d5b7e831c7e1ac94400e5f8438cf1fbbcf81c7f5
 org.jetbrains.kotlinx	kotlinx-coroutines-slf4j	0.25.0		2a08324651fdcf0830456aa1cda757b36f11b937
 org.jetbrains.kotlinx	kotlinx-coroutines-slf4j	0.25.0-eap13		d83313c04f29c11ddcb4148873735e821da1ab56
 org.jetbrains.kotlinx	kotlinx-coroutines-slf4j	0.25.3		83b9273620c54b43bd1f9ec8c4dbf0c10cde7c81
@@ -1606,6 +1613,7 @@ org.wildfly.security	wildfly-elytron-encryption	2.1.0.Final		4d145c200a3c2ade3e8
 org.wildfly.security	wildfly-elytron-encryption	2.2.0.Final		545fc821e6534fd6fc03f1a81d1d0f4eeaa77ea0
 org.wildfly.security	wildfly-elytron-encryption	2.2.1.Final		27082193bdf606082156959d9d577141faf3a6be
 org.wildfly.security	wildfly-elytron-encryption	2.2.10.Final		450b25ff6c063a31657548d1b385b62545db6451
+org.wildfly.security	wildfly-elytron-encryption	2.2.11.Final		372bf919ed1244b9d3ab83d2276dcdec367d7244
 org.wildfly.security	wildfly-elytron-encryption	2.2.2.Final		9da613ce198c35b2eab318991daf1e9cc4fe4b86
 org.wildfly.security	wildfly-elytron-encryption	2.2.3.Final		5693da3272e16668f0eb26849b10bf66bc7012f3
 org.wildfly.security	wildfly-elytron-encryption	2.2.4.Final		1d716d5aa6578c6bd4ebb7c2769e1780900ada3b
@@ -1628,6 +1636,7 @@ org.wildfly.security	wildfly-elytron-encryption	2.6.0.Final		1102f2c2d47b7971da4
 org.wildfly.security	wildfly-elytron-encryption	2.6.1.Final		1d186feecee835ceb2d3845053ba274d44d61a29
 org.wildfly.security	wildfly-elytron-encryption	2.6.2.Final		4b2b3135f47ba99d5ee2731a5d80b6013acf34be
 org.wildfly.security	wildfly-elytron-encryption	2.6.3.Final		cdea371810661d6c0be1fce63ab0074dfd2b889e
+org.wildfly.security	wildfly-elytron-encryption	2.6.4.Final		3712ae49718ecaafe219e061e054a7d4a24b3bde
 pl.javadevelopers	spring-git-info	0.3		df8f21fed9895bdd4cc841bcf6af9856a1bec28b
 tech.mappie	mappie-api-linuxx64	0.10.0		d21cefb4f1059d9a0caf0fd99b86ff4383e60fee
 tech.mappie	mappie-api-linuxx64	0.8.0		5ca7af0638497677df0e1aede2173ce4937e37a2

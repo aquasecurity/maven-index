@@ -647,6 +647,7 @@ dev.zio	zio-aws-kafkaconnect_3	7.31.27.1		018d4167717902b01419cef72df70c8a5b2c07
 dev.zio	zio-aws-kafkaconnect_3	7.31.28.1		6a883257ca2dfcbf6d61dade70ce34d89bb125d8
 dev.zio	zio-aws-kafkaconnect_3	7.31.3.1		8eda8f3911a7b7ea86337879dc80512dd8a428e3
 dev.zio	zio-aws-kafkaconnect_3	7.31.30.1		2e74aca3fcc2f8e41f3cad0de6e28e69499e2ff1
+dev.zio	zio-aws-kafkaconnect_3	7.31.30.2		6925ff329303db9ed34a5f8c0364d20b60e28050
 dev.zio	zio-aws-kafkaconnect_3	7.31.4.1		e78852a11d3363bae0f4ac0c8cbb6527f6e836c9
 dev.zio	zio-aws-kafkaconnect_3	7.31.6.1		bc4b17ce6382e24e8386c81be559cce5c9e89381
 dev.zio	zio-aws-kafkaconnect_3	7.31.6.2		056830fe0c584a3ca81b2c230b944d39392a7c79
@@ -913,6 +914,7 @@ io.github.mwlon	q-compress-jni	0.0.0_0.10.0		03bea7a5fc8e3102d71377eec9f4c2ba119
 io.github.mwlon	q-compress-jni	0.0.0_0.10.2		5a453c37f3617383884183cc3791b65602b4ee73
 io.github.mwlon	q-compress-jni	0.0.0_0.11.1		033e8b897cd85e23bae6632888a5502e8895b62b
 io.github.mwlon	q-compress-jni	0.0.0_0.9.3		d32f43ea025c37f5f85d1cfce95341f6373c7d74
+io.github.ololx.moonshine	moonshine-var-access	0.14.0		66b5e5b8937ba7a0daaf78c9db84fb96ccbf517e
 io.github.orange1438	mybatis-generator-core	1.3.5		178124a7ce25591f713d63c8284cc7ce77e12092
 io.github.qsy7.java.dependencies	expectit	0.1.0		N/A
 io.github.qsy7.java.dependencies	expectit	0.1.2		N/A
@@ -1133,6 +1135,7 @@ network.oxalis	oxalis-ng-extension-testbed	0.1.0-alpha		e4347210384f2484f4adff1c
 network.oxalis	oxalis-ng-extension-testbed	0.2.0-beta		0bfcd362b22d037fb4e1f0d3f2201ad8cd85c7a6
 network.oxalis	oxalis-ng-extension-testbed	1.0.0		778c6325b54063acf7baa394bb44ad2f55a1620a
 network.oxalis	oxalis-ng-extension-testbed	1.0.0-RC1		dc698edf83088d32ac6045040a2979142dfbcffa
+network.oxalis	oxalis-ng-extension-testbed	1.1.0		2e455371ae53a5fc588255b670f13edcdae2ecd8
 network.oxalis	oxalis-ng-extension-testbed	1.1.0-RC1		5efbb53d8ef6b318d694d84842a69a43481512ad
 org.apache.camel.quarkus	camel-quarkus-groovy-integration-test	1.0.0		52d0a3bc081f949e9f3409074bf3af9c10a5edbd
 org.apache.camel.quarkus	camel-quarkus-groovy-integration-test	1.0.0-CR2		1b44244038c2ac31dc5f7a8a9108bec66469dcc0
@@ -1184,6 +1187,7 @@ org.apiaddicts.apitools.apigen	archetype-core-persistence	1.0.1		b58a370f1705b49
 org.apiaddicts.apitools.apigen	archetype-core-persistence	1.1.0		f52a9e3bb710d739e810ae0f88c58e9f0f97e61e
 org.apiaddicts.apitools.apigen	archetype-core-persistence	1.1.1		e67f16b45ba7a8bea3e52a93edae8d5c46b0a8e2
 org.apiaddicts.apitools.apigen	archetype-core-persistence	1.1.2		ddcd82f6eebba67cd17fa7601b6b03725ea25ea0
+org.apiaddicts.apitools.apigen	archetype-core-persistence	1.1.3		588fe8350512f55b2633eb40fb17a693333b7bb1
 org.axonframework	axon-integrationtests	0.6		5d69c6f5df8e43acc64a1065b28afa65291edba1
 org.axonframework	axon-integrationtests	0.6.1		90dc5b82e8cd2bc19bccd0dd9096c5046b3f1804
 org.axonframework	axon-integrationtests	0.7		a7c56d1e89fb01f31db042dfb7e01930f2a6d866
@@ -1252,6 +1256,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-sql	11.41.1		61ef73004a6cb518
 org.eclipse.dirigible	dirigible-components-ui-view-sql	11.42.0		47806bc12ce02e799f2083341557d5300f896e2e
 org.eclipse.dirigible	dirigible-components-ui-view-sql	11.43.0		2b72567460e99cdb8f94105d97fed5264518e234
 org.eclipse.dirigible	dirigible-components-ui-view-sql	11.44.0		660e2615e6b41f1eaa5b5a39cd993006241714ca
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.0		593a410727a4476ae0af3e1b704e796f1658e792
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.1		d895f30027c8b743047a45ab4316d0f6c4263e54
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.10		9fd9dbe913a33df087e1dfe0206304b5e2a03c70
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.11		9e6b32782ee0ecce1f9aa5a0aa9364fe64c0f6e0
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.12		85f3f71b9485620c1bc1abe3f2b06a6725b99217
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.13		f7d0ff4c5a4d1ed12302aa6c92fcf7b726ebb34b
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.3		a424c76ce762590b9cdc7840cdbd5af826941453
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.4		1df9817884c7c5133e3e9f1d59e8659c79de05f1
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.5		8dbe7c79013e406940829d63401032719c1f2e01
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.6		bffd8d6423acbf8d64faa88a092faf5c685b0c20
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.7		ab808a27df22bf1852427086909c107276ec2c13
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.8		5b32320e97f92566b69e5a4ba95bb5611381e0dc
+org.eclipse.dirigible	dirigible-components-ui-view-sql	11.45.9		36e375cb49fcaee20dbac8b1904dc2acccb4c3df
 org.eclipse.dirigible	dirigible-components-ui-view-sql	11.5.0		950428ba77be0d31702ffda09546e72f14d2d10d
 org.eclipse.dirigible	dirigible-components-ui-view-sql	11.6.0		f92340d179db36d92b6609126a28314c1a3231bc
 org.eclipse.dirigible	dirigible-components-ui-view-sql	11.6.1		59858ab4b815546bd529f8858cef6f40b770cb12

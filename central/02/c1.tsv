@@ -430,7 +430,16 @@ aws.sdk.kotlin	robomaker-jvm	1.4.73		49dbc5a287ef742fafad94ffef1b52ea4df44f62
 aws.sdk.kotlin	robomaker-jvm	1.4.74		5628357b10f485449961f75dc5102767db78764d
 aws.sdk.kotlin	robomaker-jvm	1.4.75		602dcd4b4cf491c3b5b9b9623cf4bcded4f88137
 aws.sdk.kotlin	robomaker-jvm	1.4.76		19a7f423e57954f83230ce971933b627b7ed5bb9
+aws.sdk.kotlin	robomaker-jvm	1.4.77		30e887673990df81aa19cbd7b0d88c166af9ba22
+aws.sdk.kotlin	robomaker-jvm	1.4.78		3c0f92e9c69026b3e168861d475b59e350bac08c
+aws.sdk.kotlin	robomaker-jvm	1.4.79		9ed2b02122bdaed8e189d721b387e64f95055a7b
 aws.sdk.kotlin	robomaker-jvm	1.4.8		b7a451bd590440cd34943ac1e5b10cb8a7719eb8
+aws.sdk.kotlin	robomaker-jvm	1.4.80		16cadb88d0bf4e5de53602ddc260f21f36a38d54
+aws.sdk.kotlin	robomaker-jvm	1.4.81		0eb552b3be1a1f6f27d86f4a30a684ca79ea3758
+aws.sdk.kotlin	robomaker-jvm	1.4.82		0a3258fb95398f2edfd190c5fe52e3746d090ec5
+aws.sdk.kotlin	robomaker-jvm	1.4.83		2d5ab679a6618076c535c082bcade66c73f7bc2c
+aws.sdk.kotlin	robomaker-jvm	1.4.84		23543d450d7e1c26f050f630929075e00d9f1f81
+aws.sdk.kotlin	robomaker-jvm	1.4.85		337017b2a64940d94b1f3908a3876c482777ed69
 aws.sdk.kotlin	robomaker-jvm	1.4.9		672ea796966b2e49704d31684e5159c3e6a3eefb
 br.com.objectos.db	mysql	0.2.0		231e776218f8cce43d82fcf27f7fcfee18adc793
 br.com.objectos.db	mysql	0.3.0		0bb4e1b6beed425d954f7c2f2232921f1076c612
@@ -849,6 +858,7 @@ dev.zio	zio-aws-geomaps_2.12	7.31.27.1		5d6708a9b3d1dcbae05c031cf23073ef201ca73f
 dev.zio	zio-aws-geomaps_2.12	7.31.28.1		af768345d88da005b4a355251169b4e8d666eb87
 dev.zio	zio-aws-geomaps_2.12	7.31.3.1		f5dc329695fab222738400edcda2d9ce1debd880
 dev.zio	zio-aws-geomaps_2.12	7.31.30.1		26e8d8968eab7a52db98c8d0e8b4fcf75238ae91
+dev.zio	zio-aws-geomaps_2.12	7.31.30.2		5486091c26d7ac8514cf90a0ba472a6f6a777f78
 dev.zio	zio-aws-geomaps_2.12	7.31.4.1		0bc26322e30f5e7959f18290b56fc155f0b8b2db
 dev.zio	zio-aws-geomaps_2.12	7.31.6.1		68c9543987d0ed4e5faf793ed0f8cd4f1006024c
 dev.zio	zio-aws-geomaps_2.12	7.31.6.2		911e87e13728d54bcae1d8c0fc601616ddcf2237
@@ -1120,6 +1130,7 @@ me.ahoo.simba	simba-zookeeper	2.8.0		e52e57dc05672eb7966050c0168991b3347b3218
 me.ahoo.simba	simba-zookeeper	2.8.1		6bebfc1a416cb3f616511f17ab122973c58a6d96
 me.ahoo.simba	simba-zookeeper	2.8.5		b8889eeda7ba26e6df7d468eb4a9a57b3a36f891
 me.ahoo.simba	simba-zookeeper	2.8.6		d92022787450833e0dd896b23d28422aaad1476f
+me.ahoo.simba	simba-zookeeper	2.8.8		f4b088b379a9909c5bcff40bf3804e518a41c379
 me.jeffshaw	digitalocean_2.12	4.0		ba7b114ce6fccd7a5ccac4da05cbf6542d01fdcb
 me.jeffshaw	digitalocean_2.12	5.0		e66116355b83c698f64ae7c010008d112106636e
 me.jeffshaw	digitalocean_2.12	6.0		780111008e3bacd6ec30451ac5bf3fe09de59fbf
@@ -1420,6 +1431,7 @@ org.apache.camel	camel-spring	4.8.3		eca5032901700cb1021e97196e1c1d0ee87325ce
 org.apache.camel	camel-spring	4.8.4		2f4d277df8da96b6108eb747eeca3dc7ec0ea18d
 org.apache.camel	camel-spring	4.8.5		7efa2b9f3714669b8778a780fbb2b32fd713ab28
 org.apache.camel	camel-spring	4.8.6		33a301e25b3d5cced82d58aa9bd4ff67781c3b54
+org.apache.camel	camel-spring	4.8.7		5e580e47c0b3e66f0579e06439788bd46ddc8389
 org.apache.camel	camel-spring	4.9.0		c0b31da56d09f6805b0d41e90af478283eca9a7f
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	1.0.0		a4ba634e8245ca6b060f95dd2b602d1bf1d8485d
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	1.0.0-CR2		9246f2284fa7a03323dac7dda166b4b90d9d4feb
@@ -1483,6 +1495,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.2.1		1710e84f
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.2.2		3f5769e687116d2c3e0993d4d6afc2f8d4f0f832
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.2.3		92b84c6a4c1db41011f9c1ceb50d8f76cc4d56a9
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.20.0		25dab972575fdb8b194800ebc2f191d544c7dc9f
+org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.20.1		eb0ea6301118b2f126f1f883deeac8de55e7daef
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.22.0		2890b595fb9bc34c5c1929b14a35459851e6a385
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.4.0		7d5b4a2051422b0d435b8f590a855f1a6721ca41
 org.apache.camel.quarkus	camel-quarkus-integration-test-influxdb	3.5.0		75c27404ec192af3a5b02258e1f7f3546c294036
@@ -1611,6 +1624,7 @@ org.apache.camel.springboot	camel-snmp-starter	4.8.3		4efbe10809448c5320aadde386
 org.apache.camel.springboot	camel-snmp-starter	4.8.4		05e45de9b0ffb9b9b05a373a56e9eee58dc62660
 org.apache.camel.springboot	camel-snmp-starter	4.8.5		13df3c57d3fd57beb217e2c1dd5ed0ce439d9ac6
 org.apache.camel.springboot	camel-snmp-starter	4.8.6		ec190211a4b7d635cbcddfe926d94d24b625cb96
+org.apache.camel.springboot	camel-snmp-starter	4.8.7		926d61bc34807172fe5a02a412e20387e1bdbf82
 org.apache.camel.springboot	camel-snmp-starter	4.9.0		a7d5629bf225a46b111fef20391912789cee8729
 org.apache.geronimo.plugins	mconsole-ds	2.1		N/A
 org.apache.geronimo.plugins	mconsole-ds	2.1.1		N/A
@@ -1656,6 +1670,8 @@ org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.1.1		N/A
 org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.1.1	metadata	fb8d7ddf6079031c9fa47ddbaaf8149027767517
 org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.1.2		N/A
 org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.1.2	metadata	b54427893e0c5a30a42c9eae50fdcb9fe2574cdb
+org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.10.0	metadata	a5c3a07497610badf01267a4a5c39955135e16e9
+org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.10.1	metadata	d08b46ed20912e4a4d00d07b0d6aa8850d350ec5
 org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.2.0		N/A
 org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.2.0	metadata	29dc3df725b1c99461e73ba81c5e6884ac093503
 org.danilopianini	maven-central-portal-kotlin-api-iosarm64	2.2.1		N/A
@@ -1808,6 +1824,7 @@ org.jetbrains.androidx.navigation	navigation-runtime-iosarm64	2.9.0-alpha16		N/A
 org.jetbrains.androidx.navigation	navigation-runtime-iosarm64	2.9.0-alpha16	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.androidx.navigation	navigation-runtime-iosarm64	2.9.0-alpha17		N/A
 org.jetbrains.androidx.navigation	navigation-runtime-iosarm64	2.9.0-alpha17	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.androidx.navigation	navigation-runtime-iosarm64	2.9.0-beta01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jmolecules	kmolecules-ddd	1.10.0		04ecaf82ec68a47b2221d2a037aa04cccf254c03
 org.jmolecules	kmolecules-ddd	1.5.0		9099b1a65134ec3bf62d9ea5dd231b215488b129
 org.jmolecules	kmolecules-ddd	1.6.0		04b692d40f79f2cb2b109aa572bc69fd7e8c926b
@@ -2252,6 +2269,7 @@ org.springframework.data	spring-data-rest-hal-explorer	4.3.0		9d258399ac4aa836fb
 org.springframework.data	spring-data-rest-hal-explorer	4.3.1		077f3b59fb37c4b5f878690fc4433474515ecec2
 org.springframework.data	spring-data-rest-hal-explorer	4.3.10		50890a7493a5da009b64ebf278d957f7c064d92d
 org.springframework.data	spring-data-rest-hal-explorer	4.3.11		e750c44a791d561e514fbe58f03b8d1c9e470215
+org.springframework.data	spring-data-rest-hal-explorer	4.3.12		ac27a0f705011f48e4d7cfabb21743d5bf441057
 org.springframework.data	spring-data-rest-hal-explorer	4.3.2		085946ca29d5db6067f23bcbb459375ecaeecaba
 org.springframework.data	spring-data-rest-hal-explorer	4.3.3		ae3718a149e167f9f0798d359f8fafec4924471c
 org.springframework.data	spring-data-rest-hal-explorer	4.3.4		eeb5ed9338ee7d8d20c55eba0630c253bd90fdcb
@@ -2266,6 +2284,8 @@ org.springframework.data	spring-data-rest-hal-explorer	4.4.2		9ccb247cbd4a03aea7
 org.springframework.data	spring-data-rest-hal-explorer	4.4.3		dfc8c1fb40959771a7edc3ddf2541166dfde679d
 org.springframework.data	spring-data-rest-hal-explorer	4.4.4		aca4830f72926a2068c696d647cd43ffe4373d36
 org.springframework.data	spring-data-rest-hal-explorer	4.4.5		34a04f6f9b0778ad6e3c6ef11d802bd1bbf45891
+org.springframework.data	spring-data-rest-hal-explorer	4.4.6		f007f47ae7b9aa025edd9a85cb790537714a688e
+org.springframework.data	spring-data-rest-hal-explorer	4.5.0		78d5a0e17c1e412c41038c1de7a4d81f487372a8
 org.springframework.data	spring-data-rest-hal-explorer	5.0.0-M1		a203d35c22a6e986f10fb31a690a188165f3ee67
 org.springframework.data	spring-data-rest-hal-explorer	5.0.0-M2		833bf7f6321111ab47996ce189c353c698f716d4
 org.typelevel	squants_native0.2_2.11	1.3.0		30dbcadc70a7ef22a84e9e663cc0937cf778f951

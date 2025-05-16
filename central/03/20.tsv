@@ -452,6 +452,9 @@ io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.10		a7
 io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.11		5da0e1fcbdd7ee933d3c8b9e276b9e27b0fca1b1
 io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.12		d2e9cfa5bc89e6098e4ac768f40a57e35ca380e7
 io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.13		0e1ceb27285c120c03e9c76022ab012c3a41acd5
+io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.14		b30904f305a919c8430444fd40dd728f647e3a4b
+io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.15		60de6391b5ce4e36350b76488e910ab7687493bc
+io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.16		7e2d4d57b04679ec7bde02b0d536b705bc80b95e
 io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.2		c68292aea95d07ab64c4debde5db57bb1509c075
 io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.3		28b0203963e4355735328f7ccb3c9ddaa2832148
 io.americanexpress.synapse	synapse-archetype-client-rest-reactive-put	0.4.4		b141ccfbe8f8510c01478a7e2831a9ef6ac7b12c
@@ -639,6 +642,7 @@ io.kotest	kotest-extensions-mockserver-jvm	4.4.2		51859b0712ba55a999e3797597cea6
 io.kotest	kotest-extensions-mockserver-jvm	4.4.3		1fa545b4532ec85a13cef39c58ca3e22aa4f85e5
 io.kotest	kotest-extensions-mockserver-jvm	6.0.0.M2		430d3b0a7e7d5c2b0bcb46e867356d9fdba09474
 io.kotest	kotest-extensions-mockserver-jvm	6.0.0.M3		7741ad6255d92b768437624c8a33bb77a67f25f2
+io.kotest	kotest-extensions-mockserver-jvm	6.0.0.M4		7741ad6255d92b768437624c8a33bb77a67f25f2
 io.silverspoon	bulldog-distro	0.1.0		N/A
 io.silverspoon	bulldog-distro	0.1.0	beagleboneblack	c67c980f12a251f2a4e088ee2e5e745f1f8d480f
 io.silverspoon	bulldog-distro	0.1.0	cubieboard	5a5bb42151470ce768c2ee5af4e85940fe85c866
@@ -890,6 +894,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.2.1		6304576
 org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.2.2		f4d38415a8bb7163ebd8c2cfa9a9104bbcb9a657
 org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.2.3		94841bcb086edf357c2c37cc790f4495300dd2f4
 org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.20.0		301609c3a65b6b0c0c0a1583feb48fed7fb21a5d
+org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.20.1		ca87f77f14b29251d12f42d0fbe52e3e4cd69f48
 org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.22.0		cd403bea2e3bad92417b6d16f0a2c4e319ab7029
 org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.4.0		42f23289a53b2ff8a3b71f324ebdf90cdb299453
 org.apache.camel.quarkus	camel-quarkus-integration-test-kafka-ssl	3.5.0		46bf14e93442c4a5f31a5f71ce263c5f3066739a
@@ -1061,6 +1066,10 @@ org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.19		a570a00e588f3b48ee91806eaeff
 org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.19	nolog	c5954e1806b61f9f5e895432156bf99abc363c8e
 org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.2		64b1860298c15783a9211a717dde83f5850051a3
 org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.2	nolog	ab90d8a747df7d4defb5b4ac39cc8c78040bba70
+org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.20		c8493f8748e0c2d182a0f7c298c735cb602aea68
+org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.20	nolog	adc5a96d45cbbb99741080959f6e890d5c4c8cf6
+org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.21		00590af07b36829c54c0b060b50b6edc5f8f0fff
+org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.21	nolog	1e729d2c2c632324f4431d6aa1eca869ee9805dd
 org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.3		35d84c7946f7802d7a1ac2f50ec2694c17d9c720
 org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.3	nolog	1c2cab0c29ae4f94de347e51ab431d01a4c7bf1b
 org.eclipse.jetty.ee8	jetty-ee8-apache-jsp	12.0.4		6b73d47cc11e9a5f30ecb03ab4a0fba155198f3e
@@ -1619,6 +1628,8 @@ org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.0		69b11d400e66353dc3cefa
 org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.1		77427eaf0b52de02a0d91741fd6c9b9a1ff94c21
 org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.10		d42aeea8f8f66e334df003a9b278d7fe51b30233
 org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.10-jakarta		21aa76bca799e4533f26bcacfaad15534e1ef8eb
+org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.11		02ef63b296d1ad6a4c38c0a6870a6fe5b4848625
+org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.11-jakarta		c73ddfa19bd769f9b4a1027c9a3c9893deb42ab7
 org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.2		c20b5455e1374837b89b88a7bcc18f23a82d9f42
 org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.3		30b13a08a681b32f71d06fe01235756ed298fec2
 org.openl.rules	org.openl.rules.ruleservice.kafka	5.27.4		d63a31fad23f9f9f795f89d5fd33bc91ee59a6d7
@@ -1756,6 +1767,10 @@ tz.co.asoft	habitat-core-watchosarm32	3.0.14		N/A
 tz.co.asoft	habitat-core-watchosarm32	3.0.14	metadata	6dbb6956d548b1e0a354c7fa5b597ca71f332f03
 tz.co.asoft	habitat-core-watchosarm32	3.0.15		N/A
 tz.co.asoft	habitat-core-watchosarm32	3.0.15	metadata	3b3d63265c2e10895c3ee2edb8fc5f4f436afe7b
+tz.co.asoft	habitat-core-watchosarm32	3.1.0	metadata	f69752fd7b57124f0e4feb493640f6189257e57d
+tz.co.asoft	habitat-core-watchosarm32	3.1.1	metadata	610ccc2ccdd48c90c7bb410be731b9b79c746526
+tz.co.asoft	habitat-core-watchosarm32	3.1.11	metadata	4ed9c307999c9c32ee0021f3df0afb0fb3b3dff5
+tz.co.asoft	habitat-core-watchosarm32	3.1.12	metadata	c66f3d6d866cdad4534d94b88dba72d09a3ecac1
 tz.co.asoft	symphony-input-sheet-iosx64	3.0.1		N/A
 tz.co.asoft	symphony-input-sheet-iosx64	3.0.1	metadata	6d967991185112c05448249e5b3009269ff3ee0e
 tz.co.asoft	symphony-input-sheet-iosx64	3.0.2		N/A

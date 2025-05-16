@@ -32,6 +32,7 @@ app.lexilabs.basic	basic-logging-macosx64	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-logging-macosx64	0.2.5-beta01	metadata	394a1161003d34f5390f1f3198afe1c41105f789
 app.lexilabs.basic	basic-logging-macosx64	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-logging-macosx64	0.2.5-beta02	metadata	9d0c6bbbd25e691f2bcd61f4ab7881b727b5895a
+app.lexilabs.basic	basic-logging-macosx64	0.2.6	metadata	3e41a2171bba5efd7ed225ff6b16c3ed8dfbba1e
 app.lexilabs.basic	basic-logging-macosx64	0.2.6-beta01		N/A
 app.lexilabs.basic	basic-logging-macosx64	0.2.6-beta01	metadata	ce5dd532e2b95efb13239eaa9c7455ed9b02d0fb
 app.lexilabs.basic	basic-logging-macosx64	0.2.6-beta02		N/A
@@ -469,7 +470,16 @@ aws.sdk.kotlin	redshift-jvm	1.4.73		1f7efe2ffc9968e4c01bd5ba04f507e23ed46639
 aws.sdk.kotlin	redshift-jvm	1.4.74		4ad6b3587e40ca410c69832a0d09a485522942f0
 aws.sdk.kotlin	redshift-jvm	1.4.75		f5f064c7b7da99209f7aacda70ffdd89bafe9887
 aws.sdk.kotlin	redshift-jvm	1.4.76		2f2f085421817a26f814c9db931f0fcf4c23c022
+aws.sdk.kotlin	redshift-jvm	1.4.77		e9fe0e849910696594103d67a5a9f20dd2c776e0
+aws.sdk.kotlin	redshift-jvm	1.4.78		bbf37040426e9db9b5d87abdf4d5b3dc88d76668
+aws.sdk.kotlin	redshift-jvm	1.4.79		0deb92034e6c8d28267a8f37536f2810cee21068
 aws.sdk.kotlin	redshift-jvm	1.4.8		3dde8f5e048585936434b57e633f5a7b63d2c5ed
+aws.sdk.kotlin	redshift-jvm	1.4.80		475f0d9362090cfc67027721399bb6208c2a321c
+aws.sdk.kotlin	redshift-jvm	1.4.81		715f3e1b162e1cfcaa0f2d46af0abbd91719573f
+aws.sdk.kotlin	redshift-jvm	1.4.82		6336eebfbb0305243202fcd45fe29d1859428ce8
+aws.sdk.kotlin	redshift-jvm	1.4.83		f7e886a6338b722bd714530c81cb759c1852254e
+aws.sdk.kotlin	redshift-jvm	1.4.84		c169153c2452845ab904c0c8941d6df81257479d
+aws.sdk.kotlin	redshift-jvm	1.4.85		1dba35bdb21c83f8f8b0c6dd8b306e6a87f5fa0a
 aws.sdk.kotlin	redshift-jvm	1.4.9		de49602bbe1922b0a23938ec2306d75967ba694c
 ch.oliumbi.compass	server	1.0.0		14303fd1d2b2a78f02785ee7a1b46b9574b0a2fa
 ch.oliumbi.compass	server	1.1.0		3e1caecddb0ae771d16777c134a269eab13f25f7
@@ -941,6 +951,7 @@ eu.openminted.share.annotations	omtd-share-annotations-maven-plugin	3.0.2.5		73b
 eu.openminted.share.annotations	omtd-share-annotations-maven-plugin	3.0.2.6		e7f752a92418367cefa9c55186e5c0b4fdcf784a
 eu.openminted.share.annotations	omtd-share-annotations-maven-plugin	3.0.2.7		44279a101e660df938df4eb6b5abecac690983c9
 fr.ird.t3	msaccess-importer	1.4.1		ca27598a585d309b63d631e9f93fdaa184b7d4c1
+hu.webhejj	webhejj-tables	1.0.0		8b44fd2b8d3be5347bab4eb3d674b2acfeeb9597
 im.paideia	paideia-sdk_2.12	0.0.1-alpha		0dff6c98925891c253ec561b51d4686ba8266bd3
 im.paideia	paideia-sdk_2.12	0.0.2		3ab02d115652658decc8d070e6492c9de1c690b1
 io.appmetrica.analytics	analytics-location-api	6.0.0		N/A
@@ -1660,6 +1671,7 @@ org.apereo.cas	cas-server-core-authentication-attributes	7.2.0-RC6		1f880262e96c
 org.apereo.cas	cas-server-core-authentication-attributes	7.2.0-RC6	resources	816ac0cde319f201dfa1540a46d9bcdc0f7f2368
 org.apereo.cas	cas-server-core-authentication-attributes	7.2.1		4cc0881e2d58e19ad201a877c7632f0aba0c0ef2
 org.apereo.cas	cas-server-core-authentication-attributes	7.2.1	resources	91271949b38daaff970083d864b7ac1116640203
+org.apereo.cas	cas-server-core-authentication-attributes	7.2.2		4e4aa01932c1f5e827b55a2e30760897ea290bec
 org.apereo.cas	cas-server-core-authentication-attributes	7.3.0-RC1		3ad969701507e6c696ab82c7d9b2b363875e6ee2
 org.apereo.cas	cas-server-core-authentication-attributes	7.3.0-RC1	resources	5c4c55f63a19bff348166c28fa61790a0986ce54
 org.apereo.cas	cas-server-core-authentication-attributes	v6.4.0-RC5		8a752ad3faf476cfc63aef674a385e9f0a78744f
@@ -1973,6 +1985,7 @@ org.webjars.npm	babel__runtime	7.26.10		fdc58748cb7f2063b061d961640f8d0bbd8cfbcd
 org.webjars.npm	babel__runtime	7.26.7		daad69a0f8f02082320738b89075baa9cd6066b7
 org.webjars.npm	babel__runtime	7.26.9		a6299258496421254b82f2ac4c1f951661f3a30c
 org.webjars.npm	babel__runtime	7.27.0		1b17e8e265a00b3c3211a5958ac0882db4e96799
+org.webjars.npm	babel__runtime	7.27.1		7ed575545e9d54b703388395ff04611d3ae9ce3f
 org.webjars.npm	babel__runtime	7.3.1		dbe363bbe55d6ad033e56641c0d9f624340cad95
 org.webjars.npm	babel__runtime	7.3.4		b8328192a6b60e5f4b4639f338eaf892f9fab468
 org.webjars.npm	babel__runtime	7.4.0		88e50bfb09d8b589e2070f491dff585bc74785eb

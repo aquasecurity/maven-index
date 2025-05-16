@@ -528,6 +528,7 @@ com.rosette.elasticsearch	rosette-elasticsearch-docker	7.9.2.0		N/A
 com.rosette.elasticsearch	rosette-elasticsearch-docker	7.9.3.0		N/A
 com.squareup.retrofit2	converter-java8	2.10.0		ba58dabd402d601f5824a9cda1dc032d417b8085
 com.squareup.retrofit2	converter-java8	2.11.0		829106891cf9f1e1ddb09c2ec145f04e6b22eeb3
+com.squareup.retrofit2	converter-java8	2.12.0		3f0428d28f23aa990027d73f44bd21d389caa8c0
 com.squareup.retrofit2	converter-java8	2.3.0		21e19adf7150a832d834c77c4d3d6913ee041b50
 com.squareup.retrofit2	converter-java8	2.4.0		c6ec20572064d69958deb52f5acfa1f2606dcc3f
 com.squareup.retrofit2	converter-java8	2.5.0		0538f971e176a36429688f95cd48946476a3ee3b
@@ -543,6 +544,7 @@ com.squareup.retrofit2	converter-java8	2.8.0		5d00d0de7c0b54a624d43f56c7dc6f28a4
 com.squareup.retrofit2	converter-java8	2.8.1		1e1a8248f17a943ac83b18481c3f3f17e291b390
 com.squareup.retrofit2	converter-java8	2.8.2		eef2ef4dee80b5d82f84456bf575315595dfe545
 com.squareup.retrofit2	converter-java8	2.9.0		b853d0c23cb468429a7cb5a6fb322b6d72377341
+com.squareup.retrofit2	converter-java8	3.0.0		dd7b7e2eb714a67d3b39974a0c587c0ae85e00fa
 com.symphony.oss.commons	commons-core	0.1.0		52d22785450683f646b9ea740aa547c9894a4ab6
 com.symphony.oss.commons	commons-core	0.2.0		2eb5577e358f2cf6405730d7df827dcdbcde994b
 com.symphony.oss.commons	commons-core	0.3.0		1d365f5a4eeea39f92340d79a9afa7a0ff7ac257
@@ -842,6 +844,8 @@ com.vaadin	vaadin-rich-text-editor-testbench	23.5.12		d34bd39c0cbbb8fad3b4adb2cc
 com.vaadin	vaadin-rich-text-editor-testbench	23.5.13		4bdcc65c13add250bcd13189c0ee0fef6ad9351b
 com.vaadin	vaadin-rich-text-editor-testbench	23.5.14		201a6ffe873edd369ff82aecac2f0e52b2400042
 com.vaadin	vaadin-rich-text-editor-testbench	23.5.15		3b67c36a131fe054e8c7919b26b89b07e66fcd24
+com.vaadin	vaadin-rich-text-editor-testbench	23.5.16		18e831d98bc6d9f7d8d76fe95bc5eafdd0988b6c
+com.vaadin	vaadin-rich-text-editor-testbench	23.5.17		0cf7e695f7e73eb9265e24a024271671b1e0f32d
 com.vaadin	vaadin-rich-text-editor-testbench	23.5.2		c6f77dab2580ea987a8ea24937793c1cc29406ca
 com.vaadin	vaadin-rich-text-editor-testbench	23.5.3		0144799b468d1fa3c85a08b8fba62bdb070d1168
 com.vaadin	vaadin-rich-text-editor-testbench	23.5.4		f5faa3e317161332a0e131010b1a23af5ae8762e
@@ -956,6 +960,7 @@ com.vaadin	vaadin-rich-text-editor-testbench	24.5.8		d8c5d520eb2c3b0bcfa97e4f9d1
 com.vaadin	vaadin-rich-text-editor-testbench	24.5.9		edc163bc93ecff77e4b00d851b9f6b8468cb04e6
 com.vaadin	vaadin-rich-text-editor-testbench	24.6.0		73eb9020c99bc15f4a7916c0a87a995c99e68bfd
 com.vaadin	vaadin-rich-text-editor-testbench	24.6.1		0191ed63a60b253e60eb7bde8484b1776b7e0080
+com.vaadin	vaadin-rich-text-editor-testbench	24.6.10		664a0f577e8307593dc70cd3056fd5c1168c87c5
 com.vaadin	vaadin-rich-text-editor-testbench	24.6.2		ba4f89b42d7097fa5d5f4197845c6cbf840611d0
 com.vaadin	vaadin-rich-text-editor-testbench	24.6.3		c845b11b8378aefd89401205487908ff3605a1a1
 com.vaadin	vaadin-rich-text-editor-testbench	24.6.4		47ed963b81b3b72fd0cc28c904bb05d857b75be0
@@ -968,6 +973,7 @@ com.vaadin	vaadin-rich-text-editor-testbench	24.7.0		d31230f12087dd6d66effdedefe
 com.vaadin	vaadin-rich-text-editor-testbench	24.7.1		7e8c43bc47274a26e4f4e72aee06d7e67150951e
 com.vaadin	vaadin-rich-text-editor-testbench	24.7.2		6adc79acac1d0815318a605abe1e20293ebe2e04
 com.vaadin	vaadin-rich-text-editor-testbench	24.7.3		1329d456b43fe7beb93921c39ba5e4fe89d11fa1
+com.vaadin	vaadin-rich-text-editor-testbench	24.7.4		e0c605751e138e968015e13b200ad032559c25d8
 com.vaadin	vaadin-rich-text-editor-testbench	3.0.0		10ad5693977b151748e557acdc14f611ee912fbb
 com.vaadin	vaadin-rich-text-editor-testbench	3.1.0		8e9899ac8df6cb1d26875f0824cae7ded69a7c70
 com.vaadin	vaadin-rich-text-editor-testbench	3.1.1		f5e4f8dd7d3323309decbc70fde3d10cc8444412
@@ -2531,8 +2537,22 @@ com.yahoo.vespa	jdisc_core	8.513.17		d925a76ba3edfdb8d390ca8d90bada92a2a8a210
 com.yahoo.vespa	jdisc_core	8.513.17	jar-with-dependencies	91a209fb7498dfe5799e268d9904c59b0faf0d7b
 com.yahoo.vespa	jdisc_core	8.514.24		a8c222f29070a1fa7529c945d97caf00b710838a
 com.yahoo.vespa	jdisc_core	8.514.24	jar-with-dependencies	b2e935d8be5a5d43102a6e058da2182a936c588b
+com.yahoo.vespa	jdisc_core	8.515.40		6e63f86b700c6c9ebc3ffda949051e2e65c27ccf
+com.yahoo.vespa	jdisc_core	8.515.40	jar-with-dependencies	ae98ee67bb6803c50dc1e1de437ccd6e540a4ff5
+com.yahoo.vespa	jdisc_core	8.516.26		9e671a31ddc10eb762694dddfc5999f923f73ad9
+com.yahoo.vespa	jdisc_core	8.516.26	jar-with-dependencies	a4747d23885876a53be0cdee04461c1e569a3447
+com.yahoo.vespa	jdisc_core	8.517.15		60c510e72237a8e7e8bac1b940b9e9556d9e5b02
+com.yahoo.vespa	jdisc_core	8.517.15	jar-with-dependencies	246598d792a02951c71199a8ccc52168e5fe458f
+com.yahoo.vespa	jdisc_core	8.518.4		21ccaa10245faad61c1d980e01feca97b53f5e56
+com.yahoo.vespa	jdisc_core	8.518.4	jar-with-dependencies	399c6bde454ea5a8cb71e336037116c9278702fd
+com.yahoo.vespa	jdisc_core	8.519.55		ef520929f037c0a68353466437dde937998e34bf
+com.yahoo.vespa	jdisc_core	8.519.55	jar-with-dependencies	0d77ea6c825d6fc0efba0c7dec90dbcc070dc82c
 com.yahoo.vespa	jdisc_core	8.52.15		af3aad041dc95ae3280fd4e00a85eccb1327d3f1
 com.yahoo.vespa	jdisc_core	8.52.15	jar-with-dependencies	0370ce4c214cc26c82bfc0371d548bcc5d2db4b9
+com.yahoo.vespa	jdisc_core	8.520.18		79453ad2f6e01deb9e046b04fb024aa9f76bf5ea
+com.yahoo.vespa	jdisc_core	8.520.18	jar-with-dependencies	28b006a6ebf9c7d254f1db9efdb21bdcfd337552
+com.yahoo.vespa	jdisc_core	8.521.17		ba2854115a86de61b865549badf2b92889b94716
+com.yahoo.vespa	jdisc_core	8.521.17	jar-with-dependencies	c3a4ec689221295ed3e27eb0078c57ba18b57aa6
 com.yahoo.vespa	jdisc_core	8.53.21		08d0f70d4b50d801c0be3142a22e6b8c97beb64b
 com.yahoo.vespa	jdisc_core	8.53.21	jar-with-dependencies	7e9df512c9db949d4d1afedd019ccfba170e7e92
 com.yahoo.vespa	jdisc_core	8.54.61		51d0c2872d295d2002d6ee6b700da39fe46bcbb5
@@ -2673,6 +2693,7 @@ io.github.almighty-satan.slams	slams-papi	1.1.2		6000fc4c0d666fa9e31db0a5b50568a
 io.github.almighty-satan.slams	slams-papi	1.1.3		3e88ac24ca07adcdb7101e9a9ded3910b0df7925
 io.github.almighty-satan.slams	slams-papi	1.1.4		2e2328309e8849b77e3f6ced8de20613032fd96b
 io.github.almighty-satan.slams	slams-papi	1.2.0		bbc42ad5c8a064f9a18e7a19ac819a4afc0792b0
+io.github.almighty-satan.slams	slams-papi	1.2.1		a4ee0a38ff05368e52ed770c549d280781f5ffe0
 io.github.cadence-oss	iwf-java	1.0.0		N/A
 io.github.cadence-oss	iwf-java	1.0.0	plain	5588c741b487e4c31da9e62a1896d237ce07839e
 io.github.cadence-oss	iwf-java	1.0.1		N/A
@@ -3185,6 +3206,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-client-iossimulatorarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client-iossimulatorarm64	0.6.1	metadata	bd80eefbba252f701eb972d515c74222862894c2
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client-iossimulatorarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client-iossimulatorarm64	0.6.2	metadata	d0d688fa9fbe81a8d4fa06967f444dbc1dd228e7
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-client-iossimulatorarm64	0.7.0	metadata	b7d3a81540f508e4b654288231c46d391187ed9e
 org.jibx.schema.org.opentravel._2013A	org.jibx.schema.org.opentravel._2013A.base.hotel	1.1.1		a80c2b31effc43cc7db307bd8c33f25cb94314cf
 org.jibx.schema.org.opentravel._2013A	org.jibx.schema.org.opentravel._2013A.base.hotel	1.1.4		96d64f0754af47ce6cc4bc77b18e6ffa372dac32
 org.jibx.schema.org.opentravel._2013A	org.jibx.schema.org.opentravel._2013A.base.hotel	1.2.0		9b706fddc5d7c3187d65da94749059065e8ab694
@@ -3312,6 +3334,9 @@ tz.co.asoft	captain-router-core	3.0.6		f0b51055d94307f0f1d42c81d952507b4b800c6d
 tz.co.asoft	captain-router-core	3.0.7		bafca11330a68979e8b1e9c328a56246eb929daa
 tz.co.asoft	captain-router-core	3.0.8		e142b8483985c323e770fec6fe685d244900ea87
 tz.co.asoft	captain-router-core	3.0.9		e142b8483985c323e770fec6fe685d244900ea87
+tz.co.asoft	captain-router-core	3.1.1		ee7061f1978cf600a062bac3fb957fe351b28520
+tz.co.asoft	captain-router-core	3.1.11		ee7061f1978cf600a062bac3fb957fe351b28520
+tz.co.asoft	captain-router-core	3.1.12		ee7061f1978cf600a062bac3fb957fe351b28520
 tz.co.asoft	kotlinx-coroutines-core-tvosarm64	0.1.10		N/A
 tz.co.asoft	kotlinx-coroutines-core-tvosarm64	unspecified		N/A
 tz.co.asoft	viewmodel-test-core-linuxx64	0.0.81		N/A

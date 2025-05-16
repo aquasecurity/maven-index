@@ -820,6 +820,7 @@ org.apache.paimon	paimon-core	0.9.0		a6c77a55c0f1c1de4ab1c4550ffa34c6eec86468
 org.apache.paimon	paimon-core	1.0.0		e0e352b6b5dd0f5dbed28bbc61ba3682c7f60b2d
 org.apache.paimon	paimon-core	1.0.1		9d073c308f43488d1177256b2ed3971817bb6eb0
 org.apache.paimon	paimon-core	1.1.0		1f705acee80285b50f6c6d77f34b4c237b84d961
+org.apache.paimon	paimon-core	1.1.1		a8b027da31ff37e4b69413842bf3d2b47a5a997e
 org.apache.pinot	pinot-batch-ingestion-spark-3.2	0.11.0		b8eeeb51eb8d44ac47aecce6fb8285b97304209c
 org.apache.pinot	pinot-batch-ingestion-spark-3.2	0.11.0	shaded	b643b6c1af728f23a7862bcd26894d7c7d1861ef
 org.apache.pinot	pinot-batch-ingestion-spark-3.2	0.12.0		285ec3460a2e24164a3daaa41c41a0baa82043a8
@@ -864,6 +865,9 @@ org.godotengine	godot-openxr-loaders-pico	1.0.0-stable		N/A
 org.godotengine	godot-openxr-loaders-pico	1.1.0-stable		N/A
 org.gwtproject.typedarrays	gwt-typedarrays	1.0.0-RC1		5e8bb04d628ceb1789e9c2f0029ab33bd9cae41f
 org.gwtproject.typedarrays	gwt-typedarrays	1.0.0-RC2		5056e99df697917a17aec055aa0b7f2b0c30125c
+org.hammerlab	sbt-dependency-graph_2.10_0.13	0.10.0		02f32e0e8311f679591387fc32e374b6e0bbcfbc
+org.hammerlab	sbt-dependency-graph_2.10_0.13	0.10.1		35a02b25db536feb8d5dd806afc57d410757ae2a
+org.hammerlab	sbt-dependency-graph_2.10_0.13	0.10.2		0637220c45e03dc210a519704fc6522e40b145f1
 org.hpccsystems	spark-hpcc	7.0.0		22055502b2b921e838c0cf3a1a4698edeafe2a29
 org.hpccsystems	spark-hpcc	7.0.0	jar-with-dependencies	eb21b8e9c9f72b6e1eca3b1613d6ef015ca6e0a4
 org.hpccsystems	spark-hpcc	7.0.0-beta-1		fb985c5ac6986cbeb9d55d04cff4441fe3faf6d8
@@ -1349,6 +1353,7 @@ org.hpccsystems	spark-hpcc	8.0.76-1	jar-with-dependencies	33e95b39b2d0b7148d8cba
 org.hpccsystems	spark-hpcc	8.0.78-1		63f70675beaeee4ad197e09226b67eed885539a6
 org.hpccsystems	spark-hpcc	8.0.78-1	jar-with-dependencies	815841c86cf7792199f2ff8b5c97f1c1b0d08213
 org.hpccsystems	spark-hpcc	8.0.8-1		N/A
+org.hpccsystems	spark-hpcc	8.0.8-1	jar-with-dependencies	0e1036f6c9201502039fb4a316f7e81763b1b27a
 org.hpccsystems	spark-hpcc	8.0.80-1		a4efd4c2e87d07982885f149ba61146c80a3f70f
 org.hpccsystems	spark-hpcc	8.0.80-1	jar-with-dependencies	b179ef19ec4319141d8fb008421bd25ba89381ce
 org.hpccsystems	spark-hpcc	8.0.82-1		c97c453dfd44df3e658e8dc3b5b9b27a909117e5
@@ -1538,8 +1543,11 @@ org.hpccsystems	spark-hpcc	8.12.98-1	jar-with-dependencies	17c65e256bf544da738d0
 org.hpccsystems	spark-hpcc	8.2.0-1		470fd64ecac48270afc6369a71fa66503cc3c5bf
 org.hpccsystems	spark-hpcc	8.2.0-1	jar-with-dependencies	a1d64b5298e20625405adb54cd13c498e5e62795
 org.hpccsystems	spark-hpcc	8.2.0-2		d09663ebbfdaa5e675dc4bd4ae78f7aa7d4161c5
+org.hpccsystems	spark-hpcc	8.2.0-2	jar-with-dependencies	8f3dcfc86c7b0994b2a56fa87384f015ca6492b1
 org.hpccsystems	spark-hpcc	8.2.10-1		0a13e5fb5423017f02b48142e935877d8cecdb05
+org.hpccsystems	spark-hpcc	8.2.10-1	jar-with-dependencies	f666d6bdb96611ad11b77da6ef4820b03096a6dd
 org.hpccsystems	spark-hpcc	8.2.12-1		N/A
+org.hpccsystems	spark-hpcc	8.2.12-1	jar-with-dependencies	2cfb31b88f2217cb42680c1f226bc507e1a06f1a
 org.hpccsystems	spark-hpcc	8.2.14-1		83ff6f9a389c284a11cef80e4367a8b27469972b
 org.hpccsystems	spark-hpcc	8.2.14-1	jar-with-dependencies	30d78d3ac1b9fcb1062077ae3c855ba3a526987f
 org.hpccsystems	spark-hpcc	8.2.16-1		642bd8f981531a42ee690511d9d1639a67442c48
@@ -1550,8 +1558,10 @@ org.hpccsystems	spark-hpcc	8.2.2-1	jar-with-dependencies	4d70886e823773513d82b42
 org.hpccsystems	spark-hpcc	8.2.20-1		7ca0f101751cf8fe42a89df65b2daca5481edce2
 org.hpccsystems	spark-hpcc	8.2.22-1		cf2ae6b4ca8d61a97f7bf76349a2adba65f036c5
 org.hpccsystems	spark-hpcc	8.2.24-1		e598eb3c921f6fc9e1661be1dd286d4ca552c604
+org.hpccsystems	spark-hpcc	8.2.24-1	jar-with-dependencies	52a41ebe860642e55c409f9dd1157464310bd5b6
 org.hpccsystems	spark-hpcc	8.2.26-1		N/A
 org.hpccsystems	spark-hpcc	8.2.28-1		7cf2b20f06b863fb8e4488a3f1150de051e3d72d
+org.hpccsystems	spark-hpcc	8.2.28-1	jar-with-dependencies	4a569f8d50891325de7f56c65efebbdbd08a7bcd
 org.hpccsystems	spark-hpcc	8.2.30-1		N/A
 org.hpccsystems	spark-hpcc	8.2.32-1		N/A
 org.hpccsystems	spark-hpcc	8.2.34-1		d27cb0dae657c560aac6b89ba28a408da3821ae7
@@ -1867,12 +1877,16 @@ org.hpccsystems	spark-hpcc	9.10.22-1		b25624a5cdaf7ab7b537cb3a6578d090a8f893de
 org.hpccsystems	spark-hpcc	9.10.22-1	jar-with-dependencies	4205ea88d9b13278699b6c75eb71708de934013d
 org.hpccsystems	spark-hpcc	9.10.24-1		7ce77a9037399f6acd416e0e889cbb4b9adf3198
 org.hpccsystems	spark-hpcc	9.10.24-1	jar-with-dependencies	4996a3bb6b5039b5109882bc92dc9f8e65e18eba
+org.hpccsystems	spark-hpcc	9.10.26-1		5aed4e040438e323a1bff53c7510ef7406e918af
+org.hpccsystems	spark-hpcc	9.10.26-1	jar-with-dependencies	b7fa714c243f437cc432c1fc707a5f920ddfb91e
 org.hpccsystems	spark-hpcc	9.10.4-1		726f580515f1481c24fc7751923d468f1db0b9fd
 org.hpccsystems	spark-hpcc	9.10.4-1	jar-with-dependencies	a7ba91b57d9b08079aa64967211654fff53044c8
 org.hpccsystems	spark-hpcc	9.10.6-1		82dcead2d5d3542b76b82f98d3135085d2fe2ddf
 org.hpccsystems	spark-hpcc	9.10.6-1	jar-with-dependencies	c51bafbc3d552bacbf727b146f3245f62e7ad20a
 org.hpccsystems	spark-hpcc	9.10.8-1		c4fa960e9602a3421e0ea9a3f725b091244bbfe3
 org.hpccsystems	spark-hpcc	9.10.8-1	jar-with-dependencies	019da4a49b518ef988c13c20254296cfabed9196
+org.hpccsystems	spark-hpcc	9.12.0-1		cf7bb92a8d296455f0f920c2f6b351e0bf2877f5
+org.hpccsystems	spark-hpcc	9.12.0-1	jar-with-dependencies	3bb2a64d2ee3d5274279784885a376a63d082c43
 org.hpccsystems	spark-hpcc	9.2.0-1		65058c7f58a671c2f9b952c917984b8f140c9f4a
 org.hpccsystems	spark-hpcc	9.2.0-1	jar-with-dependencies	c0184bcca6bda66f24f6713bec6c2fefb7680936
 org.hpccsystems	spark-hpcc	9.2.10-1		ed0885a571b35b8d53319f52296bbec722c0730d

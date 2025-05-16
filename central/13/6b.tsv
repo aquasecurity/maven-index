@@ -255,6 +255,8 @@ com.google.cloud	google-cloud-bigquery-data-exchange	2.53.0		e33498cbbefea090076
 com.google.cloud	google-cloud-bigquery-data-exchange	2.54.0		77405e3b19c01571697599c9808917498d815e39
 com.google.cloud	google-cloud-bigquery-data-exchange	2.55.0		6d4d870526b452f9a68a3ede191b211dd2c505a0
 com.google.cloud	google-cloud-bigquery-data-exchange	2.56.0		628349e774bb8606143f55ef429ba7369f1cf82b
+com.google.cloud	google-cloud-bigquery-data-exchange	2.57.0		7f4539a06995617040dbe63c69e933cbb8d8cf43
+com.google.cloud	google-cloud-bigquery-data-exchange	2.58.0		dfe930d060d265f55309e1b064ba0a27e9f3f52e
 com.google.cloud	google-cloud-bigquery-data-exchange	2.6.0		76cd9d89f9d547109943c1bb9080c127568a2549
 com.google.cloud	google-cloud-bigquery-data-exchange	2.7.0		aa253baac773ba0750a2926b8c49a3ddb2972d4a
 com.google.cloud	google-cloud-bigquery-data-exchange	2.8.0		6a1cf5369bb6849af877a197e5ba20d41b384a57
@@ -1053,6 +1055,7 @@ dev.zio	zio-aws-sns_3	7.31.27.1		10846476fd9a56b3691654bad9fc8a90d7e49d31
 dev.zio	zio-aws-sns_3	7.31.28.1		78994ef8ac99df465d5f22b5a4341ef095ee24a3
 dev.zio	zio-aws-sns_3	7.31.3.1		c4da061481a84b30fa8cf12800bfa0376f78e7b9
 dev.zio	zio-aws-sns_3	7.31.30.1		449f7b7b496ecfaaeae0448477367b27d9ef9ecd
+dev.zio	zio-aws-sns_3	7.31.30.2		0d6fad843cdc84156868fced89ab980d1a8a7091
 dev.zio	zio-aws-sns_3	7.31.4.1		2a412dfdf33ff357846e4fe2e92be2d26b9ccad6
 dev.zio	zio-aws-sns_3	7.31.6.1		bbf4e687f1ebd484e53210b6d37ae4c3fac329a5
 dev.zio	zio-aws-sns_3	7.31.6.2		3e517c2854b9c02bc881c4be20be82298ad0703d
@@ -1223,6 +1226,7 @@ io.opencmw	concepts	11.0.0		d229e312138bca419932f3012e786abc33426d7c
 io.opencmw	concepts	11.0.1		cad03819b77e304a8119add9da7b613932e724bb
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-common-5.0	2.14.0-alpha		d22bac0ae40b64c9e4b944e834fbc788ef610db1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-common-5.0	2.15.0-alpha		c4caac6502858d16219ee9d71749cd271c6100f4
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-common-5.0	2.16.0-alpha		52320d518d14f4f1e549fb8545575a12f46c1af9
 io.pravega	schemaregistry-client	0.1.0		9a5bee1e11b41fdd06b59b62047ed9547a73e95e
 io.pravega	schemaregistry-client	0.2.0		263e7daf156c42107265f897bb3e62874771ed65
 io.pravega	schemaregistry-client	0.3.0		317541d96a0efbacde990c7d896211a442c38387
@@ -1484,6 +1488,7 @@ org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.2.1		f16a65b4312e5da7f4d4241
 org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.2.2		cb409ece563b42fc6c55d52f696ff1d44f3bb291
 org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.2.3		49fc35c7891d10f9cd6d8774c84da20e3827e9a4
 org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.20.0		438d24dcbafd791ddc585b38be1c3c2548f60155
+org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.20.1		8883c590d744b102b4542c6be6faab3642581153
 org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.22.0		ce17a229df0012dace8956f73aab385737e86861
 org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.4.0		bafcdbf4587a8d5f43f108376f0742fcbd9c49be
 org.apache.camel.quarkus	camel-quarkus-xml-io-dsl	3.5.0		39e98868dd682e67b49b62c5cb32896957663d0b
@@ -1684,7 +1689,9 @@ org.elasticsearch.plugin	transport-netty4	8.17.2		bf923d698501f792daf8e5bd245044
 org.elasticsearch.plugin	transport-netty4	8.17.3		cfb7a1e47bcede5f979839427367d1dc6cc7d4f0
 org.elasticsearch.plugin	transport-netty4	8.17.4		2998d656377c80caf1a3fc1fda5c5692c954d093
 org.elasticsearch.plugin	transport-netty4	8.17.5		57221b3eab41881ee1a335ffbb4e36b4ecabf160
+org.elasticsearch.plugin	transport-netty4	8.17.6		4d39543a00ea125b0bbb21e0aea2113ffb4a4e82
 org.elasticsearch.plugin	transport-netty4	8.18.0		caf7b64036741e0ff7f0fb3fe226a9f74ffa50d1
+org.elasticsearch.plugin	transport-netty4	8.18.1		e1a71456a7f1d2aa3633cffefb012db7825c36e7
 org.elasticsearch.plugin	transport-netty4	8.2.0		edfde96636a2eb2719008fa95b224b16aa619188
 org.elasticsearch.plugin	transport-netty4	8.2.1		7847113f156bd23a7dc174c518e1928644bdf19b
 org.elasticsearch.plugin	transport-netty4	8.2.2		52a3f9b7beeee87982fa259b6f5d88e67e799e1c
@@ -1715,6 +1722,7 @@ org.elasticsearch.plugin	transport-netty4	8.9.2		d4e6148813f5b49eb8df9a348cb297c
 org.elasticsearch.plugin	transport-netty4	9.0.0		401fdb0ff7c7fa3fe48dfaaea22b358654025695
 org.elasticsearch.plugin	transport-netty4	9.0.0-beta1		b2014f7f9d17f072ef1afef99001ccfe610ef6dd
 org.elasticsearch.plugin	transport-netty4	9.0.0-rc1		f12c178603ea9dfaf795ee847ba661b617bbea71
+org.elasticsearch.plugin	transport-netty4	9.0.1		402e5f81f8b39dee53e5825fe99313786946fc9f
 org.finos.morphir	morphir-extensibility_native0.4_2.13	0.4.0-M2		f9bae8884795ec995720adc23559eb5ec0209bea
 org.finos.morphir	morphir-extensibility_native0.4_2.13	0.4.0-M3		6d113160bca55b4d585bd6671ac73a8aaf624b2a
 org.finos.morphir	morphir-extensibility_native0.4_2.13	0.4.0-M4		eed9d1e041a74f0d1edb95b68ceba901891871c6
@@ -2184,6 +2192,7 @@ org.wildfly	wildfly-clustering-web-extension	35.0.0.Final		ffccbfd2d96f2db9fccd0
 org.wildfly	wildfly-clustering-web-extension	35.0.1.Final		9f4bbcbbfd138c7d99085927ca195898b53e3748
 org.wildfly	wildfly-clustering-web-extension	36.0.0.Beta1		dbcab1160735b4ad2b987860baba0e3c4cb102b2
 org.wildfly	wildfly-clustering-web-extension	36.0.0.Final		306e47af15569d82f4b9d89c94a2bf1b62d404db
+org.wildfly	wildfly-clustering-web-extension	36.0.1.Final		7239366703fae92c04aafb890b356a5dc85b24df
 org.wildfly	wildfly-jms-client-bom	10.0.0.Alpha1		N/A
 org.wildfly	wildfly-jms-client-bom	10.0.0.Alpha2		N/A
 org.wildfly	wildfly-jms-client-bom	10.0.0.Alpha3		N/A

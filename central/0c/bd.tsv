@@ -53,6 +53,13 @@ com.craterdog	java-digital-tokens	1.4		66f87564ad754de6eb37e3504c0cf113acce6844
 com.craterdog	java-digital-tokens	1.5		4708c1da626161dd7758c1920633239d2e74b093
 com.dwolla	testutils-scalatest-fs2_2.12	2.0.0-M6		e1197615474aee071ceb26c0d4ee565961b5d7ba
 com.dwolla	testutils-scalatest-fs2_2.12	2.0.0-M7		ba8bd0613f0764d66400e2cc4f070dccabb4b308
+com.earldouglas	xsbt-web-plugin_2.9.2_0.12	0.2.12		caf813b94502a70a0c3e68202b2261d2c497963a
+com.earldouglas	xsbt-web-plugin_2.9.2_0.12	0.2.13		bc8886ebe7657415bb0cd7d92bcec874318a1e47
+com.earldouglas	xsbt-web-plugin_2.9.2_0.12	0.3.0		5cad9c115b26676197121e6b5e2417b8fc3fbdd3
+com.earldouglas	xsbt-web-plugin_2.9.2_0.12	0.4.0		5f74032070a0c69acd9c55d645dcfe773177d12d
+com.earldouglas	xsbt-web-plugin_2.9.2_0.12	0.4.1		c61f4553326ca923797e43cb4d44a1f1bf77dcf9
+com.earldouglas	xsbt-web-plugin_2.9.2_0.12	0.4.2		29af9158c4da0b4834390db3ff27879b61340ba7
+com.earldouglas	xsbt-web-plugin_2.9.2_0.12	0.5.0		20d51d57f1a6249d9569375715241a6c875164cd
 com.fpliu.ndk.pkg.prefab.android.21	libpng	1.6.37		N/A
 com.github.ajalt	clikt-linuxx64	2.5.0		N/A
 com.github.ajalt	clikt-linuxx64	2.5.0-beta1		N/A
@@ -644,6 +651,7 @@ io.fabric8.kubernetes	kubernetes-karaf-itests	7.0.0		9cdfdbd067f82fc67e2b4b9b1e3
 io.fabric8.kubernetes	kubernetes-karaf-itests	7.0.1		17e1bf3c146536cd08e62967d24768e8d3fc47e4
 io.fabric8.kubernetes	kubernetes-karaf-itests	7.1.0		ef8ebebd1ad595a4e1859f9a84b4acec0b288bcf
 io.fabric8.kubernetes	kubernetes-karaf-itests	7.2.0		9b224fd4e6b23c25ef291d300e5593374a5734f6
+io.fabric8.kubernetes	kubernetes-karaf-itests	7.3.0		437d875c306ed4a51e9d2702053f87a629958979
 io.github.Junkmer	JRouter	0.0.1		N/A
 io.github.Junkmer	JRouter	0.0.1-snapshot		N/A
 io.github.etspaceman	kinesis4cats-aws-v2-localstack_2.12	0.0.1		98e531fdb3cd86b00eaaaf8c564133cf6843852a
@@ -756,6 +764,7 @@ io.ktor	ktor-server-method-override-androidnativex64	3.0.3		236087ee15f55d590c39
 io.ktor	ktor-server-method-override-androidnativex64	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-server-method-override-androidnativex64	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-server-method-override-androidnativex64	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-server-method-override-androidnativex64	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.ktor	ktor-server-servlet-kotlinMultiplatform	1.1.2		N/A
 io.ktor	ktor-server-servlet-kotlinMultiplatform	1.1.3		N/A
 io.ktor	ktor-server-servlet-kotlinMultiplatform	1.1.4		N/A
@@ -1166,6 +1175,7 @@ org.apache.camel.quarkus	camel-quarkus-flink	3.2.1		abe4f0653830cdb1df816a2b2bcf
 org.apache.camel.quarkus	camel-quarkus-flink	3.2.2		08e24d1650fc6149fb846b04ff72346dd80e3fa9
 org.apache.camel.quarkus	camel-quarkus-flink	3.2.3		53b217fb04958a292cded77976a5f545a8e28b1b
 org.apache.camel.quarkus	camel-quarkus-flink	3.20.0		e2c0aee355df69f1f36e4da27d140c2445dc3b80
+org.apache.camel.quarkus	camel-quarkus-flink	3.20.1		e418e26a986e2d299829e8c2cdea4ce97121704b
 org.apache.camel.quarkus	camel-quarkus-flink	3.22.0		888246bd6257c988c9bb66ee6d18bf2a0930235f
 org.apache.camel.quarkus	camel-quarkus-flink	3.4.0		21fcffbd87604e5df7854e10584d5ba8c07fbd1e
 org.apache.camel.quarkus	camel-quarkus-flink	3.5.0		8148e6cbda49675f2015359c8ae54eccb012184e
@@ -1294,6 +1304,7 @@ org.apache.camel.springboot	camel-avro-starter	4.8.3		62497b20be9b32ac06f2daf17e
 org.apache.camel.springboot	camel-avro-starter	4.8.4		7681e0a70591bbee4c0d12a2fa7088aa3d451b5d
 org.apache.camel.springboot	camel-avro-starter	4.8.5		4fb1beafed1e1278072fc70fb19b655142ba6efe
 org.apache.camel.springboot	camel-avro-starter	4.8.6		55a3d8a5778751a3cd566a92b623f3ca77e823c1
+org.apache.camel.springboot	camel-avro-starter	4.8.7		707662c7c98e81f2a543879a4f3a2c45e88766eb
 org.apache.camel.springboot	camel-avro-starter	4.9.0		be69f907f8c01184fe0148748ad62e600fbc1356
 org.codehaus.griffon.plugins	griffon-glazedlists-javafx	1.4.0		4d80849288da91e42001c6ddd6d8ab6fb7cadd89
 org.commonjava.maven.galley	galley-core	0.1.0		00eed6ff6e67bffb95b3b63998fcfbf28cebbe5c
@@ -1584,6 +1595,9 @@ org.http4k.pro	http4k-mcp-client	6.6.0.0		7737ec6fcef80256c9ae36c4f482188a2fe342
 org.http4k.pro	http4k-mcp-client	6.6.0.1		b45b405784e7347a9737acedd63ca2b80f85788f
 org.http4k.pro	http4k-mcp-client	6.6.1.0		6d8dde62934102a9f398adb4f3ae9b3f41f57f70
 org.http4k.pro	http4k-mcp-client	6.7.0.0		31414e64b77694b8615ed72a3f35e982796f5459
+org.http4k.pro	http4k-mcp-client	6.8.0.0		f8c1ce0e542f8bc5d47e942eb8fb8c07ff1b9af5
+org.http4k.pro	http4k-mcp-client	6.8.1.0		4fc7989afdf228d30068719b28e2c3b110900b68
+org.http4k.pro	http4k-mcp-client	6.9.0.0		3deeb202eff98fd2272780511d4ea3fe4e71a4dd
 org.http4s	http4s-load-test_2.10	0.7.0		8e9e809568e97a9d3f950efb89da4f5fecd1449c
 org.http4s	http4s-load-test_2.10	0.8.0		5a9b218efb522b7c4387970f9e65ed05dcc813a3
 org.http4s	http4s-load-test_2.10	0.8.1		b204d5a8ea42171e600d33d11fc3d8481c73a4b0

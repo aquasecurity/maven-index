@@ -241,6 +241,7 @@ com.google.appengine	appengine-apis	2.0.32		3f373f6236197d73a1e5859fa547eb977863
 com.google.appengine	appengine-apis	2.0.33		1eb3253ff5b9c61dbe88b3db652649361c950b6b
 com.google.appengine	appengine-apis	2.0.34		9508b0b95432ec7f96901ac3decb3a896a944ab6
 com.google.appengine	appengine-apis	2.0.35		1cb0f9f8379c6f058732347033c2b5733ed290f7
+com.google.appengine	appengine-apis	2.0.36		b6eefa52efd74c5875833a10b74e03bb69403b53
 com.google.appengine	appengine-apis	2.0.7		fa321a34959bb9b34fbdd4357335d0d20863ebd4
 com.google.appengine	appengine-apis	2.0.8		c36c45dec9588e1c9d0d818daf16b14c2d284fb2
 com.hypercubetools	timeslip	0.1.0		b9bf7d6f91f504757b983134b49a7c2055ad3cbc
@@ -262,6 +263,7 @@ com.typesafe.slick	slick_3	3.5.0-RC1		f172fa91b2cf2a0da310d5a95300f8c5adf1dd5a
 com.typesafe.slick	slick_3	3.5.1		9bec55cb3290ec790162e99218e4f2a41558848f
 com.typesafe.slick	slick_3	3.5.2		76bc8c005e1063dd3a08a6861c72af161ad01bde
 com.typesafe.slick	slick_3	3.6.0		2758964ec967ce28c61d1edc7cddf432319b25a7
+com.typesafe.slick	slick_3	3.6.1		a37569fffc4770c6b135d161f1e3d2dc99b9829e
 com.wizzardo.tools	tools-evaluation	0.12		1aab313f7741a38b16434a995a3a2baa533926d1
 com.wizzardo.tools	tools-evaluation	0.13		446750ceb51b1c38abc2364982b8ffd8985f3f3a
 com.wizzardo.tools	tools-evaluation	0.14		67234d2a789bd1c2cf55a1ec94c24237322b853b
@@ -452,6 +454,8 @@ de.gematik.test	tiger-uitests	3.7.4		c1e3d7288a87bb3b88212990b754302eea648d06
 de.gematik.test	tiger-uitests	3.7.5		a57e6116bdbbae8f3e7dce5d6b0fd36961b7c9b5
 de.gematik.test	tiger-uitests	3.7.6		a16a822d5867aa9c5581387b2d4f188d2a69a600
 de.gematik.test	tiger-uitests	3.7.7		49096cb2d361c69478e774a6643b48c8aced28f5
+de.gematik.test	tiger-uitests	3.7.8		4c612ab3b3c78a3032079f44e6ebc1b899c7654c
+de.gematik.test	tiger-uitests	3.7.9		0f3f1e34bb58108728de6594f3e044fa106b772d
 de.jensklingenberg.ktorfit	ktorfit-converters-call-ktor-3.0.0-mingwx64	2.1.0		N/A
 de.jvstvshd.vyreka	vyreka-paths-macosarm64	1.0.0		N/A
 de.jvstvshd.vyreka	vyreka-paths-macosarm64	1.0.0	metadata	a6c7a0375cc88236ebfcf5fff5532dd1b1ae06c8
@@ -679,6 +683,8 @@ io.ktor	ktor-resources-iossimulatorarm64	3.1.1		0b5e406f01a0f29ddf85a6ecaf29765b
 io.ktor	ktor-resources-iossimulatorarm64	3.1.1	metadata	45c497b5a5fed97bbff171054ec4af95237390e8
 io.ktor	ktor-resources-iossimulatorarm64	3.1.2		a4fd982cd1e084a4c1e088594e46b2b04873e092
 io.ktor	ktor-resources-iossimulatorarm64	3.1.2	metadata	cef8b82624a0b4a0809dc6201a26a62695b95079
+io.ktor	ktor-resources-iossimulatorarm64	3.1.3		008f8338814c0718494adfb794463f34caf9427b
+io.ktor	ktor-resources-iossimulatorarm64	3.1.3	metadata	801d3265c657073f306eb2637f1465bea2410a54
 io.ktor	ktor-serialization-kotlinx-xml-wasm-js	3.0.0		N/A
 io.ktor	ktor-serialization-kotlinx-xml-wasm-js	3.0.0-rc-1		N/A
 io.ktor	ktor-serialization-kotlinx-xml-wasm-js	3.0.0-rc-2		N/A
@@ -1065,6 +1071,15 @@ me.ahoo.wow	wow-tck	5.12.1		b5330d788092a41422a483e34fed5cd82739008e
 me.ahoo.wow	wow-tck	5.12.2		7f26a16db7e1fceddd88e863d93bf2195ac46dd0
 me.ahoo.wow	wow-tck	5.12.3		dae36118cbbafd054932a6ac045fab12d8c82e38
 me.ahoo.wow	wow-tck	5.12.5		df6a415f24848d82e816add7f4e9c2c48719187f
+me.ahoo.wow	wow-tck	5.12.6		a2212f3deaa170bec07dee8cd6d3e02552fbd8c5
+me.ahoo.wow	wow-tck	5.12.8		06a4152e6a557b750fb62b05ff5b2c97e56782e4
+me.ahoo.wow	wow-tck	5.12.9		396e8ee42ae05fe886254ad3a228a27811144834
+me.ahoo.wow	wow-tck	5.13.0		65c15867f68388bf28714dbb9307629a8786af63
+me.ahoo.wow	wow-tck	5.13.1		5402474d1224db991574aa79c5a325cb34ec56ff
+me.ahoo.wow	wow-tck	5.13.2		d99dd5fadfa36ee13b43f69fca8c40fed66f0d79
+me.ahoo.wow	wow-tck	5.13.3		e7e408875f8ecdb95932b446fd3a422c10153951
+me.ahoo.wow	wow-tck	5.13.5		4dbe60c5ccb7c16e64e181b4eaf83187a5fe9aef
+me.ahoo.wow	wow-tck	5.13.6		7ee65a841f6a05b20a231313c230f37fb12c1c5b
 me.ahoo.wow	wow-tck	5.2.0		3d6f1a3fdbdb952f3e58a7bb943948e312c6b444
 me.ahoo.wow	wow-tck	5.2.1		2d2e289581a3c0fc95460dd4f9ba0784af4e2ce5
 me.ahoo.wow	wow-tck	5.2.2		870fe6aa2e51adb455afd37ab3f23c630428a14b
@@ -1142,6 +1157,7 @@ network.oxalis.vefa	peppol-common	3.7.0		348e76f83a236f3c4f3ef09a16725bced9a61b6
 network.oxalis.vefa	peppol-common	3.7.1		44feddf462c352c74b8b24a4a321d0a4e05b548a
 network.oxalis.vefa	peppol-common	3.7.2		0d04ad7f8fb15729bd03100231ca5b4f255ba1e4
 network.oxalis.vefa	peppol-common	3.8.0		e6bcbb9feebca25bc6fe944d49e4328df43a483d
+network.oxalis.vefa	peppol-common	4.0.0		c6ba8db3c506577b5e10e8f07bce583780629296
 network.oxalis.vefa	peppol-common	4.0.0-RC1		958ea2b8d23e42706699c57fdbc0fe11ff12d862
 org.apache.camel.kafkaconnector	camel-salesforce-kafka-connector	0.1.0		22372d72304346fd4e335aa028515615fe9c6447
 org.apache.camel.kafkaconnector	camel-salesforce-kafka-connector	0.10.0		31cd99391477acf29b283412369593ef57eb6345
@@ -1770,6 +1786,7 @@ org.apereo.cas	cas-server-support-jpa-service-registry	7.2.0-RC6		4f882535a22e29
 org.apereo.cas	cas-server-support-jpa-service-registry	7.2.0-RC6	resources	7e51c149aac7c6a1e93a6ff3650de5b060934911
 org.apereo.cas	cas-server-support-jpa-service-registry	7.2.1		0f18d6cdbfc18bb43ebd9dd7f57b6491d3f0a638
 org.apereo.cas	cas-server-support-jpa-service-registry	7.2.1	resources	e744dd78f8984ac26c834327447d49a2b8f74204
+org.apereo.cas	cas-server-support-jpa-service-registry	7.2.2		7bb0e1beffdf895735330f76b4028c493787176c
 org.apereo.cas	cas-server-support-jpa-service-registry	7.3.0-RC1		106893bf5def7c691294a2c4620d9b56710d45d5
 org.apereo.cas	cas-server-support-jpa-service-registry	7.3.0-RC1	resources	acc934f3e3406d8239a5e13686219345894c013c
 org.apereo.cas	cas-server-support-jpa-service-registry	v6.4.0-RC5		8f38b681396ea981053aa559e2742f4a1cf12615
@@ -2011,6 +2028,7 @@ org.webjars.bowergithub.madbook	jquery.wait	1.1.0		f2b8a0bcc2d4ed2db4adadef1813f
 org.webjars.bowergithub.sentsin	laydate	5.0.85		6fa2edcf2ea4db72a82f325609c5aeb377ccd5ad
 org.webjars.bowergithub.sentsin	laydate	5.0.9		66f906b759c5f5d0698bd02ea83d9712952284d4
 org.webjars.bowergithub.x-tag	core	1.5.11		110958b4a1fc2eafdd6eb4db2d498884ea21eb64
+org.webjars.npm	opentelemetry__instrumentation	0.57.2		c70f50d3d951f65301b68b93cd6f4410917d52b2
 org.wildfly.camel	example-camel-rest-swagger	4.7.0		N/A
 se.uhr.simone	simone.common	4.0.0		58c76839dd3922dbc33f0631fe2070dd63a3d0c2
 se.uhr.simone	simone.common	4.0.2-rc.1		6936efdc39242aae38fdc1b1c441340fa04e7dae
@@ -2049,6 +2067,10 @@ tz.co.asoft	keep-api-tvosarm64	3.0.8		N/A
 tz.co.asoft	keep-api-tvosarm64	3.0.8	metadata	daaea3cd7b7997ed6aff8901a809666d2a855fe4
 tz.co.asoft	keep-api-tvosarm64	3.0.9		N/A
 tz.co.asoft	keep-api-tvosarm64	3.0.9	metadata	370bdc77eec48434a8c2d4a6c70489bd0b8b7188
+tz.co.asoft	keep-api-tvosarm64	3.1.0	metadata	a02dd8109477244ffed3d4cb59fb7827a0aacac9
+tz.co.asoft	keep-api-tvosarm64	3.1.1	metadata	bebe67ed0116c9879dba248581e65429a40a512b
+tz.co.asoft	keep-api-tvosarm64	3.1.11	metadata	1757edfb7bf5cf0409a6efe817ffdf3c3e8aa0b6
+tz.co.asoft	keep-api-tvosarm64	3.1.12	metadata	d2065370932229edb94675c2cb4f400f0ac6102c
 xyz.kotlinw	kotlinw-graph-js	0.0.4		N/A
 xyz.kotlinw	kotlinw-graph-js	0.0.6		N/A
 xyz.kotlinw	kotlinw-graph-js	0.0.7		N/A

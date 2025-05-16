@@ -630,6 +630,7 @@ io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.13.2-alpha		d12a
 io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.13.3-alpha		d35e661364264ce0a6540fd1042987d5ca393343
 io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.14.0-alpha		9cd92a65ac68744fda7473e7771bf63a8f013c32
 io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.15.0-alpha		d3908a901847cd0e10ccc90cb5b7ee8afbd220d1
+io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.16.0-alpha		6b31d13fc4e73e4a5a307ba6c6eb8621d2522e3d
 io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.2.0-alpha		c5f3ca5acc1f471462b9782984036558c609ed3c
 io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.3.0-alpha		428fb5f5b5a1dbcd15ea9b60f0e9e2a856bd4a82
 io.opentelemetry.instrumentation	opentelemetry-lettuce-common	2.4.0-alpha		e20fc166d0545a8d4c0e108957f48deba777d155
@@ -796,6 +797,7 @@ org.apache.camel.quarkus	camel-quarkus-quartz	3.2.1		7c8e2402e891fff748d97e8cc2f
 org.apache.camel.quarkus	camel-quarkus-quartz	3.2.2		98b633a09ec8c1542305a675cae30d0f437975d4
 org.apache.camel.quarkus	camel-quarkus-quartz	3.2.3		cf07562cc47176e1b8d5545ea0b2b6e0e4e7f170
 org.apache.camel.quarkus	camel-quarkus-quartz	3.20.0		abfd069a2dde970d26f7ffd1de32e7f3a803713e
+org.apache.camel.quarkus	camel-quarkus-quartz	3.20.1		af7de0a4c111402187d87cee599f2420fff2e66a
 org.apache.camel.quarkus	camel-quarkus-quartz	3.22.0		8f1a54ecb3e793453c09fef1991335d059c08be5
 org.apache.camel.quarkus	camel-quarkus-quartz	3.4.0		fe234b9e22dfcb009bc5412281f1d55161a5ac5d
 org.apache.camel.quarkus	camel-quarkus-quartz	3.5.0		3bad29698c12922c07401ccf63235babc822a27f
@@ -1059,6 +1061,7 @@ org.finos.legend.depot	legend-depot-store-mongo	2.6.1		26311cc27d77a9adec5c94e87
 org.finos.legend.depot	legend-depot-store-mongo	2.6.2		228402b98dcc976d2339ee9052b6b54112b13154
 org.finos.legend.depot	legend-depot-store-mongo	2.60.0		f72c69cbf55b3ce1fcb73c8df2f8be216a697522
 org.finos.legend.depot	legend-depot-store-mongo	2.61.0		afb8c7db86d4b45dd50515e3144236be60104520
+org.finos.legend.depot	legend-depot-store-mongo	2.62.0		3fab307530eff337ff4d83fba673622815bd4eeb
 org.finos.legend.depot	legend-depot-store-mongo	2.7.0		99c08b3f420d76b728ae55feb9192502d4478aaf
 org.finos.legend.depot	legend-depot-store-mongo	2.8.0		ffdf4ef287a2a68fa615083eca24fefead494c20
 org.finos.legend.depot	legend-depot-store-mongo	2.9.0		d41ba9a55218f6c28fbfa7d0fde4ca5905e43d3b
@@ -1116,10 +1119,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-p
 org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.80.0		93f20efdc8f5d9e72b4de95875d29ee3e9645c8a
 org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.81.0		2d882f88379fdffa961b9674d22ae348dd44da9f
 org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.82.0		591ab3e51246d4bd62aaf793f3353d375ef53a0a
+org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.82.1		6fe8a2b9adc3be7751c43256db1ad0348bf0ace0
 org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.83.0		5d28fee6f1e3a718ebafb1bf9f2af031f030907c
 org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.83.1		6d69cddce1b0ffb605ff06e1f24df1e9af0eb8b3
 org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.83.2		1d0d78efc402a57527e3a6d48e16e49c6fe88c80
 org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.83.3		a7c3dfa5fdc66c50baf0dea598383ea00fb2cc3a
+org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.84.0		900b6f791a1ccd45fbb7460451ad44a5af3c8f68
+org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.84.1		cb48c3dd7459fb6c817816a9361c2818585e8511
+org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.85.0		33f45e0ac849c83188d73d9d3c7365974f1f56dc
+org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.85.1		585ef0346c55161ff7ef9eb75016d78d6414c599
+org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.85.2		cf9bff0c84afd9b5c371d3887dd849a9900590cc
+org.finos.legend.engine	legend-engine-xt-relationalStore-sqlDialectTranslation-pure	4.85.3		4c1c0e70b27d97f8c0c43d7664d3ee062dde8a92
 org.http4s	http4s-client-metrics_2.11	0.19.0-M2		dec936621ea92952e3a2c41f5d93f323870cc021
 org.http4s	http4s-client-metrics_2.11	0.19.0-M3		7be78cfeab48b879fd6500952eceb7472849225a
 org.infrastructurebuilder.maven	ibversions-maven-component	0.16.0		33e8f610322d4089d60f4a6bf1fcb8502fe9df21

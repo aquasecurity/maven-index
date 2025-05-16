@@ -274,6 +274,8 @@ com.force.api	force-wsc	64.0.1		24bd801648c55bfa19b2032dfcdb2ca5fea8b109
 com.force.api	force-wsc	64.0.1	uber	55af9b1ecc54b7ec7f3031048d6d3bab06779183
 com.force.api	force-wsc	64.0.2		df419b9b06bdb1e19229fc94cea60a9d9a576c4b
 com.force.api	force-wsc	64.0.2	uber	67f0723472bceb3b30d87dd0e23c6749a4c7e232
+com.force.api	force-wsc	64.0.3		fbc0a54a2eec426fde2bb9ca3dac6fac339e0ecf
+com.force.api	force-wsc	64.0.3	uber	3349764804fc8530a2eb69d3a556ef0c14f0dd95
 com.fresco-kitchenos	kitchenos-client-sdk-kos-network-http	0.0.3		a9d25e989841e86151a13c23ff90b65d5e2ddace
 com.fresco-kitchenos	kitchenos-client-sdk-kos-network-http	1.26.0		a9d25e989841e86151a13c23ff90b65d5e2ddace
 com.fresco-kitchenos	kitchenos-client-sdk-kos-network-http	1.26.1		a9d25e989841e86151a13c23ff90b65d5e2ddace
@@ -1130,6 +1132,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-jo
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-join-2.8	2.13.3-alpha		60cb06bff2fba1337d8aa32c7b8f8d2f170d3216
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-join-2.8	2.14.0-alpha		d99e47cef44447afe0e330c6c4439c53e0d4d903
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-join-2.8	2.15.0-alpha		e9b71ab77786327546e003ce1b8a847e126ae095
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-join-2.8	2.16.0-alpha		1b2cdeac5b4bc894a5387852da17f214bd1a1fb3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-join-2.8	2.2.0-alpha		c41ba004ec0393a0dda9514f4abda7a34ffee16e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-join-2.8	2.3.0-alpha		931cf50b1962f52e5f40969fdde1500712142f65
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-scala-fork-join-2.8	2.4.0-alpha		01664044542057220dbb585ce3a837856cc9db0c
@@ -1309,6 +1312,7 @@ org.anyline	anyline-data-jdbc-xugu	8.7.2-20250312		32065c41fd00a02885787faa92037
 org.anyline	anyline-data-jdbc-xugu	8.7.2-20250401		0153047593188a329cd6dc1aeefc4e8a1205aaf7
 org.anyline	anyline-data-jdbc-xugu	8.7.2-20250404		74d02b505589da70813175c2c1ffa8d754bb2cb1
 org.anyline	anyline-data-jdbc-xugu	8.7.2-20250502		4f495c64ab1dc25ffad7efd9b07c74250d403934
+org.anyline	anyline-data-jdbc-xugu	8.7.2-20250509		1eef0a6e7abf0a22fceccacdb2891c262f94363c
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20240816		355a427c123d901ff64586617c5ca05320bab51b
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20240819		adf5f00b444507c590eccbe339943712cd9ea628
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20240826		6dafea8c46847a9012d223a1d842f196e37e400f
@@ -1326,6 +1330,9 @@ org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20250108		1ca6f97d2dd893be2ada43d
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20250212		6eb0f8793d9767f7746c1959f34f45f33c88404f
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20250312		86edf2684d23270cb39ad5ac2cb648a12fed209a
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20250404		07a324d858b47e5c99de1b259b5af2209250046f
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20250502		8b7a293c3bed5a274b7275a69ae7798358793aaf
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20250509		46413210ad5418626a9c148ecb3c07d89d3641cf
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk11-20250515		200190b8c4b3cb9f952e8e6dfdde50ff8889957a
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20240501		0b732bcce2d4e63d4b18bdabdc1bcb732e09466a
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20240505		c45d0ebbc7cd797369255b1e8450c4c52f685d25
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20240506		3b4cdb3f8186a17118e42aeb8613fa7085b5d95d
@@ -1399,6 +1406,9 @@ org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20250109		f41c00053580846b1ef168f
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20250212		5bdf551cfe6308bfe6c5b4c0ea53d447280d5365
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20250312		c4aa768d2fbaf402631ea73e61a1f2ddac454119
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20250404		092fd2ffecb5b1a0faf6aa9e255ea743913df378
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20250502		8ceab17ee127d654eefdc9d0197344878a25add3
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20250509		f93844202f23366869a9b8a9c69acffc0a114ab9
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk17-20250515		fbd1ca9183051476a589d12a573a8fe61fc9f90a
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20240501		50e1bec02503351cca74f1bb4df8eca6e232d777
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20240505		05a24b79980dcc232c284121c6872e5f4cf98ac9
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20240506		ace3ad7cb92cdc0ec4f8cb72257e2042343d71cd
@@ -1480,6 +1490,8 @@ org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20250109		671dbfecea79dd95f658131
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20250212		0047f6c1df307acb9ce5e22c49078cf11b9ad924
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20250312		16c254ca5ddf76769075efe1f9ff41bbefdb49fa
 org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20250404		7880a7c50872baa942ca4d769a46a1ad541cdcee
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20250502		2f25f8f774b3b692126804573df4ba51ccc0fd4c
+org.anyline	anyline-data-jdbc-xugu	8.7.2-jdk21-20250509		3405dc398c6529d20c2cd99471be653455c430cd
 org.apache.karaf.eik.plugins	org.apache.commons.collections	3.2.1		ed736b8c1addc718f404120d23c227a900ee0ba2
 org.apache.seatunnel	seatunnel-e2e-common	2.3.0		0503d96b6791e6c55bf2d7a83fac48977b5f67c3
 org.apache.seatunnel	seatunnel-e2e-common	2.3.1		54407917124022a493ae40c91684a1bc15ef8f51
@@ -2107,7 +2119,18 @@ software.amazon.awssdk	b2bi	2.31.30		ab897e52f87447c0871f40324dd4192602491d3d
 software.amazon.awssdk	b2bi	2.31.31		81219cce7affe5ecd49cd6bc8621f0e7f2f42ec1
 software.amazon.awssdk	b2bi	2.31.32		eca867a2970154764c1bfb064697fcb19b3e2f85
 software.amazon.awssdk	b2bi	2.31.33		1212b84e9c7ea5576804c9e52b9253a5ca0c844e
+software.amazon.awssdk	b2bi	2.31.34		26f2f49d18f0086674dc7140474190a67138c9a6
+software.amazon.awssdk	b2bi	2.31.35		55a06ef58c718b832985f76a7fe2d4805017e308
+software.amazon.awssdk	b2bi	2.31.36		14b57bccb45152b8692d080518172a4d8ca23c5a
+software.amazon.awssdk	b2bi	2.31.37		61c1cdf049a79cb9f66fc5bc6ffd5d9dd95ad535
+software.amazon.awssdk	b2bi	2.31.38		617c302ee6b20300e1c48b16aa76d97b7ed056a3
+software.amazon.awssdk	b2bi	2.31.39		6142a76d24c0ce14a79042622d95ac897e78e14e
 software.amazon.awssdk	b2bi	2.31.4		862fb1840a9ee0b60f038142219892685f1ee681
+software.amazon.awssdk	b2bi	2.31.40		5166f9546834c07dd27cf39772b3aabe0208d4de
+software.amazon.awssdk	b2bi	2.31.41		c4c92536051bf63913a40b83d475ee404c1d51b1
+software.amazon.awssdk	b2bi	2.31.42		ef3dccb2effaf1c6ae4ec8eae1c954a819248442
+software.amazon.awssdk	b2bi	2.31.43		a82af04c1567d2e1ffd7f3f22210a8bcd1273615
+software.amazon.awssdk	b2bi	2.31.44		a0f1f83ad8a456b8bc8abacce43fbaf91296b366
 software.amazon.awssdk	b2bi	2.31.5		09a02709d18104a2243eea02e8e9b400f7e16c67
 software.amazon.awssdk	b2bi	2.31.6		2544b6b6923f45e7133636520428644ba3e95081
 software.amazon.awssdk	b2bi	2.31.7		cf8f2cef01cff73f310efeffa1ef4f48c03650f1

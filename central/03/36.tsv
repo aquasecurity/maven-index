@@ -755,6 +755,8 @@ com.vaadin	vaadin-list-box-testbench	23.5.12		c641f9c2b39f1c4ac92ea7507ab51a2d19
 com.vaadin	vaadin-list-box-testbench	23.5.13		539814b02107b17d0db0516c2b4a855d2e1b4dc7
 com.vaadin	vaadin-list-box-testbench	23.5.14		6526cc76787cb135350f6830242dc2091d573abc
 com.vaadin	vaadin-list-box-testbench	23.5.15		4b08ba40d22c8af77d0df06a6af914636bfebb32
+com.vaadin	vaadin-list-box-testbench	23.5.16		c3d426f8718c6fb59824d8907782971fbecf70f9
+com.vaadin	vaadin-list-box-testbench	23.5.17		2f9c346d37ae3de2226a0ba6c1b51a87de05806e
 com.vaadin	vaadin-list-box-testbench	23.5.2		0825e82a1774183f9d74f4ecc1e3be9b9a2410c3
 com.vaadin	vaadin-list-box-testbench	23.5.3		44f67ff4d3c5702f8164ab851dcb6e6ca14c93cc
 com.vaadin	vaadin-list-box-testbench	23.5.4		fed5bc6168d69b10d95cb8540509280d0a9a4f2b
@@ -869,6 +871,7 @@ com.vaadin	vaadin-list-box-testbench	24.5.8		7d1cf1336cb32a74e26827309187d782110
 com.vaadin	vaadin-list-box-testbench	24.5.9		7e468b216fc3967180cddb2b6128c609df5fbbc8
 com.vaadin	vaadin-list-box-testbench	24.6.0		c1d2e57d5c7e60b2802b116822d83466a2107139
 com.vaadin	vaadin-list-box-testbench	24.6.1		8cfc3eb32e1b51d0f05973b0c1c9eb76fa93f8ef
+com.vaadin	vaadin-list-box-testbench	24.6.10		5c1135886f86c586936a960b0ef6787648523322
 com.vaadin	vaadin-list-box-testbench	24.6.2		90464a6933b71a0d1689a7927f97160f8a7de572
 com.vaadin	vaadin-list-box-testbench	24.6.3		4b6cd74b4b198951bf647c448a715d1f4424d65a
 com.vaadin	vaadin-list-box-testbench	24.6.4		91d024fe987e4ebdd888af9a1ca80aa666ec10a6
@@ -881,6 +884,7 @@ com.vaadin	vaadin-list-box-testbench	24.7.0		0616cad708bf41d9b544671eabab7aef0a8
 com.vaadin	vaadin-list-box-testbench	24.7.1		615cdc2d7a6dc753cfa8c72cc648e0de17c9a61d
 com.vaadin	vaadin-list-box-testbench	24.7.2		5e21a02b9ea3c42974adf0dc9578845aa7a5f0fe
 com.vaadin	vaadin-list-box-testbench	24.7.3		46d3698e30cf0df9e1e0efc43b650c3216431be7
+com.vaadin	vaadin-list-box-testbench	24.7.4		7c9256d32e3f66afa2278a5a75b26a57e47ad40c
 com.vaadin	vaadin-list-box-testbench	3.0.0		8ea9cd65871e0e262ec5e5b48a40b8288123694a
 com.vaadin	vaadin-list-box-testbench	3.1.0		69fe6e6e92e541ddbc9be5b1d7944d14c33d8e0b
 com.vaadin	vaadin-list-box-testbench	4.0.0		14cba2f31bb28c2db6cb6c2d8e2de699ea03c415
@@ -1258,7 +1262,14 @@ com.yahoo.vespa	vespa-enforcer-extensions	8.511.14		99c24e358b8a772b65e914c1ca38
 com.yahoo.vespa	vespa-enforcer-extensions	8.512.63		f1bd4e609ef94f6010281e5bccc00a567e20b924
 com.yahoo.vespa	vespa-enforcer-extensions	8.513.17		33c686e1207d1aee1cc9f325313033a17992e098
 com.yahoo.vespa	vespa-enforcer-extensions	8.514.24		8c4fa3b2ccacfc3b34638efee9953fb03d0c3148
+com.yahoo.vespa	vespa-enforcer-extensions	8.515.40		c4cc40d53adc526bde29dfc84b953f41a3d3508b
+com.yahoo.vespa	vespa-enforcer-extensions	8.516.26		21e0aea30896724e486e76b926b0c99b15de2396
+com.yahoo.vespa	vespa-enforcer-extensions	8.517.15		f00b6baf6fd250f8d437b7cb5cc68e0d9b6b6db2
+com.yahoo.vespa	vespa-enforcer-extensions	8.518.4		72996e74903d82cf30276acd13fbeab9fa670e83
+com.yahoo.vespa	vespa-enforcer-extensions	8.519.55		40e2fb2cba554abbb24fabcdad8c77fe872c3e92
 com.yahoo.vespa	vespa-enforcer-extensions	8.52.15		3749d2694149a16d1a997dd5c911431d22c0b378
+com.yahoo.vespa	vespa-enforcer-extensions	8.520.18		d09857b257bf956e6f7f0a63adafcde0fd1e19eb
+com.yahoo.vespa	vespa-enforcer-extensions	8.521.17		5e5d35ee97a20309d53825a51ed6344065ceb5a3
 com.yahoo.vespa	vespa-enforcer-extensions	8.53.21		41cdab86c582ffecb3f63e541b0974d374762bcb
 com.yahoo.vespa	vespa-enforcer-extensions	8.54.61		880ab80d7ba412593a91b8c89189ff9f8a21a234
 com.yahoo.vespa	vespa-enforcer-extensions	8.56.20		7e100fb89a2ebb846ff3251d4e41df6620e0622e
@@ -1452,6 +1463,7 @@ io.github.dengchen2020	dc-spring-boot-starter-core	0.0.52		f42cf83c385266ea62330
 io.github.dengchen2020	dc-spring-boot-starter-core	0.0.53		8906a45005c8b569826cd6dbcadb11aae336a286
 io.github.dengchen2020	dc-spring-boot-starter-core	0.0.54		a6f68035a086a6ad90d34a066ed9ccc7a47c9888
 io.github.dengchen2020	dc-spring-boot-starter-core	0.0.55		4d0047bd2948553b2e2b5fa28dca243e2acf7b59
+io.github.dengchen2020	dc-spring-boot-starter-core	0.0.56		a96adb8012feb3ccfc7924eda970f9121387f9f9
 io.github.dengchen2020	dc-spring-boot-starter-core	0.0.6		74bfd8045894ebc0f7fc5d25b8eb176bbb92c726
 io.github.dengchen2020	dc-spring-boot-starter-core	0.0.7		1ea546851bd405014cbe751e278d639985d0162d
 io.github.dengchen2020	dc-spring-boot-starter-core	0.0.8		0c84bdb818ab4da2aac0d0cd03058f22ce374c02
@@ -1480,6 +1492,7 @@ io.kotest	kotest-property-arrow-watchosarm32	6.0.0.M2		N/A
 io.kotest	kotest-property-arrow-watchosarm32	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-arrow-watchosarm32	6.0.0.M3		N/A
 io.kotest	kotest-property-arrow-watchosarm32	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-property-arrow-watchosarm32	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.leopard.boot	leopard-boot-convert	0.9.20		b6dc3269d6c08c52e09c90c52c332a3cf8231cb3
 io.rhiot	rhiot-datastream-spark	0.1.3		b6291c068446e7bf65ec70e64d9cc92651c63827
 io.rxmicro	rxmicro-test	0.1		38679400f13bc6ceca46281832623e14587ef160
@@ -1594,6 +1607,7 @@ network.oxalis.vefa	peppol-lookup	3.7.0		51439b6af6acfb35bfc32bd27d7380e1287d619
 network.oxalis.vefa	peppol-lookup	3.7.1		5593999b6b2ff92e8ca1e962b7170e7e81a4752e
 network.oxalis.vefa	peppol-lookup	3.7.2		1d6205086f6a4b926e96506aede65da9dea60ef2
 network.oxalis.vefa	peppol-lookup	3.8.0		7f583f9de57b423ba59c221fc03028a5eb15fd31
+network.oxalis.vefa	peppol-lookup	4.0.0		7ad150e288ab488f29c715ac9b003c7d334500af
 network.oxalis.vefa	peppol-lookup	4.0.0-RC1		cd20a618769e06036c168fd395179f8b5e21f385
 nl.cloudfarming.client	crop-nl	1.0.2		2072bc635fdb59939654b9c75240906d65dbcc7e
 nl.cloudfarming.client	crop-nl	1.0.3		32a4a64cef22cf35a9c108757c45c0a7d4114494

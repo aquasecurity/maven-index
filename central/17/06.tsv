@@ -39,6 +39,7 @@ ch.squaredesk.nova	test-utils	7.0.1		ef5ce0aa63423f8b16b2916050e96a5c50439838
 cn.javaer.jany	jany-minio	0.0.1.rc1		1e0c10a74448d7e412da2b984a632b04a8190311
 co.early.n8	n8-core-watchossimulatorarm64	2.0.0-rc.1		N/A
 co.early.n8	n8-core-watchossimulatorarm64	2.0.0-rc.1	metadata	5494ef0058d28739e72ce71f58834578841f6662
+co.early.n8	n8-core-watchossimulatorarm64	2.0.0-rc.2	metadata	40391bba174ea726d0508b2f37e1c7cdcad6f2e8
 com.alicp.jetcache	jetcache-parent	2.1.3		N/A
 com.alicp.jetcache	jetcache-parent	2.1.4		N/A
 com.alicp.jetcache	jetcache-parent	2.1.5		N/A
@@ -669,6 +670,7 @@ com.tencent.bk.devops.ci.notify	api-notify	3.2.0		ff391f584db80b88134388801f67fa
 com.tencent.bk.devops.ci.notify	api-notify	3.2.0-rc.1		7abab7575349ce7ae39c94cb0de8cdf42b5e4714
 com.tencent.bk.devops.ci.notify	api-notify	3.2.0-rc.2		4d8c7390b26277776ae8e43e75641824d2170b42
 com.tencent.bk.devops.ci.notify	api-notify	3.2.0-rc.4		6178d12c5bf9adc579dd46b3d598ad06b345415e
+com.tencent.bk.devops.ci.notify	api-notify	4.0.0-rc.1		84fbb8d7c3597018566c907551269a91e464382a
 com.viliussutkus89.ndk.thirdparty	fribidi-ndk25-shared	1.0.13-beta-1		N/A
 com.viliussutkus89.ndk.thirdparty	fribidi-ndk25-shared	1.0.13-beta-2		N/A
 com.viliussutkus89.ndk.thirdparty	fribidi-ndk25-shared	1.0.13-beta-3		N/A
@@ -1023,6 +1025,7 @@ dev.zio	zio-aws-shield_3	7.31.27.1		3e9a000a8266f93dc26d0d6909fc6bd4ed9204cf
 dev.zio	zio-aws-shield_3	7.31.28.1		1fd69ac0b4b7186526157e2d55f88bbcaf55d139
 dev.zio	zio-aws-shield_3	7.31.3.1		ea7478192866e2bad387cb2fe3023f531cf0bdb3
 dev.zio	zio-aws-shield_3	7.31.30.1		410d20d9cfe4f99adadd47a005c01d3d054bc178
+dev.zio	zio-aws-shield_3	7.31.30.2		85a3a8fe090d3bfd787a73e99bd6bafd379620c3
 dev.zio	zio-aws-shield_3	7.31.4.1		518937ff63e493b1fcec85637ecc0781757a38ed
 dev.zio	zio-aws-shield_3	7.31.6.1		a577b29311a6c01e8e38d5b61555ac8228b3347b
 dev.zio	zio-aws-shield_3	7.31.6.2		f01ca0e67465de129d83bb6cf70bf6e8e37eabd7
@@ -1416,6 +1419,7 @@ org.apache.pekko	pekko-parsing_3	1.0.0		657145b6f79ccd0b325ec7e71fa81eec45655c7a
 org.apache.pekko	pekko-parsing_3	1.0.1		b59940db24b81916dec3cfa8b5692ea6f6709efa
 org.apache.pekko	pekko-parsing_3	1.1.0		129b8a29073ff5a14a4418abfdeb7bd7885d8f3b
 org.apache.pekko	pekko-parsing_3	1.1.0-M1		35e902c981b509e753b8e6b0e402df15935427dd
+org.apache.pekko	pekko-parsing_3	1.2.0		f4d9d9cb6d70479f7c06a26ad51c03010683593c
 org.apache.provisionr	provisionr-amazon	0.4.0-incubating		711ca2ebe6ca5b37ab3e0ef3173f6daab6e5f7c7
 org.apache.tephra	tephra-distribution	0.8.0-incubating		N/A
 org.bahmni.module	episodes	1.0.0		N/A
@@ -1470,6 +1474,9 @@ org.http4k.pro	http4k-mcp-sdk	6.6.0.0		db0feffc4959a5e2a4ab8e70c62c308631d523a2
 org.http4k.pro	http4k-mcp-sdk	6.6.0.1		887d4dbfe3ef5d037e5eb4f57ed7f48d6bdb51e8
 org.http4k.pro	http4k-mcp-sdk	6.6.1.0		172294a93069216a92da5310f3c1fbfa8a449ce9
 org.http4k.pro	http4k-mcp-sdk	6.7.0.0		612113856271d86bc7a82bd9ee5f684c4c548550
+org.http4k.pro	http4k-mcp-sdk	6.8.0.0		56b9a78dff5a877aafeeba756596a52ccce34edb
+org.http4k.pro	http4k-mcp-sdk	6.8.1.0		0c38160433d170915f94ee3b91d9508d40d0b5b6
+org.http4k.pro	http4k-mcp-sdk	6.9.0.0		e4276949b40868142059690aad50d5a19e340451
 org.http4k.pro	http4k-mcp-sdk	v6.3.0.0		0efba4eb05d16251f5e41afb07299e8e00042013
 org.http4k.pro	http4k-mcp-sdk	v6.4.1.0		b63b9618f964e65ddcacfdbf517695df362fc807
 org.infinispan	infinispan-ec2-demo	5.0.0.FINAL		57ab6a86fec12e03abf86754aabfb6535d1d54ef
@@ -1828,6 +1835,7 @@ org.wildfly.security	wildfly-elytron-sasl-digest	2.1.0.Final		19358f32e091d280b5
 org.wildfly.security	wildfly-elytron-sasl-digest	2.2.0.Final		248ca9cf9e3b09bee45bea0ae2925995e82e837f
 org.wildfly.security	wildfly-elytron-sasl-digest	2.2.1.Final		acf9cc6ed1ae3ac60a1cbdca303d09798ffb2c29
 org.wildfly.security	wildfly-elytron-sasl-digest	2.2.10.Final		40544f8b9f161b58f7318440b2b6f1bf042f06d3
+org.wildfly.security	wildfly-elytron-sasl-digest	2.2.11.Final		ea7e6a2dc93289ff05d00290a84a80d008b04dd6
 org.wildfly.security	wildfly-elytron-sasl-digest	2.2.2.Final		c3681a7b682e2b306f1da65da9620dd453f010f9
 org.wildfly.security	wildfly-elytron-sasl-digest	2.2.3.Final		0b8d46f66fcd7004cb8e96e053a225eae13c485e
 org.wildfly.security	wildfly-elytron-sasl-digest	2.2.4.Final		821f391dfe76c6c5181e6297d8e3a03148e392a2
@@ -1850,6 +1858,7 @@ org.wildfly.security	wildfly-elytron-sasl-digest	2.6.0.Final		a46707268c364a55cc
 org.wildfly.security	wildfly-elytron-sasl-digest	2.6.1.Final		0c3f252484894e055f126faaead8e2b017e8da4d
 org.wildfly.security	wildfly-elytron-sasl-digest	2.6.2.Final		85d9a876383d6737515929394972b96b2540d420
 org.wildfly.security	wildfly-elytron-sasl-digest	2.6.3.Final		7846202c52602675daa843debc9b7c3b0bf42e22
+org.wildfly.security	wildfly-elytron-sasl-digest	2.6.4.Final		9fe4b7ec1140704eefdd6d1e66ace0dfbbcd5c55
 top.hendrixshen.magiclib	magiclib-legacy-compat-1.14.4-fabric	0.8.13-beta		4c574badd601e8c675532be8b32ca36b548a1f11
 top.hendrixshen.magiclib	magiclib-legacy-compat-1.14.4-fabric	0.8.17-beta		913bcb72e36d3c1712ad567d5a39403b22d56ad2
 top.hendrixshen.magiclib	magiclib-legacy-compat-1.14.4-fabric	0.8.18-beta		a1e0ab7405cd5a63f6e7506357b0a65a236f90fd

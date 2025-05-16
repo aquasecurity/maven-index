@@ -136,6 +136,7 @@ com.agorapulse	micronaut-aws-sdk-sts	3.3.8		e8eda918eb9571c070d2d94ef647123ded90
 com.agorapulse	micronaut-aws-sdk-sts	3.3.9		0c2ff274630ad7af20b9db63088c8f44ea21f08c
 com.agorapulse	micronaut-aws-sdk-sts	3.4.0		45e89b0fcd0a5cc72f1beb7fe6cb4f74364b6ab5
 com.agorapulse	micronaut-aws-sdk-sts	3.4.1		417a2ee66fa8fbe6bdd4a756ca33a7426d254375
+com.agorapulse	micronaut-aws-sdk-sts	3.4.2		879d20added0661171576751fa884c97d3db890c
 com.aliyun	trafficfxopen20240815	1.0.0		fc4a3c449d37445a61a128e2474d7d41acb7d1e2
 com.aliyun	trafficfxopen20240815	1.0.0	shaded	1f85cf64c9af23c06484db34a7e4aeeeaf1ef84b
 com.aliyun	trafficfxopen20240815	1.1.0		3185cf49bfb77a4a625ed86d0a11532e7a872b8d
@@ -819,6 +820,8 @@ io.github.vigoo	zio-aws-acm_2.13	4.17.104.2		5cdfdf819d28700d8912e2069f211ea5713
 io.github.vigoo	zio-aws-acm_2.13	4.17.280.4		e398b47883f65e3e7f58538d8d4aaee379c59a62
 io.github.wuyan001	maven_test	1.2.0		N/A
 io.github.wuyan001	maven_test	1.2.1		N/A
+io.github.zamblauskas	sbt-examplestest_2.12_1.0	0.2.3		76cb5a0fc252646dd9d62596aa95a6d9dd1ed47e
+io.github.zamblauskas	sbt-examplestest_2.12_1.0	0.3.0		291b29b28ccbcc6a9ce30fd0134f00fafdcd24ad
 io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	1.1.0		4f13f2ea61b0c885e8d8a10bcab0fb02837d1819
 io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	1.1.1		1e0a619cb3baf3fad5f1931150e64ceac1b87f02
 io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	1.1.2		d56055766e24d65468c5b65ae5fd88367a1d6ec0
@@ -938,6 +941,7 @@ io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	4.1.6		422896c3a1ae2967
 io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	4.1.7		4c607ce38457ef2c1bd70b112fc44c66f8a92842
 io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	4.2.0		e61f6d712fa991489625cd5df53ef5867735dfdd
 io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	4.2.1		186157fddf4704bf444bfd4d1f379b118415aa37
+io.helidon.integrations.cdi	helidon-integrations-cdi-jpa	4.2.2		d5bf424d2c84e05bb093b7058195072cb6d6045b
 io.litterat	litterat-pep	0.5.0		2c2dbb5bbc3bcde501a3df83a550cfd854d58c45
 io.nemesis.platform.module.widget	nemesis-widget-productscompare	2.3.19.RELEASE		6d989600771c09a527fac297dd1ec0535732fd14
 io.nemesis.platform.module.widget	nemesis-widget-productscompare	2.3.20.RELEASE		2879a52da9d6123966ac3983dc2ba9c9e474b7d9
@@ -2041,10 +2045,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-funct
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.80.0		9c1c81aebbea50367c1241ffdf327d93a93661da
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.81.0		74aad975b9f12e52f832d011d4bdf623f0ed2952
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.82.0		c488c3915613ee524fbd64b8598137450b84001f
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.82.1		b038917081881d2a461598c324845c4dcf4ecbe6
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.83.0		4f891290a185b86bf1154ca3720b0b73c869aee9
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.83.1		a0ef47c12982204c250338aa68b6d6d21d7f1acb
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.83.2		b2503d7fdd6ab799b0da72ff1d9704f36cc71b60
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.83.3		e5db0dda9d039db8110a155ffcfa16e51e773b58
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.84.0		f913ba9e3ce0dfe20437b6cbef86fd8a16177570
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.84.1		3843f008ad1c5d6f47be759261acf59b1c5df230
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.85.0		09d0e0e721d6a000852b8ad8b080f0a50d633c2c
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.85.1		2eea0fc26328218f16009f1002d76a953376a6bf
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.85.2		4394234e785d55b9a620a2c0a625b90236352186
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-json	4.85.3		40464f3043d5728c3bd81b6d8cd29b8fd389d6b9
 org.jboss.test	clusterbench-ee10-web	10.0.0.Final		N/A
 org.jboss.test	clusterbench-ee10-web	10.0.0.Final	classes	ffe49c445267dcd0c1158563798cc058c741b212
 org.jboss.test	clusterbench-ee10-web	10.0.1.Final		N/A
@@ -2248,6 +2259,7 @@ org.wildfly	wildfly-clustering-web-service	35.0.0.Final		005a3ec1f938aa8a1047cf4
 org.wildfly	wildfly-clustering-web-service	35.0.1.Final		f01f752277c69d6ce3877ea38d303d5cc49f695b
 org.wildfly	wildfly-clustering-web-service	36.0.0.Beta1		1cc330494e87cf5cd147567fea739c3d9368d8fe
 org.wildfly	wildfly-clustering-web-service	36.0.0.Final		cd19daabf5de6bb0deb3424cef9abe041d91d271
+org.wildfly	wildfly-clustering-web-service	36.0.1.Final		4cd7cceedefc66564c533ef32c05325469d9678a
 org.wso2.carbon	org.wso2.carbon.servletbridge	4.10.11		3a048ee0abd99ca921bd8e2929d3dca2d6def96e
 org.wso2.carbon	org.wso2.carbon.servletbridge	4.10.12		91a8050edf264aa2b17cf0fbe7fc542613a68204
 org.wso2.carbon	org.wso2.carbon.servletbridge	4.10.13		7facbd344806158f2ae74b29567f931a4fa020ce

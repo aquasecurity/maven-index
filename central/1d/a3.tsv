@@ -77,6 +77,7 @@ com.adobe.aem	aem-dox-sdk-api	2024.6.0		eb8d14ec6ccb8bb51a2878ca408ddd85df8cfb81
 com.adobe.aem	aem-dox-sdk-api	2024.6.0.1		e72e12dda8bdada8fbad5bb736844b553cbb5c73
 com.adobe.aem	aem-dox-sdk-api	2024.6.2.1		d01517b2f39196d4391d0467f4ef4af980580406
 com.adobe.aem	aem-dox-sdk-api	2025.2.0		27a5a4d800e814120477a569dbf645b835c9f318
+com.adobe.aem	aem-dox-sdk-api	2025.4.0		241b2282a71c5141326cdf93988a44d890e9641e
 com.bugtags.library	bugtags-core	0.5.0		N/A
 com.bugtags.library	bugtags-core	0.9.0		N/A
 com.bugtags.library	bugtags-core	0.9.1		N/A
@@ -218,6 +219,7 @@ com.github.leeonky	java-compiler-util	0.8.1-alpha.10		26232883269b50a55981a5acec
 com.github.leeonky	java-compiler-util	0.8.1-alpha.11		741ef9cfe36d371d2fb572b1e0a92486c8eea467
 com.github.leeonky	java-compiler-util	0.8.1-alpha.12		6d3938f018eaa39c3837180b1f2a35f91e1237d1
 com.github.leeonky	java-compiler-util	0.8.1-alpha.13		ae356e8579ebcdc470ac9d49d313219c0ca82043
+com.github.leeonky	java-compiler-util	0.8.1-alpha.14		daf15a499c2fcdf4c5d7ed16f05ead60416687f5
 com.github.leeonky	java-compiler-util	0.8.1-alpha.2		c86bbf9b8181fecd6f388236168799fd45c11423
 com.github.leeonky	java-compiler-util	0.8.1-alpha.3		868141df29016bb3655658e71b4558340d6104a9
 com.github.leeonky	java-compiler-util	0.8.1-alpha.4		a02336630435c74ceb0ef15612c4bdd2aa32127d
@@ -327,6 +329,8 @@ com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.59.0		32234fd759086bb948f
 com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.6.0		940f53bab0bb9d82c8df92301ad77f01750685d5
 com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.60.0		3b429173aa4e65ac00a0f46273954a5b25d04b94
 com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.61.0		986fbff1671a296815bad1cc201b501a2a640ac1
+com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.62.0		a03d95233bbf587deb07029c4c785352f20d6f44
+com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.63.0		aab11f08dccd428aa37ddf88b1b9a78df561a700
 com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.7.0		2edea4e0b4256c1f2139ec76b3e9b5f9a7b48b58
 com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.8.0		3aac25ff7ec786cecb4c9090f3c4e012ef85196d
 com.google.api.grpc	grpc-google-cloud-vmmigration-v1	1.9.0		a642a102c86c9b7fbb935d153ef16a2cc0bd4dd5
@@ -696,6 +700,8 @@ com.okta.android	okta-idx-kotlin	3.0.0		N/A
 com.okta.android	okta-idx-kotlin	3.0.1		N/A
 com.okta.android	okta-idx-kotlin	3.0.2		N/A
 com.okta.android	okta-idx-kotlin	3.0.3		N/A
+com.orrsella	sbt-sound_2.9.2_0.12	1.0.1		39819f7446cbd2e51ec706e316cec62a8f635165
+com.orrsella	sbt-sound_2.9.2_0.12	1.0.4		e08f07064223314277170fbec7838879b4618678
 com.propensive	rapture-test_2.10	0.9.0		254c0d1d9f0e9e3a7e5c2fcabece7c66d5c03c8b
 com.propensive	rapture-test_2.10	2.0.0-M1		72be8e7859f86f61684909093c644059dd6faa18
 com.propensive	rapture-test_2.10	2.0.0-M2		2a756c2509439a4f5154c45948afcb06587718aa
@@ -1224,6 +1230,7 @@ dev.zio	zio-aws-cloudcontrol_2.12	7.31.27.1		6fd3f1ca7419a571ee377b95e9c55d5abd8
 dev.zio	zio-aws-cloudcontrol_2.12	7.31.28.1		f745d829ee564dbf1949162c638a728634f7d5db
 dev.zio	zio-aws-cloudcontrol_2.12	7.31.3.1		62795808c4bb12498c0b4475887fb1a5150021d8
 dev.zio	zio-aws-cloudcontrol_2.12	7.31.30.1		92483dddc6488c577b7275f906725edc5568e979
+dev.zio	zio-aws-cloudcontrol_2.12	7.31.30.2		83ff95187c223bf2ba78098a951b531835955c50
 dev.zio	zio-aws-cloudcontrol_2.12	7.31.4.1		3a97d79eae14ce82ebf805b833ab44c9f911d0f1
 dev.zio	zio-aws-cloudcontrol_2.12	7.31.6.1		5e989fcdc7e63e9756bb8c026c37413b06d206dd
 dev.zio	zio-aws-cloudcontrol_2.12	7.31.6.2		81b14aa4e87fb91f7b77c04a85ae61dbda4a0f97
@@ -1273,6 +1280,7 @@ io.helidon.microprofile.metrics	helidon-microprofile-metrics-project	0.10.5		N/A
 io.helidon.microprofile.metrics	helidon-microprofile-metrics-project	0.10.6		N/A
 io.helidon.microprofile.metrics	helidon-microprofile-metrics-project	0.9.0		N/A
 io.helidon.microprofile.metrics	helidon-microprofile-metrics-project	0.9.1		N/A
+io.kestros.cms	kestros-api-archetype	0.1.2		8d5da1ec1fbf8473de2ccc9236e3b04dfd539741
 io.ktor	ktor-client-core-iosX64	1.1.0		efa8e2704e476def2f1c3765bacc5a5ec825a116
 love.forte.simbot.component	simbot-component-kook-stdlib-linuxarm64	4.0.0		N/A
 love.forte.simbot.component	simbot-component-kook-stdlib-linuxarm64	4.0.0-beta1		N/A
@@ -1603,6 +1611,7 @@ org.eclipse.ditto	ditto-internal-utils-health	3.7.0		c2fd58e80e06e9ff678cccd5e02
 org.eclipse.ditto	ditto-internal-utils-health	3.7.1		4dafc4b0cb21247318fad12382855ebfa50ae93c
 org.eclipse.ditto	ditto-internal-utils-health	3.7.2		5839b05208bacae632db44a7ad554c8f7178e937
 org.eclipse.ditto	ditto-internal-utils-health	3.7.3		4dec8c4423ab4cd4f15cbb59d5a30c82d5c897d7
+org.eclipse.ditto	ditto-internal-utils-health	3.7.4		ea810ae996ddabaf5173d5e871ddc8dceae424f9
 org.eclipse.tesla.plugin	tesla-plugin-plugin	0.0.1		f44f96d0bdbce198df29c86fda50bf071fdada9e
 org.eclipse.tesla.plugin	tesla-plugin-plugin	0.0.2		aaf76f64bd23541336564dd9ae767d0c73eb79bc
 org.ff4j	ff4j-spring-boot-autoconfigure-webmvc	2.0.0		65cb2412327b7ec4b52c5cd5d22f713289ba1f8c
@@ -1835,10 +1844,17 @@ org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.8.0		fc01e1d8a0d3c1f2
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.80.0		d3c6a56e2dbc3623376b6a4fc66d790ace2618ca
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.81.0		12c5061a68a71c8c0c948b6fe3c3f8cb67398585
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.82.0		c474bf6eeeda5530032365f88bed36af5f5545cf
+org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.82.1		03c434a02fc82b063fcce0d45026cfb4044ae8a9
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.83.0		cac7f62786fcabf6b26a3c2df343a7ddf7b9e786
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.83.1		6263c3e1c8ebaf8552ef513793b301591deea5c8
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.83.2		6e3525f1dd2f5f6b5f18daafb6afad150739a128
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.83.3		38c4fa5b31f3a6ec96031247644c1f292609bcb0
+org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.84.0		56bdc1adf1d4b939a94768de9817defb724f3172
+org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.84.1		f33aaf37ce25469b8eb8c539e4df04bb8308933d
+org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.85.0		3c2508f13114f46ea8eb05dff8626100cdfbb20c
+org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.85.1		f316523ef56f805e345c78b0b16be2cca478df8b
+org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.85.2		57453a01cf1d8d655e7a52d860f1670db80a5422
+org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.85.3		b2193d86c721e1b977739bcbf2c6d372a01a03d8
 org.finos.legend.engine	legend-engine-xt-haskell-grammar	4.9.0		bdcb574fa89db8ca5dfafa26f575e728f30cb10c
 org.glassfish.fighterfish	osgi-javaee-base	1.0.0		ef2a5af8f4ee2f9cfab175e339fca98b185a981a
 org.glassfish.fighterfish	osgi-javaee-base	1.0.1		7b88ef5b6c07ada0ca5b8b1d72996e4b6f7fdb22

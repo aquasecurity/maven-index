@@ -777,6 +777,9 @@ it.agilelab	wasp-plugin-hbase-spark_2.12	2.34.0-emr212		d96d1902e5d4fa5450a1a1e6
 it.agilelab	wasp-plugin-hbase-spark_2.12	2.35.0		eeff8cb352bc397201da87f70552bce6d53d2083
 it.agilelab	wasp-plugin-hbase-spark_2.12	2.35.0-emr212		0504f678d9309efc12743641ad0d6684be487896
 it.agilelab	wasp-plugin-hbase-spark_2.12	2.36.0		728412b0c1f615eda26bae49d9d834fb062e249c
+it.agilelab	wasp-plugin-hbase-spark_2.12	3.0.0		6449cbcb6e1186073f69e0bdaaab1cd4d61e54d1
+it.agilelab	wasp-plugin-hbase-spark_2.12	3.0.0-3_3		d865c9dc69fa7fc28315dbe23a993cc37c1396a8
+it.agilelab	wasp-plugin-hbase-spark_2.12	3.0.0-3_5		bad100418ac6841a9e6e7c63d852ff066dba277c
 kr.jadekim	kotlin-protobuf-generator-converter-multiplatform	0.2.1		N/A
 kr.jadekim	kotlin-protobuf-generator-converter-multiplatform	0.2.1	jdk8	c7e8b4af491b7da1707b08284e4fed2ae8bd5a7f
 kr.jadekim	kotlin-protobuf-generator-converter-multiplatform	0.3.1		N/A
@@ -880,6 +883,7 @@ org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.2.1		b9d5ce803cff47e8d10
 org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.2.2		bb82b9a4012af44221bc56117f92de233d080764
 org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.2.3		0fbdba202db8aff83ee1670949357ce513b771b0
 org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.20.0		ef2de871d15f55030bb08cf2738c1ee16352b900
+org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.20.1		1d47938b702a5a636e49c7941740058b6c183cb5
 org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.22.0		f392376347b1a44e497e3b9aa6b50db90a770453
 org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.4.0		27097e303d7ae4bf270f19ba8c51312f9f256ea1
 org.apache.camel.quarkus	camel-quarkus-guava-eventbus	3.5.0		eb037de864e846401b65f62e4aa30f67b14a226f
@@ -938,6 +942,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-tagl
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.7.12_1		6a8b8110e98f0c3010fb1453bc89eac4ac28c0ca
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.7.12_2		16f3d910d08241d38f858cda26d155c28c9e6419
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.7.12_3		9d874d09d7769df03aa26a474579682c5d89c778
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.7.12_4		8d44d51caa44764d9c01cfc40c944bbb41cc0be9
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.7.1_1		7bd235f72d997f3c6427ff85f010d1f7cf409b5e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.7.2_1		3233ff99108411139abf39b446aa1ae0e724202b
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.7.3_1		71019d017ca0550d3504220b636502ba84c1fada
@@ -945,6 +950,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-tagl
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.8.0_1		b5350eaba9f16d643935f086ae5a78ffb5fa5d7d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.8.14_1		3e6ce3ee6d47422c6f5d5553865eda5e0ab1a27e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.8.15_1		54f54130f8b8f5fe0431069fa6f8405ce9dcffab
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.8.15_2		47441d1b06798f4482d180757704b5be0a082705
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.8.1_1		95926ccd9267e1cd650ae56539bbad8b0ae5ad69
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.8.4_1		64cee80a5dd98d276dcba28b20c2eb7aacf64a08
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	5.8.6_1		0d6e241598bf42cdbc338502bc96d53351522895
@@ -962,13 +968,17 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-tagl
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.1.5_2		93f83a2a1af825e183b94b482dcee68e20320657
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.1.9_1		8f651ac9fbac5c6b5fea2f7b4ad00cfccdd34672
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.1.9_2		846181cb001b8ac536376f929e9c44e7a0fb7f5f
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.1.9_3		2876ee6a8210bf86c4ce6408049fc153fcfcdc08
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.2.0_1		9965f19880c184b0dc8f7a8c2c999d1989c57783
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.2.1_1		b7a5e3dd1a8865feb81aae08504d68698d9bb2e7
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.2.4_1		3129e13fee7a20f4b3a95a83809b92d76be9dbc4
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.2.6_1		3b73f954609bf540d00159dacb5d70880b1c3374
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.2.7_1		adfe5ce974fcfef500f4ffe4e256038db41e6e26
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.2.7_2		cd8ab2144c1be454f7058fe697deca0427ba1358
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.3.3_1		7ceadd821896fdc9d3dc51514115e9010045cb05
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.3.4_1		01f2fbf49b76d069a45d3ac4037d6822ba2d5bff
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.3.9_1		b96db9c2d0bf385943e1622b64ce8da7560851fb
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-taglibs	6.4.5_1		ebe7b1090f02ee46976d4a2e28a65ef4ae6057e2
 org.apache.stratos	org.apache.stratos.usage.ui.feature	3.0.0-incubating		N/A
 org.apache.uima	ConceptMapper	2.10.2		af9f4d054c5a8ad44710d949307d3de8088797bc
 org.apache.uima	ConceptMapper	2.10.2	osgi	e983f15b42747fd0f6c87d3217c3725ef0af94b8
@@ -1163,6 +1173,7 @@ org.jetbrains.compose.animation	animation-core-uikitx64	1.7.1		N/A
 org.jetbrains.compose.animation	animation-core-uikitx64	1.7.1	metadata	9efa68a0d84a6d58d1a14cac997d50c84d1c731f
 org.jetbrains.compose.animation	animation-core-uikitx64	1.7.3		N/A
 org.jetbrains.compose.animation	animation-core-uikitx64	1.7.3	metadata	9efa68a0d84a6d58d1a14cac997d50c84d1c731f
+org.jetbrains.compose.animation	animation-core-uikitx64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.animation	animation-core-uikitx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.animation	animation-core-uikitx64	1.8.0-alpha01	metadata	9efa68a0d84a6d58d1a14cac997d50c84d1c731f
 org.jetbrains.compose.animation	animation-core-uikitx64	1.8.0-alpha02		N/A

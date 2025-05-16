@@ -706,6 +706,7 @@ dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.27.1		942568db08e54fca836b6244345b
 dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.28.1		52c568b977dd20f819bdbe971cfa8b3518cc4164
 dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.3.1		07297af5161cb0568f1a63c4c370ca056c417659
 dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.30.1		5b47ece0fc11c5b5ffb09e1ec6b2c4dd9d5e4915
+dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.30.2		7f1019a26d0779fcfd30ab4e4518eae16b7fa041
 dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.4.1		cf5fc878b1f8839c1c522e5dfbdb4f3e1b76cd64
 dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.6.1		19df53a91e7c710beec4b826faaa09a77055db86
 dev.zio	zio-aws-bedrockagentruntime_2.13	7.31.6.2		1e4eef48656bfb9a4fd0c0eca1047ac2360e5aba
@@ -1184,6 +1185,7 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.4.25		97318492e33ce5c9204c6338816e65bccfdbaac4
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.4.26		4594f6bf3020cd2a905b8a63f0db9a1f1743071c
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.4.27		6f801227890d255c8e3c2e5e61de3ecb727141c2
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.4.28		57319300b7a01115edcdeb4c9fae805d5dfea144
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.4.3		9762bfd47e66bd353ed0d0fae3f5b1f6f47ae56a
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.4.4		177f22f039f151184fe65f054cda5647735e60ab
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.4.5		00de51a035769586143074a40e35d7416b4ffa8b
@@ -1201,6 +1203,7 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.5.14		17ce105982af7d10587e3cd54d728a00dc591b03
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.5.15		6c94ddc9de45910e2be2512cd82c594ee90bde6a
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.5.16		ac4431dd611113bc5e8282f4ac1ccea9487a6792
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.5.17		177b0f8c43ebc89ae19864a4eb0e50faabf21481
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.5.2		3185e6403d608ae3d755348eb6f80df0172ab778
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.5.3		177ef6864cb2ef3c17411b87752a6f47b4e05590
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.5.4		1a2b756828e393852829aec54093242b86f7d446
@@ -1213,6 +1216,7 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.6.0-alpha.3		be967ea42abffd04ffb8693b7ee5abf6aa38d5ae
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.6.1		f98e393b7876468c86a3a847ad0b98aec7086c38
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.6.10		8019bd903c26939c8f227a766abd02a6b73d21d2
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.6.11		95cb6125549a51139466d285457ac5325f46eada
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.6.2		374e3b23bd207ed17cd067df557797f56e2a1739
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.6.3		574c48bb3ae5ce047863d6aa3d3ba0e7ec9c1185
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.6.4		5921f9bd9ea024c2464b351e884f8feeeb19dc95
@@ -1229,7 +1233,9 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.7.2		cba5e2eb92dc7f53e351aa642b75a10f6abaf763
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.7.3		e705ac13960f40749a405a96ec82f108bcb60d62
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.7.4		8fb57998a250fdd8cf4e29f052c3c2856c8fa10e
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-container	4.7.5		a6f1108c476aeb794fe3e7b8268d2acfa40e7919
 io.igventurelli	pipe4j	1.0.24		d36484e176561d3ae86c7949559234dcd62505da
+io.micronaut.aws	micronaut-function-aws-api-proxy	.3.1.0		e0d03b47fcda61605d27c13e2237cc0d8c50397e
 io.micronaut.aws	micronaut-function-aws-api-proxy	1.1.0		05b5643517404306ab3a4e710133de7610265b13
 io.micronaut.aws	micronaut-function-aws-api-proxy	1.1.0.M2		79647271313cc2eef5a560322f5aab2441bf8913
 io.micronaut.aws	micronaut-function-aws-api-proxy	1.1.0.RC1		9a6aca328a6eb0a62c8f901626a96c2a8f59d825
@@ -2230,6 +2236,7 @@ io.streamnative	pulsar-io-rabbitmq	4.0.1.2		50430a9ff2c1a955477acc3081ecb76a8038
 io.streamnative	pulsar-io-rabbitmq	4.0.1.3		7be1325ac3e73112e07d3e27f0178dd30ca9a49c
 io.streamnative	pulsar-io-rabbitmq	4.0.1.4		595c7c645b1a064d34bca2fe3504741c4aa32f11
 io.streamnative	pulsar-io-rabbitmq	4.0.3.1		0cb865f0a0b6728d74beb8e8fb9bd58b78358d9b
+io.streamnative	pulsar-io-rabbitmq	4.0.4.2		9e3d09794976cb875ca28b9b75e945d3bce65b7f
 io.streamnative	pulsar-io-rabbitmq	master-rc-daily		5da83948a7a1301be5973e03c9d9430aab1535b0
 io.streamnative	pulsar-io-rabbitmq	v2.8.0-rc-202106091140		d3a9ed970796acf228657845bfdc4d8fb42efa41
 io.streamnative	pulsar-io-rabbitmq	v2.8.0-rc-202106121853		7f12eeb1711a453cdfab9928f67078b7907ad466

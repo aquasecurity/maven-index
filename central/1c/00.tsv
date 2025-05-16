@@ -321,6 +321,7 @@ com.sparkutils	shim_compilation_11.3.dbr_3.3_2.12	0.0.1-RC2		7611b2449b8a8fb4451
 com.sparkutils	shim_compilation_11.3.dbr_3.3_2.12	0.0.1-RC3		3af10411348ac1a7496f1c8868aeab0c3349aef3
 com.sparkutils	shim_compilation_11.3.dbr_3.3_2.12	0.0.1-RC4		5729055c80d244076474c849cbc800b1e2b9b94f
 com.sparkutils	shim_compilation_11.3.dbr_3.3_2.12	0.2.0-RC1		5421af562512edf3913e4f8e925feea3ad3058a3
+com.sparkutils	shim_compilation_11.3.dbr_3.3_2.12	0.2.0-RC2		a20f5baf54e291526c3faca5d2ad55c4dde3ffe3
 com.thoughtworks.raii	unidoc_2.12	1.0.0-M0		N/A
 com.thoughtworks.raii	unidoc_2.12	1.0.0-M1		N/A
 com.thoughtworks.raii	unidoc_2.12	1.0.0-M2		N/A
@@ -591,6 +592,7 @@ com.vaadin	flow-data	23.5.1		fb8d5b1a564e2020fe2f691af1d27a8545f1e1a0
 com.vaadin	flow-data	23.5.10		3783379cf9070190fe45e6363f3d7e27672ff7ee
 com.vaadin	flow-data	23.5.11		381751499436cabddbc65e313ee37c6ca6edaa9e
 com.vaadin	flow-data	23.5.12		80b0fcfa6a9f75a3d9d0601cc4deba17fe71649c
+com.vaadin	flow-data	23.5.13		d2e78fa236b702f6d54ca48c04fd68ef087aaca8
 com.vaadin	flow-data	23.5.2		052b1bcf263cde0841df2de481fde188733bd46d
 com.vaadin	flow-data	23.5.3		285b3cef194be27dfbc9b1c958cef5e226026795
 com.vaadin	flow-data	23.5.4		24394d62c8f07d391a8969b1601266296be5dc8a
@@ -711,6 +713,7 @@ com.vaadin	flow-data	24.6.0		acfc722abd38e69019136b70329efe450d658cfc
 com.vaadin	flow-data	24.6.1		6523b00e4912bc1cbc6861906098f566a2f387e4
 com.vaadin	flow-data	24.6.10		fc54d913da64d9dd8df8d908ad811029b70aa936
 com.vaadin	flow-data	24.6.11		4ddf79085118deb4d6269292bfe9fbeebc474cac
+com.vaadin	flow-data	24.6.12		45bb114287ed16cdf54c441088fdd742f6b350e3
 com.vaadin	flow-data	24.6.2		9d4a80d4d2031a4aad626ab66eeb64975abe7f98
 com.vaadin	flow-data	24.6.3		068665312d26bc16477dd65f5bc98bafcb5fb121
 com.vaadin	flow-data	24.6.4		547a4ba715991510ebf9caf365f02edc5e84a66b
@@ -725,6 +728,7 @@ com.vaadin	flow-data	24.7.2		84215a83f969226e83cf6c3841eda23aa78b70b2
 com.vaadin	flow-data	24.7.3		c6d6c1472987ea91ad0e21a9b177185b541f3a50
 com.vaadin	flow-data	24.7.4		97f991b959fe727cf2ebeea876cb5555db914a40
 com.vaadin	flow-data	24.7.5		e2bdf6b2955e771d5fcc29559b0e0c1dfcc4e0d8
+com.vaadin	flow-data	24.7.6		0078d9e61a05cb62491437699f60ea1fd7a0fda8
 com.vaadin	flow-data	3.0.0		5dce142d2af6e5a43e086f7441b9dd47e5351ddf
 com.vaadin	flow-data	3.0.1		76a1aae40223980a56a4c92739bb8638c26ae6d4
 com.vaadin	flow-data	3.0.2		f51e1211a6addd04f62160f9ba6e7b11a3e70349
@@ -1223,6 +1227,9 @@ io.gravitee.reporter	gravitee-reporter-elasticsearch	5.5.1		dd11b786c96a84d183f7
 io.gravitee.reporter	gravitee-reporter-elasticsearch	5.5.2		2e8e897fbb1667290db09633fac0112068a94d98
 io.gravitee.reporter	gravitee-reporter-elasticsearch	5.6.0		45b80bfc882187842f793ea639cd84bbf807e9c9
 io.gravitee.reporter	gravitee-reporter-elasticsearch	5.7.0		255077bec14bb42c53adc86ff0c6c51f6ab9b2a1
+io.gravitee.reporter	gravitee-reporter-elasticsearch	5.8.0		3b5d1a8884f69284fa1877521eb6a8da3af46367
+io.gravitee.reporter	gravitee-reporter-elasticsearch	5.8.1		8eac06a35ed1e3e5dc17e8dce77ec863d4e47af5
+io.gravitee.reporter	gravitee-reporter-elasticsearch	5.9.0		4c171f6fc8e5edeb440dee03f79f3705eacc4f0a
 io.kamon	kamon-executors_2.10	1.0.0		b92432faf3678bfa7fc1a602c216f915dc8a992d
 io.kamon	kamon-executors_2.10	1.0.0-RC5		0641b167a01086c88b6af25bda5d70abd399b50a
 io.kamon	kamon-executors_2.10	1.0.0-RC6		61731cd7184ea5038c31cee8c7bfd7fc0f8729bc
@@ -1239,6 +1246,7 @@ io.kamon	kamon-play-23_2.10	0.6.2		3fcca6c382dc86e0d42caa13a085f34b5b104df4
 io.kamon	kamon-play-23_2.10	0.6.3		599d378fc9fc3a4176c5089dc98d2304c9f5c26b
 io.kroxylicious	kroxylicious-operator	0.10.0		1c33c9f777bc9fd4ca51c31637f52b66fedff98f
 io.kroxylicious	kroxylicious-operator	0.11.0		bc1b2c417483aacd5cc34a6de5d5c20546582a52
+io.kroxylicious	kroxylicious-operator	0.12.0		f0557e4ee0ecefddd3a9fb0377ef04c61191ad41
 io.kroxylicious	kroxylicious-operator	0.9.0		a99d02b0b899edeae226b1354696a5f1aeac197b
 io.peekandpoke.funktor	core-jvm	0.86.0		48fb37328f266432dca355bbc81977f10b65c5cc
 io.peekandpoke.funktor	core-jvm	0.87.0		ef50f32afa72abda14bb85e08cc27c57ccd420a3
@@ -2058,3 +2066,5 @@ tz.co.asoft	kiota-url-iossimulatorarm64	3.0.8		N/A
 tz.co.asoft	kiota-url-iossimulatorarm64	3.0.8	metadata	46d18b7f69eabff7e95629aefd3a4c27a7dcd191
 tz.co.asoft	kiota-url-iossimulatorarm64	3.0.9		N/A
 tz.co.asoft	kiota-url-iossimulatorarm64	3.0.9	metadata	30d916b2c53bf496025bc9cc2f93712b85e01b2f
+tz.co.asoft	kiota-url-iossimulatorarm64	3.1.11	metadata	1c7050d2e8111f2013fe5ca543e38cf321bd3aa4
+tz.co.asoft	kiota-url-iossimulatorarm64	3.1.12	metadata	77ffccba813993736742a8b9a3326db7a0c91520

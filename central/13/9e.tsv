@@ -401,6 +401,7 @@ dk.cloudcreate.essentials.components	kotlin-eventsourcing	0.40.20		c1226b0404706
 dk.cloudcreate.essentials.components	kotlin-eventsourcing	0.40.21		a456c7184bec8cae745267821404a381577e2f89
 dk.cloudcreate.essentials.components	kotlin-eventsourcing	0.40.22		74db9650aae71f3efbd15f933bed6bc61a5ed4ca
 dk.cloudcreate.essentials.components	kotlin-eventsourcing	0.40.23		9faa67f69095af6d25d587be6a086cdca7fd15ff
+dk.cloudcreate.essentials.components	kotlin-eventsourcing	0.40.24		c0eead1ea3c77f649997ae0b94ff9fa2d6d3f908
 family.amma	deeplinks-gradle-plugin	1.0.1		ae325d3ee72d35ff8fdff4b4fc130fc54ead18d9
 family.amma	deeplinks-gradle-plugin	1.0.10		1c2bdfdd99b88cb8f67a13dbf76cfddd26bf044e
 family.amma	deeplinks-gradle-plugin	1.0.2		1be5f1bf78664d09221c22ee5a6be56031f9713f
@@ -1106,6 +1107,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.41.1		f3948788
 org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.42.0		25ad204912ec3ab696fab07774bd91457f8f34cb
 org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.43.0		9346b4ea7cebfb2e16436a389ff7429eff48f512
 org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.44.0		6fdf3940b761f8f04b0e5f6d5e6944279e7096bb
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.0		12a381c4eea4a7d9e9964694a1d7304b08fb1847
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.1		a492dda11a9972d89e7231cd88119d203955e9bf
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.10		bab75eacb54d4fd4de147b938a47d5e0f549c87e
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.11		9ef8c4f75f3682a11ff011e01872df06cb41a87f
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.12		3391773644f481a879ce058b357fcb7181309e1a
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.13		89639d7355c501f8616f574fcecb40d63d398ec8
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.3		ecbd332e0e0e2cd8f2d855281e9ff8dab0a644be
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.4		f020626d92bd179c559864dd40b161ed0b4b9343
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.5		873bd0df3c8978617acce7875d28620b31ec1581
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.6		f28f8a74f3369c994e4af37a71c5db6d05a45aeb
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.7		dc8258b3babf21be6cb9b67798ce57ed464178b0
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.8		321b53ab1bf283dee701695491865d519c6bd113
+org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.45.9		a7fe6018f4a1750f3210d184851038413f9052e8
 org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.5.0		9eafbffb78c02f130c38c4364aa5e22794ccf0ae
 org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.6.0		7cfbed54ae8ea0b614bbe29aeb7a68ec2a83728c
 org.eclipse.dirigible	dirigible-components-ide-ui-file-manager	11.6.1		73a190cf579fff25558ce67f002da55fa22060af
@@ -1283,6 +1297,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-macosx64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-macosx64	0.6.1	metadata	1de5430493b5b51ba0034058fec05886f52e7b1f
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-macosx64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-macosx64	0.6.2	metadata	8878f6c5bf5dcfdbf7bb557db309576aa950e9bc
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-macosx64	0.7.0	metadata	381dc942b45d5fe5ff050bd85bbff69fbd95690a
 org.jooby	jooby-pebble	0.13.0		e24ae47627b279d6de7e6be69a68763352e8574a
 org.jooby	jooby-pebble	0.13.1		17f05147868621deed9d09bb22e7293b062f584b
 org.jooby	jooby-pebble	0.14.0		a75d7d38588a17f9bc85f2cdbf9a8724a6518fa8
@@ -1455,6 +1470,11 @@ org.kuali.common	kuali-sample1	1.0.4		5b49a9a3f6376bb98f5aa545d2ddea12ca2ded3f
 org.kuali.common	kuali-sample1	1.0.7		9f84749b696e0de12c7fa0f81b918b82731b78da
 org.kuali.common	kuali-sample1	1.0.8		6eb96c23c5901f02f8a17c4f5db4a25e3f44b2c8
 org.locationtech.sfcurve	sfcurve_2.12	0.2.2		34b1f869cdcae261a8b767f2f5317d1fe1dce368
+org.make	sbt-swift-plugin_2.12_1.0	1.0.6		155f4b7d1ea60f7bfbf7a74068497376139b3b1c
+org.make	sbt-swift-plugin_2.12_1.0	1.0.7		6ef1a33b619aaeb6505fa7ee44aeeaf845643ca2
+org.make	sbt-swift-plugin_2.12_1.0	1.0.8		ffb5626de056d72910743695f57d3912dbbffbbf
+org.make	sbt-swift-plugin_2.12_1.0	1.0.9		e6ea97dcb6997dc9962dac6b48a6eb559f09711f
+org.make	sbt-swift-plugin_2.12_1.0	1.1.0		3034cca6292143cbc4327bffd32609f2690772f0
 org.marketcetera	marketdata-recorder	3.0.12		9153e73f80e71aabb495b13cc6da89cae938d386
 org.marketcetera	marketdata-recorder	3.2.0		64beb77c374db49cf68c71a5a9a37ac58d4ce198
 org.marketcetera	marketdata-recorder	3.2.1		7ec763dc65a391d93ac4273f186ffeb02e71833e
@@ -1571,4 +1591,5 @@ software.amazon.lastmile.kotlin.inject.anvil	runtime-optional-watchosarm64	0.1.3
 software.amazon.lastmile.kotlin.inject.anvil	runtime-optional-watchosarm64	0.1.3	metadata	acc56ce8ec2d0a31fa664de84b24b01b890d84e7
 software.amazon.lastmile.kotlin.inject.anvil	runtime-optional-watchosarm64	0.1.4		N/A
 software.amazon.lastmile.kotlin.inject.anvil	runtime-optional-watchosarm64	0.1.4	metadata	a4c4f6d154c0bfd3eb4f9e2460cba3184a61bfa9
+software.amazon.lastmile.kotlin.inject.anvil	runtime-optional-watchosarm64	0.1.5	metadata	2d766d0350c306c1b81227fa33a9241a13c043de
 tk.jamunx.ui	pickers	0.0.8		N/A

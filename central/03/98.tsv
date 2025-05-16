@@ -369,6 +369,7 @@ cn.ucloud	ucloud-sdk-java-uec	1.2.37-release		634a7a351097b262ceb392da7e218bf947
 cn.ucloud	ucloud-sdk-java-uec	1.2.38-release		8dfed190d34ffaacecb835fcf072fca7346b9be4
 cn.ucloud	ucloud-sdk-java-uec	1.2.39-release		5ed4e5baaa1a6d6b8f2220bb533bc26fd868d9fd
 cn.ucloud	ucloud-sdk-java-uec	1.2.4-release		88d09c5286627bc2ce7c34817b266ae8aba1e238
+cn.ucloud	ucloud-sdk-java-uec	1.2.40-release		316d914f5b17677a9f4d7bb763e64b7c18c3712c
 cn.ucloud	ucloud-sdk-java-uec	1.2.5-release		7df121de006ff0e300faf2ad3de659245a98e658
 cn.ucloud	ucloud-sdk-java-uec	1.2.6-release		1ae50b1c224183e0af1431b6f2b36a0b01484f23
 cn.ucloud	ucloud-sdk-java-uec	1.2.7-release		d45565345baf2b01d1834d5c8812558b617bec2c
@@ -658,6 +659,9 @@ com.sparkutils	dmn-4-spark_3.1.3.oss_3.1_2.12	0.0.1-RC2		e5e154778054bdc38eab22f
 com.sparkutils	dmn-4-spark_3.1.3.oss_3.1_2.12	0.0.1-RC3		e1f866520bbfe9c934269bcd2cbae24eb06f5bd8
 com.sparkutils	dmn-4-spark_3.1.3.oss_3.1_2.12	0.0.1-RC4		84c2f600b228c303c5b5087d6db8c9dc0123be09
 com.sparkutils	dmn-4-spark_3.1.3.oss_3.1_2.12	0.0.1-RC5		81c38957d415f3fccfe87efd63ed815ae19304c4
+com.sparkutils	dmn-4-spark_3.1.3.oss_3.1_2.12	0.0.1-RC6		93344997ed83696bbce65376ff61cee376fea672
+com.sparkutils	dmn-4-spark_3.1.3.oss_3.1_2.12	0.0.1-RC7		8384bbb9575fb4793b8511c27bb01179cd60a575
+com.sparkutils	dmn-4-spark_3.1.3.oss_3.1_2.12	0.0.1-RC8		3766585b6de946f93a6dd98e77e15892e24dcd25
 com.spinoco	fs2-crypto_2.12	0.1.0		80a5f4637274cc9d04c035b7c2e7bd98693281e3
 com.spinoco	fs2-crypto_2.12	0.1.1		238a6b8a01ad49b05fdc04071e655b6ab1a79aae
 com.spinoco	fs2-crypto_2.12	0.1.2		8891a8744200aca9f56a92ce450cbc072603df41
@@ -755,6 +759,7 @@ dev.cheleb	laminar-form-derivation-shared_sjs1_3	0.24.1		460c4aaeb9e3b183546312f
 dev.cheleb	laminar-form-derivation-shared_sjs1_3	0.24.2		c5c45b37af62b421e64532d51c7f7c5192e9e839
 dev.cheleb	laminar-form-derivation-shared_sjs1_3	0.24.3		b1ebc2d447ad533deb045528ce8bad32e5a1642f
 dev.cheleb	laminar-form-derivation-shared_sjs1_3	1.0.0		0a59aa563bc4a9b0d2e28dc6ddc023e867d68fc6
+dev.cheleb	laminar-form-derivation-shared_sjs1_3	1.1.0		f71416549176cc0816ecc73f060bde73cdfc8aed
 dev.hnaderi	scala-k8s-client_sjs1_3	0.10.0		26eddb5bd0db78d7f78ba0de8112262db07a4e7d
 dev.hnaderi	scala-k8s-client_sjs1_3	0.11.0		004a7a6ad1327aa4a0749c11adf84e1b73a2f3be
 dev.hnaderi	scala-k8s-client_sjs1_3	0.11.1		f563a43ce8728450c5d8c49120c1ddb342e2cfbd
@@ -905,6 +910,7 @@ dev.zio	zio-aws-verifiedpermissions_2.13	7.31.27.1		aaaad0b862e676847e4c74729a75
 dev.zio	zio-aws-verifiedpermissions_2.13	7.31.28.1		e04e35e057ebd8213605222ae96e78626a95f5f2
 dev.zio	zio-aws-verifiedpermissions_2.13	7.31.3.1		5b7f7426081560320e5cb993dad20966b4b5f60e
 dev.zio	zio-aws-verifiedpermissions_2.13	7.31.30.1		3e725897042ad6bd9b2f1f338f302a396b3c6317
+dev.zio	zio-aws-verifiedpermissions_2.13	7.31.30.2		c93e065c21b6ed5d435a2da17d8da76252b2883e
 dev.zio	zio-aws-verifiedpermissions_2.13	7.31.4.1		d9aab780b8dc39cbfcc7c0c76ff9aa15929ad132
 dev.zio	zio-aws-verifiedpermissions_2.13	7.31.6.1		2a1c92720ddab70d0b78326936f76c3a85c151a2
 dev.zio	zio-aws-verifiedpermissions_2.13	7.31.6.2		2ac80ff3a06c45e0736e3ae76a1d7094f01d3d9a
@@ -1252,6 +1258,8 @@ org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.17		bdd16dc3604bf
 org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.18		5718b7aefddcec2af080bf71bb52793ac5e9ed50
 org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.19		b2bfb5548acba17d97848246eedef2f114a90423
 org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.2		f10b1d63aecf3c0248a0dcd089623d85b4612884
+org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.20		238137a132cd3b1fddd41f5186c8abcb8a2b1adb
+org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.21		e283c46715ea66cd1529186520707ecde557ed00
 org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.3		371dc087ab0456c9ec32b5c66dce2d90ab1e01fd
 org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.4		b12b1403e7869872f60eb23b0414cfbddbba2b46
 org.eclipse.jetty.ee8.demos	jetty-ee8-demo-mock-resources	12.0.5		3549d11a95ba9716b8a68af07d6093904231970a

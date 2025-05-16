@@ -553,6 +553,7 @@ dev.zio	zio-aws-chatbot_2.12	7.31.27.1		2a9ad649f6c412c847a4c68ce87f49d663eaed38
 dev.zio	zio-aws-chatbot_2.12	7.31.28.1		eb0ef967780d9128e10c7fb377485e66fe56ea45
 dev.zio	zio-aws-chatbot_2.12	7.31.3.1		c94a855f97eb3d9c79f90d348f2eef881346ee40
 dev.zio	zio-aws-chatbot_2.12	7.31.30.1		d9e25ffb4a764fcda42c1e5887e13417d375d1f0
+dev.zio	zio-aws-chatbot_2.12	7.31.30.2		957e54d64cba5f416e0c0c293f217bb717fa4716
 dev.zio	zio-aws-chatbot_2.12	7.31.4.1		60493f5b3d6dd45ca0ee0c1e611ee7ebfec39b79
 dev.zio	zio-aws-chatbot_2.12	7.31.6.1		e4680e54c9796dda14fe63b322cb64ac0b0a9d0a
 dev.zio	zio-aws-chatbot_2.12	7.31.6.2		fa1e25904545fb67f1cb024b1e93af78793fd561
@@ -692,6 +693,7 @@ net.markenwerk	commons-nulls	1.0.1		6524f7eb4d73101dd1121634452f135bf0f1a382
 net.markenwerk	commons-nulls	1.0.2		51c2198dd6dafd8228cbfcaf756ceb5c9c707e30
 net.markenwerk	commons-nulls	1.0.3		d3287a894af0d0628bf91769d314815c04adc49e
 net.markenwerk	commons-nulls	1.0.4		00062b766a42fbdb3ea86c1b6b0468e213eda3b8
+net.ormr.diagnostik	diagnostik-mordant	0.1.0		25f65c950594ea8f5482c479bed467900d7f3571
 org.aerysoft.minijson	minijson	0.9.1		N/A
 org.aerysoft.minijson	minijson	0.9.2		N/A
 org.apache.camel.k	camel-k-itests-master	1.10.0		e661a20f60aff3bde030f17e1e60a8fa94de8d71
@@ -835,6 +837,7 @@ org.apache.camel.springboot	camel-ref-starter	4.8.3		a00dafc0ec75fec8ec6c5ecedd3
 org.apache.camel.springboot	camel-ref-starter	4.8.4		5fa44f82dace049e351b2c2d55cc8b357ab056f6
 org.apache.camel.springboot	camel-ref-starter	4.8.5		c33859bef73afa00be537fa55dc37021fffd7972
 org.apache.camel.springboot	camel-ref-starter	4.8.6		ee29e841115f6458ec920c9f68a325559d619700
+org.apache.camel.springboot	camel-ref-starter	4.8.7		e17dbd55b22306f5d733ef00db57742001e194f7
 org.apache.camel.springboot	camel-ref-starter	4.9.0		9dda4122bf25e62df5f82f7e8e99b92fecee18b8
 org.apache.plc4x	plc4j-driver-bacnet	0.10.0		a5c28695872596043a2de29c66f4d59792640ffc
 org.apache.plc4x	plc4j-driver-bacnet	0.11.0		d4f98959fa4d5e7525bda291de988ba9ebe4542e
@@ -1003,10 +1006,17 @@ org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.79.0		d4369f
 org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.80.0		ac925558a3bb800c0a6a4ec91739a887831f15e9
 org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.81.0		225e12c58513f62057b7bfd8c71821a1aa4712a9
 org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.82.0		a158b9f47986f4654d2de9310aa9cd48e74fa9c5
+org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.82.1		fea0903d679361e557cfebf4b55d39b717d20582
 org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.83.0		b10fd7c23c1f4ba22ddd3fc118e4a5a623c97aee
 org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.83.1		9e2562832f543dcffe1394386a55a7c9732c94c8
 org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.83.2		6a40b94f4d28fada289c3e4e772a91d4c1d4a4c7
 org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.83.3		58b178d6fa22d03e293cf8cd9bb97164fa03e62e
+org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.84.0		54e8708aa9424f4068c8076d60ed6a1bce2e8746
+org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.84.1		633c7a83b0f36d8ed0900a7b5a43f6ac81d61885
+org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.85.0		4204b5b76ec68c9d3a946d79a1f92cafa11b6dc8
+org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.85.1		c2e784141b72c842450e837b2dc41649d419ae95
+org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.85.2		5b06a524d86cd58b8b8a9ab1c62572a3ece48826
+org.finos.legend.engine	legend-engine-xt-hostedService-generation	4.85.3		16a8bd7f1792b7e1d938bdfd4854628eb07149b9
 org.fusesource.fabric.fabric-examples.fabric-camel-cluster	camel-server	1.0		bf458f818c4a94cf364a4f8274285656bdc734c3
 org.fusesource.fabric.fabric-examples.fabric-camel-cluster	camel-server	1.1		10c5ffe2a5fd78b9d1f8992237fe992e3ad7b04c
 org.fusesource.fabric.fabric-examples.fabric-camel-cluster	camel-server	7.0.0.fuse-061		8278e2ac304365fe590f4d37811aa0a089f35fbb

@@ -83,6 +83,8 @@ com.github.ironfish	akka-persistence-mongo-casbah_2.10	0.7.5		51552e1d2a06afef20
 com.github.ironfish	akka-persistence-mongo-casbah_2.10	0.7.6		dd2aaa930b01cade86f3c5214c802b99946cb4e3
 com.github.jasarus	jasarus-di-spring	0.0.0		8d983843677b38764630bb43a1df5c26b2bdba4d
 com.github.jasarus	jasarus-di-spring	0.0.1		aabfd46cd67f1411c8b2973a979a9c08ea5db857
+com.github.kxbmap	sbt-slf4j-simple_2.10_0.13	0.1.0		35c8a782870b15755e589f668d8648b02e655bc3
+com.github.kxbmap	sbt-slf4j-simple_2.10_0.13	0.2.0		1017cb77bbbf664e7ce53ea2ba1b743f60f06603
 com.github.st235	flow-layout	1.1.3		N/A
 com.github.st235	flow-layout	1.1.4		N/A
 com.github.st235	flow-layout	1.1.5		N/A
@@ -391,6 +393,8 @@ io.camunda	zeebe-cluster-config	8.6.12-rc1		1576f7e371fae6ad6c1e865e7b12f56d1402
 io.camunda	zeebe-cluster-config	8.6.13		868532b83571fb376282f26d35d5604be9455e11
 io.camunda	zeebe-cluster-config	8.6.14		627466dbdbb1fbe92bfc5c59b824fb5853b76000
 io.camunda	zeebe-cluster-config	8.6.14-rc1		5248eebfde25f99e63a9acd5b03ea26087ab07d3
+io.camunda	zeebe-cluster-config	8.6.15		432a00a14a029628d022e97dd3ee43692382911f
+io.camunda	zeebe-cluster-config	8.6.15-rc1		36c7f42d1bed6206aa69453228247ef3249d6932
 io.camunda	zeebe-cluster-config	8.6.2		e61de6b47ee68bcac5900c9e3ab2344eed28f2cb
 io.camunda	zeebe-cluster-config	8.6.3		829ea805559d8ce61d8ac61bb40bc0e75478cb98
 io.camunda	zeebe-cluster-config	8.6.4		c2787171596a81a5c31e4918814074d85864f935
@@ -426,12 +430,15 @@ io.camunda	zeebe-cluster-config	8.7.0-alpha5-rc1		0a6ee5224088aaa8e9d2757f4d7f62
 io.camunda	zeebe-cluster-config	8.7.0-rc3		f80d82a8503faeff8051a0a96aa44ae80d7f8fd5
 io.camunda	zeebe-cluster-config	8.7.1		16d75ebb1e4e44c5703d546bd979999260170777
 io.camunda	zeebe-cluster-config	8.7.1-rc1		c163b11e5c4d88ec09d17aacbe27ba9fd7078f9a
+io.camunda	zeebe-cluster-config	8.7.2		fe61550dfb5f7f1311a97564b0b2db5902ffbf22
+io.camunda	zeebe-cluster-config	8.7.2-rc1		1ce8d2d91dda0241a59835a35594e6ad3d81be33
 io.camunda	zeebe-cluster-config	8.8.0-alpha1		90ff6da123547aa1ef6fe3c865a09b5955f2391e
 io.camunda	zeebe-cluster-config	8.8.0-alpha1-rc1		648e3577c59c2f3654c3e7329e0c23cbad93a22f
 io.camunda	zeebe-cluster-config	8.8.0-alpha2		2958cde05bd1fb02f1c14a014b1acf4ceab0881c
 io.camunda	zeebe-cluster-config	8.8.0-alpha2-rc1		20c6c3f7627e491fc37b81da9f66269f9b74629b
 io.camunda	zeebe-cluster-config	8.8.0-alpha3		e901ba4e9c74e1b7315e9098d2ba93c7511db83f
 io.camunda	zeebe-cluster-config	8.8.0-alpha3-rc3		efa1a2fe369a1aceb89dd802acbe2f3d74c5f034
+io.camunda	zeebe-cluster-config	8.8.0-alpha4		870393dc6869b4a1d3c981ebda3762963f1b410b
 io.camunda	zeebe-cluster-config	8.8.0-alpha4-rc1		98f91418ff4459db0fdc5a3e197110d535582ab4
 io.chrisdavenport	mules-reload_sjs1_2.12	0.5.0		23e2337cc950d3fa8a4a9959c5bfb0f5ba7eb4b6
 io.chrisdavenport	mules-reload_sjs1_2.12	0.5.0-M2		268bed6698e0b8166275ccf5c75c9e9e71bf2389
@@ -504,7 +511,11 @@ io.kestra.plugin	plugin-jdbc-sybase	0.21.3		66f095dee4405eee9ad99388f470ff4750b3
 io.kestra.plugin	plugin-jdbc-sybase	0.21.4		a3831498daf13038cab32c61ce0f5bbc3d50f164
 io.kestra.plugin	plugin-jdbc-sybase	0.21.5		b42d9a8e3a405978d3464760675c5ef172167236
 io.kestra.plugin	plugin-jdbc-sybase	0.21.6		ae256628e7f555294717b51b652fc582f3a789b2
+io.kestra.plugin	plugin-jdbc-sybase	0.21.7		2c8f596e4dfd0dcff28c92956fbf8b861aa3c1bf
 io.kestra.plugin	plugin-jdbc-sybase	0.22.0		361edd580be921fcc9f251825ce44aa7975f60cb
+io.kestra.plugin	plugin-jdbc-sybase	0.22.1		931d9969b94071a3ac06f1bce713cf7d05788baa
+io.kestra.plugin	plugin-jdbc-sybase	0.22.2		a60dce7ba13d171e3fc0899caf3c1a19c0e9b09c
+io.kestra.plugin	plugin-jdbc-sybase	0.22.3		14c9a24f6881639a73415812f02bab68400b139e
 io.komune.im	im-privilege-core-domain	0.15.0		3fbf6d506e29d8acf6c081d035028836a218b5f0
 io.komune.im	im-privilege-core-domain	0.16.3		78bfc9266726ce374da827ab7d207182536364cd
 io.komune.im	im-privilege-core-domain	0.16.4		7f6c4000f3dc3083bb4bd1b22c46f64c64b231fd
@@ -616,6 +627,7 @@ io.smartdatalake	sdl-kafka_2.12	2.6.1		a879686a3f78c430761ea9f45ebf2411d1fd54d9
 io.smartdatalake	sdl-kafka_2.12	2.7.0		3392c6432a64de9c295341c94a3e6f2f0cb9b030
 io.smartdatalake	sdl-kafka_2.12	2.7.1		9d0ec4e5108cf73518e5691bd65e3a04e1bbec9d
 io.smartdatalake	sdl-kafka_2.12	2.7.2		7306a0c50c08d8778204316e4e72e1814c0dd707
+io.smartdatalake	sdl-kafka_2.12	2.8.0		a91aa20295629bc97ff03f2f67e286ffd4fb5f25
 io.snice	snice-testing-distribution-base	0.0.4		11e73bf1202b93ee193418b044e35ae44dc9a009
 io.streamnative.tests	bc_2_6_0	2.10.0-rc-202110192205		133080ea88a5fcaba2216a653d9c15315fbeb6cf
 io.streamnative.tests	bc_2_6_0	2.10.0-rc-202110202205		30f2074bc5e7d373ccde91b9be5aba4c153c50ae
@@ -1345,6 +1357,7 @@ io.streamnative.tests	bc_2_6_0	4.0.1.2		acd3a6f24754d5910b603a79095e3f4c4250f2b5
 io.streamnative.tests	bc_2_6_0	4.0.1.3		6204401a0aee3428a500bd319d8444c343a9e50a
 io.streamnative.tests	bc_2_6_0	4.0.1.4		59a3562d934f312a82b4716fca43c37092c28f11
 io.streamnative.tests	bc_2_6_0	4.0.3.1		175f72191a7af65f144db4ecb4ff1aeddc6575c1
+io.streamnative.tests	bc_2_6_0	4.0.4.2		181f56e0a4af110829a32be5a48296b7ac89d462
 io.streamnative.tests	bc_2_6_0	master-rc-daily		be86dc6ec463207e1b00fd7753066f283b8a0956
 io.streamnative.tests	bc_2_6_0	v2.8.0-rc-202106091140		039b05773591c353a679061183378e18c023b8cc
 io.streamnative.tests	bc_2_6_0	v2.8.0-rc-202106121853		4279188c1b9a6d0115302d1822c24364c98f9335

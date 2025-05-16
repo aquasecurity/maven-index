@@ -327,6 +327,7 @@ com.qingzhuge.framework	qing-framework-sys	1.0.1.5		N/A
 com.starrocks	starrocks-spark-connector-3.2_2.12	1.1.0		64fbc138f07e2132d2ec4184c378fc675e684fcf
 com.starrocks	starrocks-spark-connector-3.2_2.12	1.1.1		63a9ab8f20c0aedb579faead22693255b7fa67d5
 com.starrocks	starrocks-spark-connector-3.2_2.12	1.1.2		d674a1b4dd098aab095f140b9d15eb3f508e0862
+com.starrocks	starrocks-spark-connector-3.2_2.12	1.1.3		9a5f20e91a824c6c08050376e7a6fe8d113e4c78
 com.succsoft	spring-webmvc	5.3.41		0c8e9454b2bd45128cabaa016b77941426461dbf
 com.succsoft	spring-webmvc	5.3.42		f8faa04caac05730badd652efa2e51fe290a97de
 com.thoughtworks.binding.experimental	dom_sjs0.6_2.11	1.0.0		a71209d9501d650283f1e64f00ef4b95882dcd07
@@ -593,6 +594,7 @@ io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.0-alpha5		3854af1fa55691ec
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.1		4f23168e206721154d5bad4f7316977b44d78eac
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.10		d2758d28e7b4a0db3a5e721d7520ebd1effb5539
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.11		8bfe195114a180b5282cd7368d5e54f1bfd864c5
+io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.12		a0a1a60c2992498133e2731442f6f06465fcd13f
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.2		1ddb23c5b027f5fbb96667c9cf91a088870e8180
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.5		4211621f2a0ebd9a8fa016cffceb35a29cfb4459
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.6.6		03316e058cabd6cd67d1e8842757c8235ee32844
@@ -604,8 +606,12 @@ io.camunda.connector	connectors-e2e-test-rabbitmq	8.7.0-alpha3.1		2e55a743ac9cfb
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.7.0-alpha3.2		c704691a5e8cee12a3aa846159ca6ef839344454
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.7.0-alpha3.3		260e5ce69fc5ae0de6203f0b8b7781a6a61d0e78
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.7.0-alpha4		cd2ccdfc2523773e6258e72d4f6356e7b0288e38
+io.camunda.connector	connectors-e2e-test-rabbitmq	8.7.1		ee05e30a4a7cd31eb54013c7f1fe413105354512
+io.camunda.connector	connectors-e2e-test-rabbitmq	8.7.2		7e7cac34279ec420b1f434c5276984bfa66b1ea7
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.8.0-alpha3		816da7c933028e324307b628da53d2107be0b3b2
 io.camunda.connector	connectors-e2e-test-rabbitmq	8.8.0-alpha3.1		c00d85dde1799954fded4b65a5895199e49721a6
+io.camunda.connector	connectors-e2e-test-rabbitmq	8.8.0-alpha4		63cfa44f4f342f05a5b21aad6620a433eb047599
+io.camunda.connector	connectors-e2e-test-rabbitmq	8.8.0-alpha4.1		1c53e3ca3f82e0942876ad24c6e26e3cda8ef95e
 io.gitee.gaof1026	knight-cloud-dependencies	1.0.0		N/A
 io.gitee.gaof1026	knight-cloud-dependencies	1.0.1		N/A
 io.gitee.gaof1026	knight-cloud-dependencies	1.0.2		N/A
@@ -911,6 +917,8 @@ io.stargate.it	testing-services	2.0.29		979cfcc155600b0de36205d6a271dc20af09f1ec
 io.stargate.it	testing-services	2.0.3		34cced168be8aed9a76ec5fc618a13d90b203cf1
 io.stargate.it	testing-services	2.0.30		7505b09857dcfc77f1eba03f6d850b1b9bfcfc99
 io.stargate.it	testing-services	2.0.31		6d8f4166ddc5639eab52272d5ea0fb863d39a7aa
+io.stargate.it	testing-services	2.0.32		2ae753b7800bc319d381bd7a9ea6b21fbec9ff81
+io.stargate.it	testing-services	2.0.33		3dd0b43cf1588f0e65ac421e86c16711f958fb9b
 io.stargate.it	testing-services	2.0.4		758c1b691720ec97dd3cf9479f92a18f7d827561
 io.stargate.it	testing-services	2.0.5		6125a58e12ed6a23eb64bd150a796c60fdcb455a
 io.stargate.it	testing-services	2.0.6		bd3e7835ad914203240494b04648e72fb60ddc26
@@ -944,6 +952,7 @@ io.stargate.it	testing-services	2.1.0-BETA-21		d8032ff4dbe2488be7c93034fe28e271d
 io.stargate.it	testing-services	2.1.0-BETA-22		7e7ff29b62dcde2766fbcc26c78ea478da4eb145
 io.stargate.it	testing-services	2.1.0-BETA-23		8ad6a772211631d3c225b18ede0580839e6c6d96
 io.stargate.it	testing-services	2.1.0-BETA-24		a6030728a6ffb3bd567a897eab728d5379846d62
+io.stargate.it	testing-services	2.1.0-BETA-25		0c919a270a0e7b15ea130d984d1f0ff8b2bf1855
 io.stargate.it	testing-services	2.1.0-BETA-3		19dc95adaee75f45cfee40d905e2c48361795b06
 io.stargate.it	testing-services	2.1.0-BETA-4		5e8199ef52347793d107622ab6b89ec9d9b1b1ea
 io.stargate.it	testing-services	2.1.0-BETA-5		12a2df1efacfe1349a808b4f56649c518be792bc
@@ -1325,6 +1334,7 @@ org.citrusframework	citrus-docker	4.4.0		f66877c63e068d5e8ba24b2e382a3459af47ff7
 org.citrusframework	citrus-docker	4.5.0		243e907118e80aaff6ba00958931445ef14e4ff2
 org.citrusframework	citrus-docker	4.5.1		74f3139e119f679f9ecefd201a16a63b62fc26d0
 org.citrusframework	citrus-docker	4.5.2		a46e6c166a9ba08ea71a971e852a89392e1a01e6
+org.citrusframework	citrus-docker	4.6.0		559a3b85e547ef3b8451f26bb27a48ba5c983c19
 org.fudaa.framework.ctulu	ctulu-video	1.0		a8b8179e4b21a25a4b7379415e131f592f01fefe
 org.fudaa.framework.ctulu	ctulu-video	1.0.1		e6ae1fe0c7ab3745d7aac9744dfdd2f40d713740
 org.fudaa.framework.ctulu	ctulu-video	2.0		53fd031733641117f1df9723911ce884dcbb5bc7
@@ -1541,4 +1551,5 @@ wang.harlon.quickjs	wrapper-java	2.4.3		274e2d86a10f77516710e998429d87aa2081c5d5
 wang.harlon.quickjs	wrapper-java	2.4.4		aa049ee1e2fc2ee905784c5f944706bcb78c9dd0
 wang.harlon.quickjs	wrapper-java	2.4.5		b9558ea79878e58ed7fc3a52e643a23162bdfec1
 wang.harlon.quickjs	wrapper-java	3.1.0		667a08a2791793080bffbd0204670a9855c14870
+wang.harlon.quickjs	wrapper-java	3.2.0		d69c4c8c745d832aa6d5849628cd9be1ea98b44c
 wang.harlon.quickjs	wrapper-java	v0.18.12		85872212a9295c5714fcc57ea75604fdadff36f7

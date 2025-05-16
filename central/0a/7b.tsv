@@ -254,6 +254,9 @@ com.github.ifrugal	the-transporter	1.0.20		72c46fd07adc8fe87b306085090c30721d171
 com.github.ifrugal	the-transporter	1.0.21		5692fa0193248ac4b221b964c20d551f9b55a459
 com.github.ifrugal	the-transporter	1.0.22		a96c66edf373e147ef5372e90f5813af73519ca8
 com.github.ifrugal	the-transporter	1.0.23		9cc84eb00ff124d7f61be4b90f32d635d8db8a50
+com.github.ifrugal	the-transporter	1.0.24		8258106dc0f2c35cfd8bfb1b2b235aee89ab69b0
+com.github.ifrugal	the-transporter	1.0.25		cf0ab236e72b894b4d8c49c78e99abb27bb85624
+com.github.ifrugal	the-transporter	1.0.26		646a8d1f4c0d120de430db3fce1e935286522b2a
 com.github.ifrugal	the-transporter	1.0.5		89e82a24d095e2a35460d737cb490f6b90fff3b1
 com.github.ifrugal	the-transporter	1.0.7		e98eed041ae8f15227fa86439ecf95ff7803dc01
 com.github.ifrugal	the-transporter	1.0.8		af243166cff3087f2e778b75327ab6b26a0566fa
@@ -446,6 +449,8 @@ com.tresata	spark-scalding_2.10	0.5.0		fb998041547c8b364408e807e9af57848a20f6b3
 com.walterjwhite.java.infrastructure.inject.modules	cli	0.0.17		N/A
 de.holisticon.util.tracee.inbound	tracee-springmvc	0.1.0		be66ef11d98acf6de3537dcf56c256dfc4249577
 de.holisticon.util.tracee.inbound	tracee-springmvc	0.2.0		006b377b9873a7e50030d42e4fd20a2bea64a1fb
+eu.unicredit	sbt-shocon_2.10_0.13	0.1.10		6723f50b4bede27393b6904af0185e25ad3da658
+eu.unicredit	sbt-shocon_2.10_0.13	0.1.9		a4017d1ae9d928741c0da55aed318371b1f8d4c3
 fr.irit.smac.thirdparty.edu.gmu.cs	mason	18		ba0230c6700de0d2e058fce2fcf922bbb73a6ed8
 fr.maif	thoth-jooq	2.0.0		1d73c1e26e0958e88445f3347c44aca9a9e5f4aa
 fr.maif	thoth-jooq	2.0.0-BETA2		948a400f724ed853cd31495fb84e0e969d203e50
@@ -941,6 +946,7 @@ me.friwi	jcef-api	jcef-a51ff7f+cef-95.7.14+g9f72f35+chromium-95.0.4638.69		9097e
 me.friwi	jcef-api	jcef-ae6912a+cef-95.7.14+g9f72f35+chromium-95.0.4638.69		757d2fffdfc4a7c4169485a2a0e8ed200818951a
 me.friwi	jcef-api	jcef-af53d63+cef-104.4.23+g46ae630+chromium-104.0.5112.102		cf3f8a74209f6c63754342ff4b08bc86e8b756b5
 me.friwi	jcef-api	jcef-c1f0745+cef-108.4.13+ga98cd4c+chromium-108.0.5359.125		49f2c84e2ad33bece7f4b28980d6e4fb8a4cf1dd
+me.friwi	jcef-api	jcef-ca49ada+cef-135.0.20+ge7de5c3+chromium-135.0.7049.85		530c9988a56c419c500de536731ee5850bf36376
 me.friwi	jcef-api	jcef-e7256b9+cef-107.1.9+g1f0a21a+chromium-107.0.5304.110		81603225f8894d875410c665ee5a1074bf1c943c
 me.friwi	jcef-api	jcef-f9b884e+cef-100.0.14+g4e5ba66+chromium-100.0.4896.75		f39fc720faf9506c10708688d0f332686c717f39
 moe.tlaster	precompose-molecule-iosx64	1.3.10		N/A
@@ -1203,6 +1209,9 @@ name.remal.gradle-plugins.toolkit	testkit	0.72.12		5529b3a29f7c47d4a111bf335c906
 name.remal.gradle-plugins.toolkit	testkit	0.72.13		c82a1cbdcc0e4f586609da50e8591686f730287b
 name.remal.gradle-plugins.toolkit	testkit	0.72.14		87e66047a75fa307c33ca2805271909e22cae71b
 name.remal.gradle-plugins.toolkit	testkit	0.72.15		ce38d01c8794f0c9384e6b4ebbb0c993e170defa
+name.remal.gradle-plugins.toolkit	testkit	0.72.16		b17acf2d7167ef17fb4560d01dfe2b02732b9a5f
+name.remal.gradle-plugins.toolkit	testkit	0.72.17		aea8ffbcf51bfa5e8ac9a42bf7d2816db967ddcc
+name.remal.gradle-plugins.toolkit	testkit	0.72.18		aea8ffbcf51bfa5e8ac9a42bf7d2816db967ddcc
 name.remal.gradle-plugins.toolkit	testkit	0.72.2		83b15d2030904b3eb3d3fdecf16c0923a1fad3f7
 name.remal.gradle-plugins.toolkit	testkit	0.72.3		4d13a9b418849ca79ad569329eaabd51c8872da2
 name.remal.gradle-plugins.toolkit	testkit	0.72.4		f2da0f36793770ba33920502f9798adc07132ba0
@@ -1555,10 +1564,18 @@ tz.co.asoft	raven-config-watchosx64	3.0.8		N/A
 tz.co.asoft	raven-config-watchosx64	3.0.8	metadata	0941fcbd3e47d833c738d15bcf77cfa097b36748
 tz.co.asoft	raven-config-watchosx64	3.0.9		N/A
 tz.co.asoft	raven-config-watchosx64	3.0.9	metadata	4ba19d4eb3c20751c88fd40b7694177aa693f8b3
+tz.co.asoft	raven-config-watchosx64	3.1.0	metadata	c522890c922e9922963addc3b00a5e1c652099a7
+tz.co.asoft	raven-config-watchosx64	3.1.1	metadata	5daf7c7a3c88371681c299e8b1ad02d5d8b235d4
+tz.co.asoft	raven-config-watchosx64	3.1.11	metadata	e3648458d37df1b4b053c268c4a59ca0524c3f6e
+tz.co.asoft	raven-config-watchosx64	3.1.12	metadata	0142fc4e2254aa0017414f4725e746491d2d491b
 tz.co.asoft	raven-email-agent-config-watchosarm32	3.0.14		N/A
 tz.co.asoft	raven-email-agent-config-watchosarm32	3.0.14	metadata	7bf573700b3bddadcea2190451983a836f4504b4
 tz.co.asoft	raven-email-agent-config-watchosarm32	3.0.15		N/A
 tz.co.asoft	raven-email-agent-config-watchosarm32	3.0.15	metadata	c6d46a6db20bc3040ebf027229978c13e14e6251
+tz.co.asoft	raven-email-agent-config-watchosarm32	3.1.0	metadata	7118ce90d55de3ffcb8c67645bf1f9a1445ca554
+tz.co.asoft	raven-email-agent-config-watchosarm32	3.1.1	metadata	2ccd95947ca4c34fa890a06771b9b8f14feddc89
+tz.co.asoft	raven-email-agent-config-watchosarm32	3.1.11	metadata	62d26489ba756af95fc7bc6042742c1f5a3ed340
+tz.co.asoft	raven-email-agent-config-watchosarm32	3.1.12	metadata	0c63fe10d94af42122d7e6475df01eeff9d74ac5
 xyz.mytang0.brook	brook-spring-boot	1.0.0-alpha		N/A
 xyz.mytang0.brook	brook-spring-boot	1.0.0-beta		N/A
 xyz.raylab	permission-infra	0.1.2		613a0e0dbe1b402c30d3bc473fe480adf4874246

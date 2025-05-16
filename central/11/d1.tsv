@@ -432,7 +432,16 @@ aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.73		e0638cdcbc1dd86a7d7804aee768b1b0
 aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.74		812d71ea3b9b0ae45dc9feb357e38608c25a4247
 aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.75		3a83dfed3bc41c14a19b24932e9691d2fa3a37c3
 aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.76		ac8d764d79a1d12f61477959b1c78fae8a21047e
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.77		681e1f0a5c724be725a17ca8a707d7a66e5ed939
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.78		5e389285c47ca25892e620f0308e1c96375c149a
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.79		495c343d6396cdd794b88415294a6be92216b24a
 aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.8		4a6bac4767acf54ddad274a8b83f9ade5cc2f871
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.80		e712fcab4452bdbe64cd37154f1d9c3efc67d4f7
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.81		fb1936d57ff5507d72cb6241b186e8851d668736
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.82		c2c358d0f8b273ff982bd2b25a109b87152fc37e
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.83		8116bc254a2e72d7e47a9959671d91ab2bceff9b
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.84		07851aba5c3f1847be99bd421ddbb481f5533425
+aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.85		a79145a0c1a411979e7006909d6d424df320eaa1
 aws.sdk.kotlin	elasticloadbalancing-jvm	1.4.9		042e5c33aa90963d3045c11aa7e57f68e2223dbd
 com.alibaba.ververica	ververica-connector-influxdb	1.12-vvr-3.0.2		2a3bee5ebb476e578ba86ac400b4e9aff9b01251
 com.alibaba.ververica	ververica-connector-influxdb	1.13-vvr-4.0.15		11042c2ec4f56ce846ee946f73221fb5b33cde17
@@ -1131,6 +1140,8 @@ com.sap.cds	cds4j-jdbc-spi	2.9.0		3d2bd033962dcfaf5279bfa19bed49575b6180c1
 com.sap.cds	cds4j-jdbc-spi	2.9.2		10d0826d441dcb4a56bd96a82c3b4f1c75a2fa84
 com.sap.cds	cds4j-jdbc-spi	3.0.0		2fd1e911848aa518233cc51d17fc8ed8bdd99b26
 com.sap.cds	cds4j-jdbc-spi	3.1.0		24168255f4df3bb29e6cb31e77f423cda28adabd
+com.sap.cds	cds4j-jdbc-spi	3.10.0		9fe6953b93b395ffb4a01472d0cc72f3b7150d09
+com.sap.cds	cds4j-jdbc-spi	3.10.1		40b5e8d92a2190b975c6837bd90d5744bef972d7
 com.sap.cds	cds4j-jdbc-spi	3.2.0		cf95e908f042a3565a42f36c849f97b3a34a114c
 com.sap.cds	cds4j-jdbc-spi	3.3.0		cdab8602e79328d2293f8167a0bd862db500e945
 com.sap.cds	cds4j-jdbc-spi	3.3.1		22455e2e06b33e35813bf1827caa120cf284d486
@@ -1351,6 +1362,7 @@ io.camunda	zeebe-qa-util	8.4.15		69c47f223f68357fe0a073bb737c14d9be6de0ab
 io.camunda	zeebe-qa-util	8.4.16		b6fd5d97606d1f2c18c671f09381130c4d25bb51
 io.camunda	zeebe-qa-util	8.4.17		f605f261aa7720a52a945c64c319881395af96b1
 io.camunda	zeebe-qa-util	8.4.18		a1f8f18ad6489866460810ff0930ab49a6d6a89e
+io.camunda	zeebe-qa-util	8.4.19		ba51420a0a79bd5d747ae9773cf309de65dc2577
 io.camunda	zeebe-qa-util	8.4.2		1219735331cef2a4aa7b8a324835b5a3ebf5b6eb
 io.camunda	zeebe-qa-util	8.4.3		3a86233048f914147c451a5e4859722f496b6b72
 io.camunda	zeebe-qa-util	8.4.4		4ac935b890a34ae43c348d78aa42a6deb3adf8e0
@@ -1373,6 +1385,7 @@ io.camunda	zeebe-qa-util	8.5.14		a96c6a3faef7d8bec0f0ca2e45703d9bc6337cd0
 io.camunda	zeebe-qa-util	8.5.15		64cd816b83e8cdca5dbeded9c05a698eb5b68083
 io.camunda	zeebe-qa-util	8.5.16		67467c65e1e315b258bcd2647b552a522f6237c6
 io.camunda	zeebe-qa-util	8.5.17		4d0063b468ae9f7e9ee7dcabc7da5fa4868544c8
+io.camunda	zeebe-qa-util	8.5.18		d9a3502ca70c343d8048d3e99b8b0fc0d246f70c
 io.camunda	zeebe-qa-util	8.5.2		13f6789da19fb392d0a54869618b6b2f5fb3d395
 io.camunda	zeebe-qa-util	8.5.3		6e7b495f65d8f7b6ff800dc2e07ce30152491853
 io.camunda	zeebe-qa-util	8.5.4		a5e0aa168abca0bbf16b4bc510cd06cbc4321625
@@ -1540,6 +1553,8 @@ net.engawapg.lib	zoomable-desktop	2.5.0		c67285b342270f0ba612ed5df9f4180da2bd250
 net.engawapg.lib	zoomable-desktop	2.5.0-beta01		2de8db23621935548d4389d7fa1600ee7834c13c
 net.engawapg.lib	zoomable-desktop	2.5.0-beta02		c67285b342270f0ba612ed5df9f4180da2bd2503
 net.engawapg.lib	zoomable-desktop	2.6.0		6b95afd866898f8b696022542a96401ccb77a59d
+net.engawapg.lib	zoomable-desktop	2.7.0		6b95afd866898f8b696022542a96401ccb77a59d
+net.engawapg.lib	zoomable-desktop	2.7.0-beta01		6b95afd866898f8b696022542a96401ccb77a59d
 net.kodein.cup	cup-widgets-material-wasm-js	1.0.0-Beta-02		N/A
 net.kodein.cup	cup-widgets-material-wasm-js	1.0.0-Beta-03		N/A
 net.kodein.cup	cup-widgets-material-wasm-js	1.0.0-Beta-04		N/A
@@ -1629,6 +1644,7 @@ org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.2.1		6b8f61465f
 org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.2.2		48ee4aa0a44b461cde3f8cb448ca9f244c967c0d
 org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.2.3		0dc1651b5c5378138241e6e57846079d03f9f88d
 org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.20.0		557c8336f7bd71c6aaaade1fcc2f38681b9c8dfa
+org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.20.1		c2836add0ada1a18c74c3c6a28ad1614ed1573d0
 org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.22.0		a19559b9320ff77b107fa27499fbacc13f18083c
 org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.4.0		d03397abbc73942fdda0f4452599d6f345c0d814
 org.apache.camel.quarkus	camel-quarkus-aws2-kinesis-deployment	3.5.0		7c472a6d829262e040d02d1bd578919a1c62b405
@@ -1943,10 +1959,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.8.0		3b
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.80.0		7efe6f10cf40da1fdb4b05b5ee3d3ace1dd3269e
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.81.0		e7f99b75508deb8f7646d69fc8f7bd699488621b
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.82.0		9e34586bc25e672975d50aef19644720982b0210
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.82.1		7f9bdd58dcabb834fd97b3da942987c4c0f773e8
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.83.0		2e206614fe4c0649bed49fbc8ffaf7fc94c5b857
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.83.1		05df19fe8375e54323d14cad2515bdae793f2e80
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.83.2		1440924f80fb3b6d61cdffb425e43cd127e1c5ee
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.83.3		1c87a65002120b31adbe6958d171615f39762736
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.84.0		ab8e0898a0a3d9f304d849023ca702436c4df25b
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.84.1		54d0c182d5167bc6ef44cadf93160f3dc7a0d9a0
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.85.0		6b1c5a7590f11ac1687773683e9b962effaa2aa0
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.85.1		1566f6b2fe8d79592a30e439fa4adb8840d7f85e
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.85.2		69b29557d67680fc970d39f135e174750b173d9a
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.85.3		e3776be6fa8e808d6352e9f10cd2a8d082a2fdf3
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan	4.9.0		720ef2781d2fe8fc85d1fae150617c63251dde68
 org.glassfish.mq	mqpersist-jdbc	6.4.0		3cd556d6ddc64e71d945f5285a3b9854dc9d3d4e
 org.glassfish.mq	mqpersist-jdbc	6.5.0		8d7749b6fc526bfc2f0e7ff30d00cd8ba2254a63
@@ -2305,6 +2328,9 @@ tz.co.asoft	cinematic-live-compose-watchosarm64	3.0.8		N/A
 tz.co.asoft	cinematic-live-compose-watchosarm64	3.0.8	metadata	892d437d009c5a11c3219fa37237884bc60527df
 tz.co.asoft	cinematic-live-compose-watchosarm64	3.0.9		N/A
 tz.co.asoft	cinematic-live-compose-watchosarm64	3.0.9	metadata	837300fe312f7ea5b8d3a3f8417cd41c3e5ee437
+tz.co.asoft	cinematic-live-compose-watchosarm64	3.1.1	metadata	60229425ae4582b1417ff15ccfeb9d7a6ced1ca8
+tz.co.asoft	cinematic-live-compose-watchosarm64	3.1.11	metadata	8195ff2fd9384c608541ad8f6fc03c9e3e8b20c4
+tz.co.asoft	cinematic-live-compose-watchosarm64	3.1.12	metadata	6bc6184b8c02d2e0afb32e0af5ade5ec62207b7b
 ws-commons	axiom-impl	0.95		55b2a2f1640d7d90f017e107e5409c4543dee094
 ws-commons	axiom-impl	1.0		24af20b884263419b635bffdc76471be9cd0e840
 ws-commons	axiom-impl	1.1		de5699d458fc025a35b52f4b2080b90675659a22

@@ -80,6 +80,7 @@ ch.exense.step	step-controller-base-plugins	3.26.5-customized-j		eea1881a0e50f83
 ch.exense.step	step-controller-base-plugins	3.27.0		a80467b99851d464b98feab383814d0a3c2b5a3d
 ch.exense.step	step-controller-base-plugins	3.27.1		1b726d28fe78cd1438edaa7524bf15ad3200f6b7
 ch.exense.step	step-controller-base-plugins	3.27.2		1110f264ab6d67d3747e78b5a55e02d59b555333
+ch.exense.step	step-controller-base-plugins	3.27.3		2fee1a6b36abd05e0b105c42cbf6ea89b168ff71
 cn.sexycode	solo-office	1.1		N/A
 cn.sexycode	solo-office	1.2		N/A
 com.beachape	enumeratum-test_native0.4_2.13	1.7.2		25420b57585404fbd20c04b6e1c2333a5acbb473
@@ -396,6 +397,7 @@ com.github.bibsysdev	json	2.2.1		2b158e49a88ce8855c96ed6fcf35ab900cc754be
 com.github.bibsysdev	json	2.2.2		468b2720c9f4a92fda648bf406618dc57a1dc07f
 com.github.bibsysdev	json	2.2.3		f1b99a6c47d065f5b993242271bfe2c01037f649
 com.github.bibsysdev	json	2.2.4		d7b9f853547f1ea241232ec356dcfcd364af7843
+com.github.bibsysdev	json	2.2.5		69429966ffb266469944ebd588b00d0e82a011fe
 com.github.bzacar	mongeez-cli	0.9.10-bzacar		6bce31a6468bd896f6ad23951b3d0eaa3dea304e
 com.github.bzacar	mongeez-cli	0.9.7-bzacar		d2b24e5e9f503c4b956d4a0e597d19fdb6bcd01d
 com.github.bzacar	mongeez-cli	0.9.8-bzacar		9c9a1216306e0011b108b3aa0b61f378db4a182b
@@ -412,6 +414,7 @@ com.google.cloud	google-cloud-video-stitcher-spring-starter	5.11.0-preview		7c7f
 com.google.cloud	google-cloud-video-stitcher-spring-starter	5.11.1-preview		157cc5a5a48186dea522753b2821447d8a6dd66c
 com.google.cloud	google-cloud-video-stitcher-spring-starter	5.11.2-preview		2d156797b7eb1c84f600b8b5e3744bd1edff0e11
 com.google.cloud	google-cloud-video-stitcher-spring-starter	5.11.3-preview		09acfc439da402cced612250c2903f9bce07b52a
+com.google.cloud	google-cloud-video-stitcher-spring-starter	5.12.0-preview		cde2624245b85a0a961963043da7d800cac03411
 com.google.cloud	google-cloud-video-stitcher-spring-starter	5.5.0-preview		3f329d0e670795924752880349a3554be8b496df
 com.google.cloud	google-cloud-video-stitcher-spring-starter	5.5.1-preview		5fd8b336b27ef64a46238195bfe7af8529c192b6
 com.google.cloud	google-cloud-video-stitcher-spring-starter	5.6.0-preview		6678c612515cebce55308f965077301f86c53a9e
@@ -693,6 +696,7 @@ io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.41.0		a5761db6
 io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.42.0		4cae59abec2dd82435e9c8d02ad1e3e32591568e
 io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.42.1		9b16626bb8e535764e3e0be43b1adcead24badfe
 io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.42.2		7300e9643007b20704976799b047524edeb9523e
+io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.43.0		9ada55f1308225aa3d56c691b3ddc970b7c241b1
 io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.5.0		6d8813c3ebe9271d71888b0b9ea9e9afd6977727
 io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.6.0		3e5dd7725ba39ff40f76fada4aace97b249cd93c
 io.automatiko.addons	automatiko-events-reactive-messaging-addon	0.7.0		c06fcb2b200e24755613d633baa953e0812b9a17
@@ -816,6 +820,7 @@ io.camunda	zeebe-backup	8.4.15		0ba9bc602dade22858b7520ad8d8a9cc570c4347
 io.camunda	zeebe-backup	8.4.16		5997b872e8243a47d60fea075397908448c18f2b
 io.camunda	zeebe-backup	8.4.17		f035c7294a8106687b295883ac1477e146c239e5
 io.camunda	zeebe-backup	8.4.18		5854b9011eff8742db55ac30abf2141cb685fdd1
+io.camunda	zeebe-backup	8.4.19		c9467041cb6e327e47c5d876bf8aa0758f7b9ef5
 io.camunda	zeebe-backup	8.4.2		236cbbca81bd30997e6c93d28d0c9463d6e4bcdc
 io.camunda	zeebe-backup	8.4.3		166dc7eb3145eb3c0fa28593facb2d73da491acf
 io.camunda	zeebe-backup	8.4.4		3f8086e878390d70a942f8df5561443faab7d054
@@ -838,6 +843,7 @@ io.camunda	zeebe-backup	8.5.14		5069a83618a33716063c5b7894204bd0c63cbbef
 io.camunda	zeebe-backup	8.5.15		f8ee0964dea01145939b1e339f3bc06e9c39a2d2
 io.camunda	zeebe-backup	8.5.16		5d10be1a07a54f3f7996687eb26a7882fb2df9b9
 io.camunda	zeebe-backup	8.5.17		0c86ff122264d29de1596b2f55245db42f16b862
+io.camunda	zeebe-backup	8.5.18		2dde0f99c0dc257fd736c9d0d1a55e71c70eb056
 io.camunda	zeebe-backup	8.5.2		abbefe5fbafe56c5bd708af2512e4165e5bb18bd
 io.camunda	zeebe-backup	8.5.3		9107693bf59aa9dcc5b50a65a163d4d406b25100
 io.camunda	zeebe-backup	8.5.4		5a067bcb1b50a3d0a5dc199c72f5d248b865b92d
@@ -875,6 +881,8 @@ io.camunda	zeebe-backup	8.6.12-rc1		4edfc8cda204bcf0804aa85fe0f45af9ea9c3be6
 io.camunda	zeebe-backup	8.6.13		6b07f762229629d808867a954247606ef9362500
 io.camunda	zeebe-backup	8.6.14		c8651eece6a0507333e244234c29b812fea71056
 io.camunda	zeebe-backup	8.6.14-rc1		3ae17a3ff4f2119b0d29995183dfd72168c628d5
+io.camunda	zeebe-backup	8.6.15		c4e4f2e401e71198b35224708bd1b6e542e20929
+io.camunda	zeebe-backup	8.6.15-rc1		1b5763d0ba5fe7f1154670410b7092e7e3364812
 io.camunda	zeebe-backup	8.6.2		42c9c948f23cce9e819ed2a1af688f237b372650
 io.camunda	zeebe-backup	8.6.3		b0f0a8097df6701fa5fc139da24360073cfb9224
 io.camunda	zeebe-backup	8.6.4		07ab8e7502af7169b1f498c751018f721ef18cc1
@@ -910,12 +918,15 @@ io.camunda	zeebe-backup	8.7.0-alpha5-rc1		a7a0dab5d7bff4ed9f55b153b0ac674d644807
 io.camunda	zeebe-backup	8.7.0-rc3		c81d7d34e94694242e9f41fa77cafd474e8e2c6b
 io.camunda	zeebe-backup	8.7.1		6ed4ddd95fa1ee118f021b15bf4fb9dfee2ec0d8
 io.camunda	zeebe-backup	8.7.1-rc1		b4dd7a4af30af4a86d6975553c9e56ec9be80754
+io.camunda	zeebe-backup	8.7.2		466064b5a61ab3338de2c1c8b48e507504b13a94
+io.camunda	zeebe-backup	8.7.2-rc1		2d8e3938584c2460de5c20121775609bba60adfd
 io.camunda	zeebe-backup	8.8.0-alpha1		11f2b7990c8d4836469c60fcc5afff7c2c795519
 io.camunda	zeebe-backup	8.8.0-alpha1-rc1		5e6b37ae92c3c1fe78d2c6ff26b9cc6edcfbde35
 io.camunda	zeebe-backup	8.8.0-alpha2		85f4505f62e7b1be00a60748cd4bd23e5193d1cd
 io.camunda	zeebe-backup	8.8.0-alpha2-rc1		e665076cecffa9e426f39114691e7357f1d36fa0
 io.camunda	zeebe-backup	8.8.0-alpha3		8272f90d630fd88010e1cc4b2640633d4f50a621
 io.camunda	zeebe-backup	8.8.0-alpha3-rc3		eac9fa6ee6658ba7ed767ef187b2551ba57dd692
+io.camunda	zeebe-backup	8.8.0-alpha4		dab79779469fa9100091d993f69306c4209ab0f3
 io.camunda	zeebe-backup	8.8.0-alpha4-rc1		6f2506afe680e8bb8f96ef9d5253e702ef44fa75
 io.eventcenter	ec-scheduler	1.7		656f4cbe6183c4d651cb872ccc63a803ae00a55e
 io.eventcenter	ec-scheduler	1.7.1		4007a70e00f455fb3f4d1198583ab526ded79b25
@@ -1326,6 +1337,19 @@ org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.41.1		2247b2d0e06
 org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.42.0		9a9b3685903aecb9bce787e2235f7d147588cd40
 org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.43.0		65abb82c6626bab9c70df886949d5814db386c06
 org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.44.0		2f35ec0d82f656e09a57aec5f7eacfe97090c105
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.0		9637e09a4626ba994e54a397690e72137e313a1e
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.1		4da32998c39d5f46c50e605da6ce0854975da633
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.10		ba0587b39aaf0c894a317ffbdf54e2bc3f9c7b5b
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.11		0d01d6ab8a22ebdd187d4a393e790a0f8410ae98
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.12		fd30b776f144a316e9fd130fbbe6a77c71d8b00f
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.13		e36c646529c26254ca7525ab0e1e097c846e836f
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.3		f956ffc4962f0422c6dcf711211e5175fd77fdb5
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.4		993f4bf37bda6a5fd8c370c833b1305b73441b70
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.5		93a7ce8a8dcbd19f156801524349953d034f200f
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.6		a9c4e7f568c9e2c2c414cc100b30453d6bd82f6c
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.7		778a08e491a7ed2aa9fa4fb0b0d5c29d3ce917e9
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.8		9814294383cb2cca8c62e005f09433f26847273d
+org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.45.9		3e2ac31c5f8d6866d787883798a34c5a3aa87b83
 org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.5.0		8ebc1b1eaa2dc7ce2f74d618ac81f06013c3ac0e
 org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.6.0		22c88b753c724f69fddda98f58058c49ddaaa667
 org.eclipse.dirigible	dirigible-components-ui-editor-schema	11.6.1		82c8f7a1df39e41cee44d1412b7a46d177a8322f
@@ -1504,6 +1528,7 @@ org.jetbrains.intellij.plugins	structure-teamcity	3.300		4e51db089630c54b1943f99
 org.jetbrains.intellij.plugins	structure-teamcity	3.302		2901c58c36db986ca6e05900d1f568da9b4708be
 org.jetbrains.intellij.plugins	structure-teamcity	3.303		d1ad7037fab3ff97c2be6c07c31f3cefb9774856
 org.jetbrains.intellij.plugins	structure-teamcity	3.304		3d958c63c13a7cd57fb8b8daf29a9c93a4c85294
+org.jetbrains.intellij.plugins	structure-teamcity	3.305		28edd0f90e32896e25cfacb784e81a645761cb55
 org.locationtech.geomesa	geomesa-convert-metrics-ganglia_2.12	3.2.0		41de715dd2bfa1879e9660f2307756b8379adf4d
 org.locationtech.geomesa	geomesa-convert-metrics-ganglia_2.12	3.2.1		e68ee0362b3c616e64345e59e1bcea1fb8736ad8
 org.locationtech.geomesa	geomesa-convert-metrics-ganglia_2.12	3.2.2		c85213833e9d7b62cb6b65d611593bdac99fc38e

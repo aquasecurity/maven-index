@@ -43,6 +43,8 @@ app.cash.tempest	tempest-testing-internal	2025.04.29.222809-664e313		916f99cff2d
 app.cash.tempest	tempest-testing-internal	2025.04.30.143145-e1d5ea6		8dc19354ac7664c6a5f1ad1b42ed23f4bbe62f22
 app.cash.tempest	tempest-testing-internal	2025.05.01.210208-8bac78f		4113b882ec0870911095674ba4dd896c28ebb243
 app.cash.tempest	tempest-testing-internal	2025.05.02.195945-d393c44		be09d71f60f27ce176f09a8b1bc986e23a29a4c5
+app.cash.tempest	tempest-testing-internal	2025.05.06.204520-5d19a8b		ab75c8cf75d39fefe815dfb6b6f07b8b619f6ff7
+app.cash.tempest	tempest-testing-internal	2025.05.08.201657-53a060d		080eb0378e74c249a51a8c9cc1bfff34eeaca725
 au.net.causal.maven.plugins	browserbox-browser-versions	1		0a4e57410da1d3807e73536abb08daac3eec4205
 cn.javaex	htool-http	1.0.0		b5dfcb6fa93f9e375ea1dcca59bad945ebd6b5b7
 cn.javaex	htool-http	1.0.1		45c327b6b82d7622bc430bec30343df34f1801c4
@@ -266,6 +268,10 @@ com.facebook.presto.hadoop	hadoop-apache2	2.7.4-7		a051da0a1adb447de07269d99735e
 com.facebook.presto.hadoop	hadoop-apache2	2.7.4-8		4cf6a3e405ee8adc8d94ca13bf854d0c99e3f89b
 com.facebook.presto.hadoop	hadoop-apache2	2.7.4-9		dd4ff4b0ddfb5dfc3bcd96fd0b4534f2c8f43728
 com.facebook.presto.hadoop	hadoop-apache2	3.2.0-1		437a4e69cb5b6b6687f802c998d75341435725e5
+com.github.atais	sbt-eclipselink-static-weave_2.12_1.0	0.1.0		bab33fbf9991148d037a06ef799a35d9eab4184b
+com.github.atais	sbt-eclipselink-static-weave_2.12_1.0	0.1.1		9564b758c981e9b790d32bdea06ddc88fd52cc9e
+com.github.atais	sbt-eclipselink-static-weave_2.12_1.0	0.1.2		b4417859c72180e07bef7a91d502c49e706c78ad
+com.github.atais	sbt-eclipselink-static-weave_2.12_1.0	0.2.0		01d111bdd49d9c9e36cdc83ca77056c4e963d708
 com.github.davidmoten	rtree-multi	0.1		dc9db6aa9a23c6ff6e06f0e1a5b8351886f9971e
 com.github.davidmoten	rtree-multi	0.1-RC1		542ec09dbd0dc6fcc82396a199f721e1b6c90c7b
 com.github.fomkin	korolev-cats-effect-support_2.11	0.11.0		2ff6e1038502b6574c519fdf53509622de110af0
@@ -2312,6 +2318,7 @@ io.quarkus	quarkus-jdbc-h2	3.15.2		86beac7e49f91c33ad6e1e24ad5f71138c2fe35f
 io.quarkus	quarkus-jdbc-h2	3.15.3		bc2443ad0f6a51f6f7076ba9735dda84cc23ebdd
 io.quarkus	quarkus-jdbc-h2	3.15.3.1		5696d80507c30f5e25954618bea08d4b2f54a030
 io.quarkus	quarkus-jdbc-h2	3.15.4		6ae679ac28df56293bc921a6354f68260aa190a3
+io.quarkus	quarkus-jdbc-h2	3.15.5		91c93baef55a38fb95e088a9429a57c60c635cbf
 io.quarkus	quarkus-jdbc-h2	3.16.0		ce47fd76ba4c9d58297abda6ace3059b2437b62c
 io.quarkus	quarkus-jdbc-h2	3.16.0.CR1		c8003aebbf6375ef004b614b0b1154f19cb68790
 io.quarkus	quarkus-jdbc-h2	3.16.1		68ee3caf57f88a0291ebd5fbe51615995fbdb98a
@@ -2356,6 +2363,7 @@ io.quarkus	quarkus-jdbc-h2	3.2.8.Final		2e3cedb6b112c5869bd8100fbca9f789927d9448
 io.quarkus	quarkus-jdbc-h2	3.2.9.Final		798940ac88f4e3fb2e1bcb42dfa3985fda3a9dd9
 io.quarkus	quarkus-jdbc-h2	3.20.0		a7e71b4dd9942ba8e4e3854808fe2400cd49ed2a
 io.quarkus	quarkus-jdbc-h2	3.20.0.CR1		af1ccbc80092f4f81bbf3097166c40d18f6ddbd6
+io.quarkus	quarkus-jdbc-h2	3.20.1		d35c27bdee279430ac406b647aa9262454f9aa45
 io.quarkus	quarkus-jdbc-h2	3.21.0		16a53ac9aa45ec77eada4b53a0862ccd6a127221
 io.quarkus	quarkus-jdbc-h2	3.21.0.CR1		b0e225e73dde4901d43d72f726427d43b120aac9
 io.quarkus	quarkus-jdbc-h2	3.21.1		a10e5df219ff6aaf9d82c819eccaf0c72b7dbb11
@@ -2365,6 +2373,9 @@ io.quarkus	quarkus-jdbc-h2	3.21.4		f31edfc2bf272aa23d10b6680d20451897081431
 io.quarkus	quarkus-jdbc-h2	3.22.0		8aa14e2c9f9110f796594c684c2b37269629d696
 io.quarkus	quarkus-jdbc-h2	3.22.0.CR1		a9148e756045cc11e3d5905fe45abdc2b4334b54
 io.quarkus	quarkus-jdbc-h2	3.22.1		92584da97b1474cec6e52489746fd3d8406de3e3
+io.quarkus	quarkus-jdbc-h2	3.22.2		6a5fa61ea80c2964b8e5ce28e5734f75d209a1c5
+io.quarkus	quarkus-jdbc-h2	3.22.3		51f414416310031365e30461deda94d9de1dc99d
+io.quarkus	quarkus-jdbc-h2	3.23.0.CR1		fe697f99f98351ecbc3724af501aefa7a3e25208
 io.quarkus	quarkus-jdbc-h2	3.3.0		ae98cf744231c0965b06eadcd1fc07a89dca6641
 io.quarkus	quarkus-jdbc-h2	3.3.0.CR1		9090cd312798ff3e5eb342938cd8f589b83550b5
 io.quarkus	quarkus-jdbc-h2	3.3.1		e50d38d101079732aa81d75ba971727d2e7a383e
@@ -2653,6 +2664,7 @@ org.apache.pekko	pekko-http-cors_2.12	1.0.0		99ab080075583bd68e409b360486f468d23
 org.apache.pekko	pekko-http-cors_2.12	1.0.1		89fec2ad52f7d1a2974618617daf704265a1bb55
 org.apache.pekko	pekko-http-cors_2.12	1.1.0		30ba9efb01e57f2f3d2736fc6929e3744591fc10
 org.apache.pekko	pekko-http-cors_2.12	1.1.0-M1		0c3adf5e92ab12b19bc84d65a0010e7ac7998aee
+org.apache.pekko	pekko-http-cors_2.12	1.2.0		cea776945cf54ecf728011bc6f3a59bd7f35995d
 org.apache.sedona	sedona-spark-3.3_2.12	1.7.0		42e0f0289e105e48e66acb0d39f7a7484787a00b
 org.apache.sedona	sedona-spark-3.3_2.12	1.7.1		dd7d1671bee03863835d82d64104195cbc8d679c
 org.awsutils	common	1.0.1		c87229707ab714db205ff12c0bf22274cf5fd7bd
@@ -2981,6 +2993,7 @@ org.sakaiproject.mailsender	mailsender-tool	1.7.3		N/A
 org.sakaiproject.mailsender	mailsender-tool	1.7.4		N/A
 org.spire-math	spire-extras_2.12	0.13.0		aff80e6fc815dedbd3607ddefc03d105b5ecc3c4
 org.ttgoss.js	mssql_sjs1_3	1.0.0-RC1		3078926e4a2d55d5e45fb755ff2506ffc684ade1
+org.vaslabs.tests	sbt-regression-suite_2.12_1.0	1.0		a42a7ee37396ba31541ce04cd0be8c9c24b0dda9
 org.webjars.npm	riot-compiler	2.5.7		dbe8126972f23f40f76790a60c75d4fd225aee2b
 org.webjars.npm	riot-compiler	3.2.1		1dbcfb066b23abb1aa1751b1ae79cf58e61b8fe2
 org.webjars.npm	riot-compiler	3.2.4		b643b1c12ff37d3efd54e9f1adabb5ad10fa2a93

@@ -77,6 +77,9 @@ ai.platon.pulsar	pulsar-dom	2.2.1		475c8922c2de46c7fb99704c9e273785ed728a70
 ai.platon.pulsar	pulsar-dom	3.0.0		63efa2748024b236ef1126b5bfe9f603b42d9813
 ai.platon.pulsar	pulsar-dom	3.0.2		bbccac86eb46a1e1eff5f14e7584db53d8c4caa4
 ai.platon.pulsar	pulsar-dom	3.0.3		2808c8d9d32b219b5d0688bcdaa3e991aefcfde0
+ai.platon.pulsar	pulsar-dom	3.0.4		844d3a647f62379ad4baca3f6dae24c89c36ddf5
+ai.platon.pulsar	pulsar-dom	3.0.5		42a9e2f4f635b3750544c87d575f3757e8d97e16
+ai.platon.pulsar	pulsar-dom	3.0.6		18b9845013440a092202b68e577dcccae2be2494
 br.gov.frameworkdemoiselle	demoiselle-minimal-parent	2.3.0		N/A
 br.gov.frameworkdemoiselle	demoiselle-minimal-parent	2.3.0-RC2		N/A
 br.gov.frameworkdemoiselle	demoiselle-minimal-parent	2.3.0-RC3		N/A
@@ -980,6 +983,7 @@ com.wavesenterprise	we-contract-sdk-client-local-validator	2.0.0		ba85e641c61ffa
 com.wordnik	swagger-jaxrs-utils_2.10.0-RC3	1.2.0		7b050e95fc09d0bbf9f215ae5a5477f69fde047b
 de.sciss	audiowidgets-swing_2.13.0-RC2	1.14.1		e9b52953b43126dd676b7e8e943eb686c3054f4a
 de.sciss	audiowidgets-swing_2.13.0-RC2	1.14.2		8db6856991ae025adcc9c01e971c6f3dfbe95aa4
+de.sciss	sbt-appbundle_2.9.1_0.11.0	0.10		b6172d0f83ce4f5d89e8120de566eff7f5aed183
 io.fabric8.insight	insight-metrics	1.1.0.Beta1		76bfae7e9c93d23a0469c0f0b8bab6c802b74634
 io.fabric8.insight	insight-metrics	1.1.0.Beta2		715df1f6248b4fe8da2049fd61c042f3c0c1a3ee
 io.fabric8.insight	insight-metrics	1.1.0.Beta3		c1a9c7e16309b6b86263b9c8f8f75d15557bc1ed
@@ -1261,6 +1265,7 @@ io.quarkus	quarkus-awt	3.15.2		ebd845aeaeb34e98bbedd9a56b445be163c7737c
 io.quarkus	quarkus-awt	3.15.3		781e742fe865d7488c301d39b5e9311586778c15
 io.quarkus	quarkus-awt	3.15.3.1		5b7975051ed13f174715fd8dc3608650ac5407a7
 io.quarkus	quarkus-awt	3.15.4		fad7bec93f0774772899b05d87657aa9bc3d6936
+io.quarkus	quarkus-awt	3.15.5		6fb72baf1aa4ba989cb2664ca100830d6c0b8c01
 io.quarkus	quarkus-awt	3.16.0		2f703d55613dcd93799de7787c673e4b59c79092
 io.quarkus	quarkus-awt	3.16.0.CR1		a0bf1d09cffb926621c71d9fa228e53137aa8165
 io.quarkus	quarkus-awt	3.16.1		048a54df520abce425dd81cd40e7368ed84dd013
@@ -1305,6 +1310,7 @@ io.quarkus	quarkus-awt	3.2.8.Final		d78c5d0dabd3d30da7ec17a8ffb0073721acd265
 io.quarkus	quarkus-awt	3.2.9.Final		3ae92a355359483d80aa6649da83433ccaf58300
 io.quarkus	quarkus-awt	3.20.0		fd0a7658eb3a1402c01849772bb5a4b51e3dea43
 io.quarkus	quarkus-awt	3.20.0.CR1		6da9290f465f6870330d69f5db09b33a65d92b50
+io.quarkus	quarkus-awt	3.20.1		c5026df706a2d4719f164d33bc955a75b4a831e1
 io.quarkus	quarkus-awt	3.21.0		d321168b37cdd1a636815689b701388d0634707e
 io.quarkus	quarkus-awt	3.21.0.CR1		1b996ff6076d525a6301c9909f63efbb1c641e91
 io.quarkus	quarkus-awt	3.21.1		975358bb83f11455a74ab80f60d193bd45d6ced5
@@ -1314,6 +1320,9 @@ io.quarkus	quarkus-awt	3.21.4		c2bf81e15483693f6959c5c1abc971d789bd2a1a
 io.quarkus	quarkus-awt	3.22.0		23404271d18778c9a3b5c92613f0434d34c603b9
 io.quarkus	quarkus-awt	3.22.0.CR1		b5ce4fced08908915ab48362d91fdec5d1397c7c
 io.quarkus	quarkus-awt	3.22.1		63330b5a9bbc3511eeb6a29d8fbae1b81b908782
+io.quarkus	quarkus-awt	3.22.2		936fd31f3f059aed9600185ad127b9d6be3842c4
+io.quarkus	quarkus-awt	3.22.3		9b8fdac1702a7f18795cc1d53e5b19232ef50455
+io.quarkus	quarkus-awt	3.23.0.CR1		b621e638d9df8be3a1b45065b779621f51520668
 io.quarkus	quarkus-awt	3.3.0		2858ac5ca2ccc94240ba0cf73f3c8451457de50d
 io.quarkus	quarkus-awt	3.3.0.CR1		956c1a17648ae40255d8771e212f52f67e9de704
 io.quarkus	quarkus-awt	3.3.1		90cec7a55f54093bff628e3e029f9e11888faba9
@@ -1424,11 +1433,19 @@ io.spinnaker.kayenta	kayenta-azure	2.45.0		f6757bd96bac47ff4b8b9f1e16cc373e3c9ed
 io.spinnaker.kayenta	kayenta-azure	2.46.0		f471bc34935f010da44be05865594d8dced90ce0
 io.spinnaker.kayenta	kayenta-azure	2025.0-0		27b92c61b895d48d2f5145d1fadca5f98bf2eb96
 io.spinnaker.kayenta	kayenta-azure	2025.0-1		2d5012d17d9ceef3d1985b7ea92a50afdb43d090
+io.spinnaker.kayenta	kayenta-azure	2025.0-2		9d84556231a9f522fb31cbe5694ea18e0223a154
+io.spinnaker.kayenta	kayenta-azure	2025.0-3		c3a7c5de7a9e5cb203916e4e370c9b7a8ecb7178
+io.spinnaker.kayenta	kayenta-azure	2025.0-4		2138cf68bb05b41b59b7d73290236b5d7508de1d
 io.spinnaker.kayenta	kayenta-azure	2025.0.0		f695d3619b4e4430679536770cf86a6af538a291
+io.spinnaker.kayenta	kayenta-azure	2025.0.1		619672708c237768af1a4b9fb34d03351797ca74
+io.spinnaker.kayenta	kayenta-azure	main-10		3592cc4a3494bb24cee4c5e29ead19c85538d053
+io.spinnaker.kayenta	kayenta-azure	main-11		31de6b891b4abb32f94905ffa3bcb6b4bbbeda95
+io.spinnaker.kayenta	kayenta-azure	main-12		3180366fb4878c06a6ec9fc111585e84e42b0dd7
 io.spinnaker.kayenta	kayenta-azure	main-5		3f64b029d0bebb6cf822891416a3d47e709fe2ce
 io.spinnaker.kayenta	kayenta-azure	main-6		00ed50e82f888c53a5388caf6ad706a5d4f22125
 io.spinnaker.kayenta	kayenta-azure	main-7		68cf348e4dbabd02e3182f5e9ee870cb09e44bec
 io.spinnaker.kayenta	kayenta-azure	main-8		b429f037565ee842e808d749fe5c103dc99a2829
+io.spinnaker.kayenta	kayenta-azure	main-9		068d2680857fc1f7d1ecfebc495521da052a0a5f
 io.zipkin.sparkstreaming	zipkin-sparkstreaming	0.1.0		ad28441f40636853fc0c9f66f42aca70687a8696
 io.zipkin.sparkstreaming	zipkin-sparkstreaming	0.2.0		951ff2ea0f57a5c21906ccd842f95c32538c1592
 io.zipkin.sparkstreaming	zipkin-sparkstreaming	0.3.0		5c9ad60c713a001da3547169572749b737ccb6bc
@@ -1506,6 +1523,7 @@ org.apache.beam	beam-examples-multi-language	2.61.0		470383469277ad273dc33dde942
 org.apache.beam	beam-examples-multi-language	2.62.0		4d447895562b430a399cd88fea7fe1957396d618
 org.apache.beam	beam-examples-multi-language	2.63.0		7b691987f614ac5a8f10597708fe7675c9a8c3fa
 org.apache.beam	beam-examples-multi-language	2.64.0		386a36cda591aa06b85334fe9552c18584d84584
+org.apache.beam	beam-examples-multi-language	2.65.0		63170a76bd1ebe638c74b1568b7b433441a1e911
 org.apache.camel	camel-example-mybatis	2.12.0		ccebc14989e9f064c74e3925e9a4e2f4f56a6b44
 org.apache.camel	camel-example-mybatis	2.12.1		1ab5d721ec5e98689d72a4d5676fd2f827f4f5ed
 org.apache.camel	camel-example-mybatis	2.12.2		9cd65ccbf9317264c61a4eb0868068b84d1d14c2
@@ -1675,6 +1693,7 @@ org.danbrough.ktor	ktor-client-apache-jvm	2.1.1		1aafbadebd327e432b01d9fb3d40114
 org.danbrough.ktor	ktor-client-apache-jvm	2.1.1a		8ce5098867e56887f347140885dfa8d5659026f0
 org.danbrough.ktor	ktor-client-apache-jvm	2.2.3		c806c5e68c38459d51b98831d29c08513e4d8d29
 org.danbrough.ktor	ktor-client-apache-jvm	2.2.4		9ef31734708202128dea45fe9cbc148d03e49b09
+org.dynamoframework	dynamo-angular	4.0.0		4af0a4132abf59595b2d0287cce0162d65da4819
 org.dynamoframework	dynamo-angular	4.0.0-RC1		a008ea2d04ff2e834310476ba1eaf860e7458b9c
 org.dynamoframework	dynamo-angular	4.0.0-RC1	i18n	46394e18f8f03ae86d4ab2a127472b57774fcb01
 org.dynamoframework	dynamo-angular	4.0.0-RC1	model	7163314c95e69517444a0bc64e34519d7940ecd0
@@ -3793,7 +3812,18 @@ software.amazon.awssdk	eventbridge	2.31.30		b3e46be02ec572d5120da13b425d9197bcd7
 software.amazon.awssdk	eventbridge	2.31.31		a25445fb3c8a7c180a2f7895963d419e58c80a82
 software.amazon.awssdk	eventbridge	2.31.32		95a470d07ff98cb6f3b8f39680c5641103dfc945
 software.amazon.awssdk	eventbridge	2.31.33		112461e7b87b182275e335ccf7d5b55494cbc873
+software.amazon.awssdk	eventbridge	2.31.34		c1ffdb567329bffd67df197c5f92c4a85f8b0032
+software.amazon.awssdk	eventbridge	2.31.35		39181f7ff81c34a8aa10b01e95aa3914636a8d0e
+software.amazon.awssdk	eventbridge	2.31.36		56c0b3f3e477546e7d337c9b0ea7d3574ef67d32
+software.amazon.awssdk	eventbridge	2.31.37		28f318a67e339e99589a104d33e3c9ac6e45a458
+software.amazon.awssdk	eventbridge	2.31.38		4825dee8428198077d9725f291675702ff573ab5
+software.amazon.awssdk	eventbridge	2.31.39		2b4c4905e38b26353c4c3709ce0e8e24aa83928d
 software.amazon.awssdk	eventbridge	2.31.4		053814a39119ebec1c4ca3955460a25c80ea3c11
+software.amazon.awssdk	eventbridge	2.31.40		acf7bc88a1f8d3c6c2d0b0db1b9f2c8d9bbaa9c6
+software.amazon.awssdk	eventbridge	2.31.41		f50ceb8fa87c20b8bde2af75ec6e9ea2574de7ac
+software.amazon.awssdk	eventbridge	2.31.42		d6f4b92acde104003ba6b79429de550833cc7396
+software.amazon.awssdk	eventbridge	2.31.43		24dd7fa0e9ef2a8c45937075855156ae4cd32133
+software.amazon.awssdk	eventbridge	2.31.44		48259a1e59e2d06abfe0dc00019f97ac204fec4a
 software.amazon.awssdk	eventbridge	2.31.5		f66eb2726bdbe621ea5f5c622fbd3183bb4f8f87
 software.amazon.awssdk	eventbridge	2.31.6		54b6878461b0ee3a18f7057d57622de95a15b0b6
 software.amazon.awssdk	eventbridge	2.31.7		6a70f94e938ae3fbf2bbf286b10d80e77df5bf97

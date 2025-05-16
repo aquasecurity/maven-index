@@ -203,6 +203,8 @@ com.google.cloud	google-cloud-cloudcontrolspartner	0.22.0		005f04d8bb6302550b92d
 com.google.cloud	google-cloud-cloudcontrolspartner	0.23.0		50c3b409da6962ea66f5a2e06b353e6627d0ef57
 com.google.cloud	google-cloud-cloudcontrolspartner	0.24.0		9fc8c9f8f93fc56c1c312142a6a75e977d4311c0
 com.google.cloud	google-cloud-cloudcontrolspartner	0.25.0		9ae416ac0b81403662f4dc0ff9ce7031204c1d21
+com.google.cloud	google-cloud-cloudcontrolspartner	0.26.0		e79e9be1e5c8ea74fd3ef3767891b23112d1a5c5
+com.google.cloud	google-cloud-cloudcontrolspartner	0.27.0		95159b539e487b2476851e7757c08a523e49714b
 com.google.cloud	google-cloud-cloudcontrolspartner	0.3.0		f4d319ae392132521a045b84fb656af699e93e90
 com.google.cloud	google-cloud-cloudcontrolspartner	0.4.0		236462c84c7cf8c007c01dc1fc340a513f56b788
 com.google.cloud	google-cloud-cloudcontrolspartner	0.5.0		1dbe2492d81c2e900e4ceacf38e95c080df0cd39
@@ -221,6 +223,7 @@ com.jd.live	joylive-transmission-rabbitmq5	1.5.0		8ed913451f172fff4808baf61ad8c6
 com.jd.live	joylive-transmission-rabbitmq5	1.5.1		99c9e65d1779d96137a3b248de7b85aa87fd687b
 com.jd.live	joylive-transmission-rabbitmq5	1.5.2		01d0279425800b474c87f26ae70fed8d6aedb2b9
 com.jd.live	joylive-transmission-rabbitmq5	1.6.0		582aa6c7a253cb254e8d95c990d17ca372a877a1
+com.jd.live	joylive-transmission-rabbitmq5	1.7.0		78418209100e0760253d5d01db2ca9a698f4668a
 com.kalman03	gateway-core	1.0.0		2c3f40f4d8b57be1f90be480045df9226b3017f6
 com.kalman03	gateway-core	1.1.0		fba924569cb0935d988d48a3773467bc9b6f7b01
 com.kalman03	gateway-core	1.2.0		42aa7ba33b9fd694c0163fec57946d1822df3949
@@ -304,7 +307,14 @@ com.rollbar	rollbar-testing	0.5.2		a02adbc35f9ef9bb2df56b3cea7aaeaeae16ddb7
 com.rollbar	rollbar-testing	0.5.3		9c63813c121484b2660f3b0452d005ae4ceacb5d
 com.rollbar	rollbar-testing	0.5.4		16e80bc475d64445e7ed7939849ad74ae43acb92
 com.ruimo	graphics_2.12	1.15		fa6c8f015668d4872ec60e8e097faba9e290f834
+com.typesafe.play	sbt-twirl_2.12_1.0	1.5.2		5ba2b909ae933bb23ab9ea4ce9b4e734f4f83ea1
 com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0		2ba490c0a732b341e2cfb10b60435dbfe1cca6e4
+com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-M1		4885b6423665329696a7a1fd8afd5ec5f394d9dd
+com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-M4		d6d71f3a0f45a668288fea851d5848f51fc34a97
+com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-M6		a3319fa710f1e9bd4ab97398655a8f32c8a9f2da
+com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-M7		5f088747b0b1f1543187eb8f74e45f516f937a4a
+com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-RC1		cce87d2774be2c96d3f36886f80f11bc7c7f0a41
+com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-RC2		6ed33a22e44f195fa1076082be853fb658ac7c0f
 com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-RC3		608fdadfc9b1702c9224e7c3949b01e097dbd576
 com.typesafe.play	sbt-twirl_2.12_1.0	1.6.0-RC4		9d4c0d6fc3b8b347662f04b9ed34fe442e418800
 com.typesafe.play	sbt-twirl_2.12_1.0	1.6.1		6228045e147d991d6c5db1771d4e5e26cfe744d5
@@ -538,6 +548,7 @@ io.helidon.common	helidon-common-parameters	4.1.6		fd7fc2cb35c24081295dd06deec80
 io.helidon.common	helidon-common-parameters	4.1.7		d4fd891f4615e941c13487f9ea9c39716b57dea7
 io.helidon.common	helidon-common-parameters	4.2.0		1f7aba5173162d0683100e248abb033c13321dbc
 io.helidon.common	helidon-common-parameters	4.2.1		cdd659d5e7a0d13d0d8ff6aa2b5e91bd7aff8da4
+io.helidon.common	helidon-common-parameters	4.2.2		5c45e50e24814889b6064ba860097332cb810eeb
 io.inversion	inversion-context	0.10.1		bb0d7af784125c0c183522d3294334a8573bc676
 io.inversion	inversion-context	0.10.2		7ea6cd063a1130fddd8243fa8fecd59a50ddaec9
 io.iteratee	iteratee-testing_sjs1_2.13	0.20.0		cf343cc262b2a16ea206db646d4807bf4e71d9e5
@@ -599,6 +610,7 @@ io.ktor	ktor-serialization-kotlinx-cbor-jvm	3.0.3		2121267b950ace2229535ff77e0db
 io.ktor	ktor-serialization-kotlinx-cbor-jvm	3.1.0		c9f629194a890330a3e21b9f25a332b7e0df5b8f
 io.ktor	ktor-serialization-kotlinx-cbor-jvm	3.1.1		3142921b7f2e1eb7bf6affbf4ac327f9152ff94f
 io.ktor	ktor-serialization-kotlinx-cbor-jvm	3.1.2		e4d2227415afc71b14ec324e9a0c463077ce9096
+io.ktor	ktor-serialization-kotlinx-cbor-jvm	3.1.3		53ad3ca5ad8849cd29e10c703fa174ab58a908be
 io.mraa.at.upm	upm_apds9002	1.2.0		N/A
 io.mraa.at.upm	upm_apds9002	1.3.0		N/A
 io.mraa.at.upm	upm_apds9002	1.5.0		N/A
@@ -711,6 +723,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.2.1		
 org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.2.2		3c60c9aeb7f799d77f991ac1f094f65f4cb44a17
 org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.2.3		144e91b2f237f2bc18965f789725bf0dfb7c7ed4
 org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.20.0		3d7c95c3ffcca167ae6bb85d6a18e0fc3e4ccd14
+org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.20.1		244c66e33341960833dd69a679ed379824780898
 org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.22.0		f775bf908b028b117e9beb0d68d1636caf27c463
 org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.4.0		ab73f12dbb9b4f972d888a553f271aedf2061760
 org.apache.camel.quarkus	camel-quarkus-integration-test-cxf-soap-grouped	3.5.0		4203802a37dcdbde6163ae18c894b649915b5a47
@@ -791,6 +804,9 @@ org.daisy.pipeline.modules	dtbook-utils	5.1.0	xprocdoc	7e03d5a97fdaf3c9b3914a792
 org.daisy.pipeline.modules	dtbook-utils	5.1.1		f671ac67a5066fa72f533479530387c7e22a30c4
 org.daisy.pipeline.modules	dtbook-utils	5.1.1	doc	53dfb4f4d19b6c69b1ad617f0b37f190853df50a
 org.daisy.pipeline.modules	dtbook-utils	5.1.1	xprocdoc	20d4097e3ba99390faf7bdcd031052729e27cbaf
+org.daisy.pipeline.modules	dtbook-utils	5.1.2		b6e847e4ce61c17563a2f5e503618fc178e9c113
+org.daisy.pipeline.modules	dtbook-utils	5.1.2	doc	428f348fc3141626ad9614c770e60ee62c616fa6
+org.daisy.pipeline.modules	dtbook-utils	5.1.2	xprocdoc	f6aedbc9225e216dd5eeee8905f98518d1bea965
 org.eclipse.kuksa	kuksa-sdk	0.1.2		N/A
 org.eclipse.kuksa	kuksa-sdk	0.1.3		N/A
 org.eclipse.kuksa	kuksa-sdk	0.2.1		N/A

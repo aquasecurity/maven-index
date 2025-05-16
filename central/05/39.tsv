@@ -83,6 +83,7 @@ ai.chronon	online_2.12	0.0.92		ccdfefcb3aeb60616e598bb1c428d9ca53db9967
 ai.chronon	online_2.12	0.0.93		9afdf679d767937a7032e80db88deb7f8a453ca7
 ai.chronon	online_2.12	0.0.94		844fc9d8c2992a56229036299d8b244472c4dfdf
 ai.chronon	online_2.12	0.0.95		db88228f7c10deb243b7e1709d4dfa2727dd6c14
+ai.chronon	online_2.12	0.0.96		9195a555c24fae6c03375ed3c1c5eb2fa8180c47
 ai.chronon	online_2.12	13_publish-0.0.12		29fd997ad2002093852d1cd0b4f0b9c47bc9b685
 ai.chronon	online_2.12	chaining-0.0.46-dev		223cb8c6617f50b427996db84070a2177e3ce0dc
 ai.chronon	online_2.12	def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91		2aa948b74c4152b394b93df96d8747942901cf5b
@@ -988,6 +989,7 @@ io.quarkus	quarkus-junit5	3.15.2		2a0512280c4123c172be13851a9bf1debc91c43a
 io.quarkus	quarkus-junit5	3.15.3		bfff399e28ba65ede485726c69c95e6b0fb41a1b
 io.quarkus	quarkus-junit5	3.15.3.1		abd0f49711d28c3261c7cd6f32babacf016c422a
 io.quarkus	quarkus-junit5	3.15.4		96a3f0beaf51ad89d362e85a0671382a0a0db48d
+io.quarkus	quarkus-junit5	3.15.5		4dd03c129f1fc50e34e163a2d543df4610fc91da
 io.quarkus	quarkus-junit5	3.16.0		26369c22d4cbfb2dcd913a6550f092218b0d0ab5
 io.quarkus	quarkus-junit5	3.16.0.CR1		ffb91f0fb91f5ad6e2d3ea18104edecf9a93d5b8
 io.quarkus	quarkus-junit5	3.16.1		d31c61a0471473d68fbfa4d71fa8636174574106
@@ -1032,6 +1034,7 @@ io.quarkus	quarkus-junit5	3.2.8.Final		ac1f3031a318ebb6a439f851d32ca8c5113c2b59
 io.quarkus	quarkus-junit5	3.2.9.Final		948b8f0e4801f40777f33393eb65a836cb83b86e
 io.quarkus	quarkus-junit5	3.20.0		ed8b575c7095579ef47878688ce95cebb9d9915c
 io.quarkus	quarkus-junit5	3.20.0.CR1		b749a33b4e38b1f32c2554b9cd760c3bfa5b4c39
+io.quarkus	quarkus-junit5	3.20.1		b92d48154e4f3619d29c93ede126ab493416b08a
 io.quarkus	quarkus-junit5	3.21.0		1b1bac6058181724d6458fc34186591a7a5e5774
 io.quarkus	quarkus-junit5	3.21.0.CR1		eb16f1ae6da973ab9ec330c3e541fbb717df4acb
 io.quarkus	quarkus-junit5	3.21.1		3f53424fc297a67c4f8efdabaef8a850d4ee52ae
@@ -1041,6 +1044,9 @@ io.quarkus	quarkus-junit5	3.21.4		60abf5ba997ea57b0705a2c01fc346f5c2727b05
 io.quarkus	quarkus-junit5	3.22.0		1fd90c4185cbb244ed794ac8ee938c87297d4543
 io.quarkus	quarkus-junit5	3.22.0.CR1		6f16eef32d69ea561cf79466a6fdeb636bef0fc6
 io.quarkus	quarkus-junit5	3.22.1		873e623392c1ba9b6e9c471559b50c84098ee243
+io.quarkus	quarkus-junit5	3.22.2		fb49eea1acf411195b42fe74e03d6abf9f927834
+io.quarkus	quarkus-junit5	3.22.3		e228692bd0062289dc5c037896fcc5a9420f7021
+io.quarkus	quarkus-junit5	3.23.0.CR1		9b1ff1e851e7a5a14fdde5b2e3dd32ba144bea6c
 io.quarkus	quarkus-junit5	3.3.0		58602e1a752a4beef93778e7d33ce5198b1030e2
 io.quarkus	quarkus-junit5	3.3.0.CR1		744be40eeff0ebbc3fbfe20624e973bddfac7e0f
 io.quarkus	quarkus-junit5	3.3.1		8b2936946b4d128c4ea827502c2058e85d658a50
@@ -1579,6 +1585,7 @@ org.apiaddicts.apitools.apigen	archetype-core	1.0.1		608c5013f6a18137845f0708dae
 org.apiaddicts.apitools.apigen	archetype-core	1.1.0		ef594d1db1d8ef1ec2d46d412921157a8168c3cb
 org.apiaddicts.apitools.apigen	archetype-core	1.1.1		40f932058dd3745007d0a559f9aedc03d463b761
 org.apiaddicts.apitools.apigen	archetype-core	1.1.2		7bf785c95658a8830a6be4bf69df315590c8089a
+org.apiaddicts.apitools.apigen	archetype-core	1.1.3		2498f1cc28c31ae28501ac6fcc3ce21294bfe4eb
 org.assertj	assertj-swing-jide	1.1.0		fb3fb44f31a086c7535b5c5a513d24f4f40fcbf3
 org.assertj	assertj-swing-jide	1.2.0		d1316bbe8740584a8c7677676c5d929d3d9d277b
 org.assertj	assertj-swing-jide	2.0.0		f7a1720beecf8bd778f82267569bf07218920ff7
@@ -1750,4 +1757,5 @@ software.visionary	loial	2023.02.06	loial	1a7b47b6b027a018c22076d25957a125d9668c
 software.visionary	loial	2024.08.20		N/A
 software.visionary	loial	2024.08.20	loial	8c56f70d43ea018e19041f835ac25d442b6286a6
 software.visionary	loial	2025.03.28		N/A
+software.visionary	loial	2025.03.28	software.visionary	084a28b334ff1b409e3795ff1c9f4bf3e879774f
 uk.gov.hmrc	time-beta_2.12	3.22.0		313353496962b11534ca5a7f2f2bad5968b4e076

@@ -768,6 +768,9 @@ com.sparkutils	dmn-4-spark_3.2.1.oss_3.2_2.12	0.0.1-RC2		dcb005c5f4500fb446348cd
 com.sparkutils	dmn-4-spark_3.2.1.oss_3.2_2.12	0.0.1-RC3		9b6a2a2e8e9d4ee232ad0d4bb8b1eeb9eb21a2c3
 com.sparkutils	dmn-4-spark_3.2.1.oss_3.2_2.12	0.0.1-RC4		e22d2b57782519c0677f48930fc816691c4b9f2a
 com.sparkutils	dmn-4-spark_3.2.1.oss_3.2_2.12	0.0.1-RC5		05c7628de4903c8d594d0b94dd5fd5c71ca06397
+com.sparkutils	dmn-4-spark_3.2.1.oss_3.2_2.12	0.0.1-RC6		4652a2de963ab770f5f94bf8fd13ff36cd535ae2
+com.sparkutils	dmn-4-spark_3.2.1.oss_3.2_2.12	0.0.1-RC7		e121413185b544619552ffabf7539f6793002b74
+com.sparkutils	dmn-4-spark_3.2.1.oss_3.2_2.12	0.0.1-RC8		4663689512b9b25bcbff303dff8111818bc2227a
 com.typesafe.akka	akka-distributed-data_2.13.0-M5	2.5.19		bad5cf2a51714d449951ea93bd74b408853ce13f
 com.typesafe.akka	akka-distributed-data_2.13.0-M5	2.5.20		2c3cf9917d58aa6545311695b3d7c8a75b032900
 com.typesafe.akka	akka-distributed-data_2.13.0-M5	2.5.21		20014c7f86ee3d5bbb0e7793bf2df7ebf4fbf5bc
@@ -1182,6 +1185,7 @@ dev.zio	zio-aws-cloudfront_2.13	7.31.27.1		597fbfd0a11e8255171ac06648ec248b68be5
 dev.zio	zio-aws-cloudfront_2.13	7.31.28.1		81b4d0a103e2bd8a958027805401f709786daf52
 dev.zio	zio-aws-cloudfront_2.13	7.31.3.1		e3d6b547916db082b28ff92896cc641d02283cf5
 dev.zio	zio-aws-cloudfront_2.13	7.31.30.1		4e79864229361c6f52cb2156c1349cdbbfc236eb
+dev.zio	zio-aws-cloudfront_2.13	7.31.30.2		82be20726290864910a68503becbfea5a037eb28
 dev.zio	zio-aws-cloudfront_2.13	7.31.4.1		5924f08e4424862e60cd853c97bd81719157f7dd
 dev.zio	zio-aws-cloudfront_2.13	7.31.6.1		142bcc1d92d1daedec1c4deb184e5c48131210d8
 dev.zio	zio-aws-cloudfront_2.13	7.31.6.2		fe383c291e1806fd77132a0a24230285f4605fd9
@@ -1465,6 +1469,7 @@ io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.4.25		0be28b198bfb709ac47e8c4f2152284014a7bbed
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.4.26		8dbed23ea417f7a59a3ae0e1ce1813569735db52
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.4.27		481624372ec862043e669c49cc88b14ba45c1c16
+io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.4.28		3fe95b9ca0b76dad206313a3c9f870bf045d4eda
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.4.3		9393d9f7982f6b0b91fc7ce75672728c23a80575
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.4.4		14098b8c4ebd600ba6189b6613442cab0dd6fc17
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.4.5		20b729d33c89b9e2fe9a6d0d0472c48b02236bd5
@@ -1482,6 +1487,7 @@ io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.5.14		57e14145f9a740122918d1d0be5f213141ceb67e
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.5.15		69b77308ce70aabe2f10f503f830590c47fe9b6a
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.5.16		a1e1b660d89cad293050d1f082094f8a0875481e
+io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.5.17		fa580dc7fdd06aafa8bacda1408b167ced9e5684
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.5.2		38aa40d7d596f07abaf24316493d10abea89109d
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.5.3		e932c65b8c408556d7c08b2b325c576be5d30ed5
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.5.4		7607ca68ff8b1adec1560a1058c3d197efbcad41
@@ -1494,6 +1500,7 @@ io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.6.0-alpha.3		0ec67a26d8f57759d11e9d6364798482c2745cb2
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.6.1		0ff6bb76ec3751e7e8a22f6bd9c7effe06bf516e
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.6.10		19dbe780cf85bfa1409fef96fef3bbdff3b0006d
+io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.6.11		34816baf6e152d0337ee607142808c3c831c26b3
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.6.2		5d16ef693546dab97ca87878b96d3db44e5d47ba
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.6.3		2d45eecb3a35549aabfc07f5bcdc9f5153d68a88
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.6.4		653ee8c531bdbed97f52f2c312a1403eaa3a2c88
@@ -1510,6 +1517,7 @@ io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.7.2		01507d0769df2405146a0a24e3499f6507db200a
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.7.3		db0cf2c241149ef9c85693384270367fdc7f85a9
 io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.7.4		00925fdb500a7174ebe7d6a65c07ef998a9082b2
+io.gravitee.apim.plugin.entrypoint	gravitee-apim-plugin-entrypoint-http-proxy	4.7.5		823da0a30fc04d8c0b0ae689116b76f0038a27e5
 io.guise	guise-framework	0.1.0		7b1e10c06bebe151fc5b8ff3627e0e9353718842
 io.guise	guise-framework	0.2.0		18de4f1a842402023551e1bb1710c17b7c829964
 io.guise	guise-framework	0.3.0		0f3e68741ba881d5e098c4bd8a16ea97e4ebee0d
@@ -1769,6 +1777,7 @@ org.apache.camel	camel-splunk-hec	4.8.3		5ab263c5d477cd168e964d7029b100ed384752f
 org.apache.camel	camel-splunk-hec	4.8.4		c3661a5021ce0f4cf6800f0fc4cee963b96b90ce
 org.apache.camel	camel-splunk-hec	4.8.5		83d9d2077ec59366e0290c99021ceec27a722852
 org.apache.camel	camel-splunk-hec	4.8.6		51ed6f0463cd5c0892054cf53208a95a24fabe3a
+org.apache.camel	camel-splunk-hec	4.8.7		792c2b87abf9d6732f6ba7e83435987f60b89cda
 org.apache.camel	camel-splunk-hec	4.9.0		82c494241253d15c17863ca67f9c25b18013e1d0
 org.apache.camel	camel-swing	1.3.0		feae65914604c4604e7ac0d23a9ed461beab6826
 org.apache.camel	camel-swing	1.4.0		ed30742c510bae0aa466a4904926312b0e9d22e9
@@ -1839,6 +1848,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.2.1		49
 org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.2.2		93c58300a979f9b4eb272882dac48f66042a2eac
 org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.2.3		416ff837c8fb5a102b6d1bd5d5ba1337b25a1c38
 org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.20.0		11d29b6820838610454bed97c361d80a80f07279
+org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.20.1		bf63b205c9abc531ea56522e913139a4c2fb294e
 org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.22.0		98a4b7ff8c9cd0447d6f895329138dfb557bb4a2
 org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.4.0		b90e7e84d31656400505bbf6bef5f75a7166a252
 org.apache.camel.quarkus	camel-quarkus-integration-test-json-validator	3.5.0		12a6d67caee8ef79332d34b07040a93c6ff2201c

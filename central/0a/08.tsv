@@ -302,6 +302,7 @@ com.google.apis	google-api-services-notebooks	v1-rev20240820-2.0.0		f836abb1e677
 com.google.apis	google-api-services-notebooks	v1-rev20240918-2.0.0		537141aea35a98a3250bc4f548dd2a25dbd085c4
 com.google.apis	google-api-services-notebooks	v1-rev20241016-2.0.0		85cb9b039c6d8653689f7ee3a35fbdef5edcd66e
 com.google.apis	google-api-services-notebooks	v1-rev20241204-2.0.0		7185a762151b6b29f83d5a9e36702f4cb2c645a8
+com.google.apis	google-api-services-notebooks	v1-rev20250430-2.0.0		fff615c857b5cf04720bf1ecfcc44d7632ea25a8
 com.google.apis	google-api-services-notebooks	v2-rev20230307-2.0.0		62ac046f5185edf00237c2d23457d9a6e5d7250e
 com.google.apis	google-api-services-notebooks	v2-rev20230420-2.0.0		c1f8709064cda81fe92647d448f89842bf6f0a66
 com.google.apis	google-api-services-notebooks	v2-rev20230720-2.0.0		b91a9311f957726bb42fed387d93987560b3ae90
@@ -320,6 +321,8 @@ com.google.apis	google-api-services-notebooks	v2-rev20241016-2.0.0		af5ffd6b227e
 com.google.apis	google-api-services-notebooks	v2-rev20241204-2.0.0		1299a92a2fec4910a0a53007c017ce5e9118d525
 com.google.apis	google-api-services-notebooks	v2-rev20250101-2.0.0		2e05173607b6485d590ff32c5232cf6b14b04bbf
 com.google.apis	google-api-services-notebooks	v2-rev20250319-2.0.0		9442817fc250dafbb0806a1180c10204b353db8a
+com.google.apis	google-api-services-notebooks	v2-rev20250430-2.0.0		d8d151fccde957bcb27830ead30f8a38f75ff940
+com.google.apis	google-api-services-notebooks	v2-rev20250507-2.0.0		602a37d1def7361690847e751db7222d502ddd49
 com.googlecode.xmlblackbox	xmlblackbox	2.8.28		5c6f87a85819107ab52dae85c35990218ed0fd6f
 com.googlecode.xmlblackbox	xmlblackbox	3.0.0		fa8e9a1f91cd4509130b071c87fbebed2a264ee2
 com.googlecode.xmlblackbox	xmlblackbox	3.0.1		211e261c791b2d4ed470a5a5089761fd10dd9f49
@@ -922,6 +925,7 @@ io.quarkus	quarkus-rest-client	3.15.2		fffc0388f260a9ccb988b514148b057d7796c4d8
 io.quarkus	quarkus-rest-client	3.15.3		b874933af94e6f057e2fe37225ca577bdb156866
 io.quarkus	quarkus-rest-client	3.15.3.1		d398686eeaf3cc0606d14948834816bba4ab152a
 io.quarkus	quarkus-rest-client	3.15.4		a2015b7b99cb3a35b8dc52c2f1b12240f0f0dc1c
+io.quarkus	quarkus-rest-client	3.15.5		5b67dd39cdce9b2227001a360bb7e266607f938c
 io.quarkus	quarkus-rest-client	3.16.0		06840f3a9825ae4ef96bae3b859c00473ef7a20b
 io.quarkus	quarkus-rest-client	3.16.0.CR1		d73c12b997799330a220d8965eb1ef94ae4268d3
 io.quarkus	quarkus-rest-client	3.16.1		2fd800dadaae848e0cabbfd15686546df9c5e79a
@@ -966,6 +970,7 @@ io.quarkus	quarkus-rest-client	3.2.8.Final		bee32e591a4bcc5ab7df9a6a386dfa16ffa2
 io.quarkus	quarkus-rest-client	3.2.9.Final		684e50cd601860040a0c0e7d50483406937dd4bd
 io.quarkus	quarkus-rest-client	3.20.0		93ee2c66a17611a2a324d3d01058f512921fe97d
 io.quarkus	quarkus-rest-client	3.20.0.CR1		cf52a3569ce4822203af8c19b0ed02c28ec4bba0
+io.quarkus	quarkus-rest-client	3.20.1		d2162f917f07ea0a2a9a6949e8072c0ad5aa1ee2
 io.quarkus	quarkus-rest-client	3.21.0		2dda57bf76ab2fc1180c1cff5d925233c9d10c79
 io.quarkus	quarkus-rest-client	3.21.0.CR1		7bc527a28796d08aa66e9c3bc340343e27112bb5
 io.quarkus	quarkus-rest-client	3.21.1		1930f768fd7678569f782778ede2b7aa359550f2
@@ -975,6 +980,9 @@ io.quarkus	quarkus-rest-client	3.21.4		1d018e14b217fa35d7f223a30d182a23badca248
 io.quarkus	quarkus-rest-client	3.22.0		5416d94cacc584b8a45f0b77f6d5f82c77ef23f3
 io.quarkus	quarkus-rest-client	3.22.0.CR1		c2d9b8a735e5ad1a86102ff0b914cc22d3496d02
 io.quarkus	quarkus-rest-client	3.22.1		2aa50b3938e919b6e5e6b54d049f7045115f5d9e
+io.quarkus	quarkus-rest-client	3.22.2		a7d8b37a3b6144e69d8f9fa6c4a0cdd8b803bc70
+io.quarkus	quarkus-rest-client	3.22.3		b7dfb2cd3145e5098e3673e0a63f5a5d083e5742
+io.quarkus	quarkus-rest-client	3.23.0.CR1		6e2cc2fe898a5c2462463bdc9b820db16c955949
 io.quarkus	quarkus-rest-client	3.3.0		9996887b12dcdf306cbff2ef3570e1ff73b29003
 io.quarkus	quarkus-rest-client	3.3.0.CR1		becd92abace9de92da852cbc799bc88892685621
 io.quarkus	quarkus-rest-client	3.3.1		808951e3c7d791ab72d3def4d2caa6787b7a37b4
@@ -1756,6 +1764,7 @@ org.apereo.cas	cas-server-core-api-validation	7.2.0-RC6		cde9098a7c815374b4e575b
 org.apereo.cas	cas-server-core-api-validation	7.2.0-RC6	resources	816ac0cde319f201dfa1540a46d9bcdc0f7f2368
 org.apereo.cas	cas-server-core-api-validation	7.2.1		7ffa41118ef8420994e51db480a3d6e404dbb66c
 org.apereo.cas	cas-server-core-api-validation	7.2.1	resources	91271949b38daaff970083d864b7ac1116640203
+org.apereo.cas	cas-server-core-api-validation	7.2.2		f5a48016c7a91246755d03b925e251240092acf4
 org.apereo.cas	cas-server-core-api-validation	7.3.0-RC1		d2282d2284da153fdcbd23984f7c57620002047a
 org.apereo.cas	cas-server-core-api-validation	7.3.0-RC1	resources	5c4c55f63a19bff348166c28fa61790a0986ce54
 org.apereo.cas	cas-server-core-api-validation	v6.4.0-RC5		40d017ceb8a6b824d105a09d99439516508c42f3
@@ -1910,9 +1919,23 @@ org.mvnpm.at.stdlib	utils-constructor-name	0.0.8		8d3da7a39ad8a4c1d09135dd635a29
 org.restcomm.media.core	codec	8.0.0-20		N/A
 org.restcomm.media.core	codec	8.0.0-21		N/A
 org.scala-stm	scala-stm_3.0.0-M3	0.11.0		47aa78e5af1021a1c22f5be583d549f0a644ae0a
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.1.0		89b747c611c92e094df85e0fce1cc0fe7250ab9a
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.2.0		f58a6b33b37530fcf3fcbbc413a403d278f16112
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.2.1		7b2cc6615384276f229a9ca05d5549182defb717
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.3.0		49d90848301483f0c626928ce742c2b52576f6b6
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.3.1		9212bc83c7e08b16eb217c2a9e25791f6926e89d
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.3.2		6e093701f7c94a8d75904422d0c0f47a61d69e81
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.4.0		66a3417a6639e5e44028ab30dfb06ed8ba217b3b
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.5.0		e9b4b2248fd01ff4548fa41c36881f12aeb7ec71
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.6.0		4d3f7101f7f2796949ef3c6f77cd5cbcfd06e5c8
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.7.0		bbc521f78cb44c74080ca82097dac4b6a868c855
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.8.0		356a613ea84be11fb2064324d9bc80c3d5fdebef
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	0.9.0		9c63ffbf9aff1b3795722e1a9bc99400d3ba9189
+org.scommons.sbt	sbt-scommons-plugin_2.12_1.0	1.0.0		52a9168c0f441c4ad3f9240b7bc9b1a5c9a6b616
 org.specs2	specs2-common_2.13.0-RC2	4.5.1		813d1c4a8fb7206d70576f7c76cac5ac305ad7dd
 org.typelevel	scalaz-contrib-210_2.11	0.2		0cb99c487de10f3e384665cafae27c62327362a0
 org.webjars.npm	comunica__actor-query-operation-path-zero-or-more	1.8.0		0b3239d0ef6af107ed09743e5c4310b7ef8491e6
+org.webjars.npm	envelop__core	5.2.3		665275b0594a9ec781d6706c1359bb2887f0974d
 org.webjars.npm	jquery.browser	0.0.7		673a4c6d8d3ab3f71baf0c056a46c9eca9d2b2ee
 org.webjars.npm	jquery.browser	0.0.8		e22256e9363d42aa7b8800d044e7c5d3cb6094d7
 org.webjars.npm	jquery.browser	0.1.0		dc2849bf44e696f0676b1ba6930669c168e232a9

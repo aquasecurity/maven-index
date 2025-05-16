@@ -141,6 +141,7 @@ com.google.apis	google-api-services-playintegrity	v1-rev20240813-2.0.0		b35e3c3a
 com.google.apis	google-api-services-playintegrity	v1-rev20241119-2.0.0		557319ef82b301c181b3ac522883aabb80190e97
 com.google.apis	google-api-services-playintegrity	v1-rev20241127-2.0.0		aed71c66b69fad38e469963ce14648c9930ca560
 com.google.apis	google-api-services-playintegrity	v1-rev20250223-2.0.0		41da263429b4aa936bb892076fc792b65bb62cb2
+com.google.apis	google-api-services-playintegrity	v1-rev20250514-2.0.0		ab165f27e4f06c3e92b69648d3f9a9ea8cb9a729
 com.groupon.sparklint	sparklint-spark202_2.11	1.0.10		e2dd6b0c78c501a06a7336940bb0acc4dfe307e0
 com.groupon.sparklint	sparklint-spark202_2.11	1.0.11		99fac117a9f2109bd3cc267d9b05f3e25568026b
 com.groupon.sparklint	sparklint-spark202_2.11	1.0.12		662f9ed0d9d252c0e3a21253eeef246b870a78ec
@@ -415,6 +416,7 @@ com.xlrit.gears.runtime	gears-runtime-engine	1.18.8		f605dba32693efc1042a77554a7
 com.xlrit.gears.runtime	gears-runtime-engine	1.18.9		ce3d5de6cb3b8327a4f29789ac3b608660a0389b
 com.xlrit.gears.runtime	gears-runtime-engine	1.19.0		1dafc78a32c42f7335d5a74c34a260273dbba83d
 com.xlrit.gears.runtime	gears-runtime-engine	1.19.1		14020355ee77d4c9cb3d52bee318f824d1e6d375
+com.xlrit.gears.runtime	gears-runtime-engine	1.19.2		400660359feaf6217419fa24aa39ec2b02566ece
 com.xlrit.gears.runtime	gears-runtime-engine	1.2		d2a9246ebc6a504ad6edac171183e5a773f8c35f
 com.xlrit.gears.runtime	gears-runtime-engine	1.3		5361405ce2ec61276c64ea1d1af6c21aeb2760d8
 com.xlrit.gears.runtime	gears-runtime-engine	1.4		0cd18f27ada9c4ab94f896f4a6ad7e9394ee5494
@@ -1350,6 +1352,7 @@ org.scalameta	metac_2.12.18	4.13.2		c66c67f75fb2954b9749aa413e18054a7caf82f7
 org.scalameta	metac_2.12.18	4.13.3		5c252a74c114c8a92e7d9e17e3c631a78276ba57
 org.scalameta	metac_2.12.18	4.13.4		a342c9481c2e382a87e0c25ec1888bea7fbaae4e
 org.scalameta	metac_2.12.18	4.13.5		4d36b9606100fac95e7cea23894f68945cafabf8
+org.scalameta	metac_2.12.18	4.13.6		aead23118262caffcaadf5007e038ec18091ea9b
 org.scalameta	metac_2.12.18	4.7.7		06491508c353d69c97632f73320ce3e2bd157c53
 org.scalameta	metac_2.12.18	4.7.8		382f410ca37034003d56e796a3d5816ce147de7d
 org.scalameta	metac_2.12.18	4.8.0		0e76444c85956a8a0d23e22d8d651be9f4d5e6ad
@@ -1370,6 +1373,16 @@ org.scalameta	metac_2.12.18	4.8.8		18d37e54711392c50a5e5b52170b48501af74a98
 org.scalameta	metac_2.12.18	4.8.9		a49088fa28d4bb32afd4b5de6976fa0431172043
 org.scalameta	metac_2.12.18	4.9.0		7b2a4826e16d6f262a32548b9808c4a2a2503fa9
 org.scalameta	metac_2.12.18	4.9.9		1c91f1b4145fad2ed039358a7b117a499760a1ca
+org.scalameta	sbt-native-image_2.12_1.0	0.1.0		9cce34aa3a320a7f0a5a3d33a24c5ce121c5894e
+org.scalameta	sbt-native-image_2.12_1.0	0.1.1		e298e2a0c85f13775f4d0a132619e754a5262bc5
+org.scalameta	sbt-native-image_2.12_1.0	0.1.2		cdc3371f06e4a937675c8230ff29d974c2639a68
+org.scalameta	sbt-native-image_2.12_1.0	0.2.0		45f306d9d13fe016c70b28b365c99479ee71720e
+org.scalameta	sbt-native-image_2.12_1.0	0.2.1		f8faf8c63da368e99112175126eb62fc8580d036
+org.scalameta	sbt-native-image_2.12_1.0	0.2.2		186afe03f9208572e8bbe32bdf6ca3cf876778ba
+org.scalameta	sbt-native-image_2.12_1.0	0.3.0		596ea3bef2900b2614eadb7cad3da6d55dfc9509
+org.scalameta	sbt-native-image_2.12_1.0	0.3.1		bf12323eb3100a266657d64afe08aac9f458a195
+org.scalameta	sbt-native-image_2.12_1.0	0.3.2		0f683e4487422a26a3601b4af704bf67b9557d39
+org.scalameta	sbt-native-image_2.12_1.0	0.3.4		78232cfff2794d976a5b1c09b207c145af2dcbfe
 org.scalamock	scalamock-specs2-support_2.10.0-RC1	3.0-M4		102d9e40135d2539ec60f65325a8830a0146cf25
 org.scalamock	scalamock-specs2-support_2.10.0-RC1	3.0-M5		98c20ef6a3e805c70ab863b480c67db51fec23b5
 org.scodec	scodec-protocols_3	3.0.0		eae61f895d0d545a94d3215b24731111bcc2bab7
@@ -1454,6 +1467,7 @@ org.webjars.npm	datatables.net-bs5	2.1.8		405f6b10ef0b82be935b45a1c7c5f50dcd6a5f
 org.webjars.npm	datatables.net-bs5	2.2.0		4ca55baa4561e85714d76df7d2ba61da8341aaec
 org.webjars.npm	datatables.net-bs5	2.2.1		3f4085d14f7f44512641982d2c07f6ad878843ee
 org.webjars.npm	datatables.net-bs5	2.2.2		f3b6e7f4fe5b600d8ed06d9679b8cd31ebea5f13
+org.webjars.npm	datatables.net-bs5	2.3.0		58235b460496e5b6aff833d55575548e4cd2c6c5
 org.webjars.npm	microsoft__tsdoc	0.12.19		9da61f86a60de8bf1970ed7ce5016a8236affe10
 org.webjars.npm	microsoft__tsdoc	0.12.5		f575c599095b2ecdf476e33e6fef6f78b536b643
 org.webjars.npm	microsoft__tsdoc	0.13.2		43beafafbedbeb83d3a5ee209df60d9036a1282d
@@ -2962,7 +2976,18 @@ software.amazon.awssdk	cognitoidentityprovider	2.31.30		768b151fcdddaaf8ab2fa5e6
 software.amazon.awssdk	cognitoidentityprovider	2.31.31		aa39ebd5ba3ea8fb457f4542660a3c50b1544503
 software.amazon.awssdk	cognitoidentityprovider	2.31.32		5a02316b28ca124445e7f849d59a9b43b615dae6
 software.amazon.awssdk	cognitoidentityprovider	2.31.33		24cdf8fa2092013620b962b74de52baf61cc8e9d
+software.amazon.awssdk	cognitoidentityprovider	2.31.34		9476748ce19e86033a039c3b16d401265f029cb1
+software.amazon.awssdk	cognitoidentityprovider	2.31.35		c1119382ee74c7021c36f5c09c17dbafd411bf74
+software.amazon.awssdk	cognitoidentityprovider	2.31.36		d117c77e9fb7ac44a73db1d44d3df7774c880e91
+software.amazon.awssdk	cognitoidentityprovider	2.31.37		3846671aec705bad1789a3b9563ad2b4b7d2adde
+software.amazon.awssdk	cognitoidentityprovider	2.31.38		b215e03f333446c9939ca1aa3a44f09abead6daa
+software.amazon.awssdk	cognitoidentityprovider	2.31.39		8235ea9b6dab70ee76a52582789479245af059ca
 software.amazon.awssdk	cognitoidentityprovider	2.31.4		d28f708843c342354495a783643a74a0ca6bbf63
+software.amazon.awssdk	cognitoidentityprovider	2.31.40		f84b72d64594b9bd76a968609b761c4a82476f1a
+software.amazon.awssdk	cognitoidentityprovider	2.31.41		0162d7b90651c2efadba8c44424c398a906f96dc
+software.amazon.awssdk	cognitoidentityprovider	2.31.42		3e06192454e0c5cbe751cc9329a708a8e1b69172
+software.amazon.awssdk	cognitoidentityprovider	2.31.43		68900653c8bea28b75b3dcd9a934c3fc1c3f94f4
+software.amazon.awssdk	cognitoidentityprovider	2.31.44		80fbd7a5b22e8f6e318adfd6c104588e77c25400
 software.amazon.awssdk	cognitoidentityprovider	2.31.5		ce119f078e192eced7999ccb110ad98d948052d4
 software.amazon.awssdk	cognitoidentityprovider	2.31.6		0590a07620f63685b59d9386a6268539fd97150b
 software.amazon.awssdk	cognitoidentityprovider	2.31.7		3c452e8a4e6537fac74c3aceb9f0d11f9f657313

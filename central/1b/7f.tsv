@@ -802,6 +802,7 @@ com.nedap.healthcare.archie	archie-all	3.11.0		7702b6b890a265fd6a6e69121fa334503
 com.nedap.healthcare.archie	archie-all	3.12.0		65ab3bdbef548f81209bfd71b7405881a57de6db
 com.nedap.healthcare.archie	archie-all	3.13.0		17774d661b9f5a52d1a0f1d2900609079a5a2a22
 com.nedap.healthcare.archie	archie-all	3.13.1		df3e35b57be78ff7e7c46d0ebe0f779c762d55e8
+com.nedap.healthcare.archie	archie-all	3.14.0		e1b364558460adb5a8f5336d133ccb452dcd349d
 com.nedap.healthcare.archie	archie-all	3.2.0		fa07d33da80b58c094e4f18a5f3e6d97b4843bad
 com.nedap.healthcare.archie	archie-all	3.3.0		010cebeb391536da5359a827cafb81a12a36f85d
 com.nedap.healthcare.archie	archie-all	3.4.0		118bb915ff815bf3ac3b0017656d781e940e948a
@@ -1462,6 +1463,7 @@ io.helidon.common	helidon-common-key-util	4.1.6		420a8cbea206ff035da8397dd13062c
 io.helidon.common	helidon-common-key-util	4.1.7		005349e72cb908995f0f77e32458b01917b1529f
 io.helidon.common	helidon-common-key-util	4.2.0		293acbc013c566a53a550d28f9e02ab3e3404f58
 io.helidon.common	helidon-common-key-util	4.2.1		e3a7b4dfb07758451a805d569d761172a30982f4
+io.helidon.common	helidon-common-key-util	4.2.2		8857be0eb49c61dc29172cd3c44c1ca5e9acde44
 io.ktor	ktor-server-default-headers-linuxarm64	3.0.0		e658dedd4e1df9270fcecb5c81b8a981a73040cf
 io.ktor	ktor-server-default-headers-linuxarm64	3.0.0-beta-1		fd924fced82d984f6d0a9092674449e4e3b65d0a
 io.ktor	ktor-server-default-headers-linuxarm64	3.0.0-beta-2		fca269e916a2c1748f1de3edaa0924416783bb32
@@ -1473,6 +1475,7 @@ io.ktor	ktor-server-default-headers-linuxarm64	3.0.3		29690be6c1cc18547c2fa78a58
 io.ktor	ktor-server-default-headers-linuxarm64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-server-default-headers-linuxarm64	3.1.1		482ab5f3c87fe74b6fe2f74562430124b26ffa8b
 io.ktor	ktor-server-default-headers-linuxarm64	3.1.2		c7ea590251306e7d85065e7df32befb8f97b0096
+io.ktor	ktor-server-default-headers-linuxarm64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.ktor	ktor-server-host-common-watchosarm32	2.0.0		b0b76ef99da30e2e95580334f5b634bed1cee359
 io.ktor	ktor-server-host-common-watchosarm32	2.0.0	metadata	b9cb47481040f5c38349bbf2e507b7d7385fb375
 io.ktor	ktor-server-host-common-watchosarm32	2.0.0-beta-1		6f23e129f1ffc399a6e5571ed2c86190c3d519bf
@@ -1553,6 +1556,8 @@ io.ktor	ktor-server-host-common-watchosarm32	3.1.1		d00dc2132f3800fdd55bdab8e983
 io.ktor	ktor-server-host-common-watchosarm32	3.1.1	metadata	a5e6bc90e30d95ff115d7b85b12477fa71aa7c8b
 io.ktor	ktor-server-host-common-watchosarm32	3.1.2		decf0ed0ad1dbeb447ce30b43061671b61c94d14
 io.ktor	ktor-server-host-common-watchosarm32	3.1.2	metadata	397f0a4383c52921a9dfe58dedce797a6f117766
+io.ktor	ktor-server-host-common-watchosarm32	3.1.3		d299141f38b9d917d8799aaeb7f9267486dcf71b
+io.ktor	ktor-server-host-common-watchosarm32	3.1.3	metadata	20980b41ff41ee803c3ac3ef3cfb9e13ef7d7943
 io.netty	netty-transport	4.0.0.Alpha1		f5f60b99ca07d54431d4f7abd4e5b595ce5decec
 io.netty	netty-transport	4.0.0.Alpha2		88a1b74661f5b18a136a360c8e9c15cd2014e579
 io.netty	netty-transport	4.0.0.Alpha3		e3718cc5f0813c98f35f3d8ff8f3af18fc52b8ab
@@ -1779,6 +1784,7 @@ io.netty	netty-transport	4.2.0.RC1		d5239efbf7c164637a095c499842df254e3c0673
 io.netty	netty-transport	4.2.0.RC2		a77422a14694277e8cf392f1903c5cef9f84306b
 io.netty	netty-transport	4.2.0.RC3		6389977efa365988522b9a061deeac1ee556bb06
 io.netty	netty-transport	4.2.0.RC4		423d02284b2aa402d05a2998c340730862dac695
+io.netty	netty-transport	4.2.1.Final		5c9140fffd02fe833a570dfd00c3dced88c72abd
 io.netty	netty-transport	5.0.0.Alpha1		39f8e5a5789a2fb0e548c93ea74932399970e901
 io.netty	netty-transport	5.0.0.Alpha2		340af2e29f04c00a4bc54e9be3f058f2abb51c87
 io.openliberty.features	microProfile-6.0	23.0.0.10		N/A
@@ -2416,6 +2422,9 @@ org.http4k	http4k-platform-aws	6.6.0.0		f88546409e5c9c17b6391c96918fa5bfaf392b87
 org.http4k	http4k-platform-aws	6.6.0.1		626bf5be50fd41e16820e3ca0e01b9680748104f
 org.http4k	http4k-platform-aws	6.6.1.0		1d0dd10a202c22713bad09d823f2a138499d6dc4
 org.http4k	http4k-platform-aws	6.7.0.0		fad0ca678d47d30c23b5eeef6b630bbb6a99eeb7
+org.http4k	http4k-platform-aws	6.8.0.0		aa18e128ee3164a1053b39fa61904b00db642de8
+org.http4k	http4k-platform-aws	6.8.1.0		fd5b01a0f348e75be44373c02724e43c8b1599fa
+org.http4k	http4k-platform-aws	6.9.0.0		86f8184366e6840e94db8c3d9312ae64b60803cb
 org.http4k	http4k-platform-aws	v6.3.0.0		62bec3ef5d3dc144c3aa906583d754682c5d8fe6
 org.http4k	http4k-platform-aws	v6.4.1.0		482f3a634a50fe3d4f20f15c19fddd183b3470f6
 org.jamgo	jamgo-snapshot-ui	8.4.0		419e48822d3486038067c8da227671a85fa101ad

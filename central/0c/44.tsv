@@ -190,6 +190,7 @@ com.memority.api.toolkit	toolkit-rule-api	3.48.2		b45959b12f9e02a089c06af2342622
 com.memority.api.toolkit	toolkit-rule-api	3.48.3		06c1dbe6f0a9775df8c13e57d439386448596713
 com.memority.api.toolkit	toolkit-rule-api	4.0.0		3e6301f0bf06bb9fd5b385a3f44675af8de9091d
 com.memority.api.toolkit	toolkit-rule-api	4.0.2		bf85cc45ca7bdd5049d42daf0906e3b9ad41fe2f
+com.memority.api.toolkit	toolkit-rule-api	4.0.3		fcc6f28dafe43ddcc013a0e5239e192d62b75a06
 com.mohamedrejeb.ksoup	ksoup-entites	0.1.0		eefad2045b48798081f55b9337cca51edd14220f
 com.mohamedrejeb.ksoup	ksoup-entites	0.1.1		d1c796d664a0991f9280d3c1214603a8dafe99c0
 com.mohamedrejeb.ksoup	ksoup-entites	0.1.2		d1c796d664a0991f9280d3c1214603a8dafe99c0
@@ -314,6 +315,9 @@ com.regnosys.rosetta.code-generators	golang	11.6.0		73d9c42d7810310635dae3cc79c8
 com.regnosys.rosetta.code-generators	golang	11.6.1		859d921fb05cb79c054a19c0ef72451a070b574a
 com.regnosys.rosetta.code-generators	golang	11.6.2		bf628cf3cdffd7effd979cf67cc59b78d747b170
 com.regnosys.rosetta.code-generators	golang	11.60.0		22b9d209c5793810b6e1e6c1da832c84ed81ac91
+com.regnosys.rosetta.code-generators	golang	11.60.2		c56f9bb1a4ca81175eadb77c15ef8f05ce21866c
+com.regnosys.rosetta.code-generators	golang	11.61.1		803733bf6dfbf7bda7205038609ad58c20065ccb
+com.regnosys.rosetta.code-generators	golang	11.61.2		6d29986c6853f4bb6235a7cd2f859265deb6db0a
 com.regnosys.rosetta.code-generators	golang	11.7.0		ed004516699a92055165bc479ea78e7b1eccf959
 com.regnosys.rosetta.code-generators	golang	11.7.1		3ed5a32f2b2c91be683b5bdccd127da14ff8b271
 com.regnosys.rosetta.code-generators	golang	11.7.4		ed1c6ee3d28345f13195680eec4874d834bbb959
@@ -497,6 +501,7 @@ dev.ikm.owlapi	owlapi-impl	4.7.6		433a5b144709a4f9810caeb4e245f311e7b4e6df
 dev.ikm.owlapi	owlapi-impl	4.8.0		8944b74bc012cea7f5d8e01f526139369702085a
 dev.ikm.owlapi	owlapi-impl	4.8.1		cfc892b348040217d590bc837223b9267076e3e7
 dev.ikm.owlapi	owlapi-impl	4.8.2		7de1b151c8f8878cb6a3ac7ec62e57147a15e532
+dev.ikm.owlapi	owlapi-impl	4.8.3		7ea79afb4ce6045916b9f569abb836b6df61a19d
 dev.jeka	jacoco-plugin	0.10.0		cc3136d6c7b3693548693ede7db4438c5664ad34
 dev.jeka	jacoco-plugin	0.10.1		c6ca329b9a57f34588f5d7e0ed640da37f49b501
 dev.jeka	jacoco-plugin	0.10.10		a0f9ff2395d1ea1ac30b1749fd106339cb7ffd72
@@ -591,7 +596,15 @@ dev.jeka	jacoco-plugin	0.11.21		d80c2bc82416972fc48f7153d5041df0de793b6f
 dev.jeka	jacoco-plugin	0.11.22		05443f4fbce221d67ef72e8f7e97c9264f732607
 dev.jeka	jacoco-plugin	0.11.23		2d67e5cc9e2302eec3fba554b07fe6831382935d
 dev.jeka	jacoco-plugin	0.11.24		81a0e65c4375e9379a8c9d79b4ca5902b5d420df
+dev.jeka	jacoco-plugin	0.11.25		84fab101de6c66a99770c688933659ecf2c0fef6
+dev.jeka	jacoco-plugin	0.11.26		33af0344d4b30563dca57cdf2982e4999c9a684d
+dev.jeka	jacoco-plugin	0.11.27		142cd8772972c99c1ec912f0b59c698e6e2a78e6
+dev.jeka	jacoco-plugin	0.11.28		90ff95c0e74a2291d14c584a89a11295e7d0bd2a
+dev.jeka	jacoco-plugin	0.11.29		9209a3a82290e728b588db549e5c407fa661dc73
 dev.jeka	jacoco-plugin	0.11.3		0ecfa9a912dffcaca3b506f5ff945f7b13c49454
+dev.jeka	jacoco-plugin	0.11.30		b1db383d14ed6083aa77a961a0e61d9bf9a42bb3
+dev.jeka	jacoco-plugin	0.11.31		cda59cb23719724a56e387748fb96a7cd3385e09
+dev.jeka	jacoco-plugin	0.11.32		e880da71bad2324d2655e29678d273748601d838
 dev.jeka	jacoco-plugin	0.11.4		e70ec550f752090202d31846d8e7a368b16f684b
 dev.jeka	jacoco-plugin	0.11.5		99c96a0cb917b52b5ea25e894fbcd679262e84d6
 dev.jeka	jacoco-plugin	0.11.6		ad8d98a57a203657ba13c287a553332ef07bc7f2
@@ -1069,6 +1082,7 @@ io.spring.javaformat	spring-javaformat-maven-plugin	0.0.40		cb0e95202b06b6d6e283
 io.spring.javaformat	spring-javaformat-maven-plugin	0.0.41		e9bbf33e1d2e9a473a6c99b778d97a5c93c6b0d1
 io.spring.javaformat	spring-javaformat-maven-plugin	0.0.42		53814b367e0b642656e1cce2a774a22a4a2344ef
 io.spring.javaformat	spring-javaformat-maven-plugin	0.0.43		309085b5dd856a69369c4066f7b352953e4d2a3a
+io.spring.javaformat	spring-javaformat-maven-plugin	0.0.44		6eb4736a5d75cd7d644e05c66563bbec5539d607
 io.spring.javaformat	spring-javaformat-maven-plugin	0.0.5		c5f6818501c0d26fd4b37f6dcd987d670974d166
 io.spring.javaformat	spring-javaformat-maven-plugin	0.0.6		6442c8c17541326d0269d5280e014c8f3a94f4f5
 io.spring.javaformat	spring-javaformat-maven-plugin	0.0.7		2996c1b28f4139ed4c233dc6d4f975c1d1dd156f
@@ -1258,6 +1272,8 @@ org.finos.legend.pure	legend-pure-maven-generation-par	5.44.0		5f2a1a717b81d5262
 org.finos.legend.pure	legend-pure-maven-generation-par	5.45.0		a0ad5c116f3d76586edeb7bad17baef5a57b41f9
 org.finos.legend.pure	legend-pure-maven-generation-par	5.46.0		31dc6611a31e0f91e16510fe525e5951e8ee9dd3
 org.finos.legend.pure	legend-pure-maven-generation-par	5.46.1		01967672f92a9821711ea9ac27256fa16dca556a
+org.finos.legend.pure	legend-pure-maven-generation-par	5.46.2		5e910fe85d5bc7a3bbe975a09e78ee79c520a881
+org.finos.legend.pure	legend-pure-maven-generation-par	5.47.0		a5e0d19df872db6b6b78d31e42ab4b5e2d0f28ed
 org.finos.legend.pure	legend-pure-maven-generation-par	5.5.0		d545ee3b06eb2a4d7e2d840e79fa29476930cf60
 org.finos.legend.pure	legend-pure-maven-generation-par	5.6.0		95c8dc7e511fd8db0b1194e81dddf7c9a5d92267
 org.finos.legend.pure	legend-pure-maven-generation-par	5.6.1		f2290776efab6c818756bc1a73496040c70d61db

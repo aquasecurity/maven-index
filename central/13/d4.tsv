@@ -23,6 +23,7 @@ com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.14		f454a885d25f60bd32b
 com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.15		e7d0bf869c50a7ad138c946ca8ff267651f61d4c
 com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.16		a2c76d8e712fc1af9777ffcfb8e2719d2ae8ead0
 com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.17		83af3d04375fef3b06abf2483b792d42c1081a5d
+com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.18		8a592ec6086641a8f23355bc7712c4febaff8916
 com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.2		fde31f56602b235dc37f3bd3e1a7c1a4b82d6274
 com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.3		7bff27c830cd3d6891a93438c5249c5a733ddf97
 com.aliyun	alibabacloud-emr_serverless_spark20230808	1.0.4		f2c651bf246233178152bd216cdc599bb37f9c83
@@ -813,6 +814,7 @@ dev.zio	zio-aws-mediaconnect_2.13	7.31.27.1		6cbcd6b2c54157a7e879290a00228423b80
 dev.zio	zio-aws-mediaconnect_2.13	7.31.28.1		996341386c268d5c7f7028fa38a7613491887872
 dev.zio	zio-aws-mediaconnect_2.13	7.31.3.1		c5288d94edd60ac49271f5a99ac01db96158158b
 dev.zio	zio-aws-mediaconnect_2.13	7.31.30.1		1d6fecb02ede4036acb67624b09b69ae35cea3f7
+dev.zio	zio-aws-mediaconnect_2.13	7.31.30.2		a5aa1cb955b6731a8cfa9968ffbb017dc8b83c96
 dev.zio	zio-aws-mediaconnect_2.13	7.31.4.1		99906e1d5f61fcd5e8409e8fc286e2f74703c859
 dev.zio	zio-aws-mediaconnect_2.13	7.31.6.1		a135a9f8b11d11ef7eb699d46ac1c0528081461d
 dev.zio	zio-aws-mediaconnect_2.13	7.31.6.2		2ad0e7bc98eb4edfb76aae4b144da47e91b7f3de
@@ -949,7 +951,11 @@ io.smartcat	cassandra-diagnostics-driver-connector	1.4.4		a4a2fbff7a5bfa6fbc6a1f
 io.smartcat	cassandra-diagnostics-driver-connector	1.4.7		730a134b9b076dce4b1c0b64a9179bf21dabf40e
 io.spinnaker.clouddriver	clouddriver-core	2025.0-0		7e7a385f668bf545ceb25b863ff3153f90f002d5
 io.spinnaker.clouddriver	clouddriver-core	2025.0-1		f950596de7dc94acbbba188251bd0e69673406fe
+io.spinnaker.clouddriver	clouddriver-core	2025.0-2		34d370851c97b233f69af223ddea0f6c789ceff6
+io.spinnaker.clouddriver	clouddriver-core	2025.0-3		0818542809e0f32dd104d34bbb9a4ffcc7ab7b35
+io.spinnaker.clouddriver	clouddriver-core	2025.0-4		2b6de5d648c730c415d2fa108704c9352bc4696a
 io.spinnaker.clouddriver	clouddriver-core	2025.0.0		8a643e3827e2381867df7b83a9daa79fedf103ed
+io.spinnaker.clouddriver	clouddriver-core	2025.0.1		1791f99063a12c05ca81fd2d0cbd209b34a8e9eb
 io.spinnaker.clouddriver	clouddriver-core	5.74.0		a57cebeb1246c646838b72bffaf198d64074df86
 io.spinnaker.clouddriver	clouddriver-core	5.74.2		e3173497bcaa48451ab4fa04dffac70a6a259f89
 io.spinnaker.clouddriver	clouddriver-core	5.74.3		786b0f66778e8c540518d2a44ab6b0476520863c
@@ -1030,14 +1036,19 @@ io.spinnaker.clouddriver	clouddriver-core	5.91.3		654a90795274005735e18130e4e6d2
 io.spinnaker.clouddriver	clouddriver-core	5.91.4		642520708063f0ce0e0ca57c0a542954eea6ad62
 io.spinnaker.clouddriver	clouddriver-core	5.91.5		e5f2ca9d5f9c049e71341400835295abd25d1e16
 io.spinnaker.clouddriver	clouddriver-core	5.91.6		68f4c63e197cd99cd18c4ae320fae0399e96c183
+io.spinnaker.clouddriver	clouddriver-core	5.91.7		3372585f5b7cee76bcf7748f5032f6c3e2b2691d
 io.spinnaker.clouddriver	clouddriver-core	5.92.0		08bb0601fdd145c7b98387fd9456d9596b2aff52
 io.spinnaker.clouddriver	clouddriver-core	5.93.0		755d00a7e6be8c2ec27a3892781020805ad7ecb0
 io.spinnaker.clouddriver	clouddriver-core	5.94.0		8d88cd644bdeae35b33ddb485c56ba28c8dd731e
 io.spinnaker.clouddriver	clouddriver-core	5.95.0		df9e663c43e102fdd3fc8a97a38dddeeff126dba
+io.spinnaker.clouddriver	clouddriver-core	main-10		4049b3225881b1be7f66c267fa4edd807cde6172
+io.spinnaker.clouddriver	clouddriver-core	main-11		c8ee2d6c7d41bd89aae6524d2ecfcbbf46e24dbb
+io.spinnaker.clouddriver	clouddriver-core	main-12		be5add283766bd251709c218e2e95a24ceaf97ca
 io.spinnaker.clouddriver	clouddriver-core	main-5		c29f47c30356c94cd0f87544ef299095af3f99d4
 io.spinnaker.clouddriver	clouddriver-core	main-6		6e9dab426873905cd17530f1984ab8bd1398df1d
 io.spinnaker.clouddriver	clouddriver-core	main-7		7ad7d742ce074de0efe084675f15a8ecf14faab1
 io.spinnaker.clouddriver	clouddriver-core	main-8		4352c7727300d8ff61e595b24e4ea43013a85f20
+io.spinnaker.clouddriver	clouddriver-core	main-9		934b8956a3012ca0a3b38dc7c25d90a853f0be54
 kr.jadekim	j-logger-gson	2.0.1		5c66f5e27ce5a10f63df6ef42b69dc070d103817
 kr.jadekim	j-logger-gson	2.0.10		dda33408b03b500572d7ddce73a66687b8c8aaed
 kr.jadekim	j-logger-gson	2.0.2		60bcab7e1a566d9fc80b7bb00fddcb6ca9f64fe0

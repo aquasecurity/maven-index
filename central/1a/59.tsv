@@ -33,6 +33,7 @@ cn.elegent.security	elegent-security-demo	1.0.0		0fe2e2ef3b59dfe8010801536588d48
 cn.elegent.security	elegent-security-demo	1.1.0		10f33b2f2cf179cb47f903889a2c73b24893591a
 cn.featherfly.validation	javax.validation-api	0.1.0		36b3018da9c774a9a5c16e9bcd0d846efefefff0
 cn.featherfly.validation	javax.validation-api	0.2.0		cbb78f0069e5aca37fc5bb772ca1ad10d9d6cddb
+cn.featherfly.validation	javax.validation-api	0.3.0		bdf949adee08f2faf02dcd6143818603ae59733c
 com.aallam.ktoken	ktoken-tvosx64	0.1.0		N/A
 com.aallam.ktoken	ktoken-tvosx64	0.1.0	metadata	32bff8affdd0fcc29f3d1f3e44fb7a8fecf9ba2c
 com.aallam.ktoken	ktoken-tvosx64	0.2.0		N/A
@@ -301,6 +302,29 @@ com.mikepenz	multiplatform-markdown-renderer-iosx64	0.7.2		N/A
 com.mikepenz	multiplatform-markdown-renderer-iosx64	0.7.2	metadata	4da54fb6e4eda837d28a93f55c1bb4a191d764d9
 com.mikepenz	multiplatform-markdown-renderer-iosx64	0.8.0		N/A
 com.mikepenz	multiplatform-markdown-renderer-iosx64	0.8.0	metadata	2b15c138e292152ad1503dba074cde0a3e399b5c
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.10		8eef8793d41e5797ffb128addba23601d7cb3ab7
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.11		b0d54ddbf33b140cb6c416b2056410e8f018161d
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.12		e10289358c8072a86c9ed2e3dfb3fcb26bd039a7
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.13		565e44c99daf736988fead87b42d7dfb8192476e
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.14		a8d44a57854cc13f725c5dab336ae29c9802b05d
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.15		62371b619d58561b2c8b0efb334fb4ac79841d5d
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.16		6755b0796c309a8b86482c18226da21856196439
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.17		9aee88229635019c19d35df6fda48d153df467f8
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.19		0a8fea64fb2c5f158185d048855ba4df693cabac
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.20		1ed2845e67f86d3c8fc01d13dec50f38cf20e87b
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.21		48b807109134b445b962157fa5d83c9d89c3a2b1
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.22		91a9ce5dfb069186c35e04652074e573828e4416
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.23		5385947845d85a4f555148c1bd40c49075e7b00d
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.24		6a80531b69eff4bd93bcc1977fa03840a51a3371
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.25		3e40a48b49e4464d68ee419861067624c7439c1d
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.26		c5a0c6f0ac478256ace4fd722a56fa2544afe5b4
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.27		35fb5dcad8d31e5e56e2316c0b77ed5243bdb720
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.28		eb9a03b4e0ba198f65c6f8188f7c15b9998e3f09
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.5		3f0db63d962d5d4479315e415e7c512c1cdbc0f1
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.6		b60673f729f1f9ec9ab8888f1f73994d12a7ae72
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.7		01032989589b4da2caf3f62fa2fdf016b66721d2
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.8		1f20db5b8bbd1c416d3a80310c98315d3a7a5ce2
+com.pigumer.sbt.cloud	sbt-aws-cloudformation_2.12_1.0	5.0.9		6bd87a6b6c213484b5db5a18a61f077e4d7cc058
 com.rapidclipse	rap-security-auth-ldap	10.00.00-RAP-GA		8ea57f67f4bf268ce863f9582eb94c09041b77b3
 com.rapidclipse	rap-security-auth-ldap	10.00.01-RAP-GA		58fd254d14740cf0e044153d84b6182816b5b1aa
 com.rapidclipse	rap-security-auth-ldap	10.01.00-RAP-GA		0b8d3ab9c331fc1d7d8d6017c0cd64806bd0250d
@@ -496,6 +520,8 @@ io.ktor	ktor-client-core-watchossimulatorarm64	3.1.1		d43bba6b918d3e6a06725f3cc5
 io.ktor	ktor-client-core-watchossimulatorarm64	3.1.1	metadata	ef749bb76e9c51e440c0218853b177cec397dd77
 io.ktor	ktor-client-core-watchossimulatorarm64	3.1.2		fbf1172c6cad5b8616ce12557baab4c70b620e32
 io.ktor	ktor-client-core-watchossimulatorarm64	3.1.2	metadata	23b1c100245c2f3262613506fd819b61975ceb50
+io.ktor	ktor-client-core-watchossimulatorarm64	3.1.3		1f6de6f1afa234ec5c37c59c2b167f8740697a13
+io.ktor	ktor-client-core-watchossimulatorarm64	3.1.3	metadata	a44d70555ddef17d2f1db99b19387a3d111b5f38
 io.quarkus.platform	quarkus-google-cloud-services-bom-quarkus-platform-descriptor	2.0.0.Final		N/A
 io.quarkus.platform	quarkus-google-cloud-services-bom-quarkus-platform-descriptor	2.0.1.Final		N/A
 io.quarkus.platform	quarkus-google-cloud-services-bom-quarkus-platform-descriptor	2.0.2.Final		N/A

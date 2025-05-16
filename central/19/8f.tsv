@@ -132,6 +132,9 @@ com.ofcoder.klein.rpc	klein-rpc	0.0.5		N/A
 com.ofcoder.klein.rpc	klein-rpc	0.0.6		N/A
 com.ofcoder.klein.rpc	klein-rpc	0.0.7		N/A
 com.ofcoder.klein.rpc	klein-rpc	0.0.8		N/A
+com.permutive	sbt-liquibase_2.10_0.13	1.0.1		836ba58ec93fdfb3b7449fda333106d22323bd4c
+com.permutive	sbt-liquibase_2.10_0.13	1.1.0		4b5678bf992d74f30d402bd55492b94f34cb6565
+com.permutive	sbt-liquibase_2.10_0.13	1.2.0		651e763815d3e8bf9d89ce29182cc228ddd32c03
 com.runtimeverification.rvmonitor	rv-monitor-rt	1.4		c8a7ac3060717f8e63d15cc306b5f68d2df70438
 com.runtimeverification.rvmonitor	rv-monitor-rt	1.4.0		8c61bb860a2cecfcf006291aa8dfbae6bedffa1c
 com.soywiz	korlibs-math-vector-wasm-js	6.0.0		N/A
@@ -149,6 +152,7 @@ com.sparkutils	shim_compilation_14.3.dbr_3.5_2.12	0.0.1-RC2		d042e9ad97a90005c45
 com.sparkutils	shim_compilation_14.3.dbr_3.5_2.12	0.0.1-RC3		d0222cd58df20ef75e4a9999f1f73b904451c136
 com.sparkutils	shim_compilation_14.3.dbr_3.5_2.12	0.0.1-RC4		79c26452caf95524bd97d522e30706e939d6066b
 com.sparkutils	shim_compilation_14.3.dbr_3.5_2.12	0.2.0-RC1		b22fddb8f285fa36b95a0379b8ced2a11d879851
+com.sparkutils	shim_compilation_14.3.dbr_3.5_2.12	0.2.0-RC2		0563016bcb964ee7abbe9bca0bdaec44b00d9cee
 com.tidal.networktime	networktime-singletons-macosx64	1.0.0		N/A
 com.tidal.networktime	networktime-singletons-macosx64	1.0.0	metadata	e3802e5627ae6e2ed733b7db37a5053b83e6e70e
 com.tidal.networktime	networktime-singletons-macosx64	1.0.1		N/A
@@ -579,7 +583,11 @@ io.snappydata	snappydata-store-core	1.6.6		d3c6726da0a95b2781cd580642fc3a1a51f2e
 io.snappydata	snappydata-store-core	1.6.7		c58af2e65325b1968c0254ab547e7dd73da2d41c
 io.spinnaker.clouddriver	clouddriver-web	2025.0-0		55977002e3456d082d093cfe348c426669347425
 io.spinnaker.clouddriver	clouddriver-web	2025.0-1		1cc1ace4f6b1122d58464357b0ba0e0f6ec91d3f
+io.spinnaker.clouddriver	clouddriver-web	2025.0-2		1a5c6dde9c8cf9f0aaac9dc65e8575b6d874aa25
+io.spinnaker.clouddriver	clouddriver-web	2025.0-3		b3a53cb901c6bca89e5942ee3cb2face5c0ba270
+io.spinnaker.clouddriver	clouddriver-web	2025.0-4		5529dc2119d06e855263f49f4d7f6806783d863b
 io.spinnaker.clouddriver	clouddriver-web	2025.0.0		4a3b3faadca49dd50c5fa43907309d1fa1b5101e
+io.spinnaker.clouddriver	clouddriver-web	2025.0.1		a64175c1f5f7be11c5e38817e3669b8ccfdd03d1
 io.spinnaker.clouddriver	clouddriver-web	5.74.0		08a81a852c0f80dca276d7ee5526b1e7274c6f1b
 io.spinnaker.clouddriver	clouddriver-web	5.74.2		b137d5c96f9b847c2b12d465cc9041d86d66edaf
 io.spinnaker.clouddriver	clouddriver-web	5.74.3		85b0ed4dad714fa6935fff06b9623e35be0b02f4
@@ -660,14 +668,19 @@ io.spinnaker.clouddriver	clouddriver-web	5.91.3		b39e92817b93af7cc554f5299f4541e
 io.spinnaker.clouddriver	clouddriver-web	5.91.4		ee3c45378adbdc48d7cd4998329ece0b3e5ea4fb
 io.spinnaker.clouddriver	clouddriver-web	5.91.5		6f332699f0cc3f1898726b40a4ce43af6b5d3987
 io.spinnaker.clouddriver	clouddriver-web	5.91.6		5c550212d1fdaeb9a6c4d0a3966a9e5fc590e22a
+io.spinnaker.clouddriver	clouddriver-web	5.91.7		e5e5981b2154262a07539506f2166597de9a5b8b
 io.spinnaker.clouddriver	clouddriver-web	5.92.0		edb60db34e4bde0c16bc2a0b35b587b96489738d
 io.spinnaker.clouddriver	clouddriver-web	5.93.0		da133880eb992c3269a05b0c4cb97521fd2b625c
 io.spinnaker.clouddriver	clouddriver-web	5.94.0		79f2d5709eed4478bc573073d26527aea1591807
 io.spinnaker.clouddriver	clouddriver-web	5.95.0		532b1b459e84edee13f0191fa5b39f45a5d89f2c
+io.spinnaker.clouddriver	clouddriver-web	main-10		ea12e55fd6d551c562120f9a6d92cef2bf86163f
+io.spinnaker.clouddriver	clouddriver-web	main-11		a59193bbc9b698a33e1c203c825b2df2be7f4756
+io.spinnaker.clouddriver	clouddriver-web	main-12		b23b999ad7501e9f21ddb613b36efadc114e869b
 io.spinnaker.clouddriver	clouddriver-web	main-5		7c0d015d9dd3f927b392e4a62ca87e2516baa340
 io.spinnaker.clouddriver	clouddriver-web	main-6		6086abe77f8feba7cfb1c29bf81bf841194d2e36
 io.spinnaker.clouddriver	clouddriver-web	main-7		e2085e97f6073ca25090ceaa526d591723ff2ebc
 io.spinnaker.clouddriver	clouddriver-web	main-8		7233f0a26e06572384c8fdcc3f9e96b71c4ef194
+io.spinnaker.clouddriver	clouddriver-web	main-9		eb3c5056f26351e16648ae47e89e8eb980c840fc
 io.swaydb	cats-effect_2.13	0.11		152e0842dcf5cc738de15b94f7a65936e1482d05
 io.swaydb	cats-effect_2.13	0.12		31adfad9dd037916425f6a63afaadfc1d835bf8a
 io.swaydb	cats-effect_2.13	0.12-RC1		6e703c48813aaa65bd437c5fd31b8dd2873c5030
@@ -833,10 +846,17 @@ org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.79.0		5
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.80.0		bcfb5ba2408bfe34f8d5d568d4789d9342d46e76
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.81.0		1b8d95eb4895715306c6f7b59af10e4d653dba09
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.82.0		222f45d7ef7268170e0e5ecc837004a0bbbf3b4e
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.82.1		aeccfd056201570d11080b2991bb9161d1464835
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.83.0		4dd38cae1b25df4bbd427fe58f699b5dda3c146e
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.83.1		2433563e2482858ba69c6150e44732cca73c4579
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.83.2		1cf58c05a942ce4fdec6837af8afada5a607f42f
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.83.3		f67afc2586dc0b869dc6f674e7d31ffa202b9f21
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.84.0		06b02143d6e39b527cf2ed29b9a409d98d121bb4
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.84.1		7d46e712b10023fd30c60769ab7e9c1ebd021670
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.85.0		214d680707bb99fa4949d05a0df9a2a95cd85e23
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.85.1		3cff3de118b5ab5a9fb8b288e9761a8ff8a45ca9
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.85.2		beb4c109fb38503bfc0c8c26987219062d5735f2
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-integration	4.85.3		680b049d2783ba4da7c34bb7c982d2b01ebcefe2
 org.gnieh	geo-scala-polyline_native0.4_2.12	0.3.0		33d5ebe902df08e25620b282b60f368383b8de8c
 org.gnieh	geo-scala-polyline_native0.4_2.12	0.4.0		0bb00b22cd883a257f36c1078a1411a2dda8b45e
 org.hisp	kobo-java-client	1.0.0		66f44ae0ad3381a7e763778b0fa549ce4afd6307

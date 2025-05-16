@@ -75,6 +75,8 @@ com.codingapi.springboot	springboot-starter-flow	2.9.30		932e24b3d2be6c2ac75a866
 com.codingapi.springboot	springboot-starter-flow	2.9.31		7489231382aa1575caa742c4d6a221f0d527b531
 com.codingapi.springboot	springboot-starter-flow	2.9.32		2af342fdfe4759d07165db675dfcd08045dfa37e
 com.codingapi.springboot	springboot-starter-flow	2.9.33		f6d908cfcddd36c5ed0736f4ea4b7286e8b95e38
+com.codingapi.springboot	springboot-starter-flow	2.9.34		0f701d6856ecdfa07971caad807181a15c7f6723
+com.codingapi.springboot	springboot-starter-flow	2.9.35		dba279bbd466c110531a6b19e423312803326de7
 com.codingapi.springboot	springboot-starter-flow	2.9.4		544fa2bbe71380d011cbbb0b56be1502fdc80a19
 com.codingapi.springboot	springboot-starter-flow	2.9.5		8db3f32b7a840dcce9f9bbd95ec702854caae256
 com.codingapi.springboot	springboot-starter-flow	2.9.6		7b2aad23f8734491abab23ee97667f0371d964a8
@@ -155,6 +157,8 @@ com.codingapi.springboot	springboot-starter-flow	3.3.64		c3e704f4f79c2a353af1f77
 com.codingapi.springboot	springboot-starter-flow	3.3.65		2abfe6ee59676af1c0a3d9be88c0ce9db5e5d87e
 com.codingapi.springboot	springboot-starter-flow	3.3.66		6340f9bc2c7caa18b59909ab91635464c2889f5c
 com.codingapi.springboot	springboot-starter-flow	3.3.67		31f4865e90ed98f712c21924e51ba573233091eb
+com.codingapi.springboot	springboot-starter-flow	3.3.68		9d18fc45b5ffcfe07024cf9d5582750f9abd48a9
+com.codingapi.springboot	springboot-starter-flow	3.3.69		70db1e7baa7828bf8507d4ae105829d48e0850e3
 com.codingapi.springboot	springboot-starter-flow	3.3.7		64fc246fd35629b93882ef4f3e3b7a9e53b57e8e
 com.codingapi.springboot	springboot-starter-flow	3.3.8		2449d80fb97911bddf9394216d65e58238cbe661
 com.codingapi.springboot	springboot-starter-flow	3.3.9.1		6084c608499fcdba8ab48376dcc21c7761775313
@@ -1035,6 +1039,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1.0	2.13.3-alpha		ec07d390bf6b4dc32a3efc995aa92fa1fd26cc86
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1.0	2.14.0-alpha		3094b56fd03462938dce176ccd2fabc6d00718bd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1.0	2.15.0-alpha		1e3babbaab8f7e3674ab292159d9ea4522e98670
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1.0	2.16.0-alpha		471764fef335382e11b747e820658ed6140b8595
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1.0	2.2.0-alpha		f64e6e8d17b55ea7e11e3ef625faf20bae94be5c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1.0	2.3.0-alpha		c74735c90392bf581f818f1ef0e4e68368e960f6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-pekko-actor-1.0	2.4.0-alpha		8ac1a89e4f7881123f9b9bf3ed70e0c2a4b79405
@@ -1593,6 +1598,19 @@ org.eclipse.dirigible	dirigible-components-template-perspective	11.41.1		d92231e
 org.eclipse.dirigible	dirigible-components-template-perspective	11.42.0		ce3a5a56e8140d5c23a36ee65e8c1a68d92e17da
 org.eclipse.dirigible	dirigible-components-template-perspective	11.43.0		426792a3a46f81cbbf8a533d8fb9f15c6292e579
 org.eclipse.dirigible	dirigible-components-template-perspective	11.44.0		4dfe48e39360350a31bd3934bfcd38f67522dd81
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.0		9ad07860ae16691cf41a5ae3e7a8a379d3089159
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.1		44b5f4c576aef3089453ff740ede69a6dffdfd1f
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.10		25845cfcda2e1fbeb19c39269a8830240ec2cfa1
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.11		429ef1f05da81d3eb4a1286eac386b6ec8a40dee
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.12		2995156ae047e66a6dbd03076b6e88910e4d266e
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.13		7853ce6e3448a8c56e4e74a48b350b73a49cd30c
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.3		b551cf249c920f8c1b3e3d890eebb799ee64dedb
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.4		608d97db457cdfc366375aed0fdb0ea82dbb6d65
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.5		eb7578d6bcf6aab1686c63be2c4521996fb22d4c
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.6		fbc6ea2d3ad7eb74c3acc7f50cba5027f53ea599
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.7		5fb8a1625243e892d4c3a7c5ecd3cb4b24747500
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.8		967109776b9e96bac9024b7aadc0830a420077e9
+org.eclipse.dirigible	dirigible-components-template-perspective	11.45.9		fc2e5b0b7cc67980c9cb50dfa0297d4fdffb487b
 org.eclipse.dirigible	dirigible-components-template-perspective	11.5.0		698c070902ff85bdb7aee7c5f10a1373f6048ecf
 org.eclipse.dirigible	dirigible-components-template-perspective	11.6.0		3e11298ba6c2204c25aa417127637453d8498739
 org.eclipse.dirigible	dirigible-components-template-perspective	11.6.1		7ae33808da948ce5e37c0af2bd8caad669f06d5c
@@ -1853,6 +1871,7 @@ org.webjars.npm	ci-info	3.7.0		2a29a0a3eaf8a44192aa3efd7e1b0362886b1341
 org.webjars.npm	ci-info	3.8.0		80a674651c3ffc574b4c3f8b85a5cdd1223d36e6
 org.webjars.npm	ci-info	3.9.0		4a7425844da0fd0fef044c03dda1e42fdb1b5b87
 org.webjars.npm	ci-info	4.0.0		befdad691115ee86bdf036bb179c4cee96b15387
+org.webjars.npm	ci-info	4.2.0		86c57c579e9eefcda55377811316edfe8f523c5f
 org.webjars.npm	github-com-aurelia-bootstrapper-webpack	1.0.0		99de58b3fd10e161e3b4abfcf87a16d5671bb82f
 org.webjars.npm	ranges-apply	5.0.2		ee353aa556dc81ab1d4f20ab87aa939ef6eed4c7
 org.webjars.npm	ranges-apply	5.0.3		4a23e5367546fc20964f64a09423677decb1c21c

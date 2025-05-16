@@ -430,7 +430,16 @@ aws.sdk.kotlin	sagemaker-jvm	1.4.73		3da60017a9fd45a0a62f02734aac795aeedf8927
 aws.sdk.kotlin	sagemaker-jvm	1.4.74		cb150404fdbc3d2ea3fabee00aa6fa7db1c51f4a
 aws.sdk.kotlin	sagemaker-jvm	1.4.75		16bb847621a48c5d902906f3699cb89ea27066c7
 aws.sdk.kotlin	sagemaker-jvm	1.4.76		de9256029499906f1147281d25d19e5dd5b763d7
+aws.sdk.kotlin	sagemaker-jvm	1.4.77		7b5c6fa6486e67e8eab340b7ba4aec28b43cf9c6
+aws.sdk.kotlin	sagemaker-jvm	1.4.78		c4a4fe2248de3e6bd89c065770f3bca738ed35fb
+aws.sdk.kotlin	sagemaker-jvm	1.4.79		2fe823eb354810bd9f9eabef68979d4ec2dd9f2e
 aws.sdk.kotlin	sagemaker-jvm	1.4.8		e9161d0dfb7db7ae8ea9024a38c05fc1de82eb41
+aws.sdk.kotlin	sagemaker-jvm	1.4.80		5fa40f913a65e8d0dd7008b2430f43adc9e6a706
+aws.sdk.kotlin	sagemaker-jvm	1.4.81		c77a3da680950bd467d763965ff03bf49af3aace
+aws.sdk.kotlin	sagemaker-jvm	1.4.82		cee39ea88551c4ca6f3fc36985699e0f9ad189d1
+aws.sdk.kotlin	sagemaker-jvm	1.4.83		1037b663ccb4c89d9ee937258c46fd0c9d8e7869
+aws.sdk.kotlin	sagemaker-jvm	1.4.84		cb3364c9b4db5f85f5c33819a7e29fe8eec84458
+aws.sdk.kotlin	sagemaker-jvm	1.4.85		6e92d1644e187c4d386792f35cd57e605cf94802
 aws.sdk.kotlin	sagemaker-jvm	1.4.9		cd1bc1c4891e9413f70892eb48ac6ba2b1a02c42
 build.bleep	bleep-plugin-pgp_2.12	0.0.1		5f777c79606bfd9a8049ddc6e88ca4338467d593
 build.bleep	bleep-plugin-pgp_2.12	0.0.1-M20		1acce07694c52a229f5cd6e447be397611c75a7e
@@ -501,6 +510,7 @@ com.github.langion	langion-maven-plugin	1.7		3cb707b9ee4fd0a60c54e4d10a42feabe46
 com.github.langion	langion-maven-plugin	1.8		1b726ce23ef79bafa17f269a71e7ecc4233c4579
 com.github.marcosemiao.maven.plugins.shade.resource	maven-shade-merge-manifest-transformer	0.0.2		219157d077b66515c465c194b34dc3dc21825414
 com.github.marcosemiao.maven.plugins.shade.resource	maven-shade-merge-manifest-transformer	0.0.3		ca0e6281572fd609adca100a0c4dc39403f47ce7
+com.github.nomadblacky	sbt-assembly-log4j2_2.12_1.0	0.1.1		816354fc8531d35ea165333d3b8fd22d18d20fc9
 com.github.omarmiatello.telegram	dataclass-tvosarm64	5.2		N/A
 com.github.omarmiatello.telegram	dataclass-tvosarm64	5.2	metadata	d816ea7454f61039b23e91d2c8ec3e6c90e3e224
 com.github.omarmiatello.telegram	dataclass-tvosarm64	5.2.1		N/A
@@ -1531,6 +1541,7 @@ org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.2.1		92fff32a5f12f732525
 org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.2.2		e00b1b3b0410c23810b370c7c04d7cee7c80ad7c
 org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.2.3		ca87d4b794acfc963f034dcd97e2335716adc236
 org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.20.0		c2908198bfcf3de160c65aa82705f38aaf04e73d
+org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.20.1		81bb9493bf5549f8a784de657339cfd1a15c999e
 org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.22.0		246b4dbd6bc36725d06b21fa9f7b126d8ab3579e
 org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.4.0		862729e486de513fc6bb116463dec68f5476fcd9
 org.apache.camel.quarkus	camel-quarkus-lzf-deployment	3.5.0		1cdb65ad1ba9d2b674d7179281734159c41c5908
@@ -2130,6 +2141,7 @@ org.refcodes	refcodes-properties	3.3.6		9958f6da55987a48be508af0028306994534abd7
 org.refcodes	refcodes-properties	3.3.7		68debbe2fd47dcfce4467f155567be9be757d5fd
 org.refcodes	refcodes-properties	3.3.8		3cddb198068d646f4cf4205bdd28d13d38439c51
 org.refcodes	refcodes-properties	3.3.9		07e801857cfc6c8a96171184ba042aee5c0672b3
+org.refcodes	refcodes-properties	3.4.0		1680bf8a4c01df8d9b20f1ebc63c85fc02dbb34b
 org.scalameta	mtags-shared_2.13.13	1.2.0		65d7de8c199432e793abea5bfc3826fe1e7024ba
 org.scalameta	mtags-shared_2.13.13	1.2.2		273b300150f3eca59f585a049eed24c3f5d04620
 org.scalameta	mtags-shared_2.13.13	1.3.0		92045f34124cd5d4b1c6c9845ab8bcb6219aa3d5
@@ -2144,6 +2156,7 @@ org.scalameta	mtags-shared_2.13.13	1.4.2		c045ce7f24baa70184dd7a9a16d4a6dc05a9a2
 org.scalameta	mtags-shared_2.13.13	1.5.0		414ef9e85fa0d2b56d3bb5e833eea90ba937d9db
 org.scalameta	mtags-shared_2.13.13	1.5.1		8afec6a690c7db996822368c90c51928fa97b62c
 org.scalameta	mtags-shared_2.13.13	1.5.2		1f919256795050356286f5f37226eb92f190bcb9
+org.scalameta	mtags-shared_2.13.13	1.5.3		ef2d3fa992fe4acd5d83a7e1345d83d5734be17a
 org.siggi-ci	hookserver-starter-base	0.12.0		02416047d9c7ec1142951ccf284045c9e965f672
 org.tpolecat	atto-core_sjs1_3.0.0-RC2	0.9.3		e28c729c440c9db4e3060c37224515f6dea94a61
 org.tpolecat	atto-core_sjs1_3.0.0-RC2	0.9.4		aaa73ac250998eb38d0b85a401bdbf8d65c51174

@@ -429,7 +429,16 @@ aws.sdk.kotlin	amp-jvm	1.4.73		1d4d075100fd0b736b5e86560d35781541e9769e
 aws.sdk.kotlin	amp-jvm	1.4.74		e74569f8d84d9ad02ea4c932250ac7be078895aa
 aws.sdk.kotlin	amp-jvm	1.4.75		138ba6655eec23ab276c96f9679b18da4b267f07
 aws.sdk.kotlin	amp-jvm	1.4.76		294d50c83ccb6145564e821a3c7de6ab458250da
+aws.sdk.kotlin	amp-jvm	1.4.77		69f13252b6963d0d5c52c9076f476992a8929670
+aws.sdk.kotlin	amp-jvm	1.4.78		d284b70054ec525a8ced4a4e0751d82376888caf
+aws.sdk.kotlin	amp-jvm	1.4.79		25099a1bbde9d4dbfbc9d5a98f186fadb56f54b1
 aws.sdk.kotlin	amp-jvm	1.4.8		546fa2eff05cb6a2306ff7dd9f449252ee7e59a7
+aws.sdk.kotlin	amp-jvm	1.4.80		9a14d63c0c15e11ccf26a439ec905c290e50eac3
+aws.sdk.kotlin	amp-jvm	1.4.81		f0dce66d80060137a89f01001ce33a892f8d1502
+aws.sdk.kotlin	amp-jvm	1.4.82		8cc1364c8ce7e73d63ec25ff692172c920b3c187
+aws.sdk.kotlin	amp-jvm	1.4.83		5218094ce693342f10af5962d0f1b0fd65bd1ff7
+aws.sdk.kotlin	amp-jvm	1.4.84		23395bf330b3c18b07d7830d6bdc5ad98e933adf
+aws.sdk.kotlin	amp-jvm	1.4.85		6c52a40774d7cae6c5d90b920682563cd8e23b86
 aws.sdk.kotlin	amp-jvm	1.4.9		24ba2ce84dfec4dc0073c066530058e61b2ef407
 ch.sbb.scion	rcp-microfrontend	0.0.1		7e8a7b604ec587756ccdbac7da6b3ab02d170a69
 ch.sbb.scion	rcp-microfrontend	0.0.2		7c5f052c1bc1b15e89368ce494194534ff5d43ed
@@ -2681,6 +2690,7 @@ io.quarkus	quarkus-jackson	3.15.2		e6412fdab578c9b1d74a497c409251c88e772abc
 io.quarkus	quarkus-jackson	3.15.3		aa7ab67ce6b3dd12d45c0f87f7e7de5f3fdb088c
 io.quarkus	quarkus-jackson	3.15.3.1		da4fd34de644924b718107364345cfce030db8ea
 io.quarkus	quarkus-jackson	3.15.4		312972dab7c4ec8f2fcfb670452245b6216f8425
+io.quarkus	quarkus-jackson	3.15.5		0faa636c376c619c5a82e94ccf6337cd1c9585bb
 io.quarkus	quarkus-jackson	3.16.0		45b8e0def955aefa1f226d624869c94e727f95a2
 io.quarkus	quarkus-jackson	3.16.0.CR1		8398bb33bb6bc994b3addd8c7e4096759ce28c50
 io.quarkus	quarkus-jackson	3.16.1		734ed6c1144d72fdb18d6455bb70fb3d70b151c5
@@ -2725,6 +2735,7 @@ io.quarkus	quarkus-jackson	3.2.8.Final		da5ee6c0a52fdd3041f81b3079628fee6929d11b
 io.quarkus	quarkus-jackson	3.2.9.Final		f4b44217334833abc48ea3a05dd8d7961a5921b3
 io.quarkus	quarkus-jackson	3.20.0		0cf54b30adac9cef3754c1c42043c6a796881e0a
 io.quarkus	quarkus-jackson	3.20.0.CR1		fe398f894c7e2128f8db01beff3f915c949a4e0d
+io.quarkus	quarkus-jackson	3.20.1		a37c680619173a2195e4999d569dd713fbcce33e
 io.quarkus	quarkus-jackson	3.21.0		96ce064937c8775e670ccd0c4340efdf4d22ce82
 io.quarkus	quarkus-jackson	3.21.0.CR1		646621a05eb8316b139be9d98f7eb92d749232a4
 io.quarkus	quarkus-jackson	3.21.1		ecd8bd61b4f434d564ff6044c9af1369cfc79a47
@@ -2734,6 +2745,9 @@ io.quarkus	quarkus-jackson	3.21.4		24c4cb5de5849c202314d6b275e4795e5ecb572b
 io.quarkus	quarkus-jackson	3.22.0		346f6a3fe4dc923a7c945a9b022b502d67a96fb3
 io.quarkus	quarkus-jackson	3.22.0.CR1		411efecd7aaaa93012cd1364f028885b8b99bc37
 io.quarkus	quarkus-jackson	3.22.1		b7eb84bfffcadd258a1342979d3eba25822e3e92
+io.quarkus	quarkus-jackson	3.22.2		c6eb8b4b33de4345a96087ebb064cb96a62690d1
+io.quarkus	quarkus-jackson	3.22.3		41706f04f5238f9fcb9a50d1d1ff1bf06b329bc4
+io.quarkus	quarkus-jackson	3.23.0.CR1		70673d21c95cf49a57557443512d80408318f567
 io.quarkus	quarkus-jackson	3.3.0		e65a3b2caf28bb1f97fd71873b79e4533fac6e9d
 io.quarkus	quarkus-jackson	3.3.0.CR1		06cd58ed16d24c6a5207cd4409a9dc1b3b6f5b53
 io.quarkus	quarkus-jackson	3.3.1		57d968ab7d6a32d694e1069fc6b2da28f020a8a9
@@ -2803,6 +2817,7 @@ io.smartdatalake	sdl-lang_2.12	2.6.1		773a9e28383e45be6a50d50a37c3afa667671ecc
 io.smartdatalake	sdl-lang_2.12	2.7.0		b9fa14e9d0a4d69cd1ffa44732ff3c8d97100284
 io.smartdatalake	sdl-lang_2.12	2.7.1		28e84cde1e5d886fab56a2eece8d378a72409a0c
 io.smartdatalake	sdl-lang_2.12	2.7.2		4c14dd2962f4fd91c29bb2113a6f344e5af7ed5a
+io.smartdatalake	sdl-lang_2.12	2.8.0		85336e86e09e08bad7e1b5df4ce82fc65e7cf7de
 io.ultreia.java4all	eugene	3.0-alpha-11		N/A
 io.ultreia.java4all	eugene	3.0-alpha-12		N/A
 io.ultreia.java4all	eugene	3.0-alpha-13		N/A
@@ -3021,6 +3036,7 @@ org.apache.beam	beam-it	2.61.0		500dd6371d61b4d082c7015e4314a43fb61bdfb6
 org.apache.beam	beam-it	2.62.0		ce8382c45cbe971d2b6c600a668abe508faad4cd
 org.apache.beam	beam-it	2.63.0		5b64ed9b931ac1c4181c7c9345a46d84913a3208
 org.apache.beam	beam-it	2.64.0		490cfa97a2fa1ce78b5cfe6418fb544c956d8a67
+org.apache.beam	beam-it	2.65.0		c28ed1fcfdef6ab949abcb59c2cee20d708fef1f
 org.apache.flex.flexjs.framework	MaterialDesignLite	0.8.0		N/A
 org.apache.skywalking	apm-checkstyle	5.0.0-GA		d01d42d2e0b57d8259a002e9c6ed8c869a504ede
 org.apache.skywalking	apm-checkstyle	5.0.0-RC2		4158252f388222a866e0c0853b32579968cf26a2
@@ -3189,6 +3205,9 @@ org.http4k	http4k-connect-mattermost-fake	6.6.0.0		620fde73a489300b7f3ce526dda11
 org.http4k	http4k-connect-mattermost-fake	6.6.0.1		40d8100b873c1a26fc41595c7f6fd5102e408546
 org.http4k	http4k-connect-mattermost-fake	6.6.1.0		f63b36f108641270106145178c4eb03b425b1c04
 org.http4k	http4k-connect-mattermost-fake	6.7.0.0		08c77619850719027e7199249591af438f35b92d
+org.http4k	http4k-connect-mattermost-fake	6.8.0.0		968a157dabba054faabb7c758c814c86ea87f736
+org.http4k	http4k-connect-mattermost-fake	6.8.1.0		28c2c828843c9e8e54c62817172248f7e9e5f550
+org.http4k	http4k-connect-mattermost-fake	6.9.0.0		9a81137b05a2b307b3d440eefb6bd3ae018fee82
 org.http4k	http4k-connect-mattermost-fake	v6.3.0.0		81ed37047f48713058c0f35609caefc57561752f
 org.http4k	http4k-connect-mattermost-fake	v6.4.1.0		7b0553afabd8911b139fc8820fd9691f6d89bbd6
 org.nasdanika.engineering	model	2021.11.1		2f0e21fa4a62eddeb59ca2ed96c69f99e7444155

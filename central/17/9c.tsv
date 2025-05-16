@@ -24,6 +24,7 @@ ai.djl.fasttext	fasttext-engine	0.30.0		5a236e7de04d648687cfa003d035fbbef334d8c1
 ai.djl.fasttext	fasttext-engine	0.31.0		b40631fb8d253277b5b670065c9c5d35f3236db9
 ai.djl.fasttext	fasttext-engine	0.31.1		856f75cc85d6688512c37779327aefde52c9f112
 ai.djl.fasttext	fasttext-engine	0.32.0		00d4e60804c3ad0b422ac7f015fdb4f006444ae8
+ai.djl.fasttext	fasttext-engine	0.33.0		2aa0392cb8bb0115dc370d3f622ce6b0916e10b5
 ai.djl.fasttext	fasttext-engine	0.4.0		661b3eb833897813073a02896f794c535c6d2470
 ai.djl.fasttext	fasttext-engine	0.4.1		4a7201277299c7a2dc279484f21d49f5e32f3033
 ai.djl.fasttext	fasttext-engine	0.5.0		359e641053db8f28fc52ff91eb7aae79a381b6cb
@@ -237,6 +238,7 @@ com.exasol	sql-statement-builder	4.5.0		028bc818109cd3452d5ece4ecabb1c36ef0088ab
 com.exasol	sql-statement-builder	4.5.1		fdd557e37ff1ef2853f7584481494effe17be9e4
 com.exasol	sql-statement-builder	4.5.2		ae67340ebe95df3664e4e1747e3451e842680662
 com.exasol	sql-statement-builder	4.5.3		791ab4b9c1f707f5e25305781ef7f7f0f917c9b6
+com.exasol	sql-statement-builder	4.6.0		988afa7b47cad944840f36b723d8d05afbcb4a8a
 com.factset.sdk	investmentbankingofficerefresh	0.20.0		e8fae0c3b6710284174f4670c80a5178cad15e73
 com.factset.sdk	investmentbankingofficerefresh	0.20.2		49f76f16bfe2151c926ed645ec3fd04a16934831
 com.factset.sdk	investmentbankingofficerefresh	0.20.3		4bdc333c3bb239b723930441165484e652c8ce81
@@ -2241,6 +2243,7 @@ dev.zio	zio-aws-iam_2.12	7.31.27.1		56feb18b9b24d267761a0d9a3330cbb8339a8314
 dev.zio	zio-aws-iam_2.12	7.31.28.1		161a218a980b2d25792da309bebaeecb82f2699b
 dev.zio	zio-aws-iam_2.12	7.31.3.1		4560c88bcf169900935909ded2056206fc77f4df
 dev.zio	zio-aws-iam_2.12	7.31.30.1		71eaee3fc15e9a1d466952a98ebc4a909c3fa289
+dev.zio	zio-aws-iam_2.12	7.31.30.2		9d5d033304b28032de011dc628fd8aebca2201cc
 dev.zio	zio-aws-iam_2.12	7.31.4.1		54cbab294509c4991218726342ad04907874c8f8
 dev.zio	zio-aws-iam_2.12	7.31.6.1		ea880a2f13ec1d04bd82fbda05f5a85ec4ae508d
 dev.zio	zio-aws-iam_2.12	7.31.6.2		fdc993f0c28a2c25f873c91b9a759ae87a188c2b
@@ -2271,6 +2274,7 @@ io.deephaven	deephaven-extensions-iceberg	0.37.5		371911c6c4a5865c7052963d582489
 io.deephaven	deephaven-extensions-iceberg	0.37.6		322840ef281ba2522c70b04d45de19e7973cff2b
 io.deephaven	deephaven-extensions-iceberg	0.38.0		08c0068daff408dd59b595dc1afe74ddd8fddabe
 io.deephaven	deephaven-extensions-iceberg	0.39.0		0a2323a98dfeabd2eeb16f4c9fac4f592e3fa363
+io.deephaven	deephaven-extensions-iceberg	0.39.1		c3b5a4671f4618da348b5f72221f278660895de5
 io.github.cquiroz	locales-full-currencies-db_sjs1_2.13	0.6.0		67530ac3e4086a405f5b7041e2a4d43bcd7eb8c2
 io.github.cquiroz	locales-full-currencies-db_sjs1_2.13	0.7.0		c54f18e020d58cdcdb04d201a8c13b489a491c7d
 io.github.cquiroz	locales-full-currencies-db_sjs1_2.13	1.0.0		b712c3230387a814d487156f88520c39c29bde3c
@@ -2305,6 +2309,8 @@ io.github.darkokoa	datetime-wheel-picker-jvm	1.1.0-alpha01-compose1.6		11cbcb0e9
 io.github.darkokoa	datetime-wheel-picker-jvm	1.1.0-alpha01-compose1.7		04752eaeaa52f2e247177ea23eeda2d6b398b468
 io.github.darkokoa	datetime-wheel-picker-jvm	1.1.0-alpha02-compose1.6		e0f8f2dd201d249c6976674b8db7710e1e716a7b
 io.github.darkokoa	datetime-wheel-picker-jvm	1.1.0-alpha02-compose1.7		cb945bae6c6f73f5e277aaa6ee2ce07f56993909
+io.github.darkokoa	datetime-wheel-picker-jvm	1.1.0-alpha03-compose1.7		4f3c0ff7bd584cbe589b32c52503a8dbbea11427
+io.github.darkokoa	datetime-wheel-picker-jvm	1.1.0-alpha03-compose1.8		01bfdf56a50838a9cf70626851239da65ba19938
 io.github.goshacodes	backstub-zio_3	0.3.1		d87828c8f44b68f7fd0a16083d2e3da54210c3d3
 io.github.goshacodes	backstub-zio_3	0.4.0		e1d13ca101d59df5f9bea003c5f0739faa6ba58c
 io.github.migule-noob	PermissionM	1.0.0		N/A
@@ -2355,6 +2361,8 @@ io.ktor	ktor-websockets-watchosdevicearm64	3.1.1		f2499b2fc2145e25786f248a61bad3
 io.ktor	ktor-websockets-watchosdevicearm64	3.1.1	metadata	a932fccd64691482ad4d49ddb63fdb46b00ad83e
 io.ktor	ktor-websockets-watchosdevicearm64	3.1.2		f22d34df8cedce1d674308283698c9d454aa54dc
 io.ktor	ktor-websockets-watchosdevicearm64	3.1.2	metadata	459e06ae521514ea4bf551de6c6a83b4f661fc95
+io.ktor	ktor-websockets-watchosdevicearm64	3.1.3		8883a19eac52477e19e84fc4657340aa2f62fd1a
+io.ktor	ktor-websockets-watchosdevicearm64	3.1.3	metadata	6f1f7cadd089809312cd42d66aaf413212e7d1dc
 io.youi	youi-canvas_sjs0.6_2.11	0.6.0		28e4ce0439fa4550c02af8b1e4eb5a420987f93b
 io.youi	youi-canvas_sjs0.6_2.11	0.6.1		cc6e8c9389cc6e0ab78bd08f6c34fe4dd182428e
 io.youi	youi-canvas_sjs0.6_2.11	0.6.2		f8cf8476df398af9ade77510bf265c557d616310
@@ -2863,4 +2871,8 @@ tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.0.8	metadata	7ac63484273b8beea17e10b3b801640ec43d9d03
 tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.0.9	metadata	e54cf380aa0e127f2cfa94c4c82287b29adc8d3d
+tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.1.0	metadata	ac93a5d9549cfa3522840db753c21e37adeec626
+tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.1.1	metadata	b0f88f270ba58f825d7659ef7f68e5478d4f6b05
+tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.1.11	metadata	246b98f46b57a10801fc1c70e1a2d6482dfb9a5c
+tz.co.asoft	koncurrent-executors-coroutines-iossimulatorarm64	3.1.12	metadata	9f5ecf501c06b23f3b4d799df41152fea7ca8c04
 xyz.cofe	logs	0.1		22123e59d7929a72a09cfab4751a049f6deca6aa

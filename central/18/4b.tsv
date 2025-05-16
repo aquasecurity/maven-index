@@ -532,6 +532,7 @@ dev.zio	zio-aws-ssooidc_3	7.31.27.1		386678ce3ba1461a47c88b374d54886f76e70adf
 dev.zio	zio-aws-ssooidc_3	7.31.28.1		0ec123761098a8aab2e8d0f60fc7d5757ace01d6
 dev.zio	zio-aws-ssooidc_3	7.31.3.1		0362ebba60ce586d780a7a93135db6f60110f225
 dev.zio	zio-aws-ssooidc_3	7.31.30.1		47f713f3a6320b7d6b81f042c7b373e25a1a5919
+dev.zio	zio-aws-ssooidc_3	7.31.30.2		11aa7342897cff7672d1b9446bf2763b104f33d8
 dev.zio	zio-aws-ssooidc_3	7.31.4.1		f31664f998dfc2f690db625236c98960a6a73092
 dev.zio	zio-aws-ssooidc_3	7.31.6.1		e7ede3fb99d045f89005af319e789f61b94642f1
 dev.zio	zio-aws-ssooidc_3	7.31.6.2		95b6146391790ef83b81404266bb5a12aa0dc488
@@ -1073,6 +1074,7 @@ io.github.tweener	alarmee	1.5.0		53cf278836c5273dbceb0a6ac737174751d40172
 io.github.tweener	alarmee	1.6.0		37268a12f512d7003024449b9cff9fafc0fed2ab
 io.github.tweener	alarmee	1.6.1		2d835d674d2fa3655b7d35c11f31aa4ef41f092c
 io.github.tweener	alarmee	1.6.2		7938076e119bd322a46d4e1074c63b17f1890fe0
+io.github.tweener	alarmee	1.6.3		3e9c1be2eb84d62feacdbf7cb2bfb746d9ef289a
 io.github.yannickpulver.composereorderable	reorderable-iosarm64	0.9.7		N/A
 io.github.yannickpulver.composereorderable	reorderable-iosarm64	0.9.7	metadata	a76a1fa455c899acc9e8207aa1262d2608b2ee0b
 io.github.yannickpulver.composereorderable	reorderable-iosarm64	0.9.8		N/A
@@ -1168,6 +1170,8 @@ io.ktor	ktor-client-encoding-iossimulatorarm64	3.1.1		65c1de9edb3794cc8315ff044f
 io.ktor	ktor-client-encoding-iossimulatorarm64	3.1.1	metadata	702db2c99f9b44785a341737e863f59d6370cb9a
 io.ktor	ktor-client-encoding-iossimulatorarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-encoding-iossimulatorarm64	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-client-encoding-iossimulatorarm64	3.1.3		42c1d46b57f6af51154300634c3d44166f9e96cf
+io.ktor	ktor-client-encoding-iossimulatorarm64	3.1.3	metadata	b78e96cfd7f21879f920e83b6f06d5ab1983cd8f
 io.netty.incubator	netty-incubator-codec-classes-quic	0.0.21.Final		0b5a6d8937eaa2108e783746b1bf40d6003a7338
 io.netty.incubator	netty-incubator-codec-classes-quic	0.0.22.Final		d17bf817699712cdb98d0b59a60434068a72869b
 io.netty.incubator	netty-incubator-codec-classes-quic	0.0.23.Final		fb4a0a438147c90628a931a16c52f39041fdf605
@@ -1219,6 +1223,10 @@ io.netty.incubator	netty-incubator-codec-classes-quic	0.0.69.Final		5cb1082c5fa6
 io.netty.incubator	netty-incubator-codec-classes-quic	0.0.70.Final		1eb02a7175175e80c5562741f6db66a6bc150dd2
 io.netty.incubator	netty-incubator-codec-classes-quic	0.0.71.Final		b8e35e17eb076dcc71afa420c35309a5784f0aa3
 io.netty.incubator	netty-incubator-codec-classes-quic	0.0.72.Final		b34619309e57346be9a46efdb63623d93a52bcd0
+io.paymenthighway.sbt	sbt-cxf_2.10_0.13	1.2		73a5782d3dd216efdeb054905050a74f98034e42
+io.paymenthighway.sbt	sbt-cxf_2.10_0.13	1.3		4cd7cf631cba74b8d88d7ac009e6dd58ef0153ec
+io.paymenthighway.sbt	sbt-cxf_2.10_0.13	1.4		c6e53b0bcc9bebc47d1ffe559a7e6bfdf164f8d8
+io.paymenthighway.sbt	sbt-cxf_2.10_0.13	1.5		70fcd3400c28984e5d0e748a880d1d3d9bb00734
 io.quarkus	quarkus-narayana-jta-deployment	0.13.0		410de3dd76be2969bd5b326359f6db229e309c5e
 io.quarkus	quarkus-narayana-jta-deployment	0.13.1		918a6b99b1750f94be7160d507fa44f83d4991da
 io.quarkus	quarkus-narayana-jta-deployment	0.13.2		6f906a89a33b4d70ba208174008ad754319a97a9
@@ -1486,6 +1494,7 @@ io.quarkus	quarkus-narayana-jta-deployment	3.15.2		46a2bf61e25f4bc4c1b5d66d1aeec
 io.quarkus	quarkus-narayana-jta-deployment	3.15.3		95c1c8478cbb9d4dd6e2f0039bd3d4570866caa6
 io.quarkus	quarkus-narayana-jta-deployment	3.15.3.1		bf23be3b7b4c5cfd89ee6f8b134d4e24f081e721
 io.quarkus	quarkus-narayana-jta-deployment	3.15.4		48c4a4305269e62e865d619e830752f420c009a4
+io.quarkus	quarkus-narayana-jta-deployment	3.15.5		21646a77cbd072139cd218b924466d4792c5b976
 io.quarkus	quarkus-narayana-jta-deployment	3.16.0		bb4d97dd4cadd1a4c0357460707dd27b475c6aa1
 io.quarkus	quarkus-narayana-jta-deployment	3.16.0.CR1		0add7a34e78d03574e87a40e715143343e0fae43
 io.quarkus	quarkus-narayana-jta-deployment	3.16.1		96bcc406654d9313a96ebc2fbc31968c16069dd4
@@ -1530,6 +1539,7 @@ io.quarkus	quarkus-narayana-jta-deployment	3.2.8.Final		74cae189717051837863d7b7
 io.quarkus	quarkus-narayana-jta-deployment	3.2.9.Final		d589221eb6c6d040d5c8a814d92dfba6f5bc936a
 io.quarkus	quarkus-narayana-jta-deployment	3.20.0		8a8eac32855a44ce947ff31374afe1984b63605d
 io.quarkus	quarkus-narayana-jta-deployment	3.20.0.CR1		474a54ae1a8802a98addef28d7abfaed346d8525
+io.quarkus	quarkus-narayana-jta-deployment	3.20.1		57598531a46259acccd9796957b7f52cc8f35a08
 io.quarkus	quarkus-narayana-jta-deployment	3.21.0		6943ecc616ed6d15d93eadc20102773c4a9e6065
 io.quarkus	quarkus-narayana-jta-deployment	3.21.0.CR1		3dd783246bdf6d362e84fd5bceb21ddbb5b19aa4
 io.quarkus	quarkus-narayana-jta-deployment	3.21.1		95cdbe285f74b129df3b66f5dde42dad6f1ed202
@@ -1539,6 +1549,9 @@ io.quarkus	quarkus-narayana-jta-deployment	3.21.4		95388875d8bf283293624990e6989
 io.quarkus	quarkus-narayana-jta-deployment	3.22.0		679cb4e4f1411e729d1594aac06283814acfaf3f
 io.quarkus	quarkus-narayana-jta-deployment	3.22.0.CR1		c3cb29bd4dea93ed98ce4546665fbd9dd96630aa
 io.quarkus	quarkus-narayana-jta-deployment	3.22.1		b8abc5363facc60a5e89439000b99e8590684a9a
+io.quarkus	quarkus-narayana-jta-deployment	3.22.2		1203de1a6906f874eab77f61cb004c1cf5251c14
+io.quarkus	quarkus-narayana-jta-deployment	3.22.3		8384b3db6fdd7e86b4a94b78a46b206e79d92990
+io.quarkus	quarkus-narayana-jta-deployment	3.23.0.CR1		dc0834197dc8d7814a8cef565a7ecab7428299ea
 io.quarkus	quarkus-narayana-jta-deployment	3.3.0		6b2fdb8503c59afb88cfa72ce8d23f8159b0d348
 io.quarkus	quarkus-narayana-jta-deployment	3.3.0.CR1		d2b846637a85dc40c9e52c67b21f6155ad83ff71
 io.quarkus	quarkus-narayana-jta-deployment	3.3.1		f9ea3605cfb3fdc42ed7eb39c770484b31122a82
@@ -1724,6 +1737,7 @@ org.apache.camel	camel-debezium-sqlserver	4.8.3		16831a3e3f363c48a44215bdd77276f
 org.apache.camel	camel-debezium-sqlserver	4.8.4		7c35276eee5de96d364a8b3443996ae229c38580
 org.apache.camel	camel-debezium-sqlserver	4.8.5		d8fe31157f689dace56c89c9a1e07bc94925d513
 org.apache.camel	camel-debezium-sqlserver	4.8.6		484381af6c2eca58fbb41429e6daea04f662d5af
+org.apache.camel	camel-debezium-sqlserver	4.8.7		f3526934ebf76ca6b143c4420d7444800e6fa425
 org.apache.camel	camel-debezium-sqlserver	4.9.0		775b239d55a94932f28ac33b5ef6d57691310a3d
 org.apache.cocoon	cocoon	1		N/A
 org.apache.cocoon	cocoon	2		N/A
@@ -2200,6 +2214,7 @@ org.modelmapper.extensions	modelmapper-jooq	3.1.1		a7fbd4d29a5cee88ed6d2c2cd8b4b
 org.modelmapper.extensions	modelmapper-jooq	3.2.0		65a0ba8e93d6a9dca35794c9137596191fd3ceb7
 org.modelmapper.extensions	modelmapper-jooq	3.2.1		3400dd24927587249e8839d061f3014a00bbdbea
 org.modelmapper.extensions	modelmapper-jooq	3.2.2		83dd3c694d5b844bfabf937d7bd6d5ba3671d20c
+org.modelmapper.extensions	modelmapper-jooq	3.2.3		56009b2572e7d8a1dbd6f87a3bdbfba36f7cf5be
 org.ogema.tools	timeseries-utils	2.2.0		a3e66d227b4dd4e3078a6559c3337df55724ff70
 org.ogema.tools	timeseries-utils	2.2.0_1		06696730870bd43f151b29699a423dee29b7b378
 org.ogema.tools	timeseries-utils	2.2.0_2		a4da704ea5e528379b8959dbc75bef742a83234b
@@ -2380,3 +2395,6 @@ tz.co.asoft	captain-navigator-api-jvm	3.0.6		ad3f4b55687200e488e541d596afe9ec195
 tz.co.asoft	captain-navigator-api-jvm	3.0.7		80a99de67f6895ec3fb28032927c6a3a02c7f9e4
 tz.co.asoft	captain-navigator-api-jvm	3.0.8		07705445d665ca99a5408e8583052a62821d6720
 tz.co.asoft	captain-navigator-api-jvm	3.0.9		07705445d665ca99a5408e8583052a62821d6720
+tz.co.asoft	captain-navigator-api-jvm	3.1.1		9d0aeb45993469dadfcd9d017991ca0590773f8c
+tz.co.asoft	captain-navigator-api-jvm	3.1.11		9d0aeb45993469dadfcd9d017991ca0590773f8c
+tz.co.asoft	captain-navigator-api-jvm	3.1.12		9d0aeb45993469dadfcd9d017991ca0590773f8c

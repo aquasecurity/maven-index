@@ -194,6 +194,8 @@ com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.64.0		65393f5cba1a0549640
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.65.0		6d960eda5949fda79f347c65242ffcc36fc88130
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.66.0		ec2d17126aaf4ca2e60fc6dedb481afc333b241d
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.67.0		51b1fb9f775fc4ca70aa92864960dc126d3fc3c1
+com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.68.0		aae4912f33f751dc4d1d3d4599efbbb86c2dd943
+com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.69.0		fbbbb6838a4ca036910a385fe8b6f1da3b560471
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.7.0		605c9a4cb845540a631ddf44db654c3b7318e098
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.7.1		e23e32a21ee249fc6042a05c379bf2f1f8d18755
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta1	0.7.2		a5a25331e1f5f07345636edbd42b9355f2a09d58
@@ -236,6 +238,7 @@ com.powsybl	powsybl-open-reac	0.1.0		43917cbe545e19d9bc199a8375f9708812506c40
 com.powsybl	powsybl-open-reac	0.10.0		dc8eac633ac420c154c93be93115645a2d1e89e2
 com.powsybl	powsybl-open-reac	0.11.0		a9e31103c5bd6fe8b37af8d25c02f8b0330d9cc5
 com.powsybl	powsybl-open-reac	0.12.0		15c359e3d1b3856bda43dd841435159191c03d72
+com.powsybl	powsybl-open-reac	0.13.0		db1a6624ac5bb337e884dcc3cab43786ae0486b8
 com.powsybl	powsybl-open-reac	0.2.0		b7d96a691d836cc4030ce75e2adec9a21a590716
 com.powsybl	powsybl-open-reac	0.3.0		7703c52b3c876696d92b0f56f0be00059292d78e
 com.powsybl	powsybl-open-reac	0.4.0		4ec445c0f55c0918610a8c1c09dc98aa82183e9b
@@ -566,6 +569,7 @@ io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.19.3		718374df0aecdbf75
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.19.4		50da97df4572de2697c0433c6942dfc32b21da28
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.20.0		ab4639c419ad1b01dcbfb028a28bfff391e0dfcb
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.20.0.CR1		93df82c5e0ec07893de1e878ba4b19b94352444d
+io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.20.1		a49e121d3f5da8f623d22dca3b9137121901cc1a
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.21.0		57a667e91fd71cc339d6bd280cc0e82e1bdd5b26
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.21.0.CR1		eddffeadbf412e7e44c926d04f991dc49c333c4d
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.21.1		29328fd1a5dc1a0231a32b0280fd7dfc2bc0dac4
@@ -575,6 +579,9 @@ io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.21.4		eaff94368e91fa0dc
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.22.0		97d1ddaca03e6db8ef2a00f0bed8005afa9ffb19
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.22.0.CR1		5d088c9e50559a5471c1c09a4aaf067d0f1c0c7a
 io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.22.1		36c983b954b697c99c9019c795ed2c3bb35bbfba
+io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.22.2		8a2c51fc4b17214a0571ac586fdb87243ee0e454
+io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.22.3		ed4e4e733df7e675fce8491f8593666179be2abb
+io.quarkus	quarkus-micrometer-opentelemetry-deployment	3.23.0.CR1		6f5befe058d07414fbf759560f3cf9cb1075c722
 io.smallrye	smallrye-context-propagation-parent	1.0.1		N/A
 io.smallrye	smallrye-context-propagation-parent	1.0.11		N/A
 io.smallrye	smallrye-context-propagation-parent	1.0.12		N/A
@@ -947,10 +954,12 @@ org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.1.20-Beta2		bb318b70
 org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.1.20-RC		6303f7543e7e24bbaf71710a0a37345052864f32
 org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.1.20-RC2		b2b78c92663fd5df894a2ef78dce94e7936276ee
 org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.1.20-RC3		2cdae5ab639e43acff9f79b548d0ddf45d68b58f
+org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.1.21		147a86034eeea2ea5c0af01ddba02663d9582adf
 org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.1.21-RC		f36aaba919aa32d52a9adf8fb1f5ffa6d2663359
 org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.1.21-RC2		636b044370decce787a2242f15782beff94d756a
 org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.2.0-Beta1		536e96a0d4246135936a215a89fb2a4b634a706a
 org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.2.0-Beta2		71f3b2e412099b8f29134d8699361610be851be2
+org.jetbrains.kotlin	kotlin-scripting-compiler-embeddable	2.2.0-RC		1f8b6221959d77b4095a1ca4810b669b9ff3c232
 org.komapper	komapper-spring-r2dbc	0.30.0		fe3c0abe48b478c3a856ebfb77b71baed7baad2a
 org.komapper	komapper-spring-r2dbc	0.31.0		1b16ac07c1bd6cab557555acee2d0d4203f6a000
 org.komapper	komapper-spring-r2dbc	0.32.0		b75315647a151508f642f689977a73db50f20f6a
@@ -2275,6 +2284,7 @@ tz.co.asoft	epsilon-network-ktor-tvossimulatorarm64	2.0.18		N/A
 tz.co.asoft	epsilon-network-ktor-tvossimulatorarm64	2.0.18	metadata	271ff3d9df5c6f0f613edfc5c303ff6c7abbeb45
 xmlbeans	xbean_xpath	1.0.3		93c24e49a393d4659b29f7fcfde626c5f81565fd
 xmlbeans	xbean_xpath	1.0.4		9b76f2b4ca57d2021b58ca1f2151ad09405e244f
+xmlbeans	xbean_xpath	1.0.4	jdk1.3	a0e30f91325f33bcba3f7736877b548b20a4abc0
 xmlbeans	xbean_xpath	2.0.0		d48cdad2f7610f29a2b2e2ee64391b6a437c992a
 xmlbeans	xbean_xpath	2.0.0-beta1		3af0b1c6289e64dfd13b92e4fbadd69bf7e26f94
 xmlbeans	xbean_xpath	2.1.0		8ed3d2c36760acb4339eb32bee7ce92413108b3d

@@ -993,7 +993,14 @@ com.yahoo.vespa	flags	8.511.14		81bb4ba023b6be01832b3ec0edec38c5d7b6e594
 com.yahoo.vespa	flags	8.512.63		462bb3b933e7135c9329eed6a1fb2aa5ca71ddc8
 com.yahoo.vespa	flags	8.513.17		fd61d54085bb876dea068ad5b6e5e0f2c34c0e7f
 com.yahoo.vespa	flags	8.514.24		183957f3e3aa53bcbb676b4b0bc5f93804828fe2
+com.yahoo.vespa	flags	8.515.40		46e334c2915554fac7f7dbcedaebc9d2456717ea
+com.yahoo.vespa	flags	8.516.26		125cb3aed8f8c3ffc5f2cc248850c92e76e875a5
+com.yahoo.vespa	flags	8.517.15		1906751fc810f868965958ae0f5d41eaf971f7a8
+com.yahoo.vespa	flags	8.518.4		98df205a1dc196f54fabbd0685d66f3bff289389
+com.yahoo.vespa	flags	8.519.55		6f8174baf2ebf4d97030df80a0664127208fc26c
 com.yahoo.vespa	flags	8.52.15		56de5670482e8d8b75cdfe945aef724800d69ddd
+com.yahoo.vespa	flags	8.520.18		96cdc170d8c85874f60032342957c21a848ee7bc
+com.yahoo.vespa	flags	8.521.17		a8ff5c84e4a907285177ab6d877cc1f73187d745
 com.yahoo.vespa	flags	8.53.21		72d05c6307da0c589a5b0905e7b8d71e76313b00
 com.yahoo.vespa	flags	8.54.61		15c4b72da2c5b8e0572048a68709e341e3e6f6b7
 com.yahoo.vespa	flags	8.56.20		66a4b4855be14ea1ce6b98f1395dd8be72093995
@@ -1180,6 +1187,7 @@ io.micrometer	micrometer-registry-cloudwatch2	1.13.10		a6c7784c63bff55e251a5e0f4
 io.micrometer	micrometer-registry-cloudwatch2	1.13.11		430d91950d54313e67a5d7d0026a02f424a5ba3a
 io.micrometer	micrometer-registry-cloudwatch2	1.13.12		099aec1ea02b93cb8863a531dd2aa30292f17036
 io.micrometer	micrometer-registry-cloudwatch2	1.13.13		2e1a903c5b355369c75dfddbb4e6173d583742f1
+io.micrometer	micrometer-registry-cloudwatch2	1.13.14		a439dcd12392fa5e2d730e1437f8bb4c0dd89ece
 io.micrometer	micrometer-registry-cloudwatch2	1.13.2		98074be83e4507f208c9c08115ac810e4b26d3c0
 io.micrometer	micrometer-registry-cloudwatch2	1.13.3		975c624583ce25e2462d3d4ad68a19b14391a5c0
 io.micrometer	micrometer-registry-cloudwatch2	1.13.4		17d7a582e3b0af0809ce2d1ff923d4296716f819
@@ -1195,6 +1203,8 @@ io.micrometer	micrometer-registry-cloudwatch2	1.14.3		ca3f2207dc6a2f57e13a0ea67f
 io.micrometer	micrometer-registry-cloudwatch2	1.14.4		027537a4c00c90734d39f5955b71b40db36537d1
 io.micrometer	micrometer-registry-cloudwatch2	1.14.5		12cba134d6b401c1e1ac3550ed167f79ea365d84
 io.micrometer	micrometer-registry-cloudwatch2	1.14.6		07b60b13eee5be1ad9631aa80460c4168056b841
+io.micrometer	micrometer-registry-cloudwatch2	1.14.7		1193ca94ce5668635811790ebdcd86db3ec473e8
+io.micrometer	micrometer-registry-cloudwatch2	1.15.0		0d68092e9f750d8bda8d97bd1aa4ec7b95a8a542
 io.micrometer	micrometer-registry-cloudwatch2	1.15.0-M2		73abfab14c11c87f093ccf25ba3d796273a9ea50
 io.micrometer	micrometer-registry-cloudwatch2	1.15.0-M3		4a931208c29130cc0094f3de7c2d83bc768bcea3
 io.micrometer	micrometer-registry-cloudwatch2	1.15.0-RC1		d9ef32d2a1f8f4d830854f941571fdc590f645db
@@ -1469,6 +1479,7 @@ io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.15.2		6b46619a80fc8
 io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.15.3		2b7adec451dd91877757d1b3f053fb8e28688167
 io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.15.3.1		4fb44554f62c1794c20cc6ceea75d0cfc111f8cc
 io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.15.4		8164a67a4f000860c1bb0747b4d8c5bd19ba5db2
+io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.15.5		90975f7fed8de1aac4321c1057f5e43d99c21133
 io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.2.0.CR1		40abdea16bd8a5e05bd5a68805ca213b19072504
 io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.2.0.Final		a9d638a0e7c71d73506f05970a8b3ee87c620525
 io.quarkus	quarkus-rest-client-reactive-jackson-deployment	3.2.1.Final		bf86ec87a43e2bc7c8f6ab6559e5184641950602
@@ -1630,6 +1641,7 @@ org.apache.sentry	sentry-hdfs-dist	2.0.0		dd00e336e6b367f0a803ccf33e9b6e8cde2d18
 org.apache.sentry	sentry-hdfs-dist	2.0.1		c14e98aea3347f9919d76a909d4646bf51a18af7
 org.apache.sentry	sentry-hdfs-dist	2.1.0		e5cb7a6760f86175e1c515166c4ecb0c0581f7bf
 org.apache.xmlgraphics	fop-pdf-images	2.10		c46692f72425d0de47cf0ac26714b3996e45aa60
+org.apache.xmlgraphics	fop-pdf-images	2.11		a1b4f713d8f4ec5ea5a757de474fb81185197b24
 org.apache.xmlgraphics	fop-pdf-images	2.2		49859c80e4bb53b2caa4a86876adb513967a87ce
 org.apache.xmlgraphics	fop-pdf-images	2.3		be7a35527ca3c956563da98102a30355b1813826
 org.apache.xmlgraphics	fop-pdf-images	2.4		41f10680e2229938949ad2ab1012f0c342f989c6

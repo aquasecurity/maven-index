@@ -281,6 +281,7 @@ com.github.j5ik2o	pekko-persistence-dynamodb-journal-base_2.12	1.0.7		0762e68494
 com.github.j5ik2o	pekko-persistence-dynamodb-journal-base_2.12	1.0.8		93b0c29adda9615a39fd043d782e74b4c349a0a9
 com.github.j5ik2o	pekko-persistence-dynamodb-journal-base_2.12	1.0.9		c95ba03f5206de79a1def1660550ff99c439a3d7
 com.github.pjfanning	pekko-http-jsoniter-scala-circe_3	3.1.0		eaeb129c741e90b61ad16d5f1002d21ee17f4256
+com.github.pjfanning	pekko-http-jsoniter-scala-circe_3	3.1.1		11e2db5682d94c7c720b8a2fad855ce374841fbc
 com.github.stacycurl	delta-circe_2.12	1.2.1		ff007876734cc69cd148a965edbef7139d657229
 com.github.thinker0.heron	heron-common	1.0.0		add24c25ab276c0a45eeaa6380142b50609fea70
 com.github.thinker0.heron	heron-common	1.0.1		051b1419df4b31463f6ed6181c5e96357fadf1ce
@@ -353,6 +354,8 @@ com.google.api.grpc	proto-google-analytics-admin-v1beta	0.68.0		3eed93c8493138d9
 com.google.api.grpc	proto-google-analytics-admin-v1beta	0.69.0		5cfee885b2ce562c4588231d97b8e10806473f59
 com.google.api.grpc	proto-google-analytics-admin-v1beta	0.70.0		e7ff5f0286c4a2a16c79185ac3201bd0ddcf9b04
 com.google.api.grpc	proto-google-analytics-admin-v1beta	0.71.0		ec3bc264320f8c33c1d212a049bc3577afda7c8c
+com.google.api.grpc	proto-google-analytics-admin-v1beta	0.72.0		c9159f372eda11f1d41190f8f1c71623d80ab881
+com.google.api.grpc	proto-google-analytics-admin-v1beta	0.73.0		90817405707d8432c2b4a9ed8560a13e1569fe67
 com.googlecode.marrowboy	marrowboy-asserts	1.0.4		40b3ee55e66083d78138c94b7ae0931012646ea4
 com.googlecode.marrowboy	marrowboy-asserts	1.0.5		0d11e9c405e2d0964b520bae53589233bd1cda85
 com.googlecode.marrowboy	marrowboy-asserts	1.0.6		733f0af9a75a71c33068eb3a6a37279f2f7c1915
@@ -395,6 +398,7 @@ com.lihaoyi	scalac-mill-moduledefs-plugin_2.13.1	0.11.3-M4		0d1fc272e5e831950002
 com.lihaoyi	scalac-mill-moduledefs-plugin_2.13.1	0.11.3-M5		b7940c7b5bef0a4561a3277158235c06340aca7e
 com.lihaoyi	scalac-mill-moduledefs-plugin_2.13.1	0.11.3-M6		97493e4f4ff88f456601e02d584e9d6cebfe2411
 com.lihaoyi	scalac-mill-moduledefs-plugin_2.13.1	0.11.3-M7		96120b706e284778f5389e7e5da001a22e5ba312
+com.lihaoyi	scalac-mill-moduledefs-plugin_2.13.1	0.11.4		64422a19d4ade2ec221934da8778811d137399bd
 com.lihaoyi	sshd-2.11.3_2.11	1.0.5-25-b3b801e8		bc2b2170290db80faf4908faebb35ecf6ce310ca
 com.monsanto.arch	cloud-formation-template-generator_2.11	3.10.2		656a903c8b882510ebda1ab3b1133f17399624a5
 com.oracle.oci.sdk	oci-hdfs	2.7.7.3		N/A
@@ -1120,6 +1124,7 @@ org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.2.1		b34e9d23448901c28c9a0
 org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.2.2		8dcd2b43d3a10f8aa59f836904daded98c143611
 org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.2.3		64345d1868dd0416192cda0338a216124d705d91
 org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.20.0		d68e76ee12792217f20a6cc54d9a408b6756f3fe
+org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.20.1		12083596eb54304174af8c978df0e2152ee8ff1f
 org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.22.0		5e548a7639f6421b2973e2f868f776dd6a37685e
 org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.4.0		2875eed30bea92053b6e8ed5705c797547ab7fa8
 org.apache.camel.quarkus	camel-quarkus-dsl-modeline	3.5.0		1b0db668b310ce989554bf36a477284e43912db8
@@ -1547,6 +1552,9 @@ org.http4k	http4k-bom	6.6.0.0		036f214cc15d0625206b75670734856897c670b3
 org.http4k	http4k-bom	6.6.0.1		9fe77ae513c7963ed2ee77ec68cb9b4004584c32
 org.http4k	http4k-bom	6.6.1.0		cbc5110892e465c7e678763466b509f57792bbae
 org.http4k	http4k-bom	6.7.0.0		64a333aee5e752b52d27ee8aca43fb8e44e9b75d
+org.http4k	http4k-bom	6.8.0.0		859e59ca50f9e11b9231d2a21b17674f630cebe8
+org.http4k	http4k-bom	6.8.1.0		8f0997ffe3a04230c7b2f22da271d303171805b9
+org.http4k	http4k-bom	6.9.0.0		2ee9271891437193433be68e0cf8bae15fccab65
 org.http4k	http4k-bom	v6.3.0.0		dafede527bb3b7d9a0edaa765940f50045114eec
 org.http4k	http4k-bom	v6.4.1.0		adffe65e6bdc43c8e95a24c7002918a5b133f11f
 org.ifinal.auto	auto-service	1.0.0		402783abf326981bca698f3faec38894b704ddad
@@ -1639,6 +1647,7 @@ org.jbpm.contrib	riot-workitem	7.72.0.Final		099b4d906f124bdea6128fb5576b1c298d0
 org.jbpm.contrib	riot-workitem	7.73.0.Final		7c270c06ad03bead1076d00ad1baa183ebd0de05
 org.jbpm.contrib	riot-workitem	7.74.0.Final		84c56281f6e7e8026d112e08ad22cbb185ced0f8
 org.jbpm.contrib	riot-workitem	7.74.1.Final		988f7357d77696f4d5a5d3797ceefe39f7fd6f85
+org.microbean	microbean-proxy	0.0.2		6e9ad8d6ed28a4dcba90f3420a20af7414b7bc5e
 org.mobicents.resources	mobicents-slee-ra-diameter-cca-ra	2.7.1.FINAL		d0457a5110a452bf5d195a3ae0ea73216306167f
 org.mobicents.resources	mobicents-slee-ra-diameter-cca-ra	2.8.10		87bff8428153a58245d15f1a4b026d9fc8d1acf7
 org.mobicents.resources	mobicents-slee-ra-diameter-cca-ra	2.8.11		6d8fc98e981b55ac7a78da6ac5e5a92732e7fbe8
@@ -1999,6 +2008,8 @@ org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.10.3		d268bd576d32
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.10.4		a042bc43538ae7bcacd45796dc93a2c8b8c31efb
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.10.5		82f14c711b8ce4377eded0681e0ab4d3a488958a
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.10.6		22e6fc1969af23e0db80c8ccf5b8c44801af6563
+org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.10.7		daeb268ff9d246d5f9b849be3ffafd4226cee2b2
+org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.10.8		ed562d92b14acf1f2e94440c6ce3e9f1f94ebf57
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.2.0		540613593b9468e25fd1e6f2289f51a393f76895
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.2.0-rc-1		b2af8d1392a4226a2aa4d2f0dabdbaf1f978cf1d
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.3.0		e6275d1cccc873f2c3e924e23bb48b9a9edcb1c3
@@ -2013,6 +2024,7 @@ org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.4.4		815dccc7387ad
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.4.5		df6810430c748b55b2095b8eaa3a96304545454d
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.4.6		0d3ca7402f596d9814586540f337020aa5a0132a
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.4.7		c33151c8052284d4af9db885760bcaeb2b98b90a
+org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.4.8		5a443c84fe96ef9661d98abc1bf87af4f1495fd8
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.5.0		7eea89fcbf7e18e1f9788b4edf37e21c01c23dfd
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.5.0-rc-1		48c940a0fa7088ff4de3c955d03d4ca7944803f8
 org.xwiki.commons	xwiki-commons-tool-enforcer-dependencies	16.6.0		cea465e479945df5b7cded1bb2649dd8137b6696
@@ -2400,6 +2412,9 @@ software.amazon.awscdk	lambda-go-alpha	2.190.0-alpha.0		05e01e8d285209852149fff3
 software.amazon.awscdk	lambda-go-alpha	2.191.0-alpha.0		ab180c8453a8a3fb255ea4ae573d0c4e237addfb
 software.amazon.awscdk	lambda-go-alpha	2.192.0-alpha.0		37598a4b8e92d6e0db02cfe2adc2fca7edffc252
 software.amazon.awscdk	lambda-go-alpha	2.193.0-alpha.0		454d2e6aa02723ace3e686eb57de9a9a581b80ba
+software.amazon.awscdk	lambda-go-alpha	2.194.0-alpha.0		28e7e68f0e21ccd1da4d2d7d1238ec3fb8ef9667
+software.amazon.awscdk	lambda-go-alpha	2.195.0-alpha.0		9ae374199f9a78b100f2894b10ae1ec2df869558
+software.amazon.awscdk	lambda-go-alpha	2.196.0-alpha.0		77868bc3e8ff3107f7cdc9afc20c5bd0c91453dd
 software.amazon.awscdk	lambda-go-alpha	2.2.0-alpha.0		83fe927ecb4bc7cd56c81627d8dffb3adf0b907d
 software.amazon.awscdk	lambda-go-alpha	2.20.0-alpha.0		112ee16353b13cf9f718309a91513a6bb294f5e5
 software.amazon.awscdk	lambda-go-alpha	2.21.0-alpha.0		a28a6f61658b133feddcb2c9398ce306e84e66ac

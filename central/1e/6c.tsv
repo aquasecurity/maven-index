@@ -76,6 +76,7 @@ com.azure.resourcemanager	azure-resourcemanager-deploymentmanager	1.0.0-beta.2		
 com.baidu.lbs	baiduBase	1.0.0		N/A
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.0		b9b59d0569bfc5064ffb3691ec61780980559dba
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.0-1-19acfb2		40f7f95cc0025c225e6fa045b756de9525b11f75
+com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.0-1-26737b4		46054a78bc142e5dfa2e79ce53ae29eb722810e6
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.0-1-5a26ba3		55fda03cfae303e28ee8380b3c1efbd49fdcd61c
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.0-1-8d943ab		f684424cc63e3ca83b14b90bbe0667a6f8d372e5
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.0-1-b0aa866		f610eb4ced0c18de8c806de207e889afd1c5d96a
@@ -185,6 +186,7 @@ com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.31		40c9e7af0b329eef9eaac94b
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.32		e0b547d75f689808c8597be8d8fbb807e6e25298
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.33		c6094e4e9319737d8336f451fb984595a8a81f5a
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.34		8164864025b26931f7032dee057fd1b3ed7c5fc9
+com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.35		2a3f93baeb1dc3c5637392a513caf21e91a5728e
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.4		dd9aa2a3c1695b876ec3e4382fdf3727b191440c
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.5		e4a077a825ac4a2212d76fa4a12f17aaa3dcb898
 com.disneystreaming.smithy4s	smithy4s-fs2_2.12	0.18.6		f0fc726c88c27005922cfc9aab02a28c905180cf
@@ -752,6 +754,17 @@ io.delta	delta-standalone_2.11	0.5.0		14e6d0ea9c24d517b7f55e435399f5f650a5d2a6
 io.delta	delta-standalone_2.11	0.6.0		a5734b35e63bec3225da6390c5b0430dd36a2df9
 io.gitee.rocksdev	security-sdk-xss	1.0.0		8f403c77e0667fafe513ab96cd15f17119f16b8f
 io.gitee.rocksdev	security-sdk-xss	1.0.1		2de98d41cfb919160167d88f0200e697f0c17726
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.0		de13e1712387631c34b2741435b05201b109d08a
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.1		da5f0084546f1abd7f6f92c7ce443c8013b7939f
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.10		8b5f8ed300bdcc76236563abd4bd28617e832901
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.2		0b6156c41b317a99cc7460b0048c6ec67984e2dc
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.3		07cdc5fed9ca19894ce72b8ee2203f737f28caab
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.4		389c35eaf38302e949e94ffdb73aa6c4b35fb63b
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.5		5cbeb34a94d3b460e14fc4937300994e4516102d
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.6		07e2cae3fc8b46bb0de56e2513e27e2ec508ad1b
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.7		1592887d2b5c7b37278d8c01c60a23a541f5581a
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.8		6c9ed1105c483d0309b419d8492c5a85fcc4e356
+io.github.daghemberg	sbt-paut_2.12_1.0	0.1.9		48efd7c088b77a86a52e01866341e71b23f0d6b6
 io.github.devblack21	logbit	1.0.0		02692dda663c9823f35c564e27fd384e1cfd19d1
 io.github.devblack21	logbit	1.0.1		e3eeece41b924815837d7a26e0e52a34fb8741d4
 io.github.devblack21	logbit	1.0.2		bc0d6c1d70c708964031b4feede4d0b4404afc16
@@ -984,6 +997,7 @@ io.helidon.openapi	helidon-openapi	4.1.6		bd5328e93b8344250ebf678e3af1e3ef3eeb1b
 io.helidon.openapi	helidon-openapi	4.1.7		af4989062cb243b4a3a3f7290e39370a036bc144
 io.helidon.openapi	helidon-openapi	4.2.0		1706322bdb4ee463f50074059eb910ee2c49c32c
 io.helidon.openapi	helidon-openapi	4.2.1		62ef49c84e88c902a2f9724b2eff8db0d46385cb
+io.helidon.openapi	helidon-openapi	4.2.2		156e2c85abcd83b3ca4939a8bbb21ef28447f5b9
 io.knotx	knotx-fragments-supplier-single-fragment	2.0.0		ec6a7f2692555193ffb6ae0a083e96db12ee2f13
 io.knotx	knotx-fragments-supplier-single-fragment	2.0.0-RC4		b316f016f529b87409bc97f6b6a5d925fbb09f8e
 io.knotx	knotx-fragments-supplier-single-fragment	2.0.0-RC5		253fc3ff54f8758a9260ad363626c2b860ec4747
@@ -1025,6 +1039,7 @@ io.matthewnelson.kotlin-components	kmp-tor-ext-callback-controller-common-tvossi
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-controller-common-tvossimulatorarm64	1.4.3	metadata	3a8dc1e0f687ef5ee4114aa08cee3dd32103c97a
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-controller-common-tvossimulatorarm64	1.4.4		N/A
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-controller-common-tvossimulatorarm64	1.4.4	metadata	35057cf63d2f2377caf3c9e1010dad6451c3b54e
+io.micronaut.servlet	micronaut-http-server-jetty	.9.3		3d6d1d0695c6f7afedaaee6b9087824d30062758
 io.micronaut.servlet	micronaut-http-server-jetty	1.0.0		24a603cbea7f33733ef2cc6ca088c60d9289c9f6
 io.micronaut.servlet	micronaut-http-server-jetty	1.0.0.M1		cf2bfee72c300e0442bdc5f761133a517cb4121e
 io.micronaut.servlet	micronaut-http-server-jetty	1.0.0.M2		3a4eb0cfaf26918fde4fbcc0f1451e08023cca99

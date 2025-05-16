@@ -971,6 +971,7 @@ io.quarkus	quarkus-oidc-common	3.15.2		fe4958faac2d16734da77a3e4fe6d1032349cab8
 io.quarkus	quarkus-oidc-common	3.15.3		f2b135d7af7b0b1c8ce60933cd061f8072788c21
 io.quarkus	quarkus-oidc-common	3.15.3.1		4f9e22f008987e2ff62182e150a9fc5be693d6d3
 io.quarkus	quarkus-oidc-common	3.15.4		b263cfd5cdf0abaef09d3d31044a19f74e81387c
+io.quarkus	quarkus-oidc-common	3.15.5		799831a333a99882df442a7c4b2918874b3269bd
 io.quarkus	quarkus-oidc-common	3.16.0		0f846fc10c4b0e002eaab57439c020d27e335f7d
 io.quarkus	quarkus-oidc-common	3.16.0.CR1		4c126219b0d965436cf38894f437e960e8d5a5c0
 io.quarkus	quarkus-oidc-common	3.16.1		3a24c58d3681fcaa81338d67842c49849a4c2461
@@ -1015,6 +1016,7 @@ io.quarkus	quarkus-oidc-common	3.2.8.Final		d91d0fb47d1f79bd3a4f1cb73cf327f2f75c
 io.quarkus	quarkus-oidc-common	3.2.9.Final		9b9d55618496ad47836f620e652c8bf573155ea0
 io.quarkus	quarkus-oidc-common	3.20.0		1084748521da10031b1959c6f8f7c77af0b7be47
 io.quarkus	quarkus-oidc-common	3.20.0.CR1		5bcfecf2aa1a2cc09c467c267a2b574910a49ef4
+io.quarkus	quarkus-oidc-common	3.20.1		2cdd28f772d44ca9a4b86570e7fde1138472e761
 io.quarkus	quarkus-oidc-common	3.21.0		00b54c4b94a1784a55fe3cc42722be43471f5394
 io.quarkus	quarkus-oidc-common	3.21.0.CR1		418b580a02b8bb57dda032247962212906cad863
 io.quarkus	quarkus-oidc-common	3.21.1		451edc28296410f6563b9fd4b1d4dbfda9a139ff
@@ -1024,6 +1026,9 @@ io.quarkus	quarkus-oidc-common	3.21.4		af8edf1c3ac96dc3dd859f7877aa0646d26030fb
 io.quarkus	quarkus-oidc-common	3.22.0		a84226f253636a9924f41590ffeaeb01fdf720d9
 io.quarkus	quarkus-oidc-common	3.22.0.CR1		14776adf45a0e738cf9fe431a4eb063d2d11013d
 io.quarkus	quarkus-oidc-common	3.22.1		21afb96523f6d964a073ff7d644fef590f22e42f
+io.quarkus	quarkus-oidc-common	3.22.2		724b6dfbb6d2b798c0f7b9d80e4989e185023a4b
+io.quarkus	quarkus-oidc-common	3.22.3		d052ab0f21954a34452450a06888d8ff21b2dd83
+io.quarkus	quarkus-oidc-common	3.23.0.CR1		27b4a5b3ecf9cc392479c2db02d3e562336d8e32
 io.quarkus	quarkus-oidc-common	3.3.0		a7f41efee37f359f8df50132a9dc57a991e4a693
 io.quarkus	quarkus-oidc-common	3.3.0.CR1		558b0989540ab73c5686b3f775b7abe12f58be30
 io.quarkus	quarkus-oidc-common	3.3.1		3d424e6a1baf33927f73c465451c438fdf0fe975
@@ -1407,6 +1412,8 @@ it.unibo.alchemist	alchemist-euclidean-geometry	42.0.7		cffb895b0fa7cebf098eae60
 it.unibo.alchemist	alchemist-euclidean-geometry	42.0.8		83c4ed91524bc4f14e90c5c8078cacb18209494b
 it.unibo.alchemist	alchemist-euclidean-geometry	42.0.9		86520e598b91fec0b3cd6c0d076030df575fa73d
 it.unibo.alchemist	alchemist-euclidean-geometry	42.1.0		d7c4ab26d333d41f3c0e403aaea7f97ebe30efc5
+it.unibo.alchemist	alchemist-euclidean-geometry	42.1.1		a46f5dd3fcb819e5386fef3d3504cd2ece90be09
+it.unibo.alchemist	alchemist-euclidean-geometry	42.2.0		eba205b21f7476c79ca0f157bdaacf90aa8251ed
 it.unibo.alchemist	alchemist-euclidean-geometry	9.3.0-dev197+283eea26e		f036d6cfc0e9f903251b23c1f863d4aa79f86eeb
 it.unibo.alchemist	alchemist-euclidean-geometry	9.3.0-dev197+283eea26e	all	8413a7f851efab5a3bc230e0b42044f059fc86b4
 it.unibo.alchemist	alchemist-euclidean-geometry	9.3.0-dev198+b6c1cfaa1		27e60c03eb937165011902ff326afeae22ecebd2
@@ -3424,6 +3431,7 @@ org.sdase.commons	sda-commons-server-hibernate	7.3.13		ee01832d6452a7371d493e24c
 org.sdase.commons	sda-commons-server-hibernate	7.3.14		898f8fbcb6dea9e6002d262ce0b2fdd7669b82d2
 org.sdase.commons	sda-commons-server-hibernate	7.3.15		a58d929b91004b0371ae14dd2e8a65bffe2aa9bb
 org.sdase.commons	sda-commons-server-hibernate	7.3.16		5321a73819fa7b2e181e58c2b97c97ef5d2a1669
+org.sdase.commons	sda-commons-server-hibernate	7.3.17		33e8028c8f6199922e2efa1e5759033c929a7973
 org.sdase.commons	sda-commons-server-hibernate	7.3.2		27f768e27d5d7b671af8e8e85eba94cfa174ac10
 org.sdase.commons	sda-commons-server-hibernate	7.3.3		9b5634d47236816be25f9b71ad0ef08fef9dbb6f
 org.sdase.commons	sda-commons-server-hibernate	7.3.4		8af5273ef133d9f0723d4b64d5c38d3642a9f8f6
@@ -3432,6 +3440,10 @@ org.sdase.commons	sda-commons-server-hibernate	7.3.6		132b536ab53e0fb729df688446
 org.sdase.commons	sda-commons-server-hibernate	7.3.7		9cfd344a21293425107d6df156a08e12ae905481
 org.sdase.commons	sda-commons-server-hibernate	7.3.8		8900473d2d684f61d6e19faeeb190430a5a1b3bd
 org.sdase.commons	sda-commons-server-hibernate	7.3.9		35c097f00d9fd9cfbdc49b0e2311d9d9c2cb3a1c
+org.sdase.commons	sda-commons-server-hibernate	7.4.0		c3241abde40da9f7a85277d1c0a73c619ea05c4a
+org.sdase.commons	sda-commons-server-hibernate	7.5.0		d239861e098afbdffbd9a789e533e1bb594f1ae9
+org.sdase.commons	sda-commons-server-hibernate	7.5.1		164408cfb8083f0d96544fbd5bc6c70183c1cd93
+org.sdase.commons	sda-commons-server-hibernate	7.5.2		5a4d89a850e07bd4b8f0c0896ec8b1255ca1a739
 org.springframework.cloud	spring-cloud-starter-skipper-server	1.0.10.RELEASE		ff90af98715d1db249aeba1dbb61c3bb02a5e7d0
 org.springframework.cloud	spring-cloud-starter-skipper-server	1.0.2.RELEASE		dcf414f980f2b979b999d46e3341a2d7556ea4df
 org.springframework.cloud	spring-cloud-starter-skipper-server	1.0.3.RELEASE		f012f3004afcdcd9116b2a099432d47d7041b6df
@@ -4700,7 +4712,18 @@ software.amazon.awssdk	appintegrations	2.31.30		48d4bf0070ddd2ef72f48bd1dd648a94
 software.amazon.awssdk	appintegrations	2.31.31		1cf559236fe261dde42412164a6616cd29456a14
 software.amazon.awssdk	appintegrations	2.31.32		0c6f181582f85b42e7219626ff82eca839bd4354
 software.amazon.awssdk	appintegrations	2.31.33		34d1da1b7877f8428e8f09bf15a5858b8ee5b80e
+software.amazon.awssdk	appintegrations	2.31.34		789c04a9c871ee9fca88fe1e0b916e2fee7f8380
+software.amazon.awssdk	appintegrations	2.31.35		db2b3b0ba17e859a4f394abe0de92ab6333a3dc9
+software.amazon.awssdk	appintegrations	2.31.36		688aaa4f89ba3f3249d267a066a37ae2e9e98d35
+software.amazon.awssdk	appintegrations	2.31.37		5523b5c18e8ee5b39214074230f209107341b3ed
+software.amazon.awssdk	appintegrations	2.31.38		3d6024c32c1c47108fd1e49213fe87b691b5d0e8
+software.amazon.awssdk	appintegrations	2.31.39		5d9c701356fcd84e3b43c7dffed0e2ff405bd99e
 software.amazon.awssdk	appintegrations	2.31.4		445482d68f6475b24b87225a6003ec2ef7dfb348
+software.amazon.awssdk	appintegrations	2.31.40		aeb81aafba7ef30834d5aa851cce072ea463baf1
+software.amazon.awssdk	appintegrations	2.31.41		065beda5d087e92432d092c43e6dd24fe2824d35
+software.amazon.awssdk	appintegrations	2.31.42		1861c66b6c917f813fcdc9aec77a0ee24503b636
+software.amazon.awssdk	appintegrations	2.31.43		072cc1bad501a8fd8e40010fe80af41a2cfc9490
+software.amazon.awssdk	appintegrations	2.31.44		3422b5018ba7117ff907d16fc6656b230396bac2
 software.amazon.awssdk	appintegrations	2.31.5		a5fafd326ba632fc69a27fbde558c054c285ec7d
 software.amazon.awssdk	appintegrations	2.31.6		de854ea51b6961ef715c3f277cb296ca02bb70d0
 software.amazon.awssdk	appintegrations	2.31.7		02fee6757a5251ad7be3155975813f2ddcc343c0
@@ -6916,7 +6939,18 @@ software.amazon.awssdk	snowdevicemanagement	2.31.30		99346f8076d38d1da22450b188f
 software.amazon.awssdk	snowdevicemanagement	2.31.31		6edae9a4c1a8b728c4ac387af56e39176a879f10
 software.amazon.awssdk	snowdevicemanagement	2.31.32		530855d45b6f618c0fdfcb347189fb123283a3f2
 software.amazon.awssdk	snowdevicemanagement	2.31.33		0092cf4042416939c48a0ec77de4eb54959b8c6c
+software.amazon.awssdk	snowdevicemanagement	2.31.34		3e155f9143b25b437233d578c5cc11a65da618d6
+software.amazon.awssdk	snowdevicemanagement	2.31.35		bd908bb03b31df396a830eb1947474195fa4b252
+software.amazon.awssdk	snowdevicemanagement	2.31.36		4b5e1a5b10de9939c66806f6dfd67eef7b6df336
+software.amazon.awssdk	snowdevicemanagement	2.31.37		edf44a9c3c1ad49938b93e9452282c6b51080110
+software.amazon.awssdk	snowdevicemanagement	2.31.38		020f9fa3f41bce29a021802f300455ed4a0906b8
+software.amazon.awssdk	snowdevicemanagement	2.31.39		3cce52fd3ac115a90978022614f60df5b7b88f17
 software.amazon.awssdk	snowdevicemanagement	2.31.4		a7ed4d2782103045fd4f07a710540be11e4a3774
+software.amazon.awssdk	snowdevicemanagement	2.31.40		bd615cd17e14db230e9190296e2a659028fab0d8
+software.amazon.awssdk	snowdevicemanagement	2.31.41		0ea9e111b7d34e686bfe21c6d793f152d0cb1384
+software.amazon.awssdk	snowdevicemanagement	2.31.42		1a4c089100251ec2527608eb0f5e0c6fd8208f05
+software.amazon.awssdk	snowdevicemanagement	2.31.43		f350f2cd3561250d19a5a558bf8415001ed26e6f
+software.amazon.awssdk	snowdevicemanagement	2.31.44		2cdaaedb826d7a5cb662d34ead4859f227de0a0e
 software.amazon.awssdk	snowdevicemanagement	2.31.5		8874f4f3ccb76b8bf7295b04941895139c559faa
 software.amazon.awssdk	snowdevicemanagement	2.31.6		4d78f4dd2f7b31cd5ddc6f3b1cb4fb1cddb8041c
 software.amazon.awssdk	snowdevicemanagement	2.31.7		024c93df9500d1abd553679e511a780445da2a07

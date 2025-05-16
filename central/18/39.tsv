@@ -313,6 +313,10 @@ com.tunjid.treenav	compose	0.0.13		c3ff0dd56f21c40d4241dd216c9cd8bccadf3212
 com.tunjid.treenav	compose	0.0.14		05177e5b785f15a1ecdcedb0b3e53a5cb78282f0
 com.tunjid.treenav	compose	0.0.20		6fc17c88a8f522a66ca0e9a1ac913d540d29fb2d
 com.tunjid.treenav	compose	0.0.21		6fc17c88a8f522a66ca0e9a1ac913d540d29fb2d
+com.tunjid.treenav	compose	0.0.22		8601e4f54d2a722b2477406ba4a378d4bbe8d567
+com.tunjid.treenav	compose	0.0.23		0945488b7ab755f916732eb0735f9a97d68e631d
+com.tunjid.treenav	compose	0.0.24		e341873ed4400587b8891e515fa94b452d3d0880
+com.tunjid.treenav	compose	0.0.25		e341873ed4400587b8891e515fa94b452d3d0880
 com.tunjid.treenav	compose	0.0.7		4581296533252b99cb0bb307bcb7d9a91ca81682
 com.tunjid.treenav	compose	0.0.8		67d923767619e8e0c76b3b1322760bc8b63228d7
 com.tunjid.treenav	compose	0.0.9		4cda68cbc019ce581b7167a94c477b7ec26b15c6
@@ -656,6 +660,7 @@ dev.zio	zio-aws-mq_3	7.31.27.1		442ac34ed55f0fb9469b9afed5c5d30501986e2b
 dev.zio	zio-aws-mq_3	7.31.28.1		51fe777948660dd8345f78ff6b24421bf4410984
 dev.zio	zio-aws-mq_3	7.31.3.1		6523a0668434667f7016aab099ed9b7e43cc73c5
 dev.zio	zio-aws-mq_3	7.31.30.1		d44501f990c97795396244b26420d1e6fe2fe21c
+dev.zio	zio-aws-mq_3	7.31.30.2		12407ebf8d8c4239b424576f5fe690e6afc5f0d0
 dev.zio	zio-aws-mq_3	7.31.4.1		fdc7dccd5cec1b384a27759fa811480d798183f1
 dev.zio	zio-aws-mq_3	7.31.6.1		42bd06b52e33281927c9398a18c9a768da5305b2
 dev.zio	zio-aws-mq_3	7.31.6.2		e662fe24420f716fb6e1bc192680bd3424407256
@@ -1710,10 +1715,17 @@ org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.8.0	
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.80.0		fd55b8568dc1275ea742670aa1ea86c232c11427
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.81.0		35239d40b11f1811a2670fe7cf7e1ff8be12a76e
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.82.0		2311a208a5c0a9b5316be2c75a7f929882c668a8
+org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.82.1		c1a383ad10119f6fe567e256a55cd53327fcebe4
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.83.0		bcc51b8a5fec2075d2acb8fdda83b4848bcf1d52
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.83.1		02642e6d265f9ce85eea21139381b52b90f0457b
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.83.2		ff1f98c7b58e26655a182527516a9fe10b164efb
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.83.3		acabfc2a22e3506d2f69807f9d8999022dabac47
+org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.84.0		96d2529b0fa1e89bb4dabbe7a5dbee733b233d68
+org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.84.1		f05258675ffe8dc1c8c818bfa4e8be48fe48a1d7
+org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.85.0		b5fee55e6dc3b9b08c8216ddab9be2f4aa416464
+org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.85.1		c4f85d69fea5b24e3f257b98fd7b7991e2dac564
+org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.85.2		cb7c8c2ae833034d324f66929e9aa16a6d3911e6
+org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.85.3		97f002ea4a1072a67688796e68580c6c46bb1ed5
 org.finos.legend.engine	legend-engine-pure-platform-store-relational-java	4.9.0		28a94520dc00de3b1ee9b1c73d630d7416fca958
 org.jboss.as	jboss-as-arquillian-service	7.0.0.Beta1		b78aba0b2caaa5e84f5255c0947068295df49adc
 org.jboss.as	jboss-as-arquillian-service	7.0.0.Beta2		4e160b1852d6091ac9eb43c8a3fc8629d7875da0
@@ -1764,6 +1776,7 @@ org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-watchosarm32	2.9.0-al
 org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-watchosarm32	2.9.0-alpha06	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-watchosarm32	2.9.0-alpha07		N/A
 org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-watchosarm32	2.9.0-alpha07	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-watchosarm32	2.9.0-beta01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.kie.kogito	dmn-tracing-springboot	0.17.0		a5f45a6781dc163a2522f24b8fa84e8a4245f83f
 org.kie.kogito	dmn-tracing-springboot	1.0.0.Final		de20ac5eaa9cbb1bccf3e898acd589991a264bea
 org.kie.kogito	dmn-tracing-springboot	1.1.0.Final		1322fc221c63cf9a4c04d19dd61b6ed261bb8815

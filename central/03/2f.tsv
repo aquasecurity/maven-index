@@ -402,6 +402,7 @@ com.tencent.tcvectordb	vectordatabase-sdk-java	2.3.1		b68034c6d1bf00e57838d2919a
 com.tencent.tcvectordb	vectordatabase-sdk-java	2.3.2		98c7d1a3ef7cefed7b55c7bed73d29cfed20c21e
 com.tencent.tcvectordb	vectordatabase-sdk-java	2.4.0		15705d79184217b32a97c9cac198e3f0ffd62970
 com.tencent.tcvectordb	vectordatabase-sdk-java	2.4.1		e94e66b9251015ae17f9ac9dbe6e2306c0627530
+com.tencent.tcvectordb	vectordatabase-sdk-java	2.4.2		41f989427ddebe8ee9256b0c0ab7f09944d0ffa0
 com.upcwangying.cloud.samples	samples-core	0.2.0		9550a3d11ea367f83efdb855c21c752e2f92fffb
 com.upcwangying.cloud.samples	samples-core	0.2.0.RELEASE		fe89c7344d538684fc1a2f9f21496c7377548eab
 com.upcwangying.cloud.samples	samples-core	0.2.1.RELEASE		da95593b3c08d01282d863f3e3c621ba7c797e61
@@ -1422,7 +1423,14 @@ com.yahoo.vespa	container-search	8.511.14		8b2347ab7b78d658d180190f010677fb3836d
 com.yahoo.vespa	container-search	8.512.63		7d34ce27b4d229f330286630b3fa1070a21f4ca3
 com.yahoo.vespa	container-search	8.513.17		870c06481be82c257a37cd4286623cecdb9f1b80
 com.yahoo.vespa	container-search	8.514.24		5cad2b98add0943bcdc20121c62ebe7768b664ba
+com.yahoo.vespa	container-search	8.515.40		067c1b9527697e839243a915d2b2f7c4fbbbfd0f
+com.yahoo.vespa	container-search	8.516.26		886c54907d94dfd78f8a999abf02064141c3dd5a
+com.yahoo.vespa	container-search	8.517.15		58eff8a4a8ee87607c944ca180017cf5d4e80e55
+com.yahoo.vespa	container-search	8.518.4		dd4148ad8dfa9c9a602cd6e9dd28535382bfe829
+com.yahoo.vespa	container-search	8.519.55		3822b23a54fa3694ac25ff7cfefcccbce5200b32
 com.yahoo.vespa	container-search	8.52.15		c293f1e03c13ae0d45f83cef8f65f8615bee4dd6
+com.yahoo.vespa	container-search	8.520.18		2deee5ac4a742009cab862a5a980e134cd15cd60
+com.yahoo.vespa	container-search	8.521.17		39542e47d8b95bf838c47834a513e03522296850
 com.yahoo.vespa	container-search	8.53.21		eeacaa1e8f0ee4b875af0a43bf6acbb0c92ec336
 com.yahoo.vespa	container-search	8.54.61		3003821af36c9a3fb2df0b8811a7cf4448ae44d3
 com.yahoo.vespa	container-search	8.56.20		502737dd07adb1eb2314ab86bde4f2e69e66959a
@@ -1493,6 +1501,7 @@ dev.evo.elasticmagic	elasticmagic-transport-ktor-jvm	0.1.0		c899d29de011ffa731a5
 dev.evo.elasticmagic	elasticmagic-transport-ktor-jvm	0.2.0		76a347c9b0128a34ddd8f2995500ee3ed28b649f
 dev.evo.elasticmagic	elasticmagic-transport-ktor-jvm	0.3.0		76a347c9b0128a34ddd8f2995500ee3ed28b649f
 dev.jorel	commandapi-velocity-core	10.0.0		c6e96707ab9eb63b59eafa72d6da4955f4c53150
+dev.jorel	commandapi-velocity-core	10.0.1		262d328c64ba79a274b3f8bfaeccedd9dc4fe3b6
 dev.zio	zio-aws-m2_2.13	5.17.224.2		cefffc4d989f9b8f920eb85a73ff54a965f07a79
 dev.zio	zio-aws-m2_2.13	5.17.224.3		68082960619a622422992284ce00738a8ac22c7c
 dev.zio	zio-aws-m2_2.13	5.17.224.4		a39d7cdc90a78060a98394a57f56097797a25814
@@ -1683,6 +1692,7 @@ dev.zio	zio-aws-m2_2.13	7.31.27.1		d43b9fa19eae7a7c71ab1d2d0b48fe5f4343321e
 dev.zio	zio-aws-m2_2.13	7.31.28.1		b5c2211127097fcdaca7b9bf6a9a8a326636b50f
 dev.zio	zio-aws-m2_2.13	7.31.3.1		143cf1a627e5c5daa1850eda3f1580e45bca8c5a
 dev.zio	zio-aws-m2_2.13	7.31.30.1		20ebe028469c7839d5978fe6fa3edaef3f968060
+dev.zio	zio-aws-m2_2.13	7.31.30.2		fa8f24a9b8d8c5e1bc1d6f33f4c84f28c055fbf3
 dev.zio	zio-aws-m2_2.13	7.31.4.1		931ef84db8d9dff71ed73634997133550b77864b
 dev.zio	zio-aws-m2_2.13	7.31.6.1		8679c31f9f5a8732c9a98d19e235bc1e86b93cff
 dev.zio	zio-aws-m2_2.13	7.31.6.2		0e8028c0e9bb6ec327ffed6bb8a4277176c21e92
@@ -1759,6 +1769,7 @@ io.fabric8	openshift-model-storageversionmigrator	7.0.0		af74efd58f49631527f9251
 io.fabric8	openshift-model-storageversionmigrator	7.0.1		6a31ad8a0fc147c355346031e85df3178ab6b666
 io.fabric8	openshift-model-storageversionmigrator	7.1.0		2e916c9b9327f4c45b189f19b0fc3bacdc5fe05b
 io.fabric8	openshift-model-storageversionmigrator	7.2.0		3db545c4610520fbe4c4432bc23097c2ceb2e630
+io.fabric8	openshift-model-storageversionmigrator	7.3.0		c449d1ad033d62ef63408fc3beb6c0cdab2529d4
 io.gitee.chming7	data-converter-protobuf	1.0.0		4377852f36a290e8f6eb53e29ed25644989e15fd
 io.gitee.chming7	data-converter-protobuf	1.0.1		23992e39cde96e322148a1117068f1d2a492aaa9
 io.gitee.chming7	data-converter-protobuf	1.0.10		926260ef2f8719214a6bb720d7cf9724ea9d0ff5
@@ -1885,6 +1896,7 @@ io.kotest	kotest-framework-engine-watchosx64	6.0.0.M2		N/A
 io.kotest	kotest-framework-engine-watchosx64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-framework-engine-watchosx64	6.0.0.M3		N/A
 io.kotest	kotest-framework-engine-watchosx64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-framework-engine-watchosx64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.mateu	mdd-springboot-security	1.1.50		75cd027886428aab594b8de3dd19408345d6c7fd
 io.mateu	mdd-springboot-security	1.1.51		d52d96f4cf5a84de2694af2c5c1f2f83774f66c6
 io.mateu	mdd-springboot-security	1.1.52		11f815fdb36fe9f67f57aae3245d0da4a18d7609
@@ -2573,6 +2585,8 @@ org.eclipse.rdf4j	rdf4j-queryalgebra-model	5.1.0-M1		78622976c92c1664968da9494e5
 org.eclipse.rdf4j	rdf4j-queryalgebra-model	5.1.1		cc7f800c0a63e53350b2fadf4c8e01a0536ffac6
 org.eclipse.rdf4j	rdf4j-queryalgebra-model	5.1.2		76b8c174fdd9cefc3cae10998d085469ac61786b
 org.eclipse.rdf4j	rdf4j-queryalgebra-model	5.1.3		701127bd46ba12abf3a8c97a63b4fcf4e0484a4f
+org.eclipse.tractusx.edc	edc-dataplane	0.10.0-rc1		a6233e395d440028b59e4eb18b279ca3fc93b57a
+org.eclipse.tractusx.edc	edc-dataplane	0.10.0-rc2		ee29f85c1da6c8e91e0ff25ce0710e6595d524c8
 org.eclipse.tractusx.edc	edc-dataplane	0.4.1		efb2a8e0018f5b3cced2d5163f6e025a6bcf471b
 org.eclipse.tractusx.edc	edc-dataplane	0.5.0		7ceff59cf4a6524642e1ef2696cb01c09ee0c0fb
 org.eclipse.tractusx.edc	edc-dataplane	0.5.0-rc1		89b1108a8df52b7eecf07f89155a98c7e98148c7
@@ -2633,6 +2647,7 @@ org.openrewrite.recipe	rewrite-reactive-streams	0.11.1		b83ae5037a1f6cf3398b869b
 org.openrewrite.recipe	rewrite-reactive-streams	0.11.2		d5fe01e7a7678a0bdc09551a1e60429013fd1b81
 org.openrewrite.recipe	rewrite-reactive-streams	0.11.3		6f2e1444edc35c7047425fa9da533233987e484a
 org.openrewrite.recipe	rewrite-reactive-streams	0.12.0		85245872ff89727ba4863f099b0afb266f611452
+org.openrewrite.recipe	rewrite-reactive-streams	0.13.0		5395f9304a96692d2bd5cf59577e369b946a4a19
 org.openrewrite.recipe	rewrite-reactive-streams	0.2.0		be7cbf0e6317cc42353e2413221d0e901f0453c5
 org.openrewrite.recipe	rewrite-reactive-streams	0.3.0		b29b58007d50a851b809f8d472645cafb2949b3f
 org.openrewrite.recipe	rewrite-reactive-streams	0.3.1		a5948e1ccde9043f235e291677face0dd796d663

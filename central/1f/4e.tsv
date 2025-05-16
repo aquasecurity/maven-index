@@ -355,6 +355,9 @@ com.daml	ledger-api-value-java-proto	3.3.0-snapshot.20250414.13754.0.v6f99815d		
 com.daml	ledger-api-value-java-proto	3.3.0-snapshot.20250415.13756.0.vafc5c867		079247ed124b4943bade518d4396f280943f03f4
 com.daml	ledger-api-value-java-proto	3.3.0-snapshot.20250424.13760.0.v90d51dbb		079247ed124b4943bade518d4396f280943f03f4
 com.daml	ledger-api-value-java-proto	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.3.0-snapshot.20250507.13770.0.v8a383258		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.3.0-snapshot.20250509.13773.0.v7f71343b		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.3.0-snapshot.20250515.13776.0.ved4899eb		079247ed124b4943bade518d4396f280943f03f4
 com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250415.13757.0.v8ac8af98		079247ed124b4943bade518d4396f280943f03f4
 com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250415.13760.0.vea143716		079247ed124b4943bade518d4396f280943f03f4
 com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		079247ed124b4943bade518d4396f280943f03f4
@@ -371,6 +374,16 @@ com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250430.13801.0.v62e9a71a		
 com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250430.13804.0.vecb995a9		079247ed124b4943bade518d4396f280943f03f4
 com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250501.13805.0.v6dcc9347		079247ed124b4943bade518d4396f280943f03f4
 com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250502.13811.0.vc9342f2a		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250505.13814.0.v8f469e2a		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250505.13817.0.vf79dda6c		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250506.13820.0.vb449114c		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250508.13828.0.v6124cac0		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250512.13837.0.v78d1b88c		079247ed124b4943bade518d4396f280943f03f4
+com.daml	ledger-api-value-java-proto	3.4.0-snapshot.20250513.13844.0.vbc99348c		079247ed124b4943bade518d4396f280943f03f4
 com.digitalasset.ledger	ledger-api-domain_2.12	100.13.35		a41c34fb887464657779d21b2366a27a2d805e36
 com.digitalasset.ledger	ledger-api-domain_2.12	100.13.36		a41c34fb887464657779d21b2366a27a2d805e36
 com.digitalasset.ledger	ledger-api-domain_2.12	100.13.37		a41c34fb887464657779d21b2366a27a2d805e36
@@ -1396,6 +1409,7 @@ dev.zio	zio-aws-firehose_3	7.31.27.1		3f7db9d596923b926771b92533364a1e975182bc
 dev.zio	zio-aws-firehose_3	7.31.28.1		b05e1b1a590818e0096199d680733c3544366d96
 dev.zio	zio-aws-firehose_3	7.31.3.1		4192a29ca50f8f3f0966d0795c086ef1949fac07
 dev.zio	zio-aws-firehose_3	7.31.30.1		35471ddee13c3d84868aea39450e8dfdf0468572
+dev.zio	zio-aws-firehose_3	7.31.30.2		c0eda28e769b4af63bb14af871f35e4e8cd281ba
 dev.zio	zio-aws-firehose_3	7.31.4.1		aa35e03c89f001a7a740141213b25c33b2db3eaa
 dev.zio	zio-aws-firehose_3	7.31.6.1		dfb6c04251a1e04f6afd0eddbb408b3da052e4a8
 dev.zio	zio-aws-firehose_3	7.31.6.2		8d55304d24eb0a6e59d3f3a811755dc81965bd74
@@ -1536,6 +1550,7 @@ io.kotest	kotest-property-permutations-watchosarm32	6.0.0.M2		N/A
 io.kotest	kotest-property-permutations-watchosarm32	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-permutations-watchosarm32	6.0.0.M3		N/A
 io.kotest	kotest-property-permutations-watchosarm32	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-property-permutations-watchosarm32	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.pravega	pravega-connectors-flink-1.7_2.12	0.6.0		60e29acc2e09fc4bc9ad28ab54571534c81d9049
 io.pravega	pravega-connectors-flink-1.7_2.12	0.6.1		5f07ac8745944940a9ca26f0ea729cd7cc77aceb
 io.pravega	pravega-connectors-flink-1.7_2.12	0.6.2		6f3bd7e51b22816888d754334621aca3b667ff43

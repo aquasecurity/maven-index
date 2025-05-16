@@ -1,4 +1,5 @@
 app.cash.copper	copper-rx2	1.0.0		N/A
+app.cash.grammarkit-composer	grammar-kit-composer	0.2.0		67598fef7907e170be4e44a70f8f057bdbff3129
 cloud.oneentry	sdk-initialization-tvossimulatorarm64	1.0.0		N/A
 cloud.oneentry	sdk-initialization-tvossimulatorarm64	1.0.0	metadata	d7c07ba34d9cf8bbd526f4217329218944d87e85
 cloud.oneentry	sdk-initialization-tvossimulatorarm64	1.0.1		N/A
@@ -977,6 +978,7 @@ org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.2.1		b718ce93f1b67
 org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.2.2		ba2e367cb9007ce0302ef6d7e96cdd92287bab4e
 org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.2.3		0ef91f87b79b0cfd627ddd7ae0a0c55b3a0d086d
 org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.20.0		3fc16ba501e1ab91f7da300baaa36d6df894d7d6
+org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.20.1		9ad2365991556e59bacefa46412abbd5f8491db6
 org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.22.0		9049807b2bbdcc014007cd27af830317111e3141
 org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.4.0		4952275d963bd9b07512c6c924395d2bbf438bc0
 org.apache.camel.quarkus	camel-quarkus-couchbase-deployment	3.5.0		f72105cf4d0bc22f0e00df2f29de5e74ad14b4b7
@@ -1035,6 +1037,7 @@ org.citrusframework	citrus-api	4.4.0		dc2628e403b8cafb85640d6543f2cc7a2c52fcc2
 org.citrusframework	citrus-api	4.5.0		d24be6999849aba661bfe13ca92f6d2ac86a28f5
 org.citrusframework	citrus-api	4.5.1		097d7e0cb876bff7a33716f204722f4c1ba70797
 org.citrusframework	citrus-api	4.5.2		9ec577bf415a9ec927be556ace11b3320a527ab4
+org.citrusframework	citrus-api	4.6.0		3bfaebca905c649537834eb63995f65ba99d05ed
 org.codehaus.xsite	xsite-parent	1.0-beta-1		N/A
 org.codehaus.xsite	xsite-parent	1.0-beta-2		N/A
 org.codehaus.xsite	xsite-parent	1.0-beta-3		N/A
@@ -1172,6 +1175,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-security	11.41.1		3ce991edc111
 org.eclipse.dirigible	dirigible-components-ide-ui-security	11.42.0		0a07967345653d864cf581ece82d61116b6eb628
 org.eclipse.dirigible	dirigible-components-ide-ui-security	11.43.0		de925960d005326502417c5635913833329b3116
 org.eclipse.dirigible	dirigible-components-ide-ui-security	11.44.0		9c45b222eb490c8ec8af00d3d7176b4bc024f784
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.0		9504ca1c77cdad3ae55d05aa1837ed5345fe4a4a
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.1		67f8a97f80cdde550bb375cd3f59e1ad474ec2e3
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.10		742d560ed2464ea0a0e4b923cb48066c86d8b108
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.11		ff37f5e76a94e11e28150770a6f784310a746081
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.12		78b075946dd07a0f316341c5b9609b9f52e019b7
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.13		f8a6b2473fc6a6b328e1e23f8cfed67d6e17d047
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.3		04065656e546425c0c8b50a825188a3870bd3ac2
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.4		2780c69ebc852b7da49efb1e75a070dea8cb65e5
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.5		30ba5e275e054263e47fff565725c8abea603bcf
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.6		42c09e040154910eb051fe8e6e6d08455170d04c
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.7		e85bc27670279eb8a13f6bba80a8886c064d3791
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.8		d1c508a07e95bf7c0738f044a0cf7fa4f3e13d07
+org.eclipse.dirigible	dirigible-components-ide-ui-security	11.45.9		4453ef96738523115efcaf51e9dfaaf02d6c3b6f
 org.eclipse.dirigible	dirigible-components-ide-ui-security	11.5.0		e8666f1de8b29d5acf3f50a328640c99b37b4f00
 org.eclipse.dirigible	dirigible-components-ide-ui-security	11.6.0		238d2d75a05318672c42544b3417bf5b83c0a6b4
 org.eclipse.dirigible	dirigible-components-ide-ui-security	11.6.1		2a47376c482be4d0f4b615791c24832feb2ce56a
@@ -1349,6 +1365,7 @@ org.kiwiproject	dropwizard-jakarta-xml-ws	1.1.2		f9ed18e752acc098e6d49d9ce57eea2
 org.kiwiproject	dropwizard-jakarta-xml-ws	1.1.3		bb3e60aef29d26518df38168c880a94b7a4baab8
 org.kiwiproject	dropwizard-jakarta-xml-ws	1.1.4		dc5af1dbe383f0e2c20af3ec3567ebb24194847b
 org.kiwiproject	dropwizard-jakarta-xml-ws	1.1.5		84423e791f0b2da8d95c0a3ce96ca547f44f58e4
+org.kiwiproject	dropwizard-jakarta-xml-ws	1.1.6		f903dcbecf9d18fd7dcb87cb7b1e8ca58c918da0
 org.opendaylight.bgpcep	topology-parent	0.10.0		N/A
 org.opendaylight.bgpcep	topology-parent	0.10.1		N/A
 org.opendaylight.bgpcep	topology-parent	0.10.2		N/A

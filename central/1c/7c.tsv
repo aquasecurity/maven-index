@@ -231,6 +231,7 @@ com.kotlinnlp	utils	2.1.1		a21f19a304bae6425c42c84c8cd84fd21b621a03
 com.kotlinnlp	utils	2.1.2		7d68237aaac1f892214a5eec507fcbb8713caa3f
 com.kotlinnlp	utils	2.1.3		15be6835716f0706001567081fb878ca8011eb63
 com.kotlinnlp	utils	2.1.4		de7ed818b3ef91404445ae9dec82c4e1fba61c6a
+com.mchange	eth-quip-client-plugin_2.12_1.0	0.0.1		6996dcfa350eaf6922fb9c004c8bad63e0b7eb16
 com.melloware	commons-beanutils2	2.0.0		bad1bc6fe42e38591b560b8208e1115617aed618
 com.microsoft.azure	azure-functions-archetype	1.0		19ae3e2cb85457f01eedc23fe9b5352b284e91c0
 com.microsoft.azure	azure-functions-archetype	1.1		834f97d3d14c1f223bb3059ca932ef1b3a53b60f
@@ -442,6 +443,7 @@ de.jensklingenberg.ktorfit	ktorfit-lib-watchosdevicearm64	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-lib-watchosdevicearm64	2.5.0	metadata	1f1fb8de570d3dfc59789f078f39c81845d9beb3
 de.jensklingenberg.ktorfit	ktorfit-lib-watchosdevicearm64	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-lib-watchosdevicearm64	2.5.1	metadata	2b00f8c2e0828309eef1308d7dd7605d0a5aa766
+de.jensklingenberg.ktorfit	ktorfit-lib-watchosdevicearm64	2.5.2	metadata	67fbaefb390f3f17a9b34b72e5c147625282a962
 de.viadee	quarkus-camunda-external-task-client-deployment	0.0.1		bb545fe70be3a17361c1de958747b928563062e2
 de.viadee	quarkus-camunda-external-task-client-deployment	1.0.0		78b47e641df34e416eea5a8490510d5bdb606e15
 io.alapierre.crypto	cipher	1.1		a7ac6de0617d76d9dde5c55b3531ec632109c421
@@ -488,6 +490,7 @@ io.github.pandulapeter.kubriko	plugin-collision-iosx64	0.0.1		N/A
 io.github.pandulapeter.kubriko	plugin-collision-iosx64	0.0.1	metadata	f49f55e40eeecba8e26e2d3915ee5366100f430f
 io.github.pandulapeter.kubriko	plugin-collision-iosx64	0.0.2		N/A
 io.github.pandulapeter.kubriko	plugin-collision-iosx64	0.0.2	metadata	f67fb783fa09d46aebc1d547aa17b9328fb61fdf
+io.github.pandulapeter.kubriko	plugin-collision-iosx64	0.0.3	metadata	df8127f86813c837fa1672d87a2f318326d1322a
 io.github.pandulapeter.kubriko	plugin-collision-iosx64	unspecified		N/A
 io.github.pandulapeter.kubriko	plugin-collision-iosx64	unspecified	metadata	4e5c369c2f780dc9c5e393dae49ecbd02013cd3c
 io.github.wyy-dev	oppo-push	1.0.0		N/A
@@ -1109,10 +1112,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.8.0	
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.80.0		3b8ace96462ff773c2d331511e44a67a34a456a9
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.81.0		a940c5253371e7e2979f7eef170ddb623414cc59
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.82.0		f7dff807d8ed41add29ddef6e1a45ff55afbeacc
+org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.82.1		181ca912d06674d81a1cd4f359fa4df62306a534
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.83.0		3bb7eb5caaa1df9124764a75038bf13941fa46d7
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.83.1		f3a256dce47b780dea600f82e05732e186bc92ef
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.83.2		09506901936e87fbe6856c38435ba3b8d37928f2
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.83.3		c65b145c75499c56fe0d39d53e7300be5d6b2341
+org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.84.0		ef211c35fa250df3106187abd50d30b174616a39
+org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.84.1		935f6904b50f6f8faf5ed05f21189b4397c1ee80
+org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.85.0		aea8060498ec3345a68a8b841dfe7e2a2df011e7
+org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.85.1		36914f6156f31f2a9b33e0cde9b8142a673e767d
+org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.85.2		db5c38c94db1d5535ead5bc881f620b4d075281c
+org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.85.3		6a4da1b51187cef43b6a203636bb249aa96ee880
 org.finos.legend.engine	legend-engine-xt-relationalStore-athena-execution	4.9.0		b6724dfdb5b714f9b2d468ed2739d60cb0ba7d67
 org.friendularity	org.friendularity.test.facedetect.r50	1.0.0		62b1a73d15f1cc40ea5b5010458d58b94f8f4ae0
 org.friendularity	org.friendularity.test.facedetect.r50	1.0.1		59dc1251c868ee5e745c3f0878f58abfc22300d0

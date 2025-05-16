@@ -163,6 +163,7 @@ com.google.appengine	runtime-main	2.0.32		a8995b5d898d878b33c6f3d6bb11bb21aaed26
 com.google.appengine	runtime-main	2.0.33		0f9f13e2f928f60e07ef19c0488c010920884d44
 com.google.appengine	runtime-main	2.0.34		d48f0ca6e54e3acf42c978f9d927a8d10569b0ef
 com.google.appengine	runtime-main	2.0.35		9079b26f40383c81cf0fa8063435736dc8d0973b
+com.google.appengine	runtime-main	2.0.36		61fb80ebae95ac0ab1e920a190d375df3d90b5e3
 com.google.appengine	runtime-main	2.0.4		a30b54c09bbd126f7b0ebd4b74b96bc4fc990c48
 com.google.appengine	runtime-main	2.0.5		2ce9e976ec317b1a9d1365519d7f6225cc3a0808
 com.google.appengine	runtime-main	2.0.6		cd39f31f9a61c1472d42e9f201d2957b16d1de07
@@ -980,6 +981,7 @@ org.apereo.cas	cas-server-support-otp-mfa-core	7.2.0-RC6		d3bdcd82657c1d1b7d5b98
 org.apereo.cas	cas-server-support-otp-mfa-core	7.2.0-RC6	resources	51723d051599c22230185619d3cecccdb4d11737
 org.apereo.cas	cas-server-support-otp-mfa-core	7.2.1		5e2ea5fe046be0f8b5f628d40e11c4dd0baa16e6
 org.apereo.cas	cas-server-support-otp-mfa-core	7.2.1	resources	67af9e1f654234021950039a90e5a5dcb547640d
+org.apereo.cas	cas-server-support-otp-mfa-core	7.2.2		4a393fab20e2f202c97fbc56905a1b5a614ae131
 org.apereo.cas	cas-server-support-otp-mfa-core	7.3.0-RC1		4bc15f2adf199998a4f6841fe94be64f30d79bb7
 org.apereo.cas	cas-server-support-otp-mfa-core	7.3.0-RC1	resources	fecea76cbddf9022f28d9515dcbff34282ac4a65
 org.apereo.cas	cas-server-support-otp-mfa-core	v6.4.0-RC5		320f0c819b3821977ad2e7d92788879f010038ee
@@ -1021,6 +1023,8 @@ org.daisy.pipeline.modules	tts-adapter-sapinative	3.1.8		fc8d167008a2a8e33108c6c
 org.daisy.pipeline.modules	tts-adapter-sapinative	3.1.8	doc	82026ba435928c42ce1d6ba7d84c668c83a2a04f
 org.daisy.pipeline.modules	tts-adapter-sapinative	3.2.0		3b747d89285e043c44bcb5f0fdf2cbcf84be2f0e
 org.daisy.pipeline.modules	tts-adapter-sapinative	3.2.0	doc	532855dd3185d3e3b22f4c25ec6a3bcf29fa6cea
+org.daisy.pipeline.modules	tts-adapter-sapinative	3.2.1		94d8545deaa014fcefde4e6d79010f954a7622b3
+org.daisy.pipeline.modules	tts-adapter-sapinative	3.2.1	doc	283f985f4ecd6fc4e5d09af5e15a1a024140aafd
 org.eclipse.apoapsis.ortserver	orchestrator	0.1.0		82638418016cd1141f7b2c864ed45e6a8b37758d
 org.eclipse.apoapsis.ortserver	orchestrator	0.1.0-RC1		5022e9b717206965de6eb865988726ad2a7029e6
 org.eclipse.apoapsis.ortserver	orchestrator	0.1.0-RC10		18fa9a4c7cd0989e1afdce1359d207072812b3f0
@@ -1043,6 +1047,8 @@ org.eclipse.apoapsis.ortserver	orchestrator	0.1.0-RC9		05c418b105a913c5a05bb3b60
 org.eclipse.apoapsis.ortserver	orchestrator	0.2.0		5e99ff7c8af53d2e5a0bcc6fe9ae2ac4039051b5
 org.eclipse.apoapsis.ortserver	orchestrator	0.3.0		200cb5048793475c52eaf69873612c882b1b7f58
 org.eclipse.apoapsis.ortserver	orchestrator	0.4.0		39b5b467220409d54a66ab59f037dadb6349d464
+org.eclipse.apoapsis.ortserver	orchestrator	0.5.0		79fdbf830c450288a983dcaa2c3caf65791cded8
+org.eclipse.apoapsis.ortserver	orchestrator	0.6.0		a321f614812828b4f83b6d8804393aac8cb39ffe
 org.fishwife	jrugged-core	3.1.1		5b28859f7d78d3f4d03b493a88ec4ce2a5b8fb0f
 org.fishwife	jrugged-core	3.2.2		0950d74566358325e31a8f191946071d78aa8b5a
 org.glassfish.external	schema2beans-repackaged	3.0		614cd0c3cd0c2a074380a7b4646736239dcb3032
@@ -1413,6 +1419,17 @@ org.scaldi	scaldi_2.11	0.6.0		0b46cf4ffa91b9fd0de6e02241a052360820519d
 org.scaldi	scaldi_2.11	0.6.1		dbb73ebbc2d1fa80ca5d9d3a1bd0a39e32636db0
 org.scaldi	scaldi_2.11	0.6.1_a		8f2894ae7930d984819c4f0c6b5edba02968aa03
 org.scaldi	scaldi_2.11	0.6.2		95a4db89c59395a4470ced6d6e178d1346dbd6b7
+org.scoverage	sbt-coveralls_2.10_0.13	1.0.2		0061e6a7cef01f3b559f0830a8eabebff1dd870a
+org.scoverage	sbt-coveralls_2.10_0.13	1.0.3		52a3b93a786bb5388545025b9b7bc07837e65345
+org.scoverage	sbt-coveralls_2.10_0.13	1.1.0		fda68f2bd0da84ba5cdea2f28f8316c4483c6f77
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.0		2354f1f0301c7d9a6512fb95d9b4a6ab0a44c710
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.1		6c94d4fa983655c8dc61880209ebc02a09bae13f
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.2		8fa0503eec6de59c64c438a60f67cc3812a60157
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.3		7f9a094430920842bf8fcb9336d58d0d9bc65d21
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.4		f98b8c94407267fa649623307c35d19997adfc4c
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.5		a52c91bc6b889cd88fe40e5759ca25d303b594c4
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.6		0317e723a0716682076e2d437428f02c57d942c7
+org.scoverage	sbt-coveralls_2.10_0.13	1.2.7		601a558397ede9203cb87c20fb91aea479873bb1
 org.uqbar	xtrest	0.1.3		3c2b716290e06c60b71b879b419d60433e55ab14
 org.uqbar	xtrest	0.1.4		f7dfdd5f1a066ecbb4ee926f07b4987a19f45a07
 org.uqbar	xtrest	0.1.6		ee1de40e30f3de4fa54900827fbf0cc90931a47c

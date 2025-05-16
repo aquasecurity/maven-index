@@ -159,6 +159,7 @@ com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.10.6-prev
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.10.7-preview		8854139ae189c275ee04d650ad478f2b5e03a5d6
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.10.8-preview		81571aef58191592edafe89c7cc7bc32059862d4
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.10.9-preview		5bab1b90640aeeba848310cf1f0f03e067751506
+com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.11.0-preview		384b737e15a6f64ea3d936edb1a2058869dcb30f
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.2.0-preview		19c836da0f2b20246bd8118f486d6140604c8c68
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.3.0-preview		2b78c4df73e8ed97b9a696d2a94ba74df878d415
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	4.3.1-preview		194f627aaf094a34f2f15bd1797753461c75c6e3
@@ -190,6 +191,7 @@ com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.11.0-prev
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.11.1-preview		597082f15be8ed6acbc10ec915684afc41991d79
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.11.2-preview		2067ea235c92603fe619207cf85c4a48b16f485c
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.11.3-preview		59a003ce4bdc3375cb397ed2d82161c91b403cf0
+com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.12.0-preview		bb2af0268d91177fe630437020a31dfbfefdf062
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.2.0-preview		fa500683c5933b71e9bdc662b82ca08971ee1200
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.2.1-preview		d4768447818c4672ff28985a62e0024abc598897
 com.google.cloud	google-cloud-contact-center-insights-spring-starter	5.3.0-preview		bbeafaf6bfd45c3796f7a71506eed15bd755151d
@@ -523,6 +525,8 @@ io.ktor	ktor-serialization-kotlinx-protobuf-iosx64	3.1.1		2a313294ab7686334049d9
 io.ktor	ktor-serialization-kotlinx-protobuf-iosx64	3.1.1	metadata	2af27c5ad791d16806e82e3e8287b64a03fd9a04
 io.ktor	ktor-serialization-kotlinx-protobuf-iosx64	3.1.2		78f209714ebd8d29152b717e1cbea2937a8add94
 io.ktor	ktor-serialization-kotlinx-protobuf-iosx64	3.1.2	metadata	cfa10b20f483b859790f39c7333290f6266d8ea8
+io.ktor	ktor-serialization-kotlinx-protobuf-iosx64	3.1.3		1452db3e960848a6b85451f3f71ad7dd2aee123b
+io.ktor	ktor-serialization-kotlinx-protobuf-iosx64	3.1.3	metadata	0e70ec4ef51497434e198d2cfdec737496068dd9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	1.23.0-alpha		636dd8fb9407b11fee24627b82fe4d0a57f0ea6f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	1.24.0-alpha		381b996b789f2a9818d34b5d725b7cc7b485f2fd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	1.25.0-alpha		4f9c95de2405931453972fc323443e92a21c864c
@@ -553,6 +557,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	2.13.3-alpha		99801d122196856481bb22a7ed89efdd793602fd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	2.14.0-alpha		a1bdeb9e79ee3186d352491d338c35a3a29ea87f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	2.15.0-alpha		c16552313bd0a1c09a61a640cdbd610ff5ff5c9b
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	2.16.0-alpha		58eb4c9415a09edb4ce0a982fea2321a10aa5cbf
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	2.2.0-alpha		aa073b4af9aedf04d0b38ad69e01d49b8a660a65
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	2.3.0-alpha		9fbf8d9a98e8211737b8ce5f7d56acbf981b6dea
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-6.0	2.4.0-alpha		a8b1b2878f5e7505784afa95092049eafa1dc321
@@ -569,6 +574,7 @@ io.ultreia.java4all.validation.impl	java-validator	2.0.0-RC-7		e04386fe4e6d0024c
 io.vlinx	hibernate-utils	1.0.0		c79a011bbc48756907fc6e828c0cefd73559e21d
 net.andimiller	hedgehogs-mermaid_sjs1_2.13	0.4.1		bebee23120cedc49453521307478f17619892ccc
 net.andimiller	hedgehogs-mermaid_sjs1_2.13	0.4.2		fdf2310edce471a594344decf2728d1bbceee407
+net.andimiller	hedgehogs-mermaid_sjs1_2.13	0.4.3		e13f91326be9cd004249a6d3b3e22347f6c5e728
 net.exoego	aws-sdk-scalajs-facade-storagegateway_sjs1_2.12	0.29.0-v2.624.0		da21222a879c1b5b3f8e7037b0dbde10923b37b2
 net.exoego	aws-sdk-scalajs-facade-storagegateway_sjs1_2.12	0.30.0-v2.715.0		861d7dc83a28f97b70b3b45ac00ccfae8d111a62
 net.exoego	aws-sdk-scalajs-facade-storagegateway_sjs1_2.12	0.31.0-v2.731.0		eea5f699b5d708f48212e1cbc932d5e78a5ad4a1
@@ -733,6 +739,7 @@ org.jboss.gwt.elemento	gin-sample	0.9.4		N/A
 org.jboss.gwt.elemento	gin-sample	0.9.5		N/A
 org.jboss.gwt.elemento	gin-sample	0.9.6		N/A
 org.lifty	lifty-engine_2.8.1	0.7-BETA		0b89bee7c248baaf5679e4299076761d658cf6c2
+org.opensearch.plugin	arrow-flight-rpc	3.0.0		01b4f9147277109d1f6c99c721d582b9964495b0
 org.opensearch.plugin	arrow-flight-rpc	3.0.0-alpha1		09c8c8ab8022cba039d421bd94a480e129ddd171
 org.opensearch.plugin	arrow-flight-rpc	3.0.0-beta1		6ad7a6793f0e8c1f7cf0c546556549229043184f
 org.ow2.util.archive	archive-impl	2.0.0		7c74b862ea88e238172e8910c6d9361b9177d455

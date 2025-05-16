@@ -70,6 +70,7 @@ com.fasterxml.jackson.module	jackson-module-jsonSchema-jakarta	2.18.0-rc1		0e8b8
 com.fasterxml.jackson.module	jackson-module-jsonSchema-jakarta	2.18.1		aa56a74f18d746bea7cdbd046e90a74153695f56
 com.fasterxml.jackson.module	jackson-module-jsonSchema-jakarta	2.18.2		afa8f7babeeae6ad45b71663295820d82c878154
 com.fasterxml.jackson.module	jackson-module-jsonSchema-jakarta	2.18.3		fd9c258e0187aa02215ce56236ca20150cab5b06
+com.fasterxml.jackson.module	jackson-module-jsonSchema-jakarta	2.18.4		055be580a45fda639257c9cae151928b3c96822d
 com.fasterxml.jackson.module	jackson-module-jsonSchema-jakarta	2.19.0		632109820833c17cd16cceda8b2f043388e67b38
 com.fasterxml.jackson.module	jackson-module-jsonSchema-jakarta	2.19.0-rc2		11c19775315f05ed9e61405afc49ca215567925d
 com.github.ajalt.mordant	mordant-markdown-mingwx64	3.0.0		N/A
@@ -347,6 +348,7 @@ io.github.pandulapeter.kubriko	plugin-collision-iossimulatorarm64	0.0.1		N/A
 io.github.pandulapeter.kubriko	plugin-collision-iossimulatorarm64	0.0.1	metadata	5ac70256d133255796bf486fba17de186bf30c2d
 io.github.pandulapeter.kubriko	plugin-collision-iossimulatorarm64	0.0.2		N/A
 io.github.pandulapeter.kubriko	plugin-collision-iossimulatorarm64	0.0.2	metadata	4706a1dac3d44b01672fc708773efe2851b1593a
+io.github.pandulapeter.kubriko	plugin-collision-iossimulatorarm64	0.0.3	metadata	7a8a582097a79d69a7fe65e3fbc9dc962ef006bb
 io.github.pandulapeter.kubriko	plugin-collision-iossimulatorarm64	unspecified		N/A
 io.github.pandulapeter.kubriko	plugin-collision-iossimulatorarm64	unspecified	metadata	e220e419954fbdfd05e005bd6305b1a6beff0c79
 io.github.pityka	tasks-core_3	3.0.0-M10		5e0b15eff884fe79f76b0b5635dd0712e7df1bc3
@@ -470,6 +472,8 @@ io.ktor	ktor-server-method-override-watchosarm64	3.1.1		1f774fc09ecf882232ecf2cb
 io.ktor	ktor-server-method-override-watchosarm64	3.1.1	metadata	c7c66775a46e9637ec2f2c912728a3980cdfaeea
 io.ktor	ktor-server-method-override-watchosarm64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-method-override-watchosarm64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-method-override-watchosarm64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-method-override-watchosarm64	3.1.3	metadata	e478cf76bb62c3266c6aa4af77724d1c951b96ac
 io.openliberty.features	com.ibm.websphere.appserver.jaxrscdi-2.0	18.0.0.2		N/A
 io.openliberty.features	com.ibm.websphere.appserver.jaxrscdi-2.0	18.0.0.3		N/A
 io.openliberty.features	com.ibm.websphere.appserver.jaxrscdi-2.0	18.0.0.4		N/A
@@ -844,6 +848,7 @@ org.apache.camel	camel-test-infra-qdrant	4.8.3		71f97ded9b1fdc203bd882258d161a60
 org.apache.camel	camel-test-infra-qdrant	4.8.4		2a2beb13a282172e17bdb8bc8c815fc2229fec95
 org.apache.camel	camel-test-infra-qdrant	4.8.5		7346710dd7a1353cb7c46e19113a4666aa956e6c
 org.apache.camel	camel-test-infra-qdrant	4.8.6		0fe3fdadbebf6b4d93641e1d40d97dd441c6a026
+org.apache.camel	camel-test-infra-qdrant	4.8.7		84792df08c844bf4cbfca2d75bf5b2a383320470
 org.apache.camel	camel-test-infra-qdrant	4.9.0		46e2b970e3f26d42874dbd8c28162e3b26ef1ba1
 org.apache.camel.kafkaconnector	camel-xj-kafka-connector	0.1.0		8594a05f6af6fe273bf100ed4713cc451c502954
 org.apache.camel.kafkaconnector	camel-xj-kafka-connector	0.10.0		8caed7e26e9d5e5c7b3b57083adfcf9b66fe8ef6
@@ -1018,6 +1023,19 @@ org.eclipse.dirigible	dirigible-components-engine-command	11.41.1		1377f28b69e5a
 org.eclipse.dirigible	dirigible-components-engine-command	11.42.0		0e203a8a2e0295c56a3fddb38c87e3b27ba234f3
 org.eclipse.dirigible	dirigible-components-engine-command	11.43.0		158d60e8aedcb12f304f64cbbd2a93fad785d955
 org.eclipse.dirigible	dirigible-components-engine-command	11.44.0		99a082d822d1e222b08c989260017fc809f94afe
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.0		28ef0a9dd9514fc25a308306730671c32c7231d5
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.1		29feb52bad3aceb8ad1643246f98e6300cf1c8d7
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.10		1429554572b5b4602bd962600f78ae126f73f217
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.11		7d5f31d7c1534654ce10fef309b9191b3ea985e2
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.12		97359244a70b1b3341460f7f9c5e80b213c6c3c6
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.13		ca350fac64bf361f6ef639cd137c00bb96e43aec
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.3		0f6a2618459987963d2bf3c7b0e52a5b66ddf594
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.4		e51d5da8e0c7e4ce9b91aa9c3ef823a712ff545a
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.5		05de7cb481aa4e617b15b0d586a5b154385b4ffa
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.6		fbe23b091b4d4437ce3651de396bf97c022791d7
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.7		4f942a09d4ada3e29d8adbdcd79fcf55534af83d
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.8		ed967c5b66295a121d0568ce6380ccea5bc8b266
+org.eclipse.dirigible	dirigible-components-engine-command	11.45.9		b92f4139de62001d1f42a3c3e2db74fb6ff8ec80
 org.eclipse.dirigible	dirigible-components-engine-command	11.5.0		451a8b6399b58d5ec316d173bfc712120dfd17e4
 org.eclipse.dirigible	dirigible-components-engine-command	11.6.0		bd86fb82a1e29573d03d681d8722a1af3ebc04ff
 org.eclipse.dirigible	dirigible-components-engine-command	11.6.1		f6ee65768052da77fdb509dbb0f978a47b70372d

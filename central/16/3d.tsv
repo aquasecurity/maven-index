@@ -131,6 +131,7 @@ co.fs2	fs2-io_sjs1_2.13	3.12.0-RC1		5dfda1af93972e7bfb19a7103a83be2353ef006c
 co.fs2	fs2-io_sjs1_2.13	3.12.0-RC2		9cbaf87b413a40880ed8240ce556c676eb171618
 co.fs2	fs2-io_sjs1_2.13	3.13.0-M1		63b8c1f445a1ec22ea939ee26dfaebe3a61dd6d1
 co.fs2	fs2-io_sjs1_2.13	3.13.0-M2		25365acf53bb1cbafef9299724b17ade4662bb7a
+co.fs2	fs2-io_sjs1_2.13	3.13.0-M3		3d01ab9e87235f87089b262f4b37930f54cb866a
 co.fs2	fs2-io_sjs1_2.13	3.2-10-421c242		1e8fc401428cf7d61e14d53be39a87007d3f0974
 co.fs2	fs2-io_sjs1_2.13	3.2-10-ea04dd1		5c02ea6616d5b7323f3bf3257a78f4c921e2c26b
 co.fs2	fs2-io_sjs1_2.13	3.2-100-c1910b5		160fb2f82ad600e99bfe0a172cfaf23a4d774a63
@@ -908,6 +909,7 @@ dev.galasa	dev.galasa.galasaecosystem.manager	0.38.0		96dc91d322853648e4c83239ef
 dev.galasa	dev.galasa.galasaecosystem.manager	0.39.0		0f22f0ae2c7fe9daf6d1fcb189a6a1047e33dbbd
 dev.galasa	dev.galasa.galasaecosystem.manager	0.4.0		f4f64f09974fb7fe342181217ae93b07ce91d53e
 dev.galasa	dev.galasa.galasaecosystem.manager	0.40.0		8f159b45ca46cbae5d64726fd9819476b7d4599c
+dev.galasa	dev.galasa.galasaecosystem.manager	0.41.0		dbd5fac2927b73c00c26c8bacc12923c70cbae85
 dev.galasa	dev.galasa.galasaecosystem.manager	0.5.0		ce09294af05946f40819980aa7cfc109be07fc90
 dev.galasa	dev.galasa.galasaecosystem.manager	0.6.0		f36dc98ceb34e67bd784fbc71a019d4de5b76a05
 dev.galasa	dev.galasa.galasaecosystem.manager	0.7.0		0c077703b7f082a957806c8c31f6cbbfc5e24299
@@ -1231,6 +1233,7 @@ dev.zio	zio-aws-marketplacemetering_3	7.31.27.1		d729c2abf812edc461b325a2549cc16
 dev.zio	zio-aws-marketplacemetering_3	7.31.28.1		c51d95edcad6ee16d989c8745442bb5d1fa2fb9e
 dev.zio	zio-aws-marketplacemetering_3	7.31.3.1		37438e16ed6b7366b3e3020d26dba02f6809458c
 dev.zio	zio-aws-marketplacemetering_3	7.31.30.1		fdc84bb490bf64dd0323365f2df5054e550a67e8
+dev.zio	zio-aws-marketplacemetering_3	7.31.30.2		afdc54391d47d4108d79142ccb19023903356323
 dev.zio	zio-aws-marketplacemetering_3	7.31.4.1		b17b3175e6ed043a66b69d2d82a248b091e9ece8
 dev.zio	zio-aws-marketplacemetering_3	7.31.6.1		5de60e410f8771de309e255e48ba01ab15ea874c
 dev.zio	zio-aws-marketplacemetering_3	7.31.6.2		822f64743b6afed83ce9a0884b60cdb1d10fba17
@@ -1556,6 +1559,7 @@ io.streamnative	pulsar-opentelemetry	4.0.1.2		2f20cbe989a3f6aa84f44d6be18a79539d
 io.streamnative	pulsar-opentelemetry	4.0.1.3		f3e8677ef1cacb9699b8ca11f5c09448a43d256b
 io.streamnative	pulsar-opentelemetry	4.0.1.4		6a33b00d2da5fdac4434f954511a3bc335939309
 io.streamnative	pulsar-opentelemetry	4.0.3.1		3b68340018d0844dfd042256f3b41143d78bd833
+io.streamnative	pulsar-opentelemetry	4.0.4.2		100e683f47b1ca2f82147350138b0e0514ea5c0f
 io.tracee	tracee-context-logger-impl	0.3.0		c591c703297e5a978a6a043b9696c763fa818a45
 me.proton.core	payment-presentation	0.0.1-alpha01		N/A
 me.proton.core	payment-presentation	0.1		N/A
@@ -1987,6 +1991,7 @@ org.apache.camel	camel-tarfile	4.8.3		9784e0247dcba19f842582ad71e066bea232daf1
 org.apache.camel	camel-tarfile	4.8.4		5ced531eb597b1e5a39719a648862e00b9e0211b
 org.apache.camel	camel-tarfile	4.8.5		60476f6b6c5b5a193d5b8e268d215ddf87fdf698
 org.apache.camel	camel-tarfile	4.8.6		112bdfebef5da14f1a99fb9d2bfb3759f6d7b238
+org.apache.camel	camel-tarfile	4.8.7		dd79094cd4834dca8577802bf54cc2f905f4ff5c
 org.apache.camel	camel-tarfile	4.9.0		864bde48f3552fcdfa805155b1d4df72de3e8cd4
 org.apache.camel	camel-thymeleaf	4.1.0		d355a1fd6b0e840f7efd6c011fe8fe6050896859
 org.apache.camel	camel-thymeleaf	4.10.0		98ef84c5ed089a85f671ed3d0eb93cb8a0b20aa7
@@ -2013,6 +2018,7 @@ org.apache.camel	camel-thymeleaf	4.8.3		75766ec88f582af7f3c0a823d9e57f6df6d1956a
 org.apache.camel	camel-thymeleaf	4.8.4		833a2a74586bb9be89310ff0a5a334926a8fc5c4
 org.apache.camel	camel-thymeleaf	4.8.5		33a9c1e8302dbaf1e71432d2aece4ae0f8f5ed35
 org.apache.camel	camel-thymeleaf	4.8.6		20b3c40b299bac622a52ec6a7a5a2a7c0a8e4801
+org.apache.camel	camel-thymeleaf	4.8.7		3be41c5dc0b46026d6d5bcf02ddaffbd1b7c2fa2
 org.apache.camel	camel-thymeleaf	4.9.0		85598619c2c79014ce1b2d3eb1966d864336696f
 org.apache.camel.karaf	camel-tahu	4.10.3		5ba50b565d1a5b2e9df1d247810d1dffeac5cc85
 org.apache.camel.karaf	camel-tahu	4.8.1		d0a9897f0cc2643611ea87f44282d7a6996350e5
@@ -2053,6 +2059,7 @@ org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.2.1		88f79074cc5215fe058b4
 org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.2.2		c98ed3303894b7848cf16e871aa3196326672a7b
 org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.2.3		77c6493bc0990a426cc839f5b919f8853e7dddea
 org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.20.0		6e1d8eedf73b20426eba7e1347b987ac54bcede5
+org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.20.1		7647751dfec9c46bb3878933f95b6f6c783adbcb
 org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.22.0		7415247d8fab8fd16bb60da9c3b87d27d3e20c65
 org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.4.0		df83d439221650c88cc22fcd27864e90fc846494
 org.apache.camel.quarkus	camel-quarkus-grpc-codegen	3.5.0		cd57bf1f62fd1fb729918c4d91e23cf789c8ad2f
@@ -5058,6 +5065,10 @@ tz.co.asoft	lexi-api-watchosx64	3.0.8		N/A
 tz.co.asoft	lexi-api-watchosx64	3.0.8	metadata	5b01c483b773cd22bbcf6e7a684a71765ebe0895
 tz.co.asoft	lexi-api-watchosx64	3.0.9		N/A
 tz.co.asoft	lexi-api-watchosx64	3.0.9	metadata	ea4b6399b36c5417cfabd51f6464349b53fad12a
+tz.co.asoft	lexi-api-watchosx64	3.1.0	metadata	760ebdaefd0b3aa6608bf8ebc2ad05f2b3b42784
+tz.co.asoft	lexi-api-watchosx64	3.1.1	metadata	0c29429133eb0bb1a1ef8858d20f0d9e367ab56e
+tz.co.asoft	lexi-api-watchosx64	3.1.11	metadata	b9384da310ca9f8cc42792a264685f81d73eecd4
+tz.co.asoft	lexi-api-watchosx64	3.1.12	metadata	aee7e5a29ff2a973c9da29f003f613ff8ad442f6
 vip.mate	mate-starter-dozer	1.6.8		3fb5fac723bd36d4d141567367385929974cbfdc
 vip.mate	mate-starter-dozer	2.0.8		363f268b67b242c231e3cbf1b237d579c07361e1
 vip.mate	mate-starter-dozer	2.1.8		71e40638811cb0d1c8a300d9ed97f33a67be7416

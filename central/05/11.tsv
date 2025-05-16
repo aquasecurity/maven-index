@@ -1326,6 +1326,7 @@ dev.zio	zio-aws-account_2.13	7.31.27.1		cd58a3edc1bdecae599203d927a2250f1c0410a4
 dev.zio	zio-aws-account_2.13	7.31.28.1		dea290743e19bb41e7f4271618cd304dea53e804
 dev.zio	zio-aws-account_2.13	7.31.3.1		778dd368abbd4ef12056c654ace40e80b353f1e0
 dev.zio	zio-aws-account_2.13	7.31.30.1		8df30370ca97f7db1b32329a9cddcffb3220831c
+dev.zio	zio-aws-account_2.13	7.31.30.2		45362cbc2dc1eea1fdc679096884d2d6a5b65688
 dev.zio	zio-aws-account_2.13	7.31.4.1		eee3e9738e12122b7cdbdc065c661bd1fe6c9694
 dev.zio	zio-aws-account_2.13	7.31.6.1		0af3a7ad76805ce5944c32c5239e638b6135eb66
 dev.zio	zio-aws-account_2.13	7.31.6.2		ddc77f78f368607b504bf686980a7f75654aa983
@@ -1392,6 +1393,7 @@ io.getkyo	kyo-direct_sjs1_3	0.16.1		97a18c56157aeb5c9c40321cbf9184a6bb470cc3
 io.getkyo	kyo-direct_sjs1_3	0.16.2		1f704950a382df4b89599dd0bd517feb800863a6
 io.getkyo	kyo-direct_sjs1_3	0.17.0		594adeedc07181de6740a5524c6876b649821048
 io.getkyo	kyo-direct_sjs1_3	0.18.0		d6a525d3508304b8b32dc20179ec36e631902476
+io.getkyo	kyo-direct_sjs1_3	0.19.0		a378341577610cbff0ee9825fec1f091fb010471
 io.getkyo	kyo-direct_sjs1_3	0.3.5		32e2a0b9942b6e958f6516b465a5e218943671a3
 io.getkyo	kyo-direct_sjs1_3	0.3.8		7bedb94e15f7b63da851934788bedb307beafb59
 io.getkyo	kyo-direct_sjs1_3	0.3.9		e41c26e226934df3b10622e1a3e0fbca3243b9de
@@ -2891,6 +2893,7 @@ org.qbicc	qbicc-machine-tool-api	0.77.0		8cab5c907fd3c0e7a992ca19a26cec9d1af9880
 org.qbicc	qbicc-machine-tool-api	0.8.0		28d3590e35317e6cb3363cd33d46d520d62ca0a4
 org.qbicc	qbicc-machine-tool-api	0.9.0		c4f28fd159762dad95ede1392daef064c111726f
 org.scodec	scodec-core_sjs1_2.12	1.11.10		1e132a12fdcdbfaf7092f4c350ceb7ce6da0fb3c
+org.scodec	scodec-core_sjs1_2.12	1.11.11		3b58f432a05a031935181087df40f00d840f5e72
 org.scodec	scodec-core_sjs1_2.12	1.11.5		53adc688c6c7969ad68a0d466f6ef823f4011c66
 org.scodec	scodec-core_sjs1_2.12	1.11.6		e7212ab8d77a1f71d6c50925ccf6184350fa8963
 org.scodec	scodec-core_sjs1_2.12	1.11.7		19ab200b9e7bdc293297ce83a0f67f812a7ff63c
@@ -3019,6 +3022,7 @@ org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.1.0.Final		5a463e2c100b7
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.2.0.Final		2d6196758690fa33d230d0ddce6366f4ac0d1a63
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.2.1.Final		143d9619427c7a6894475dc616fc9a4c5265a18d
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.2.10.Final		619e9a31358ab3e87e1e538d4d8423403608d2c8
+org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.2.11.Final		a9a2249928c19f7f056e6f7c4932fde8aca4ab06
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.2.2.Final		ce421ea02e20b6b2d7f8564478c3c211ae15b21e
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.2.3.Final		cf1cc4a9724c90e7cf84767aaa57d0b01e55cef0
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.2.4.Final		63b76dfeae9aba28ae4f989292cf531f2b82a439
@@ -3041,6 +3045,7 @@ org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.6.0.Final		2ec3e3ddd8c98
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.6.1.Final		517af14f5203c773d15e8665fa763abf794d1dca
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.6.2.Final		9bf24ba836c1d2e548836259136e9a39d7d6ca55
 org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.6.3.Final		cac9bc270c99609bc03c80cf2d790defc66ecfb1
+org.wildfly.security	wildfly-elytron-mechanism-gssapi	2.6.4.Final		fd7ff144a87555b62f60fe741faac816bafd95d6
 org.wisdom-framework	derby	10.11.1.1_1		f404cac27e99c494c4e2ac18921f405dd91686c9
 org.wisdom-framework	derby	10.11.1.1_2		624651a05bf27e43eb49ff349de5b185a3b68d74
 org.wso2.carbon.identity.fetch.remote	org.wso2.carbon.identity.remotefetch.ui.feature	0.8.3		N/A
@@ -3197,3 +3202,5 @@ top.tanmw	efficient-boot-common	2.6.0		648f5d0f503fb425465a7fefb7b17ac857d68722
 top.tanmw	efficient-boot-common	2.7.0		2307a9c800a38bcafb7e5c49bb2077c874608684
 top.tanmw	efficient-boot-common	2.8.0		35c85c8850465b549012650db7c3ae5f5900c056
 top.tanmw	efficient-boot-common	2.9.0		66c7d94ba4cd6c9c26f96ddf3e66b29d3ba60927
+tz.co.asoft	kiota-file-core-iosx64	3.1.11	metadata	5bb9dde924c4281f21143a80e90714914cf5282f
+tz.co.asoft	kiota-file-core-iosx64	3.1.12	metadata	09f38c3cb48174f4026ad24887e0aa81f4c541bb

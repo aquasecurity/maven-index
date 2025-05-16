@@ -313,6 +313,7 @@ com.linkedin.coral	coral-service	2.2.5		6209f11784062b9af588f2ff9e4d090ea7c17d82
 com.linkedin.coral	coral-service	2.2.50		c4de577286f0a02307e3b31347a15b1283401abe
 com.linkedin.coral	coral-service	2.2.51		18849a3166c3fcd0d5bebbec05f98396a15957f3
 com.linkedin.coral	coral-service	2.2.52		3875bcb38d571bd418ffcbaf3cba5742825b1e93
+com.linkedin.coral	coral-service	2.2.53		ac5b3143b8d138fd294c9206bf24564622f16f77
 com.linkedin.coral	coral-service	2.2.6		b83c572e9d96278f36fb177858099d45bd23e801
 com.linkedin.coral	coral-service	2.2.7		ea43cef5967af02d8dfd13f70638b00425120d57
 com.linkedin.coral	coral-service	2.2.8		1a127e8514335ffe002d2dac5b19e852f408fe01
@@ -833,6 +834,7 @@ dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.27.1		6c95342f4cbefb5514e70b342f
 dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.28.1		6ccb8bba445c02da9803e36d3c936d650c741c2c
 dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.3.1		5f04e1f6af2aeb023dbbbfb2acd9695b60af3dc5
 dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.30.1		1e11df78d57bec8baeeb083a2ab127a132583c4d
+dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.30.2		45f3e15ee018bc564c72cc8fce5a86e24e21a522
 dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.4.1		1841148dde1b008bab07d8eadfdb61ed8642b47b
 dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.6.1		519da423ba4a07f20944978828e790feb5159051
 dev.zio	zio-aws-kinesisvideosignaling_2.12	7.31.6.2		44a619f561a44ef7e6a666d6f48a1561fae88634
@@ -1144,11 +1146,19 @@ io.spinnaker.keel	keel	1.2.1		d31238fa73309517dfb097dd6f919dd43231ebd0
 io.spinnaker.keel	keel	1.4.1		6cc2e3210fe441b44c994781f248ed1e30f7f7c5
 io.spinnaker.keel	keel	2025.0-0		8c5301eaa818203bd1a9bb402ed410d3d3d110fd
 io.spinnaker.keel	keel	2025.0-1		53115c31cd7166e161bb249989304c08d75a48b9
+io.spinnaker.keel	keel	2025.0-2		35c023151242a585b45f9504b9cbb3b449a2b074
+io.spinnaker.keel	keel	2025.0-3		dd1e03038abad2f404339c556364f45d1a1cf0aa
+io.spinnaker.keel	keel	2025.0-4		b9e5173a90ac35e54d072606bbf7000e44c65154
 io.spinnaker.keel	keel	2025.0.0		3d09e3eaded064f7fa3f31fbc2f56f7d102722b5
+io.spinnaker.keel	keel	2025.0.1		ec68a77233b916ec0f27a8a7c87d5e5810d8f591
+io.spinnaker.keel	keel	main-10		4ac00397d20e8505f72fc9fbed55380dc8273116
+io.spinnaker.keel	keel	main-11		c5abfd29ce8917f3a34a1218c61d8eecb594317f
+io.spinnaker.keel	keel	main-12		e4c4cd28b7135899aaa491dc487ed3efb389a8db
 io.spinnaker.keel	keel	main-5		5a738c28aa8371a5bf66cc8b7a4401df868a029c
 io.spinnaker.keel	keel	main-6		4b3e1c0f5dd24eb595224eab0e9ea30e3ce37191
 io.spinnaker.keel	keel	main-7		5a0bbc23ce79803990e109333e02c4002af9bdbb
 io.spinnaker.keel	keel	main-8		082137f3321e70013be3a880fa5bc9c25e446c40
+io.spinnaker.keel	keel	main-9		bc489dc13ef309cc0a5a50cdd2f9f73c13d75257
 io.syndesis	syndesis-connectors-project	0.3.10		N/A
 io.syndesis	syndesis-connectors-project	0.4.2		N/A
 io.syndesis	syndesis-connectors-project	0.4.4		N/A
@@ -1322,6 +1332,7 @@ org.apache.camel.springboot	camel-google-storage-starter	4.8.3		80541bca01e51524
 org.apache.camel.springboot	camel-google-storage-starter	4.8.4		2f4457f998588ce3e43ecf99ed85aa38e6512f78
 org.apache.camel.springboot	camel-google-storage-starter	4.8.5		e7e00b977659e88b4877978df973817a5a950cee
 org.apache.camel.springboot	camel-google-storage-starter	4.8.6		f625852ffff3f0c8b382c28d7f144d102de7a107
+org.apache.camel.springboot	camel-google-storage-starter	4.8.7		f2fd495778edc3d830076630a87cc4f6b5700622
 org.apache.camel.springboot	camel-google-storage-starter	4.9.0		5faed4dc6b22107470b33e3a99572b1bea4688df
 org.apache.dolphinscheduler	dolphinscheduler-datasource-k8s	3.2.1		02a93ab8867eccc74ef83de397091d7def438b89
 org.apache.dolphinscheduler	dolphinscheduler-datasource-k8s	3.3.0-alpha		df2116e7701e8bd366b29ed63513b5f35175c77e
@@ -1463,6 +1474,7 @@ org.jetbrains.compose.material3	material3-window-size-class-desktop	1.7.0-beta02
 org.jetbrains.compose.material3	material3-window-size-class-desktop	1.7.0-rc01		a5050d6867e44b7dda73b41155fc60a5a8374213
 org.jetbrains.compose.material3	material3-window-size-class-desktop	1.7.1		a5050d6867e44b7dda73b41155fc60a5a8374213
 org.jetbrains.compose.material3	material3-window-size-class-desktop	1.7.3		a5050d6867e44b7dda73b41155fc60a5a8374213
+org.jetbrains.compose.material3	material3-window-size-class-desktop	1.8.0		20f1af07f69a3f3963d502edbe0ec79ace853018
 org.jetbrains.compose.material3	material3-window-size-class-desktop	1.8.0-alpha01		84a157aff1d51b9ac5099f10752d7e7e5d963e67
 org.jetbrains.compose.material3	material3-window-size-class-desktop	1.8.0-alpha02		84a157aff1d51b9ac5099f10752d7e7e5d963e67
 org.jetbrains.compose.material3	material3-window-size-class-desktop	1.8.0-alpha03		f93d71049128dfe8284e905eef2317a0ecabf467

@@ -82,6 +82,7 @@ com.jd.live	joylive-protection-postgresql9.4	1.5.0		ddcaacb1934c9b20fbbe53737f5a
 com.jd.live	joylive-protection-postgresql9.4	1.5.1		cf9e61a9bce64afd2eba4dc07a970d6fc6089f55
 com.jd.live	joylive-protection-postgresql9.4	1.5.2		efb193e541d744ba7103c8a5f5ffcc5eb8048233
 com.jd.live	joylive-protection-postgresql9.4	1.6.0		d182bec378e0032314054142c05bcf0cba7d35bf
+com.jd.live	joylive-protection-postgresql9.4	1.7.0		f66c9570ae787f7cf893fa9818e1d97dd3940c03
 com.liferay	com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services	1.0.0		62848974e1f349df6001e8cb68bc9088d41e1944
 com.liferay	com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services	1.0.1		49ecc9818b5b54d51c4e9749b36a6680ad60cd24
 com.liferay	com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services	1.0.10		6df990c16dfc887cc8027d2c0205e6bd412cf1aa
@@ -412,6 +413,8 @@ com.oracle.oci.sdk	oci-java-sdk-logging	3.63.0		7f463d82d7cf699c0786d240b24ea60b
 com.oracle.oci.sdk	oci-java-sdk-logging	3.63.1		1017e14a190c5ceaea7e13ac8d2a614e3eda2afe
 com.oracle.oci.sdk	oci-java-sdk-logging	3.63.2		456ca0f724c7871681aa5aecfa9599e8c832964d
 com.oracle.oci.sdk	oci-java-sdk-logging	3.63.3		c3fd5dba317feade92ee8e6a4accf329295091e1
+com.oracle.oci.sdk	oci-java-sdk-logging	3.64.0		7bca1e8a8e0f8d7bac6f8e3de1b5a47a8da595bd
+com.oracle.oci.sdk	oci-java-sdk-logging	3.65.0		5792cf97a4d2c037eaf424dfdb26fc4a0a8219d6
 com.oracle.oci.sdk	oci-java-sdk-logging	3.7.0		6be23990dfae789403240e5c6da36e826e031fd6
 com.oracle.oci.sdk	oci-java-sdk-logging	3.8.0		f04058aa646c5ee1134c1e9fda99a3a915f070cc
 com.oracle.oci.sdk	oci-java-sdk-logging	3.9.0		e878ffdeee0771178c532ad1ef98c49df94e535c
@@ -918,6 +921,7 @@ io.quarkus	quarkus-resteasy-reactive-common	3.15.2		d521900cf94c2fe2b19d50c7d19f
 io.quarkus	quarkus-resteasy-reactive-common	3.15.3		a13dea0406172d8036f3099660dd887fb4816a9a
 io.quarkus	quarkus-resteasy-reactive-common	3.15.3.1		21b64bc38e4b84e9fba2aef8c52ba7e159fa21d7
 io.quarkus	quarkus-resteasy-reactive-common	3.15.4		dd7310133933d0aeb256e24745befed5af0d2cbc
+io.quarkus	quarkus-resteasy-reactive-common	3.15.5		22c3c9b39e02dce718fe3b5da39cc7bbdf26310b
 io.quarkus	quarkus-resteasy-reactive-common	3.2.0.CR1		0f584dbc90bc93acd2ddc950bfadeaad0cdd10eb
 io.quarkus	quarkus-resteasy-reactive-common	3.2.0.Final		8037b1b3ea1717945550134a1a24edaf9e185d85
 io.quarkus	quarkus-resteasy-reactive-common	3.2.1.Final		101e24d06f29ec8802d31212023c42bdfad523e6
@@ -1287,10 +1291,17 @@ org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.8.0		e716
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.80.0		36509bf0fc9a7ba5c60a4ae97db6dada6a05654d
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.81.0		9550039dc34a4103a91c76dc5745b3966fbd135e
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.82.0		3b18713f1ca753c8e754d5c2d245e2a8b90ec269
+org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.82.1		ed07448aaf07bec75f85f4fa67fc371ada13e3ff
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.83.0		41937b11edb4cb24aad366b31ac819a88ebb481f
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.83.1		01e5a627f8e99dbd1892c3a4e0669e7fa1d8875c
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.83.2		4ce826c4c6656dc481c5dbdc6108328c12ce69da
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.83.3		7a320af7a58c89ef1e25ea3ed4065b422b577971
+org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.84.0		2525dedd592f50682e82e5966a489d6aa0be5c7c
+org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.84.1		368984b4b1ad02d4e9e1a9afeac99d964782254c
+org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.85.0		1488c1760021ec8206da5e470697741ea0611a3a
+org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.85.1		540ca9e25eb50efe3ccf7c50868c1acbf517c620
+org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.85.2		53ff5e668c96ba31603c7565e28ad9ee622d962d
+org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.85.3		1e8c7d64aaa78317c7d91758826e233d94cdc122
 org.finos.legend.engine	legend-engine-pure-platform-dsl-mapping-java	4.9.0		5b01b16121ad449b693bb5baf4e2aaaa3537e248
 org.graylog.telemetry	graylog-telemetry-plugin	1.0.0		314fc1f8f37a23d860829dca2f045a269bef81fa
 org.graylog.telemetry	graylog-telemetry-plugin	1.0.0-beta.1		37271a45c36efdfedbf01726e2fc0b28b80714da

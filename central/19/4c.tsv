@@ -1,3 +1,20 @@
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.1.0		38a5a576386fd8377861dc035974a6cb8bdc9430
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.2.0		e8b6d6e86e66de2f25fb8537458d67b581e11b95
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.3.0		29e3e7b0c36cbfc2de65724c7a8e87569a87792c
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.3.1		eadd87d226efe1054e2cbf01ce4b0184bbce2ced
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.3.2		41cd027a28074f81817b28414f85ea0941410b39
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.3.3		e259ae579a32f038c5b58214ae3cc1d1b1c8a66b
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.4.0		bf63df527f87c5b5e140138dc49c345e8453c3a0
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.4.1		d9da73387338f1c5988a6482dda033582d37d1d1
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.4.2		92776b81928d3643a43e7b7756be366f1548d9f5
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.4.3		bc780bc467021709ba227a1567ea410c993b3715
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.4.4		6d75de8809b73253c573b6c43d1f4367cac525db
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.4.5		8f5151df4c47d9b3c3e7207424ba35e948eed84a
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.4.6		3bb6471df3990e5833d14da672d157d182530f9f
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.5.0		ff82537cc836250f5d4c4389bc2f28678440c72f
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.5.1		bb681978f578b47b50cfa7d1422217154c12af22
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.6.0		fde3f07ca8d85ccebafa2ad5b4bb142fdf4f8791
+ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.6.1		52496d840827c003996a70273278316d383870d3
 ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.6.2		09e14156de6a31b5edd737300388c5a865859533
 ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.6.3		ea76e398aa74e74166edb7a709f90d4c1fb6585a
 ch.epfl.scala	sbt-scala3-migrate_2.12_1.0	0.6.4		8b7f10e07f3ff5f62f890633d4d9caff495e89e9
@@ -66,6 +83,7 @@ com.devsisters	shardcake-manager_2.12	2.4.2		04648ceea17193cec8bcd68a145c4e56f0f
 com.devsisters	shardcake-manager_2.12	2.4.3		cff9bfc5c8783a9135eb301611d46b001b239e4f
 com.devsisters	shardcake-manager_2.12	2.5.0		90cdd288360a92e8564e8526bcaa27c6c31aabc9
 com.devsisters	shardcake-manager_2.12	2.5.1		b8549dac1533085d09a40c84219e13b01f1f68fc
+com.devsisters	shardcake-manager_2.12	2.5.2		171847f97bf22f2d12741eb278e7069896c7d819
 com.digitalasset	daml-maven-plugin	0.1		8d33eaa3a6e16a4aedade8ab9171d5a4c9a561c9
 com.digitalasset	daml-maven-plugin	0.1.1		ac432a36fdb6a12359a04b18ba365c8b2724b66f
 com.digitalasset	daml-maven-plugin	0.1.3		05a2834d3bc7655a2250b05f525bd1096c99f977
@@ -202,6 +220,8 @@ com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.64.0		3040d419c5a6ac5bae80
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.65.0		a7e54f746cb9a95323e4e8c96d9a736a0d8017f7
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.66.0		50126027555f7e5bb3c8941ad47edb9c55cbf5e1
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.67.0		ce1360570511cba4335437ed622d4ed2ad5538b8
+com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.68.0		bdea33eaf791ef41f1c7b84e8549aec5d0e81b4a
+com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.69.0		7c27c411af863c68ce2c6a0394f617c5027b9561
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.7.0		fd6417e8123d3b791dd52693646010942d304ae3
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.7.1		861212087ed77b1f7d12de7f0cede33f4959510a
 com.google.api.grpc	grpc-google-cloud-gkehub-v1beta	0.7.2		298ac7933719c88b7fb71c7f6674465086f300e3
@@ -396,6 +416,8 @@ com.google.cloud	google-cloud-os-login	2.58.0		57c175162dabc1ae6ea50615b25f04923
 com.google.cloud	google-cloud-os-login	2.59.0		ded4620e7cc04fce5fa3ad74439fc4985efe0328
 com.google.cloud	google-cloud-os-login	2.6.0		61fb2eebb36bbbea531d9a0a8e75b80c89481d26
 com.google.cloud	google-cloud-os-login	2.60.0		9b3e74e0c96c784330907ad23afadb5ca57c6ed3
+com.google.cloud	google-cloud-os-login	2.61.0		9eb2422e6ead75e1aa38f8b748e8370cabb01441
+com.google.cloud	google-cloud-os-login	2.62.0		5c67b26be19ae616255f6cfbb53e7a63d6378ae2
 com.google.cloud	google-cloud-os-login	2.7.0		638cd6abe9fb6e85883fc672fa3576bbf581020c
 com.google.cloud	google-cloud-os-login	2.8.0		e603ce07d609f99878d69d85fb93dad5d0991bae
 com.google.cloud	google-cloud-os-login	2.9.0		b4d5b4dfa3da78a3fc78c4bb66360fdad19bf28c
@@ -546,6 +568,7 @@ dev.langchain4j	langchain4j-embeddings-bge-small-zh-v15-q	1.0.0-beta1		5f0ced05a
 dev.langchain4j	langchain4j-embeddings-bge-small-zh-v15-q	1.0.0-beta2		e9f5847edfa686f03d776123320c2045ec9bba3c
 dev.langchain4j	langchain4j-embeddings-bge-small-zh-v15-q	1.0.0-beta3		86700a493437054d7d74bddb7e493dc21c0fdf59
 dev.langchain4j	langchain4j-embeddings-bge-small-zh-v15-q	1.0.0-beta4		78765fd19e4365971f1cfdfe9b151a75c48ef790
+dev.langchain4j	langchain4j-embeddings-bge-small-zh-v15-q	1.0.0-beta5		ce19e0b7a9193457001726afd6414960bbecb481
 eu.dindoffer	yin-pda-lib	1.0.0		e6336cf4064adb431e66e7bf509e7edf964d8bbb
 eu.dindoffer	yin-pda-lib	1.0.1		1f0a8850409bf030d263c8cc832bd406c2db2d23
 eu.dindoffer	yin-pda-lib	1.1.0		0a5a35a6e0b3b6ce37cd12fed1a8451798edc506
@@ -653,6 +676,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bo
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bootstrap	2.13.3-alpha		96fd1f12d4f8ab6565d22ed361e7e3678eef6a83
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bootstrap	2.14.0-alpha		e29e1707c78663df7bf5989b45d9b32c76282cce
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bootstrap	2.15.0-alpha		6733b47be0e93bd7a4395028552278ebfd093d21
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bootstrap	2.16.0-alpha		346bcd1ceaa546aa1cb78f31e19287001056a3e8
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bootstrap	2.2.0-alpha		c3278e5fabed1bfe72582f2339895d44055d8845
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bootstrap	2.3.0-alpha		a8797859093005e0dbb3c257157fc5dcda625f69
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jms-common-bootstrap	2.4.0-alpha		9bc061f7dc650f5f4a7c1875e216e18ef5a39b3f
@@ -846,6 +870,7 @@ io.quarkus	quarkus-kubernetes-service-binding-deployment	3.15.2		78435f321a2c1a0
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.15.3		ef771542964219c6783412a7983452bf405cd2eb
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.15.3.1		31e233da708b0d996d7cebefbf5e82394d73a3d8
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.15.4		6d8ea069218d329bfe758874d65b15d49b970bba
+io.quarkus	quarkus-kubernetes-service-binding-deployment	3.15.5		6db11da03d522e545bcaf2c21de5663932bb189e
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.16.0		771041688498986c3934b4942fb8dc7e4a979309
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.16.0.CR1		af5ebb6ccc25c320e5acfc4c23bc2b75f3097e6f
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.16.1		f1dd20ce9588ebaf4c87129a170d836f317475f4
@@ -890,6 +915,7 @@ io.quarkus	quarkus-kubernetes-service-binding-deployment	3.2.8.Final		ded92f5dba
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.2.9.Final		4083a4a50c6f38cc973c351cce82b3f63fef6750
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.20.0		d7e77868d1c7b91a11823c11afe995403e3eb64c
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.20.0.CR1		17d2460941a438ac5e78f5611b5ef599b3f2a1d8
+io.quarkus	quarkus-kubernetes-service-binding-deployment	3.20.1		e321efbb4b1dd8ac7bd51f1fd6094699c421b019
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.21.0		2752c827a3180b31216ee1641e0ace376689ba52
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.21.0.CR1		43db1ba31cc40fd7782d8eeefb740f50374a192b
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.21.1		9117ed24e59c43754bfd6debf7184102203087d9
@@ -899,6 +925,9 @@ io.quarkus	quarkus-kubernetes-service-binding-deployment	3.21.4		7d5e7a92b470536
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.22.0		2b2ffd8be23b01665c31d5870dfa4a7b37918178
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.22.0.CR1		b874b8cec9df0e697479ad53b92b5e91c39e45a4
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.22.1		0d001068626daa9cd2bd8fd14da7345b01d4a721
+io.quarkus	quarkus-kubernetes-service-binding-deployment	3.22.2		3bde609a1a7e9c31b7778da643bed73dd853e41b
+io.quarkus	quarkus-kubernetes-service-binding-deployment	3.22.3		445a08f77775afe1edddfc2943b78907db34e6c5
+io.quarkus	quarkus-kubernetes-service-binding-deployment	3.23.0.CR1		776b458585a08188adb8d306d7e730816f4322dd
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.3.0		318df397d5b6a3fd169676372e2c9b4215615cc7
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.3.0.CR1		365c6537c2e15ae40d63811b9064bf54d5dff1b9
 io.quarkus	quarkus-kubernetes-service-binding-deployment	3.3.1		b3a1f2ca04e7c04c34151cca3e5a7d5b0011e0a4
@@ -1033,6 +1062,7 @@ org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.2.1		fe7671
 org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.2.2		ef615890a0ff98d8409d400b209c4adfab4b2da9
 org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.2.3		0464f1e16c97c0e1bcf336543b36e09149d08b4b
 org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.20.0		194861aed62290559924518ee9daf8dff11982dd
+org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.20.1		421c76bc6f73084ef2342e565884ae20dce4baf8
 org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.22.0		49923ab1c0acf858a7471d5cc6ac68b4508d5bb9
 org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.4.0		3a77cd52a4cbe7862682e1261dfa25e15435fbdf
 org.apache.camel.quarkus	camel-quarkus-azure-servicebus-deployment	3.5.0		4fc8dab002552825f715e29d19f712344f437b0c

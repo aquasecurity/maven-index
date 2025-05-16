@@ -586,6 +586,8 @@ com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.16		N/A
 com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.16	metadata	95aaf78bd52fcdbded63a8408f58158f239a816b
 com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.17		N/A
 com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.17	metadata	9209aa849b6fd9a76f9105341958aa224b01b4f6
+com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.18	metadata	ec9ed8ec6fc46af4add71e9a5c2a12e709c1c77b
+com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.19	metadata	ba9a6bf38cee955b51ed6d2209274367b3f8fd9d
 com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.3		N/A
 com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.3	metadata	b03981ec58a8077f038d93ef193c571491ed27cb
 com.glureau.k2pb	k2pb-annotations-watchosx64	0.9.4		N/A
@@ -1457,6 +1459,7 @@ org.apache.camel	camel-jbang-plugin-k	4.8.3		50ac18a44911cef0ab07e9bff7cf188b914
 org.apache.camel	camel-jbang-plugin-k	4.8.4		d961bc12d17a88f4a96dafb2cc108971d33b610e
 org.apache.camel	camel-jbang-plugin-k	4.8.5		a999b59260b7666cf727b2eba8f8f44452b67da3
 org.apache.camel	camel-jbang-plugin-k	4.8.6		699a4bc8d42bc25be8acb65940c4384c2d4a8b13
+org.apache.camel	camel-jbang-plugin-k	4.8.7		cd3732e091a85aa4594e6cd92d52906266382b7c
 org.apache.camel	camel-jbang-plugin-k	4.9.0		424957f630ce50a28d941655bab82cb05007e137
 org.apache.commons	commons-jcs3-jcache-openjpa	3.0		a4c16161fb2867f91a4980d2d9f261803e9e84e9
 org.apache.commons	commons-jcs3-jcache-openjpa	3.1		c4f2a3fc2b8f6aa4f8243ee00bf0ae8f1240de0b
@@ -1709,6 +1712,7 @@ org.apereo.cas	cas-server-support-websockets	7.2.0-RC6		134e8176d56ffeb24c4cd922
 org.apereo.cas	cas-server-support-websockets	7.2.0-RC6	resources	1c108f0a761c7f35137eb566eebb8a6a88e7be6f
 org.apereo.cas	cas-server-support-websockets	7.2.1		bba180a585f68e70504273d08c15203acd2731f5
 org.apereo.cas	cas-server-support-websockets	7.2.1	resources	4e59690e9f469e54f66b4a7dd8d8c237bd51a1f5
+org.apereo.cas	cas-server-support-websockets	7.2.2		19b7dfb3214d1f11334f6ed439de8416610cd155
 org.apereo.cas	cas-server-support-websockets	7.3.0-RC1		30a2814ff6d67e32cc7d8a7331f2cb37ac5f1276
 org.apereo.cas	cas-server-support-websockets	7.3.0-RC1	resources	b1d8154ce056ac8227cb610b2a432acae8eed5b8
 org.apereo.cas	cas-server-support-websockets	v6.4.0-RC5		6c6c843d85447a1ac8cda635fb54e0ad3c6a1f92
@@ -1956,10 +1960,17 @@ org.finos.legend.engine	legend-engine-protocol-generation-pure	4.79.0		37e359704
 org.finos.legend.engine	legend-engine-protocol-generation-pure	4.80.0		20ae3cc5fafa3eefd6f511cc2647435cd48c0a5d
 org.finos.legend.engine	legend-engine-protocol-generation-pure	4.81.0		5666d7b158b031546aa34727574f9965c05af50a
 org.finos.legend.engine	legend-engine-protocol-generation-pure	4.82.0		db7dff05552b4095973dc36afb80e12f287c20e8
+org.finos.legend.engine	legend-engine-protocol-generation-pure	4.82.1		d459d93cf79362c71099f5a8c6e0b0b53fd8457b
 org.finos.legend.engine	legend-engine-protocol-generation-pure	4.83.0		363313bf809c48398e81a95c9b259034eaa74b70
 org.finos.legend.engine	legend-engine-protocol-generation-pure	4.83.1		874f953a2d430d19fa7c14d5bc917b974278f169
 org.finos.legend.engine	legend-engine-protocol-generation-pure	4.83.2		c5f216e2126a60bd1e4799847e6d62793f0416d7
 org.finos.legend.engine	legend-engine-protocol-generation-pure	4.83.3		56327eec0ed1102308f1e3657a127e1ddb7b94f7
+org.finos.legend.engine	legend-engine-protocol-generation-pure	4.84.0		793bc7ce159676a4bac994a7bad3aa2f628f004c
+org.finos.legend.engine	legend-engine-protocol-generation-pure	4.84.1		c128e31b6b40659e637f1fbd45afcce9c9eed9b4
+org.finos.legend.engine	legend-engine-protocol-generation-pure	4.85.0		9bb5223d48ceaa2fa9f67c6b566170a5289a4aef
+org.finos.legend.engine	legend-engine-protocol-generation-pure	4.85.1		f6155818973b53ec3436e559f4f02da071ce947a
+org.finos.legend.engine	legend-engine-protocol-generation-pure	4.85.2		6b54f37d233624c0324cf41e6499b923b3a2f9d5
+org.finos.legend.engine	legend-engine-protocol-generation-pure	4.85.3		335b6db24f5b2d20862cb858dbaccdf14764190f
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake	4.26.0		N/A
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake	4.26.3		N/A
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake	4.26.4		N/A

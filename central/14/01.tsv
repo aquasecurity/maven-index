@@ -309,6 +309,11 @@ com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-33-c98221		5779a87f68dadad5acd09df6
 com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-39-4c3eb7		108db2e4e8de463347df8f2e94496440faa3b467
 com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-41-b39ce4		b1df1e36766947ae9142c9d2db207562d9f842c5
 com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-42-a720c3		5eee7feb9a61f69fc65e1fe462e16e0081824696
+com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-51-773072		743b9cd3a85a65fb9941784b779e1a7e59567375
+com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-56-51ca83		33827d379eeab0f2bd722a70139d826cc292b0de
+com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-57-7578c2		38772766335c5de4d2e1aed312186cc18a66b0b3
+com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-59-17fa7b		50431befa9b6e5f4d0416f423df5d358910fd611
+com.lihaoyi	mill-contrib-playlib_3	0.13.0-M2-74-132761		f53a1fd2cb2516b097eb3330ae6500a74df2006b
 com.moriatsushi.cacheable	cacheable-core-linuxarm64	0.0.1		N/A
 com.moriatsushi.cacheable	cacheable-core-linuxarm64	0.0.2		N/A
 com.moriatsushi.cacheable	cacheable-core-linuxarm64	0.0.3		N/A
@@ -805,6 +810,7 @@ io.quarkus	quarkus-mongodb-rest-data-panache	3.15.2		cc974c9640069e40887eb120d5c
 io.quarkus	quarkus-mongodb-rest-data-panache	3.15.3		286cff570c92cfc68248161d9ec62cfd72b517fd
 io.quarkus	quarkus-mongodb-rest-data-panache	3.15.3.1		df53e3903687b35cbf1386708d46bc2c03e2aa42
 io.quarkus	quarkus-mongodb-rest-data-panache	3.15.4		42795b097d57303fc64f86341297978c927d6913
+io.quarkus	quarkus-mongodb-rest-data-panache	3.15.5		e1a62d2b1452e955759d7fc97165ebc1be6b4136
 io.quarkus	quarkus-mongodb-rest-data-panache	3.16.0		358ca073f6f35c50ee804496e84d9ec05089c197
 io.quarkus	quarkus-mongodb-rest-data-panache	3.16.0.CR1		310f894533eedeb6e3d0a9fc11666fdc0c9888ba
 io.quarkus	quarkus-mongodb-rest-data-panache	3.16.1		f80e747c54754569e336d4bfc282031227f245dc
@@ -849,6 +855,7 @@ io.quarkus	quarkus-mongodb-rest-data-panache	3.2.8.Final		8eb2d4c826c7ffd79d2caf
 io.quarkus	quarkus-mongodb-rest-data-panache	3.2.9.Final		069b1a798b3be366887dc243e2194afde2b14111
 io.quarkus	quarkus-mongodb-rest-data-panache	3.20.0		3caade6a6cdcc423df08ba6be101021a08120299
 io.quarkus	quarkus-mongodb-rest-data-panache	3.20.0.CR1		b8ae7a200b0fd872c731c28dd8fe8506e2a4e8b5
+io.quarkus	quarkus-mongodb-rest-data-panache	3.20.1		444de11f3be280f6c784fa95a85ab11a0ec79e18
 io.quarkus	quarkus-mongodb-rest-data-panache	3.21.0		93737dd3f6024483c5b4a766846edc2ba980498c
 io.quarkus	quarkus-mongodb-rest-data-panache	3.21.0.CR1		11e1dfbd84c1cfbef9b3a5992fc63e68d8443b37
 io.quarkus	quarkus-mongodb-rest-data-panache	3.21.1		0fc16ce729b37fcd8bec964fe93ef27ab7defa85
@@ -858,6 +865,9 @@ io.quarkus	quarkus-mongodb-rest-data-panache	3.21.4		30b39c514f0d4eceb348b685b9c
 io.quarkus	quarkus-mongodb-rest-data-panache	3.22.0		577a92a173ea765cd69bf345be0b1bb3be07a9f5
 io.quarkus	quarkus-mongodb-rest-data-panache	3.22.0.CR1		cedfd93be30839586417045560bada03d44ee970
 io.quarkus	quarkus-mongodb-rest-data-panache	3.22.1		84304b8fa3ee47c62304c8bf38154ac472af628b
+io.quarkus	quarkus-mongodb-rest-data-panache	3.22.2		ce49b427f553cf8e7c163477504dc01eac3e8c0c
+io.quarkus	quarkus-mongodb-rest-data-panache	3.22.3		edff682d02325a3f0e503ef4749e94fcb5c2305f
+io.quarkus	quarkus-mongodb-rest-data-panache	3.23.0.CR1		28b7c07664daefaba17c8eb58c53d8ab6f8e8295
 io.quarkus	quarkus-mongodb-rest-data-panache	3.3.0		2fb9e305b56a1a796f30591705de94b8815bf19f
 io.quarkus	quarkus-mongodb-rest-data-panache	3.3.0.CR1		cb6ed722d393fb563e1e18f089d8fa4c13e0b269
 io.quarkus	quarkus-mongodb-rest-data-panache	3.3.1		61b917008f2a5c755ed013ef02c7eb8caea09fc8
@@ -1053,6 +1063,9 @@ org.http4k.pro	http4k-mcp-core	6.6.0.0		697afe082fe5e602b0be2c9eea4606b8ee856ca9
 org.http4k.pro	http4k-mcp-core	6.6.0.1		38678f13b312e81f8b7c59f3e5ba079e4b15c565
 org.http4k.pro	http4k-mcp-core	6.6.1.0		b501b2ee9cbaf4ec9e5f8b983ccb6bc3115e9b38
 org.http4k.pro	http4k-mcp-core	6.7.0.0		2177bc5c56e8fdd446cff0aeaff1530104d11171
+org.http4k.pro	http4k-mcp-core	6.8.0.0		ae90bd27203b17a389f35c7b78db9a1af0610a19
+org.http4k.pro	http4k-mcp-core	6.8.1.0		31ee887f68cc5e74625cb666666ed65d5ac315f3
+org.http4k.pro	http4k-mcp-core	6.9.0.0		fd7a77e10720fc80a9010db83a61e28634e7942d
 org.http4s	http4s-fs2-data-cbor_2.12	0.2.0		cbacaab47c88f2f0ad0e35a6c55b6798931f5d74
 org.http4s	http4s-fs2-data-cbor_2.12	0.3.0		2703845a2cd08656e77c9e87edca32d2ba666f2e
 org.http4s	http4s-fs2-data-cbor_2.12	0.4.0		a9ce6bfb53853453f045cf5834f3b9fc5e4becdc
@@ -1342,6 +1355,7 @@ org.scalatra	scalatra-auth-javax_3	3.0.0-RC1		ef48b69456bdeb92edd41b444641e44e2f
 org.scalatra	scalatra-auth-javax_3	3.1.0		67980075cb86c6137f208d17be2fc376648871b0
 org.scalatra	scalatra-auth-javax_3	3.1.0-M1		196900acd7f90a63156ab685fea5318edb083486
 org.scalatra	scalatra-auth-javax_3	3.1.1		4a436a27d94eab5f332e9ebdad460e8af388f7a7
+org.scalatra	scalatra-auth-javax_3	3.1.2		21957ece1302d2100b379d818dc2ef75870e962d
 org.scalikejdbc	scalikejdbc-jsr310_2.12.0-M4	2.4.0		8ae7d30a14ff1d1c722510b7aed8a187aefb08d2
 org.scalikejdbc	scalikejdbc-jsr310_2.12.0-M4	2.4.0.RC1		638d5a21356949b0bc7840d764dcf7a9563dc914
 org.scalikejdbc	scalikejdbc-jsr310_2.12.0-M4	2.4.1		f945e59bb9d62951a4c307281683d311a369a7b3

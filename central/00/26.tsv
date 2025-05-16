@@ -221,9 +221,14 @@ com.speedment.jpastreamer	autoclose	3.0.4		4a63f3544abd6fd1019b7f1fea99d52c4a3f1
 com.taptap.sdk	tap-initializer-annotation	4.5.3		aba3d5348de8fa728ccafa56a8c4eb5052555889
 com.taptap.sdk	tap-initializer-annotation	4.5.4		5bef27c5bde22ebd6f98a0603b15cddfa2c00721
 com.taptap.sdk	tap-initializer-annotation	4.5.5		1bfad2de603f175e440020ddab65018bcd6a2850
+com.taptap.sdk	tap-initializer-annotation	4.5.7		9c873aef8c5fdf109b359bae23a6e1d48a3739c4
 com.taptap.sdk	tap-initializer-annotation	4.6.0-beta.1		30444aa9935df03eefc0d55681afa8b3cef1869c
 com.taptap.sdk	tap-initializer-annotation	4.6.0-beta.2		6bb0a96bf69f0d50ed2d8dba166450a856c96ee4
 com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.1		f7dcd92ab35ece32cfb2e5245b926223145f975a
+com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.10		7688f8b9584fd661ad90ed204d916080ae18343b
+com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.11		8e5db607dcea25d42d55e50248731996949aebf7
+com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.12		c8b113776df4af131ca913da9a02c287c0759e40
+com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.13		d4c85f28d90f7f3a12ee11e639542ac942d2f73a
 com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.3		65ba04fe28e45d6eb657d5ca819b889c49a86cba
 com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.4		d7fbdd43d87439b7fdecc71c22a576019f938bd9
 com.taptap.sdk	tap-initializer-annotation	4.6.1-beta.5		8642fc78cdd27b83fc59db504526baa638b49746
@@ -411,6 +416,9 @@ hu.bme.mit.theta	theta-multi-tests	6.12.2		faf2b8fc698133606a25bbab26b2ef9d7caaa
 hu.bme.mit.theta	theta-multi-tests	6.12.3		6f4dc1407f416c89321bcec50d585cd0f9de1a2c
 hu.bme.mit.theta	theta-multi-tests	6.13.0		b35e894817d1175904da2a314d83d68951acee32
 hu.bme.mit.theta	theta-multi-tests	6.13.1		fb635c7dd132e12b297eece490bc30ea6a19fc37
+hu.bme.mit.theta	theta-multi-tests	6.13.2		09162dfeb7db22fe4251ec164b19edb8e3ddc53f
+hu.bme.mit.theta	theta-multi-tests	6.14.0		b494a01ca88f7635d9621b8c46e5264b9d64cb4c
+hu.bme.mit.theta	theta-multi-tests	6.14.1		0eb7f3db4a10ba2952bf01b774d2e9fba6d1fee3
 hu.bme.mit.theta	theta-multi-tests	6.2.0		28c581e9d2f219878fd6b5771082ae3174a3e99c
 hu.bme.mit.theta	theta-multi-tests	6.3.3		dc50b0fc4c8bd5f4583d481c95c28c8275b7a8a3
 hu.bme.mit.theta	theta-multi-tests	6.3.4		8f36e796ab33c6f466b949f545adc984adb02b9d
@@ -472,6 +480,7 @@ io.github.davidepianca98	kmqtt-client-tvosx64	1.0.0		N/A
 io.github.davidepianca98	kmqtt-client-tvosx64	1.0.0	metadata	4c795c71fe810be93d090198c9943d9d0d79d75a
 io.github.panpf.tools4k	tools4k-lang	1.0.0		934f304a1badaa76647643f568904e966633f0ed
 io.github.panpf.tools4k	tools4k-lang	1.0.1		a179cf5ac202c3847244ed85a8f31c9f00837d62
+io.github.vincenzobaz	sbt-worksheets_2.12_1.0	0.1.0		1497ce1c6d41bca95a21646e7bef4c84c418e0a5
 io.github.yandroidua.kroute	navigation-transition-iosarm64	0.0.1		N/A
 io.github.yandroidua.kroute	navigation-transition-iosarm64	0.0.1	metadata	b3c9a3ec8e4a4eb19034fbbd90ce80c24fd2bdd6
 io.github.yandroidua.kroute	navigation-transition-iosarm64	0.0.2-alpha		N/A
@@ -783,6 +792,7 @@ io.quarkus	quarkus-kubernetes-deployment	3.15.2		ac1af6a326da9a133c51bd01116ad29
 io.quarkus	quarkus-kubernetes-deployment	3.15.3		b4afc8fc9ce5665f6242ce8da15ccb391a70474b
 io.quarkus	quarkus-kubernetes-deployment	3.15.3.1		dec2acf2c0423ab1113eb8b251fbbce0603bd041
 io.quarkus	quarkus-kubernetes-deployment	3.15.4		b8ac6bf594c2d5be076cfc4a618daa15624fd98c
+io.quarkus	quarkus-kubernetes-deployment	3.15.5		56f24c46fea96640c94525f6c122ce7e9c1e8dc9
 io.quarkus	quarkus-kubernetes-deployment	3.16.0		8914650bf9719e1df7ac2e4317f4fbf8694446f2
 io.quarkus	quarkus-kubernetes-deployment	3.16.0.CR1		c649a59da51cac1a1ba067450eeca687f82c01da
 io.quarkus	quarkus-kubernetes-deployment	3.16.1		0dcc149b59387c24ad049d969205288476d74906
@@ -827,6 +837,7 @@ io.quarkus	quarkus-kubernetes-deployment	3.2.8.Final		171ead9210b4d7d228a209c30d
 io.quarkus	quarkus-kubernetes-deployment	3.2.9.Final		49f9b1322fddc9abb7b3f48e2a17c7af88f7d446
 io.quarkus	quarkus-kubernetes-deployment	3.20.0		d996956a0a3d3c2617022080b920782465d5b60b
 io.quarkus	quarkus-kubernetes-deployment	3.20.0.CR1		ad452c0f69128539ee8e7271f4628bab0cb96edb
+io.quarkus	quarkus-kubernetes-deployment	3.20.1		830913a112caf1e645819781f6a4f38c420d2d27
 io.quarkus	quarkus-kubernetes-deployment	3.21.0		63cc0df87f6600b8956070159428d1cbb69808b7
 io.quarkus	quarkus-kubernetes-deployment	3.21.0.CR1		2c7f44b5230a91dd354ca34260fcae77e9e23eaa
 io.quarkus	quarkus-kubernetes-deployment	3.21.1		0d446e69c71b4f7ad1d0e463b65a0233076aca02
@@ -836,6 +847,9 @@ io.quarkus	quarkus-kubernetes-deployment	3.21.4		a9819d2971171c24e1ac1e1d6baca28
 io.quarkus	quarkus-kubernetes-deployment	3.22.0		19b7ff6d47f218d21271e94501c9402da487d348
 io.quarkus	quarkus-kubernetes-deployment	3.22.0.CR1		6c3a8465f0301033f7b17e6ddd560d60b7f0b557
 io.quarkus	quarkus-kubernetes-deployment	3.22.1		8f94c3a45a8376f639bad415519d2c7754d7c383
+io.quarkus	quarkus-kubernetes-deployment	3.22.2		255f9472fd0053bbc78b546b79314a0a327aa5fa
+io.quarkus	quarkus-kubernetes-deployment	3.22.3		8a1abd775b9a2054e9d0a13814052d57a328a74c
+io.quarkus	quarkus-kubernetes-deployment	3.23.0.CR1		0c28560f126bbd9658f405f0fd3692bba19b247c
 io.quarkus	quarkus-kubernetes-deployment	3.3.0		d6701b74cd09a7900f63918aa73036a5bfe5d5c5
 io.quarkus	quarkus-kubernetes-deployment	3.3.0.CR1		a6afcd612757dc4449ba381d8532638156bb5234
 io.quarkus	quarkus-kubernetes-deployment	3.3.1		86d12e634a087a82177c934386fc39e13040f30d
@@ -956,11 +970,19 @@ io.spinnaker.fiat	fiat-sql-mysql	1.56.0		c5e5c615ff5fabbbaa20c8780dcd38d9543b875
 io.spinnaker.fiat	fiat-sql-mysql	1.57.0		cdb68ee4d4d1c7f3feb69b94c9f1c1acbe6bda5d
 io.spinnaker.fiat	fiat-sql-mysql	2025.0-0		e3a0f64ac00899fdfcc6859a1cceeb3aba8c69f8
 io.spinnaker.fiat	fiat-sql-mysql	2025.0-1		53115c31cd7166e161bb249989304c08d75a48b9
+io.spinnaker.fiat	fiat-sql-mysql	2025.0-2		2adeec0d59dbd4f565928fac45bde2c7af18ba6c
+io.spinnaker.fiat	fiat-sql-mysql	2025.0-3		1a2ec09f20d8067287c3e49a30800b5d2fda16ed
+io.spinnaker.fiat	fiat-sql-mysql	2025.0-4		4d18fc62978491bda6b8ff1d8ed1030a551dd789
 io.spinnaker.fiat	fiat-sql-mysql	2025.0.0		40b9b216620b641325e518f2512b49baf5916c8e
+io.spinnaker.fiat	fiat-sql-mysql	2025.0.1		838cbd48c2e73d40f86747cc790dd0b04d081089
+io.spinnaker.fiat	fiat-sql-mysql	main-10		0c0cd783a2b71cff6b710816669887f6a38b3b9f
+io.spinnaker.fiat	fiat-sql-mysql	main-11		794e95e76ba2f1625553b8aab7bb15dc7f01bf83
+io.spinnaker.fiat	fiat-sql-mysql	main-12		b5d09144424f460eb4d5b0193e5ea3dc3f5f61e8
 io.spinnaker.fiat	fiat-sql-mysql	main-5		81afcfb0c2ddb81546ff2af73e81f3e99ea5fff7
 io.spinnaker.fiat	fiat-sql-mysql	main-6		e20fe5f6d176fffe656c7952be8837bd7ef11dc8
 io.spinnaker.fiat	fiat-sql-mysql	main-7		df554b7a8f58da86c3c24562efbbcd8b85b976a4
 io.spinnaker.fiat	fiat-sql-mysql	main-8		1acf1f11384f0a9b0996e047b55af48f7facd1fe
+io.spinnaker.fiat	fiat-sql-mysql	main-9		08d059bd88a1d9d9702253f7cbfe6819022fcf3d
 io.ygdrasil	webgpu-ktypes-androidnativearm64	0.0.1		N/A
 io.ygdrasil	webgpu-ktypes-androidnativearm64	0.0.2		N/A
 io.ygdrasil	webgpu-ktypes-androidnativearm64	0.0.3		N/A
@@ -1275,6 +1297,7 @@ org.apache.camel	camel-spring-rabbitmq	4.8.3		2c5eec90df400835feffb7474a6bac6110
 org.apache.camel	camel-spring-rabbitmq	4.8.4		6d4dd922e624cc670d63a36f035cc4ef86d513e4
 org.apache.camel	camel-spring-rabbitmq	4.8.5		7f41eb55a555bbc7b40097de0b7b7ca2eb6bcf95
 org.apache.camel	camel-spring-rabbitmq	4.8.6		9cb3ff545f0179ab76feb368e23f8fc287d7e487
+org.apache.camel	camel-spring-rabbitmq	4.8.7		98b10811d07b012450c63fd2357eeac62d6f13e5
 org.apache.camel	camel-spring-rabbitmq	4.9.0		436a45211c15d8a06581681173639a59abafe980
 org.apache.jackrabbit	oak-jackrabbit-api	1.16.0		3abf7d370e12d2cd2aa5268e8e9498c4900ef942
 org.apache.jackrabbit	oak-jackrabbit-api	1.18.0		2801fa62d1735e362e5032f0c71456932e56e40f
@@ -1577,6 +1600,9 @@ org.http4k	http4k-connect-google-analytics-ga4	6.6.0.0		4242c967d15fd481edf4760e
 org.http4k	http4k-connect-google-analytics-ga4	6.6.0.1		cce72ea6641c93904173e94fae61bf2bcd571c69
 org.http4k	http4k-connect-google-analytics-ga4	6.6.1.0		905afe45f9ceb4074b82330241837d9ce9d2044e
 org.http4k	http4k-connect-google-analytics-ga4	6.7.0.0		7283a49e5e94e520605d110fc421d3391a2bba16
+org.http4k	http4k-connect-google-analytics-ga4	6.8.0.0		717eed5ee29dc953af836280dfd4c408f3296ad8
+org.http4k	http4k-connect-google-analytics-ga4	6.8.1.0		f2a6186825c1a22fff78bd6610e8612ee968f4d7
+org.http4k	http4k-connect-google-analytics-ga4	6.9.0.0		de7af177df44eebceb6e19ed6e60107178b38581
 org.http4k	http4k-connect-google-analytics-ga4	v6.3.0.0		d1ccf94a9d1dcad0bd020ba03b1c2bd09bc170cd
 org.http4k	http4k-connect-google-analytics-ga4	v6.4.1.0		0b2c70b7823086c3591ba0809de0efc0dacdcdd2
 org.jetbrains.kotlinx	atomicfu-watchossimulatorarm64	0.16.3		N/A

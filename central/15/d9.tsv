@@ -176,6 +176,8 @@ com.google.api.grpc	grpc-google-cloud-service-management-v1	3.57.0		aa0c796ab5df
 com.google.api.grpc	grpc-google-cloud-service-management-v1	3.58.0		407ba752cda6f505c2f4747f64e150cdcaca01d6
 com.google.api.grpc	grpc-google-cloud-service-management-v1	3.59.0		21f1bad2ec9fc8238c0bedf851ec721b56444fa4
 com.google.api.grpc	grpc-google-cloud-service-management-v1	3.6.0		206c127debde983dcc58953da827dcf20d988c1a
+com.google.api.grpc	grpc-google-cloud-service-management-v1	3.60.0		e2d768aa34e79ead14ec1d95e37bd44739d821ac
+com.google.api.grpc	grpc-google-cloud-service-management-v1	3.61.0		cbca15fbcbef1b86e42b1791478c8f9acda48df8
 com.google.api.grpc	grpc-google-cloud-service-management-v1	3.7.0		fcceb1be935c2a32be7d36eef86e714e4d392827
 com.google.api.grpc	grpc-google-cloud-service-management-v1	3.8.0		f6fcf4f476310b638d58f0e737528f5e6d75f547
 com.google.api.grpc	grpc-google-cloud-service-management-v1	3.9.0		a5329cab81fff1e820cac08b506ceb91533ed9e7
@@ -228,6 +230,7 @@ de.jensklingenberg.ktorfit	ktorfit-lib-ktor-3.0.0-beta-2-iossimulatorarm64	2.1.0
 dev.bpm-crafters.process-engine-adapters	process-engine-adapter-camunda-platform-c7-remote-core	2025.04.1		2a083b01ea9ba059f5c9cafc4f995b4fe3fd73ae
 dev.bpm-crafters.process-engine-adapters	process-engine-adapter-camunda-platform-c7-remote-core	2025.04.2		f8e76ab49f4da2fff31a407c85bec036ae89562d
 dev.bpm-crafters.process-engine-adapters	process-engine-adapter-camunda-platform-c7-remote-core	2025.04.3		6e65d816f748553335448aae5f7aca5f2b6114b3
+dev.bpm-crafters.process-engine-adapters	process-engine-adapter-camunda-platform-c7-remote-core	2025.05.1		837b0faeba123bcd479cd37fdb1706cee55f8c3d
 dev.galasa	dev.galasa.framework.api.webui	0.15.0		9001433ef88519274cbd427a82fff38293250165
 dev.galasa	dev.galasa.framework.api.webui	0.17.0		f43a10961f2e0b7f615eebfe520a116ef588275b
 dev.galasa	dev.galasa.framework.api.webui	0.21.0		4ffb6d591bfc998f2fb5e499e8b3ee952e6a7a71
@@ -375,6 +378,7 @@ io.ktor	ktor-network-androidnativex64	3.0.3		a13d2b7365487ee3fdea4d3b8b9be0e10c4
 io.ktor	ktor-network-androidnativex64	3.1.0		09fcdd848f4992fb3e300fc99a86501049499b11
 io.ktor	ktor-network-androidnativex64	3.1.1		472a9a69732ae927ff259fbbd5d5391045afd769
 io.ktor	ktor-network-androidnativex64	3.1.2		dc9824e1810f82414ff1fa5406b7128fc7fd6c99
+io.ktor	ktor-network-androidnativex64	3.1.3		4a2491d6f69b79618581e5a398626ff8868d384b
 io.megl	zio-elasticsearch-fleet_2.12	2.0.0		e0521d01194e1b687609658f0023cdfc83dc0b1e
 io.megl	zio-elasticsearch-fleet_2.12	2.0.1		9843f72f9a0582b1c741f50324a6dd58e1ffb157
 io.megl	zio-elasticsearch-fleet_2.12	2.0.2		302f9a837030898b2439a7fb8b5140354c6033ee
@@ -439,6 +443,11 @@ it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.2		N/A
 it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.2	metadata	c2a3268b7bb153555779c9077e85208be29134f3
 it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.3		N/A
 it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.3	metadata	474f823c0bb238b7f8df5f4abc89081ffd717677
+it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.4	metadata	e3255f8effbcdd70f1433e29f0ed3b2c6ce18b1a
+it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.5	metadata	c7ad038c867b5a09d9b873a87a9321b1d2dbe947
+it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.6	metadata	2fc274452234eafb0de47308386953ac00afb5ae
+it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.7	metadata	048bd6adca3db264129b27639eff4f55e57b9e81
+it.unibo.collektive	collektive-stdlib-tvosarm64	24.0.8	metadata	d89ebae97853fe5f77917f82043ad672f1f08a7f
 lv.ctco.cukes	cukes-http-mock-sample	0.0.22		9e103d3f4248cacc890c65f792c5fa0fdf83fab9
 lv.ctco.cukes	cukes-http-mock-sample	0.0.23		e3672758b0f9ef1ff05f6db6c001329beebce218
 lv.ctco.cukes	cukes-http-mock-sample	0.0.24		7b2fe1a9a5a82952506081bc109301c979bc18d9
@@ -675,10 +684,17 @@ org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pur
 org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.80.0		9b62e3ebbe85851ba2c79cc12f982b43bd5cff36
 org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.81.0		863d2a6f4f276be1caaac90454f818a47ae1a7fe
 org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.82.0		311b7a9b53da39fd0fce59d89fb6d3254add910b
+org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.82.1		ece8c5ed72b019bfe068650dfe2231cd8c1abcb2
 org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.83.0		cd1a0e72f58dca5cf2e0186ade4fbd3b5e0c23aa
 org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.83.1		0c2c395ae44df6c17242a1c4e231f019b87701ad
 org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.83.2		904c754b2f31512b60b25c933511f210301c5d3b
 org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.83.3		7036806b6ac8da617aba88f1c1cde020999be519
+org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.84.0		d1f6216a4f7e119b47f2c669b575ef4cc6d0a769
+org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.84.1		9f5accf7f3528fdec368db7275533c58b1ef9e4c
+org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.85.0		da007f33fd8f101b8c8d02a793a3082a5a61364f
+org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.85.1		06cde8d590806f9bd1b86692db3a938ae921f252
+org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.85.2		f62b8ebd85a811b06e814d58942fb6baecb3faed
+org.finos.legend.engine	legend-engine-xt-javaGeneration-conventions-standard-pure	4.85.3		b6a30fa58ad6c86275c1095435893ca2b0b3b19d
 org.fugerit.java	fj-quarkus-bom	0.1.0		N/A
 org.fusesource.scalate	scalate-page	1.3		edc6774c2309d743b4aa6a72f37a7730ca2aae8b
 org.fusesource.scalate	scalate-page	1.3.1		615278195fb4f0d4dd1bee4d00f796644f370119

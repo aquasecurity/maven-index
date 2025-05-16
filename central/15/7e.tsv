@@ -45,6 +45,8 @@ ch.exense.step	step-automation-packages-sample1	3.27.1		56fd0e5a578bbc0fe31c5d32
 ch.exense.step	step-automation-packages-sample1	3.27.1	jar-with-dependencies	c81fc613ae500bd1c34dfe62f3062231fa9d5443
 ch.exense.step	step-automation-packages-sample1	3.27.2		b397f5a6a897b9cfb86ecdc325e0a1fead766520
 ch.exense.step	step-automation-packages-sample1	3.27.2	jar-with-dependencies	9ae02e53e57ca3e35cd5c7c999157ecf6b00ac37
+ch.exense.step	step-automation-packages-sample1	3.27.3		3753965a4b255204d6671dec44272b39c1698923
+ch.exense.step	step-automation-packages-sample1	3.27.3	jar-with-dependencies	ea841879226986a4d54adb9a22fd425123a4e13f
 city.smartb.ssm	ssm-data-dsl-jvm	0.10.0		7929b9f6e4b46830b4774f665d470c8e6314bdfa
 city.smartb.ssm	ssm-data-dsl-jvm	0.11.0		09d4f80189dc6377c2861de0a704127572c1fff1
 city.smartb.ssm	ssm-data-dsl-jvm	0.12.0		bb52b16d6ee7bf39b4709b6110a5570579ddb4db
@@ -703,6 +705,7 @@ io.netty	netty-pkitesting	4.2.0.RC1		637a96db018db51ca5924ab848a05166bcd00bad
 io.netty	netty-pkitesting	4.2.0.RC2		b5ab37fda3740a496c89cb589ad8dbdc445a84d8
 io.netty	netty-pkitesting	4.2.0.RC3		292942813108e5e4294e9a4f68c459199b925b93
 io.netty	netty-pkitesting	4.2.0.RC4		e26587c8cc88defca2c41aac70521432b3ff28c5
+io.netty	netty-pkitesting	4.2.1.Final		2a9382375587170d65a62440cfcc93ec713a2633
 io.oasp.java.modules	oasp4j-jpa-envers	1.1.0		32592e930b937bccbced892662426d85109ec4c5
 io.oasp.java.modules	oasp4j-jpa-envers	1.2.0		0720463a591429c6255939518e0ad44d8e075f73
 io.oasp.java.modules	oasp4j-jpa-envers	1.3.0		ed8fa4ae3331eaa3abd4c6c79341b28c2fd255ba
@@ -1053,10 +1056,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.8.0		5e
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.80.0		9857f7b18ac767610cee798e58ae7be4ca455b2f
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.81.0		f2bd692545fa1f37b61cd96fbcfb3b403fb6735c
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.82.0		9d964ee9c1fbd4d64658051e80a9cedb7a63815e
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.82.1		69648a8166849ff0dc3003a051e7f226fa0c6575
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.83.0		79078f131653667ec529a6ba33125cf7c1dcfa94
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.83.1		ddb12ff3098383181b8ec86e13ef1df9c97e2116
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.83.2		1d290f24a40bf888e618d7ad0475df58f0d67df5
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.83.3		d6b3bcb28e56dabbe17fa0c6b135ed39cb8f3fe4
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.84.0		d2495a4a445e5c1e1270830845b163de4c693fe8
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.84.1		49f5ff7b01f90460dc4de3ffed363b74938391d5
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.85.0		d79323dcea28459a50bf8a0a05675ca41a949ae7
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.85.1		2841ed4b97552cf8a9b9f2c81bad5f917c4be77d
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.85.2		6cd81d7acd4ba1a442238cf9df732f7900a373ce
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.85.3		8f5bb4829d708e921c96eba53db075485c9e10fa
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-grammar	4.9.0		46c579db4199aa9d784d3744995ab4bc37c50ae7
 org.glassfish.corba	glassfish-corba-csiv2-idl	3.0.1-b003		233ec21ba55777fb7542420dc43bb7bf985d5658
 org.glassfish.corba	glassfish-corba-csiv2-idl	3.1.0-b032		a1a8570cc14f82611273ed21a4308807140c5d74
@@ -1245,6 +1255,9 @@ tz.co.asoft	krono-kotlinx-watchosarm32	3.0.8		N/A
 tz.co.asoft	krono-kotlinx-watchosarm32	3.0.8	metadata	f83be69d112870de5a4b81af11ec4b583ba0da0a
 tz.co.asoft	krono-kotlinx-watchosarm32	3.0.9		N/A
 tz.co.asoft	krono-kotlinx-watchosarm32	3.0.9	metadata	f609810040f094f706b7c6024ea303b169c1519c
+tz.co.asoft	krono-kotlinx-watchosarm32	3.1.1	metadata	bd4199ecfa514299abb54edffa39871fd41d0e05
+tz.co.asoft	krono-kotlinx-watchosarm32	3.1.11	metadata	a723ffa9c2bcf456e2806a2af6ac479cf08853d3
+tz.co.asoft	krono-kotlinx-watchosarm32	3.1.12	metadata	4c6e44ae46804c7b91a1bf232a6735dee426603a
 vip.xunmo	xm-solon-plugin	1.0.0		N/A
 vip.xunmo	xm-solon-plugin	1.0.1		N/A
 vip.xunmo	xm-solon-plugin	1.0.3		N/A

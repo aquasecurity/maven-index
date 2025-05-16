@@ -8,6 +8,7 @@ codes.rafael.asmjdkbridge	asm-jdk-bridge-parent	0.0.6		N/A
 codes.rafael.asmjdkbridge	asm-jdk-bridge-parent	0.0.7		N/A
 codes.rafael.asmjdkbridge	asm-jdk-bridge-parent	0.0.8		N/A
 codes.rafael.asmjdkbridge	asm-jdk-bridge-parent	0.0.9		N/A
+com.alejandrohdezma	sbt-ci-tag-next-version_2.12_1.0	0.1.0		864bbe0a15e8e4cb641e8d105822ce18f0e4e646
 com.aliyun	alibabacloud-vpcipam20230228	1.0.0		300dc597b6e8c3740459a42f514990f488d23606
 com.aliyun	alibabacloud-vpcipam20230228	1.0.1		be01d4b980be8257b884f74c0c36eff2c0253486
 com.aliyun	alibabacloud-vpcipam20230228	1.0.2		62d21835e07f1e3ba66f55b7ebb50a4a53542073
@@ -290,6 +291,7 @@ com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.11.0-previe
 com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.11.1-preview		2e801c70d89e3c2d33596df6e42a56fa4d1957c1
 com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.11.2-preview		84dabb96598158488137705b41b1bb3c681fe104
 com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.11.3-preview		56433a40c3beab0dac85fbd0f7f5b0c41b550922
+com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.12.0-preview		7607edbcbbe1dd610a1f80df533e771ac913ad2c
 com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.5.0-preview		87d9a1bfe9dc9daabd515512044fa1bf6d2f04d8
 com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.5.1-preview		c3a815195c507b789baf58c7f1d45b661ffae644
 com.google.cloud	google-cloud-advisorynotifications-spring-starter	5.6.0-preview		3bfbc918c339526ac571816138e7475018ccc3de
@@ -513,6 +515,7 @@ io.fabric8	openshift-model-monitoring	7.0.0		c0d1584f074984f26b84307429fadd1c2da
 io.fabric8	openshift-model-monitoring	7.0.1		44335d58e19288e5ac5f4406aac2074c905002a0
 io.fabric8	openshift-model-monitoring	7.1.0		2aa15cefa18e461ac9a5f42aaf7012c3425fc22a
 io.fabric8	openshift-model-monitoring	7.2.0		e526d8d7b11722f3a62dfe0a5e3cf13208f3a4df
+io.fabric8	openshift-model-monitoring	7.3.0		78f86da773762482e98ca7678b1b04f7bc7fb137
 io.github.abocidee	alu-schedule-tool	1.0		a08a66741b26a9608452c87d601fd2642183ffa9
 io.github.abocidee	alu-schedule-tool	1.0.snapshot		aa2c3187b8f5db3338dd4987cd09ceeac402779b
 io.github.behzodhalil	blahblah-resource-iossimulatorarm64	0.2.5		N/A
@@ -990,6 +993,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.2.1
 org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.2.2		48fcfdf26e1ee6e75f51b8df373ab7cbf302f881
 org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.2.3		8d4a9b33b419589e5deabed12f78c27084e2d835
 org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.20.0		8fa996f368314ed7441cf3ef0412bcd1f3b1c29b
+org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.20.1		2d20f43dd928bd50d54f5045f950f885b1b07e79
 org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.22.0		f60a467d8ed6b5d755386efce642f63b4f9931c0
 org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.4.0		f124b1b4fef69738ae9047232b4cf10a99f50f22
 org.apache.camel.quarkus	camel-quarkus-integration-test-foundation-grouped	3.5.0		192893f75397e6ab1d7e6aeb2648f4915391d676
@@ -1009,6 +1013,8 @@ org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.13	0.7.0-incubating
 org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.13	0.7.0-incubating	empty	6f874b028150514168dc41a063850e4cf9f9785c
 org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.13	0.8.0-incubating		a268f27cf3bc3226615f318790835d8ac8641aff
 org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.13	0.8.0-incubating	empty	c4a2853b6b3834481b76ede102c32eb4cc72cbce
+org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.13	0.9.0-incubating		459834eeffe77871de03076d642609ed1682b54a
+org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.13	0.9.0-incubating	empty	a27d69189c80da59188d3d8f1788f3e2a525567d
 org.apache.hivemind	hivemind-project	2.0-alpha-1		N/A
 org.apache.maven.continuum	continuum-xmlrpc-client	1.1		972569ab0b7dcc742fb643059ca7f146cfae29c2
 org.apache.maven.continuum	continuum-xmlrpc-client	1.1-beta-1		cc5af746295d5413da11ea53fa964ff71e9bd712
@@ -1576,6 +1582,7 @@ software.amazon.awsconstructs	lambdakendra	2.83.0		cfb6b0cddff9fe41419352cb9beac
 software.amazon.awsconstructs	lambdakendra	2.84.0		31a80e9d59b38033961914243c15b7de73af1dd1
 software.amazon.awsconstructs	lambdakendra	2.85.0		f8ffed2d03c00320bbe533381ec44d2870bd0621
 software.amazon.awsconstructs	lambdakendra	2.85.1		f53b14b4b54d44efd85b688fb712f17417e41ecf
+software.amazon.awsconstructs	lambdakendra	2.85.2		73ca4367c31f9a83465814ba4d52925d32ed5417
 software.amazon.cloudformation	cloudformation-cli-java-plugin-testing-support	1.0.0		d1e1b2d5673fb74198a2c564ee1718c5a002989d
 us.fatehi	schemacrawler-archetype-plugin-dbconnector	12.01.01		65f5faeedb84280cb10ed49666a2d37a45c7c6c6
 us.fatehi	schemacrawler-archetype-plugin-dbconnector	12.02.01		24f79dec22070cbc5b2e56b8cdf05bee0d868cff

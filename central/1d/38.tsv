@@ -477,7 +477,16 @@ aws.sdk.kotlin	codepipeline-jvm	1.4.73		a1d4bfb9fdbd93726b98eedb27ad62afc558e831
 aws.sdk.kotlin	codepipeline-jvm	1.4.74		cedf06ea348f53b19aca8c99b43bf5f19e0ff4d7
 aws.sdk.kotlin	codepipeline-jvm	1.4.75		9a8340de6f9e0e4d5765efd2c79b5a044ed6289f
 aws.sdk.kotlin	codepipeline-jvm	1.4.76		351474b7fab85d2d5a1c56dfb3d333083695bdee
+aws.sdk.kotlin	codepipeline-jvm	1.4.77		b10393dec9f708bd9c8f9093b62c43dc2434629f
+aws.sdk.kotlin	codepipeline-jvm	1.4.78		531dbd97d04a5bf13976999f5edde05cd5537eb7
+aws.sdk.kotlin	codepipeline-jvm	1.4.79		707219104e6f3bb935729ba6facd4335c85ddb27
 aws.sdk.kotlin	codepipeline-jvm	1.4.8		201d9273fa9b84a564478082e1e66dc31f8c5a9c
+aws.sdk.kotlin	codepipeline-jvm	1.4.80		50263077f76560bd6f921333736b9bfba862dc56
+aws.sdk.kotlin	codepipeline-jvm	1.4.81		318712cde3fc4c007e9b1bdfcd08dae8d8be7a64
+aws.sdk.kotlin	codepipeline-jvm	1.4.82		e93f3d279994d0a484db2007ab933fc09b41115c
+aws.sdk.kotlin	codepipeline-jvm	1.4.83		ff35034f580f4fd7c0d5ca5739faa816a66e53c8
+aws.sdk.kotlin	codepipeline-jvm	1.4.84		ffebf077b64c1f9e81d0cc801336c7783e9c1d34
+aws.sdk.kotlin	codepipeline-jvm	1.4.85		8bebdf3399a8848fc163db86ea34d46057e5a1a6
 aws.sdk.kotlin	codepipeline-jvm	1.4.9		10db0f212e4bbf12d70483175936e5e5266d5384
 br.com.objectos.pojo	compiler	0.10.0		507ca434bb8001e5a7d7049011e1b965c15e2566
 br.com.objectos.pojo	compiler	0.10.1		78a0b45b3d209a99387efeec8606a8ba0d979f49
@@ -609,6 +618,7 @@ com.commercetools	sphere-mongo-core_2.12	0.15.3		f30e223abc19a3a391ccfd7bd380769
 com.commercetools	sphere-mongo-core_2.12	0.15.4		fa3064d5112152f05b9f7b49398636cf4f7152b1
 com.commercetools	sphere-mongo-core_2.12	0.15.5		0c54faeae8840874ade93867e7845516d6aa8b49
 com.commercetools	sphere-mongo-core_2.12	0.15.6		2f0be090b6bce5e9da285d721bcee643cbbb9b69
+com.commercetools	sphere-mongo-core_2.12	0.15.7		4bc1b5fe92cdf8361f2bd8ba8200cb1ced117b61
 com.github.Andy-Shao	Gear-Maven-Manager	1.0.0.RELEASE		N/A
 com.github.Andy-Shao	Gear-Maven-Manager	1.0.1.RELEASE		N/A
 com.github.Andy-Shao	Gear-Maven-Manager	1.0.2.RELEASE		N/A
@@ -995,6 +1005,7 @@ dev.zio	zio-aws-s3tables_3	7.31.27.1		53eda504fcd7d2e1357a9104978d857157ca6c4b
 dev.zio	zio-aws-s3tables_3	7.31.28.1		1d223d61264765f983d91a9db8f8601fd1c718f9
 dev.zio	zio-aws-s3tables_3	7.31.3.1		a171c1d135cbf00ef56857eb50fd2633ea0b9785
 dev.zio	zio-aws-s3tables_3	7.31.30.1		29d5fdc0eded4f1d052924c511121a282f362298
+dev.zio	zio-aws-s3tables_3	7.31.30.2		f0b90d677d5917b1464c5667095af052e1ae7b8e
 dev.zio	zio-aws-s3tables_3	7.31.4.1		4d64af2a61b497e6c56409e762980bccb298c09b
 dev.zio	zio-aws-s3tables_3	7.31.6.1		e867446c5617bba102a3c6919668efe62caab68b
 dev.zio	zio-aws-s3tables_3	7.31.6.2		ab7cc836a8c8930cc0f577f6cf39e3951f07b5be
@@ -1003,6 +1014,7 @@ dev.zio	zio-aws-s3tables_3	7.31.7.1		41612035531e8b974c9ab7dde847a13b49eb7c4f
 dev.zio	zio-aws-s3tables_3	7.31.8.1		40cf1fa752987e022b9a5c266ce15ed9e0eb855c
 dev.zio	zio-aws-s3tables_3	7.31.9.1		720272486d1e943957e530e8bed62be4bc89b0a1
 fr.ird.observe	toolkit-persistence-extension	10.0.7		c16b37f58e4d305a045a83b4b7e792cf95ce17b9
+fr.ird.observe	toolkit-persistence-extension	10.1.0		e278bd23e42b6c8f908c321ba25abf42b608a31e
 geronimo	geronimo-jsp-examples-tomcat	5.5.12		N/A
 io.argonaut	argonaut-jawn_2.13.0-M5	6.2.3		b9fb701c61f58dc0a878818650ba4fcbe76be872
 io.chrisdavenport	log4cats-extras_sjs0.6_2.11	0.2.0		1131aa1a29fd8c3e01bf98538231e38f4896a897
@@ -1060,6 +1072,7 @@ io.github.takapi327	ldbc-query-builder_3	0.1.0		bb04edf41cc08afab6f11ad949d9a637
 io.github.takapi327	ldbc-query-builder_3	0.1.1		1d7159efc974ad3650f0cc5873d95a105cdc73a2
 io.github.takapi327	ldbc-query-builder_3	0.2.0		1c4cb5c05596e084c640be4fa20a5a03a7bd8db5
 io.github.takapi327	ldbc-query-builder_3	0.2.1		e13759e1d363f647966b38c8621e46e6beaca127
+io.github.takapi327	ldbc-query-builder_3	0.3.0		81a5cf28172342738d6e3ff0f4f6be725f747fbf
 io.github.takapi327	ldbc-query-builder_3	0.3.0-RC1		4230b718ce84bff405fe5458d37badbf3529f9f9
 io.github.takapi327	ldbc-query-builder_3	0.3.0-RC2		4b6132ab8714573bd81932eddc6b73d2a367cfae
 io.github.takapi327	ldbc-query-builder_3	0.3.0-alpha1		ff26b033b7ff0d0c31f73a91023c12f9de5311e9
@@ -1379,6 +1392,8 @@ io.ktor	ktor-server-websockets-iosarm64	3.1.1		230507f9a5ed34dac4b10cd22e8c9533b
 io.ktor	ktor-server-websockets-iosarm64	3.1.1	metadata	ce5fa6d5adaba26be5a8729de2f5517679a7a7f6
 io.ktor	ktor-server-websockets-iosarm64	3.1.2		4f3e3f219c48c052a2f5b8250f089c6555bf83a7
 io.ktor	ktor-server-websockets-iosarm64	3.1.2	metadata	4f3e3f219c48c052a2f5b8250f089c6555bf83a7
+io.ktor	ktor-server-websockets-iosarm64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-websockets-iosarm64	3.1.3	metadata	f57cc41f0464ea7de829964255dbe1efd072db25
 io.youi	youi-spatial_sjs0.6_2.11	0.10.0		3646afa6d42dedf107800a95120d1aadc00fc830
 io.youi	youi-spatial_sjs0.6_2.11	0.10.1		3190e2d46a785ad69d78763099a35f0dc11e17d3
 io.youi	youi-spatial_sjs0.6_2.11	0.10.10		3db7aeb4f090ea61356d49fc9dec458701e0eaed
@@ -1733,10 +1748,12 @@ org.jetbrains.kotlin	kotlin-daemon-embeddable	2.1.20-Beta2		300cf4288898b2b08b28
 org.jetbrains.kotlin	kotlin-daemon-embeddable	2.1.20-RC		da7e7ab38d63b784e2e107f0890ceade55ccc3c2
 org.jetbrains.kotlin	kotlin-daemon-embeddable	2.1.20-RC2		95872cb4b0311edd3d99aa20329aa8a89e657bb1
 org.jetbrains.kotlin	kotlin-daemon-embeddable	2.1.20-RC3		a06ae54f70b7f6ed7baf1ca187fe9d9ed5fbe68a
+org.jetbrains.kotlin	kotlin-daemon-embeddable	2.1.21		2376f98b59395adad949ca19811283fafb1b2e31
 org.jetbrains.kotlin	kotlin-daemon-embeddable	2.1.21-RC		445ad7425798f6b7fa13f4c363952d0ae8efccfe
 org.jetbrains.kotlin	kotlin-daemon-embeddable	2.1.21-RC2		99148e2c12448689dfba81813b5968b10a8f1266
 org.jetbrains.kotlin	kotlin-daemon-embeddable	2.2.0-Beta1		4da7688d40f7561c440f09d733c050843092fabc
 org.jetbrains.kotlin	kotlin-daemon-embeddable	2.2.0-Beta2		7cd925b8c01bac662182f077d69f6c1338e477e1
+org.jetbrains.kotlin	kotlin-daemon-embeddable	2.2.0-RC		3b0d9492931900abca38942dc19afcaefb33539d
 org.julienrf	endpoints-testsuite_sjs0.6_2.12	0.10.0		a120f0a653987ca8b8eeb4cd4202f01068c54d32
 org.julienrf	endpoints-testsuite_sjs0.6_2.12	0.10.1		a29badc4a8c356a8f7eb6b36b191d26bd85a9b45
 org.julienrf	endpoints-testsuite_sjs0.6_2.12	0.3.0		7f2b36263bcb75f6f4836a07db06ab164bdb870f
@@ -1901,3 +1918,5 @@ ru.tinkoff.kotea	logging	1.2.4		a9249252023cbc39122680af9772c34df299fa82
 ru.tinkoff.kotea	logging	1.2.5		5ed31d20993aeb8af87ac8c0bec5ba7ef00bf263
 ru.tinkoff.kotea	logging	1.2.6		42649fdb004dabf7db9e2a504bab23c395ed38a7
 ru.yaal.project.hhapi	HhJavaApi	0.2.6		89be04456eaec15c5c368f7a70e1e996aced0a7e
+tz.co.asoft	kiota-file-manager-test-macosarm64	3.1.11	metadata	423c65706592797b9ad40e8b9414bf4799824338
+tz.co.asoft	kiota-file-manager-test-macosarm64	3.1.12	metadata	8f2bf5f4e349f533684eb2fbf140bc830d330e89

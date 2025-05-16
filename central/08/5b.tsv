@@ -93,6 +93,10 @@ at.asitplus.wallet	dif-data-classes-iosarm64	5.5.2		N/A
 at.asitplus.wallet	dif-data-classes-iosarm64	5.5.2	metadata	38076ae91c69a1410c83582412eee6057ff6398c
 at.asitplus.wallet	dif-data-classes-iosarm64	5.5.3		N/A
 at.asitplus.wallet	dif-data-classes-iosarm64	5.5.3	metadata	60280c76621c995eb0294ce214dc9ad62b7d1af8
+at.asitplus.wallet	dif-data-classes-iosarm64	5.5.4	metadata	aeab647e2cdcbade2cacdc0007f416206db56370
+at.asitplus.wallet	dif-data-classes-iosarm64	5.6.0	metadata	8cd1b77eb946d0aa3188be318c4a5a7a4a853d99
+at.asitplus.wallet	dif-data-classes-iosarm64	5.6.1	metadata	cf9b815c7adbb7a27757f0f6c2471c32a4fe30c1
+at.asitplus.wallet	dif-data-classes-iosarm64	5.6.2	metadata	bc53b47ec5c16beb11da6db0113162d30259057f
 br.com.guiabolso	sftp-to-s3-connector	0.2.4		128e73d43fe0c6672c9ef8ce3085fa56f8a4e0a9
 br.com.guiabolso	sftp-to-s3-connector	v0.2.4		8a0c87e7903ff18d2c34b31c0fce5fa2266ddfec
 cn.xxywithpq	Simplify-Core	1.0.0.M4		0968f50f0a0794f19bd80a00f65112187132b7d9
@@ -331,6 +335,8 @@ com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.18.2		796cfd112c4df7eb2
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.18.2	no-metainf-services	585b9672ef7c28e9d8957390b4d02492a6abaf3b
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.18.3		b4e6234e38fd49f724148e2ec375ba12de8719c6
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.18.3	no-metainf-services	551fb3376d0c5a0f660025f45458684a5e480f8d
+com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.18.4		60e1e4b5321302b8b7de8a660f4f42e7439b4c68
+com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.18.4	no-metainf-services	e8537a8408fcbb59c4a7bb4d8c5a581be7d81430
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.19.0		c8ce8f22b0c1c1a095fbdf75068c733c5dc3c5c9
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.19.0	no-metainf-services	dc74338f9ca3c1f2ddbec2d09a5d092edf3addda
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-xml-provider	2.19.0-rc2		f8f0da13c7a714679d5512b0c9518f7eec2dde6a
@@ -1257,6 +1263,7 @@ io.quarkus	quarkus-jaxb-deployment	3.15.2		44e61e415a192865336cfe4b06cd0c37912f1
 io.quarkus	quarkus-jaxb-deployment	3.15.3		897c6f6f6c9cf538d1921a0b87653f3aa9549447
 io.quarkus	quarkus-jaxb-deployment	3.15.3.1		76bf7bb20d70bdd5d23fe2be640c95baf506e4c2
 io.quarkus	quarkus-jaxb-deployment	3.15.4		b8f19e8794d5e5c2b447c0d3e508f596ce95b7ca
+io.quarkus	quarkus-jaxb-deployment	3.15.5		47acb3d1464af3341af1c10bc44387ec021af283
 io.quarkus	quarkus-jaxb-deployment	3.16.0		0a8439eed22840a249ab6ce9c628a1c2b1a0e3ee
 io.quarkus	quarkus-jaxb-deployment	3.16.0.CR1		b4c5ed42f3d1a66f541932512c2787b55e25a955
 io.quarkus	quarkus-jaxb-deployment	3.16.1		225f9c0d521a57d407a408bc33632740b3d1906f
@@ -1301,6 +1308,7 @@ io.quarkus	quarkus-jaxb-deployment	3.2.8.Final		5b26bf3831c26b506cbed4d7a30be0c8
 io.quarkus	quarkus-jaxb-deployment	3.2.9.Final		eb5879909fbf320083b5a453c9d389466227b8af
 io.quarkus	quarkus-jaxb-deployment	3.20.0		596794c554aec4ae37077a98da0c100fdd8267a5
 io.quarkus	quarkus-jaxb-deployment	3.20.0.CR1		0d1e7d66897431c85b620845e5bbe1419bbe9456
+io.quarkus	quarkus-jaxb-deployment	3.20.1		cbe33e4d52463e270193d6fa671180b98ca88fcc
 io.quarkus	quarkus-jaxb-deployment	3.21.0		1aad7ed393334359bd06b06a133a2dd635306170
 io.quarkus	quarkus-jaxb-deployment	3.21.0.CR1		8768a55ad5f7f986f3f4e67763f5e88636227b7d
 io.quarkus	quarkus-jaxb-deployment	3.21.1		d177bd385cb6fbcdb42b1743e02db6a68bd71c53
@@ -1310,6 +1318,9 @@ io.quarkus	quarkus-jaxb-deployment	3.21.4		2b1c0055a3b5c7028f6ba06e4e654cfabc1d1
 io.quarkus	quarkus-jaxb-deployment	3.22.0		4fc520b8a33cd8aa5457a1ac5ecef500110f8da8
 io.quarkus	quarkus-jaxb-deployment	3.22.0.CR1		b93bb947b8a335fa18940d92fa6abdb678fc0477
 io.quarkus	quarkus-jaxb-deployment	3.22.1		2e0259b9bfc6dd2b8594f5fe27ffbd711ecc947f
+io.quarkus	quarkus-jaxb-deployment	3.22.2		cc115ae71fc4733420fc207c213c0987cdcce7eb
+io.quarkus	quarkus-jaxb-deployment	3.22.3		f43a9703620b17e8ab85d7464711825c2ccb7c64
+io.quarkus	quarkus-jaxb-deployment	3.23.0.CR1		948ccac249419ab124c3391a0c5b546bdb81859e
 io.quarkus	quarkus-jaxb-deployment	3.3.0		ee42573cccc4566eb92c8908bbfcc976ac41c875
 io.quarkus	quarkus-jaxb-deployment	3.3.0.CR1		409b5350f6f9f1bf08dc295497ef838025370564
 io.quarkus	quarkus-jaxb-deployment	3.3.1		ad57e3eee7d9343a7ac222ab14573eb4606940f5
@@ -1490,6 +1501,7 @@ org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.2.1		d869896c7f51162cb
 org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.2.2		dfd4886c2114dc589ed099702645ee8a82edf5a5
 org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.2.3		8d6822d3af4fd1c6bc9e422b4dc1d519c760490a
 org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.20.0		82201e66f4ed9882c0e888f2fa3648ef16a12de4
+org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.20.1		5e5a422837403b0bc27d453077cc7aff01a31b28
 org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.22.0		927a07d30bfc3ab81b8e7a2039e5e85596f4c8b4
 org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.4.0		f976d6d1dc0509c496d942d15e93c2fca45e55eb
 org.apache.camel.quarkus	camel-quarkus-kafka-deployment	3.5.0		70b21e477447fb1a0e5dc0bf5caa710d9cad971d
@@ -2460,7 +2472,18 @@ software.amazon.awssdk	taxsettings	2.31.30		b11715377e6b97ebac2694029d4dc3d4edf5
 software.amazon.awssdk	taxsettings	2.31.31		cbcb2c9b0978cea8cc4ad6f66c437c4d98eb142b
 software.amazon.awssdk	taxsettings	2.31.32		4f872f9a11d72b5f9304b7bcd0010ae0e60360d0
 software.amazon.awssdk	taxsettings	2.31.33		b945bed8c8791d80391ec714f121a4b45dc6ce66
+software.amazon.awssdk	taxsettings	2.31.34		be35e51b434952bda5e3ab344f36e576d7d28b60
+software.amazon.awssdk	taxsettings	2.31.35		2e62b3a8fa6dde9fceb5c97677505534d0bc699e
+software.amazon.awssdk	taxsettings	2.31.36		160e19997060666ce704fe6507816adaaa985d21
+software.amazon.awssdk	taxsettings	2.31.37		756d8145c96314c9fcad32010c61145c7566d5d6
+software.amazon.awssdk	taxsettings	2.31.38		5a02665c6599746fc956765db2a1531f109204f3
+software.amazon.awssdk	taxsettings	2.31.39		ffbccfedcc21298ae14911d407483528dd02e113
 software.amazon.awssdk	taxsettings	2.31.4		c271c4a68243e5b02b5468079f2f50346ffd9749
+software.amazon.awssdk	taxsettings	2.31.40		b4cbfb08b3cc72f2085c046d03fc70389f645dc3
+software.amazon.awssdk	taxsettings	2.31.41		1151e909430c50a38a46cd4e030184224d3c6ae6
+software.amazon.awssdk	taxsettings	2.31.42		a0c205f063f0df35bc32c62e76750f4112c5f15f
+software.amazon.awssdk	taxsettings	2.31.43		2707b5285003da094b6feddf1991354cada117eb
+software.amazon.awssdk	taxsettings	2.31.44		3e35620f64bb0e67e4aa6ed6dd7208bb0af6d0ab
 software.amazon.awssdk	taxsettings	2.31.5		f42afdf7c3fa55b9a7ee7c572220f1cda0540cfa
 software.amazon.awssdk	taxsettings	2.31.6		321b7dc4c0c1106f3385c58bc4ede3a783902ace
 software.amazon.awssdk	taxsettings	2.31.7		9f67505ff04bf6e460c1486cfc449ab737e202c2

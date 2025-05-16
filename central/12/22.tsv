@@ -166,6 +166,7 @@ com.diglol.id	id-linuxx64	0.1.1		N/A
 com.diglol.id	id-linuxx64	0.2.0		N/A
 com.diglol.id	id-linuxx64	0.3.0		N/A
 com.github.YassKnight	browser	3.0.1		N/A
+com.github.alexarchambault.play22sbt	sbt-plugin_2.10_0.13	2.2.6		974b0028ee62cb38bdb974b4efda46bb99c9e343
 com.github.scala-incubator.io	scala-io_2.10.2	0.4.2		N/A
 com.github.sebhoss.bom	scripting-bom	2015.11.04		N/A
 com.github.sebhoss.bom	scripting-bom	2015.11.22		N/A
@@ -208,6 +209,9 @@ com.google.api-ads.api.grpc	proto-ad-manager-v1	0.17.0		c3b8f1f24cdded58530c229a
 com.google.api-ads.api.grpc	proto-ad-manager-v1	0.18.0		6267d62f1d833f89774c340644104ac53dfb96e7
 com.google.api-ads.api.grpc	proto-ad-manager-v1	0.19.0		d3438e671b5b9822cac9afe7be5208b5ab6f0b81
 com.google.api-ads.api.grpc	proto-ad-manager-v1	0.2.0		d7ee1f2b0f6e240065aeb809336eca1ba5186471
+com.google.api-ads.api.grpc	proto-ad-manager-v1	0.20.0		74015c9256ed3c0441a62b109ef05cb1a83c4fed
+com.google.api-ads.api.grpc	proto-ad-manager-v1	0.21.0		af94154500fa9285e9feaf350c54a69fbb3102c0
+com.google.api-ads.api.grpc	proto-ad-manager-v1	0.22.0		042e3267b23e3c1a73e7acbbe30e6adff05bd6b8
 com.google.api-ads.api.grpc	proto-ad-manager-v1	0.3.0		15ec8398da99a22f5afa833978e58728aa1d087b
 com.google.api-ads.api.grpc	proto-ad-manager-v1	0.4.0		7e52205dd432b3992d17707bdb93ecb16ca0b68a
 com.google.api-ads.api.grpc	proto-ad-manager-v1	0.5.0		8a79a2cc5a93886355d034397452a669ad247209
@@ -240,6 +244,7 @@ com.google.cloud	google-cloud-dlp-spring-starter	4.10.6-preview		ef6c25056942e11
 com.google.cloud	google-cloud-dlp-spring-starter	4.10.7-preview		61bf476b711f338eb2729578eb8d995e94a6df67
 com.google.cloud	google-cloud-dlp-spring-starter	4.10.8-preview		d7688f0c2c140fac4211ac4bfa55e3cf500a8388
 com.google.cloud	google-cloud-dlp-spring-starter	4.10.9-preview		a9cb7588dd0c98bbcb27a5b3841e5c6c8af4253c
+com.google.cloud	google-cloud-dlp-spring-starter	4.11.0-preview		708375d6eadeeaa57b2d49dab19189d69a9b6b3f
 com.google.cloud	google-cloud-dlp-spring-starter	4.2.0-preview		8528aa02a8748c0a7560459f0e59e399952ad1e5
 com.google.cloud	google-cloud-dlp-spring-starter	4.3.0-preview		5b6290e3f4c4193f9c564d60e39714afc08d1da0
 com.google.cloud	google-cloud-dlp-spring-starter	4.3.1-preview		470792222b8fe7beeebccca0fd9622f669d1779c
@@ -271,6 +276,7 @@ com.google.cloud	google-cloud-dlp-spring-starter	5.11.0-preview		66d8dcec8735ec5
 com.google.cloud	google-cloud-dlp-spring-starter	5.11.1-preview		eb4b431d004e87c0660a37551abe91aee0800e8d
 com.google.cloud	google-cloud-dlp-spring-starter	5.11.2-preview		ff048196d98494df130459427fcafe8f412b1a65
 com.google.cloud	google-cloud-dlp-spring-starter	5.11.3-preview		e7544005e6bef61f2a12f9e954bc627f8d7b2a68
+com.google.cloud	google-cloud-dlp-spring-starter	5.12.0-preview		1fa91f7e67ed899fc076be73200c794c20b29ff7
 com.google.cloud	google-cloud-dlp-spring-starter	5.2.0-preview		268f055c563720e0bafad73b391290e6f8370814
 com.google.cloud	google-cloud-dlp-spring-starter	5.2.1-preview		71a5b6ce8c3bd9d48c4fde8a6e0a27b76620964b
 com.google.cloud	google-cloud-dlp-spring-starter	5.3.0-preview		d1e682c1e444952fdc263c622d7229778bbcf6de
@@ -847,6 +853,7 @@ io.micronaut.serde	micronaut-serde-support	2.12.1		b8c75cd339313a94938be8c96e0fb
 io.micronaut.serde	micronaut-serde-support	2.13.0		196272a3dccaf221fb398775a6f0a54f7f2a096c
 io.micronaut.serde	micronaut-serde-support	2.13.1		fddd2836b3254434627fec02be172f5f0c1ac21b
 io.micronaut.serde	micronaut-serde-support	2.14.0		5e4c74aa9b4d01096dde28ffd55eca15d9399ffc
+io.micronaut.serde	micronaut-serde-support	2.14.1		fa93e6479198bd02649859e3c73a5645e87aac93
 io.micronaut.serde	micronaut-serde-support	2.2.0		97e552f72a78052b884b973eb13ed8ad7c45fdcb
 io.micronaut.serde	micronaut-serde-support	2.2.1		6ccf95a0d11bac1a558bdc926ab3027e1dbfc520
 io.micronaut.serde	micronaut-serde-support	2.2.3		c0b88980c36a94baf353a512b0e0a0007b59b645
@@ -920,6 +927,11 @@ it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.2		N/A
 it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.2	metadata	5fd0180935907262cc2b063ffb86d672d8b37869
 it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.3		N/A
 it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.3	metadata	9428de04d11d96c5f47f02b37a8165a7a3063175
+it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.4	metadata	8aeac1af56ba782fb94d5ea39d6c988a3193530d
+it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.5	metadata	a51965dab621d642919a55bb384877bf4eb808ac
+it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.6	metadata	79ee3a12ddf41bc08f3f68997014402f7f217ba8
+it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.7	metadata	4bb7d9d53219f0fdbd4c2e1b461d97a1e133eb1d
+it.unibo.collektive	collektive-stdlib-watchossimulatorarm64	24.0.8	metadata	f8b8c7cffd946426c7ce0f57a1cc0a2cea0b3914
 me.gaigeshen.wechat	wechat-mp	1.0.0		575a85850bd9bb1448e6964ee25e84f0bd9026cf
 me.gaigeshen.wechat	wechat-mp	1.1.0		7730b6c3dcd1b2c839cea9107ab718631fed70b0
 me.nathanfallet.zabricraft	zabricraft-usecases	0.1.0		13189dfa9eb6121941f0d1e44b15fdf5545bc472

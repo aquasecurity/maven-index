@@ -87,6 +87,7 @@ com.antgroup.antchain.openapi	openapi-bccr	1.19.5		2bf75c31190c0be4e977dfcec61d8
 com.antgroup.antchain.openapi	openapi-bccr	1.19.51		1d9415dff2f98074e3f3713d34a3260b4486d0f6
 com.antgroup.antchain.openapi	openapi-bccr	1.19.52		f6b523801a8e088178f7f4c1d6606a85116a26de
 com.antgroup.antchain.openapi	openapi-bccr	1.19.53		ca6e3e7831a3a30cbe1330ab72771a917fae2b2b
+com.antgroup.antchain.openapi	openapi-bccr	1.19.55		dc505e46b9f74c1571f51735a6cb3a048365ceea
 com.antgroup.antchain.openapi	openapi-bccr	1.19.6		5eecbe3458296cd3afe686c2b0d7e931ee6308a5
 com.antgroup.antchain.openapi	openapi-bccr	1.19.8		65d6d55fd595a91ced30ef6c63d21949e77a832b
 com.antgroup.antchain.openapi	openapi-bccr	1.19.9		37675d28e8a0f52ccbaf99a1f50cc35426621035
@@ -162,6 +163,7 @@ com.hedera.pbj	pbj-grpc-helidon-config	0.11.0		e7df9c84f3f94667ba7b5ecd7c75bd1eb
 com.hedera.pbj	pbj-grpc-helidon-config	0.11.1		17e24ac6034b587a311a2db005318f5675ab7851
 com.hedera.pbj	pbj-grpc-helidon-config	0.11.2		7c57bb58ad520e10b37326af7ce0d2065dc176db
 com.hedera.pbj	pbj-grpc-helidon-config	0.11.3		7e184d195838bf660d52f6f189b9eccabd773c03
+com.hedera.pbj	pbj-grpc-helidon-config	0.11.4		ee20e560b46cb3d9badbf110fd642661ea4b6ea1
 com.hedera.pbj	pbj-grpc-helidon-config	0.9.10		25fc1a4b90ff7a4c8cf19b0dedbcc389fff7cd6d
 com.hedera.pbj	pbj-grpc-helidon-config	0.9.11		25fc1a4b90ff7a4c8cf19b0dedbcc389fff7cd6d
 com.hedera.pbj	pbj-grpc-helidon-config	0.9.12		19a88811fea25b1d26eae5cecf804e31866a41da
@@ -452,6 +454,8 @@ com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.1243		3ef623ab1a946404c751b29f
 com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.1244		84dbab70036109e293331f771526ab0744f6d0c7
 com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.1246		10840960bdb2ccd572dfb7312472b498bb5d6739
 com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.1251		b0ecce1d0702e4034830c93a806ff3bc1d6971c8
+com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.1261		06711716f73806d0e4c54000942eac9952fdc8c4
+com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.1262		1cf730ef6f287675243bd152e4a0f1daf814e2d3
 com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.179		d251b23d477c061cd7e3d27056d70153fe3af0bc
 com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.179	jar-with-dependencies	ba12e05e4bc04a05139e5a5e67c38be8b2f526d5
 com.tencentcloudapi	tencentcloud-sdk-java-mps	3.1.180		5051e3c38b0109c15bfe527f2b5513090c224a55
@@ -1551,10 +1555,14 @@ eu.codlab	lorcana-data-iossimulatorarm64	0.18.0		N/A
 eu.codlab	lorcana-data-iossimulatorarm64	0.18.0	metadata	7bd1eace52d126636868d8574d154acb4a42a65c
 eu.codlab	lorcana-data-iossimulatorarm64	0.18.1		N/A
 eu.codlab	lorcana-data-iossimulatorarm64	0.18.1	metadata	4ff97bed0341142a181200b859888acf26207612
+eu.codlab	lorcana-data-iossimulatorarm64	0.18.2	metadata	dd36f9f11c137a56710d1141a31be1917811d74d
+eu.codlab	lorcana-data-iossimulatorarm64	0.18.3	metadata	37740fed70de304bc66944e43a372d8d0b74ed16
 eu.codlab	lorcana-data-iossimulatorarm64	0.2.0		N/A
 eu.codlab	lorcana-data-iossimulatorarm64	0.2.0	metadata	743ee954f38ef69c258f7685a520ba1b3c44254c
 eu.codlab	lorcana-data-iossimulatorarm64	0.2.0-alpha01		N/A
 eu.codlab	lorcana-data-iossimulatorarm64	0.2.0-alpha01	metadata	ed27606115b803339f8dd831a6e27ac6fc695df2
+eu.codlab	lorcana-data-iossimulatorarm64	0.20.0	metadata	ce54d5894d529bd3dce9306c3d21f33bc1b17543
+eu.codlab	lorcana-data-iossimulatorarm64	0.20.1	metadata	ce306e963b72ef0cd7fdf9eea61e1638a2a8e40f
 eu.codlab	lorcana-data-iossimulatorarm64	0.3.0		N/A
 eu.codlab	lorcana-data-iossimulatorarm64	0.3.0	metadata	4da818cec57ff01c0bb0ded88e5124f8ebab96cd
 eu.codlab	lorcana-data-iossimulatorarm64	0.3.2		N/A
@@ -1919,6 +1927,7 @@ io.helidon.http.media	helidon-http-media	4.1.6		2eff79fe0bc12463f7aa3eac156c2289
 io.helidon.http.media	helidon-http-media	4.1.7		947c352a21d46fa8aa64f187f4ee8da51dade115
 io.helidon.http.media	helidon-http-media	4.2.0		2355b1f1ee45a724447fbcd07396c8ed5e9add0f
 io.helidon.http.media	helidon-http-media	4.2.1		cf4a0a7de7b0ecff5b1bea6e6a85621c5a677665
+io.helidon.http.media	helidon-http-media	4.2.2		561400ad9ba769a0a346e7528a0de328982b56c9
 io.ktor	ktor-utils-macosX64	1.1.0		6bb37e4d507809ce2a6746c7976478ac1bbae2ca
 io.macgyver.okrest	okrest	1.0.0		32c80d98ced78b2d890c08540cf833b7788e4fdd
 io.macgyver.okrest	okrest	1.3.0		633f55e20df9c642a3471ef2e90535637f3342db
@@ -2348,6 +2357,7 @@ org.apache.camel.springboot	camel-whatsapp-starter	4.8.3		f32d811ae1e5bc9f5266f9
 org.apache.camel.springboot	camel-whatsapp-starter	4.8.4		c07c0bf541d65017af5ad294afcd836d4e008053
 org.apache.camel.springboot	camel-whatsapp-starter	4.8.5		3429bef9141820fec708f1c7aad3efe8664a64c8
 org.apache.camel.springboot	camel-whatsapp-starter	4.8.6		bec0c9e8ed21c0f0b4e0ee9006f2b1eca33aa33f
+org.apache.camel.springboot	camel-whatsapp-starter	4.8.7		b00801545265af42b6651c04451380f8a1505fbb
 org.apache.camel.springboot	camel-whatsapp-starter	4.9.0		dc22cc2907492edf3c10bf220fbb08ce74e34f5f
 org.apache.clerezza.ext	com.hp.hpl.jena	0.6-incubating		2029d905dc81ff983c780de70e9aa28f6ad5380c
 org.apache.geronimo.arthur	arthur	1.0.0		N/A
@@ -2432,6 +2442,7 @@ org.eclipse.ditto	ditto-base-api	3.7.0		dc670f5c4a371e3873174eee9fda467775920a5e
 org.eclipse.ditto	ditto-base-api	3.7.1		c4f59814fa51377a7660e6b7d167308ff562e04e
 org.eclipse.ditto	ditto-base-api	3.7.2		14daebd7c507eb44cb4a10079f9f802e8d6b7a9a
 org.eclipse.ditto	ditto-base-api	3.7.3		1eff42bf7c24a449eed099613cfb3646abdf49ca
+org.eclipse.ditto	ditto-base-api	3.7.4		b669d0b09d4318eda0a8be3777d6108cc4b010d9
 org.eclipse.kapua	kapua-client-gateway	0.3.0		N/A
 org.eclipse.kapua	kapua-client-gateway	0.3.1		N/A
 org.eclipse.kapua	kapua-client-gateway	0.3.2		N/A

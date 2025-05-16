@@ -60,6 +60,7 @@ ba.sake	querson_3	0.0.6		c80acdd739509ff062a4a65f2016ce9c2b0dec07
 ba.sake	querson_3	0.0.7		b49e8b302568f655720cd296ed5bd29bb49d9fbe
 ba.sake	querson_3	0.0.8		8e7763a2889b6202876d3fb34cc7cf409410d2bc
 ba.sake	querson_3	0.1.0		cd2f2f55075d89fcd9f1761ccd0f7dd897aa8643
+ba.sake	querson_3	0.10.0		ab662b5540a2562ebcfa6b2b22cbb0d0fd534578
 ba.sake	querson_3	0.2.0		e3f0d1cc840b12b786865b34143bcc3345265572
 ba.sake	querson_3	0.3.0		36e2239008cf491c9930645ed07f1031266313ad
 ba.sake	querson_3	0.4.0		3dd521ef97e0406310e0d54eb31214b0c4f6910a
@@ -559,6 +560,7 @@ com.daml	daml-lf-value-java-proto	2.10.0-snapshot.20250108.13162.0.v1ce7df14		2d
 com.daml	daml-lf-value-java-proto	2.10.0-snapshot.20250114.13163.0.ve965e38d		2d538fa9b67c014fd73c0be8e3b0bd849e26fef4
 com.daml	daml-lf-value-java-proto	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		2d538fa9b67c014fd73c0be8e3b0bd849e26fef4
 com.daml	daml-lf-value-java-proto	2.10.0-snapshot.20250211.13169.0.vd812609c		2d538fa9b67c014fd73c0be8e3b0bd849e26fef4
+com.daml	daml-lf-value-java-proto	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		2d538fa9b67c014fd73c0be8e3b0bd849e26fef4
 com.daml	daml-lf-value-java-proto	2.2.0		4718fda7f6809ba1297a064d85c243ed9fc01e2b
 com.daml	daml-lf-value-java-proto	2.2.0-snapshot.20220412.9721.0.b7c4bdab		4718fda7f6809ba1297a064d85c243ed9fc01e2b
 com.daml	daml-lf-value-java-proto	2.2.0-snapshot.20220413.9724.0.2dc1085b		4718fda7f6809ba1297a064d85c243ed9fc01e2b
@@ -1347,6 +1349,7 @@ com.huanshankeji	compose-multiplatform-html-unified-common-iosx64	0.5.0		N/A
 com.huanshankeji	compose-multiplatform-html-unified-common-iosx64	0.5.0	metadata	f793460e44c806cc07e90dd49cca1e0130d8c879
 com.lightbend	scala-fortify_3.6.2	1.1.4		8ae2755d0b9d516c80f57f1b3d0319b0bc552442
 com.lightbend	scala-fortify_3.6.2	1.1.5		21277f6f545510f930ad33d1e81ef499ff059a40
+com.lightbend	scala-fortify_3.6.2	1.1.6		82b4620fee3b00274cb0c45a1e0d6b679faa2c09
 com.lightbend	scala-fortify_3.6.2	1.1.6-M1		008fcc401c5d601804e98a43a4a46b82704dc37d
 com.mikelduke	opentracing-sparkjava	1.0.1		37aa7b8075f737130da444513e92ca03775b510a
 com.onlyxiahui.framework	only-action-dispatcher	1.0.0		8106c2315b027f03af43e59c71963cb34872423c
@@ -1388,6 +1391,7 @@ com.sap.hcp.cf.logging	cf-custom-metrics-clients-core	3.8.1		d18521e38b21c47a2e7
 com.sap.hcp.cf.logging	cf-custom-metrics-clients-core	3.8.2		89e7aa1f41cb639055df0387f8bbf9ba07d80fda
 com.sap.hcp.cf.logging	cf-custom-metrics-clients-core	3.8.3		6cd76233dd383cc832510051194ec4053460520a
 com.sap.hcp.cf.logging	cf-custom-metrics-clients-core	3.8.4		6eab538ae29567e8afa82925d55a5cc6bff25dc1
+com.sap.hcp.cf.logging	cf-custom-metrics-clients-core	3.8.5		788b2551f2f7d8dacf251bac277f5457baac88e4
 com.smart-cloud-solutions	tollingvision	1.0.0		9b7db931facc96ec5bf30bed9027e750f10e3c0b
 com.smart-cloud-solutions	tollingvision	1.0.1		2bfd29c745ca36c7b5d4e3878d3ac304b1745df3
 com.smart-cloud-solutions	tollingvision	1.1.0		e071aa415700ce8d6c111662179aade106cbd17f
@@ -2377,7 +2381,14 @@ com.yahoo.vespa	vespaclient-core	8.511.14		33b5d3f1e6d3fd6d98e1570e10bbfcd5a8ede
 com.yahoo.vespa	vespaclient-core	8.512.63		e6be7e038a328c54a3de3771f4342e7466b44021
 com.yahoo.vespa	vespaclient-core	8.513.17		6defda7158e0e52f098c9fa85ae8357040121e5a
 com.yahoo.vespa	vespaclient-core	8.514.24		d0198f8b0ee1d9d9810ac8d11efaa7ef7c2ee40c
+com.yahoo.vespa	vespaclient-core	8.515.40		0e15dbe34b20bcedccffd89dea8d53ce1530622b
+com.yahoo.vespa	vespaclient-core	8.516.26		8231518def89057665ec8fd7cccb3fc3b6e894fd
+com.yahoo.vespa	vespaclient-core	8.517.15		b37e8ee7a59fca593a19d346736121b5287fa7cb
+com.yahoo.vespa	vespaclient-core	8.518.4		379e78a80a46804b8f47ee7748d98e49cd40fb44
+com.yahoo.vespa	vespaclient-core	8.519.55		84265d1dfef838d0429317567e36c530274d2bc9
 com.yahoo.vespa	vespaclient-core	8.52.15		ce0c64636d2d8a07bfb748d2dccaf6a4d2b95439
+com.yahoo.vespa	vespaclient-core	8.520.18		f98d65e499051770de52fe549f84a38baab79445
+com.yahoo.vespa	vespaclient-core	8.521.17		5284d4b6078a2b0163bc1df62b8367c7645121b3
 com.yahoo.vespa	vespaclient-core	8.53.21		2c046b755844bd01b344a21721dfe092105306e0
 com.yahoo.vespa	vespaclient-core	8.54.61		bd86b2aa85871c580f4cea4b0e81464daee6f886
 com.yahoo.vespa	vespaclient-core	8.56.20		154fb6f02ac3bae6b9acaa2842cc0dcd73947ac6
@@ -3235,6 +3246,8 @@ org.eclipse.ecsp	nosql-dao	1.0.0		00bd42ecf0e40513253934eda6365ce157ea6c75
 org.eclipse.ecsp	nosql-dao	1.0.0	shaded	913abaeb97b525539992d4b9eb64c3f296611750
 org.eclipse.ecsp	nosql-dao	1.1.0		89da8c4d8e81434276dad1393271efaba03233de
 org.eclipse.ecsp	nosql-dao	1.1.0	shaded	85c879cfde80ae0bd798e1706ab9ab178f224783
+org.eclipse.ecsp	nosql-dao	1.1.1		0783b8291d7d636c3de0c2c2275354f95752ed67
+org.eclipse.ecsp	nosql-dao	1.1.1	shaded	cfbe1852d4717b67e12aef5f6c933df6b2282ba7
 org.kuali.rice	rice-it	2.0.0		N/A
 org.kuali.rice	rice-it	2.0.0-b1		N/A
 org.kuali.rice	rice-it	2.0.0-b3		N/A

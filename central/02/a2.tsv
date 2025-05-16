@@ -311,9 +311,13 @@ com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.59.0		d24da4c98d620c61
 com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.6.0		f29e28ec95503ce3f99a1bf9dcd6363753b31400
 com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.60.0		f77d3e7e0b5176db9d20e46ef60601872fbd9748
 com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.61.0		07a8c1db94e452aee467c73f0afaf1b4ca472534
+com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.62.0		d0258af7d1e99ca8ca90c4e4a18ec2b39acb0cd5
+com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.63.0		6b6e9269b2ea44f0438811aa88e836bd416e82e1
 com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.7.0		4b6e2fb70cbe1ebf122592714ea2e0d6e6e584e1
 com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.8.0		d7381b86e6dd0b01e2e211b0f8ec8eabe0ebafc9
 com.google.api.grpc	grpc-google-cloud-video-stitcher-v1	0.9.0		dcaf9d3f0fd3289981c0b131d958a86a8caf7f3e
+com.heroestools	sbt-sourcedirs_2.12_1.0	0.1.0		e33e2ad39cb952c1839c0537884a79511744bf14
+com.heroestools	sbt-sourcedirs_2.12_1.0	1.0.0		863475dc4a56c1bac2a27468dc1d074b60a095f2
 com.huanshankeji	compose-multiplatform-navigation-wasm-js	0.4.0		N/A
 com.lightbend.play	play-grpc-runtime_2.13	0.8.2		98bed0af6743a7aaba79eb6ac922303964046bb5
 com.lightbend.play	play-grpc-runtime_2.13	0.8.3		26c2ea6a88ccf3ac987aaec6dd3e68cf20662923
@@ -542,6 +546,10 @@ com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.20		N/A
 com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.20	metadata	99670e2730577c70d14fbf02008d3aa26b476bdf
 com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.21		N/A
 com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.21	metadata	f8bacdd9c549476ca93b81e7d08a6807c9d643ef
+com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.22	metadata	678feab143680e989bc213e70b009a1992d807d8
+com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.23	metadata	1da3397150d9751ad7650be56dae33e9bbcee61f
+com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.24	metadata	2a16d30d90d15d582bd9c331aaea33bce28d1979
+com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.25	metadata	44e079805f8dcb61613f453829acdfd3ccd18428
 com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.3		N/A
 com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.3	metadata	072c112e86965bb07a9efa22f1f094dc3b16914a
 com.tunjid.treenav	treenav-watchossimulatorarm64	0.0.4		N/A
@@ -1884,6 +1892,7 @@ org.apereo.cas	cas-server-core-configuration	7.2.0-RC6		d3ced8edca930c810e419b36
 org.apereo.cas	cas-server-core-configuration	7.2.0-RC6	resources	a91da10858162912b59691813cf19d7ea8535173
 org.apereo.cas	cas-server-core-configuration	7.2.1		d4e4870100ae3578b5b3292995ddea180216df69
 org.apereo.cas	cas-server-core-configuration	7.2.1	resources	a38074b965307a8f71c2ee2224b5649ffbf0b1d6
+org.apereo.cas	cas-server-core-configuration	7.2.2		62e34ebed1f3be4e980cc95645abfd27b055191e
 org.apereo.cas	cas-server-core-configuration	7.3.0-RC1		04df391fbe07e39c8d87e7677fc328f26793875e
 org.apereo.cas	cas-server-core-configuration	7.3.0-RC1	resources	80ff63a9f625faf5f539b10002132ec4b30d7909
 org.apereo.cas	cas-server-core-configuration	v6.4.0-RC5		6bdfcd77343f4e2af4f6b674eb479200eaabf9ac
@@ -2587,7 +2596,18 @@ software.amazon.awssdk	notificationscontacts	2.31.30		216c2363c521e35a47ad4dd767
 software.amazon.awssdk	notificationscontacts	2.31.31		e8abf5dd52115b5e451404ea69715862e8fae5f6
 software.amazon.awssdk	notificationscontacts	2.31.32		376aad5fa2a4c73a49f0d408106fc970e5ac44bc
 software.amazon.awssdk	notificationscontacts	2.31.33		bd70b4f69cf577154c0e81e980fe9b99f3b2f6cb
+software.amazon.awssdk	notificationscontacts	2.31.34		5f245701987bdf986e82472bc831e1d2c31dadb6
+software.amazon.awssdk	notificationscontacts	2.31.35		0ce7760e2eb75a5d78486d50c5104eb5a9c1d993
+software.amazon.awssdk	notificationscontacts	2.31.36		f48cde117d21eea3ef4f0d797406429e8a738441
+software.amazon.awssdk	notificationscontacts	2.31.37		30db97f58c35a496d00294b38458ab64800e8309
+software.amazon.awssdk	notificationscontacts	2.31.38		da8eaaf81435369948a0d0a4fe56d24d16fd054f
+software.amazon.awssdk	notificationscontacts	2.31.39		b842d94c31492b1833f8f3e51a46ff9458f3e9ba
 software.amazon.awssdk	notificationscontacts	2.31.4		dbd762814119484dfb39161c271c65d903bed5c9
+software.amazon.awssdk	notificationscontacts	2.31.40		b4e85f8f76f09146f1f95848244f18c0a81280e2
+software.amazon.awssdk	notificationscontacts	2.31.41		7e947c8c460d72bbee1a48a3ca09ba40a53a2d94
+software.amazon.awssdk	notificationscontacts	2.31.42		68833765d6c85392b2066d7ff4548017fa58a613
+software.amazon.awssdk	notificationscontacts	2.31.43		04029f0fb2b790692e49a62f8d032ef584899071
+software.amazon.awssdk	notificationscontacts	2.31.44		9250dcd1ec73d6056e92b5a661812037a44a0de3
 software.amazon.awssdk	notificationscontacts	2.31.5		c720921c2cfd539570f5707d1b9efea63c00252c
 software.amazon.awssdk	notificationscontacts	2.31.6		fde661e53222990437a25947d49caa70baa97fda
 software.amazon.awssdk	notificationscontacts	2.31.7		f007e4863a61225d02270de19931b7fac04783b9

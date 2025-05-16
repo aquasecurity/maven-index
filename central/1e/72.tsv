@@ -355,7 +355,16 @@ aws.sdk.kotlin	trustedadvisor-jvm	1.4.73		7ea9bf5f6e4a20e31dc9b600fece2a02b7781c
 aws.sdk.kotlin	trustedadvisor-jvm	1.4.74		08b7c076058fefa78450f125441eb8dd6a30eef0
 aws.sdk.kotlin	trustedadvisor-jvm	1.4.75		9a1ccb1cf6aa3e96cb31a80f646c9450e0b2f0a2
 aws.sdk.kotlin	trustedadvisor-jvm	1.4.76		482e121d34e7eb77e54d19ee8fb43e7937984f84
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.77		64ba770b3670d772be2600d77f2de10af87e3a09
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.78		8af02a9ed55119b6a3ee0712ff5eadda9d448e07
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.79		ef690274bfe1bdc0b35a6f883954bedb4f76768a
 aws.sdk.kotlin	trustedadvisor-jvm	1.4.8		87c7d0223231f00219654ffe64791b0d3020f795
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.80		db39d5e542a15fed9fec26cab94cdb4c50fd1f53
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.81		e535aa56a6b67e97204f955e6fd7f700049291e7
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.82		78e6cf90410a4ffa69dc4aae1be020ef938fda0d
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.83		5b9d1fc4fb2bcc47e3f5ac39f0ebf350afb2bbf2
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.84		fcd8436e4093457c2be3f7d7203d187af51d41fd
+aws.sdk.kotlin	trustedadvisor-jvm	1.4.85		5560f382bea88977895a2f3fc73b6087a1794245
 aws.sdk.kotlin	trustedadvisor-jvm	1.4.9		992258fc85700e2fc0e231cdc68e5da358a037de
 br.dev.dig.logger	filter-ktx	1.2.0		33aaa350c4e3e8ae93364cfd0735b56b43048699
 br.dev.dig.logger	filter-ktx	1.3.0		bb4914ceb0155d9b7af259cf344a31980c8c199a
@@ -1187,6 +1196,7 @@ io.github.ludorival	kotlin-tdd	2.2.0		11c28283a291e80fc941ac4c665285a519dc298b
 io.github.ludorival	kotlin-tdd	2.3.0		38ea7e027219c51673228b7d7c4e072dc74f239c
 io.github.ludorival	kotlin-tdd	79acbc5.dirty		0f91a4d400987603658722f81b3cf29ca23d4609
 io.github.pellse	assembler-spring-cache	0.7.10		de7bdfc85feba0a571acda6efaa8f69e9daf2310
+io.github.pellse	assembler-spring-cache	0.7.11		883794fc9ca85c38eda403d8bae2fbc49c276032
 io.github.pellse	assembler-spring-cache	0.7.4		df1fc2d816a4768243686e3261919f2e8ec3d523
 io.github.pellse	assembler-spring-cache	0.7.5		6f948ac753ed7a5e8658a3b32be4930ca4f0e0ee
 io.github.pellse	assembler-spring-cache	0.7.6		7bf9c04559f554ae19b91b6d149bb9b97467e1ce
@@ -1368,6 +1378,7 @@ org.apache.camel	camel-jbang-it	4.8.3		2db06474eac18525a4f4594648383ee13faaf589
 org.apache.camel	camel-jbang-it	4.8.4		7cfc2a44341b86bf786940d067348314b7eb6a67
 org.apache.camel	camel-jbang-it	4.8.5		b5a99541a3b4e4bab386c4913a3042aaea0ab69c
 org.apache.camel	camel-jbang-it	4.8.6		40dabbd384366514baab381712a663a3675e4f7a
+org.apache.camel	camel-jbang-it	4.8.7		75c64704369a97646fd92ca4e96c64c6887586e6
 org.apache.camel	camel-jbang-it	4.9.0		33d78e5539d8478c8c65796f91d1a0bc61af1625
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	1.2.0		379cef815b0612c8830491ccae60bd5fa02fad1c
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	1.3.0		f8491e166799ab2e1a65ff41a812f438a50ea959
@@ -1425,6 +1436,7 @@ org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.2.1		21e920d5c7b7e8d88b2
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.2.2		5b5dddb58a0c3599ccc9c2b9c7a418224f862216
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.2.3		117faab790f5a457ef85f7563659c327c1dcb3ef
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.20.0		870cdde20bd74020c39a9ffedb3cb81603f61d30
+org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.20.1		412e986b655ee3e5c40aadc2ca1c750a7b73eac0
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.22.0		f265600503c1164d252b45f5954f453095eeee5f
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.4.0		1ef79d12cca8c90894072a2966dd25c89b1f7db1
 org.apache.camel.quarkus	camel-quarkus-lra-deployment	3.5.0		f0196b1f39187600b073a9b9cda6b45193e0a2b8
@@ -1595,6 +1607,7 @@ org.jetbrains.exposed	exposed-migration	0.58.0		07c6e84c1b57bd1241132051dc846591
 org.jetbrains.exposed	exposed-migration	0.59.0		313b6a92a4aeaf791db2e28ab174da68531dffd9
 org.jetbrains.exposed	exposed-migration	0.60.0		45893ed76d03fc12eff23b31d2f443a515905d2b
 org.jetbrains.exposed	exposed-migration	0.61.0		973bf14cea9133a22ed2d7327ca2c9f8924885e6
+org.jetbrains.exposed	exposed-migration	1.0.0-beta-1		4125122164b00b5167ba465568989892797a5a01
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	1.9.0		194a34366c6016e992aa89fcb2736c513f98a9b5
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	1.9.0-Beta		d31bcaf49c14c5fd17f941d55a15c186c4266094
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	1.9.0-RC		db629613eb816a7b9ca6a6fc447b2bd7006901fe
@@ -1642,10 +1655,12 @@ org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.1.20-Beta2		bdd9679f0d315
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.1.20-RC		e53fb417ec0739a80347b43ae26663b161117e89
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.1.20-RC2		467ab2e8ee82405c3b5588418a096df6c9798508
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.1.20-RC3		b7e9531671183b5a39f7a94bfca7816beab2d758
+org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.1.21		59ef324756be72d7235b60c36961d9d913be4594
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.1.21-RC		836e422daca1e264ac650f3a38dc0660e4d54cde
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.1.21-RC2		ec7fb3dda2061f7b28e3e9ac6022b1dfad364e67
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.2.0-Beta1		30a6b5503767910e12a4b5955b210a433ff51212
 org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.2.0-Beta2		d463d1c6c6190b0b89dc027bf4231366d0c36fd1
+org.jetbrains.kotlin	kotlin-atomicfu-compiler-plugin	2.2.0-RC		b61b5150eee87acf06ebeee9d372fa8704c19eac
 org.lucee	xml-apis	1.4.1		aebea054324affd287b0126af7a72d97d7f42bc6
 org.opendaylight.controller	config-persister-impl	0.2.3		e07e91908e6f1834aafd040458400431b14d7b2c
 org.opendaylight.controller	config-persister-impl	0.2.5-Helium		423b08744668a4afd2944af817220987e3fca1ab

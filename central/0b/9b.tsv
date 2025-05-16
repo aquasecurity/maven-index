@@ -596,6 +596,7 @@ de.jensklingenberg.ktorfit	ktorfit-converters-response-tvosarm64	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-converters-response-tvosarm64	2.5.0	metadata	8a496e8881f396db693599705872f7416a0e45af
 de.jensklingenberg.ktorfit	ktorfit-converters-response-tvosarm64	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-converters-response-tvosarm64	2.5.1	metadata	18282438765e5eaf41a70f981afef5a7e523130e
+de.jensklingenberg.ktorfit	ktorfit-converters-response-tvosarm64	2.5.2	metadata	d31f5158c05304e8a18cddd9cf400a8739633776
 de.uni-rostock.sbi	BiVeS	1.11.1		783f4e34c3264ef769679389d0930f61dfa8a458
 de.uni-rostock.sbi	BiVeS	1.11.1	jar-with-dependencies	9db012be8ba1cddebdf4217f700b0fb9b7ec9320
 de.uni-rostock.sbi	BiVeS	1.11.2		03837adefb5a6f19a166de1257970ab3044200c0
@@ -1009,6 +1010,7 @@ is.codion	codion-plugin-hikari-pool	0.18.30		9096fcf71d26b1e2cd8db77843fe0da57ea
 is.codion	codion-plugin-hikari-pool	0.18.31		9578ff67dcd01872d6bcffe7d040ea835b2293fc
 is.codion	codion-plugin-hikari-pool	0.18.32		60c5a97f970b2f2a8d68a867febcc92ac8a0d8c8
 is.codion	codion-plugin-hikari-pool	0.18.33		1e2f63ad74e91e860aa532eb3fb09c965c98e351
+is.codion	codion-plugin-hikari-pool	0.18.34		94d26f64c52d8420d3528dd6aa6df1ce8e5874c2
 is.codion	codion-plugin-hikari-pool	0.18.4		6b6154c26be03f996be3260268fcef7dcb90cb59
 is.codion	codion-plugin-hikari-pool	0.18.5		b6c6815144a11c2190b92274f1d4dc6486acc0ff
 is.codion	codion-plugin-hikari-pool	0.18.6		191d9dd1f834d343ad7ba0152374bf73d8963b2d
@@ -1149,6 +1151,7 @@ org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.2.1		96b9e419e485afb
 org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.2.2		2c1afd2d97758b51e75d5c0ff410a73a0df33c75
 org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.2.3		b5f342c44d253f46c403965630139ea0812c44f7
 org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.20.0		1b3ca6a3e023cdc2a91279a64498d70da398564c
+org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.20.1		e0e9754ec1f9360ddd31df84dd2a3dad5c38f6b7
 org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.22.0		7879a17d1fd93c0d1ad76f72d74243187d17704e
 org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.4.0		4d581d895a87f7229b6c3710b825da314da0482f
 org.apache.camel.quarkus	camel-quarkus-mongodb-deployment	3.5.0		3dd17bf5c51e6c4eb19bb810c20c55e9ea99b700
@@ -1487,10 +1490,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.8
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.80.0		5f94e4a6f88c9f2c0fc9fdfb3d3881c9359141cf
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.81.0		935e9f858c43cf9b717b233327ffdf119fcca51c
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.82.0		1aa6db2be1499e419e0704665f6d22c3b9df6bce
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.82.1		b8320b718008ab778090c5d201995b5d0099462d
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.83.0		d70b4e9113938d3933120de93e8ce4b5a70cd808
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.83.1		4deac984dc964ee41c5b071e17651a5a4b01e107
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.83.2		aea055efbe89a2185357ee3515e9772ba54dcbdb
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.83.3		459aa2e1d3c49d77aeedcc48cbddb4cd1447095d
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.84.0		1c04d0dffa48dc034ec6645c52a6d3b5a42bbaa7
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.84.1		47ef884db23e93418e07834b039cd33a2986e0cf
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.85.0		a001f90b53d31949eb6d3f35c37097962dead220
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.85.1		e2ac1fa79d6eb5bcf5e39d054029e0ce384a79e6
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.85.2		7d21db7d53a0bd30fe9d5e171de95578b84578cf
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.85.3		27b1bf47e0f83478e4f0121286681ae6887367c5
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	4.9.0		bcd30b3029b9e7e3c7adebb2d79e3bdbeea4fe08
 org.infinispan	infinispan-jcache-commons	10.0.0.Alpha1		7b220d6cda78ccfb0b5416fc091d100dd1fcca33
 org.infinispan	infinispan-jcache-commons	10.0.0.Alpha2		f5e81f6668fe49a3f17f7e91d3710b25d4083126
@@ -1962,6 +1972,7 @@ ru.tinkoff.kora	validation-common	1.1.22		da348b7ecca3b1ef83b506a6235f838dde39e2
 ru.tinkoff.kora	validation-common	1.1.23		eecccd2b72cff95630310035e7527e160ed3330b
 ru.tinkoff.kora	validation-common	1.1.24		a0ea3ef8e064a1a8fb3d94a81f63f863fb4c6956
 ru.tinkoff.kora	validation-common	1.1.25		287d05c6edbf96218c53337327494069e1c28d8b
+ru.tinkoff.kora	validation-common	1.1.26		112849bccdf406d2b71d9b4591b4b6b5990caddf
 ru.tinkoff.kora	validation-common	1.1.3		b1e398b3dffe362be7e0b786302c80015ade829a
 ru.tinkoff.kora	validation-common	1.1.4		73d8ede3f1f9959719c29b77c15201ee83d9c13e
 ru.tinkoff.kora	validation-common	1.1.5		a5ae32380a86f7a10a0ac5b5558fc8b4e813c69e

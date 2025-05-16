@@ -204,6 +204,10 @@ com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.2		3d8ad090fbda0985a9
 com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.2	all	9633d9e920218dc9c415ac2a8cccc60374983229
 com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.3		922d81a30f5f5caf4d7248bb3e7a4920fc07aa13
 com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.3	all	6d9438b5b66065fe1946ad5f86f5c31e51670320
+com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.4		5c4c90d143db19e73d05891459eeb77aa25402d4
+com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.4	all	239fe7617a18f45cf0d41d38392cfb6966fcb6ef
+com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.5		5e9dcc0f8938382baea84e92e22db9ba6ea0558f
+com.expediagroup.apiary	apiary-ranger-metastore-plugin	8.1.5	all	e180d57daaeda5c53b07a0158f5194a23258356c
 com.github.cb372	alleycats-retry_3.0.0-RC3	2.1.1		a8689debf1cb716ca41907e96b1d97cbc5a9028f
 com.github.charlemaznable	blossom-lombok	2022.0.0		655b2c0ab9f16e4f4441a31d8534b55d8d136be2
 com.github.charlemaznable	blossom-lombok	2022.0.1		148fc3b028f820eff8b844472a58be042422afb2
@@ -1250,7 +1254,14 @@ com.yahoo.vespa	storage	8.511.14		b0c8c08ba1b6ec20caeb1f450954bc9592c74701
 com.yahoo.vespa	storage	8.512.63		b2424b76754b06ceaeaa8d6c8ec11406a51c6270
 com.yahoo.vespa	storage	8.513.17		4420fd960ca539e6f8307359222a09b3ef1cff07
 com.yahoo.vespa	storage	8.514.24		6182321ad98ae4d1cb2e11b2d474a5f270475d83
+com.yahoo.vespa	storage	8.515.40		1ccf0b1e2f97a2230e7f58ec0d2e441df1143c0f
+com.yahoo.vespa	storage	8.516.26		8bbbbbc639caa5ff5d4e881e7bfbd8337c28bdc8
+com.yahoo.vespa	storage	8.517.15		a378736d606bd50987f085964e783a60fc95568c
+com.yahoo.vespa	storage	8.518.4		ceee78cdb180f6e6f353223bd491d1a26b693ecb
+com.yahoo.vespa	storage	8.519.55		9ca68736fbca8658e98c316d3c066e4f619e04e0
 com.yahoo.vespa	storage	8.52.15		97d51acbd6df3ca0edd1908482c741e1745e9bb3
+com.yahoo.vespa	storage	8.520.18		72fb26d78aa060d64cae4b9fbb5ebeed86499685
+com.yahoo.vespa	storage	8.521.17		bd9f14aad20c8d72f9aed98f6893b987b1e8bfce
 com.yahoo.vespa	storage	8.53.21		8d6c6381305c48ed38687087bcf07d4dc3251672
 com.yahoo.vespa	storage	8.54.61		66dfbf6c2f59da738b456de486a606d78f83270e
 com.yahoo.vespa	storage	8.56.20		0c1593e0190bb81f9e2071db8d28b0fb039d9b4f
@@ -1526,6 +1537,7 @@ io.camunda	zeebe-restore	8.4.15		595ab88fd578022cf7e04ee503a5b46ac3cf8524
 io.camunda	zeebe-restore	8.4.16		e8b11a3e98d5256cf39416ddf4be3025a6af1cff
 io.camunda	zeebe-restore	8.4.17		4b65d1ca21caf2a7ae90c0e09744fa8c284b777d
 io.camunda	zeebe-restore	8.4.18		f10c7c392e76bdf3efe09b121c5f7d7b822e0131
+io.camunda	zeebe-restore	8.4.19		9a5c8a31a7a03219d6a18681bd84ad63348af223
 io.camunda	zeebe-restore	8.4.2		ed06dcb3f026342072af114b7b7b167aa2147b8f
 io.camunda	zeebe-restore	8.4.3		81294bed51fd334a346789fc2dd28250e539574d
 io.camunda	zeebe-restore	8.4.4		9e9e8bea7b05f64f7bd1f9f96bd36e67cbacc9ec
@@ -1548,6 +1560,7 @@ io.camunda	zeebe-restore	8.5.14		91d68839668b0bc7945efb9a6c3c1a31917119d3
 io.camunda	zeebe-restore	8.5.15		0abf98f0932aba1ee59b496bb5c3eed5ebaeb67e
 io.camunda	zeebe-restore	8.5.16		09b49860ba93227dff6f2c5afd2d0197b75cef2d
 io.camunda	zeebe-restore	8.5.17		031f24ecdc3530bbabd084db8a2ab532cbe3699c
+io.camunda	zeebe-restore	8.5.18		a178b3057427f6a81e1aa891a07d190acc320a97
 io.camunda	zeebe-restore	8.5.2		679009888a02664bee406763ce79bd127d14e6e7
 io.camunda	zeebe-restore	8.5.3		bcddc17e46e9b3371b7a9aba75a597240c8ed16e
 io.camunda	zeebe-restore	8.5.4		f12ec141e276b580bf4bef12c3568e3939760db7
@@ -1585,6 +1598,8 @@ io.camunda	zeebe-restore	8.6.12-rc1		fb0bcd9e0b36427cfff0829e82934f9f657abae8
 io.camunda	zeebe-restore	8.6.13		3e00ad654a02535e0d48ead395df3013cc131d83
 io.camunda	zeebe-restore	8.6.14		5ae62b82c72b45295223267e3c8e42981668521c
 io.camunda	zeebe-restore	8.6.14-rc1		52813ea7286cfd91ed0c821221d7d5e9be50d3e0
+io.camunda	zeebe-restore	8.6.15		52f8c9092cc879bc8ba26184058784e01b80bf71
+io.camunda	zeebe-restore	8.6.15-rc1		ea36d0f90a8d09d801d567024a594cb0fd770705
 io.camunda	zeebe-restore	8.6.2		6383435df0c6ad4ca88ecdcf1e985b5f4629f7f9
 io.camunda	zeebe-restore	8.6.3		1bbc393dacca5ec64f0ee5e2e14e7774a6d6f031
 io.camunda	zeebe-restore	8.6.4		db0aa77d782f0ec3c9fc14b49771e302862dc946
@@ -1620,12 +1635,15 @@ io.camunda	zeebe-restore	8.7.0-alpha5-rc1		2808f76bf4e0c668aff749a5e908b77132291
 io.camunda	zeebe-restore	8.7.0-rc3		73f42e7da341d9c9fecacf52f7c11d266a789cf1
 io.camunda	zeebe-restore	8.7.1		a516f0f99a8b14ceaba00304f407ae8a3e0695f2
 io.camunda	zeebe-restore	8.7.1-rc1		4ee72c4de4a961bf4e495807bc0a7383cac9d068
+io.camunda	zeebe-restore	8.7.2		64b87ad2dceca093d1e5e098229566f7380e1a3c
+io.camunda	zeebe-restore	8.7.2-rc1		cf8cb6b60397cb42d3421796b6d7dfb338801e97
 io.camunda	zeebe-restore	8.8.0-alpha1		a433f08dfc52bd0576360a5b043d155c8546e99b
 io.camunda	zeebe-restore	8.8.0-alpha1-rc1		3d171d769e36042f5ba29c6adad07bfb63369ecf
 io.camunda	zeebe-restore	8.8.0-alpha2		bcbd89684848dac1c5e2987b5dbe2fbbb0317adf
 io.camunda	zeebe-restore	8.8.0-alpha2-rc1		de51034258155c40c6f44afc2b03a34e982d3099
 io.camunda	zeebe-restore	8.8.0-alpha3		8459dd761b8746ff9dee2fe3c62841ce1f56baa2
 io.camunda	zeebe-restore	8.8.0-alpha3-rc3		b16095543d055efbf834dfc34d88a179143a6eff
+io.camunda	zeebe-restore	8.8.0-alpha4		9fb53943d43a3153281430bf22241711ad1bffbe
 io.camunda	zeebe-restore	8.8.0-alpha4-rc1		8651ca704de53462352b27f32081a174ea65cdd4
 io.continual	continualCoreSystems	0.2.10		N/A
 io.continual	continualCoreSystems	0.2.11		N/A
@@ -2037,6 +2055,7 @@ org.apache.beam	beam-sdks-java-extensions-avro	2.61.0		457afde7c8c6f52e837e46f3e
 org.apache.beam	beam-sdks-java-extensions-avro	2.62.0		791c31c646758b2c663a71a468999bc164451058
 org.apache.beam	beam-sdks-java-extensions-avro	2.63.0		c499e1a6c7dd8b5563dc87cc9b7f671620193ed9
 org.apache.beam	beam-sdks-java-extensions-avro	2.64.0		c27eafb644781ad8d50e460d13a0b1ecda1bc8d0
+org.apache.beam	beam-sdks-java-extensions-avro	2.65.0		15f8489fc6fb786a4e62f9218379b15e02de64da
 org.apache.camel.springboot	camel-spring-jdbc-starter	3.10.0		7e588944b78eec95a455e2842102e10aaa009ecd
 org.apache.camel.springboot	camel-spring-jdbc-starter	3.11.0		5cfea3a2f86cb8e7fc3c6c3fabf1d6b3c7970f3a
 org.apache.camel.springboot	camel-spring-jdbc-starter	3.11.1		975aaae5fc0ba77f2f3e10f8373cdef1c98127b7
@@ -2130,6 +2149,7 @@ org.apache.camel.springboot	camel-spring-jdbc-starter	4.8.3		5883d00ed13da6b44c8
 org.apache.camel.springboot	camel-spring-jdbc-starter	4.8.4		495c207f98f0ed76f83950e692b6d8a46f27def9
 org.apache.camel.springboot	camel-spring-jdbc-starter	4.8.5		5282c165b62dac327a7f539dcbc47442be0a4c08
 org.apache.camel.springboot	camel-spring-jdbc-starter	4.8.6		8d9f2a98555535272a0c3c2a6e456e19fa1c3849
+org.apache.camel.springboot	camel-spring-jdbc-starter	4.8.7		f55ee80e78926e91c8f33a02038809423fec85b1
 org.apache.camel.springboot	camel-spring-jdbc-starter	4.9.0		a7750ed686b09f9e8fc61bb5a765bb1ff24ec920
 org.apache.maven	maven-api-settings	4.0.0-alpha-10		2af97ab4aa7f87a4d8010e0474972ec2e39be192
 org.apache.maven	maven-api-settings	4.0.0-alpha-12		7cf1a3a304616cee2cc5276faee1017a930f0667
@@ -2395,6 +2415,19 @@ org.eclipse.dirigible	dirigible-components-api-qunit	11.41.1		3d311562f00287b61c
 org.eclipse.dirigible	dirigible-components-api-qunit	11.42.0		1f1798a6cd788c21341f5449a3000ef5b92b0759
 org.eclipse.dirigible	dirigible-components-api-qunit	11.43.0		0ba1c89efee797663bcb02165768d5a453a91153
 org.eclipse.dirigible	dirigible-components-api-qunit	11.44.0		6e2b3566d1cbd439d31500e5110f0e09c1fb6990
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.0		36f3b7f5ee93d08580e68018ba786d942b5c0f18
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.1		8a5340ab2b4100f77f8d29013ad5af8d6b609f75
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.10		3125a519b1aa24b1ff0a98febe6605355d892654
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.11		7d949bc813c5d984fd07a951ff465b96c24ff106
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.12		92fbf8d23e2f48430e0d0a4b4102fe0c2f76e47d
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.13		2f2f5d9dd0d4cdc16efc93e04c4430c974eef1bb
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.3		1e9d7a6b2b13cb0e019e538029917e47b6f5fac0
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.4		d27985fb1674b7899ad7979587b0aba5bbc4b2d3
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.5		088bda23e8af0b12faa7fa31e21785cd9543d209
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.6		2f3b21ddc003facf11b4d6bf48c0e464cfb9642a
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.7		d9a86f640e71ec6085b64986acec50b1491edd67
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.8		acf536b9804a7cb0f95e3da12d9fef14b95516c1
+org.eclipse.dirigible	dirigible-components-api-qunit	11.45.9		a6b5d57dbae18122aff0b2f12c7a12c59be0a31c
 org.eclipse.dirigible	dirigible-components-api-qunit	11.5.0		6c193e781ce8b71e840e99578c0755a4615c17fa
 org.eclipse.dirigible	dirigible-components-api-qunit	11.6.0		2aae47324a4a8cf1e0f9113fc4466daa689fca3a
 org.eclipse.dirigible	dirigible-components-api-qunit	11.6.1		706f5df6ab846c21c6c0ca870e67462258a0b6ed
@@ -2791,6 +2824,7 @@ org.webjars.npm	rx	2.5.3		998edfec44577da8ec22803d441d589895898083
 org.webjars.npm	rx	4.0.6		3286b1dd60a65c93d28a6fb4070c9329d3d81030
 org.webjars.npm	rx	4.0.8		ffa940e7cbefb9bba089e457fefc910d48525378
 org.webjars.npm	rx	4.1.0		21cf78d49453c9bad462d2669cfb60df93c0dfb2
+org.webjars.npm	urql	4.2.1		326a86024278dbb404b434e0484d5566016bc5ae
 org.wso2.is	identity-features	5.10.0		N/A
 org.wso2.is	identity-features	5.10.0-beta		N/A
 org.wso2.is	identity-features	5.10.0-beta2		N/A

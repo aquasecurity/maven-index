@@ -2023,6 +2023,9 @@ com.palantir.dialogue	dialogue-target	5.1.0-rc1		261549fec01da6a4217bbcc37298fc9
 com.palantir.dialogue	dialogue-target	5.2.0		6411000340e70fe209ff8758358962e0c7a1742f
 com.palantir.dialogue	dialogue-target	5.3.0		a20f0eecc66f3af9ab1ce0561b936f6c1ec2150c
 com.palantir.dialogue	dialogue-target	5.4.0		c18de5a4b8a716926cd7127a36cfe7ee31efd1c4
+com.palantir.dialogue	dialogue-target	5.5.0		40010207d4d7968b1ce1ebfb54ac016e319aed9c
+com.palantir.dialogue	dialogue-target	5.6.0-rc1		646fd8fcfcea667617f30c33f76c6eba7638f326
+com.palantir.dialogue	dialogue-target	6.0.0		359aa34a78faabfbc105bdd1e2feaa817da80eeb
 com.soywiz	korlibs-defs-linuxx64	6.0.0-alpha2		N/A
 com.soywiz.korlibs.korte	korte-android	2.0.7		N/A
 com.soywiz.korlibs.korte	korte-android	2.0.8		N/A
@@ -3319,6 +3322,7 @@ io.camunda.optimize	optimize-commons	8.8.0-alpha2		46077c37c57cc5e59ca4096bc0104
 io.camunda.optimize	optimize-commons	8.8.0-alpha2-rc1		2585f4875456b7222758200c07be4ab726e60446
 io.camunda.optimize	optimize-commons	8.8.0-alpha3		9794a0f339c6e7b03e4b3f2a4df8a4a3cd1447e1
 io.camunda.optimize	optimize-commons	8.8.0-alpha3-rc3		0c71d3e23a8e2263e9eecdf43cea637d74ff5fbc
+io.camunda.optimize	optimize-commons	8.8.0-alpha4		71127104198e536afa78a0c32eab68d51415701d
 io.camunda.optimize	optimize-commons	8.8.0-alpha4-rc1		07ba6bac36e1ad6a053f711006ac935aabf24d8e
 io.github.brightwellpayments	ReadyRemitSDK	4.0		N/A
 io.github.brightwellpayments	ReadyRemitSDK	4.1		N/A
@@ -3780,6 +3784,7 @@ org.apache.camel	camel-as2-api	4.8.3		f876736f3797f92b2f25a5f08f02734e2b8c45f5
 org.apache.camel	camel-as2-api	4.8.4		eb9f874a9d9cb7491efbd242e6243f352e84532f
 org.apache.camel	camel-as2-api	4.8.5		6b2a11311c93a4a552e5f4b46f716cae0a9f2f72
 org.apache.camel	camel-as2-api	4.8.6		732a90d28efa6fc86dec48870efaed361b599507
+org.apache.camel	camel-as2-api	4.8.7		76bdc714832dcf8cc110695ca9a274d83bedd72a
 org.apache.camel	camel-as2-api	4.9.0		80f3aa61c6af1d1a17eab73e77ce1148818034d3
 org.apache.dolphinscheduler	dolphinscheduler-task-chunjun	3.1.0		3745d46a8b3484ca9db050221ea56ccbde885071
 org.apache.dolphinscheduler	dolphinscheduler-task-chunjun	3.1.1		c66f8c02792465ef1965fb0b440ca6726e8bdae4
@@ -3816,6 +3821,7 @@ org.apache.parquet	parquet-pig-bundle	1.14.3		dcfeae3b3b88c49b9bf918e347a29c00df
 org.apache.parquet	parquet-pig-bundle	1.14.4		6efa6d46d70324291b0a19c62285517f4a2ead4c
 org.apache.parquet	parquet-pig-bundle	1.15.0		abe0bcd76760a48131bbb14c0fcdb0a47b5202d3
 org.apache.parquet	parquet-pig-bundle	1.15.1		331d3c0e5ca007421754b5b3b7d51d0c321f53ef
+org.apache.parquet	parquet-pig-bundle	1.15.2		9cc22536c75605ca4862741d26fdaccc53f2c260
 org.apache.parquet	parquet-pig-bundle	1.7.0		0a3f56de652059633f9e7f32e51132d62378f9b1
 org.apache.parquet	parquet-pig-bundle	1.8.0		cf8d7040dd6beda6379a8f5c8e83d0ca9efddf8e
 org.apache.parquet	parquet-pig-bundle	1.8.1		0ccd774b460befc7a007d2f1d1f7da070aee59d0
@@ -4210,10 +4216,17 @@ org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.80.0		08cd3251c27ff08e2d94fcd14e421bf4c60702c4
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.81.0		4318cf9048fe7fe09d4a467f3c421c07a5d279b8
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.82.0		474280105297b1e1dd2634e616c6007f1185b204
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.82.1		c50183e56dbb3fcf4005a1ab15cd9da2265965bf
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.83.0		71ad20b257e98480f7bc6ab071119a3b2779454f
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.83.1		6fa951b7edfd7c6165c76b6e7ffafd60ed3fa4c4
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.83.2		a0c7ed6053d7cf326962d22f5fba55d269604afa
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.83.3		48f4c39f4828128a42300cfbe83fc83cc3eaf6e9
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.84.0		66d45bb74810fbdb907820df48f9b5a93bd35810
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.84.1		9eb59505f31f84a03bb0d1e4b49a596e8d189f87
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.85.0		2d327a410ac824d23e8077a52f156d2da01f0954
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.85.1		38f2c4e24a9717aa4a0fcc8e816d76fadf8e2319
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.85.2		a922548f14cd013087c562da52313adc0d4819a2
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.85.3		636a2d2493956cb4ccb9cadf145940960d9ccd7c
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-vault-aws	4.9.0		b004e9ca836c9224c9b78dc121efd3bb57a90905
 org.jvnet.hyperjaxb3	hyperjaxb3-ejb-extensions-custom-naming-pre_0_6_0	0.6.1		c8e3eb2ebbfe1c74e30da34cb2e98211b8821899
 org.jvnet.hyperjaxb3	hyperjaxb3-ejb-extensions-custom-naming-pre_0_6_0	0.6.2		f9d5dde2249763cb8f87fd27ad133e59bd889fc3

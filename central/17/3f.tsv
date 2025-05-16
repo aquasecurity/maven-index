@@ -1748,6 +1748,7 @@ com.fluxtion	serverplugin-jdbc	0.1.40		3e626baa7ee7c197f2591459947c0a0df64f316a
 com.fluxtion	serverplugin-jdbc	0.1.41		73edc0224c5350a116ec0aa64713934070aede61
 com.fluxtion	serverplugin-jdbc	0.1.42		9647c7b4c52cd0e39e2004cb50c294f92d04dc1f
 com.fluxtion	serverplugin-jdbc	0.1.43		492367c4aae846f82e3f41060bb9592c2d8cb1e7
+com.fluxtion	serverplugin-jdbc	0.1.44		eef7af2b571fb0c55a00a4c6ad6b5c5255087362
 com.fluxtion	serverplugin-jdbc	0.1.7		2a146796a3ef4845b1d5b52a19da72117ae397d4
 com.fluxtion	serverplugin-jdbc	0.1.8		9335a2f0ce7345acabf38bef3c170bbe9694e81f
 com.fluxtion	serverplugin-jdbc	0.1.9		085138e7851d4092d65bcc8cdfd6a6dfe539eba4
@@ -3029,7 +3030,14 @@ com.yahoo.vespa	logd	8.511.14		c52c2fb99a33107abb6591982373a8250f4fc27f
 com.yahoo.vespa	logd	8.512.63		153985516b5ebfb6ae7593152cd264d15b89f449
 com.yahoo.vespa	logd	8.513.17		b70e62be106c25f73853c4e4e5338e54dbbaa198
 com.yahoo.vespa	logd	8.514.24		edf00cdb0c04d2d03d4ac63f4d0fe0876a3bb8af
+com.yahoo.vespa	logd	8.515.40		09dc01bce87b9cea91e3e6ec07de2c6907efd1b5
+com.yahoo.vespa	logd	8.516.26		ebf15f359bf74c334b79eb3480bb6d1543e4b2ff
+com.yahoo.vespa	logd	8.517.15		83a3f0c2a1767f62e9f96e454966d451b7b68775
+com.yahoo.vespa	logd	8.518.4		aa5e5a702fb4bbc355595d8ecc609a93783b1c47
+com.yahoo.vespa	logd	8.519.55		26ffb3beaff91dd672addba2dc87378d5340a35c
 com.yahoo.vespa	logd	8.52.15		6134803e327544c7881416a4c5c65ce1c7429f1f
+com.yahoo.vespa	logd	8.520.18		2cb37bca2c72b343680bdbec5b44cb72764d37a4
+com.yahoo.vespa	logd	8.521.17		2b590de8757677a703a85d25da26fdcece5dc430
 com.yahoo.vespa	logd	8.53.21		c735ff80e0fd258d6ff057c8d2c40c54905cd0cf
 com.yahoo.vespa	logd	8.54.61		85b514636ed4f338bdbdad3c97277f36acabbb71
 com.yahoo.vespa	logd	8.56.20		6e5b7770cffc4469c090e25bf22ebece59e2ab84
@@ -3122,6 +3130,7 @@ dev.langchain4j	langchain4j-embeddings	1.0.0-beta1		223296d69fbe7f68f8f5fa4b4634
 dev.langchain4j	langchain4j-embeddings	1.0.0-beta2		f8fa2138bdade9b34f03ff3b7dd4f4d84cffe0fb
 dev.langchain4j	langchain4j-embeddings	1.0.0-beta3		e7135f8a75052598ecd3e077e82dc3e48b08d6a2
 dev.langchain4j	langchain4j-embeddings	1.0.0-beta4		d169f80a26cf5e4b126dd9cea212c1a9101c60a7
+dev.langchain4j	langchain4j-embeddings	1.0.0-beta5		f9f121f95174b648de4398888a99be32fe1764ef
 dev.mokkery	mokkery-runtime-iosx64	1.0		N/A
 dev.mokkery	mokkery-runtime-iosx64	1.0	metadata	d3e2eb3656873c7771157e47713ed7ba0718be2c
 dev.mokkery	mokkery-runtime-iosx64	1.8.20-1.0.1		N/A
@@ -3598,6 +3607,8 @@ io.ktor	ktor-server-double-receive-watchossimulatorarm64	3.1.1		a17ddb8ef822998e
 io.ktor	ktor-server-double-receive-watchossimulatorarm64	3.1.1	metadata	123ae3bf55d2aa6712784e7cf0de2cbaba329e8a
 io.ktor	ktor-server-double-receive-watchossimulatorarm64	3.1.2		76c821031793c3fcc918c7b3fabce6a72140b33b
 io.ktor	ktor-server-double-receive-watchossimulatorarm64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-double-receive-watchossimulatorarm64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-double-receive-watchossimulatorarm64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.laserdisc	tamer-rest_3	0.20.1		a219a8cad0227bb0c757af8120e50c3e59b83f1b
 io.laserdisc	tamer-rest_3	0.20.2		0e65994630e70c20d575765c3f2c3f5633fce02a
 io.laserdisc	tamer-rest_3	0.21.0		f256c3a994b3beb64128537650cfd4fa48625a5a
@@ -3741,6 +3752,7 @@ net.wicp.tams	common-jdbc	3.6.5		f738ec34e07608bc4d32999dc62a9d4d45554628
 net.wicp.tams	common-jdbc	6.0.0		9f2996ff6dd4106dec8ea5035dbcfc5852c1a788
 net.wicp.tams	common-jdbc	6.0.1		1cd983fd84023b77d65f68439c4645dcb79359f0
 net.wicp.tams	common-jdbc	6.1.0		bd9881c2b8edc0c4827ee85c4f0de6e295baf1d6
+net.wicp.tams	common-jdbc	6.1.1		17260ac7988a812e4f79800174a076529febd426
 org.apache.axis2	axis2-jibx	1.0		d9606be24c8500f9a33e39cfe45b4015d2a1b121
 org.apache.axis2	axis2-jibx	1.1		5f247d2f51705db84f085eb0bba60a31b38fba07
 org.apache.axis2	axis2-jibx	1.1.1		25fbfb34b9ef0bb66cb223825e2b82266bffed19
@@ -3863,6 +3875,7 @@ org.apereo.cas	cas-server-support-permitio	7.2.0-RC6		a9e72d8d21f0728601c08f3fc2
 org.apereo.cas	cas-server-support-permitio	7.2.0-RC6	resources	5fecb8417d9dc0617a929140fd08964cec3dda3d
 org.apereo.cas	cas-server-support-permitio	7.2.1		ea3e6ce794c2d820b01d5a884b77a0e25f54b83e
 org.apereo.cas	cas-server-support-permitio	7.2.1	resources	75272f2396225da7a6895464cf72d603e324753e
+org.apereo.cas	cas-server-support-permitio	7.2.2		b3fd49b984b0e8ce65daf874e6dd3f4fae6e1b79
 org.apereo.cas	cas-server-support-permitio	7.3.0-RC1		69e309ad047c4bc122e99021b9512d2c024df001
 org.apereo.cas	cas-server-support-permitio	7.3.0-RC1	resources	fb05fa43a1edbb7ab240dcafa98f18346ca517a4
 org.eclipse.jnosql.mapping	jnosql-mapping-key-value	1.0.0		6123e0a53f441e6af2899ba7a1b878ae52413d1f
@@ -3880,6 +3893,7 @@ org.eclipse.jnosql.mapping	jnosql-mapping-key-value	1.1.3		1c2a5a65c508cdd0794b0
 org.eclipse.jnosql.mapping	jnosql-mapping-key-value	1.1.4		6fc4ed1312f482699ec3339ef3d1869914f255f9
 org.eclipse.jnosql.mapping	jnosql-mapping-key-value	1.1.5		6147e4ac85626036d63ddb5e46a23431de033a05
 org.eclipse.jnosql.mapping	jnosql-mapping-key-value	1.1.6		1e973a919845a41b56534e195f2ade278b187691
+org.eclipse.jnosql.mapping	jnosql-mapping-key-value	1.1.7		690cf7c33189232b400a481fd5bf6d0acd982ba8
 org.eclipse.sisu	org.eclipse.sisu.inject.tests	0.0.0.M0		f010f9b84084af4cf7ee64382db1e07f53e13af0
 org.eclipse.sisu	org.eclipse.sisu.inject.tests	0.0.0.M1		2c627a051b3bcec7b4bb534532118c5094481fce
 org.eclipse.sisu	org.eclipse.sisu.inject.tests	0.0.0.M2		9364e077fafd18d9381c1366d9e0c9a5aa27ff66
@@ -4019,6 +4033,7 @@ org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.7.1
 org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.7.3		N/A
 org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.annotation-internal	annotation-watchossimulatorarm64	1.8.0-alpha02		N/A

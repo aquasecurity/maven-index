@@ -444,7 +444,16 @@ aws.sdk.kotlin	elastictranscoder-jvm	1.4.73		0c5d1f6addc65c44daa78f4561aea8dd186
 aws.sdk.kotlin	elastictranscoder-jvm	1.4.74		ab270ee322a3185a6293aeacffd43aafe0988e25
 aws.sdk.kotlin	elastictranscoder-jvm	1.4.75		13f5126f8497a3fb7f89af547d6a664532644512
 aws.sdk.kotlin	elastictranscoder-jvm	1.4.76		cfa1608f97058961d5aa419b238ff2eb625d219d
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.77		039530eee3d74a771c6a3646a4f4b1d035a647a7
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.78		f143c9e16700adfe6c81f94a928e93403980d37f
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.79		3ea8ce286224e89b6429a8ae3726b6bcd02ef7d2
 aws.sdk.kotlin	elastictranscoder-jvm	1.4.8		118d202e7cf0015d56125d99ec08be25fecaf184
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.80		6894819eb8c7748dc33a5a903c25ffd0466368cb
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.81		5856245c8ab9c090132ca71271f224e135178c31
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.82		42b97f7f011c2a6600e2e21518b8efa7d79676be
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.83		29d501a472c04d4c12251ac3c8d164927b5bbddf
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.84		ad6ca39cbdbe57c9158bf7ee1967c83b724194b8
+aws.sdk.kotlin	elastictranscoder-jvm	1.4.85		e1922942f7d67e127a8bd723cba3f9644fb3aef9
 aws.sdk.kotlin	elastictranscoder-jvm	1.4.9		7145ca5889bfe8ecc1165ace43b39a36c55526c1
 br.com.grosz	bytepacker	0.0.1		3f77f5a5401eea495a61f39c809701127c7e4fb0
 br.com.grosz	bytepacker	0.0.2		d41060d8af1b3d44ca8e2e8ef8f81389924bb683
@@ -623,6 +632,7 @@ com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	4.36.0		74bb201aeea96ecf52bc9
 com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	4.36.1		007c482195cc0a58512b2ee11edc7320b2f828b0
 com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	4.37.0		12b69f285da61c01be979be0505ab2980c82291a
 com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	4.37.1		4aa06b5ed2f5530e27e0d646c1b3dcd9c31f6add
+com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	4.37.2		d191d8a48db5e0e84c71ef2ccaf9b5eac0d611b8
 com.danhaywood.mavenmixin	surefire	0.0.1		N/A
 com.danhaywood.mavenmixin	surefire	0.0.2		N/A
 com.danhaywood.mavenmixin	surefire	0.0.3		N/A
@@ -1642,6 +1652,7 @@ dev.zio	zio-aws-synthetics_2.12	7.31.27.1		1b2bae6d9ace850650f3426b4b72144d4fea5
 dev.zio	zio-aws-synthetics_2.12	7.31.28.1		37d7fba07b15df3cbf59d7c98a45ed46ee775407
 dev.zio	zio-aws-synthetics_2.12	7.31.3.1		b705714a249d39d26c01b13fe281d8fa185a5607
 dev.zio	zio-aws-synthetics_2.12	7.31.30.1		25d0cd670237a6ba8d2174b6ef3627953dc7af4e
+dev.zio	zio-aws-synthetics_2.12	7.31.30.2		100112e6b9c8628016444ae40715d36dae872a3a
 dev.zio	zio-aws-synthetics_2.12	7.31.4.1		5d6ce6482d6731f796dfd0551d3a785c7e34dc94
 dev.zio	zio-aws-synthetics_2.12	7.31.6.1		1ad9b7aabea27ca9609899c1e156cc3f2d42a03f
 dev.zio	zio-aws-synthetics_2.12	7.31.6.2		69cb9d6ac995df64809c72791b40cd5d55693135
@@ -1886,6 +1897,7 @@ io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.2.8		6f176ac63
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.2.9		9a64d6c99e9a7e671fe1133036519be9e0ef505d
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.3.0-M2		44ae7597849ae4b009632b18d6719de5d140ad59
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.3.10		c12b2ad226cc9a4b840ece89129aa6b707c724e9
+io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.3.11		4046ada232c419eb79d2a71349ff27f427dd6496
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.3.2		f5dafd342dc99d86e78bfc0f039a1591fe4ce00c
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.3.3		81c7a9697ecbe0fdf7a488f5586a34d3d775ec13
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.3.4		2d2f5d532a062b18d4dbd1e50dd5db7b1493faa3
@@ -1899,8 +1911,10 @@ io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.4.0-rc1		5f029
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.4.1		061816fa56889bdb528ac24fbe58d9221e936569
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.4.2		f020a8258acf7f5605022ff5a092be615a84e196
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.4.4		14a8082824d10e925cd5f322f5711b5997b70c1c
+io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.4.5		93a6d238a35a7052da3a7d4ffb40cc6b5849caab
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.5.0-m1		4d2bcc43aa6e90c1c6ac49dd9e3a2835d188d95f
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.5.0-m3		09c9ba20493d78af58977c5adb8907d779ad1fa0
+io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	3.5.0-rc1		c547adcedeeebc282d4f7465be1057c7535ae17c
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-autoconfigure	unspecified		c385c69065c9afa908bee872ea96226ed7ec6eff
 io.github.rushuat	ocell	0.1.1		68ac5b192a04d28f97034160b468158e86249e09
 io.github.rushuat	ocell	0.1.10		b464fe7022c82ffbcbed1ce13c198c1c3d589d7f
@@ -2570,6 +2584,7 @@ tech.ydb	ydb-proto-api	1.6.1		a528bb9bfe5ab43ec416b171c83b47d4e521ae99
 tech.ydb	ydb-proto-api	1.6.2		a7a408bca61876c6640467ade39740c3ebb32a36
 tech.ydb	ydb-proto-api	1.6.4		9c57d252e4eab494cae1fa431d21ebba0db5bab5
 tech.ydb	ydb-proto-api	1.7.0		0bc77479f70e80cfab8334ed13c9735e739d8ba7
+tech.ydb	ydb-proto-api	1.7.1		896164c29302bc8648c80531b0e6177e3e88b6a5
 tz.co.asoft	live-core-tvosx64	0.0.14		N/A
 tz.co.asoft	live-core-tvosx64	0.0.15		N/A
 tz.co.asoft	live-core-tvosx64	0.0.20		N/A

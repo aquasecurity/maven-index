@@ -73,6 +73,10 @@ com.lightningkite.khrysalis	kotlin-compiler-plugin-common	1.0.1		9a1d5e77e244b61
 com.lightningkite.khrysalis	kotlin-compiler-plugin-common	1.0.2		64563a6a954c52f741ff72a314af6970cadfed1e
 com.lightningkite.khrysalis	kotlin-compiler-plugin-common	1.0.4		f12c2a142d262f725a2e866e4664af1e027be36e
 com.lightningkite.khrysalis	kotlin-compiler-plugin-common	1.0.5		3893ed3dcad3fb0335bf7e42189b46cbbc1dcc47
+com.mojolly.scalate	xsbt-scalate-generator_2.9.1_0.11.2	0.0.8		ff1c2f0bebc82420c3c9550cd8cb87ab250517f2
+com.mojolly.scalate	xsbt-scalate-generator_2.9.1_0.11.2	0.0.9		a1eda12fae7d9094a238facbb33e94eec035cf66
+com.mojolly.scalate	xsbt-scalate-generator_2.9.1_0.11.2	0.1.0		46283e23835efb099faae7e24f009741de62fa45
+com.mojolly.scalate	xsbt-scalate-generator_2.9.1_0.11.2	0.1.1		e7ccbdd97dbfb67429dde093edc0f74276c8ad00
 com.mthwate.datlib	datlib	1.0		454cb70480d39634128ab8c26f26b2d1ea85e563
 com.mthwate.datlib	datlib	1.1		b2e6d016bb199abbefd69fd425766be8ea93a253
 com.mthwate.datlib	datlib	1.1.1		4c2c1ec3b5f6cf75693c9240344950d5fa6a2fcb
@@ -109,6 +113,7 @@ com.tencent.bk.devops.ci.misc	api-monitoring	3.2.0		c9f3757910b25fc2942c43a89d3e
 com.tencent.bk.devops.ci.misc	api-monitoring	3.2.0-rc.1		41a06e6299239c04fcf49a881533736dffb20c7d
 com.tencent.bk.devops.ci.misc	api-monitoring	3.2.0-rc.2		21188007e1b7325dd190507e2dca1005d2708a37
 com.tencent.bk.devops.ci.misc	api-monitoring	3.2.0-rc.4		9ea4ed2270154962ff49e075a84776317c728f67
+com.tencent.bk.devops.ci.misc	api-monitoring	4.0.0-rc.1		1879bf1a2366c34d4caa851792409094e10c749b
 com.tencentcloudapi	tencentcloud-sdk-java-tiia	1.1.1		6f8e2b85a5e80903b02a10c344f966f639cec3c5
 com.tencentcloudapi	tencentcloud-sdk-java-tiia	1.1.1	jar-with-dependencies	a16c2d20222b370d66dbf9d62a274752fcbc69f7
 com.tencentcloudapi	tencentcloud-sdk-java-tiia	1.1.11		81950e95ec1b8b45843d7b47eaa4591974a1077d
@@ -1195,6 +1200,11 @@ dev.ikm.elk	elk-util-collections	0.37.4		0dfcbf6856333a6566a4d26df50f6266f08dc7b
 dev.ikm.elk	elk-util-collections	0.37.5		491895672b3a1721c6f90e950f84545396f1021a
 dev.ikm.elk	elk-util-collections	0.37.6		f06a986d43c61d5a292b8793ef6b6dac3521d983
 dev.ikm.elk	elk-util-collections	0.37.7		6e4ef38bd3b7707daef5512c7b9e06b8c0bd3cac
+dev.ikm.elk	elk-util-collections	0.37.8		61f03f5a8064fac9e35e486914e8b46a57b2d3c9
+dev.ikm.elk	elk-util-collections	0.37.9		b5aa7cbc305766ba4e270b5b16b139afd0fc5eed
+eu.sipria.sbt	sbt-closure_2.10_0.13	1.0.0		b1183b18f1df8baff433f8e8865b516eee632c74
+eu.sipria.sbt	sbt-closure_2.10_0.13	1.1.0		62b63ade5e8de626cd9711a2d40bf702ccf5c465
+eu.sipria.sbt	sbt-closure_2.10_0.13	1.1.1		88629841c6ddfc1f56fcbf38d04d2c81a5635fe4
 fr.davit	pekko-http-metrics-prometheus_2.13	1.0.0		77e7346678b6ca8b92ad80cfe1f53454591577eb
 fr.davit	pekko-http-metrics-prometheus_2.13	1.0.1		7c85bf924ac85c70805383e4514786cfbc4a47ea
 fr.davit	pekko-http-metrics-prometheus_2.13	1.1.0		d695a9324946a1493ae130c05402d1e21f804d0a
@@ -1224,6 +1234,7 @@ io.airlift	jetty-memory	330		ba188f08eec57d42cddecb87dda588d2c3e5807f
 io.airlift	jetty-memory	331		43d4e15d72017b90418c5ad422db42ec5b059c7a
 io.airlift	jetty-memory	332		fbc12d1340f15411d1c43be082f39f5515fce053
 io.airlift	jetty-memory	333		1395bbdb1074767d796f62d53dc716b3394338dc
+io.airlift	jetty-memory	334		da2d18d20b74d87d26597c037691be23918ec7cf
 io.cucumber	gherkin-jvm-deps	1.0.4		ab5990bf8596b504ea6618fcf2e5192d4488440e
 io.cucumber	gherkin-jvm-deps	1.0.6		0b4cdd364d3354016f1253e0c140cd077309e30e
 io.evitadb	evita_external_api	0.10.1		N/A
@@ -2036,6 +2047,7 @@ org.wildfly.security	wildfly-elytron-mechanism-scram	2.1.0.Final		95b3cea82478de
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.2.0.Final		0f18cdcc43aca44b073a24d3e3193d59f64f5ac1
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.2.1.Final		6e71f1e7af917c04a5bdfb69edb60816cf77d493
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.2.10.Final		e76f92f73e30c9633f598199f509bc7ed696f169
+org.wildfly.security	wildfly-elytron-mechanism-scram	2.2.11.Final		816d1a8189af78802f49dc194bb94f47d35a9443
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.2.2.Final		686522e1da6dbbd5b39aa243ebbc4238db1ed535
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.2.3.Final		4b706acc54df05052aa9388fcf124ea55c40be95
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.2.4.Final		a34ce098c7374f3187e711d8ad0a49032c286064
@@ -2058,6 +2070,7 @@ org.wildfly.security	wildfly-elytron-mechanism-scram	2.6.0.Final		fbeef1c08ee753
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.6.1.Final		f1f2af35663e4e222417e734d6c6affcc1f49603
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.6.2.Final		b905c24ae0a7f9a75961bd6153e0654ce18ae746
 org.wildfly.security	wildfly-elytron-mechanism-scram	2.6.3.Final		824194d8c8d78754d417e3ca619c127191487f07
+org.wildfly.security	wildfly-elytron-mechanism-scram	2.6.4.Final		029bc6157a00a55d88f43e0d9c8f1b883e1e5793
 pro.flashup	commons-watchosarm32	3.0.0		N/A
 pro.flashup	commons-watchosarm32	3.0.0	metadata	08d5350187029f604d2a78d59890368d54b20b55
 pro.flashup	commons-watchosarm32	3.0.1		N/A

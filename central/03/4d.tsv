@@ -98,6 +98,8 @@ com.atlassian.prosemirror	collab-iosarm64	1.1.4		N/A
 com.atlassian.prosemirror	collab-iosarm64	1.1.4	metadata	712df3f98d638beecfb7c2ff1ffbf9de70efbeb6
 com.atlassian.prosemirror	collab-iosarm64	1.1.5		N/A
 com.atlassian.prosemirror	collab-iosarm64	1.1.5	metadata	c5044433bc8e7eb4574a1303a3645eaec564551c
+com.atlassian.prosemirror	collab-iosarm64	1.1.8	metadata	95c987abc57efc318650191d9e624205dd347f87
+com.atlassian.prosemirror	collab-iosarm64	1.1.9	metadata	b803c1f09010e1cc52f265dddae6d84813e0da0d
 com.daml	ledger-configuration_2.13	1.16.0		a19d89b4d35dfdd33520fd7ef4a17f821ed6f15c
 com.daml	ledger-configuration_2.13	1.16.0-snapshot.20210720.7404.0.b7cf42d1		d20e154f4c9f876a973abb5ecf963f79e9e7bf99
 com.daml	ledger-configuration_2.13	1.16.0-snapshot.20210727.7476.0.b5e9d861		a19d89b4d35dfdd33520fd7ef4a17f821ed6f15c
@@ -666,6 +668,8 @@ com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.63.0		1dcf9fa
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.64.0		a3dcaa3d0c5c54acb5e39e1c7db5f88b8897e242
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.65.0		5596456ccc887fdedd025038d4b86f124ffb1530
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.66.0		89aeca30e56cc3f80712d4c3a24ebb7e741595cc
+com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.67.0		437e8104e419591662ea8f19dbac502b39ebeecc
+com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.68.0		e50a935de7c45ca2f9e99267df821d5815a6d106
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.7.0		96d2c8d04a377234e3d2bb49fe5521b17ab3ca5e
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.7.1		1e3a054a0dd01b51c057f6f0d034e8086cd5dbd2
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1alpha	0.8.0		b38d7a820bd231b621f0e1a5913c6b5266bc6036
@@ -1632,6 +1636,7 @@ io.quarkus	quarkus-rest-client-config	3.15.2		2f83e096c4c1685d201d84ec01395be4e6
 io.quarkus	quarkus-rest-client-config	3.15.3		ace2a4fb15cd231194b32e76429ab357677ae2d5
 io.quarkus	quarkus-rest-client-config	3.15.3.1		63e077cc28c5c75f7bf9b29b01aa7afd511447ac
 io.quarkus	quarkus-rest-client-config	3.15.4		d45530c50411518bfa207a37889f3a4dbbf32636
+io.quarkus	quarkus-rest-client-config	3.15.5		ac779cab2ee413e2cdd903e437535ac18dd2e0de
 io.quarkus	quarkus-rest-client-config	3.16.0		6dcd7df4f6ae492a851e4350b2b89c020f05c836
 io.quarkus	quarkus-rest-client-config	3.16.0.CR1		c9656d9d00d10877a243a118cb9e7861f77c6b55
 io.quarkus	quarkus-rest-client-config	3.16.1		e94757a0b419cc9f84e8ec765b2fb4413acfc7d1
@@ -1676,6 +1681,7 @@ io.quarkus	quarkus-rest-client-config	3.2.8.Final		2c1e0b933d76e4d70c8f13a4b4a8b
 io.quarkus	quarkus-rest-client-config	3.2.9.Final		37206e9f724b1cdd8524e4e9b74a06bd14ad5fdb
 io.quarkus	quarkus-rest-client-config	3.20.0		630bde6b9a4fc92fa261f537abfce1823945ef82
 io.quarkus	quarkus-rest-client-config	3.20.0.CR1		35fb7a75334671b6717cdfc256e307c5a9234c9e
+io.quarkus	quarkus-rest-client-config	3.20.1		8785885dbac54ffb10dad910475701175d1d4420
 io.quarkus	quarkus-rest-client-config	3.21.0		00a469aec1871173496435c40b7080f4cbf4dcff
 io.quarkus	quarkus-rest-client-config	3.21.0.CR1		2366460eb5ec90736b0743c2c05ba7e8933b6feb
 io.quarkus	quarkus-rest-client-config	3.21.1		3a63ee69837d8b28d48620a0f6cf1f3055738bf4
@@ -1685,6 +1691,9 @@ io.quarkus	quarkus-rest-client-config	3.21.4		03c6027775f3e1fa16c90d3538e4206ee1
 io.quarkus	quarkus-rest-client-config	3.22.0		34ef746289b1eb53ac35530685368817f3c1e52c
 io.quarkus	quarkus-rest-client-config	3.22.0.CR1		d70175a7d982c43c1ff5a4551648258469ebf49a
 io.quarkus	quarkus-rest-client-config	3.22.1		1abb44724a2c880f03c8ca1ba1921972ca51767f
+io.quarkus	quarkus-rest-client-config	3.22.2		6808e2c2dc7bb003c55d73445f32b1cd993f50cb
+io.quarkus	quarkus-rest-client-config	3.22.3		ad2081dc8359afc6f0401d95ca1e6fe3845ef997
+io.quarkus	quarkus-rest-client-config	3.23.0.CR1		983058b4317c0b8aa50c486df898f71baed37f2b
 io.quarkus	quarkus-rest-client-config	3.3.0		57213985a8c4a4941a51a5d629014b6eb1e84b89
 io.quarkus	quarkus-rest-client-config	3.3.0.CR1		76add1b0846cb20691f21316f9c45e9b25a108e6
 io.quarkus	quarkus-rest-client-config	3.3.1		8d01c5efb0268a4261d21dff9d1a7dd4cda8b7c3
@@ -1880,3 +1889,7 @@ tz.co.asoft	raven-email-agent-mailgun-macosx64	3.0.14		N/A
 tz.co.asoft	raven-email-agent-mailgun-macosx64	3.0.14	metadata	344d39a9aae0efb5084809e1584c4e395cae844f
 tz.co.asoft	raven-email-agent-mailgun-macosx64	3.0.15		N/A
 tz.co.asoft	raven-email-agent-mailgun-macosx64	3.0.15	metadata	72c6a5957f7a5e2b836ee2cf98ad9c6f8fd15ee1
+tz.co.asoft	raven-email-agent-mailgun-macosx64	3.1.0	metadata	76d5647a361e9fb4f938de970e13edb70b2c2297
+tz.co.asoft	raven-email-agent-mailgun-macosx64	3.1.1	metadata	5e765b6b1271f393d51019f7546fa66df39f2e96
+tz.co.asoft	raven-email-agent-mailgun-macosx64	3.1.11	metadata	fc339a1b9898af799107787228bd4c710559aac2
+tz.co.asoft	raven-email-agent-mailgun-macosx64	3.1.12	metadata	023f987852b6ed36bc8be6ee9fabe70250b57a4b

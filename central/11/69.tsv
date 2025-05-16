@@ -812,6 +812,7 @@ de.sonallux.spotify	spotify-web-api-java	4.3.1		2a7011a1a5ed9cf77f54b123990dbf79
 dev.galasa	dev.galasa.wrapping.kafka.clients	0.38.0		dde8861470592beda8c28962cfa681eff63ab7a7
 dev.galasa	dev.galasa.wrapping.kafka.clients	0.39.0		9636a26d46395b7131aeb28ef35cc723d13c6b04
 dev.galasa	dev.galasa.wrapping.kafka.clients	0.40.0		8dbac1d88b67ea89c36622c5744e9025c5ac410c
+dev.galasa	dev.galasa.wrapping.kafka.clients	0.41.0		1761ba8cb374572e9eb0835b7b5a35d0ca331fe0
 dev.nesk.akkurate	akkurate-kotlinx-datetime-watchosdevicearm64	0.10.0		N/A
 dev.nesk.akkurate	akkurate-kotlinx-datetime-watchosdevicearm64	0.10.0	metadata	8c8f173ef41d0356642e89dd1122f20b0654170a
 dev.nesk.akkurate	akkurate-kotlinx-datetime-watchosdevicearm64	0.11.0		N/A
@@ -1123,6 +1124,7 @@ io.sentry	sentry-apache-http-client-5	8.10.0-alpha.1		7e131ba109bf58de3580c81db2
 io.sentry	sentry-apache-http-client-5	8.11.0		a159bb83148759047ce6ddc461717700304a9d1d
 io.sentry	sentry-apache-http-client-5	8.11.0-alpha.1		b8b17791d8771a6751cfdf5c183c350b7cd6d667
 io.sentry	sentry-apache-http-client-5	8.11.1		27579ab55b5a56ec7001eec476e6bfc8edfc5d96
+io.sentry	sentry-apache-http-client-5	8.12.0		d369f4ef3725eef15f375e4347d70bb579fc3fe8
 io.sentry	sentry-apache-http-client-5	8.2.0		30b0e4e9526193ac13dddad237e4f0d5c7ef48bb
 io.sentry	sentry-apache-http-client-5	8.3.0		a6ce02d07e66d68417a2369a666a6d8d7f96b29f
 io.sentry	sentry-apache-http-client-5	8.4.0		f4fc7ed642ead2b3ed76de9904514eeb0b65dc65
@@ -1263,6 +1265,7 @@ org.apache.maven.resolver	maven-resolver-util	1.9.2		50fe5fafd7f565e9ad9a821f946
 org.apache.maven.resolver	maven-resolver-util	1.9.20		a1f2b661b14dec2f1644c501e0657ed46459bac0
 org.apache.maven.resolver	maven-resolver-util	1.9.21		d86dd0b34a14f1e60283ad513ab861fca0b617b5
 org.apache.maven.resolver	maven-resolver-util	1.9.22		d5febed69ca2fe0dacffec95b6cb0760b0270fd1
+org.apache.maven.resolver	maven-resolver-util	1.9.23		1f5a34b81bddfc5d1200610819ce569c84591318
 org.apache.maven.resolver	maven-resolver-util	1.9.4		d8e8476fffba77d4fc193b60cff03e414c78a580
 org.apache.maven.resolver	maven-resolver-util	1.9.5		4f63da64b72a1a18aef9255ac2c84635615eee87
 org.apache.maven.resolver	maven-resolver-util	1.9.6		a8dc276103f62f80ca4ee4fa9e09a3805dc4c438
@@ -1764,10 +1767,17 @@ org.finos.legend.engine	legend-engine-server-support-core	4.79.0		e696f087972ec9
 org.finos.legend.engine	legend-engine-server-support-core	4.80.0		ab7b7d653faeb7b1c8add9c0dfeca06b8d3fc9d3
 org.finos.legend.engine	legend-engine-server-support-core	4.81.0		d565fe6f7ae98a88d9bf4f950d47d4cc785a9fb7
 org.finos.legend.engine	legend-engine-server-support-core	4.82.0		7ae6fbaa82ad6feb66bf6de789df6d5bd515c4b0
+org.finos.legend.engine	legend-engine-server-support-core	4.82.1		e4207aca01a957e79c32e5c7289702e46f50364f
 org.finos.legend.engine	legend-engine-server-support-core	4.83.0		4b0f83067f644e036bf31875a6fe6d4e70d05723
 org.finos.legend.engine	legend-engine-server-support-core	4.83.1		8b99d70b59d8456f1bea71a902e001c60b7eec2b
 org.finos.legend.engine	legend-engine-server-support-core	4.83.2		1e175643c61a5ddbcf00c68684fbc7b06284868e
 org.finos.legend.engine	legend-engine-server-support-core	4.83.3		3168e273982756eecb8e40bdcb0779f1ccb783ac
+org.finos.legend.engine	legend-engine-server-support-core	4.84.0		8508298ba57d52e9aa122b219a2d968dbd7a0436
+org.finos.legend.engine	legend-engine-server-support-core	4.84.1		d4cf93f702384039e188276ae399cf48ab42fd26
+org.finos.legend.engine	legend-engine-server-support-core	4.85.0		41d71dc137540dc259c182fe460506c2b0771b66
+org.finos.legend.engine	legend-engine-server-support-core	4.85.1		92ae7335a1bf82c1894c73c0b67f847053f25e9d
+org.finos.legend.engine	legend-engine-server-support-core	4.85.2		950484486033a14d9737b76eeadf0fc7c4b7e872
+org.finos.legend.engine	legend-engine-server-support-core	4.85.3		d34ebdb1938579f459aeff1762d7039983888ae1
 org.fujion	fujion-icons-test	2.0.0		5c02dd6e5d3adc8505b2dc55d48e9e5c1af13fce
 org.fujion	fujion-icons-test	2.0.0-RC4		44ad0ffb22387a3371e018f10ba95a8a716cdd0a
 org.fujion	fujion-icons-test	2.0.0-RC5		a8a67ed2b8b7892156284ea2201f125eb88e8460
@@ -1928,6 +1938,7 @@ org.sonarsource.sonarqube	sonar-xoo-plugin	25.1.0.102122		43822f82ae407b9715c940
 org.sonarsource.sonarqube	sonar-xoo-plugin	25.2.0.102705		ff5fd2e50a11050da5c7feb64c9adcd778187781
 org.sonarsource.sonarqube	sonar-xoo-plugin	25.3.0.104237		49af5099fc7251a687767073dc98f423afe6a9ee
 org.sonarsource.sonarqube	sonar-xoo-plugin	25.4.0.105899		2b1b6319fad5c036961aaf30bb002f8d4e509a8b
+org.sonarsource.sonarqube	sonar-xoo-plugin	25.5.0.107428		64250dc0e3c6b170e2870160e788d444f9306517
 org.sonarsource.sonarqube	sonar-xoo-plugin	5.2		efdec47a41d68796d92c8642c29fd6242438de79
 org.sonarsource.sonarqube	sonar-xoo-plugin	5.2-RC2		ac7739407935452eb29c2d5fb0813d71f86cc579
 org.sonarsource.sonarqube	sonar-xoo-plugin	5.2-RC3		28ebf1caca6e79a63978d4f6ef4e7c239001d1ea

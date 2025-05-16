@@ -8,6 +8,7 @@ cloud.piranha.extension	piranha-extension-handlestypes	25.1.0		65e2606f738e7e536
 cloud.piranha.extension	piranha-extension-handlestypes	25.2.0		a20ff077ac9da0aebe53e0fd717fe6f06b8614d0
 cloud.piranha.extension	piranha-extension-handlestypes	25.3.0		e39b87a73e994e5d614d55860342a6adeedf3cad
 cloud.piranha.extension	piranha-extension-handlestypes	25.4.0		51d04aa993f811f4be724316bd63b12262ac75ac
+cloud.piranha.extension	piranha-extension-handlestypes	25.5.0		25d3f4af8b9f82cf826f1049fc0635cf6c0bc03c
 cn.com.antcloud.api	antcloud-api-fairopennet	1.0.3		7f03a56d31e69bdfc9e69f4aa09bf7cb2f5cef74
 cn.com.antcloud.api	antcloud-api-fairopennet	1.0.4		ad7ef165b116b235348561636d627b570763b9b1
 cn.com.antcloud.api	antcloud-api-fairopennet	1.0.5		dfcbae3462a00309c5715db2d986eb51129adb1a
@@ -38,6 +39,7 @@ com.appstractive	supertokens-sdk-common	1.4.3		2a1ee5ec49e841991a3dffae7d76f0c23
 com.azure	azure-cosmos-test	1.0.0-beta.1		568d9d4d975181ba7a149d296d3045b972086c08
 com.azure	azure-cosmos-test	1.0.0-beta.10		91d78111e10db4385fe0e9722029c23c48bf0814
 com.azure	azure-cosmos-test	1.0.0-beta.11		b6e714c233dffb55f50afeb023cb81935745df03
+com.azure	azure-cosmos-test	1.0.0-beta.12		6815b1c353bad1319b2734f03dab6899bf956d7c
 com.azure	azure-cosmos-test	1.0.0-beta.2		49f746f4a2e8ceaaf168ca157787460de3fcde9e
 com.azure	azure-cosmos-test	1.0.0-beta.3		62455c1ed6c32df1d01473119a74c248df5bc42f
 com.azure	azure-cosmos-test	1.0.0-beta.4		4443a076ae41767d1d2774ae3aa941fceeb0eab4
@@ -670,6 +672,7 @@ dev.zio	zio-aws-cloudformation_2.13	7.31.27.1		c3fe888ab5213d7153ebd3093fedeb2b9
 dev.zio	zio-aws-cloudformation_2.13	7.31.28.1		8ce88bcdd11efb599b68a22e74272a615653b713
 dev.zio	zio-aws-cloudformation_2.13	7.31.3.1		8a89213167772f6120da430b63746da91af9e302
 dev.zio	zio-aws-cloudformation_2.13	7.31.30.1		f786c015405785384e51ee1e5327e1f577d6a14b
+dev.zio	zio-aws-cloudformation_2.13	7.31.30.2		70b92a3dbc2277d2747efdeb83bc7f327f5572e2
 dev.zio	zio-aws-cloudformation_2.13	7.31.4.1		6bc8dd4b42267de7e5cd70741934535e7c190736
 dev.zio	zio-aws-cloudformation_2.13	7.31.6.1		a41275c35076479d0e6bf80fa93c3364da3e478b
 dev.zio	zio-aws-cloudformation_2.13	7.31.6.2		41d8d4f175ce6fa979090a51e0740714a45b0a00
@@ -985,6 +988,8 @@ io.ktor	ktor-client-content-negotiation-tvossimulatorarm64	3.1.1		02826e74d544cf
 io.ktor	ktor-client-content-negotiation-tvossimulatorarm64	3.1.1	metadata	9be6ea192ccbdd8b01dd7e53dd0e09ca45a289ed
 io.ktor	ktor-client-content-negotiation-tvossimulatorarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-content-negotiation-tvossimulatorarm64	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-client-content-negotiation-tvossimulatorarm64	3.1.3		42c1d46b57f6af51154300634c3d44166f9e96cf
+io.ktor	ktor-client-content-negotiation-tvossimulatorarm64	3.1.3	metadata	b78e96cfd7f21879f920e83b6f06d5ab1983cd8f
 io.ktor	ktor-server-core-wasm-js	3.0.0		N/A
 io.ktor	ktor-server-core-wasm-js	3.0.0-rc-1		N/A
 io.ktor	ktor-server-core-wasm-js	3.0.0-rc-2		N/A
@@ -2039,6 +2044,7 @@ io.streamnative	pulsar-io-aerospike	4.0.1.2		85e34640ab1805b1d197c6d2fc251838f09
 io.streamnative	pulsar-io-aerospike	4.0.1.3		bc900de72b8eaefaae8bffb328da2cdc2c8ff6b2
 io.streamnative	pulsar-io-aerospike	4.0.1.4		4d35554cd169cba0c2cf068f082998ad280f9d12
 io.streamnative	pulsar-io-aerospike	4.0.3.1		e0da3fe83e0da311b5240b259fb57c162587ad44
+io.streamnative	pulsar-io-aerospike	4.0.4.2		079a2bf5f29d495ef23a70a4f3cffcf72fe8b62a
 io.streamnative	pulsar-io-aerospike	master-rc-daily		df1e7701e0e9c5dcbf32d7a03fb03a881eb21dde
 io.streamnative	pulsar-io-aerospike	v2.8.0-rc-202106091140		18922c6343ad1bff9ba40aad65e871aeacdab620
 io.streamnative	pulsar-io-aerospike	v2.8.0-rc-202106121853		3d11ef77b0ccfb21444228c4f3715613f602b237
@@ -2442,6 +2448,7 @@ org.wildfly.security	wildfly-elytron-jose-jwk	2.1.0.Final		7102ee07681dfc05cda96
 org.wildfly.security	wildfly-elytron-jose-jwk	2.2.0.Final		6ae90a7ef1c9fbae9a7384407db26ece4a260e98
 org.wildfly.security	wildfly-elytron-jose-jwk	2.2.1.Final		b48acb30a1f340bc728edf798ff0658711595e23
 org.wildfly.security	wildfly-elytron-jose-jwk	2.2.10.Final		1a838dfcaf4e0a01b003b49f1ecfc2c667093946
+org.wildfly.security	wildfly-elytron-jose-jwk	2.2.11.Final		fe650da703b65cd69cf053efe02f238a66fa3ba5
 org.wildfly.security	wildfly-elytron-jose-jwk	2.2.2.Final		98170932ad7eb314b99c86212cb1f26923fa6d6f
 org.wildfly.security	wildfly-elytron-jose-jwk	2.2.3.Final		e6e7ccf1c7e84774961587a0227c7065d5b89ab9
 org.wildfly.security	wildfly-elytron-jose-jwk	2.2.4.Final		cbd00c3d49303d329a82f51ec4c9a53f6a39d7e1
@@ -2464,6 +2471,7 @@ org.wildfly.security	wildfly-elytron-jose-jwk	2.6.0.Final		0f21b787a8f88fe607be1
 org.wildfly.security	wildfly-elytron-jose-jwk	2.6.1.Final		9136518259f9cbad392df6b3f65244d98cbdb19a
 org.wildfly.security	wildfly-elytron-jose-jwk	2.6.2.Final		cc0a35c323698d832b509e66e4be6c9d82a9b231
 org.wildfly.security	wildfly-elytron-jose-jwk	2.6.3.Final		775c1e1f4475cc5738bdde25056d2a2e576dc04d
+org.wildfly.security	wildfly-elytron-jose-jwk	2.6.4.Final		befd53234beaf5f7f4dad4536fa276ada3f10ca6
 org.wvlet.airframe	airframe-config_2.13.0-M5	0.72		9b9d8d0b003c2f2c0d5f355c54082f5b8be185c8
 org.wvlet.airframe	airframe-config_2.13.0-M5	0.73		0455dd0a1f9fa53229ae2daf7461e712842168fc
 org.wvlet.airframe	airframe-config_2.13.0-M5	0.74		a6b942fd274df394719bd1f03cbdc31d457a13ac

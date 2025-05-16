@@ -733,6 +733,7 @@ io.camunda	zeebe-process-test-extension	8.4.15		2372cb0e77825e315024d40652d72433
 io.camunda	zeebe-process-test-extension	8.4.16		1e0470607ebef61e0d0d80a125ae1d7f1ac61978
 io.camunda	zeebe-process-test-extension	8.4.17		85dcdc7958c64d37108605c365d15d625ce580b5
 io.camunda	zeebe-process-test-extension	8.4.18		572ba1ffd7a65ba616782ef498b6ba9bbbc3aca2
+io.camunda	zeebe-process-test-extension	8.4.19		ecbe137a0e7f4b05d471a628a38b7efcd4d8750e
 io.camunda	zeebe-process-test-extension	8.4.2		e87b8bfea1db54f2cb5a23f388047e8bc9543fa5
 io.camunda	zeebe-process-test-extension	8.4.3		b0a968b863ccdd23927fae1b02234fe1fffd2757
 io.camunda	zeebe-process-test-extension	8.4.4		6e75f319126f31419b90b3ccd73c647d52e14ae2
@@ -753,6 +754,7 @@ io.camunda	zeebe-process-test-extension	8.5.14		43b926f608a08be99a11e800528a9f89
 io.camunda	zeebe-process-test-extension	8.5.15		3a5fa1e0dc55313cb1a32760002c3e2e13510c49
 io.camunda	zeebe-process-test-extension	8.5.16		81c6f22aeae811384f6d25fd6373307ae53ea4ff
 io.camunda	zeebe-process-test-extension	8.5.17		0c487ec49608f8b9be7983de6ae7767c71fc0482
+io.camunda	zeebe-process-test-extension	8.5.18		b2f080f8bb9f49c0fe05190aefc905e71f5cedd0
 io.camunda	zeebe-process-test-extension	8.5.2		94a32bd0ff57dd83e85ccfc6012549b9bc477325
 io.camunda	zeebe-process-test-extension	8.5.3		1bf620ea78ce2e63ff9ac77802e26c0386156137
 io.camunda	zeebe-process-test-extension	8.5.4		65536e451e51ad4e89fc8623e1c90b124754e120
@@ -787,6 +789,8 @@ io.camunda	zeebe-process-test-extension	8.6.12-rc1		5f82faed8e69ae536bccc742dd37
 io.camunda	zeebe-process-test-extension	8.6.13		2a4f2c512b242e8210b22e8a3b4368613a7881a2
 io.camunda	zeebe-process-test-extension	8.6.14		031a608cf19bce3ec649dc2750d081375b38d431
 io.camunda	zeebe-process-test-extension	8.6.14-rc1		ca06985cd90308c204e34594f28b64099cc3e125
+io.camunda	zeebe-process-test-extension	8.6.15		b58e7a800b9194a22430b7696f8707f96e53b447
+io.camunda	zeebe-process-test-extension	8.6.15-rc1		1f63c5f1aa68cbcd4f383de4c48bbc3fe70e215b
 io.camunda	zeebe-process-test-extension	8.6.2		0a15fff491d81867be49d479eb0970e74268784b
 io.camunda	zeebe-process-test-extension	8.6.3		c623f6d15dc4b962fd444a32d4c1393a69109e57
 io.camunda	zeebe-process-test-extension	8.6.4		72202f08f4fcae63a141d942069cc32399797835
@@ -821,11 +825,14 @@ io.camunda	zeebe-process-test-extension	8.7.0-alpha5-rc1		7c333182d794899a6a9bba
 io.camunda	zeebe-process-test-extension	8.7.0-rc3		8460d3eeec6d1d8630082bac55e4df28ba10736f
 io.camunda	zeebe-process-test-extension	8.7.1		e3530ebb66a69046ec33e720af1b71d806749c6f
 io.camunda	zeebe-process-test-extension	8.7.1-rc1		a7649223885fc8837e33a25bc893cbecf2150dee
+io.camunda	zeebe-process-test-extension	8.7.2		6942d26dcba87c83c199882baba7c3a3071fd273
+io.camunda	zeebe-process-test-extension	8.7.2-rc1		1bbed4de7c3a09b2f0f57fd9ce8015ae80c8bb7e
 io.camunda	zeebe-process-test-extension	8.8.0-alpha1-rc1		d957bac0b602e56892dab8dc8c82fea5d0e9d1e9
 io.camunda	zeebe-process-test-extension	8.8.0-alpha2		4165f81dfe96887bd26ed25ef4e297102353cf97
 io.camunda	zeebe-process-test-extension	8.8.0-alpha2-rc1		42a56cb462ddba100ce7785198a4debce558019b
 io.camunda	zeebe-process-test-extension	8.8.0-alpha3		3267752eed750145b3a82f576b4ca7ef04b436b5
 io.camunda	zeebe-process-test-extension	8.8.0-alpha3-rc3		a2294a95687a021ba24af577225b46ca33a94cf8
+io.camunda	zeebe-process-test-extension	8.8.0-alpha4		c416a989429e88e5c594773729e41ea2a22740fd
 io.camunda	zeebe-process-test-extension	8.8.0-alpha4-rc1		a9d75b921fa004b49eb41e1850e092a8d47fc84a
 io.github.cooperlyt	uid-generator-jpa-r2dbc-spring-boot-starter	1.0.5		85cacf117d621f4d5a4a29addc5cb9de2f217c50
 io.github.kdroidfilter	gplayscrapper-macosarm64	0.1.5		N/A
@@ -890,7 +897,11 @@ io.smartup.zipkin	zipkin-datadog-reporter-starter	1.0.7		182f499ddaa7509d91595da
 io.smartup.zipkin	zipkin-datadog-reporter-starter	1.0.9		6d5cfcb41f05e689631034f975ca8a0422bbd4c4
 io.spinnaker.orca	orca-queue	2025.0-0		c8507179230e9382bb50af8f534fc9b3fe813c18
 io.spinnaker.orca	orca-queue	2025.0-1		ee354f3f95d3cb2091c099088e44fcd00dec94ef
+io.spinnaker.orca	orca-queue	2025.0-2		c4936e7ff6ec98732b20ef6cb896eb14ecf5531d
+io.spinnaker.orca	orca-queue	2025.0-3		3cdde426daee5fc7b4979cece2668f46d50dfd14
+io.spinnaker.orca	orca-queue	2025.0-4		31e8ac4ef662f248687f4476904bcabdc372190c
 io.spinnaker.orca	orca-queue	2025.0.0		bca40995d326fa120deb79dfc8967827319f2f3d
+io.spinnaker.orca	orca-queue	2025.0.1		b73e832f8c7592886e16323977fa7b0792356cb1
 io.spinnaker.orca	orca-queue	8.15.0		ac6be0d606431988018d9fef6f3c82cb1de4d3c9
 io.spinnaker.orca	orca-queue	8.16.0		a48d0d43b76674ff5f1dec95468df6ad06e9dbdf
 io.spinnaker.orca	orca-queue	8.17.1		87f83fa1236f662e3572d12851a406f3c879a469
@@ -982,10 +993,14 @@ io.spinnaker.orca	orca-queue	8.61.2		693051a18f03d10367ec5c023614ccd7cbf394a0
 io.spinnaker.orca	orca-queue	8.62.0		7b88a4938ce7c99f6a33eeb23c247a355cedd194
 io.spinnaker.orca	orca-queue	8.63.0		2673151b36643fcb8ac5f0782e074331ad1d766f
 io.spinnaker.orca	orca-queue	8.64.0		13460b8d7970a67cc1ee2c71428c066cac9ac0e6
+io.spinnaker.orca	orca-queue	main-10		f3e56138f8759b295f186b18dc089df170ac7860
+io.spinnaker.orca	orca-queue	main-11		9ba039c3b91b6578fd6165f8c4222f1041d519b6
+io.spinnaker.orca	orca-queue	main-12		006f85c2e9f071642b9074c227850e7d24f02634
 io.spinnaker.orca	orca-queue	main-5		1918f1ec7d8bfedbeb27eb906297f6cf884e0477
 io.spinnaker.orca	orca-queue	main-6		644e1eede30702117bdf740606975aa12051ef9a
 io.spinnaker.orca	orca-queue	main-7		64e0783fc56eb656578d026108cf53c161536017
 io.spinnaker.orca	orca-queue	main-8		00113b07af807ce3cb3156a3a659b5949cf1f407
+io.spinnaker.orca	orca-queue	main-9		53176bc378901c8449a4dca8a5aa50163a8c692b
 love.forte.simbot.boot	simboot-core-springboot-starter	3.0.0.preview.0.5		85550f8aa7062547f3477ba6ff9c46079d02c1c2
 love.forte.simbot.boot	simboot-core-springboot-starter	3.0.0.preview.0.6		f21760e280424fa654cb9e25fadc08d1e272014c
 love.forte.simbot.boot	simboot-core-springboot-starter	3.0.0.preview.1.0		ee4d4146804a004a41734a3754e534024d5e5bf9

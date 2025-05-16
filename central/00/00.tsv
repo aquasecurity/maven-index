@@ -342,6 +342,7 @@ com.google.api.grpc	grpc-google-cloud-storage-control-v2	2.50.0		cfe2c3dadb3c4a9
 com.google.api.grpc	grpc-google-cloud-storage-control-v2	2.51.0		1fab67329d5403d418f0d5301926bee532128188
 com.google.api.grpc	grpc-google-cloud-storage-control-v2	2.52.0		076f5c07009db3bbd0f970bfe6c7c06daba736f3
 com.google.api.grpc	grpc-google-cloud-storage-control-v2	2.52.1		c60b792ffa300610e3c7932154a5adc3daea9290
+com.google.api.grpc	grpc-google-cloud-storage-control-v2	2.52.2		d484bbfc1d7c9e840c1362951e10fbeabc67d400
 com.googlecode.flyway	flyway-commandline-largetest	1.4		54de8836cdf9ac36f76b5a04b8b4a86a7ef16aa2
 com.googlecode.flyway	flyway-commandline-largetest	1.4.1		e1fafa8dceff241e3c43e6c0b9f5f1b585caf33c
 com.googlecode.flyway	flyway-commandline-largetest	1.4.2		16e815f47612a1367e3b1a60c57905d044d0077c
@@ -633,6 +634,7 @@ dev.zio	zio-test-scalacheck_3	2.1.14		aaa8d7864a6b73f82783adb0a71fd7fd13333e02
 dev.zio	zio-test-scalacheck_3	2.1.15		eef9ac159e6440296c1eb3cb252c73264440a0bd
 dev.zio	zio-test-scalacheck_3	2.1.16		912b190dc8f77b24439232415366f71de3aa9989
 dev.zio	zio-test-scalacheck_3	2.1.17		4a41f50434be34d4701d521d78cfd2427456d764
+dev.zio	zio-test-scalacheck_3	2.1.18		910bcd3d01f4447b3728e597c3abec88c566261e
 dev.zio	zio-test-scalacheck_3	2.1.2		ad08a507b2fee23dbe9e853ecef641ea93cd0d0b
 dev.zio	zio-test-scalacheck_3	2.1.3		43e070240afbd22a731a2110d996d0c7bc10335d
 dev.zio	zio-test-scalacheck_3	2.1.4		03a18138e4d3868645da29c6359e17bc1c33eadd
@@ -1174,10 +1176,17 @@ org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.80.0		28837c2fd053bb8d22b0eaf42b4982eaea177d74
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.81.0		b0b369bf43273564ddca84d92afe60bd3bc6ec7b
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.82.0		35b766c41c25b196793347831b8ee3bd8aa4fd78
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.82.1		150ba24965b8f1d784c982308ac1687cb500c50d
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.83.0		3ed3a4d4038fd8dcf1564395e65592e1fccf533e
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.83.1		3b30fc1fe5b236dcb34c8dfc1ee026f45e7f3374
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.83.2		0c1c12ad47693c7aea73f9128002eab6eb554265
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.83.3		4770d233da82b90e2d40d1bea4894ce0927940d5
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.84.0		d8688ca607242775f8eac4e1add08a7ea528b37d
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.84.1		563b703f142fe9d2488eb8b3c4d8e0a809c7a86f
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.85.0		ed01f78a085a1776dd013eeb3e5d64b7ae6f0813
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.85.1		6c6ee75bfa362143c299771c53eb11e65b5ad733
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.85.2		4914ada68f884fd5b35365ecb6f11d9f8e129a67
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.85.3		b64679ef9fed93e04f4b807e45ab3266e727ffe8
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-memsql	4.9.0		13f10b85c72ba6ac4fdcb2dd8efa9fde571ef29a
 org.ifinalframework.data	final-data-sharding	1.2.0		7c66e3cdbac2ac4d57f9428061888032db68f6d0
 org.ifinalframework.data	final-data-sharding	1.2.0-alpha		efd2c9c95e8730bad6db2e1103d3705ad9fb990d
@@ -4172,4 +4181,8 @@ tz.co.asoft	nation-currencies-watchosarm32	3.0.14		N/A
 tz.co.asoft	nation-currencies-watchosarm32	3.0.14	metadata	90f75e7d7ac20fbef550d6dd2c1d6d6e79ed8780
 tz.co.asoft	nation-currencies-watchosarm32	3.0.15		N/A
 tz.co.asoft	nation-currencies-watchosarm32	3.0.15	metadata	e7371a96a5d11d665055c2c95d128f8c47f30afd
+tz.co.asoft	nation-currencies-watchosarm32	3.1.0	metadata	8a2c09927b9654a994591b08a6b72f4d7fbae80f
+tz.co.asoft	nation-currencies-watchosarm32	3.1.1	metadata	b3d7d7967cc6ca9508cd6d2d18b3a799018fee4f
+tz.co.asoft	nation-currencies-watchosarm32	3.1.11	metadata	8c2e24cb4486f4957d21802d8fd634706bdcf38f
+tz.co.asoft	nation-currencies-watchosarm32	3.1.12	metadata	06d82d36845791ad6410628d5681e22d38b30bc7
 us.ihmc	jimObjModelImporterJFX	0.8		bdf8bd39b0b82267ddeffd41f312429a84a4fe9a

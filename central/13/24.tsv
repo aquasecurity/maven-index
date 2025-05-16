@@ -648,6 +648,9 @@ com.palantir.gradle.jdks	gradle-jdks-settings	0.61.0		ce80a00780b2a9f171b132ab24
 com.palantir.gradle.jdks	gradle-jdks-settings	0.62.0		491991b77e4361cdc7a92a880bf35da5301e13af
 com.palantir.gradle.jdks	gradle-jdks-settings	0.63.0		0542a2c1ae825e5fcdc5280d05c5ed2a1f3a30a8
 com.palantir.gradle.jdks	gradle-jdks-settings	0.64.0		3cda38dc006837d41bed40073899040f79819bc3
+com.palantir.gradle.jdks	gradle-jdks-settings	0.65.0		9412dab92b6ceddad19a522c847bd25a89f53932
+com.palantir.gradle.jdks	gradle-jdks-settings	0.66.0		3a5cecbf4daf8e70a88275d59eecc5dadbc35f04
+com.palantir.gradle.jdks	gradle-jdks-settings	0.67.0		b035f92a7d14138ddcabe1b5bc698bfea6b7b134
 com.pig4cloud.plugin	datav-security-pig-login-plugin	1.1.13		6967e3289d83f2a483b2a416db12b269c6f7ef70
 com.pig4cloud.plugin	datav-security-pig-login-plugin	1.1.14		02c08a2f0b374db3f6ff477775c82349957bd432
 com.pig4cloud.plugin	datav-security-pig-login-plugin	1.1.15		e02a666b82c0073dfb1757d5c3a50cf34145d749
@@ -1065,6 +1068,7 @@ org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.2.1		3c7c76f309cbb6
 org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.2.2		5009b53f9a3badacb589037491d81d72ce7cbd53
 org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.2.3		4bdfc899e6347b1d22fcee2dcfcb70d1a327b751
 org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.20.0		0c9dc1c0180dec5e0e3e6572888ae551d5b65a79
+org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.20.1		3cda05e8480395e569182dfc80553320dad8f9c6
 org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.22.0		614390319c99edd30c1c10f39dc016e68045693a
 org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.4.0		8dc9bf8857b241c9b6971a683fc211ce34ca43c5
 org.apache.camel.quarkus	camel-quarkus-aws-secrets-manager	3.5.0		d6af83d579287f1889bc41b033414eebd6e7a29f
@@ -1350,6 +1354,8 @@ org.openl.rules	org.openl.rules.repository.aws	5.27.0		ddea92d252f5ff6cfa7ae6f95
 org.openl.rules	org.openl.rules.repository.aws	5.27.1		cd07be71be5c3caf0c0c38a6ea618d661d4784be
 org.openl.rules	org.openl.rules.repository.aws	5.27.10		38299998692c57e6ec3205eb6dda2737a5e75752
 org.openl.rules	org.openl.rules.repository.aws	5.27.10-jakarta		bf5c4c5f3e36d53e14e5d9234eb6ebf18f2df4fb
+org.openl.rules	org.openl.rules.repository.aws	5.27.11		331c929850fd327451b99df8a22a8c793435c9f0
+org.openl.rules	org.openl.rules.repository.aws	5.27.11-jakarta		40265fa1d20e76dcd71a454f33a5f4ff2253f68b
 org.openl.rules	org.openl.rules.repository.aws	5.27.2		08541765a9b5a4495b7bddb7909de551ce3d8dcc
 org.openl.rules	org.openl.rules.repository.aws	5.27.3		4f4c97b94994706762977b3c5e645bf7c0d173c2
 org.openl.rules	org.openl.rules.repository.aws	5.27.4		f176c96c6f40bb43b6af138307983dea977389bd
@@ -1622,6 +1628,7 @@ org.springframework.data	spring-data-redis	3.3.0		23c2a56a7ab7d857ff92831a6d5209
 org.springframework.data	spring-data-redis	3.3.1		711c360a0998962e7e5384576976ceb3b0220b70
 org.springframework.data	spring-data-redis	3.3.10		0e32cf449d323e23ebd18a64f67625550c617e99
 org.springframework.data	spring-data-redis	3.3.11		75b8687d5643bb78f5523283bdfe6ac2248ac262
+org.springframework.data	spring-data-redis	3.3.12		07822f2f93a7e1ebfa07baf52d38099f4158b99c
 org.springframework.data	spring-data-redis	3.3.2		f78461a8c69369e6c04dcb5e33e891de2d47cae5
 org.springframework.data	spring-data-redis	3.3.3		afb5723aae0b40b1c2ae718e001d5ec0b5a0b2f6
 org.springframework.data	spring-data-redis	3.3.4		f8f239679647f1b68d771990c4865fbd48d4e7d5
@@ -1636,6 +1643,8 @@ org.springframework.data	spring-data-redis	3.4.2		f870c5c35ea80c1cc6dbfe3b4f6652
 org.springframework.data	spring-data-redis	3.4.3		d1f3aa64888ddbddd483bc3d53ed6b8259b639ce
 org.springframework.data	spring-data-redis	3.4.4		04cbfe4e4743bb679dcba0f55eb684521d4016d0
 org.springframework.data	spring-data-redis	3.4.5		937b09e58acd3790a01d06f46280f81d34ab4160
+org.springframework.data	spring-data-redis	3.4.6		8155a83a66b390838866f753b8c82eb1cab7268a
+org.springframework.data	spring-data-redis	3.5.0		1b50dfc7d9844f52b69497f439cc514fd408ef70
 org.springframework.data	spring-data-redis	4.0.0-M1		597a5ff7b56f72028c478b657d012026aa6d49ca
 org.springframework.data	spring-data-redis	4.0.0-M2		fe533bbacaf87fd73dc18c8a72d9422eb73b9c1e
 org.webjars.bower	datatables.net-fixedcolumns	3.2.2		01923d73f642358620cc9910684f18c04d48116e
@@ -1824,6 +1833,10 @@ tz.co.asoft	raven-core-jvm	3.0.14		1977d7f58da87547bdb55aaff576e2357791c4be
 tz.co.asoft	raven-core-jvm	3.0.15		5291abe98cad1c7212d45713c1b538514644928a
 tz.co.asoft	raven-core-jvm	3.0.8		1977d7f58da87547bdb55aaff576e2357791c4be
 tz.co.asoft	raven-core-jvm	3.0.9		1977d7f58da87547bdb55aaff576e2357791c4be
+tz.co.asoft	raven-core-jvm	3.1.0		5291abe98cad1c7212d45713c1b538514644928a
+tz.co.asoft	raven-core-jvm	3.1.1		5291abe98cad1c7212d45713c1b538514644928a
+tz.co.asoft	raven-core-jvm	3.1.11		5291abe98cad1c7212d45713c1b538514644928a
+tz.co.asoft	raven-core-jvm	3.1.12		5291abe98cad1c7212d45713c1b538514644928a
 tz.co.asoft	symphony-input-sheet-macosx64	3.0.1		N/A
 tz.co.asoft	symphony-input-sheet-macosx64	3.0.1	metadata	0bc914ad2ca48e57bcae9c5f43db0a216a53c410
 tz.co.asoft	symphony-input-sheet-macosx64	3.0.2		N/A

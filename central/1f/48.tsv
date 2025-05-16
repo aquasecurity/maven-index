@@ -180,6 +180,10 @@ com.51degrees	device-detection.shared	4.4.231		1849c1c5892167da942603398afad341e
 com.51degrees	device-detection.shared	4.4.232		848eb937f745df32452e5540202f6b75c84f7eee
 com.51degrees	device-detection.shared	4.4.233		b3e86ea947a60bfec52dc4dc746d3e112a713665
 com.51degrees	device-detection.shared	4.4.234		dd1746f772c1d2b786bbfa0267255074362a08d6
+com.51degrees	device-detection.shared	4.4.235		50df62b8f770751f94b1fa9aae398fa3e29cb828
+com.51degrees	device-detection.shared	4.4.236		8b6096864f5cff7d92309bd889bcdb05848e9334
+com.51degrees	device-detection.shared	4.4.237		d0bd93364ccd3cc6aa856dd720931a2aaf647b21
+com.51degrees	device-detection.shared	4.4.238		119148ee2fecbde7f375b53823cf45cd36083a48
 com.51degrees	device-detection.shared	4.4.27		63536695b99a8d52e90eed0afb032fa82999bcd9
 com.51degrees	device-detection.shared	4.4.28		8c733d62fa766ede0eed4d15adb2240baf1291a7
 com.51degrees	device-detection.shared	4.4.29		1071a00c9840b025c414c3269de66fe8db6786a1
@@ -301,6 +305,11 @@ com.51degrees	device-detection.shared	4.5.0-alpha.350		90ccdda9e4325e64ad2249c28
 com.51degrees	device-detection.shared	4.5.0-alpha.351		8b71627758e563f75cbd3ff17891c15c0fd94a53
 com.51degrees	device-detection.shared	4.5.0-alpha.352		02d16fe4ec3f9d3397e7a66d61c544908e15a16a
 com.51degrees	device-detection.shared	4.5.0-alpha.353		6e4144b3b18b76fa0b362e7d543f4566bd693679
+com.51degrees	device-detection.shared	4.5.0-alpha.355		ecbc2299e1f462484f85b25bec4be7d4f057a0b7
+com.51degrees	device-detection.shared	4.5.0-alpha.357		ab5636cb571df64bd6949a4a5c9c92cc029b6e33
+com.51degrees	device-detection.shared	4.5.0-alpha.358		3109b10f400cf716b14b4e0d17fc294a1c8ff5c7
+com.51degrees	device-detection.shared	4.5.0-alpha.359		2ea05d19847130b6ca7cb27ab3f4fb9db266b5ba
+com.51degrees	device-detection.shared	4.5.0-alpha.360		b764197e10e623cc1b6708424c94cc297f1d0652
 com.amilesend	tmdb-java-client	3.0.0		3f0c65600f09ff6dd2a718f5acc24bde987aa47f
 com.amilesend	tmdb-java-client	3.0.1		026a72ab7644ea19f6c94b39aed590525a3bb714
 com.amilesend	tmdb-java-client	3.0.2		b5cba586d3909b62d8bdffe8d532493cc2d44983
@@ -369,6 +378,7 @@ com.commercetools.rmf	oas	0.1.6		016168e0c29c3517ed0042b33d1ef415f72d13e2
 com.commercetools.rmf	oas	0.1.60		d63b4b8ed04b27349bffb907ef1dddc5f4b3c261
 com.commercetools.rmf	oas	0.1.61		76ff637d4a66e6c17884f56befe9f935867d93f9
 com.commercetools.rmf	oas	0.1.62		9bdcdf2d57c4e02c48856ba8d35c338566bc9f55
+com.commercetools.rmf	oas	0.1.63		510c7cd70347dd0c079e2ddaefa18c71921e16ad
 com.commercetools.rmf	oas	0.1.7		4f175f09cc05d9600ca99e8f6e480b6f4d5a5660
 com.commercetools.rmf	oas	0.1.8		f3d3625cc8ce8de40a4bee4273274bb99dc02d17
 com.commercetools.rmf	oas	0.1.9		ce6140868995c0d170548e0d3ab8c96d20c0676c
@@ -1229,6 +1239,9 @@ io.insert-koin	koin-test-iossimulatorarm64	4.0.4		N/A
 io.insert-koin	koin-test-iossimulatorarm64	4.0.4	metadata	cc6133dc00568e441c2236e923f56f050a94d1be
 io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta1		N/A
 io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta1	metadata	9e7f89d52ca2a52ab6a44139a2739e967070b3ae
+io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta10	metadata	612eac92616d03a616456aa48cebc45aa5f6a40a
+io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta11	metadata	f4066386e4318cdebae3e79505f1d0e66247c307
+io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta13-KTOR-EAP	metadata	177444af22e1dce0c9ac774da26cf2983b7dec06
 io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta3		N/A
 io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta3	metadata	00242103716ffb702e4e4a30613b502f4bb50ba0
 io.insert-koin	koin-test-iossimulatorarm64	4.1.0-Beta4		N/A
@@ -1349,6 +1362,7 @@ io.liftwizard	liftwizard-config-logging-buffered	2.1.28		ea7662830d54bb4b516b846
 io.liftwizard	liftwizard-config-logging-buffered	2.1.29		962bcf3fe214a5770af07d5dd4a55454d435da5e
 io.liftwizard	liftwizard-config-logging-buffered	2.1.3		a1b319fe6457569bb4d422afa092a83e5b73abd7
 io.liftwizard	liftwizard-config-logging-buffered	2.1.30		fbe38170c405fb70f3f9e07d81c30bdbe6c17a22
+io.liftwizard	liftwizard-config-logging-buffered	2.1.31		9a6cc2adb564de576158f30602cbe66b13632791
 io.liftwizard	liftwizard-config-logging-buffered	2.1.4		57fe285a5538dcf69c6f720c19de73587fdc91d1
 io.liftwizard	liftwizard-config-logging-buffered	2.1.5		602ad0fe3c97e9548996f5740005208c6ecc0ddb
 io.liftwizard	liftwizard-config-logging-buffered	2.1.6		ce5c004d3d8ef585df65e817888966e66722fc56
@@ -1581,6 +1595,7 @@ org.apache.camel.quarkus	camel-quarkus-catalog	3.2.1		cadbc9abc0488545e12bf4440e
 org.apache.camel.quarkus	camel-quarkus-catalog	3.2.2		c98b4f94118e4ac37ea9a4c649f371da1c8aa0d9
 org.apache.camel.quarkus	camel-quarkus-catalog	3.2.3		5d6ead40885ddb107061155a22a2e32e52f5505f
 org.apache.camel.quarkus	camel-quarkus-catalog	3.20.0		88764e77142ca604fcf30dc10ec4ec51adae3127
+org.apache.camel.quarkus	camel-quarkus-catalog	3.20.1		8d5a6ad33067657ec097ece229ebeba97201fb73
 org.apache.camel.quarkus	camel-quarkus-catalog	3.22.0		f1ef79edd5b5f4ed186a60a7e3fb6a631e7f6006
 org.apache.camel.quarkus	camel-quarkus-catalog	3.4.0		b5f3c9fe1885b46d7fe90db8b393989ecd462489
 org.apache.camel.quarkus	camel-quarkus-catalog	3.5.0		1bb410c9e24113da7cefb3ce09cb6916b46d501d
@@ -1649,6 +1664,7 @@ org.apache.camel.quarkus	camel-quarkus-jcr	3.2.1		88d3aa87ee5cfefaa0c468570af4fa
 org.apache.camel.quarkus	camel-quarkus-jcr	3.2.2		ebc165aa9dd0774dc334671c9c3a2879627e7f25
 org.apache.camel.quarkus	camel-quarkus-jcr	3.2.3		43db3233fabbda17308a833f3a544fbbc2a4b653
 org.apache.camel.quarkus	camel-quarkus-jcr	3.20.0		ac6412174dea8c2be0f5a2f0725ec23937d73868
+org.apache.camel.quarkus	camel-quarkus-jcr	3.20.1		e1b7d88bd8bb1a55538132833239c0a418313d44
 org.apache.camel.quarkus	camel-quarkus-jcr	3.22.0		0a455ff6f6c605ed4ab3b439bb277ba19ad85a0d
 org.apache.camel.quarkus	camel-quarkus-jcr	3.4.0		3984b1dea0c68e2b501e1576983785da9cc4f7a1
 org.apache.camel.quarkus	camel-quarkus-jcr	3.5.0		6017c313879d65a6a67ec181caa85690e811c3eb

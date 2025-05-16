@@ -28,6 +28,7 @@ com.chinagoods.framework.thinkcloud	think-cloud-starter-config-nacos	4.0.5		a580
 com.chinagoods.framework.thinkcloud	think-cloud-starter-config-nacos	4.1.5		d337f1a9478024f20948a4b78e2a3030706a2bb4
 com.chinagoods.framework.thinkcloud	think-cloud-starter-config-nacos	4.2.3		c8d15c57b6d099f8941e00c844ec3e9d38909f92
 com.chinagoods.framework.thinkcloud	think-cloud-starter-config-nacos	4.2.5		18f055b10925baab08aba9091c5bd10d893983cd
+com.chinagoods.framework.thinkcloud	think-cloud-starter-config-nacos	4.2.6		4250ddcc1329542a8d6893d0a931028cd115ec3a
 com.daml	sandbox_2.13	0.0.0		61e260c8171c6531ea22c0577863787fbb9c9770
 com.daml	sandbox_2.13	1.11.0		6f3b298ab94c1458156d6e759b7155edc144550f
 com.daml	sandbox_2.13	1.11.0-snapshot.20210217.6338.0.ba6ba901		61e260c8171c6531ea22c0577863787fbb9c9770
@@ -446,6 +447,7 @@ com.tencent.bk.devops.ci.common	api-common-webhook	3.2.0		acb668269df3ee8ae271e6
 com.tencent.bk.devops.ci.common	api-common-webhook	3.2.0-rc.1		5e136e6faa313faef09350efad5573350f19a474
 com.tencent.bk.devops.ci.common	api-common-webhook	3.2.0-rc.2		e4f99a4d99477bb9dc25c9cb8b86dc2ba5d09134
 com.tencent.bk.devops.ci.common	api-common-webhook	3.2.0-rc.4		edfda01f0e57491bf84d891c6450a1d0c846ca99
+com.tencent.bk.devops.ci.common	api-common-webhook	4.0.0-rc.1		d8bdbe6d0019b622e500f478c41fcab5aef52f26
 com.tumblr	jumblr	0.0.10		8f844d6927e772eff5806191a6957e8b2db1b1db
 com.tumblr	jumblr	0.0.10	jar-with-dependencies	e59b5b2a076d45f73b9a571bdf896c7a5cf0cf47
 com.tumblr	jumblr	0.0.11		cc28f45f445b021389290bfadac0f8f8299f4371
@@ -650,6 +652,7 @@ dev.zio	zio-aws-bedrock_2.13	7.31.27.1		b7baae70b977d0843b0b785f661558c75eee2439
 dev.zio	zio-aws-bedrock_2.13	7.31.28.1		16ff7cd4fe061d2f4fa295d485a11651467fb221
 dev.zio	zio-aws-bedrock_2.13	7.31.3.1		e441711edba8e4b82513772901ceaded4c72a6ea
 dev.zio	zio-aws-bedrock_2.13	7.31.30.1		90bf6ef988042972d98f51ba8e30dcd321de599a
+dev.zio	zio-aws-bedrock_2.13	7.31.30.2		34fd9faef30be0cb118e29bde614b4cf7d81952b
 dev.zio	zio-aws-bedrock_2.13	7.31.4.1		a384b493915228d91b766a011c90ceb04cde4ee2
 dev.zio	zio-aws-bedrock_2.13	7.31.6.1		9e5644939571b5ad0b83a12dccc08492c6fcc051
 dev.zio	zio-aws-bedrock_2.13	7.31.6.2		cc733b96b99f4ec2d690246f926aa8ea67b9f3c2
@@ -1015,6 +1018,7 @@ io.quarkus	quarkus-avro	3.15.2		56fa55cb094f88b8b6c47a39987ef1a7c1d24ee6
 io.quarkus	quarkus-avro	3.15.3		763e0a170ed7a4f943b857b1554496f97ef7c7fd
 io.quarkus	quarkus-avro	3.15.3.1		b63714e5ef227ab9cc528777d92dccacb0228417
 io.quarkus	quarkus-avro	3.15.4		796edee0df88da10c10fc3fe101716ef7b80ace7
+io.quarkus	quarkus-avro	3.15.5		1dcc4001d12c8689cbdc19f59198436ff01a4504
 io.quarkus	quarkus-avro	3.16.0		56886c484e1bad208f77773ecd109f7d53437ee5
 io.quarkus	quarkus-avro	3.16.0.CR1		97ca10db1a358da580de64c147fc48124c8a28c1
 io.quarkus	quarkus-avro	3.16.1		c23e0787a81a1665af9794268d3e187d94f78075
@@ -1059,6 +1063,7 @@ io.quarkus	quarkus-avro	3.2.8.Final		38ed78dc78ade91dca35d015ad79c1739502a833
 io.quarkus	quarkus-avro	3.2.9.Final		2801a5bd9c760a5de457f1d33f12f7c79e5d31b3
 io.quarkus	quarkus-avro	3.20.0		c71296d83f16ab1708b5fee3beda73b41f01057f
 io.quarkus	quarkus-avro	3.20.0.CR1		651481df42f6b9ca94b58359c9b0bb2124abac75
+io.quarkus	quarkus-avro	3.20.1		a65b17de3c20737a82e654697df5cf307dd76cb5
 io.quarkus	quarkus-avro	3.21.0		1ef37f5101b75b548c958d63221628e0d9fe5f55
 io.quarkus	quarkus-avro	3.21.0.CR1		46028e24372272b46117b2b807e0321f2be84987
 io.quarkus	quarkus-avro	3.21.1		60e29a1a44d093f7fd945cae31a4653e6e6640df
@@ -1068,6 +1073,9 @@ io.quarkus	quarkus-avro	3.21.4		95273e5e36557da57815b9c539692f9b50b69216
 io.quarkus	quarkus-avro	3.22.0		6a8c7aaa2635ea8093c2a3d6796501e5259308f0
 io.quarkus	quarkus-avro	3.22.0.CR1		f1e90b74531477b43db120d11cb79be8e07b6189
 io.quarkus	quarkus-avro	3.22.1		3b5ac58ae61cf78c263d26328896eb602ccc7ffe
+io.quarkus	quarkus-avro	3.22.2		2115c1c59a1ddc291081b5d8d510fda941115625
+io.quarkus	quarkus-avro	3.22.3		9a00b01695cfdf643c0130626ab9f4c209b5266f
+io.quarkus	quarkus-avro	3.23.0.CR1		308cab9673a4b13ce4d148a7d5adbe16c87bb131
 io.quarkus	quarkus-avro	3.3.0		9b4e7d4fd5b1d6811283b0661770cdf4622e3d05
 io.quarkus	quarkus-avro	3.3.0.CR1		ee1d5c420193479c1fe19b93a6f3497f0eef488b
 io.quarkus	quarkus-avro	3.3.1		57a64caedbcbd43fc591600b71a88647b2faa7dc
@@ -3162,7 +3170,18 @@ software.amazon.awssdk	fsx	2.31.30		8a29c728b9e70441bd7e627b192199aa0a474a7d
 software.amazon.awssdk	fsx	2.31.31		2c8dd8a2e3343014d54b5945b165bc51ac5a178d
 software.amazon.awssdk	fsx	2.31.32		79e1ccbf7df8d4ddd9c933261132b75b7a037bb8
 software.amazon.awssdk	fsx	2.31.33		e69a48a5f3e0dbbeab9bf0ae05e1af4947b23549
+software.amazon.awssdk	fsx	2.31.34		1ce6e3a60d00bdef4b77c3b8c5b83b11b129f863
+software.amazon.awssdk	fsx	2.31.35		ec8fe1877f6834dab70107f75a7ce3ecded0a61b
+software.amazon.awssdk	fsx	2.31.36		9e8971cbe8e9868520b1f1274fc1199d7f75f92a
+software.amazon.awssdk	fsx	2.31.37		1a9b31e2f30d481151c0cf47bc8bad404e12c38d
+software.amazon.awssdk	fsx	2.31.38		d9bcc4a41ac47b314956781afabd3718950ced9b
+software.amazon.awssdk	fsx	2.31.39		fb66e867574bdd5a18dc98195ac1558b334c69c2
 software.amazon.awssdk	fsx	2.31.4		5c5f8a39ad05d0ff713a23784309ec28a8ddb5f4
+software.amazon.awssdk	fsx	2.31.40		2c8c5e79afe0f111912d806f26bbbf794c2a0031
+software.amazon.awssdk	fsx	2.31.41		1eae670f6c37c0e203b71bcb4117366fea0b60ba
+software.amazon.awssdk	fsx	2.31.42		8f54421565e0846e10ecd5289f43abc2ded72e2b
+software.amazon.awssdk	fsx	2.31.43		ca74a22bc5b6bcf2d86191fde2348d5206416c3d
+software.amazon.awssdk	fsx	2.31.44		7291d66f9335ae4e9a021a76d50a2bc6cd1c40ff
 software.amazon.awssdk	fsx	2.31.5		6a3f61b92a6466c840db988cb16b072cca035244
 software.amazon.awssdk	fsx	2.31.6		1f9c4d2aabb188ca0143a4c2328bbaa7e4ecc05c
 software.amazon.awssdk	fsx	2.31.7		cea9caa13b4d137e75d283b703560a895154d288

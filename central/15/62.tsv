@@ -416,6 +416,7 @@ io.automatiko.decision	automatiko-decision-dmn-adapter	0.41.0		f88143ad48eaad123
 io.automatiko.decision	automatiko-decision-dmn-adapter	0.42.0		27b4054dc7692739568625b56847fb55ff582df2
 io.automatiko.decision	automatiko-decision-dmn-adapter	0.42.1		99e5d0c401a8729d66f9a34a6eae4b5c43d3ce20
 io.automatiko.decision	automatiko-decision-dmn-adapter	0.42.2		63b745bf78fdd836a57e4a1b743f3130bb8659b4
+io.automatiko.decision	automatiko-decision-dmn-adapter	0.43.0		091a0ffb2cb34d8afd4075489085badc4dd7691c
 io.automatiko.decision	automatiko-decision-dmn-adapter	0.5.0		267a4b4fcd4f130bf0144238323f54ccd5402c3b
 io.automatiko.decision	automatiko-decision-dmn-adapter	0.6.0		d73f892c9c0cec82b3b02e01d2cade4d54504827
 io.automatiko.decision	automatiko-decision-dmn-adapter	0.7.0		a4ff989a7fa36b2630cf90454824f31a5a0613dd
@@ -435,10 +436,18 @@ io.camunda.connector	connector-aws-comprehend	8.7.0-alpha3.3		be16ea841a4d29058d
 io.camunda.connector	connector-aws-comprehend	8.7.0-alpha3.3	with-dependencies	25362ef54a242644a597e793fade1ae8dfbc819d
 io.camunda.connector	connector-aws-comprehend	8.7.0-alpha4		887bd420c12743d2b6485691040349916070d033
 io.camunda.connector	connector-aws-comprehend	8.7.0-alpha4	with-dependencies	48ee858c3ae087d71886ca8a639b419aa8945c10
+io.camunda.connector	connector-aws-comprehend	8.7.1		d41899031d5a57ab5f720cfb03db19677feb0afd
+io.camunda.connector	connector-aws-comprehend	8.7.1	with-dependencies	72f29c76fafdc75c0bff27a11639c1426a04783e
+io.camunda.connector	connector-aws-comprehend	8.7.2		80d433e53b497aa435bbf3abb424cd8d8ce02ecd
+io.camunda.connector	connector-aws-comprehend	8.7.2	with-dependencies	88d8ad8ac55b7be3818513eb3738fc6cd2b3ef70
 io.camunda.connector	connector-aws-comprehend	8.8.0-alpha3		e065a6d18ab75fcc6bf9a3b798a1076c76e16a1c
 io.camunda.connector	connector-aws-comprehend	8.8.0-alpha3	with-dependencies	7bfd6685c0e7cc8a3361fdf6a303914550f65df8
 io.camunda.connector	connector-aws-comprehend	8.8.0-alpha3.1		deaa5516315bd5e0cfe4e2ca7ff8bd7ab2ecc80e
 io.camunda.connector	connector-aws-comprehend	8.8.0-alpha3.1	with-dependencies	ac25f0a076b8a81eb5a96689d057b12bcd95ab80
+io.camunda.connector	connector-aws-comprehend	8.8.0-alpha4		a625c001a9c65ee319d51438b936707a064576e2
+io.camunda.connector	connector-aws-comprehend	8.8.0-alpha4	with-dependencies	de031f7a3b25646d7d23d1d327ed9d1908c18de0
+io.camunda.connector	connector-aws-comprehend	8.8.0-alpha4.1		471c7acef7a1c400fb46b58a4a25951940561459
+io.camunda.connector	connector-aws-comprehend	8.8.0-alpha4.1	with-dependencies	b99bac3e0779e91d107c4e84ae597d9e45e10f17
 io.chymyst	curryhoward_2.12	0.1.0		7ab17cfa73e8e3926d2c610ce5e3dd6153c68089
 io.chymyst	curryhoward_2.12	0.2.0		83551fcb4469296bf999da9fe08419bfc7a54865
 io.chymyst	curryhoward_2.12	0.2.1		aef9ba8ce56529a614d1a607a00c357e8ed9032b
@@ -879,6 +888,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.2.1		9f881d
 org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.2.2		d769cffebabffef077844c81920d6749321b6a0e
 org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.2.3		026bb5d5be568d12e780fa87f87015b20cd03014
 org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.20.0		418c8ca71938c4915c258a406729a839a60c1b27
+org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.20.1		6e5e3363611d952cb81edc069e68c64d60d45413
 org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.22.0		bb5f061bcac9dd32d28d471811c0f9b96e771e98
 org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.4.0		e2cccbc3575fa09e0cd451fc353ab82fa804f092
 org.apache.camel.quarkus	camel-quarkus-integration-test-xslt-saxon	3.5.0		acb40ac9104c1a6ef7de402d6acd8d30cd9ec9f5
@@ -1238,6 +1248,7 @@ org.scalameta	semanticdb-scalac-core_2.11.12	4.13.2		3461e70a19f941317cb2bbcc9bb
 org.scalameta	semanticdb-scalac-core_2.11.12	4.13.3		2baca7c42a144dcb3dcf9c5f9c9b6700029ed033
 org.scalameta	semanticdb-scalac-core_2.11.12	4.13.4		23f033278b935a229aaa3089e303c1776cab0d2e
 org.scalameta	semanticdb-scalac-core_2.11.12	4.13.5		832bb5a6d82acd82c2386d87a4d0f37b655bfdee
+org.scalameta	semanticdb-scalac-core_2.11.12	4.13.6		7bcf9de896b5b02120bf352cb2cbc4a947d054f5
 org.scalameta	semanticdb-scalac-core_2.11.12	4.2.0		66061f4a307d4fd1aaa4ab2be8155979adecfa69
 org.scalameta	semanticdb-scalac-core_2.11.12	4.2.1		54df58f2308313d765d6335357fa164a789c26a0
 org.scalameta	semanticdb-scalac-core_2.11.12	4.2.2		b6454539ec6ee13d5dcf68e45ca57c922af1d2af

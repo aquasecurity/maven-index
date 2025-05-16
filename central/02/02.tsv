@@ -101,6 +101,7 @@ ba.sake	formson_3	0.0.6		bac977c367e0d9c7688ade659182322e7f41fb16
 ba.sake	formson_3	0.0.7		c35dd9eb6c341c0c8a6765d649e4227e67464bbe
 ba.sake	formson_3	0.0.8		fee93c8bc259543973f637047213bed84920fab6
 ba.sake	formson_3	0.1.0		d67efdc83a198fac5b6ff4a8dd645d8bd4c06fcc
+ba.sake	formson_3	0.10.0		0be1ce757dbc753fe8a702dffbc50ed1eda99448
 ba.sake	formson_3	0.2.0		a9eecc9cbab674a5b0b0a057d76de9edcbc60cda
 ba.sake	formson_3	0.3.0		2c1209e0dc1acdeeae10268672ef27cf7be9e3f5
 ba.sake	formson_3	0.4.0		34e925ea8d72f6caee4c5b008b569cf2d77b077f
@@ -286,6 +287,8 @@ com.google.cloud	google-cloud-assured-workloads	2.59.0		035fad2df7d729399f28dc48
 com.google.cloud	google-cloud-assured-workloads	2.6.0		d94ff412f948d66d0b1d0dfc5dfdb3d3dece7a74
 com.google.cloud	google-cloud-assured-workloads	2.60.0		8cb4b2dd8ead1038b2ee99e1125fb24dec0f2860
 com.google.cloud	google-cloud-assured-workloads	2.61.0		fff83e8eb296c4bc4d7f20b8d3474ac50a031c57
+com.google.cloud	google-cloud-assured-workloads	2.62.0		84fcb110aa0e87f0898a35b1708f93f4cd3c6faa
+com.google.cloud	google-cloud-assured-workloads	2.63.0		90668985c31e7e0272225b4c089d8217e3d5be2d
 com.google.cloud	google-cloud-assured-workloads	2.7.0		dbbc832f3fe684621e851e39dd525707486bc615
 com.google.cloud	google-cloud-assured-workloads	2.8.0		163370a11869381310fa0421e2dc0c0dfdc67e06
 com.google.cloud	google-cloud-assured-workloads	2.9.0		7925349277b42590beb920e83453745129516f02
@@ -733,6 +736,7 @@ dev.zio	zio-aws-budgets_2.13	7.31.27.1		7403e0ac258ce76fac1a2f136868ce4614127e85
 dev.zio	zio-aws-budgets_2.13	7.31.28.1		be52f657802346abb6e23a637aea7c853c916e59
 dev.zio	zio-aws-budgets_2.13	7.31.3.1		f1cf47a8727a74be527c6894e707e52e2b41466f
 dev.zio	zio-aws-budgets_2.13	7.31.30.1		5782e98cc6da2c90c702e180a3022b715fbb2b0b
+dev.zio	zio-aws-budgets_2.13	7.31.30.2		1ee7224d085731cd0c61654f16c6e434d867695b
 dev.zio	zio-aws-budgets_2.13	7.31.4.1		dd1d51eef08d3644c4d6b6a61c785a97763c3267
 dev.zio	zio-aws-budgets_2.13	7.31.6.1		080f1755a7a93abdc377844868d91b510e5a97c7
 dev.zio	zio-aws-budgets_2.13	7.31.6.2		a3851203ba800c296e3556b3b4648a5eb44b5b44
@@ -742,6 +746,7 @@ dev.zio	zio-aws-budgets_2.13	7.31.8.1		7de962044c8f8b591756337463b33af2ef2d88c4
 dev.zio	zio-aws-budgets_2.13	7.31.9.1		861cab13dbbe0f08cdca8dd450467a05311b5e2c
 fr.acinq.lightning	lightning-kmp-core	1.10.0		bffb5409e20afbc5ae9b42b864bea8e28146c573
 fr.acinq.lightning	lightning-kmp-core	1.10.1		c182f2998a62c05efdde7f83ba55629025720ee1
+fr.acinq.lightning	lightning-kmp-core	1.10.2		c182f2998a62c05efdde7f83ba55629025720ee1
 fr.acinq.lightning	lightning-kmp-core	1.9.0		dcafec013d4a143132e9441e74e76de6e7395bc7
 fr.acinq.lightning	lightning-kmp-core	1.9.1		2c579cd0f0cce936ed168263401970bce357997d
 io.eventuate.tram.core	eventuate-tram-spring-reactive-events-subscriber	0.30.0.RELEASE		8b9916ea9c84cf48aba2170925bece72a342b3d8
@@ -790,6 +795,7 @@ io.higson	higson-runtime	4.0.8		8c462582ae3358907ac987d520d67fc47c540d14
 io.higson	higson-runtime	4.0.9		358c65d61f3488887f1c4025c5e3fd6aa4feb2aa
 io.higson	higson-runtime	4.1.0		84ea0d2e45852446389f3a8e742fb85c61882b80
 io.higson	higson-runtime	4.1.1		235d948f2c26946b55e23bf0ab372d70fb1d26b2
+io.higson	higson-runtime	4.1.3		a157d5c461443df732973ae1a7784e1b8500eb2f
 io.maryk	yaml-js	0.1		N/A
 io.rownd	telemetry	1.0.1		N/A
 io.squashql	squashql-snowflake	1.0.0		97e23bf82fabfa1ad054f946d7c8ffc978df5043
@@ -1370,3 +1376,5 @@ org.webjars.npm	sass	1.79.4		c257607b49fc763b694f6ea209251a5b14815027
 org.webjars.npm	sass	1.80.3		461659b4e3430c3ea4f7530e10240076b73e0d95
 org.webjars.npm	sass	1.86.3		0983b4271ecce64ed7eec4932839c638e5fe12bf
 org.webjars.npm	to-buffer	1.1.1		2175df4e6ebe50cd412fc9a7b61152050aa94a2b
+org.xerial.sbt	sbt-jcheckstyle_2.12_1.0	0.2.0		e4eb365775e2d6e4e512c092a8c161f2a609df5c
+org.xerial.sbt	sbt-jcheckstyle_2.12_1.0	0.2.1		f55ecd231eb4c36ff237b14861b7085e7e908712

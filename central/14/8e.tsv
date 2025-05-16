@@ -671,6 +671,7 @@ com.google.devtools.ksp	symbol-processing-common-deps	2.1.20-RC-1.0.30		ba4979b9
 com.google.devtools.ksp	symbol-processing-common-deps	2.1.20-RC-1.0.31		f1e46ee500019dbd82d01a8b7d1636ece038ef29
 com.google.devtools.ksp	symbol-processing-common-deps	2.1.20-RC2-1.0.31		38a3caaff3690ed76e19d3bcc418ae0dde3c5af1
 com.google.devtools.ksp	symbol-processing-common-deps	2.1.20-RC3-1.0.31		d7575d909f8f2e25918da7907211d30effc96ff4
+com.google.devtools.ksp	symbol-processing-common-deps	2.1.21-2.0.1		2611bd176c024051b2401877d7f86ba00932593e
 com.google.devtools.ksp	symbol-processing-common-deps	2.1.21-RC-2.0.0		a418bcbc50a787bf03bd08fa1dfbb7d133068888
 com.google.devtools.ksp	symbol-processing-common-deps	2.1.21-RC2-2.0.1		bc4653a16fcc0084fd7281790828bd981c0db33e
 com.google.devtools.ksp	symbol-processing-common-deps	2.2.0-Beta1-2.0.0		e34bc669d19e9c6680aa242d884e4232242628ee
@@ -780,6 +781,7 @@ com.quinsoft.zeidon	zeidon-scala	2.0.0		1c4a6283f69bed32ebd9653893e95452b17e8795
 com.quinsoft.zeidon	zeidon-scala	2.0.1		13a316f77e6e412286dc9ec055acf99813483f88
 com.quinsoft.zeidon	zeidon-scala	2.1.0		9cb5e3734243fdd747606eb560b1ed39f67c6846
 com.quinsoft.zeidon	zeidon-scala	2.2.0		06757c6b4071dbddc34694c0ad8aa534eb534e92
+com.quinsoft.zeidon	zeidon-scala	2.3.0		ffce3519cc004d108e2eff12b221613005c44198
 com.softwaresecured.reshift	maven-plugin	1.0.10		334b83fccadc97d2f38ac6f3ef8e27f39cd5de89
 com.softwaresecured.reshift	maven-plugin	1.0.11		5c0531e92cbb2232f356253fec2f8a881a266451
 com.softwaresecured.reshift	maven-plugin	1.0.12		2a3dfaaec211d8881d1382292b63a382a485ae8d
@@ -914,6 +916,7 @@ com.vaadin	vaadin-prod-bundle-unoptimized	24.5.8		bf0d410af488d54be41dff1ccd5cd4
 com.vaadin	vaadin-prod-bundle-unoptimized	24.5.9		b9b0480b963763ce543554073218a6e4bc4d131d
 com.vaadin	vaadin-prod-bundle-unoptimized	24.6.0		c23db64b959cdbe573adc0e6548064f5263d36d1
 com.vaadin	vaadin-prod-bundle-unoptimized	24.6.1		4bd186a6d21942f468338fe127eb2af00faa2df0
+com.vaadin	vaadin-prod-bundle-unoptimized	24.6.10		4981b2b497959f5932b2ec047b8bcf9af50c7158
 com.vaadin	vaadin-prod-bundle-unoptimized	24.6.2		873e634e27091ffc9ead4ebd09d9c7959dc42ef2
 com.vaadin	vaadin-prod-bundle-unoptimized	24.6.3		99b4515456a55d88bce2d0e040037f784d0d0cdf
 com.vaadin	vaadin-prod-bundle-unoptimized	24.6.4		53d3ee040c7e8550370b734c4bbba9881d5b9a38
@@ -926,6 +929,7 @@ com.vaadin	vaadin-prod-bundle-unoptimized	24.7.0		2471e8db31b22bbc1a052cc7b956cf
 com.vaadin	vaadin-prod-bundle-unoptimized	24.7.1		99c81f38597647d07bd5be60785edfd6fe15e4f0
 com.vaadin	vaadin-prod-bundle-unoptimized	24.7.2		f19e8f378739ecafa6bc998b76508e2405ba41ad
 com.vaadin	vaadin-prod-bundle-unoptimized	24.7.3		65cd7cd1c636937e17b5bf8d9a05f68f561639f5
+com.vaadin	vaadin-prod-bundle-unoptimized	24.7.4		7e66983793841697a5da6795b5cbc225837a96b9
 de.otto.eventsourcing	es-core	0.0.1		39a3f8ee5166d07b0106410140ad8a51dd41c7b0
 de.otto.eventsourcing	es-core	0.0.2		09db756c8da2c05cac1718d79a2018263a06a104
 de.otto.eventsourcing	es-core	0.0.3		985c9fb05a2428cf2bd0b4513fc258505cc05a70
@@ -1333,6 +1337,7 @@ dev.zio	zio-aws-timestreamquery_3	7.31.27.1		3a2113d77afd45b9edfa336cfcd5f04356d
 dev.zio	zio-aws-timestreamquery_3	7.31.28.1		85d7b22d7993aa938685affbf5f5cf96a4152a91
 dev.zio	zio-aws-timestreamquery_3	7.31.3.1		a7092d0697f5def8335f398653ef442f81871305
 dev.zio	zio-aws-timestreamquery_3	7.31.30.1		bba0c689d913be7054b050645326393f25b889cf
+dev.zio	zio-aws-timestreamquery_3	7.31.30.2		0d1b5444faab7604498c1e962c5fbab25cb9f6fb
 dev.zio	zio-aws-timestreamquery_3	7.31.4.1		f45e1b275a2ce7ae74a88b5fb94e80403f29ed9d
 dev.zio	zio-aws-timestreamquery_3	7.31.6.1		31e3160ea575078e90bbf8c4197a4f82f7d8456f
 dev.zio	zio-aws-timestreamquery_3	7.31.6.2		88db967aba92de2473c22b20b3fcf5607912705a
@@ -1889,6 +1894,17 @@ io.thundra.swark	thundra-es	0.0.6		40ccea8d9841068d064e13bf03ba011c965d9468
 io.thundra.swark	thundra-es	0.0.7		32d8fc487bcab38a13599620d734974ca9e9a957
 io.thundra.swark	thundra-es	0.0.8		f481b4c14fc68b0f8f757fbd6be0ad77675683de
 io.thundra.swark	thundra-es	0.0.9		45715cc9520eef400c4a80220e1f961b65acaa40
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	1.0.1		a53879e1335676cf0102420096f260ccb477eec9
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	1.0.2		0e9935854e8b78eaea3a656a8d3b7a259d3c7976
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	1.0.3		d88f214d16be5019593acabbf98e8d5094586bbd
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	1.0.4		ed878af50f2edf65a11d5ae09b2e24d09c0d6c8a
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	2.0.0		4734950b16e3967099159e75ff33d3661d6937f9
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	2.0.1		5330b05c432b5f7b17277b007dff81d6df5a70c0
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	2.1.0		0d5abf1d79c75b27f17e7e9479642968b8a908e2
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	2.2.0		f663580da92ebd03228cc4661b2790fb4ea65487
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	2.2.1		7e48e9e8b63ed67a551a58a56f7159e9a3ceedc9
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	2.2.2		164c22a8c4140c6e27139dea0e8312e432e04252
+it.nicolasfarabegoli	sbt-conventional-commits_2.12_1.0	2.3.0		8ddbef9b4fe3e1dc99f68a5da550cae8a32b2997
 net.nan21.dnet	nan21.dnet.module.bd	1.0.2		N/A
 net.nan21.dnet	nan21.dnet.module.bd	1.0.3		N/A
 net.nan21.dnet	nan21.dnet.module.bd	1.0.4		N/A

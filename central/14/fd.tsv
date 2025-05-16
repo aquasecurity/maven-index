@@ -178,6 +178,8 @@ com.datastax.astra	astra-sdk	1.2.6		20b77894c2cfc6430f71e0f0d70d1248e9f59829
 com.datastax.astra	astra-sdk	1.2.7		a181239710cc69677ef8e80fbe997485a0e76cfd
 com.datastax.astra	astra-sdk	1.2.8		6d68231a0fa8ed534c24e1977ee67ef326e66229
 com.datastax.astra	astra-sdk	1.2.9		e09c4ec3891eb0436b6df7506eca042937b0c873
+com.eygraber	vice-nav-material3-iossimulatorarm64	0.9.10	metadata	f5db0fa95b366a646ea991104b481c29db36d05e
+com.eygraber	vice-nav-material3-iossimulatorarm64	0.9.11	metadata	becee82720a3bf76f75ccb84121a226583500d06
 com.eygraber	vice-nav-material3-iossimulatorarm64	0.9.3		N/A
 com.eygraber	vice-nav-material3-iossimulatorarm64	0.9.3	metadata	aadf4970d32736b4e22e811f880df8145677a65f
 com.eygraber	vice-nav-material3-iossimulatorarm64	0.9.4		N/A
@@ -322,6 +324,7 @@ com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_native0.5_2.13	2.34.1	
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_native0.5_2.13	2.35.0		7ab43a98092cb2cc2973c61e46d19bd8d2da53aa
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_native0.5_2.13	2.35.1		420cafa84c45bd53ae1dee0cedd9afd90b77f297
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_native0.5_2.13	2.35.2		114cee49ffa2de8f4224f9b4ee77c0231c28d2d5
+com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_native0.5_2.13	2.35.3		5e65c3eef506ec9a6ec1cc99ceaa6e773b200fff
 com.github.wywuzh	commons-core	2.3.10.RELEASE		698f826000070f4e15f297d3710154cfec90f849
 com.github.wywuzh	commons-core	2.3.11.RELEASE		cbda03c5d99a3d81b9e8c0156b9691c048952d69
 com.github.wywuzh	commons-core	2.3.12.RELEASE		d2bd1f5656937a67788cb7596cf01ac26c8b3ebe
@@ -755,6 +758,7 @@ io.coil-kt.coil3	coil-network-ktor2	3.0.2		8cbdb3be9fda53a5ae78290e12020b226bd25
 io.coil-kt.coil3	coil-network-ktor2	3.0.3		8cbdb3be9fda53a5ae78290e12020b226bd25d30
 io.coil-kt.coil3	coil-network-ktor2	3.0.4		8cbdb3be9fda53a5ae78290e12020b226bd25d30
 io.coil-kt.coil3	coil-network-ktor2	3.1.0		3d2be3aa16a334cd20c687a88a9aaefb326d1acc
+io.coil-kt.coil3	coil-network-ktor2	3.2.0		1edb14c77ab862da2c2aede370f5f01d3e46c8c9
 io.coil-kt.coil3	coil-network-ktor2	3.2.0-rc01		1edb14c77ab862da2c2aede370f5f01d3e46c8c9
 io.coil-kt.coil3	coil-network-ktor2	3.2.0-rc02		1edb14c77ab862da2c2aede370f5f01d3e46c8c9
 io.eventuate.tram.core	eventuate-tram-spring-events-starter	0.27.0.RELEASE		19bf4b35fed7f1bb8af0319c3b01e226f8d731d2
@@ -1034,12 +1038,14 @@ network.oxalis	oxalis-standalone	6.4.0		390d7f78d1df6460b81fe0c5e964f6d152225de1
 network.oxalis	oxalis-standalone	6.5.0		889652be050e63346c713f938a18ceb0c32e640b
 network.oxalis	oxalis-standalone	6.6.0		05063b4f4d965b29db936373964f752b83c4a41c
 network.oxalis	oxalis-standalone	6.7.0		126169ed7590c099671588ceea8e146ec6750dae
+network.oxalis	oxalis-standalone	6.8.0		26f2392e1e984ffdc10172fae0b35f69eaa37b9a
 network.oxalis	oxalis-standalone	6.8.0-RC1		cf34030a6e39bf14dacbf706dd03333f6b1bd8fa
 network.oxalis	oxalis-standalone	6.8.0-RC3		ef7cdd33f1dadac9976b05c7894bfc8e3b6d6870
 network.oxalis	oxalis-standalone	7.0.0		3d8fc0c74b3009ae8ebb3f6648ae0dd905576733
 network.oxalis	oxalis-standalone	7.0.0-RC1		f68c7fa465ace47d99bdd0e548b2f4b403937a94
 network.oxalis	oxalis-standalone	7.0.0-alpha		6e6e7becda48ed7d44a789fb2ef546672f0cf455
 network.oxalis	oxalis-standalone	7.0.0-beta		88bad861736c2aaf8cc214c243acb0cbe27560b9
+network.oxalis	oxalis-standalone	7.1.0		49caba6bf29b0c0ddf0c181d3ece0eef9c112d3f
 network.oxalis	oxalis-standalone	7.1.0-RC1		b28ad341359eb4ef0bb482559d7574a098c8b3a1
 ng.openbanking	api-parent	0.0.1		N/A
 ng.openbanking	api-parent	0.0.3		N/A
@@ -1201,6 +1207,7 @@ org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.61.0		0d3
 org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.62.0		0d562431a453c940bb8684aef6c031777a58907c
 org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.63.0		3e70ecbb465d866a8ee1ae4839c97346332b00c1
 org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.64.0		b6185e53d5bc69d9ecd97685cb4136645299d6a7
+org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.65.0		2cdd472604881739ff417986a6ab4ee6a83ff5c4
 org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.7.0		e0ca8d4a1bf2a57ff82f0adb3e2e44cf61acc1bd
 org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.8.0		ce30d99b4ac68c93362e3cb299bda4c374bac3c4
 org.apache.beam	beam-sdks-java-extensions-google-cloud-platform-core	2.9.0		a83e285498f6dfa36b7817c62373ca7d693f1879
@@ -2474,6 +2481,8 @@ org.xwiki.commons	xwiki-commons-extension-handler-jar	16.10.3		c65ee88d7a3ccdaaf
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.10.4		2f1671d52d3be5c282071a6f36e5c85e561107b5
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.10.5		f9203bda2e07c6f8f643897a0f11123a715a3c85
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.10.6		ccc77416a73984ef762c90cc897bf968dbb90579
+org.xwiki.commons	xwiki-commons-extension-handler-jar	16.10.7		85497188def2cf4eb390ae79d8d05bcb00f7fb3e
+org.xwiki.commons	xwiki-commons-extension-handler-jar	16.10.8		a91ce2c86885cc85d3941deab904fd776793db7c
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.2.0		5c52338e444d893a192f7e68430db0a84db5f9b4
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.2.0-rc-1		56117e0e5bf69ee66d65e80d0e647a3e85d5bd8a
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.3.0		a8aeef7c5900bae3bcddd2dca4d87b6af8887b09
@@ -2488,6 +2497,7 @@ org.xwiki.commons	xwiki-commons-extension-handler-jar	16.4.4		7ff5149bf990aff19e
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.4.5		ee2d4687e69c44ad0778059adc531667a771967a
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.4.6		99ab9e4977580121876f0887d5b4c07abec43fe1
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.4.7		79e097c77186a2bad8923b34076fddcf34c9468e
+org.xwiki.commons	xwiki-commons-extension-handler-jar	16.4.8		4fa5908c08d2ac96e5e0993d05b89e44adc6741a
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.5.0		4ee23db24a14a58bbd51240982b886f37d6a7405
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.5.0-rc-1		399406db00bbe5317f9202d706604f1e5a2c0189
 org.xwiki.commons	xwiki-commons-extension-handler-jar	16.6.0		5f6717ed228f7e8bcb3f80d56cbde294719ac6cc

@@ -500,6 +500,11 @@ com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-33-c98221		74fbbe9917
 com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-39-4c3eb7		5b264eeeada3834b8e1fc5acd7a0b6ca09cfb031
 com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-41-b39ce4		a33983f04dd8241704553ce8be1ee977f09a0d44
 com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-42-a720c3		ec978856061bce539d8fda5cf07e1f74240218e2
+com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-51-773072		a93143dad4043198c8159a0d93ca6add1031869c
+com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-56-51ca83		7cbb866f76aff97c7442e6f8983686cf04d300db
+com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-57-7578c2		0272d3de26fa896c24413a3155249a107ff5c96b
+com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-59-17fa7b		b8d8ea679f6c803f589a3182e967f7f5a82eece3
+com.lihaoyi	mill-libs-scalalib-backgroundwrapper	0.13.0-M2-74-132761		268dce1d4e5062016f268cbb186c92fc84c9577b
 com.scylladb.alternator	emr-dynamodb-hive	5.6.0		6ed535bcbb5c19001446451c8eebb3b31b9d90e9
 com.scylladb.alternator	emr-dynamodb-hive	5.6.0	shaded	4cd60e8bb936d866ee6d51ebb202a2bc2b630936
 com.scylladb.alternator	emr-dynamodb-hive	5.6.1		eb17c19edde56044781594c419e17da0edf21d8f
@@ -572,6 +577,8 @@ io.geewit.data	gw-data-jpa-envers-domain	1.4.7		c75d157450bc245f6c39a8dd0e12d5d5
 io.geewit.data	gw-data-jpa-envers-domain	1.4.8		3f918c8383c337390e17a3888f6a61de1e3853e1
 io.geewit.data	gw-data-jpa-envers-domain	1.4.9		94081a0be14de2277864faabff4b7f6bbc667fd4
 io.github.itineric	rsql-jpa-spring-boot-starter	6.0.24		99d996b5cc070d19c78e627f372e771707aa2533
+io.github.kalin-rudnicki	oxygen-web-model_3	0.0.8		e6d3d4c8d74169baad5940fd6bca77797eb8b077
+io.github.kalin-rudnicki	oxygen-web-model_3	0.0.9		9c287c575f3ca2c25565b793b1667191d0ea8566
 io.github.mjhaugsdal	er-m98-2015-10-15	1.0.0		9ce9d648846c0a5e7820aa20bf42b1134c340edc
 io.github.mjhaugsdal	er-m98-2015-10-15	1.1.0		c6bd279bd583ae4dfa1141406bf03155f9c46686
 io.github.mjhaugsdal	er-m98-2015-10-15	1.2.0		fd4329a20535d161d26b6e40fca197a3340d4ba8
@@ -704,6 +711,8 @@ io.ktor	ktor-server-caching-headers-iosarm64	3.1.1		f30f6b4f9963c39fad3e5a5147b3
 io.ktor	ktor-server-caching-headers-iosarm64	3.1.1	metadata	179f61a5c0cfea9f418cecfe9a671966904ff8f3
 io.ktor	ktor-server-caching-headers-iosarm64	3.1.2		f43c03fac60114ca57308613f60c47dfdd463134
 io.ktor	ktor-server-caching-headers-iosarm64	3.1.2	metadata	ac3406f8fe120917309c57c8cdc242db37739097
+io.ktor	ktor-server-caching-headers-iosarm64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-server-caching-headers-iosarm64	3.1.3	metadata	2a5fea5e782691d1711cd6ebeae574a83e54928f
 io.qameta.allure	allure-model	2.10.0		edb97ab051b49a3fb9a39655db8764be45c62c4c
 io.qameta.allure	allure-model	2.11.0		dc1e3060988f8b18cc1ef519dd3d82d00ef56633
 io.qameta.allure	allure-model	2.12.0		e71206f909fb7ec84b7702b69fd5f60189395f0c
@@ -1228,6 +1237,7 @@ net.n2oapp.framework	n2o-access	7.28.3		1f9cf04f8de50742e4b3ec0bd3e124913f5c821a
 net.n2oapp.framework	n2o-access	7.28.4		1a6e5338cc30c4d80d7ee844ce49dff40a761fb3
 net.n2oapp.framework	n2o-access	7.28.5		df58753bedb7bd76b60c3c910a5a35a3ebf47480
 net.n2oapp.framework	n2o-access	7.28.6		4facaa1ddf524cbb78663fd8660784bc01f05ae7
+net.n2oapp.framework	n2o-access	7.28.7		b2ec19fb34336f8ac161770d25591f7d2681d4ae
 net.n2oapp.framework	n2o-access	7.3.1		dfe2df31b904be887e3793e19851f3c81257a186
 net.n2oapp.framework	n2o-access	7.3.10		56c8380743c56ce2e27ff44d74d5999e88187a04
 net.n2oapp.framework	n2o-access	7.3.11		6c0a4fca8f8abd8ae00aef96793a5ab76a8ec876
@@ -1968,6 +1978,14 @@ org.babyfish.jimmer	jimmer-ksp	0.9.79		26c020dae428f3c365f9b7051007699b29796ef9
 org.babyfish.jimmer	jimmer-ksp	0.9.8		f986760e414f90b0bd2de9685dbbb7a9c8add61d
 org.babyfish.jimmer	jimmer-ksp	0.9.80		b5d4e5d199eeaa40380027957de081f07a94ae76
 org.babyfish.jimmer	jimmer-ksp	0.9.81		1ddb02ac2d568f4149ffbc3d0bdae93bc0461900
+org.babyfish.jimmer	jimmer-ksp	0.9.82		5a89e624e62e4a1fb9a618b413332ad37e9a74f2
+org.babyfish.jimmer	jimmer-ksp	0.9.83		bebe222f44ae2fd99d9665015bd3db8adcfef264
+org.babyfish.jimmer	jimmer-ksp	0.9.84		30d692f3b4b38d6cc0b08cc5ec8b9e179d3d0495
+org.babyfish.jimmer	jimmer-ksp	0.9.85		baf45f583157b6452c2f4585d93e156bb10f6a03
+org.babyfish.jimmer	jimmer-ksp	0.9.86		7830e3a15f00792800dd7249fe650cc0fbda5404
+org.babyfish.jimmer	jimmer-ksp	0.9.87		dc41655a0d4871605aa08233d1d5e8b64a3c0a72
+org.babyfish.jimmer	jimmer-ksp	0.9.88		1a3226f7379ebe907c234b07311beb082f88eac8
+org.babyfish.jimmer	jimmer-ksp	0.9.89		f45197848838c3581008a2210f127064a77b5656
 org.babyfish.jimmer	jimmer-ksp	0.9.9		c6bf7097f21c59377a8efff1385cb863cfffb082
 org.codehaus.redback.components	spring-quartz	1.0		74c28e350c1a5fb15e79c83d5090461ac3b3a620
 org.eclipse.packagedrone	org.eclipse.packagedrone.utils	0.14.0		1117f9979d37665b8e3dbd2bb59c5b4aa33a55f4
@@ -2215,6 +2233,8 @@ org.ossreviewtoolkit.clients	dos-client	55.3.0		e668f6e5f448cedd2d4b0eee3e01ade0
 org.ossreviewtoolkit.clients	dos-client	56.0.0		386c9d54438b2b2b5c205b18a607016424e96c49
 org.ossreviewtoolkit.clients	dos-client	56.1.0		9d08658d714c6cd0a24952583647aeb8e3b45cec
 org.ossreviewtoolkit.clients	dos-client	57.0.0		8088a15eed8605000119f92c3a196cb8b29d4ce6
+org.ossreviewtoolkit.clients	dos-client	58.0.0		50a1d41725cdc5f24550664acbc651a8ec054fa5
+org.ossreviewtoolkit.clients	dos-client	58.0.1		fd5c2d24132b85e48abb89ddf783712adc936e5f
 org.palladiosimulator	buckminster-tycho-migrator	0.1.0		65fef10564eae51a4156d6a5e5472641aaf3c147
 org.palladiosimulator	buckminster-tycho-migrator	0.1.1		e38b0324a9e4b0502c3c98691ea7e47d578984d6
 org.palladiosimulator	buckminster-tycho-migrator	0.1.2		5902380e5e3bf87fb2d7da98d3fe8216ab3666c0

@@ -156,6 +156,7 @@ com.epam.indigo	bingo-elastic	1.31.0-rc.2		75c704da729df167ccb73589882026f1bcb6b
 com.epam.indigo	bingo-elastic	1.32.0-dev.1		7633e3d9a37ae44a112bc43ce2646688831d49b5
 com.epam.indigo	bingo-elastic	1.32.0-dev.2		b8ed8105137246ecdc1235489629e4ef00185a3d
 com.epam.indigo	bingo-elastic	1.32.0-rc.1		4bf527a7d628a16bdb0a7ec808117d33b61ceff8
+com.epam.indigo	bingo-elastic	1.32.0-rc.2		a3f52521b0b80a63139631dedc951587e9e4b030
 com.epam.indigo	bingo-elastic	1.4.1		4c06921c6a9f14ab4a5331ec7d81e0ea04f0b3cb
 com.epam.indigo	bingo-elastic	1.4.2		99850eb54122e5c075df0c247d1636f1190fc8ba
 com.epam.indigo	bingo-elastic	1.4.3		7b4d85dc333fa973f9f219b43e0c5a86c36fd3cb
@@ -373,6 +374,7 @@ com.ibm.cloud	usage-reports	0.62.0		dbc395de217180aa14bc8865ba308a54f7e473dc
 com.ibm.cloud	usage-reports	0.63.0		59d3dc952605723ab2db1580a1f35a6165f74fb3
 com.ibm.cloud	usage-reports	0.63.1		73d99474fc998aa927dca6eb78bf42b9c8200ea7
 com.ibm.cloud	usage-reports	0.64.0		8cbcbaf30a900af54ba14a59326b654999f76d43
+com.ibm.cloud	usage-reports	0.65.0		8e8dd86a6e211f3cea677a72e7486a243210152f
 com.lihaoyi	ammonite-compiler-interface_2.12.7	2.3.8-122-9be39deb		dfe5bc52f15e3fc20a6b274e169759626591acda
 com.lihaoyi	ammonite-compiler-interface_2.12.7	2.3.8-123-0b9a8c9b		5920fc9a233e21772bdb791d65adc0f96719fbb6
 com.lihaoyi	ammonite-compiler-interface_2.12.7	2.3.8-124-2da846d2		83ba41caf6197d92c14614c5a658e6dcd3bd220e
@@ -678,6 +680,8 @@ io.camunda	operate-schema	8.6.12-rc1		9fa2b7a5898d4f37232db1dab38e3516c58d82bb
 io.camunda	operate-schema	8.6.13		3089efcfc9de63ee06bd9b4ee1f958b33c09122a
 io.camunda	operate-schema	8.6.14		146b061eb501392278d56c6d8dd26e52ea9f720d
 io.camunda	operate-schema	8.6.14-rc1		fc64c231a450ae254585556a59f7fb36ca66168f
+io.camunda	operate-schema	8.6.15		58878b69b674163fe827508b35366c8ba90132a3
+io.camunda	operate-schema	8.6.15-rc1		4aa38a6ce754a90da99ebb0d22821d86c969a30f
 io.camunda	operate-schema	8.6.2		f255c5250891641b4a0cc1c1a2ff41fed4fc5eb4
 io.camunda	operate-schema	8.6.3		3de1111fd463cbff0fa6219fb831de63cc738699
 io.camunda	operate-schema	8.6.4		2643bfbfe1a7dbbdab775a1b2821b3cf88b2cfe5
@@ -713,12 +717,15 @@ io.camunda	operate-schema	8.7.0-alpha5-rc1		632b61fe273f273d4e08d0ea4869bf6ee317
 io.camunda	operate-schema	8.7.0-rc3		3dfdb18d840556fa6c31a456f374ddb4a0a90071
 io.camunda	operate-schema	8.7.1		a993601114e125c63fcdf46d0cc68992a9a1df59
 io.camunda	operate-schema	8.7.1-rc1		6212bdc969255dc431d761fc6c7efaa7674cd1c1
+io.camunda	operate-schema	8.7.2		13e2653c68ea50f5ca9ad147d6c70e238b395572
+io.camunda	operate-schema	8.7.2-rc1		074b5d42e162f9d7a260a056def8b7327217fb39
 io.camunda	operate-schema	8.8.0-alpha1		5be8987cdd6a96368c43c55b6542f4b3a971cdef
 io.camunda	operate-schema	8.8.0-alpha1-rc1		c508150047dae2ade59c7c43f5b7fc1eff9e7afe
 io.camunda	operate-schema	8.8.0-alpha2		0ce9f6965cc3345de8e86045e9f7cda57a92c4cb
 io.camunda	operate-schema	8.8.0-alpha2-rc1		4c7f57bd9d59f8cfda50a3cf0160fb52f256e147
 io.camunda	operate-schema	8.8.0-alpha3		0488a0b7c0996f5c3180c57f3376b424b81dc356
 io.camunda	operate-schema	8.8.0-alpha3-rc3		8a9f5d0f40ca7ba616ef3fdac9b4854596d2da51
+io.camunda	operate-schema	8.8.0-alpha4		e681311b1329d3b865ce8f3db11f778f092ea306
 io.camunda	operate-schema	8.8.0-alpha4-rc1		b41efdc4699c587b14567f0404247246c09a50a2
 io.chrisdavenport	mules-reload_sjs1_2.13	0.5.0		5ebe683884e8011e24616d591e800eeac1907932
 io.chrisdavenport	mules-reload_sjs1_2.13	0.5.0-M2		6f273dc27a11bb5dc9d6971402ef43196caad999
@@ -828,6 +835,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0	2.13.3-alpha		ff6fe40a4e9d8a4b825b26c18824d2d523a4e82e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0	2.14.0-alpha		6e6586b2b704c164eb32192fa875ed0d5a017aa0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0	2.15.0-alpha		713baf7a71ee3f6d47fe17f206f45aab7e8bf55d
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0	2.16.0-alpha		6c9aed78a85992bb9919f91774fb89294843db75
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0	2.2.0-alpha		9630f3fe891c352749136f1ee8d29b6530c7556e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0	2.3.0-alpha		73633fe1bd3d960edb0aa1963d2ff21b461477b6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-cassandra-4.0	2.4.0-alpha		10bbe1adb1f73f5bdca59fef7812af8d99444bb2
@@ -1198,6 +1206,7 @@ io.smartdatalake	sdl-kafka_2.13	2.6.1		fff87996718cb6c5038a8c7aaea94a0f4b5d712b
 io.smartdatalake	sdl-kafka_2.13	2.7.0		792fb318367afb77c18ceeba316358bc17133e94
 io.smartdatalake	sdl-kafka_2.13	2.7.1		868094c375ee95a83c56ae788223c5486e2de243
 io.smartdatalake	sdl-kafka_2.13	2.7.2		3ef901f43a0a3fc3928f4ffd15ed19aea2caeae5
+io.smartdatalake	sdl-kafka_2.13	2.8.0		042fd15539a974dfdb6328c0e1a36e9d82227c88
 io.syndesis.transitional	transitional-parent	1.12.0		N/A
 io.syndesis.transitional	transitional-parent	1.12.1		N/A
 io.syndesis.transitional	transitional-parent	1.13.0		N/A
@@ -2738,12 +2747,16 @@ org.hpccsystems	wsclient	9.10.22-1		c23c8870256249d7a4e464772e08d60b9dc17571
 org.hpccsystems	wsclient	9.10.22-1	jar-with-dependencies	10bb4534dba6c15d57f657dd8198f28b019619b4
 org.hpccsystems	wsclient	9.10.24-1		ea2864a67eb655640cc08c1953b025482a3dd526
 org.hpccsystems	wsclient	9.10.24-1	jar-with-dependencies	058adbf88d0ad6315c8255a0865d3978efb24a92
+org.hpccsystems	wsclient	9.10.26-1		6800c425a8c4349c0a160914d5d791a7ed0ba6ec
+org.hpccsystems	wsclient	9.10.26-1	jar-with-dependencies	2b94b51d04dd6a9d7508ce27db24aa32658c119f
 org.hpccsystems	wsclient	9.10.4-1		c458e3caeadb1f16e38d3e9ac40378528a31def3
 org.hpccsystems	wsclient	9.10.4-1	jar-with-dependencies	0c477c7639c1862e248c36e4c132fcb332301a40
 org.hpccsystems	wsclient	9.10.6-1		76e13672b392b2f68f9534400782581eacd79458
 org.hpccsystems	wsclient	9.10.6-1	jar-with-dependencies	fd85cf73b8384ba195f81bbcf06701a0a09032ac
 org.hpccsystems	wsclient	9.10.8-1		180f20c1ca9c6e0bc6f096f4ce2f1076098c1e7e
 org.hpccsystems	wsclient	9.10.8-1	jar-with-dependencies	e970903f2c43a705f11cdac4559a88e181de22c5
+org.hpccsystems	wsclient	9.12.0-1		17231ef770efe6ab07efc7f27f107ae9d7c6f65b
+org.hpccsystems	wsclient	9.12.0-1	jar-with-dependencies	f983adaeddd8dabafef4292a428423e4791d1aba
 org.hpccsystems	wsclient	9.2.0-1		ae7603819e7c7dcc8f9e60ce2ae25a710d789bff
 org.hpccsystems	wsclient	9.2.0-1	jar-with-dependencies	10724c60ccb747a02a508419365f55efef3af850
 org.hpccsystems	wsclient	9.2.10-1		0780cb284fe626fa7c758d89bdfd866e7f43eb8e
@@ -3064,6 +3077,8 @@ org.hpccsystems	wsclient	9.6.100-1		7a4ba167bf363376f9f34875f6a353ef0d251814
 org.hpccsystems	wsclient	9.6.100-1	jar-with-dependencies	5915c6c70f4c592eddf95d09f0fb38193086335c
 org.hpccsystems	wsclient	9.6.102-1		0e4c04acbb63ddb74fbc8a9079459ee59ef61b23
 org.hpccsystems	wsclient	9.6.102-1	jar-with-dependencies	4469ebf075f532dcf0abc4adfdb5d175895b3063
+org.hpccsystems	wsclient	9.6.104-1		8c034333aaa573e3a594b028b09955bf886effad
+org.hpccsystems	wsclient	9.6.104-1	jar-with-dependencies	f6c14d40beeecaabd92cad001b040ba538ef5148
 org.hpccsystems	wsclient	9.6.12-1		b7ae5fbe78ae187043412328739d5f0c0c934abc
 org.hpccsystems	wsclient	9.6.12-1	jar-with-dependencies	6c5dd58ba8413e23f9aa6d329d5ad4c7fb5bb240
 org.hpccsystems	wsclient	9.6.14-1		72405ad4ceb59d92239a92de937b74a322985895
@@ -3238,6 +3253,8 @@ org.hpccsystems	wsclient	9.8.78-1		c7e9a8d9a39a23b7eeacf5241426406efaf0c7dc
 org.hpccsystems	wsclient	9.8.78-1	jar-with-dependencies	a44301f8bc69160a9d689fcd16fceb877fac04c9
 org.hpccsystems	wsclient	9.8.8-1		d785f2128a67cfe0912a46f5843f63098aca0ce3
 org.hpccsystems	wsclient	9.8.8-1	jar-with-dependencies	8f035482c38f0a70badfba3f15afb419c16f9903
+org.hpccsystems	wsclient	9.8.80-1		2b3119ae73298f1cfbb4aea1b92f8bf71b564b41
+org.hpccsystems	wsclient	9.8.80-1	jar-with-dependencies	51609cb9c822b3a44a2ccbb05b680f7685f88d2b
 org.ikasan	ikasan-component-validator	1.0.0		047d8567f853f14e84274a7335199c35ce0cd030
 org.ikasan	ikasan-component-validator	1.0.0-rc4		4dc0f00842784b38164c22a894d27c25458d1328
 org.ikasan	ikasan-component-validator	1.0.0-rc5		4e7da00e7112d9e1fd1b5125bb9150912efada5d
@@ -3441,6 +3458,7 @@ org.jboss.narayana.arjunacore	arjuna	7.0.2.Final		fb31e91347794a813b19a40acb0f4f
 org.jboss.narayana.arjunacore	arjuna	7.1.0.Final		5406dee5d5d784204645635899965a3415b9e5c8
 org.jboss.narayana.arjunacore	arjuna	7.2.0.Final		497087f25a50742d937cfc599d31df62432430e2
 org.jboss.narayana.arjunacore	arjuna	7.2.1.Final		47b96cd7ea941f2e876601c4afc701db46c13418
+org.jboss.narayana.arjunacore	arjuna	7.2.2.Final		83ee4b6432e348ca1d0d1ac1274b52354b36b740
 org.jboss.weld.vertx	weld-vertx-service-proxy	1.0.0.CR3		aa6a620f80ca3a4a1a475abc7db56e6d217fea3e
 org.jboss.weld.vertx	weld-vertx-service-proxy	1.0.0.CR4		3ee444055a66e32a03d6e86325ef43d4b7548392
 org.jboss.weld.vertx	weld-vertx-service-proxy	1.0.0.CR5		a3648fa46c456b0a692a0e6af9ef37e0173d0aba

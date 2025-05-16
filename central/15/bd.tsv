@@ -588,6 +588,8 @@ com.oracle.oci.sdk	oci-java-sdk-aivision	3.63.0		3460ebe9128d567d113b3919fb223c9
 com.oracle.oci.sdk	oci-java-sdk-aivision	3.63.1		42fe5db0f58de3b81bd191456699f9936e5335a7
 com.oracle.oci.sdk	oci-java-sdk-aivision	3.63.2		119fde6e374b36620a9ecb6b07dd3827f6109af1
 com.oracle.oci.sdk	oci-java-sdk-aivision	3.63.3		a82e5987351ebd55a7350f676fb9c66a136836b3
+com.oracle.oci.sdk	oci-java-sdk-aivision	3.64.0		9523f3316bc60e0ba03748452d48df2be998b96b
+com.oracle.oci.sdk	oci-java-sdk-aivision	3.65.0		f634c4fb875c01a0223e13f2152988b3a23df610
 com.oracle.oci.sdk	oci-java-sdk-aivision	3.7.0		32e8e710818303958312497868ec7bd86267ca92
 com.oracle.oci.sdk	oci-java-sdk-aivision	3.8.0		6c456b0a1b8d9772e2435a64b2c60c49db3ca625
 com.oracle.oci.sdk	oci-java-sdk-aivision	3.9.0		9d5c364a45a5059b7df01fecfc6965d66e0a9c4d
@@ -709,6 +711,7 @@ com.yugabyte	java-driver-core-shaded	4.15.0-yb-2-TEST.1		2f8362f217ca213dcc49516
 com.yugabyte	java-driver-core-shaded	4.15.0-yb-2-TEST.2		3f129a2d7b302f80cb4eb3148932cfa47e5084b9
 com.yugabyte	java-driver-core-shaded	4.15.0-yb-2-TESTFIX.0		b1d6942ae0a02818f794900cf2a96912f422cdae
 com.yugabyte	java-driver-core-shaded	4.15.0-yb-3		c9f5899330e63c33e49ad4425a039c16ca20facf
+com.yugabyte	java-driver-core-shaded	4.19.0-yb-1		ee9b6f9f50bc23c66be6d7cc52bd51f93fc8c349
 com.yugabyte	java-driver-core-shaded	4.6.0-yb-10		5c8652a4ea6881b38b40996a0f3ace12982281c0
 com.yugabyte	java-driver-core-shaded	4.6.0-yb-11		2a15492b20e78a7bca22b18d4f261e21a780fc2b
 com.yugabyte	java-driver-core-shaded	4.6.0-yb-12		4a2a46bf1b6f2fcd8d9c7bbc36b5bf1961dd73e6
@@ -1037,6 +1040,7 @@ dev.zio	zio-aws-redshift_2.13	7.31.27.1		0ddeb3de8f4fa6cacbe25a20b22fb09766251ab
 dev.zio	zio-aws-redshift_2.13	7.31.28.1		f5ffff46b5714f9fa47f303e332a13bf8e0a3374
 dev.zio	zio-aws-redshift_2.13	7.31.3.1		b8663dea38372fb3240f101a0dac22310867a665
 dev.zio	zio-aws-redshift_2.13	7.31.30.1		b96288414d9966e68fda358d09b37897c895e91a
+dev.zio	zio-aws-redshift_2.13	7.31.30.2		96af2049ac3f9c4933ee325ce229fd118f29cd73
 dev.zio	zio-aws-redshift_2.13	7.31.4.1		0ebda99548a6ac8d0d1e37a089a27b116dc8037c
 dev.zio	zio-aws-redshift_2.13	7.31.6.1		61a9049316f9146f0dd78349613d2337d98fe667
 dev.zio	zio-aws-redshift_2.13	7.31.6.2		67c0da52774f6691636c732a62cf6cb57dd35178
@@ -1784,6 +1788,19 @@ org.eclipse.dirigible	dirigible-components-api-mongodb	11.41.1		5861628a4924bb65
 org.eclipse.dirigible	dirigible-components-api-mongodb	11.42.0		afdc922d2f5d687dbde56f1436f59627f4b3e735
 org.eclipse.dirigible	dirigible-components-api-mongodb	11.43.0		a2e3459d4ca7974c2d758106acf564bcf9b6eaa7
 org.eclipse.dirigible	dirigible-components-api-mongodb	11.44.0		bb67b5bc9139958543d0e93694e53ee4e0eb246f
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.0		42fb31fa1829a5b2b710f30c6381a548b46d9e2c
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.1		bfb5626711d130d5bf76e6586d6a2537d2c83097
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.10		f451340ec6bad0c37cceba3e2e800c609d9e02eb
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.11		e689f669ab647cbceaeb125a46a1f05cf8871f1a
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.12		361cbce2d46dc64da62df0a40e7b721eea841c9d
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.13		94d5648cd264119b60a6865cc857441a9b2b44e8
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.3		0bf4b68cbf23707193f8866cbfe360ee6535260a
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.4		2aabc0b6ec6bd6ae893eceabe4e8b693d43892c3
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.5		daf9bf5148d0db781c9e3fc2e47499ccfbdc6d57
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.6		c5348e432a72bc796227d5c23d62149ce2b6bbda
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.7		b60dc0d31052763c51f1f36c339c9fc793914480
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.8		c8adb370c4227e51cc0947d0dcc5b6175477b96f
+org.eclipse.dirigible	dirigible-components-api-mongodb	11.45.9		2d1409dba736b7ff3795a74b590cd9291c2425ac
 org.eclipse.dirigible	dirigible-components-api-mongodb	11.5.0		2b3c55162c21919987ef46993a6a845053e89cac
 org.eclipse.dirigible	dirigible-components-api-mongodb	11.6.0		c3da1a9c7b6c148c5c52c686c2a7595f6bc9a279
 org.eclipse.dirigible	dirigible-components-api-mongodb	11.6.1		b5eba8529612b4a272fe536dca0c3da42e121ef3
@@ -1884,6 +1901,8 @@ org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.17		264653739e
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.18		21f8c78eb1472f120b003391d96375ee73aac4e1
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.19		21c149b3028e54d76e974da1beee1b1332bd1839
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.2		6b563bb0c6215db1eeb60583524422275a074963
+org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.20		fe5508db3594dce86548bff8ed82bc5afefb2fe6
+org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.21		a2f42fa939d0f85b9d0cc72874e71c2cd22dc42c
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.3		dc2c397aec77b02c311074d81db5a4ee3ce213d0
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.4		c38eeaaedb2b75451d55e9c5e51e6fcb73517640
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-async-rest-server	12.0.5		be25a140d754b070ee164eb24762495e0f8196f2

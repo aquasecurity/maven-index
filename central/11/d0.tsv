@@ -552,6 +552,8 @@ com.palantir.atlasdb	atlasdb-backup	0.793.0-rc1		56e6025b111417fc60e91ee664ffd41
 com.palantir.atlasdb	atlasdb-backup	0.793.0-rc2		4a05d09e2b01e4a71adf1815ba9f6f3da7f1ea04
 com.propensive	magnolia-examples_2.11	0.9.0		98675554aec8e21407983601f1e509c392fe5e63
 com.propensive	magnolia-examples_2.11	0.9.1		bc5d0b497cdc57a9f09c416e6c5ee794e5144300
+com.starrocks	jprotobuf-starrocks	1.0.0		6e5150e25cbbb43e091025b825d231c45896f4b5
+com.starrocks	jprotobuf-starrocks	1.0.0	jar-with-dependencies	79bc02f3532eba8855985386645a804a0c728438
 com.tambapps.marcel	marcel-compilation	0.1.1		N/A
 com.tambapps.marcel	marcel-compilation	1.0		N/A
 com.thron.sdk	thron-core-xcontents_2.11	5.0.4		a01c850c2722191623702823219cf3c3924ed366
@@ -762,6 +764,7 @@ dev.inmo	tgbotapi.core-jvm	23.2.0		20fcf31b6b3daf653ee9d68a451a8bcc96c1dfd3
 dev.inmo	tgbotapi.core-jvm	24.0.0		5331b2e2674df1a23b875d3876a8621fa14e0472
 dev.inmo	tgbotapi.core-jvm	24.0.1		573c94c9f7211f3cbf54071055d049b32279e897
 dev.inmo	tgbotapi.core-jvm	24.0.2		08b18e83323ad3d4539657a6b784e3b2e39568de
+dev.inmo	tgbotapi.core-jvm	25.0.0-rc		1f54301c046b7b878b5babedc8b7c6ea2f185365
 dev.inmo	tgbotapi.core-jvm	3.0.0		7d9e27af5c8cb2175cb9f0134d112de04ae87f04
 dev.inmo	tgbotapi.core-jvm	3.0.1		4679a7dcc2b8c8e0b62498334f79f45a706643e8
 dev.inmo	tgbotapi.core-jvm	3.0.2		f55d2f2d40fac1f23cf85bb6e0d1574eb7c52555
@@ -1212,6 +1215,8 @@ io.ktor	ktor-call-id-macosarm64	3.1.1		bdb2307d161124a86e9e427502dc04f234b5a6c3
 io.ktor	ktor-call-id-macosarm64	3.1.1	metadata	02d7cff904050e7da0060aedd56a0f1c23ec8aba
 io.ktor	ktor-call-id-macosarm64	3.1.2		decf0ed0ad1dbeb447ce30b43061671b61c94d14
 io.ktor	ktor-call-id-macosarm64	3.1.2	metadata	620e407308b598604192db90fa0626be48d6f6f1
+io.ktor	ktor-call-id-macosarm64	3.1.3		cd1467628a3a1c0d88b919d3644b67d40b142e45
+io.ktor	ktor-call-id-macosarm64	3.1.3	metadata	61d6dccfb2a7eec10b1a48aea5c677351fc1d70d
 io.lumify	lumify-build-tools	1.0		4379a280b70f9e5846dfef202496b10c861f78b1
 io.quarkiverse.googlecloudservices	quarkus-google-cloud-bigtable-deployment	0.10.0		b55e4d2eeed79fa7187426c3beff43013f9e5b9d
 io.quarkiverse.googlecloudservices	quarkus-google-cloud-bigtable-deployment	0.11.0		ee72334ea77251d6390ffba67cfe7d0cd89fb054
@@ -1393,6 +1398,7 @@ media.kamel	kamel-decoder-image-vector-macosarm64	1.0.2		N/A
 media.kamel	kamel-decoder-image-vector-macosarm64	1.0.2	metadata	d5986f734762e3baca21ed3b1201d6911a369443
 media.kamel	kamel-decoder-image-vector-macosarm64	1.0.3		N/A
 media.kamel	kamel-decoder-image-vector-macosarm64	1.0.3	metadata	b13ae991e18d471d70dfdf73142669ca2871181c
+media.kamel	kamel-decoder-image-vector-macosarm64	1.0.5	metadata	c273afb51492d0775994c552e7e42df70cbe33f3
 net.exogeni.orca	boot	5.4.5		c20e4d479374da36280498cdc545064fe3c1bcfb
 net.iuyy	iuyy-api-doc	1.0.Beta		aa1ca180b69a59e9dbb45b8ed270201fead342ef
 net.iuyy	iuyy-api-doc	1.1.Beta		414a8e37a3ceef2a99560ee5ef9875b820fe2c75
@@ -3841,7 +3847,18 @@ software.amazon.awssdk	repostspace	2.31.30		ded2dc2c993650a6b46b5295b734eb8809dd
 software.amazon.awssdk	repostspace	2.31.31		a05a77ea8726cd08c46b26cb0a58dc38cd620ce8
 software.amazon.awssdk	repostspace	2.31.32		93c722e74f16aa3e227b8eff6201d900dca9525b
 software.amazon.awssdk	repostspace	2.31.33		f4bfa960454f665eaa2b0f9a7fb4f2779ddfc9bf
+software.amazon.awssdk	repostspace	2.31.34		d6156333c84af6f8e117292a2e7fcb6ea8fe95b8
+software.amazon.awssdk	repostspace	2.31.35		01d4e7fc44ce10d85b44f5a114e33a79a654d2a8
+software.amazon.awssdk	repostspace	2.31.36		46246f07715830eb250f026a2855c0b8722800e9
+software.amazon.awssdk	repostspace	2.31.37		bd6785275ddf2b028a571726b226f00b301f21b3
+software.amazon.awssdk	repostspace	2.31.38		2f11870c442f69ab20533b382b26bc4fcf2063a5
+software.amazon.awssdk	repostspace	2.31.39		b4368c8c30a6a3e11f991aae436c4a2e890a7737
 software.amazon.awssdk	repostspace	2.31.4		8ae78ab54f09bcef858e9c649bac15f59743c150
+software.amazon.awssdk	repostspace	2.31.40		2072bbb7334593588199e927863cdb545dff6094
+software.amazon.awssdk	repostspace	2.31.41		70687c5f5e55ab2627ace244761719da96edbb0c
+software.amazon.awssdk	repostspace	2.31.42		93472cecb84e5d3dc938fb795c6d30c01e56c5ad
+software.amazon.awssdk	repostspace	2.31.43		e139eb843f217ce77ea8240be6e8eb0ac11d5554
+software.amazon.awssdk	repostspace	2.31.44		86b60db3e040553841db29bce1384c65572da5bb
 software.amazon.awssdk	repostspace	2.31.5		de30bb3ae8ab9c067d65e6c29417d0a81051996b
 software.amazon.awssdk	repostspace	2.31.6		f5bbc9d1ff8d38594e6d5e31539c18ad921e31d9
 software.amazon.awssdk	repostspace	2.31.7		58cc535a5e1dc7b0295de7457c864738e1f3fafc

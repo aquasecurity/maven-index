@@ -430,6 +430,10 @@ com.mntviews	mnt-bridge-file	1.0.3		4afd5bbc3e307365e13f1e0574bfe64add0de0ba
 com.nrinaudo	kantan.codecs-refined-laws_sjs1_2.13	0.5.2		29c01ae6422957064ee17ada97626977abd63d39
 com.nrinaudo	kantan.codecs-refined-laws_sjs1_2.13	0.5.3		8a50b1ed7858b1805c7e1a3a72d38b740eed932e
 com.nrinaudo	kantan.codecs-refined-laws_sjs1_2.13	0.6.0		3afe194145e1613fcf8bb5f48d3b4ea7ff1db747
+com.orrsella	sbt-stats_2.9.2_0.12	1.0		07dc2754035d05b424e07e1ec1b968ec57ec0d10
+com.orrsella	sbt-stats_2.9.2_0.12	1.0.1		a10bf36f48e08195f134fcf269740e4d525f43b8
+com.orrsella	sbt-stats_2.9.2_0.12	1.0.2		f77a570a5753a9ff0abbbe37deb18973e3d3a1a7
+com.orrsella	sbt-stats_2.9.2_0.12	1.0.5		2c0b8e1cb3ba0246ab4812ce3ee50ed323f95dff
 com.spotify	scio-elasticsearch8_2.13	0.11.10		2247878f3736c898dab7419807166113c56d4d9e
 com.spotify	scio-elasticsearch8_2.13	0.11.11		5cfa8e1fbca1cd9a9945dce4559c3708a28fd9ba
 com.spotify	scio-elasticsearch8_2.13	0.11.12		5cb6bcf178457999c25db3425126be20f01557e4
@@ -471,6 +475,7 @@ com.spotify	scio-elasticsearch8_2.13	0.14.13		0cf993d1d1d5cd9ab38a9be9c2fb746b83
 com.spotify	scio-elasticsearch8_2.13	0.14.14		96a01c0f409b008fad46de087cb5c7cb77603e08
 com.spotify	scio-elasticsearch8_2.13	0.14.15		47d0274d893295813ad87b51e578287f6fdd43e1
 com.spotify	scio-elasticsearch8_2.13	0.14.16		e5fdbf857f3bc7a51983b0867074c35d9ccc8226
+com.spotify	scio-elasticsearch8_2.13	0.14.17		b0089fa2a7d10bc85f1203592fb803199068605b
 com.spotify	scio-elasticsearch8_2.13	0.14.2		7c2ca69c6bc7364302b7524633a48226301507c4
 com.spotify	scio-elasticsearch8_2.13	0.14.3		aa5cb1e2363975a1e466d31ab4415d129406c41a
 com.spotify	scio-elasticsearch8_2.13	0.14.4		7d3f62598f67f33ef8285558ec959b0377da1617
@@ -761,6 +766,7 @@ dev.zio	zio-aws-bedrockruntime_2.12	7.31.27.1		6c14129567a6eae356a01b1af33a09247
 dev.zio	zio-aws-bedrockruntime_2.12	7.31.28.1		506a50ede90f1423266b0b4fd0dcf8da2ea423e0
 dev.zio	zio-aws-bedrockruntime_2.12	7.31.3.1		7fcd7b9a0e393584791b6f53725c465cf027c643
 dev.zio	zio-aws-bedrockruntime_2.12	7.31.30.1		a7ac40328c5477903251e4aa32b8b319162e468c
+dev.zio	zio-aws-bedrockruntime_2.12	7.31.30.2		42b4b134c6523a6607368c44805514ec839d2d66
 dev.zio	zio-aws-bedrockruntime_2.12	7.31.4.1		3f5343d2465ded3ee1acaad3ccbfeedb86f94337
 dev.zio	zio-aws-bedrockruntime_2.12	7.31.6.1		d7158ae3a7b69942902eb713fe741a91da2bfc1b
 dev.zio	zio-aws-bedrockruntime_2.12	7.31.6.2		f2f5d733af6e2bd91eeea7bd30b3fc063aa429bb
@@ -805,6 +811,9 @@ hu.bme.mit.theta	theta-cat	6.12.2		cbc5ee9e4fba5d7e862360e74c86c65396e4039c
 hu.bme.mit.theta	theta-cat	6.12.3		e3ec853b9063479afd468c84b050e4a507adc44b
 hu.bme.mit.theta	theta-cat	6.13.0		caba6f47af11afac4cd724748ed962551e193c0c
 hu.bme.mit.theta	theta-cat	6.13.1		2a57e8f054e34b19e9f24ef4254b5d1f53d015e5
+hu.bme.mit.theta	theta-cat	6.13.2		7e2b199a8d9f6e6889553d8f97aac683368efba1
+hu.bme.mit.theta	theta-cat	6.14.0		38b00864545e0ebe6e1978b61faf6233d57dddd4
+hu.bme.mit.theta	theta-cat	6.14.1		bc12fa3ac609aebae0821bf3e3d4f4c2abd97e91
 hu.bme.mit.theta	theta-cat	6.2.0		182d6a46fc45c4ef29fc4ae9064efdde3f778183
 hu.bme.mit.theta	theta-cat	6.3.3		b86be4f357e2baa08efdb35ecd4bad3b53c48ed8
 hu.bme.mit.theta	theta-cat	6.3.4		826552e28f56e15b05c306fbc137edb64471ecfc
@@ -976,6 +985,7 @@ io.quarkus	quarkus-rest-csrf-deployment	3.15.2		470ef8984e96abbbaea95c2fabf598a7
 io.quarkus	quarkus-rest-csrf-deployment	3.15.3		7422dc4bc9931a2fd632c6855d45136fd409dfbf
 io.quarkus	quarkus-rest-csrf-deployment	3.15.3.1		d4e948c7bfa958ea0cbf969637cf70ccf8b63e57
 io.quarkus	quarkus-rest-csrf-deployment	3.15.4		ec3cdc70ce91131931f7df340a2489d88bac7553
+io.quarkus	quarkus-rest-csrf-deployment	3.15.5		4eadf51d018f39e28a3802d92f08150917da3126
 io.quarkus	quarkus-rest-csrf-deployment	3.16.0		ee9f292721b4b8e85ffa17678254a26cf588fef1
 io.quarkus	quarkus-rest-csrf-deployment	3.16.0.CR1		acf6fd66574e2b95f56ab4d90aed7db07b84c862
 io.quarkus	quarkus-rest-csrf-deployment	3.16.1		6a1b362c3033923823e9d8bb056fb6420546874b
@@ -1006,6 +1016,7 @@ io.quarkus	quarkus-rest-csrf-deployment	3.19.3		c5809261a0f6cd9f5338edbaa89eb7be
 io.quarkus	quarkus-rest-csrf-deployment	3.19.4		84a82bd01fd680155b1d3c1364c54d736df3cbbb
 io.quarkus	quarkus-rest-csrf-deployment	3.20.0		4e9f2a6de88faabfbb05115f5fda0d77d104bad2
 io.quarkus	quarkus-rest-csrf-deployment	3.20.0.CR1		6cdacc0f90718fed3aaaff88bbdf7cfb72613b01
+io.quarkus	quarkus-rest-csrf-deployment	3.20.1		7802adf534bf672eba109235ca9c8a3497ede5b2
 io.quarkus	quarkus-rest-csrf-deployment	3.21.0		38fc1c210a71faa5343a475944c6359a2b62d004
 io.quarkus	quarkus-rest-csrf-deployment	3.21.0.CR1		0d8a6516ce84798c5eb530944298bcd79b008b69
 io.quarkus	quarkus-rest-csrf-deployment	3.21.1		a5d6cbb446ef1035b4636a4f5d05b53f89a4bc82
@@ -1015,6 +1026,9 @@ io.quarkus	quarkus-rest-csrf-deployment	3.21.4		281230a5176f7e42ee24df787d7e5cbd
 io.quarkus	quarkus-rest-csrf-deployment	3.22.0		ac3bd2eac9a7f0dfede42958869648188b1a765f
 io.quarkus	quarkus-rest-csrf-deployment	3.22.0.CR1		882a8a7ba481373d084388d89f11ba44ccec6296
 io.quarkus	quarkus-rest-csrf-deployment	3.22.1		9d12d1b215b59a092bed4cde38937a7bfb2a921d
+io.quarkus	quarkus-rest-csrf-deployment	3.22.2		52c382c4a79d14bf5c8e1152025b08141bdc3bba
+io.quarkus	quarkus-rest-csrf-deployment	3.22.3		596ff8e7101cc4b05162399c0df57d8284dd5a99
+io.quarkus	quarkus-rest-csrf-deployment	3.23.0.CR1		fe0f3d5407c4e6c1f1091a833dde75ddb82dfde0
 io.quarkus	quarkus-rest-csrf-deployment	3.9.0		f64bb035a518efe46a8246afc94c3b7245f3634d
 io.quarkus	quarkus-rest-csrf-deployment	3.9.0.CR1		857b9a746ef99a3a747a4e0b4786f7d1f50ca1c5
 io.quarkus	quarkus-rest-csrf-deployment	3.9.0.CR2		d8f4f70e0f48cf48e6e81abd73702170f447e5fb

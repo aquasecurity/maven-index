@@ -742,6 +742,7 @@ io.github.zkpursuit	kaka-core	6.0.0		2432e6a392391d8854dd27ce56086d776b9f7ba8
 io.github.zkpursuit	kaka-core	6.0.1		4b36a49f7703f35db82aa916ad5e1988dcdf958d
 io.github.zkpursuit	kaka-core	6.0.2		3ce4c55dd7082b7acd73276b1c0136880e5a6379
 io.github.zkpursuit	kaka-core	6.0.3		c5dd7a4f99df17d825d5e186d17773efa553cef5
+io.github.zkpursuit	kaka-core	6.0.4		fae9c28fe0e2fad34c24793ba4646117d4d497de
 io.gravitee.am	gravitee-am-webui	1.0.0		N/A
 io.gravitee.am	gravitee-am-webui	1.0.1		N/A
 io.gravitee.am	gravitee-am-webui	1.1.0		N/A
@@ -1460,6 +1461,7 @@ io.quarkus	quarkus-opentelemetry-deployment	3.15.2		4bbc4e9571a3610618b15f020995
 io.quarkus	quarkus-opentelemetry-deployment	3.15.3		fc60cc49094105d0b562be47c248604eed852a6e
 io.quarkus	quarkus-opentelemetry-deployment	3.15.3.1		af1679bc0cc9e8a40be8a1c1bae498d187113266
 io.quarkus	quarkus-opentelemetry-deployment	3.15.4		0d177122b5dd7c740605a1fa5760283de8a59632
+io.quarkus	quarkus-opentelemetry-deployment	3.15.5		ff88475fbca97b201a7091f5eefc1c41ee21d594
 io.quarkus	quarkus-opentelemetry-deployment	3.16.0		4b966ef0ab18aa98bc1501f5ba57637c597c82c1
 io.quarkus	quarkus-opentelemetry-deployment	3.16.0.CR1		67e0ac60840dd6b00743ebfc7f61ecff3f52bca9
 io.quarkus	quarkus-opentelemetry-deployment	3.16.1		8014feef4e2499047a4f04a9d2414d3effa9b452
@@ -1504,6 +1506,7 @@ io.quarkus	quarkus-opentelemetry-deployment	3.2.8.Final		02cdc89ae76d9e9cba66fb4
 io.quarkus	quarkus-opentelemetry-deployment	3.2.9.Final		051971c72797a54b065805e1ffed30abfaa47016
 io.quarkus	quarkus-opentelemetry-deployment	3.20.0		08fa349d1b7353ee395e8399cade503145fccac8
 io.quarkus	quarkus-opentelemetry-deployment	3.20.0.CR1		65a951f25af4e1c3054f18c8eb48755f2709278e
+io.quarkus	quarkus-opentelemetry-deployment	3.20.1		58518878663565169999c4595a6bfcca184db31a
 io.quarkus	quarkus-opentelemetry-deployment	3.21.0		49b17bab9e1469964078b06c6bfd3451a514bac4
 io.quarkus	quarkus-opentelemetry-deployment	3.21.0.CR1		3db2bd2e198dc03e78df9b6af0e6dcff9f2b2382
 io.quarkus	quarkus-opentelemetry-deployment	3.21.1		090f46c184d6fbc5143a3fd4bf1e4d0575ab4789
@@ -1513,6 +1516,9 @@ io.quarkus	quarkus-opentelemetry-deployment	3.21.4		9fc0d208fa654a0793e65fa873e5
 io.quarkus	quarkus-opentelemetry-deployment	3.22.0		9ab8e868b57223f600001587b41465a1acbe8f3e
 io.quarkus	quarkus-opentelemetry-deployment	3.22.0.CR1		3b46db231490e30bfd1cfdcb3c901f9a4b1469c9
 io.quarkus	quarkus-opentelemetry-deployment	3.22.1		f4a07fe0a7cac4ae9829a30cedf5ce8f270510c5
+io.quarkus	quarkus-opentelemetry-deployment	3.22.2		308e7edef80b2566fa6134682ce5dd47fa48b1a1
+io.quarkus	quarkus-opentelemetry-deployment	3.22.3		5f2f6e63580a8bfa897dcdfa466b26de71205778
+io.quarkus	quarkus-opentelemetry-deployment	3.23.0.CR1		4d6d7b988927978e1067dc2dbea074f444fbe64f
 io.quarkus	quarkus-opentelemetry-deployment	3.3.0		ba8a254f27d3bdd6a34bb2b50b4b5fad6867fcd8
 io.quarkus	quarkus-opentelemetry-deployment	3.3.0.CR1		68f4ea729edd0c7d7d2c86d40832b275cea9e832
 io.quarkus	quarkus-opentelemetry-deployment	3.3.1		7d75a1c6285151d0e349ae45139fc72860afb1ac
@@ -1791,6 +1797,7 @@ org.apache.camel	camel-test-infra-chatscript	4.8.3		730647ce753d09dd2c6470746b6c
 org.apache.camel	camel-test-infra-chatscript	4.8.4		f92497d10a79198e4f7d9267beb4e8479de3e1db
 org.apache.camel	camel-test-infra-chatscript	4.8.5		7d41f51850da732653ea4ea6ef30c0f0ed055ce7
 org.apache.camel	camel-test-infra-chatscript	4.8.6		4ce465c0898f2d55bac1efc30c5ddcd018994c8e
+org.apache.camel	camel-test-infra-chatscript	4.8.7		1adcbcf3fc6081f87f5acdad41dd4cd798e9700d
 org.apache.camel	camel-test-infra-chatscript	4.9.0		39c2629636826a35757aad15408cbd83bdc3a703
 org.apache.clerezza	platform.typerendering.core	0.2-incubating		1099836e6e896a88fbf310ee04c84f90c4def82c
 org.apache.clerezza	platform.typerendering.core	0.3		18d4fd63df70080b6ea2e7377dc98a6b07de22a6
@@ -2140,6 +2147,10 @@ tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.0.8	metadata	bc1441c09b8153eef2ac36a00589b38839e5a6e0
 tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.0.9	metadata	5015ae3f4e65badd7ce72b6ab41f1d243a309a15
+tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.1.0	metadata	348b3cc139bf1397bd244e4ad1712e8c55b94639
+tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.1.1	metadata	e5d278bf634bc379d10e659c69faeb234f289a96
+tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.1.11	metadata	d3162ee47b17d309760687e1c6c9fe7be6244fef
+tz.co.asoft	koncurrent-later-test-watchossimulatorarm64	3.1.12	metadata	702398835bac04532173ceee477a3624def75b28
 tz.co.asoft	raven-outbox-server-watchosarm32	3.0.11		N/A
 tz.co.asoft	raven-outbox-server-watchosarm32	3.0.11	metadata	7fecf860b0632d1c6a7f8dfb676a581963ea3389
 tz.co.asoft	raven-outbox-server-watchosarm32	3.0.12		N/A
@@ -2154,6 +2165,10 @@ tz.co.asoft	raven-outbox-server-watchosarm32	3.0.8		N/A
 tz.co.asoft	raven-outbox-server-watchosarm32	3.0.8	metadata	f7d18ac4950625ff6b13c79e18f2498a32b1a74a
 tz.co.asoft	raven-outbox-server-watchosarm32	3.0.9		N/A
 tz.co.asoft	raven-outbox-server-watchosarm32	3.0.9	metadata	c5a2b19b7110fd55078f740956fd6f13626d7ae6
+tz.co.asoft	raven-outbox-server-watchosarm32	3.1.0	metadata	7acad5b0a6df99966c4adb4ab99ab8b016f8c71c
+tz.co.asoft	raven-outbox-server-watchosarm32	3.1.1	metadata	b96487f1d83efcbf4d36967c123887cb13f2f9a6
+tz.co.asoft	raven-outbox-server-watchosarm32	3.1.11	metadata	4a5826e8b6df964016fd7c92cb8a1a9f398ac0c4
+tz.co.asoft	raven-outbox-server-watchosarm32	3.1.12	metadata	0142fc4e2254aa0017414f4725e746491d2d491b
 xyz.cofe	gui-swing-color	1.0		493ff7d7613af63304563c76a040984c537db129
 xyz.cofe	gui-swing-color	1.1		b9374c9a3a6feab1e0557e6399147468de51d3f3
 xyz.cofe	gui-swing-color	1.6		1d3bb7ce476f0c08fe02627e48dc04e97e422b2d

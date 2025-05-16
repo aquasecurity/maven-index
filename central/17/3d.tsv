@@ -373,6 +373,7 @@ com.github.luxlang	lein-luxc	0.6.5		f02ef5b3803acb92f571a10cbac3b82991e54b8b
 com.github.luxlang	lein-luxc	0.7.0		2001db1ac81f85e13f7dfde6be0fc89df04b34bc
 com.github.onskola	Authorization-server	1.0.0		397ef570a4da033ac634ef8f8155c3e787d1f2c3
 com.github.onskola	Authorization-server	1.0.1		a0a6132f440230040c2be68701b7835aa0e8e6fb
+com.github.philcali	sbt-aws-plugin_2.10_0.13	0.1.0		3bbf42918925f7cfa288f914d5e85a4528ed3e8a
 com.google.apis	google-api-services-vectortile	v1-rev20200622-1.30.10		927d63f4f9942c15192ed32ad53db06e6b0dc45a
 com.google.apis	google-api-services-vectortile	v1-rev20200622-1.30.9		6b6cd9c90c283352a607da41205f0809be9fe73f
 com.google.apis	google-api-services-vectortile	v1-rev20200808-1.30.10		0f67c23b0d016958a90e96f7d243ab17dc727e02
@@ -480,6 +481,7 @@ com.netflix.atlas_v1	atlas-pekko_3	1.8.0-rc.29		aea57c6ff540451bf6dfc10805cd8da3
 com.netflix.atlas_v1	atlas-pekko_3	1.8.0-rc.30		47ede6a05f5e2f19356fcc00373348c57265d0f7
 com.netflix.atlas_v1	atlas-pekko_3	1.8.0-rc.31		4e0ed9f7574a22b0c3a930de13527bf706bd1a3f
 com.netflix.atlas_v1	atlas-pekko_3	1.8.0-rc.32		c8c7e0ac9b027a1b961a3367b7690032b5e1f727
+com.netflix.atlas_v1	atlas-pekko_3	1.8.0-rc.33		e8618c5e65e96e7d4c24bc9cf7922f34658af70d
 com.netflix.atlas_v1	atlas-pekko_3	1.8.0-rc.9		bdec4d76b3d258cd0a9a4d40076e6c428ac29e3a
 com.redmadrobot.mapmemory	mapmemory-rxjava3	2.0		ff80e97d9e93e2ce4e197f46c4496a6cc08e2f64
 com.redmadrobot.mapmemory	mapmemory-rxjava3	2.0-rc1		0ba6bfc8912e06b7a30b329b373ef118d3fd503f
@@ -624,6 +626,7 @@ dev.opensavvy.prepared	compat-ktor-watchosarm64	2.0.0-alpha.2		N/A
 dev.opensavvy.prepared	compat-ktor-watchosarm64	2.0.0-alpha.2	metadata	78b42abe3ba88b41d851801217c7e99608683cd8
 dev.opensavvy.prepared	compat-ktor-watchosarm64	2.0.0-rc.1		N/A
 dev.opensavvy.prepared	compat-ktor-watchosarm64	2.0.0-rc.1	metadata	ab8add524ba1ffa9659e14b131572d4ad3c9db84
+dev.opensavvy.prepared	compat-ktor-watchosarm64	2.0.1	metadata	9856fa3812beb691dd2ebefe381f45ecaaeef876
 dev.rudiments	implementation	0.1		0ce4a7a33134130048e10c49749108bb833c9244
 dev.rudiments	implementation	0.2		038399066423c290fff52810a8b97b447494ec2a
 eu.hansolo.fx	monitor	17.0.0		bfe2ee5e0b3447cf60675f6e4a5e22ef5b31dfbb
@@ -1110,7 +1113,11 @@ io.kestra.plugin	plugin-jdbc-duckdb	0.21.3		27442ab9227f041d5a414b85976e9cb00df3
 io.kestra.plugin	plugin-jdbc-duckdb	0.21.4		b78278036511a212cee075d2eb59ca51a3c13b3a
 io.kestra.plugin	plugin-jdbc-duckdb	0.21.5		732726acb38036af320fc27f1387b6f89e52a3b7
 io.kestra.plugin	plugin-jdbc-duckdb	0.21.6		4ede50fb76d011744cf934d0525cf869e4f2e92e
+io.kestra.plugin	plugin-jdbc-duckdb	0.21.7		60681380c401287ec1a865ff7dfe01ec2f8f61c0
 io.kestra.plugin	plugin-jdbc-duckdb	0.22.0		0b9075286d30ec8dbfbc6934007e7b0d8015184c
+io.kestra.plugin	plugin-jdbc-duckdb	0.22.1		cc2c67fb2cd09a1ee7266cad17b05d73910d2bbe
+io.kestra.plugin	plugin-jdbc-duckdb	0.22.2		29b6812218f9f4ca4756c4b24bf21c2bbf6a1a39
+io.kestra.plugin	plugin-jdbc-duckdb	0.22.3		32553c76f3cbfc369ab10bc7db5d927625213865
 io.kestra.plugin	plugin-jdbc-duckdb	0.5.2		fffc665071b8c78754f67a12b53575e14958d453
 io.kestra.plugin	plugin-jdbc-duckdb	0.6.0		1d04c724a6a5a2a49c65b4e80493eff309b2caf6
 io.kestra.plugin	plugin-jdbc-duckdb	0.6.1		22b3335546fa37782cb24ecdb677f99cb372f21a
@@ -1523,6 +1530,7 @@ org.apache.camel	camel-test-infra-xmpp	4.8.3		38ff333dcf8592cb49146a9e08138b567e
 org.apache.camel	camel-test-infra-xmpp	4.8.4		c79f4d89250a9603fc476079f4d078a83822cf32
 org.apache.camel	camel-test-infra-xmpp	4.8.5		fa17c398a2ca023f3539f7139e78614ca8d742d2
 org.apache.camel	camel-test-infra-xmpp	4.8.6		3b824e30043227f39dcea082265d618eaa7dea31
+org.apache.camel	camel-test-infra-xmpp	4.8.7		2a8bd04b7495cfbbad025f86f532de63d920db43
 org.apache.camel	camel-test-infra-xmpp	4.9.0		4838e6279d0b08819a45b57d8b1d9575490af6bf
 org.apache.plc4x	plc4j-transport-tcp	0.10.0		8db37ddf4ab5f50e33bd6214760142e04398077b
 org.apache.plc4x	plc4j-transport-tcp	0.11.0		f45372eb610d90d4ed086b0e1e20981daf7c5c09
@@ -2020,4 +2028,7 @@ tz.co.asoft	cinematic-live-test-iosx64	3.0.8		N/A
 tz.co.asoft	cinematic-live-test-iosx64	3.0.8	metadata	c52155fac789717ef6f384224c5d2a5b2f3b0376
 tz.co.asoft	cinematic-live-test-iosx64	3.0.9		N/A
 tz.co.asoft	cinematic-live-test-iosx64	3.0.9	metadata	5b5681a533d421c2bca129e0950fe993b64bddf3
+tz.co.asoft	cinematic-live-test-iosx64	3.1.1	metadata	18e83d377904c96e09d37cc0a863ea2b8db40804
+tz.co.asoft	cinematic-live-test-iosx64	3.1.11	metadata	91789815e907c82a905e7ff24db9c17e8d7ca164
+tz.co.asoft	cinematic-live-test-iosx64	3.1.12	metadata	76274168e3ce3ca9f2eb8eb2add52a089d5c301f
 xyz.cofe	embeded-console	0.2.2		408cc0ae6acbbfbe0ab79d801dc9807b1bf1d1a6

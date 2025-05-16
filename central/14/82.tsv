@@ -85,6 +85,7 @@ com.dimafeng	testcontainers-scala-mssqlserver_3	0.41.4		3bd3254d68758c7eb60f5ce6
 com.dimafeng	testcontainers-scala-mssqlserver_3	0.41.5		14ae7051f68d09495726dcd2e6a80cab18e5fba7
 com.dimafeng	testcontainers-scala-mssqlserver_3	0.41.8		efa6c2bbe10805b95290a54d8c0f6c0660aad815
 com.dimafeng	testcontainers-scala-mssqlserver_3	0.43.0		b94dc36988a564775de683a67e478d52cffd080f
+com.eed3si9n	sbt-buildinfo_2.12_1.0	0.11.0		d1ade87a835d3c2603e5a02c361160a2b8da8d6b
 com.eed3si9n	sbt-buildinfo_2.12_1.0	0.12.0		b40f9c5b67a97675412df28935e1e82a704efe32
 com.eed3si9n	sbt-buildinfo_2.12_1.0	0.13.0		61f4a4c403913859b98d32fabcfb8ed6c4e36f3a
 com.eed3si9n	sbt-buildinfo_2.12_1.0	0.13.1		cb6eaba3bd6239d4c78f77992641541b8069287c
@@ -541,6 +542,9 @@ com.sdl.lt	Testy	20.08.477.0_c2aba8a		58a9f564bec24b031c006079553f2eaddd794032
 com.sdl.lt	Testy	20.08.478.0_471c261		156e8489ef8785bb52c65b76c2d90077cf44c86d
 com.sdl.lt	Testy	20.08.479.0_f6d530e		807727884342a9752e953a25d9291b7402eebcc7
 com.sdl.lt	Testy	20.08.48.0_9ed3654		a7ff0e74d61bec52ccb50c2bb52b6432f82055da
+com.sdl.lt	Testy	20.08.480.0_f98e7f6		9983ab3df012cca29a97b3570e5dfba23dfe8006
+com.sdl.lt	Testy	20.08.481.0_fb03509		427e698485277cbc765f3fdc601e93fd938d4ec7
+com.sdl.lt	Testy	20.08.482.0_a877a3b		acfdef93d9335c758745c9a23348c835c1baa96f
 com.sdl.lt	Testy	20.08.49.0_194e183		691c9a42006f20ea27ebd7ee3d53702f4488be58
 com.sdl.lt	Testy	20.08.50.0_2ceed51		da64782a9747d347ae8bdc96fdfe08eea314e731
 com.sdl.lt	Testy	20.08.51.0_438cba1		6820ec4baa0eccb676e9b015b3a55935c22da040
@@ -942,7 +946,14 @@ dev.jeka	nodejs-plugin	0.11.21		9e52e1ea5c210cf0f127551ae9776255143378e5
 dev.jeka	nodejs-plugin	0.11.22		10a68ea9ca2e7551d8ed3366fbfd92770c0aaa3f
 dev.jeka	nodejs-plugin	0.11.23		ad79b25246a0d6f769327c86f85cb247b3dd7d6f
 dev.jeka	nodejs-plugin	0.11.24		7a80a0f493dc58072812466049c5687418275f9a
+dev.jeka	nodejs-plugin	0.11.25		9d90fcc5031399e69c7251782978ae27c4e8167b
+dev.jeka	nodejs-plugin	0.11.26		b98fadf515485cda9b895f5e970901dc30f422fc
+dev.jeka	nodejs-plugin	0.11.28		b2425f27612fc00d5b01b2adb1aab6d059b76ec1
+dev.jeka	nodejs-plugin	0.11.29		9df04caa35dd6d199e11101ed20f851614299d3c
 dev.jeka	nodejs-plugin	0.11.3		59b4b0c17f9391c8b7964886dcd0b5b596fcaada
+dev.jeka	nodejs-plugin	0.11.30		ba0d1794d1148857d0d7e0fafa0fef70b5a5eb02
+dev.jeka	nodejs-plugin	0.11.31		c049acb6312241c87ef0dcf13bf47835de486e9c
+dev.jeka	nodejs-plugin	0.11.32		2412b6bfc8d0433a789da5487c379cb3fcefdadd
 dev.jeka	nodejs-plugin	0.11.4		812ec01bf7650276deb55e8d5fbff5ad0ae51628
 dev.jeka	nodejs-plugin	0.11.5		88a4e7bcd4e52a998a39d71e737dae993d184711
 dev.jeka	nodejs-plugin	0.11.6		ddf22d4d9852ebfdfae2b647f2d7802a9062b473
@@ -1134,6 +1145,8 @@ io.ktor	ktor-client-call-id-watchosarm64	3.1.1		f33ccdf0da4339048613b312f5152ddb
 io.ktor	ktor-client-call-id-watchosarm64	3.1.1	metadata	b91d3fdeb216323eecbe5ae54886f2889d5d935d
 io.ktor	ktor-client-call-id-watchosarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-call-id-watchosarm64	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-client-call-id-watchosarm64	3.1.3		7740485bc4a2a71bab0db821c0a1d7073ce3d511
+io.ktor	ktor-client-call-id-watchosarm64	3.1.3	metadata	b78e96cfd7f21879f920e83b6f06d5ab1983cd8f
 io.mosip.testrig.authentication.demo	authentication-demo-service	1.2.0.1		a875746f629d3845acc803ac5e764bf9d94b2f68
 io.playgap	playgap-sdk	0.0.1		N/A
 io.playgap	playgap-sdk	0.0.2		N/A
@@ -1356,6 +1369,7 @@ org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.2.1		192c722dc7e198811e9
 org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.2.2		8b8e19322cbf0232221c2031bea1abce977fdc63
 org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.2.3		8be9798f219a6dd96d1f75453b9e37d803694c91
 org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.20.0		92ab776061904ea127b7613cc0b76aa1b0b26a61
+org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.20.1		8313a16f6a322b677f67607f81ff81166d489eb6
 org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.22.0		c6ef71ee92e734597a849ee507bace726d884766
 org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.4.0		fd5a1c4a469fe7bcd2383564aa618504ce5711ec
 org.apache.camel.quarkus	camel-quarkus-jta-deployment	3.5.0		483fd847a2bae040a851ed241beee3162d19d48f

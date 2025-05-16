@@ -438,6 +438,8 @@ com.google.api.grpc	grpc-google-iam-admin-v1	3.53.0		4e5f41fc9d1c7044f3a1937b5f1
 com.google.api.grpc	grpc-google-iam-admin-v1	3.54.0		8ca2d690993f5e86db7b740ff7a8383aca86902b
 com.google.api.grpc	grpc-google-iam-admin-v1	3.55.0		cecc773251fbf39ede4ca2f1b54575a43332a3bd
 com.google.api.grpc	grpc-google-iam-admin-v1	3.56.0		e839f413563f415e92c52ecbe87a81240a260da7
+com.google.api.grpc	grpc-google-iam-admin-v1	3.57.0		6d7316badbd6933d0c1f451d965e9ddd120eb122
+com.google.api.grpc	grpc-google-iam-admin-v1	3.58.0		02c2c9593c0bd56da5c25c3772cfe009931a4f00
 com.google.api.grpc	grpc-google-iam-admin-v1	3.6.0		7cb9fdf6fe5f4120ab7468c3fd9dfde5eee432f6
 com.google.api.grpc	grpc-google-iam-admin-v1	3.7.0		6739bf8cfc67c575f29caaa8571c7ee4074227a8
 com.google.api.grpc	grpc-google-iam-admin-v1	3.8.0		74c0e35587c08e3a845ed161c24d759f0ac29e87
@@ -793,6 +795,7 @@ com.yugabyte	java-driver-test-infra	4.15.0-yb-2-TEST.1		1e0fcfd85d64c9103c844339
 com.yugabyte	java-driver-test-infra	4.15.0-yb-2-TEST.2		efd664c6faf0f042d1d1ec9529fad1dc685e2630
 com.yugabyte	java-driver-test-infra	4.15.0-yb-2-TESTFIX.0		8abf3e84bad11c7b616b55be06f9f9937540c94a
 com.yugabyte	java-driver-test-infra	4.15.0-yb-3		23e28b806e776976bc660e894aebcab4ec9a4e9d
+com.yugabyte	java-driver-test-infra	4.19.0-yb-1		3b5e74bb695fbecb85380ca2431c1c69f5831695
 com.yugabyte	java-driver-test-infra	4.6.0-yb-10		e8b26d1ca5b4e1c62b69d29d3598bb30354aa1c4
 com.yugabyte	java-driver-test-infra	4.6.0-yb-11		49b112b7b2bebf8c4891f8433482997c1d8bdd9d
 com.yugabyte	java-driver-test-infra	4.6.0-yb-12		b273d482e7c17f6da98b9a34ab4861e1f3c77020
@@ -1181,6 +1184,7 @@ io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M1		6339fdf26b8765b215c24f0ae055d
 io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M10		086708953865a1f8b4030ad04d886e669bd85f43
 io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M11		3a4eae2b65bbba171981f974defce89f796a2c47
 io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M12		b7635d63de5f60d0f12fd33429437776a6542f2a
+io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M13		2445b2a52c6ce19775307800fc968e53b9a9ed1a
 io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M2		102dbc3c45d53728f0216048834a7ee5ed784b30
 io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M3		686653cef32b9be1dd12f68d51abc8909c47b0bf
 io.get-coursier	coursier-core_sjs1_2.13	2.1.25-M4		f9d87c553c403307b8e07f1c5e5022f2527e9a13
@@ -1247,6 +1251,10 @@ io.github.nafg.dialogue-state	telnyx_2.13	0.1.3		d63938a92bef32bb7df0fcf62879221
 io.github.nafg.dialogue-state	telnyx_2.13	0.1.4		391239063b26d1833625f342682bc8a4ef761812
 io.github.nafg.dialogue-state	telnyx_2.13	0.10.0		87b43656fd0e2e9ac952b971ee1f04b57edadbc6
 io.github.nafg.dialogue-state	telnyx_2.13	0.11.0		675d72ea508d89116a8f0b2a72386d4d2cb8e20b
+io.github.nafg.dialogue-state	telnyx_2.13	0.12.0		d88a50196ff8d833cc1f7d3e14639e1b45fd9afc
+io.github.nafg.dialogue-state	telnyx_2.13	0.13.0		9cf389a0d995ec80468180d09c4be2efbdcccc0b
+io.github.nafg.dialogue-state	telnyx_2.13	0.13.1		fd738d0ba24addd15c526dbba7acce3af6e0cd20
+io.github.nafg.dialogue-state	telnyx_2.13	0.14.0		eaa42d2b80b2dc7d51e6361461219decfeb00fae
 io.github.nafg.dialogue-state	telnyx_2.13	0.2.0		25e630930b657606fa78b17fa00aedd2fcee3ec0
 io.github.nafg.dialogue-state	telnyx_2.13	0.2.1		6a881e6de7505d7f08faecd67ae3cafa61e5b29f
 io.github.nafg.dialogue-state	telnyx_2.13	0.3.0		dbc02687c36398579c1f009c2834f96489561268
@@ -1352,6 +1360,9 @@ io.insert-koin	koin-compose-viewmodel-jvm	4.0.3-Beta1		3d3d6b5f8a9b486d12f294f2a
 io.insert-koin	koin-compose-viewmodel-jvm	4.0.3-RC1		3d3d6b5f8a9b486d12f294f2aee94755404d071b
 io.insert-koin	koin-compose-viewmodel-jvm	4.0.4		3d3d6b5f8a9b486d12f294f2aee94755404d071b
 io.insert-koin	koin-compose-viewmodel-jvm	4.1.0-Beta1		d56cbaa611d86af0fa5a56fad94f305761467d73
+io.insert-koin	koin-compose-viewmodel-jvm	4.1.0-Beta10		32cbaba3e24efebed2cebf8757b43b684f9fefb0
+io.insert-koin	koin-compose-viewmodel-jvm	4.1.0-Beta11		32cbaba3e24efebed2cebf8757b43b684f9fefb0
+io.insert-koin	koin-compose-viewmodel-jvm	4.1.0-Beta13-KTOR-EAP		33ef80f04cd4c11d4314067b42feb384c73ea3d8
 io.insert-koin	koin-compose-viewmodel-jvm	4.1.0-Beta3		a75f1389cc8d8e27107cae3961312dd0cec3439b
 io.insert-koin	koin-compose-viewmodel-jvm	4.1.0-Beta4		a75f1389cc8d8e27107cae3961312dd0cec3439b
 io.insert-koin	koin-compose-viewmodel-jvm	4.1.0-Beta5		a75f1389cc8d8e27107cae3961312dd0cec3439b
@@ -1484,6 +1495,7 @@ me.ahoo.cocache	cocache-api	3.6.1		8562aadf9f1a1161135c6856db693bbf13e7caa1
 me.ahoo.cocache	cocache-api	3.6.5		abb363d1f97a10108950423468e71776aac57f74
 me.ahoo.cocache	cocache-api	3.6.6		58a9a11c0914b00a91e3217e3361c2d1b3c5b344
 me.ahoo.cocache	cocache-api	3.8.0		502d52feeccb26abbffeed86f17c14d520e303c6
+me.ahoo.cocache	cocache-api	3.8.1		634f86bcab1413cbaeb1a5a50b7dae9a4406cd54
 net.md-5	specialsource-maven-plugin	1.0		1115715ee124f83e3e8e0870020088cbf143a7b6
 net.md-5	specialsource-maven-plugin	1.2		880e142f3be46779b2026d29e15d5e214cf1247a
 net.md-5	specialsource-maven-plugin	1.2.1		c0e19c46897e59710c3a4cc324a764b364e56250
@@ -1606,6 +1618,7 @@ org.apache.syncope.ext.camel	syncope-ext-camel-rest-api	3.0.0-M0		36dceebf48b1a2
 org.eclipse.esmf	esmf-aspect-model-aas-generator	2.10.0		cbb9fd3d36c2155d50b5a3e7039f7a8a2a58c9e6
 org.eclipse.esmf	esmf-aspect-model-aas-generator	2.10.1		528a7988a38d07f9defca8031874aba3fd60a094
 org.eclipse.esmf	esmf-aspect-model-aas-generator	2.10.2		ca2f948739f5f70bf6312f9466d308325b8a9cb9
+org.eclipse.esmf	esmf-aspect-model-aas-generator	2.10.3		f61276a92ea88f35663d1f73b05e92c73370149c
 org.eclipse.esmf	esmf-aspect-model-aas-generator	2.2.0		e30bcbcc12f3b212acd2dc7e8283a2a10afd88b7
 org.eclipse.esmf	esmf-aspect-model-aas-generator	2.2.1		e7874e1f451054b3cd2d1d0cdf3e0fa9af4dd65d
 org.eclipse.esmf	esmf-aspect-model-aas-generator	2.2.2		3b5a950f7e407c545cac5fe94c574e424c9f0bbc
@@ -1965,5 +1978,6 @@ org.webjars.npm	read-package-json-fast	1.2.2		f57681d0249b154c1a897cd68d7ed5faf7
 org.webjars.npm	read-package-json-fast	2.0.2		acfd655f21b63061d09a0ebdd360e8f12c9aff2f
 org.webjars.npm	read-package-json-fast	2.0.3		8e1e4089355577b979d9329b61b7be61b2b2a2db
 org.webjars.npm	read-package-json-fast	3.0.2		d6965138cb7e25d65ad3c7561002bde2b733d5a9
+org.webjars.npm	read-package-json-fast	4.0.0		d70dbee4572c4bbd626af531f6bb85a7907f2483
 pl.marcinchwedczuk.javafx.validation	extras	0.1-alpha-1		5b634f2004047ef2b09a76c46ce54c3e36b0d6e9
 uk.co.nichesolutions.presto	presto-spi	0.143-CUSTOM		331fddc75d0f99e48ae6030cb8b625d17ba50f7d

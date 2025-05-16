@@ -75,6 +75,9 @@ com.avito.android	waiter	2023.2		e3b1b3b7c3b752b3d350e140f05900980b68882a
 com.avito.android	waiter	2023.20		67afe499ebe3cd7e2cb3300af8eda4c42a47099d
 com.avito.android	waiter	2023.22		52d0ecd2759b64db19cd40c4feefe462d9227e68
 com.avito.android	waiter	2024.32		6e04013808cc258b9ce68c65cf775ee373937fdf
+com.github.sbt	sbt-protobuf_2.10_0.13	0.7.0		bb67a971dbae029b24023f307a242a7da915008f
+com.github.sbt	sbt-unidoc_2.12_1.0	0.5.0		929d9b1261866c98ef9126a2fa7843f35630c077
+com.github.sbt	sbt-unidoc_2.12_1.0	0.5.0-M2		e75bee1627d2473f38dc222d166d649108a4c8db
 com.github.shynixn.org.bstats	hdb-api	1.7		ae13b22852a3bc146870a750896618c57911fa45
 com.github.starnowski.posjsonhelper	parent	0.1.0		N/A
 com.github.starnowski.posjsonhelper	parent	0.1.1		N/A
@@ -790,6 +793,7 @@ org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.61.0		3f03c909e0562a80a80ab
 org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.62.0		3584c9ab6e2d1100ca872755452ed82657dde269
 org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.63.0		8925c0e8777a9c254a19b855e4099b92ff547ca6
 org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.64.0		303d0d6a6387391103818f100fd690484bf9a9e0
+org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.65.0		17511c2e35aaa6487373c2b040783bb5c9f5e733
 org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.7.0		1d54e4eee1d586cfb16ba2e754f83d50376414c5
 org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.8.0		0ef2904cafe47cbb791ab2da6f5330e1cd6baad7
 org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2.9.0		8c40c3405f93351829a66f7a8039f35e0371ab88
@@ -893,6 +897,19 @@ org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.41.1		29829
 org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.42.0		557b9a533e7307d46f4c51871ff85d1960efa2eb
 org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.43.0		714d62fcff3e90dff6afc5546b3096cd3eeb95cd
 org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.44.0		f622a1aeca4104b8193b0b447c8d8fba9043c0eb
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.0		3d52e3121d53a7c91f66e7bff2deea32ddcae667
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.1		9965b32fe5165ab55677c255692fef1ced6714f3
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.10		c15d4682212ffb223f4e2ddaa415978bab33efb8
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.11		754e787fab4614efc91a123e701148166737f31e
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.12		a2dc8be8b9b42c30c43bfdadeae578e03d833b12
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.13		1d2ebd5a6ada6f61dffc4f32706fb4249cbf891c
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.3		ba63df08ee114b99c866330a11ecf18067a9785e
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.4		fe1aba9f8f190cd75de40feea035c442385ba5b1
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.5		a9d9c1a55d66d329c12aa9f4da61fe9cb5ff1516
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.6		8ef99f730cd53dba008adf24f74e6c4cf3ee8041
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.7		f8a0fcc518a974ffe6505a356c01568662bf76fc
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.8		aba0fdeb3d1efdb9740596de107a57347a3b0d43
+org.eclipse.dirigible	dirigible-components-ui-perspective-tracing	11.45.9		f9bff1e926fbaa8bfd00475aed325f69050a283e
 org.everit.osgi.dev.dist	eosgi-dist-felix_5.0.0	v201504262059		N/A
 org.finos.morphir	morphir-datamodel_3	0.3.0		94e09370c5d2883357fcf23bc621f76e6c7c21e8
 org.finos.morphir	morphir-datamodel_3	0.3.0-M3		5890190350fd5cd9bd9d1650487da3e700c9f3bc
@@ -1202,6 +1219,8 @@ org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	56.0.0		dbf8b6316aa305772cd53ae4a7467cf6095cef9d
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	56.1.0		c060f33ab7508c2916049b1eea9c0aa04d51e1d4
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	57.0.0		06aedcab759ac72bb766c9f96f8769cca95cdc88
+org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	58.0.0		284d96f268af4c56999f498e668be19a0f64df62
+org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	58.0.1		cfb24110300998f4116780d12d4b9ba2aa1f4eff
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	6.0.0		856ad0ac0badedb29b3a7d4c3432ad87fc297429
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	6.1.0		3c660912c8e4db0f72b74261f46e3809654efc58
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	package-configuration-provider-api	6.1.1		358c63074c7dde67bfc5140666bf7d0ff6c1a2ca
@@ -1249,6 +1268,7 @@ org.visallo	visallo-model-queue-inmemory	3.1.3		aad6bb577db41513a9ab108a65ef40ad
 org.visallo	visallo-model-queue-inmemory	3.1.4		9e5c44ba6ecab6c3417c2de3b1482260a0f33ea6
 org.visallo	visallo-model-queue-inmemory	4.0.0		84c14d84822906c6cb57266f3106f90260e61aca
 org.webjars.bowergithub.shockey	xml-but-prettier	1.0.1		e351b90046f69f38521ad45216aaf939102e5c78
+org.webjars.npm	radix-ui__react-scroll-area	1.2.4		9e703ca5bc2a4e27abb8d12b1f9d67d8dfffa0ed
 org.whispersystems	axolotl-android	1.0.0		N/A
 org.whispersystems	axolotl-android	1.0.1		N/A
 org.whispersystems	axolotl-android	1.1.0		N/A

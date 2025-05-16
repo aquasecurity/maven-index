@@ -839,6 +839,7 @@ io.airlift	security-jwks	330		3f813c640319d159c1266a1f91ee3f21face4352
 io.airlift	security-jwks	331		98aa6889d62f3638209f5a59193b7d1f8ddeee44
 io.airlift	security-jwks	332		875d135f203f856967c94a258af6a3edf800052f
 io.airlift	security-jwks	333		a83c7eff4ecf069322730bd604f7819292318839
+io.airlift	security-jwks	334		5f08c4c4ac26d5a04a5a16e4c660afc3aae2f473
 io.datarouter	datarouter-snapshot-manager	0.0.116		91da06388d7406499c6e5b6be0571b1ca5c6737a
 io.datarouter	datarouter-snapshot-manager	0.0.117		b7a751be36bc8b32d17da9e6284b074ef085c87d
 io.datarouter	datarouter-snapshot-manager	0.0.118		11c556c3e98d65f7fdd9ed2da44fda45d10c375d
@@ -1126,6 +1127,7 @@ io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	3.3.5.2		4d823c6e6e
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	3.3.5.3		49058e30dc46b759fd0542656c0926cd0d95c3e1
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	3.3.5.4		4ad969805602602c95e7f6479a8650667c86e7f3
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	3.3.5.5		c94f311e928bd68773e425a11e5d9bccb3d56623
+io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	3.3.5.6		1c4aff985779236b67c98ee22e16c4ac8d3f2599
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.0.0		ae30432e60b2008aabf3e9b68c6e0622245c28bf
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.0.1		412e79df3c40893adbe4f89ae39dcf39382603c0
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.0.10		3d77312a5cf0f040a6ccdf6b6a64649ad39a2c53
@@ -1144,6 +1146,7 @@ io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.1.4		417b1eaed7
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.3.1		2436b343616efa8a2ac6a6b0a9bd8c53da8771bb
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.3.2		515f3a14e36c3fe31c18a25bdbbebb80892223ab
 io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.4.1		9d51f850b906611d4030f7c8277d1ea18c9d6dd9
+io.streamnative.pulsar.handlers	pulsar-kafka-schema-registry	4.0.4.2		d42b8edb835a141dd62a214ef48f3b3447f3738e
 it.unibo.pulvreakt	rabbitmq-protocol-jvm	0.10.0		e9e0f264ef299102eb4e7f85f5ef7f90897ddc0d
 it.unibo.pulvreakt	rabbitmq-protocol-jvm	0.8.0		79813275c8d1103ebb734135cf78cbf794ea2dbf
 it.unibo.pulvreakt	rabbitmq-protocol-jvm	0.8.1		79813275c8d1103ebb734135cf78cbf794ea2dbf
@@ -1299,6 +1302,7 @@ me.proton.core	key-domain	30.4.4		6b58cd5b7dc98a07a596aff04b3a9217c83683b1
 me.proton.core	key-domain	31.0.0		eecaef6ff942c7df9b719cd869fd596e32e89fdc
 me.proton.core	key-domain	32.0.0		be0f4c04dd4306c815f16a36930273d3986a72b3
 me.proton.core	key-domain	32.0.1		8660ae60d13068eb442ef4c668c7a7d8c9693025
+me.proton.core	key-domain	32.0.2		23b02e75413cd984e3ae6a41bec0056c8833f855
 me.proton.core	key-domain	4.0.0		d4f618d6b8dd5a9c229f58897c3af3ba8be43e8e
 me.proton.core	key-domain	4.1.0		c3a6eb39be5d0c0369826bbddb6d1367c816fd76
 me.proton.core	key-domain	5.0.0		7c15ace276ea2172cda6790034359056f26a7835
@@ -1962,7 +1966,9 @@ org.wildfly.core	wildfly-management-client-content	28.0.0.Beta4		d3fe0a39d40b08e
 org.wildfly.core	wildfly-management-client-content	28.0.0.Beta5		34d3da0ae163396b4fb3b0b909d90d6a23853e8c
 org.wildfly.core	wildfly-management-client-content	28.0.0.Beta6		84e8d1829f869c50a6f84453c105ea2811567d43
 org.wildfly.core	wildfly-management-client-content	28.0.0.Final		8e208b7ee18f452702703125322c471c4c881236
+org.wildfly.core	wildfly-management-client-content	28.0.1.Final		8629abd697c5a979ebedc4d2ae5b9e2dc3015f41
 org.wildfly.core	wildfly-management-client-content	29.0.0.Beta1		f04a760b08e453f2a9e40c10f6ace6f6f4628073
+org.wildfly.core	wildfly-management-client-content	29.0.0.Beta2		8603406143ac040a11d333b25e5477fc5c0dce9e
 org.wildfly.core	wildfly-management-client-content	3.0.0.Alpha1		bceb7de6d40e4d5dbb22c6a9c6539dc03d376364
 org.wildfly.core	wildfly-management-client-content	3.0.0.Alpha10		533a830b601c166890c9c40580cce9d1b32ed88c
 org.wildfly.core	wildfly-management-client-content	3.0.0.Alpha11		0ada37036cd36fbbbcf647bbedf717d0041546dd
@@ -2112,6 +2118,10 @@ tz.co.asoft	habitat-core-tvosx64	3.0.14		N/A
 tz.co.asoft	habitat-core-tvosx64	3.0.14	metadata	811a1edeac1b0ed1e19193ebf2c39e1bf8d0353a
 tz.co.asoft	habitat-core-tvosx64	3.0.15		N/A
 tz.co.asoft	habitat-core-tvosx64	3.0.15	metadata	4fa6d7fa23bcf8f6bd84b6f9f23d06e1583d67a8
+tz.co.asoft	habitat-core-tvosx64	3.1.0	metadata	533cd88dfb64594db8758640d2007b8077457e10
+tz.co.asoft	habitat-core-tvosx64	3.1.1	metadata	0548589057d7bdfc4d4dd20a36a2480ce8c2b1db
+tz.co.asoft	habitat-core-tvosx64	3.1.11	metadata	3b2feebbcbf43e388f7f578c9359304b43d92d56
+tz.co.asoft	habitat-core-tvosx64	3.1.12	metadata	ec513879b150a5b8fe449f53e44872900d6004c1
 uk.ac.ed.ph.jacomax	jacomax-samples	0.2.0		9a9c42e677df2ff1383413486271d672dcc77d31
 uk.ac.ed.ph.jacomax	jacomax-samples	0.2.1		69446de36feabf15b028325e0985ecf45745d9b8
 uk.ac.ed.ph.jacomax	jacomax-samples	0.2.2		f30f9f9b0695a45311d8a5cd47ca8e143299fe99

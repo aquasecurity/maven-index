@@ -1251,7 +1251,14 @@ com.yahoo.vespa	container-core	8.511.14		8fe42a14d5d65c1dac70fefc7858b76afa27a03
 com.yahoo.vespa	container-core	8.512.63		5bbbf6eff4267fdadd3595559108f57573499959
 com.yahoo.vespa	container-core	8.513.17		16cac0e8fa597b4e322c1d87143c242b1a98309d
 com.yahoo.vespa	container-core	8.514.24		3bd4d8661c2c6f97f2fe127c3049846e2b6f4865
+com.yahoo.vespa	container-core	8.515.40		2e6224066ffba79581b02d06aabf3f84498e0cdb
+com.yahoo.vespa	container-core	8.516.26		9c839b26c9c16bd1ae8b49de708fe2bb830dff16
+com.yahoo.vespa	container-core	8.517.15		2ee8295e575d4683225ede82c0c2eadc5fc9f239
+com.yahoo.vespa	container-core	8.518.4		e861637f2589a06aa9e2dc5a7bb5c88c67b98517
+com.yahoo.vespa	container-core	8.519.55		0f65b33e23f9a7b2506edd954f8266ff596cd2d8
 com.yahoo.vespa	container-core	8.52.15		9fcd2101f56df6ad8650028c75627755943daa0c
+com.yahoo.vespa	container-core	8.520.18		d45a20487812586c4c20d376011047d5be7f7735
+com.yahoo.vespa	container-core	8.521.17		026106b13dbe441c0b9ecc7d6d1d5de5557a73b2
 com.yahoo.vespa	container-core	8.53.21		30e3d36729721a6c81cf92dc81f04f7c8c8f7325
 com.yahoo.vespa	container-core	8.54.61		010fbb30c2d398a0c2e7ed14b35cc5fa8a6ca145
 com.yahoo.vespa	container-core	8.56.20		953e6c49114a148891d6e08172422c6f8d5f5ea8
@@ -1713,6 +1720,7 @@ dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.27.1		4b8280ee7ff47453e04
 dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.28.1		09bcb7954f6d72a209a2f3b64ce28a2b8cbd2dc4
 dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.3.1		723e227494a425640a826adbd27144c5553bb60c
 dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.30.1		f66febad496cdfd19e79341cc1fec4ccde7e242b
+dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.30.2		c7d39f0741555242e5bc484478bcd5bb81fb57ff
 dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.4.1		ad3bb4bcf0d7c1e6d51e780188e9a463cb886ca6
 dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.6.1		50974115f2ab82f107600cdae94eb10ef57df9f0
 dev.zio	zio-aws-licensemanagerusersubscriptions_3	7.31.6.2		689003bcbb36dcb13a0c5b08e26fdf1767e4c94b
@@ -1888,6 +1896,7 @@ io.helidon.common	helidon-common-socket	4.1.6		7a0698050d72533be7c65e9a7cfa7b06b
 io.helidon.common	helidon-common-socket	4.1.7		4a889facf1677fe9e9ba9290ab59d178d351d137
 io.helidon.common	helidon-common-socket	4.2.0		9adc593506af8dfb4d460e465faada6846ca1f76
 io.helidon.common	helidon-common-socket	4.2.1		95e62a6e5f8e9153aa072211c97514878ffe8c2b
+io.helidon.common	helidon-common-socket	4.2.2		b1288a808a61db0b6b609daca15055fb957e916e
 io.joyfill	joyfill-models-js	0.0.0		N/A
 io.ktor	ktor-http-watchosdevicearm64	2.3.13		c43f0a8807ca32a4f15d1f0114c27a458d26d162
 io.ktor	ktor-http-watchosdevicearm64	2.3.13	metadata	7cf7611cf4bb8f123fd4544d1dce2f68a194a65c
@@ -1907,6 +1916,8 @@ io.ktor	ktor-http-watchosdevicearm64	3.1.1		47e4f73f1bfdfcef63086186825edce15f2e
 io.ktor	ktor-http-watchosdevicearm64	3.1.1	metadata	47266f6eff3a3d0dec208f3d5e61b213dd87b1a1
 io.ktor	ktor-http-watchosdevicearm64	3.1.2		6add0f5718726b03166a72e98c12ca88388efbf2
 io.ktor	ktor-http-watchosdevicearm64	3.1.2	metadata	64d8bc5c583d2995973982261008c3a04cf38d6d
+io.ktor	ktor-http-watchosdevicearm64	3.1.3		225a9f775c8fcad6c904da945e4d3fe979fde47d
+io.ktor	ktor-http-watchosdevicearm64	3.1.3	metadata	b92fe2105bafbfa1924e3f97ddd351df3ae84293
 io.openliberty.features	io.openliberty.jakarta.expressionLanguage-5.0	23.0.0.10		N/A
 io.openliberty.features	io.openliberty.jakarta.expressionLanguage-5.0	23.0.0.11		N/A
 io.openliberty.features	io.openliberty.jakarta.expressionLanguage-5.0	23.0.0.12		N/A
@@ -2287,6 +2298,8 @@ it.unibo.alchemist	alchemist-swingui	42.0.7		9aef549bce0fa663cb5aeff870139b5dddd
 it.unibo.alchemist	alchemist-swingui	42.0.8		b562c46b10c3a8fc90c60c9a526f9cae4cdf609a
 it.unibo.alchemist	alchemist-swingui	42.0.9		a4850bcad59acba2a7ce17759fa497bae425bfd9
 it.unibo.alchemist	alchemist-swingui	42.1.0		d3c55406b49ce7610a4af632e08aef7f78516b5e
+it.unibo.alchemist	alchemist-swingui	42.1.1		ae360cce87f5eaa5660b7d138fba4869f03ad428
+it.unibo.alchemist	alchemist-swingui	42.2.0		cf2275b9485edbf4b5e317f41ab04751ca95c7d9
 it.unibo.alchemist	alchemist-swingui	5.0.0		4e8b1a62c3686f3dd25beedbd783d42f93649b40
 it.unibo.alchemist	alchemist-swingui	5.0.1		aa61e7c402ec186cccfe2c4b8dbb44a3727397ba
 it.unibo.alchemist	alchemist-swingui	5.0.2		15442e950fda802b8bc4e7d44178492876108ef4
@@ -2971,6 +2984,7 @@ ru.tinkoff.kora	config-symbol-processor	1.1.22		8b3ae351db6d0de5d5b3d43153b454e5
 ru.tinkoff.kora	config-symbol-processor	1.1.23		c0ab30475ff7245bcfa43bcf9d5e94f278957734
 ru.tinkoff.kora	config-symbol-processor	1.1.24		896ee4b7b3044dde37839aa9b060b9ea68385731
 ru.tinkoff.kora	config-symbol-processor	1.1.25		b3067a23a3e51ac5423f60d3f4724272b9b61c85
+ru.tinkoff.kora	config-symbol-processor	1.1.26		847a860e1cdc0f01941c603701031a576e1141e4
 ru.tinkoff.kora	config-symbol-processor	1.1.3		3f162ce17fe3c2f638726ea652b4f51284a698fe
 ru.tinkoff.kora	config-symbol-processor	1.1.4		6542a786da35f1bee70cd82a3e70cd6a6cd3eb2a
 ru.tinkoff.kora	config-symbol-processor	1.1.5		f95236e56a4e28d5e672010431b153ba247f6570

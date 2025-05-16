@@ -555,6 +555,7 @@ dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.12.1		N/A
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.12.1	metadata	8f2dc8cd304809b038ab1c1e3e7f1b4380722a06
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.13.0		N/A
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.13.0	metadata	765f7e2d62549d4f627c47e4c3fccd7d401c3df8
+dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.14.0-alpha01	metadata	05dd75faaeaaec845de0a554ddc522b3678fefb0
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.2.0		N/A
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.2.0	metadata	bc48db5c421acc0216499cc890c5516a95798f5c
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-iosarm64	1.2.1		N/A
@@ -802,6 +803,9 @@ io.insert-koin	koin-test-iosx64	4.0.4		N/A
 io.insert-koin	koin-test-iosx64	4.0.4	metadata	592472c8af9383c3a84ddef28588769b046e670c
 io.insert-koin	koin-test-iosx64	4.1.0-Beta1		N/A
 io.insert-koin	koin-test-iosx64	4.1.0-Beta1	metadata	ba261fd25665591b0b7938b4af6ea87d1c78ad9b
+io.insert-koin	koin-test-iosx64	4.1.0-Beta10	metadata	e635bf8fc4f5980194cd1145842713385d13e359
+io.insert-koin	koin-test-iosx64	4.1.0-Beta11	metadata	e0ef5ced559b4d471831807a01e9de75c192b229
+io.insert-koin	koin-test-iosx64	4.1.0-Beta13-KTOR-EAP	metadata	277a576d65d521d19be9781a293a93363229d37b
 io.insert-koin	koin-test-iosx64	4.1.0-Beta3		N/A
 io.insert-koin	koin-test-iosx64	4.1.0-Beta3	metadata	cfafbd344ba678cd8aa88df22d9d122ccb3a3919
 io.insert-koin	koin-test-iosx64	4.1.0-Beta4		N/A
@@ -1105,6 +1109,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.13.3-alpha		a04b910fbe19e68a228d2165804095fbc2cc30d9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.14.0-alpha		8754fda8a7826df22b1bc47beee67b6d860c7a7e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.15.0-alpha		e5b0d9d5ecac6b4d290b30594eabde7f75abc195
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.16.0-alpha		6989107c69e5f513f333218402cd79cdb70f0bbb
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.2.0-alpha		ffaf21b6bec05aca44bc6b2a27253028b2f6cd8f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.3.0-alpha		f5a3c34648dd1dc8a7576e537b59d21164b572fa
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rxjava-2.0	2.4.0-alpha		e8df56f15e29f52f59231dae9b418e886af56866
@@ -1737,6 +1742,9 @@ org.http4k	http4k-format-moshi-yaml	6.6.0.0		b3f9fae76507be0e5afa4dc8752b0e577a6
 org.http4k	http4k-format-moshi-yaml	6.6.0.1		95a98cf8373864174100b8b87915987674b131fb
 org.http4k	http4k-format-moshi-yaml	6.6.1.0		597827b95232b11697644a2781eaca16c17e36ba
 org.http4k	http4k-format-moshi-yaml	6.7.0.0		e71e70995c44916e9cc9d3b1d52f11487c72b6a2
+org.http4k	http4k-format-moshi-yaml	6.8.0.0		8763e39dac85164333340f8e726c85a26a228cbe
+org.http4k	http4k-format-moshi-yaml	6.8.1.0		8f2d8dd1778dc9b369b2bd6a1ced81813011769c
+org.http4k	http4k-format-moshi-yaml	6.9.0.0		31bdce41c95024ed320a3b7c25f77df6a15723d1
 org.http4k	http4k-format-moshi-yaml	v6.3.0.0		832b3bd2c8f109b21d4b5eb458e7e6c0dc661d25
 org.http4k	http4k-format-moshi-yaml	v6.4.1.0		8c96462f4b94e720a5c300de3e45bfef6a5f77f3
 org.jboss.narayana.compensations	compensations-jakarta	5.12.2.Final		01bb79fdbc8d9d2581735fa9a097affe9b0b3a95
@@ -1887,8 +1895,10 @@ org.springframework.hateoas	spring-hateoas	2.3.3		57998c7e68ac0884ff3c263fb09903
 org.springframework.hateoas	spring-hateoas	2.3.4		a4e0263f39d7fde2bbfedf5a778d1c23c7824c2f
 org.springframework.hateoas	spring-hateoas	2.4.0		a5c3b35a9ef9c3ba835ec36c88692cbe3746d8ca
 org.springframework.hateoas	spring-hateoas	2.4.1		86a69fe432361c0697aff89b4c8f293edffca26d
+org.springframework.hateoas	spring-hateoas	2.5.0		aac8a407f8ce8619a9914cae6109dfd047492d0c
 org.springframework.hateoas	spring-hateoas	3.0.0-M1		8eae841252f7f792810d480f942e1610b537717a
 org.springframework.hateoas	spring-hateoas	3.0.0-M2		4c9583968d074ca8a087b56784c41becf80ea2f2
+org.springframework.hateoas	spring-hateoas	3.0.0-M3		7911dc3ab10fc9eddfe77a225a54f74c6a15bbc4
 org.tpolecat	atto-refined_sjs0.6_2.12	0.6.2		4b383bf8558e64fac52e496b0ea7207532451cb8
 org.tpolecat	atto-refined_sjs0.6_2.12	0.6.2-M2		abcf62dcd1bd495b0ae5330292d945f969bfd457
 org.tpolecat	atto-refined_sjs0.6_2.12	0.6.3		5d9e810109aedafe90107df459ed1d1eeabc32b1

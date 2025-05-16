@@ -48,6 +48,8 @@ com.atlassian.prosemirror	collab-iossimulatorarm64	1.1.4		N/A
 com.atlassian.prosemirror	collab-iossimulatorarm64	1.1.4	metadata	712df3f98d638beecfb7c2ff1ffbf9de70efbeb6
 com.atlassian.prosemirror	collab-iossimulatorarm64	1.1.5		N/A
 com.atlassian.prosemirror	collab-iossimulatorarm64	1.1.5	metadata	8813500938a1d50d29ea3738326046c281c63105
+com.atlassian.prosemirror	collab-iossimulatorarm64	1.1.8	metadata	95c987abc57efc318650191d9e624205dd347f87
+com.atlassian.prosemirror	collab-iossimulatorarm64	1.1.9	metadata	b803c1f09010e1cc52f265dddae6d84813e0da0d
 com.brucezee.jspider	jspider-parser-spring	1.0		93b170316b3504f910aef4752d40e78023e8cb13
 com.day.cq.wcm	cq-wcm-workflow	5.0.0		830169e4ec3c1872c1b9abdf1647d21fc3ce4d00
 com.day.cq.wcm	cq-wcm-workflow	5.0.10		a38544c00692b83aa249ad8e93f81e435ed12d4e
@@ -402,6 +404,10 @@ com.palantir.javaformat	palantir-java-format-spi	2.60.0		0a038e1422bdb72b4340a04
 com.palantir.javaformat	palantir-java-format-spi	2.61.0		bfc0c7f778f2c456d1cffa2667f24944739d3449
 com.palantir.javaformat	palantir-java-format-spi	2.62.0		bdcb08381261d57ea860bdbecd8d0c4d0860a47b
 com.palantir.javaformat	palantir-java-format-spi	2.63.0		fa9824345b576b3e9daea37a9765f1199d56776f
+com.palantir.javaformat	palantir-java-format-spi	2.64.0		3615a27e3a5fc0d4c0cf45fdeaa2210965a8eeee
+com.palantir.javaformat	palantir-java-format-spi	2.65.0		1057b94fd2aba8bad4a2c36be080d300c77969d1
+com.palantir.javaformat	palantir-java-format-spi	2.66.0		3946392a5e1e72a7a93265ae959fc46a78edc12e
+com.palantir.javaformat	palantir-java-format-spi	2.67.0		db1f4af6f190d3f30ab3b808a381b298d77c6742
 com.palantir.javaformat	palantir-java-format-spi	2.7.0		cde6549ffecf59be436341e01eafde309a1ccbb7
 com.palantir.javaformat	palantir-java-format-spi	2.8.0		764576d3e4a59e78eb3cecbd80743682cebb091d
 com.palantir.javaformat	palantir-java-format-spi	2.9.0		67eb9bb06f1efe3586c3e5d6b28f7aa0a17e234e
@@ -548,6 +554,8 @@ com.vaadin	hilla-parser-jvm-utils	24.5.8		9e3bb628fbc875671b6321858ee7f662559805
 com.vaadin	hilla-parser-jvm-utils	24.5.9		1edc79883b9314ed6f35c30fbe841fa1c98217a7
 com.vaadin	hilla-parser-jvm-utils	24.6.0		263685e98d97ab297a40b1914bfa0ff00a8926ed
 com.vaadin	hilla-parser-jvm-utils	24.6.1		477816ff9928ea11e8a3284fd4d9f119fbdaa6dc
+com.vaadin	hilla-parser-jvm-utils	24.6.10		fafe2a0c95afe4ae598bffa10daaba7cfc146926
+com.vaadin	hilla-parser-jvm-utils	24.6.11		f9057484f69921e899ee068f0ab6c67532657d38
 com.vaadin	hilla-parser-jvm-utils	24.6.2		865e93605d4e308ee223942cb8b8f215d13da9cf
 com.vaadin	hilla-parser-jvm-utils	24.6.3		747850d7e92e49227170fa7b6055a124cd94e9e4
 com.vaadin	hilla-parser-jvm-utils	24.6.4		bbef82837af2d3ed245fee5736d82fe3c3572769
@@ -560,6 +568,7 @@ com.vaadin	hilla-parser-jvm-utils	24.7.0		35cd76cf4366bc02ad95222357e9398a392db0
 com.vaadin	hilla-parser-jvm-utils	24.7.1		2e1482872094658f601e78eefcc7ebe35eedf84a
 com.vaadin	hilla-parser-jvm-utils	24.7.2		4d6e3b19738ee66c04e7d80718ac8f12522e962f
 com.vaadin	hilla-parser-jvm-utils	24.7.3		22e0aac85c88d534418fcc17b82bb78936d3627e
+com.vaadin	hilla-parser-jvm-utils	24.7.4		d630352fe38d49866868a650d6e29423248bbcf1
 com.vlkan.hrrs	hrrs-servlet-filter	0.1		6ada51c3f1270952db533d32a86775a1103ac1af
 com.vlkan.hrrs	hrrs-servlet-filter	0.2		9c5c1544a5ac6c68f3a9a24178cbb77477072bdf
 com.vlkan.hrrs	hrrs-servlet-filter	0.3		fb676922e4bb166191e1cd154f13e9210ead4145
@@ -1019,6 +1028,42 @@ io.restx	restx-apidocs	1.1.0-rc3		727ab542b2e2cf92bbd555ab51e43550709ccd8a
 io.restx	restx-apidocs	1.1.1		a2e42d648ed239f5fe32a96d49290bc80746c3c9
 io.restx	restx-apidocs	1.2.0-rc1		5b183f928c7648a49a91570af5dc3d8f928fbe9c
 io.restx	restx-apidocs	1.2.0-rc2		c28b705f02253f23e98fa7d1bb462e2cc3934093
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.0.2		1c1d43dd7cccac0c8d7f231d7d174986fb9ba83d
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.0.3		faaa03240b0376a32c5a51cf838a1be6c99b552a
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.0.4		ca08b477c1008d5b535331afc77f5c772b560396
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.0.5		dec7e6ceabe675738aaa250e833cfb2771ad7906
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.0.6		5b89e25be2da65876cea25e56fa5abe7110fa267
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.1.0		b886c33e7d9f95b97305c9216725897965e00082
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.1.1		04f60af3bc28f80c9f7953ad2330e4af950c1c8a
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.1.2		da11d3a83dc40e53066c8bf1681a6dd4558d7224
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.1.3		01f1192cfc7ba30ed2e0bb87ca70d18ac6d3db6b
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.1.4		70002d1b4f169bd920fb4a415afed8ab1e7563e7
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.0		561578c1d56ec09ddfb41294b80bf3382c82a918
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.1		61312700934cc5989b80363376f87067feca1b49
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.10		ff68b209f622b8d26157871ce3496b65844652b2
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.11		48e95127b5d30bec02ec6b72ad5b2a9dd0f378a7
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.12		72a77898c18df8e97eb4afc2397afccd2e0f7d4c
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.13		4d271812e008f25eb8c0a82c3699e6badf3297a2
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.13.1		bc69076a806b563a4c1565356c9b6a38fcc8a896
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.14		39a51196f79decd4a0a7edeabade916e89dcdd2d
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.15		3952b63470cced6f37dc9dc748b57e9a79773d57
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.16		86a8031943776af87aa68ee57742509941184c2f
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.2		1f70995e391a17ce1f7e47cd03ec14cd489cf9b0
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.3		289b60e5c9b6bf9ece57015770b7122593a2170d
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.4		39794cf46bd2681ad322ed2f6351ee0c977e17b9
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.5		49f416dde5f1d19cd6f075742b217fcc64d71a8e
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.6		b8d705caddbc21da4fd7878805d51d0b53fbead4
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.7		36a690d87fcb85c3b8f7dac1297b9db51abfa9ca
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.8		78ecb2938ba01fd1978d72117f509639330adb0e
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.2.9		5919533083d67bc754b37bf87950b81f00a1fe1a
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.3.0		25a1ab1d71cc7c2938d6491cd57910c8646b86db
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.4.0		98eaf18cd6f460d51ca88c7a7ac29cbda2d42bf6
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.5.0		6cb07ca99f17477e83451e7d656545a632b4f546
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.6.0		feef7f93fb002e95fba9e726e0e2cfdc6fec2ef3
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.6.1		7c73ec34e2e6e629c698396a18efa0ee1d7e681b
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.7.0		b0f63a0660cd8615d2306499a651a130d36e5543
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.7.1		a178ba32cc739ca9f4f7a64d17033dfdb88141bf
+io.takari.nexus.plugins	takari-nexus-gitconfig-plugin	1.7.2		d3da278fddb885f4f2d0e9f3daec1c738c3fc619
 net.emphased.malle	malle-core	0.1.0		d6d88d5a87a42433d038d5798fc3043d8d384b17
 net.emphased.malle	malle-core	0.1.0-RC1		6c92835d38e15f6d88f63eb455d3013779a1c27c
 one.xis	xis-spring	0.1.0		5b75b9b29bafba8bb37129573500bb94ba87a3d7
@@ -1142,6 +1187,8 @@ org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.17		006d
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.18		8a7d03d9700ff36229c7239455fe4e7af0cc8f10
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.19		1626abd180b00c458654248f0c7a610e4bb5786f
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.2		b543f49df04e675ff710acdabbc81f70c1710d29
+org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.20		e35bc0db8fd8e2e4ebfaad4208330bd90c7d2c28
+org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.21		2a728765aafe9eaebd27ec5d0935e2fd370eba25
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.3		50c92645d4f660de0a808d83a330de9263593e8b
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.4		bd555453c0089a55916bcb96265f0268e35dee69
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jetty-server	12.0.5		0211fe9bbd69390b01f7b7303c0cacdf65eee04c

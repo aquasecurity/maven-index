@@ -109,7 +109,16 @@ aws.sdk.kotlin	notificationscontacts-jvm	1.4.73		e43fe0b46749412910e529df6a83bc4
 aws.sdk.kotlin	notificationscontacts-jvm	1.4.74		3257d3104e5817a53525cec31577c33d99eb7fcd
 aws.sdk.kotlin	notificationscontacts-jvm	1.4.75		a9971804c410ba44f48cdeebf0ba4a8571c760fe
 aws.sdk.kotlin	notificationscontacts-jvm	1.4.76		75796fb5ceeef541f6123c2d913b29825b5d216f
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.77		59d7ddffa6059a894a292603069f4fc450a3414a
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.78		62adfeba13190aebe1a03348ecfbb2cdb627b9f8
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.79		df5e57a3a186fc9820f6d260792a9095ecf9aa3b
 aws.sdk.kotlin	notificationscontacts-jvm	1.4.8		9bb678d9fd203f97d58cad98f3e515683e9c2a16
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.80		e7e19fc0fe614f0b8920491803a1ece36dbc1555
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.81		67bd3cf08c338d9d059885f2f82f9669b2881622
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.82		936175cdd5003f5c9a41472231f241fa6443cc1e
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.83		b36f7124e768099d0d1383b5f30ce291fe07ba97
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.84		f61ce0d49fe579a7f11f3a10092f6ee3fc8af230
+aws.sdk.kotlin	notificationscontacts-jvm	1.4.85		875121f6b1769424f7617944a517e34e382c5f82
 aws.sdk.kotlin	notificationscontacts-jvm	1.4.9		26760a0640b1a99d9d9e9d5e1db270be8aecfd88
 br.com.caelum.stella	stella-distribution	1.0		N/A
 br.com.caelum.stella	stella-distribution	1.1		N/A
@@ -254,6 +263,7 @@ com.agorapulse	micronaut-amazon-awssdk-sqs	3.3.8		6fbb2edd7b3a5c4951413fd5c3d9fc
 com.agorapulse	micronaut-amazon-awssdk-sqs	3.3.9		2aa5c65cb368822a2d7d9c64da76341a21a07dfe
 com.agorapulse	micronaut-amazon-awssdk-sqs	3.4.0		9dcd12edb9c835b296a2c3526615bce6910902e7
 com.agorapulse	micronaut-amazon-awssdk-sqs	3.4.1		cac69923694ef6c038371d51cca1a4c12c8bac65
+com.agorapulse	micronaut-amazon-awssdk-sqs	3.4.2		fc3a3afd121968d8361936e9f69e5615b4643392
 com.akexorcist	textureviewvideoscaler	0.9.9		N/A
 com.amazonaws	aws-java-sdk-healthlake	1.11.1000		3449c6ade54bf35a460c2728aad00ddc63a404a6
 com.amazonaws	aws-java-sdk-healthlake	1.11.1001		3dabca6bab243726e98012ce4741761061621b4d
@@ -2317,6 +2327,7 @@ io.aeron	aeron-archive	1.47.1		223b2c29ba70e43cd2628f290b4f8605a4e95302
 io.aeron	aeron-archive	1.47.2		642b2fdca8df0b137a0fdf5f2d10e48ee83433de
 io.aeron	aeron-archive	1.47.3		6c7af7a9b13f9477c41da65e0c3f6043c4d2dcec
 io.aeron	aeron-archive	1.47.4		802d0258cac6344d7d4aa64213dba86ce6ce47fa
+io.aeron	aeron-archive	1.47.5		c9dfc5f3dab07fb333873b99f99007acef70f3d9
 io.aeron	aeron-archive	1.5.0		9c1f70680679dd7ff275caa083081af755093452
 io.aeron	aeron-archive	1.5.1		34a33f5ce8e7b3cd1deb1b6749ef4d3ba9d0fd18
 io.aeron	aeron-archive	1.5.2		65c74ab307d2a388c91fcb2faa3c497f31f93d86
@@ -2445,6 +2456,7 @@ net.hamnaberg.googleapis	googleapis-http4s-firebase_sjs1_2.13	0.4.5-v1beta1-2024
 net.hamnaberg.googleapis	googleapis-http4s-firebase_sjs1_2.13	0.6.0-v1beta1-20241016		5ea50f86e108960f371c7cb70825a962b2f22a75
 net.hamnaberg.googleapis	googleapis-http4s-firebase_sjs1_2.13	0.6.1-v1beta1-20241120		b10cc24681701e3105f05eade609e6bf9934abe3
 net.hamnaberg.googleapis	googleapis-http4s-firebase_sjs1_2.13	0.6.2-v1beta1-20250212		f5b7162a5a8ec183314589c96f18bed7d48340e2
+net.hamnaberg.googleapis	googleapis-http4s-firebase_sjs1_2.13	0.6.4-v1beta1-20250507		625109fd73048108a4b2011725554707ad87ba33
 net.sansa-stack	sansa-query-flink-sparqlify_2.11	0.3.0		c8c5d3530efe158b7d75aa1750a0b454d947ad7f
 net.sf.okapi.filters	okapi-filter-dtd	0.35		646868cb9434d93eb75df09690a82d5b1860b3f8
 net.sf.okapi.filters	okapi-filter-dtd	0.36		07d8781113b77c63834295c0a8a17bfd837efbfa
@@ -2745,6 +2757,8 @@ org.metaeffekt.core	ae-common-kernel	0.135.7		57ddc20998fd17dac404a4fd8f69fe33c0
 org.metaeffekt.core	ae-common-kernel	0.135.8		d613635b68bcf6718cc524ef113e05d34c996a42
 org.metaeffekt.core	ae-common-kernel	0.135.9		d0e127e34bc56f03e44ad3d585d7b75175ad6002
 org.metaeffekt.core	ae-common-kernel	0.136.0		556f6500e1c6c3f5955de418d6f1784378f90eac
+org.metaeffekt.core	ae-common-kernel	0.137.0		5c6f5e17e83514a27fbd08fd1e77d9542482576e
+org.metaeffekt.core	ae-common-kernel	0.138.0		51ff534fb15b00c428abe9036b2ddd6d56d37b65
 org.metaeffekt.core	ae-common-kernel	0.14.0		b22aa6e9a7ea2458d2c4ce0d6bd0b929fa260594
 org.metaeffekt.core	ae-common-kernel	0.15.0		9d39928c3100d9af701980d5a70c24ab4cf08519
 org.metaeffekt.core	ae-common-kernel	0.16.0		94fdf011f932824e35f90ba986a840dd2ac8c22f

@@ -105,6 +105,7 @@ com.kuaishou.koom	kwai-unwind	2.2.0		N/A
 com.kuaishou.koom	kwai-unwind	2.2.1		N/A
 com.kuaishou.koom	kwai-unwind	2.2.2		N/A
 com.liferay	org.osgi.service.http	1.2.2.LIFERAY-PATCHED-1		709f52c3fe97116ea813f45064279ad0fe74a8dd
+com.liferay	org.osgi.service.http	1.2.2.LIFERAY-PATCHED-1.JAKARTA-LIFERAY-PATCHED-1		57f87123463a89b50f8162b169ebbc25cfe8ebfa
 com.liferay	org.osgi.service.http	3.5.0-20150611.165350-3.LIFERAY-PATCHED-1		ab7076717e3b1237cf8efd25748d718d4174e6eb
 com.liferay	org.osgi.service.http	3.5.0-20150611.165350-3.LIFERAY-PATCHED-2		22376524fd607fdaf875819ccc6025250c1c6986
 com.lihaoyi	ammonite-interp_3.4.3	3.0.0		8adc2d46d28d842d1634d2aa3d41445be33a81d3
@@ -827,6 +828,7 @@ io.quarkus	quarkus-kotlin-deployment	3.15.2		eda16bb990cc502fa112ed4d35949f1efbd
 io.quarkus	quarkus-kotlin-deployment	3.15.3		082530ec5d9d438e3f43cee1c142028521287a55
 io.quarkus	quarkus-kotlin-deployment	3.15.3.1		a6db101393b3c623f072129e558aeae61bbcf23e
 io.quarkus	quarkus-kotlin-deployment	3.15.4		4e4659c3748f52ee20a26901a378536e0356f93f
+io.quarkus	quarkus-kotlin-deployment	3.15.5		85ef6e081a1e733edc619543b1624b8aeacf7ef4
 io.quarkus	quarkus-kotlin-deployment	3.16.0		617c01f0de2b10ca456f5120375d7f2b72412193
 io.quarkus	quarkus-kotlin-deployment	3.16.0.CR1		6a20ad320436c8fa0248fae87a31171325152f1f
 io.quarkus	quarkus-kotlin-deployment	3.16.1		34fe4c6b424b8a31189e6564c5d9eb29145abde1
@@ -871,6 +873,7 @@ io.quarkus	quarkus-kotlin-deployment	3.2.8.Final		e66ca813a5936871d458efe0c75e37
 io.quarkus	quarkus-kotlin-deployment	3.2.9.Final		0fe0b9a9c432602df200eb45a410c943efb53aad
 io.quarkus	quarkus-kotlin-deployment	3.20.0		3f6703a3136c9252e56b6907799088ddc59c39ad
 io.quarkus	quarkus-kotlin-deployment	3.20.0.CR1		22d2fdf0d10565fa8d963f726796270c7d245468
+io.quarkus	quarkus-kotlin-deployment	3.20.1		3a384b5fe5c5ba177b1f4d2c1b765a9b5b461c51
 io.quarkus	quarkus-kotlin-deployment	3.21.0		3013cca3ac3cf4b70338b817d136fed3ee5b86fb
 io.quarkus	quarkus-kotlin-deployment	3.21.0.CR1		435c1de6689a2f442f68da4d60ca0ccc3abdd054
 io.quarkus	quarkus-kotlin-deployment	3.21.1		d50588cf48a0156e6b57d9b9389923172f759ecf
@@ -880,6 +883,9 @@ io.quarkus	quarkus-kotlin-deployment	3.21.4		52f1fc372aa739eb466417c802edcbed9c6
 io.quarkus	quarkus-kotlin-deployment	3.22.0		7c232e0aef633ccc98aba2a6fd79f5582430cab1
 io.quarkus	quarkus-kotlin-deployment	3.22.0.CR1		2e740d24560b7705764592c8eda1cb8ba36f04d3
 io.quarkus	quarkus-kotlin-deployment	3.22.1		810525b611b97b2f2608f7ee977bef5ef069b4d6
+io.quarkus	quarkus-kotlin-deployment	3.22.2		610e738f8d03ff80e4be7bf2257ac3247c059866
+io.quarkus	quarkus-kotlin-deployment	3.22.3		c59bd99a11b708749d1b8bfd835d0806706c3285
+io.quarkus	quarkus-kotlin-deployment	3.23.0.CR1		6fff6d5481f133da0a819d11612da9d734541571
 io.quarkus	quarkus-kotlin-deployment	3.3.0		a2bdc56041738c78eaec79b7a9c4878e5c46b9f0
 io.quarkus	quarkus-kotlin-deployment	3.3.0.CR1		87f031fe587245e481c9fae72c65f5a0c4132a7d
 io.quarkus	quarkus-kotlin-deployment	3.3.1		8671a93003101f540c8b8412a13702c2ed2fffce
@@ -3086,7 +3092,18 @@ software.amazon.awssdk	cloudwatch	2.31.30		f0e24e1578231582eac18eda9ac6472b85c29
 software.amazon.awssdk	cloudwatch	2.31.31		219644802a7ea8704b2cf7987c4ad0baaf96e49f
 software.amazon.awssdk	cloudwatch	2.31.32		1b5118f11c212e51e91a61d607a59d50eb4e4355
 software.amazon.awssdk	cloudwatch	2.31.33		b057ebfec817f5926226de0dce3aefa6f34a9c8d
+software.amazon.awssdk	cloudwatch	2.31.34		39ebd745fecb067933dfd7af3f33502ed6a93109
+software.amazon.awssdk	cloudwatch	2.31.35		a8d8884a04c77eccb6a984117cd214c591494400
+software.amazon.awssdk	cloudwatch	2.31.36		8cc44bf725dd2e64b8d5495b37fe7c20e130c62e
+software.amazon.awssdk	cloudwatch	2.31.37		76bea2cf82c952c9043713dc8fbbef76ba5a8832
+software.amazon.awssdk	cloudwatch	2.31.38		50bf95cf85482756438e243f7de553d15a92722d
+software.amazon.awssdk	cloudwatch	2.31.39		7f234d826009098b9f8395050deb9c489991af8c
 software.amazon.awssdk	cloudwatch	2.31.4		bcebedfdc4a484834f033bb86a6266038d97fc27
+software.amazon.awssdk	cloudwatch	2.31.40		2d0ccb8598f0e31ccdd3fb7e3f67be2aef7b1dc2
+software.amazon.awssdk	cloudwatch	2.31.41		b9633e33bdce8fa0a0d188d460a7d69e7269337d
+software.amazon.awssdk	cloudwatch	2.31.42		c35a63117c1de43197c35e1340123d9e293bf11a
+software.amazon.awssdk	cloudwatch	2.31.43		b1d9e96fce860d3dbde0d5fbe58842181da8d6df
+software.amazon.awssdk	cloudwatch	2.31.44		76004b8dbb71950431ee382d9c468a8e0355541b
 software.amazon.awssdk	cloudwatch	2.31.5		8d4a7e77fe7b0042ce870030542500b3f74e1b76
 software.amazon.awssdk	cloudwatch	2.31.6		a18d0c0e39adb85cfdb5972ff572b09ce259cfc5
 software.amazon.awssdk	cloudwatch	2.31.7		81de8e6399f9002bd7b959a9872bffe396fef731

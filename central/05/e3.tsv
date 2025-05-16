@@ -342,6 +342,7 @@ ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.18		3928421d1f126a3ba5ab395d744238dd066505d
 ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.19		86780a2c1632cd276d909282dc371a60b1ae36c9
 ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.2		7e26dd1519bd753c575ac465fcb7961726e253e6
 ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.20		7e25affeaccbf87d5db1be29c2addd6b82ae3b93
+ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.21		909a1bfaed37a853b32b1866633a00e137a6dda6
 ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.3		ef33d56f0c0a346fb151d0713aab517660072319
 ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.4		72fa8e30983ad840a6cbd0425a845ba207e6be40
 ca.uhn.hapi.fhir	org.hl7.fhir.r4	6.5.5		98ddf3ec7eec544773711629885093dc219f62f5
@@ -414,6 +415,8 @@ com.github.lhotari	reactive-pulsar-adapter	0.0.8		d819a50d5419075d050ef39847e0e7
 com.github.lhotari	reactive-pulsar-adapter	0.1.0		798297eb982fb815da4fd5f1099626b9fb89df68
 com.github.lhotari	reactive-pulsar-adapter	0.2.0		f737b90666451e7621d40862689cb4a2c073c0d6
 com.github.lhotari	reactive-pulsar-adapter	0.2.1		10dddf8e918bb0e14b2a5a2ac092166d02bf4542
+com.github.philcali	sbt-jslint_2.9.1_0.11.2	0.1.0		eef25092cda4049cd938fa308a1618cb93880715
+com.github.philcali	sbt-jslint_2.9.1_0.11.2	0.1.1		02e192fa9ecae5bc599cc9b259c0a39a05bc6f7f
 com.github.rmannibucau.sirona	sirona-boomerang	0.6		7cfa935611e5ca1d1ee7d0a32ce34c47c2daf447
 com.github.rmannibucau.sirona	sirona-boomerang	0.8		9621b9890111e0340ab51bcb7e1dbeaeedaed011
 com.hubspot	Blazar	0.2		N/A
@@ -677,6 +680,7 @@ io.github.loserya	anno-proxy-spring-boot-starter	1.0.1		852c6a30f080efc1e06acae5
 io.github.open-accelerators	transaction-authorization-common	1.0.2		a6b012b84a1dc788ec88904935492698032043c7
 io.github.thealxan	Noteefy	0.1		d92eb123fe9eb12b41e3bdf61bb7bba5fbebcd04
 io.github.zero88.qwe	qwe-iot-connector-bacnet	0.1.0		c2029f815a543f6bd6229729779e1555a776280f
+io.javaoperatorsdk	operator-framework-framework-core	.2.0		20d3058dc3626d120cc1621e3de308f6a5414a0f
 io.javaoperatorsdk	operator-framework-framework-core	0.1.0		3e8de3120b27661fb4da952ec9ae730e7d94fdf7
 io.javaoperatorsdk	operator-framework-framework-core	0.2.0		b52e47f3fc9c5445e27f5103328543be354629ee
 io.mosip.admin	apitest-masterdata	1.3.0-beta.1		b4fb1c8d0b44e0aa43c5d48d716057bf15bfd503
@@ -2718,7 +2722,18 @@ software.amazon.awssdk	elasticloadbalancingv2	2.31.30		987c33f112ca377bb335d6f4c
 software.amazon.awssdk	elasticloadbalancingv2	2.31.31		a3fb9b1fdae7dedfc8963c4ba1b056fe2f8e3808
 software.amazon.awssdk	elasticloadbalancingv2	2.31.32		f96d5136230c7395ab2528ed4b335e0816f043ac
 software.amazon.awssdk	elasticloadbalancingv2	2.31.33		99bc5aa265de3bb05413ae81be11a956dbc6cefc
+software.amazon.awssdk	elasticloadbalancingv2	2.31.34		ff8c110518e86f0e943550b03d29a273b209af0b
+software.amazon.awssdk	elasticloadbalancingv2	2.31.35		b7ffb0b068c68e3c768152f360ef3a7b3b181690
+software.amazon.awssdk	elasticloadbalancingv2	2.31.36		d3a24401e81e35b90c8de617d867104362c0254e
+software.amazon.awssdk	elasticloadbalancingv2	2.31.37		53fac017248535bd08dfb44b95d55e406ed9b5ea
+software.amazon.awssdk	elasticloadbalancingv2	2.31.38		ec64e83769afaeb48608484ce25fbabf81a5cea0
+software.amazon.awssdk	elasticloadbalancingv2	2.31.39		c26624f2232479a6b2eb4ee3213f6baf565044c9
 software.amazon.awssdk	elasticloadbalancingv2	2.31.4		48071cf1ec727cf9e46725f2699058e91da5a8b9
+software.amazon.awssdk	elasticloadbalancingv2	2.31.40		7b735357496da3c7e9de29d7cc3b46b52ca0ef8c
+software.amazon.awssdk	elasticloadbalancingv2	2.31.41		e36ceff7057a6c188ca76ca60a797a82c42dfa22
+software.amazon.awssdk	elasticloadbalancingv2	2.31.42		9a84d3713984129ee1d03b998e9db45cf5ebddc1
+software.amazon.awssdk	elasticloadbalancingv2	2.31.43		b12cc85bf469d739e1d3a0ae74c234e78f0871ca
+software.amazon.awssdk	elasticloadbalancingv2	2.31.44		b3727e02b483cf631af8f8bacdf87e17d0f32bd3
 software.amazon.awssdk	elasticloadbalancingv2	2.31.5		f7207d6ce826fc165d476b3e43a6a137b413774d
 software.amazon.awssdk	elasticloadbalancingv2	2.31.6		4a0a0f2a16f49f7e14149e06d9a74814e699c347
 software.amazon.awssdk	elasticloadbalancingv2	2.31.7		918fe502f51f4f9aed73120849a973b91495f182

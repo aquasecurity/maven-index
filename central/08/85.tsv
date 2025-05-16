@@ -74,6 +74,7 @@ cloud.piranha.http	piranha-http-virtual	25.1.0		afbcb5b2c0ef5d8168b311cd8dcad88d
 cloud.piranha.http	piranha-http-virtual	25.2.0		68e72257317e258d0c912435c3271a168d3a6dcf
 cloud.piranha.http	piranha-http-virtual	25.3.0		4b3ebcafd49897bd932d99de8f83d2eb07296357
 cloud.piranha.http	piranha-http-virtual	25.4.0		643207396d1ee0a7e35eb0339519837b0d0f3ac6
+cloud.piranha.http	piranha-http-virtual	25.5.0		19b015bc5062c88a82d4345b9f7ed6d4b469f570
 com.arkivanov.essenty	state-keeper-tvosarm64	0.1.0		N/A
 com.arkivanov.essenty	state-keeper-tvosarm64	0.1.1		N/A
 com.arkivanov.essenty	state-keeper-tvosarm64	0.1.2		N/A
@@ -509,6 +510,7 @@ com.powsybl	powsybl-cgmes-extensions	6.6.0-RC1		9ff4d984dd97905a229e35cf3adbb040
 com.powsybl	powsybl-cgmes-extensions	6.6.1		a4c7fa392d38efead3018aebb3eb78de9edcdf75
 com.powsybl	powsybl-cgmes-extensions	6.7.0		29b1f59a8c8fda10f43774fb9f0ac9a2bbacf210
 com.powsybl	powsybl-cgmes-extensions	6.7.0-RC1		423daeadc007f0d34afe6faeccae0b70ae6d10f9
+com.powsybl	powsybl-cgmes-extensions	6.7.1		b952cb620a756fa6e84e6281c3bcab5cfadbc6eb
 com.propensive	rapture-js_sjs0.6_2.12	2.0.0-M8		9ab3558d97fc467c339af2e0173ff6979f83e804
 com.propensive	rapture-js_sjs0.6_2.12	2.0.0-M9		1281f98d706d1aaed28976ebc3439a8d5dfa92ab
 com.sprinklr	damConnector2_0.dispatcher.ams	1.0.0		N/A
@@ -957,6 +959,8 @@ io.jooby	jooby-commons-email	3.5.5		041bc195c226ebee3f35a923b746f8bc603bdf48
 io.jooby	jooby-commons-email	3.6.0		66ea759172661b75b421257a3184af75314a5dbb
 io.jooby	jooby-commons-email	3.6.1		9ad6496b15e383b8d15f29ab954a29817f2424a4
 io.jooby	jooby-commons-email	3.7.0		7cfbedf025c46a1f28b0bf54ab7cd557248d9a3b
+io.jooby	jooby-commons-email	3.8.0		42362e24452a27e06dcc2f71db48611eccd72041
+io.jooby	jooby-commons-email	3.8.1		ef08e97020a80d6cbdf44846425629251e9474b2
 io.kriptal.ethers	ethers-bom	0.1.0		N/A
 io.kriptal.ethers	ethers-bom	0.2.0		N/A
 io.kriptal.ethers	ethers-bom	0.3.0		N/A
@@ -1254,12 +1258,14 @@ org.apache.camel.springboot	camel-observation-starter	4.8.3		7901650042db321365a
 org.apache.camel.springboot	camel-observation-starter	4.8.4		a9af1026693ae9b0c5e3a56d5c8e10387a3588e7
 org.apache.camel.springboot	camel-observation-starter	4.8.5		6fef442a27968a0da41662627b613a6fee64c956
 org.apache.camel.springboot	camel-observation-starter	4.8.6		1fcb5f035fb596c987eeeea329ece5aaaec2000c
+org.apache.camel.springboot	camel-observation-starter	4.8.7		d119049f94b97429645d8fa5987d2765d54f46d1
 org.apache.camel.springboot	camel-observation-starter	4.9.0		c65b2cb106e1965af83e1332d501c531d1d1f736
 org.apache.flink	flink-connector-mysql-cdc	3.1.0		2d48c07c0d1c6785f8b8095a14ebd4132355b4bf
 org.apache.flink	flink-connector-mysql-cdc	3.1.1		97eff52fbbd4d5b8b7b2b5ff09c235476920b8e4
 org.apache.flink	flink-connector-mysql-cdc	3.2.0		9d8ceefe23ab9b79eaff7ddb7357b7ccc13c3bf3
 org.apache.flink	flink-connector-mysql-cdc	3.2.1		b4610380d5a33f57f60b805f71e7c588fa208422
 org.apache.flink	flink-connector-mysql-cdc	3.3.0		5e7367439015292679bc60d56f635cc120c00e96
+org.apache.flink	flink-connector-mysql-cdc	3.4.0		4041effefcc6d0cb2a3951898b2985b05f9db111
 org.apache.geronimo.schema	geronimo-schema-jee_5	1.0		accde5c2521f48d5daca941fec2f528800b908ec
 org.apache.geronimo.schema	geronimo-schema-jee_5	1.1		1e04655f85b131e379e4a43e37d6099e40c2ca4a
 org.apache.geronimo.schema	geronimo-schema-jee_5	1.2		6b6181d20863162ae57eabe6015343f5712e2a76
@@ -1363,6 +1369,7 @@ org.apache.xmlgraphics	batik-util	1.15		a4ef03311da7bf7c3daaab951eab280f21b74066
 org.apache.xmlgraphics	batik-util	1.16		cc144a6a69fac333e5ed10ac3169768ceff2b840
 org.apache.xmlgraphics	batik-util	1.17		83ef2a8b449444a1d57e91e938522899317a8672
 org.apache.xmlgraphics	batik-util	1.18		1b5126413569b45fa5e35eae936e1acd4abcd5dd
+org.apache.xmlgraphics	batik-util	1.19		0f246bb0e8b645a552697a7a507e24536af764fc
 org.apache.xmlgraphics	batik-util	1.6.1		940d04063eb45d0909bb37c761906bd5533d1955
 org.apache.xmlgraphics	batik-util	1.7		5c4dd0dd9a86a2fba2c6ea26fb62b32b21b2a61e
 org.apache.xmlgraphics	batik-util	1.8		35dcd204f397d6976290ca48ffa0011ba9b7ef43

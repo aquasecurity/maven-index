@@ -29,6 +29,7 @@ cloud.piranha.dist	piranha-dist-server	25.1.0		c651e1f6ed95774a8b7546f629ae5c6f9
 cloud.piranha.dist	piranha-dist-server	25.2.0		1dcc16d6163e232a7538a4965e089dcab0c10462
 cloud.piranha.dist	piranha-dist-server	25.3.0		f3e55aac335cb4ac260ecc10ae4a72f54c9eee98
 cloud.piranha.dist	piranha-dist-server	25.4.0		737905e8201fcad7212608002f27c2ba39acb58b
+cloud.piranha.dist	piranha-dist-server	25.5.0		b28404533a26c3ca834518e8f0248341acf95c0b
 com.aliyun	fc_open20210406	1.0.0		889f9697773ea8116b1ef1840a021ad4ab949163
 com.aliyun	fc_open20210406	1.0.10		a62628c6eac83c62cf7862c512567f9977d82d4e
 com.aliyun	fc_open20210406	1.0.10	shaded	1b181e79b426b5fa07c58949b5048f48afb95684
@@ -86,6 +87,8 @@ com.aliyun	fc_open20210406	2.0.8		e014a08cee943e5bc23d3563b1e2302d7a04d8a2
 com.aliyun	fc_open20210406	2.0.8	shaded	98a07bbde38021cdce2a9334407f3027ac1cd5c1
 com.aliyun	fc_open20210406	2.0.9		4c6fbe620aa28d42ed37de3d6cd628d56dcfbbcb
 com.aliyun	fc_open20210406	2.0.9	shaded	71645cde2b995afecac07ba7a31180ecde7314a0
+com.aliyun	fc_open20210406	2.1.0		3b150c6cefc0d557d9317404362b91aa25714afc
+com.aliyun	fc_open20210406	2.1.0	shaded	a9a0e5d15f3672cc4eb49bb9ecab68e990570383
 com.bugvm	bugvm-libimobiledevice	1.0.0		fe5c4ea230a843ce02e228dadb84070da030f766
 com.bugvm	bugvm-libimobiledevice	1.0.2		7374ea2cd9bac1a03164327775b1531d4d8d6b30
 com.bugvm	bugvm-libimobiledevice	1.0.3		2fd24d936dabcd774a21e9833558ea6d2cf28070
@@ -1164,6 +1167,7 @@ dev.zio	zio-aws-route53recoveryreadiness_3	7.31.27.1		19c3942b59e3cf013d1a61e05d
 dev.zio	zio-aws-route53recoveryreadiness_3	7.31.28.1		f6c4f0977a5ce776b682073c5bba606eb6ae63d8
 dev.zio	zio-aws-route53recoveryreadiness_3	7.31.3.1		acf38224d413760c898a1e6137792dd2f3803df1
 dev.zio	zio-aws-route53recoveryreadiness_3	7.31.30.1		da57e082feb2970b6a402f27e33f82ba2e1d95ee
+dev.zio	zio-aws-route53recoveryreadiness_3	7.31.30.2		55e0502379678b7baf3bfa3300b603c69ec84266
 dev.zio	zio-aws-route53recoveryreadiness_3	7.31.4.1		73e7e121b609fcb1daafffcb9c5c4f377ee2f6ff
 dev.zio	zio-aws-route53recoveryreadiness_3	7.31.6.1		2ae7f595a1552a8250870bc5e4649e82325df019
 dev.zio	zio-aws-route53recoveryreadiness_3	7.31.6.2		84ad34b6ca37a2e0c1772fff310a8d234c8f24cd
@@ -1363,6 +1367,7 @@ io.helidon.config	helidon-config-etcd	4.1.6		7f2769ac19ecc4fad5cabd4917bd699e0e4
 io.helidon.config	helidon-config-etcd	4.1.7		855dcf21273c07f2f0a0db6f602f16b31305f891
 io.helidon.config	helidon-config-etcd	4.2.0		9d83a3a486605ef189c77662150f5d770296f704
 io.helidon.config	helidon-config-etcd	4.2.1		0731ff3e9d722d2d133d9c7af1d0adfe885eb621
+io.helidon.config	helidon-config-etcd	4.2.2		95716097ec515429c7ffee6625416a68d4fede0c
 io.janstenpickle	trace4cats-tail-sampling-redis-store_2.12	0.0.0+1-2fdbbf5a		15a4789b109a3bc2b8f747db31489c19e37c43e9
 io.janstenpickle	trace4cats-tail-sampling-redis-store_2.12	0.0.0+1-7a9df181		05ab43879db70866bf39f5f12ccfa17a973a211f
 io.janstenpickle	trace4cats-tail-sampling-redis-store_2.12	0.0.0+2-5242c08c		e0d0188c1d116b64607c8ae6b4fce2546724d36a
@@ -1755,6 +1760,7 @@ io.opentelemetry	opentelemetry-exporter-zipkin	1.47.0		dfc850665801c61d05e918fac
 io.opentelemetry	opentelemetry-exporter-zipkin	1.48.0		5300ad4aafd62315678d126a50d5e1de1dad2350
 io.opentelemetry	opentelemetry-exporter-zipkin	1.49.0		0932d9bf9f634989dcd7c36df3273d930e4bb72c
 io.opentelemetry	opentelemetry-exporter-zipkin	1.5.0		0451bac6c8e4f431cb1f4895eb28d84a71900332
+io.opentelemetry	opentelemetry-exporter-zipkin	1.50.0		4a833390a096e58be6d91e72c26edc297691e162
 io.opentelemetry	opentelemetry-exporter-zipkin	1.6.0		461241ab78545efcc1f4e5e5818bdc1b63ca494f
 io.opentelemetry	opentelemetry-exporter-zipkin	1.7.0		f930ffb69dcfdc6a10b3822f40f0b41014198fd0
 io.opentelemetry	opentelemetry-exporter-zipkin	1.7.1		cd65b7120a4bf55109d1221d08a89adf873b5ea3
@@ -2061,6 +2067,7 @@ org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.2.1		3c497b915044dbf908
 org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.2.2		626591091182da84cc6c6ef98a930326c3c9a3a9
 org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.2.3		c80a2b43554f4748be676a4c7345d55c8562be89
 org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.20.0		c4463e93c0aa5d29498d1054ce49f69f55f03bc7
+org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.20.1		d835164a577e558430f2334eb3b15486e94f7d54
 org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.22.0		71715eff7153d5ae553bdca68f6f48dc3bc5963e
 org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.4.0		9e2c29608403dea0c387b44207c3884636d4fa81
 org.apache.camel.quarkus	camel-quarkus-mvel-deployment	3.5.0		16ac997567412e6b56563b5ed89543ff5e195563

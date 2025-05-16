@@ -784,6 +784,8 @@ com.vaadin	vaadin-confirm-dialog-flow	23.5.12		f0d68d066624592aeeff38397f8b96017
 com.vaadin	vaadin-confirm-dialog-flow	23.5.13		3c70655f4f1f459eb894cc31049578d588fe81ee
 com.vaadin	vaadin-confirm-dialog-flow	23.5.14		08d4adc003c48a290883ad6439d4030161569d51
 com.vaadin	vaadin-confirm-dialog-flow	23.5.15		6f32ec48918d950314b3b38557c0ddd8064deab1
+com.vaadin	vaadin-confirm-dialog-flow	23.5.16		4972a61d324a2e5b5ec5177cec5c6df38d418c93
+com.vaadin	vaadin-confirm-dialog-flow	23.5.17		5fa70bc8be4e3ddd84ffb1797c7e7dbf4fe82412
 com.vaadin	vaadin-confirm-dialog-flow	23.5.2		dc10919e350542e4d1f8b4e46fdf1c2fc41e13ac
 com.vaadin	vaadin-confirm-dialog-flow	23.5.3		0938bad29253a51f82d7db61032bcdb8b5c3bc8c
 com.vaadin	vaadin-confirm-dialog-flow	23.5.4		e8646d200f1fd7cefebe515e2c381ecae4c377ca
@@ -898,6 +900,7 @@ com.vaadin	vaadin-confirm-dialog-flow	24.5.8		803c46cf3de2a17c41c309f50589e093cc
 com.vaadin	vaadin-confirm-dialog-flow	24.5.9		d01e7e1130e85d5b028c3e656ae00d07cb9b3214
 com.vaadin	vaadin-confirm-dialog-flow	24.6.0		f8b8eff363127156dd534b4d9107fd5fb3ffe1b8
 com.vaadin	vaadin-confirm-dialog-flow	24.6.1		5250bb61e31f317a6ad74d6ff9e57c65ea91937a
+com.vaadin	vaadin-confirm-dialog-flow	24.6.10		d99fd73f4c3c5ad1665993e8b38e1698da91434f
 com.vaadin	vaadin-confirm-dialog-flow	24.6.2		ff91399670fa83af34968aa2d23a62083a478e58
 com.vaadin	vaadin-confirm-dialog-flow	24.6.3		e552154f704f82e808ba89b1724e5b0b7b6622cc
 com.vaadin	vaadin-confirm-dialog-flow	24.6.4		3cb0abf66167b8f53c9b9ea49262b36252f840cc
@@ -910,6 +913,7 @@ com.vaadin	vaadin-confirm-dialog-flow	24.7.0		3b8be6899877a48c48d1885c8c6dee2f27
 com.vaadin	vaadin-confirm-dialog-flow	24.7.1		6aef044171de5ac0a0dd01777333bf4ba5148362
 com.vaadin	vaadin-confirm-dialog-flow	24.7.2		fbe9d85ba3d0d2eb7e902360292a726b9dbdcbeb
 com.vaadin	vaadin-confirm-dialog-flow	24.7.3		02842f88964da70bff0c85c25e497a67fa10044b
+com.vaadin	vaadin-confirm-dialog-flow	24.7.4		c31c9431afc587d4ce326a290f86de436f3ae7df
 com.vaadin	vaadin-confirm-dialog-flow	3.0.0		27e922b5d86e28ac359d80faadab5c7c9f85f4fd
 com.vaadin	vaadin-confirm-dialog-flow	3.1.0		82d485b1bf8380cc0d448a9b515765a328bdc524
 com.vaadin	vaadin-confirm-dialog-flow	3.1.1		2cefa1d4a82898977c027ca991b3b60912ca926f
@@ -1055,7 +1059,12 @@ io.github.dftrakesh	amazon-sp-api	2.1.20		8f5b89b3700cee30903065521f5a813289f0e6
 io.github.dftrakesh	amazon-sp-api	2.1.21		f73d9a64461a79157afa977020ae69a49ed54c7e
 io.github.dftrakesh	amazon-sp-api	2.1.25		eab3ecd0671c9e412e0706ce591ec1fdba87f4b3
 io.github.dftrakesh	amazon-sp-api	2.1.26		faf810c03248a9830633e13fe22e51fe5989512b
+io.github.dftrakesh	amazon-sp-api	2.1.27		f18208ad4cfd211e0cb1afb9206a7b45fc45e953
+io.github.dftrakesh	amazon-sp-api	2.1.28		337d9df6240c4091dc2fa12726f47888174b2f02
+io.github.dftrakesh	amazon-sp-api	2.1.29		f647eb1568156c27030f05e10a185607047de41b
 io.github.dftrakesh	amazon-sp-api	2.1.3		3466f1a14178d9ed4e0c145a755e22e4435f24e9
+io.github.dftrakesh	amazon-sp-api	2.1.31		052215f892ecc5d07e735de0607d62b7248d4b18
+io.github.dftrakesh	amazon-sp-api	2.1.32		cc43663f71c917da4eaf952d2d335e28f5189e72
 io.github.dftrakesh	amazon-sp-api	2.1.4		c9571aa95a63c28d4c373e7eb31465bd63633f5e
 io.github.dftrakesh	amazon-sp-api	2.1.5		2c739c91648661f9d47ea2de6ce0dd9c5db6ca7a
 io.github.dftrakesh	amazon-sp-api	2.1.6		3a0915b9047b7cb2ce14b4fc2ab28b938533d004
@@ -1743,6 +1752,7 @@ org.apereo.cas	cas-server-support-saml	7.2.0-RC6		8a0f300956f03a1bc346b36902bc86
 org.apereo.cas	cas-server-support-saml	7.2.0-RC6	resources	932c903403fd757aa2f13a939f2cd8b7dbdbcca3
 org.apereo.cas	cas-server-support-saml	7.2.1		5e4794c67d649808972d20e43591f345b7952531
 org.apereo.cas	cas-server-support-saml	7.2.1	resources	f3b71596806d8fc6281c0f23fffe3ce2e207266a
+org.apereo.cas	cas-server-support-saml	7.2.2		70dae265106c451a91440addef213903689e3491
 org.apereo.cas	cas-server-support-saml	7.3.0-RC1		38704881d75514bf0e3f8f82d4eb53f50f0be518
 org.apereo.cas	cas-server-support-saml	7.3.0-RC1	resources	31df9576fe1026b0c6d6909c172e71711b99c53d
 org.apereo.cas	cas-server-support-saml	v6.4.0-RC5		6ce3e1266201f3e1ac548eabaa2aa90b5943455a
@@ -2240,6 +2250,7 @@ org.scalatest	scalatest-shouldmatchers_0.22	3.2.0-M3		e012cec4d523e9903f7e80cac6
 org.scalatest	scalatest-shouldmatchers_0.22	3.2.0-M4		1601d8bcecc3a409967f0c8d81ecd61618578b0e
 org.scalatest	scalatest-shouldmatchers_0.22	3.3.0-SNAP2		678b8938679004a0ac58194135a6bb39dd80e94d
 org.scodec	scodec-testkit_sjs1_2.13	1.11.10		a77cb5bd81aac95638f4860e48f7fab3e0381d38
+org.scodec	scodec-testkit_sjs1_2.13	1.11.11		c00028cc77ec013ae6a49993f8c6bb47d94d0743
 org.scodec	scodec-testkit_sjs1_2.13	1.11.5		b1492fa2fbbfd948415150b4a6747c6a1cfff706
 org.scodec	scodec-testkit_sjs1_2.13	1.11.6		0cb0125345e6536ecb73f1799b3f5ec9fa59f3af
 org.scodec	scodec-testkit_sjs1_2.13	1.11.7		c1d70a14a278a969cc5d530e87299541c17813e6

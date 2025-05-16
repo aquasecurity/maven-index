@@ -2400,6 +2400,7 @@ io.camunda.connector	connectors-e2e-test-http	8.4.13		0f3d08e502c4ed4a180d33a585
 io.camunda.connector	connectors-e2e-test-http	8.4.15		5c07b574c8121e8aaaa34834a251f07e54c2bce1
 io.camunda.connector	connectors-e2e-test-http	8.4.16		ee30cb2507232c70663d9d702856f1c4ca8ec1cd
 io.camunda.connector	connectors-e2e-test-http	8.4.18		d06efa7d8cc2143058fbf50d93ec48125e7d36d5
+io.camunda.connector	connectors-e2e-test-http	8.4.19		4468fa7eb425e36d97a098d7ae36af657d8427bd
 io.camunda.connector	connectors-e2e-test-http	8.4.2		8f003cae591a06f614bc528f990180da4a65ac95
 io.camunda.connector	connectors-e2e-test-http	8.4.3		9da7c4737d98221f2ff57cdef58c3c00815597b8
 io.camunda.connector	connectors-e2e-test-http	8.4.4		0a5ea67dda5b29feef8a5a541342bb4226a41e47
@@ -2433,6 +2434,7 @@ io.camunda.connector	connectors-e2e-test-http	8.6.0-alpha5		0ea02d9814c8d3eb2b15
 io.camunda.connector	connectors-e2e-test-http	8.6.1		4d1ebdf10aa8cd4959a14a5311c05e142b1583f7
 io.camunda.connector	connectors-e2e-test-http	8.6.10		83f106ad41105a0039ebb6f5fbcf501fb52adce7
 io.camunda.connector	connectors-e2e-test-http	8.6.11		bbf8801882faec00d67e9328c8705d889048bfaa
+io.camunda.connector	connectors-e2e-test-http	8.6.12		f9063281cb7b9159a3d1ee44d2180ef27cceee7c
 io.camunda.connector	connectors-e2e-test-http	8.6.2		d1716953fe833b4b18a6b762890adc3b17cc6cda
 io.camunda.connector	connectors-e2e-test-http	8.6.5		31e419710a70e4e3fa191dc0688f30330d5b2e95
 io.camunda.connector	connectors-e2e-test-http	8.6.6		11a6299596e8e6a36cfb9407da3014c2e1597e54
@@ -2444,8 +2446,12 @@ io.camunda.connector	connectors-e2e-test-http	8.7.0-alpha3.1		8b34da0a0899eb1707
 io.camunda.connector	connectors-e2e-test-http	8.7.0-alpha3.2		cba2fa0ce61c4fc1b1a4a0e01768f39ed299610a
 io.camunda.connector	connectors-e2e-test-http	8.7.0-alpha3.3		e561a368c8f9c2fddba17bc0422991c73b628c07
 io.camunda.connector	connectors-e2e-test-http	8.7.0-alpha4		96168bb64d2c616adf02a936cc78dbcb60cbda71
+io.camunda.connector	connectors-e2e-test-http	8.7.1		bfdc6b9c86a647c9a220b087091525a32b8f68e7
+io.camunda.connector	connectors-e2e-test-http	8.7.2		b4ec079c3a2506b2f8d9f2ac5cee0454835aea32
 io.camunda.connector	connectors-e2e-test-http	8.8.0-alpha3		ca7ec7cb50f85e5ecd35fe404b5516c963639fdd
 io.camunda.connector	connectors-e2e-test-http	8.8.0-alpha3.1		e8d268388c073459d57acb3d0ff669988d04975d
+io.camunda.connector	connectors-e2e-test-http	8.8.0-alpha4		6f45dc1eb694aa12b1706de588b48a753e38a3bf
+io.camunda.connector	connectors-e2e-test-http	8.8.0-alpha4.1		041463d092efc4561846f51172a7aafdafda9de5
 io.circe	circe-generic_sjs1_3.0.0-RC3	0.14.0-M6		d40d3b69bacf8f4de8fb9d8cd17a58430a861bc5
 io.dropwizard.metrics5	metrics-httpclient	5.0.0		1855e3ebee66fd087e6e3d12b028c7593712ac49
 io.dropwizard.metrics5	metrics-httpclient	5.0.0-rc1		3668abaee89aad3a2e344f4a1b2d1273230c42b1
@@ -2819,6 +2825,8 @@ io.ktor	ktor-client-auth-macosarm64	3.1.1		04ed80c09d865b9bed9c72d46f6400e8ad554
 io.ktor	ktor-client-auth-macosarm64	3.1.1	metadata	9db3eb83d044d302e8157418b41a085be1d5c0ff
 io.ktor	ktor-client-auth-macosarm64	3.1.2		f22d34df8cedce1d674308283698c9d454aa54dc
 io.ktor	ktor-client-auth-macosarm64	3.1.2	metadata	397f0a4383c52921a9dfe58dedce797a6f117766
+io.ktor	ktor-client-auth-macosarm64	3.1.3		7740485bc4a2a71bab0db821c0a1d7073ce3d511
+io.ktor	ktor-client-auth-macosarm64	3.1.3	metadata	e5a25c4fdfa20de0c9f77f1a7c70b20deb1fc842
 io.opentelemetry.android.instrumentation	slowrendering	0.11.0-alpha		N/A
 io.qtjambi	qtjambi-opengl-native-android-x86	6.2.10		164d5453084d5e2e28ccb2e1bd6dbd6f0c36d443
 io.qtjambi	qtjambi-opengl-native-android-x86	6.2.11		64b3f3f17681a2fd78af9a2e6c8763195155fab9
@@ -3369,6 +3377,7 @@ org.finos.legend.depot	legend-depot-pure-model-context	2.6.1		f02f670469cf07a9ce
 org.finos.legend.depot	legend-depot-pure-model-context	2.6.2		124b1354759088222588a3746995de88791accb7
 org.finos.legend.depot	legend-depot-pure-model-context	2.60.0		ae6605ba359e02ebf0b5dc1c3b3dabcb3dc68327
 org.finos.legend.depot	legend-depot-pure-model-context	2.61.0		da0eb99cb098ef287081905e3db8374607d58e9d
+org.finos.legend.depot	legend-depot-pure-model-context	2.62.0		f07c4539a0d1489d944cce6397ae08171721814d
 org.finos.legend.depot	legend-depot-pure-model-context	2.7.0		9c1e7fb5b88b727a7bcfa382f40e9c688fcc1c3b
 org.finos.legend.depot	legend-depot-pure-model-context	2.8.0		e080373c25eb67692b501ed47b34e1eea036ff46
 org.finos.legend.depot	legend-depot-pure-model-context	2.9.0		6ea3e30eb2939de29104b5982a657df709e3eb09
@@ -3494,6 +3503,7 @@ org.webjars.npm	cross-spawn	3.0.1		cc2506476e605dfc5ad54ce76a6fb5bdcfba3965
 org.webjars.npm	cross-spawn	4.0.2		fc2181c0052408a5f563c4da966ff0e71348c8e1
 org.webjars.npm	cross-spawn	5.1.0		81be48b1ef0093a080c7d3b26f3d7d5e5fbf94e5
 org.webjars.npm	cross-spawn	6.0.5		5441150ee8ade90ba734f0a088dd1432ec353314
+org.webjars.npm	cross-spawn	6.0.6		69a999ace1b312e5dee47297b761fdbd1b6a245d
 org.webjars.npm	cross-spawn	7.0.2		e45e07bec42f2620891de3df893e375b5fd99878
 org.webjars.npm	cross-spawn	7.0.3		b4f425f8aae0fa197847ea67fd5b11359fe3593d
 org.webjars.npm	cross-spawn	7.0.6		17bf2a35ede0fe860b23c74dfe62d684e5a5ad88
@@ -3547,6 +3557,9 @@ tz.co.asoft	kevlar-core-tvosarm64	3.0.8		N/A
 tz.co.asoft	kevlar-core-tvosarm64	3.0.8	metadata	f68a2202adbaa1a643703a00856c07e30c9fef33
 tz.co.asoft	kevlar-core-tvosarm64	3.0.9		N/A
 tz.co.asoft	kevlar-core-tvosarm64	3.0.9	metadata	6ca9862f07a85bdbaef25cd46ac46e86152b7e54
+tz.co.asoft	kevlar-core-tvosarm64	3.1.1	metadata	9a88a0da6fe906d6316ee5bde3034c1c017cf2b6
+tz.co.asoft	kevlar-core-tvosarm64	3.1.11	metadata	b1a9284c27674ef05f6be9e422a16aa00ba8be27
+tz.co.asoft	kevlar-core-tvosarm64	3.1.12	metadata	47941dc80041eff55387441b62c121b7082f8261
 tz.co.asoft	kuest-core-iosx64	1.5.1		N/A
 tz.co.asoft	kuest-core-iosx64	1.5.1	metadata	ac780f6210e0754a1514f79fe1395fbe4ff7cae0
 tz.co.asoft	kuest-core-iosx64	1.5.2		N/A

@@ -7,6 +7,7 @@ com.akuleshov7	ktoml-source-macosx64	0.5.2		N/A
 com.akuleshov7	ktoml-source-macosx64	0.5.2	metadata	1632c0450635fac547efe4b08c0f5aecbfbf2ef5
 com.akuleshov7	ktoml-source-macosx64	0.6.0		N/A
 com.akuleshov7	ktoml-source-macosx64	0.6.0	metadata	8af95d0cb8525f2d4e0ebfd5365452f61cb9b740
+com.akuleshov7	ktoml-source-macosx64	0.7.0	metadata	7e14c05870ce00dc11c7d619de2dce3fdfeb1c57
 com.amazonaws.scala	aws-scala-sdk-ecs	1.10.7		c4c84f68da7e3f43dd38c5a86f552ae805f54eb8
 com.apollographql.apollo3	apollo-cache-interceptor-metadata	3.0.0-dev2		45f44d35a8ee7d8673451e2e8bd414ac982d9a72
 com.apollographql.apollo3	apollo-cache-interceptor-metadata	3.0.0-dev3		02da96a0395571529de0fa92d113a167bb438bf7
@@ -70,6 +71,8 @@ com.basistech	common-api	38.0.3		3389d067b4c048da22cb15a7d517c7acb5da679c
 com.basistech	common-api	38.0.3	xml	e518b3d675a8d376ff4556a44fa082deb27e77b7
 com.basistech	common-api	38.0.4		87e95bae7a7a23561ef050f2bbb8d2705f20c66f
 com.basistech	common-api	38.0.4	xml	59411f5b43997f165949a4535dc2591418b882a0
+com.basistech	common-api	38.0.5		4358728f1ae24faf3b1bb1abc8ae8ab07827108f
+com.basistech	common-api	38.0.5	xml	3001ab56bcc1cb409e2e9dedbe94f40129884d7d
 com.blinkbox.books	elastic-http_2.11	0.0.12		2a1ec1abb774f9671d1cc2d31c363d3cfbf8bf3e
 com.cyphercove.coveprefs	coveprefs	3.0.0		N/A
 com.diamondedge	logging-android	2.0.1		N/A
@@ -918,6 +921,7 @@ org.apache.camel	camel-flink	4.8.3		b7d07dee371ca173dc79f8dc43be32ce28c28d45
 org.apache.camel	camel-flink	4.8.4		3d1a0ce1d258ad30a25d8c7f94ab6c943a03857d
 org.apache.camel	camel-flink	4.8.5		b2db0846fe764c93ebd674a6fa68363e923a6e77
 org.apache.camel	camel-flink	4.8.6		c0a662e6c49a76fd176522714e817af3b3aaf353
+org.apache.camel	camel-flink	4.8.7		26edc3ed6f5f2ab0798d785d879b6f780681d9d7
 org.apache.camel	camel-flink	4.9.0		e72efe8ea84546bad4200d3ccae8d471b6de06ae
 org.apache.camel.karaf	camel-lra	4.10.3		299ae813c6c828c1457e8ab29c1675975e426be1
 org.apache.camel.karaf	camel-lra	4.7.0		12bd7496b9cf6a223088f3443352392a15953103
@@ -982,6 +986,7 @@ org.apache.camel.quarkus	camel-quarkus-lra	3.2.1		caa9647285e13ec5217d2223a6f9c4
 org.apache.camel.quarkus	camel-quarkus-lra	3.2.2		74848ed2c6ccc275686173247502ff597114ac61
 org.apache.camel.quarkus	camel-quarkus-lra	3.2.3		211cfeee9b0a16e16164e06a00b0891286ef6b21
 org.apache.camel.quarkus	camel-quarkus-lra	3.20.0		09c1fc8147903dd8c3731fa7b7a0e10ec50a776d
+org.apache.camel.quarkus	camel-quarkus-lra	3.20.1		f2b29610ec51d5a5383ab70f2ba45eba46e5c8d6
 org.apache.camel.quarkus	camel-quarkus-lra	3.22.0		71064b479c4b72a70e714a78675fe0e810cf9626
 org.apache.camel.quarkus	camel-quarkus-lra	3.4.0		c6bdcd21e66c5581d6061883355cd64da10da375
 org.apache.camel.quarkus	camel-quarkus-lra	3.5.0		4f8643cee41aa87bf624b6d0066d44dd68911ed5
@@ -1016,6 +1021,8 @@ org.dataconservancy.pass	nihms-data-transform-load-cli	1.4.0	shaded	d11d26d1e330
 org.dataconservancy.pass	nihms-data-transform-load-cli	1.4.1		b7a23b0c2487f80c4b9b42497433ec2ec0558c24
 org.dataconservancy.pass	nihms-data-transform-load-cli	1.4.1	shaded	1f87a3accf85d60ef404c40766bda2acf66d27c2
 org.eximeebpms.commons	eximeebpms-commons-utils	1.0.0		b666ec7250e603d6104f54ba3aef4e43c6fdd644
+org.gfccollective	sbt-dependency-graph-sugar_2.12_1.0	0.9.0		f1e078a19b9c5029f121e91a037df25f1b3a8c56
+org.gfccollective	sbt-dependency-graph-sugar_2.12_1.0	0.9.2		56612ba4cc926892d46b3e74fe13843679437b64
 org.gwtbootstrap3	gwtbootstrap3-parent	0.4		N/A
 org.gwtbootstrap3	gwtbootstrap3-parent	0.5		N/A
 org.gwtbootstrap3	gwtbootstrap3-parent	0.6		N/A
@@ -1162,6 +1169,7 @@ org.jboss.narayana.rts	restat-util	7.0.2.Final		d90052dff94913154da44ed2192229ad
 org.jboss.narayana.rts	restat-util	7.1.0.Final		8387d6a282a7ad79545adb10e7972a5f8d53252b
 org.jboss.narayana.rts	restat-util	7.2.0.Final		5dcebbf813d51c932bea78d92bbd8f43a29afd0e
 org.jboss.narayana.rts	restat-util	7.2.1.Final		6fe0ad29f75adac7ca6608854ea33c90c3c24d9a
+org.jboss.narayana.rts	restat-util	7.2.2.Final		4b36998b376885b79273e6ee597f4a2f0d9bf8fc
 org.jbundle.base.message	jbundle-base-message-reactor	0.7.7		N/A
 org.jbundle.base.message	jbundle-base-message-reactor	0.7.8		N/A
 org.jbundle.base.message	jbundle-base-message-reactor	1.0.1		N/A

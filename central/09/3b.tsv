@@ -228,6 +228,7 @@ dev.galasa	dev.galasa.framework.api.launcher	0.38.0		007e33660fd60a83a711ef12644
 dev.galasa	dev.galasa.framework.api.launcher	0.39.0		dd5295457c5cad7ccf3f8d80946476e402394949
 dev.galasa	dev.galasa.framework.api.launcher	0.4.0		a230b4c2f9127777034b9085f57dbcf375fec360
 dev.galasa	dev.galasa.framework.api.launcher	0.40.0		6416585a4f0cc0ae31334e6ecb70ca4845a8e030
+dev.galasa	dev.galasa.framework.api.launcher	0.41.0		3dc07e855e55a52e2899dbfef6d46b9eb2ad02a1
 dev.galasa	dev.galasa.framework.api.launcher	0.5.0		fe0c021e874c2980e9e8dcf6de60e88f65d3cce3
 dev.galasa	dev.galasa.framework.api.launcher	0.6.0		94a3b5d4f875e5a7ba9ae4987d0a4e07385b09d5
 dev.galasa	dev.galasa.framework.api.launcher	0.7.0		4b9f8961a907870b940740107c6c82f0faa27388
@@ -612,6 +613,7 @@ org.apache.flink	flink-connector-elasticsearch-base_2.10	1.3.1		7581d0b8aa98a132
 org.apache.flink	flink-connector-elasticsearch-base_2.10	1.3.2		442ad1a25cef040a50909c4de8d1b2e07553b88c
 org.apache.flink	flink-connector-elasticsearch-base_2.10	1.3.3		f64183147bd7e3a541df48cc47fb448e1d81cb62
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.lucene-queryparser	10.0.0_1		1cbe1eeb4853921cb6a05b4589210e6206c4ac2c
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.lucene-queryparser	10.2.0_1		59b0d870791c07842c5a7c0cd7ed9e44dd81f2f2
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.lucene-queryparser	4.0.0_1		7d902d5a85eed347f8929508af256e7586309a60
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.lucene-queryparser	4.1.0_1		20c34dd779d2d6c9e82eb4173852080588b3de17
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.lucene-queryparser	4.10.1_1		4b5f49b7019aca8c619add35f82a1084f2f69d16
@@ -1168,6 +1170,7 @@ org.apereo.cas	cas-server-support-yaml-service-registry	7.2.0-RC6		6a2c7a8ec97e1
 org.apereo.cas	cas-server-support-yaml-service-registry	7.2.0-RC6	resources	eabe39ea761962e343193ef9cb126d7894782a59
 org.apereo.cas	cas-server-support-yaml-service-registry	7.2.1		97a1e8994590589ae5c432c69d580950a90ffac8
 org.apereo.cas	cas-server-support-yaml-service-registry	7.2.1	resources	a8bfdbc839a7ec83c20f0068855ea4624de190b4
+org.apereo.cas	cas-server-support-yaml-service-registry	7.2.2		6800a8a5640cd4431e986b82e843d8893fd72167
 org.apereo.cas	cas-server-support-yaml-service-registry	7.3.0-RC1		d7187d042b9a74d63d704e16637ced3b778a014f
 org.apereo.cas	cas-server-support-yaml-service-registry	7.3.0-RC1	resources	2563f6246c9ac327124fbf0397ad33801136ca5d
 org.apereo.cas	cas-server-support-yaml-service-registry	v6.4.0-RC5		13ba04e4ecabe59a8d1a49d932013881d47bdecc
@@ -1495,6 +1498,7 @@ org.jruby	jruby	1.7.7		c158ff67efce0a89ba49a882220a3b3fd0bfe172
 org.jruby	jruby	1.7.8		9a69bd4880d3a1acbe05484cf20d9489888aea65
 org.jruby	jruby	1.7.9		4108ce655a268ddcf0389c3f2bb786da84540829
 org.jruby	jruby	10.0.0.0		4300e3f4298091e60adffe4fb4383effb713e0f2
+org.jruby	jruby	10.0.0.1		8d74b784914f26625f2b5ba651e2d66697c0c405
 org.jruby	jruby	9.0.0.0		025551f0cb219c4b1bf0ede0b655cb3bfd839e0b
 org.jruby	jruby	9.0.0.0.pre1		ffa7954b2de4ea899b5ba61ddc92027bedb46f92
 org.jruby	jruby	9.0.0.0.pre2		12567a05db135e87529b4cf4daea700b06cb2856
@@ -1569,6 +1573,7 @@ org.jruby	jruby	9.4.1.0		87a72928865bd10f6cdbf22b65df2234bef0d565
 org.jruby	jruby	9.4.10.0		68ef3fc57fccc5fe722f53b3eab29f92587ed3f3
 org.jruby	jruby	9.4.11.0		869ed42f1a90b718e30e28b89ecea70089cdd24a
 org.jruby	jruby	9.4.12.0		b9999fa0428ddb0aaea44345ee2c59b6f96e1688
+org.jruby	jruby	9.4.12.1		2e0f2fb9c3f0e4664a619635c9d7a4b34b569285
 org.jruby	jruby	9.4.2.0		949c05a49fdb5f7fdd1044bb184adb5fdd878daa
 org.jruby	jruby	9.4.3.0		c5e59c54817b5f7ae627d76b06d7c4ec37869733
 org.jruby	jruby	9.4.4.0		11e481b5d477ca1cca808bcbe955dc635ea5dee0
@@ -1694,6 +1699,10 @@ tz.co.asoft	raven-email-agent-core-iosarm64	3.0.14		N/A
 tz.co.asoft	raven-email-agent-core-iosarm64	3.0.14	metadata	d32277e8057801042e9f336776f361d59c8fff27
 tz.co.asoft	raven-email-agent-core-iosarm64	3.0.15		N/A
 tz.co.asoft	raven-email-agent-core-iosarm64	3.0.15	metadata	7d4beddf5541690200a89c728a5fa2b58edd352f
+tz.co.asoft	raven-email-agent-core-iosarm64	3.1.0	metadata	390eaaf8c44d1c5cd4eb07403b7626256892b183
+tz.co.asoft	raven-email-agent-core-iosarm64	3.1.1	metadata	49cee633c72a31205fe8e6289cedb61a97acdac8
+tz.co.asoft	raven-email-agent-core-iosarm64	3.1.11	metadata	c4f1d71fd24ebeaf331aef2e6aa71015e1f60400
+tz.co.asoft	raven-email-agent-core-iosarm64	3.1.12	metadata	5d19ced24450a6e6cf3fe5b4ed77a36525daff10
 wtf.metio.maven.parents	maven-parents-java-prototype	2021.10.15		N/A
 wtf.metio.maven.parents	maven-parents-java-prototype	2021.10.29		N/A
 wtf.metio.maven.parents	maven-parents-java-prototype	2021.11.12		N/A

@@ -433,7 +433,16 @@ aws.sdk.kotlin	sagemakerruntime-jvm	1.4.73		8cce974863bf1252048ea5cd6aa8bd38b9f8
 aws.sdk.kotlin	sagemakerruntime-jvm	1.4.74		2f8aa98aee39c99bb132346034c9e5146ccec107
 aws.sdk.kotlin	sagemakerruntime-jvm	1.4.75		e30a72624312eed9665578b0fa24c1b0b8ebf01a
 aws.sdk.kotlin	sagemakerruntime-jvm	1.4.76		974fc22fd9fe2a165c9263f06285e163e4e89a67
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.77		7a7c46998a6631fe54d0850375ec62794825379c
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.78		b502bdfe3d74afd2d53515736a0c0e86d09369aa
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.79		3b9592a4c92ebbcf32afb2c598accfe545254860
 aws.sdk.kotlin	sagemakerruntime-jvm	1.4.8		48008994413807baf82c59697af1a50694d8c04b
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.80		79ba855447d43fbf15caa322bce91a825485a614
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.81		35ca3135e0418bbc8174f010951c6b08534200b5
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.82		4da106e5e54d05d8afdf178c3cc34d0e07612494
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.83		4a296343e8656d2f4afa09d805de19df2570fe58
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.84		b76c856841d25edcd3a284dd5fec7faf3ae6a519
+aws.sdk.kotlin	sagemakerruntime-jvm	1.4.85		929233c0ef6bccd15a91ff0283f3d6760ffa914d
 aws.sdk.kotlin	sagemakerruntime-jvm	1.4.9		02e05b9b59828382305051e8c8c6f0837d40789a
 br.com.damsete.arq	damsete-arq	0.0.1		N/A
 br.com.damsete.arq	damsete-arq	0.0.10		N/A
@@ -1044,6 +1053,7 @@ dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.27.1		35da4ccf17b2d354dcf9d4f
 dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.28.1		e4635ab93e5002ce7433b1b777c7d73979e3b597
 dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.3.1		47482451736403b4a6fc01c6e3da000dc3af9ca3
 dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.30.1		df07ba82d21d6b4684e1a2e4726c717549b1d73a
+dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.30.2		b5112af891c33796516b9eb425448785a5e5131f
 dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.4.1		7e5d509786ac58c26d0c4a98a03de54334654694
 dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.6.1		0f76ed2dbeab573e32285f9f1e6639287e7e90a6
 dev.zio	zio-aws-migrationhuborchestrator_2.13	7.31.6.2		7f74827a151c598ad171dfd6f2c8115489896ef3
@@ -1234,6 +1244,7 @@ io.github.kitlangton	neotype-zio-json_3	0.3.19		83b8b3b41446cd1e996eb6c24a2b292d
 io.github.kitlangton	neotype-zio-json_3	0.3.20		58d34f09ea3d4373c521b987fa381d031dddf2aa
 io.github.kitlangton	neotype-zio-json_3	0.3.21		2f3c0e01f841cbbbfbbaf59796e8680029852832
 io.github.kitlangton	neotype-zio-json_3	0.3.23		a6028e1d13eb752d9d1eac5eb89331c747a5ebf7
+io.github.kitlangton	neotype-zio-json_3	0.3.24		5852a8e1fe8692a4abcc7b7a9959510d285ec928
 io.github.kitlangton	neotype-zio-json_3	0.3.4		9ef4cba5e07b22e285311508e1178333d80cc3ce
 io.github.kitlangton	neotype-zio-json_3	0.3.5		d66a83fdb1b206a26108a2ebada91048e91c7148
 io.github.kitlangton	neotype-zio-json_3	0.3.6		46ab0c314d0b53ee93774b37c0461a619008f3de
@@ -1519,6 +1530,7 @@ io.quarkus	quarkus-agroal-spi	3.15.2		5c2cb8614c32ecd53f6537b4f61b4b29101b121d
 io.quarkus	quarkus-agroal-spi	3.15.3		1961211746ef49995db29c571f7f3cab7eeab107
 io.quarkus	quarkus-agroal-spi	3.15.3.1		3e31550259ece487ebf434f40d3019514a75d45a
 io.quarkus	quarkus-agroal-spi	3.15.4		05631302af9560b0057ef9943f698989d71f1fa3
+io.quarkus	quarkus-agroal-spi	3.15.5		865552ffcb3ab26b0fa116ddf22d2a3683b439a0
 io.quarkus	quarkus-agroal-spi	3.16.0		c8334c4559390877ced40e40705e3f27e5035a73
 io.quarkus	quarkus-agroal-spi	3.16.0.CR1		d304bb0f1f0e624d423e59085c0f931143f506fa
 io.quarkus	quarkus-agroal-spi	3.16.1		726e8c91d3fcd8065fe90781f27a481b4dedb8da
@@ -1563,6 +1575,7 @@ io.quarkus	quarkus-agroal-spi	3.2.8.Final		b1c0212767b2c9eec367f779a5109d14f51b1
 io.quarkus	quarkus-agroal-spi	3.2.9.Final		7a82ea5751028079c2129d0702e8cb91c4e2941b
 io.quarkus	quarkus-agroal-spi	3.20.0		2c4fc9d285a1a1a8f0ad1c60d28c6d049326b6fc
 io.quarkus	quarkus-agroal-spi	3.20.0.CR1		4d6400ceabed79baca1f0b8491b207a35db7c990
+io.quarkus	quarkus-agroal-spi	3.20.1		a21e14d9bc5fe457ee008e822c585d4fc6013800
 io.quarkus	quarkus-agroal-spi	3.21.0		56a794a6dd276af6edeb4ee928fcda4375c7ceb9
 io.quarkus	quarkus-agroal-spi	3.21.0.CR1		1b081a5363043a67eff7b474830e52347559b731
 io.quarkus	quarkus-agroal-spi	3.21.1		bbce74b78fa7dcc00f1336ace3aa591b10df429e
@@ -1572,6 +1585,9 @@ io.quarkus	quarkus-agroal-spi	3.21.4		b2e3f9c29b1460af3dc6d9e62f0267b6d4300e29
 io.quarkus	quarkus-agroal-spi	3.22.0		f8b44f49bb80aba5470cb25f62c9182482d6d9ee
 io.quarkus	quarkus-agroal-spi	3.22.0.CR1		8d83c803db462c6de3062b64678355a376a7e8a7
 io.quarkus	quarkus-agroal-spi	3.22.1		e66f09b62a692d09cf0f497a1514a3ec9df4c377
+io.quarkus	quarkus-agroal-spi	3.22.2		e4ffd2268832ffaf23b31d4bd4f9aecd76cc27d3
+io.quarkus	quarkus-agroal-spi	3.22.3		1874a18800f1f84abf3f0626468ce9cd7556e6ac
+io.quarkus	quarkus-agroal-spi	3.23.0.CR1		2e621994bdcb2ea13ed483fd58f01a30d670317f
 io.quarkus	quarkus-agroal-spi	3.3.0		9efb75d96dfb4ad5d72506222ba6dd48d4143695
 io.quarkus	quarkus-agroal-spi	3.3.0.CR1		e52a4adafc0ace8d8999cdfbcfdf7497957dadd1
 io.quarkus	quarkus-agroal-spi	3.3.1		44526578b0bddb895f1cd3eedd212180822fcb46
@@ -2389,6 +2405,7 @@ org.openrewrite.recipe	rewrite-nodejs	0.20.0		21790f870f9c1b037e55098e49d5b6ad93
 org.openrewrite.recipe	rewrite-nodejs	0.21.0		a5578be01b1653741d2c5508cf5acb472eedd2ab
 org.openrewrite.recipe	rewrite-nodejs	0.21.1		6a53c9930a017c29a5d614e2261011167df74a75
 org.openrewrite.recipe	rewrite-nodejs	0.22.0		33c8efb8f3588c0e3d6567542b37fd0ec81cb15d
+org.openrewrite.recipe	rewrite-nodejs	0.23.0		d2cfea892587f4789bd689224ee2a2cf86e6fbf1
 org.openrewrite.recipe	rewrite-nodejs	0.3.0		c70f5887d35de1f25cdb16d31b4f9286d8b0f37a
 org.openrewrite.recipe	rewrite-nodejs	0.4.0		643663c178f37148bef91574183fdd51c7ad17f1
 org.openrewrite.recipe	rewrite-nodejs	0.4.2		80cbdf3cbad4cfc5ea8695b93cdcc716fa144c78

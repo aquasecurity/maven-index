@@ -47,6 +47,8 @@ com.eygraber	vice-portal-iosx64	0.9.0		N/A
 com.eygraber	vice-portal-iosx64	0.9.0	metadata	3c072f5903b61a06a0ce631e01b93e6a366e1006
 com.eygraber	vice-portal-iosx64	0.9.1		N/A
 com.eygraber	vice-portal-iosx64	0.9.1	metadata	86a2b670947a0dc89ee5e5cff0fb8b45ddae52a6
+com.eygraber	vice-portal-iosx64	0.9.10	metadata	e55e5af80444ca44b691794349c5c69eb5fcd0e6
+com.eygraber	vice-portal-iosx64	0.9.11	metadata	2f71cf6f7c92fdad29e6318e21e55dee8f6a91bb
 com.eygraber	vice-portal-iosx64	0.9.2		N/A
 com.eygraber	vice-portal-iosx64	0.9.2	metadata	1bc12662203b37ba1f538fe3b12226b425c9b740
 com.eygraber	vice-portal-iosx64	0.9.3		N/A
@@ -457,6 +459,7 @@ io.automatiko.archetypes	automatiko-orchestration-archetype	0.41.0		27690cf85046
 io.automatiko.archetypes	automatiko-orchestration-archetype	0.42.0		f4a80c0882466e0850676ccc43408b7e147d1d9e
 io.automatiko.archetypes	automatiko-orchestration-archetype	0.42.1		47e28371ef45359fdf2a9f560c9bf222b59f9fe8
 io.automatiko.archetypes	automatiko-orchestration-archetype	0.42.2		435ca2da52cbb6fbcd3389aa9e964f6336d60933
+io.automatiko.archetypes	automatiko-orchestration-archetype	0.43.0		f81d50b7362a821869c2906caeebd3a3c93157c5
 io.automatiko.archetypes	automatiko-orchestration-archetype	0.5.0		36a7b1e4d1d394097d2262bd6202f415c5073006
 io.automatiko.archetypes	automatiko-orchestration-archetype	0.6.0		c825a5c5ed11e99303781883663b22351b9ea900
 io.automatiko.archetypes	automatiko-orchestration-archetype	0.7.0		41a979f65cf1b683b2c7281c95050832d6f5d0b5
@@ -491,6 +494,7 @@ io.exoquery	controller-core-jvm	2.0.0		0d4759e33306ece9e314642ae29aec207ca0f934
 io.exoquery	controller-core-jvm	3.0.0		bc2e13ac35179711746a97b0a45ee1f061f63875
 io.exoquery	controller-core-jvm	3.1.0		547dc69f80b96bd0e6a91fec99bfc33bf4c25f6f
 io.exoquery	controller-core-jvm	3.2.0		bd5a3d72d875488fb6dff29066db8127eedbaaeb
+io.exoquery	controller-core-jvm	3.2.1		bd5a3d72d875488fb6dff29066db8127eedbaaeb
 io.fabric8.funktion.connector	connector-sql	1.1.20		5bf62c93811a94dd6689bebb920f83c7c8848377
 io.fabric8.funktion.connector	connector-sql	1.1.21		700c5f398271063b2e9952459332435575182f42
 io.fabric8.funktion.connector	connector-sql	1.1.22		8c4c807c5eacef1681fcb21e597e84e6eb0ba826
@@ -1627,6 +1631,7 @@ org.webjars.bower	github-com-vaadin-vaadin-control-state-mixin	v1.1.5		b518de797
 org.webjars.bower	github-com-vaadin-vaadin-control-state-mixin	v1.1.9		99a47486df01159514c9d3b5df9e4cf70c0f127e
 org.webjars.bower	github-com-vaadin-vaadin-control-state-mixin	v2.0.2		c46c4e1e89dcd10992bd38b4a1333b8496fe99ab
 org.webjars.npm	npm	10.8.2		7a5633c19b6d680825bfffab3c500a56369a76b3
+org.webjars.npm	npm	10.9.2		a0fda6d0df221e1a26a9d30623f944a38b3dee29
 org.webjars.npm	npm	2.14.8		1b435162b494f0151c3ea3e481646e4d5ad5b774
 org.webjars.npm	npm	3.10.6		c0eda8fe4a4d66712283298702475fb425b252a1
 org.webjars.npm	npm	3.3.9		7e6f9b15c789ffdb392d53257f6988250e944b2a
@@ -2760,7 +2765,18 @@ software.amazon.awssdk	devopsguru	2.31.30		adcf5d0cda2b66966fe730dac9d748a7faac7
 software.amazon.awssdk	devopsguru	2.31.31		c5a9057886f62d50f311c210e00b1bc9beeea32b
 software.amazon.awssdk	devopsguru	2.31.32		8534cf285973bca9400cc29c805eaed6da4bdbfc
 software.amazon.awssdk	devopsguru	2.31.33		45e5179f0d644f4e1675a21b83d67ec285fe4618
+software.amazon.awssdk	devopsguru	2.31.34		e192769ecfca0b3048e6ee11952895c12746b60f
+software.amazon.awssdk	devopsguru	2.31.35		291290d0af363f72cbde08b8ace23ae4667205b8
+software.amazon.awssdk	devopsguru	2.31.36		a3d1494edba7218a349639bab037c50a2e39f51e
+software.amazon.awssdk	devopsguru	2.31.37		d64bf2e29f453d394f040928c42cca4320a5e0dd
+software.amazon.awssdk	devopsguru	2.31.38		dcd9b9ca5ae169ea63aae254b2e6d46b2313e57a
+software.amazon.awssdk	devopsguru	2.31.39		3ab9af35bc92a80a3df48ae15d72038c33a9348b
 software.amazon.awssdk	devopsguru	2.31.4		d67566c684c09dcfed0e152f38e39662632dda7a
+software.amazon.awssdk	devopsguru	2.31.40		babec7ec61f8c215f6f7d9976dd2bd88ebfe5291
+software.amazon.awssdk	devopsguru	2.31.41		8b13cb84085f985d924e4852b92ff26191d9637d
+software.amazon.awssdk	devopsguru	2.31.42		f6fd76714b28614bbeeac88ae15f63a25850e4fb
+software.amazon.awssdk	devopsguru	2.31.43		fbe86f718968b94f3ad442a1534d25787d09d4a0
+software.amazon.awssdk	devopsguru	2.31.44		c2da84c8563707161f70e0f5108c17bb701ff5e2
 software.amazon.awssdk	devopsguru	2.31.5		aac1bb14837b5d9192f09e472e0dbd3968d0fea8
 software.amazon.awssdk	devopsguru	2.31.6		e8cddfa227f7e6938d01fc7efcaf6a23ab8d71eb
 software.amazon.awssdk	devopsguru	2.31.7		89041d16b196aac7fb51833a41ee1a0141cce2bf

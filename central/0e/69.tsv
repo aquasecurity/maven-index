@@ -277,6 +277,8 @@ com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.60.0		4fc3e53557c9904
 com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.61.0		dfad7f44f51c7dd51d10ed28ff4994c1e57b2092
 com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.62.0		4d3d2b2169074e992219b718ae976b37020a5507
 com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.63.0		c39a28d1e90ebd3de717296477ef8a856cf97b77
+com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.64.0		d1dde747e28a25e22506da7983b6e1f2802e538b
+com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.65.0		ff374bbd5d969d2f1c58842e712a36771c125c4c
 com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.7.0		d75a2b250ea439c4d8d858b25836da70475eda8f
 com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.8.0		2922197e0911a35dd9949961af16b4a6246703da
 com.google.api.grpc	grpc-google-cloud-resourcemanager-v3	1.9.0		e7f1a86fec2a990b5f9bbed131a84fc15974fcfc
@@ -415,6 +417,7 @@ com.spt-development	spt-development-logging-spring-boot-autoconfigure	3.4.0		b09
 com.spt-development	spt-development-logging-spring-boot-autoconfigure	3.4.1		ee1a78a3ca1ac723dc47206618f3971085d4e9d2
 com.spt-development	spt-development-logging-spring-boot-autoconfigure	3.4.2		8e98889e799fa5628a8af9ccb7d6bdfbc4e2f0a4
 com.spt-development	spt-development-logging-spring-boot-autoconfigure	3.4.4		2c7ff13cfa6d6fb8e6e888e809c330af705761b7
+com.spt-development	spt-development-logging-spring-boot-autoconfigure	3.4.5		ec9346eeae8b42e0abbef7f3696808e0b5538ee7
 com.walterjwhite.java.modules.queue.providers	datastore	0.0.17		N/A
 com.webank.wedatasphere.linkis	linkis-pipeline-entrance	0.9.1		2db5745090c600c5c8b0caeb48134c93f81abd2b
 com.webank.wedatasphere.linkis	linkis-pipeline-entrance	0.9.2		e243b022db480316e9244ac4d2ec09227b14088d
@@ -676,6 +679,8 @@ io.camunda.connector	connector-aws-dynamodb	8.4.16		423e0b6c854365ede0345e190f4a
 io.camunda.connector	connector-aws-dynamodb	8.4.16	with-dependencies	f14c84d7e26391af1d9ebadf13750663fea5c020
 io.camunda.connector	connector-aws-dynamodb	8.4.18		605984ce51ee45c5e788419056deeb53eba93a90
 io.camunda.connector	connector-aws-dynamodb	8.4.18	with-dependencies	b19e6d5a100a4c04d15036733f260a4999b3a656
+io.camunda.connector	connector-aws-dynamodb	8.4.19		b152e02c7df0e4b55b4e82872a45a62a3fa139ec
+io.camunda.connector	connector-aws-dynamodb	8.4.19	with-dependencies	0967ae6a83fbf1c7403f0a44a4696c8b178a63ca
 io.camunda.connector	connector-aws-dynamodb	8.4.2		00f95a710962088d543d3b991723111ce674688a
 io.camunda.connector	connector-aws-dynamodb	8.4.2	with-dependencies	3e7e39343694d98b1b9f6c3677819f4a27e2ac17
 io.camunda.connector	connector-aws-dynamodb	8.4.3		1fb03b836061443a86a911dc7ae347e266b067aa
@@ -742,6 +747,8 @@ io.camunda.connector	connector-aws-dynamodb	8.6.10		fd972a0d1702e7fdcb13adf3f98c
 io.camunda.connector	connector-aws-dynamodb	8.6.10	with-dependencies	08c7f00f2b4504ebea05eddfcab1da6323be353a
 io.camunda.connector	connector-aws-dynamodb	8.6.11		2c10371266555d642cba7e474a5127b61591e9db
 io.camunda.connector	connector-aws-dynamodb	8.6.11	with-dependencies	de9369a7501a7ae79ae532db473706c18fdef93a
+io.camunda.connector	connector-aws-dynamodb	8.6.12		7ff45fe5a4af756abefdb70538368cf1b991eeb6
+io.camunda.connector	connector-aws-dynamodb	8.6.12	with-dependencies	eaf66da4be569f605b15616c2a431441af215466
 io.camunda.connector	connector-aws-dynamodb	8.6.2		856dce4756166d4a6f092de612f1ce208f0665f0
 io.camunda.connector	connector-aws-dynamodb	8.6.2	with-dependencies	e8b80bc1de933b6f8749e0dc20403dbefc279905
 io.camunda.connector	connector-aws-dynamodb	8.6.5		78fbd4e5ca75dab0259affeaf7adfae53a77fe71
@@ -764,10 +771,18 @@ io.camunda.connector	connector-aws-dynamodb	8.7.0-alpha3.3		7202a5a7f7966ec1733d
 io.camunda.connector	connector-aws-dynamodb	8.7.0-alpha3.3	with-dependencies	2669c141601c2646c98e1009dcf4783776320d17
 io.camunda.connector	connector-aws-dynamodb	8.7.0-alpha4		6c86276b108ed22644e56db24fe24619c4c8035d
 io.camunda.connector	connector-aws-dynamodb	8.7.0-alpha4	with-dependencies	514e8e1d02b0b253b8c79a871acf5bd3df28e957
+io.camunda.connector	connector-aws-dynamodb	8.7.1		59ccbcb5eea84e15f96f2f6a3128bacabfbccfdc
+io.camunda.connector	connector-aws-dynamodb	8.7.1	with-dependencies	3ff533967d87eaea973c4000c8b1c60510e7b550
+io.camunda.connector	connector-aws-dynamodb	8.7.2		d0a507734ef9b58f11719e7860ee84babdf2eff9
+io.camunda.connector	connector-aws-dynamodb	8.7.2	with-dependencies	9a7b4ef8a27398d51ab5b441f976171f69c0ea4f
 io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha3		fae3c5e6efbb5b409cc4aa3c0fc7b4a194390d42
 io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha3	with-dependencies	eb5a6e5080c319fdd088844fad8637ebed10f030
 io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha3.1		e1182476c65d2cf1c2226db377666de382cc6e4c
 io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha3.1	with-dependencies	f95cddbac9ca2e72938ae3af5e2a88f15a6896ce
+io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha4		7513069fbdb0213e8d2f7b369142de82f8a61a03
+io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha4	with-dependencies	bbb2a325a0b20a9bf5df26c204b349a726e65495
+io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha4.1		d85d6f6cd9b2522f5da0a04df15fe36fa817930d
+io.camunda.connector	connector-aws-dynamodb	8.8.0-alpha4.1	with-dependencies	17d1cf8c7f6b4f35c0d4e536ec54e4eeecba3ad4
 io.gitee.quick-develop-platform	specification	0.1.0		69995641d0902fb9ae20480f6b2a19280d2bafd5
 io.gitee.quick-develop-platform	specification	0.2.0		04e32dc69dcf22baee0f877e61a341239ea08840
 io.gitee.yxsnake	pisces	0.0.1		N/A
@@ -913,6 +928,8 @@ io.ktor	ktor-server-partial-content-watchosx64	3.1.1		8b914aa0d73fbc6c9138af14f1
 io.ktor	ktor-server-partial-content-watchosx64	3.1.1	metadata	70e979f736e04571fb49cf50db2016a3e9db1ed0
 io.ktor	ktor-server-partial-content-watchosx64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-partial-content-watchosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-partial-content-watchosx64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-partial-content-watchosx64	3.1.3	metadata	7105300cca4e6cc70127a5f9f8584bdee8d86064
 io.opentelemetry.instrumentation	opentelemetry-instrumentation-appender-api-internal	1.10.0-alpha		a1c38df3b78f918dae539f0ebdcc59acd1a12fe9
 io.opentelemetry.instrumentation	opentelemetry-instrumentation-appender-api-internal	1.10.1-alpha		8473793196193b4d2194cc35e4905987df7d5822
 io.opentelemetry.instrumentation	opentelemetry-instrumentation-appender-api-internal	1.11.0-alpha		da4b5d0691c7fae1bda40dbc8edf012c62073dfe

@@ -781,6 +781,7 @@ com.hashicorp	cdktf-provider-azurerm	13.23.0		4d0d57a94a798b119b2c770bfad7fc6617
 com.hashicorp	cdktf-provider-azurerm	13.24.0		4f9efac2395692264939cbd36a8ec6185b2e59fe
 com.hashicorp	cdktf-provider-azurerm	13.25.0		10b522834c04aa9e80b7cc6667adc2fef4709ed8
 com.hashicorp	cdktf-provider-azurerm	13.26.0		2dad623a18d3de35fcebaef26134512a772e4bea
+com.hashicorp	cdktf-provider-azurerm	13.27.0		1f44765f1968fe59d704ccb860674a289a979fef
 com.hashicorp	cdktf-provider-azurerm	13.3.0		d4bc70f93ea0e61952ce2150a69e9133606b0e17
 com.hashicorp	cdktf-provider-azurerm	13.4.0		9db68340420535b47db192214476c0d8f1d15961
 com.hashicorp	cdktf-provider-azurerm	13.5.0		13245677cb71a121525a15392782894e9c5a42e4
@@ -1034,6 +1035,7 @@ dev.inmo	tgbotapi.utils	23.2.0		ad3bddb4cf3707e01732d5ebcd5d429b1e8b9816
 dev.inmo	tgbotapi.utils	24.0.0		ad3bddb4cf3707e01732d5ebcd5d429b1e8b9816
 dev.inmo	tgbotapi.utils	24.0.1		ad3bddb4cf3707e01732d5ebcd5d429b1e8b9816
 dev.inmo	tgbotapi.utils	24.0.2		14ead5590a1a8e2db9543bb3a47f39e64576126d
+dev.inmo	tgbotapi.utils	25.0.0-rc		61026142b63de193b3548b68e4bb30ecf2c08a97
 dev.inmo	tgbotapi.utils	3.0.0		62c1bd139f61bf3e80a8ef20404cf749f37fd414
 dev.inmo	tgbotapi.utils	3.0.1		5665d4eb03a46c40037b27e24a7af35598ae6064
 dev.inmo	tgbotapi.utils	3.0.2		83af8affe5879648c7d6533723cbf260cab8c08e
@@ -1224,7 +1226,11 @@ io.primer	stripe-ach	2.38.2		N/A
 io.primer	stripe-ach	2.38.3		N/A
 io.spinnaker.orca	keiko-spring	2025.0-0		78a9ef41c651501bf22dc2347a75b21400fb1fc2
 io.spinnaker.orca	keiko-spring	2025.0-1		ea69252c48a4b36f0a26e1a48eab9c44314783af
+io.spinnaker.orca	keiko-spring	2025.0-2		2d23fd8ee173ae39d26538070d5915986c794e93
+io.spinnaker.orca	keiko-spring	2025.0-3		9c4efffa390006dceb582a1b8b769c9b84a470f2
+io.spinnaker.orca	keiko-spring	2025.0-4		38308e123692630463e174e27e9fbde778c9ea99
 io.spinnaker.orca	keiko-spring	2025.0.0		cd0e69693c099aebdbafb63e4253cb3f9a48d6b8
+io.spinnaker.orca	keiko-spring	2025.0.1		d522024ee47e3ba244e8fda9263c5d03d8766cc7
 io.spinnaker.orca	keiko-spring	8.15.0		2f706590510f77403363cc930924d0c94d4b9343
 io.spinnaker.orca	keiko-spring	8.16.0		97d7c541e6aebfcb501cb8dfb1767339b75a5439
 io.spinnaker.orca	keiko-spring	8.17.1		87e01cb05a974f8aa95f8023b14130d4f561cbb1
@@ -1316,10 +1322,14 @@ io.spinnaker.orca	keiko-spring	8.61.2		4f6d57caba4b8a1dad972d50d7597acb18fe95fd
 io.spinnaker.orca	keiko-spring	8.62.0		4f77e6f0ef0cbbab148edc1d19b642f6485acc38
 io.spinnaker.orca	keiko-spring	8.63.0		3959673d392784df8a31514a21895ac4544ab56b
 io.spinnaker.orca	keiko-spring	8.64.0		19dea6c49299c53642d4e6a6cc1538bc5c77d3aa
+io.spinnaker.orca	keiko-spring	main-10		e8d1b4d70f18d47a4cfc8e7b7a2a4bae4081bac2
+io.spinnaker.orca	keiko-spring	main-11		3e7254a70fc70db86012df104c5e2fd9ad6088ee
+io.spinnaker.orca	keiko-spring	main-12		d81dc94e78ce6b001ee170aef54beab993bde831
 io.spinnaker.orca	keiko-spring	main-5		57fe470f3ad2577a8b70b9ac8a401911c88040dd
 io.spinnaker.orca	keiko-spring	main-6		cfd23bf5c50f48fa17dfa9cc61b02ac28314e863
 io.spinnaker.orca	keiko-spring	main-7		db89281c5180ea78192b56764c70deb7ac021140
 io.spinnaker.orca	keiko-spring	main-8		9d4d266675eaef27a464b12133197bfdb51eab52
+io.spinnaker.orca	keiko-spring	main-9		c756d8f8bdfa458dd05019c642e5ff28b4a51bd9
 io.toolisticon.compiletesting	extension-modulesupport	0.5.0		dff355a3be5c5dc5fec6abbbf40f12ad645c09bc
 io.toolisticon.compiletesting	extension-modulesupport	0.6.0		43361aa500418fa778c35dc66b042710050d86c2
 io.toolisticon.compiletesting	extension-modulesupport	0.6.1		c4e726df0291b5e63ce1421f0990ffe9edee45d3
@@ -1481,6 +1491,7 @@ org.apache.camel.quarkus	camel-quarkus-core	3.2.1		0eb7b27cf2b0a408ebadcb8621e88
 org.apache.camel.quarkus	camel-quarkus-core	3.2.2		066e9d7486a9d3221fa292653c13663ff6756890
 org.apache.camel.quarkus	camel-quarkus-core	3.2.3		e41213e17ea71d97a2abb386aa48230e7a919b4d
 org.apache.camel.quarkus	camel-quarkus-core	3.20.0		b328ed40e7d03574065aaa10adf184baad8ef610
+org.apache.camel.quarkus	camel-quarkus-core	3.20.1		6e5a56b433b68df46feb32edac0591d9a19ed70d
 org.apache.camel.quarkus	camel-quarkus-core	3.22.0		e7a8a04368b95d6c88cbfa46a09304df7993afc0
 org.apache.camel.quarkus	camel-quarkus-core	3.4.0		40ca3d2f2b319dade189ced33e06ced3e6ac47c3
 org.apache.camel.quarkus	camel-quarkus-core	3.5.0		c67eb298d7ed73985be02933206c0f165322679c
@@ -1754,6 +1765,9 @@ org.http4k	http4k-template-jte	6.6.0.0		5347f04057fa929b87fe0786aa99c70a5fb915b2
 org.http4k	http4k-template-jte	6.6.0.1		ad23db0b929bfa038393db993046e1853349566b
 org.http4k	http4k-template-jte	6.6.1.0		3c6545aad87118e5e6de00f7bef6773bb48dbe23
 org.http4k	http4k-template-jte	6.7.0.0		7ca3acada8ee9cdadc07960a94ee1f103fdc810b
+org.http4k	http4k-template-jte	6.8.0.0		d16d2ff50e0b69d6f542101340f53a5f0ddae2c2
+org.http4k	http4k-template-jte	6.8.1.0		527f629a4a6ecc0b4b308c0ebfa90ebfcd1d1edd
+org.http4k	http4k-template-jte	6.9.0.0		37eaac24ef72bb5107067c76212931d19aa80431
 org.http4k	http4k-template-jte	v6.3.0.0		89518dcffef592d11ca4984e0e1131db5326c23f
 org.http4k	http4k-template-jte	v6.4.1.0		e26da1f7f5bd30189cbee4d5f01f4fab8310e6df
 org.infinispan	infinispan-remote	7.0.0.CR1		238e15ed6d4ac721d3d62768d2fae454eab09815

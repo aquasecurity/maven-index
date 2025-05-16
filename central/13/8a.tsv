@@ -792,6 +792,8 @@ com.oracle.oci.sdk	oci-java-sdk-budget	3.63.0		bd338dab92b90c4569529040dbb1d00fe
 com.oracle.oci.sdk	oci-java-sdk-budget	3.63.1		939cd417b607931d8ed76e178bb4e88baefeaa80
 com.oracle.oci.sdk	oci-java-sdk-budget	3.63.2		2aeeeeaa0f19c3b55c60e868ad73f5ec736f76e7
 com.oracle.oci.sdk	oci-java-sdk-budget	3.63.3		e10f2d7209f03b4d809c265b008f1ca74be4e669
+com.oracle.oci.sdk	oci-java-sdk-budget	3.64.0		09d8370011b0cd986df1ad9d9ca3c32901619d63
+com.oracle.oci.sdk	oci-java-sdk-budget	3.65.0		4e3fabc3dba1bddecae9d1a68f88809c3ce4e679
 com.oracle.oci.sdk	oci-java-sdk-budget	3.7.0		1d44fa0c93b554d79cd03b3ea0aac257417c7a9c
 com.oracle.oci.sdk	oci-java-sdk-budget	3.8.0		ea72b16aaf15199ab99e58d178755effed0c72d1
 com.oracle.oci.sdk	oci-java-sdk-budget	3.9.0		8a933a2f076cf68b13ba8e3178c9279c343b9f38
@@ -1202,6 +1204,7 @@ dev.zio	zio-aws-networkmanager_3	7.31.27.1		41d1b2118b1f1e19871f13e120d206a4b42a
 dev.zio	zio-aws-networkmanager_3	7.31.28.1		6523865dd6051117eec099cfb39af41d778b7586
 dev.zio	zio-aws-networkmanager_3	7.31.3.1		e9217346998d8aa844cc2ecfa077e68b92e79c4a
 dev.zio	zio-aws-networkmanager_3	7.31.30.1		ac86471f5adacb66b4fe405afa77ff285b07b21f
+dev.zio	zio-aws-networkmanager_3	7.31.30.2		430539b77773aa008d813791ba16eba0bbdee793
 dev.zio	zio-aws-networkmanager_3	7.31.4.1		c638e765c80e5f1099798c92ac149f7b9388363d
 dev.zio	zio-aws-networkmanager_3	7.31.6.1		5b6931c55ee3a92f44dc40d9385e9d92632403e0
 dev.zio	zio-aws-networkmanager_3	7.31.6.2		6333acb96320f37e6717642433459c0cea559485
@@ -1630,10 +1633,17 @@ org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.79.
 org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.80.0		f6cb47faff4c8a6de9c38e8dd0f288a903f3a8d0
 org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.81.0		2fef84207d344ae0e1d27b196c3a6e259a3ec560
 org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.82.0		c1b3d824a0ea925214ca32a650188b5fd5601681
+org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.82.1		852166f82681fb22e7a0cbcf0fdbda19d3d9015d
 org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.83.0		e143a51c22e3f6dc1b2d9a0ec992dc22dc803b13
 org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.83.1		960b312332b20d8bfaf2123be841cac6049aed77
 org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.83.2		6386c748943ae2de15fead2e6a2f9299210e14a9
 org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.83.3		538abbe93e37fff5592902ee2a2604a863be2adf
+org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.84.0		8de36e4485811967da6a82b2d6cd9bb7b9c85ac2
+org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.84.1		ca8640f4e23c84b31fb72b7a71000b3abe479477
+org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.85.0		3dc2b358a7516f6dc4f4fc48ca94892f2f0442ee
+org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.85.1		0c8759cf32d942a0abbeefa5f0dba5d083ab0b0e
+org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.85.2		867501c09d6c66197c99811082572407ea4371a3
+org.finos.legend.engine	legend-engine-xt-flatdata-javaPlatformBinding-test	4.85.3		10636606e404c7a0c9308c849874d3018064cfd4
 org.flywaydb	flyway-play_2.10	2.0.0		2a7d456c54fc03a11c8d29dd48b9be6f8438f745
 org.flywaydb	flyway-play_2.10	2.0.0-RC1		2936a1449505bcf826187f23e02029ae6dc995e1
 org.flywaydb	flyway-play_2.10	2.0.0-RC2		abd31bdc5ee394b124308bb82c4df7945773f0af
@@ -1748,6 +1758,8 @@ org.keycloak	keycloak-server-spi-private	26.1.5		920b4fbd48097450968bb8249560f84
 org.keycloak	keycloak-server-spi-private	26.2.0		be4bf16b3a67a98a9c0fc03eadd634d8523bebd5
 org.keycloak	keycloak-server-spi-private	26.2.1		66b2edceba088106eb7d0df28077e7b51816d491
 org.keycloak	keycloak-server-spi-private	26.2.2		134aea5cafa9d720d01502d0f5c974ecc124525a
+org.keycloak	keycloak-server-spi-private	26.2.3		2bd32433991dc2080e0503764997edcf66bd5c9a
+org.keycloak	keycloak-server-spi-private	26.2.4		0eed65e8efb8065be3ffb4a011bda490386aeda4
 org.keycloak	keycloak-server-spi-private	3.0.0.CR1		5aac9e68b483700d79fa033efc07c0451d86dcba
 org.keycloak	keycloak-server-spi-private	3.0.0.Final		3f8034a996e2259a87d27ee63bfee0b3e9e4c013
 org.keycloak	keycloak-server-spi-private	3.1.0.CR1		d033d8236c976fb77200c9db5cf2a5f150248a3a
@@ -2171,6 +2183,7 @@ org.wildfly.security	wildfly-elytron-credential-source-impl	2.1.0.Final		f58b1d8
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.2.0.Final		7a071943a9ba281d0ffb9a53686acb96d369979a
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.2.1.Final		a1b3763cfe4c7dd5266e139456669acc3aad6b86
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.2.10.Final		72650433ea0f2aeb7dda530ed9637de0b9d1ab6d
+org.wildfly.security	wildfly-elytron-credential-source-impl	2.2.11.Final		0d8ab73a8ed0dfbdd56378dd349880d9fe467d40
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.2.2.Final		2a0e32b5f87772c5e20d4fa24b0fa04f4afd662d
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.2.3.Final		29c2e0256266a07ceae6cce718ae50dfedb61d93
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.2.4.Final		ff1bd17cce801e183e270aadbf9b10a2f35b4384
@@ -2193,6 +2206,7 @@ org.wildfly.security	wildfly-elytron-credential-source-impl	2.6.0.Final		a810d96
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.6.1.Final		2c5bdd073c6512a6d166d1b288fcfe03010e29dd
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.6.2.Final		38803fdb0806fda327ea14f6d36722cf9b925f24
 org.wildfly.security	wildfly-elytron-credential-source-impl	2.6.3.Final		06d2988212f2be44741b48c11f03c21ca5678786
+org.wildfly.security	wildfly-elytron-credential-source-impl	2.6.4.Final		d10caa00916bd918086d0260ad74fa8934748955
 space.iseki.executables	executables-pe-js	0.0.10		N/A
 space.iseki.executables	executables-pe-js	0.0.11		N/A
 space.iseki.executables	executables-pe-js	0.0.13		N/A
@@ -2240,4 +2254,7 @@ tz.co.asoft	symphony-input-core-iosx64	3.0.8		N/A
 tz.co.asoft	symphony-input-core-iosx64	3.0.8	metadata	27df16d57c47adc475357b3766b33c579542861a
 tz.co.asoft	symphony-input-core-iosx64	3.0.9		N/A
 tz.co.asoft	symphony-input-core-iosx64	3.0.9	metadata	6d87ad38c97a0aa3aa6daeaad1bd3f2b6eb39c09
+tz.co.asoft	symphony-input-core-iosx64	3.1.1	metadata	0150d02d7371a6e5d539434c7c81bbeb78f24100
+tz.co.asoft	symphony-input-core-iosx64	3.1.11	metadata	32e3b85bdc2019dcaad43be7e63b8696ab2f04c4
+tz.co.asoft	symphony-input-core-iosx64	3.1.12	metadata	58da26f7e8fee27d45b2887e29e260dcb3fab573
 uz.rsteam.coil-3	coil-network-cache-control	3.1.1		c37d532d3cb0cb02df8ddf8fd35e89d2e3bd6564

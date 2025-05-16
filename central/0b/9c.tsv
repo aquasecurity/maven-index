@@ -930,6 +930,7 @@ dev.zio	zio-aws-eks_3	7.31.27.1		1ff93f228c6c77a5f6cf97a45e37755a6bc32213
 dev.zio	zio-aws-eks_3	7.31.28.1		9747be2b6a1ba0b80dbe9f44431927c494970648
 dev.zio	zio-aws-eks_3	7.31.3.1		c4de9bd7b33e8b8bcbfac3bf908d58b6a6c55152
 dev.zio	zio-aws-eks_3	7.31.30.1		1d96a708f97df82138132a4a7462d5ed44a25c5e
+dev.zio	zio-aws-eks_3	7.31.30.2		7cbd6128472690bd970aada04e54a0dc914c2ec2
 dev.zio	zio-aws-eks_3	7.31.4.1		6190cd36a3f068dfc04d355e380074597567f108
 dev.zio	zio-aws-eks_3	7.31.6.1		c74aed8756df9102ede42e499cf03e3f4858ff1f
 dev.zio	zio-aws-eks_3	7.31.6.2		7e3f962b962073e19d80d2da7c961e0401145ea8
@@ -943,6 +944,7 @@ io.camunda.connector	uniquet	8.6.0-alpha5		1d3f04f74bc30388094a944ab0e6e14097ade
 io.camunda.connector	uniquet	8.6.1		d35ecc4c6b25fe94b9272190c40d79a641d5f71f
 io.camunda.connector	uniquet	8.6.10		ae41b68b1997d0b56592c010d40c601407a1cee7
 io.camunda.connector	uniquet	8.6.11		333c21487859a3fe6509065859df9fb284119d99
+io.camunda.connector	uniquet	8.6.12		abf93e3288188ebf3f1fa90e4a4e24fd7298c092
 io.camunda.connector	uniquet	8.6.2		e9619b169b51bc308f10ff739fe140ef56f42d3d
 io.camunda.connector	uniquet	8.6.5		d9d2986a9ab1f1108f140dc236a7bd7dbbcc0e21
 io.camunda.connector	uniquet	8.6.6		75a7deb54a0de997cbc1d47895c758d101a48b75
@@ -954,8 +956,12 @@ io.camunda.connector	uniquet	8.7.0-alpha3.1		c7addd1217dcd401a33b332ca7cde314f57
 io.camunda.connector	uniquet	8.7.0-alpha3.2		331232e1b95ca06a19231cb3f646bb1b03eecdb4
 io.camunda.connector	uniquet	8.7.0-alpha3.3		10d2e309efb5ee908f560ca8b5fa5352bad2ae85
 io.camunda.connector	uniquet	8.7.0-alpha4		21dd965e721335177f28719e43c16e3a8e7211bd
+io.camunda.connector	uniquet	8.7.1		7d85e8634c7d4ff6ea509e6dc4c3a6a2a44d570b
+io.camunda.connector	uniquet	8.7.2		e7c3e693980b3acc183aec982a9091a3566615fc
 io.camunda.connector	uniquet	8.8.0-alpha3		6efb795867a75d04c57db6530fbafb5d251ad9f1
 io.camunda.connector	uniquet	8.8.0-alpha3.1		13c638107ee229843c08d693dc3d9afa6c60fb76
+io.camunda.connector	uniquet	8.8.0-alpha4		b91bb3ed961a7606172ae20d1681e9ff17fb8b14
+io.camunda.connector	uniquet	8.8.0-alpha4.1		f67c59e8910a707c624036ca793c7e09f963cce9
 io.ciera	runtime-api	3.0.0-beta1		500b4a598812038572f7b8d876f02535a9ceef2f
 io.eqoty.kryptools	bech32-androidnativearm64	0.5.0		N/A
 io.eqoty.kryptools	bech32-androidnativearm64	0.6.1		N/A
@@ -1031,6 +1037,7 @@ io.github.imrobin	starter-undertow	3.0.1		91bb9675b335cf87bc4d44fb9bd30b8eb60142
 io.github.imrobin	starter-undertow	3.0.2		88b9190c9c4b72fa59ff711ebab2b407e4061712
 io.github.imrobin	starter-undertow	3.0.3		7272e777e7f98f5b22e1242174e941a6381194b0
 io.github.imrobin	starter-undertow	3.0.5		1c6b5b43349a0a82e9e846897312468840616998
+io.github.imrobin	starter-undertow	3.0.6		71a6767bcbc361a6d1dbdfa06d744e463910497b
 io.github.jiashunx	masker-rest	1.0.0		N/A
 io.github.jiashunx	masker-rest	1.1.0		N/A
 io.github.jiashunx	masker-rest	1.1.1		N/A
@@ -1346,6 +1353,7 @@ org.apache.camel	camel-google-secret-manager	4.8.3		763406a25a41e64da32cd95ed0b6
 org.apache.camel	camel-google-secret-manager	4.8.4		abba4aab300d0455fd5d8339b3fdb740984b6331
 org.apache.camel	camel-google-secret-manager	4.8.5		b806829df07936597c10158ad0d4b7cdfdd76783
 org.apache.camel	camel-google-secret-manager	4.8.6		d057c9c3aac80b1ab2d68bdb8597e00ba4c283a1
+org.apache.camel	camel-google-secret-manager	4.8.7		8668ab5ca157ffabe4c19a0a8c313c0886cc1710
 org.apache.camel	camel-google-secret-manager	4.9.0		4c3091b6630f2baf962c5abc4dfc9ea37c5da25a
 org.apache.nifi	nifi-asana-processors-nar	1.20.0		N/A
 org.apache.nifi	nifi-asana-processors-nar	1.21.0		N/A
@@ -1845,7 +1853,9 @@ org.wildfly.core	wildfly-core-testsuite-unstable-api-annotation-feature-pack-sub
 org.wildfly.core	wildfly-core-testsuite-unstable-api-annotation-feature-pack-subsystem	28.0.0.Beta5		b1666cfe9e86233f4dda79c190efe6fb9285979a
 org.wildfly.core	wildfly-core-testsuite-unstable-api-annotation-feature-pack-subsystem	28.0.0.Beta6		e4639da872f33b85f1896f40a206c095e18c24ed
 org.wildfly.core	wildfly-core-testsuite-unstable-api-annotation-feature-pack-subsystem	28.0.0.Final		96e1140b2eebc50dffc28487a56c6ba5a238e82e
+org.wildfly.core	wildfly-core-testsuite-unstable-api-annotation-feature-pack-subsystem	28.0.1.Final		472f2f7374a2b941694cf97f5c5152feb18d83e3
 org.wildfly.core	wildfly-core-testsuite-unstable-api-annotation-feature-pack-subsystem	29.0.0.Beta1		987c707fb9df482a4808e7f36c3636d0fc1c8a58
+org.wildfly.core	wildfly-core-testsuite-unstable-api-annotation-feature-pack-subsystem	29.0.0.Beta2		54a89e859a70fecc80441495071e12364ee36025
 ru.tinkoff	tofu-zio-logging_2.12	0.5.7.1		0fb516e7fbe204ce96f55427a2fc77407e81487b
 ru.tinkoff	tofu-zio-logging_2.12	0.5.7.2		3399957cc7b5e54e460d195dcedb450f39e020e5
 ru.tinkoff	tofu-zio-logging_2.12	0.6.0		059e12ea63ab9691790ebd8d8ddd16d80bb0f077

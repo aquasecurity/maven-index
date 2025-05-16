@@ -137,6 +137,7 @@ com.disneystreaming	weaver-specs2_2.12	0.7.7		5ea412b63975bd2db1150396a6cee08511
 com.disneystreaming	weaver-specs2_2.12	0.7.8		6b571b6cace57042bc7ac7179ff8f322fdf1c5a0
 com.disneystreaming	weaver-specs2_2.12	0.7.9		ccddd207d5cc957b3178e110ee1a06968c8f5da6
 com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.0-1-19acfb2		3bbc1abd2485340bbdbbd6250839378a14c18631
+com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.0-1-26737b4		1fe4e4de1a17c908b64034e42ecb17d8ab33cab2
 com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.0-1-5a26ba3		c62190deaf2ae961a7f73998ff1f4fcc754c870b
 com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.0-1-8d943ab		10937060339ea906be2da1e7b94a918b5d80cba3
 com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.0-1-b0aa866		1f107b42b09d811bd0689a6798d8fce8616f1520
@@ -191,6 +192,7 @@ com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.31		f034d607438931
 com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.32		0532c0a5b151cd2474eaa9f0f4cdc1a9b968d8ca
 com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.33		a458136adb2496b7a92d0054b6947ef500ee6edd
 com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.34		80935dc4cb995e9483cad963ea727e277665a42f
+com.disneystreaming.smithy4s	smithy4s-protobuf_sjs1_2.13	0.18.35		e1220f588bbae3ba17873ef43e1d3f25f4a00b8c
 com.github.WangJi92	rpc-exception-spring-boot-start	1.0.0		0157590873247a4941485bbdfba36a110269d612
 com.github.WangJi92	rpc-exception-spring-boot-start	1.0.1		a883270928561714b19cb6c0c58e79b41b37ef6e
 com.github.antdo	antdo-common	0.0.1		a165c3d571c9ddd0a11a49c9af47cc102a6793dd
@@ -654,6 +656,7 @@ io.github.pdvrieze.xmlutil	core-jdk	0.90.2-beta1		8f946d671a05b362228b256085d4ac
 io.github.pdvrieze.xmlutil	core-jdk	0.90.3		6581ee83dc709ee44480ef8428821cd26fc03563
 io.github.pdvrieze.xmlutil	core-jdk	0.91.0		a6daefdd8d1b459374e16141525f7a63431e07d8
 io.github.pdvrieze.xmlutil	core-jdk	0.91.0-RC1		0a626c075bf4912c94cf43a191ed21e34f9fc416
+io.github.pdvrieze.xmlutil	core-jdk	0.91.1		3878bbd5be1b90efbe69660d286f3a2b702e6535
 io.github.qsy7.java.dependencies	p6spy	0.1.0		N/A
 io.github.qsy7.java.dependencies	p6spy	0.1.2		N/A
 io.github.qsy7.java.dependencies	p6spy	0.3.2		N/A
@@ -988,6 +991,7 @@ org.apache.camel	camel-metrics	4.8.3		806eaa7f188b3571ba24c0dd9e534346448cc2c8
 org.apache.camel	camel-metrics	4.8.4		32bb7ad64c7450e39613ea76f0ef5ace8f81fc05
 org.apache.camel	camel-metrics	4.8.5		b316cdaba31bb5c50362f5edbd57dc772b12878d
 org.apache.camel	camel-metrics	4.8.6		5bcba5c540b25b91b1fa6ce7544dd1110de76d8e
+org.apache.camel	camel-metrics	4.8.7		a669e4aa279e5faa1e539f581bec11104b4385bb
 org.apache.camel	camel-metrics	4.9.0		94387dd373320f84b6315f42906b37f5aeb7cf7b
 org.apache.camel.k	camel-k-cron	1.10.0		25b1b9679337087d28cefd48b62c6bb42be2fe96
 org.apache.camel.k	camel-k-cron	1.11.0		e15c1fc8bf0e569484dcbfcd6bb9629eee172f91
@@ -1332,10 +1336,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.7
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.80.0		324040b599a828186c147bb8aa0204ddb8d6f141
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.81.0		241f21e8f1ae58ad53bf92ba28131b84405166ea
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.82.0		d1d734404c8d51399bcbaa5ca4108da9a5576e55
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.82.1		a678bccfc0dd3f2f052c33fe7bd93bdc8d323c3e
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.83.0		598ed20b869151043179e6d9e5d54472e128c6b9
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.83.1		dc3f4ad6377fd1c040226adaa1cb37ef501a365c
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.83.2		1819617ec25e008721fdedf09d8bb3742b657d4e
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.83.3		fe50565236cafb55dde6d2555e58747b26e682af
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.84.0		2396f9c69834d0516d3cdffc8123e9cce85f5baa
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.84.1		663f5807892299c549cc443915d0475f1e077ea3
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.85.0		0459fbdf25ddbcbc8456459d2eae70db7f3ab93d
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.85.1		f436453f4431a498aad3a4e0675154f9a7a6956c
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.85.2		789615fe5d321ae2a87f169d26415d6ac7b06033
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSql-grammar	4.85.3		1500f1f07c20731a83aa10abac286f548f388013
 org.fulib	fulibMockups	0.0.1		ff87a01e9d2c0dab710fc03df84b2f2c230d4dcc
 org.fulib	fulibMockups	0.2.0		954cd0f15401fb85a27fd955b102b5219410ec38
 org.fulib	fulibMockups	0.3.0		ee55d42fdd340c0b9236187216faba1471482d55
@@ -1403,6 +1414,7 @@ org.restcomm.camelgw.examples	http-example	7.1.0-64		N/A
 org.scalanlp	scalanlp-learn_2.9.1	0.4.RC1		f2bf8561601e7e6cee20c2a51b8a81d986377799
 org.springframework.ai	spring-ai-starter-model-postgresml-embedding	1.0.0-M7		9483e8b57b1fd54242071b2975704b418042b697
 org.springframework.ai	spring-ai-starter-model-postgresml-embedding	1.0.0-M8		9429111a553f5fe33a9775771afb82d23149daf6
+org.springframework.ai	spring-ai-starter-model-postgresml-embedding	1.0.0-RC1		f1ea6a8b53ebeefe46b394a06f5eb155bcda123f
 org.webjars.bower	psd	3.1.0		db9d356bc7628ed4cae608a959cbddc74ff8d7ca
 org.webjars.npm	babel-preset-current-node-syntax	1.0.1		948f6e0ed8b501525f0000d31122ea6f4bf39f88
 org.webjars.npm	ckeditor__ckeditor5-page-break	39.0.1		c59b0040db81943e45fd07573f71ef21c3c27d08

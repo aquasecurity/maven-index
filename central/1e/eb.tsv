@@ -54,6 +54,7 @@ com.commercetools	sphere-mongo-core_2.13	0.15.3		e347a85b0a2a9d47382f374222afc05
 com.commercetools	sphere-mongo-core_2.13	0.15.4		b6037d03350d16e268a7be09422900de5205e395
 com.commercetools	sphere-mongo-core_2.13	0.15.5		9672247be12c425ead2de5fa2fa553984ec49dad
 com.commercetools	sphere-mongo-core_2.13	0.15.6		6cd52f7a6e6c988a3b6b9091321e2f0f165ae452
+com.commercetools	sphere-mongo-core_2.13	0.15.7		3732fcc2de35cbd6e7551d66d927715a659a4467
 com.craterdog.bali	java-bali-language-parser	3.0		050b20806196fefe43d7826a2c19557a299e9745
 com.craterdog.bali	java-bali-language-parser	3.1		7650001a856a182f8ef9ff685b12236ed1b6669e
 com.craterdog.bali	java-bali-language-parser	3.2		dd68662643b7a59f47db2846431e5556044e4511
@@ -152,6 +153,7 @@ com.iohao.game	common-validation	21.23		8fe685a976f9d1dc47de79bf2e59f115fee14f33
 com.iohao.game	common-validation	21.24		9feafb80a1cdfe0c80b301477bf37072ac544b43
 com.iohao.game	common-validation	21.25		09cda559a137e1fb1288e7da056dff7236444051
 com.iohao.game	common-validation	21.26		2ea2f8c7ed8a6f8c1dbb19e99698080941f6e390
+com.iohao.game	common-validation	21.27		2a594dbd58839e3bcf2b522261db7210bd79a705
 com.iohao.game	common-validation	21.3		c16fbc1624be8e997680ef1438c062adb9f2d30e
 com.iohao.game	common-validation	21.4		2443cc3bdf08d3f0a5f9ee72b3d6bf094895ff15
 com.iohao.game	common-validation	21.5		ddb50ab50ae383e1d3dbe707ec3f557a00ff3f71
@@ -849,6 +851,7 @@ io.quarkus	quarkus-ide-config	3.15.2		791b59a2484d0155753c1bdfb4d2d1d59b13c155
 io.quarkus	quarkus-ide-config	3.15.3		4eb94cf7195fbab95a561e3e1d625e5e6d185b57
 io.quarkus	quarkus-ide-config	3.15.3.1		85104cd135231233d78510ad17ad44517eeec356
 io.quarkus	quarkus-ide-config	3.15.4		db34cbf53e56c39041d3b6bd8b643961ad889930
+io.quarkus	quarkus-ide-config	3.15.5		738afec35685590097baf174b8e8d1df3b220637
 io.quarkus	quarkus-ide-config	3.16.0		6b3e1a640baa62f5050885e197bf724b90c6aa87
 io.quarkus	quarkus-ide-config	3.16.0.CR1		88fd47791d096789b3f1ce1fec0c008ecae16291
 io.quarkus	quarkus-ide-config	3.16.1		08f88e9b0d2274463f514b868fa6caab6682d8df
@@ -893,6 +896,7 @@ io.quarkus	quarkus-ide-config	3.2.8.Final		09d36fa10a711dde651f991abbd9bde76c5bf
 io.quarkus	quarkus-ide-config	3.2.9.Final		f57cb76f3260d6ce41e1a02423e2370df8e56494
 io.quarkus	quarkus-ide-config	3.20.0		12d5ad590a5502b56413e71310c41448563ac702
 io.quarkus	quarkus-ide-config	3.20.0.CR1		2d9948682f86bcb06f1a525e5bf3646d23b0a3a2
+io.quarkus	quarkus-ide-config	3.20.1		b22c3bc443a5c9ead35f2f09c939ece9ab7e9363
 io.quarkus	quarkus-ide-config	3.21.0		9be7b0ec7be4cb18b92d50cbb05290b3bcf92d57
 io.quarkus	quarkus-ide-config	3.21.0.CR1		d0ff005865553587ea65432ab64c4b939dc5f347
 io.quarkus	quarkus-ide-config	3.21.1		284414ab0f2ab2d08bfcd046dc9780c91890428c
@@ -902,6 +906,9 @@ io.quarkus	quarkus-ide-config	3.21.4		b1cbf743ca1f24484b8e5da65264d1648bbe5154
 io.quarkus	quarkus-ide-config	3.22.0		0e9e5ed20a9a3f25baea1e47b23c61735b1b25c8
 io.quarkus	quarkus-ide-config	3.22.0.CR1		d50e8e9474d4ee4b044ace9d0c0bcea412e9f426
 io.quarkus	quarkus-ide-config	3.22.1		80edfec4c220bbff382466f7a80d14ea0aef1212
+io.quarkus	quarkus-ide-config	3.22.2		5bec8cefd236e9b9ca708bda52028cdb7d4a6c6c
+io.quarkus	quarkus-ide-config	3.22.3		76726f20e5bebcb2745c7eb511ad454110ef73dd
+io.quarkus	quarkus-ide-config	3.23.0.CR1		d306c55be86e661b573de0b5f38e03661b55ef83
 io.quarkus	quarkus-ide-config	3.3.0		c627ea9a5dd67d807267d16074a890879dfa55d3
 io.quarkus	quarkus-ide-config	3.3.0.CR1		96d32a11eef78bc22ea8f7536385aa70e3178c6d
 io.quarkus	quarkus-ide-config	3.3.1		f8272fa2bb109218113f8dc638ec8c998dc8ef27
@@ -1113,6 +1120,7 @@ io.toolisticon.aptk	aptk-example-usecase	0.28.0		79900fbb801b0820146c29abda62094
 io.toolisticon.aptk	aptk-example-usecase	0.29.0		d1df700727fdd0e1f3f1385c6e296c9b3d28f610
 io.toolisticon.aptk	aptk-example-usecase	0.30.0		f9ac2b40565b8d5265457fc9a368d70d8935253a
 io.toolisticon.aptk	aptk-example-usecase	0.30.1		7b0386d802651221e8ba657243c9a6122bd622e6
+io.toolisticon.aptk	aptk-example-usecase	0.30.2		6fbef2abba132788e9488cc3d404e5522a843a45
 jp.co.bizreach	play2-handlebars_2.11	0.1.0		f9f3524307acdc9ad49c88bf701790ffefd15aeb
 jp.co.bizreach	play2-handlebars_2.11	0.2.0		d703ac3302981b1b5a9ad64299266e9a6d41a460
 jp.co.bizreach	play2-handlebars_2.11	0.3.0		2a72c4edd491de67a1399bb6d083a58562ce1c06

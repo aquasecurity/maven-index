@@ -389,6 +389,19 @@ io.delta	delta-storage	3.3.1		ca56b6a35e618c739abd37656b6ba1086c1bda83
 io.delta	delta-storage	4.0.0rc1		b6f38a7fb0674c1fd2758767282a3bb81d9d97b7
 io.edurt.datacap.client	datacap-client-cli	1.4.0		627af762759d15fd10c51cf17075324406034752
 io.edurt.datacap.client	datacap-client-cli	1.5.0		43fc08c9920a14f47ac237ae159a939f674a0307
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.12.0		2c281813bfd3702526fd5338b119adda6d92116e
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.0		b38a1ec96cdaf62d904cbf58d440cf464644f17f
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.1		bf1be9111f40f40cd0e85232e1135331ffbc6bb0
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.2		6284cfcba776cc8cb45bd6284cd946a00d2462f4
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.3		dc9728765a13791d7255756d9b8f60f7addc7b9a
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.4		7fea30a1150818da18f0d0b6caffbb2909956895
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.5		0b47828fbab6e5029192fe9968ab5aded3d02bec
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.6		f3b98c2daca9d443487dbbafa824af13c1a31a26
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.13.7		391bc55f41805a0efb8177947900a92289848d5f
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.14.0		cf7395da636180e378e7a674cdbb3ace24946038
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.14.1		14c7fbff0fed34e438ed952b5508f1492a5a6a67
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.15.0		79a8a0c93f50b6148be7463584936de805b94aa4
+io.frees	sbt-frees-rpc-idlgen_2.12_1.0	0.15.1		ac992b28b20c5fc90c69c54342e412fb813b5019
 io.github.azagniotov	stubby4j	4.0.0		95106971ff9c3c3b2862848ff6cd96e9a08e0627
 io.github.azagniotov	stubby4j	4.0.0	no-dependencies	f1462cc1f109a1bca9f43a4366d9d7084229a52d
 io.github.azagniotov	stubby4j	4.0.1		ef98032beeb0977641c5892bda86d2207ba8ba88
@@ -652,6 +665,8 @@ io.kroxylicious	kroxylicious-app	0.10.0		9854c930ca58116578034d9442ce62402057d9c
 io.kroxylicious	kroxylicious-app	0.10.0	jar-with-dependencies	f0664835a73de661e973c16f701a7d4c9ca7fc57
 io.kroxylicious	kroxylicious-app	0.11.0		a6d91cae96c091a306c244961685556de6c27cbe
 io.kroxylicious	kroxylicious-app	0.11.0	jar-with-dependencies	cfa8d5ad0dc1287957b76cb7b0a1c14040b53688
+io.kroxylicious	kroxylicious-app	0.12.0		66a816bd9db8b68e06f4602a60b7ee7e176b60c5
+io.kroxylicious	kroxylicious-app	0.12.0	jar-with-dependencies	98ed15f8cbc3ce9de9ad71989cb346fe842278a3
 io.kroxylicious	kroxylicious-app	0.3.0		0758835eb062f3dc42666320877e35e59c9a5adb
 io.kroxylicious	kroxylicious-app	0.4.0		012e274a40dde15f1f58b03d36074b17f225cdd9
 io.kroxylicious	kroxylicious-app	0.4.1		139d055474dec992d18b59e711a6f174f60f296f
@@ -943,6 +958,7 @@ org.apache.camel.springboot	camel-netty-starter	4.8.3		4f5b9be190582986e391dd518
 org.apache.camel.springboot	camel-netty-starter	4.8.4		7028536212f3a16e10e25461678d023bc08286b8
 org.apache.camel.springboot	camel-netty-starter	4.8.5		0b2f0a93039cb1aa8bef7484db49ee41ee92caf7
 org.apache.camel.springboot	camel-netty-starter	4.8.6		3e2f1b79ee67f1fddaac4129214aaeaafa04d8ea
+org.apache.camel.springboot	camel-netty-starter	4.8.7		fa6337d3aefea5cf11718ad38a2b50e875825a60
 org.apache.camel.springboot	camel-netty-starter	4.9.0		8e0d6d08c07510b4dbe9c991e92e9106c128e823
 org.apache.causeway.extensions	causeway-extensions-secman-integration	2.0.0		9a49a6945aafe1433b40cabd62a53da44d701239
 org.apache.causeway.extensions	causeway-extensions-secman-integration	2.0.0-RC1		b42663d0aeb93820bf273432cc49a47e81c59aaf
@@ -1259,6 +1275,7 @@ software.amazon.app.platform	scope-public-linuxarm64	0.0.1		N/A
 tools.jackson.core	jackson-databind	3.0.0-rc1		997fdfcd5b8552e0693bb2f59860ad89380bc692
 tools.jackson.core	jackson-databind	3.0.0-rc2		1cfa03227c12b6573e57a46734598e0b430789af
 tools.jackson.core	jackson-databind	3.0.0-rc3		a7f3039193fd6b023d3e86e3809d12151ce5681a
+tools.jackson.core	jackson-databind	3.0.0-rc4		a0b1930f0822d4c354d1ec2d8b4173d43714da5c
 tz.co.asoft	kiota-url-tvosarm64	3.0.1		N/A
 tz.co.asoft	kiota-url-tvosarm64	3.0.1	metadata	f93f03868f783253ad492948d6f49af2da169019
 tz.co.asoft	kiota-url-tvosarm64	3.0.11		N/A
@@ -1287,3 +1304,5 @@ tz.co.asoft	kiota-url-tvosarm64	3.0.8		N/A
 tz.co.asoft	kiota-url-tvosarm64	3.0.8	metadata	46d18b7f69eabff7e95629aefd3a4c27a7dcd191
 tz.co.asoft	kiota-url-tvosarm64	3.0.9		N/A
 tz.co.asoft	kiota-url-tvosarm64	3.0.9	metadata	30d916b2c53bf496025bc9cc2f93712b85e01b2f
+tz.co.asoft	kiota-url-tvosarm64	3.1.11	metadata	042426df6f79decb8b649f2f07401e3f53b4b7c6
+tz.co.asoft	kiota-url-tvosarm64	3.1.12	metadata	77ffccba813993736742a8b9a3326db7a0c91520

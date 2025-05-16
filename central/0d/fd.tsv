@@ -184,6 +184,7 @@ io.github.pdvrieze.xmlutil	core-compat-tvossimulatorarm64	0.91.0		N/A
 io.github.pdvrieze.xmlutil	core-compat-tvossimulatorarm64	0.91.0	metadata	b1f509f01a73aaf17e2976468538f6b0887b66da
 io.github.pdvrieze.xmlutil	core-compat-tvossimulatorarm64	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	core-compat-tvossimulatorarm64	0.91.0-RC1	metadata	f8aad4e9ac9422576405fc4102c448c76f9c8cd9
+io.github.pdvrieze.xmlutil	core-compat-tvossimulatorarm64	0.91.1	metadata	df5c702439219e13ebd16b4eee6398bd1459c134
 io.github.zhtmf	bytes-util	1.1.1		57e2bc00ad6a992538a1d73f88ea74b50fa509ec
 io.github.zhtmf	bytes-util	1.1.2		ceea9ae94178d61d175fac1ff1620081c8334eac
 io.github.zhtmf	bytes-util	1.1.3		bd8d28c6528ff731fca84b722134d936bb440363
@@ -622,6 +623,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.2.1		e0d0d3a00
 org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.2.2		0d06ad374221d817229b557900e2229d915a997d
 org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.2.3		13be1111c809749232df6c53765f087276b546c5
 org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.20.0		a5ed29edd956f05a2ba99a1551cc5f871a9ac8c7
+org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.20.1		7aa15c92397bc871ce7c9067034065901d2671e4
 org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.22.0		e731eea1a41e9a8bd4ac9ead7d424fd939282c5d
 org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.4.0		d2db050c567ba13b83d2f2dba06507d7851e9d97
 org.apache.camel.quarkus	camel-quarkus-integration-test-weather	3.5.0		8baaab24e2232ffac7610ebe5301f15e6e6cce3a
@@ -639,6 +641,7 @@ org.apache.fulcrum	fulcrum-crypto	1.0.8		64a0e4bce6ac9d39fdc11f50599cf8f3f302c00
 org.apache.paimon	paimon-spark-ut	1.0.0		9678fc91f0ff86838b65f26127d0f2647d942b51
 org.apache.paimon	paimon-spark-ut	1.0.1		e13acf185fd9efe9190be9ca31baac04cf65f82c
 org.apache.paimon	paimon-spark-ut	1.1.0		46b8068a296d63debb27c8fc87df6ed8710f7b5d
+org.apache.paimon	paimon-spark-ut	1.1.1		9ae6cd0f28a54898bfc8d1fdf535fe54eb121223
 org.apache.seata	seata-rm	2.1.0		0fd903c3177da346f5bd0fd814aba583461db61e
 org.apache.seata	seata-rm	2.2.0		d93e964b3dbbf13b2ed986701e7511c6a977e225
 org.apache.seata	seata-rm	2.3.0		87e23d87e85b8185f3223323c046d1ff068811ed
@@ -681,6 +684,9 @@ org.daisy.pipeline.modules	dtbook-to-odt	2.1.12	xprocdoc	7b5ff63dfb5a2926c5ee3cd
 org.daisy.pipeline.modules	dtbook-to-odt	2.1.13		e9342aa0f0a6cfa4514628aef28d6cbb68d71862
 org.daisy.pipeline.modules	dtbook-to-odt	2.1.13	doc	432065d25015a455984d82c0a69df3cb7a923ec0
 org.daisy.pipeline.modules	dtbook-to-odt	2.1.13	xprocdoc	ee78f7cbb4b8d11a759fb581f043dea74b8d7afc
+org.daisy.pipeline.modules	dtbook-to-odt	2.1.14		cf657fd15bb055c7815ec8c74c19bf483c1b92c2
+org.daisy.pipeline.modules	dtbook-to-odt	2.1.14	doc	d2f6bd6dfa05d113925349e56033df333d8edf22
+org.daisy.pipeline.modules	dtbook-to-odt	2.1.14	xprocdoc	db186faf5ee58152a489a8b7d8abe444d1c440c9
 org.daisy.pipeline.modules	dtbook-to-odt	2.1.2		79d0392b07918d7bf148b322ea2c266584f0973f
 org.daisy.pipeline.modules	dtbook-to-odt	2.1.2	doc	8c59b6c43bf0623175ad2dca399335bdcf6b0735
 org.daisy.pipeline.modules	dtbook-to-odt	2.1.2	xprocdoc	46171ac12be2c76c0cc578c0390e2fd09d70cb50
@@ -850,6 +856,19 @@ org.eclipse.dirigible	dirigible-components-core-spring	11.41.1		dc7a4531e4b1d433
 org.eclipse.dirigible	dirigible-components-core-spring	11.42.0		ef1a93f5de59e5c7dcb3e31c81cb7c455fe9b882
 org.eclipse.dirigible	dirigible-components-core-spring	11.43.0		2a6ab5bd56148b6854738892b246d3761846d13e
 org.eclipse.dirigible	dirigible-components-core-spring	11.44.0		e32299478dc8e0ad990208f7ce96fe7a25cd2f59
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.0		68d37b4713f66bc49a8e588f1e4f967524e90bc7
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.1		810962a82db55d9e0e03996f473c986cdbbd27f7
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.10		0e1e0bc7ed334b73a7d46a15f14256f7255b83e5
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.11		485a65bebfda059dc35905ac66ec1060a194ba81
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.12		a48150824f5f48d0b9e2685c25a99c34768b5407
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.13		573cc09be6ca12467fa8163f6a70c9604f72f172
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.3		f3d9001db2006172f3df0e752f0816b27c119f4e
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.4		7b47c3ad1b3a8cf2512abad85f12acb463cee035
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.5		eb8962619fe19564b7cfc038ace3596cadff794d
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.6		f67b6e330c188daeb3eb1e65758cbac1ff11dbba
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.7		e5ffcf8897ec0b0ed8878068e0fbcf0ba73c046f
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.8		68497478cd2000f9afb37de6aa39d8e5b37739eb
+org.eclipse.dirigible	dirigible-components-core-spring	11.45.9		e5c3757fdd2d6a53e3b7ca215a7c12ab327b4fd9
 org.eclipse.dirigible	dirigible-components-core-spring	11.5.0		627b252a178bdcfe303d20f40e158f4cd2388db3
 org.eclipse.dirigible	dirigible-components-core-spring	11.6.0		fa6771fe580bb04b568f39f3bc24c285e99ac7a0
 org.eclipse.dirigible	dirigible-components-core-spring	11.6.1		697d9acbe16c13bc043793d2081a16ac1e6d9192
@@ -1110,6 +1129,7 @@ org.refcodes	refcodes-p2p-ext-observer	3.3.6		70b9685f4aaeae8d1761daa9d7aed81296
 org.refcodes	refcodes-p2p-ext-observer	3.3.7		6a3efd259f4d1766cb3fafb7fdf9c2323af4eae2
 org.refcodes	refcodes-p2p-ext-observer	3.3.8		839d76d52963b761300faa3406b5aa3e6d139eab
 org.refcodes	refcodes-p2p-ext-observer	3.3.9		1fa9afb10a98b80a6f9525bc4c55d5e8d31042e0
+org.refcodes	refcodes-p2p-ext-observer	3.4.0		3c4dcd46a31f38952aa133ff100c6311e1ae015f
 org.rxjava.apikit	rxjava-apikit-example	1.0.0		83705696a4fe844ca1b012be4012cfe23499313e
 org.sonatype.nexus.assemblies	nexus-system-feature	3.0.0-03		N/A
 org.sonatype.nexus.assemblies	nexus-system-feature	3.0.0-b2016011501		N/A

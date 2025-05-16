@@ -78,6 +78,7 @@ com.github.j5ik2o	reactive-aws-elasticbeanstalk-test_2.11	1.2.1		303e9195eecafb3
 com.github.j5ik2o	reactive-aws-elasticbeanstalk-test_2.11	1.2.3		56cb1921aa52b3994ca4b3606aee8abecb785f5f
 com.github.j5ik2o	reactive-aws-elasticbeanstalk-test_2.11	1.2.6		e14142b4ec501578fc23b28edddf27b365af8a2e
 com.github.jameszbl	console-util	1.0.2		eb6bfa77e3887330fdb774b60cf7f5a73970bda9
+com.github.philcali	sbt-lwjgl-plugin_2.9.2_0.12	3.1.4		99f5f14ac9e40add952452c78092171b54170153
 com.github.skydoves	flow-operators-iossimulatorarm64	0.1.1		N/A
 com.github.skydoves	flow-operators-iossimulatorarm64	0.1.1	metadata	20ab6587a15ee2ffa516313e159b21771186a3de
 com.github.virusdave	zio-stacktracer_2.13	1.0.5b		723c704dc76207e69d2b67176659a665390ffa78
@@ -245,6 +246,7 @@ com.mastfrog	acteur-base	2.9.4		33cd44c629129c65f8967aa3c262160855382359
 com.mastfrog	acteur-base	2.9.5		dfa37bbfba139484f162432c05a80587db33bd0d
 com.mastfrog	acteur-base	2.9.6		fd762171323930a20e11051b21e25a7a22afe065
 com.mastfrog	acteur-base	2.9.7		2ba2964bc60acdd847b6aab8097e615cdcff9db4
+com.microsoft.azure	synapseml-opencv_2.12_1.0	0.9.3		10d0b50a0d35fc5e660a4eaae76b1be2df23490a
 com.netflix.karyon2	karyon-admin-web	2.2.00-ALPHA3		3567d289135626a00b8301917d58c922273f3bb9
 com.netflix.karyon2	karyon-admin-web	2.2.00-ALPHA7		78de73d260af5d7a5f29e2d3ccd2168233dff444
 com.nryanov.feature4s	feature4s-zookeeper_2.13	0.1.0		58f8dda50a14691284e744b26d7fcd8e8f187226
@@ -377,6 +379,8 @@ io.camunda	document-store	8.6.12-rc1		43fd1eb834141d5e88f1c6885a3be75116139b52
 io.camunda	document-store	8.6.13		ee0ae9918564f952a38248a05a0d55655da0e551
 io.camunda	document-store	8.6.14		38bca1ce0584a3e84ae004640227761b2ac88539
 io.camunda	document-store	8.6.14-rc1		b10cdf9cabf0838ee21252a1c262b1bedcfa1dcc
+io.camunda	document-store	8.6.15		a459865eec4b37e868de462a576c78cb7a000a86
+io.camunda	document-store	8.6.15-rc1		9e2f234bc504287a851ccabe14812dd59d999956
 io.camunda	document-store	8.6.2		07a44bb4d85ec38f2f9dd95bbd20b12874156053
 io.camunda	document-store	8.6.3		212f968d83f0cad3fe439d2d910a56a9d4d14635
 io.camunda	document-store	8.6.4		ffd9501463d83d8344d1209e1636fcae6184b1e9
@@ -412,12 +416,15 @@ io.camunda	document-store	8.7.0-alpha5-rc1		c901d7a5af2075e5fdd31be0a262fc74089a
 io.camunda	document-store	8.7.0-rc3		01b1300bba12e60233a52968dbe9baada86259ac
 io.camunda	document-store	8.7.1		f3fd235550845d03fa22f4062c90919034fc6f0a
 io.camunda	document-store	8.7.1-rc1		cc22c452a0380fefb677c0d14982758af0ea0a59
+io.camunda	document-store	8.7.2		0909e84dba45b6d1e0f1ebd998204927570fca66
+io.camunda	document-store	8.7.2-rc1		95982f9e922d7c2be103c37891d4bd277ffe6d7a
 io.camunda	document-store	8.8.0-alpha1		b27da0f02407587abfaadcba10b7f56892382ce0
 io.camunda	document-store	8.8.0-alpha1-rc1		62e83b18ebab130136579880b3f89a8acf9291a8
 io.camunda	document-store	8.8.0-alpha2		528dfda0d8d0663873f660223f9bf1027a0cd2c4
 io.camunda	document-store	8.8.0-alpha2-rc1		89f63f4246b6e5420e5779492609613199c9e08e
 io.camunda	document-store	8.8.0-alpha3		ae1f70496cdc8a7e0f4b1bbb38ee38e112d9652d
 io.camunda	document-store	8.8.0-alpha3-rc3		615902ad8f9e5b546ad4b53646e38b919c6aa3e6
+io.camunda	document-store	8.8.0-alpha4		52a6962109d94c494567778d086faf1edf870001
 io.camunda	document-store	8.8.0-alpha4-rc1		6f68d0127ac69e48a741a585821e22e66d4ee680
 io.fabric8.ipaas.packages	messaging	2.2.103		N/A
 io.fabric8.ipaas.packages	messaging	2.2.104		N/A
@@ -713,6 +720,8 @@ io.github.jan-tennert.supabase	postgrest-kt-watchossimulatorarm64	3.1.3		N/A
 io.github.jan-tennert.supabase	postgrest-kt-watchossimulatorarm64	3.1.3	metadata	9480da91b056c077bb4c00050158a0728e5422b5
 io.github.jan-tennert.supabase	postgrest-kt-watchossimulatorarm64	3.1.4		N/A
 io.github.jan-tennert.supabase	postgrest-kt-watchossimulatorarm64	3.1.4	metadata	f1571e168ee44a4975d22058002da57d82b0b6c0
+io.github.jan-tennert.supabase	postgrest-kt-watchossimulatorarm64	3.2.0-beta-1	metadata	c138d4283f198e52e5cb6bc4617e87b1fb646b09
+io.github.jan-tennert.supabase	postgrest-kt-watchossimulatorarm64	3.2.0-beta-2	metadata	528a0981915462351db5d1202c1ae35ca795f513
 io.github.nethibernate	faketime-maven-plugin	1.1		4461ac2405700795b72e73655a42312234bb00ce
 io.github.nethibernate	faketime-maven-plugin	1.2		453bf5c6e96ad969a6552f449b39dc4c9d0a550c
 io.github.nethibernate	faketime-maven-plugin	1.3		edbc8ac7dcbfd76d421564d1aaf259b28e8ea8f6
@@ -798,6 +807,7 @@ io.ktor	ktor-client-json-linuxx64	3.0.3		29690be6c1cc18547c2fa78a58a0ac8e57ac57e
 io.ktor	ktor-client-json-linuxx64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-client-json-linuxx64	3.1.1		482ab5f3c87fe74b6fe2f74562430124b26ffa8b
 io.ktor	ktor-client-json-linuxx64	3.1.2		b5141a6ca75d01942d9837f14fcbe505968d503f
+io.ktor	ktor-client-json-linuxx64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.monix	minitest_sjs0.6_2.13.0-M4	2.2.0		0952abfb96e26278cac163d529341b6ea22ff410
 io.monix	minitest_sjs0.6_2.13.0-M4	2.2.1		cee2a6fc22f2484c7f930417477ec5d3fbacbb09
 io.ocfl	ocfl-java-parent	2.0.0		N/A
@@ -1209,6 +1219,7 @@ org.apache.camel	camel-syslog	4.8.3		603b05e99a0a330ad9c16f47cd75c44c09978fa7
 org.apache.camel	camel-syslog	4.8.4		e4409c9edec0584765b09ee5244d96ac36690874
 org.apache.camel	camel-syslog	4.8.5		09884cc6470b6d919e985242f1d0acf4a62cc832
 org.apache.camel	camel-syslog	4.8.6		fb969bdeb30ea87296416b846d6bbd8cd76b5043
+org.apache.camel	camel-syslog	4.8.7		c14e14236dea01e7f43aee2c356b0f2facc66d93
 org.apache.camel	camel-syslog	4.9.0		eebc105ca37c5789fda867e48671fe82c08e8b5a
 org.apache.camel.quarkus	camel-quarkus-extensions-support	1.0.0		N/A
 org.apache.camel.quarkus	camel-quarkus-extensions-support	1.0.0-CR2		N/A
@@ -1798,10 +1809,17 @@ org.finos.legend.engine	legend-engine-xt-rosetta	4.8.0		e2bcfd0b687d68ae1d2e0e90
 org.finos.legend.engine	legend-engine-xt-rosetta	4.80.0		a34bd1df4f7d884d7526bd5660d1cbc959c4d2a3
 org.finos.legend.engine	legend-engine-xt-rosetta	4.81.0		477e3b1165e8ebceb104f41cc7738d444e28080d
 org.finos.legend.engine	legend-engine-xt-rosetta	4.82.0		e8bb95a1ec722761673251fdcf7db0d70890aa39
+org.finos.legend.engine	legend-engine-xt-rosetta	4.82.1		0bc2f25ffbe019e99f68cf571ca3fd71e1ebaf2a
 org.finos.legend.engine	legend-engine-xt-rosetta	4.83.0		1878f639c977067b3eb85bcac50a0659ef28d99c
 org.finos.legend.engine	legend-engine-xt-rosetta	4.83.1		84488e4a31e9ee5f5d091e8f0529327d4e1f9704
 org.finos.legend.engine	legend-engine-xt-rosetta	4.83.2		a5c4855fd836e5d32d1be94f9aa0438e66eeb3e5
 org.finos.legend.engine	legend-engine-xt-rosetta	4.83.3		76b81f5697f674c99225f3f4beee93cfe455ff1d
+org.finos.legend.engine	legend-engine-xt-rosetta	4.84.0		9d048bf22839515bb6010516ab5dec4d24431ba3
+org.finos.legend.engine	legend-engine-xt-rosetta	4.84.1		b02f98350baeebf57f88f2e312db8157456bacbb
+org.finos.legend.engine	legend-engine-xt-rosetta	4.85.0		0ccc70c6e4345ceca2b5a9fd4da21be9e8d60890
+org.finos.legend.engine	legend-engine-xt-rosetta	4.85.1		fbfb2dd38100e1d1ab6b402f83290f8a8e8ee57e
+org.finos.legend.engine	legend-engine-xt-rosetta	4.85.2		da33b260a1aa3b4a304e9e6f1d3cf0dc6a966cbf
+org.finos.legend.engine	legend-engine-xt-rosetta	4.85.3		9e1d54bf9957507098441dc7889682ceceeb4112
 org.finos.legend.engine	legend-engine-xt-rosetta	4.9.0		d1bcb41ab390edd4d7c69ae3475a1343060381ea
 org.inurl.shardingsphere	shardingsphere-sql-parser-dialect	4.1.0		N/A
 org.jooq	jooq-scala_3.5	3.20.0		be20ab61f6599152eadad0d5d307a01f4c5d95e6
@@ -2276,6 +2294,7 @@ org.springframework	spring-aspects	6.1.17		2e6c522c3d3d30ff47d214d46c0d1d637b343
 org.springframework	spring-aspects	6.1.18		8af91840116d634af8510249b76b12306431e8e3
 org.springframework	spring-aspects	6.1.19		7bc7d3ac5bc50a119c1a1018740c8d34253eb7f1
 org.springframework	spring-aspects	6.1.2		423247e0be90804888668ea16d7e7f0d9168a7b9
+org.springframework	spring-aspects	6.1.20		f4c77b8ff535b3c0b54df1efc4d09dd75c78315f
 org.springframework	spring-aspects	6.1.3		c8b5dde3568dc5df6109916d8ad4866efe4e61fd
 org.springframework	spring-aspects	6.1.4		2b1b5c0f9f639d0317b9f7c20c07f90b49fee6fb
 org.springframework	spring-aspects	6.1.5		202d9da55e24fec2eda80bbc3cd87fbefc0e1256
@@ -2290,10 +2309,12 @@ org.springframework	spring-aspects	6.2.3		f90a794dd3f81a1addc0552bc091e3f85b2428
 org.springframework	spring-aspects	6.2.4		aa9a5ff470824c1c14dd6137813995a98620404c
 org.springframework	spring-aspects	6.2.5		971b57bb59d4890a3db5f1e20f89effa7df8c149
 org.springframework	spring-aspects	6.2.6		2bb7fe48b4fef28af71be32815200c19ac95f783
+org.springframework	spring-aspects	6.2.7		52461ec85ce1dc6e80fdca92c85bab9faebc0509
 org.springframework	spring-aspects	7.0.0-M1		d80fbd4081768be9e1fc9bae772edb613371a168
 org.springframework	spring-aspects	7.0.0-M2		3044edc9ec99e334a15629454661e9a559afd65a
 org.springframework	spring-aspects	7.0.0-M3		2713d120d321d387c824bcc189311e8520273827
 org.springframework	spring-aspects	7.0.0-M4		615ad2696b195cc28c5e36164a7e02af1177c725
+org.springframework	spring-aspects	7.0.0-M5		6e1b63daa3f9548dad5aa510a716b8f1b9b449a7
 org.springframework.cloud	metrics-collector-kafka-09	1.0.0.RELEASE		25519872aa241c59a5f40729ef9a3df5ae10a178
 org.springframework.cloud	metrics-collector-kafka-09	1.0.0.RELEASE	metadata	d548585c2c94aee3660766f01e4cab0a281aa694
 org.springframework.cloud.stream.app	gemfire-cq-source-rabbit	1.0.2.RELEASE		05cbdacc15628f1377e659d1c4d4ed221f8712cd

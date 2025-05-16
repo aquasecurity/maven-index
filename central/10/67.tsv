@@ -679,6 +679,10 @@ com.github.nijian.jkeel	jkeel-algorithms	0.0.3		N/A
 com.github.nijian.jkeel	jkeel-algorithms	0.0.4		N/A
 com.github.nijian.jkeel	jkeel-algorithms	0.0.5		N/A
 com.github.nijian.jkeel	jkeel-algorithms	0.0.6		N/A
+com.github.seratch	scalikejdbc-mapper-generator_2.10_0.13	1.6.10		7064f58093d263bb7242ab2c9b185aca0cea1f49
+com.github.seratch	scalikejdbc-mapper-generator_2.10_0.13	1.6.11		a591a37805f5a069c87bfc8ff56a392a6d83968d
+com.github.seratch	scalikejdbc-mapper-generator_2.10_0.13	1.6.8		3d87eda6c202aed1dba17b614d51664a1a943496
+com.github.seratch	scalikejdbc-mapper-generator_2.10_0.13	1.6.9		26aea1fbc49e43c855bc3ba328ea924128283766
 com.google.cloud	google-iam-policy-bom	1.10.0		N/A
 com.google.cloud	google-iam-policy-bom	1.11.0		N/A
 com.google.cloud	google-iam-policy-bom	1.12.0		N/A
@@ -1128,6 +1132,7 @@ com.slack.circuit	circuit-retained-watchosarm64	0.27.0		N/A
 com.slack.circuit	circuit-retained-watchosarm64	0.27.0	metadata	48c901821c335a7441b6acfeae5713c175e81419
 com.slack.circuit	circuit-retained-watchosarm64	0.27.1		N/A
 com.slack.circuit	circuit-retained-watchosarm64	0.27.1	metadata	48c901821c335a7441b6acfeae5713c175e81419
+com.slack.circuit	circuit-retained-watchosarm64	0.28.0	metadata	4ca7f40c42c24639b4b247d384d8710bbfe5fdd6
 com.societegenerale	github-crawler-starter	1.0.2		d1bfe5a3bf5262f3341f9621fbe4a07e1af02b19
 com.storm-enroute	reactors-extra_2.11	0.6		ec13abb91c4e0765039f1e259e36e545abbd3209
 com.storm-enroute	reactors-extra_2.11	0.6.1		b1a9c69c51ea4602b8e33b5d1fb6393d7a5a6648
@@ -1359,6 +1364,7 @@ dev.zio	zio-aws-ivschat_3	7.31.27.1		b67ee3dfc78a031eed63b2f8b05d308e73b38666
 dev.zio	zio-aws-ivschat_3	7.31.28.1		fb7eac7807ed1026ac3a0fdb7ad03bf7072a077d
 dev.zio	zio-aws-ivschat_3	7.31.3.1		6b868e2be7fe63b7ca97c8af68329991d7d4981d
 dev.zio	zio-aws-ivschat_3	7.31.30.1		b8ba1a9d903670608ac4ff6429078d7cf42f1380
+dev.zio	zio-aws-ivschat_3	7.31.30.2		01863a0b28ed2eed9c8fabf3785b6d7d14ddf433
 dev.zio	zio-aws-ivschat_3	7.31.4.1		84d2959a5e1a65356417e5b48c6b3bea9ef3d865
 dev.zio	zio-aws-ivschat_3	7.31.6.1		63e2e2bbce5f3cbcf75bb910fb6d9fb712aa6f4a
 dev.zio	zio-aws-ivschat_3	7.31.6.2		2e3a6a77b0999547b553a40e39bb0accc699a03c
@@ -1415,6 +1421,7 @@ io.camunda.connector	connector-feel-wrapper	8.4.13		678420579868d3bf5a3aef1820ac
 io.camunda.connector	connector-feel-wrapper	8.4.15		6b6aebdb1bdf5d1373bb823af1a545a250106c2c
 io.camunda.connector	connector-feel-wrapper	8.4.16		182a815d6a2103b32200add0678fdf2b14c4a590
 io.camunda.connector	connector-feel-wrapper	8.4.18		031bcd1477008a305f6fc03c63dd5e8d38932aa6
+io.camunda.connector	connector-feel-wrapper	8.4.19		c8ad3df0567224d891c86172bba18f28ee35b88d
 io.camunda.connector	connector-feel-wrapper	8.4.2		d0930f08c54a0a9712d40d7de61a949b0ae5b264
 io.camunda.connector	connector-feel-wrapper	8.4.3		bb18630340df984b80dc88aa6886accd8228f60c
 io.camunda.connector	connector-feel-wrapper	8.4.4		bf18b1f3f29fc5eec099f0f8e70ccde925f2759c
@@ -1448,6 +1455,7 @@ io.camunda.connector	connector-feel-wrapper	8.6.0-alpha5		b434b4020e52e18906f2b3
 io.camunda.connector	connector-feel-wrapper	8.6.1		c631131ad155a94cc5d5081678388127749088ac
 io.camunda.connector	connector-feel-wrapper	8.6.10		c3ae7a57fb0b69f432c1d301699a5cbc70a900bc
 io.camunda.connector	connector-feel-wrapper	8.6.11		85a5fd1c59a7671976d857f89e8e7708ce8afbbe
+io.camunda.connector	connector-feel-wrapper	8.6.12		e77f2ce9841fb8659fb9353ec0a186e782e5c461
 io.camunda.connector	connector-feel-wrapper	8.6.2		0258b3462bafa53f4672707d6f8e2161f641af2d
 io.camunda.connector	connector-feel-wrapper	8.6.5		a37d788144fafa64516221ddf86d03bec2eea64f
 io.camunda.connector	connector-feel-wrapper	8.6.6		490112792b0ae0724eae599027e2e16803cbb243
@@ -1459,8 +1467,12 @@ io.camunda.connector	connector-feel-wrapper	8.7.0-alpha3.1		e95e36f590595c55c05e
 io.camunda.connector	connector-feel-wrapper	8.7.0-alpha3.2		6295dc3b98755f03b3a82853672dda753d355926
 io.camunda.connector	connector-feel-wrapper	8.7.0-alpha3.3		7708a4d5ff0b50f56302506c9c12c22e81eecd4d
 io.camunda.connector	connector-feel-wrapper	8.7.0-alpha4		8c365e1a069c919cfc31701ae85a70532b8e4af3
+io.camunda.connector	connector-feel-wrapper	8.7.1		df420536b115a17c08ea17cd18db4fb0b875f220
+io.camunda.connector	connector-feel-wrapper	8.7.2		5c1673a39f4eb1da0d72cc0fce2aad89f745a88b
 io.camunda.connector	connector-feel-wrapper	8.8.0-alpha3		12455476a287d0e2d284440fa7ba9b570a6c9c73
 io.camunda.connector	connector-feel-wrapper	8.8.0-alpha3.1		0cdba32e43ddf97fdb7c45969825e8dd37c4c35e
+io.camunda.connector	connector-feel-wrapper	8.8.0-alpha4		64fad333320e4f391729edb96bb628b6b979dc33
+io.camunda.connector	connector-feel-wrapper	8.8.0-alpha4.1		66e77730617d032ee566f3d6f8fc1d91f91969e1
 io.github.dqohn	p_2.13	1.0.2		9944753677a0e6326e1a7ad1dd0dab848d62a0d7
 io.github.ligasgr.blocks	rdbms-block	0.1		fa5afd7e2bdd2c0a15601e9030d952db2f63ce75
 io.github.ligasgr.blocks	rdbms-block	0.10		2426d422e10421e6ee709b12e45acf8a56b9c5e6
@@ -1517,6 +1529,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-ktor-3.0	2.13
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-ktor-3.0	2.13.3-alpha		8d3c8fb78b4ec338097fbb6b41b6813200e713e1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-ktor-3.0	2.14.0-alpha		aac781344c32bc86bfd4aecf67003c67cfe50ef4
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-ktor-3.0	2.15.0-alpha		427855bf147e4c72102461c28d998a17b2fe3bb8
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-ktor-3.0	2.16.0-alpha		18369c69fbb019b81b8f2c11c440df756eb54135
 io.projectreactor.netty	reactor-netty-http-brave	1.0.0		6419b49384f32de2c490068c1f03816095c18688
 io.projectreactor.netty	reactor-netty-http-brave	1.0.1		a621683366d6549e12884fe3011b67cbc9235e2a
 io.projectreactor.netty	reactor-netty-http-brave	1.0.10		030aebc029ee25f5e0c2d1c0a798b17e926f61b8
@@ -1590,6 +1603,7 @@ io.projectreactor.netty	reactor-netty-http-brave	1.1.27		fbc8bbb812eefdffec7da68
 io.projectreactor.netty	reactor-netty-http-brave	1.1.28		46ee1aee9b372cceecf2c94c2e07a9af1dcdc078
 io.projectreactor.netty	reactor-netty-http-brave	1.1.29		864a6cd6222efbb7c18f39372147a707803c1d1e
 io.projectreactor.netty	reactor-netty-http-brave	1.1.3		70df10452b3ede22b4eb399fe49a2f2a8bf1951c
+io.projectreactor.netty	reactor-netty-http-brave	1.1.30		fd710bfbad2ac4afee0ccef92566b919f6c9c26d
 io.projectreactor.netty	reactor-netty-http-brave	1.1.4		e47df5ca64da46eeb317f1b1cd6595503f0b00e0
 io.projectreactor.netty	reactor-netty-http-brave	1.1.5		2d0ec027beaf179c19003f8f74e497e2bd9c496b
 io.projectreactor.netty	reactor-netty-http-brave	1.1.6		a14b8990daeb312b01cb2790ebd3cf1d22110e59
@@ -1602,8 +1616,10 @@ io.projectreactor.netty	reactor-netty-http-brave	1.2.2		73d3d186408477e4d2ef306a
 io.projectreactor.netty	reactor-netty-http-brave	1.2.3		8960dcd01043d132362868f77144dca804f23b9e
 io.projectreactor.netty	reactor-netty-http-brave	1.2.4		76074fb27d82e0c64425c365f0d665432a69894a
 io.projectreactor.netty	reactor-netty-http-brave	1.2.5		18dbfdd35a09132d09e0ab83078ee7b1912d5b9e
+io.projectreactor.netty	reactor-netty-http-brave	1.2.6		30c93479790de8ce55d6334f8e67cbc754f44d45
 io.projectreactor.netty	reactor-netty-http-brave	1.3.0-M1		56fe599aee2df4018579484304f7d143ee6cc029
 io.projectreactor.netty	reactor-netty-http-brave	1.3.0-M2		420324ddd829e4e69c98335bc21bbce817fa0fd9
+io.projectreactor.netty	reactor-netty-http-brave	1.3.0-M3		0fed751b14ec7c0407b51ba1f9c9255d246e73a1
 io.silverware.demos	gateway-app	1.1		b591a1a44e66a48537a8002c2592af9b886b4842
 io.takari.bpm	bpmnjs-compat	0.7.2		b180838356b95f27b6759b75fc10cf1a13f497cf
 io.takari.bpm	bpmnjs-compat	0.7.3		0e584bedf47cf503cb51b0ce128190f247f28f0d
@@ -1625,6 +1641,7 @@ media.kamel	kamel-decoder-svg-std	1.0.0-beta.7		713c66927282785ffeb55af73c3a5ede
 media.kamel	kamel-decoder-svg-std	1.0.1		40ea20380df9ae3c0b70efa764464b9f1a3d34b2
 media.kamel	kamel-decoder-svg-std	1.0.2		32282dad7f01c64e89eaf6c14b826639b8f4570d
 media.kamel	kamel-decoder-svg-std	1.0.3		32282dad7f01c64e89eaf6c14b826639b8f4570d
+media.kamel	kamel-decoder-svg-std	1.0.5		83ddb22022a08376ad08d33991d2c5b7c6bc51bf
 net.dohaw.corelib	CoreLib	3.0.0		4681d42ad42debc0db448ac60dd675026fbfcc99
 net.dohaw.corelib	CoreLib	3.0.1		d51981fd407b63a76b171e54cca76986d33dfabf
 net.guerlab.smart.license	smart-license-service	1.0.0		54dd14b351d0ae7f67de6b8ba840da989fc8ea49
@@ -1652,6 +1669,7 @@ org.apache.celeborn	celeborn-client-flink-1.14-shaded_2.12	0.5.4		c226a71eb6bb1c
 org.apache.cocoon	cocoon-stx	2.3.0		N/A
 org.apache.fury	fury-format	0.10.0		b690c6cb38fa8bce309c4f1fceb136868330b154
 org.apache.fury	fury-format	0.10.1		03fbcb221b11cc2ac589fc946ee6885730c119d8
+org.apache.fury	fury-format	0.10.2		503b11a47a00d9b36bdb289a434d867cf57e291a
 org.apache.fury	fury-format	0.5.0		25b60f0de5f5bcb2e3bc16a8af7229d942e9177d
 org.apache.fury	fury-format	0.5.1		c6aa0a7df05c6e3d47d73fecb6ca6984eb575b4e
 org.apache.fury	fury-format	0.6.0		958a9529264bb2e4fe189f1637278a7c9486c76d

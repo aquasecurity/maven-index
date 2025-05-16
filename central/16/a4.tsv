@@ -183,6 +183,7 @@ com.daml	bindings-pekko_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		76e71a7
 com.daml	bindings-pekko_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		76e71a771c2ca20c8a4cd979103f410ab930643f
 com.daml	bindings-pekko_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		76e71a771c2ca20c8a4cd979103f410ab930643f
 com.daml	bindings-pekko_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		76e71a771c2ca20c8a4cd979103f410ab930643f
+com.daml	bindings-pekko_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		76e71a771c2ca20c8a4cd979103f410ab930643f
 com.daml	bindings-pekko_2.13	2.8.0		ed1e1a91334db39aa89f451cf0c106b34b6ad9d4
 com.daml	bindings-pekko_2.13	2.8.0-adhoc.20240328.12431.0.v46cdf7dd		ed1e1a91334db39aa89f451cf0c106b34b6ad9d4
 com.daml	bindings-pekko_2.13	2.8.0-adhoc.20240328.12431.0.vf144d058		ed1e1a91334db39aa89f451cf0c106b34b6ad9d4
@@ -478,6 +479,8 @@ com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.61.0		2ec55c91
 com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.62.0		c9e860b552d36b5e08c019378cf720c7500340b0
 com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.63.0		84ebbefe7092bcc5dd209a756b3d7c01e30c508c
 com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.64.0		f2627fe0678004e85d07960823332ead823a7c77
+com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.65.0		7e4d957f964bf28cc49691ba6bea5589693c32c6
+com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.66.0		237fc32ef934a6d0f2b1f13c53ac78a68d34cb7a
 com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.7.0		c7c7caaa49856ceb7045eb1a5b5af07afbdd66a2
 com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.8.0		fbe341a5ebaea78299750ea5f3a269e1a24c48c5
 com.google.api.grpc	proto-google-cloud-network-security-v1beta1	0.9.0		735d83f52edae0b4769451c7aaa183cf4ba40f61
@@ -543,6 +546,7 @@ com.jerolba	carpet-record	0.2.1		e4c69492ea2ca817377101b202c8ab342634559e
 com.jerolba	carpet-record	0.2.2		ee2b1c22a1b0bd5ca4b8343b03a53de25eb913d6
 com.jerolba	carpet-record	0.2.3		cdbb8a1efbceef68d3071c53ea7bd4e68a365169
 com.jerolba	carpet-record	0.3.0		07645b850cd1f59a6a052da3b8ca7218e4c24a1f
+com.jerolba	carpet-record	0.4.0		62c39a71c32227ca85da53a7487bebdb801e7a2c
 com.mohiva	play-silhouette-persistence_2.13	6.1.0		ac2f736064e77f62c8ba83de1f817169b1501976
 com.mohiva	play-silhouette-persistence_2.13	6.1.1		f8fbbc8a76aaa03fcb7830e1d014d048c3bfa8e4
 com.mohiva	play-silhouette-persistence_2.13	7.0.0		352c73c4a1f94fbcebaba432361eb211eb9b8495
@@ -1036,6 +1040,9 @@ io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.10		78405c6769cce
 io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.11		b93f9f397e621d76e7cf3182ee5abdfa51cd9ce5
 io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.12		7229d6f3ad60a359c4d6e3946842b62fe003e1f4
 io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.13		900e398319e9c80e1a524bac60657f0ddd63a65c
+io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.14		2606ea748459a5c19959dafc9fb1873a689ea4db
+io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.15		90550afa89d102071064422ee8e86d6514de6777
+io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.16		da7de9557c53b1712fd69505fc7b301518fcce15
 io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.2		6c4be10cbc68b5f0c2eff57c957a43441b10cfa4
 io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.3		e4b2419ba2217cd7a884325f215c3a3588cf7501
 io.americanexpress.synapse	synapse-archetype-data-postgres	0.4.4		71df85b9e44546e8d6f05e38e2041ba167e3b8cc
@@ -1067,6 +1074,7 @@ io.github.kevincianfarini.monarch	core-macosx64	0.2.2		N/A
 io.github.kevincianfarini.monarch	core-macosx64	0.2.2	metadata	a7aab55fb80216b4c22c087736c7ec8434c39495
 io.github.kevincianfarini.monarch	core-macosx64	0.2.3		N/A
 io.github.kevincianfarini.monarch	core-macosx64	0.2.3	metadata	2bc024a0157d7dd7213ebf35177076d36912ba7d
+io.github.kevincianfarini.monarch	core-macosx64	0.2.4	metadata	310d3493a1f6260ae1bc4db7bba2c612b47f8070
 io.github.luca992.com.alialbaali.kamel	kamel-image-iosx64	0.5-darwin0		N/A
 io.github.luca992.com.alialbaali.kamel	kamel-image-iosx64	0.5-darwin0	metadata	7082c201461628c3fe459bbae9295fee1ede9615
 io.github.luca992.com.alialbaali.kamel	kamel-image-iosx64	0.5-darwinandjs0		N/A
@@ -1367,6 +1375,7 @@ org.apache.flink	flink-cdc-pipeline-connector-mysql	3.1.1		99c8a575cf23aef5ea81c
 org.apache.flink	flink-cdc-pipeline-connector-mysql	3.2.0		f8f151eaeb579afe40eef2ec1ddeb72d076d7b25
 org.apache.flink	flink-cdc-pipeline-connector-mysql	3.2.1		182eea4992edf0967107910b26378213c2a63a0d
 org.apache.flink	flink-cdc-pipeline-connector-mysql	3.3.0		916429e34e7e81044b5e0a15a59b94423de0f995
+org.apache.flink	flink-cdc-pipeline-connector-mysql	3.4.0		2b0ee4898c53b62327c8772f736ffce6e66e7ce4
 org.apache.uima	ruta-eclipse-feature	2.0.1		c5f8f2a92a6989a2e2f118cec9fb671a0443ae5b
 org.apache.uima	ruta-eclipse-feature	2.1.0		46f812e47ca44241c815d37a640feeb21bbf177b
 org.apache.uima	ruta-eclipse-feature	2.2.0		543f56363e744d55ce6941f023a5e5155c268b52
@@ -2436,6 +2445,7 @@ org.teavm	teavm-relocated-libs-hppc	0.10.0		2553b9f4a832d12d74a82f7c23a0d5bec009
 org.teavm	teavm-relocated-libs-hppc	0.10.1		2553b9f4a832d12d74a82f7c23a0d5bec009e854
 org.teavm	teavm-relocated-libs-hppc	0.10.2		2553b9f4a832d12d74a82f7c23a0d5bec009e854
 org.teavm	teavm-relocated-libs-hppc	0.11.0		339eea73a21c436c766f5e5046f89fca4ad07a37
+org.teavm	teavm-relocated-libs-hppc	0.12.0		339eea73a21c436c766f5e5046f89fca4ad07a37
 org.teavm	teavm-relocated-libs-hppc	0.8.0		2553b9f4a832d12d74a82f7c23a0d5bec009e854
 org.teavm	teavm-relocated-libs-hppc	0.8.1		2553b9f4a832d12d74a82f7c23a0d5bec009e854
 org.teavm	teavm-relocated-libs-hppc	0.9.0		2553b9f4a832d12d74a82f7c23a0d5bec009e854

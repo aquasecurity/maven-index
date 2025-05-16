@@ -293,6 +293,8 @@ com.segment.analytics.java	analytics-sample	3.5.0		35b681de754cddd17df8d7df309d5
 com.segment.analytics.java	analytics-sample	3.5.0	jar-with-dependencies	dc22f1ce62b415a1235f60daddb2d138e6c24881
 com.segment.analytics.java	analytics-sample	3.5.1		1402c49100505a1647eb03f4972dc4173a11e6df
 com.segment.analytics.java	analytics-sample	3.5.1	jar-with-dependencies	25c80e70d92e70351398605bbb666297c207e8a6
+com.segment.analytics.java	analytics-sample	3.5.2		dcaeda1a03c5c99dd0b584e1ef9ad3a3ee7115f3
+com.segment.analytics.java	analytics-sample	3.5.2	jar-with-dependencies	34bc7d986afdc669d28197d84ab080c5d7fe1cd3
 com.soywiz	korau-atrac3plus	0.19.1		737137957eee7bad4df9e73d2fd8efa1d3d05e5c
 com.soywiz	korau-atrac3plus	0.3.0		dcfab52af313cb1036cdfba41d45ce715a75a5b3
 com.steelbridgelabs.oss	neo4j-gremlin-bolt	0.0.1		8b526d9b4d17ec3257c24a21bbbc0ab53e06b261
@@ -595,6 +597,25 @@ io.zipkin.gcp	brave-propagation-stackdriver	2.2.5		93b6f6527f11e63c38df3ca547c97
 io.zipkin.gcp	brave-propagation-stackdriver	2.2.6		5b6b71f4859d8ac9abe6553f2bca2089b423aa36
 io.zipkin.gcp	brave-propagation-stackdriver	2.3.0		c0b18e8dc51c600cf97866b7f5f8134fb0b90f25
 me.neavo	boosttoast	0.0.1		N/A
+me.tfeng.play-mods	avro_2.10_0.13	0.5.0		df12c78e6853cbe3804e648004d2120116124786
+me.tfeng.play-mods	avro_2.10_0.13	0.5.1		7e6f15582a17a865a0730c48b13ad19d173f9a0b
+me.tfeng.play-mods	avro_2.10_0.13	0.5.10		0a55ca3a2f3595a84cb048980c0bb06f9264dae1
+me.tfeng.play-mods	avro_2.10_0.13	0.5.11		e6d8d7900a370e77e9ccbd699b03e9cf766dbe49
+me.tfeng.play-mods	avro_2.10_0.13	0.5.12		c7c7ecfc4e3117b28e5b850fe05308ac82e8c66d
+me.tfeng.play-mods	avro_2.10_0.13	0.5.13		fbb64f19560ae64d4208b053bda6b7d87b94f508
+me.tfeng.play-mods	avro_2.10_0.13	0.5.14		40881a8c4f3eae0a684f8101900b1a66c34cc832
+me.tfeng.play-mods	avro_2.10_0.13	0.5.15		8730a47336c27add8e7ca7362ca89d3181e23761
+me.tfeng.play-mods	avro_2.10_0.13	0.5.2		b53d11be29f0ea9c9f47d542606a5d53089c60c9
+me.tfeng.play-mods	avro_2.10_0.13	0.5.3		f346eac66b40502fba177b1a97faf87c55f6d02d
+me.tfeng.play-mods	avro_2.10_0.13	0.5.4		13508a41fa1ff71efde4df6e67be26df99653f57
+me.tfeng.play-mods	avro_2.10_0.13	0.5.5		b3bbc6b14f43c7511f27dfca64faec81e335ca86
+me.tfeng.play-mods	avro_2.10_0.13	0.5.6		f0f41f6e6d208af93a94c386aae2f0f5860aedee
+me.tfeng.play-mods	avro_2.10_0.13	0.5.7		19b88f52654cf4208cd2704609a055b3ccb7a767
+me.tfeng.play-mods	avro_2.10_0.13	0.5.8		00f26db6491631624bdad633db034e338fc50e67
+me.tfeng.play-mods	avro_2.10_0.13	0.5.9		8eca9bcf3f78e27bd0e5f6022b98357ba3c6f93e
+me.tfeng.play-mods	avro_2.10_0.13	0.6.0		afca3621637d7d339c4425bf87bc3106fb85b7e6
+me.tfeng.play-mods	avro_2.10_0.13	0.7.0		1438520d4b99520e3152c724b4456f1ee57fc9fe
+me.tfeng.play-mods	avro_2.10_0.13	0.7.1		9e0a8823f4b763b9d287d510223b22c2cb48b677
 net.exoego	aws-sdk-scalajs-facade-kms_sjs1_2.12	0.29.0-v2.624.0		0035287942332c429cd24d2573d0205a362be685
 net.exoego	aws-sdk-scalajs-facade-kms_sjs1_2.12	0.30.0-v2.715.0		cf652ab603df6ea19659303cef961926b65aab80
 net.exoego	aws-sdk-scalajs-facade-kms_sjs1_2.12	0.31.0-v2.731.0		50806f4c0bf75b5401f9f5008b53bb508b7f3bb7
@@ -677,6 +698,7 @@ org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.2.1		4cec0
 org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.2.2		781e2e0efbd33c9577c3d61d79bd2e145982bec7
 org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.2.3		02ecea8b4d7a8b4db7c1b80ab2d1c07ed49c72a4
 org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.20.0		91ff0a43a2282ec256fb011ed84ed6fb62e9a588
+org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.20.1		343d86d394d91b3a24d51ef5f6adbf5aade59380
 org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.22.0		ad1222483d4aadb12be16819c7d7c132bfece60f
 org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.4.0		3de5e0ee5c154acc56f9a1f10f12fc19af6e98ea
 org.apache.camel.quarkus	camel-quarkus-reactive-executor-deployment	3.5.0		6b5a3c8acddf80ec831a35c99742eeaeb817fcfa

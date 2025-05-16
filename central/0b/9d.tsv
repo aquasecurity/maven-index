@@ -18,6 +18,10 @@ com.cognitect.aws	chime-sdk-identity	848.2.1413.0		5cb0abcc34807427b8ff5870cbf27
 com.cognitect.aws	chime-sdk-identity	871.2.29.35		f8a12617972d01d40db356ba2b912d741e71d1ea
 com.daveanthonythomas.moshipack	moshipack	1.0.0-beta		964383960d9a4007696123d7ea8133cc5c13397e
 com.daveanthonythomas.moshipack	moshipack	1.0.1		74d427c57af7b250031080a65a3b363949618a64
+com.earldouglas	xsbt-web-plugin_2.12_1.0	0.1.0-SNAPSHOT		7f74487e8375f86553fb83b112a8934a94c1d1e9
+com.earldouglas	xsbt-web-plugin_2.12_1.0	4.2.2		0a505efad3b578f060bd8ddbdddd07fe2c732b4c
+com.earldouglas	xsbt-web-plugin_2.12_1.0	4.2.3		46ec3b6fbd8118f8983843083c1c6d65b5c20682
+com.earldouglas	xsbt-web-plugin_2.12_1.0	4.2.4		bb976ff74eb1fbc0e70167253123197774388f02
 com.earldouglas	xsbt-web-plugin_2.12_1.0	4.2.5		59b20871b2b13aad5b902301d0280c57d0c90339
 com.github.eikek	yamusca-macros_sjs1_2.12	0.8.0		5e24a37cefc4caccf5fc0cfd80bfa89c913ce664
 com.github.eikek	yamusca-macros_sjs1_2.12	0.8.1		18cdbe4e51efb9e45d71312e0033f679aff81ec4
@@ -101,6 +105,8 @@ com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.6.0		f9caf5bbb6c88c15aac4e
 com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.60.0		5ad68c62026e9771c5fb4f14de60d4f0c2c74bbd
 com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.61.0		a1539ec7b04d8493e2f6d0a1edf2d1caa53bcb91
 com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.62.0		4f8796e9b47b117f8dc3ada86040680507b409ff
+com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.63.0		207b8cab85fafb53bbf1a239bedc507515f60134
+com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.64.0		47d1d0cf12295ec248507fa55b6610d8f8e6ea6c
 com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.7.0		eb420d5aead2a4b1d233f5d3f62b9ba4de7af648
 com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.8.0		c18a7b02f97e852f626f7cea2bdc90e92abbe037
 com.google.api.grpc	proto-google-cloud-tpu-v2alpha1	2.9.0		8895a4266212e625d1034bdb57d6f4c90ec33f29
@@ -166,6 +172,7 @@ com.mdsol	mauth-authenticator-http4s_2.13	17.0.0		c05be61492a130965260219707b5bd
 com.mdsol	mauth-authenticator-http4s_2.13	17.1.0		ffeddd7317da48f3d4ef99a1a61465353e3fd138
 com.mdsol	mauth-authenticator-http4s_2.13	18.0.0		a1ecf0b678faf32cd2270da749cc97fb76365065
 com.mdsol	mauth-authenticator-http4s_2.13	18.1.0		fe0a43493c9758d6379be54d1dc80ecc32719a9f
+com.mdsol	mauth-authenticator-http4s_2.13	19.0.0		f54afb1d12ee6beb7b0d8d2ca303002082e1cb58
 com.mdsol	mauth-authenticator-http4s_2.13	9.0.0		e9c72a6e95f0ad9defc0d82e3fc1b5022384a06c
 com.moparisthebest.beehive	beehive-netui-bootstrap	1.0.2		fd4d2c15d885802e4e08f7471db8c5b8570d2acd
 com.moparisthebest.beehive	beehive-netui-bootstrap	1.0.3		afca866fc94c6d6d0b90f1f653700a122eab34d6
@@ -942,10 +949,17 @@ org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.8.0		69e9
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.80.0		77bda268bab7cd74828e4207afebba846fdf4e94
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.81.0		8a7ecdfc669216d52b86ecf657ae61f3f2b4a492
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.82.0		8a50e71d37652be3290b85fa8bc76e390749bf25
+org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.82.1		526df299e2cb407e38a4753feff3aa06067c149f
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.83.0		b99e4341e92c617e0887400ecce7d94164a8c36a
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.83.1		b055639916d908f37eef400edc6c1b161eb80fc6
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.83.2		a0d472cb16bf583b35a09e5762e8a6b5ee4ca794
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.83.3		b4518d865101b669fcc851c56c80701a00e3fd4f
+org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.84.0		b4502958c572095f9f3cfd9e84fde3aaf383d912
+org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.84.1		fe1cf1d9981ea76c0c4af6e34266c03806f605d1
+org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.85.0		86abc026d9d04da7c9d7abc11746313391c3f04a
+org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.85.1		69d43a3af02d02b31ee8ede3c26f48a18bdf740c
+org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.85.2		86b04d3b4efa5b86093d213bc9090b95f60b8f77
+org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.85.3		3bc958aaa5189c276f0b9d0c9142aafbee59850d
 org.finos.legend.engine	legend-engine-xt-graphQL-grammar-integration	4.9.0		9491b7e7258b608a2c38f2370734d1a1f032a8af
 org.graalvm.buildtools	utils	0.10.0		a17250f4a7cb3971359fcfdd9f91f30668c1c644
 org.graalvm.buildtools	utils	0.10.1		e9a3e0925ff82626351baf255fd52f1e2d77682c
@@ -1131,6 +1145,7 @@ org.opendaylight.bgpcep	pcep-server-api	0.22.9		d4c5d3bb4ba27e96e6378cdcccdea1aa
 org.opensearch	opensearch-remote-metadata-sdk-aos-client	2.19.0.0		a2edf9058ff49e4765c7d422144af6dac2c627da
 org.opensearch	opensearch-remote-metadata-sdk-aos-client	2.19.1.0		e67db2f92b28c63b6f957eec97e5dad200f2a3cb
 org.opensearch	opensearch-remote-metadata-sdk-aos-client	2.19.2.0		3b2b21806ea10ed870a881987ed8b1e19e7d7294
+org.opensearch	opensearch-remote-metadata-sdk-aos-client	3.0.0.0		312bb2e77bddc9e05bbbd405110ec653848f1abe
 org.opensearch	opensearch-remote-metadata-sdk-aos-client	3.0.0.0-alpha1		311a999c19837b001077529c114ea898026f5df7
 org.opensearch	opensearch-remote-metadata-sdk-aos-client	3.0.0.0-beta1		3243d82a8344c541c084af75458142211f12bf27
 org.opensmarthouse.core.bundles	org.opensmarthouse.core.voice.core	0.10.0		023839d0d6fd131eddb50ec804478fae999348bc
@@ -1303,5 +1318,7 @@ si.inova.kotlinova	retrofit-test	4.0.0-alpha03		1aa1d11004649d531f535818b91d14a9
 si.inova.kotlinova	retrofit-test	4.0.0-alpha04		1aa1d11004649d531f535818b91d14a997e80c06
 si.inova.kotlinova	retrofit-test	4.0.0-alpha05		1aa1d11004649d531f535818b91d14a997e80c06
 software.visionary	cli-bugger	2025.03.28		N/A
+software.visionary	cli-bugger	2025.03.28	software.visionary	5e948b0e87ba2181bee4a6a727b8e4b0540651c6
 software.visionary	cli-bugger	2025.04.22		N/A
+software.visionary	cli-bugger	2025.04.22	software.visionary	0c47d324c7a93894c432fbc90a09c0c7dd7e6b5a
 uk.co.froot.maven.enforcer	digest-enforcer-rules	0.0.1		16a9e04f3fe4bb143c42782d07d5faf65b32106f

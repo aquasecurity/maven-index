@@ -87,6 +87,7 @@ com.facebook.airlift	airbase	98		N/A
 com.facebook.airlift	airbase	99		N/A
 com.gitee.l0km	nanohttpd	2.3.3		65a7ee7b435d5c5fc355cf8fbc14f93eb9ae221b
 com.gitee.l0km	nanohttpd	2.3.4		ecf570b26b7fb7897013c0f8d3b4ca4f4c08ea76
+com.github.binarywang	wx-java-cp-multi-spring-boot-starter	0.0.1-20250512.041921		a2461c55006aa0b40b479068277e0527c45a4ee0
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.5.6.B		b5630bd59cb2ca722190626168d3fef933476ce5
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.5.7.B		6be21b1f8ac290f43c9b5f442eacdfd022fe814d
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.5.8.B		7d060510c9787e9a2bccec52918fe7a3cd678a1a
@@ -102,10 +103,15 @@ com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.6.7.B		f04a031cc9f9
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.6.8.B		282da34d4d1cd5cb26922272adde742d9cad8d8d
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.6.9.B		1c462fc898090946af1fe251f29820c485df5f97
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.0		d61748691b9adbb9ecaec40154f4b6c1072b834a
+com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.0-20250512.042554		09e07aa602505985ff880d71554a6ed7ba1a737c
+com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.0-20250512.122859		30873554e57184292196c1be4ee18681a4d8e27f
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.1.B		4dfcf6cbac5e084f2f78dbda34cf9b2a2220d7e6
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.2.B		b0c6fd927480431ed8c9ad27772e9b05d4940fa3
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.3.B		845417a852ff8f9b594354fbb834802f3556d1af
 com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.4.B		aa851ea461256c21c3c4049eb1c4fa3e836efb91
+com.github.binarywang	wx-java-cp-multi-spring-boot-starter	4.7.5.B		7234ef03cba21f3966183acbc9f4c00fb964749f
+com.github.binarywang	wx-java-cp-multi-spring-boot-starter	tmp-build-20250512.032409		530b1c9f6b5479bd675b281ffbf3379d015ac5d3
+com.github.binarywang	wx-java-cp-multi-spring-boot-starter	v4.7.0-20250512.042306		227bdda007152fcbc41459f202f88bd218f42977
 com.github.brymck	gson-deep-merge	0.9.0		aa128664f8cbd4a6bce33304ffe0a8f218ba4158
 com.github.hazendaz.spotbugs	spotbugs-maven-plugin	3.0.5		15e0c8fb68f8ace35b4ca23929a7d52f17b5526c
 com.github.hazendaz.spotbugs	spotbugs-maven-plugin	3.0.6		3fd04d9aa58304ca75642fdbe1f8ceb7a8488f97
@@ -382,7 +388,11 @@ io.kestra.plugin	plugin-jdbc-clickhouse	0.21.3		732b7eb9b311a573c7cf3b9ca4773f59
 io.kestra.plugin	plugin-jdbc-clickhouse	0.21.4		4d27e405106f2fe243ade2249d7e2b275f91a8f5
 io.kestra.plugin	plugin-jdbc-clickhouse	0.21.5		2a0f723dc86108bafb2c8452e70d2e44babff40b
 io.kestra.plugin	plugin-jdbc-clickhouse	0.21.6		13308ebca6255c3aef30423f7e695f8fba20d3bf
+io.kestra.plugin	plugin-jdbc-clickhouse	0.21.7		6f4a1bf5fe7a8fc4eb88821af6fe98472e93320d
 io.kestra.plugin	plugin-jdbc-clickhouse	0.22.0		0552efc3af39d68e1fd0a68ce1792d4dbd42dff8
+io.kestra.plugin	plugin-jdbc-clickhouse	0.22.1		ee845e7cceb462d2c0423e63e8aa649cd076814b
+io.kestra.plugin	plugin-jdbc-clickhouse	0.22.2		021aaa95fd7e1612ca1ed5101a9c5c65d7d06e3f
+io.kestra.plugin	plugin-jdbc-clickhouse	0.22.3		6c1afa1cb45d832631b6549798a9bfd21e3831e6
 io.kestra.plugin	plugin-jdbc-clickhouse	0.3.0		a6203a2c799c187cd391ee1c7f260ad2f41c8ef1
 io.kestra.plugin	plugin-jdbc-clickhouse	0.3.1		0e7be3c037ce49094f6bc10764530e9b831cf63c
 io.kestra.plugin	plugin-jdbc-clickhouse	0.3.2		b1784af1ac8136ebaa330bb6022a67fe81d77e27
@@ -452,6 +462,7 @@ io.swagger.core.v3	swagger-jaxrs2	2.2.28		8781df61a12bcd83f5af40dafcd4acc8450f68
 io.swagger.core.v3	swagger-jaxrs2	2.2.29		6577e6dd205fff622847119c030cf0ac8aa3fb0e
 io.swagger.core.v3	swagger-jaxrs2	2.2.3		5b97b18354fac6f20e6ca4c63457954bc3c548dc
 io.swagger.core.v3	swagger-jaxrs2	2.2.30		414351dc3cc401605dbd70bddfdef1560202dfb4
+io.swagger.core.v3	swagger-jaxrs2	2.2.31		4d358a462c308e184ad69e324e042db1cb7cf1bb
 io.swagger.core.v3	swagger-jaxrs2	2.2.4		9830b162947b7af7c4d71d4b4ff57f846068cd00
 io.swagger.core.v3	swagger-jaxrs2	2.2.5		f7c50a87703007be0b077c80f45e7a9bfdb63246
 io.swagger.core.v3	swagger-jaxrs2	2.2.6		bb1aaa37039d02e237353eaedd0c622e5b59a64b
@@ -586,6 +597,7 @@ org.apache.camel	camel-yaml-io	4.8.3		cc86f26c4025c0c03173cb3c6dc136fbb3a6c23c
 org.apache.camel	camel-yaml-io	4.8.4		9d52a55cda60ed2c226bb3c69bbfd51deee6d030
 org.apache.camel	camel-yaml-io	4.8.5		14adfa3d6c3e59dc2a4733b919637b1cd49609c7
 org.apache.camel	camel-yaml-io	4.8.6		754f193724d7be3e30ebc061d3f8552a59c3d30c
+org.apache.camel	camel-yaml-io	4.8.7		751c410d06a7f4f5de96adb283ede2384ab0f0b1
 org.apache.camel	camel-yaml-io	4.9.0		132d60cdb20831e7195d6fec1682990ffba9d8a4
 org.apache.dolphinscheduler	dolphinscheduler-aws-authentication	3.3.0-alpha		8525c04801bb9bd3ea5f55547c0a1925a7bc645d
 org.apache.edgent.android	edgent-apps-iot	1.2.0		5fd6ca1f6df8cf82b72af7e6bb4e41312f196b5e
@@ -627,6 +639,7 @@ org.apache.xmlgraphics	batik-xml	1.15		0f5eee765063cb3e0baeaff6f423e1c667cf6332
 org.apache.xmlgraphics	batik-xml	1.16		3055a9f0b0ee5b327c35c62749189b1c4683bc56
 org.apache.xmlgraphics	batik-xml	1.17		15a0b4ba6260f3430632e4b1dad95383196107a8
 org.apache.xmlgraphics	batik-xml	1.18		36dea570b200621e19150c8fdf21a9a426ef0d22
+org.apache.xmlgraphics	batik-xml	1.19		bf37203619e48844d4d25e336b745501b50cbd76
 org.apache.xmlgraphics	batik-xml	1.6.1		4ce85a78b02b1836e394017294082efcdecdbe88
 org.apache.xmlgraphics	batik-xml	1.7		17e3da8bd9d4a131350a7835f5cc0d93ba199c89
 org.apache.xmlgraphics	batik-xml	1.8		9bf0ee759fed1e3a2e4ad41819eac69ff4873732
@@ -675,6 +688,16 @@ org.elasticsoftwarefoundation.elasticactors	messaging-activemq	7.2.2		024a8ea2d2
 org.elasticsoftwarefoundation.elasticactors	messaging-activemq	7.3.0		3f8fbc4f0ed9a5c391e519a73d622182250a07ea
 org.elasticsoftwarefoundation.elasticactors	messaging-activemq	7.3.1		3d2d68537cd05c6bc97de56656308d972cf6a394
 org.elasticsoftwarefoundation.elasticactors	messaging-activemq	7.4.3		0770266586b164b0c8985073c5f7059c8c6844c2
+org.hammerlab.sbt	github_2.12_1.0	1.0.0-M1		fc1124680c6f71ef82da96d1189d0e0bdcfbedfd
+org.hammerlab.sbt	github_2.12_1.0	1.0.0-M2		c7b9c361f810df310f51eacb172a3b495cc4450c
+org.hammerlab.sbt	github_2.12_1.0	1.0.0-M3		86edd1743949713f19ef0a4cbd328505796684f2
+org.hammerlab.sbt	github_2.12_1.0	1.0.0-M4		eb1ed7a8663e575a90dab3a0573003f40f52a5eb
+org.hammerlab.sbt	github_2.12_1.0	1.0.0-M5		6e267bcef68973a47f4f1d93f379c5548b327127
+org.hammerlab.sbt	github_2.12_1.0	4.0.0		12ab59edcfa3b66f8d902fd7e2879d63539f7bea
+org.hammerlab.sbt	github_2.12_1.0	4.0.0-M1		0c9272a84caf513caa7d90848c0a2856abc80389
+org.hammerlab.sbt	github_2.12_1.0	4.0.1		5780d64c9bc1dab52b3ae1a155339dcf943a5096
+org.hammerlab.sbt	github_2.12_1.0	4.1.0		5c4ec55b09330cc3be718a64f85092edf8d4a88b
+org.hammerlab.sbt	github_2.12_1.0	5.0.0		4abf6143fb1652a31dfa853bbc64eb6a25de6200
 org.j-im	jim	3.0.0.v20200501-RELEASE		N/A
 org.jetbrains.kotlinx	atomicfu-wasm-wasi	0.23.0		N/A
 org.jetbrains.kotlinx	atomicfu-wasm-wasi	0.23.1		N/A
@@ -995,6 +1018,10 @@ tz.co.asoft	raven-outbox-local-iosarm64	3.0.8		N/A
 tz.co.asoft	raven-outbox-local-iosarm64	3.0.8	metadata	7ce817496ef8125476f944fa579301349d0523c0
 tz.co.asoft	raven-outbox-local-iosarm64	3.0.9		N/A
 tz.co.asoft	raven-outbox-local-iosarm64	3.0.9	metadata	f1e3c7319cab96deb78b55b0ae73f75cdced9e19
+tz.co.asoft	raven-outbox-local-iosarm64	3.1.0	metadata	158323006b9edad21efc1939582caeab52feb276
+tz.co.asoft	raven-outbox-local-iosarm64	3.1.1	metadata	f555b3cb96c7dc1d667195612166a7b6b7457ac3
+tz.co.asoft	raven-outbox-local-iosarm64	3.1.11	metadata	26b07701cf483fa90a8f8d34f97be7b6aaf3da53
+tz.co.asoft	raven-outbox-local-iosarm64	3.1.12	metadata	3710a52e54704bfa44badc4ce532a8759b23a5c2
 xyz.kotlinw	kotlinw-util-coroutine-mp-jvm	0.0.3		0dc1b1b7c7be5899ea5886a863a83ae59c2ae03e
 xyz.kotlinw	kotlinw-util-coroutine-mp-jvm	0.0.4		3160239b46c52a1965f534ffc2ab9258f7ba771a
 xyz.kotlinw	kotlinw-util-coroutine-mp-jvm	0.0.6		b16819b283d1bed819c5fa4aaa424cf014361e27

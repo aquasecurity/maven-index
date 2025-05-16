@@ -882,6 +882,7 @@ io.quarkus	quarkus-jacoco	3.15.2		103accd8e7e4bf1f1d05155edf6407094c2ec47d
 io.quarkus	quarkus-jacoco	3.15.3		3f0e2f29f3c6c2bdac42220e2799a0c5fe076e6c
 io.quarkus	quarkus-jacoco	3.15.3.1		3ca73f76866ba4c8bfa1640993dd068df2e6d876
 io.quarkus	quarkus-jacoco	3.15.4		e8a865643c37465841543a51473825d5cd88f10d
+io.quarkus	quarkus-jacoco	3.15.5		19fd6b38acb4bb7c497a8363163dcbf001994f1c
 io.quarkus	quarkus-jacoco	3.16.0		0abab50d19932073826b44a13507f52aa8a47318
 io.quarkus	quarkus-jacoco	3.16.0.CR1		4e07f598e6606be380d19f2d99b645e261631f49
 io.quarkus	quarkus-jacoco	3.16.1		fd32eb84966ad63a5c77cf63a73b6d6252ee04f7
@@ -926,6 +927,7 @@ io.quarkus	quarkus-jacoco	3.2.8.Final		f18f4c569d2bbcfd683b89fa93fb02f1a61ac69a
 io.quarkus	quarkus-jacoco	3.2.9.Final		823783cb750ba6efc0d3c264ce12c8f8098a3bb7
 io.quarkus	quarkus-jacoco	3.20.0		30accf844e654d43b02a5e7cabe40fafacb02ad9
 io.quarkus	quarkus-jacoco	3.20.0.CR1		1e53cb3fc93e3cca0b36a2fa25317461f642ebec
+io.quarkus	quarkus-jacoco	3.20.1		295e7563cab10f95c7935f2582250dc80f4144c4
 io.quarkus	quarkus-jacoco	3.21.0		e103525ef8e9f29783cd932b8cb2474bb23dc968
 io.quarkus	quarkus-jacoco	3.21.0.CR1		4b1f1c9d376d3928216ceb00ed866c7775f80d74
 io.quarkus	quarkus-jacoco	3.21.1		b3ad5c11f5c693afe00f140b46e94cf4808de5fc
@@ -935,6 +937,9 @@ io.quarkus	quarkus-jacoco	3.21.4		32f72193481228a8a9093cbfa841f8adb3c20eb7
 io.quarkus	quarkus-jacoco	3.22.0		b36c39898f8635853e3e955e55b7307163d16ab6
 io.quarkus	quarkus-jacoco	3.22.0.CR1		8b6cd93d1431a42bae8e56134f3e3009b4a996bc
 io.quarkus	quarkus-jacoco	3.22.1		30d45f325fe715015ac6e896481dd5a521b272d3
+io.quarkus	quarkus-jacoco	3.22.2		779a6d3fe00e49208e896e2b64c48cba5a3524e6
+io.quarkus	quarkus-jacoco	3.22.3		aec4d6aca64d6fc77b7c980ec9ad99beda5d129b
+io.quarkus	quarkus-jacoco	3.23.0.CR1		ae1dd4e7de6df87f49b46a715b4a81def00a8f3d
 io.quarkus	quarkus-jacoco	3.3.0		9cb66ee90ceb15b7e53c09f4f02067fc8eb3ddc7
 io.quarkus	quarkus-jacoco	3.3.0.CR1		6d8df8ace36fd75df444e8c229bd64c1ea38b5ef
 io.quarkus	quarkus-jacoco	3.3.1		3b2c910c1088678004e0b96d467ae6f3d19d8690
@@ -1039,6 +1044,7 @@ media.kamel	kamel-fetcher-resources-jvm-jvm	1.0.0-beta.7		3e4092afa9ad59bc874bef
 media.kamel	kamel-fetcher-resources-jvm-jvm	1.0.1		31a9b449a0705a55d8a78475e3839a236403b082
 media.kamel	kamel-fetcher-resources-jvm-jvm	1.0.2		e03ba4289c144ebdcffe235c4e31c6899d491bcc
 media.kamel	kamel-fetcher-resources-jvm-jvm	1.0.3		e03ba4289c144ebdcffe235c4e31c6899d491bcc
+media.kamel	kamel-fetcher-resources-jvm-jvm	1.0.5		a3201ad8dcbb91621991c9913b0320831c89d578
 net.kyori	storm	1.0.0		86f4d2382b9ea9e07d4ec11aabe4eb58adea5675
 net.liftmodules	extras_3.4_2.12	1.1.4		e7e77c9a98a8304335b6fea78805177441f89802
 net.osslabz	xchange-openexchangerates	5.1.2.2		20309855524fe794f57b88fa491c1023fa106095
@@ -1304,6 +1310,19 @@ org.eclipse.dirigible	dirigible-components-ui-service-template	11.41.1		dec45d9f
 org.eclipse.dirigible	dirigible-components-ui-service-template	11.42.0		8bdd5a8d119d278d60e718b8acc263443bba8eed
 org.eclipse.dirigible	dirigible-components-ui-service-template	11.43.0		8d52df7f296204265f03d39ffc1eadf15bc3ad0f
 org.eclipse.dirigible	dirigible-components-ui-service-template	11.44.0		8ee77299e697d2dc40f830fb654049091c338c98
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.0		615bb071ad3f7ed5bc31e9ed57d52d7eccdebe93
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.1		cd9e68a1bf176c47aeaf11557fad299fef267765
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.10		c85704bac22eae0e0d9f91f6cbdcceb3e1e67f1a
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.11		f213cfc27421d260fe0009f863772e50a23e9f39
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.12		710e175bd6f1be7dbc92e43a266da719f6df1b3c
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.13		9c8cdcac6b78d43e72cdfe44ca1dd26969a37799
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.3		99065adc73d715c8c5b9b0020d148c41b046a3b2
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.4		06eca1d2d8785c1e8faba1784a02f546062b57d7
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.5		03697520967f6c087b386a28ab517b9f9d2cd4ac
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.6		048cb2334dc52a8e799aafd98ef222f2ca8d95e7
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.7		709a8e5d31ab484b150c569473bf0093b9fce252
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.8		03557dda334a44adaaab145ae98aed5841cd6d24
+org.eclipse.dirigible	dirigible-components-ui-service-template	11.45.9		eff2067969cdeb9cfa12d1f80e4637b92a11972f
 org.eclipse.dirigible	dirigible-components-ui-service-template	11.5.0		46d987b9e27e9b56f469d488d83d4d01fb01d744
 org.eclipse.dirigible	dirigible-components-ui-service-template	11.6.0		ee9670089069a9d04a22f3907ed1e5d4d2d5b307
 org.eclipse.dirigible	dirigible-components-ui-service-template	11.6.1		5d38fb944b35e0bc86a45b3be134793aa1188fda
@@ -1594,3 +1613,5 @@ top.uhyils.usher	usher-common-rpc-netty	2.1.0.7.usher		36781091cb373c98020341b5b
 tz.co.asoft	bitframe-dao-js	2.0.14		N/A
 tz.co.asoft	klip-system-tvosx64	3.0.15		N/A
 tz.co.asoft	klip-system-tvosx64	3.0.15	metadata	962e2349bed42a78f71a62aff0fe92e59ea24b3d
+tz.co.asoft	klip-system-tvosx64	3.1.1	metadata	f67dcf5114bdf8db4b6249c30e39a2f4c5e8681e
+tz.co.asoft	klip-system-tvosx64	3.1.11	metadata	c63ff7137960f755f205646a1a83b05cc319c9ff

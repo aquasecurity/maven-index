@@ -9,6 +9,8 @@ au.com.integradev.delphi	its	1.13.0		44bb80b7d280e5d2185616c2f6abc0c4182cf35b
 au.com.integradev.delphi	its	1.14.0		ea90c203e3f77b7a9c96bb748d076ab697347bc4
 au.com.integradev.delphi	its	1.14.1		de1dda746465ec8e411ca1d741c0b431fa3f5419
 au.com.integradev.delphi	its	1.15.0		94a4fa8a112373be9793809d969a2f7a32b84f42
+au.com.integradev.delphi	its	1.16.0		0431c6255c2d8f16bd630ac79799035a0316333d
+au.com.integradev.delphi	its	1.17.0		509c5431c17c2a4c129dcd9ef2131f2f1f37f8aa
 au.com.integradev.delphi	its	1.2.0		25ce1eb5b3b1068eefca88faae74c637c3e132f2
 au.com.integradev.delphi	its	1.3.0		45cff7604411b009f303ccfb3b0934446bdb65b3
 au.com.integradev.delphi	its	1.4.0		bf1b5d528278c609d20787c04d714f120316e4cc
@@ -510,7 +512,16 @@ aws.sdk.kotlin	sts	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sts	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sts	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sts	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sts	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sts	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sts	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 be.cylab.mark	core	0.0.10		21ba65f00d2f040d5aca3b98f8d1f54a7f6c4270
 be.cylab.mark	core	0.0.11		7ce1401384a8255661bff327e72f21ffba3444bc
@@ -978,6 +989,8 @@ io.ktor	ktor-websocket-serialization-watchosarm32	3.1.1		9efc9c6c3ef6da4775e1592
 io.ktor	ktor-websocket-serialization-watchosarm32	3.1.1	metadata	1088f8eeb502584b8027645f641706a86a283ff1
 io.ktor	ktor-websocket-serialization-watchosarm32	3.1.2		f22d34df8cedce1d674308283698c9d454aa54dc
 io.ktor	ktor-websocket-serialization-watchosarm32	3.1.2	metadata	ef66df195e4992d6d32a2ac597f3617973cbbf3b
+io.ktor	ktor-websocket-serialization-watchosarm32	3.1.3		8883a19eac52477e19e84fc4657340aa2f62fd1a
+io.ktor	ktor-websocket-serialization-watchosarm32	3.1.3	metadata	a314006a87bcdfb35961db0499f6070e712c4593
 io.liftwizard	liftwizard-graphql-scalar-temporal	0.10.0		1e6de5fa5df6f4a10db6f590320cb2030cd6e78f
 io.liftwizard	liftwizard-graphql-scalar-temporal	0.11.0		59ef599fdc602d06e81e8facee3e66d318c14d53
 io.liftwizard	liftwizard-graphql-scalar-temporal	0.12.0		0bd10234959a4307a9b0165a7142a203d6d42a9e
@@ -1043,6 +1056,7 @@ io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.28		f1b1a98b4ba0accf68db043
 io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.29		82800ba43ed51ad2bdf84eb6c6d06fead1bf8a89
 io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.3		7f733c1de948761e1d8c4dea912ac78bd1dca595
 io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.30		95248887d7c0b56a6a39cad46a5225352c81c8a2
+io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.31		eb3171fca0bae8fb80264d8d5dfa4ac5cb84481f
 io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.4		7c1def5af4ee04d195d62b7ddd69b883ac3197bc
 io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.5		bbe0d130783e385735aeafe4cc85cafeaba07316
 io.liftwizard	liftwizard-graphql-scalar-temporal	2.1.6		804b4b92386254abf36047bc9e2615c4f9c481fc
@@ -1272,6 +1286,7 @@ io.quarkus	quarkus-bootstrap-maven-resolver	3.15.2		ae01534b19fead346f5220b128b5
 io.quarkus	quarkus-bootstrap-maven-resolver	3.15.3		6ce3508b5bf6551fa37d1a6279a7fc1176b15b63
 io.quarkus	quarkus-bootstrap-maven-resolver	3.15.3.1		89a931597c99aa105a8b6876bb998db2f9dcc289
 io.quarkus	quarkus-bootstrap-maven-resolver	3.15.4		e80330910b1f2426e9998dac90758893b98bd4f5
+io.quarkus	quarkus-bootstrap-maven-resolver	3.15.5		dadc6717595718e909e7465ded47cd0f332cc69e
 io.quarkus	quarkus-bootstrap-maven-resolver	3.16.0		38309bc097e74486465f70be37c55c3d679120ac
 io.quarkus	quarkus-bootstrap-maven-resolver	3.16.0.CR1		1a3b4833f76b8685a81f3783a07b7e767d4e4ca3
 io.quarkus	quarkus-bootstrap-maven-resolver	3.16.1		ec0b1163455e62f265816661a6f2a7d41235a068
@@ -1316,6 +1331,7 @@ io.quarkus	quarkus-bootstrap-maven-resolver	3.2.8.Final		8b4bf242bc32eb0b709ba94
 io.quarkus	quarkus-bootstrap-maven-resolver	3.2.9.Final		7bdc6635c167cca470c1519840c376fb6b250440
 io.quarkus	quarkus-bootstrap-maven-resolver	3.20.0		3cd2b0d3634e0b1d2317d9a4fb8642d72705fe03
 io.quarkus	quarkus-bootstrap-maven-resolver	3.20.0.CR1		db7714683a4df564cccd7a401890620dccd2496a
+io.quarkus	quarkus-bootstrap-maven-resolver	3.20.1		6efdbe9ceab47d1cb2a30a30395ce55250f215d6
 io.quarkus	quarkus-bootstrap-maven-resolver	3.21.0		9b436ac307d5846445af27cbe9c98812df16a8cb
 io.quarkus	quarkus-bootstrap-maven-resolver	3.21.0.CR1		99e403b3bf02cefc756db365792fe61149af97d1
 io.quarkus	quarkus-bootstrap-maven-resolver	3.21.1		32f7f62d74827a111e15cd50bc3e9e0ee1a8c5bb
@@ -1325,6 +1341,9 @@ io.quarkus	quarkus-bootstrap-maven-resolver	3.21.4		0f808c3cc4964ea53d479782e76c
 io.quarkus	quarkus-bootstrap-maven-resolver	3.22.0		05d1f7735752d89ef8141a9b53d72778acf361af
 io.quarkus	quarkus-bootstrap-maven-resolver	3.22.0.CR1		c2aa4786cbe7cfd404f7659b9dd3f2672b3381e5
 io.quarkus	quarkus-bootstrap-maven-resolver	3.22.1		798415f76f031cd528a5dd657803ab9254c5d0d8
+io.quarkus	quarkus-bootstrap-maven-resolver	3.22.2		4cbb65c41e99d9108bcc4c96faaeb5c0c61c04e9
+io.quarkus	quarkus-bootstrap-maven-resolver	3.22.3		c185ae14d19b35df2b34c6fa483a1d94fd92aef3
+io.quarkus	quarkus-bootstrap-maven-resolver	3.23.0.CR1		54c36dd71f1d6254194982fd4781684a2e06f736
 io.quarkus	quarkus-bootstrap-maven-resolver	3.3.0		32c05ad19fa2128a46759c566975b3254b09961b
 io.quarkus	quarkus-bootstrap-maven-resolver	3.3.0.CR1		4124568cbb5a487fced624dd7ad587fe99ffa0f9
 io.quarkus	quarkus-bootstrap-maven-resolver	3.3.1		d2a0ed2aa249e99d7cf58b69e9de5be30c424a3e
@@ -1425,6 +1444,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oaut
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.7.12_1		d5d5bac961eb66fe610d3a29e078f05f57509832
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.7.12_2		e56ed3d17c3442a4a8765d4ed6c5b94dd7f6b009
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.7.12_3		04d29ec54e3cc1801507d16e898f9ab1a59cadb1
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.7.12_4		967f58c2a072c04a3202eb7b3b0615a83b8472d1
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.7.1_1		ab6d72874b97a37beeeb78d99bb3c553ec06efeb
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.7.2_1		bedbea8c93ad463d3416d43dae437feb582452c9
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.7.3_1		3b8b3b2b83fe335b62455b1bbf73fde480f23c9c
@@ -1432,6 +1452,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oaut
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.8.0_1		b55f62a26dd759a15bd1fb3fa20bb7ad7456f660
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.8.14_1		8afd754f71b46694f731da70244cad63be7aa5f2
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.8.15_1		055ea1b31ba908c013198c3bbb4cee02b46bee12
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.8.15_2		cbdbb035e15ca2c1b68a4bf9069ba3879b2334c6
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.8.1_1		8536f14843ba9689a6b1770d2147772a1ee6a802
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.8.4_1		b8615015d6a50606fcc977b5a6bfbf7cea6c6b9a
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	5.8.6_1		3acbc5be994fe01c63e036902edfcd63675f1acb
@@ -1449,13 +1470,17 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oaut
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.1.5_2		da59f95166d84e9a88a6a9e72c7763df06334574
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.1.9_1		bce484e32df69801c429ab62ffa811b31c459ad2
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.1.9_2		02b9e57e9905c2bf48a4c5e0a0501cf01bc39eb2
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.1.9_3		8a644fd26210a3d5be8ecadc8437e88dabbde03d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.2.0_1		ffa2e04fde1b9da145bf7437bc7f54511889b5ea
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.2.1_1		7834171c333c6c58d59cd1747b0f0732b94df252
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.2.4_1		390df23b4b36b1e5220a855f9817f7e22844e5bd
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.2.6_1		6c5f87293c4994c8213626a780935fc556897569
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.2.7_1		17c0906b4ee8ff284196b6339209464393eedd1a
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.2.7_2		6e093a7cf2ba5616122a181e95bc8977fd835195
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.3.3_1		44ef94af8bef7f18a9353662ab666f530ca1c636
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.3.4_1		5ae98ee845bd95a9b2141dbcd42c3f61c0d3fefe
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.3.9_1		54b36717e7b00c466487795a42c177e40d7f14a0
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-client	6.4.5_1		9ff19ad2865ebaa7d2555eea88925567853174c1
 org.apache.shardingsphere	shardingsphere-jdbc-spring-boot-starter-infra	5.0.0		a6e3629885d2fa2633ca8197c1172896b929545b
 org.apache.shardingsphere	shardingsphere-jdbc-spring-boot-starter-infra	5.0.0-alpha		aa24897def5a6f052cd09551c781693a71493465
 org.apache.shardingsphere	shardingsphere-jdbc-spring-boot-starter-infra	5.0.0-beta		da880ede7ac2bc6eb198efb191b9f7a13d13a015

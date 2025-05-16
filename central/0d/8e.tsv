@@ -57,6 +57,8 @@ app.softwork	kotlinx-uuid-core-iosx64	0.1.5	metadata	04b16c71913485251b4747d2bdd
 br.com.ntcavalcante	CNAB240	0.0.1		a72e8500d2b9d6618cfb7a9a61dad04b7ecb5eeb
 br.com.ntcavalcante	CNAB240	0.0.2		b06193d20270786102aa03d79909eb199ef681dd
 br.ufes.inf.labes	jbutler	2.1.2		15b8afd9f51772ecd49fdce0d1820a1c62bacdb0
+cash.atto	commons-worker-test	4.0.0		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+cash.atto	commons-worker-test	4.0.1		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 cn.javaex	htool-picture	1.0.0		6a464bf5c9f8f16ecbcba3f18bb09553b0c7f18c
 cn.javaex	htool-picture	1.0.1		616611ddb24468ba9e1b054e72df2fd72c4fdd40
 cn.javaex	htool-picture	1.1.0		9e11357e18f66b99caead0ed1bdc17e3c241b958
@@ -430,6 +432,7 @@ com.oracle.database.observability	ojdbc8dms	19.23.0.0		471f7ae07a42c46743159d5d3
 com.oracle.database.observability	ojdbc8dms	19.24.0.0		350a696ad3d1abbb69940f907ed0bf854987639f
 com.oracle.database.observability	ojdbc8dms	19.25.0.0		5e01f8ccf49908ab7eba5508da9d80fc66fc4781
 com.oracle.database.observability	ojdbc8dms	19.26.0.0		50b3e293c50481ae5d9d9bb90eccd66a19775e4c
+com.oracle.database.observability	ojdbc8dms	19.27.0.0		cc001ae7165452ff0afc991b0116df96d813f946
 com.oracle.database.observability	ojdbc8dms	19.7.0.0		a04468705dd8c6664fedc320b5742d9e90d9c96e
 com.oracle.database.observability	ojdbc8dms	19.8.0.0		5140d2b3df69226f0f9201cebf2558bb8c597549
 com.oracle.database.observability	ojdbc8dms	19.9.0.0		ad18b7b25af40b17489a72630192a045729b142c
@@ -561,6 +564,8 @@ com.playtika.testcontainers	embedded-mongodb	3.1.0		aaa207b73a9d3f46a6feaec463b1
 com.playtika.testcontainers	embedded-mongodb	3.1.1		5be71196c0a57419c985450054b69418789772b1
 com.playtika.testcontainers	embedded-mongodb	3.1.10		ef3ddfe415accbf883e415bcc1078f2285a23153
 com.playtika.testcontainers	embedded-mongodb	3.1.11		26687b0072cfc0654c3757ef285410ef1369d725
+com.playtika.testcontainers	embedded-mongodb	3.1.12		66559cca6dd6c852d7fd13bf2904fa94ee20afa3
+com.playtika.testcontainers	embedded-mongodb	3.1.13		5044d837092b6e9194fd72c6d9ee693e02caf4f0
 com.playtika.testcontainers	embedded-mongodb	3.1.2		adf51cca65246ff3e86ad8784f8794d0b122d8e7
 com.playtika.testcontainers	embedded-mongodb	3.1.3		4ce03e604783ddbd6d794332153dea391d5212a9
 com.playtika.testcontainers	embedded-mongodb	3.1.4		011941f5ca1d0c64f327ad9a316ae3a4620b0b09
@@ -800,6 +805,7 @@ io.coil-kt.coil3	coil-svg-macosx64	3.0.4		N/A
 io.coil-kt.coil3	coil-svg-macosx64	3.0.4	metadata	abf1c28f21509f8cf107bbae21b002c7aa9de30d
 io.coil-kt.coil3	coil-svg-macosx64	3.1.0		N/A
 io.coil-kt.coil3	coil-svg-macosx64	3.1.0	metadata	b4774c9f1ed64bd69804c45d5351fc19103aea5a
+io.coil-kt.coil3	coil-svg-macosx64	3.2.0	metadata	42a42a522edfe91b3f4d424f9b317610c12375f6
 io.coil-kt.coil3	coil-svg-macosx64	3.2.0-rc01		N/A
 io.coil-kt.coil3	coil-svg-macosx64	3.2.0-rc01	metadata	68146128583ba95abcd9b52e26015cf628642736
 io.coil-kt.coil3	coil-svg-macosx64	3.2.0-rc02		N/A
@@ -859,12 +865,15 @@ io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.6.1		8b7b51463c20d
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.6.2		1458b0d8a5eb3b482661d7d7315cd69703485cb6
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.0		ae6ef8992c60f22269f797f20af5789354548ae9
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.1		9d735a1c4b91f1835ae0d3cac1ccca8b43bad644
+io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.10		427b696c7b0a39d822ab1201a894adeb5b5603e9
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.2		f2ad2f2b8fa9880a2117c8fa850cfe0afd6b5757
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.3		a7b78b55a95e21fe61a965ac69ead642ac80a2e8
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.4		41909a1e1fbf0c0720ca4534014578b520492e77
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.5		21bf4486998d4bf47edea0d8c86b23411fd14b56
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.6		b8b5b7ce7bfda9f10b179bb92fb843dc7eb8c175
 io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.7		89f0cff307c7cd012114864600ca79383497edca
+io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.8		f1e0da7b323aa2cdb1b698cb94c3e7c8771ebb9d
+io.micronaut.sourcegen	micronaut-sourcegen-generator-kotlin	1.7.9		0a51a469e057dc8ef8775dc377cda13e3250e9bb
 io.rsocket.kotlin	ktor-client-rsocket-mingwx64	0.20.0		N/A
 io.xorum	ReKamp-iosX64	1.0.5		N/A
 io.xorum	ReKamp-iosX64	1.0.6		N/A
@@ -1188,6 +1197,8 @@ org.graceframework	grace-shell	2023.2.0-M3		062ad8ec50f3c5ca89f3ef46a8b7447c698a
 org.graceframework	grace-shell	2023.2.0-RC1		0b463e590d3da486b0f43602bec3785652842f6b
 org.graceframework	grace-shell	2023.3.0-M1		2caabff29410c86e645037712bc5adbbda254327
 org.graceframework	grace-shell	2023.3.0-M2		af0da36207714a9a76c386093c9df4305d810845
+org.graceframework	grace-shell	2023.3.0-RC1		42ca62158f783fdbbdd4178934a6f93535b776a0
+org.graceframework	grace-shell	2023.3.0-RC2		f1adaae94a06292542a603151c17762a89589cf8
 org.mvnpm	url	0.10.3		59fc6f03ed41694467884aeba5aa4077f6de6d91
 org.mvnpm	url	0.11.4		12adfe938e6c44f2904cfe1f82494479fccc96ae
 org.orbisgis	noisemodelling-pathfinder	5.0.0		93bfff68b1154e4caf9775f79adef1f88054420e
@@ -1277,6 +1288,8 @@ org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	55.3.0		58365
 org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	56.0.0		bb8dec53c1c27deea8f2bdb8a6f0f63c072ef281
 org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	56.1.0		97502df7ccd035cace16463d592dca907d8b3eae
 org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	57.0.0		24392aee50cfb149a84f5511c80ee2336d866b30
+org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	58.0.0		86d92b578c97ab8ae2cb8980e175147218a23ff8
+org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	58.0.1		6280a8248b5cf689a3fbe3e1ea3c7e7b51956bfa
 org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	6.0.0		bff06ec4d2e5a0ee26debb8bdd41debf79b72ec1
 org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	6.1.0		130c4ec6bdc140e2afbc64dd62a282f57e260970
 org.ossreviewtoolkit.plugins.packagemanagers	conan-package-manager	6.1.1		ad7d2091c5b3b1c01445d2af93127e053327a45b

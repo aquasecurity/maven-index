@@ -1038,6 +1038,8 @@ io.camunda.connector	connector-aws-textract	8.6.10		d680f74a05c7a495dcfb0eb52141
 io.camunda.connector	connector-aws-textract	8.6.10	with-dependencies	1ffe31673c9e81dbd9c59c83aacb6a4608778999
 io.camunda.connector	connector-aws-textract	8.6.11		4bbda1b3952c608c01dddd3e3ed8fb71e100c202
 io.camunda.connector	connector-aws-textract	8.6.11	with-dependencies	e8ae1a01b05a724d981be850e6a7c2f861e9c871
+io.camunda.connector	connector-aws-textract	8.6.12		488e8b06ed60d885785f54a208c090009bfcc68c
+io.camunda.connector	connector-aws-textract	8.6.12	with-dependencies	58f1ad2307be21a33b1fc11425ef9d4bbaf3daf7
 io.camunda.connector	connector-aws-textract	8.6.2		97b986547c7bb6e6ea6621dc89981f7e838aa24c
 io.camunda.connector	connector-aws-textract	8.6.2	with-dependencies	811cf3b99976751cd13740fbdb761229883a22b1
 io.camunda.connector	connector-aws-textract	8.6.5		5bbfc02c45702d9c4dad9ba3b1485ea00b814178
@@ -1060,10 +1062,18 @@ io.camunda.connector	connector-aws-textract	8.7.0-alpha3.3		c17428edae5809df81ac
 io.camunda.connector	connector-aws-textract	8.7.0-alpha3.3	with-dependencies	84bc8118209831468e180c702a8fc50580862c16
 io.camunda.connector	connector-aws-textract	8.7.0-alpha4		48047e054ed13bf728d7fe3883d5f1d2c0940829
 io.camunda.connector	connector-aws-textract	8.7.0-alpha4	with-dependencies	82e89d18b972c6ddc45861b5b6cb211010c557d2
+io.camunda.connector	connector-aws-textract	8.7.1		34b0898f295b8cfad9f186c8aba4c83567db4756
+io.camunda.connector	connector-aws-textract	8.7.1	with-dependencies	53a4a16b2c93f83418acd5e5275d3f7411e65d86
+io.camunda.connector	connector-aws-textract	8.7.2		1a5b07eb680524c374ba2a9e427b8098dc466891
+io.camunda.connector	connector-aws-textract	8.7.2	with-dependencies	a1882055db897a8037adb489a5c5d8c0700b9eb0
 io.camunda.connector	connector-aws-textract	8.8.0-alpha3		d98b9d18b0f539a3c2001e6ae14d8b8595abb730
 io.camunda.connector	connector-aws-textract	8.8.0-alpha3	with-dependencies	f16cb0969d895ecb945556543c83d8e42bf095be
 io.camunda.connector	connector-aws-textract	8.8.0-alpha3.1		38efef56cd4cf51bd1888e09cb54e4f2a16ebebc
 io.camunda.connector	connector-aws-textract	8.8.0-alpha3.1	with-dependencies	f76bb7085945daa573661c50f9d7596807c514e6
+io.camunda.connector	connector-aws-textract	8.8.0-alpha4		7b21bfda32fb4c609b6a149503c98a4724453a47
+io.camunda.connector	connector-aws-textract	8.8.0-alpha4	with-dependencies	fb5a67102b230a47ea2f14320214191a593d4358
+io.camunda.connector	connector-aws-textract	8.8.0-alpha4.1		feaf3db1a03544f26741c946941be579aa0c1a62
+io.camunda.connector	connector-aws-textract	8.8.0-alpha4.1	with-dependencies	6134ff5ee52a0b54489caad07c63387d4898ef9e
 io.chris-kipp	mill-scip_mill0.10_2.13	0.1.1		87190eb1d0ac80efd51f2770d2dde1b73aa2c6d2
 io.chris-kipp	mill-scip_mill0.10_2.13	0.2.0		8b24efc4128053caa5515caea24aaf65a0ef4a5c
 io.chris-kipp	mill-scip_mill0.10_2.13	0.2.1		e08020649bba16ccb3ba3a0da979057fa6b48329
@@ -1705,6 +1715,7 @@ org.apache.camel	camel-jackson-avro	4.8.3		85112bf5e111cc568d1bd85379b5e5e829678
 org.apache.camel	camel-jackson-avro	4.8.4		55289bad1e304a24f6f547d6958d0ab4505c9711
 org.apache.camel	camel-jackson-avro	4.8.5		836a96f42a2a135e5526f524d3d6d13d1f4e2572
 org.apache.camel	camel-jackson-avro	4.8.6		ada55bb87ec311eb3e2f3dc81545df94163ce203
+org.apache.camel	camel-jackson-avro	4.8.7		8cd85151dcf5a76fa8187b87ad6e7232ad18c7e1
 org.apache.camel	camel-jackson-avro	4.9.0		6f2f7fb605f3f660d75c425c49e935a2c7ea7c7a
 org.apache.sling	org.apache.sling.jcr.contentloader	2.0.2-incubator		f0b8dabdf0778c131e511b5797c2c72e22da9d0e
 org.apache.sling	org.apache.sling.jcr.contentloader	2.0.4-incubator		89ad559ffdf51142c57b1081a2f4d6eb412bf7da
@@ -2288,3 +2299,7 @@ tz.co.asoft	raven-email-agent-brevo-iosx64	3.0.14		N/A
 tz.co.asoft	raven-email-agent-brevo-iosx64	3.0.14	metadata	7edcaa98d9d071d6f39ee63e31407cd0816fe1af
 tz.co.asoft	raven-email-agent-brevo-iosx64	3.0.15		N/A
 tz.co.asoft	raven-email-agent-brevo-iosx64	3.0.15	metadata	2727b64aea4f300f83c6082368293b9a5ae254be
+tz.co.asoft	raven-email-agent-brevo-iosx64	3.1.0	metadata	7118ce90d55de3ffcb8c67645bf1f9a1445ca554
+tz.co.asoft	raven-email-agent-brevo-iosx64	3.1.1	metadata	00ef572c8f56eec136418d45eddfa6bb822c560a
+tz.co.asoft	raven-email-agent-brevo-iosx64	3.1.11	metadata	0e6d4686fbedf67fb929ac7d716820aeb05baa16
+tz.co.asoft	raven-email-agent-brevo-iosx64	3.1.12	metadata	8dba631eb0246abe71230d4e9e11ee06dce34e6c

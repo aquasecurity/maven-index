@@ -27,6 +27,7 @@ cglib	cglib	3.2.8		331c90f8cd3be5b2ee225354bed68862ba0fd3c8
 cglib	cglib	3.2.9		a4b7af2ea0a5ecad2d283c2fff119009f0c60d20
 cglib	cglib	3.3.0		c956b9f9708af5901e9cf05701e9b2b1c25027cc
 cglib	cglib	rc2-1.0		8a9144690e9f76cf7ae5fcf0218b57f57e3429bd
+com	codacy	codacy-analysis-core_2.12		30c8a699e4caefa239fb8bd79b36bd4259f96ff1
 com.aliyun	alicloudproc20210713	1.0.0		5c3520b6577589a7eaa4cec51c4e1a8e114dc79f
 com.aliyun	alicloudproc20210713	1.0.0	shaded	d40227da1f5571b71a03f7079cb5ebb60aea1875
 com.apollographql.apollo3	apollo-normalized-cache-sqlite-watchosarm64	3.0.0		N/A
@@ -816,7 +817,9 @@ com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.55.0		ce2c07d438a6c40f15
 com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.56.0		5aadd22354b275e3e66ea6d0b26eab196aeb5605
 com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.57.0		9e1cf401c0b8bdbdc274c3e11682bcb8a86e8c74
 com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.58.0		5ba62ba4042776f8f9889b46ea4e4fef88832dc0
+com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.59.0		e179630700f19ebfa19c7c7fb090d39f72ac27d8
 com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.6.0		157d54958ccfc6631d6aa31efbb05e3bca4a4de1
+com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.60.0		e5e7dd3f4a522a73e1a2f51ceedb8184fedac76b
 com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.7.0		2621394f8e6a712c28a79150f91d1178b5c4750b
 com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.8.0		786c0bbe4017fd52df9806f59928be7564438617
 com.google.api.grpc	grpc-google-cloud-analyticshub-v1	0.9.0		4fa61f98664247df49b805f09a6e0457c9ec6378
@@ -1665,6 +1668,8 @@ io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.14.
 io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.14.0-alpha	all	6ad9d1edd5ad20a6deba40267c1b9fea97533d4c
 io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.15.0-alpha		d997b709fc5fb073d0183e1bb43b6168928d37b3
 io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.15.0-alpha	all	e235ba5a6d2f9f6fc56583a0fb13f4e7db9e7b0e
+io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.16.0-alpha		2eb7d426358f2c64104f09e6f36a9bc3a14dada5
+io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.16.0-alpha	all	888bf13ad3a94918103a1ba4e0b8fb2c05a9dfe5
 io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.2.0-alpha		b4e455cd798b2a52f99f84e2bc156329f1200499
 io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.2.0-alpha	all	c1150d2ef7e2ddb8a4aeb5a2ed9737f84522f539
 io.opentelemetry.javaagent	opentelemetry-javaagent-internal-logging-simple	2.3.0-alpha		dc2ff6673522199ad547d4644c9fc5808dd295ad
@@ -3528,7 +3533,18 @@ software.amazon.awssdk	frauddetector	2.31.30		d82b95d0e933f491b8cfec4a6163d3329e
 software.amazon.awssdk	frauddetector	2.31.31		6ba189f5a4ac30f54b5127194c57fd90b4208701
 software.amazon.awssdk	frauddetector	2.31.32		504915b1d8b5119887178401ea9cef7ceb410942
 software.amazon.awssdk	frauddetector	2.31.33		daca824db144908af0f404b4baf1786fdbf4ef36
+software.amazon.awssdk	frauddetector	2.31.34		05918a5e310b65c7136060de11ecc6dd86f20ef6
+software.amazon.awssdk	frauddetector	2.31.35		e36a3cf6cae608ee42054df08b676f0f5a8300a7
+software.amazon.awssdk	frauddetector	2.31.36		23c13a97bc8fabc772e73b3f103173e32cb98aa3
+software.amazon.awssdk	frauddetector	2.31.37		6aa4cfe55412c0b5571af4c82ae69ff1268cd1c6
+software.amazon.awssdk	frauddetector	2.31.38		de6e2ac486bdc4b9702a34a3b825da94f4f29af9
+software.amazon.awssdk	frauddetector	2.31.39		0e1e87d549473ca9ee8b38377a7281525604fcef
 software.amazon.awssdk	frauddetector	2.31.4		d88f19e45a391d69ce4c89a05560558f4e7c377d
+software.amazon.awssdk	frauddetector	2.31.40		d8cf1f435cfef71b0159c4d066752e8b708d7239
+software.amazon.awssdk	frauddetector	2.31.41		a585f27058e5ba0b4d9edad685f21343d48b0f7e
+software.amazon.awssdk	frauddetector	2.31.42		b01d79a975125676ccb1781aa4fe5ac52f37568f
+software.amazon.awssdk	frauddetector	2.31.43		eabfe751bac3a91e66a67e174efeca13fe4cdcd4
+software.amazon.awssdk	frauddetector	2.31.44		4f4c8c023d8cf0ca5db65ed8ce7c798962009fdd
 software.amazon.awssdk	frauddetector	2.31.5		c3af6d88155c85cd4a0de155088abc6a76d81a69
 software.amazon.awssdk	frauddetector	2.31.6		f7b5b750343161b4c90a1d9dccca7f20e094d4d9
 software.amazon.awssdk	frauddetector	2.31.7		0ef2d1e46f741106e3fa524776e1ebd0775254b7
@@ -3568,6 +3584,10 @@ tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.0.8	metadata	ee171a61dc31e7bbf5ceff6e04682cdc90c93daa
 tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.0.9	metadata	60fc1a7b77bd008e242239169c304996b66bcf4c
+tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.1.0	metadata	7136dab346396ce31a23704bf0daba880245c879
+tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.1.1	metadata	941bd87021bb4feaf66af3846e1a3bffb9a886e1
+tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.1.11	metadata	fab547f716ae376bff8d86386c58d42af9c7d216
+tz.co.asoft	koncurrent-executors-coroutines-tvosarm64	3.1.12	metadata	5720230a5e03929a06a70370519a7af6ea18b75c
 us.fatehi	schemacrawler-sybaseiq	11.01.01		0d4e24218e06129d73cc04b65bf8da4e5c1d9dc9
 us.fatehi	schemacrawler-sybaseiq	11.02.01		625c1ded8eeb1112272d711099468144fa5a8fe8
 us.fatehi	schemacrawler-sybaseiq	12.01.01		b6bbefa4b21b100c45b33149fa81b3ef54a66091

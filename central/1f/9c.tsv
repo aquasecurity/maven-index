@@ -176,6 +176,7 @@ com.noumenadigital.platform	feature-flags	2025.1.1		5b73ca12a979c345bc4f1f6d0dd2
 com.noumenadigital.platform	feature-flags	2025.1.2		94a39a884a8d524431ce627c3a01d8afcae3794b
 com.noumenadigital.platform	feature-flags	2025.1.3		e0ac80b7f0df7c44056dfd503801a4cb731bce75
 com.noumenadigital.platform	feature-flags	2025.1.4		70414cc479a5d4a477b99c05102f123c77a23491
+com.noumenadigital.platform	feature-flags	2025.1.5		43d5bb199b8d3000146d94ff8b8e0e1b84448afd
 com.redis.testcontainers	pulsar	1.15.3		73343634fc7e254cfaae66fd8a5e14eb358c9cba
 com.sandinh	subfolder-evolutions_2_6_2.12	2.8.1		d71d7aac80cf628f0a7a914508312059ca8c1aba
 com.soywiz	korlibs-logger-macosarm64	5.5.0-alpha1		N/A
@@ -870,6 +871,8 @@ org.anyline	anyline-data-jdbc-vastbase	8.7.2-20250312		752fa0caa6151df5d2423004c
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-20250401		9e7cb7974c9a973c8cf5a9e10ae0180e3f409ff7
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-20250404		a90d4e1d0b464fe7718b22eb9346ad7a5ee6db58
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-20250502		af1ed164dda9d3a79398978c990347120146cbcd
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-20250509		f94f2c1359afccc13f10cd6fa5cc1b2fc60eec28
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-20250515		24e09aacef2ad19a904ab4fe03cfb3c50ff49b94
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20240816		85eaa1c2a82825ccf6fcb42bbcacb0ec1df32d76
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20240826		ebc596d7d48be961720d1d2ad28575711001958b
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20240827		2a60af358a2a500bc45a4cb000d21f20636a6225
@@ -882,6 +885,8 @@ org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20250102		f8acbc1301386bcc837
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20250108		4d71d0e67b6558a98ff7e47c50d7faa0cf6118d4
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20250312		4163ecd242ee0f9a6e03960b8cf30b573fb975d7
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20250404		7301c3d08f8499ebfcff55b86886f69b74e9f80d
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20250502		c3750dc245480488000e2187d290dc9fa3716d44
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk11-20250509		3a1b04c2535cc852457bff2dca324ba82a2e4a97
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20240501		06ecba6f79cd230438eb30be90979dbdf1e40e55
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20240505		b6a15ea45b1a7a3397bea095b3922870e3f51f17
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20240506		b6b099b28d0408f5b75b3067b8253a72eb25246d
@@ -954,6 +959,9 @@ org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20250109		57c410a1b77b70dbf61
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20250212		3407f66f99cd2ed5550d7a1eeaaa869a73277cd5
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20250312		f66c9a4038a11b01b24ea98f69c17685aeae13f9
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20250404		43c51fcd579a0f7cfc0b4a537b04cfcaac3230bc
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20250502		f1e5e91f746baa0f232ccde334e5c593879313ff
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20250509		930f6f8e9d2669e292cc144db73d8209162cda27
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk17-20250515		d8ade7703115996c09f528209aa51abcc62133d1
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20240501		76f8856975eb9afaa7c95ef09655f2ff5a5d8799
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20240505		e3165617361c306793d493556dbf41cee9c5b0bc
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20240506		120c0b83ac82af60ced590cf8350abf1addd8e43
@@ -1034,6 +1042,9 @@ org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20250109		d17bf9be920ba6af686
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20250212		539f1d41d7d5b0c97a06ab4da85345ff20de4ec2
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20250312		446115d3e7522b03e0a8e1e898e78bad48ce3ba9
 org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20250404		48bffa03f7f6e6e7d0d5c751f53b3b1172655b17
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20250502		b98aabb9867fe95e699dfa1b01603c1f34217850
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20250509		0899f3214a939860178ccd4035afc8104ac0f3ee
+org.anyline	anyline-data-jdbc-vastbase	8.7.2-jdk21-20250515		5c7e7bff8d35e7372074ac98c0e3f38ee91ceef4
 org.apache.camel	camel-example-hystrix-service2	2.18.0		ab98d9acd6978053e800f717804520a96bbbaab3
 org.apache.camel	camel-example-hystrix-service2	2.18.1		3c63e364233d06ce8c7e07547104103f20f7a74c
 org.apache.camel	camel-example-hystrix-service2	2.18.2		a7a17bc8ee482f07e3949d4f76c49fc3d7a42d57
@@ -1305,6 +1316,7 @@ org.apache.camel	camel-jetty	4.8.3		8c8050c16f4af1859ab478f6ff37078cf5ad574a
 org.apache.camel	camel-jetty	4.8.4		9f44bc537120a7c785158e964cd4d7a2d0be6f1f
 org.apache.camel	camel-jetty	4.8.5		78061aef915976466a6874827ec4d699ebcd31c6
 org.apache.camel	camel-jetty	4.8.6		e21140ed86b1528e297ff6cb6b4d272b2ab4e1f0
+org.apache.camel	camel-jetty	4.8.7		3eb8a86f416cc80c49d35a34ff5fa8e406aef8b7
 org.apache.camel	camel-jetty	4.9.0		5c0dcbfe6a23e6bac5834bcd5e6bf69d0e5decaa
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	1.1.0		64ac7702a03a18c769b584bba7006abc93f071e1
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	1.2.0		e6779175872bd63727fa7ac7138ae068cefed5b2
@@ -1363,6 +1375,7 @@ org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.2.1		45b1526918e9eabb4d
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.2.2		592646ef8696db860e68f2ca4dd38d1b0e02dbe4
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.2.3		4ce4c733ee7f71e6297e1740828457a77297e273
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.20.0		21463d29254128156d12c64724234a9d0aac0e9e
+org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.20.1		03bb8f38d4a0fa11d3ef1b80d3dec5560d1f12d0
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.22.0		18b3979884b6d1e3fff06683521f780881efcc6b
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.4.0		aec2b1e74eadb37f56777af29b437b170a9d6a7a
 org.apache.camel.quarkus	camel-quarkus-ldap-deployment	3.5.0		bd13e2501e10155c9c84414605c0f3c404b2ac73
@@ -1445,6 +1458,7 @@ org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.2.1		2366911c4a875d14
 org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.2.2		0529b6f27f73a094ed6aeb6631d51b08de3272ce
 org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.2.3		f92858826b2dae034e09530b5beac1648b821675
 org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.20.0		09fac7034f757e2a2bec494398110a13c646c495
+org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.20.1		53e7989e0b56ca9b22393f3cca899173a39cdf32
 org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.22.0		c5f140514dacd1d176fd420f21d319dc395e9fea
 org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.4.0		b0ef7beeab77b00cc29076338baaca39ef17a3fc
 org.apache.camel.quarkus	camel-quarkus-reactive-executor	3.5.0		04eaea81a56919ea650766dd7b7b0d45de2d4050
@@ -2025,6 +2039,7 @@ org.infinispan	infinispan-spring-boot3-starter-embedded	15.2.0.Final		254a2e1fc8
 org.infinispan	infinispan-spring-boot3-starter-embedded	15.2.1.Final		ae73d19202d288c789bab026c7c91b9a8950d404
 org.jboss.windup.org.apache.maven.indexer	indexer-core	6.0.WINDUP		c00dd4fc9a6c697d3b21181b4610ac774ddaad77
 org.jboss.windup.org.apache.maven.indexer	indexer-core	7.0.WINDUP		909ce7d798a9352eeef643d9936aeafafbeaf3b4
+org.jetbrains.compose.ui	ui-backhandler-desktop	1.8.0		cc5d993298a1e08c7532c046991aceb0fc2675c3
 org.jetbrains.compose.ui	ui-backhandler-desktop	1.8.0-alpha03		d20ff6c50379980c890a46b3994ba90c1bc76bad
 org.jetbrains.compose.ui	ui-backhandler-desktop	1.8.0-alpha04		9dc16ae7b00fe81206b8bc54ea7b4dee64e4fd83
 org.jetbrains.compose.ui	ui-backhandler-desktop	1.8.0-beta01		9dc16ae7b00fe81206b8bc54ea7b4dee64e4fd83

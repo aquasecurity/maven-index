@@ -234,6 +234,7 @@ ba.sake	validson_3	0.0.6		fc8e25fb17fc18b1c81ad7ead0eadcfba9610943
 ba.sake	validson_3	0.0.7		792c5602d77ad0192ff8a33df7014d9b924a0935
 ba.sake	validson_3	0.0.8		16dcd7f55d3c1e00b9daa40de53eca31757d1181
 ba.sake	validson_3	0.1.0		7f49810f96e132bd2a742ee46983bdf7eb4290ef
+ba.sake	validson_3	0.10.0		7c16a10565bdb4b52541e2b110c83cd4ff5fdb8b
 ba.sake	validson_3	0.2.0		88eb16f6f18e4d39ce74c645e75f49400c8b0980
 ba.sake	validson_3	0.3.0		d82f556f74b426392231d03e0fe3046d724e1c2a
 ba.sake	validson_3	0.4.0		d9de445a15a7f87550620e4b6f91fec1eb06fdae
@@ -440,6 +441,7 @@ com.lightbend.lagom	lagom-server_2.11	1.5.1		aa7288032551f1146f86e49e21920791bdb
 com.lightbend.lagom	lagom-server_2.11	1.5.3		246ad6893fc492f3718fff35c88cd4beb92c66f9
 com.lightbend.lagom	lagom-server_2.11	1.5.4		110184c05ae35c6b7384a16b9686646be8c8aa6e
 com.lightbend.lagom	lagom-server_2.11	1.5.5		d6fb5ebf8fc40144f8a9a91be0d39bd6d468f9e1
+com.mantledillusion.vaadin	cotton-component-base	3.0.0		cc2daa271493ceb56e31599b07992c93987c5d10
 com.newrelic.agent.java	newrelic-scala-api_2.11	7.1.0		c06f1f0ee37f161ad40a31f4e22d001a4755bcd9
 com.newrelic.agent.java	newrelic-scala-api_2.11	7.1.1		6dedd9497438f03d34ff8876b77bfc506c72ca3a
 com.newrelic.agent.java	newrelic-scala-api_2.11	7.10.0		543dbcb1f6261ff3d75daeb848a38fbf72ca8b7f
@@ -916,6 +918,7 @@ dev.zio	zio-aws-ecr_2.13	7.31.27.1		2492de33a4760f8fd47c304a51804dc10acb04b2
 dev.zio	zio-aws-ecr_2.13	7.31.28.1		5f2c3bb84000f7e5bafc36edf2dd968bcb222830
 dev.zio	zio-aws-ecr_2.13	7.31.3.1		f7f0fb6826990a724343ab2a1debe7f74e63a39b
 dev.zio	zio-aws-ecr_2.13	7.31.30.1		1e66867770d204be5fde183f21d1083df2df992e
+dev.zio	zio-aws-ecr_2.13	7.31.30.2		2a04bfef39122ac2780b0ed28efe10301667012e
 dev.zio	zio-aws-ecr_2.13	7.31.4.1		a7490a4828365d26303583b01c13a68b4a34fdeb
 dev.zio	zio-aws-ecr_2.13	7.31.6.1		d96c8a862db62cf40945e5ce66518d5dc571e191
 dev.zio	zio-aws-ecr_2.13	7.31.6.2		4c49d59eef964a55ddd353bf41cb0e2489eecf65
@@ -1241,6 +1244,7 @@ dev.zio	zio-aws-ecrpublic_3	7.31.27.1		6c2c954dc379e4f255d8fe7817b7e8330f014c92
 dev.zio	zio-aws-ecrpublic_3	7.31.28.1		7dc4148c44cbecf9fb5e81a44d9fbc663f49b673
 dev.zio	zio-aws-ecrpublic_3	7.31.3.1		c21e551aa6bb83444bdb5020944463252cb9990b
 dev.zio	zio-aws-ecrpublic_3	7.31.30.1		344266212290aed686b8eda6f258731503840ea0
+dev.zio	zio-aws-ecrpublic_3	7.31.30.2		24bf3d7accaf5d904cdfc9ee13dc831e0aaf1f47
 dev.zio	zio-aws-ecrpublic_3	7.31.4.1		5e4e511a15811f46e5da6b49d2871bde6e191648
 dev.zio	zio-aws-ecrpublic_3	7.31.6.1		4bdc11d6923b5c50b71d5398a3bdc76b9a944dac
 dev.zio	zio-aws-ecrpublic_3	7.31.6.2		9e23f9e185cab695ca9fee082744bc5b69db5eaf
@@ -1268,6 +1272,7 @@ eu.codlab	kotlin-openweathermap-macosx64	0.1.0-alpha1		N/A
 eu.codlab	kotlin-openweathermap-macosx64	0.1.0-alpha1	metadata	bdfbf97bb2389bea2031655d350fee612af686b9
 eu.codlab	kotlin-openweathermap-macosx64	0.1.1		N/A
 eu.codlab	kotlin-openweathermap-macosx64	0.1.1	metadata	5ad80866077c7772eb0ce5b34b2e8927d28e77f3
+eu.codlab	kotlin-openweathermap-macosx64	0.1.3	metadata	c3deb3d76bdfb6954f7625dbf3aa977930f93212
 eu.unicore.uftp	uftp-authserver	3.0.0		6ebbae41cc61a22a1a74226fadd73abf1b1a30c1
 eu.unicore.uftp	uftp-authserver	3.0.1		1c2599619b2e012fe24e3811a02e99d3edb638ee
 fr.bmartel	multi-event-library	0.32		N/A
@@ -1459,6 +1464,14 @@ io.kotest	kotest-framework-datatest-androidnativex64	5.9.1		N/A
 io.loefflefarn.battlenet.client	battlenet-client	0.0.1		909576774fcad81126ede54b35b2b5b6dcb09597
 io.reactors	reactors-core_2.11	0.7		e31e10806d9d38c77024f4a85bba5d56e2812bbd
 io.reactors	reactors-core_2.11	0.8		5475c8b3a37225642a502e40e3b96f629733eab3
+io.takari.nexus.components	takari-nexus-jmx	1.3.0		97a3a348dde77f42276fffc38d7ce692c929665b
+io.takari.nexus.components	takari-nexus-jmx	1.4.0		3dab5f0b719272fd797741b5e39a432f01a06c04
+io.takari.nexus.components	takari-nexus-jmx	1.5.0		ecb6234af5d2edfcc76a75b4927edb57c6903bf2
+io.takari.nexus.components	takari-nexus-jmx	1.6.0		589d2089a5f1805d05208f2e01ccf70a8404c9ee
+io.takari.nexus.components	takari-nexus-jmx	1.6.1		b7aec8208337f5eab660b8e47bfb91311687d6f1
+io.takari.nexus.components	takari-nexus-jmx	1.7.0		f5042a0245eaaec000c71445890e9afc4db3a5e9
+io.takari.nexus.components	takari-nexus-jmx	1.7.1		13e99f67ace5f82df023c598c4d82112f313c9eb
+io.takari.nexus.components	takari-nexus-jmx	1.7.2		761aec9079b91c480b5d1c8aabf39a5b5d8388f5
 io.tesla.maven	maven-settings-builder	1.0.0		db8ad41f0bde23625610e80ed10daafded0d182c
 io.tesla.maven	maven-settings-builder	3.1.0		8492e2a057452cbc96a8d8607fab0bd02c7b5a19
 io.tesla.maven	maven-settings-builder	3.1.2		0d34492d1ef38120b3386e430a381505d14f4fd8
@@ -2164,6 +2177,7 @@ org.openxava	openxava-project-management-archetype-spanish	7.4.3		64dd6b26ece304
 org.openxava	openxava-project-management-archetype-spanish	7.4.4		2aed4cd44b44343f3d718949b8ce3f3e984dca2a
 org.openxava	openxava-project-management-archetype-spanish	7.4.5		6ade01cefc4b49df9c748e4f4edc3d52c0b2c315
 org.openxava	openxava-project-management-archetype-spanish	7.5		b03e0f8a82ca28f5670ded30873c941a9a292923
+org.openxava	openxava-project-management-archetype-spanish	7.5.1		0dbaa6e4ac3fd3ac9dec6bcfb599703f45f121eb
 org.operaton.bpm.springboot	operaton-bpm-spring-boot-starter-external-task-client	1.0.0-beta-1		be7c9bd0d1769e1746058f59f4c28c06bdbf6f1e
 org.operaton.bpm.springboot	operaton-bpm-spring-boot-starter-external-task-client	1.0.0-beta-2		9a5e1eb9fb61da70b4c705c89d34a42763db980e
 org.operaton.bpm.springboot	operaton-bpm-spring-boot-starter-external-task-client	1.0.0-beta-3		13f6eca691bae63682f517ec209dea1058844f68

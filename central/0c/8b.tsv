@@ -46,6 +46,8 @@ com.daikit	spring-boot-starter-data-graphql	1.6		f815cd5970463ca16919164289ce67d
 com.daikit	spring-boot-starter-data-graphql	1.7		7dd0de68f3b6b4d48eb0766230bdcf0b0aa4d6e0
 com.daikit	spring-boot-starter-data-graphql	1.8		218267a1e772cfd7b93c72080bbfb0c57baf8bc0
 com.daikit	spring-boot-starter-data-graphql	1.9		0c717565b1c58a724f94abe69f4d66c87aee4cfe
+com.eed3si9n	sbt-inspectr_2.9.1_0.11.1	0.0.1		8f002365b253a3508f73d097b60dd524de9d72d3
+com.eed3si9n	sbt-inspectr_2.9.1_0.11.1	0.0.2		d0b9e4d2a0c2007b17045df5cbb5f6b45fa56be4
 com.github.ichelon	framework-starter	0.0.2.RELEASE		N/A
 com.github.ichelon	framework-starter	0.0.3.RELEASE		N/A
 com.github.ichelon	framework-starter	0.0.4.RELEASE		N/A
@@ -1309,6 +1311,7 @@ io.quarkus	quarkus-security-spi	3.15.2		4291f1e6b5a21209efa6d42006d141eb7928200d
 io.quarkus	quarkus-security-spi	3.15.3		baa176786c72756420ea6d330144cc92ea38686a
 io.quarkus	quarkus-security-spi	3.15.3.1		bbc95a8b234e88edc266e8080fa6884b2923f7ef
 io.quarkus	quarkus-security-spi	3.15.4		7476c2bc22f8d5c94717f160b486ba7cdd17f6f8
+io.quarkus	quarkus-security-spi	3.15.5		76afe23cba1d7ee184f1bacfe092d5c47850d267
 io.quarkus	quarkus-security-spi	3.16.0		5d22b8b09ae1449e964c5ed6c8378fe0b211f733
 io.quarkus	quarkus-security-spi	3.16.0.CR1		fd8d37fb90e3da67d7e529825df492d36f4ab1ec
 io.quarkus	quarkus-security-spi	3.16.1		d1629a213b8b36e4e812a99d6f33e0de3f2ada1c
@@ -1353,6 +1356,7 @@ io.quarkus	quarkus-security-spi	3.2.8.Final		42eaa786a2fb8fb230bd723c60a3b064a5f
 io.quarkus	quarkus-security-spi	3.2.9.Final		56a9a917bba9d421098d91e3f5141a79a3b5ce02
 io.quarkus	quarkus-security-spi	3.20.0		ed0356aef9f308cdc076fd0aae5cc5a3eb281a0a
 io.quarkus	quarkus-security-spi	3.20.0.CR1		45d9ebaa06282280d2446590615505b5fc724e06
+io.quarkus	quarkus-security-spi	3.20.1		0c66da888c4dc73644be382815a19ef31d139983
 io.quarkus	quarkus-security-spi	3.21.0		fef2af7f67da1e28ab83f40581c58dc56a121f3c
 io.quarkus	quarkus-security-spi	3.21.0.CR1		bae27c16232ffbb6436c689c37b12cadc7efdc32
 io.quarkus	quarkus-security-spi	3.21.1		dab683820b93504fcd1544b67f0c8ccd2347f680
@@ -1362,6 +1366,9 @@ io.quarkus	quarkus-security-spi	3.21.4		f86734cac1e3a08fe06e666540ec419aac695172
 io.quarkus	quarkus-security-spi	3.22.0		5f11bb179276e6da96665f52f6ccc01f6cc4da24
 io.quarkus	quarkus-security-spi	3.22.0.CR1		dba84e8253a23fd0f36e9283a8dec18cff9c5274
 io.quarkus	quarkus-security-spi	3.22.1		c1a4048b7835d8fea1d2032a1ba64129b7545b15
+io.quarkus	quarkus-security-spi	3.22.2		1eb38223a24363acb6cfd6a257302194dc2c41b9
+io.quarkus	quarkus-security-spi	3.22.3		cdd9eca1c90e6a8b2abe44cc661b8024edcd0460
+io.quarkus	quarkus-security-spi	3.23.0.CR1		45a7660d5a7ffc328e8afd552041d71ca7e2c561
 io.quarkus	quarkus-security-spi	3.3.0		e11e4a4032573dc3fcdb5d392594826dacdbd6ab
 io.quarkus	quarkus-security-spi	3.3.0.CR1		b25ca387811a034dffe22e8b3d7f343c896a5ab4
 io.quarkus	quarkus-security-spi	3.3.1		4332fa9d639d48ecf4c197189103f59f7df1fe92
@@ -1762,6 +1769,19 @@ org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.41.1		7
 org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.42.0		e0f63a30f8f024220a22805ebf37a9825559e830
 org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.43.0		4021b81ddb3e081cd7f9a0967a96a3b5bc2bd833
 org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.44.0		1065ffc100b0920c94a43d0f3e6203f4214dcb76
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.0		1d67d56d53da2332fd38915e05f80268f5f24e7a
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.1		c51e987f7ae1827c680aa008a9e0e0d08a08e744
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.10		371b689212fdc34b3dbca3db955b0af3d040da88
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.11		2934c46c8f993e712630f267695aea39f4947bc4
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.12		c91fecd0f88f57df92cb7ce9a31581abc79b5f7d
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.13		5060b5e6c7aac41c19faeb975c5b6987db4992d8
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.3		74b864cf45653d5286a1765a8b53764cdde88908
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.4		9377bfe35e8ae94d476e381e4c0e430bfd8c3aea
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.5		855e8cfec73320200c69774670f3aa350e430276
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.6		1e10107afb1142d3a1efc856ba5406b074ed5846
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.7		f70769516193ff6e950aa4d2c04ed898d3f77ce2
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.8		fdc374d720246a54482b3b315b7614ca75b8d40b
+org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.45.9		e83c268ea44a2e3b5aa4ac4a53c459af548f65aa
 org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.5.0		822b8cbe4c9e2b0d1c53d1a626bc054731278d50
 org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.6.0		1696bb40362b60f7d81c6fe41524353b065625c1
 org.eclipse.dirigible	dirigible-components-engine-template-javascript	11.6.1		02994542fe2c39f45e7cd567a6ea0c424b06e094

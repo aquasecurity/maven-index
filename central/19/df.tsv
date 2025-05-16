@@ -281,6 +281,7 @@ io.camunda	zeebe-broker-client	8.5.14		f76dcc9cf95331a9a870e6f0ddece48f7953c3f9
 io.camunda	zeebe-broker-client	8.5.15		08f8030174fa71681e885e2eccf5e625688538a9
 io.camunda	zeebe-broker-client	8.5.16		1bc372a19b88f2b80bf6bb3d1a20fcbdd72097bc
 io.camunda	zeebe-broker-client	8.5.17		05a633bd5f83f74416443fade6035352d35144ab
+io.camunda	zeebe-broker-client	8.5.18		8bbd6584a39023818a89406167c97bc79bc01b04
 io.camunda	zeebe-broker-client	8.5.2		008c7ab85baa9967e39f33a58a309fde73101eb6
 io.camunda	zeebe-broker-client	8.5.3		4bd1bc02ea89ce332313cfd8360bc7471492d8e1
 io.camunda	zeebe-broker-client	8.5.4		7c89a6bbda6b55321b2cd920dd1fc3034011a090
@@ -318,6 +319,8 @@ io.camunda	zeebe-broker-client	8.6.12-rc1		00bc8840620d333bef422cc57418ab1f189eb
 io.camunda	zeebe-broker-client	8.6.13		b7b4556fbe96c089bb4ec5f6e3547307800fcf1a
 io.camunda	zeebe-broker-client	8.6.14		ee4ca7b97101c78ed5123e1db4226141f1bfbb02
 io.camunda	zeebe-broker-client	8.6.14-rc1		db1bc29c582cd9eb49caea87304f0e17b63cd5e9
+io.camunda	zeebe-broker-client	8.6.15		f52ffc10b71758a7b30b827c912086ef61077c76
+io.camunda	zeebe-broker-client	8.6.15-rc1		ba9688387db95216b9e8d303fe81c5f8ef802c69
 io.camunda	zeebe-broker-client	8.6.2		86773add33abca6fc4ea3cd4866a88242246aab2
 io.camunda	zeebe-broker-client	8.6.3		9219441c36e80d94ad832dc25e7c543a68febde4
 io.camunda	zeebe-broker-client	8.6.4		b2f1b88406f5971901df7fc9a825f0e3c4202832
@@ -353,12 +356,15 @@ io.camunda	zeebe-broker-client	8.7.0-alpha5-rc1		18b75cc320a69af80177d8ef5f9b5f4
 io.camunda	zeebe-broker-client	8.7.0-rc3		76d8707e0e2a7597b9bc0746a75fa88c0c20a9ce
 io.camunda	zeebe-broker-client	8.7.1		08bf6bbfb22d106910603d19c0673a44d491ef69
 io.camunda	zeebe-broker-client	8.7.1-rc1		f3c28d9d78340105772159f294304c97b34ca1e8
+io.camunda	zeebe-broker-client	8.7.2		05c469123bc5693abb6f24a8a47bb4f13b430d7a
+io.camunda	zeebe-broker-client	8.7.2-rc1		44386b9529a4acca157fe8ae85d95c1fb0a9b77a
 io.camunda	zeebe-broker-client	8.8.0-alpha1		cc5ea8925bbea9f6ff3900db1a0ece367d23acf8
 io.camunda	zeebe-broker-client	8.8.0-alpha1-rc1		d3c6472af7a31ec1cc0492b5d09dda8a0e08d3b4
 io.camunda	zeebe-broker-client	8.8.0-alpha2		6a30fb6fe10e8f0ca535e29bd6f974a50d7cc942
 io.camunda	zeebe-broker-client	8.8.0-alpha2-rc1		8ada94cfb187f2375615cc158818de2eba89a66f
 io.camunda	zeebe-broker-client	8.8.0-alpha3		be9d0debceca63912473510dc205b1d8f834c839
 io.camunda	zeebe-broker-client	8.8.0-alpha3-rc3		37a8c88a5d247164fd308aeb2822881390cc75b2
+io.camunda	zeebe-broker-client	8.8.0-alpha4		5ebbc1b2e8e1e0d35c54d39782971412db5a0623
 io.camunda	zeebe-broker-client	8.8.0-alpha4-rc1		521720acb3ec396bd3e4d68aa39dd772cb68d58e
 io.fabric8.itests.autoscale	autoscale-itests-common	1.2.0.Beta2		af28a6584cac3af01c09716d2b9739011574545b
 io.fabric8.itests.autoscale	autoscale-itests-common	1.2.0.Beta3		c200002e2f6c2402535f3b84817936aa57ff2e02
@@ -481,6 +487,8 @@ io.ktor	ktor-server-double-receive-iossimulatorarm64	3.1.1		a17ddb8ef822998e6418
 io.ktor	ktor-server-double-receive-iossimulatorarm64	3.1.1	metadata	123ae3bf55d2aa6712784e7cf0de2cbaba329e8a
 io.ktor	ktor-server-double-receive-iossimulatorarm64	3.1.2		76c821031793c3fcc918c7b3fabce6a72140b33b
 io.ktor	ktor-server-double-receive-iossimulatorarm64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-double-receive-iossimulatorarm64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-double-receive-iossimulatorarm64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.quarkus	quarkus-resteasy-reactive-common-parent	1.11.0.Beta1		N/A
 io.quarkus	quarkus-resteasy-reactive-common-parent	1.11.0.Beta2		N/A
 io.quarkus	quarkus-resteasy-reactive-common-parent	1.11.0.CR1		N/A
@@ -1135,6 +1143,7 @@ org.finos.legend.depot	legend-depot-model	2.6.1		765b62ad6752eb099e8f8c59267d7b2
 org.finos.legend.depot	legend-depot-model	2.6.2		23c81d5d12e817b5c3bb080c2cf1cf9882e471e9
 org.finos.legend.depot	legend-depot-model	2.60.0		4ab55dcb4feaf6f6666f133ab09482374ee023b9
 org.finos.legend.depot	legend-depot-model	2.61.0		7cf9ef6a0bc4f7b109d67ca091e72b2e8cc00953
+org.finos.legend.depot	legend-depot-model	2.62.0		661fc9aad4350c30ad0fb01afc861bdf988fc7e7
 org.finos.legend.depot	legend-depot-model	2.7.0		f77a94ad53545270f47e25110829f8984bfea25e
 org.finos.legend.depot	legend-depot-model	2.8.0		93735428074347e70f1619983dc8f7ecad3624b7
 org.finos.legend.depot	legend-depot-model	2.9.0		9929e4d752e4d2f678e3f55c2c72b2c1de730cee
@@ -1448,6 +1457,7 @@ org.talend.sdk.component	minmaxvalidation-component	1.78.0		7835535dda3c36f1f06d
 org.talend.sdk.component	minmaxvalidation-component	1.78.1		f200ccc6e209aea91c922d9970432aa8ca8ad0ce
 org.talend.sdk.component	minmaxvalidation-component	1.79.0		874645b7c6a1ec201201923efdae1616bac5ca22
 org.talend.sdk.component	minmaxvalidation-component	1.80.0		69ea9d9ec0e9334f72dde8765813bf28eae3d0d1
+org.talend.sdk.component	minmaxvalidation-component	1.80.1		e3e1a1f2b2d51991e3a00dd323435d1348df3463
 org.talend.sdk.component	minmaxvalidation-component	10.57.0		a20039b80fe549e29126ef899f75d37a99b4e785
 org.test4j	test4j-utils	1.0.0		17baf178dbd408211ec57d424f0f35948e358845
 org.toxos.process-assertions.activiti	activiti-5_16_1	0.7.0		d5ffeab6c08c01c77ed7b46b57ae3e638ecdc371
@@ -2811,7 +2821,18 @@ software.amazon.awssdk	kinesisanalyticsv2	2.31.30		96a9eb0c18577c1f315eac3cc9b84
 software.amazon.awssdk	kinesisanalyticsv2	2.31.31		0226fc01e5f14fb89b3f4fc82eeed4406c7d274a
 software.amazon.awssdk	kinesisanalyticsv2	2.31.32		9b47361a4c11dfaa28f11f0e319e4f7a119eee1a
 software.amazon.awssdk	kinesisanalyticsv2	2.31.33		b0f3c58999a9321e582b65bfad909f1d1bab59a9
+software.amazon.awssdk	kinesisanalyticsv2	2.31.34		309e222c84eb044805ba4ebb6530a5084bcf3eb2
+software.amazon.awssdk	kinesisanalyticsv2	2.31.35		6c8550d361b22ea1eb3a0a6e1eede9a7a3582513
+software.amazon.awssdk	kinesisanalyticsv2	2.31.36		79f0053575357bb45b036eb7538a3af7a31da6dc
+software.amazon.awssdk	kinesisanalyticsv2	2.31.37		8fb5c6f06a04eb72b69d9bf0ff0550d59970a838
+software.amazon.awssdk	kinesisanalyticsv2	2.31.38		78cb044b06765296f6cbe0d560663d957c24b4ce
+software.amazon.awssdk	kinesisanalyticsv2	2.31.39		6ec5caa1c8ea0dda46536b65eb913bfd0529be50
 software.amazon.awssdk	kinesisanalyticsv2	2.31.4		a416969bd3bee3916c4f0e9ee3b4335688513002
+software.amazon.awssdk	kinesisanalyticsv2	2.31.40		03ec4e274b486609ed41316733ccb5bfba58981e
+software.amazon.awssdk	kinesisanalyticsv2	2.31.41		f99794b3a1f6a2b63249e7e041003996ae897885
+software.amazon.awssdk	kinesisanalyticsv2	2.31.42		49d4eed78ab09194f796193f57c61424b8881e24
+software.amazon.awssdk	kinesisanalyticsv2	2.31.43		a52119c339b2487d6744d471665381092f599ef4
+software.amazon.awssdk	kinesisanalyticsv2	2.31.44		5538d3528b3a55af3786883af5ad2649a903fbb6
 software.amazon.awssdk	kinesisanalyticsv2	2.31.5		ac0ff94f646ba05359b0b9318b23fd6b92e90f04
 software.amazon.awssdk	kinesisanalyticsv2	2.31.6		230f0b0e101a5a25943e0ea5cefb0657e605a9a9
 software.amazon.awssdk	kinesisanalyticsv2	2.31.7		23325b1f82690cded8f76ea35bcd56b91ffc9fe2

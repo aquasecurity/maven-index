@@ -27,6 +27,7 @@ app.getxray	xray-maven-plugin	0.7.4		c2cb8b99a84037f3c2b8acde23358decab273564
 app.getxray	xray-maven-plugin	0.7.5		59cccdc28061a71e1743598160f5a5072eefd95e
 app.getxray	xray-maven-plugin	0.7.6		b252e0cd7f327088cbb16faa9cbba657f92a3a9b
 app.getxray	xray-maven-plugin	0.8.0		78335959f1c9574680183f0303c8d4c58ac594ea
+app.getxray	xray-maven-plugin	0.9.0		3068fded70716ebbdc6cd4c0f66667b2a8bc2cf7
 com.adyen.checkout	ideal-base	3.0.0		N/A
 com.adyen.checkout	ideal-base	3.0.0-rc01		N/A
 com.adyen.checkout	ideal-base	3.0.0-rc02		N/A
@@ -62,6 +63,7 @@ com.aliyun	cmpinc20210113	1.0.0		4a7e42ca6f913583c89d5c1646bd02e55cc68ea1
 com.apadmi	mockzilla-common-jvm	2.0.1		d65b6a2222d8a086d2692cde17e8afa2f5547e2e
 com.apadmi	mockzilla-common-jvm	2.1.0		fc338bb0be18f815679b31e1378fc759d8741621
 com.apadmi	mockzilla-common-jvm	2.1.2		fc338bb0be18f815679b31e1378fc759d8741621
+com.apadmi	mockzilla-common-jvm	2.1.3		8f553973316736a73fc95a590c8489a3ae2be944
 com.arkivanov.essenty	instance-keeper-watchossimulatorarm64	0.1.4		N/A
 com.arkivanov.essenty	instance-keeper-watchossimulatorarm64	0.10.0		N/A
 com.arkivanov.essenty	instance-keeper-watchossimulatorarm64	0.10.0	metadata	4ff2aa7002d0632f577b888a2303e93b06f53fd9
@@ -222,6 +224,8 @@ com.google.cloud	google-cloud-networkservices	0.14.0		e45d8727f45d8230972482b642
 com.google.cloud	google-cloud-networkservices	0.15.0		1efad50a422dc88ec81f9fe7ae9f01a2f8ffddfb
 com.google.cloud	google-cloud-networkservices	0.16.0		1a1183b1f530381f5a13fbe10e1b1adf6bf89231
 com.google.cloud	google-cloud-networkservices	0.17.0		91b430d693e7c2bd1c6c5e84c4b3096cb11b6d1c
+com.google.cloud	google-cloud-networkservices	0.18.0		4454ed19992e4127e55c5aa3fc3272960b537fd8
+com.google.cloud	google-cloud-networkservices	0.19.0		4007a1806e3eb6aa724c338dc3022c5051a51191
 com.google.cloud	google-cloud-networkservices	0.2.0		8a95c8301e808aa3686524a544414af1f121c2ae
 com.google.cloud	google-cloud-networkservices	0.3.0		37c8e5daa6de9dda3a10455998c813d1ed0c341c
 com.google.cloud	google-cloud-networkservices	0.4.0		0757b9681c6ce1ab40803b7d7dfba70eb5c3589b
@@ -789,6 +793,7 @@ io.ktor	ktor-server-method-override	3.0.3		7cc1eff7ca38f524e7bce1fbc045ff355318b
 io.ktor	ktor-server-method-override	3.1.0		023be236c17a20d3443fbd802e8205762c127f51
 io.ktor	ktor-server-method-override	3.1.1		023be236c17a20d3443fbd802e8205762c127f51
 io.ktor	ktor-server-method-override	3.1.2		01ad5a0133beed738af91c7160fedbd8abb33cfb
+io.ktor	ktor-server-method-override	3.1.3		01ad5a0133beed738af91c7160fedbd8abb33cfb
 io.openliberty.features	mpRestClient-1.1	18.0.0.3		N/A
 io.openliberty.features	mpRestClient-1.1	18.0.0.4		N/A
 io.openliberty.features	mpRestClient-1.1	19.0.0.1		N/A
@@ -998,7 +1003,11 @@ io.smallrye.reactive	smallrye-reactive-messaging-health	4.8.0		493416993a7fb3466
 io.smallrye.reactive	smallrye-reactive-messaging-health	4.9.0		2db9e3b39e37327b75cd0193c5f6c4b6b6915779
 io.spinnaker.orca	keiko-redis-spring	2025.0-0		a5b904f5c596cf335ba5f8f1f6241da483a7b9bc
 io.spinnaker.orca	keiko-redis-spring	2025.0-1		9e4db1350360a52cef45b562941bdffcdfff690d
+io.spinnaker.orca	keiko-redis-spring	2025.0-2		41b6634e9d41d1547412da11c9808c7b28f9102f
+io.spinnaker.orca	keiko-redis-spring	2025.0-3		f0c049a7f8b46ace04e82a2f87412fb3f75b4f51
+io.spinnaker.orca	keiko-redis-spring	2025.0-4		65cb038ac0f85b08d0f6e106f7d185660a51e192
 io.spinnaker.orca	keiko-redis-spring	2025.0.0		cbf352eb497f432dffaa89b82ecb16aba77bc897
+io.spinnaker.orca	keiko-redis-spring	2025.0.1		a04d5052b5af2f3d1607afe0684430edebefa448
 io.spinnaker.orca	keiko-redis-spring	8.15.0		e646770a4caca5ddd79d7f22bbee8a55f999c79b
 io.spinnaker.orca	keiko-redis-spring	8.16.0		052978fbf94720de5d31db7c0abd786b0fd622d5
 io.spinnaker.orca	keiko-redis-spring	8.17.1		13284a8be0761e50369e9f38077bd8da1a63e33f
@@ -1090,10 +1099,14 @@ io.spinnaker.orca	keiko-redis-spring	8.61.2		4e3d472cb3e54842bfb738462f058a9ab26
 io.spinnaker.orca	keiko-redis-spring	8.62.0		d8c7e42e30cd5b35a119267986e1a3e0cd5d2da3
 io.spinnaker.orca	keiko-redis-spring	8.63.0		04d1ef161301c5341b24392dbff237d3314d7501
 io.spinnaker.orca	keiko-redis-spring	8.64.0		6f65f99934258f35055dc70531b83be6c0d1eae7
+io.spinnaker.orca	keiko-redis-spring	main-10		2d4468017be7612abaecd2ec89ca3be5012b9a48
+io.spinnaker.orca	keiko-redis-spring	main-11		099df2d13111ea4de82133936e248ff9ed4769e5
+io.spinnaker.orca	keiko-redis-spring	main-12		12faa71e35c8adcaad8b046bebab45b3bfd3ac4d
 io.spinnaker.orca	keiko-redis-spring	main-5		02c586aadf1d7f1aee3f9dcf289de669bdd52daa
 io.spinnaker.orca	keiko-redis-spring	main-6		258cc2c32a07ace3c00f3b61dc3995cf48f96ac5
 io.spinnaker.orca	keiko-redis-spring	main-7		37b1a17b9974fa4fab7851f59410c030d8cdafda
 io.spinnaker.orca	keiko-redis-spring	main-8		eb34485bcd10dd3c686c2a2a4b3d0f26c6b235ea
+io.spinnaker.orca	keiko-redis-spring	main-9		1fff3b45707c2bf48785ec93086c99a1372f808c
 io.springboot.plugin	captcha-spring-boot-starter	2.2.3		b9555ebe77333db3aabeb86106a8710140687b04
 io.telereso.kmp	core-test-jvm	0.10.0-alpha.1		8503f62163a9168a9e618f17c8af66a4cdfa69d0
 io.telereso.kmp	core-test-jvm	0.20.0-wasm.1		30b04f2f7e8b2d75e3324d005b34b6004e0ee90b
@@ -1539,10 +1552,17 @@ org.finos.legend.engine	legend-engine-xt-sql-pure	4.8.0		94288f7998d9f27f32c708d
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.80.0		e6203baaf2a056947bb1d65d8b9be8656e459917
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.81.0		4b626b1cf244d5291d16370d3a3768ae150e9ed2
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.82.0		2a6ca5be2a303fe85f9f35341f3f7229efbfb827
+org.finos.legend.engine	legend-engine-xt-sql-pure	4.82.1		5378643ed63ba6bdc496c1a95f18c69c30d45043
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.83.0		1461489941064a31e7253ee38765e97b851cb0cb
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.83.1		f81954b5f9050430efa2c0549c3c7371c8047a38
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.83.2		99b1cd27c9d9ca6794b683deaa088d488f796c6d
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.83.3		9fdf822c77bdc097742d39dcd759bb9510755c78
+org.finos.legend.engine	legend-engine-xt-sql-pure	4.84.0		e1a3cca08bf60edaed65f85e5ddc8c98a1349302
+org.finos.legend.engine	legend-engine-xt-sql-pure	4.84.1		40a3b8aa31734ecbf3631e00e8d3334b88959cbf
+org.finos.legend.engine	legend-engine-xt-sql-pure	4.85.0		59d5c663d508fb4fcd58161901eef1c43e4717f0
+org.finos.legend.engine	legend-engine-xt-sql-pure	4.85.1		1714f9f158332c45194bb4e072d6ccd84de67193
+org.finos.legend.engine	legend-engine-xt-sql-pure	4.85.2		8fdac4646c55202c7c0118b2a73670fe1ec80aef
+org.finos.legend.engine	legend-engine-xt-sql-pure	4.85.3		015000c801ab237c7c5e75611efe085791bcbf4d
 org.finos.legend.engine	legend-engine-xt-sql-pure	4.9.0		4ead2082464e4d053b3ad0254178f0f79a85fac4
 org.glavo.hmcl.openjfx	javafx	18.0.2+1-arm64		N/A
 org.glavo.hmcl.openjfx	javafx	19-ea+10-loongson64		N/A
@@ -3746,7 +3766,18 @@ software.amazon.awssdk	machinelearning	2.31.30		a97331979c4a6cbbb82eba2097186e02
 software.amazon.awssdk	machinelearning	2.31.31		df5e3d7f3212b3e92cfa48e2f09e0981c4dc9cbc
 software.amazon.awssdk	machinelearning	2.31.32		312bae9d0454aae0e479b4b2043198a21b0d93ef
 software.amazon.awssdk	machinelearning	2.31.33		c5e014a04f6f0f09152b5ad59d4229f93f00e984
+software.amazon.awssdk	machinelearning	2.31.34		d127034ba4fcd78f3101367e21d806d7bf3bf294
+software.amazon.awssdk	machinelearning	2.31.35		9fe826773ba9ca4e4ccd87498aad8dee8647c4f3
+software.amazon.awssdk	machinelearning	2.31.36		c613ec4a752ef24251f5ee80676a4a3c688e7cd6
+software.amazon.awssdk	machinelearning	2.31.37		beb95c5b9485252439c2b483819815afdd91306f
+software.amazon.awssdk	machinelearning	2.31.38		946c3a9bedcec2ef356d7d5daba21852d2ade377
+software.amazon.awssdk	machinelearning	2.31.39		cb13ba310f6d7f9e3aacf7dec45e692bf696f280
 software.amazon.awssdk	machinelearning	2.31.4		990b3f1b41ac103b06cee18f8ef4bc60cc1f8f54
+software.amazon.awssdk	machinelearning	2.31.40		d16df51dde7a92cfb3be4d55403ef75ce3705bc5
+software.amazon.awssdk	machinelearning	2.31.41		9c149dd55f1c39ad4d7cd8dd8b15564bb4189936
+software.amazon.awssdk	machinelearning	2.31.42		1a01f7c78f0c0ca95e97b5fbfc6896f7f9b35509
+software.amazon.awssdk	machinelearning	2.31.43		0beca4f123bf416ed48d34f13d938f61da2c94cf
+software.amazon.awssdk	machinelearning	2.31.44		74e2e1ee655c56103ded559a908c1499359727ea
 software.amazon.awssdk	machinelearning	2.31.5		c697bc5429b35977b957964b7cc9ceb7344b2efe
 software.amazon.awssdk	machinelearning	2.31.6		24903fc1d40d0b5303fc4606bb219ad8f905af68
 software.amazon.awssdk	machinelearning	2.31.7		39bdbdced18c9e9807b1ec8747d7ce145e2a38e5
@@ -3922,6 +3953,7 @@ software.amazon.awssdk	machinelearning	2.9.9		45ed914d426a45d398b5e86d8728285e89
 tools.jackson.module	jackson-module-scala_2.12	3.0.0-rc1		632353118693a722d4641bbc8dc178bb5c2e6df9
 tools.jackson.module	jackson-module-scala_2.12	3.0.0-rc2		fc549c8abaa5999b4db5481c1141fae1a445fe03
 tools.jackson.module	jackson-module-scala_2.12	3.0.0-rc3		4ac837875f719eaad9773e07195d13cac6727520
+tools.jackson.module	jackson-module-scala_2.12	3.0.0-rc4		37ad1f51f053f2b46a9ab076d8f58032db6c30aa
 tz.co.asoft	symphony-collections-watchosarm32	2.0.17		N/A
 tz.co.asoft	symphony-collections-watchosarm32	2.0.17	metadata	a641ff96476b4448e6c9dbc313ceb57e1266cb21
 tz.co.asoft	symphony-collections-watchosarm32	2.0.18		N/A

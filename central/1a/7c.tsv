@@ -672,6 +672,7 @@ io.quarkus	quarkus-reactive-mssql-client-deployment	3.15.2		888ffd2ca045b187b7a5
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.15.3		3b493eba4b07029690da38764d8bf963f6dfed32
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.15.3.1		0a1e542f11005c48d2305eb3b1954995086e2b60
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.15.4		158645ea368d288828e7fc9b21b6acf1578c9cd1
+io.quarkus	quarkus-reactive-mssql-client-deployment	3.15.5		a6c9efe4c35c7b9d26b9c86732950bb65e0e17d3
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.16.0		6beb786ede21b213456e87d60de7cc990ef03d52
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.16.0.CR1		5b7c96ef8e55594e29adc8645c76589c95de73e0
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.16.1		fd7412d70f83540d9d555bd4c7006aeca1fe104d
@@ -716,6 +717,7 @@ io.quarkus	quarkus-reactive-mssql-client-deployment	3.2.8.Final		2e71233f67cad78
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.2.9.Final		ce98efdf6858801a941ceca75bc7e2464d99903b
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.20.0		86811c29e0b1f41ea49a138ff2e19900d3fd7f24
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.20.0.CR1		c042b16ec9558317cf67b076a55829e827cc8c0f
+io.quarkus	quarkus-reactive-mssql-client-deployment	3.20.1		7cfd1ed0de0a2da0102dc412e6aa7be1ea10d1dd
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.21.0		34397c256f9a441aa1281efe64070007c998c557
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.21.0.CR1		a4088fdfc666413f334664b589c12635559649ed
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.21.1		945819b1266a820781f64984c726c9f0bbe6c9a7
@@ -725,6 +727,9 @@ io.quarkus	quarkus-reactive-mssql-client-deployment	3.21.4		10efc17571111f9f3dcd
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.22.0		07bdd243c3c76e113e6639e55bee23e82550338c
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.22.0.CR1		4a8b3536d1b82347bdf9ab9d98c48f71977e5131
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.22.1		837a2abaa5f36141b64e157f7e14ca883a021fa2
+io.quarkus	quarkus-reactive-mssql-client-deployment	3.22.2		fca07c68d94a3bf3a7a3ee1b2b12d3794190ad79
+io.quarkus	quarkus-reactive-mssql-client-deployment	3.22.3		af4769d38e6cd3bac2e31ab8d4a105feb9bf6eeb
+io.quarkus	quarkus-reactive-mssql-client-deployment	3.23.0.CR1		98be1db354f5b90363f621ebf44d70f6383aaeb0
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.3.0		33f7ab933d122c096ffa9ea440832522b922a1fb
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.3.0.CR1		6ba68e3e4d0e033fde265af44a62c4afd64cbb36
 io.quarkus	quarkus-reactive-mssql-client-deployment	3.3.1		20499703e8550184fad3484af940846fc8833fd8
@@ -1154,6 +1159,9 @@ org.openforis.collect.earth	collect-earth-sampler	1.21.6		6e979d6869f4c6631301ca
 org.openforis.collect.earth	collect-earth-sampler	1.21.7		a708ccdc381fc56ce84d2e619e6ca696e3b40c02
 org.openforis.collect.earth	collect-earth-sampler	1.21.8		e12d3545bf33bf2c89f37138768fc98099bea6c3
 org.openforis.collect.earth	collect-earth-sampler	1.21.9		a39974de57daadf2a4bf8ace20fcd95334c23c65
+org.senkbeil	sbt-site-generator_2.10_0.13	0.1.0		9089de4f0b77cd51daa034ad64b6f6f42146711b
+org.senkbeil	sbt-site-generator_2.10_0.13	0.1.1		19acc3e898d3558508f29237882ce07c118fd228
+org.senkbeil	sbt-site-generator_2.10_0.13	0.1.2		da5ee831245249b1e45c0fc044abce2d9fea0110
 org.typelevel	fs2-grpc-runtime_3.0.0-RC2	1.1.0-RC3		d93b776fb69b0b4bc5e05201b0a7df9f02ce5e81
 org.typelevel	fs2-grpc-runtime_3.0.0-RC2	1.1.2		9a72f6d8300f5347f5d1103e0f5abd1060199a45
 org.typelevel	fs2-grpc-runtime_3.0.0-RC2	1.1.3		bebba94fc144d6c251daf6e4e43c98d6d198e903
@@ -2641,7 +2649,18 @@ software.amazon.awssdk	mturk	2.31.30		5c55d5ea0215238f612b8c8e85c44deff692218e
 software.amazon.awssdk	mturk	2.31.31		26f1b185aa7317eda281d8ff164a301532496f60
 software.amazon.awssdk	mturk	2.31.32		6f12b36e61cd3967d3f59efa73d2dd267a10a69f
 software.amazon.awssdk	mturk	2.31.33		0096e6227fe6e0fdda7502764fcc6bc6eed20a6d
+software.amazon.awssdk	mturk	2.31.34		634e0f4071345c96e7a4daa6ded8d6e5e6dc3955
+software.amazon.awssdk	mturk	2.31.35		81b832abb121731ee32541f92c8bde0972066c54
+software.amazon.awssdk	mturk	2.31.36		8b962668c8d2a7eb8e576b97a1d8c3dd171b37eb
+software.amazon.awssdk	mturk	2.31.37		61d1cd72399927755f98207d1820638cbc74b19a
+software.amazon.awssdk	mturk	2.31.38		45e93c093a22ca5ef326fc5c0a9772886ffeb56d
+software.amazon.awssdk	mturk	2.31.39		d979d00d1534938e7776929adbc4ad5c92eb7864
 software.amazon.awssdk	mturk	2.31.4		88328be04bc56d345e9f5c2f21008d764d2ce241
+software.amazon.awssdk	mturk	2.31.40		1c67cbd8a80b1214d38e726e0d795072148bed27
+software.amazon.awssdk	mturk	2.31.41		447b4cc98cd9345e237cb25d1ec5515a47d3413a
+software.amazon.awssdk	mturk	2.31.42		61f1facf3979fe81c3b7ecafddd23f4d85d39b9d
+software.amazon.awssdk	mturk	2.31.43		4e890e76a932e17c0e27d091efbe2f0f6278b381
+software.amazon.awssdk	mturk	2.31.44		d3e6e33eb01395e40ac0e197e4f5c0167b406964
 software.amazon.awssdk	mturk	2.31.5		26fd410b6cfbfcdd851455b1ba9c8604fe52c22a
 software.amazon.awssdk	mturk	2.31.6		4163bc6d3eba5bf2251ab11b0fa21b355cdf9bb3
 software.amazon.awssdk	mturk	2.31.7		b8679802b699d6518d17d4654fc970d6c76c14f8
@@ -2842,6 +2861,10 @@ tz.co.asoft	kollections-primitive-tvosarm64	3.0.8		N/A
 tz.co.asoft	kollections-primitive-tvosarm64	3.0.8	metadata	f057699c3affb6b79a208e6517569e784778ecf0
 tz.co.asoft	kollections-primitive-tvosarm64	3.0.9		N/A
 tz.co.asoft	kollections-primitive-tvosarm64	3.0.9	metadata	858efab5286c8820ea03594d883919b506794c54
+tz.co.asoft	kollections-primitive-tvosarm64	3.1.0	metadata	14e29dae0f0bdde29e5f20cfd91634bdcd0f25df
+tz.co.asoft	kollections-primitive-tvosarm64	3.1.1	metadata	9054de85a44e76e227c4e417fae8c80a3453e788
+tz.co.asoft	kollections-primitive-tvosarm64	3.1.11	metadata	a2b053696d0f095ebe03075a7a7d75799b6f6042
+tz.co.asoft	kollections-primitive-tvosarm64	3.1.12	metadata	4c350f96037a7101c49b9391827ae5dbbe08c0be
 uk.co.deloittedigital.opensource	simple-parent-pom	1.0.1		N/A
 xyz.kotlinw	kotlinw-immutator-api-jvm	0.0.6		9bd7367b45c74463c8b9c2671497555c972ab6ae
 xyz.kotlinw	kotlinw-immutator-api-jvm	0.0.7		cdee523eb923d660f09d9eaee93e9438635d5d43

@@ -502,6 +502,7 @@ com.google.api.grpc	proto-google-cloud-spanner-v1	6.90.0		e45be51a4ed4df74937ac4
 com.google.api.grpc	proto-google-cloud-spanner-v1	6.91.0		06adfeb9cc517388b28852b54262c4f6e8b32eaa
 com.google.api.grpc	proto-google-cloud-spanner-v1	6.91.1		0f7e8ddabc57383ce841c2a2ac02cf1039f4adda
 com.google.api.grpc	proto-google-cloud-spanner-v1	6.92.0		8973eeeae5cbb67666b31a3ec828ea444f53bd6b
+com.google.api.grpc	proto-google-cloud-spanner-v1	6.93.0		e461d8deed89bb085b6cf377b2c6f4db2880abac
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.100		2a65fae81e2919cb10efde9baf2b16de8bdbd1dd
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.101		58a300e63972d14a4cde77e11b8b3f76db7bbed4
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.102		829d76bd065d02ceb1af3cabc4c8c2c2e7ef44c0
@@ -549,6 +550,8 @@ com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.143		e8b6bccee2bdceb262032a0258b6a03
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.144		be71247b87c57f09c69e46db0cdb71f6b102d730
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.145		366e81e322d40d3d09a8608f247f3ae627f90542
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.146		7a077675a47b2192b5e8df5ecec939f3deeffdbd
+com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.147		6654c85505dad86c136f114fccf6ae570c7678ba
+com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.148		1114ff0374702f56aa77338240674f0bd057b544
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.61		fe1d0f7e4353a3d479410ca35462dbede42ccb79
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.62		ef28b17fd09c96308227eaa049b2caa55fd135f4
 com.huaweicloud.sdk	huaweicloud-sdk-asm	3.1.63		3acc174164bc3191217d6a714b8d3761d60a9160
@@ -1010,6 +1013,7 @@ io.quarkus	quarkus-oidc-client-registration	3.19.3		8637c41dff1c651ccf90f8b81d8f
 io.quarkus	quarkus-oidc-client-registration	3.19.4		3720ef02646df4a4a30ca2425a13092f2d53fcf1
 io.quarkus	quarkus-oidc-client-registration	3.20.0		be88a6603941d41b800e35715cb801e4585a380f
 io.quarkus	quarkus-oidc-client-registration	3.20.0.CR1		21ddf544e5e1622370d26d9a2c00f4ba90eb8a81
+io.quarkus	quarkus-oidc-client-registration	3.20.1		c4272f8da70359b352f7db4b50e0008124239ebe
 io.quarkus	quarkus-oidc-client-registration	3.21.0		75d7cdcf76ab766bc3539440175dcd721b96c5fb
 io.quarkus	quarkus-oidc-client-registration	3.21.0.CR1		1138d592975bbc563229764e89b3cad9f5113f3e
 io.quarkus	quarkus-oidc-client-registration	3.21.1		4074ed73f98bf5e68b1462a0fde21f837c04876b
@@ -1019,6 +1023,9 @@ io.quarkus	quarkus-oidc-client-registration	3.21.4		e74882afc23595bad03876660a44
 io.quarkus	quarkus-oidc-client-registration	3.22.0		448f4d15242b8be3b9400778a5328833937703fe
 io.quarkus	quarkus-oidc-client-registration	3.22.0.CR1		840e38764a2e944e4914a37c2869d8491a6c6a7e
 io.quarkus	quarkus-oidc-client-registration	3.22.1		7f6153e70141fb59622d735aa53f6ae7712fdc27
+io.quarkus	quarkus-oidc-client-registration	3.22.2		81401d31b3a399d735823afb2d542fc257e456f4
+io.quarkus	quarkus-oidc-client-registration	3.22.3		281ca90ff2a08f1c10690c61778eb97e452b7e8e
+io.quarkus	quarkus-oidc-client-registration	3.23.0.CR1		7c1efb285b0a1fde89023d0e19d3f69dfd92b6ee
 io.scalajs.npm	colors_sjs0.6_2.11	0.3.0.0-RC2		861e2db6f455b0fa8a852e5e31ce090a8cf214d4
 io.scalajs.npm	colors_sjs0.6_2.11	0.3.0.0-RC3		818706897a6ba870ccd161718d37ff12e7463e13
 io.scalajs.npm	colors_sjs0.6_2.11	0.3.0.1		a8faa685649384ce3579dc6d7033ef9acf6584af
@@ -1074,6 +1081,11 @@ it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.2		N/A
 it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.2	metadata	590a3e78f5f2f04ea408b0efc979b1e94b09b18f
 it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.3		N/A
 it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.3	metadata	a703e71966f04514c7698dca369c409e03b270ce
+it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.4	metadata	d4b1a6ba395ab59e879dda242134160aa427f25e
+it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.5	metadata	c740b8ad672c14069103b00d8eae4739429b0a19
+it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.6	metadata	17195861f2bdf50d207b0fa6f4edf500df283fc6
+it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.7	metadata	9c8b7c182e500dac9f610cabb78cbdcf7356916a
+it.unibo.collektive	collektive-test-tooling-iosarm64	24.0.8	metadata	4e490edc47212bb087b23b3c71d264f5d21af669
 net.anwiba.commons	anwiba-commons-reflaction	1.0.0		3f5eac49b16d35b702a3d35b8a03c2ce3858673c
 net.anwiba.commons	anwiba-commons-reflaction	1.0.1		f59ba4e09a41321ddaf8da4ffd43fb788fa92211
 net.anwiba.commons	anwiba-commons-reflaction	1.0.126		285f72a0165b612285bbdd6a549b1d8f1aa01962
@@ -1435,3 +1447,4 @@ org.wso2.carbon.identity	identity-outbound-auth-google	5.1.1		N/A
 org.wso2.carbon.identity	identity-outbound-auth-google	5.1.2		N/A
 software.amazon.app.platform	presenter-molecule-public-iossimulatorarm64	0.0.1		N/A
 software.amazon.app.platform	presenter-molecule-public-iossimulatorarm64	0.0.1	metadata	905e95346cbd0b0fcf76c472d882d835ef87d821
+software.amazon.app.platform	presenter-molecule-public-iossimulatorarm64	0.0.2	metadata	469a0f82fb9786f7458c1310cdbc3df2d3cf5666

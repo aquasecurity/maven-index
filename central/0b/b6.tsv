@@ -1,4 +1,6 @@
 be.doeraene	scalajs-jquery_sjs1.0-RC2_2.13	0.9.6		7453c0347c2da3da6724bbef3c1bc8616385b5b6
+cc.protea.crmtext	crmtext	.1		94f56aeaed2b83a10f8e990c6b2cb1591103876c
+cc.protea.crmtext	crmtext	.1	jar-with-dependencies	455ced1ce90e09fd9b2453fb2c2a15321d161756
 cc.protea.crmtext	crmtext	0.1		99a84fcac0453425f27ecec28c9eee1652766b21
 cc.protea.crmtext	crmtext	0.1	jar-with-dependencies	31df67844920daec12e2dd6e66eb132137921200
 cc.protea.crmtext	crmtext	0.2		b5f61956edd021185b5685f537027576158e7556
@@ -1086,6 +1088,7 @@ org.apache.tomcat	tomcat-util-scan	10.1.36		69b05e4bf696a14efa5af4493f464954163e
 org.apache.tomcat	tomcat-util-scan	10.1.39		d071df1825e53060f628efee3afb4cd5705f6b1c
 org.apache.tomcat	tomcat-util-scan	10.1.4		26ff20b8e52a2f1608e4ec552599d21ee8152c7e
 org.apache.tomcat	tomcat-util-scan	10.1.40		e24d8c287147b73a7f9055cf397c0d059e96b692
+org.apache.tomcat	tomcat-util-scan	10.1.41		a6500e7e90e33f9a6a03a2b8c9d683c978f8e737
 org.apache.tomcat	tomcat-util-scan	10.1.5		0820fd123421444ab476b8755229a7e8b2954737
 org.apache.tomcat	tomcat-util-scan	10.1.6		c601e3ed09120540ab3f59815183f0236234b6b1
 org.apache.tomcat	tomcat-util-scan	10.1.7		2d870c1bc0a5919fff868134e1b8939d64ae4ddf
@@ -1121,6 +1124,7 @@ org.apache.tomcat	tomcat-util-scan	11.0.3		ea3dc21dc59d54c41c4d63e9fac276a4c6458
 org.apache.tomcat	tomcat-util-scan	11.0.4		284fcb38355494c89076aabe93b283f0b32336c6
 org.apache.tomcat	tomcat-util-scan	11.0.5		7f288c2b436e84e629097fe00d869f11e0981306
 org.apache.tomcat	tomcat-util-scan	11.0.6		928c84d38b41ee6caeee08adc796601125ca2153
+org.apache.tomcat	tomcat-util-scan	11.0.7		708187625d494c4f12524959f2a9c840edffebcc
 org.apache.tomcat	tomcat-util-scan	8.0.0-RC10		c5a7479e972b0432e51a3b591d7d9f340e65d6ff
 org.apache.tomcat	tomcat-util-scan	8.0.1		3d579ee315b0b0009fc596443c9fb8742e58399e
 org.apache.tomcat	tomcat-util-scan	8.0.11		efe49f3e4a593e695f3e5a5ff2cfadcdea9e3c00
@@ -1272,6 +1276,7 @@ org.apache.tomcat	tomcat-util-scan	9.0.10		f29471b3225af6af1b48b9b4d7807dbdf58dc
 org.apache.tomcat	tomcat-util-scan	9.0.100		3d8bb950e42b578a60c190c2fa44f67d886f4bfc
 org.apache.tomcat	tomcat-util-scan	9.0.102		81bf5779bc147e9187557a8e962ec1fd793abac7
 org.apache.tomcat	tomcat-util-scan	9.0.104		4a315c4769a41aeb3d86b0f9fd21f4f37849fe81
+org.apache.tomcat	tomcat-util-scan	9.0.105		304c1aabf3cb27e8e13ec052a843ea6010f0a3a4
 org.apache.tomcat	tomcat-util-scan	9.0.11		0b9994b2f867ad1b42b8ab88241b533b7870a061
 org.apache.tomcat	tomcat-util-scan	9.0.12		84d39974e768d0d7a98b138bec5b0b725fc79b0f
 org.apache.tomcat	tomcat-util-scan	9.0.13		dbea6e592056644f53d71c0910e1ba05d6a5f4f9
@@ -1422,6 +1427,19 @@ org.eclipse.dirigible	dirigible-components-ui-service-transport	11.41.1		1618802
 org.eclipse.dirigible	dirigible-components-ui-service-transport	11.42.0		90983fba4b5b5bff016f04358633ea31cc93b639
 org.eclipse.dirigible	dirigible-components-ui-service-transport	11.43.0		d5a0e820818bed9f143bbfc0c4994f8ef5caad44
 org.eclipse.dirigible	dirigible-components-ui-service-transport	11.44.0		da0fef9cd76a8c5b908c2143a44dde28fa6266c8
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.0		af10fc5de73aca2234907f0c641704a29adb16b7
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.1		60264985f308c9b242f28380ee34c16747772330
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.10		9ff8707470c42d5e31478703d9f815d8b34d1840
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.11		0c23e6d9f0c96de4a1c6ebb780d6e7e9d57da4b1
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.12		dae21290663d9df443ce138fe701174781b93c32
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.13		9e8e7fc060cf5da6c8cabd7dd4eac198a2dc114c
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.3		761254205474bb029d0a04aa0cb40fe5efde8030
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.4		ef25acbcea6cabdb66c6f1e3cfcf8b04a25d6967
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.5		eedfbeb19fe36ff49efb360d032139bcc50fdce3
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.6		a8cfdf64ec8cfd53666bc7dc86d06cc58a0f927e
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.7		1698c1611ce810560874ead7c882abdf780d7a64
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.8		97bd066538c47a52adc1628214f658fef395fdda
+org.eclipse.dirigible	dirigible-components-ui-service-transport	11.45.9		9447179c4cd09490d24c78f665728406fc69fa93
 org.eclipse.dirigible	dirigible-components-ui-service-transport	11.5.0		cfeb46de681532f58cec0daecb3dd8f0e50664ed
 org.eclipse.dirigible	dirigible-components-ui-service-transport	11.6.0		09596ca534e472ffe1c4e793c0ce8850e28ff592
 org.eclipse.dirigible	dirigible-components-ui-service-transport	11.6.1		256196bb1bc70728e27de6710af633459fecd6bb

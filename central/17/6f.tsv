@@ -130,9 +130,11 @@ com.51degrees	pipeline.web	4.4.63		59df1c9560b318f74b6d072a9e5c0b5ab70f5f7e
 com.51degrees	pipeline.web	4.4.64		c6d7e04131a5338a1e0c676045e294b43908c6fa
 com.51degrees	pipeline.web	4.4.65		dbbeef718cacb79c1334ba20169ed91aa48b39cf
 com.51degrees	pipeline.web	4.4.66		17e5d00e5599486d7d34f229085652840fde0003
+com.51degrees	pipeline.web	4.4.67		a73d8f9fb4db9ee910e26f8792b92031c6097eaf
 com.51degrees	pipeline.web	4.4.7		c6e70bfbbd60af7d354177025c275e64c0b4b415
 com.51degrees	pipeline.web	4.4.8		9c76ded530e8f1e03eabe37d8ad5b2afcf4c89e1
 com.51degrees	pipeline.web	4.4.9		e0c68f6b65239945b61341a8ecd47ae7b3a7d7c1
+com.51degrees	pipeline.web	4.5.0-alpha.1		39e489fa606232e8bf75f9b823eb3b2e5dd7e637
 com.aliyun	aliyun-java-sdk-iot	1.0.0-20210309		66039193350294bfca8e2473bc6c65755256ba5e
 com.aliyun	aliyun-java-sdk-iot	1.8		62ea74a75b6af0158743d7d0878192c0397e4c46
 com.aliyun	aliyun-java-sdk-iot	2.0.0		69e1e99bbe697125991f3de6555b74d98ca3a1c5
@@ -528,6 +530,9 @@ com.github.ifrugal	mongodb-persistence	1.0.20		73b71d15e9afabf7330d58cc376e93dd3
 com.github.ifrugal	mongodb-persistence	1.0.21		5e85d6f48ece6625bf085228c831a3b404827bf8
 com.github.ifrugal	mongodb-persistence	1.0.22		19d4577626bf62338a60255a5be6dd212be98896
 com.github.ifrugal	mongodb-persistence	1.0.23		bf5bf5f8b552a0c409848d4dbc57bacf0d40908a
+com.github.ifrugal	mongodb-persistence	1.0.24		021a03d6b933cffd8400b841d93de45cc281267a
+com.github.ifrugal	mongodb-persistence	1.0.25		36747bdc78f55a0b8f2875d9b6d9ccb5f5cff30d
+com.github.ifrugal	mongodb-persistence	1.0.26		2317516f42d360d95569f7102a5a057b30adab34
 com.github.ifrugal	mongodb-persistence	1.0.7		b1c80f9706cdc5898e0bc325f2d0597971227c80
 com.github.ifrugal	mongodb-persistence	1.0.8		28b12d9d38effe1901a932b84232fbc1e4469812
 com.github.ifrugal	mongodb-persistence	1.0.9		586645a490827f7743cf329e405b89320473f58e
@@ -614,6 +619,7 @@ com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	5.3.0		648b7c3699af4
 com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	5.3.1		d47e96fe556b0ad6293c582675ebc066ad1aebd3
 com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	5.3.2		955b5abb6559cf2aa7660be380d0eeeed901cc29
 com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	5.4.0		9ba8d7f756a26445c92809482d51b3d74009b350
+com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	6.0.0		4786e5d24113b86f65a8b07b0df7cf5f10997c6c
 com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	6.0.0-alpha2		1d4f0381137b80cc4588d2fd527884b647abbe70
 com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	6.0.0-alpha3		679e2b4dcca984fe673c29e56aefaf5ad5bf10a6
 com.soywiz.korlibs.korge.plugins	korge-gradle-plugin-common	6.0.0-alpha4		bb3507921a2678dd629a5e0b7c68cab1d29b20e2
@@ -1064,6 +1070,7 @@ org.apache.camel.quarkus	camel-quarkus-influxdb	3.2.1		4ef657b13c86127c7e3ce6c54
 org.apache.camel.quarkus	camel-quarkus-influxdb	3.2.2		c5d7ff81b68860a85615f9cf08fa95f590497600
 org.apache.camel.quarkus	camel-quarkus-influxdb	3.2.3		4194525998bb6044994c11c367a8382f72ce6645
 org.apache.camel.quarkus	camel-quarkus-influxdb	3.20.0		f48e1b221f9db1712cb50d92074f8d9d01958a97
+org.apache.camel.quarkus	camel-quarkus-influxdb	3.20.1		b1c78512eff9d1373adffc1bea70b052c6527470
 org.apache.camel.quarkus	camel-quarkus-influxdb	3.22.0		ce7c3b1d033bd85dea3cb6eba6639f5ffcc794a7
 org.apache.camel.quarkus	camel-quarkus-influxdb	3.4.0		3032839e4149848c58a10ae4e0540138778521fb
 org.apache.camel.quarkus	camel-quarkus-influxdb	3.5.0		c6c39b9000cf9eaef196f21388db1736d8a9ef97
@@ -1145,6 +1152,8 @@ org.eclipse.apoapsis.ortserver.config	secret-file	0.1.0-RC9		740ed5bf5eb442fa527
 org.eclipse.apoapsis.ortserver.config	secret-file	0.2.0		5824db5d67d6b0a9a4591da584abef8860ee339c
 org.eclipse.apoapsis.ortserver.config	secret-file	0.3.0		76b1d93bd77d2f09f5d079e78973912950d4d399
 org.eclipse.apoapsis.ortserver.config	secret-file	0.4.0		771d4abf63cac997850ba89259ba90fae8f0a64c
+org.eclipse.apoapsis.ortserver.config	secret-file	0.5.0		0f2142e9a07505b15207a756618d6a38cbcab67e
+org.eclipse.apoapsis.ortserver.config	secret-file	0.6.0		b59bf5950761c7365ba93c32ef2fd8ef0b9c73cd
 org.fluentcodes.ihe	gen-fdv-json-testtreiber	0.2.1		f741bf9b44d318c8519d9203dc79d8b7de4973ee
 org.fluentcodes.ihe	gen-fdv-json-testtreiber	1.1.1		04e935a1dcccb44987cb3387019adcbf9d51993d
 org.fluentcodes.ihe	gen-fdv-json-testtreiber	2.0.4		111675195843dfe4952470061e7edf7c3f4f372c
@@ -1621,6 +1630,7 @@ org.webjars.bower	flow.js	2.14.1		2108949725b462a743e5b70acaeb7e7adf380787
 org.webjars.bower	flow.js	2.9.0		f09739933126166f57b681d5bbe326e8de604b02
 org.webjars.npm	dnd-kit__utilities	3.2.0		f1364eb3b8d152b973f2a796bf5fac2a5a619188
 org.webjars.npm	dnd-kit__utilities	3.2.2		83e73f07015155a428a1c8d9da510dfcf7b4f2e8
+org.webjars.npm	umbrellajs	3.3.3		9e7ef883c16f8bdf0d7538457a9395971b8360cf
 org.wso2.carbon.extension.identity.authenticator.outbound.duo	org.wso2.carbon.extension.identity.authenticator.duo.feature	1.0.12		N/A
 org.wso2.carbon.extension.identity.authenticator.outbound.duo	org.wso2.carbon.extension.identity.authenticator.duo.feature	1.0.2		N/A
 org.wso2.carbon.extension.identity.authenticator.outbound.duo	org.wso2.carbon.extension.identity.authenticator.duo.feature	1.0.3		N/A

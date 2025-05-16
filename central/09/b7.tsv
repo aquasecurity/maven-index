@@ -338,7 +338,16 @@ aws.sdk.kotlin	networkmonitor-jvm	1.4.73		2de03bbf1f8f6762342ca42c024a6be02ece8a
 aws.sdk.kotlin	networkmonitor-jvm	1.4.74		525371097ea2b857369bcaac478c31a0d0c74ca3
 aws.sdk.kotlin	networkmonitor-jvm	1.4.75		8412a2540db0984605299aba3f5663dad01d20ef
 aws.sdk.kotlin	networkmonitor-jvm	1.4.76		52c37bba1064a4f5983b1ce524d610e89cc1c9a0
+aws.sdk.kotlin	networkmonitor-jvm	1.4.77		e1ebddb74f375d67fee6d1e97215967ca0291bdd
+aws.sdk.kotlin	networkmonitor-jvm	1.4.78		88fb9a5eca51c4b2536fa69cd3c5a32df37a8a5d
+aws.sdk.kotlin	networkmonitor-jvm	1.4.79		1ff565595dd9e2a8225234afaa89f64c5457f2d3
 aws.sdk.kotlin	networkmonitor-jvm	1.4.8		b7c7b32945c5a871bfcabc0f46ea28d51bb361e5
+aws.sdk.kotlin	networkmonitor-jvm	1.4.80		bf6a96d05857951755113ca8bdc0130e0a472b2d
+aws.sdk.kotlin	networkmonitor-jvm	1.4.81		12e64d71ebd808fb51fad17c230591872fb76d6e
+aws.sdk.kotlin	networkmonitor-jvm	1.4.82		2c45caee8563dd4f4c327246a581622645efdaae
+aws.sdk.kotlin	networkmonitor-jvm	1.4.83		7defa2cf818ada90f64f80fcb8fe29c344990d23
+aws.sdk.kotlin	networkmonitor-jvm	1.4.84		49d5cf7c29ddccd34e0944a21df02f333edabf55
+aws.sdk.kotlin	networkmonitor-jvm	1.4.85		36c71a2737f5d1f50b454746cbb8d06f06bc1677
 aws.sdk.kotlin	networkmonitor-jvm	1.4.9		34b51ccf60956a5545f9cce1405f4b2ec5614b7d
 biz.aQute	biz.aQute.scheduler.basic.provider	1.6.0		29279B50FC837A87F1CBC503CBB0AAE3A7B19EAF
 biz.aQute	biz.aQute.scheduler.basic.provider	1.7.0		111A8E25F84AF88764F43093128EBF7521572602
@@ -543,6 +552,7 @@ com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.18.0-rc1		eeb57596e11532996efa4
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.18.1		948df3e3cb073fc46ebadfb6384b2dd2b8972fc9
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.18.2		6e58fa4859da54617035ac5812719e8333f97e8c
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.18.3		97998cf60562d69fada50d0fa25b85777b2ad8c9
+com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.18.4		581fa13ce347dfdc8d2c036d347ec95ca6bf763e
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.19.0		a5baa0199d58a4da6c40f2bef6757f613a2c4afd
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.19.0-rc2		3465e872dec8431523768b7a77995833a38860f2
 com.fasterxml.jackson.jaxrs	jackson-jaxrs-base	2.2.0		d8bca37397157957b875f463cc05dccdec70467e
@@ -1304,6 +1314,7 @@ io.automatiko.addons.services	automatiko-send-email-addon	0.41.0		2cb7bf80d9b949
 io.automatiko.addons.services	automatiko-send-email-addon	0.42.0		b06c4a5b1000268d542c68b69e3d250905dd8daa
 io.automatiko.addons.services	automatiko-send-email-addon	0.42.1		f5f60d168494ed7a6bc0b9e8bde8d1a4288763ba
 io.automatiko.addons.services	automatiko-send-email-addon	0.42.2		df75f57da152dd92c4e7d31ade3019a588ba4922
+io.automatiko.addons.services	automatiko-send-email-addon	0.43.0		685840ff9aa08414c865b0d71444d2d81baad319
 io.automatiko.addons.services	automatiko-send-email-addon	0.6.0		e71f59b2c5f9d3b7dee54f329e1e5687d1e2f0b0
 io.automatiko.addons.services	automatiko-send-email-addon	0.7.0		43001b69c2faa0aba659d3e27bf49f93b424d1ef
 io.automatiko.addons.services	automatiko-send-email-addon	0.8.0		67bb44e5f53de279f9e605a6b665230bd0448f37
@@ -1354,6 +1365,7 @@ io.fabric8	open-cluster-management-client	7.0.0		df2ac51bf99e021ef7c682f07c3e769
 io.fabric8	open-cluster-management-client	7.0.1		3fdbdb6f7a9a64d037855e21ec6eed49b0b82560
 io.fabric8	open-cluster-management-client	7.1.0		acb0d8b0596518a0b0753900cfd00bd091df0867
 io.fabric8	open-cluster-management-client	7.2.0		cf85ed016495f8ec6fc7a4f541ec40ec3cc35710
+io.fabric8	open-cluster-management-client	7.3.0		c74e302e70da2dbf961b1e3824ab94673053d9c0
 io.fabric8	process-spring-boot-bom	1.1.0.CR2		N/A
 io.fabric8	process-spring-boot-bom	1.1.0.CR3		N/A
 io.fabric8	process-spring-boot-bom	1.1.0.CR4		N/A
@@ -2212,6 +2224,7 @@ org.wildfly.security	wildfly-elytron-sasl-otp	2.1.0.Final		2e218fc0ac062509800f0
 org.wildfly.security	wildfly-elytron-sasl-otp	2.2.0.Final		79fa5e70fe63f874ebf723bea16b101932c0b433
 org.wildfly.security	wildfly-elytron-sasl-otp	2.2.1.Final		79bc364319eb90d767864ed0740cc5949612fea6
 org.wildfly.security	wildfly-elytron-sasl-otp	2.2.10.Final		92ef5e0c748ff1a50f3f140dfaa49c4cf10648a0
+org.wildfly.security	wildfly-elytron-sasl-otp	2.2.11.Final		70768dc1a9ba153abb535d47c4b3e4f26f9bcd1d
 org.wildfly.security	wildfly-elytron-sasl-otp	2.2.2.Final		d768d17cc4a8e769c017426914690b6e1209cdb3
 org.wildfly.security	wildfly-elytron-sasl-otp	2.2.3.Final		8e54de2ce961e437e8da6433c024bdf9d009c4f1
 org.wildfly.security	wildfly-elytron-sasl-otp	2.2.4.Final		429d1256ce8f1a951f1472b7bf25c2805907b2ec
@@ -2234,6 +2247,7 @@ org.wildfly.security	wildfly-elytron-sasl-otp	2.6.0.Final		59ca3058000eb2a70ce4c
 org.wildfly.security	wildfly-elytron-sasl-otp	2.6.1.Final		e0b732dcbc67defe2b8d9382ef306adb64d798bd
 org.wildfly.security	wildfly-elytron-sasl-otp	2.6.2.Final		4786908acbd8e22e7330b734e4ca68875a325866
 org.wildfly.security	wildfly-elytron-sasl-otp	2.6.3.Final		c69c318f131f3c5c1d9bf3f3eeb3fd6bd38fb0d1
+org.wildfly.security	wildfly-elytron-sasl-otp	2.6.4.Final		a041686c94d77d7ff7dfac6ae1bf82d2da10f4b3
 si.inova.kotlinova	navigation-compiler	3.0.0		82dc6ebbd5721337c011725a98d6e923d2cf3671
 si.inova.kotlinova	navigation-compiler	3.0.0-alpha10		3948fcbd2d04838687ac11825e8577fa6877bb6d
 si.inova.kotlinova	navigation-compiler	3.0.0-alpha11		00e2079e8fd846bcd41766b9af47ee5e3598a461
@@ -2328,6 +2342,7 @@ team.razz.eva	eva-persistence	0.7.4		27099f4a3b178e8f62cec242d4fa5911104a6540
 team.razz.eva	eva-persistence	0.7.5		27099f4a3b178e8f62cec242d4fa5911104a6540
 team.razz.eva	eva-persistence	0.7.6		27099f4a3b178e8f62cec242d4fa5911104a6540
 team.razz.eva	eva-persistence	0.8.0		27099f4a3b178e8f62cec242d4fa5911104a6540
+team.razz.eva	eva-persistence	0.8.1		27099f4a3b178e8f62cec242d4fa5911104a6540
 tech.codingzen	kotlin-file-watcher	0.0.0		12e6a489978980cf44ecc7af4a16462c2e66e5f7
 tmporb	tmporb-orb	1.0		N/A
 tmporb	tmporb-orb	1.0	DEAD	3be76f01c110fb237d4f1408092f99d9cd849f72

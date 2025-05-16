@@ -160,6 +160,8 @@ cn.hutool	hutool-socket	5.8.9		bcd0a695a9c6df6d2b51ca45ff7cb4d49ebc60db
 com.amazon.android.amazonpay	AmazonPayAndroidSDKCommonLibrary	1.3.3		N/A
 com.amazon.android.amazonpay	AmazonPayAndroidSDKCommonLibrary	1.3.4		N/A
 com.amazon.android.amazonpay	AmazonPayAndroidSDKCommonLibrary	1.3.5		N/A
+com.beamly	sbt-aws-lambda_2.10_0.13	1.0.0		1a82cb2698f975d933331fce3877c79dae53c5b6
+com.beamly	sbt-aws-lambda_2.10_0.13	1.0.1		1ad4794fd3b5fe9be55dbfaa61b68eb549fe73c2
 com.dimafeng	testcontainers-scala-redis_2.12	0.41.1		b38644560bcffa37f24598fa30854ac5ae63cfd1
 com.dimafeng	testcontainers-scala-redis_2.12	0.41.2		545ca098d7acd06aae305a9031ab8655dc0add01
 com.dimafeng	testcontainers-scala-redis_2.12	0.41.3		b1f57fbda599cc2226b1310ee9852aa82349be9f
@@ -477,6 +479,7 @@ io.camunda	zeebe-auth	8.4.15		9d5b19e34cbd4c52e5149c39f0b1f8d9c88e1686
 io.camunda	zeebe-auth	8.4.16		ee117d93baac0012c56d5b929d225afb7cb8cc32
 io.camunda	zeebe-auth	8.4.17		5732b53be34cdd18586c6f078847ba2f5cb0d343
 io.camunda	zeebe-auth	8.4.18		4e93d5584ce0e97569bfca57325eb76adc4fed4b
+io.camunda	zeebe-auth	8.4.19		b60bbd8de5b16a1aee4d58809f4b46c1fda2741a
 io.camunda	zeebe-auth	8.4.2		c1d3fbf04dfa33f23b191910aba3b28c32a8e062
 io.camunda	zeebe-auth	8.4.3		7d3d141cebdb6f3ddff2cdd9a3c9840c13704cea
 io.camunda	zeebe-auth	8.4.4		5d797247ad8178d51242d67c318603017adfac1d
@@ -499,6 +502,7 @@ io.camunda	zeebe-auth	8.5.14		191f615ee69237e56e5409502f4278efca266b93
 io.camunda	zeebe-auth	8.5.15		3a9b837160961fb2c231a7b8e34a01f4cbd21d06
 io.camunda	zeebe-auth	8.5.16		ab7b0a877fdc0379dc226016d76b51375ba98954
 io.camunda	zeebe-auth	8.5.17		33dece42dc68576af54faea3d0c20fc9e043fe50
+io.camunda	zeebe-auth	8.5.18		6f8d371ae28fd4c67a1e1e054b73cf3765837502
 io.camunda	zeebe-auth	8.5.2		a9ab9d12fb4e1944c98124790e08156fb7dec670
 io.camunda	zeebe-auth	8.5.3		b54516e8df8641c184ae4c2ccd1c355e345761c3
 io.camunda	zeebe-auth	8.5.4		b6f7dae8a2d6166a69d2dc1ea248a5635b4b4bd5
@@ -536,6 +540,8 @@ io.camunda	zeebe-auth	8.6.12-rc1		ec6a45ba6a2e20afe2632963e6776ad8f806205f
 io.camunda	zeebe-auth	8.6.13		7e376b7dd76b5c751f0d6650b17d8873197ff344
 io.camunda	zeebe-auth	8.6.14		b526d021de17547113e15976a653b76aa5e38833
 io.camunda	zeebe-auth	8.6.14-rc1		c8363257147296efe112c007925791787274cb8a
+io.camunda	zeebe-auth	8.6.15		5fa03d35840ee18400d3243a75b4a70eae6f8cec
+io.camunda	zeebe-auth	8.6.15-rc1		6beafe60b9208336164da1cfef9e508824c7e87f
 io.camunda	zeebe-auth	8.6.2		b3b8588f4583d002578cc148e5f997a8cb2715af
 io.camunda	zeebe-auth	8.6.3		b77df17eacfd0d71c955ae18155017ad3796c419
 io.camunda	zeebe-auth	8.6.4		ce6a9d61beb17c5c33950f27c609fbde424a8649
@@ -571,12 +577,15 @@ io.camunda	zeebe-auth	8.7.0-alpha5-rc1		8f99e8ab9a42cdc5ff5993e9fd60a5fda0a4ea2d
 io.camunda	zeebe-auth	8.7.0-rc3		040c3dfa7424d86132f42f90aefcfee4828cc45b
 io.camunda	zeebe-auth	8.7.1		4204830ffb77265da4ce3d385bab475a807ef856
 io.camunda	zeebe-auth	8.7.1-rc1		93fc24a10f4d1623586aad05d7bc5971b68602d6
+io.camunda	zeebe-auth	8.7.2		32a168c334e8ce5dfe76fb2e503d2b0911d4a916
+io.camunda	zeebe-auth	8.7.2-rc1		f0a0d9ed87c6396192834172be2e2c815b3b2f21
 io.camunda	zeebe-auth	8.8.0-alpha1		b06ec07434036b6a7c91aa5bceafe8bfdfad4984
 io.camunda	zeebe-auth	8.8.0-alpha1-rc1		9f1a836ac798934985a1b298d1ea62b82e881a43
 io.camunda	zeebe-auth	8.8.0-alpha2		50f801499808c80a653a9095da41cea2961d2b3e
 io.camunda	zeebe-auth	8.8.0-alpha2-rc1		e8008f7ea1a897ff666d0e33999a54b9fc397835
 io.camunda	zeebe-auth	8.8.0-alpha3		d6ed998a71288491b021236d84b3443ffce56422
 io.camunda	zeebe-auth	8.8.0-alpha3-rc3		9b14106eed6c60817a246019af1bb930bb346c48
+io.camunda	zeebe-auth	8.8.0-alpha4		e7303253f0df4cd173f45d9bdd3c08d3405ff9d6
 io.camunda	zeebe-auth	8.8.0-alpha4-rc1		9c36f053864f5883e1895097156549cc362e12b4
 io.data2viz.d2v	d2v-color-iosArm64	0.10.0		N/A
 io.data2viz.d2v	d2v-color-iosArm64	0.10.0	metadata	409db54da15ff89dd7152b26e2530ae419f2bec0
@@ -597,6 +606,10 @@ io.exoquery	exoquery-engine-watchosx64	2.1.0-1.1.2.PL		N/A
 io.exoquery	exoquery-engine-watchosx64	2.1.0-1.1.2.PL	metadata	9cccd9df47f41802084150ed3eca7f030570311c
 io.exoquery	exoquery-engine-watchosx64	2.1.20-1.1.2.PL		N/A
 io.exoquery	exoquery-engine-watchosx64	2.1.20-1.1.2.PL	metadata	5b46cceb3c9091b07c38977f41e154111a77a585
+io.exoquery	exoquery-engine-watchosx64	2.1.20-1.2.0.PL	metadata	73956d764486ad3e2d25eb287c119ba9d4b734e3
+io.exoquery	exoquery-engine-watchosx64	2.1.20-1.2.1.PL	metadata	adcf3cddd6ec732dd6179fc3337a12d46aca53ad
+io.exoquery	exoquery-engine-watchosx64	2.1.20-1.2.2.PL	metadata	6769e5ed0fbacc252e626129d34cef427a54781a
+io.exoquery	exoquery-engine-watchosx64	2.1.20-1.2.3.PL	metadata	e58fec035640c6bc29e240c58479a06cc8ed095b
 io.get-coursier.scala-native	tools_2.11	0.3.0-coursier-1		121ada945ac5f86da260b48ca692a5b6ff9c7b2d
 io.github.3moly.compose-input-mask	compose-input-mask-android	0.1.1		N/A
 io.github.bes2008.solution.agileway	agileway-codec	4.0.0		54cf2c023cd0d156d593458e22c2027ea958a358
@@ -679,6 +692,7 @@ io.ktor	ktor-server-test-host-linuxarm64	3.0.3		29690be6c1cc18547c2fa78a58a0ac8e
 io.ktor	ktor-server-test-host-linuxarm64	3.1.0		09fcdd848f4992fb3e300fc99a86501049499b11
 io.ktor	ktor-server-test-host-linuxarm64	3.1.1		482ab5f3c87fe74b6fe2f74562430124b26ffa8b
 io.ktor	ktor-server-test-host-linuxarm64	3.1.2		b5141a6ca75d01942d9837f14fcbe505968d503f
+io.ktor	ktor-server-test-host-linuxarm64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.lambdacube.component.annotation	component-annotation-properties	1.0		1b5884ee3d48d28f6a6c86e1d9aea522af879822
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-manager-common-android	1.2.1		N/A
 io.matthewnelson.kotlin-components	kmp-tor-ext-callback-manager-common-android	1.3.0		N/A
@@ -1089,6 +1103,7 @@ org.apache.camel	camel-package-maven-plugin	4.8.3		53192b06e9de42c18c5f569d0e91d
 org.apache.camel	camel-package-maven-plugin	4.8.4		68a7bfb71429d12d311c2195b4f18906a954eb3c
 org.apache.camel	camel-package-maven-plugin	4.8.5		b7070f8ff3fc208bcd3abf57674826620ad0b8dc
 org.apache.camel	camel-package-maven-plugin	4.8.6		6f985560bddb3f7b0a3d860b8c0dbbf18993add2
+org.apache.camel	camel-package-maven-plugin	4.8.7		cda5270764b48313d05b2e6c66427919259f0fea
 org.apache.camel	camel-package-maven-plugin	4.9.0		9fc1ffd438d8d5c3a2c6de3e3fe45c944067467c
 org.apache.rave	rave-web	0.10.1		16ae679f3856a09b5ef59e053300c8a91abf8f6d
 org.apache.rave	rave-web	0.11		50f5df2c2e04318d7a979e0b0ee888881f6789ed
@@ -1231,6 +1246,7 @@ org.jetbrains.compose.ui	ui-test-junit4-desktop	1.7.0-beta02		08c21b4cf0376f7655
 org.jetbrains.compose.ui	ui-test-junit4-desktop	1.7.0-rc01		08c21b4cf0376f76552126929f27dfc4041cc736
 org.jetbrains.compose.ui	ui-test-junit4-desktop	1.7.1		08c21b4cf0376f76552126929f27dfc4041cc736
 org.jetbrains.compose.ui	ui-test-junit4-desktop	1.7.3		08c21b4cf0376f76552126929f27dfc4041cc736
+org.jetbrains.compose.ui	ui-test-junit4-desktop	1.8.0		7db5f7e599ef9bb7b9f4be6b19d30c1d02b9c3c0
 org.jetbrains.compose.ui	ui-test-junit4-desktop	1.8.0-alpha01		d73d322d27dddb8aca3c4eaedb21e3523e3218ca
 org.jetbrains.compose.ui	ui-test-junit4-desktop	1.8.0-alpha02		f7c0ddd9a790044e932b47eadd6eb911916fe93e
 org.jetbrains.compose.ui	ui-test-junit4-desktop	1.8.0-alpha03		8d25bbc561aa1bb8e464bf974a6e02ff1f82b4d3

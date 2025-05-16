@@ -390,8 +390,10 @@ com.google.cloud.bigdataoss	util-hadoop	3.0.3		cdd67dedeec6950b4281be90b9f65584b
 com.google.cloud.bigdataoss	util-hadoop	3.0.4		66d3482f7fa4a8bd27eaab1fe1d27225aecaa587
 com.google.cloud.bigdataoss	util-hadoop	3.0.5		25610384b4cb926a3073ec42f98b9316bc340fe3
 com.google.cloud.bigdataoss	util-hadoop	3.0.6		77762b5ace360be1dcd2bec06a53f7ea417241c4
+com.google.cloud.bigdataoss	util-hadoop	3.0.7		9f1c37aa3a55597914b552cb6bc3adc1bcf1972f
 com.google.cloud.bigdataoss	util-hadoop	3.1.0		a97e713355bbdc8662f8b4a449f3b3761408920e
 com.google.cloud.bigdataoss	util-hadoop	3.1.1		b5dc0ca3f39d71d722a0f8d4394fa763a7d9d4e2
+com.google.cloud.bigdataoss	util-hadoop	3.1.2		d6b767ac032391bd721f1a39f64c5fb330e84c94
 com.google.cloud.bigdataoss	util-hadoop	hadoop1-1.9.10		6b7798ae5f632bd465b9d244cab35ce293f7f795
 com.google.cloud.bigdataoss	util-hadoop	hadoop1-1.9.11		8b8b60dee243c38460edff1541fa53e56c97a241
 com.google.cloud.bigdataoss	util-hadoop	hadoop1-1.9.12		bc047193bf4a82fda771cac69b2b0896a00fee97
@@ -454,6 +456,7 @@ com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.23		707f2198fb49892decbf41e7
 com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.24		f0fbe885e6cf4315e49189b118b0f1acf39ccb66
 com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.25		12a14b5564074a5dfeb6731a0ed37889e8323121
 com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.26		f663c57bf83610feeb89b037a28c0d3d81a98a62
+com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.27		91c369aa0818250df8f7049ddf9bb975eb38a183
 com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.3		e6a54524f37db96e7fa2a609a0807dc22ed39255
 com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.4		aec66590d184d74bb930aa18382addff3849f4da
 com.google.cloud.bigdataoss	util-hadoop	hadoop2-2.2.5		d418f246c286a9472c3412b41ecf8b765641113e
@@ -509,6 +512,7 @@ com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.23		37e280d7313bc55a83f5c2a9
 com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.24		867cef59a8eaca0c56405476ef5d0b25d96948ce
 com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.25		46b2f0aee1195a4e55baaae1ef59160aa953ef1b
 com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.26		0d8955664662609e8bd98b2101f2903d8cd3e75c
+com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.27		e17312f060b17bc26b27ebc8a35f51a0c392381d
 com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.3		c8c3c5e90461945cb580e32c2a52ff95c88192a1
 com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.4		20ab85b61beed389b458c01562938507fcec6128
 com.google.cloud.bigdataoss	util-hadoop	hadoop3-2.2.5		c9a8b3412d5d7ae92b070a40600ee9d22a4da710
@@ -1295,6 +1299,7 @@ com.slack.circuit	circuit-runtime-screen-watchosarm32	0.27.0		N/A
 com.slack.circuit	circuit-runtime-screen-watchosarm32	0.27.0	metadata	d685403c39ed100d004f5ae34880a0e357667dec
 com.slack.circuit	circuit-runtime-screen-watchosarm32	0.27.1		N/A
 com.slack.circuit	circuit-runtime-screen-watchosarm32	0.27.1	metadata	d685403c39ed100d004f5ae34880a0e357667dec
+com.slack.circuit	circuit-runtime-screen-watchosarm32	0.28.0	metadata	0dc7be2661e777bd3af1a0794078300cd6391ee4
 com.trustdecision.android	liveness-lite	2.4.0		N/A
 com.trustdecision.android	liveness-lite	2.5.0		N/A
 com.trustdecision.android	liveness-lite	2.5.1		N/A
@@ -1503,6 +1508,8 @@ io.fabric8	openshift-client-api	7.1.0		8b81d6515dcaf0f1765e87558896848ead87f442
 io.fabric8	openshift-client-api	7.1.0	bundle	bab0d395442d80e7889c82a76497c5bbd38abe87
 io.fabric8	openshift-client-api	7.2.0		99f15cd89319eec18f65ffb0e5626839f4003f53
 io.fabric8	openshift-client-api	7.2.0	bundle	eb7c625a44777412ed82d6f40a6c016e0231f4b4
+io.fabric8	openshift-client-api	7.3.0		2d6fd17502eab9eb9301fa732d5fc40ddf2cb56f
+io.fabric8	openshift-client-api	7.3.0	bundle	10702131de19cfe0e11da24a3bcc2ed01c6f081d
 io.getclump	clump-scala_2.11	0.0.12		a15ed40670401b8144de1c58f4e9f1b5d3c716bf
 io.getclump	clump-scala_2.11	0.0.14		ef109ba70e57cb83b0e965d31e91eb4c58a4ef96
 io.getclump	clump-scala_2.11	0.0.15		da16af037dff794a517c2df2e3d69b48d28f3879
@@ -1673,6 +1680,8 @@ io.ktor	ktor-client-json-watchosarm32	3.1.1		8d6478240c8112872ce9cc8fa9d1f513987
 io.ktor	ktor-client-json-watchosarm32	3.1.1	metadata	42666c8a780c317de97bbb1d733581803eaf62b0
 io.ktor	ktor-client-json-watchosarm32	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-json-watchosarm32	3.1.2	metadata	e2b8bb2bee2cc18c1caef5aa99b8e8dcd67603d1
+io.ktor	ktor-client-json-watchosarm32	3.1.3		42c1d46b57f6af51154300634c3d44166f9e96cf
+io.ktor	ktor-client-json-watchosarm32	3.1.3	metadata	5de331115a5b96b3dfe43c4278354698af894b73
 io.openliberty.features	jsfContainer	24.0.0.10		N/A
 io.openliberty.features	jsfContainer	24.0.0.11		N/A
 io.openliberty.features	jsfContainer	24.0.0.12		N/A
@@ -1734,6 +1743,7 @@ kr.jadekim	chameleon-proto-inertia	1.0.2-5		efaf0c635f338e467075918b77a9d6387509
 me.proton.core	biometric-domain	31.0.0		038cfe38d10d24254b75bc9b7c33ed85940403c6
 me.proton.core	biometric-domain	32.0.0		f29249d928dfc30d571343ce4fc98e0eeae31e4d
 me.proton.core	biometric-domain	32.0.1		6b4a913311dc23d18078b5621301e1964958325b
+me.proton.core	biometric-domain	32.0.2		ca83bfc50b348a812883d6a28e581b5b32d39813
 net.banterly	builder-guided-completion-annotations	0.1.5		a0c7d9d7ae1cd91dd20188896fe1fe0b7ea66084
 net.exoego	aws-sdk-scalajs-facade-applicationautoscaling_sjs1_2.12	0.29.0-v2.624.0		985892cfa1cde66c47b711d4d44f9712be8f0018
 net.exoego	aws-sdk-scalajs-facade-applicationautoscaling_sjs1_2.12	0.30.0-v2.715.0		1aea6d4f26f9d5bf591871f403387dca300a99a2
@@ -1999,6 +2009,7 @@ org.webjars.bower	q	1.0.1		f3485ff3a9aeb5d3d796ac44ecadf7af81e4211a
 org.webjars.bower	q	2.0.2		36c28c60a37ea04b9e6f84e5da356aae500ff6c0
 org.webjars.npm	ng-i18next	1.0.7		2fe4088f03286fbeaafbc3ccb147217892846773
 org.webjars.npm	prism-react-renderer	1.3.5		6379adee574d19d2686b630a5eb6282daeb24015
+org.webjars.npm	prism-react-renderer	2.4.1		ddd289f37d7dd1ff80b198cfc91953a067cf8ed4
 org.wildfly	wildfly-weld-parent	11.0.0.Alpha1		N/A
 org.wildfly	wildfly-weld-parent	11.0.0.Beta1		N/A
 org.wildfly	wildfly-weld-parent	11.0.0.CR1		N/A

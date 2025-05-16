@@ -283,6 +283,7 @@ com.inrupt.client	inrupt-client-accessgrant	1.1.1		211ac3ebd0787731d3557e621230a
 com.inrupt.client	inrupt-client-accessgrant	1.2.0		fa7c647aa0bfaf9a3d5bc62d03ebbe55cd4b3f0f
 com.inrupt.client	inrupt-client-accessgrant	1.3.0		67ccf3edc9abb41f4f26edd71a499c903faa7e1c
 com.inrupt.client	inrupt-client-accessgrant	1.3.1		f8e53765c8434d0db7f6ef95c5b192d604e94cb5
+com.mainstreethub	sbt-parent-plugin_2.10_0.13	0.0.1		f751b2c61c53b0e48c5a2adf8f749b2b1d7c5a56
 com.nexitia.emaginplatform	emagin-jfx-demo	11.0.2		N/A
 com.nexitia.emaginplatform	emagin-jfx-demo	11.0.3		N/A
 com.qspin.qtaste	qtaste-testapi-deploy	2.0.0		ca61f81109d98911446a1500bb2edbda62033987
@@ -477,6 +478,8 @@ com.yomahub	liteflow-rule-apollo	2.13.1		4255227328eeb57f1d341fa3ff16955a0545730
 com.yomahub	liteflow-rule-apollo	2.13.1.1		461fe1610acbe0083f7ab60a0098a41fb1b71e7d
 com.yomahub	liteflow-rule-apollo	2.13.1.2		aed2306ab5a61fb33b5e01b14a9f9f68d2f24bd2
 com.yomahub	liteflow-rule-apollo	2.13.1.3		406312aec06e0ce45793c3fc38d459fa0566bcd9
+com.yomahub	liteflow-rule-apollo	2.13.2		9f63f25e54e2a917354167d0d46e342a3fa40737
+com.yomahub	liteflow-rule-apollo	2.13.2.1		38a77897ba8556cc58c7edaee0d201f3a476bdde
 com.yomahub	liteflow-rule-apollo	2.9.5		5330cf78d7121415c52f2ee1c2c1388f76e21e7c
 com.yomahub	liteflow-rule-apollo	2.9.6		2ad73a8459e5b07f59aa4a952b11bbccf9122123
 com.yomahub	liteflow-rule-apollo	2.9.7		ed820bb923bf0e237c37b2a0780f28ce3cd047f9
@@ -948,7 +951,11 @@ io.smallrye	smallrye-jwt-http-mechanism	4.6.0		a338eeb32b4fe2c33d1e30f907d671406
 io.smallrye	smallrye-jwt-http-mechanism	4.6.1		3b008feacc2759c550f79a42d44b66cbea43ff8a
 io.spinnaker.clouddriver	clouddriver-lambda	2025.0-0		0ef3f0719e806e0b289ae6ad4c6061c572b259e8
 io.spinnaker.clouddriver	clouddriver-lambda	2025.0-1		2baa57fb5e0a71edb7486612ec099c842bc2b1d4
+io.spinnaker.clouddriver	clouddriver-lambda	2025.0-2		58409dafd2ea6da715cc242534b9d707d013d2cd
+io.spinnaker.clouddriver	clouddriver-lambda	2025.0-3		d50d993ab1f1c223346ce2b5666d36f191fca4ab
+io.spinnaker.clouddriver	clouddriver-lambda	2025.0-4		c862bafdc872a6df896cc8f110389fa01bff1ff0
 io.spinnaker.clouddriver	clouddriver-lambda	2025.0.0		55e289c74923676f2108b9933ba57180a7114d37
+io.spinnaker.clouddriver	clouddriver-lambda	2025.0.1		cb5bf7e35889e57921e7cb88d726822b100bd9a1
 io.spinnaker.clouddriver	clouddriver-lambda	5.74.0		ec61ee03d6e966a7ffb63a3ecab98b62cd107b38
 io.spinnaker.clouddriver	clouddriver-lambda	5.74.2		34cf258e015f924a8b9111c1a714e2a5a9ef4d9f
 io.spinnaker.clouddriver	clouddriver-lambda	5.74.3		d39e46d7c4743851d45c438ffdc7a89c800bf790
@@ -1029,14 +1036,19 @@ io.spinnaker.clouddriver	clouddriver-lambda	5.91.3		855adf57b97dbff698502159d027
 io.spinnaker.clouddriver	clouddriver-lambda	5.91.4		c548c64d5ec2eaf573883613f75cca63c002c6b8
 io.spinnaker.clouddriver	clouddriver-lambda	5.91.5		ee1e4d3376afaff2dbb310019ebe027191a78640
 io.spinnaker.clouddriver	clouddriver-lambda	5.91.6		d4c5920ca8f46e891bc4a3bb3ac6843cc1171b0c
+io.spinnaker.clouddriver	clouddriver-lambda	5.91.7		ebefcc3985b9f834736f466a1b76836158ec6af5
 io.spinnaker.clouddriver	clouddriver-lambda	5.92.0		1d6d0742750eb420f4a7033fb7628f7538591c1b
 io.spinnaker.clouddriver	clouddriver-lambda	5.93.0		4ab159c24c457386c41bca2c2a3ebeb825e55d76
 io.spinnaker.clouddriver	clouddriver-lambda	5.94.0		e331c87c84659d7d327192dad3e60b62d1636bf7
 io.spinnaker.clouddriver	clouddriver-lambda	5.95.0		476cfdbfdd613a0b77f1776c7aaa75b2e14e7772
+io.spinnaker.clouddriver	clouddriver-lambda	main-10		05f88b4ddf870641fdf039182c51c2190b327cdb
+io.spinnaker.clouddriver	clouddriver-lambda	main-11		30d89f20b60b7091b33148f011dbe23104fac50d
+io.spinnaker.clouddriver	clouddriver-lambda	main-12		a7ae23730e668fa84d132575aecc192c46337123
 io.spinnaker.clouddriver	clouddriver-lambda	main-5		e219530937c943a9c329c4e49593640bdbe00090
 io.spinnaker.clouddriver	clouddriver-lambda	main-6		a66fe858f4ddae952d19c3b4b44043269dbe4e29
 io.spinnaker.clouddriver	clouddriver-lambda	main-7		4fd5673fec8267c26b25e526599b1684973d0580
 io.spinnaker.clouddriver	clouddriver-lambda	main-8		5c4cbf3f798db30a378416289c359a286b321b16
+io.spinnaker.clouddriver	clouddriver-lambda	main-9		718071b0a252614b5fff9d2734086470da9798d9
 net.folivo	trixnity-utils-jvm	3.10.0		f4cc4e9cc873b9a695f6fe852a9c45cff8af56b3
 net.folivo	trixnity-utils-jvm	3.10.1		f4cc4e9cc873b9a695f6fe852a9c45cff8af56b3
 net.folivo	trixnity-utils-jvm	3.10.2		f4cc4e9cc873b9a695f6fe852a9c45cff8af56b3
@@ -1078,6 +1090,8 @@ net.folivo	trixnity-utils-jvm	4.14.3		81359dc0c610ce9d15ea1ebf51220df3a5239d8c
 net.folivo	trixnity-utils-jvm	4.14.4		81359dc0c610ce9d15ea1ebf51220df3a5239d8c
 net.folivo	trixnity-utils-jvm	4.15.0		81359dc0c610ce9d15ea1ebf51220df3a5239d8c
 net.folivo	trixnity-utils-jvm	4.15.1		81359dc0c610ce9d15ea1ebf51220df3a5239d8c
+net.folivo	trixnity-utils-jvm	4.15.2		7efece340b12b231d7660b301f67d96dfbbb46b4
+net.folivo	trixnity-utils-jvm	4.15.3		5ad9d4ec8397d535433c7b95b7c378cc0e850b4c
 net.folivo	trixnity-utils-jvm	4.2.0		8b816ce98cbe1aa8c030ac28c9735f2fa66c679c
 net.folivo	trixnity-utils-jvm	4.2.1		4bde3c366ea8b8c6d3d4319eb439b77b0404c764
 net.folivo	trixnity-utils-jvm	4.2.2		4bde3c366ea8b8c6d3d4319eb439b77b0404c764
@@ -1135,6 +1149,7 @@ no.mnemonic.services.triggers	triggers-service	0.0.18		d0cb59171cd5218c5a2b562f3
 no.mnemonic.services.triggers	triggers-service	0.0.19		26c141b82fab0800e40cefec9311c556fffa0199
 no.mnemonic.services.triggers	triggers-service	0.0.20		c3005c375e2abbbe69dc5970e7f4aaa3590c9a52
 no.mnemonic.services.triggers	triggers-service	0.0.21		ce4a094ece616e71dcb5b356fb6af8272b94b1f5
+no.mnemonic.services.triggers	triggers-service	0.0.22		75abac833ae8588327f332c4c043174d740bdfaf
 no.mnemonic.services.triggers	triggers-service	0.0.6		0795fbdf6598744c215becb0c32d1f3b6ecea410
 no.mnemonic.services.triggers	triggers-service	0.0.7		5836484dc25a055e9e243272a12d8f44d047da22
 no.mnemonic.services.triggers	triggers-service	0.0.8		61645abd01cc94b749afe9e78d6d65c3c4a534ac
@@ -1442,3 +1457,7 @@ tz.co.asoft	raven-email-markup-jvm	3.0.14		9631f673153f45406324963de41d00a840fc6
 tz.co.asoft	raven-email-markup-jvm	3.0.15		c5c7457de60e1d89be989bd7784b03bc0193a235
 tz.co.asoft	raven-email-markup-jvm	3.0.8		1087ee0008b89cf3e050aef7db4fa3a44f5a888c
 tz.co.asoft	raven-email-markup-jvm	3.0.9		1087ee0008b89cf3e050aef7db4fa3a44f5a888c
+tz.co.asoft	raven-email-markup-jvm	3.1.0		3dc2146036e7f8d5e1f27b3c49e5d950ddcb7df7
+tz.co.asoft	raven-email-markup-jvm	3.1.1		3dc2146036e7f8d5e1f27b3c49e5d950ddcb7df7
+tz.co.asoft	raven-email-markup-jvm	3.1.11		3dc2146036e7f8d5e1f27b3c49e5d950ddcb7df7
+tz.co.asoft	raven-email-markup-jvm	3.1.12		3dc2146036e7f8d5e1f27b3c49e5d950ddcb7df7

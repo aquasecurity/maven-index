@@ -802,6 +802,7 @@ dev.zio	zio-aws-qldbsession_3	7.31.27.1		b36511f427964dc19b4b5808f0c70fa54dff5c3
 dev.zio	zio-aws-qldbsession_3	7.31.28.1		16e0a43271e56f9bebf6dd47ee5ae4b593e0e6db
 dev.zio	zio-aws-qldbsession_3	7.31.3.1		27ae3ffcfc0bdb9cafba74476ec859aa16382efb
 dev.zio	zio-aws-qldbsession_3	7.31.30.1		a14de82f7d2ec403475377d24ed70a27e16a7352
+dev.zio	zio-aws-qldbsession_3	7.31.30.2		e15b2cc13f2cec3455161237fbc8258fed78fd8a
 dev.zio	zio-aws-qldbsession_3	7.31.4.1		a47c9bfef9f776a9d17edd511c61fae5ec0a7014
 dev.zio	zio-aws-qldbsession_3	7.31.6.1		e4e2578a3da85b1e2073d4bc1e970ea060c73d73
 dev.zio	zio-aws-qldbsession_3	7.31.6.2		53298a13d0c946c8f248ebfd25f4e5d7b477d098
@@ -989,6 +990,7 @@ io.helidon.tracing.providers	helidon-tracing-providers-jaeger	4.1.6		e6deea51e07
 io.helidon.tracing.providers	helidon-tracing-providers-jaeger	4.1.7		c366897e2b87a0660b2461b5467ef0fe2029318a
 io.helidon.tracing.providers	helidon-tracing-providers-jaeger	4.2.0		92569931ebce2a7a11ba1941a6c6e3ce5f08299c
 io.helidon.tracing.providers	helidon-tracing-providers-jaeger	4.2.1		4cf210a118f45c1e8bfc244349c854d1f7d55ba1
+io.helidon.tracing.providers	helidon-tracing-providers-jaeger	4.2.2		1ec4d8a27d607710aa0fdb12271d6353e20b9dc9
 io.matthewnelson.kotlin-components	parcelize-tvosx64	0.1.0		N/A
 io.matthewnelson.kotlin-components	parcelize-tvosx64	0.1.0	metadata	74793aa75ba2030697fc14a5c761102354f026e9
 io.matthewnelson.kotlin-components	parcelize-tvosx64	0.1.1		N/A
@@ -1065,6 +1067,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.19	2.13.3-alpha		0d898d22884cc17da52cd7f49919ad6ce4580233
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.19	2.14.0-alpha		5c7404b6bdd7cf272adb2a34d7a5c88c3af71273
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.19	2.15.0-alpha		ab141b75d1430d0ad3ccab3687eb77f155cdd05e
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.19	2.16.0-alpha		71d8950fbe90ce8a9b73fa37cf13ea16f373be8c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.19	2.2.0-alpha		abb17ae47bf9d3c5e3434e68d3118d2724f0496a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.19	2.3.0-alpha		4909cf3559171f6efeff753836ea71608f80225b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.19	2.4.0-alpha		d29d765a1d18738a306a9bd7b5cb7b7c7b8937e0
@@ -1162,11 +1165,19 @@ io.spinnaker.echo	echo-artifacts	2.47.1		a0e78a68b850e7532c6bbe6ff5f6f6b29781e51
 io.spinnaker.echo	echo-artifacts	2.47.2		ec7d2ea4ff9971f0852e7a81c140e69e525f79ea
 io.spinnaker.echo	echo-artifacts	2025.0-0		72b70e4ab5fbb1910e4df945f57c8d1048dbdae1
 io.spinnaker.echo	echo-artifacts	2025.0-1		da5771025b11fc658c4ee698e744b633be3bbce0
+io.spinnaker.echo	echo-artifacts	2025.0-2		2e867d6a1a044665f33e9ff6f003f8e55de090b3
+io.spinnaker.echo	echo-artifacts	2025.0-3		68c3f351ab57e533361407fde11c9cab9e617b23
+io.spinnaker.echo	echo-artifacts	2025.0-4		6dd1193d5370a1dbd40cd8ed42123cc23c33baf3
 io.spinnaker.echo	echo-artifacts	2025.0.0		a1dfe9f057f156435b6ab4e30c7d0f6cefebb59a
+io.spinnaker.echo	echo-artifacts	2025.0.1		59ff4b12081e12c6b479b96c28dfd3f35f4ee6c7
+io.spinnaker.echo	echo-artifacts	main-10		3416ec6cde6312796e024aae048af23e368a25ae
+io.spinnaker.echo	echo-artifacts	main-11		63004988e64a9bbdea2b318a140ba73eceed2868
+io.spinnaker.echo	echo-artifacts	main-12		4bff7f51969e8b312eb83aa53dcf172202c3bcfd
 io.spinnaker.echo	echo-artifacts	main-5		cbf3d341bb3dc882d656a49bfdffc95169aa9e3a
 io.spinnaker.echo	echo-artifacts	main-6		78a5bb83c4caaf11a139a69ada5444aee1322c41
 io.spinnaker.echo	echo-artifacts	main-7		b2809dc176b34f87b846f73f812bac29f3ede260
 io.spinnaker.echo	echo-artifacts	main-8		0e347981190c97a24df72e8d7f5eb54da09276e8
+io.spinnaker.echo	echo-artifacts	main-9		b0e04775f94dc3e1e869c886233328146089c8d7
 io.toxicity.api-key	api-key-watchosdevicearm64	0.1.0-alpha01		N/A
 io.toxicity.api-key	api-key-watchosdevicearm64	0.1.0-alpha01	metadata	81dd78dfb940c28bb48981e0251019c473d93b90
 io.typefox.yang	io.typefox.yang.diagram	0.1.0		93f97c01c8428fc3bac6925f8eda9fc9d4452bca
@@ -1486,6 +1497,9 @@ it.unibo.alchemist	alchemist-fxui	32.80.0		0267a6c17987b8d507a1442b62b6415fc5a2b
 it.unibo.alchemist	alchemist-fxui	32.81.0		9d62cdd6dc73b30fddc68bd94651c0525f073a22
 it.unibo.alchemist	alchemist-fxui	32.82.0		f7864cccd06ff4636e965d9df782f65b436d489c
 it.unibo.alchemist	alchemist-fxui	32.83.0		2103dd5851f032b31d344bb0741026240ea31e26
+it.unibo.alchemist	alchemist-fxui	32.83.1		797eaad56804f7923e6aec228d29af32ed32bf58
+it.unibo.alchemist	alchemist-fxui	32.84.0		f4c490301af6ab3715f01e45723dfda6d177bf67
+it.unibo.alchemist	alchemist-fxui	32.85.0		c0fd586f1a370e121a5edd61d6b5ff027712cd64
 it.unibo.alchemist	alchemist-fxui	32.9.0		218b4f3777432abfb1df58864b505f050453badb
 it.unibo.alchemist	alchemist-fxui	9.3.0-dev1z1+0f186c167		bed663617161da506cb8154176e8a289c3cfc39d
 it.unibo.alchemist	alchemist-fxui	9.3.0-dev1z1+0f186c167	all	a2f1dc4b68a2149f4afefaea86bbae081a5f8b7b
@@ -1615,6 +1629,8 @@ net.folivo	trixnity-utils-iosx64	4.15.0		N/A
 net.folivo	trixnity-utils-iosx64	4.15.0	metadata	9963a7baa8501e22af438d7606b88006e7c16246
 net.folivo	trixnity-utils-iosx64	4.15.1		N/A
 net.folivo	trixnity-utils-iosx64	4.15.1	metadata	60b23dc13d7ce81f8699436a8cbfc15b17f8be7a
+net.folivo	trixnity-utils-iosx64	4.15.2	metadata	b09700778f5333f729584291e7f2c721537f1584
+net.folivo	trixnity-utils-iosx64	4.15.3	metadata	4419174633afe814fd8e6ab0b3b70fc6eca75a24
 net.folivo	trixnity-utils-iosx64	4.2.0		N/A
 net.folivo	trixnity-utils-iosx64	4.2.0	metadata	6dff47a2b7766b614079f0b69fd42cac91846341
 net.folivo	trixnity-utils-iosx64	4.2.1		N/A
@@ -1839,6 +1855,9 @@ org.apache.skywalking	optional-plugins	9.1.0		N/A
 org.apache.skywalking	optional-plugins	9.2.0		N/A
 org.apache.skywalking	optional-plugins	9.3.0		N/A
 org.apache.skywalking	optional-plugins	9.4.0		N/A
+org.business4s	workflows4s-doobie_3	0.1.0		3250de94a2d493060d7ffb488035353117ef5e82
+org.business4s	workflows4s-doobie_3	0.1.1		9431727707cf5db476aa9d343e8f49d93088d217
+org.business4s	workflows4s-doobie_3	0.1.2		a238dba4c676176cebeb9877873e83dedd852d36
 org.dashj	dashj-bls-parent	0.18.0		N/A
 org.dashj	dashj-bls-parent	0.18.1		N/A
 org.dashj	dashj-bls-parent	1.0.0		N/A
@@ -1856,6 +1875,7 @@ org.eclipse.microprofile.telemetry.tracing	microprofile-telemetry-tracing-spec	1
 org.eclipse.microprofile.telemetry.tracing	microprofile-telemetry-tracing-spec	1.1-RC1		N/A
 org.eclipse.microprofile.telemetry.tracing	microprofile-telemetry-tracing-spec	1.1-RC2		N/A
 org.eclipse.microprofile.telemetry.tracing	microprofile-telemetry-tracing-spec	1.1-RC3		N/A
+org.eigengo	sbt-mdrw_2.10_0.13	1.0.0		e6283a601d770dfaafa9b1626d88fd5abba1cc46
 org.elastos	hive	2.0.27-pre		36baba3d12c82ceb368f42f1e68329052a6e79a8
 org.elastos	hive	alpha-v2.0.20		f9bd5d5d3ccfbf863e03175db926bdd36624510a
 org.elastos	hive	alpha-v2.0.26		436c98b3af9edae5f74b47221468e3c7f3ef8901
@@ -2161,6 +2181,10 @@ tz.co.asoft	raven-email-markup-iosx64	3.0.8		N/A
 tz.co.asoft	raven-email-markup-iosx64	3.0.8	metadata	f5136700a67d68f6f096ec71afb8e3a405c2b4ac
 tz.co.asoft	raven-email-markup-iosx64	3.0.9		N/A
 tz.co.asoft	raven-email-markup-iosx64	3.0.9	metadata	dfa3a0fb344d399d6da44cd0932d4a7a2df1fab0
+tz.co.asoft	raven-email-markup-iosx64	3.1.0	metadata	b1b45a1956abddf8c76515ab2b6853a0ee8512c4
+tz.co.asoft	raven-email-markup-iosx64	3.1.1	metadata	390e88ab405db838bf532d82e2369325de39b4c9
+tz.co.asoft	raven-email-markup-iosx64	3.1.11	metadata	2fb20e05e6f2971ebc6ce67189d8ea7e93dcacfc
+tz.co.asoft	raven-email-markup-iosx64	3.1.12	metadata	d04460c45ac0d778a8237177a6ca7eb705c9acf6
 ws.unfiltered	unfiltered-specs2_3	0.10.2		44eacb01d506c77125678b9a8e7c345bcdc34f48
 ws.unfiltered	unfiltered-specs2_3	0.10.3		b168e2ebb37344632bbb1f6bec99f2b04455c30d
 ws.unfiltered	unfiltered-specs2_3	0.10.4		cdafcecfb1f3e08ed57e9ab2ef84568ac2faae7b

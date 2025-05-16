@@ -639,7 +639,9 @@ com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.145.0		83f6333f8b3d1b29
 com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.146.0		f0e876f24dc935cef41c29f038eeccf520f802eb
 com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.147.0		2fe476cc2b2545d80371ad9ae6eb7d6a2f4bca0b
 com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.148.0		f6225d01c46c1f378fa3f7cb2eb0babcf31ffabd
+com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.149.0		71fd548c945b54bb03c1965df6e58d6888f8db91
 com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.15.0		7bfc9d7248a78d9f73d867d0e098bb92f3bb909b
+com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.150.0		7644ce63421705c1b185ab1592ffd34c1f9fdf80
 com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.16.0		ace46ae39c1d0f37674af6036d087373b40c4fd7
 com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.17.0		61f9d19a8883e0bb866733beae9582444c86bf1c
 com.google.api.grpc	grpc-google-cloud-vision-v1p1beta1	0.18.0		a5ae3e3251228edcb96de38224963c8bd391c7c2
@@ -1211,6 +1213,8 @@ io.ktor	ktor-server-websockets-macosx64	3.1.1		230507f9a5ed34dac4b10cd22e8c9533b
 io.ktor	ktor-server-websockets-macosx64	3.1.1	metadata	9ae38431c2778740d11fece3a717149847cbc6c1
 io.ktor	ktor-server-websockets-macosx64	3.1.2		4f3e3f219c48c052a2f5b8250f089c6555bf83a7
 io.ktor	ktor-server-websockets-macosx64	3.1.2	metadata	c45320712ed4324af342d889373ada1161f3e1b9
+io.ktor	ktor-server-websockets-macosx64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-websockets-macosx64	3.1.3	metadata	f57cc41f0464ea7de829964255dbe1efd072db25
 io.maryk	maryk-json-watchossimulatorarm64	0.6.0		N/A
 io.maryk	maryk-json-watchossimulatorarm64	0.6.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-limits	3.0.0		b9e2a65062d24a3038ea37562382e821aa253ab5
@@ -1314,6 +1318,7 @@ io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.13.2-alph
 io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.13.3-alpha		a2aa1e514b733508369eb6ef4222b042a6747fcf
 io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.14.0-alpha		4746545c9714475f183321521689b1de09b1d7f2
 io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.15.0-alpha		394a41cfb91a3afb7bc64d4a940f93ba42a050ab
+io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.16.0-alpha		56ae2aefa9759f960731652d98d4249623f021c0
 io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.2.0-alpha		1a3812cfe17aeddd152f80644b5a8d7d80527553
 io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.3.0-alpha		f33a610c09d2ab68bb8a0f45da72223978d01d55
 io.opentelemetry.instrumentation	opentelemetry-apache-httpclient-5.2	2.4.0-alpha		90d5b87ad52f7b96f49c792806a418ba1699ddb8
@@ -1405,6 +1410,7 @@ love.forte.simbot.component	simbot-component-kook-api-iosarm64	4.0.2		N/A
 love.forte.simbot.component	simbot-component-kook-api-iosarm64	4.0.2	metadata	48ce872611247a1a57e5a49c4fec8cab6082acde
 love.forte.simbot.component	simbot-component-kook-api-iosarm64	4.1.0		N/A
 love.forte.simbot.component	simbot-component-kook-api-iosarm64	4.1.0	metadata	5d33aea4831ff7e9a051b2b8d25cad479e19394f
+love.forte.simbot.component	simbot-component-kook-api-iosarm64	4.1.1	metadata	06fae4eea294db74b9ea7f53f2a44512af5ddaf0
 net.databinder	dispatch-times_2.7.3	0.5.0		107e75a8a7a9984caa27486aff7000d0b2f92f9b
 net.databinder	dispatch-times_2.7.3	0.5.1		f13724d5360b0c92c28cde0fa169d0787f2970f4
 net.databinder	dispatch-times_2.7.3	0.5.2		4023c09bee1744acbf1224137aef4f63918588a6
@@ -1573,6 +1579,19 @@ org.eclipse.dirigible	dirigible-components-template-application-data	11.41.1		92
 org.eclipse.dirigible	dirigible-components-template-application-data	11.42.0		013df71f1a09e091d0c38a6a4518161f503594d0
 org.eclipse.dirigible	dirigible-components-template-application-data	11.43.0		3c0292cdd417d82ec48831141334fd1317c3720d
 org.eclipse.dirigible	dirigible-components-template-application-data	11.44.0		282dde6ac778290f8c1615b2144280dfab2f68f1
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.0		bae2bbc59803c6cba111d55965604011d01a4df8
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.1		d21090f686acc97175e7d10d5ad255375b23a352
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.10		8d1712c42419058cb7de123ccdd6e5b323d82204
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.11		c02c2f2ae53270a44daaecff22f3f07ab5b8ab7e
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.12		dd392aceccf4752c74e0a591f0e6d13ebb03c210
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.13		11355828cf29533ccf6e432ab0246dc751f5db45
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.3		4035b4cd253362a4cd1e5e3a4242e2c60a5d752e
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.4		c0d40aa849cb3ccf793ccc3d55e1b6aa90b22f90
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.5		52b7580f78aa68b537654b430d5241f74fb41c8d
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.6		4e8659be5310e67d50b38102793ad14085544acb
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.7		9554244243bb2afda261aeb6ffb342ef3c73885b
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.8		02472e85905bd22b5ad290acaeef5d9c283a083e
+org.eclipse.dirigible	dirigible-components-template-application-data	11.45.9		5d597eb1a2d5239ddcb56557202fb6a453dfc0b8
 org.eclipse.dirigible	dirigible-components-template-application-data	11.5.0		c57ac14c4cbf97a7c6814cb4da3b1f59254e7571
 org.eclipse.dirigible	dirigible-components-template-application-data	11.6.0		b50b4dfcb59fe8389703b2ec4e56b842722bbc14
 org.eclipse.dirigible	dirigible-components-template-application-data	11.6.1		2d7489f077b3a1ec27ed053297db99f6c268ada5

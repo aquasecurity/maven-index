@@ -59,6 +59,9 @@ com.github.ifrugal	conman	1.0.20		5a6cd39ee2cc03d70a8485cc8c81f2b42c8ad940
 com.github.ifrugal	conman	1.0.21		cd46899d3d83d0fbc306a3dd701701925c68870b
 com.github.ifrugal	conman	1.0.22		1bdeddebc99f5976c7b4e66666a414d008a7c59f
 com.github.ifrugal	conman	1.0.23		46da5bba62e47edec8b2bd0473f114f86bfef8d8
+com.github.ifrugal	conman	1.0.24		13a825da6916b1fb50d8b8c1534a873297fa405b
+com.github.ifrugal	conman	1.0.25		83d1ce9f08c74720735688892b43aabfcc0ea684
+com.github.ifrugal	conman	1.0.26		200b02f9e3c6fbff1a9cf3f5afb2790a70108b55
 com.github.ifrugal	conman	1.0.5		4fc42ef5db5faa9091dc1da48c21d79dbd00224d
 com.github.ifrugal	conman	1.0.8		48abfd878bdb60f3d26fda7430b1cb970debe55c
 com.github.ifrugal	conman	1.0.9		8f5e56edd8e2e1c3a1d1d3573008a53cf3a11629
@@ -1454,6 +1457,7 @@ io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.24		0
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.25		21b61bd4092cd2d1d291d61f1ec0f95ade402766
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.26		8902bffb6474c2402b9b4c005deb9e6d07be363d
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.27		e02fba2ab05983ef3fb075fcbe91329bf351bf80
+io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.28		7f5c41f51a9b8b6f8fe75494a12b5a06365a89e1
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.3		ee8fe42c9063e068813797784d1a6a3561927ee0
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.4		12c9c4d2c9ec27b8558d20b3c11f3268b109f196
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.4.5		77d82188f5b67db3a55844f3aefcbbd218f02d24
@@ -1471,6 +1475,7 @@ io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.13		8
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.14		293f2bdfd9b8f598f68eff6e8c7beb0155afc1c3
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.15		18c6e1db0252e4da581cfd27ac0a9996cf95bedf
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.16		cdf95829003460fe5d4199183564ad23cc9b2d0d
+io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.17		cb3f5cd22192587cfd41dd8daa232263fa753af0
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.2		f2bdd2921d8064f9849a41f29e03c96d8b23ead8
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.3		d6942b907ff1ac2f1dbab9020c41348a109aa9b1
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.5.4		51153d3fa60c7260fa44c4ef7ac2cab96566b230
@@ -1483,6 +1488,7 @@ io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.0		51
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.0-alpha.3		2464cbea0eb9a8627dfa1b919f0e1ddfa2add3b7
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.1		10cc92571bdd24739e1a5538f4fd406c0fcb0308
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.10		ae138be72c5889c192dcd08cfc170d96df90df60
+io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.11		2f3ada28191514b160588cc760a12bf86b59d01d
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.2		82e6065dbf0360f40c1f537daa3ad7e452800f09
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.3		cd526df385ce3ff7a82076250cea5c611c842b16
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.6.4		e17f61e92b05b329b09c99984fbfad60d3099ac7
@@ -1499,6 +1505,7 @@ io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.7.1		23
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.7.2		74433ab354615f8e472616833a6949b2a56ac1bf
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.7.3		24ab719b6327e7eadfa0d2834af9eea8b1ea24af
 io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.7.4		6b8ca6c20c313f17b36b438f09a1a95ad752f810
+io.gravitee.apim.plugin.endpoint	gravitee-apim-plugin-endpoint-handler	4.7.5		283e8c6f6c4a8328d98857bee4e3e37ecc299e05
 io.harperdb	harpderdb-core	0.0.1		31914fc7d6c12a5c957dca84623404a74e375243
 io.jorand	scalajs-d3js-network_sjs0.6_2.12	0.1		19e2483b7a6cf634263ac616d612df142a8eb326
 io.jorand	scalajs-d3js-network_sjs0.6_2.12	0.1.1		cfd7811b149c453840090bacc348366504f66ed3
@@ -2798,6 +2805,7 @@ org.scala-lang	scala3-compiler_3	3.3.5-RC1-bin-20241204-5f2d7ef-NIGHTLY		13f6ea6
 org.scala-lang	scala3-compiler_3	3.3.5-RC1-bin-20241209-fa617ff-NIGHTLY		f56f8824931d07348b6fc904ac550a23ab6af23c
 org.scala-lang	scala3-compiler_3	3.3.5-RC2		4c41d94272dba28b04ca40befc14294c38acb7c1
 org.scala-lang	scala3-compiler_3	3.3.5-RC3		84beb46602c67dbed908f3eddfa9e3a410396833
+org.scala-lang	scala3-compiler_3	3.3.6		f6e19c822ce14d9e91775ae85d196c876d8b30cc
 org.scala-lang	scala3-compiler_3	3.3.6-RC1		8fa249e1bd68a4d5dae2da0e7615a01f9988eb22
 org.scala-lang	scala3-compiler_3	3.3.6-RC1-bin-20250128-c189755-NIGHTLY		dcdbce12e3703bce464766380ab57f27d7263c8d
 org.scala-lang	scala3-compiler_3	3.3.6-RC1-bin-20250219-7fb2a9d-NIGHTLY		11e22fbdd904bfe6a02d40639f2f2486a3f05c8e
@@ -2809,6 +2817,7 @@ org.scala-lang	scala3-compiler_3	3.3.6-RC1-bin-20250318-daca114-NIGHTLY		3b07007
 org.scala-lang	scala3-compiler_3	3.3.6-RC1-bin-20250319-2b41273-NIGHTLY		0e9365c13870b07217d6df5bbada3e72bf497f52
 org.scala-lang	scala3-compiler_3	3.3.6-RC1-bin-20250326-98b374a-NIGHTLY		1fd41050dfb43a9f6bdf31974e56c9f214698aa0
 org.scala-lang	scala3-compiler_3	3.3.6-RC2		556eae698d0abb06c3394483cbe086edbfd4a164
+org.scala-lang	scala3-compiler_3	3.3.6-RC3		b0c6ba0661f8b8c02db0b19553eafa78626c0590
 org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250402-71aca20-NIGHTLY		d8dcd43bc3e15e4cade8a497598ceb82bd00178d
 org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250403-3c1ff9a-NIGHTLY		8affe0a324fa5fef0cdb6fb0e63e7a90d0ef7070
 org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250408-f8a1729-NIGHTLY		a96b468f0f32ab1a9b3f0361787f2a21050e733f
@@ -2821,6 +2830,11 @@ org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250427-e3c4028-NIGHTLY		8730ef2
 org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250428-84ea7eb-NIGHTLY		00219cfa4c6eb7424a8a6f14a6609a4de0a2889b
 org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250429-5df2a92-NIGHTLY		01f9e558768305fb246638af08548f9d0c6ab80f
 org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250430-bb278ed-NIGHTLY		966397dd232f5f1aa6bd3c7a1c45ca89f2c3bb65
+org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250502-0c7c85c-NIGHTLY		2d595d771c51c22c16316be26fe96c2f7f53e70e
+org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250506-875ba1d-NIGHTLY		9acd66d39037a5148e6a6a441004c6f40d13dcf1
+org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250508-d735cf4-NIGHTLY		2591d9d3fc12511cdfac6a7dcd2b4bc478d48448
+org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250509-ba7071d-NIGHTLY		db91afdd8e34711e3d1b28bdcf3dd935876cc16c
+org.scala-lang	scala3-compiler_3	3.3.7-RC1-bin-20250513-a72362d-NIGHTLY		7e4aa291f068744cade6674ca9397162a5de2805
 org.scala-lang	scala3-compiler_3	3.4.0		2bff371f9ed1cec47c1b089e916635fb6c3ffd9a
 org.scala-lang	scala3-compiler_3	3.4.0-RC1		6b796eb2a0211e3e01022e3b459ec82651d8857f
 org.scala-lang	scala3-compiler_3	3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY		dea7fa5362b58254f00a2e9d60b4142cc1b93c58
@@ -3206,6 +3220,7 @@ org.scala-lang	scala3-compiler_3	3.6.4-RC1-bin-20250112-ae980a7-NIGHTLY		c75ecce
 org.scala-lang	scala3-compiler_3	3.6.4-RC1-bin-20250113-c10def4-NIGHTLY		f121428ab008c1c261ca564ba1c4ccf80c86ee4c
 org.scala-lang	scala3-compiler_3	3.6.4-RC1-bin-20250114-312c89a-NIGHTLY		5ba3cd25d261790314688402a6bbdfe5c840668e
 org.scala-lang	scala3-compiler_3	3.6.4-RC2		d0827d07fa45b5e95cea604d60f8f834496e4d29
+org.scala-lang	scala3-compiler_3	3.7.0		03ffab6dead79d2c6fa874f859012635881c90ae
 org.scala-lang	scala3-compiler_3	3.7.0-RC1		b16d1cc903df8c6f27575a828b0855ccddd9313a
 org.scala-lang	scala3-compiler_3	3.7.0-RC1-bin-20250116-0f9e502-NIGHTLY		7b0ba2876183b7558e5badc9a98408cedc34fe88
 org.scala-lang	scala3-compiler_3	3.7.0-RC1-bin-20250116-8b27ecb-NIGHTLY		cf01a446be4bc26043e12d8ed281f3efcc71674e
@@ -3248,6 +3263,7 @@ org.scala-lang	scala3-compiler_3	3.7.0-RC1-bin-20250312-3fe9304-NIGHTLY		e53b81b
 org.scala-lang	scala3-compiler_3	3.7.0-RC2		76d901d83ddfc273df4447f7c419f1b7aeb65f0d
 org.scala-lang	scala3-compiler_3	3.7.0-RC3		0af18702e89f1ff110be13adccbfb038cb27b1f8
 org.scala-lang	scala3-compiler_3	3.7.0-RC4		06ec11e0ca575e5df48b45cab5d2a3f935e990fc
+org.scala-lang	scala3-compiler_3	3.7.1-RC1		73b45d1a82c5f5f9d6f9212f5645fa709b29ded8
 org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250313-596538b-NIGHTLY		a2a14a995ff2de68a8d07fca40fd787980d2733e
 org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250315-8734fbd-NIGHTLY		3dcd5bcb67498c33b20660ea5dac1f9ec94f0510
 org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250316-28072c5-NIGHTLY		8c7880e8ab4dff6fb31e0ad18e762a1de44406d9
@@ -3277,6 +3293,17 @@ org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250425-fb6cc9b-NIGHTLY		fc4dd0e
 org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250428-08f2e4a-NIGHTLY		9bed39bf30aacb6669534eb7afa81443ef83aee7
 org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250429-57807c6-NIGHTLY		d4a5972afbe305deab80279840d49f20253d2032
 org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250430-c4531d4-NIGHTLY		1d5996e8ed1798e6e62631af2772ac831afc7f35
+org.scala-lang	scala3-compiler_3	3.7.1-RC1-bin-20250501-83ffe00-NIGHTLY		748b74b3112879e21804495065fef155c833a459
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250503-453f94d-NIGHTLY		7ecb17276087d470b4591b3f06c15170c75b85a7
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY		f5b7f00593b099d6437740f3693e853e28ebb84d
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250507-c49ff71-NIGHTLY		1982a01fb05185dc9fa7628b8f00802755371b58
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250507-c85982c-NIGHTLY		1debf1cb54f464d9e3b758c45c3b7561ae6880dd
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250509-c3642c0-NIGHTLY		ff44c1d3bead858b9cbc196d821c05648bfb5df1
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250510-f784625-NIGHTLY		2ecd5e6f79fed40540434cf6f22d37c0f501fc0b
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250512-e52986c-NIGHTLY		0c034657f2c61ac38eccd0bb00ced08a01d4a812
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250513-004579e-NIGHTLY		7ac17674808e0dce754a7ceb70eb12fb7322c493
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250514-a553986-NIGHTLY		fa1b20a4157cf4f72670d8786af26492ed245f79
+org.scala-lang	scala3-compiler_3	3.7.2-RC1-bin-20250515-c481e91-NIGHTLY		d1d06c55bdeca2982fe1c5e5e5d72ebfdfc7257b
 org.springdoc	springdoc-openapi-javadoc-tests	2.0.0		207d3e177ef4659d06df24dbe0ec6d217d270f28
 org.springdoc	springdoc-openapi-javadoc-tests	2.0.0-M5		d50db7764fdcae6e4f63e5232fe8119a5b38f672
 org.springdoc	springdoc-openapi-javadoc-tests	2.0.0-M6		45bd5a8dc2b13847940b0fe46edb63205a9eae75

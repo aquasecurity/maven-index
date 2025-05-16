@@ -134,6 +134,7 @@ com.github.ryanholdren.typesafesql	parent	2017-07-09		N/A
 com.github.ryanholdren.typesafesql	parent	2017-07-12		N/A
 com.github.ryanholdren.typesafesql	parent	2018-06-16		N/A
 com.meowool.gradle	toolkit-publisher	0.1.0		be2e1720cbd36f5ea62ba06ae03affdb8dc30a2b
+com.michaelpollmeier	sbt-dependency-graph_2.12_1.0	0.10.0-RC1+8-7f17b203+20210129-2104		baf783ac28618e11ab02e18f1ee01948899daf63
 com.qiniu	stream-jdbc	0.0.4		9933f101b32d732d0ca91421a9179373fe48e69f
 com.qiniu	stream-jdbc	0.1.0		e29efa5ff1219d13b60eaf271c4bedf96a0e1d76
 com.rickbusarow.dispatch	dispatch-detekt	1.0.0-beta03		4b73a6961cb5bfbe67c8b373e67633d890e39f59
@@ -237,6 +238,7 @@ io.automatiko.addons	automatiko-user-tasks-index	0.41.0		d45e3ac7d58dbdcd36bea60
 io.automatiko.addons	automatiko-user-tasks-index	0.42.0		0e887e8d67a561bdfca09bbeca7938479a8cb108
 io.automatiko.addons	automatiko-user-tasks-index	0.42.1		ce09c07e02fd8b971bd175f5fb57735a095ea2d6
 io.automatiko.addons	automatiko-user-tasks-index	0.42.2		53e9dd303532045aeea574b472e052640b40aa3b
+io.automatiko.addons	automatiko-user-tasks-index	0.43.0		785b3c6adfd7d162b7c7e9b52bd24eb7eab832a1
 io.esastack	restlight-server-adapter	0.0.1		e3216732436b2b3789864fd45db9b8ef61612f90
 io.esastack	restlight-server-adapter	0.1.0		895fc5795665ee9f14d1eb9ec24867b512792d5c
 io.esastack	restlight-server-adapter	0.1.1		d60f0ed654654eda93a42e5709559111acdf7018
@@ -254,6 +256,7 @@ io.exoquery	terpal-sql-core-watchosarm64	2.0.0.PL-3.1.0		N/A
 io.exoquery	terpal-sql-core-watchosarm64	2.0.0.PL-3.1.0	metadata	4d2ec088e1e72f4eff845c27cf916f4cf1ba3e6b
 io.exoquery	terpal-sql-core-watchosarm64	2.0.0.PL-3.2.0		N/A
 io.exoquery	terpal-sql-core-watchosarm64	2.0.0.PL-3.2.0	metadata	dff0be04c68b6f05659d77b939b61ebc7dfb5278
+io.exoquery	terpal-sql-core-watchosarm64	2.0.0.PL-3.2.1	metadata	e81694289dfafc65f0ec3ba6d61787ae7f2d0f39
 io.gitee.zhangdi-gome	alamein-openapi-sdk	1.0.0		f718ec8b1132d2e31b47003c487905c48a8feaf1
 io.gitee.zhangdi-gome	alamein-openapi-sdk	1.0.1		eb843b3467db699d521c160792fa07605ec94e56
 io.gitee.zhangdi-gome	alamein-openapi-sdk	1.0.2		2c3346ebd3e3d4e10df78dd295933f39d85513b5
@@ -1077,6 +1080,7 @@ io.streamnative	pulsar-io-debezium-postgres	4.0.1.2		dc88bb548095536567658768f02
 io.streamnative	pulsar-io-debezium-postgres	4.0.1.3		c4759f60967b9340b1928452ebb9a05822daf6dd
 io.streamnative	pulsar-io-debezium-postgres	4.0.1.4		6e3b08b70c39ecbec61ea218e95434e484ca6cdf
 io.streamnative	pulsar-io-debezium-postgres	4.0.3.1		d34fd2cc7ba8676a836d9bac189088203b7ccbc2
+io.streamnative	pulsar-io-debezium-postgres	4.0.4.2		888a0ecc6006dc13839072f1adb41c11d72683bd
 io.streamnative	pulsar-io-debezium-postgres	master-rc-daily		0c1405a9d263d59078e4d604b9b4b01d32f1aa3a
 io.streamnative	pulsar-io-debezium-postgres	v2.8.0-rc-202106091140		74e19600503d9bd29e697c5288abdab9def8391c
 io.streamnative	pulsar-io-debezium-postgres	v2.8.0-rc-202106121853		11c6e82533caf7abfbf1a4706ad1ed60c95f0117
@@ -1103,10 +1107,21 @@ net.sansa-stack	sansa-resource-metadata	0.8.0-RC3		d57be7e26b59662285240c156d083
 net.sansa-stack	sansa-resource-metadata	0.8.7		ed5bc6fec54b595b17770ab3b5845d5160245159
 net.sansa-stack	sansa-resource-metadata	0.9.0		c6e44cd8cd61c5a0a2e95402587b0d68e985d119
 net.sansa-stack	sansa-resource-metadata	0.9.5		37cc3ae4664e83f5013b17a9f7ca20154a698351
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.6.0		c135ade425f4a1b630b2848f4fbf39a3ed5680af
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.0		c14e450c980481a6b283204ea467fab437788f67
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.0-RC1		ce6ef1df2f8d38aa804b0795c59e108cf0e55696
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.0-RC2		024e0b8cbd87096272c1f5284eb1972e33b3dbee
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.0-RC3		2b7a77684c364012bc693ffde4ed3274f2545716
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.1		0913197adfa5259cf25fea67957ee2fff2f461c2
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.2		81d63df0d4f3b9fde4a135e5bc8f58c2d8176c98
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.3		1232122efa98ef265c24ac39d50e3bebfb179a82
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.4		e941cbe63da8e39f3ec41f9b8a622b1c976c3e3e
+net.virtual-void	sbt-dependency-graph_2.9.2_0.12	0.7.5		27a506180532d7af4e8695a21b4080df27bfb387
 org.aerysoft.miniclient	miniclient	0.8.1		N/A
 org.aerysoft.miniclient	miniclient	0.8.2		N/A
 org.aerysoft.miniclient	miniclient	0.8.3		N/A
 org.apache.gravitino	gravitino-api	0.8.0-incubating		c9026a18e3fe73c0dbd9d7730486c847d20be244
+org.apache.gravitino	gravitino-api	0.9.0-incubating		dfbeb8344f3ee1e758969574ab7bc3dc49b66eb0
 org.apache.jmeter	ApacheJMeter_report	2.10		f727f099b940951a980f6a5df5ef185c20a65c9e
 org.apache.jmeter	ApacheJMeter_report	2.11		dcce4a933b210382e463d2b666b23f2d255cb407
 org.apache.jmeter	ApacheJMeter_report	2.12		39833edb6b69ed67e9757c32781bc11d71638e2f
@@ -1575,6 +1590,7 @@ org.scalameta	scalafmt-cli_sjs1_2.12	3.9.2		d9c7671e3a68774ba40a65270296078fae19
 org.scalameta	scalafmt-cli_sjs1_2.12	3.9.3		ff1ce3310887cfa52802710f98c849b3d8b59132
 org.scalameta	scalafmt-cli_sjs1_2.12	3.9.4		1b8661449dddf326dfca0a9b8fb9c691eae09b02
 org.scalameta	scalafmt-cli_sjs1_2.12	3.9.5		76297f47ef19582fe5066e9ff316028271aeb586
+org.scalameta	scalafmt-cli_sjs1_2.12	3.9.6		15e640b2fab9c24caab69e8f19c97a51f82bae0c
 org.scodec	scodec-bits_2.13.0-M5	1.1.7		cf8735564a4974a0e41ebd23ec7c8f67f72ffc16
 org.scodec	scodec-bits_2.13.0-M5	1.1.8		7cf1db85404e2d03569672ea8a4abbef37a4844d
 org.scodec	scodec-bits_2.13.0-M5	1.1.9		78096cb4f5928678d4b1aa98523bf6de0c305473

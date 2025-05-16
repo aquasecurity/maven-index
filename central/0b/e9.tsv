@@ -677,6 +677,7 @@ dev.zio	zio-aws-apigatewayv2_3	7.31.27.1		77c45ec7fa0ddbc474c165f4bb4e85e7cf4fd2
 dev.zio	zio-aws-apigatewayv2_3	7.31.28.1		3a9b384234cf841eb60bf527724cfaea1f46cedb
 dev.zio	zio-aws-apigatewayv2_3	7.31.3.1		091eb0b3143d2c01a5c4a4f8fdfa182b1a5914f0
 dev.zio	zio-aws-apigatewayv2_3	7.31.30.1		8afdca45f87a5c34307ea466463afcf859a6e62f
+dev.zio	zio-aws-apigatewayv2_3	7.31.30.2		617db4fe4c6c016239498df2fbdb03b6350d9a69
 dev.zio	zio-aws-apigatewayv2_3	7.31.4.1		9b354bd07498f590c905eea996b997a020e469e4
 dev.zio	zio-aws-apigatewayv2_3	7.31.6.1		752e6908cacc4ab47c5c9a0e057a6d42bc20ee3e
 dev.zio	zio-aws-apigatewayv2_3	7.31.6.2		4d3d34ab80d174cdb57b6e48283e8474b0cfe7b4
@@ -820,6 +821,9 @@ io.ktor	ktor-server-forwarded-header-tvosx64	3.1.1		5761e5e690f92ccaec5c802bae15
 io.ktor	ktor-server-forwarded-header-tvosx64	3.1.1	metadata	123ae3bf55d2aa6712784e7cf0de2cbaba329e8a
 io.ktor	ktor-server-forwarded-header-tvosx64	3.1.2		76c821031793c3fcc918c7b3fabce6a72140b33b
 io.ktor	ktor-server-forwarded-header-tvosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-forwarded-header-tvosx64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-forwarded-header-tvosx64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
+io.quarkus	quarkus-oidc-dev	3.23.0.CR1		16aebd2c0f4878210ada413e11326f6db57474ec
 io.quarkus	quarkus-resteasy-reactive-jaxb-parent	2.10.0.CR1		N/A
 io.quarkus	quarkus-resteasy-reactive-jaxb-parent	2.10.0.Final		N/A
 io.quarkus	quarkus-resteasy-reactive-jaxb-parent	2.10.1.Final		N/A
@@ -1351,10 +1355,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.79.0		f3
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.80.0		cb48aeae65315a60ed4dcb8faa689501402c6e83
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.81.0		b9252b4e34d17d27f7e4e2bf743ee4cce0b09d12
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.82.0		fb45587e35117ed3b69aa3509da1ba69db245533
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.82.1		3b68a421b1e10a41c5de6e73ead038b8e6b12b7d
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.83.0		5bc50ca8d178fd0353cdbc0bacb0bfe6cb0318d3
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.83.1		9e645dbba52a58750951ea1eb0a3cd52f14c6375
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.83.2		707f26e568c8b17142ac33fbe65aec2c135ddd74
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.83.3		e28d8ce8499d06b616eabfdc86fa28ae0025c725
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.84.0		de7e56ac6f780ba25758dddc0287d443ca9e85ba
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.84.1		7e0ad9cafc4bf735f07daf0e8438b74858ac391f
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.85.0		59d6410a0f187fbaa5c89d9b2da911c9feaa8b15
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.85.1		f0a66140dc3b15f66910d8bbe814d13a8136d885
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.85.2		0823a4df064aac966fc82ec7ae8460e983440b5b
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgres-PCT	4.85.3		6e44bf60cada9e05926ed5aa00dd5a8ccd546e0a
 org.geneontology	archimedes_native0.4_2.13	0.1.1		306174194344d86a58998e730099830e80a3f380
 org.hibernate.search	hibernate-search-mapper-javabean	6.0.0.Alpha1		e88565261d6e5bd479f768c0185a77ac32e236b6
 org.hibernate.search	hibernate-search-mapper-javabean	6.0.0.Alpha2		d0b76509de40ad0aad93349a099cd2dd1bfea342
@@ -1832,7 +1843,18 @@ software.amazon.awssdk	geomaps	2.31.30		3c8a0fb1eee5c9a292cbdc43550a477ef4fd34f2
 software.amazon.awssdk	geomaps	2.31.31		53c615b07f1c10b911162ad24c6576fa63b1e2d0
 software.amazon.awssdk	geomaps	2.31.32		161abe3c5afdffaa0e54f8749314c37e3144061a
 software.amazon.awssdk	geomaps	2.31.33		56124c02e687311c540e3cd319de558cd1545a6f
+software.amazon.awssdk	geomaps	2.31.34		b0ba0b5a771d7fa54e2a54a1e5f75d1c1a0cc6ca
+software.amazon.awssdk	geomaps	2.31.35		df74405816e3465f1b6c5b00d310ae342c4b1edd
+software.amazon.awssdk	geomaps	2.31.36		96c3427f3a932da67caa1f17ecf63c44b6da560c
+software.amazon.awssdk	geomaps	2.31.37		a13b4c21947c2a80bbf76d8fb6c13514add03661
+software.amazon.awssdk	geomaps	2.31.38		cfc1a9f6104d9a6944d1b519f6516843915e0c83
+software.amazon.awssdk	geomaps	2.31.39		fca0e403ec6141289ec8f9fc7caa969afa227bf4
 software.amazon.awssdk	geomaps	2.31.4		f993ca28518bbb096819947fd1878f97b01816f5
+software.amazon.awssdk	geomaps	2.31.40		1e78bbe8733799852bccdc47cd236a77107105b7
+software.amazon.awssdk	geomaps	2.31.41		7084b491fb2f7217b11e7fd6888b4d580d0d39e5
+software.amazon.awssdk	geomaps	2.31.42		2f5afc2c43b7e7a19ac2137d9792ab92ee8b7d99
+software.amazon.awssdk	geomaps	2.31.43		0b88b280119bb68757780edbd226799f831e4fb4
+software.amazon.awssdk	geomaps	2.31.44		bb159cf3007ff6ffb2ce62347e860c592371959c
 software.amazon.awssdk	geomaps	2.31.5		b860b17694782ee2014647372c49c1914c2ecf62
 software.amazon.awssdk	geomaps	2.31.6		14f41db16cbd417e901ab8385f17094f8172d572
 software.amazon.awssdk	geomaps	2.31.7		24c02d39d1fe3ef16fa89e99deecfbb7d1abb449
@@ -2712,7 +2734,18 @@ software.amazon.awssdk	opensearch	2.31.30		bc033085ac35cdfa00a11a5dda303970ee6c7
 software.amazon.awssdk	opensearch	2.31.31		785b0b26836c15cc8e1a546fbded6d4d6f742edb
 software.amazon.awssdk	opensearch	2.31.32		2535195476c57cf3713992c614a231db9054fcda
 software.amazon.awssdk	opensearch	2.31.33		2fa3f0c526ee26a47d34a738a16e6de1f2e236ae
+software.amazon.awssdk	opensearch	2.31.34		d5db60e313364dbc5b8ddb2f69bed52a4465056e
+software.amazon.awssdk	opensearch	2.31.35		1b1beec0cfbf3300d00c44670b391396d8884a05
+software.amazon.awssdk	opensearch	2.31.36		8cfc9fb8fa110440ca8561441457d7fc3c52760f
+software.amazon.awssdk	opensearch	2.31.37		5e6f701c3ceda4e9e867be78fb1d08cf84f1c710
+software.amazon.awssdk	opensearch	2.31.38		351b2d4a9a242351ba99d1caecf76e06a0c64d38
+software.amazon.awssdk	opensearch	2.31.39		a5dc746b4c8f73440009b43b14b9f3261968a91d
 software.amazon.awssdk	opensearch	2.31.4		9af2258dcc5ef4ff99061ef860ad816ad1497768
+software.amazon.awssdk	opensearch	2.31.40		4c0933fc53e101356ed77317a70d067dc9e79cd4
+software.amazon.awssdk	opensearch	2.31.41		e58086958993023445c5107893dc859113b12667
+software.amazon.awssdk	opensearch	2.31.42		674ffb819543b6391d9355862f8167cd5d3c41d9
+software.amazon.awssdk	opensearch	2.31.43		63012133cd71188238380f3eaf7bdb019a39ceaf
+software.amazon.awssdk	opensearch	2.31.44		4df061c0fc8702d677ec6f6d9ace31e2211f85b9
 software.amazon.awssdk	opensearch	2.31.5		b79687390a23b30344621684e9ce3322631b624a
 software.amazon.awssdk	opensearch	2.31.6		0236292138e7924b773fefb06e87a9561532f5c7
 software.amazon.awssdk	opensearch	2.31.7		ebbcf356f1d2954861f7a035ed5ee3cd7f77fdbe

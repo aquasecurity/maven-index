@@ -406,7 +406,16 @@ aws.sdk.kotlin	arczonalshift-jvm	1.4.73		21b6869e5f82f7de62c72fe3ab595c8314edfe1
 aws.sdk.kotlin	arczonalshift-jvm	1.4.74		66a98195281b380437faec21cc567f2ce5831294
 aws.sdk.kotlin	arczonalshift-jvm	1.4.75		a71dfbc23182277fd61dbfbb7cc74280cfa1d3de
 aws.sdk.kotlin	arczonalshift-jvm	1.4.76		a63cf3c4a66eaa5c96f656d079355fba7f97c806
+aws.sdk.kotlin	arczonalshift-jvm	1.4.77		06008d1df3be74860ceb28bd7a3d56b3cf4bb28c
+aws.sdk.kotlin	arczonalshift-jvm	1.4.78		b23d21f47862541e9c29f485e8d89d24fd40a4bc
+aws.sdk.kotlin	arczonalshift-jvm	1.4.79		021d4e5af20c751989013106da81caff4ae29a37
 aws.sdk.kotlin	arczonalshift-jvm	1.4.8		8ef5a01e454b73a9921b25d4e7810e27c142ff46
+aws.sdk.kotlin	arczonalshift-jvm	1.4.80		f2d6b406f0d04532942167fdb5a39dc2997555ea
+aws.sdk.kotlin	arczonalshift-jvm	1.4.81		c5869b1ada584ad35d4ecf7d689df39bd6a8b2a9
+aws.sdk.kotlin	arczonalshift-jvm	1.4.82		62b197339839c5207f4b39ce84c38f377cefa4c3
+aws.sdk.kotlin	arczonalshift-jvm	1.4.83		8ebb699709e711de4c625c5682abf0d66e9f4415
+aws.sdk.kotlin	arczonalshift-jvm	1.4.84		1549c51c7b2b37c05ab09b83684ccb8664333833
+aws.sdk.kotlin	arczonalshift-jvm	1.4.85		bede8c0cba890419909f5100990db817476f2c9d
 aws.sdk.kotlin	arczonalshift-jvm	1.4.9		d0d3e00b3875264e4e1fb360c95daee741a1ec67
 cn.enaium	kook-spring-boot-start	0.1.0		5c4d9054d92eb5fb7082d61916c4d9f16e7ebadb
 com.alexstyl	warden	1.0.0-alpha1		N/A
@@ -1137,6 +1146,7 @@ io.github.tomwindels	tesserakt-serialization-n3-js	0.1.1		N/A
 io.github.tomwindels	tesserakt-serialization-n3-js	0.1.2		N/A
 io.helidon.common	helidon-common-resumable	4.2.0		71c2c6f286134e399afbecfdc2559cfa17d7e30f
 io.helidon.common	helidon-common-resumable	4.2.1		791ee193b659b7d0f2489e52fd5c19c6569262cc
+io.helidon.common	helidon-common-resumable	4.2.2		0c33cf30e96766ddd3b69ca90b4ffffff6c63924
 io.helidon.config	helidon-config-bundle	0.10.0		dcdf977ab8d230a6b97306228da59f0462f79d6d
 io.helidon.config	helidon-config-bundle	0.10.1		16e9f923b37f700f81762ca8fff5b9a577180195
 io.helidon.config	helidon-config-bundle	0.10.2		1c24f8ff4769c97aa6539c2b760155f566e39bdf
@@ -1356,6 +1366,7 @@ io.quarkus	quarkus-micrometer	3.15.2		5a129ff7c2c9e7a5331272cf6bbc9c4f6115cc82
 io.quarkus	quarkus-micrometer	3.15.3		70efc2dc655b3480ffda0518ac3f1688a9626ab5
 io.quarkus	quarkus-micrometer	3.15.3.1		f70905dfc9ddabddb682aef5dc0850ffb95a0f6a
 io.quarkus	quarkus-micrometer	3.15.4		aec24e85002cf56474e1a9ae79471b0542510fd9
+io.quarkus	quarkus-micrometer	3.15.5		7e267c390b0e75de8bb39087ae96daf2e2857274
 io.quarkus	quarkus-micrometer	3.16.0		5687504a12922c2e304b8da535ff1df5061aa2c1
 io.quarkus	quarkus-micrometer	3.16.0.CR1		4625c3300638727d1f2dccc9f445b303f4386fdf
 io.quarkus	quarkus-micrometer	3.16.1		e29e0f1b3847e13228be56850adea9840bcd6a58
@@ -1400,6 +1411,7 @@ io.quarkus	quarkus-micrometer	3.2.8.Final		bb7d8713c5eae73fdd44071f25926f9cab0bb
 io.quarkus	quarkus-micrometer	3.2.9.Final		4e99c365ee363ec4ab85e66fe14939bb746761a6
 io.quarkus	quarkus-micrometer	3.20.0		48b6c4f1e7451d33d216c9c5bc5d861c9dcca2cb
 io.quarkus	quarkus-micrometer	3.20.0.CR1		b438903da913a12e02dedf56c1648d4556c3a3eb
+io.quarkus	quarkus-micrometer	3.20.1		daa55e3450144eb73493fbab74b492dc23ebf41d
 io.quarkus	quarkus-micrometer	3.21.0		0c55d54e47cd4117ac70bc32f51011bb9bd7e8c9
 io.quarkus	quarkus-micrometer	3.21.0.CR1		b8a5f7f91145fe0b6983ce04292c30e055e4d4db
 io.quarkus	quarkus-micrometer	3.21.1		1a7bc3d16209fb242c9bcca831d97d0b2a4a70fb
@@ -1409,6 +1421,9 @@ io.quarkus	quarkus-micrometer	3.21.4		3ef394659e999bbaf1871aac8a259d389b38a976
 io.quarkus	quarkus-micrometer	3.22.0		4445ead7a9e1515e3f3ee2ae20836aa35d221e73
 io.quarkus	quarkus-micrometer	3.22.0.CR1		89cd0cc69bae60c103f1121e5e2d4b24963734f8
 io.quarkus	quarkus-micrometer	3.22.1		6376d82200b5e59f0b54392aaad5dc962bd416d0
+io.quarkus	quarkus-micrometer	3.22.2		1fbb6bc707530c421f06217010b537abb7157cdb
+io.quarkus	quarkus-micrometer	3.22.3		e6796167b58225d5b783d8fed64682845d7f5fbd
+io.quarkus	quarkus-micrometer	3.23.0.CR1		05ce6341c9d00a602dabf8bacb6677134f2e45a3
 io.quarkus	quarkus-micrometer	3.3.0		5f4edafb6675bc41817b953b9829ab72f94db190
 io.quarkus	quarkus-micrometer	3.3.0.CR1		3dc0e5c3f23349dc5620f385d650592c19d8fd23
 io.quarkus	quarkus-micrometer	3.3.1		b22c4f84298f8b18a51f8df9947cf8f33dcfe172
@@ -1572,6 +1587,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	11.2_1		225b64
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	20.0.0_1		d37b1eaa52f7baab717aff6b58ec4e2f968a287d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	20.0.2_1		1ede43b517ccd1c10d6b1c64fbdc4ee5b9287152
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	20.0.7_1		08a8fe4e41dc54c956367d6db869ec1ba99de9cd
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	21.0.3_1		593516efe7bf9ae19d3269975ec96f43e4fe1c8d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	6.0_1		afaa1d53935b307128c9d724ae00dd7cb2dab6f7
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	6.7_1		393820a4d6d99d1200fd938a69a2629f9e038760
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.jt400	6.7_2		a4ed2dadd8910c879906d367773641e4a03857cf

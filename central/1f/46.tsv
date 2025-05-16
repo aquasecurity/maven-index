@@ -81,6 +81,15 @@ cn.fossc.polaris.toolkit	polaris-logging	3.3.4		N/A
 cn.fossc.polaris.toolkit	polaris-logging	3.3.5		N/A
 cn.fossc.polaris.toolkit	polaris-logging	3.3.6		N/A
 cn.fossc.polaris.toolkit	polaris-logging	3.3.7		N/A
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.2.0		623a2052477256ef2b928f4d0110fac794ddae04
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.2.1		2a8ff0c5f77b32d042e8a2586a26a463625cefca
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.2.2		4f8cab4bdfa5fb0d19c0c23579899e1902c38d61
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.2.3		ce16150f91a497bf45899052f0b6a0f6df222702
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.2.4		b72a862f6c92ccd98a7bd774ffc5de12a1a5fe43
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.2.5		8ab8313f910e748c6ca505794662cec805dd3765
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.2.6		43c96c0032c9ad496edad019a4107a263d89a4b0
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.3.0		9a285ffb798cca9d59c3cea224cef2f2f83017d3
+com.alejandrohdezma	sbt-fix-it_2.12_1.0	0.4.0		e15be6c602382b427d6f30c964713d28071dab6e
 com.boozallen.aissemble	extensions-helm	1.10.0		N/A
 com.boozallen.aissemble	extensions-helm	1.10.0-rc2		N/A
 com.boozallen.aissemble	extensions-helm	1.11.1		N/A
@@ -1040,6 +1049,7 @@ dev.zio	zio-aws-mturk_3	7.31.27.1		f7e2bdaa3d7c5996a7d7d2ea2e348d89e61d8a3f
 dev.zio	zio-aws-mturk_3	7.31.28.1		483520c3ee3b391a7468719c22dd592e9b8201be
 dev.zio	zio-aws-mturk_3	7.31.3.1		13d8122a963ee3acfe0f3746f8937a9bb6ba6d91
 dev.zio	zio-aws-mturk_3	7.31.30.1		9704456638957cb38a26c96e4aa513b35d296237
+dev.zio	zio-aws-mturk_3	7.31.30.2		40b3e626db1244d0f3fb0105a0ec88ca0f4a2644
 dev.zio	zio-aws-mturk_3	7.31.4.1		3d2ac9aac67354e906e8a7f97fbca4c53676ca84
 dev.zio	zio-aws-mturk_3	7.31.6.1		7b242b79e5b4459b796072e5b5294a0a170b926b
 dev.zio	zio-aws-mturk_3	7.31.6.2		ef05ba1b013a15a0938b83901edc2e7fad063734
@@ -1537,6 +1547,7 @@ org.apache.camel	camel-dhis2	4.8.3		52189234da8d4fd5f80b6554a0333cda9b0ec577
 org.apache.camel	camel-dhis2	4.8.4		a0af5ca43dd5e805d3fbbbda4dd8f2e72ad060b0
 org.apache.camel	camel-dhis2	4.8.5		b3979e749ea8e1425b1ca7e56b7dd06f6c4b3721
 org.apache.camel	camel-dhis2	4.8.6		f2084de31039aacf9ec3c0d047ff5549b36b6a64
+org.apache.camel	camel-dhis2	4.8.7		cb3a67265526d4b1b607e1bf3821d6faca9502f4
 org.apache.camel	camel-dhis2	4.9.0		a4d3d2a3a6f95017f440ad1dd9555d9aa8d77105
 org.apache.kafka	kafka_2.13	2.4.0		279df6f626dab0b8deff270dd3c828237887b67a
 org.apache.kafka	kafka_2.13	2.4.0	scaladoc	b9deaf003a58243e7eb4e16bb2441a2e62e37d3f
@@ -1651,6 +1662,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.7.12_1		67b4213d8ec8e008ec32ae38ddfcf938da1b3964
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.7.12_2		d28b8c5f999d498fc58c3fcda697c5829df3bf8e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.7.12_3		c3903f4adab2d232da99352353666e63b4f5960c
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.7.12_4		a80d8cfaf5e9e5f23eb3c4b85d5a61d575806d58
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.7.1_1		c59c54d19e5df19d7a6862256d208a89973bed80
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.7.2_1		38465a313a6b0a0d6bddfc4fe0df2a92cfa95226
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.7.3_1		65467e3bdd8f21faeaaa029357c89235450c7cc3
@@ -1658,6 +1670,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.8.0_1		853a440bb618434ce293c6edefd7542eba21baee
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.8.14_1		16583be6b274b72a6fd0133142eab21fdcf15bef
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.8.15_1		f210e69a82b8f0cfc7dae5220ff36fd4736c675e
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.8.15_2		2cd768c9d14ed2bc4a4174a00eab146bee0cb3f0
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.8.1_1		fb1590dbf9eb0f0b8ade3ebc0b0852d896c437d9
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.8.4_1		361f649dca5f6a1445be6337891fd838fa6c2a4f
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	5.8.6_1		48a6c564bf878be86002faa99188685dcbe54073
@@ -1675,13 +1688,17 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.1.5_2		deda19baad5fa2850d18746d032c255f95f7cf04
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.1.9_1		cea9138c462ae15e4403812e61918b7da927f21e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.1.9_2		a610ed399e40596da5aba593eba1fc2bb7e2400d
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.1.9_3		2a84e279970ba045113c6db16f62a9e0fc76535b
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.2.0_1		a785060ef42096d76f5b6ce5ce4e3f1bfdf3ccee
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.2.1_1		e5bcec1522d1954d5b849b82ac4a38728959076c
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.2.4_1		d90ef39d2a00df3adb7627e724f87f1a4eea3783
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.2.6_1		f2ccb2efe76f2bc733b725f354eac82c0b6e38d4
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.2.7_1		c011b9608e0fc475a04071f31243c68db5f54fb4
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.2.7_2		2aaf217aaf65a5ffabb268670ce63cf6ab9a4966
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.3.3_1		892224c209c3304265e018feb75fa7a0c0b118fc
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.3.4_1		14fc4070dd3dfd706463a8a68ad05510a133e438
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.3.9_1		79b78dc23989c36de95707cc8618337a97239df4
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-test	6.4.5_1		cb74003714ef8a3c55981fee420a7f1ae3cd06a9
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-jwt	2.4.0		71d84eb0b460074afd96e9cf847552d787a4473a
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-jwt	2.4.1		8df49b9945b48a137de91d00752df765136bec6a
 org.apache.shenyu	shenyu-spring-boot-starter-plugin-jwt	2.4.2		e7bb78ec7e7db63a1b7a6bbdea31d4b248cdbf03
@@ -1763,6 +1780,19 @@ org.eclipse.dirigible	dirigible-components-ui-editor-image	11.41.1		186f40e0bb54
 org.eclipse.dirigible	dirigible-components-ui-editor-image	11.42.0		e0d86817354c7540b1c67f671ff85dfd2c3a908d
 org.eclipse.dirigible	dirigible-components-ui-editor-image	11.43.0		d1e8a3fb4cc3203ec2c1c76c69d3101f8c265ad4
 org.eclipse.dirigible	dirigible-components-ui-editor-image	11.44.0		278637944f32eaf32349a7e7364dc3da3555e098
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.0		6a2e4751d98171f62450e0b294c78620defed614
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.1		b4ef68e1bed3822f4430338ef32b59e8c2d6a963
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.10		f7ff7ed4a6944af8c59b959e236d8b39a85e4513
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.11		01f421dd236910861b12bf752fe2da73819ee4ca
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.12		020cb954b52454aa7d99389ed65bc3712bc94bf3
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.13		eaca60612246a714e39f4b38394a46e9afdc24cc
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.3		2361c8185b4f402195b8e07d3b2ca576c00470b5
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.4		17bb5a0abc30b4bbe90e869fe4f28868996cc8d4
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.5		45fc427d0832129934da9e7c9369b881c629b2a5
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.6		3fae3619c5acc02393aa557aae2c24165cf782f8
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.7		00fe7aa92416e52e39845a731edf936af7795c2a
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.8		10e276739babb0a5376c27d0320b632f12d5e75b
+org.eclipse.dirigible	dirigible-components-ui-editor-image	11.45.9		ceda5486a467e59c64b00d3d68c2213ac059aca5
 org.eclipse.dirigible	dirigible-components-ui-editor-image	11.5.0		8621745209e8c3d6c51898a0fb939243fdd34e73
 org.eclipse.dirigible	dirigible-components-ui-editor-image	11.6.0		dba664f933af7e05f545eeb9c2d727e41d90aadd
 org.eclipse.dirigible	dirigible-components-ui-editor-image	11.6.1		96523df5974336926a81444b8fb206ee414aefcc
@@ -2019,6 +2049,8 @@ org.vechain	indexer-core	1.0.1		1c089e8d38d4b5ac02abf1918df4c2620f455b91
 org.vechain	indexer-core	2.0.0		01492f4c042a3b115c9c76a151d79b59ea38017e
 org.vechain	indexer-core	2.1.0		bb958854a5e796c394d3ef940a2cf3924e4a39c5
 org.vechain	indexer-core	3.0.0		0a6e2e0a52b89198f35333302d00771aa787c7a1
+org.vechain	indexer-core	3.0.1		9de80c70b48a644c10c824bc2b3fb46213e8bfe8
+org.vechain	indexer-core	4.0.0		9a7ab0df07d1738c2ee2a59335e3820103c5fe6f
 org.webjars.bower	github-com-PolymerLabs-promise-polyfill	1.0.0		01717a75671e9f77b92e0eb1d61f08e99d8e1014
 org.webjars.bower	uniform	4.0.1		40f41a993c1cd237ccea51f2ade99ebdc03a4b2b
 org.webjars.npm	angular-localforage	1.2.2		1d7ed02d191772d9098b3b662973eab0ed3476ec

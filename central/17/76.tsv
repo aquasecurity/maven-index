@@ -1,5 +1,7 @@
 be.orbinson.osgi	opentelemetry-sdk-trace	1.43.0.0000		4ce81e8bd7b94449c813cbc3a5e8d75d0f6fd391
 be.orbinson.osgi	opentelemetry-sdk-trace	1.43.0.0001		55c605426e9df073ff50ead6013c0302fe7b963c
+biz.cgta	os-cgta-sbt-plugin_2.10_0.13	0.1.3		145e319a9e8eea5c98140a63236d72cefd6f12dd
+biz.cgta	os-cgta-sbt-plugin_2.10_0.13	0.1.4		9e256fbd61ed073d3b0fc4ab0a46425bac632e40
 com.adeo.libres	libres-compose-android	1.0.0		N/A
 com.adeo.libres	libres-compose-android	1.0.1		N/A
 com.adeo.libres	libres-compose-android	1.1.0		N/A
@@ -153,6 +155,8 @@ com.github.uscexp	BlockFormatPropertyFile	0.1.0-Beta		9c358a16da94438b5d5601b393
 com.github.uscexp	BlockFormatPropertyFile	0.2.0-Beta		440a7713d6062c79c9d8bdddac798b5b41ddc8e6
 com.google.ads-marketingplatform	admin	0.1.0		6e17517266350ce0e471bd2e6b4369a1157ba54e
 com.google.ads-marketingplatform	admin	0.10.0		d348e2e7074bd34f11df129515ccaea62b403781
+com.google.ads-marketingplatform	admin	0.11.0		473e026cf47b4ece626c5dbde51465800f27000e
+com.google.ads-marketingplatform	admin	0.12.0		6a1b39c2996508b2b1a44a3e8996d1fb6bb77e18
 com.google.ads-marketingplatform	admin	0.2.0		4f3d54d0a432f996c12c1f99d38772a50585a738
 com.google.ads-marketingplatform	admin	0.3.0		dd29af857f9d4837e7b47b020f9edcc5f5070451
 com.google.ads-marketingplatform	admin	0.4.0		d962f46819b083eb0423a57618882cd3682d8b8b
@@ -210,6 +214,7 @@ com.lihaoyi	cssparse_sjs0.6_2.13.0-M5	2.0.5		5904e87a7d8d9a4ebe8000c696db794434c
 com.lihaoyi	cssparse_sjs0.6_2.13.0-M5	2.1.0		86a73af97cd365a11a617613d4e4a7bf73e6826d
 com.lympid	lympid-core	0.9.0		b2bd8621a08fe34186fc7b3f6348aa41e8533cf0
 com.lympid	lympid-core	0.9.1		f4a9b5b4ae395d880192d9fdd38f5c12be073d73
+com.modmountain	sbt-sass_2.10_0.13	0.2.0		1c9211008f87e70aa74f883979f22207136dabc7
 com.niubaite.boot	ad-admin	1.1.6-2024		e81748f847ba2b0a8e5aee99024e7bc641d5daab
 com.niubaite.boot	ad-admin	1.1.7-2024		bac69630a4a150ba4bf545146b66f40bb87bb54d
 com.niubaite.boot	ad-admin	1.1.8-2024		0a998f47594c2c14f4be86187064e492b61a7521
@@ -774,6 +779,8 @@ io.piano	piano-java	16.449.1		a47fb17bb26ab0fca80d5c66c68c789bb57dc706
 io.piano	piano-java	16.454.0		16e7b6a9251ae57cf58e17b362156d70f1eef0d9
 io.piano	piano-java	16.459.0		870226caa84abcdda827f7db21fed9899230fe51
 io.piano	piano-java	16.464.1		cb6887818efcb9263dbba2eaa6c712b287cf485b
+io.piano	piano-java	16.467.1		3df3889ff7e1186f8c3901d73a77865411224717
+io.piano	piano-java	16.470.0		3a8645d546dbb3c4b5fd0b4e2a6199a13466cdb4
 io.piano	piano-java	16.5.0		2395d5e0be53e527fe3e02f09e8c6271ba7c04b5
 io.piano	piano-java	16.50.1		6b574132f63e05341da68f7fc9ee7050643700b3
 io.piano	piano-java	16.62.0		0f39e4d16a3c9e89929c7a0d7c6e600bfcc5b9df
@@ -918,6 +925,7 @@ org.apache.camel	camel-python	4.8.3		bbe15fab46bb3c7c6093386ca0e0f7ade878fedd
 org.apache.camel	camel-python	4.8.4		742ad063d6800b18acf39558437ce2af3416f0dc
 org.apache.camel	camel-python	4.8.5		c3d87de5b19644323b5e17e2ae126733c7afc605
 org.apache.camel	camel-python	4.8.6		ed119574e18a539a081a04650b33d7b901877cdf
+org.apache.camel	camel-python	4.8.7		23ec2162ccf00d817ab25e5cd861601d228a9fa8
 org.apache.camel	camel-python	4.9.0		f03f895d4baf0eb2b92b6fab0353a8cbcbabc114
 org.apache.camel.karaf	camel-zookeeper-master	4.10.3		f79efef5e400b63bb94e1bf4857b7676627e614e
 org.apache.camel.karaf	camel-zookeeper-master	4.7.0		a79da9d89b9e82684768a7e42289b1c55d09c62f
@@ -983,6 +991,7 @@ org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.2.1		2e889486483a1f8ca2d
 org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.2.2		5639ac47645113aae3bd36af5f561dec73d589b2
 org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.2.3		12713617bf9f11e522c65976a8ed19ef7af34d30
 org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.20.0		70938bc4f2fe2c1782ae291fb818b35715edef7d
+org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.20.1		2d031ebfcd3c7a4b054eba34aa34e706151fdc6c
 org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.22.0		896a0ccdb3367b04aadeb00eb0370c7b83a802d7
 org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.4.0		0f361f3be736ec2f59ff3f108a68bffb84b747bb
 org.apache.camel.quarkus	camel-quarkus-hl7-deployment	3.5.0		84d597d71c5a443d0eff642e3c5b1cd45b882d89
@@ -1051,6 +1060,7 @@ org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.2.1		1189ed7077108f4e2
 org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.2.2		75b47fd63ab6430bbc82d127de70c7ba4e952a76
 org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.2.3		03cda11c47fd65521ce6678caa979b1d9b9274cf
 org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.20.0		e16c680511c97079fd6e5ffff0c08a7a57e75e86
+org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.20.1		e47da06d65bc89183193c3d25a9839e0fc0600bc
 org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.22.0		83dc90f30e45c42daa5a2956964c09ddcf72bf2a
 org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.4.0		4fd3fca5108e6e23dcfa6b79170d92ffbee547b8
 org.apache.camel.quarkus	camel-quarkus-zookeeper-master	3.5.0		03a8b432e7e4f7a06487d44a3d8be3ab648df100
@@ -1276,6 +1286,19 @@ org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.41.1		05f37
 org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.42.0		58735f7dbb2b87bde9e013660926eccdbd09721e
 org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.43.0		6562c84234554bd1ccc89c7e15680122af104615
 org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.44.0		53dae19a7f29c73b4742a005fc5c62c531735cf4
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.0		d6309af886d2df2510983384b5cc9b8e7db71b22
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.1		94953de21c2c3c76228985664ce58e76fadb1d2a
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.10		08f286d4aff560d4942e5d3d0c3d16bb44491334
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.11		6faadaa10bc62f87b1e4af3ede2a3a7ea7637188
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.12		601fb19a482c596f6e320a48f929ec9db62f31bc
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.13		4156b80739163f6b18f5ea8c590c68fec251d41e
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.3		92158b16e92c10919986328b5d8b4796f461ac4a
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.4		b272d13ccbadd5c881e5604655e0cb0968ddc99d
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.5		a5e1a750ed40ecaabc377f967132dcba1ffcb396
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.6		dc45cfb77e03a3800652d4f0d272329ba58437e2
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.7		ed1bf9c3f9dcecef5438e9bbab14aa09e61de0c7
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.8		1158cabb52e641e01a19e5f6ed63a1975eeb5c40
+org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.45.9		6c81f5ce68988c2fd3cf603cf554f203536251fe
 org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.5.0		e39f29581bac8324a8cbcd0b62e55ff8b6d067c8
 org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.6.0		1c3158f5afba06565a9634675b3fb22590897166
 org.eclipse.dirigible	dirigible-components-api-modules-javascript	11.6.1		53dc56dd3b4a9ba9ebc161aea05982d82ae84ce0
@@ -2892,6 +2915,7 @@ org.sdase.commons	sda-commons-server-circuitbreaker	7.3.13		bc01f2631df7b66c1c8c
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.14		b2455dcd02595a7b4383892c701828a23655f6c9
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.15		6dba9f3cc039d8c6bbbb9024d1f2324e28c65c99
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.16		ad2f944ece5405d5c45f1626ec7b8535c2a79ff9
+org.sdase.commons	sda-commons-server-circuitbreaker	7.3.17		1d5cbaee2b522ec22b35ceb4703c454bb0b1dbc9
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.2		2b5de246b608fc36e2e36d216ab9c709cea786b0
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.3		41c8e8e74885a89c8cb41650938aba34d3796906
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.4		59091137e9bf339aa42a99b75c47e3425084ad88
@@ -2900,6 +2924,10 @@ org.sdase.commons	sda-commons-server-circuitbreaker	7.3.6		80da81f759fbc447e599f
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.7		c0e6cc7c29bdfa0ab2f6c3dbb6c5361ac491b5a4
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.8		ca7fffbeefa0bdfbcc6c24737f568fc7eae398f9
 org.sdase.commons	sda-commons-server-circuitbreaker	7.3.9		61db72b87701b2642d2b7454635a14ae81cf0a2e
+org.sdase.commons	sda-commons-server-circuitbreaker	7.4.0		e53607ce4a68d6873ee0b76b1bd074d25016d5b9
+org.sdase.commons	sda-commons-server-circuitbreaker	7.5.0		c9c5d3f4b8104187e8ccc15fd542ec40b5f7819b
+org.sdase.commons	sda-commons-server-circuitbreaker	7.5.1		6500a5a8d6531a4c30e2c83d0889aabf71dfd97d
+org.sdase.commons	sda-commons-server-circuitbreaker	7.5.2		15d8bcbb9db7c787f5c9583ec0caaca32549dab3
 org.terasoluna.gfw	terasoluna-gfw-jodatime	5.2.0.RC4		dfe7c6f977cc21ab97dfaaa49108692554357e00
 org.terasoluna.gfw	terasoluna-gfw-jodatime	5.2.0.RC5		b21a75748c982e5e69e4392f9ce3b94ee819ef3d
 org.terasoluna.gfw	terasoluna-gfw-jodatime	5.2.0.RC6		63628f41be213aba1f17f6008f7b41c816795b8a

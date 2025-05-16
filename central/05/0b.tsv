@@ -655,6 +655,7 @@ dev.prokop.commons	java-army-knife	1.0.1		9a85ed25320fb3873e7bea1019f7fed60017eb
 dev.prokop.commons	java-army-knife	1.0.2		9d55e501e9eee878213d31e4bc51d5523a2f7bc0
 dk.dma.enav	enav-serialization	0.6		a740e35ec1d20b89c482f059aac926de34f9b860
 fr.ird.observe	toolkit-api-dto	10.0.7		95afe9c75b451ea48560d8ef6876e6afb2737b30
+fr.ird.observe	toolkit-api-dto	10.1.0		8cd79d537da1c77a9a05b24df8ae99f9618052f0
 global.namespace.bali	bali-scala_2.13	0.1.0		4603cb9e8f4d28df6eaaf2005cfa41fd205c6b49
 global.namespace.bali	bali-scala_2.13	0.2.0		551ef0909eb4c8738bfb4a8495a73c687b769e91
 global.namespace.bali	bali-scala_2.13	0.2.1		a4c9e2d871bd9b568c25220694e030e2c32334cc
@@ -745,6 +746,7 @@ io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.19		9fbd2554dec6a22f988c9565b88
 io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.20		13639686d2ecd63b47a16717bb0d3874f21869c8
 io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.21		1c60e48d429c0297f674d7ee1bbc8945fdff4cf5
 io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.23		ca32ffa993f1e2bbdfd0c03fbbb8dd4ccd6daa52
+io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.24		f758014c807722691635c1e98dff868e9595a106
 io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.4		16476d3f91995c665dd05ab978236658f1eca29c
 io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.5		98fd949c5145a185ae1227c600eac0b0d43983cd
 io.github.kitlangton	neotype-zio-test_sjs1_3	0.3.6		5c92c59c570022415ea8728eaafb508e4f83bcc2
@@ -944,6 +946,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-wasm	3.17.0		52e437943d2
 org.apache.camel.quarkus	camel-quarkus-integration-test-wasm	3.18.0		02277d0c4be7ff905a2a39bf1c65c1a2e79b6721
 org.apache.camel.quarkus	camel-quarkus-integration-test-wasm	3.19.0		68c9191eb98bd3bfc153fbf9850de928ddee619a
 org.apache.camel.quarkus	camel-quarkus-integration-test-wasm	3.20.0		4906087a58cd2b94c281f9ce1c58b1e2ffb7d0df
+org.apache.camel.quarkus	camel-quarkus-integration-test-wasm	3.20.1		4fdb8912024dc6ce3b74195b840f4eb1d3fb0ba2
 org.apache.camel.quarkus	camel-quarkus-integration-test-wasm	3.22.0		e36b54c2c5abaecf924e573ec0a20047dbe9428f
 org.apache.stanbol	org.apache.stanbol.enhancer.defaults	0.10.0		b756b3f3fc229767f9dc3261fcf97a01cd78c89d
 org.apache.stanbol	org.apache.stanbol.enhancer.defaults	0.12.0		d30a50bf5adbf7a36474f8c4d00ce6a3ad8a4bfb
@@ -966,6 +969,7 @@ org.citrusframework	citrus-docs-generator	4.4.0		48a37f6ddf7b6fe233982b578c68171
 org.citrusframework	citrus-docs-generator	4.5.0		cb49f49c8589beba39a23872c1b4c0d85b91da8e
 org.citrusframework	citrus-docs-generator	4.5.1		34735e04c1dd98cbc9cd986856b7077386294ea8
 org.citrusframework	citrus-docs-generator	4.5.2		0eb047610f1248acf4335d94e145a02e6ba3ec8b
+org.citrusframework	citrus-docs-generator	4.6.0		87070447cdcd2169ef4cc3c696b4c801d6e10192
 org.cloudburstmc.fastutil.queues	float-queues	8.5.13		375dc94e040c212d884f0108c20069dc19dc1f32
 org.cloudburstmc.fastutil.queues	float-queues	8.5.15		2774cf793bbf2025cb72df05f0c9525bdbef73a9
 org.danbrough.ktor	ktor-server-data-conversion-iosarm64	2.2.3		dc53afa23afd4151d09a9da24103f51a143f2b1e
@@ -1022,6 +1026,19 @@ org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.41.1		a8c9afa90bb665
 org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.42.0		d331ce95456f26e6a8ab7b4517ea35c3818d9ee7
 org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.43.0		80c60f0dfc312399f395492962dbd5f2881415f5
 org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.44.0		5b960febc79c154d1a4c565316ad3131ec6923f9
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.0		21c055d6db06850ce69a4ce47454d9cabaa19b54
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.1		1632a909f6c2bf3842149e52b4b8dbdc5a206b3e
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.10		94c84430e0516c246d8d87b1fd9306a81ed62516
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.11		e57c74b202319f07081c6238c0aa7525e575b03d
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.12		636b64052645e2ab738a0d8ff872bd94946229df
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.13		d933479e23d367bf009801c567fb351c59f58da8
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.3		f0b9460f63eb19ff33a1df140ad2781e8bab6253
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.4		fa934a9b7050dc3330fc9eb462f565460ed4d7f2
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.5		d0636431eeff16160382fb6e7a0d315d101b3b2c
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.6		34fae21df36d59d219dede029900c263fa747be4
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.7		4417de781b4998a5e420e8258410e382d1d81da9
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.8		eee537ab744cb45a492d54dc502e26b73b56d550
+org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.45.9		7da01902f6444feea1ad18ba426c1772d7f7d85a
 org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.5.0		391d0d08e9da7098f6bae405cb9c27f63f28703c
 org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.6.0		7aabfc4d5a62021345e624aa8841cc5df8cf6883
 org.eclipse.dirigible	dirigible-components-ui-editor-csv	11.6.1		5d5d5e6fcfc710c1f36b65a1904150edba99519b
@@ -1043,6 +1060,7 @@ org.gridsuite	gridsuite-network-modification	0.11.0		60aa3ccb4cb46a0e6309c6a78f5
 org.gridsuite	gridsuite-network-modification	0.12.0		b3bdf66cfabb9fe0d822ffc32cce56281d3e42b7
 org.gridsuite	gridsuite-network-modification	0.13.0		2d4c865a2e1d943f5b9e7daaaae55709bd082ede
 org.gridsuite	gridsuite-network-modification	0.14.0		1580d251fa7ba8bfdd069fec28025a4a4441a163
+org.gridsuite	gridsuite-network-modification	0.15.0		6e2a7cba20a710d47348d63a0ca0b32162016416
 org.gridsuite	gridsuite-network-modification	0.2.0		b511c1841a6f344fbb0c83b19e7fdc1f51f5b5a1
 org.gridsuite	gridsuite-network-modification	0.3.0		a061105cb88a10b37e03e9a34a7f335193a461b4
 org.gridsuite	gridsuite-network-modification	0.4.0		45475135669dd1874897d2e9fa223cb27d4d754b
@@ -1123,6 +1141,7 @@ org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.7.
 org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.7.0-rc01		f21183423b995e676640af80dae844fef0d73633
 org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.7.1		f21183423b995e676640af80dae844fef0d73633
 org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.7.3		f21183423b995e676640af80dae844fef0d73633
+org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.8.0		258bd3ed4973b8d0a7c4a268a5a5aa608d7ecfc0
 org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.8.0-alpha02		92148f27e01ac23e2ddc1054f7ce2fb81dba6f2e
 org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.8.0-alpha03		4f0d24ba4302c90ec82cca5a6ec5940dc9d979be
 org.jetbrains.compose.material3	material3-adaptive-navigation-suite-desktop	1.8.0-alpha04		4f0d24ba4302c90ec82cca5a6ec5940dc9d979be

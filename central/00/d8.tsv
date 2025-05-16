@@ -66,6 +66,11 @@ com.butor	butor-attrset-model	1.0.7		4b4df03b841f2f57ad539babc93e96eafaf378d7
 com.butor	butor-attrset-model	1.0.9		289742224423206d3c60d051d1a1cb11d26db557
 com.carecon.fabric3	fabric3-binding-jeromq	3.0.0		376221907ca1baf54bd30ebb5979aba760773999
 com.carecon.fabric3	fabric3-binding-jeromq	3.1.0		30fbd83438cfbd77f7899cb84480e6731306a4cd
+com.codecommit	sbt-spiewak-sonatype_2.12_1.0	0.21-8-6adcb28		dd1b638bbf61163fcf2b5f6fd9c14d31737a064c
+com.codecommit	sbt-spiewak-sonatype_2.12_1.0	0.21.0		ade493a4065d4f99731653521abb3c2cf76f30b9
+com.codecommit	sbt-spiewak-sonatype_2.12_1.0	0.22.0		da67635d176c9b28f4083c69ecc085a7313e2136
+com.codecommit	sbt-spiewak-sonatype_2.12_1.0	0.22.1		5e58740216e75504b876ba08f78306a5f600785f
+com.codecommit	sbt-spiewak-sonatype_2.12_1.0	0.23.0		34f0719ad0f713b5c0fe6657dea7a904c8db2c75
 com.cognitect.aws	iam	661.2.353.0		6d4c0b05650a79ef3b1bf0eb6a0d10e5e4f2ffcd
 com.cognitect.aws	iam	668.2.357.0		676725704f6291cc0f94c402a82cac1c567894c6
 com.cognitect.aws	iam	681.2.373.0		c7f4cab435791bf1953a5c65e345063bf4d69bfa
@@ -565,6 +570,7 @@ dev.zio	zio-aws-organizations_2.13	7.31.27.1		95c7024ba4804fb203a0a6dfa8f4498377
 dev.zio	zio-aws-organizations_2.13	7.31.28.1		a7ddacc1504fa0355db90187a046c5c472220f9b
 dev.zio	zio-aws-organizations_2.13	7.31.3.1		bd0ebe55bca43bf4f65546371a23d280136756ee
 dev.zio	zio-aws-organizations_2.13	7.31.30.1		683a1a4c0585a7e57a5443c5ece6ac4f9a9fe9b0
+dev.zio	zio-aws-organizations_2.13	7.31.30.2		29247042696d55e9c7b2b210eb87d85c19d71823
 dev.zio	zio-aws-organizations_2.13	7.31.4.1		d2e08088826e7ffe11f5c458c93c43e98e02a46b
 dev.zio	zio-aws-organizations_2.13	7.31.6.1		468e2ead31aa9225f3f74a6f20c155d33e3e21b2
 dev.zio	zio-aws-organizations_2.13	7.31.6.2		3895827c57890ee7844edd10e1feecc6cdd00098
@@ -890,6 +896,7 @@ dev.zio	zio-aws-qldb_2.12	7.31.27.1		bd05b798eb930f3a35b5916431a5be2a562183eb
 dev.zio	zio-aws-qldb_2.12	7.31.28.1		db081692ff9ec1b24de58968117e5817159484e2
 dev.zio	zio-aws-qldb_2.12	7.31.3.1		4927eb4f094c95c3093a536acd6f50cc89e9a6f4
 dev.zio	zio-aws-qldb_2.12	7.31.30.1		f79cd3b6974c6073eb82a05cfac3929093f711b2
+dev.zio	zio-aws-qldb_2.12	7.31.30.2		4fccff958ef9003bcedc0e114bed112a463a9f5c
 dev.zio	zio-aws-qldb_2.12	7.31.4.1		c17d6dde6bd05ad1e4e158f87d3c7032ad396378
 dev.zio	zio-aws-qldb_2.12	7.31.6.1		8e3457949c020d7f19dd71b093c7c47516142194
 dev.zio	zio-aws-qldb_2.12	7.31.6.2		f9675a24ee48920aa09dfa3195f2230f76760594
@@ -1062,6 +1069,7 @@ io.komune.s2	s2-test-bdd	0.21.0		0872a017c7f126d6e72d23235e47fa29b7df414a
 io.komune.s2	s2-test-bdd	0.22.0		36dbc16ba2db793fbbbc3463454d0c38bfe29744
 io.komune.s2	s2-test-bdd	0.23.0		9d4079747e1e4b94aa18f0c7d8983d410b707bdf
 io.ktor	ktor-client-mock-iosX64	1.1.0		fbf0680902daee16688d660f7d4d753e1e22bf7f
+io.micronaut.openapi	micronaut-openapi-generator	.5.2.0		cbe1de29b0041001fbb5a3329eba9e3237f3610a
 io.micronaut.openapi	micronaut-openapi-generator	5.0.0		40240a8e927ff3e5d8b1c69aa8f32eb98355154f
 io.micronaut.openapi	micronaut-openapi-generator	5.0.0-M10		fcf54af36361d8e60c2f58ed2e492cb7c925c58e
 io.micronaut.openapi	micronaut-openapi-generator	5.0.0-M11		4754300f1a90b1cca29f76b4db4b85b47da5f293
@@ -1398,6 +1406,8 @@ org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.17		a2b38162963911474079c7278a4
 org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.18		6b84cc2e9a82bc58d46f67a2899d0b61e9dc2f45
 org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.19		f49b49fca412fc2ab2058a9e43a55591df500b22
 org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.2		d9633e0e1b0bfa6c77c2dd126e5a7a515c3e5061
+org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.20		3bfd36eec8af538a95f386ad5354aedd5f1c2cf8
+org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.21		ac6642db932a031d0dd10747ca97572daaeb2cd4
 org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.3		2b50e923eb93965367ee006f10f9926f61f7e862
 org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.4		6b262bfafbad7bbea1aef4bfd9c3f98a3c87fba5
 org.eclipse.jetty.ee9	jetty-ee9-annotations	12.0.5		3f3dfe5a4f9f4bf516537d680f37019082a26fce
@@ -1481,6 +1491,18 @@ org.elasticsearch	elasticsearch-groovy	2.1.1	groovydoc	44b5af4e7c76cad1f5a13a45c
 org.elasticsearch	elasticsearch-groovy	2.1.2		2f2222fc7976d72ec45e6bef0747c4b158793c1d
 org.elasticsearch	elasticsearch-groovy	2.1.2	grails	9568ed78ea0ab7e5d367641ed2c5f5903b897519
 org.elasticsearch	elasticsearch-groovy	2.1.2	groovydoc	a0f527287fbd2bb14598970f2c26106a69ffa9c4
+org.ensime	ensime-sbt_2.10_0.13	0.1.5		acebc9bde32c35b78cc25fe16a752e51acd1d7b5
+org.ensime	ensime-sbt_2.10_0.13	0.1.6		b5644412f4bd753a04ebab562e26b2c9f1ed0c63
+org.ensime	ensime-sbt_2.10_0.13	0.1.7		1638ddbe93942c7a73ff1ad4e52d1f37e99c59ea
+org.ensime	ensime-sbt_2.10_0.13	0.2.0		d4d87a0b7ca42647059a51f33b3ef697ea6fcf93
+org.ensime	ensime-sbt_2.10_0.13	0.2.1		b04d002b7c7ced8b433398b051a4a472575a5965
+org.ensime	ensime-sbt_2.10_0.13	0.2.2		9dd561eee827782a0df7c18a8ac49432424724e5
+org.ensime	ensime-sbt_2.10_0.13	0.2.3		7e3c4da9e718e4c4bc176dcba6584c5419259ee7
+org.ensime	ensime-sbt_2.10_0.13	0.3.0		a13e2aae73bc078a0eda7bbe853a91434affac93
+org.ensime	ensime-sbt_2.10_0.13	0.3.1		b8343b2fc1eaa6678ac139be168619e8634d2bfd
+org.ensime	ensime-sbt_2.10_0.13	0.3.2		34213a72d6bfff75fd4521f41b762613dd860087
+org.ensime	ensime-sbt_2.10_0.13	0.3.3		72b103cf5a6d0007828750e21fb6897a6523db93
+org.ensime	ensime-sbt_2.10_0.13	0.4.0		4460e23d200059abad86be999ebbcc551d062ace
 org.jreleaser	jreleaser-opencollective-java-sdk	1.10.0		65895ba99c34a9565aced6cad3fee441cf39f2a7
 org.jreleaser	jreleaser-opencollective-java-sdk	1.11.0		44806980a134449a1f37effb0b9ddeb77ac3e481
 org.jreleaser	jreleaser-opencollective-java-sdk	1.12.0		ed16f9bbeb288a05c2e6811352e623a4078d2114
@@ -1788,6 +1810,9 @@ tz.co.asoft	cinematic-live-core-watchosx64	3.0.8		N/A
 tz.co.asoft	cinematic-live-core-watchosx64	3.0.8	metadata	7ff11c909934e9c110caea0b6a118245605fda76
 tz.co.asoft	cinematic-live-core-watchosx64	3.0.9		N/A
 tz.co.asoft	cinematic-live-core-watchosx64	3.0.9	metadata	fba20c915bc1c7c6a17fe73c6b3a6b06a18d1e35
+tz.co.asoft	cinematic-live-core-watchosx64	3.1.1	metadata	d4cec25302b5c2331d11678d5d18ea10bc6c5cb2
+tz.co.asoft	cinematic-live-core-watchosx64	3.1.11	metadata	cecf1c3d55917ca469c2d43c6d28ec023faef70a
+tz.co.asoft	cinematic-live-core-watchosx64	3.1.12	metadata	89d939b7212402c7256e7882884aeecec3d2e86c
 uk.co.unclealex	futures_2.12	1.0.0		ccee8d8f831b703080cebafd90d7f2a54ff825a4
 us.hebi.quickbuf	quickbuf-parent	1.0-alpha10		N/A
 us.hebi.quickbuf	quickbuf-parent	1.0-alpha3		N/A

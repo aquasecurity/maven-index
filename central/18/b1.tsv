@@ -710,6 +710,7 @@ io.getkyo	kyo-sttp_3	0.16.1		381e0b399ec0b9d60836c63edc40ed774cb02118
 io.getkyo	kyo-sttp_3	0.16.2		9f580e980e7d309ceceeb821ca52eb9050e6a8cd
 io.getkyo	kyo-sttp_3	0.17.0		62e5c2dc2478dc3fdee84e57b3a3311a11965883
 io.getkyo	kyo-sttp_3	0.18.0		93921db299d04a4598978e7f568e97ac31379847
+io.getkyo	kyo-sttp_3	0.19.0		320ece643818eda16da70a650bc8124274a72e42
 io.getkyo	kyo-sttp_3	0.2.0		42ae07f2f4edb983d8d0a081517d21758349db11
 io.getkyo	kyo-sttp_3	0.2.1		65a420957b40feee052f154a79cf4919a11b2c58
 io.getkyo	kyo-sttp_3	0.2.2		ffdc0b4d011a08cff4d4c268078bf67fba80733f
@@ -1477,6 +1478,7 @@ org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.2.1		3258ed1102fc45e0af5
 org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.2.2		777aa047efd8df7c849ed8a1afbaab4eb645d335
 org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.2.3		87f46775ee4a98516342759bfb0835e20e03954a
 org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.20.0		e66c8da3bb0058c0b78d19e20cefcff93957c2b2
+org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.20.1		6c64a62c4177d5bfc98bbf7b78c04ed96341017f
 org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.22.0		f7169a2291d061b7cdaa0a389009a29626dd7b48
 org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.4.0		d74df02479e32dc477ab1bbd6368e020f61482a7
 org.apache.camel.quarkus	camel-quarkus-rss-deployment	3.5.0		51eb0469bf762bc7b702da4ea1b433149164c276
@@ -1584,6 +1586,8 @@ org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.17		d21c6a776a6f425df6547412b472603832
 org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.18		b1d25b4a81cfd5aaaac8a389a8f8ad42c9d1ae63
 org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.19		25da41e93d1d033a803d4f74f5e326105c9a66e8
 org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.2		d4194f3587ea90e04ed8fd689097391385efe02d
+org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.20		7e7f347d2cd2db029c3cae983cce0702cfaa40cc
+org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.21		0b747a9258121a8aca0e67fbe748e42965a4d808
 org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.3		2b2efe24ed753f3fa918610a0b503b5cd906e847
 org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.4		9f3fdc1fc19790bf74ae1c5cabbfeb2001fcf590
 org.eclipse.jetty.ee9	jetty-ee9-jndi	12.0.5		24e71b186bd195fce1784c70df2ac67cfb0c35a8
@@ -1635,7 +1639,9 @@ org.elasticsearch	elasticsearch-grok	8.17.2		cb15bbc090866f4567a647694fc1d00122b
 org.elasticsearch	elasticsearch-grok	8.17.3		bf6c17e8d12d3382e70054ea28303c875e718e2f
 org.elasticsearch	elasticsearch-grok	8.17.4		93f609621fd8c410fb38d73f1cd62d347f9f8b8d
 org.elasticsearch	elasticsearch-grok	8.17.5		415db9c645dc00ec997ca6c883b1d63084f9eece
+org.elasticsearch	elasticsearch-grok	8.17.6		b19680f04d8893200b72d9814a557f279c767356
 org.elasticsearch	elasticsearch-grok	8.18.0		534906a0f70039191b5c174519d77c7261eb8217
+org.elasticsearch	elasticsearch-grok	8.18.1		192d793c8f05730381ff49f0d5cf89a084b5baf4
 org.elasticsearch	elasticsearch-grok	8.5.0		cf1e355811c5d66ae4aff766ca66988061e67b7b
 org.elasticsearch	elasticsearch-grok	8.5.1		b9b59fd25928e6df1e99c826f7c4f5c8bf534d8e
 org.elasticsearch	elasticsearch-grok	8.5.2		90ec629d90d29723b2ba6932b08c9121ee9f99c2
@@ -1654,6 +1660,7 @@ org.elasticsearch	elasticsearch-grok	8.9.2		2dddd4498f1e51e2991a8303d30fd850d87e
 org.elasticsearch	elasticsearch-grok	9.0.0		27dd88c215e70ac48ca8141c1529a6b484525b4d
 org.elasticsearch	elasticsearch-grok	9.0.0-beta1		23ab8a2a09ea8ac560896c5f7f0ae01d9f76e17b
 org.elasticsearch	elasticsearch-grok	9.0.0-rc1		f0cbe6f1dae0b313391376adf6e3a11813fdb47a
+org.elasticsearch	elasticsearch-grok	9.0.1		38ec152c2e83b4b844b719b9941e9a512db3ac40
 org.gfccollective	gfc-timeuuid_2.13	1.0.0		7468b37adde95063a5c1d2aa6658b22d7d684496
 org.gurux	development	1.0.0		6e482b53f8caa7755f5b111f2e7381c487bf89b2
 org.javawebstack	validator	1.0.0		add97d3eda6d5ed2a37c3b331db1fd30b3045f32
@@ -2207,6 +2214,9 @@ tz.co.asoft	kevlar-core-macosarm64	3.0.8		N/A
 tz.co.asoft	kevlar-core-macosarm64	3.0.8	metadata	f68a2202adbaa1a643703a00856c07e30c9fef33
 tz.co.asoft	kevlar-core-macosarm64	3.0.9		N/A
 tz.co.asoft	kevlar-core-macosarm64	3.0.9	metadata	6ca9862f07a85bdbaef25cd46ac46e86152b7e54
+tz.co.asoft	kevlar-core-macosarm64	3.1.1	metadata	9a88a0da6fe906d6316ee5bde3034c1c017cf2b6
+tz.co.asoft	kevlar-core-macosarm64	3.1.11	metadata	fed5e12bbf5197f9c98f6909f9afb393437f8330
+tz.co.asoft	kevlar-core-macosarm64	3.1.12	metadata	440ca4e7e2d2f4a7d5076c72e1cd674e69631adb
 tz.co.asoft	lexi-console-tvosarm64	2.0.16		N/A
 tz.co.asoft	lexi-console-tvosarm64	2.0.16	metadata	2c2179d8d2ef50ecd0a2fb1181b6f1ba376b9643
 tz.co.asoft	lexi-console-tvosarm64	2.0.17		N/A
@@ -2241,3 +2251,7 @@ tz.co.asoft	lexi-console-tvosarm64	3.0.8		N/A
 tz.co.asoft	lexi-console-tvosarm64	3.0.8	metadata	a405afe5b1a3ee5c6ec00caaf0dcdc4632bc1ac0
 tz.co.asoft	lexi-console-tvosarm64	3.0.9		N/A
 tz.co.asoft	lexi-console-tvosarm64	3.0.9	metadata	0193ff40383f7355257cc21bee9e9e51f561e253
+tz.co.asoft	lexi-console-tvosarm64	3.1.0	metadata	435cb6a2c5172dd886d76ccd8032c0ab9af03438
+tz.co.asoft	lexi-console-tvosarm64	3.1.1	metadata	f7f70b10fd08fafdcaa138fa2758d16c88a2ab91
+tz.co.asoft	lexi-console-tvosarm64	3.1.11	metadata	1fe25fa4f24ba3f71bfd200f9df39ff43b155ba0
+tz.co.asoft	lexi-console-tvosarm64	3.1.12	metadata	7c27a3429b0c3b2947a5398d5469b9c146bea2ca

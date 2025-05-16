@@ -7,6 +7,8 @@ app.cash.tempest	tempest-docker	2025.04.29.222809-664e313		9420cf6c9ff9aa34bccb8
 app.cash.tempest	tempest-docker	2025.04.30.143145-e1d5ea6		f49f8f7c1e11e5a3b77fc456ad078805dae4b4d0
 app.cash.tempest	tempest-docker	2025.05.01.210208-8bac78f		58f1784f610a3ca8026fbb9929909b6f59512c62
 app.cash.tempest	tempest-docker	2025.05.02.195945-d393c44		7b28f37b46f83bd1d972526e4ffc351986f7569c
+app.cash.tempest	tempest-docker	2025.05.06.204520-5d19a8b		3bbd2455817f9f49ead4c0bfe25b0ebd541e5656
+app.cash.tempest	tempest-docker	2025.05.08.201657-53a060d		25715b9de2d39e29a20586f9da66a08fa102331d
 aws.sdk.kotlin	sagemakergeospatial-jvm	0.19.1-beta		087054ea35d6e2bef115ff4055b480f8c889e607
 aws.sdk.kotlin	sagemakergeospatial-jvm	0.19.2-beta		cc99ddb896b6423621eae48c203b7ac818c3e9dd
 aws.sdk.kotlin	sagemakergeospatial-jvm	0.19.3-beta		40eb7052e512ec794a7635f63cf3869899fca273
@@ -415,7 +417,16 @@ aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.73		c5d03498b5ea574662b3a832f55994646
 aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.74		5476fe141d5157e3ba815b5dd406daad0bb149d8
 aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.75		694d043382e6fbb2ad6a46eae780eca6f63d4a74
 aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.76		c5ed9b9ad67eaa9ed4545da1d4824df26bff91b4
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.77		75761f24202c8e44826e7792cfc04f2b24f768b9
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.78		fd47b5f0b5351c80141a8816ebe454f9d39963d6
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.79		2f53ecf654ebe94da00721cd39b1ae1c490d17bc
 aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.8		fe9991c03e424d21ed177e616fafec623be8ffb0
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.80		e70644481de2d2b53d7caa73e10ebb3b5f70c287
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.81		f6ffe998aff28cba1010593a32bb0d2f255f46e9
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.82		76eaab3540603efad86eb86fa15c7527026c408c
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.83		d7889d0e82a6ca4a998082d767d8360084e24246
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.84		0c7bf8afce229078550121a6f3e6027a87f934fc
+aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.85		ccdd993d413544bd039cf6b4f894c46aac5cf62d
 aws.sdk.kotlin	sagemakergeospatial-jvm	1.4.9		7c0db3e14475122e9c1b5b7cc19b13a0b50c3d55
 cc.siyecao.uid	uid-redis	2.0		d3a5e7137e29c491e395a98d28af10874c1d24fb
 cc.siyecao.uid	uid-redis	2.1		1f843c285667f508efb0f2649852ecff453e1103
@@ -1467,6 +1478,7 @@ org.apache.camel.springboot	camel-jslt-starter	4.8.3		86b26781de9baf1ce814348a83
 org.apache.camel.springboot	camel-jslt-starter	4.8.4		10854c1006b5ea03034da0b2558685824c03ea25
 org.apache.camel.springboot	camel-jslt-starter	4.8.5		fa5c6bc59ef4b1c9b2db8892aea60e2d65113137
 org.apache.camel.springboot	camel-jslt-starter	4.8.6		04e1001e7a59d70f08d27a299ec9dc7b1be3cb16
+org.apache.camel.springboot	camel-jslt-starter	4.8.7		dd00e19cb3e64e855017f9da4d6d02573a9aeee6
 org.apache.camel.springboot	camel-jslt-starter	4.9.0		c4490e65ec4035d8173a26d68aa705f0d6348e72
 org.apache.druid.extensions	druid-aws-rds-extensions	0.21.0		703421f5075d81969e2860ce60025e80b14ed53e
 org.apache.druid.extensions	druid-aws-rds-extensions	0.21.1		8913ab17b0587634a4fc656c5b30afb16eb1f561
@@ -2063,6 +2075,7 @@ org.kiwiproject	kiwi	4.6.0		b051fa40f525de9451e14e1ee0e8253ca206f9df
 org.kiwiproject	kiwi	4.6.1		9e60f9589f0e7b23ab3cfc1986a17fa93a20e29d
 org.kiwiproject	kiwi	4.7.0		0f00954aafb012d450018ec07bc83bca1f98205d
 org.kiwiproject	kiwi	4.8.0		025fef434fb4733e64d070db528d635d7bbc949f
+org.kiwiproject	kiwi	4.9.0		6e490050b905b48571375f9330dd0a0dc0fadbd1
 org.mdedetrich	utforsca_2.11	2.1.0		78d472795517e2cc0349bfba1062449ad36b1482
 org.mdedetrich	utforsca_2.11	2.2.0		6e4d978030ba9b6b500a6b652b38924137b2e873
 org.mvnpm	he	1.2.0		55242c007a55f1cd7295330f7bb8ee2e9648946a

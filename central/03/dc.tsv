@@ -91,6 +91,7 @@ com.codbex.chronos	codbex-chronos-releng-parent	0.5.4		N/A
 com.codbex.chronos	codbex-chronos-releng-parent	0.5.5		N/A
 com.danhaywood.mavenmixin	sourceandjavadoc	0.0.1		N/A
 com.danhaywood.mavenmixin	sourceandjavadoc	0.0.2		N/A
+com.fastjrun.codeg	sdkg-common	.0		fd53dc357b6d3d09f1a194d1992cfb390b40757f
 com.fastjrun.codeg	sdkg-common	2.0		aa81a47e72310965192373e0b84a8c644d4d7ea6
 com.fastjrun.codeg	sdkg-common	2.0.1		b80a9164dbb0a379698993a3e0d376fc3583fcd9
 com.fastjrun.codeg	sdkg-common	2.1		e6c9e08d1cf6c5e833d4bd6361baf742dab20ae0
@@ -734,6 +735,7 @@ net.hamnaberg.googleapis	googleapis-http4s-bigquery_3	0.4.5-v2-20240905		8c61ca5
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_3	0.6.0-v2-20240919		e7f9d5491819fa292989b31677c4476bf4e3daa9
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_3	0.6.1-v2-20241111		d7dcea99d6d91ecd4ec3b03ec310aafb25cb4c88
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_3	0.6.2-v2-20250128		ef0505f5053c1799f1180dcfcaf69e06616fcc42
+net.hamnaberg.googleapis	googleapis-http4s-bigquery_3	0.6.4-v2-20250427		09d9f6bbb90f4abf5eee8dcea631e8fc8dceae23
 net.n2oapp.framework.security	security-auth-simple	5.0.10		b88607d3872ebb7f57a39f756bd9ca5e16f02018
 net.n2oapp.framework.security	security-auth-simple	5.0.11		3ebb7b65e5dc764ff07b654172cf5e1669636380
 net.n2oapp.framework.security	security-auth-simple	5.0.12		988932212efdd8856c5660a71676d0ed2fc59e91
@@ -1156,6 +1158,7 @@ org.apereo.cas	cas-server-support-rest-service-registry	7.2.0-RC6		ccd03be893457
 org.apereo.cas	cas-server-support-rest-service-registry	7.2.0-RC6	resources	1a77c6146c2e19707463f016069323d693ddaad1
 org.apereo.cas	cas-server-support-rest-service-registry	7.2.1		2998c1e9e069fa02e6dfdced4200ad0377c35604
 org.apereo.cas	cas-server-support-rest-service-registry	7.2.1	resources	b75290229d97bbbe497c53027fbc5e69aa611c66
+org.apereo.cas	cas-server-support-rest-service-registry	7.2.2		dc20f7fe88bc57d3c22381a3138dabeeacf4c7f3
 org.apereo.cas	cas-server-support-rest-service-registry	7.3.0-RC1		ad897440862a176ad9bd6a6672cba5912f604178
 org.apereo.cas	cas-server-support-rest-service-registry	7.3.0-RC1	resources	dc0f9cb035396f80929755ba00a5952a72ae4952
 org.apereo.cas	cas-server-support-rest-service-registry	v6.4.0-RC5		51ddb9e9896d07df2a102202460207fc8c5579d8
@@ -1364,6 +1367,7 @@ org.jetbrains.androidx.navigation	navigation-common	2.9.0-alpha14		b98b89c4e3d04
 org.jetbrains.androidx.navigation	navigation-common	2.9.0-alpha15		8592183aea4bc9d2ddc9eb2b12ef6df3e6796934
 org.jetbrains.androidx.navigation	navigation-common	2.9.0-alpha16		e9c2ed4a9c6666b12b22133d03879a4bfec79c17
 org.jetbrains.androidx.navigation	navigation-common	2.9.0-alpha17		5f2d1f3d58f930dab83f7523b1bab542b2bfd5fc
+org.jetbrains.androidx.navigation	navigation-common	2.9.0-beta01		4123652e9d3dc9a9e05353ab46720a30d63be426
 org.jetbrains.compose.material	material-navigation-macosarm64	1.7.0-beta01		N/A
 org.jetbrains.compose.material	material-navigation-macosarm64	1.7.0-beta01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material	material-navigation-macosarm64	1.7.0-beta02		N/A
@@ -1378,6 +1382,7 @@ org.jetbrains.compose.material	material-navigation-macosarm64	1.8.0-beta01		N/A
 org.jetbrains.compose.material	material-navigation-macosarm64	1.8.0-beta01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material	material-navigation-macosarm64	1.8.0-beta02		N/A
 org.jetbrains.compose.material	material-navigation-macosarm64	1.8.0-beta02	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.material	material-navigation-macosarm64	1.8.0-beta04	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jvnet.hyperjaxb3	hyperjaxb3-maven	0.2.GA		N/A
 org.jvnet.hyperjaxb3	hyperjaxb3-maven	0.2.RC1		N/A
 org.jvnet.hyperjaxb3	hyperjaxb3-maven	0.3		N/A
@@ -1859,4 +1864,5 @@ org.webjars.npm	is-extglob	2.1.0		a62008520594d3125e272200ef3457f3a2ce6f17
 org.webjars.npm	is-extglob	2.1.1		a8ebe3a25f8e486a911c03b10287df3faa53dd6f
 org.webjars.npm	ron-react-autocomplete	2.0.1		5a7a56aff5b036cb2c3385b1550dbd8a8e942753
 software.amazon.app.platform	scope-testing-desktop	0.0.1		7cb95d4cb49a6b4ea9defac2241189fe8ccc93ac
+software.amazon.app.platform	scope-testing-desktop	0.0.2		7cb95d4cb49a6b4ea9defac2241189fe8ccc93ac
 tech.mlsql.api.jdbc	mlsql-jdbc	0.1.0		24b04e18bf3af6ceabdcc18117b4e2f55312cfc2

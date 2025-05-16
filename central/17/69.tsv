@@ -582,6 +582,8 @@ com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc29		f6f67615cd3c55ab4b3
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc3		6846499023a8f44ee76cb36466768996920fa48b
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc30		8f9ff6991d9505c5198a3bc417ccbf8b825121b9
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc31		5f70badcf3feccd434274c2a2b4695e07388cb4f
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc32		6aa589ba0ce7d4a38a2fbbe20bfeb8667e0e59ca
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc33		e4d5802acb3803bcd90e7763e132136f06a4a6f4
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc4		372fecba40e573e04015e48baf9555bba586fb36
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc6		b4be2c8d7a772c5b72db3cc388c6d7427b6983ff
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.200.0-rc7		efc230a6971c644a0c846313c27161615c24c195
@@ -614,13 +616,24 @@ com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc23		d0d0bfd2da9181bc9a3
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc24		e4554be53ef078343b3caff7f9055e215eaf8efc
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc25		5c1e971d295c2d0d34cc094cdf0dc2d348c2eb2e
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc26		c6df791572ea6e4931b8596363ad1bcca35a54ff
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc27		fd6a4c6d91fdc47bced937a7675fe82beafe418d
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc28		d01e6176d276ab18f21548318e60c90930084ff7
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc29		8c7949d25c2dc3c86182af93491016fa039f85d0
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc3		44d2af3a8d8215759ba43815dd5a0136db26c4b6
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc30		77725dddec625c78b61745869b36a747ed559a1d
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc32		844c262ae6d9a3bffe247a4fd17d3f4c466a616d
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc33		12bbf82322c8f646240afb7e35aa8f6be9cab330
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc34		d5641e3c7e84d6f2688c84b6cf6ac862b8c3c298
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc5		f34e5b237ba741547a70de949ea239dab936b6f3
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc6		5368b4489ef7739a498e80b856751698cf8e9240
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc7		7fdf4284d79ab3ecb8f4251156ad69c269a03a07
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc8		ba1192df1922d8b81e5d6f3d53b7f9ee3b5f3810
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.205.0-rc9		a09ee5dfe9a78e9f7ee0d4e83ce38b09f3e84745
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.206.0		f8904c5c1d9261d01744eca20bd228421072196b
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.206.0-rc1		621365b4db66c5ee1f18b8fbc5df4bbae8b4cbd7
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.207.0		531db402fb8d656cdbd149cf2d7d4eb900c0b79c
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.208.0		32f2c64289d0737306c7bd2eb9a2bbf35710d2d6
+com.palantir.cassandra	cassandra-thrift	2.2.18-1.208.0-rc1		93fe229f1447ad5d8820a4ac50cfbce5d95edfce
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.52.0		e1b6a065914dfce1d9a981a2cfae1edeb2b07f6b
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.52.0-rc1		4c113dbc0faaf505a94d1301642cb8e4719d64b0
 com.palantir.cassandra	cassandra-thrift	2.2.18-1.52.0-rc2		297ca87ed5604ba8c36d01ff3a019fb1405bfe65
@@ -809,6 +822,9 @@ io.github.kotlinwizzard.kmptoolkit	pagingxcaching-jvm	1.0.1		1e77aa49c4964ffbdc2
 io.github.kotlinwizzard.kmptoolkit	pagingxcaching-jvm	1.0.2		1e77aa49c4964ffbdc25d908e8025825636d599b
 io.github.samaricha	imagePreviewLib	0.0.1		a5e27cc7ae67dd156b2101a6e368b63d07ec85b4
 io.greptime	ingester-bulk-protocol	0.14.0		3be547d42b42d402ebc6038d4bb212d2c92c22f9
+io.greptime	ingester-bulk-protocol	0.14.2		f421e8a055ef8048610896753bc91e4ab5a2bbf0
+io.greptime	ingester-bulk-protocol	0.14.3		289b3a9749674385de2aee9cddec58cea132fb05
+io.greptime	ingester-bulk-protocol	0.14.4		60f7c8ae4ace7e063d6f6d82b748b7a9e0acd2ef
 io.kotest	kotest-assertions-core	2.4.1		N/A
 io.kotest	kotest-assertions-core	4.0.0		N/A
 io.kotest	kotest-assertions-core	4.0.0-BETA2		N/A
@@ -921,6 +937,7 @@ io.kotest	kotest-assertions-core	5.9.1		4d52ed7b702f9d57797564a879aec72170d5ea1d
 io.kotest	kotest-assertions-core	6.0.0.M1		b15d6aad1ad81e75daea823b386be6210958d5fc
 io.kotest	kotest-assertions-core	6.0.0.M2		335ec84ebb62691bd50926557a41e1cdf291b71e
 io.kotest	kotest-assertions-core	6.0.0.M3		b92d42044773d2c2eaeb49abbd13b1b0093a7585
+io.kotest	kotest-assertions-core	6.0.0.M4		665340b54c23f88b52f7f910e8397abf8d68c876
 io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	2.0.0		6a1b704a818895f5a3d7e88a89762ddaa4228916
 io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	2.0.0	metadata	34b8c7497003e7c46ebb355c44d2f98298693028
 io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	2.0.0-beta-1		6da7e8bfef8d765576b4a2d83f9e1c38e0e2af14
@@ -1001,6 +1018,8 @@ io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	3.1.1		c4211b913a50b4b
 io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	3.1.1	metadata	179f61a5c0cfea9f418cecfe9a671966904ff8f3
 io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	3.1.2		e442320f563d0f7cff9f8ef1dd98b32bf2afc8f1
 io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	3.1.2	metadata	ac3406f8fe120917309c57c8cdc242db37739097
+io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-server-auto-head-response-tvossimulatorarm64	3.1.3	metadata	2a5fea5e782691d1711cd6ebeae574a83e54928f
 io.polygenesis.labs	polygenesis-sample-generators	0.0.4		7296c7d9a675fcc1250ad6434bc46f4e5ec310e0
 io.quarkus	quarkus-jdbc-postgresql-runtime	0.11.0		efaeac0efce6642c4a2229efd23c0359138408e7
 io.quarkus	quarkus-jdbc-postgresql-runtime	0.12.0		5c005ce146c71c677d3f7c3a779a2dc6b3d72001
@@ -1188,6 +1207,8 @@ net.folivo	trixnity-clientserverapi-client-macosx64	4.15.0		N/A
 net.folivo	trixnity-clientserverapi-client-macosx64	4.15.0	metadata	47f49aa6386da9343714c239b1f0f9b57d37a2ae
 net.folivo	trixnity-clientserverapi-client-macosx64	4.15.1		N/A
 net.folivo	trixnity-clientserverapi-client-macosx64	4.15.1	metadata	8cec6e3dfbd06b5a6b89e2757c18c6afccc1bded
+net.folivo	trixnity-clientserverapi-client-macosx64	4.15.2	metadata	afb25b9f78f7d98206a07dc5ceab5da212f4e717
+net.folivo	trixnity-clientserverapi-client-macosx64	4.15.3	metadata	d3c1feb081839aca560fd2e5fd935c7537da4d2b
 net.folivo	trixnity-clientserverapi-client-macosx64	4.2.0		N/A
 net.folivo	trixnity-clientserverapi-client-macosx64	4.2.0	metadata	24606ec7dd95c495b6c934eeec94db362f69c0c7
 net.folivo	trixnity-clientserverapi-client-macosx64	4.2.1		N/A
@@ -1979,6 +2000,7 @@ org.apereo.cas	cas-server-support-jdbc	7.2.0-RC6		2820cec791b16c708db4fde140e9b1
 org.apereo.cas	cas-server-support-jdbc	7.2.0-RC6	resources	eddd75d81fb4f672bca916907aa2aca44e9ff2de
 org.apereo.cas	cas-server-support-jdbc	7.2.1		1a3c2087f47187a22265fdb939f047c2d83aa9eb
 org.apereo.cas	cas-server-support-jdbc	7.2.1	resources	88d81edb9ab995d85f7d4f7ea6f2ef9c2749ce0e
+org.apereo.cas	cas-server-support-jdbc	7.2.2		4c4e8a732bdc51bf20a6d4d3afd555fabafaa40d
 org.apereo.cas	cas-server-support-jdbc	7.3.0-RC1		0e20f7350ad9f19ea3762b6a44bca66e5d082eab
 org.apereo.cas	cas-server-support-jdbc	7.3.0-RC1	resources	135602b4cfb43d9633de96dc12e7a9582783158b
 org.apereo.cas	cas-server-support-jdbc	v6.4.0-RC5		4170723e4cae30b1305ba8bca955177c2df62d08
@@ -2005,6 +2027,7 @@ org.eclipse.keyple	keyple-plugin-pcsc-java-lib	2.4.0		2c67d68eca6b7e29fbc4c752b0
 org.eclipse.keyple	keyple-plugin-pcsc-java-lib	2.4.1		514e38c2376131a49f7bc6ac67c912d037095468
 org.eclipse.keyple	keyple-plugin-pcsc-java-lib	2.4.2		89eb77ff1bfd40a66950b887c50df067f5750baf
 org.eclipse.keyple	keyple-plugin-pcsc-java-lib	2.5.0		11c44dd083433721b1649d899ba2003bfd8eed93
+org.eclipse.keyple	keyple-plugin-pcsc-java-lib	2.5.1		842b41d08f65367ac126608fbbfcbddfac5d081c
 org.eclipse.leshan	leshan-tl-javacoap-core	2.0.0-M14		c56672251f58659588ee6e5461c0519eca3c730e
 org.eclipse.leshan	leshan-tl-javacoap-core	2.0.0-M15		e79aa475676f71940ddd1257fa022a30438ab27c
 org.gnieh	geo-scala-jsoniter-scala_sjs1_2.13	0.4.0		24d5ad513bc329f44ebaf07f4d6c55524447c0f0
@@ -2057,6 +2080,7 @@ org.junit.vintage	junit-vintage-engine	5.12.1		cc5fb574bfc97f4310b6b26bd47b5f44c
 org.junit.vintage	junit-vintage-engine	5.12.2		4596ac784cd3ea72057092bc1e535c74a8facc31
 org.junit.vintage	junit-vintage-engine	5.13.0-M1		a8ead2a206c3e48eebd7eadd5d336863185e2fa5
 org.junit.vintage	junit-vintage-engine	5.13.0-M2		7d09139eb4aa0acdb37f88dbd80a718c207566f2
+org.junit.vintage	junit-vintage-engine	5.13.0-M3		16c0b1304bb13e501905788d90546d4b926e2ae8
 org.junit.vintage	junit-vintage-engine	5.2.0		ff11a5d0674df5e2264e50fe3f8a3485a4399ccb
 org.junit.vintage	junit-vintage-engine	5.2.0-M1		4c26c1a5d24e8cddd90c6780788e5d9367e4b6b9
 org.junit.vintage	junit-vintage-engine	5.2.0-RC1		a0c77ce678e2ad02ff5fafbcb7e828822f57d8e2
@@ -2183,6 +2207,7 @@ org.webjars.bower	bootstrap-sass-official	3.1.1		574174da3063300ba828b79e5f39b8c
 org.webjars.bower	bootstrap-sass-official	3.3.1		e72598c9c6ad049d71291a24530e42cca8071278
 org.webjars.bower	bootstrap-sass-official	3.3.6		1e239e9cd388a972a7b99d2fc3b4b1c04f16a747
 org.webjars.bower	bootstrap-sass-official	3.3.7		0025c66236fc1051210a46705e386168999874cf
+org.webjars.bowergithub.dhg	skeleton	2.0.4		ec76341441148df7536be849c9d1f20f478b0a84
 org.webjars.npm	esrecurse	4.1.0		dbe5598a6e4e3d785cdc120f467da6fb870b4261
 org.webjars.npm	esrecurse	4.2.0		603e2a2f4355dcf8da76689e00242b394d603a7b
 org.webjars.npm	esrecurse	4.2.1		879d0a2706c51ae11eea23280976690b2b98fae4

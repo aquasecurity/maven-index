@@ -603,6 +603,8 @@ com.vaadin	vaadin-messages-flow	23.5.12		dde26b4b18b2f9e9c9dc7702bc3c3cf9d484875
 com.vaadin	vaadin-messages-flow	23.5.13		59d204d70998c549a734d4c2e8ca5a7f3539f291
 com.vaadin	vaadin-messages-flow	23.5.14		f2848c9affadfec2c443ecb13cc9694457f3b790
 com.vaadin	vaadin-messages-flow	23.5.15		41c227804447afaa06998fceecdf62cae722dd04
+com.vaadin	vaadin-messages-flow	23.5.16		3e31e633d5fd55227711f68cef2d4e82e0fdd675
+com.vaadin	vaadin-messages-flow	23.5.17		eab37894e70dd7f93e707021dcf1fff8a6a21820
 com.vaadin	vaadin-messages-flow	23.5.2		1fd170fb45716806cf25f6347924a69c8b620217
 com.vaadin	vaadin-messages-flow	23.5.3		cfe169265b87ea66efff243ccaf7cbda9543158e
 com.vaadin	vaadin-messages-flow	23.5.4		e944634532edaf2e7466fbc3821e5958a0870f73
@@ -717,6 +719,7 @@ com.vaadin	vaadin-messages-flow	24.5.8		70027ad4d850a0385f655dcbe5e32cf332467d4d
 com.vaadin	vaadin-messages-flow	24.5.9		1d21e46d505d4100222b92ca82a2959e29d3c3cc
 com.vaadin	vaadin-messages-flow	24.6.0		6aa7b411811dfc99a2e815dddc59f24b64ba9e4a
 com.vaadin	vaadin-messages-flow	24.6.1		89e0d309acddcf8ccb251b0970d1324ad1e89f73
+com.vaadin	vaadin-messages-flow	24.6.10		e4d55a3a33205a0f872349b2eff6ae393242c3f2
 com.vaadin	vaadin-messages-flow	24.6.2		2448d603cf20981357452047cfd0c11c456fd8f1
 com.vaadin	vaadin-messages-flow	24.6.3		b16b56b2615dcab204b2e0367d43eda02c52ebef
 com.vaadin	vaadin-messages-flow	24.6.4		3a6524de2197c33f6eb492ba00a89de812cc06b6
@@ -729,6 +732,7 @@ com.vaadin	vaadin-messages-flow	24.7.0		6498226004a7369bb12ab8c10ac9ea5932825a45
 com.vaadin	vaadin-messages-flow	24.7.1		7c89a29c0625014efd1a7a22582cc29d99a2ab57
 com.vaadin	vaadin-messages-flow	24.7.2		eadb645644660468d28d09256a4a0818d61568da
 com.vaadin	vaadin-messages-flow	24.7.3		9b0c211d1cf49f1c6afd125e66d02ee4880b6eaf
+com.vaadin	vaadin-messages-flow	24.7.4		a8a4b48daef791a4ce3a19f4d8ab23f499ee57e4
 com.wichell	framework-log-api	1.0.0		8badeffc1d881deea31af707e7e2fdabeabb5634
 com.wuyushuo	spring-jwtauth-boxes	1.1.3		2fd1c0564133b252a1d4bca94f9dc4d41c90141e
 com.wuyushuo	spring-jwtauth-boxes	1.1.4		957c3e1715098ec229c948ff0d1c5b8379f38d08
@@ -1079,6 +1083,7 @@ dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.27.1		69f5c1a3d39099cc
 dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.28.1		948e4f6036b2f27362d1b146b8f7ff405edcfa3b
 dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.3.1		a9458e059e94cff63b79e9336bf44c526c10d8f6
 dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.30.1		ed55e9e075b3e260067f2369709e5a6ea9630025
+dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.30.2		78ee6342d2944af35791b7ba3c3f33bdf60b6ae0
 dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.4.1		b236f012337fbb826cde1894867abc3fe3285a5c
 dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.6.1		876a312d582fa794c806a20242d3f5ab5782e187
 dev.zio	zio-aws-serverlessapplicationrepository_2.13	7.31.6.2		adbb56174bc8878b7bea028b6f38fcb45b904dd7
@@ -1528,6 +1533,8 @@ io.ktor	ktor-websockets-macosx64	3.1.1		f2499b2fc2145e25786f248a61bad32b67a5ce45
 io.ktor	ktor-websockets-macosx64	3.1.1	metadata	a932fccd64691482ad4d49ddb63fdb46b00ad83e
 io.ktor	ktor-websockets-macosx64	3.1.2		f22d34df8cedce1d674308283698c9d454aa54dc
 io.ktor	ktor-websockets-macosx64	3.1.2	metadata	459e06ae521514ea4bf551de6c6a83b4f661fc95
+io.ktor	ktor-websockets-macosx64	3.1.3		8883a19eac52477e19e84fc4657340aa2f62fd1a
+io.ktor	ktor-websockets-macosx64	3.1.3	metadata	6f1f7cadd089809312cd42d66aaf413212e7d1dc
 io.kvision	kvision-server-spring-boot	4.0.0		757cc1095d905d25650bfc7f4eb8f1036e47751f
 io.kvision	kvision-server-spring-boot	4.1.0		b2289ed2889d2a7b2295724c57b06fa2e7f6b97a
 io.kvision	kvision-server-spring-boot	4.1.1		f6d11d9325cdb43a3ddfa51ca442f0adc83b09f7
@@ -1855,6 +1862,7 @@ org.apache.camel.springboot	camel-univocity-parsers-starter	4.8.3		bd634c3323830
 org.apache.camel.springboot	camel-univocity-parsers-starter	4.8.4		fb4f7884cc51f10fea4b03ea1e9a23a39772579c
 org.apache.camel.springboot	camel-univocity-parsers-starter	4.8.5		165bbb65ff0f6740983eaf9c7ebe46d229c5a37b
 org.apache.camel.springboot	camel-univocity-parsers-starter	4.8.6		94792b2d9f16182e07165cefd5a3e0564a7397e9
+org.apache.camel.springboot	camel-univocity-parsers-starter	4.8.7		49ca77061cda0d52cb9ce2a6831a9aa6a7458a44
 org.apache.camel.springboot	camel-univocity-parsers-starter	4.9.0		4762ff27710cd34abb368567f97e9696d99b0938
 org.apache.dubbo.extensions	dubbo-registry-kubernetes	1.0.0		8b75a33614962370453cacf24e202fdd93dac6cb
 org.apache.geronimo	geronimo-jetty	1.0		0f7012511d4a76cc893a180890fcb1db1876b716

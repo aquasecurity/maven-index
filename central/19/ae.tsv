@@ -22,6 +22,7 @@ cn.xfyun	websdk-java-nlp	2.0.1		f398b06924dcffd0a2d736ce619bb3e2adbfe9bf
 cn.xfyun	websdk-java-nlp	2.0.2		887cb898ed7eba3968879d13ad244b021c99824d
 cn.xfyun	websdk-java-nlp	2.0.3		b56470bd20043eb830993b1b1cc6a2b4b2bb6669
 cn.xfyun	websdk-java-nlp	2.0.4		df4553df5dca44dbebb8322447e01aa68c85c7d6
+cn.xfyun	websdk-java-nlp	2.0.5		ae98af11ea5743d99e30614791f965d5046c57c9
 com.47deg.xef	xef-core-linuxx64	0.0.1-alpha.1		N/A
 com.47deg.xef	xef-core-linuxx64	0.0.1-alpha.10		N/A
 com.47deg.xef	xef-core-linuxx64	0.0.1-alpha.11		N/A
@@ -957,6 +958,9 @@ dev.elide	elide-proto-capnp	1.0.0-alpha13		deecd836f91e8527fc236a44f925544666f40
 dev.elide	elide-proto-capnp	1.0.0-alpha7		fb6edb02b18094dbb70ae090e0a9d41e79418ed7
 dev.elide	elide-proto-capnp	1.0.0-alpha8		deecd836f91e8527fc236a44f925544666f40d2c
 dev.elide	elide-proto-capnp	1.0.0-alpha9		deecd836f91e8527fc236a44f925544666f40d2c
+dev.travisbrown	sbt-jacc_2.12_1.0	0.1.0		63e1cda7bd2fc3c6462b1d8ca08981ef2df75cf1
+dev.travisbrown	sbt-jacc_2.12_1.0	0.2.0		a7a03ba478ff9206fb1de9967ef14ac166a6b786
+dev.travisbrown	sbt-jacc_2.12_1.0	0.3.0		afb16d0464d13819793f544e6a3214c8691de39b
 fun.nibaba	lazyfish-mp-join	0.0.4		708c90d00a4ba7c9167edf5195d743273ed27ba0
 in.hocg.boot	ws-spring-boot-autoconfigure	1.0.27		11b3dbbc73630be38fd47664d13ecfffed0a6239
 in.hocg.boot	ws-spring-boot-autoconfigure	1.0.28		08bc8a783d02491093f5499ddb2e6e6809fd47d6
@@ -1430,6 +1434,13 @@ io.fabric8.online.packages	fabric8-online-jenkins	1.0.97		d4ad30f315bd183dad5191
 io.fabric8.online.packages	fabric8-online-jenkins	1.0.98		c9cacbd92fdac4aa7a893febf8d720f15fd5a12b
 io.fabric8.online.packages	fabric8-online-jenkins	1.0.99		5138f7272f0592cd9fef8e52526c368c6dff959c
 io.gitee.unix8	code-generate-core	0.0.2		17ebd294b0bdd8ede4243b6e7c881fdbccdf2c6a
+io.github.ahjohannessen	sbt-java-gen_2.12_1.0	0.6.10		84c2dfabbbacc482874f4b6c6af939248ba4085b
+io.github.ahjohannessen	sbt-java-gen_2.12_1.0	0.6.12		724400445976f40a1c5da7b664e6d9db676c54c0
+io.github.ahjohannessen	sbt-java-gen_2.12_1.0	0.6.3		1e2d722267919cf5b8afb4828c428633e6c30607
+io.github.ahjohannessen	sbt-java-gen_2.12_1.0	0.6.4		44b88ea258588e4038869245c2f6daec07bff630
+io.github.ahjohannessen	sbt-java-gen_2.12_1.0	0.6.6		709676ca80d1445abab717988f441db16391aedf
+io.github.ahjohannessen	sbt-java-gen_2.12_1.0	0.6.7		0f0e83d67818da2d321ad6b50889affdf50bae58
+io.github.ahjohannessen	sbt-java-gen_2.12_1.0	0.6.9		3815a50c212435c8a5c0b1e92eb165323501f99d
 io.github.alexarchambault.bleep	buildpress-config_2.12	1.5.11-sc-1		1afd556d1b476f8be9f391f1dece0fd3ebbadd4d
 io.github.alexarchambault.bleep	buildpress-config_2.12	1.5.11-sc-2		5232336b02021d7a5aa659ad7d99d31b2a998115
 io.github.alexarchambault.bleep	buildpress-config_2.12	1.5.11-sc-3		f2f9eb871e93fc9d32c9697bce53a3b13a7551b8
@@ -1729,6 +1740,7 @@ io.quarkus	quarkus-jdbc-mssql	3.15.2		8f9344b47376b0fe25dbbb82c7f18a1eef6c2230
 io.quarkus	quarkus-jdbc-mssql	3.15.3		d82c2878556c31e4f6d909ee8ee6a2cd6c638e4c
 io.quarkus	quarkus-jdbc-mssql	3.15.3.1		ac4078650fd94f65e063e93e5214694542164ffb
 io.quarkus	quarkus-jdbc-mssql	3.15.4		9a92e5d838cec6612b655d7da040becd8ec08ccc
+io.quarkus	quarkus-jdbc-mssql	3.15.5		6ee6e7cf0ba4ee47283078ecf43dd1de070a9e63
 io.quarkus	quarkus-jdbc-mssql	3.16.0		b607810e1bcf4a56bf018c9146b22026444ea866
 io.quarkus	quarkus-jdbc-mssql	3.16.0.CR1		56a11fd75f7281e2dc1e84fb3a1832b32f617d4b
 io.quarkus	quarkus-jdbc-mssql	3.16.1		6a5292219b3dadb9ba94e4cbe963f29d23023c47
@@ -1773,6 +1785,7 @@ io.quarkus	quarkus-jdbc-mssql	3.2.8.Final		42891d112323f33759c6f595516600d208dc3
 io.quarkus	quarkus-jdbc-mssql	3.2.9.Final		9e850f1d680856911f0bc8225ec526842c0d489a
 io.quarkus	quarkus-jdbc-mssql	3.20.0		a01404d71e9036dedbfce05d822e8f2483958e58
 io.quarkus	quarkus-jdbc-mssql	3.20.0.CR1		fd14b3ed34ce4f0b4b278e53e95bb027085a6338
+io.quarkus	quarkus-jdbc-mssql	3.20.1		d0504ca01467d084b084410bed3e8c543384ad9b
 io.quarkus	quarkus-jdbc-mssql	3.21.0		d288d6c505646b7dca646054465b8daa9f8d99bb
 io.quarkus	quarkus-jdbc-mssql	3.21.0.CR1		828e97906df88f6f85e5044cde2f76d3fb1e4fab
 io.quarkus	quarkus-jdbc-mssql	3.21.1		6f562f266b91b7dc6117c2b27d40be1d72e06f1c
@@ -1782,6 +1795,9 @@ io.quarkus	quarkus-jdbc-mssql	3.21.4		7562294f44942270ff2b9eab0272dcb37e0e5589
 io.quarkus	quarkus-jdbc-mssql	3.22.0		041a0d7a19660685955f44df4ed2af0940c86b8c
 io.quarkus	quarkus-jdbc-mssql	3.22.0.CR1		e832184a146b06431fa00f050bc030c01b3b67ce
 io.quarkus	quarkus-jdbc-mssql	3.22.1		f205f45e696cd6367bb679c9a812d4e24cfffc7d
+io.quarkus	quarkus-jdbc-mssql	3.22.2		9adf1c47f9053fd32687c3a05bccea79c928daa1
+io.quarkus	quarkus-jdbc-mssql	3.22.3		c64856af39a0d1d6181c5c08ea3511af353ee615
+io.quarkus	quarkus-jdbc-mssql	3.23.0.CR1		81cf67065a15d0b4c22cc076d0683a2c91107b35
 io.quarkus	quarkus-jdbc-mssql	3.3.0		e885f765f9c533ddde1e7e302749ec506e7fb7be
 io.quarkus	quarkus-jdbc-mssql	3.3.0.CR1		91957adf26d24e7f13b74897b7542bead583662f
 io.quarkus	quarkus-jdbc-mssql	3.3.1		344ebdbddf848c328753f1459688f5d5a85cedf7
@@ -2085,6 +2101,8 @@ net.folivo	trixnity-crypto-macosx64	4.15.0		N/A
 net.folivo	trixnity-crypto-macosx64	4.15.0	metadata	e4e0d2663501f93c7dd6fb690fc5b582d3cfa651
 net.folivo	trixnity-crypto-macosx64	4.15.1		N/A
 net.folivo	trixnity-crypto-macosx64	4.15.1	metadata	74f66df32f88ffa997e694f2cd27a7d484674045
+net.folivo	trixnity-crypto-macosx64	4.15.2	metadata	e4de0a44b2259b4b280c8cfdee43875a01b8fe70
+net.folivo	trixnity-crypto-macosx64	4.15.3	metadata	b5ebcd09607327f27421d66f43f390ca6e8a3693
 net.folivo	trixnity-crypto-macosx64	4.2.0		N/A
 net.folivo	trixnity-crypto-macosx64	4.2.0	metadata	99387f185d85691a9883a7e4b3d5494b6c0236c2
 net.folivo	trixnity-crypto-macosx64	4.2.1		N/A

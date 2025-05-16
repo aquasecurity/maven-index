@@ -1,4 +1,5 @@
 app.softwork.serviceloader	runtime-wasm-wasi	0.0.15		N/A
+at.asitplus.wallet	ehic	1.0.0		ae38f493bc66561d269e5cef52b32e0a09570700
 aws.smithy.kotlin	http-client-engine-okhttp4-jvm	1.3.10		f7f3f94a8667133dfb2eeacc90a03f122727d0df
 aws.smithy.kotlin	http-client-engine-okhttp4-jvm	1.3.11		c9a31b326811efc7de1e50d800ad770f35dfd9e5
 aws.smithy.kotlin	http-client-engine-okhttp4-jvm	1.3.12		c9a31b326811efc7de1e50d800ad770f35dfd9e5
@@ -523,6 +524,7 @@ fr.maif	otoroshi_2.12	16.9.0		c6d72e51920b1299a4e1551089842bbea984da7f
 fr.maif	otoroshi_2.12	16.9.1		b958df57716fe0f6eea09bbf4e55092574162039
 fr.maif	otoroshi_2.12	16.9.2		3d5c943abf95ceca163a71993071eecdb57ca1c9
 fr.maif	otoroshi_2.12	17.0.0		195ef6b8c3b2bbdce63e58549714f88ea374ab7b
+fr.maif	otoroshi_2.12	17.1.1		85b88ff538ff37bb5cd891b78d1846ab4ec8774c
 fr.opensagres.xdocreport	fr.opensagres.poi.xwpf.converter.xhtml-gae	2.0.0		85ec1937aefd8cacdd73879bf46de1b35b56d2d4
 fr.opensagres.xdocreport	fr.opensagres.poi.xwpf.converter.xhtml-gae	2.0.1		53ece4be32f65927b3f637e457b7699a7f7f2c46
 fr.opensagres.xdocreport	fr.opensagres.poi.xwpf.converter.xhtml-gae	2.0.2		13b40cdbfe9e5262acd84ff38bca09dbf5d16ffd
@@ -597,6 +599,7 @@ io.getkyo	kyo-direct_3	0.16.1		5c254aec86dd3c323d191c2ef4a3241511795872
 io.getkyo	kyo-direct_3	0.16.2		4b01fad0a8b5185d2e8cd3402f711362828db825
 io.getkyo	kyo-direct_3	0.17.0		dfd6df279e682583e7ccb33b96dae7d8732cfbdc
 io.getkyo	kyo-direct_3	0.18.0		a770acfd97ba6a113ce8cc1f369bdef47ff45b53
+io.getkyo	kyo-direct_3	0.19.0		c620d02d293ba2b8684932b121f832a6654e9709
 io.getkyo	kyo-direct_3	0.2.0		f1f00cc3abdb0ff5c3b5bea2dd9613813c61c071
 io.getkyo	kyo-direct_3	0.2.1		c957c5ff261e3a81caa1951303cd42e468cb9ed5
 io.getkyo	kyo-direct_3	0.2.2		9e5f927297ac871e2a3dacc29851f331632520ed
@@ -845,6 +848,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-cl
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-client-7.0	2.13.3-alpha		72f373cfe307eb1fabe6389cfb2d8e4e14313c9a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-client-7.0	2.14.0-alpha		69ac955f73e80c020045014eb9ccef18a248d344
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-client-7.0	2.15.0-alpha		444e042de2c7ce53f109a4150d6ad30b8d09004a
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-client-7.0	2.16.0-alpha		4c6ae7ab66ae1d8dc707d9f48768d0cbc2262118
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-client-7.0	2.2.0-alpha		ec9e52b0fbab01a90607b27f79211dd328038f03
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-client-7.0	2.3.0-alpha		778f2650b92fc87d21fb7275324d39e7092a08da
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-kubernetes-client-7.0	2.4.0-alpha		69d16d07f00dda7178257995fac4e0b718f69d66
@@ -1185,6 +1189,7 @@ org.webjars.npm	uuid	9.0.0		3b532d1798b7d7a2496b5c98a92e7134c95cdef3
 org.webjars.npm	uuid	9.0.0-beta.0		57d6cff324d986a11696cbd7b55b2819aba0fb4a
 org.webjars.npm	uuid	9.0.1		02771de5aed47283eeec44c2163e270d6e73d4ae
 org.webjars.npm	vuex-map-fields	1.4.0		c1508834adf83fdaf9df024e9a850c169940b102
+org.webjars.npm	whatwg-node__fetch	0.10.7		59b928bfbbce06448499278fca960572cd743c81
 pl.touk.nussknacker	nussknacker-test-util_2.11	0.0.12		00e205cec1af7f7facd5973b89980fbc4e87b0dc
 pl.touk.nussknacker	nussknacker-test-util_2.11	0.1.0		dc7bd35c9af0f9baad06d2aed10cf729c42b8616
 pl.touk.nussknacker	nussknacker-test-util_2.11	0.1.1		d10a076fd597315dee875e94da0d5ff5942aaac7
@@ -2249,7 +2254,18 @@ software.amazon.awssdk	iotwireless	2.31.30		7a3d590399389775a702ac3dd07fb22758bf
 software.amazon.awssdk	iotwireless	2.31.31		592f3603b39be6d5c7835111aa706c5ba076ad8c
 software.amazon.awssdk	iotwireless	2.31.32		29811b48aae0b282bb755ecdbea59124ab74c649
 software.amazon.awssdk	iotwireless	2.31.33		36357f386f96b06c4f3dee566eb1848a7f0cf518
+software.amazon.awssdk	iotwireless	2.31.34		c370645b18d2874fc3ad422e7459125d950ef578
+software.amazon.awssdk	iotwireless	2.31.35		348cc329605e4126d2475e618d144ad0d94822e2
+software.amazon.awssdk	iotwireless	2.31.36		07ce7b917ae1eb502969dbb4e98568e6cacaa1d3
+software.amazon.awssdk	iotwireless	2.31.37		8cd0828572320b0136c8cf35d958987c105dda85
+software.amazon.awssdk	iotwireless	2.31.38		583507c94bd4ec58e13deff9716090c71cc9be47
+software.amazon.awssdk	iotwireless	2.31.39		92880b074f5d12c993480ab0237acc8342cb8044
 software.amazon.awssdk	iotwireless	2.31.4		c9fdc81021f65f041282c0c156e5410b83585713
+software.amazon.awssdk	iotwireless	2.31.40		057c31c34864fef6e72608095865c6d367cbb08a
+software.amazon.awssdk	iotwireless	2.31.41		7bae656ce4f3df0fff614428b0cd324e9fd6fce0
+software.amazon.awssdk	iotwireless	2.31.42		9520209ed3a27a6a94e6a3b582578f0d8e24cc8a
+software.amazon.awssdk	iotwireless	2.31.43		5afd632d59f9cb9689fcb9bccc2568414813af91
+software.amazon.awssdk	iotwireless	2.31.44		4eabde02230b53c1cd4bd8631b1fb58c33e33ee0
 software.amazon.awssdk	iotwireless	2.31.5		d088c2042963634bbeab2b07ac46dc7261751d8f
 software.amazon.awssdk	iotwireless	2.31.6		098bbc576c1c2b5da9297bb60f7acdb890c12f95
 software.amazon.awssdk	iotwireless	2.31.7		d5b9b6c04531cf3d8d655c3af92132a09a9c2d2d

@@ -126,6 +126,7 @@ com.labijie.application	framework-auth-social-starter	3.1.6		e1733472fac6ebf5a1a
 com.labijie.application	framework-auth-social-starter	3.1.7		c6db38be9cad1a9037204a469c95a16b22a36dbf
 com.labijie.application	framework-auth-social-starter	3.1.8		3c2b566d2d615bd2b8629520f8267665d9012ce0
 com.labijie.application	framework-auth-social-starter	3.1.9		1f49bb83de68da02ecbfe60efea3345b1a1f050b
+com.labijie.application	framework-auth-social-starter	3.2.0		361fa844321c8ece057c22efe75a1777f0a03a73
 com.latenighthack.ktcrypto	ktcrypto-library-iosx64	0.0.1		N/A
 com.latenighthack.ktcrypto	ktcrypto-library-iosx64	0.0.1	metadata	dbff8ff87f284a80fbf15862efc8a0f84c265394
 com.latenighthack.ktcrypto	ktcrypto-library-iosx64	0.0.2		N/A
@@ -537,6 +538,7 @@ dev.zio	zio-aws-fis_3	7.31.27.1		a56132068bd6087dbffc087c29509a36083f9c13
 dev.zio	zio-aws-fis_3	7.31.28.1		2406f0947012861b3837acd2987dca0ec0dee598
 dev.zio	zio-aws-fis_3	7.31.3.1		525c0e86ebc95f2db645a68b5818d664cf58fe86
 dev.zio	zio-aws-fis_3	7.31.30.1		416c885a8423a912961a009d2e1d1e94883bc1ba
+dev.zio	zio-aws-fis_3	7.31.30.2		fe20f9458f0006ff1fe802f5b7c23c138b2c2a13
 dev.zio	zio-aws-fis_3	7.31.4.1		05d6c98574a86c525a5f9ff33fbe6cb7a5cb3529
 dev.zio	zio-aws-fis_3	7.31.6.1		b9447ad02489a15349c021fe751db710b4317831
 dev.zio	zio-aws-fis_3	7.31.6.2		88202c839191693c74b63615be30765e333f1de5
@@ -865,6 +867,7 @@ io.ktor	ktor-server-core	3.0.3		aa8d1645a313bc010b7555ed1a78a62dbc76aeca
 io.ktor	ktor-server-core	3.1.0		81220d4cf07222534f743bcb5a526481604a8e6b
 io.ktor	ktor-server-core	3.1.1		4bcfd569ee01e297165c960abd8abae2020238ee
 io.ktor	ktor-server-core	3.1.2		5129b4ba13703fbd64ecf42a13da2ab54d93ad6c
+io.ktor	ktor-server-core	3.1.3		f203eb3cd20144dda0b78a10b488de87416dc29d
 io.onema	userverless-core_2.11	0.4.1		af8bc762c57c4bf06f8593bbdf6085f7ff48d387
 io.rxmicro	rxmicro	0.1		N/A
 io.rxmicro	rxmicro	0.11		N/A
@@ -1113,6 +1116,7 @@ org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.2.1		a1b
 org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.2.2		c4500cdaa9c23fbd2bc7227336eec5036f1e8fb4
 org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.2.3		47a74cec3e16a7c47cf8d5c9e7de9fb513fd9788
 org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.20.0		3836551b0b4825b8e654f23d89e1353c68816720
+org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.20.1		908eb2582e1a6d3ddb66e324bd88d7c4458b14af
 org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.22.0		461312ac52f6162e2a50a8a7846ef33252c4001e
 org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.4.0		9b448e15e74aa92afb5a43ee2f9bcc4afff0944a
 org.apache.camel.quarkus	camel-quarkus-microprofile-health-deployment	3.5.0		e7472e748285c49e369db938ed4ddca37d46b3ac
@@ -1625,6 +1629,7 @@ org.refcodes	refcodes-component	3.3.6		2ca57ea7a2deb6cbdf1f00df02994c14cda76494
 org.refcodes	refcodes-component	3.3.7		f10bf22e7192418adc242ddee260ca8a35cf0a8a
 org.refcodes	refcodes-component	3.3.8		433e7f6422ae9d1187cc10339504e8408c8a5daf
 org.refcodes	refcodes-component	3.3.9		4b9db7a41ba4ec93c5b207a37a3585f6f363cc3f
+org.refcodes	refcodes-component	3.4.0		be31c14fd1dd2d4d6dccf36b93de44f029cef008
 org.scalatest	scalatest-funsuite_sjs1.0-RC1_2.13	3.2.0-M2		2fdbba3cad63eabcdeef6f9a11e3284443647ceb
 org.scalaz	scalaz-core_sjs1.0.0-M1_2.11	7.2.14		f8c03e640491d88dd66adbb6f4ae92ccc360443a
 org.scijava	scijava-aggregator	1.0.0		N/A
@@ -2606,7 +2611,18 @@ software.amazon.awssdk	ssmcontacts	2.31.30		86a4a54a4a0ffa80452cf8bb21975e2624ba
 software.amazon.awssdk	ssmcontacts	2.31.31		37b2bbf672ae35b91a394963927e015b1bde99c6
 software.amazon.awssdk	ssmcontacts	2.31.32		0c99aaa247156e2bb77f0b70f71adb4787dacb94
 software.amazon.awssdk	ssmcontacts	2.31.33		6978c7ded856eb56f625be777cfab9e2433c8284
+software.amazon.awssdk	ssmcontacts	2.31.34		958bbba4cfe77683e88c79b937d23f11458b2361
+software.amazon.awssdk	ssmcontacts	2.31.35		1c9501d23006199ffe6c599c4c692f4c09bd27f4
+software.amazon.awssdk	ssmcontacts	2.31.36		7d6dd1f24a885067460820d92968ecd184033ac5
+software.amazon.awssdk	ssmcontacts	2.31.37		e7b4110f1a7232d66d31481d1bb14fd9d4530e05
+software.amazon.awssdk	ssmcontacts	2.31.38		11f43a5c87b838115c6a37036390b16c8b8b67e8
+software.amazon.awssdk	ssmcontacts	2.31.39		5f7e45e8f68018879500dab3dbbb273765a66a4b
 software.amazon.awssdk	ssmcontacts	2.31.4		b9ebdbdeacbadb4e02393dfef65d7b52bfb2480f
+software.amazon.awssdk	ssmcontacts	2.31.40		de95d04d77088f426d28446d67e7839f052a109b
+software.amazon.awssdk	ssmcontacts	2.31.41		49aa7956a90e91e908e385c2701a0baf3576a4d5
+software.amazon.awssdk	ssmcontacts	2.31.42		e1a2111b175d6665423a7e9c6c5f888cf50088a0
+software.amazon.awssdk	ssmcontacts	2.31.43		104ab3c40d19740509b967d56d0eac7ee4fa1617
+software.amazon.awssdk	ssmcontacts	2.31.44		f3a5927eda9fded97df0ce38990be41fb8e5c6ac
 software.amazon.awssdk	ssmcontacts	2.31.5		5a1d2c1f8733e300f5296a7ce23ae3c41072deee
 software.amazon.awssdk	ssmcontacts	2.31.6		a6cc239ada827e3b76a460f1974bdaec44508425
 software.amazon.awssdk	ssmcontacts	2.31.7		77a60b73c65b2d433aa2806e4751cf3831d87b4d

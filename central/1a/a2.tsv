@@ -68,6 +68,7 @@ com.akuleshov7	ktoml-source-jvm	0.5.0		9d41293b64fb0b994df370d15889432d1c5fb9af
 com.akuleshov7	ktoml-source-jvm	0.5.1		e9383d0e755d7fd20062271395bcbcfa926c1ee2
 com.akuleshov7	ktoml-source-jvm	0.5.2		285f3aa81a2a672ee393272a92b31226034587ac
 com.akuleshov7	ktoml-source-jvm	0.6.0		d8f5d957a0256fb4a115032447ed3f196551b6a2
+com.akuleshov7	ktoml-source-jvm	0.7.0		4a577b2d3d7763946dbded85b723d18f9f63608c
 com.aliyun	alibabacloud-alikafka20181015	1.0.0		851a9c8ca77773bb88dfe43a84e7d3a2a607374d
 com.aliyun	alibabacloud-alikafka20181015	1.0.1		351ad41b54c3780d7e9ccbd1383767712242f343
 com.aoindustries	ao-appcluster-core	1.0.0		d6e714fd582aa001d846146ba2d3163e74983e5a
@@ -316,7 +317,15 @@ com.easy-query	sql-clickhouse	2.8.13		f695c668300053861e9418555cc575fbb30ee841
 com.easy-query	sql-clickhouse	2.8.14		4ec5d796c80cceb8646000f60c19f7453c75a376
 com.easy-query	sql-clickhouse	2.8.16		5a53409b3036fca7268adf9c4e9809b056342e6d
 com.easy-query	sql-clickhouse	2.8.17		e2e130d84335ff52354a7b7b315e6de842da76cf
+com.easy-query	sql-clickhouse	2.8.18		2f61f859676ca66cb5d135b85be9ad99d4da6dfd
+com.easy-query	sql-clickhouse	2.8.19		a060ecf406679dc564b48d3dcf24bf736d32dd99
 com.easy-query	sql-clickhouse	2.8.2		04867917e111eb04b2f1afd7ecadcd3bf44a1f5c
+com.easy-query	sql-clickhouse	2.8.20		023f74680a076344e568a2779b7caeb12afa20bb
+com.easy-query	sql-clickhouse	2.8.21		56352eb5f5c407dfe6fe981013118e2c6dab620a
+com.easy-query	sql-clickhouse	2.8.22		190c475ff29cae34d115abd600c15a4597d24114
+com.easy-query	sql-clickhouse	2.8.23		14da014272c7e1d03db72086bd158fbf8c82c054
+com.easy-query	sql-clickhouse	2.8.24		e62768a42ea447df37409788032072f35aa26b43
+com.easy-query	sql-clickhouse	2.8.25		baf5c32e5c45f0ea2a4896fb22e11cf801a135ed
 com.easy-query	sql-clickhouse	2.8.3		63b68c9fef3a1eb35b0079355cc466e73da7d2d9
 com.easy-query	sql-clickhouse	2.8.4		5471704197c4f9e538ada966510b41f05ee5a868
 com.easy-query	sql-clickhouse	2.8.5		85c8f2c2815a7814244f77043c58a3aaf88c89d0
@@ -606,6 +615,7 @@ io.continual	continualJsonHttpClient	0.3.28		ac0014fa35db8d546e59376e2e62eed2f72
 io.continual	continualJsonHttpClient	0.3.29		4d9dd4a985516f08e58c4f546b0bb5dc82d39af7
 io.continual	continualJsonHttpClient	0.3.3		02944a49f73c79eacea686bdb07c9353cf609116
 io.continual	continualJsonHttpClient	0.3.30		954fd66ffd08ea485d5314ba31f6c020b85bbd19
+io.continual	continualJsonHttpClient	0.3.31		1b321cf1248e97f19e76e9fb1dc554818c471a5d
 io.continual	continualJsonHttpClient	0.3.4		a104497a0bf090d3f3a65ef7d55a694065c49459
 io.continual	continualJsonHttpClient	0.3.8		c77c497aa071a2b55004a303f47b7f5ed0dd2687
 io.continual	continualJsonHttpClient	0.3.9		34225105621926e358f50d74ffa358b9947fca0d
@@ -697,6 +707,7 @@ io.helidon.webserver.testing.junit5	helidon-webserver-testing-junit5-websocket	4
 io.helidon.webserver.testing.junit5	helidon-webserver-testing-junit5-websocket	4.1.7		7302be62522211e67ad4d00db9ba1fe59222df6b
 io.helidon.webserver.testing.junit5	helidon-webserver-testing-junit5-websocket	4.2.0		a432550aece07f04604788c08d2eaa35a95338b6
 io.helidon.webserver.testing.junit5	helidon-webserver-testing-junit5-websocket	4.2.1		cd213c4803f30334e8e3f90f99a879dd5688b9ad
+io.helidon.webserver.testing.junit5	helidon-webserver-testing-junit5-websocket	4.2.2		dac8a371e31c65e40a6cdfd51f97101af1c04876
 io.kamon	kamon-logback_2.11	1.0.0		39ec67e51483519e3532a2307f821eb07f3f652f
 io.kamon	kamon-logback_2.11	1.0.0-RC7		6ef97bf5afa326436b35f14d094fcd1afd7a9037
 io.kamon	kamon-logback_2.11	1.0.2		b533c9e9aa9b7873b25a234f7f439a33b8e559de
@@ -1422,6 +1433,7 @@ org.apereo.cas	cas-server-support-jdbc-monitor	7.2.0-RC6		f3c831f63bc709b375c1bd
 org.apereo.cas	cas-server-support-jdbc-monitor	7.2.0-RC6	resources	696caffe384d0b06ae55e09a76615276a79c63b1
 org.apereo.cas	cas-server-support-jdbc-monitor	7.2.1		3fc2eb6b2d78eaf3452a2fcf2007585c319b74d6
 org.apereo.cas	cas-server-support-jdbc-monitor	7.2.1	resources	0a92774629235661794b63f2f5f02ff87059ab6f
+org.apereo.cas	cas-server-support-jdbc-monitor	7.2.2		18e3ec7c3af1e6416b33388d861f01a2d467f931
 org.apereo.cas	cas-server-support-jdbc-monitor	7.3.0-RC1		95fdc521c83aeabd01fd712b13b2a277fce21505
 org.apereo.cas	cas-server-support-jdbc-monitor	7.3.0-RC1	resources	1cfb907226d28f06ce9b20d0da7f43cb64c54124
 org.apereo.cas	cas-server-support-jdbc-monitor	v6.4.0-RC5		7f273ba34dd87ea17aea28f7f23533f801775372
@@ -1625,6 +1637,19 @@ org.eclipse.dirigible	dirigible-components-api-mail	11.41.1		7ddb30a16bfcf137719
 org.eclipse.dirigible	dirigible-components-api-mail	11.42.0		303614ba7c8a751f3d9348706d8b3708d7212804
 org.eclipse.dirigible	dirigible-components-api-mail	11.43.0		ec380ea4c88d1c7bfc02fa5d7aa9ff7d9e5c99ab
 org.eclipse.dirigible	dirigible-components-api-mail	11.44.0		620367f5773f1d89a009812ff318afed55c749aa
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.0		954bc9436103a412055b247468e575c962d5ffaa
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.1		971631b1dbcfab84488c4889a6d8b987ef75050e
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.10		a6317005af81a23d89a330ab1a8a83e4d8dfd19c
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.11		8fdfb6fd8e051754d101884827221035cdb5cae4
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.12		649aa6b1e8b72a9298a6c8aa8233881fe1851094
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.13		e2851cbabf9a0c5e590104b4abc44e3c16d42739
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.3		de6305f969e3d89d9607546dd547be2fc77f6962
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.4		72c3f5cee9d4e6d4d3690578115801ce4f0b38ca
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.5		95defa1f9948228884d325ebfd40baee815be3ef
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.6		993b8c264342adbb0c6d33ee5cd50da66945cf40
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.7		fc9f7fdcb4a3d78e8d61291f9ff6ec981518ac63
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.8		61f1e97cca1f6755fc7e8407475346c44b833f89
+org.eclipse.dirigible	dirigible-components-api-mail	11.45.9		b182b4e1abe680761ff845263d039931f144f9ed
 org.eclipse.dirigible	dirigible-components-api-mail	11.5.0		d066f05a9205b18f1630fc6bae81bcc9225a55b9
 org.eclipse.dirigible	dirigible-components-api-mail	11.6.0		1116de65a62b81024df4665e255f410f9d46253d
 org.eclipse.dirigible	dirigible-components-api-mail	11.6.1		e9e37c8bf797d9edf721361bcdeea223ed7d191c
@@ -3361,7 +3386,18 @@ software.amazon.awssdk	location	2.31.30		73344cb1ee0c01152b47a9a5b13e7402c51780d
 software.amazon.awssdk	location	2.31.31		78b0da5e5b70e2d68d69bacb0062aa834219c502
 software.amazon.awssdk	location	2.31.32		b723309c5147d0ecd9b768476fb62c90a5c921f2
 software.amazon.awssdk	location	2.31.33		04794a613d8a33c13c4a72acc2dea8460cbf3e72
+software.amazon.awssdk	location	2.31.34		5930493f70fcdf13d003f7495bbfb37ffdf1dde3
+software.amazon.awssdk	location	2.31.35		c6cce739bc0873b30afb13c8aa1a363d4dbd0021
+software.amazon.awssdk	location	2.31.36		c6f9807b971a63ed298d6b8d0f840942d6866ac6
+software.amazon.awssdk	location	2.31.37		3249e4e0ebb4d0f07cdc6077c5e4ac88715c6208
+software.amazon.awssdk	location	2.31.38		b62ddf98a6a0440d3a24390f659b836ecb7e679e
+software.amazon.awssdk	location	2.31.39		0eef878ab0ef5ebfa63f2e4831cfcdecdfd649c3
 software.amazon.awssdk	location	2.31.4		c89447bd0a7423e4080bab4b82a34b26d00bc424
+software.amazon.awssdk	location	2.31.40		0bbb37ccba419ff8eb9789ee6668c7ace3ef933d
+software.amazon.awssdk	location	2.31.41		e8ef29cb662a4bfb3e23b09fc6dc0fed6969291f
+software.amazon.awssdk	location	2.31.42		3a4bbc6f97bb780cbcf5e0615943f7755e87d612
+software.amazon.awssdk	location	2.31.43		a1959ec49f4df59b49dc78844526f37ee5c99d5e
+software.amazon.awssdk	location	2.31.44		e4ef8d415dcc74bce45cfa08d3bcf269452a4919
 software.amazon.awssdk	location	2.31.5		ed8c49fd8e37f00a9960384abb3c278a5abe8f9a
 software.amazon.awssdk	location	2.31.6		f2b4a415d9c9ef9b9b99810236501260ba320095
 software.amazon.awssdk	location	2.31.7		e9a7650abf8d01a9b84a8ea8468e338c09f043de

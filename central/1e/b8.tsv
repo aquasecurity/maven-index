@@ -66,6 +66,7 @@ com.agorapulse	micronaut-worker-queues-sqs-v2	2.8.0		810af99c2f7814e864fe58a8b8a
 com.agorapulse	micronaut-worker-queues-sqs-v2	2.8.1		69784349f34115e31d7516d835895772585b4fe9
 com.agorapulse	micronaut-worker-queues-sqs-v2	2.8.2		725298cc8f3afe9101bddd20bff0dbef76f8df21
 com.agorapulse	micronaut-worker-queues-sqs-v2	2.8.3		5cbb72f8186a841a46e196cb7b63f6c5046e236f
+com.agorapulse	micronaut-worker-queues-sqs-v2	2.8.4		831321df96fcfe03b3f18bbbec40271d071bef6d
 com.armanbilge	circe-pointer_native0.4_2.12	0.14.2-158-f15be0d		8a33b6d1f11ef8355612acfe735fea3264e41468
 com.avast	sst-pureconfig_2.12	0.1.11		60b9f0a2f9d68cae45cebbc463497e501ffa7473
 com.avast	sst-pureconfig_2.12	0.1.12		753180f0d225edd11f953e41b4f0f5da5dfb4b55
@@ -809,6 +810,7 @@ io.deephaven	deephaven-server-netty	0.37.5		eb77297d2e3e907f311424df9a32225855e0
 io.deephaven	deephaven-server-netty	0.37.6		ddd192b879e820541cd1a8281125598cb27d9717
 io.deephaven	deephaven-server-netty	0.38.0		cd65e0e67395ca196023c85f76ed6705ea41fdfa
 io.deephaven	deephaven-server-netty	0.39.0		880314d406ae52508fedfb3f66c2c506d8929934
+io.deephaven	deephaven-server-netty	0.39.1		5c915474ecc04cceeaf3f391599b9d073166d367
 io.domainlifecycles	domain-diagrammer	2.0.0		164717f1ca3c3ee9f215bd994d04294ab2229ff7
 io.domainlifecycles	domain-diagrammer	2.0.1		b1db9d30efefdaa1ad61604284779a422dfb279e
 io.domainlifecycles	domain-diagrammer	2.0.2		44fbb1c30f5bcd9028cbf40cdf9d08ca4e8c5ab6
@@ -905,6 +907,7 @@ io.fabric8	openshift-model	7.0.0		aefdc75afdb258aaa519aa11ed4263da047bca68
 io.fabric8	openshift-model	7.0.1		baea6b5d23f0cf03fbd4838c6877ace8d76f8aa1
 io.fabric8	openshift-model	7.1.0		4d6ee29a51cfbbec639928c12dfe27faafdb82e8
 io.fabric8	openshift-model	7.2.0		2d497f824fad7e41d9e82421c516ca859563f0de
+io.fabric8	openshift-model	7.3.0		87745a92e721f7e9db27fef2a755b27a9035dadb
 io.fluidsonic.time	fluid-time-macosx64	0.10.0		1b3af6f11524cf6f5ed30cb6a4a2a97438c73ca8
 io.fluidsonic.time	fluid-time-macosx64	0.10.1		601769ae51ab49479967c3f3fc74d483a2b76c51
 io.fluidsonic.time	fluid-time-macosx64	0.10.2		ac31d8dbfbc3700444049d082d0e6f504503906c
@@ -1055,6 +1058,7 @@ io.ktor	ktor-server-auth-ldap	3.0.3		6cd29072bfc7675416f44644ddd27886b7c8d76c
 io.ktor	ktor-server-auth-ldap	3.1.0		6cd29072bfc7675416f44644ddd27886b7c8d76c
 io.ktor	ktor-server-auth-ldap	3.1.1		6cd29072bfc7675416f44644ddd27886b7c8d76c
 io.ktor	ktor-server-auth-ldap	3.1.2		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+io.ktor	ktor-server-auth-ldap	3.1.3		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.oolon	HttpUtil	1.0.0		9eb10ea056a7439cd4c5ef33f846d7ff63a0fedb
 io.virtdata	metagen-lib-curves	1.0.0		3aeb567755c5b9134919dbdcfa47ae9213508c4f
 io.virtdata	metagen-lib-curves	1.0.10		40112c2ca0299bb298c7b3e94df0c018f1a21461
@@ -1281,6 +1285,7 @@ org.apache.parquet	parquet-benchmarks	1.14.3		5a0ca16f7ddc6d57df0518d1d665098e45
 org.apache.parquet	parquet-benchmarks	1.14.4		1f0f19501ea65b42809c0357da60ae933e25a040
 org.apache.parquet	parquet-benchmarks	1.15.0		0f32923707b67f21e814b613a6c6c28797aca45c
 org.apache.parquet	parquet-benchmarks	1.15.1		75efa2e26adf4b837bc3c4e085aa30d28e50856b
+org.apache.parquet	parquet-benchmarks	1.15.2		f89addb4aba3ef815ea5ed14de2eb084f44549f5
 org.apache.parquet	parquet-benchmarks	1.7.0		cd5bbba2ae93d41ab5c6fd9735a6dd8e74ac7913
 org.apache.parquet	parquet-benchmarks	1.8.0		33d11210b0d070c185f35ecc0b2c35b734069896
 org.apache.parquet	parquet-benchmarks	1.8.1		779efca31b6d9c6d760c82db4c7c13a3f89ef46c
@@ -1828,6 +1833,7 @@ org.apereo.cas	cas-server-support-spnego	7.2.0-RC6		783df1eb5451220851173f8a1c33
 org.apereo.cas	cas-server-support-spnego	7.2.0-RC6	resources	c2a4703495a704a1408742a6587d2fbbdb2606ef
 org.apereo.cas	cas-server-support-spnego	7.2.1		f794146d8aeac5868a38a3244d8631d3a8af3c6a
 org.apereo.cas	cas-server-support-spnego	7.2.1	resources	130c85cec0847a523cbb8b7dd0b78feec72bc244
+org.apereo.cas	cas-server-support-spnego	7.2.2		e5c8d5d45e4add818744e1e39a49688b4b5c9cbf
 org.apereo.cas	cas-server-support-spnego	7.3.0-RC1		70e818ac9e55568a6719cb637824eb7278944c29
 org.apereo.cas	cas-server-support-spnego	7.3.0-RC1	resources	f45a538d45ad7140d72975a02a293266b5f9fce5
 org.apereo.cas	cas-server-support-spnego	v6.4.0-RC5		c57c8f40fee588a280c879bcee5d91a712a288c0
@@ -3243,7 +3249,18 @@ software.amazon.awssdk	networkmanager	2.31.30		903eca14cff3c9805b77facf6eca5c4f9
 software.amazon.awssdk	networkmanager	2.31.31		f538061807fc89c0afa768a9745ae2e50ad9c6f8
 software.amazon.awssdk	networkmanager	2.31.32		c1fe1e0842641fe5cb55183e6d433fb31e0d7767
 software.amazon.awssdk	networkmanager	2.31.33		1cc960becb74cc123ebff726eb307fc71a1f054f
+software.amazon.awssdk	networkmanager	2.31.34		7effa380f9acb5f3ff781b261d4804006df7a16b
+software.amazon.awssdk	networkmanager	2.31.35		a7c1adbaab96706964d486a18c48d3d32ffe35c9
+software.amazon.awssdk	networkmanager	2.31.36		8e52e67da49ae8467c27dfa8d3055e3724793983
+software.amazon.awssdk	networkmanager	2.31.37		745b3b60dee836b37edb0b41472add3cff67ca9d
+software.amazon.awssdk	networkmanager	2.31.38		9f94832c6deffddc7b91045da93f7d1844d15ef3
+software.amazon.awssdk	networkmanager	2.31.39		f65fbee2039724cb382588792d6b9b36e1de7a7a
 software.amazon.awssdk	networkmanager	2.31.4		2e2e9c20110c53fc40ad9b8dd47376da54bca798
+software.amazon.awssdk	networkmanager	2.31.40		739a7e6a1e6410d1e4453fb6d642a0dc22c1f277
+software.amazon.awssdk	networkmanager	2.31.41		74461d9d1b845e1d684a2b1cef448280e764d774
+software.amazon.awssdk	networkmanager	2.31.42		36ad10c9b73a553c73a42edc94d6d49b68318625
+software.amazon.awssdk	networkmanager	2.31.43		01da252f9d38a07452316a2063df26be6b8dd66c
+software.amazon.awssdk	networkmanager	2.31.44		a6d6c6876df225ae5940e8c70bd3baa311acb923
 software.amazon.awssdk	networkmanager	2.31.5		8e7506471697df11478b787d7a9780e47e5e73d9
 software.amazon.awssdk	networkmanager	2.31.6		1ca65b118f1e54d158f2b1aaeaa742668a2f44c4
 software.amazon.awssdk	networkmanager	2.31.7		b841b2b139e16a45358c93a685e4ce4d93adb420

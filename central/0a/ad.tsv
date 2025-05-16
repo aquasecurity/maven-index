@@ -1120,6 +1120,7 @@ dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.27.1		f28692b8d4898f64b26
 dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.28.1		5a008ace18121608e5019dfe8bfa624da9420d84
 dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.3.1		30a2a74cdadbd4cb3a8c056666bfa2c109f4176c
 dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.30.1		92361e1fc535d338ef8449ff20f1956f186a8616
+dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.30.2		87fa90516cc758133c7ed4ce621758ceb120bb64
 dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.4.1		8f0a0fe11ccbb3475d1ffb3b8af4dc4d3529775f
 dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.6.1		2bb6f890d7e69f12b418b1a89d39a6c468918683
 dev.zio	zio-aws-serverlessapplicationrepository_3	7.31.6.2		f1f446ae66e2a74b0718410f35c49334b6fdcdd6
@@ -1189,6 +1190,7 @@ dev.zio	zio-json-interop-refined_2.12	0.7.4		e7fb49c5e4a392f641720c48971b50275a7
 dev.zio	zio-json-interop-refined_2.12	0.7.40		7965944cf9a8ce1cc8680c67c07daeb0c421ccc8
 dev.zio	zio-json-interop-refined_2.12	0.7.41		a385b191d2c24e061544bbb44de4532391070820
 dev.zio	zio-json-interop-refined_2.12	0.7.42		6935e9d8358c20cf8b494162796bc51610989f3c
+dev.zio	zio-json-interop-refined_2.12	0.7.43		f65c25747c9c193a364e5bf14fbd26c1503ea1ef
 dev.zio	zio-json-interop-refined_2.12	0.7.5		fd59392367297ac2dd77ef4e57d1e9e386516a06
 dev.zio	zio-json-interop-refined_2.12	0.7.6		9bf81720438b10af5cb3ce8e4986eb418c88b681
 dev.zio	zio-json-interop-refined_2.12	0.7.7		87282c087627c520094e4e4422b297aca7e2d87b
@@ -1802,6 +1804,7 @@ org.jetbrains.compose.ui	ui-test-desktop	1.7.0-beta02		44d053e8ff7513e28d9801e4f
 org.jetbrains.compose.ui	ui-test-desktop	1.7.0-rc01		44d053e8ff7513e28d9801e4f67fc011b28e7012
 org.jetbrains.compose.ui	ui-test-desktop	1.7.1		44d053e8ff7513e28d9801e4f67fc011b28e7012
 org.jetbrains.compose.ui	ui-test-desktop	1.7.3		44d053e8ff7513e28d9801e4f67fc011b28e7012
+org.jetbrains.compose.ui	ui-test-desktop	1.8.0		69365d407700a673ed096427df89d3afa6a77b25
 org.jetbrains.compose.ui	ui-test-desktop	1.8.0-alpha01		35d66b976f8da3f86d8130bd193f59936a2326c6
 org.jetbrains.compose.ui	ui-test-desktop	1.8.0-alpha02		4f011f7c368af14b888e1514005624e4c9e51480
 org.jetbrains.compose.ui	ui-test-desktop	1.8.0-alpha03		3df2126b2cb6ceb7a1cb716fc4d5193e45186322
@@ -2664,6 +2667,11 @@ org.jetbrains.kotlin	kotlin-noarg	2.1.20-RC3	gradle82	4e854f57c9123ace5db5d038c9
 org.jetbrains.kotlin	kotlin-noarg	2.1.20-RC3	gradle82-sources	b148aaebed348deb6c667686119383c29c70f05a
 org.jetbrains.kotlin	kotlin-noarg	2.1.20-RC3	gradle85	4e854f57c9123ace5db5d038c95d097151e5ac21
 org.jetbrains.kotlin	kotlin-noarg	2.1.20-RC3	gradle85-sources	b148aaebed348deb6c667686119383c29c70f05a
+org.jetbrains.kotlin	kotlin-noarg	2.1.21		f2be2a41acde65391d804e39378eeb456b2d9881
+org.jetbrains.kotlin	kotlin-noarg	2.1.21	gradle80	f2be2a41acde65391d804e39378eeb456b2d9881
+org.jetbrains.kotlin	kotlin-noarg	2.1.21	gradle81	f2be2a41acde65391d804e39378eeb456b2d9881
+org.jetbrains.kotlin	kotlin-noarg	2.1.21	gradle82	f2be2a41acde65391d804e39378eeb456b2d9881
+org.jetbrains.kotlin	kotlin-noarg	2.1.21	gradle85	f2be2a41acde65391d804e39378eeb456b2d9881
 org.jetbrains.kotlin	kotlin-noarg	2.1.21-RC		ce8578b137c71771a70aa839e87060fd4abe12ce
 org.jetbrains.kotlin	kotlin-noarg	2.1.21-RC	gradle80	ce8578b137c71771a70aa839e87060fd4abe12ce
 org.jetbrains.kotlin	kotlin-noarg	2.1.21-RC	gradle80-sources	b148aaebed348deb6c667686119383c29c70f05a
@@ -2714,6 +2722,15 @@ org.jetbrains.kotlin	kotlin-noarg	2.2.0-Beta2	gradle86	0f5344fb83a66370d7153ea82
 org.jetbrains.kotlin	kotlin-noarg	2.2.0-Beta2	gradle86-sources	b148aaebed348deb6c667686119383c29c70f05a
 org.jetbrains.kotlin	kotlin-noarg	2.2.0-Beta2	gradle88	0f5344fb83a66370d7153ea82168c376db76f9c9
 org.jetbrains.kotlin	kotlin-noarg	2.2.0-Beta2	gradle88-sources	b148aaebed348deb6c667686119383c29c70f05a
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC		964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle80	964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle81	964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle811	964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle813	964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle82	964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle85	964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle86	964c85291226fa49baa23e852e1a838958a49e63
+org.jetbrains.kotlin	kotlin-noarg	2.2.0-RC	gradle88	964c85291226fa49baa23e852e1a838958a49e63
 org.jfrog.maven.annomojo	maven-plugin-tools-anno	1.3.1		fdb079102aaf6ac3c1a542e7dfbae60532d1de3f
 org.jfrog.maven.annomojo	maven-plugin-tools-anno	1.4.1		92019d66c615b715816311bf2c5bc94eb39871f5
 org.kie.kogito.examples	jbpm-quarkus-example	0.1.0		0beb266ea14398455a394262e30e84bbcd713f16

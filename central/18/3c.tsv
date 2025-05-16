@@ -1290,6 +1290,7 @@ io.quarkus	quarkus-google-cloud-functions-http-deployment	3.15.2		75ee77b72b8005
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.15.3		36192e7c09097fdd2943bf456f8b6ac75254be20
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.15.3.1		4907f9ab94f6ac42a4970c0a83d9ba9b92d01a6c
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.15.4		0fe1f89e4083eed5db9530b6d757a03fd9d055dc
+io.quarkus	quarkus-google-cloud-functions-http-deployment	3.15.5		5c2c91a8b21c70f2b9aeca7866365518ae446d39
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.16.0		f5db64acaa088eca8c180eb277c75f6ed5a69216
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.16.0.CR1		9f167cf8a65bbba2de9d3eea719e544dc100788a
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.16.1		64bfd8ea950e4200d1de4ccd00cd9df5fca4788a
@@ -1334,6 +1335,7 @@ io.quarkus	quarkus-google-cloud-functions-http-deployment	3.2.8.Final		42fe86d54
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.2.9.Final		00264d49ebac6c0b0e9f04eaeeed97ae2857d5a2
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.20.0		ce86d8ceacb31d239ff3afe3091a59e5563b992e
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.20.0.CR1		88efac513e5cd95f0cfb16add3c592b97c14db4d
+io.quarkus	quarkus-google-cloud-functions-http-deployment	3.20.1		197cbc7df5fe34b6659fb74eeb7b5fe1e77284e0
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.21.0		5e020d098dd5d532c18d96fbcd5f45ed62efd189
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.21.0.CR1		432938fe23fff51043efcc4ed9f9acdcfd7ba738
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.21.1		944e56d392ae9de21f9bc5e6cea9284aa3f3bc48
@@ -1343,6 +1345,9 @@ io.quarkus	quarkus-google-cloud-functions-http-deployment	3.21.4		b7e936bc54c9c3
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.22.0		5adbe02b1763f47e51b1799cabf5f470eb077420
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.22.0.CR1		b2ce23b9590cc3d8ada971790af6fbb68d658b72
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.22.1		05972b6d1c128df2f500b24a0154102b42bd4e91
+io.quarkus	quarkus-google-cloud-functions-http-deployment	3.22.2		0db4ce1dc9a4407517d84ef44de88a5f404c8ee2
+io.quarkus	quarkus-google-cloud-functions-http-deployment	3.22.3		5911c474349547fcda6c30697e92fff30e922376
+io.quarkus	quarkus-google-cloud-functions-http-deployment	3.23.0.CR1		a5421e7ca40bdecc186dca53e427a760a8e040d6
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.3.0		d9ee715cbe75eddc98b4913594bfe30b7f654a52
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.3.0.CR1		d38d36366ffff79b188e9b91225fbd8c60f68f7a
 io.quarkus	quarkus-google-cloud-functions-http-deployment	3.3.1		c1aa198bb8ddc12e1485e210ea2a41846a992425
@@ -1630,6 +1635,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-server-watchosarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-server-watchosarm64	0.6.1	metadata	fe6f1517abceade09ec4367beb656150fbdf49f1
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-server-watchosarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-server-watchosarm64	0.6.2	metadata	dd4270bf2e44fc7db2924a76bfcd728d48478b71
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-server-watchosarm64	0.7.0	metadata	19576ed3ce919accf0c66ecd281f4abde85e0333
 org.jgrapes	org.jgrapes.portal.providers.chartjs	0.10.0		ffa558d4bbd2cc4a077d440cc92cba18c47bc0d5
 org.jgrapes	org.jgrapes.portal.providers.chartjs	0.10.1		4ce7ddb1e5258f672c62dedaac237afe287521f0
 org.jgrapes	org.jgrapes.portal.providers.chartjs	0.11.0		93a03a0b935443c5ce05a25245ad0f86a53ddd07
@@ -2828,7 +2834,18 @@ software.amazon.awssdk	lexmodelsv2	2.31.30		05f127d2a0b1c9bace397fbcef79a5cafbd7
 software.amazon.awssdk	lexmodelsv2	2.31.31		b96a09e77bbb5006efdb2070e4c3d51f55393649
 software.amazon.awssdk	lexmodelsv2	2.31.32		8a442073bb089b811ab6e3a4417a4cff1733eedf
 software.amazon.awssdk	lexmodelsv2	2.31.33		a2ac1f5f09f4ab876e9b077ae6311a819da149c8
+software.amazon.awssdk	lexmodelsv2	2.31.34		874bf7c0737307b7ec6c64d134b860798ce5f1b5
+software.amazon.awssdk	lexmodelsv2	2.31.35		fba8b63df715bdfb0172733c2b4c49b985bfad0f
+software.amazon.awssdk	lexmodelsv2	2.31.36		06b39f638e8ff970ea98e51f127aca577c316194
+software.amazon.awssdk	lexmodelsv2	2.31.37		74576ee713515355169cea9dff4c7f7ebe2979f1
+software.amazon.awssdk	lexmodelsv2	2.31.38		b44613b5de27aaa09543bded66573852bab4a66a
+software.amazon.awssdk	lexmodelsv2	2.31.39		0e3a93a803312a48092648813c7b89d4ccfa97fe
 software.amazon.awssdk	lexmodelsv2	2.31.4		a32f7bc07cb0d524762876ae8aff1db4fd92681b
+software.amazon.awssdk	lexmodelsv2	2.31.40		e41c4bc58016973f566a030d849914ca6b2948c7
+software.amazon.awssdk	lexmodelsv2	2.31.41		5cf828fe1f5b7cb618a2b2d6520dcf11731524d7
+software.amazon.awssdk	lexmodelsv2	2.31.42		665f36f7d6638997a2ff2a086be32c1fdfc38637
+software.amazon.awssdk	lexmodelsv2	2.31.43		023bd39371d434f62ad6f84d65d9d4480f0fabb1
+software.amazon.awssdk	lexmodelsv2	2.31.44		8fd91f648e4f763c6242a2b9e791634c021e6eb2
 software.amazon.awssdk	lexmodelsv2	2.31.5		71efddb0b86c627d09a1ecf2d2ec9592032b604a
 software.amazon.awssdk	lexmodelsv2	2.31.6		4429d101338ea75cc6d7713c6d6b33c1c417462c
 software.amazon.awssdk	lexmodelsv2	2.31.7		146a33ab574a97c04e01628756973f4e49efecbf

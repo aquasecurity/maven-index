@@ -148,6 +148,8 @@ com.google.genai	google-genai	0.4.0		544d2fd1e4b0707e41e3543062dcc0c0e281963f
 com.google.genai	google-genai	0.5.0		2409b51fead2d1f8cbce83a4787ff8adca9e445b
 com.google.genai	google-genai	0.6.0		4c9d18c5dcb189e41a1c0e74ef14c65d5fbdebfa
 com.google.genai	google-genai	0.6.1		5ac856e6904c3a31ef797b1b6b1d9f562cef7288
+com.google.genai	google-genai	0.7.0		a9108eb47cb3f5500ac1569d9f20218adf3c440b
+com.google.genai	google-genai	0.8.0		b73d872f47a3def4da116509d26303d2a282c2fd
 com.gu	content-atom-model_2.12	2.4.22		6cdf05b9cf276fae5e96761d05d4af51ccc9d645
 com.gu	content-atom-model_2.12	2.4.23		c36576acde8f05fe60100460acaac847324daaf2
 com.gu	content-atom-model_2.12	2.4.24		41fe77f57142d0d91eb35038074784276e31358c
@@ -292,6 +294,8 @@ com.palantir.tracing	tracing-jersey-jakarta	6.19.0		76583b6eac376b29d411c8fa56d0
 com.palantir.tracing	tracing-jersey-jakarta	6.20.0		8d64efcdfd2652202feb4d765adab054b0fe65bc
 com.palantir.tracing	tracing-jersey-jakarta	6.21.0		5f2339768f0c2b69e8e2c0de569e9ef43ebf4fdc
 com.palantir.tracing	tracing-jersey-jakarta	6.22.0		51a04a2dce36f5bd115ff5726a33d4c3b1dfde80
+com.palantir.tracing	tracing-jersey-jakarta	6.23.0		9ad7247bf654839f6888c3ce7ff1457b9070bbf6
+com.palantir.tracing	tracing-jersey-jakarta	6.24.0		a6e2738234bf1c7a6601197d27463de93f129c78
 com.sksamuel.pulsar4s	pulsar4s-json4s_2.12	2.1.0		c6dd9880582eb5fe21589b7082945e7e28528893
 com.sksamuel.pulsar4s	pulsar4s-json4s_2.12	2.1.1		5e9c378bfdd62c3b5b290fbdd527bbf7003aa69d
 com.sksamuel.pulsar4s	pulsar4s-json4s_2.12	2.1.2		0f615e0c82347bb142e516bd0b7ece4a87e8ab7b
@@ -388,6 +392,7 @@ com.tsurugidb.tsubakuro	tsubakuro	1.7.0		N/A
 com.tsurugidb.tsubakuro	tsubakuro	1.7.0	all	4f6071095510f284e7e0d5d0b4799b5c66b278f0
 com.tsurugidb.tsubakuro	tsubakuro	1.8.0		N/A
 com.tsurugidb.tsubakuro	tsubakuro	1.8.0	all	78b625c3f8f7fe36d7ae73ba89e2508a07748a15
+com.tsurugidb.tsubakuro	tsubakuro	1.9.0	all	a071fd5656638839bbe711edd2bacd30e5f9ff89
 com.umeng.umsdk	abtest	1.0.0		N/A
 com.umeng.umsdk	abtest	1.0.1		N/A
 com.umeng.umsdk	abtest	v1.0.0		N/A
@@ -1322,7 +1327,14 @@ com.yahoo.vespa	fileacquirer	8.511.14		548e7bdd96045b03b9800276b489f45d617a7c3f
 com.yahoo.vespa	fileacquirer	8.512.63		ed93ccbdd2dde9db6954b08e1806f8e5508dad49
 com.yahoo.vespa	fileacquirer	8.513.17		661dd4c88bf2ea5bdc5dd72970fcb2d4669dc7c1
 com.yahoo.vespa	fileacquirer	8.514.24		14a6cefb2928a988757fad0656f38637ec246320
+com.yahoo.vespa	fileacquirer	8.515.40		db7c5369173f11069d44cc35b498fd890cab16a5
+com.yahoo.vespa	fileacquirer	8.516.26		de46324bc511e941809674f10bab0e213df43c8f
+com.yahoo.vespa	fileacquirer	8.517.15		2c80149e8900b488e86209453fa81b7624e7cfda
+com.yahoo.vespa	fileacquirer	8.518.4		6619add186ac727957973f4bd32792e86ca50465
+com.yahoo.vespa	fileacquirer	8.519.55		1394f5a780daba990043f3986c7146aab04d3e48
 com.yahoo.vespa	fileacquirer	8.52.15		359fc6fc3eeaf5e06909b23e02f6d553e3883df6
+com.yahoo.vespa	fileacquirer	8.520.18		65e1c499d63e25c8f2041297bb7073981b0c4f10
+com.yahoo.vespa	fileacquirer	8.521.17		08883f9a02dd9bafbd679514a63b0a352a985137
 com.yahoo.vespa	fileacquirer	8.53.21		2920444e323b2d4fcd53ad9272e24b7c23a62488
 com.yahoo.vespa	fileacquirer	8.54.61		2bb1d598116958c8854353b6a52ca1c55753c76f
 com.yahoo.vespa	fileacquirer	8.56.20		ac11f52391489b1ab0fe3fab4d7b5e2008aadfb9
@@ -1675,6 +1687,7 @@ io.deephaven	deephaven-extensions-json-jackson	0.37.5		e4688428645b79969f3ab3e17
 io.deephaven	deephaven-extensions-json-jackson	0.37.6		e4dde71b273c9f0428f30b9673b9586fad14b575
 io.deephaven	deephaven-extensions-json-jackson	0.38.0		6c463f2b56230be5556b30fba79d79e49811f64b
 io.deephaven	deephaven-extensions-json-jackson	0.39.0		e3f3d77d0531ad0391eaa5ce42a1b553cf5f1b54
+io.deephaven	deephaven-extensions-json-jackson	0.39.1		d99700f99dc0cac702607fb1f75176e6b13c56e6
 io.epiphanous	flinkrunner_2.12	3.0.0		82cce8d263389a3ea12c37770a0bb02790edee49
 io.epiphanous	flinkrunner_2.12	3.0.1		ac82ea72984fdb1a83a7b770c51daf6ab522435d
 io.epiphanous	flinkrunner_2.12	3.0.2		16195508f78acc64c78010ee86d35b5d4f34af24
@@ -2150,6 +2163,7 @@ io.quarkus	quarkus-swagger-ui-deployment	3.15.2		187efa711014cb2d7fc3752ca6e5068
 io.quarkus	quarkus-swagger-ui-deployment	3.15.3		b1c46f1a912ebdb15cfc991627e692226b1291c7
 io.quarkus	quarkus-swagger-ui-deployment	3.15.3.1		6d99bd39194ad3998ab9340dce316d2d62d97758
 io.quarkus	quarkus-swagger-ui-deployment	3.15.4		ca9b798ba292cbdbf61b6c53bda79e952b09d893
+io.quarkus	quarkus-swagger-ui-deployment	3.15.5		2b2506f0327a9b71bca4a89ed951a9e77993c525
 io.quarkus	quarkus-swagger-ui-deployment	3.16.0		224dddd4be6051bc0da8f917af08a90501d2b273
 io.quarkus	quarkus-swagger-ui-deployment	3.16.0.CR1		22b15284c46f105bb939ac7da56fb98b70b01e91
 io.quarkus	quarkus-swagger-ui-deployment	3.16.1		f42765a203d16ccc45f84180811ffe02143b9429
@@ -2194,6 +2208,7 @@ io.quarkus	quarkus-swagger-ui-deployment	3.2.8.Final		50185c3f8dca8e7f5340ca41bf
 io.quarkus	quarkus-swagger-ui-deployment	3.2.9.Final		48609016f7928359fae77e66b8c93e546374109f
 io.quarkus	quarkus-swagger-ui-deployment	3.20.0		0269b43eabf50d39bb4cfb79922dd9444ba9359d
 io.quarkus	quarkus-swagger-ui-deployment	3.20.0.CR1		81d9e078583f74949dab320d35cc149777879e6b
+io.quarkus	quarkus-swagger-ui-deployment	3.20.1		2d29b105b244af7f3c6c03efd2b1a96d6f55c743
 io.quarkus	quarkus-swagger-ui-deployment	3.21.0		d726a2770acd44143a468292211be7cda131b3c4
 io.quarkus	quarkus-swagger-ui-deployment	3.21.0.CR1		9bc3a0701f31ebdba566bbd953fe3cc5aaafe905
 io.quarkus	quarkus-swagger-ui-deployment	3.21.1		7eaadb3cd5b84336ad9572c2358c9b6f16e31347
@@ -2203,6 +2218,9 @@ io.quarkus	quarkus-swagger-ui-deployment	3.21.4		6fe11d7b3f5bb9279c3a69ac86b12a0
 io.quarkus	quarkus-swagger-ui-deployment	3.22.0		1b6bcc690b23fcf9ac6bb65a512f1803311c0070
 io.quarkus	quarkus-swagger-ui-deployment	3.22.0.CR1		e468fb483df91929b988aa17f0c3ac14de922005
 io.quarkus	quarkus-swagger-ui-deployment	3.22.1		b2289eb2e8bfe1477a46a0f0fb02677629c9fb18
+io.quarkus	quarkus-swagger-ui-deployment	3.22.2		993fa1afa12f9633e7cd310bf43cdd9ce58df865
+io.quarkus	quarkus-swagger-ui-deployment	3.22.3		69e32612ed7e7917999fec4fb0a95f8ea566ad1b
+io.quarkus	quarkus-swagger-ui-deployment	3.23.0.CR1		7ceca6cc659690cf9736772200c6d5f0614341b9
 io.quarkus	quarkus-swagger-ui-deployment	3.3.0		83017a11958a42c05b4de47a64a592082c84c6fd
 io.quarkus	quarkus-swagger-ui-deployment	3.3.0.CR1		5edd66282725ebee84752eccda35b41ae4d300db
 io.quarkus	quarkus-swagger-ui-deployment	3.3.1		6c1d6f069f480778cf331981959e88f91a3570f3

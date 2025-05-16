@@ -579,6 +579,7 @@ com.netflix.spectator	spectator-reg-micrometer	1.8.1		b43078731e91410f926eba01f4
 com.netflix.spectator	spectator-reg-micrometer	1.8.10		a5f05e159b0bc1f30522d0916ce15d331e19bb66
 com.netflix.spectator	spectator-reg-micrometer	1.8.11		79da524bd646cac5468aba0d79a861608fdd3e7d
 com.netflix.spectator	spectator-reg-micrometer	1.8.12		b63a10eb263888d562156030e808a2ad2cd9d408
+com.netflix.spectator	spectator-reg-micrometer	1.8.13		4749809d7953ac75cbb0f69b2e81acf42fec6c90
 com.netflix.spectator	spectator-reg-micrometer	1.8.2		b76cfebdb151353113b32064d3f4118adaea7250
 com.netflix.spectator	spectator-reg-micrometer	1.8.3		d1dc6cd320dc9e2e88124608dd090e3cce8b03ac
 com.netflix.spectator	spectator-reg-micrometer	1.8.4		28141c92c799cb48221e5e7933ecc665eebef917
@@ -1532,7 +1533,14 @@ com.yahoo.vespa	application	8.511.14		24c48652f5b219a836bc451e2be19335afcc19e8
 com.yahoo.vespa	application	8.512.63		998339039a8ca2715f974b0889739b653c339ecf
 com.yahoo.vespa	application	8.513.17		aad72ae068332eaa22b41750312e7eeef9a627c1
 com.yahoo.vespa	application	8.514.24		f3d03b008adfd60ab18c93d8759ce6bfd6a9f121
+com.yahoo.vespa	application	8.515.40		13a50e3d45fd3e6e87ef6242d84d38af3effedcd
+com.yahoo.vespa	application	8.516.26		1fb7e51bc0854650f977885ebd288a8fc1cce079
+com.yahoo.vespa	application	8.517.15		02847ae673ab52f74eff4071d8c2ddc216887e4d
+com.yahoo.vespa	application	8.518.4		befafc455031ec4f617ae240f7daf537f204d69a
+com.yahoo.vespa	application	8.519.55		0b352b72f8daf929ef6d834c6102788496a4c90d
 com.yahoo.vespa	application	8.52.15		07a2b23122082a9f1d82ba652d4a8956603b77b4
+com.yahoo.vespa	application	8.520.18		c437512f520cce82cc9ff26ae52123d0741a8bcf
+com.yahoo.vespa	application	8.521.17		186751ab6a8d3c16ee727b79427267a36d379777
 com.yahoo.vespa	application	8.53.21		a0c9f5eb88681f8942365a5471b339d5e725353f
 com.yahoo.vespa	application	8.54.61		acaa17545e391ed9e2f905f010ffd25d96e8545f
 com.yahoo.vespa	application	8.56.20		3cbaa75a694495171a041a1a37ebe3e469deb5c8
@@ -1798,6 +1806,7 @@ io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.24		a0a
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.25		c2f3609a74c62ee76db27c432264870246847dc2
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.26		3f92e883d8e488cd26f7a9123dbffa4bbfb4286b
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.27		f2ee7d085ff5703cb0ab158c09a458bd0b84b2b3
+io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.28		34ea9af865c5b77a6b6612bccb19713ec496d583
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.3		6d3729d3ad2612dd2d468f02d7a1138302c30211
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.4		b7a6eeb635f97e8c99fef8a0d3024f9564d71b3e
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.4.5		1f90c613e93d135b501022b161cb31e9f237279e
@@ -1815,6 +1824,7 @@ io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.13		b9c
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.14		af372f6aa08f76f4608ab07a769e16a221c1f8b5
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.15		e29cc4a13e99f39ca426b9b07b8b4beed59c2d26
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.16		ffa3a4a06499c866f56b3c9eb47fe87faa2739ef
+io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.17		c692ac075d4dbdbbfe808e1d2fab7645109b1d28
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.2		19515ffc9d2a135527f73d1f3c1ec752ef6f1048
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.3		cc33975d40b04e1d1539fc3c60e09c32d306ecf2
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.5.4		d6fe0c844909a57dfca6c72f619467c4a1b4e9b0
@@ -1827,6 +1837,7 @@ io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.0		2c00
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.0-alpha.3		27bc98c449bb04eb54a4d844ff2c82b6fcc95930
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.1		83879cc6519c68ea206294d3292a7ab1f2a273da
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.10		e9be9285760c56b4bab2c36f26e8b90ffb8f9feb
+io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.11		cbba6be646faadd51d68e973ca8146e53ca0fc71
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.2		36c0e68e1cf42803bcbb591eabf5d2dece9c9ca7
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.3		31d61cae3ea097e8559055c95378399caa07fbbb
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.6.4		99e9c059797ad9704def2cbaa8781d06050b19eb
@@ -1843,6 +1854,7 @@ io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.7.1		5c3f
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.7.2		0fed185c246f5e9a153272b6888062b9fb900aba
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.7.3		4588c19b02dd69dc6b1d4ffb6b6889bf1c587835
 io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.7.4		96ea4fdf294a5671104acbe7032759d9b2ee59f2
+io.gravitee.apim.plugin.reactor	gravitee-apim-plugin-reactor-handler	4.7.5		67a5795c42a8777423445f2424128d3f8bc4ab4b
 io.keeppro	krop-android	1.0.1		N/A
 io.keeppro	krop-android	1.0.2		N/A
 io.ktor	ktor-client-json-ios_debug_ios_x64	1.0.0		N/A
@@ -1947,6 +1959,7 @@ org.codehaus.woodstox	wstx-asl	3.0.2		a773c5152d95c0bfcb288186cefa39748d5fae73
 org.codehaus.woodstox	wstx-asl	3.0.3		5bfa31d0e239b54f7ab75bd2d2bfafc714b5fb56
 org.codehaus.woodstox	wstx-asl	3.0.4		7dda119346dc9cd2290cd3700b18d4f4545b05fb
 org.codehaus.woodstox	wstx-asl	3.1.0		34ecd4e5c8baad903fd1340ddade8b04f750f705
+org.codehaus.woodstox	wstx-asl	3.1.1		1a8ef09494c56219cb2f36ad413aa995ef27a7c2
 org.codehaus.woodstox	wstx-asl	3.1.2		19e216965062d38413c82e1cf1073b45904146a5
 org.codehaus.woodstox	wstx-asl	3.2.0		d3f0a8b8ff078de173f7294fd79d306a6dd9a999
 org.codehaus.woodstox	wstx-asl	3.2.1		bf92f1c71612d4aed212f9bc39c69716978aef5a
@@ -2389,12 +2402,14 @@ org.mycore	mycore-classeditor	2020.05		b2d84349aeb18b41fcd8ebe899fcbfb31de1f9e9
 org.mycore	mycore-classeditor	2020.06.0		2f146a09e0cc23f257535e33b37a35a1bb2e1f32
 org.mycore	mycore-classeditor	2020.06.1		c80560b73756070a11b5c6d85e5294defe06f3f8
 org.mycore	mycore-classeditor	2020.06.2		b1631db71dab212b5757781470d876d18d911206
+org.mycore	mycore-classeditor	2020.06.3		13312ea8e1955ac6c0481c704e65869a3961201a
 org.mycore	mycore-classeditor	2020.08		868c13ec25345cdf580f6ce69df959c9a8e804c6
 org.mycore	mycore-classeditor	2020.11		0fc4be7c764b13615a38184d46412062e0524f4e
 org.mycore	mycore-classeditor	2021.02		a62a4b616071c36b2f0d16645da3fb739a972def
 org.mycore	mycore-classeditor	2021.05		d03c76ae0a109311f81782ce1f77f6db8fe86aab
 org.mycore	mycore-classeditor	2021.06.0		60d0f67a9a6b6ba732e00f6744b8ca5d7089bd66
 org.mycore	mycore-classeditor	2021.06.1		0206d1e847fa8239f5a9e76fa3d06b373ddd353d
+org.mycore	mycore-classeditor	2021.06.2		1f80b38bdec398fa8f4da5d744243e5aaf105933
 org.mycore	mycore-classeditor	2021.08		cb105da7d9b4a233372cc18eba4e9c279698ab2d
 org.mycore	mycore-classeditor	2021.11		f9b9a67ae608267b6af5e936c1045f44a79fb102
 org.mycore	mycore-classeditor	2022.02		eca1bf382642d8e7d33b491faa55bcaaef1e9423
@@ -2402,6 +2417,7 @@ org.mycore	mycore-classeditor	2022.05		af72756f99c253e564f8e8bdc5c09a776a160806
 org.mycore	mycore-classeditor	2022.06.0		8af120adf74c948ed9a515e2fadce708ff7b2b7f
 org.mycore	mycore-classeditor	2022.06.1		6c8e68e787559448de2c2486368226989f40438e
 org.mycore	mycore-classeditor	2022.06.2		3e777a701c903603e4a5c8d6480389d72252ee80
+org.mycore	mycore-classeditor	2022.06.3		59bd68d59c5ce976e03d6bb9abe77f4a32648e8c
 org.mycore	mycore-classeditor	2022.08		6994fa2fb267648a8b3eb961ca262ff5b9fd7ec3
 org.mycore	mycore-classeditor	2023.05		dd845545f361812034491085e87d0764297b43ef
 org.mycore	mycore-classeditor	2023.06.0		a3d1bb7eb453fd5419aa12740a94dc8af467f043

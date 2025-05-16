@@ -48,6 +48,7 @@ cn.itlym	shoulder-operation-log	1.0.0-M3.2		d9edf37b9d320026e4035e0fdc441bfa59a9
 cn.itlym	shoulder-operation-log	1.0.0-M3.3		58a8ad97d57ac06fcf42f45894c301cfd82c2190
 cn.itlym	shoulder-operation-log	1.0.0-M4		bed24da124cbdb230afff2be26501adb7991be2e
 cn.itlym	shoulder-operation-log	1.0.0-M4.1		eb7fad34f95fdf7063381dbcdec3acc19b8cf232
+cn.itlym	shoulder-operation-log	1.1.0		e5c4ae3e11ab5f593327a2c26e3917c5711a9a86
 cn.tyrg	base-common-transaction	1.0.0		2578e0159b0eacc8cc0f66bd7bb3b32571a7c638
 cn.tyrg	base-common-transaction	2.7.2		e528eb9ac0049301b911425544c0e950c0374690
 com.arkivanov.mvikotlin	rx-internal-iosx64	2.0.2		N/A
@@ -947,6 +948,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.24		ef13625d3dfab453b4
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.25		432689c238fa855e0daf92171a432687b3ddd985
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.26		2e1d492fe41ccf2c58c40399854e00c52f6e4c75
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.27		3abc56801458284bfdec84eb2209543bd15b1533
+io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.28		a100deb61fc6ca7fd2cea0c1f6c3723fcd21c81a
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.3		61ce9acccff64a031a336bd7fc9db4b5524c3c3a
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.4		a30da5a4af03134837735b31ae238efb7262d581
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.4.5		b3f582f74c277af28b38cf18924d65ea83e2f38c
@@ -964,6 +966,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.13		67f4badc13ae7ade18
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.14		8ea7abd8e90d9c084d2cad76e50ff3575bb2f5e8
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.15		ee39bde45f0c017e15679496f9bf097898cecaf0
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.16		6e6ab545f1fd5b3c5633c8065648fd329df6d8a8
+io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.17		661927f9b3294a7a2c90313b3f2f9ac1cc07617c
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.2		c24a302ecb669c628c26a5ab05d31a6678911ea3
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.3		7904514d39cf8fdc020b46b0db1c048522faf3b8
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.5.4		36292c5ad33ea0d2de14b8c1642c56974df19f36
@@ -976,6 +979,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.0		4615892ba1d1af38212
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.0-alpha.3		4059bc5ee8c0c800be132b3de5d3fb92f193c1c9
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.1		a5ea3302e5eb9d34efdf89831c13770c077340b5
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.10		006f35f3d9925f105a34579dab4d2ab7d4376825
+io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.11		4b19f8a95a6a2b13fc1a0dd3915e351ab3be94a9
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.2		ec4bff2596a69048acf8b2156cb3f8b2b98b0326
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.3		d8ef21c7dce2d68f0cc49df825e8c0d0b28b38ca
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.6.4		6be0bd9b317d4408d1ed0d2018c3e543b2b9b9d5
@@ -992,6 +996,7 @@ io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.7.1		a13e6bf24d5de44c8dc
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.7.2		f38b65b1a1e34954471c18da76d6a71322bea1e9
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.7.3		284083ac51425b1b922011a1504924228b59d1eb
 io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.7.4		6974e7b96c7d6dbdc74d959ce1af1f39c98aa5ee
+io.gravitee.apim.gateway	gravitee-apim-gateway-policy	4.7.5		fdec9d2d29c675bcdca4b2a6a9570caab64e3726
 io.mraa.upm	upm_lis3dh	1.5.0		ac4b720cc466dc580efd8018f08d9a34fa31b445
 io.mraa.upm	upm_lis3dh	1.6.0		3ff940b1ac6f98b16e0e6aca40a7cd4e3569e8fc
 io.opentracing.contrib	opentracing-spring-cloud	0.0.1		f25e125a3f476a14c4aaa498d543b80a72afa28b
@@ -1135,6 +1140,7 @@ me.proton.core	test-kotlin	30.4.4		caacdaf71c325f06eddf7c868b4f086c43065d5d
 me.proton.core	test-kotlin	31.0.0		fa6069de6dcb251091dafc4aea318252535be13e
 me.proton.core	test-kotlin	32.0.0		49876d13476d810b33e0846de773eaae41a25e9b
 me.proton.core	test-kotlin	32.0.1		9d7a599b1afe2842bad19f35ef43f6aa0afcd0b6
+me.proton.core	test-kotlin	32.0.2		56ab899e5184d8eedb0961941cb690a084ec74cb
 me.proton.core	test-kotlin	4.0.0		c6173cd622a47d26413331c4beeba7e8c5cdd9ce
 me.proton.core	test-kotlin	4.1.0		913e5a2b54666cc135fa165264048ccce61c884c
 me.proton.core	test-kotlin	5.0.0		5320522860added25909ec72ec4a286592d8315c
@@ -1467,6 +1473,7 @@ org.apache.tuscany.sca	tuscany-binding-ws-runtime-jaxws	2.0-M5.1		9b829e374bc187
 org.apache.tuscany.sca	tuscany-binding-ws-runtime-jaxws	2.0.1		64727c21e8bafd3ee5e48f14e580e213cd5ea0cc
 org.business4s	decisions4s-cats-effect_3	0.0.1		370ceb83804cd08f5e8bff37aa562cbd6ea4fe85
 org.business4s	decisions4s-cats-effect_3	0.0.2		bbee6365912e7fe6035f89c62106da327dd8afb0
+org.business4s	decisions4s-cats-effect_3	0.1.0		29ceec57bb87e3a5e7838d6b948f5f82c08f6990
 org.codehaus.plexus.redback.old	redback-jee-web-integration	1.0-alpha-2		de79c4050c8811e192d8a2022a8b2e20e0cec099
 org.codehaus.plexus.redback.old	redback-jee-web-integration	1.0-alpha-3		b624aa5e36c63b1289bf9b270e2752a6ac8e3200
 org.codehaus.plexus.redback.old	redback-jee-web-integration	1.0-alpha-4		29f89c1c7a231c79b3852f9ec8969e60bc4adf8d
@@ -1892,6 +1899,7 @@ org.scalameta	scalafmt-sysops_native0.5_2.12	3.9.2		d8543a0a8b3c6480ed478a539f4e
 org.scalameta	scalafmt-sysops_native0.5_2.12	3.9.3		8d1657791a769711f5d0a12dc7b528c90822cb43
 org.scalameta	scalafmt-sysops_native0.5_2.12	3.9.4		495c8caf4330361448976d7e929cf0e6c3d4fea8
 org.scalameta	scalafmt-sysops_native0.5_2.12	3.9.5		c813f0aa9f0fe74df1a36156e315f90a32f194ef
+org.scalameta	scalafmt-sysops_native0.5_2.12	3.9.6		1dc8d92521a3bc3a7502843aa7637fb09423ce8b
 org.scalatest	scalatest-funspec_sjs1_2.12	3.2.0		b639de195677323f44872ca20e69571001bb64b3
 org.scalatest	scalatest-funspec_sjs1_2.12	3.2.0-M3		f1202c62880b406e519c990107ebfd4afbe828d0
 org.scalatest	scalatest-funspec_sjs1_2.12	3.2.0-M4		51c502d52b332a5815cbaf265c756c251ea63988

@@ -131,6 +131,7 @@ com.oracle.database.xml	xmlparserv2_sans_jaxp_services	19.23.0.0		b9f0c5fd478480
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	19.24.0.0		8548a2bb94d423a45bb47c4c685e18c6820cb59e
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	19.25.0.0		ae2bc8e6976eaa0edce2a15ff65b3d6a43286c0e
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	19.26.0.0		58bcb60b44f0248bc707d0c09364253155445e89
+com.oracle.database.xml	xmlparserv2_sans_jaxp_services	19.27.0.0		02ee5bbc83574e8bb0188f7f3ea69691353b2bec
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	21.10.0.0		51c8c58fa6dd008961b33bbc352aca9243d61f1e
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	21.11.0.0		8c87d27f12df29d2ce8607ae09238b7e4ead12d1
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	21.12.0.0		a8cdcb2cbacbd2be7110fb4a2716cb734528ed0d
@@ -153,6 +154,7 @@ com.oracle.database.xml	xmlparserv2_sans_jaxp_services	23.4.0.24.05		6b69262c9fa
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	23.5.0.24.07		6586c8bf440362ba4d2323cf69f16b07c26f020f
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	23.6.0.24.10		febadda1fab5bee24f97c076a54bef8c449f1a94
 com.oracle.database.xml	xmlparserv2_sans_jaxp_services	23.7.0.25.01		8dd81737df7e7911bcb4c259336190cf273a3424
+com.oracle.database.xml	xmlparserv2_sans_jaxp_services	23.8.0.25.04		aa1003964af8616228c5a33b090dd37420287d71
 com.qoomon	google-url-signature	1.0.0		19adaa8d91b93bdd6bdd05e5c355c8f1e1b7eba5
 com.rfksystems	meson	1.0.0		e2055982cbbf5dfc90a97fc9ab9e0ed75402dd7b
 com.rfksystems	meson	1.0.1		53a54bb9d010958c2478800c0f9fe4c07ddf4a40
@@ -272,6 +274,7 @@ io.deephaven	deephaven-table-api	0.37.5		69093f47ef2d4625abc672b36e8ed67bcf1e84f
 io.deephaven	deephaven-table-api	0.37.6		59d6b62792ecde60144dd2f0da678a84ece66a5c
 io.deephaven	deephaven-table-api	0.38.0		e0e274e713c90bbb3870d0c7fe40fbc165eebfd1
 io.deephaven	deephaven-table-api	0.39.0		6526c3a995b07913d243da9640f55c830fab2939
+io.deephaven	deephaven-table-api	0.39.1		8b6b0e53e35e9044f64bdd58505dc6ade18a7eb0
 io.deephaven	deephaven-table-api	0.4.0		d9bcc7543b64ad49c25f08b95efad8640c469306
 io.deephaven	deephaven-table-api	0.4.1		23697781c6a10d19a16d5e2371ea9930372ff509
 io.deephaven	deephaven-table-api	0.5.0		6e3d03526f82ba758921065c5c173a95f1c6d36b
@@ -506,6 +509,7 @@ org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.2.1		62bf1cdcfb7e
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.2.2		23fc5554f84279ea399323ff95d51771a4285535
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.2.3		388a2b189aa4e2864b7a0329ebbfb1753ff5c122
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.20.0		9b52a1443fa4e5b6ac788dab1b5e27dba6da1820
+org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.20.1		169712569c7d2450c7a8fd42d321044543dbaa97
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.22.0		95c951cecda94503222d77170505c0d84850fc6e
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.4.0		ebb8cfc1ef2397ae4fcf40c222f81df2467676e9
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager	3.5.0		56e5c482111cd67532c61c5e74641044ab7b440c
@@ -1342,3 +1346,7 @@ tz.co.asoft	kase-optional-macosx64	3.0.8		N/A
 tz.co.asoft	kase-optional-macosx64	3.0.8	metadata	ef7de08c45d599d792407fdbb4c854d0521a99ed
 tz.co.asoft	kase-optional-macosx64	3.0.9		N/A
 tz.co.asoft	kase-optional-macosx64	3.0.9	metadata	2391546b7b36f7c5d1e9d9c04036b0bbb9009cee
+tz.co.asoft	kase-optional-macosx64	3.1.0	metadata	d2e6430c7587d22ebf26e98d06ba947487be420f
+tz.co.asoft	kase-optional-macosx64	3.1.1	metadata	384bc8ec74c25f7c1d6016a76180bf571e2f4c4a
+tz.co.asoft	kase-optional-macosx64	3.1.11	metadata	7992e1b0b1637f9f1dd51eb47aab0b100755ba57
+tz.co.asoft	kase-optional-macosx64	3.1.12	metadata	e48c7f020568f0e5aad88efab8efbb8f260d08dd

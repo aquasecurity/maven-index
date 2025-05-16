@@ -97,7 +97,16 @@ aws.sdk.kotlin	backupsearch-jvm	1.4.73		a67fe7b53081c2995c085dc0feb1ef7fa2ef0058
 aws.sdk.kotlin	backupsearch-jvm	1.4.74		8a55c13b78d90ca9edd69d4c2025c36ef1e3b812
 aws.sdk.kotlin	backupsearch-jvm	1.4.75		bbb40a738bd5d1aa7634f0b58623211382eff3e5
 aws.sdk.kotlin	backupsearch-jvm	1.4.76		411f133c70ff4a5ab364650290a948c9736842b9
+aws.sdk.kotlin	backupsearch-jvm	1.4.77		f39e9c3c3099228b1532f36611e542396e4aee6a
+aws.sdk.kotlin	backupsearch-jvm	1.4.78		356945f1a199ff52c0f38fe69ee10f9cc20f3e7f
+aws.sdk.kotlin	backupsearch-jvm	1.4.79		8f4a698959f4b399977101f8dbae23fdf3624ee4
 aws.sdk.kotlin	backupsearch-jvm	1.4.8		0ae229a29ed9a60f9392291d2f6feb5f1ee09990
+aws.sdk.kotlin	backupsearch-jvm	1.4.80		2d425ddad3a155c9eeb5d7ddcbb5d27d375fdaee
+aws.sdk.kotlin	backupsearch-jvm	1.4.81		73ff123de76bf9cff02abda8d47093c1d5e299e4
+aws.sdk.kotlin	backupsearch-jvm	1.4.82		a9bb047656ba75843e4b59827da5b92d7a6db36c
+aws.sdk.kotlin	backupsearch-jvm	1.4.83		fd59035a51541013ccacb9ee89c067b4b9be4546
+aws.sdk.kotlin	backupsearch-jvm	1.4.84		3eedc74ed8e8b57b904fe41eadefa3128f0fc95f
+aws.sdk.kotlin	backupsearch-jvm	1.4.85		789ec83e413c56b0b9ee174895eeffa0afc4b357
 aws.sdk.kotlin	backupsearch-jvm	1.4.9		d4e881ad5f9f690d8ad28007526328ac2ea93b05
 ch.exense	rtm-plugin	3.6.1		bd67ed96950df134718c8c8d7737350df15bf7ab
 com.acooly	acooly-archetype-simple	5.2.0		c94843b4b8069ed06706b981774b1695726f6796
@@ -755,6 +764,7 @@ io.deephaven	deephaven-qst-type	0.37.5		9d9a9dd7e6d0a614987660dedb1492451acf8ce6
 io.deephaven	deephaven-qst-type	0.37.6		d38646158be4f417243b854039cbe3f9770e9ad1
 io.deephaven	deephaven-qst-type	0.38.0		8cc3083a75c7382027c8a2a5c89d84026e1decd1
 io.deephaven	deephaven-qst-type	0.39.0		b84ccad51f75919d7eaafd869eb7d7ad2a69897c
+io.deephaven	deephaven-qst-type	0.39.1		053cfd85e482d6dd5d5e8e2d1057574418f1fa8a
 io.github.damirdenis-tudor	ktor-service-registry	1.0.0		a4661b2c0130cc7ce3adf711dd259826be3f1399
 io.github.damirdenis-tudor	ktor-service-registry	1.0.0	all	4e63be12c901e3f8a9f1009b906323e6d6d4ec54
 io.github.damirdenis-tudor	ktor-service-registry	1.0.1		39ffe5ea1df221bb207594124f48083e90ab262b
@@ -792,6 +802,8 @@ io.github.the-best-is-best	io.github.the-best-is-best-iosx64	1.1.0		N/A
 io.github.the-best-is-best	io.github.the-best-is-best-iosx64	1.1.0	metadata	8509a1924fc4c6dc4170b87a336fa9dcd0255816
 io.github.vinceglb	filekit-dialogs-compose-jvm	0.10.0-beta01		144e5d026bdda1d1a46d6364f331009a00228703
 io.github.vinceglb	filekit-dialogs-compose-jvm	0.10.0-beta02		bb2ab9ffeec02ed9979704a92d9449a2ab747077
+io.github.vinceglb	filekit-dialogs-compose-jvm	0.10.0-beta03		a8f742b0cd53d4021eb0f168363204bcac2bec97
+io.github.vinceglb	filekit-dialogs-compose-jvm	0.10.0-beta04		652b92b5fa18166ab5edf028fca29f5ca7d025de
 io.github.zcys12173	KRouter	1.0.0-beta		N/A
 io.github.zcys12173	KRouter	1.0.0-pre		N/A
 io.inversion	inversion-lambda	0.10.1		1fc8eb2764f1846228fc26428ecb5c82cf28528a
@@ -1192,6 +1204,7 @@ org.foundationdb	yaml-tests	4.2.3.0		7cc5c8ee109e889b5deb1c9aaa4fac2fd0b406c3
 org.foundationdb	yaml-tests	4.2.4.0		a28a4641bc1025c38fdf22c455790f09e75ec974
 org.foundationdb	yaml-tests	4.2.5.0		341baddadacdbcb3e134140690afdbef1d5d3166
 org.foundationdb	yaml-tests	4.2.6.0		a0e12ce947f88895668330500ebceb5092d3e0d8
+org.foundationdb	yaml-tests	4.2.8.0		fc25c875b4297ea77d85950911e76d60da94aed4
 org.geomajas.plugin	geomajas-client-gwt-plugin-layer-geotools-documentation	1.15.1		d99f1f7d3f74d6385aa4e21251ed72c896db3663
 org.geomajas.plugin	geomajas-client-gwt-plugin-layer-geotools-documentation	1.15.2		30cf94ca82a6a937d1e380885b75106c81a69802
 org.geomajas.plugin	geomajas-client-gwt-plugin-layer-geotools-documentation	1.16.0		03db053f1fe60dd03c868a024dee6974b269904b
@@ -1519,6 +1532,8 @@ org.xwiki.rendering	xwiki-rendering-macro-html	16.10.3		cd996a2b8eb22e6d36bd7d13
 org.xwiki.rendering	xwiki-rendering-macro-html	16.10.4		b30779d8def357a689bdabd8f5db50ed638a32c1
 org.xwiki.rendering	xwiki-rendering-macro-html	16.10.5		78c13144e2b00e69a91e94a12523970747e4c7a7
 org.xwiki.rendering	xwiki-rendering-macro-html	16.10.6		b41bc9282796b5d0f9a5ce8a31b6702e51497244
+org.xwiki.rendering	xwiki-rendering-macro-html	16.10.7		d3095413f75bfa08a65459a85cf6ad142e9c1bc3
+org.xwiki.rendering	xwiki-rendering-macro-html	16.10.8		24aa221834c67df6c9d1a684a88aeb105dd2b804
 org.xwiki.rendering	xwiki-rendering-macro-html	16.2.0		873ff9db72dbe59848a279b87b502a8de126737e
 org.xwiki.rendering	xwiki-rendering-macro-html	16.2.0-rc-1		074e837ea889d975fca70c266855dd7691afe09d
 org.xwiki.rendering	xwiki-rendering-macro-html	16.3.0		c355f134405cebe13ca9834022ce43f5bacded75
@@ -1533,6 +1548,7 @@ org.xwiki.rendering	xwiki-rendering-macro-html	16.4.4		c2bc4361ccf08dbd86b5b27f2
 org.xwiki.rendering	xwiki-rendering-macro-html	16.4.5		8348f930f25e0652dfd3b4a4223092420e9bdb55
 org.xwiki.rendering	xwiki-rendering-macro-html	16.4.6		f58389a8a9dc01f433d388ef3948f53163370520
 org.xwiki.rendering	xwiki-rendering-macro-html	16.4.7		73c6280b1a957fc861df90815a9b99692b3ddd68
+org.xwiki.rendering	xwiki-rendering-macro-html	16.4.8		9f3ea25c0696fc7e6ffa58df5cc47d01d61c12bb
 org.xwiki.rendering	xwiki-rendering-macro-html	16.5.0		1e20df0a95765e7547bce917d42918c8abd3b82f
 org.xwiki.rendering	xwiki-rendering-macro-html	16.5.0-rc-1		0d8248335e8ef8750eb0af775c3d7399c0dbad67
 org.xwiki.rendering	xwiki-rendering-macro-html	16.6.0		a3516eebe4527aed6a6e8b7d3b83783e6537c1c3
@@ -1843,6 +1859,7 @@ ru.tinkoff.kora	database-symbol-processor	1.1.22		ae4e688b42ce506ee29ee2fb9fa7af
 ru.tinkoff.kora	database-symbol-processor	1.1.23		5268de2930605fb30a971cb69972ef2cf4adbbeb
 ru.tinkoff.kora	database-symbol-processor	1.1.24		3c95912af97416cbe8e94750b9ae66b6bbc75e74
 ru.tinkoff.kora	database-symbol-processor	1.1.25		05f43225baa6d78d40e14bd95d6ac98dc076365b
+ru.tinkoff.kora	database-symbol-processor	1.1.26		ef48b254eac6bcbca20d4edee41d6b49f92afe9c
 ru.tinkoff.kora	database-symbol-processor	1.1.3		5007072a85289726a60424a3aabb0a18a0eb7956
 ru.tinkoff.kora	database-symbol-processor	1.1.4		8759ba8e6fecbc0ad38715fba8283e5467b585d2
 ru.tinkoff.kora	database-symbol-processor	1.1.5		10b77bef9ecd7fa2c202ad233de68d1a2571c950

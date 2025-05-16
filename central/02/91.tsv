@@ -242,6 +242,7 @@ com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bun
 com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bundle	2.14.4		bb9107df2c3536c5fe4583f57b15d7fdc5f263ab
 com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bundle	2.15.0		6c8fe74c49a03bf693bcf17a4b5e898c59ad5eea
 com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bundle	2.15.1		22842536ba46dae80fbf56315eb744efaad6e4af
+com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bundle	2.15.2		fce8f537485ab53132a275e7d979268226befc89
 com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bundle	2.2.0		1b4e0af888ca00ad553974ccaf478bd78e1e8793
 com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bundle	2.2.1		05efe0a1b58f5987791154bae6260f92d679076a
 com.solace.connector.core.resource	pubsubplus-connector-asciidoctor-resource-bundle	2.2.2		fe77f4d9fd38ac4de62e41ecc036acb21f653238
@@ -622,6 +623,7 @@ dev.zio	zio-aws-emrcontainers_3	7.31.27.1		4fe6a8009b88aa467fdb5174867ac8b5752ac
 dev.zio	zio-aws-emrcontainers_3	7.31.28.1		d364497cd8998c84681324604e51ca4b8ff10470
 dev.zio	zio-aws-emrcontainers_3	7.31.3.1		3e7b42cfb896ee91740dddb487be63297c2bad50
 dev.zio	zio-aws-emrcontainers_3	7.31.30.1		df6ce4c4482077957179ffce68d42f6504683501
+dev.zio	zio-aws-emrcontainers_3	7.31.30.2		8651cd2462e66c43c0ae10f779ab1c58bb52c6fa
 dev.zio	zio-aws-emrcontainers_3	7.31.4.1		c754eeca458151f5efd178e7781f55aed04b5a1a
 dev.zio	zio-aws-emrcontainers_3	7.31.6.1		74ab335cebab0e49495b29de0cecf410206b8ebd
 dev.zio	zio-aws-emrcontainers_3	7.31.6.2		68864c2b809d9f619b1d40b05c9e9200a3628682
@@ -947,6 +949,7 @@ dev.zio	zio-aws-frauddetector_3	7.31.27.1		a8b39ad3c019747cde29faf176916d1f34e26
 dev.zio	zio-aws-frauddetector_3	7.31.28.1		1614be7ff093a1956ff5de5db1c0ac1237ec480d
 dev.zio	zio-aws-frauddetector_3	7.31.3.1		cdd91e7512ee8b1d154204c90166fbe5cdcc4b53
 dev.zio	zio-aws-frauddetector_3	7.31.30.1		dd44a09d6e77c4b701da740e2a86948dd5f53940
+dev.zio	zio-aws-frauddetector_3	7.31.30.2		bf6aec182f6f967b10181b4684ede7f60230bdae
 dev.zio	zio-aws-frauddetector_3	7.31.4.1		0e79609b9203687dceaea05d483b15cdc50008b3
 dev.zio	zio-aws-frauddetector_3	7.31.6.1		114d75412430c60855eb9a9b62d5419088f200d5
 dev.zio	zio-aws-frauddetector_3	7.31.6.2		e70eec8fab73f09d5f548b395b55af7db80819be
@@ -1311,10 +1314,12 @@ org.jetbrains.kotlin	sir-providers	2.1.20-Beta2		2ba1626ad12aadeaa19a9389120d95f
 org.jetbrains.kotlin	sir-providers	2.1.20-RC		7d79965888c6a62a0fb43e50e5d78f79fb846964
 org.jetbrains.kotlin	sir-providers	2.1.20-RC2		d93946dbdcae7524d4b723b0b7e0651d386ab812
 org.jetbrains.kotlin	sir-providers	2.1.20-RC3		c121964f32840a455c7256846dd6c1d2e18c4741
+org.jetbrains.kotlin	sir-providers	2.1.21		f83255c7b88bc0234dd0bf967dd5231cd695161e
 org.jetbrains.kotlin	sir-providers	2.1.21-RC		274da3484df3432db6424802e29463de9035e89e
 org.jetbrains.kotlin	sir-providers	2.1.21-RC2		45b643a41e2b807b95b98f26fb6c4bfb351e86fe
 org.jetbrains.kotlin	sir-providers	2.2.0-Beta1		67433459ee7854aa5c0fe66b8f541580f605d615
 org.jetbrains.kotlin	sir-providers	2.2.0-Beta2		fa93ea51ba9565cac05c6a7e60695a2ac4935644
+org.jetbrains.kotlin	sir-providers	2.2.0-RC		51f0bc0aa84d8c261fb9fe147c336ed292329eae
 org.minbox.framework	minbox-oss	1.0.0		8a632a177476ec0715c78e065c4da027ec17d6db
 org.mvnpm	trim-newlines	1.0.0		855eb1e9bebddf97d2ff2193d3175b09cb4ca5a5
 org.mvnpm	trim-newlines	3.0.1		7727ce87892383015ff7fcb96d3f7037b183e4bd
@@ -1758,6 +1763,10 @@ tz.co.asoft	kollections-atomic-iosx64	3.0.8		N/A
 tz.co.asoft	kollections-atomic-iosx64	3.0.8	metadata	ce9787d31f37afa8da1792b166fe203f31405357
 tz.co.asoft	kollections-atomic-iosx64	3.0.9		N/A
 tz.co.asoft	kollections-atomic-iosx64	3.0.9	metadata	69a3ba4f1f3151760fa397cee1b8fd94c65e7eb7
+tz.co.asoft	kollections-atomic-iosx64	3.1.0	metadata	14e29dae0f0bdde29e5f20cfd91634bdcd0f25df
+tz.co.asoft	kollections-atomic-iosx64	3.1.1	metadata	9054de85a44e76e227c4e417fae8c80a3453e788
+tz.co.asoft	kollections-atomic-iosx64	3.1.11	metadata	39bcf8125c546a9e89a739386e98d147826d9b51
+tz.co.asoft	kollections-atomic-iosx64	3.1.12	metadata	4c350f96037a7101c49b9391827ae5dbbe08c0be
 uk.gov.dstl.baleen	baleen-orderers	2.4.0		1f2e1168262fafffbbfd96916cbb6699773f10c2
 uk.gov.dstl.baleen	baleen-orderers	2.6.0		129906ea4647cdcd67be3f9da28082a6ef622819
 uk.gov.dstl.baleen	baleen-orderers	2.7.0		1f9eddfc8986a543cacd0dc176ecb68863637868

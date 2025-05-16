@@ -85,6 +85,7 @@ co.fs2	fs2-protocols_2.12	3.12.0-RC1		d586848115fecb177228e3ac22594ddb7cc43f86
 co.fs2	fs2-protocols_2.12	3.12.0-RC2		a2083dd23e2e2b57b394df922cbe1df641445a51
 co.fs2	fs2-protocols_2.12	3.13.0-M1		6200b0a9f43d756287b51f312475fcadfc2912aa
 co.fs2	fs2-protocols_2.12	3.13.0-M2		b8248b3481f2fa6466a845c95995c661c128635a
+co.fs2	fs2-protocols_2.12	3.13.0-M3		b73a09fb8f005895c7b7b8ff0d8a470b90152cbd
 co.fs2	fs2-protocols_2.12	3.2-10-421c242		854d449f99627d7444cc96b60a7c29cfbbd9476e
 co.fs2	fs2-protocols_2.12	3.2-10-ea04dd1		18a7d95f60f12f2aaa9c4f59f3e426f313916f8d
 co.fs2	fs2-protocols_2.12	3.2-100-c1910b5		b62f711324abb6a96f853e44495d4147f3a5eeeb
@@ -718,6 +719,7 @@ io.github.tweener	chartopia-iosx64	2.0.4		N/A
 io.github.tweener	chartopia-iosx64	2.0.4	metadata	5acbea3b240080d777ae5333272209b8643fe01a
 io.github.tweener	chartopia-iosx64	2.0.5		N/A
 io.github.tweener	chartopia-iosx64	2.0.5	metadata	52ceb44283b75525ed52783e05a75fe4673f5ed9
+io.github.tweener	chartopia-iosx64	2.0.6	metadata	403f7443ca5a5fa9f08a43a9cc3766478298db33
 io.github.valdemargr	gql-client-http4s_3	0.1-28b5c64		df7d4b419c626971a8109f81f301722b29532fc0
 io.github.valdemargr	gql-client-http4s_3	0.1-305cbf3		3b68673c4ba3309657e78a236c27ad02e576b20a
 io.github.valdemargr	gql-client-http4s_3	0.1-5287e33		9aafa58bd0e26a4238ae8aa63947f693c774d7b7
@@ -1021,6 +1023,8 @@ io.ktor	ktor-events-watchosarm64	3.1.1		a0bb01ef238e1d7f94492ceda4b60d275df44a40
 io.ktor	ktor-events-watchosarm64	3.1.1	metadata	a932fccd64691482ad4d49ddb63fdb46b00ad83e
 io.ktor	ktor-events-watchosarm64	3.1.2		a4fd982cd1e084a4c1e088594e46b2b04873e092
 io.ktor	ktor-events-watchosarm64	3.1.2	metadata	64d8bc5c583d2995973982261008c3a04cf38d6d
+io.ktor	ktor-events-watchosarm64	3.1.3		8883a19eac52477e19e84fc4657340aa2f62fd1a
+io.ktor	ktor-events-watchosarm64	3.1.3	metadata	9abbb89ec58be87d2e410586a5ea77456fc20cce
 io.opentracing.contrib.specialagent.rules	opentracing-specialagent-rabbitmq-client	1.1.0		28f8e19a71bb7dfce442b518683839f1fae642df
 io.opentracing.contrib.specialagent.rules	opentracing-specialagent-rabbitmq-client	1.1.1		dd4681aa2354f057128184ce145984848d41fa59
 io.opentracing.contrib.specialagent.rules	opentracing-specialagent-rabbitmq-client	1.1.2		2e44d18295057f6891390c4d1e637c0e00fdf476
@@ -1350,10 +1354,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-funct
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.80.0		e2296a56411af67515e386561de7754d8f5bc57d
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.81.0		c65f207a6fad9245f334d5630efa0bc00ea3063c
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.82.0		ad3623c2c9ee21252e2d274b279f2ab4a42fbf10
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.82.1		117f7a968f95968376d9666e54231ea629b409db
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.83.0		5bdf00cfc749a6788393202f04cd864c3e7357c0
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.83.1		8eebf8c9aa37c27715b646253d698e9651b4e850
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.83.2		ad0a91d60051f39b78ecb61394e898c9bc5ee5ad
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.83.3		1b2be31a76fe390b93b6ec841fba76ce1035c99a
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.84.0		ac9db8e8b6ae842b037eaa1d18edabbacb5e038e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.84.1		d8871b1a492f93228adf56f8080677dbc0454055
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.85.0		dc4a4f61e1c912d0de632aeae06a00cf5a653522
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.85.1		44b126bf3da76358184019866d6078e08e49737c
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.85.2		9a84014f9f5c2373ec04b4e0af764ab3bd0e04b1
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT	4.85.3		4505659ff20cd90cc50fa86d753a1c2ede2aefb7
 org.grails	gorm-hibernate5-spring-boot	6.0.0.RC1		8949b3091f0ac394ec97fa0bba67a216dd79a017
 org.grails	gorm-hibernate5-spring-boot	6.0.0.RC2		bc713d869c9fd3e9a6de19ef7d8306a3313fd4f3
 org.grails	gorm-hibernate5-spring-boot	6.0.1.RELEASE		221dfbdaebae95b4b71e1bcf05545d5cdec16710

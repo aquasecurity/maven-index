@@ -39,6 +39,8 @@ ch.sbb.polarion.extensions	ch.sbb.polarion.extension.generic.app	7.7.0		7c72ee4a
 ch.sbb.polarion.extensions	ch.sbb.polarion.extension.generic.app	8.0.0		047da34b11f3939d1144921e07e2c1ae74db7bab
 ch.sbb.polarion.extensions	ch.sbb.polarion.extension.generic.app	8.1.0		aab0797111c5c457739fd0f52b818f9d1300c4b7
 ch.sbb.polarion.extensions	ch.sbb.polarion.extension.generic.app	8.1.1		f523475f345885b95a1ddfe512e2803965132826
+ch.sbb.polarion.extensions	ch.sbb.polarion.extension.generic.app	9.0.0		2de7457004bb857caeb181925b3b22ce07736204
+ch.sbb.polarion.extensions	ch.sbb.polarion.extension.generic.app	9.0.1		6bce226bdf09067cd3f9311c0637fc6eaef33ba8
 cn.bugstack	chatglm-sdk-java	1.0		4ba87363f9bf8ea0dd2dd3304f3627d43e152d15
 cn.bugstack	chatglm-sdk-java	1.1		ab04de3b5056cb97618272f1d7859a8de3152d91
 cn.bugstack	chatglm-sdk-java	2.0		d518f940d256d2d2748fe20fa94de82015940e40
@@ -391,6 +393,13 @@ com.walksocket	blueshelf	0.0.9		ca89e3f10e6d0f3d033ae3800f2e3765f93abc05
 com.walksocket	blueshelf	0.1.0		cc5246609787d456b9524818f0745542b4b4b428
 com.walksocket	blueshelf	0.1.1		b9a4df595d2910a8c1184397e624fdc0779554e2
 com.weicoder.fork	dom4j-jdk11	2.1.1		a04ce3451fa773580abc4f04cf9019f2a41b9c5a
+de.wayofquality.blended	blended.dependencies_2.12_1.0	3.0-M19		a918a121a6da1908492ab03f1d5cbd29cb9e1604
+de.wayofquality.blended	blended.dependencies_2.12_1.0	3.0-M4		6286fd5e88664d6c088a95d6cf22b67a3fcf18b3
+de.wayofquality.blended	blended.dependencies_2.12_1.0	3.0-M5		54452cba9f4f8a2d2d0ed6dfc8d69277821a70f3
+de.wayofquality.blended	blended.dependencies_2.12_1.0	3.0-M6		6728ef98ac6b8eb3bb527ebec1554b681910ca46
+de.wayofquality.blended	blended.dependencies_2.12_1.0	3.0.13		4db4b1a5283d527aa960f04976ba8f408c111937
+de.wayofquality.blended	blended.dependencies_2.12_1.0	3.0.3		4a99c85338d2f0459f2a709e9ec88ca3b283c87f
+de.wayofquality.blended	blended.dependencies_2.12_1.0	3.0.5		1085aee39c2c9840e5c9ec4af0abf88d23aba73c
 dev.jordond.compass	permissions	0.1.10		fbb80fb097419426cd3cf683b789edb7aca784fb
 dev.jordond.compass	permissions	1.0.0		fbb80fb097419426cd3cf683b789edb7aca784fb
 dev.jordond.compass	permissions	1.1.0		690da800fbfb74b4dab79af244b4d78c21681fc3
@@ -428,6 +437,7 @@ eu.codlab	kotlin-openweathermap	0.0.8		38eb240a9c6df572a5620a230c0354cb94600ea7
 eu.codlab	kotlin-openweathermap	0.1.0		dd7c55930b02f8ae34f363b59d7f720b283d7222
 eu.codlab	kotlin-openweathermap	0.1.0-alpha1		5a4005500f941fd3365b3b9c29bf39e5fd456ea9
 eu.codlab	kotlin-openweathermap	0.1.1		dd7c55930b02f8ae34f363b59d7f720b283d7222
+eu.codlab	kotlin-openweathermap	0.1.3		dd7c55930b02f8ae34f363b59d7f720b283d7222
 eu.codlab	kotlin-safearea-android	1.1.0		N/A
 eu.codlab	kotlin-safearea-android	1.1.3		N/A
 eu.codlab	kotlin-safearea-android	1.1.4		N/A
@@ -504,6 +514,9 @@ io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.10		06327cc
 io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.11		3d18d2f9f5e1f86d549b6c1e57d823e1e34bec75
 io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.12		743ec04f7e6eacffd77004654b38298ca5c56068
 io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.13		3d9e279ca66ae6f70ea54042d0cc790565e0d399
+io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.14		f5abc816192ff498f184c2604bf9b451eeb22d51
+io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.15		55124671dc31cb7f379651828965c11fead1bfac
+io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.16		2b918e03c7be9fe05a51e34cfae248a00b130429
 io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.2		eb3c562fbb7d0f74b0d036e08508308763a348aa
 io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.3		62d75c81eb339c816940369d3fc3ca739591f2d3
 io.americanexpress.synapse	synapse-archetype-service-rest-delete	0.4.4		e4e7f9f4ff666b31975bf9ba291c5543e3c06cc6
@@ -1477,6 +1490,7 @@ org.infinispan	infinispan-marshaller-protostuff	9.4.6.Final		560687ebe86301b325f
 org.infinispan	infinispan-marshaller-protostuff	9.4.7.Final		d31ec405b22bfef5427329046cab262f009fff0a
 org.infinispan	infinispan-marshaller-protostuff	9.4.8.Final		c32a2916f86855b35189e720cd43d63f716773ea
 org.infinispan	infinispan-marshaller-protostuff	9.4.9.Final		446aca9d97f61e72f240e43c07adf484e190a4af
+org.jeecgframework	minidao-pe-jsqlparser-4.9	1.10.7		ed5e68e5a5f86148c84cae86fb3b05127d2c9f5e
 org.kie	kie-server-api	6.2.0.Beta1		dd8c5439eeff09d7143db61536215ed2ab7c6a32
 org.kie	kie-server-api	6.2.0.Beta2		fdd1cc663713e1123a8dd2057664261b744b5d09
 org.kie	kie-server-api	6.2.0.Beta3		00a25465c8d0284a92a04fd52cc697533a455f62

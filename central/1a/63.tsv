@@ -173,6 +173,7 @@ com.github.luning-l	xlog	0.0.6		N/A
 com.github.luning-l	xlog	0.0.7		N/A
 com.github.luning-l	xlog	0.0.8		N/A
 com.github.luning-l	xlog	0.0.9		N/A
+com.github.seratch	scalikejdbc-mapper-generator_2.9.0_0.11.2	0.1.0		4e07d4e031caba5b83dc060e9a3b2c151e1efa88
 com.github.tototoshi	scala-fixture-play_2.12	0.3.0		4643eedfcb82648f9e5b89cfbeb23ae9c82a7d7f
 com.github.tototoshi	scala-fixture-play_2.12	0.3.1		6b9c94b28342a6fb71f7f5ddbf295d086030cab2
 com.github.tototoshi	scala-fixture-play_2.12	0.4.0		708f87e2da92aaac6bfefab5235bc7cf12e926dc
@@ -550,6 +551,7 @@ io.cdap.plugin	google-cloud	0.23.0		36fd9ae37e6e7791d0092cb27b0d673379a4958a
 io.cdap.plugin	google-cloud	0.23.1		1d1e9cfe0387b8ec0a5fab60a302cb20c05cb18f
 io.cdap.plugin	google-cloud	0.23.2		8a314b8b5aacae14cde7ac7db21b9d4c5693c34a
 io.cdap.plugin	google-cloud	0.23.3		16d33712fe9abcb306ad068361a0daa328199d96
+io.cdap.plugin	google-cloud	0.23.4		cd74687f8abf94bf4cd99e85408d070ac692a2ab
 io.cdap.plugin	google-cloud	0.24.0		6c8ac4982847397e764e1ed6edac9e477faa10d9
 io.getlime.security	powerauth-android	0.0.8		9301c556ae05fcabfe78ab621c0c41e6672286aa
 io.getlime.security	powerauth-android	0.0.9		03061848f9747d5c4aa11949df2337d2489d4efe
@@ -660,11 +662,19 @@ io.spinnaker.fiat	fiat-integration	1.56.0		c5e5c615ff5fabbbaa20c8780dcd38d9543b8
 io.spinnaker.fiat	fiat-integration	1.57.0		cdb68ee4d4d1c7f3feb69b94c9f1c1acbe6bda5d
 io.spinnaker.fiat	fiat-integration	2025.0-0		e3a0f64ac00899fdfcc6859a1cceeb3aba8c69f8
 io.spinnaker.fiat	fiat-integration	2025.0-1		53115c31cd7166e161bb249989304c08d75a48b9
+io.spinnaker.fiat	fiat-integration	2025.0-2		2adeec0d59dbd4f565928fac45bde2c7af18ba6c
+io.spinnaker.fiat	fiat-integration	2025.0-3		1a2ec09f20d8067287c3e49a30800b5d2fda16ed
+io.spinnaker.fiat	fiat-integration	2025.0-4		4d18fc62978491bda6b8ff1d8ed1030a551dd789
 io.spinnaker.fiat	fiat-integration	2025.0.0		40b9b216620b641325e518f2512b49baf5916c8e
+io.spinnaker.fiat	fiat-integration	2025.0.1		838cbd48c2e73d40f86747cc790dd0b04d081089
+io.spinnaker.fiat	fiat-integration	main-10		0c0cd783a2b71cff6b710816669887f6a38b3b9f
+io.spinnaker.fiat	fiat-integration	main-11		794e95e76ba2f1625553b8aab7bb15dc7f01bf83
+io.spinnaker.fiat	fiat-integration	main-12		b5d09144424f460eb4d5b0193e5ea3dc3f5f61e8
 io.spinnaker.fiat	fiat-integration	main-5		81afcfb0c2ddb81546ff2af73e81f3e99ea5fff7
 io.spinnaker.fiat	fiat-integration	main-6		e20fe5f6d176fffe656c7952be8837bd7ef11dc8
 io.spinnaker.fiat	fiat-integration	main-7		df554b7a8f58da86c3c24562efbbcd8b85b976a4
 io.spinnaker.fiat	fiat-integration	main-8		1acf1f11384f0a9b0996e047b55af48f7facd1fe
+io.spinnaker.fiat	fiat-integration	main-9		08d059bd88a1d9d9702253f7cbfe6819022fcf3d
 io.sundr	sundr-codegen-st4	0.100.0		aff514f1344bc3d6ecac61065cf59bff300b4204
 io.sundr	sundr-codegen-st4	0.100.1		c5d5f813cf1c5c287cecb9ed1e0f08de8e4c2cd7
 io.sundr	sundr-codegen-st4	0.100.2		e33767c88a18afbfaab157b730803758963bf9ae
@@ -677,6 +687,7 @@ io.sundr	sundr-codegen-st4	0.103.0		2322b9614ac8ec6741fb4390e4d4790a0de72a71
 io.sundr	sundr-codegen-st4	0.103.1		b96efe8129a1b0481ce2b8295b7e58874588d482
 io.sundr	sundr-codegen-st4	0.200.0		1405d8ff5c57cc7f0aa262157aab7c592a68b995
 io.sundr	sundr-codegen-st4	0.200.3		7eabd54ca7bc77815cc238cce3f2859cc9b4c636
+io.sundr	sundr-codegen-st4	0.200.4		20df9a31ebb59d65a3c325cc13450e605c32c6c5
 io.sundr	sundr-codegen-st4	0.50.1		d17346253f27fbc72d0bb739beb42022abc45e1f
 io.sundr	sundr-codegen-st4	0.50.2		eb88c5901088bcc946cf7e60ba1a79ebec4b8b5e
 io.sundr	sundr-codegen-st4	0.50.3		cb2481f69025bd7710bcc2b5d168467d7a657cc3
@@ -886,6 +897,7 @@ org.apache.camel	camel-grok	4.8.3		1224f345d956ff641da53f3878ac101265e03df4
 org.apache.camel	camel-grok	4.8.4		32341f5bfcfa5e8e47a02bdc27c063e6119abe81
 org.apache.camel	camel-grok	4.8.5		cb575f1e482f117bfb1b289201d077d2d191712a
 org.apache.camel	camel-grok	4.8.6		b1b0835a2924e52026cc20eda8cb40e7ccb48376
+org.apache.camel	camel-grok	4.8.7		3e749430cbd7c994370b6db11137faabee976f03
 org.apache.camel	camel-grok	4.9.0		8f3a6c8fe866ae79a607932dfab55c2afd086e6c
 org.apache.camel.kafkaconnector	camel-aws2-eks-kafka-connector	0.1.0		abd90bff1b9891e091f9f2de2bc1e90f23d447f5
 org.apache.camel.kafkaconnector	camel-aws2-eks-kafka-connector	0.10.0		fde35caffb6987efa4450870f2266e994d577b3b
@@ -1181,6 +1193,7 @@ org.opensearch.plugin	crypto-kms	2.18.0		b66e4fb04b299144a3772351bd344eaf7fd9fe3
 org.opensearch.plugin	crypto-kms	2.19.0		e85f44950184ecc082914507f601075d89960881
 org.opensearch.plugin	crypto-kms	2.19.1		3add56bb6e5fe44ee2aa987a3ccabd9e39ac9dc5
 org.opensearch.plugin	crypto-kms	2.19.2		78b1eedc5718ad5b6aa2e0cfc1b18e3a5cb92fdc
+org.opensearch.plugin	crypto-kms	3.0.0		c2e9cc6e8bd71566942a17baf7cc5c5b68a66ae8
 org.opensearch.plugin	crypto-kms	3.0.0-alpha1		6232de673beb9a0ed35780cf3d3a77727f199c23
 org.opensearch.plugin	crypto-kms	3.0.0-beta1		0d6dab9e50d56e403bc2c63f02df5b19249bd53b
 org.rogach	scallop_2.9.0-1	0.3.9		dbd7ec1fab8e7fc4eb3cd114a65bf44ae1ec2568
@@ -1699,6 +1712,7 @@ software.amazon.awsconstructs	lambdaeventbridge	2.83.0		12c581a2f6e50f5c37f807d4
 software.amazon.awsconstructs	lambdaeventbridge	2.84.0		7d1b9b5bbc20e61099f2c61cc9e5b20a289e5529
 software.amazon.awsconstructs	lambdaeventbridge	2.85.0		b6967765993ad3d3405ace735c1121eb1db53f39
 software.amazon.awsconstructs	lambdaeventbridge	2.85.1		57f47a4d01673c63053c56840fe0ab7ee62a44dd
+software.amazon.awsconstructs	lambdaeventbridge	2.85.2		4cd64dac5115ff0b8e616a91bd745429dbe44ebd
 software.amazon.awsconstructs	lambdaeventbridge	2.9.0		be13f0e02e319513b1224aeceea9ed169679f8b4
 tech.amwal.payment	user-data	1.0.0-alpha04		N/A
 tech.amwal.payment	user-data	1.0.0-alpha05		N/A

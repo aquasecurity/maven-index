@@ -256,7 +256,16 @@ aws.sdk.kotlin	controlcatalog-jvm	1.4.73		f8453bc3f7fc6006e45eff243f5b2f75ccd088
 aws.sdk.kotlin	controlcatalog-jvm	1.4.74		527a88091dbc2504316f4890f5d47d428d821db2
 aws.sdk.kotlin	controlcatalog-jvm	1.4.75		572acc97528c888f7b9b5019357a21c0bb887101
 aws.sdk.kotlin	controlcatalog-jvm	1.4.76		7d9eb6123fe946f132c757cecf5c7e533160f5d3
+aws.sdk.kotlin	controlcatalog-jvm	1.4.77		0e529540448b4e7f8be9ae2f03bb27a783546d22
+aws.sdk.kotlin	controlcatalog-jvm	1.4.78		78540e5ef3aab4c29c65c5d10e49bcb0d8c77817
+aws.sdk.kotlin	controlcatalog-jvm	1.4.79		06651ac9eb86224642948be279d8e5fb9e45cb64
 aws.sdk.kotlin	controlcatalog-jvm	1.4.8		b2793f286decb67e5897e7fb782d2cae00fb9529
+aws.sdk.kotlin	controlcatalog-jvm	1.4.80		e14dbe3ba039401148a6dd3a201fa1670cf795f6
+aws.sdk.kotlin	controlcatalog-jvm	1.4.81		af39eb7ace0fbfa1933708aa38041899f37c0f6d
+aws.sdk.kotlin	controlcatalog-jvm	1.4.82		7f6959157d7ac01b78a7ca3adc8d627bcff70811
+aws.sdk.kotlin	controlcatalog-jvm	1.4.83		62eaaf362809d119fb36be128843795cb140a6d4
+aws.sdk.kotlin	controlcatalog-jvm	1.4.84		da454c4498e24555468fdc66d35a8173d3a55f2d
+aws.sdk.kotlin	controlcatalog-jvm	1.4.85		727cd6ef5d1e6148263fc790b50687d835d91b1c
 aws.sdk.kotlin	controlcatalog-jvm	1.4.9		d1ffb684784411fcf6b02851f1b1f2e54ee66609
 cc.redpen	redpen-core	1.10.3		235a5205c48b28b16325fd27dab765f83a507ffa
 cc.redpen	redpen-core	1.4.1		3e8e89d98675d19130bcbf688cb4c0d21d56466f
@@ -683,6 +692,7 @@ com.slack.foundry	agp-handler-api	0.25.4		f9c30a9dbe35934ee8a33c264192fdb9a5c4d4
 com.slack.foundry	agp-handler-api	0.26.0		a25c7bebb6295122c7c239bd4a8aaea68df965fb
 com.slack.foundry	agp-handler-api	0.27.0		beb7431efd776447da902263a47b87a4d2de3305
 com.slack.foundry	agp-handler-api	0.27.1		107e39c45fb713d2f05fde6a96d7b7d63b1f0ded
+com.slack.foundry	agp-handler-api	0.27.2		107e39c45fb713d2f05fde6a96d7b7d63b1f0ded
 com.wealthfront	blend	0.1.0		N/A
 com.wealthfront	blend	0.2.0		N/A
 com.wealthfront	blend	0.2.1		N/A
@@ -722,6 +732,7 @@ de.gematik.refv.valmodule	valmodule-erp	2.9.0		74f9cf1f2861bb1aa4d8af158c42cf0c8
 dev.langchain4j	langchain4j-community-vearch-spring-boot-starter	1.0.0-beta2		ce280d9a23372a3a39b2a214ba8942d5e8438e5d
 dev.langchain4j	langchain4j-community-vearch-spring-boot-starter	1.0.0-beta3		4a4c094485dc311f080c4c4f7ad8921630a318ca
 dev.langchain4j	langchain4j-community-vearch-spring-boot-starter	1.0.0-beta4		bfb259af1cd03929b3fa88ad1fdaba4123e835e4
+dev.langchain4j	langchain4j-community-vearch-spring-boot-starter	1.0.0-beta5		c5dfc1c619e6836c73abf2b1347ee2ad655d0446
 dev.zio	zio-aws-paymentcryptography_2.12	7.21.15.1		06f44b4e5529ecae046f9a7ef8e17adba9044b7f
 dev.zio	zio-aws-paymentcryptography_2.12	7.21.15.10		725b82b1df586bad5483d296780fff3346dd8052
 dev.zio	zio-aws-paymentcryptography_2.12	7.21.15.11		70ea11f49ce3e8c6e706840acfc33d4a45cddefb
@@ -813,6 +824,7 @@ dev.zio	zio-aws-paymentcryptography_2.12	7.31.27.1		15ba84be64ead60ab9966d5d272f
 dev.zio	zio-aws-paymentcryptography_2.12	7.31.28.1		cf162a803713113af7288d15538184f710a27423
 dev.zio	zio-aws-paymentcryptography_2.12	7.31.3.1		80b8852f7cd23f6e7ddbc9954d379115fbd0b60d
 dev.zio	zio-aws-paymentcryptography_2.12	7.31.30.1		67a6f260a8ee5f8564a2b8bcca066836ef6b0f84
+dev.zio	zio-aws-paymentcryptography_2.12	7.31.30.2		10aeae157d3bcd65ef4f4e0441a81547d1c54ca7
 dev.zio	zio-aws-paymentcryptography_2.12	7.31.4.1		cb9b0e4918fc1a19aecf604b09fee1951c1f7c7c
 dev.zio	zio-aws-paymentcryptography_2.12	7.31.6.1		c23a5dea4caaf2265d14b7d4a6656bc277b0f666
 dev.zio	zio-aws-paymentcryptography_2.12	7.31.6.2		3ca96c62b0977c95da814e6a168cbe8b6fb50bd7
@@ -1857,9 +1869,11 @@ io.streamnative	pulsar-metadata	4.0.1.2		930820e7095dec1ae2e9d158a7cbe0b38354768
 io.streamnative	pulsar-metadata	4.0.1.3		397a1c4992a8087b4fae83b151db5da0c8808a43
 io.streamnative	pulsar-metadata	4.0.1.4		283dfd65bbb3bb87249a8a8d90c531c18c4f5c98
 io.streamnative	pulsar-metadata	4.0.3.1		1fe29be0df125682ac8bc7dfaac94a9fec332841
+io.streamnative	pulsar-metadata	4.0.4.2		406c3e32ef75b91a42133554b41b562e7af5a7a4
 io.streamnative	pulsar-metadata	master-rc-daily		dc679f78f78639dd8271a569b4ddb433648d2b8b
 io.streamnative	pulsar-metadata	v2.8.0-rc-202106091140		d57d48622829406dcb8316cc0d90ed393753e5b0
 io.streamnative	pulsar-metadata	v2.8.0-rc-202106121853		b1ed5e988d9cc108d970bbe6e8b080ef04c6ad7b
+io.tailrec.sbt	sbt-aws-fn_2.10_0.13	0.5.0		0704d928c69ff369e4ff5fe0f5c5dc0b5102994a
 me.moros	math-core	2.0.0		7115d4d1bfe71964d6faea77cc5f9d56a554eb7f
 me.moros	math-core	3.0.0		8c4c7e711fa101f295e68414643b4b15616ccf40
 net.adoptopenjdk	net.adoptopenjdk.v3.tests	0.1.0		09776655597c211ebabb824e26a7f5adb6047a91

@@ -246,6 +246,7 @@ com.mdsol	mauth-sender-sttp-akka-http_2.13	17.0.0		0c7a81527beefecf9ea99c853a9a4
 com.mdsol	mauth-sender-sttp-akka-http_2.13	17.1.0		307dee4ab41e143832e721f6d08f3a2ca996b328
 com.mdsol	mauth-sender-sttp-akka-http_2.13	18.0.0		dd5ee9a52b4ce3f6f24fc3cf2dec4be1086913a3
 com.mdsol	mauth-sender-sttp-akka-http_2.13	18.1.0		f3f28d31745f03ba9b8eb0c068faf346e77f1cef
+com.mdsol	mauth-sender-sttp-akka-http_2.13	19.0.0		71116d86831f3ae6eff656d03b5f6fbf829b4c8d
 com.mdsol	mauth-sender-sttp-akka-http_2.13	4.0.2		deaa6e297d4c50040a0e204302dedd94c314d047
 com.mdsol	mauth-sender-sttp-akka-http_2.13	5.0.0		97665377c1c2df52bb62f2cc8e611aa65ff9467b
 com.mdsol	mauth-sender-sttp-akka-http_2.13	5.0.1		f3e7ae0f036be9bfedb2eaa884af0cd18ecc28c5
@@ -461,6 +462,7 @@ com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.1238		d698feaf553c043511fcdc0c
 com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.1239		67a0c8517ef52e046460b36d6a00ec4e52531eb4
 com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.1249		57877e6ab6583e082fe19183eb64e5ed9ff70c60
 com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.1252		1e5ba1a9ec21564a9af1305db0dc12f01e7972c6
+com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.1257		652759c74d028f811f62f5e6350439da3d8af9a6
 com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.179		adcf34a782a00292a1626f460cf5044ffee63c24
 com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.179	jar-with-dependencies	5c9c2df7333d46f0a1b936a47195372d84b5808c
 com.tencentcloudapi	tencentcloud-sdk-java-ocr	3.1.180		2881fccdcd1c88d91acd01847f2aa79726646025
@@ -1917,6 +1919,7 @@ dev.zio	zio-aws-databrew_2.12	7.31.27.1		99c48327001b6329aadf90a2612a0b1dd99e827
 dev.zio	zio-aws-databrew_2.12	7.31.28.1		90129ecb56a39c0db2c69a33b02e75093dc4065f
 dev.zio	zio-aws-databrew_2.12	7.31.3.1		c2d7fa940967a946bcd9bd373d03e787a35a7a90
 dev.zio	zio-aws-databrew_2.12	7.31.30.1		def5382c241d25d81fc7f6763e264a0eaec9d27d
+dev.zio	zio-aws-databrew_2.12	7.31.30.2		2b5c06252c53f947a9f7ebf948e6f3876aadbc0a
 dev.zio	zio-aws-databrew_2.12	7.31.4.1		fd9f4f4d7fd316ed38137c39e43cf86b6e7a36de
 dev.zio	zio-aws-databrew_2.12	7.31.6.1		7f69de5ac82c5c719536e565a6323a1a9020cc1d
 dev.zio	zio-aws-databrew_2.12	7.31.6.2		a32a48dff71d67764ce79a01b64b11a970115084
@@ -2127,6 +2130,8 @@ net.folivo	trixnity-clientserverapi-client	4.14.3		89047b08a609ac5fb2216c1355ec4
 net.folivo	trixnity-clientserverapi-client	4.14.4		89047b08a609ac5fb2216c1355ec48680177b993
 net.folivo	trixnity-clientserverapi-client	4.15.0		89047b08a609ac5fb2216c1355ec48680177b993
 net.folivo	trixnity-clientserverapi-client	4.15.1		89047b08a609ac5fb2216c1355ec48680177b993
+net.folivo	trixnity-clientserverapi-client	4.15.2		89047b08a609ac5fb2216c1355ec48680177b993
+net.folivo	trixnity-clientserverapi-client	4.15.3		18ec2464202c98d38633915990eaac1e9553f830
 net.folivo	trixnity-clientserverapi-client	4.2.0		746652a52a39bbb2a2d2dbe977842dbd2fb75abd
 net.folivo	trixnity-clientserverapi-client	4.2.1		9dc21994ea7cb00f285668f7bc0be3e246582f37
 net.folivo	trixnity-clientserverapi-client	4.2.2		9dc21994ea7cb00f285668f7bc0be3e246582f37
@@ -2306,10 +2311,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functio
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.80.0		7592cdf459b2564de683e07ba219c1ba73a0a7d7
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.81.0		f93eab05633d2df2641526103ab8e5a764725f52
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.82.0		167ffbe5b312482c563aa97a877b725c9baf27ce
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.82.1		2eaff645d4a54aada1f24aed41fb6f1eafff53c5
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.83.0		3ace99fdd0645ced7f110ff9e58265cd3b4d2825
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.83.1		4fc0895ddb7825e9469e83f59188252cfa8b073c
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.83.2		e8fefb31c27eefc854e92d86886e321997ad32fa
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.83.3		f2b26cb15facd13ccc38dfc65af080cd823cf91c
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.84.0		c91d7940963748b13b688505e8bcffc2c7f36b09
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.84.1		6d1590044a2085d1ea30b57ec1a9503fc82df466
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.85.0		943789d81dd6d80fdf9ba40f349a694713176205
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.85.1		c86e7b05c1f46f82eac45dd865fb8b0f6f3e4756
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.85.2		9b4676dad9fef690e200debea56aacc2888911f4
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-legendCompiler	4.85.3		92b5c7ec8ab60069ad6c8326b2ab0f6a94fcb6d7
 org.finos.legend.engine	legend-engine-xt-connection-pure-metamodel	4.35.4		6431ecd723dbfd7a4b184f7f33ba04738eedb734
 org.finos.legend.engine	legend-engine-xt-connection-pure-metamodel	4.35.5		a426c2758b86aa4057c824157e6efe216ffbf647
 org.finos.legend.engine	legend-engine-xt-connection-pure-metamodel	4.36.0		df658a5000b6e6fb55d2540744c26ac1cd2bba59
@@ -2562,6 +2574,7 @@ ru.tinkoff	build-metrics-gitlab	2.0.0-RC2		b63e767d421fddf18a5af5ea0797dfa61daeb
 ru.tinkoff	build-metrics-gitlab	2.0.0-RC3		bcc4e43b709be9d258250cced1f88f31730b25a7
 ru.tinkoff	build-metrics-gitlab	2.0.0-RC4		56efc359a0b904285ea24dcaeb372def36288acf
 ru.tinkoff	build-metrics-gitlab	2.1.0		10fed62864f3547098d74e045b660cd405f98ac8
+ru.tinkoff	build-metrics-gitlab	2.1.1		7e8113bcd79c817481954328fe472378a9ec445c
 top.heue.log	log	1.0.0		N/A
 xyz.gmitch215	tabroom-api	0.1.1		1d0032de740097826366670cd591506c79a9282f
 xyz.gmitch215	tabroom-api	0.1.2		c97d49bf10cd73d60db9f9301ea9b77fc10a8cab

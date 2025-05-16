@@ -98,6 +98,7 @@ cloud.piranha.extension	piranha-extension-jersey	25.1.0		4a60e180d7b33948e7a5477
 cloud.piranha.extension	piranha-extension-jersey	25.2.0		57a08982a4424b313e6ff07f1178d21a3b0ebcf4
 cloud.piranha.extension	piranha-extension-jersey	25.3.0		061d57b6256da8382f478a16278bf474e8ff41ef
 cloud.piranha.extension	piranha-extension-jersey	25.4.0		dc5a92c7cec415feef859601708d286eaadfb5c3
+cloud.piranha.extension	piranha-extension-jersey	25.5.0		550f672ad3d630271d6e016545428d2903369125
 cn.taketoday	today-framework	1.0.0.RELEASE		853e77dd555e0155acb1c9f29113339acf472f43
 cn.taketoday	today-framework	1.0.1.RELEASE		6a44b08b6af0ce4666a74527a63e54068af19d59
 cn.taketoday	today-framework	4.0.0-Draft.1		db33802729e41b06a39ac69b40f2cbcb92db6bcd
@@ -432,6 +433,8 @@ com.google.api.grpc	grpc-google-cloud-service-control-v2	1.59.0		9d91b986e438f9e
 com.google.api.grpc	grpc-google-cloud-service-control-v2	1.6.0		ed1073047ec8ddee203f7e600072bed76ba11260
 com.google.api.grpc	grpc-google-cloud-service-control-v2	1.60.0		0fe62f3b27752f528456ad6d4fc7d9a4fbcc608c
 com.google.api.grpc	grpc-google-cloud-service-control-v2	1.61.0		665b0eb4cbbab367f9869bc08b577eed4921fc48
+com.google.api.grpc	grpc-google-cloud-service-control-v2	1.62.0		d5c061a559308c60264fbc35c2d79260923205ee
+com.google.api.grpc	grpc-google-cloud-service-control-v2	1.63.0		ee3332dd0a652a8941f5149a3b69f6d81bd5acaf
 com.google.api.grpc	grpc-google-cloud-service-control-v2	1.7.0		af1d0920d0e8c04fa33b5e7535b5c6bc07208f92
 com.google.api.grpc	grpc-google-cloud-service-control-v2	1.8.0		4932dbb53d4c432934b00dc2ca52de832818c1a5
 com.google.api.grpc	grpc-google-cloud-service-control-v2	1.9.0		ccb7c7043c24ec6401eff3b4a465df66a61bb5ac
@@ -1131,6 +1134,8 @@ io.camunda	webapps-schema	8.6.12-rc1		4a95cddf3eef82c69c31c39f44599ba5e52189c7
 io.camunda	webapps-schema	8.6.13		66dda36de8ce4c9e69ea58ca8d84b414330f10da
 io.camunda	webapps-schema	8.6.14		2207c70898eb78d46aee63d6a504f00e13806e69
 io.camunda	webapps-schema	8.6.14-rc1		7452c6285bd58f2a966f2424f0d4f9de309d25ce
+io.camunda	webapps-schema	8.6.15		0fa0fb19e61b5cacb19c48ab291099b274d71707
+io.camunda	webapps-schema	8.6.15-rc1		06b3c9cccc943c9ad65a613067a4dfaa98585a5e
 io.camunda	webapps-schema	8.6.2		8885e656bdb050c771d6265870b0b4d7a51dea08
 io.camunda	webapps-schema	8.6.3		222a539071cc817f0e5df14d420814325882bb9b
 io.camunda	webapps-schema	8.6.4		c042fb425521c707b811271e9825c9fb2f37bd7c
@@ -1166,12 +1171,15 @@ io.camunda	webapps-schema	8.7.0-alpha5-rc1		c069de737561c5090b27d3d9d3445607afd6
 io.camunda	webapps-schema	8.7.0-rc3		50df823e96a4f31b726ed047b554f04bcccd1521
 io.camunda	webapps-schema	8.7.1		b5645b859776296e1f146468681273e26307c672
 io.camunda	webapps-schema	8.7.1-rc1		de46c558782a8f732227cabe4b00a4952cc74b93
+io.camunda	webapps-schema	8.7.2		546821fbb0159ab4c0f98854b83c372e476ee4e3
+io.camunda	webapps-schema	8.7.2-rc1		66e6e908d81edd3046195fa83208e637aed5f95a
 io.camunda	webapps-schema	8.8.0-alpha1		2ac48af565a1817329d127e8f4d7cdb075a48283
 io.camunda	webapps-schema	8.8.0-alpha1-rc1		1e9ab076ba066aedaa7c827c7eb16ef531680bbb
 io.camunda	webapps-schema	8.8.0-alpha2		c1a07f0d5c0a317d8105e02064adc1b750552ecd
 io.camunda	webapps-schema	8.8.0-alpha2-rc1		85bccb3c01708e466a4938242cd4e240109dcb9b
 io.camunda	webapps-schema	8.8.0-alpha3		8f20b4c96615e0a0ad4701c9f59b5726968cd76f
 io.camunda	webapps-schema	8.8.0-alpha3-rc3		09f5c0c89c5b9f864ea0cada2aa925f81fbbe03d
+io.camunda	webapps-schema	8.8.0-alpha4		b84088aaa5913dbbc0dc5da9248b78232aa01b20
 io.camunda	webapps-schema	8.8.0-alpha4-rc1		3f52fda3d56ea05d04181859c0106e700509777b
 io.codekontor.slizaa	slizaa-hierarchicalgraph-graphdb-mapping-spi	1.0.0.M3		e0da803bb0e090a3ab09cb83ffd96c562ba74501
 io.foodtechlab	common-entities-domain	4.0.0		c54660a0f9383ad2b13eb5e4a0b6ae7152c7d454
@@ -1686,6 +1694,7 @@ org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	7.2.0-RC6		
 org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	7.2.0-RC6	resources	9ab2b2d78b4efd374ad2b69ae3f1306c87af266e
 org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	7.2.1		bbe508bcf2f08fa71940230d8062c96603db6337
 org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	7.2.1	resources	88e34cfa350d9e2bf84cbe6e146f5fa51c937328
+org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	7.2.2		f115728c33f0fe92c15807207eee1bf78a642a7f
 org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	7.3.0-RC1		5c2f82492a5fc4e1de19acb582d2d5ba287de73d
 org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	7.3.0-RC1	resources	7effe53aa84bf3c4a78dce546c58d6bd35250208
 org.apereo.cas	cas-server-support-configuration-cloud-azure-keyvault	v6.4.0-RC5		1471fdea6c846b00b617a7c53e1e2ce70d3fa275
@@ -1776,6 +1785,7 @@ org.apereo.cas	cas-server-support-sendgrid	7.2.0-RC6		e76c241b8a5d6fca696f7fb441
 org.apereo.cas	cas-server-support-sendgrid	7.2.0-RC6	resources	2c29d8f0aae855fa314e48712c5da5d120f490e1
 org.apereo.cas	cas-server-support-sendgrid	7.2.1		a9e1b475fb635968d4b5f5e8abb4257cf9a8797f
 org.apereo.cas	cas-server-support-sendgrid	7.2.1	resources	f91ea9bcd6b4d127d145909910ebf6539531d306
+org.apereo.cas	cas-server-support-sendgrid	7.2.2		d7aeba80ec7228b3fe8fdb7ca3a2b9cf32fecb18
 org.apereo.cas	cas-server-support-sendgrid	7.3.0-RC1		99f03731e0b5e36306f402cfe93c56754c506d96
 org.apereo.cas	cas-server-support-sendgrid	7.3.0-RC1	resources	78255822ad4d64312eb1aa0550d5bf62681cd696
 org.danbrough.kotlinxtras.binaries	sqliteMacosArm64	3.40.0		N/A
@@ -2294,6 +2304,7 @@ org.wildfly	wildfly-web-common	35.0.0.Final		faf8c9df75d46da76d77983b294d7ef7bd6
 org.wildfly	wildfly-web-common	35.0.1.Final		47cf502cc27634299482e93e7476cf7d30772624
 org.wildfly	wildfly-web-common	36.0.0.Beta1		446174301b3de75f18de8b54c472971e41a036e7
 org.wildfly	wildfly-web-common	36.0.0.Final		b4e9a32c03b01a56e59076476aa30c650f661d7a
+org.wildfly	wildfly-web-common	36.0.1.Final		5aee73618463af8246816188e3e6b84dced32487
 org.wildfly	wildfly-web-common	8.0.0.Alpha1		af1e34f2e47b58fa5a8a4165fe093480879d8086
 org.wildfly	wildfly-web-common	8.0.0.Alpha2		95ce00ea544b27e5b807919fd47fe1effa7bd607
 org.wildfly	wildfly-web-common	8.0.0.Alpha3		681822cc93f0d2b89a09bc8b5f23a39d8d62364d

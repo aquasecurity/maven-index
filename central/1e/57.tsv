@@ -330,6 +330,7 @@ com.lightningkite.rx	rxplus	1.0.6		0583378c2d2898da56458cee4ae1fb6dc66e682d
 com.lightningkite.rx	rxplus	1.0.6	equivalents	9b6c3183fbb9fab496fad33cbaa7057a825b6791
 com.lightningkite.rx	rxplus	1.0.7		7f7799e1b65b2694efbd8e4752e7aa5682bd99f6
 com.lightningkite.rx	rxplus	1.0.7	equivalents	037a47d4b83efd9ccb71dd258410d086729323af
+com.lihaoyi	os-lib-watch_2.12	0.0.0-1-5443f8		2cb113c4107b05d5ffd40f2a80ae679abedd0758
 com.lihaoyi	os-lib-watch_2.12	0.0.0-1-c9bcc9		bc0799ff08f5202124ab615eb8225212890f354f
 com.lihaoyi	os-lib-watch_2.12	0.10.0		2473cfc5239eac5e4e9c0dfd463cdb7c18f841d7
 com.lihaoyi	os-lib-watch_2.12	0.10.1		9c5ca17908d85cf8862f13ad4769a6ef5446b32f
@@ -359,6 +360,8 @@ com.lihaoyi	os-lib-watch_2.12	0.11.5-M2		1ea2e561c0c6247b0c6b7d0b0f8d0a982b9969c
 com.lihaoyi	os-lib-watch_2.12	0.11.5-M3		58228456313b69496075ccb2b89ed1181f0dfe29
 com.lihaoyi	os-lib-watch_2.12	0.11.5-M5		532d96ef2d700d21a716c2a47f0386db3171ecde
 com.lihaoyi	os-lib-watch_2.12	0.11.5-M6		4ef781088235bef07a04cc40d66276212c25ca30
+com.lihaoyi	os-lib-watch_2.12	0.11.5-M7		14e501ccdaafaa5ae8366f68155ee749a1ad92b0
+com.lihaoyi	os-lib-watch_2.12	0.11.5-M8		198350a07bab9ec7cdebe49d6d653291ac5bc630
 com.lihaoyi	os-lib-watch_2.12	0.4.0		3dbbc0fbb364369a1dc0bff31de76db52849c5b6
 com.lihaoyi	os-lib-watch_2.12	0.4.1		cf9af5e19338153783408821b9f164f77bbf7c8a
 com.lihaoyi	os-lib-watch_2.12	0.4.2		4a6926e5bbf1999996b2de480c1989726c3652a5
@@ -1355,7 +1358,14 @@ com.yahoo.vespa	predicate-search-core	8.511.14		58b52b29e8e0aa3e26fb5ee8cbd95322
 com.yahoo.vespa	predicate-search-core	8.512.63		52aaa683ae3503a311b67acafe7805fb69c7b24e
 com.yahoo.vespa	predicate-search-core	8.513.17		a59bfce91ed6f433561f190acdd74ebd6b0719af
 com.yahoo.vespa	predicate-search-core	8.514.24		82f329da049b0f88d3dc98ffd75201bfdec6a1c5
+com.yahoo.vespa	predicate-search-core	8.515.40		d2f285ccfe7f3a84b3ed4f948a61cd5e02ddc753
+com.yahoo.vespa	predicate-search-core	8.516.26		ba00ffd9944659b49854cf4f80ea42d101660e1c
+com.yahoo.vespa	predicate-search-core	8.517.15		032b97a5ef2d893268bb550916e5c791796c7c52
+com.yahoo.vespa	predicate-search-core	8.518.4		54f321d8caedd0f71dc575a271fb37abd2fd9629
+com.yahoo.vespa	predicate-search-core	8.519.55		860d6df7d106e62d2625f2b4dea9555ba178ba5f
 com.yahoo.vespa	predicate-search-core	8.52.15		4d24d81c31871c0e32731a6ff219611e5b9c1d25
+com.yahoo.vespa	predicate-search-core	8.520.18		50ce34631f8598ac8b67b5a91ad76627e4596a68
+com.yahoo.vespa	predicate-search-core	8.521.17		b60b94c1f8b60b127592dbf0c61435dedec81d89
 com.yahoo.vespa	predicate-search-core	8.53.21		f239fdfd66c5b91818a34ec76825d62d66dee916
 com.yahoo.vespa	predicate-search-core	8.54.61		2850a4dc6a6871bbe25db8e1fdad84acd8a2e9df
 com.yahoo.vespa	predicate-search-core	8.56.20		c17b6415981967a3f839bfd2c52e2e31df02700f
@@ -1421,6 +1431,7 @@ dev.langchain4j	langchain4j-github-models	1.0.0-beta1		734b2f7a661d7e64fcec1edd6
 dev.langchain4j	langchain4j-github-models	1.0.0-beta2		cb96f8dbb8cb6c54a46e2f87de077f1454609a55
 dev.langchain4j	langchain4j-github-models	1.0.0-beta3		c6042d4d023a5b04b7e189d6edbc9c07a117794e
 dev.langchain4j	langchain4j-github-models	1.0.0-beta4		b4c663c2fb6e26b50eb4fc48f2dc0556c192a415
+dev.langchain4j	langchain4j-github-models	1.0.0-beta5		65539132b6ac2301e23cbcd309581bdae7d82744
 edu.washington.cs.knowitall.nlptools	nlptools-parent_2.9.2	2.2.0		N/A
 edu.washington.cs.knowitall.nlptools	nlptools-parent_2.9.2	2.2.1		N/A
 edu.washington.cs.knowitall.nlptools	nlptools-parent_2.9.2	2.2.2		N/A
@@ -1620,6 +1631,7 @@ io.toolisticon.cute	extension-junit4	1.5.0		4e5343cfbdaceb5feae7d8d7fbe6fcf4e40c
 io.toolisticon.cute	extension-junit4	1.5.1		03676ed655245a677ccc68e6986f8a455247b86d
 io.toolisticon.cute	extension-junit4	1.6.0		cb0c7fc7efb771df1ca125fef411bddd237c0d7d
 io.toolisticon.cute	extension-junit4	1.7.0		f20bedcbc4fe980cbe31146aeb3d0efe025a6d29
+io.toolisticon.cute	extension-junit4	1.8.0		3b6d2245c212335464cab4667605d0328430bbf9
 is.codion	codion-swing-framework-model-tools	0.17.17		2a47d94ee063f2932b68e506353ae408b496e648
 is.codion	codion-swing-framework-model-tools	0.17.18		ba79bd99841125b3e40c56a86e902f97b8b63638
 is.codion	codion-swing-framework-model-tools	0.17.19		ac05954a95bc20e6f6750c89aa11b400fdb83efa
@@ -1718,6 +1730,7 @@ org.apache.camel.quarkus	camel-quarkus-geocoder	3.2.1		9976fd94d3960cbb62337438b
 org.apache.camel.quarkus	camel-quarkus-geocoder	3.2.2		9c03c46d9caf26160ded0bed208920432ae0fa4a
 org.apache.camel.quarkus	camel-quarkus-geocoder	3.2.3		e3b7e6e3a3d778e6e17548f3317228ecb2d61c5d
 org.apache.camel.quarkus	camel-quarkus-geocoder	3.20.0		c880014e4662e2cd2a58458a84e5527d28f7cf16
+org.apache.camel.quarkus	camel-quarkus-geocoder	3.20.1		1c15a67dd9c03964d6c0a89ebb460bf445a4cda6
 org.apache.camel.quarkus	camel-quarkus-geocoder	3.22.0		f83f3d7872c8f1b2af9b2437a3452ae8ca459f08
 org.apache.camel.quarkus	camel-quarkus-geocoder	3.4.0		d6c05bf76b05167fdd0aa813bddabfbc394a2e91
 org.apache.camel.quarkus	camel-quarkus-geocoder	3.5.0		d2a2cd23e2b79fa078a1ad6822db84bff5d85d2c
@@ -1750,6 +1763,7 @@ org.apache.openjpa	openjpa-lib	1.0.2		c9f71a4261186e97a0073210cd694f004c648ce5
 org.apache.openjpa	openjpa-lib	1.0.3		50802072c1ea2afae641a835e2c6c80b5de2fc18
 org.apache.openjpa	openjpa-lib	1.0.4		c9ed402c86e7e0a697370273572f38a606838d57
 org.apache.openjpa	openjpa-lib	1.1.0		3c8bcc2fcf305e3b1ca2502bb68cf1c3cd1b78e2
+org.apache.openjpa	openjpa-lib	1.1.0.orig		3103a7bf9f9c71c3bf8ad4bd77b1ba9fffd623ce
 org.apache.openjpa	openjpa-lib	1.2.0		cf2520476aec8875ed5af02426100594ca989530
 org.apache.openjpa	openjpa-lib	1.2.1		63849496211250f701b24e54559010ebc21247d4
 org.apache.openjpa	openjpa-lib	1.2.2		40b831f9f51296e271c0b0475c83d11e82450090
@@ -2115,6 +2129,7 @@ org.apereo.cas	cas-server-webapp-init-config-server	7.2.0-RC6		3bd038c04ea49d26a
 org.apereo.cas	cas-server-webapp-init-config-server	7.2.0-RC6	resources	ad31ab14f9167cb50601480a18653a26ef4fb38b
 org.apereo.cas	cas-server-webapp-init-config-server	7.2.1		0f1e44bb676b5c6683da58c1b2c0f9aee4bb0c6f
 org.apereo.cas	cas-server-webapp-init-config-server	7.2.1	resources	5b5ebe8454fb931179c152188bcfe9c991fc80fa
+org.apereo.cas	cas-server-webapp-init-config-server	7.2.2		53123ec3b136cf2685ea01b18ef2ec5b26a9d8c5
 org.apereo.cas	cas-server-webapp-init-config-server	7.3.0-RC1		df774be65c4d59ff16e124329554863ff349965d
 org.apereo.cas	cas-server-webapp-init-config-server	7.3.0-RC1	resources	b888e8f6cfc0c538211a014e4f0f975bfdf3115f
 org.apereo.cas	cas-server-webapp-init-config-server	v6.4.0-RC5		c3131657de7e99de6ffec0cda0183f5f9d93ded8
@@ -2137,6 +2152,7 @@ org.camunda.community.vanillabp	camunda7-spring-boot-adapter	1.1.2		ce403f757625
 org.camunda.community.vanillabp	camunda7-spring-boot-adapter	1.2.0		b36adc2a5e82d7983492da41b130daaa4481a9ea
 org.camunda.community.vanillabp	camunda7-spring-boot-adapter	1.2.1		fe2a435dcc5b4ccfe1e91357954c9d564009d559
 org.camunda.community.vanillabp	camunda7-spring-boot-adapter	1.2.2		53a2921b5e60ee964bbea67e8af5a7f9c20548d3
+org.camunda.community.vanillabp	camunda7-spring-boot-adapter	1.3.0		de5c555ac79b244f9c1a86ac4f24b4e9a30acb82
 org.chtijbug.drools	droolsjbpm-ide-common	5.6.2.chtijbug		87171f123e654130452be90d3d5a9ed4235c2b78
 org.danbrough.sqldelight	primitive-adapters-androidnativex64	2.0.0-alpha03		N/A
 org.danbrough.sqldelight	primitive-adapters-androidnativex64	2.0.0-alpha04		N/A

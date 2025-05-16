@@ -1603,6 +1603,8 @@ com.google.cloud	google-cloud-service-management	3.57.0		2bf045fbd873934b32f1e4c
 com.google.cloud	google-cloud-service-management	3.58.0		41c3a9b2cbca2f2cb6c103a9e41fb6b3385b033f
 com.google.cloud	google-cloud-service-management	3.59.0		1b7ffc09faaf559ac74d5a42b1b9edb3acebbc24
 com.google.cloud	google-cloud-service-management	3.6.0		0211bb73c3649e1d3abfe24f774fb862b2405163
+com.google.cloud	google-cloud-service-management	3.60.0		11ca0298fd85d3c9e21dc247fef8ddcc9e49e6d4
+com.google.cloud	google-cloud-service-management	3.61.0		5a9f40331664a797ed25ee07e54feb13758c13e1
 com.google.cloud	google-cloud-service-management	3.7.0		f61ab8fad40031d1eb0e0a8c42bbef34de4c3d73
 com.google.cloud	google-cloud-service-management	3.8.0		386c37168594f2bc56174b991fd29a2df6d0df9c
 com.google.cloud	google-cloud-service-management	3.9.0		4ded62b212a32cdadac6128c2d145a379cab04bf
@@ -2124,6 +2126,7 @@ dev.zio	zio-aws-cloudhsmv2_2.13	7.31.27.1		6927332b4c429b9f07abb3b8289726dbacb92
 dev.zio	zio-aws-cloudhsmv2_2.13	7.31.28.1		e0fe06a81c1d014710c52fe1b16339b55038f821
 dev.zio	zio-aws-cloudhsmv2_2.13	7.31.3.1		152b9d49f079caca585bb9d45815448239feea31
 dev.zio	zio-aws-cloudhsmv2_2.13	7.31.30.1		0ab9f3ef6fad28c34265d8e2c7dba0bcf312445b
+dev.zio	zio-aws-cloudhsmv2_2.13	7.31.30.2		d055401fce3fa85cfda727a2b10fb87b44bd62bd
 dev.zio	zio-aws-cloudhsmv2_2.13	7.31.4.1		1b1c733076d1eb2a99b6e4cfd32fc7eabadbe31d
 dev.zio	zio-aws-cloudhsmv2_2.13	7.31.6.1		5f5de50eb87e2ff018b19c59c313a0bfcb0dce31
 dev.zio	zio-aws-cloudhsmv2_2.13	7.31.6.2		fbd860927b716da5c3d6faf95a9fb5f55f289f5c
@@ -2362,6 +2365,8 @@ io.ktor	ktor-server-http-redirect-macosx64	3.1.1		aa0ff6f53ee834f6a18ca1427c2e62
 io.ktor	ktor-server-http-redirect-macosx64	3.1.1	metadata	c7c66775a46e9637ec2f2c912728a3980cdfaeea
 io.ktor	ktor-server-http-redirect-macosx64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-http-redirect-macosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-http-redirect-macosx64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-http-redirect-macosx64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.nacular.measured	measured-jvm	0.1.0		be0cc2113a19c0ec690c747c9b97a4efb902e956
 io.nacular.measured	measured-jvm	0.2.0		5eca3ae0e65562d62f5991941f606dcda3043e19
 io.nacular.measured	measured-jvm	0.2.1		02bbf653294c5c53007b7215ca5a0066a6cc3066
@@ -2445,6 +2450,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-ecli
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-eclipse-osgi-3.6	2.13.3-alpha		436e43d21acee66008ba792d7fbd75a912162efd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-eclipse-osgi-3.6	2.14.0-alpha		62e160a47c39ed3e07dc4d5c1878a46f4bfaf844
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-eclipse-osgi-3.6	2.15.0-alpha		03161009a4eb276de65d17469548426ca8d1a536
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-eclipse-osgi-3.6	2.16.0-alpha		9f0107a2b86243c6ed6b35712f5effbaa1077128
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-eclipse-osgi-3.6	2.2.0-alpha		a10418ab11c2b365ea1f41d9ba2e165a915520c7
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-eclipse-osgi-3.6	2.3.0-alpha		ef7a7a9be409e11962fed4a621b3db12a2252664
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-eclipse-osgi-3.6	2.4.0-alpha		31ea645ee8b2edc5573dfc8dabe514692347828f
@@ -2802,6 +2808,7 @@ org.kiwiproject	dropwizard-curator	2.1.5		65b86b200c450861b2a9cbc407d58581592e59
 org.kiwiproject	dropwizard-curator	2.1.6		88a9a0352d0e1819cb664604761b20fa8cdeccd5
 org.kiwiproject	dropwizard-curator	2.1.7		a66ff84608c00f7a97aa0e9ca59e5c3f0cd3c164
 org.kiwiproject	dropwizard-curator	2.1.8		701ab21400c4998bcb68f0aeafd94c7992340bc5
+org.kiwiproject	dropwizard-curator	2.1.9		c4d8fc1680c5bb27d5705c9af951ebde84db2025
 org.mattrick	enbeet	1.0.2		8929da202cc3ee9ed3b690674d794142fff1ad63
 org.mnode.ical4j	ical4j-zoneinfo-outlook	1.0.3		122c7a08514d98d357b89534ef0f70846b09ba6c
 org.mnode.ical4j	ical4j-zoneinfo-outlook	1.0.4		457f0907aa8635a18369a9a912c77658956c30a9
@@ -3015,6 +3022,7 @@ org.webjars.npm	dhtmlx-scheduler	7.1.1		622f0c371691c51ae844bf7627f56343737d10f1
 org.webjars.npm	dhtmlx-scheduler	7.1.3		28b4d33a0b92767d0a2485938f38788e4391aeaf
 org.webjars.npm	dhtmlx-scheduler	7.2.1		5bb7fac9eb153f5823e343895be1c992d1253657
 org.webjars.npm	dhtmlx-scheduler	7.2.3		c5482655ca2fd26d2f7ae6e07bf8c59a1cbb3679
+org.webjars.npm	dhtmlx-scheduler	7.2.4		7afda20dc6abc65e424704daa3d7bfede780ebea
 org.webjars.npm	doctrine-temporary-fork	2.1.0		404568a00c181696fcfb02004efc2c987b85c2ed
 org.webjars.npm	plotly__point-cluster	3.1.9		159ed5940f6beb26dc8ab3c3a6f749a4020495aa
 org.wso2.carbon.mediation	org.wso2.carbon.task.server.feature	4.6.100		N/A

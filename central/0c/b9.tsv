@@ -188,6 +188,8 @@ com.guicedee.services	azure-identity	1.2.2.1-jre17		4858484f383d44f31c49b844ae1c
 com.guizmaii	zio-temporal-testkit_3	0.6.2		b6c746b478b234a621026af5c71c51c0be3da1a9
 com.guizmaii	zio-temporal-testkit_3	0.6.3		356c9dbce0466b708a50ccd8f9126bf3ef5146f8
 com.guizmaii	zio-temporal-testkit_3	0.6.4		4c503403e1da587b8c45d37b78595ad7d900e259
+com.guizmaii	zio-temporal-testkit_3	0.6.5		a87de11cc78b141fc85d06a144735399f9e0b0db
+com.guizmaii	zio-temporal-testkit_3	0.6.6		7b1608e82307cf0f643d9ec24d5b6a9fd932428b
 com.ibm.sbt	com.ibm.samples.acme	1.0.1		N/A
 com.ibm.sbt	com.ibm.samples.acme	1.0.2.20140527-1807		N/A
 com.ibm.sbt	com.ibm.samples.acme	1.0.3.20140717-1200		N/A
@@ -600,6 +602,8 @@ com.vaadin	vaadin-menu-bar-flow	23.5.12		a39097ff16d60d0c8517bb0c819dacb29ec4be3
 com.vaadin	vaadin-menu-bar-flow	23.5.13		ec612bcf8fb7d68ba49907b72df80a2d327c5bc9
 com.vaadin	vaadin-menu-bar-flow	23.5.14		3c88f3ff2b63dbc31d776df47f3c01feac089be3
 com.vaadin	vaadin-menu-bar-flow	23.5.15		5d7af3905ed381067f7915d3164c1345c91804da
+com.vaadin	vaadin-menu-bar-flow	23.5.16		04981dd0206ecb5b6e1725878e94401fbca75b11
+com.vaadin	vaadin-menu-bar-flow	23.5.17		50baad1e4d66dc832dd05ce41b9e2959d9ec8622
 com.vaadin	vaadin-menu-bar-flow	23.5.2		2ad1f614ea250697050db56cb1ca600c810f0602
 com.vaadin	vaadin-menu-bar-flow	23.5.3		e4c2bc80300d409e270e46571ff0a2f09f0d6674
 com.vaadin	vaadin-menu-bar-flow	23.5.4		eaff64e5eb2e6a4f0f56df4f8966666236a8f16f
@@ -714,6 +718,7 @@ com.vaadin	vaadin-menu-bar-flow	24.5.8		abbff613081f8254b24a33336129db41c3d157ef
 com.vaadin	vaadin-menu-bar-flow	24.5.9		020efd5de5b72603c27e96c166f629ec9f4f3133
 com.vaadin	vaadin-menu-bar-flow	24.6.0		b7715fa9d963086148cf0730f596fca66c19b365
 com.vaadin	vaadin-menu-bar-flow	24.6.1		e3e3f6f73f06175ee09fcdc10c44476390fee811
+com.vaadin	vaadin-menu-bar-flow	24.6.10		2b355a51891269dd328b6750f7b3e894078e4974
 com.vaadin	vaadin-menu-bar-flow	24.6.2		0396ff07aa0f7279a4d4e3e7552406dc350adf5b
 com.vaadin	vaadin-menu-bar-flow	24.6.3		859986074cc633aee2dc4a0867fc1d070d252495
 com.vaadin	vaadin-menu-bar-flow	24.6.4		d77a4d37624543aae61f3e4170997a9807f30c5e
@@ -726,6 +731,7 @@ com.vaadin	vaadin-menu-bar-flow	24.7.0		3926e110ce1e2c584135e5720e838f1361669741
 com.vaadin	vaadin-menu-bar-flow	24.7.1		401f59fbb0093d96aa465f52f6e51a3783ab016a
 com.vaadin	vaadin-menu-bar-flow	24.7.2		3b3b22b7aca518e8173e3580c5ca9958340b2ccc
 com.vaadin	vaadin-menu-bar-flow	24.7.3		97ad408bc2a677eca19c75201434bc2c939e6028
+com.vaadin	vaadin-menu-bar-flow	24.7.4		cb58a355efe8b9f450b8dd42adbf7f4167adae2a
 com.vaadin	vaadin-menu-bar-flow	3.0.0		ba648ddff806e252e0ea8061e377365ba53cd9d9
 com.vk.composable-skippability-checker	compiler-plugin	0.1		9e275185988edceec462e0294469f97c0676ce61
 com.vk.composable-skippability-checker	compiler-plugin	0.2		d0b25c30637a599af176fdb57079ceba252eb50d
@@ -1219,6 +1225,9 @@ io.shiftleft	schema2json_3	1.7.27		05e8e2e718aa18b2e35b325bed0c59e18b30ed28
 io.shiftleft	schema2json_3	1.7.28		3ba6a52af441bbe52e2a80bb6ffaf4f6980b8cd7
 io.shiftleft	schema2json_3	1.7.29		59a08f9a8d3314c38ca5e104828603f09a72800a
 io.shiftleft	schema2json_3	1.7.3		f516d4bef4f8b7844c0def772461ff089fc0e12b
+io.shiftleft	schema2json_3	1.7.30		44fa0c1ef46afc90838cad2005de64136acee1e8
+io.shiftleft	schema2json_3	1.7.31		1ffbb405fff5bb84873cf9cd67bbf2d6a069dfe5
+io.shiftleft	schema2json_3	1.7.32		c648f6500f58853604bbaba8cf849c8fba86165f
 io.shiftleft	schema2json_3	1.7.4		d54ba93d8a366a974f98647909ffb205efd77378
 io.shiftleft	schema2json_3	1.7.5		0bdbca5d38ac2dbedec2abf72b21aae24836f96c
 io.shiftleft	schema2json_3	1.7.6		b5aec1b952b2f7eb6ae0895003397a239343f89b
@@ -1442,6 +1451,7 @@ org.apache.camel.karaf	camel-observability-services	4.10.3		ec46af18b148b806a6ae
 org.apache.camel.karaf	camel-observability-services	4.9.0		21317ddece1d019c5cde29a7f3ea82d082126209
 org.apache.camel.quarkus	camel-quarkus-observability-services	3.19.0		fbfd6cd13dba84db219258bf73269548a00ad9ab
 org.apache.camel.quarkus	camel-quarkus-observability-services	3.20.0		163469547bbff1d93ec86c4d853621221e2ad525
+org.apache.camel.quarkus	camel-quarkus-observability-services	3.20.1		b7db2a5994d83c46e4c537235d995f280aeacb09
 org.apache.camel.quarkus	camel-quarkus-observability-services	3.22.0		2434072b7fe1eb9d9931ca0c7ff8db9e280064ac
 org.apache.camel.quarkus	camel-quarkus-saga-integration-test	1.1.0		969cef45a8b6981668357811672544a04658c231
 org.apache.camel.quarkus	camel-quarkus-saga-integration-test	1.2.0		aa9414c8fdbcd83b9b466733c16a3b2aac294838

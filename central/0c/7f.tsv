@@ -104,6 +104,8 @@ com.github.keyboardDrummer	languageserver_sjs0.6_2.13	0.1.0		c0f8e7b04f37ecc81d5
 com.github.keyboardDrummer	languageserver_sjs0.6_2.13	0.1.2		0a470b0bdd56287884b18d2a3f292e717af810f2
 com.github.keyboardDrummer	languageserver_sjs0.6_2.13	0.1.4		7ef7e60bd0b8bfae9e902557726a1d904a2db364
 com.github.keyboardDrummer	languageserver_sjs0.6_2.13	0.1.6		6198d904303b8790a6d2d8525eb903e2a8e6cf25
+com.github.nbbrd.nbbrd-maven-tools	compatibility-maven-plugin	1.0.0		98aa9f7b1188124782046710bb0cf71abb28f2bd
+com.github.nbbrd.nbbrd-maven-tools	compatibility-maven-plugin	1.0.1		dba75cd0fcea4fd4b5df76b096031d1e5bc5c5ba
 com.github.sebhoss.bom	aspect-bom	2015.11.01		N/A
 com.github.sebhoss.bom	aspect-bom	2015.11.04		N/A
 com.github.sebhoss.bom	aspect-bom	2015.11.22		N/A
@@ -551,6 +553,7 @@ com.vaadin	flow-plugin-base	23.5.1		d14bc9862d79727a154652ab5531fb3506edbe3c
 com.vaadin	flow-plugin-base	23.5.10		853238d317083acc6e47755f6c12344013909fde
 com.vaadin	flow-plugin-base	23.5.11		83c19149e73c915d313892e04b8c3e5ba22cac1c
 com.vaadin	flow-plugin-base	23.5.12		062c1639037b9eae85848ac0d928e27f04af2eae
+com.vaadin	flow-plugin-base	23.5.13		775bfd50427874d4d9a82d7d8a91d42f95b7c8cc
 com.vaadin	flow-plugin-base	23.5.2		9db32d9777069d258c55d8a451706d03dc718644
 com.vaadin	flow-plugin-base	23.5.3		64a4d52132ae39b67c32d3f4b6831e06104fbef9
 com.vaadin	flow-plugin-base	23.5.4		3ea2d59a73fd93a4c97daf7f9aaa1e7438bc5bbe
@@ -671,6 +674,7 @@ com.vaadin	flow-plugin-base	24.6.0		a20c8b4a7a7a3235c435562e3498a99c3e051217
 com.vaadin	flow-plugin-base	24.6.1		d17849a50cf2c15eadefc84db4d7291faaca23f5
 com.vaadin	flow-plugin-base	24.6.10		3a2d98f9efa4326cabfa92397ff0e22b92e96570
 com.vaadin	flow-plugin-base	24.6.11		adbd0b5acdf6e6704f6fc09dace449b08f863996
+com.vaadin	flow-plugin-base	24.6.12		108f6daa6313ce142967bd5719bffe8c1c61d400
 com.vaadin	flow-plugin-base	24.6.2		c10500664f5522fced0af3a8730b3d706056bdcd
 com.vaadin	flow-plugin-base	24.6.3		a62e4d641014d78a23f931f7046547e09238110d
 com.vaadin	flow-plugin-base	24.6.4		a5ff7fc793a5cefeafced97aee959142abed70a5
@@ -685,6 +689,7 @@ com.vaadin	flow-plugin-base	24.7.2		662d8e23036cf6eb8de66e7e8010fbf02b81ddff
 com.vaadin	flow-plugin-base	24.7.3		4a5fae3a790bd774f02147d07f50dd1f3ab4446f
 com.vaadin	flow-plugin-base	24.7.4		6ef2a140ac8a4dfe7662304fe7fdd06f3c79c00f
 com.vaadin	flow-plugin-base	24.7.5		e6df9fe138419d52095fa9826b03dcd2b43b11fc
+com.vaadin	flow-plugin-base	24.7.6		c8b9c73dd2306d4b05db93f0044ab0c3807fd3ac
 com.vaadin	flow-plugin-base	7.0.0		b1ca11e99f8b0491da10aa1bc7935a333ba26fbc
 com.vaadin	flow-plugin-base	7.0.1		0f49df8bc854e555aac797a5909fe5a9b48cd6db
 com.vaadin	flow-plugin-base	7.0.2		3c368d5624a04a48aa09563fefeca6101ea767f9
@@ -1555,6 +1560,7 @@ org.sonatype.nexus.maven	nexus-m2settings-testsuite	1.6.9		204655f257f942a776e9b
 org.sonatype.nexus.maven	nexus-m2settings-testsuite	1.7.0		34118f23363b01424383d8cf2eb83e4e87e783d1
 org.springframework.ai	spring-ai-starter-model-transformers	1.0.0-M7		1ab116024cbc2b880a9ed5137e0d57f0d84ed4b9
 org.springframework.ai	spring-ai-starter-model-transformers	1.0.0-M8		f4443c87478a2c990fb1596765b8f4117c9c3583
+org.springframework.ai	spring-ai-starter-model-transformers	1.0.0-RC1		d02b2fac14bdbd5094dac7e122f89818ef042161
 org.webjars.bowergithub.leaflet	leaflet	0.7.7		394a71e2382c39714ffb70de7d1cc6bc7a027805
 org.webjars.bowergithub.leaflet	leaflet	1.0.1		fbcacc12794bdb1ef6bdc143349d16377c847beb
 org.webjars.bowergithub.leaflet	leaflet	1.0.3		ebdd9bf8e098b624477d9ab70fae33f3766054b5
@@ -1573,6 +1579,8 @@ org.webjars.npm	htmx-ext-sse	2.2.2		bf8362b8a46f80db7e76d1bae06a93b0db1c73b5
 org.webjars.npm	htmx-ext-sse	2.2.3		5f037a62e9feabb76ef25375f8568c359bdc0770
 org.webjars.npm	reactfire	0.5.1		e939774623609b036981bfa24d4811f261a5e8e0
 org.wso2.carbon.event-processing	org.wso2.carbon.event.output.adaptor.mysql	2.0.1		6eecac54a544991f64af54426a016d65258cdead
+software.purpledragon	sbt-jandex_2.12_1.0	1.0.0		59d20017b80804923aae56fbe1bc7e096b4cd6fd
+software.purpledragon	sbt-jandex_2.12_1.0	1.1.0		46a634bcfe325dadae5db7a2547b03dc1459a8c8
 software.purpledragon	sbt-jandex_2.12_1.0	2.0.0		4fb4fe9ded49dbb13a975b1746ed0e193f2b63d3
 tech.mhuang	hmtool-ext-kafka	1.0.0		4ae05fbebaff7f506e8340ad14009d90b8931021
 tech.mhuang	hmtool-ext-kafka	1.1.0		0ac3cc860a223c0f0bb4cb140aa0f8319afb723c
@@ -1616,6 +1624,9 @@ tz.co.asoft	cinematic-live-test-watchosarm64	3.0.8		N/A
 tz.co.asoft	cinematic-live-test-watchosarm64	3.0.8	metadata	0ab87c3c7d23b27c64ffd7ed04c7268cf275ace5
 tz.co.asoft	cinematic-live-test-watchosarm64	3.0.9		N/A
 tz.co.asoft	cinematic-live-test-watchosarm64	3.0.9	metadata	22e5e73fdb42ffdb7a7f288a8bf8b4a3407edeb1
+tz.co.asoft	cinematic-live-test-watchosarm64	3.1.1	metadata	34943da5ae3322979922b0c3233505f8f0868bf3
+tz.co.asoft	cinematic-live-test-watchosarm64	3.1.11	metadata	eeb82daf2ec0ea5376ce9229bc8947c7c4848160
+tz.co.asoft	cinematic-live-test-watchosarm64	3.1.12	metadata	d0b43168099fd59e04c45c982a612efc623aee16
 us.zoom.videosdk	zoomvideosdk-videoeffects	1.10.0		N/A
 us.zoom.videosdk	zoomvideosdk-videoeffects	1.10.1		N/A
 us.zoom.videosdk	zoomvideosdk-videoeffects	1.10.10		N/A

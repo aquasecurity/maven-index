@@ -119,6 +119,7 @@ com.github.arinyaho	inko4j	1.1		02f7f7cc5233d4e8aa380814062545ddd2c4057d
 com.github.arinyaho	inko4j	1.1.1		272628ae3d9d09bb02ef6d8c20284faf9810892b
 com.github.houbb	deep-copy-all	0.0.1		803db9d2bb1b51086e4d4652429c54de805957b5
 com.google.apis	google-api-services-managedkafka	v1-rev20250414-2.0.0		ef13b1cf0a93a35bfccd3dc2d519296a3711e485
+com.google.apis	google-api-services-managedkafka	v1-rev20250508-2.0.0		c7b3da92713ad9767df12c0ab3d5315f4425ca7e
 com.intuit.hooks	hooks	0.10.0		e0f8994b4feda063cccbd6f5445ddbe9f142d5d1
 com.intuit.hooks	hooks	0.10.1		e41f50eb6f043dfdfaa2e8ba7fd0be7e2b7baacd
 com.intuit.hooks	hooks	0.10.2		1c2b08353505e75b9018c71f2121047721771246
@@ -928,6 +929,8 @@ io.camunda	spring-boot-starter-camunda-test	8.6.12-rc1		597de155d65a348dfdff320d
 io.camunda	spring-boot-starter-camunda-test	8.6.13		2d91f8df9dd5b3a5c20a42032dad421dfed0a96d
 io.camunda	spring-boot-starter-camunda-test	8.6.14		16e1c6b3d77b9744fede91596a46f6e31b3fa0c4
 io.camunda	spring-boot-starter-camunda-test	8.6.14-rc1		50c44f579206a2257ef689ef11cb6eed359fe626
+io.camunda	spring-boot-starter-camunda-test	8.6.15		46adc06aa44da25e791541c743b41a11b61db2b0
+io.camunda	spring-boot-starter-camunda-test	8.6.15-rc1		803845b0314ee6f19f716f73bf5e69db03e8a3fd
 io.camunda	spring-boot-starter-camunda-test	8.6.7		ec34ccbffc381df067f845c8ca42b3d611f2f6e1
 io.camunda	spring-boot-starter-camunda-test	8.6.7-rc1		1172a85abc25126e1df39447c2c5267e83f1c1a6
 io.camunda	spring-boot-starter-camunda-test	8.6.7-rc2		80dee7929efebab7857399fd142069bb80bbee95
@@ -946,11 +949,14 @@ io.camunda	spring-boot-starter-camunda-test	8.7.0-alpha5-rc1		377e9f9d729f4f5dd0
 io.camunda	spring-boot-starter-camunda-test	8.7.0-rc3		199bab1e264efd6a47dd9f4d30123ed6299324c9
 io.camunda	spring-boot-starter-camunda-test	8.7.1		fe9a1c98cea7c350ea5860bb3a02030d7fe100f4
 io.camunda	spring-boot-starter-camunda-test	8.7.1-rc1		343581806106eb8aa4dc02a16f64a9af6f3d238c
+io.camunda	spring-boot-starter-camunda-test	8.7.2		45498d4a979567f6d364fdf6fb65db83a1c1d4d9
+io.camunda	spring-boot-starter-camunda-test	8.7.2-rc1		ea008fe01d54d5a7094399318ee16a7aa1eb856d
 io.camunda	spring-boot-starter-camunda-test	8.8.0-alpha1-rc1		35bc6dce03621f44d1aa0ecb81acf78a4fe380de
 io.camunda	spring-boot-starter-camunda-test	8.8.0-alpha2		21269af67eda19f7b26d17ce65118f52c7fe5733
 io.camunda	spring-boot-starter-camunda-test	8.8.0-alpha2-rc1		6764a9b2362c9023b3ee3ba3bd2fd91df081d915
 io.camunda	spring-boot-starter-camunda-test	8.8.0-alpha3		c4a59127fdba141cc5b41823e1eb4b5cedd12010
 io.camunda	spring-boot-starter-camunda-test	8.8.0-alpha3-rc3		49c9b0e6ededb3fdd6f2f487a7073299d55955bd
+io.camunda	spring-boot-starter-camunda-test	8.8.0-alpha4		10c30fbe54eedb8cfd79bcc602adc0912c324b5d
 io.camunda	spring-boot-starter-camunda-test	8.8.0-alpha4-rc1		edb88add196157140bfdece255a05a79d0119122
 io.github.aderan.board2	room-rtmprovider	0.0.1-alpha01		N/A
 io.github.dseelp.kommon	kommon	0.2.2		bcb66cf3f52368474b6f46173c5dc95661703293
@@ -1069,6 +1075,8 @@ io.ktor	ktor-server-partial-content-macosarm64	3.1.1		8b914aa0d73fbc6c9138af14f1
 io.ktor	ktor-server-partial-content-macosarm64	3.1.1	metadata	70e979f736e04571fb49cf50db2016a3e9db1ed0
 io.ktor	ktor-server-partial-content-macosarm64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-partial-content-macosarm64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-partial-content-macosarm64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-partial-content-macosarm64	3.1.3	metadata	7105300cca4e6cc70127a5f9f8584bdee8d86064
 io.rsocket.kotlin	rsocket-transport-ktor-websocket-client-macosarm64	0.15.4		N/A
 io.rsocket.kotlin	rsocket-transport-ktor-websocket-client-macosarm64	0.15.4	metadata	614df36990565193feecdaedd354cd1cee36cdb8
 io.rsocket.kotlin	rsocket-transport-ktor-websocket-client-macosarm64	0.16.0		N/A
@@ -1512,6 +1520,7 @@ org.jetbrains.compose.components	components-resources-macosArm64	1.7.1		N/A
 org.jetbrains.compose.components	components-resources-macosArm64	1.7.1	metadata	9d71a24f5f1a17ab326d91c43db413317c435f8a
 org.jetbrains.compose.components	components-resources-macosArm64	1.7.3		N/A
 org.jetbrains.compose.components	components-resources-macosArm64	1.7.3	metadata	1d19306b2b65fe3821f3f7c3a15e80ec3bc8522b
+org.jetbrains.compose.components	components-resources-macosArm64	1.8.0	metadata	5e93f1bd98dec232585241b4060fac820ecd3a92
 org.jetbrains.compose.components	components-resources-macosArm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.components	components-resources-macosArm64	1.8.0-alpha01	metadata	95fd53f0ee83c944af5024d36cbda3d4b6c28258
 org.jetbrains.compose.components	components-resources-macosArm64	1.8.0-alpha02		N/A

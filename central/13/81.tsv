@@ -487,7 +487,16 @@ aws.sdk.kotlin	kafkaconnect	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	kafkaconnect	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	kafkaconnect	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	kafkaconnect	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	kafkaconnect	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	kafkaconnect	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	kafkaconnect	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 ch.epfl.scala	migrate-rules_2.13	0.3.1		416b4f1681630a0ac4f461b62281f54d2305a36c
 ch.epfl.scala	migrate-rules_2.13	0.3.2		38898644b842ad023f25289752e57fdb5e8d60c8
@@ -744,6 +753,8 @@ com.vmlens	agent-runtime	1.1.1		91fb49e0c5fa655e08337719b987c8b46761ef36
 com.vmlens	agent-runtime	1.1.2		ddff17d93401bfd03618b52fe17a1dbb16222ebf
 com.vmlens	agent-runtime	1.1.4		cc603701a90c8ed2d68ead615521c7d923536883
 com.vmlens	agent-runtime	1.1.5		b29ae2faacc4e6c65b8ea79a446f11e591f6b861
+com.vmlens	agent-runtime	1.2.0		85f3d70d811b81a63429d214e9cd8ab6af90d7ea
+com.vmlens	agent-runtime	1.2.1		2322ac5d958ed076ad36b3f1fed284c171babb68
 com.wudgaby.platform	api-automatic-spring-boot-autoconfigure	1.0.0		aa2573da42e7ae3399e6fad962415734ad0faa03
 com.wudgaby.platform	api-automatic-spring-boot-autoconfigure	1.0.2		6578646ea4e99eaffa9f45d4cb0a30b1a48655c1
 com.wudgaby.platform	api-automatic-spring-boot-autoconfigure	1.0.4		2eb66bf1545447020e36f3988d3fe823f892289f
@@ -856,6 +867,7 @@ io.github.takapi327	ldbc-dsl_3	0.1.0		a3778c58ea35e316d97cc73ba368f36ce1ab6545
 io.github.takapi327	ldbc-dsl_3	0.1.1		b242af6abe41efabc5313d2514c930a4529f5c2c
 io.github.takapi327	ldbc-dsl_3	0.2.0		4ce63821c110f648a25558c17ae3c958399d27fa
 io.github.takapi327	ldbc-dsl_3	0.2.1		6024552480b419d1870021babf007586e8fb70f5
+io.github.takapi327	ldbc-dsl_3	0.3.0		4d4cde0bd3bbb6d04195251ea2be64d3992a8766
 io.github.takapi327	ldbc-dsl_3	0.3.0-RC1		169796dd0cb1440e19725304a062b1622ff6aec0
 io.github.takapi327	ldbc-dsl_3	0.3.0-RC2		5f7b850939fe4cae6cc6b6e6828414b0ad538880
 io.github.takapi327	ldbc-dsl_3	0.3.0-alpha1		d3769637cdb0f4ea7a95320d79a95eb7a9e8bf1a
@@ -1571,6 +1583,7 @@ org.finos.cdm	cdm-java	6.4.0		d59e47a4d5c6e9d428c604d33f51c9c7d4fa7a3a
 org.finos.cdm	cdm-java	6.4.0	main-sources	6a3b9021dfbc5fcfac89adad65601fc5db4b147c
 org.finos.cdm	cdm-java	6.5.0		ee710ba078a5e2d659ce65f4539195cedd40f067
 org.finos.cdm	cdm-java	6.5.0	main-sources	8a43ac75811653b58c5b43d59dea6d66639aeaad
+org.finos.cdm	cdm-java	6.6.0		4a49f8acd6eda5ff76ac2a531ad5b4569285bf48
 org.finos.cdm	cdm-java	7.0.0-dev.1		f1001b4874f507e7eb58ba4dca12dbf62fcd196a
 org.finos.cdm	cdm-java	7.0.0-dev.1	main-sources	4bb2f9e9470d80405870909c612483ead77335fd
 org.finos.cdm	cdm-java	7.0.0-dev.10		d0fc7e7dbef1ae31831257812b4b4e97e9880aeb
@@ -1579,6 +1592,7 @@ org.finos.cdm	cdm-java	7.0.0-dev.11		4ee199e82058d5f41588012e95df9d5ba959f7b9
 org.finos.cdm	cdm-java	7.0.0-dev.11	main-sources	65f74e3c1eeccd3174c346db4c553ac103b77087
 org.finos.cdm	cdm-java	7.0.0-dev.12		2d06fcae8b0df049b3b898f3e02a0ba65417d7a7
 org.finos.cdm	cdm-java	7.0.0-dev.12	main-sources	23a98b4f5b3d569a9f292f04f75a9ce414269253
+org.finos.cdm	cdm-java	7.0.0-dev.13		e0e126134a3dee1e19cdf518ab469d597db81eab
 org.finos.cdm	cdm-java	7.0.0-dev.2		a4df9699335b4eaef419826f4b7c10a0254892b6
 org.finos.cdm	cdm-java	7.0.0-dev.2	main-sources	2baa801a26197b676c3b22981c8d150637daeeef
 org.finos.cdm	cdm-java	7.0.0-dev.4		1862c0dcba68fc447b9b317d6f6b29bdce7529f3
@@ -1684,6 +1698,7 @@ org.wildfly	wildfly-messaging-activemq-injection	35.0.0.Final		c56a00c88d43e3f4e
 org.wildfly	wildfly-messaging-activemq-injection	35.0.1.Final		f1557139384ff2be4359fdd1bc08ae9d8fd403f3
 org.wildfly	wildfly-messaging-activemq-injection	36.0.0.Beta1		f522795ae8aca9ceaea0dc71dcf0eba7fe6cf65d
 org.wildfly	wildfly-messaging-activemq-injection	36.0.0.Final		5d863c5d85a333574d67563e810a842dc7d1b26a
+org.wildfly	wildfly-messaging-activemq-injection	36.0.1.Final		5405e6a0e0abb8e503573a974a95c3e396065285
 pro.felixo	csv-kotlin	1.0.0		d9f0259642f1d3adf5487e99b55a3aeab2b65ddc
 tz.co.asoft	either-core-iosarm64	0.0.31		N/A
 tz.co.asoft	either-core-iosarm64	0.0.40		N/A

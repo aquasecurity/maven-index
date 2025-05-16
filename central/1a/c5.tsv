@@ -968,6 +968,7 @@ dev.zio	zio-aws-acm_2.13	7.31.27.1		19a42d14093bc26bceff47adfca522a6886c3250
 dev.zio	zio-aws-acm_2.13	7.31.28.1		3124a0c607519608fce7731a545a4f74e2a17062
 dev.zio	zio-aws-acm_2.13	7.31.3.1		e74e82a6e92c6987b864bc30a35386b5a5d1929f
 dev.zio	zio-aws-acm_2.13	7.31.30.1		b3abec53d2f6f7bc4e6af3173b65c1ae6c0d9f6d
+dev.zio	zio-aws-acm_2.13	7.31.30.2		1469fc5f89d456639fb6817472e0718cfe160615
 dev.zio	zio-aws-acm_2.13	7.31.4.1		b8f9874a7f36e3aa927c866fea33712b186db354
 dev.zio	zio-aws-acm_2.13	7.31.6.1		fe056053f7e221af2813ccc16db648573da1dabc
 dev.zio	zio-aws-acm_2.13	7.31.6.2		e01ea5b7c58ac32f966253ddc97fbda2b0a669c7
@@ -1177,6 +1178,8 @@ io.indigoengine	indigo-json-circe_sjs1_3	0.17.0		f4b154eb408d3c8df72af77dd9c0924
 io.indigoengine	indigo-json-circe_sjs1_3	0.18.0		97a1ff38890c9fc462405412d5e1088b4e68637a
 io.indigoengine	indigo-json-circe_sjs1_3	0.19.0		87eb4587b5e80c69154c5a4cc9093ffc52e1ce22
 io.indigoengine	indigo-json-circe_sjs1_3	0.20.0		8639844b2290d99059b4f641646848753eb5bc31
+io.indigoengine	indigo-json-circe_sjs1_3	0.21.0		7aeb7814b9857a0ce09e864a37caa57e0209cb60
+io.indigoengine	indigo-json-circe_sjs1_3	0.21.1		cc63b5d7b409b803ee645e960850eff4ba9533f5
 io.indigoengine	indigo-json-circe_sjs1_3	0.8.0		2f58daa112f069d5b778b5d5e2e6803b9c2cf9bc
 io.indigoengine	indigo-json-circe_sjs1_3	0.8.1		9beadc7427a354383c8073666bde9c72a56541ac
 io.indigoengine	indigo-json-circe_sjs1_3	0.8.2		98615909ac17a38a9e7bc5980011787b014fd88c
@@ -1291,6 +1294,7 @@ io.kotest	kotest-property-watchosarm64	6.0.0.M2		N/A
 io.kotest	kotest-property-watchosarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-watchosarm64	6.0.0.M3		N/A
 io.kotest	kotest-property-watchosarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-property-watchosarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.ktor	ktor-server-request-validation-js	3.0.0		N/A
 io.ktor	ktor-server-request-validation-js	3.0.0-rc-1		N/A
 io.ktor	ktor-server-request-validation-js	3.0.0-rc-2		N/A
@@ -1604,6 +1608,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.41.1		0ebe00f64f34
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.42.0		5b8bc32f0feee5da24dde9abb8294dcd25a8e20a
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.43.0		7a420c53c73ac538e60526d42f935f9f4782e41c
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.44.0		9f3513ec5f1df5fd0af7bbff8d0b6a3a6b642e34
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.0		44366b007b5f717dee0022d3a341509f2791f605
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.1		eb73f9ec305ad8eb395fb2397f10e4046b82d1e3
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.10		3af9bf08a734426a923a695439bf5ea06a3804cd
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.11		799461d4c48fc7dc2603f41e284dcff6ef4cfdcd
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.12		5b13120e0ab93fd55b2f029091b27779bf678764
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.13		03de6545cb66302e12d3dede2e089e1112beb1f7
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.3		a70efb02adaaf409f905e8900a991e3cfd1ab38f
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.4		b92cf40b7ed82ab3ffde0f73270e25ae9f0cd23c
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.5		eb0519e653b7d66bba0cc6595a8b892bce963aaf
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.6		dadbb1b26fe165b02864b5d5013a905894d57261
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.7		68191f9df7202ea5d0db3df321cb94f35a1bbbbb
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.8		ab3904cd91189d01fbfc349ba5f7e3ba029f9dfc
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.45.9		81f80e77ebe6637dcbf9704086300e3e6235b4ec
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.5.0		7274ac7fb464f3ad528dcaf2eb1235df128b517d
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.6.0		21d5b4aa7ddc5652f867b78bfb8f37de8dd0d1a6
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-menu	11.6.1		a3adf55662728c4d0df575803368cd060596534c

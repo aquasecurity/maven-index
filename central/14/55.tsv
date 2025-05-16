@@ -351,6 +351,10 @@ io.gitee.javakiller	wxz-common	2025.4.5		66f6d7453841d9c11c205f8ff6ac8370ece4cc6
 io.gitee.javakiller	wxz-common	2025.4.7		861ff4f2973baab3c8da107e0d14e21ad96f3771
 io.gitee.javakiller	wxz-common	2025.4.8		8c43e2e54cf2d888e703c60f12a3f2aaa7b6d34d
 io.gitee.javakiller	wxz-common	2025.4.9		0d67d69bcc1103c36aa1567d997594ec76f02f06
+io.gitee.javakiller	wxz-common	2025.5.10-jdk8		5498219ba2371046206e239216ca9b8fd37d68fe
+io.gitee.javakiller	wxz-common	2025.5.6-jdk17		d96494b73555e6f481a1aa794b5b2b2004cfb092
+io.gitee.javakiller	wxz-common	2025.5.6-jdk8		a326d7b725acb0c4457f8dd5c6d5a36915a7879a
+io.gitee.javakiller	wxz-common	2025.5.7-jdk8		ce7bcc3aa2b2933f0cd22ff0e599bf4879df4268
 io.github.andy-wys	service-orchestration-springboot-starter	1.0.0		8e367559f434314659753f8d14cf7602b518172c
 io.github.aughtone	geohash-multiplatform-iossimulatorarm64	1.0.0-alpha1		N/A
 io.github.aughtone	geohash-multiplatform-iossimulatorarm64	1.0.0-alpha1	metadata	562f5de0267051abf1322d704ea574ac180be5e6
@@ -484,6 +488,7 @@ io.quarkus	quarkus-vertx-http-dev-ui-resources	3.15.2		25a79d51d6cd4a9b80f0920fd
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.15.3		30635cc67aed2e1272d8cac38cc5bea24a1e168d
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.15.3.1		5134526fcba9f929a553e1868a7812f2b4637661
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.15.4		499fa72be99d42d394858c7e6bd62a5cb7db4605
+io.quarkus	quarkus-vertx-http-dev-ui-resources	3.15.5		2dbc0a8e326083f7acd645caf31543ec158586ff
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.16.0		b91b316033a604ba48cd9558081bd77c9a915c8b
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.16.0.CR1		6ff864615efab05f1f0d1c16d786e0fadd35051e
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.16.1		85501e6b0062329dafd3693e8e7ae8f060703077
@@ -528,6 +533,7 @@ io.quarkus	quarkus-vertx-http-dev-ui-resources	3.2.8.Final		45bc9895c8c5cd3b76cc
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.2.9.Final		d10f4f7295bb4392a68a161095c5d22dfa935756
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.20.0		5961683aed32f26ea3e8ca249caef6c76e4e5d11
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.20.0.CR1		5d8bdbeb1c4c3f6e19c195624fbde5f229d83cdc
+io.quarkus	quarkus-vertx-http-dev-ui-resources	3.20.1		6cd0946651d30eb82a0880ae2ab233efbb988ff7
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.21.0		19c0a171fb8cade07f16d1d7164595e3eaff8a11
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.21.0.CR1		a43bdd44b11b9c7890c041a5537a4c2b8622b965
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.21.1		1e0073427b0cd7282f68d1ea2cdbd40a5bc0ea30
@@ -537,6 +543,9 @@ io.quarkus	quarkus-vertx-http-dev-ui-resources	3.21.4		ceca4a717badd0dfc2cb32da4
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.22.0		d15724a9c5621049c884deaeed7cfd0b4dbc923a
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.22.0.CR1		98c9a2f3280a0240febfa43bb13e8cb764f8d36b
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.22.1		c47334bd8347648411a094e90f580a7971f8fc95
+io.quarkus	quarkus-vertx-http-dev-ui-resources	3.22.2		697118135ea3cf894c8e96a87252ba267d3c59b8
+io.quarkus	quarkus-vertx-http-dev-ui-resources	3.22.3		98a2522a470d2ed1784202566afc6bc88bba4ca9
+io.quarkus	quarkus-vertx-http-dev-ui-resources	3.23.0.CR1		3b777979ded6946e7bf848e9f0e67122893d525d
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.3.0		4e63800407d4ba81cb473d40b00b8993efe44548
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.3.0.CR1		d3824adacb502856ba393e1e8a155a79fea02ca3
 io.quarkus	quarkus-vertx-http-dev-ui-resources	3.3.1		ee58bcf0210b77b81ee05aa36cb83bea0e13e506
@@ -690,6 +699,7 @@ org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.2.1		a
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.2.2		34a7f401b873532d84d5a3fcde1f597c319c2bfa
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.2.3		0395efa1bd894d0162b0faf180500113e49b5e9d
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.20.0		e0375834c0aa77581779f1cc3c47e6dd786cd462
+org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.20.1		16032cc92566a609c21725c96c277f5cc24d8963
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.22.0		8bb4601440025a1a4f57796ff7cebead55e32b31
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.4.0		ab95125ca502a998eee6fc29a7e603be584ebd42
 org.apache.camel.quarkus	camel-quarkus-google-secret-manager-deployment	3.5.0		0842642d7dac63462f30b90d23d561a3736d03f6
@@ -2184,6 +2194,8 @@ org.xwiki.rendering	xwiki-rendering-legacy-api	16.10.3		28a1d838bad41ac22d5b31f3
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.10.4		195735e91e591b088807352ab33227cfa0f2c191
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.10.5		ce287869caaa4a20bf41f20848095f499607f72c
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.10.6		e5f88dbe16f55a0d3d9b66ad18135b35448b4b91
+org.xwiki.rendering	xwiki-rendering-legacy-api	16.10.7		bc7276899effffb319555a7154686cfbeaed12bf
+org.xwiki.rendering	xwiki-rendering-legacy-api	16.10.8		a711a7bccba68e1645140ed8bae6a9027dfa3825
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.2.0		bccfb65b464ed226350f94f4159f5e7e32489516
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.2.0-rc-1		472a5a85034aa2f397b77c3358898ad509b7c906
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.3.0		7eaa6c6d59f26a89b2f5ced3cf7144cd27662283
@@ -2198,6 +2210,7 @@ org.xwiki.rendering	xwiki-rendering-legacy-api	16.4.4		4f58167928a2d2fd460d1b00b
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.4.5		336efbee2a78788dafff45d506067b30da5f8679
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.4.6		204096c4f688d27b7c54be1fec5a96e93335d74c
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.4.7		3a697d842beedafe9bc6f68691774eb69bdb6d99
+org.xwiki.rendering	xwiki-rendering-legacy-api	16.4.8		50391cfceaff50d2c5793316597b77c23b9b87ec
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.5.0		dd931eea609a6883905ea9a5ee455e2f9dc57624
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.5.0-rc-1		3ff4933a277b87272938aa8159c2c7d124ab856e
 org.xwiki.rendering	xwiki-rendering-legacy-api	16.6.0		287447a6b662a01c2fbcbb5d9d9d9ff11b1dfe2c
@@ -2476,3 +2489,6 @@ tz.co.asoft	symphony-input-phone-iosx64	3.0.14		N/A
 tz.co.asoft	symphony-input-phone-iosx64	3.0.14	metadata	bf3970b985e7270d7e39956ef2fbc767a33d45b0
 tz.co.asoft	symphony-input-phone-iosx64	3.0.15		N/A
 tz.co.asoft	symphony-input-phone-iosx64	3.0.15	metadata	0a9bf0f96a143038b37c3dac410701fe2a292895
+tz.co.asoft	symphony-input-phone-iosx64	3.1.1	metadata	7d3ae54a58aa5983d79359c032fca2d498fdf22e
+tz.co.asoft	symphony-input-phone-iosx64	3.1.11	metadata	f3bd5b4be5974ebe02b76adb4bcf0db4824cb535
+tz.co.asoft	symphony-input-phone-iosx64	3.1.12	metadata	66b382a41b44781e8c0c04897c044de4e82d6e95

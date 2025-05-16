@@ -157,6 +157,7 @@ com.powsybl	powsybl-computation-local-test	6.6.0-RC1		c7e566c0e0ddf22e63c5a837ff
 com.powsybl	powsybl-computation-local-test	6.6.1		5c101742894c2c321bc757b5a5d324d1a3ea947a
 com.powsybl	powsybl-computation-local-test	6.7.0		c523afdbc1e1164866b92e565c5358e84acf4b7d
 com.powsybl	powsybl-computation-local-test	6.7.0-RC1		7330219802e800733661dbed1fc3637645e785b4
+com.powsybl	powsybl-computation-local-test	6.7.1		fd7395ec23cd1b941f9010ebb5b19ec70f98abb6
 com.sandpolis	sandpolis-core-stream	5.0.2		afbd2c6a2cb67559f54477b0ee6ce77cb38cd0e0
 com.sandpolis	sandpolis-core-stream	5.1.0		ba8473c13ff96a57c64ddfb5a70235f6a39f42f5
 com.sandpolis	sandpolis-core-stream	5.1.1		03a1dd035c35bd77a94c01df9ccddda2a30fd425
@@ -728,6 +729,11 @@ dev.zio	zio-logging-docs_2.13	2.3.1		827f211baff629c3fd87db3f02c29819ea5f24b8
 dev.zio	zio-logging-docs_2.13	2.3.2		b0b6f642f642eeea42f103b6b7ece04ee2efac9f
 dev.zio	zio-logging-docs_2.13	2.4.0		1705d227053afc298a8dd20d620257a024d81517
 dev.zio	zio-logging-docs_2.13	2.5.0		50e7f587394e941efb2889355f8c2d8d2579ccff
+eu.maveniverse.maven.shared	extension	0.1.0		fead253023065280777ddb1b7c2c074e6d7e47a6
+eu.maveniverse.maven.shared	extension	0.1.1		7e9046290b6ce41f4ad12e90b2ab2fe0720b8f56
+eu.maveniverse.maven.shared	extension	0.1.2		7989d816a45b7a8913cb37f1f03dd724262930a9
+eu.maveniverse.maven.shared	extension	0.1.3		39b43a0c4b192f5818f7b52b51a9921011ad2e8f
+eu.maveniverse.maven.shared	extension	0.1.4		8e2c73058c7ff58336052f79f27d2bb07359a053
 eu.vahlas.smef	smef-ast	0.1.0		7c268582d993e18627662fd4c50494c8c3c3d16d
 io.devbench.uibuilder.components	uibuilder-grid	1.0.0		2ceb07e58941f3d3529018f840270c6461a0d9be
 io.devbench.uibuilder.components	uibuilder-grid	1.1.0		e1f595d56f356647664e66cf48c18d2ced6cecdc
@@ -895,6 +901,9 @@ io.quarkus	quarkus-arc-test-supplement-decorator	3.21.4		1af800ad7c26b13d043e2f9
 io.quarkus	quarkus-arc-test-supplement-decorator	3.22.0		ff3e6be56ba85f616c01d5a9d5bec82e575586f3
 io.quarkus	quarkus-arc-test-supplement-decorator	3.22.0.CR1		7ccb90afb479181d224e440a801c8076cad5a851
 io.quarkus	quarkus-arc-test-supplement-decorator	3.22.1		ff9756008bd2ebc19227a05216ce749ed99b28d7
+io.quarkus	quarkus-arc-test-supplement-decorator	3.22.2		f2da2fdceb918b2ce76af920a13872d8ac4d0bd8
+io.quarkus	quarkus-arc-test-supplement-decorator	3.22.3		d9fff9c6ab2f08078e5035148dea7cdf9ea35552
+io.quarkus	quarkus-arc-test-supplement-decorator	3.23.0.CR1		39faa38f95cfbc1d6cdeb8b70276c519d2d3ac5c
 io.quarkus	quarkus-security-webauthn-deployment	2.10.0.CR1		af88c797690f0d5fea792f591154dba2e58cd0fb
 io.quarkus	quarkus-security-webauthn-deployment	2.10.0.Final		987e8ac7042a6d7b3839dfa7d398ae40da190da5
 io.quarkus	quarkus-security-webauthn-deployment	2.10.1.Final		718dd0fb15a9c02e1e982f3247797254a0dda92f
@@ -1001,6 +1010,7 @@ io.quarkus	quarkus-security-webauthn-deployment	3.15.2		8297f015e6561a6ff6dcfc14
 io.quarkus	quarkus-security-webauthn-deployment	3.15.3		7f3076acf319b1fb548d5fa0ad10085f7354df8a
 io.quarkus	quarkus-security-webauthn-deployment	3.15.3.1		116db9c935be7a5195a8b4b2d6858bde31a83234
 io.quarkus	quarkus-security-webauthn-deployment	3.15.4		ad63f5158d07d2afe9e4f72b02c5e5b17444b75b
+io.quarkus	quarkus-security-webauthn-deployment	3.15.5		e2b869d5de6c3ed0f76daaf16ec0876e8b4e5c8b
 io.quarkus	quarkus-security-webauthn-deployment	3.16.0		a1c4a7d3a7d334b5e8d6df977f5935ba6565a4a7
 io.quarkus	quarkus-security-webauthn-deployment	3.16.0.CR1		c1ac598533edb526e5fdc941f2dfef6911dda8f6
 io.quarkus	quarkus-security-webauthn-deployment	3.16.1		656d357237b4ba64d331d9f7961645ce4e89a73f
@@ -1045,6 +1055,7 @@ io.quarkus	quarkus-security-webauthn-deployment	3.2.8.Final		92ba9238649c42f105c
 io.quarkus	quarkus-security-webauthn-deployment	3.2.9.Final		9bd1dc10b29f96c0dc77bbc3df8de699e5eccfd6
 io.quarkus	quarkus-security-webauthn-deployment	3.20.0		9ea080ce7f35c082a2e779bdcfd721776327abd0
 io.quarkus	quarkus-security-webauthn-deployment	3.20.0.CR1		691d5f9d8d5c7f36c79b443261d5b9e2137dc4e8
+io.quarkus	quarkus-security-webauthn-deployment	3.20.1		7d6b4c278b68069e86edfaa2e59d018cffa301eb
 io.quarkus	quarkus-security-webauthn-deployment	3.21.0		18423db344b23df8848e453286fd1faf585006f7
 io.quarkus	quarkus-security-webauthn-deployment	3.21.0.CR1		37dc76a992e693f12fe418a3926685dc08af6181
 io.quarkus	quarkus-security-webauthn-deployment	3.21.1		00121ab6cf932bbfaa24c75475c34fd104885f66
@@ -1054,6 +1065,9 @@ io.quarkus	quarkus-security-webauthn-deployment	3.21.4		58618f1d6b2dbf1521cde348
 io.quarkus	quarkus-security-webauthn-deployment	3.22.0		9dde663bf99a6deabaa84be97f76e8ce7e888d76
 io.quarkus	quarkus-security-webauthn-deployment	3.22.0.CR1		51ad9269560342fff3ce169872eb7d8dba264523
 io.quarkus	quarkus-security-webauthn-deployment	3.22.1		8a41ad976889243b146faec0fb8435f9545b44e4
+io.quarkus	quarkus-security-webauthn-deployment	3.22.2		2df0c16bfd0de33073f579a22fb80fb7e59171a0
+io.quarkus	quarkus-security-webauthn-deployment	3.22.3		20ffa1a976ba9cb94d8c1fc33921a6896e3760c1
+io.quarkus	quarkus-security-webauthn-deployment	3.23.0.CR1		0ab35ba08fb1bcab276dcf054fe746bbc56d275b
 io.quarkus	quarkus-security-webauthn-deployment	3.3.0		6c511768a64f980682abb2575109f914d7e4f1ac
 io.quarkus	quarkus-security-webauthn-deployment	3.3.0.CR1		2a2282010e09823a526944202a2eadde51157286
 io.quarkus	quarkus-security-webauthn-deployment	3.3.1		9039fed66f1bc0daf9a7e11da9b8da1ae2d523a6
@@ -1323,6 +1337,7 @@ org.jfrog.buildinfo	artifactory-maven-plugin	3.5.3		2c182c2ac7d03db41e7b8c172edf
 org.jfrog.buildinfo	artifactory-maven-plugin	3.6.0		f90406b92ddb3e208a23ee9e663c94621122adce
 org.jfrog.buildinfo	artifactory-maven-plugin	3.6.1		b9dd4002b14b181d4e7744d76c7cb025cfa86727
 org.jfrog.buildinfo	artifactory-maven-plugin	3.6.2		2c217d816e8ecd97efd90b3e0a87be70cfb7d098
+org.jfrog.buildinfo	artifactory-maven-plugin	3.7.0		8ab6168bbcfa70aa9ddbd767cc8843117fa64e69
 org.kill-bill.billing	killbill-osgi-bundles-test-beatrix	0.10.0		0cb145b118694c907d0fb675445ce57d6755b22b
 org.kill-bill.billing	killbill-osgi-bundles-test-beatrix	0.10.0	jar-with-dependencies	33996cebda3e0e1fa4da242445cd1f742c3e4aab
 org.kill-bill.billing	killbill-osgi-bundles-test-beatrix	0.10.1		10aa70c2960d1afdca0ffd7dffa6c3c0923de04f
@@ -2739,6 +2754,7 @@ org.sdase.commons	sda-commons-server-kafka	7.3.13		0d66b84db7f3633043c3570cf3377
 org.sdase.commons	sda-commons-server-kafka	7.3.14		b0853019e129911974450b30a2018c8fba012320
 org.sdase.commons	sda-commons-server-kafka	7.3.15		c181b4b2b10d4f99369b163836f352ec93fba3df
 org.sdase.commons	sda-commons-server-kafka	7.3.16		da6917310c59ac49ad385ea87c2cd06dc2de0912
+org.sdase.commons	sda-commons-server-kafka	7.3.17		a3272e41ad204418efa3b26d7663985629c1376e
 org.sdase.commons	sda-commons-server-kafka	7.3.2		be1ee0164e63eb4fa78470882857dccb1539bf27
 org.sdase.commons	sda-commons-server-kafka	7.3.3		37c754d51053e5d82984a825b811d6c545e5820c
 org.sdase.commons	sda-commons-server-kafka	7.3.4		89082f6782f5eae608775bfae1b401c402cf0915
@@ -2747,6 +2763,10 @@ org.sdase.commons	sda-commons-server-kafka	7.3.6		871980bb6f47b3b2955f11a7fb9c0b
 org.sdase.commons	sda-commons-server-kafka	7.3.7		1dfd1d4d750e1b5f5bf9a7a6570baf755059ac01
 org.sdase.commons	sda-commons-server-kafka	7.3.8		c3e1baddc817fba06d0f3258532f104ed0915a54
 org.sdase.commons	sda-commons-server-kafka	7.3.9		7314a1e29efc08a97063890e4d8e944ceab1515e
+org.sdase.commons	sda-commons-server-kafka	7.4.0		70a2133a7447f85331ad9ec4a95ca609957c9672
+org.sdase.commons	sda-commons-server-kafka	7.5.0		3097ab4c465e8d8b2dd4dfaa5dd496476a610b32
+org.sdase.commons	sda-commons-server-kafka	7.5.1		0554d815baa72bd6838b40ae9d03d87f3aec6530
+org.sdase.commons	sda-commons-server-kafka	7.5.2		cec7a6258929d300e9c8bfe86ee9de9131cd9e55
 org.springframework.cloud.stream.app	groovy-transform-app-starters-build	1.1.0.RELEASE		N/A
 org.springframework.cloud.stream.app	groovy-transform-app-starters-build	1.1.1.RELEASE		N/A
 org.springframework.cloud.stream.app	groovy-transform-app-starters-build	1.2.0.RELEASE		N/A
@@ -2781,6 +2801,7 @@ ru.iris	noolite4j	1.2.7		481f258b3adbf2d99d5f6e2c20438d4bde8b5430
 tools.jackson.module	jackson-module-guice	3.0.0-rc1		83369bcd3d1f0a53d0eaf6194cc6aef0eb78323b
 tools.jackson.module	jackson-module-guice	3.0.0-rc2		673768f3f8d31f6bf2143d741da9692bcbe8b942
 tools.jackson.module	jackson-module-guice	3.0.0-rc3		f83c0e9bb7648c70d3f1092ac960c78efa50f453
+tools.jackson.module	jackson-module-guice	3.0.0-rc4		5cb6452a02a497e6a6a0d1b4b9b3c65db2129abe
 ws.unfiltered	unfiltered-netty-websockets_2.12	0.10.0		19ec7c352f7c4ac7e1551e8c8d2e2dca91bddd33
 ws.unfiltered	unfiltered-netty-websockets_2.12	0.10.0-M1		95bc5abfc64af7b7cc21dbb4ec6fa7cf8f2a9f9a
 ws.unfiltered	unfiltered-netty-websockets_2.12	0.10.0-M10		504d75860fc67cf62a95b12d077df9ee13ce013f

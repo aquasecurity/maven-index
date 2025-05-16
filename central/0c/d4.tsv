@@ -23,6 +23,7 @@ ch.epfl.scala	scalafix-rules_2.12.20	0.13.0		574d2560abb6f38a5a5b1ed8b9e2648201e
 ch.epfl.scala	scalafix-rules_2.12.20	0.14.0		fc6c64c9c8a7a354283c058156f50d6d349db5fb
 ch.epfl.scala	scalafix-rules_2.12.20	0.14.1		a82025f8ee483de37c21c6d78fb001c878558ff9
 ch.epfl.scala	scalafix-rules_2.12.20	0.14.2		9a412d7eaed94e65bdde161ee156c90510a0b0fe
+ch.epfl.scala	scalafix-rules_2.12.20	0.14.3		a4046b1af911fb8efbcea56c1d21e9c1d40c3c72
 ch.ifocusit.livingdoc	livingdoc-maven-plugin	1.0		84efa52e5f1a506620cff91ba93ad01bfc42d808
 ch.ifocusit.livingdoc	livingdoc-maven-plugin	1.1		ee5bd5bf850b82b20240683410434b10545c72c9
 ch.ifocusit.livingdoc	livingdoc-maven-plugin	1.10		5924e7d9d79a7ce94774fac727c414909436c655
@@ -123,6 +124,10 @@ com.aliyun	aiccs20230516	1.0.3		4a4b86fdca79dcae4afacd4f7cea2269b1ca8697
 com.aliyun	aiccs20230516	1.0.3	shaded	6d6e095d9d7c6bcd1d89d2cecf0372d0efe018e4
 com.aliyun	aiccs20230516	1.0.4		03a151f69aaa00ae78090813dec1efd75e1a63a7
 com.aliyun	aiccs20230516	1.0.4	shaded	9832a21e7df1d7b8b818fd417539c4e92b7d6bf5
+com.aliyun	aiccs20230516	1.1.0		7620a5cae1a082179c8b5e62591aa35a90a87c6d
+com.aliyun	aiccs20230516	1.1.0	shaded	104c3e99fcac4ffca9be098fffee92af2299486c
+com.aliyun	aiccs20230516	1.1.1		80dfd82c3af076ffbe91d7ad9d3b1509de5881c9
+com.aliyun	aiccs20230516	1.1.1	shaded	8abd9561a2013beb6c5f405b2fc1f7598720bc81
 com.aliyun	dataworks_public20200518	0.0.2		fb4d5073768be2157bb1872e9172cf05935d5ec1
 com.aliyun	dataworks_public20200518	0.1.0		22446e1e58bb25d75c38fb173429b91896d5dda6
 com.aliyun	dataworks_public20200518	0.1.1		7f8ce4ba690ae7c71e3845b7983534b3d01d7af9
@@ -735,12 +740,14 @@ dev.programadorthi.state	coroutines-mingwx64	0.0.5		N/A
 dev.zio	zio-delegate_2.12	0.0.3		0e3990f3700006c3e89738cb51260126e4088394
 dev.zio	zio-delegate_2.12	0.0.4		54203d4788ee71b709b9a35b51cb95b3efedb38e
 dev.zio	zio-delegate_2.12	0.0.5		d1701c3b30006ed8303300c7d7c0986f9dfcaab6
+eu.edoardovencia.sbt	xsbt-filter_2.12_1.0	0.5		5c2c984d02538c257b16e263b8bcc42840be051a
 fun.parser	parserkt-util-js	2.6		a6808904bdbf0216f8042fa047786b08091cf970
 int.esa.ccsds.mo	api-area004-v001-mc	10.1		d719f595233e164fa53315ffd6d3d0bda141d7b0
 int.esa.ccsds.mo	api-area004-v001-mc	11.0		28ae258232b5acacbbf77cdba755835c217dc4a5
 int.esa.ccsds.mo	api-area004-v001-mc	11.1		13406a29f5bdba9c76a96426bc9dea43d8a10c45
 int.esa.ccsds.mo	api-area004-v001-mc	11.2		a4b645d2e25b75234f45f3cdf0e31b2a088581b3
 int.esa.ccsds.mo	api-area004-v001-mc	11.3		1dbf09879bbe4788f11f6503fbb4508c6b17a1c2
+int.esa.ccsds.mo	api-area004-v001-mc	12.0		268a12805f62430eddcf80ceb793f12ea89b7e59
 io.atlasmap	atlas-itests-core	1.17.0		76242338de57cd7905bb8d1dfadac1d79a181125
 io.atlasmap	atlas-itests-core	1.18.0		632e8403cf39fbce83860af6d52ce122722cee72
 io.atlasmap	atlas-itests-core	1.19.0		84b62344208848ce48c482e9ae82b693b3398fbb
@@ -1198,6 +1205,7 @@ org.apereo.cas	cas-server-support-webconfig	7.2.0-RC6		dbdabc79b950841eb7be6bb8e
 org.apereo.cas	cas-server-support-webconfig	7.2.0-RC6	resources	8b82a58fb739fadf49228015b507fc27575ca428
 org.apereo.cas	cas-server-support-webconfig	7.2.1		d1ced118fb92b0984b569967c7d0e9089f125dfd
 org.apereo.cas	cas-server-support-webconfig	7.2.1	resources	e33c01bdc40c6d43102709351458bf0063fab4b0
+org.apereo.cas	cas-server-support-webconfig	7.2.2		82e4e210effbab9a4bbf19f42badc3a4ca5c279b
 org.apereo.cas	cas-server-support-webconfig	7.3.0-RC1		4b0edd4cb42f78819711e1672df5b8b69331e754
 org.apereo.cas	cas-server-support-webconfig	7.3.0-RC1	resources	2260c03cb4174f434d011807f50e7d392e74f310
 org.atlanmod.zoo	emf.types	1.0.1		604d98bf8cd43726d05f9512c421385c2939f27a

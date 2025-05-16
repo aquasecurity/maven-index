@@ -139,6 +139,7 @@ com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.17.8		76535b79a12754
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.17.9		ae5f0db16d9a70e8acf67ba2187322c2269c63d1
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.0		759a1bb466ec0c7f4d3309107303a4442083bf6b
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.0-1-19acfb2		bed049bfcc91eb1d2fb956af5939c4f2b1039281
+com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.0-1-26737b4		5ee1895e6169ff8046f8828ee19938e94ffa8ccd
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.0-1-5a26ba3		eec9a8daafb7d210084e1087a6196c8472041b10
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.0-1-8d943ab		0fabc6d2c48893f39895c9e7597a8753408c70da
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.0-1-b0aa866		16ef7df6606e9f01c9e8bfc38ef00bcc167a3718
@@ -265,6 +266,7 @@ com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.31		79512d89e852e
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.32		9ca34e28e683fd5c13ec070d19f7693a14136b48
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.33		adfcc463534d9c363662f770fe8479dcb2f18962
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.34		c92b37ae5211c3a37aa2607ee5e72647c870c11d
+com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.35		e2c6101a2309ae575cf05b4586cac7310ddc3ab3
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.4		317ab196949d408d4a6547f9853ef485a249f0c5
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.5		dd98a9a05b7abc1fe814a73f832c6eccf5fac26f
 com.disneystreaming.smithy4s	smithy4s-http4s-swagger_2.13	0.18.6		7727fafb4d6ec9fc17cecadea94a7597df6c38d1
@@ -1320,6 +1322,12 @@ io.netty	netty-transport-native-unix-common	4.2.0.RC4	linux-riscv64	118f371c068f
 io.netty	netty-transport-native-unix-common	4.2.0.RC4	linux-x86_64	52d3c0e8b09d0525a8727dab74237ac34c5816fc
 io.netty	netty-transport-native-unix-common	4.2.0.RC4	osx-aarch_64	f8f4bf91dd5754fb75d321d24cff5f63e66f97e3
 io.netty	netty-transport-native-unix-common	4.2.0.RC4	osx-x86_64	16f49e4094554bc5e9e5a3ebcb1c329aeb405e58
+io.netty	netty-transport-native-unix-common	4.2.1.Final		9edcc29edb12cb33890e6de025fbb60cc3846d6d
+io.netty	netty-transport-native-unix-common	4.2.1.Final	linux-aarch_64	a440557c9567fb861cbcf7a74ff2f9c3d642d0b7
+io.netty	netty-transport-native-unix-common	4.2.1.Final	linux-riscv64	8e1b0f79132ddd2219900d1f69ec15dcc744f25c
+io.netty	netty-transport-native-unix-common	4.2.1.Final	linux-x86_64	b076e9d81fd8228d79c2f2b77a997372080f90d8
+io.netty	netty-transport-native-unix-common	4.2.1.Final	osx-aarch_64	751578def4620eca34e00c08214fa5e25ad4d0e6
+io.netty	netty-transport-native-unix-common	4.2.1.Final	osx-x86_64	b0ea4e30d8fdd744a3cc652586ea239be52314db
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	0.12.0		bd8d3bdf5e7b7defba0a8c68a85416c17f32eaea
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	0.12.1		41f7f691745e4bca57a740e5f7a3b9559e1228f8
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	0.13.0		0d8af2125f065f01f2c7888f3b51c91204e9396d
@@ -1416,6 +1424,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2.13.3-alpha		9bb2b3110c2d7bad407e6e0a72729791809b5128
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2.14.0-alpha		43e1e6f36a8cb171add83bd52d17a27995274a8e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2.15.0-alpha		d5363b989b561d7263347582213e3b9b80a50f10
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2.16.0-alpha		d0e83a159dd7b9e7d7827f81ebe276f7eefbdbcc
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2.2.0-alpha		d4adf5ce7ba7fe1a7835ebe3d157adc63897c46c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2.3.0-alpha		6fcaefc787b722c04649cfeb6fb16f60ce36ef49
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-2.1	2.4.0-alpha		3f7a256bbafd3796b54c966cfef7c76385799311
@@ -1846,6 +1855,7 @@ org.cristalise	cristalise-js-rhino	5.5.0		dd37409df03eea3b627ecd303356eadec54569
 org.cristalise	cristalise-js-rhino	5.6.0		d3f750df56932b97897bd549965103bddbe271ed
 org.cristalise	cristalise-js-rhino	5.7.0		0f809f9e55c0968d94188b5bc11695e69cdbd9f6
 org.cristalise	cristalise-js-rhino	5.7.1		1b6bc591632b03655d0367db6a1f8fdbb21054e3
+org.eclipse.apoapsis.ortserver	tasks	0.6.0		c895344120c8754254c905f7166a649bca6836b6
 org.eclipse.hawkbit	hawkbit-rest-parent	0.2.0		N/A
 org.eclipse.hawkbit	hawkbit-rest-parent	0.2.1		N/A
 org.eclipse.hawkbit	hawkbit-rest-parent	0.2.2		N/A

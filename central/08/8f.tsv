@@ -120,6 +120,7 @@ com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.10.6-preview		
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.10.7-preview		cccd4277f4dc0016b77c1950ad00c39d3a6d8e47
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.10.8-preview		e62f3b0caf8b59d4190378d4fe1ae719a3aa8db8
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.10.9-preview		f9b2017f8260b7d44e7f0e760404b7edb24a6e99
+com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.11.0-preview		f07ff31ce701b8b21bdbc968973d93ea8547d458
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.2.0-preview		ec6cf9bbb90fe90aecd67bfe238c664f71e850d5
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.3.0-preview		1b5fdbfa245afceb92b8ee371832dda88fbe19cc
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	4.3.1-preview		cbd42ab330a22b3e4b1504f812e6f87f4b06ce18
@@ -151,6 +152,7 @@ com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.11.0-preview		
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.11.1-preview		a36f07cc156e9b21e65e787a71344f62dfc4c383
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.11.2-preview		1c783e99998463359a2ba7e8304003c67ce35d88
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.11.3-preview		a57beee0c3293c6e563785375eaedda0426f78d0
+com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.12.0-preview		d2458252c221b2db92afd267d70ad60eb70f06bc
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.2.0-preview		da2ed4eb8614fc55b20b07939de07ccf5141059e
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.2.1-preview		1244956affd4dd0385b13c0115ee283904d103a0
 com.google.cloud	google-cloud-dataproc-metastore-spring-starter	5.3.0-preview		73d6083db52c386de5b8c32f094db36ebd8c9806
@@ -1470,6 +1472,7 @@ com.vaadin	flow-server-production-mode	23.5.1		d40653c823ecd6752fdba237cf62dd9b7
 com.vaadin	flow-server-production-mode	23.5.10		03873000cccca224705f89cdbd856d1c865f1d56
 com.vaadin	flow-server-production-mode	23.5.11		d9951056325ef8628a05a8b0fa81fdfd9db5dcb4
 com.vaadin	flow-server-production-mode	23.5.12		1fad4655335394ff570d6f6a4969e666f3c22708
+com.vaadin	flow-server-production-mode	23.5.13		10b3f62916f082859db4a3d26526ea3fbdc70736
 com.vaadin	flow-server-production-mode	23.5.2		d7d95cab228c09d4be43430c0e93bf93a9a72527
 com.vaadin	flow-server-production-mode	23.5.3		38269a79ef794847b364b99c89c77c6bed539e55
 com.vaadin	flow-server-production-mode	23.5.4		b5f309132cb4a17b7da9c900ec9f3fac6a127cd7
@@ -1590,6 +1593,7 @@ com.vaadin	flow-server-production-mode	24.6.0		08ed6308024e21f5c5267e4e1be2394bc
 com.vaadin	flow-server-production-mode	24.6.1		d2e0c0386da0e0378312e9f5cba83a628077a755
 com.vaadin	flow-server-production-mode	24.6.10		c2e9b86545a552ab42a9e3fa07f9fe6735855886
 com.vaadin	flow-server-production-mode	24.6.11		c8d1bf9058dae60bceceee0a786c984508363ce4
+com.vaadin	flow-server-production-mode	24.6.12		b62cd524b755c797bd022d4c0a71ea647f6c89d3
 com.vaadin	flow-server-production-mode	24.6.2		c0f9b0f3593006119af059c4519bda38d3a74982
 com.vaadin	flow-server-production-mode	24.6.3		da28829c2504e6440d2e51669b691daccacdec3e
 com.vaadin	flow-server-production-mode	24.6.4		5e8885a8484c9db39a6c0aa06807328dd25d4a75
@@ -1604,6 +1608,7 @@ com.vaadin	flow-server-production-mode	24.7.2		37d3246a8bba5eb80e32f96fdbb8feb27
 com.vaadin	flow-server-production-mode	24.7.3		c6e11793f30aab260a8d51220e8fc8c709f67215
 com.vaadin	flow-server-production-mode	24.7.4		f5554f3e3ac2167abe7624a69beb5c6eea2307c2
 com.vaadin	flow-server-production-mode	24.7.5		fd10a8f16edcbd8bdb39740eef7f1e422c34125d
+com.vaadin	flow-server-production-mode	24.7.6		039b00013fceb2c7f87bb61b4b5f8d8a2a6f88ff
 com.vaadin	flow-server-production-mode	3.0.0		369464e36e85fdeac9b8f454f2edfc084d11ec01
 com.vaadin	flow-server-production-mode	3.0.1		cb7a4bab53f64a21b9fb1a9f9ffdd673ef002961
 com.vaadin	flow-server-production-mode	3.0.2		b7c73352725aa924416c5521e6ab726ced6988f5
@@ -2178,6 +2183,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-json-tvosarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-json-tvosarm64	0.6.1	metadata	7538cdf1c27c4d6c4813f4bcab88794e3d8f8eef
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-json-tvosarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-json-tvosarm64	0.6.2	metadata	28a06821fe0deecc6109b0374408f379eefc3818
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-json-tvosarm64	0.7.0	metadata	25d05721434b37d2719d568755e1207333dcb00e
 org.jibx.schema.org.opentravel._2011B.ws	opentravel-touractivity-ws-service-archetype	1.0.3		9de45afafafe93280234f784bf451d178db4ff29
 org.jibx.schema.org.opentravel._2011B.ws	opentravel-touractivity-ws-service-archetype	1.0.4		01a3209570c030474208379dfa3337bb50b8ffb9
 org.jibx.schema.org.opentravel._2011B.ws	opentravel-touractivity-ws-service-archetype	1.0.6		439ec629892683ec912da5c249a9a74f82b2f65a

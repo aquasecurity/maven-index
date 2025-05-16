@@ -872,6 +872,7 @@ dev.zio	zio-aws-servicequotas_2.12	7.31.27.1		044dbe423cae739f8de442b972b65ac180
 dev.zio	zio-aws-servicequotas_2.12	7.31.28.1		9121c531fb02c10d826a5cd952b67d653aede4fe
 dev.zio	zio-aws-servicequotas_2.12	7.31.3.1		11fb269a956283d1e6bd024c1a0d3f3e252b55c0
 dev.zio	zio-aws-servicequotas_2.12	7.31.30.1		d6a91fa53e20684ec1622c02bc023ecb345fca95
+dev.zio	zio-aws-servicequotas_2.12	7.31.30.2		e87a8c9a8b5e4ed599bfe5856d1a76d629c175a4
 dev.zio	zio-aws-servicequotas_2.12	7.31.4.1		754ad768c234f758ab88f637b10ea28c0937528e
 dev.zio	zio-aws-servicequotas_2.12	7.31.6.1		dae362faf05d556e7d90252789af36f9c4563dbb
 dev.zio	zio-aws-servicequotas_2.12	7.31.6.2		f769e52c2fe728a2b410d2a28b8072f8ee1a257f
@@ -1245,6 +1246,7 @@ io.ktor	ktor-client-encoding	3.0.3		109f56312461f2e3199c093ac1a8bfaabdcb7e71
 io.ktor	ktor-client-encoding	3.1.0		4300039a8b7aa79194bf1f3d0754d5efa4ed738c
 io.ktor	ktor-client-encoding	3.1.1		4300039a8b7aa79194bf1f3d0754d5efa4ed738c
 io.ktor	ktor-client-encoding	3.1.2		9ca81ed90c4a71b51087f9a2423e17327d44d3bf
+io.ktor	ktor-client-encoding	3.1.3		9ca81ed90c4a71b51087f9a2423e17327d44d3bf
 io.quarkus	quarkus-devservices-keycloak	3.16.0		4f05a6aa1eaf9118e023d77ed38a3ff4b52bf302
 io.quarkus	quarkus-devservices-keycloak	3.16.0.CR1		91582af9bf7283398ad47cc78613d21d2632b940
 io.quarkus	quarkus-devservices-keycloak	3.16.1		d5916c1828985e311c2289544e9dce0c3bd38a71
@@ -1275,6 +1277,7 @@ io.quarkus	quarkus-devservices-keycloak	3.19.3		73b0f22424b6011c26cb1cad60556404
 io.quarkus	quarkus-devservices-keycloak	3.19.4		f4a69c929828d52761721948c433fe2e6c1a3c08
 io.quarkus	quarkus-devservices-keycloak	3.20.0		ec1faa92d32ecfe4021722d6422049d8ce3f2c90
 io.quarkus	quarkus-devservices-keycloak	3.20.0.CR1		55c44f52b1896d9a5423039c4e8875ea5ed869c3
+io.quarkus	quarkus-devservices-keycloak	3.20.1		85ed60559d0264f45f5ba80b94812eeefb87c698
 io.quarkus	quarkus-devservices-keycloak	3.21.0		c591b922b2469816a19fc3a49dc1990765701149
 io.quarkus	quarkus-devservices-keycloak	3.21.0.CR1		9c9b5e8d7f5c8286c9d484ff004ebda7531c346d
 io.quarkus	quarkus-devservices-keycloak	3.21.1		dbc77d900bdf5ebee2a2ac83b37ecb380cfc8847
@@ -1284,6 +1287,9 @@ io.quarkus	quarkus-devservices-keycloak	3.21.4		5c442aeacbf8655e92056e58655e9987
 io.quarkus	quarkus-devservices-keycloak	3.22.0		b72758638a56c0d9a3f661ad4463a96edfdbf380
 io.quarkus	quarkus-devservices-keycloak	3.22.0.CR1		18e8fed2c4e2a483601773d9de980dca0e212ff9
 io.quarkus	quarkus-devservices-keycloak	3.22.1		41d519c0660c0040f5a5861721b0a6082ee1f851
+io.quarkus	quarkus-devservices-keycloak	3.22.2		f487ee10a47be453c63b6b76c848dd1f82eeb7e9
+io.quarkus	quarkus-devservices-keycloak	3.22.3		1247ae68f846ec391acc166d496f9142b96d2d31
+io.quarkus	quarkus-devservices-keycloak	3.23.0.CR1		6181a31726904553766b1e78cf0f90d34438913e
 io.rsocket.kotlin	rsocket-ktor-client-macosarm64	0.15.4		N/A
 io.rsocket.kotlin	rsocket-ktor-client-macosarm64	0.15.4	metadata	4bdc81c898dafaa8c7eaf256eb2fd208b332b733
 io.rsocket.kotlin	rsocket-ktor-client-macosarm64	0.16.0		N/A
@@ -2555,7 +2561,18 @@ software.amazon.awssdk	pcs	2.31.30		f7d6ca67de736c2224d632e9335c1b09917d00ce
 software.amazon.awssdk	pcs	2.31.31		f46b14ab1ffd0c9090dde445b25eb810194d8910
 software.amazon.awssdk	pcs	2.31.32		633024de4f129c00ed744cd57cca681a81221b1f
 software.amazon.awssdk	pcs	2.31.33		3fd86df9f208698e57a8b0054cd06ab15d11415b
+software.amazon.awssdk	pcs	2.31.34		7481fd911b2061e933e0792079c95d22e974e892
+software.amazon.awssdk	pcs	2.31.35		575efdbe1613726c1893752c785bc2480f3847a5
+software.amazon.awssdk	pcs	2.31.36		f7dc46b9e3115efe8dd9743257e6aafdd29a0eb9
+software.amazon.awssdk	pcs	2.31.37		fc357c06d9f7aa4ed838f41f59d4b1a5c2ae4d64
+software.amazon.awssdk	pcs	2.31.38		0994eb924f9d8b3502dae89950ac6eea49dec70d
+software.amazon.awssdk	pcs	2.31.39		0d02ef0d89efd221838a9723b96fbb08225b5593
 software.amazon.awssdk	pcs	2.31.4		ba25ed76ed3a7d50003e576a6752fd5b1154f38b
+software.amazon.awssdk	pcs	2.31.40		fef86538e5df83c07e6facffaeb1f24ef686f7ed
+software.amazon.awssdk	pcs	2.31.41		cd01b346b88064cdc6b9551ee388a6236ec265d6
+software.amazon.awssdk	pcs	2.31.42		e912e26d4f357b2ca7b5247052c39e81192ec2e3
+software.amazon.awssdk	pcs	2.31.43		ed94d20229aa4a4af8f32625f65b8390dee50bc1
+software.amazon.awssdk	pcs	2.31.44		329c7320a8c21db722aa78243eb5e8ba65ba8bdd
 software.amazon.awssdk	pcs	2.31.5		eeaa1feb7fc15a2c1298dc592ffa1caddb6c74af
 software.amazon.awssdk	pcs	2.31.6		6638672079753d037ebe1c043ffd0aa8e171b520
 software.amazon.awssdk	pcs	2.31.7		fe4f356400015090666a99b306d1582bae616d32

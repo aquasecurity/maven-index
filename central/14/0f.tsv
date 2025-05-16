@@ -445,6 +445,8 @@ io.jooby	jooby-ebean	3.5.5		4f50f12c20d3b1a07f76988ebf83ec51a2ab3b8a
 io.jooby	jooby-ebean	3.6.0		d2a08fe7890ab3bec6bdcfeacc6b28b7d6c14fae
 io.jooby	jooby-ebean	3.6.1		d5aa453a69eb1d6a14432c3759998fd5d158de08
 io.jooby	jooby-ebean	3.7.0		6801e6a566fbf4430cf30c501863036ae08ef40b
+io.jooby	jooby-ebean	3.8.0		632d9886c2de59d7b05250cad707ff7e049b1cb0
+io.jooby	jooby-ebean	3.8.1		1a917231c16cb3628d3ad43f8d649e4d5f6294f7
 io.quarkus	quarkus-resteasy-mutiny-deployment	1.10.0.CR1		96b4c53758b94375b65628816b17dafba1939656
 io.quarkus	quarkus-resteasy-mutiny-deployment	1.10.0.Final		f5d9c6c88223ae6150b464b109c5b26ef730b09d
 io.quarkus	quarkus-resteasy-mutiny-deployment	1.10.1.Final		4f5fdcf9e12a9c7c48eefa6d20bfd6cfdf811d11
@@ -673,6 +675,7 @@ io.quarkus	quarkus-resteasy-mutiny-deployment	3.15.2		12fa5f2b933e6ab4f8108418ea
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.15.3		1f85786f56862a6abba976a5fe5e55a16ed96f44
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.15.3.1		075e751d21224bf5662e407d0b1a93cdcaf87296
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.15.4		bd4ad9ef479ff6d5f78a4b456b3f1f0956811a4b
+io.quarkus	quarkus-resteasy-mutiny-deployment	3.15.5		1e82e9f1f05f78e9fcc6646ad5b1e24642d9cf04
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.16.0		227e663de57a50135bcb6259cad67a2b33a1346f
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.16.0.CR1		a18e8d60fb55892947f1c1833ad35d57c4852b48
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.16.1		8e18cfed45b7b25b93f6d0ddf164f8a756125a38
@@ -717,6 +720,7 @@ io.quarkus	quarkus-resteasy-mutiny-deployment	3.2.8.Final		12510c6a64f07ae3dd6ed
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.2.9.Final		bf3dee9550784a4d3de0ba2e0ebeffb0d1346157
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.20.0		e447729c7f5281fdc838333636bcfb17397bc8cf
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.20.0.CR1		f58943994f8edf1ca0302f5d0d56cd921f00bbd3
+io.quarkus	quarkus-resteasy-mutiny-deployment	3.20.1		e25c6581185e0658ac5941c6eb222012a51f91a4
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.21.0		88a6be649ac212795a8a6d759145bfbd6d99ae1a
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.21.0.CR1		3c5a943ee70db515a0abc586b6ad80935670d4c9
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.21.1		35624a0188ec9686ef8f3dcad70acbcfd6912df2
@@ -726,6 +730,9 @@ io.quarkus	quarkus-resteasy-mutiny-deployment	3.21.4		eb611465672b1d9255445b7440
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.22.0		91715c9e731208f3739a93f63512f7e719168d75
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.22.0.CR1		161ed2643dbf4ab85d1dc74fa573a79c47be90ec
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.22.1		0479e0da25265531115aa478b778a85a18702f91
+io.quarkus	quarkus-resteasy-mutiny-deployment	3.22.2		7ec90011166e1b98c9e35298c355e3fdbb2ead88
+io.quarkus	quarkus-resteasy-mutiny-deployment	3.22.3		076d51a4b608d6e81c6afb77ff0e42e02c67a3bc
+io.quarkus	quarkus-resteasy-mutiny-deployment	3.23.0.CR1		da527ed91ab2d077731b8c14c74ab3ec5cbf3f83
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.3.0		4f7e18322426aca06fa687ff562b8f3ec564b2cc
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.3.0.CR1		2245cfb8d072853dac2a634d30417b8edfd24b90
 io.quarkus	quarkus-resteasy-mutiny-deployment	3.3.1		fad9d85d778669bc09d8e3fb04c48116ef99b3eb
@@ -993,6 +1000,8 @@ org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.17		7e4bd9763d38c
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.18		9474f7af3fbef50a0c4b9b62e8f2aaa13479e00f
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.19		4f068a795c0ee8ca22db6cd740b8c9fd8d9ea5d1
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.2		0a6fb86e55de3c41c740c70befd83eb983230d9e
+org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.20		1b168d93827e17c1272c1165f7e87ed04cf0a2f8
+org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.21		4a5e086d1af2fc5ee1e70cdf0300c6a9df785e04
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.3		992e73ebbff51fac02be3f9c847670a67c0c8ee8
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.4		b3fd673da8f8db4cef3f6bcbe781f4a6d06ba699
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-web-fragment	12.0.5		6d8a7c7562bcfe855b9affc548a26dd5f13a69aa
@@ -1221,6 +1230,9 @@ org.http4k	http4k-template-rocker	6.6.0.0		a27ccac0deca1c541ca5c64fb443e11f7bf3b
 org.http4k	http4k-template-rocker	6.6.0.1		ebb35b84881f2c4fbdaee12c1f8ab8ef9f64ded5
 org.http4k	http4k-template-rocker	6.6.1.0		ccc2ed4b8329980c1df51597f6c5e347fb49133d
 org.http4k	http4k-template-rocker	6.7.0.0		33d31f0a501e14214c3fe396da57cf77d95a7f35
+org.http4k	http4k-template-rocker	6.8.0.0		94ad7b3d36c2b7391d3066fcb8314d8ad951ea0b
+org.http4k	http4k-template-rocker	6.8.1.0		55b50017d5da4001bc26f191e1c0c19f167490da
+org.http4k	http4k-template-rocker	6.9.0.0		25e1e95e61ecf40c93a3813bd4af8cab65b1d83e
 org.http4k	http4k-template-rocker	v6.3.0.0		68773246565429c42323756346e7a71a65c35cbf
 org.http4k	http4k-template-rocker	v6.4.1.0		591959ad228ef247c9cd26ea55e5eed29cd84a69
 org.http4s	http4s-tomcat_2.11	0.10.0		ea8224cd98ab10bf73bc7a2af6a84b28642e69d1
@@ -1938,6 +1950,7 @@ org.webjars.npm	libnpmfund	1.0.1		93914f956b34763cc4358e7b53be7cca5ef6e0ed
 org.webjars.npm	libnpmfund	1.0.2		332c2b11ed848d37be1b02174c1c6ea695c2a32f
 org.webjars.npm	libnpmfund	1.1.0		d6db25af9d9bbef7edead5d41b45020babb7824c
 org.webjars.npm	libnpmfund	5.0.12		59db4b3a0d55ccebf15bf24ca6adf767c0e29944
+org.webjars.npm	libnpmfund	6.0.0		df8d4d2888a574718172596d438decc981d19d3d
 top.chenlq	xxl-job-admin-core	2.4.1		24695d764fe08c9d99274b98f7a691d49e878f53
 top.chenlq	xxl-job-admin-core	2.4.2		7353e7e131f99322048f43751a55b3845d2a4526
 top.chenlq	xxl-job-admin-core	2.4.3		b6b6aa68fe94e1bffdec18145497b6e09dc78730

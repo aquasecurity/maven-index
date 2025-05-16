@@ -312,6 +312,7 @@ com.sap.hcp.cf.logging	logging-sample-app	3.8.3		N/A
 com.sap.hcp.cf.logging	logging-sample-app	3.8.3	classes	5351654afe33ee2d0d1abaf9e324f8fc46be9db0
 com.sap.hcp.cf.logging	logging-sample-app	3.8.4		N/A
 com.sap.hcp.cf.logging	logging-sample-app	3.8.4	classes	c54851e9ded86ff1df15bb8e6e5ebe40194df59a
+com.sap.hcp.cf.logging	logging-sample-app	3.8.5	classes	fe5c1eecb147d63cccaaa4de45279742df6ffb9e
 com.ssomai	scalablelayout	2.0.0		N/A
 com.streethawk.phonegap	feeds	1.8.5		N/A
 com.sun.grizzly	grizzly-comet	1.7.0		0043e1835691c0184da6cddb725d7da559fbd3f8
@@ -835,6 +836,7 @@ io.camunda	zeebe-scheduler	8.4.15		877ccad555fa385bb8402e03a65906002073c0fc
 io.camunda	zeebe-scheduler	8.4.16		322d3bc5d3b72aff183063f035a24642462098ff
 io.camunda	zeebe-scheduler	8.4.17		6eb5acf992c04c81facb1f4138a9fb47e5e77ffd
 io.camunda	zeebe-scheduler	8.4.18		3f80d447d464f444611c6d98ad19ebc2b86924d8
+io.camunda	zeebe-scheduler	8.4.19		3900b8f1ed0065a6a98bae17344a2151c8536741
 io.camunda	zeebe-scheduler	8.4.2		3d761402dc09e041af881bb7be52c527d2c45c48
 io.camunda	zeebe-scheduler	8.4.3		302b5a9cace98254d96a4cc3f6756a4dced0df1b
 io.camunda	zeebe-scheduler	8.4.4		074c13027338374bf71ebaf6253e1fcc017c6c1b
@@ -857,6 +859,7 @@ io.camunda	zeebe-scheduler	8.5.14		544da44e005dbcd418933b258b790a5345e696ef
 io.camunda	zeebe-scheduler	8.5.15		6a3a589d316d430ba1b4f11becf319ecf7055545
 io.camunda	zeebe-scheduler	8.5.16		d54f86d46e76607aaee6888512155965c42da40b
 io.camunda	zeebe-scheduler	8.5.17		42333742eec447fcab76e045973e9afa86b4f226
+io.camunda	zeebe-scheduler	8.5.18		593db4c5a4f4cac9ac86ab280f66af402ee73953
 io.camunda	zeebe-scheduler	8.5.2		193ce15726d909f1edc3f67a0bf3763f5be39f5c
 io.camunda	zeebe-scheduler	8.5.3		1d2f4c9132638f481e308fa000dedab9fcfca76f
 io.camunda	zeebe-scheduler	8.5.4		1c31a38c61fb8634a1de625d0dc7bfefb0a70f3e
@@ -894,6 +897,8 @@ io.camunda	zeebe-scheduler	8.6.12-rc1		8bbcf4fb2c971749f79ab46828e0ebab2f628644
 io.camunda	zeebe-scheduler	8.6.13		47eccefc7b2c17598b5dff68d0d8479864815477
 io.camunda	zeebe-scheduler	8.6.14		7c61a2cb7826fdce0bc6593a9958423c13cad969
 io.camunda	zeebe-scheduler	8.6.14-rc1		e94e299516e425b4b897209de6a9e4fd5db0f560
+io.camunda	zeebe-scheduler	8.6.15		43c2032469876c5531679b2b02f03d4b73aa397e
+io.camunda	zeebe-scheduler	8.6.15-rc1		6e3b2a2c5234b240800369f6d3b0d388d1fe6a81
 io.camunda	zeebe-scheduler	8.6.2		b284fb3a211cfc6aa7027d366b3eb28fc84fdea4
 io.camunda	zeebe-scheduler	8.6.3		f4b5c60a6f2ad6332debe15794bfb247755ebc31
 io.camunda	zeebe-scheduler	8.6.4		50e70174cb97e35b69a7483fe176a7554fb1556a
@@ -929,12 +934,15 @@ io.camunda	zeebe-scheduler	8.7.0-alpha5-rc1		c0cd9e6bf6abf33d7b2a09e3c91b5aa591d
 io.camunda	zeebe-scheduler	8.7.0-rc3		5f7f233c63f9c725fcdc1cf0b73020ec5c4ebb03
 io.camunda	zeebe-scheduler	8.7.1		9139d1f9c8f95e4c8c3d2d5ec72bf65864a9669d
 io.camunda	zeebe-scheduler	8.7.1-rc1		de0e25236ab48330f9b2b703d1c6973b8c3586b7
+io.camunda	zeebe-scheduler	8.7.2		bfd5a395a07fb4cb5aa558fa359bbaac58832651
+io.camunda	zeebe-scheduler	8.7.2-rc1		3ebe5b8892e0d76aab8ab46c075e9c04d9609d93
 io.camunda	zeebe-scheduler	8.8.0-alpha1		85e92feac55532d9817d3c77615a0dbc0b9451e9
 io.camunda	zeebe-scheduler	8.8.0-alpha1-rc1		112c9e0ce7aa90d1a8f2e4ef9eeb0012ca98a5da
 io.camunda	zeebe-scheduler	8.8.0-alpha2		17f07f5ef34cc8e1355b97bd8edcad370253d207
 io.camunda	zeebe-scheduler	8.8.0-alpha2-rc1		13b0bff25cbe6a2ec40c9e0c13be4518aa363d45
 io.camunda	zeebe-scheduler	8.8.0-alpha3		28ee3f9a2f9ad1bf4dd23a7b7fe260734a88b71a
 io.camunda	zeebe-scheduler	8.8.0-alpha3-rc3		860e6a083d28743b46e402d5546abbb8e79051a1
+io.camunda	zeebe-scheduler	8.8.0-alpha4		d747d6fa7d86368320b562e32d75b9677d8726df
 io.camunda	zeebe-scheduler	8.8.0-alpha4-rc1		ac3ac68625fb981a688c04788a1da1f572d67d85
 io.github.atmaramnaik	journey-journey	0.0.1		7767e2928aadc2b4d72a62a36c8ea3774c0ab3f8
 io.github.atmaramnaik	journey-journey	0.0.2		a5e52d857719ac7bf1beafb7ad563c06010b5cf5
@@ -1105,6 +1113,7 @@ me.proton.core	report-domain	30.4.4		629bf5dc22734c7d70b40767fd2fc88d78540e2e
 me.proton.core	report-domain	31.0.0		771fe99bb0d0b8f817ec97e407e4ac78b564026f
 me.proton.core	report-domain	32.0.0		5a2b8c1d34acf59f84c09ac9cd2fb9c0a8c5c50e
 me.proton.core	report-domain	32.0.1		d849bb0696d137effb91c8d418fe9a87f465ce93
+me.proton.core	report-domain	32.0.2		86fe8d09de88e4c1c7ac52996ef58d642d412766
 me.proton.core	report-domain	4.1.0		63fb7b181300d04426e218465462948f8a342c0d
 me.proton.core	report-domain	5.0.0		748f86013c1d38dc73e3c6a7ec264855174044e7
 me.proton.core	report-domain	5.0.1		f661382f060d7f43aeb65b1f4472510d2cc8c951
@@ -1336,6 +1345,7 @@ org.apache.camel.springboot	camel-iec60870-starter	4.8.3		d929937c1e855fbdf809e1
 org.apache.camel.springboot	camel-iec60870-starter	4.8.4		da1d936a8ab29aac6c173af4b2e5a561dd45176c
 org.apache.camel.springboot	camel-iec60870-starter	4.8.5		63703b1eae135683acdd4671bb03105f1b53466a
 org.apache.camel.springboot	camel-iec60870-starter	4.8.6		28244e67ae19e49f76430377b9aec0a26bdfb28f
+org.apache.camel.springboot	camel-iec60870-starter	4.8.7		5184e7b1bfa3ddef41c70a7c2ad5457696e89464
 org.apache.camel.springboot	camel-iec60870-starter	4.9.0		711c5b87bdc81de64e294cf87f9b60704aa1e31f
 org.apache.jena	jena-jdbc	1.0.0		N/A
 org.apache.jena	jena-jdbc	1.0.1		N/A

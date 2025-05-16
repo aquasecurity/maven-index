@@ -326,6 +326,9 @@ com.sparkutils	dmn-4-spark_3.3.2.oss_3.3_2.13	0.0.1-RC2		6c6de6abe5c986db879865d
 com.sparkutils	dmn-4-spark_3.3.2.oss_3.3_2.13	0.0.1-RC3		ab19b61458b8b8f54541ef867d48f5055cb36251
 com.sparkutils	dmn-4-spark_3.3.2.oss_3.3_2.13	0.0.1-RC4		278fec2772d476a7252baab3e1a39bac356e8e05
 com.sparkutils	dmn-4-spark_3.3.2.oss_3.3_2.13	0.0.1-RC5		ac41de076340243ed7ee7ef116cd885cb2ec71d7
+com.sparkutils	dmn-4-spark_3.3.2.oss_3.3_2.13	0.0.1-RC6		547ab6ec369ba45d26bc7f29759787838a6ca85f
+com.sparkutils	dmn-4-spark_3.3.2.oss_3.3_2.13	0.0.1-RC7		0e18cc2202d0056f29dab5b21a64ce9b157a5c60
+com.sparkutils	dmn-4-spark_3.3.2.oss_3.3_2.13	0.0.1-RC8		748e4fb3c516938a9131fbf1001df5f497689311
 com.tencent.iot.explorer	explorer-device-broadcast	3.3.23		N/A
 com.trendyol	kediatr-spring-boot-3x-starter	"""3.1.0"""		6f45ff76e1ec75b133930e569b6676d441d3b749
 com.trendyol	kediatr-spring-boot-3x-starter	3.1.0		19ba6fa54adf03a36b0ef6505e6894e871ee1f87
@@ -661,6 +664,7 @@ io.kotest	kotest-assertions-json-watchossimulatorarm64	6.0.0.M2		N/A
 io.kotest	kotest-assertions-json-watchossimulatorarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-assertions-json-watchossimulatorarm64	6.0.0.M3		N/A
 io.kotest	kotest-assertions-json-watchossimulatorarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-assertions-json-watchossimulatorarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.quarkus	quarkus-bootstrap-maven-plugin	0.13.0		235a0049191a7b7eab762b3b0aed279b7220a4c9
 io.quarkus	quarkus-bootstrap-maven-plugin	0.13.1		8926d10211700ee05d87c3eb6c6bdffbab90dce8
 io.quarkus	quarkus-bootstrap-maven-plugin	0.13.2		a5de9b16932664c3c74129fbae9b75aa569bae28
@@ -1144,6 +1148,7 @@ org.apache.camel	camel-tracing	4.8.3		2e9a3353a674718de65d6aef01be498a20bcbe3b
 org.apache.camel	camel-tracing	4.8.4		de0050fd16f7f2c0e69c227f013d78b111eb22c1
 org.apache.camel	camel-tracing	4.8.5		6dae834d33c0a0952b3f0d0ae5f88960e5919564
 org.apache.camel	camel-tracing	4.8.6		65e231f4c5e7ea0c48e79c73b939092c4c2a814b
+org.apache.camel	camel-tracing	4.8.7		ddc92cabc2bead62228505464244fa25824a1138
 org.apache.camel	camel-tracing	4.9.0		47918b12c685fc70aee41997f2aa68782c82002c
 org.apache.commons	commons-statistics-parent	1.0		N/A
 org.apache.commons	commons-statistics-parent	1.1		N/A
@@ -1292,6 +1297,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.41.1		17babd74efda
 org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.42.0		8e48e2c257f296242a91c8ccc85651f755df3401
 org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.43.0		7dc9b1f29f1cf101e984c2320c545b47f70157eb
 org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.44.0		b405ab5419464ca322303eb53307d7645bbeea75
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.0		0edd0f7fcd40b7943ca403c01feaa9eb60a74ff8
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.1		3f6735fc95587ee6f95bfd3e69ff59a25be9cd65
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.10		f37d1394912761d5b4708b21730c70b97750c8e3
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.11		a3b599e896552563ffacf898f01c3534c27edfe8
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.12		ab88f96411990f0e47eea6a649ffa738e8ee150c
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.13		1f8190b293eefad584d7722a66e9a4caa992cc4a
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.3		429fc26bc2e8b9a10f7c5b0f75538c276f991f89
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.4		5cd7cea9e4ceab5dd7b531209231e741cab675a3
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.5		b9bdf601f33ac42089531ac94a090c92e0feafa9
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.6		dc6f4a5250e829c349355c3fc6c1a0addb9df46a
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.7		3001b53635cc9d9e7f0853dd4017d44c9eae9109
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.8		5b5ec820b3f451ff2ec7be3b63fa5b08117865a7
+org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.45.9		bf0cc66507033e42e4d1e09916301217a901302e
 org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.5.0		3a9a7a40ba7c283227984d9cf1d0bbb8de5a7f4b
 org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.6.0		dff99556de43e6d3a6e402f0e0c3047b02d05418
 org.eclipse.dirigible	dirigible-components-ui-view-loggers	11.6.1		538153c47b1be0af794563bbc916011c7fbb9491
@@ -1554,10 +1572,17 @@ org.finos.legend.engine	legend-engine-xt-avro-pure	4.8.0		d1b5d95c3802735bcb1d5a
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.80.0		1be34f30c6a11d569a146834d3feb1152d12ce72
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.81.0		75ad1455f1ad97930f40829ff010e342bb1b90b4
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.82.0		89f84ca6bf952b0604cb68ba5d97128598a06558
+org.finos.legend.engine	legend-engine-xt-avro-pure	4.82.1		95dab12afa74e4a81f8465fdd52c7f7faa452726
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.83.0		ac3112d0e51f4db3faabefdf9d1923c37203d547
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.83.1		06af5d82fa5d2b9799de98951932fb76232c00fc
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.83.2		cd85c4276562a319149f4e93b24bd773033da00c
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.83.3		88729c413a77deee235497e1de4769c49d02330b
+org.finos.legend.engine	legend-engine-xt-avro-pure	4.84.0		3f98398996ca8c471e3153a46f39e56fcb3ac569
+org.finos.legend.engine	legend-engine-xt-avro-pure	4.84.1		087dc8613e0738e53d4f8992480ac9095d57edbb
+org.finos.legend.engine	legend-engine-xt-avro-pure	4.85.0		b82eb7a06834590e8ad5cd6386b8bd15dd84d8d6
+org.finos.legend.engine	legend-engine-xt-avro-pure	4.85.1		966e6f93e1a534c5701ff1dfe177b9f8b9f61769
+org.finos.legend.engine	legend-engine-xt-avro-pure	4.85.2		6c2e2a5ae2763c141fa7835aecd2c185fa3cb4b6
+org.finos.legend.engine	legend-engine-xt-avro-pure	4.85.3		e11f95141c1fb4be33bf7a4574292f310421d955
 org.finos.legend.engine	legend-engine-xt-avro-pure	4.9.0		34005ca046b423f2f555c5e6322d36b428260879
 org.ligboy	stetho-no-op	0.1.0		N/A
 org.ligboy	stetho-no-op	0.2.0		N/A
@@ -1688,6 +1713,8 @@ org.ossreviewtoolkit.plugins.commands	notifier-command	55.3.0		b4e18f6465d6766a6
 org.ossreviewtoolkit.plugins.commands	notifier-command	56.0.0		b879e60ec86b262653d9c874f58f6a6969e7db34
 org.ossreviewtoolkit.plugins.commands	notifier-command	56.1.0		7b72e0f4c20f8cf32d2fc5b12a80e17c9f4d860b
 org.ossreviewtoolkit.plugins.commands	notifier-command	57.0.0		8f9c4908a68a43564274adfdf4f8fe703ec736b5
+org.ossreviewtoolkit.plugins.commands	notifier-command	58.0.0		2273820a73dc1a7cac45461b10c440cca2e29ed4
+org.ossreviewtoolkit.plugins.commands	notifier-command	58.0.1		80bba05f51de687015bdd4cee1aa6783f682a864
 org.ossreviewtoolkit.plugins.commands	notifier-command	6.0.0		148a1a9d006a6112b4469b7c0426f12f97544612
 org.ossreviewtoolkit.plugins.commands	notifier-command	6.1.0		03e85793fe35ee4b9ef507e0e169a6e6c853bcef
 org.ossreviewtoolkit.plugins.commands	notifier-command	6.1.1		10e3c00fcf8a99a4a27918114f85d74508cdba97
@@ -1909,3 +1936,7 @@ tz.co.asoft	raven-config-watchosarm32	3.0.8		N/A
 tz.co.asoft	raven-config-watchosarm32	3.0.8	metadata	0941fcbd3e47d833c738d15bcf77cfa097b36748
 tz.co.asoft	raven-config-watchosarm32	3.0.9		N/A
 tz.co.asoft	raven-config-watchosarm32	3.0.9	metadata	4ba19d4eb3c20751c88fd40b7694177aa693f8b3
+tz.co.asoft	raven-config-watchosarm32	3.1.0	metadata	cac7acb0c03494a22eff40e0abfc81ee06b57780
+tz.co.asoft	raven-config-watchosarm32	3.1.1	metadata	5daf7c7a3c88371681c299e8b1ad02d5d8b235d4
+tz.co.asoft	raven-config-watchosarm32	3.1.11	metadata	f2c1dc90438762089c6d99ce52a842a04742010c
+tz.co.asoft	raven-config-watchosarm32	3.1.12	metadata	c10191d717f20672bef6d3ed44944debcc4ad10e

@@ -201,6 +201,8 @@ com.lightbend.akka	akka-stream-alpakka-orientdb_2.11	2.0.2		44e076ce5f341802a8b9
 com.liguanqiao	grow-mq-rocket	0.2.0		d8648ecf18466481a38b2329a55504cba059abbc
 com.liguanqiao	grow-mq-rocket	0.2.1		b72aa1ed65e6c81dae8fec4e5d816daebcfba2b8
 com.malliina	sbt-packager_2.12_1.0	2.10.1		ae8f36e17e464c1e82f47e99e572163d71622edc
+com.malliina	sbt-packager_2.12_1.0	2.8.4		9c98bc3a63b5c228fcd3889dc636ef8896b494ef
+com.malliina	sbt-packager_2.12_1.0	2.9.0		c811e4f4ac6f3c44925b593342b0f92d9b1737e8
 com.nexusy	xrpc	1.0.0		7d743bab19378b7b97d42e72b3b900b91c86eff6
 com.nexusy	xrpc	1.1.0		abf5de73df2d6e2696aebfdfdc723ebe177a22ee
 com.nexusy	xrpc	1.1.1		6a9c57a3e49d716a75ab27d97065853045d45189
@@ -376,6 +378,8 @@ de.miraculixx	kpaper	1.2.1	dev	587221ac5d3d2ae21e8807c31e16276b85f98d03
 dk.cloudcreate.essentials.components	common-types	0.1.2		3db25863e6e1c7aab5c73fb96c1b243b3a6392ae
 dk.cloudcreate.essentials.components	common-types	0.1.3		4e7a18ca56d0d4d567fcc5f9a59d83ea3c0adb9e
 dk.cloudcreate.essentials.components	common-types	0.2.0		196b63185d610a4772c182457afd6b2c8976d8d3
+eu.sipria.sbt	sbt-typescript_2.12_1.0	0.6.0		336da2e3acb5c6618083be330f65301149156940
+eu.sipria.sbt	sbt-typescript_2.12_1.0	0.7.0		35f6e6e8c1b1e6cb8b8aa34cc8e253c2edc7b9a1
 eu.sipria.sbt	sbt-typescript_2.12_1.0	0.7.1		34a02aa156bb4796079dfbcd1243c0b655a7e3b4
 eu.vytenis.skaitvardziai	skaitvardziai-parser	1.1		f5e7245dfba37067573a11646c1b65a9ba69c031
 eu.vytenis.skaitvardziai	skaitvardziai-parser	1.2		01a7f519c426db2f148cae07ae972ad7bb23b95e
@@ -446,6 +450,9 @@ io.americanexpress.synapse	synapse-data-mysql	0.4.10		56d89f4497e0e587e33de3ca88
 io.americanexpress.synapse	synapse-data-mysql	0.4.11		5eb3a46ed74337fc66d0a74ac398dd4be12cd23e
 io.americanexpress.synapse	synapse-data-mysql	0.4.12		600da779a4aaedc273f00996a65551541cf4a04b
 io.americanexpress.synapse	synapse-data-mysql	0.4.13		a9a4f0157eb8565d572ae3581ddf3e5962b6dd79
+io.americanexpress.synapse	synapse-data-mysql	0.4.14		e0b86ae1ac4fcdf1e01d4078a386c612cde3bbae
+io.americanexpress.synapse	synapse-data-mysql	0.4.15		4a4dc3a780f09a1d2560773d6f89364afc91b6fb
+io.americanexpress.synapse	synapse-data-mysql	0.4.16		113df727fa70d6e602eeb2299b605c9df45b4304
 io.americanexpress.synapse	synapse-data-mysql	0.4.2		ac41c260181c796c17c7fe5b6f56af4a49e633fa
 io.americanexpress.synapse	synapse-data-mysql	0.4.3		467ebadaaebb6ce9e5704d2939c8b1309dcf885b
 io.americanexpress.synapse	synapse-data-mysql	0.4.4		9bc688af0d389163fe406517761c86551c1ed937
@@ -2613,6 +2620,7 @@ org.wildfly.security	wildfly-elytron-mechanism	2.1.0.Final		d6f5f3bf47c60bfdcdd2
 org.wildfly.security	wildfly-elytron-mechanism	2.2.0.Final		8e8623d6ef3d6fe6ce933406fa8691b24af07d85
 org.wildfly.security	wildfly-elytron-mechanism	2.2.1.Final		c29cb67ac1d1fcd8b97e8ec9704a28bd35a7afdd
 org.wildfly.security	wildfly-elytron-mechanism	2.2.10.Final		8bfbb9adeddc425e6d76dae7304043062d72acc3
+org.wildfly.security	wildfly-elytron-mechanism	2.2.11.Final		13f3b2bca63e7919e4af86ad9d889a08c81c51b4
 org.wildfly.security	wildfly-elytron-mechanism	2.2.2.Final		94169d3bccf54fe365d643141387b659b236acf6
 org.wildfly.security	wildfly-elytron-mechanism	2.2.3.Final		21a02dc2255714229ccd1b4a2ddbdf2bc22078ce
 org.wildfly.security	wildfly-elytron-mechanism	2.2.4.Final		4f7b397410aaccca05364314b44c3b6e63120b6b
@@ -2635,6 +2643,7 @@ org.wildfly.security	wildfly-elytron-mechanism	2.6.0.Final		9fd755959fc58822d23f
 org.wildfly.security	wildfly-elytron-mechanism	2.6.1.Final		1fbb89546b408c550cc29521322ee22d2d0b439d
 org.wildfly.security	wildfly-elytron-mechanism	2.6.2.Final		00ee774df995434e987bbe4808c3c038636541bc
 org.wildfly.security	wildfly-elytron-mechanism	2.6.3.Final		6a34987f7dcfeac0104eea024ca48b14de05a691
+org.wildfly.security	wildfly-elytron-mechanism	2.6.4.Final		4131bb1471eebd8e0217972da6934eef24ca567b
 org.wso2.carbon.analytics	org.wso2.carbon.databridge.commons.thrift	2.0.15		d71dbb2f7101c577a2f9cf021784b04c9c0a0499
 org.wso2.carbon.analytics	org.wso2.carbon.databridge.commons.thrift	2.0.16		85bff52d9228bef4086946b41a40dba681f60ce0
 org.wso2.carbon.analytics	org.wso2.carbon.databridge.commons.thrift	2.0.17		1ef8e30e61d5354736f809aa807801e18d43bb1b
@@ -2728,4 +2737,7 @@ tz.co.asoft	krono-kotlinx-jvm	3.0.6		8c02205a6ca9f44c71adcc708d8f9a19a3529ce7
 tz.co.asoft	krono-kotlinx-jvm	3.0.7		26d027a158bf8727c243eccb9974e50dc7d517d4
 tz.co.asoft	krono-kotlinx-jvm	3.0.8		26d027a158bf8727c243eccb9974e50dc7d517d4
 tz.co.asoft	krono-kotlinx-jvm	3.0.9		26d027a158bf8727c243eccb9974e50dc7d517d4
+tz.co.asoft	krono-kotlinx-jvm	3.1.1		f257760212bae4c0e73c068d0772393e36a4f6de
+tz.co.asoft	krono-kotlinx-jvm	3.1.11		f257760212bae4c0e73c068d0772393e36a4f6de
+tz.co.asoft	krono-kotlinx-jvm	3.1.12		f257760212bae4c0e73c068d0772393e36a4f6de
 xyz.lglg	java-maven-package	1.0.0		70b9a98c66dbc259d98696674314a9294676b003

@@ -390,6 +390,7 @@ dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1.12.1	metadata	bf23e192420c35f25cba5f62635fc0ed9323ce76
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1.13.0		N/A
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1.13.0	metadata	4e507f7c4b2b7b5737563be06e1215f266318167
+dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1.14.0-alpha01	metadata	05dd75faaeaaec845de0a554ddc522b3678fefb0
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1.3.0-1.8.20-Beta		N/A
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1.3.0-1.8.20-Beta	metadata	f8bb02caec8bb545773e0f95dfd3a2b46303fc37
 dev.zacsweers.redacted	redacted-compiler-plugin-annotations-watchosdevicearm64	1.3.1-1.8.20-RC		N/A
@@ -753,6 +754,9 @@ io.openweb3.wallet	wallet	0.0.2		b57027f8bb11cbaeb24dd8aba3b9ca319e2ca458
 io.openweb3.wallet	wallet	0.0.3		af109835223d6fc5c1696e8619c180a3d7503502
 io.openweb3.wallet	wallet	0.0.4		3c2b79a63481fc10059eca4e652c4fe85707bc55
 io.openweb3.wallet	wallet	0.0.5		b2950b636a0a43fecf53f31cdf3c07d40f36aa79
+io.taig	sbt-googleplay_2.10_0.13	1.0.0		38b840474d108e3c41dd55b960694b64c768e97f
+io.taig	sbt-googleplay_2.10_0.13	1.1.0		25291da4e9860a4d4bb127a427585bbd13d41ecd
+io.taig	sbt-googleplay_2.10_0.13	1.1.1		fd587c3b111810febf4e38e6f25c5dbcfea233b8
 net.officefloor.web	officeweb	3.0.0		3942555b01f822efa7ac850d36e4a22ac7d22112
 net.officefloor.web	officeweb	3.1.0		ab407ff6927c13397c3c9973b75a7d033209eaf4
 net.officefloor.web	officeweb	3.10.0		e1c1f3e6b0d04c5cf9c60e809cbd5474e583a68d
@@ -911,6 +915,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.dnsjava	3.5.1_1		4e8
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.dnsjava	3.5.2_1		d504c3e6bcfa2bdaeabc63ae5815856c2dc00931
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.dnsjava	3.5.3_1		04d08cade67ce73e045b440600df30172da9e05b
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.dnsjava	3.6.2_1		8154078bf69a5f22222ec22c8be65b9ca5b75a01
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.dnsjava	3.6.3_1		28727cdb47b1384ba8f3e9643a9bf71f56d79ae3
 org.apache.xbean	xbean-asm-util	3.14		abd3dca320bc3ff9df4e51219d5e6a67ea0cb861
 org.apache.xbean	xbean-asm-util	3.15		dc082437a8700c708606a0669b2d6cc2c49228c9
 org.apache.xbean	xbean-asm-util	3.16		ace7e8fece6561a9696dc5e1be75817535a7815c
@@ -1117,6 +1122,19 @@ org.eclipse.dirigible	dirigible-components-api-utils	11.41.1		8dc7c2a6d627e51bdf
 org.eclipse.dirigible	dirigible-components-api-utils	11.42.0		e8d23cbf35af32e15a8a66c816889299a4a1d4a1
 org.eclipse.dirigible	dirigible-components-api-utils	11.43.0		d62b9348959d26b1132bca975233252160958746
 org.eclipse.dirigible	dirigible-components-api-utils	11.44.0		8603094a0c8b60865410438546e328f931e01a5a
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.0		4bec4e3c82eef5f8791eab0f2d8658fcea7fd0e3
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.1		3dc9804f52b7944a00ecfc47fd856e23a0a1c1bc
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.10		6d69e8494bb714faeacabd98b3e2c9a7511ecae8
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.11		29782c31c125dcd9c73d61b0371f16e9788b12f0
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.12		9dc7e588b2f65394383c8ce346495f2090bcf204
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.13		0a7e462847da4fbd911fe970282b362ecff11d24
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.3		a5174177a93d27ab52c3bfec785a7f1c459ab6eb
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.4		d96fd9ad43fc0461925d6bc782db99575f9fa666
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.5		f53c9379555a74997a7af130129f8781b414225e
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.6		39639065472481dede9458bb12af7580e2dec6f1
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.7		1e0b9a8c1700833b6c58914c0a3d4951e2cbdb30
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.8		c1e57fcf6e2747928b4cd392d04279c58a98cbce
+org.eclipse.dirigible	dirigible-components-api-utils	11.45.9		0571c1279c37adc3576387157325621d657fbe26
 org.eclipse.dirigible	dirigible-components-api-utils	11.5.0		e84a7ee964cd423770444d90bf4b9c63dc16a4b9
 org.eclipse.dirigible	dirigible-components-api-utils	11.6.0		edb30ef02745f6865213dbd34ed0d1f1d28611a9
 org.eclipse.dirigible	dirigible-components-api-utils	11.6.1		50030d44e9973be0ca7298e121652860c8253ce2
@@ -1318,6 +1336,7 @@ org.eclipse.xtext	xtext-maven-plugin	2.38.0.M1		f65a340088826540a8dac78351c20037
 org.eclipse.xtext	xtext-maven-plugin	2.38.0.M2		3a21bb335bdf5f249ce2a03a88d84f7ea869c221
 org.eclipse.xtext	xtext-maven-plugin	2.38.0.M3		469c9500f47bf1de020154a41a6b6a2f78b8e65b
 org.eclipse.xtext	xtext-maven-plugin	2.39.0.M1		47c42b3084c829529b14b508dbf1e056aae7bc33
+org.eclipse.xtext	xtext-maven-plugin	2.39.0.M2		3d48d2e25f55154338fae018c497884d35f9ce59
 org.eclipse.xtext	xtext-maven-plugin	2.4.3		370ed546c74a52c05365ccb7d65c1c85909b3892
 org.eclipse.xtext	xtext-maven-plugin	2.5.0		c0b13fd98886eefe949b6312ca8da4d7387f6c91
 org.eclipse.xtext	xtext-maven-plugin	2.5.1		0042aed123c3ba367167b3d0dbde9fb427321bad
@@ -1709,6 +1728,7 @@ org.opensearch.plugin	analysis-common	2.6.0		bce07c17cfa4bc9180285f92943a7b75bbb
 org.opensearch.plugin	analysis-common	2.7.0		872b6b88b6e56be05a6eab47f56cf8f68abc883a
 org.opensearch.plugin	analysis-common	2.8.0		a5d6af7aa55160c39aed183deeed0fdc2cc83c0a
 org.opensearch.plugin	analysis-common	2.9.0		f5ff4705b47876e4193913d1ce36be71c7a63a7e
+org.opensearch.plugin	analysis-common	3.0.0		2ddb4ca29f9d9d8f01533af213c5656a49e7d116
 org.opensearch.plugin	analysis-common	3.0.0-alpha1		350bd3769e9eea066aed3afdc446e97112d4fa75
 org.opensearch.plugin	analysis-common	3.0.0-beta1		596afbf3da9a151e8d43c57819d9fd2c370f21ba
 org.ow2.fractal.juliac	juliac-jcapi	2.6		f06a31ded3fd2215ce4456655b015ea0ace8b3d7

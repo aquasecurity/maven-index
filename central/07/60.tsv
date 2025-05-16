@@ -52,6 +52,7 @@ com.akuleshov7	ktoml-file-linuxarm64	0.6.0		N/A
 com.aliyun	alibabacloud-alimt20181012	1.0.0		c54bc152b8457625313e55f14fb27d7f95e2a69f
 com.aliyun	alibabacloud-alimt20181012	1.0.1		11c50c3f30737da9637631052808920ba0c1476f
 com.aliyun	alibabacloud-alimt20181012	1.0.2		65ba5a9a0380c865a1406af9e76f444a73f44c3a
+com.aliyun	alibabacloud-alimt20181012	1.0.3		c54cd01bd39fa7299934911968ce1e12ff40fd00
 com.aliyun.dts.deliver	dts-deliver-connectors	1.0.0		N/A
 com.aliyun.dts.deliver	dts-deliver-connectors	1.0.0	jar-with-dependencies	7c5eae1c8eddac669d5acb53ac719a2d6bf60c89
 com.aoindustries	ao-messaging-http-servlet-book	1.0.2		b2e17f6fcddc631c97e82e5e57e01ce6340817ae
@@ -190,6 +191,7 @@ com.google.api.grpc	grpc-google-cloud-logging-v2	0.110.4		50510db2982b61e7e567fc
 com.google.api.grpc	grpc-google-cloud-logging-v2	0.111.0		9752b60d62b959882e7edea50c07fa352fdb69bf
 com.google.api.grpc	grpc-google-cloud-logging-v2	0.111.1		1c5bc03e0751e1037cc336d6c19c770aa5fb32b9
 com.google.api.grpc	grpc-google-cloud-logging-v2	0.111.2		ff47b99c05903959ecd844d92d9a4790427d66cd
+com.google.api.grpc	grpc-google-cloud-logging-v2	0.111.3		6a439bebf9b11335e8841d7e9e240882623830d0
 com.google.api.grpc	grpc-google-cloud-logging-v2	0.12.0		a7c9be7c5b89ba59987c157044ba7bd9bc5a3499
 com.google.api.grpc	grpc-google-cloud-logging-v2	0.13.0		c0710b924083f47f86d20969209ea65dc19c2a41
 com.google.api.grpc	grpc-google-cloud-logging-v2	0.14.0		09dec05a96f53de918a9dfab65a883f16e9c11fa
@@ -697,6 +699,7 @@ org.apache.flink	flink-connector-oceanbase-cdc	3.1.1		b1de3ee67599940d95567ca47e
 org.apache.flink	flink-connector-oceanbase-cdc	3.2.0		a3bcdf472171a99686f1c4b3cca7ddcd05e7560b
 org.apache.flink	flink-connector-oceanbase-cdc	3.2.1		f68b0600301868cd596f66c3353688d0889becf8
 org.apache.flink	flink-connector-oceanbase-cdc	3.3.0		dba71341d27c58480b76bf68324ddecb821ad396
+org.apache.flink	flink-connector-oceanbase-cdc	3.4.0		10aaa6dfa1f73c5b9d36f05afc293c2163ce65d8
 org.apache.karaf.webconsole	org.apache.karaf.webconsole.features	2.0.0		06498bc5d585f567ddde66a42b8ec30f604a4015
 org.apache.karaf.webconsole	org.apache.karaf.webconsole.features	2.1.0		18b8f6cb69cd83bf2e35e1fa764cb19174b275e1
 org.apache.karaf.webconsole	org.apache.karaf.webconsole.features	2.1.1		e3c74c397556314c041b5f6e4aaf046622fa7272
@@ -1322,6 +1325,7 @@ org.apereo.cas	cas-server-support-grouper-core	7.2.0-RC6		97afd32d8247416ea2674b
 org.apereo.cas	cas-server-support-grouper-core	7.2.0-RC6	resources	27d56b25c1ef94e2c48969a504acb2ffa3c18d3e
 org.apereo.cas	cas-server-support-grouper-core	7.2.1		8498d377efcf46442485f1da3d9a33193a3e2024
 org.apereo.cas	cas-server-support-grouper-core	7.2.1	resources	bf5075c96ee5f4bd6e7f168eb7531fd051dfa9ef
+org.apereo.cas	cas-server-support-grouper-core	7.2.2		af2969a3ddaf3cf0a9c61f751edb77c2ef4b4d93
 org.apereo.cas	cas-server-support-grouper-core	7.3.0-RC1		87ebdf28e43e5ca8ba4f8fe428a4168f03b58df3
 org.apereo.cas	cas-server-support-grouper-core	7.3.0-RC1	resources	de059c99a46eee6796c24b3e85e5c91c3b9c2a7d
 org.apereo.cas	cas-server-support-grouper-core	v6.4.0-RC5		fb522c422eacb544bbfd2a96b1ccf9acbdfe5c87
@@ -1394,6 +1398,8 @@ org.entur	netex-parser-java	3.1.43		36076bec2d94a5e6cd436d1de93ed599b63e1eb0
 org.entur	netex-parser-java	3.1.44		e3e73e77f0e857d30fc3596b7741adf6a7543e3e
 org.entur	netex-parser-java	3.1.45		869f1a280977c4cf9ecfb4fd0c37696eafdd8794
 org.entur	netex-parser-java	3.1.46		43e34bd5925e4d249268672289aee53cb90951ca
+org.entur	netex-parser-java	3.1.47		52fc3c3f43d52af0dd70e18012c2f7201d7e193a
+org.entur	netex-parser-java	3.1.48		a660e42f4f80993dc76224f2f471064ccbad4ea6
 org.entur	netex-parser-java	3.1.5		c70c396d982548622aedf4830380f2b4a6c766d2
 org.entur	netex-parser-java	3.1.6		b8aa729450b79a6bfebc66d818ef043076aa722d
 org.entur	netex-parser-java	3.1.7		ba145224e3164010e58414688de53f7b92c453cf

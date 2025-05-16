@@ -302,6 +302,7 @@ com.oracle.database.graph	pgx-config	24.2.1		d68b11f4bc20432a63677b7001499789413
 com.oracle.database.graph	pgx-config	24.3.0		16da25d3ed478a4b66d70ce951ea1aa4ca5c425c
 com.oracle.database.graph	pgx-config	24.4.0		7b7989757c5fa6c76007155feb6d7f7b9d9143cc
 com.oracle.database.graph	pgx-config	25.1.1		968913ef98cdd2e23dcf0b3168a83c109412564b
+com.oracle.database.graph	pgx-config	25.2.1		ecab99a9de9982702bf4b7b9c03bc49f8b5b926e
 com.power4j.fist	fist-cloud-gateway-security-reactive	2022.1.1		605900c4cf174ed1c5a404f82ee9842d69157015
 com.power4j.fist	fist-cloud-gateway-security-reactive	2022.1.10		3a9cb3f56838925e2896a386418cfc57aaa27d15
 com.power4j.fist	fist-cloud-gateway-security-reactive	2022.1.11		56d01794e8c0a40430889f563856a5d4b33d1710
@@ -426,6 +427,7 @@ com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-
 com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-v1-resource-bundle	2.14.4		a3a4e9875680bf38f3f66533dc008957cedb6cfd
 com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-v1-resource-bundle	2.15.0		b04d1538a5bafce5325e742b6e2288e94143764f
 com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-v1-resource-bundle	2.15.1		d08b1335502850c081d644c9e833b37013ec8cc8
+com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-v1-resource-bundle	2.15.2		1213cd47f677dd7334a8f6bd9a4e53e9f9a64d8e
 com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-v1-resource-bundle	2.2.0		bd44530301df7feb5e9e02f1159401cfb7142fda
 com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-v1-resource-bundle	2.2.1		e13e5a2c94e25ea2141ff41740665191c7b23143
 com.solace.connector.core.resource	pubsubplus-connector-banner-solace-community-v1-resource-bundle	2.2.2		44a7f44438d99a6fb11449eab3df085bcacd3062
@@ -657,6 +659,7 @@ io.camunda	zeebe-process-test-engine	8.4.15		ea3f78af00f001c9ec631201948251dd7f7
 io.camunda	zeebe-process-test-engine	8.4.16		7c00f99146145c5782092a1d4fa373883836ebc6
 io.camunda	zeebe-process-test-engine	8.4.17		4476c93c690666d41348324bd24803c5e268c3b6
 io.camunda	zeebe-process-test-engine	8.4.18		693ea4a5ce70724e7ae0dbce342a35fbd7ba7418
+io.camunda	zeebe-process-test-engine	8.4.19		5ffd9db78189d5c22920d900921f00bc79649a93
 io.camunda	zeebe-process-test-engine	8.4.2		752b9cfa24da9e7bf878560588a199ae9b05ba50
 io.camunda	zeebe-process-test-engine	8.4.3		8b9bb7df7c867f5a5b9c7e2966212728076c01ef
 io.camunda	zeebe-process-test-engine	8.4.4		adbc872e8c69de9c394268562645e90660707a7c
@@ -677,6 +680,7 @@ io.camunda	zeebe-process-test-engine	8.5.14		869674f228a47a2d96037490c27c789675e
 io.camunda	zeebe-process-test-engine	8.5.15		019a43c72f6c12aca76827539e25ef2bdf8b2736
 io.camunda	zeebe-process-test-engine	8.5.16		3d5d6ce29b9ebad707ab13e436ffaff3a901ad1a
 io.camunda	zeebe-process-test-engine	8.5.17		a471266939b67212380f31effff825f1fcaf3f2f
+io.camunda	zeebe-process-test-engine	8.5.18		06d1144ee97441d24098a88ed27fd6de20808215
 io.camunda	zeebe-process-test-engine	8.5.2		0577a001e8fdf2242bb80e2a35afefe346eb8ba0
 io.camunda	zeebe-process-test-engine	8.5.3		7bd5f1276df516be5c23017b67aa690b1e6b0c19
 io.camunda	zeebe-process-test-engine	8.5.4		955cc4def6ad41ba1f99dfbfb332106535b68e6e
@@ -711,6 +715,8 @@ io.camunda	zeebe-process-test-engine	8.6.12-rc1		53e36b19e83e2a7e65623a9522f9769
 io.camunda	zeebe-process-test-engine	8.6.13		744a30e4dfa2e9bf569b4d32d88d761ddcc31214
 io.camunda	zeebe-process-test-engine	8.6.14		1cf1d38ce01093c183bf0a0bb6cee32601f127e0
 io.camunda	zeebe-process-test-engine	8.6.14-rc1		83ce887364ffcd35f4bc2169aa599f0a03b60df2
+io.camunda	zeebe-process-test-engine	8.6.15		b743f30567ba6f388ea08882ce8cb594d1e9e1e4
+io.camunda	zeebe-process-test-engine	8.6.15-rc1		31f5677b472bf5e87f6d97aa0d9f83ba59c567e0
 io.camunda	zeebe-process-test-engine	8.6.2		edfc3b4f59f8719f0e2fff7173dd4a65e5a51117
 io.camunda	zeebe-process-test-engine	8.6.3		0d2b8c61f6694a7eb08a3abd674964d5bb41eddd
 io.camunda	zeebe-process-test-engine	8.6.4		3ecbe9831b805cee5381570a352837109de59e6b
@@ -745,11 +751,14 @@ io.camunda	zeebe-process-test-engine	8.7.0-alpha5-rc1		11bdd7bb80e28a5616d43ff7f
 io.camunda	zeebe-process-test-engine	8.7.0-rc3		0c047e898a8236cddf210f53cba2e7faf8218e66
 io.camunda	zeebe-process-test-engine	8.7.1		d880df127dff168c7b3fcec0c4bb4caa52dc9ed0
 io.camunda	zeebe-process-test-engine	8.7.1-rc1		03fb64dc4f397fc775a81439a3e6c65a3e7899cb
+io.camunda	zeebe-process-test-engine	8.7.2		06602b6058b62b0fbe371657bc5f5a61b654ce8f
+io.camunda	zeebe-process-test-engine	8.7.2-rc1		a1f9920e01d8501ad4632881bab81e8f8aa9e876
 io.camunda	zeebe-process-test-engine	8.8.0-alpha1-rc1		d3ea5ebcc48ac3ccec39920196e9c6c3bd9c0fb7
 io.camunda	zeebe-process-test-engine	8.8.0-alpha2		883d817747acf9b72ad9f3984da89181063c8887
 io.camunda	zeebe-process-test-engine	8.8.0-alpha2-rc1		eba139b892b21b9295cd0b5bcdb8ae1dee086d8b
 io.camunda	zeebe-process-test-engine	8.8.0-alpha3		64ae2d9d8b6014236ed833236814cecf3d441652
 io.camunda	zeebe-process-test-engine	8.8.0-alpha3-rc3		7e1e77ce5e5f5d3a3ac9646101c84213986a31c3
+io.camunda	zeebe-process-test-engine	8.8.0-alpha4		44ca29cbf7cd6d25d6d716fb203507d1913aac44
 io.camunda	zeebe-process-test-engine	8.8.0-alpha4-rc1		215697d3bfbe6026f340be990512f855b37f9fdd
 io.chrisdavenport	mules-http4s_sjs1_3	0.4.0		f11d26a8de7a1a410656daf63d19914d908b25d5
 io.fabric8.django	archetypes-catalog	2.3.1		61b31028fad15e0c4f75bd5c8013ab0cbe77d040
@@ -1485,6 +1494,7 @@ org.eclipse.xtext	org.eclipse.xtext.common.types	2.38.0.M1		59a4ddac560d736cce7a
 org.eclipse.xtext	org.eclipse.xtext.common.types	2.38.0.M2		b7a51d051a0b5773e4208e90fd1690072771da6d
 org.eclipse.xtext	org.eclipse.xtext.common.types	2.38.0.M3		da7d9845a11bf172dd74a95c7ae29a01b403b37d
 org.eclipse.xtext	org.eclipse.xtext.common.types	2.39.0.M1		2417bcdb6fdbc1ca14f2641d86c929f41bc6cd11
+org.eclipse.xtext	org.eclipse.xtext.common.types	2.39.0.M2		88345e2dd93d459f91d821244e2e746312aa5b30
 org.eclipse.xtext	org.eclipse.xtext.common.types	2.5.0		68a18f6aeefbc918f7d6004dd25804ff3935b164
 org.eclipse.xtext	org.eclipse.xtext.common.types	2.5.1		6a2614cac03042a053504b4969625c2a082104e6
 org.eclipse.xtext	org.eclipse.xtext.common.types	2.5.2		0e530ab0b899ec475509e9e2efeec68dc7790c17
@@ -1672,5 +1682,9 @@ tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.0.8		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.0.8	metadata	54b0762c0e77d5b39a15d4aa633145726c1ea2ab
 tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.0.9		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.0.9	metadata	a58375e91ab7b4b640de6a23a2f66b3572ef7c8f
+tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.1.0	metadata	3e67ffad60701157973903a932057f6b016a153a
+tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.1.1	metadata	ffc7009d98dd83565f06bfac5c8fb075fad2a7d9
+tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.1.11	metadata	658928d0efaf52a9e500fda2f6a7b32ea243a708
+tz.co.asoft	koncurrent-awaited-coroutines-iosx64	3.1.12	metadata	e28fed47439d36aafab51db6736618a3670d681c
 xyz.wingio.syntakts	syntakts-android-android	1.0.0-rc03		N/A
 zone.gryphon	screech-test-utilities	0.1		b02a1d36c46db5e7536e1c78e6d9087c6c6002ad

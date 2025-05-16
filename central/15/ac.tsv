@@ -372,6 +372,7 @@ com.walmartlabs.concord.plugins.basic	lock-tasks	2.23.0		b80ceb120dca925d929b116
 com.walmartlabs.concord.plugins.basic	lock-tasks	2.24.0		8c702b2fd444b8742462b7da5c195fba5958134d
 com.walmartlabs.concord.plugins.basic	lock-tasks	2.25.0		82b814c975968f4c9cf163a2d66bf1ad4f41161a
 com.walmartlabs.concord.plugins.basic	lock-tasks	2.25.1		8e63757d63222315d3efeb187c14be8423c724f6
+com.walmartlabs.concord.plugins.basic	lock-tasks	2.26.0		fbeb5cd2133a1ae2eb40e78a9d47919b2065e07c
 com.walmartlabs.concord.plugins.basic	lock-tasks	2.3.0		66738df9bda3afa72b11f06f0763918dfc3bb6c1
 com.walmartlabs.concord.plugins.basic	lock-tasks	2.4.0		52e6b747d919616ae153c1aef7685c407064d76b
 com.walmartlabs.concord.plugins.basic	lock-tasks	2.5.0		abed46d0e3d780a7241bbea3f3a81e0eeb28ee38
@@ -972,6 +973,8 @@ io.camunda.connector	connector-runtime-application	8.4.16		98dc38aff172be7c78825
 io.camunda.connector	connector-runtime-application	8.4.16	with-dependencies	bf016d97b7d588d103ddb8d5ae87a14462e190ad
 io.camunda.connector	connector-runtime-application	8.4.18		0f653553f4e3b7b0de3fc1334816f1a1d5f73a1e
 io.camunda.connector	connector-runtime-application	8.4.18	with-dependencies	e2226b0a0798ab504ed6198e8317deb81853f8fc
+io.camunda.connector	connector-runtime-application	8.4.19		f08365d8ff04c2e70c7386cf921013fe34382200
+io.camunda.connector	connector-runtime-application	8.4.19	with-dependencies	f02c95d856a1b111bbf1ea220a7d38a027fe7947
 io.camunda.connector	connector-runtime-application	8.4.2		3111c9cf6853d09620f64c402e809b482b0ebaa1
 io.camunda.connector	connector-runtime-application	8.4.2	with-dependencies	1f6153a81af8ab9a5d979c1f6fe242ea56d4ff60
 io.camunda.connector	connector-runtime-application	8.4.3		c4f530c8595bb2ebb62858df7b454931d09042c3
@@ -1038,6 +1041,8 @@ io.camunda.connector	connector-runtime-application	8.6.10		04049af823bbe1dbc2e33
 io.camunda.connector	connector-runtime-application	8.6.10	with-dependencies	057a0d70a46cd30fc12a1ec5c8f4adaf980a7072
 io.camunda.connector	connector-runtime-application	8.6.11		55dbe166180e44a590f54ed8f9e0a60cb11dcfad
 io.camunda.connector	connector-runtime-application	8.6.11	with-dependencies	a29a93ab3bf75372f275e6a08920a47bc7a5c729
+io.camunda.connector	connector-runtime-application	8.6.12		f56068561e65f7a36085b796ae863e3fd5b678ef
+io.camunda.connector	connector-runtime-application	8.6.12	with-dependencies	5868da5aae3b1abfbae863f76d60d2cdb8845ea9
 io.camunda.connector	connector-runtime-application	8.6.2		eb66d2de32aab68e04d7f074fd4cdcd9bc9d53db
 io.camunda.connector	connector-runtime-application	8.6.2	with-dependencies	6ccbe9d7e27799f9802a934c13c92166dd2ac9fd
 io.camunda.connector	connector-runtime-application	8.6.5		e66704b0c338f5b53eb97a6fd8b3494b3a924b8d
@@ -1060,10 +1065,18 @@ io.camunda.connector	connector-runtime-application	8.7.0-alpha3.3		2b1dbc86a1790
 io.camunda.connector	connector-runtime-application	8.7.0-alpha3.3	with-dependencies	6a876c5ac40b68efa85682505fdb2c8c553951c0
 io.camunda.connector	connector-runtime-application	8.7.0-alpha4		767f67da50024f1be983360a272f8e29b08d0715
 io.camunda.connector	connector-runtime-application	8.7.0-alpha4	with-dependencies	684634dee46d9432823036256bb15a7a8cab2214
+io.camunda.connector	connector-runtime-application	8.7.1		a3a3648c7b75be365ebc997f078abf069e0c2dbe
+io.camunda.connector	connector-runtime-application	8.7.1	with-dependencies	6e7f508dbb8544ce30e53cda2aac32b220985591
+io.camunda.connector	connector-runtime-application	8.7.2		c2b5f40e918a1a7a6e85b0ce546f68e2035cb60b
+io.camunda.connector	connector-runtime-application	8.7.2	with-dependencies	f749a3b58ed5e71b90b0bc4c1ccbc60527546bc3
 io.camunda.connector	connector-runtime-application	8.8.0-alpha3		6e003b9b9f76b46f047042a915d288645f6a4ff6
 io.camunda.connector	connector-runtime-application	8.8.0-alpha3	with-dependencies	572b452ed653b21ac7bfa32695cc12601393ad50
 io.camunda.connector	connector-runtime-application	8.8.0-alpha3.1		3595c73359804c9d04ce41c8cf107458e3640c6e
 io.camunda.connector	connector-runtime-application	8.8.0-alpha3.1	with-dependencies	0f0522014b3a0ace1d265539aec5c62fc4be3a89
+io.camunda.connector	connector-runtime-application	8.8.0-alpha4		8c0157c9ca4b9c7bef04144d5ab70a38b29f0b62
+io.camunda.connector	connector-runtime-application	8.8.0-alpha4	with-dependencies	0111181e37ab8f76deb44bf4c8925970f0b05257
+io.camunda.connector	connector-runtime-application	8.8.0-alpha4.1		45cb8f86509507eb8546ed405f602044338af1a1
+io.camunda.connector	connector-runtime-application	8.8.0-alpha4.1	with-dependencies	01ec349d1eda0e28ce123f5d67d6ac2f0d318fac
 io.github.akri16	timelineview	1.0.0		N/A
 io.github.codexiaomai.environmentswitcher	compiler	1.0.0		aaea43d33960f1505dd3626916fea49aeff4789f
 io.github.codexiaomai.environmentswitcher	compiler	1.0.1		ff9b482ca20517cdd611923c766fc02ed96d0bba
@@ -1326,6 +1339,8 @@ org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.17		3fee58301e53674c1e7f5536e
 org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.18		189c0a723b5144fc658c29d64c75425d346e09ea
 org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.19		52e05d3beb528ffecb5e68d74076d072ce9db33a
 org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.2		ad0da51b7fd894cda40f0a3cc6d05f4d123ca352
+org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.20		848f185e174d5fcb2deb0600fa12777a15f9fa65
+org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.21		6f06ed5f91bf9ffcbae4c4d77cfdde4fbb46c9b9
 org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.3		89cd69a1cc845beb4f6bb0e48838be570e3ad7f1
 org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.4		dcb093da9d8fc2a087a8e1a7eb5d7e7019bcef4a
 org.eclipse.jetty.ee10	jetty-ee10-annotations	12.0.5		eeb6b94b07895d2709770f0261783e6568fbe1be
@@ -1463,6 +1478,14 @@ org.scala-lang	scala3-tasty-inspector_3.0.0-RC1	3.0.0-RC1-bin-20210130-ab3bc41-N
 org.scala-lang	scala3-tasty-inspector_3.0.0-RC1	3.0.0-RC1-bin-20210131-913d0a8-NIGHTLY		6f376d13b9162f93c77431ecb6dc12ba66bd56e1
 org.scala-lang	scala3-tasty-inspector_3.0.0-RC1	3.0.0-RC1-bin-20210202-8d43a9c-NIGHTLY		95b16369d8aa5830bfc80549c0fc4e09dd3eec00
 org.scala-lang.plugins	scala-continuations-plugin_2.11.0	1.0.1		c7ab3fe602752b2a810703bee16e7106dac0c532
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.1		38c62d7bd612c9c059c244bc07d6d96eb389be0d
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.2		9aab404bc4fab31d4afdc678f178971b04f22cfb
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.3		f17d8992090e55580fb155e9455549600c328a0a
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.4		fb1ede3fd4d85ee928a5d7c25107c2b7fad888b8
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.5		d46cd4292d48206371ff6a2d44c82cdb6f3b39f7
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.6		a61c1b978c90b9b153f07ff149cdb4acae1f8e8f
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.7		e73139703aeca44d39bb2e4907eda5722752a134
+org.scommon	sbt-settings-simple_2.10_0.13	0.0.8		b9f8a79c40820171bd37af9e27fc78f8b03c63b0
 org.seppiko.commons	commons-utils	1.0.2.RELEASE		441e638f171b8a4dc23f1ea49385efdba9820ebc
 org.seppiko.commons	commons-utils	1.0.3.RELEASE		1df8babca3fc699b793d54647917651537c0885c
 org.seppiko.commons	commons-utils	1.0.4.RELEASE		25ed6af9910bec397cbd58713ba487e2e4784299
@@ -1721,6 +1744,7 @@ org.tpolecat	natchez-noop_2.13	0.3.4		fabd9b2d64d840cd71d250c7f4b213e9c567f221
 org.tpolecat	natchez-noop_2.13	0.3.5		8977ab51d8ec87fd6f9fb55ecfc83378eff0689c
 org.tpolecat	natchez-noop_2.13	0.3.6		fe5b5a1fdba64784ccacc23212af50c67c1a4d45
 org.tpolecat	natchez-noop_2.13	0.3.7		4f608dc8354b12d3fef933de104a6f0dff9c8f81
+org.tpolecat	natchez-noop_2.13	0.3.8		c134ef7a2002e568b149adc42e8fdd9c69cac304
 org.typelevel	paiges-cats_sjs1_3	0.4.2		227a458de1806da577842fa3be76651ca03bee17
 org.typelevel	paiges-cats_sjs1_3	0.4.3		ebc95bde0825cf9616e193e06a1889e2df5375b4
 org.typelevel	paiges-cats_sjs1_3	0.4.4		24c06725a13f8bf24a9dc37279028d92b9f5f312

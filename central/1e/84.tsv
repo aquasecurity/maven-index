@@ -50,6 +50,8 @@ com.aliyun	alibabacloud-dataworks_public20240518	6.0.5		06bd0715ea06d0b3282db7b8
 com.aliyun	alibabacloud-dataworks_public20240518	6.0.6		8a93b2358043358a449efef5d1b03439b0bb81fa
 com.aliyun	alibabacloud-dataworks_public20240518	6.0.7		fe7341de47675c0f6ab1dc1704f319fae80e396d
 com.aliyun	alibabacloud-dataworks_public20240518	6.0.8		fdfac0bae8cc0f727a3a5758868e537f343a8fb3
+com.aliyun	alibabacloud-dataworks_public20240518	7.0.0		e73ebafb595bec882b6fc657bd6c21146bb62872
+com.aliyun	alibabacloud-dataworks_public20240518	7.0.1		53e2a78605fc8d030e8ac6525d4febdc920f0b8b
 com.aoindustries	ao-credit-cards-sagePayments-book	1.0.2		5f8c3efec125bcab03dd804ac3525833393ee0d0
 com.aoindustries	ao-credit-cards-sagePayments-book	1.0.3		92953ce85366a39858ac5d2fc7fc1b14f7929536
 com.aoindustries	ao-credit-cards-sagePayments-book	1.1.0		c45cc17310a3e271da48a25e105bc68bed6ac9ff
@@ -91,6 +93,7 @@ com.github.2captcha	2captcha-java	1.3.1		e040ccefba4a6ea910548f243f508b30ee1cf1b
 com.github.alexarchambault	case-app-util_sjs0.6_2.12.0-M5	1.1.1		70cf784f5adc4cde1b712607f3b4c724a80e0947
 com.github.danny02	AnnotationsProcessing	1.1		6e1b9704d6ee0d847d6a60d3f796794a715f866b
 com.github.houbb	converter-api	0.2.0		c6620b10019a8fe6a94f306200cf89ee19acd565
+com.github.mdr	sbt-axis_2.9.1_0.11.3	0.0.1		841644639c3278da87878329b004f4743bdf72d7
 com.github.squirrelgrip	scientist4k-controlled-http-filter	0.10.0		f5a4473b4f79099f2a4819960d4edea8dedebcd2
 com.github.squirrelgrip	scientist4k-controlled-http-filter	0.10.1		912d5e94e7fafbb2fdd4f6f6fa99c5da66b9070a
 com.github.squirrelgrip	scientist4k-controlled-http-filter	0.10.2		1f428d5a7ae6fff56f2d2fdbb813900af1083fd2
@@ -1253,6 +1256,7 @@ org.apache.camel	camel-cbor	4.8.3		d33c64afedfef1f4564c04badee58e3f612a8b00
 org.apache.camel	camel-cbor	4.8.4		225ac1998390b26293e81f43e8c994f9feb19220
 org.apache.camel	camel-cbor	4.8.5		524717fe27c092a2e36898f7ae120c8392ca5c7e
 org.apache.camel	camel-cbor	4.8.6		0818d79753eaf8c306374ed7998ecdab598545e2
+org.apache.camel	camel-cbor	4.8.7		124a52d7ff9a1af21421c5f367d488101605ea31
 org.apache.camel	camel-cbor	4.9.0		fcb1b6851e990eb1a6d0f696f43837bf28fb48e3
 org.apache.geronimo.plugins.monitoring	agent-jar	2.1		d59605b2acbe4828cf7b6003d7d5699ff702d46c
 org.apache.geronimo.plugins.monitoring	agent-jar	2.1.1		788c13841e053c46bd6bc400967613088e6d1be8
@@ -1929,10 +1933,12 @@ org.jetbrains.kotlin	swift-export-embeddable	2.1.20-Beta2		38c1e23329e6b480767f6
 org.jetbrains.kotlin	swift-export-embeddable	2.1.20-RC		f0d2b7459db0778629693de7ff786ea93261a38c
 org.jetbrains.kotlin	swift-export-embeddable	2.1.20-RC2		dce6508b174e8e11e645cb6e4d69d6fd4d54e536
 org.jetbrains.kotlin	swift-export-embeddable	2.1.20-RC3		3fc1d6a2adadc173f902d36823c5726e8c5bb6ec
+org.jetbrains.kotlin	swift-export-embeddable	2.1.21		c6de7dac372b86bf0b5b45a2114a786f1bab02f4
 org.jetbrains.kotlin	swift-export-embeddable	2.1.21-RC		dd657ded2ed7ce6dc960975c513fd44683fc6b47
 org.jetbrains.kotlin	swift-export-embeddable	2.1.21-RC2		17c1cbfdf79c8373973e353443bc911c2b7dd77e
 org.jetbrains.kotlin	swift-export-embeddable	2.2.0-Beta1		842c97072be17d2da8340a341035f60239141a81
 org.jetbrains.kotlin	swift-export-embeddable	2.2.0-Beta2		a60dd6167ca958c3da294a2ae67e4119f4d8af0d
+org.jetbrains.kotlin	swift-export-embeddable	2.2.0-RC		87122fe644f038f6704578b83180a7e1138db0de
 org.mobicents.smsc	stresstool-parent	3.0.10		N/A
 org.mobicents.smsc	stresstool-parent	3.0.11		N/A
 org.mobicents.smsc	stresstool-parent	3.0.12		N/A
@@ -2139,6 +2145,7 @@ org.refcodes	refcodes-data-ext-corporate	3.3.6		3796ba05e5b8376bf9d92b2d67ea8b08
 org.refcodes	refcodes-data-ext-corporate	3.3.7		05746b8b97222b89c0cd0cf1e1f5b5b47d99fd65
 org.refcodes	refcodes-data-ext-corporate	3.3.8		b6d1c94e28e2b82979f33f3ed9a510522adc8893
 org.refcodes	refcodes-data-ext-corporate	3.3.9		6a4a27e89672f5b6c5c4f4b7a5588687a6ccda39
+org.refcodes	refcodes-data-ext-corporate	3.4.0		bebb03fabb357e4236a1c25ca9c46c8c6bc9ac33
 org.scala-js	scalajs-java-time_sjs1.0.0-M2_2.13.0-M2	0.2.3		3324c557edb9932a619999185c8d327465d8a2ee
 org.scala-js	scalajs-junit-test-plugin_2.12.11	0.6.32		d2f8648af72b9079af4c7f0c5a7b1d9ef891129d
 org.scala-js	scalajs-junit-test-plugin_2.12.11	0.6.33		f6c61e0d7309bc37e07f57e1ab89bf7750344394

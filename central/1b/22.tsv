@@ -695,6 +695,7 @@ io.camunda	zeebe-gateway	8.4.15		bbe8c7f1bb7ca42166018b5e7973d930c9abdc8d
 io.camunda	zeebe-gateway	8.4.16		b1c105243182f602da4160c860c3925e3f0f788f
 io.camunda	zeebe-gateway	8.4.17		42e45bd38a72bdb9d4236d79db1e26301c4cd18f
 io.camunda	zeebe-gateway	8.4.18		cd035e945d12268c42107071fabb2b08a6461102
+io.camunda	zeebe-gateway	8.4.19		f5f2fd27c99fd0ea21d3a204a988c2e950d732c0
 io.camunda	zeebe-gateway	8.4.2		ef1ca3870e5a6d1a386373a5e8633699d83081fa
 io.camunda	zeebe-gateway	8.4.3		eee24fbe9b15b8038f762928d5d427b5ecf45eae
 io.camunda	zeebe-gateway	8.4.4		b4af957c0a33d04e478b84d96571df8ded902f6c
@@ -717,6 +718,7 @@ io.camunda	zeebe-gateway	8.5.14		09afd6f2d3bf9b96ddf533ded3472f00e792a4d0
 io.camunda	zeebe-gateway	8.5.15		5e3ba30ad9611143e915e162f475ecb8ec9b37e1
 io.camunda	zeebe-gateway	8.5.16		eb21d16f9ba72277e8b36ee11e4e6e6718138676
 io.camunda	zeebe-gateway	8.5.17		42170305c75f18d78d6582cf440c328f15f4cc8d
+io.camunda	zeebe-gateway	8.5.18		23f8d598ef5d5cfcbecb731df24643f2755d7472
 io.camunda	zeebe-gateway	8.5.2		cd0637a1e96b8ebe237228517ac30526a39a706e
 io.camunda	zeebe-gateway	8.5.3		0082debfd57a8f221a6c9f677331ffd52c3de7e6
 io.camunda	zeebe-gateway	8.5.4		409db6de8d256c2c46c2465d3966d92a07d78f48
@@ -754,6 +756,8 @@ io.camunda	zeebe-gateway	8.6.12-rc1		5f5dad34a445b6d233a310615fa2c2dfbc793055
 io.camunda	zeebe-gateway	8.6.13		3d159d0d4bbdd97c9e593d5fbb3bc329bcbbe347
 io.camunda	zeebe-gateway	8.6.14		7d23e32447662d6881c40b2ba89e4ffa4b26577c
 io.camunda	zeebe-gateway	8.6.14-rc1		7520230976e99eea814981f5aad92993e8575793
+io.camunda	zeebe-gateway	8.6.15		dcfb12acc4718dd06ea3676c77827f5284fb6d45
+io.camunda	zeebe-gateway	8.6.15-rc1		e5b1f44d8ddbd2207ba3cf169acd90f52e0f9b02
 io.camunda	zeebe-gateway	8.6.2		0506e47d0d50ebb9d66a61f37d0786c89d30fa7f
 io.camunda	zeebe-gateway	8.6.3		4cce47eefdb2710030eec945209b3a895e329975
 io.camunda	zeebe-gateway	8.6.4		b3bd43fc76f4c9bea0718ae4611a37e943ca64af
@@ -789,12 +793,15 @@ io.camunda	zeebe-gateway	8.7.0-alpha5-rc1		522e9b65d146c24971d917b0b13675be27936
 io.camunda	zeebe-gateway	8.7.0-rc3		373bdb11ef716533e1e113a167773388d5885e4a
 io.camunda	zeebe-gateway	8.7.1		9f66e08679bb6e369107bca2ba650cc156864d9c
 io.camunda	zeebe-gateway	8.7.1-rc1		74a2cdd0df7ffe44543027385f4e0ff03ac074f2
+io.camunda	zeebe-gateway	8.7.2		3bc491b0bed2f4a731a573a8b9b0e4a9f88fc36b
+io.camunda	zeebe-gateway	8.7.2-rc1		824b4c7c24e6c987355521bdb885716271a1cfa8
 io.camunda	zeebe-gateway	8.8.0-alpha1		dfca435a198d726d8bec29f4b5f863c22886f52e
 io.camunda	zeebe-gateway	8.8.0-alpha1-rc1		3f4c4a0ad1ccfcf2e86e1a8c78fbeb43cde59adb
 io.camunda	zeebe-gateway	8.8.0-alpha2		4dfb1263936381b831ec67cd8b8ae4661186f317
 io.camunda	zeebe-gateway	8.8.0-alpha2-rc1		411187c6b2565e75561b5abf89ee63fdccf71c5c
 io.camunda	zeebe-gateway	8.8.0-alpha3		6df1d926b82755efe0502785cb76f450f1c6af73
 io.camunda	zeebe-gateway	8.8.0-alpha3-rc3		b51ec09c1baf14b23736f491c430e5916cb8d563
+io.camunda	zeebe-gateway	8.8.0-alpha4		8d4cf654bc3b89b7be44d672ceabfd2fe775d1d5
 io.camunda	zeebe-gateway	8.8.0-alpha4-rc1		a5f7440f805a59eb07b8141e5460b6edb28c80a8
 io.eventuate.tram.core	eventuate-tram-spring-commands-starter	0.27.0.RELEASE		aa010914bfe8f59206e5e95ea600f51346e8106b
 io.eventuate.tram.core	eventuate-tram-spring-commands-starter	0.28.0.RELEASE		ea24e5e04db2ef7b081876a4c683aeeb743e02d3
@@ -1638,6 +1645,7 @@ org.webjars.npm	graphql-tools__url-loader	7.7.0		77ec7be272c7c474e534451236be5cb
 org.webjars.npm	inline-worker	1.1.0		410884f9974c63dd9d356bfd77f12df1ec51b9d0
 org.webjars.npm	npmcli__redact	2.0.1		5199211511e6b45ccf24baa978dbaf2c5d126f3a
 org.webjars.npm	npmcli__redact	3.1.1		c33666a06712028bfc168bd3717913e3fa1adc0b
+org.webjars.npm	npmcli__redact	3.2.2		12929525b2a209da89ebbd28aa1a9f4b96c578cf
 org.webjars.npm	servie	4.3.2		733a0943fb0ac1cad726d16a1164d7bc6a23712a
 org.wso2.carbon.registry	social-feature	4.6.11		N/A
 org.wso2.carbon.registry	social-feature	4.6.12		N/A

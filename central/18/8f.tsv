@@ -270,6 +270,7 @@ com.daml	test-common-upgrade-fetch-tests-java-2.0.0-1.dev	2.10.0-snapshot.202501
 com.daml	test-common-upgrade-fetch-tests-java-2.0.0-1.dev	2.10.0-snapshot.20250114.13163.0.ve965e38d		f5f3e713e31fdd93d4f18a86b7644f2cadf8d651
 com.daml	test-common-upgrade-fetch-tests-java-2.0.0-1.dev	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		a296b9b9b45cc13974ab755cb2df4f0c662ca515
 com.daml	test-common-upgrade-fetch-tests-java-2.0.0-1.dev	2.10.0-snapshot.20250211.13169.0.vd812609c		70733a09620e4df20fb6d9421f4886c6d3520d5d
+com.daml	test-common-upgrade-fetch-tests-java-2.0.0-1.dev	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		8570507107006df24ead682538d003dc13144e54
 com.dua3.utility	utility-samples-slf4j	12.0.0		6b7fd3b037b14ededc337bd79a5d9ced75e23eb4
 com.dua3.utility	utility-samples-slf4j	12.0.0-beta10		f8ce6bfc2767eaf58070d16b5e0740e870920acc
 com.dua3.utility	utility-samples-slf4j	12.0.0-beta11		3ab973181ab3d5ce0b6bf73fe5f91d9d06342ebe
@@ -348,6 +349,10 @@ com.dua3.utility	utility-samples-slf4j	18.3.0		f18a3f5add3a198d0bbdf4e5ee771d1f5
 com.dua3.utility	utility-samples-slf4j	18.3.1		b8fe322f86cdf4855584fa68498c068f1c6c56ac
 com.dua3.utility	utility-samples-slf4j	18.4.0		43aefe10e27434996dee7826642635c6321585f2
 com.dua3.utility	utility-samples-slf4j	18.4.1		7e3a44ee79020712d8042ba10c317940702bd091
+com.dua3.utility	utility-samples-slf4j	18.5.0		9f50318e30f923ff819a3dbf970797d0bcdd4bbc
+com.dua3.utility	utility-samples-slf4j	18.5.1		98844146a8db0802309e586696e214360a3a1a1a
+com.dua3.utility	utility-samples-slf4j	18.6.0		8609ea3178beb52a4fde7c95050c13ab1f96fc2e
+com.dua3.utility	utility-samples-slf4j	19.0.0		43e86f48d5106a73455c9f936fda603050fe2aff
 com.github.air-project	project-dict	0.1		ad8fcc0873ddfe67a1a75d3955b4bae34e720ff6
 com.github.losizm	little-json_2.13	2.7.0		d59013ba1379ee88a2d57d1a88621f3d6b29f7f3
 com.github.losizm	little-json_2.13	2.8.0		156364b98e2e8b9c49457dba17ff6e60aece0b97
@@ -973,6 +978,7 @@ dev.zio	zio-aws-workspacesthinclient_2.12	7.31.27.1		58c74846c7233051a449f05a12b
 dev.zio	zio-aws-workspacesthinclient_2.12	7.31.28.1		a198873eefa4124c0c0ced2bf61350b18147e922
 dev.zio	zio-aws-workspacesthinclient_2.12	7.31.3.1		f90761ea9b9dea9d867d1fb1c7ebeb1976fea8a2
 dev.zio	zio-aws-workspacesthinclient_2.12	7.31.30.1		cdcd3df7daede3e5c57da5b1f1836ff5d68a936b
+dev.zio	zio-aws-workspacesthinclient_2.12	7.31.30.2		b667d66dfea9a4671318ae32082eff617c316636
 dev.zio	zio-aws-workspacesthinclient_2.12	7.31.4.1		c6644d22a315ac8c87bb838b804b1e7f8c2f02e4
 dev.zio	zio-aws-workspacesthinclient_2.12	7.31.6.1		db83d30e97d9583c07e4c2cae6ae091ea20b9fbd
 dev.zio	zio-aws-workspacesthinclient_2.12	7.31.6.2		9775d0e697fdc3d5c97d1819e650c1ae41aa39f5
@@ -1340,6 +1346,7 @@ io.helidon.messaging.jms	helidon-messaging-jms	4.1.6		a4a73c28a151dab0ffb19ea314
 io.helidon.messaging.jms	helidon-messaging-jms	4.1.7		a498ae976f68b438b8eaf79652f9859768fd0ec9
 io.helidon.messaging.jms	helidon-messaging-jms	4.2.0		9b2e55d5d08a2d5aa5e3f7e4c8a638182b40b288
 io.helidon.messaging.jms	helidon-messaging-jms	4.2.1		e415c821e88faeaf05512f870fb859c1d8fb22d5
+io.helidon.messaging.jms	helidon-messaging-jms	4.2.2		4953e04d202e76281634e27a783c40ff734964b1
 io.loli.nekocat	nekocat-core	0.0.1		995ebdb3a565d59a51e2cc65cfc27f6b06983d20
 io.loli.nekocat	nekocat-core	0.0.2		2c7fb4e612811074b800c2b68eb01d651e7d4b8d
 io.loli.nekocat	nekocat-core	0.0.3		d906d9a513d8e2f0409d94615e8aff00332c60c9
@@ -1568,6 +1575,7 @@ org.apache.camel.springboot	camel-xml-io-dsl-starter	4.8.3		d9b17675114e40c95731
 org.apache.camel.springboot	camel-xml-io-dsl-starter	4.8.4		8a3d17c0e12d4ea76cd7f77e7ad9f55899a783ab
 org.apache.camel.springboot	camel-xml-io-dsl-starter	4.8.5		4595ef0ecb39849a353d0dd18567a4a7759dc25a
 org.apache.camel.springboot	camel-xml-io-dsl-starter	4.8.6		e7efe200d686ba4f3fd9b095fe1d852cae335d18
+org.apache.camel.springboot	camel-xml-io-dsl-starter	4.8.7		787ff297dd35903fa4a9f183abfa1f9f1a367e66
 org.apache.camel.springboot	camel-xml-io-dsl-starter	4.9.0		13c97a331674b9e7fd1ed2c6044d6aef9e8e5a86
 org.apache.dubbo	dubbo-serialization-fastjson2	3.1.0		81f824bded7d5bf248f60e9a6a9393f72aa758ca
 org.apache.dubbo	dubbo-serialization-fastjson2	3.1.1		f71568c135c89592f3cc4e33d70e98bdb9d3f17e
@@ -1682,6 +1690,7 @@ org.danilopianini	rrmxmx-kt-watchosarm32	2.0.3		N/A
 org.danilopianini	rrmxmx-kt-watchosarm32	2.0.3	metadata	02d230010b183e461bf396ec13d03c7d0ba28988
 org.danilopianini	rrmxmx-kt-watchosarm32	2.0.4		N/A
 org.danilopianini	rrmxmx-kt-watchosarm32	2.0.4	metadata	dc9c4a0b96ede4bb1ed64971426514ceca5814f3
+org.danilopianini	rrmxmx-kt-watchosarm32	2.0.5	metadata	92f69fac41e43847dbe050b7b5956dcb768b46fe
 org.eclipse.apoapsis.ortserver.transport	kubernetes	0.1.0		4a4e2164d1917252a8d2d089fb977e8766fc3389
 org.eclipse.apoapsis.ortserver.transport	kubernetes	0.1.0-RC1		905c792a71f1c145a95b1fb2b1e3dfb71e502e62
 org.eclipse.apoapsis.ortserver.transport	kubernetes	0.1.0-RC10		5a4e30f8746fea627b5ecec865cb61b1fb319f81
@@ -1704,6 +1713,8 @@ org.eclipse.apoapsis.ortserver.transport	kubernetes	0.1.0-RC9		304b609af3650a5df
 org.eclipse.apoapsis.ortserver.transport	kubernetes	0.2.0		90ee92784b9680292f037871ea2acf4c58170cb3
 org.eclipse.apoapsis.ortserver.transport	kubernetes	0.3.0		9ccc50111dd5b2beb88f0e50cdbd945e74534a20
 org.eclipse.apoapsis.ortserver.transport	kubernetes	0.4.0		bd35a235d630caf0bdaa928ef5421e234ba4783c
+org.eclipse.apoapsis.ortserver.transport	kubernetes	0.5.0		075e8522c6a14c6e85bd61886b653bd89963539c
+org.eclipse.apoapsis.ortserver.transport	kubernetes	0.6.0		b179ce7bf2d7ef242656f3a2f25bdd7e5c7df710
 org.eclipse.birt	birt-tests-suite	4.9.0		N/A
 org.fcrepo	modeshape-webdav-war	5.4.1.fcr		N/A
 org.fcrepo	modeshape-webdav-war	5.5.0.fcr		N/A
@@ -1838,6 +1849,7 @@ org.junit.platform	junit-platform-launcher	1.12.1		ff5af5e325705fb1d5926a0235cc6
 org.junit.platform	junit-platform-launcher	1.12.2		79d49ad13017c67a8bf76e10ba5ac8937d811772
 org.junit.platform	junit-platform-launcher	1.13.0-M1		18403e1a39be2ca798b304dd3338fd04e5a2eba1
 org.junit.platform	junit-platform-launcher	1.13.0-M2		8ea31f7efa52819db98580a3234e4a6be8855549
+org.junit.platform	junit-platform-launcher	1.13.0-M3		d87d4cba21319ff4810acfc04fe5a1e7e9824478
 org.junit.platform	junit-platform-launcher	1.2.0		ea230ba8c0b71943d4dd2bb215ca29041c89966e
 org.junit.platform	junit-platform-launcher	1.2.0-M1		a2aa78fac2b7314ecf60f8ba9fba2abc8c3618c8
 org.junit.platform	junit-platform-launcher	1.2.0-RC1		e5f49617b5f5fe13d441f3cb0163980faf16455f

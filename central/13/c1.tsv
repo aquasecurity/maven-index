@@ -438,6 +438,7 @@ com.google.cloud	google-cloud-pubsublite	1.15.3		8759c0916edf66964dd6398667d6670
 com.google.cloud	google-cloud-pubsublite	1.15.4		1486afbd324f58a7cd660ac3cea95ec3e9947a52
 com.google.cloud	google-cloud-pubsublite	1.15.5		82fe3376e92498857faebd56afd7a9fc724e5b95
 com.google.cloud	google-cloud-pubsublite	1.15.6		0104a1eb8863a758886888d2e6d7e75e85bb019c
+com.google.cloud	google-cloud-pubsublite	1.15.7		79fb176d852bafea61e1711f7e480bb93b8101a4
 com.google.cloud	google-cloud-pubsublite	1.2.0		9c2aa77b382da41d8aa19102c439b3bb65442a0b
 com.google.cloud	google-cloud-pubsublite	1.3.0		76b1e2ca58d54b9ca4938905e8bbcb1bb7f2fe9b
 com.google.cloud	google-cloud-pubsublite	1.4.0		76df3d61f2d36ad37b1562633c13d2f857d63466
@@ -720,6 +721,7 @@ de.adorsys.psd2.sandbox	tpp-db-api	5.8.2		c75d4715b7846eae57138c76048490cd88e49f
 de.adorsys.psd2.sandbox	tpp-db-api	5.9		bb321bcd2ca1c8b11c4774d70e6534e9a48076d3
 de.cidaas	cidaas-quarkus-extension	1.0.0		a4413545988ec1c6f36b24c9970c9ed10b875aad
 de.cidaas	cidaas-quarkus-extension	2.0.0		5e136e92d3af6e7ee35c572f5e10213a892cc01a
+de.johoop	sbt-testng-plugin_2.10_0.13	3.0.0		6455a3e0c253aed58eb1c0800cc4a70e8d3bb224
 de.quantummaid.injectmaid	core	0.0.15		dc4c68b5ffcafa6339033a7bf654bf5797da06c5
 de.quantummaid.injectmaid	core	0.0.16		1673964780f9c781e8673de35b716352ab0d9ce8
 de.quantummaid.injectmaid	core	0.0.17		d0e9e3c8f7ed0bab9d86e787eadf229ab0bf1b3d
@@ -889,6 +891,7 @@ dev.zio	zio-json_sjs1_2.12	0.7.4		ee00c4ebc4a73ad468bdf884d491ff9131b9879f
 dev.zio	zio-json_sjs1_2.12	0.7.40		cb4b026b97c6860ad77ba5089275a0c4ca5e0992
 dev.zio	zio-json_sjs1_2.12	0.7.41		60ca9e9c4a689ff40fd9c64328b0224408b3bcb0
 dev.zio	zio-json_sjs1_2.12	0.7.42		89a553b2c5883c98c7442c9427da2562d5460e16
+dev.zio	zio-json_sjs1_2.12	0.7.43		b3a976f310fc681630c61893ad4e0872b811cabb
 dev.zio	zio-json_sjs1_2.12	0.7.5		d3ff73c0b48e5f23cf188aa64cb53d15e0296c2d
 dev.zio	zio-json_sjs1_2.12	0.7.6		255fc509028d44effb934982d4a6ad5decd48e6b
 dev.zio	zio-json_sjs1_2.12	0.7.7		d6165f155904c21bc8a71fb3f06943b625221f05
@@ -1544,6 +1547,7 @@ io.kotest	kotest-common-iossimulatorarm64	6.0.0.M2		N/A
 io.kotest	kotest-common-iossimulatorarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-common-iossimulatorarm64	6.0.0.M3		N/A
 io.kotest	kotest-common-iossimulatorarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-common-iossimulatorarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-framework-datatest-macosx64	5.0.0		N/A
 io.kotest	kotest-framework-datatest-macosx64	5.0.0	metadata	20749c44ce7a0e029d7846b423f1c56ca3205587
 io.kotest	kotest-framework-datatest-macosx64	5.0.0.RC2		N/A
@@ -2385,7 +2389,9 @@ org.opensourcebim	bimserverapi	0.0.174		2981adf50fc4466c900529d9b04ef77cfb3b1f7a
 org.opensourcebim	bimserverapi	0.0.175		fd7882d6f1c61ccf708121b74fcdb04c13cb47d8
 org.opensourcebim	bimserverapi	0.0.176		5ec0b72575e435cd0721fb1d4122bd64ba56751e
 org.opensourcebim	bimserverapi	0.0.70		b9377c000d179c4a9bef7acbd2bd3af1bc223bec
+org.opensourcebim	bimserverapi	0.0.70	bimviews-0.0.70	177cdf01aba3a8d8e5cd8bcae0590eb9936c8c3c
 org.opensourcebim	bimserverapi	0.0.71		45d053f09522d91bfa55568ead9a4bfcc17ccf86
+org.opensourcebim	bimserverapi	0.0.71	0.0.71	d91007d564b4a38de9762645887e2bb36c0a8bc0
 org.opensourcebim	bimserverapi	0.0.72		42b3abce4c0567ce662d2d331ddb40a0e6d4f6c6
 org.opensourcebim	bimserverapi	0.0.73		5358962605486068f638359426d1be88a83e9326
 org.opensourcebim	bimserverapi	0.0.74		00ebcfdad06060649a20786e9ee5c08d42a5b21c
@@ -2618,6 +2624,7 @@ pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.11		2cd9b7592c67aa1
 pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.12		fce36911b5443899d16513c21c6f9bebfc91a310
 pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.13		5cad85c4eb24a2cd1699ed33cb50b2f9157ce048
 pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.14		174ef22f32abe63ad52b9abc0acc58a2b319625e
+pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.15		216dcad40ca4da71cc5f8eb819d1bfeb4509bd3b
 pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.2		b2961458823f73a441a31c6aa102a057924f612f
 pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.3		0f2b1f4b104ae94c3948fdde1e8a5b6629a92224
 pl.allegro.tech.servicemesh	envoy-control-source-consul	0.22.4		6b3cde7542c738398493c5765040531f21d1a0c9

@@ -217,6 +217,8 @@ com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.63.0		aab96
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.64.0		7b34d79a126c28b937ace5725a57f26e753bcabd
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.65.0		d95c949604b928f3b798b60a40164897cc002a4a
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.66.0		bff1e9dd692b231988a4a26a54a9b6a9ec6c3831
+com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.67.0		7f5133b41fe1af229ed1adb94170a38c17e68520
+com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.68.0		23fb9b66a6ec804851f72c09f6ffe6be8fc08b84
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.7.0		972b4decd0509cacac6f722bdb5505870dc67f9f
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.7.1		e8d7a1336a318a7b7d5fbb761173d13f5c63b901
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.7.2		3b04132e1e7a96e4f42915bfd9e4170da34b4a87
@@ -231,12 +233,15 @@ com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.8.8		747274
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.8.9		56580e7f9dec5e9410b4d1fdeff1bb2482113c2e
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1alpha1	0.9.0		fa6c9d80d76c524038dd804aca63e8a00ceee610
 com.google.maps	google-maps-fleetengine	0.1.0		b5661e21676a5230c1a2ff2a6520c97e96f771d4
+com.google.maps	google-maps-fleetengine	0.10.0		55cc7a89bea88f4e4976a2f0db5175f877a442a8
 com.google.maps	google-maps-fleetengine	0.2.0		c37fbdc7a0e0611d69e06f9b1127e52e7dbe6ebb
 com.google.maps	google-maps-fleetengine	0.3.0		1ba9e5b09a6eb6e2e016256b2be891688604c6b1
 com.google.maps	google-maps-fleetengine	0.4.0		afe500b85bafcc36298fc6c8748bbb81ad8aaecb
 com.google.maps	google-maps-fleetengine	0.5.0		9e828e76446c9ecff7454c6d9c5e9b5065ea13d2
 com.google.maps	google-maps-fleetengine	0.6.0		cb37242e3cd3e48105e7b36d01eb72976935a1de
 com.google.maps	google-maps-fleetengine	0.7.0		f92b6c4cecbce358400456d33bc90e39577668a3
+com.google.maps	google-maps-fleetengine	0.8.0		0963de887e613a0e873183e36a5d390e1ced2adf
+com.google.maps	google-maps-fleetengine	0.9.0		d2bad740801091cc27a3f33d9fd91d5f72d6865f
 com.hazelcast.jet	hazelcast-jet-root	0.3		N/A
 com.hazelcast.jet	hazelcast-jet-root	0.3.1		N/A
 com.hazelcast.jet	hazelcast-jet-root	0.4		N/A
@@ -450,6 +455,7 @@ dev.galasa	dev.galasa.common	0.25.0		525308f8b91925c14808f860af51531e0d06fb9d
 dev.galasa	dev.galasa.common	0.38.0		14964a21ad683069efa1dee572444c67fb55f41b
 dev.galasa	dev.galasa.common	0.39.0		2c67438b192905c18d8c6fbc63c19f97d00765f9
 dev.galasa	dev.galasa.common	0.40.0		b2dc619ec40b682c4fafa81cbfd8369219e9b7f8
+dev.galasa	dev.galasa.common	0.41.0		85118106fbacc19c5bb1e3ab3daa34e2de14052b
 dev.medzik.android	utils	1.0.0		N/A
 dev.medzik.android	utils	1.1.0		N/A
 dev.medzik.android	utils	1.2.0		N/A
@@ -677,6 +683,7 @@ io.kotest	kotest-runner-junit5-jvm	5.9.1		5f15e9222d18b848de3bd259f8a2527d8be7e2
 io.kotest	kotest-runner-junit5-jvm	6.0.0.M1		6cc6eb43fe0ad7420ff21d67182e7a7aec8f8407
 io.kotest	kotest-runner-junit5-jvm	6.0.0.M2		16cb784623fa23ae0006b50bbfdfeda938e995a8
 io.kotest	kotest-runner-junit5-jvm	6.0.0.M3		09389183f76202412897438e3075d29331773e8a
+io.kotest	kotest-runner-junit5-jvm	6.0.0.M4		09389183f76202412897438e3075d29331773e8a
 io.smooth-way	android-battery	0.1.0		N/A
 io.smooth-way	smooth-audio	0.0.1		6736077a05980f88d809a66773d35b2220bc5377
 me.proton.core	feature-flag-domain	10.0.0		4b1627a476c48deb1c0b0e28c634535afb2b0d82
@@ -785,6 +792,7 @@ me.proton.core	feature-flag-domain	30.4.4		82d1925d29ffb741b0caf822d4d65c9263144
 me.proton.core	feature-flag-domain	31.0.0		f660752bc162a1a161980664376bdff8a38604c3
 me.proton.core	feature-flag-domain	32.0.0		2845f0c224c0575a7a2b2c67c24dc033e08f8431
 me.proton.core	feature-flag-domain	32.0.1		5c4ff976fb5f57449777805a921cede146200f5a
+me.proton.core	feature-flag-domain	32.0.2		af7cf3db6456a71e8b129c23eb9847106a80bc29
 me.proton.core	feature-flag-domain	7.1.0		06d4b4ae6ee5ed30889c23b71b3dca8afe4b9a02
 me.proton.core	feature-flag-domain	7.1.1		70e0440697977b07bc8773df7f21bcfa47239a0c
 me.proton.core	feature-flag-domain	7.1.10		eb86f675ef65ad711cd6edad1be4c4c05b249cde
@@ -1348,6 +1356,7 @@ org.refcodes	refcodes-rest	3.3.6		1e31264a35b9ae578d2b9c8c357d2eedc6e03cf1
 org.refcodes	refcodes-rest	3.3.7		853205c9b6505adc07e4fd0cdc2389dd57c3e1f1
 org.refcodes	refcodes-rest	3.3.8		79b74c44b67fc45db09d01116a0dc83d00ec691c
 org.refcodes	refcodes-rest	3.3.9		275d3ff7f97bea41889204efcfdbe1d4b1ec933d
+org.refcodes	refcodes-rest	3.4.0		ad2861b9f2873c4fc1d112d0a80e475b51632c23
 org.ryoframework.support	ryo-support-storage	1.0.0		0a6bafc132d8853d94cd676a9e5ddff6404970b8
 org.ryoframework.support	ryo-support-storage	1.0.1		5eff797418e4456f2d96c93e3e70373a81b98a34
 org.sangria-graphql	sangria-marshalling-testkit_2.13	1.0.2		f667a9bc53aa69eae92552a1cf8dada35223198b

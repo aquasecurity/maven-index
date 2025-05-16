@@ -544,10 +544,14 @@ com.google.cloud.bigdataoss	gcs-connector	3.0.5		cdda0b2a15001cf7d62a001e8265c8b
 com.google.cloud.bigdataoss	gcs-connector	3.0.5	shaded	05923684f0d680f0aa50ec5864fb99e4cc671b96
 com.google.cloud.bigdataoss	gcs-connector	3.0.6		329d247ff7ca6ba6ea4bd750cbb1204b637c78b3
 com.google.cloud.bigdataoss	gcs-connector	3.0.6	shaded	98ec027e5ee6c4122d27df2bc2e0d0d03eb54157
+com.google.cloud.bigdataoss	gcs-connector	3.0.7		308d98b328229c8226fe1126a21c888f7e80018a
+com.google.cloud.bigdataoss	gcs-connector	3.0.7	shaded	6cc6d9a553eb0b6f6f4bffa7bcecd77fbd81802f
 com.google.cloud.bigdataoss	gcs-connector	3.1.0		3bbf9e7493a699c41f723742c891b905a42efbaa
 com.google.cloud.bigdataoss	gcs-connector	3.1.0	shaded	3938ed19b1f5cbb24530e4dbbf8a7072e64bb60c
 com.google.cloud.bigdataoss	gcs-connector	3.1.1		48fd126622901a9fdd5b538809cbba5a15bdeab1
 com.google.cloud.bigdataoss	gcs-connector	3.1.1	shaded	3e980939f6d1ea130df55e494287e9cbdaf97374
+com.google.cloud.bigdataoss	gcs-connector	3.1.2		1bf33a80415f9a7808f8a124f9a7e2bc05cbd438
+com.google.cloud.bigdataoss	gcs-connector	3.1.2	shaded	32ea3e0128ba27e4e07f94a12556c96fa04e87c3
 com.google.cloud.bigdataoss	gcs-connector	hadoop1-1.9.10		26f1c12f78791a4f8fb5c582466361d1de3d0c84
 com.google.cloud.bigdataoss	gcs-connector	hadoop1-1.9.10	shaded	0fe56331526e3629e3105d501b820b0dbd46c5dc
 com.google.cloud.bigdataoss	gcs-connector	hadoop1-1.9.11		620d266f038409de954197f67c0b3005c0bb325e
@@ -672,6 +676,8 @@ com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.25		7f76f6819fc333cad85ef6
 com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.25	shaded	1b3dc2fa3f182488b0e9bbc5e7feb7d7ebc72dc5
 com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.26		966170b94ae2fae37702d292cd081e5d541fe1da
 com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.26	shaded	99008bbe58e3671e7057617b301b73b1e0cb1cdd
+com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.27		875014b6c671acf827800255578e9851ae0c33ab
+com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.27	shaded	779cf6e3c95a0b927a5a64aa1869366d8b6df38a
 com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.3		9f959a755f8f62dee97880f4a2f732d470c83d95
 com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.3	shaded	2ca4bed75a1fcbd6ef4a4003a59abbe7a1be8506
 com.google.cloud.bigdataoss	gcs-connector	hadoop2-2.2.4		5aaab32b9429595d3f1199bb1ecfc85d53043b29
@@ -782,6 +788,8 @@ com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.25		a5f81dc0213820e6e205b7
 com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.25	shaded	1cce92a724ba628558c29115a7de623acc6b499a
 com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.26		dba3f1af59027f829557b5cfd69d715678bc3bba
 com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.26	shaded	660b2b454787cad069da50f44dfe5bd6f39d7f12
+com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.27		2f2d98290153e66d89d22639dad3b244a8f553c8
+com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.27	shaded	fba98ae92cbecb644fc751b07ba737c9868a48de
 com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.3		2e0a1d51c927ccf14a3d01973620079224c186ef
 com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.3	shaded	b173488149b1891960bfbfb152cba580f103c3bd
 com.google.cloud.bigdataoss	gcs-connector	hadoop3-2.2.4		fd7c9b6404b5c7eca73e9d4bc41255b41d92cda6
@@ -914,6 +922,20 @@ com.liferay	com.liferay.portal.target.platform.indexer.api	1.0.2		27c0d1a3d7e7d9
 com.liferay	com.liferay.portal.target.platform.indexer.api	1.0.3		9f7cda731b0a2afba4cbfb634b55b830c266a8a4
 com.mapbox.mapboxsdk	mapbox-android-plugin-building-v7	0.5.0		N/A
 com.mapbox.mapboxsdk	mapbox-android-plugin-building-v7	0.5.0	dokka	60dd8d1b2b20e12204bddf87189685cf065308c7
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.10		0d724447dcbf62a62ec51328970028285d604573
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.11		1e4a2fc47d3845d6d29fd06323695bf081678d50
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.12		ee1e8e444ff0554465832846d549f54e8b746963
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.13		0c9b969194e9575670bd18d3ddd438e39c049b12
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.14		3a7931f6a46d6b1cf6655fbdd391fa6b1d121866
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.15		f7a15b16a8a6773498ffa5a83cf0fab50e601d48
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.16		19f9dbf7e656744d29e947f224e6b05dec2711bd
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.17		8afdebf4d4eb1fee452d828f3722bbcb76140b1a
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.18		314ab2a8d6b61bd0a6d95de3dce33a798815baf9
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.19		e517bafa130e5e915f4f2fc78a16d760c6f11cb6
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.6		91505f2ad462d6d34aa4dde881bb895ec8283361
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.7		4ea81cd7f95ce3a135b61b754e908aca4e19fefc
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.8		60e6ab96c2711cb29a7ec419ededa232ae987e9e
+com.mnubo	dbevolv-sbt-plugin_2.10_0.13	1.0.9		81d060abcc28239f203742f84e4eaea4ed445888
 com.outr	scribe_3	3.10.0		6955cc8e119169d638ddfab70c3c5e931557f062
 com.outr	scribe_3	3.10.1		874bab8ab247abb9f12cca2616d93040e7d95192
 com.outr	scribe_3	3.10.2		869011dbc8e5a3619ef75230a7f2f6587a3551c3
@@ -1384,6 +1406,8 @@ io.github.jan-tennert.supabase	compose-auth-ui	3.1.1		c1ff01b7e00b63353346478b1f
 io.github.jan-tennert.supabase	compose-auth-ui	3.1.2		c1ff01b7e00b63353346478b1f2daea05bbcaaf5
 io.github.jan-tennert.supabase	compose-auth-ui	3.1.3		c1ff01b7e00b63353346478b1f2daea05bbcaaf5
 io.github.jan-tennert.supabase	compose-auth-ui	3.1.4		6335b1aa9294096dabdfdd4dd5790ec9698dbf06
+io.github.jan-tennert.supabase	compose-auth-ui	3.2.0-beta-1		6335b1aa9294096dabdfdd4dd5790ec9698dbf06
+io.github.jan-tennert.supabase	compose-auth-ui	3.2.0-beta-2		6335b1aa9294096dabdfdd4dd5790ec9698dbf06
 io.github.m-m-m	mmm	1		N/A
 io.github.m-m-m	mmm	10		N/A
 io.github.m-m-m	mmm	11		N/A
@@ -1722,6 +1746,8 @@ io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.21		27b3785d6e1c06a99f22e7
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.22		1b85a7b50df5f63656295d9d7103f4d494ccc172
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.23		ee34b92bd6cf707839e6fdabcb969820165f2925
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.24		b467da2a40242814b0d04aa5ebbe1dcc7aa31c21
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.25		801aa2def522f1553616382605643f7f66386428
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.26		aea2aee964df6fc3d20ab92487fa8b269d540dbd
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.3		68c3d54c2d78d2f25081eff29249ac2b95234300
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.4		d93b7a629a3eb9fd31c8936a225de8ade45722ad
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.4.5		c909f1c6d4b9729afec5522b9deef0bd9f643a6d
@@ -1740,6 +1766,8 @@ io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.11		c96b345242437b37dc4f37
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.12		81d697c9130bc647d1d69b1f2c7717aedcc2cdce
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.13		5e210ccb438dc9c7a368848ab806ac32a0443a49
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.14		e9a0e4905f77550ff967d8bfa7114e05f1820b97
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.15		c436e43b683b0098da3491e29942c24cadc194be
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.16		b0973a8b83e8c2b07ad8a156b0778c663c313da9
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.2		c8def9416b3b562dd68c294e7c19a8ffc2fd7c6a
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.3		31724bc35b6f6570127d3719b23198e470bbdb08
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.5.4		331db1def4aece41ba3d36e7d42b85e166938d82
@@ -1753,6 +1781,7 @@ io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.0-alpha.1		9a2306d9ad422e9
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.0-alpha.2		35bf48298fe85046ff7b250f85e3bb2ba71815e4
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.0-alpha.3		dc32493869fe158a6e5dd93a035efce83dccd51d
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.1		fe6fbeba44e68977bda5866968d3fd17d38bf6db
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.10		68533c2eabda05777ade5767f3670219cdf63182
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.2		3bab60625878dcbc6dca2aca6bad3c312621f7f0
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.3		452f243abf241aebe8ae5644d226179505136681
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.4		accf3467f32f7a91c012458e6c5c5aa05ed3a2e2
@@ -1760,6 +1789,7 @@ io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.5		7d7038bafb849ff01d7dc63
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.6		a30b97938543c3e28be44a132c9b6ae7770072ff
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.7		73dfe85839a316f2082132f5806161f2f209459b
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.8		9b0bb23e8aa9b65648032386e2b346d76f136389
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.6.9		7f43778600533291b3be5746caeeed0552e0b856
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.0		6a09a0dec7da846f1e9bc24b095f05e5bf4e425e
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.0-alpha.1		abdeab8249b15e1d02f2ae6e1aa1f6b142cf6ca1
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.0-alpha.2		f9923fd8198f0ccb4b908bb7f267639274af01d2
@@ -1767,6 +1797,8 @@ io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.0-alpha.3		7db38d5d2a09d5e
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.0-alpha.4		a6f070d7723aa1bbc67e033d4df53c291950e68a
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.1		e68eaebac07ab7673240ad901d0de8442939ce6a
 io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.2		b7d8e03c2fa9a8c247184e14dbe76e1f1a93b426
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.3		36e9269bce464b9e2990a92e8b56b1afd7ee81e8
+io.gravitee.am.resource	gravitee-am-resource-smtp	4.7.4		b4dfb1e36c63f66d1f7df147b98da9a43ddc59cc
 io.hyte.activemq	activemq-client-jakarta	5.18.0.hyte-1		0db08d0a762cfd6a20c3cba14d76218be2eb87df
 io.jooby	jooby-freemarker	2.0.0		2f05fbbe864d302f3857c69d6eb69c0ee71d57f9
 io.jooby	jooby-freemarker	2.0.0.M1		572bd67368f8964782342349b1738fcddd23af34
@@ -1879,6 +1911,8 @@ io.jooby	jooby-freemarker	3.5.5		10b70b8bfbbb2e520ebd81f8d27ef743553f3ae1
 io.jooby	jooby-freemarker	3.6.0		c6f3bd09c227286748a3f7155acc992e37d1067c
 io.jooby	jooby-freemarker	3.6.1		31ab0200220194a346b03db73a984a59f0dcc1c5
 io.jooby	jooby-freemarker	3.7.0		46b60afe0b9acad6f45480019696fff3c7aaccca
+io.jooby	jooby-freemarker	3.8.0		9d73c622b220e06ac3792588132bfe99f9f73ead
+io.jooby	jooby-freemarker	3.8.1		172c23e3039b5b9253fd933b8b0fe62694cfa34d
 io.joynr.examples	radio-jee-provider	0.18.3		N/A
 io.joynr.examples	radio-jee-provider	0.18.4		N/A
 io.joynr.examples	radio-jee-provider	0.18.5		N/A

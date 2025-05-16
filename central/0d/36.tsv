@@ -427,6 +427,7 @@ io.automatiko.addons	automatiko-db-persistence-addon	0.41.0		49a2a8bc34e310b94f2
 io.automatiko.addons	automatiko-db-persistence-addon	0.42.0		9578dab18e5684752691f8861ed22520e87c82df
 io.automatiko.addons	automatiko-db-persistence-addon	0.42.1		16aff0f316891757e9e584fd985b1c5f929fde19
 io.automatiko.addons	automatiko-db-persistence-addon	0.42.2		17939bd02e53c675084b5dcef5595e5c9abde5c0
+io.automatiko.addons	automatiko-db-persistence-addon	0.43.0		39d28397c282ff8222413b56bbb187a3392ff7e8
 io.automatiko.addons	automatiko-db-persistence-addon	0.5.0		189553489960654cc23f90e40e1224c3b0c1eb87
 io.automatiko.addons	automatiko-db-persistence-addon	0.6.0		f2ee9797c40501df8ba7eb4edc02fd6f3bd5e504
 io.automatiko.addons	automatiko-db-persistence-addon	0.7.0		71e584eec9f5e6a2101c7b97943fca2f4acb45d0
@@ -516,7 +517,11 @@ io.openliberty.features	io.openliberty.internal.mpVersion-3.0	25.0.0.3		N/A
 io.openliberty.features	io.openliberty.internal.mpVersion-3.0	25.0.0.4		N/A
 io.spinnaker.clouddriver	clouddriver-azure	2025.0-0		33c64e8ddf0260cbb9573b638bcb45f526ec7136
 io.spinnaker.clouddriver	clouddriver-azure	2025.0-1		f0053f06fde6b1e4fd7478d12c29abdc13086a1f
+io.spinnaker.clouddriver	clouddriver-azure	2025.0-2		5a15714e704b5bc8471d230cf342590a77b2cccc
+io.spinnaker.clouddriver	clouddriver-azure	2025.0-3		9963beb6385f4b5c0cef069dfa51ef8ab5ba5396
+io.spinnaker.clouddriver	clouddriver-azure	2025.0-4		74fbf0342abe4d3462e63c9f68bedc71a7b0738b
 io.spinnaker.clouddriver	clouddriver-azure	2025.0.0		16978cb4b564633dbd140793e0f667a7f263941d
+io.spinnaker.clouddriver	clouddriver-azure	2025.0.1		fe3046056ab133282c6981c710f5fb19765c04d9
 io.spinnaker.clouddriver	clouddriver-azure	5.74.0		7e7489ab12b92a0d4aec050b69175ff317a97afb
 io.spinnaker.clouddriver	clouddriver-azure	5.74.2		a9d1fe2dd5ffc149188f8a47e8c1d4b5a2d4616d
 io.spinnaker.clouddriver	clouddriver-azure	5.74.3		73cb901ea4b360c6d6492866533b878eccf73e7d
@@ -597,14 +602,19 @@ io.spinnaker.clouddriver	clouddriver-azure	5.91.3		64842e66e3fd8d004c3c1801a9ea6
 io.spinnaker.clouddriver	clouddriver-azure	5.91.4		555125c9dad22889c95fb4fecba7687ec6b59bd5
 io.spinnaker.clouddriver	clouddriver-azure	5.91.5		550eae749b5a6212a5f731bd9b6b37504d413a69
 io.spinnaker.clouddriver	clouddriver-azure	5.91.6		c2da2593b4f8ca84d25593fb3d7b738742df98dc
+io.spinnaker.clouddriver	clouddriver-azure	5.91.7		37912e9301167b9752d90d036efaf5fbaf52af79
 io.spinnaker.clouddriver	clouddriver-azure	5.92.0		b04ce37c8b5fa009ae9608a6d8a9cc6fc9fb6d56
 io.spinnaker.clouddriver	clouddriver-azure	5.93.0		492a94a37c802507cb86abd5167f71b389cf419d
 io.spinnaker.clouddriver	clouddriver-azure	5.94.0		9f54e9761b3f0a5d1abd94b6617a4067d458d298
 io.spinnaker.clouddriver	clouddriver-azure	5.95.0		c9dff18106bab0fd1e2703977fb51efbc72f4ef0
+io.spinnaker.clouddriver	clouddriver-azure	main-10		f18ee43c188d9d4e79fc5a5c8c3d49c21bb8374a
+io.spinnaker.clouddriver	clouddriver-azure	main-11		7db3cae9c7b07150815ea3808079da4d08a9bdf0
+io.spinnaker.clouddriver	clouddriver-azure	main-12		1110099cbb35b615ac8e888963f9f2f6956ec1bd
 io.spinnaker.clouddriver	clouddriver-azure	main-5		a8ec9e40e116c4b786490a3f3d5effa41b9f6f94
 io.spinnaker.clouddriver	clouddriver-azure	main-6		f505ac0ea6e86a545bf0115e8f517810d195b2a6
 io.spinnaker.clouddriver	clouddriver-azure	main-7		b5ffdb99cd073046a2d5852fb71d1f1fcd191754
 io.spinnaker.clouddriver	clouddriver-azure	main-8		060bc49a48d34f00578a4e11f891ff800d51482d
+io.spinnaker.clouddriver	clouddriver-azure	main-9		72b2d2d383e5c561828c0328455eb26acc71eb67
 io.split.openfeature	split-openfeature-provider	1.0.0		d3ae24432444164c4b8f15cdffdcfe4e7268efc0
 io.split.openfeature	split-openfeature-provider	1.1.0		f6c69b5957546ed6abb8947f85fb87986638678a
 ir.metrix.attribution	metrix-reactnative	1.6.0.alpha		N/A
@@ -689,6 +699,7 @@ no.ks.fiks	fiks-svarut-klient	4.0.0		d3c672784f1062ee782feef5ea14e0c56879891b
 no.ks.fiks	fiks-svarut-klient	4.1.0		6769353207ee144235e9a8ae6c513420bb1083db
 no.ks.fiks	fiks-svarut-klient	4.1.1		b4cc69b95c34106cff25f421eb8079d344191792
 no.ks.fiks	fiks-svarut-klient	4.1.2		81806d7076607406dbb81e555e00e1a08ac5b35a
+org.apache.amoro	amoro-format-mixed-spark-3.3	0.8.0-incubating		c839a01ca660003f65d07e53f11124dac8d39677
 org.apache.camel.springboot	camel-github-starter	3.0.0		20d8a5491fee464d60bbe36288f44462655282a8
 org.apache.camel.springboot	camel-github-starter	3.0.1		8906a8304b3caa2ede444fa9f939db6f5915af0c
 org.apache.camel.springboot	camel-github-starter	3.1.0		09f51468a776df960ea897592b729a6e6426e3cf
@@ -806,6 +817,7 @@ org.apache.camel.springboot	camel-github-starter	4.8.3		d598b962e625c4b232994cd2
 org.apache.camel.springboot	camel-github-starter	4.8.4		9e66fb90d0949d4ac126bad3f58893046b72df2f
 org.apache.camel.springboot	camel-github-starter	4.8.5		287668be8f305e30d12e23b6a740736c36550322
 org.apache.camel.springboot	camel-github-starter	4.8.6		8a8bec691c7c0cc9ed0a9534ba2c5417d741e7b2
+org.apache.camel.springboot	camel-github-starter	4.8.7		d7acfff14c8111d254235b95eb89533d59aefbe9
 org.apache.camel.springboot	camel-github-starter	4.9.0		f43556729d0c42c91f6c86b39ce26d8731bfd086
 org.apache.logging.log4j	log4j-mongodb3	2.11.0		8de6c23a8c83a86bcff671e7949498d979440c82
 org.apache.logging.log4j	log4j-mongodb3	2.11.1		c05c25d7709df7bdbac33dbc8894251d50f0cdf9

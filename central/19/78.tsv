@@ -473,6 +473,7 @@ dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.27.1		983eeedfc81f1a1ef9384d1d72
 dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.28.1		bd66c32a1d80e3ea8e520f758bdde3cece5e6ab7
 dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.3.1		1da393230d87e33b2d23ec3f0a593572f3bf7197
 dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.30.1		fbaddfeebd4254ab8558ed308a0623644addccfe
+dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.30.2		688f30149de1c81a18981c270f63382ec1c1ac21
 dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.4.1		59528248bf1758d7c397dee67c9bcf81d7979c0f
 dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.6.1		b0c96c997f3e28bceb399dd4cf3587564bd62957
 dev.zio	zio-aws-bedrockdataautomation_2.12	7.31.6.2		6f5ebd04539eb7ed69bc8aee7a4e098729621dc8
@@ -850,6 +851,7 @@ io.quarkus	quarkus-test-keycloak-server	3.15.2		247c543db87f226f3694a161a76ff029
 io.quarkus	quarkus-test-keycloak-server	3.15.3		718e045b385c82a8351945178bacf0bfd3145036
 io.quarkus	quarkus-test-keycloak-server	3.15.3.1		598a89497e8ea6bffa3367331a557d875fa70afa
 io.quarkus	quarkus-test-keycloak-server	3.15.4		e08145a1f6437b50e9d2794e2e3f9b3b2447309c
+io.quarkus	quarkus-test-keycloak-server	3.15.5		3f69c31b23828705da2e77b312ed22ecf414be13
 io.quarkus	quarkus-test-keycloak-server	3.16.0		de6b5acc8bb37de55ff2ed2b98beffc8345c367b
 io.quarkus	quarkus-test-keycloak-server	3.16.0.CR1		0ca922da5ded98f6b5ac4eebd814ef9511ecb9f4
 io.quarkus	quarkus-test-keycloak-server	3.16.1		ff2ce3bfea1e1316d764f3910ac4a197c9aa088e
@@ -894,6 +896,7 @@ io.quarkus	quarkus-test-keycloak-server	3.2.8.Final		3ff49ad18075c67f83696d9cce3
 io.quarkus	quarkus-test-keycloak-server	3.2.9.Final		398ab367fde018e58c9f4b7300731806d5666bf6
 io.quarkus	quarkus-test-keycloak-server	3.20.0		b4c54d910f3c31ddb18d1c5da16d57ca4c4115ef
 io.quarkus	quarkus-test-keycloak-server	3.20.0.CR1		c25fee6823afbc58199d436fcb1c5ebdb815d6ab
+io.quarkus	quarkus-test-keycloak-server	3.20.1		97cf4a01d1873548d3bab891ae3726309f756113
 io.quarkus	quarkus-test-keycloak-server	3.21.0		36fc3d34e71ed509593ecb01aa56036a755d0e11
 io.quarkus	quarkus-test-keycloak-server	3.21.0.CR1		8acc99bcdfd944f6a51fd2bcf60c28752c90f2a1
 io.quarkus	quarkus-test-keycloak-server	3.21.1		c1f0bcc8bb58a8b8eff2a9b80a549b3ea88406d2
@@ -903,6 +906,9 @@ io.quarkus	quarkus-test-keycloak-server	3.21.4		91d724db65117573d7e3f7dc4f4a8489
 io.quarkus	quarkus-test-keycloak-server	3.22.0		e6003fa8346e44c0bd16a96d9c876b65464ebccc
 io.quarkus	quarkus-test-keycloak-server	3.22.0.CR1		eb88a53e8fcd1b44b71f3971f130175973e8a904
 io.quarkus	quarkus-test-keycloak-server	3.22.1		27fb0cf155c944fd678edf457e74a38cc91d87be
+io.quarkus	quarkus-test-keycloak-server	3.22.2		17b795a93685dc25491fa060f9bb3a9d8a0a0bc0
+io.quarkus	quarkus-test-keycloak-server	3.22.3		af4854c268ffb5e71edca9f5a5ffca4194df5742
+io.quarkus	quarkus-test-keycloak-server	3.23.0.CR1		b8332c95b90de4cd739c0d00c6ccaa28f5ec2e79
 io.quarkus	quarkus-test-keycloak-server	3.3.0		4d08ae1d86a9aeed65510af8288d4044e1b3656f
 io.quarkus	quarkus-test-keycloak-server	3.3.0.CR1		9553526f69c6d3fedbb7cc868e23b17e6ef865ac
 io.quarkus	quarkus-test-keycloak-server	3.3.1		77a10a550067c01ba30b6b6aa74b18c11a9c53ae
@@ -1142,6 +1148,7 @@ org.apache.camel.springboot	camel-zip-deflater-starter	4.8.3		e33bd405f3b3eab889
 org.apache.camel.springboot	camel-zip-deflater-starter	4.8.4		a89d62f5e5aefbefdd3b5e70d4c28bc0dd2e4a0a
 org.apache.camel.springboot	camel-zip-deflater-starter	4.8.5		47f0c216038757d6d0006c74ded5d4d493266e2e
 org.apache.camel.springboot	camel-zip-deflater-starter	4.8.6		ded12f68b343b08c5d89ce090ef722a33b8359df
+org.apache.camel.springboot	camel-zip-deflater-starter	4.8.7		1b9c540e0824e99f2d00861455dddd72aa01ee6d
 org.apache.camel.springboot	camel-zip-deflater-starter	4.9.0		1c80b5e42eec643afb2e12eb5563d78dd461f70c
 org.apache.geronimo	geronimo-deploy-config	1.0		7a1bbd802b1595476604eab252f8ecf5120f399d
 org.apache.iceberg	iceberg-aliyun	0.13.0		459496f03b9c2d71b2a51cf53b42cef92a627975
@@ -1212,6 +1219,7 @@ org.docx4j	docx4j-export-fo	11.4.9		8d39b1937bd1a9f3aefd143104bccce67aee7bd7
 org.docx4j	docx4j-export-fo	11.5.0		932d8ada766993468ef2d357eea9120a32adfe35
 org.docx4j	docx4j-export-fo	11.5.1		0efb0fb23803ea3c245e73c141e60722bb29849a
 org.docx4j	docx4j-export-fo	11.5.2		8b40775dce8e2ce322d7ad68b40d6c202c872a79
+org.docx4j	docx4j-export-fo	11.5.3		fe9c6a602fa3054354ed327f200a76aa7d91f0d0
 org.docx4j	docx4j-export-fo	3.3.0		c1c1b29925c4973e8789c869e6b3c5ce1fcea430
 org.docx4j	docx4j-export-fo	3.3.1		67600455bbc6bb317da128f9ec7c3f4039f6eff3
 org.docx4j	docx4j-export-fo	3.3.4		1bcacfb3ad556e387ee8f68aa48e1743a9332607

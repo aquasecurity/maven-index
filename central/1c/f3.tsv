@@ -36,6 +36,7 @@ com.daml	test-common-carbonv2-tests-java-2.1	3.0.0-snapshot.20240131.12677.0.v91
 com.daml	test-common-carbonv2-tests-java-2.1	3.0.0-snapshot.20240201.12683.0.v3b292d00		810eaed52cbafb89632a113a7d5b616f1b16bf92
 com.daml	test-common-carbonv2-tests-java-2.1	3.0.0-snapshot.20240202.12694.0.vd4b0dbc1		ae1f13aae59ced6612f18122a7f1fef2476e1ad6
 com.daml	test-common-carbonv2-tests-java-2.1	3.0.0-snapshot.20240206.12702.0.v3b408892		d1165f4402b9d3648bfdad6b53511cd8bdd3ca15
+com.eed3si9n	sbt-twt_2.9.1_0.11.0	0.2.0		e318ff61737d5347f07bb0058e5cb6a2bb7eeb71
 com.egzosn	pay-java-wx-youdian	2.0.1		0f1566b67d5a557e1f3395be561ac834714479a6
 com.egzosn	pay-java-wx-youdian	2.0.2		49e116e2f01338b62a8cf4d09a9293c892e393d7
 com.egzosn	pay-java-wx-youdian	2.0.3		b16f2641255ef592094277c4295aca297eba7ced
@@ -117,6 +118,7 @@ com.expediagroup	graphql-kotlin-ktor-server	9.0.0-alpha.4		ffc934017fdbc6e9d0c0d
 com.expediagroup	graphql-kotlin-ktor-server	9.0.0-alpha.5		2715c7f4fc3ea6cbdfa51d089ffb4f689463e8a2
 com.expediagroup	graphql-kotlin-ktor-server	9.0.0-alpha.6		e1f35ee6a27c69c5126c8e4b346cacbc86b9796f
 com.expediagroup	graphql-kotlin-ktor-server	9.0.0-alpha.7		8be02e1ea4d9e6aedb84c7103119d28ddd755c2d
+com.expediagroup	graphql-kotlin-ktor-server	9.0.0-alpha.8		ab6f222ce493270cf50b06521c832542ad187ba2
 com.gitee.chinasoft_ohos	version-compare	1.0.0		N/A
 com.github.criccomini	ezdb-parent	0.1.5		N/A
 com.github.criccomini	ezdb-parent	0.1.6		N/A
@@ -391,6 +393,8 @@ com.sap.cds	cds4j-tx	2.9.0		090bf3396e23a3774a657e5821e5fc413c71af3b
 com.sap.cds	cds4j-tx	2.9.2		d899d0f97b8f6c24b2bb8e22c2a2c5f27bd47ac7
 com.sap.cds	cds4j-tx	3.0.0		f068fc3a6d27e011978bae4067f9623cc6f135ec
 com.sap.cds	cds4j-tx	3.1.0		8ce4dbdc4c0a8bf43e20199860392d7aca74d7f4
+com.sap.cds	cds4j-tx	3.10.0		13857042d46f4f49185876b59c584a31b3da4e32
+com.sap.cds	cds4j-tx	3.10.1		7725f86c933918c5539db924c2ecb64596becbd7
 com.sap.cds	cds4j-tx	3.2.0		bafa6317c7307530e6e321a1a43c9073f2b6c92a
 com.sap.cds	cds4j-tx	3.3.0		ab0ce38f6d042ce0d0af21e2def9921d99373b1e
 com.sap.cds	cds4j-tx	3.3.1		187c72aa00bb10e1019c10278511ebfa39d77843
@@ -727,6 +731,7 @@ io.ktor	ktor-server-hsts-linuxx64	3.0.3		29690be6c1cc18547c2fa78a58a0ac8e57ac57e
 io.ktor	ktor-server-hsts-linuxx64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-server-hsts-linuxx64	3.1.1		472a9a69732ae927ff259fbbd5d5391045afd769
 io.ktor	ktor-server-hsts-linuxx64	3.1.2		c7ea590251306e7d85065e7df32befb8f97b0096
+io.ktor	ktor-server-hsts-linuxx64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.kvision	kvision-bootstrap-icons	5.0.0		e87aa447ddd00180a833c22907c089ffe72f603d
 io.kvision	kvision-bootstrap-icons	5.0.0-RC1		9755301be8fccf8b5313ac6a82ae4c7613d9dc42
 io.kvision	kvision-bootstrap-icons	5.0.0-RC2		b08a32468d7c9911e4e006c0fdad10c26ddaa409
@@ -1047,6 +1052,7 @@ org.jetbrains.androidx.lifecycle	lifecycle-common-watchosarm32	2.9.0-alpha06		N/
 org.jetbrains.androidx.lifecycle	lifecycle-common-watchosarm32	2.9.0-alpha06	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.androidx.lifecycle	lifecycle-common-watchosarm32	2.9.0-alpha07		N/A
 org.jetbrains.androidx.lifecycle	lifecycle-common-watchosarm32	2.9.0-alpha07	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.androidx.lifecycle	lifecycle-common-watchosarm32	2.9.0-beta01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.keymg	keymg	1.0.CR1		N/A
 org.litote.kmongo	kmongo-data	3.10.0		d9431570396e5e11ad80ff48ee1fb2cdd3630630
 org.litote.kmongo	kmongo-data	3.10.1		731eb1d1b87e9b46b94910d88097518f96e41ec4
@@ -1249,6 +1255,7 @@ org.streum	configrity-yaml_2.10	1.0.0		60f9a405cff7f7ecb72ad0c6518f8bc0b31aa14a
 org.webjars	backbone-localstorage	1.1.0		34878ca8f4fb94eb53ad3d1ddc7ebaa62b773a49
 org.webjars	backbone-localstorage	1.1.16		e47a9e578469d6bbe2c581fc1a76747eb544037f
 org.webjars.npm	excalibur	0.19.1		9cc627ab2df448621468c2aab848e588693a99da
+org.webjars.npm	excalibur	0.31.0-alpha.1401		71f8a95488b24c44d697988fae1c59108348d98d
 org.webjars.npm	github-com-danny-andrews-riot-redux	0.3.3		7eaef7b059b3668797679bd5a3335e02935db3d8
 org.webjars.npm	multiline	1.0.2		b77b25c314e66854ab7be16b4bc26409ab9331f7
 org.webjars.npm	web-stream-tools	0.0.1		a611968c58179b4e1f7760291c778f914dc14cc2

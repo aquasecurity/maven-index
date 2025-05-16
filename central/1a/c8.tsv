@@ -151,6 +151,8 @@ com.chartiq.finsemble	finsemble	9.8.0-BETA-4		03fb724aa5d81ce19280a55aac4884ee8c
 com.chartiq.finsemble	finsemble	9.8.0-BETA-5		3bdb22ce49908ef5629b667ca09b335181ee513d
 com.chartiq.finsemble	finsemble	9.8.0-BETA-6		a223ea07c53759fd76e01bac0228c3ccf5eddc26
 com.chartiq.finsemble	finsemble	9.8.0-BETA-7		6615f6b6c25863f296266cf88780cc2287eb423a
+com.chartiq.finsemble	finsemble	9.8.0-BETA-8		cc507689636ae8a1f22c3617b079625d7b5a469f
+com.chartiq.finsemble	finsemble	9.8.1-TEST-1		01aa7cb7640b760533f4575181328b79c534a16b
 com.didiglobal.booster	booster-android-gradle-v7_4	4.16.2-alpha4		6ce77e207bda3b40b038b749c6a72a5e7fe9914c
 com.didiglobal.booster	booster-android-gradle-v7_4	4.16.3		0762d751289e767d33bbd6443177eac513f8569d
 com.didiglobal.booster	booster-android-gradle-v7_4	4.16.3-alpha1		b621f3c01aa87321f8b431f2e637b8ab6fad8262
@@ -914,6 +916,7 @@ org.apereo.cas	cas-server-support-mongo-core	7.2.0-RC6		371cf965101ccdb7ddc26e64
 org.apereo.cas	cas-server-support-mongo-core	7.2.0-RC6	resources	7156fe9e23106f51b954f10370d5c2c756f5f2eb
 org.apereo.cas	cas-server-support-mongo-core	7.2.1		4e377b6bb81ed9669b0d7e45196f774d1c612e01
 org.apereo.cas	cas-server-support-mongo-core	7.2.1	resources	941f3ef49ea3b142b781a09b1165cb78f3ddda15
+org.apereo.cas	cas-server-support-mongo-core	7.2.2		6a8a6c0f302107494fb89456e42732e66b493f01
 org.apereo.cas	cas-server-support-mongo-core	7.3.0-RC1		aae0cba181ae956601f2008adce053617622922a
 org.apereo.cas	cas-server-support-mongo-core	7.3.0-RC1	resources	30c71b46044a1f09c8d2ea3e537d83ed3b9e0539
 org.apereo.cas	cas-server-support-mongo-core	v6.4.0-RC5		fabaf8e3b1098ee6e9e1af0ef34911e81d896653
@@ -1112,6 +1115,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.41.1		5f5908d63f
 org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.42.0		cb46ed32fce25ca2f6ef75a35d6a26ccaaf82816
 org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.43.0		11f30288013be90699c818b278fbd7cd294f6006
 org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.44.0		804ff5abee4cb8b2e6b662adf456c6f4aaf642dc
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.0		a27f18fc7e70ff7728821fdcadf53c2fcb070fa0
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.1		6420cf5b15d5b86f82b5c98191eb3ff49eedc43c
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.10		c1c866f6a053b59f8c811d225fe1c18c417fcfd8
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.11		36ecd5d7771ef44bf5ba0587961b6e03345c7490
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.12		a74eb2932bffa640b214f67c10a958c8800853d6
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.13		fb94510b6d3194cb77132e1a9a82ebbaf1ec15c9
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.3		ed38877ff23678cb19b3390f51faf6132201509f
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.4		96d5678f9e062af4b774e5f85a5285b28bf55fcf
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.5		500e802e67cb4a8762738f3ef2616f6509538280
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.6		87536273cfbd0476cb9a3d421ece3809a0fa6580
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.7		5b9c474b2c96162f2492b28243baa9923e3d2b56
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.8		fba40dd2aeceb1c6be26352fe8a446800e823104
+org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.45.9		5482d800b24486b6af7be0119ee452a6e67911ad
 org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.5.0		a02f76c7c78a3b4da82e4068aebff1f9503fbe16
 org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.6.0		404420e34a0904d84050ed887b8391622de5cfa5
 org.eclipse.dirigible	dirigible-components-ide-ui-operations	11.6.1		12af474428517714af09f518d6d7a0b4ab2eccfe
@@ -1295,10 +1311,17 @@ org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.79.0		081d8
 org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.80.0		b65551c2f7f978494eb5837c5f3ae03470308919
 org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.81.0		fcb044eab0a3f6fe97ebf0d90f459c56dcc799c7
 org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.82.0		f83400b53ddeef6c63e1c37e40d2319131af2a9d
+org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.82.1		87a4509ca11e310cd58d0704e3b07a0e62e26979
 org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.83.0		9ef96df80a72dc4196a3c81f8a969df742ba3894
 org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.83.1		b3754f993704058ea245ab51d442ec7eb65e1018
 org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.83.2		82a521456470673d893973321737781f87537e95
 org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.83.3		a2265437d89df562ebfbfb2c17c594b7ff34cd3e
+org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.84.0		e88b5e05a1ec93b606ba5582786dc3486782af9a
+org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.84.1		23b222051ba4dc6ae29f8e1eca0783485b351ba3
+org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.85.0		3a560bcddf0ebc9e7d3310d416c58feb12eaeb0d
+org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.85.1		a82195c0e13be0805947d83f2b00361ec640c578
+org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.85.2		13d2a52aceed34dbd8f476bb405fa7d946671b0b
+org.finos.legend.engine	legend-engine-pure-functions-relation-pure	4.85.3		e6a5538133f7ec73b57000ffe583a4845b6f2e12
 org.fuin	utils4swing	0.9.4		0276938e8fa376306f0b28912158c088291a71a8
 org.fuin	utils4swing	0.9.5		59de41d8aa55563ea29d1829ded30118f70fbeb1
 org.in-cal	incal-access-elastic_2.11	0.1.10		9f86bd552d181d758872423c41f37ee2f3e93c77

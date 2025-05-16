@@ -189,6 +189,8 @@ com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.27.0		1a5b6a843e1b199
 com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.28.0		cb22387c271494d043f9fc9f231cab7023ef0807
 com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.29.0		0efc30be9e89d32041cdf053d0ecd894b55632a8
 com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.3.0		f007b5eb11757939e5bcc0b317ee908a1884b213
+com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.30.0		b9417159f0195b7634f36b7566023ec189809779
+com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.31.0		141784c5052d93b8bfb540746bed4b5c0e73ca2c
 com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.4.0		6199fe9192acdadf1cb12aaadf3af4ab6f0fbe22
 com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.5.0		7635fd2eaee410fbe70454abcb934f1333bc39c4
 com.google.shopping.api.grpc	grpc-google-shopping-css-v1	0.6.0		f0dff475c158bced4e1e881d9b98a269eb928243
@@ -311,6 +313,24 @@ com.propensive	rapture-log_sjs0.6_2.10	2.0.0-M6		47744bd2e7192de57cf2927b6302921
 com.propensive	rapture-log_sjs0.6_2.10	2.0.0-M7		baaaad5d8d4aef6d0ffc59f3dfd9dc4253ad8441
 com.propensive	rapture-log_sjs0.6_2.10	2.0.0-M8		0adb30f97a5f546266b4b1756261fc1db4521232
 com.propensive	rapture-log_sjs0.6_2.10	2.0.0-M9		de58978803b04481f1bb1c9a70c79f3886d32206
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.10		f93bb775ab5209661fd0be64c657e4b00fd818e4
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.11		6c49443d34c3795409dd4bcf7bd5f3ff5a6b1ba3
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.12		253993aa79fbd80e478fc7608dcf90a21cfc5bdd
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.13		b4cc709233143fdae699dae1ee4b9883da9956c2
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.14		48c9076589ff45e27b10fd6a776880c89f7aeccd
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.15		b69fe99cb02ee6a9fed07e9eb6a88acf77e19706
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.4		9ca6558caac7fce2f1e7db0d65183df2b3554adc
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.5		88fc8537685ca4c7497fa6ddc57ee6086cfa5f01
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.6		cc47a1cd3b70ec67374d2d49d1e94afc792ef3bb
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.7		bfe571bc9fb9cec4e0d031e501fa810017f5afc2
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	1.9.8		732bac90ded2ce0aa28bd787cdf8bba9755ab902
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.0		885594d6fe0e08aa629d1359aaad162f99ee5626
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.0-M3		b75609c79b57768d1f1289984ed5d2a06f70a27a
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.0-M5		62782333e6b9eceb49f59ffcf6c5329d82cfb5f8
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.0-M6		a6052ac8254ea7893df7a9773734b56a5a6bd411
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.1		6d1b6b379b16f457355146e3f9f52c95aeae6e6a
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.11		acb7ff34ed275b176f05175b8f706ed93487402b
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.12		6bd41f35215b67e4fa2e6e13a15d482d557d5ff1
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.13		d747f5990819f01122c3b4bf44e34cba99c7ca91
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.14		d2f994cb47da62e2c6efd47cc92a40630057c934
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.15		2b6661ffb0b45f8473f19a065e76c06c5ee29af1
@@ -318,10 +338,18 @@ com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.16		bd9a9d
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.17		ee96ffde5980f23b69aeb80f0d70ac1349e17bfa
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.18		62164814d6e4e6112fa1e6f5a14d47558bc19d7d
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.19		a9b145a8bcb5bc953e7797a84cdc2d29ad08ffaa
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.2		0cbcec0b9cdbb710729ade30053494741457abaf
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.20		f8008298eb9387c8ab3c7739eb5ed46dd83b9749
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.21		8d033ad2492a878a9882d07d426c3f564832fa77
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.22		6ccd0dba0d8cc373ee32b6bb4e23ac14aec2245d
 com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.25		028a78414b2dd2cc811094497aaf98144b67cee2
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.3		10cfcd6faf402aa7e906a093e0ffa690e4be1274
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.4		455ab584d2f535ce484b2bea7ac7cf2f9a4f3620
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.5		c1cc1989a291cf284770e85718c0ef2b02cf49af
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.6		87ff38f2603bef29f31c8382c9ddbe107acacaf5
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.7		14d6e034b51e40dd46eef23f81d6cf257441de1b
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.8		6377e2566f74dd11c511df97b5db178f3fb066a4
+com.softwaremill.sbt-softwaremill	sbt-softwaremill-extra_2.12_1.0	2.0.9		31b241c23a4e829588eec210a5744ff87b4f7a11
 com.typesafe.akka	akka-sample-osgi-dining-hakkers-integration_2.11.0-M3	2.2.0		N/A
 com.typesafe.akka	akka-sample-osgi-dining-hakkers-integration_2.11.0-M3	2.2.0-RC1		N/A
 com.typesafe.akka	akka-sample-osgi-dining-hakkers-integration_2.11.0-M3	2.2.0-RC2		N/A
@@ -361,6 +389,7 @@ dev.codeflush	baseencoder-core	1.0.0		274e9888f2cc2a0db3032bd7f55334d225e78655
 dev.inmo	time_tracker.lib	0.0.2		ded113f7134868cdc7171ad6d703578032d0e4a5
 dev.inmo	time_tracker.lib	0.0.4		ded113f7134868cdc7171ad6d703578032d0e4a5
 dev.jorel	commandapi-bukkit-core	10.0.0		223f3e070bf5fd98d388962b739f7c8dfd60f580
+dev.jorel	commandapi-bukkit-core	10.0.1		ae16c0eadf58880d17395d9c08d0ef17add6c698
 dev.jorel	commandapi-bukkit-core	9.0.0		da5c75da13c3ac525bf5135c0b0a6d3df5942ad2
 dev.jorel	commandapi-bukkit-core	9.0.1		e815006ba51dd48fb29d54e9a142084ee286db6f
 dev.jorel	commandapi-bukkit-core	9.0.2		23b2770cb24ded0e1b7fa6a711f1bd6b15e23db3
@@ -933,6 +962,7 @@ org.scalameta	scalafmt-sysops_2.13	3.9.2		7868ce20be038c4b169210a39ddc7eee75b5d9
 org.scalameta	scalafmt-sysops_2.13	3.9.3		589bca23299156d12a52f6fd03c3b9800e4a3c03
 org.scalameta	scalafmt-sysops_2.13	3.9.4		490c306b474a4d6fdd315445dcac0621ef400ecd
 org.scalameta	scalafmt-sysops_2.13	3.9.5		dc7a8960bad340d622c4c7ac2acce2a4f9d10182
+org.scalameta	scalafmt-sysops_2.13	3.9.6		c47155cbc746c0f69e549dfe3616e7131f5ad6d3
 org.springframework.experimental	spring-modulith	0.1.0		N/A
 org.springframework.experimental	spring-modulith	0.2.0		N/A
 org.springframework.experimental	spring-modulith	0.3.0		N/A
@@ -2697,6 +2727,10 @@ tz.co.asoft	raven-outbox-local-iosx64	3.0.8		N/A
 tz.co.asoft	raven-outbox-local-iosx64	3.0.8	metadata	7ce817496ef8125476f944fa579301349d0523c0
 tz.co.asoft	raven-outbox-local-iosx64	3.0.9		N/A
 tz.co.asoft	raven-outbox-local-iosx64	3.0.9	metadata	f1e3c7319cab96deb78b55b0ae73f75cdced9e19
+tz.co.asoft	raven-outbox-local-iosx64	3.1.0	metadata	7957ee66c5b8c926546aefab345d9b8f75bf55e7
+tz.co.asoft	raven-outbox-local-iosx64	3.1.1	metadata	f555b3cb96c7dc1d667195612166a7b6b7457ac3
+tz.co.asoft	raven-outbox-local-iosx64	3.1.11	metadata	26b07701cf483fa90a8f8d34f97be7b6aaf3da53
+tz.co.asoft	raven-outbox-local-iosx64	3.1.12	metadata	3710a52e54704bfa44badc4ce532a8759b23a5c2
 uk.org.devthings	scala-case-class-prettification-diff_2.13	1.0.0		f6db48428cfb54c988d4c8f5a99242dd13f27410
 uk.org.devthings	scala-case-class-prettification-diff_2.13	2.0.0		2b40196ba36f78f171dcc90a2073cccd6404b329
 uk.org.devthings	scala-case-class-prettification-diff_2.13	2.0.1		b06f2f469f47ed33624c2e5b6dc7c1b7ac4a1f7a

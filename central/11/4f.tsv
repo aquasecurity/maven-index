@@ -37,6 +37,7 @@ cn.com.jeeweb	common-cert	1.0.4		2a3f8be0d16fecffe063e4ccb5e3c2a0bdf0d163
 cn.com.jeeweb	common-cert	3.0.2		fd6ec4e8653af182bd981151d6f13486c0f2b505
 cn.com.jeeweb	common-cert	3.0.6		189ce2e46ac239a49d6290980e9086062fca3a6c
 cn.com.jeeweb	common-cert	3.0.8		8fb80d1a3e2001c854ca7cb9b318c7c1805a54e0
+cn.com.jeeweb	common-cert	3.1.0		230967c3aae85f02fdc740b6d640e891385eb6d5
 com.alibaba.otter	shared.communication	4.2.1		fc929b3cb3f396fb42f1d04641388c52e34b9041
 com.alibaba.otter	shared.communication	4.2.10		c451e9544a7f10908aa3535356d7928ed5ed8cd4
 com.alibaba.otter	shared.communication	4.2.11		e6a8fef6b1f5adadb0bdb034d53c20cce41aac96
@@ -439,6 +440,7 @@ com.google.cloud	spring-cloud-gcp-starter-data-spanner	3.8.6		a056ca5a85a5bf658e
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	3.8.7		0a80c473c85146d316ffa1616da6e085a11e7409
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	3.8.8		95ffc2d487d2c30b1426238ac1954dd47b560dae
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	3.8.9		5ef25a5562e039c3fa906c1adeecde9bb184b9eb
+com.google.cloud	spring-cloud-gcp-starter-data-spanner	3.9.0		b1952afd697d51d0eef5b957dbad8e9401bf22e5
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.0.0		731e4af578d3ad9b37553be06006f64e10ca8b63
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.1.0		ba4fb21f59264f4773d4958197941d332ba74cdf
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.1.1		4e03e269ea54e2c33feb3a5cdae20644e53655f0
@@ -465,6 +467,7 @@ com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.10.6		11c5659c0dd431789
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.10.7		4ee23e3a16862b09a88b86591d63ffae3591ece3
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.10.8		5bfc79eeaee66d2fafd823a13265a1050a52a039
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.10.9		dc888ea72dc874d9fe5192c19f7316a51d45a39e
+com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.11.0		85eff23b4952076164b98c56bcdfc34d17d5b41a
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.2.0		470a4d7948137aad655c37d336f257259b679a80
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.3.0		5206df674dcb2b6d5cf45471e19532c8a91a9179
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	4.3.1		4e0eee82d0c9a565a37d81e5a8d5543bfd3ec818
@@ -497,6 +500,7 @@ com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.11.0		ab3cea69363508268
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.11.1		1ea75b028091fbb2f3bb366b93875bb5944050e9
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.11.2		89f8b77d9226686f42ac2ba245842f70f0ddcf1b
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.11.3		f21692989c5496345b2ad20f41060e166634ff70
+com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.12.0		e99a1839f9c49041ef92dbe29fd73d97f0a29e81
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.2.0		0c4f9eed746689d198bb00cd2d3cc31b675a8df7
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.2.1		f178a121ec27edd6856923e7acadd222ef8761c7
 com.google.cloud	spring-cloud-gcp-starter-data-spanner	5.3.0		188ee8b8fdd7b44013692c438cbb0e5ead5a9911
@@ -720,6 +724,7 @@ com.payermax	payermax-server-sdk	1.0.8		322439064c0f097142218721f6bf5a653ebcbac2
 com.payermax	payermax-server-sdk	1.0.9		2cce9684050f5378f8f3e88eed554321018df366
 com.puresoltechnologies.commons	trees.bundle	0.3.0		80f89466d71012303cc83f4d5fca5a3041c3f54c
 com.secureops	fieldextraction-jython-regex	1.5.0		c988a302b35aa864bdab2e0f0802d0ea209ebe14
+com.slack.circuit	circuitx-navigation-iosx64	0.28.0	metadata	12f641cec5474f0412ece885facc3a9189796c29
 com.softwaremill.sttp.client4	slf4j-backend_2.12	4.0.0		4841d9cf69ce7fbcae550fe33314632d3dcb19cf
 com.softwaremill.sttp.client4	slf4j-backend_2.12	4.0.0-M1		e1f772742484081cc70a2d817bb50973188fe751
 com.softwaremill.sttp.client4	slf4j-backend_2.12	4.0.0-M10		9397a6e872dd19dd73cfbfbbe8563559f09afae9
@@ -936,6 +941,7 @@ io.deephaven	deephaven-ModelFarm	0.37.5		f8dfdaa87f44bb54e504bd40d94756521a192b8
 io.deephaven	deephaven-ModelFarm	0.37.6		f72ec6208eec64df13990c031d4585f33c558747
 io.deephaven	deephaven-ModelFarm	0.38.0		a07e1a8d8978cdf0777db6c61eddfd4ebb6cb9a3
 io.deephaven	deephaven-ModelFarm	0.39.0		ad157d215346344ee223dd4c7edb7e1df9c07f5f
+io.deephaven	deephaven-ModelFarm	0.39.1		5b937531f7b853a02e5a236cbe1c9c5b4bd7a12f
 io.earcam.maven	io.earcam.maven.configuration	2.1.0		05f5f08558ae397b8f7b81bdd5b822738c18d135
 io.earcam.maven	io.earcam.maven.configuration	2.1.1		20f2ab77939852a7492b7f4555c52f11011c232e
 io.earcam.maven	io.earcam.maven.configuration	2.1.2		3f9dee3a628b2355f5fc2fd07d23603dc738b535
@@ -1228,6 +1234,7 @@ io.quarkus	quarkus-mongodb-panache-deployment	3.15.2		ad999bbb218ef809fb4e5588b0
 io.quarkus	quarkus-mongodb-panache-deployment	3.15.3		d00821b90bb6cb6d1ea4f2574593d6bf4b8abd42
 io.quarkus	quarkus-mongodb-panache-deployment	3.15.3.1		01aa8a8dd9a4ec7b96097cb9e4da95b864fdb7ee
 io.quarkus	quarkus-mongodb-panache-deployment	3.15.4		e1dded6b35c1ed0600ead2c393aab11d5c9d293e
+io.quarkus	quarkus-mongodb-panache-deployment	3.15.5		cf678ae61b1a87892f8b09deeee841128939d3ff
 io.quarkus	quarkus-mongodb-panache-deployment	3.16.0		f776945bda87cf7e86607cc3762cec4a4334a467
 io.quarkus	quarkus-mongodb-panache-deployment	3.16.0.CR1		7c8a80fed808bbb2e3eb203da5de79e76f893972
 io.quarkus	quarkus-mongodb-panache-deployment	3.16.1		57787352c52ba7e2e650065ee64d437b6af943b1
@@ -1272,6 +1279,7 @@ io.quarkus	quarkus-mongodb-panache-deployment	3.2.8.Final		e40b17b8fc9d8cc6f6dc9
 io.quarkus	quarkus-mongodb-panache-deployment	3.2.9.Final		421d47a4e3892482678a8d558b1baa749c40c43b
 io.quarkus	quarkus-mongodb-panache-deployment	3.20.0		ec38209c1eff7eede7c6d18c625af8582cb37ebe
 io.quarkus	quarkus-mongodb-panache-deployment	3.20.0.CR1		de6c7c7094a1bc4d28ac9600d751cd76e6b816fd
+io.quarkus	quarkus-mongodb-panache-deployment	3.20.1		aa69aac98d83dd2d43655c23d5fa29bf5b726cac
 io.quarkus	quarkus-mongodb-panache-deployment	3.21.0		318317e78c172bb0ba1e0ce07ccbe7cf3cfe9885
 io.quarkus	quarkus-mongodb-panache-deployment	3.21.0.CR1		ccba565a79cd79d665d11bbddff9fda851ee33c2
 io.quarkus	quarkus-mongodb-panache-deployment	3.21.1		c5743dcbfcdb7e2c2f59561788a288bcbfc249cd
@@ -1281,6 +1289,9 @@ io.quarkus	quarkus-mongodb-panache-deployment	3.21.4		c8f6f7a224aa8e71d2e2bb8c0e
 io.quarkus	quarkus-mongodb-panache-deployment	3.22.0		1be86db366b6d4721bed4e659b561f9fd15a764c
 io.quarkus	quarkus-mongodb-panache-deployment	3.22.0.CR1		009f521942e881aaa7c2d060c7d2e05032de8630
 io.quarkus	quarkus-mongodb-panache-deployment	3.22.1		63502efc5d270b17b52009ae10278b91f90f43ae
+io.quarkus	quarkus-mongodb-panache-deployment	3.22.2		ca754519517bcd587bc1cc4e006373734da03985
+io.quarkus	quarkus-mongodb-panache-deployment	3.22.3		08f0c2516c5ab3a8c69d7aab73fbfdbe20ffe37a
+io.quarkus	quarkus-mongodb-panache-deployment	3.23.0.CR1		5ec65cf078b8aef4cb430b9ded9352c53d98289c
 io.quarkus	quarkus-mongodb-panache-deployment	3.3.0		f4b436ad8032e1634158ebb8fd95479c373be39c
 io.quarkus	quarkus-mongodb-panache-deployment	3.3.0.CR1		1f7ced322a758953d7a3079cea83c8d3f6b3ed38
 io.quarkus	quarkus-mongodb-panache-deployment	3.3.1		e84937529e442a6ebf21db97dd7a8f2078e119c7
@@ -2102,3 +2113,5 @@ tz.co.asoft	habitat-core-js	3.0.12		N/A
 tz.co.asoft	habitat-core-js	3.0.13		N/A
 tz.co.asoft	habitat-core-js	3.0.14		N/A
 tz.co.asoft	habitat-core-js	3.0.15		N/A
+tz.co.asoft	kiota-file-test-tvossimulatorarm64	3.1.11	metadata	c4cc387c3a84ec6e0ca8308db9b50841d234ac11
+tz.co.asoft	kiota-file-test-tvossimulatorarm64	3.1.12	metadata	7fff6f720ae5e64ce60eb48784c0a4064f899da5

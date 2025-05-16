@@ -457,6 +457,7 @@ io.automatiko.addons	automatiko-jobs-api	0.41.0		e892ae25e213dd700810f68da97f0a5
 io.automatiko.addons	automatiko-jobs-api	0.42.0		cb1146513d2ddea5a28f60532a27f2835cb3c95b
 io.automatiko.addons	automatiko-jobs-api	0.42.1		ba5f363f83442188710d2c91593d0dd1db605dfd
 io.automatiko.addons	automatiko-jobs-api	0.42.2		2e26e2236dc4fb7c98fa8b3d4ab436ff3777592a
+io.automatiko.addons	automatiko-jobs-api	0.43.0		5a5c946725e0ce296e8e7fba21fe2d54e18da975
 io.automatiko.addons	automatiko-jobs-api	0.5.0		06adb255e34bbacdfe4f892655618d0daa810e53
 io.automatiko.addons	automatiko-jobs-api	0.6.0		08b0f013dfe5dc7b39e3f98d09ead0ef2d0ba999
 io.automatiko.addons	automatiko-jobs-api	0.7.0		c1c765ca4a524d7b70e7e4d5ff9f95021edb90aa
@@ -1364,6 +1365,8 @@ org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.17		806955d42695ee1efff1d45fcbb0
 org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.18		4dd850c3decc7e03b02575ffef3451c876702b01
 org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.19		087a35d3b8bbeb2802fd23b391b97bc743277712
 org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.2		f4f9846a4051130f910988b64b823fa5cf9e24e7
+org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.20		742bcca8d5bd1a266dbb93b9663cb3f12059d7a1
+org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.21		d14fe0d057a94b0bf1633142d4e54a5591dd98cf
 org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.3		aa47585642ebcdd9461316ac356f79ac13c21464
 org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.4		d358b508cdc0a0edb372f9c355a7833acc820018
 org.eclipse.jetty.ee10	jetty-ee10-servlets	12.0.5		25cfb919aef163edbd308460f68f72cebb51162e
@@ -1409,10 +1412,17 @@ org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.79.0		191275e54e
 org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.80.0		9d3dcc86d3e12e88d1a9bd3193b067855f296568
 org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.81.0		42f8313015430aef8d0fad1ae5708c93b4f9e56d
 org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.82.0		2355dfb9d759fc0a666e77de176d4f25693e6b4e
+org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.82.1		956a8f6e919561ef210b2f1122bc3c0e6be84c9c
 org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.83.0		a8344a1f34b6e0c7ded7d51d86f69d67945ee8b9
 org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.83.1		c67cec828470e96e514285dcf24c681a4764a2ab
 org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.83.2		3f7e013ba2b21c58fb6f163eeb7727c5eec591fa
 org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.83.3		f5ec378b1bdf5f0a0ad21413847fd85a89bf1881
+org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.84.0		29972dfe2919f3e84dbb539b960111643dfaae97
+org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.84.1		d84d9f866b53351545e4a7a01606f77908094367
+org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.85.0		bdbd24c8373482c2ed7e5e18db6a09f634ca1c01
+org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.85.1		336c20c768866825f747d77fbda0a76d0079e9f8
+org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.85.2		cd89620ad53173a31329d3c9d254ac57d46b9422
+org.finos.legend.engine	legend-engine-xt-functionJar-compiler	4.85.3		81009ef10c04a503fbf25b3f9121234c6ef94ab2
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.11.1		596e7f2ae0f2f0f7d60a23abf3c8b4f7358d16e4
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.12.1		152a081186e23618502ded112b9949c3659ab787
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.13.1		2bf1d652f9dae83ea68edc2116e600223c0fbc3d
@@ -1598,10 +1608,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.79.0
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.80.0		3e5e83c1d1fdeaed6cd499125d59bc97d9ce1588
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.81.0		f4e9c9377a176fa930546244b26a4633cf04a897
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.82.0		d98c896ab95ee8adc6fe4b67f30dfbc12493afea
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.82.1		9056179dccb0c49c57d392ebe290a5b1a917dbe0
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.83.0		faa7144fa713e95c86d45cc96b603b169192cf15
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.83.1		144c40ef57e21ca2a085e7eebb78aac6238ead27
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.83.2		825abaf9ec4f6da9d812b86a968c8a448f9966f9
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.83.3		9878e492206151565c9631144823bdca4a0cf783
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.84.0		1eb54db673106333e1c0a1909bcf3e2be22ac9ba
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.84.1		e05705f7c09f6feb0ad0b929ebea5b6af6f6f594
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.85.0		bdb3946f680354b7aacac2d54190b658d44131d3
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.85.1		0b93cafe7e6f65911163d5ac5d99870f7737b1d2
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.85.2		c911e8976c823ad89cb2cdb0df80d7fcbbbf74a4
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-execution	4.85.3		26d6c357e6c6bc12abb11904f83be4dd9645eacd
 org.jasig.cas	cas-server-support-basic	4.2.0		66fa9c2e9786ff518bd975b55fad8434e8052c44
 org.jasig.cas	cas-server-support-basic	4.2.0-RC1		a1ba4f085ee7e9e334e3d737d808da6dc8dcae72
 org.jasig.cas	cas-server-support-basic	4.2.0-RC2		931161bc01e49a3c01559c9dac79438fc619003f
@@ -1716,6 +1733,7 @@ org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.7.1		N/A
 org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.7.3		N/A
 org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-uikitx64	1.8.0-alpha02		N/A

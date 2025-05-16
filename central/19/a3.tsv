@@ -23,6 +23,7 @@ ai.djl.hadoop	hadoop	0.30.0		76765703760681c41b84d94549b6a3cf3bb93885
 ai.djl.hadoop	hadoop	0.31.0		bcad7a2a90020bdf7e3fabd7fa44281e93cec484
 ai.djl.hadoop	hadoop	0.31.1		6d48e78c55d2c5800b4760cfef572050a12639fb
 ai.djl.hadoop	hadoop	0.32.0		fe8603b27e6b9435ab46070d75eb3ecd63c43aae
+ai.djl.hadoop	hadoop	0.33.0		7479faa33053d865e109fc5cce7cacc39e2bfd7d
 ai.djl.hadoop	hadoop	0.6.0		7a711f1c1ea99855aad2913e949a4499d8d0c764
 ai.djl.hadoop	hadoop	0.7.0		24b5a50871ed7d234475a1c79de49d7c3cc82cb6
 ai.djl.hadoop	hadoop	0.8.0		172359751ae637bfdf86d04c61cf5c4e040a15e3
@@ -485,17 +486,21 @@ com.scalar-labs	scalardb-schema-loader	3.12.3		a808fb107067eb463da418de567d31f14
 com.scalar-labs	scalardb-schema-loader	3.12.4		a3fbc78344b64fae3daa228ca7027251e7c60ad8
 com.scalar-labs	scalardb-schema-loader	3.12.5		8ab0f8d63ce0176db661e83fe53f537c56b7666f
 com.scalar-labs	scalardb-schema-loader	3.12.6		75d842f6457773d91d5df13166c63db31ca211dc
+com.scalar-labs	scalardb-schema-loader	3.12.7		e6814654dc83b6f126ff5ef1ffb214779bcf1b07
 com.scalar-labs	scalardb-schema-loader	3.13.0		bfaeb8d8ec53d4f9db3d0d595e6987af08cbf6e3
 com.scalar-labs	scalardb-schema-loader	3.13.1		19d7015b7a1ae594b8aad2a8a20f2227584d3f0d
 com.scalar-labs	scalardb-schema-loader	3.13.2		e5382ff43f66972c7c0503f35f961f705995d0a4
 com.scalar-labs	scalardb-schema-loader	3.13.3		3b0e45475c2d547be4a10d79173f61b34445c6c6
+com.scalar-labs	scalardb-schema-loader	3.13.4		e0c8713a0b58723779545f15418a4ed60ea80bae
 com.scalar-labs	scalardb-schema-loader	3.14.0		a00bb839e9bb93433ff1506ea3860d7ccdc52d2c
 com.scalar-labs	scalardb-schema-loader	3.14.0-alpha.1		45337ba6bad489b05537e32156b1c892ad775f72
 com.scalar-labs	scalardb-schema-loader	3.14.1		8b97823d448a95f63817cf7642dfcbdf3bf393e2
 com.scalar-labs	scalardb-schema-loader	3.14.2		7ec0825c83370970211fa0224125d048abc65bf8
+com.scalar-labs	scalardb-schema-loader	3.14.3		41def614d2c5a8a2157423f237bedde3640b48f1
 com.scalar-labs	scalardb-schema-loader	3.15.0		606278beaea4d8523195718f0e4b6d5a1c6745c3
 com.scalar-labs	scalardb-schema-loader	3.15.1		a36fc089169e5795025a24bbd78471a8ca6e81a6
 com.scalar-labs	scalardb-schema-loader	3.15.2		d3b9cf84adbd054ebfe999b2827389059afea21d
+com.scalar-labs	scalardb-schema-loader	3.15.3		efecdaf0ec1553b982eb9971c75a24825df0359d
 com.scalar-labs	scalardb-schema-loader	3.4.0		f936f2dddf00e204cfffbeb6451ff45296453d02
 com.scalar-labs	scalardb-schema-loader	3.4.1		e7efca8e4b6ea979952e55ecf69b1d9ae7b92fc5
 com.scalar-labs	scalardb-schema-loader	3.4.2		9eaa860fea70d6546da522aa1076724bf3db2f48
@@ -1006,6 +1011,7 @@ dev.zio	zio-aws-pi_2.13	7.31.27.1		b5e6ead61d8ae98bfdca4c4eadaa2863817df016
 dev.zio	zio-aws-pi_2.13	7.31.28.1		af03781f6485ef5dc3272d472d7614b6b952f922
 dev.zio	zio-aws-pi_2.13	7.31.3.1		26265c944e3c6004e2e84100326290d63aba9133
 dev.zio	zio-aws-pi_2.13	7.31.30.1		bebad24adfb4082716409ca619e98c435fdd89d6
+dev.zio	zio-aws-pi_2.13	7.31.30.2		0a9b6246493bce98731d600f76652c49857b08d0
 dev.zio	zio-aws-pi_2.13	7.31.4.1		7bc470bf07376a933239c3409cbc58bcf63d6972
 dev.zio	zio-aws-pi_2.13	7.31.6.1		6b73090ffa36dc4291238f0c172d2cd7da7b914e
 dev.zio	zio-aws-pi_2.13	7.31.6.2		44faca7860a4bfc54416395b4a0d5e7252549cb3
@@ -1220,6 +1226,7 @@ io.aeron	aeron-agent	1.47.1		c1d4c90564c590eaf4eebf23fffca7f0ace11ad9
 io.aeron	aeron-agent	1.47.2		339a9167a9d1c63eb142d45124466d1bad894b0a
 io.aeron	aeron-agent	1.47.3		b0369b489ed77a8791b936663b8a03905ad638cd
 io.aeron	aeron-agent	1.47.4		73f0562b0bea133de2c3a189e8b44f15f4a287b3
+io.aeron	aeron-agent	1.47.5		6e3b4fdd73d42f43c772dcd5a70fcfc165fec84b
 io.aeron	aeron-agent	1.5.0		2cb5342514b529ac2f1a6928f7ec7add6aa414b0
 io.aeron	aeron-agent	1.5.0	all	fc64ad5122ceacf1334af50b4232064add589781
 io.aeron	aeron-agent	1.5.1		24791e9ae69c993b374fa1edb1e1095710e0ad78
@@ -1380,6 +1387,7 @@ io.javalin	javalin-graphql	4.6.5		2dff04fd4c92d757d0f327d25b91a25cef781114
 io.javalin	javalin-graphql	4.6.6		f488be2052576296fd4d151061c54bc3342340da
 io.javalin	javalin-graphql	4.6.7		cea612326fe153b320a6473bfc4cfcb1145a448c
 io.javalin	javalin-graphql	4.6.8		b6b728e8b60c2d4fa1e266d1764f804ccc8390fb
+io.jdev.miniprofiler	miniprofiler-grails	0.10.0		c97daee2804d86e965b61e2d3bb2790e08a67022
 io.jdev.miniprofiler	miniprofiler-grails	0.4.1		fe8ba5316ae0b70b0f55dc537f8ea00094e30047
 io.jdev.miniprofiler	miniprofiler-grails	0.5		737fa0462510b40ed4c4bdc6607ff01fed273aab
 io.jdev.miniprofiler	miniprofiler-grails	0.5.1		75ce394f9d19deffd4ecbf46ba5d7a8817564f43
@@ -1736,6 +1744,7 @@ org.tpolecat	natchez-opentelemetry_2.13	0.3.4		4e44fb21f1ecdd96afa3c896442f5f4a2
 org.tpolecat	natchez-opentelemetry_2.13	0.3.5		00c22ae297b0a87ec1ecc91a3ef38ec1cc7366df
 org.tpolecat	natchez-opentelemetry_2.13	0.3.6		2f0d697ee8846ffb873f69996de51b52724cbaf7
 org.tpolecat	natchez-opentelemetry_2.13	0.3.7		2468e2156804e07156aed136187714b485806f53
+org.tpolecat	natchez-opentelemetry_2.13	0.3.8		035bb9f7580e3f0ce9083d910150ad4cfc1232cf
 org.typelevel	machinist_2.13.0-M1	0.6.2		2002c57e81083c7507dc658a92ad80b0ed33ac39
 org.webjars.npm	vue2-daterange-picker	0.3.1		b052954760a636b84c90cc3d44af2917c4570deb
 org.webjars.npm	vue2-daterange-picker	0.4.3		a1e557f0c694d89c70c61ae47d217c2e8e4b4efe

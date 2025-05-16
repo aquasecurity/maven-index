@@ -429,7 +429,16 @@ aws.sdk.kotlin	amplifybackend-jvm	1.4.73		e05379dce23b6c9c1405040695a2b46a7683b9
 aws.sdk.kotlin	amplifybackend-jvm	1.4.74		14aa992e3b360dc3df22d68d8b6e4436ad45329b
 aws.sdk.kotlin	amplifybackend-jvm	1.4.75		1d50495e8f592ac88b2b02ebb6edb8a3ceb34339
 aws.sdk.kotlin	amplifybackend-jvm	1.4.76		35ffa720757d17a52a7749731884e2335701ad77
+aws.sdk.kotlin	amplifybackend-jvm	1.4.77		9ef0e7577a0461f781f32b8c1d0adafa9edf3f9c
+aws.sdk.kotlin	amplifybackend-jvm	1.4.78		63c9a40dadad8fd328b53a34d043bc1b0fb72d17
+aws.sdk.kotlin	amplifybackend-jvm	1.4.79		16a6ac939adf33d2060c2526c56d6846aa7b2e8a
 aws.sdk.kotlin	amplifybackend-jvm	1.4.8		a80b6d785b55d2bd0360c13e554009234ab56ce9
+aws.sdk.kotlin	amplifybackend-jvm	1.4.80		65a6c30de8406ef38e1a96dcfd4cb6196d712a2f
+aws.sdk.kotlin	amplifybackend-jvm	1.4.81		2b23dd0aff15c3218b60da769c26742fbdf32f59
+aws.sdk.kotlin	amplifybackend-jvm	1.4.82		c77e8edb4f0aa4faecbe5aea5b9ee05d031b67e2
+aws.sdk.kotlin	amplifybackend-jvm	1.4.83		2fa1c65931643ada5966757cc9f266a5773fb41f
+aws.sdk.kotlin	amplifybackend-jvm	1.4.84		e7dbdbc3ae2b7f1a888c9cafd4d3772a1efd67bc
+aws.sdk.kotlin	amplifybackend-jvm	1.4.85		6179226ee00d61a829bea5ab7938ab70001726d2
 aws.sdk.kotlin	amplifybackend-jvm	1.4.9		42d1f7f84e20a2b5e3ccb1bb1ce0aeb68ac04c1f
 cn.patterncat	sentinel-jdbc-rule-extension	0.0.1		a7acfd9632324b57c3ad856fa27e922af99dcadc
 cn.patterncat	sentinel-jdbc-rule-extension	0.0.2		bd39e858bd224a6cfcb760ae0708ea181d92e304
@@ -513,6 +522,7 @@ com.aliyun	alibabacloud-cs20151215	2.0.4		8cdf233cb895b9d074daa80050062ea48bead5
 com.aliyun	alibabacloud-cs20151215	2.0.40		b183d5e9fe08c7ae2b03ae789bcbad6d3148b9e1
 com.aliyun	alibabacloud-cs20151215	2.0.41		c200d52058666c76a97d63a11396d93c2a4a8abb
 com.aliyun	alibabacloud-cs20151215	2.0.42		08448fab881a866e026ecbbbaa0ebb5dcc8f2151
+com.aliyun	alibabacloud-cs20151215	2.0.43		da36b8da47d88ac1d9ab4218ad36ac0edb6de81d
 com.aliyun	alibabacloud-cs20151215	2.0.5		1a4675c0d3879d33347d4ea2851e326e4ff4a604
 com.aliyun	alibabacloud-cs20151215	2.0.6		af0bf0e9cfb26860e45bb8049e9905dd03101b3b
 com.aliyun	alibabacloud-cs20151215	2.0.7		bee20d4c0adf71b194f0965a8107c0fe762763be
@@ -597,6 +607,7 @@ com.atlassian.connect	atlassian-connect-spring-boot-api	4.1.2		f24b9a2a9f1b9fb4f
 com.atlassian.connect	atlassian-connect-spring-boot-api	5.0.0		6f83b509839e92a7cf2489fc5e1f89700d75af41
 com.atlassian.connect	atlassian-connect-spring-boot-api	5.1.0		4ab0aa908eb01d1809fbc555a9af22d786f17d45
 com.atlassian.connect	atlassian-connect-spring-boot-api	5.1.1		77c3f9592b988b47e70f2264207b7595961018ac
+com.atlassian.connect	atlassian-connect-spring-boot-api	5.1.10		757398602e34b135afed2e5d2d1858dae8acf407
 com.atlassian.connect	atlassian-connect-spring-boot-api	5.1.3		4e2d8104bf0851bb952b92194ee5f1782aad2c4f
 com.atlassian.connect	atlassian-connect-spring-boot-api	5.1.4		563ce93830dfa65bfeba383fcc196ec3d8d0b710
 com.atlassian.connect	atlassian-connect-spring-boot-api	5.1.5		ccd58f2fb8ed56fd9a7a9e7a571333c18a1d5105
@@ -1790,6 +1801,7 @@ io.toolisticon.testing	jgiven-kotlin-spring-junit5	1.3.0.0		0f55c94a9f0fc54df4d6
 io.toolisticon.testing	jgiven-kotlin-spring-junit5	1.3.1.0		f78f55295b74d664e8621822aea2e658446da3d3
 io.toolisticon.testing	jgiven-kotlin-spring-junit5	2.0.1.0		fdaf194f12b7f742e58c146c6efef64979510c29
 io.toolisticon.testing	jgiven-kotlin-spring-junit5	2.0.2.0		fb231d64686e3df7e847ee0407e7ec6fd842fc21
+io.toolisticon.testing	jgiven-kotlin-spring-junit5	2.0.2.1		8a4feaaaf1889502e985b16ba86647d9bf95efc0
 link.thingscloud	netty-remoting-benchmark	0.1.0-RELEASE		47a7f1452125b4e9ee503f7bc29811f288a01767
 link.thingscloud	netty-remoting-benchmark	0.4.0-RELEASE		cd3749f59091e695c4b5832a605de7d870ef8e07
 link.thingscloud	netty-remoting-benchmark	0.5.0-RELEASE		4507325463cba80c3686b147030ab2cbeb17f070
@@ -1993,6 +2005,8 @@ org.logging4s	logging4s-json4s_3	0.8.0		e9f3fd552031a6976db9bb7dc2bcb7bdb2b7d0cb
 org.logging4s	logging4s-json4s_3	0.8.1		2aaa59239128cb962492836af3ba5406dd8438bb
 org.logging4s	logging4s-json4s_3	0.8.2		be2c85cec1ee55f7f28e6d7a9882cd8e6b8d1d67
 org.logging4s	logging4s-json4s_3	0.8.3		3530d78b00ff5e445163a39fbee98e4611d4d118
+org.logging4s	logging4s-json4s_3	0.9.0		ef54d03e5be65e2aa82fd01c024a98e8fc05b552
+org.logging4s	logging4s-json4s_3	0.9.1		b72f2000964cd1629a1a8c11c67e461fb67cf380
 org.opendaylight.odlparent	odl-karaf-feat-war	1.8.0-Carbon		N/A
 org.opendaylight.odlparent	odl-karaf-feat-war	1.8.1-Carbon		N/A
 org.opendaylight.odlparent	odl-karaf-feat-war	1.8.2-Carbon		N/A
@@ -2189,6 +2203,7 @@ org.ta4j	ta4j-core	0.14		50d8aee38af880fd761788fd675769a6a92af8b0
 org.ta4j	ta4j-core	0.15		89beae847696d395925035af9249931266535817
 org.ta4j	ta4j-core	0.16		a1fc606a263c910f69793d5d5a84dcb5e5e4079d
 org.ta4j	ta4j-core	0.17		54c4019a28cbb1ce7ca93162ddd52f86ab24af05
+org.ta4j	ta4j-core	0.18		61803a73d0a816cbcba11bc21cfa38b882eb7830
 org.webjars	tabler	0.0.32		4d1d341f221d414c22a6a1963d218dbe1fa59924
 org.webjars	tabler	0.0.33		f05d0eb943d84d069b44e3e7a1771cdc713bda66
 org.webjars.bower	typeahead.js-bootstrap3.less	0.2.3		ce0b7f0490c3d463ed2903cdeb393847edc15d28
@@ -3560,7 +3575,18 @@ software.amazon.awssdk	iotjobsdataplane	2.31.30		f912f4e4dd4119a89134db83c169e2d
 software.amazon.awssdk	iotjobsdataplane	2.31.31		446e5e24c6ff5d68eed619dcd09a970993e2a84e
 software.amazon.awssdk	iotjobsdataplane	2.31.32		602e7e14bfa0a40121abc0abb9c3257c361b9974
 software.amazon.awssdk	iotjobsdataplane	2.31.33		f10281032a0b1301705ed1f73893ecd6485a996c
+software.amazon.awssdk	iotjobsdataplane	2.31.34		0ccd7790cab040b7b5dd27b4bbfb05eaaba52572
+software.amazon.awssdk	iotjobsdataplane	2.31.35		8f9899106160b0166252fe66cb24a2cce236a8bc
+software.amazon.awssdk	iotjobsdataplane	2.31.36		e0c96f0f2a6769837cd5ce3ad21fd5f4f943072f
+software.amazon.awssdk	iotjobsdataplane	2.31.37		e4dfb5601e3e80d740ede2b8da77616697a38e04
+software.amazon.awssdk	iotjobsdataplane	2.31.38		e0ffcc9b2e6c49bb0613b81d212e1d506ef5b8d4
+software.amazon.awssdk	iotjobsdataplane	2.31.39		803aeb6c710546abcd5f052a51bfc48a7d78444b
 software.amazon.awssdk	iotjobsdataplane	2.31.4		3798bd268f60aadf5dca2dba5b2ffe0eed1ce469
+software.amazon.awssdk	iotjobsdataplane	2.31.40		d7eea357627fc5def78d0ca6b01926659123a765
+software.amazon.awssdk	iotjobsdataplane	2.31.41		6c27893294639c80482776eb7cb59b76e9ea0708
+software.amazon.awssdk	iotjobsdataplane	2.31.42		8407c36ea3008f46f2ba19d0b47f488fb7900986
+software.amazon.awssdk	iotjobsdataplane	2.31.43		6018d2b9e9c91f5144b7e6f02a451d47664f1f76
+software.amazon.awssdk	iotjobsdataplane	2.31.44		f0652d8897cd831c2bad38ee5cd0e5bac1cd3820
 software.amazon.awssdk	iotjobsdataplane	2.31.5		e802c855f2b19a9596cbab8cf89c551d22a5e6fe
 software.amazon.awssdk	iotjobsdataplane	2.31.6		40fd64bcb0e3084bfbce05e72d66a03b2f2dbe76
 software.amazon.awssdk	iotjobsdataplane	2.31.7		00e36e8a7483395d122d202891e99bb6b8c63874

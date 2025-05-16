@@ -1100,6 +1100,8 @@ io.matthewnelson.kmp-tor	resource-noexec-tor-iosx64	408.15.0		N/A
 io.matthewnelson.kmp-tor	resource-noexec-tor-iosx64	408.15.0	metadata	33d33a5ab382b099fff4eaac47b8e5e93bee43d5
 io.matthewnelson.kmp-tor	resource-noexec-tor-iosx64	408.16.0		N/A
 io.matthewnelson.kmp-tor	resource-noexec-tor-iosx64	408.16.0	metadata	33d33a5ab382b099fff4eaac47b8e5e93bee43d5
+io.matthewnelson.kmp-tor	resource-noexec-tor-iosx64	408.16.1	metadata	33d33a5ab382b099fff4eaac47b8e5e93bee43d5
+io.matthewnelson.kmp-tor	resource-noexec-tor-iosx64	408.16.2	metadata	33d33a5ab382b099fff4eaac47b8e5e93bee43d5
 io.oddsource.java.maven	finer-profile-activation	1.0.0-beta1		a42610aa1d767c20f9ea7b350a81edfe21a746ae
 io.supercharge	roboblender-proguard-gradle-plugin	1.0		8fd8b473b58ceac87da751b823cb62bce05482d6
 io.vertx	vertx-rabbitmq-client-scala_2.12	3.4.0		0b7db0197d086f5176cafdd6c9058f31befec540
@@ -1192,6 +1194,7 @@ org.apache.druid.extensions.contrib	druid-azure-extensions	0.16.0-incubating		eb
 org.apache.druid.extensions.contrib	druid-azure-extensions	0.16.1-incubating		65be5d55c9c3e45acb3c3425d91c50bdd9a38cf7
 org.apache.druid.extensions.contrib	druid-azure-extensions	0.17.0		241e8bfaa593eff0ee25a5ab86f3a1914d9ee6d0
 org.apache.druid.extensions.contrib	druid-azure-extensions	0.17.1		6cd74024c2d784bf17093a78da72cbcfdf0209ef
+org.caoilte	scala-2-12-defaults_2.10_0.13	0.1.0		067a2b612deb95984951b07ecef1f4fbc955b8e3
 org.exist-db	exist-index-range	5.0.0		cc819aac7abdcfea9aa0a120e6b832205cf55022
 org.exist-db	exist-index-range	5.0.0-RC8		ca5636536bec9894faa364211d211f2b90a77f36
 org.exist-db	exist-index-range	5.1.0		736243616fa1701a837feeac482c0bb59ba7f1b4
@@ -1554,12 +1557,16 @@ org.http4k	http4k-incubator	6.6.0.0		055f24b5b38cb597b6286789196725d443447128
 org.http4k	http4k-incubator	6.6.0.1		2e42ca1fe58259e56c5e03ca7c8133f3fa7b7a3c
 org.http4k	http4k-incubator	6.6.1.0		b84b863a93c5ac654df9969e04ecc14834bdfa08
 org.http4k	http4k-incubator	6.7.0.0		6a2fb1a220ecafd710569038bc86f4cb3fed89c9
+org.http4k	http4k-incubator	6.8.0.0		cf2b783e65ee84937bb2ef2d11fc1f9e60e19faf
+org.http4k	http4k-incubator	6.8.1.0		3268547b149a6d5249a2b1840862a967da7678cc
+org.http4k	http4k-incubator	6.9.0.0		b69e6d1f8ef0182290f4982db564ecfa4d6e8e7d
 org.http4k	http4k-incubator	v6.3.0.0		1ae1d224889dbdae18dfdc45eb61162550e64a30
 org.http4k	http4k-incubator	v6.4.1.0		e536ca48fccf3bc9acef2428f3d2be66ddc6e55a
 org.infrastructurebuilder.pathref	ibpathref-commons-text	0.31.0		083de63b21df64fdac8543579489925584777dc5
 org.jetbrains.scala	sbt-structure-extractor_sbt2.0_3	2025.1.3		167aac6a269aeefdf326926728448ee1be714bb4
 org.jetbrains.scala	sbt-structure-extractor_sbt2.0_3	2025.1.4		01f8e51472b70bc31564f3802da620e84e519b4b
 org.jetbrains.scala	sbt-structure-extractor_sbt2.0_3	2025.1.5		0cf312b442adf202ee55fb94d0e8cee02695244a
+org.jetbrains.scala	sbt-structure-extractor_sbt2.0_3	2025.1.6		07ccfe0cc46955065bbbc4737100ed2c1f02529a
 org.jumpmind.symmetric	symmetric-jdbc	3.0.0		dfce4e3420133d5129965d7bd4271f33800e5103
 org.jumpmind.symmetric	symmetric-jdbc	3.0.0-alpha.1		7c224c324ec0e1538ea9f13dd061b5feb6b25167
 org.jumpmind.symmetric	symmetric-jdbc	3.0.0-alpha.2		6563cca3485538b2af9a76c68bdf358c89180651
@@ -2279,6 +2286,27 @@ org.scala-native	test-runner_2.13	0.5.4		9a1cf544bafda0216080d86c38e888448d06bd4
 org.scala-native	test-runner_2.13	0.5.5		3f7484c2d0c00dbf9e313f325cd16d37bccea9a7
 org.scala-native	test-runner_2.13	0.5.6		f3f83d919a45e4b6bc89b7728b89eb18bcde7a95
 org.scala-native	test-runner_2.13	0.5.7		2966ef89519c97a1b102476c61aa9590ea835275
+org.scalamolecule	sbt-molecule_2.12_1.0	0.10.0		a510eec917400d4340b0f8c746e5680cd1cec4da
+org.scalamolecule	sbt-molecule_2.12_1.0	0.11.0		e8c56105fa8dfe8a316e034a022da88cc8e076e3
+org.scalamolecule	sbt-molecule_2.12_1.0	0.12.0		84a75d920eda27e3747a17b9e6b844414c3b77a3
+org.scalamolecule	sbt-molecule_2.12_1.0	0.13.0		a37b1d829ddf327adba3611abd6965097d9072db
+org.scalamolecule	sbt-molecule_2.12_1.0	0.5.0		f6fa4cdceccd88aeb2c8ea6028c0bf74a1d1a691
+org.scalamolecule	sbt-molecule_2.12_1.0	0.6.0		fd0ef37d0621c355b0b96639ef9aabd73f4cb1ed
+org.scalamolecule	sbt-molecule_2.12_1.0	0.6.1		2e25153d2bccf8d9abe5c9c0c9ffd4b683b9d077
+org.scalamolecule	sbt-molecule_2.12_1.0	0.6.2		0d94401171b84fbe386446e4f2b6617cc44adc7c
+org.scalamolecule	sbt-molecule_2.12_1.0	0.7.0		e868c9d8fc6b647a04da287a328385d8c4f6fd99
+org.scalamolecule	sbt-molecule_2.12_1.0	0.7.1		4015487366136e32799f4b7def3312cd1cf176f2
+org.scalamolecule	sbt-molecule_2.12_1.0	0.7.2		f426cd0dcc1b7807377beb0d81987a838447f2c5
+org.scalamolecule	sbt-molecule_2.12_1.0	0.8.0		ebfe88b5c5e023722f57df01f643d12ea847f5b0
+org.scalamolecule	sbt-molecule_2.12_1.0	0.8.1		443756535a9e17728bf7fe7e86fc7d9c11f2b653
+org.scalamolecule	sbt-molecule_2.12_1.0	0.8.2		b331d663cde269b5da0c312ce634a195a9b412df
+org.scalamolecule	sbt-molecule_2.12_1.0	0.8.3		cc6d808b6dbdcdd639232f1db887ae819d5c0c18
+org.scalamolecule	sbt-molecule_2.12_1.0	0.8.4		843b0ab91ed09bdfbd9d45726fe6d29b6f1a165e
+org.scalamolecule	sbt-molecule_2.12_1.0	0.9.0		0305dd97faf448274ea8493901f6f327d9f93a74
+org.scalamolecule	sbt-molecule_2.12_1.0	1.0.0		a757b80c324cbd2f2ed1c486134a12f3388eb85e
+org.scalamolecule	sbt-molecule_2.12_1.0	1.0.1		adbf877d50e1b1038f82f1f5cf4fff90d9ad75f8
+org.scalamolecule	sbt-molecule_2.12_1.0	1.0.2		1300269431286ee8cbddb27ce172975a7457720e
+org.scalamolecule	sbt-molecule_2.12_1.0	1.0.3		3eb6e3594545a61c9f018445493d497d9d68451b
 org.scalamolecule	sbt-molecule_2.12_1.0	1.1.0		e0fb8bc471f335183206e83fbe5ead5f8ec861b1
 org.scalamolecule	sbt-molecule_2.12_1.0	1.10.0		dfd334730149dc4aaf04dbb7affc48670e9e3d91
 org.scalamolecule	sbt-molecule_2.12_1.0	1.11.0		6c4b92d5a70b9a519a5e76afed76f55020c7a7f8

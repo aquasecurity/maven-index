@@ -8,6 +8,7 @@ cloud.piranha.extension	piranha-extension-omnifaces-omniutils	25.1.0		c56fd0c1c1
 cloud.piranha.extension	piranha-extension-omnifaces-omniutils	25.2.0		b08cd1962e0a46ff1faf73bc8473d283536d2156
 cloud.piranha.extension	piranha-extension-omnifaces-omniutils	25.3.0		e64dd9c6461fa0635720d921f4386809103ca1c0
 cloud.piranha.extension	piranha-extension-omnifaces-omniutils	25.4.0		6563166fa3e13debe7c97284690e5a308f4a6ba3
+cloud.piranha.extension	piranha-extension-omnifaces-omniutils	25.5.0		57ff83e4ec3a7eb09a3abbb46e6ccdefa4273a5d
 com.achalahealth.carestack-staging	carestack-staging	1.0.0		8b487fa3536e4d52f9316f414a77d1d3a832f944
 com.achalahealth.carestack-staging	carestack-staging	1.0.1		3d12064709f6ed618ee84eb62f7e723a5347da20
 com.achalahealth.carestack-staging	carestack-staging	1.0.2		ed63c647a59e29a3dca9a70b25aea255dbe2ff96
@@ -67,7 +68,9 @@ com.google.api.grpc	proto-google-cloud-visionai-v1	0.15.0		1289eb81eb20ef72dca3e
 com.google.api.grpc	proto-google-cloud-visionai-v1	0.16.0		dfdd92dc394a8aa90f05cbdfba29853b05038847
 com.google.api.grpc	proto-google-cloud-visionai-v1	0.17.0		fa971bd561acbb65ad102e74c7438db7091ffd79
 com.google.api.grpc	proto-google-cloud-visionai-v1	0.18.0		a99c4582aeefd136fa14e1bc5880887c4f8dae7e
+com.google.api.grpc	proto-google-cloud-visionai-v1	0.19.0		0f8a50ad86a4358afc2fe16bade1b3f6712c26b6
 com.google.api.grpc	proto-google-cloud-visionai-v1	0.2.0		a214f64b76b5388218ca79b15e96595e7c90df1b
+com.google.api.grpc	proto-google-cloud-visionai-v1	0.20.0		d7bdeab0378809432b2bedb65fc01471724587f5
 com.google.api.grpc	proto-google-cloud-visionai-v1	0.3.0		9c47d548dc5000538de68fb1b34ad1f1169edf56
 com.google.api.grpc	proto-google-cloud-visionai-v1	0.4.0		f7a9d528960f4af8e1968bd889db5d33ed06a448
 com.google.api.grpc	proto-google-cloud-visionai-v1	0.5.0		2e94fb41655b1ca5ce03a8d6d1bd80eb9c4d0da8
@@ -362,6 +365,9 @@ com.snowplowanalytics	pubsub_2.12	0.11.0-M1		600e6162184b74662f90fd6bc514c2ddffb
 com.snowplowanalytics	pubsub_2.12	0.11.1-M1		88054cf83003e71cbc1c97bf013d2b4a1a93f39e
 com.snowplowanalytics	pubsub_2.12	0.12.0		8170ceed299731a72c4bb604d75f3ded9983e750
 com.snowplowanalytics	pubsub_2.12	0.12.0-M1		81e0b5af752598ec01bd6481f0d57fff058cfd21
+com.snowplowanalytics	pubsub_2.12	0.13.0-M1		2d66f765623c6f6ed7aac37cb760a6295dc7bb7a
+com.snowplowanalytics	pubsub_2.12	0.13.0-M2		510c89c655aab1dea4196de1430664cc55c87bff
+com.snowplowanalytics	pubsub_2.12	0.13.0-M3		8f803ec3d897c4256471a447d5b4259e363e2d13
 com.snowplowanalytics	pubsub_2.12	0.2.0		5e0dc8ff0b9e7624e4883a51aba6be15c27871b8
 com.snowplowanalytics	pubsub_2.12	0.2.0-M1		bcf894d604bdccfb3a1841e02e5d180df2064041
 com.snowplowanalytics	pubsub_2.12	0.2.0-M2		43742dda1a006e1368cb4476857c0719e470c877
@@ -1473,6 +1479,7 @@ org.springframework.ai	spring-ai-minimax	1.0.0-M5		3f9ddf46ae5be8c5780578868c341
 org.springframework.ai	spring-ai-minimax	1.0.0-M6		12069b8d7365cec083fcca744aef63b84f2c8252
 org.springframework.ai	spring-ai-minimax	1.0.0-M7		b90d429259ca202adf155fa9065409e34ec5bb6a
 org.springframework.ai	spring-ai-minimax	1.0.0-M8		ff6b4a12884cd643afcfd23e09ea7cdd7e5d166c
+org.springframework.ai	spring-ai-minimax	1.0.0-RC1		98c28021d4fc8879d1bdbf31fd063d8c157dd11e
 org.togglz	togglz-core-spring-boot-starter	4.0.0		ac8e765f522332a24c9108b17eae11bf12126ab4
 org.togglz	togglz-core-spring-boot-starter	4.0.1		6db7803b580d074fc56c064f93d322f0fc914c08
 org.togglz	togglz-core-spring-boot-starter	4.1.0		8a58ce9437a8b4c8ca02f9d9643be572db3e2b2e
@@ -1529,10 +1536,12 @@ ru.tinkoff.kora.experimental	s3-client-symbol-processor	1.1.22		266df3af93daf7f3
 ru.tinkoff.kora.experimental	s3-client-symbol-processor	1.1.23		63ea9f5d29028649add046f4efe893d03b70569c
 ru.tinkoff.kora.experimental	s3-client-symbol-processor	1.1.24		328899c89f3a29a8036da460de8cd71f55851951
 ru.tinkoff.kora.experimental	s3-client-symbol-processor	1.1.25		3f8f782a40af219f655730f121f06ad313b59580
+ru.tinkoff.kora.experimental	s3-client-symbol-processor	1.1.26		86b8efdd7b3d6272f87dc64a7b813a71e22cd2a1
 ru.tinkoff.kora.experimental	s3-client-symbol-processor	1.1.8		73e230a231fa551784d34ec3d49eb225aa633e12
 ru.tinkoff.kora.experimental	s3-client-symbol-processor	1.1.9		7839a413ac18b5f17b6b516eba4e83e0d8e7f7af
 software.amazon.app.platform	kotlin-inject-impl-iosx64	0.0.1		N/A
 software.amazon.app.platform	kotlin-inject-impl-iosx64	0.0.1	metadata	31ccec3a20eb6b63c9b2381cf61c384f8836ea99
+software.amazon.app.platform	kotlin-inject-impl-iosx64	0.0.2	metadata	83521ebfbd25d87108c84b63411945d47af4bc38
 tz.co.asoft	keep-file-iossimulatorarm64	2.0.16		N/A
 tz.co.asoft	keep-file-iossimulatorarm64	2.0.16	metadata	8cd938c5302dced712f69edbf67e7fc266879219
 tz.co.asoft	keep-file-iossimulatorarm64	2.0.17		N/A

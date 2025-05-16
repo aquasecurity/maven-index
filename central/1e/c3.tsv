@@ -597,6 +597,7 @@ com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.23.0	
 com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.24.0		be1912a292bda23d4bdf041dff11827ac3cc717c
 com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.25.0		9cb31d5d64b00889ab8cf0e30d88e6d4a328c605
 com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.25.1		9b7d49a358d56abff999c1b46547caa916abd6e7
+com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.26.0		8000e1941ae30d3d00a8d646d484baa9553ef996
 com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.3.0		3503aca8567bc65d27fa48db09e218b67e10a550
 com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.4.0		0fd6cddc97bcfc196fcfee99dfb29698c89e8010
 com.walmartlabs.concord.server.plugins.ansible	concord-ansible-plugin-db	2.5.0		1b0c5599c23d8703459f23e0d5088ca97746740f
@@ -671,6 +672,7 @@ dev.opensavvy.ktmongo	annotations-watchosarm32	0.14.0		N/A
 dev.opensavvy.ktmongo	annotations-watchosarm32	0.14.0	metadata	f417c6ca30e31d99f0a9a2023d6d6066dbb2196a
 dev.opensavvy.ktmongo	annotations-watchosarm32	0.15.0		N/A
 dev.opensavvy.ktmongo	annotations-watchosarm32	0.15.0	metadata	e29fb3b883e6e2a4fef1402d60bd0d8116e2a0a0
+dev.opensavvy.ktmongo	annotations-watchosarm32	0.16.0	metadata	d91aad84b7a17d2113585cadb36da12a41dfbdb1
 dev.sergiobelda.pigment	pigment-jvm	0.2.0		5d2504d98a48309db79c4ef144b1189d10c582bb
 dev.sergiobelda.pigment	pigment-jvm	0.3.0		4be80f412d8c04e53a3a5404ac33b33ab1207f33
 dev.sergiobelda.pigment	pigment-jvm	0.3.0-pr49		b9435a85fda84af987f4e2a158f0000d520b1b08
@@ -1597,6 +1599,7 @@ org.apache.camel	camel-xpath	4.8.3		6de11fd5b61102d9cb77b3e29097e3fd7be8569b
 org.apache.camel	camel-xpath	4.8.4		a6029c1a20196d5b80eb817bc1294105fd63f5dc
 org.apache.camel	camel-xpath	4.8.5		8da8a65d2ac52d374b6cac6b9b9b3e126baac72c
 org.apache.camel	camel-xpath	4.8.6		15dd0a0f4bc4cb78f034225a90fbc8ff47657585
+org.apache.camel	camel-xpath	4.8.7		f0985ec6afa1271d3818dd845bb0023cda208731
 org.apache.camel	camel-xpath	4.9.0		ce90d45d58a63cc545963d2e5e072cf41cf9bbfa
 org.apache.geronimo.plugins	plugin-console-jetty	2.1		N/A
 org.apache.geronimo.plugins	plugin-console-jetty	2.1.1		N/A
@@ -1812,6 +1815,7 @@ org.webjars.npm	recaptcha-v3	1.10.0		a83cd4cab166cd0b3b3f743472b747df5e3711f4
 org.webjars.npm	recaptcha-v3	1.6.1		4666fce7c5c9a52ae33c59c5c7e388fcd5ff1ce8
 org.webjars.npm	recaptcha-v3	1.8.0		468e82db21ad9129bb0867d984fb9a2cc6f62054
 org.webjars.npm	stream-slicer	0.0.6		3ab8dabad56eb54a183b122a1ae6af9e67d082a4
+org.webjars.npm	xlsx	0.11.2		3000775f564236dd951fc606c4a7f080fa29ef5a
 org.webjars.npm	xlsx	0.12.11		abd1c0ec9b406c18d12cd22276c83d74eaf0d77a
 org.webjars.npm	xlsx	0.12.13		fd80ee4da8921aa89aaa38906c08b60207e721e4
 org.webjars.npm	xlsx	0.12.5		6e14e2a347855d7869339cec0dc3cea01583b2ae
@@ -1980,7 +1984,9 @@ ru.vyarus.guicey	guicey-eventbus	6.2.1		2368fa45dcea97a878d3e984c4d0a72286e9441e
 ru.vyarus.guicey	guicey-eventbus	6.2.2		268cf128c72099c97dcffd77083c8b5e8a6d8b9f
 ru.vyarus.guicey	guicey-eventbus	6.2.3		9bb8ac98224beca876cd368851901a51fc56f2d3
 ru.vyarus.guicey	guicey-eventbus	6.2.4		18fd842b34194e6b8ef97d51a94368e0ddb2f590
+ru.vyarus.guicey	guicey-eventbus	6.3.0		22a214f6dfbe2185f275287058f6f77687fccf19
 ru.vyarus.guicey	guicey-eventbus	6.3.0-rc.1		996bcb7d4ea2c327714dea1b0e6b3b4d98df6cd1
+ru.vyarus.guicey	guicey-eventbus	6.3.1		8b5ac70da9a98a050b830a82456b44cc653bc735
 ru.vyarus.guicey	guicey-eventbus	7.0.0		047ba58a2ea75230b36a8f257d39ce83d8fb564a
 ru.vyarus.guicey	guicey-eventbus	7.0.0-rc.1		ad741b3cb887993053e6d07502bd14685d02620d
 ru.vyarus.guicey	guicey-eventbus	7.0.0-rc.2		05b1f5513fece52d8c82aeaad92621eb8f768329
@@ -1991,7 +1997,11 @@ ru.vyarus.guicey	guicey-eventbus	7.1.1		b24e1e6817f54f1c26ad48758950cec3f0402b45
 ru.vyarus.guicey	guicey-eventbus	7.1.2		905f464893293760f851a6635885d32ab125721a
 ru.vyarus.guicey	guicey-eventbus	7.1.3		21704fcf170bb031b0a6f93edf4bb9bd3529a5aa
 ru.vyarus.guicey	guicey-eventbus	7.1.4		765b56e4b372d932a765d84243dd31af0317a196
+ru.vyarus.guicey	guicey-eventbus	7.2.0		38346e14ddacad9a84cce9b7ddfce3e92addf90d
 ru.vyarus.guicey	guicey-eventbus	7.2.0-rc.1		f1718f2ec61a529a52d1664f3413a18387bf88bd
+ru.vyarus.guicey	guicey-eventbus	7.2.1		f571c854903fd7de0fbc4e5bd0205e5b4bd640b2
 ru.vyarus.guicey	guicey-eventbus	8.0.0-rc.1		1fda3fada76b02697f102afe718e878ab77be544
 ru.vyarus.guicey	guicey-eventbus	8.0.0-rc.2		a5c8d84701957bb66cb823ea258c1db5a769bb7d
+ru.vyarus.guicey	guicey-eventbus	8.0.0-rc.3		e4e72a3fe0b750c169edbc4d8b86aaa205bfe195
+ru.vyarus.guicey	guicey-eventbus	8.0.0-rc.4		d227c5d89dd5a48493fefdd4566edc7d47b18369
 zone.gryphon	screech-build-bom	0.1		N/A

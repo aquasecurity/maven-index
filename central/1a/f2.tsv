@@ -34,6 +34,7 @@ ch.exense.step	step-automation-packages-schema	3.26.5-customized-j		1c0935acd3ce
 ch.exense.step	step-automation-packages-schema	3.27.0		92686bfc8c1c8c3c8888d81125f8cc00b41bcdd8
 ch.exense.step	step-automation-packages-schema	3.27.1		5cafcc78076f1d1fa1c786a661ee46c7604a7972
 ch.exense.step	step-automation-packages-schema	3.27.2		298fa490a539babf16c9f8650bbbfc3a0488bb3d
+ch.exense.step	step-automation-packages-schema	3.27.3		21077b0f7eaeebd937e18342c79cef164c588085
 city.smartb.f2	f2-client-ktor-rsocket-jvm	0.10.0		9ef2e20573a097416ded3f51f3fbbbd1b430ec71
 city.smartb.f2	f2-client-ktor-rsocket-jvm	0.11.0		d7449a87aa0024729bba8a59600a53afe3c429f1
 city.smartb.f2	f2-client-ktor-rsocket-jvm	0.12.0		432100d4644f8374d3ffa028a9b2f3a12e044538
@@ -1201,6 +1202,9 @@ io.netty	netty-resolver-dns-native-macos	4.2.0.RC3	osx-x86_64	a29689a73f9700b874
 io.netty	netty-resolver-dns-native-macos	4.2.0.RC4		07bd34a84136b13e82230cff86abb9ddbc7929c2
 io.netty	netty-resolver-dns-native-macos	4.2.0.RC4	osx-aarch_64	0b110a510572105c2af1445f41bc455cf39b3d26
 io.netty	netty-resolver-dns-native-macos	4.2.0.RC4	osx-x86_64	c2b982ccbd40d82882416e670d0d37435de3bf0a
+io.netty	netty-resolver-dns-native-macos	4.2.1.Final		30a75631d535931849fad87e60febdee85452c57
+io.netty	netty-resolver-dns-native-macos	4.2.1.Final	osx-aarch_64	e0765591ee5a473d9f7c7db02439b88537a7008f
+io.netty	netty-resolver-dns-native-macos	4.2.1.Final	osx-x86_64	fa16ba10d16bd7d49cab209c89c94745577b5ec8
 io.primer	nol-pay-android	0.0.0-test.1		N/A
 io.primer	nol-pay-android	1.0.1		N/A
 io.primer	nol-pay-android	1.0.2		N/A
@@ -1593,6 +1597,8 @@ org.anyline	anyline-data	8.7.2-20250312		44abf7920ad4bdfd8aa2d871037ce4829cbf914
 org.anyline	anyline-data	8.7.2-20250401		44161ee2945010a906983db80ae98e6e51693264
 org.anyline	anyline-data	8.7.2-20250404		22383cd8d9160cefb27aeb1604cccf0931466739
 org.anyline	anyline-data	8.7.2-20250502		acdadc2bbd152bef47ec24ea914f68c69c394fe3
+org.anyline	anyline-data	8.7.2-20250509		4c0c7bb11a7987208919a14d92eebbb57455f97a
+org.anyline	anyline-data	8.7.2-20250515		ced4bf398e2236eb3989f551d2767e0a2625725b
 org.anyline	anyline-data	8.7.2-jdk11-20240816		ac4481cff8c49a3b48dced887f70381f94e9623f
 org.anyline	anyline-data	8.7.2-jdk11-20240819		88bc83b6cdd6c36567db9d4a70906f729dc2b807
 org.anyline	anyline-data	8.7.2-jdk11-20240826		85a55137399ee70524878e9a3e18274ea06c2b79
@@ -1608,6 +1614,9 @@ org.anyline	anyline-data	8.7.2-jdk11-20250108		26378588208108aea1f7ea4748f17555f
 org.anyline	anyline-data	8.7.2-jdk11-20250212		45fafabd6084d812bd5e8e8c54182a8bec7d75d7
 org.anyline	anyline-data	8.7.2-jdk11-20250312		fce2d8763ed7038c1cb517c39ed0286c48cf3504
 org.anyline	anyline-data	8.7.2-jdk11-20250404		391d8776acb024977465c07ad30a9e9dd529a97e
+org.anyline	anyline-data	8.7.2-jdk11-20250502		4075dea4c303022b119c194b61184739602d981b
+org.anyline	anyline-data	8.7.2-jdk11-20250509		f8515de130dd55fc2eaff69153d2d2d5fe957a9c
+org.anyline	anyline-data	8.7.2-jdk11-20250515		bedd4befcb68999836bcb77556b646b9e43fc736
 org.anyline	anyline-data	8.7.2-jdk17-20240501		9f827a8515d8f6826e8296b2516cd202394ef2be
 org.anyline	anyline-data	8.7.2-jdk17-20240505		e72adf766a2141d70ccb32f4f4e57ec48b7dc372
 org.anyline	anyline-data	8.7.2-jdk17-20240506		8e022f150093c363e94bc4205e1b71f83af338d5
@@ -1685,6 +1694,9 @@ org.anyline	anyline-data	8.7.2-jdk17-20250109		9caed399c3afb254ee10bddea376d5883
 org.anyline	anyline-data	8.7.2-jdk17-20250212		10019961722b4a2134696ac5ffc9e6f9692fa685
 org.anyline	anyline-data	8.7.2-jdk17-20250312		6fec3561378fce627a65a5025c6da4f25adb02c1
 org.anyline	anyline-data	8.7.2-jdk17-20250404		9a471ccdf6755ce604fad4feb6510a635aa6987e
+org.anyline	anyline-data	8.7.2-jdk17-20250502		cfaf7cced1d18820b2e6d66aac5e45fb17f40502
+org.anyline	anyline-data	8.7.2-jdk17-20250509		34a9fab9c11d265abe64ad428c184ec43d21a0e6
+org.anyline	anyline-data	8.7.2-jdk17-20250515		33d4d05f8bed605df42fc6f018da9ffffbfdaf48
 org.anyline	anyline-data	8.7.2-jdk21-20240501		b9dab7819efbdfe1597605f57c063c21d31e4e8e
 org.anyline	anyline-data	8.7.2-jdk21-20240505		f650c7bce6b98be47b8f3188dcb798c8bf9d0cc3
 org.anyline	anyline-data	8.7.2-jdk21-20240506		a37a93be056fe82533afbe994c1c3dce610185a9
@@ -1769,6 +1781,9 @@ org.anyline	anyline-data	8.7.2-jdk21-20250212		24af645dd04f19ae58b699351e832bf51
 org.anyline	anyline-data	8.7.2-jdk21-20250225		bf4380465a54b8755490cbc59f2e896a5e657a6b
 org.anyline	anyline-data	8.7.2-jdk21-20250312		7cb504c73b12f0d89570e4695633fe7185b654b8
 org.anyline	anyline-data	8.7.2-jdk21-20250404		4fd272258e4e4c32791b308611c5f55f27046776
+org.anyline	anyline-data	8.7.2-jdk21-20250502		ae7142579f545d5dfcbbb2496bcebf0cb9d4079b
+org.anyline	anyline-data	8.7.2-jdk21-20250509		eb29d1968c2e43694e7eb06c4dc4e4f27bf889d2
+org.anyline	anyline-data	8.7.2-jdk21-20250515		77c15f8e99376355d096beb7755bcd72699964ee
 org.apache	apache-resource-bundles	1		N/A
 org.apache	apache-resource-bundles	2		N/A
 org.apache.geronimo.plugins	openejb-portlets	2.2		N/A
@@ -2159,6 +2174,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-suppo
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	5.3.33_1		a10ec75766510a67d1ecc1cd215f8c1d607b9367
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	5.3.34_1		3126336065088672aa895c9dc224e7b953c8ef17
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	5.3.39_1		04aa22731b7091e8f9a032bb8fdaa25cb4e12ead
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	5.3.39_2		04df56d19fe3896360d06688cea14419108f7e7d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	5.3.3_1		2c2b6c47eb56179badf5b162566b54b095e52eb6
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	5.3.4_1		fa9ad864b6e4dfa097a073e86f7f756fdd7bc9b5
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	5.3.5_1		50807726d096d5e34b06533b258f90a7069cc488
@@ -2173,6 +2189,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-suppo
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.18_1		db5fb9848371daf2988c9fcc8fcaf81a1633d632
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.19_1		ea7b914d35b0f311865353a95cb61fbd54120a61
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.23_1		8ce90b3688843af0f373bce8942e9e7f830484da
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.23_2		f8266c59e267464ffa1d608cfd6bd0136976e4ba
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.2_1		7398dafd2cafb9e45ba54fae3f3dca9e9a39ab36
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.3_1		ecfd8bf2e19a69fc2af42bd8df6f9034d648845c
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.4_1		34ce8bbe6cd6f331af1b89853a12c04a35d7e880
@@ -2181,9 +2198,11 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-suppo
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.0.8_1		980caa18937ec4ceafe93c585912f4972300ba33
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.1.13_1		a8f0208bada20257390df4dfe545a9a6cfa8c3fc
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.1.14_1		7a42540108a2b12d74aa9063a691eea455b24cc1
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.1.19_1		8a6ac7f54a7713f8b90d7407751f20e9d82bbb14
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.1.2_1		7d5e1b9d469ceadb12f7c179229393b1fa7b7785
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.1.5_1		3745a778d694f4e6bceb0fde4148cd2a551261be
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.1.6_1		8f3c4dbb654cbb4ec18c72b3bce4e2aa4277271a
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-context-support	6.2.6_1		034f8e86dd2c858af0a835e316531cb7e2927eb1
 org.apache.streams	gnip-edc-facebook	0.1-incubating		4f11e63f0bfa16728aba66726ec9ef205fff5caf
 org.apache.streams	gnip-edc-facebook	0.2-incubating		512c797242800b831a46077be4bf2873e25abc0f
 org.apache.streams	gnip-edc-facebook	0.3-incubating		74878fb029a23a559591d338353bf46a43151d76

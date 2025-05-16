@@ -3702,6 +3702,7 @@ io.quarkus	quarkus-reactive-datasource	3.15.2		dfd5fdeb8d078dcacc64b183ddcd4dda2
 io.quarkus	quarkus-reactive-datasource	3.15.3		58a78cb28ea3cdc4a3d7bee9732ec1e1ece58f25
 io.quarkus	quarkus-reactive-datasource	3.15.3.1		ec36fb342c3be35954af51bf07bec6ce9c48733b
 io.quarkus	quarkus-reactive-datasource	3.15.4		4e2d70faf8a7d4c606d9750ea282556626b11f04
+io.quarkus	quarkus-reactive-datasource	3.15.5		c744f1134b3e7fc92f871a49eca5ee9578d4fe8f
 io.quarkus	quarkus-reactive-datasource	3.16.0		198f335d2cd0ee2042a57c7e0560c955b31fd172
 io.quarkus	quarkus-reactive-datasource	3.16.0.CR1		c9598e2e34445197a47d6a10afb4ec7867dcce3c
 io.quarkus	quarkus-reactive-datasource	3.16.1		bb4fc0c0a24ca4ccd6b925e8b724b411b4b99604
@@ -3746,6 +3747,7 @@ io.quarkus	quarkus-reactive-datasource	3.2.8.Final		e5ca45efda2429d279a00cc03477
 io.quarkus	quarkus-reactive-datasource	3.2.9.Final		d2921f6ec9b2e347b6335e59ccb5dc60d9a8e5c7
 io.quarkus	quarkus-reactive-datasource	3.20.0		cf5a11e229b09a72d427e9f3b8257f2099118312
 io.quarkus	quarkus-reactive-datasource	3.20.0.CR1		6b76bda1ed4a0414965d94dc97c31003b2a70d5e
+io.quarkus	quarkus-reactive-datasource	3.20.1		3c884f336cb6326399c79f6e65673f7584dd02d4
 io.quarkus	quarkus-reactive-datasource	3.21.0		da857aa6c5c0a0215e07ad3c216f4cfd51339458
 io.quarkus	quarkus-reactive-datasource	3.21.0.CR1		df6c73c4ae2009673e275281cfffd4b8ea05535f
 io.quarkus	quarkus-reactive-datasource	3.21.1		65114804197b9a7008b479f2d9597d17abaaa460
@@ -3755,6 +3757,9 @@ io.quarkus	quarkus-reactive-datasource	3.21.4		18738d378f1e8be7417437ccacc13c76a
 io.quarkus	quarkus-reactive-datasource	3.22.0		8d1bd88e02b0f9daf49ae71804282f42822e2248
 io.quarkus	quarkus-reactive-datasource	3.22.0.CR1		69a8184bec6a375647dff456f5035b5e850828a4
 io.quarkus	quarkus-reactive-datasource	3.22.1		08507a5a9bd7b592c3eb044886d8fd0e4aaea08e
+io.quarkus	quarkus-reactive-datasource	3.22.2		1e643b1137a568821be50afa9b5227b254bd1ba0
+io.quarkus	quarkus-reactive-datasource	3.22.3		ad7756ab2e9b2f3bfd5e7935b36b912afcaa45de
+io.quarkus	quarkus-reactive-datasource	3.23.0.CR1		2ab9555b21961f05287b3c5632ba1b2d998f4bfe
 io.quarkus	quarkus-reactive-datasource	3.3.0		4d908cdadffdc0ec2e6fd6c9e0467080a352b62a
 io.quarkus	quarkus-reactive-datasource	3.3.0.CR1		c9de3bca8721e17db69ac99ecd35d1dd26eed8f4
 io.quarkus	quarkus-reactive-datasource	3.3.1		18f68d7ec06e6ae74a7312d6f2fd52e224f51e42
@@ -4182,6 +4187,9 @@ org.http4k	http4k-connect-google-analytics-core	6.6.0.0		9c11252046524a3c5886faf
 org.http4k	http4k-connect-google-analytics-core	6.6.0.1		e4e6fbfdcebcb26c82587081dfe509bb60a80409
 org.http4k	http4k-connect-google-analytics-core	6.6.1.0		6cd42110011e7157c3c990eada1d63856a09c409
 org.http4k	http4k-connect-google-analytics-core	6.7.0.0		9567a764f5316bca2e069a4ddb9ebbdc7e0411d1
+org.http4k	http4k-connect-google-analytics-core	6.8.0.0		92498e8bb60718edac934d93269e6e9b1d7b5fa3
+org.http4k	http4k-connect-google-analytics-core	6.8.1.0		fdd02df752e2eda3b73596afb821fce80f5ab989
+org.http4k	http4k-connect-google-analytics-core	6.9.0.0		e29d02865b06acdfcd5f268353b08166b98ccde2
 org.http4k	http4k-connect-google-analytics-core	v6.3.0.0		54d5ce43f2384f9c38dd0414c0110e301d7af2c4
 org.http4k	http4k-connect-google-analytics-core	v6.4.1.0		cc0934db6b863260194acd4305ac5b5fb8b35f51
 org.jetbrains.kotlinx	kotlinx-coroutines-core-wasm-wasi	1.10.0		N/A
@@ -5845,7 +5853,18 @@ software.amazon.awssdk	clouddirectory	2.31.30		942e1367c7f3e7fae117151887277586e
 software.amazon.awssdk	clouddirectory	2.31.31		9a4a675624bacb6e5f0a26d1a8e13978e387506a
 software.amazon.awssdk	clouddirectory	2.31.32		4a6189dc38045e45404a990dee408ef999690afe
 software.amazon.awssdk	clouddirectory	2.31.33		dfa9302eef79dff8c8eb08f652b53b76ffb593fd
+software.amazon.awssdk	clouddirectory	2.31.34		e54da86ef493e59fbc1ed8ca24028387b23f64b4
+software.amazon.awssdk	clouddirectory	2.31.35		230395aba4d3d223a4e9b8304a5430b5f0d6fd75
+software.amazon.awssdk	clouddirectory	2.31.36		2346eb697868ad0dfad0ff23febd2b45d5fdd5c7
+software.amazon.awssdk	clouddirectory	2.31.37		aa28241e16f0dcbf7d4b33adf60ae30c1aa07a59
+software.amazon.awssdk	clouddirectory	2.31.38		a9b58cf77c5aaaba10322cabb3fdcd681b6dd1df
+software.amazon.awssdk	clouddirectory	2.31.39		e5c60bb948a15eaaccab381413387b0d46b73797
 software.amazon.awssdk	clouddirectory	2.31.4		443b428c8691e5b893ae18f02ebf76b0cc8ea0b7
+software.amazon.awssdk	clouddirectory	2.31.40		9b2578203829dd16fffa862c7988f6ac3804c437
+software.amazon.awssdk	clouddirectory	2.31.41		d17a234bfd98808c5055bee0548de614d2a763c2
+software.amazon.awssdk	clouddirectory	2.31.42		50f47c39519a2f58ac7c31140788f7eb0aac398e
+software.amazon.awssdk	clouddirectory	2.31.43		45c0f3b5bddb9db8584ea5d7b6a96bdf4640f2b4
+software.amazon.awssdk	clouddirectory	2.31.44		a1ab9d95457e1833fed310e0979399958f5b6755
 software.amazon.awssdk	clouddirectory	2.31.5		ddd2ac525154f5c7807ee154b33182093262b49e
 software.amazon.awssdk	clouddirectory	2.31.6		fe0f350361269ad2d74ddf949365b1e88af9b5e5
 software.amazon.awssdk	clouddirectory	2.31.7		e0d1c5ea45a1e8498dbfbd02ba0b8078ff1cce09

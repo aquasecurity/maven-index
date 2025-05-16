@@ -111,6 +111,11 @@ com.github.frtu.governance	library-dot	1.0.1		f4da1b76e0ed841f5f53421ea16d56e309
 com.github.frtu.governance	library-dot	1.0.2		7030d38fc28a041fdcc5b628e6cf81d97ef88167
 com.github.frtu.governance	library-dot	1.0.5		6655039f411c7dcf0dffb10eca7f04a630b20a84
 com.github.frtu.governance	library-dot	1.1.0		bd9ab2147c61f49ec25be32de9daa5f774a0e56c
+com.github.kxbmap	sbt-jooq_2.12_1.0	0.3.1		6292ea30a92eb8c42e0372540613d6c29927cf64
+com.github.kxbmap	sbt-jooq_2.12_1.0	0.3.2		2c0207cfb8c455e7ccf3e75e8bae4b5649f09b10
+com.github.kxbmap	sbt-jooq_2.12_1.0	0.3.3		a1c7031e58a24d769ac25ad31c2060cd744845c4
+com.github.kxbmap	sbt-jooq_2.12_1.0	0.4.0		aca2932e02822dbf5c980355f487f7a32ea5e75e
+com.github.kxbmap	sbt-jooq_2.12_1.0	0.4.1		7575fb7c6fa83fbc2d562242cce08f9c1ad0fd78
 com.github.lianjiatech	retrofit-plus	1.1.1		75eba4d1ec25fb00304fe31a7d3574cfee937fa7
 com.github.lianjiatech	retrofit-plus	1.1.2		9fdb1b0e9da5fb6e0f97da66748b85ed16d785db
 com.github.lianjiatech	retrofit-plus	1.1.3		d416382b5322dc5a3f2818d9681fa4a1334ecc86
@@ -471,6 +476,8 @@ io.ktor	ktor-server-partial-content-iosarm64	3.1.1		8b914aa0d73fbc6c9138af14f1c4
 io.ktor	ktor-server-partial-content-iosarm64	3.1.1	metadata	70e979f736e04571fb49cf50db2016a3e9db1ed0
 io.ktor	ktor-server-partial-content-iosarm64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-partial-content-iosarm64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-partial-content-iosarm64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-partial-content-iosarm64	3.1.3	metadata	7105300cca4e6cc70127a5f9f8584bdee8d86064
 io.mockative	io.mockative.gradle.plugin	3.0.0		N/A
 io.mockative	io.mockative.gradle.plugin	3.0.1		N/A
 io.mockk	mockk	1.0		e5cfd1137f9a6932e39efb5afdb20d55462c1187
@@ -1477,6 +1484,7 @@ io.streamnative	pulsar-io-mongo	4.0.1.2		132659b64286d0d434c6b9fbcde79b2043f058e
 io.streamnative	pulsar-io-mongo	4.0.1.3		071fe7ba572a705e4837775d6d395e77899dca6c
 io.streamnative	pulsar-io-mongo	4.0.1.4		8ccd0867bd46261d49758ffdc6cb9e0299c5c164
 io.streamnative	pulsar-io-mongo	4.0.3.1		764cdb21c329ae3a5fd9bdb5d5c5ee83b418cab1
+io.streamnative	pulsar-io-mongo	4.0.4.2		50d87304588575ad4c9760319821336911c34c5b
 io.streamnative	pulsar-io-mongo	master-rc-daily		4adb35ea3a2d5b78584cdb80e32d88272094fba0
 io.streamnative	pulsar-io-mongo	v2.8.0-rc-202106091140		c793d4b47f7894f0d66d614ab63f7f684e51c1be
 io.streamnative	pulsar-io-mongo	v2.8.0-rc-202106121853		534fbb87e42324957b30c1652ca4e32b668b2975
@@ -1700,6 +1708,7 @@ org.apache.camel	camel-cassandraql	4.8.3		41f1c738c56b8fe1485a1de05ea310cd34038b
 org.apache.camel	camel-cassandraql	4.8.4		133945ec1d81fa157fbc2ea8815ff8bdbb910b8d
 org.apache.camel	camel-cassandraql	4.8.5		e067dfac83b7442cdbce82674e4662ce8360a2ed
 org.apache.camel	camel-cassandraql	4.8.6		440da716dd60779a9be50ac46d32aa18974303e0
+org.apache.camel	camel-cassandraql	4.8.7		ebd535a4aca7dbf656ab0ba8ac2fc65aa57d06a4
 org.apache.camel	camel-cassandraql	4.9.0		e6055c2f1f8dd9b93b75b18131cea535d8f4c50e
 org.apache.hudi	hudi-integ-test-bundle	0.10.0		2839e66a6f73c60f41879f5e0faf00d2d0cba874
 org.apache.hudi	hudi-integ-test-bundle	0.10.1		25d57685d0217badaa191ccc548775f4a7d73d3f
@@ -2163,6 +2172,7 @@ org.apereo.cas	cas-server-support-pm-jdbc	7.2.0-RC6		07213f043a691e978ccd221fde0
 org.apereo.cas	cas-server-support-pm-jdbc	7.2.0-RC6	resources	415f7e949f3f1b37f8660f66e7c91e9033cac2c4
 org.apereo.cas	cas-server-support-pm-jdbc	7.2.1		551408d9b94ebe354bacb55a54505f22a350e729
 org.apereo.cas	cas-server-support-pm-jdbc	7.2.1	resources	a08bc8dd19610ba8f6a15bfacce29381a81c90f2
+org.apereo.cas	cas-server-support-pm-jdbc	7.2.2		223e1221e712958e99b5131856f6489a6c7b6dce
 org.apereo.cas	cas-server-support-pm-jdbc	7.3.0-RC1		64443c7ed3aa385208469f4aa6f50b7d46af4a76
 org.apereo.cas	cas-server-support-pm-jdbc	7.3.0-RC1	resources	a67f28da1d67389b8602c9a2dce12a6861eca831
 org.apereo.cas	cas-server-support-pm-jdbc	v6.4.0-RC5		23f8179bd95ce0b4bbb603e9de14170004796cdb

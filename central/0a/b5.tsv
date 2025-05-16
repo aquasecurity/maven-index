@@ -622,6 +622,7 @@ dev.zio	zio-aws-health_3	7.31.27.1		1a53af1ed2ee76716f9ce523fb55ad5092e7614e
 dev.zio	zio-aws-health_3	7.31.28.1		f198b307e633636149a480c8900ce5de30aef392
 dev.zio	zio-aws-health_3	7.31.3.1		0581a9f5d0db45fef31cc6914bc61ec57c3aa202
 dev.zio	zio-aws-health_3	7.31.30.1		1d73678b187b6718f26aacd1d6797626b1749497
+dev.zio	zio-aws-health_3	7.31.30.2		990264a4831e155d518cc854635db63d190ed4ed
 dev.zio	zio-aws-health_3	7.31.4.1		1531f3a603bab5c317a44c15475ad08078703146
 dev.zio	zio-aws-health_3	7.31.6.1		d592b4784d4ea58d552d5cb3fbc3d8e08de8c0ea
 dev.zio	zio-aws-health_3	7.31.6.2		224c6405289bffcbdb9f67a895c760acf102278c
@@ -947,6 +948,7 @@ dev.zio	zio-aws-iot_3	7.31.27.1		e3c16ea8faac86e54869deb0862d0ff834fbdd1d
 dev.zio	zio-aws-iot_3	7.31.28.1		ddc248510e05d72a3e0ad489b9710ce45e80ac71
 dev.zio	zio-aws-iot_3	7.31.3.1		e73c82796eb3d1b8d4ce83234e11cc83d4d19256
 dev.zio	zio-aws-iot_3	7.31.30.1		d3fabf1d340bc4c51119817757dc5c702ddea8ed
+dev.zio	zio-aws-iot_3	7.31.30.2		68a09df68c3c1d0bf1ff1d521e9eecab05890c5a
 dev.zio	zio-aws-iot_3	7.31.4.1		09035c049a6dcb77d9d30b86dc7090ec45764f7b
 dev.zio	zio-aws-iot_3	7.31.6.1		e01cd71cda34cb23fdd88c71058755565b80e0aa
 dev.zio	zio-aws-iot_3	7.31.6.2		e3847a259a7486dd69d046836f9d62784dad501c
@@ -1446,6 +1448,8 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-20250312		989186202b203d4e37724baa6
 org.anyline	anyline-data-cache-ehcache	8.7.2-20250401		a390978343233417a9a27fbeaf184f426ccd1a73
 org.anyline	anyline-data-cache-ehcache	8.7.2-20250404		faabda046289059f6c34a0ad09caccad4064ce5e
 org.anyline	anyline-data-cache-ehcache	8.7.2-20250502		5b5e4608501343e0d73f039315fd6d02cdd51eb6
+org.anyline	anyline-data-cache-ehcache	8.7.2-20250509		eb04ae188873f0b282fe92aa1a54322c6b811ace
+org.anyline	anyline-data-cache-ehcache	8.7.2-20250515		f0551fd8e72b78d284ae715f876635f8a4ea4684
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20240816		905cc13ff0c291359bd7aab0ce81c6e614cd4ec2
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20240820		1e28efc85dac168ecbdf4ab7759c480a4f37952e
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20240826		388d338411a68e08a86d5cf678d5044e838aa726
@@ -1462,6 +1466,9 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250102		523345a822283db4dd2
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250108		4be210cfae896b21dff99b4dbd6f8c5d5e21f854
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250212		50f34bf502e7f8d2b736e41ae4e78be4a6463c8f
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250404		7f5e7dc3de36cc8ddffedc7a61e466a012913330
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250502		eeea87af32f598e151dc7091b686672078be20d6
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250509		360d452a7ee98f62c989cf61f4e0a6ed7d451fbb
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk11-20250515		ff4382d6dd92e212f2edfe7c77d49cc9f7df94fc
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20240501		a5173b2487735f32bb44a87df3e5f4990bae5ec8
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20240505		3d4b2f883d9e2edfb1095f94c26c3bf5fe0a179e
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20240506		c485a27b9c00495f62522fc9cf91730de732115f
@@ -1536,6 +1543,9 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250109		f6b83a9d25d4bf744e7
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250212		d4610cc9bf7da44d451088f9b734d336a8e40c85
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250312		24b713cc6db52637dd8bd92fd322a085a8719336
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250404		a11df331c0a35ed9c8cbb7b295038eb7d09fd4d7
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250502		aa89e44c756ec165a9139dac7f6b53b247ffc79c
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250509		b6a15c863ba71eb73f6c06f7341d6fda44f5496e
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk17-20250515		94d7ba657103da00ca5d8f3941384ae2dd016f14
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20240501		8bfaae173de0c1c35ea087c9f89b65ddc420338b
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20240505		b004b6a169f2eb07765f44c5ab067a1a8d470aac
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20240506		8319503f774ac2a362612fa33f6ef653bb23fd1e
@@ -1613,6 +1623,9 @@ org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250212		f4fdde84e5c92ca7d9f
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250225		0e99dfafdf4cc0ee10a61df7417659f69b9c93a3
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250312		89ca40c3af662e2d26ab61ea648321ab408c9a38
 org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250404		13caef7b123a5c35948b2e1f8ef9e0b124c8073a
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250502		ca0a97a0e768ec76a9c7ec1b3e00bb9ba32dc324
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250509		bba52a24a6e99024ecc8f1f0ad91689fa74ca505
+org.anyline	anyline-data-cache-ehcache	8.7.2-jdk21-20250515		c543d32ba984d2e2606e457accc6a87cca4d1037
 org.apache.archiva.redback	redback-authentication-users	2.0		465c8dc3492e7d1e8b184bc912b13e9f97a7c462
 org.apache.archiva.redback	redback-authentication-users	2.1		8bfd9e6f7ecdd21c30ff7e4a3941419b93aa421d
 org.apache.archiva.redback	redback-authentication-users	2.2		4392c94a3a4ddcd4d16759d9dedcfb3de9135801
@@ -1696,6 +1709,7 @@ org.apache.camel.quarkus	camel-quarkus-ftp	3.2.1		db7ad8bcc7248b89ce40521517f70a
 org.apache.camel.quarkus	camel-quarkus-ftp	3.2.2		e7eb320d296f881923e08696d6d648a910180bf8
 org.apache.camel.quarkus	camel-quarkus-ftp	3.2.3		e26b77a7b81d7c9d90f58791440dddfd69c832bb
 org.apache.camel.quarkus	camel-quarkus-ftp	3.20.0		3209d225f3b434fa22eb399d9399d4f2de36c151
+org.apache.camel.quarkus	camel-quarkus-ftp	3.20.1		fb2a20d4815a950f84f106d75db49636075affd2
 org.apache.camel.quarkus	camel-quarkus-ftp	3.22.0		cfefebf06e2d997b9271c155f74fe70266292247
 org.apache.camel.quarkus	camel-quarkus-ftp	3.4.0		579cdcd0da964dd21d7a541a29eb6182dac4efb5
 org.apache.camel.quarkus	camel-quarkus-ftp	3.5.0		1f97b8c7b18f6141517d5135f10fac4d96f57110
@@ -1752,6 +1766,8 @@ org.eclipse.jetty	jetty-osgi	12.0.17		48a1ac20f96542e320571b49775026edfc648e56
 org.eclipse.jetty	jetty-osgi	12.0.18		d96c354177a59065e7bd3b5344d9d5df30a6f0fb
 org.eclipse.jetty	jetty-osgi	12.0.19		764c20b18bb3e3ccef62e3ee55aed86bfde16fe7
 org.eclipse.jetty	jetty-osgi	12.0.2		c25998db775a80a5b8c5fc4acb940aa21abec119
+org.eclipse.jetty	jetty-osgi	12.0.20		792db646956ea04ac6467cb0b6ec219846b943d8
+org.eclipse.jetty	jetty-osgi	12.0.21		5a7ca4217774073da529f8f747a8f0a35a8f218c
 org.eclipse.jetty	jetty-osgi	12.0.3		1469260230a709fe405248d0fbadff5bf926253a
 org.eclipse.jetty	jetty-osgi	12.0.4		01b74b700b495e3338f1d33d9f76708d4fa143ea
 org.eclipse.jetty	jetty-osgi	12.0.5		7a4821a8794f5bbb8502973e80f60f131121f8b7
@@ -1938,6 +1954,7 @@ org.jmonkeyengine	jme3-android	3.8.0-alpha3		8db53742c1826228aa1641265d0842c66a7
 org.jmonkeyengine	jme3-android	3.8.0-alpha4		74bb83b9e49590b5d3a113a54e9ca66cfa35789e
 org.jmonkeyengine	jme3-android	3.8.0-beta1		47724253c6fd5c404f251cf35373acaa0ec944af
 org.jmonkeyengine	jme3-android	3.8.0-stable		02a377a3cd7d72b40af4d21794a48583c1cdacd3
+org.jmonkeyengine	jme3-android	3.8.1-stable		13651b6afdc614f27c37d08d817d33311bfaec56
 org.jxmpp	jxmpp-jid	0.2.0		4727cfea4dc9985b1b015cbe184db2bae49fc7a5
 org.jxmpp	jxmpp-jid	0.3.0		650752eab446cb993048011ac4948c37ae25c065
 org.jxmpp	jxmpp-jid	0.4.0		385a5cd8d7ee41b1aae654df953a277a5dc64e2b
@@ -2173,6 +2190,7 @@ org.scalameta	mtags-interfaces	1.4.2		0e2e862d488540fc22f4f3c9015d4d77c5039220
 org.scalameta	mtags-interfaces	1.5.0		f0a3aeca4b6c20eb3e578e472f9e80927690647a
 org.scalameta	mtags-interfaces	1.5.1		5ed1cefa41de4b5f77d334f294bbf228defe75e5
 org.scalameta	mtags-interfaces	1.5.2		97bdd82803fdd40cd47b1ef60c1bfb8ddbd9cbe8
+org.scalameta	mtags-interfaces	1.5.3		329962ba0d2c8f7041e3c26bd6bc9da356f179e1
 org.scalaz	scalaz-http_2.10.0-M1	6.0.4		f256494504381c4f1896bb96cbb7135f317b783e
 org.springframework.cloud	spring-cloud-starter-dataflow-server-local	1.0.0.RELEASE		3020beb700794add60815c311262638c6cdcbbaa
 org.springframework.cloud	spring-cloud-starter-dataflow-server-local	1.0.1.RELEASE		c10437ba93208f7b4e2b1dd4561aeffc7746c7f7

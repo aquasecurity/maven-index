@@ -247,6 +247,7 @@ com.netflix.spectator	spectator-ext-ipc	1.8.1		75e2d73400864b56f62f9777150cff1b5
 com.netflix.spectator	spectator-ext-ipc	1.8.10		8726595efef28717a0082774493f899ef10de1e1
 com.netflix.spectator	spectator-ext-ipc	1.8.11		def3d50c6bf1d75ac767b15d022c0d02eeede5af
 com.netflix.spectator	spectator-ext-ipc	1.8.12		6c974dd8afcf2268de840e665116326253b6c32b
+com.netflix.spectator	spectator-ext-ipc	1.8.13		e8b88f91fc57b4772ccf728f565445ff0a296b42
 com.netflix.spectator	spectator-ext-ipc	1.8.2		26531dd6ba21f02bc3bfb475549241b3951bc092
 com.netflix.spectator	spectator-ext-ipc	1.8.3		fc46f16068632cd0fd18e4a2332cfefb06444bfb
 com.netflix.spectator	spectator-ext-ipc	1.8.4		93f9940323092cd6cac8e59bb7cb568a123055d3
@@ -869,6 +870,7 @@ int.esa.ccsds.mo	api-area002-v001-com	11.0		40a44fa3ea90fc0d3454b71aff9aa0f44847
 int.esa.ccsds.mo	api-area002-v001-com	11.1		747ae28835f09e0d74118647a4c49e149736b44c
 int.esa.ccsds.mo	api-area002-v001-com	11.2		641ef646e60809201a23d251db9a3c28cbacf23e
 int.esa.ccsds.mo	api-area002-v001-com	11.3		b088b9413aaa94385ba9154aa45f851726cecf98
+int.esa.ccsds.mo	api-area002-v001-com	12.0		011f765ed7a1b184a2aab82530b8c50e97e87a32
 io.camunda	zeebe-journal	1.0.0		daa6c2964afd52d59d9c7b34e80a6ead740108e0
 io.camunda	zeebe-journal	1.0.0-rc1		4b6417f06953ff580c949b54865f7f46361ad553
 io.camunda	zeebe-journal	1.0.0-rc2		51641b833f11ec2897a3bbb6572b499ee4d296d7
@@ -1068,6 +1070,7 @@ io.camunda	zeebe-journal	8.4.15		8777e47f00a10b080cd495c062ef36814eed6252
 io.camunda	zeebe-journal	8.4.16		6b34270abb08866864bffbf83e8df26559c9c955
 io.camunda	zeebe-journal	8.4.17		f23da2c59f65a3383e8bafa910dc553517f78597
 io.camunda	zeebe-journal	8.4.18		f6b2da61b09df5348eed29f4c07b2aac57025ab0
+io.camunda	zeebe-journal	8.4.19		5394f04d1e219d88691260d1c43d120b45f9492b
 io.camunda	zeebe-journal	8.4.2		99920e566f2c69625a171173f790af55a9e0a86a
 io.camunda	zeebe-journal	8.4.3		4770e0bbf725ca67c8d4393be804bffc5a31ff8f
 io.camunda	zeebe-journal	8.4.4		d958f2c58b04a9284c1f71511d9f04a79c982f07
@@ -1090,6 +1093,7 @@ io.camunda	zeebe-journal	8.5.14		56c3a1e03cc8a25a8201ee50fa00d3076030b608
 io.camunda	zeebe-journal	8.5.15		6c4582112a616a962870f925d32484e77c1a9a0e
 io.camunda	zeebe-journal	8.5.16		df4518e3c6feb4e71ddcbb29392b8e4fcd91ce6a
 io.camunda	zeebe-journal	8.5.17		54d78761aee392f064db983ee465c44c98d11b73
+io.camunda	zeebe-journal	8.5.18		74f66d4e39f50681a7545d5398ae66971a82a8d5
 io.camunda	zeebe-journal	8.5.2		25773aa4917b237766c4ffc0c1a76ea667b89353
 io.camunda	zeebe-journal	8.5.3		651c36efe4ee2c9e9e96c3fdcb8666ae396067d9
 io.camunda	zeebe-journal	8.5.4		ffa163f614f42b33f2171b808accdb16356889f0
@@ -1127,6 +1131,8 @@ io.camunda	zeebe-journal	8.6.12-rc1		fb4e447bb6e8fb1cb08106b1030b971f84dd454c
 io.camunda	zeebe-journal	8.6.13		ee31dac7a547f30c2b8398de25ce39ef01dca2f0
 io.camunda	zeebe-journal	8.6.14		368ba1caced8ee753549ae54d4c4dc42b68b1935
 io.camunda	zeebe-journal	8.6.14-rc1		e420ee408ed2f1be64f44a83288d7a38fab189e1
+io.camunda	zeebe-journal	8.6.15		7687f6e8f3b100be6bc6aec04363bbb051e199d9
+io.camunda	zeebe-journal	8.6.15-rc1		537759654a183aa99f141a807aa71b6d057adc8a
 io.camunda	zeebe-journal	8.6.2		cfb33901801654f0ce75059581c691e353e3562b
 io.camunda	zeebe-journal	8.6.3		b93c11c7e24e8cc23364e44e9cdc6b61983dec36
 io.camunda	zeebe-journal	8.6.4		69fe659c1a0148ba59660cd90a020c2a16c8f716
@@ -1162,12 +1168,15 @@ io.camunda	zeebe-journal	8.7.0-alpha5-rc1		fc64e7f61e54f4f19055c32467ba4dad87964
 io.camunda	zeebe-journal	8.7.0-rc3		b2cce5f8910e6bec368e54b9e3d8c5b742252c46
 io.camunda	zeebe-journal	8.7.1		29d5e53052670f31b6f9662a50da35e1f408ef28
 io.camunda	zeebe-journal	8.7.1-rc1		a36f4aa22fa4ae792d61ec184ea17b388522cb0c
+io.camunda	zeebe-journal	8.7.2		24d7fd3fa09b87875b0270caceb9c603159b2581
+io.camunda	zeebe-journal	8.7.2-rc1		79c0760cfeaaaad499165543cdfe21e3026a9814
 io.camunda	zeebe-journal	8.8.0-alpha1		0590ff65dff8635969b4a96d2e25ded5bd21e90d
 io.camunda	zeebe-journal	8.8.0-alpha1-rc1		a8f26cd589d2fed283aa6f814b9e3dd9703b2520
 io.camunda	zeebe-journal	8.8.0-alpha2		0c2e9dff62ecb3464cd8f72aada27f7166177dda
 io.camunda	zeebe-journal	8.8.0-alpha2-rc1		e4bbb0a6b0017de9b17cf98182c525ffdd58aeab
 io.camunda	zeebe-journal	8.8.0-alpha3		9b6376cabb44414038ccd0b5b083c6537c60a3ae
 io.camunda	zeebe-journal	8.8.0-alpha3-rc3		6ff945af4bf31e8ec89bf8f0219f15bd6ffbfdeb
+io.camunda	zeebe-journal	8.8.0-alpha4		fc46b6238f0ef210fb8d2c37d96c7451ce44bcc1
 io.camunda	zeebe-journal	8.8.0-alpha4-rc1		1580d33f28bbd913b9adee4edf934fc8e6d843ab
 io.dylemma	xml-spac_2.10	0.2		38e910bce9d230439219d5e4928090bb4fa88fd7
 io.dylemma	xml-spac_2.10	0.3		f6c296102181152414fb1b64cedce0dc6e258c11
@@ -1290,6 +1299,8 @@ io.ktor	ktor-server-websockets-tvosx64	3.1.1		230507f9a5ed34dac4b10cd22e8c9533b1
 io.ktor	ktor-server-websockets-tvosx64	3.1.1	metadata	c11ae0d93bb69df38347ca06b48877ee5d4bff07
 io.ktor	ktor-server-websockets-tvosx64	3.1.2		4f3e3f219c48c052a2f5b8250f089c6555bf83a7
 io.ktor	ktor-server-websockets-tvosx64	3.1.2	metadata	9b86be51531cf7693e0e4fb070cb8c2fdbc9d744
+io.ktor	ktor-server-websockets-tvosx64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-websockets-tvosx64	3.1.3	metadata	246b98bb6725d5ed0ad6e7bb561b0997a7adf526
 io.mateo.spring	twilio-spring-boot-starter	1.0.0-rc.1		86ec1994b317bb5039eb92d0ef239cd428184b14
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	1.10.0.CR1		c3e8cbb5eac1343b2843161ba99182b1dbad16f2
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	1.10.0.Final		4f991e72e59a228f72af5c1568c4028b228968b6
@@ -1485,6 +1496,7 @@ io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.15.2		5ea4319eea9eb5e
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.15.3		dc11e1a53d5d51dc03d22a0f737a2a3444baf823
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.15.3.1		7cd2b55c9d54eb47f6a3ee48ee6be4851bef0c55
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.15.4		59116cc02f7b4600fe5c53151100cba8cfc4cec1
+io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.15.5		0dc6c0bde40bc61edb3d9e1f71134e606ea5d502
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.16.0		b84b7f87abd1fc72ead64e05874e9136e81d77b9
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.16.0.CR1		4e7b75bc6738ed1a519adc91a5d969531dee9740
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.16.1		8b07b0b8be5c0bf9af1ed927edb075430ffb0d34
@@ -1529,6 +1541,7 @@ io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.2.8.Final		1c09596b90
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.2.9.Final		2a23086c0ec094c0057deed2b636a597eb2df626
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.20.0		daf70ba0148841467a7bc40add77b00e47995452
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.20.0.CR1		c7ad2fd043026a62188be4a6496c82ad3e8006ec
+io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.20.1		9ccb69fa95fd397a410f29c2480a671c4be826c7
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.21.0		551e766fbb847fc6b2ea6f7d5cee5e7780b980d5
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.21.0.CR1		0b10a7d03d14be1e1b3ccbcd70952b5673ee87d2
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.21.1		bdd31c28a14b3de2b35e43c13cfc440469e630f8
@@ -1538,6 +1551,9 @@ io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.21.4		ddc8a9a03105425
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.22.0		4fa39b253e3a2100b3eeb42bec8eddd0d57cc9ba
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.22.0.CR1		bd7da62989111531e620a630f444ceea47dde315
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.22.1		71debb4a9ef44ea12d36021f273b3cbc28ab7eac
+io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.22.2		7c99d40a43356f6089bf442303ab8de4a446963f
+io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.22.3		35987e40744376bdb443bb0ad4d414a79b8ea36f
+io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.23.0.CR1		e8ca32c06eda47bf4b1cf26994409dccc8406cee
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.3.0		1cf6bbb5659d0eb9f40602032dbf7fc01fa66cc0
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.3.0.CR1		c529d8ec5345e650a7e7bca33b7c7577639139aa
 io.quarkus	quarkus-hibernate-reactive-panache-deployment	3.3.1		d3ef4cd8e4d5dbe73ccd821a4c587fb33c071e24
@@ -1722,6 +1738,7 @@ io.quarkus	quarkus-jaxrs-spi-deployment	3.15.2		fea5cdc41898a013a20ad38dad431a40
 io.quarkus	quarkus-jaxrs-spi-deployment	3.15.3		ec9bddec31882093af9ec703f8fcc26292d30530
 io.quarkus	quarkus-jaxrs-spi-deployment	3.15.3.1		f7d135fc49293c54539a9baee620582f079c8ec1
 io.quarkus	quarkus-jaxrs-spi-deployment	3.15.4		0ca4c915338801566b31ef6227eee02e71f07053
+io.quarkus	quarkus-jaxrs-spi-deployment	3.15.5		fdbde7171c497097c1cdd25b1c303f8152ebefd4
 io.quarkus	quarkus-jaxrs-spi-deployment	3.16.0		f715ca337749817f3e3157dfb76f2064aa954501
 io.quarkus	quarkus-jaxrs-spi-deployment	3.16.0.CR1		0f77858a42885908ad5b53d8e7991095712080c5
 io.quarkus	quarkus-jaxrs-spi-deployment	3.16.1		cedcddb52b1778124cb3b41bba129be1acfb01d6
@@ -1766,6 +1783,7 @@ io.quarkus	quarkus-jaxrs-spi-deployment	3.2.8.Final		3f92f1ef318b9bab6e799aaad0e
 io.quarkus	quarkus-jaxrs-spi-deployment	3.2.9.Final		f48cf113c9f6b98b45f22ae52c80a0ffc1d10c27
 io.quarkus	quarkus-jaxrs-spi-deployment	3.20.0		5f739dd460bd204c5501db808836d01c14f18adf
 io.quarkus	quarkus-jaxrs-spi-deployment	3.20.0.CR1		617cc81f28604d2883174f2270eded17b83046c1
+io.quarkus	quarkus-jaxrs-spi-deployment	3.20.1		a82938275c1257ccd91dd5bbfa79417011b931a2
 io.quarkus	quarkus-jaxrs-spi-deployment	3.21.0		cb1487f7037405d209995f0dc4a1fa101080a05a
 io.quarkus	quarkus-jaxrs-spi-deployment	3.21.0.CR1		95796c5515526bfbd42108d169b11e51934c69bd
 io.quarkus	quarkus-jaxrs-spi-deployment	3.21.1		57ead7b7c0c1333aa9e0a7515eb670d658acff2e
@@ -1775,6 +1793,9 @@ io.quarkus	quarkus-jaxrs-spi-deployment	3.21.4		55077a71d54189e2971632d41c0aadb5
 io.quarkus	quarkus-jaxrs-spi-deployment	3.22.0		0de246ec9355b79e535e3bdb045b30aa6197b955
 io.quarkus	quarkus-jaxrs-spi-deployment	3.22.0.CR1		243bbce89f7a72252a3f29c04fe89818944af817
 io.quarkus	quarkus-jaxrs-spi-deployment	3.22.1		33f8a161c9b01b1e2b3e358838c0b2ef34ae9e84
+io.quarkus	quarkus-jaxrs-spi-deployment	3.22.2		d59314da2a409190e6e6015efc03278ce35d6b9a
+io.quarkus	quarkus-jaxrs-spi-deployment	3.22.3		bdf858c3297ad560310a4d6fa273f773d2c57908
+io.quarkus	quarkus-jaxrs-spi-deployment	3.23.0.CR1		56751f2dc385ae16011c03638bd38632664db575
 io.quarkus	quarkus-jaxrs-spi-deployment	3.3.0		795f324958f7ae9f5a90cdd21ba352aa7df9d544
 io.quarkus	quarkus-jaxrs-spi-deployment	3.3.0.CR1		d1ed83b28d06f902f8f78ef7e4f8251f28c00b5d
 io.quarkus	quarkus-jaxrs-spi-deployment	3.3.1		a245d02e61994742a420da822d695396b92b08d3
@@ -4041,7 +4062,18 @@ software.amazon.awssdk	backup	2.31.30		ca43250bbb4c372f1602c2af932901643d23e9b9
 software.amazon.awssdk	backup	2.31.31		af707b623bbc0328cf83db20118728de3c96008d
 software.amazon.awssdk	backup	2.31.32		a1c073c0cb677772da5233b2dfffc92fcc88c9dc
 software.amazon.awssdk	backup	2.31.33		9edad9b8e2904d810582cb4d9cd26f360fc307bd
+software.amazon.awssdk	backup	2.31.34		aff373b8480ea29572f1d495511fa552e6da0b3e
+software.amazon.awssdk	backup	2.31.35		aff9cc38062edf87dadd8b9a62c5e9ff9b3dfada
+software.amazon.awssdk	backup	2.31.36		1380f99bf9b01c509ffdcd140c72de70f890d74f
+software.amazon.awssdk	backup	2.31.37		eb7b4cf7947117a4ab41e264c6162403e7654d37
+software.amazon.awssdk	backup	2.31.38		a294b99c55339c6ad33f24a83a46682477fbebe7
+software.amazon.awssdk	backup	2.31.39		44228abca4fa11d1d6c040322e95ea08a1f685fa
 software.amazon.awssdk	backup	2.31.4		cd215e9f283bf16b9c91b64e72638fa2eaba488d
+software.amazon.awssdk	backup	2.31.40		27a0c3277438bfea275a6d0370fd0a059dd084d4
+software.amazon.awssdk	backup	2.31.41		4dd65051a5736602f67bfc7354d39468800c9cf3
+software.amazon.awssdk	backup	2.31.42		e9dad1a6436c946c147becea9b7e766cad0d2617
+software.amazon.awssdk	backup	2.31.43		ec1dec4992a304992f6caa0608ff099036380bd0
+software.amazon.awssdk	backup	2.31.44		f67e9fe801daf122d859ac6dcb70a76895851e21
 software.amazon.awssdk	backup	2.31.5		a571e5f1e1742bf0a266a59fe1abbc6e41232cdb
 software.amazon.awssdk	backup	2.31.6		d9e1aba48bf7ff9d9a7d8b705d84aefd75e288ce
 software.amazon.awssdk	backup	2.31.7		d6b097038ac0966ad581b3fed3d4828664d9fa5d
@@ -4254,6 +4286,10 @@ tz.co.asoft	kommander-coroutines-tvosarm64	3.0.8		N/A
 tz.co.asoft	kommander-coroutines-tvosarm64	3.0.8	metadata	37affcd1ceb1c15eeeed96d209ca9e4429c76491
 tz.co.asoft	kommander-coroutines-tvosarm64	3.0.9		N/A
 tz.co.asoft	kommander-coroutines-tvosarm64	3.0.9	metadata	0a8ad4d261c4330e250a0e98da99ca718b848d8d
+tz.co.asoft	kommander-coroutines-tvosarm64	3.1.0	metadata	00e3c9003a00beafd318abff447c7a653d9c5bfe
+tz.co.asoft	kommander-coroutines-tvosarm64	3.1.1	metadata	d95f578161498c1ab716b8a691eafa76a13d83f7
+tz.co.asoft	kommander-coroutines-tvosarm64	3.1.11	metadata	9ad0b64eac63e9c9f30a01a1115ac2c317a6666c
+tz.co.asoft	kommander-coroutines-tvosarm64	3.1.12	metadata	fee6e3b159770c48a8e77eebb099a52d19cc90db
 uk.co.real-logic	sbe-benchmarks	1.10.0		deec353ffacebf1d0656196894ae0069a3093011
 uk.co.real-logic	sbe-benchmarks	1.10.1		614ed58963320857c49cc398cfc00c4c402b4420
 uk.co.real-logic	sbe-benchmarks	1.10.2		44e9e7f87a65e9c715aa6e55a29fa34fe1fef3a1

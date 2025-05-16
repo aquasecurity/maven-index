@@ -961,6 +961,7 @@ io.quarkus	quarkus-container-image-docker-deployment	3.15.2		26297bd39c2f33f54af
 io.quarkus	quarkus-container-image-docker-deployment	3.15.3		7ffe8c743f0f4181c6f4bbab0237fc7bce490eb7
 io.quarkus	quarkus-container-image-docker-deployment	3.15.3.1		67aa4bf9b2121db43a716cca0f16338fef9102bc
 io.quarkus	quarkus-container-image-docker-deployment	3.15.4		9ad47b5386c2e169b99f7572845302e9c3ae6e9e
+io.quarkus	quarkus-container-image-docker-deployment	3.15.5		f0c68b77c9d5ace3726d33c42f4abca289b51222
 io.quarkus	quarkus-container-image-docker-deployment	3.16.0		ba14070506587baca87a4bec0089680dbcc00be1
 io.quarkus	quarkus-container-image-docker-deployment	3.16.0.CR1		fd459197a42399f0afe04bc6cf50905789c6e434
 io.quarkus	quarkus-container-image-docker-deployment	3.16.1		b8a1c00c8b24b9c98af4165eacbd959ac6c13501
@@ -1005,6 +1006,7 @@ io.quarkus	quarkus-container-image-docker-deployment	3.2.8.Final		5e1917efd915af
 io.quarkus	quarkus-container-image-docker-deployment	3.2.9.Final		67b65b35b555a0e5c90b2900677d1771d018d266
 io.quarkus	quarkus-container-image-docker-deployment	3.20.0		ecef7a500854b26b107a9673a36a097875ae81a1
 io.quarkus	quarkus-container-image-docker-deployment	3.20.0.CR1		bbaf2f9bdb8c396855281b76d6d95af12de23142
+io.quarkus	quarkus-container-image-docker-deployment	3.20.1		e46405661dd83d66cec126521a8cd933f8c7586e
 io.quarkus	quarkus-container-image-docker-deployment	3.21.0		7a38b0d85964b1e8b13d3fadf118ecd61e7683a1
 io.quarkus	quarkus-container-image-docker-deployment	3.21.0.CR1		8a35f20accf015f714a231588f8c63d7dbfacdc7
 io.quarkus	quarkus-container-image-docker-deployment	3.21.1		4666931b93289e4c2af6b3731deaa6aeb4adfa34
@@ -1014,6 +1016,9 @@ io.quarkus	quarkus-container-image-docker-deployment	3.21.4		b07bb32a835918150d7
 io.quarkus	quarkus-container-image-docker-deployment	3.22.0		f60163d6fc6f161050076a91b3c36101782854d7
 io.quarkus	quarkus-container-image-docker-deployment	3.22.0.CR1		1a2407c8012bdd6963c9c6df448f5ccde0f31f7a
 io.quarkus	quarkus-container-image-docker-deployment	3.22.1		f626c6d5167854636d707bb3baa0ff5a0b89e3ec
+io.quarkus	quarkus-container-image-docker-deployment	3.22.2		821b6d9a2d130f97bd6fa1525c2ee41e7c8919ad
+io.quarkus	quarkus-container-image-docker-deployment	3.22.3		9cdac22b0dc03555e8cc47172b87793b9c1bdc82
+io.quarkus	quarkus-container-image-docker-deployment	3.23.0.CR1		29e63272548366abf851851195d2b9fcbd602de8
 io.quarkus	quarkus-container-image-docker-deployment	3.3.0		21306d54c3491edc6df74960590bd1734e1cdf97
 io.quarkus	quarkus-container-image-docker-deployment	3.3.0.CR1		9f76a75c8a6f545f422d04599e824c13fd09ce92
 io.quarkus	quarkus-container-image-docker-deployment	3.3.1		c7f329fae6ff2d75e1d9deba0955349c3cc5459c
@@ -1449,6 +1454,13 @@ org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.4.8-1.4.2		093bd62391328
 org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.4.9-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
 org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.0-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
 org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.1-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
+org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.2-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
+org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.3-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
+org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.4-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
+org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.5-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
+org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.6-1.4.2		093bd62391328117ab18c78331d61507e566d9ab
+org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.7-1.4.2		23efa9b24fbb4974b2662a3466bece690eb09aa8
+org.jetbrains.kotlin-wrappers	kotlin-emotion-utils	2025.5.8-1.4.2		23efa9b24fbb4974b2662a3466bece690eb09aa8
 org.mobicents.servlet.sip.archetypes	mss-testing-embeddedTomcat7-archetype	1.0		cd18b76077b4ca3255f4dd76733f5bc72e7b34bb
 org.mobicents.servlet.sip.archetypes	mss-testing-embeddedTomcat7-archetype	1.0.0-CR1		ac76227a2faa43fb7a36fd5cc6cf330c6deed591
 org.reactivemongo	reactivemongo-actors-pekko_2.13	1.1.0-RC12		191b12fd907a05f6348d626088778d5670199572
@@ -2335,6 +2347,7 @@ systems.manifold	manifold-ext-middle-test	2025.1.10		c815cbc060a4f25319d0303f811
 systems.manifold	manifold-ext-middle-test	2025.1.11		5de53b8435dbd0ee994b2df7af48b0a90a75bfae
 systems.manifold	manifold-ext-middle-test	2025.1.12		28a4542a72d0092d60f1ae9ae2479485dbc49819
 systems.manifold	manifold-ext-middle-test	2025.1.13		2586489eac8f7901e867145170f77098609413ba
+systems.manifold	manifold-ext-middle-test	2025.1.14		6294b95e274ac4d2f738e4c8130659e7a53fd5b5
 systems.manifold	manifold-ext-middle-test	2025.1.2		2586a0bf851af5184ea078aefbc8f9521ddf0e07
 systems.manifold	manifold-ext-middle-test	2025.1.3		62fdb8355f0d5190c7244a3471b9a95f1d64a373
 systems.manifold	manifold-ext-middle-test	2025.1.4		42d6b009809d3072cc82a5f6a0aba9182f89763c

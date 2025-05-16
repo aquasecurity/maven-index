@@ -24,6 +24,7 @@ co.fs2	fs2-scodec_sjs1_3	3.12.0-RC1		c5f6e650301f04fb315a1495301ca72dcd34b3e0
 co.fs2	fs2-scodec_sjs1_3	3.12.0-RC2		c40b516bd74e8818fd3db117119fb2a8ddb4d056
 co.fs2	fs2-scodec_sjs1_3	3.13.0-M1		18223719f5fcb1a0607c7cacc6a8788b181fc874
 co.fs2	fs2-scodec_sjs1_3	3.13.0-M2		9d4155ebcc6ecb0af78a03f1adb819d6fe2da91b
+co.fs2	fs2-scodec_sjs1_3	3.13.0-M3		b5c5b5fe5550e5d851810ac715d1c2f9e84113e7
 co.fs2	fs2-scodec_sjs1_3	3.2-10-421c242		b3d52c5f28a63964453367d6df61b8dd576e8d7c
 co.fs2	fs2-scodec_sjs1_3	3.2-10-ea04dd1		f5ea10a80dea84117bd207e28a426c08b7b3b6e7
 co.fs2	fs2-scodec_sjs1_3	3.2-100-c1910b5		095a306de4884573c688922ac005f7242af56167
@@ -218,6 +219,11 @@ com.github.thierrysquirrel	websocket-spring-boot-autoconfigure	1.1.1.1-RELEASE		
 com.github.thierrysquirrel	websocket-spring-boot-autoconfigure	1.1.1.2-RELEASE		e7f19ec8317eced2105c26b2fc88bbcbdc6189bc
 com.github.thierrysquirrel	websocket-spring-boot-autoconfigure	1.1.1.3-RELEASE		309fe875f2dc240b1ff4de14aca867469ee61cfa
 com.github.thierrysquirrel	websocket-spring-boot-autoconfigure	1.1.1.4-RELEASE		dda084e8a9077f77796337c145d8fcebb135e9a3
+com.github.xuwei-k	sbt-jshell_2.12_1.0	0.1.0		1cf4dbcd7471d5cafd3e6cf611b7016d1f9879a6
+com.github.xuwei-k	sbt-jshell_2.12_1.0	0.1.1		45309bcf87ad049e8777c51f8211989b4d573304
+com.github.xuwei-k	sbt-jshell_2.12_1.0	0.1.2		a424ab073c97bf026a95b02b1579aa462bec4492
+com.github.xuwei-k	sbt-jshell_2.12_1.0	0.1.3		9644d4e0bd7247b5c124b860d85cf0c13b2aaaca
+com.github.xuwei-k	sbt-jshell_2.12_1.0	0.1.4		8fd78afaf766c257f8d377465f647a814fa3479c
 com.github.xuwei-k	sbt-jshell_2.12_1.0	0.1.5		4583226bc378ec272b2af1f3b083720c2bc21dc3
 com.itv	scalapact-http4s-0-16a_2.12	2.3.0		3ad1aeaae4b8d91b70b1c1591a4ede007f490ed0
 com.itv	scalapact-http4s-0-16a_2.12	2.3.0-RC1		dc5a7c8d541a8ece5953fb52da31813f8084eecc
@@ -275,6 +281,7 @@ com.mantledillusion.metrics	trail-metrics-support-vaadin-7	2.1.0		17837b8c61006b
 com.mantledillusion.metrics	trail-metrics-support-vaadin-7	2.2.0		b6f93406678d691725aae832030f4d0b8e58934e
 com.mantledillusion.metrics	trail-metrics-support-vaadin-7	2.2.1		1db8290a931fe8a80e9710cea64252aff7c346f4
 com.mantledillusion.metrics	trail-metrics-support-vaadin-7	2.2.2		f5db87910d35d4fc37f4b8bb3235f590726dded4
+com.mantledillusion.metrics	trail-metrics-support-vaadin-7	2.3.0		f0ae2e6d11077d31d0882e00672f3336f62eaa76
 com.mchange	texttable_2.11	0.0.1		40b8859765c44a970067609cf013a53dea275f22
 com.mchange	texttable_2.11	0.0.2		c05e114ee7b86a3ecfea344ce19fb56ff2c5af16
 com.mchange	texttable_2.11	0.0.3		86ed80bfc76d6bca4d26a37cce1fd0c89f4eb853
@@ -328,6 +335,7 @@ com.sksamuel.cohort	cohort-liquibase	2.6.0		af15e2eb98d783d6ce2c57271dc639fa17a8
 com.sksamuel.cohort	cohort-liquibase	2.6.1		11dae17bc3b1dac9462c542db503f01b432c59ec
 com.sksamuel.cohort	cohort-liquibase	2.6.2		c6be6cb473ebe6b8686350bda38ef14ab337b9c7
 com.sksamuel.cohort	cohort-liquibase	2.7.0		32c621bef70a542fad2a5707c56e519c83ed90b3
+com.sksamuel.cohort	cohort-liquibase	2.7.1		76c8b31e613c352bce07bbad99aa64287738932b
 com.sqlapp	sqlapp-core-mysql	0.10.0		7d37147db446e6897a1d31ccbac7f5bed0141513
 com.sqlapp	sqlapp-core-mysql	0.12.0		e05ee073b338a094d3a5040d743786f2528dc64f
 com.sqlapp	sqlapp-core-mysql	0.12.1		e8eb13b53cf16265b764f6d557cd9ec256a2b3ad
@@ -534,6 +542,8 @@ com.weicoder	dbcp2	3.3.7		44783f89a9dc42abd3d54aeb06005eef2ea871e2
 com.weicoder	dbcp2	3.3.8		c3e4e615c1c2a7de1f219b13a6b5099905ebce50
 com.weicoder	dbcp2	3.3.8-jdk8		10360a5da4230ed567d52fdff33f71048232a592
 com.weiglewilczek.scala-lang-osgi	scala-library_2.8.0.RC5	1.0		0c41e65dcc2aff3b68d4fbf70a4ca55b353ff396
+de.johoop	cpd4sbt_2.9.2_0.12	1.1.1		b9ec6d7864c679356555f65fb7561c3361bedf13
+de.johoop	cpd4sbt_2.9.2_0.12	1.1.2		aa4c17b3ebbaec5aa632d496f107299d9920c5e1
 dev.jdtech.mpv	libmpv	0.1.0		N/A
 dev.jdtech.mpv	libmpv	0.1.1		N/A
 dev.jdtech.mpv	libmpv	0.1.2		N/A
@@ -868,6 +878,7 @@ dev.zio	zio-aws-support_2.13	7.31.27.1		aed9635c17ff889518d647bbf6684c45b0c1727a
 dev.zio	zio-aws-support_2.13	7.31.28.1		aaa7e6885589d688898f03de3a9bcc13846bafe9
 dev.zio	zio-aws-support_2.13	7.31.3.1		ac1af073ec72fb8b2b64eb6d8a6948f538efcbf4
 dev.zio	zio-aws-support_2.13	7.31.30.1		96d39dd123d329216afa4ecbbe28ee1012651a42
+dev.zio	zio-aws-support_2.13	7.31.30.2		30fbb79a7749ce2dfb9dd32bc01371d6404e4bca
 dev.zio	zio-aws-support_2.13	7.31.4.1		035eb043b4518c03946cdf6dd646288742482f6f
 dev.zio	zio-aws-support_2.13	7.31.6.1		0c6b340a8fb7eea067f8267eb3d06927333b9b6d
 dev.zio	zio-aws-support_2.13	7.31.6.2		b3b820e8f36386987283f53128eba8c3cdb30e86
@@ -1299,6 +1310,8 @@ net.folivo	trixnity-serverserverapi-client-macosx64	4.15.0		N/A
 net.folivo	trixnity-serverserverapi-client-macosx64	4.15.0	metadata	73f3e2ac68dc4ad3d786d2635117695fea8c4229
 net.folivo	trixnity-serverserverapi-client-macosx64	4.15.1		N/A
 net.folivo	trixnity-serverserverapi-client-macosx64	4.15.1	metadata	8cec6e3dfbd06b5a6b89e2757c18c6afccc1bded
+net.folivo	trixnity-serverserverapi-client-macosx64	4.15.2	metadata	cbbdcb6b033790bc6d81718ae35a15849efb8a21
+net.folivo	trixnity-serverserverapi-client-macosx64	4.15.3	metadata	fd682c78fe60759f310570a8e9fe21da7559234d
 net.folivo	trixnity-serverserverapi-client-macosx64	4.2.0		N/A
 net.folivo	trixnity-serverserverapi-client-macosx64	4.2.0	metadata	7841a6e57b8d3024bb2363684470b201bdfbf8b5
 net.folivo	trixnity-serverserverapi-client-macosx64	4.2.1		N/A
@@ -1533,6 +1546,7 @@ org.apache.camel	camel-js-dsl	4.8.3		4fae1e482f9c71f9c294b1406187080da162aa8f
 org.apache.camel	camel-js-dsl	4.8.4		1dc88a81afbc6e69befb390a16cd1d5be08147af
 org.apache.camel	camel-js-dsl	4.8.5		cf5d4af56b43fe8e938987a1168f33aecd866fae
 org.apache.camel	camel-js-dsl	4.8.6		d0a90d9ea81187478946ef97967c9dc59f06f85e
+org.apache.camel	camel-js-dsl	4.8.7		92c1a684d30417b1593f14a0e7f2c6a264ce0519
 org.apache.camel	camel-kura	2.15.0		042ea859362c01fcb80547050c11207eb66f9878
 org.apache.camel	camel-kura	2.15.1		cb621270fe26a3e827d502eeccadd9542e06fff7
 org.apache.camel	camel-kura	2.15.2		8fc382db8ec034a7a403db636bb701a722bace69

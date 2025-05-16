@@ -206,6 +206,8 @@ com.google.api	api-common	2.47.0		9fd4583bad4898fea8603a83febee4e525df82f9
 com.google.api	api-common	2.47.1		44a126e5e9f6b7ee088f6c216d7631f74b2f8d35
 com.google.api	api-common	2.47.2		7248fc6ad6f21235b190e953363c7627254fb5f3
 com.google.api	api-common	2.47.3		89433f3e6b732d67e1d0534e5149abaef73d25d8
+com.google.api	api-common	2.48.0		96e3041a8da77fc745e730fb7bdf80d8370c3a04
+com.google.api	api-common	2.49.0		889d6e1e405519d54fd029a3169db982992a00d1
 com.google.api	api-common	2.5.0		7382447882082612ca7099ff353ae6cc25158ec0
 com.google.api	api-common	2.6.0		5e89d21ff03f9c2ea896c1551c582b8955e54bdf
 com.google.api	api-common	2.6.1		bd1a861ef1e57335ebddc633e7880ad4406d93e8
@@ -749,6 +751,7 @@ io.camunda	zeebe-transport	8.4.15		8367fefd441ab333180c7c501a90a98bceb2d1bf
 io.camunda	zeebe-transport	8.4.16		e6a742d847b77e21441160eef42a2b29664c379d
 io.camunda	zeebe-transport	8.4.17		bfbeb685749c85abdc9fb6d577b94013cf6dc386
 io.camunda	zeebe-transport	8.4.18		cba9c5de5a2d640441efb8b97da8cd5ba88f69b7
+io.camunda	zeebe-transport	8.4.19		dac7b5488483035e0e0a5a4cf01a5c9c456d7c2c
 io.camunda	zeebe-transport	8.4.2		2d7e18d1b64619c596c9695ea91cb99ed502a716
 io.camunda	zeebe-transport	8.4.3		a52c9bb4881d105ad47ff76d177ba4d315353102
 io.camunda	zeebe-transport	8.4.4		80484ecf4e0890037d7d1798aee1cb4ad947a342
@@ -771,6 +774,7 @@ io.camunda	zeebe-transport	8.5.14		5d392d5b710116e80c3e4667df16c84783408414
 io.camunda	zeebe-transport	8.5.15		705a56c819b6e9be97561cef7ca4452cdb679e7f
 io.camunda	zeebe-transport	8.5.16		977f188543a0a23cbfe0841d4d40376fd449c14a
 io.camunda	zeebe-transport	8.5.17		ae3c998087fd98c47c91b95987cb30faa2c32076
+io.camunda	zeebe-transport	8.5.18		374b36c5dc63682fc025f904e311df1e2d339c9a
 io.camunda	zeebe-transport	8.5.2		790e9d6ac526e14f5136c2156af620fc7d12ec2a
 io.camunda	zeebe-transport	8.5.3		eddafa00967e41ae8ad0896a002b1350a5cf03c2
 io.camunda	zeebe-transport	8.5.4		be9cf4077013a979261702040333c79d6feb6fd0
@@ -808,6 +812,8 @@ io.camunda	zeebe-transport	8.6.12-rc1		d50fa14fd528f63885ead94123237dbdc0966d70
 io.camunda	zeebe-transport	8.6.13		2ffae67d84c2cb0e0a5bd86e2e4584081e08503f
 io.camunda	zeebe-transport	8.6.14		170c2bcc4da70e35598ae4160c0ed00a546af650
 io.camunda	zeebe-transport	8.6.14-rc1		315144a4a4ed1dcca2108500e650a25bff0c1e13
+io.camunda	zeebe-transport	8.6.15		304a1225d0e041b580294af66769568ec2fe3ce6
+io.camunda	zeebe-transport	8.6.15-rc1		fa14ae81d0bee0092e08701843e25256101f169b
 io.camunda	zeebe-transport	8.6.2		61fb72eea13e54be6f44bf75a0e9a8178b9726e2
 io.camunda	zeebe-transport	8.6.3		54cc392def0f1b1457408a04c26b32d063ae0c97
 io.camunda	zeebe-transport	8.6.4		114dcdf35c13c1306fc5aa2c3e0480c27dc3b254
@@ -843,12 +849,15 @@ io.camunda	zeebe-transport	8.7.0-alpha5-rc1		bd711f91142806544956c7c0ca895b5671d
 io.camunda	zeebe-transport	8.7.0-rc3		d6017e06d79be0a369067d38b549e808ab0f0bec
 io.camunda	zeebe-transport	8.7.1		f27170e6027c26273c970eba2e366bfdae6e7a9e
 io.camunda	zeebe-transport	8.7.1-rc1		eff4e770538f57c1f60573e0ddda4cfce920b596
+io.camunda	zeebe-transport	8.7.2		f10cf4c6fca08d2287c2d283a79b02d5afc9dd88
+io.camunda	zeebe-transport	8.7.2-rc1		9b4bc6bd5bd7bed4236806a5dde950d076c3e37f
 io.camunda	zeebe-transport	8.8.0-alpha1		2282e514cdd537f46f85c8a8e43ad976aa6b6dac
 io.camunda	zeebe-transport	8.8.0-alpha1-rc1		3756c8b7a60d499fb79ee00932ffa21294c0791c
 io.camunda	zeebe-transport	8.8.0-alpha2		7ced93ee0de706994fef337c524ab5803c9216cb
 io.camunda	zeebe-transport	8.8.0-alpha2-rc1		07d19694f57a4b056544f499a62e14f1bf2f16e1
 io.camunda	zeebe-transport	8.8.0-alpha3		100d1b65096ba20046a2d934a78575853798afed
 io.camunda	zeebe-transport	8.8.0-alpha3-rc3		161675b967a4c38dc953fc19a34de1f6632005be
+io.camunda	zeebe-transport	8.8.0-alpha4		570794cbbf8ca9ff76d23e82e6c466d4f9534da7
 io.camunda	zeebe-transport	8.8.0-alpha4-rc1		7ccd9e813f9cb6d15aeff457e645f279f44f3859
 io.github.JackLee992	faceee-sdk	1.10.0		N/A
 io.github.adorable-skullmaster	pw4j	1.2.0		8e27ad2706c6b2c3075170243a6638807f02a75a
@@ -1119,6 +1128,8 @@ io.github.jan-tennert.supabase	storage-kt-watchossimulatorarm64	3.1.3		N/A
 io.github.jan-tennert.supabase	storage-kt-watchossimulatorarm64	3.1.3	metadata	d653d4c108318cf52de808ac477fc9663dfe2044
 io.github.jan-tennert.supabase	storage-kt-watchossimulatorarm64	3.1.4		N/A
 io.github.jan-tennert.supabase	storage-kt-watchossimulatorarm64	3.1.4	metadata	f6ace12ed38a04d640e92ef22ad379398962d20a
+io.github.jan-tennert.supabase	storage-kt-watchossimulatorarm64	3.2.0-beta-1	metadata	7e178a068f5e11c25f4429f93fa8997abbf12bad
+io.github.jan-tennert.supabase	storage-kt-watchossimulatorarm64	3.2.0-beta-2	metadata	31710308312e433674cd62975d45492015f6ad47
 io.github.pdvrieze.xmlutil	core-macosarm64	0.84.0		N/A
 io.github.pdvrieze.xmlutil	core-macosarm64	0.84.0-RC1		N/A
 io.github.pdvrieze.xmlutil	core-macosarm64	0.84.1		N/A
@@ -1155,6 +1166,7 @@ io.github.pdvrieze.xmlutil	core-macosarm64	0.91.0		N/A
 io.github.pdvrieze.xmlutil	core-macosarm64	0.91.0	metadata	ef2ca3c854fdb1940d9602cac48386c51cb807c8
 io.github.pdvrieze.xmlutil	core-macosarm64	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	core-macosarm64	0.91.0-RC1	metadata	8b340dcf8a5dbe047bd32e0c0f84ab14c033b9e9
+io.github.pdvrieze.xmlutil	core-macosarm64	0.91.1	metadata	c3b9ca5a50cf315ba480988674bddf5f7c91cfa1
 io.github.t83714	elastic4s-client-sniffed_3	8.11.6		7abf9119dcbeb22596c0093fa33fc9a6ea79e1bb
 io.github.t83714	elastic4s-client-sniffed_3	8.11.6-alpha.2		3f5af80141ef81bb1caf1b47f318fa311d33e75c
 io.github.t83714	elastic4s-client-sniffed_3	8.11.7		ce7ae5197cbe61c374bfb32c1e4824e353fe8504
@@ -1464,6 +1476,8 @@ org.hibernate.orm	hibernate-hikaricp	6.6.10.Final		409ad254281418ba2a467fc026311
 org.hibernate.orm	hibernate-hikaricp	6.6.11.Final		473b306ba87d096e41910e08de0f5f1d6b9352cb
 org.hibernate.orm	hibernate-hikaricp	6.6.12.Final		4af36df3f3d3cd49ec6a98c27927c9fb36c97167
 org.hibernate.orm	hibernate-hikaricp	6.6.13.Final		8380fb335941ce6fd89c8fca269637d196a29e17
+org.hibernate.orm	hibernate-hikaricp	6.6.14.Final		3be5d2415d3f0939ef30fc0a59d0eb7e8d9c6a2e
+org.hibernate.orm	hibernate-hikaricp	6.6.15.Final		2b54ec2bffec4915b2145addc008dc5ea1a4c304
 org.hibernate.orm	hibernate-hikaricp	6.6.2.Final		2aedaf57226d07d4ec2a738345e90a1c3b78d7ae
 org.hibernate.orm	hibernate-hikaricp	6.6.3.Final		f5ffb616408bbae81f07018942d617b5a666cc19
 org.hibernate.orm	hibernate-hikaricp	6.6.4.Final		e61035226a44c8ef705bcbf21fde51c7ba6eb97a
@@ -1481,6 +1495,7 @@ org.hibernate.orm	hibernate-hikaricp	7.0.0.Beta3		af7f61411d48fa7e6e3bbdb1105869
 org.hibernate.orm	hibernate-hikaricp	7.0.0.Beta4		3014c82d57d32d22fe5f79d3a37b930d00e6e6c2
 org.hibernate.orm	hibernate-hikaricp	7.0.0.Beta5		555c3e7135c3d10b6567c6ecdaee15dd1ee7e232
 org.hibernate.orm	hibernate-hikaricp	7.0.0.CR1		5d2bb0874be4ec0c4b6b9173cacff0abea0bb0df
+org.hibernate.orm	hibernate-hikaricp	7.0.0.CR2		8394e1d021064bd1fe8124d53e659307f1c26dca
 org.improving	scala-improving_2.10.0-SNAPSHOT	0.9.7		331db4338ca88e4468237f3f2d5fc8bda1f8203a
 org.interledger.connector	connector-parent	0.1.0		N/A
 org.interledger.connector	connector-parent	0.2.0		N/A

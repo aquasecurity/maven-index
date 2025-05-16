@@ -68,6 +68,7 @@ com.daiyc.extension	extension-core	2.0.0		6df172095826cceda383db0e9e66c2c49873e0
 com.daiyc.extension	extension-core	2.1.0		99d50b58fe16a55effd6ed138a73af85e359ef6e
 com.daiyc.extension	extension-core	2.1.1		a40ac0fcebb24af8193a02bce85272e9089de870
 com.daiyc.extension	extension-core	2.1.2		6ef2f5d7e388b3f51fc9acda4045a23a4603c3a4
+com.daiyc.extension	extension-core	2.1.3		cac191947d2bae2044519e9d9b54b39b3ab14f5e
 com.disneystreaming.smithy	aws-controlcatalog-spec	2025.03.31		3ad9574f2f9d968826305712410872688466935a
 com.disneystreaming.smithy	aws-controlcatalog-spec	2025.04.08		ec528033695993310a7238aad2426a2ecece5c61
 com.dorkbox	Crypto	1.0		4510b1ffbcd87011278f21da057a8292648ab03d
@@ -602,11 +603,19 @@ io.spinnaker.echo	echo-api-tck	2.47.1		d2249508baf862c0e46ed308c4895925797fbb56
 io.spinnaker.echo	echo-api-tck	2.47.2		91d8ca40624a4ca13e5262397b7c51e01ff97d56
 io.spinnaker.echo	echo-api-tck	2025.0-0		037d94c939703bae2cfe2916f8ff1b735f73e8dd
 io.spinnaker.echo	echo-api-tck	2025.0-1		34d4d45643edc07ed732c5d0beca55a9b8885d8f
+io.spinnaker.echo	echo-api-tck	2025.0-2		a443648279c1cc2aa9df0772add582c6a1f3bd21
+io.spinnaker.echo	echo-api-tck	2025.0-3		ef400a64af4af6438e7bc11d2b9cfdc5d73badc7
+io.spinnaker.echo	echo-api-tck	2025.0-4		ced045f367b5644d7df911f7a8b6d3c25925b644
 io.spinnaker.echo	echo-api-tck	2025.0.0		142b88d5e9a602b3e9afc6d52378a1b960d10373
+io.spinnaker.echo	echo-api-tck	2025.0.1		46c0e552630b231ee7e34f5c8d04cb6b8222f518
+io.spinnaker.echo	echo-api-tck	main-10		240e9868a4e71fef8c2e164731955ee0924950f8
+io.spinnaker.echo	echo-api-tck	main-11		9b3957d03330fd10e57e904de49bcbea3f9fdbfe
+io.spinnaker.echo	echo-api-tck	main-12		0948c18fa03ac50fe6b588075792b3b88c896bcf
 io.spinnaker.echo	echo-api-tck	main-5		07bfe59ddcf25f3a4d439948c3e01fb3c3d4c8f2
 io.spinnaker.echo	echo-api-tck	main-6		e52777371d6914660628ab6d718b58b7197c7c0b
 io.spinnaker.echo	echo-api-tck	main-7		e4a3bc866eb1d0a9037925c26e76dc15388e6dbd
 io.spinnaker.echo	echo-api-tck	main-8		715465f3b12de51199d7161832f0e187311c34a3
+io.spinnaker.echo	echo-api-tck	main-9		5b318a8ce3073a6538a5d446f8a686954cb39670
 io.takari.nexus	nexus-plugin-bundle-maven-plugin	1.10		98fc7868183d307cd3906edd315dac1691d927a6
 io.takari.nexus	nexus-plugin-bundle-maven-plugin	1.3		178c3268017271290df134616ea37e7d9e5aaa85
 io.takari.nexus	nexus-plugin-bundle-maven-plugin	1.4		ed5ac4debc716fa3d930b41a4fce057c7b6f405d
@@ -978,6 +987,7 @@ org.apache.camel	camel-file-watch	4.8.3		989c0002e516136c55d25a7094c084bc257723d
 org.apache.camel	camel-file-watch	4.8.4		8fb860ce4fa48fbd6316659ca64381e70b28178d
 org.apache.camel	camel-file-watch	4.8.5		fb90376d2383bfeafab15b649eb58b81bd103223
 org.apache.camel	camel-file-watch	4.8.6		13324c5fc0e094194f1d1e6c00022bb48858a8f3
+org.apache.camel	camel-file-watch	4.8.7		46f2637839a74ea69bfc4eb7007c35dd33759c20
 org.apache.camel	camel-file-watch	4.9.0		f788dc177acb35aa891b34b6d5f8bc620a54c385
 org.apache.camel.karaf	camel-pgevent	4.10.3		e04ff25f3064c972c8096425880ab6a680cd99b6
 org.apache.camel.karaf	camel-pgevent	4.7.0		5677c74b3d8a4f7fcf841acf9cf1e680c81a13e0
@@ -1043,6 +1053,7 @@ org.apache.camel.quarkus	camel-quarkus-pgevent	3.2.1		3561c145949115ec6cb2063982
 org.apache.camel.quarkus	camel-quarkus-pgevent	3.2.2		8fd0fc921d15b3249f321e84a5d2535ac3c457af
 org.apache.camel.quarkus	camel-quarkus-pgevent	3.2.3		9a0836bef973c5f908065c5855f1c5bcc51c8015
 org.apache.camel.quarkus	camel-quarkus-pgevent	3.20.0		999ecdd21a308087acfdaba0f82e0cb53456341c
+org.apache.camel.quarkus	camel-quarkus-pgevent	3.20.1		7f3b6f5b7725089427d7e9e414af233208e5ceb5
 org.apache.camel.quarkus	camel-quarkus-pgevent	3.22.0		0d8c6fb8354621e2abfab6b5603b28e785d114f8
 org.apache.camel.quarkus	camel-quarkus-pgevent	3.4.0		0c486ec4324d6f00decc5906f3cab38f7abca9b4
 org.apache.camel.quarkus	camel-quarkus-pgevent	3.5.0		5a1bb517d1a5c23a7ae293d5b83e6f0f2fd31e95

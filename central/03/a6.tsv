@@ -660,6 +660,7 @@ io.quarkiverse.kerberos	quarkus-kerberos-test-util	1.0.0		3d84738277ab41a7e21346
 io.quarkiverse.kerberos	quarkus-kerberos-test-util	2.0.0		85457ff71e3b224087ee2b1d23b2cd1a4d66a756
 io.quarkiverse.kerberos	quarkus-kerberos-test-util	2.1.0		5d3e86b5ab3c870124a0d7d7568c04f0680a28a3
 io.quarkiverse.kerberos	quarkus-kerberos-test-util	2.2.0		58c2a56a1f94ffee9ebe01d9bafb7cf6bb6d7242
+io.quarkus	quarkus-websockets-next-dev	3.23.0.CR1		d9ac6dc6c4132d788a4ea42bfa937c660ea66bfa
 ky.korins	atomic	1.0		e0211fa3c48643b3db126266ae2f199fcfef7d9b
 ky.korins	atomic	1.1		7d3e17354622be0fda735671a5628e94257c2728
 net.onedaybeard.graftt	graftt-maven-plugin	0.1.3		b97f94bd8574204f2e1072f6087d7c48a85c08d7
@@ -1024,6 +1025,7 @@ org.anyline	anyline-aliyun-sms	8.7.2-20250312		5c99f33e0db40b9f0dad694646853efaf
 org.anyline	anyline-aliyun-sms	8.7.2-20250401		b2ec942d952889d42a12229a6118adacfeaba596
 org.anyline	anyline-aliyun-sms	8.7.2-20250404		e247621c47fd7de38cea1d1cf429b09dfc06e27c
 org.anyline	anyline-aliyun-sms	8.7.2-20250502		330aa61129faa842b428cb971c0b82a0991b7908
+org.anyline	anyline-aliyun-sms	8.7.2-20250509		d9fb29594f66d896db235c116f213833adbf97c5
 org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20240816		0bc46eb336c0ac76d4ea50d508a55cc3a99e72f3
 org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20240820		f8ce996943013dd26d7ded1ca000d94b9c474f2b
 org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20240826		1b36a8bc8b86ca9108f0259bd2912909cf18ebb8
@@ -1041,6 +1043,9 @@ org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20250108		554b9f7e460097b94002b131e18
 org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20250212		989abc941912f90722d576be5a0df7798dd2fe75
 org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20250312		cdbcc48370a97dd1302f39fdb79001dff4df8066
 org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20250404		8365426fc52524342f7ceee7cf035190c3fda28e
+org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20250502		b3e3ee7db12db98a544a7c3b29a2e8ad02c1ada6
+org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20250509		26395596108e0a9981c5451c44f16f6a7b032b91
+org.anyline	anyline-aliyun-sms	8.7.2-jdk11-20250515		3615059c6be5c80490c1d154d59d5a8d0be138f6
 org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20240501		7d1190957f0952da22fc7c42d35a0e97a1862647
 org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20240505		34248105914c9f9cb0d67d87403cd7c809422484
 org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20240506		38b66b526501e06807c34b51ea2c1d2e9eed8b51
@@ -1111,6 +1116,9 @@ org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20250109		7941894010b4964f00111d09172
 org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20250212		0b28bb73925af628410140624b359141b0d04b90
 org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20250312		c94ecbd4068ba82b6b20bcc2fb448f269467e018
 org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20250404		94e2b08de5b220ef35e865efcdb3b7ee647cff2c
+org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20250502		0cfa3549d1bbcff256c46c9216f969d32c44e824
+org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20250509		8a670cc966c26be157d3a34bb1d7a2b8fbbb59e7
+org.anyline	anyline-aliyun-sms	8.7.2-jdk17-20250515		663cfe5d26b21e857f5357978575f8e27071f934
 org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20240501		fe2bc50c69a906de9915a1fac48adbd59f7dbc13
 org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20240505		34caa5d8d4564138868e171c7d49ce4b940c64f3
 org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20240506		ece58bd0cd76a7a7a3a70d4c07bfc3ae8e7236c8
@@ -1185,6 +1193,9 @@ org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20250212		0d023e8d43829fb7dc1b20739ed
 org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20250225		37c175753c7c65aefe906625caa328c74cb02214
 org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20250312		b8f77e0d37d6e96966f2ce4cf99e4d14246530ed
 org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20250404		0e588fc178e93a556a79312f775888bfcff4eaa5
+org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20250502		4513fcf89a129c51852c9f948857dd433c395093
+org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20250509		d9b0560eb98f7dc96ee8c72957e9d8712b2ff4b6
+org.anyline	anyline-aliyun-sms	8.7.2-jdk21-20250515		8ff5a2a93b5e1c8755f6354208a76a0be04a72cf
 org.apache.asterix	apache-asterixdb	0.8.8-incubating		N/A
 org.apache.asterix	apache-asterixdb	0.9.0		N/A
 org.apache.asterix	apache-asterixdb	0.9.1		N/A
@@ -1434,6 +1445,7 @@ org.jesperancinha.plugins	omni-coveragereporter-commons	0.4.1		3f6178d64e7f42b2e
 org.jesperancinha.plugins	omni-coveragereporter-commons	0.4.2		5bd6e2aa0284ab38ef7321c53ae676a42659064b
 org.jesperancinha.plugins	omni-coveragereporter-commons	0.4.3		73801ae68869a1a7e47435eb1bd4b14d3c5dd261
 org.jesperancinha.plugins	omni-coveragereporter-commons	0.4.4		2c66cba7e74ede028f184da5bcb9904642953902
+org.jesperancinha.plugins	omni-coveragereporter-commons	0.4.5		99449880ca4e125f7aef97ac1730eced9966ad17
 org.julienrf	endpoints-xhr-client-circe_sjs0.6_2.11	0.1		9881e9b76149d7a88d14ca83bb168c81105ff174
 org.julienrf	endpoints-xhr-client-circe_sjs0.6_2.11	0.10.0		40498cb7743d5edd9a082cc4ab20cb7c8ad14dc1
 org.julienrf	endpoints-xhr-client-circe_sjs0.6_2.11	0.10.1		04b0a5af28bc7a8a710e5a444b7bc5b8c5afd213

@@ -263,6 +263,24 @@ aws.sdk.kotlin	alexaforbusiness	1.2.6		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	alexaforbusiness	1.2.7		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	alexaforbusiness	1.2.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	alexaforbusiness	1.2.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.10.0		ae8adb66d4d8e00eadd9e003f5c41650cb183deb
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.11.0		188b026d5a90a52a65a714de694619922d484e38
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.12.0		007cbd84029dd567243167a34da733673deef344
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.13.0		5f510c1c07bddec80be6a2fd209258db7681964e
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.13.0-RC1		fc5e1df368733217ee622eb41c9fe892700b6c44
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.13.1		fc626f5f0f0e8dab8f8353c058bfa129ccd3f21a
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.14.0		60a12ba407bf973fc8a3ed8a829bed12df68ae35
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.15.0		2cfd841be8787281888475b619a7034b0f7041a5
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.15.0-0.6		e6181ab3adb67616076e13cac4ddca3ce69bf648
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.16.0		5f76101cf133dd38b40e58ebb26dd6e4ab13cb1c
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.17.0		bf4a6006d4702348828ba4fafb5f552c09b37802
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.18.0		28fc1833036ca98007f5c448a4c1fdf2087a1d61
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.19.0		f594394d200ca03ceef55625312f30ebebcdbeb1
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.20.0		595b78796ae9e7a2acd09df611ac932243e5ad2f
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.21.0		ac3204028ff456e41b49d0f4afc73ba393c4da9e
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.21.0-RC1		1bec6ad32e2a7bdb54badcc290a1344d695b46a2
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.21.1		f3a7655b15f7b8396b071e4512c5ce7003beda3e
+ch.epfl.scala	sbt-scalajs-bundler_2.12_1.0	0.9.0		8257c8f21b0125ff24912d31963774bb4c098bc3
 city.smartb.ssm	ssm-sdk-sign-rsa-key	0.10.0		3b4abbdd6b72276e79b568109fb7df471aa9be67
 city.smartb.ssm	ssm-sdk-sign-rsa-key	0.11.0		fa3362a5ce2eece656beaded068dd05b812f6f84
 city.smartb.ssm	ssm-sdk-sign-rsa-key	0.12.0		3d00e5bf12f19a7f0f957c661ee5fa6a70593272
@@ -470,6 +488,7 @@ com.daml	test-common-modelext-tests-java-1.dev	2.10.0-snapshot.20250108.13162.0.
 com.daml	test-common-modelext-tests-java-1.dev	2.10.0-snapshot.20250114.13163.0.ve965e38d		56f6fcc8ec0b5738a34317e431dab4d382c0f149
 com.daml	test-common-modelext-tests-java-1.dev	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		cee9c832b08f7fbd0f982bc52ab627d7ec004879
 com.daml	test-common-modelext-tests-java-1.dev	2.10.0-snapshot.20250211.13169.0.vd812609c		f04e82efde489f1cb212137941abf747def38e25
+com.daml	test-common-modelext-tests-java-1.dev	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		3e306e5d8df24d23668b4589fd68fe09269d6561
 com.daml	test-common-modelext-tests-java-1.dev	2.9.0		678d4c9ef482f19ab6d7a08600f2f5da6cdcb60d
 com.daml	test-common-modelext-tests-java-1.dev	2.9.0-adhoc.20240328.12709.0.v3c29b5ea		0afe4c6634c51a95d0e6bc41a04ceff9631b4cff
 com.daml	test-common-modelext-tests-java-1.dev	2.9.0-adhoc.20240515.12789.0.v8e4e0378		119453d18ae3e624cddf588f7bf30a6942660b03
@@ -883,6 +902,8 @@ com.google.api.grpc	grpc-google-cloud-trace-v1	2.59.0		899fe9fa5fe02d01084b59a33
 com.google.api.grpc	grpc-google-cloud-trace-v1	2.6.0		872182557b511b6618f2c969d882ff15a3a0062b
 com.google.api.grpc	grpc-google-cloud-trace-v1	2.60.0		6449f73c5c9055cfc7362dd3ca20238c7678b5e0
 com.google.api.grpc	grpc-google-cloud-trace-v1	2.61.0		014fbbc5c7399bd353b1951d674d583d029d21c5
+com.google.api.grpc	grpc-google-cloud-trace-v1	2.62.0		56941d159650c0b551bb1a7b12b67ce13709abeb
+com.google.api.grpc	grpc-google-cloud-trace-v1	2.63.0		d824acdf39ec64193910f14b69c827f354451065
 com.google.api.grpc	grpc-google-cloud-trace-v1	2.7.0		f48275700951d5f3f0f9d2b21cf3633d34079485
 com.google.api.grpc	grpc-google-cloud-trace-v1	2.8.0		75b590121922c912cb70377cdd7ec8d152ba57a5
 com.google.api.grpc	grpc-google-cloud-trace-v1	2.9.0		3d271d14d60f9fe98a04f44978e9838de7023bfc
@@ -1480,6 +1501,7 @@ io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.15.2		557f569af43aaf
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.15.3		ca1e772f4e7268f6e5cbad0717d9779de7918413
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.15.3.1		409b56a82853df2121f2ac67387ebde3b846d0d5
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.15.4		cf43f21022c679b47666efd3f2cad63382f957d5
+io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.15.5		a60a0259b04e28762658156f71888dad289384fc
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.2.0.CR1		731e69bb87466edb413714c7b72f3e19e3f5acc2
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.2.0.Final		aa0cc72cad6ae6672449be2bf00cf308dd77b5e8
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization	3.2.1.Final		338e42129f2ad0bf2a4a6e292158eac5878d07a1
@@ -1674,6 +1696,7 @@ io.quarkus	quarkus-smallrye-stork	3.15.2		3c5b9dc8294d45dd2e6fbc80381c687ab14da0
 io.quarkus	quarkus-smallrye-stork	3.15.3		7abc8e743fa37415426c8f6989aaf4bb43a1c1f8
 io.quarkus	quarkus-smallrye-stork	3.15.3.1		2d7dabd904112655ad5dd1edb3998ab5dd80b3b1
 io.quarkus	quarkus-smallrye-stork	3.15.4		cb10a89d2896ae0e982d7d709b18a179ea420620
+io.quarkus	quarkus-smallrye-stork	3.15.5		08d331cb73dec094b9286c023de34afd96a0266e
 io.quarkus	quarkus-smallrye-stork	3.16.0		e55210cd18a9c4cd0061af252dd3740f51e9b80e
 io.quarkus	quarkus-smallrye-stork	3.16.0.CR1		00528dc6895293270f79da5d10358cacdd2affe8
 io.quarkus	quarkus-smallrye-stork	3.16.1		f70dba430a5de347cb0a676a33ffd4e9d8f9d669
@@ -1718,6 +1741,7 @@ io.quarkus	quarkus-smallrye-stork	3.2.8.Final		cf7ec22753d29cb4b0801e5108cf69b4a
 io.quarkus	quarkus-smallrye-stork	3.2.9.Final		6e2fa5b49a22b5f580816942dc417146c6c6deb6
 io.quarkus	quarkus-smallrye-stork	3.20.0		880ea0d096cfcf9236834f59172731855dc1f9f2
 io.quarkus	quarkus-smallrye-stork	3.20.0.CR1		4fdb66f823fb9a1118f69ac9e8f994b7efad87e1
+io.quarkus	quarkus-smallrye-stork	3.20.1		837f3dfca0ceb3b54d45e081a660283a5d9f7a42
 io.quarkus	quarkus-smallrye-stork	3.21.0		eabbe0f86fe7b6276e3955a00df9b574adb7396b
 io.quarkus	quarkus-smallrye-stork	3.21.0.CR1		b8abca3bffe97006aea94d27f1c92e11dcc99ff9
 io.quarkus	quarkus-smallrye-stork	3.21.1		b85312aed3be655a76dd84dfe1933db0240e9a60
@@ -1727,6 +1751,9 @@ io.quarkus	quarkus-smallrye-stork	3.21.4		cd23ebb70544b9fcb9d43f061905a953db2f5d
 io.quarkus	quarkus-smallrye-stork	3.22.0		a92818cec339d48120d9d0d42732ff6d0138501c
 io.quarkus	quarkus-smallrye-stork	3.22.0.CR1		5d10feb3ab7ffd3c7d8d41d67bf7f54f686bf9c7
 io.quarkus	quarkus-smallrye-stork	3.22.1		f65f7328aca55358d73e3a79cd3fca3c2eb7bb91
+io.quarkus	quarkus-smallrye-stork	3.22.2		1332209ae59e77dde5ad02e3f5716dc9bca73d2f
+io.quarkus	quarkus-smallrye-stork	3.22.3		2ffd55caef87b15ea17d0f349bb22af7e13fe124
+io.quarkus	quarkus-smallrye-stork	3.23.0.CR1		aa38bbeaaa9fcc4a371bfef834e789e58ac3d092
 io.quarkus	quarkus-smallrye-stork	3.3.0		64f30780aac9d27fce0d5332616dd0f12f3d07da
 io.quarkus	quarkus-smallrye-stork	3.3.0.CR1		4846b5dc93290faec4d777b07bb7d9aa94772011
 io.quarkus	quarkus-smallrye-stork	3.3.1		a7257bfd9b11123dfd0fba3bbfd7f8d4c2882207
@@ -1830,6 +1857,7 @@ io.telicent.jena	rdf-abac-fuseki	0.73.1		dc1d71d0d6567a24c88ac2ebd590a85cebbed90
 io.telicent.jena	rdf-abac-fuseki	0.73.2		c139381b19c37c12fd5bb65d0fbed7a541a25168
 io.telicent.jena	rdf-abac-fuseki	0.73.3		e912a888b68d8a12c8bd84c8e062e7c50664873b
 io.telicent.jena	rdf-abac-fuseki	0.73.4		5e014a573e5994365b778de631122a021917297e
+io.telicent.jena	rdf-abac-fuseki	1.0.0		b49237863a1b2b0c105cfc70f2caacf429db10f4
 io.thorntail	camel-smpp	2.0.0.Final		e5ffa37df54e51706b3c2c9a1b77da1c0f6de2f6
 io.thorntail	camel-smpp	2.1.0.Final		ee02f096ae49f930b50dfc91f2bad5c37eb3506d
 io.thorntail	camel-smpp	2.2.0.Final		e42b0bd1ba9f467cffc938f3b935ad529f0fc6c7

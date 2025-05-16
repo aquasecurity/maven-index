@@ -642,6 +642,7 @@ dev.zio	zio-aws-appflow_2.12	7.31.27.1		304c55763a3036b5b1b763e5e1da8d0bb131969a
 dev.zio	zio-aws-appflow_2.12	7.31.28.1		bd5529a1541660b06e41a7b8ea7dc6386ceaa54e
 dev.zio	zio-aws-appflow_2.12	7.31.3.1		978f55b06fc5fada91a72fbcb98f0f4b8d89316b
 dev.zio	zio-aws-appflow_2.12	7.31.30.1		c583ea010cd9cfd8ec91c75c6a492f3f526d380a
+dev.zio	zio-aws-appflow_2.12	7.31.30.2		943c0f52de70b32e443b3bb81729d5c9037b57e0
 dev.zio	zio-aws-appflow_2.12	7.31.4.1		432a9845ec744d54d1cf377a2990242d435258dc
 dev.zio	zio-aws-appflow_2.12	7.31.6.1		e0d1799220e5e747fd728ef37120f886672eeeef
 dev.zio	zio-aws-appflow_2.12	7.31.6.2		08e6e255ea078ccad52db1bc1083de73f4a513b6
@@ -942,6 +943,11 @@ it.unibo.collektive	collektive-stdlib-watchosx64	24.0.2		N/A
 it.unibo.collektive	collektive-stdlib-watchosx64	24.0.2	metadata	650944bbce72d5307ee37137a081ed64ae571975
 it.unibo.collektive	collektive-stdlib-watchosx64	24.0.3		N/A
 it.unibo.collektive	collektive-stdlib-watchosx64	24.0.3	metadata	140c10bc3c866c50ce8d01aa89277c966ee286ba
+it.unibo.collektive	collektive-stdlib-watchosx64	24.0.4	metadata	f6f0b3095503fa85152128f4c9b3e208b4be31e1
+it.unibo.collektive	collektive-stdlib-watchosx64	24.0.5	metadata	0d16ae8c224670000130e284fc6125be76877c46
+it.unibo.collektive	collektive-stdlib-watchosx64	24.0.6	metadata	a94d27a945d07f3775ee13cd7385e73553eb12d8
+it.unibo.collektive	collektive-stdlib-watchosx64	24.0.7	metadata	e09a69db914a7f7fbcb759ef49d1b59b827f272b
+it.unibo.collektive	collektive-stdlib-watchosx64	24.0.8	metadata	69752d00ccc712961eb0abee24d455c4c1dab1eb
 john-test	batik-ext	1.5		b16aa3e1d48da195c6810fce7cf988f41d4cfbc1
 john-test	batik-ext	1.6		7f6ad5c298de4f24b9a104b721e86798f5e2216c
 li.rudin.core	core-security-impl	1.8		47f5180004ae73230a6d4ef727d248c2b715456d
@@ -1041,6 +1047,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-mess
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.7.12_1		6fd1864a368cabd16d0e201b2f7b34f7fb0beb0b
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.7.12_2		798f86fec26586c6fbfae869a14cedf0fe8b85e5
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.7.12_3		9380c4ea9a63e396c12f9ffa7d791cc29322887e
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.7.12_4		7939eafaf99ccae24831f6ad49e36e4e8e97c8ba
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.7.1_1		bc064ae3cce87d84ae55fc00b301d2bb2f243ccd
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.7.2_1		8fa679be3c79bdfc27440206c9b7f1c22e6e8ef5
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.7.3_1		40ec3d822be424ca87dc85f90e825003ad538283
@@ -1048,6 +1055,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-mess
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.8.0_1		89547c102294bffc2697332f2770e98ff22a7b11
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.8.14_1		dff85f4b52c3970522be5b8d0c966bda4625545e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.8.15_1		4470c1fb0e3cd4fa37fd05ed5edeab53c1a37e14
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.8.15_2		a0d8e0dfa698988769df74e0bc6f7a20670e332c
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.8.1_1		987b86ca4edc652cccffe232b8520b14cc24cf0d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.8.4_1		5150ebe4b3e26b06e6f99a64be3f346420b662b2
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	5.8.6_1		f375b26166c6f495ef4ba51cbb29a2f83a35b49d
@@ -1065,13 +1073,17 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-mess
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.1.5_2		11543dcb270787dc8826bf275711748b00ced91c
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.1.9_1		b79722fd8b8bcdb2c1fb42c875e36a3fa14f8f46
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.1.9_2		fd36001f022feced12b31fb74a447ce8a70926c8
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.1.9_3		b662a7bcff6e20b2439386135192b009a7ba1cf3
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.2.0_1		38f47ca811a22341a6844ceaadc50f5a780c3d4f
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.2.1_1		d2bdf3c5226cf2392a21c22935bdf7e41af0965b
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.2.4_1		215388ca1725f6b005ca21469aaa2b7e95748440
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.2.6_1		1d5f3e8c0c9da23d87ac5572539e56392aec86d3
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.2.7_1		e299c3affe8e28371a9452b7f2c54ba04a5ee5ab
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.2.7_2		be1a2667700bb890dd08efa2ddbebb01e2573d5d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.3.3_1		fe63ea2d1be20dbdb282dd7fa863e1b89244753b
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.3.4_1		870bceac9c32853bd04b9e22279c7da764d6cc1a
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.3.9_1		c28409d4d05ed267587190551c03887233a27c52
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-messaging	6.4.5_1		e011b2b5cad2f38290ce61a1c57416165d7b9104
 org.apache.shenyu	shenyu-spring-boot-starter-sync-data-zookeeper	2.4.0		40ea76698395fdc97d150ebf9432e4582ea154a6
 org.apache.shenyu	shenyu-spring-boot-starter-sync-data-zookeeper	2.4.1		9b291f0597f2548821eca1aca1893869d561cbc3
 org.apache.shenyu	shenyu-spring-boot-starter-sync-data-zookeeper	2.4.2		d42aaf21c278d1043ade0246f5dccdecb675b675
@@ -1281,10 +1293,12 @@ org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.1.20-Beta2		43a48a38c51
 org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.1.20-RC		b76c5f9e2530f06a81bed569c6e3abb9140810df
 org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.1.20-RC2		6f5c7308858ad679a9ce9ee900cb74d2be36b7b1
 org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.1.20-RC3		416cb9b705104623fc2c12bc0f9c998ccaa85ee7
+org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.1.21		34760195c252f4fc4989174ef57e574038ab0213
 org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.1.21-RC		a3fd73c8856fe1e5a1a59e8b77dc07967dee6814
 org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.1.21-RC2		f93c3d11e94fc1f5df28e2c5c3f1dc507bac8aaf
 org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.2.0-Beta1		b7be5f5be54d7be1d66f065f1cc501a58f7e9525
 org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.2.0-Beta2		634bcadbfd9e2a7add3f3cf6b90022fd85c61bf1
+org.jetbrains.kotlin	kotlin-klib-commonizer-embeddable	2.2.0-RC		7d26a5c4867e5123a867944c47530cd35857f4b3
 org.kite9	kite9-java-core	1.7		fe81ba365331ff169db99b6b61986d29fa89c071
 org.kite9	kite9-java-core	1.8		b934cabcda90168df264306c49e1787f2657af2c
 org.kite9	kite9-java-core	1.9		7100680278a672f1fe17019c517774c9286d007f
@@ -1587,6 +1601,7 @@ org.seleniumhq.selenium	selenium-support	4.29.0		c1145dd6c8e1a5afd054affceab1249
 org.seleniumhq.selenium	selenium-support	4.3.0		aa13fc3ca9a54f376810fe165f2890ae40d75f36
 org.seleniumhq.selenium	selenium-support	4.30.0		b1dd6787543a16494a1bef16a7b55ffbcf91f70a
 org.seleniumhq.selenium	selenium-support	4.31.0		d511920e6dee67c35870e4e35ca939da9e96e010
+org.seleniumhq.selenium	selenium-support	4.32.0		85981cd02fdf93f65abd70e452b9819807fe5e36
 org.seleniumhq.selenium	selenium-support	4.4.0		314fd1a6112ea3b232841d2ae6a3d6b2239425dc
 org.seleniumhq.selenium	selenium-support	4.5.0		cbd8f99f771bfb7f7d06731c36e78d7a7155b64a
 org.seleniumhq.selenium	selenium-support	4.5.1		ee6f4c48aa938757dd4f94fb6dbde9ab8c7cf420

@@ -44,6 +44,7 @@ com.extscreen.sdk	small-player	1.0.10		N/A
 com.extscreen.sdk	small-player	1.0.11		N/A
 com.foxinmy	weixin4j-qy-api	1.0		d64e63fcb39de8c39fbb66b11b8aeb62f6a59a7a
 com.foxinmy	weixin4j-qy-api	1.0	full	46e4b9442a4fd3ae29408bfd34a05806c253e7a6
+com.foxinmy	weixin4j-qy-api	1.0	full-1.0	2c2ea51f7c624948e1d2f1d931564b7997ae4853
 com.foxinmy	weixin4j-qy-api	1.1		dd5a50705cb69c739650f7a5955e271275602e2f
 com.foxinmy	weixin4j-qy-api	1.1	full	ccb8cec5219db2257fb07959b1ae182e25586fa1
 com.foxinmy	weixin4j-qy-api	1.2		918415eb4852f59a77d345a3feaa784a1d4ee4e5
@@ -194,6 +195,8 @@ de.sfuhrm	radiorecorder	1.10.1		32ba42db4b52b9332f93f0ba42a1450cf11e7880
 de.sfuhrm	radiorecorder	1.11.0		94e309e43b405a88fe2d6323b78bcb90c73d88b5
 de.sfuhrm	radiorecorder	1.11.1		114a874525ef65bfcc8565db688574ac1fdf051d
 de.sfuhrm	radiorecorder	1.12.0		2fd0d9b69c4d7ec7f43a0de3ec87826cd5e080d6
+de.sfuhrm	radiorecorder	1.13.0		550eb1c078201ad9faed8baf7e64f57db7182e0b
+de.sfuhrm	radiorecorder	1.13.1		df27cb10ded6507794c02bf3efeab2118472ab18
 de.sfuhrm	radiorecorder	1.4.0		d1ef7ebfc4b79cfa35d5fd59e959c2e26266d0ec
 de.sfuhrm	radiorecorder	1.5.0		3c776b635c12f1bb44e8dbf351cecba52de5291c
 de.sfuhrm	radiorecorder	1.5.1		5134e696d7bcd949a7e8c41704dbd4b3bf6441a0
@@ -475,6 +478,7 @@ io.github.the-best-is-best	kfirebase-firestore-iosarm64	1.0.3		N/A
 io.github.the-best-is-best	kfirebase-firestore-iosarm64	1.0.3	metadata	2ea643ccfe2f3c95dd631fa1a5e7ea929b2a6ff6
 io.github.the-best-is-best	kfirebase-firestore-iosarm64	1.0.4		N/A
 io.github.the-best-is-best	kfirebase-firestore-iosarm64	1.0.4	metadata	1059dab4d62b0599badf89819888e9afe999814f
+io.github.the-best-is-best	kfirebase-firestore-iosarm64	1.1.0	metadata	03690917b2f4a1570f5685c4e214b2a39b7155c4
 io.matthewnelson.kotlin-components	kmp-tor-common-iosarm64	0.1.0		N/A
 io.matthewnelson.kotlin-components	kmp-tor-common-iosarm64	0.1.0	metadata	54c65569479ade389ab1f450f41f8d8a1511179a
 io.matthewnelson.kotlin-components	kmp-tor-common-iosarm64	0.1.0-beta1		N/A
@@ -1134,6 +1138,7 @@ org.apache.paimon	paimon-flink-common	0.9.0		f0b9a114b473426c93f1ea77fb3fe7f8d99
 org.apache.paimon	paimon-flink-common	1.0.0		3af1192c563771996cf9ee77af2a38d1de30e0fb
 org.apache.paimon	paimon-flink-common	1.0.1		82f991904fce10c5bab29fc2c35edcf773e090d3
 org.apache.paimon	paimon-flink-common	1.1.0		e2a6c40d87cb13b9f30153721a31a021b60f4000
+org.apache.paimon	paimon-flink-common	1.1.1		3004637d400caeed0ecf51794e64f7eea39a458c
 org.apache.servicemix.samples.bridge	bridge-sa	3.1.2		N/A
 org.apache.servicemix.samples.bridge	bridge-sa	3.2		N/A
 org.apache.servicemix.samples.bridge	bridge-sa	3.2.1		N/A
@@ -1253,6 +1258,7 @@ org.jetbrains.androidx.savedstate	savedstate-watchosx64	1.3.0-alpha06		N/A
 org.jetbrains.androidx.savedstate	savedstate-watchosx64	1.3.0-alpha06	metadata	9c181c2cf7d6e68abbf63814697da6610872e826
 org.jetbrains.androidx.savedstate	savedstate-watchosx64	1.3.0-alpha07		N/A
 org.jetbrains.androidx.savedstate	savedstate-watchosx64	1.3.0-alpha07	metadata	92e6c8a02fc8630b12d006613f1da9973bb15b2b
+org.jetbrains.androidx.savedstate	savedstate-watchosx64	1.3.0-beta01	metadata	92e6c8a02fc8630b12d006613f1da9973bb15b2b
 org.jetbrains.lets-plot	datamodel	4.0.0		439f77b505f402b0e4c63dd2a2fc54c838285577
 org.jetbrains.lets-plot	datamodel	4.0.0-alpha1		5a2fd7f36087eac9247caae4e80971163b2a6815
 org.jetbrains.lets-plot	datamodel	4.0.0-alpha2		5a2fd7f36087eac9247caae4e80971163b2a6815
@@ -1503,6 +1509,8 @@ org.opensearch.migrations.trafficcapture	transformation	0.2.3.2		b9c583275848533
 org.opensearch.migrations.trafficcapture	transformation	0.2.3.3		a07caaac807abb2a0f0ad22a5c76aaa8363a509b
 org.opensearch.migrations.trafficcapture	transformation	0.2.3.4		598b5d6bc5c2de280aae992f37995e3c651ee202
 org.opensearch.migrations.trafficcapture	transformation	0.2.3.5		72c81b4db69f12376e77df0181e761905379d602
+org.opensearch.migrations.trafficcapture	transformation	0.2.3.6		0b8ef246659aedb2a8f2013454515f32519efa51
+org.opensearch.migrations.trafficcapture	transformation	0.2.3.7		628fa1eeb3454ee665f3c6b8c61eb45b9e2ee669
 org.red5	securityplugin	1.0.8-M2		1780471346bec17368614a16d0efdbe8b3fb7f03
 org.red5	securityplugin	1.0.8-M3		3b15e595539c6a272665ec6a52a6bf2aaa0766e3
 org.red5	securityplugin	1.0.8-RELEASE		7fa4c6e6fa999b5e727e6cc148e92d350016e685

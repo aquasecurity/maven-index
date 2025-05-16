@@ -63,6 +63,7 @@ com.itextpdf.android	sign-android	8.0.4		feb3eac440d821b1ebd724d2183609f1500c778
 com.itextpdf.android	sign-android	8.0.5		6db08e8acf9622070e2974224a4dd5086e0783f7
 com.itextpdf.android	sign-android	9.0.0		adf8386dc9c00be783be8529d3c80dbf577d1a82
 com.itextpdf.android	sign-android	9.1.0		9e40bb0d5745ceabf63ae219e5d6ef5ce5972dfa
+com.itextpdf.android	sign-android	9.2.0		86210ad5e4a02656ae4809334b5a8f45f44610c5
 com.liferay	com.liferay.portlet.configuration.icon.locator.api	1.0.0		bdaa3820aa22aa6d4ec1684f7b4bb0449bc9bfed
 com.liferay	com.liferay.portlet.configuration.icon.locator.api	2.0.0		a45e8852ed1c96299c93e10b2c2a1ae505671afd
 com.liferay	com.liferay.portlet.configuration.icon.locator.api	2.0.1		af5b732df2da67c154a2ed9257f0aca8bc331e3b
@@ -1099,6 +1100,7 @@ dev.galasa	dev.galasa.docker.manager	0.38.0		8daa848899af4d9a7bc78483b68f9f87315
 dev.galasa	dev.galasa.docker.manager	0.39.0		0feede4817fa5f54c96b0df6fbd9ecf8a652a0f2
 dev.galasa	dev.galasa.docker.manager	0.4.0		63e8c50fc040c5f87f7a86432d3e50d65e5fd103
 dev.galasa	dev.galasa.docker.manager	0.40.0		32c3eb7c1e44eec6368c013d0dd16c49906697f6
+dev.galasa	dev.galasa.docker.manager	0.41.0		c2882daf86251ff27192b188b3c6f67b2f34ad09
 dev.galasa	dev.galasa.docker.manager	0.5.0		cb4f472d26c59da5b31d842f8868e708bb0b29fb
 dev.galasa	dev.galasa.docker.manager	0.6.0		f8649f37e34a76d8109ce4604944a6dcc4e3d95e
 dev.galasa	dev.galasa.docker.manager	0.7.0		3f48653bc39885d1b6d3cda37e1dda2b1c077510
@@ -1332,6 +1334,8 @@ io.ktor	ktor-server-host-common-macosx64	3.1.1		d00dc2132f3800fdd55bdab8e98300d5
 io.ktor	ktor-server-host-common-macosx64	3.1.1	metadata	2df41859da9c3434a8980279f0befe08efde281b
 io.ktor	ktor-server-host-common-macosx64	3.1.2		decf0ed0ad1dbeb447ce30b43061671b61c94d14
 io.ktor	ktor-server-host-common-macosx64	3.1.2	metadata	397f0a4383c52921a9dfe58dedce797a6f117766
+io.ktor	ktor-server-host-common-macosx64	3.1.3		d299141f38b9d917d8799aaeb7f9267486dcf71b
+io.ktor	ktor-server-host-common-macosx64	3.1.3	metadata	82d8a6bf5161ccad3fdbc0e58e92718e8f090beb
 io.miragon.miranum	fit-connect-destination-connector	0.1.0		95b201dee7ec7e08302d8a34f6cfced20a4ba825
 io.miragon.miranum	fit-connect-destination-connector	0.2.0		8f395f3cdef767cd4cc00b09e38a1115b2d7ff71
 io.miragon.miranum	fit-connect-destination-connector	0.3.0		a3c0f30a5480c9d24e3628bf2f5ec7301ba83902
@@ -1434,6 +1438,7 @@ io.quarkus.arc	arc-arquillian	3.15.2		5671223d92e1605d373852fe3ab3fb80a1b6ed58
 io.quarkus.arc	arc-arquillian	3.15.3		5d8c95b2e7d95b2908262dae30e26fd171af8266
 io.quarkus.arc	arc-arquillian	3.15.3.1		347078df85e1d2aae3df798670c2552bc6089748
 io.quarkus.arc	arc-arquillian	3.15.4		201e658cabdd47cf6b3cc343d2c111f557d693b0
+io.quarkus.arc	arc-arquillian	3.15.5		1f58cd11b324dfe082ba9de989a62577d0939a62
 io.quarkus.arc	arc-arquillian	3.16.0		1d979c33646fe8af5cf40dd7160ea654b2646b96
 io.quarkus.arc	arc-arquillian	3.16.0.CR1		212b4306c3fd69af09157999063cac2ed49381f6
 io.quarkus.arc	arc-arquillian	3.16.1		7bd93cc04c201c9733a00050892bdfd26e96f710
@@ -1478,6 +1483,7 @@ io.quarkus.arc	arc-arquillian	3.2.8.Final		903127b8fb1f778203c4cff6efa3384edd5a1
 io.quarkus.arc	arc-arquillian	3.2.9.Final		ac4c7d483a7d952673d919581c9effa7ed171bf8
 io.quarkus.arc	arc-arquillian	3.20.0		6831e956a54dcd8c6917189a1e1d1d7ef09439ba
 io.quarkus.arc	arc-arquillian	3.20.0.CR1		3c3f896a1d9e2339c457d09cd8223fc526d8bc74
+io.quarkus.arc	arc-arquillian	3.20.1		6b60fa47d0b0ec1073d21a2111f0bad0510fbda6
 io.quarkus.arc	arc-arquillian	3.21.0		4eea702308f043e9954554073768984d8dafde46
 io.quarkus.arc	arc-arquillian	3.21.0.CR1		94575a204ba7397720d3df01b7c5d4f3db27f593
 io.quarkus.arc	arc-arquillian	3.21.1		653c9a03e1e3254b8243caf56c5b9afef2b540d0
@@ -1487,6 +1493,9 @@ io.quarkus.arc	arc-arquillian	3.21.4		f475d57e57b7e3227df1bf7f493314e850d48332
 io.quarkus.arc	arc-arquillian	3.22.0		fd84da42f068bb3bb2ba2ad4e4ed82c3753c136a
 io.quarkus.arc	arc-arquillian	3.22.0.CR1		66198ba369275d163131f0975c8d5f1469fde457
 io.quarkus.arc	arc-arquillian	3.22.1		063283478f720da15e0ed252c873389e5eaa0e5d
+io.quarkus.arc	arc-arquillian	3.22.2		970196d158c5cd56f9d196185c024fce02cacb41
+io.quarkus.arc	arc-arquillian	3.22.3		1404a2c134447ab260384818e4568a8e7ffbd9b1
+io.quarkus.arc	arc-arquillian	3.23.0.CR1		3a6eab224f7772eed716ea8e5970f6945a38e170
 io.quarkus.arc	arc-arquillian	3.3.0		5b116a3aa7cf1944051638eb34077508ee4b47af
 io.quarkus.arc	arc-arquillian	3.3.0.CR1		ca276825b72f472d2258d243978aacd1d62f24bb
 io.quarkus.arc	arc-arquillian	3.3.1		ab388943c514be3bfe96e20095b8a3dfc2c2792f

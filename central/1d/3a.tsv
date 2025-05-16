@@ -1694,6 +1694,7 @@ io.github.ceren945	core	1.0		a7a9135a8d7e92937f812f7b401ff10472ed5f94
 io.github.cloudiator	colosseum	0.1.0		e83499a041266bed84318f7b5cf37ce2492df047
 io.github.johnhungerford.rbac	scala-rbac-play_2.13	1.2.0		4a5451eb6222574c1d8d1634819081cda8a79d75
 io.github.pandulapeter.kubriko	tool-scene-editor-noop	0.0.2		782a9055845406b142d6e7d0d6affd453d44b964
+io.github.pandulapeter.kubriko	tool-scene-editor-noop	0.0.3		0d19d297f270f93bc6d08ec1bfc7255e29941802
 io.github.stabios	ktor-serialization-kotlinx	3.0.2		351103bd17410808dcab7f28a6a3c0d928485bfb
 io.github.stabios	ktor-serialization-kotlinx	3.0.3		351103bd17410808dcab7f28a6a3c0d928485bfb
 io.github.stabios	ktor-serialization-kotlinx	3.0.4		351103bd17410808dcab7f28a6a3c0d928485bfb
@@ -1907,6 +1908,7 @@ org.apache.camel.springboot	camel-drill-starter	4.8.3		4835bdc52893eee1c5292dad7
 org.apache.camel.springboot	camel-drill-starter	4.8.4		fe0640b7dbbfbc002baacd03667fd5918859dc6b
 org.apache.camel.springboot	camel-drill-starter	4.8.5		5f2076f700326f2c41761c2dfb20a370cf21d015
 org.apache.camel.springboot	camel-drill-starter	4.8.6		dc65aba326e422494872d1eef5fc456dc0b165ce
+org.apache.camel.springboot	camel-drill-starter	4.8.7		133f6805767d8ef2f3e9717cf7d84fb2258a88c4
 org.apache.camel.springboot	camel-drill-starter	4.9.0		e5e755a6032edcf65f5356c5dade7effbcf300cc
 org.apache.causeway.extensions	causeway-extensions-tabular-excel	2.0.0		f374032dfe7709eeeab7acb0c97d7846a3df9825
 org.apache.causeway.extensions	causeway-extensions-tabular-excel	2.0.0-RC4		48d9f061701cb169b9dd341fa4dfcccccdd8ffb8
@@ -1971,10 +1973,17 @@ org.easypeelsecurity	easypeel-method-security	0.0.4		ca03fcee17b5a9c1147db62f2f4
 org.errors4s	errors4s-http4s-circe_3	2.0.0.0		5d637b05c9a06d8b7d7a96700a94bd7fd3c7756e
 org.errors4s	errors4s-http4s-circe_3	3.0.0.0		981bb72073c176fd155013368cea814a2e7f0dbd
 org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.82.0		d83dc07188c58b3385664878842781976416e10d
+org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.82.1		ae4cdd7a944df03b487b6829185b544264cf5c06
 org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.83.0		b2c02233958ee5bf3fa2389e9760ff15b0053316
 org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.83.1		c31e58af28d91313b0542c73953893617d8f2f53
 org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.83.2		4c512fabe864a14ba562dedc1139a53e4f194c95
 org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.83.3		dda3588ba901353394c1e54b69773a17f965aac6
+org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.84.0		0630543d37ccca5d5b686fa865298bb59b70f006
+org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.84.1		5172958383ba2a627f0f2fcd998edaddd7d94092
+org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.85.0		3b1913e455db7f1f10ad1d8f51092ea865f03106
+org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.85.1		1f2ae55a7045c03954d0b0334610bf5f2f56419e
+org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.85.2		f78b6a0e9174e4619de355142e3b514464deb997
+org.finos.legend.engine	legend-engine-xt-relationalStore-h2-execution-2.1.214	4.85.3		c182bb29a0b89acb3a08f794ea322e7b814f959f
 org.finos.morphir	morphir-macros_3	0.4.0-M1		aefa8bd9d1a3cd9aa69534498623220bea3bd260
 org.finos.morphir	morphir-macros_3	0.4.0-M1-02		9f8771695a9348ffc70edbbe0e8f25abce64b542
 org.finos.morphir	morphir-macros_3	0.4.0-M1-2023.08.04		378f0da4613cfacf26087aa8cd0d62d7b646cc81
@@ -1986,6 +1995,7 @@ org.finos.morphir	morphir-macros_3	0.4.0-M5		51cb9bba2d0bb2a82283f446befd81d19d4
 org.finos.morphir	morphir-macros_3	0.4.0-M6		4048cafc9237375a434a74dc7dfa1ca8cec4b114
 org.graceframework.plugins	dynamic-modules	1.0.0-M1		N/A
 org.graceframework.plugins	dynamic-modules	1.0.0-M1	plugin	43c83ad5b84335917b4f4325dd9f6b18c3678450
+org.graceframework.plugins	dynamic-modules	1.0.0-RC1	plugin	b6b024fe03b46cb3e54a9a2f78f3a44f22b54ed3
 org.infinispan	infinispan-bom	10.0.0.Alpha1		N/A
 org.infinispan	infinispan-bom	10.0.0.Alpha2		N/A
 org.infinispan	infinispan-bom	10.0.0.Alpha3		N/A
@@ -2339,6 +2349,8 @@ org.infinispan	infinispan-bom	9.4.6.Final		N/A
 org.infinispan	infinispan-bom	9.4.7.Final		N/A
 org.infinispan	infinispan-bom	9.4.8.Final		N/A
 org.infinispan	infinispan-bom	9.4.9.Final		N/A
+org.mdedetrich	sbt-axis_2.10_0.13	0.1.0		56f5bdcfb60df7c517c4193f3b596bbe55a64427
+org.mdedetrich	sbt-axis_2.10_0.13	0.2.0		c14a3fa760055059d4b71e39dc3be02db9693057
 org.mule.tools.maven	cloudhub-maven-plugin	1.0		5e040d6aa6baf3d61795ab64a6e244ac9ac3204f
 org.noear	water.client	2.0.1-b1		68d365d947746276bfd657bba80cd30a16302b2f
 org.noear	water.client	2.0.1-b2		a2214311b15b3178ea0d7f2cee1547c9f2e99c67

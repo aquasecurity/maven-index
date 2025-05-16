@@ -38,6 +38,7 @@ co.fs2	fs2-protocols_native0.4_3	3.12.0-RC1		f250d940298e85fa3db328c89b76378e082
 co.fs2	fs2-protocols_native0.4_3	3.12.0-RC2		9d0b06450c167060fc606dedf884530bffcc1ca1
 co.fs2	fs2-protocols_native0.4_3	3.13.0-M1		efc8f822bddec3557134898f5f63a081c120a991
 co.fs2	fs2-protocols_native0.4_3	3.13.0-M2		330b827023c3aec6700f4026d5084db28890a50f
+co.fs2	fs2-protocols_native0.4_3	3.13.0-M3		49990137b5088151c97dd32233cd882ac9ca669a
 co.fs2	fs2-protocols_native0.4_3	3.2.14-75-7902cbf		8acfa159b24d8e86a8a7ec671dac8ae5c28b28b7
 co.fs2	fs2-protocols_native0.4_3	3.3.0		7c7af0690afd636535f2a3573526b2b97794f4db
 co.fs2	fs2-protocols_native0.4_3	3.4.0		ae59d614ef5acd2828424b67dd2d99586b566cac
@@ -547,8 +548,10 @@ com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-42		N/
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-42	metadata	79f42de77d2db96d08b5520f4363edf323155319
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-42-kotlin-2.1.21-RC		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-42-kotlin-2.1.21-RC	metadata	bb702acbd0371cc8bfc3789eb8c6bcd04438395d
+com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-42-kotlin-2.1.21-RC2	metadata	a238d3560816c2d77413e4f84579f94f3c9bc72d
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1	metadata	4bdae679444a86e9a0b8a8508487639283c828c7
+com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-43	metadata	32226400407392d49f9ce8c87f37623ba91b465b
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-5		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-5	metadata	0acc0bfbcc00facf50b0b164dd5144ecf76c295a
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-macosx64	1.0.0-ALPHA-5-kotlin-1.8.20-Beta		N/A
@@ -942,6 +945,7 @@ dev.zio	zio-aws-freetier_2.12	7.31.27.1		6facd4b9ab6872f2c684ac0d743a4b74ab4d626
 dev.zio	zio-aws-freetier_2.12	7.31.28.1		ffd1162beff0d82c2cc423e919d3346fcbedf3d9
 dev.zio	zio-aws-freetier_2.12	7.31.3.1		5a58d7fd029e810b047a5fe3126f961221978039
 dev.zio	zio-aws-freetier_2.12	7.31.30.1		e147f5e7bca502c1dbee257b7ce491bf8f78ea7d
+dev.zio	zio-aws-freetier_2.12	7.31.30.2		83633966769675b77c41cb082af20632f4ea57b2
 dev.zio	zio-aws-freetier_2.12	7.31.4.1		6c2dd3c8bcd320c966a8efd2a3c92ed368457fed
 dev.zio	zio-aws-freetier_2.12	7.31.6.1		9f9eedf65d1ef3ac4ea1d03eff270cd97ffd39f5
 dev.zio	zio-aws-freetier_2.12	7.31.6.2		2d7e8d7d7897660acf5529f6ec3e5e6a50556f24
@@ -988,6 +992,7 @@ io.appwrite	sdk-for-android	6.0.0		N/A
 io.appwrite	sdk-for-android	6.1.0		N/A
 io.appwrite	sdk-for-android	7.0.0		N/A
 io.appwrite	sdk-for-android	7.0.1		N/A
+io.buildo	sbt-tapiro_2.12_1.0	0.1.0		f2853f8092a25d2ae5dd09febc473f0e28d92251
 io.buoyant	linkerd-failure-accrual_2.12	1.0.2		fb38ea70b61c6aa9b7ce3029e35147240917de09
 io.buoyant	linkerd-failure-accrual_2.12	1.1.0		bbf24de3aa2d0eb71924d0fee20723bb01eb6837
 io.buoyant	linkerd-failure-accrual_2.12	1.1.1		fe433d997869b300cf436a8c9ccf358d53f0b1b8
@@ -1413,6 +1418,8 @@ io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.21		07a3a06da6e5a4a9
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.22		ab8bf8cefd5088924d12898de0c10c65230e4e28
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.23		50214ef10ccdbf64c6b80fb920360117cc10a2e0
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.24		c902f78b65201bde60bae536458d2d40eb3a0a97
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.25		12dda7ceb3993c1a2d129ce53e3e942b8bcd602d
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.26		afa34899aac5cba1a5f6a00ddc1f5a9d152557a7
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.3		698170c1a687e4b394bb73dadaf1070b5bd6d35d
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.4		9774ad67a155c146cc64e23c4458df6d9ff14f8a
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.4.5		1312dc72bad497d07cf5e0605229f0af48f59e18
@@ -1431,6 +1438,8 @@ io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.11		f706199ab50f1136
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.12		f05a34b1ec2fc54f780d6162e64523c453269b3f
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.13		0ba0e102f5e5bf5dea40b6b9c9f362c252b87996
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.14		3e68e820c368a6f9168a468866a5f8c96a5011b2
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.15		b0106269b60517dddbe278f0bddff97e8fb3032c
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.16		30ab353e952f9d204513ab13c9d7fae56b99d0ab
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.2		37089d56e708fdb751f94c70b1ee8ad08e737b3e
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.3		78cc704a5df87ad9528e6a10c2919a6729c5d03c
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.5.4		a76ca8f4a84f1400bfc523b19f57a61b527babe3
@@ -1444,6 +1453,7 @@ io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.0-alpha.1		e17153269
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.0-alpha.2		069a4094637b2751b74f6313f7f6e55833d51728
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.0-alpha.3		ed991e24557c3ca5f61a1b510b0fe18dfdcaf50b
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.1		d62af82391e697b247de8b8d6952d7a1746345dd
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.10		5f1fea5eae55041832324520474b1aeaa7f3be5a
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.2		a1676556fcee7763c6b95b066a6128e3057ecfe3
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.3		3cd540a74236dc1c3cc1f4ce02a4eab5ab466bbc
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.4		23e25d866a94ed7b4570bdc53995e67b70dbcedc
@@ -1451,6 +1461,7 @@ io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.5		a95fba0ec9960b520
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.6		df03ba83b4ad2a18a442df2fc650605fd4b8cb2a
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.7		4f2d6398b7d35094313e2bf93d67563ed7fca737
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.8		32616f6426bd2317a8cc463052193a994cacc217
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.6.9		5dd37e927afe196874d69b6bbed4d8aa953cafa0
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.0		bf4573d1857d1ca4fdf24e146de68b632774e3f9
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.0-alpha.1		a04250336df0a67434249c537850cef165545ee9
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.0-alpha.2		71dc73fb84d7e08aaa6abd04ddffd282da9f1a45
@@ -1458,6 +1469,8 @@ io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.0-alpha.3		6165bce52
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.0-alpha.4		55d65a45a6d183ad48c3c571939ac46d4483740c
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.1		b7992278388efee6d7bf017337064d9499a3f9c2
 io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.2		2b0ad2a2a6e81b26db278a09261886bc3a5ffda3
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.3		c9e04fa87ef38d5f4f2d282b427a79231ce7c4c5
+io.gravitee.am.policy	gravitee-am-policy-enrich-profile	4.7.4		7219a0c59119ed7cb4113dc658bdd926bff3ba4e
 io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.0.0		7ab3cf2ce807d4fe89b6b8375e2121d8b470cc4e
 io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.0.1		ea6d11874bc2b76548c1d81816084fa454445193
 io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.0.2		0a33ec0360f2db72d3bacbffca4584d2822c526f
@@ -1465,6 +1478,7 @@ io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.0.3		5b1b866d155c5bb4e16
 io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-serialization-kotlinx-androidnativearm64	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.othree	enigma_2.12	1.0		eafdc9bf10c95f15e8664c792a2dc77393d1362a
 io.perfeccionista.framework	pagefactory-web-api	0.0.1-Beta		1e8e250cf3db8e9adb7c7762589cd104c8dbe62c
 io.perfeccionista.framework	pagefactory-web-api	0.0.2-Beta		49e03ec9f9fcc6d43be00e215ccac1562fc6dde1

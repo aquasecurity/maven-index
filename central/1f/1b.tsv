@@ -775,7 +775,14 @@ com.yahoo.vespa	container-apache-http-client-bundle	8.511.14		38dcbafdd1235b606f
 com.yahoo.vespa	container-apache-http-client-bundle	8.512.63		a0038ebe49885a236259006b45bab8aafc5b7729
 com.yahoo.vespa	container-apache-http-client-bundle	8.513.17		97d60d17ebee357a7722c1bb05cb211ab9b7ddbc
 com.yahoo.vespa	container-apache-http-client-bundle	8.514.24		618969ac435d0f9f34157dbe88ef49bdc81081d7
+com.yahoo.vespa	container-apache-http-client-bundle	8.515.40		3f81f41375fde8d505cddeaa9a9b48553738ac52
+com.yahoo.vespa	container-apache-http-client-bundle	8.516.26		b465d51de23c11ab5142104166abfc653805a07f
+com.yahoo.vespa	container-apache-http-client-bundle	8.517.15		dfe636cce41bd9b6885f9bd420ed8d15ad812311
+com.yahoo.vespa	container-apache-http-client-bundle	8.518.4		0c18d8d0cc16037b53915de16d053f71069f7e87
+com.yahoo.vespa	container-apache-http-client-bundle	8.519.55		01d8a6ce66233ec25596c76ded882cdad9e45baf
 com.yahoo.vespa	container-apache-http-client-bundle	8.52.15		e74846775c2639af100165ef2a3ff6e3883980e4
+com.yahoo.vespa	container-apache-http-client-bundle	8.520.18		249b22da4a1fcfb44cbcf5ca2b74fb3d0ffbd3ce
+com.yahoo.vespa	container-apache-http-client-bundle	8.521.17		26ffa9bc74de205012bf4bdb43c0ffbc8ce0c525
 com.yahoo.vespa	container-apache-http-client-bundle	8.53.21		886ddb868ad4602e816712b81d17fed32e522d6b
 com.yahoo.vespa	container-apache-http-client-bundle	8.54.61		512f5733a04d2d67919d76d07217dd99d31a395b
 com.yahoo.vespa	container-apache-http-client-bundle	8.56.20		8212d534e24afae41633a6be5553c4cf92d02aa0
@@ -1131,6 +1138,7 @@ dev.zio	zio-aws-pricing_3	7.31.27.1		688bd9deef0acf302a957015731104b4f2a0d4b5
 dev.zio	zio-aws-pricing_3	7.31.28.1		6554cad1f227c50da0a7ac4ccb16d6fe05f5674c
 dev.zio	zio-aws-pricing_3	7.31.3.1		9432cea738e9a2b7c67b294cc75e82ce272a78e3
 dev.zio	zio-aws-pricing_3	7.31.30.1		575a0d0ab836d2a15548eb7b61dd1292a966f5ff
+dev.zio	zio-aws-pricing_3	7.31.30.2		3f345d613f32b9a39eaf202a78a0b0f080579df6
 dev.zio	zio-aws-pricing_3	7.31.4.1		c781e5cc73309a5af98b30686269136fe87037d6
 dev.zio	zio-aws-pricing_3	7.31.6.1		6a79c67d6eb9916940301b9eb2f5ce07ed684e4e
 dev.zio	zio-aws-pricing_3	7.31.6.2		d1220baed7b0adb90a836ce52fdba24bb19a444f
@@ -1412,6 +1420,7 @@ net.hamnaberg.googleapis	googleapis-http4s-storage_3	0.4.5-v1-20240916		5d169870
 net.hamnaberg.googleapis	googleapis-http4s-storage_3	0.6.0-v1-20241012		a61556d3bf4994b2267725b95d2c91bc3d9f284e
 net.hamnaberg.googleapis	googleapis-http4s-storage_3	0.6.1-v1-20241117		5d1e2a0cd6f5fa5cfe16e7b1ad5af224ce49a3dc
 net.hamnaberg.googleapis	googleapis-http4s-storage_3	0.6.2-v1-20250205		d24e47764bcfd8956c5abf398535644f5f47b675
+net.hamnaberg.googleapis	googleapis-http4s-storage_3	0.6.4-v1-20250505		05cf6bfa5510df6d539ad15e2caf7295137567f2
 net.sf.squirrel-sql.translations	squirrelsql-translations	3.2.0		8344e0ec85087b663d6839222373b4db358fca14
 net.sf.squirrel-sql.translations	squirrelsql-translations	3.2.0-RC1		05c229ac9dde1420635d5bfbac84fc36809b2ca7
 net.sf.squirrel-sql.translations	squirrelsql-translations	3.2.1		4bd893b502ddbc5f055712c66d9d7801d5ea2b7d
@@ -1540,6 +1549,8 @@ org.membrane-soa	service-proxy-annot	5.5.1		e3cff6e985d2dbca5579585099905e9bcc6b
 org.membrane-soa	service-proxy-annot	5.5.10		43fea9dd36548c093e7c2e366568e1e7c7780ea9
 org.membrane-soa	service-proxy-annot	5.5.11		6ee8a5f2b98f02ca1211f04ef56394ac1a871c10
 org.membrane-soa	service-proxy-annot	5.5.12		7f44bfbb9eebfadb2317658bbd9d61a072e0b673
+org.membrane-soa	service-proxy-annot	5.5.13		5134e53eebd021224c6d69752e4adf7d9d29b711
+org.membrane-soa	service-proxy-annot	5.5.14		ff40b49d90af7900685d8719777c3e2271aaeaa7
 org.membrane-soa	service-proxy-annot	5.5.2		6670897003171f7626476365183bc3faab596f74
 org.membrane-soa	service-proxy-annot	5.5.3		b5952580da05f8330a7ea32ffdf9c3ccf1907f5b
 org.membrane-soa	service-proxy-annot	5.5.4		500ed6e20fef3a7a6b9ae21a46afecef6eb13492
@@ -1557,6 +1568,8 @@ org.membrane-soa	service-proxy-annot	5.8.2		26c639053d3b5c7e14a83df19ee7248589a3
 org.membrane-soa	service-proxy-annot	5.8.3		59e67c877ef9421da50e3ef5758db324c52c6c71
 org.membrane-soa	service-proxy-annot	5.8.4		194343c1b83fab3ba4f1ecd3292ee2f4a99a69a6
 org.membrane-soa	service-proxy-annot	5.8.5		cfd7286be0bdacc3f4dedd672c08bd12d0bb5567
+org.membrane-soa	service-proxy-annot	5.8.6		89d9042a89799162d15372e4d734696afdee0db6
+org.membrane-soa	service-proxy-annot	5.8.8		fbb232ab3d765b597b5a60764805b14ca29db1ec
 org.membrane-soa	service-proxy-annot	6.0.0		d8bb1dc0850efb9451d0e771a27edfc7013ed382
 org.membrane-soa	service-proxy-annot	6.0.1		515c58c98d28413622c053b2645f0e2dfa026111
 org.membrane-soa	service-proxy-annot	6.0.2		161a8c91a449bb0cf7f21008fd12da6bae178921

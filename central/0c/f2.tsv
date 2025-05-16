@@ -216,7 +216,9 @@ com.google.cloud	google-cloud-infra-manager	0.35.0		3d97a3b0d997670c27beef9ada6a
 com.google.cloud	google-cloud-infra-manager	0.36.0		76d908a29b120d11308d7d7e3dd2b0b2f813db59
 com.google.cloud	google-cloud-infra-manager	0.37.0		943e802547001de01dbba8125f71eca192a9bdec
 com.google.cloud	google-cloud-infra-manager	0.38.0		c9f6815614968e8824dc08dd8edc679f2f16c6c2
+com.google.cloud	google-cloud-infra-manager	0.39.0		895d4ed767332fe716b51956b00ce76dd9d83474
 com.google.cloud	google-cloud-infra-manager	0.4.0		01e4bb122c41064147937f07007db5a05f909761
+com.google.cloud	google-cloud-infra-manager	0.40.0		d13e60a32db54c7fb957a881487d2806d813d773
 com.google.cloud	google-cloud-infra-manager	0.5.0		74e627ce74f78ee7b0fc33942a091defce39e6fb
 com.google.cloud	google-cloud-infra-manager	0.6.0		1fed482265b18cd58ae75a15373281901e249e6e
 com.google.cloud	google-cloud-infra-manager	0.7.0		c891e6609a13aeec502a31db42b241deb05861f7
@@ -383,6 +385,8 @@ com.wavemaker.commons	wavemaker-commons-util	11.10.5		deae0ccb9070951780143894c1
 com.wavemaker.commons	wavemaker-commons-util	11.10.5.ee		deae0ccb9070951780143894c14678f3d7f57103
 com.wavemaker.commons	wavemaker-commons-util	11.11.0		3912ec2b39316cc7b38348a087f7b2412d3a1888
 com.wavemaker.commons	wavemaker-commons-util	11.11.0.ee		3912ec2b39316cc7b38348a087f7b2412d3a1888
+com.wavemaker.commons	wavemaker-commons-util	11.11.1		3912ec2b39316cc7b38348a087f7b2412d3a1888
+com.wavemaker.commons	wavemaker-commons-util	11.11.1.ee		3912ec2b39316cc7b38348a087f7b2412d3a1888
 com.wavemaker.commons	wavemaker-commons-util	11.2.0		9ea5d1cb32b1b5d9a69fe06a95f4381cb7486dc6
 com.wavemaker.commons	wavemaker-commons-util	11.2.0.ee		9ea5d1cb32b1b5d9a69fe06a95f4381cb7486dc6
 com.wavemaker.commons	wavemaker-commons-util	11.2.1		9ea5d1cb32b1b5d9a69fe06a95f4381cb7486dc6
@@ -1111,7 +1115,14 @@ com.yahoo.vespa	tenant-cd-api	8.511.14		982d744b8adfbb1e135267244562d826d55d7f77
 com.yahoo.vespa	tenant-cd-api	8.512.63		5bfd3cca3692a3ced3e4c169a78cc55fa90ce772
 com.yahoo.vespa	tenant-cd-api	8.513.17		f398cab3e81436176aeeeb61493cd758f61c4dad
 com.yahoo.vespa	tenant-cd-api	8.514.24		74e100a8b17a43cf3f421a49386fc77d1db88b9f
+com.yahoo.vespa	tenant-cd-api	8.515.40		4cc9fee71c76d2d411c6226846b00414335d17f5
+com.yahoo.vespa	tenant-cd-api	8.516.26		4a68d5aa8f0bea2532c9e81c1efcfa51d59f8c7b
+com.yahoo.vespa	tenant-cd-api	8.517.15		6db1b58b4e3090d39a11b7f5aba185d0ce0be626
+com.yahoo.vespa	tenant-cd-api	8.518.4		ada9aeb6d1e6ccb60943379b06de9a8c936670fd
+com.yahoo.vespa	tenant-cd-api	8.519.55		e711838c525ddb1987b39ed6bd795dba80572063
 com.yahoo.vespa	tenant-cd-api	8.52.15		10bace750bbce91b840aae96aa9e918fe621bf51
+com.yahoo.vespa	tenant-cd-api	8.520.18		b010e60e8391188410c56cd50c3c8193b33c0611
+com.yahoo.vespa	tenant-cd-api	8.521.17		60592e803f17f243a6a8c09ce63fa27c89a86b39
 com.yahoo.vespa	tenant-cd-api	8.53.21		34a37e95ff77f0c1c8b8d1d9410058bb589f420b
 com.yahoo.vespa	tenant-cd-api	8.54.61		96bf6a97a0a9a116a410f7cc30ad942834abb6c7
 com.yahoo.vespa	tenant-cd-api	8.56.20		06cbf4614c1e3c45b2855ba2e8894a017299e564
@@ -1250,6 +1261,7 @@ io.objectbox	agp-wrapper-7-2	4.0.2		c5b857a1b1d1a2867088998e0d7f9f2333fcf7b1
 io.objectbox	agp-wrapper-7-2	4.0.3		3163e8ee301481cc7ace997bfbe96b1a2463a43a
 io.objectbox	agp-wrapper-7-2	4.1.0		407a6d927f8475d0464d5fc7dcba2b4725e2a2ee
 io.objectbox	agp-wrapper-7-2	4.2.0		459fa3a33d988cfaea1706febbb89a271e6eac19
+io.objectbox	agp-wrapper-7-2	4.3.0		c04a1d516e5197c5ca5c13f4567b1e0022753bb3
 io.openliberty.features	mpOpenAPI	24.0.0.10		N/A
 io.openliberty.features	mpOpenAPI	24.0.0.11		N/A
 io.openliberty.features	mpOpenAPI	24.0.0.12		N/A
@@ -1493,6 +1505,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.2.1		a72af18
 org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.2.2		05eba4dd5b67ecd22464f3d2de1ae3addbf8940d
 org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.2.3		2eca45e47e92045de6e7eca52eaf611594258744
 org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.20.0		ee73561fb7c91c63d45fa7352112d223de66aee6
+org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.20.1		3100d6ab8848ecc924e13b44e2afb0159f0bf04e
 org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.22.0		9865ce4e3fd322b5d3fdb3f9a847d7ab7c2727b8
 org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.4.0		6199c4aaa478090edef0dc712ba83c5ecbf8a3a9
 org.apache.camel.quarkus	camel-quarkus-integration-test-mapstruct	3.5.0		a880b8681afd6454f0baef47bacf145d9d800a53

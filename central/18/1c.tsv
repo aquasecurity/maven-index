@@ -784,6 +784,7 @@ dev.opensavvy.prepared	runner-test-initiative-watchossimulatorarm64	2.0.0-alpha.
 dev.opensavvy.prepared	runner-test-initiative-watchossimulatorarm64	2.0.0-alpha.2	metadata	6cb8c3a33c6ee0a0425481f206ea9a8748127039
 dev.opensavvy.prepared	runner-test-initiative-watchossimulatorarm64	2.0.0-rc.1		N/A
 dev.opensavvy.prepared	runner-test-initiative-watchossimulatorarm64	2.0.0-rc.1	metadata	d06682c283b8f63333df130d0806c34ea8c28af3
+dev.opensavvy.prepared	runner-test-initiative-watchossimulatorarm64	2.0.1	metadata	260794740d425d117f3daadf26fcc4841f740978
 dev.zio	zio-aws-sqs_2.12	5.17.102.7		5e6fac3cdd43e10dabb86179a6be36d55646dc67
 dev.zio	zio-aws-sqs_2.12	5.17.102.8		ec39e6bbdae70a67274c15c09ef3067bf93398ed
 dev.zio	zio-aws-sqs_2.12	5.17.102.9		6201f8d904edc05d9e6e01dedbac384dbc99603d
@@ -1102,6 +1103,7 @@ dev.zio	zio-aws-sqs_2.12	7.31.27.1		477d7579833d6bf9bdf2097d5dd3c46d5f2f99cc
 dev.zio	zio-aws-sqs_2.12	7.31.28.1		2fcbce96e67475f924a0259e0a56c0888aaa7e6c
 dev.zio	zio-aws-sqs_2.12	7.31.3.1		4e2ed375b5adc99e0c366565a7ca58ad271e2cc7
 dev.zio	zio-aws-sqs_2.12	7.31.30.1		663818a05c717bc5b69ecee158e145e539982a35
+dev.zio	zio-aws-sqs_2.12	7.31.30.2		cda8b14af0c47f8ea3e6a88793a87ea369625afd
 dev.zio	zio-aws-sqs_2.12	7.31.4.1		2fd1f738bdd310241f84001879938669c916799e
 dev.zio	zio-aws-sqs_2.12	7.31.6.1		a5b13c287a9ff52b56809333bf18e451d3713df2
 dev.zio	zio-aws-sqs_2.12	7.31.6.2		d1121b993175138fcdc8c24470cd962ec0eb4a30
@@ -1240,6 +1242,12 @@ hu.bme.mit.theta	theta-cfa-cli	6.13.0		efa23a9b08fd218436e6b351ba8145cfc124a683
 hu.bme.mit.theta	theta-cfa-cli	6.13.0	all	5fc67a73ad065bdb8491575d455ac80c69d43444
 hu.bme.mit.theta	theta-cfa-cli	6.13.1		edaf637b326850c056730787e43c8cd9d9350fc4
 hu.bme.mit.theta	theta-cfa-cli	6.13.1	all	373f83fbabc77b7dba5af6c3861747168f2ab70d
+hu.bme.mit.theta	theta-cfa-cli	6.13.2		a4ed4022ccbf3b61bffe4abbb66774258fd5af46
+hu.bme.mit.theta	theta-cfa-cli	6.13.2	all	0b6fe67de59a8905617d7085513b12a3a4beadc1
+hu.bme.mit.theta	theta-cfa-cli	6.14.0		de69c46f07a2633deb90d570c8095c19bd4e204d
+hu.bme.mit.theta	theta-cfa-cli	6.14.0	all	b6931a29e5a8c6189369981ae4b9621ee4a733c6
+hu.bme.mit.theta	theta-cfa-cli	6.14.1		25e205aafbdbf04402e1a5e9a490eb465e6f92f2
+hu.bme.mit.theta	theta-cfa-cli	6.14.1	all	b0c5c3afa9862104d94386a934910331e279a4af
 hu.bme.mit.theta	theta-cfa-cli	6.2.0		bea393c5875942485108fc66be1ba3c785532db0
 hu.bme.mit.theta	theta-cfa-cli	6.2.0	all	2615c8d4358a807d43b81fd45b2a4231e727a5cb
 hu.bme.mit.theta	theta-cfa-cli	6.3.3		9d3d8084fe441ac7d0efd09fe1d5101f8fd0126b
@@ -1541,6 +1549,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpcl
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpclient-4.0	2.13.3-alpha		9fb91b70d9fa7974e2472e6a2e34deb5ca69c87d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpclient-4.0	2.14.0-alpha		e339ed718be1a527d79fa4c0dd414512fcb3a215
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpclient-4.0	2.15.0-alpha		7bb0a98bebe3df956c0268f204142cd84846c9d5
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpclient-4.0	2.16.0-alpha		57ece32263cd5c2255213d0913e6f6d9e722702c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpclient-4.0	2.2.0-alpha		7225c48824a6246ddac0e3271938273bce45fe0a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpclient-4.0	2.3.0-alpha		e57a9813364bf027a9af1beef94a7382ed994e21
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpclient-4.0	2.4.0-alpha		9f6eef023a81bccefdbd1a0fd22f9c23a77c656f
@@ -2125,8 +2134,11 @@ org.cdk8s	cdk8s-jenkins	0.0.495		1bfa813a85c37d53f6acad79c8bf3d701cf1a5e5
 org.cdk8s	cdk8s-jenkins	0.0.496		d94460790d7a8f352e86a8440135d258c1c635b4
 org.cdk8s	cdk8s-jenkins	0.0.497		9dfaf33e619357b3fc4f61d8973be2d2d2ed5060
 org.cdk8s	cdk8s-jenkins	0.0.498		eefb1a85f8ad2d6227474ef4a6c16d2c029847fd
+org.cdk8s	cdk8s-jenkins	0.0.499		1f235070a70a43d2a89a1f6a6f060f13305218fa
 org.cdk8s	cdk8s-jenkins	0.0.5		37d688794cf71bf892963895833cd8d07e04badc
 org.cdk8s	cdk8s-jenkins	0.0.50		aaffcdeb83eb8ba0f8bb95587df33b9b1ee9de7f
+org.cdk8s	cdk8s-jenkins	0.0.500		7823ea17ba427efa757abba358625172262177a8
+org.cdk8s	cdk8s-jenkins	0.0.501		c9b1e2d4015b019797a8d7061ffee6e31131f90f
 org.cdk8s	cdk8s-jenkins	0.0.51		57551257e81186a014a3e355897be64736d71876
 org.cdk8s	cdk8s-jenkins	0.0.52		e9c7c160f09879d70010de15d10544ea715ec15f
 org.cdk8s	cdk8s-jenkins	0.0.53		96897c34c4fd0e8f10fd2546b70180ddb699fdca

@@ -375,6 +375,12 @@ de.gematik.test	tiger-zion	3.7.6	executable	cdf4af4e8980be3c07802eae08c7b63c7d39
 de.gematik.test	tiger-zion	3.7.7		1f370149feca67fda20a34122c3550d7752e55a3
 de.gematik.test	tiger-zion	3.7.7	docker	b251c22e2e422c1095e845cbac9d2018c87ee782
 de.gematik.test	tiger-zion	3.7.7	executable	b251c22e2e422c1095e845cbac9d2018c87ee782
+de.gematik.test	tiger-zion	3.7.8		a4a3443ead89b6b12cf77bd8aed98f1c54d191fe
+de.gematik.test	tiger-zion	3.7.8	docker	d25e3e0598df81c61abd2bbb75ee8174a7e4efb2
+de.gematik.test	tiger-zion	3.7.8	executable	d25e3e0598df81c61abd2bbb75ee8174a7e4efb2
+de.gematik.test	tiger-zion	3.7.9		a3f41d8aa40745788d722239ede443eafb0487d9
+de.gematik.test	tiger-zion	3.7.9	docker	d1db9b3ae7ebd045302491739f394884c245086c
+de.gematik.test	tiger-zion	3.7.9	executable	d1db9b3ae7ebd045302491739f394884c245086c
 dev.hnaderi	yaml4s-json4s_native0.5_3	0.3.0		2b0396816ef7af692e044cf4f3043f32d5c935e9
 dev.jordond.compass	geocoder-web-mapbox-wasm-js	0.1.10		N/A
 dev.jordond.compass	geocoder-web-mapbox-wasm-js	1.0.0		N/A
@@ -878,6 +884,7 @@ org.eclipse.ditto	ditto-internal-models-streaming	3.7.0		79297a6df9dfd16ea554d6e
 org.eclipse.ditto	ditto-internal-models-streaming	3.7.1		793b5e7b643b50c07c587c8c9d69738a0e77c756
 org.eclipse.ditto	ditto-internal-models-streaming	3.7.2		482a6aafe7be3eaef4303954f88034ee83f94a8b
 org.eclipse.ditto	ditto-internal-models-streaming	3.7.3		75583d07f3c091c3cb6b5e0c42765338c611ca74
+org.eclipse.ditto	ditto-internal-models-streaming	3.7.4		841a29ce371021fb24a7ffe4bc2122c1a7f10428
 org.eclipse.gmf.runtime.common.ui.services	properties	1.0.1-v20070601-1400		616f32dad7b731324685ac866300e47f88e49681
 org.fusesource.fabric	fabric-zookeeper	1.0		ed5194459b865f5401a38a89dd1d3272c973b75b
 org.fusesource.fabric	fabric-zookeeper	1.1		6c803ee4eac873dc17ef7dfe64b0748bef8968fc
@@ -1141,6 +1148,7 @@ org.jetbrains.kotlinx	kotlinx-collections-immutable-macosarm64	0.3.7		N/A
 org.jetbrains.kotlinx	kotlinx-collections-immutable-macosarm64	0.3.7	metadata	89210e8bb6f9dede5202735c84c0dd672abc728a
 org.jetbrains.kotlinx	kotlinx-collections-immutable-macosarm64	0.3.8		N/A
 org.jetbrains.kotlinx	kotlinx-collections-immutable-macosarm64	0.3.8	metadata	f8a435a07fa557eb436ddd45dee87d7b856344c2
+org.jetbrains.kotlinx	kotlinx-collections-immutable-macosarm64	0.4.0	metadata	380d7dcd3db19c9030f72f3dd8dc5df4adcd9c5a
 org.jspringbot	jspringbot-office	1.2		ba5a8d599665af449dc9149348ef9dd87c821c80
 org.jspringbot	jspringbot-office	1.3		6754a0205471d3ba306185f93a876a3e87364f0d
 org.mobicents.examples	mobicents-slee-example-sip-uas	2.8.3		N/A
@@ -1220,6 +1228,10 @@ org.webjars.npm	flag-icon-css	3.4.6		a5d89da8dd337b6ad03c4f55eb4234979726f795
 org.webjars.npm	flag-icon-css	3.5.0		c37b1c45f2fded00dd3b1f8137de98c878392265
 org.webjars.npm	flag-icon-css	4.1.6		d0f655cb5bfc5c2dd883159e735905cb58a42465
 org.webjars.npm	flag-icon-css	4.1.7		b9b0ae0bf13df5f12deb1f3f22564dca75b699b4
+org.webjars.npm	graphiql__plugin-history	0.0.1		8fe58da092d8d95fb637664fcfc8ff78a1d5e1a2
+org.webjars.npm	graphiql__plugin-history	0.0.2		72fc82b787f3a5ccdf43a1c6cd058827d31cdab4
+org.webjars.npm	graphiql__plugin-history	0.1.0		fd5554950ab08fb9480a1cb863b3f64d439c0b4c
+org.webjars.npm	graphiql__plugin-history	0.2.0		8035fce0756a702c5c61fe87db749267483b8214
 org.webjars.npm	node-dir	0.1.17		4097b08531632581466bbaf0fa4a7d81c7eac9d1
 org.webjars.npm	rrweb	1.0.7		082a9260c76a03421c84ffe0659de66571a858a2
 org.wikibrainapi	wikibrain-pageview	0.0.1		ac8244f2bf9db09424db1e1b061f9bda23065f71
@@ -1354,7 +1366,18 @@ software.amazon.awssdk	bedrockdataautomation	2.31.30		5e55a4893296288d3b0a4ca876
 software.amazon.awssdk	bedrockdataautomation	2.31.31		6bc8a64272637de1e7f5054ba7ca2de8672f02ff
 software.amazon.awssdk	bedrockdataautomation	2.31.32		0bc5bfaa490aeeb5f343d85b6773c03005baf902
 software.amazon.awssdk	bedrockdataautomation	2.31.33		ad2e8a4241dd4f6d43c9aef9255cc573a316875d
+software.amazon.awssdk	bedrockdataautomation	2.31.34		4a3bd91028219d73a7c9c0f39df9f93a89e9c9d4
+software.amazon.awssdk	bedrockdataautomation	2.31.35		c896d8a9f50962448c9a298cb89066641dae4ff0
+software.amazon.awssdk	bedrockdataautomation	2.31.36		f99e7ecbb7a986a684ec2c2e28d212fd558ad120
+software.amazon.awssdk	bedrockdataautomation	2.31.37		a3ad0bcf943fcb2c53a96295b91f18bc8745b20b
+software.amazon.awssdk	bedrockdataautomation	2.31.38		a18a4d3fa640d00661edc81524502d886f214456
+software.amazon.awssdk	bedrockdataautomation	2.31.39		e777cf73aa63c8194ee42dcb219cd0acbd93884c
 software.amazon.awssdk	bedrockdataautomation	2.31.4		bbf0f380b34561211d9e3c6df982bf60f82ff4d6
+software.amazon.awssdk	bedrockdataautomation	2.31.40		5242b4dcecf8e00801cf07d8c10b1f0f3737b31e
+software.amazon.awssdk	bedrockdataautomation	2.31.41		0638c09edfaaddad8202314479aeefe395d76aea
+software.amazon.awssdk	bedrockdataautomation	2.31.42		accf34c3d5c613e3f4e48f078439830a7bd43b35
+software.amazon.awssdk	bedrockdataautomation	2.31.43		cc18bbea7394c45ed81fc196c74a89ddcd569e9a
+software.amazon.awssdk	bedrockdataautomation	2.31.44		b684ca26b0431083dcf47f0e135c0478b9c742db
 software.amazon.awssdk	bedrockdataautomation	2.31.5		d271c4f3d0dd0a5c0ec82758b09d41fcfa10d69a
 software.amazon.awssdk	bedrockdataautomation	2.31.6		aa833f8d350df6c54e1f021de3bde0c9897fa975
 software.amazon.awssdk	bedrockdataautomation	2.31.7		e763c7c992d54edc8406f1bb74c6445205a0184a

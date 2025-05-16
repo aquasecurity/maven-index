@@ -171,6 +171,7 @@ com.github.crisposs	abs-api-event	0.8.6		6993788530c93ec00486200455ae5025ad4a5ce
 com.github.crisposs	abs-api-event	0.8.7		fb5dbf14b342db76163eb0ee2e2d4cf3fdfa271a
 com.github.crisposs	abs-api-event	0.8.8		d73c6b5eb43621f3d785231573e84ff1cdfe89e4
 com.github.crisposs	abs-api-event	0.8.9		6dbbff7239bcd6bcd316ee03c957739e08c2cc07
+com.github.enalmada	sbt-web-brotli_2.12_1.0	0.5.5		cb9cbabf3682bb0861e0e1b8f6495be5e130736c
 com.github.pocketberserker	zero-formatter-cats-core_2.12	0.1.0		9ee0d42d13baffe524ce7250c0fd1272b7946ea4
 com.github.pocketberserker	zero-formatter-cats-core_2.12	0.2.0		e06ff2c0e30a8bcf8a7b4300f091f05e0f247fa9
 com.github.pocketberserker	zero-formatter-cats-core_2.12	0.2.1		b5476f37f5ae1171d0566009f7eefdcb8091915f
@@ -304,6 +305,7 @@ com.slack.circuit	circuit-runtime-iosarm64	0.27.0		N/A
 com.slack.circuit	circuit-runtime-iosarm64	0.27.0	metadata	bd95ecf648e7ed169206e642551ce2de8632f37f
 com.slack.circuit	circuit-runtime-iosarm64	0.27.1		N/A
 com.slack.circuit	circuit-runtime-iosarm64	0.27.1	metadata	bd95ecf648e7ed169206e642551ce2de8632f37f
+com.slack.circuit	circuit-runtime-iosarm64	0.28.0	metadata	5a50f2fc8fd396e2887fefb85166c2b983fa0d14
 com.slack.circuit	circuit-runtime-iosarm64	0.9.0		N/A
 com.slack.circuit	circuit-runtime-iosarm64	0.9.0	metadata	a2def0a4fe13a25426e294874b4643ca9d4921b7
 com.slack.circuit	circuit-runtime-iosarm64	0.9.1		N/A
@@ -348,6 +350,7 @@ dev.opensavvy.dokka.mkdocs	renderer	0.4.2		723c3846657f24b5cb8122a7e1d2ea87c921e
 dev.opensavvy.dokka.mkdocs	renderer	0.4.3		454b278cccb20bca68446e1d3876ce7cbd3840db
 dev.opensavvy.dokka.mkdocs	renderer	0.5.0		fa26ef8752508b86eab31ecfea70985393833886
 dev.opensavvy.dokka.mkdocs	renderer	0.5.1		a74c0e172c26312ea0b4fd660c5728b127b8ce19
+dev.opensavvy.dokka.mkdocs	renderer	0.5.2		8b9f7c91bae20036d37754acc366cb3da2631df7
 dev.struchkov.godfather	bot-context-simple	0.0.25		1910819a2838cdb9cc81bed40ff12a679b0ce5a4
 dev.struchkov.godfather	bot-context-simple	0.0.26		55ed93daddcda364ad8f64ceba1a0c436bfad86a
 dev.struchkov.godfather	bot-context-simple	0.0.27		038147c71057e26fd94b96eaafb7ee93080ab3e0
@@ -712,6 +715,7 @@ io.quarkus	quarkus-oidc-client	3.15.2		74be7febe76b312e0fcba3ed45bb92bd71d883de
 io.quarkus	quarkus-oidc-client	3.15.3		ec2ebad10f0a86b5d904854b39ae1fe66d682a85
 io.quarkus	quarkus-oidc-client	3.15.3.1		3dcf93ee30cb7bf5163b7423b1cfa9a5b6545e40
 io.quarkus	quarkus-oidc-client	3.15.4		dedb6468272c9da12537ced5648985fa928bb4e1
+io.quarkus	quarkus-oidc-client	3.15.5		2e103c821f6fc6e6c317a2a5a8478785690b2db2
 io.quarkus	quarkus-oidc-client	3.16.0		0ec5e1f73be348b0b0a8b0995b470dad3dbb398d
 io.quarkus	quarkus-oidc-client	3.16.0.CR1		0b3c2ca4d7fb656b643e16b334db0da05e4320cb
 io.quarkus	quarkus-oidc-client	3.16.1		e6f977a681f949ab48890940f786c33d8e073ac2
@@ -756,6 +760,7 @@ io.quarkus	quarkus-oidc-client	3.2.8.Final		23d721163c411879f6c5839ee8d6f49c045b
 io.quarkus	quarkus-oidc-client	3.2.9.Final		18d03577c9f29f4e20e2c9071fab439d0053795e
 io.quarkus	quarkus-oidc-client	3.20.0		67efde2d339ee86ae806ba00c8dcc593e8710429
 io.quarkus	quarkus-oidc-client	3.20.0.CR1		981177e9f3ca58e95b1596ea898aa879673f0531
+io.quarkus	quarkus-oidc-client	3.20.1		c0570ffe9657a94dc00530a5ca23acf2f386160c
 io.quarkus	quarkus-oidc-client	3.21.0		e846b98ffa6dce7a3d9a4f1c9bf033d68f05b5c2
 io.quarkus	quarkus-oidc-client	3.21.0.CR1		2d79bbdd573547b2623d698a0181a0ebacd4d79a
 io.quarkus	quarkus-oidc-client	3.21.1		658c36f34ca952cdc71f9d27810e65d17cf931ff
@@ -765,6 +770,9 @@ io.quarkus	quarkus-oidc-client	3.21.4		77c0d24cac4534fcc1cb730888592e5981ad40a5
 io.quarkus	quarkus-oidc-client	3.22.0		36a83d12cd6007fb19977d00a79803b72f4f9265
 io.quarkus	quarkus-oidc-client	3.22.0.CR1		9ccd329a9d437d3f2a2dbfbb433a99873f3a0894
 io.quarkus	quarkus-oidc-client	3.22.1		7681ff5d4c05bf8941c0d9cdaae9f1a326d9e768
+io.quarkus	quarkus-oidc-client	3.22.2		b61c642b43561f994fab3aa177faa4a753340fee
+io.quarkus	quarkus-oidc-client	3.22.3		996e17620ed2ef1c79a93f4519f7321f83960919
+io.quarkus	quarkus-oidc-client	3.23.0.CR1		e1c53c855f5c87c272eaa3bb46084e3d96666913
 io.quarkus	quarkus-oidc-client	3.3.0		c3157cfcf7658599f192d154ac00c4759a273376
 io.quarkus	quarkus-oidc-client	3.3.0.CR1		5a926b0f9fb71ed61fa09aad55b59e1ce93a9546
 io.quarkus	quarkus-oidc-client	3.3.1		86a444c62a95277c574713f58c7f4f9020f5d870
@@ -1024,6 +1032,7 @@ org.jetbrains.compose.animation	animation	1.7.0-beta02		e0116386a5e986462bd827b1
 org.jetbrains.compose.animation	animation	1.7.0-rc01		e0116386a5e986462bd827b15027f0f5a3f747c5
 org.jetbrains.compose.animation	animation	1.7.1		e0116386a5e986462bd827b15027f0f5a3f747c5
 org.jetbrains.compose.animation	animation	1.7.3		e0116386a5e986462bd827b15027f0f5a3f747c5
+org.jetbrains.compose.animation	animation	1.8.0		771ad23687ea607ff79267a0d9961ecf62b5b5fa
 org.jetbrains.compose.animation	animation	1.8.0-alpha01		334b11429b46d1026cb9e7a63f0c96a8f0b2184b
 org.jetbrains.compose.animation	animation	1.8.0-alpha02		4501ccefe485db479a24fd409486e5e2d8270479
 org.jetbrains.compose.animation	animation	1.8.0-alpha03		986d1872734b4610da112a906dec86613fe07d3b
@@ -1685,6 +1694,8 @@ org.xwiki.commons	xwiki-commons-cache-infinispan	16.10.3		64333312f3ac5c2661dd17
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.10.4		623a5b3ea015b8fccddc6e1d9bb0a8aa2ddf81ee
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.10.5		317db8cf12c2adb558b5189bd1525083040ed6fe
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.10.6		14f15d6de52e62b078aa70b0d71cf0617f20729e
+org.xwiki.commons	xwiki-commons-cache-infinispan	16.10.7		161529ed80b0beb9f0c7a04aee4bd87f72e40d3e
+org.xwiki.commons	xwiki-commons-cache-infinispan	16.10.8		4b37d7a0d9cd8f228c43375cda35bff8b782a1e2
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.2.0		dce5abb8077b0c9e0f37d167fae6eb71ffe62d5b
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.2.0-rc-1		4ec997a5703c5a0e31a0a25a828827232b61c863
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.3.0		6409501abff601a595614e8ec9d35bc4a4576315
@@ -1699,6 +1710,7 @@ org.xwiki.commons	xwiki-commons-cache-infinispan	16.4.4		f1e97d4c7b4130fd27936ee
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.4.5		0d21cb4efef14b51516838e96bf498bcffc15833
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.4.6		8ad627ec28e0dff0cd62fd4a121326ff60177d81
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.4.7		7592e71926f2fcad18288f8faffb140d6abdfa9b
+org.xwiki.commons	xwiki-commons-cache-infinispan	16.4.8		0e4f094f3929736a27ef9605f276ed25b5bbd1dd
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.5.0		7f116bc020ec93f3e8aa3b5819e929b338d30e40
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.5.0-rc-1		d1613077bd99fb412fea50f5283df0235f79d74f
 org.xwiki.commons	xwiki-commons-cache-infinispan	16.6.0		63f46292e2f174c49df02655be0a77d378ef6eb4
@@ -1778,6 +1790,7 @@ org.zapodot	embedded-db-plugin-jupiter-tests	2.1.1		e094e185f97c2607125a008a0fcc
 org.zapodot	embedded-db-plugin-jupiter-tests	2.1.2		ed8808c0134bef9757540471dcd77d3996cbf42d
 org.zapodot	embedded-db-plugin-jupiter-tests	2.2.0		2edbe08a0eda23b666ffff1335f0f558c4f43f70
 org.zapodot	embedded-db-plugin-jupiter-tests	2.2.1		64d8895fedb1cb1412b3ba27f4bf09270fef2a61
+org.zapodot	embedded-db-plugin-jupiter-tests	2.2.2		7633326751022ee41e0d0355491c790796907c0c
 pt.tecnico.dsi	akka-kadmin_2.12	0.5.0		6f6f601b4ac87585d67355e7cbfeff05ba3e01e9
 ru.vladislavsumin.core.navigation	api-android	0.0.1		N/A
 ru.vladislavsumin.core.navigation	api-android	0.0.2		N/A

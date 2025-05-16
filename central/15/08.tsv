@@ -1716,6 +1716,7 @@ dev.zio	zio-aws-qldb_3	7.31.27.1		f91a64760cba882c22fed18575bf21c4c48d5b7d
 dev.zio	zio-aws-qldb_3	7.31.28.1		c7b015ff4d53cc5900bd0b513b1e2dce8b2bdc85
 dev.zio	zio-aws-qldb_3	7.31.3.1		469b9c1be075dac96e6d4ebfba727fcb2c817df8
 dev.zio	zio-aws-qldb_3	7.31.30.1		d6d2b4fa0822c71639eccc493c3856ea0f37e825
+dev.zio	zio-aws-qldb_3	7.31.30.2		853312d5e6ce649bc77d1000cbdec60e83c224c9
 dev.zio	zio-aws-qldb_3	7.31.4.1		7f138e6197324e05311d854c4a97bf11f5d75c02
 dev.zio	zio-aws-qldb_3	7.31.6.1		296c4badd440db86aa8d6b69a6a6996bbc27e1e6
 dev.zio	zio-aws-qldb_3	7.31.6.2		c24561e1a35fae8faf0a6e5fbacfa25500cbc3bd
@@ -1771,6 +1772,7 @@ io.deephaven	deephaven-web-shared-beans	0.11.0		3be58a4c55458f3c7c6aa27c6108c761
 io.deephaven	deephaven-web-shared-beans	0.12.0		8a90a9ca3204f8023b2339e445fde2c708411e6d
 io.deephaven	deephaven-web-shared-beans	0.13.0		0a0ab9bb70ace7633e4ba76397cb7094326cd4ea
 io.deephaven	deephaven-web-shared-beans	0.39.0		d19caadc8bf137aefc9e0e76a8c8191daf6d0ff4
+io.deephaven	deephaven-web-shared-beans	0.39.1		08199201a703c761441f87a19e2ffd4e56584582
 io.descoped.spi	service-provider-api	2.0.0		1e356d1ea9a8c0fdc8f650aceb74d019582e8543
 io.descoped.spi	service-provider-api	2.0.1		562394f0e1a0332b606195e996e730002094ea5a
 io.drinkwater	drinkwater-boot	0.0.10		9a3ef9edbd9c10a9a1f83a8ec758460e6db741a6
@@ -2676,6 +2678,7 @@ org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.2.1		22c77a3f286743b54215aa5a0
 org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.2.2		866aed181998ac0ecfb451580df5fd3e9b1e5ff1
 org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.2.3		3a5e5cb62ca98fa601f13e98e91848185cca04f6
 org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.20.0		aed624f64e8cb20c8e31cb700947386e88ba3d2b
+org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.20.1		a41e7a951e9802ceb7ccea297c9f59fce791bcd5
 org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.22.0		74c941ddcee52b49c06ccf9947ff486c779a0ce2
 org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.4.0		624289128159725be6686f8c11b5ffc60b369ddc
 org.apache.camel.quarkus	camel-quarkus-xml-jaxp	3.5.0		f245aaf284e927d3eed08958e1cf84dfcc764387
@@ -2920,6 +2923,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.41.1		9248f063ec4
 org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.42.0		a252379b0c1b0a16401e7c61b5cae5f7d87a00ec
 org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.43.0		1cf5852010e8a3cec37ce3df74e8c760de63ef41
 org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.44.0		79fb9d7cf5d9e483c983b624f9d7f2424d216282
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.0		fc8578ac48cdd65ee7b6c7554c3098ead05b8826
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.1		183d5249ae7808553e5e4cc52bbd307e17905e40
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.10		16da0615725300a9e5937a26cb1290f6f6d7d96c
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.11		a6b2233dd9e27a7cadfd6def47ae0156e243c085
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.12		d41c9d58aae1de28bfc23128d3b0e2003638b192
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.13		d52f59080c2472f51e80f77008b198160ed5ba40
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.3		95c0d8c7be30daa20f231182d2640e53526d6b59
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.4		144145f16925afea4ab08d1b0fba94552895e9a5
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.5		7704eeb395ab6cf4b5a1f66a7222f850daee79ad
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.6		2dcef55d67eb1dc011bd58161ab29b937fe2b6bd
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.7		25ad1b4d16044cf0f57efc2d6fd4d1ea0b4448a4
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.8		c93689bff38b473ec989d9bf53d51d5a069046eb
+org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.45.9		ce3fadc839205ef54bf0cb965a4bb59417477ae0
 org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.5.0		079cf0e1e1ce34a6915fc4eb4d9c67412312c1ec
 org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.6.0		ec6ca323bc024c0d94007ca7ae0fbc92c5de842e
 org.eclipse.dirigible	dirigible-components-ide-ui-databases	11.6.1		4292d9fc925bd9639c25464d81ee5e43a4664853
@@ -3404,6 +3420,7 @@ ru.i-novus.messaging	messaging-admin-web	4.1.3		6129fe11177804e7db9a0ed483c76593
 ru.i-novus.messaging	messaging-admin-web	4.6.1		6b150b679f18a271d9c61191fa6557d81e19f89e
 ru.i-novus.messaging	messaging-admin-web	4.7.3		37667025fff52e43ac9083767afd984ce6c5f693
 ru.i-novus.messaging	messaging-admin-web	5.0.4		7e9e695f8ccd1451265e2913925c220c69e8819a
+ru.i-novus.messaging	messaging-admin-web	5.0.5		5fdff616934ca485e443a73e7a615a2d0ca96285
 tz.co.asoft	epsilon-core-watchossimulatorarm64	2.0.17		N/A
 tz.co.asoft	epsilon-core-watchossimulatorarm64	2.0.17	metadata	f535e0c0a97f5ee34902729ebec95ba056e07fe4
 tz.co.asoft	epsilon-core-watchossimulatorarm64	2.0.18		N/A

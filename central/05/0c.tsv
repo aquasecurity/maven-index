@@ -294,6 +294,7 @@ com.typesafe.akka	akka-mailboxes-common_2.10	2.3.6		f477891739fbbbfbef00b73aae14
 com.typesafe.akka	akka-mailboxes-common_2.10	2.3.7		1232538cc2b6fb6b22bf59adc32624e892148aef
 com.typesafe.akka	akka-mailboxes-common_2.10	2.3.8		80fb164ee3da26ba39b00baf9d5f2cd3740def80
 com.typesafe.akka	akka-mailboxes-common_2.10	2.3.9		71301cfdd4e7a4de2658f6fe965dd264e4eff0f6
+com.typesafe.sbt	sbt-play-ebean_2.12_1.0	6.2.0-RC3		daf83537d80336c68a0313e6c9c91913c45c4cd6
 cool.taomu.framework	taomu-bsh-utils	0.0.3		92f5e41ba3a2e90aa77cbc6186694f1ec1624782
 cool.taomu.framework	taomu-bsh-utils	0.0.3.1		f4f4744c478f89719e6af9d423f9ef2fd9924069
 cool.taomu.framework	taomu-bsh-utils	0.0.3.1a		1f07c299ad012bed1953df50b77afcc9eb301a72
@@ -330,12 +331,17 @@ io.delta	delta-sharing-client_2.12	1.1.2		3c2e031fc00f68b3b8daecb8e03b2742acbeb8
 io.delta	delta-sharing-client_2.12	1.1.3		9fb70ef4c254f5837f0ec062d46cacae472fa56a
 io.delta	delta-sharing-client_2.12	1.1.4		475eeea9b32b9d7cce89293dbaf0ee4ea9f01d6b
 io.delta	delta-sharing-client_2.12	1.1.5		fc4151fb84172167e1e5ff159d0973ff5695dd44
+io.delta	delta-sharing-client_2.12	1.1.6		34d75b7218fb99fd1fae22df7d368998a8e66cee
 io.delta	delta-sharing-client_2.12	1.2.0		5e25eeef39a2babaf8f8edbdfc91e3586c4dde96
 io.delta	delta-sharing-client_2.12	1.2.1		244db3a1d719c115b75e4ce71daaab48e281218e
 io.delta	delta-sharing-client_2.12	1.2.2		1c56bde38cd680022d60cd06e53123eacf24170a
 io.delta	delta-sharing-client_2.12	1.2.3		06ddccbeec4c5ec05d788d63db28c1d71805483b
 io.delta	delta-sharing-client_2.12	1.2.4		f911d2528296ea168fe03a341f0dd8b8f64ca043
 io.delta	delta-sharing-client_2.12	1.2.5		0ef7138c31c90cdc766ffed3f2c667aae7bf3550
+io.delta	delta-sharing-client_2.12	1.2.6		2a66a2f93419022dbaef1f8dfdebfe8e0cf815c2
+io.delta	delta-sharing-client_2.12	1.2.7		d164292aecf9d22320bdcbb35e19b8733cd88faa
+io.delta	delta-sharing-client_2.12	1.3.0		99b33f0e61ee9f121cbcf23f6ce6a079cb904119
+io.delta	delta-sharing-client_2.12	1.3.1		b12749f6f041eec8c85e4200556fda2e08da2a6e
 io.github.ajacquierbret	kotlinphoenix-client-iossimulatorarm64	1.0.3		N/A
 io.github.ajacquierbret	kotlinphoenix-client-iossimulatorarm64	1.0.3	metadata	89cdc5eb273f5039dd1404d0424ad7e85861e48c
 io.github.open-accelerators	savings-account-common	1.0.2		72c8ae3c81ac215ae026f11653a4a941047e32fc
@@ -1170,6 +1176,7 @@ org.wildfly.clustering	wildfly-clustering-cache-spi	4.0.5.Final		e614fa3e2041f27
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.0.Beta1		11d2f0e37fdca65ac566115ce8d592c5abc54dc6
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.0.Final		57072e714a8ea266bcebe741966f121a620cf3c0
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.1.Final		3c65ce9190f5c2447f4ef941b844e0b74092a6cc
+org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.10.Final		bcabef5f522f7c1bba619a311e9dc56deaf414a3
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.2.Final		7a88359773c6ac7a1092e19d907a8ce00c1dc631
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.3.Final		2372845ae29d0cd43da19ac3ba5bce73b89734f0
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.4.Final		b742425acbca73baf9fdd7d6c34cfbc141f94807
@@ -1177,6 +1184,7 @@ org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.5.Final		859709e47659ae4
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.6.Final		63ecc3ca13fff5c6f89ecd2d7e8e0250d2e97e22
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.7.Final		9f0d7ea46891c7891ba44efc8905578204b85b9e
 org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.8.Final		2266c6290a416cc900114116913cf091765f6e4e
+org.wildfly.clustering	wildfly-clustering-cache-spi	5.0.9.Final		c286b58649dd90ec1a28ad088e0a6e388fc20131
 org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.0.Beta1		4cfa650b3e1bb1eada9dc08e0339ef37762c844a
 org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.0.Beta2		1c759d4bdc32a546b092660b42391fba37df9d14
 org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.0.Beta3		69615a1ade0ca25b6b75088f126e4fb0fef92d17
@@ -1184,7 +1192,10 @@ org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.0.Final		6955cda3e77e751
 org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.1.Final		532b6ba7c828374bd8a675fb6307881123efa0ce
 org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.2.Final		6c0037f1c52e8d53608e0b62b4fa5396f377b212
 org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.3.Final		746be43fb2c7e5ea230d3950a4e3cba50b275f4e
+org.wildfly.clustering	wildfly-clustering-cache-spi	6.0.4.Final		a5de9afba80686016bd38e95aeb1329ca532f03a
 org.wildfly.clustering	wildfly-clustering-cache-spi	7.0.0.Beta1		beff0357d40bd90268dec7cd038fd84fe28dd60b
+org.wildfly.clustering	wildfly-clustering-cache-spi	7.0.0.Beta2		9d7bd74adc79cd957b6511151ce256e54ac237ae
+org.wildfly.clustering	wildfly-clustering-cache-spi	7.0.0.Final		5fd85ea7201be0f757f5868f97ee4a77f4028432
 org.wso2.analytics.apim	wso2analytics-apim-multitenancy-features	1.0.0-alpha1		N/A
 org.wso2.analytics.apim	wso2analytics-apim-multitenancy-features	1.0.0-alpha2		N/A
 org.wso2.analytics.apim	wso2analytics-apim-multitenancy-features	1.0.0-beta		N/A
@@ -1536,6 +1547,7 @@ software.amazon.awsconstructs	fargatestepfunctions	2.83.0		4ae5f59998531e79437c1
 software.amazon.awsconstructs	fargatestepfunctions	2.84.0		b766b3fa9193d0f5586f417712387117560ef895
 software.amazon.awsconstructs	fargatestepfunctions	2.85.0		8166462ad373070764e20d6bc024cb461a84feb9
 software.amazon.awsconstructs	fargatestepfunctions	2.85.1		2c2c972dde3cd527253620ddbb6fea9d057b28e9
+software.amazon.awsconstructs	fargatestepfunctions	2.85.2		da1bf3eb33edb68ea9a0508c1aae16ef6b1ab5c1
 software.amazon.awsconstructs	fargatestepfunctions	2.9.0		5b736ec29d822cbe6519b95316f2bf706d5d7032
 team.mke	mke-utils-jvm	1.0.0		75d859c1abef011fa981f74d988aa9f46cdd9f06
 team.mke	mke-utils-jvm	1.1.0		43c8c4e50870ada76f1be28ad196219306700cda

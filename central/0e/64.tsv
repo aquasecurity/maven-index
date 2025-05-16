@@ -151,6 +151,9 @@ com.mtvnet.boxspring.osgi	boxspring-osgi-distribution	1.0.0-beta-1		N/A
 com.mtvnet.boxspring.osgi	boxspring-osgi-distribution	1.0.0-beta-2		N/A
 com.mtvnet.boxspring.osgi	boxspring-osgi-distribution	1.0.0-beta-3		N/A
 com.mtvnet.boxspring.osgi	boxspring-osgi-distribution	1.0.0-beta-4		N/A
+com.persist	sbt-view_2.10_0.13	1.0.0		ed7bb09504df715611a877549b12787a428895f5
+com.persist	sbt-view_2.10_0.13	1.0.1		49a530b6198d17c699a993281848542092ab4f49
+com.persist	sbt-view_2.10_0.13	1.0.2		86353211a4efdbfc33dd13cba9e1abad40b8d354
 com.pingcap.tispark	spark-wrapper-spark-2.4	2.2.0		b38d0eaa36158bbb2ea5302a051f996823846510
 com.pingcap.tispark	spark-wrapper-spark-2.4	2.3.0		fea27a2536a9f4f659f0cc7a28b3c0c719578fe4
 com.pingcap.tispark	spark-wrapper-spark-2.4	2.3.0-rc		57a9d2d9925d22e57cc7ee32013e359551267633
@@ -309,11 +312,14 @@ com.yubico	webauthn-server-attestation	2.6.0-alpha5		bf6cb755df25299dd651536cf17
 com.yubico	webauthn-server-attestation	2.6.0-alpha6		3fd2428178542239718e8af545fb9497f2171217
 com.yubico	webauthn-server-attestation	2.6.0-alpha7		dddb618f48892ca8f27056ff9003484ed2c01295
 com.yubico	webauthn-server-attestation	2.6.0-alpha8		660c2979468e26d64ee458742a17022448be3414
+com.yubico	webauthn-server-attestation	2.7.0		ba4a93955b0bd291d995751a82c048919973deca
 com.yubico	webauthn-server-attestation	2.7.0-RC1		861dcf1bcf899381f2c4efb8cd2695d1f0fb40b3
 com.yubico	webauthn-server-attestation	2.7.0-RC2		3f16730492b53dc4324379174db52d60c222e071
+com.yubico	webauthn-server-attestation	2.7.0-RC3		a26eadff423ec4c202f96395df17ba865cd1a472
 com.yubico	webauthn-server-attestation	2.7.0-alpha1		8cfee4f9ce79d594f8ad4bc5064bb9569865d720
 com.yubico	webauthn-server-attestation	2.8.0-alpha1		70de17dfdca941c5cf75a620f4a4ef41f9205122
 com.yubico	webauthn-server-attestation	2.8.0-alpha2		50511a14f44bf2b15f06ba230be0868abd56fd65
+com.yubico	webauthn-server-attestation	2.8.0-alpha3		ff61cff0da736b1a9028d24a26b4e93ed2d34d0f
 cz.xtf	http-client	0.21		5b2411b3e0f62ec17866d1decfc2b226c5bd3d4e
 cz.xtf	http-client	0.22		2dee0c6cdf3537f163a5c107301bcc9cc5c0ca88
 cz.xtf	http-client	0.23		ddd01627affbe72ffc44b1e6aea121ab53279b59
@@ -568,6 +574,8 @@ io.ktor	ktor-server-csrf-iossimulatorarm64	3.1.1		01fcf5fa2ab3a6760456f674fdd9b5
 io.ktor	ktor-server-csrf-iossimulatorarm64	3.1.1	metadata	289c249e17f0e3766bc50557b9c66d0ec5ebce60
 io.ktor	ktor-server-csrf-iossimulatorarm64	3.1.2		69dadeefcce7407ad9cab9164c00cd09324a2203
 io.ktor	ktor-server-csrf-iossimulatorarm64	3.1.2	metadata	06e95fef04001016105f67115e54e3be2a25c359
+io.ktor	ktor-server-csrf-iossimulatorarm64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-csrf-iossimulatorarm64	3.1.3	metadata	1177e9d20991acb0fcfdfdc82462870ac06d5c93
 io.servicecomb	spring-boot-starter-servicecomb	0.2.0		cd8771cd3cc597425987a6c10aa64d4162f55d73
 io.servicecomb	spring-boot-starter-servicecomb	0.3.0		d6e7d1d9c32defc3cfcd03271c3dc62009dadb14
 io.servicecomb	spring-boot-starter-servicecomb	0.4.0		7e64638d23bc687c5c43e68f97dcc103b0d69ab3
@@ -1082,6 +1090,7 @@ org.apereo.cas	cas-server-support-grouper	7.2.0-RC6		f1e068e9c1879ec54aa21828faf
 org.apereo.cas	cas-server-support-grouper	7.2.0-RC6	resources	942c9cd9b25adad12ef012fc7f99f624a6db95ab
 org.apereo.cas	cas-server-support-grouper	7.2.1		cc461b240d6476f110d26d805752cb11fd94c270
 org.apereo.cas	cas-server-support-grouper	7.2.1	resources	29a35a7fa0f8829e23a6047b64b743d5ed589a8f
+org.apereo.cas	cas-server-support-grouper	7.2.2		b8ef3f97488fef8e7cd36a63b3000d349c1f4424
 org.apereo.cas	cas-server-support-grouper	7.3.0-RC1		67e0f5c951d768dbc75e68d9a4088274ce7040a3
 org.apereo.cas	cas-server-support-grouper	7.3.0-RC1	resources	0f42332a042663c9d77d40f959fad78fddcf53ea
 org.apereo.cas	cas-server-support-grouper	v6.4.0-RC5		dacf5d25352b46cd31ce1c20c1abd5f9611429af
@@ -1988,6 +1997,7 @@ org.scalameta	metac_2.13.16	4.13.2		6724881a17af01a694851c30482c0200a96ca630
 org.scalameta	metac_2.13.16	4.13.3		527586afb393f110fb09b0e9f4394a308ff312b2
 org.scalameta	metac_2.13.16	4.13.4		8890f4a3a88c9711e1c4a7fcb559b02da20f0f8c
 org.scalameta	metac_2.13.16	4.13.5		8c7b3019bfd4ad3781e44790f6eca9c6963b16b4
+org.scalameta	metac_2.13.16	4.13.6		072e1782f1970dc407c4b7a7edb98716e5c54974
 org.scalameta	metac_2.13.16	4.9.6		4c4ccd7f655b2b8c5313a99fad3c42e3f6b4d971
 org.scalameta	metac_2.13.16	4.9.9		f634e3b48b0100f24c5a05b7d2bec8be5bc0073e
 org.sonatype.security	security-rest-api	1.1.0		d8961e123067f3a2a221613318a280e6fb137922
@@ -2065,6 +2075,7 @@ org.webjars.npm	tanstack__react-virtual	3.0.4		4b215dbee09cff92da61372f86a89cab4
 org.webjars.npm	tanstack__react-virtual	3.10.1		479c8ac43a0c3fb7c5e89ef3d326e746537f8a8b
 org.webjars.npm	tanstack__react-virtual	3.10.4		62f7cd16617f8325fa022b3f945614e544356511
 org.webjars.npm	tanstack__react-virtual	3.13.6		d8526b676214065f2befaf2b1103fd3ee6625db9
+org.webjars.npm	tanstack__react-virtual	3.13.8		7de8bc6193af148feee222a19973067223b6f7bf
 org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.server.oidc.scope.management.common	1.0.100		8ee5ca692f3f496e2669a3ec2e67c92db6b39e6f
 org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.server.oidc.scope.management.common	1.0.101		2335f4432a6cb49df2a8cfdff6364b024d5b6b6c
 org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.server.oidc.scope.management.common	1.0.102		7290310715cfa9817e01c2d8f4863d5c77b9f23b
@@ -2673,6 +2684,7 @@ software.amazon.awsconstructs	eventbridgesns	2.83.0		e225ad3fd087029e32f3971efc6
 software.amazon.awsconstructs	eventbridgesns	2.84.0		c8a3c8389dbe1426c623d728a0f306d7a59add6b
 software.amazon.awsconstructs	eventbridgesns	2.85.0		0977c52ffaab98b30d713cf7eb0c352413779dbb
 software.amazon.awsconstructs	eventbridgesns	2.85.1		c6e857a945a2dfe2eefcde2d169888fc0b7aa195
+software.amazon.awsconstructs	eventbridgesns	2.85.2		20919e76258cf1bbafb639dd590b91b9227adf28
 software.amazon.awsconstructs	eventbridgesns	2.9.0		481c3d8f61a4a9ed3fa54d0a12c55f1aeaee570b
 software.xdev	micro-migration-microstream-v6	0.0.3		1501f4eeb193b8fe36684d03071cbc9134602295
 software.xdev	micro-migration-microstream-v6	0.0.4		051f185d3356831ef6acb857fee1632509cb24d9

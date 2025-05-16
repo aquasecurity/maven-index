@@ -598,6 +598,7 @@ io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.12.2
 io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.12.2	metadata	253974b952183ee9e819cd9592a225bdda26d1d6
 io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.12.3		N/A
 io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.12.3	metadata	6b864fc91d28a1b9c19c75fec76293b749921796
+io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.12.4	metadata	8cda8a0969743f775e9cf137d85fef88ceec555c
 io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.2.0		N/A
 io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.2.0	metadata	3eeda052b02fb669569b6874350c3c603591ad19
 io.github.kalinjul.kotlin.multiplatform	oidc-appsupport-iossimulatorarm64	0.3.0		N/A
@@ -1529,6 +1530,7 @@ org.anyline	anyline-amap	8.7.2-20250312		125535aeac226c70a82cd10b55289c5273e013e
 org.anyline	anyline-amap	8.7.2-20250401		522c152ca6411ecbb30cc28365668be7c6c29644
 org.anyline	anyline-amap	8.7.2-20250404		76f0068ba50368141836efb62e91054f1f5dc1f3
 org.anyline	anyline-amap	8.7.2-20250502		3d0ccc20572306486cf22f33f5995aa9a8c4a817
+org.anyline	anyline-amap	8.7.2-20250509		220911661798c784404d7be47f84f1edd10c846c
 org.anyline	anyline-amap	8.7.2-jdk11-20240816		af82dc33a649db521595a6b228733f7e99bf8a4b
 org.anyline	anyline-amap	8.7.2-jdk11-20240820		aaabad2562c7fdef1cf46f6dab63c5956ebdf83d
 org.anyline	anyline-amap	8.7.2-jdk11-20240826		2f26230ff9b1cb6899822f3d389c594e1f9fad28
@@ -1546,6 +1548,9 @@ org.anyline	anyline-amap	8.7.2-jdk11-20250108		7c84b7ac63d764a75f903badc027e174d
 org.anyline	anyline-amap	8.7.2-jdk11-20250212		d3d1ff981576e67f01d0a1aad6e268641b0cfa50
 org.anyline	anyline-amap	8.7.2-jdk11-20250312		c54089a79a100709a937b5079102a538910653cc
 org.anyline	anyline-amap	8.7.2-jdk11-20250404		e9b53e71293f613da2f040638ec0d11f746c4bde
+org.anyline	anyline-amap	8.7.2-jdk11-20250502		7bd59cfb2196f993c0e3e3a50e5341bddf0b48e3
+org.anyline	anyline-amap	8.7.2-jdk11-20250509		a17a13a4def01ada5bc8a4a8504492487bc81e4e
+org.anyline	anyline-amap	8.7.2-jdk11-20250515		019b9874a2fc0ad98d866c9a6c81b97e6bd0e940
 org.anyline	anyline-amap	8.7.2-jdk17-20240501		c71d725da82989189305909c638007419e25d2aa
 org.anyline	anyline-amap	8.7.2-jdk17-20240505		e046f2b6e56dc598f26cd676a9bcc96604ec918e
 org.anyline	anyline-amap	8.7.2-jdk17-20240506		984a7eedfc27f41abfcd9e8c40a60db518218d56
@@ -1617,6 +1622,9 @@ org.anyline	anyline-amap	8.7.2-jdk17-20250109		accf50726cc1451a9edd6911cde497d63
 org.anyline	anyline-amap	8.7.2-jdk17-20250212		0e02efd06b38fa9c7e632e40558f41e80dd85a40
 org.anyline	anyline-amap	8.7.2-jdk17-20250312		f6154081b5a1638b79c49365458352d4e04c1354
 org.anyline	anyline-amap	8.7.2-jdk17-20250404		9bf72875bcd3599db441ed779df98500090a7a60
+org.anyline	anyline-amap	8.7.2-jdk17-20250502		5384595ed0b847b538b8ff52261b62db5bbcd5b0
+org.anyline	anyline-amap	8.7.2-jdk17-20250509		60e568ca8adaa0173bdd24d8ccfa3e5f131ddfba
+org.anyline	anyline-amap	8.7.2-jdk17-20250515		6c8eeea0d79fd072e289b027b80ebe98bf19c5d6
 org.anyline	anyline-amap	8.7.2-jdk21-20240501		b6f500f46488215fd7fd125ce06b632c89032488
 org.anyline	anyline-amap	8.7.2-jdk21-20240505		0db6bf74735024f3fafd3d54e8f585448f28e65e
 org.anyline	anyline-amap	8.7.2-jdk21-20240506		90d5fe6e555ca6e36437b865f5c54de48caa9d8b
@@ -1691,6 +1699,9 @@ org.anyline	anyline-amap	8.7.2-jdk21-20250212		8b7a05083175695f3e8cb3b4e2df39efa
 org.anyline	anyline-amap	8.7.2-jdk21-20250225		b1787097db1a6c999e65ccaea981608fa13d8d18
 org.anyline	anyline-amap	8.7.2-jdk21-20250312		724ebd492085cee65a4602fc126ef0e3d5151adb
 org.anyline	anyline-amap	8.7.2-jdk21-20250404		3f11222ee05c2500627fecc7dcf0d88fdfdac8f0
+org.anyline	anyline-amap	8.7.2-jdk21-20250502		a33d7ddc2ebeec9dd54a74ef9a34affb7b2a02ef
+org.anyline	anyline-amap	8.7.2-jdk21-20250509		296819d216a70451ac008217632b472bed8aad86
+org.anyline	anyline-amap	8.7.2-jdk21-20250515		5d69370834b4ad44279f5175105bd7ddacad0e6b
 org.apache.geronimo.modules	geronimo-clustering-builder-wadi	1.2-beta		24284729ace046f9b7246ab0971445a799e5c5e3
 org.apache.rave	rave-jpa	0.14		2624219412a17ed9aefebb73a8f164705b9d81c5
 org.apache.rave	rave-jpa	0.15		08729765acadd45ebdaf37937b8ecbc6975439b5
@@ -1772,6 +1783,7 @@ org.eclipse.jnosql.mapping	jnosql-mapping-reflection	1.1.3		5d835cf6bfbfacad6633
 org.eclipse.jnosql.mapping	jnosql-mapping-reflection	1.1.4		2c02628f646cb8725e3aa45855b92cb693e0fbcb
 org.eclipse.jnosql.mapping	jnosql-mapping-reflection	1.1.5		2101df4adffb15d03f7e67c8ab8a933d0268a22e
 org.eclipse.jnosql.mapping	jnosql-mapping-reflection	1.1.6		9161be5422859bab6161c403db598886eeb2668b
+org.eclipse.jnosql.mapping	jnosql-mapping-reflection	1.1.7		a2a8307cca0321fcff96db0614841d473c228dcc
 org.enodeframework	enode-tcp	1.1.10		ef770a6210a3d91232b56aee05c462e470bcd10f
 org.enodeframework	enode-tcp	1.1.8		aaa6a38ce9ed0283f74fd94e80554b5d64d3427e
 org.enodeframework	enode-tcp	1.1.9		02c7c4cb6af36de5a317a283ed37b74d54fbf03b
@@ -2208,4 +2220,8 @@ tz.co.asoft	nation-currencies-iosx64	3.0.14		N/A
 tz.co.asoft	nation-currencies-iosx64	3.0.14	metadata	73a4e7e62f80da2dccb5145246effcd508470423
 tz.co.asoft	nation-currencies-iosx64	3.0.15		N/A
 tz.co.asoft	nation-currencies-iosx64	3.0.15	metadata	133f9f795fa23c46519530b86b43f090f75efeb8
+tz.co.asoft	nation-currencies-iosx64	3.1.0	metadata	7b5dd08e560f70a1ac2309fa1c679a002170c362
+tz.co.asoft	nation-currencies-iosx64	3.1.1	metadata	b3d7d7967cc6ca9508cd6d2d18b3a799018fee4f
+tz.co.asoft	nation-currencies-iosx64	3.1.11	metadata	87dc588f4d9752a495ce34d807223ad20f33851c
+tz.co.asoft	nation-currencies-iosx64	3.1.12	metadata	06d82d36845791ad6410628d5681e22d38b30bc7
 ua.org.sands	sugar-tms_2.12	0.2.4		5ed64468e25dcdc93fc0e95c2abf3bd50de9d475

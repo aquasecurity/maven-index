@@ -338,6 +338,8 @@ com.playtika.testcontainers	embedded-mariadb	3.1.0		671c079aaeaa3993404d818bea22
 com.playtika.testcontainers	embedded-mariadb	3.1.1		c82dbd8bd84edbf1e9bf85571586780aa9695250
 com.playtika.testcontainers	embedded-mariadb	3.1.10		49a44e82089be978ecd207f1f1c6b9003e36b9e9
 com.playtika.testcontainers	embedded-mariadb	3.1.11		ba418fea1b76d70104f5a96dd28d9a4de144df8c
+com.playtika.testcontainers	embedded-mariadb	3.1.12		b0cbb765e20dc52a470e82cd1a27ed8022a40370
+com.playtika.testcontainers	embedded-mariadb	3.1.13		192c4bd91de3aa5cc7857c87dd879a1ba51bb0cd
 com.playtika.testcontainers	embedded-mariadb	3.1.2		14e51f264d53a4ad6e39ddf8d590a291769d0d4a
 com.playtika.testcontainers	embedded-mariadb	3.1.3		f3b179a91e54a0514d59bcd804f0233bd21951c0
 com.playtika.testcontainers	embedded-mariadb	3.1.4		7ee4707f7eed2c5e884a47995670dac6085c1426
@@ -473,6 +475,7 @@ io.camunda	camunda-security-core	8.8.0-alpha2		98d79fb9ec3b1d106cc24c44a8113217a
 io.camunda	camunda-security-core	8.8.0-alpha2-rc1		893feb1ad8e9f4dfcbe49cfed3bc3d1eac46c34f
 io.camunda	camunda-security-core	8.8.0-alpha3		391b8e855a3885d9b6c648a731426004d626c043
 io.camunda	camunda-security-core	8.8.0-alpha3-rc3		f1cedb3e906bd40302b4dc35ea261a6b85123cbe
+io.camunda	camunda-security-core	8.8.0-alpha4		54391f824d178d96da582ba4b16aac8083a9ec87
 io.camunda	camunda-security-core	8.8.0-alpha4-rc1		4d68c08c6010789f46800008f0ce4ccb0100aca6
 io.enoa	enoa-template-enjoy	1.6-beta.2		4de811ded5322e80f5eb1ffc7dd0e19115c3f77c
 io.enoa	enoa-template-enjoy	1.7.0-beta		ea2a751e9ee35be877375ebc4c21f9218f70947a
@@ -489,6 +492,7 @@ io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosarm64	0.2.2		N
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosarm64	0.2.2	metadata	90c5d2e00d0c9a3134d494e760b920ac2efdb67b
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosarm64	0.2.3		N/A
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosarm64	0.2.3	metadata	f404f67e2c102a63dd3c7eacbde02498ff84d7ac
+io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosarm64	0.2.4	metadata	86793a67b161b780e41817090703ef2410050a86
 io.github.ncc0706	oss-client	0.0.1		fbb8f2e409b23731fa491df2fc70c47b32dfb40e
 io.github.pandulapeter.beagle	ui-dialog	2.8.0		N/A
 io.github.pandulapeter.beagle	ui-dialog	2.8.1		N/A
@@ -718,6 +722,7 @@ org.apache.camel.springboot	camel-sjms-starter	4.8.3		e2c87adffaae386c3b731a8d71
 org.apache.camel.springboot	camel-sjms-starter	4.8.4		e6a5839f37631d4f8ec867a65dcc17faf77b846b
 org.apache.camel.springboot	camel-sjms-starter	4.8.5		557b9675cc1ca432aa9dda69b63d659ffeaff815
 org.apache.camel.springboot	camel-sjms-starter	4.8.6		8909f63bed01238d338393afec3b3feff1a5fee0
+org.apache.camel.springboot	camel-sjms-starter	4.8.7		8676e0c8b4624af29dd7525e73c44e09610a1f3a
 org.apache.camel.springboot	camel-sjms-starter	4.9.0		6ce4df8f868ef613c001c3b4c76d363fa089d504
 org.apache.directory.server	apacheds-interceptors-event	2.0.0-M10		6ac770d3d0e79880865c5cd4b3621529d1e90d90
 org.apache.directory.server	apacheds-interceptors-event	2.0.0-M11		803881f0336412747c4e321c46d736631201ca86
@@ -1019,10 +1024,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functio
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.80.0		2ba87bb2cacbb837cd64dca83f6b4e7907d939fc
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.81.0		e1646356b1632e2f7715c1880aa690d585ea67b4
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.82.0		28af051078d2266206ca5e7aad1b521c7318144e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.82.1		94bc00af7e4e8e2a45daac05ec405a668d12c2dd
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.83.0		2c4e90397eb1e166df65096a637aefbcf6b9d82e
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.83.1		1e7e11f95bc5d48a6b6c03d115a93a0b9dc4bf21
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.83.2		4a22cef5b72e5e5016d4dc7072375dffdb5be7b4
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.83.3		1b1aa5ef533365d9f7470d6e5770212343b494c8
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.84.0		a67c516e8fae1c6fa851db7be50b504112a1de8e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.84.1		fc32ac6d6ef6114c65048505b44b29b8ec5d101c
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.85.0		d67597976c674ba4187332a4c9582531507193a3
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.85.1		af6ba48c003825eaffb6ad2ed1f97999a27963f1
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.85.2		d9a236022861a784340786737b1d262925bbca7d
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-planExecution	4.85.3		b6845f75ca6449ef73aaa32494f0e54c35a0fe53
 org.geomajas.plugin	geomajas-client-gwt2-plugin-wms-example-jar	2.0.0-M1		55ae859f43fd12a6e4ec6729f2ea1af18cccb54a
 org.geomajas.plugin	geomajas-client-gwt2-plugin-wms-example-jar	2.1.0-M2		da56a2013c071668b317c7db9993a6f17a949dd5
 org.geomajas.plugin	geomajas-client-gwt2-plugin-wms-example-jar	2.1.0-M3		1913a3061f7e701c28f7d1204d7b0db38a2ada38

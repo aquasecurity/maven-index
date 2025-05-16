@@ -54,6 +54,7 @@ ch.exense.step	step-automation-packages-junit-model	3.26.5-customized-j		6188d50
 ch.exense.step	step-automation-packages-junit-model	3.27.0		08d6fada77f7c0afe960043cf064ce7db2acdf44
 ch.exense.step	step-automation-packages-junit-model	3.27.1		baf2b1a7e9c7a54d1ea999f68219d945b11876c3
 ch.exense.step	step-automation-packages-junit-model	3.27.2		5a5578dd366c817869db1ee5788d0628feff8712
+ch.exense.step	step-automation-packages-junit-model	3.27.3		095393fd9fe7679af703429820b4a7382da15213
 cn.fntop	sms-core-spring-boot-starter	1.0		14db1bfe69356a88cfd928893913e7f24fe940d5
 cn.fntop	sms-core-spring-boot-starter	1.1		b0afd8b17857ddfe2dcf5dee7af316b4cfbd00d0
 cn.fntop	sms-core-spring-boot-starter	2.0.0		e3982e68c847e512c14d362d2b636911b659e516
@@ -663,6 +664,8 @@ com.oracle.oci.sdk	oci-java-sdk-certificates	3.63.0		aa4a393eb73637cf5db304c51ce
 com.oracle.oci.sdk	oci-java-sdk-certificates	3.63.1		27db3c774569aadd74739858e367d728d9f47166
 com.oracle.oci.sdk	oci-java-sdk-certificates	3.63.2		c6e4407faab45110db9b9cab4aeda6674a9a427d
 com.oracle.oci.sdk	oci-java-sdk-certificates	3.63.3		88b73fc330aa0886c755da2d00b6a2db351c9601
+com.oracle.oci.sdk	oci-java-sdk-certificates	3.64.0		4c68aa05de24b4d16c408220742fe63ea410cda4
+com.oracle.oci.sdk	oci-java-sdk-certificates	3.65.0		e47962887ebe894713f0f96414574349d30ecf0d
 com.oracle.oci.sdk	oci-java-sdk-certificates	3.7.0		d38d5834f247b531c63408dd163651e00c095bd3
 com.oracle.oci.sdk	oci-java-sdk-certificates	3.8.0		64657c9a045e29203ad8d43adabbaa7106e78245
 com.oracle.oci.sdk	oci-java-sdk-certificates	3.9.0		d2aefd755cc47fe17aa1834ed1f7c0c6f84c4715
@@ -1411,6 +1414,7 @@ org.bridgedb	org.bridgedb.rdb	3.1.4-java8-2		3e43a1721007e843dc27cc18e1ff4c38ca7
 org.camunda.bpm.assert	camunda-bpm-assert-cmmn-examples	3.0.0-alpha1		a46ef3c9376a8ce99027bc79470f564ea9414c53
 org.codehaus.sonar	sonar-blueprints-test	2.2.0-java5		8aa6cea1b2a76f2084a2477a14520145b330a3e8
 org.eclipse.apoapsis.ortserver.shared.ktor-utils	ktor-utils	0.4.0		f38f710c89ba7252124c1d651dbe5c99007402b3
+org.eclipse.apoapsis.ortserver.shared.ktor-utils	ktor-utils	0.5.0		8f0d0f620bd53dfe3eae2447f96ad7dbf84b86ce
 org.eclipse.dirigible	dirigible-components-ide-ui-about	10.0.0		27329e8d381d617f0debe5a545117028f452e97f
 org.eclipse.dirigible	dirigible-components-ide-ui-about	10.0.1		635325c0ae2759bf01c2b9cdac78fca06419b0fc
 org.eclipse.dirigible	dirigible-components-ide-ui-about	10.0.2		3b83a8e601bcb2a602c3b2506330d591c12bed2d
@@ -1539,6 +1543,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-about	11.41.1		57e0e2bf4c82884
 org.eclipse.dirigible	dirigible-components-ide-ui-about	11.42.0		56db1f19a84892582992977d66e4263073aa4556
 org.eclipse.dirigible	dirigible-components-ide-ui-about	11.43.0		f84f0fb95a220fbbe3d4c0646ab13170258a79f1
 org.eclipse.dirigible	dirigible-components-ide-ui-about	11.44.0		cad027dbaf681fd2361b0b1927be1549ceaf7d94
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.0		75cdcc21e17415c7ab389f213cf88fcc6acace33
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.1		29684d966615bb17ddd33527a0072a5894f13005
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.10		61125d318f9fa1666aec167428f7ebbc8ed5e2bb
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.11		f6f451f181821fd83f053df543e1ff3e79f93a8f
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.12		f445eeb17f39055496034d812995e0d7634e465b
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.13		10eecbcb9bb37b47f024a9a67a39ec1873dc4dad
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.3		2128c73144554f2654280f215451908acab20ff8
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.4		e3945334e60a05bfa7020a368aea8cbf2a40d2b5
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.5		4ab194392499a64347a061c764ba383f53d7bb4b
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.6		568cdd1d1edbb7e788a8a5d9a46d839c59156caf
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.7		831630cb06d7feacdfe83b3f4e7912833deb32e7
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.8		77dd3336474b28875311e4b033e6c21c381fc3b2
+org.eclipse.dirigible	dirigible-components-ide-ui-about	11.45.9		0ae2ee001345d6756252ce643489cce96075b19e
 org.eclipse.dirigible	dirigible-components-ide-ui-about	11.5.0		6c55a618277c685bce993cf28447c81e73b78dbd
 org.eclipse.dirigible	dirigible-components-ide-ui-about	11.6.0		084107ade70b8d2b851872e58c145693dbddc3af
 org.eclipse.dirigible	dirigible-components-ide-ui-about	11.6.1		5f0cbef6e55c279e4f99b8d8e66c1af66a68d185
@@ -1647,6 +1664,8 @@ org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.17		f6836b
 org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.18		ad7ee863900a8876461229e6b5d9d1503bf5517e
 org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.19		8d834eab413d6461df535a7f2a5c86d5379625bd
 org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.2		fe39b24309b11096ec284ca6469e8206ba2f0be5
+org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.20		e096728e136fac6eb3bc516a5e83d2548c6f6e38
+org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.21		8f73fb87ce89622494a2d62153f2c3dce5426a5f
 org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.3		3d0f94a1be0c7379afd9a44390bd0303def9ae33
 org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.4		41fb7447c7fe46cf1c923001d34c236b373171b5
 org.eclipse.jetty.ee9.websocket	jetty-ee9-websocket-jetty-server	12.0.5		a383535d0f8a793cfcfa46b7be02db19a7f637dc
@@ -1889,6 +1908,7 @@ org.wildfly.security	wildfly-elytron-sasl	2.1.0.Final		7125863b66c07448096917ed1
 org.wildfly.security	wildfly-elytron-sasl	2.2.0.Final		f859a2d3e064c3e432906f3bcc804ba824750ec8
 org.wildfly.security	wildfly-elytron-sasl	2.2.1.Final		ea1092d4963c8f6e03a47bd29e94808349684d4a
 org.wildfly.security	wildfly-elytron-sasl	2.2.10.Final		2110e1fec0c852348727e5108d2185611b773af7
+org.wildfly.security	wildfly-elytron-sasl	2.2.11.Final		f669b1106a2718a7202b79cbe04e1dc8ae39685e
 org.wildfly.security	wildfly-elytron-sasl	2.2.2.Final		5831a3af2698291c7943b176f8a28ba80b1baa54
 org.wildfly.security	wildfly-elytron-sasl	2.2.3.Final		1d5f29b5b13fc6cd0b2f8d68adc65c6ec4b7707f
 org.wildfly.security	wildfly-elytron-sasl	2.2.4.Final		ad43eed21b353aedb7bed9d9020602de9af84b07
@@ -1911,6 +1931,7 @@ org.wildfly.security	wildfly-elytron-sasl	2.6.0.Final		eb859024d6f7a7b77bf4f4389
 org.wildfly.security	wildfly-elytron-sasl	2.6.1.Final		e96808afd22932869031346fca6afdd58e33cf63
 org.wildfly.security	wildfly-elytron-sasl	2.6.2.Final		33e25d483b0a992436362f70c5fc573568df3123
 org.wildfly.security	wildfly-elytron-sasl	2.6.3.Final		4779aa4652c2f23c9fbc54080157f5c3c129d230
+org.wildfly.security	wildfly-elytron-sasl	2.6.4.Final		141d2a990bffd821e661b0fa56017f709820293f
 pro.juxt.crux	crux-kafka-embedded	1.17.1		31ab516c1144872ba024c126c78a94d208d94b8b
 pro.juxt.crux	crux-kafka-embedded	1.17.1-rc1		c3cb497ba4718a555003c2bb2cc053f15d5d1c2a
 pro.juxt.crux	crux-kafka-embedded	1.18.0		970895c41ac6dfd42e44e9bf2a74b661f6dcc1cf

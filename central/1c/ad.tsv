@@ -496,6 +496,7 @@ ch.epfl.scala	bloop-native-bridge-0-4_2.12	1.6.0		1eee1a40bf27446de8b6c93b1c3b06
 ch.epfl.scala	bloop-native-bridge-0-4_2.12	2.0.0		1768a66de711333e9b42ea5a0230c5cc324b9c84
 ch.epfl.scala	bloop-native-bridge-0-4_2.12	2.0.0-RC1		5f04b3de443fa47d6558993d1071b8ff109c03ef
 ch.epfl.scala	bloop-native-bridge-0-4_2.12	2.0.1		e38c43f866f0c904807cf1a5f1be91b9f0493a97
+ch.epfl.scala	bloop-native-bridge-0-4_2.12	2.0.10		08e812ccbb551df0dd09c38a4688771e3d2288a3
 ch.epfl.scala	bloop-native-bridge-0-4_2.12	2.0.2		7cd5776b67b88b7f03082d01b841da4f177deab9
 ch.epfl.scala	bloop-native-bridge-0-4_2.12	2.0.3		9fa5c4ec0cb0280f29e60e148bce462eaa63e5d7
 ch.epfl.scala	bloop-native-bridge-0-4_2.12	2.0.4		340773433b2d2fb4878f6bcf72a0835a8d4e643f
@@ -644,6 +645,8 @@ com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.58.0		68cc22ddeba
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.59.0		0f9ed40fb1d952e5f8a959d461e6d2095b6b7693
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.6.0		c08ec736ab04c5917f95f5bead492a67f76dd1cf
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.60.0		cfdabec6a9624a116f95486899bb8b4a5252f73d
+com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.61.0		64b0ae3f60208804350fc39c5b45c6e3c1d79d87
+com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.62.0		b1df76ad4810756cf91d00c20ea23bd0c2f15b1a
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.7.0		89a5c72110a950b0ad4b9b3d423fa387081d7f58
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.8.0		df00bdca76f207984ab21e92812f80cdd5c2d2eb
 com.google.api.grpc	grpc-google-cloud-networkconnectivity-v1	1.9.0		d14a07e4621778044267ccf3f354d4ab33999d14
@@ -815,6 +818,9 @@ com.liferay	com.liferay.portal.workflow.taglib	2.0.32	taglibdoc	06fc35bba8d1ffec
 com.liferay	com.liferay.portal.workflow.taglib	2.0.33		236b47125e9d19eb39374cef96f19aa2dfda7411
 com.liferay	com.liferay.portal.workflow.taglib	2.0.33	jspc	47a7d135cb3522902157d59225ce2876fb2099d4
 com.liferay	com.liferay.portal.workflow.taglib	2.0.33	taglibdoc	25c1290614a48618ef522d6bdb179ef5f2fbea70
+com.liferay	com.liferay.portal.workflow.taglib	2.0.34		a59955d3e9c407a30fd83dda1d530d62cc2581fe
+com.liferay	com.liferay.portal.workflow.taglib	2.0.34	jspc	1890aa65e77a0770527fb616a4a452a5adbd3bc2
+com.liferay	com.liferay.portal.workflow.taglib	2.0.34	taglibdoc	7c1764dab0b71bbfca6e47b1842f85f54bf91a0d
 com.liferay	com.liferay.portal.workflow.taglib	2.0.4		f9db1b14a44f71ba7d13e8de6a0bf9eef9f0e046
 com.liferay	com.liferay.portal.workflow.taglib	2.0.4	jspc	e6906b19733ad26f35b8829c87f015c451226a79
 com.liferay	com.liferay.portal.workflow.taglib	2.0.4	taglibdoc	20662af9538783dc1c815a577b058a05b6bf6cda
@@ -1515,28 +1521,45 @@ org.opendaylight.honeycomb.vbd	vbd-features4	1.1.4-Carbon		N/A
 org.scalatest	scalatest-app_2.13.0-RC3	3.0.8-RC5		d1d10e5b40c21cc8ce112269b3b0c30a63944c95
 org.scalatest	scalatest-app_2.13.0-RC3	3.1.0-SNAP12		94549182c1042fa1888d6b10efc7c846aabf7753
 org.sosy-lab	javasmt-solver-z3	4.10.1		N/A
+org.sosy-lab	javasmt-solver-z3	4.10.1	com.microsoft.z3	67234230525e333a98a9fde714b182af692949ba
 org.sosy-lab	javasmt-solver-z3	4.11.2		N/A
+org.sosy-lab	javasmt-solver-z3	4.11.2	com.microsoft.z3	9a61097cef7c5c6f83cc8ec04a5a8122f9c8f4a7
 org.sosy-lab	javasmt-solver-z3	4.12.1		N/A
+org.sosy-lab	javasmt-solver-z3	4.12.1	com.microsoft.z3	b02f09a1dc5f37e9835c16644a0776f8cad20e01
 org.sosy-lab	javasmt-solver-z3	4.12.1-glibc_2.27		N/A
+org.sosy-lab	javasmt-solver-z3	4.12.1-glibc_2.27	com.microsoft.z3	29fcadf92eee32bbb4ff3b893b55a6a6d2bb0c92
 org.sosy-lab	javasmt-solver-z3	4.12.2		N/A
+org.sosy-lab	javasmt-solver-z3	4.12.2	com.microsoft.z3	c4772df321ac74b6567bebe517fb44b49c78d45c
 org.sosy-lab	javasmt-solver-z3	4.12.2-glibc_2.27		N/A
+org.sosy-lab	javasmt-solver-z3	4.12.2-glibc_2.27	com.microsoft.z3	669fbea7467b521f1581f11602ba71b6d24e1854
 org.sosy-lab	javasmt-solver-z3	4.12.4		N/A
+org.sosy-lab	javasmt-solver-z3	4.12.4	com.microsoft.z3	60cc545217c44a4c6d8ef20314767abc8d462584
 org.sosy-lab	javasmt-solver-z3	4.12.5		N/A
+org.sosy-lab	javasmt-solver-z3	4.12.5	com.microsoft.z3	9f90e6a3e13c088aa57b2fc9c8cfd4f15c4c2ca8
 org.sosy-lab	javasmt-solver-z3	4.13.0		ff9c37200d0b32819398659a24c2f6807cb4962c
 org.sosy-lab	javasmt-solver-z3	4.13.2		6312c15bf312a56f52f4be33952baa3f29205151
 org.sosy-lab	javasmt-solver-z3	4.13.3		329355fb857c860249d943b0660dca8f215dd859
 org.sosy-lab	javasmt-solver-z3	4.13.4		db4aabf5a8abce707d5845b8b43d4ef92387ae9e
 org.sosy-lab	javasmt-solver-z3	4.14.0		be99b8a19e189e9fdb5923fa1e243e7affb0fe44
 org.sosy-lab	javasmt-solver-z3	4.8.10		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.10	com.microsoft.z3	dc7ebfa774c7329f86c2e35089ddac2e73527553
 org.sosy-lab	javasmt-solver-z3	4.8.11		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.11	com.microsoft.z3	727f4fa7e4f5d050bcab17b2aba8b4dbb5c5fc44
 org.sosy-lab	javasmt-solver-z3	4.8.12		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.12	com.microsoft.z3	486d82d2c18a53fe9c91a20aed3d8ae287ce6116
 org.sosy-lab	javasmt-solver-z3	4.8.13		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.13	com.microsoft.z3	26322b2d42801d7b9a23d92bb2d7e023e44a095c
 org.sosy-lab	javasmt-solver-z3	4.8.14		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.14	com.microsoft.z3	f243d0d764e3a6a1bbf9b99701701536e0bec617
 org.sosy-lab	javasmt-solver-z3	4.8.15		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.15	com.microsoft.z3	4f8659d829c36cd91d3e38afad8fcf1a1b8e5990
 org.sosy-lab	javasmt-solver-z3	4.8.16		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.16	com.microsoft.z3	e259906411124db36aee3d5e1d74c19a144c470c
 org.sosy-lab	javasmt-solver-z3	4.8.17		N/A
+org.sosy-lab	javasmt-solver-z3	4.8.17	com.microsoft.z3	c51f9dfbace2941984b3233fe6f9d0cdcabbfd6a
 org.sosy-lab	javasmt-solver-z3	4.8.9-sosy1		434cf21d7f631c7ea730b9d826c3593ddba50723
 org.sosy-lab	javasmt-solver-z3	4.9.1		N/A
+org.sosy-lab	javasmt-solver-z3	4.9.1	com.microsoft.z3	3a484b55c7f6cbd6147fbe54c6c8e90c98a32631
 org.sosy-lab	javasmt-solver-z3	z3-4.4.1-1558-gf96cfea		6b79404fc59c9fcdf6f1820690795bad2fb789b4
 org.sosy-lab	javasmt-solver-z3	z3-4.4.1-788-g8df145d		N/A
 org.sosy-lab	javasmt-solver-z3	z3-4.4.1-863-g96f6bf7-2		N/A
@@ -2863,7 +2886,18 @@ software.amazon.awssdk	ivschat	2.31.30		cc6c3f36b75831266b468ddbd986a596292a57cf
 software.amazon.awssdk	ivschat	2.31.31		4e38f3f0f5e5cd3ee7882536a74778fc24dcf379
 software.amazon.awssdk	ivschat	2.31.32		59802e6b28dec2db102ab5614c844699d4da2b25
 software.amazon.awssdk	ivschat	2.31.33		2d61c1d125c38c0645aff137f88de07dbd15b10e
+software.amazon.awssdk	ivschat	2.31.34		f54b5d0a61f3672afa4467a7e6bb120b086c30a9
+software.amazon.awssdk	ivschat	2.31.35		81da9dd9cf7a404808d15cca40e423710c518861
+software.amazon.awssdk	ivschat	2.31.36		80e6d8756e0a7ab78f2e98632647e62320891168
+software.amazon.awssdk	ivschat	2.31.37		373c6999d751a9e55472973e84cb4d98f6a45748
+software.amazon.awssdk	ivschat	2.31.38		6b9ea863ac8dc36ad72104470bb3b9785af1ce3e
+software.amazon.awssdk	ivschat	2.31.39		bb1736db4a6964c81e8e4b6afc7b4ee771efe22f
 software.amazon.awssdk	ivschat	2.31.4		a520f8f5608075cd77ffc2ab073f9be11ef78253
+software.amazon.awssdk	ivschat	2.31.40		8779364ff18a124a7f0bb619b94a21355c6587be
+software.amazon.awssdk	ivschat	2.31.41		a48743900fb6d27b6780bc64362ceb6b09ac057f
+software.amazon.awssdk	ivschat	2.31.42		f2cd7813f141c7e2cbd37b9a534caaebd4ff2e43
+software.amazon.awssdk	ivschat	2.31.43		e797d3d6403e6244204c9f393efd05dede089e78
+software.amazon.awssdk	ivschat	2.31.44		41e271178a6e8ca5ba21e70a967cefd79c3ace7e
 software.amazon.awssdk	ivschat	2.31.5		80dd647ba91c97f933ef670a4c93f9c8e8214c6a
 software.amazon.awssdk	ivschat	2.31.6		54bb6b068f2556ccc6ef88a851a37143cb06dbc7
 software.amazon.awssdk	ivschat	2.31.7		4c9873491cd1e0bb297bae87e60081cdfed5a95c

@@ -82,6 +82,7 @@ com.commercetools.sdk.jvm.scala-add-ons	commercetools-scala-models_2.10	1.0.0		8
 com.commercetools.sdk.jvm.scala-add-ons	commercetools-scala-models_2.10	1.0.0-RC1		9cfe7528cf275102904fc2b1db5799f1a33780b2
 com.commercetools.sdk.jvm.scala-add-ons	commercetools-scala-models_2.10	1.0.0-RC2		215cf3bcb622bfe6d509ecba6ba1458c08fd0c09
 com.commercetools.sdk.jvm.scala-add-ons	commercetools-scala-models_2.10	1.0.0-RC3		786469ae5d3ab6b027ed3ca47eaf23b7143150ff
+com.eed3si9n	sbt-assembly_2.9.1_0.11.0-RC0	0.6		309c6ec8a50c2ea199bd47b5f24e092fa1e3f84c
 com.getansa	kmp-logging-impl-android	0.0.5		N/A
 com.getansa	kmp-logging-impl-android	0.0.6		N/A
 com.getansa	kmp-logging-impl-android	0.0.7		N/A
@@ -188,6 +189,7 @@ com.google.cloud	google-cloud-texttospeech-spring-starter	4.10.6-preview		ebbbd4
 com.google.cloud	google-cloud-texttospeech-spring-starter	4.10.7-preview		0636bff64e3329382af66b74b7e17977c30517a5
 com.google.cloud	google-cloud-texttospeech-spring-starter	4.10.8-preview		bd66a3691bcce55d177105482b71859c35521f68
 com.google.cloud	google-cloud-texttospeech-spring-starter	4.10.9-preview		803494b65e5cbb782223dcbcffcb3477949877a8
+com.google.cloud	google-cloud-texttospeech-spring-starter	4.11.0-preview		d2720c279ffe968ea5a1dbf26e21cdba4019f770
 com.google.cloud	google-cloud-texttospeech-spring-starter	4.2.0-preview		f035cd434042bcdc85cede4def945c2daf7f4916
 com.google.cloud	google-cloud-texttospeech-spring-starter	4.3.0-preview		dc65b415ccb5dc9feae019684f78fe5edf12cfa4
 com.google.cloud	google-cloud-texttospeech-spring-starter	4.3.1-preview		a3f1ae06add3c45e75d9f65a0f2ca29b9bea0cb6
@@ -219,6 +221,7 @@ com.google.cloud	google-cloud-texttospeech-spring-starter	5.11.0-preview		31bb1f
 com.google.cloud	google-cloud-texttospeech-spring-starter	5.11.1-preview		2149957fbff41c5f02ca06a552b48f350add9601
 com.google.cloud	google-cloud-texttospeech-spring-starter	5.11.2-preview		6f5e22a3f9bef0a1340ef35b4d543c758459ac25
 com.google.cloud	google-cloud-texttospeech-spring-starter	5.11.3-preview		3aae3149fef77fe7d46cbbc27369ecfe3a2d646e
+com.google.cloud	google-cloud-texttospeech-spring-starter	5.12.0-preview		2d11bc08b147557bfb71874221073929cc3fb4ec
 com.google.cloud	google-cloud-texttospeech-spring-starter	5.2.0-preview		602a7547cbc5d215c3ac5665095ccba2639da4e3
 com.google.cloud	google-cloud-texttospeech-spring-starter	5.2.1-preview		9cdcd4b00eaa5314d3a7edf369742d066171a758
 com.google.cloud	google-cloud-texttospeech-spring-starter	5.3.0-preview		51f1248fb99e28424ee082ac1bc29dcd6f5984e8
@@ -353,6 +356,7 @@ dev.zio	zio-aws-trustedadvisor_3	7.31.27.1		681da3342042841dac1ede3521aa6250aaa2
 dev.zio	zio-aws-trustedadvisor_3	7.31.28.1		37e97a647cf51a55141fa9dc2f87aca5a27b971a
 dev.zio	zio-aws-trustedadvisor_3	7.31.3.1		10b87438340a8a5f10681a8c521e886865c00a12
 dev.zio	zio-aws-trustedadvisor_3	7.31.30.1		6074a7a6c5376294da629377130e8bd66b9988d1
+dev.zio	zio-aws-trustedadvisor_3	7.31.30.2		21dfd8a69bfa6949c723667ddf8c6673afde75de
 dev.zio	zio-aws-trustedadvisor_3	7.31.4.1		0faf05bae75393a4036e077f8169340e532899e6
 dev.zio	zio-aws-trustedadvisor_3	7.31.6.1		f29b32e18193a250c399eabe39df3d8fca792f65
 dev.zio	zio-aws-trustedadvisor_3	7.31.6.2		f79ef8ff66b67c43e810644b9fab678e50dd1871
@@ -611,6 +615,7 @@ io.quarkus	quarkus-websockets	3.15.2		793ab338a79ec51f2d11da74637f7bdd23948bd3
 io.quarkus	quarkus-websockets	3.15.3		9ac918a04194fd3c71ec2747ce2c99508eb901f4
 io.quarkus	quarkus-websockets	3.15.3.1		7ae4c2ef99fd504f819b589e7663af3ff9164d07
 io.quarkus	quarkus-websockets	3.15.4		ec93e9748113b8a1f450b6131ebddcee07fb26b5
+io.quarkus	quarkus-websockets	3.15.5		6ee793ff472d5fea2229d969960e58a2db3810f5
 io.quarkus	quarkus-websockets	3.16.0		5d10d1dc65a742bb11f65dbde44a01cbce9aa5a1
 io.quarkus	quarkus-websockets	3.16.0.CR1		bc4177be9f3b4c3f3cd60f8af9053f2fb69b5cf7
 io.quarkus	quarkus-websockets	3.16.1		721407331d527fb5a52bb0273104ca24f40bac43
@@ -655,6 +660,7 @@ io.quarkus	quarkus-websockets	3.2.8.Final		8deb12221480453132a3d3aaceb002c3b7775
 io.quarkus	quarkus-websockets	3.2.9.Final		8c0f00103a762fb2cc96bc1f344b4ee3e1c1c8d0
 io.quarkus	quarkus-websockets	3.20.0		511c92ac5bd8dc00572ad994c857fc1b7e810612
 io.quarkus	quarkus-websockets	3.20.0.CR1		147a6c2dbb283b67192d2def89c103a21c9239b8
+io.quarkus	quarkus-websockets	3.20.1		3991570160df9b19268d7f25020d5da26a1ecc73
 io.quarkus	quarkus-websockets	3.21.0		165d4b5c343e4875a64471d37c56a8f60dd32d88
 io.quarkus	quarkus-websockets	3.21.0.CR1		4af3e4c1a8759b0cf50a409fca81481dc20b18a2
 io.quarkus	quarkus-websockets	3.21.1		6571a276e2a689ff7d8d01cdcff2f078d713126f
@@ -664,6 +670,9 @@ io.quarkus	quarkus-websockets	3.21.4		bbdfa2ba5e4a0eb83ada8a3a30cceb26e6563d9c
 io.quarkus	quarkus-websockets	3.22.0		f7b6ae8cc8017f2b36b5fa1d939f89e4b5a98c32
 io.quarkus	quarkus-websockets	3.22.0.CR1		ea419338688bf09693a274762edcf30884dd7ea3
 io.quarkus	quarkus-websockets	3.22.1		789a89b4e57d3ccfd10cf5d2a810032abbb8736c
+io.quarkus	quarkus-websockets	3.22.2		fafcecb05721770f2062a43146e199968852536c
+io.quarkus	quarkus-websockets	3.22.3		45e6eb4a8e20c950cd2cb8b24817b8f137bbe63b
+io.quarkus	quarkus-websockets	3.23.0.CR1		0302f8aa89c86bffdf27ca78be5e7a02605de1eb
 io.quarkus	quarkus-websockets	3.3.0		a350b1c1baed3b417c52484b03426db972350954
 io.quarkus	quarkus-websockets	3.3.0.CR1		c071191de5912c47a2677c67f677503939196469
 io.quarkus	quarkus-websockets	3.3.1		1042ca18cbf35dff4c62b539378c8d6c1229b6b6
@@ -1134,6 +1143,7 @@ org.wildfly.clustering	wildfly-clustering-session-cache	4.0.5.Final		edba4f9c294
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.0.Beta1		1c81a10703636d0020738493db173dc3329afb74
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.0.Final		30115374bd66c059f312b7c9f30c11e10d3abe3a
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.1.Final		94d16503d4a3a87d71769e99ee9f71d949097f44
+org.wildfly.clustering	wildfly-clustering-session-cache	5.0.10.Final		79252620ade6cbf7fbd714e40a98bed8ff32792a
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.2.Final		16b77cf966774efd293332da97904d61124fcbea
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.3.Final		7457d36c575894b842bdb71de7418cfce4cde8d1
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.4.Final		192d986f49260dbeca13f18da89c5afe3e87a33e
@@ -1141,6 +1151,7 @@ org.wildfly.clustering	wildfly-clustering-session-cache	5.0.5.Final		35a614dd47c
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.6.Final		940081a27e532ccbfb0bf871a10b847f2f47545f
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.7.Final		5a60ac2d0a0b4e41719aea25b05aa63946d7d76e
 org.wildfly.clustering	wildfly-clustering-session-cache	5.0.8.Final		0a3e62020ad8c68907c55e130ab270736cabdd7b
+org.wildfly.clustering	wildfly-clustering-session-cache	5.0.9.Final		5cc88dd8dcfd71df67dd721c4bfafc8a47731a82
 org.wildfly.clustering	wildfly-clustering-session-cache	6.0.0.Beta1		630b453f92168334a1de1000412aac1788475b84
 org.wildfly.clustering	wildfly-clustering-session-cache	6.0.0.Beta2		04c32bf6160200e8a8578e02665f5000f87151ff
 org.wildfly.clustering	wildfly-clustering-session-cache	6.0.0.Beta3		d80587569f1edd76ceaba2c73b73e55c4cea2ffb
@@ -1148,7 +1159,10 @@ org.wildfly.clustering	wildfly-clustering-session-cache	6.0.0.Final		bd6ac3437ae
 org.wildfly.clustering	wildfly-clustering-session-cache	6.0.1.Final		8c11bbcf1f255b922f9b361be5f4a073836fdf5c
 org.wildfly.clustering	wildfly-clustering-session-cache	6.0.2.Final		e5044dfe5077bfa7aab9fe45f56520dd6b602740
 org.wildfly.clustering	wildfly-clustering-session-cache	6.0.3.Final		5c69408d8b1811671c502d3ba95185af4b2b0ecc
+org.wildfly.clustering	wildfly-clustering-session-cache	6.0.4.Final		f9d10319e74ef9976067247fe488e6e12f532084
 org.wildfly.clustering	wildfly-clustering-session-cache	7.0.0.Beta1		d2d57dd634d2971ecaba4279f39f585d34e7273a
+org.wildfly.clustering	wildfly-clustering-session-cache	7.0.0.Beta2		7abc74475dbb31c639988abda338e338e59cb5ab
+org.wildfly.clustering	wildfly-clustering-session-cache	7.0.0.Final		c07c9ddd76e983d8d7d179f8022c790730ffceee
 org.wso2.carbon.mediation	synapse-features	4.6.100		N/A
 org.wso2.carbon.mediation	synapse-features	4.6.101		N/A
 org.wso2.carbon.mediation	synapse-features	4.6.102		N/A
@@ -1329,6 +1343,7 @@ team.razz.eva	eva-tracing	0.7.4		3535deaed9c5104d0b18906a8a03eb41450f7382
 team.razz.eva	eva-tracing	0.7.5		3535deaed9c5104d0b18906a8a03eb41450f7382
 team.razz.eva	eva-tracing	0.7.6		3535deaed9c5104d0b18906a8a03eb41450f7382
 team.razz.eva	eva-tracing	0.8.0		0fac976aeba430901feacc6ee8db16b3f790ab93
+team.razz.eva	eva-tracing	0.8.1		0fac976aeba430901feacc6ee8db16b3f790ab93
 uk.co.lucasweb	parent-pom	1.0		N/A
 xyz.venture23	publish-java-lab	0.1.1		7ccfa6fb1f771c351ff60799e703f17ed09abdf3
 xyz.venture23	publish-java-lab	0.1.2		0c5b861a0c62e04b473444d401782a705f632259

@@ -47,6 +47,7 @@ com.adobe.aem.commons	assetshare.core.cloud	2.6.6		a706cbb2b498f4aa5534413954d83
 com.adobe.aem.commons	assetshare.core.cloud	3.0.0		81f5d0f73c8c673aa9818a291cd553d3e766f907
 com.adobe.aem.commons	assetshare.core.cloud	3.1.0.0		cf8706c8a39da83b342fe5009c4f41c4923436e7
 com.adobe.aem.commons	assetshare.core.cloud	3.10.0		2a0e0853d2c9cebac2d8c8825b96b801726236ad
+com.adobe.aem.commons	assetshare.core.cloud	3.10.10		a8593ebb1c2d9e05350f067b615a54da6c4c082a
 com.adobe.aem.commons	assetshare.core.cloud	3.10.2		5cc66e25c97bcce65ca988b6cf1f49ad8e1860c6
 com.adobe.aem.commons	assetshare.core.cloud	3.10.4		ae599ae9812c24d13285948351d60cf6713f95da
 com.adobe.aem.commons	assetshare.core.cloud	3.10.6		75723513d2591aaac94b31658dad6bfa086b132d
@@ -987,6 +988,7 @@ dev.zio	zio-aws-notificationscontacts_2.13	7.31.27.1		3234f08a52e883663762e5ae27
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.28.1		3d5db73a93b3671f572c291f92f8530c21a671ec
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.3.1		c2425e2b947cfb8ea09afae5db04862aa45b03db
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.30.1		bb3868e7ddad2f025ae0aced926e723186de6b22
+dev.zio	zio-aws-notificationscontacts_2.13	7.31.30.2		488595bae0ffc145babbec37c07dc4f71e351396
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.4.1		cf5ab1f2420b129eb98ef1335bb7a38a47e981c7
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.6.1		b84471865572d69083bf69b15f02048b13d7056b
 dev.zio	zio-aws-notificationscontacts_2.13	7.31.6.2		2cf463932952ed30b71b610a668cccfb40bf360f
@@ -1283,6 +1285,7 @@ io.rest-assured	rest-assured-common	5.3.2		fa647873e62402ecdff42da99059f80f70c5f
 io.rest-assured	rest-assured-common	5.4.0		bdb5a25ba37cade60641ce76f9dccbaa08e22ba3
 io.rest-assured	rest-assured-common	5.5.0		924f72feb179423acf329860e47487e74649d686
 io.rest-assured	rest-assured-common	5.5.1		5ad2f3a7ea7903d6ff03bcfbf8cac27bcaf266ea
+io.rest-assured	rest-assured-common	5.5.2		52f6138ded842e348c35efae775a49f3689a1033
 io.spring.cloud	tasksink	1.0.0.RELEASE		ed18535853dd10b3dd02afdb8f56705a69d72bb6
 is.leap.android.test	observer-sdk	1.0.4		N/A
 me.lemonypancakes.actionbarapi	actionbarapi-v1_9_R1	4.0.0		03792ffb9523176cbc9628cb75bd4a5e229676b7
@@ -1870,6 +1873,7 @@ org.apereo.cas	cas-server-support-reports	7.2.0-RC6		1ca42e3816ac4e086159d2e6cd2
 org.apereo.cas	cas-server-support-reports	7.2.0-RC6	resources	fbc5dfc7a879d510d15b2de8a2b44483901466c0
 org.apereo.cas	cas-server-support-reports	7.2.1		0298b4ec2650d06a4163a187ea58600e74d1f7ef
 org.apereo.cas	cas-server-support-reports	7.2.1	resources	bd1e786f99e26e713109db487ab9d125341a0090
+org.apereo.cas	cas-server-support-reports	7.2.2		32199630768ae9909a83e667aee0328d335b69a0
 org.apereo.cas	cas-server-support-reports	7.3.0-RC1		1405065b795724c1e69897f4a15ae6658ef1819e
 org.apereo.cas	cas-server-support-reports	7.3.0-RC1	resources	074a52c21d338d9f72f9e2b2766b0855549af91e
 org.apereo.cas	cas-server-support-reports	v6.4.0-RC5		4009ec791441249928e42da66a529c502513cada
@@ -2303,6 +2307,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.41.1		807a8b
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.42.0		55c5e88b22c0cbb564f4fdb70b666e4a8af8c742
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.43.0		582c5af39eeb57f81a744e501ad7103e6fb595b0
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.44.0		3f75f0d98479cf287317ca29b78d2dbfbd5e68b5
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.0		104e118b23d45be851916ff3d82823ab9f653c0a
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.1		255defc2a8790997af36e10f656c176bcca76a39
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.10		572bc57351008b53b244d67f99a6a6845b1f8f59
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.11		533699f76f5b50924ca15f9a4eb1c7ae96ee0b38
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.12		d95b67699dd11612066d01c13145b723a08916d1
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.13		bb40600b08d9e0999daddadba99adab80fddeb13
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.3		591d45d7060d1589c9a3991d5d6d9370c780c99b
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.4		89c0ec6cb9673a28fd0565cd6693388e2626f14d
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.5		7162dffd389d48cb8f04c120f87c08f6094d620c
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.6		0aaa4568090b01ee10407c67663676008d5e70ec
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.7		cd1185c54bd064f703798dff14f909cb87490393
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.8		a4e31237153f46b061cdc9f06f41079df923777e
+org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.45.9		0c67915fb8cc7338d30e0243ee70e21090b9e315
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.5.0		21cf54c3207ee1e17aaab4e017529c16ce0cbd7f
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.6.0		8d73996d095c51eed0d4b0447112e062cc87e3b6
 org.eclipse.dirigible	dirigible-components-ide-ui-deploy-manager	11.6.1		936a73676998c49ba211cc044136805715adac6d
@@ -2568,6 +2585,7 @@ org.flywaydb.enterprise	flyway-extensibility-commons	8.5.7		9fc84fec8bec680e253a
 org.flywaydb.enterprise	flyway-extensibility-commons	8.5.8		b16e14c63ceae0ad830ff7b82443184ade57b025
 org.flywaydb.enterprise	flyway-extensibility-commons	8.5.9		a4e7bf22c04f6821be1a778668f9e4f7b6a8ceaa
 org.flywaydb.enterprise	flyway-extensibility-commons	9.0.0		285c7eaafd38284f9e6a6d78f098336b03813746
+org.hibernate.search	hibernate-search-processor	8.0.0.Beta1		31dc60df37333ee1356c0e19b0f8455fd7661fac
 org.ikasan	ikasan-housekeeping	3.0.0		b1e953044fb956cbfcb33b0d31d32666c9504da5
 org.ikasan	ikasan-housekeeping	3.0.1		75777998ca1c3199c5544240ce6ee48e2572b101
 org.ikasan	ikasan-housekeeping	3.1.0		ded1fe5d78f277cb0276a0ac87189b4edbb64d89

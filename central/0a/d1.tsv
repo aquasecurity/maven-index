@@ -59,6 +59,7 @@ cloud.piranha.extension	piranha-extension-webxml	25.1.0		a189d12edb2089adc66c668
 cloud.piranha.extension	piranha-extension-webxml	25.2.0		c89ccc77d198698ef8e3691e4168d21d7551d174
 cloud.piranha.extension	piranha-extension-webxml	25.3.0		c034717c830db0ec99fd389c4d57c55109bff13a
 cloud.piranha.extension	piranha-extension-webxml	25.4.0		618f7196517428afcb194bf7c510c0e439d54525
+cloud.piranha.extension	piranha-extension-webxml	25.5.0		2ffdf6d3a054e01ee5efa0d65ca3239a295bb1d3
 cloud.piranha.servlet	piranha-servlet-webservlet	19.12.0		13f4eb06c361da83c6b6c9605e9fba3a8ed5894d
 cloud.piranha.servlet	piranha-servlet-webservlet	20.1.2		4f0f905fc2377636a6fefcc64852fa409cddc4db
 cloud.piranha.servlet	piranha-servlet-webservlet	20.2.0		830eb2bc16f34bcc7bdd39705dcd35c2de9a60b7
@@ -656,6 +657,7 @@ com.daml	codegen-jvm-main	2.10.0-snapshot.20250108.13162.0.v1ce7df14		ce77236c5c
 com.daml	codegen-jvm-main	2.10.0-snapshot.20250114.13163.0.ve965e38d		6bf94ac10fe918bf8b3d79d5564bd746fae84b18
 com.daml	codegen-jvm-main	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		6a95009e8b573ef14ab1bb42623153648382ce8d
 com.daml	codegen-jvm-main	2.10.0-snapshot.20250211.13169.0.vd812609c		bafe977fe8692fab51b818d9f048f1d8944777df
+com.daml	codegen-jvm-main	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		34499dc8b6750ca267903b6c668d37bdb4b695a4
 com.daml	codegen-jvm-main	2.2.0		7d32aecf596b94b3320b795952e5225c3b08e889
 com.daml	codegen-jvm-main	2.2.0-snapshot.20220412.9721.0.b7c4bdab		f80bc63a9a8f349b05e8276be84e3e25396cc879
 com.daml	codegen-jvm-main	2.2.0-snapshot.20220413.9724.0.2dc1085b		f162520380b0a06a1ac5588877e4b186f44db0e1
@@ -1695,6 +1697,9 @@ com.daml	codegen-jvm-main	3.3.0-snapshot.20250414.13754.0.v6f99815d		85f0ecb16b1
 com.daml	codegen-jvm-main	3.3.0-snapshot.20250415.13756.0.vafc5c867		5331057cf29a5872cda83efdfab05aa777aea062
 com.daml	codegen-jvm-main	3.3.0-snapshot.20250424.13760.0.v90d51dbb		79361fa2d4d2237bda2a96e31fff86a368aa7525
 com.daml	codegen-jvm-main	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		fdd1f70f53bca710ab5e4c27ada42d8d4b26a48a
+com.daml	codegen-jvm-main	3.3.0-snapshot.20250507.13770.0.v8a383258		95def6fc777218aeb239017a1376f62f6fc42cd3
+com.daml	codegen-jvm-main	3.3.0-snapshot.20250509.13773.0.v7f71343b		0b41d6728375b73a4b159fbda1027f2cea79539e
+com.daml	codegen-jvm-main	3.3.0-snapshot.20250515.13776.0.ved4899eb		5e3cb90d5b0099830389dd735e851ac1a3161414
 com.daml	codegen-jvm-main	3.4.0-snapshot.20250415.13757.0.v8ac8af98		34e61ca5addfcd9c1bf0945554f3e6de4260188b
 com.daml	codegen-jvm-main	3.4.0-snapshot.20250415.13760.0.vea143716		fdd4c6e0aa1deb340051436315b7491ea59f4f95
 com.daml	codegen-jvm-main	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		51538b77836053e34be3b1e603508f93d8112d9c
@@ -1711,6 +1716,16 @@ com.daml	codegen-jvm-main	3.4.0-snapshot.20250430.13801.0.v62e9a71a		c1e0648fa60
 com.daml	codegen-jvm-main	3.4.0-snapshot.20250430.13804.0.vecb995a9		40cc292341101f6641ed2be63f63aebc3312c106
 com.daml	codegen-jvm-main	3.4.0-snapshot.20250501.13805.0.v6dcc9347		2decb47c4b19c738dc1750895706f0a7c7e1b20c
 com.daml	codegen-jvm-main	3.4.0-snapshot.20250502.13811.0.vc9342f2a		8022584b1b25d6a3085e31c522d3e463b8e0cb8e
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250505.13814.0.v8f469e2a		4e1e89ebfa8ff2efffbf13949d00060bc4278554
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		d0ecb0e8356c221b13a414b2d73fc3d2005fd737
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250505.13817.0.vf79dda6c		c71a70bbbb57fcbfba5345efe795e44af20d43d8
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250506.13820.0.vb449114c		1561200abc48a108a301f955ee20ad8c451f7608
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		c30e68fefc6084caf8f16e991a15acb6271bac87
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250508.13828.0.v6124cac0		8d14cb4e1321a90dbde898221797843759ef10a2
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		ead3623fc3cf14ca0424c35554b90f0a0a118fb1
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		89338807065dcd0e4c0283f6e709101118cbe071
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250512.13837.0.v78d1b88c		c562aab21b9def426fa85cd24dbfd29057185af2
+com.daml	codegen-jvm-main	3.4.0-snapshot.20250513.13844.0.vbc99348c		84edb54c96325db718b1d56029d14eed908cf67e
 com.daml	lf-value-json_2.12	0.13.56-snapshot.20200403.3814.0.47541e70		a1eed5447c8093b15e74ab3bb9cd32452ed50976
 com.daml	lf-value-json_2.12	0.13.56-snapshot.20200404.3816.0.30f2c742		a1eed5447c8093b15e74ab3bb9cd32452ed50976
 com.daml	lf-value-json_2.12	0.13.56-snapshot.20200407.3843.0.10bac143		3ea91e94fb0fcf2f8f9291d5105c0df9078143e0
@@ -2721,6 +2736,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1.2	2.13.3-alpha		072004970232b4401309eaee2da12a82173f4b50
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1.2	2.14.0-alpha		0adb3916f90f47ed1a5b9f5eddab037cb7c74078
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1.2	2.15.0-alpha		60f8156d14f1af3908c5a933a94452084ac530ed
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1.2	2.16.0-alpha		93c6da6e81f32e229d51d85defba4943d12dcac3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1.2	2.2.0-alpha		219c437dbe0f3f2cd32efba897a75d005b5764a9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1.2	2.3.0-alpha		04475f3d36fd6ce17f8d3df9db65aa9fbe3e6962
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-mojarra-1.2	2.4.0-alpha		1e3c4104889dabc3a65c9cf65d497085e5ac201f
@@ -3181,6 +3197,8 @@ org.odpi.egeria	omrs-rest-repository-connector	5.0		cadb700555ae5c59a0f984a63fe6
 org.odpi.egeria	omrs-rest-repository-connector	5.1		db0f79e01bfc6de641fc6f8915ff8bbf1dfaebc2
 org.odpi.egeria	omrs-rest-repository-connector	5.2		d7a23ad3ae76087d0897827f28681f48aee56e2c
 org.odpi.egeria	omrs-rest-repository-connector	5.2.1		3ecdbf0f48147215c1229c66990863dc3cae21bf
+org.scala-native	nscplugin_3.3.6	0.4.17		8e86157a587a2252122367a24ba0c04e5f16f344
+org.scala-native	nscplugin_3.3.6	0.5.7		b14b25948ffe5deda58b8df3f84e28cecac8bf09
 org.scalactic	scalactic_native0.4_3	3.2.12		c943aa45dcad0aebbdcea3113dbf648655f569f1
 org.scalactic	scalactic_native0.4_3	3.2.13		ceff10bfd3a73cf03221480956656c63ba429701
 org.scalactic	scalactic_native0.4_3	3.2.14		8268677e678067afb7841f82b6081a507006f36e

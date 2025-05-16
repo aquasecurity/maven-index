@@ -44,6 +44,7 @@ com.aliyun	aliyun-http-okhttp	0.2.6-beta		776d73f08a4fcf73a6192a0ace33919068b7b4
 com.aliyun	aliyun-http-okhttp	0.2.7-beta		91d990cb9aed694f9a02458a51c7c8a16231b76b
 com.aliyun	aliyun-http-okhttp	0.2.8-beta		0bef80d6cfc23bab124168bb6b9e638362e45f07
 com.aliyun	aliyun-http-okhttp	0.2.9-beta		0c790573b2ab7b77af75c042fb583b936fd21746
+com.aliyun	aliyun-http-okhttp	0.3.0-beta		c22799668cdb492d07ae8ca2d40cb39fa2698902
 com.aoindustries	ao-appcluster-book	1.0.2		b5de8765c1e21eb37a0c358435a9d9e729a2dbb4
 com.aoindustries	ao-appcluster-book	1.0.3		e2a2df55a58a5a37afc060ce8e32d6f4d96415c4
 com.aoindustries	ao-appcluster-book	1.1.0		999fbef55896e8823cd22c0c6235d5cd0d32c16e
@@ -549,6 +550,7 @@ dev.zio	zio-aws-bedrockagent_2.12	7.31.27.1		56e599240ea8088595833a2f6c82ac6f6c4
 dev.zio	zio-aws-bedrockagent_2.12	7.31.28.1		b3e2c4b0136135c56d09e33ef85931e3f6891d20
 dev.zio	zio-aws-bedrockagent_2.12	7.31.3.1		3c159683063023e2302d9a8cd446c64c30b86ee4
 dev.zio	zio-aws-bedrockagent_2.12	7.31.30.1		3cae387df3deb9a0517674cfb60ddfaba6d997a2
+dev.zio	zio-aws-bedrockagent_2.12	7.31.30.2		4e4337771420fdf2db497b776e9778f3343b88bc
 dev.zio	zio-aws-bedrockagent_2.12	7.31.4.1		6686cc8c8a3562a19163342cf0d110e9b7744270
 dev.zio	zio-aws-bedrockagent_2.12	7.31.6.1		9ec5b0be7d423e349723c85b068a7357bd21b5e7
 dev.zio	zio-aws-bedrockagent_2.12	7.31.6.2		7c610487b25959f53336b4d8bf79a5b74a0b5ede
@@ -638,6 +640,7 @@ io.cloudsoft.jclouds.common	jclouds-commons-project	1.7.2-ea-brooklyn.3		N/A
 io.cloudsoft.jclouds.common	jclouds-commons-project	1.7.2-ea-brooklyn.4		N/A
 io.cloudsoft.jclouds.common	jclouds-commons-project	1.7.2-ea-brooklyn.5		N/A
 io.cloudsoft.jclouds.common	jclouds-commons-project	1.7.4-ea-brooklyn.1		N/A
+io.deepsense	scalatra-swagger-codegen_2.10_0.13	1.23		55841258259e7c7d12a895f5a603df6d3e5e8952
 io.focuspoints	focuspoints-client-core-spring-boot-starter	1.0.0		88fc4d5b2ad91acd6026c17777c868174930d49b
 io.focuspoints	focuspoints-client-core-spring-boot-starter	1.0.1		d59b5d75accfcc67664da4f1c45279eba0b153c6
 io.github.darkxanter.graphql	graphql-kotlin-ktor-subscriptions	0.1.0		5fe1ee15431ac3d45faed80d095f1a7f9f4ff510
@@ -948,6 +951,7 @@ io.quarkus	quarkus-resteasy-reactive-qute	3.15.2		90b6681f322b462615c0f4fc6bcdb9
 io.quarkus	quarkus-resteasy-reactive-qute	3.15.3		da7dfaf90c01e530dec694a6331e5f08a9b13fe3
 io.quarkus	quarkus-resteasy-reactive-qute	3.15.3.1		4982b240d28e1aef524c3e98e8235f727a8f7fd6
 io.quarkus	quarkus-resteasy-reactive-qute	3.15.4		4a048fc447acf0f902f3a2466e3847d7ba0cadba
+io.quarkus	quarkus-resteasy-reactive-qute	3.15.5		42f329ff9548f32b9e6a61b76f8433dd33c987d9
 io.quarkus	quarkus-resteasy-reactive-qute	3.2.0.CR1		0748bae9b6c0ae4f898df7af044066ac6a1dae30
 io.quarkus	quarkus-resteasy-reactive-qute	3.2.0.Final		67d251247b5341c397453eac61e3ebff7f195010
 io.quarkus	quarkus-resteasy-reactive-qute	3.2.1.Final		9dd5cf37cdc4390342bbf0f6db2b3febaf70049a
@@ -1701,6 +1705,7 @@ org.refcodes	refcodes-properties-ext-observer	3.3.6		e813deb8438a7c460df5cdd104b
 org.refcodes	refcodes-properties-ext-observer	3.3.7		6737b2a9246865ec3018f61ba8477892a85b80e4
 org.refcodes	refcodes-properties-ext-observer	3.3.8		49e6f8fece3ff01f72c1f05fbc049e5f7b125abe
 org.refcodes	refcodes-properties-ext-observer	3.3.9		60c53e08803f4c91fca26196ce941b730a164dbe
+org.refcodes	refcodes-properties-ext-observer	3.4.0		0972732bb0682e4f09cd6e229b6adb51034fe6a4
 org.springframework	spring-instrument-tomcat	3.0.0.RELEASE		625c1c270208f7f398aa6f427ed5f6d9197a525c
 org.springframework	spring-instrument-tomcat	3.0.1.RELEASE		6886b1bdd019051ab383b2de8e7dbab9979635a9
 org.springframework	spring-instrument-tomcat	3.0.2.RELEASE		3e54feb6043c19d67b8266618cf1beaedf38ab39
@@ -2203,6 +2208,8 @@ tf.tofu	derevo-ciris_2.13	0.12.7		9aa82ec20eb62a506454a4888ebb6db6964faa47
 tf.tofu	derevo-ciris_2.13	0.12.8		b4e251bcb962e3f62eb7c43f359e34871f6bf721
 tf.tofu	derevo-ciris_2.13	0.13.0		54c8af62a80819bdd6f8f6d894143b405def0f0b
 tf.tofu	derevo-ciris_2.13	0.14.0		67954df776901ba59314079fdae6d5972493be4b
+tz.co.asoft	kiota-file-picker-test-tvossimulatorarm64	3.1.11	metadata	78c58e3c87072218bdaf4d339b86e246665cc314
+tz.co.asoft	kiota-file-picker-test-tvossimulatorarm64	3.1.12	metadata	f4acba86ed3cfc6db71a9b3aa9b1da3775c904a0
 tz.co.asoft	phone-generator-js	0.0.10		N/A
 tz.co.asoft	phone-generator-js	0.0.20		N/A
 tz.co.asoft	phone-generator-js	0.0.30		N/A

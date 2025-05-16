@@ -1795,7 +1795,14 @@ com.yahoo.vespa	metrics-proxy	8.511.14		79b6a75edd1f60e95e676533dbc48c122d16cb47
 com.yahoo.vespa	metrics-proxy	8.512.63		b368f444a22a9480cdf940f63a69cf48b890b66d
 com.yahoo.vespa	metrics-proxy	8.513.17		949706c3fc07dd17dad7280357c1781a047c0388
 com.yahoo.vespa	metrics-proxy	8.514.24		e2b42ae3332fa2ffafd9e1c865813b2b4b569285
+com.yahoo.vespa	metrics-proxy	8.515.40		bb53fd90076096fa1ca5800a45f2cf90b343a9d7
+com.yahoo.vespa	metrics-proxy	8.516.26		f2e8d0469e9507d6f0bbc11de5d5dd021a40a161
+com.yahoo.vespa	metrics-proxy	8.517.15		dce84b94f360678bdb63675cbc4e9ff3fb14dc11
+com.yahoo.vespa	metrics-proxy	8.518.4		8cbd23d0b48ce26a0d73b91d9bdb8ac0360f6947
+com.yahoo.vespa	metrics-proxy	8.519.55		bb46579b496fa6b8456c587a75891fdd2ac35592
 com.yahoo.vespa	metrics-proxy	8.52.15		8fc5a37ae7bb6921e532b016d9959ac62c2c63c0
+com.yahoo.vespa	metrics-proxy	8.520.18		6fbd7f83b35fa75f4de76f40f8b6942d097f356d
+com.yahoo.vespa	metrics-proxy	8.521.17		9d97687ce1e359aaa5f1de514e023c8ead96d339
 com.yahoo.vespa	metrics-proxy	8.53.21		83524a64b7ff304b8c59d3c1dbf2a19c06233aea
 com.yahoo.vespa	metrics-proxy	8.54.61		9b9be79a0bef17f8fbb04325a21c5d90149d5a47
 com.yahoo.vespa	metrics-proxy	8.56.20		6c8d5783c88cd8118261f3c8543be08c78fdc315
@@ -1869,6 +1876,7 @@ dev.galasa	dev.galasa.artifact.manager.ivt	0.38.0		dc79a91243d1ca8cdd997936979a8
 dev.galasa	dev.galasa.artifact.manager.ivt	0.39.0		6dac7781a079e0fe7b3fb3ca34dabd641382ac1f
 dev.galasa	dev.galasa.artifact.manager.ivt	0.4.0		6d8ce0ba38980072dcd4a56eecd6d7066a54cca6
 dev.galasa	dev.galasa.artifact.manager.ivt	0.40.0		3c8d5bce0098e8cce678e7d720f0ee23c72a8601
+dev.galasa	dev.galasa.artifact.manager.ivt	0.41.0		416c619affd34febfd2ba9fcb6f893526d45a59e
 dev.galasa	dev.galasa.artifact.manager.ivt	0.5.0		9adeb69c3558b46a177bd5026ab687a14f2a33a0
 dev.galasa	dev.galasa.artifact.manager.ivt	0.6.0		944459826f76379cfcd00e55deed4180f40d5fa2
 dev.galasa	dev.galasa.artifact.manager.ivt	0.7.0		2713f17247e12878f5d74f9446bc4e9de185e09c
@@ -2023,6 +2031,7 @@ dev.zio	zio-aws-pipes_2.13	7.31.27.1		b7212dde83a3ef223cf7592d0da79a0fde44ed00
 dev.zio	zio-aws-pipes_2.13	7.31.28.1		6dcdb94f94f98a76c50930aeac447430e97679d2
 dev.zio	zio-aws-pipes_2.13	7.31.3.1		0873a605f80b34bbd88451d733c3442a3f697b80
 dev.zio	zio-aws-pipes_2.13	7.31.30.1		1a2b5510a3b6e3858e716b1de2bce8dd14a44e1e
+dev.zio	zio-aws-pipes_2.13	7.31.30.2		ec6cb8d2a1110b4b9639202b976e591ea5a0fb8a
 dev.zio	zio-aws-pipes_2.13	7.31.4.1		c39891e543a7f04aee50074966b0a239890184b7
 dev.zio	zio-aws-pipes_2.13	7.31.6.1		d003d80480fead009a88ddd032c44a6bf525063a
 dev.zio	zio-aws-pipes_2.13	7.31.6.2		e8283e91eb8f8b84717c09ad7a91f5deb9792622
@@ -2264,6 +2273,7 @@ org.eclipse.jnosql.databases	jnosql-database-commons	1.1.3		a32581a0130408e7927b
 org.eclipse.jnosql.databases	jnosql-database-commons	1.1.4		ab3aea700709d6fdf1495ab8469345b52ea040c1
 org.eclipse.jnosql.databases	jnosql-database-commons	1.1.5		958deae7e95215f33b8fc48cee568449fdbebe49
 org.eclipse.jnosql.databases	jnosql-database-commons	1.1.6		dc8694d75356eba88426f842bd67daa91c67f860
+org.eclipse.jnosql.databases	jnosql-database-commons	1.1.7		c2d38952a0f6b91c21fb063d1a58c4456df5324c
 org.fusesource.fabric	fabric-cxf	1.0		9c0b21be73075d948cb97921d9b567f9069c3ea7
 org.fusesource.fabric	fabric-cxf	1.1		dc0523c976bfa61450984e8c7b43ba07a28e0d3c
 org.fusesource.fabric	fabric-cxf	7.0.0.fuse-061		c47d21808c6112ba655130b921eda79cc6a17d0b
@@ -2387,6 +2397,7 @@ org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.0.0-rc01		N/A
 org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.0.0-rc01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.0.1		N/A
 org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.0.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.1.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.1.0-alpha01		N/A
 org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.1.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3.adaptive	adaptive-uikitsimarm64	1.1.0-alpha02		N/A
@@ -2628,10 +2639,12 @@ org.sevensource.parents	parent-java	0.9.6		N/A
 org.sevensource.parents	parent-java	0.9.7		N/A
 org.sevensource.parents	parent-java	0.9.8		N/A
 org.sevensource.parents	parent-java	0.9.9		N/A
+org.springframework.ai	spring-ai-deepseek	1.0.0-RC1		c310150a9d48171e011d355bdb65cbfa57900cb5
 org.teavm	teavm-browser-runner	0.10.0		c8e2eb269d096aa846c4107140922e22a939b356
 org.teavm	teavm-browser-runner	0.10.1		c8e2eb269d096aa846c4107140922e22a939b356
 org.teavm	teavm-browser-runner	0.10.2		c8e2eb269d096aa846c4107140922e22a939b356
 org.teavm	teavm-browser-runner	0.11.0		9bc01d3e94a6c1b116ca93162b7a8850e5a2eb27
+org.teavm	teavm-browser-runner	0.12.0		c093f34d40eee7072e9caa2c313c665975b892d2
 org.typelevel	discipline-munit_native0.4_3	2.0.0-M1		a272458a1bfb53a8b2eb724661d0a41ff677ef5c
 org.typelevel	discipline-munit_native0.4_3	2.0.0-M2		9a572f1552c9de6d7372c70c5ba7a0b3f911b170
 org.typelevel	discipline-munit_native0.4_3	2.0.0-M3		27faeb6ac3708baa209c9836d25e9a4f7ba3b8a8
@@ -2762,6 +2775,7 @@ org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.expired.passwor
 org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.expired.password.identification.common	1.3.83		9b54185d95529f72658d7f1424fdb2c09a0e3ba7
 software.amazon.app.platform	kotlin-inject-public-iossimulatorarm64	0.0.1		N/A
 software.amazon.app.platform	kotlin-inject-public-iossimulatorarm64	0.0.1	metadata	31ccec3a20eb6b63c9b2381cf61c384f8836ea99
+software.amazon.app.platform	kotlin-inject-public-iossimulatorarm64	0.0.2	metadata	c9b72ca25b904c1fd4c074e493ea78d9ef82c55b
 top.lingkang	final-session-parent	4.0.0		N/A
 tz.co.asoft	kotlinx-extensions-core-linuxx64	0.0.20		N/A
 tz.co.asoft	kotlinx-extensions-core-linuxx64	0.0.21		N/A

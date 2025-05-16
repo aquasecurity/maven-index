@@ -189,6 +189,7 @@ com.fresco-kitchenos	kitchenos-client-sdk-user-appliances-implementation-iosx64	
 com.fresco-kitchenos	kitchenos-client-sdk-user-appliances-implementation-iosx64	1.31.1	metadata	5c2eed974a040104f906d31d8f263a779cea3435
 com.github.codemonstur	config	1.0.0		be74c5b8cd87c28399efb93f827ddea28ce171e3
 com.github.codemonstur	config	1.1.0		339319a054611d0d2eaeb20987dd2b92029b6418
+com.github.dcshock	sbt-binks_2.10_0.13	1.0		f60e304ccfcbebd2dcb6dfb9d3818c108b331ba8
 com.inkapplications.kimchi	core-androidnativearm64	2.1.0		N/A
 com.inkapplications.kimchi	core-androidnativearm64	2.1.1		N/A
 com.inkapplications.kimchi	core-androidnativearm64	2.1.2		N/A
@@ -796,6 +797,7 @@ io.muserver	mu-server	2.0.1		dfcc96383aad0fdcd7d89f664d665431b80b22e8
 io.muserver	mu-server	2.0.3		d098a88ffcbf9e9a883b98388de1dfd946144070
 io.muserver	mu-server	2.1.0		103fe63d30e93b1ba46796cf125f1765bada2c99
 io.muserver	mu-server	2.1.1		17c4a2e1df05d22e698cd49d1f72de6bd1076b35
+io.muserver	mu-server	2.1.10		cea97e1a30bb57529da564ae57ed53351c9f4bb4
 io.muserver	mu-server	2.1.2		9ee4c802866cca55e4581ce4262e6ed64814b605
 io.muserver	mu-server	2.1.3		09dfd3cbd00984e725695050763c0dc8f551d015
 io.muserver	mu-server	2.1.4		a1ff440dca6ed014d788a193f06f166b6db327fa
@@ -880,6 +882,7 @@ org.apache.tika	tika-parser-xmp-commons	2.9.0		501981b275aabf6535fa57358e7e17da1
 org.apache.tika	tika-parser-xmp-commons	2.9.1		f0ab0cd63aa1e72effff8071e1cbb5a3698e1c30
 org.apache.tika	tika-parser-xmp-commons	2.9.2		69104107ff85194df5acf682178128771863e442
 org.apache.tika	tika-parser-xmp-commons	2.9.3		5663a04c6d77306920b94eff42ff7fb25fc43c42
+org.apache.tika	tika-parser-xmp-commons	2.9.4		e250a0d48e8a15eea64e4cad2b090da72fb4035a
 org.apache.tika	tika-parser-xmp-commons	3.0.0		4299adee0c7e272d697612e00ee57829e673fd07
 org.apache.tika	tika-parser-xmp-commons	3.0.0-BETA		f7543ec329f968ff6d9c881f7da9c9122be12e7c
 org.apache.tika	tika-parser-xmp-commons	3.0.0-BETA2		1d0dc159651ec8f0164656fd2109736ba4c0aada
@@ -913,6 +916,8 @@ org.eclipse.apoapsis.ortserver.storage	azure-blob	0.1.0-RC9		cf7eaee8f5cccfc5537
 org.eclipse.apoapsis.ortserver.storage	azure-blob	0.2.0		e0b312b23715f83dca13c3b9850c50b21d788217
 org.eclipse.apoapsis.ortserver.storage	azure-blob	0.3.0		426fb330befc13099a8d052e53e01022139314c3
 org.eclipse.apoapsis.ortserver.storage	azure-blob	0.4.0		f3b4ea00f34f3032ac895f673c57349367bac17a
+org.eclipse.apoapsis.ortserver.storage	azure-blob	0.5.0		bd0ba2cab41fb4d7750d0c7ecbd8832c51da15b3
+org.eclipse.apoapsis.ortserver.storage	azure-blob	0.6.0		20dd14398ca5526c08d298412bd69192c370bae4
 org.eclipse.dirigible	dirigible-database-sql-mariadb	10.0.0		da38a011a6da04d36ed67f77848dd494ad4f46d4
 org.eclipse.dirigible	dirigible-database-sql-mariadb	10.0.1		985187a13999639883601a0ac84e0002137ef868
 org.eclipse.dirigible	dirigible-database-sql-mariadb	10.0.2		17c3a02a1cda0b910918737871b41ff1fdb4698f
@@ -1041,6 +1046,19 @@ org.eclipse.dirigible	dirigible-database-sql-mariadb	11.41.1		3d1012883501bf48c3
 org.eclipse.dirigible	dirigible-database-sql-mariadb	11.42.0		4132349e599e8f88c064df092f94662d40aa3fd5
 org.eclipse.dirigible	dirigible-database-sql-mariadb	11.43.0		82e1977a16288fbad15adcf66539622a31bfae75
 org.eclipse.dirigible	dirigible-database-sql-mariadb	11.44.0		0fd880fe24464eb6bfbb333a7873cd45374bf4e7
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.0		3640256233c1523d0dac58a64fc2fba1694580c7
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.1		78fe1fd3c798ecd37d59dc4b9cdeaa6b69818b66
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.10		76fb4841d2718d0eda69e5bc1ee2ba78dd6dcdaa
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.11		9ef6fbda5cd958e98e5b73efb75a77e5c1fadb36
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.12		e06c078699d1bea38ca02434fbd45bc3baab91b7
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.13		f856ef624303f83f11db0f3d79a0c57e6faf1b5c
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.3		cbb100e6624a7a01e9fff381a9992c5e06afceae
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.4		9308bc6893439f3868340bbf2a36c20091d7feac
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.5		f6265e1b0b8aa0e66e70bd67c4ecd41b589d35ea
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.6		8f889828183819ee089dce46d6d960f69fcfd7be
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.7		7a169b1681eebc3df8695c93ba41839d9d596e1d
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.8		bc56a93b7a0d3af33995e00ffac7ad8930043a9a
+org.eclipse.dirigible	dirigible-database-sql-mariadb	11.45.9		3d5041c801466baf18829f59a3d214a9d60ea236
 org.eclipse.dirigible	dirigible-database-sql-mariadb	11.5.0		4f027c2d06115ca1858bc6455988180d3788b4e0
 org.eclipse.dirigible	dirigible-database-sql-mariadb	11.6.0		9c6ee2031ee8ecee345e2531a8255fab8778fdcd
 org.eclipse.dirigible	dirigible-database-sql-mariadb	11.6.1		e647a0aaef30c4404e34b29b20b0c5f4465f30fb
@@ -1166,10 +1184,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.7
 org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.80.0		df419b8473dd23296400bdd8dcedd64644226851
 org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.81.0		3a626798b791706d134430c93736bb29bce50034
 org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.82.0		b7409d353511d15942e1f5e331fd3d7f280b7cec
+org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.82.1		e374cb2969e1899aa2b8217dbe7855d16feac0da
 org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.83.0		067972e654ed3964e22fe97ebb460acdcf67aa7d
 org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.83.1		c4d500416f3c935406535a92c4815b605bbadd91
 org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.83.2		132412fdfe431a0065321ca2a70d4fcd31990a0f
 org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.83.3		2d3aab03bea5e873aec01945386d9a9615e309d3
+org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.84.0		733b18ef5a9b3d4e483327ff1320a4f2733d8207
+org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.84.1		aaabf9a8f10935c95e9f18060eb5d0c55ba64935
+org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.85.0		9bedac1e52ffddfac0626e8dcb4fbc5d616fd707
+org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.85.1		28fe9ab43c0d16d59397be1a23faf7d1d1daee9c
+org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.85.2		3bc46f5c6d9dafd5d1d52558d083174b5f99195b
+org.finos.legend.engine	legend-engine-xt-relationalStore-connection-http-api	4.85.3		3af26ae615614df1fcd60e5db70e17ff88cfa3d2
 org.fudaa.pom	super-pom	0.4		N/A
 org.fudaa.pom	super-pom	2.0		N/A
 org.fudaa.pom	super-pom	2.1		N/A

@@ -472,6 +472,7 @@ com.pcloud.pcloud-networking-java	composer	2.7.0		76b54875507c569fc9ee2903746a3b
 com.pcloud.pcloud-networking-java	composer	2.8.0		6763636d88b6e82f78099c835bb7b901e25f3a40
 com.pcloud.pcloud-networking-java	composer	2.8.1		4967cf3faee4e7023ad427ba71725c0a80e1d2c8
 com.pcloud.pcloud-networking-java	composer	2.9.0		bd4888bef1b96da52b31a626368c26ba97e29d73
+com.pcloud.pcloud-networking-java	composer	2.9.1		6432381299701f860cd128ba1f1706e29de2aada
 com.radware	botmsdk	5.1.4		N/A
 com.radware	botmsdk	5.1.5		N/A
 com.radware	botmsdk	5.1.6		N/A
@@ -1139,6 +1140,7 @@ org.apache.camel.quarkus	camel-quarkus-seda	3.2.1		02010f711857468496b821cc67257
 org.apache.camel.quarkus	camel-quarkus-seda	3.2.2		f6c060d62e1e449812b114dd8df583fedd4c9b05
 org.apache.camel.quarkus	camel-quarkus-seda	3.2.3		387717ba1ea71dcb121b615bbf663943603eb0d5
 org.apache.camel.quarkus	camel-quarkus-seda	3.20.0		0f83d490a3908519b43e6906f1d54adc771f496b
+org.apache.camel.quarkus	camel-quarkus-seda	3.20.1		eab4bc49565eb305f7e27b03e6dcfff6c9dba9f0
 org.apache.camel.quarkus	camel-quarkus-seda	3.22.0		53a58c7a870f0931b6ae3c7b11ba8e0777e9ffb5
 org.apache.camel.quarkus	camel-quarkus-seda	3.4.0		32506f4cd9ce8000e470914a535d567756749c03
 org.apache.camel.quarkus	camel-quarkus-seda	3.5.0		fd8ac869ebaea0d3dec7bc78eaacf66f49fab24c
@@ -1235,6 +1237,9 @@ org.daisy.pipeline.modules.braille	dotify-utils	6.2.4	xprocdoc	d26857b8b62b676be
 org.daisy.pipeline.modules.braille	dotify-utils	6.2.5		8c651ec58e5589b5b9c7d2594dc995fa8527f5ef
 org.daisy.pipeline.modules.braille	dotify-utils	6.2.5	doc	ede8e173f95b82f190121014077d8677c59532e1
 org.daisy.pipeline.modules.braille	dotify-utils	6.2.5	xprocdoc	eb5c91bd41a0a3c478709ea0aa4888c28f248f75
+org.daisy.pipeline.modules.braille	dotify-utils	6.3.0		da75639f5a4ca6ace5dd711af187e70844cbca31
+org.daisy.pipeline.modules.braille	dotify-utils	6.3.0	doc	c7e034a2f9b979f5e8d8e909e2c29a42a40bd0ed
+org.daisy.pipeline.modules.braille	dotify-utils	6.3.0	xprocdoc	4b24a6734b1140cb08bfcf448ad87eed7b9b1e3d
 org.eclipse.xpanse.modules	models	1.0.0		74188da439d0cb50f190af2e57f67ddc4dc13a6e
 org.eclipse.xpanse.modules	models	1.0.1		08c7e9d9cbc32d3febed996f9bf388b01c768a71
 org.eclipse.xpanse.modules	models	1.0.19		9aa6d77085d92dde3a671d2d27b2e16c6f52babd
@@ -1295,10 +1300,17 @@ org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.79.0		1981
 org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.80.0		54f12a5493042c92667277097130ad95bc1b067d
 org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.81.0		3ef88ca8b45ddebfdf2224a480b1f098a0aa2fba
 org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.82.0		986048251ef5c8710ac20179101b6d4bcb8ee0af
+org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.82.1		eb514de1e3b1cc6583eb3e4136e185e75b98278c
 org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.83.0		95fb7fa5b4047c94ac8c7d062f691b986d9d66e5
 org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.83.1		8ef152906b16c6edfc411823f8dbd40959779cae
 org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.83.2		42ef4c63c02167f6640296f7885553dc1ac0900e
 org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.83.3		08a4b0612c1c348d02c11d4e847d2b70eb31e86c
+org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.84.0		c25ab0f97af22fff510d77a4c4ac114fb373105f
+org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.84.1		7a5b88988b73af0051cfebf1ea19f176c32ab834
+org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.85.0		081f0696d15c8a0804f2e11061d6b10aaef38290
+org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.85.1		f504808d189c9a14450237838ad562b5457f4af5
+org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.85.2		19dd959c9f4568b5d24020b1ec95d2f214c7fe6c
+org.finos.legend.engine	legend-engine-xt-functionActivator-compiler	4.85.3		967e44d97850ee839d32692c7b6d30b42a657afc
 org.geomesa.nifi	geomesa-accumulo20-nar_2.13	4.0.0		N/A
 org.geomesa.nifi	geomesa-accumulo20-nar_2.13	4.0.1		N/A
 org.geomesa.nifi	geomesa-accumulo20-nar_2.13	4.0.2		N/A

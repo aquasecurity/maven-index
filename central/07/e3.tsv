@@ -1,5 +1,6 @@
 be.orbinson.osgi	opentelemetry-instrumentation-api-incubator	2.9.0-alpha.0001		e5af225dc85cf7a40241c28e0de3a978a68fff05
 cn.org.awcp	awcp-formdesigner-application	1.0-RELEASE		7cb2758a71cbe2e43aca54e04390cae4c4db7d3b
+com.atlassian.labs	sbt-git-stamp_2.9.1_0.11.3	0.1.2		bb1897f143ec98ebc327c73ee3a1e7b8f7671f07
 com.buschmais.jqassistant	own-constraints	1.10.0		N/A
 com.buschmais.jqassistant	own-constraints	1.10.0-ALPHA1		N/A
 com.buschmais.jqassistant	own-constraints	1.10.0-RC1		N/A
@@ -71,6 +72,8 @@ com.github.ooftf	image-preview	2.2.9		N/A
 com.github.ooftf	image-preview	2.3.0		N/A
 com.github.ooftf	image-preview	2.3.1		N/A
 com.github.ooftf	image-preview	2.3.2		N/A
+com.github.sbt	sbt-eclipse_2.12_1.0	6.0.0		8f1e582e46416dfaa04fc8b2904111cc6f1269b8
+com.github.sbt	sbt-eclipse_2.12_1.0	6.0.0-RC4		79882bb95dc528881d5bf06358aacf0c03fe1027
 com.github.sbt	sbt-eclipse_2.12_1.0	6.1.0		92e4eb62dc35f50d87d59896f43e20ab1062feb7
 com.github.sbt	sbt-eclipse_2.12_1.0	6.2.0		249b449335248ba2bc9ec78c2b018fc2575cd5ec
 com.github.seratch	httpilot-scala_2.9.1	0.3.0		15f4e2eae320137db5ecacc65c6b2f9f9a8181d8
@@ -494,6 +497,7 @@ dev.zio	zio-aws-batch_2.12	7.31.27.1		fde1efd2000f20bdff75c82057c28c83d2750516
 dev.zio	zio-aws-batch_2.12	7.31.28.1		8c6658cfd028350d1bc2c66626176987d9f2cedb
 dev.zio	zio-aws-batch_2.12	7.31.3.1		d441c287a66d9dd302dc4818357d448348aa28d8
 dev.zio	zio-aws-batch_2.12	7.31.30.1		1e1a2ba40dbc4fd0166725d7ec51adc560e391dd
+dev.zio	zio-aws-batch_2.12	7.31.30.2		17c75c27ca46f715f7e7478529898d1d61b6bfcc
 dev.zio	zio-aws-batch_2.12	7.31.4.1		3e8fd9f4f2e2b27a251d0cd531603410caf9ccd5
 dev.zio	zio-aws-batch_2.12	7.31.6.1		c76cfd9e8e290c9eba2fa57e5dd647e7c80b6c10
 dev.zio	zio-aws-batch_2.12	7.31.6.2		a6bec6e9fc18ee2336fd9d2b9aeea4b4425c4b4a
@@ -501,6 +505,7 @@ dev.zio	zio-aws-batch_2.12	7.31.6.3		ccee494dffb01ba21593b9d1064d0f34ac59f186
 dev.zio	zio-aws-batch_2.12	7.31.7.1		15913dfb403d5f3b44cdaae93f8e885d0ca2b595
 dev.zio	zio-aws-batch_2.12	7.31.8.1		cfacf4afe628960e74411e5fde91af039e1a9b88
 dev.zio	zio-aws-batch_2.12	7.31.9.1		f91bd3bb8975781f178bd5b5e739d9557469cb78
+eu.edoardovencia.sbt	xsbt-filter_2.10_0.13	0.5		b75dd0ef60d54486ef87adf3e8de2ed2d2b8c9a8
 eu.larkc.csparql	csparql-sparql-jena	0.1		5f72b142ab6649d4718b289c1e21a4fc8f562d78
 io.chrisdavenport	gato-parsec_2.12	0.0.1		e5ee8826d807b7497a7b1324347427247b5f3722
 io.chrisdavenport	gato-parsec_2.12	0.0.2		b801df2a066ec93426ce89ae915bd83822442a90
@@ -930,7 +935,16 @@ org.webjars.npm	ministryofjustice__frontend	3.2.0		62b648c4ec890fad51ccb39930441
 org.webjars.npm	ministryofjustice__frontend	3.2.1		f9ebfe379ec97f8a07c75a076c39945e22906c14
 org.webjars.npm	ministryofjustice__frontend	3.2.2		8df0bb6db24b4bcc29fe47125682aa0f8f6c8af4
 org.webjars.npm	ministryofjustice__frontend	3.3.0		61064a64de382a16e0a6fe44fa3e8164fe245164
+org.webjars.npm	ministryofjustice__frontend	3.6.1		4f7e00f5f6128fa8cddfd07383825d869eba9459
+org.webjars.npm	ministryofjustice__frontend	3.6.2		a87c074773103a28c85fe8c3e4ae84e2aa4a33c2
+org.webjars.npm	ministryofjustice__frontend	3.6.3		1a76c23b14ff14d92773419bf514c96c9429a1da
 org.webjars.npm	ministryofjustice__frontend	3.7.0		3418546ecfd142f52ca363025c7aad22309f843b
+org.webjars.npm	ministryofjustice__frontend	3.7.1		a24af49cfc5b4c9c49d3f15689093bf5bf57b004
+org.webjars.npm	ministryofjustice__frontend	4.0.1		b18ad6c22602301de7ab3fc2d39b0af981d8dfc3
+org.webjars.npm	ministryofjustice__frontend	4.0.2		5af34b382001183ec92e577cbd2ad7ede4cac31d
+org.webjars.npm	ministryofjustice__frontend	5.1.1		17a8f8bf894faeafde0de2835203a4feb9404095
+org.webjars.npm	ministryofjustice__frontend	5.1.2		1c1720df6c4a46930d7244368d477f2ee5bee3ef
+org.webjars.npm	ministryofjustice__frontend	5.1.3		4e189e1307cb04adaf2b0067f8a870c6a8a65ed6
 org.webjars.npm	vaadin__vaadin-themable-mixin	1.2.1		b75477e9b6907ede3a7c5abe1faec99e8d495d14
 org.webjars.npm	vaadin__vaadin-themable-mixin	1.3.2		64ea825595bca48c6d51d02ebbaf99c7aa61ba18
 org.webjars.npm	vaadin__vaadin-themable-mixin	1.5.0-alpha2		885145fba54078babdb737e37e9cac38d5ce9d96
@@ -2298,7 +2312,18 @@ software.amazon.awssdk	appsync	2.31.30		86d436f22adfae9767fca50448958604dc8994b0
 software.amazon.awssdk	appsync	2.31.31		e8cc5343f359faeb1b590c1e797343587a19962f
 software.amazon.awssdk	appsync	2.31.32		8fdc82f15479470cae62ba414da3d3f2cf6fd360
 software.amazon.awssdk	appsync	2.31.33		bd5f5285d944531e84148e62f792e0d2b0b99f1f
+software.amazon.awssdk	appsync	2.31.34		3805e9a06e79d2c9c81fc3d6f9f2b1372b02c8e9
+software.amazon.awssdk	appsync	2.31.35		a99063869f21213c8b02e7344bbfaa5c5b2d768b
+software.amazon.awssdk	appsync	2.31.36		c6b431bb2825b138de97c49ddd4c53ac58b5987a
+software.amazon.awssdk	appsync	2.31.37		751ac1ce4e0bf5d07ca3bc788c4ea3286224a912
+software.amazon.awssdk	appsync	2.31.38		fa04d77477f62de42e9e42cbf3a60cc2b656fe0d
+software.amazon.awssdk	appsync	2.31.39		b2d1b9163aa5880a7a4338900c8957f2eec28627
 software.amazon.awssdk	appsync	2.31.4		e0cb3039f80547f35da0c31698bdef163ee9a866
+software.amazon.awssdk	appsync	2.31.40		5da9f10779d8fb0710b568334a8d320827d142aa
+software.amazon.awssdk	appsync	2.31.41		768aa499cc01f9360748d9f5c230557062dd8722
+software.amazon.awssdk	appsync	2.31.42		f62ce7188fe8055fba8ad4bda1dd99bd48e205ba
+software.amazon.awssdk	appsync	2.31.43		1380ae8aa0a84935539f4a474ebeaf4d86bd7fa9
+software.amazon.awssdk	appsync	2.31.44		ea159f9233634e428ff84748a3c6902eb726eec6
 software.amazon.awssdk	appsync	2.31.5		fd42545a1dbde36f0770d1e859fb88f8d1551bc3
 software.amazon.awssdk	appsync	2.31.6		9c9653bace71d3923c4642be546e196955960f76
 software.amazon.awssdk	appsync	2.31.7		c79da913d9fb4bf8e0756a61fd3a2158c37da1be
@@ -3815,7 +3840,18 @@ software.amazon.awssdk	http-client-tests	2.31.30		c3f4736bac23b41039acd39f041edb
 software.amazon.awssdk	http-client-tests	2.31.31		ffebae8df731413a9f55df6507b22cdde127a024
 software.amazon.awssdk	http-client-tests	2.31.32		5d120c3be31399e44497d667e64c031a074c6ea0
 software.amazon.awssdk	http-client-tests	2.31.33		0fda46f34789742aee0120829d078029e571646e
+software.amazon.awssdk	http-client-tests	2.31.34		13a1e579dbf64a7f388a76a5c2ce2030266fadbf
+software.amazon.awssdk	http-client-tests	2.31.35		4c2790a55791018be67582274dc81b19f8ff31a1
+software.amazon.awssdk	http-client-tests	2.31.36		ea44893bdfc17b5d79ee8c6b439af0635b0e415e
+software.amazon.awssdk	http-client-tests	2.31.37		84e27533cb38504dae5d7dfce4b18e12538e8cea
+software.amazon.awssdk	http-client-tests	2.31.38		dfb5bf9b1b9efcba9d572f879a11ac1e95dd8cb7
+software.amazon.awssdk	http-client-tests	2.31.39		966afe3c910558311c9ae5ce95bdbe6b812efecb
 software.amazon.awssdk	http-client-tests	2.31.4		5281147589f70395a6916d70956e458f561c2613
+software.amazon.awssdk	http-client-tests	2.31.40		cc50ef5051139289016b3fbbf19122bdc2abb267
+software.amazon.awssdk	http-client-tests	2.31.41		351df8f29f3f11dac5ef2f7027fe8af41ebf49fd
+software.amazon.awssdk	http-client-tests	2.31.42		0eda802a80032bd1e7134c7f4bcd861896fcf8d3
+software.amazon.awssdk	http-client-tests	2.31.43		1cea7acb524aa5e063fc46446a99de82d5f8e877
+software.amazon.awssdk	http-client-tests	2.31.44		24c1b03b13b1ac242dc9dc3f732cc1ffa49535a1
 software.amazon.awssdk	http-client-tests	2.31.5		ef06bf0902fecf39db8e492532f9c2486f7ad648
 software.amazon.awssdk	http-client-tests	2.31.6		ae5269edc771da27f4a30e2dc73e654669bd3093
 software.amazon.awssdk	http-client-tests	2.31.7		bf9e4cd4326aef69305328b17d723d49f9f7b04f
@@ -4016,6 +4052,10 @@ tz.co.asoft	lexi-file-watchossimulatorarm64	3.0.8		N/A
 tz.co.asoft	lexi-file-watchossimulatorarm64	3.0.8	metadata	6aef7c1fccf16fa14688e31d30a227ae0ad0a4c1
 tz.co.asoft	lexi-file-watchossimulatorarm64	3.0.9		N/A
 tz.co.asoft	lexi-file-watchossimulatorarm64	3.0.9	metadata	5623cd12aa3eff3ab3d9a5b74e8295d52586189f
+tz.co.asoft	lexi-file-watchossimulatorarm64	3.1.0	metadata	23fac6804982cd7e4cc21c311ecf82065a4600de
+tz.co.asoft	lexi-file-watchossimulatorarm64	3.1.1	metadata	b95ec6fb3df82a2e525d8e9a85a64376edcd2a50
+tz.co.asoft	lexi-file-watchossimulatorarm64	3.1.11	metadata	efe1108d285726ab8593aa4016e2ee46ac76bd21
+tz.co.asoft	lexi-file-watchossimulatorarm64	3.1.12	metadata	8dc2151b54b64dc30eeccdf7212445cb471bd6e2
 us.irdev.gtk	system-test	1.0.1		aec9f697a98b37db3b92fd44f644688e6b1ac373
 us.irdev.gtk	system-test	1.0.4		16b4e162cbe1d4ab301e7fe1a4c4644357a5c0bc
 us.irdev.gtk	system-test	1.0.5		0d332dd1b0a8b212e0d5195220f16d7ddb382fe0

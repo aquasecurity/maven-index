@@ -22,6 +22,8 @@ com.bumble.appyx	cards-iosx64	2.0.1		N/A
 com.bumble.appyx	cards-iosx64	2.0.1	metadata	bc1a3796d26c90f72b5856f4785a6aedcb1e9566
 com.decodified	scala-ssh_3.0.0-RC3	0.11.0		c4746e0fdb68fe64d4bf17797171665130012a59
 com.dispalt	pico-hashids_2.13	4.5.153		7eb4192893888c29d348e5ee58398dd2a7a5e216
+com.ebiznext.sbt.plugins	sbt-sonar_2.10_0.13	0.1		d5d5f578ed12c8035fa0eec338ace70dc4d51a01
+com.ebiznext.sbt.plugins	sbt-sonar_2.10_0.13	0.1.1		9f6fdf385875c769b424bd25ea8e7c096a192f40
 com.fitbur.testify	api	0.0.1		dd5c3581d3b4edde055201cfa11d955b124f8f3d
 com.fitbur.testify	api	0.0.2		434095ca693afffa0279d3a2b08aa3c73f350a15
 com.fitbur.testify	api	0.0.3		de185255d002ecb464f81c1c87ce9a414287f81e
@@ -844,6 +846,7 @@ io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.12.0		1e3c0396300db8541f50
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.12.1		1e3c0396300db8541f50a18d3b3444ba03c406aa
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.12.2		1e3c0396300db8541f50a18d3b3444ba03c406aa
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.12.3		3ace04bf4577b4be5cca8f4c9c7ec743638b456f
+io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.12.4		3ace04bf4577b4be5cca8f4c9c7ec743638b456f
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.3.0		bff1c54ea5a31a932214fa6df3648db11b36d6f6
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.3.1		bff1c54ea5a31a932214fa6df3648db11b36d6f6
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto	0.4.1		bff1c54ea5a31a932214fa6df3648db11b36d6f6
@@ -1183,6 +1186,8 @@ io.johnsonlee.exec	html2csv	0.6.0		7d9da0d0f4b2a8d9dff3d5af265fd806f28d9780
 io.johnsonlee.exec	html2csv	0.6.0	all	789afac8996cac7b615bd277667e6b6bf9841034
 io.johnsonlee.exec	html2csv	0.7.0		21073e605cf245d5210c517e771e735d1b1fcb14
 io.johnsonlee.exec	html2csv	0.7.0	all	10ff023d334afe0065fcc54ba3d90f7f00babfbc
+io.johnsonlee.exec	html2csv	0.8.0		429d3fa8844157712f5219dfced9c0a30bffee2a
+io.johnsonlee.exec	html2csv	0.8.0	all	3a098b82958e2371a884e29d050e33e045df30dd
 io.opencensus	opencensus-contrib-log-correlation-stackdriver	0.15.0		89f99d0d4184ce6c7584486556159d1b372263c9
 io.opencensus	opencensus-contrib-log-correlation-stackdriver	0.15.1		4cd1781695b4bff2f93f4a616b540338acf860ff
 io.opencensus	opencensus-contrib-log-correlation-stackdriver	0.16.0		0bbb9d241ee539de61072d38261e9463d43c4def
@@ -1315,6 +1320,7 @@ org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.2.1		041b9d425b2a4
 org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.2.2		4d327250ecf923768ce50e3e6d774275faded5e4
 org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.2.3		b91fc32cad0197f5b1d6938f05c7e34dbedcd526
 org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.20.0		70f25f63b3dfbfb01c30deec0867002f74404946
+org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.20.1		ec9be8e0453bc252521ef98552298cfd1e9f27eb
 org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.22.0		eb569ec1e9974a0477e3816210827e3b6ae92e3c
 org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.4.0		4c1955fee50d0098890c3b583c33aa785e097943
 org.apache.camel.quarkus	camel-quarkus-snakeyaml-deployment	3.5.0		f4a7ee195975c00449649813c2f4fb239c30acbd
@@ -1468,6 +1474,19 @@ org.eclipse.dirigible	dirigible-tests-integrations	11.41.1		aef3961944699b31a498
 org.eclipse.dirigible	dirigible-tests-integrations	11.42.0		134c2bc84659a4bc023e5bcac338a13fcc56722b
 org.eclipse.dirigible	dirigible-tests-integrations	11.43.0		76f60fc6a305b2af9ca10a0f9af605927b895a39
 org.eclipse.dirigible	dirigible-tests-integrations	11.44.0		9d323495da3884c5bc97a13c981112b49139bd40
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.0		7b07c37f434106fc17f2a70c5dc3c488e0efd03a
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.1		175baeea7d2103332f6726c706ffdbdf9de0acfc
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.10		d50e03b3417f1cdf7efb4224c3acf3144a7e45c8
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.11		4fc12e7e17aa14067aef30ecac9ea357da279dd0
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.12		cd8416bcd21983b8b381f8dc4140a0e9b68784a8
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.13		2fcbb3400fb4ad55ff5fc52a3978a7a7298fc478
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.3		0e2349b4e4fbc6e370d1b752df58419c015dd877
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.4		f2d14ef35abfc2a5bd97be447997940e734fd07f
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.5		9983d912c44795f8c1664075d54b4a95067f7291
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.6		cc967dbfb69d6f451de7744259462cefc2e21fd2
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.7		bc7aead1963de56ab0bc1a92e8a66d5df12ce588
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.8		d8c281d6746c7101c14cf365de0a81fdf4b61645
+org.eclipse.dirigible	dirigible-tests-integrations	11.45.9		e0594cf776da6fdbda9517a5a40459184b0811fc
 org.eclipse.dirigible	dirigible-tests-integrations	11.5.0		0ac4be2ab71fcad424a0ee56fcff4e5a7758c167
 org.eclipse.dirigible	dirigible-tests-integrations	11.6.0		256e4a834b407c7c95b48abcd72134dc59635d37
 org.eclipse.dirigible	dirigible-tests-integrations	11.6.1		33bfe25b4976488b040cfc1ad59806cf9c117aa3
@@ -1666,10 +1685,12 @@ org.jetbrains.kotlin	kotlin-annotations-jvm	2.1.20-Beta2		c754477543c8831d112ada
 org.jetbrains.kotlin	kotlin-annotations-jvm	2.1.20-RC		c754477543c8831d112ada86960800097aae2491
 org.jetbrains.kotlin	kotlin-annotations-jvm	2.1.20-RC2		c754477543c8831d112ada86960800097aae2491
 org.jetbrains.kotlin	kotlin-annotations-jvm	2.1.20-RC3		c754477543c8831d112ada86960800097aae2491
+org.jetbrains.kotlin	kotlin-annotations-jvm	2.1.21		c754477543c8831d112ada86960800097aae2491
 org.jetbrains.kotlin	kotlin-annotations-jvm	2.1.21-RC		c754477543c8831d112ada86960800097aae2491
 org.jetbrains.kotlin	kotlin-annotations-jvm	2.1.21-RC2		c754477543c8831d112ada86960800097aae2491
 org.jetbrains.kotlin	kotlin-annotations-jvm	2.2.0-Beta1		c754477543c8831d112ada86960800097aae2491
 org.jetbrains.kotlin	kotlin-annotations-jvm	2.2.0-Beta2		c754477543c8831d112ada86960800097aae2491
+org.jetbrains.kotlin	kotlin-annotations-jvm	2.2.0-RC		c754477543c8831d112ada86960800097aae2491
 org.jetbrains.kotlinx	kotlinx-serialization-protobuf-wasm32	0.20.0		N/A
 org.jetbrains.kotlinx	kotlinx-serialization-protobuf-wasm32	1.0-M1-1.4.0-rc		N/A
 org.openmole.scaladget	ace_sjs1_2.13	1.3.0		ee7cf6ffc9d865b93ee42b984b9870cc4eb8dee4
@@ -2409,7 +2430,18 @@ software.amazon.awssdk	securitylake	2.31.30		5fa429ca5909bf779fe90cf6f3836875540
 software.amazon.awssdk	securitylake	2.31.31		73e34d1e81b4fda8737b9040dab34db7d6d01eb5
 software.amazon.awssdk	securitylake	2.31.32		24612ad4e476a8c24c9deccc64181962e4d59c0d
 software.amazon.awssdk	securitylake	2.31.33		01784b9ed30b295da6250af1c3b2c1cb675be420
+software.amazon.awssdk	securitylake	2.31.34		28365a63a726058f8aca7324da07c0018f5c6cbf
+software.amazon.awssdk	securitylake	2.31.35		0275b76fadf5850ff744b3df7581013729638a93
+software.amazon.awssdk	securitylake	2.31.36		b3daa8779990ca7b84b2abb2a3baa8671324559b
+software.amazon.awssdk	securitylake	2.31.37		d2be9a71aa272c2ad77d637dd8b89e6e5a83e263
+software.amazon.awssdk	securitylake	2.31.38		25d714b4a493a06f0fffb6da6ff7509b14b47a2f
+software.amazon.awssdk	securitylake	2.31.39		6c7188b179735c5e7fc0f64d4091f966ef89384a
 software.amazon.awssdk	securitylake	2.31.4		69478e674bb0926deb93fe96df1db48a113710e9
+software.amazon.awssdk	securitylake	2.31.40		5acc7f0672129835c0768ee5ca22425f1c2dc4b6
+software.amazon.awssdk	securitylake	2.31.41		8a7128e15826e4ff3dee504b07cb398e494dbf4f
+software.amazon.awssdk	securitylake	2.31.42		6cad3208df75d1bab7fb8e770a0161f067daff9d
+software.amazon.awssdk	securitylake	2.31.43		638a504f076e538edede1baeb0fb779afbb2297d
+software.amazon.awssdk	securitylake	2.31.44		c98de7ad135bb9aa89f088a539d73aab4e8157dc
 software.amazon.awssdk	securitylake	2.31.5		952d9c5340a144d276a72593ff24390a5995d3c1
 software.amazon.awssdk	securitylake	2.31.6		15e97e10bbb6e9797bb87ee8c854bc2ba7d1b2d5
 software.amazon.awssdk	securitylake	2.31.7		5f2ace55681a348a118c716a9ef0dab3ae52c138

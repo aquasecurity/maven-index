@@ -647,10 +647,12 @@ com.scalar-labs	scalardb-server	3.12.3		625d46d43e9f763ae2f518d650cbd5b078fca512
 com.scalar-labs	scalardb-server	3.12.4		b849656b259bc1bf6f2a41ebd27188c651e911a2
 com.scalar-labs	scalardb-server	3.12.5		879843b3c03bab79561ead0f4a62d07f24af3a1a
 com.scalar-labs	scalardb-server	3.12.6		e73385ecaf441fba2291c1dcda2e92f4194d8f6c
+com.scalar-labs	scalardb-server	3.12.7		804e996811fe7911dea9f2a800ee05d0785ccd46
 com.scalar-labs	scalardb-server	3.13.0		a68b49fdc401e2fc7a70e59c90963c5b01f3d5af
 com.scalar-labs	scalardb-server	3.13.1		ed48ddadc2925f6b5bc4fdcf13884cb6d59fe8f9
 com.scalar-labs	scalardb-server	3.13.2		4ad0fece1f0626dcecf3c2b771d8cd047c1745f8
 com.scalar-labs	scalardb-server	3.13.3		4fe4ad7fb8229e95e67671d23e67105b87cb49af
+com.scalar-labs	scalardb-server	3.13.4		36bd9947042855c0d80f91d6bc4038f8500a9b04
 com.scalar-labs	scalardb-server	3.2.0		23a8e286777862fb2614880d5839fd7a7f4f39bf
 com.scalar-labs	scalardb-server	3.2.1		f572e99677c1e36f4089c1984569a41e313a8af2
 com.scalar-labs	scalardb-server	3.2.2		b6674d0a64e641f8bd253a174ab95d482d834904
@@ -1088,6 +1090,7 @@ io.helidon.tracing	helidon-tracing-config	4.1.6		d84317280f5506a6bbd02f1cc5d0c19
 io.helidon.tracing	helidon-tracing-config	4.1.7		2fc61c6e142bdfe7fba84d94d2435798959add34
 io.helidon.tracing	helidon-tracing-config	4.2.0		c1289b067afcc045a048158a260e25c7cb100b4d
 io.helidon.tracing	helidon-tracing-config	4.2.1		5d5bc693bd951ad5440a9b7cb079a4d1e30dc7e2
+io.helidon.tracing	helidon-tracing-config	4.2.2		81b2b684bb802604c7c8ddb01576d79260083e67
 io.insert-koin	koin-core-coroutines-macosarm64	3.4.0		N/A
 io.insert-koin	koin-core-coroutines-macosarm64	3.4.0	metadata	0e115808983196f75c0e01ef8f654b03b972b0bd
 io.insert-koin	koin-core-coroutines-macosarm64	3.4.1		N/A
@@ -1160,6 +1163,9 @@ io.insert-koin	koin-core-coroutines-macosarm64	4.0.4		N/A
 io.insert-koin	koin-core-coroutines-macosarm64	4.0.4	metadata	f124d0e8b388641974c720507c9192a122f991dd
 io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta1		N/A
 io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta1	metadata	c9ff99b15ef3cf189b3db81552c62bca71a6029e
+io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta10	metadata	6e141424bc40375521a75d91deaeb2c70b253441
+io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta11	metadata	9e3c7be178c2958049c77fe46ad8af39adf66f18
+io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta13-KTOR-EAP	metadata	2c16a095d56536223c5d56801a311a876d799d11
 io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta3		N/A
 io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta3	metadata	0791768d87a6843a1b3a514cc6df04a09d86747f
 io.insert-koin	koin-core-coroutines-macosarm64	4.1.0-Beta4		N/A
@@ -1410,6 +1416,7 @@ org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.2.1		80e1418b90b815
 org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.2.2		763ea1f042f95629964ef5318bffd23bdcc22bbd
 org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.2.3		9ffb52025d1cd1f1301114d61ee6b191b9bfaa63
 org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.20.0		18f729444610dbf88862966559a0befed1939a9f
+org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.20.1		714a191a9d78a0dd50b585bffbde0c2c47e89d2c
 org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.22.0		98a598267ce0ee6a739e374e7e3369a759b61489
 org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.4.0		1564847d4cf4ad1ed04f5fde8a82ddfc74bf5106
 org.apache.camel.quarkus	camel-quarkus-influxdb-deployment	3.5.0		4e8dd6e2b08149d78aabb6ba11ce81e643c1ade3
@@ -1522,6 +1529,7 @@ org.apache.openjpa	openjpa-kernel	1.0.2		d20e40b1ae7e32ca12fce2c8fe634caceff4384
 org.apache.openjpa	openjpa-kernel	1.0.3		83a77b5286c53a9efd8e20b020b5fca711cf2fd0
 org.apache.openjpa	openjpa-kernel	1.0.4		48b3bcb559dc48f93be863ddea31259a87518338
 org.apache.openjpa	openjpa-kernel	1.1.0		bdd7581c3858a29500f9ea7a02fa2e2d347c0f76
+org.apache.openjpa	openjpa-kernel	1.1.0.orig		8c8b6eae916e15b086cff0d7ac3e34c5f2e0d091
 org.apache.openjpa	openjpa-kernel	1.2.0		65195cfa6d94960034ac7f7a74d2e36c6fcb8855
 org.apache.openjpa	openjpa-kernel	1.2.1		b5b29c4153bdd6375293e257c411985d9a2e2c39
 org.apache.openjpa	openjpa-kernel	1.2.2		8897b4a03402f75eceff73e141fcf2215fed1479

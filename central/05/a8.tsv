@@ -516,6 +516,7 @@ dev.zio	zio-aws-geoplaces_2.12	7.31.27.1		44d2eeeada6344a0763a751e59254f0831e7ac
 dev.zio	zio-aws-geoplaces_2.12	7.31.28.1		272890ebca3476d0c7bbb713f8e88594ec9c494d
 dev.zio	zio-aws-geoplaces_2.12	7.31.3.1		c652779257c7789a612407879521e5025ee4f7cf
 dev.zio	zio-aws-geoplaces_2.12	7.31.30.1		7c534c7c475fcc8a4e1f60f0fc9328b77c2fc4ec
+dev.zio	zio-aws-geoplaces_2.12	7.31.30.2		273350f389f9963e7926e2d082c1331ccca08c42
 dev.zio	zio-aws-geoplaces_2.12	7.31.4.1		efe7672ce9f883fc3602538dc2a8c0a1788caa39
 dev.zio	zio-aws-geoplaces_2.12	7.31.6.1		4e08a553900d8a533cf3add497267b9abfcdd540
 dev.zio	zio-aws-geoplaces_2.12	7.31.6.2		426ce18c99e749ecb1d092735638b107e9473bd2
@@ -594,13 +595,16 @@ io.getlime.security	powerauth-rest-client-spring	1.7.2		1803dcfc01450dc3c3a88b90
 io.getlime.security	powerauth-rest-client-spring	1.7.3		644fc498f2d950cb916628941296396799a6cd09
 io.getlime.security	powerauth-rest-client-spring	1.7.4		20c84ba7d7b3af8b0720566de0eed8f1d81b3b97
 io.getlime.security	powerauth-rest-client-spring	1.7.5		524edf1a45dd7f5cf1dd999af10513d7eeb791b5
+io.getlime.security	powerauth-rest-client-spring	1.7.6		c00c05d6aaa206bf1cfcca48982c2048e75bfb7d
 io.getlime.security	powerauth-rest-client-spring	1.8.0		63545fe38b96314ce44ab646bdb116aff2abd3ad
 io.getlime.security	powerauth-rest-client-spring	1.8.1		e780837734565993a20e3de22fdad92a9ca58f6f
 io.getlime.security	powerauth-rest-client-spring	1.8.2		5d466813fb2a5942bd561acfb760238f7585e818
 io.getlime.security	powerauth-rest-client-spring	1.8.3		9ee8e5544a61126b3c6bde65f4aacdcbc1dfc900
 io.getlime.security	powerauth-rest-client-spring	1.8.4		1eeebd97559652f0f51517cc806df77f91e9dc0f
+io.getlime.security	powerauth-rest-client-spring	1.8.6		0a5ebad7fa14532dfc68398ea1dd69c9228377d3
 io.getlime.security	powerauth-rest-client-spring	1.9.0		0e51d0e5664b300caabb52be6574ca847e95b317
 io.getlime.security	powerauth-rest-client-spring	1.9.1		ec8f9e86b29bfb7a0a236869d988643615176c3d
+io.getlime.security	powerauth-rest-client-spring	1.9.2		859b90f0ca15529e4af4776f79d2c562eb8ff2fe
 io.github.Maple-pro	JMockK	1.1		bbd4062fc7cb160fdbf2ff55ce34490814875c09
 io.github.Maple-pro	JMockK	1.3		dff986d1cbd7c4163b19f1e495c8d891f5f3a1da
 io.github.Maple-pro	JMockK	1.4		54f304a5d0b4824f7c6675ffcdf277974261074e
@@ -609,6 +613,7 @@ io.github.icodegarden	nutrient-shardingsphere	3.0.1		1e74750e336fc7100f4b487fc8d
 io.github.icodegarden	nutrient-shardingsphere	3.0.2		2f93cad5cd91483a0b3211d285876a428a224217
 io.github.pandulapeter.kubriko	tool-scene-editor-api-iosx64	0.0.2		N/A
 io.github.pandulapeter.kubriko	tool-scene-editor-api-iosx64	0.0.2	metadata	570dcefc11749bccd0c7a9caba4b3b7a0b7c3b89
+io.github.pandulapeter.kubriko	tool-scene-editor-api-iosx64	0.0.3	metadata	76e3008fba56731e4fb096e78ae726e95fa61f7f
 io.github.reporting-solutions	org.eclipse.birt.report.data.oda.excel.ui	4.8.0		786a3510baf7b88513894cf4535456cb6ac1409e
 io.github.vinccool96.uncaught	uncaught-exception-handling-jvm	1.0		717be0bc27a483606f753981c7df3f406917b35c
 io.github.vinccool96.uncaught	uncaught-exception-handling-jvm	1.1		507a69e14205a7acd550b53613a8f15c578b33af
@@ -905,6 +910,7 @@ org.apache.camel	camel-leveldb	4.8.3		0be767cb5a4db6eb2f716a3d5b8ba9515b0ed008
 org.apache.camel	camel-leveldb	4.8.4		594e91dd1ad183e8ffac594c3777f95fb515b0d9
 org.apache.camel	camel-leveldb	4.8.5		e29909ed51808d1cca3c9f27c1a69e133e04cadf
 org.apache.camel	camel-leveldb	4.8.6		df51556962ef4032257a8573bf351d5804534170
+org.apache.camel	camel-leveldb	4.8.7		daa7075cc5b9b583d7a5fe7fd6381d231b0680fb
 org.apache.camel	camel-leveldb	4.9.0		a5078991a32f34ad4ca7bd8a74367d97752e0b66
 org.daisy.pipeline.modules.braille	pef-to-html	1.1.0		53d423c48061ced12bc04bee26744bc5b6a925c5
 org.drewcarlson	objectstore-json-watchosarm64	0.0.2		N/A
@@ -2043,7 +2049,18 @@ software.amazon.awssdk	ruleset-testing-core	2.31.30		17a2464201cc45168746f97a2ca
 software.amazon.awssdk	ruleset-testing-core	2.31.31		d1cadf7c324357c3e5db56a6bea09a52596f4805
 software.amazon.awssdk	ruleset-testing-core	2.31.32		963365be80c4507c24ec572c39303013a4f7e0aa
 software.amazon.awssdk	ruleset-testing-core	2.31.33		0de06392ea00b85718251595e339778b70304de7
+software.amazon.awssdk	ruleset-testing-core	2.31.34		17a6fb244f474e256e4d0f925fc0583f7e285dac
+software.amazon.awssdk	ruleset-testing-core	2.31.35		575c3ab265b55f78c9f70c32236f24183bc44e28
+software.amazon.awssdk	ruleset-testing-core	2.31.36		4bc28c7d0e7ff1ab1faf9a9139bd98d37d97f3ad
+software.amazon.awssdk	ruleset-testing-core	2.31.37		4b3a33aa0801095a819e67ac7b65859795bfc865
+software.amazon.awssdk	ruleset-testing-core	2.31.38		ed705d41c5e166385bd8df72ae7b80ace35fa42b
+software.amazon.awssdk	ruleset-testing-core	2.31.39		3397875d94691fed50d39c7026ebee372b1933d6
 software.amazon.awssdk	ruleset-testing-core	2.31.4		d037669ebb17419bccf7f7427112fae8a4f5146f
+software.amazon.awssdk	ruleset-testing-core	2.31.40		c732c51a6d32238c99f0909857d4446bdd0f2adb
+software.amazon.awssdk	ruleset-testing-core	2.31.41		48967611fb610e44e756bf356a7a24ab2d547dfe
+software.amazon.awssdk	ruleset-testing-core	2.31.42		4059bc457ee45e8c0e8a835b76f1e79a8b93a99c
+software.amazon.awssdk	ruleset-testing-core	2.31.43		30945704cd95fa4168344bc97e7e38492b6e6b83
+software.amazon.awssdk	ruleset-testing-core	2.31.44		51ad39dacdddbf81fc5eaffe6e46a35ca372aea3
 software.amazon.awssdk	ruleset-testing-core	2.31.5		be2707fd5bfdc559472357de29481c61e1771dc3
 software.amazon.awssdk	ruleset-testing-core	2.31.6		91e4ee6251503f7102f2e1e2f70884570a90ed08
 software.amazon.awssdk	ruleset-testing-core	2.31.7		fde9766f8e21d76bf7dc1eb10684dc13de3803a6

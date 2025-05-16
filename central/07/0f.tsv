@@ -63,6 +63,7 @@ com.buschmais.jqassistant.core	neo4j	2.6.0-M1		e64cadbe660cbd8864a0e912622070eb5
 com.buschmais.jqassistant.core	neo4j	2.6.0-M2		a7cfadb031572acddab614ca70ed33bfe367ba3d
 com.buschmais.jqassistant.core	neo4j	2.6.0-M3		e0bece25f3bb1d194cee5a1582ca4527b18cc8ab
 com.buschmais.jqassistant.core	neo4j	2.6.0-RC1		bd059941682a089d5508c24200fae6b0d85b393c
+com.buschmais.jqassistant.core	neo4j	2.7.0		531552a81711b442620f599c22b797e95a3a5abf
 com.buschmais.jqassistant.core	neo4j	2.7.0-M1		4d2570037c40ab9e5475b74fb93cec5f4ce5b004
 com.buschmais.jqassistant.core	neo4j	2.7.0-RC1		d38e489fede24a0ba3db65c8bbb082e01c332395
 com.feedzai.openml.lightgbm.meta	openml-lightgbm-meta-module	1.0.11		N/A
@@ -1478,7 +1479,11 @@ io.shiftleft	overflowdb-traversal_3	1.98		af7d4ed12c4da48fcbd628c01255a5326dfe22
 io.shiftleft	overflowdb-traversal_3	1.99		9e179135f2c62c8b38260b7e85524e8719e8e6e2
 io.spinnaker.kork	kork-runtime	2025.0-0		8d3056e9dc3b0b14a658518296c4b0f4f73f125a
 io.spinnaker.kork	kork-runtime	2025.0-1		87a630daa1bcf0b9d21aedf33b034d457f51d0e6
+io.spinnaker.kork	kork-runtime	2025.0-2		38144eccbbce1ceaf83b8ebb1879c48f7b862472
+io.spinnaker.kork	kork-runtime	2025.0-3		06a787547da812d05c6661f92ff42fd1f7997283
+io.spinnaker.kork	kork-runtime	2025.0-4		9a51d7de7edbd65ad02abcbf2628c21f740d92c3
 io.spinnaker.kork	kork-runtime	2025.0.0		a96f6ea706ea5197004dfb6c1ea2955a2e2e55bd
+io.spinnaker.kork	kork-runtime	2025.0.1		21c3a7a97a9817bcc50551582014935e55167c89
 io.spinnaker.kork	kork-runtime	7.105.0		6acd1479465b47cb74472ac9186ee8799a0866d3
 io.spinnaker.kork	kork-runtime	7.107.0		458c87762d3ca1fa3003ffebdf542ea1758902c9
 io.spinnaker.kork	kork-runtime	7.108.0		3f0f701dfc71fb734f14ae0c2d2a03cfd58fbf3d
@@ -1658,10 +1663,14 @@ io.spinnaker.kork	kork-runtime	7.92.4		51f726afcb185b8adb0385b663a2621ed26e27f7
 io.spinnaker.kork	kork-runtime	7.92.5		00ea32e421cb72f8c3028091b46b3ba344d414ea
 io.spinnaker.kork	kork-runtime	7.92.6		8f295ca345325e92a8807ca9fd1ac420a6fce6d6
 io.spinnaker.kork	kork-runtime	7.92.7		6ed7dd725bd90690b0b5f0f92cb0bb9b03167e17
+io.spinnaker.kork	kork-runtime	main-10		bbbf5a6ef8ed4f5cafafd11cd61aaa0caeab5cb5
+io.spinnaker.kork	kork-runtime	main-11		83a1677bcb1b5ad62f444ca03b9d756bbf30aa10
+io.spinnaker.kork	kork-runtime	main-12		8160a7c3918bbc4496d3305f7f18877d2badd931
 io.spinnaker.kork	kork-runtime	main-5		14196b9c65406b80e4e0be513c7c6d6791859a1a
 io.spinnaker.kork	kork-runtime	main-6		2b6b28a13a2d1dbe446e2ec7c71eb2115dfa3583
 io.spinnaker.kork	kork-runtime	main-7		dfa7ab095f107cb16ea04bc64d165b374acf964c
 io.spinnaker.kork	kork-runtime	main-8		0d306d8455328a84698e000ad11ab8cdf8ed24f0
+io.spinnaker.kork	kork-runtime	main-9		5c81ae00f763dc6c401bb6cf4e1cea7609731735
 io.toxicity.crypto	rsa-iosarm64	0.1.0-alpha02		N/A
 io.toxicity.crypto	rsa-iosarm64	0.1.0-alpha02	metadata	594d714cfe32b7e79f6b191a753a694c8092ad7d
 io.toxicity.crypto	rsa-iosarm64	0.1.0-alpha03		N/A
@@ -1722,6 +1731,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.2.1		f5484
 org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.2.2		b2ec4efc7d0e050bbb90b2d68a8bab94ece63e71
 org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.2.3		780dd6f2537ab03252aa1e1a807cfcf41644e5f7
 org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.20.0		6d140c841b6b9aab8e466c768cc27754bfd77ae5
+org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.20.1		6fe11c10b9bfac01b19746b24556779dbf61ea35
 org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.22.0		87869cfb87bc65f2e72c833a03b30bf585adc275
 org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.4.0		0e3ce24d45f8d8cf171556e56f6868355aa579aa
 org.apache.camel.quarkus	camel-quarkus-integration-test-xml-grouped	3.5.0		642882c88df952821ce8febb9c433beb0225912d

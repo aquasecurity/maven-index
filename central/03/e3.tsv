@@ -523,6 +523,8 @@ com.vaadin	vaadin-charts-testbench	23.5.12		87cac8869c4fcba4d96dbe1ffc13ac2c875d
 com.vaadin	vaadin-charts-testbench	23.5.13		f7e974a04b75c36c6ce8b5415cfd92d5827bc5c2
 com.vaadin	vaadin-charts-testbench	23.5.14		5492ad3949af5cb86575f08371235b1110a1899c
 com.vaadin	vaadin-charts-testbench	23.5.15		bc0f29a47fab47cd66ad02c4d5239864f0496a08
+com.vaadin	vaadin-charts-testbench	23.5.16		51f4d1302269ebf1ff368909e15c0ccd4a815209
+com.vaadin	vaadin-charts-testbench	23.5.17		522a3fd57efaa6a9ce982595734a618a63765b29
 com.vaadin	vaadin-charts-testbench	23.5.2		64ceeb224895045268127d0326fa62fc93d874f5
 com.vaadin	vaadin-charts-testbench	23.5.3		27257f2bc98009cd516b3f6dbbeacd5958e7651d
 com.vaadin	vaadin-charts-testbench	23.5.4		9f858d7985273da5db411305f5712a0d526e1e86
@@ -637,6 +639,7 @@ com.vaadin	vaadin-charts-testbench	24.5.8		be72dde4331d6efd6553c049dee7451be922b
 com.vaadin	vaadin-charts-testbench	24.5.9		351346834c05ddf59acd5025084d82a7832b1fb9
 com.vaadin	vaadin-charts-testbench	24.6.0		72a01368454838454c7a4a933af20cfbabf56a51
 com.vaadin	vaadin-charts-testbench	24.6.1		4f0108aefd6d1406deb5c3e0ecede405e43b5570
+com.vaadin	vaadin-charts-testbench	24.6.10		85430af4b7253c3cd5a02f88c695d48aad0b2021
 com.vaadin	vaadin-charts-testbench	24.6.2		42dd9280d5318d01809b9ff88c9c7324d51fa995
 com.vaadin	vaadin-charts-testbench	24.6.3		02f195993e68e61355e87961cd23c6023db1af08
 com.vaadin	vaadin-charts-testbench	24.6.4		4bd3d4e1cccfb6dfc21b1f3f12adcbd9be4af016
@@ -649,6 +652,7 @@ com.vaadin	vaadin-charts-testbench	24.7.0		602d24d5967d6012d5cb46a37500730ee7904
 com.vaadin	vaadin-charts-testbench	24.7.1		24b40357f20255ffe8d4368481067bd6f07c6b1d
 com.vaadin	vaadin-charts-testbench	24.7.2		50fe495e434169e06f9ef85a60a57fe3e87bb48b
 com.vaadin	vaadin-charts-testbench	24.7.3		c102d2263ed03dc0100a82d83b17c84522099a77
+com.vaadin	vaadin-charts-testbench	24.7.4		e3e7ded889a6987b5ba00ece9871c92c13fcec18
 com.vaadin	vaadin-charts-testbench	6.0.1		a1e517341042ca27d52cc54d50c43e145ee00bbc
 com.vaadin	vaadin-charts-testbench	6.0.2		7459acfe79e45aad9c70099d44648e99249b9465
 com.vaadin	vaadin-charts-testbench	6.1.0		5c1444cff92fa016175356f51b073ca09850e60e
@@ -786,6 +790,7 @@ dev.zio	zio-aws-supplychain_2.12	7.31.27.1		509d5be5381577191a38e4d503cf1168f719
 dev.zio	zio-aws-supplychain_2.12	7.31.28.1		34f43be041498a1d9d1a35705f02d3f6e2d95fcb
 dev.zio	zio-aws-supplychain_2.12	7.31.3.1		9da77bf43609afe5041d8deb48da75fdde06f762
 dev.zio	zio-aws-supplychain_2.12	7.31.30.1		5f97c23b49bc70093981adc86f4da9f19fb1d59a
+dev.zio	zio-aws-supplychain_2.12	7.31.30.2		dc24f2bc50a1b3b6aecc7cad5c83a042ce2a6cdf
 dev.zio	zio-aws-supplychain_2.12	7.31.4.1		32ec770a012aa6afd8548f48c12c3629cc37a44d
 dev.zio	zio-aws-supplychain_2.12	7.31.6.1		9ed9a452d933bfebf6b4d88b74de9ba2337d1cdc
 dev.zio	zio-aws-supplychain_2.12	7.31.6.2		a5c9ba9eb128989563915d31d74f4040750d43d1
@@ -1147,6 +1152,7 @@ org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.7.1		N/A
 org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.7.3		N/A
 org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-watchosarm64	1.8.0-alpha02		N/A
@@ -1631,6 +1637,8 @@ uk.co.real-logic	artio-binary-entrypoint-impl	0.165		76bc2d26d10d92f235ea7168a0a
 uk.co.real-logic	artio-binary-entrypoint-impl	0.165	all	a63e065daf77022c2e0eb14c38c9c56612960cad
 uk.co.real-logic	artio-binary-entrypoint-impl	0.166		f2d8052fd67a382e4767b0c3b4d5bb4490c26112
 uk.co.real-logic	artio-binary-entrypoint-impl	0.166	all	7eeda31b64410329aba5f1a8e2091ec06242fc86
+uk.co.real-logic	artio-binary-entrypoint-impl	0.167		0f6303dee0cb583ed5b04195c92fb1437f16a8c0
+uk.co.real-logic	artio-binary-entrypoint-impl	0.167	all	10bdeb13f9b24bfb336872304fe7f96cc41dc5c8
 uk.co.real-logic	artio-binary-entrypoint-impl	0.90		400ba554df0696d6de77c1692ba58f661b4d6d87
 uk.co.real-logic	artio-binary-entrypoint-impl	0.90	all	c1e334995b766e5d899c0f02840f7bfdedefde5a
 uk.co.real-logic	artio-binary-entrypoint-impl	0.91		eaf953943f1972965470933bd1a3786f52b86c2e

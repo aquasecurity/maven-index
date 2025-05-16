@@ -159,6 +159,8 @@ com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.63.0		a242a4c3
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.64.0		e67f95eca4d62f35b924b4bddb6997e04bb27234
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.65.0		b228dd99f7ae48e88c25eead092556cb23c746fa
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.66.0		529908f02d7778d230e9867ea7c845934f459007
+com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.67.0		efb47cc21dfcd06aa91204ab8154c36ff7e08ff3
+com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.68.0		84642539e38abf3c4fe45329ff01c2678a5a96d2
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.7.0		3ab304f753c2417866c64b817933ca57c8d066c9
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.7.1		e02371b5c24161d10f4dfb39afd6bd1b4ca82a48
 com.google.api.grpc	grpc-google-cloud-dataproc-metastore-v1beta	0.8.0		689767acfea98c581ed4195d50d9985c8001e30c
@@ -461,6 +463,8 @@ com.oracle.oci.sdk	oci-java-sdk-blockchain	3.63.0		e280339a6c6dfaa6bb1d3028af482
 com.oracle.oci.sdk	oci-java-sdk-blockchain	3.63.1		437b11d85662a09d8a63d9de7614ab91e288bfb0
 com.oracle.oci.sdk	oci-java-sdk-blockchain	3.63.2		e0832cb0c131439eaa1c75344b3978198c6f41b7
 com.oracle.oci.sdk	oci-java-sdk-blockchain	3.63.3		cbd6fe90875a3572375379d3757cf8438f4daf60
+com.oracle.oci.sdk	oci-java-sdk-blockchain	3.64.0		8eb4b67cf778e96b9662b7a19cf2d3a88db13b46
+com.oracle.oci.sdk	oci-java-sdk-blockchain	3.65.0		4dc33948e2867ef48913bf3ee986cddb98a7580f
 com.oracle.oci.sdk	oci-java-sdk-blockchain	3.7.0		474411696acc5745c54f7dc650bbbd63c22b8699
 com.oracle.oci.sdk	oci-java-sdk-blockchain	3.8.0		02a6effadb77cf979d9ee93035a95821a5ff39bb
 com.oracle.oci.sdk	oci-java-sdk-blockchain	3.9.0		39962731bbb2d6fc023e17af75e84e455a6696ec
@@ -1423,10 +1427,17 @@ org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPla
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.80.0		bfda5fb7f01f04512916242704918482b4b0241c
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.81.0		8aa19f309da0b0428f9325195fcf745678628c15
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.82.0		96806de2d95e1f5b4df1abd4e42a4c88194c0d9a
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.82.1		70b0f2e44b1b31d2173d0ff6e5d2440384b2f10e
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.83.0		499ec9e120c8d3a88ff62e9ebf033b1556d71371
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.83.1		5759a39f56eb675084d8bc5ec356c6346c2ce97a
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.83.2		7b3597444aa231bf96c7c330179e0cc4052d205a
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.83.3		47eee2d8100e32f2c2f7a5636001b5abad4ad26b
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.84.0		3251c2d323f74ff07b10ecc563382dca770c103e
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.84.1		4835222328be24fda6db6e8d1decce187835710c
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.85.0		f47c347cf398ec93da339e1011f3be42c5a2d7c6
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.85.1		d4770039ed268d0aa5c615a9f9e318dc467c4572
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.85.2		623beefd29dfbbd108d127f78bed1abd1c21ca47
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.85.3		8defa3beb778f2b511b29abbb48ce4d3f65ca888
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-executionPlan	4.9.0		873ae3931b76a20872839f5b9a8d1caecb85bdf5
 org.hudsonci.plugins	groovy-postbuild	1.9-h-1		15cb91cc6c61d68bef8ff40d8a4a4ba445b2196b
 org.hudsonci.plugins	groovy-postbuild	1.9-h-2		3a2d80e8004a7203cf10aed4b158bd1530c28c27
@@ -3428,7 +3439,18 @@ software.amazon.awssdk	bundle	2.31.30		91af43c80cb4c0c5087f699496a183986f19898c
 software.amazon.awssdk	bundle	2.31.31		81a9ba2d402eb331fbc08c207d174c9e1ef33b94
 software.amazon.awssdk	bundle	2.31.32		ee1dc359da26e07207274406d302082b2fb411e0
 software.amazon.awssdk	bundle	2.31.33		330dcfc8544422c4e4e5b7deca96dd895509cf09
+software.amazon.awssdk	bundle	2.31.34		d93fdbf1bbea63e267335d5562e6fe7dc75c7bdc
+software.amazon.awssdk	bundle	2.31.35		f9ba8d652233fba36c0b9a543d616324b3329329
+software.amazon.awssdk	bundle	2.31.36		d73de5a192b75b245042009266a7ee79ba91c257
+software.amazon.awssdk	bundle	2.31.37		efdbb018e98da4f9f0655da756f1843413986739
+software.amazon.awssdk	bundle	2.31.38		96df044cf9ba87b5b81d75747cca600618f784cc
+software.amazon.awssdk	bundle	2.31.39		081d86cf70f44a8d8cb796c3d14746ad895560c8
 software.amazon.awssdk	bundle	2.31.4		3364a3687cdbc5574448085c7971c749f4655062
+software.amazon.awssdk	bundle	2.31.40		e462d7fdef4feb9770411095b13bafbe8853d98b
+software.amazon.awssdk	bundle	2.31.41		769e449a2983483241c815099ed19fed33dd3a74
+software.amazon.awssdk	bundle	2.31.42		342775dc9b32a49a0f12e9943a7e5be3681b11cf
+software.amazon.awssdk	bundle	2.31.43		429527ffe8b362604df00b9784b741460b10c79f
+software.amazon.awssdk	bundle	2.31.44		f317ada2f2036b2e7582d6d3f578a18151e8825d
 software.amazon.awssdk	bundle	2.31.5		3202aead760301f21d39e3cf7f42b0e597db9cef
 software.amazon.awssdk	bundle	2.31.6		fef1739a1d4b89abddf810fd1259cd302e5dff50
 software.amazon.awssdk	bundle	2.31.7		346e5227218790cdf3488d27cfd4c18b77d2b7af
@@ -3602,6 +3624,7 @@ software.amazon.awssdk	bundle	2.9.7		63c6a02927d5a853b2a7e09a1d257cab10b7798d
 software.amazon.awssdk	bundle	2.9.8		1523aa578650c16bbf3550f820e5b16d1ffc7ccd
 software.amazon.awssdk	bundle	2.9.9		fd7a7a4f1138631cecff30791a3587833f7a7daf
 software.visionary.quantities	big	2025.03.28		N/A
+software.visionary.quantities	big	2025.03.28	software.visionary.quantities	9c59e6a85e87ac19ed26c9475725a8dd3a61dd8c
 taglibs	log	1.0		f91ed5c83eca5ab72eb155a5247674e7a9d9027b
 today.bonfire.oss	jutils	1.1.0		3e6a1f7fbedad35f5af7bfd07d38d8a8fd3d7e11
 today.bonfire.oss	jutils	1.2.0		91a16ed44db2cae52f3ffb35d621735dc7663b2e

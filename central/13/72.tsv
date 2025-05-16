@@ -87,6 +87,7 @@ com.atlassian.connect	atlassian-connect-spring-boot-core	4.1.2		7e1cbc6ec3cc1944
 com.atlassian.connect	atlassian-connect-spring-boot-core	5.0.0		82a926bfa4cd68e99f9f25e4d529544e184874c6
 com.atlassian.connect	atlassian-connect-spring-boot-core	5.1.0		4012bbcc30ff80bea5b70d8c881714e7bb289d46
 com.atlassian.connect	atlassian-connect-spring-boot-core	5.1.1		df8ce82bbf3b4536b8ef588b75f49f5e847289de
+com.atlassian.connect	atlassian-connect-spring-boot-core	5.1.10		66891e078dac50933653c8cb10e4e40c82a545ea
 com.atlassian.connect	atlassian-connect-spring-boot-core	5.1.3		d01a0c82312107457f4a18203fff1849e0810e67
 com.atlassian.connect	atlassian-connect-spring-boot-core	5.1.4		1cec533e38ce4c76a15803fa34b8fab10d0b9459
 com.atlassian.connect	atlassian-connect-spring-boot-core	5.1.5		dca4df404299d7a6868a25a296cc92cff946693a
@@ -272,6 +273,9 @@ com.materialkolor	material-color-utilities-macosarm64	3.0.0-alpha01		N/A
 com.materialkolor	material-color-utilities-macosarm64	3.0.0-alpha01	metadata	ca6a0ed69f72cc390dcdf474a241746677241841
 com.materialkolor	material-color-utilities-macosarm64	3.0.0-alpha02		N/A
 com.materialkolor	material-color-utilities-macosarm64	3.0.0-alpha02	metadata	d4e6dd81e4fd97d6ac94fce65ade6476f27f845b
+com.materialkolor	material-color-utilities-macosarm64	3.0.0-alpha03	metadata	a94be3eca1de95f772b9c40a2e9a507762065c27
+com.materialkolor	material-color-utilities-macosarm64	3.0.0-alpha04	metadata	4596196c2ea8050b60654221e4cb6a1ea49659fa
+com.materialkolor	material-color-utilities-macosarm64	3.0.0-beta01	metadata	81aa2d0fc2529dd092445481c657dc6ec13d7940
 com.outr	testy_native0.4_2.13	1.0.0		bda65b24827bb72b2c37125a01aae268cef4cb2c
 com.outr	testy_native0.4_2.13	1.0.1		e979f7bf8d8cb12d0feb1ec2f9e000b5602881d4
 com.outr	testy_native0.4_2.13	1.0.2		f267cd2322db84833d4b05c48ae9d84bdc1d3019
@@ -291,6 +295,14 @@ com.salesforce.servicelibs	reactor-grpc-test	1.2.1		a875e24f127acdd5e7f12e1ec5ff
 com.salesforce.servicelibs	reactor-grpc-test	1.2.2		a9d85c16f33795b881769326072566701baaa11c
 com.salesforce.servicelibs	reactor-grpc-test	1.2.3		dfd486ba152f2a7a2f43681e11474c17b794e640
 com.salesforce.servicelibs	reactor-grpc-test	1.2.4		2ad6ac5da793a10b29e0e122c6beeaef0282cf9d
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	5.0.0+14-58fee160		6068d67636775226ffdc233dda4f877da9dde9ce
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	5.0.0+16-7c970451		1854877353b4478c804f0cf1baa4075918a63adc
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	5.0.0+17-b4b581de		6ab83b50c677d08e3433089da8354ac94753098a
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	5.0.0+18-5787fb2a		cb3d02d25da1289bda1b0f1a8e9fe584da9d1d9c
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	6.0.0		39ace9852152c4ba44254fdc7459231ac8d3557b
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	6.0.0+3-8fec7f33		598dc2804df85ed996fb9823f1558c1ee87a268a
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	6.0.0+4-00bdaed0		5c3c7d6aa49e849f1655c871757763ebd98b3819
+com.thoughtworks.sbt-best-practice	workaround-for-sbt-sonatype-issue-79_2.12_1.0	6.0.0+6-a063fb8b		1b252b2110c03ca56fb0a43b1225c93e83642d0e
 com.zto.fire	fire-flink_1.12_2.11	2.3.3		a35901504369a2a9367a89da46adb0f500094448
 com.zto.fire	fire-flink_1.12_2.11	2.3.4		2e7d467e301cae91d77ab1ed494bb78a93e6eac3
 com.zto.fire	fire-flink_1.12_2.11	2.4.4		09e5dbd218981b8e3eb6fffe7cd165abc9d11736
@@ -372,6 +384,7 @@ io.exoquery	terpal-sql-native-iossimulatorarm64	2.0.0.PL-3.1.0		N/A
 io.exoquery	terpal-sql-native-iossimulatorarm64	2.0.0.PL-3.1.0	metadata	2ba929e1243559bbbe26b29bf70474b7130e78bd
 io.exoquery	terpal-sql-native-iossimulatorarm64	2.0.0.PL-3.2.0		N/A
 io.exoquery	terpal-sql-native-iossimulatorarm64	2.0.0.PL-3.2.0	metadata	38bd39e4307182d5ab8d3c1a912cffdd202c34e0
+io.exoquery	terpal-sql-native-iossimulatorarm64	2.0.0.PL-3.2.1	metadata	8350ced13759bc5aed5b44bfd7ec0adae2409885
 io.github.adempiere	adempiere.test	3.9.4		a0a2d47bbe1269f0564d87ee7825417181084639
 io.github.adempiere	adempiere.test	3.9.4-develop-1.0		0f4e11074c39155f20c99122b7deec55487543c5
 io.github.adempiere	adempiere.test	3.9.4-rc-1.0.1		884c8d299bfbc33a3fe449d408b7a48ed72c9df0
@@ -435,6 +448,8 @@ io.github.alikelleci	easysourcing-spring-boot-starter	3.0.11		f48c77e0240a612d2a
 io.github.alikelleci	easysourcing-spring-boot-starter	3.0.12		4bb83d9ea1857f657012e3d3caae1f8088b3388a
 io.github.alikelleci	easysourcing-spring-boot-starter	3.0.13		7529a5e4aeefd5e509dd435ae98a1864c6aaba52
 io.github.alikelleci	easysourcing-spring-boot-starter	3.0.14		1007b8e86a29fdb62f6c43e9ff2f35ad9e1386dc
+io.github.alikelleci	easysourcing-spring-boot-starter	3.0.15		33a304bb20a777147020eb67a18f98d8d34dd116
+io.github.alikelleci	easysourcing-spring-boot-starter	3.0.16		983655f4ba05339e15c47739387f9959b441e5f9
 io.github.alikelleci	easysourcing-spring-boot-starter	3.0.2		c1efdb1f64651c3c1474fbb40833f07a921b0c90
 io.github.alikelleci	easysourcing-spring-boot-starter	3.0.3		0a9017df3ad76db54b55d7dec3f032fe0fddbe0f
 io.github.alikelleci	easysourcing-spring-boot-starter	3.0.4		9e46acd962291c5dba1516bcfbb69b84f2a2e817

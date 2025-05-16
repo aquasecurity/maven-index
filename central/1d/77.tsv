@@ -113,6 +113,7 @@ com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.10.6-preview
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.10.7-preview		cb0cad6236d6ded82727844585242dadee408c4a
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.10.8-preview		c98701966826b6fdca7969463924f90dc671b46c
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.10.9-preview		ac9ca894d0493f508b23c2efab738d35c930dc5d
+com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.11.0-preview		7d4c4f37b537f52f493fd9b1bd98cec1019e251b
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.2.0-preview		e8d8461fa8a18d72293ab918e1fa3c98c1ec84ed
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.3.0-preview		e1998900caa4961734ca80d1559adba7eb635d18
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	4.3.1-preview		31c51d3dd4e0a148ee38757bcd3bf4de8d7f6075
@@ -144,6 +145,7 @@ com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.11.0-preview
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.11.1-preview		02c65681e4b16f3d9648b21694513897ec05b2ff
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.11.2-preview		153d6faefccb18e92f964093fdb0a352cde7f64c
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.11.3-preview		7ceb4583d1fbc4be9787a36f529e7967035d1fe2
+com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.12.0-preview		f15f12e90ae3df758299fe678f9151a9d5936e73
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.2.0-preview		c99726b9e9b69ea78376e6a5b186461f07ce2165
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.2.1-preview		06e8481f7de342b7308310ba4ef8387c6e388f1f
 com.google.cloud	google-cloud-monitoring-dashboard-spring-starter	5.3.0-preview		cb0896aef8c2aa036847b25dc4a7fc8061e994fb
@@ -575,8 +577,10 @@ com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-42		
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-42	metadata	a2cf79ade7cc581146e786eb3a7978d1271ff5da
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-42-kotlin-2.1.21-RC		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-42-kotlin-2.1.21-RC	metadata	210cc0a5f822fe1085d26793b14c61048202ed91
+com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-42-kotlin-2.1.21-RC2	metadata	446baeacf3aea34bd4b574509f1f3a1bc3f3d58f
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1	metadata	93362f55ef8a74e5dfdfb1605d16b4a6d8754db2
+com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-43	metadata	49d8b6ea708548f10a2ec9a32650ff99cbecad55
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-5		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-5	metadata	4e153fda42de48b0ccb00f51e114ac0fb34e9db8
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-watchosx64	1.0.0-ALPHA-5-kotlin-1.8.20-Beta		N/A
@@ -1070,6 +1074,7 @@ dev.zio	zio-aws-config_2.12	7.31.27.1		b4665b37af4a033388f9442306d3ec139ffaf99e
 dev.zio	zio-aws-config_2.12	7.31.28.1		54dca29741ef9f4b76315961b7d9fb1dc7992047
 dev.zio	zio-aws-config_2.12	7.31.3.1		f961491c6264ec7f930a935e492f09059148f27d
 dev.zio	zio-aws-config_2.12	7.31.30.1		ce173e2639a33b7422d3167c9af30af8213672a7
+dev.zio	zio-aws-config_2.12	7.31.30.2		6aeb04da8dc854a0c238859628129bfd82600dee
 dev.zio	zio-aws-config_2.12	7.31.4.1		881915a69b70b45778a548cd9544ddb1f9c3bb5f
 dev.zio	zio-aws-config_2.12	7.31.6.1		811de1417e126525a6d2719adf6e8f8431dc50d7
 dev.zio	zio-aws-config_2.12	7.31.6.2		d716cd1b1d28c446123949552b51ff8097180334
@@ -1155,6 +1160,7 @@ dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.27.1		5eb1efb6708ecd630bc048d45ed90
 dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.28.1		acd1107b80459e27a49adc7e0a1cef219ec514b6
 dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.3.1		d1ac1df03ee642f4a3a000a77193035f14a8ec98
 dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.30.1		4c455231974e5972963ea33cac0215b7b2c91e52
+dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.30.2		77eb0852fa063ef598b612551bbbed19860bb609
 dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.4.1		9e8deadaa36c2cdcf9bb3ba7652a88d44c114247
 dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.6.1		9dbe7366f6b0a6d6ccf291506a0e894c494ec014
 dev.zio	zio-aws-timestreaminfluxdb_2.13	7.31.6.2		8ae81477ee695b42a12ceda02c8f4013519b274e
@@ -1381,6 +1387,7 @@ org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.2.1		b92424901bf954a7
 org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.2.2		6fe02e196386e75129b41c234a8f132a7bf6bda0
 org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.2.3		f2ada05ac61a6762060175d2769fe1c68942bdb2
 org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.20.0		5c7c6f3424a243e98512de6418277c587d3e0657
+org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.20.1		3b3c11dae6a3e2c3df916e80b07c9e56d9aab1ef
 org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.22.0		17a4344c2fe8201072dccf7a379aa482fb5a1ac9
 org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.4.0		2081bb185c3afcd8b3ff2f54ac6e3bb57eaded60
 org.apache.camel.quarkus	camel-quarkus-cm-sms-deployment	3.5.0		ff36958190048a2cf0f8600388207321fc9c95ee
@@ -1508,6 +1515,19 @@ org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.41.1		0f6
 org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.42.0		21185fb1a6407ab24875a26465809a72d27af746
 org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.43.0		4b86546a05966542e325ecc85fc736d9c7bfe3a9
 org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.44.0		9e767c469fdd632022e10aa1c0e45a04f191db03
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.0		c1af31c41610e66c00efd2bcf85ee9e50289b934
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.1		8a505d45f3a19fd3a32d45e3ce35ec875ae30560
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.10		4ca03d82e8c8df030b1f60a2250a68828466091e
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.11		4ec8e40be7bf47c9e85aff39617f264940cc3f4f
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.12		1f268b00131035182f9ee978d36cc992e02972fc
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.13		c181db6c24185ebb7cdaf6d0f1099bc46287f02c
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.3		b0fefb17ac4c9c693a0d4b549eea03bc2ffbfa98
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.4		994efe11acff894378b2667cb84b3d34e61b9f21
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.5		ef1beb4b46a410f6eb17fec08149de8c870dd246
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.6		9e0cd57835b84fbf50ff5f73393f0d4250dbc262
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.7		eb80f5a5147be0427bba52db2b7af705755c0a3a
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.8		b7ebfed06b11df41860d6ee6dec8ec1d50f68e87
+org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.45.9		403058f810cdeff97a9c4ade390558366938660d
 org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.5.0		9f0321aeecd689d6a870b611de82ae7ae7c38109
 org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.6.0		6c70f734817181784d53986d7470a5fe778690f6
 org.eclipse.dirigible	dirigible-components-ui-perspective-workbench	11.6.1		61e9f81abba7e8b136004838173d22140fcf2315

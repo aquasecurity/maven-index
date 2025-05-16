@@ -512,6 +512,7 @@ de.gematik.idp	idp-commons	29.1.0		4cca7055c424fb1d38d215765a540b26a78abc75
 de.gematik.idp	idp-commons	29.1.5		54e7ed56927d5453699552ce203e0256927b7b24
 de.gematik.idp	idp-commons	29.1.7		6442ee200a697d3b5588df1790e4c5ffd5fe8f50
 de.gematik.idp	idp-commons	29.2.1		026175ee71ac0d0f58e573fa459d4df95697216a
+de.gematik.idp	idp-commons	29.2.2		350d228baf35f94c6e4b748e8bb5518494d01183
 dev.benedikt.compression	sixpack	1.0.3		43ddc0ecbe8bcc1aa430eb8ea87f194d6d07cb99
 dev.mauch	spark-file-mover-2.4_2.12	0.0.6		6abc5ca3eddcdb8f5919e1795bf7986ff702be69
 dev.prokop.fps	drivers	1.0.1		d1397bf8e3719396b5f237bdb58e7a39cf85d17d
@@ -1161,6 +1162,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oaut
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.7.12_1		532aaa1fb67c3123dea8b823dc6c1c04b5372bc3
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.7.12_2		cd2a937d85e1f6f3821e78f55aaac2310f030f41
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.7.12_3		c0ff75b97449ea6332c9aaf7f30d8e9b2caaa393
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.7.12_4		0da2031836bb1d2c7e10e20abe722cde09da5a66
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.7.1_1		8de2bb15eefff51b841691761adf2dfc8dc6086d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.7.2_1		6b7f918f9bfdfd8fb124875793ba555d3867d2ae
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.7.3_1		361ffa3ff6f337e07301e40fd1943cef4d48b148
@@ -1168,6 +1170,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oaut
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.8.0_1		ba19b8180f943479002b9465b7abe834582253e2
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.8.14_1		3430ad6dcdbe2620b7c89b669b4c9cb05d2d822d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.8.15_1		049dce6b2927f7878a54564f611a69aecc3c8fc0
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.8.15_2		2a2b806346625d097803fcd97e7866c654169095
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.8.1_1		33e4ab768f5b44e8f599d7d5ca29d3a1fdd177c7
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.8.4_1		0a29842e86dc4f63d9daa523ee16b60184a770f3
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	5.8.6_1		e8cdfbd14932fde11fb00a835b3879260ca88a19
@@ -1185,13 +1188,17 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oaut
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.1.5_2		34c28b7d71a5c6c9b34b4b9d6de27c0c958be357
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.1.9_1		55aee6bee4fd3647178bfbeeda3f7531655b715e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.1.9_2		e285e8883e0dd3bf20d3bdfe7e6a05e967708779
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.1.9_3		ccd84d70c6c1553125da546eb8634dc8ec93b517
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.2.0_1		7469c26995b59fa616ef934b5a1eeb04e104db9e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.2.1_1		e47ee53deb4b54a8fc1ab597e006cef86ace3040
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.2.4_1		393be6ed5c932d1d62adc7b7ab1b7a4e4e575361
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.2.6_1		77eaf5bc77518bccebbf30fdf0a4bbb08c5ebd0c
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.2.7_1		cd6725094716d1826044af56d9691f49eff76078
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.2.7_2		00e4eff307f126a0f622bf3229d5fa9d50035014
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.3.3_1		37d6259f75aa7bcb09faea1e323ae6f8588403bd
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.3.4_1		6b7bec3c3b2a670af664c61440e29d0bc09d1e07
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.3.9_1		dda576fb505e5d37c90a58bac5d8a401c55d438b
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-security-oauth2-jose	6.4.5_1		49cc3fcd4aeba7acf403d6b9bcf9d378a672c2e8
 org.apache.skywalking	apm-elasticsearch-5.x-plugin	5.0.0-GA		2b49dc87cdf896ade8c37ab7c2b6fa37847d3ff2
 org.apache.skywalking	apm-elasticsearch-5.x-plugin	5.0.0-RC2		5304f14f7ac8cc696d3f21b0548e6fa0a59884ba
 org.apache.skywalking	apm-elasticsearch-5.x-plugin	6.0.0-GA		8a705d2e376f1d4e218e029c292f682ccec8f2b6
@@ -1443,6 +1450,7 @@ org.wildfly	wildfly-metrics	35.0.0.Final		8b2cfe2fcfdb57f8aa7f6d9e793f3bfea96f07
 org.wildfly	wildfly-metrics	35.0.1.Final		cd4c59320931eec8d52028f3fd4042995cc11b14
 org.wildfly	wildfly-metrics	36.0.0.Beta1		130556303c7158a38315ca9adfeefb551c60eb09
 org.wildfly	wildfly-metrics	36.0.0.Final		c76693dbc5440e49b0041dcb38964a282d25b3ae
+org.wildfly	wildfly-metrics	36.0.1.Final		3e66911e6f2275c89336bbcf64ea8703096c93f9
 org.wvlet.airframe	airframe-spec_2.12	0.23		6c9d320f8c030d7d6b52caeb1d2d168113e881c8
 org.wvlet.airframe	airframe-spec_2.12	0.24		b44de80831d77108ab2c447129fef58603ff5cc3
 org.wvlet.airframe	airframe-spec_2.12	0.25		d4340447ce1563176c615ca91e3b62dbb8524b6f

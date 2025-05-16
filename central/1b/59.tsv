@@ -210,6 +210,9 @@ com.lucidchart	piezo-admin_2.13	2.2.1		913cebd2b736474d2fa14e26d67e51cedac7e7b8
 com.lucidchart	piezo-admin_2.13	2.2.2		995dd7223503a06fa9046f220771cfaee945d9c8
 com.lucidchart	piezo-admin_2.13	2.3.0		c8c477bd36d7312c7a8bedcd39f449088c9ecb60
 com.lucidchart	piezo-admin_2.13	2.4.0		ca7529cd4155a326f305db730fe530fa8752fb71
+com.mayreh	sbt-reverse-dependency_2.10_0.13	0.1.0		06055235b1bd86bb353e2ae5120a7afee6c8d197
+com.mayreh	sbt-reverse-dependency_2.10_0.13	0.1.1		d371b810ec0e0eb7b12459b63a58a9e9562afb67
+com.mayreh	sbt-reverse-dependency_2.10_0.13	0.2.0		9f0713ba5ae5642ab6b7b9394b7a3817050d8db2
 com.mysterria.lioqu	lioqu_2.13	1.4		800a5e93cc14c7f6e746d82b74425e6e39f36f8e
 com.netflix.hystrix	hystrix-reactivesocket-event-stream	1.5.4		6498137b018a8fb910da1c653585b4f1700504af
 com.netshoes	distributed-process-worker	0.0.4		d5f381aa7ea6f649d3a0637f7c0f906cc667b4f0
@@ -964,6 +967,7 @@ io.ktor	ktor-server-core-jvm	3.0.3		91ac7599d2c8667a452bdb39b63c22ca21902e55
 io.ktor	ktor-server-core-jvm	3.1.0		2adfebc6d8fb4f25c6260a1bc5f476a311764938
 io.ktor	ktor-server-core-jvm	3.1.1		3acd462ece4690dd6ecad990f0ee0efbfcaab760
 io.ktor	ktor-server-core-jvm	3.1.2		e348b3c099bbd79106c724a8b49e6d52962ce0ec
+io.ktor	ktor-server-core-jvm	3.1.3		fe59c0964bf32bba16611a3d7f4842677b64c24f
 io.matthewnelson.kotlin-components	encoding-base32-androidnativearm64	1.1.4		N/A
 io.matthewnelson.kotlin-components	encoding-base32-androidnativearm64	1.1.5		N/A
 io.matthewnelson.kotlin-components	encoding-base32-androidnativearm64	1.2.0		N/A
@@ -1006,6 +1010,7 @@ io.realm	realm-transformer	10.8.0		f932e486edc29da859b813246bfd72c35d225b7b
 io.realm	realm-transformer	10.8.1		8cd8cbec77b9708d58faab382cca626393bb4a29
 io.realm	realm-transformer	10.9.0		e518b175ae9d2546eec4a04d94dc7bf52c2f4e1a
 io.sundr.tests	buildalbe-duplicates	0.200.3		fe36cd2b96bc2403faeda6744823f5c094d01508
+io.sundr.tests	buildalbe-duplicates	0.200.4		16b6ad92f40f2e0f7868c013ed9fcb1739470c01
 kz.greetgo.mybpm	test-register-util	4.5.1075		53e323666d8515c782baf25c8d1ae25740deea2f
 kz.greetgo.mybpm	test-register-util	4.5.1076		d59847798769d7d55c6a7a1bd8fa1bfc6303695c
 kz.greetgo.mybpm	test-register-util	4.5.1077		7a954cba8e93cc93ff91b2a8ba331e70f2a19268
@@ -2102,6 +2107,9 @@ org.http4k	http4k-template-handlebars	6.6.0.0		59e519abf90eb8a0397a50d9175f325c1
 org.http4k	http4k-template-handlebars	6.6.0.1		ca713dda29430f185504deffd6a6aa5e0ffe1cd5
 org.http4k	http4k-template-handlebars	6.6.1.0		719ee339050b7a430586836bc2b8fa1fe921cd67
 org.http4k	http4k-template-handlebars	6.7.0.0		30781449197963a84dfe0b66b043f0bbd726bf97
+org.http4k	http4k-template-handlebars	6.8.0.0		87727873db6d8c2b6d4517e563e589f239f33543
+org.http4k	http4k-template-handlebars	6.8.1.0		e460da6a67c6792515022ab3b6b6c5a01dbb3879
+org.http4k	http4k-template-handlebars	6.9.0.0		5d78ce51844d5318795302ffe528165352ce761e
 org.http4k	http4k-template-handlebars	v6.3.0.0		3763293c02de2e7cc9fc48c485bac589950a58f0
 org.http4k	http4k-template-handlebars	v6.4.1.0		1711f33375663921d57266ae7ae14cb5ebf8a10d
 org.jetbrains.compose.runtime	runtime-macosx64	1.2.0		N/A
@@ -2204,6 +2212,7 @@ org.jetbrains.compose.runtime	runtime-macosx64	1.7.1		N/A
 org.jetbrains.compose.runtime	runtime-macosx64	1.7.1	metadata	050a2baed0f05fdd07eff631c49736627ebb8694
 org.jetbrains.compose.runtime	runtime-macosx64	1.7.3		N/A
 org.jetbrains.compose.runtime	runtime-macosx64	1.7.3	metadata	050a2baed0f05fdd07eff631c49736627ebb8694
+org.jetbrains.compose.runtime	runtime-macosx64	1.8.0	metadata	25cf2acfea6a9d8c0d390d2bce8dcdea21979c34
 org.jetbrains.compose.runtime	runtime-macosx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.runtime	runtime-macosx64	1.8.0-alpha01	metadata	ee6a5d0f661c0511a6df68ce11d43a1179fa1fe1
 org.jetbrains.compose.runtime	runtime-macosx64	1.8.0-alpha02		N/A
@@ -2825,6 +2834,7 @@ systems.manifold	manifold-js	2025.1.10		bb1a5337d59e6bf987b88ef3d8c140c50514fdab
 systems.manifold	manifold-js	2025.1.11		6b98fd6cc04d2d19e3b7be36d9b4ffcde6e203ee
 systems.manifold	manifold-js	2025.1.12		149858d706d4a4519089634c7ff2a7b411ef28fa
 systems.manifold	manifold-js	2025.1.13		6a2486e4e9b2f0e3de006b39782aa477269758e9
+systems.manifold	manifold-js	2025.1.14		ce47f628dccc317eaaae13a70fa05e5a8badbc08
 systems.manifold	manifold-js	2025.1.2		9d6afa35171a93f8eedc16422362ad0c8763e831
 systems.manifold	manifold-js	2025.1.3		079b76532bac12aa66b10e8a12cb042cef62ac50
 systems.manifold	manifold-js	2025.1.4		74cf0745abc6a3f20b1e182533e2e87d494e1355

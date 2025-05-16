@@ -22,6 +22,7 @@ cloud.piranha.feature	piranha-feature-https	25.1.0		e65c0a5b8062a4a2d061d9b88ecf
 cloud.piranha.feature	piranha-feature-https	25.2.0		6f46fdc47ddf5f245a7b078eac6b7e36cee8b7de
 cloud.piranha.feature	piranha-feature-https	25.3.0		f45f33928dbae48539edc009fd6bbbbb9e5362e1
 cloud.piranha.feature	piranha-feature-https	25.4.0		fb69ea73ebdcb92da888c9fb7a8bec03d9f6edc2
+cloud.piranha.feature	piranha-feature-https	25.5.0		5d7e5287cce2b1d3e3c82bd49fadee4ac95f2f1f
 cn.fox-tech	fox-edge-server-protocol-omron-fins	1.0.0		2bf28723d05e21933fa5ab450d81dbc1116b867f
 cn.fox-tech	fox-edge-server-protocol-omron-fins	1.0.1		7c11c1b6609301391a6dd914153f9aed0921e408
 cn.fox-tech	fox-edge-server-protocol-omron-fins	1.0.2		620071a78bdca556f580cc232d178d6f55e9b813
@@ -373,6 +374,7 @@ com.thoughtworks.binding	safebuffer_3	12.2.0+42-06eed7f8		071205abd43b5d339efc07
 com.thoughtworks.binding	safebuffer_3	12.2.0+43-30636c3d		0ebdfe1d5707e9f87135622d4643d593d19b3896
 com.thoughtworks.binding	safebuffer_3	12.2.0+97-253912a4		f2f59dad027c5d53b839d5281c2379ba70ae7e1c
 com.thoughtworks.binding	safebuffer_3	12.2.0+98-fa4fbd14		ca8b928c2e08287e54d74fd6c75666bfce1437f6
+de.johoop	findbugs4sbt_2.9.1_0.11.0-RC1	1.1.2		c1d7cbf05300b6c0e038e6d06fe7ddb8ea953298
 de.sciss	lucredata-structs-core_2.9.2	0.23		22b97c0e42f5e3bd03136a02febbcaaa3868da69
 de.sciss	lucredata-structs-core_2.9.2	0.24		f5649ed645a4233aff52109088452a1d2cfe0973
 de.sciss	lucredata-structs-core_2.9.2	0.33		e67e89f0c50686e03eb8a5dc45c3859687db3567
@@ -410,6 +412,9 @@ dev.inmo	micro_utils.repos.inmemory-wasm-js	0.25.5		N/A
 dev.jorel	commandapi-bukkit-nms-common	10.0.0		3137b0ec11298208d1a54e4166f08c612bda5668
 dev.jorel	commandapi-bukkit-nms-common	10.0.0	mojang-mapped	93c6eec2e255de8fb73e67b6f9a3ac70c847c2be
 dev.jorel	commandapi-bukkit-nms-common	10.0.0	remapped-obf	5d7f9e75b926f8cdeb772529202f9d60d17ea759
+dev.jorel	commandapi-bukkit-nms-common	10.0.1		62ca92186b33499996e35212367e995d335e7e50
+dev.jorel	commandapi-bukkit-nms-common	10.0.1	mojang-mapped	1383e2bd44b2e1015bb3cd238c5f5f175193f577
+dev.jorel	commandapi-bukkit-nms-common	10.0.1	remapped-obf	98183e5dddc365e7e39a4917a47f2a3335c83c49
 dev.jorel	commandapi-bukkit-nms-common	9.0.0		5cbc289277e613be5adce4ebcaf3ac3c8aedb42d
 dev.jorel	commandapi-bukkit-nms-common	9.0.0	mojang-mapped	998313acfa5430be1eb65a63eb2b5f4068ae62dd
 dev.jorel	commandapi-bukkit-nms-common	9.0.0	remapped-obf	6fc296ced2c0ed803af60f6ae5ce227e7948c144
@@ -926,6 +931,7 @@ io.netty	netty-transport-classes-io_uring	4.2.0.RC1		c63c2997ea7b966af4b3948c9bf
 io.netty	netty-transport-classes-io_uring	4.2.0.RC2		fb9870e95888bfcbe35d1c99f4355f47903abeeb
 io.netty	netty-transport-classes-io_uring	4.2.0.RC3		17eeb6feb645cd7b76fc9709b5968dd3f5c78f19
 io.netty	netty-transport-classes-io_uring	4.2.0.RC4		0f29b01334bd7dea8c975c486e43839228d7a822
+io.netty	netty-transport-classes-io_uring	4.2.1.Final		b00bdf8b021fcad7547d497b63890a4e0cee405b
 io.yumemi.tart	logging	1.0.0-alpha02		d6da487ce03d98f9b02b24c1a70ed117b78d671c
 ir.msob.jima.core	core-api-graphql	1.1.15		N/A
 ir.msob.jima.core	core-api-graphql	1.1.17		N/A
@@ -1030,6 +1036,7 @@ org.apache.camel	camel-test-infra-microprofile-lra	4.8.3		b5faac0e1de00fd8a7142e
 org.apache.camel	camel-test-infra-microprofile-lra	4.8.4		f70a71e99feabd41a22549c7465e143d251a1227
 org.apache.camel	camel-test-infra-microprofile-lra	4.8.5		74dce7b4c3f82f308d97aeb5ee8425cce0665c36
 org.apache.camel	camel-test-infra-microprofile-lra	4.8.6		12c36625c53211497d503993196dd5c457419b19
+org.apache.camel	camel-test-infra-microprofile-lra	4.8.7		199a3cbdf9e08c4e1580d5293234829061005b9d
 org.apache.camel	camel-test-infra-microprofile-lra	4.9.0		56d3090e91326e83df0bf5df672ce03b1f4d1d28
 org.apache.flink	flink-connector-cassandra-parent	3.0.0-1.16		N/A
 org.apache.flink	flink-connector-cassandra-parent	3.1.0-1.16		N/A

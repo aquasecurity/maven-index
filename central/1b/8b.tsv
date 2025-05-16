@@ -77,6 +77,7 @@ com.bandwidth.sdk	bandwidth-sdk	13.1.1		ecf4fd392c9b41ef29440c0ec3e9015a5cd2c012
 com.bandwidth.sdk	bandwidth-sdk	13.1.2		84039dd1240bb8f2c0985c44daa0c4c7556a29d6
 com.bandwidth.sdk	bandwidth-sdk	13.1.3		5b2a704253360ca45d6ac9fcfc87c5a3bd07df13
 com.bandwidth.sdk	bandwidth-sdk	13.1.4		d5a065243f9af5e1edc7d009299087ed4eb2135c
+com.bandwidth.sdk	bandwidth-sdk	14.0.0		2bc83604e7d0498b84702f364d0d260d0ed006fc
 com.bandwidth.sdk	bandwidth-sdk	2.0.0		6dfac76293d40b90e795076439bff0a2c33b3bf5
 com.bandwidth.sdk	bandwidth-sdk	3.0.0		529ef49da2fc7c8d652aabedbfb7f9f518712471
 com.bandwidth.sdk	bandwidth-sdk	3.1.0		5e13bc17aaa1a9262085a26fa5a9745f4ccf51b0
@@ -326,6 +327,7 @@ com.oracle.database.graph	opg-graph-importer	24.2.0		070a29960c4efbf4350d0ebf642
 com.oracle.database.graph	opg-graph-importer	24.3.0		926f7eee68dbeb42aa797a1801fd768980da669d
 com.oracle.database.graph	opg-graph-importer	24.4.0		8a0f3022adeba17aec4629e48c1212c1f5a22017
 com.oracle.database.graph	opg-graph-importer	25.1.0		cc64797a7c2c09f3142e0a04459e3a2c7c22d706
+com.oracle.database.graph	opg-graph-importer	25.2.0		d75498a10e47751aab9efd90916e28d81b03be8f
 com.outr	perfolation-unit_sjs1_3.0.0-RC3	1.2.7		289f3c978412f557989324635d6436f2c26080f0
 com.pig4cloud.plugin	magic-api-parent	2.0.1		N/A
 com.pig4cloud.plugin	magic-api-parent	2.0.1.1		N/A
@@ -611,6 +613,8 @@ io.github.eisop	checker	3.42.0-eisop5		61a4c203feb070a8cf608533b668e0cc7699a8f6
 io.github.eisop	checker	3.42.0-eisop5	all	1693b731925b90281fea66a5f01bf2901f7b784d
 io.github.eisop	checker	3.49.1-eisop1		c5df3a63bc4b41a660e0b69fef2c6142becccc77
 io.github.eisop	checker	3.49.1-eisop1	all	fbce510b3671a8e1766567cfc982cfe9718983f8
+io.github.eisop	checker	3.49.3-eisop1		7c57633d5a176e8275c51104a87d19497f95fa62
+io.github.eisop	checker	3.49.3-eisop1	all	5e293e246606bde217f828e1a3613c7abc72c537
 io.github.ily433664	xjar-maven-plugin	4.0.2		9919328c2deb8a810061b2c42ae3f5e9cb3e561e
 io.github.ily433664	xjar-maven-plugin	4.0.3-FORK		b48af54c84960d17a1c3ea0129acef6d817e11a8
 io.github.ititus	ddsfx	1.0.0		428a157d3ab0e58b72853d661a2f8cf5e612b6e0
@@ -1381,6 +1385,10 @@ org.ops4j.pax.jdbc	pax-jdbc-postgresql	0.1.0		b113ed2c3a7fc16de1ed8e1b726038c00d
 org.ops4j.pax.jdbc	pax-jdbc-postgresql	0.2.0		abc9147f041490d3e48eb57cfc1bbfb86a942c11
 org.ops4j.pax.jdbc	pax-jdbc-postgresql	0.3.0		221b38a806694c61c5945b79573d116269fcd6a8
 org.ops4j.pax.jdbc	pax-jdbc-postgresql	0.4.0		0597744f743da21e280cd33069eab8bd548a4e08
+org.scalariform	sbt-scalariform_2.12_1.0	1.8.0		2ac0a344a1c7c61af9bf75abfc61c20c8b656951
+org.scalariform	sbt-scalariform_2.12_1.0	1.8.1		7554057abbe6845b2beef3c3b1a1f54965f417cf
+org.scalariform	sbt-scalariform_2.12_1.0	1.8.2		ac1e738878450a8db3635d94833320f6ceaf50ff
+org.scalariform	sbt-scalariform_2.12_1.0	1.8.3		9ba5ace923d80d5b4c70351d1719262256a4f1d6
 org.switchyard.components	switchyard-component-test-mixin-activemq	1.1.0.CR1		fb674ca6e618c06fc42f8f1a900f1e85a686baf3
 org.switchyard.components	switchyard-component-test-mixin-activemq	1.1.0.Final		3cd4ae934cb65bb7acd8df4a0a7fd19396471169
 org.switchyard.components	switchyard-component-test-mixin-activemq	1.1.0.M4		3e62284f2c30eb75ad4c777f087bbec4111462ea
@@ -2737,7 +2745,18 @@ software.amazon.awssdk	pinpointsmsvoice	2.31.30		0c127abe64f715008cb22ebbf974c58
 software.amazon.awssdk	pinpointsmsvoice	2.31.31		15a2f521d6de23c5e83646a1c19bfae9571e25c0
 software.amazon.awssdk	pinpointsmsvoice	2.31.32		a922029ed60e5b5caed61f950a6a5e4967d4d55b
 software.amazon.awssdk	pinpointsmsvoice	2.31.33		b55f9434a59eeeff4668e672507de28bf16e0c98
+software.amazon.awssdk	pinpointsmsvoice	2.31.34		f5ca52fd449a0d6cc039044e7cae2cc873c83522
+software.amazon.awssdk	pinpointsmsvoice	2.31.35		cecbd5a182ff4c450ed8a60cf8e84fceca06cb1c
+software.amazon.awssdk	pinpointsmsvoice	2.31.36		9ef7c047ebb30c8de8e8b35f4abd5687e0fdabd2
+software.amazon.awssdk	pinpointsmsvoice	2.31.37		71f7ddbb63fd20356e44d0e05e05bc72280c6730
+software.amazon.awssdk	pinpointsmsvoice	2.31.38		10144a0ba9ab11726302c8d50536f0141e20e434
+software.amazon.awssdk	pinpointsmsvoice	2.31.39		14f7d6dd242236be6661a456ccb430e73d366a9e
 software.amazon.awssdk	pinpointsmsvoice	2.31.4		930dbebca6fbffb6853ef98182890eddd134bd40
+software.amazon.awssdk	pinpointsmsvoice	2.31.40		811196999e1ee8da80e06beab9837ae17cf6d534
+software.amazon.awssdk	pinpointsmsvoice	2.31.41		b23c2bf718cf7634373bf5ab7c08dc24c1dbdb15
+software.amazon.awssdk	pinpointsmsvoice	2.31.42		eb7398d3b618707c71459bbac02f55f1e47eafa7
+software.amazon.awssdk	pinpointsmsvoice	2.31.43		fd6580b3cf3f5212c2362a25265e0a596267c69a
+software.amazon.awssdk	pinpointsmsvoice	2.31.44		b3171fa19948683003f6dd0fafef4a19ddb3aa34
 software.amazon.awssdk	pinpointsmsvoice	2.31.5		932c822047d4872d13f9ae5b0364707ee9311e69
 software.amazon.awssdk	pinpointsmsvoice	2.31.6		d914a44cb60abcfc64aaca5107cb753f965a8333
 software.amazon.awssdk	pinpointsmsvoice	2.31.7		42513bb839413327e3e1ca17c032ccedbcaa1053

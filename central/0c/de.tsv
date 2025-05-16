@@ -28,6 +28,8 @@ com.foxnicweb.web	view-docs	1.7.0.RELEASE		b086413d41099ad4b5bbd4ca095a05a7db5be
 com.foxnicweb.web	view-docs	1.7.1.RELEASE		f7642e01f852c960725b29569d300cdef5f7a78c
 com.gitee.coldmethod	legendary-bprocess	1.0.0		fbcc7be9644e993e5b286c46a100f34689e9faa3
 com.github.jiayuhan-it	hadoop-mapreduce-client-hs	2.7.3JYHTEST		a473ceb490fc26271f8c66db7341e5bceec9e0b4
+com.github.sbt	sbt-javaagent_2.10_0.13	0.1.7		007193763c1670e96ad4282e3ae3ce4f83fd39df
+com.github.sbt	sbt-javaagent_2.10_0.13	0.1.8		0ee26e08bd33e791318756fb5418cb49fb43e8f9
 com.github.vagmcs	optimus_2.11	2.0.0		1682dfe038cda66217fee46ae29e48b1fb8def70
 com.github.vagmcs	optimus_2.11	2.0.1		0309cbdbab179b3ef2d33b66c89913d086f8d7e4
 com.github.vagmcs	optimus_2.11	2.1.0		b4585345925589538fe58f7ff0639a0d3874c510
@@ -47,6 +49,7 @@ com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.14.5		c87b5ec97d610904b
 com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.14.6		10cd6c2f9bd526ee852af0f51f7ba009a1b4e325
 com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.14.7		5b04a20d2c7d8316e3c9299eee2fe00dccc3a4c6
 com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.14.8		0987b1db7d7f829fc32c7e6a20e6dcd2815337f6
+com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.14.9		a4279addaa4e7c1f8257001fa15b13eda5147525
 com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.15.0		86b38e910ecff11607d0912a5de8f71ebec53cd7
 com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.15.1		ed5bae12fa6d7be0e78b32223235dcc940cde18b
 com.google.cloud.bigtable	bigtable-hbase-2.x-mapreduce	2.15.2		67a0d589d1d60c2e66a1f13ad1b02b696db8f568
@@ -170,6 +173,7 @@ dev.lukebemish	forkedtaskexecutor	0.1.3	runner-sources	5643f2c663d9a3d4bdf8fc1a6
 dev.lukebemish	forkedtaskexecutor	0.1.4		8a20cc516bd66828eca863be09ad27e99d1dcd7e
 dev.lukebemish	forkedtaskexecutor	0.1.4	runner	a0ccd7e6b299da83b08643f686c7cefa5dde72c2
 dev.lukebemish	forkedtaskexecutor	0.1.4	runner-sources	93157b35f59b3cad84b8713d3c4fdec09966b9a1
+edu.gemini	sbt-heroku_2.12_1.0	2.1.1		4dce8eee87586930aa531b6d4cc407f067d10d43
 icu.nullptr.stringfuck	library	0.1		N/A
 icu.nullptr.stringfuck	library	0.1.1		N/A
 icu.nullptr.stringfuck	library	0.1.2		N/A
@@ -369,6 +373,7 @@ io.quarkus	quarkus-awt-deployment	3.15.2		1e4b02333d027b98bb9c61ab196d4fbf852743
 io.quarkus	quarkus-awt-deployment	3.15.3		9fddffca182ffedc754c32edb12f23c176c1e543
 io.quarkus	quarkus-awt-deployment	3.15.3.1		f785788504be7ccb887c022aa72291e0e7f077a1
 io.quarkus	quarkus-awt-deployment	3.15.4		0b707fd532c31131c3ea43454735132ac797a12f
+io.quarkus	quarkus-awt-deployment	3.15.5		9b85cc9d90bf326e5f53e5dcaad35783a268c94a
 io.quarkus	quarkus-awt-deployment	3.16.0		f0dbfc867724e0a292299e9bad063647b52bb2da
 io.quarkus	quarkus-awt-deployment	3.16.0.CR1		96de86270a6c2879e0262611d62279f6becc5395
 io.quarkus	quarkus-awt-deployment	3.16.1		f7b4e5d32393abe2898905ebd27bc0e040e1013c
@@ -413,6 +418,7 @@ io.quarkus	quarkus-awt-deployment	3.2.8.Final		83d73386fc52824a8d8d26d6aa681e1cf
 io.quarkus	quarkus-awt-deployment	3.2.9.Final		073b86ac26db4da2cd34276928fcbe31a061f39e
 io.quarkus	quarkus-awt-deployment	3.20.0		d14f66132233c69406d2c2a68dab2facda6bafc6
 io.quarkus	quarkus-awt-deployment	3.20.0.CR1		b2ff96544ca3bf575035a9f70398920588fc9fcc
+io.quarkus	quarkus-awt-deployment	3.20.1		61586fb26db90639d5d93b33a4dbd441d4182edf
 io.quarkus	quarkus-awt-deployment	3.21.0		3ae14076f5f23996855c7e34d82e5e24ea60d2e5
 io.quarkus	quarkus-awt-deployment	3.21.0.CR1		677035a2959854138b80472751e92d55a7df3775
 io.quarkus	quarkus-awt-deployment	3.21.1		4083e641122163220734d13eca093049410497f9
@@ -422,6 +428,9 @@ io.quarkus	quarkus-awt-deployment	3.21.4		b228b6d015bf8c9652c91e4ec7ebe6bba60983
 io.quarkus	quarkus-awt-deployment	3.22.0		683e6ce9c8949beb9355a36e42a91c2e6a1d5032
 io.quarkus	quarkus-awt-deployment	3.22.0.CR1		6552513f777d198e2f0914ad956d24e4b2620128
 io.quarkus	quarkus-awt-deployment	3.22.1		b8ced3f0595e67496e912791ca83945c7363b29d
+io.quarkus	quarkus-awt-deployment	3.22.2		992006c23f6748be27dbebc3334a365891bc4343
+io.quarkus	quarkus-awt-deployment	3.22.3		d31930cbf559e024457b70de596f24da73728d9e
+io.quarkus	quarkus-awt-deployment	3.23.0.CR1		6265f5a36acadfadf59f9a8383b59ceda3f87a5f
 io.quarkus	quarkus-awt-deployment	3.3.0		45074c0a046871309db927de879498dcc0bb79d4
 io.quarkus	quarkus-awt-deployment	3.3.0.CR1		dc8d6c4b88acd39a259437f79136c652dcac0f6e
 io.quarkus	quarkus-awt-deployment	3.3.1		e0d7bd3150aed2245e735c950604b0ee67f63409
@@ -471,6 +480,7 @@ io.quarkus	quarkus-awt-deployment	3.9.2		07113091b42557a7ac1d4f9c18839b75778da51
 io.quarkus	quarkus-awt-deployment	3.9.3		5e2a01265f814bcb3c738fd1924cb9ca47a3a0c0
 io.quarkus	quarkus-awt-deployment	3.9.4		698e931fa0c0540ec1cc545c419da544d3b2bb03
 io.quarkus	quarkus-awt-deployment	3.9.5		0bcaf15383cbad2461378effe397f26f68e5bce0
+io.sphere	git-publisher_2.10_0.13	0.2		69cd63a39e6cc13b3f6f273642375b802d031f63
 io.vertx	vertx-web-templ-rythm	4.0.0		0696350a1660f5a15dc4492193afe9caa594cea6
 io.vertx	vertx-web-templ-rythm	4.0.0	shaded	f379f86f1cd7a3fdea3d67cb42c7dc5c9fe2219a
 io.vertx	vertx-web-templ-rythm	4.0.0.CR1		9d5d1e623941cb8fbddc4bd2633974516e9067f7

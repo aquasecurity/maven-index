@@ -283,6 +283,7 @@ com.softwaremill.sttp.client3	catsce2_3	3.9.7		69e917afc47a8f64fd89ab58760b9a1a6
 com.softwaremill.sttp.client3	catsce2_3	3.9.8		581ba2177e46ace651f78645c11ea41eddeac204
 com.typesafe.akka	akka-osgi-aries_2.10.0-RC2	2.1.0-RC2		bf049b956aa02b8f2546c35d2b9d21064bf2afed
 dev.jorel	commandapi-velocity-kotlin	10.0.0		05dcd898ff1fbaa13ecc691726ad065c49f2957a
+dev.jorel	commandapi-velocity-kotlin	10.0.1		173761cee5d2ddd997e10984fda2b0960574a365
 dev.petuska	klip-assertions-iosarm64	0.4.0		N/A
 dev.petuska	klip-assertions-iosarm64	0.4.0	metadata	cc4f0a09bf0a6a11bb586abcffb2596424cfa78c
 dev.petuska	klip-assertions-iosarm64	0.4.1		N/A
@@ -376,6 +377,7 @@ io.stryker-mutator	stryker4s-testrunner-api_3	0.16.1		ff8be927dd52bc022eb9794ee2
 io.stryker-mutator	stryker4s-testrunner-api_3	0.17.0		a2b4aa029cedd330093c6100ce2f01d4245417a8
 io.stryker-mutator	stryker4s-testrunner-api_3	0.17.1		9f915f867d2fe50c05ec9bbac86bc0265261b512
 io.stryker-mutator	stryker4s-testrunner-api_3	0.17.2		7b83171c0ed6d3e0e3dfb6c746629d4a27bcd049
+io.stryker-mutator	stryker4s-testrunner-api_3	0.18.0		f8ef2db7be052ccf25a4032e364dcdfca4025888
 it.unibo.alchemist	alchemist-incarnations	0.0.0		3cc3e907f91f6deea70228e5082f560c20104100
 it.unibo.alchemist	alchemist-incarnations	1.0.0		760add45da8f61e36c33bde6dabab6000650e5cc
 it.unibo.alchemist	alchemist-incarnations	1.1.0		b818c556529a5fbce7826a9137a99e2ddc5255d1
@@ -390,6 +392,8 @@ it.unibo.alchemist	alchemist-incarnations	3.0.0		4a49c9cb8b6d2034e3147169db792f1
 it.unibo.alchemist	alchemist-incarnations	3.1.0		fcb02f5a7b11ef5192c369878b3a791ce9727b30
 it.unibo.alchemist	alchemist-incarnations	3.2.0		66a19b156fe8be63bc11a064ebf1577381705465
 me.lessis	hubcat_2.10	0.1.1		3ba9fb2d4ce80bdfbbba59e26e5a6f225428f219
+net.folivo	trixnity-test-utils	4.15.2		a15807d79e9c24f70e2c64459e1c5643231af1c4
+net.folivo	trixnity-test-utils	4.15.3		a15807d79e9c24f70e2c64459e1c5643231af1c4
 net.sf.gluebooster	gluebooster	0.7		N/A
 net.sf.gluebooster	gluebooster	0.8		N/A
 net.sf.okapi.lib	okapi-lib-reporting	0.35		dbb75f7c8800a0f7aa79505777531cea80103b44
@@ -628,6 +632,7 @@ org.apereo.cas	cas-server-support-consent-dynamodb	7.2.0-RC6		f33bdcaea4b870035e
 org.apereo.cas	cas-server-support-consent-dynamodb	7.2.0-RC6	resources	101d308c95392189df9dd50fdc5f733ed1e65be6
 org.apereo.cas	cas-server-support-consent-dynamodb	7.2.1		b99995c0a0a857bb5ed8f3200b3b66665cecff83
 org.apereo.cas	cas-server-support-consent-dynamodb	7.2.1	resources	8cdd5179119c07322f5d9018742ac4280c7f4f30
+org.apereo.cas	cas-server-support-consent-dynamodb	7.2.2		6c7901cfae8348dc6c25f8f4f4a2a4de65288416
 org.apereo.cas	cas-server-support-consent-dynamodb	7.3.0-RC1		626253ab1f3087a101fc4c14747b965ee0465bc8
 org.apereo.cas	cas-server-support-consent-dynamodb	7.3.0-RC1	resources	cc7f86445ee1eccfdf7c7879b6010354b0edc90d
 org.danbrough.kotlinxtras.iconv.binaries	iconvLinuxArm64	1.17		N/A
@@ -760,6 +765,19 @@ org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.41.1		9334
 org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.42.0		990d3bf06636e9ecc8145ed8046d32bc87cc5b06
 org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.43.0		ee9694aae1839f15e98c3867fc08b2cae9241b95
 org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.44.0		9c5642d41d5747b2914e4ee9d084ad632cb11221
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.0		386684760f84bd5b0ad28b3640d288829a5ebf85
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.1		bdf9b5bf43c657a566c616aa84651221a9956e34
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.10		a9c752c7670e7d3624dbe374484a6ce7cc58776c
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.11		a35806711f024d115b82f02b06d4dd7b2727deb0
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.12		7d6a83768c44cccaeb6f165fcec93b3274434633
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.13		72d7c67b1620d8eae44ccaaeed8433bac98606b0
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.3		920961d6f6cf10fa1fd691398b3006387ff258d0
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.4		7f1ae9c8272943a3ef3bec0ff612aad6c6a5fec2
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.5		72ed243667c8cba695efdc0b46649751c1c445e7
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.6		f7e9bf2320af0d7b121b64841906c8399fc9c5c9
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.7		b2fd1133422a3fc0e40749110f53fc8e53dec6a6
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.8		bee6822843486cc6c21af6e943b2962da4b0ea26
+org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.45.9		fb8502c4f7c715ca569c34fc4c3f23c3c92ba848
 org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.5.0		b112376a2a36258635e32f9d05620ac276e30521
 org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.6.0		074334a3430f9082913baff509b7315f490d0a33
 org.eclipse.dirigible	dirigible-components-resources-flowable-libs	11.6.1		7bb23bb0f21fb46a4737f135c3595b2482a87051
@@ -992,6 +1010,7 @@ org.opensearch	die-with-dignity	2.6.0		8ceb6ed265a9b774c5f4592b8bcd64122a20f099
 org.opensearch	die-with-dignity	2.7.0		b9401a356f9d8afd1e6331467242ecb717bec651
 org.opensearch	die-with-dignity	2.8.0		47cccf0d5abe24a2f46463312f7957641f85aa20
 org.opensearch	die-with-dignity	2.9.0		83e1d91de63e1cc7cfcde22149eb911ba7db66ba
+org.opensearch	die-with-dignity	3.0.0		345d9763fb67b25cb865a2cf31fa0811d8eba3a3
 org.opensearch	die-with-dignity	3.0.0-alpha1		927584c4b9968775ec8cb276f1601735ea8736c5
 org.opensearch	die-with-dignity	3.0.0-beta1		4c56d0088f0f04dccbf7a63d29adb513aaf1ea7e
 org.ops4j.gaderian	gaderian-project	1.0		N/A

@@ -176,6 +176,8 @@ com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.27.0		6a9084145e80508f56
 com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.28.0		41db2ea0dc65b4b35e57616ed4ad8f8ae2e5bf4c
 com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.29.0		070839c8f92fc3d9588b0fd848e66df294e092f7
 com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.3.0		dc4ad58f098786c16049858b1b094517bea8a9db
+com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.30.0		f33aaf6331ce334a773034c6c1a29b63f28ec92c
+com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.31.0		cec03edce251821794724c9f7edb1b27b4d65131
 com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.4.0		77df38baf851118ec0e1a2793cb0548884e403d5
 com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.5.0		10e16100ec093da7e0e6d2f72cab733656488a15
 com.google.api.grpc	proto-google-cloud-edgenetwork-v1	0.6.0		4cb0fcb5ca9d81a52409795c3b97732fde514b14
@@ -373,6 +375,7 @@ com.yugabyte	java-driver-metrics-microprofile	4.15.0-yb-2-TEST.1		8f1d40dbbcc0fc
 com.yugabyte	java-driver-metrics-microprofile	4.15.0-yb-2-TEST.2		52e3d19a0753f80d414df655051e6651672f0267
 com.yugabyte	java-driver-metrics-microprofile	4.15.0-yb-2-TESTFIX.0		c6d67a2344326834aaf37012c1c3138df9882fdc
 com.yugabyte	java-driver-metrics-microprofile	4.15.0-yb-3		8f17cb90f7795145f766e49a1150f6a8fbb9391a
+com.yugabyte	java-driver-metrics-microprofile	4.19.0-yb-1		42e556c814a72fcd92987e4f56032344b9dbb39d
 de.grundid.osmtools	osm-tools-formats	1.0.M1		49729b6b3fe27b30a882f10ad96fe7a96f2b091c
 de.grundid.osmtools	osm-tools-formats	1.0.M2		a46ab0ae9ee44577de3e1c038978d5b7b48a966f
 de.grundid.osmtools	osm-tools-formats	1.0.M3		c295f6b9b25f6062cb33a6ee649b6b4a0768b671
@@ -848,6 +851,7 @@ org.apache.sling	org.apache.sling.models.jacksonexporter	1.0.8		e9a1f148981f29c4
 org.apache.sling	org.apache.sling.models.jacksonexporter	1.1.0		791d102d7de6278ea634624b0735863e61477018
 org.apache.sling	org.apache.sling.models.jacksonexporter	1.1.2		0faa04ba5e47b45354c6d6e40f9be9580b2ddab6
 org.apache.sling	org.apache.sling.models.jacksonexporter	1.1.4		e31f88d43d3f269a67ce7896905d8d59cf45e756
+org.apache.sling	org.apache.sling.models.jacksonexporter	1.1.6		be98532f4c11d76d1e648a3dd9d046d951b570d5
 org.eclipse.swt.org.eclipse.swt.win32.win32.x86.4.3.swt	org.eclipse.swt.win32.win32.x86	4.3		a5d40ef3582cb71631d493cf71d5dd559390f640
 org.eu.vooo	api-client-spring-boot-starter	1.0.0		8c203083eb09ea3796ceda575a6df7de156225ba
 org.glassfish.main.packager	glassfish-web-l10n	4.0		N/A
@@ -1070,6 +1074,7 @@ org.tpolecat	natchez-core_sjs1_2.13	0.3.4		c56a1f098f585a9c7446a5d34141dd10773b1
 org.tpolecat	natchez-core_sjs1_2.13	0.3.5		ea9ee3e8163e7c5dfb7782940e6a39d2ea9328ef
 org.tpolecat	natchez-core_sjs1_2.13	0.3.6		e3f2df6742c56b78de168e7871ac780c7ad508e3
 org.tpolecat	natchez-core_sjs1_2.13	0.3.7		5aa0235d8fd92e35e5acdc5bc786b3cdc43ee1bc
+org.tpolecat	natchez-core_sjs1_2.13	0.3.8		804d32fb8a416638c95b3ec99451197e161facb5
 org.webjars.bowergithub.jstroem	ng-input-currency	0.9.10		261c98462964842c399e5276bdcdbbe9ede95ead
 org.webjars.npm	react-group	3.0.0		8fdb6b2123b578ab116889cec79fdcc9a79d0bfc
 org.webjars.npm	rx-angular	1.1.3		db7da461e5fad023cefff94cf0bc6e680abf4fbc
@@ -1571,7 +1576,18 @@ software.amazon.awssdk	bundle-logging-bridge	2.31.30		0213881f8ba29618a03a17385c
 software.amazon.awssdk	bundle-logging-bridge	2.31.31		5f02d5db27ca700e82ebb1515d3634de7c984ad1
 software.amazon.awssdk	bundle-logging-bridge	2.31.32		852f61be70870f679cd4c7e3646d4ae218678751
 software.amazon.awssdk	bundle-logging-bridge	2.31.33		8efa84cb7b4f09ea51a568c0b55901c0a5c4a221
+software.amazon.awssdk	bundle-logging-bridge	2.31.34		16f7dbef95ea0d8360e3e454cfd06aabdaf92ed5
+software.amazon.awssdk	bundle-logging-bridge	2.31.35		eb6f41f27fcb438e0f4604f1eaef6ab2ee891dc8
+software.amazon.awssdk	bundle-logging-bridge	2.31.36		dfdea0adfafa025a363335fda7339623756bc155
+software.amazon.awssdk	bundle-logging-bridge	2.31.37		d13d73df3476e9046ad00db31275e8b293a42c96
+software.amazon.awssdk	bundle-logging-bridge	2.31.38		0cf3b3e9466e7b1cde90ac3a13ce882ace238dab
+software.amazon.awssdk	bundle-logging-bridge	2.31.39		f5fe965cd3ad766d8313acb7ccd21100b8d36402
 software.amazon.awssdk	bundle-logging-bridge	2.31.4		b601d55bc24ae65587937ad65cc4cb506712d43d
+software.amazon.awssdk	bundle-logging-bridge	2.31.40		291a384b388a239e9318b4daa5bfbd9eecab43f2
+software.amazon.awssdk	bundle-logging-bridge	2.31.41		b4ad59824171c68c5f8c3b6d646c3d7f3d4b7c49
+software.amazon.awssdk	bundle-logging-bridge	2.31.42		700aa753162f1da6706a3d93dee37b83d472c0cd
+software.amazon.awssdk	bundle-logging-bridge	2.31.43		68708a59a8a400567fb0d1aaa90dc02d4b869baf
+software.amazon.awssdk	bundle-logging-bridge	2.31.44		5b4264136fb0a42f2169eba70f6290257af717c8
 software.amazon.awssdk	bundle-logging-bridge	2.31.5		2651dcf76149da9a20f22d892a263b5ed3b62d15
 software.amazon.awssdk	bundle-logging-bridge	2.31.6		a31f445be24a275f8daa3558e32d21c7f72e35e8
 software.amazon.awssdk	bundle-logging-bridge	2.31.7		41dcebd4b4216c5205d6d8af0c8c77a57938d96c

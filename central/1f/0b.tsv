@@ -200,6 +200,8 @@ com.github.ljtfreitas	java-restify-oauth2-authentication	2.0.0		7bd2c68151393461
 com.github.ljtfreitas	java-restify-oauth2-authentication	2.1.0		4c3d6b2d2d8bd3f6695948b35ed4eaa7de26a462
 com.github.monnetproject	lemon.generator.util	1.18.4		a8ed404cb41f94606e13e18ba5e288d3189d9f3b
 com.github.nblair	pipeline	0.2.0-RC1		5a4bb66e3e3dbf43f30da9e1a721f8ff11cc9bc5
+com.github.spark-ds	antslift-sbt-plugin_2.12_1.0	0.0.2-M2		7c0848f245bfcaacc23f83875a9983f1b2cd8dec
+com.github.spark-ds	antslift-sbt-plugin_2.12_1.0	0.0.2-M5		2af95f5dc0090bb91ed9cf7d10ae8211b9ce1776
 com.google.cloud.genomics	gatk-tools-java	1.0		f8dec68b775168e7b3708312c9c819a8236de040
 com.google.cloud.genomics	gatk-tools-java	1.1		9f56f8b454c4f92e89635698159fe4152e055f66
 com.harium.api	checkip	1.0.0		d39dd670a065c8bc80baeda01fd24075b92cdda4
@@ -210,6 +212,7 @@ com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.0		21a1ce1a88bfad27788557f
 com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.1		c3983c909ee547060407ec1994b3cf42407500fb
 com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.10		8d7f13f1ed1cd5b22319d6dd3d4a5e1b943ea736
 com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.13		a2e9fdfe68b86b0bff37a490b8ed2ebeff4b6e79
+com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.14		f8cc58ac612cef939180ce582de6c08bed0cd731
 com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.2		a9fbda564aed0d9c914b127d839fe7923b32e717
 com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.3		dd44383111532ff0450a933f504137a05b84f181
 com.inteligr8.ootbee	beedk-activiti-ext-archetype	1.1.4		055d4bd0255515f2d2eb471021910ca762bbe6d4
@@ -567,6 +570,7 @@ io.fabric8	certmanager-examples	7.0.0		3c3649d13c4ba0e066004ef991aa0a8875821812
 io.fabric8	certmanager-examples	7.0.1		e30664a41135f25058def4e52c75538ada25bc4c
 io.fabric8	certmanager-examples	7.1.0		79ca3f441f3d635d9eaf6294661277b227782927
 io.fabric8	certmanager-examples	7.2.0		9dc6d926cb46392ff5cbc5469b9151973e7f42ad
+io.fabric8	certmanager-examples	7.3.0		e95aadc16e3bee554256228727d8db04ae999a75
 io.github.argonaut-io	argonaut-cats_3	6.3.11		377f18ff55f5ffb2c0ebd3d0564b6238735729d1
 io.github.harishb2k.easy	resilience	0.0.15		19fbda02c9640e195c1690e3778022f56fe1a261
 io.github.harishb2k.easy	resilience	0.0.16		565e282fd8c51bdc2969baf55a1f971c600c1604
@@ -797,6 +801,7 @@ org.apache.tomcat	tomcat-annotations-api	10.1.36		542470bd03d14a2c6e5f32e47689bf
 org.apache.tomcat	tomcat-annotations-api	10.1.39		c251873f97cc08b8365327f72285f0f213f5110f
 org.apache.tomcat	tomcat-annotations-api	10.1.4		53de9a08deae6af4a231fe5220c670fb722fcefb
 org.apache.tomcat	tomcat-annotations-api	10.1.40		03ecf7d64aa485e3c9847e84b213d276bc2a69b0
+org.apache.tomcat	tomcat-annotations-api	10.1.41		9098bb26656a854f395f468805d4b7329a1a75b6
 org.apache.tomcat	tomcat-annotations-api	10.1.5		dd9d81b20578e84f49044a4ad0bea8d44bcf05be
 org.apache.tomcat	tomcat-annotations-api	10.1.6		c1f5dbb7fceb56d35b7ed4ad2d2daf384ccfdcad
 org.apache.tomcat	tomcat-annotations-api	10.1.7		372e532c54d1db5a080ceea777a73552455524eb
@@ -832,6 +837,7 @@ org.apache.tomcat	tomcat-annotations-api	11.0.3		a40af7a0c20586960c3c7be6d3eb3ba
 org.apache.tomcat	tomcat-annotations-api	11.0.4		6e46fdead9f57ee499475eac5020fba678ef51ef
 org.apache.tomcat	tomcat-annotations-api	11.0.5		b088d42ffe82f194616ad05d51203fccb56517b8
 org.apache.tomcat	tomcat-annotations-api	11.0.6		fafce91a057eddbe851348a8793720903bd3b8a5
+org.apache.tomcat	tomcat-annotations-api	11.0.7		923ae804c0738339d97a69cb00267bda99a14e06
 org.apache.tomcat	tomcat-annotations-api	7.0.0		e1671f71379aa298cab5ad5d47b00d171c9e1915
 org.apache.tomcat	tomcat-annotations-api	7.0.100		19eaefc543f3269fccd061c0b0fd68188a8d6a49
 org.apache.tomcat	tomcat-annotations-api	7.0.103		c1c61f5c1bb1a006b21b280bd03d5dbd0fd4e109
@@ -1062,6 +1068,7 @@ org.apache.tomcat	tomcat-annotations-api	9.0.10		18836b46b76d385615a738d5136fdbd
 org.apache.tomcat	tomcat-annotations-api	9.0.100		30cdba08e9a44cd9401f21035534b6e92239eadf
 org.apache.tomcat	tomcat-annotations-api	9.0.102		3aa6c33c386d649763838b2f0f7ef20e3e27e80b
 org.apache.tomcat	tomcat-annotations-api	9.0.104		4d4c410ac37e4465f39939e6c564eff6c690fa18
+org.apache.tomcat	tomcat-annotations-api	9.0.105		0ce2f716b539888f221a378d78d666ec2bfb9f95
 org.apache.tomcat	tomcat-annotations-api	9.0.11		3f833b8ed19a2769aaa57c1dc24fb474cd7214e0
 org.apache.tomcat	tomcat-annotations-api	9.0.12		dfda698ec20b257a6801a2df25c76554658f6005
 org.apache.tomcat	tomcat-annotations-api	9.0.13		fdb2c07a1aa93e3ab523fb59f9726de446b673b2
@@ -1266,6 +1273,8 @@ tz.co.asoft	color-core-iosarm64	0.2.43	metadata	e32c51b417fef75dbda6b5cd33a3f936
 tz.co.asoft	email-core-iosarm32	0.0.10		N/A
 tz.co.asoft	email-core-iosarm32	0.0.20		N/A
 tz.co.asoft	email-core-iosarm32	0.0.30		N/A
+tz.co.asoft	kiota-file-core-watchosarm64	3.1.11	metadata	658928d0efaf52a9e500fda2f6a7b32ea243a708
+tz.co.asoft	kiota-file-core-watchosarm64	3.1.12	metadata	58690cd6929c85919a8e7f294e9bd52e5cdf9675
 xyz.wc1950	chis4cloud-common	3.0.1		N/A
 xyz.wc1950	chis4cloud-common	3.1.0		N/A
 xyz.wc1950	chis4cloud-common	3.2.0		N/A

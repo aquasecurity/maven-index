@@ -506,11 +506,19 @@ io.spinnaker.kayenta	kayenta-prometheus	2.45.0		5122cdaf30c657f8120d699bd21d2d92
 io.spinnaker.kayenta	kayenta-prometheus	2.46.0		e2cd54e8738affb0296e7b23608c67fbf21ad4ea
 io.spinnaker.kayenta	kayenta-prometheus	2025.0-0		cf23971268bed773f35d434c6b3d74ccf563567c
 io.spinnaker.kayenta	kayenta-prometheus	2025.0-1		88616e92483926161b6828eaf3559b9e3d5461a5
+io.spinnaker.kayenta	kayenta-prometheus	2025.0-2		c8b0daca8dacde84ca1349c0ad977afb36218e5b
+io.spinnaker.kayenta	kayenta-prometheus	2025.0-3		24c8d9926c8cf2c8f16ead1516719287ffc17706
+io.spinnaker.kayenta	kayenta-prometheus	2025.0-4		1eb195a28f4810d9a43c5dfc83f554b1a4cb5986
 io.spinnaker.kayenta	kayenta-prometheus	2025.0.0		6701f8ec0e5c993db84c014be5010cd44169f138
+io.spinnaker.kayenta	kayenta-prometheus	2025.0.1		19dc03da83163891a7130fb7ef56acbae2d76c61
+io.spinnaker.kayenta	kayenta-prometheus	main-10		778e8bfcb6b086e4d2444ea5af3d17be2b6fcaea
+io.spinnaker.kayenta	kayenta-prometheus	main-11		b07b6511cbb8d97a7d139b60bf2f0be766e20e7a
+io.spinnaker.kayenta	kayenta-prometheus	main-12		45366ff9207edbc9cb6d9adacae811dafa8b5629
 io.spinnaker.kayenta	kayenta-prometheus	main-5		77763d8e6f4b4c57b8198502467b41569236030f
 io.spinnaker.kayenta	kayenta-prometheus	main-6		104ae6af48bbdbcfff60bf665942e2b4efb01804
 io.spinnaker.kayenta	kayenta-prometheus	main-7		9bfb002257ebd84de7005cab58f187bfd32ca3c7
 io.spinnaker.kayenta	kayenta-prometheus	main-8		327d7c0ee14f2b488053e89ece2610efa59cabb0
+io.spinnaker.kayenta	kayenta-prometheus	main-9		3199492f2bbcd3a1e298c0c2071fb70191a6de48
 io.zeitwert	dddrive	1.0.11		a184747a9ae033809b8110d5713a4d1825f1f390
 io.zeitwert	dddrive	1.0.12		536ef445a8875c076f8f67faaf742e435b70b54d
 io.zeitwert	dddrive	1.0.13		40ac850f8fe5b5a984344fbebad2a5387a647212
@@ -908,6 +916,7 @@ org.apereo.cas	cas-server-support-bootadmin	7.2.0-RC6		f3060eb93d13c1f94f3beebc9
 org.apereo.cas	cas-server-support-bootadmin	7.2.0-RC6	resources	e1213627b8f863f57303c2c19ff57908a23baf4c
 org.apereo.cas	cas-server-support-bootadmin	7.2.1		96104e0561fc3319b437143e7f0c370a1751ee2b
 org.apereo.cas	cas-server-support-bootadmin	7.2.1	resources	154c91136d5cdd96572f554ee816a8e31d97bde2
+org.apereo.cas	cas-server-support-bootadmin	7.2.2		942c1e8b0551b0834ba47104917b78b08acdbbe9
 org.apereo.cas	cas-server-support-bootadmin	7.3.0-RC1		7200d37d0b9c9bbe12eb1ba9ead990908fdc54f4
 org.apereo.cas	cas-server-support-bootadmin	7.3.0-RC1	resources	73c55965548b9f04d421e71ef43383973498cd5c
 org.commonjava.util	o11yphant-metrics-core	1.0		70edcf338dfab388bdcf29370cf6eba52f4c07d1
@@ -1166,6 +1175,9 @@ org.rudogma	equalator_sjs0.6_2.12	1.1		df728ad4c9e0c4d192faca296be273fa25caff44
 org.rudogma	equalator_sjs0.6_2.12	1.2		ecd277d71563a295a69cbbea5c65c6fe3bad625b
 org.scalacheck	scalacheck_sjs1.0.0-M3_2.11	1.14.0		c0bca62eeb56bc7fa9ec7e7cacb74b883ceaa11b
 org.scalameta	mtags_3.2.1-RC1-bin-20220823-3ad97df-NIGHTLY	0.11.8		26016d5d2d911f6b797bd0f25e5c27600812c428
+org.scalatra.sbt	scalatra-sbt_2.10_0.13	0.4.0		16dec1b09cc7171659af4f7043a7e5eefd5c2fb8
+org.scalatra.sbt	scalatra-sbt_2.10_0.13	0.5.0		8ac695aeb38d62f3ec9ff9e3a737d16b340a3f6d
+org.scalatra.sbt	scalatra-sbt_2.10_0.13	0.5.1		36a1d5316842656feff9ffeb0d04a1af6bed9e5d
 org.typelevel	coop_sjs1_2.13	0.8.0		6feb9bab730b7f88cac042ef962b7cbc7677dde3
 org.typelevel	coop_sjs1_2.13	1.0-7a160eb		cda1d11933d070c089ef71c3280ce292494bd9a9
 org.typelevel	coop_sjs1_2.13	1.0.0		8c63a75945ca952f77834bbcd359083a66555db3
@@ -1359,6 +1371,7 @@ org.wildfly.security	wildfly-elytron-sasl-gssapi	2.1.0.Final		79e2991a00daea0914
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.2.0.Final		4322752674d7cffeeadac0555654c067fa533b52
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.2.1.Final		c319259d696c5de50b2f7c4123ee273d80be098f
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.2.10.Final		8cb290ac5b2d568184e017a9c6ba88d4187ab05e
+org.wildfly.security	wildfly-elytron-sasl-gssapi	2.2.11.Final		356b562d6409943c5a543014a4d03bd369d3d087
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.2.2.Final		8c451d5fa4db6766d1c667e8f5a078bc3ef0dd8b
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.2.3.Final		dcf7698965953152126d174ff96222c34061e212
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.2.4.Final		000ab2cdd6e2de118b5af1dd09619b75c68123a3
@@ -1381,6 +1394,7 @@ org.wildfly.security	wildfly-elytron-sasl-gssapi	2.6.0.Final		6d3d46bd30bae6a30a
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.6.1.Final		36122ca6ad72e05767560259283ee4119d0afde3
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.6.2.Final		c6ce27d2085f3192c094b69403213d877947762b
 org.wildfly.security	wildfly-elytron-sasl-gssapi	2.6.3.Final		69a2a6240b2227688caaa8a32b2be9b40ce5c20c
+org.wildfly.security	wildfly-elytron-sasl-gssapi	2.6.4.Final		ee23ec1a9d357ea275bb19a686f450e8cc4ca96b
 org.wso2.carbon.analytics-common	org.wso2.carbon.event.input.adapter.sqs	5.1.29		533673f8cba227208d5e089629a4deb37242da59
 org.wso2.carbon.analytics-common	org.wso2.carbon.event.input.adapter.sqs	5.1.30		e9e51681ee7b54760c556c86e546d05762e104a0
 org.wso2.carbon.analytics-common	org.wso2.carbon.event.input.adapter.sqs	5.1.31		22bb5c2d822ff13dd8615eed304cfea06c7b900f

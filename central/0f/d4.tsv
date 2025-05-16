@@ -84,6 +84,7 @@ com.jzbrooks	vgo-plugin	2.4.0		53b616c1818846dfa31628c82924cbd2811f3eb3
 com.jzbrooks	vgo-plugin	3.0.0		c6078244317dc158844dbffdf864dd84144cb82c
 com.jzbrooks	vgo-plugin	3.1.0		720752a529560fdc1f0958124a26355ce5ab958f
 com.jzbrooks	vgo-plugin	3.2.0		605a0c7ca9cbf366ad1cbb6d9a63042c9878faa5
+com.jzbrooks	vgo-plugin	3.2.1		1e195f3da12b236504e795f3a947d45c1f20ad6c
 com.lihaoyi	ammonite-shell_2.12.6	1.1.0-18-0dc8a8e		4001e22a4e326203a69c460ca5869bb09836b593
 com.lihaoyi	ammonite-shell_2.12.6	1.1.0-21-ccc8024		13620de23e1799baece9ec43b36b221536c6dd1f
 com.lihaoyi	ammonite-shell_2.12.6	1.1.0-22-1cbf71e		92030f869640e0f8dada4c9888ff262ecb5f9f69
@@ -965,6 +966,7 @@ io.micronaut.configuration	micronaut-rabbitmq	1.2.0		3cf3a188e2a20cf125366c6cfd5
 io.monix	monix-testing-minitest_3	0.4.0		6dfd3bfb8446747d62efc387118ebfc3b54cef37
 io.opentelemetry.instrumentation	opentelemetry-elasticsearch-rest-common-5.0	2.14.0-alpha		70c50323dc3e1d0137753f4656915f483f824dcf
 io.opentelemetry.instrumentation	opentelemetry-elasticsearch-rest-common-5.0	2.15.0-alpha		c216d40b33ae51070f94719f80379c38abd730a4
+io.opentelemetry.instrumentation	opentelemetry-elasticsearch-rest-common-5.0	2.16.0-alpha		6eb1da7fbd4bed24662487a59751b61a14e35b1b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.10.0-alpha		0652e6dedf3ca763b16a92acaf027b3a1f0c015f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.11.0-alpha		f4a40214ddedd6874ae5637c8f7dd399195269ad
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.12.0-alpha		e3096288b0a4594ac62256c76882846d5f9178a3
@@ -974,6 +976,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.13.3-alpha		e9decace4fa92c26b3c5295c01db75dcd1fca47f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.14.0-alpha		5d0bf765f41882410358fd781463eb901b2c4015
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.15.0-alpha		b93a1e3728bb7b1a80854e917b747a287df4dd3d
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.16.0-alpha		c3a7e9296c085dc20f3662e7843b53e876501b76
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.4.0-alpha		babcb2e12025b673520bf67760bbd4a76d506568
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.5.0-alpha		475c619ae254e7e460321f1c8ac1f41b245d7924
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-influxdb-2.4	2.6.0-alpha		cfbd3509c47ab447f071608d90ab565af3c2a7e6
@@ -1255,6 +1258,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka_2.13	3.7.0_1		
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka_2.13	3.7.1_1		ac077fe9f5da7565f86ba736b37b1f49a017feee
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka_2.13	3.8.0_1		23e3a5a8ea5af53f0f869cc0ca12d4f0000bc745
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka_2.13	3.8.1_1		8f8c1d3d27fdac97fbc66f3d6079e99686ab6e5a
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka_2.13	4.0.0_1		508c0ec181de404b5feb885a1bbca74c347832e6
 org.clapper	avsl_2.12.0-M4	1.0.10		fe7d3959bded8052c0cf181bca113a3aa86efb29
 org.eclipse.scout.sdk.deps	org.eclipse.core.runtime	3.11.0.v20150405-1723		2ce8288b5ec3d63812b9361908e083a8ab3ad8e9
 org.eclipse.scout.sdk.deps	org.eclipse.core.runtime	3.12.0.v20160606-1342		b89e5869ab42dc4dd9228cf85f7d784bc6ecbfb0
@@ -1565,6 +1569,7 @@ org.tpolecat	natchez-lightstep-http_2.12	0.3.4		50195318357368b248782c17f2f657ca
 org.tpolecat	natchez-lightstep-http_2.12	0.3.5		68d8dbd6ca0fb94eda5e05d16002b32287d31b23
 org.tpolecat	natchez-lightstep-http_2.12	0.3.6		4f6ac838389fe421f7d0bbd8daa681e0c31f4344
 org.tpolecat	natchez-lightstep-http_2.12	0.3.7		765c832cf4da71911ef9bff36ca0eeec897f0187
+org.tpolecat	natchez-lightstep-http_2.12	0.3.8		66125d7c12473974fe158ebfe2876694ad273f27
 org.wartremover	wartremover-contrib_2.13.6	1.3.11		5d477302140a93a654b8f345713e83d7da74b505
 org.wartremover	wartremover-contrib_2.13.6	1.3.12		115df2154ba0fa9fc7d1b7fca610a59a8060a7ae
 org.wartremover	wartremover-contrib_2.13.6	1.3.13		cbc4538063b95511430f02d30373795245c2ac6a

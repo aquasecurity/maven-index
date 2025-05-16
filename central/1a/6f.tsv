@@ -8,6 +8,7 @@ br.com.esec.icpm	icpm-server-parent	1.13.4		N/A
 br.com.esec.icpm	icpm-server-parent	1.8.5		N/A
 br.com.esec.icpm	icpm-server-parent	1.8.6		N/A
 br.com.esec.icpm	icpm-server-parent	1.9.2		N/A
+ch.epfl.scala	sbt-scalajs-bundler-0-6_2.12_1.0	0.16.0		b2070f622f2d4783f9c20324cf98825a76e7a37f
 city.smartb.i2	i2-commons-domain-jvm	0.11.0		f7399cb21024b671a45d280271353792b677767f
 city.smartb.i2	i2-commons-domain-jvm	0.12.0		4ab805cba938da1396e2c3b24e1d7c014f40b32e
 city.smartb.i2	i2-commons-domain-jvm	0.13.0		aed08e5457934bee57b6a2490fce2d7b2cdbcb4b
@@ -104,6 +105,7 @@ com.devonfw.tools.IDEasy	ide-gui	2025.03.001		9490a71728638cb94086a3fc2aec2ebb4a
 com.devonfw.tools.IDEasy	ide-gui	2025.03.002		ed3d963105f4c1f74d7edbed691cf33c74d6e2be
 com.devonfw.tools.IDEasy	ide-gui	2025.04.001		1abc52281685b3d3e53c7a21653239aba2fb4583
 com.devonfw.tools.IDEasy	ide-gui	2025.04.002		aa90bbd6e913c7bca3509bb75c17e64230670061
+com.devonfw.tools.IDEasy	ide-gui	2025.05.001		55cb2fb0d69f431a18e2bdc3c2bd6aca6b5916e7
 com.etsy.sahale	flowtracker-pom_2.11	2.0.1		N/A
 com.etsy.sahale	flowtracker-pom_2.11	2.0.2		N/A
 com.etsy.sahale	flowtracker-pom_2.11	2.0.3		N/A
@@ -334,6 +336,8 @@ com.qingzhuge.framework	qing-framework-commons	1.0.1		82f469db6806a4d8e076418794
 com.qingzhuge.framework	qing-framework-commons	1.0.1.3		d8613e89908eea26b738396971c6307eaf5b754b
 com.qingzhuge.framework	qing-framework-commons	1.0.1.4		fe8566fae82a8520c5ee44d0acab7d58697c07a0
 com.qingzhuge.framework	qing-framework-commons	1.0.1.5		bf6cb6050949466c1bd47f3163c14ecf0b67cf2b
+com.sandinh	sbt-scalariform_2.10_0.13	1.3.0		3a0a3ce4d711ab775aa19c644ed0aaa51c6190c6
+com.sandinh	sbt-scalariform_2.10_0.13	1.3.1		1c925288138a1cbaced2f353e9dfbcfd35424dc3
 com.slack.circuit	circuit-retained-android	0.1.0		N/A
 com.slack.circuit	circuit-retained-android	0.1.1		N/A
 com.slack.circuit	circuit-retained-android	0.1.2		N/A
@@ -441,6 +445,7 @@ com.slack.circuit	circuit-test-iosarm64	0.27.0		N/A
 com.slack.circuit	circuit-test-iosarm64	0.27.0	metadata	c7c1312af68ffab7af39fe600343ae5d473c9840
 com.slack.circuit	circuit-test-iosarm64	0.27.1		N/A
 com.slack.circuit	circuit-test-iosarm64	0.27.1	metadata	c7c1312af68ffab7af39fe600343ae5d473c9840
+com.slack.circuit	circuit-test-iosarm64	0.28.0	metadata	ddd90d0f2e63ef76429bddb5a6e3dfacc42f2d5e
 com.tencent.tcr	sftp	1.0.1		917253fe8131ba880a3f94ee46b985aaf6c1873d
 com.tencent.tcr	sftp	1.0.2		64d56ffc2eda500dc8e8a734f0eb942c2703277f
 com.thesamet.scalapb	scalapb-grpcweb_sjs0.6_2.10	0.1.0		6b81f79206d01b987ba0e9d74fc915db31375105
@@ -621,6 +626,7 @@ io.quarkus	quarkus-flyway-oracle	3.15.2		8b6835834bfec8db8e8862f03e95c76f7684c8b
 io.quarkus	quarkus-flyway-oracle	3.15.3		b5a428ca38bbfc2ef3c5874bf4e7b814012bd936
 io.quarkus	quarkus-flyway-oracle	3.15.3.1		f6442c89f40141a6a91edc72db652e97f4049e97
 io.quarkus	quarkus-flyway-oracle	3.15.4		4ba7d4619ce644732767db0907a9fbd33564780c
+io.quarkus	quarkus-flyway-oracle	3.15.5		586263544d569d9dab3156668fe667bfa5ffc3d6
 io.quarkus	quarkus-flyway-oracle	3.16.0		b6a8ce8ad19888ae879264103249f0032ddd7032
 io.quarkus	quarkus-flyway-oracle	3.16.0.CR1		26f13523e85fa1934483c98d04ad366c9ac4baa7
 io.quarkus	quarkus-flyway-oracle	3.16.1		7ffb62a43ce7503a33cd4715080b646d122c0408
@@ -651,6 +657,7 @@ io.quarkus	quarkus-flyway-oracle	3.19.3		16a8e69ca3ac3e7e5322190021f03c291d81774
 io.quarkus	quarkus-flyway-oracle	3.19.4		52f272ed332294c3e608bbe3d731920bfed7c0d8
 io.quarkus	quarkus-flyway-oracle	3.20.0		bbd8dee8976610cc56a47ecd2e4a48d6df6a41ef
 io.quarkus	quarkus-flyway-oracle	3.20.0.CR1		714febd5b09c09d9401df9de8eec2e2f8aac0b59
+io.quarkus	quarkus-flyway-oracle	3.20.1		0bd1980e11048f38bbd2a85a0cb19ee29f1115e6
 io.quarkus	quarkus-flyway-oracle	3.21.0		fd61cdb7afa2176c69a4e10bb16fde6603fbd4fa
 io.quarkus	quarkus-flyway-oracle	3.21.0.CR1		123dc33f655a3ff8ed16f762534a84fa87d2c4c2
 io.quarkus	quarkus-flyway-oracle	3.21.1		ac9b8355f40940a1e9496200514223fd3abe03d4
@@ -660,6 +667,9 @@ io.quarkus	quarkus-flyway-oracle	3.21.4		ef374d06eeee01c4f5c4635945617892ff5268e
 io.quarkus	quarkus-flyway-oracle	3.22.0		f7c09240180ad79cdda3f2e961e22d8d34b9b60b
 io.quarkus	quarkus-flyway-oracle	3.22.0.CR1		288fde9018cf55eca21c369deb19c047e664d505
 io.quarkus	quarkus-flyway-oracle	3.22.1		fdc799b09d71af04652bb98cbd8e16e2d9e19fa7
+io.quarkus	quarkus-flyway-oracle	3.22.2		39a74837e604e98b2657c325c065b452f1bf503b
+io.quarkus	quarkus-flyway-oracle	3.22.3		fba55d4f89fa97c652a25751cb72a7ac0eddb01e
+io.quarkus	quarkus-flyway-oracle	3.23.0.CR1		81d5200fb4dadceecbc5605dc2f801a0491abea9
 io.smallrye.reactive	smallrye-mutiny-vertx-jdbc-client	2.0.0		62de28733e068c545b4030accbf759606e4a94de
 io.smallrye.reactive	smallrye-mutiny-vertx-jdbc-client	2.0.0.RC1		6d4f698202beac0c229dc9538aa501fd9131ceae
 io.smallrye.reactive	smallrye-mutiny-vertx-jdbc-client	2.0.0.RC2		1af8da8b532ddaffc3805a729d355cea2824e396

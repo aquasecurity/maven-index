@@ -1,3 +1,10 @@
+ch.epfl.lamp	sbt-coursera_2.10_0.13	0.1		340ec204a3d3c3e729f5fec26f10f0f1b155a1fe
+ch.epfl.lamp	sbt-coursera_2.10_0.13	0.2		970ce0072ee2ca2003b76ea3bae5659dc25c7518
+ch.epfl.lamp	sbt-coursera_2.10_0.13	0.3		fa32472e7ba0df3af5752c14fa1ebfee74ae4105
+ch.epfl.lamp	sbt-coursera_2.10_0.13	0.4		198fefc51542c6e54e8220be09a50e68ffcf1b09
+ch.epfl.lamp	sbt-coursera_2.10_0.13	0.5		3645bcb36c639203684dd2f21a080c8f534398ab
+ch.epfl.lamp	sbt-coursera_2.10_0.13	0.6		889a19440f3e4cb85e653ffabf14b59248868219
+ch.epfl.lamp	sbt-coursera_2.10_0.13	0.7		c00b4562838766f7e15ff1757705f7ead90734e0
 cn.assassinx	assassin-client	1.0.0		992ca14d6d1924909e85f78778536208ec7a9848
 cn.valot	proto-698	1.3.2		bc0fb4e8df4c56051913dffa0b59d954dfe1f792
 cn.valot	proto-698	1.4.0		d51c7be406bd45097cf5619b4bd7dd5cadb67e9f
@@ -15,6 +22,7 @@ com.basistech	adm-json-schema-gen	3.0.1		f79bf68d1835675882421ac7b261df27e4c2f15
 com.basistech	adm-json-schema-gen	3.0.2		880feb5d85ca82d9348915c1e955cddda3295c8b
 com.basistech	adm-json-schema-gen	3.0.3		ef68ec733d9113913b9891b966749084862aade9
 com.basistech	adm-json-schema-gen	3.0.4		341fa9866b1fda37ac69f9a26995b6bd84a0745c
+com.basistech	adm-json-schema-gen	3.0.5		d562872b448aef1670d30711cbbe33ab1ac39b21
 com.cybersource	rest-sdk-java	1.0.0		7001848ebaf60fd7b186deaa7bdd716b3621018b
 com.didiglobal.booster	booster-test-asm	4.10.0		f2b2b18fb793c7a8271fe1e752d9b32f636138cb
 com.didiglobal.booster	booster-test-asm	4.10.0-alpha1		2dbfdf34a88176f4c877dbfcaa8ba68f6476f474
@@ -895,6 +903,7 @@ dev.zio	zio-aws-rds_3	7.31.27.1		64713d32001e8e54e1920b8cd81516960bc93436
 dev.zio	zio-aws-rds_3	7.31.28.1		b4992b07ce3ccd045404b13d64881a9f1c838b0e
 dev.zio	zio-aws-rds_3	7.31.3.1		3cf740fd67e0530ccf76dc82586f9a596ea82325
 dev.zio	zio-aws-rds_3	7.31.30.1		de18a0cf0dc84b5b523b2eb18db581c59f4d96b8
+dev.zio	zio-aws-rds_3	7.31.30.2		400aa6c632f6b576f3856e4b041dbc15e19f516c
 dev.zio	zio-aws-rds_3	7.31.4.1		a33075201130d8509fe9ce2e609efd683e134061
 dev.zio	zio-aws-rds_3	7.31.6.1		3b3603e7c78582ef31a0723bd7f139aab9b20f01
 dev.zio	zio-aws-rds_3	7.31.6.2		3385ce4ec33fa202e5b9ff91d3d53b5c3fef4fb8
@@ -1118,6 +1127,7 @@ io.camunda	zeebe-process-test-assertions	8.4.15		db234cee5f5c233e88dfa9c7ca4554a
 io.camunda	zeebe-process-test-assertions	8.4.16		b439b8d52d8a1adbd4c8117d010947c75b56ed21
 io.camunda	zeebe-process-test-assertions	8.4.17		ccd883b8bef834c55dc1452d2a0048386f9e7c55
 io.camunda	zeebe-process-test-assertions	8.4.18		e3c0740d83bcc846398779265e15baa4a8ca00ff
+io.camunda	zeebe-process-test-assertions	8.4.19		5439d89ef971c0ebdc62bef0112aa0d7dcf083f1
 io.camunda	zeebe-process-test-assertions	8.4.2		7ecdb7fedc7a0620f915505d972295f8976f5d33
 io.camunda	zeebe-process-test-assertions	8.4.3		1a6acc3fb95c0e7e6fe197bc5c75105213ed0d7d
 io.camunda	zeebe-process-test-assertions	8.4.4		b73398f95cc41b90b27fa5b82f98f2dbd837cec3
@@ -1138,6 +1148,7 @@ io.camunda	zeebe-process-test-assertions	8.5.14		d7b18db6bc7cccc9bb220a42ec22046
 io.camunda	zeebe-process-test-assertions	8.5.15		126bb239d64610b7db3c59558ab4b4248c8c9da8
 io.camunda	zeebe-process-test-assertions	8.5.16		5decfcb31490f21529fc7ac2da0ad4969d751ef0
 io.camunda	zeebe-process-test-assertions	8.5.17		7bf9a4c901d5ed2e1ac9f9738c653577b99e84ec
+io.camunda	zeebe-process-test-assertions	8.5.18		e96aefccbd6af733d70d46969ea085562e1f0d52
 io.camunda	zeebe-process-test-assertions	8.5.2		be8c01a3f5c52d2cd082f784d13388c613931107
 io.camunda	zeebe-process-test-assertions	8.5.3		89ccda11dddfc70e67f1539589b29f3c94fb0f0a
 io.camunda	zeebe-process-test-assertions	8.5.4		ceffe2f45611ca0ffc5d86e5b9d8a6fc3a4ab3fa
@@ -1172,6 +1183,8 @@ io.camunda	zeebe-process-test-assertions	8.6.12-rc1		df201ae5623000f094d31401873
 io.camunda	zeebe-process-test-assertions	8.6.13		a0e3699e66c569db6d0e810ab2a341c6579bbcbb
 io.camunda	zeebe-process-test-assertions	8.6.14		fc9afc7c255924715a152942f871daff9f26dfdb
 io.camunda	zeebe-process-test-assertions	8.6.14-rc1		81746ea0f800aab05789694ef7f75f5d0cdbd563
+io.camunda	zeebe-process-test-assertions	8.6.15		7babd7814d447433c0a1b4b09261dfa742ab6787
+io.camunda	zeebe-process-test-assertions	8.6.15-rc1		d50e9d595f7086e98299a6d8ed4fdf2d3feeea71
 io.camunda	zeebe-process-test-assertions	8.6.2		3e61defc0b5813d11b35cec5963e72adb68771de
 io.camunda	zeebe-process-test-assertions	8.6.3		0b546b689c33bd9454d621a0e76cf38d48afc634
 io.camunda	zeebe-process-test-assertions	8.6.4		30c3813184dc4bfe728c8a576fcba138079a7081
@@ -1206,11 +1219,14 @@ io.camunda	zeebe-process-test-assertions	8.7.0-alpha5-rc1		4adbe908554173ddfe39a
 io.camunda	zeebe-process-test-assertions	8.7.0-rc3		35fb6d961540b8a882d8d668e8fc37e0c33bd7d9
 io.camunda	zeebe-process-test-assertions	8.7.1		1a7e04f18c506c18bdee393473059c46e11dd46a
 io.camunda	zeebe-process-test-assertions	8.7.1-rc1		71e000c6cd26749284bf4a537e81f931c842a1c4
+io.camunda	zeebe-process-test-assertions	8.7.2		3c902ffe99d778e10230f5c05b4d7a118996cb21
+io.camunda	zeebe-process-test-assertions	8.7.2-rc1		bb8aa3d8e714619be9c8f2309bf9ece01665e529
 io.camunda	zeebe-process-test-assertions	8.8.0-alpha1-rc1		1ff7f4d33017b363f41f43c73151cb0b6773f770
 io.camunda	zeebe-process-test-assertions	8.8.0-alpha2		7fadc75c023eb8ec00224b0d829d904b83cd89b1
 io.camunda	zeebe-process-test-assertions	8.8.0-alpha2-rc1		cd32ffb1bc5ded71babb3895be91ca72be0b3aac
 io.camunda	zeebe-process-test-assertions	8.8.0-alpha3		31ff4d46f5a1da8ce7d90dfca4b6f97daa866534
 io.camunda	zeebe-process-test-assertions	8.8.0-alpha3-rc3		fb4e9d7a9f0c4a06d6780a3a59c85a9dd0a1aac2
+io.camunda	zeebe-process-test-assertions	8.8.0-alpha4		6d59ebaef746475609e1d7b5c0c213c5222c6be0
 io.camunda	zeebe-process-test-assertions	8.8.0-alpha4-rc1		afa615bebc967d4589522b20bbd94b0277e8ed9d
 io.github.dawdler-series	dawdler-load-plug	1.0.2-jdk1.8-RELEASES		N/A
 io.github.dawdler-series	dawdler-load-plug	1.0.2-jdk17-RELEASES		N/A
@@ -1293,6 +1309,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap	2.13.3-alpha		44bc209a0922f07065d9da72e18c7e730214d23a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap	2.14.0-alpha		50af612dd7acda122e12fb6dda90e7355b5b45c1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap	2.15.0-alpha		ba0c8bb39cfafa4d83e887a4a965b1920be00093
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap	2.16.0-alpha		660917406a81e19c567d0d5b9eb6b969d42f6dcf
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap	2.2.0-alpha		8dd7880380e668e8faa99d2c9e3aaa1344f28001
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap	2.3.0-alpha		6532e11c08fb49f5c2b0a5dea00d33fc0aa32856
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rmi-bootstrap	2.4.0-alpha		e65791439878a7f91cd4c9b30a602616cf353fa4
@@ -1427,6 +1444,7 @@ org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.2.1		0b06188d23e
 org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.2.2		487ede122692e2a8cd8d8e38c7a334a284a378f3
 org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.2.3		94b3badc0d45bfe801c78975146f7cdcfb58d826
 org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.20.0		b7165c105a2b28d01f981fa2f36fe0a48fc498ba
+org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.20.1		0e01c2617792d72bd75e01a1d88ca42eeb50d713
 org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.22.0		83c1978ff6c4fab496a98d5aa6e319c08ca9aac1
 org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.4.0		0be4ab4e9c61df7e5df45990a2bd0f5625af07d6
 org.apache.camel.quarkus	camel-quarkus-junit5-extension-tests	3.5.0		49211605221fcb476f063b750717c5a88a0c1204
@@ -2089,6 +2107,7 @@ org.wildfly	wildfly-clustering-service	35.0.0.Final		dc616ef5c5ad4c781539a50017b
 org.wildfly	wildfly-clustering-service	35.0.1.Final		f7bd223a6cbf15806c622ba357506267e665b26d
 org.wildfly	wildfly-clustering-service	36.0.0.Beta1		7e048db9154f82c616b19ebe5ec826b933008714
 org.wildfly	wildfly-clustering-service	36.0.0.Final		bd88257a8155fee6a7aad081b173c12c33c67b57
+org.wildfly	wildfly-clustering-service	36.0.1.Final		70c1968775dace207d3f4dd084efca2f003d5922
 org.wildfly	wildfly-clustering-service	8.0.0.Alpha1		9d5c6f27d0016e990eaf690baa42310a04f5ef7e
 org.wildfly	wildfly-clustering-service	8.0.0.Alpha2		2409770c796484d193ec485813d6e594e56b4dbf
 org.wildfly	wildfly-clustering-service	9.0.0.Beta1		ba03b90da7a284abc7d69db83128f6a4a9fb1cd9

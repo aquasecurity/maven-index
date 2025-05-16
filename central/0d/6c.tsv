@@ -1503,6 +1503,7 @@ dev.zio	zio-aws-transfer_2.12	7.31.27.1		55dd621bd3b534de79fb6685639bb897acd6c94
 dev.zio	zio-aws-transfer_2.12	7.31.28.1		50b153f0172152b3506ddd95fa4d10136bacdf90
 dev.zio	zio-aws-transfer_2.12	7.31.3.1		eebaed05438e28338858784d7be1e4bcbb067f58
 dev.zio	zio-aws-transfer_2.12	7.31.30.1		d0eb04e9a08334eed450237a6453385041d89c8c
+dev.zio	zio-aws-transfer_2.12	7.31.30.2		c5e7447c1e4314b4a55236e78b1ec4c103307aac
 dev.zio	zio-aws-transfer_2.12	7.31.4.1		f5ec4092c708c6c7592225b37527fc2ed8d3f0cd
 dev.zio	zio-aws-transfer_2.12	7.31.6.1		fb140d0e643b8191c61dc69b9b4542af48d9662e
 dev.zio	zio-aws-transfer_2.12	7.31.6.2		f1b643e483979c243c61a65539d86d58a814dda0
@@ -1962,6 +1963,8 @@ io.stargate.cql	cql	2.0.29		38b83b1801c03ca4f232e9565e73b53fe54d067d
 io.stargate.cql	cql	2.0.3		b8160cc1036476f61c90b17679dca3e32d269d47
 io.stargate.cql	cql	2.0.30		fd035b6b5c209338623176fe25f0ed0dc895572d
 io.stargate.cql	cql	2.0.31		c82e9004b93392318cd45ba2deca439cd53aec2a
+io.stargate.cql	cql	2.0.32		e6ddc2ff0bdfb8259aa6470a178aa4e77525e2a6
+io.stargate.cql	cql	2.0.33		e389e6cdb8f6e46aa4fd77f0eb3341ca66dda0ee
 io.stargate.cql	cql	2.0.4		233c8be51a4f37b35665b39f1c75d2dbeada39c3
 io.stargate.cql	cql	2.0.5		b613014b185422678a78eb7cf93d119265779b1f
 io.stargate.cql	cql	2.0.6		9196f4e356f39daa459a24d962526cf4a9b7e78c
@@ -1995,6 +1998,7 @@ io.stargate.cql	cql	2.1.0-BETA-21		d860d136797c51d784e54900e9c91e35d5a7be2a
 io.stargate.cql	cql	2.1.0-BETA-22		322c32698ecd881fc73fd0ff88f7cdfa5f1870f6
 io.stargate.cql	cql	2.1.0-BETA-23		19b8148117a7817220f4ecabaf4cb82b86786d1b
 io.stargate.cql	cql	2.1.0-BETA-24		af108f335e9f2b47941beda4ba7c77065104a32d
+io.stargate.cql	cql	2.1.0-BETA-25		3b9a6d1f5c5a1868d2f01220c7bd2cbcf9e1fa8b
 io.stargate.cql	cql	2.1.0-BETA-3		193e323bbc2c9a6f4f5917ffbec9f207cdd77e04
 io.stargate.cql	cql	2.1.0-BETA-4		6f0c524f596f60814d3f5c48ec52187ba5d89ef3
 io.stargate.cql	cql	2.1.0-BETA-5		c161d89f3b807c6af482028d29bc5e29a7bf708c
@@ -2124,6 +2128,7 @@ org.bardframework.form	bard-form-common	3.7.4		f951d5cd3a7339ed7f3ad713222c3b251
 org.bardframework.form	bard-form-common	3.8.4		bdfcadea3ce308b6abca7aad1de0b2051b56e245
 org.bardframework.form	bard-form-common	3.9.14		d40740a8a5d7e06425daab277e78b3ada152114d
 org.bardframework.form	bard-form-common	3.9.4		451975db7f9a4bbcacec45bdf4a72c9dd0d3fbc0
+org.bardframework.form	bard-form-common	4.1.14		d5a78a58d4b58edcdddb53fea66d97b51adaaeac
 org.danbrough.ktor	ktor-server-resources-linuxarm64	2.1.1		5fceb2093f2a0e64018face0282b6b343ad64535
 org.danbrough.ktor	ktor-server-resources-linuxarm64	2.1.1a		a77273b4192e7072ed0df38319899d4da2ab78d2
 org.danbrough.ktor	ktor-server-resources-linuxarm64	2.2.3		0cebc81d4ebb816743454374caddedfec024607a
@@ -3094,7 +3099,18 @@ software.amazon.awssdk	sagemakermetrics	2.31.30		74c11740d519608ddb3a1314557b4b1
 software.amazon.awssdk	sagemakermetrics	2.31.31		191822c9589feb4d2c7a2930f8f4c1527bba80b8
 software.amazon.awssdk	sagemakermetrics	2.31.32		1bce8c1353e6e5b3124b89d6999a6bd3488d5321
 software.amazon.awssdk	sagemakermetrics	2.31.33		4146dda172d4f3548f874f3f69815a7536884108
+software.amazon.awssdk	sagemakermetrics	2.31.34		73d3b09542cea3010ba010e758434c143ba8a449
+software.amazon.awssdk	sagemakermetrics	2.31.35		8381fb09a5832d5bf190e2cb5a5234ca921effb4
+software.amazon.awssdk	sagemakermetrics	2.31.36		1bae7a126c796478c13009cd91d8b4e5e3b7b43a
+software.amazon.awssdk	sagemakermetrics	2.31.37		90c9dd5c47d74bbfc8b92ff24e84276997708598
+software.amazon.awssdk	sagemakermetrics	2.31.38		5430496a7b08507c573901f16feea557da1a76e8
+software.amazon.awssdk	sagemakermetrics	2.31.39		22de7ba54d129eae6d9fa9260dd3a3b4974ae831
 software.amazon.awssdk	sagemakermetrics	2.31.4		98a6bd38d25af3e906970c7038915c060dea3675
+software.amazon.awssdk	sagemakermetrics	2.31.40		4e2ae74be878fe70eabbd39b80a6e21665e28cdc
+software.amazon.awssdk	sagemakermetrics	2.31.41		62899411af106f6f13aebff98dd7972b6dc9791c
+software.amazon.awssdk	sagemakermetrics	2.31.42		1d302f1e09a81a20ad33e7b5da99b9121393824e
+software.amazon.awssdk	sagemakermetrics	2.31.43		751da56cb1930f37c864239dd16bb5e0bef8dc9b
+software.amazon.awssdk	sagemakermetrics	2.31.44		7d1140249661f6e51399940fdb0099a0739588ef
 software.amazon.awssdk	sagemakermetrics	2.31.5		8b96412376716a153e18e620acc07833326ce05c
 software.amazon.awssdk	sagemakermetrics	2.31.6		9e3453c51578a35674b0a0c2755668f29b0699bf
 software.amazon.awssdk	sagemakermetrics	2.31.7		5f0b219e15ef34941bd3b48fa77702f160f388b0

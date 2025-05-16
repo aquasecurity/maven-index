@@ -28,6 +28,7 @@ app.lexilabs.basic	basic-logging-watchosx64	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-logging-watchosx64	0.2.5-beta01	metadata	bed0b8b85f503ecefd41e4a9b7334792bd7eb120
 app.lexilabs.basic	basic-logging-watchosx64	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-logging-watchosx64	0.2.5-beta02	metadata	cd29833d87bd6092aa069afdc07da55e8a13053b
+app.lexilabs.basic	basic-logging-watchosx64	0.2.6	metadata	c65727592f33a3b3adc9b028c5f22fbbc8e82e98
 app.lexilabs.basic	basic-logging-watchosx64	0.2.6-beta01		N/A
 app.lexilabs.basic	basic-logging-watchosx64	0.2.6-beta01	metadata	46aba30565af66946bc6bca8a7a042ef5a5aa484
 app.lexilabs.basic	basic-logging-watchosx64	0.2.6-beta02		N/A
@@ -570,6 +571,8 @@ com.google.api.grpc	grpc-google-cloud-vision-v1	3.57.0		366e6c71e98d47df92c07231
 com.google.api.grpc	grpc-google-cloud-vision-v1	3.58.0		17d20b2898b4c2d9ffda37163120005bc5515512
 com.google.api.grpc	grpc-google-cloud-vision-v1	3.59.0		1bbc6ccc44930923949c278051014f7ea3c33d07
 com.google.api.grpc	grpc-google-cloud-vision-v1	3.6.0		37e6eddb75e83ee68edf7a35640b0b754523589a
+com.google.api.grpc	grpc-google-cloud-vision-v1	3.60.0		f11fcb8115383fd658bb77478c8365cbf47ab08c
+com.google.api.grpc	grpc-google-cloud-vision-v1	3.61.0		433afdcb09e8f44b34ed5ae424bb2ac2f27c6cd2
 com.google.api.grpc	grpc-google-cloud-vision-v1	3.7.0		9d773052fbbd7f7833d2fbc28a1edaca69ddcc43
 com.google.api.grpc	grpc-google-cloud-vision-v1	3.8.0		150af7e1af8a4da8004d87ce36d92559cd7c040c
 com.google.api.grpc	grpc-google-cloud-vision-v1	3.9.0		53432269613d16b62222a54aaf337d10233b810f
@@ -2221,6 +2224,7 @@ org.tpolecat	natchez-testkit_2.13	0.3.4		5eaddc18090a25bffcee09849a58ae6de3e30cd
 org.tpolecat	natchez-testkit_2.13	0.3.5		52ae4aefb544c3622dc9798bb25f70ffb93bdbbb
 org.tpolecat	natchez-testkit_2.13	0.3.6		a8bb8dadfcd250f11cfc3d845be1c0ca72db09ff
 org.tpolecat	natchez-testkit_2.13	0.3.7		3f146a861e9bb6159a6e379fba09d41cfbedd7da
+org.tpolecat	natchez-testkit_2.13	0.3.8		f468d88d925fe4af8aa84f78d054b1965ff8279e
 org.webjars.bower	github-com-sniperwolf-taggingJS	1.3.1		d41fd34a1bd01415f4cc1f583db91ad9d100b63e
 org.webjars.bower	jquery.repeater	1.1.3		7978f70710aa0843ab5ecc87576f44dffcfd45da
 org.webjars.bower	jquery.repeater	1.2.1		f12ada7a6856491d29297755dee422942e81258a
@@ -3572,7 +3576,18 @@ software.amazon.awssdk	cloudwatchlogs	2.31.30		b0abacf973148792aa4c5669c7e3c1bc5
 software.amazon.awssdk	cloudwatchlogs	2.31.31		1d7c414ac3d38105482422fa3324ab91f54e1dc7
 software.amazon.awssdk	cloudwatchlogs	2.31.32		ed507d1620a7abee24c8779d93f288317cb4a855
 software.amazon.awssdk	cloudwatchlogs	2.31.33		173d62106ccd2f75e460ceee957c573701c8a3b5
+software.amazon.awssdk	cloudwatchlogs	2.31.34		86762e844d95037d9b681ef573f20c0d3244ef6a
+software.amazon.awssdk	cloudwatchlogs	2.31.35		3a4ba0866de11c41d03c7ca0f82f9ca4bfb54cd7
+software.amazon.awssdk	cloudwatchlogs	2.31.36		c21607a210d4faacefa110476ce566925a7af5cd
+software.amazon.awssdk	cloudwatchlogs	2.31.37		ccb88013a80e86dfa2adf72b22cb8c69e3e976c7
+software.amazon.awssdk	cloudwatchlogs	2.31.38		ac3a7a8e114f64d12cf8750297a39d8023cd4bf3
+software.amazon.awssdk	cloudwatchlogs	2.31.39		15764f6d55dcb807124ee7e9435c70632abcbaf3
 software.amazon.awssdk	cloudwatchlogs	2.31.4		396489c586a1d5f6bfb70fc42efb5cb8b4a8d955
+software.amazon.awssdk	cloudwatchlogs	2.31.40		80a0ecd3c1c41eded48272171c91245d37e9700b
+software.amazon.awssdk	cloudwatchlogs	2.31.41		a46dda4cf322cae91168f55100ac3eff709fef2d
+software.amazon.awssdk	cloudwatchlogs	2.31.42		eb589711814c874c92b2c85070365bdb42b14a92
+software.amazon.awssdk	cloudwatchlogs	2.31.43		6327ff2df296c06c6c028c2902ba249746f929f4
+software.amazon.awssdk	cloudwatchlogs	2.31.44		8ce93ed976230707869ce4304879d4e1a1bb87c7
 software.amazon.awssdk	cloudwatchlogs	2.31.5		092a1a3ab0e7818b243cf4268d993beebae171fc
 software.amazon.awssdk	cloudwatchlogs	2.31.6		18e6294a1392345d2e68a227797846c8b11bfa44
 software.amazon.awssdk	cloudwatchlogs	2.31.7		2a1f95aa36c1c5f06341b6feccc4dd096b0ebd18

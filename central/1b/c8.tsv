@@ -429,7 +429,16 @@ aws.sdk.kotlin	iotevents-jvm	1.4.73		3a463c9624f48f8f90462656bb97503d89613a66
 aws.sdk.kotlin	iotevents-jvm	1.4.74		41a55c33771b99673211e3ea0db4b83696105d11
 aws.sdk.kotlin	iotevents-jvm	1.4.75		3d27c467707994fe8649ea21dc806bc506e246f3
 aws.sdk.kotlin	iotevents-jvm	1.4.76		6cffc0e81f2fb887b5a20c31f938a6ebb8205144
+aws.sdk.kotlin	iotevents-jvm	1.4.77		fea256345c73ae45d1c9fbe2de7b9a5546e413c9
+aws.sdk.kotlin	iotevents-jvm	1.4.78		167a92a42ef432c941b0907f6d9e2f66fc7243f5
+aws.sdk.kotlin	iotevents-jvm	1.4.79		e05610af677d6a2a45138cb6a11a5ee69262660f
 aws.sdk.kotlin	iotevents-jvm	1.4.8		e63a06dd80d8a75d54fa2870c854ab6ad7c2ac75
+aws.sdk.kotlin	iotevents-jvm	1.4.80		f72fd398bf052d42bd91624de5936d848f7ea4f6
+aws.sdk.kotlin	iotevents-jvm	1.4.81		4457e1bba7b435defe1c573505dbd9c0f8cfdca4
+aws.sdk.kotlin	iotevents-jvm	1.4.82		5f351386111f169d28ff0014636cb83d8ee414db
+aws.sdk.kotlin	iotevents-jvm	1.4.83		f1b88d4b1b3f7ae87df8ee7962651d86ad1f0933
+aws.sdk.kotlin	iotevents-jvm	1.4.84		d75b6b39dfc03795c7af407dbada45990af31f9b
+aws.sdk.kotlin	iotevents-jvm	1.4.85		57cf0b4685da65e89f6d04a76b0c6eab46c11c75
 aws.sdk.kotlin	iotevents-jvm	1.4.9		aad110ca223ca051d34695de144e010f7bcc74a2
 br.com.youse.forms	form-js	0.0.1		0fefb113a1cf45783ef0a15984dbf4e17ee9a58e
 br.com.youse.forms	form-js	0.2.0		b9b34d37809c634aafc0a6e307690462554a61e0
@@ -664,6 +673,7 @@ com.google.cloud	google-cloud-bigtable-emulator	0.194.2		6d5e0d28e9c8aa2b75b5b8d
 com.google.cloud	google-cloud-bigtable-emulator	0.194.3		20287db880887b12dce7f5f7b1fefbd6159316e5
 com.google.cloud	google-cloud-bigtable-emulator	0.195.0		7e3a2fc04722b460b78a455ed25be7218c98cdde
 com.google.cloud	google-cloud-bigtable-emulator	0.195.1		dd44ab6d459f40544ca0f862c0720dcdb1df4594
+com.google.cloud	google-cloud-bigtable-emulator	0.195.2		ec1be57e99ec12be981f4271cc6e470b0016a81d
 com.google.cloud	google-cloud-bigtable-emulator	0.72.0-alpha		3b34198347780a0a6cb44177105fa76343244706
 com.google.cloud	google-cloud-bigtable-emulator	0.73.0-alpha		bc533e7481bb257c4a9b808b64eceb2b3295d2cc
 com.google.cloud	google-cloud-bigtable-emulator	0.74.0-alpha		b5f02cc5325e3cbb642538504108c80733ba7e69
@@ -1087,6 +1097,7 @@ com.pcloud.pcloud-networking-java	serialization	2.7.0		13199861c5740994c9f17989e
 com.pcloud.pcloud-networking-java	serialization	2.8.0		4eed657be9005da2a75395f8f2c3b08c9e928ae1
 com.pcloud.pcloud-networking-java	serialization	2.8.1		1f3a7b5a6707c3480d980beb1cbf09c07b504ea0
 com.pcloud.pcloud-networking-java	serialization	2.9.0		dc46f822e4611413a06aaf1f79e3c4d078a68860
+com.pcloud.pcloud-networking-java	serialization	2.9.1		05001c1f334159c0f2912f095bf79304a1a635d5
 com.regblanc	native-opengl_native0.4_2.11	0.2		00bf60a021dbde3cf981714679983ff67de270b5
 com.sap.cloud.sdk.plugins	scp-neo-maven-plugin	3.0.0		2cc1a3e4a54e5cde7c0274936be0097bd39637d3
 com.sap.cloud.sdk.plugins	scp-neo-maven-plugin	3.1.0		df0bcb32e4139f17a0055bf349625824c56e131f
@@ -1284,6 +1295,7 @@ com.tencent.bk.devops.ci.stream	api-stream	3.2.0		00670e527a4cc778b2bd3ae82fe524
 com.tencent.bk.devops.ci.stream	api-stream	3.2.0-rc.1		3248ff6366e7aaf48631a8d0c18f7eb2d1bdb054
 com.tencent.bk.devops.ci.stream	api-stream	3.2.0-rc.2		c4c3ee4dd56efe4b92ba568045c7149b6d4d5dde
 com.tencent.bk.devops.ci.stream	api-stream	3.2.0-rc.4		32435d7ea15311ca62c4b105eb7086bac69f6fb8
+com.tencent.bk.devops.ci.stream	api-stream	4.0.0-rc.1		e6c637cb61f3a6824e19c6d5fba03e1d7b25893e
 com.twitter	scrooge-serializer_2.10	3.10.0		0231f4fb145afbf57e4ae060b0068282f37a6b9c
 com.twitter	scrooge-serializer_2.10	3.10.1		3360fd74a5606cf5643fc7e55608bd6dde29a983
 com.twitter	scrooge-serializer_2.10	3.10.2		b8005a17205c6764267ee3dba37be075926b1362
@@ -1359,6 +1371,8 @@ com.twitter	util-zk_2.13	22.7.0		6fc7bc54870a608872423f1513bb09bb50184d46
 com.twitter	util-zk_2.13	23.11.0		2e5fbf6b9e0163be3d09fe1e52fd948bcc5ed695
 com.twitter	util-zk_2.13	24.2.0		0f05b3e486c6a1fa8bbdb60ca5b7d62db1b02f55
 de.knutwalker	transducers-scala-rxscala_2.12	0.7.0		b6ea8a68a77e19d2d0bfd0fcfc199d14ebc8f875
+de.sciss	sbt-appbundle_2.9.2_0.11.3	0.13		75821ab0ed887d4914821192cc8a17d542b49c0d
+de.sciss	sbt-appbundle_2.9.2_0.11.3	0.14		0b30e6437941effad7d5cf0e32f6dd952a931d57
 dev.bodewig.mimic	mimic-annotation-processor	1.1.0		06e899608a30d82f529eb10f800d685be05b1b6b
 dev.bodewig.mimic	mimic-annotation-processor	1.1.1		8a631a3253b2231cecb8fb0ecb5dee9d5f962951
 dev.bodewig.mimic	mimic-annotation-processor	1.1.2		1c2b299b9b54ae5be6e41731ce90058c3dd45664
@@ -1380,6 +1394,7 @@ edu.washington.cs.knowitall	reverb-core	1.4.3		edbf25492b9f9cd1914d7a95fef08fa4e
 eu.imind.play	play-cxf_play21_2.10	1.1.0		56d55f17c33d62113539522e9c80f95aa05302b5
 eu.imind.play	play-cxf_play21_2.10	1.1.1		f58ced0589537b32969c2693e895846b23d137e5
 exist	exist-resolver	0.9.2		2fd516131a66ee86e7953b46c29b7af5323835cb
+fi.gekkio.sbtplugins	sbt-jrebel-plugin_2.10_0.13	0.10.0		62e7156a6597a7cdf3253a087e5ef0b07876a88c
 io.github.taikonaut3	virtue-spring	0.0.1-alpha		N/A
 io.github.taikonaut3	virtue-spring	0.0.10-alpha		N/A
 io.github.taikonaut3	virtue-spring	0.0.11-alpha		N/A
@@ -1426,6 +1441,7 @@ io.stryker-mutator	mutation-testing-metrics_3	3.4.0		8753dd670265930f38ca7433acd
 io.stryker-mutator	mutation-testing-metrics_3	3.4.1		8d44046f43098a04658a31d853e4fdf07c28c7b2
 io.stryker-mutator	mutation-testing-metrics_3	3.5.0		5f7f0c9cfc647fe39667da389cf7556688239343
 io.stryker-mutator	mutation-testing-metrics_3	3.5.1		8b6cf4ab2e3486e62bd57c3df22fbf044d242e2b
+io.stryker-mutator	mutation-testing-metrics_3	3.5.2		96ad8c4a8466ad70201a7840c1187df8300833d5
 io.takari.m2e.discovery.publisher	org.sonatype.m2e.discovery.publisher.parent	0.1.0		N/A
 io.takari.m2e.discovery.publisher	org.sonatype.m2e.discovery.publisher.parent	0.1.1		N/A
 io.takari.m2e.discovery.publisher	org.sonatype.m2e.discovery.publisher.parent	0.2.0		N/A
@@ -1453,6 +1469,7 @@ net.hamnaberg.googleapis	googleapis-http4s-bigquery_sjs1_3	0.4.5-v2-20240905		34
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_sjs1_3	0.6.0-v2-20240919		e14623467c13140a3e2ee6f873c4e2397261f4e1
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_sjs1_3	0.6.1-v2-20241111		fd8d0a7e598f246f2fa9cda105c5d7835e2846eb
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_sjs1_3	0.6.2-v2-20250128		01379ea595a35410d95dd3d26a3b6df3cb6b470d
+net.hamnaberg.googleapis	googleapis-http4s-bigquery_sjs1_3	0.6.4-v2-20250427		89e88c1b8ecd4e7ec33ab6df3fe44b1b4441419f
 net.kpipes	kpipes-function-view-materialize-keyvalue	0.0.3		cf50730590e3f37bad1af9cbdc9ab2cf8a8565a6
 net.kpipes	kpipes-function-view-materialize-keyvalue	0.0.4		91e418a143bcb195f7cc198436c079f8b6b53fa3
 net.kpipes	kpipes-function-view-materialize-keyvalue	0.0.5		beff1aa1028798448841bf62f2d82de6239a423a
@@ -1761,6 +1778,9 @@ org.eclipse.tractusx.irs	irs-registry-client	2.1.8		36d4ed8ab364dcc7544b0b847bbc
 org.eclipse.tractusx.irs	irs-registry-client	2.1.9		3148d7dcb7f6f34bd13c759e9f67bb7c9178409c
 org.eclipse.tractusx.irs	irs-registry-client	2.2.0		3a3900268ea0758f1cd89f73cef14465ac305277
 org.eclipse.tractusx.irs	irs-registry-client	2.2.1		838a8704041e390c89c77910cdfaad6dd16507ab
+org.eclipse.tractusx.irs	irs-registry-client	3.0.0		72c0433dc5eacb67344c7c9da5e16190b90fdc36
+org.eclipse.tractusx.irs	irs-registry-client	3.0.1		0f1556e3f336367c45947a0fd98a5ba7518b6729
+org.eclipse.tractusx.irs	irs-registry-client	3.0.2		3149949bc21b452e8dee8c6ffadbb30e24d61f75
 org.fryske-akademy	teidictionaries	1.2		886fadd0fa67f1fa79b54c56dfb1325345b482bc
 org.fryske-akademy	teidictionaries	2.0		45ea9c1188bdaf92ec70a0d39eaf694ce95f233c
 org.fryske-akademy	teidictionaries	2.1		3ad7f29171829ed08deb991503c1740c86412d17
@@ -2923,12 +2943,24 @@ software.amazon.awssdk	voiceid	2.31.30		c30c8ee470d2bfd8bd394eb119f58c60edac29c3
 software.amazon.awssdk	voiceid	2.31.31		846fe6148d657254e5f815c4970538a1a8c7b178
 software.amazon.awssdk	voiceid	2.31.32		6313f9cb80ef6e27559fe396b356e847c7540c29
 software.amazon.awssdk	voiceid	2.31.33		be8bb2ae3e0e7a834572734a6f9cc75f21417a06
+software.amazon.awssdk	voiceid	2.31.34		878a725a05eca37346faf6cd6ba206ed6b3dc673
+software.amazon.awssdk	voiceid	2.31.35		39f96159fd7d3916dc79032943e2e20209898e06
+software.amazon.awssdk	voiceid	2.31.36		b74e3b9a414efd3eb619edb91d38a6e963a9162f
+software.amazon.awssdk	voiceid	2.31.37		39f09a42e000a95f903aa8618b2dc5a8f2beb40e
+software.amazon.awssdk	voiceid	2.31.38		a95a2380d2162e88546881faf64cb2c7e486f92e
+software.amazon.awssdk	voiceid	2.31.39		400c199b0d3268d0a1febb796742257cba5d8461
 software.amazon.awssdk	voiceid	2.31.4		b92dfc148af307b17d4c77652c0524a5bd6d66eb
+software.amazon.awssdk	voiceid	2.31.40		10e80e6a31f8472719b8647b372896e5365ee326
+software.amazon.awssdk	voiceid	2.31.41		1ce5d790a2ac735e97749063dd7290ce50d4adbc
+software.amazon.awssdk	voiceid	2.31.42		1822a4e9d44fd436e3e1e9dc33606d1fe2138723
+software.amazon.awssdk	voiceid	2.31.43		c86dcc25b06cc4bace4ba003e6ece4b9e146bb86
+software.amazon.awssdk	voiceid	2.31.44		d6389f9c77a17ee87ebb01af69eb65e2a84eb7ad
 software.amazon.awssdk	voiceid	2.31.5		0dccf4d7647deaa7450331836a0c46968785c8c0
 software.amazon.awssdk	voiceid	2.31.6		cd54e456e57ff7ccfbefa4af919df952f00855e9
 software.amazon.awssdk	voiceid	2.31.7		a3759d1967ef7977bcdc50d579bb748b32caf919
 software.amazon.awssdk	voiceid	2.31.8		c6967100bf4a53694c7da8d419d531905eeb528d
 software.amazon.awssdk	voiceid	2.31.9		1839d090127abee874806bbb801cabf57d73b95b
 software.visionary.measurement	mutable	2025.03.28		N/A
+software.visionary.measurement	mutable	2025.03.28	software.visionary.measurement	8f8786e7374ed4ca1d74abc0b0a28e9282217a46
 top.zenyoung	file-aliyun	3.0.0		8174d500079617f415ecbb6c35cfbdf07b592a80
 top.zenyoung	file-aliyun	3.0.1		871565628783e66ec2c05a6a3ab8eff2760a0429

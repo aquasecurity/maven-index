@@ -342,6 +342,7 @@ com.buschmais.jqassistant.plugin	xml	2.6.0-M1		411db1552137dd4b05ba6a67502992e24
 com.buschmais.jqassistant.plugin	xml	2.6.0-M2		e755c7c1ae8bf768f0ce9f104457cf0a1b3b86b5
 com.buschmais.jqassistant.plugin	xml	2.6.0-M3		74f884a138dc50d46d95b461c39d2872eac04700
 com.buschmais.jqassistant.plugin	xml	2.6.0-RC1		48ca2f710116ef7d5133d9ab8ede83bd2f2158d9
+com.buschmais.jqassistant.plugin	xml	2.7.0		ec7fa286f025bbc1d92b60cbb85bb4bcf292a629
 com.buschmais.jqassistant.plugin	xml	2.7.0-M1		8b9afa60d2671e470c40072b2c918bdf39c219b9
 com.buschmais.jqassistant.plugin	xml	2.7.0-RC1		bb959f77d64e79d05c6b325347f079954efa2d2a
 com.davegurnell	smartypants_2.11	0.1.0		726abe53a0c1ad0b4091ffe709aba881f29d2c87
@@ -435,6 +436,7 @@ com.outr	spice-client-okhttp_2.13	0.1.6		6b646cb8a447bf3525921addd5e0f42b66b5de2
 com.outr	spice-client-okhttp_2.13	0.1.7		2d4cadc8f7555ee54983a70e4f34c2fa133772c1
 com.outr	spice-client-okhttp_2.13	0.1.8		3e84fd47abb03cc9d570af2f5be69cb801c68e00
 com.outr	spice-client-okhttp_2.13	0.1.9		0ed17172f1029be5f88fcbb408788f8c942d5167
+com.outr	spice-client-okhttp_2.13	0.10.0		26c85cf97c3f2d509b9c29edffa6050226ee8a79
 com.outr	spice-client-okhttp_2.13	0.2.0		26497768152896feadda2291d3e932d41c265cbf
 com.outr	spice-client-okhttp_2.13	0.3.0		f0df47621940fe0b2b467029cd2efdafac49b800
 com.outr	spice-client-okhttp_2.13	0.4.0		eae0f888b1644adb7f2a1ef5acfeb67ad3600c94
@@ -1099,6 +1101,7 @@ net.databinder.dispatch	dispatch-tagsoup_2.9.0-1	0.9.5		731d7db7b18b0fd90e1a368b
 net.exoego	aws-sdk-scalajs-facade-sesv2_sjs0.6_2.13	0.28.0-v2.596.0		9b9bbb84edd2c7c5bbbf257b9fa0cc5367b59798
 net.exoego	aws-sdk-scalajs-facade-sesv2_sjs0.6_2.13	0.29.0-v2.624.0		37aa18c3dc0b59ba4e8fb148a59fa7539e314885
 net.exoego	aws-sdk-scalajs-facade-sesv2_sjs0.6_2.13	0.30.0-v2.715.0		70dd547a246d9aba64b6b85619b3305c943d1b28
+org.apache.amoro	amoro-format-mixed-flink-runtime-1.16	0.8.0-incubating		87dd40211c59edffe2ddc34a321e87dc575e08fc
 org.apache.geronimo.modules	geronimo-corba-builder	2.0.1		6ef82c9f7c838950c9982e2aaa5d1788dc2897c7
 org.apache.geronimo.modules	geronimo-corba-builder	2.0.2		03fecb1a8d8490cfe07f4b1d209652b99d78d756
 org.apache.geronimo.modules	geronimo-corba-builder	2.1		fcd5a3c28c7524339a72c0193ed4eb65d4ce485e
@@ -1303,10 +1306,12 @@ org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.1.20-Beta2		17a965bfab6cb1
 org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.1.20-RC		85e9c208c53914452768214aeba6a891da18db5f
 org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.1.20-RC2		8695a581748c4b06b7b11409c45c29fd9d4d3401
 org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.1.20-RC3		f432a1cace77e929612b84b9c5692f26b2df7639
+org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.1.21		5f6c7c933f44c2de620966b22e122fd83a065c04
 org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.1.21-RC		251d6cbfde291347b1a40c39188f4c1c18e81ca0
 org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.1.21-RC2		385081caa6d89bdfb6599e3ab70da6ef97e26893
 org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.2.0-Beta1		ba12accc438c013c10175629cfeeda188ec4513f
 org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.2.0-Beta2		089de703596d3c9070b45317069ae92b25a0b09f
+org.jetbrains.kotlin	kotlin-maven-sam-with-receiver	2.2.0-RC		fbdddcd88ca2a03f78ad1d96521847b2e4e18a15
 org.mvnpm	memory-fs	0.4.0		983b0cdc25f2ce40596eef5d467054f1955b324f
 org.mvnpm	memory-fs	0.4.1		2b8efcfde645a35cc5c52c2284288183571a1a23
 org.mvnpm	memory-fs	0.5.0		521040f3a46be168a38b55d522364ec762f54d13
@@ -2473,4 +2478,8 @@ tz.co.asoft	raven-email-agent-config-watchosx64	3.0.14		N/A
 tz.co.asoft	raven-email-agent-config-watchosx64	3.0.14	metadata	099350a5c99d04eff784824247d99deefff99dc5
 tz.co.asoft	raven-email-agent-config-watchosx64	3.0.15		N/A
 tz.co.asoft	raven-email-agent-config-watchosx64	3.0.15	metadata	c6d46a6db20bc3040ebf027229978c13e14e6251
+tz.co.asoft	raven-email-agent-config-watchosx64	3.1.0	metadata	4c39951699ca3953e85e4b90d264a7600aab4e3e
+tz.co.asoft	raven-email-agent-config-watchosx64	3.1.1	metadata	87983e981205eb69845c2bf5ac2940124e1e1fbe
+tz.co.asoft	raven-email-agent-config-watchosx64	3.1.11	metadata	91737555d1adf3e6375b6deecc88d61e058978e3
+tz.co.asoft	raven-email-agent-config-watchosx64	3.1.12	metadata	0c63fe10d94af42122d7e6475df01eeff9d74ac5
 uk.org.retep.xmpp.server	iq-version	10.6		3b611592dc0e53f7431ab99b7f2b74c43abffde6

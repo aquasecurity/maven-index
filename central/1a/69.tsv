@@ -131,6 +131,9 @@ com.github.ifrugal	simple-jdbc-persistence	1.0.20		dce4ed9b6492f31129159e6545b7d
 com.github.ifrugal	simple-jdbc-persistence	1.0.21		258a16101e05baf6af8ecd1d1a4fba27a452f1c1
 com.github.ifrugal	simple-jdbc-persistence	1.0.22		f97910afcaa6eb3c46a6d6edaf947521a275edc3
 com.github.ifrugal	simple-jdbc-persistence	1.0.23		86d37d3059fea54b8d7565ca0a57ea89f1191ac1
+com.github.ifrugal	simple-jdbc-persistence	1.0.24		0f8a88b9ed08cf025e7f1f08a413ed4e6fe18194
+com.github.ifrugal	simple-jdbc-persistence	1.0.25		c00aeebb02d87c99a5dda43d22b3932921969fac
+com.github.ifrugal	simple-jdbc-persistence	1.0.26		51562e96044f62df901bb650e0e594d15f124039
 com.github.ifrugal	simple-jdbc-persistence	1.0.5		b47d8290259f84b244af12cb2448f2032e43b1c3
 com.github.ifrugal	simple-jdbc-persistence	1.0.7		78e152b0478979a2268759931a70797839781e27
 com.github.ifrugal	simple-jdbc-persistence	1.0.8		6d64fc8df6e8b83963fc3338299f625e800003d6
@@ -907,6 +910,8 @@ io.ktor	ktor-client-cio-iosx64	3.1.1		b2a36a9e0843638b76c9276925eb5d157a3a9495
 io.ktor	ktor-client-cio-iosx64	3.1.1	metadata	14a2d57bfe4e34224cc2efc8a36d14bae51e9207
 io.ktor	ktor-client-cio-iosx64	3.1.2		0f8534b8b8869e2a882ab30f1235c9fc9ae9ae91
 io.ktor	ktor-client-cio-iosx64	3.1.2	metadata	2b8a2b4f664d196f5430db1b418a2f11fd815ba9
+io.ktor	ktor-client-cio-iosx64	3.1.3		c736c7ba82449a8b63a022484d8d29941477f5cc
+io.ktor	ktor-client-cio-iosx64	3.1.3	metadata	1f9eb0011a323ca90a67e9e528e2f3d45fd9f549
 io.qtjambi	qtjambi-scxml-jre8	5.15		1e35ed77b07f8b267492b32fb897db26a842e65f
 io.qtjambi	qtjambi-scxml-jre8	5.15.3		e912d5299a62875318c77aeb52bcbbcc80693c3e
 io.qtjambi	qtjambi-scxml-jre8	5.15.4		b6716e4afe691e1feb24368af68d978e9fcb0a52
@@ -1010,6 +1015,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.
 org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.2.2		d952c5216dd6cb593a7b4cd25ec03f11ecbaddd0
 org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.2.3		d4dbb3c537066dd08bce96aa2772559d6bac2ea6
 org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.20.0		2d13c34bd693b1533a5728866374d8a119582558
+org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.20.1		e84646637c368868110065e729786d0cb365d098
 org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.22.0		5cf4c8a5655eb1a7bf76a405b4b82abb06b9c2d9
 org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.4.0		f42f1325be5c61c37548871c9477e5bf18b4af6a
 org.apache.camel.quarkus	camel-quarkus-integration-test-sjms-qpid-amqp-client	3.5.0		3a8ea05c729b7f02c0cdcba99cfacaf2b5fc494a
@@ -1056,6 +1062,7 @@ org.apache.pekko	pekko-http-caching_2.13	1.0.0		dc2d84b2e22de397558037e3909638f6
 org.apache.pekko	pekko-http-caching_2.13	1.0.1		f040f73024179d0eddd48677cce98137e59debae
 org.apache.pekko	pekko-http-caching_2.13	1.1.0		3f30197c234a42861fefa2eda908a9d57796ae48
 org.apache.pekko	pekko-http-caching_2.13	1.1.0-M1		460d9e780736e3063732804d4973225a2961a488
+org.apache.pekko	pekko-http-caching_2.13	1.2.0		0e8493d9a94350ed3ab1d9f34043e78ee6c119d7
 org.basepom.m2e	org.basepom.m2e.property-helper	1.0.3		5cac4c3b92b0a4aea48bd84f37e29783f49afe1b
 org.basepom.m2e	org.basepom.m2e.property-helper	1.0.4		1691af1d01136fe08675b901c1deff86c65d9303
 org.basepom.m2e	org.basepom.m2e.property-helper	1.0.5		8692388f2e45234f4baa79a967de2e54436192ad
@@ -1531,6 +1538,9 @@ org.http4k	http4k-connect-amazon-ses-fake	6.6.0.0		5f8d49210ed979865d046bae83c4c
 org.http4k	http4k-connect-amazon-ses-fake	6.6.0.1		0c4a589661ae364839476fed8f7f0b6affc9eb5e
 org.http4k	http4k-connect-amazon-ses-fake	6.6.1.0		6533bcf4ff5b0041c451a353befae75c0637e350
 org.http4k	http4k-connect-amazon-ses-fake	6.7.0.0		8b7425d7c7af9cbea3268e2f022529384e16fa2f
+org.http4k	http4k-connect-amazon-ses-fake	6.8.0.0		8f017f46196b6548d268af6ab649a57d88ccb56f
+org.http4k	http4k-connect-amazon-ses-fake	6.8.1.0		df9d255ba534bd475356d8b11a5b87ba567d812f
+org.http4k	http4k-connect-amazon-ses-fake	6.9.0.0		ff7346204a4ebac2a64cc4a65f48a3a4dfc20fcb
 org.http4k	http4k-connect-amazon-ses-fake	v6.3.0.0		a2cd2f6cdeb487543baf170d5e687e3963ee20b7
 org.http4k	http4k-connect-amazon-ses-fake	v6.4.1.0		77f293f9176c96ca86f4623cac75e237bf6dc87b
 org.incode.module.minio	incode-module-minio-docserver	1.17.0		4dbd6fd86c59bfe4833fe520758485bf73594df9

@@ -953,6 +953,7 @@ dev.zio	zio-aws-snowdevicemanagement_3	7.31.27.1		993c4fbc7fbd0d68cf51f362211b57
 dev.zio	zio-aws-snowdevicemanagement_3	7.31.28.1		0ab5cbed94059f543d883403988ff75828747eac
 dev.zio	zio-aws-snowdevicemanagement_3	7.31.3.1		6fcbbe3c70a8dac2515cd9133be34ee5afc4bff8
 dev.zio	zio-aws-snowdevicemanagement_3	7.31.30.1		be11dbcb1c05cb6e6eb43c786f39a5b4f63f36c8
+dev.zio	zio-aws-snowdevicemanagement_3	7.31.30.2		8bbde87abf50a4b989fdfd3cd5ded9cf08da49fb
 dev.zio	zio-aws-snowdevicemanagement_3	7.31.4.1		cf93e2e6781e4273d742d039bc66dcc29a33e59c
 dev.zio	zio-aws-snowdevicemanagement_3	7.31.6.1		a9c5faf81559043cbbcb48bd1b64315a1eece6be
 dev.zio	zio-aws-snowdevicemanagement_3	7.31.6.2		47943fbae1045fe33d164e3f951a65409aa98048
@@ -1011,6 +1012,8 @@ io.camunda	operate-mvc-auth-commons	8.6.12-rc1		09de42a96dcf5c6493a98df005f2dcae
 io.camunda	operate-mvc-auth-commons	8.6.13		6ccd1811c65555fb091cc5b78578561bb09df792
 io.camunda	operate-mvc-auth-commons	8.6.14		225d8c91b66b9f0ae8504e94c98b29d738753e96
 io.camunda	operate-mvc-auth-commons	8.6.14-rc1		246965acf49caf9eaae6303d62ed856326591a27
+io.camunda	operate-mvc-auth-commons	8.6.15		567bcc0a09f5cceef33fb45bf0bb7b67527ebf36
+io.camunda	operate-mvc-auth-commons	8.6.15-rc1		b6afef69147224a071d491ddbc4e3f688a5bdd5c
 io.camunda	operate-mvc-auth-commons	8.6.2		529052a416155bcb2a6fc95b6a874cecd43cdf3f
 io.camunda	operate-mvc-auth-commons	8.6.3		f840171f83266fdaf7c534d9ec0c75d3c3b30dd9
 io.camunda	operate-mvc-auth-commons	8.6.4		1363092c32a56c983f3fa87ddf92751238ec3e35
@@ -1046,12 +1049,15 @@ io.camunda	operate-mvc-auth-commons	8.7.0-alpha5-rc1		9b75c14edcd97398495fa3258e
 io.camunda	operate-mvc-auth-commons	8.7.0-rc3		3bd2453d0d233338b6e36911edf98d2cd54e1cd5
 io.camunda	operate-mvc-auth-commons	8.7.1		30a106d9d3001e5724489b17238a21c8004e7b23
 io.camunda	operate-mvc-auth-commons	8.7.1-rc1		cd8da50cf131ce68a1087eccf55a7f713d2ab159
+io.camunda	operate-mvc-auth-commons	8.7.2		5a988722a25f56b725e60db9e43af8175f127094
+io.camunda	operate-mvc-auth-commons	8.7.2-rc1		19ca27e243e7bb2f4f27f8983658c955fc1d5ec4
 io.camunda	operate-mvc-auth-commons	8.8.0-alpha1		01be070e034f850c24418bbdc5108bbbb8ae77e1
 io.camunda	operate-mvc-auth-commons	8.8.0-alpha1-rc1		4a03043bbea270cea2da925e81e9745f9df5edf2
 io.camunda	operate-mvc-auth-commons	8.8.0-alpha2		fe74b12d0e21a9e4c0c16a680a8b851a21199854
 io.camunda	operate-mvc-auth-commons	8.8.0-alpha2-rc1		f24e297a464ab92b48a3a1f16f30cf10e7252958
 io.camunda	operate-mvc-auth-commons	8.8.0-alpha3		0df5fc875947925085a3c581527488a8373a48c7
 io.camunda	operate-mvc-auth-commons	8.8.0-alpha3-rc3		c8ad252ef8ce0c7cdea825568d50f7da9e9b411e
+io.camunda	operate-mvc-auth-commons	8.8.0-alpha4		47776f81a2ea4fc5e1410ee55207fefdcedf172d
 io.camunda	operate-mvc-auth-commons	8.8.0-alpha4-rc1		0517e1161937e0978d95d5cde42305471b18dbcb
 io.fabric8.apps	quickstarts-rest	2.2.10		N/A
 io.fabric8.apps	quickstarts-rest	2.2.11		N/A
@@ -1318,6 +1324,8 @@ io.stargate.db	persistence-common	2.0.29		7934b66c35d0a442297644c00139e4d2db3ce9
 io.stargate.db	persistence-common	2.0.3		4523507c2a5f7a237a6cb37632e39f0cd1368d9c
 io.stargate.db	persistence-common	2.0.30		f57c4b85c8794f9d56b8d4cf472b3c7fe5db8685
 io.stargate.db	persistence-common	2.0.31		538a4441e4602615535842a00f9d9003cde82669
+io.stargate.db	persistence-common	2.0.32		4ef2315ba0c97242b470454206ace32b3eb479d7
+io.stargate.db	persistence-common	2.0.33		e57d7cf642d7c0cb3b556f4b63c807b24a310630
 io.stargate.db	persistence-common	2.0.4		9751ed203f1834d3ee2f1e86d842fbf046295091
 io.stargate.db	persistence-common	2.0.5		883572042b7324b3c5b9f23de05454592aeac2a4
 io.stargate.db	persistence-common	2.0.6		c5b0012fea296424f9546e2a4f8858c32f5fa383
@@ -1351,6 +1359,7 @@ io.stargate.db	persistence-common	2.1.0-BETA-21		31999912b6789f673ba099617fdf134
 io.stargate.db	persistence-common	2.1.0-BETA-22		beaec8aa48508f08206b78b368679775268dd38b
 io.stargate.db	persistence-common	2.1.0-BETA-23		7c0f144bcc5d5882948e77d0dff04a6a49683a2d
 io.stargate.db	persistence-common	2.1.0-BETA-24		f6fbde1c6885d03cd032c82aca52ceebd3e0001d
+io.stargate.db	persistence-common	2.1.0-BETA-25		2c6cd28c2d428cbff69a6bba771dacb490ae806d
 io.stargate.db	persistence-common	2.1.0-BETA-3		de3e5b945c506ac0981ffba7fd59b7db83cafa4f
 io.stargate.db	persistence-common	2.1.0-BETA-4		0cdd6f8e942d3e037506e86a61753b71d7f273ae
 io.stargate.db	persistence-common	2.1.0-BETA-5		948eab82414283e6af9e418e6324aa2e53e0bfee
@@ -1935,6 +1944,8 @@ org.jboss.ws.cxf	jbossws-cxf-performance-tests	7.1.0.Final		2bab5f5aeb75e396b4b8
 org.jboss.ws.cxf	jbossws-cxf-performance-tests	7.2.0.Final		863323cc01d083790822eab7e9cb7bd6079483be
 org.jboss.ws.cxf	jbossws-cxf-performance-tests	7.3.0.Final		349b1d0fb9acdde94b2f7e8795cfa2a20aa34c03
 org.jboss.ws.cxf	jbossws-cxf-performance-tests	7.3.1.Final		08ca4852a30ee063fd1c43ada06f05179e767392
+org.jboss.ws.cxf	jbossws-cxf-performance-tests	7.3.2.Final		6a6ca801b6eb3538e4218965790ed82885d1c87c
+org.jboss.ws.cxf	jbossws-cxf-performance-tests	7.3.3.Final		cef886d93b7cbe2f73a872b2d3d1db6c5408d9da
 org.latencyutils	LatencyUtils	1.0.1		224298a6d938a02c5e6d0cf405e516bfc46d1b50
 org.latencyutils	LatencyUtils	1.0.2		a58b1e916aecc68dcf7d79343bb89d58ee9102a5
 org.latencyutils	LatencyUtils	1.0.3		f2278595542d5077b0d00aaf43f534573885fd77
@@ -2061,6 +2072,7 @@ org.virtuslab	pulumi-alicloud-kotlin	3.73.0.0		0aad17b889c5dce8ecb9975e41e8025bc
 org.virtuslab	pulumi-alicloud-kotlin	3.74.0.0		bdcb6c1058bf3ca77bb60fe51533a1169fbfd57a
 org.virtuslab	pulumi-alicloud-kotlin	3.75.0.0		ce1ecb42d96bba40eb38f148c9fdd8078fd91cb1
 org.virtuslab	pulumi-alicloud-kotlin	3.76.0.0		8e7c5d1954972689b826c981b5c61da61867b125
+org.virtuslab	pulumi-alicloud-kotlin	3.77.0.0		31ead481d7e48c2ce023c37511c66781a1aea2ef
 org.wartremover	wartremover_2.13.15-M1	3.2.0		dfb45e8b7d236a11c1b7da67d395ab574180b497
 org.wartremover	wartremover_2.13.15-M1	3.2.1		30704ab220e5d4b30eb874af300d357bc3c84b88
 org.webjars.bowergithub.michael-silva	yo-paper-cropper	0.0.7		6c3da8cd625ac8ab4715c10f4e344903b537b869

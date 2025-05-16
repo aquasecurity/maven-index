@@ -163,6 +163,7 @@ com.composum.aem	composum-aem-microsite-core	1.2.4		100a40980ba4fe67a707ccfa0249
 com.composum.aem	composum-aem-microsite-core	1.2.5		de524b4c1c7148ea9db5fa6e13bf79846141cc21
 com.daioware.language	xml	1.0.0-RELEASE		498bf4432a4a81418e9b8113a4c59c23e9dd0968
 com.github.dannywe	csvstreamutils_2.11	1.04		ba8432a69b072dd2619c3624d185324d3584099e
+com.github.geirolz	sbt-service-info_2.12_1.0	0.0.1		e6329b058f4c134c1b6a9a02a2e90ff0b7e4626f
 com.github.geirolz	sbt-service-info_2.12_1.0	0.0.2		e19a6ec6844af10571e5edbb9e93e6318cf25cf5
 com.github.hypfvieh	dbus-java	2.7.1		0258920964e30381a57d8b55d4d9e66fb1d2cbf1
 com.github.hypfvieh	dbus-java	2.7.2		d75844a4b1e70694b8a65d21f313861f75f45a37
@@ -224,6 +225,7 @@ com.powsybl	open-rao-crac-io-json	6.2.1		09013f8bb13d3ada51863e857edc39e5e8b8dc4
 com.powsybl	open-rao-crac-io-json	6.2.2		2cd15b5a5d7ecccb1f4bfb14cc2f27169f64dd59
 com.powsybl	open-rao-crac-io-json	6.3.0		54200012b27685a37460d56e2045191fc2972024
 com.powsybl	open-rao-crac-io-json	6.4.0		39a44751ae6aec765f9cf13ec5e9d3442d03814e
+com.powsybl	open-rao-crac-io-json	6.5.0		e768e53da6e3b494c53934863329130756d1f1ab
 com.sap.cloud.environment.servicebinding	java-sap-spring-properties	0.20.0		0a8298da74a672add1647d114f0f71371d5b9e85
 com.sap.cloud.environment.servicebinding	java-sap-spring-properties	0.21.0		7e5776457c24b0bce3c23a0ef00d80e6f80ba086
 com.spotify	scio-elasticsearch7_2.12	0.10.0		775aa036fac353cc410bae2c4b50e838e37c0d0b
@@ -283,6 +285,7 @@ com.spotify	scio-elasticsearch7_2.12	0.14.13		9bfd21a4fe121e5f2596b65fd9016f098d
 com.spotify	scio-elasticsearch7_2.12	0.14.14		47e5f5722d44b6f61ec0162afd27e57d5791282f
 com.spotify	scio-elasticsearch7_2.12	0.14.15		d8f94d14429e201b82d69eb2b89d76ce4984c587
 com.spotify	scio-elasticsearch7_2.12	0.14.16		d59f02f77d502c8383b50ce0d31f2e6b99da2c56
+com.spotify	scio-elasticsearch7_2.12	0.14.17		5b06e1d86742b0086c16b4a41cde091a7a9e3107
 com.spotify	scio-elasticsearch7_2.12	0.14.2		83ed4257542fbaf31e28ad776a741366963f83a8
 com.spotify	scio-elasticsearch7_2.12	0.14.3		448e75b25678eefdcac181ebbe1a16ce9bfa04cd
 com.spotify	scio-elasticsearch7_2.12	0.14.4		febee481b7ff665bacae9e3631a99680f37e0a0d
@@ -1432,6 +1435,8 @@ org.keycloak	keycloak-rest-admin-ui-ext	26.1.5		065e24315a99b4c7e323e0399d742ab4
 org.keycloak	keycloak-rest-admin-ui-ext	26.2.0		fcf29213487a9179b085d9c7b916f3145323ad86
 org.keycloak	keycloak-rest-admin-ui-ext	26.2.1		8cd8bc68c5a431a885754b7eb30bfec411ef52f1
 org.keycloak	keycloak-rest-admin-ui-ext	26.2.2		c0521aaa6dff040ccb156b92426c76a50e61d4da
+org.keycloak	keycloak-rest-admin-ui-ext	26.2.3		cfd782b8a8b3c2821449a448ac0d43707a8b7cd6
+org.keycloak	keycloak-rest-admin-ui-ext	26.2.4		9cb323a794afd1136fd3f298ff4924501e3d7562
 org.kuali.student.repository	git-importer-foundation-plugin	0.0.2		51d2eb11fb53a357881bda7b9e39a6d624622c11
 org.kuali.student.repository	git-importer-foundation-plugin	0.0.3		2811a8fa60fd02fc60c8842b862d0280fb091139
 org.kuali.student.repository	git-importer-foundation-plugin	0.0.4		6ee871a8cb59cbc25fdda9e13ca71a9a64e59c8d
@@ -1669,6 +1674,7 @@ org.wildfly.security	wildfly-elytron-realm-ldap	2.1.0.Final		0263ba30a56251addfd
 org.wildfly.security	wildfly-elytron-realm-ldap	2.2.0.Final		a0bbde4dc4f770faae6b3fa108db7e9c9d4602ff
 org.wildfly.security	wildfly-elytron-realm-ldap	2.2.1.Final		fb7f67fa745622419111c3642a7a48f4086c8381
 org.wildfly.security	wildfly-elytron-realm-ldap	2.2.10.Final		a2d7e1b00becef746ca21fbe004632bd4a555744
+org.wildfly.security	wildfly-elytron-realm-ldap	2.2.11.Final		19891efc665b4cd729f45bd3d621ee5a5536c35d
 org.wildfly.security	wildfly-elytron-realm-ldap	2.2.2.Final		00d9bafaf7e4417508ae4442f121df7c3d9a1e18
 org.wildfly.security	wildfly-elytron-realm-ldap	2.2.3.Final		8150fe9df231ccb64750b3f52317bcac0bf1d2be
 org.wildfly.security	wildfly-elytron-realm-ldap	2.2.4.Final		da2c1da5b7eff38a8ed9d7559333cb51b0b6b167
@@ -1691,6 +1697,7 @@ org.wildfly.security	wildfly-elytron-realm-ldap	2.6.0.Final		3f9deeb7f158bc615b9
 org.wildfly.security	wildfly-elytron-realm-ldap	2.6.1.Final		11ea79aac902e9808225138e9963b8b9abce25ba
 org.wildfly.security	wildfly-elytron-realm-ldap	2.6.2.Final		513f66387dcdb602eda05a6b11121bb694f79c99
 org.wildfly.security	wildfly-elytron-realm-ldap	2.6.3.Final		c5eba8efdb6dfcc221e23780a2ad89a8fc23919a
+org.wildfly.security	wildfly-elytron-realm-ldap	2.6.4.Final		e63dcbd518fae4bad0adff2d08ca8adbc6c3a025
 org.wildfly.swarm	wildfly-swarm-ejb-remote	1.0.0.Alpha5		dd397698f74a4e53800056022d636d88a7dbd137
 org.wvlet.airframe	airframe-http-netty_3	2025.1.0		e18e1714b9731f19fa029f5346e46a90ae36fab5
 org.wvlet.airframe	airframe-http-netty_3	2025.1.1		8678a650a949b5a145d3f274f4ad14e0099c3515
@@ -2638,7 +2645,18 @@ software.amazon.awssdk	rum	2.31.30		00685d128fef5925df440e90db8546adc6016491
 software.amazon.awssdk	rum	2.31.31		78183683a79fc6ae6e4221909b324856d85c6813
 software.amazon.awssdk	rum	2.31.32		76bbbaa5cb074edc9eb06be192d1b1dec90314d5
 software.amazon.awssdk	rum	2.31.33		90b5abd5d914d52bd57908d2e04483e2d1477f3a
+software.amazon.awssdk	rum	2.31.34		8160e48bcaf4c4ce8c636561b2efd177acf55af5
+software.amazon.awssdk	rum	2.31.35		386f4ca02c4d107f861af1e85be8250442266f39
+software.amazon.awssdk	rum	2.31.36		4335cb856a69f75f07837d707e44a2cff27b2bed
+software.amazon.awssdk	rum	2.31.37		d5cef1a84ddb4fcb51f476a61039cdf7a58142cd
+software.amazon.awssdk	rum	2.31.38		ec8b807d120172672ebd8c40870d42a3b6f02c6a
+software.amazon.awssdk	rum	2.31.39		8f659bde13ac6643c194a09901ab166d24891c99
 software.amazon.awssdk	rum	2.31.4		0eb95f26dce38fd41aa4c5e52ec6fa92d2cab8e6
+software.amazon.awssdk	rum	2.31.40		266d6b651b43a906a27ed4a81971988fd98f7f9a
+software.amazon.awssdk	rum	2.31.41		2828a7d8f181d9f5650e19e2416f64ad95dd917f
+software.amazon.awssdk	rum	2.31.42		8d5b9eba9bde65f4f50f8a4ba11bf7595e763145
+software.amazon.awssdk	rum	2.31.43		b90084b2363c2050d3ac5b09e9fe4a51c0d0f31a
+software.amazon.awssdk	rum	2.31.44		1947a84f77b8befba7ad7d335ebbae9c59c9faf0
 software.amazon.awssdk	rum	2.31.5		24fd33402c78d3f075472e6b0d57735fb71afd4e
 software.amazon.awssdk	rum	2.31.6		7a322f3125023270ec648a9a6b052a3617daa075
 software.amazon.awssdk	rum	2.31.7		f8546b29ae32dd8b9752ec7d9c541ab495687653

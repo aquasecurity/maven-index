@@ -12,6 +12,7 @@ ch.exense.step	step-functions-plugins-defs-all-os	3.26.5-customized-j		79548ee87
 ch.exense.step	step-functions-plugins-defs-all-os	3.27.0		bf4f2f76c809fdc263dde656e8e6e095f47fd4d8
 ch.exense.step	step-functions-plugins-defs-all-os	3.27.1		9f62361d5eaabc23ac5078333bdf4d1d968058c9
 ch.exense.step	step-functions-plugins-defs-all-os	3.27.2		b2b4bfd681660d2461031aa8a9e435d3d5b33bd9
+ch.exense.step	step-functions-plugins-defs-all-os	3.27.3		207487bec117211b801870b5a2172eef3cbe41f8
 cloud.agileframework	agile-data-common	2.1.0.M10		b61d0ebce97078f5139ede869fbc5f362f76a920
 cloud.agileframework	agile-data-common	2.1.0.M15		78dc62014f6a9f542c23086bcc0fb1fd4124d0c7
 cloud.agileframework	agile-data-common	2.1.0.M16		58a17b613c4e9181bfa4fd2985a54f256c0d476f
@@ -210,6 +211,7 @@ com.google.appengine	libxmlvalidator_test	2.0.32		73808ed9fca3aba553c3600c49e661
 com.google.appengine	libxmlvalidator_test	2.0.33		f91545dded312a40b943f7eba3c19f83a53f0eba
 com.google.appengine	libxmlvalidator_test	2.0.34		bd092d3c43256a09edbf9da5b329b99250e2cd98
 com.google.appengine	libxmlvalidator_test	2.0.35		3492849bde4b35d77391d0a29441c0c4d7d3a7d6
+com.google.appengine	libxmlvalidator_test	2.0.36		5a7553ad70318edf3a34b6772115d1bc3aaca2da
 com.google.appengine	libxmlvalidator_test	2.0.7		1a545018fcd8640638e7d9dc55c21645cd82fd04
 com.google.appengine	libxmlvalidator_test	2.0.8		5f4f37b749dd3b65db2e685f38c8480851cc433a
 com.gruelbox	xchange-bitcointoyou	4.3.16.1		45b24ed0f889885512511da1b94e5c7a29b6e6ca
@@ -798,6 +800,8 @@ com.liferay.portal	release.dxp.api	2024.q4.7		bed913e10b0a7a9bc48b76877cd32dbea5
 com.liferay.portal	release.dxp.api	2025.q1.0		7d0b0df7e5b86f5bf3a685d5e2c332fa80330ed7
 com.liferay.portal	release.dxp.api	2025.q1.1		8affc096d1406565c4f3de573a964501cb842665
 com.liferay.portal	release.dxp.api	2025.q1.10		1918e22d8a411b369931da4e3be8a5ea75500a24
+com.liferay.portal	release.dxp.api	2025.q1.11		53a76a89c1eb2ce189170fa41f061ac960d7efc2
+com.liferay.portal	release.dxp.api	2025.q1.12		64b6218d33b3de66b82b7e8add10e0ff9b1a1789
 com.liferay.portal	release.dxp.api	2025.q1.2		eec35d6a16917c193f0b65ecbb4aaa757b026c51
 com.liferay.portal	release.dxp.api	2025.q1.3		f5d0c2b6b7a5c4a36431e1210277921e0fad4cfa
 com.liferay.portal	release.dxp.api	2025.q1.4		0fbd263af1ab72a75235fabf178c8cee26920b81
@@ -1571,6 +1575,29 @@ com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.02.170248-78d08e3		5
 com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.02.190554-0cef185		52d32565c573be4d638c6b930284dfa3a3395b5d
 com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.02.220048-fae57e8		52d32565c573be4d638c6b930284dfa3a3395b5d
 com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.02.222809-f712db2		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.05.145425-c327194		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.05.153412-60aa451		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.05.192009-3b29aa5		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.06.132950-738ccb1		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.06.160528-ae61202		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.06.174739-4bf5568		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.07.021127-b2a4d11		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.07.150211-129b52d		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.07.163015-36c5fd5		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.07.175734-9a2b69c		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.07.212523-266231f		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.08.192753-98ced47		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.08.201840-de6826b		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.09.100938-c05fed2		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.09.142831-306a2e9		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.09.191522-295ad47		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.09.220158-c596073		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.11.033149-486251d		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.12.134151-fe3b2a9		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.14.004032-102a042		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.14.171253-56b3b95		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.14.204930-c18856f		52d32565c573be4d638c6b930284dfa3a3395b5d
+com.squareup.misk	misk-rate-limiting-bucket4j-mysql	2025.05.14.225818-a959497		52d32565c573be4d638c6b930284dfa3a3395b5d
 com.tacitknowledge.maven.plugins	maven-plugin-support	1.0.1		a8957287123ea66fa7d720a0b6bb0b355d22976f
 com.theodo	spring-access-inspector	1.0.3		ca902d908b97715421ba698460991ff7a1b74410
 com.theodo	spring-access-inspector	1.1.0		f4df8399da5a491e793934c8e23ae8ba57accfea
@@ -1955,6 +1982,8 @@ io.ktor	ktor-client-resources-macosarm64	3.1.1		046e1b9dd6e13ef4003fb9c00a2530f1
 io.ktor	ktor-client-resources-macosarm64	3.1.1	metadata	d59a4364a7f5f3b323bb6b228bd94c0a1707da95
 io.ktor	ktor-client-resources-macosarm64	3.1.2		5903921754b4af9a0c0052dc7c7a1bc1c9520eb1
 io.ktor	ktor-client-resources-macosarm64	3.1.2	metadata	a3f9a4f63d592a79d977aebd166d887a71d66100
+io.ktor	ktor-client-resources-macosarm64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-client-resources-macosarm64	3.1.3	metadata	5de331115a5b96b3dfe43c4278354698af894b73
 io.qtjambi	qtjambi-multimedia-native-linux-x64	5.15		89622887891d704d7333d3247d48ef2c40b27470
 io.qtjambi	qtjambi-multimedia-native-linux-x64	5.15.10		1128e035e48209df61743c2bda8f36e4c27dc103
 io.qtjambi	qtjambi-multimedia-native-linux-x64	5.15.11		9ed9c0da2aefaec5b53a81b608b5efd391f92f4f
@@ -2208,6 +2237,10 @@ org.icij.datashare	datashare-tasks	16.1.3		1bfc1c7f034f2bfe01fbdbe548d54640a1b33
 org.icij.datashare	datashare-tasks	16.1.3	jar-with-dependencies	c55148bce7ca7872a01fc014e02ab8f66180e73a
 org.icij.datashare	datashare-tasks	16.1.4		1325b50fb7604cb17036f75df9790501998d24c7
 org.icij.datashare	datashare-tasks	16.1.4	jar-with-dependencies	b5b66824cf1231458a575d519791f1ec7117dcb9
+org.icij.datashare	datashare-tasks	17.0.1		413d34b18c72a81231005c83bc5932db4701ff7d
+org.icij.datashare	datashare-tasks	17.0.1	jar-with-dependencies	af50325441448efe8158a4097aa33b6a34e75625
+org.icij.datashare	datashare-tasks	18.0.0		9c5faf835adbbe5189daecb73d2aeb7eddd6bf45
+org.icij.datashare	datashare-tasks	18.0.0	jar-with-dependencies	7f0967330953cc91bdf2652792f22a5118fe2eea
 org.jacorb	jacorb-idl-compiler	2.2.3		4671724082f2b9ea204a0e78ba96ebeacf4045e9
 org.jacorb	jacorb-idl-compiler	2.3.1		a1682a9297a034ed7642daf5a4cd55ff9f3b32a6
 org.jacorb	jacorb-idl-compiler	3.1		924d86f131ac7900adbf6f4fa63261287aa9f51a
@@ -2440,7 +2473,18 @@ software.amazon.awssdk	emf-metric-logging-publisher	2.31.30		f39b8f30949e45546a6
 software.amazon.awssdk	emf-metric-logging-publisher	2.31.31		76befcd85ce762e5c783c2efd24a20259f630a0f
 software.amazon.awssdk	emf-metric-logging-publisher	2.31.32		4d2ff90eb5261678eb0e36b089a5a14587207018
 software.amazon.awssdk	emf-metric-logging-publisher	2.31.33		f02a4e804be8309fe7e84d93f67d8a984aa7f6dc
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.34		54e919a2151544466e1cc5f3afebd3a168f58935
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.35		459fba71be248df797c4999f5d96c4fcbd4cb7c6
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.36		45d831443d295e35f8e9e09cee3beda0005fb25e
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.37		164804c09fb988bd8dff8f86d1e23f8492ffe244
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.38		d9ea6df045bfc5cd4de3a3784192a126ca8fb0d2
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.39		81af0be024e0f8c7793d28513b967aa856d80e31
 software.amazon.awssdk	emf-metric-logging-publisher	2.31.4		66b1ea1c2d7a592fd77fc2ce9d67578800f5fea2
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.40		31f35c5c5f14691660dd1b2320e1404fa5b17d76
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.41		7e84129c218f15ac0f8e7e3489e784b598129209
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.42		fa593ff5c154df8bc68a954fc8c975148d4d434d
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.43		eaa010f51a028299f6daad775b673a2a0f71a082
+software.amazon.awssdk	emf-metric-logging-publisher	2.31.44		826b9b477595195031f7c59c1a4740459024949d
 software.amazon.awssdk	emf-metric-logging-publisher	2.31.5		d3db42c70ed52101311e151e587d1cb4bcac3411
 software.amazon.awssdk	emf-metric-logging-publisher	2.31.6		a3f0bd4f1bac5c9cd41924ca9286a33ea3e3d33d
 software.amazon.awssdk	emf-metric-logging-publisher	2.31.7		2ce8b17c99bb7eaadfba6116692a9e7efbb90e7c
@@ -3776,7 +3820,18 @@ software.amazon.awssdk	marketplacemetering	2.31.30		fab2cff323ada17ac4c403e79104
 software.amazon.awssdk	marketplacemetering	2.31.31		49c23c6bda9c183d52137faf482bc7f845b91419
 software.amazon.awssdk	marketplacemetering	2.31.32		a7e34a91638df406c882171b0b7e6104607b4a9b
 software.amazon.awssdk	marketplacemetering	2.31.33		467045ff2b212982ed787c20bc2a9196a6425efa
+software.amazon.awssdk	marketplacemetering	2.31.34		9baa7cbef0154e16f6929b2cdfca1298cddc25ce
+software.amazon.awssdk	marketplacemetering	2.31.35		7a6794277c6fdfac5a6fc2ff4c25f9d78f533418
+software.amazon.awssdk	marketplacemetering	2.31.36		b1d4ee7e7bafc8f7179b8dc5b06bc5b9e20021c1
+software.amazon.awssdk	marketplacemetering	2.31.37		44aa0b74ee0bb213edf5a88f7baa2d829be5e053
+software.amazon.awssdk	marketplacemetering	2.31.38		e8b1ff5612cf3595f794eb4f9d36f4cac156ea08
+software.amazon.awssdk	marketplacemetering	2.31.39		d3e2d0781292d97abb734f6363e1a0d7afb8007b
 software.amazon.awssdk	marketplacemetering	2.31.4		61745d184ef24a150c95dd191c87700ce6ecae16
+software.amazon.awssdk	marketplacemetering	2.31.40		fdc63837cb2890460adde3c4caac14bdaa01e0ba
+software.amazon.awssdk	marketplacemetering	2.31.41		60da63d486519ec796198dd6d0a2a47a36dab11f
+software.amazon.awssdk	marketplacemetering	2.31.42		0f0b95a5c1f6323eddfd99f180819df212a2e1aa
+software.amazon.awssdk	marketplacemetering	2.31.43		c52bac0b36fe2e8f0ed07e9024419e1ba41d881b
+software.amazon.awssdk	marketplacemetering	2.31.44		a1a9b476aa63c1280c257f5ec1cb4daf69978e26
 software.amazon.awssdk	marketplacemetering	2.31.5		ef5305261cbe747256e44b9bd1de1c465d3b11b6
 software.amazon.awssdk	marketplacemetering	2.31.6		acdec7a3d927be50d2355dbf1b6ff341058e2524
 software.amazon.awssdk	marketplacemetering	2.31.7		625a762f34be2ebffd9c3cd66f0f0d00c51ed53a

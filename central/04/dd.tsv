@@ -658,6 +658,8 @@ com.google.cloud	google-cloud-bigquerystorage	3.11.3		669159ca7fbf2887e5eb43ce12
 com.google.cloud	google-cloud-bigquerystorage	3.11.4		2ec879c139e01e9e89c1b67eac10672995681abf
 com.google.cloud	google-cloud-bigquerystorage	3.12.0		2f20a8586897939053ee8d93a231b5823a0361c3
 com.google.cloud	google-cloud-bigquerystorage	3.13.0		f1deaf4ce9abcf8f2f5294dfa4ab2383653ab109
+com.google.cloud	google-cloud-bigquerystorage	3.13.1		c12c8a9658227c7c8a3f53a2cf1cf277f8137b9d
+com.google.cloud	google-cloud-bigquerystorage	3.14.0		64c5dfc261f7b51f1f4d14bbee5b1e2b98e03fcf
 com.google.cloud	google-cloud-bigquerystorage	3.2.0		f7f2b6024ae2f7a5e651500aa400164959ed4c90
 com.google.cloud	google-cloud-bigquerystorage	3.3.0		cccad77b4d9b14756957342d684fc5d63ab0babb
 com.google.cloud	google-cloud-bigquerystorage	3.3.1		34f454f06abfd63cc3f46cf0420d58419339ed14
@@ -817,6 +819,7 @@ io.ktor	ktor-server-http-redirect-androidnativearm32	3.0.3		236087ee15f55d590c39
 io.ktor	ktor-server-http-redirect-androidnativearm32	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-server-http-redirect-androidnativearm32	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-server-http-redirect-androidnativearm32	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-server-http-redirect-androidnativearm32	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.provenance.hdwallet	hdwallet-bip32	0.1.10		3f41ccec53828c3ae67de18fe0ee213a30e08b3f
 io.provenance.hdwallet	hdwallet-bip32	0.1.11		49d45c0cec34faf6c68227fe4ab81cbdb9b24560
 io.provenance.hdwallet	hdwallet-bip32	0.1.12		25d0a6d94e84aedf4f5b77f231f9f01542c101b3
@@ -854,7 +857,11 @@ io.quarkiverse.reactivemessaging.http	quarkus-reactive-messaging-http-parent	2.5
 io.quarkiverse.reactivemessaging.http	quarkus-reactive-messaging-http-parent	2.5.0-lts		N/A
 io.spinnaker.orca	orca-integrations-gremlin	2025.0-0		542054d4bb9ed7ab2c588aa746bfbc2276f993dd
 io.spinnaker.orca	orca-integrations-gremlin	2025.0-1		32ff4843cf6814c110892a0a10f1ec79cd1a1f74
+io.spinnaker.orca	orca-integrations-gremlin	2025.0-2		ef41a298065320ce6ef64b69c1d655dd05474a40
+io.spinnaker.orca	orca-integrations-gremlin	2025.0-3		a42b9dab875de307b06beb376faa0a5021e780d5
+io.spinnaker.orca	orca-integrations-gremlin	2025.0-4		1a6811399903a9ac060a7beb74bbb2106a13eaaf
 io.spinnaker.orca	orca-integrations-gremlin	2025.0.0		0b87ea5d4855a7d687edbe5404ff94e4eb7ddde2
+io.spinnaker.orca	orca-integrations-gremlin	2025.0.1		a9bffe0dcacfef5cecf14dafa3618e6363549e0f
 io.spinnaker.orca	orca-integrations-gremlin	8.15.0		7feadd0c17e9736287305da04b87b86e628009ec
 io.spinnaker.orca	orca-integrations-gremlin	8.16.0		c64d6d7ad86181e6ddcac13094f1c71e7d7ec254
 io.spinnaker.orca	orca-integrations-gremlin	8.17.1		74bb8f9f32ac581c7065330ac9adfdbcb8d53384
@@ -946,10 +953,14 @@ io.spinnaker.orca	orca-integrations-gremlin	8.61.2		3cedc7a3ff0b0e2e1027ae10eded
 io.spinnaker.orca	orca-integrations-gremlin	8.62.0		9b1b9251025fc876c28f3fa01d8282d9ac04833b
 io.spinnaker.orca	orca-integrations-gremlin	8.63.0		dab2c94e1ab81310697f7b9770029f5938f15ffe
 io.spinnaker.orca	orca-integrations-gremlin	8.64.0		2fbc86d293e4ee70736e8b76458ac1d869e72dc7
+io.spinnaker.orca	orca-integrations-gremlin	main-10		07db1bde451aab0076e68ee95e0c4227e64cdeaf
+io.spinnaker.orca	orca-integrations-gremlin	main-11		ebd266010de53588ecab65f71c442781875a3d6f
+io.spinnaker.orca	orca-integrations-gremlin	main-12		3b8328c65404f935ff177e645318225edc292390
 io.spinnaker.orca	orca-integrations-gremlin	main-5		862b0848b20e59cb418b2b9a45076df9db8c4cd7
 io.spinnaker.orca	orca-integrations-gremlin	main-6		790df0e37c1c4280a78cc6cbdcad04f0380589e5
 io.spinnaker.orca	orca-integrations-gremlin	main-7		cf2bab9e78cb6fe0d9711a5fa6ba7c4f0f02b8ab
 io.spinnaker.orca	orca-integrations-gremlin	main-8		b1005a77361ae27dda8a05ec8bfa90807fa3ca1e
+io.spinnaker.orca	orca-integrations-gremlin	main-9		8f774dd5090217ee9da889b4d407943c19fcddbf
 io.springlets	springlets-boot-starter-jms	1.0.0.RELEASE		33d16b0297d3a23e886e1a2b9cc58b85c7fc6973
 io.springlets	springlets-boot-starter-jms	1.1.0.RELEASE		f33d3f9024610695944d3304a17500c627d1f08c
 io.springlets	springlets-boot-starter-jms	1.2.0.RC1		770357b5aa1135ee014f5ba26893435778671e04
@@ -1163,10 +1174,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functio
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.80.0		989899d925ebeea6cef8c7b7faa8bd0bffd9fd2e
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.81.0		4ae3e95ca806341107b7cf358107e23ecd1a4ee6
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.82.0		6e4881ac235f664d10f5cc1cd3bf341febadf8bb
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.82.1		a942de96e045566bcd432eaf5fef1eb83912ca2a
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.83.0		916fff6090197b60d47c1e90ea3bd1cccbd464d2
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.83.1		908b58fbc3efdea721b6819f44b0f8885a75b9c0
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.83.2		e36f60b4afecd07b5f5f106c063b41a1b0596e91
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.83.3		63ce3910a7a85a6270403da503325dcaf97155c3
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.84.0		7bf6b5fdd38fcc7e710e004ef3d8434749f398c3
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.84.1		f9116d4d13cff384d19f1123cec4b4092a1080cb
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.85.0		0aea03c5a89a3e83bfea4b3fb9a5e0c9e4cb82b3
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.85.1		30901034f0c611c63bd7c65b4f2961d9b45db778
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.85.2		2c2cda99688ab2fa73fcfe8064cde882a2026563
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-conversion	4.85.3		68635c0820a2d05832b18351542b234be384e430
 org.glassfish.extras	appserv-rt-frag	3.0		N/A
 org.glassfish.extras	appserv-rt-frag	3.0-b65		N/A
 org.glassfish.extras	appserv-rt-frag	3.0-b66		N/A
@@ -1647,6 +1665,9 @@ top.zopx	sms-boot-starter	1.1.3		df3331e0e3b47d724691326606bb5a54965628a5
 top.zopx	sms-boot-starter	1.1.4		1ba052635af233a900639276efcd6517b67f94ff
 tz.co.asoft	cinematic-live-kollections-tvosx64	3.0.15		N/A
 tz.co.asoft	cinematic-live-kollections-tvosx64	3.0.15	metadata	89728f0b627f8cce215139898a7761aa08db6ddc
+tz.co.asoft	cinematic-live-kollections-tvosx64	3.1.1	metadata	60229425ae4582b1417ff15ccfeb9d7a6ced1ca8
+tz.co.asoft	cinematic-live-kollections-tvosx64	3.1.11	metadata	5fda3298c0ae55fb1ee41cc97c7e4d196fdc0646
+tz.co.asoft	cinematic-live-kollections-tvosx64	3.1.12	metadata	17b6d9868e417137f82d80bd903ce744d482b3f1
 tz.co.asoft	reakt-feedback	0.0.1		N/A
 tz.co.asoft	reakt-feedback	0.0.5		N/A
 tz.co.asoft	reakt-feedback	0.0.6		N/A

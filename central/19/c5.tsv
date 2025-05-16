@@ -3,6 +3,8 @@ cn.com.xuxiaowei.boot.next	spring-boot-starter-wechat-oplatform	0.0.1-alpha.1		e
 cn.com.xuxiaowei.boot.next	spring-boot-starter-wechat-oplatform	0.0.1-alpha.2		6e9b8ccdb84a10078a3cc57f855348c24434f509
 cn.com.xuxiaowei.boot.next	spring-boot-starter-wechat-oplatform	0.0.1-alpha.3		28ea81d15cd9e6b37c7ef3e561c0dff6962bef54
 cn.com.xuxiaowei.boot.next	spring-boot-starter-wechat-oplatform	0.1.0-M1		16885fa7b2e8dee6595d3052e4ba1dd994695623
+com.47deg	sbt-embedded-cassandra_2.10_0.13	0.0.5		44e96e957ea675e8bbd42576df0832cf6ef9b97f
+com.47deg	sbt-embedded-cassandra_2.10_0.13	0.0.6		841f8486af7475fc0ba52f61dcff17c12117e21a
 com.carlonzo.ukey2	ukey2-kmp-iosarm64	1.0		N/A
 com.carlonzo.ukey2	ukey2-kmp-iosarm64	1.0	metadata	ce8d5bd9c093045187470380c844e0e903b1f9ba
 com.ejlchina	httputils	1.0.0		88251a0603d4298c5e13dedcef9c9a483acf8132
@@ -561,6 +563,7 @@ dev.zio	zio-aws-georoutes_2.13	7.31.27.1		d88f2b8b00f85a50748ebef219ee04424f2e31
 dev.zio	zio-aws-georoutes_2.13	7.31.28.1		c181af09df1b8a9c231033657f2e378577ca50b8
 dev.zio	zio-aws-georoutes_2.13	7.31.3.1		cf32d5cd6b0529e5ff5b631d0307bae7137c95bb
 dev.zio	zio-aws-georoutes_2.13	7.31.30.1		60eae5d7edb700f140f99d8eef12e367a792569e
+dev.zio	zio-aws-georoutes_2.13	7.31.30.2		72125cbd427aa25880b571ff912ff5d7a346f85a
 dev.zio	zio-aws-georoutes_2.13	7.31.4.1		b57b4de6a31e7ee5277d27d87c10b3f005a554bc
 dev.zio	zio-aws-georoutes_2.13	7.31.6.1		c0029bfb451471d6305925e9c6c91fb992fe5502
 dev.zio	zio-aws-georoutes_2.13	7.31.6.2		520b20af9d6381112e012b87fd37961d447b9beb
@@ -1122,6 +1125,7 @@ org.apereo.cas	cas-server-support-configuration-cloud-kubernetes	7.2.0-RC6		72da
 org.apereo.cas	cas-server-support-configuration-cloud-kubernetes	7.2.0-RC6	resources	9ab2b2d78b4efd374ad2b69ae3f1306c87af266e
 org.apereo.cas	cas-server-support-configuration-cloud-kubernetes	7.2.1		fe12832d8edae76b5eeee706dd44385edcf81159
 org.apereo.cas	cas-server-support-configuration-cloud-kubernetes	7.2.1	resources	88e34cfa350d9e2bf84cbe6e146f5fa51c937328
+org.apereo.cas	cas-server-support-configuration-cloud-kubernetes	7.2.2		d50246f55bafc90cf254fd93cb4234620ac52334
 org.apereo.cas	cas-server-support-configuration-cloud-kubernetes	7.3.0-RC1		f006466455ebb332f62fe3c918b73986f6cb2dc0
 org.apereo.cas	cas-server-support-configuration-cloud-kubernetes	7.3.0-RC1	resources	7effe53aa84bf3c4a78dce546c58d6bd35250208
 org.commonjava.rwx	rwx-http	0.3		49eb819819d3a918093ae3de6602ce9e33df172a
@@ -1310,10 +1314,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.79.0
 org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.80.0		f401da7f265a6b63bacbc0acc98e73b00a7b8db8
 org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.81.0		c5048f13af1a511a4c894584b19303a281aa164d
 org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.82.0		05dac787ea1f46ac5a0d55b1ac2b2b8b58d6439f
+org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.82.1		cf83f90acbb6860577d23a22c0c17766bdfebc5f
 org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.83.0		e459e370b7c37086a4d7ee6c3af4444a6bdb909b
 org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.83.1		6fad046454c520f726590afa24c5a20b39c92113
 org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.83.2		a457d163f7899ad34e7a101b0be66d7008d38ba0
 org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.83.3		8e02cfba0bcfaee4634338e32f3df8ed22e78e25
+org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.84.0		efa3b265b3c7b80a0b26dbb795b127099e4a4438
+org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.84.1		216435f2d15cc90c4458c575b0424b66845d1634
+org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.85.0		77bfe90c5ba9211d039663d546cf1c0cb0e60066
+org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.85.1		5655f9ddb8295b8af41cd5eafdf6a66ce87752c3
+org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.85.2		04ed55cf423fef1a204b8868da30046225254001
+org.finos.legend.engine	legend-engine-xt-relationalStore-redshift-grammar	4.85.3		ca4f7ccd0bdcd2c8c2875196dd2172c1af5e7a64
 org.finra.herd	herd-tools	0.100.0		N/A
 org.finra.herd	herd-tools	0.101.0		N/A
 org.finra.herd	herd-tools	0.102.0		N/A
@@ -2036,6 +2047,7 @@ org.rhq	rhq-arquillian-container-test-plugin	4.13.0		663c81260a3ba43008115df06d3
 org.rhq	rhq-arquillian-container-test-plugin	4.7.0		12aa4c443ab15685c10c43e566bf669e982d0e82
 org.rhq	rhq-arquillian-container-test-plugin	4.8.0		35ad846797df53bf96b356a5608e55ae23460585
 org.rhq	rhq-arquillian-container-test-plugin	4.9.0		14d16079f3503b3789b81a7fc4d8c165ffba7b07
+org.webjars.npm	hast-util-properties-to-mdx-jsx-attributes	1.0.1		5e05cb1cb25636656f751c676cf056884cc329d3
 org.xbib	time	1.0.0		14902064eb98f7e81f6cc743299343f8d45fc1cf
 org.xbib	time	2.1.0		1f4a13d064fb08a7d39171482808d24855040105
 org.xbib	time	2.3.0		8f43593886a02f5ecaf3dba7ca73d9ae1056b7b9

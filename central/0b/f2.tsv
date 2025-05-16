@@ -32,6 +32,7 @@ app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.5-beta01	metadata	e2433c3d250b39dd0d004ecc26be019256840558
 app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.5-beta02	metadata	98b098dee34e45c7c4f593c945f17e3f8997576c
+app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.6	metadata	2b9b42f63a7e4bf470edf36edf947c915a1fcb75
 app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.6-beta01		N/A
 app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.6-beta01	metadata	a9679fe8a78c5e4c948cd0a9db5167d2f1bf1b00
 app.lexilabs.basic	basic-logging-iossimulatorarm64	0.2.6-beta02		N/A
@@ -469,7 +470,16 @@ aws.sdk.kotlin	appflow-jvm	1.4.73		34d7b65a06b6663699a0586ddc3c04b473a26ef4
 aws.sdk.kotlin	appflow-jvm	1.4.74		7492f9e70b2a18ad52973c4fe31a525b3acfba0e
 aws.sdk.kotlin	appflow-jvm	1.4.75		858fbbb668baffb5f54615e69e279aab219280a5
 aws.sdk.kotlin	appflow-jvm	1.4.76		a42fb27d2d4e41958b5e3744cd80cf50a3a6316c
+aws.sdk.kotlin	appflow-jvm	1.4.77		39554c78a84bc1ec623876465ae417bfa0a66cf2
+aws.sdk.kotlin	appflow-jvm	1.4.78		48871fb3f8fc295c1289e909c0648a1da51baaa5
+aws.sdk.kotlin	appflow-jvm	1.4.79		5110771540b678e324179406dc09d63c973bfe33
 aws.sdk.kotlin	appflow-jvm	1.4.8		f0ce4e47762081b42882af258ea46ba964837592
+aws.sdk.kotlin	appflow-jvm	1.4.80		29e2721901a08b4c4665ac10a69a34862ce8c90a
+aws.sdk.kotlin	appflow-jvm	1.4.81		4ddabcd9281427ef10a9c6c82805e19fc9b7770f
+aws.sdk.kotlin	appflow-jvm	1.4.82		3ccebea65a0aa1a364e7e24b82829bd6afaef055
+aws.sdk.kotlin	appflow-jvm	1.4.83		9d029c747efb3f8ddb8561141b4af7aa5246d4ad
+aws.sdk.kotlin	appflow-jvm	1.4.84		5c4c24c5cdd708a4ee606deea76cd06d3fb8b027
+aws.sdk.kotlin	appflow-jvm	1.4.85		bfe803a2e396532388b05b70a94d6d3d6c2765cc
 aws.sdk.kotlin	appflow-jvm	1.4.9		acdeef3d846b3e4768f020714f32f29b299b1977
 cn.rtast.rob	ronebot-common-jvm	2.9.2		5dfaf7fd920b6e38dc95902a410c09404b8068e1
 cn.rtast.rob	ronebot-common-jvm	2.9.3		83704023445e41db72b106f6c55eb7f5ba412921
@@ -1093,6 +1103,8 @@ com.vaadin	vaadin-board-flow	23.5.12		5c091def43fe4cd01122db337611f657ff4b4f62
 com.vaadin	vaadin-board-flow	23.5.13		5ace66a205d407a784090f4fe763fffb3aedeb3f
 com.vaadin	vaadin-board-flow	23.5.14		c4c5a92ed45e62eda9674b89a4dbd4e7245077d2
 com.vaadin	vaadin-board-flow	23.5.15		2f6b812305021361212b570f35ed35fac408c2c7
+com.vaadin	vaadin-board-flow	23.5.16		6fdeabf2d00d42fc0b7b82a9e3222c0c3f23fc0b
+com.vaadin	vaadin-board-flow	23.5.17		0092bc9644af2ae0e79ff1ad5a12d652478c423b
 com.vaadin	vaadin-board-flow	23.5.2		62acb7a0b6f12b610c5ab2950c7f2b6bba366262
 com.vaadin	vaadin-board-flow	23.5.3		25e219d481ccacfd08abe3355f60c1b5c1592da9
 com.vaadin	vaadin-board-flow	23.5.4		38b176e6b35f80385accaf87059061b03cf1f180
@@ -1207,6 +1219,7 @@ com.vaadin	vaadin-board-flow	24.5.8		5d9b9999b383caecb9293b60ce1519ec95fcb02b
 com.vaadin	vaadin-board-flow	24.5.9		d799593b6b1fd0d2e9282a559d1a06e6ac00a910
 com.vaadin	vaadin-board-flow	24.6.0		f56f47b2e8cc9c5f0ce279b65008dcc20f7c1e6c
 com.vaadin	vaadin-board-flow	24.6.1		d7e04df1d9a95dba4eef9918f7a16fcf530b79a0
+com.vaadin	vaadin-board-flow	24.6.10		a66a8c81342a58f7e2f2f5a3621516ff99ad0eec
 com.vaadin	vaadin-board-flow	24.6.2		33982d5b39f2df28dda989ab6d0fb917391d4007
 com.vaadin	vaadin-board-flow	24.6.3		0ab7b7b11f8d972fdbd7a2e516be1944abb5216c
 com.vaadin	vaadin-board-flow	24.6.4		1da13fbaab91c961e48884401135705ad5009271
@@ -1219,6 +1232,7 @@ com.vaadin	vaadin-board-flow	24.7.0		7b915ecf9307bb2fa356c3355c0b9c8e03d66c10
 com.vaadin	vaadin-board-flow	24.7.1		4eb80837e843a16083e2fd85582ebf0b4070a8a7
 com.vaadin	vaadin-board-flow	24.7.2		f9a0fcee4f9d9ecd3e9832fa05b128c88a55a11b
 com.vaadin	vaadin-board-flow	24.7.3		0c4d35b89aa4c73ca7fb438eb2bd9f2b30a62ad1
+com.vaadin	vaadin-board-flow	24.7.4		6c1ad3d72e6b928f3f97c5caae296ea6e67531ad
 com.vaadin	vaadin-board-flow	3.0.0		4e733a3e67f83f14a620acb50878b22dcf5db07b
 com.vaadin	vaadin-board-flow	3.0.1		9b7aeb09d83d618fb47c7e9fb0c460becda8db80
 com.vaadin	vaadin-board-flow	3.1.0		5e61ae50421c8abd517e5a83b2f5f93d70a0eac3
@@ -1342,6 +1356,8 @@ io.matthewnelson.kmp-tor	resource-lib-tor-gpl-macosx64	408.15.0		N/A
 io.matthewnelson.kmp-tor	resource-lib-tor-gpl-macosx64	408.15.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.matthewnelson.kmp-tor	resource-lib-tor-gpl-macosx64	408.16.0		N/A
 io.matthewnelson.kmp-tor	resource-lib-tor-gpl-macosx64	408.16.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.matthewnelson.kmp-tor	resource-lib-tor-gpl-macosx64	408.16.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.matthewnelson.kmp-tor	resource-lib-tor-gpl-macosx64	408.16.2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.monix	monix-eval_2.12.0-RC2	2.0.5		cb2d36795b9ad013a71e650e7d7e84a052905296
 io.quarkiverse.file-vault	quarkus-file-vault-common	0.8.0		e6683db0125a1a97ede66888f1d5e2bbd88a937b
 io.quarkiverse.file-vault	quarkus-file-vault-common	2.0.0		fd17319397412ef82b6ba2ab026176c5c6abbc58
@@ -1402,6 +1418,7 @@ io.quarkus	quarkus-rest-jackson-common	3.15.2		61b64546aa918169e9782c1a36a78d085
 io.quarkus	quarkus-rest-jackson-common	3.15.3		a6dc55ed7926c4fd4258cab1100615de230f10b6
 io.quarkus	quarkus-rest-jackson-common	3.15.3.1		b71365db7aac1b97e2cb88ed1e2a58ff0272e109
 io.quarkus	quarkus-rest-jackson-common	3.15.4		4e197b4e1ce14864b5aeab89747e3569a2e6dcdc
+io.quarkus	quarkus-rest-jackson-common	3.15.5		8bda4ade5c69cdeb32f8aeab979859e8754787b4
 io.quarkus	quarkus-rest-jackson-common	3.16.0		8a8f4092de92198808c059d636345997a0ee8b85
 io.quarkus	quarkus-rest-jackson-common	3.16.0.CR1		61c6d070f0704013304a18a0632bdc199ba9700b
 io.quarkus	quarkus-rest-jackson-common	3.16.1		cb7808793a7431c79a60c8f182b4bb7ad5a4951e
@@ -1432,6 +1449,7 @@ io.quarkus	quarkus-rest-jackson-common	3.19.3		e4029154fd2954f41dc5dee26663c31a8
 io.quarkus	quarkus-rest-jackson-common	3.19.4		27cf8f5504ea8eb6e2918cecd7f8171137ca5e46
 io.quarkus	quarkus-rest-jackson-common	3.20.0		cb139f72c69b030806fb65f26e8644ae1a7781d8
 io.quarkus	quarkus-rest-jackson-common	3.20.0.CR1		75f914a962502369f58772360082b4ae37df9f6b
+io.quarkus	quarkus-rest-jackson-common	3.20.1		69ced80bc0ceec6ce21c773373a6cb4c1fee418b
 io.quarkus	quarkus-rest-jackson-common	3.21.0		73f859cbe75a27d037a35b5248db8ef0c0076e54
 io.quarkus	quarkus-rest-jackson-common	3.21.0.CR1		e2354b633bc7a21e4efed5970021a699e7e15062
 io.quarkus	quarkus-rest-jackson-common	3.21.1		fcc033caaf5b5fc13fbee1c4b9ce96e2c2b63971
@@ -1441,6 +1459,9 @@ io.quarkus	quarkus-rest-jackson-common	3.21.4		f3744561335e3e0c5bf98e1d81bd7e252
 io.quarkus	quarkus-rest-jackson-common	3.22.0		21dcc1abff15b9bbb1b0113e64f66688b5a40498
 io.quarkus	quarkus-rest-jackson-common	3.22.0.CR1		98849cdd6dd5060c58f7b0fd3d484a5625144dcf
 io.quarkus	quarkus-rest-jackson-common	3.22.1		14cf5afda401c186b92489022d47a184300c316d
+io.quarkus	quarkus-rest-jackson-common	3.22.2		6e327ef3eb187872a4ee586a44c360e3093e8e11
+io.quarkus	quarkus-rest-jackson-common	3.22.3		63bf2c93b9e70444754d4b5d1b5a91dcc98ac705
+io.quarkus	quarkus-rest-jackson-common	3.23.0.CR1		9244a8ce944383b32092a19444035a746a664ba6
 io.quarkus	quarkus-rest-jackson-common	3.9.0		254e6f9c255470b9748e614953656d47ba29ca62
 io.quarkus	quarkus-rest-jackson-common	3.9.0.CR1		8114a69e07c5782c84ecd72d610beb3279f33c4e
 io.quarkus	quarkus-rest-jackson-common	3.9.0.CR2		85be3e1929e9fe149d188355cf3e7e2f92304aae

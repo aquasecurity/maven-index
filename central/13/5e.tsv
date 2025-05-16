@@ -527,6 +527,7 @@ com.oracle.oci.sdk	oci-hdfs-addons-smartparquet	3.3.4.1.5.0		bf9f8593048e2a0c4ef
 com.oracle.oci.sdk	oci-hdfs-addons-smartparquet	3.3.4.1.5.1		8b0e6a6199318fd36c65f5732ca71b1b9aa35378
 com.oracle.oci.sdk	oci-hdfs-addons-smartparquet	3.4.1.0.0.0		410178b3de503dfd183389950af0575146da11af
 com.oracle.oci.sdk	oci-hdfs-addons-smartparquet	3.4.1.0.0.1		580d2c79762ff8410fca9aca8927a2d59a4d43f5
+com.oracle.oci.sdk	oci-hdfs-addons-smartparquet	3.4.1.0.0.2		4d84698efc00a7b61cbd3d5afda0b5306e380faf
 com.sinch.android.sdk.verification	logging	2.1.11		N/A
 com.sinch.android.sdk.verification	logging	2.1.12		N/A
 com.sinch.android.sdk.verification	logging	2.1.13		N/A
@@ -709,6 +710,7 @@ io.liftwizard	liftwizard-managed-file-system	2.1.28		a236b8ccc6ae278cecc964d1b48
 io.liftwizard	liftwizard-managed-file-system	2.1.29		d006a4413cebf8f814a52e8eeabda879c90e498f
 io.liftwizard	liftwizard-managed-file-system	2.1.3		8385e3294586f58aa013014870b71e024a324fd2
 io.liftwizard	liftwizard-managed-file-system	2.1.30		e3169f81fd4886d0d0e8a2c4cfdf6cd42c17893b
+io.liftwizard	liftwizard-managed-file-system	2.1.31		8dfd3cccffdc434a992f815f88982e3ebf4bedf4
 io.liftwizard	liftwizard-managed-file-system	2.1.4		83169710e774276c6c71b28e4d36dea580106790
 io.liftwizard	liftwizard-managed-file-system	2.1.5		15a778b6a46ee0533fe43c487b5804d6a06bd2f1
 io.liftwizard	liftwizard-managed-file-system	2.1.6		203ba89d6da78b9b94da3bf4503f5ea749dd3a8f
@@ -739,7 +741,11 @@ io.quarkiverse.asyncapi	quarkus-asyncapi	1.0.2		0035bd909b563c28cc48762c4b28fb87
 io.sourceforge.aliyun.components.cloud	ms-cloud-components-parent	1.1.1		N/A
 io.spinnaker.orca	orca-mine	2025.0-0		a502aef109371139337c15072dcb7e3f70591c5b
 io.spinnaker.orca	orca-mine	2025.0-1		5190ccbdd5f8761c856972645a242ad709279e3b
+io.spinnaker.orca	orca-mine	2025.0-2		6498e9b5220401c0da57d552faf734d282dea694
+io.spinnaker.orca	orca-mine	2025.0-3		5b3b621d3217260087dc402b21193c9241a1c043
+io.spinnaker.orca	orca-mine	2025.0-4		6efa9391188cfae234af87dede802d224b1612c3
 io.spinnaker.orca	orca-mine	2025.0.0		0b3493f467463b8d9958e89fc72a596cc53a5892
+io.spinnaker.orca	orca-mine	2025.0.1		c9e73aff077945287daddcc9dd274615c6f3fcd1
 io.spinnaker.orca	orca-mine	8.15.0		42bdacaf842587627924e288c954c49bd8d622b5
 io.spinnaker.orca	orca-mine	8.16.0		29ae649f8e3923d2f8bc056708bab19df0f32aa0
 io.spinnaker.orca	orca-mine	8.17.1		eb45485388b9fdc11b474fd9a70ec2259f282c53
@@ -831,10 +837,14 @@ io.spinnaker.orca	orca-mine	8.61.2		d7e983884b41bb4db081ecc6bed8270fff8beea4
 io.spinnaker.orca	orca-mine	8.62.0		f873306ab1f6892657f9d1fca0cd04f1f2e19265
 io.spinnaker.orca	orca-mine	8.63.0		796b7d8f7dca2d3b673d2c45638602814c4b93d8
 io.spinnaker.orca	orca-mine	8.64.0		591dd5d690b70b8c15e2c67535700c9fe0efe944
+io.spinnaker.orca	orca-mine	main-10		062aa09121b8d0b19b8f8813197b292b19121a7f
+io.spinnaker.orca	orca-mine	main-11		61be71aa67110553308005b775ba89e459accb9d
+io.spinnaker.orca	orca-mine	main-12		1781ce4b5ef573bea58701e73048523e96d97422
 io.spinnaker.orca	orca-mine	main-5		2d2562aa57c0d5e9a60572830a461c8c7b2db981
 io.spinnaker.orca	orca-mine	main-6		1d0f40c122012c0668d1e44399c9deebee24ca9a
 io.spinnaker.orca	orca-mine	main-7		598819c8f33e29bea5045e24505358bfad8d373b
 io.spinnaker.orca	orca-mine	main-8		352c3e796ca75d6e8eb125d536855bf67d7d1bab
+io.spinnaker.orca	orca-mine	main-9		97515d80102d2c6bce64f5f64b52ac92cccbedfa
 io.taig	communicator-builder_2.11	3.0.0-RC10		c9dbbace6511105b7c7b2482080908b99f035725
 io.taig	communicator-builder_2.11	3.0.0-RC7		9b2e78d0bf6e744f4b3c8e266a9bc342e80ca86e
 io.taig	communicator-builder_2.11	3.0.0-RC8		4713f66ae70323b3748f88cf93de92589c8f1b30
@@ -1371,6 +1381,7 @@ org.jboss.narayana.rts	restat-api	7.0.2.Final		f1ade7e9cf982e8bae27126aa551d5410
 org.jboss.narayana.rts	restat-api	7.1.0.Final		434dfaa3424d83a884a858891d99066dd0af72d1
 org.jboss.narayana.rts	restat-api	7.2.0.Final		0eb621b736e2cf07235f51d465f4016b1fd8f137
 org.jboss.narayana.rts	restat-api	7.2.1.Final		9ef5824cf0d552ce904722e49c82660410de9ab2
+org.jboss.narayana.rts	restat-api	7.2.2.Final		0771e47bc3fa59819b4df060b60857a51523a32d
 org.jbrew	jbrew-parent	0.0.4		N/A
 org.jbrew	jbrew-parent	0.0.5		N/A
 org.jbrew	jbrew-parent	0.0.6		N/A

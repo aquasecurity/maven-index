@@ -1,4 +1,6 @@
 at.asitplus	android-attestation-versionCatalog	1.5.2		N/A
+au.com.langdale	soapbox_2.10_0.13	0.3		d7a7724143de94068f67a70e45d425c3664b2b02
+au.com.langdale	soapbox_2.10_0.13	0.4		f5e84d039c4122f011c2a8c0d7ddb9833ef3501f
 aws.sdk.kotlin	iottwinmaker-jvm	0.16.0		953d3b2a9f48c35b1769454e9ad601bfe9740202
 aws.sdk.kotlin	iottwinmaker-jvm	0.16.1-beta		2935b10b6b1a14a92a3407d3aacd0d3af605a331
 aws.sdk.kotlin	iottwinmaker-jvm	0.16.2-beta		f65e961e05bf4c2def3ba79ea179b21613d44032
@@ -430,7 +432,16 @@ aws.sdk.kotlin	iottwinmaker-jvm	1.4.73		a70b4ef35ab445df3d9849cd3775874f57d68d7a
 aws.sdk.kotlin	iottwinmaker-jvm	1.4.74		06dedeca1e1fb6b9b50132b7162a90ecfd09b8f1
 aws.sdk.kotlin	iottwinmaker-jvm	1.4.75		e77bb95c4a31ca367bd610b94c3f097aebdb6d07
 aws.sdk.kotlin	iottwinmaker-jvm	1.4.76		0c51bba2f736635ef76e1671012d0cb33dec6f7b
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.77		332dce4429d821ab6aa36714dc2391941e63c535
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.78		49540693c181624911cf4bc49fca1812c10f2cc4
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.79		691750f642b1406affaba2744b28854c87d0f539
 aws.sdk.kotlin	iottwinmaker-jvm	1.4.8		f6b3cd025c4d1ed399a20d18d86abe449f105b30
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.80		0f458f327962de5865031e3cf7312aded26db302
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.81		4385246f8f79e6e39d153c7bbf95807b5ed86b82
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.82		ed970e83af4904801157955f2ab464a937a04195
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.83		f77f6998e2a7fab3ad9561adc71210d7bd147545
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.84		a47de4dfdb949fde72e369019535e4003329626e
+aws.sdk.kotlin	iottwinmaker-jvm	1.4.85		64edead2a7969bdbe9991aca4b42ea124c91fc48
 aws.sdk.kotlin	iottwinmaker-jvm	1.4.9		fa12146cc07935db3fde99f31951db9674284ea4
 ch.randelshofer	org.jhotdraw8.base	0.1		7dc804b428e1eb8b51bdfcf0ce647830aebaf974
 ch.randelshofer	org.jhotdraw8.base	0.2		8e8819ec496b5b0ef55c8a536264f8cc37878ed7
@@ -935,6 +946,8 @@ com.vaadin	vaadin-renderer-flow	23.5.12		37e9f678016bf1db46fd305e732f78282d28894
 com.vaadin	vaadin-renderer-flow	23.5.13		1cfef542dd37ba084e005c7270cb352e4f564703
 com.vaadin	vaadin-renderer-flow	23.5.14		d38ee1a42a09ad90002efacb60daffcae0e0f86a
 com.vaadin	vaadin-renderer-flow	23.5.15		fba71a96c29ce42ac9f83f9ad8d18fc70e8bbbb6
+com.vaadin	vaadin-renderer-flow	23.5.16		12c4fb94738df803d30f8140ad0149befd23450a
+com.vaadin	vaadin-renderer-flow	23.5.17		2a58165602832ecb356de4090ec3b5268bb7aba0
 com.vaadin	vaadin-renderer-flow	23.5.2		c677eb68ea195cf525a6925651543ade0d654481
 com.vaadin	vaadin-renderer-flow	23.5.3		bc6d3618c034d6e5c2717783a87f96f2a042cb34
 com.vaadin	vaadin-renderer-flow	23.5.4		08bec292e71ff9256da55d462f1ffa25465e2ea1
@@ -1049,6 +1062,7 @@ com.vaadin	vaadin-renderer-flow	24.5.8		a22a3cf086a2b5e088d1ade13f6c9385399e24ea
 com.vaadin	vaadin-renderer-flow	24.5.9		586da60e944e56c75a5cd671267dd8fb4f0c3efc
 com.vaadin	vaadin-renderer-flow	24.6.0		dc28a67ff4670aa58f9483bd07dc8d12bfb8b1df
 com.vaadin	vaadin-renderer-flow	24.6.1		ec71315fc838037d0f8d3a612866a792ab697e06
+com.vaadin	vaadin-renderer-flow	24.6.10		a3b37e46eef91fee61a334efd02803f9fd5c6040
 com.vaadin	vaadin-renderer-flow	24.6.2		639f2ee5023f203aedfcce9299a9507e4b201ee7
 com.vaadin	vaadin-renderer-flow	24.6.3		2a1f9112e673d86279e0cd7b4828f541867ade74
 com.vaadin	vaadin-renderer-flow	24.6.4		94f16846d69d97d952fc4022175e3f959cc9ef48
@@ -1061,6 +1075,7 @@ com.vaadin	vaadin-renderer-flow	24.7.0		5f4b8c3a8bcd780f177b7f5474c529b071e3e973
 com.vaadin	vaadin-renderer-flow	24.7.1		41bff93ce1ae9df3b030dda173c80c89f43bfb10
 com.vaadin	vaadin-renderer-flow	24.7.2		b63214babb88a71a2b0bb01dc978c6985c00abe8
 com.vaadin	vaadin-renderer-flow	24.7.3		272d324bdc163e380f9df3810f0e95efea116bec
+com.vaadin	vaadin-renderer-flow	24.7.4		b40f5184c3ca58efd50367acb784969f30b1362f
 com.weicoder.extend	dao-extend	3.2.1		090a5a4893341b67dedfa8ab49319833b71ffc01
 com.weicoder.extend	dao-extend	3.3		13303711d75024d27fb8710ec7b3708ffce8a460
 com.weicoder.extend	dao-extend	3.3.1		915bc9b925745aaedc6db4e9936573f7e9f0833c
@@ -1290,6 +1305,7 @@ io.github.dftrakesh	walmart-sdk	1.1.17		65f73875430c5e72373800cd48e1e30ab242fbc1
 io.github.dftrakesh	walmart-sdk	1.1.18		bc0dddd535ff9397ba1f547458bd88354c8adced
 io.github.dftrakesh	walmart-sdk	1.1.19		55ba7675c34b9bfe5dd455a69c149e0b286a1ce4
 io.github.dftrakesh	walmart-sdk	1.1.2		69471d3c21920b3a697a336440231e82f4a344cd
+io.github.dftrakesh	walmart-sdk	1.1.20		a49a25be2017e9c151cb28dc4fe1a6a18a95e600
 io.github.dftrakesh	walmart-sdk	1.1.5		a0af02f985df5214e2f5f14cdd4bead4693bab9c
 io.github.dftrakesh	walmart-sdk	1.1.7		0a3bf2893c17dd45e57e3963674a3b8f986c6f0e
 io.github.dftrakesh	walmart-sdk	1.1.8		68727eaf2af58b3077bcea2743dde376d4019e62
@@ -1561,6 +1577,7 @@ org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.2.1		bb5bda15e021b879f585
 org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.2.2		10d8a3850272853599088bdfcffc815d92f25b11
 org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.2.3		b4626c6ae2a2fc74211e8e28cd8b83eb54fbb3f8
 org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.20.0		e8e2dcef4a5a3ad3e38bd6628781c6a2b24e5d98
+org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.20.1		a9c76395b6614b1eb0bd1df6e96c088f5b07320f
 org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.22.0		02c593f0771885e53e462775594f73c3f16c7fb5
 org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.4.0		fa8ff29af675e2eb57ff897010f296b922c1f9f5
 org.apache.camel.quarkus	camel-quarkus-sap-netweaver	3.5.0		d7537334f4ecd4a519b7fa0c3ffc5e73dab5f2e9
@@ -1638,6 +1655,7 @@ org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.2.1		26098bf58e0
 org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.2.2		e040c085fd0531d733161c73abf8658250602522
 org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.2.3		9242d8422594014bd6b4a5221571f2ec1b39be15
 org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.20.0		fb24d4523b71ff8ae4d550ccb5095023929d7b3d
+org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.20.1		d323808c719a526b079f77db63debb34747bce56
 org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.22.0		951e6761c06ae5c3b7300df97f7f4df1e54dc85b
 org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.4.0		b72a980a47b0e5f333f509baf2adeabac99af696
 org.apache.camel.quarkus	camel-quarkus-support-ahc-deployment	3.5.0		724c6c7a3f63b98bc91c323de3f92c48e66a855d
@@ -1807,6 +1825,7 @@ org.apache.parquet	parquet-jackson	1.14.3		77ec97de89dbb160866e51b0b41c401168aeb
 org.apache.parquet	parquet-jackson	1.14.4		d62588a75907c79730907fc560e2de5ede2fc8fe
 org.apache.parquet	parquet-jackson	1.15.0		4313fe060ff2e02ff5ab9c918ede536192389443
 org.apache.parquet	parquet-jackson	1.15.1		85fab1dc2b86f837cb3173183561e384a775f84d
+org.apache.parquet	parquet-jackson	1.15.2		554c04e1c5ab964288cc47aa1747a82abca945e2
 org.apache.parquet	parquet-jackson	1.7.0		32115a2437f8a3386ed15d7f7bfe7f204312fd20
 org.apache.parquet	parquet-jackson	1.8.0		d4274ce2d1f2ab9e21ba39521130a9598e4b68a8
 org.apache.parquet	parquet-jackson	1.8.1		29ff7581070fc4562f41abf927b27c695bc14256
@@ -2596,6 +2615,8 @@ org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.10.3		a10eca31e2a12a1fcbe6bf
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.10.4		6ebe9a4b93b592916e284c42951b253b19f1fb8c
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.10.5		2bc270c259f5979cef2aa4cb320af27e2fabf141
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.10.6		e68771048a9363d7e806903a5f0ed5f93399385f
+org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.10.7		51e6e782b025d372a4ff6add8adc94fece42f765
+org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.10.8		4344e138cf07535a5ce89cc6f81b700e2d361653
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.2.0		b35f627a71b7976debaacee2cbef0d740cfe69bc
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.2.0-rc-1		08efefdc3b5a9939754d3f748a1072fa01e8c11b
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.3.0		4bd2d9af08f9f060f41e8b8469b341989b4d26c5
@@ -2610,6 +2631,7 @@ org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.4.4		73b76f2b49f04224330a3a5
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.4.5		a1d2eafb82d9205829283c65c1898624260c86fb
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.4.6		794bbd668c6b376dc5964c0cb7f8da64ca00f631
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.4.7		e84a4817f9459b68618625d428b659a1d782dcb3
+org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.4.8		f827f5fe4a428bf375861d13afbb2c746ab9571e
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.5.0		cbcee05d6908ce744077b36de0b4e10ab5b3ea90
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.5.0-rc-1		0bd37cfa4335d47920575b69108dfbe23069ad66
 org.xwiki.commons	xwiki-commons-tool-spoon-tests	16.6.0		ef518954abd2447813e2f10c2177bfd5ccf9d200
@@ -2712,5 +2734,9 @@ tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.0.8	metadata	99835cd5fdd1adf5e37b0f8ef56234f5c0678a33
 tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.0.9	metadata	e54cf380aa0e127f2cfa94c4c82287b29adc8d3d
+tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.1.0	metadata	ac93a5d9549cfa3522840db753c21e37adeec626
+tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.1.1	metadata	113099537798044d848e965181769da8f286f12a
+tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.1.11	metadata	a60604a7b0eb2bda73c23b3d5f8325f19b8d1bf4
+tz.co.asoft	koncurrent-executors-mock-iossimulatorarm64	3.1.12	metadata	9e147acefb092fcd3e60eb89333f227c87ce8b05
 tz.co.asoft	symphony-visibility-tvossimulatorarm64	3.0.7		N/A
 tz.co.asoft	symphony-visibility-tvossimulatorarm64	3.0.7	metadata	85d168044119ef233deaae8bfa73173253b56b9f

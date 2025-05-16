@@ -190,6 +190,7 @@ com.genexus	gxcloudstorage-common	4.8.4		f3fb09421415d751caaf0a74ecaed6671450039
 com.genexus	gxcloudstorage-common	4.8.5		c85c9eb126a689ba0399f5dc41f9d8b43b25a0ab
 com.genexus	gxcloudstorage-common	4.8.6		2a4ab1aa2d19822d21acc0cf41ee4bc333016703
 com.genexus	gxcloudstorage-common	4.8.7		b2736af2bbead39e2acb86b51f476b32de88ffa4
+com.genexus	gxcloudstorage-common	4.9.0		0802facee7b958b6a0488d2bea7c8d2146795ae4
 com.gitee.fubluesky.kernel	cache-redis-spring-boot-starter	1.0.0		142170e6bef3f995bd2071186f6e2947b7412a79
 com.gitee.fubluesky.kernel	cache-redis-spring-boot-starter	1.1.0		4aa0da1e9e13bcc28fe6c0a2a44dfb65c5b45d47
 com.gitee.fubluesky.kernel	cache-redis-spring-boot-starter	1.2.0		7136121f411c33c635fe8feda36b2a17f6f20870
@@ -1015,6 +1016,11 @@ com.regnosys	serialization	11.58.2		b7be791e500464b53522ae41ef8f75c9bbc63103
 com.regnosys	serialization	11.59.0		29cd4d07cde8f516dea431755a1fd29fc653b567
 com.regnosys	serialization	11.59.1		7ece612ff0342f3405d2093fbd03f8f6a3d13636
 com.regnosys	serialization	11.60.0		f49211a915c6159b04fbe85fe7571e750b5b9c30
+com.regnosys	serialization	11.60.1		e6cbc598b73134033432df1539557b96fe33e588
+com.regnosys	serialization	11.60.2		5b630c69ea5541f1204d23d0b21ec9f54336cb9d
+com.regnosys	serialization	11.61.0		aa270ca9fa546d52de0e7ab7f4531ed16c5ebf29
+com.regnosys	serialization	11.61.1		fe7f4e2cfee0ea5e41bca7e056f84d3877b31781
+com.regnosys	serialization	11.61.2		08a786d913dd707914b3caf0eddfd04fdac7dd7f
 com.softwaremill.sttp.tapir	tapir-json-zio1_sjs1_2.13	0.20.0		15aa083bb564d6949b32f666002706be624f7ee0
 com.softwaremill.sttp.tapir	tapir-json-zio1_sjs1_2.13	0.20.0-M10		943dc7514172bdece746ef11c9fbd301ad17f66e
 com.softwaremill.sttp.tapir	tapir-json-zio1_sjs1_2.13	0.20.0-M8		b2457ed71cd376e6f4370b0c1be80fdb04cc39f2
@@ -1381,6 +1387,8 @@ io.ktor	ktor-websocket-serialization-iossimulatorarm64	3.1.1		9efc9c6c3ef6da4775
 io.ktor	ktor-websocket-serialization-iossimulatorarm64	3.1.1	metadata	1088f8eeb502584b8027645f641706a86a283ff1
 io.ktor	ktor-websocket-serialization-iossimulatorarm64	3.1.2		f22d34df8cedce1d674308283698c9d454aa54dc
 io.ktor	ktor-websocket-serialization-iossimulatorarm64	3.1.2	metadata	ef66df195e4992d6d32a2ac597f3617973cbbf3b
+io.ktor	ktor-websocket-serialization-iossimulatorarm64	3.1.3		74007a36fbcd82ccc1ed57add2484109a74528cd
+io.ktor	ktor-websocket-serialization-iossimulatorarm64	3.1.3	metadata	f742c87d6a81a079117a469016e1f509d4f431e2
 io.micronaut.chatbots	micronaut-chatbots-telegram-core	1.0.0		4ec0ad8ffe47372a235c5392ab3eb454d168afcb
 io.micronaut.chatbots	micronaut-chatbots-telegram-core	1.0.0-M1		b16ea3e00661fa08a5241d4b36d25f57ebdfa405
 io.micronaut.chatbots	micronaut-chatbots-telegram-core	1.1.0		76ebc98922701b318ea681af84c236a31022b00a
@@ -1524,6 +1532,7 @@ org.apache.camel.quarkus	camel-quarkus-support-spring	3.2.1		dc48c44c348d475d863
 org.apache.camel.quarkus	camel-quarkus-support-spring	3.2.2		1a7785915bf200d4efa89e6a4151ac292ecdb8da
 org.apache.camel.quarkus	camel-quarkus-support-spring	3.2.3		ce462f7d17ad8c6e17db26f35eaf54830dc6675f
 org.apache.camel.quarkus	camel-quarkus-support-spring	3.20.0		4c392aa8686ad891d593255023041974cbf68d3b
+org.apache.camel.quarkus	camel-quarkus-support-spring	3.20.1		f6b79212f41e1dc7eed9ca490ba2c536c57e9612
 org.apache.camel.quarkus	camel-quarkus-support-spring	3.22.0		9190196516833eb0d5f861468e49f15fea7a177a
 org.apache.camel.quarkus	camel-quarkus-support-spring	3.4.0		523258445d305b12d3a163f7f0901f324ab81497
 org.apache.camel.quarkus	camel-quarkus-support-spring	3.5.0		0c920ff75a7f57f179731bd00744e6f7ac4a3883
@@ -1608,6 +1617,9 @@ org.http4k	http4k-connect-ai-ollama-fake	6.6.0.0		de6cb9b308405216434c57719305f7
 org.http4k	http4k-connect-ai-ollama-fake	6.6.0.1		5040e6c02c9daeb280960422cae2731544b1e9de
 org.http4k	http4k-connect-ai-ollama-fake	6.6.1.0		9b3f3ac3a2756996e7cf906dfd5ddb18acb96e2a
 org.http4k	http4k-connect-ai-ollama-fake	6.7.0.0		9bf3835dc2c3868c74050793974a5fd78ac9834b
+org.http4k	http4k-connect-ai-ollama-fake	6.8.0.0		77b8896d1b96020fd97010d0c0f134040b1812f0
+org.http4k	http4k-connect-ai-ollama-fake	6.8.1.0		7c3adfc09c6bc3dc59d447e2ba38f7adeec86fbe
+org.http4k	http4k-connect-ai-ollama-fake	6.9.0.0		da4aef4346b3427442dffb982e0b9ccb71ee3bbc
 org.http4k	http4k-connect-ai-ollama-fake	v6.3.0.0		e737fda94a93199ac86517993edffa7ac1f48bc7
 org.http4k	http4k-connect-ai-ollama-fake	v6.4.1.0		7ab3061f0ed4e6a040455b87093c241510e14f77
 org.irenical.maven	jindy-api	1.4.2		a98988c120d6297207cbd3abf61e5ec5f374a031

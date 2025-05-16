@@ -609,6 +609,7 @@ co.fs2	fs2-core_sjs1_2.13	3.12.0-RC1		28ca288ef938ba025b1e2df7534bbb6fce13ae84
 co.fs2	fs2-core_sjs1_2.13	3.12.0-RC2		843eaa278a8037320c02dbb09ca12cf538762d5e
 co.fs2	fs2-core_sjs1_2.13	3.13.0-M1		919d7b3b027e6282d92a2b14263ca9db8cf577f0
 co.fs2	fs2-core_sjs1_2.13	3.13.0-M2		6f6f28ce53f3455aa032c9b29c06e33a20bbf1e8
+co.fs2	fs2-core_sjs1_2.13	3.13.0-M3		a5b90ae2aed533f7df718cfeba0ef4b3f91453ae
 co.fs2	fs2-core_sjs1_2.13	3.2-10-421c242		f093663e35bcf5d428138c1ad641cb2bc4684c4e
 co.fs2	fs2-core_sjs1_2.13	3.2-10-ea04dd1		f1fab0804ec7ac22d985898ed24dc3c650f13114
 co.fs2	fs2-core_sjs1_2.13	3.2-100-c1910b5		f7c12c940525ad82523812e207e849ce9e429774
@@ -1503,6 +1504,9 @@ io.greptime	ingester-protocol	0.12.0		3c3012ddabd41f779ce0e272aa769d0f5b7ab952
 io.greptime	ingester-protocol	0.12.1		8a746782ecda8e6503e51895c7a7b3c3d397c703
 io.greptime	ingester-protocol	0.12.2		359a24a9521e597f46cf11717d280d6a9c30a0d2
 io.greptime	ingester-protocol	0.14.0		9c286c8ba0482c6ca60dc2e03f811914cbac4e33
+io.greptime	ingester-protocol	0.14.2		46f20b4bf20de73180f1ac153458ab57990dd109
+io.greptime	ingester-protocol	0.14.3		1f9f9136dcfdc7263b04434bb5edbfc82cf0d5ba
+io.greptime	ingester-protocol	0.14.4		5f40e76f8e71fe7b9eb20a4feb4719d2d3ef4be0
 io.greptime	ingester-protocol	0.5.0		035362cd5765b5a2aaf6cb71208c977860924b1b
 io.greptime	ingester-protocol	0.5.1		ba37b2fe0db408e621988ecc28db4cfb2aa73519
 io.greptime	ingester-protocol	0.7.0		a9e3771bff02da9bc67419a016839f2d4bc2bbfe
@@ -1597,11 +1601,19 @@ io.spinnaker.kayenta	kayenta-gcs	2.45.0		b39f0e0713b34de60a96311be61c3593c5bc918
 io.spinnaker.kayenta	kayenta-gcs	2.46.0		100d32d7c6b18dfe89f513d94f1d324aea0a3239
 io.spinnaker.kayenta	kayenta-gcs	2025.0-0		a5aa3f923900fbb040465f8d742811382084c697
 io.spinnaker.kayenta	kayenta-gcs	2025.0-1		587b0191add3062b8810da711d215c87cb95713f
+io.spinnaker.kayenta	kayenta-gcs	2025.0-2		df4ee06474d3d3e347049a2def6485f04194a7e2
+io.spinnaker.kayenta	kayenta-gcs	2025.0-3		bbb55faa6159194d77a0600b6ddfa175f5d4a11e
+io.spinnaker.kayenta	kayenta-gcs	2025.0-4		042687d0b405eb9a57a8978ff5611174ce4450ce
 io.spinnaker.kayenta	kayenta-gcs	2025.0.0		3d50b8153b4f73dbd44bfdbd9c9fe2a5f79386fa
+io.spinnaker.kayenta	kayenta-gcs	2025.0.1		b48c4294c5cf421428834361b36ad5f4e89a1fa1
+io.spinnaker.kayenta	kayenta-gcs	main-10		13cbab3634f15ad44ed199bff0ad84a20a36f4e9
+io.spinnaker.kayenta	kayenta-gcs	main-11		ec2098642181242b781adddc62f9599930b68948
+io.spinnaker.kayenta	kayenta-gcs	main-12		c23e30bf7f86eca62143b1c4f190f50bb819acec
 io.spinnaker.kayenta	kayenta-gcs	main-5		d1090b366a211352f1685df318dc40eccf918852
 io.spinnaker.kayenta	kayenta-gcs	main-6		e4960cad2b9bf4b477722b16f3ddb7f4d0d13db4
 io.spinnaker.kayenta	kayenta-gcs	main-7		43073430b68f7e1ef0f6b25992151501930b6e3f
 io.spinnaker.kayenta	kayenta-gcs	main-8		ded39fe3d6c1ef8e349629dbd7d8f7aa8fddbec5
+io.spinnaker.kayenta	kayenta-gcs	main-9		193d2317190c198d51f2bd69e691b4c305910e24
 io.tesla.profile	tesla-profiler	0.0.1		1c91270b08f3d3b2dfade8ce5a34978c071a384c
 io.tesla.profile	tesla-profiler	0.0.2		79e2f9610b1a8554c788099c0c523b2f7466ca97
 io.tesla.profile	tesla-profiler	0.0.3		99b7f3f40ff1ec614fa807fff4535197c8db677d
@@ -1733,6 +1745,7 @@ org.apache.camel	camel-platform-http-jolokia	4.8.3		48a6452c2234e196d10de8465a78
 org.apache.camel	camel-platform-http-jolokia	4.8.4		c78720095935a1c67d36f96672632dfd50861a94
 org.apache.camel	camel-platform-http-jolokia	4.8.5		23390ff2a4b4cc0513077bfe95a48d518871cfee
 org.apache.camel	camel-platform-http-jolokia	4.8.6		01d96eb798da05029f57b81634c8f833a2b14359
+org.apache.camel	camel-platform-http-jolokia	4.8.7		aaa795e6267942d58c681fced7bfad8f48911733
 org.apache.camel	camel-platform-http-jolokia	4.9.0		2964b7abb21fdea3b5a61870e1c2a61548fbc882
 org.apache.camel.kafkaconnector	camel-mysql-source-kafka-connector	1.0.0		43c4f775fb9fccf6b7adfe65fb0e576190093d38
 org.apache.camel.kafkaconnector	camel-mysql-source-kafka-connector	3.18.1		b4f925982f34b3b1e3a9eb47de9bdefb5ab70993
@@ -1783,6 +1796,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.2.1		
 org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.2.2		1b0bd3c8095fb78042f4d0510ee467ae445f9294
 org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.2.3		6c6ea063881f3345234bf7e43be567f384afd53a
 org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.20.0		4ff83c7c801bca4cfc0a337b1f19de9d6e5e0d68
+org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.20.1		bc1d893d31a7d5de8eebe1c43fefdc62742bc064
 org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.22.0		a360dd791f51fc4742f47637eac3d7adff570f5d
 org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.4.0		29fbeddef8fdc3bf1ea48bd9cf749fa45c55a5ef
 org.apache.camel.quarkus	camel-quarkus-integration-test-quartz-clustered	3.5.0		99cfce278cbc7323fc5d84f61eaf7cd0ee208d8e

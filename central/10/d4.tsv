@@ -244,6 +244,7 @@ com.mongodb.casbah	casbah-gridfs_2.9.0-1	2.1.5-1		16d2d9572be0b0629fa67442bc2d19
 com.mongodb.casbah	casbah-gridfs_2.9.0-1	2.1.5.0		7c6cdfcfd2024275035f3a278dd0396c19ce89e6
 com.ms3-inc.tavros	rest-extensions	0.1.3		2c95baa77d79e2cc1e92f52bd76c4757a2089cbe
 com.republicate.kddl	kddl-gradle-plugin	0.10		3446962c68d866e973032c0af2a93e34b100ac45
+com.republicate.kddl	kddl-gradle-plugin	0.11		e47fd9f7d43516b3cbcf0fc0e998efaf74562a38
 com.republicate.kddl	kddl-gradle-plugin	0.8		0c30b9374ef1c0eeead62148c4a7c7907fb2133a
 com.republicate.kddl	kddl-gradle-plugin	0.9		bd11e3124262fe3e5841b9584b01f0fc4c8c3759
 com.thankjava.toolkitroot	fast-toolkit-root	1.0.3		N/A
@@ -418,6 +419,7 @@ io.ktor	ktor-serialization-kotlinx-cbor-androidnativex86	3.0.3		5b1b866d155c5bb4
 io.ktor	ktor-serialization-kotlinx-cbor-androidnativex86	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-serialization-kotlinx-cbor-androidnativex86	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-serialization-kotlinx-cbor-androidnativex86	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-serialization-kotlinx-cbor-androidnativex86	3.1.3		757091c83620341448204fe54900ba92d9ea1e5e
 io.matthewnelson.kotlin-components	encoding-bom	1.2.2		N/A
 io.matthewnelson.kotlin-components	encoding-bom	1.2.3		N/A
 io.sentry	sentry-kotlin-multiplatform-jvm	0.0.1-alpha.1		97a5e385bb722a34c27d06766290463a92ed206e
@@ -568,6 +570,7 @@ org.apache.beam	beam-runners-direct-java	2.61.0		e117bcf9e6884b61e2cf7ee8fffda4d
 org.apache.beam	beam-runners-direct-java	2.62.0		38819716b576f6fe2b3c00689b8ad3c33b82737f
 org.apache.beam	beam-runners-direct-java	2.63.0		1e4bbff187c6984e7b0350d841afb9e36abe1ad0
 org.apache.beam	beam-runners-direct-java	2.64.0		cd86157e0216cd3546d267bdd8f1f4898f93acee
+org.apache.beam	beam-runners-direct-java	2.65.0		fdd1fb911d5326504919f33e9e6441553eebcc1c
 org.apache.beam	beam-runners-direct-java	2.7.0		185609ca1f76dd444b88d0108f747a3212f3ff49
 org.apache.beam	beam-runners-direct-java	2.8.0		6decb76ce8044f127f60a9030485058bb8ed8947
 org.apache.beam	beam-runners-direct-java	2.9.0		56c7b236158ef78a1613b02f2b26cfbbe21744e6
@@ -661,6 +664,7 @@ org.apereo.cas	cas-server-support-pac4j-saml	7.2.0-RC6		8ad92e7da9163094cbbf2488
 org.apereo.cas	cas-server-support-pac4j-saml	7.2.0-RC6	resources	d32e45201c125b7b347ec29d8aaae23455b79458
 org.apereo.cas	cas-server-support-pac4j-saml	7.2.1		6b0e6b4066dd97a8711fe0df3fb312f10a1fb5b1
 org.apereo.cas	cas-server-support-pac4j-saml	7.2.1	resources	c1724b3f2ef8accbea2fc0284682a8fa7c4ce6d0
+org.apereo.cas	cas-server-support-pac4j-saml	7.2.2		ed0444b8502925f3d5aeaac8c9c72439014f9e43
 org.apereo.cas	cas-server-support-pac4j-saml	7.3.0-RC1		1197b933b7a4392670fafbe420323f98f85b5235
 org.apereo.cas	cas-server-support-pac4j-saml	7.3.0-RC1	resources	944263ab5d8e3cde54f49f646696599cb65df342
 org.eclipse.edc	iam-mock	0.0.1-20230220.patch1		d271d80be51b97a026c16cb569cecaa60a646b79
@@ -1192,6 +1196,9 @@ org.http4k	http4k-testing-approval	6.6.0.0		a9cc986a4a04a2e6306d40ca4c42d9c7bb0f
 org.http4k	http4k-testing-approval	6.6.0.1		2ddd4f7d968c52f2fa4f58afe885a45fe998bd13
 org.http4k	http4k-testing-approval	6.6.1.0		0acbbb2550f28959984494766d223af1abe1a042
 org.http4k	http4k-testing-approval	6.7.0.0		4bba1aeba2a305725db1695dfac725a240cded9d
+org.http4k	http4k-testing-approval	6.8.0.0		45f342b3e9dbd85ba7e00fe52e31fde09509ba33
+org.http4k	http4k-testing-approval	6.8.1.0		cf70e60f652a918104cb94dc451595fd459a22f5
+org.http4k	http4k-testing-approval	6.9.0.0		6828dd095b04b79d1f84c2e9c25ca389ba31a0c5
 org.http4k	http4k-testing-approval	v6.3.0.0		7146821582b0ac414404fca22c9ba2b979b179ca
 org.http4k	http4k-testing-approval	v6.4.1.0		c3f35e6f4201a7724cc14962d0d140cf0569b5cf
 org.http4s	http4s-ember-client_3.0.0-RC1	0.22.0-M4		b559876c2291481b38b07ba963d4575de56e3d54

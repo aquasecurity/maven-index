@@ -223,6 +223,7 @@ com.chinagoods.framework.thinkcloud	think-cloud-starter-repository	4.0.5		126721
 com.chinagoods.framework.thinkcloud	think-cloud-starter-repository	4.1.5		47f1ede7d7235e14893bfcb8718ef62d651ee5f6
 com.chinagoods.framework.thinkcloud	think-cloud-starter-repository	4.2.3		fa4c2d8b94c86b0914806f961f9585c778cd25d2
 com.chinagoods.framework.thinkcloud	think-cloud-starter-repository	4.2.5		71cc8f758dd9e04576953197779d5dcc69d97012
+com.chinagoods.framework.thinkcloud	think-cloud-starter-repository	4.2.6		329734e39d8a0925381f1b7c20b429e956d133c0
 com.cognitect.aws	iotwireless	810.2.817.0		f9f9a6b12487e86d0333e823f1d147492aac69b9
 com.cognitect.aws	iotwireless	811.2.844.0		483bfeee233d18ed6b1ea2980966333b65f37975
 com.cognitect.aws	iotwireless	811.2.858.0		298cb341265faa5c7e135fba15077defeaffda19
@@ -875,6 +876,7 @@ dev.zio	zio-aws-controlcatalog_2.12	7.31.27.1		898c4cbf5207c3442034ec1d5b8ebcaa9
 dev.zio	zio-aws-controlcatalog_2.12	7.31.28.1		d20616bb16c809cf01475d09a3ec5a323f50eb60
 dev.zio	zio-aws-controlcatalog_2.12	7.31.3.1		e144a9b2744f88bf4962bec15971757ce3e0a991
 dev.zio	zio-aws-controlcatalog_2.12	7.31.30.1		9dff1cfa0b30ef6c437717eb180db4516e48b39a
+dev.zio	zio-aws-controlcatalog_2.12	7.31.30.2		4c44660301221401973564213c7979762f77b973
 dev.zio	zio-aws-controlcatalog_2.12	7.31.4.1		b603c824dac0bf82d25e27b2797e45ab1d464153
 dev.zio	zio-aws-controlcatalog_2.12	7.31.6.1		e63e5bf060033070ee2e4116359d8f518170f414
 dev.zio	zio-aws-controlcatalog_2.12	7.31.6.2		6dd5381a2854d7501e50a7093030a0faf7e5e6de
@@ -938,6 +940,9 @@ io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.10		
 io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.11		8cef819cb2dafb68df5c3bbe562ac1d33049024d
 io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.12		1a767bb5cb9545e7d11a8bde8ae4cec4deba5bbb
 io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.13		7ff02349ce437e19b04a61773c8f9b8d65f12295
+io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.14		fcc45445d7060b3f331e8fd7a0ce0f8e3115bd6e
+io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.15		e03fae1ccffea9d2cae0253d3e62794314494a99
+io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.16		70d458d8d0531201842f979a187097787877a230
 io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.2		43db9c6cd683b1dda8f71335ff717b97763e51e1
 io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.3		5bb576b0819c42db3a1fee482897f458506cc45e
 io.americanexpress.synapse	synapse-archetype-service-rest-reactive-post	0.4.4		53186b403c8be8f3b60bd2ca4e7c970b6f5763c2
@@ -1128,6 +1133,8 @@ io.ktor	ktor-client-ios-iosx64	3.1.1		80af5410ac0eccadb87f6774d55a3a2e4f4bc4be
 io.ktor	ktor-client-ios-iosx64	3.1.1	metadata	7e3cd5debf3bf4d8b7f7db101d8daa65e83c6029
 io.ktor	ktor-client-ios-iosx64	3.1.2		01eedc9353d0ea742f05f53a18e5a0b018cf449a
 io.ktor	ktor-client-ios-iosx64	3.1.2	metadata	fe1a40532bdd1f8fe83c932fd8cb021529e76357
+io.ktor	ktor-client-ios-iosx64	3.1.3		6a4965dfa311882be6367c6bc1bdd195d9c2408b
+io.ktor	ktor-client-ios-iosx64	3.1.3	metadata	1df72649299198ef354428fe19c4b2e778f78d8d
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-generativeaiagentruntime	4.3.0		539c8506bebcf283e80f43da9f100db49048cd96
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-generativeaiagentruntime	4.3.1		23e4163d15f54460fd37b73c1b9e5f30f62d238b
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-generativeaiagentruntime	4.3.10		abab74011867d5426e56cbd0b997bcf196e86569
@@ -2030,7 +2037,9 @@ org.wildfly.core	wildfly-deployment-scanner	28.0.0.Beta4		55a48301569e532e51d003
 org.wildfly.core	wildfly-deployment-scanner	28.0.0.Beta5		aac5bb23aec9a9daf32c1212eee17aea534007bf
 org.wildfly.core	wildfly-deployment-scanner	28.0.0.Beta6		4d8cea48d9c93d3887a6adba91a586ff6da8da3c
 org.wildfly.core	wildfly-deployment-scanner	28.0.0.Final		a3b65a5ef5324d8f5aa842d71305a5443891f4a7
+org.wildfly.core	wildfly-deployment-scanner	28.0.1.Final		0ca1d4d63b83d59f8cd2cd4c3e1630cf0fa1ab4c
 org.wildfly.core	wildfly-deployment-scanner	29.0.0.Beta1		67be6d0303201b21e0520b5955b694f3f751e18d
+org.wildfly.core	wildfly-deployment-scanner	29.0.0.Beta2		ac8b006bbac43dc003496face32128e8f49068cd
 org.wildfly.core	wildfly-deployment-scanner	3.0.0.Alpha1		d474608412cf93b00daee7cd7c9ccb854c197ac7
 org.wildfly.core	wildfly-deployment-scanner	3.0.0.Alpha10		1c8d094300ac0efa7260ff696f0a26a59dc0fd87
 org.wildfly.core	wildfly-deployment-scanner	3.0.0.Alpha11		0445773eb365efdff9ea981d50d7145be80516d4

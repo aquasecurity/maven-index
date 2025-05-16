@@ -168,6 +168,9 @@ com.gitee.zodiacstack	zodiac-hystrix-metrics	1.6.7		7c06647940dbcbce64d73f461335
 com.gitee.zodiacstack	zodiac-hystrix-metrics	1.6.8		96d560255494009574adf17d50643c7f451905ad
 com.gitee.zodiacstack	zodiac-hystrix-metrics	1.7.0		c7294c07d384920b82e7a3ebf8c509f48ed3e204
 com.gitee.zodiacstack	zodiac-hystrix-metrics	1.7.1		55eba56aaf84a8c46bd2a3b26f2ba1b069a38d11
+com.github.alexarchambault	coursier-sbt-plugin-java-6_2.10_0.13	1.0.0-M10		afb519ed659720b85ee3b5c913d85467e5179adb
+com.github.alexarchambault	coursier-sbt-plugin-java-6_2.10_0.13	1.0.0-M8		218d3ea3446abeb1890d204440d90bd1b7d49d43
+com.github.alexarchambault	coursier-sbt-plugin-java-6_2.10_0.13	1.0.0-M9		3f58c9b7ded87146148667222d12b10cb27e2624
 com.github.emc-mongoose	mongoose-storage-driver-hdfs	0.1.0		1fdf04315a75dfe6c0477cbb3b39c48f40cb8a1d
 com.github.emc-mongoose	mongoose-storage-driver-hdfs	0.1.1		30112fcb934f1a5cef6a6f92e9b2e528303e57c0
 com.github.emc-mongoose	mongoose-storage-driver-hdfs	0.1.2		30db23562320948e9a80fe8aea873044efb3a3d3
@@ -428,6 +431,7 @@ dev.galasa	dev.galasa.framework.maven.repository	0.38.0		080007eb52d0ca89efe28a1
 dev.galasa	dev.galasa.framework.maven.repository	0.39.0		2871be58e0e7b188102769c5250b43632a640cd2
 dev.galasa	dev.galasa.framework.maven.repository	0.4.0		1eb4b46e737c57a17b56802c51fcb40579db4af0
 dev.galasa	dev.galasa.framework.maven.repository	0.40.0		d7449ba227e302219833ac0f5370ff1cea02293d
+dev.galasa	dev.galasa.framework.maven.repository	0.41.0		a95d4ffc6e1620ace135824c8c5a3406a2c9b36a
 dev.galasa	dev.galasa.framework.maven.repository	0.5.0		7f651a40597fa754f27d7ccb6c968d40d1114b06
 dev.galasa	dev.galasa.framework.maven.repository	0.6.0		69e73426ca7bee5f604a80ae928197493e964fb8
 dev.galasa	dev.galasa.framework.maven.repository	0.7.0		b8ae68b22072ec1d7b8d727dc246687d0ba029f2
@@ -547,6 +551,7 @@ io.automatiko.addons	automatiko-common-persistence	0.41.0		9101f3c14b2d11df8a6ad
 io.automatiko.addons	automatiko-common-persistence	0.42.0		4c03bcf96c4c001d72b50906b866fa68794975ea
 io.automatiko.addons	automatiko-common-persistence	0.42.1		19d277871a597e19b4602512a5a06b295dee046f
 io.automatiko.addons	automatiko-common-persistence	0.42.2		dc94cd279118d9e61046d5669d2ad272cbeb3e20
+io.automatiko.addons	automatiko-common-persistence	0.43.0		71c4b0413c1aec30ae194a6af86d69410effdc42
 io.automatiko.addons	automatiko-common-persistence	0.5.0		65c54c097bf9e7a2d408f67af57ba20bd24e2e67
 io.automatiko.addons	automatiko-common-persistence	0.6.0		d1eda7102a4c052e92f0ffa8812bd9abe3c92a37
 io.automatiko.addons	automatiko-common-persistence	0.7.0		19025b9f5688d56705bf3820e9e19de14bbe30bb
@@ -722,6 +727,8 @@ io.ktor	ktor-server-auth-macosarm64	3.1.1		aa60f95e0dc3ae0a7873f46084abafc29cdde
 io.ktor	ktor-server-auth-macosarm64	3.1.1	metadata	80333c4e1684dc809913ec1cda73a422b0da70a2
 io.ktor	ktor-server-auth-macosarm64	3.1.2		e2b8bb2bee2cc18c1caef5aa99b8e8dcd67603d1
 io.ktor	ktor-server-auth-macosarm64	3.1.2	metadata	f43c03fac60114ca57308613f60c47dfdd463134
+io.ktor	ktor-server-auth-macosarm64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-server-auth-macosarm64	3.1.3	metadata	3054b7e117b80c5dd0af0d9592a57a95dc83adf5
 io.muenchendigital.digiwf	example	0.0.1		dfb2c4892f4a113e33b8d7adc72b59aadb18ce22
 io.muenchendigital.digiwf	example	0.0.2		a957edfc640d05ed0a3aa8d2020b6a18f24ffab9
 io.muenchendigital.digiwf	example	0.0.3		c5a1f2f1d00b2c9cac9b0e8ed3bc13fc554c26db
@@ -821,11 +828,19 @@ io.spinnaker.front50	front50-redis	2.40.0		c7824db142ee02a8374292470176535d5944b
 io.spinnaker.front50	front50-redis	2.41.0		c2890019baff1e2419e27fffa78a160b2b5b0b18
 io.spinnaker.front50	front50-redis	2025.0-0		ab55ad8f25cab9f4f84882b251e99556eb1c8f12
 io.spinnaker.front50	front50-redis	2025.0-1		d023af64652ba9d9d9762608f69005dc80823f28
+io.spinnaker.front50	front50-redis	2025.0-2		d0393e86b3588336d06430320da3de43b56889b4
+io.spinnaker.front50	front50-redis	2025.0-3		74919ca5a41e864a83d245ca22b80f32a123c664
+io.spinnaker.front50	front50-redis	2025.0-4		016289856d5931998f80398bba21f0845f2ecd0f
 io.spinnaker.front50	front50-redis	2025.0.0		fd74b759cd89918b0bb9bdce3412f9e0714b50a1
+io.spinnaker.front50	front50-redis	2025.0.1		bec7f51055206e3b75eef03d33532e483dfbc1e2
+io.spinnaker.front50	front50-redis	main-10		455a4c6ac1c6ce95bc2f21c0c81872ffd27382ed
+io.spinnaker.front50	front50-redis	main-11		fdfd99bf359ff2d3464e1f2bab50d408326ceca8
+io.spinnaker.front50	front50-redis	main-12		edc25aca162278ade1172bbeac619c78e5fc6d42
 io.spinnaker.front50	front50-redis	main-5		52560c65d4aa07bc26a84c4932614d123a853543
 io.spinnaker.front50	front50-redis	main-6		569f54dd3dd43035fbfc666b50a136cbbdbfb188
 io.spinnaker.front50	front50-redis	main-7		2d6112320f476fd4c336130628d402eb5d44b0b8
 io.spinnaker.front50	front50-redis	main-8		ca833e8526b181b165589b955176237c13413c36
+io.spinnaker.front50	front50-redis	main-9		c463fa1f94b2fa047304ba5f66914e6ac8d2e110
 io.spinnaker.front50	front50-redis	version-0.27.1		13a4cb9c4cc84e4cf8ac1730878eb9e1b34eb2e3
 io.taig	taigless-validation-circe_sjs1_2.13	0.10.0		a9e16644a31c57e79a18ffb8719a1acfca7e795d
 io.taig	taigless-validation-circe_sjs1_2.13	0.10.1		65ff7a799e9ea30a6d2aab02a823cb7596c17267
@@ -1129,6 +1144,8 @@ net.folivo	trixnity-core-macosarm64	4.15.0		N/A
 net.folivo	trixnity-core-macosarm64	4.15.0	metadata	e42af803f29dbc7b0cec193dfeb906b372b0ef4f
 net.folivo	trixnity-core-macosarm64	4.15.1		N/A
 net.folivo	trixnity-core-macosarm64	4.15.1	metadata	88f0f2195c83e07f19f073b42a94cead3ba94c07
+net.folivo	trixnity-core-macosarm64	4.15.2	metadata	56d8c420b6ba4d2c64bf59dbc74d9a28278a676e
+net.folivo	trixnity-core-macosarm64	4.15.3	metadata	59f12c0cbb75df0ee108d40d3b0023d3bd15b46c
 net.folivo	trixnity-core-macosarm64	4.2.0		N/A
 net.folivo	trixnity-core-macosarm64	4.2.0	metadata	d6be2b3e69c4ea0e3e384ec071965629e4c99b9c
 net.folivo	trixnity-core-macosarm64	4.2.1		N/A

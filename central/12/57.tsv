@@ -184,6 +184,7 @@ com.slack.circuit	circuit-sharedelements-iosarm64	0.27.0		N/A
 com.slack.circuit	circuit-sharedelements-iosarm64	0.27.0	metadata	19b4ae7a217932b6a6b72e4e8a5fe88f56ede4bb
 com.slack.circuit	circuit-sharedelements-iosarm64	0.27.1		N/A
 com.slack.circuit	circuit-sharedelements-iosarm64	0.27.1	metadata	19b4ae7a217932b6a6b72e4e8a5fe88f56ede4bb
+com.slack.circuit	circuit-sharedelements-iosarm64	0.28.0	metadata	89da1242c3f02a630fa5ef976b43fdd28e832e41
 com.softwaremill.sttp.client	fs2_2.13	2.0.0		31d6ad091abc0f6923a151bd32ec04f4f1584823
 com.softwaremill.sttp.client	fs2_2.13	2.0.0-M10		3536e7fd000ecc63345ba97830c1b0a0a30c9ebc
 com.softwaremill.sttp.client	fs2_2.13	2.0.0-M11		8c6ce6a8ca119fa03f291680f2ac16fad3a2c9b0
@@ -977,6 +978,7 @@ io.quarkus	benchmarks	3.15.2		68ff21e63c2cb1d9321b376301c03ed55df55a48
 io.quarkus	benchmarks	3.15.3		f3a4ce6b525c19409bde6a2b11afdef6da147ac0
 io.quarkus	benchmarks	3.15.3.1		b8e5cf2ccf14c7d8e366af3753a0a0588a5fa936
 io.quarkus	benchmarks	3.15.4		7d2255cd315ae86d4096e00aa70b7482c6f985e0
+io.quarkus	benchmarks	3.15.5		40329394eae06a0dedb16f8cc52d95423a9b81ba
 io.quarkus	benchmarks	3.16.0		77672cc8240b13e955a3b7f1a43680aed2f64d0c
 io.quarkus	benchmarks	3.16.0.CR1		0695135f6c4c54a4d9b6124d4e604ab1dc0b4e2f
 io.quarkus	benchmarks	3.16.1		cf7dd91bb58ba3df7ab48ce3d30fc5439c99a480
@@ -1007,6 +1009,7 @@ io.quarkus	benchmarks	3.19.3		7f2bc4c23f08d3ba77c399aa197debe608f2cd65
 io.quarkus	benchmarks	3.19.4		2e66f479f70ec37290bf35bfbb1894d7324bd775
 io.quarkus	benchmarks	3.20.0		33e72a35ac380ab8ff08659280581833ac045722
 io.quarkus	benchmarks	3.20.0.CR1		b5cd9dc76a72df9ff365112ccb25ae49803ccb03
+io.quarkus	benchmarks	3.20.1		2cc1ee0d0bd29c213f2e6fc39efaa8c83cfe4582
 io.quarkus	benchmarks	3.21.0		8b0bf0ce4f98d6bc384ad285b6430eb528bfe03c
 io.quarkus	benchmarks	3.21.0.CR1		9f5406e4553ee152b4640347046533894811c2ac
 io.quarkus	benchmarks	3.21.1		47fc34a879e58ccc5238c7bb5aed00e079a2180b
@@ -1016,6 +1019,9 @@ io.quarkus	benchmarks	3.21.4		f624ae3d790e6d6be5a4d8f09f9811f5fd5abfd7
 io.quarkus	benchmarks	3.22.0		e48e6f1b3ed44b3bc6ce70ca35ddf33d7e2cfb40
 io.quarkus	benchmarks	3.22.0.CR1		ff7681fbbf93f133bbbebbf056e60fea5058b132
 io.quarkus	benchmarks	3.22.1		367cdbc7b006595042476773ac87b706b0731751
+io.quarkus	benchmarks	3.22.2		a9a9ebeec6aeb220954989da6f92d47a63dca210
+io.quarkus	benchmarks	3.22.3		13a3e4db89cb7db39d3ed4d26d924ad977fb2e4b
+io.quarkus	benchmarks	3.23.0.CR1		bed193b9dfb7bde0b39d66df99686e075a734cc3
 io.sitoolkit.cv	sit-cv-tools-parent	1.0.0		N/A
 io.sitoolkit.cv	sit-cv-tools-parent	1.0.0	jar-with-dependencies	94ddfe34314c47b2058b0da1bd586743ed44dd40
 io.sitoolkit.cv	sit-cv-tools-parent	1.0.0-beta.5		N/A
@@ -1211,6 +1217,8 @@ org.eclipse.jetty.http2	jetty-http2-hpack	12.0.17		237e22e016527e8a97a510d57365a
 org.eclipse.jetty.http2	jetty-http2-hpack	12.0.18		1ab3fe30ef6c77e057963a6f52c2607a318cbec6
 org.eclipse.jetty.http2	jetty-http2-hpack	12.0.19		b8e1620f022665ad2e357acec5568867aea64253
 org.eclipse.jetty.http2	jetty-http2-hpack	12.0.2		f2867e7ba1736d63adea6707e53269e2b96b2f39
+org.eclipse.jetty.http2	jetty-http2-hpack	12.0.20		82df29f5ab471107f225b9e48b45e9c7a86c0de7
+org.eclipse.jetty.http2	jetty-http2-hpack	12.0.21		148c467ecae438d58b90040b548ec58f09da0a34
 org.eclipse.jetty.http2	jetty-http2-hpack	12.0.3		27caf315002168aae4074672832b356f4d836f1a
 org.eclipse.jetty.http2	jetty-http2-hpack	12.0.4		97fd53b504e244bf4511d5aadad4d5182c55eb01
 org.eclipse.jetty.http2	jetty-http2-hpack	12.0.5		951618d54b7ff8bd6f096d5cdef149f22d206581
@@ -1397,10 +1405,12 @@ org.jetbrains.kotlin	kotlin-metadata-jvm	2.1.20-Beta2		830061a2b8e2854f77d450080
 org.jetbrains.kotlin	kotlin-metadata-jvm	2.1.20-RC		9d126191b7636ad865168211b699963aa3c8b63b
 org.jetbrains.kotlin	kotlin-metadata-jvm	2.1.20-RC2		772a5c9d0bcaa95f15df0139b2ae54d612111f99
 org.jetbrains.kotlin	kotlin-metadata-jvm	2.1.20-RC3		56147587ddca3226de3b3616e70cea9cfd8ddad0
+org.jetbrains.kotlin	kotlin-metadata-jvm	2.1.21		ca0b4bdaf8948b7acf45a93a8a67a84c6f583ad4
 org.jetbrains.kotlin	kotlin-metadata-jvm	2.1.21-RC		c1911f2997f73063a66f41d4c02750ab4233e657
 org.jetbrains.kotlin	kotlin-metadata-jvm	2.1.21-RC2		cf9eeece21425941bd0190f85444b2ff934141e8
 org.jetbrains.kotlin	kotlin-metadata-jvm	2.2.0-Beta1		0bea343221b6da3ab2678a12e871cf43d775caa8
 org.jetbrains.kotlin	kotlin-metadata-jvm	2.2.0-Beta2		cd45b9b8c28e91533e5f95614716c51cf5daaa5c
+org.jetbrains.kotlin	kotlin-metadata-jvm	2.2.0-RC		5bfe7fee7eea04cbb79dc3f0b456daf60f378fec
 org.miaixz	lancia	1.5.0		46f982483775e0caee9b87db37296f977ebbd1da
 org.miaixz	lancia	8.0.0		049c8110fe38fa0b48b80cebf962123f987f3a71
 org.miaixz	lancia	8.0.1		f0eb34fc3922d4e16a4e3838053adefc298616b9
@@ -1937,7 +1947,18 @@ software.amazon.awssdk	bedrockruntime	2.31.30		cb6a05000f0001b891f2ff65c552bc4b0
 software.amazon.awssdk	bedrockruntime	2.31.31		1f7e2b216b00dc1f7e92a549a586c1ddd8a8ddef
 software.amazon.awssdk	bedrockruntime	2.31.32		4ab8e769dfc70c589424f64e5658ede098e10830
 software.amazon.awssdk	bedrockruntime	2.31.33		922b7feaa5bb093d825b57a21c7074a48ab2275b
+software.amazon.awssdk	bedrockruntime	2.31.34		1d6315a7af4a7dcd318eab5c4ff3e71196840113
+software.amazon.awssdk	bedrockruntime	2.31.35		a6e97c310ed7b29303f7841805bc19a7c12819e1
+software.amazon.awssdk	bedrockruntime	2.31.36		2950a58cdd4fa50461ccf9eeab871725217ec35a
+software.amazon.awssdk	bedrockruntime	2.31.37		60604da023734c752524e1d3fb97ac52fbbda0eb
+software.amazon.awssdk	bedrockruntime	2.31.38		96b270e317fa3898f5b9d4a0088ef5d45c983654
+software.amazon.awssdk	bedrockruntime	2.31.39		c16ccde60f8bed72a187e199ca4af6460d71e1a2
 software.amazon.awssdk	bedrockruntime	2.31.4		62b041f1b3666b7a5d1f58dfd93323a800177b49
+software.amazon.awssdk	bedrockruntime	2.31.40		f6b392a99730a2135604ed17afe30acd79915aa5
+software.amazon.awssdk	bedrockruntime	2.31.41		ce8ec70ddae87fbaee4b4a0da9639cc5f31bc338
+software.amazon.awssdk	bedrockruntime	2.31.42		bc55c22746429de5aa520f33ec2fe862de75708f
+software.amazon.awssdk	bedrockruntime	2.31.43		1fbaf9631e529d84be2fcf1db11b1b6900c72b60
+software.amazon.awssdk	bedrockruntime	2.31.44		eca0d1ae5d68bef913f9b3d78a15d6f6c1db0e22
 software.amazon.awssdk	bedrockruntime	2.31.5		7baa985bbe2d7faf84ec7a836aea65fa642397ec
 software.amazon.awssdk	bedrockruntime	2.31.6		40ad84c139405d688512a0e3b6def9bd0db33815
 software.amazon.awssdk	bedrockruntime	2.31.7		e0f341d520c82c64221d4e8a2bbb4bfdbe330e4e

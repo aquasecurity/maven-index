@@ -520,6 +520,8 @@ com.google.apis	google-api-services-chat	v1-rev20250313-2.0.0		e09f85d0fbb5e46fc
 com.google.apis	google-api-services-chat	v1-rev20250316-2.0.0		84dd34ff3bc842fe378a6b89bb8dfc964b66b41e
 com.google.apis	google-api-services-chat	v1-rev20250417-2.0.0		c285c7de95e4102115ca6d957b513fbfc562e5b7
 com.google.apis	google-api-services-chat	v1-rev20250427-2.0.0		6ee3a19a1da32f6736d50e7427e41fc1b15fe800
+com.google.apis	google-api-services-chat	v1-rev20250501-2.0.0		2d001d7d47d02e21975ece92550be8ea95389cae
+com.google.apis	google-api-services-chat	v1-rev20250508-2.0.0		2cbd6d79bf43e5011ce5950e219367d5f0b921bf
 com.google.apis	google-api-services-chat	v1-rev21-1.18.0-rc		55b3b8786bc04a1a8eee272597e5d8c8954e9a93
 com.google.apis	google-api-services-chat	v1-rev21-1.21.0		3825b0025bbce3b94701979e8b5a5d31c9b76022
 com.google.apis	google-api-services-chat	v1-rev21-1.22.0		224eca1d4ad0a093a368e056aeec4aa1f6f68ae7
@@ -1565,6 +1567,7 @@ org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.38.0.M1		c4f65589c42ec667b37c1
 org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.38.0.M2		8b34b4c16b2884b047134fbaa6ffec4c22fb6e3f
 org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.38.0.M3		3c34f432a07197aac51f5118725dc967438067bc
 org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.39.0.M1		71c9fb860e3ead26115e0dd0973c423da8bc3b1f
+org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.39.0.M2		b3eeb1c69c69e236febcc58a5a828e02c146af7f
 org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.9.0		86062b9173bf3f048b574f148a886e0f3b5932a4
 org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.9.0.beta1		c4963aac71e48093b695b29ce356c929a299c722
 org.eclipse.xtext	org.eclipse.xtext.web.servlet	2.9.0.beta2		eb6186de9ed799306af104fed8246a3a6f1bb8c9
@@ -1858,6 +1861,8 @@ org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	55.3.0		e1ecb25416dcfab5a
 org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	56.0.0		500fed11f0cec5f0dc42e1e842ba1ac055e7b758
 org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	56.1.0		8ad6921a36eacf61ec4b90dee6f2c2d8ee7cfea1
 org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	57.0.0		6fcdd4c8c76234334ad5369aa3eb159c08896cc5
+org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	58.0.0		07ea5f4357ed8db13e89b3e4a9876ba8fa99323d
+org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	58.0.1		ee939cd0e227d7d63863612f841f3ad9f608ee8b
 org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	6.0.0		efc2160a2797ad68be75cee139aba965bcc1dc99
 org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	6.1.0		e5cd3933029dbe9a63fa12dad107d60c190444a7
 org.ossreviewtoolkit.plugins.scanners	boyterlc-scanner	6.1.1		d9ed54dd61fe38705b2945f26d2cbfa3ba1559da
@@ -2342,7 +2347,18 @@ software.amazon.awssdk	identity-spi	2.31.30		8d2c7176a82dd06424aee3273a275728a74
 software.amazon.awssdk	identity-spi	2.31.31		fa2432a7bca7161992f5397126d66eae2f5a0a46
 software.amazon.awssdk	identity-spi	2.31.32		2653c560e2fe8e2ffbc9d859be5a1428346f500c
 software.amazon.awssdk	identity-spi	2.31.33		2dc7267e755664f5162b58d5f2bf51a7e7edbd2e
+software.amazon.awssdk	identity-spi	2.31.34		cb44f7cfa05f8320f7880c5bb2e0f414f0f08e02
+software.amazon.awssdk	identity-spi	2.31.35		0f09400ebc3189e1101e6ec91184b56130820845
+software.amazon.awssdk	identity-spi	2.31.36		b44ca6db195ca272407c33d26b5d418945969ccd
+software.amazon.awssdk	identity-spi	2.31.37		47435f5226244a15e111647ffb5691167e657af0
+software.amazon.awssdk	identity-spi	2.31.38		bb690748624127b821fcc99e2a8a6d4bc76efad4
+software.amazon.awssdk	identity-spi	2.31.39		44c2aad8a5cd0683a368d3958ca19cd6d0194842
 software.amazon.awssdk	identity-spi	2.31.4		7c89533b34ce045cf3ab9aa8903f6b7c798a104a
+software.amazon.awssdk	identity-spi	2.31.40		a28cee109c7600b4f4057b46a659cc2049960ab0
+software.amazon.awssdk	identity-spi	2.31.41		3ba2fd3bc51e3b284fa3fe29a26dbd5b4666ed28
+software.amazon.awssdk	identity-spi	2.31.42		614ccf20721c558800623d7418b7397fb0fe1a0c
+software.amazon.awssdk	identity-spi	2.31.43		812e01b56a5679403478b4e6417d6f819be866b1
+software.amazon.awssdk	identity-spi	2.31.44		d0dfcd1eb64fca60b53812a70967b46d95cdf803
 software.amazon.awssdk	identity-spi	2.31.5		c56b823100c17142df77576ceff410d32f885195
 software.amazon.awssdk	identity-spi	2.31.6		eeb3bf5fed4ba0f18ecfa19a588526fd7f1c76cf
 software.amazon.awssdk	identity-spi	2.31.7		3dd52b1aeac61cce3c18cd4338111118235fe615
@@ -2352,6 +2368,10 @@ tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.0.14		N/A
 tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.0.14	metadata	14950f3e8bea664fb7ab9a8f9bd8045f93deff7b
 tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.0.15		N/A
 tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.0.15	metadata	46ee6374c34782a00d27183a778cccac43d00316
+tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.1.0	metadata	145586466dcd50fa38a7b7e5a895f4ab7b7c7355
+tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.1.1	metadata	6dc67ef72ad4c1a63f3a4e19efcad308928392b0
+tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.1.11	metadata	8151a6cc1b47a9a398d9bb6cb9e383b99482a655
+tz.co.asoft	raven-email-agent-postmark-watchosarm32	3.1.12	metadata	66b382a41b44781e8c0c04897c044de4e82d6e95
 xyz.block	tbdex-httpclient	0.10.0-beta		1543789b72da9c77a52f617de7ba366388474b37
 xyz.block	tbdex-httpclient	0.11.0-beta		e14f4bf3ede4ba102843da4653085f2d0293d073
 xyz.block	tbdex-httpclient	0.12.0-beta		1823d459e92f84db804f2c0a43efd77fbcf93f5b

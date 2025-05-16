@@ -69,6 +69,11 @@ com.disneystreaming	weaver-scalacheck_native0.4_3	0.8.1		fea3efaacc22da4d34a8786
 com.disneystreaming	weaver-scalacheck_native0.4_3	0.8.2		9d84a17706fa7d801a7b18e6891492155753f876
 com.disneystreaming	weaver-scalacheck_native0.4_3	0.8.3		64d290f70d649597e67200507231f95c3b073912
 com.disneystreaming	weaver-scalacheck_native0.4_3	0.8.4		80c5a44041b8ba60dbac6ca5f68a21720481d3f8
+com.drivetribe	sbt-orchestra_2.12_1.0	0.1		8d7cce70a779eb2bb1e061e1d3b7f0adff93f462
+com.drivetribe	sbt-orchestra_2.12_1.0	0.4		ab4614e3ff07f2e788bc6748f35ef6151a60a330
+com.drivetribe	sbt-orchestra_2.12_1.0	0.5		2cbb7fd43f8803e1a1f08555fc953f92a2c99359
+com.drivetribe	sbt-orchestra_2.12_1.0	0.6		1025229b1b53e0d03c66a135464e21164369caed
+com.drivetribe	sbt-orchestra_2.12_1.0	0.7		2571c294d7f66102f12e346f95479c4f1acf0e2a
 com.duvalhub	duvalhub-starter-parent	1.0.11		N/A
 com.duvalhub	duvalhub-starter-parent	1.1.1		N/A
 com.duvalhub	duvalhub-starter-parent	2.0.0		N/A
@@ -544,6 +549,7 @@ io.deephaven	deephaven-engine-tuple	0.37.5		78ee7c4fe917437b2002ab806cc9f84af762
 io.deephaven	deephaven-engine-tuple	0.37.6		75c55b25b542b76e03a36fcea70fc87958e0526d
 io.deephaven	deephaven-engine-tuple	0.38.0		5ca983f1097be1562ec54200bac36b4eea991988
 io.deephaven	deephaven-engine-tuple	0.39.0		ebbd94123ecd483c782dd91917b3c3991d11d274
+io.deephaven	deephaven-engine-tuple	0.39.1		ef86ae02b1d5c17f52b77b9c3551ef43efa9758f
 io.frees	frees-todolist-lib_2.11	0.8.1		e3edb73b5948e9c70663016c0626b7340105ead6
 io.frees	frees-todolist-lib_2.11	0.8.2		e2fc3c66c6517e6641bb0ed7bfc4344e57e1616f
 io.getnelson.helm	core_2.12	5.0.10		a1d3369351b21a75cc1085660779d7df7c07506b
@@ -898,6 +904,8 @@ io.stargate	sgv2-quarkus-common	2.0.29		04e8b3ec9188713fad26db7a4b8c65482aa07fcc
 io.stargate	sgv2-quarkus-common	2.0.3		16052a7c6ed31da8bcbba3bcfa9cbabfd7ed7d7a
 io.stargate	sgv2-quarkus-common	2.0.30		24610d4b768767cb981d3752d70e28d648868780
 io.stargate	sgv2-quarkus-common	2.0.31		ccf1cf190c474a82519e3b62d8d0805f05047e9e
+io.stargate	sgv2-quarkus-common	2.0.32		9e56a03408894e38a13a6a2e1f772a755eb0370b
+io.stargate	sgv2-quarkus-common	2.0.33		81e996802c3efda5d5e9a5b1864dd8714d82c2c5
 io.stargate	sgv2-quarkus-common	2.0.4		1dcdd14fe74f9d7a8c63477b155174d2460b17f5
 io.stargate	sgv2-quarkus-common	2.0.5		20f98d6e48e586f6815f7ea2d2f90d91b767fbb5
 io.stargate	sgv2-quarkus-common	2.0.6		0e4c6c4e6eed5ddae31cf3d87071dc7ddbd0b158
@@ -931,6 +939,7 @@ io.stargate	sgv2-quarkus-common	2.1.0-BETA-21		12e143a6375ef0d623bab536094e257d8
 io.stargate	sgv2-quarkus-common	2.1.0-BETA-22		79bf79d64ccca79676e0db8cb0d33d018ce79ddf
 io.stargate	sgv2-quarkus-common	2.1.0-BETA-23		3b9082910d95406731ffe15e474bee676898f1ac
 io.stargate	sgv2-quarkus-common	2.1.0-BETA-24		7ad13fc1d21a1452465801de9dc57fe56c0cfd3c
+io.stargate	sgv2-quarkus-common	2.1.0-BETA-25		03a4a70284c1d845a9f5aa683d0b71ec03f89e99
 io.stargate	sgv2-quarkus-common	2.1.0-BETA-3		dd1cf529af42794fa074dc10ae14f29564327234
 io.stargate	sgv2-quarkus-common	2.1.0-BETA-4		0a50f178059e25a1546f1b5710ac6a413bad8c22
 io.stargate	sgv2-quarkus-common	2.1.0-BETA-5		a0ae7501fe96348a79671380c2a6c650989d6e2b
@@ -1164,6 +1173,19 @@ org.eclipse.dirigible	dirigible-components-engine-wiki	11.41.1		bb2642d3beb7bb74
 org.eclipse.dirigible	dirigible-components-engine-wiki	11.42.0		217cc4684f3a99f65d9760ea3eee6f556c785910
 org.eclipse.dirigible	dirigible-components-engine-wiki	11.43.0		00ad238cf63199ddfb9fab412088bb097812da89
 org.eclipse.dirigible	dirigible-components-engine-wiki	11.44.0		73fc901547300e79c995f0508a9890fb1476ba09
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.0		7051f7d6d88c687d0703472bfc023b1d222aa8de
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.1		a564d83a8681fd9f7e45d031ea7eb5e1dd595d9a
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.10		5c4bbceda993bb0db0692acdc2c1b1ad07750262
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.11		71a51b9f08cc15434bdfecf41d20dfc0e6ba63bf
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.12		7891d3ac215db60e07024d0ae673fd06a1b3d079
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.13		c34bbb01360f2756d49f627b19528f05a61cd426
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.3		55e5b1d37d7cc4d8f35d1c3d3fb4d11c0f5ce823
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.4		5ddbdefbca826e46b0cf3609237142f3fce04f44
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.5		05a7ecddf2392fc9658600681ebe5ab9e1f2b7e5
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.6		7adf75132c718555fe7de0cd7be6df984574964f
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.7		3776d925994276c9cf4b71fa05c662114cd150f9
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.8		1c6ab046b4c0d7c790af2da1de6502dd0f308ef1
+org.eclipse.dirigible	dirigible-components-engine-wiki	11.45.9		26e3c544f268d011fedb51f512f3dd9d15053bdd
 org.eclipse.dirigible	dirigible-components-engine-wiki	11.5.0		d86c70ee23cdf452b402c90e529db4f6a2b82276
 org.eclipse.dirigible	dirigible-components-engine-wiki	11.6.0		b0cb08b0a083a8b123c2fbd91c83ca590215ca9b
 org.eclipse.dirigible	dirigible-components-engine-wiki	11.6.1		28c00ad1c7346e8879125a7e7dc77d8d3dfe25c8
@@ -1744,6 +1766,7 @@ org.zalando	opentracing-spring-web-extension-starter	4.2.1		5b4807a73e2fda2d9f5c
 org.zalando	opentracing-spring-web-extension-starter	4.2.2		71dfad8fb07d620785adb0ec7b1a8f793890ada0
 org.zalando	opentracing-spring-web-extension-starter	4.2.3		b64cc8d2996484eb3844c98d3e36f86a50a0e052
 org.zalando	opentracing-spring-web-extension-starter	4.2.4		e282ad43510d0552ad9bced7bc5568d4470f2387
+pro.shuangxi.framework.openfx	loader-ui	1.0.0		79e07ac7b2e1254fd4289eeef213da25e13f6d20
 ru.i-novus.ms.rdm.sync	rdm-sync-admin-api	1.10.0		40a08a3b4e5aeaf4c130ad1895941e5a9304dbbf
 ru.i-novus.ms.rdm.sync	rdm-sync-admin-api	1.11.0		495e13212e59711e6a549101ac9e568ad2fae990
 ru.i-novus.ms.rdm.sync	rdm-sync-admin-api	1.12.0		4d96ad83cc6de9ed69d7537eeee3b612141b7f4f
@@ -1850,6 +1873,7 @@ tech.ydb.yoj	yoj-aspect	2.6.12		b8f4ae1eb94107e638da4baad69ad58d0358651c
 tech.ydb.yoj	yoj-aspect	2.6.13		b6c6c19976a09b44ae1f58c1181d9263ed156904
 tech.ydb.yoj	yoj-aspect	2.6.14		123544aade4530d1c51aa29b96d394b2fbf54655
 tech.ydb.yoj	yoj-aspect	2.6.15		20f2a518ee0fdb6d99a7c6080155f8964d3453f5
+tech.ydb.yoj	yoj-aspect	2.6.16		6ba93fed9060145446008652e2f19bd115148a83
 tech.ydb.yoj	yoj-aspect	2.6.2		0c5113514c814ac3c99908dc3fc2a79c18456266
 tech.ydb.yoj	yoj-aspect	2.6.3		4b164f713c944841f862cab280529475d0133307
 tech.ydb.yoj	yoj-aspect	2.6.4		9d9849962c64c0304f7ee14431162690277e648c

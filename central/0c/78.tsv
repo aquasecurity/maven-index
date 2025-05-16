@@ -397,7 +397,15 @@ dev.jeka	kotlin-plugin	0.11.21		61c36f496dec8c232346671a516d2c7794d2efd0
 dev.jeka	kotlin-plugin	0.11.22		083467ab6e874c1b4eba152154c394170fd8fd3c
 dev.jeka	kotlin-plugin	0.11.23		74429d300c094d90449cab074b025a9b7aa3eb7a
 dev.jeka	kotlin-plugin	0.11.24		bd77504a74b79369736ba2b43ab56a2fd824ae7f
+dev.jeka	kotlin-plugin	0.11.25		ea9e24ef975895e0c3778ff7796a576d8abb9f4f
+dev.jeka	kotlin-plugin	0.11.26		e3114f0955bbe67a0aa14e90419d4900df0d1c3d
+dev.jeka	kotlin-plugin	0.11.27		914e4133f72d94edf4fb09780eb6f1152459df45
+dev.jeka	kotlin-plugin	0.11.28		e2203d9484b7e092673a343ef698ae9cf684a8ac
+dev.jeka	kotlin-plugin	0.11.29		b88a3e8283a0203277ec647cc221d92a3f0d2d75
 dev.jeka	kotlin-plugin	0.11.3		526adf1db0b215a23ea8ce1e119e5810005d6589
+dev.jeka	kotlin-plugin	0.11.30		569656abbd8b56ce05a98271e455bfee1f66c568
+dev.jeka	kotlin-plugin	0.11.31		b4be68fabd73fe84a0f5c04cb4b2a905b7b2b171
+dev.jeka	kotlin-plugin	0.11.32		05d03393b5fac2b5e38551270642e1ed02fcd36f
 dev.jeka	kotlin-plugin	0.11.4		46dd22b022c3da4999fae6a82f2919fad06bbcfc
 dev.jeka	kotlin-plugin	0.11.5		d6115470f87cbea65d7ab15419816b6e6453e942
 dev.jeka	kotlin-plugin	0.11.6		625b2e17f3f3fff6478ffffb05c2b877c44414b6
@@ -1147,6 +1155,7 @@ io.quarkus	quarkus-rest-client-deployment	3.15.2		9bfc6220320112d85968c8b4a77ac6
 io.quarkus	quarkus-rest-client-deployment	3.15.3		962249cfac1ea592b90d09e5a39ee630306100ac
 io.quarkus	quarkus-rest-client-deployment	3.15.3.1		f6612128e89dd4a355a8ccb87019e01bf41fcd08
 io.quarkus	quarkus-rest-client-deployment	3.15.4		b49c46eead535cdec064937a69d6a9284a224496
+io.quarkus	quarkus-rest-client-deployment	3.15.5		f3fc78283e8ae0d9f9aee8eea0984a8a7f47c99d
 io.quarkus	quarkus-rest-client-deployment	3.16.0		bf21c3b2429705b94cfa67307c73ddbfb5e7b721
 io.quarkus	quarkus-rest-client-deployment	3.16.0.CR1		2391f6aa14a9cf3d12033cc6df2e6e61a39f7297
 io.quarkus	quarkus-rest-client-deployment	3.16.1		03a8bfc8b8fbe22838a8fa6d491704161df1eac9
@@ -1191,6 +1200,7 @@ io.quarkus	quarkus-rest-client-deployment	3.2.8.Final		14f0782ec0f74b38a6c336855
 io.quarkus	quarkus-rest-client-deployment	3.2.9.Final		c75d5ed8c922346839be0a2722f5e0badc520cd2
 io.quarkus	quarkus-rest-client-deployment	3.20.0		2dc807566d564325ac2d0bbf4d2430a5c99adf78
 io.quarkus	quarkus-rest-client-deployment	3.20.0.CR1		ad441c3f240613bf712821c10013774fdc47fc2d
+io.quarkus	quarkus-rest-client-deployment	3.20.1		9e6f544c3eab6c64a09497c0ce74a9bb136e8534
 io.quarkus	quarkus-rest-client-deployment	3.21.0		a3bca1ab4e1d8afe918591e63abc0ec1d523a274
 io.quarkus	quarkus-rest-client-deployment	3.21.0.CR1		40e6763541c44c03f107014e837410908c92d9d4
 io.quarkus	quarkus-rest-client-deployment	3.21.1		4cacd606c882080f5fafb04acca2469db09aeb48
@@ -1200,6 +1210,9 @@ io.quarkus	quarkus-rest-client-deployment	3.21.4		8b39583589a73b8c02d2319e2ed12b
 io.quarkus	quarkus-rest-client-deployment	3.22.0		2458ffc8dbc0efce3cbf3b942bb27581d9ab9c9d
 io.quarkus	quarkus-rest-client-deployment	3.22.0.CR1		2b2ad4124acf8e8feabac5d00c115045fcc67285
 io.quarkus	quarkus-rest-client-deployment	3.22.1		a9ceeec7dd2f73e83c50208ea459da959c62d26a
+io.quarkus	quarkus-rest-client-deployment	3.22.2		3e4aa39e029cdb6524ee09fd068e1e7a87f40f21
+io.quarkus	quarkus-rest-client-deployment	3.22.3		b4fffd1229fb25839221d652f661023269f6d8f9
+io.quarkus	quarkus-rest-client-deployment	3.23.0.CR1		4d8b4cfb2450e8e1d1d91119966af2ddce4f620e
 io.quarkus	quarkus-rest-client-deployment	3.3.0		c43747bfda61af6cbbe264bd8934cbf5068d80ad
 io.quarkus	quarkus-rest-client-deployment	3.3.0.CR1		a34a1efc4ca9cf884bb3d4ba59b124b5f1a1828f
 io.quarkus	quarkus-rest-client-deployment	3.3.1		0ded3ab5dada14c58be6f7a7716abc89b7ace2ca
@@ -1496,6 +1509,7 @@ org.apache.camel	camel-cm-sms	4.8.3		7d71ead04a3168fc332fabcf56c65f78a176351f
 org.apache.camel	camel-cm-sms	4.8.4		9320ddbecbf64ff3e184687ab8f9a13777b25b8b
 org.apache.camel	camel-cm-sms	4.8.5		b6490ced1207f182be17788eeac71de79058816c
 org.apache.camel	camel-cm-sms	4.8.6		96c01f7670f65df0af3886729d0fd80a6e44bc24
+org.apache.camel	camel-cm-sms	4.8.7		4ba710c58e350fda2c4536f03bb48316cef27930
 org.apache.camel	camel-cm-sms	4.9.0		d608ec8da0c269b76b7bd9e83661a56aacfb25fc
 org.apache.camel.quarkus	camel-quarkus-nagios-integration-test	1.1.0		78bbcee34b1e59b79c4ae6eaee1a0b6cdd27f495
 org.apache.camel.quarkus	camel-quarkus-nagios-integration-test	1.2.0		b140d1d95101d58477bde4fbd1b1ab6bea25edaf

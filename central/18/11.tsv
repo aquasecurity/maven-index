@@ -390,6 +390,8 @@ com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.60.0		539967d0b247c6
 com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.61.0		d03ef11ce93e29f14d55d96c3381572992c7fa98
 com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.62.0		f3af01262aa7d7fc727aac93f4238732ea81bbaa
 com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.63.0		4c244eac00eed467783be49fdebd2981d5accd93
+com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.64.0		cf81b636475f496a43710ee798442b0168fa5d87
+com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.65.0		d291f14e27caa18cd7a7d35da338240f55fcf560
 com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.7.0		f8f97d1201c5dd5f05b212b298cc51143df9d79f
 com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.8.0		da3a0a2cdf4de78b804aabb9dcb5bed30d252a8c
 com.google.api.grpc	proto-google-cloud-resourcemanager-v3	1.9.0		9b5b325ab5fa2bd0f122edaffc6a956d72d1ddad
@@ -1016,6 +1018,12 @@ hu.bme.mit.theta	theta-solver-smtlib-cli	6.13.0		4618f89f3e8f54512ee0cfec092e5ed
 hu.bme.mit.theta	theta-solver-smtlib-cli	6.13.0	all	a245a121a2b1a9bba0f5b269e34f461a8deb5b84
 hu.bme.mit.theta	theta-solver-smtlib-cli	6.13.1		f8d417481868b15f22d3bbdb6ee1cdba8e930934
 hu.bme.mit.theta	theta-solver-smtlib-cli	6.13.1	all	e2aa005b862678e093bb4348ff0853830ff97ed0
+hu.bme.mit.theta	theta-solver-smtlib-cli	6.13.2		c44d708354f68149a5eff373aa88246ea62faaf5
+hu.bme.mit.theta	theta-solver-smtlib-cli	6.13.2	all	43fd34f33ae60f8b31c585edb8e4afe81a4a206b
+hu.bme.mit.theta	theta-solver-smtlib-cli	6.14.0		9a214579fee3e5f06261627941e90e0da5688e08
+hu.bme.mit.theta	theta-solver-smtlib-cli	6.14.0	all	6015fc2a076de7883a9991ad2299dad6ad57c12d
+hu.bme.mit.theta	theta-solver-smtlib-cli	6.14.1		036e5f8b9d5ba3d06c56e8150cf3d49d68e24487
+hu.bme.mit.theta	theta-solver-smtlib-cli	6.14.1	all	9a8745d3bd36b11874ea96f0757f302c46869129
 hu.bme.mit.theta	theta-solver-smtlib-cli	6.2.0		7f14aa04f9d760e61f4edbfe83ac77000c0c35be
 hu.bme.mit.theta	theta-solver-smtlib-cli	6.2.0	all	3b0a0e4a71bee35a5c1ac4c7dde57572e368ab33
 hu.bme.mit.theta	theta-solver-smtlib-cli	6.3.3		0eed1bf24e8f0d55472b728118f8f10bf955209a
@@ -1627,6 +1635,7 @@ org.apache.camel.archetypes	camel-archetype-component	4.8.3		2fccb66dbaf73073fe3
 org.apache.camel.archetypes	camel-archetype-component	4.8.4		f5e7f523179cf5200d2990f8e0672e0306675a81
 org.apache.camel.archetypes	camel-archetype-component	4.8.5		fe4686558888b96772ac6fef0a9597e6a8476eac
 org.apache.camel.archetypes	camel-archetype-component	4.8.6		394961322609d7ae19567aba82f7f6b414a1aa55
+org.apache.camel.archetypes	camel-archetype-component	4.8.7		c698f784557b5baaaf36a2d7077119ae34c570c7
 org.apache.camel.archetypes	camel-archetype-component	4.9.0		ab7cdf5febb0cef654667c500b8e86dd0ce5f9cc
 org.apache.directory.studio	ldifeditor.help	1.3.0.v20081014		4992a697cccb4fc8517a3000a59d8754c8f628b7
 org.apache.directory.studio	ldifeditor.help	1.3.0.v20081020		bfd688602cf3eaf8782243ec4b7803ffb03a47ef
@@ -1679,6 +1688,8 @@ org.dkpro.jwpl	dkpro-jwpl-deps	2.0.0		N/A
 org.eclipse.jetty	jetty-alpn-bouncycastle-client	12.0.17		1c4aa23e7155c8b0f24dff3d2ebaacb364381208
 org.eclipse.jetty	jetty-alpn-bouncycastle-client	12.0.18		6414f0162ac0407b75d1727a0bf7d83d95a9e651
 org.eclipse.jetty	jetty-alpn-bouncycastle-client	12.0.19		4c07aa3d35e53b1501c542567ca4f52aebf6781d
+org.eclipse.jetty	jetty-alpn-bouncycastle-client	12.0.20		ce910276a909b205cab957c68bc3622be02c1720
+org.eclipse.jetty	jetty-alpn-bouncycastle-client	12.0.21		4aa9366b868fbf34a250028d4ad97587d7789cae
 org.eclipse.jetty	jetty-alpn-bouncycastle-client	12.1.0.alpha2		08c57ec065b7b5c3e21c9d77ad3cff9cd853d51c
 org.jboss.windup.decompiler.procyon	windup-procyon-reflection	1.0.0.20160510		e59cfa6adada0fc8f223e9fe4910b7bf140ed7f0
 org.jboss.windup.rules.apps	windup-rules-java-project-parent	2.2.0.Final		N/A
@@ -1843,6 +1854,7 @@ org.ryoframework.core	ryo-domain	1.0.9		6f7d04d8d1c27ea8b77d3307a64249ac23925ca2
 org.ryoframework.core	ryo-domain	1.2.0		63e2815bacd8e46cc7239892ac22c7eaf8a9f5e5
 org.springframework.ai	spring-ai-autoconfigure-model-transformers	1.0.0-M7		2f376abca62a8d099fca20dba8f466833fc010ed
 org.springframework.ai	spring-ai-autoconfigure-model-transformers	1.0.0-M8		50e25512b3d8783c21d27dc281f14f77982c73f0
+org.springframework.ai	spring-ai-autoconfigure-model-transformers	1.0.0-RC1		869987c94607d74a5259bd7cb412d3d75104b8cb
 org.ufoss.kotysa	kotysa-r2dbc-jvm	3.0.0		e27a676f4d1cbb2a514d1b036fb79eb1ede022ae
 org.ufoss.kotysa	kotysa-r2dbc-jvm	3.0.1		e27a676f4d1cbb2a514d1b036fb79eb1ede022ae
 org.ufoss.kotysa	kotysa-r2dbc-jvm	3.0.2		09373cf25a93f393027b58a0a24b4a58704d6953
@@ -1902,6 +1914,10 @@ tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.0.8		N/A
 tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.0.8	metadata	8d052ae44e26825a392616d94c5b852d527e145e
 tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.0.9		N/A
 tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.0.9	metadata	bcb5e087b856d22e12e845d8a7060f6dd1330dfc
+tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.1.0	metadata	b5ef798dedffcfa49b891d07de9fa1769900f784
+tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.1.1	metadata	0c29429133eb0bb1a1ef8858d20f0d9e367ab56e
+tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.1.11	metadata	7df502b5c6b08d1cacab5058289575c2a18bb9c7
+tz.co.asoft	kotlinx-interoperable-exports-tvosx64	3.1.12	metadata	2a5992c008c893b70be7f390f5383220503ccff7
 tz.co.asoft	persist-keyvalue-core-metadata	0.2.0		15c13194564ec4652dece6a0bea0e86609333a66
 tz.co.asoft	persist-keyvalue-core-metadata	0.2.10		e38a9a6b9164d709999b84c34afce705463599b5
 work.socialhub.kbsky	core-iosarm64	0.0.1		N/A

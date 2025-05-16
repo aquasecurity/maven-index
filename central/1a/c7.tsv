@@ -467,6 +467,8 @@ io.camunda	camunda-exporter	8.6.12-rc1		00fd17eddedde78f753a5cedb07cf35acd8f7774
 io.camunda	camunda-exporter	8.6.13		45e40aa505cd78a31029f4c34fea316589a59bf3
 io.camunda	camunda-exporter	8.6.14		353a670c17af0405082afb491716daafb00e5db0
 io.camunda	camunda-exporter	8.6.14-rc1		cec4a5590a6b86a78f2446d2240fa4cb41bfbeab
+io.camunda	camunda-exporter	8.6.15		e7114649f6c5c46f8d8280f3c20288d2c7bca1c2
+io.camunda	camunda-exporter	8.6.15-rc1		8a06ab6d6c844f7f38634a98c17834841ea6a56f
 io.camunda	camunda-exporter	8.6.2		c75731a3f3d2b7b3e41c6e1f9a0026470441337b
 io.camunda	camunda-exporter	8.6.3		7f98e2ec7b56abd828606b6f1997ef59e88a0a79
 io.camunda	camunda-exporter	8.6.4		4f4ac1b86c45cc9df4fc792dacafb9aafc235ab0
@@ -502,12 +504,15 @@ io.camunda	camunda-exporter	8.7.0-alpha5-rc1		0ccedb856eac55a0b948d6b8f3e104596e
 io.camunda	camunda-exporter	8.7.0-rc3		d0c99a6a4e7b37c0128952b1a919d8d1cbc56974
 io.camunda	camunda-exporter	8.7.1		8eae19664ea4aa3fdcbd19a54e99edc932acc6f3
 io.camunda	camunda-exporter	8.7.1-rc1		bb3dbf0a9d3f3db373b6b4fcf84ee7ea2ed67265
+io.camunda	camunda-exporter	8.7.2		c4c27a8cfc1c63a6355cf18973d451449ce79904
+io.camunda	camunda-exporter	8.7.2-rc1		66f4a5f9d25c4105d6ea8bc330990b40fe833eb4
 io.camunda	camunda-exporter	8.8.0-alpha1		7deb150df4c08dae1d9c395f8e69925313ffb2fc
 io.camunda	camunda-exporter	8.8.0-alpha1-rc1		6785c31e22b3555a6b8fdd09b8fc06a69aedab49
 io.camunda	camunda-exporter	8.8.0-alpha2		3c1528603e87228905de2dc55afcf5625cccf90c
 io.camunda	camunda-exporter	8.8.0-alpha2-rc1		a46632b95ebc1f587205d919629a5534a7e4d7f8
 io.camunda	camunda-exporter	8.8.0-alpha3		532b83c2a215a0bfe6238e4cd7593e5725c25fea
 io.camunda	camunda-exporter	8.8.0-alpha3-rc3		bfc6d4198fee7b7b8e484861c3f6280e481169f9
+io.camunda	camunda-exporter	8.8.0-alpha4		702608947832016b04622333bc9ebb12c4eb8fa4
 io.camunda	camunda-exporter	8.8.0-alpha4-rc1		575282f780d553f23fe421c25666dbdf7c609032
 io.cdap.cdap	cdap-sentry-model	0.10.0		c5c60186b97a19c5d32fee0d311c804b29392f2f
 io.cdap.cdap	cdap-sentry-model	0.10.1		3c1aafa23e8e978b10c5a7be9a415b6544d1e5c4
@@ -714,6 +719,7 @@ io.kotest	kotest-assertions-kotlinx-datetime-watchosarm64	6.0.0.M2		N/A
 io.kotest	kotest-assertions-kotlinx-datetime-watchosarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-assertions-kotlinx-datetime-watchosarm64	6.0.0.M3		N/A
 io.kotest	kotest-assertions-kotlinx-datetime-watchosarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-assertions-kotlinx-datetime-watchosarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.mraa.upm	upm_groveehr	0.8.0		8a2d23a243e7f5c8727a36d4e3294fdafb5ba74c
 io.mraa.upm	upm_groveehr	1.0.0		17a352b7799a409b0b264a91801209b0e3a184d7
 io.mraa.upm	upm_groveehr	1.0.1		9e9bd988ba915fb4ab269cd862f236a15d0aeb38
@@ -909,6 +915,7 @@ io.quarkus	quarkus-resteasy-reactive-jsonb	3.15.2		c0ba7bd03b2294ba70ba037305b6c
 io.quarkus	quarkus-resteasy-reactive-jsonb	3.15.3		c463807817c92c448b417585448c1a712f5b7337
 io.quarkus	quarkus-resteasy-reactive-jsonb	3.15.3.1		a4420b3e39d222cdafe11294bdcb82f343942948
 io.quarkus	quarkus-resteasy-reactive-jsonb	3.15.4		67cc15cde67deb0ece15cd4f214149f1f1ca5413
+io.quarkus	quarkus-resteasy-reactive-jsonb	3.15.5		9af7e81973d3ad06378df58cde1b94efa70bd8f0
 io.quarkus	quarkus-resteasy-reactive-jsonb	3.2.0.CR1		ccc7e7de993f1febfcfa50c46b6d9f79d722d792
 io.quarkus	quarkus-resteasy-reactive-jsonb	3.2.0.Final		6ab18cdda70b3d2ec774894c692aacbe7d32386c
 io.quarkus	quarkus-resteasy-reactive-jsonb	3.2.1.Final		3d4d9899d4f2a1cde0f31efa6c5372b408c923f3
@@ -1312,6 +1319,7 @@ org.scalatest	scalatest-propspec_3.0.0-RC3	3.2.8		fb923fd03993595deb71484398ac64
 org.scalatra	scalatra-compat-javax_2.12	3.1.0		d566fa36e7a4f26e52ffac0ea3254f69862f7177
 org.scalatra	scalatra-compat-javax_2.12	3.1.0-M1		368c55ebece6e3d3ecdb2aa06478bd26603f0542
 org.scalatra	scalatra-compat-javax_2.12	3.1.1		c878171dae0281f9b40de3e6c723f440959576b0
+org.scalatra	scalatra-compat-javax_2.12	3.1.2		7e49d30d4ae2a33d3b99a3ae62c9cdba5e8162ca
 org.vvcephei	scala-ofx_2.12	1.3		ba31b72ccfaa4f075a824e09ce548efe8a4f070f
 org.vvcephei	scala-ofx_2.12	1.5		2a8a7dddc509488c525e20610b3cd3c41559c241
 org.vvcephei	scala-ofx_2.12	1.6		88ac02a248a26381c3c9072c532be7e0a150fa1f
@@ -2656,7 +2664,18 @@ software.amazon.awssdk	robomaker	2.31.30		51f19c7aebf9b119e7764a1977dab40ee59c87
 software.amazon.awssdk	robomaker	2.31.31		3ca46bb68f96872d51b724e69320e51aa5ce2b87
 software.amazon.awssdk	robomaker	2.31.32		d60761d9a320095bd514a93e79873901d30696cb
 software.amazon.awssdk	robomaker	2.31.33		399a49d3696a7489b4c492e970a61c5b2974b3cc
+software.amazon.awssdk	robomaker	2.31.34		3972281c6fe6aa47d45cf8819ab434aa89c41c4b
+software.amazon.awssdk	robomaker	2.31.35		ff1754346394265f79cce8c5f5898806adb3d44f
+software.amazon.awssdk	robomaker	2.31.36		ec93e11f48eb14ac67ae23c2e538e6f99d3b06c3
+software.amazon.awssdk	robomaker	2.31.37		0e95887573df7295bc4b82c925246bcd6bd52af3
+software.amazon.awssdk	robomaker	2.31.38		8774e880b822ea7000b19d709e8caad9b165565a
+software.amazon.awssdk	robomaker	2.31.39		ab9a84605e7a3c72c1ae5b93b2339fb3fd6015d8
 software.amazon.awssdk	robomaker	2.31.4		8aa0e85650c414cae8b82e43f4d717af1b3bd920
+software.amazon.awssdk	robomaker	2.31.40		f8e239eba8ae157d4d416f5660af2b5040b3def8
+software.amazon.awssdk	robomaker	2.31.41		69b0fbecb267828f9efe413996a20d28a2b19e28
+software.amazon.awssdk	robomaker	2.31.42		62ad7fbf74f7f6f9603f5c38122b54f02221a402
+software.amazon.awssdk	robomaker	2.31.43		1ca81a819ae7cbe94f94e79220e942823121ab56
+software.amazon.awssdk	robomaker	2.31.44		a05eaf33690099702da2b46c3ba3de5b49c923f8
 software.amazon.awssdk	robomaker	2.31.5		d53dafe7d7dddbb59544b83b2dea36a453a4a920
 software.amazon.awssdk	robomaker	2.31.6		57621f35986115bd3979f2692648bfb3cfd3ae95
 software.amazon.awssdk	robomaker	2.31.7		f4c86bbb4cbdd2c47da289c7f1a0378d378552a5
@@ -3722,7 +3741,18 @@ software.amazon.awssdk	s3-transfer-manager	2.31.30		1dbd564d4bddbd6a8e0f152db104
 software.amazon.awssdk	s3-transfer-manager	2.31.31		d0a727f3b3a1cad7309f1fd1f1e8d1c3e41e0508
 software.amazon.awssdk	s3-transfer-manager	2.31.32		a891f11e492de988877d61aa3e1623e0019b4990
 software.amazon.awssdk	s3-transfer-manager	2.31.33		efececd78232bec61bc22a6d13b6006dfc459e2d
+software.amazon.awssdk	s3-transfer-manager	2.31.34		464f8adaeeb0aa7ef26ce6f253fed47038651def
+software.amazon.awssdk	s3-transfer-manager	2.31.35		fa357879812f5ef9385a6f75f43cb53d82e0c4f6
+software.amazon.awssdk	s3-transfer-manager	2.31.36		3d874d2866c7030170f88b04f861ab991fe7bd5c
+software.amazon.awssdk	s3-transfer-manager	2.31.37		47fffd514f15af092c2fb45ee72642dff57aed49
+software.amazon.awssdk	s3-transfer-manager	2.31.38		631d560baa364ab80afc0d9670e29a48bca805fd
+software.amazon.awssdk	s3-transfer-manager	2.31.39		7f8d534061dfd663071e05f31c690ac83c39eae5
 software.amazon.awssdk	s3-transfer-manager	2.31.4		3fac85a11b89fcad51d04d414b080fb145058f58
+software.amazon.awssdk	s3-transfer-manager	2.31.40		6a7e081d953fb3b87d66e2ebc33aeee103466982
+software.amazon.awssdk	s3-transfer-manager	2.31.41		1c58389c43ecd45e9f809828efeb76f9de0ddea3
+software.amazon.awssdk	s3-transfer-manager	2.31.42		d47fcd8bd0d667b59de0d115ab38787b40ddb1f5
+software.amazon.awssdk	s3-transfer-manager	2.31.43		d512109221d0d1c16dd989040b46ce64ec275051
+software.amazon.awssdk	s3-transfer-manager	2.31.44		d9b5dc5730386f66ab7008c47cfa84b76866aa2c
 software.amazon.awssdk	s3-transfer-manager	2.31.5		f6ad2587e376a569fe4044f10f473bee0e4203eb
 software.amazon.awssdk	s3-transfer-manager	2.31.6		582fe05274092f976d47254611595fcc54b75160
 software.amazon.awssdk	s3-transfer-manager	2.31.7		348660f598d4b27ebed7f8808b5f6deb146751e1

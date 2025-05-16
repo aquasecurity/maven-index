@@ -55,6 +55,7 @@ com.disneystreaming.smithy4s	smithy4s-protocol_2.12	0.12.8		4474539d09486f553b73
 com.disneystreaming.smithy4s	smithy4s-protocol_2.12	0.12.9		eaa84605dad55c95dfaac09cf69afe5949c71d31
 com.disneystreaming.smithy4s	smithy4s-protocol_2.12	0.9.0		517ab7d24bfd095bd5a2d2a8f792f478a23c7b25
 com.disneystreaming.smithy4s	smithy4s-protocol_2.12	0.9.1		b22888538dcaff7a6a02e20560e00f9e24df364a
+com.earldouglas	sbt-linear-scala_2.12_1.0	0.0.3		0ef4691a73c8713ea7f9cfa8ea7f24d81d735396
 com.github.cafdataprocessing	worker-policy-handlers-shared-document	1.0.0-3		0a24c7a46a418defceae717b8a83a53c68ed3839
 com.github.cafdataprocessing	worker-policy-handlers-shared-document	1.1.0-21		1ca00c9f6855097328efa72a562b62afafee4b26
 com.github.cafdataprocessing	worker-policy-handlers-shared-document	1.2.0-43		1aedf5f39abf2e0ca7be602965bbcca4a40687c3
@@ -266,6 +267,10 @@ com.vaulka.kit	system-utils	3.1.3.5		7f438fbbf5dddc35cf6f5361e311f8ebfbdeb5ea
 com.wizzdi	segmantix-jpa-spring	2.0.1		31f6bf9e1d04df3e437d3904d533dfca720454e8
 com.wizzdi	segmantix-jpa-spring	2.0.2		80e0956bff46d31ef291900698ed609a1fba4d42
 com.wizzdi	segmantix-jpa-spring	2.0.3		632117586870afff70e10f68a6c35e75d98d74f1
+de.wayofquality.blended	sbt-blendedbuild_2.12_1.0	0.1.0		b84d2802ff1cb121bb4ebb76c985bcef8a468af5
+de.wayofquality.blended	sbt-blendedbuild_2.12_1.0	0.1.1		6ca198a0dc47db574cc5f2e6a9f4d130782b627e
+de.wayofquality.blended	sbt-blendedbuild_2.12_1.0	0.1.2		f40011c314389c6f9e2b5c4db80159618a129cdd
+de.wayofquality.blended	sbt-blendedbuild_2.12_1.0	0.1.3		35285dff63d25a5388d914c352f880b0a7328dd6
 fr.iscpif.gridscale	diracexample_2.11	1.69		5aac8104cbf08422a2b2b28184ff867157823bac
 fr.iscpif.gridscale	diracexample_2.11	1.70		76f4fa639e16d22469e3bda370ce0cd756b23f53
 fr.iscpif.gridscale	diracexample_2.11	1.71		554bc56649fa0522d41049ab94dedd0f5575e6c3
@@ -1258,10 +1263,17 @@ org.finos.legend.engine	legend-engine-xt-sql-compiler	4.8.0		6d81e266d2d8d8ed809
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.80.0		5cd70adae8a60ee9d9591965a090a0ae6b22039d
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.81.0		733b188c2588cccef17f14c50401cae7c3cddc2f
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.82.0		d82568db5ede3a2ab8cefa53064bd67a50cfd6c3
+org.finos.legend.engine	legend-engine-xt-sql-compiler	4.82.1		4301e36831103cd5b04563a5525d649c767c5be2
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.83.0		6f43743b92cf35bd0791ad11515dc273aed02ff2
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.83.1		a442af7d1be9faa55142f1b9ec819bd38cd5207f
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.83.2		d35194b1d52234ecf39a4d1359b091cf3bb3d1f7
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.83.3		d93fba605d311db7315fe15bf37592e94c1ed812
+org.finos.legend.engine	legend-engine-xt-sql-compiler	4.84.0		81340e4d5b999f06cd5615c50b065de11b6632d2
+org.finos.legend.engine	legend-engine-xt-sql-compiler	4.84.1		3bbb9311f6db522f7ed9072c06c1e84a8293c5c5
+org.finos.legend.engine	legend-engine-xt-sql-compiler	4.85.0		f2547a4670530a1a9d55de4e883880a32fe8722f
+org.finos.legend.engine	legend-engine-xt-sql-compiler	4.85.1		7751a40ece8d6ff7e44aa31d6400f7afc4a28444
+org.finos.legend.engine	legend-engine-xt-sql-compiler	4.85.2		ccbcb1b1b13e457bddc12430ee90f66b6cda4363
+org.finos.legend.engine	legend-engine-xt-sql-compiler	4.85.3		ee6e2c65df10af719f9d129c701a982422fd270f
 org.finos.legend.engine	legend-engine-xt-sql-compiler	4.9.0		f65f1352464049d2c1750b3f761d1c539076fefc
 org.jboss.windup.web.addons	windup-web-messaging-executor	4.1.0.Alpha5		ba5bcc32d1ca94f1616d776df06aa1e9c6d6e093
 org.jboss.windup.web.addons	windup-web-messaging-executor	4.1.0.Alpha5	forge-addon	d040b6d2f9fd0b860debaf94cdb017d7d1d1daf8
@@ -1505,12 +1517,14 @@ org.tpolecat	natchez-testkit_sjs1_2.12	0.3.4		037495ecea1912c07d42a9c688e32090a1
 org.tpolecat	natchez-testkit_sjs1_2.12	0.3.5		c5292088df30deafcbec02c2f69c7f8493b68c75
 org.tpolecat	natchez-testkit_sjs1_2.12	0.3.6		827575d300bc4630226887c7597bea55dccff7b6
 org.tpolecat	natchez-testkit_sjs1_2.12	0.3.7		1fd2e1863520360f7e316eee3a99f4250930debc
+org.tpolecat	natchez-testkit_sjs1_2.12	0.3.8		16a5b3facea7aa5b9447915b22c0d74bed14fe87
 org.typelevel	catalysts-checklite_2.12.0-RC1	0.0.3		bb71e655053cd84f3a34b484963ef7c0c06f73ad
 org.webjars	bootstrap-filestyle	1.1.2		93a88cd5f4d7237a35fc31bcf4eca652f2d342c1
 org.webjars.bower	videogular-ima-ads	1.3.2		3c0d0ae0f8e2af3022ad3a1dc6e85028d034549f
 org.webjars.npm	polymer__app-storage	3.0.3		9e8ff0ec141730ffcf021fbd873e45147bb6a998
 org.webjars.npm	radix-ui__react-use-layout-effect	1.0.1		ea7ca0888189f14d4dd57afce46e0fd39901437e
 org.webjars.npm	radix-ui__react-use-layout-effect	1.1.0		d8b81f5bc60d79ad4d0669d18700ccec6e34557a
+org.webjars.npm	radix-ui__react-use-layout-effect	1.1.1		2e7d94b2037d60d6b9f069c47ff98ece6fdfe856
 org.wildfly	wildfly-security-integration	21.0.0.Beta1		b400840344a403cc2a76e0801ceb8dbe822084a3
 org.wildfly	wildfly-security-integration	21.0.0.Final		8723b0c4a2a8410117bb19455503d6dd247cd5ca
 org.wildfly	wildfly-security-integration	21.0.1.Final		ea7192cf179c9c0e00eb727102a58f0c02d80925
@@ -1644,3 +1658,7 @@ tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.0.8	metadata	f94651712b36cc2d1951f240c661435a0c938ef6
 tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.0.9	metadata	860b8d841cae23664949a2c886cdbac7906c962c
+tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.1.0	metadata	29e4008a4642ff57cf59146db2e7308738530872
+tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.1.1	metadata	1dd4252ef44747b8ff4d4dafad617cadad7b1024
+tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.1.11	metadata	252ad9af2d12003a159df00e9eb5e1d5f8cdbada
+tz.co.asoft	koncurrent-awaited-core-watchosarm64	3.1.12	metadata	5cb54a7e79911a6e0383669eb922bcfff7eca3d4

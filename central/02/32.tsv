@@ -216,6 +216,7 @@ com.google.cloud	spring-cloud-gcp-core	3.8.6		d27e0dda41b26b0e58f0a078943388bac6
 com.google.cloud	spring-cloud-gcp-core	3.8.7		9a2932c4805b996b966e4cde73299ed2ca902e89
 com.google.cloud	spring-cloud-gcp-core	3.8.8		eb22bab404219606d8c780bfbeae00125d2e49fe
 com.google.cloud	spring-cloud-gcp-core	3.8.9		4593fec181876a0f22cb61f24fe95385d0f1550b
+com.google.cloud	spring-cloud-gcp-core	3.9.0		0b85c84b370f3db48d4aec0a346df8c260f65384
 com.google.cloud	spring-cloud-gcp-core	4.0.0		3ce53ee26a5b71a5a4c68becbc112898e3cb4117
 com.google.cloud	spring-cloud-gcp-core	4.1.0		efe145587d89f559120513626dd1acf7a397c364
 com.google.cloud	spring-cloud-gcp-core	4.1.1		dcc971bfdf83d58caa6a5b1e485498ac68d3c2ae
@@ -242,6 +243,7 @@ com.google.cloud	spring-cloud-gcp-core	4.10.6		2aaef5210624da5c420332d791a0b98b3
 com.google.cloud	spring-cloud-gcp-core	4.10.7		8ce3e24c70694e771c5b04651c29af268c0ff442
 com.google.cloud	spring-cloud-gcp-core	4.10.8		407315562976ecd88b40d36a239740e170c63959
 com.google.cloud	spring-cloud-gcp-core	4.10.9		aca9a49cfb28c9dc4e61c7b415806442fa65d094
+com.google.cloud	spring-cloud-gcp-core	4.11.0		1188d8178a6c16f2690f0e86d705d917d0f521df
 com.google.cloud	spring-cloud-gcp-core	4.2.0		908200f15ce838512350fa39dc59d72a8e2e15db
 com.google.cloud	spring-cloud-gcp-core	4.3.0		7545cf82712898c1a4b022aa3fae6cfb3c923b2f
 com.google.cloud	spring-cloud-gcp-core	4.3.1		22d875a61e2359c86a5e293bfdc69631dbcbab60
@@ -274,6 +276,7 @@ com.google.cloud	spring-cloud-gcp-core	5.11.0		0ae0e7644732ba67a81c7cc0ed951a567
 com.google.cloud	spring-cloud-gcp-core	5.11.1		268f378eb99a14f664923693f2f8a0c1ca636acc
 com.google.cloud	spring-cloud-gcp-core	5.11.2		5fc33c6fc97c009b987ab4a0fe2e1d7906c9798d
 com.google.cloud	spring-cloud-gcp-core	5.11.3		bfb5e6466287f53d232ef7f7fecc95ab040536a2
+com.google.cloud	spring-cloud-gcp-core	5.12.0		ae1a43a6ae00ef6b7dc3250b90d1b3af715696a5
 com.google.cloud	spring-cloud-gcp-core	5.2.0		2937abd02b13fb964c3e66af1f4640971c50a22d
 com.google.cloud	spring-cloud-gcp-core	5.2.1		d845ca27f834d6e8b0b34db88bd459426a4fcff7
 com.google.cloud	spring-cloud-gcp-core	5.3.0		3caa40b5c2f159b5606961427aca83c2fd70230d
@@ -615,6 +618,7 @@ io.coil-kt.coil3	coil-svg-jvm	3.0.2		302a3a48293bdf3f2620e0c15f4351091c0dca1f
 io.coil-kt.coil3	coil-svg-jvm	3.0.3		302a3a48293bdf3f2620e0c15f4351091c0dca1f
 io.coil-kt.coil3	coil-svg-jvm	3.0.4		8c50347b9045b094c47ce71623630de6a65e6f2d
 io.coil-kt.coil3	coil-svg-jvm	3.1.0		88714a782626dc9416d0c626fea6e86afcf774f3
+io.coil-kt.coil3	coil-svg-jvm	3.2.0		7ccb3ba45c9fe1580d43bc3fd67c984e9ddf8c1d
 io.coil-kt.coil3	coil-svg-jvm	3.2.0-rc01		7ccb3ba45c9fe1580d43bc3fd67c984e9ddf8c1d
 io.coil-kt.coil3	coil-svg-jvm	3.2.0-rc02		7ccb3ba45c9fe1580d43bc3fd67c984e9ddf8c1d
 io.gitee.dtdage	app-boot-dependencies	1.0.0		N/A
@@ -748,12 +752,17 @@ io.ktor	ktor-websockets	3.0.3		269e1ae19f6fa63a207ce5483f16a33431ca053b
 io.ktor	ktor-websockets	3.1.0		890799689241e5524fb409c0ab6eca5a0f2d32a8
 io.ktor	ktor-websockets	3.1.1		890799689241e5524fb409c0ab6eca5a0f2d32a8
 io.ktor	ktor-websockets	3.1.2		9979bfe671999cec91fd854fb32ac3b5a5936ae5
+io.ktor	ktor-websockets	3.1.3		9979bfe671999cec91fd854fb32ac3b5a5936ae5
 io.mycat	mycat-dao	0.3		51031f8b2d7dc909219bd3a29b030543159054a1
 io.mycat	mycat-dao	0.3,1		91039c382d2cf86569731565456e9e39491c4abf
 io.mycat	mycat-dao	0.3.1		e1b3229a5860a2bb90d6031b1df22773bb6933b6
 io.spinnaker.orca	orca-queue-redis	2025.0-0		4bf36bc5ccd8f83df3597bc85b88cbf6b9151189
 io.spinnaker.orca	orca-queue-redis	2025.0-1		91e3ce1d17cb5098993f3609f6782e7e0824a7ad
+io.spinnaker.orca	orca-queue-redis	2025.0-2		2f0aa2a37965300c86e233bccd84970d4f254c79
+io.spinnaker.orca	orca-queue-redis	2025.0-3		bc82c74ebae7570ec6edcc0fd4cc7ca2ebce7f92
+io.spinnaker.orca	orca-queue-redis	2025.0-4		008bf2145e7bafda0e4df621c12be905e247984b
 io.spinnaker.orca	orca-queue-redis	2025.0.0		55c52cf3c87d6d6024ff68e016458053742a13cd
+io.spinnaker.orca	orca-queue-redis	2025.0.1		07ab56563d16506f9cf99380f78f1b938a2336ad
 io.spinnaker.orca	orca-queue-redis	8.15.0		acab34a1975d3dbbb0cb31561b261097e0d5a196
 io.spinnaker.orca	orca-queue-redis	8.16.0		79b84a1d2b65964f1da22656e06a64f35710d516
 io.spinnaker.orca	orca-queue-redis	8.17.1		5a1fa8e742b394ff2a5ebac0cd1a679468e5dcf2
@@ -845,10 +854,14 @@ io.spinnaker.orca	orca-queue-redis	8.61.2		2bd07f5142e1b81f5ba98a4333fcc085fbeb8
 io.spinnaker.orca	orca-queue-redis	8.62.0		17eea6579e0a914b3181cbfc6f5c315fc7939017
 io.spinnaker.orca	orca-queue-redis	8.63.0		43b05c543732af4d25b2655c8b3130e5885da75e
 io.spinnaker.orca	orca-queue-redis	8.64.0		6e6bc8b70a11ccefa704572c47ddb63d6935085d
+io.spinnaker.orca	orca-queue-redis	main-10		5abb46fa97225ddf948cbade764a5d4f686da1ee
+io.spinnaker.orca	orca-queue-redis	main-11		9e4bab4b9e8360c8d3167b79244732b3265494f3
+io.spinnaker.orca	orca-queue-redis	main-12		ff94b498f943ef175080122e8f9d9b3e75ac303d
 io.spinnaker.orca	orca-queue-redis	main-5		d2e95f6f55742f8583612437fbb985313fdde391
 io.spinnaker.orca	orca-queue-redis	main-6		d9778dee16368e60edac9f680ff08f0bd36c96d2
 io.spinnaker.orca	orca-queue-redis	main-7		9bf8da123118cb6dee89c5f36d41dfdc6d6c4ca1
 io.spinnaker.orca	orca-queue-redis	main-8		b3d5da769cb6d3bba314899381ef6050b665116a
+io.spinnaker.orca	orca-queue-redis	main-9		a33f8fafb3e7f12ae10473e3d0a9fae7bd09d7fe
 io.taig	taigless-mapping_sjs1_2.13	0.1.10		60476535f39bf9ea9e5408a3468a7e41908594a5
 io.taig	taigless-mapping_sjs1_2.13	0.1.11		c6c5ab474dafd2f9c881894bf1f2838eac9adc16
 io.taig	taigless-mapping_sjs1_2.13	0.1.12		c19040e1a74a8e1d4d23a944c0f43c542ce88fa5

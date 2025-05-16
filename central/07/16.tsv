@@ -337,6 +337,7 @@ com.tsurugidb.tsubakuro	tsubakuro-proto	1.5.0		dc5d5edb20e7ee06271168cfc122087b0
 com.tsurugidb.tsubakuro	tsubakuro-proto	1.6.0		6c0a93e28fc4bd0dfce3816af26a5758463205b9
 com.tsurugidb.tsubakuro	tsubakuro-proto	1.7.0		51b32dd23bd0c29c74ce376b9efb3a818cc87388
 com.tsurugidb.tsubakuro	tsubakuro-proto	1.8.0		b926ed203b04d849e2673787151318c4154f1cc3
+com.tsurugidb.tsubakuro	tsubakuro-proto	1.9.0		e8e3a379e85d4ebcba4492a693b902b74045b474
 com.vityuk	ginger-servlet	0.2.1		d9a1f70a37bf0d18cf7a1ebfd0f80ff8d099b913
 com.wayfair	brickkit-android	1.0.1		N/A
 de.androbit	brainslug-docs	0.17		99be58a6fb798356c0b76f60a2d62d75f4a64b6c
@@ -415,6 +416,7 @@ dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	
 dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	0.40.21		d5f63c55ecdac754ced0e9f3b8e5360e08fc4027
 dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	0.40.22		5472418acc7a6c086045eac5562876e9cf584e3f
 dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	0.40.23		70cd91d25d2b0737fdbf832f291eb694a2ec3a4f
+dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	0.40.24		be78d45c2b5886c5666b2934dc0f88d212a196b1
 dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	0.40.3		3cdfa848d436363c204f336df710bbae5a455a1c
 dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	0.40.4		0f2727133283421cfed563229a17e839f744961d
 dk.cloudcreate.essentials.components	spring-boot-starter-postgresql-event-store	0.40.5		17ebf5752e2ccab9d56592425c5632b88e04e1a9
@@ -648,6 +650,7 @@ io.camunda	zeebe-workflow-engine	8.4.15		2d2530112e10ed5f40103314120662e879cb3a2
 io.camunda	zeebe-workflow-engine	8.4.16		e5a31298a4dbce8eea5c41fc0a8ec93e26252887
 io.camunda	zeebe-workflow-engine	8.4.17		4cd8cd0f77e34678bfb24b5afd1cdfc93fc6877a
 io.camunda	zeebe-workflow-engine	8.4.18		347d8838b37e51ca622bb8187bd0c238712256c3
+io.camunda	zeebe-workflow-engine	8.4.19		21f039e7e546ec392bf669d9fe0c3b7e6a0e3a99
 io.camunda	zeebe-workflow-engine	8.4.2		b1a4c2946fab1515df98e5886c65a477ba09c95d
 io.camunda	zeebe-workflow-engine	8.4.3		c75fddb006512768baf60e45e5a2fd9f8601aabc
 io.camunda	zeebe-workflow-engine	8.4.4		c2e40e893ba6c9b90bc88fdd113f153cfe2d3447
@@ -670,6 +673,7 @@ io.camunda	zeebe-workflow-engine	8.5.14		7ff7299bbb15f90e6aef7aa6b4eefe2a66ef186
 io.camunda	zeebe-workflow-engine	8.5.15		300a0ad4ed0f971f6530a905c14070bdc50f468d
 io.camunda	zeebe-workflow-engine	8.5.16		3921ef5e8501cc449aa26f3ae01d4573e4ea3384
 io.camunda	zeebe-workflow-engine	8.5.17		8fa784ec1dfd186628cc5845c965890d284f5ed7
+io.camunda	zeebe-workflow-engine	8.5.18		f777bc91419f3aa7182e7fc48b7587dc161495ad
 io.camunda	zeebe-workflow-engine	8.5.2		e58f5f8ee5dc8894e8b8e9765e7800889fbee241
 io.camunda	zeebe-workflow-engine	8.5.3		0eb45bd65aae86440115a177bb811ff86445a5a5
 io.camunda	zeebe-workflow-engine	8.5.4		3f0fd0a1e66491f2448b7c451c4f1a7e8583b24f
@@ -707,6 +711,8 @@ io.camunda	zeebe-workflow-engine	8.6.12-rc1		928321be4ee9c9a4d784575d34d9aa2add2
 io.camunda	zeebe-workflow-engine	8.6.13		d337186ad481e3c2afcc069ccf77f237f8b10dab
 io.camunda	zeebe-workflow-engine	8.6.14		a2c1cd39fa7db7afe21a3ab1b86fcf8d9eba3cb5
 io.camunda	zeebe-workflow-engine	8.6.14-rc1		b676b348c0314b1fd67325b696302cf0af5ea6e7
+io.camunda	zeebe-workflow-engine	8.6.15		0e33d4163adc4eea2ace4474026b9faa43d6144e
+io.camunda	zeebe-workflow-engine	8.6.15-rc1		e84d65f4c541c39c897e2b623b976ed53d150fc4
 io.camunda	zeebe-workflow-engine	8.6.2		1b4e20b695f18960315016d6495d5971d3baddd1
 io.camunda	zeebe-workflow-engine	8.6.3		e7f87f771bc7455ccb49f01ec1d200ed9d3de753
 io.camunda	zeebe-workflow-engine	8.6.4		d45a5dc64ad08a1c9f21c46f13bb98ae2c1983ef
@@ -742,12 +748,15 @@ io.camunda	zeebe-workflow-engine	8.7.0-alpha5-rc1		5428e9fbbdae7a1e26401704ef3bc
 io.camunda	zeebe-workflow-engine	8.7.0-rc3		29a9d5efd482d42d67fb5ff26d2d1b13a12549e5
 io.camunda	zeebe-workflow-engine	8.7.1		06d037a2a1dfd1680d9c11508e7bdd8670e54c2a
 io.camunda	zeebe-workflow-engine	8.7.1-rc1		24183534a8249361b0bc506ef94860cfed036201
+io.camunda	zeebe-workflow-engine	8.7.2		2f5a39e9a0ba2e51456e3b63cd53b3524c74cadd
+io.camunda	zeebe-workflow-engine	8.7.2-rc1		8d4fb82e633190b8faae47d6273755ab4c462ea0
 io.camunda	zeebe-workflow-engine	8.8.0-alpha1		5d2c6341c5fe69784782f69d1c0acc73c921fbcc
 io.camunda	zeebe-workflow-engine	8.8.0-alpha1-rc1		463372d55b83b4385e3e0fb9ab59e48ede9a5f48
 io.camunda	zeebe-workflow-engine	8.8.0-alpha2		e68bcc9475f958ec695f4dbf13bd46c79ec2f9fe
 io.camunda	zeebe-workflow-engine	8.8.0-alpha2-rc1		65e5760ddfcfd1ae531ff87f4a0b4d3778eb1d1f
 io.camunda	zeebe-workflow-engine	8.8.0-alpha3		0fb453b9aac1efd1c49c80eb077c0a2da9684491
 io.camunda	zeebe-workflow-engine	8.8.0-alpha3-rc3		5b095369b882f6297df112112525a8ac78abbec0
+io.camunda	zeebe-workflow-engine	8.8.0-alpha4		601e6d5fa750e9ee36c4c15a3d33b5636697874a
 io.camunda	zeebe-workflow-engine	8.8.0-alpha4-rc1		ed81a9b407c61220930abc786b3222e79cfb9fdd
 io.camunda.connector	connectors-e2e-test-parent	8.6.0-alpha2		N/A
 io.camunda.connector	connectors-e2e-test-parent	8.6.0-alpha2.1		N/A
@@ -826,7 +835,10 @@ io.fabric8	volcano-client	7.0.0		9e7aa1fcef3f49665947ebbd194049c6f7326c8a
 io.fabric8	volcano-client	7.0.1		d288f2983722eabdc0b26d391d7e72af9e7acb9e
 io.fabric8	volcano-client	7.1.0		d96e53fec780c2349f103816678e3c18076398c2
 io.fabric8	volcano-client	7.2.0		f545aaf0a2aef885d3fdbe68b73b4f899fa79a06
+io.fabric8	volcano-client	7.3.0		6b927172a5f80c84c9f81b1f87ed370d33eb11fa
 io.github.edadma	recognizer_3	0.0.1		efd087e2bd2df1b261fb02036731f227bed21c5c
+io.github.edadma	recognizer_3	0.0.2		d4a9274e0206a77f5d3bd3c9e8408ec073b07096
+io.github.edadma	recognizer_3	0.0.3		b01cb533fcd55155118e4f99a778413b3fe09fcf
 io.github.embeddedkafka	embedded-kafka_2.13	2.4.0		98f9aa517a3657caaca343be9ae695842c735bb1
 io.github.embeddedkafka	embedded-kafka_2.13	2.4.1		c7282aebe6eb7a495c5f0b9dddd4cf4679679e68
 io.github.embeddedkafka	embedded-kafka_2.13	2.4.1.1		dbc97c563124851c9615090bed7233418e086473
@@ -1540,6 +1552,13 @@ org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.4.8-16.0.0		4a2b0530c674
 org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.4.9-16.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.0-16.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.1-16.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.2-17.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.3-17.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.4-17.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.5-17.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.6-17.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.7-17.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	2025.5.8-17.0.0		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	8.0.0-pre.712		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
 org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	8.0.0-pre.713		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
 org.jetbrains.kotlin-wrappers	kotlin-cesium-engine	8.0.0-pre.714		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
@@ -1866,6 +1885,7 @@ org.talend.sdk.component	documentation	1.78.0		3cce55ddb5b691d61e799bf25c4923251
 org.talend.sdk.component	documentation	1.78.1		dca41380196b75cc285287fed85ce9975d240b49
 org.talend.sdk.component	documentation	1.79.0		845a8defebf54d66b6c9c9f9c28968c5e1e43859
 org.talend.sdk.component	documentation	1.80.0		b7d10b735c8dc5a3d9724632875b628262626a4a
+org.talend.sdk.component	documentation	1.80.1		ea3bb9b5928c29f2b5079db885201faddd70a9db
 org.talend.sdk.component	documentation	10.57.0		18c71e3dccb9720c62a2e81c743a7f2bec79713c
 org.webjars.npm	autonumeric	1.9.44		d493a710c204efe2f7787eacffa19b6aa43fae0e
 org.webjars.npm	autonumeric	1.9.45		ade3d5e2faa98295af85f65fc3ec6eb2950d93e1
@@ -1922,6 +1942,10 @@ tz.co.asoft	koncurrent-later-coroutines	3.0.6		4d5dd99752898cd27447153bfa1724731
 tz.co.asoft	koncurrent-later-coroutines	3.0.7		90774f3b303a16145584cef2587aec618ff8b25d
 tz.co.asoft	koncurrent-later-coroutines	3.0.8		cfeebbc784e5cd2b626c72d732008a5e26178741
 tz.co.asoft	koncurrent-later-coroutines	3.0.9		cfeebbc784e5cd2b626c72d732008a5e26178741
+tz.co.asoft	koncurrent-later-coroutines	3.1.0		fcd7bec0c51f3a4a960f30b25b8a82348febc4e1
+tz.co.asoft	koncurrent-later-coroutines	3.1.1		fcd7bec0c51f3a4a960f30b25b8a82348febc4e1
+tz.co.asoft	koncurrent-later-coroutines	3.1.11		fcd7bec0c51f3a4a960f30b25b8a82348febc4e1
+tz.co.asoft	koncurrent-later-coroutines	3.1.12		fcd7bec0c51f3a4a960f30b25b8a82348febc4e1
 tz.co.asoft	symphony-input-finance-watchosarm32	3.0.7		N/A
 tz.co.asoft	symphony-input-finance-watchosarm32	3.0.7	metadata	9ee3ed13717cab359f3ba5de8f962b7660e6d1fb
 uk.ac.rdg.resc	edal-ncwms-based-webapp	0.2		d677e4533ab9d0ea3f6da1089ecd4652b550e0f8

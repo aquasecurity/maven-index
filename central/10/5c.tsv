@@ -144,7 +144,16 @@ aws.sdk.kotlin	marketplacereporting-jvm	1.4.73		37f61be852132e6a5d341c3825d2e326
 aws.sdk.kotlin	marketplacereporting-jvm	1.4.74		0b2c00097b6848e5f0819305c9600281977d2eb8
 aws.sdk.kotlin	marketplacereporting-jvm	1.4.75		87559fbd9a5014becb9fa4c471aea67b187811e9
 aws.sdk.kotlin	marketplacereporting-jvm	1.4.76		b4720e565326063928e120985f83e2ddfefa0348
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.77		79637090be63d508de664363d2aad7f39feb3419
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.78		6b09c2d8f4446c714bfd0ef6ec8ac7b9fa72da91
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.79		6e7545c70851a1c02b698b2c364d3cf6bb18f968
 aws.sdk.kotlin	marketplacereporting-jvm	1.4.8		2f0fa18d35c07250d972b58738aa0016504c14c4
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.80		f0fcb0829cf8ff5fda451bd4f0daa35e46a91b5e
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.81		b1acfcb570e66b3b0c5012088d29d9f6ca161978
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.82		34bbc88605d285c849767fe693fefe6ac010af54
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.83		14f28087e25c99a847ea9580349ee2ba18617c40
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.84		90f25b2775763633ad55c6ea16dd9bee13c18a15
+aws.sdk.kotlin	marketplacereporting-jvm	1.4.85		57f08788c70c1b4a4b10bafd9173885d0fc4ce66
 aws.sdk.kotlin	marketplacereporting-jvm	1.4.9		dda79a9a1b4d2b3551e83cbcdb2e0550b167d24e
 cn.fossc.polaris.framework	polaris-framework-starters	3.0.1		N/A
 cn.fossc.polaris.framework	polaris-framework-starters	3.0.10		N/A
@@ -733,6 +742,7 @@ co.fs2	fs2-reactive-streams_2.13	3.12.0-RC1		bff05e875206dd91e229fcc432b6dd37e63
 co.fs2	fs2-reactive-streams_2.13	3.12.0-RC2		e9bae53b59e07b3f45adeeab759dd0428c8a22ae
 co.fs2	fs2-reactive-streams_2.13	3.13.0-M1		858dd4c82bc3b5550236a14852a15d91e9008848
 co.fs2	fs2-reactive-streams_2.13	3.13.0-M2		2ed1e72058b8d0839ba1735ef485bff3011b0b09
+co.fs2	fs2-reactive-streams_2.13	3.13.0-M3		cb4346058d77741c83f3e9b93e4aa434827d9aa3
 co.fs2	fs2-reactive-streams_2.13	3.2-10-421c242		419765f49f4e7e7ff7db8e9ba1a135b45bb82746
 co.fs2	fs2-reactive-streams_2.13	3.2-10-ea04dd1		7ec686a7a53f7d117af99573257cafc77af90c1d
 co.fs2	fs2-reactive-streams_2.13	3.2-100-c1910b5		e7b0d33e2e75e145c323e1e05704eabe59066c58
@@ -964,6 +974,7 @@ com.agorapulse	micronaut-aws-sdk-sqs	3.3.8		9b948bc3e4615a6aff69bd0e0154aaa0831a
 com.agorapulse	micronaut-aws-sdk-sqs	3.3.9		6203e6d47cc8ae511e3d836b5ac3f80fa3d17f0f
 com.agorapulse	micronaut-aws-sdk-sqs	3.4.0		419cad45ff0123ecd972bd9cfcb9736436f617ad
 com.agorapulse	micronaut-aws-sdk-sqs	3.4.1		13b2fd6adadb6d89e32da2d362dd6d3dd59f3fe7
+com.agorapulse	micronaut-aws-sdk-sqs	3.4.2		b49bc08982d492efa0ae8c36b14f9d56f9fef016
 com.antgroup.tugraph	geaflow-cluster-runner	0.5.0		1c26711a99e960e6c62a1a0af93995ee631920b0
 com.arkivanov.essenty	back-handler-android-debug	0.10.0		N/A
 com.arkivanov.essenty	back-handler-android-debug	0.5.0		N/A
@@ -2331,6 +2342,7 @@ dev.zio	zio-aws-iam_3	7.31.27.1		697d27015aa43916590b8f5ea5335606b572fd22
 dev.zio	zio-aws-iam_3	7.31.28.1		f754e1331dcb75fcb83f682579c076d2d1528be7
 dev.zio	zio-aws-iam_3	7.31.3.1		31bca7ec610ddeb514be2d3a29b9d1d787c78f24
 dev.zio	zio-aws-iam_3	7.31.30.1		ad95d8c889cfaa963033e1fb41a0eefd6cc61b52
+dev.zio	zio-aws-iam_3	7.31.30.2		dda3d5fd2b434225516a2924530ff3fdfad90ce0
 dev.zio	zio-aws-iam_3	7.31.4.1		3d4cba1967a03055388f4cc242d126c7fbd3a2d9
 dev.zio	zio-aws-iam_3	7.31.6.1		2a5d881c6e8703f9754500690b32ec4d08dacc75
 dev.zio	zio-aws-iam_3	7.31.6.2		8977c88af71ef440c15ca786462fe9b75ca907b7
@@ -2757,6 +2769,8 @@ io.ktor	ktor-server-partial-content-tvosarm64	3.1.1		8b914aa0d73fbc6c9138af14f1c
 io.ktor	ktor-server-partial-content-tvosarm64	3.1.1	metadata	70e979f736e04571fb49cf50db2016a3e9db1ed0
 io.ktor	ktor-server-partial-content-tvosarm64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-partial-content-tvosarm64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-partial-content-tvosarm64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-partial-content-tvosarm64	3.1.3	metadata	7105300cca4e6cc70127a5f9f8584bdee8d86064
 io.magentys	magentys-commons	0.0.1		960a7ffce8bec8c08155b1510294b26d51329c83
 io.mantisrx	mantis-examples-synthetic-sourcejob	1.3.13		c8715d237b881143d57039e4c644ab43ccd08534
 io.mantisrx	mantis-examples-synthetic-sourcejob	1.3.14		3cc1962fdb7e5279cfcdcf51ca6532497c2d2f5d
@@ -3060,6 +3074,7 @@ org.imixs.workflow	imixs-workflow-index-solr	6.1.2		dd24b5112977ab080e85042a6e1d
 org.imixs.workflow	imixs-workflow-index-solr	6.1.3		c7496b11f258c323b7262a824f21c8b33ae46b25
 org.imixs.workflow	imixs-workflow-index-solr	6.1.4		7c626559b491e40d60a8b0551bc662b886f6af25
 org.imixs.workflow	imixs-workflow-index-solr	6.2.0		4e136fcd5752f56cffa4dc8d4654ad59303c6882
+org.imixs.workflow	imixs-workflow-index-solr	6.2.1		a022afc8c0d417c21ce0c422f5be5ba25722cd5f
 org.jbpm	jbpm-workitems-template-resources	7.17.0.Final		22d2671d722cf72bc55be6e81614ce853d3b6d0d
 org.jbpm	jbpm-workitems-template-resources	7.18.0.Final		b6e5101fcadcd3a8b1cd1595c4152925d67e5457
 org.jbpm	jbpm-workitems-template-resources	7.19.0.Final		1ef1e6910861944cbfa5a1cb2af65b295af20d9a

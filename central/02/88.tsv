@@ -422,6 +422,7 @@ com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-11		N/A
 com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-11	metadata	f3b05706070ee199792e3b31b1164cbc01ced625
 com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-11-kotlin-2.1.21-RC		N/A
 com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-11-kotlin-2.1.21-RC	metadata	483026b13c5740f0a9e3770a6600620509d9c484
+com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-11-kotlin-2.1.21-RC2	metadata	3e6463d4ea68ad2e42033bacb1b30578ff9b319a
 com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-11-kotlin-2.2.0-Beta1		N/A
 com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-11-kotlin-2.2.0-Beta1	metadata	1a6dbed0139eda607929eea9a1394117423b485d
 com.rickclephas.kmp	nsexception-kt-bugsnag-tvosarm64	1.0.0-BETA-2		N/A
@@ -749,6 +750,7 @@ io.deephaven	deephaven-engine-primitive	0.37.5		dd966c4b9a4148c44f239a7751aef891
 io.deephaven	deephaven-engine-primitive	0.37.6		43148e021e87a283b9197ce299c8979ccd6e3754
 io.deephaven	deephaven-engine-primitive	0.38.0		d1b7ef2c766abc8cfa0f4cb38afd5fd6e9870378
 io.deephaven	deephaven-engine-primitive	0.39.0		614bf5a043a06f5da59ae0149c53e08a64dd2fc9
+io.deephaven	deephaven-engine-primitive	0.39.1		2b02485f8b688e09ff28509a6353ec0b4f7c9fd8
 io.eqoty.kryptools	aes-gcm-tvosarm64	0.6.1		N/A
 io.eqoty.kryptools	aes-gcm-tvosarm64	0.6.1	metadata	2e88ee665226da613c58eb822cc1c6d3a6287bc6
 io.github.daviddenton	databob.kotlin	0.0.1		ea489406a555eb5766979ac356d44a5fd5ee5490
@@ -1092,6 +1094,7 @@ org.eclipse.pass	pass-notification-service	1.9.1		429a78ce5ff954d3a40ade5cf6a669
 org.eclipse.pass	pass-notification-service	1.9.1	exec	aa09fd691778860fb931350105c5835b010cb323
 org.eclipse.pass	pass-notification-service	2.0.0		31ef21fab959ec62fdb886d49d8c72455f1a23ed
 org.eclipse.pass	pass-notification-service	2.1.0		6d80713656a8045817d09938d65c2000a6ab8ab0
+org.eclipse.pass	pass-notification-service	2.1.1		9d6d33bdfffa3c4f898e6cd1deedf00305aca34b
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.10.0		dacc2c06542898e63f1a71cd3a275339de9cef8f
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.11.0		67f9d0c099016f8a93855a8f38f64e078cac64f1
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.11.1		9c82386bf92595641b6cca7ba54f554739551bf1
@@ -1296,10 +1299,17 @@ org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.8
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.80.0		8eee518514fded8eb374144637ed5322c7ecb63a
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.81.0		0d3b1167bcaaba07446be1a3001145128f42072d
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.82.0		4de2cbf23044deb72126d44006bae7f59ef19594
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.82.1		3e4998db17f319b4fde5dd46d05facd7da679a6d
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.83.0		958f7f7d5414d8b1d40031026b2286a3c77542b0
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.83.1		9ee4e437cdd7097296ca7ea9c9e2b5298a2723f7
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.83.2		c13d3bb828646b75445fd89d01651c76c05efb6b
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.83.3		20aaa88b6f2b1dffe46f6bc18044071a777ecfe4
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.84.0		28909c32a0473028b70ea94fdda6c74ff6e37450
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.84.1		50a728a3a3b921b70a2a97ddc33855701c618adb
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.85.0		380675dd7b7875e8d9ae555e6d5a7eeb46feb513
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.85.1		6745c5ed44e6192143d1167381fb50aa65d86731
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.85.2		bf7485169c681dbd4ced99fb636225e75b567fce
+org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.85.3		be6cb5709dc720d2b4ca40e3c9bcd2a330f4ebac
 org.finos.legend.engine	legend-engine-xt-nonrelationalStore-mongodb-protocol	4.9.0		e0fb407b99612071f3a0b2bdda59e0b92412d54f
 org.glassfish.main.flashlight	btrace-jars	3.1.2		N/A
 org.glassfish.main.flashlight	btrace-jars	3.1.2.2		N/A
@@ -1490,6 +1500,9 @@ org.webjars.npm	dmn-js-literal-expression	10.0.0		510538c2983baee373f6a4c7249e8e
 org.webjars.npm	radix-ui__react-arrow	1.0.3		55bb628ab9efcde56046d3348797a7b26b95da31
 org.webjars.npm	radix-ui__react-arrow	1.1.0		3a23a99f806dc01c50f8edf47bcd76b23e826c1f
 org.webjars.npm	radix-ui__react-arrow	1.1.2		46a2007479c8c68d955ffe54b0783b06c7533df4
+org.webjars.npm	radix-ui__react-arrow	1.1.3		845c82534a713b33c1931d26489a514addbb035a
+org.webjars.npm	radix-ui__react-arrow	1.1.4		96354235117c07e22dad1a735270820b1f44ef91
+org.webjars.npm	radix-ui__react-arrow	1.1.6		14d6a2792c84c13b3270c927ae54f13011a7f27b
 org.webjars.npm	rcloader	0.2.2		f9a2e2fe29253d751bb08a8949645eb8e3865d61
 org.webjars.npm	uportal__waffle-menu	1.10.1		c4750038ee1c040cce12926da35e3f31ea71b1d4
 org.webjars.npm	uportal__waffle-menu	1.11.0		5383b30e1a99e0f9e5cbac97c4c5f45bd742c2bc

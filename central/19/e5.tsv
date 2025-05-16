@@ -59,6 +59,7 @@ com.getbouncer	scan-camera	2.1.0023		N/A
 com.getbouncer	scan-camera	2.2.0001		N/A
 com.getbouncer	scan-camera	2.2.0002		N/A
 com.getbouncer	scan-camera	2.2.0003		N/A
+com.github.gquintana.beepbeep	beepbeep	0.1.0		0ce917c21d2f83f502fa04a233a115ff14f3d75a
 com.github.gquintana.beepbeep	beepbeep	0.1.1		f93863175c411dbbddc5b06a6179f813aac80cb8
 com.github.gquintana.beepbeep	beepbeep	0.3.0		14e649f619277a006528fd59607daf7235c64654
 com.github.jobservice	job-service-ui	2.0.0-7		N/A
@@ -211,6 +212,8 @@ com.pubnub	pubnub-kotlin-api-jvm	10.4.5		fb1d9aec9b4874ef21bf0bf15b7bc6c55e97e99
 com.pubnub	pubnub-kotlin-api-jvm	10.4.6		fb1d9aec9b4874ef21bf0bf15b7bc6c55e97e998
 com.pubnub	pubnub-kotlin-api-jvm	10.4.7		fb1d9aec9b4874ef21bf0bf15b7bc6c55e97e998
 com.pubnub	pubnub-kotlin-api-jvm	10.5.0		ad30d189634d4a4dcb69923095de518fe91cb12c
+com.pubnub	pubnub-kotlin-api-jvm	10.5.1		ad30d189634d4a4dcb69923095de518fe91cb12c
+com.pubnub	pubnub-kotlin-api-jvm	10.5.2		ad30d189634d4a4dcb69923095de518fe91cb12c
 com.sumologic.plugins.log4j	sumo-log4j-appender	2.0		4561214c885f1ddc0b1a627d1a58708073a66251
 com.sumologic.plugins.log4j	sumo-log4j-appender	2.1		55d158931e94452688e7de8b58a4f88687a00e69
 com.sumologic.plugins.log4j	sumo-log4j-appender	2.10		4c85996c8438cc07d767c178f3e613e526e9c6d8
@@ -384,6 +387,8 @@ io.camunda	tasklist-webapp	8.6.12-rc1		5cec7200ebe6a40ed6892f0f7fa48687927a7d93
 io.camunda	tasklist-webapp	8.6.13		fc49ddaea60a6aeb213c6f1c1b0a05c6a44d1421
 io.camunda	tasklist-webapp	8.6.14		34ec69aa955495979b095bca283b3d8cd41f524a
 io.camunda	tasklist-webapp	8.6.14-rc1		ebe13a0303d67768f3e5d4fe4e24309d45fac279
+io.camunda	tasklist-webapp	8.6.15		4514775729c790b2300b0fa16244c566afb55c5a
+io.camunda	tasklist-webapp	8.6.15-rc1		bfe7aa752e1ccac5ede37f26e03b3c79e8c92280
 io.camunda	tasklist-webapp	8.6.2		0219f39dea1e66bd7c306e0b75b205c5db9992bb
 io.camunda	tasklist-webapp	8.6.3		7d0117d88e7027829ab83bf1a9b9c7b77574d462
 io.camunda	tasklist-webapp	8.6.4		9db73da76675df7e9a9680ac7d6f59af7d79d699
@@ -419,12 +424,15 @@ io.camunda	tasklist-webapp	8.7.0-alpha5-rc1		c50ec2f4cbd5496f958f8cb4639efea1d4d
 io.camunda	tasklist-webapp	8.7.0-rc3		56cd1d740119d8c9703231c9589bf509f550565a
 io.camunda	tasklist-webapp	8.7.1		93ae00110e8f261e93e89a69a8c8e36fecce7efb
 io.camunda	tasklist-webapp	8.7.1-rc1		c27cc3320dfd8758cf36982fab1c01ca5fbb8250
+io.camunda	tasklist-webapp	8.7.2		24bf0de204fd39239888fd60f57ca298422025cc
+io.camunda	tasklist-webapp	8.7.2-rc1		9a2b1b38c2e2cd45f2b35ebefdb81b902230685c
 io.camunda	tasklist-webapp	8.8.0-alpha1		c2a3378d235d28dd860d7ecda3a6fc8c90de737d
 io.camunda	tasklist-webapp	8.8.0-alpha1-rc1		11e3c05d1f257f6905029b9402623323abfe31d2
 io.camunda	tasklist-webapp	8.8.0-alpha2		04e8908569476844ed18a6466104ed89cd0cd532
 io.camunda	tasklist-webapp	8.8.0-alpha2-rc1		4674acd3b24a212f468b67aa9a619d7a3fe60ec2
 io.camunda	tasklist-webapp	8.8.0-alpha3		4ad30fef0674c3751a2894d89570e942fdabc3f0
 io.camunda	tasklist-webapp	8.8.0-alpha3-rc3		868d0fc75bc432a2ad2da0bf7ae58a6688408f14
+io.camunda	tasklist-webapp	8.8.0-alpha4		e2c95b6a2210d568da95576eb9cbd9e634a4dced
 io.camunda	tasklist-webapp	8.8.0-alpha4-rc1		2a7d5bf5081ddd94182b203578ea8357f8486665
 io.cdap.cdap	cdap-unit-test	6.0.0		3753b4e947ed707ee3c9bfbf8b9ca54ff46e544b
 io.cdap.cdap	cdap-unit-test	6.1.1		d8c52962a0c1fc1affd20eca6936a14d22250eac
@@ -531,6 +539,8 @@ io.ktor	ktor-server-sse-watchosdevicearm64	3.1.1		27a933a620d196d67eece895c56e7f
 io.ktor	ktor-server-sse-watchosdevicearm64	3.1.1	metadata	d0671a7c03b8b0a3b9065bb153da45fdb3189f95
 io.ktor	ktor-server-sse-watchosdevicearm64	3.1.2		d32188419a485ccec9d2973832cfa78810f2249e
 io.ktor	ktor-server-sse-watchosdevicearm64	3.1.2	metadata	470aeadf016f0d0aa15b6ea260cd09fb2a7550a7
+io.ktor	ktor-server-sse-watchosdevicearm64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-sse-watchosdevicearm64	3.1.3	metadata	f57cc41f0464ea7de829964255dbe1efd072db25
 io.liftwizard	liftwizard-bundle-clock	0.1.0		a0bb007a0208ced77104f6704747a0006909b1f1
 io.liftwizard	liftwizard-bundle-clock	0.10.0		e68d4327827f84167254d1874d8ab62195a00641
 io.liftwizard	liftwizard-bundle-clock	0.11.0		673b25f3f298d667ba4b4b4713eff2cf41acd0d4
@@ -597,12 +607,14 @@ io.liftwizard	liftwizard-bundle-clock	2.1.28		9c76edb91d5fb5e1edde984c569231a592
 io.liftwizard	liftwizard-bundle-clock	2.1.29		b6cef4dca778f90696b2def3c7324277b2e28670
 io.liftwizard	liftwizard-bundle-clock	2.1.3		1e1395a6f2eff01ecd5876011abb3b9d9bccfd20
 io.liftwizard	liftwizard-bundle-clock	2.1.30		299050d2386bf5a453e5da3cf70770207773096a
+io.liftwizard	liftwizard-bundle-clock	2.1.31		f447248964a3f72166e1665e90307f374a1e2877
 io.liftwizard	liftwizard-bundle-clock	2.1.4		38e9a8f029d104dc9f889d92e137776f80c77409
 io.liftwizard	liftwizard-bundle-clock	2.1.5		e14f6543946d03a631f1b618da094e933ef58bb1
 io.liftwizard	liftwizard-bundle-clock	2.1.6		9b1707a5dd1dd23563f8c127dd68d7f8197ddb16
 io.liftwizard	liftwizard-bundle-clock	2.1.7		b40896c4b9c5ffd794af7ad74a591f82fd425a92
 io.liftwizard	liftwizard-bundle-clock	2.1.8		70dbb523486a941b63eec19c09caec4441d1a4f7
 io.liftwizard	liftwizard-bundle-clock	2.1.9		9baf1a6e863c5879c7ca7b3f2302de0ceed7b01f
+io.micronaut.data	micronaut-data-mongodb	.8.2		51732c446400e6242987ca82c327ab15a87af0d0
 io.micronaut.data	micronaut-data-mongodb	3.10.0		7e71cc67b2b80afd4945d7299f972657097bbd23
 io.micronaut.data	micronaut-data-mongodb	3.3.0		2ccdbfe9824e1b881caf4b991f22596b52fffc54
 io.micronaut.data	micronaut-data-mongodb	3.3.0-M1		e0b2dcaf9a1ca55b2564db3002836e8d2122209e
@@ -664,6 +676,7 @@ io.micronaut.data	micronaut-data-mongodb	4.11.0		6ca105b1cb5159d956e951242ed2e73
 io.micronaut.data	micronaut-data-mongodb	4.11.1		f274e15d40941c494440259896136201e806fc76
 io.micronaut.data	micronaut-data-mongodb	4.11.2		26e36f366d737bb14317b0eb264b3c4eae5c17ae
 io.micronaut.data	micronaut-data-mongodb	4.12.0		845edb7143cc5707ab8bc5c4d6268b05b4314869
+io.micronaut.data	micronaut-data-mongodb	4.12.1		fb57a52253fdbbd203238eb762ce1da9f4ad91fa
 io.micronaut.data	micronaut-data-mongodb	4.2.0		5e611f730f196477a6085df4245da248348b6668
 io.micronaut.data	micronaut-data-mongodb	4.3.0		78d76de3c7710e190271432568631e94535e881d
 io.micronaut.data	micronaut-data-mongodb	4.3.1		214422b846612be9e652fcc77e4b60c609c56324
@@ -721,6 +734,11 @@ it.unibo.collektive	collektive-dsl-iosarm64	24.0.2		N/A
 it.unibo.collektive	collektive-dsl-iosarm64	24.0.2	metadata	0c91fcf4def233b0ec2d1caad37c107b01d4705e
 it.unibo.collektive	collektive-dsl-iosarm64	24.0.3		N/A
 it.unibo.collektive	collektive-dsl-iosarm64	24.0.3	metadata	e11a0c67d934d4b1176c2de7bc899b6e1ff4706f
+it.unibo.collektive	collektive-dsl-iosarm64	24.0.4	metadata	1eaecfba3359f0985962dcfd587e7a56b4c0c336
+it.unibo.collektive	collektive-dsl-iosarm64	24.0.5	metadata	35709892f64809e54430d92d30a9cb54e1a88387
+it.unibo.collektive	collektive-dsl-iosarm64	24.0.6	metadata	2fe20e256e76d7244872e218b2b918f421df1328
+it.unibo.collektive	collektive-dsl-iosarm64	24.0.7	metadata	84acdf98a16650960fc159d70a26031cc20d6d15
+it.unibo.collektive	collektive-dsl-iosarm64	24.0.8	metadata	e7152c41cb6c3692129ec4c0e907c0ee9f57a906
 net.exoego	aws-sdk-scalajs-facade-swf_sjs1_2.12	0.29.0-v2.624.0		98c9aab221d2b4cc0ac072c0c477ae108867dd37
 net.exoego	aws-sdk-scalajs-facade-swf_sjs1_2.12	0.30.0-v2.715.0		596925265e25b53ea90fbc5c8c1bd0a451c10834
 net.exoego	aws-sdk-scalajs-facade-swf_sjs1_2.12	0.31.0-v2.731.0		6d5cf93e4149f07a388f3c00af0e527546ed379a
@@ -1061,10 +1079,17 @@ org.finos.legend.engine	legend-engine-xt-avro	4.8.0		67c310eb0a6f112380d3cbc1041
 org.finos.legend.engine	legend-engine-xt-avro	4.80.0		bed5eea171cb9c497774e048af81b589a612ef78
 org.finos.legend.engine	legend-engine-xt-avro	4.81.0		e35385d7aeb5db23c73017c6780231d0460c4cb0
 org.finos.legend.engine	legend-engine-xt-avro	4.82.0		a7ba552ca63fbc68746edb225e935de508917ee1
+org.finos.legend.engine	legend-engine-xt-avro	4.82.1		322f9b731eac8b336524eaa8e8016baf27a7c472
 org.finos.legend.engine	legend-engine-xt-avro	4.83.0		76560bf669459959d2634205a04df72204a0838b
 org.finos.legend.engine	legend-engine-xt-avro	4.83.1		7f6185bc50a2096d87e777539d57d6838485b110
 org.finos.legend.engine	legend-engine-xt-avro	4.83.2		73cc9f17acc0841ee27565b573ae3bfa890a298d
 org.finos.legend.engine	legend-engine-xt-avro	4.83.3		135b8c413b52aebc4ad1627735d7463157c393de
+org.finos.legend.engine	legend-engine-xt-avro	4.84.0		fcae9679c0677da5d7efd9a873ad8d49092c67bb
+org.finos.legend.engine	legend-engine-xt-avro	4.84.1		b56d29591876054688d67182853b82190bd6aba0
+org.finos.legend.engine	legend-engine-xt-avro	4.85.0		04a469fae6fa877372a059c551e62e15776f69c5
+org.finos.legend.engine	legend-engine-xt-avro	4.85.1		8c1debf970056ef72dde47af18fe2e975b09936f
+org.finos.legend.engine	legend-engine-xt-avro	4.85.2		02d55a54d0924ca4d9d08ed3477f9f0ad00bcd2c
+org.finos.legend.engine	legend-engine-xt-avro	4.85.3		c40bd4b8e64b4acbb52c918048ab15e26855a780
 org.finos.legend.engine	legend-engine-xt-avro	4.9.0		ce5de1dd54fc2f7166a1f82da1d3f9862f639fa5
 org.hotswapagent	hotswap-agent-cdi-plugin	1.3.0		89e6d9ab712a4d95a2415a3b4df945bcf1804b5d
 org.hotswapagent	hotswap-agent-cdi-plugin	1.4.0		b5a3e7c47ff56ec800eeb219afdbe263257e91b6

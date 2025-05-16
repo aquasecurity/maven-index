@@ -227,6 +227,8 @@ com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.19.0		fe10176329fabe30688115b2cf0c741d8031bb60
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.2.0		02664cf0c00b8a66d8bbdbac24ca9b1f6a5683d6
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.20.0		5240225385e52abf9a699b674326d409c062877b
+com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.21.0		7362c0daf5a627e329bfb35ae0a9568316f0ad2d
+com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.22.0		4cc03b53236f824da6e1dfc26a6926474bf61bbe
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.3.0		b7b123ac9506eb6871f369b147248ea9cfa3a60d
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.4.0		f999ce0cd26ccc315f1ecbd9dc649c29bb4e7270
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-notifications-v1beta	0.5.0		23c47aead1f423ac817a80b051bbb8db1ead359e
@@ -711,6 +713,7 @@ io.quarkus	quarkus-reactive-mysql-client	3.15.2		2295eefdbadbb1b7d395cf31c8ee2a9
 io.quarkus	quarkus-reactive-mysql-client	3.15.3		7457693da31053558c0db9977f41a2b86b6a3a25
 io.quarkus	quarkus-reactive-mysql-client	3.15.3.1		9a3edd62a8a4dba6b159bbf29926538ca219eb10
 io.quarkus	quarkus-reactive-mysql-client	3.15.4		5130a116c8acd7b6b4449c41a4fb1e8dc437bec2
+io.quarkus	quarkus-reactive-mysql-client	3.15.5		960e58f397828958c9832a263db83f767193694e
 io.quarkus	quarkus-reactive-mysql-client	3.16.0		937d59828691512f3976a90f24784302f58f66e5
 io.quarkus	quarkus-reactive-mysql-client	3.16.0.CR1		6c690bdfc42c6f0cd70d23802d6c0f286e0c6944
 io.quarkus	quarkus-reactive-mysql-client	3.16.1		0f53235694a1bd2d91b54cec918c42d13d4aafb9
@@ -755,6 +758,7 @@ io.quarkus	quarkus-reactive-mysql-client	3.2.8.Final		c02dca935777da5379b0ef8ced
 io.quarkus	quarkus-reactive-mysql-client	3.2.9.Final		0b173eaf72298eb972780f36abd0e054e723a7ee
 io.quarkus	quarkus-reactive-mysql-client	3.20.0		f0db8ff0c570982017eca17bc256ce882b091d3b
 io.quarkus	quarkus-reactive-mysql-client	3.20.0.CR1		b974cfed6b64dce9c9d906418abf3a7c595db236
+io.quarkus	quarkus-reactive-mysql-client	3.20.1		c19b0c55540525c8af0cd4049bdc8de4f7c8af2a
 io.quarkus	quarkus-reactive-mysql-client	3.21.0		81ebe6e071038d71bfdef8cab3a7a7d31bc31f9a
 io.quarkus	quarkus-reactive-mysql-client	3.21.0.CR1		cd3f73f550783890c1f2113442616202704f79b9
 io.quarkus	quarkus-reactive-mysql-client	3.21.1		26952c8a19eb605db2efede7e827dd29c20a59c1
@@ -764,6 +768,9 @@ io.quarkus	quarkus-reactive-mysql-client	3.21.4		56368233196afc5f9500ee559c5e87a
 io.quarkus	quarkus-reactive-mysql-client	3.22.0		a76af6d4d8356104e73a9becff48c93a604db1a6
 io.quarkus	quarkus-reactive-mysql-client	3.22.0.CR1		f60d9791f921828b4beabdeffebd012cb5d7bdb7
 io.quarkus	quarkus-reactive-mysql-client	3.22.1		395245596705cfa1de5ef3ccd403b3f4e4364f08
+io.quarkus	quarkus-reactive-mysql-client	3.22.2		2774823c24851e1ac1bc92ea82c70d3f0b4c87c3
+io.quarkus	quarkus-reactive-mysql-client	3.22.3		ecdd0fc0a483ba141afa1c88e70025e66e80fef0
+io.quarkus	quarkus-reactive-mysql-client	3.23.0.CR1		7f6214c1262973d4f414efb224630e017473c2a2
 io.quarkus	quarkus-reactive-mysql-client	3.3.0		4ba0a6d89d7b93dff1771eb0afbab8f2e84edbf2
 io.quarkus	quarkus-reactive-mysql-client	3.3.0.CR1		4c6e9a4605207aeecf02be35969f7b5627496df8
 io.quarkus	quarkus-reactive-mysql-client	3.3.1		ecfd0896a58ee52708602da41b08822c5e235aad
@@ -1225,6 +1232,10 @@ org.osgi	org.osgi.service.zigbee	1.0.1		EC01714CC38024541BAE4FD592F4003F6D9EA5AE
 org.osgi	org.osgi.service.zigbee	1.0.1-RC1		f50c8fc3c73f0b0fe61b2e3179b225bb79d621bd
 org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.0		41ba9b18f6af54b6f665316649b41953cb910390
 org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.1		60502c604ea5327ec14a5919894eecb85c76c62b
+org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.10		ea2b0e42fc1c06ccb315c6b43986a190c0221c2f
+org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.11		2979c24383254ff82a6128e4f77d5428ce729545
+org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.12		34b75352c27a6ed93946e773893f1ced73bd8ffc
+org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.13		e37fa0cb2c0928ccaeeb84793e4a69fc130befcb
 org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.2		fee9e5848321248a8169f23fc1b1ba7ef2916ee9
 org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.3		bf1650e1072d0790daadb49ba160875e35b0594b
 org.oxerr.vividseats.client.rescu	vividseats-client-rescu-impl	0.0.4		d492ce399c5f35954577c26b881af391d00d2229

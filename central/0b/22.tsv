@@ -300,6 +300,7 @@ com.slack.circuit	circuit-retained-tvosx64	0.27.0		N/A
 com.slack.circuit	circuit-retained-tvosx64	0.27.0	metadata	e3aa1aeb201423c6a03a5e43056a89fdb93501af
 com.slack.circuit	circuit-retained-tvosx64	0.27.1		N/A
 com.slack.circuit	circuit-retained-tvosx64	0.27.1	metadata	e3aa1aeb201423c6a03a5e43056a89fdb93501af
+com.slack.circuit	circuit-retained-tvosx64	0.28.0	metadata	4ca7f40c42c24639b4b247d384d8710bbfe5fdd6
 com.typesafe.akka	akka-http-core_2.13.0-M5	10.1.7		080a4ae4673467a423be9115f67b6bd080e2a2c3
 com.typesafe.akka	akka-http-core_2.13.0-M5	10.1.8		b16469ed07e7808a83141e0354436c0e8d831ced
 com.uber.rib	rib-compiler-app	0.10.0		3fe6f5ce94e71f25c8e292be3a7f0acc25070a77
@@ -356,6 +357,7 @@ dev.opensavvy.prepared	compat-parameterize	2.0.0		73030950a7a4e1dc4401da4bb5a116
 dev.opensavvy.prepared	compat-parameterize	2.0.0-alpha.1		09a3eefcdc12bebb27fd11fd4bfdd472a346b168
 dev.opensavvy.prepared	compat-parameterize	2.0.0-alpha.2		0ff39a2a8c11bb2216d7826771af9162b4254c2a
 dev.opensavvy.prepared	compat-parameterize	2.0.0-rc.1		73030950a7a4e1dc4401da4bb5a116f6b898f69e
+dev.opensavvy.prepared	compat-parameterize	2.0.1		55520bf438a185fde0c457b82a69b23e1f3ac643
 eu.webtoolkit	jwt	3.1.11		fd17a77283ffebf59410fc65f397d9c6704310dc
 eu.webtoolkit	jwt	3.2.0		c2eaf87cc633b455cde2388425dbc15d93d8047c
 fr.iscpif.gridscale	httpexample_2.11	1.100		f285d10da5265d51e8c693b7014118c8d2864018
@@ -449,6 +451,7 @@ io.micrometer	micrometer-commons	1.13.10		02eba184675d19185a5380e1356831635f30e6
 io.micrometer	micrometer-commons	1.13.11		5ea882a88819139f7e1a85a7b1ca8d3246c1aeca
 io.micrometer	micrometer-commons	1.13.12		3bec8b61961af5d6d2e9fc5381750852359e582b
 io.micrometer	micrometer-commons	1.13.13		9fa147a70b0fbc237bd0ce9ec2a2fa9b33bc7bd7
+io.micrometer	micrometer-commons	1.13.14		b75e08f00a5d40e4b51d12a55bdc4d5a26c8a244
 io.micrometer	micrometer-commons	1.13.2		b2b69f7887f9bf6f5ae42e86a67a62367056aa3c
 io.micrometer	micrometer-commons	1.13.3		47b6b093cd6ba80c9da8d973ea79c7ef69a878d5
 io.micrometer	micrometer-commons	1.13.4		edcf69518a4c382c48e19c7fb7d4aedfb115c0c3
@@ -464,6 +467,8 @@ io.micrometer	micrometer-commons	1.14.3		bf17f05dd6343d36ecc31076197a962cfdf4613
 io.micrometer	micrometer-commons	1.14.4		3664f95586514d8f9adc81a5f7a5ef9f66b65599
 io.micrometer	micrometer-commons	1.14.5		6201a40489ccedc9539c5f7a2c84e9e64702bf10
 io.micrometer	micrometer-commons	1.14.6		1a6595762c77bd8401cf51aa11bac8e4fa747545
+io.micrometer	micrometer-commons	1.14.7		8c2c669afe1377ba4343409dc3d360a07fa1b81c
+io.micrometer	micrometer-commons	1.15.0		a796f0418b2e0fe42988a1ca6e240d8b3fb5e954
 io.micrometer	micrometer-commons	1.15.0-M2		d850c9bf6cf6f4d25ee8649fc35221349f828b48
 io.micrometer	micrometer-commons	1.15.0-M3		d819e48013676bb444a49a1de6b8712e742cbebb
 io.micrometer	micrometer-commons	1.15.0-RC1		03331846b991c8cd1f1ef478aa23f387db7f21e9
@@ -584,6 +589,7 @@ io.opentelemetry	opentelemetry-sdk-metrics	1.47.0		97b52b5e2209fe205b59c0cc62c78
 io.opentelemetry	opentelemetry-sdk-metrics	1.48.0		b65ddd2c3f7cd4a86a82df954aa9b977e1d3f5fe
 io.opentelemetry	opentelemetry-sdk-metrics	1.49.0		1eae6b8b460b24bec7ce68786e7bb63d7b93e170
 io.opentelemetry	opentelemetry-sdk-metrics	1.5.0-alpha		dd9496e5ee9c5a171693c51afdcc111fc7e106b6
+io.opentelemetry	opentelemetry-sdk-metrics	1.50.0		49432de0171798f671bda82bf7eef6ae283b3b7d
 io.opentelemetry	opentelemetry-sdk-metrics	1.6.0-alpha		98c4b5f400c5a9fbee693f479c68c1b2bd3c557c
 io.opentelemetry	opentelemetry-sdk-metrics	1.7.0-alpha		504e73ed7677847fb083c6f979b006772b65fe38
 io.opentelemetry	opentelemetry-sdk-metrics	1.7.1-alpha		074b5fd3830de5a7c973963f11b8cf9c158919c9
@@ -801,6 +807,7 @@ org.apache.camel	camel-jetty-common	4.8.3		8c612fe1d29c50bc3484c8fe83e3ae2d13ca5
 org.apache.camel	camel-jetty-common	4.8.4		bc1ff5665fd5db531034d7febb2f2813c065277c
 org.apache.camel	camel-jetty-common	4.8.5		bd565053350193d628b63b507de0a8b8b5ddccf9
 org.apache.camel	camel-jetty-common	4.8.6		20b91f6f10ff21485d8392017ae8509b3566d9c9
+org.apache.camel	camel-jetty-common	4.8.7		e3bda440071a19415a0182d42a7fc5808e7f3c3e
 org.apache.camel	camel-jetty-common	4.9.0		cc092e3fe8e72fcdb79bf12dfef143a6a32860b6
 org.apache.metamodel.membrane	Membrane-parent	0.1		N/A
 org.apache.spark	spark-graph_2.12	3.0.0-preview		616a080d52b50714b482c668b7124952955b50fb
@@ -844,6 +851,8 @@ org.eclipse.jetty	jetty-infinispan-common	12.0.17		b0e55b7ff7def9492cefd492eed86
 org.eclipse.jetty	jetty-infinispan-common	12.0.18		be40c381be13e1965262a7290d9c6aeb852573b9
 org.eclipse.jetty	jetty-infinispan-common	12.0.19		1ec6cd44fce7083ae5d196c4de950ac100b6c9b3
 org.eclipse.jetty	jetty-infinispan-common	12.0.2		71b6efbe8ed5c77c5def62c36e292e302f2de0f9
+org.eclipse.jetty	jetty-infinispan-common	12.0.20		2b940089764a17448382377d6903bbf02e457144
+org.eclipse.jetty	jetty-infinispan-common	12.0.21		61b6e108d2969c69c7f31e01afd065d6ee586380
 org.eclipse.jetty	jetty-infinispan-common	12.0.3		7e7bdfa47625dc0bfd6b7b47b9f772183200bad6
 org.eclipse.jetty	jetty-infinispan-common	12.0.4		5432c488ad1e267357fc4f47dd247fa5b9168d03
 org.eclipse.jetty	jetty-infinispan-common	12.0.5		3a7b327dedd0fb208d48a02f97e5e4a2866cd6c7
@@ -880,6 +889,7 @@ org.jmonkeyengine	jme3-awt-dialogs	3.8.0-alpha3		cd4ce9832aae293f426220e16da0fdb
 org.jmonkeyengine	jme3-awt-dialogs	3.8.0-alpha4		9e7e0fd6131aeabf66df0b0ebd1fd775f5cd64a8
 org.jmonkeyengine	jme3-awt-dialogs	3.8.0-beta1		0cd5d82d2b0bd5701b6f7769205fb949f0560c2b
 org.jmonkeyengine	jme3-awt-dialogs	3.8.0-stable		41d9e17d284db86632bdef3ec7fcf1598f7a906f
+org.jmonkeyengine	jme3-awt-dialogs	3.8.1-stable		5d7855ce08e28f8d841dba419ebaddef80dd4de1
 org.marketcetera	marketdata-marketcetera	2.2.0		8548d00ae105b7a6434acf37d0b738f5c601fd8c
 org.marketcetera	marketdata-marketcetera	2.4.0		55718edc762e9c65f45cbe9181f807bc64d853b2
 org.marketcetera	marketdata-marketcetera	2.4.1		088e624a132f641a0a0fa4063463d5326f2848fd

@@ -183,6 +183,7 @@ com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.10.0-snapshot.20250108.131
 com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.10.0-snapshot.20250114.13163.0.ve965e38d		c6869e11f0e66a0d43410b2044e7bdaf67b011d0
 com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		e838864f35a4e8d00cf55b19620d1a4726e5ffdf
 com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.10.0-snapshot.20250211.13169.0.vd812609c		abd9686d29a6c23c1b19aad29ba1842f9c36231b
+com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		fc7502ecdff75a07e901bfc3406bad64c5354434
 com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.9.0		a7f68253a19b5d4ecccfd9860bed3a61064ada23
 com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.9.0-adhoc.20240328.12709.0.v3c29b5ea		3227b25cf8060141d6cfe3607ba78b04c2735565
 com.daml	test-common-upgrade-tests-java-1.0.0-1.dev	2.9.0-adhoc.20240515.12789.0.v8e4e0378		9445eab38495d6e10a7f75fe3d729262eaa67533
@@ -1061,6 +1062,7 @@ dev.zio	zio-aws-xray_2.12	7.31.27.1		7b8753592b6c4f759bf4146a54779cabcb31d53b
 dev.zio	zio-aws-xray_2.12	7.31.28.1		4050ef18a55faeb41c1e79ad45b2c4b8aaf7e02c
 dev.zio	zio-aws-xray_2.12	7.31.3.1		98e16accf37fe91d8a4961773c0a7ded6712765f
 dev.zio	zio-aws-xray_2.12	7.31.30.1		6e1e6689ceb79fabdd8ee49460f902a66cf1b37a
+dev.zio	zio-aws-xray_2.12	7.31.30.2		6e5f86c8888067deed0fb85baf5bc388211ce5ed
 dev.zio	zio-aws-xray_2.12	7.31.4.1		9a271b8e0532c959cfec5271323ed27124672baa
 dev.zio	zio-aws-xray_2.12	7.31.6.1		e8d929ef8b88446e14c93d23f4a68042087ea02f
 dev.zio	zio-aws-xray_2.12	7.31.6.2		1b876f0bce0e3ec7d83b4b90d99c3b35f478de82
@@ -1090,6 +1092,8 @@ io.camunda.connector	connector-aws-bedrock	8.6.10		e60ae4c6fae2f7795b2e821b9aae2
 io.camunda.connector	connector-aws-bedrock	8.6.10	with-dependencies	4e2e691ba175f5777bb8ff609c8a169dd486b202
 io.camunda.connector	connector-aws-bedrock	8.6.11		f5b4b880f5c3cf2d1c5edfee6349da7cedff81a6
 io.camunda.connector	connector-aws-bedrock	8.6.11	with-dependencies	97c05c1992ba9fc7d60045c230f28ed31b719bcd
+io.camunda.connector	connector-aws-bedrock	8.6.12		9077ad68a79dd304fbab265afd202285d3472f34
+io.camunda.connector	connector-aws-bedrock	8.6.12	with-dependencies	814293ac0869937c6361de26acc5106ad37900c4
 io.camunda.connector	connector-aws-bedrock	8.6.2		6aeb099aabf4e0fb359446c123a16b68a72e9669
 io.camunda.connector	connector-aws-bedrock	8.6.2	with-dependencies	46092fba3b76f12db22eba86a4c89ac6a146fc4d
 io.camunda.connector	connector-aws-bedrock	8.6.5		0a5e5e18a06a341e5fca0f92d1e6fe47baa303c7
@@ -1112,10 +1116,18 @@ io.camunda.connector	connector-aws-bedrock	8.7.0-alpha3.3		79e8bc64cbaf22d4cce0b
 io.camunda.connector	connector-aws-bedrock	8.7.0-alpha3.3	with-dependencies	5bea5865117f9e6d631e007103a0d8cd47d98ecf
 io.camunda.connector	connector-aws-bedrock	8.7.0-alpha4		3385aa1f086a251a004f1e5ae33ef666a501ad7c
 io.camunda.connector	connector-aws-bedrock	8.7.0-alpha4	with-dependencies	5b12a0d08f5190bfdbc46d120e2786f9c992580c
+io.camunda.connector	connector-aws-bedrock	8.7.1		1dfeaf7f5f4ac834c623cd4564bb80cde8a032aa
+io.camunda.connector	connector-aws-bedrock	8.7.1	with-dependencies	9ae9a42bf62b6fbbfa88d93d6ac45ea50bef1bc4
+io.camunda.connector	connector-aws-bedrock	8.7.2		2ea5e6aa43e3c6f633889ecfa9a2c83b5f634d43
+io.camunda.connector	connector-aws-bedrock	8.7.2	with-dependencies	6c5413f7934d0d6fb8d9da606cbdd673992e05a7
 io.camunda.connector	connector-aws-bedrock	8.8.0-alpha3		4c6488e771e46eca8587d7aa36e4263986143cfd
 io.camunda.connector	connector-aws-bedrock	8.8.0-alpha3	with-dependencies	60db6cca22f2e10903da5d8ad25a638911ef3c0b
 io.camunda.connector	connector-aws-bedrock	8.8.0-alpha3.1		214a5339814b94ff1dc753cbe1fe48a779f21691
 io.camunda.connector	connector-aws-bedrock	8.8.0-alpha3.1	with-dependencies	0eb5bfc53a7c41060c76fb47a4e2611ee654ce4e
+io.camunda.connector	connector-aws-bedrock	8.8.0-alpha4		7eacf9a61cf7d2400e15939cce077a8145776e40
+io.camunda.connector	connector-aws-bedrock	8.8.0-alpha4	with-dependencies	ae67305b3b26ea12ad28f6b6511385ee7dfe3064
+io.camunda.connector	connector-aws-bedrock	8.8.0-alpha4.1		abc11049c20856f3dfe44345ca9601b5b5a4e424
+io.camunda.connector	connector-aws-bedrock	8.8.0-alpha4.1	with-dependencies	54ebf7988b1eb00952ea462a85fb79d44acba845
 io.fluidsonic.raptor	raptor-key-value-store-memory-jvm	0.17.0		626dcc475fb47269342f1e0494fd005f96263e66
 io.fluidsonic.raptor	raptor-key-value-store-memory-jvm	0.17.1		626dcc475fb47269342f1e0494fd005f96263e66
 io.fluidsonic.raptor	raptor-key-value-store-memory-jvm	0.17.10		626dcc475fb47269342f1e0494fd005f96263e66
@@ -1267,6 +1279,7 @@ io.kotest	kotest-common-macosarm64	6.0.0.M2		N/A
 io.kotest	kotest-common-macosarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-common-macosarm64	6.0.0.M3		N/A
 io.kotest	kotest-common-macosarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-common-macosarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.ktor	ktor-client-auth-basic-macosx64	1.1.1		adb61b653dd32483fca6aef6924d1427f9e99471
 io.ktor	ktor-client-auth-basic-macosx64	1.1.2		4a6cb83cb0a660b7d0590deb0ed2208f70330dfa
 io.ktor	ktor-client-auth-basic-macosx64	1.1.3		4583e0e2be354b1da39517f12abc1236883e3ee8
@@ -1655,6 +1668,8 @@ name.remal	gradle-plugins	1.8.4		0128fb744b7d2d6b7bbfac37f6ef3393ff3e1cfb
 name.remal	gradle-plugins	1.9.0		a20ef5a554ef16259f0e5ccbe487e4d2ef49f1ae
 name.remal	gradle-plugins	1.9.1		468e3dfcc458dad7523440f0bf2675fd88c9636d
 name.remal	gradle-plugins	1.9.2		8eb01023842005a6e901b9522932a3af74020597
+net.folivo	trixnity-test-utils-iosx64	4.15.2	metadata	d58824e2b090a31ace8472ca23c64fc7d543de57
+net.folivo	trixnity-test-utils-iosx64	4.15.3	metadata	3e05e43f46b96f1292d9e48874f1fa8a6bf1a99e
 net.javacrumbs.future-converter	rxjava-java8	0.0.1		e368518c032ae5c9c074c35aafe03a364498cda4
 net.javacrumbs.future-converter	rxjava-java8	0.0.2		fcbe55a87498a398d6828bc2e08b1229ac0e6da6
 net.javacrumbs.future-converter	rxjava-java8	0.0.3		c6b4a49fbe09f50cd5a7a6ef83df0e64bcd85986
@@ -1836,6 +1851,7 @@ org.apache.camel	camel-drill	4.8.3		cdcb9bd8bec2bbc5c520abfdfd01a78a4228323f
 org.apache.camel	camel-drill	4.8.4		5f7af31ac2608ad8df2cc0eae6d654ea528367fb
 org.apache.camel	camel-drill	4.8.5		e06e1a7dbaa15bc72d0d3c6c7b50e300763d9d30
 org.apache.camel	camel-drill	4.8.6		40afe58b742c4f0c7f5c312c980a4c52e287c901
+org.apache.camel	camel-drill	4.8.7		5812ae9ce91e8b3e0c439d9a1e1f3cf580c27022
 org.apache.camel	camel-drill	4.9.0		253312f24142acee779c34d44ee5e0ef8ec84c27
 org.apache.juneau	juneau-common	9.0.0		f3a989a315d7e4e85bf1c1463c5dbc927642e58d
 org.apache.juneau	juneau-common	9.0.1		23b5afba214a5548d302084846adec39d5c3a97e
@@ -2199,10 +2215,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functio
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.80.0		ac1c1fe6984edc9c332b907b025508a418f4909d
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.81.0		b07a4cc67cb2d904d00d48c79ea2a53b3e90a6a6
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.82.0		649951008dfa1bc53a9ffdc6a7d907e49bd1d673
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.82.1		d13bafc064a73f250a2da4bdbc3a2b7e0174d7ec
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.83.0		40e767096af0dcf5d8b9c52bb5e5ce7dc1a00e07
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.83.1		35571a8f504f496f18e2f3f6613277a3638e5463
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.83.2		b00c2c52b083210ec804b8ad9a95a2197394f287
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.83.3		4b4bf4972dd1c6ab4e13e30e5b33b1a4b9b36259
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.84.0		6416151308d721daa993ce8980578d56748f89c2
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.84.1		84e658c1e6510dc710ebcafb9cfcc55b3f5c3e10
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.85.0		1d0c462bb1da262f8b07dbd5c518c8b39e7bc8d3
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.85.1		bb810a5c67f2afdabf7632bc55ebe79d094c045c
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.85.2		9f5e216b6a4cdb139a76d459ee1ae5b79d66bd26
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions	4.85.3		5fc90c2fd29c1c36fb7a3717c86daeb913a5eed4
 org.finos.morphir	morphir-datamodel-json-zio_sjs1_2.13	0.3.0		d2baa9660bb43cae40b01bf801a62cffa4d56e26
 org.finos.morphir	morphir-datamodel-json-zio_sjs1_2.13	0.3.0-M3		e263959ae710e2d735681617659344b7524f92d7
 org.finos.morphir	morphir-datamodel-json-zio_sjs1_2.13	0.3.0-M4		d87076ca260652e144f29a317b096bf514083e58
@@ -2882,6 +2905,7 @@ software.visionary.loadr	streams	2025.01.09	loadr	7d073bece8276a442bf64e31cc161b
 software.visionary.loadr	streams	2025.02.07		N/A
 software.visionary.loadr	streams	2025.02.07	loadr	5fb00a9ddc48f7cf3d86d933999b13f5efc00fc4
 software.visionary.loadr	streams	2025.03.28		N/A
+software.visionary.loadr	streams	2025.03.28	software.visionary.loadr	c728f9f4b12fd02c8c31603523e0af263ba52813
 tz.co.asoft	raven-email-agent-config-wasm-js	3.0.14		N/A
 tz.co.asoft	raven-email-agent-config-wasm-js	3.0.15		N/A
 uy.klutter	klutter-all-jdk6	0.1.1		fa7a7f295a26d3164d3e89bc24a9f0c63fb876ca
@@ -2936,3 +2960,4 @@ xyz.mcxross.bcs	bcs-watchosx64	0.1.1		N/A
 xyz.mcxross.bcs	bcs-watchosx64	0.1.1	metadata	1bd438ad4f51003e4800e027a3589b08f34911a1
 xyz.mcxross.bcs	bcs-watchosx64	0.1.2		N/A
 xyz.mcxross.bcs	bcs-watchosx64	0.1.2	metadata	fc44fa3479f542e65aadf3a650c248e12b597804
+za.co.absa.sbt	sbt-git-hooks_2.12_1.0	0.1.0		a7772167e1e6628523603fd67338eca1619e2dee

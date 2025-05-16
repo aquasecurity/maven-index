@@ -1153,6 +1153,7 @@ io.quarkus	quarkus-container-image-docker-common	3.15.2		214e5afedb4da9144fb342a
 io.quarkus	quarkus-container-image-docker-common	3.15.3		db1d5554ab2ff24cfabb41d0f137e1fbd462ac1f
 io.quarkus	quarkus-container-image-docker-common	3.15.3.1		b4ac085d8c50eed5666d683940da8f90ccd127eb
 io.quarkus	quarkus-container-image-docker-common	3.15.4		822eb2d0dc463d69d98e73a37ac1dc1634906e2f
+io.quarkus	quarkus-container-image-docker-common	3.15.5		8c28f360e54d28cf1b5da45c50e77dc6bf71d1ad
 io.quarkus	quarkus-container-image-docker-common	3.16.0		16add5c110def94b8ac2f9a0b36fdecc45d70545
 io.quarkus	quarkus-container-image-docker-common	3.16.0.CR1		0efb15807a717d1b577f33074f655dd90e335793
 io.quarkus	quarkus-container-image-docker-common	3.16.1		2fa27a32ee6ee0394390074b8af6cffb8da4e227
@@ -1183,6 +1184,7 @@ io.quarkus	quarkus-container-image-docker-common	3.19.3		711d975d599c8d5fed41c90
 io.quarkus	quarkus-container-image-docker-common	3.19.4		86980b9ae41b21b79ee1e43830f5f4f2f74b01f1
 io.quarkus	quarkus-container-image-docker-common	3.20.0		d0635ee0fa4fcf4b57a8379078ea7ca5325ab14c
 io.quarkus	quarkus-container-image-docker-common	3.20.0.CR1		9fff585e3c2658c62e9dedc1a3c7714f32e8f033
+io.quarkus	quarkus-container-image-docker-common	3.20.1		f515bfc7bcd5466215785504739bd0c4408e0d4a
 io.quarkus	quarkus-container-image-docker-common	3.21.0		4085c4e411b73c377d5cb7d59465d48ca59bfc2b
 io.quarkus	quarkus-container-image-docker-common	3.21.0.CR1		a797b4b6e21f4f94a407cadd4d57f783ff61b00d
 io.quarkus	quarkus-container-image-docker-common	3.21.1		e9ff256ab01336135a17b73c36a393266987f455
@@ -1192,6 +1194,9 @@ io.quarkus	quarkus-container-image-docker-common	3.21.4		5a2d9a1897d123377695aac
 io.quarkus	quarkus-container-image-docker-common	3.22.0		28ab13eea88e108d0bb19ade91f621e6fdf3eee4
 io.quarkus	quarkus-container-image-docker-common	3.22.0.CR1		a5b4522492a7934ea72a7f40b0a6d7e8ebf8c841
 io.quarkus	quarkus-container-image-docker-common	3.22.1		dce78947b0be00386d3630f3fe439ee75ec54f8a
+io.quarkus	quarkus-container-image-docker-common	3.22.2		56b6dabed01ee1599bda3a7e777ff0a21269ca9a
+io.quarkus	quarkus-container-image-docker-common	3.22.3		ea0e0fc12bcdadc0d83e7133b10387fa3a2c54c8
+io.quarkus	quarkus-container-image-docker-common	3.23.0.CR1		432db4deb5e3d444146750cc9052749a311176c5
 io.quarkus.platform	quarkus-cassandra-parent	2.0.0.Final		N/A
 io.quarkus.platform	quarkus-cassandra-parent	2.0.1.Final		N/A
 io.quarkus.platform	quarkus-cassandra-parent	2.0.2.Final		N/A
@@ -2215,6 +2220,7 @@ io.streamnative	pulsar-functions-local-runner-original	4.0.1.2		593a34b023a574a0
 io.streamnative	pulsar-functions-local-runner-original	4.0.1.3		603f850723372ba36b4db8a3bbf7469f619d7425
 io.streamnative	pulsar-functions-local-runner-original	4.0.1.4		98ccb624b66399603f9f6acc4af2646d1348f217
 io.streamnative	pulsar-functions-local-runner-original	4.0.3.1		868d9f038762861b7f3dc9bfd3e5ca247f20b824
+io.streamnative	pulsar-functions-local-runner-original	4.0.4.2		e6cf75fef7f3c777df6442b3eac92e2c1d6e4f85
 io.streamnative	pulsar-functions-local-runner-original	master-rc-daily		36f7795b079c65f70a88522b48f97aed9e1afc1e
 io.streamnative	pulsar-functions-local-runner-original	v2.8.0-rc-202106091140		b808fd49264e390536b67442c0e89200a3933287
 io.streamnative	pulsar-functions-local-runner-original	v2.8.0-rc-202106121853		e3475bb1d872b7cc69e767d904b82ec8e1c1cbf5
@@ -2498,6 +2504,7 @@ org.danilopianini	multi-jvm-test-plugin	3.2.4		90d4a38d279e70cadcc7048bee1622de8
 org.danilopianini	multi-jvm-test-plugin	3.3.0		5cb4c478b5133b2a02ea838de5f2655e31c27ff6
 org.danilopianini	multi-jvm-test-plugin	3.4.0		ede310e4d4dd7b1013a9b864e01188ee93ce972d
 org.danilopianini	multi-jvm-test-plugin	3.4.1		2f2ab478f4814b681001e16f0d6b70b330e7fb87
+org.danilopianini	multi-jvm-test-plugin	3.4.2		99a26c3b16ebdb7b3ecc79db41a7bf52e6a86397
 org.duracloud	s3storageprovider	3.2.0		e638cc3106a9e3e5ce2858b8266b6d49706be4a3
 org.duracloud	s3storageprovider	3.2.1		02ea1eedf2f6b0fd3e6f8e5b6880b5a2c594f002
 org.duracloud	s3storageprovider	3.2.2		a9b7987623bd5cbef2a88b6890bbd3dedd2a1911

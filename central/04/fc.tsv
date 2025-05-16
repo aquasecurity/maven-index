@@ -1302,6 +1302,7 @@ com.soywiz	korlibs-serialization-yaml-js	6.0.0-alpha1		N/A
 com.soywiz	korlibs-serialization-yaml-js	6.0.0-alpha2		N/A
 com.tunjid.tiler	compose-iosx64	1.1.0		N/A
 com.tunjid.tiler	compose-iosx64	1.1.0	metadata	4ab7471996be3995379f4c623794a1975d852249
+com.tunjid.tiler	compose-iosx64	1.2.0	metadata	d7a1c90ce7d15ed2178b84c02e2425fdd70c3b68
 com.tunjid.tiler	compose-iosx64	1.2.0-alpha01		N/A
 com.tunjid.tiler	compose-iosx64	1.2.0-alpha01	metadata	acca679ca1ac720fba83b4c653b40336a43df867
 com.tunjid.tiler	compose-iosx64	1.2.0-beta01		N/A
@@ -1433,6 +1434,15 @@ io.github.rhdunn	xqt-kotlinx-lsp-androidx86	2.0.1		N/A
 io.github.the-best-is-best	compose-request-permission	1.0.0		N/A
 io.katharsis	katharsis-security	3.0.1		72df8810a89622cf60e1042f9c04c54963c02a6a
 io.katharsis	katharsis-security	3.0.2		a483d96662256974f4cf74b8f9620c340170f140
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.17.0		aa503e8f88161579447b5a6165b025f2d0cc0db3
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.18.0		136283af54b56b6206f8b0f007b80bb700e55e34
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.19.0		3ed62ad82bb0f5dde0e1007c3fb2c1401f5dc188
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.20.0		25e2bab2ee5931f327ab6fcf458f1d0d4c804a24
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.21.0		fcdac80b6a792c1138d16f235390c143098e6c5a
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.22.0		1e7d77cec8d64e993acff1333e43560c49636b89
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.23.0		2e999fd514a3cbc2c92d5cd423828bd988be246d
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.24.0		d7f7a465863dd1fba2665c777e77b0a0354555a8
+io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	2.24.1		d897161deddb280629294eeefa31dcffd1a4f955
 io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	3.0.0		a0cb286f9b30e10780ce070a1f28b285d62680b8
 io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	3.1.0		e0285c1bf83fc4734e08d253e21441eaa753688e
 io.kevinlee	sbt-devoops-release-version-policy_2.12_1.0	3.2.0		e80049f7e0a6117f9f50c9a0700a2fb5b47691c3
@@ -1450,6 +1460,8 @@ io.matthewnelson.kmp-tor	resource-exec-tor-macosarm64	408.15.0		N/A
 io.matthewnelson.kmp-tor	resource-exec-tor-macosarm64	408.15.0	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
 io.matthewnelson.kmp-tor	resource-exec-tor-macosarm64	408.16.0		N/A
 io.matthewnelson.kmp-tor	resource-exec-tor-macosarm64	408.16.0	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
+io.matthewnelson.kmp-tor	resource-exec-tor-macosarm64	408.16.1	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
+io.matthewnelson.kmp-tor	resource-exec-tor-macosarm64	408.16.2	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
 io.opentracing.contrib	opentracing-elasticsearch6-client	0.0.5		7336079f30cb8f49706553ba749806ca5a34313f
 io.opentracing.contrib	opentracing-elasticsearch6-client	0.0.6		f12b95d023cecad809160bcd5fa02fb8350a00bd
 io.opentracing.contrib	opentracing-elasticsearch6-client	0.0.7		254e7e8f63236e44f072b56bbaca6ef141b1871d
@@ -1460,6 +1472,7 @@ io.opentracing.contrib	opentracing-elasticsearch6-client	0.1.3		d59f992173b8114b
 io.opentracing.contrib	opentracing-elasticsearch6-client	0.1.4		ccef3775c84c23c270159fd9ed84dacad4e66930
 io.opentracing.contrib	opentracing-elasticsearch6-client	0.1.5		bd6f135a5bffeba760db9d16ef63a5fb68b59f7e
 io.opentracing.contrib	opentracing-elasticsearch6-client	0.1.6		bf42ccc10bc1d59922e11b33f1331f4974fad206
+io.quarkus	quarkus-messaging-dev	3.23.0.CR1		8e39af9bd9a372c9dd764c38f0317c6ce500cab7
 io.rsocket.kotlin	rsocket-core	0.13.0		9cc39d5fb89544586714f8d59bbcc4ec67c91866
 io.rsocket.kotlin	rsocket-core	0.13.0	all	3e768d7460146d7cf4627749482bb3392bc6ee30
 io.rsocket.kotlin	rsocket-core	0.13.1		86b900e8dbb06168ec4a78d561283c9b5effb81c
@@ -1635,8 +1648,10 @@ org.apereo.cas	cas-server-support-gcp-firestore-service-registry	7.2.0-RC6		7365
 org.apereo.cas	cas-server-support-gcp-firestore-service-registry	7.2.0-RC6	resources	f3d986c5e6a3e274313bf0a63e6b9b327234bb9b
 org.apereo.cas	cas-server-support-gcp-firestore-service-registry	7.2.1		3a8614f567fc2fa2db163f7a666a268e0a6fc7bb
 org.apereo.cas	cas-server-support-gcp-firestore-service-registry	7.2.1	resources	712d4f74d5af00239b4cf60a4ed83ddce2b79174
+org.apereo.cas	cas-server-support-gcp-firestore-service-registry	7.2.2		68124554645e1d1888eef511a9ae31ac6020510e
 org.apereo.cas	cas-server-support-gcp-firestore-service-registry	7.3.0-RC1		3d99fdd707602ccab367b929864fa9409b92aee6
 org.apereo.cas	cas-server-support-gcp-firestore-service-registry	7.3.0-RC1	resources	0aaa0e1d48d4d41485536027a8e933e0d76834d4
+org.apereo.cas.support.cas-server-support-couchbase-core	5.0.0.RC2	support		02156ac1cdd192278b520109ad27c67df50492b2
 org.bitbucket.yahor_makouski	FFmpegAndroid	0.2.5.6		N/A
 org.bitbucket.yahor_makouski	FFmpegAndroid	0.2.5.7		N/A
 org.bitbucket.yahor_makouski	FFmpegAndroid	0.2.5.8		N/A
@@ -1737,6 +1752,7 @@ org.eclipse.jnosql.databases	jnosql-elasticsearch	1.1.3		24cd3718900b365a4974a5c
 org.eclipse.jnosql.databases	jnosql-elasticsearch	1.1.4		508abb63e2c5b509b9895b469071782c2b6133a0
 org.eclipse.jnosql.databases	jnosql-elasticsearch	1.1.5		47ef22bcff1058b13ada81ee334a241233e3ac38
 org.eclipse.jnosql.databases	jnosql-elasticsearch	1.1.6		772555c5e4d6ccbaf8b4a43775952b2f02ccc005
+org.eclipse.jnosql.databases	jnosql-elasticsearch	1.1.7		e96c560fd6726bac064bbcf951afafa466163260
 org.entur.jackson	jackson-syntax-highlight	1.1.0		11bc2b4362d5dcd32aa398c5b082f66d0eed5a2f
 org.hudsonci.plugins	join	1.13-h-1		a3b8b85937c9bab48a26e73fabccf41d63fb329f
 org.hudsonci.plugins	join	1.13-h-2		861835d64d65d6b941ff2132de886ce3797ba269

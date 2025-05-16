@@ -5,6 +5,10 @@ at.meks	easy-validation-parent	2.0.0-RC5		N/A
 br.com.moip	mpos-android-sdk	2.0.0		bc060efd583f3fd85a6553a3bf244436b69f35a1
 br.com.moip	mpos-android-sdk	3.0.4		39efdc10b2404d72a0b097d01d3039cddcee9858
 br.com.moip	mpos-android-sdk	4.0.1		N/A
+ch.epfl.scala	sbt-web-scalajs-bundler-sjs06_2.12_1.0	0.16.0		9fc9d59f3f045388cbb97dc363c50172203ad5a9
+ch.epfl.scala	sbt-web-scalajs-bundler-sjs06_2.12_1.0	0.17.0		c4319f136361ae23452bb53c8458974a7889711d
+ch.epfl.scala	sbt-web-scalajs-bundler-sjs06_2.12_1.0	0.18.0		e4516b96d9828b9325b3f62ad04758f6b4ecbf03
+ch.epfl.scala	sbt-web-scalajs-bundler-sjs06_2.12_1.0	0.19.0		3e51b8395016bbffb3d0ee8fe30445ca711ddccc
 city.smartb.s2	s2-automate-storing-js	0.10.0		N/A
 city.smartb.s2	s2-automate-storing-js	0.4.1		N/A
 city.smartb.s2	s2-automate-storing-js	0.5.0		N/A
@@ -1080,6 +1084,19 @@ org.eclipse.dirigible	dirigible-components-engine-web	11.41.1		810e7237e2a4b2e6a
 org.eclipse.dirigible	dirigible-components-engine-web	11.42.0		48e479653d96ef5fb42fc10c6cdd7579f7bb18f4
 org.eclipse.dirigible	dirigible-components-engine-web	11.43.0		2f08c0e3f4395ded2650ab02b594c1ae34438bf2
 org.eclipse.dirigible	dirigible-components-engine-web	11.44.0		6a211711d383f41678ff676bb498690880a22dd8
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.0		59771218defd8205a50e023de77e54440823a9e6
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.1		72be7c01f9ed936f2697a7f8c7cb242c5012d19f
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.10		063b6961acf4875cb4fbd918834b496175fb0837
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.11		6905f4e99f4a6022b9b87f6037a539e89afbbe2e
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.12		7719b83356a6420d2f81833bb425de4edbb78b0c
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.13		0ffa28c745ebbf256f52d96b38d9a456176bb322
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.3		f862ba4f0007718466c8a6300848d3b60a5af62c
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.4		f93fb3a31076187dce46bbf31597286eac62c6d0
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.5		bd73d02e8d78469a205a9d97186a48ad68fecf89
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.6		cf7800727586f625d1026b002afc48241eb365ac
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.7		fdc40c5233ddec840d6e7091c61447a6470fc5f2
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.8		a11ad8176bb3f1e09e8fae087bc501e84112d52c
+org.eclipse.dirigible	dirigible-components-engine-web	11.45.9		c16978813a262ad2b0a85ba53665b9dc6394bdb2
 org.eclipse.dirigible	dirigible-components-engine-web	11.5.0		29641e0f478bfc817997f19cf8caae89793d342c
 org.eclipse.dirigible	dirigible-components-engine-web	11.6.0		58dbbf0fb82911b93a56af89baeec6751d5b0515
 org.eclipse.dirigible	dirigible-components-engine-web	11.6.1		218cc8a294479baeaef0880eb55f8753c8cbdc11
@@ -1241,6 +1258,7 @@ org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-arm64	a5c812bfb9923f4d32f641bfbe6bc
 org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-armhf	3298f4a9aa8e78f695980fe060385d9d85fef57b
 org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-x86_64	39d27c35057e1f4f07c2a7e998d3950029b12dab
 org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-x86_64-avx2	0088f22409e54dbb1508bf9091f0af54e40e6d1b
+org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-x86_64-avx512	de7f18dd0e750e1b6c5ba1bac3c0b60dec0a0b95
 org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-x86_64-compat	2e2500d6618ae73b836e60412ebe1a14c0d425b4
 org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-x86_64-onednn	5962570f71e0d7a57d67c6b104073dffec77ea02
 org.nd4j	nd4j-native-preset	1.0.0-M1.1	linux-x86_64-onednn-avx2	888221863842e8849966a87d26b78e04806daab3
@@ -3203,6 +3221,7 @@ org.sdase.commons	sda-commons-server-prometheus	7.3.13		191e52a608ee1c7ea64dbf89
 org.sdase.commons	sda-commons-server-prometheus	7.3.14		6643bbc41ace1487a48532bec9a1932952d14c48
 org.sdase.commons	sda-commons-server-prometheus	7.3.15		46bbb335f3aca1b5bee6f26ed1fff439826589e0
 org.sdase.commons	sda-commons-server-prometheus	7.3.16		a616ca241e904bee48dcb6a90c2a50d845ee8d0f
+org.sdase.commons	sda-commons-server-prometheus	7.3.17		c1c64045e49bbd13896cb2b306f32df7962e529c
 org.sdase.commons	sda-commons-server-prometheus	7.3.2		ff94a6e333cd488ec26835204229a3dbd20ad07a
 org.sdase.commons	sda-commons-server-prometheus	7.3.3		588b826d47569ed4d3640a1d1fd30f9e3909a571
 org.sdase.commons	sda-commons-server-prometheus	7.3.4		70366066116743321b62f8b4b2470d93852ce686
@@ -3211,6 +3230,10 @@ org.sdase.commons	sda-commons-server-prometheus	7.3.6		bd038638f8a1011f61d2eab91
 org.sdase.commons	sda-commons-server-prometheus	7.3.7		680a44c2cc3ec73e4972a6eb829fd4e3c8da2c68
 org.sdase.commons	sda-commons-server-prometheus	7.3.8		75269f5a34b76e7f7e7582ba9081f6eb1e16978f
 org.sdase.commons	sda-commons-server-prometheus	7.3.9		e8775a22a9ce57a6c61dc039a8d6964deaa6dc97
+org.sdase.commons	sda-commons-server-prometheus	7.4.0		9285b66d3d751cf61d70e58bc56088af2a4abdf0
+org.sdase.commons	sda-commons-server-prometheus	7.5.0		aa41d92cb6f25e8be368fc6feb2b40d372c10213
+org.sdase.commons	sda-commons-server-prometheus	7.5.1		55d0a4bed7c8f7e08c37ca286289671ba7fdd94d
+org.sdase.commons	sda-commons-server-prometheus	7.5.2		24291cdc58e860876ed3394851e77ac1f8df00e8
 org.umlg	java-generation	1.0.0		dd1a7ccc5d272f2e7900f630467e826a7be8c571
 org.umlg	java-generation	1.0.0.M9		12c1af137238e9c64acb15a2a86eb04ea92519c6
 org.umlg	java-generation	1.0.1		6e83bcb3745393a9dab99466bc1e192eb9474fc4

@@ -146,6 +146,7 @@ com.genexus	gxqueue-azure	4.8.4		189af64c7042495e2d7a8ed74f4ef81995610f99
 com.genexus	gxqueue-azure	4.8.5		65992f09170f7385b2a99e485a084631e2c39ddd
 com.genexus	gxqueue-azure	4.8.6		3dc71b6676e9cb988588e96b0bc280922ba1a0b0
 com.genexus	gxqueue-azure	4.8.7		a876098fed4b563224eff884b02ed56195e0e5dc
+com.genexus	gxqueue-azure	4.9.0		c6116c40361f8bd706002f5a7e7d87ee36a257eb
 com.gettyimages	spray-swagger_2.10	0.1		1b4bc288b1a7a71c8532b8fc1a3fa7d185b01c4e
 com.gettyimages	spray-swagger_2.10	0.1.1		b35ce91ad23db32384c63d64192e75e5dbae8ff8
 com.gettyimages	spray-swagger_2.10	0.1.2		ea90cd488decc5e1b7cc254e440119d388cd7f03
@@ -742,6 +743,7 @@ dev.zio	zio-aws-quicksight_3	7.31.27.1		b42b89f3c4cb755eccc1ad1311b8f6775f9aab8f
 dev.zio	zio-aws-quicksight_3	7.31.28.1		712ff1a7eb107c7b6a156aade026c20a038e7d79
 dev.zio	zio-aws-quicksight_3	7.31.3.1		7632dc6fd20b7e488ce0d6b4f0ddb7e504d90beb
 dev.zio	zio-aws-quicksight_3	7.31.30.1		7084886ec10885692857f1e8d5d73be6aa91a01a
+dev.zio	zio-aws-quicksight_3	7.31.30.2		56549edebf60f76ad6f5e075b921b0cc66b93ae4
 dev.zio	zio-aws-quicksight_3	7.31.4.1		c21f11f591e816b4b048436897a8c7e3c9d242b8
 dev.zio	zio-aws-quicksight_3	7.31.6.1		8772fa4b1aa3b0cd278ba19b20b69e965d1c854e
 dev.zio	zio-aws-quicksight_3	7.31.6.2		13f615da253520ca2527854be0f0327d6f7581c4
@@ -794,6 +796,7 @@ io.coil-kt.coil3	coil-iosx64	3.0.4		N/A
 io.coil-kt.coil3	coil-iosx64	3.0.4	metadata	dcefe26c509dc999b02196eafef29e2fd03e6cb9
 io.coil-kt.coil3	coil-iosx64	3.1.0		N/A
 io.coil-kt.coil3	coil-iosx64	3.1.0	metadata	ac21b3fdc4eb4a9886b8f86a301abc5a8b5d4bd5
+io.coil-kt.coil3	coil-iosx64	3.2.0	metadata	4f8dbbcc7a8822274c02201ec4da33c3a469f7e4
 io.coil-kt.coil3	coil-iosx64	3.2.0-rc01		N/A
 io.coil-kt.coil3	coil-iosx64	3.2.0-rc01	metadata	8f3016ae4e2704751af65626ee9475c64546eb67
 io.coil-kt.coil3	coil-iosx64	3.2.0-rc02		N/A
@@ -968,6 +971,8 @@ io.scalaland	chimney-engine_native0.5_2.12	1.7.0		e82654d00cf8046128bc098be5cf24
 io.scalaland	chimney-engine_native0.5_2.12	1.7.1		e4be70c6b33a5285528d957162a97090e70dfe8f
 io.scalaland	chimney-engine_native0.5_2.12	1.7.2		66c44f0a6769bde89c29a41fdfece886db066d2a
 io.scalaland	chimney-engine_native0.5_2.12	1.7.3		79c9771219d44e9e2d6188b40d02ae9d69099888
+io.scalaland	chimney-engine_native0.5_2.12	1.8.0		0fc1f713ac59703938d479e2b8a79055661698f4
+io.scalaland	chimney-engine_native0.5_2.12	2.0.0-M1		530b1991ec19cb53a5089676f03d6c3881ee7cee
 io.spray	spray-can_2.11	1.3.1		fe7070cc99f4eb366412ed45bea7644355e16414
 io.spray	spray-can_2.11	1.3.2		29445d188746097c7e990892f8aba55be2da3044
 io.spray	spray-can_2.11	1.3.3		7ff5673b5ca9eb81e8d2a7b557174185fa449b3f
@@ -1560,10 +1565,17 @@ org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.79.0		4fbb4
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.80.0		8545ee928df2cf598d66c81cfe5c89c97c004588
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.81.0		c2ad32dbba271f8b6d844093cb70b2abdc69ae55
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.82.0		ae0568d44e0cd99ad54930d96c5dc6adcb620462
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.82.1		e40bf050f3df507058edac0d4329b4bd71e9f8fe
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.83.0		966e72f4cd738252617d9ee7c8a4e7ce21455414
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.83.1		fa981d0954437c50ad3c7c1919d1d6884925c068
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.83.2		e1f44b21a377cfcfaa763e23ca0f8f5068ad236a
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.83.3		dbf25f2103823f904cd1102704511f75f58d0741
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.84.0		7aa140bb18202ebd0c88d5f76cf7a1186c7ce5ab
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.84.1		b53e9a84b2841670cab68dca1623719bc648e540
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.85.0		f2a076c1d51413e1891ecc95a31fef4640e99f72
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.85.1		f64e780c9c60af6294c85fd432aa75c037f0409c
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.85.2		deb30376ae65247b89a019d7ec5f6e0bd8901e88
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-compiler	4.85.3		f2446cbdcffccdfedb83cd894ab33e52496b4a41
 org.finos.legend.pure	legend-pure-runtime-java-extension-external-shared	0.0.8		16b8abb3c9c5219979c998b0c873e3cb5513740e
 org.finos.legend.pure	legend-pure-runtime-java-extension-external-shared	1.0.0		0e08ea3ace4c004a6ab3a72f8adcf646ee18d0f7
 org.finos.legend.pure	legend-pure-runtime-java-extension-external-shared	1.1.0		0c91bd09db1891427ddcdf585f6e7ff2ab261ed1
@@ -1744,6 +1756,7 @@ org.hibernate.search	hibernate-search-engine	7.2.3.Final		1b4fa1e4be8cbb281300de
 org.hibernate.search	hibernate-search-engine	8.0.0.Alpha1		e6c8e0d49544c6d4e1ffd48f5f0b94dd66d14873
 org.hibernate.search	hibernate-search-engine	8.0.0.Alpha2		2902b733d59c0fe6ca20fe9718697dffcf8386e1
 org.hibernate.search	hibernate-search-engine	8.0.0.Alpha3		a84dd957e09bfae65c89fc3dda48584a9d77aa26
+org.hibernate.search	hibernate-search-engine	8.0.0.Beta1		cbbd3455a4e6c343c591a29f6aee9ee6553bd527
 org.infinispan	infinispan-console-ng	0.1.Alpha1		73a57db5a75947298a8604480c2cce9e70507503
 org.jboss.snowdrop	spring-boot-parent	1		N/A
 org.mortbay.jetty.testwars	test-war-slf4j_1.6.6	9.0.0.v20130315		N/A

@@ -887,6 +887,7 @@ dev.zio	zio-aws-resiliencehub_2.13	7.31.27.1		73c1b5cd9b9b2a489c89056f95f93c3dcd
 dev.zio	zio-aws-resiliencehub_2.13	7.31.28.1		8fc6d4234c83dcb0bf490d2a3d0be01abdc444e6
 dev.zio	zio-aws-resiliencehub_2.13	7.31.3.1		6453d14920d4314d14dff9854f6441a602bac4e0
 dev.zio	zio-aws-resiliencehub_2.13	7.31.30.1		a2f32ded7c553fdc09a71fd9f6dd047bf333ed89
+dev.zio	zio-aws-resiliencehub_2.13	7.31.30.2		96cfce36434c6262b4e1e2bd0f448411e1aae77e
 dev.zio	zio-aws-resiliencehub_2.13	7.31.4.1		ecebd0235aa71543c9f1086a36ad3661afbc65e1
 dev.zio	zio-aws-resiliencehub_2.13	7.31.6.1		866d1de12287d7789822371c67e8b47ca6d42d73
 dev.zio	zio-aws-resiliencehub_2.13	7.31.6.2		da476dce61667c6578dc8eeb16c4e9be950eec9a
@@ -1173,6 +1174,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-bootstrap	2.13.3-alpha		544493cdf19b78fe3d3dff85139ab6a37e00e618
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-bootstrap	2.14.0-alpha		da879790133f07be2d810c189b20f8bfb17e22d1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-bootstrap	2.15.0-alpha		73503d2e867656df87bf481c0d10d3191aa001b6
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-bootstrap	2.16.0-alpha		f04c613f2fd760e1997e31c84faa2d3fc865c541
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-bootstrap	2.2.0-alpha		ac2600002c52c61c79a4634dc4a28564fa06b36c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-bootstrap	2.3.0-alpha		a2c7937f8722c1be951b42868639cb9444155e54
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-undertow-1.4-bootstrap	2.4.0-alpha		3bf211f741be958a841015b0d4832d07e98dde0a
@@ -1349,6 +1351,7 @@ io.quarkus	quarkus-jdbc-oracle-deployment	3.15.2		0c3d969926944fe7af020ce66205f7
 io.quarkus	quarkus-jdbc-oracle-deployment	3.15.3		af186873c6b9950d0c71cd970b37cf04b93d261d
 io.quarkus	quarkus-jdbc-oracle-deployment	3.15.3.1		e44f7b0fc22b3bad70dedaa57255c587ebcde07a
 io.quarkus	quarkus-jdbc-oracle-deployment	3.15.4		40058483559cd9d2233ce01309f60d1139a79ffb
+io.quarkus	quarkus-jdbc-oracle-deployment	3.15.5		16974481a849cc9a7e2768b040b5414377da610c
 io.quarkus	quarkus-jdbc-oracle-deployment	3.16.0		a056258e31c23ceb613fb5efcf70e63656cd16cb
 io.quarkus	quarkus-jdbc-oracle-deployment	3.16.0.CR1		b6e1e631532b8967be860f0729cc862c5d5bd1a9
 io.quarkus	quarkus-jdbc-oracle-deployment	3.16.1		958d5660acc9359ffb428132e1d73c2eeac32992
@@ -1393,6 +1396,7 @@ io.quarkus	quarkus-jdbc-oracle-deployment	3.2.8.Final		553d15fac04ace5175140671f
 io.quarkus	quarkus-jdbc-oracle-deployment	3.2.9.Final		5a4a31fa957ad7cc6742529acfe53aeac6373717
 io.quarkus	quarkus-jdbc-oracle-deployment	3.20.0		e8113e2420624f43e38997c4c6e5f3b53326dadd
 io.quarkus	quarkus-jdbc-oracle-deployment	3.20.0.CR1		e41f30330e282384c53cb4f6d41c53005792be51
+io.quarkus	quarkus-jdbc-oracle-deployment	3.20.1		046aac89d751b91b319dc4d067a06fc55372c981
 io.quarkus	quarkus-jdbc-oracle-deployment	3.21.0		cb5fbcfbde212ef9eeb0d1f1dff310ff4039a30a
 io.quarkus	quarkus-jdbc-oracle-deployment	3.21.0.CR1		a7c2cb8275fb35765a09842b9b00e2b6502c4b60
 io.quarkus	quarkus-jdbc-oracle-deployment	3.21.1		c94d2437c03438fc053ec09107ec5985e532f133
@@ -1402,6 +1406,9 @@ io.quarkus	quarkus-jdbc-oracle-deployment	3.21.4		87963ee88e5d442ce6ea8d13eeab9b
 io.quarkus	quarkus-jdbc-oracle-deployment	3.22.0		480856ff930e7ec0cc7cc9a7743b2bb77d16f598
 io.quarkus	quarkus-jdbc-oracle-deployment	3.22.0.CR1		228f15d30de6944c24f962099b87834463f9c90b
 io.quarkus	quarkus-jdbc-oracle-deployment	3.22.1		15f7b848a6195c6cbc2cdad66901295bea111f46
+io.quarkus	quarkus-jdbc-oracle-deployment	3.22.2		94d9ed53b4c4b538830e72aa5263de437087f5a9
+io.quarkus	quarkus-jdbc-oracle-deployment	3.22.3		f1977f9629b3dba3167a4abd58dc8a039f5512b0
+io.quarkus	quarkus-jdbc-oracle-deployment	3.23.0.CR1		5d31e2b5bf17b7e213b65ec8301ed36a7109ff27
 io.quarkus	quarkus-jdbc-oracle-deployment	3.3.0		f03ffba2c2b98c45265b5e25e301dbc29c2ea8d4
 io.quarkus	quarkus-jdbc-oracle-deployment	3.3.0.CR1		ee7dd556f11f9dad7f8edf09f3e2c49bf8f975ad
 io.quarkus	quarkus-jdbc-oracle-deployment	3.3.1		5de21a3bf27baed38cdd6e451b2ba7ee438d0544

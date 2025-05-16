@@ -106,6 +106,7 @@ com.datastax.stargate	stargate-sdk	2.3.4		edd352da7908eb2238021a3be9ac25d4aef834
 com.datastax.stargate	stargate-sdk	2.3.5		307cdaeac8a878af41ce3e9b6f9cdd02363cb3c5
 com.datastax.stargate	stargate-sdk	2.3.6		067bd920f90aa45125654adc4b9c9e21f61bb18b
 com.datastax.stargate	stargate-sdk	2.3.7		b366dd7d0f8e52b0befb5d3b42ef8c2100868cf8
+com.gilt	sbt-dependency-graph-sugar_2.9.2_0.12	0.7.4		927a580c62d2045d233e009dc1037e1a485be010
 com.gitee.l0km	com4j-base2	4.0.0		66634692fd49bbb8911cf5afc5de0c5a414b59b0
 com.gitee.l0km	com4j-base2	4.0.0-alpha		627f074204db0762569945efab9770a50b38481d
 com.gitee.l0km	com4j-base2	4.1.0		0f132e7acd97f32d9f39b5a884c46cca43d2cade
@@ -344,6 +345,8 @@ com.oracle.oci.sdk	oci-java-sdk-securityattribute	3.63.0		2dcc46aaf29c6a5f8089cd
 com.oracle.oci.sdk	oci-java-sdk-securityattribute	3.63.1		bcf9ac7bbb0e8a98d9a736f8311d8cea234e5d49
 com.oracle.oci.sdk	oci-java-sdk-securityattribute	3.63.2		552554637239fb72265d7aba69097a77027b920e
 com.oracle.oci.sdk	oci-java-sdk-securityattribute	3.63.3		83a0a0b93718461d7f7ecce4beda87d13d8c10b1
+com.oracle.oci.sdk	oci-java-sdk-securityattribute	3.64.0		8423fdb3fe28653f2648c8e81a5bd0b0c0980095
+com.oracle.oci.sdk	oci-java-sdk-securityattribute	3.65.0		663fa462cec3a086a1820048a0ec4d8d3dd72dca
 com.oracle.substratevm	svm-hosted-native-windows-amd64	1.0.0-rc11		N/A
 com.oracle.substratevm	svm-hosted-native-windows-amd64	1.0.0-rc12		N/A
 com.oracle.substratevm	svm-hosted-native-windows-amd64	1.0.0-rc13		N/A
@@ -711,6 +714,7 @@ dev.zio	zio-aws-servicecatalogappregistry_3	7.31.27.1		08f182596a7f7b8a018c0722e
 dev.zio	zio-aws-servicecatalogappregistry_3	7.31.28.1		0c0ba3c2be90bfe9226e026f3ff7be824453d785
 dev.zio	zio-aws-servicecatalogappregistry_3	7.31.3.1		f9d3f4cdfa76a9f08d17bcda08234216ff346320
 dev.zio	zio-aws-servicecatalogappregistry_3	7.31.30.1		c041acf4644c7fa4248b82981842839a60a26d86
+dev.zio	zio-aws-servicecatalogappregistry_3	7.31.30.2		0939da7251a3d4168fbf128cfc865fb7e17196bc
 dev.zio	zio-aws-servicecatalogappregistry_3	7.31.4.1		18d2c65e75d5a637e6730b00c3a4e14f69a82792
 dev.zio	zio-aws-servicecatalogappregistry_3	7.31.6.1		f67247697b9848796f3dc72d2e80ef5eff6f025f
 dev.zio	zio-aws-servicecatalogappregistry_3	7.31.6.2		b31643309a91fa018a89ac070c9679f23af70c0c
@@ -1220,6 +1224,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpas
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpasyncclient-4.1	2.13.3-alpha		a48e9c68ff75898c1734bfe8c46abcc32474dbd6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpasyncclient-4.1	2.14.0-alpha		336931599bf23bf7543597e5b83a3cba512da831
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpasyncclient-4.1	2.15.0-alpha		849ca9987b2068b2cbab1e7cdf3b672026ded256
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpasyncclient-4.1	2.16.0-alpha		653bcce17409cdb533e8f673345f55cf297c3329
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpasyncclient-4.1	2.2.0-alpha		e00f7ec0f95209249ef1b0bc3141fdd4205ccc2a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpasyncclient-4.1	2.3.0-alpha		f8a87911eb6e30e7eae016bb807da9bfb903f715
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-httpasyncclient-4.1	2.4.0-alpha		1eed8e7c542a701fee888d9d3467f7716c2dd410
@@ -1399,6 +1404,7 @@ net.javacrumbs.shedlock	shedlock-provider-cassandra	6.3.0		aa57e850cee26ad50792a
 net.javacrumbs.shedlock	shedlock-provider-cassandra	6.3.1		24169cb47509a41ed19f2b9c40d486b978973b2b
 net.javacrumbs.shedlock	shedlock-provider-cassandra	6.4.0		f39ef3ed6f53661c45b85db8f64f0d303436c74d
 net.javacrumbs.shedlock	shedlock-provider-cassandra	6.5.0		a0fb8c85506838d963caf41048421d4c962725a1
+net.javacrumbs.shedlock	shedlock-provider-cassandra	6.6.0		b0ceed54c37ffec463277a7913c49321e6663e75
 net.openhft	chronicle-logger-log4j-1	1.0.0		2c084228d18bd6c8d25db7a54abe3e3853943c54
 net.openhft	chronicle-logger-log4j-1	1.0.1		94365cde214702077672d04710160acdbf6bfc07
 net.openhft	chronicle-logger-log4j-1	1.0.2		a5c9639cd26756211e88e3cce7e314d07ecee82d
@@ -1813,6 +1819,8 @@ org.openl.rules	org.openl.rules	5.27.0		9afb940d0ec9ae698ab643e9dae41199c6356336
 org.openl.rules	org.openl.rules	5.27.1		474e501d68c3acaff0c98b1259bb1848aee34a39
 org.openl.rules	org.openl.rules	5.27.10		2e848997f7a0fcd61bd5ae5a8b576d896b295260
 org.openl.rules	org.openl.rules	5.27.10-jakarta		aaddcce98361a28ac7833fafc80fae28dfeb5af1
+org.openl.rules	org.openl.rules	5.27.11		18c2a8ae92659eb15e446e49ce88d0d6c3f1b876
+org.openl.rules	org.openl.rules	5.27.11-jakarta		28fd0c9fc66ff7d00a5e51556739f571c1f7e36e
 org.openl.rules	org.openl.rules	5.27.2		f59ec426d72398dd7edbfe288bc67a5c4e3ae4ed
 org.openl.rules	org.openl.rules	5.27.3		5aa403d876e1772df26dafd62d436e9da1cbe00a
 org.openl.rules	org.openl.rules	5.27.4		42b5bd51b80177c7d1c527a3ed54a295039b4295
@@ -2065,3 +2073,7 @@ tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.0.14		N/A
 tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.0.14	metadata	989071e5996179db8fa54479d69e8aaba1db5cec
 tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.0.15		N/A
 tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.0.15	metadata	821fa07eed4cdaaed644acc547edde888d31f031
+tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.1.0	metadata	6a71b692e2a829aae71d3f60741026473011f290
+tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.1.1	metadata	8394c3a6aa273e743232761dd3c6bf92c7f645ad
+tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.1.11	metadata	897f42ee1dde5a68861c874137bea7ce8d0ad165
+tz.co.asoft	raven-email-agent-brevo-tvosarm64	3.1.12	metadata	5ebb717e702bb8336d5971d4e4e2246778cd4ae7

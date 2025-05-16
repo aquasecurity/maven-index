@@ -1118,6 +1118,7 @@ io.quarkus	quarkus-credentials	3.15.2		7b8e6cdb18d05c752d78ff632b98eb01fd7863e1
 io.quarkus	quarkus-credentials	3.15.3		8777471419fdcb9318c6c506001da01d48e5867d
 io.quarkus	quarkus-credentials	3.15.3.1		7a9105547340b81b0419819826f058449accc716
 io.quarkus	quarkus-credentials	3.15.4		cbfa26a95a917588ba4e2bf1ab4bbac316435061
+io.quarkus	quarkus-credentials	3.15.5		c062da15724d7d2f8ed7da19ff97a4ec69940f70
 io.quarkus	quarkus-credentials	3.16.0		f70567eceefb18e1df19bac0042e749a1634de6c
 io.quarkus	quarkus-credentials	3.16.0.CR1		57a184deba1339289eb0165e5556acaa20e4fc5b
 io.quarkus	quarkus-credentials	3.16.1		ef4dcf8a67f580b8f33ba72962610be53e3991a7
@@ -1162,6 +1163,7 @@ io.quarkus	quarkus-credentials	3.2.8.Final		8a7b87c44a2b6c636e67d3b572666b07ae9f
 io.quarkus	quarkus-credentials	3.2.9.Final		ede589deef6109e6ee9f49c955168a4af4229396
 io.quarkus	quarkus-credentials	3.20.0		4372d6d142df29643d85dbf4f7611cbf706d46ce
 io.quarkus	quarkus-credentials	3.20.0.CR1		39fde1e7e76dece79e4f1280ff15a7603472fa10
+io.quarkus	quarkus-credentials	3.20.1		2e3144eca94860212de33415868a534b8a72ab88
 io.quarkus	quarkus-credentials	3.21.0		22e702f47f3873fa6f071e4d7aba7806b635a022
 io.quarkus	quarkus-credentials	3.21.0.CR1		184bbae64a8b7ed8c003a0900a68d5311e9a9a8c
 io.quarkus	quarkus-credentials	3.21.1		01c9dceee47493e28069ab787bf2e82fe66c8821
@@ -1171,6 +1173,9 @@ io.quarkus	quarkus-credentials	3.21.4		2bf6acaeb08db625e68c1d94dfde707cc4a9b68d
 io.quarkus	quarkus-credentials	3.22.0		1fb3515709fd87a6446404b3c418bcd2f50d23fd
 io.quarkus	quarkus-credentials	3.22.0.CR1		cdd13f791d3a6060d18444180c2c14931fe385d6
 io.quarkus	quarkus-credentials	3.22.1		0ec6102e88e3e56d9482c880082df7fc3bfc35c2
+io.quarkus	quarkus-credentials	3.22.2		ae9bfa6557bebf1de81795009b10d365f8eb3b44
+io.quarkus	quarkus-credentials	3.22.3		d6e4d1603ed3ed4e1bce14b71a3f545f62e014b0
+io.quarkus	quarkus-credentials	3.23.0.CR1		8ce72aecc4fe81490bbc8189e9f87afbf5515d4d
 io.quarkus	quarkus-credentials	3.3.0		faa2919f74b259808ed5c5c5a68570080d924128
 io.quarkus	quarkus-credentials	3.3.0.CR1		b50df1e45efe7bf13fbdc5e68e493c3db4875ae9
 io.quarkus	quarkus-credentials	3.3.1		afed2b8138cbb85c1c98bef99e57dd74a38f40de
@@ -1361,6 +1366,8 @@ io.stargate.auth	authnz	2.0.29		0b0a9ea0ead5b3de7b1b5d4ee62a23b40ba03fc2
 io.stargate.auth	authnz	2.0.3		548f297edf7519b5f3d817ac3377c9a94c56a444
 io.stargate.auth	authnz	2.0.30		11938200182468d614cd95d3168223d38f0777e9
 io.stargate.auth	authnz	2.0.31		9830959bd8890e10430a883a1c355db92be2759e
+io.stargate.auth	authnz	2.0.32		f28900c9c605c6f63ece7150ed97fff1fdc0b744
+io.stargate.auth	authnz	2.0.33		7d697a5c19ec4386e97f5048c7798cc914a30e56
 io.stargate.auth	authnz	2.0.4		16c0c0fc078ff4897ce1c51f7c521405ef9da492
 io.stargate.auth	authnz	2.0.5		f95fd2e6bd695dacdc707585906d36a49c6aaf82
 io.stargate.auth	authnz	2.0.6		a7f45c19c772cec2074a8c6d166da151bfd00500
@@ -1394,6 +1401,7 @@ io.stargate.auth	authnz	2.1.0-BETA-21		360ec70b28777e616a4348336f8867c26feefb78
 io.stargate.auth	authnz	2.1.0-BETA-22		afa09f371e89f26ee3d38dfa4ae42f016281e5b3
 io.stargate.auth	authnz	2.1.0-BETA-23		749b5fa64c99689d23cc4b670932dcb3e7e25e12
 io.stargate.auth	authnz	2.1.0-BETA-24		a58a495d2f7de05b3831bd67ca14a5938f115308
+io.stargate.auth	authnz	2.1.0-BETA-25		deeb7856e96082f31a88fa182c3ef48f25cb43fb
 io.stargate.auth	authnz	2.1.0-BETA-3		f5da2e2eb48b3d6d114b04aec96b92ea8c8e4ffb
 io.stargate.auth	authnz	2.1.0-BETA-4		83d7c7aa2f952961c9e53485d73571ca322f0244
 io.stargate.auth	authnz	2.1.0-BETA-5		0e4cc61d24aa3874f39a2c66c255baa2cdf18148
@@ -1886,6 +1894,7 @@ org.apereo.cas	cas-server-support-cosmosdb-service-registry	7.2.0-RC6		162ec783d
 org.apereo.cas	cas-server-support-cosmosdb-service-registry	7.2.0-RC6	resources	9721e5db1839f4fed2add70c3eb1a408979c276a
 org.apereo.cas	cas-server-support-cosmosdb-service-registry	7.2.1		330290bf87a9b020156e329ff2befe5a520484e5
 org.apereo.cas	cas-server-support-cosmosdb-service-registry	7.2.1	resources	01d8382d7eaf2274a4390ae3050d49edf316ae59
+org.apereo.cas	cas-server-support-cosmosdb-service-registry	7.2.2		b93cf954f132f1b10ab8bd420d5e9972ad30505b
 org.apereo.cas	cas-server-support-cosmosdb-service-registry	7.3.0-RC1		d762a5321bbe3911ebd81a873b90a7020b0115e5
 org.apereo.cas	cas-server-support-cosmosdb-service-registry	7.3.0-RC1	resources	b07f93cf15161a46a62cd822d6a9e26e1cc26124
 org.apereo.cas	cas-server-support-cosmosdb-service-registry	v6.4.0-RC5		2849fb98c193d1d3fc00fe17c76d20c0d3de0c97
@@ -2067,6 +2076,16 @@ org.sackfix	sf-session-commmon_2.11	0.1.0		23ff79ceae4985c8546436ecdbb8b5c89b033
 org.sackfix	sf-session-commmon_2.11	0.1.1		817dc40e64d611789f51e9f5fce56b615bdbb5f6
 org.scala-tools	test-compat_2.7.2	0.4.0		371601e457b11d5a9e3c8feee594fdd0f3b6bc61
 org.scala-tools	test-compat_2.7.2	0.4.1		39f897cc214cb7ba83f5b18276039765bc7fa239
+org.scodec	scodec-build_2.12_1.0	1.10.0		8b5d040d8af1efe5b3b3fe2d5abe4fb06354054b
+org.scodec	scodec-build_2.12_1.0	1.10.1		97cf3df8366421e1690099654f27ae3de463d01d
+org.scodec	scodec-build_2.12_1.0	1.11.0		6b8c0f16394ccf8fbbd0ee317d40a20bf1329a9f
+org.scodec	scodec-build_2.12_1.0	1.11.1		99fb6e3e4912e4b758a9589c438432d044be4b3f
+org.scodec	scodec-build_2.12_1.0	1.12.0		d1a4abf40dfcef39b6494ba7d7f202de481a742d
+org.scodec	scodec-build_2.12_1.0	1.12.1		53d15524b5d66222b0dbbfd66d38921343ab1bb4
+org.scodec	scodec-build_2.12_1.0	1.13.0		4eb955ea291bedcb94821f9c6d63ab2a72de01b1
+org.scodec	scodec-build_2.12_1.0	1.14.0		c7468d8c574c09b0355e4b246d1aea0d7b67db68
+org.scodec	scodec-build_2.12_1.0	1.15.0		5ff3aca6d17d1ae97a1898f45759323cd8cbd448
+org.scodec	scodec-build_2.12_1.0	1.9.0		94cabec9b17f3a3222cde2e64292a332daaef303
 org.visallo	visallo-web	2.0.0		2f439ad5fd910b716ae154939ddef76d3b49ec30
 org.visallo	visallo-web	2.0.0-RC1		d2ae16a5bfcbdc98a88c72804280c6f37d9b2682
 org.visallo	visallo-web	2.1.0		13271a596875320211267996852e269c39267d35
@@ -2280,3 +2299,6 @@ tz.co.asoft	symphony-input-text-macosarm64	3.0.8		N/A
 tz.co.asoft	symphony-input-text-macosarm64	3.0.8	metadata	d9f8f15e825f6da36ba424505750f0cc2e1c7b19
 tz.co.asoft	symphony-input-text-macosarm64	3.0.9		N/A
 tz.co.asoft	symphony-input-text-macosarm64	3.0.9	metadata	6d87ad38c97a0aa3aa6daeaad1bd3f2b6eb39c09
+tz.co.asoft	symphony-input-text-macosarm64	3.1.1	metadata	ae65b45e1d8e3d1cf53cdea93e5a4c64cd55b6a8
+tz.co.asoft	symphony-input-text-macosarm64	3.1.11	metadata	32e3b85bdc2019dcaad43be7e63b8696ab2f04c4
+tz.co.asoft	symphony-input-text-macosarm64	3.1.12	metadata	58da26f7e8fee27d45b2887e29e260dcb3fab573

@@ -475,7 +475,16 @@ aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.73		dd95fa1aac271c39744e7c9f8dd
 aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.74		c37283ca888690bd5ef86a262708de7f59705cd8
 aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.75		38c19830e5cc34dd21b0143ec73a3bdb3cdaca85
 aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.76		7bf7688b61fafad5d18dc70c85efb6d1854d7938
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.77		37afe253891e899efd558692952cf5f7e072a339
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.78		b2032d32f2dde8a0638b5fdfc4fe9612d07a471c
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.79		1dd013914d81c721f3b0bc0eed497f53240ba439
 aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.8		dac1957143b391f33413b4add4812edfc6ca6e4b
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.80		e1d96091d15b7ea6befc3c4057592910bad5f746
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.81		8cdc82f5bf535827c3d1f7ba5f6d3e516bcdffe8
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.82		75b77e8f0dd01aafc6e6dfdac90a06bebf5de9bc
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.83		731a77184163d3021c7259af0be13da4887f701e
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.84		180cd70ff2b26ab018b6fcff00675894246d5caf
+aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.85		83ee370f820188ec64ef54ef2d18507b7b73b7fd
 aws.sdk.kotlin	kinesisvideoarchivedmedia-jvm	1.4.9		b4c6a8e3a295d71a4e2b5a5783090993a0df1958
 ca.vanzyl.concord.plugins	concord-cd-pipeline	0.0.1		30deefeb394c98230215d2a0a36fef247043eebd
 ch.epfl.lamp	gears_native0.5_3	0.2.0		78a435660e551c17b16c0de00bff5012cdca6833
@@ -724,6 +733,7 @@ com.qvantel	jsonapi-scala-akka_2.13	10.4.0		5a22271425ee2e1ee6f3c4647b7bee7948aa
 com.qvantel	jsonapi-scala-akka_2.13	10.4.1		0cd2bf670e730adc733caf74ac659fd0d2b737b5
 com.qvantel	jsonapi-scala-akka_2.13	11.0.1		794dfa23f1a84f9bc61c711641cb4332d5d5b43c
 com.qvantel	jsonapi-scala-akka_2.13	11.0.2		d55dd528382f8c364e9dd292e301d4b6d4746a91
+com.sandinh	sbt-shade_2.12_1.0	0.1.0		1ad8fc081480887c943a1eadbf9956a7b6a7f08d
 com.spotify	scio-bigtable_2.11	0.1.0		6c5f4200974b834cb3c95a0dd6919e162e829a38
 com.spotify	scio-bigtable_2.11	0.1.1		c88976b846e53490984a9d8138b3fbc2e92f2b37
 com.spotify	scio-bigtable_2.11	0.1.10		2560650bf5b9aaaa75a8c36160fec1b34eafbcff
@@ -1351,6 +1361,9 @@ org.http4k	http4k-connect-amazon-sts	6.6.0.0		b8c0458e640c88d4c368a526f4217b4eb0
 org.http4k	http4k-connect-amazon-sts	6.6.0.1		88586b76b71f73607f275c7db67498b553faf801
 org.http4k	http4k-connect-amazon-sts	6.6.1.0		f2ba81ed8795f1eae61592b22d3a96ba7d611066
 org.http4k	http4k-connect-amazon-sts	6.7.0.0		c08529c22893c13f29c42dbae4e55cbda9aff551
+org.http4k	http4k-connect-amazon-sts	6.8.0.0		4375976ff0e545d65736752277fcb04bcfd5b9b7
+org.http4k	http4k-connect-amazon-sts	6.8.1.0		e2e9cb11b40338aa89fc44973abc49bebf73e52c
+org.http4k	http4k-connect-amazon-sts	6.9.0.0		d8ffafc70ff7ef5f6c9c96eb33958a9f3a5cb209
 org.http4k	http4k-connect-amazon-sts	v6.3.0.0		5da8b35a1b05da00caf183a0d08191d642cd8dcf
 org.http4k	http4k-connect-amazon-sts	v6.4.1.0		10475c00ad3efdc5acaabb3f370d9a9059571d02
 org.jvnet.hudson.plugins	origo-issue-notifier	1.1		a9cb8442a58362de0b851572a757026718313e73
@@ -1590,6 +1603,7 @@ org.springframework.cloud	spring-cloud-app-broker-logging	1.6.1		6895e74e5ab6aeb
 org.springframework.cloud	spring-cloud-app-broker-logging	1.6.2		0a7ef383f6b9bdf7c7d67cc7c98b45e8edb67e54
 org.springframework.cloud	spring-cloud-app-broker-logging	2.3.0		9e479669aadf5f768f4f964a856e6a3d02e76507
 org.springframework.cloud	spring-cloud-app-broker-logging	2.3.1		e4b1e4d471734b558090475803db24a71fe4a4ab
+org.springframework.cloud	spring-cloud-app-broker-logging	2.4.0		02160b62b88d6eff92e01c567cc866f1201fb418
 org.webframe	wf-easy	1.1.2		a47e4c39f866d2190363268d77848ad1ebc059c5
 org.webframe	wf-easy	1.1.3		f3bce8c5967cb43a93ba8875b86edbed8f361440
 org.webframe	wf-easy	1.1.4		650dc2575cab68973a72710e23d57324df66cdf0
@@ -1692,4 +1706,8 @@ tz.co.asoft	raven-core-macosx64	3.0.8		N/A
 tz.co.asoft	raven-core-macosx64	3.0.8	metadata	0941fcbd3e47d833c738d15bcf77cfa097b36748
 tz.co.asoft	raven-core-macosx64	3.0.9		N/A
 tz.co.asoft	raven-core-macosx64	3.0.9	metadata	5183d264f1b39cc25b11b2b3f8e9eb8dc3526691
+tz.co.asoft	raven-core-macosx64	3.1.0	metadata	08be0e61958f4da191522556fd0c4239222bcbe1
+tz.co.asoft	raven-core-macosx64	3.1.1	metadata	bb2d4e60095c3ab4bbf13ac93f11cd3de5a0beb0
+tz.co.asoft	raven-core-macosx64	3.1.11	metadata	ee5ee632a512129e9d02323bca04df5a4b4a8b56
+tz.co.asoft	raven-core-macosx64	3.1.12	metadata	3a0efa32e2a8ab2990509682b3bb721bd50747bc
 xyz.devfortress.splot	splot-core_2.13	0.5.0		83298e02d276001ca2b149ecbaeff102f08b39f1

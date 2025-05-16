@@ -1834,8 +1834,22 @@ com.yahoo.vespa	config-application-package	8.513.17		b166d30b024b9e6cffb7b36296a
 com.yahoo.vespa	config-application-package	8.513.17	jar-with-dependencies	e7389d37a13d78c806b93475a4deb1f3cab6aa98
 com.yahoo.vespa	config-application-package	8.514.24		67d77b34961ad378b5263d2d52e8c3e3382240b2
 com.yahoo.vespa	config-application-package	8.514.24	jar-with-dependencies	f66898359aec9ac06ed05536086c8fe30cede0a3
+com.yahoo.vespa	config-application-package	8.515.40		e47d8b78b0e045827a42a638a95ce672ee939faa
+com.yahoo.vespa	config-application-package	8.515.40	jar-with-dependencies	31b9593b6ec819f415388804d9d008dd35290eaf
+com.yahoo.vespa	config-application-package	8.516.26		dea6d2edabc4cc5b1eb1dd7aa072b55a7a75eba9
+com.yahoo.vespa	config-application-package	8.516.26	jar-with-dependencies	575a94acfe373fb54eece432b2903b081056e8f6
+com.yahoo.vespa	config-application-package	8.517.15		46b2f7ba3d3126412716534792156d5db26e4d56
+com.yahoo.vespa	config-application-package	8.517.15	jar-with-dependencies	7748826c9b0553c80a56a056646a9d272beea0e6
+com.yahoo.vespa	config-application-package	8.518.4		8b7c3c2cbe00e9e54e7c1269420f774d0f921c76
+com.yahoo.vespa	config-application-package	8.518.4	jar-with-dependencies	25d0a678a5a2dd5e5bd2c6bae8878f46df78ce1c
+com.yahoo.vespa	config-application-package	8.519.55		c21357f81e084e1fa5cf5b44538f18866cb77c3c
+com.yahoo.vespa	config-application-package	8.519.55	jar-with-dependencies	e0e4814989bdf45bcffdc1db8bb76cad33c4b207
 com.yahoo.vespa	config-application-package	8.52.15		a4313c53cf86b4b7f8e6d018fe8739c0a058fdcf
 com.yahoo.vespa	config-application-package	8.52.15	jar-with-dependencies	e1a44e4509157ed30a7e00cedc3247e3c535b4f9
+com.yahoo.vespa	config-application-package	8.520.18		2f55fa5c151d8c56a2f75a97004cd597e3fc4663
+com.yahoo.vespa	config-application-package	8.520.18	jar-with-dependencies	4a8332dacd170179d663fc15a868f42cf2efd91d
+com.yahoo.vespa	config-application-package	8.521.17		f22ac545848afa6d708ddb17f9378197913a5ad7
+com.yahoo.vespa	config-application-package	8.521.17	jar-with-dependencies	2dbc3b397938f7cdf5393776ddf54d941f3edb1c
 com.yahoo.vespa	config-application-package	8.53.21		4f82fcbd0fbc9d0a5eecc0779cdd4ec37ee73fa8
 com.yahoo.vespa	config-application-package	8.53.21	jar-with-dependencies	68c4d654805d4c4c468a73fe730f7fbff344bcc1
 com.yahoo.vespa	config-application-package	8.54.61		d23526e426c26f2833d38dd824f0574c94227ccf
@@ -1953,6 +1967,7 @@ dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.11.0-alpha01		d88409482
 dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.12.0		6bb035cbe3424e281de0280b693ae92dea52e215
 dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.12.1		a02e01de5f49767ef97187ff25eb16461e4b95af
 dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.13.0		26a5a43001368195bce9a273ff0b5d46a243f616
+dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.14.0-alpha01		1113caf9f059cb00f5195eefbd4964cd3e1737a6
 dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.2.0		14a9b9fe2426e7de8f96463bc74fe4359146848c
 dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.2.1		8b02aec4f40c41991091718fbaa785266834434c
 dev.zacsweers.redacted	redacted-compiler-plugin-gradle	1.2.1-1.8.0-Beta01		14a6ea0d1275bd7f5a3094ebc6f798f9c65ec4c0
@@ -2037,6 +2052,7 @@ io.camunda.connector	connector-runtime-core	8.4.13		f90760904b39993142369d222541
 io.camunda.connector	connector-runtime-core	8.4.15		0f3a22d2a9e96791da5229de274b6d923343574c
 io.camunda.connector	connector-runtime-core	8.4.16		c7ab18181c50cfca8710176c53f9c7d2988ad291
 io.camunda.connector	connector-runtime-core	8.4.18		55b5ec18698ab81864d50f4af076aae9e93ce409
+io.camunda.connector	connector-runtime-core	8.4.19		c48eb70297833e9b90913d247fb129db15b5373c
 io.camunda.connector	connector-runtime-core	8.4.2		b2dc8c6db05070d749b2c8297f573a474fc40a05
 io.camunda.connector	connector-runtime-core	8.4.3		1a7210860787b6b48c7e3844dcea3cb1913af90b
 io.camunda.connector	connector-runtime-core	8.4.4		e7a9166f36f2546298635549135dcee420d33c9d
@@ -2070,6 +2086,7 @@ io.camunda.connector	connector-runtime-core	8.6.0-alpha5		e969ded20bbcf03acf18ff
 io.camunda.connector	connector-runtime-core	8.6.1		758d48e4d76a706f22dfd4b970aa12b8673485d9
 io.camunda.connector	connector-runtime-core	8.6.10		e9b4452fd56931d50ad44e41c344128331de89bf
 io.camunda.connector	connector-runtime-core	8.6.11		25b9b67eb7c1017038b47ee37da4e145774a9a66
+io.camunda.connector	connector-runtime-core	8.6.12		4cbee6d49fa4ebf39c5c5937acf9b9bd9a02c315
 io.camunda.connector	connector-runtime-core	8.6.2		dba9641dca2b1e89d9963495ae98dc6b062fe0aa
 io.camunda.connector	connector-runtime-core	8.6.5		cb7d31cffb7c7c9c82b358af76b79311cb61e156
 io.camunda.connector	connector-runtime-core	8.6.6		e856ceaff5c1f105c8f7e2b2434a43fa5bb6e86d
@@ -2081,8 +2098,12 @@ io.camunda.connector	connector-runtime-core	8.7.0-alpha3.1		cf9e02635a4cb869f4b0
 io.camunda.connector	connector-runtime-core	8.7.0-alpha3.2		4df8d4a35ae0143d96b47a825264b75c472e9fa2
 io.camunda.connector	connector-runtime-core	8.7.0-alpha3.3		de1fed5f9733324a5080f354e6da4f6675d50791
 io.camunda.connector	connector-runtime-core	8.7.0-alpha4		3140fbfb5f7edca5c58812d8e6231ad86a9c256b
+io.camunda.connector	connector-runtime-core	8.7.1		f491fa7ffb6f90535e62537b9f549e1191070ae9
+io.camunda.connector	connector-runtime-core	8.7.2		a436d613847f6e5ea02a669ba42b724e7c76c75d
 io.camunda.connector	connector-runtime-core	8.8.0-alpha3		2af394903c2495a3ba34a3f17e5f880da526d085
 io.camunda.connector	connector-runtime-core	8.8.0-alpha3.1		c8b782ac14cf66d1a6a6bcc681eaba684064eac5
+io.camunda.connector	connector-runtime-core	8.8.0-alpha4		1b18f5fd62c635ac008095826d93e325ce3506fd
+io.camunda.connector	connector-runtime-core	8.8.0-alpha4.1		195c34ab266a77750c45e79c3b5f09ba953abb6c
 io.edurt.datacap	datacap-jdbc-elasticsearch	1.10.0		f7a230d7771f6e3b72bacfdde14caf5542dda6e7
 io.edurt.datacap	datacap-jdbc-elasticsearch	1.10.0	plugin	d5d02d8f740c424e7110be8b156b9f7931e06471
 io.edurt.datacap	datacap-jdbc-elasticsearch	1.11.0		eb149d0857f3aedab63eee0a40a7c7047d550ba9
@@ -2212,6 +2233,7 @@ io.fabric8	kubernetes-model-networking	7.0.0		2bd098feb39f41a8f305773c3b503e3bd0
 io.fabric8	kubernetes-model-networking	7.0.1		9696241fef0400959000c514cae8ceed43689a25
 io.fabric8	kubernetes-model-networking	7.1.0		7dc3d76deed3bda07ebd7ef1141dec7eae96dd84
 io.fabric8	kubernetes-model-networking	7.2.0		4d17660dd4e1b0bdbaeee1a6eec2f1952f44e0b4
+io.fabric8	kubernetes-model-networking	7.3.0		73d4de37457952d72b6d0f802ee0622ec2849bb9
 io.fabric8	openshift-server-mock	1.0.81		f4ebb552b15ee65ba8c334c572f9fbee80e6279e
 io.fabric8	openshift-server-mock	1.0.82		9fb4d3b82778f39ce7369f05912b615070ae4efa
 io.fabric8	openshift-server-mock	2.2.12		706c9cecc1cafd7324804ed9de665146b59d1ea1
@@ -2473,6 +2495,7 @@ io.github.kitlangton	neotype-chimney_sjs1_3	0.3.19		6d71ea51a5f6ca99abdfc7311a00
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.20		f695d2bc1de06859a2e47554bc1fa18c8a9fd064
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.21		0036e6b87bd5888c0d1507b2111fa6078de53b97
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.23		7bdb22ba7709a1fc69cad0c9d39088a0b269ade2
+io.github.kitlangton	neotype-chimney_sjs1_3	0.3.24		318efc78391618869e826bd1296702eb3766cec8
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.4		d2ca6fc91120b472dc0679a739542c2be3224209
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.5		9df9e72097dd4077693bcc6f7407ce812808e4ba
 io.github.kitlangton	neotype-chimney_sjs1_3	0.3.6		e42cd765b28bf576dd6b5786dd93689af73a70ab
@@ -2612,6 +2635,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.2.1		a34dbdc615
 org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.2.2		6af6d32decdd7639ead341e3dc119455837636d4
 org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.2.3		13e4e357473d038468acd118917175873c6825d9
 org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.20.0		7452ab22c0dbabef578c79e97bb1de3f87717723
+org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.20.1		2cdf3452a5014df45d9eae2fda35c15a002b4f71
 org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.22.0		b5d343d3fa4600d1acf18d3f8052cf16d91691cd
 org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.4.0		3f8a3b7f1d7ba2a121fa43fa6403a503fd3ee969
 org.apache.camel.quarkus	camel-quarkus-integration-test-groovy	3.5.0		293ef8f6d9fcc059e16862b08fb2c3d712570353
@@ -2805,6 +2829,19 @@ org.eclipse.dirigible	dirigible-repository-api-test	11.41.1		53dcd1e3c461bbe758c
 org.eclipse.dirigible	dirigible-repository-api-test	11.42.0		b7c1ad4457a9e2765e353c33ea4c29c36ed69dc4
 org.eclipse.dirigible	dirigible-repository-api-test	11.43.0		e1aa51d2e5e0867e58713a6faf8286a390ef6a29
 org.eclipse.dirigible	dirigible-repository-api-test	11.44.0		b482c528d4b21347a132cba2c49a13c9c9169222
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.0		77e3b5a55dd2c53aed8a4f1d597b142ff290b960
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.1		6192a6a887cf4685d931e80480702692521a8ab5
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.10		13c128b56b332929cc8df7fbc725c9752ee425bb
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.11		c55e42e3afec90aa2da5857bb4caf5c3dfa16c82
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.12		dccaea25645749f0f5f23dd11b11a4561e8ce63b
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.13		de5a49bc4babcb134af1ef99314942f8daf063f9
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.3		1702882507d72783d77f22f16d1dd633264b1976
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.4		4ccb29772ee6264e6bbb17685750a5c5301c16ae
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.5		8fbbf9f48f23c92400803b4067a4a2f7feaf85f5
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.6		d98fab5d8a2efc37db57e335731868db9daeca4e
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.7		a992d3f75ca75f63a85ed357b05f0dc7aeae61ef
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.8		f52b5f259bf4ace84ec2f21d0af3a9608dd860a4
+org.eclipse.dirigible	dirigible-repository-api-test	11.45.9		d5c93c1726eadfaa4949e91822bedd2d176fadcd
 org.eclipse.dirigible	dirigible-repository-api-test	11.5.0		9f112a609cb36398b38d51c75be75454d7f42459
 org.eclipse.dirigible	dirigible-repository-api-test	11.6.0		09de1b3f8b3fe58679357f057cd6e24aad8638b1
 org.eclipse.dirigible	dirigible-repository-api-test	11.6.1		2b8db8da7c017eba98d56ce7f8f4e8d1afce3377
@@ -3873,3 +3910,7 @@ tz.co.asoft	kollections-stacks-macosx64	3.0.8		N/A
 tz.co.asoft	kollections-stacks-macosx64	3.0.8	metadata	cb06dac249a41ec234310a1ab4bed6d698fba69c
 tz.co.asoft	kollections-stacks-macosx64	3.0.9		N/A
 tz.co.asoft	kollections-stacks-macosx64	3.0.9	metadata	d348dbc8391291c01c0a3819ddf7779fda64f5c0
+tz.co.asoft	kollections-stacks-macosx64	3.1.0	metadata	2835ae00ba2a883ed53f981744e74289599149a6
+tz.co.asoft	kollections-stacks-macosx64	3.1.1	metadata	791e744a6ec27f0c17e56e42dce2185239e02065
+tz.co.asoft	kollections-stacks-macosx64	3.1.11	metadata	d3b10af3517e2425563f47d38311e1f69ab02b68
+tz.co.asoft	kollections-stacks-macosx64	3.1.12	metadata	700c6b23b973529b3cad8a96c2e11e3717cdad96

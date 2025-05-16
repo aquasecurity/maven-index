@@ -60,6 +60,18 @@ com.apollographql.apollo3	apollo-debug-server	4.0.0-beta.4		2d52da8109667e058292
 com.apollographql.apollo3	apollo-debug-server	4.0.0-beta.5		493ae92e58d0308c0cb3da24c6c7c15a56274e6f
 com.apollographql.apollo3	apollo-debug-server	4.0.0-beta.6		57faff7a542cf8117e57a987db1f93af57ff5fc0
 com.apollographql.apollo3	apollo-debug-server	4.0.0-beta.7		c071b1b603d2f84f3b72d4ec693d12b9681bfa0a
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-00218f9		e5f6cd45b7bfb84420441bee15e60ff67b801e0c
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-02972dd		7423d401d7b60ac06816d7be698a87bba20f1545
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-49d5d54		929fa662b84b3b97fcdeb35ea4c9b654c46c8c02
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-53f42e4		3bff280fb94f6957f77504f3215da6dcd3a10b81
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-6c3d633		1fc9f75201e860881b31a0671647546420afe545
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-6c42f5b		d470f9ebaab0674b7ca52996f81712938fad1213
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-775c4c8		051fb60384d8fcde622b04001baa111a65a6a12c
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-95ee54d		50df6a1d1ebece9ac9db2d6a760ed3f6e548044f
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-b3e236a		42dccc4d83218073ad0be595e88264102d5babba
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-bedf652		cda5d1c6ad7361a114855e481cafbcc0f57c8294
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-ddf26e7		490c81c2eab8773fbb83e8c4e90b51ec5f919fb6
+com.armanbilge	sbt-typelevel-versioning_2.12_1.0	0.4-f277ca9		d7e2f2d178caf6fbde21e850b6fd7dabd725a9de
 com.bazaarvoice.jolt	jolt-guice	0.0.10		ea5a07c8880032db4b0c564f5d5713ec708c52b4
 com.bazaarvoice.jolt	jolt-guice	0.0.11		6f3337598a854578ad0e179c932cd790348e4d3b
 com.bazaarvoice.jolt	jolt-guice	0.0.12		8da11d9429d8b2a3bc8abedc87b93dda95aba0e3
@@ -277,6 +289,7 @@ com.microsoft.azure	azure-toolkit-redis-lib	0.51.0		8d717277298a3b993341c920fb0b
 com.microsoft.azure	azure-toolkit-redis-lib	0.52.0		e790a44706495deb3fd5218ed14db0f194f3cf53
 com.microsoft.azure	azure-toolkit-redis-lib	0.52.1		46d39332fc6a3e19f844c2df3b39d9d7d212556e
 com.microsoft.azure	azure-toolkit-redis-lib	0.52.2		d1f773c602ca2cf0eff480d9d41858d700a5e1e3
+com.microsoft.azure	azure-toolkit-redis-lib	0.53.0		ef8bd5aa48a4159c3e5e99b0b32957d13f8d1ce2
 com.mohamedrejeb.ksoup	ksoup-html-watchosdevicearm64	0.3.0		N/A
 com.mohamedrejeb.ksoup	ksoup-html-watchosdevicearm64	0.3.0	metadata	ea1811c80db85377c91f1c992173ab213f00490e
 com.mohamedrejeb.ksoup	ksoup-html-watchosdevicearm64	0.3.1		N/A
@@ -636,6 +649,7 @@ io.github.iltotore	iron-circe_sjs1_3	2.6.0		f582ded5171ecde497351ce7ab3645cb5ff8
 io.github.iltotore	iron-circe_sjs1_3	2.6.0-RC1		86870a3e2ad221d2fdc5be990df727bd1be80383
 io.github.iltotore	iron-circe_sjs1_3	3.0.0		ba85da79a0309f07f42e459dbc2fc2d34c1348a0
 io.github.iltotore	iron-circe_sjs1_3	3.0.0-RC1		050a0a2f7ba97f55768399265546b7aa640f6bf4
+io.github.iltotore	iron-circe_sjs1_3	3.0.1		af951f1d7c81f00efd3b177afffccd71d29402df
 io.github.mflisar.composethemer	themes-flatui-macosx64	1.0.0-test01		N/A
 io.github.mflisar.composethemer	themes-flatui-macosx64	1.0.0-test01	metadata	0b1c1c0cfc5259eaacd5d87a60d4ac8da9721be9
 io.github.mflisar.composethemer	themes-flatui-macosx64	1.0.0-test02		N/A
@@ -976,10 +990,12 @@ org.jetbrains.kotlin	kotlin-archetype-jvm	2.1.20-Beta2		4dfd8e9fdf9e2cd993d65251
 org.jetbrains.kotlin	kotlin-archetype-jvm	2.1.20-RC		97bfbbc5d734c22465409f5d52b4e8af2c15df64
 org.jetbrains.kotlin	kotlin-archetype-jvm	2.1.20-RC2		2d7eeb997123a493a31f872c60939d41344978bb
 org.jetbrains.kotlin	kotlin-archetype-jvm	2.1.20-RC3		22ce5c77e2b9fe90eb2d510da6397cb9482efe42
+org.jetbrains.kotlin	kotlin-archetype-jvm	2.1.21		480e30d8380d965bc8281f4f278e42458a9beff6
 org.jetbrains.kotlin	kotlin-archetype-jvm	2.1.21-RC		a32c050e79494b61ebcec0ff127758ace5a375d8
 org.jetbrains.kotlin	kotlin-archetype-jvm	2.1.21-RC2		694215855621ba34a069149176edde6b771138cc
 org.jetbrains.kotlin	kotlin-archetype-jvm	2.2.0-Beta1		b3f86fa73a31b611879195292c346ab29d934fb8
 org.jetbrains.kotlin	kotlin-archetype-jvm	2.2.0-Beta2		f9e1398675ed68e3b3492da674a5541c53c2dc0c
+org.jetbrains.kotlin	kotlin-archetype-jvm	2.2.0-RC		1c89977efe4cf02c5b29f72432d2d54aa99847bd
 org.jetbrains.kotlinx	dataframe-arrow	0.10.0		3d41abf20100ea5fbd7d966103392208da5c4bb9
 org.jetbrains.kotlinx	dataframe-arrow	0.10.0-dev-1330		60be468807b1e5701a7c00969f1bbbaef8b5f28d
 org.jetbrains.kotlinx	dataframe-arrow	0.10.0-dev-1332		6648d7e126022e8b1e2c210cafaac2cb87f31c3c
@@ -1533,6 +1549,8 @@ org.jetbrains.kotlinx	dataframe-arrow	0.9.0-dev-1320		b4e61cb689971c8cf953bd85b0
 org.jetbrains.kotlinx	dataframe-arrow	0.9.0-dev-1321		947986205151a136e078bd93afaa3f6fa61cca06
 org.jetbrains.kotlinx	dataframe-arrow	0.9.0-dev-1323		250d79f6c5cbf540e8859fde1293f948aa178131
 org.jetbrains.kotlinx	dataframe-arrow	0.9.1		88eddd83f28dff14e71c6aed826c55f8224951f7
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-Beta1		95295e09030933177e57d4f4b9a07431a8665b0a
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-Beta2		7a1455afc79d53bbc1699c311dce873e78ea1a82
 org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6428		a77f27dacdf8bf1b0e2a9f87d05c8275a5283947
 org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6444		ca8417238a38108ff2ad084d538094dcc6d28f85
 org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6446		7eba6b8901b7b5ea69a12d8032e437080269c8e1
@@ -1564,6 +1582,23 @@ org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6925		1859622994eadf4820e6659a55
 org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6937		96c9d9d72be5f583e1face7f20d41ae3b8606b8b
 org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6946		9913291d41e5f0cebfae0aebfb6e9e7adc67df6e
 org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6948		62a7caa414af42ad54ecc1da2e5dea6c20a11770
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6971		2fd365d536a225f9b0db9090aba11dc67bae9278
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-6984		a90ba34fe1bc6be71d97f6c5a6942e386d323ece
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7011		151198099627083c7f32e6e679e101eb8afe6da5
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7018		e510d36feb428db1b508086812d660b4ee3bab75
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7072		1855b7c38294828b2b230c6ab08ed6b0bbb1a3c2
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7077		b6303e4fa9b113c28113c4107eb53965a46cb3e3
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7080		c96afc57f775083844514b7e8b0aa0536ca6226a
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7089		4771a6f23d822e67f43196cab8bf850e28e0bed1
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7095		dc6861e4127fcfbfae30b87db35681acfd11016e
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7098		479bccfef55ac04b0fde120f883f324e16defdc4
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7100		dbb902daa6595cc62bda3f2d6de49c2988ca8c03
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7127		a2a3bfc80db157d130d4bffe9690be1ff35da0b4
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7128		055ad929ff883b582347b24c6e089c09fc731a7e
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7164		55212c61a7d4f81ecd8922f89f76435feeb32f1e
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7185		62780d9ea4248987fd64e3a5d18a583ad27c38ae
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7194		274c5fda9ffb8e2ca7f9145c91808b7589c7337c
+org.jetbrains.kotlinx	dataframe-arrow	1.0.0-dev-7196		9812b11f6006f6b2feb1081910d9ad0e1643e8e2
 org.jetbrains.kotlinx	dataframe-arrow	1548		N/A
 org.jetbrains.kotlinx	dataframe-arrow	1727		N/A
 org.kotlincrypto.hash	sha1-linuxx64	0.1.0		N/A
@@ -2067,6 +2102,7 @@ org.scalameta	io_sjs1_2.13	4.13.2		803a04a9710c7c742e5f2a6f506a33824e177513
 org.scalameta	io_sjs1_2.13	4.13.3		2ef34016bdddcdb170d9b0b88cb79a3703c6987f
 org.scalameta	io_sjs1_2.13	4.13.4		33d4bdb4efb553e69059b06d0078b22fdc7df2ef
 org.scalameta	io_sjs1_2.13	4.13.5		0ab12ae85eff8b97ee5c950e711e4410eb28d663
+org.scalameta	io_sjs1_2.13	4.13.6		5f48aa8a0d7f941c3cf0858ea325eae99c9c89fe
 org.simplify4u	slf4j-mock-common	2.3.0		a76af25a223a06c5171b146039acecbb85a58530
 org.simplify4u	slf4j-mock-common	2.4.0		d1076f84ac7e8fd90b614fd9fa46ab5b403cd59d
 org.springframework.cloud	spring-cloud-commons-docs	2.2.4.RELEASE		N/A

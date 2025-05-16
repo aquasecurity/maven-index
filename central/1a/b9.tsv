@@ -50,6 +50,10 @@ at.asitplus.wallet	rqes-data-classes-iosarm64	5.5.2		N/A
 at.asitplus.wallet	rqes-data-classes-iosarm64	5.5.2	metadata	9ee43173768dd40de5fe517c304b4cf1bf7ec812
 at.asitplus.wallet	rqes-data-classes-iosarm64	5.5.3		N/A
 at.asitplus.wallet	rqes-data-classes-iosarm64	5.5.3	metadata	caeb0d2e88e6a85b065e1f753b9996ec4f6a108e
+at.asitplus.wallet	rqes-data-classes-iosarm64	5.5.4	metadata	8eabefe032c605dd06e45c98a3f40615e7237f7c
+at.asitplus.wallet	rqes-data-classes-iosarm64	5.6.0	metadata	4bcebc686c8438ee92e45a3f4947ffd2a0dcc401
+at.asitplus.wallet	rqes-data-classes-iosarm64	5.6.1	metadata	b21d4072e81b1936a550f44f0711b73dfa4f5d67
+at.asitplus.wallet	rqes-data-classes-iosarm64	5.6.2	metadata	60ec8f0e214689e032dae09b53f35d3dac9a90a0
 biz.lobachev.annette	application-api_2.13	0.1.2		c44b50dbc8440e589f35b886ba0539b921f3edb1
 biz.lobachev.annette	application-api_2.13	0.2.0		6d0ca6360b2c84c0eea79dba753e9da013eda6e0
 biz.lobachev.annette	application-api_2.13	0.2.2		2cdcfdac9bb10c2356ee596526d6527b6c2db2f7
@@ -151,6 +155,7 @@ com.avsystem.commons	commons-core_2.13	2.2.8		ccc178e4500ad10215967420b36f921770
 com.avsystem.commons	commons-core_2.13	2.2.9		ca419cdb16d5176402e691d7e746e211c54390f4
 com.avsystem.commons	commons-core_2.13	2.20.0		6c149ec2580e86719838a1df2278cb20961d38b2
 com.avsystem.commons	commons-core_2.13	2.21.0		dfb1724f8ce12f4ba177f1c1fb615edaff3f50d3
+com.avsystem.commons	commons-core_2.13	2.22.0		fc1cb7c130d493dc34708ef9e78c3ab5be7990be
 com.avsystem.commons	commons-core_2.13	2.3.0		fc676a855ce28372b622b08690ec33da95597069
 com.avsystem.commons	commons-core_2.13	2.4.0		a100c9945814b99d36217327c1ded862a6814a49
 com.avsystem.commons	commons-core_2.13	2.5.0		37ef34b84b40dd441494509dc2f2daf6b00da0d9
@@ -570,6 +575,7 @@ com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstr
 com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstract-tests	2.14.4		039cd04f8638775944c72496883a14eb648c2485
 com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstract-tests	2.15.0		595052878a198ed60e9ca15f5e7d2abfe76066d1
 com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstract-tests	2.15.1		7c161f6e067cf9110321665c5e7c5f9f2ba9fbf7
+com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstract-tests	2.15.2		ce1942e9bda22a5efd425a2f8dfee22235c7c46b
 com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstract-tests	2.2.3		fa300ee2975491bd0ffbc2e0a75f21a18c32f71b
 com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstract-tests	2.2.4		a6455237caf50b0f91a8635e97d0a8fc29ac3aa5
 com.solace.connector.core.test	pubsubplus-connector-framework-test-support-abstract-tests	2.2.5		1a6be5de2ef99498ad13f891eb97188478521449
@@ -749,6 +755,7 @@ dev.zio	zio-aws-costoptimizationhub_2.13	7.31.27.1		0f4f3ac948c5705a437dcdd81600
 dev.zio	zio-aws-costoptimizationhub_2.13	7.31.28.1		d15ab9d7500d4b9cd2da8bbbd6e04bba9007444d
 dev.zio	zio-aws-costoptimizationhub_2.13	7.31.3.1		e5b1669dbebda2703d408dcf4dfefb8a8ce8025f
 dev.zio	zio-aws-costoptimizationhub_2.13	7.31.30.1		6caa2248b7901780de7de902dd1753a11cde0d0d
+dev.zio	zio-aws-costoptimizationhub_2.13	7.31.30.2		90fc587a3cbeb636290eb51b9d34d814a347b637
 dev.zio	zio-aws-costoptimizationhub_2.13	7.31.4.1		be1c978d4ac3c5b924f82d1a74c2798a2c88d3c2
 dev.zio	zio-aws-costoptimizationhub_2.13	7.31.6.1		dc5d0d7b39060947c2d0774b81b205420a00c853
 dev.zio	zio-aws-costoptimizationhub_2.13	7.31.6.2		0a164794baea804155adb2245925bbe572c650cd
@@ -976,10 +983,24 @@ net.finmath	finmath-lib-cuda-extensions	4.0.12		c1b95f37f211e1359b0ef6c26cb30abd
 net.finmath	finmath-lib-cuda-extensions	4.0.3		deab9ef8ccb040b97f8e0e3c03ea728b5541e883
 net.finmath	finmath-lib-cuda-extensions	4.0.5		49351efab80b0a7407f60d2c4fcade5b805df72a
 net.finmath	finmath-lib-cuda-extensions	4.1.1		b4c6a7cec3df0e15058bd11a86ad4c1b2b3bdfb6
+net.finmath	finmath-lib-cuda-extensions	4.1.1	cuda-10.1	9c05bb5004e9347499f5b825712ae4b5a79821af
+net.finmath	finmath-lib-cuda-extensions	4.1.1	cuda-6.0	5cf5ed96eb84b268f2281974b9f214c66491d613
+net.finmath	finmath-lib-cuda-extensions	4.1.1	cuda-8.0	7dc1e415f67506efc41834f6f7ca7fef7e76d11e
 net.finmath	finmath-lib-cuda-extensions	4.1.2		b30c3ae9bfa44d7d0e4ec807e9e7a244fd727dd2
+net.finmath	finmath-lib-cuda-extensions	4.1.2	cuda-6.0	05df9cb025caf2fd2c0cf70e7b2ef9b1f921d687
+net.finmath	finmath-lib-cuda-extensions	4.1.2	cuda-8.0	7c85360fff5bd3c9ca54f5951887f469ba748627
 net.finmath	finmath-lib-cuda-extensions	4.1.7		29ad6f8670993944ffd949a16b310cacc2068fbf
+net.finmath	finmath-lib-cuda-extensions	4.1.7	cuda-6.0	8b2311da0c9f450c21b7f8c880cc2c8250f05d88
+net.finmath	finmath-lib-cuda-extensions	4.1.7	cuda-8.0	c8b86dbb3525d27db8c30b07cb4eb1fd3271e32e
 net.finmath	finmath-lib-cuda-extensions	5.0.5		6e7130cda083b8b1636c8d0f6589bf16dbefa24a
+net.finmath	finmath-lib-cuda-extensions	5.0.5	cuda-10.1	ded731e687c90b5aa7604c958f8d781a8f9a4f67
+net.finmath	finmath-lib-cuda-extensions	5.0.5	cuda-10.2	90618a67adb7ceae327a3b453b9a771df9461bd2
+net.finmath	finmath-lib-cuda-extensions	5.0.5	cuda-6.0	668b1c6ee31bd02288e85f7f93c65315729f006f
+net.finmath	finmath-lib-cuda-extensions	5.0.5	cuda-8.0	120f9a89f36f1f982222c867cc84ddc936e67f09
 net.finmath	finmath-lib-cuda-extensions	5.1.3		069e464f045ab3f8c4de49ce1501264130b338d1
+net.finmath	finmath-lib-cuda-extensions	5.1.3	cuda-10.1	7acfacbfa1be4690576f728cb31f79300b703fda
+net.finmath	finmath-lib-cuda-extensions	5.1.3	cuda-6.0	bcbb9b5abd6cca02e0533f580e4af85bcd80848d
+net.finmath	finmath-lib-cuda-extensions	5.1.3	cuda-8.0	c14a4c46bc879fb7f16ad87b572a11ac9d1dfdc2
 org.activiti.cloud	activiti-cloud-starter-audit-mongo	7-201708HOTFIX-EA		f03709ae97db6399de233a21161305db60023d68
 org.activiti.cloud	activiti-cloud-starter-audit-mongo	7-201709-EA		4b86d07f0877f90e244855e90a415aca553c9685
 org.activiti.cloud	activiti-cloud-starter-audit-mongo	7-201710-EA		ee259c243671e584b54fe258a905176d31786086
@@ -1572,3 +1593,7 @@ tz.co.asoft	nation-countries-tvossimulatorarm64	3.0.14		N/A
 tz.co.asoft	nation-countries-tvossimulatorarm64	3.0.14	metadata	6deeacaf53424c6ccc955ff5d6bc74f84b2f466a
 tz.co.asoft	nation-countries-tvossimulatorarm64	3.0.15		N/A
 tz.co.asoft	nation-countries-tvossimulatorarm64	3.0.15	metadata	62abf48c9560c752abae185208a80f0933373a4b
+tz.co.asoft	nation-countries-tvossimulatorarm64	3.1.0	metadata	a3d5eb0d42218f69aa71359ac62acfb5f6551f22
+tz.co.asoft	nation-countries-tvossimulatorarm64	3.1.1	metadata	015ed552f116df8fbbbb49a0961dcd9bf0ca00d8
+tz.co.asoft	nation-countries-tvossimulatorarm64	3.1.11	metadata	6858ae8b987c2534e3921109107e4f62373539c8
+tz.co.asoft	nation-countries-tvossimulatorarm64	3.1.12	metadata	7ae418defe12d59f755d04048d56efee80c2a5d5

@@ -37,6 +37,7 @@ cloud.piranha.extension	piranha-extension-mojarra	25.1.0		2b51a89ce366f1dcfb2e1a
 cloud.piranha.extension	piranha-extension-mojarra	25.2.0		69d1bb3b7c70234efdb8dc0bcce2ee536c468d42
 cloud.piranha.extension	piranha-extension-mojarra	25.3.0		fae96405a7b6b271bfe605dbcfc033abb092a1f2
 cloud.piranha.extension	piranha-extension-mojarra	25.4.0		d8df25121d80ef47b10a6a586198b24aff2dc1c3
+cloud.piranha.extension	piranha-extension-mojarra	25.5.0		80cefbf0c325d887d1e19b82af468e98340f10d7
 com.activequant	aq2o	2.0		7411372cc0bbaf4a4e324e1c063464381998ea8d
 com.afrunt	jach	0.1-dev		c827dd398a8a94e447d453888de16d45c6651b87
 com.afrunt	jach	0.1.1-dev		6fcc6d27c2c5149e6ad1d5b6b4c0fd159ff49e8e
@@ -233,6 +234,7 @@ com.fasterxml.jackson.module	jackson-module-blackbird	2.18.0-rc1		ee637b1b37824c
 com.fasterxml.jackson.module	jackson-module-blackbird	2.18.1		b9d26a3ff26ed0e713bbccc62987e551672d3d0b
 com.fasterxml.jackson.module	jackson-module-blackbird	2.18.2		c2fe20a9dee5811d415b41d2480eb61f7c1f4014
 com.fasterxml.jackson.module	jackson-module-blackbird	2.18.3		0db93f074326e92c39888e1cccbfd50f7efb2bbd
+com.fasterxml.jackson.module	jackson-module-blackbird	2.18.4		52364d9ccc71c0c69e9ca2a744554c31e84d72ca
 com.fasterxml.jackson.module	jackson-module-blackbird	2.19.0		8c1366c0943c8fe7d0e5e02d455bdc4afc0e0f29
 com.fasterxml.jackson.module	jackson-module-blackbird	2.19.0-rc2		3cdebbcfa1bf947ad6606607478b262e4506dd8e
 com.fizzed	mediaj	0.0.1		N/A
@@ -884,6 +886,7 @@ io.quarkus	quarkus-extension-processor	3.15.2		888cd167c478df1544827c6d9fd45b86d
 io.quarkus	quarkus-extension-processor	3.15.3		8ffd977023ab14f17b8a66a58ba92b792eccd243
 io.quarkus	quarkus-extension-processor	3.15.3.1		42c5ea520e8f3e96b55e2a970a1879730350b367
 io.quarkus	quarkus-extension-processor	3.15.4		d342de51c0367b4dfa16b18408d51cc072c13cd9
+io.quarkus	quarkus-extension-processor	3.15.5		11d40f4093e6be9d2e436d213b8cf6f8746a127f
 io.quarkus	quarkus-extension-processor	3.16.0		f50483beb2ac2eb8565b56468a14dac372515612
 io.quarkus	quarkus-extension-processor	3.16.0.CR1		f49cef89555df34f5205761cd3383968641d6d27
 io.quarkus	quarkus-extension-processor	3.16.1		66467a9d2bb84ec64b3795fb3a1bc14915b0eca4
@@ -928,6 +931,7 @@ io.quarkus	quarkus-extension-processor	3.2.8.Final		aaa4feecaebacaf8d45015215751
 io.quarkus	quarkus-extension-processor	3.2.9.Final		511f50abac6baf14947bf93da3495bf6b74f08a5
 io.quarkus	quarkus-extension-processor	3.20.0		1423e47b540f688e418f99d35d77bd43ed3c960f
 io.quarkus	quarkus-extension-processor	3.20.0.CR1		82ef4cc6a0da27d969fac4098ee7d4409b906c33
+io.quarkus	quarkus-extension-processor	3.20.1		80f7adadd5d6b8e52bc71b5478ed9431a50e6262
 io.quarkus	quarkus-extension-processor	3.21.0		97a95bdb05817c0a854218856dd233a59a2988d5
 io.quarkus	quarkus-extension-processor	3.21.0.CR1		f49c4554a0f3fe4761bdb8c90f11cbb11b804562
 io.quarkus	quarkus-extension-processor	3.21.1		75facb0e045523690853e7b11c42056df848b063
@@ -937,6 +941,9 @@ io.quarkus	quarkus-extension-processor	3.21.4		91d9ad4d1ef33186359900bcb5a0194f6
 io.quarkus	quarkus-extension-processor	3.22.0		ac6cc5895c4657e44760fe002215d180042e2cc7
 io.quarkus	quarkus-extension-processor	3.22.0.CR1		a96b0cb56e318a84d081b13e35c1138a4c8896cc
 io.quarkus	quarkus-extension-processor	3.22.1		37ec81dd73b9821673d75bf845d826b601dfbdfd
+io.quarkus	quarkus-extension-processor	3.22.2		dbbc2e4bd048721a875842237b87bb03b5337160
+io.quarkus	quarkus-extension-processor	3.22.3		c6322a4efd83848313099a725dce7388024bf9b4
+io.quarkus	quarkus-extension-processor	3.23.0.CR1		ab79da950ccdbb61dbbd0a224a2a078b4aab10fe
 io.quarkus	quarkus-extension-processor	3.3.0		ae22b82743a52f2e19fffabdc1d7c7beb0dd8ff3
 io.quarkus	quarkus-extension-processor	3.3.0.CR1		29e8a3963db75debe81cb46ed226275e55100b5a
 io.quarkus	quarkus-extension-processor	3.3.1		71fd0855dbc796f805a27486e22c6f31a0ad4b77
@@ -995,6 +1002,12 @@ io.springlets	springlets-web	1.2.0.RELEASE		2c7c3b0187ec5edda664c7588e2bdde784ea
 marmalade	marmalade-taglibs	1.0-alpha-2		N/A
 marmalade	marmalade-taglibs	1.0-alpha-3		N/A
 milyn	opencsv	1.6		ea51744dc327739442c13b0e7e47c593d635564d
+net.databinder.giter8	giter8-scaffold_2.9.1_0.12	0.5.1		551723d7f903c6645debd146c8d043e74fbcea33
+net.databinder.giter8	giter8-scaffold_2.9.1_0.12	0.5.2		cd5d3d06813d923d7bdaf9987c02cf53beb9a083
+net.databinder.giter8	giter8-scaffold_2.9.1_0.12	0.5.3		62cbc806230fda6c19e5151a940b6f634a406842
+net.databinder.giter8	giter8-scaffold_2.9.1_0.12	0.6.0		fac2e8b89ec2c1ca37acd8303dfae5d019854a3e
+net.databinder.giter8	giter8-scaffold_2.9.1_0.12	0.6.1		b2616c7731c9bcd318226196967c0ec002159803
+net.databinder.giter8	giter8-scaffold_2.9.1_0.12	0.6.2		56e0a79d30b96fbe08c7a4f3a04185c6d039ae41
 net.dreamlu	jfinal-mica-mqttx-client	3.0.0		89654c89f86b1e1cb5083c080c1132c605f816c8
 net.dreamlu	jfinal-mica-mqttx-client	3.0.1		8d7893e250dfd6aaf365a04c64682494c628a78b
 net.dreamlu	jfinal-mica-mqttx-client	3.0.10		6822870b1fed95f45c905178f8452478287704f4

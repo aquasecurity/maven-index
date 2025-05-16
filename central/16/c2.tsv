@@ -1,3 +1,7 @@
+ch.epfl.scala	sbt-scalajs-bundler-sjs06_2.12_1.0	0.16.0		3b209caff31ccb41c8be83fa82c55c70e6bf4a79
+ch.epfl.scala	sbt-scalajs-bundler-sjs06_2.12_1.0	0.17.0		7e2e075b121d20566ac98578116b37dd2db64083
+ch.epfl.scala	sbt-scalajs-bundler-sjs06_2.12_1.0	0.18.0		a20ea15ef0a300d840baedb10899b281986b2766
+ch.epfl.scala	sbt-scalajs-bundler-sjs06_2.12_1.0	0.19.0		2d50d3e3acb67658d38dc79ec2f62f9592cf2b28
 cn.easylib	easy-domain	1.5		513802577383451085a5511c6b300a5683e51626
 cn.easylib	easy-domain	1.5.1		8c5a428902d7d5e6eb8fd6c0b0441951ee557ce1
 cn.easylib	easy-domain	1.6		d7413916091923596c3fb2a14357a50084307330
@@ -417,6 +421,8 @@ com.google.api.grpc	proto-google-cloud-monitoring-v3	3.6.0		01c58c69975d82f7df3b
 com.google.api.grpc	proto-google-cloud-monitoring-v3	3.60.0		0eb7fc071d3948a0ad9735b51801a33a0de5d03c
 com.google.api.grpc	proto-google-cloud-monitoring-v3	3.61.0		9ba5d8e9e12d52f1ab7ac1b61bb2df9967179dc8
 com.google.api.grpc	proto-google-cloud-monitoring-v3	3.62.0		737691e238a92fcf434388ccf37514b945ef3714
+com.google.api.grpc	proto-google-cloud-monitoring-v3	3.63.0		ed3b9127bb45f99c60d8d5feb9ba5547a02225da
+com.google.api.grpc	proto-google-cloud-monitoring-v3	3.64.0		5704880e1aee8e8b4c88faf50198607ab1642364
 com.google.api.grpc	proto-google-cloud-monitoring-v3	3.7.0		e81c98adee34056761a1a16ac3139a59dfd44a6c
 com.google.api.grpc	proto-google-cloud-monitoring-v3	3.8.0		eb89ce48d694357a25745291bf569e06fd449afe
 com.google.api.grpc	proto-google-cloud-monitoring-v3	3.9.0		76f3559a9c9d8b8ea844b1fde73a1664d81552f7
@@ -1048,6 +1054,7 @@ dev.zio	zio-aws-machinelearning_2.12	7.31.27.1		8a0b9b905ad68ad404e7953942f784dd
 dev.zio	zio-aws-machinelearning_2.12	7.31.28.1		4899ee01cfadaea9adc8facbd3cf51b234462fa4
 dev.zio	zio-aws-machinelearning_2.12	7.31.3.1		91833f4c00c6f820a818d7599e219b572934a3df
 dev.zio	zio-aws-machinelearning_2.12	7.31.30.1		ea97beb4fb9e26281a369d38a19ac396cdb64879
+dev.zio	zio-aws-machinelearning_2.12	7.31.30.2		4f4a79d26eee3862a53355df785721078c59f471
 dev.zio	zio-aws-machinelearning_2.12	7.31.4.1		3a74ec3bcc94f8b05fda0fb4dc67f29017b5ce82
 dev.zio	zio-aws-machinelearning_2.12	7.31.6.1		eea99229c544c70b541a2454cade5dc99671b960
 dev.zio	zio-aws-machinelearning_2.12	7.31.6.2		7cb18628a3a9784616f8e29795569d02bf82b0cb
@@ -1289,6 +1296,7 @@ io.fabric8	verticalpodautoscaler-tests	7.0.0		ce7ed8434932470c095592e991060ba5e7
 io.fabric8	verticalpodautoscaler-tests	7.0.1		039cba4936d9affa02453c07bde3206327930392
 io.fabric8	verticalpodautoscaler-tests	7.1.0		a87505273dc78ecac1c327124b136c91f5d4d0fa
 io.fabric8	verticalpodautoscaler-tests	7.2.0		0fe279f3bb9d58bae11937a233620026eafc47e4
+io.fabric8	verticalpodautoscaler-tests	7.3.0		a02342bc19f68eaaca0a2b2d64909ba17a8c8a3f
 io.github.abdus-shakur	automation-framework	1.0.7		e1bf3f29edf4dc966dcddc2ef048a91c9f0025f2
 io.github.abdus-shakur	automation-framework	1.0.8		d854a9362ed1ca939d1a4761eda0c5f80cfbe038
 io.github.abdus-shakur	automation-framework	1.0.9		6bc5b1ef4a7f4bce8e70c366c81aece60e6113ff
@@ -1366,7 +1374,11 @@ io.kestra.plugin	plugin-jdbc-druid	0.21.3		48887fada9e7869213668ca08d877e53ba158
 io.kestra.plugin	plugin-jdbc-druid	0.21.4		294e2c2c0a8eccd1437e5f64d9a0412e10376589
 io.kestra.plugin	plugin-jdbc-druid	0.21.5		6b70fe3243c802d5b330a5ca89a5842e2b19efee
 io.kestra.plugin	plugin-jdbc-druid	0.21.6		482fd680a08a8fc14d6931e79c2f4cd7d5796512
+io.kestra.plugin	plugin-jdbc-druid	0.21.7		1acdd8afe2bc4fea2be3307e63c60bc81cae9501
 io.kestra.plugin	plugin-jdbc-druid	0.22.0		ce2b46e26ab1bdc2edf5214f087fe7d5ef47a4df
+io.kestra.plugin	plugin-jdbc-druid	0.22.1		7191e82415dfdeebb669e5d8f8c19ee982028046
+io.kestra.plugin	plugin-jdbc-druid	0.22.2		8c929d2f59cb67dd444964e33ce65f9c520112a2
+io.kestra.plugin	plugin-jdbc-druid	0.22.3		75635744bc8d14a13ffed381e969402fd316b1c5
 io.ktor	ktor-client-mock-native	1.1.0		74babcd8cc94812f6afb535b765e5940ed679f30
 io.ktor	ktor-client-mock-native	1.1.1		893aa2938025890776325710a1e8a981a12a10ef
 io.ktor	ktor-client-mock-native	1.1.2		2d9ce0011d235f851368a03560c3a24dc8109b10
@@ -1464,6 +1476,7 @@ org.apache.camel.springboot	camel-langchain4j-tools-starter	4.8.3		ce899312056b1
 org.apache.camel.springboot	camel-langchain4j-tools-starter	4.8.4		bcb245012ffb0571c096900af570aa04ed7471cf
 org.apache.camel.springboot	camel-langchain4j-tools-starter	4.8.5		5b40a595ecf2168d4047efca5b1e3b34078fe990
 org.apache.camel.springboot	camel-langchain4j-tools-starter	4.8.6		dcf2b18739e339c671d91133192bb2e86bb2b46e
+org.apache.camel.springboot	camel-langchain4j-tools-starter	4.8.7		57c6606d90505bd647d26663ff9096431d48b51c
 org.apache.camel.springboot	camel-langchain4j-tools-starter	4.9.0		180f9d4d5d5ccf8e449d3bb8ddb9e8182c2acec1
 org.apache.gobblin	gobblin-flow-config-service-api-data-template	0.12.0		9b5a4283f8e6d5f19f81105bf899bd80d76ce3e6
 org.apache.gobblin	gobblin-flow-config-service-api-data-template	0.13.0		0ff2719a2103fbe991f51183514ff09947a706ca

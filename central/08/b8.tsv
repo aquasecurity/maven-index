@@ -714,6 +714,8 @@ io.github.jan-tennert.supabase	postgrest-kt-tvosx64	3.1.3		N/A
 io.github.jan-tennert.supabase	postgrest-kt-tvosx64	3.1.3	metadata	5e9dd7ab307787d4bfbc7e822128f8f1b6392126
 io.github.jan-tennert.supabase	postgrest-kt-tvosx64	3.1.4		N/A
 io.github.jan-tennert.supabase	postgrest-kt-tvosx64	3.1.4	metadata	e31671479ac03f98128a11e048a6b8aeda420fcc
+io.github.jan-tennert.supabase	postgrest-kt-tvosx64	3.2.0-beta-1	metadata	3bcfd1b0ad81ddb9943422ca88987762ec130686
+io.github.jan-tennert.supabase	postgrest-kt-tvosx64	3.2.0-beta-2	metadata	13c5555f510da78f920c0335c9503fa2bd59af11
 io.github.joafalves	pixel-ext-log4j2	0.10.0		602baf7310a93c469ba023a93166a12b4ac71a91
 io.github.joafalves	pixel-ext-log4j2	0.5.4		6db8837ffd7c1828b8aaa2577a45544463d9ea58
 io.github.joafalves	pixel-ext-log4j2	0.6.0		8e5496409e0db49f50c443bd3e51ee80b4325ecf
@@ -946,6 +948,7 @@ org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.2.1		5499c89e23271304b8
 org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.2.2		e3a3608a1d35c1ee57c1f2e5e03125eb631341c9
 org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.2.3		fd2455964ab7d1a0866916462818174fea590533
 org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.20.0		f4996b08207388d4c5bd591ae788ac6cd9220bae
+org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.20.1		8b55cfa55e253c77edfa85be1c295329a4bd7fbe
 org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.22.0		2e3165dd0afe35ccc45595296eb6f558390e26fc
 org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.4.0		79574536ddaa10195b743206cfc6aff90d51c13e
 org.apache.camel.quarkus	camel-quarkus-asn1-deployment	3.5.0		368be1734553c1e9a38fb13a2b5e92d9aab1416d
@@ -1143,6 +1146,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.31_
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.33_1		2be40a83e528827a42fe168e8436c416c1797bab
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.34_1		fdc66467540effaf8b2e4eff6968ba7d2b3ae4d9
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.39_1		c2aaf11c40ae2655f5d756c8b55c3972683b86e6
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.39_2		3a7d10776d20758f7e5c3fd7be3c182413ad8c7b
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.3_1		33a4fd39a9c3b160c8e667ec3cb00365256589f6
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.4_1		140682099d2f04c92da1bd5944d46d6f49a2d03e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	5.3.5_1		7dad510f056aa8bb0fb295854a0dc259c7ebdb9b
@@ -1157,6 +1161,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.14_
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.18_1		0cc052380b82f7ed12652953ca748d45d4c4ca9c
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.19_1		6cfcd73d7481176e5628a8694d80be5bf00e1200
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.23_1		8c11bfaa26df3e9c08e08e285bd2a3a9845c546c
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.23_2		ecc9327d307cca41beb6b7589bb80d74f316a26e
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.2_1		98f4ceb12bf3bb3cdb0eabfc56745eda6ef322bf
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.3_1		09fdecde8794e4520b87665a993ccfa24497ac22
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.4_1		93a83c5d83c8ffee0b932d7786cc3aa57706a2ac
@@ -1165,9 +1170,11 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.7_1
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.0.8_1		d387ecf11482d9618e74f428ef3769f70f752539
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.1.13_1		5601bf55b5d3c372ba5d26a4ab5d6f1c9d289897
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.1.14_1		713d3299ad30bb7a4e2da5345214979da152c25a
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.1.19_1		175f3e5879dd2bb6ccfd810a50143352a7bd0975
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.1.2_1		37d30afe06d8cb7a602998941dac7f8c17397624
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.1.5_1		b22441edafa280fbe7cfc9e98aa8fe3a9e8e447f
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.1.6_1		ffbe3318434a31c0c090e6c4db8164a82ab7c7b5
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-beans	6.2.6_1		dcecabf53dc64fd3e5575415111a1ce28d4780c3
 org.coindirect	centrifuge-java	0.38		52047c62d465e18783c5b85559ee926487e60a8d
 org.enhydra.xmlc	xmlc	2.2.7.1		eae4ebdfb73a70958433d0f193c4aef90784e5d2
 org.fugerit.java	fj-doc-mod-openpdf	0.1.0		d83aab72781717f68332385d06d325b17bc84349
@@ -1672,6 +1679,7 @@ org.wildfly	wildfly-testsuite-shared	35.0.0.Final		472f7b34f992d8d43ec84e39967c8
 org.wildfly	wildfly-testsuite-shared	35.0.1.Final		c48bfb2c99ebf8a8ce17495d3656467e4302d06d
 org.wildfly	wildfly-testsuite-shared	36.0.0.Beta1		f8885fb552d9d8ab15d5a2e8cea48dd5845f51de
 org.wildfly	wildfly-testsuite-shared	36.0.0.Final		0f01105a25fcada086a7b218f877b41792a3f3c0
+org.wildfly	wildfly-testsuite-shared	36.0.1.Final		e28e03fbb1ac0c569cbdc242195ed4de6aef3168
 org.wildfly	wildfly-testsuite-shared	8.0.0.Alpha1		e85ec39e2c7513dbd38f4bf3bef244b5dec67aa7
 org.wildfly	wildfly-testsuite-shared	8.0.0.Alpha2		59956a9997167a0db7e21d30920d20ffdc85750f
 org.wildfly	wildfly-testsuite-shared	8.0.0.Alpha3		172d6f061134ec2ec5ff2a770be3d02b771913b2

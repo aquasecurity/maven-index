@@ -280,6 +280,8 @@ com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.59.0		be559c17c93a56d3
 com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.6.0		098a1cf6e1d983c18bbcd812f826d5a0826f7c06
 com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.60.0		429f2a5d18bded923ac351602ac5332f92d6b1fa
 com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.61.0		eb68b9ee30f8740a9c93277881b7c25f2f7eef66
+com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.62.0		72faeb107ecb44e81414628e95b3899b909d45b9
+com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.63.0		6a726bc825f672cdd6ec7d4e2350fe2d574d77b5
 com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.7.0		fc2cfd71a72c0e0eb876e8308a610b8f8b8ba396
 com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.8.0		055f6b119ed9d1f912ce130460e3a09a1539ee24
 com.google.api.grpc	proto-google-cloud-gsuite-addons-v1	2.9.0		68061c530630bc94d47318230c776bb2cd141e07
@@ -838,6 +840,7 @@ dev.zio	zio-aws-codestarconnections_2.12	7.31.27.1		400499614599720b13c15e97495d
 dev.zio	zio-aws-codestarconnections_2.12	7.31.28.1		eca6a2240b752aec65c7247ae2fed7e792eb7c34
 dev.zio	zio-aws-codestarconnections_2.12	7.31.3.1		3e4b623753ff9b0cdab812527356fdcb8ddaf49b
 dev.zio	zio-aws-codestarconnections_2.12	7.31.30.1		dfda5fef980f079de877b41b9a86faa125b1dbb2
+dev.zio	zio-aws-codestarconnections_2.12	7.31.30.2		08b5e9bdb7b0cad29a997c036d152462e9172f78
 dev.zio	zio-aws-codestarconnections_2.12	7.31.4.1		a5fb59bea5866adf1ab5a4962927185af5e2a9f2
 dev.zio	zio-aws-codestarconnections_2.12	7.31.6.1		d6af281ce1b703dd3706b05b9b06796d2695e634
 dev.zio	zio-aws-codestarconnections_2.12	7.31.6.2		3991b33105b07f443c643fe340217a52f29ba7a2
@@ -960,6 +963,7 @@ io.github.panpf.sketch4	sketch-core-iosarm64	4.0.4		N/A
 io.github.panpf.sketch4	sketch-core-iosarm64	4.0.4	metadata	6c464d1630637d22f4e1c0604d3f103be2b9ddb7
 io.github.panpf.sketch4	sketch-core-iosarm64	4.0.5		N/A
 io.github.panpf.sketch4	sketch-core-iosarm64	4.0.5	metadata	0497511335380d755f7c2447fa3bb1201612b3e3
+io.github.panpf.sketch4	sketch-core-iosarm64	4.0.6	metadata	edd1da473e158b44cb16bd5b09c6a1a31eff0cea
 io.github.pityka	poibin_2.12	0.0.1		f8ac1d95bbf223239e5e4e0bb342a217e7f516a3
 io.github.resilience4j	resilience4j-reactor	0.12.0		55c355207c002e42b1f56fc567d7f1e42435fe18
 io.github.resilience4j	resilience4j-reactor	0.12.1		ea0d08879fca3ce290210a9c5689e29cdc9352ba
@@ -1337,7 +1341,11 @@ io.opentelemetry.instrumentation	opentelemetry-kafka-clients-common	2.8.0-alpha	
 io.opentelemetry.instrumentation	opentelemetry-kafka-clients-common	2.9.0-alpha		0d8fe9d98ca37c77f04e9c5a16135dfcd3acebcf
 io.spinnaker.kork	kork-cloud-config-server	2025.0-0		5e0275762cdde387a656c93ebe6531a01d5c5d32
 io.spinnaker.kork	kork-cloud-config-server	2025.0-1		c42e31546d60531b1eabcb1b38903f3e9374b95a
+io.spinnaker.kork	kork-cloud-config-server	2025.0-2		f93c86c7384b8d8fcb69d6d08d5efcc4b1006d7f
+io.spinnaker.kork	kork-cloud-config-server	2025.0-3		7b5e3b6c3aaf737397e50eddad7fedc153d3e095
+io.spinnaker.kork	kork-cloud-config-server	2025.0-4		8394258f2b505330482501bf7c9aff59f3479d66
 io.spinnaker.kork	kork-cloud-config-server	2025.0.0		1336b0cdde5ca5c05c8a012decfce153117965c5
+io.spinnaker.kork	kork-cloud-config-server	2025.0.1		0fed77686f2f4935f3ef49d482a14469dee5e90a
 io.spinnaker.kork	kork-cloud-config-server	7.105.0		7f096bd1d9df0717552bed4119f1462813046cad
 io.spinnaker.kork	kork-cloud-config-server	7.107.0		7e29c95a832d77757e900bd559e35576f89d046c
 io.spinnaker.kork	kork-cloud-config-server	7.108.0		21a428fae0bf208d338278dbed5ee684cc7a51f9
@@ -1517,10 +1525,14 @@ io.spinnaker.kork	kork-cloud-config-server	7.92.4		a4f02e230c0a597030a53ac28dba7
 io.spinnaker.kork	kork-cloud-config-server	7.92.5		d110298fe0bcd59b6f5900dafe9e340f7b238312
 io.spinnaker.kork	kork-cloud-config-server	7.92.6		b265020ba08076be17f733495fdedbc40944d9a3
 io.spinnaker.kork	kork-cloud-config-server	7.92.7		f9382c2da768c4b76b479498d2e2040b1dbf8702
+io.spinnaker.kork	kork-cloud-config-server	main-10		ee243b7cb1a2aa4390f1cbe73c994fd2b02824e7
+io.spinnaker.kork	kork-cloud-config-server	main-11		99b84cb68bef5c939efd75df4c9664c11e2d4239
+io.spinnaker.kork	kork-cloud-config-server	main-12		9614b5e15c1c9c1087ddcb7b9ff2bfe5e70b7895
 io.spinnaker.kork	kork-cloud-config-server	main-5		1f6484172e733b2897f55f03d526e1c8670bf5ed
 io.spinnaker.kork	kork-cloud-config-server	main-6		1702c418089c5fca7e41b4a7204074cb97ce65aa
 io.spinnaker.kork	kork-cloud-config-server	main-7		5ad36ae75fd90bbc53f2fa909a1720af5cd2b8ac
 io.spinnaker.kork	kork-cloud-config-server	main-8		57551e69461f0481e826a21e7e9b1f420745b62c
+io.spinnaker.kork	kork-cloud-config-server	main-9		e4ea2266e3d588f94d46c779d24d9e297cc6b83f
 io.taig	taigless-geo-caching_2.13	0.10.0		606483b9d679e5a6e365113a82945c18434195ca
 io.taig	taigless-geo-caching_2.13	0.10.1		aa62db0867be85024a392af62e046dfff934b8ce
 io.taig	taigless-geo-caching_2.13	0.11.0		25b4516f9f99b87975023c6c13ea7ab2e47c4c19
@@ -2248,6 +2260,7 @@ org.apereo.cas	cas-server-support-electrofence	7.2.0-RC6		760e54e5dd886504d1cb33
 org.apereo.cas	cas-server-support-electrofence	7.2.0-RC6	resources	fe5cc99956038b3b17b65033ae7820ed62a69534
 org.apereo.cas	cas-server-support-electrofence	7.2.1		cf83e5237338fe447065677a4af53a3ddc41b352
 org.apereo.cas	cas-server-support-electrofence	7.2.1	resources	59125a7da15bc3d1d06865448772bfeb5f3364d4
+org.apereo.cas	cas-server-support-electrofence	7.2.2		8a0254dc628ba180e3e1be25fb78819d00c5865d
 org.apereo.cas	cas-server-support-electrofence	7.3.0-RC1		79615053240750312d56b53dd464b0e0cb118d58
 org.apereo.cas	cas-server-support-electrofence	7.3.0-RC1	resources	87604ade70188db599546d55859ec958d12363cc
 org.apereo.cas	cas-server-support-electrofence	v6.4.0-RC5		be815f796f1fb3c929a317e51c2120a4bb3baff2
@@ -2288,6 +2301,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-watchossimulatorarm64	
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-watchossimulatorarm64	0.6.1	metadata	e0ce2475d844dfec75bf43fe22cd4393b7751574
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-watchossimulatorarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-watchossimulatorarm64	0.6.2	metadata	8878f6c5bf5dcfdbf7bb557db309576aa950e9bc
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-watchossimulatorarm64	0.7.0	metadata	381dc942b45d5fe5ff050bd85bbff69fbd95690a
 org.kodein.di	kodein-di-watchosarm32	7.0.0		N/A
 org.kodein.di	kodein-di-watchosarm32	7.1.0		N/A
 org.kodein.di	kodein-di-watchosarm32	7.10.0		N/A
@@ -2343,6 +2357,8 @@ org.kodein.di	kodein-di-watchosarm32	7.24.1		N/A
 org.kodein.di	kodein-di-watchosarm32	7.24.1	metadata	f646e7670e59b4c8d6681b0a983143f99a3c3460
 org.kodein.di	kodein-di-watchosarm32	7.25.0		N/A
 org.kodein.di	kodein-di-watchosarm32	7.25.0	metadata	5e6a0cbe03fb8084cef85556e30bbf8b7899387c
+org.kodein.di	kodein-di-watchosarm32	7.26.0	metadata	66e76d5ccd96f10987de7088f43c529132ebfde2
+org.kodein.di	kodein-di-watchosarm32	7.26.1	metadata	421429b882570bb9f85dc94a123038d3b786dafc
 org.kodein.di	kodein-di-watchosarm32	7.3.0		N/A
 org.kodein.di	kodein-di-watchosarm32	7.3.1		N/A
 org.kodein.di	kodein-di-watchosarm32	7.4.0		N/A

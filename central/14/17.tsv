@@ -588,6 +588,7 @@ io.fabric8	ovn-client	7.0.0		7e0548d2e4f72fb50bc999b271bd11b08f64b6cd
 io.fabric8	ovn-client	7.0.1		787d4e4dc07ea59169f03a7210fb156ce59385cf
 io.fabric8	ovn-client	7.1.0		d63e80a2a63be0ddffe61c786e76cb8950066fe9
 io.fabric8	ovn-client	7.2.0		8b66dfb7823ce7963d99195e3d925a5a06a2cbc9
+io.fabric8	ovn-client	7.3.0		9204d39591ae6947da8590e42b3beba012f36221
 io.fabric8.funktion.connector	connector-javaspace	1.1.20		5fcedd528f42b47a5f8efbc0bf90b67165dbeb3f
 io.fabric8.funktion.connector	connector-javaspace	1.1.21		0376b2388128cb47327175b29beaa3864ab27a4e
 io.fabric8.funktion.connector	connector-javaspace	1.1.22		c29d96c33e525dfbf78109b14bc4294d9145f335
@@ -818,6 +819,7 @@ io.kotest	kotest-common-macosx64	6.0.0.M2		N/A
 io.kotest	kotest-common-macosx64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-common-macosx64	6.0.0.M3		N/A
 io.kotest	kotest-common-macosx64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-common-macosx64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.ktor	ktor-client-auth-basic-iosarm64	1.1.1		adb61b653dd32483fca6aef6924d1427f9e99471
 io.ktor	ktor-client-auth-basic-iosarm64	1.1.2		4a6cb83cb0a660b7d0590deb0ed2208f70330dfa
 io.ktor	ktor-client-auth-basic-iosarm64	1.1.3		4583e0e2be354b1da39517f12abc1236883e3ee8
@@ -1024,6 +1026,7 @@ io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.15
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.15.3		0b5383f9ea1551d33df864da0ee5b44b1d555c23
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.15.3.1		b9dac748971b22520b9a34e5d308f4bfe83ba2a8
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.15.4		9b9750e350e02212c5783da1c3b9811ea5aa4bd4
+io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.15.5		1250bf7ac09d0a72651e2ad491feab61f5882cd9
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.2.0.CR1		23cad37a85cd70fe734bcb5e304a0a057d36b942
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.2.0.Final		a99bd9cc0a9e36f8cbb0bc137dcf312329221588
 io.quarkus	quarkus-resteasy-reactive-kotlin-serialization-common-deployment	3.2.1.Final		11ad2327ed0ec0ae005ff0ea8836665e004b5ea3
@@ -1277,6 +1280,7 @@ org.javadelight	delight-nashorn-sandbox	0.4.3		5d237b9b64e52e1f9aae8619df48e67f7
 org.javadelight	delight-nashorn-sandbox	0.4.4		a2b4048b85cc7ea123297340284c2abaf9d4972b
 org.javadelight	delight-nashorn-sandbox	0.4.5		5260c62229a3aefa4da6a4e64ae50043f9939926
 org.javadelight	delight-nashorn-sandbox	0.5.0		b95981dbf1f159018d0b0b720bd137cc3b701167
+org.javadelight	delight-nashorn-sandbox	0.5.1		ed9d8ab0ce05f09e818b09e3251cc1d36b3357c9
 org.jetbrains.kotlin	jvm-abi-gen	1.3.20		14a99ddbf09fcaaef6e0c9d4f4dfd5a327bf8635
 org.jetbrains.kotlin	jvm-abi-gen	1.3.21		b0d795f57d1e4cd78cd6353d6804fa30f94a53ae
 org.jetbrains.kotlin	jvm-abi-gen	1.3.30		b6e842d9913c84f0f32a4ca7d9fcbc58ec9a29c0
@@ -1397,10 +1401,12 @@ org.jetbrains.kotlin	jvm-abi-gen	2.1.20-Beta2		8fffa7ff07aac636fda5c85d9b7b8cee4
 org.jetbrains.kotlin	jvm-abi-gen	2.1.20-RC		75b94781279cefa8a036f6b7c14040974f6332ce
 org.jetbrains.kotlin	jvm-abi-gen	2.1.20-RC2		30e44a2ccdae577321093c3ecbdcddd00f43a7d2
 org.jetbrains.kotlin	jvm-abi-gen	2.1.20-RC3		271776fbc294c16be429ffc3c246cc0add4dd82c
+org.jetbrains.kotlin	jvm-abi-gen	2.1.21		5f6d4338b2799f3f51ef6227bf49f3b14ec43e53
 org.jetbrains.kotlin	jvm-abi-gen	2.1.21-RC		97b64f81c8301f6cf90e99968e55d429c39aa98a
 org.jetbrains.kotlin	jvm-abi-gen	2.1.21-RC2		fe4724070df4e47c41589b66492dbcc3e004bc7f
 org.jetbrains.kotlin	jvm-abi-gen	2.2.0-Beta1		c65912ba8677586749225e8ff7391e1724cfda21
 org.jetbrains.kotlin	jvm-abi-gen	2.2.0-Beta2		b96a5560943ff53302ab2f5569abd18136fd364b
+org.jetbrains.kotlin	jvm-abi-gen	2.2.0-RC		29e13206fbbc5ea777b94cf93d2650237528b9fd
 org.kuali.student.api	ks-api	2.0.0-cm		N/A
 org.kuali.student.api	ks-api	2.0.1-cm		N/A
 org.kuali.student.api	ks-api	2.0.2-cm		N/A
@@ -1660,6 +1666,8 @@ org.opfab	cards-client-data	4.5.0.RELEASE		00eb09899596e7640d30307c74376a8608af8
 org.opfab	cards-client-data	4.6.0-RC.RELEASE		cd736e599ff0b2bfed88292f6af1cf55afc661fd
 org.opfab	cards-client-data	4.6.0.RELEASE		3097fe7b90daab579035de45c48692370b370618
 org.opfab	cards-client-data	4.7.0-RC.RELEASE		479386e4f03d6b92015e38bd77dcf2e7c4191489
+org.opfab	cards-client-data	4.7.0.RELEASE		a14b36f92ee4daf3584f9854426dd4b2c01ea9f7
+org.opfab	cards-client-data	4.7.1.RELEASE		bbe309cd3e42d873e125f2f0a339226d485d21e4
 org.ow2.jonas.cxf.transport.reliablejms	itests-spring_mdp-application	0.1		N/A
 org.scommons.react-native	scommons-react-native-community_sjs1_2.13	0.5.0		3e94dff836d4a7e70e45afc1d3625f5df2a51dda
 org.scommons.react-native	scommons-react-native-community_sjs1_2.13	0.5.1		8fdaf4a56ba98045d7870bb8f038e2630e4ed088

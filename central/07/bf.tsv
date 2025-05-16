@@ -38,6 +38,8 @@ com.bladejava	blade-template-velocity	0.0.4		5cd4369a9dc87689a086218e1e113f8b6f1
 com.bladejava	blade-template-velocity	0.0.5		cf64bf55be6f91368fb69141bb2f18e188590ada
 com.bladejava	blade-template-velocity	0.0.6		09f3558630cf107dcfe5c68b38b40335275db40c
 com.bladejava	blade-template-velocity	0.0.8		4e7cc239700dc3300b180ac73f06b0cdccf5ccda
+com.dragselectcompose	core-jvm	3.0.0		8d0bff129c89cad6b16697e7fd8d9685a5695f26
+com.dragselectcompose	core-jvm	3.0.1		8d0bff129c89cad6b16697e7fd8d9685a5695f26
 com.flowingcode.vaadin.addons	twincolgrid	2.9.3		03e8b215700d27bee689e1c10157729d96d14e64
 com.flowingcode.vaadin.addons	twincolgrid	2.9.3	demo	dc9ad4152671ded3e71701dd414089de20fb0dc1
 com.flowingcode.vaadin.addons	twincolgrid	2.9.4		5de794217796dfcba1c10cfa2e5cb31d7757274d
@@ -945,6 +947,9 @@ io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.0.4		N/A
 io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.0.4	metadata	a8e9a419baf4fe5b7cad70abd69271ff852b57e2
 io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta1		N/A
 io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta1	metadata	bde7cc4b8ccaec9dac9bab7d86f96111a6999a83
+io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta10	metadata	327732ae3ee9733de27bbb50bfa24489d50d4773
+io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta11	metadata	9e029ddbfd0264e032aeef467bce02a6b4604de2
+io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta13-KTOR-EAP	metadata	b45538b7eca6fae3eaa46036b22dfc5491fce90f
 io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta3		N/A
 io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta3	metadata	e842b27b9cbe0386434a99384e327c779e652428
 io.insert-koin	koin-compose-viewmodel-iossimulatorarm64	4.1.0-Beta4		N/A
@@ -1175,11 +1180,19 @@ io.spinnaker.front50	front50-web	2.40.0		7a42ad0a741a114c6050e791eacc522bb6d3e4c
 io.spinnaker.front50	front50-web	2.41.0		51b8a2ef428cb1e1bff398c2f092a4eef69f4135
 io.spinnaker.front50	front50-web	2025.0-0		f34c30905c60b1d6872db0df52e2ac3835a18e1d
 io.spinnaker.front50	front50-web	2025.0-1		cda2b7afcf60743f84c96f34ed8f3aa274ac5621
+io.spinnaker.front50	front50-web	2025.0-2		bbfed13e60058b7bf55c0eaea2b9a54332f773bf
+io.spinnaker.front50	front50-web	2025.0-3		0f097e4ddc061ae842afd49bb2e72512b17e179e
+io.spinnaker.front50	front50-web	2025.0-4		1fd02a285be188e9c5eb5aa0d3ef355895d9100c
 io.spinnaker.front50	front50-web	2025.0.0		5219f6280762fcc5670e301b112fe62c1762864d
+io.spinnaker.front50	front50-web	2025.0.1		cfe2a569af25966d44d052c4a312c24604139405
+io.spinnaker.front50	front50-web	main-10		6fa21ee0c4d08a49fcbd72cf5f3f29e77f46a742
+io.spinnaker.front50	front50-web	main-11		dc1995a024392968b4652f100d32e074f770d83b
+io.spinnaker.front50	front50-web	main-12		5f90db9ae8f70afdaa889b9bb30bbe8b72705e36
 io.spinnaker.front50	front50-web	main-5		3c6dfc6000d4dbab4993ad5d92b29c3a48c118af
 io.spinnaker.front50	front50-web	main-6		fa45d92eb7f05ea01e76aaf632915eaff6e744d2
 io.spinnaker.front50	front50-web	main-7		139295182aec645dcba96113cb2494335d260f39
 io.spinnaker.front50	front50-web	main-8		ea05edfce43a58827ca148c0ffcbd527ba058527
+io.spinnaker.front50	front50-web	main-9		b8a8519e88df4f1529813d32642b501fec7c2ca2
 io.spinnaker.front50	front50-web	version-0.27.1		827825c6bbb3146b47509d04489035482aa3ec47
 io.springlets	springlets-docs	1.2.0.RC2		N/A
 io.springlets	springlets-docs	1.2.0.RC3		N/A
@@ -1854,6 +1867,11 @@ tf.tofu	derevo-pureconfig_2.12	0.12.7		832fe880dea27d2d704dcbfc332b616ad643b6f0
 tf.tofu	derevo-pureconfig_2.12	0.12.8		04ef368de037ab534549f943f5d634787c5847e8
 tf.tofu	derevo-pureconfig_2.12	0.13.0		cd9b96f2cedf3007da880a707e7233bea8d190ff
 tf.tofu	derevo-pureconfig_2.12	0.14.0		b1bec6deac310aac2a1ce384d947d0ce61232ec9
+tv.cntt	xitrum-package_2.10_0.13	1.5		a82a5e4ce1e77966f00f99247598f597ac77363b
+tv.cntt	xitrum-package_2.10_0.13	1.6		c06971dae9f5d34b4a7673e084aa799248621b1f
+tv.cntt	xitrum-package_2.10_0.13	1.7		9c849f14258b788a756b5dbbcdf2e94a00e27838
+tv.cntt	xitrum-package_2.10_0.13	1.8		4e8556aab08d00aa68a9e7b62284b555f12e25e5
+tv.cntt	xitrum-package_2.10_0.13	1.9		15ce10cdfcc603389cf597370780808b4cbacf49
 tz.co.asoft	phone-core-iosarm32	0.0.10		N/A
 tz.co.asoft	phone-core-iosarm32	0.0.20		N/A
 tz.co.asoft	phone-core-iosarm32	0.0.30		N/A

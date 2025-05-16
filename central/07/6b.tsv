@@ -1029,6 +1029,7 @@ org.apache.fulcrum	fulcrum-parser	2.0.1		50cd16b16d27448bd8c22360d9bb437fb971a91
 org.apache.fulcrum	fulcrum-parser	3.0.0		ae0ad39c69eacfb27d72394c03038559b95ef8d7
 org.apache.fulcrum	fulcrum-parser	4.0.0		c80a7cadb561f525b154e1389a96fde2d288e30c
 org.apache.gravitino	gravitino-catalog-model	0.8.0-incubating		04d1ecaa0cdfc58a04734a42148641e6aaaec718
+org.apache.gravitino	gravitino-catalog-model	0.9.0-incubating		1eb13f0182bc89537dd3231a33670bf3d3924121
 org.apache.nemo	nemo-runtime-master	0.1		edb1051adff60ff07ac6c032e19b715b48fef62b
 org.apache.nemo	nemo-runtime-master	0.3		c495d96aeb9625eb9a92b161e9cdc2ae38b88c10
 org.apache.nemo	nemo-runtime-master	0.4		5bda49549fd357fe86e4b9213ed5eebdc64c7006
@@ -1198,7 +1199,9 @@ org.elasticsearch.plugin	x-pack-core	8.17.2		e546730d5a7454d7167c59ad48a844bb55f
 org.elasticsearch.plugin	x-pack-core	8.17.3		ebb6d6e3b1bb3ca571abe04d9e0de2c9be42d6c3
 org.elasticsearch.plugin	x-pack-core	8.17.4		21384870432bee38cbc596f2ad66dde8d1f6f8f5
 org.elasticsearch.plugin	x-pack-core	8.17.5		9ad8e53933bc05e1ad8fd5075c5b53cbcd6bab05
+org.elasticsearch.plugin	x-pack-core	8.17.6		794045106418cb968b5c5b36543ae6526470fae5
 org.elasticsearch.plugin	x-pack-core	8.18.0		3bed5540c9c0696cddf3ee17ac4269a2e4e258f5
+org.elasticsearch.plugin	x-pack-core	8.18.1		1c28d09af55dda1b3792d44442be561f3b4d4376
 org.elasticsearch.plugin	x-pack-core	8.2.0		72109e5320ec0a4525b05e067ed1d9bade5d5ef1
 org.elasticsearch.plugin	x-pack-core	8.2.1		c7d2240f1c700be96680416a655a247b20fd8593
 org.elasticsearch.plugin	x-pack-core	8.2.2		ab9be882bee29ea2b7b4ac8a7ac54b60a81b9106
@@ -1229,6 +1232,7 @@ org.elasticsearch.plugin	x-pack-core	8.9.2		e13a87d208332faca05fc800aa3ec52eb460
 org.elasticsearch.plugin	x-pack-core	9.0.0		e93f6e8c82c12a2931f5c19e8958c117b6f597a9
 org.elasticsearch.plugin	x-pack-core	9.0.0-beta1		457af91062a66a564db56f05edd8fe4b32c38aa3
 org.elasticsearch.plugin	x-pack-core	9.0.0-rc1		7b359fd965aaeba8ce3db45eb0c9d45dd7f65079
+org.elasticsearch.plugin	x-pack-core	9.0.1		992f0d320813bb3b68e4e77c10949bbe4596ede8
 org.entando.entando.bundles.misc	entando-misc-jquery	3.2.0		N/A
 org.entando.entando.bundles.misc	entando-misc-jquery	4.0.0		N/A
 org.entando.entando.bundles.misc	entando-misc-jquery	4.2.0		N/A
@@ -1706,6 +1710,11 @@ org.jetbrains.kotlin	js-plain-objects	2.1.20-RC3	gradle82	abd9a68e90700cff2792d7
 org.jetbrains.kotlin	js-plain-objects	2.1.20-RC3	gradle82-sources	51d6181a6a890d61e1d0102685508d558e8c802f
 org.jetbrains.kotlin	js-plain-objects	2.1.20-RC3	gradle85	abd9a68e90700cff2792d7fe0f5b6a9d8367ae4e
 org.jetbrains.kotlin	js-plain-objects	2.1.20-RC3	gradle85-sources	51d6181a6a890d61e1d0102685508d558e8c802f
+org.jetbrains.kotlin	js-plain-objects	2.1.21		9e3704c629ce9fe520057eb0b976a6bea42e02db
+org.jetbrains.kotlin	js-plain-objects	2.1.21	gradle80	9e3704c629ce9fe520057eb0b976a6bea42e02db
+org.jetbrains.kotlin	js-plain-objects	2.1.21	gradle81	9e3704c629ce9fe520057eb0b976a6bea42e02db
+org.jetbrains.kotlin	js-plain-objects	2.1.21	gradle82	9e3704c629ce9fe520057eb0b976a6bea42e02db
+org.jetbrains.kotlin	js-plain-objects	2.1.21	gradle85	9e3704c629ce9fe520057eb0b976a6bea42e02db
 org.jetbrains.kotlin	js-plain-objects	2.1.21-RC		ac7868c23050026a590c23a3808c070780b7a18e
 org.jetbrains.kotlin	js-plain-objects	2.1.21-RC	gradle80	ac7868c23050026a590c23a3808c070780b7a18e
 org.jetbrains.kotlin	js-plain-objects	2.1.21-RC	gradle80-sources	51d6181a6a890d61e1d0102685508d558e8c802f
@@ -1756,6 +1765,15 @@ org.jetbrains.kotlin	js-plain-objects	2.2.0-Beta2	gradle86	7f875fc522bcb82be6c40
 org.jetbrains.kotlin	js-plain-objects	2.2.0-Beta2	gradle86-sources	51d6181a6a890d61e1d0102685508d558e8c802f
 org.jetbrains.kotlin	js-plain-objects	2.2.0-Beta2	gradle88	7f875fc522bcb82be6c4017d336c516e111039e1
 org.jetbrains.kotlin	js-plain-objects	2.2.0-Beta2	gradle88-sources	51d6181a6a890d61e1d0102685508d558e8c802f
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC		161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle80	161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle81	161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle811	161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle813	161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle82	161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle85	161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle86	161e25312fa1f7e8467da7ca4c393c870d4523a0
+org.jetbrains.kotlin	js-plain-objects	2.2.0-RC	gradle88	161e25312fa1f7e8467da7ca4c393c870d4523a0
 org.kobjects	demo-jvm	0.8.0		a69a06b0bb21e5bfbc56c3d686a2700f9638dad2
 org.objectfabric	objectfabric	0.9		N/A
 org.objectfabric	objectfabric	0.9.1		N/A
@@ -3364,8 +3382,10 @@ org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.1.0		07a112aaf189
 org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.1.1		d469a4666b7c4bc1061a18d01cf4f4edf2cdadd6
 org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.2.0		a40a9c483801d20fe5f45979c4157c673634ff0c
 org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.2.1		e6feabe3bc7bbcb0e64e7c95cf62562a4e2c5e5c
+org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.2.2		495bb5f0bcc5e2cb6300832f60d63e209e6334ad
 org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.3.0		019741f10ee726ba80bf2a3d33da68b5e72a195c
 org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.3.1		a84ec15f294dff58ae6ddd5549b1188e127abf65
+org.smarthomej.addons.bundles	org.smarthomej.binding.telenot	4.3.2		95f089f909c6c4b98131d4d0f2ae1c45de5ffc81
 org.swblocks.decisiontree	DecisionTree	1.0.1		32aaa90f99f7c3f3ea8d7815172cefeeb9ab8204
 org.swblocks.decisiontree	DecisionTree	1.1.0		f2f29d38c162816926ed03a59aad9b87ade42319
 org.teiid	thorntail-ldap	1.0.0		f0a98e145f55d1f321cc66fb9cb86600b2f4edc6
@@ -5025,7 +5045,18 @@ software.amazon.awssdk	config	2.31.30		1638b4ecaeb0a1c50cb5ac66b20afd34342f021e
 software.amazon.awssdk	config	2.31.31		ade66dbd98d14f79774c7d9f4ee6637b3a66dc7f
 software.amazon.awssdk	config	2.31.32		49ddc72c59ddf6b26ded425813a629db72f3634f
 software.amazon.awssdk	config	2.31.33		8c0f319c1f4d90c179058fca15f6babcc6f7ac7a
+software.amazon.awssdk	config	2.31.34		a16e53810b2a79d806a60183a1b5bca8db8cf9e0
+software.amazon.awssdk	config	2.31.35		9a9e358acdba44d1d6ef35a76f0e831263244705
+software.amazon.awssdk	config	2.31.36		9cfac9c1eecd6027e6f54e6437107c1d725809af
+software.amazon.awssdk	config	2.31.37		6da56581874c93aa2e34a0738852cfc211354c19
+software.amazon.awssdk	config	2.31.38		d603d504688134932abf59bf532957b293c22370
+software.amazon.awssdk	config	2.31.39		ae1f7e2f5a66b6a3ad367a2f6ba311a2e0b83d35
 software.amazon.awssdk	config	2.31.4		eccd801dce4a853d02b966b8b415fe4e433cea04
+software.amazon.awssdk	config	2.31.40		2117c8b420b503f3fb0fd19fdcf1a0a6e4ea1663
+software.amazon.awssdk	config	2.31.41		447b62d0155756217d619bb6dd2333a02279598b
+software.amazon.awssdk	config	2.31.42		c738b4e66b39f89c9ea204e11f2cfde816b80050
+software.amazon.awssdk	config	2.31.43		a20e368d837a8e0fcac442a960a51b7d5ba9fbc2
+software.amazon.awssdk	config	2.31.44		95960b241f7ae5ea052f144c5c02fcdd937135aa
 software.amazon.awssdk	config	2.31.5		e4244137765993f3c76bb783693bc3454212f11b
 software.amazon.awssdk	config	2.31.6		ec408c871b82d08aea01027b4e6c9f62f507b21c
 software.amazon.awssdk	config	2.31.7		83ffdcaf00648efd475d3cef56651272dbbf9d8c

@@ -340,6 +340,7 @@ com.google.apis	google-api-services-gkebackup	v1-rev20250205-2.0.0		20ed6c34de7d
 com.google.apis	google-api-services-gkebackup	v1-rev20250226-2.0.0		b1c99da5065e43e3b1c73825860dd425ae5886da
 com.google.apis	google-api-services-gkebackup	v1-rev20250326-2.0.0		0628ae26d8028f45472b73a5481992b141e3b45c
 com.google.apis	google-api-services-gkebackup	v1-rev20250414-2.0.0		9235733f389e5a54e1af76780e0bde218a47a293
+com.google.apis	google-api-services-gkebackup	v1-rev20250507-2.0.0		c7124523d73f55a23ae055c774c9e690a79a9bd8
 com.ibm.websphere.appserver.api	com.ibm.websphere.appserver.api.transaction	1.0		4b718aeab1a4e17b81753e34b328488e8e1d5503
 com.ibm.websphere.appserver.api	com.ibm.websphere.appserver.api.transaction	1.0.1		69c8fdb8a0889b2459f64f210549b411b0c1930a
 com.ibm.websphere.appserver.api	com.ibm.websphere.appserver.api.transaction	1.1.0		652542a4f4b69d74723bf0bd2a05691ee05bf95d
@@ -647,6 +648,9 @@ com.snowplowanalytics	kinesis_2.12	0.11.0-M1		e72d90ff046e5d9e866d782943c669181b
 com.snowplowanalytics	kinesis_2.12	0.11.1-M1		8ff9f7f6aae184523df7b463ee5c558907f3f9b9
 com.snowplowanalytics	kinesis_2.12	0.12.0		333e952f496f6a92338c66bd1e50e86e8c24b970
 com.snowplowanalytics	kinesis_2.12	0.12.0-M1		a0317b40f91d4bb507134ac0267b7380f020157b
+com.snowplowanalytics	kinesis_2.12	0.13.0-M1		e1c7172541fa745cd489d8f2882f1c566e4d4787
+com.snowplowanalytics	kinesis_2.12	0.13.0-M2		99967ef176b641c8f755346c5ef90c9e57b9333f
+com.snowplowanalytics	kinesis_2.12	0.13.0-M3		2fa7b28332a16afdea4352db82e1d0d2df63bc36
 com.snowplowanalytics	kinesis_2.12	0.2.0		40fd7a1b02d2081fe9e74398c834a3083ac05208
 com.snowplowanalytics	kinesis_2.12	0.2.0-M1		eaccfba3e843996d2810ffb14482f826cbbec771
 com.snowplowanalytics	kinesis_2.12	0.2.0-M2		f2b97320a57b4f3722d629a6fc695faf0afaba3a
@@ -1012,6 +1016,7 @@ io.github.robin-code	java-util	0.1.0		60e5e7dd5297fc6e247bd15d29209af7ef4742f1
 io.github.robin-code	java-util	0.1.1		10212b6be392970aa73ac61980346fa03912c9a8
 io.github.robin-code	java-util	0.1.2		4b31959184967be7f47f80b896f86d30ec07eea1
 io.github.scarecrowQoQ	demo	0.0.1-release		N/A
+io.github.the-best-is-best	kfirebase-storage-tvossimulatorarm64	1.1.0	metadata	27416142e5bb90542928f04427c3f058a1488558
 io.github.tim06	vpnvpnstate	1.1.2		N/A
 io.github.tim06	vpnvpnstate	1.1.3		N/A
 io.opentelemetry	opentelemetry-exporters-jaeger	0.2.0		324f7dc8ab00bd442217f4023ed0416f9ce1c6c3
@@ -1269,6 +1274,15 @@ me.ahoo.wow	wow-compensation-core	5.12.1		ff5cdb4d903fb2efe9b2dffe1bbfb46f0d9dfa
 me.ahoo.wow	wow-compensation-core	5.12.2		21587510885b91319c235dc1592fcc5b4f31a71a
 me.ahoo.wow	wow-compensation-core	5.12.3		ba427f9e1f5d2d246a239f5cf07ec0aa9e756d33
 me.ahoo.wow	wow-compensation-core	5.12.5		a73ce1f18f352d5b9adacb3e8e9f461cb28ca042
+me.ahoo.wow	wow-compensation-core	5.12.6		a65422c005b520a16cc2578cbf95709b5c2f1184
+me.ahoo.wow	wow-compensation-core	5.12.8		5f63af40bc285185548a9c93e983cf89ba82fb67
+me.ahoo.wow	wow-compensation-core	5.12.9		daa1e1f49ed675feac50115cd6042b1951273b6d
+me.ahoo.wow	wow-compensation-core	5.13.0		e3dde0a176ff3cbd14e89356b3e2d455fddf3c22
+me.ahoo.wow	wow-compensation-core	5.13.1		d84a4f3ee08a3f9dec2359b04c88f0a87ca3a319
+me.ahoo.wow	wow-compensation-core	5.13.2		6ca09de9a6458794cbe11016f6fb97b6d5dbb67d
+me.ahoo.wow	wow-compensation-core	5.13.3		42e944ba1d242d02dc2375d63c0e5ee989d13ab4
+me.ahoo.wow	wow-compensation-core	5.13.5		2c38a4ec701040a3ac90758f304c23198f2a708c
+me.ahoo.wow	wow-compensation-core	5.13.6		5f08c02223ed700d4beda86b9bee120dce30fcbc
 me.ahoo.wow	wow-compensation-core	5.2.0		5aa89d340ae55261d5d4b92c4199e9d394b721c8
 me.ahoo.wow	wow-compensation-core	5.2.1		d19b7658c65401117659d0d4b1a0a419c2e5ac13
 me.ahoo.wow	wow-compensation-core	5.2.2		e97ae3b8eebcc22b20d37fcf4766cd7661425005
@@ -1426,6 +1440,7 @@ org.creativescala	docs_2.12	0.9.9		3d2220395dd0192e6eccfd2569985a31b578a339
 org.eclipse.ecsp	api-registry	0.0.3		a3e6ef2616061099436f967db91f9960a207fa1b
 org.eclipse.ecsp	api-registry	1.0.0		f1f419a9b372e02e57f914cddece0d4c9af329f6
 org.eclipse.ecsp	api-registry	1.1.0		3fa67646a13180b06094a14acf592713155a8904
+org.eclipse.ecsp	api-registry	1.1.1		9e753bc57af7244e5631c2c45b3d4c993f422b39
 org.eclipse.jkube	jkube-kit-wildfly-jar	1.0.0		1a9be5b40e75e4ee38781014c7e7c147f69cb981
 org.eclipse.jkube	jkube-kit-wildfly-jar	1.0.0-rc-1		6d0f89d75f90fe5a2301ba8146ffa0c301e8bfc6
 org.eclipse.jkube	jkube-kit-wildfly-jar	1.0.1		d1414c38118a41adc55112b41cabf7f84a81068c

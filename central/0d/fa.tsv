@@ -75,6 +75,7 @@ com.github.pjfanning	pekko-http-avro4s_2.13	2.8.0		35406bfd2df78da10a4a86057405b
 com.github.pjfanning	pekko-http-avro4s_2.13	3.0.0		c8ffcf23141491ea8b0bc3fed45986d4423ab287
 com.github.pjfanning	pekko-http-avro4s_2.13	3.0.1		8a9b67db851a04364c2499e4c1da06fc806fb6fb
 com.github.pjfanning	pekko-http-avro4s_2.13	3.1.0		5ec0da554fc3b4ec220c7305dda24a5fb9b509dc
+com.github.pjfanning	pekko-http-avro4s_2.13	3.1.1		4d6c0f24e7bc8d903ad50abe1dfb626f5a4bf3f1
 com.googlecode.gwt-table-to-excel	gwt-table-to-excel	0.0.4		d8019ef4b01d322ca66e41547aaa1d1009f8094b
 com.googlecode.linkedin-j	linkedin-j	1.0.416		N/A
 com.googlecode.metridoc	metridoc-core	0.10		5ccb72aec8290962df91e275724b56269ad15617
@@ -618,6 +619,7 @@ io.github.openfeign	feign-example-wikipedia-with-springboot	13.2.1		5761880463c2
 io.github.openfeign	feign-example-wikipedia-with-springboot	13.3		020d0b2601e14c131bc4d78823e5f5096f234d17
 io.github.openfeign	feign-example-wikipedia-with-springboot	13.4		aba445c0e5ef80b3ccf7d8946777a4aa22dfb6c0
 io.github.openfeign	feign-example-wikipedia-with-springboot	13.5		2f2d8c3b926da62d3ba8c45105abadd26fd8b6c1
+io.github.openfeign	feign-example-wikipedia-with-springboot	13.6		83d94b31bcace393d03c634f2a1f53f820cebfb8
 io.github.pavelannin	monadic-optional-core-wasm-wasi	0.1.0		N/A
 io.github.ztoany.infra.springboot	exception-boot-autoconfigure	0.1.0		b3054b695ee7293c5e4cd2514964642b70a6dee6
 io.github.ztoany.infra.springboot	exception-boot-autoconfigure	0.1.1		d2283d3d9d92375926c9e03aca54769278c87bee
@@ -814,6 +816,20 @@ org.apache.logging.log4j	log4j-jmx-gui	2.9.0		81dadeebc5b7adcbe222e67e528be83791
 org.apache.logging.log4j	log4j-jmx-gui	2.9.1		8011527ba488bd25be6f705f8191df7be2ebfe17
 org.apache.logging.log4j	log4j-jmx-gui	3.0.0-alpha1		82df8b0e16959b125118042a8d0642432bd66721
 org.axsl.org.w3c.dom.smil	smil-boston-dom-java	2000-02-25		48337952ce1f62f60a8560c41f78ffb418ab6dee
+org.bytedeco	sbt-javacv_2.10_0.13	1.10		fb5959e51a86f046488c4f2c0318cec9436928fd
+org.bytedeco	sbt-javacv_2.10_0.13	1.11		692c87676d21f0f043dd19d35d714120c7325041
+org.bytedeco	sbt-javacv_2.10_0.13	1.12		4bbdcd9d6e37ea8245077d08af46e095fdf830f8
+org.bytedeco	sbt-javacv_2.10_0.13	1.13		0e0081eadf2680fe713f951527ce017e3ccf2e8c
+org.bytedeco	sbt-javacv_2.10_0.13	1.14		eda51c6f74cc4745d5016aaaa7dd0b2010f30b6f
+org.bytedeco	sbt-javacv_2.10_0.13	1.15		71f56e71857a49f3ebdcda5008eb5d17f0be31a2
+org.bytedeco	sbt-javacv_2.10_0.13	1.16		0f612137d25acf487d0d975caf8281f0291299fc
+org.bytedeco	sbt-javacv_2.10_0.13	1.17		f56d59e3c5a4a80a156abdd0df794d7023cdc42d
+org.bytedeco	sbt-javacv_2.10_0.13	1.5		2ff74c938bb388d2eb6aadffacaa6f606c0535ab
+org.bytedeco	sbt-javacv_2.10_0.13	1.6		d604e692a3496128d9058cf29008d3e21be00c0a
+org.bytedeco	sbt-javacv_2.10_0.13	1.7		de0552c349334b5182230750676302ae7fce5fca
+org.bytedeco	sbt-javacv_2.10_0.13	1.8		2607b0a9507d7934151fa40824f9a3fe28510b38
+org.bytedeco	sbt-javacv_2.10_0.13	1.9		d23d7ebf3175f40b18afac67d7af5d08a66df9ce
+org.bytedeco	sbt-javacv_2.10_0.13	1.9.1		45128303376e8016804e23d95f5aebaff2a7ae43
 org.codegist	codegist-parent	1.0.0		N/A
 org.codegist	codegist-parent	1.0.1		N/A
 org.codegist	codegist-parent	1.0.2		N/A
@@ -1392,6 +1408,9 @@ tz.co.asoft	captain-router-compose-core-tvossimulatorarm64	3.0.8		N/A
 tz.co.asoft	captain-router-compose-core-tvossimulatorarm64	3.0.8	metadata	34805a2b7e7759f842fb6f3a44a4cadd526e77be
 tz.co.asoft	captain-router-compose-core-tvossimulatorarm64	3.0.9		N/A
 tz.co.asoft	captain-router-compose-core-tvossimulatorarm64	3.0.9	metadata	2e386998c01659b8397412238cc98850b6f8c427
+tz.co.asoft	captain-router-compose-core-tvossimulatorarm64	3.1.1	metadata	2c384ac4a192bef68184db0f1989c49705b2575a
+tz.co.asoft	captain-router-compose-core-tvossimulatorarm64	3.1.11	metadata	fa8d8e3bcf836ef08da845b8a8e0f00b8f46f13a
+tz.co.asoft	captain-router-compose-core-tvossimulatorarm64	3.1.12	metadata	6fde4740bdac4ba08a729dd59bfa87c63be33e54
 uk.co.codera	codera-templating-impl-velocity	0.0.1		870083a6160e2767dc329ae13e8b6a7f71ad3ca4
 xdoclet-plugins	xdoclet-plugin-plugin	1.0		2fc935f4f6ce243e433b5a16faff0a096d153ad0
 xdoclet-plugins	xdoclet-plugin-plugin	1.0-alpha-1		770386dab7dbc5b452ffbc2b23840ade1a28a65a

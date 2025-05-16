@@ -373,6 +373,7 @@ com.google.cloud	spring-cloud-gcp-starter-secretmanager	3.8.6		d26c56f475819d25b
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	3.8.7		5c4b1e0bd66dba3d1c8dd0e9d1167e38827c6328
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	3.8.8		6a80b043cb1647bb515d52493aea5351af1b3c92
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	3.8.9		5bc99f0e8021f750061d25591b0efc6272606806
+com.google.cloud	spring-cloud-gcp-starter-secretmanager	3.9.0		f4e2112cd22ad7bca52a58105083ca53d7d5c846
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.0.0		76e03454384ca97b1f111a94052ff79dc71615aa
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.1.0		718fd2a83b1173c9b2ef12e6475cdf65d8874857
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.1.1		80c31f78803f45c37a3e31552a88817c9a42e2a6
@@ -399,6 +400,7 @@ com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.10.6		46e263e7723bb3f8
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.10.7		fe8cbb285a74c8632a7cd123cb9bb89fc902728d
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.10.8		8574fa9834e33769f20cc61d640ed26e0beda84a
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.10.9		8adeb82d452f57eea9e5367cbb16e36185d4483a
+com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.11.0		806080d05bfc76ff81fa83e1d90b697aded33d6f
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.2.0		7cf383696fd3ae2e767d128e2875da8572387040
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.3.0		4a3c1bb2bd5981b997dfdbd2720c36022ef391dc
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	4.3.1		60eb3ca761aeaee5ec3b0a7c3ca4d743cad27811
@@ -431,6 +433,7 @@ com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.11.0		64938ed57644482c
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.11.1		b1f591b1a5747c3bd2ec02adf6364143aa59cdef
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.11.2		c22617794be54b5f4bec5e4d7c85611111a4863e
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.11.3		2e9506a30070b7f443cb9ab348bbfb9afd3fe925
+com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.12.0		200bcfeff41d6d34ebf2058ce9d441931ea629b0
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.2.0		b736e56e9d4831e06dac077315cc109b3c7e1dc1
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.2.1		ef22654e52860fdead725c02c87684ed40d3c2a7
 com.google.cloud	spring-cloud-gcp-starter-secretmanager	5.3.0		3f1d8b16f9a83da5a63527f03a8a7b7b523b84fa
@@ -1063,10 +1066,17 @@ org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.8.
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.80.0		0f3618d350645298b9cbf82c322b5da4d0896139
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.81.0		230f65bab62bb5d6935eaaa2fe5cc6c05c17393d
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.82.0		7e4aa1ab206f514ceb45accc2101d500c68d7a6d
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.82.1		509ffc1420d9234cd98bc8afb2b3a57a24ae9b31
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.83.0		c9effabf68cda61f813eda91b1d3b6693e05527e
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.83.1		abea3bfb572d5e16a68cf9551d8dfd7155c9655f
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.83.2		40c4130ead5b5bd2addbf1a7935c2c1e49a10857
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.83.3		8de114dbe14c7ce642a31188fcd1170ac7e0ab93
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.84.0		5bcb1e4aaf0887a8c4ba08990ec93c58c14f38fb
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.84.1		80023332ead148d0d8aec0257ef411111e9ae92f
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.85.0		bb581402136338cd1deb62e8d1c58b760958b794
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.85.1		273d7acf2e9b348d96fcc789da0a0e86c933ad99
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.85.2		c9a9db7e33f81648b81a32728bdafeef917d3c53
+org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.85.3		9e0039cd980b8977b53109df6ad42f76c4763858
 org.finos.legend.engine	legend-engine-xt-authentication-implementation-core	4.9.0		31f8ceeda65891d366bd14125b6e4afba090155a
 org.firebirdsql.jdbc	jaybird-native	6.0.0		696ecb5670af6d7862c8e4dd6e2904bb8949772b
 org.firebirdsql.jdbc	jaybird-native	6.0.0-beta-1		4d2b9ff7e002e5db817fa9ca8655ee46474b741b

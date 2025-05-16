@@ -30,6 +30,8 @@ com.atlassian.prosemirror	test-builder-iossimulatorarm64	1.1.4		N/A
 com.atlassian.prosemirror	test-builder-iossimulatorarm64	1.1.4	metadata	ad3af557e1e31930b3b96a4435cc670c17671ae1
 com.atlassian.prosemirror	test-builder-iossimulatorarm64	1.1.5		N/A
 com.atlassian.prosemirror	test-builder-iossimulatorarm64	1.1.5	metadata	003e876e928523b2686e09ad7af572c75257f27a
+com.atlassian.prosemirror	test-builder-iossimulatorarm64	1.1.8	metadata	5e22640ae07a0158e1143bcff3ac733e963cd1bc
+com.atlassian.prosemirror	test-builder-iossimulatorarm64	1.1.9	metadata	6833caf743778957422d2289d514be087913cf49
 com.basistech	pax-exam-test-composite	0.0.1		e62a68e838131a2c0e44ab557f71f7e1247ca2b3
 com.basistech	pax-exam-test-composite	0.0.10		b0a38aaf80ccea58574c3d9c775d4d68a8ba602d
 com.basistech	pax-exam-test-composite	0.0.11		a207e2907a510744da30486f5378de85da154ebe
@@ -449,6 +451,7 @@ com.daml	test-common-carbonv2-tests-scala-1.15_2.13	2.9.0-snapshot.20231127.1242
 com.daml	test-common-carbonv2-tests-scala-1.15_2.13	2.9.0-snapshot.20231128.12429.0.vcd189081		fc2436708ceb14500549a21d4250d35e57520f4a
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.0		959235725ddaa713eff7049b33e824435ff068c9
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.0-1-19acfb2		d18744c76098e32c46f8b47f2f0502e9bf218dcd
+com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.0-1-26737b4		27b55c49be41406e15acdb05ed78053762dd94a5
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.0-1-5a26ba3		a8be1a92c34ca36782c03db7f047b8f0e6bfc6e7
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.0-1-8d943ab		d4dc93801bbaab89436fcfc2fdda6848e4b93826
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.0-1-b0aa866		8428e31a14720f9d921891349a44de65bc7a3056
@@ -575,6 +578,7 @@ com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.31		55a2679a3078c14c5
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.32		77ccf502d46669f9dd3d279eedf39c081077f4fc
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.33		bd137e296623c433deed88b2798c8bde65c518e6
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.34		a28ab8a589f0f25fa2b8c0c7b8ceafe5cac32916
+com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.35		ba9b62dff955a70236a8d61e9607426df39efc04
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.4		ad2e19099a25fb2d5f580ca2b8972006b7a4c306
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.5		9af3e05328189d8cacaeec6ca3c0fefa448f6ddf
 com.disneystreaming.smithy4s	smithy4s-http4s-kernel_3	0.18.6		8ea960802f3fe2bc10df08390f5498dd9ba986b3
@@ -926,6 +930,9 @@ com.regnosys.rosetta.code-generators	csv	11.6.0		c23acd2756845f1e5cefb2898b0de19
 com.regnosys.rosetta.code-generators	csv	11.6.1		b74b4bc8946bcff498dd014382d7427b59583806
 com.regnosys.rosetta.code-generators	csv	11.6.2		dd73af091d65ee3cbe6d0d0b78c261b88ea97bb2
 com.regnosys.rosetta.code-generators	csv	11.60.0		5d67fa7296f5a2290554a8896c3106d62b777bed
+com.regnosys.rosetta.code-generators	csv	11.60.2		557795ac122ec1296d86b20fe3bfbde6fdd66ed7
+com.regnosys.rosetta.code-generators	csv	11.61.1		20056ef5fd346fba4a3d37b38825edc64591ed10
+com.regnosys.rosetta.code-generators	csv	11.61.2		710d3dfd29e14e62113b8afa621bdc07665bc80c
 com.regnosys.rosetta.code-generators	csv	11.7.0		4d1ac5a00e5ec730c4add5268fc3f1e22b4675b3
 com.regnosys.rosetta.code-generators	csv	11.7.1		83f7006d9e73b01028e77ad7564153c95d041ecb
 com.regnosys.rosetta.code-generators	csv	11.7.4		28cc8ade7e99614de828b89e88378f66631c8fbe
@@ -1203,6 +1210,7 @@ io.fabric8	knative-examples	7.0.0		dc39efdf040b05da871f7eb784c70e0776fabc05
 io.fabric8	knative-examples	7.0.1		fa107a16300c31416f0a0bf38c7e193fcdb4d00e
 io.fabric8	knative-examples	7.1.0		1255f91e63e66aa03610bbf3137f5d4fffb9c4ac
 io.fabric8	knative-examples	7.2.0		7fb3eb558a63a0e1c42040a2a46a28e5d873689f
+io.fabric8	knative-examples	7.3.0		79d2a5c52124c7bdb6311cfb2229469d4121aa0f
 io.gitee.jossch	dawn-swagger	3.0.1		7abc9f263bc7067939ca5ce85e8fafd9a3afc4e3
 io.gitee.jossch	dawn-swagger	3.0.2		ec9137ba0111bdb16f3c9e34636c40dfeda40471
 io.github.jdlopez	sqlcrud	1.0		a9f8ed77d73c399de204e37238f761eb9b8a2c30
@@ -1294,6 +1302,7 @@ io.ktor	ktor-client-resources-androidnativex64	3.0.3		236087ee15f55d590c390e85d9
 io.ktor	ktor-client-resources-androidnativex64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-client-resources-androidnativex64	3.1.1		fede44b0f1487dd925915b259a422d3750f6e495
 io.ktor	ktor-client-resources-androidnativex64	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-client-resources-androidnativex64	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.ktor	ktor-serialization-kotlinx-tests-iossimulatorarm64	2.0.0		6a1b704a818895f5a3d7e88a89762ddaa4228916
 io.ktor	ktor-serialization-kotlinx-tests-iossimulatorarm64	2.0.0	metadata	8adbb2032e3d38f74b7287dd191a911171e2f695
 io.ktor	ktor-serialization-kotlinx-tests-iossimulatorarm64	2.0.0-beta-1		0f3e18d62aa5da22e8b78f0bdebae6d6eae51cd2
@@ -2452,6 +2461,8 @@ org.seasar.doma	doma-core	3.4.0		99023286c4d0d53de984fe9d91aae833e0be6366
 org.seasar.doma	doma-core	3.5.0		b341489609db11dc4a4a7d9a279333a9c657a6dd
 org.seasar.doma	doma-core	3.5.1		740d09054549c6b124939c10cced5ed4600ed708
 org.seasar.doma	doma-core	3.6.0		df73251d3d9deefdffb8eea590c041410f798e63
+org.seasar.doma	doma-core	3.7.0		061b1ed4f9760ee3b731390c67f360ea72bf9361
+org.seasar.doma	doma-core	3.8.0		5d656ba8ef03be933116902708f30e981976f197
 org.sisioh	scala-dddbase-lifecycle-repositories-forwarding_sjs0.6_2.11	0.2.12		2cd51df15e8ee81206e4bb18f521d3f9a04a2cac
 org.sisioh	scala-dddbase-lifecycle-repositories-forwarding_sjs0.6_2.11	0.2.9		0c57645d6a00a2c602979be0a95c2691fbbbeaf5
 org.specs2	specs2-junit_2.13.0-RC1	4.5.1		f2ebc5c8318f3b4c5947a01a8bc1fcb977fad3fd

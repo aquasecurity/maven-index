@@ -185,6 +185,7 @@ com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.21.1175		857b99d
 com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.21.1176		a20583f7225dab11bc38039f9f5684934d2ec058
 com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.21.1177		6ea2bb79d219f3f6dd21f2f92203dd04e145cfae
 com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.21.1178		3271f68e23aca2e1ad2b52372a99426608ca873d
+com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.21.1180		38e6d2f86adafabae78cd3c76751487c67d17e16
 com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.3.1050		e321006dbe305472e31099e1388cde7bf72dd7e1
 com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.4.1051		e24675924f73e15ec44976d67ce8ffd9cae51063
 com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	3.4.1052		fe831fd0b4b79571ca6e642ea827301c9d4fba7f
@@ -390,6 +391,11 @@ com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-33-c98221		49c0b0034a99dc479d9
 com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-39-4c3eb7		7ee5580f8a01af1953b15e66fe1c81c32bf61e2f
 com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-41-b39ce4		05799742558781c593c13218f9656fe716a32726
 com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-42-a720c3		2830fbd1f809f695725ecce3795ad644bd5d1779
+com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-51-773072		3f18d2131778949f3950c43dc533d007e92cebef
+com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-56-51ca83		0c44f9091e5dba316309c95901bd8271bb804405
+com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-57-7578c2		a5687a1cf5a3bce6d1d6b50923207ef05f5b5b87
+com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-59-17fa7b		b8000ffb6fa0978d602c1938cf917fa49fed2721
+com.lihaoyi	mill-libs-init-sbt-models_3	0.13.0-M2-74-132761		91b088f02e19df1f40109cf2c5a55dac64f294b5
 com.mi.dev.mint	applovin-adapter	10.3.1_1		N/A
 com.mi.dev.mint	applovin-adapter	10.3.4.1		N/A
 com.mi.dev.mint	applovin-adapter	10.3.4.2		N/A
@@ -1150,6 +1156,7 @@ dev.zio	zio-aws-kms_2.12	7.31.27.1		07f0c1d4bb4b1fdec73688ccd1857431d6899a5b
 dev.zio	zio-aws-kms_2.12	7.31.28.1		168b25a7c7fa021769921bbc5bb1c695d15cdbac
 dev.zio	zio-aws-kms_2.12	7.31.3.1		15a4ac9556b21bb9a0f2ca2232f0a10a4749483b
 dev.zio	zio-aws-kms_2.12	7.31.30.1		b7ffda758b4ee4bc5982e3dba5496d54e9000e5f
+dev.zio	zio-aws-kms_2.12	7.31.30.2		e0c04425e1e708560633c8e55abaa8c1afac8b8a
 dev.zio	zio-aws-kms_2.12	7.31.4.1		2dcc58d5cf04184851f25037c6b85e129c20cd8b
 dev.zio	zio-aws-kms_2.12	7.31.6.1		1e8d0417e4e286c8aaa6dd9f96e98e977c807af5
 dev.zio	zio-aws-kms_2.12	7.31.6.2		d3df51e1ccc9491d733fd7279a143b8a22f7b5e5
@@ -1740,6 +1747,7 @@ io.gitlab.casperix	opengl-core	1.1.0		046bc61dfbc95a390a5f5b8ac41e1069f1b6104f
 io.gitlab.casperix	opengl-core	1.1.1		046bc61dfbc95a390a5f5b8ac41e1069f1b6104f
 io.gitlab.casperix	opengl-core	1.2.1		046bc61dfbc95a390a5f5b8ac41e1069f1b6104f
 io.gitlab.casperix	opengl-core	1.3.0		78f4cfe5a127cc36461cf2e57448f4d9961cdd39
+io.gitlab.casperix	opengl-core	1.3.1		9dfffce0fea7adb39ff529660b56b4e068828999
 io.holixon.avro	avro-registry-adapter-default	0.0.1		05f6b1c7c61bd0ba8b78a892f5ea36d7f72759c3
 io.holixon.avro	avro-registry-adapter-default	0.0.2		7750f93f51a6f0c31511121b745132bad163f305
 io.holixon.avro	avro-registry-adapter-default	0.0.3		f917be35c7793fed1e11e4405d806fb6420fe1b6
@@ -2345,6 +2353,7 @@ org.apereo.cas	cas-server-support-aup-jdbc	7.2.0-RC6		b74d5207f2017b66fbbc60f24c
 org.apereo.cas	cas-server-support-aup-jdbc	7.2.0-RC6	resources	7dc0757ba53e231250cca02028bf805d795baafa
 org.apereo.cas	cas-server-support-aup-jdbc	7.2.1		362e71012e55ad4a6361fdfa7c857244610ecc33
 org.apereo.cas	cas-server-support-aup-jdbc	7.2.1	resources	acbceae8778495aea62673fcc15e70d234af4ce3
+org.apereo.cas	cas-server-support-aup-jdbc	7.2.2		adc566e0449e5cce34f5aa1a8f45612f02be9480
 org.apereo.cas	cas-server-support-aup-jdbc	7.3.0-RC1		c9074cf450caa19b815a34513ec0b8cc4ac60b74
 org.apereo.cas	cas-server-support-aup-jdbc	7.3.0-RC1	resources	2f6b637155fceef82ef33c0a03256efa5ec64d76
 org.apereo.cas	cas-server-support-aup-jdbc	v6.4.0-RC5		ee40e56c10c25edcf6070db780eaa7202460ccb9

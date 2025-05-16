@@ -39,6 +39,7 @@ app.lexilabs.basic	basic-sound-tvossimulatorarm64	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-sound-tvossimulatorarm64	0.2.5-beta01	metadata	5acdb12e41345f0bfb271ad4c6d40d168132515f
 app.lexilabs.basic	basic-sound-tvossimulatorarm64	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-sound-tvossimulatorarm64	0.2.5-beta02	metadata	a0b6808477c75f090392d6571ce175b7836883cd
+app.lexilabs.basic	basic-sound-tvossimulatorarm64	0.2.6-beta01	metadata	97938df41c625a63ccbc96af31723e28761f3753
 cn.fox-tech	fox-edge-server-protocol-snmp	1.0.0		374f260b568bd4f225df5a8bbe2976fc800fbe83
 cn.fox-tech	fox-edge-server-protocol-snmp	1.0.1		46c82412a23553b4baf03a6382e5125b997b0a00
 cn.fox-tech	fox-edge-server-protocol-snmp	1.0.2		4eb367d8926eea7a7bc29074c5615910a26e46a4
@@ -63,6 +64,7 @@ cn.fox-tech	fox-edge-server-protocol-snmp	1.2.1		e5791e0cdf61ebf33b9cdf79c9da91e
 cn.fox-tech	fox-edge-server-protocol-snmp	1.2.3		80ef1c5bfdefd82577b1447526c9dbbb548fcdb4
 cn.javaex	mybatisjj-mysql-for-javaex	2.0.0		e958c88efc2824ee5693e64c95ffe3ae5af9f57f
 cn.javaex	mybatisjj-mysql-for-javaex	3.0.0		348c576120e3ec04f75cf207b6ded6d4eda7d61f
+cn.javaex	mybatisjj-mysql-for-javaex	3.1.3		45e7c37a19b87c2568355fde14cb8364953ff419
 cn.opencodes	alpha-spring-boot-starter	1.0.0		e347ba1e5dc4daf2e1cd5cfb7f35f04407dd76dc
 cn.opencodes	alpha-spring-boot-starter	1.0.1		7133eb87c2d9407527a3086bf6d7790736d95a4e
 cn.opencodes	alpha-spring-boot-starter	1.0.2		2db254a0d94e2299aac2daec73e5e1567b0faa85
@@ -314,6 +316,7 @@ com.vaadin	vaadin-testbench-core	9.3.0		7b47c38b44c3c19bc3d06c7b2d1cd87c127911d6
 com.vaadin	vaadin-testbench-core	9.3.1		6ef992b17120dd72ce020429bab6c3a9c00a93aa
 com.vaadin	vaadin-testbench-core	9.3.10		22320b063fd14d37b2c50baadf39478552c64247
 com.vaadin	vaadin-testbench-core	9.3.11		6e022a2bcfaea663c26517fd118655a3dea3041a
+com.vaadin	vaadin-testbench-core	9.3.12		f06cd452caeae38e0d703116ccabc3b897d62880
 com.vaadin	vaadin-testbench-core	9.3.2		7e3bb18d76311d0b3332847e2c626dc9330b5f85
 com.vaadin	vaadin-testbench-core	9.3.3		3e868d4828d4381eb9cf35a7e5cf28f76e5845b0
 com.vaadin	vaadin-testbench-core	9.3.4		4e165eaa1bf6ffab54036b35d2823cd6461f39bc
@@ -1205,6 +1208,13 @@ org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.4.8-5.17.1		4a2b053
 org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.4.9-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.0-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.1-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.2-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.3-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.4-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.5-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.6-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.7-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	2025.5.8-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	5.14.12-pre.639		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
 org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	5.14.12-pre.640		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
 org.jetbrains.kotlin-wrappers	kotlin-mui-icons-material	5.14.12-pre.641		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
@@ -1444,6 +1454,7 @@ org.jodconverter	jodconverter-core	4.4.5		730edca6ad5ab4e3657e08a5464720ece45412
 org.jodconverter	jodconverter-core	4.4.6		40945165bce2a8aa277ff68da36bbb91811b2f55
 org.jodconverter	jodconverter-core	4.4.7		144b28961b787cbe259c657ebdcd47823ac00870
 org.jodconverter	jodconverter-core	4.4.8		4e4569d518d1c8f903c88f4edf3d1b7b9b6e4108
+org.jodconverter	jodconverter-core	4.4.9		69f39522bb7f824c4c58ec91a374bc1eb91f3a36
 org.jsimpledb	jsimpledb-jsck	3.4.0		a529f187fdb89aae1b207746b9a2d4ca9de5ffd4
 org.jsimpledb	jsimpledb-jsck	3.5.1		49def4feaa3e0ea3783841416fa387828cfff960
 org.jsimpledb	jsimpledb-jsck	3.5.2		4d9bc5dc03462619e697f0b0e9013b082e08218a

@@ -162,7 +162,9 @@ com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.55.0		0103031d4c
 com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.56.0		206a66c2f8852cadc3c069c572620eff67584325
 com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.57.0		a3398f0aefcd011dc4791bbc234656a47b29436a
 com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.58.0		2c87b3a3fe3827473a229c2ed94194908ef9d65a
+com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.59.0		655b2f868c3d4af49c1f38978a2c084491d1700c
 com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.6.0		f7f73516df46711c58543101b2c102180cfcbcd1
+com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.60.0		36f76d01152b49876a2de34a5662e1035932a19f
 com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.7.0		6eadcde6981e3a4585d437b50be3309a7430bd78
 com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.8.0		57e26174ae03409099269a377a044824b1f670d4
 com.google.api.grpc	grpc-google-cloud-distributedcloudedge-v1	0.9.0		204b11f3ec0f9a7a9480af0d103b4a97a3cf8ace
@@ -252,6 +254,8 @@ io.camunda.connector	connector-aws-sagemaker	8.6.10		d45f676dfbd996ade838204e859
 io.camunda.connector	connector-aws-sagemaker	8.6.10	with-dependencies	4ae34e2fb8ea5c4d308c2a6a95b1d00f386c127e
 io.camunda.connector	connector-aws-sagemaker	8.6.11		48fd4cd459d4bdd996d760dbc6be4290df3e615c
 io.camunda.connector	connector-aws-sagemaker	8.6.11	with-dependencies	01a71651d988e4f52a9bc9bcb8ccb2e2ad45ba51
+io.camunda.connector	connector-aws-sagemaker	8.6.12		005eee4efb734c25939ad4d07c9f25c5b98450b9
+io.camunda.connector	connector-aws-sagemaker	8.6.12	with-dependencies	543ad4c33d3b77b5f6ac67e607b87e89d32c45cb
 io.camunda.connector	connector-aws-sagemaker	8.6.2		05127ed3392af39230e08409be39df5090a672e9
 io.camunda.connector	connector-aws-sagemaker	8.6.2	with-dependencies	0417c23022e60660c7d746cd217074c2f016ee53
 io.camunda.connector	connector-aws-sagemaker	8.6.5		a9d804f5b1169512fcfb7b3e8145e569fb7a382f
@@ -274,10 +278,18 @@ io.camunda.connector	connector-aws-sagemaker	8.7.0-alpha3.3		55fe722d5ff34b265b2
 io.camunda.connector	connector-aws-sagemaker	8.7.0-alpha3.3	with-dependencies	b3d3619bf2c1808b92744365ea8e613e5d888f16
 io.camunda.connector	connector-aws-sagemaker	8.7.0-alpha4		d60f5614d1694ab72114f4b1fd9830bdf2a70a97
 io.camunda.connector	connector-aws-sagemaker	8.7.0-alpha4	with-dependencies	12f697f44fe79de6e8e8d56ad258e4da0c7cafa8
+io.camunda.connector	connector-aws-sagemaker	8.7.1		44585ecc9ca8ffa0d61fb1b1ad87b50cc322f828
+io.camunda.connector	connector-aws-sagemaker	8.7.1	with-dependencies	e77584cfd9ea095d07e47b75bf6a1af8cf868a6a
+io.camunda.connector	connector-aws-sagemaker	8.7.2		f2023c8c930ec88274fa486ab07751d1cff4b0ce
+io.camunda.connector	connector-aws-sagemaker	8.7.2	with-dependencies	2913c371382aafd8ede3225616c452792b8fcc79
 io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha3		a7acd820a65b664269751fe64085d8381530b6ee
 io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha3	with-dependencies	28c9462f91590c0b6252cca35daf14111df59be2
 io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha3.1		c0dc7794bd6ed5b10bc3baaac748e0d51b919abf
 io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha3.1	with-dependencies	9ab74970392ad3974e47c3c1996e1bdd98bbe5a5
+io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha4		e19fa4ede6265e3141ada8d6da39025ce20c3713
+io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha4	with-dependencies	f1eeeb9b91da4efa4091398522ebb9586dfe6fee
+io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha4.1		328e2ce2e3bcda099f820f18c142e4c45af25249
+io.camunda.connector	connector-aws-sagemaker	8.8.0-alpha4.1	with-dependencies	c43402207db4ef2645878614ea82fe4c029ddf64
 io.github.irevive	odin-slf4j_2.13	0.12.0-M3		29f28c4cce875be3094b4827a932634d8328a654
 io.github.nafg.css-dsl	bootstrap4_scalajsreact_sjs1_2.13	0.8.0		91fec85d77985d2fda50bbb769715301416b0f77
 io.github.nafg.css-dsl	bootstrap4_scalajsreact_sjs1_2.13	0.9.0		39c0dc505018bd41e269965b22c8f4c7ceee8559
@@ -902,6 +914,7 @@ no.mnemonic.services.common	service-proxy	0.7.0		76939fd1adc1880ef145d9ae3a66e2b
 no.mnemonic.services.common	service-proxy	0.7.3		d8e7ac77d938b40bbc7f28af1659b6b8eacb01a9
 no.mnemonic.services.common	service-proxy	0.8.0		cdfc843be28277468aefbe6e1f35b009395f9fa6
 no.mnemonic.services.common	service-proxy	0.8.1		28f2fd3e9639a7253b40218c400447396fd9fcc0
+no.mnemonic.services.common	service-proxy	0.8.2		1bba1b4f4bb36d3427bc53c4e1b2d654a3a754cd
 no.nav.security	mock-oauth2-server	0.1.22		dbd1849fb809ec76adc34639c881d00cc845ff1c
 no.nav.security	mock-oauth2-server	0.1.28		1059cea2f33da955cc0e704b30fdad25a641c0aa
 no.nav.security	mock-oauth2-server	0.1.29		dd701f4851cf202ceed17cb8b889f1ddc8ca59ed
@@ -948,6 +961,7 @@ no.nav.security	mock-oauth2-server	2.0.1		7126f3e7ee7942e0f79c3fcbbd071357a81a52
 no.nav.security	mock-oauth2-server	2.1.0		663ff9c82e181fac49fc8d586220f968b7bac794
 no.nav.security	mock-oauth2-server	2.1.1		38c420f873379550643d8335bb7daa7147b5237d
 no.nav.security	mock-oauth2-server	2.1.10		97ea978c4a7187f1975a588c12b2ff973f228ef7
+no.nav.security	mock-oauth2-server	2.1.11		c67bd90b6939602493e0cd87155b831374bd30f5
 no.nav.security	mock-oauth2-server	2.1.2		ee67772f2c1b6faaff37d59205b6c97058b87ea4
 no.nav.security	mock-oauth2-server	2.1.3		5cd7358f7ae702438f877419a1aff779c80ec85b
 no.nav.security	mock-oauth2-server	2.1.4		9c6aa3c77c0fa9b31de8eaeded3c4b4cc0eadd99
@@ -1031,6 +1045,7 @@ no.priv.bang.authservice	jacoco-coverage-report	2.1.1		615c16885a1f90489ff80e106
 no.priv.bang.authservice	jacoco-coverage-report	2.2.0		527495406b6d4953788c421d787fe99b8a4d77b4
 no.priv.bang.authservice	jacoco-coverage-report	2.3.0		2a1c2ad65379b0d4288900003c7060a61ac1d8b8
 no.priv.bang.authservice	jacoco-coverage-report	2.3.1		3072234caa92a32f7fbe1007aaf4447a950a28f2
+no.priv.bang.authservice	jacoco-coverage-report	2.3.2		0f097a2f28d699ff595bb920ed788b36807cc37d
 org.andromda.bootstrap.metafacades	andromda-metafacades-uml	3.2		20a35fbc979e348940804ed9cf890d0b6eb06b29
 org.andromda.bootstrap.metafacades	andromda-metafacades-uml	3.3		15f2419e258888f736a9a86674ea3c1de2dc0905
 org.andromda.bootstrap.metafacades	andromda-metafacades-uml	3.4		46bc5a303b20afd1579fbe9e1214c8014b990747
@@ -1379,6 +1394,7 @@ org.anyline	anyline-tencent-cloud	8.7.2-20250312		1a6cca46ef9cf04de7454c3f21c7e7
 org.anyline	anyline-tencent-cloud	8.7.2-20250401		ee638034518a1dc181e503458d49b8b6d7d6d494
 org.anyline	anyline-tencent-cloud	8.7.2-20250404		84b6101011e66f9a5e28ca6178f4f32e52e99294
 org.anyline	anyline-tencent-cloud	8.7.2-20250502		e69cc12f809809b775094322b76bf6095690e16c
+org.anyline	anyline-tencent-cloud	8.7.2-20250509		2e4744ba6c82e2438580e1b4328d32ec7838ea14
 org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20240816		13985cd166b8e2ba3d3bcc6c12f675a2469e3ba4
 org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20240820		f50ae3ede628023f19f3e416dc0c69b8a208d6a2
 org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20240826		a08c9ef4d308dcbaa961fe05e7f161e3b45bc369
@@ -1396,6 +1412,9 @@ org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20250108		8784aed1747f5ed3cce59891
 org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20250212		5cf0beff85f4a1d7d5a522d7f61f373d16833161
 org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20250312		e4d51f38822425fb458bc5fd1c8906e6ea91a88d
 org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20250404		34974a3125978c70b750c68d4b068b31684892cc
+org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20250502		31ada1e62b2e5f14a066db8caae1605d953b4899
+org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20250509		bcb2107a461794e2f4b29885f94f7c4df5b6b044
+org.anyline	anyline-tencent-cloud	8.7.2-jdk11-20250515		0c43158511753ecf2fa4dfef4449420ed3a6c8ee
 org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20240501		97e9d1568d48efe7e633e01254adb99f85dcc64b
 org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20240505		618d24923bac0698f24fc17bfb03b0128fa01040
 org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20240506		fe36629bdb9320ca5cbcd3821d5119d9059698a2
@@ -1466,6 +1485,9 @@ org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20250109		03d39a4e872b1f282685d52c
 org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20250212		4fffc657a5bf0f0334ef06c62806eebaa669f68f
 org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20250312		f8d49871478c828dc32affde7307ceb5d65404fb
 org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20250404		28f8fa136eb4e81e10b59f2ae819e48b21efe3cb
+org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20250502		f3c6cf81dd67e48783783eecefcfa44d59c044ae
+org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20250509		2e3fc462b988e81198a954f9201d673fce86db79
+org.anyline	anyline-tencent-cloud	8.7.2-jdk17-20250515		0ce0d0f1f7e98f0b9e4ff2c70814f79769c22b66
 org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20240501		bd6e23226fa929d3a5f49ceb50eff838c2b85b28
 org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20240505		21c7eb844d58bd1d2657588398197778e8e990d0
 org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20240506		2848030110a936897331d871d45c52d7fd915aca
@@ -1540,6 +1562,9 @@ org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20250212		8fa83459f4a352d07a642824
 org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20250225		a79f96be2c2d62d3c22b7643bbe50246c9bcdf4a
 org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20250312		7e5ccca909dfa9f0573208e89141f5aef41da698
 org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20250404		95d31f751bf4b05ee7819827c90bb3208cb2cb3d
+org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20250502		91f6e04362f74867701b929744bec7a0e3e6dbef
+org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20250509		7a1757fcfea32708bf0944cd32f72a03f48193b1
+org.anyline	anyline-tencent-cloud	8.7.2-jdk21-20250515		edbbe56cfdea8d84f14e47206ca1228f2e663bb2
 org.apache.camel.quarkus	camel-quarkus-integration-test-core-main-caffein-lrucache	1.0.0-M6		19e3f9062388595530519e4578f956dd0841ebc0
 org.apache.camel.quarkus	camel-quarkus-integration-test-core-main-caffein-lrucache	1.0.0-M7		7b66c715d2aea744bd79ade858cc7cbd018dbb6a
 org.apache.nifi	nifi-record-serialization-services-shared	1.23.0		600801f68a0aae3665074456988be4702ac1f727

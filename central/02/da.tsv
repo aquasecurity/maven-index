@@ -645,8 +645,10 @@ io.getstream	stream-video-android-bom	1.4.3		d95da3c3263c5c6515cb48d0c6be003006e
 io.getstream	stream-video-android-bom	1.4.4		1c0ed43c225747b7478e25f0f38bbb2e993eb20b
 io.getstream	stream-video-android-bom	1.4.5		868e70555222b65fbb934e0156b13a7cc237f436
 io.getstream	stream-video-android-bom	1.4.6		46493a9eb4ffc21b8ceb127981b513457e7c8477
+io.getstream	stream-video-android-bom	1.4.7		4bb03603a3ea5e2b8103274c88a554c32a4d9857
 io.getstream	stream-video-android-bom	1.5.0		3e9c06426942b3726624da4f635a31d399e9d3f6
 io.getstream	stream-video-android-bom	1.6.0		9771d6c226fa5708ea227222682652cd631ef3ad
+io.getstream	stream-video-android-bom	1.6.1		fbeed3732dd8c28204dfd00dbc66ca0269b1420d
 io.github.lijiecqu	msg_bus_client_lib	1.0.2		N/A
 io.github.lijiecqu	msg_bus_client_lib	1.0.3		N/A
 io.github.lijiecqu	msg_bus_client_lib	1.0.5		N/A
@@ -789,6 +791,7 @@ io.quarkus	quarkus-keycloak-admin-rest-client	3.15.2		196aa6671df2986fd6cbb1e21a
 io.quarkus	quarkus-keycloak-admin-rest-client	3.15.3		1b953294b8c8f9a43670f14811296ec00266d94e
 io.quarkus	quarkus-keycloak-admin-rest-client	3.15.3.1		bd8e845b20d914944dca26fbc245947d7b39de4b
 io.quarkus	quarkus-keycloak-admin-rest-client	3.15.4		af5323bbf388ccc2d6b9af811d6bb0417500b6e0
+io.quarkus	quarkus-keycloak-admin-rest-client	3.15.5		51df6e8df268e7fe2b9e3681a9fde3a54879dcd9
 io.quarkus	quarkus-keycloak-admin-rest-client	3.16.0		3e7076c5cc0fa8bd29706dc97d08bbe5bf64df71
 io.quarkus	quarkus-keycloak-admin-rest-client	3.16.0.CR1		9f7d14b37d78755a3e7064c3090a8d7d929c5d20
 io.quarkus	quarkus-keycloak-admin-rest-client	3.16.1		f148f8a47d8739ed4850d8512178a8f2f58c324c
@@ -819,6 +822,7 @@ io.quarkus	quarkus-keycloak-admin-rest-client	3.19.3		71da808454b1a765d6c7eebf2e
 io.quarkus	quarkus-keycloak-admin-rest-client	3.19.4		ebaaac925f0a84512fd5e89814a4b677e9faebc4
 io.quarkus	quarkus-keycloak-admin-rest-client	3.20.0		6a008668d5478791e10022b07e466f0fdd09c7c8
 io.quarkus	quarkus-keycloak-admin-rest-client	3.20.0.CR1		714ff324adadb4659f63f1894bf9eae2ec8fce03
+io.quarkus	quarkus-keycloak-admin-rest-client	3.20.1		46ed0c568b4c441fc9392c43983bc6753124f53c
 io.quarkus	quarkus-keycloak-admin-rest-client	3.21.0		fe828dff98e70110b8f6d58906c08180fd006445
 io.quarkus	quarkus-keycloak-admin-rest-client	3.21.0.CR1		87ab2b5d3e8b6b2d0f3c82ac0d9c1413029f5cbf
 io.quarkus	quarkus-keycloak-admin-rest-client	3.21.1		2d30fe7beb08a40755ad297d0a376899cdbb0c6b
@@ -828,6 +832,9 @@ io.quarkus	quarkus-keycloak-admin-rest-client	3.21.4		70c71aac0e9269def74ee3c377
 io.quarkus	quarkus-keycloak-admin-rest-client	3.22.0		e8c7253b30cdaaa11ec29666c50bcf385550282b
 io.quarkus	quarkus-keycloak-admin-rest-client	3.22.0.CR1		ab144db0de163c7aeaf5be19ba2491eb898c29bb
 io.quarkus	quarkus-keycloak-admin-rest-client	3.22.1		79d26da87aaff84a081f5fc78792f5abec333f8c
+io.quarkus	quarkus-keycloak-admin-rest-client	3.22.2		f9608740848595f5aad848a4fb4f1238994e9a73
+io.quarkus	quarkus-keycloak-admin-rest-client	3.22.3		79f5536f764bd29b97e4fd5921e5813c44f57df0
+io.quarkus	quarkus-keycloak-admin-rest-client	3.23.0.CR1		7ed568d33ea12a43d9318e5f108c046be13fb3f2
 io.quarkus	quarkus-keycloak-admin-rest-client	3.9.0		cc3c96e410f3d6278c6494d27d06a4669e256b6d
 io.quarkus	quarkus-keycloak-admin-rest-client	3.9.0.CR1		8e74374b8feeea81fe502f660edb70fdfd459ea4
 io.quarkus	quarkus-keycloak-admin-rest-client	3.9.0.CR2		4c053e7e74e31206b7650dd2caba18764e5b82a3
@@ -1112,6 +1119,7 @@ org.comixedproject	comixed-model	2.2.4-1		bce099feb56d3a410c6f28348950c7f6954442
 org.comixedproject	comixed-model	2.2.5-1		f54d6e1b2f5f42038cfed8e5b049427a9f457401
 org.comixedproject	comixed-model	2.3.0		d5852078202e3fb736e4a91d65c529c0627d5863
 org.comixedproject	comixed-model	2.3.1		2f530f1c5c29c76ef5c744cb0cc6b575398fa340
+org.comixedproject	comixed-model	2.3.10		7738bc71395ca4f98bd62ef23c63d3b27ebd26d8
 org.comixedproject	comixed-model	2.3.2		c746cd02cc66128aeaa4dc44b3c4dd8e2235a2be
 org.comixedproject	comixed-model	2.3.3		469410b3721978040fbf83b292c8dac6dd4129a6
 org.comixedproject	comixed-model	2.3.6		e43be33a8899135a4e88d5f7a46cca245341cb6d
@@ -1309,6 +1317,7 @@ org.jetbrains.androidx.navigation	navigation-common-iosx64	2.9.0-alpha16		N/A
 org.jetbrains.androidx.navigation	navigation-common-iosx64	2.9.0-alpha16	metadata	1fd92ecf4295f57ea1735a43d9c945ed20409cc6
 org.jetbrains.androidx.navigation	navigation-common-iosx64	2.9.0-alpha17		N/A
 org.jetbrains.androidx.navigation	navigation-common-iosx64	2.9.0-alpha17	metadata	c7945858f8162b0d3de5f36b90a962464f79b040
+org.jetbrains.androidx.navigation	navigation-common-iosx64	2.9.0-beta01	metadata	c7945858f8162b0d3de5f36b90a962464f79b040
 org.jetbrains.kotlinx	kotlinx-datetime-wasm-js	0.5.0		N/A
 org.jetbrains.kotlinx	kotlinx-datetime-wasm-js	0.6.0		N/A
 org.jetbrains.kotlinx	kotlinx-datetime-wasm-js	0.6.0-RC		N/A
@@ -1696,7 +1705,9 @@ org.wildfly.core	wildfly-domain-http-interface	28.0.0.Beta4		1290f68e0145bbf28f6
 org.wildfly.core	wildfly-domain-http-interface	28.0.0.Beta5		cb2a43624d9ca6365511d21f57223898cbf1d9fa
 org.wildfly.core	wildfly-domain-http-interface	28.0.0.Beta6		5a9f37b5264234e1f25dfe1978ac8d83bef4544c
 org.wildfly.core	wildfly-domain-http-interface	28.0.0.Final		11cf15d8bb51972311a649d0e3af0c85c2824b93
+org.wildfly.core	wildfly-domain-http-interface	28.0.1.Final		4186e20e0987ccd99b73d29a2a635243fc8ff6a3
 org.wildfly.core	wildfly-domain-http-interface	29.0.0.Beta1		01677a50d39110120b49786e3a90f4292ede68a2
+org.wildfly.core	wildfly-domain-http-interface	29.0.0.Beta2		0b176e2fccd450ae13bc0b9de0108d1129c3bdd0
 org.wildfly.core	wildfly-domain-http-interface	3.0.0.Alpha1		c694a8b801c19c31905758d8cb3718c0e4ae2a68
 org.wildfly.core	wildfly-domain-http-interface	3.0.0.Alpha10		7aa9df2b5f52bc61cd416b8c77afccfdacdf4d74
 org.wildfly.core	wildfly-domain-http-interface	3.0.0.Alpha11		d5cab814ab0c5c62d687cc9cd6ac105ed557d943
@@ -2052,6 +2063,7 @@ systems.manifold	manifold-highjump	2025.1.10		9d98cd3de6f53297d517576c1eea02c1cb
 systems.manifold	manifold-highjump	2025.1.11		d4d0d49380355c382e18657b28a84082dfbbaf74
 systems.manifold	manifold-highjump	2025.1.12		ffab2921d675c07980c25353eb4cbd32f91780a5
 systems.manifold	manifold-highjump	2025.1.13		0cbfd4b067a46ae7233e7db1eb937ebe343ac0a1
+systems.manifold	manifold-highjump	2025.1.14		eb91143953894d69c8a3bf659b18307430856f64
 systems.manifold	manifold-highjump	2025.1.2		a732d376bb7aed0c0d909b832d89ee557764137f
 systems.manifold	manifold-highjump	2025.1.3		31202029185e1b89e57cfe1209bc07519fdb2b31
 systems.manifold	manifold-highjump	2025.1.4		c22e0d516307d12388d46a4aff5a3d08e4172997
@@ -2066,3 +2078,4 @@ xyz.jpenilla	gremlin-runtime	0.0.4		257269d29259bb5e4782360a0a52a1d9bb065a2e
 xyz.jpenilla	gremlin-runtime	0.0.5		257269d29259bb5e4782360a0a52a1d9bb065a2e
 xyz.jpenilla	gremlin-runtime	0.0.6		257269d29259bb5e4782360a0a52a1d9bb065a2e
 xyz.jpenilla	gremlin-runtime	0.0.7		30d694a4dc0832130dc30d10a79b7e6849d2542b
+xyz.jpenilla	gremlin-runtime	0.0.8		140f3cb44b850940e00018899b60367259758fce

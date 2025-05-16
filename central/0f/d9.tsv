@@ -16,6 +16,7 @@ cloud.piranha.spring	piranha-embedded-spring-boot-starter	25.1.0		dabc5e7744f90e
 cloud.piranha.spring	piranha-embedded-spring-boot-starter	25.2.0		11a290e518e2839dc2ca6d945e10935763ca63fa
 cloud.piranha.spring	piranha-embedded-spring-boot-starter	25.3.0		91bf6ced4435f4bd9dca5b806d3126752e4087a6
 cloud.piranha.spring	piranha-embedded-spring-boot-starter	25.4.0		963e02abb64f92bf38a471e4d8259f87667bc0b4
+cloud.piranha.spring	piranha-embedded-spring-boot-starter	25.5.0		4e579af6beac4f415275d119684e6c4a999f2e42
 com.abasecode.opencode	abasecode-base-safe	1.0.0		48514c0eb09f41420c4c44659c2f07027492ced0
 com.abasecode.opencode	abasecode-base-safe	1.0.1		6e25be50c54171fe7fb6e4285830af66f14c733d
 com.abasecode.opencode	abasecode-base-safe	1.0.2		4627789527006f2d3f7b7b10d4f65bee831d629c
@@ -458,6 +459,7 @@ com.symphony.platformsolutions	symphony-bdk-core-invoker-api	1.2.1.BETA		27f752f
 com.twitter.common.zookeeper	singleton-service	0.0.121		1a731c91afd240ef18b5657855c2f74380320904
 com.vaadin	vaadin-core-components	24.6.0		e3099935b0cfee503407cd5494b2b2b62c8f7221
 com.vaadin	vaadin-core-components	24.6.1		fe5cc66a96d3ec4de783e722e3bec6e2b9c8fa61
+com.vaadin	vaadin-core-components	24.6.10		e7458ef6798cf2c841ca4ad6dc6418a29121e791
 com.vaadin	vaadin-core-components	24.6.2		8ba2264fa82984a48e67af098fed6b91cbef7cc4
 com.vaadin	vaadin-core-components	24.6.3		e78635abce3462f7ff1075fc98b9fd174dc29c97
 com.vaadin	vaadin-core-components	24.6.4		47cc5b4133a6704b0a075fa21c0128d86d987ef3
@@ -470,6 +472,7 @@ com.vaadin	vaadin-core-components	24.7.0		e1d5ba63cc40d13defc9e6e39d10fcc9af1f8f
 com.vaadin	vaadin-core-components	24.7.1		02738dc9a8a63d2e715b9159f56eb0277126f2d7
 com.vaadin	vaadin-core-components	24.7.2		2fe34e1de31e94ca772355c2fbc98a13d7843baf
 com.vaadin	vaadin-core-components	24.7.3		13d732bda597c1ce919a6e837b1e7e5a75640d98
+com.vaadin	vaadin-core-components	24.7.4		aa1f0ce554aee09a47fd46d7d85b3b71b9157138
 com.velocidi	apso-time_2.13	0.15.0		71054e33f3c2353057a3ebe276d9d1114bea1102
 com.velocidi	apso-time_2.13	0.15.1		b80f7947da0bed296b19daf86a8f97510da2bed8
 com.velocidi	apso-time_2.13	0.15.2		5fe8eb44d4aa49fd3af9753059fe53b65c2578f5
@@ -568,6 +571,7 @@ io.github.jcohy	jcohy-asciidoctor	3.2.2.1		610c6f800d5ab2064eac39bcdbadaffe36e76
 io.github.jcohy	jcohy-asciidoctor	3.2.2.2		e441030787f8f8a913c4dda7ef1f96f0f1095d14
 io.github.juliarn	npc-lib-bukkit	3.0.0-beta10		068405782453d58a0cbf6b6884814302b550e8cb
 io.github.juliarn	npc-lib-bukkit	3.0.0-beta11		83032d514795eecbe87fd4f0631cc95d28a055da
+io.github.juliarn	npc-lib-bukkit	3.0.0-beta12		0230074d2343b52542b7b09a58e3dc5635392324
 io.github.juliarn	npc-lib-bukkit	3.0.0-beta6		d24528f6dea89ffcbbfa1a2ee893c46d32b25532
 io.github.juliarn	npc-lib-bukkit	3.0.0-beta7		3b7ca1c7ef0947b9d354a8a6794ce827bd1f74b3
 io.github.juliarn	npc-lib-bukkit	3.0.0-beta8		c461fcab7a4458622d69042c331f7140ad7f5c99
@@ -577,6 +581,7 @@ io.github.kevincianfarini.monarch	compose-jvm	0.2.0		98e22fa62bc4e3c7d5690ad7655
 io.github.kevincianfarini.monarch	compose-jvm	0.2.1		98e22fa62bc4e3c7d5690ad7655b5fe69062415a
 io.github.kevincianfarini.monarch	compose-jvm	0.2.2		a682d26a7e025c215c6b13063264592c0ecae2b8
 io.github.kevincianfarini.monarch	compose-jvm	0.2.3		136dca7b4d1dfa92c0be6f43fe79ae9d50c6f7ca
+io.github.kevincianfarini.monarch	compose-jvm	0.2.4		136dca7b4d1dfa92c0be6f43fe79ae9d50c6f7ca
 io.github.luo-zhan	transformer	2.0.0-RELEASE		N/A
 io.github.luo-zhan	transformer	2.1.0-RELEASE		N/A
 io.github.luo-zhan	transformer	2.1.1-RELEASE		N/A
@@ -607,7 +612,16 @@ io.github.penghaojie	btools	1.2.4		2f7f2930c649648c18f77d4b8cecc95c6cef4eca
 io.github.penghaojie	btools	1.2.5		e658549d3192305572830fabb1838b143b3137e0
 io.github.saigu	LogLevelSwitch	1.0.0-ALPHA		N/A
 io.github.saigu	LogLevelSwitch	1.0.0-beta		N/A
+io.indigoengine	sbt-indigo_2.12_1.0	0.0.1		6c798f7f9b40c560860610af5a744a4960bc374e
+io.indigoengine	sbt-indigo_2.12_1.0	0.1.0		b6da8da78d1c593cac33fec8088f2a85915eef29
+io.indigoengine	sbt-indigo_2.12_1.0	0.10.0		8620d1d9dc523f906e2a54d916204ec8d1de4687
+io.indigoengine	sbt-indigo_2.12_1.0	0.11.0		4427af6a6a08fd72c847169c5378683f4ff0079e
+io.indigoengine	sbt-indigo_2.12_1.0	0.12.0		36c8c4de67c7d69c4594e71de973c9ae8dca076b
+io.indigoengine	sbt-indigo_2.12_1.0	0.12.1		790a394c5e3231f9e23dd13a8188bd91d95bc756
+io.indigoengine	sbt-indigo_2.12_1.0	0.13.0		658024b630849b1930dbeb061cf3d749fc4ad928
+io.indigoengine	sbt-indigo_2.12_1.0	0.14.0		e38e5425c3058144c11b8eb5388ade665862d178
 io.indigoengine	sbt-indigo_2.12_1.0	0.15.0		048244a65f8becf27a6a241db40025facbbca6b7
+io.indigoengine	sbt-indigo_2.12_1.0	0.15.0-RC1		ff8a0dbf8bc2a8c3b9fa4356cc3798b1582c9247
 io.indigoengine	sbt-indigo_2.12_1.0	0.15.0-RC2		10883684a03c8154eb25a5fffb87cfa53dfb62f9
 io.indigoengine	sbt-indigo_2.12_1.0	0.15.0-RC3		a02f1fb0a25b57fd66c23e49be3d490cb7d1f1d6
 io.indigoengine	sbt-indigo_2.12_1.0	0.15.1		fc1fc5a0ca97195da80c6cc8fc82fc5da372e1f0
@@ -616,7 +630,24 @@ io.indigoengine	sbt-indigo_2.12_1.0	0.16.0		376fed19343ecb7dfdcdbbe10e49d1edbcf3
 io.indigoengine	sbt-indigo_2.12_1.0	0.17.0		5a133c52badb23de8e7faa559561eceff0f6aba2
 io.indigoengine	sbt-indigo_2.12_1.0	0.18.0		924974a0286e04945d42b7dc3f2ea6eaf229daed
 io.indigoengine	sbt-indigo_2.12_1.0	0.19.0		66321730853595ca6853d283672dd75fec46768e
+io.indigoengine	sbt-indigo_2.12_1.0	0.2.0		7be7a681b7dae04a8c9571c9824ce7429670510a
 io.indigoengine	sbt-indigo_2.12_1.0	0.20.0		c07f8599cf6c8d5af208f595dfbd595add5a9edb
+io.indigoengine	sbt-indigo_2.12_1.0	0.21.0		e4a411412b257a0cd7b6f168c109ce450792e296
+io.indigoengine	sbt-indigo_2.12_1.0	0.21.0		e4a411412b257a0cd7b6f168c109ce450792e296
+io.indigoengine	sbt-indigo_2.12_1.0	0.21.1		64f398c5745f4f5c26d0d2ea3455059ac08e9c20
+io.indigoengine	sbt-indigo_2.12_1.0	0.21.1		64f398c5745f4f5c26d0d2ea3455059ac08e9c20
+io.indigoengine	sbt-indigo_2.12_1.0	0.3.0		667c9165bb2874aba0e1bf7f91d57586e3421384
+io.indigoengine	sbt-indigo_2.12_1.0	0.4.0		9f726d9c5c88c467c1bfc6e15e8e7173b51e2f1c
+io.indigoengine	sbt-indigo_2.12_1.0	0.5.0		3644c5f7f3549d1de0e4dd036cd30a1d50dcd2f7
+io.indigoengine	sbt-indigo_2.12_1.0	0.6.0		e3bed417981447225aafb1cb1e1d176578515797
+io.indigoengine	sbt-indigo_2.12_1.0	0.7.0		e5320fbb9d708e6ac4563a8c764dd78acaf3f766
+io.indigoengine	sbt-indigo_2.12_1.0	0.7.1		3fa2cdff1d77d9b2a6124b8edf1f65031bf9616f
+io.indigoengine	sbt-indigo_2.12_1.0	0.8.0		11af276f1bc30b96b859abe134d27ec565e53c76
+io.indigoengine	sbt-indigo_2.12_1.0	0.8.1		30b5ccb0a0ed7fe361eb38cdef9e0125d2761d66
+io.indigoengine	sbt-indigo_2.12_1.0	0.8.2		4e3ed4757f83312a799073f11643e0a514e22c1c
+io.indigoengine	sbt-indigo_2.12_1.0	0.9.0		afd6b19318c7901950e5e11f117d4076baab09c0
+io.indigoengine	sbt-indigo_2.12_1.0	0.9.1		277f3ee7c05216fbd1194c8c4ce41c52467830ec
+io.indigoengine	sbt-indigo_2.12_1.0	0.9.2		462df61a2c7d602081ec0cc1553d464de4e5372d
 io.klogging	slf4j-klogging-jvm	0.4.18		1d2585cbe468cf432dc80ff1366927d0d473194b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-runtime-metrics	0.17.0-alpha		c3df88c9595c37dbe7e4b113252cfe4d174df907
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-runtime-metrics	0.17.0-alpha	all	54245b2875aaf76be5c262faf46a752583ffc0ee
@@ -949,6 +980,7 @@ org.bardframework.crud	crud-querydsl-sql	3.7.2		a868d283bbb3212c9657049e1d68dd39
 org.bardframework.crud	crud-querydsl-sql	3.8.2		a08169ab8e4e07560f7c738a107352db73a2590d
 org.bardframework.crud	crud-querydsl-sql	3.9.12		57fe47c63a9e3d360d81f2a987fcf362d2d8f65f
 org.bardframework.crud	crud-querydsl-sql	3.9.2		1d0772112c452034fd6139c487d76ec913822ef8
+org.bardframework.crud	crud-querydsl-sql	4.1.12		8d9b1e3fb712d99d6594accfe7275e03ea404dcf
 org.bluestemsoftware.specification.eoa	specification-eoa-api	0.8.1.1		4fdb6f0c0d073690522ab12539f227d52ac25316
 org.bluestemsoftware.specification.eoa	specification-eoa-api	0.8.2.0		4b8615fa1458f9ecc06814ef3f21b7fcd9487cef
 org.bluestemsoftware.specification.eoa	specification-eoa-api	0.8.2.1		509ae8b961b82dec470dfdf2e7dfbdbde7395319
@@ -2051,6 +2083,7 @@ org.scala-lang	scala3-sbt-bridge	3.3.5-RC1-bin-20241204-5f2d7ef-NIGHTLY		cda3ff3
 org.scala-lang	scala3-sbt-bridge	3.3.5-RC1-bin-20241209-fa617ff-NIGHTLY		5679fd0e8dd93c4f11594ece4cff8f425f559908
 org.scala-lang	scala3-sbt-bridge	3.3.5-RC2		647e47ca8d352a0ebde9a9bb084eace2f911c795
 org.scala-lang	scala3-sbt-bridge	3.3.5-RC3		2d1fb0c08b94fad401b9f97e9959ecd1ca2b43ce
+org.scala-lang	scala3-sbt-bridge	3.3.6		f8be175ad544ae1785e99e4a8f0be108468ad3c5
 org.scala-lang	scala3-sbt-bridge	3.3.6-RC1		a4c35e33abf0a5f5ac8355418a2222b910ab18c2
 org.scala-lang	scala3-sbt-bridge	3.3.6-RC1-bin-20250128-c189755-NIGHTLY		887d460639a54ca7bfe0fe0406b02f31dbfb53b5
 org.scala-lang	scala3-sbt-bridge	3.3.6-RC1-bin-20250219-7fb2a9d-NIGHTLY		6b8a2ce84beb77116d25eca8f76815340422f2ed
@@ -2062,6 +2095,7 @@ org.scala-lang	scala3-sbt-bridge	3.3.6-RC1-bin-20250318-daca114-NIGHTLY		9ac18d5
 org.scala-lang	scala3-sbt-bridge	3.3.6-RC1-bin-20250319-2b41273-NIGHTLY		bcf86931e8f5c8e8d22605396c3724a22be346d5
 org.scala-lang	scala3-sbt-bridge	3.3.6-RC1-bin-20250326-98b374a-NIGHTLY		9e5969daf82561720667105e5393be158bf029a5
 org.scala-lang	scala3-sbt-bridge	3.3.6-RC2		0c420cf5982af400834b481a7f9e2c82fc4d495a
+org.scala-lang	scala3-sbt-bridge	3.3.6-RC3		5e2239462178a7233d10b9ca1043e4a6c973b705
 org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250402-71aca20-NIGHTLY		35a8a9aca6487a5980178d98a7df24fcc655606f
 org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250403-3c1ff9a-NIGHTLY		1dd42f88ae9d25d2f8f0eba6162324f26ee567f9
 org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250408-f8a1729-NIGHTLY		1a3c6f138d821187651eafa86855a04b6724d18e
@@ -2074,6 +2108,11 @@ org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250427-e3c4028-NIGHTLY		ad4fdd0
 org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250428-84ea7eb-NIGHTLY		6c87483409d42ad756b65dcd9083021f0d0a1dcd
 org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250429-5df2a92-NIGHTLY		9e96ecec52b0da854e2b7aa68d2ffe5a45c20f4e
 org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250430-bb278ed-NIGHTLY		0b50f9cf558406b78a7dc158550d06fa7545d564
+org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250502-0c7c85c-NIGHTLY		30bd095f4837e6effe70340d3231f74ce36a7f0f
+org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250506-875ba1d-NIGHTLY		b7200e048d71ac712ccf220e68149d4490586cea
+org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250508-d735cf4-NIGHTLY		10290a9a10db8c5996c14432d3bb5cfd49ad96d0
+org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250509-ba7071d-NIGHTLY		f1174c5b7ffad930bd04123a1bab705df84623c5
+org.scala-lang	scala3-sbt-bridge	3.3.7-RC1-bin-20250513-a72362d-NIGHTLY		46c007ebf6bc52af56c68f9e3797b1762864bc47
 org.scala-lang	scala3-sbt-bridge	3.4.0		98097797822357dc0e1a585c0e9875037b7684ed
 org.scala-lang	scala3-sbt-bridge	3.4.0-RC1		ba813bb193873f9d771654ddac8f3e7ad67bf987
 org.scala-lang	scala3-sbt-bridge	3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY		5a79d28005b5b2736928e3b28736a4ce9201dbcb
@@ -2459,6 +2498,7 @@ org.scala-lang	scala3-sbt-bridge	3.6.4-RC1-bin-20250112-ae980a7-NIGHTLY		374be3e
 org.scala-lang	scala3-sbt-bridge	3.6.4-RC1-bin-20250113-c10def4-NIGHTLY		fbbc7bebd13faf77a7772a7e37880c4b0673338c
 org.scala-lang	scala3-sbt-bridge	3.6.4-RC1-bin-20250114-312c89a-NIGHTLY		6e1bba34b4a1cc93b7580f09e4dd46530376c065
 org.scala-lang	scala3-sbt-bridge	3.6.4-RC2		fe9936888abef5cdd180e7bc24d41bd46e12a576
+org.scala-lang	scala3-sbt-bridge	3.7.0		ce263d502a335ca93abd18558db0233411ee6b63
 org.scala-lang	scala3-sbt-bridge	3.7.0-RC1		158de6e2c92db336bdc65822bd56c199befaa044
 org.scala-lang	scala3-sbt-bridge	3.7.0-RC1-bin-20250116-0f9e502-NIGHTLY		a642bd6ff1c8c2d8efd46258661de3fd515c1b02
 org.scala-lang	scala3-sbt-bridge	3.7.0-RC1-bin-20250116-8b27ecb-NIGHTLY		982013dadf61b3ac35bf08b09508b3fee1830f28
@@ -2501,6 +2541,7 @@ org.scala-lang	scala3-sbt-bridge	3.7.0-RC1-bin-20250312-3fe9304-NIGHTLY		4d42783
 org.scala-lang	scala3-sbt-bridge	3.7.0-RC2		f0c438023c7637f4df63f999e7b9ef47aa039ed1
 org.scala-lang	scala3-sbt-bridge	3.7.0-RC3		d740e69e6914fb11dfe36eae205eb730b68318b8
 org.scala-lang	scala3-sbt-bridge	3.7.0-RC4		e8e912888b72353bcb4e275c94585ff10adeed4a
+org.scala-lang	scala3-sbt-bridge	3.7.1-RC1		32d2dac3b2cd63fa90a9898afe3502210f105e34
 org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250313-596538b-NIGHTLY		b510edfbf2a700700b9a52492bd917ddd81732c2
 org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250315-8734fbd-NIGHTLY		70db17d3d2f1ffd1df72a7f3c0e6d4f494336bc8
 org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250316-28072c5-NIGHTLY		d2c98b240211c7cca1a6d0711f5fb3eb16197f4d
@@ -2530,6 +2571,17 @@ org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250425-fb6cc9b-NIGHTLY		128d14b
 org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250428-08f2e4a-NIGHTLY		9005f4b8688f2d0f3c5c8dd2a1001bc45c52a15b
 org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250429-57807c6-NIGHTLY		ddfc81ac43c3612d6dacf78109292eeb0f0148f4
 org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250430-c4531d4-NIGHTLY		befa07a57ce26bbc3bd22242dadb8b9293796cfd
+org.scala-lang	scala3-sbt-bridge	3.7.1-RC1-bin-20250501-83ffe00-NIGHTLY		5bd52908be40533ded14dfcdbb944de49ebca25b
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250503-453f94d-NIGHTLY		edb976dd43a9352fc5be8cc79b71be7cc1c3540d
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY		f1fb925cfc4113c8d3e1c4f5e52d39b7723975c8
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250507-c49ff71-NIGHTLY		8c4151192fae58a30981b12178d49df845535763
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250507-c85982c-NIGHTLY		7fc820a9bd5f598b56b49fbefdab92ce5590f761
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250509-c3642c0-NIGHTLY		7e87cbe377eeed4cb7aa5285105a8238826d6b7a
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250510-f784625-NIGHTLY		733872fb35fcf31ee27e3411f9324c8256f2b35f
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250512-e52986c-NIGHTLY		6a48c8c6630fe4476efdc13962a0195cb6110317
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250513-004579e-NIGHTLY		923e1d158f25b6dfd4339f2a35e8927625efec69
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250514-a553986-NIGHTLY		330811f36c9b245590205e4c9902d9a96d7f315c
+org.scala-lang	scala3-sbt-bridge	3.7.2-RC1-bin-20250515-c481e91-NIGHTLY		1d42fcb09cec488a4538cdab0ba97257a3a79bad
 org.seedstack	integrationtest-bom	2.0.0		N/A
 org.seedstack	integrationtest-bom	2.0.0-M2		N/A
 org.seedstack	integrationtest-bom	2.0.0-M3		N/A
@@ -2648,5 +2700,9 @@ tz.co.asoft	koncurrent-utils-watchosx64	3.0.8		N/A
 tz.co.asoft	koncurrent-utils-watchosx64	3.0.8	metadata	097d6cd68451177f7980c29a12572b7ea9717e87
 tz.co.asoft	koncurrent-utils-watchosx64	3.0.9		N/A
 tz.co.asoft	koncurrent-utils-watchosx64	3.0.9	metadata	9797d6a8857746a894a601d8a22c458818bc22fb
+tz.co.asoft	koncurrent-utils-watchosx64	3.1.0	metadata	c06958c8b82aa2a3e7ec9ef3f1c70848f3b810d0
+tz.co.asoft	koncurrent-utils-watchosx64	3.1.1	metadata	5057eb64af3ec0d76759a6fd06c4aaf27c74d237
+tz.co.asoft	koncurrent-utils-watchosx64	3.1.11	metadata	cecd99e79695dd2f5e120f0dad36c03ce7a27a74
+tz.co.asoft	koncurrent-utils-watchosx64	3.1.12	metadata	40f387271092f137af6649135302335b652fc291
 xyz.jetdrone	vertx.js	1.0.0		31f939a88c542dbbd1ff28bed36dc80205420ccc
 xyz.renrcl	abathur_core	0.2		8798c61f8a8c9aba31b2982ca308e18f6ad4b827

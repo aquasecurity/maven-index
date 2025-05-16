@@ -641,6 +641,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-common	2.13.3-alpha		e3f874f08e52f081fd4bb3ef6e0e478553091d01
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-common	2.14.0-alpha		af51c41d6c78b5907d258c896b1fe81d3374c0c5
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-common	2.15.0-alpha		4a4de0d27e5ea7af15cde92fd5f5f4a8188af2b4
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-common	2.16.0-alpha		be57bd62466219ea9e1c7fccbaf49e02040d5ba9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-common	2.2.0-alpha		f0caf55d5e3a11ab2dba3f6b8628553b7b7bfa8f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-common	2.3.0-alpha		668ca76020a5f0afe9dae6b1105c3e366ba4acfc
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-jakarta-common	2.4.0-alpha		251cfd9616a8b86d4b20ec78ae053e747fde4bf8
@@ -707,6 +708,7 @@ me.ahoo.simba	simba-test	2.8.0		64bbaaf26772c46c96c9558ec72729eddd672f4f
 me.ahoo.simba	simba-test	2.8.1		2bfdbb63eeb84f623488e52f1316a91fb476471e
 me.ahoo.simba	simba-test	2.8.5		b0f52053e0094c2a417b3494b15a4dd59877f4b9
 me.ahoo.simba	simba-test	2.8.6		8a211ef2445e3fab1e3e36ecf715304ba55a4b13
+me.ahoo.simba	simba-test	2.8.8		4daad78a9353484f9dab91de806ec0e08b85f925
 me.dm7.android.widget	android.widget	1.0		N/A
 net.avcompris.commons	avc-commons3-api	0.0.1		01214fdeb0ebcfcdaae173510b6319a52e348bb3
 net.avcompris.commons	avc-commons3-api	0.0.5		038bc6df06d85dda256d79343d35079b5290c2c0
@@ -722,6 +724,7 @@ net.hamnaberg.googleapis	googleapis-http4s-firebase_2.12	0.4.5-v1beta1-20240918	
 net.hamnaberg.googleapis	googleapis-http4s-firebase_2.12	0.6.0-v1beta1-20241016		ff68837cdd437cfa0bf0c89bd95e2fbe7d455c27
 net.hamnaberg.googleapis	googleapis-http4s-firebase_2.12	0.6.1-v1beta1-20241120		151f6069856ef2c8bd3c0280f2d11b437ae2a3a5
 net.hamnaberg.googleapis	googleapis-http4s-firebase_2.12	0.6.2-v1beta1-20250212		89bb79db0b62e781ebc4fcbd79ff884c9ec6a3f4
+net.hamnaberg.googleapis	googleapis-http4s-firebase_2.12	0.6.4-v1beta1-20250507		c669186783856c7d8b542ab00af27cbb3d51b5e9
 net.sf.json-lib	json-lib	0.7.1		2da77e748b9ac8eb55d5cdfbbe19694d0c50fd27
 net.sf.json-lib	json-lib	0.8		d221496e1d1f57bb2cc97ed1e176edc72ce214df
 net.sf.json-lib	json-lib	0.9		140f039ffd2b453e746eb3f8b6d7a777f5ca8165
@@ -766,8 +769,14 @@ net.sf.json-lib	json-lib	2.2.2	jdk13-sources	96a4de6a5a8a8a5a4f58e811391e1c130a2
 net.sf.json-lib	json-lib	2.2.2	jdk15	564983fce666c9b3878b90ba753b62a4eca0791c
 net.sf.json-lib	json-lib	2.2.2	jdk15-sources	92feaeab059af1d77570e8696a995b9c6741d740
 net.sf.json-lib	json-lib	2.2.3		N/A
+net.sf.json-lib	json-lib	2.2.3	jdk13	ce2b7413e0165789fb979532563617ab53e4a11c
+net.sf.json-lib	json-lib	2.2.3	jdk15	e9c10548f3d5b260d604818057060cd0ab3b733c
 net.sf.json-lib	json-lib	2.3		N/A
+net.sf.json-lib	json-lib	2.3	jdk13	fda3d33a795ac75ca134654701b6237d45a0bd8c
+net.sf.json-lib	json-lib	2.3	jdk15	f35340c0a0380141f62c72b76c8fb4bfa638d8c1
 net.sf.json-lib	json-lib	2.4		N/A
+net.sf.json-lib	json-lib	2.4	jdk13	807b35e17589adc402843acb733211da42393566
+net.sf.json-lib	json-lib	2.4	jdk15	136743e0d12df4e785e62b48618cee169b2ae546
 org.apache.activemq	artemis-hornetq-protocol	1.0.0		39da6c649572d65cd0898549fbff3006cdf2003e
 org.apache.activemq	artemis-hornetq-protocol	1.1.0		fb9e66d93859c5e0d3399f82e0155e81e12699e2
 org.apache.activemq	artemis-hornetq-protocol	1.2.0		441f4f443b5402d62b973f87a5aeb9e888b7df4b
@@ -957,6 +966,7 @@ org.apache.camel	camel-scheduler	4.8.3		a0b85f16636b2f899bd47d46a3925c903158303f
 org.apache.camel	camel-scheduler	4.8.4		3e22f67c97aaab3326aedda6a72582aa3c5780ac
 org.apache.camel	camel-scheduler	4.8.5		3ba88eb3a2b4355776c56b8082a4e8e3c43360fa
 org.apache.camel	camel-scheduler	4.8.6		87a54f8888a10d85a707bd41d1d8a17ec5e301fd
+org.apache.camel	camel-scheduler	4.8.7		b15e7d7a585e2fe501a28cd0fe76765ae085d43b
 org.apache.camel	camel-scheduler	4.9.0		c561984238e450768ee96a9a38125c21f7a68888
 org.apache.camel.quarkus	camel-quarkus-solr-integration-test	1.1.0		d70922aa5d6d41b329a1267ad044645d8874073d
 org.apache.camel.quarkus	camel-quarkus-solr-integration-test	1.2.0		3279b4881b2c011121a9ac5eef59ee93648b5352

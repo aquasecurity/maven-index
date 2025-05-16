@@ -349,7 +349,16 @@ aws.sdk.kotlin	b2bi-jvm	1.4.73		c7b65d34f1d8ba6c740196c9f36294cf31b8c185
 aws.sdk.kotlin	b2bi-jvm	1.4.74		3db903d78037950fb65a1a0b1f6dddac5c530b4a
 aws.sdk.kotlin	b2bi-jvm	1.4.75		db2b212ae081f18298dac39c4e923fdf10edfd11
 aws.sdk.kotlin	b2bi-jvm	1.4.76		90095256c4069f0ef1461916e8b5ad9373adfcc3
+aws.sdk.kotlin	b2bi-jvm	1.4.77		aadffc7f8a48dd81ba30f6c37be9684b99ea9606
+aws.sdk.kotlin	b2bi-jvm	1.4.78		52d9df7c9bb6088f2545b52582b26ccdd128735f
+aws.sdk.kotlin	b2bi-jvm	1.4.79		6ce02456557f3dac8ef17013feaf8a25eebd4c43
 aws.sdk.kotlin	b2bi-jvm	1.4.8		b3d0b3cd18814d3707397fb094496aaef450b6e7
+aws.sdk.kotlin	b2bi-jvm	1.4.80		5b78a99ee9243fbb8c908bd1ebe826aebe87d42d
+aws.sdk.kotlin	b2bi-jvm	1.4.81		e7d5367ea0ccd26400b405df0affc2b5091365d4
+aws.sdk.kotlin	b2bi-jvm	1.4.82		9b21a1295107f0a086ce071dd9247f5d9c428998
+aws.sdk.kotlin	b2bi-jvm	1.4.83		888e2dc035a9b12a34d8b8ede406670925a924cd
+aws.sdk.kotlin	b2bi-jvm	1.4.84		19b6281a12876ad5eed046d742a2db5782e99d74
+aws.sdk.kotlin	b2bi-jvm	1.4.85		4eb3b8c76b5689681c64ae318b9e105e5c51b6d7
 aws.sdk.kotlin	b2bi-jvm	1.4.9		af03d0b7ec97103d01ccd9fe0e91b3b1ac62fb16
 cn.fxbin.bubble	bubble-fireworks-dependencies	0.0.3-RELEASE		N/A
 cn.fxbin.bubble	bubble-fireworks-dependencies	0.0.4-RELEASE		N/A
@@ -1300,6 +1309,7 @@ org.apache.camel.quarkus	camel-quarkus-core-cloud	3.2.1		be8ab53241a937df3dc2b5b
 org.apache.camel.quarkus	camel-quarkus-core-cloud	3.2.2		942b64b119cc941ba426e4400d6b77ab8fe1be6c
 org.apache.camel.quarkus	camel-quarkus-core-cloud	3.2.3		4652e74c43c4ac84dd88a8ec098891e0eec2f44b
 org.apache.camel.quarkus	camel-quarkus-core-cloud	3.20.0		bdac45b122333d141542a19e9a3b389063e35488
+org.apache.camel.quarkus	camel-quarkus-core-cloud	3.20.1		0ad0b161e0eb837ffe31d2cb8fbbf26588e927ae
 org.apache.camel.quarkus	camel-quarkus-core-cloud	3.22.0		f6b5f8fbf9f0b82c16461ffc7b67c57b22954b7d
 org.apache.camel.quarkus	camel-quarkus-core-cloud	3.4.0		535a076a5c2ec500dc6a88a8ef5efe2fe5474c79
 org.apache.camel.quarkus	camel-quarkus-core-cloud	3.5.0		28134866bfe5b325748c230653ca45c6d1cf4fc1
@@ -1317,6 +1327,7 @@ org.apache.openjpa	openjpa-xmlstore	1.0.2		5e8ae3bddc6069c6ec66971d7d83e74151609
 org.apache.openjpa	openjpa-xmlstore	1.0.3		424e89cc460896247bd1c172418dc7ebf22da842
 org.apache.openjpa	openjpa-xmlstore	1.0.4		5cda4a626b62573a2efa98af6baf2ba25e25973c
 org.apache.openjpa	openjpa-xmlstore	1.1.0		a026bf96b582f5b468320bc7d1d43f9c2de75914
+org.apache.openjpa	openjpa-xmlstore	1.1.0.orig		e2890d4feefeb8f499936bddcb743305eac04a67
 org.apache.openjpa	openjpa-xmlstore	1.2.0		0b3644fc3d85fc282ed832d12f2f937c74debdac
 org.apache.openjpa	openjpa-xmlstore	1.2.1		18e757a6df28798e85ed95a4b1ae1073a59d5c3d
 org.apache.openjpa	openjpa-xmlstore	1.2.2		9db7d45bda779989ccc52fb22b0b2815707431e8
@@ -1380,6 +1391,7 @@ org.bardframework.filestore	file-store-api	3.7.3		889ae2f7618cbd1585f7d6cf5dd29b
 org.bardframework.filestore	file-store-api	3.8.3		a21f62ac661eeb43a5bf156a3e16e0dbee0ff6f6
 org.bardframework.filestore	file-store-api	3.9.13		4d926bf47ab96814351863ecf140f6eafeb07f69
 org.bardframework.filestore	file-store-api	3.9.3		478b6bc823475d0f6e2ba414de81b47bbb129b65
+org.bardframework.filestore	file-store-api	4.1.13		91ff9dec6b53657f2e8477ca063b4f434aa1455f
 org.bitcoin-s	bitcoin-s-core-test_sjs1_2.12	0.6.0		c92e81f27e0981f81a0fe84d5b98ad332f278212
 org.bitcoin-s	bitcoin-s-core-test_sjs1_2.12	1.7.0		6f8ba3d63168218f32dcbd6635561a8633343978
 org.bitcoin-s	bitcoin-s-core-test_sjs1_2.12	1.8.0		b80076c243370a8fc12690015ea87b7ae1af0b0f
@@ -1564,6 +1576,8 @@ org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	55.3.0		9a5d9729ea53e3c93e
 org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	56.0.0		5a01b40a95ff0fd73cf329ae8fe4dc697d1a8cb3
 org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	56.1.0		9e259e1e418679aba1a107a1f23e6fa3da187c0d
 org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	57.0.0		3491ea3b1550deed904ba13fc79906a99708ce31
+org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	58.0.0		ca855ee5febea5618cf125635afa2472de31c2a2
+org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	58.0.1		7ea3ac02083bc6e8bad17a8bef22f16534fef5b4
 org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	6.0.0		983d7d01aaf2f0abd7d5728335841ba9c65ca90b
 org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	6.1.0		035f22092392f51e9d7e711ee439dadfceb9393e
 org.ossreviewtoolkit.plugins.scanners	scanoss-scanner	6.1.1		8145046d231e15efa7f9b150476d6cc324867e1d

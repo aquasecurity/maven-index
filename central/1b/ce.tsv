@@ -81,6 +81,9 @@ ai.platon.pulsar	pulsar-persist	2.2.1		0ee58de69ab13ee998ac600fa6778dd4f5ee844c
 ai.platon.pulsar	pulsar-persist	3.0.0		29c85c7a0b59503c19a7ce3f4668ed60c348b3c8
 ai.platon.pulsar	pulsar-persist	3.0.2		16d2493e55594e7075f28ae79e1bc0fdfdccf519
 ai.platon.pulsar	pulsar-persist	3.0.3		f911c9c2f4d29b0f701d66d5f734acf900e37208
+ai.platon.pulsar	pulsar-persist	3.0.4		e9ce76d6cec02d30c678027090a5ebf8c27e5945
+ai.platon.pulsar	pulsar-persist	3.0.5		e99fc5059304614a7d7f8a9599ab4ae3960f003e
+ai.platon.pulsar	pulsar-persist	3.0.6		a95e4d24c8b18d1ac3851c5db45da257e27d9af5
 cloud.altemista.fwk.webapp.modules	cloud-altemistafwk-webapp-jsf	3.0.0.RELEASE		e4be2b155302f5e2022bfb824ef0977e8c48ab5c
 cloud.altemista.fwk.webapp.modules	cloud-altemistafwk-webapp-jsf	3.0.1.RELEASE		333e168373e246ba7dbb6863cce224b821806513
 cloud.altemista.fwk.webapp.modules	cloud-altemistafwk-webapp-jsf	3.1.0.RELEASE		430507d5d30bd1925e87e68a67adb476644e0edd
@@ -2983,7 +2986,14 @@ com.yahoo.vespa	container-dev	8.511.14		7e7413a828fa2d7d0b4fbd81ceb63e113a3e15e1
 com.yahoo.vespa	container-dev	8.512.63		f2c223465a6863e5f2fb49a23c5a2306b5387e87
 com.yahoo.vespa	container-dev	8.513.17		e43ed8c9224dc1aecf018580157cf9e75e79a33f
 com.yahoo.vespa	container-dev	8.514.24		3cb80c8d0300be6e53812e612c6b031b41cdfe7f
+com.yahoo.vespa	container-dev	8.515.40		961e35986ec6e8ef90d9b8620aa9be3535f2d005
+com.yahoo.vespa	container-dev	8.516.26		f7b35323fd9b00f26dc1ea828d2fb23b26393031
+com.yahoo.vespa	container-dev	8.517.15		16635b7ee501e2178e7ecb07bacadac567ab0d25
+com.yahoo.vespa	container-dev	8.518.4		154721fbd1ffa688afaa14b73047926df5ff79e1
+com.yahoo.vespa	container-dev	8.519.55		6b1e4b4eec4cb8fa08cccef05cfb942ed936afd2
 com.yahoo.vespa	container-dev	8.52.15		80c903fc726cd0dd711ecfbe92759b7d072fa5a2
+com.yahoo.vespa	container-dev	8.520.18		5b61fb3f393d5b8538c9cac7e4d7ecf8cdc63344
+com.yahoo.vespa	container-dev	8.521.17		9d12effb313486ca346a5970a8df5eeb7c9182b3
 com.yahoo.vespa	container-dev	8.53.21		0778da56d3cb2e8c6fbbad3c61f826c02f189793
 com.yahoo.vespa	container-dev	8.54.61		2bea40549f601aee3a7643c1794c74d0027f37d5
 com.yahoo.vespa	container-dev	8.56.20		b43c0e3fef13c4ce54b967e5b066d454a1d156bc
@@ -3521,6 +3531,7 @@ io.quarkus	quarkus-reactive-oracle-client-deployment	3.15.2		912ae367148e5c3801d
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.15.3		e029a577e4ef3c3205f4e92e96f2d8d7cbd27bee
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.15.3.1		adc424ef6403d9b89052b4d8f80b29821289908b
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.15.4		f8828a69c13f3aad9efaa583a671a263e5b69820
+io.quarkus	quarkus-reactive-oracle-client-deployment	3.15.5		9f15204bfc83e857c030a33d533421988d4f9f52
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.16.0		0beb88a74570198b49b731a57427adbe706dee79
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.16.0.CR1		606421e0457fbb4922e7f8946d59a838060622c8
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.16.1		31c2d563ad149ae3f3ca9055cf3e539645136f50
@@ -3565,6 +3576,7 @@ io.quarkus	quarkus-reactive-oracle-client-deployment	3.2.8.Final		dc10473c9ad2eb
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.2.9.Final		e26fcdc7e47a4b86fb0d5bd6a1b23f789b9935d3
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.20.0		c3781c50d354c1fc2c433b167400bc08f16f7d7d
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.20.0.CR1		ea06317751f67d998dbaf676e5e9a5d69835fdb8
+io.quarkus	quarkus-reactive-oracle-client-deployment	3.20.1		b20ab0869c989aef93fdbd3298144cc72378893a
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.21.0		da0953f3c7f018b20dd6d999b455708225548775
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.21.0.CR1		33ec66fee9ae26d4d273317ec7eb0d18e00a6fff
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.21.1		4e7c4b0eb40dd8e3c2aab76a03b92e18a785ab8e
@@ -3574,6 +3586,9 @@ io.quarkus	quarkus-reactive-oracle-client-deployment	3.21.4		8fe503b193c59900198
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.22.0		55bdae23da750bea66a25ae5e0e3eddd216d2c11
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.22.0.CR1		24652891929ca4aa76ebc5e1c5348df26eb8aecd
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.22.1		58ce8634d36ac9d64afcda177550d1e34c4f878f
+io.quarkus	quarkus-reactive-oracle-client-deployment	3.22.2		bb355d172ea7c6aaab6a02e25667f0be62a299a9
+io.quarkus	quarkus-reactive-oracle-client-deployment	3.22.3		bcba191c7abbd063fce9e5453543738226517917
+io.quarkus	quarkus-reactive-oracle-client-deployment	3.23.0.CR1		5157d11983b48f5bbdbfa07bb1c18c529b66333b
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.3.0		432a2587fff9e310557f072e16fa0b2f0a9ddede
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.3.0.CR1		549b5539cc8fcd95d9735f4801df3267417e7b9d
 io.quarkus	quarkus-reactive-oracle-client-deployment	3.3.1		7a69310a98114727458da4da377da889fc25b51b
@@ -3934,6 +3949,7 @@ org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.2.1		1aef5e7b8a600e6d08
 org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.2.2		adfe6291d05904d51b86a6e56c3d174b8fd7e805
 org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.2.3		7eda4d50410b790139874a385c2b7181bb85c0cf
 org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.20.0		76fcb2f374e8ee121f9e1558b262d67273d798e2
+org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.20.1		1e403b343fba417f77de0dfd0ddaf26a56ad8db1
 org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.22.0		bbfefc9fcc62891847420594e4213784108548cc
 org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.4.0		ae5a7aefdebff217a204b64fcfeb9780f58ca6fc
 org.apache.camel.quarkus	camel-quarkus-gson-deployment	3.5.0		c6b388cf9b93e1110a9c544b568506c2d76038bc
@@ -4013,6 +4029,7 @@ org.apache.camel.springboot	camel-dsl-modeline-starter	4.8.3		e73560b4934b30703e
 org.apache.camel.springboot	camel-dsl-modeline-starter	4.8.4		506c88d9c37188c993004ce18e0d8b64368f03da
 org.apache.camel.springboot	camel-dsl-modeline-starter	4.8.5		3bd1437e21dd77725c831391024f4f071b6db2d8
 org.apache.camel.springboot	camel-dsl-modeline-starter	4.8.6		81a2a9699f28eac1bad6085ac88df80c4dab50ad
+org.apache.camel.springboot	camel-dsl-modeline-starter	4.8.7		1ad34a19a074c20695015e8b19f9e32fdce74e05
 org.apache.camel.springboot	camel-dsl-modeline-starter	4.9.0		3463383a7f471e3a1a6ec63a4f5f98ab8ee8543b
 org.apache.geronimo.daytrader	daytrader-jetty	2.1.7		N/A
 org.apache.karaf.management.mbeans	org.apache.karaf.management.mbeans.system	2.2.10		bc623896d0797cd8ec257c55f0224de9afff9c98
@@ -4253,6 +4270,19 @@ org.eclipse.dirigible	dirigible-components-data-store	11.41.1		d6e3c7cc27eba8634
 org.eclipse.dirigible	dirigible-components-data-store	11.42.0		dd4dc2a868a80021a8504e1e1b90602bed84d9aa
 org.eclipse.dirigible	dirigible-components-data-store	11.43.0		21ed7226ee47b386e44bc517212c4e85169a58f1
 org.eclipse.dirigible	dirigible-components-data-store	11.44.0		a1199afe19e40b4b467847fcb76b7d6e7fc44886
+org.eclipse.dirigible	dirigible-components-data-store	11.45.0		9ea6b5644568e56d780cb7d5c1c6d21afbd6dac0
+org.eclipse.dirigible	dirigible-components-data-store	11.45.1		480006cb989b9b2951fdca605b45bf3d6b549e89
+org.eclipse.dirigible	dirigible-components-data-store	11.45.10		c340b47d8a5ae971530272d24bd69459ca1a0852
+org.eclipse.dirigible	dirigible-components-data-store	11.45.11		164ec5a08edcf4159ac877ced3d0866e92e3df31
+org.eclipse.dirigible	dirigible-components-data-store	11.45.12		9e94eead08c99bd9867b030c36e9ab7885eb38f2
+org.eclipse.dirigible	dirigible-components-data-store	11.45.13		caaf775c81c9f394f2617fd4f1ae31f11c95e2f2
+org.eclipse.dirigible	dirigible-components-data-store	11.45.3		ad97e50eb7cdd928b10c3e3b20fb884f91324a06
+org.eclipse.dirigible	dirigible-components-data-store	11.45.4		296b81b95048fc718111d230d95eb39a9c6620e0
+org.eclipse.dirigible	dirigible-components-data-store	11.45.5		a725761e0f7d40433154463eb920ad6987eb457f
+org.eclipse.dirigible	dirigible-components-data-store	11.45.6		f69da96717abda906e4b532fe587180e6bc5f78f
+org.eclipse.dirigible	dirigible-components-data-store	11.45.7		fa0c0d660315c7b6b0d41b430a577d27a771a64a
+org.eclipse.dirigible	dirigible-components-data-store	11.45.8		459b378fdc52080e38d6a19fecada2b31a9f50ff
+org.eclipse.dirigible	dirigible-components-data-store	11.45.9		7f3a2c236ed4f1b2b732c2934635c739b3d0aeed
 org.eclipse.dirigible	dirigible-components-data-store	11.5.0		a6f8e167d889c36af99137968fa27909249b57ff
 org.eclipse.dirigible	dirigible-components-data-store	11.6.0		fa0076fb0c4e6d7dd70fcec6bef2336fc9d27e6c
 org.eclipse.dirigible	dirigible-components-data-store	11.6.1		b5b5df69f0456600b7ab426bbb312b066b5c834d

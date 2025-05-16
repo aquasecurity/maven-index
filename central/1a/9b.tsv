@@ -611,6 +611,7 @@ dev.zio	zio-aws-iotanalytics_3	7.31.27.1		0148dfecda41bb55a4a60e2478bb130ad9cb1c
 dev.zio	zio-aws-iotanalytics_3	7.31.28.1		bea946809fa31097022f9202a80361c996e87cfc
 dev.zio	zio-aws-iotanalytics_3	7.31.3.1		bb615ff2716828297efe2cdfb0a498b879072fa4
 dev.zio	zio-aws-iotanalytics_3	7.31.30.1		b14a16bc2e5690e4b7081b8a56789d02418da0ad
+dev.zio	zio-aws-iotanalytics_3	7.31.30.2		49e0b474459839efaab67b59122b7fa87a138420
 dev.zio	zio-aws-iotanalytics_3	7.31.4.1		8f619a33d2644ea894a7da21b8b8774a11e3d5f0
 dev.zio	zio-aws-iotanalytics_3	7.31.6.1		f387b18f96c44562539035548a4202631e5d5709
 dev.zio	zio-aws-iotanalytics_3	7.31.6.2		fe80e8048572c3b65a2dbededaeac54b400cac75
@@ -936,6 +937,7 @@ dev.zio	zio-aws-pinpoint_2.13	7.31.27.1		c2062e1cab442bc0595f8beef81f27968f51eef
 dev.zio	zio-aws-pinpoint_2.13	7.31.28.1		fde3a7ee7ff0894aebc35e040421f97c897b2597
 dev.zio	zio-aws-pinpoint_2.13	7.31.3.1		130cc0847a6e52840f16413ccce4fee3ae41a1f3
 dev.zio	zio-aws-pinpoint_2.13	7.31.30.1		65856ca0ec2d3674e56b43f5d61654988a95b304
+dev.zio	zio-aws-pinpoint_2.13	7.31.30.2		d1994b33f5b773d441ea0b540604e2f40cad86c8
 dev.zio	zio-aws-pinpoint_2.13	7.31.4.1		0903e426ae610818718d54a67ad15a0aa4d7d5d8
 dev.zio	zio-aws-pinpoint_2.13	7.31.6.1		f6becc69062900a68549752fa04ffeb48eafbeaa
 dev.zio	zio-aws-pinpoint_2.13	7.31.6.2		ad04316ad888262740460068497e7488fe336860
@@ -1176,6 +1178,7 @@ io.camunda	identity-spring-boot-autoconfigure	8.4.19		593cf45fafcd36c704e60bfadb
 io.camunda	identity-spring-boot-autoconfigure	8.4.2		1ff4c679d423b055d177cb874695d8d5f2448532
 io.camunda	identity-spring-boot-autoconfigure	8.4.2-RC1		9b7ea5b7801f1d2568579a5d259557ae92c56ca9
 io.camunda	identity-spring-boot-autoconfigure	8.4.20		90f8ba9f2de21ba6d4dbd7e08644d55c9270b87e
+io.camunda	identity-spring-boot-autoconfigure	8.4.21		f861c2c090edf0066f7224ae353a1f6e2cf22da4
 io.camunda	identity-spring-boot-autoconfigure	8.4.3		d1ef382958b796ee1f696aa2d52a3c4ad3a849f2
 io.camunda	identity-spring-boot-autoconfigure	8.4.3-RC1		07001a3648e22d955acc390d053eef2f3034456e
 io.camunda	identity-spring-boot-autoconfigure	8.4.4		60a370af80883532cd3f5f52f0d0d04a04d7cfd7
@@ -1198,6 +1201,7 @@ io.camunda	identity-spring-boot-autoconfigure	8.5.12		37181966e1caaa12590c8f2d33
 io.camunda	identity-spring-boot-autoconfigure	8.5.13		7f15e32c9731cec7977879ee94ef005d05834bde
 io.camunda	identity-spring-boot-autoconfigure	8.5.14		5b90f1103034fa4cf882dbb9b7f8bd15784e1223
 io.camunda	identity-spring-boot-autoconfigure	8.5.15		3a8fc57af60d372e5499826fc4391de14e1d2871
+io.camunda	identity-spring-boot-autoconfigure	8.5.16		7834f5104cd0ec0d315b18c3452ea72b7bc484f5
 io.camunda	identity-spring-boot-autoconfigure	8.5.2		9f2e181782eaeed8ddb101c73e24badb73d3ed76
 io.camunda	identity-spring-boot-autoconfigure	8.5.3		a2e2290c02a2c873cbdcdad21a984d2b0513da28
 io.camunda	identity-spring-boot-autoconfigure	8.5.4		4b53776c20472ba02b97211ae58601cd72028961
@@ -1329,6 +1333,7 @@ io.kotest	kotest-assertions-shared	5.9.1		228195ddf3a9edc7a65755c17fbc4d3a3f2a57
 io.kotest	kotest-assertions-shared	6.0.0.M1		b9e7cbca6336f0cd744a032862f8713c120c334c
 io.kotest	kotest-assertions-shared	6.0.0.M2		f02b737d1d12dee8797ef7e89cbfc9fa3bda237f
 io.kotest	kotest-assertions-shared	6.0.0.M3		bd49b31130a8f02060f24169b6a5d868b9edcfca
+io.kotest	kotest-assertions-shared	6.0.0.M4		bd49b31130a8f02060f24169b6a5d868b9edcfca
 io.kotest	kotest-framework-concurrency-tvosx64	5.0.0		N/A
 io.kotest	kotest-framework-concurrency-tvosx64	5.0.0	metadata	12b3865e88b4504c5f3788e1d707c735fd66d7e2
 io.kotest	kotest-framework-concurrency-tvosx64	5.0.0.RC2		N/A
@@ -1411,6 +1416,8 @@ io.ktor	ktor-resources-watchosdevicearm64	3.1.1		0b5e406f01a0f29ddf85a6ecaf29765
 io.ktor	ktor-resources-watchosdevicearm64	3.1.1	metadata	21c82aa14974c2479cf7370f4efab5363a2a0fd1
 io.ktor	ktor-resources-watchosdevicearm64	3.1.2		a4fd982cd1e084a4c1e088594e46b2b04873e092
 io.ktor	ktor-resources-watchosdevicearm64	3.1.2	metadata	458cf0f7eeac9b22113a75d1785a7bb284f33423
+io.ktor	ktor-resources-watchosdevicearm64	3.1.3		8883a19eac52477e19e84fc4657340aa2f62fd1a
+io.ktor	ktor-resources-watchosdevicearm64	3.1.3	metadata	e5a25c4fdfa20de0c9f77f1a7c70b20deb1fc842
 io.mraa.upm	upm_h3lis331dl	0.8.0		3c0f2159826c388f7c5674caf2a4ae6fbcbdbbf1
 io.mraa.upm	upm_h3lis331dl	1.0.0		54908612fd988277f495df7ad4e4e71902055496
 io.mraa.upm	upm_h3lis331dl	1.0.1		9195000b972a5d5f9d81d16a2de85bdcdc1064c9
@@ -1517,6 +1524,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-5.0	2.13.3-alpha		4d2f83dc7441d470d20be86e46a242df2d6df01a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-5.0	2.14.0-alpha		91a3efaa89030445e44a6e2938c7cdab47e92b61
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-5.0	2.15.0-alpha		0a5a5e46943f30b5c8dd33977ff454c62a32d822
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-5.0	2.16.0-alpha		a1228173af2cc01fa7536a5e55c48579df873c31
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-5.0	2.2.0-alpha		08757a92dae80747f9ff35b2efe6371bbdbe3b71
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-5.0	2.3.0-alpha		194f595ce671046551fdc1c77cd109a065f71598
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-elasticsearch-rest-5.0	2.4.0-alpha		b36dc04c4466a4f9e4fd085db23375e397a7b2c5
@@ -1604,6 +1612,7 @@ media.kamel	kamel-image-iossimulatorarm64	1.0.2		N/A
 media.kamel	kamel-image-iossimulatorarm64	1.0.2	metadata	47cab6ad6326cfc98e0703846031ce4a617e0ccb
 media.kamel	kamel-image-iossimulatorarm64	1.0.3		N/A
 media.kamel	kamel-image-iossimulatorarm64	1.0.3	metadata	618f699afb6b24fdd0dc07334603067cff78b855
+media.kamel	kamel-image-iossimulatorarm64	1.0.5	metadata	3255acf418dee180c5b48ae8a7874cd234781aba
 net.sf.okapi.steps	okapi-step-tokenization	0.35		e9a7c394c693f3f2c4edf3810adb1cc56a8f6618
 net.sf.okapi.steps	okapi-step-tokenization	0.36		80728deb15f499886360d668588264761f69b06b
 net.sf.okapi.steps	okapi-step-tokenization	0.37		06cfe536b56c26a48da65b2a88404dd9f0ea9418

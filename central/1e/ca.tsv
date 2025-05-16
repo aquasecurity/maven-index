@@ -176,6 +176,10 @@ com.dua3.utility	utility-samples-log4j	18.3.0		d13297343b9bbb36edb629df34a746932
 com.dua3.utility	utility-samples-log4j	18.3.1		0a4ab75937dc7e48967871a81dea0f729cdb01d0
 com.dua3.utility	utility-samples-log4j	18.4.0		5c85348997570c536474368e529ace604054b2ea
 com.dua3.utility	utility-samples-log4j	18.4.1		e5051bde38dbf32b9853651355266c592b3f4c96
+com.dua3.utility	utility-samples-log4j	18.5.0		a6d2b18ecd77feb7b51d5aa0c8111cc1fdb7d5cf
+com.dua3.utility	utility-samples-log4j	18.5.1		959d30831fde6615516cdfb6ea116168aa5b8795
+com.dua3.utility	utility-samples-log4j	18.6.0		ba1934a1f627d6f675db6b50f30de25c0a99710e
+com.dua3.utility	utility-samples-log4j	19.0.0		6fa09d02db53bfa9204d7c5378a7f4a9dc7bd7a9
 com.expedia.apiary	apiary-extensions-parent	0.0.1		N/A
 com.expedia.apiary	apiary-extensions-parent	0.1.0		N/A
 com.expedia.apiary	apiary-extensions-parent	0.2.0		N/A
@@ -1152,6 +1156,7 @@ io.kotest	kotest-assertions-ktor-jvm	4.4.2		13f01a9357a943170880d82824724c18738d
 io.kotest	kotest-assertions-ktor-jvm	4.4.3		0a47704b0948acca3303fc5a670d56b8f9ce8b47
 io.kotest	kotest-assertions-ktor-jvm	6.0.0.M2		3f7e334b7a744acc2345068543e2d8a391fac69f
 io.kotest	kotest-assertions-ktor-jvm	6.0.0.M3		3f7e334b7a744acc2345068543e2d8a391fac69f
+io.kotest	kotest-assertions-ktor-jvm	6.0.0.M4		3f7e334b7a744acc2345068543e2d8a391fac69f
 io.telereso.kmp	core-ui-iosx64	0.10.0-alpha.1		N/A
 io.telereso.kmp	core-ui-iosx64	0.10.0-alpha.1	metadata	282f3a3f65e0253ed3f7827a9cc01519d9482e60
 io.telereso.kmp	core-ui-iosx64	0.20.0-wasm.1		N/A
@@ -1395,6 +1400,7 @@ org.apache.camel	camel-olingo4	4.8.3		866b0bbf6864d9d56a0ec80a8d8cbf198de463f2
 org.apache.camel	camel-olingo4	4.8.4		c22e9f335b76f49453bbffebe561ad16e3981216
 org.apache.camel	camel-olingo4	4.8.5		e86d3f0e62fe95f962c7cee586001b0d8a693a90
 org.apache.camel	camel-olingo4	4.8.6		1d5a28557cdb53aae0b3cd59cd116b33046a711f
+org.apache.camel	camel-olingo4	4.8.7		dd027b00aab72c4e7ef7d6f185a7668978e8e5fc
 org.apache.camel	camel-olingo4	4.9.0		080c0f8d85e05d99e0db05c2b0fa640aced3bd3c
 org.apache.camel	camel-zookeeper	2.10.0		00de10b83fd8d1898d6c2c693f346154115e05f6
 org.apache.camel	camel-zookeeper	2.10.1		294089711b906c80effc942611393a8ab1f00127
@@ -1623,6 +1629,7 @@ org.apache.camel	camel-zookeeper	4.8.3		d4baee09639246c435f01bac930f6691a0c16e12
 org.apache.camel	camel-zookeeper	4.8.4		ca110657dc4eb0c7f05f24ca773c36fd795c22a1
 org.apache.camel	camel-zookeeper	4.8.5		3d31a7fe97c0cabdac0f567b6d8a35cb5d60440f
 org.apache.camel	camel-zookeeper	4.8.6		12b78eab469ed498bab667968121e31e02f71a3d
+org.apache.camel	camel-zookeeper	4.8.7		b1830d5dd36ca8cae7e7a8843001fba7edfb5c8a
 org.apache.camel	camel-zookeeper	4.9.0		2d496e18b8d35e1d45c23bfc1e06261d11fd3bd0
 org.apache.shale	shale-application	1.0.4		37ee8ede20234740bc0bbb44b5b08cbe70eb0caa
 org.apache.shale	shale-application	1.0.5		7f00468c71d49a25eb1f6898354b136a478c1e38
@@ -1643,6 +1650,7 @@ org.apache.tika	tika-parser-text-module	2.9.0		ad42bb229dd5a17c3f2a99bc2e5b8ba99
 org.apache.tika	tika-parser-text-module	2.9.1		105b75bfc302f6a3dbf3e5b328e48fa53dcf4f8a
 org.apache.tika	tika-parser-text-module	2.9.2		b3a93e538ba6cb4066aba96d629febf181ec9f92
 org.apache.tika	tika-parser-text-module	2.9.3		940509f6b3f8ba810aa27ef459828d6acf69ca4d
+org.apache.tika	tika-parser-text-module	2.9.4		1e3e434dfb14809025c8447001a06d6f2b8ecab7
 org.apache.tika	tika-parser-text-module	3.0.0		fb853ee805c8763526be84870d020b52416457a8
 org.apache.tika	tika-parser-text-module	3.0.0-BETA		a361e8ecd3785143245925ceed62b88323dced7a
 org.apache.tika	tika-parser-text-module	3.0.0-BETA2		ac63b64cbb9e5b64c715a67283715992b1bc8404
@@ -1887,6 +1895,7 @@ org.scalameta	common_2.13	4.13.2		d72312318ed5dad4c1545f16bfc1404babea5b5e
 org.scalameta	common_2.13	4.13.3		a81ad77d6145ac09e92dcb9250364dd3387f9442
 org.scalameta	common_2.13	4.13.4		532538454723b97f2defe72ef1ac652e743f4d2f
 org.scalameta	common_2.13	4.13.5		4d8771ee0966f0fc5f068d5be9ff80b09f155b6b
+org.scalameta	common_2.13	4.13.6		f4993dedee0867a218171a2875a0be53b2b5a25e
 org.scalameta	common_2.13	4.2.0		405cb6be4941f17e53bb72ad070c3117f42fb9f1
 org.scalameta	common_2.13	4.2.1		283dda85aaa853b59820f6b39f3cc6ef124e495f
 org.scalameta	common_2.13	4.2.2		86ed17e66d7978adf939287853a0779e1a0e59fb
@@ -2008,6 +2017,7 @@ org.webjars.npm	cmd-shim	4.0.2		035f43aa8c82394f638e0d50d999ff4c2ccb1a05
 org.webjars.npm	cmd-shim	4.1.0		f40c1b90fdbfb4dd0f6a910716057affdf5898dc
 org.webjars.npm	cmd-shim	6.0.1		afad4122e916bcdbe9c25465d1cb6c8efb1e6fe3
 org.webjars.npm	cmd-shim	6.0.3		41a0128abfc561a89d8d84493d0d0bd55863c579
+org.webjars.npm	cmd-shim	7.0.0		a17cac37bf58a0ed105cd5377354f4d0ed18630c
 org.webjars.npm	react-menus	1.1.1		33fa1a19d6229199c5710839d77489c73527cef9
 org.webjars.npm	react-menus	2.0.4		6927421bfa64aaf98dae90db49051ed397a43a49
 org.wso2.carbon.governance	org.wso2.carbon.governance.metadata.feature	4.3.0		N/A

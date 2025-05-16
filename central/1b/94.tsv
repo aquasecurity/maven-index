@@ -226,6 +226,8 @@ com.google.api.grpc	grpc-google-cloud-network-management-v1	1.6.0		13a86cae39ecb
 com.google.api.grpc	grpc-google-cloud-network-management-v1	1.60.0		54eb73f5813a9fdcbe0b327f01126e232ade6552
 com.google.api.grpc	grpc-google-cloud-network-management-v1	1.61.0		395ce945437f79e7d6ce05668c68acce45dc49f6
 com.google.api.grpc	grpc-google-cloud-network-management-v1	1.62.0		904a64f8178f49ae696f722f27144c02e2b5e54f
+com.google.api.grpc	grpc-google-cloud-network-management-v1	1.63.0		c970bc37245b796b11045e7826cd22fa12a46cdb
+com.google.api.grpc	grpc-google-cloud-network-management-v1	1.64.0		df16ecc5589214c6b97e12e877f0c72749c10390
 com.google.api.grpc	grpc-google-cloud-network-management-v1	1.7.0		d4b0379615e45027ab14afae9939e5415a70b202
 com.google.api.grpc	grpc-google-cloud-network-management-v1	1.8.0		32b50061d898103c9675810aed6b852571e7d69e
 com.google.api.grpc	grpc-google-cloud-network-management-v1	1.9.0		36ec78e295a9cc1f01caf7b67f7013a0f14a6ba2
@@ -1125,6 +1127,7 @@ org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.2.1		50f6876
 org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.2.2		3d49c5bc5ed1e3c519096763f28d1da369d321e2
 org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.2.3		f2565b2c842377f7570da00a5a313f8c76983e15
 org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.20.0		d51bf4438609ad5c16111e3526fe0a9018c9cf28
+org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.20.1		a7b61e22e77b844eb7cccb40d6874a36631d7e56
 org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.22.0		35e165575c1084b471c2b22bba9c7fab6a161578
 org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.4.0		a823a620a10abc35183c4aa37c37de5929473948
 org.apache.camel.quarkus	camel-quarkus-vertx-websocket-deployment	3.5.0		2920e0a6222e4c280ef4f05daa7e94af3b1a550f
@@ -1703,6 +1706,8 @@ org.xwiki.commons	xwiki-commons-filter-stream-xml	16.10.3		31a4153ea2699faf90dc2
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.10.4		715df2888c0b823ed408e01c3bd11efb4fcb8409
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.10.5		62be4411d811785383852513d03770567c177454
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.10.6		d0893e9ed6d95c3a44679aa4f6707fd5906c67e7
+org.xwiki.commons	xwiki-commons-filter-stream-xml	16.10.7		28564c0ca2e3d9e7d0d92edd7dfbe8bc584a346d
+org.xwiki.commons	xwiki-commons-filter-stream-xml	16.10.8		74a33265b3a0b4229fe70e8ce35c0356d3e4d233
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.2.0		c6226a8a455ff697416a4cf8ab2f79ab44cc7b2c
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.2.0-rc-1		c00764358a4dc39be2ac508489beaefe79431f80
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.3.0		ce14408bfd3f0adb3937da57a86209d45b8ed5fd
@@ -1717,6 +1722,7 @@ org.xwiki.commons	xwiki-commons-filter-stream-xml	16.4.4		defcf60a807b3fb9fd78d2
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.4.5		dfa8ff4156f7d89bc9df41b1374de61e74537e34
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.4.6		1fb8c68dbf239ceb7aad2f7c32ad8b871e9c8bce
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.4.7		9616be495498d1cd29103041c7b1bd341630b4d0
+org.xwiki.commons	xwiki-commons-filter-stream-xml	16.4.8		49f75fa992b771a171acc7c4ee8f92d310ce2de5
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.5.0		950857d928187b26148d86aa72b931246c76a8f9
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.5.0-rc-1		2752843075cf7288e89f3b2f75f853091fdf30bd
 org.xwiki.commons	xwiki-commons-filter-stream-xml	16.6.0		dbec737b1e9443c7f9d52893f014df4eaf93bf99
@@ -1861,6 +1867,9 @@ org.xwiki.commons	xwiki-commons-filter-stream-xml	9.8.1		52a3babf928870522a9f8c3
 org.xwiki.commons	xwiki-commons-filter-stream-xml	9.9		339e6466f8d6b37378e7894969bd5eef024d131c
 org.xwiki.commons	xwiki-commons-filter-stream-xml	9.9-rc-1		b492b5e3a052f2df8e9d1e324094de399900f488
 org.xwiki.commons	xwiki-commons-filter-stream-xml	9.9-rc-2		bb11116f76f1229420c455c08b0bc70ba59c6374
+pl.newicom	sbt-cucumber-plugin_2.10_0.13	1.0.0		1f2b7887fec797d5495eed92a481d93bcf51ef99
+ru.ldralighieri.composites	composites-carbon-core-iosarm64	0.5.0	metadata	cbc820f89efe7cefc281bce0f4a25793c2c17f8d
+ru.ldralighieri.composites	composites-carbon-core-iosarm64	0.5.1	metadata	e70af7cfd3a54c24cd2a18661d3e5b6415435f36
 site.sorghum	easy-join	0.0.1.M1		N/A
 tz.co.asoft	koncurrent-later-core-watchosx86	1.5.1		N/A
 tz.co.asoft	koncurrent-later-core-watchosx86	1.5.1	metadata	187030b006d8900767225f010fc80173a9f00df0

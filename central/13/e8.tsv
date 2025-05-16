@@ -301,6 +301,7 @@ com.slack.circuit	circuit-retained-tvosarm64	0.27.0		N/A
 com.slack.circuit	circuit-retained-tvosarm64	0.27.0	metadata	9f5066d290ee8a552366ed52cd70dc225ea80743
 com.slack.circuit	circuit-retained-tvosarm64	0.27.1		N/A
 com.slack.circuit	circuit-retained-tvosarm64	0.27.1	metadata	9f5066d290ee8a552366ed52cd70dc225ea80743
+com.slack.circuit	circuit-retained-tvosarm64	0.28.0	metadata	4ca7f40c42c24639b4b247d384d8710bbfe5fdd6
 com.sourcegraph	maven-plugin	0.10.3		fc22973f9430f8e9c5d755bce1deeb03c9210349
 com.sourcegraph	maven-plugin	0.10.4		d7cb3260bb99d7b9fe22c23fc970948d8d7ceb8b
 com.sun.jersey.samples	bookmark-em	1.1.4		N/A
@@ -389,6 +390,12 @@ com.sun.jersey.samples	bookmark-em	1.9-ea04		N/A
 com.sun.jersey.samples	bookmark-em	1.9-ea06		N/A
 com.sun.jersey.samples	bookmark-em	1.9-ea07		N/A
 com.sun.jersey.samples	bookmark-em	1.9.1		N/A
+com.swoval	sbt-source-format_2.10_0.13	0.1.0		d0afb485fc231563d3643b85e183d004283bf2c6
+com.swoval	sbt-source-format_2.10_0.13	0.1.1		177a2d8d7a0476bb1365ca1e3d820bc355ce7311
+com.swoval	sbt-source-format_2.10_0.13	0.1.2		320150ae735c6a7fe6938326b77fb398fa0464f5
+com.swoval	sbt-source-format_2.10_0.13	0.1.3		3dbeb9501eb9b255c514b2a8e203572b1ac95f01
+com.swoval	sbt-source-format_2.10_0.13	0.1.4		0884c9b449f7895db8c2c3ddefbd8cf0f3af9359
+com.swoval	sbt-source-format_2.10_0.13	0.1.6		e7f86f17d9d9f7594c47628be5f428265c11e2f6
 com.tencent.cloud	spring-cloud-starter-tencent-polaris-ratelimit	1.0.0.Hoxton.SR9		bae621cbf0e7acd69cb57e64d82fa86b6aa81164
 com.tencent.cloud	spring-cloud-starter-tencent-polaris-ratelimit	1.0.1.Hoxton.SR9		30a21f3078738964902b6d769b6a2ebbec95170c
 com.tencent.cloud	spring-cloud-starter-tencent-polaris-ratelimit	1.0.2.Hoxton.SR9		7c1b5151db9f94432cc3b1a4704a5c01f8fde64a
@@ -786,6 +793,8 @@ io.camunda.connector	connector-aws-base	8.4.16		5ab51390b91792f456574d284b31ddf1
 io.camunda.connector	connector-aws-base	8.4.16	with-dependencies	b2814b87da671de0d4a4a8b26eca945afc89a9db
 io.camunda.connector	connector-aws-base	8.4.18		5928f134d0111d286b0475270df0905c9bcf7fe9
 io.camunda.connector	connector-aws-base	8.4.18	with-dependencies	574e1ac02489289776abf1121403a655395ae8d3
+io.camunda.connector	connector-aws-base	8.4.19		64f7a235f31b033ff99ccf7a7e030639dbdfe855
+io.camunda.connector	connector-aws-base	8.4.19	with-dependencies	5adaa8c188a201f43ce05ebb46b545a66cb9369f
 io.camunda.connector	connector-aws-base	8.4.2		ce0cd9cd837f397c4ad7427e0ab8d0b5e3e2d599
 io.camunda.connector	connector-aws-base	8.4.2	with-dependencies	d2e45dc29797ce5cc16aea186adef19ececd55a6
 io.camunda.connector	connector-aws-base	8.4.3		cf9e7728dbbb6fcfc9926eb331d61743f82f9a70
@@ -852,6 +861,8 @@ io.camunda.connector	connector-aws-base	8.6.10		f93cb510ac0de187c63617950707e5d2
 io.camunda.connector	connector-aws-base	8.6.10	with-dependencies	e7e19ab3afc7766bb8345ee80916c163f7789e06
 io.camunda.connector	connector-aws-base	8.6.11		e578824b3dd7deb5fd9c1c591f5ec92221c236fc
 io.camunda.connector	connector-aws-base	8.6.11	with-dependencies	ee58f63aebeb28ac12282ee0f95ec0445b15a5ab
+io.camunda.connector	connector-aws-base	8.6.12		ebc8fe14f9135a1b2f7149ccf332ab40bbe0a7ee
+io.camunda.connector	connector-aws-base	8.6.12	with-dependencies	53c1cf259c4ac286c1092988f7f4feef1e95dc9f
 io.camunda.connector	connector-aws-base	8.6.2		c2d7f3ecb6dac80d756be6b360cba4af6251af0e
 io.camunda.connector	connector-aws-base	8.6.2	with-dependencies	d49196f7607790020e5361ac18ad4645c87b4422
 io.camunda.connector	connector-aws-base	8.6.5		3be2bc7edd8ebaa0ffdbf1eeafc97708f90710a5
@@ -874,10 +885,18 @@ io.camunda.connector	connector-aws-base	8.7.0-alpha3.3		e42de084cccac8637374ae43
 io.camunda.connector	connector-aws-base	8.7.0-alpha3.3	with-dependencies	6cad40ddc09bb0b9b69399912ee8cf9685525a07
 io.camunda.connector	connector-aws-base	8.7.0-alpha4		653e14f1ff00a9ac2201b087438289124e245d07
 io.camunda.connector	connector-aws-base	8.7.0-alpha4	with-dependencies	48d28f2e2fba070bf40b45afdb53f114aed6660a
+io.camunda.connector	connector-aws-base	8.7.1		0f61956d8d4d35e58c282637c0339e8b4c5ae002
+io.camunda.connector	connector-aws-base	8.7.1	with-dependencies	8c5a7d4fd9202a18b0921e42d5ef9e0ca4657e1a
+io.camunda.connector	connector-aws-base	8.7.2		447a46fd6f816742c49331e0ec33d996d1507d48
+io.camunda.connector	connector-aws-base	8.7.2	with-dependencies	416095bc782dc7830915885789f6bfd6bd6992df
 io.camunda.connector	connector-aws-base	8.8.0-alpha3		2ae369d54af78bd8d0420842a08ef23db8880a02
 io.camunda.connector	connector-aws-base	8.8.0-alpha3	with-dependencies	9fd37ff1f10b29d6d2dd605f9b9fb63077224d66
 io.camunda.connector	connector-aws-base	8.8.0-alpha3.1		1633f93c7b1239a19c68a3af8ec68a11b10fd993
 io.camunda.connector	connector-aws-base	8.8.0-alpha3.1	with-dependencies	b83413b5498dfec8e95074ca35bd7fd77da223b5
+io.camunda.connector	connector-aws-base	8.8.0-alpha4		8e336283fcfb38d7206a07871eb73ec70b52aa5d
+io.camunda.connector	connector-aws-base	8.8.0-alpha4	with-dependencies	6132bbf07d963af0136e58a69c1ec439ffad31b3
+io.camunda.connector	connector-aws-base	8.8.0-alpha4.1		91ab57fdde3a726d6ac3ab649cd970b8aeda8332
+io.camunda.connector	connector-aws-base	8.8.0-alpha4.1	with-dependencies	d493e4019584868f40eeb00c610eff60ec485942
 io.github.cquiroz	cldr-api_3.0.0-M3	2.0.1		375de36e6d97a058055d31aa01ec35b0bb63058c
 io.github.cquiroz	cldr-api_3.0.0-M3	2.2.0		67eab6ce2610e46516b3d2e47f14a81526a5b4fc
 io.github.luoqqsh	danmuku	1.0.0		N/A
@@ -1046,6 +1065,7 @@ org.apache.camel	camel-langchain4j-chat	4.8.3		0cc4ba608a1b28ba6b584894643681b80
 org.apache.camel	camel-langchain4j-chat	4.8.4		e8b00792c26f6986ddffe9194de6eedf6056b444
 org.apache.camel	camel-langchain4j-chat	4.8.5		8f92e505d73da3172e7fbd4f97770cc2d6abc6c4
 org.apache.camel	camel-langchain4j-chat	4.8.6		1d773a0f900c38cfa8d2f29665a170ab35b3dd5f
+org.apache.camel	camel-langchain4j-chat	4.8.7		7f4ae11e5658c6c21e461a09ed28e3a4a742a032
 org.apache.camel	camel-langchain4j-chat	4.9.0		942910e5e03879b44aca5dcbe99563363a1f9c75
 org.apache.camel.kafkaconnector	camel-aws-kinesis-sink-kafka-connector	1.0.0		fffffc16798ce3efb5c8700a8339eba31cd2a962
 org.apache.camel.kafkaconnector	camel-aws-kinesis-sink-kafka-connector	3.18.1		bf3648515fa25795ceadf476c6cbf98ee9962fce

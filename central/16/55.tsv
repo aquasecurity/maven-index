@@ -492,7 +492,16 @@ aws.sdk.kotlin	comprehendmedical	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af3
 aws.sdk.kotlin	comprehendmedical	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehendmedical	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehendmedical	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehendmedical	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehendmedical	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehendmedical	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 cn.springcloud.gray	spring-cloud-gray-server-cluster-http-synchro-plugin	A.2.0.0		afa00ebddb1f8daeb219cc0a97286bac06483bfe
 cn.springcloud.gray	spring-cloud-gray-server-cluster-http-synchro-plugin	A.2.0.0-RC2		f9950e03397517012086e7b1acac608dd689064a
@@ -1223,6 +1232,7 @@ dev.zio	zio-aws-emr_3	7.31.27.1		427824513e3c11a4d0baae94b5a33560c5b2d72c
 dev.zio	zio-aws-emr_3	7.31.28.1		5db93f02b8009ea197d8ab2d1790501eca7d5e56
 dev.zio	zio-aws-emr_3	7.31.3.1		1f6aad33bc357b34997d5c60bbaa61e2d674d1e6
 dev.zio	zio-aws-emr_3	7.31.30.1		1d25056170191c22b8d2e4e7c7c2c74d4cf32e72
+dev.zio	zio-aws-emr_3	7.31.30.2		500acf10bbd388f4f540cd69a152c2aa0b53bb99
 dev.zio	zio-aws-emr_3	7.31.4.1		d1ac0dee9dfaeeb836c814c7da5daab5b089861a
 dev.zio	zio-aws-emr_3	7.31.6.1		d9d1e68c531ea2739ec5893da839b3683f45b522
 dev.zio	zio-aws-emr_3	7.31.6.2		219458199d3f6b16dcbfbd18765a44768782bf33
@@ -1426,6 +1436,7 @@ io.micrometer	micrometer-registry-opentsdb	1.13.10		8ecf16187989c40317f9dea482a8
 io.micrometer	micrometer-registry-opentsdb	1.13.11		d63310d47ceb2a9e4de59fef28b4fde96914bf26
 io.micrometer	micrometer-registry-opentsdb	1.13.12		fdfd53b045de27fefa874703af38747c48935d77
 io.micrometer	micrometer-registry-opentsdb	1.13.13		4893306e83b0ba45879887c1cc3c66e212b9742b
+io.micrometer	micrometer-registry-opentsdb	1.13.14		731d45c69b894b87718c1c6995ab3a03a6585f49
 io.micrometer	micrometer-registry-opentsdb	1.13.2		07129ca463a91339a7f8646410ebb95bea89c584
 io.micrometer	micrometer-registry-opentsdb	1.13.3		1b79eb3b404b387978864e65694bc447d45d1ee3
 io.micrometer	micrometer-registry-opentsdb	1.13.4		1c9ec96a19bbea31d862dd0e44f780d5ea1ec20c
@@ -1441,6 +1452,8 @@ io.micrometer	micrometer-registry-opentsdb	1.14.3		7589ffb92f937cc9a800554a81207
 io.micrometer	micrometer-registry-opentsdb	1.14.4		5800dc7a7a93aed11c9596086b39e1bffe374ff5
 io.micrometer	micrometer-registry-opentsdb	1.14.5		3bc72b792850a6d15c910a31f822c6761331bce5
 io.micrometer	micrometer-registry-opentsdb	1.14.6		02beca60b7e1d9aa8ff88901370d4210fd451b7a
+io.micrometer	micrometer-registry-opentsdb	1.14.7		4f848f4517995e5ef3f1c0de964b1f2200de8832
+io.micrometer	micrometer-registry-opentsdb	1.15.0		1c98d1d8706592a3d6ed0bd99221e7a284dffa51
 io.micrometer	micrometer-registry-opentsdb	1.15.0-M2		8e08c8cd9f85647734e3e1791591ebcc020cd009
 io.micrometer	micrometer-registry-opentsdb	1.15.0-M3		56c04132a8c1fbd73f77596b225d64fc74d18f17
 io.micrometer	micrometer-registry-opentsdb	1.15.0-RC1		4291fbe563dad2f9f4fea5badf056daf559a67b0
@@ -1815,6 +1828,7 @@ org.apache.camel	camel-catalog-maven	4.8.3		3af9a100f181c2153aadbc83b390c395765c
 org.apache.camel	camel-catalog-maven	4.8.4		833c01eb1ec5182b081fa96009ab74fe943214bc
 org.apache.camel	camel-catalog-maven	4.8.5		e651fe2b9a2975fd9d0d9ec7e66813d4c2168699
 org.apache.camel	camel-catalog-maven	4.8.6		a1397f7f56bbc8e54f0e0d771ac68f089071eaa7
+org.apache.camel	camel-catalog-maven	4.8.7		3bd8126d259213dcda381b061fe6c6c31e0b2605
 org.apache.camel	camel-catalog-maven	4.9.0		3f507cbdc1c0e48cb5e396ccc106f26f3f3261b8
 org.apache.jackrabbit	jackrabbit-spi2jcr	1.4		ff750de9de6ec8d4a360a6c131c2c329ca53f94e
 org.apache.jackrabbit	jackrabbit-spi2jcr	1.5.0		836d130263c5b28c18f88bf5f7b4915b0277af70
@@ -2313,10 +2327,17 @@ org.finos.legend.engine	legend-engine-xt-text-protocol	4.8.0		6503333cf98c21c975
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.80.0		b573ebba20f588f7f9d99783b15fcbfbed15d6f3
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.81.0		d9ea23548613e196b138d24e609c56f7aa41030d
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.82.0		56e59c323580d2891a0367d413185fdb22b8a543
+org.finos.legend.engine	legend-engine-xt-text-protocol	4.82.1		fe2ebbee13ada58c8528de70ac534f86ebfda21e
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.83.0		71255b4347575c4ebf1bbfb827816ede547e9844
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.83.1		e17080da771e6b63193db3b368f0eb7383af960d
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.83.2		2434e567cf03c55cf9551f23780402479ffdd77d
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.83.3		1f9f3d9bf9341129faeea8e802ba2d2ae1045cd7
+org.finos.legend.engine	legend-engine-xt-text-protocol	4.84.0		61c0f56ec8b2b126c28750da0910d1cb7d630b43
+org.finos.legend.engine	legend-engine-xt-text-protocol	4.84.1		f423ac7dd95a4e8b4c4b8ff70085aa7368b8556d
+org.finos.legend.engine	legend-engine-xt-text-protocol	4.85.0		bd32bcca6f42230a5edf644b3606a9f4e27cbbf4
+org.finos.legend.engine	legend-engine-xt-text-protocol	4.85.1		bc3c1bcf9fc6aeb35b9c69bdce6f884e02764345
+org.finos.legend.engine	legend-engine-xt-text-protocol	4.85.2		841edbbf8ff958ee2f48d7dd1df74efa9795108a
+org.finos.legend.engine	legend-engine-xt-text-protocol	4.85.3		8d3a18343ab80c995eb082fb616c5e427db40db7
 org.finos.legend.engine	legend-engine-xt-text-protocol	4.9.0		dde41e0bb95c46a1e8d0c0cdd059bc31892bbefe
 org.hildan.krossbow	krossbow-stomp-kxserialization-watchosarm64	3.2.0		N/A
 org.hildan.krossbow	krossbow-stomp-kxserialization-watchosarm64	3.2.0	metadata	35762446c6b483ad45542307400619aebeac75c8
@@ -2451,6 +2472,8 @@ org.metaeffekt.core	ae-core-inventory	0.135.7		66822dc4b9dbd4c1c4696eafebd0731f1
 org.metaeffekt.core	ae-core-inventory	0.135.8		4151d2086106cf2143f1bd875dcf76dfa68dcf32
 org.metaeffekt.core	ae-core-inventory	0.135.9		0f1d4ec3487cc275df90d79d2ba2bfff328e34aa
 org.metaeffekt.core	ae-core-inventory	0.136.0		959e60ed335c4bfe164ef014788a95e22a4d0b17
+org.metaeffekt.core	ae-core-inventory	0.137.0		a6025439c8c9fcb3d883ae9caf1c272f63ea827b
+org.metaeffekt.core	ae-core-inventory	0.138.0		7530b04617f636b8bf71e8b3b4a25668f976bbde
 org.metaeffekt.core	ae-core-inventory	0.14.0		84f07bc24e339c1fe09e5d2081084d11370cbbf8
 org.metaeffekt.core	ae-core-inventory	0.15.0		58a0266c80022982d149cfa9b8287c6567cc31b3
 org.metaeffekt.core	ae-core-inventory	0.16.0		6c119a5313dc04a61baa8db13dcbfc7d777da960
@@ -2660,6 +2683,7 @@ org.springframework.ai	spring-ai-cassandra-store	1.0.0-M5		e7c1ae51ad7260529a6b9
 org.springframework.ai	spring-ai-cassandra-store	1.0.0-M6		002e31a775931fa73c006a8529f46aa747daeeb1
 org.springframework.ai	spring-ai-cassandra-store	1.0.0-M7		8b42731c064c70af294c1d3150f9ded2e84b0dbd
 org.springframework.ai	spring-ai-cassandra-store	1.0.0-M8		ff1b19bf81ba83329ad312ec516ca460791f9917
+org.springframework.ai	spring-ai-cassandra-store	1.0.0-RC1		5e8f6d8f1bc16249b477d8231d72fbc066a974cf
 org.springframework.social	spring-social-test	1.0.0.RELEASE		7367eb66543a4c2b7d0a6ab217ede01c2cbfb5a4
 org.springframework.social	spring-social-test	1.0.1.RELEASE		348701cf83dea1f19d45dfbbbf25b3478148c4dc
 org.springframework.social	spring-social-test	1.0.2.RELEASE		3786626f67e815b7b3af5c70f137eabc85f47f52

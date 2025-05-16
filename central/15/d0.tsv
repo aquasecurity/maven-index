@@ -167,6 +167,7 @@ com.github.ajalt.clikt	clikt-wasm-js	5.0.0		N/A
 com.github.ajalt.clikt	clikt-wasm-js	5.0.1		N/A
 com.github.ajalt.clikt	clikt-wasm-js	5.0.2		N/A
 com.github.ajalt.clikt	clikt-wasm-js	5.0.3		N/A
+com.github.dzsessona.sbt-neo-dependencies	sbt-neo-dependencies_2.10_0.13	0.1.1		ff57f950fdf2218471295b5fb1dbfa506ce0448e
 com.github.henkelian	im-aop-loggers-spring-boot	1.0.0		384357755ffb442a4382b01990ae05d71471a07d
 com.github.henkelian	im-aop-loggers-spring-boot	1.0.1		c40ea23df46788fd410fcae61d352f6c22fba533
 com.github.henkelian	im-aop-loggers-spring-boot	1.1.0		b3a296b366ef085a447045e081737d713c3038fd
@@ -256,6 +257,7 @@ com.itextpdf	commons	8.0.4		cf80f3a9403d10aac34652882ad45f200fcc236b
 com.itextpdf	commons	8.0.5		b6d7d322892527ee067fc3a888e2836d161f4353
 com.itextpdf	commons	9.0.0		eaced1fb5b507d32f38523e635e7d5fc2b105c1c
 com.itextpdf	commons	9.1.0		445618e55dd85454549240624ba03831b93759e4
+com.itextpdf	commons	9.2.0		065dbc7ada80aa257a4fb48d17b744b21c57d583
 com.jashmore	brave-extension-spring-boot	4.0.0		478cbf1c094e680db8ac2f2ffdeeb7b8473780b8
 com.jashmore	brave-extension-spring-boot	4.1.0		e83804bd43dd5fb8bde36e139cb009e7b16e9b5a
 com.jashmore	brave-extension-spring-boot	4.2.0		3ce9fdd0b1e540636828cfec04102123ba5f395a
@@ -336,6 +338,7 @@ com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.1143		9c10328235ff5eaaa0c
 com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.1214		faf93971fe1039ddba664fb7e5ad009137ac9c92
 com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.1230		545fca6cee593daf78e6cc7c44a04a62f1c1c0b8
 com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.1232		0053643d9ac36a22f08dfb57cf8d0218416eda72
+com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.1258		d5fe179de616d1b74550c0c635a869c9967f8a13
 com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.179		f8cced5f4c6d80c264c8ba92254b5587a71f4c94
 com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.179	jar-with-dependencies	81800422475bc3aac4ae15ad82b27135e695f70e
 com.tencentcloudapi	tencentcloud-sdk-java-partners	3.1.180		bd803f022f4d3887c276060fe007a03bc0f572af
@@ -1389,6 +1392,7 @@ com.typesafe.akka	akka-slf4j_2.13.0-RC2	2.5.23		4f3939cbb5fcd99d6e7a78451d8911f4
 com.typesafe.akka	akka-slf4j_2.13.0-RC2	2.6.0-M2		6bf1a425a0039346da5af8aa233f8d5a6c710f3e
 dev.langchain4j	langchain4j-community-neo4j-spring-boot-starter	1.0.0-beta3		dbdc647a7e16c9b9656b85df83633377a32df3c4
 dev.langchain4j	langchain4j-community-neo4j-spring-boot-starter	1.0.0-beta4		a44ba8374b238a8f5f762dc7460a682a6c1ee8ee
+dev.langchain4j	langchain4j-community-neo4j-spring-boot-starter	1.0.0-beta5		66aa11957e0696d2c2b92160723636a4f2590df2
 dev.renann	quarkus-jte	0.0.1		ca88b33149bab1f12749b0ca244343a6826d37fb
 dev.teogor.sudoklify	sudoklify-presets-linuxx64	1.0.0-beta04		N/A
 dev.zio	zio-aws-keyspaces_2.13	5.17.158.2		530f12dec8b3ac72d4f563f3f4584090178d8fa9
@@ -1644,6 +1648,7 @@ dev.zio	zio-aws-keyspaces_2.13	7.31.27.1		685c01c7be029b73a0dc45653ca86a40ae2fa9
 dev.zio	zio-aws-keyspaces_2.13	7.31.28.1		424621468cca42fedc0069949698281f39fa6495
 dev.zio	zio-aws-keyspaces_2.13	7.31.3.1		c105c99d00f6db96ecb13484effd4613a4a0d845
 dev.zio	zio-aws-keyspaces_2.13	7.31.30.1		c8ccb6e2c1ff97d8faa20316670d8f545a66bc51
+dev.zio	zio-aws-keyspaces_2.13	7.31.30.2		a827129dc133f0c63f3ea14c1af41b7c78fe9e9f
 dev.zio	zio-aws-keyspaces_2.13	7.31.4.1		f03a64d6a019d275177350123f67cf724fad449d
 dev.zio	zio-aws-keyspaces_2.13	7.31.6.1		bced2de8857fae357f49cb0f236542dca18fae68
 dev.zio	zio-aws-keyspaces_2.13	7.31.6.2		81cfbb8a04a0e60ebb29328129ed477b0716e877
@@ -1727,6 +1732,7 @@ io.github.pandulapeter.kubriko	plugin-serialization-iossimulatorarm64	0.0.1		N/A
 io.github.pandulapeter.kubriko	plugin-serialization-iossimulatorarm64	0.0.1	metadata	9588e65beac890cf42c1664e0d02fa7c88791ac5
 io.github.pandulapeter.kubriko	plugin-serialization-iossimulatorarm64	0.0.2		N/A
 io.github.pandulapeter.kubriko	plugin-serialization-iossimulatorarm64	0.0.2	metadata	37f89854e9d9b279a6e9d19ebf89634dec3272a9
+io.github.pandulapeter.kubriko	plugin-serialization-iossimulatorarm64	0.0.3	metadata	0d19a93d0f0927fade369c2d5da4b2941bae6cd9
 io.github.pandulapeter.kubriko	plugin-serialization-iossimulatorarm64	unspecified		N/A
 io.github.pandulapeter.kubriko	plugin-serialization-iossimulatorarm64	unspecified	metadata	13c81cf20d119ddd4cb8a2e4d7f684ab45787e21
 io.github.panpf.tools4j	tools4j-sequences	1.0.0		ddd950c0b3f46b21e5c6b81a7ef3379ad9b1e336
@@ -2196,6 +2202,7 @@ io.quarkus	quarkus-spring-web	3.15.2		36f7447ad046ff89a4819956fa4aa4844ddfe759
 io.quarkus	quarkus-spring-web	3.15.3		2ac24938417baf733585c7b837db353dc7d947a2
 io.quarkus	quarkus-spring-web	3.15.3.1		faa7f6c36889361e0ec62e28f180c1dc41f1e819
 io.quarkus	quarkus-spring-web	3.15.4		a38425e4874ba5ff38ad5a1fb8716d8b2e709a9a
+io.quarkus	quarkus-spring-web	3.15.5		20c38519774f9573d222bc1d89ebe1b5713575b8
 io.quarkus	quarkus-spring-web	3.16.0		7710ccee9b8ae93a2262b274a35759aff8edd87f
 io.quarkus	quarkus-spring-web	3.16.0.CR1		e310bc2a948400bc5ff37d23a26c9ba4a9f3def3
 io.quarkus	quarkus-spring-web	3.16.1		cf9742a57297a6b460fc2fc86efb149d93f8a3e1
@@ -2240,6 +2247,7 @@ io.quarkus	quarkus-spring-web	3.2.8.Final		0f8c21037a090de403a39ad4f35e832b12b07
 io.quarkus	quarkus-spring-web	3.2.9.Final		e50da4fe52c4eb5aad6d244e34ae5ac0419b3fdf
 io.quarkus	quarkus-spring-web	3.20.0		1f106624ae5c47110cc28ac2620190d282501c02
 io.quarkus	quarkus-spring-web	3.20.0.CR1		11d3d7f2b88306c5b38b6f38a6097d55cb1de187
+io.quarkus	quarkus-spring-web	3.20.1		672b203e878410474b06f2d02cdbd827528cbb7a
 io.quarkus	quarkus-spring-web	3.21.0		bf7eb21739683043aafa3745b4e1281f4170509e
 io.quarkus	quarkus-spring-web	3.21.0.CR1		28813da95812551a54c57ddaf8ab53bf83828759
 io.quarkus	quarkus-spring-web	3.21.1		8250eb0fa8629f937fcc16e7b331fb59e2621eb3
@@ -2249,6 +2257,9 @@ io.quarkus	quarkus-spring-web	3.21.4		17e8a992145cc2fdfe8c3fe3bc7359738009473d
 io.quarkus	quarkus-spring-web	3.22.0		0fa30f88805aac1ef45daed791121dcb516c52fb
 io.quarkus	quarkus-spring-web	3.22.0.CR1		83ea04c127b896d0adc86afc86b28fd84451ef2e
 io.quarkus	quarkus-spring-web	3.22.1		192b7eda00cdccb08e685deaa98cb3b886d54f69
+io.quarkus	quarkus-spring-web	3.22.2		5092f59f1ae517026d3cc5666ad441e47239505c
+io.quarkus	quarkus-spring-web	3.22.3		1ab33a9e6775e1adffe905aa8dfa28b8e9c2c5c4
+io.quarkus	quarkus-spring-web	3.23.0.CR1		b2ae632af8bc26e71ba0d06d07b0915959ac31b4
 io.quarkus	quarkus-spring-web	3.3.0		06c9b35b0f3d9078417d8dbb957d9374791776af
 io.quarkus	quarkus-spring-web	3.3.0.CR1		5b8d0fb5fccb0bf024817f99cde8a04f9fd3f76d
 io.quarkus	quarkus-spring-web	3.3.1		b8a819b24f4e9d525922541b011b577602811cee
@@ -2911,6 +2922,7 @@ org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.27.0.100294		69
 org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.28.0.100328		e745296bf68cb841f7e536309b830b09cdc65412
 org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.29.0.100353		9344fe94d099e788900c509311af113f5256281d
 org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.3.0.45903		143e5b95850c22d961dfd278afbea6b269abc67a
+org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.30.0.100369		9c9b46d8a2538eff9ee576112a4a3539ab2c2cc8
 org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.4.0.50839		18a468e8d00f40776e0d58182c912ec02f8706c2
 org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.5.0.56800		953cd4a15293d0a736d0b3b1a406f4ca5f15e070
 org.sonarsource.sonarlint.omnisharp	sonarlint-omnisharp-plugin	1.6.0.59081		2879393194e90de940eaa9e8ca36c92a3fd27877
@@ -3046,5 +3058,9 @@ tz.co.asoft	raven-config-tvosx64	3.0.8		N/A
 tz.co.asoft	raven-config-tvosx64	3.0.8	metadata	0941fcbd3e47d833c738d15bcf77cfa097b36748
 tz.co.asoft	raven-config-tvosx64	3.0.9		N/A
 tz.co.asoft	raven-config-tvosx64	3.0.9	metadata	4ba19d4eb3c20751c88fd40b7694177aa693f8b3
+tz.co.asoft	raven-config-tvosx64	3.1.0	metadata	802caec3823b5fa5388101d5c7a83f6a2a9a722d
+tz.co.asoft	raven-config-tvosx64	3.1.1	metadata	5daf7c7a3c88371681c299e8b1ad02d5d8b235d4
+tz.co.asoft	raven-config-tvosx64	3.1.11	metadata	f2c1dc90438762089c6d99ce52a842a04742010c
+tz.co.asoft	raven-config-tvosx64	3.1.12	metadata	6bb065e6f31d80b2fb71e875e356e7a4f58a657a
 uk.co.andrewreed	web3kotlin-iosarm64	0.0.8		N/A
 uk.co.andrewreed	web3kotlin-iosarm64	0.0.8	metadata	71c19d859ff35f44abe58524cf9e07512286874e

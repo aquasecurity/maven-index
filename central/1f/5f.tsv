@@ -40,6 +40,7 @@ cloud.piranha.dist	piranha-dist-servlet	25.1.0		cd78eb5c7a5b9ce9afa569b91d87b959
 cloud.piranha.dist	piranha-dist-servlet	25.2.0		4b29c83c048a9d5228d9474407581eeeed1c5ae8
 cloud.piranha.dist	piranha-dist-servlet	25.3.0		439a61ad1941bc9f85e16297fe80b0b4a7b5ffd8
 cloud.piranha.dist	piranha-dist-servlet	25.4.0		a5500cfde3a05bdafbe763036528f7714c1626f6
+cloud.piranha.dist	piranha-dist-servlet	25.5.0		04ffec2c41a89b38982ec54de33e1335875ca612
 cn.entertech.android	affective-sdk-manager	1.2.6		N/A
 cn.entertech.android	affective-sdk-manager	1.2.6-obsession		N/A
 cn.entertech.android	affective-sdk-manager	1.2.7-vr-control		N/A
@@ -767,6 +768,7 @@ dev.zio	zio-aws-chime_2.12	7.31.27.1		ac3d2af5a6d55ad741a5b70a7f169e91081f973b
 dev.zio	zio-aws-chime_2.12	7.31.28.1		25589b18423a07ef7b9f124f803557da912d96c7
 dev.zio	zio-aws-chime_2.12	7.31.3.1		c59c460262cf6ede00507c8138ff36e9a08e866b
 dev.zio	zio-aws-chime_2.12	7.31.30.1		0f0de7971f062cebf801324e403ae1b2d3c5f104
+dev.zio	zio-aws-chime_2.12	7.31.30.2		222169a50d35f7a620a6ee4d696b5901dc20c5f9
 dev.zio	zio-aws-chime_2.12	7.31.4.1		7e5518371e91aec01b8b4e14ba453ce9dd77481e
 dev.zio	zio-aws-chime_2.12	7.31.6.1		217c8a24b4c235d816d37d2b583eeb4c609b54d1
 dev.zio	zio-aws-chime_2.12	7.31.6.2		3890def6b8d2a4292669e928c2e7f3a300bb9fb8
@@ -1092,6 +1094,7 @@ dev.zio	zio-aws-codedeploy_2.12	7.31.27.1		034795e165260faccdfb08fe2f145ab7f42cc
 dev.zio	zio-aws-codedeploy_2.12	7.31.28.1		ac377add0cf64c23401f6de5073a3116b06fa6d6
 dev.zio	zio-aws-codedeploy_2.12	7.31.3.1		bbb37e088e59928b74b9c7be35fdd6ff9b9601d4
 dev.zio	zio-aws-codedeploy_2.12	7.31.30.1		e86b38da6e393e2819e3b4543db4e6b851a5413a
+dev.zio	zio-aws-codedeploy_2.12	7.31.30.2		3e8803cf933d91dfb4f2adbffa1ed0f2be807c88
 dev.zio	zio-aws-codedeploy_2.12	7.31.4.1		9b690a33791e3d0868fe7dbebbdce12f0184bc04
 dev.zio	zio-aws-codedeploy_2.12	7.31.6.1		bd801fd5d0ab0a780b3e2cd3f087d0b4c7ebafc7
 dev.zio	zio-aws-codedeploy_2.12	7.31.6.2		a8be0cffa959a756654c68e45a0c278c6aff8d88
@@ -1417,6 +1420,7 @@ dev.zio	zio-aws-ivs_2.12	7.31.27.1		a8408589a520c6f70643a7564e73f0c5ce589871
 dev.zio	zio-aws-ivs_2.12	7.31.28.1		07efcd52b5d7c987309743f31e0c4dcf98dc6f74
 dev.zio	zio-aws-ivs_2.12	7.31.3.1		6bf73f3e9a14caafe1d11f3236adde2357c65d5b
 dev.zio	zio-aws-ivs_2.12	7.31.30.1		dd1e3b4e663d9f3c254bb9582f194574210246d8
+dev.zio	zio-aws-ivs_2.12	7.31.30.2		353b946ea7a620f84ed800afd4d5bf674943f7e8
 dev.zio	zio-aws-ivs_2.12	7.31.4.1		9c714848e0e9637a57df380ccd2464b46f5efe4e
 dev.zio	zio-aws-ivs_2.12	7.31.6.1		f464f2fa60a78474d2b36ebbcd4492982ef9556d
 dev.zio	zio-aws-ivs_2.12	7.31.6.2		0f773e8ffe59ac39db6bdcb1b882e3462ae69fc0
@@ -1707,6 +1711,7 @@ io.camunda	zeebe-expression-language	8.4.15		d89d7c35ba61e213a21559329020c90091f
 io.camunda	zeebe-expression-language	8.4.16		7006b072a6a0ec588e601004ebd268214e0785fa
 io.camunda	zeebe-expression-language	8.4.17		7baff3d0b761cd67e8d46fb2534df2430e102495
 io.camunda	zeebe-expression-language	8.4.18		6d1984769c3e0c045a804bbbc45fdeb84a74e0be
+io.camunda	zeebe-expression-language	8.4.19		c283c9334a85806b78249222c670b96223df1ded
 io.camunda	zeebe-expression-language	8.4.2		e5da0575eddd27a0d2effe7591bd58916ea2eb0b
 io.camunda	zeebe-expression-language	8.4.3		468e7a3595d9f693256ea238ea468c905dd632cd
 io.camunda	zeebe-expression-language	8.4.4		9b6926a36ecc48f6bf280f65a1c34b7f7aa2fd7a
@@ -1729,6 +1734,7 @@ io.camunda	zeebe-expression-language	8.5.14		6b42bad68c87256debe3d92977af29098f6
 io.camunda	zeebe-expression-language	8.5.15		d71a05a970c97ad08ddfefa13a33dd72d21e345f
 io.camunda	zeebe-expression-language	8.5.16		5cae7b1232e639c0e6b212c42a057777f6128e2d
 io.camunda	zeebe-expression-language	8.5.17		1efb82fa728932d453a66f86b6e00cd5ea09fc4f
+io.camunda	zeebe-expression-language	8.5.18		60d45ce4b3bf0a629ae44ab38b896467932eb5cf
 io.camunda	zeebe-expression-language	8.5.2		4373f838aad04fd544b35899e471d28bedf8b8fd
 io.camunda	zeebe-expression-language	8.5.3		a228154c82ac6b92df419a9b4a2f89e354f055bf
 io.camunda	zeebe-expression-language	8.5.4		e727546bea24c52d919c028aa2cdfb009c8ef366
@@ -1766,6 +1772,8 @@ io.camunda	zeebe-expression-language	8.6.12-rc1		1bac24761f54d81e50265102147b3ea
 io.camunda	zeebe-expression-language	8.6.13		dd6463392185cd4b824adef0c34ca5f50142a95a
 io.camunda	zeebe-expression-language	8.6.14		515d8e18d841312d29b5d920855ee74d1d8ecf82
 io.camunda	zeebe-expression-language	8.6.14-rc1		c0622ed93e3f368572e6654f26f57686c4e64084
+io.camunda	zeebe-expression-language	8.6.15		fc4f21ccdf9bf112260824af118a8631e5cd6d96
+io.camunda	zeebe-expression-language	8.6.15-rc1		449b730bf5ce2a47eca6e79c33f8d0397a8c87f5
 io.camunda	zeebe-expression-language	8.6.2		2e9287ecda0817bde2c942f8acd19dd86206ec48
 io.camunda	zeebe-expression-language	8.6.3		a2c1f29ec7e02f6adea7ea09b172e83a41d20026
 io.camunda	zeebe-expression-language	8.6.4		f665ec26f5a49a85b89a18ddfa433e38915333a5
@@ -1801,12 +1809,15 @@ io.camunda	zeebe-expression-language	8.7.0-alpha5-rc1		4c6c8e93892c9677ce23d0ded
 io.camunda	zeebe-expression-language	8.7.0-rc3		cc9c307bf722998124eca33493f1ffe62cd7af4a
 io.camunda	zeebe-expression-language	8.7.1		8fbb5b4c0fa553f463a2662e346e65058fb58f2e
 io.camunda	zeebe-expression-language	8.7.1-rc1		5e1371377de9551d585e574343c5252367608d26
+io.camunda	zeebe-expression-language	8.7.2		b018ec991baf79cc57a7592c639473eda98c4b25
+io.camunda	zeebe-expression-language	8.7.2-rc1		3369f2a136019253269e3dec9ffda0f36145d772
 io.camunda	zeebe-expression-language	8.8.0-alpha1		e96195ebe7ec1d4e374edbf8d5c08d020da4f08c
 io.camunda	zeebe-expression-language	8.8.0-alpha1-rc1		85c852e40c1fcbac30deda5f6f7b1888183ec2a4
 io.camunda	zeebe-expression-language	8.8.0-alpha2		43a9c394f9584e6d7e1b9e03aa4f5376d541a4bb
 io.camunda	zeebe-expression-language	8.8.0-alpha2-rc1		6f5addb53685d3dee249bca6714d63c97b3f47b8
 io.camunda	zeebe-expression-language	8.8.0-alpha3		d6441ac03b914115ad536e63f3abb6b60dab2cb5
 io.camunda	zeebe-expression-language	8.8.0-alpha3-rc3		b9d5b8889093262974f0f5c8ff6c9077b7cdadca
+io.camunda	zeebe-expression-language	8.8.0-alpha4		e15657c29a19e10ebf3fdb5af742c1cb638f67c0
 io.camunda	zeebe-expression-language	8.8.0-alpha4-rc1		f75678d06f10d7a2b8d9410225dfd8a9534a4052
 io.circe	circe-parser_sjs1.0-RC2_2.12	0.13.0-M1		7b7e3a21360db9e70cd2f352f50ef29517bceaf8
 io.circe	circe-parser_sjs1.0-RC2_2.12	0.13.0-M2		2fc88b6079dd2fb6d444e1a6f2278851db34acd1
@@ -1820,6 +1831,23 @@ io.github.astrapi69	jaxb-extensions	1.3		ceb033983f7a96f084a7e81c004ecde5f7830b9
 io.github.astrapi69	jaxb-extensions	2		fa0f4217114cf9d96e27231b158fde5108888a40
 io.github.astrapi69	jaxb-extensions	2.1		8a537f7edc5f976951534e707fd2d33cc57103d5
 io.github.douglashiura	picon	5.10.4		de8185edf12257dbac73ad2f325ee8594d0134c4
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	2.2.2		d7488741d1af3d0dacbcb3561cd9e0014a082d21
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	3.1.10		cec9218bd58f9fe199ba93463bb426c96f2f418c
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	3.1.11		6df825ae13231a14841c992494fee7a5f6bf3053
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	3.1.12		4662871eaf0cd11278fb021f8f5f152f92e41285
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	3.1.13		9fce4844314e498c5e61e75edb499c6ba58603de
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	3.1.14		dd38e41c196304133070143c691089d2889b3614
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	3.1.9		d3ba0b2337cd3b1ff2a640fffab6600b4a2b5704
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.0.11		a600d6e44dad1bbaad8ca773e08767a8ccb2094b
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.1.0		6d3db55d527b699f56e9e157ab097bad3fdfb63e
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.1.1		ff30c0138ceff4bf351d6de300171154c327c1cd
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.1.2		98a83dbc690d8e72adfe774209b55bdf41bf3ec3
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.1.3		84184c524e6a382ec77d507e88809b7d1cc2002d
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.1.4		595e68d049279c064a42e5b0443d5f0ebeebc24b
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.1.6		92fb9a8c0e684c67dbbb9d1793c753d273ac3e95
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.1.7		e24c704895c45033715e26cd3e0662ba96287e08
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.2.0		7ff1595a03613316b02eacfe8bb248229d6a68d2
+io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.2.1		c4112e3294c584fe68a534c271494ad2f204e3fd
 io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.2.2		3d26f940b7f53736dd5157f970c6931bd6277987
 io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.2.3		4eb4a7a2f35b7d3c4e8fe798daf52931e1e956cc
 io.github.kalin-rudnicki	harness-js-plugin_2.12_1.0	4.2.5		083c380d243cb2348046c9e311b49d0f239770f9
@@ -2222,6 +2250,8 @@ io.ktor	ktor-server-data-conversion-iosx64	3.1.1		c3b1b0a0a95659a3d627a1ff86e7f8
 io.ktor	ktor-server-data-conversion-iosx64	3.1.1	metadata	289c249e17f0e3766bc50557b9c66d0ec5ebce60
 io.ktor	ktor-server-data-conversion-iosx64	3.1.2		69dadeefcce7407ad9cab9164c00cd09324a2203
 io.ktor	ktor-server-data-conversion-iosx64	3.1.2	metadata	06e95fef04001016105f67115e54e3be2a25c359
+io.ktor	ktor-server-data-conversion-iosx64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-data-conversion-iosx64	3.1.3	metadata	1177e9d20991acb0fcfdfdc82462870ac06d5c93
 io.openliberty.features	io.openliberty.jakarta.annotation-2.1	23.0.0.10		N/A
 io.openliberty.features	io.openliberty.jakarta.annotation-2.1	23.0.0.11		N/A
 io.openliberty.features	io.openliberty.jakarta.annotation-2.1	23.0.0.12		N/A
@@ -2564,6 +2594,19 @@ org.eclipse.dirigible	dirigible-components-api-extensions	11.41.1		249a0778b86ac
 org.eclipse.dirigible	dirigible-components-api-extensions	11.42.0		7842003eaae99287cc48e703a7380c2fe87fe12e
 org.eclipse.dirigible	dirigible-components-api-extensions	11.43.0		fc86fc0c54b429aa3709aaf02cd02c137312bd57
 org.eclipse.dirigible	dirigible-components-api-extensions	11.44.0		fa17128e6582190a003f366569b058624e922b1e
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.0		2e678d7fc51803a3a8518db2b53237ff1b7b18a4
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.1		469ff5500329a0d16809eba9976099232f67e675
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.10		78b64a4e8902672f90fb049d08320d7ab3ebd79a
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.11		6e861af83d133ec29f2b4371c2544151bfdbc0e2
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.12		f9b3483897a04111f6bd1e260ca136693abeaa37
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.13		0fd00765d136097a3b5ced117071a066738bc95c
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.3		57d5619395f1dd39a20ec6d9421ec10d81b099db
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.4		0022996796f4830221fa766d7ea376ebcf03175d
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.5		5105e1b0bc50b99808c964c7e7050a186fb4bcaa
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.6		9f81f835e3dbfc2c29069de01f0350dfbb2c14ed
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.7		9973d38a5bd6ef6a27f11168bd0f904740a22ceb
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.8		b17dfa3b8f62cf2e46ca47a9c3b2018135ff02fe
+org.eclipse.dirigible	dirigible-components-api-extensions	11.45.9		aba49e98f8edb202492044d02214128cdc9f794c
 org.eclipse.dirigible	dirigible-components-api-extensions	11.5.0		5cae82c81415f8604a4e5e7ce78a4f3e7eab922b
 org.eclipse.dirigible	dirigible-components-api-extensions	11.6.0		c95e9bfdb38221b69ee8b20fb96e7da2e67bf47d
 org.eclipse.dirigible	dirigible-components-api-extensions	11.6.1		b9d30cc344521f80176582f02b55e893dc43c89d
@@ -2788,10 +2831,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.79.0		
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.80.0		ed64bfb39671b41c05452fe23b05d12b8895cec5
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.81.0		da9e08f1417e6c67985e79dab918c4bb403ea86e
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.82.0		48b37346b3e671d74b7f3697b0aa5e87bee905fc
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.82.1		f8cd9fbc470c57b207fffb7e8f4888b5124d76e1
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.83.0		59d9c4e9a23cc9e63593a8d405a607578a792349
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.83.1		b8ddec64cae9285f18ebd0b2c27842e7bc63a470
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.83.2		e9df3c940a32f0fa136428336dd3322e2151062f
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.83.3		4135197d53cf6080531a76b17be0ae42103f8013
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.84.0		a53cb69b2d9c45d986801b13fb3250031c37914f
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.84.1		9fb1ed30c2327ce62bec7a906097840b3865c7f6
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.85.0		c85bc755595fb2a8a3e72f4616f313ff2373765e
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.85.1		6b8fd6b3afb76de428f1f9348da6222ce1f21b1c
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.85.2		74ae9f3d67ee7ba1ccedc8eb353877f2e69a01c7
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-grammar	4.85.3		a1a7f7d12027ec161c4743a6d5e97d93c9716d4d
 org.hawkular.inventory	inventory-bus	0.0.5		3b5ac84ec75bd89719ffdec35c599c9f9a9da81d
 org.hawkular.inventory	inventory-bus	0.0.6		d7144f459cf908a8d926141873c94e8106238c04
 org.hawkular.inventory	inventory-bus	0.0.7		2df40c03483ff130a4561fc26bf802063e339db1
@@ -3109,6 +3159,8 @@ org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	55.3.0		ee71
 org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	56.0.0		fb4e7c8614819cea77ea0a8afc5dbed161089c33
 org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	56.1.0		362adc1adb561068b831f3c9f8b9f1a5e2743f08
 org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	57.0.0		4ce67e9ba2f5685257b8e3560503598251447d8d
+org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	58.0.0		d50f3c1928e74a650ce3232796d4705b662c9be8
+org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	58.0.1		d82c76906f8c12c7c90bc134afd217a89151199d
 org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	6.0.0		e6e5647c2ada8bc5df8430c48cb71d1c803db250
 org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	6.1.0		52e4c210b572fddfb4ac9dec085aa680cb7c04b7
 org.ossreviewtoolkit.plugins.packagemanagers	python-package-manager	6.1.1		6e95f0a21a3ed3081480f3fc47be4bec712b6ed3
@@ -3247,6 +3299,8 @@ org.wso2.carbon.metrics	carbon-metrics	2.3.4		N/A
 org.wso2.carbon.metrics	carbon-metrics	2.3.5		N/A
 org.wso2.carbon.metrics	carbon-metrics	2.3.6		N/A
 org.wso2.carbon.metrics	carbon-metrics	2.3.7		N/A
+org.xerial.sbt	sbt-sql-td_2.10_0.13	0.4		b2136ac0a9fa22387761337509b7d5b0a49cc541
+org.xerial.sbt	sbt-sql-td_2.10_0.13	0.5		444fe8d4f3013b881a57ca1b49a03297eaf0ed66
 ru.dimsuz	yolk-iosx64	1.1.0		N/A
 ru.dimsuz	yolk-iosx64	1.1.1		N/A
 ru.dimsuz	yolk-iosx64	1.1.1	metadata	383cedccd84483068671143db65c752ae1c97650

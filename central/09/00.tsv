@@ -27,6 +27,7 @@ cn.itlym	shoulder-starter-mysql	1.0.0-M3.2		937b37db65ceb5a8ebfdabf4d92b7e8ccf83
 cn.itlym	shoulder-starter-mysql	1.0.0-M3.3		619a73b180541ea74c0c156a8c281b2d0c9c9823
 cn.itlym	shoulder-starter-mysql	1.0.0-M4		a43c58a35946b0f951e9a7c0ac14716cd1c61644
 cn.itlym	shoulder-starter-mysql	1.0.0-M4.1		b1365704726f631e5c363a0edc411025dcc671ea
+cn.itlym	shoulder-starter-mysql	1.1.0		7325a1f892d54c2154db20c7f282f0c5004ec602
 com.beastwall	storage-manager	1.0.0		f2f1bda44f66ce12e6b34eeddbf3ec303c5a7edd
 com.beastwall	storage-manager	1.0.1		90a0a64bfda493ca0cdd1ef6d1717f1f2b6f9ee2
 com.beastwall	storage-manager	1.0.2		106463330778442889714b8027d54188280cc0ce
@@ -837,6 +838,7 @@ dev.zio	zio-aws-ses_2.12	7.31.27.1		46e26feca65971d0426f31c93dbb762bbf767f76
 dev.zio	zio-aws-ses_2.12	7.31.28.1		595f136cb33a7987823677c9649071f52c3f60dc
 dev.zio	zio-aws-ses_2.12	7.31.3.1		96269c226cc61f065214f2c23c69c742c03c7d16
 dev.zio	zio-aws-ses_2.12	7.31.30.1		2fa5e4c01e37e45c6ce1cc59cc926a3506105d3d
+dev.zio	zio-aws-ses_2.12	7.31.30.2		611fcafd5b5d7cb6699df6881f149b04f81dbeef
 dev.zio	zio-aws-ses_2.12	7.31.4.1		d3917932ab9f7fe60fbcf3dfd7891f81caaa5ac2
 dev.zio	zio-aws-ses_2.12	7.31.6.1		8f08c09a506d158a9c4496f36d81aa4e85f32449
 dev.zio	zio-aws-ses_2.12	7.31.6.2		438ca3bad7a4cb2cf5adfd0e4b1f08fd9d82da57
@@ -909,6 +911,8 @@ io.github.jan-tennert.supabase	auth-kt-jvm	3.1.1		579705f9ed9118e8bf1ceaa42373d2
 io.github.jan-tennert.supabase	auth-kt-jvm	3.1.2		202425f6325d839bb5089cdc714f8d5613532f2d
 io.github.jan-tennert.supabase	auth-kt-jvm	3.1.3		d9ef2a5e1a25be8381243c6b52e4892e54535147
 io.github.jan-tennert.supabase	auth-kt-jvm	3.1.4		7804398e477e562ee02d1b40566aa287e5af36fa
+io.github.jan-tennert.supabase	auth-kt-jvm	3.2.0-beta-1		2fec33568add70b68ec9b836f93376b44cbc8283
+io.github.jan-tennert.supabase	auth-kt-jvm	3.2.0-beta-2		f3515a3c2edc4068afac331c65f5416a7c175833
 io.github.mind-boot	mind-boot	1.0.0		N/A
 io.github.mind-boot	mind-boot	1.0.0-RELEASE		N/A
 io.github.mind-boot	mind-boot	1.0.1		N/A
@@ -1227,6 +1231,7 @@ org.apache.beam	beam-sdks-java-io-clickhouse	2.61.0		c3609bba1286ee8e81f252ef4d9
 org.apache.beam	beam-sdks-java-io-clickhouse	2.62.0		12241be4ffe621c82cc85640565645306d2b7d1a
 org.apache.beam	beam-sdks-java-io-clickhouse	2.63.0		6c512b4abd8406a9479fcc3889e86cb43f2cbc5c
 org.apache.beam	beam-sdks-java-io-clickhouse	2.64.0		3b2440833c16dee421b2445771f3391758df0915
+org.apache.beam	beam-sdks-java-io-clickhouse	2.65.0		32ba39e4886d472a977b161499a43ebbb7e4205f
 org.apache.inlong	sort-connector-doris	1.10.0		d6bd2be1951b92a08287a167f2a40cee3d03af23
 org.apache.inlong	sort-connector-doris	1.11.0		50a24ecb74c26694d23b58979c3177c6887979b7
 org.apache.inlong	sort-connector-doris	1.12.0		7741e2326f8f398e1f642284d31032f6e6954b1f
@@ -1287,6 +1292,7 @@ org.daisy.pipeline	saxon-adapter	5.5.0		97cf206961e7d54a1d2aec8c0dde042f835db1bf
 org.daisy.pipeline	saxon-adapter	5.6.0		f85acc685840e9d37d2b7bb56640caf8fa9ba149
 org.docx4j	docx4j-ImportXHTML-core	11.4.10		aed01e9f9465840c0b4ed41f025848fb6bb2e705
 org.docx4j	docx4j-ImportXHTML-core	11.5.0		1f1873bc949af0c9888ae3024d93ff9cc1d90836
+org.docx4j	docx4j-ImportXHTML-core	11.5.3		128e6fd17d912beacff42b2b8315bcfa757be7e8
 org.dromara	hmily-annotation	2.0.0-RELEASE		76a4d1d3adac78d127a11c8b0a1c6b2c93e24347
 org.dromara	hmily-annotation	2.0.1-RELEASE		87c580a73ab47ae2f6375b04170bbb6ce6ded6f3
 org.dromara	hmily-annotation	2.0.2-RELEASE		9b686cc520ed57e3b07e2049b471f4b7d28fcb36
@@ -2089,7 +2095,18 @@ software.amazon.awssdk	costoptimizationhub	2.31.30		63fc489de7bddea78f14b4d6f5bf
 software.amazon.awssdk	costoptimizationhub	2.31.31		ae68a66a73cf8929d1e6326283784178a14921fb
 software.amazon.awssdk	costoptimizationhub	2.31.32		09bb14a810be4539a8cd50cb17d68cd5aa54522f
 software.amazon.awssdk	costoptimizationhub	2.31.33		dde09640544e14ee69fb630f3a9c6f23b6e71438
+software.amazon.awssdk	costoptimizationhub	2.31.34		9e4fd6eb6a29a4ae971e02cadeec4906d522487f
+software.amazon.awssdk	costoptimizationhub	2.31.35		d2d9aa3396cb1fcab4a8e557be46ee0a093a4e8e
+software.amazon.awssdk	costoptimizationhub	2.31.36		aa7f82929ab379c36f923318c059ba3bc0434e4a
+software.amazon.awssdk	costoptimizationhub	2.31.37		1b6eeb584d6d9e1f6ead83949f3cd76c89a55137
+software.amazon.awssdk	costoptimizationhub	2.31.38		4bd3436afac52d47a4e4705a8d863501927b051c
+software.amazon.awssdk	costoptimizationhub	2.31.39		f1de0c62b918b34ce2c259c153619793cecf94b3
 software.amazon.awssdk	costoptimizationhub	2.31.4		21c8e814338a52ca444f9358b1f24b47f8927875
+software.amazon.awssdk	costoptimizationhub	2.31.40		d463c3ce0238bc5a4bdce540753205d01433188d
+software.amazon.awssdk	costoptimizationhub	2.31.41		d8fcd34ee7c9a897ac7359a21aa940c487416b1d
+software.amazon.awssdk	costoptimizationhub	2.31.42		442d31b60e6422acf035cb156dc6c084452942b7
+software.amazon.awssdk	costoptimizationhub	2.31.43		e409900b3f9fac14e67d23008c61d1a9fce31bd4
+software.amazon.awssdk	costoptimizationhub	2.31.44		7b1ed2ab44c05d375358a6506a696fa9eda66c0c
 software.amazon.awssdk	costoptimizationhub	2.31.5		8c5b9e986b6a19deb6c217f6ae158bc00d004997
 software.amazon.awssdk	costoptimizationhub	2.31.6		090a1f6512e1094ffdfb382197d9271b83a48552
 software.amazon.awssdk	costoptimizationhub	2.31.7		a35de210b2d93478726f38e945e286d316b8a7eb

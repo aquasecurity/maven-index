@@ -456,6 +456,7 @@ com.noumenadigital.platform	api	2025.1.1		8528f6cb3d07a2c0964801b33a0a0cb7b5da93
 com.noumenadigital.platform	api	2025.1.2		0cfa381a7e583413890a6862021b619e476e665e
 com.noumenadigital.platform	api	2025.1.3		0499dff44d15a5e28cdb4260f052f4adba03446a
 com.noumenadigital.platform	api	2025.1.4		b86900d47684f061f6ecb4ce1b555d0d1f78bd1a
+com.noumenadigital.platform	api	2025.1.5		c0f0bd6bb3f0311d3c3018ba9839ff7abdd9027a
 com.ocadotechnology	sttp-oauth2-jsoniter_2.12	0.17.0-RC1		791a83fbbbafc1740ea58dec95655e281dab61a6
 com.ocadotechnology	sttp-oauth2-jsoniter_2.12	0.18.0		199998b248c3357cb2853107f180572ddd5b797e
 com.sap.cloud.security.ams.client	java-ams-test	1.0.3		c2300a9be49e6bb2922d484ebaa786f95303333e
@@ -471,6 +472,8 @@ com.sap.cloud.security.ams.client	java-ams-test	2.0.0		1bfa35aa5b28a24073cf47b26
 com.sap.cloud.security.ams.client	java-ams-test	2.1.0		5c66968b51df8db631b7e8cc7a1cad6c3a9022ea
 com.sap.cloud.security.ams.client	java-ams-test	2.2.0		82a595c9d576aa72b70f7b4f4d4b3f10ccce7fc7
 com.sap.cloud.security.ams.client	java-ams-test	2.3.0		01c2b78e1aa5c5903b3e823da3cdd6747051cde6
+com.sap.cloud.security.ams.client	java-ams-test	2.4.0		c2f051dff4cc4a26769e8ec35b8e6692648261d1
+com.sap.cloud.security.ams.client	java-ams-test	2.5.0		99b0df413fcae52d216138724809013fe5ad4f31
 com.sayrmb.guard	sayrmb-parent	1.0.0		N/A
 com.sayrmb.guard	sayrmb-parent	1.0.1		N/A
 com.soywiz	korlibs-dyn-linuxarm64	6.0.0		N/A
@@ -726,6 +729,7 @@ io.kotest	kotest-runner-junit5	5.9.1		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.kotest	kotest-runner-junit5	6.0.0.M1		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.kotest	kotest-runner-junit5	6.0.0.M2		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.kotest	kotest-runner-junit5	6.0.0.M3		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+io.kotest	kotest-runner-junit5	6.0.0.M4		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.muenchendigital.digiwf	example-s3-integration-client	0.0.1		499e145bb2f89373e31c7e26a3bcde47b455cac4
 io.muenchendigital.digiwf	example-s3-integration-client	0.0.2		65890c12235ca3f31520c27b50aa76529896905d
 io.muenchendigital.digiwf	example-s3-integration-client	0.0.3		98ae134f663443b12f666e77b535afa8bc94690b
@@ -1065,6 +1069,7 @@ io.quarkus	quarkus-scala-deployment	3.15.2		815f5b5f94dcfa59f59fd35cb93989dcb399
 io.quarkus	quarkus-scala-deployment	3.15.3		867c4d33d38652dbaa3b2e812dd13c34c1378378
 io.quarkus	quarkus-scala-deployment	3.15.3.1		30758f3cec4f87508409125d43839860cf4627cc
 io.quarkus	quarkus-scala-deployment	3.15.4		f48f760eb96267fff112af6158420e0e13f98a1e
+io.quarkus	quarkus-scala-deployment	3.15.5		2da3ab2e2c239a842c4612fd955381468d16b69d
 io.quarkus	quarkus-scala-deployment	3.16.0		48950b967d703d5411c4ba5edd67fe10222a7ef2
 io.quarkus	quarkus-scala-deployment	3.16.0.CR1		6e809d0fcd309bbf4797f5a75a56776af64fbd6b
 io.quarkus	quarkus-scala-deployment	3.16.1		cd51cdeb171e5ceeadf1ff720895bf5a12d81536
@@ -1109,6 +1114,7 @@ io.quarkus	quarkus-scala-deployment	3.2.8.Final		2c6649b3eaf8a7637f34d15fdb84677
 io.quarkus	quarkus-scala-deployment	3.2.9.Final		af0a856103626574ab15c3da68f9f2c81f134363
 io.quarkus	quarkus-scala-deployment	3.20.0		8669262be404e7e899708a676452fa7ad5ce75b3
 io.quarkus	quarkus-scala-deployment	3.20.0.CR1		91e371665db5198383dda8a3f754262719b45227
+io.quarkus	quarkus-scala-deployment	3.20.1		f1def80aa1f8cada68b18c00a28a5fae422b72f6
 io.quarkus	quarkus-scala-deployment	3.21.0		d6c98f3325a7d9315c6bc68b9825a357e77adb64
 io.quarkus	quarkus-scala-deployment	3.21.0.CR1		926da73502f3a08daa190eebe7b942c7178e342c
 io.quarkus	quarkus-scala-deployment	3.21.1		f486383c231231c73184422f2844b222b0d7edc3
@@ -1118,6 +1124,9 @@ io.quarkus	quarkus-scala-deployment	3.21.4		6ba59fc3c6d3fbaef4fe81e73f8b587b0827
 io.quarkus	quarkus-scala-deployment	3.22.0		547bc6390232436069323b0bf002f1b914880eed
 io.quarkus	quarkus-scala-deployment	3.22.0.CR1		308f08444a46fef5727bfe82e97c19ea37aafbc2
 io.quarkus	quarkus-scala-deployment	3.22.1		2ce1f5f8a13e01981f9c932d3463786016b6b9de
+io.quarkus	quarkus-scala-deployment	3.22.2		b5455d3eb4893b3cfdf53fa44d32a536fab12e6f
+io.quarkus	quarkus-scala-deployment	3.22.3		e3c9b75083f33a8f2c2ceb0d0f1a78ee89dd26a5
+io.quarkus	quarkus-scala-deployment	3.23.0.CR1		0115b88c6ef4511226f7e6c1d57802aa4653198c
 io.quarkus	quarkus-scala-deployment	3.3.0		92e477d612237e08f93da6f59dcf1a62a47d4742
 io.quarkus	quarkus-scala-deployment	3.3.0.CR1		d5f0b122684b60a389ca5952155a738ab1361e04
 io.quarkus	quarkus-scala-deployment	3.3.1		ffc7c00f338cac874744be553466656afb2ec991
@@ -1194,6 +1203,11 @@ it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.2		N/A
 it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.2	metadata	e119639129771a8dd36f918ee30c4dbfd487342c
 it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.3		N/A
 it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.3	metadata	c8623899e47ff3eccf60b12359641ab30fb47a4c
+it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.4	metadata	e3cb70a6be947b1c518306ab106de4fd6def6cab
+it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.5	metadata	6975f4fd985cfb22806e3dfe950f74b03a2b1c17
+it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.6	metadata	f9519e3c4e798c55e28ce4d6dcdafcb047164033
+it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.7	metadata	46c0dcf67158211f6b928e86d845035357da239d
+it.unibo.collektive	collektive-test-tooling-tvosx64	24.0.8	metadata	1d7f99591f8a541d1daed518ae87a7e5920f58de
 me.gulya.sqldelight	runtime-iosx64	2.0.2-wasm-web-worker-1		N/A
 me.gulya.sqldelight	runtime-iosx64	2.0.2-wasm-web-worker-1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 me.gulya.sqldelight	runtime-iosx64	2.0.2-wasm-web-worker-2		N/A
@@ -1793,6 +1807,8 @@ org.jetbrains.kotlin	kotlin-test	2.1.20-RC2		822805884f9cb089d255afa1db0a857e0ea
 org.jetbrains.kotlin	kotlin-test	2.1.20-RC2	all	db32d6a6ab6bcd5240908f8c5b4bb427739eecf9
 org.jetbrains.kotlin	kotlin-test	2.1.20-RC3		588c0fa5ffae8720d91444d3dbe40dcaffd44582
 org.jetbrains.kotlin	kotlin-test	2.1.20-RC3	all	db32d6a6ab6bcd5240908f8c5b4bb427739eecf9
+org.jetbrains.kotlin	kotlin-test	2.1.21		08cd4c9b8c8857aefc97662f582f613943519581
+org.jetbrains.kotlin	kotlin-test	2.1.21	all	db32d6a6ab6bcd5240908f8c5b4bb427739eecf9
 org.jetbrains.kotlin	kotlin-test	2.1.21-RC		ae40e3f76f6849d99687b576e8465e48b0770f99
 org.jetbrains.kotlin	kotlin-test	2.1.21-RC	all	db32d6a6ab6bcd5240908f8c5b4bb427739eecf9
 org.jetbrains.kotlin	kotlin-test	2.1.21-RC2		f8390c39c0ee6a2574c15367dd6e580beef73675
@@ -1801,6 +1817,8 @@ org.jetbrains.kotlin	kotlin-test	2.2.0-Beta1		995cfc31f82028ae353f62dbca1e2ac243
 org.jetbrains.kotlin	kotlin-test	2.2.0-Beta1	all	4315b905c910078e661de7739125fc6272ec89d9
 org.jetbrains.kotlin	kotlin-test	2.2.0-Beta2		0e134fee99f2d53ec6cb98589488a4be2abbc337
 org.jetbrains.kotlin	kotlin-test	2.2.0-Beta2	all	eb599863a834624d52efc47ba3180084a8de4426
+org.jetbrains.kotlin	kotlin-test	2.2.0-RC		492ed4cff3b3251807ce3fd328f975c38dc76659
+org.jetbrains.kotlin	kotlin-test	2.2.0-RC	all	eb599863a834624d52efc47ba3180084a8de4426
 org.kie	kie-dmn-ruleset2dmn-cli	10.0.0		01f3d7faac9f8bf58536ee5707601752d6d68ddb
 org.kie	kie-dmn-ruleset2dmn-cli	8.26.0.Beta		b4eff3d432ab114b83e9baf3a346505278751162
 org.kie	kie-dmn-ruleset2dmn-cli	8.27.0.Beta		187d12403be0098ffe5fc92e6241620f4b7b3e26
@@ -2073,6 +2091,7 @@ org.teavm	teavm-relocated-libs-commons-io	0.10.0		75eb588f476aa71ac902e63624eb2a
 org.teavm	teavm-relocated-libs-commons-io	0.10.1		75eb588f476aa71ac902e63624eb2aa9f6709640
 org.teavm	teavm-relocated-libs-commons-io	0.10.2		75eb588f476aa71ac902e63624eb2aa9f6709640
 org.teavm	teavm-relocated-libs-commons-io	0.11.0		f636336569a8fa76760bb560783baa10dd10cafd
+org.teavm	teavm-relocated-libs-commons-io	0.12.0		45ee887b8031ae08da073b40145d9374f119b63e
 org.teavm	teavm-relocated-libs-commons-io	0.8.0		cbe083174fc5f21cc871183db8342e655cf224d5
 org.teavm	teavm-relocated-libs-commons-io	0.8.1		cbe083174fc5f21cc871183db8342e655cf224d5
 org.teavm	teavm-relocated-libs-commons-io	0.9.0		cbe083174fc5f21cc871183db8342e655cf224d5
@@ -2152,6 +2171,8 @@ org.yakworks	security-core	7.3.80		4c4574c946395c25abfd954a4095eaa032b45784
 org.yakworks	security-core	7.3.81		b25d5db19268bc411ed28deb1a3bd1af1618abef
 org.yakworks	security-core	7.3.82		5b22c949d52ea79d927538fdda19c6f865bfd8af
 org.yakworks	security-core	7.3.83		a5c0e0118e7c50f34317ffcd762c734468ab1594
+org.yakworks	security-core	7.3.84		c4911e271dc24ec20af93acfd3e2ec017568e2f3
+org.yakworks	security-core	7.3.85		45a430295c0a54afbc06f45b4312a4f9e86c0d48
 ru.fix	gradle-release-plugin	1.2.17		97dfa0c0b9826f1cbae886808ae27ab86950a799
 ru.fix	gradle-release-plugin	1.2.18		27ef19ddc3eb774ab1ba369a538a026a7eb6418a
 ru.fix	gradle-release-plugin	1.2.19		e0df39556e999ac010dcd10d2cd52c438d37fe2e

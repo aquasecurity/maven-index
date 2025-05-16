@@ -388,6 +388,8 @@ com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.63.0		a87f
 com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.64.0		142abfb3f9edbc86995e1e42d20c101544f1b231
 com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.65.0		c5ca0c6259cbb43f969dfb91c77e66ee0ed9a301
 com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.66.0		794c5049850ae3669831167f5496166a560c1bcf
+com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.67.0		72b56749db7aa53d35224a91c020d6e757d324e3
+com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.68.0		03b61a5fb9964e47dfe7ffd08730b3187acc5dcc
 com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.7.0		9434526bebecc7fce12f462dc93093ec9a1ed329
 com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.7.1		0fa895306bed9d66b472400feeda5a3d5e9b3879
 com.google.api.grpc	proto-google-cloud-networkconnectivity-v1alpha1	0.7.2		c4fc6b757a75c89eb5708355b2cc390a3dc402cb
@@ -724,6 +726,7 @@ de.xn--ho-hia.memoization	memoization.java	2.0.0-20160802182936		N/A
 dev.andrewbailey.difference	difference-ios-x64	1.0.0		N/A
 dev.andrewbailey.difference	difference-ios-x64	1.1.0		N/A
 dev.andrewbailey.difference	difference-ios-x64	1.1.0	metadata	aeee7f7a9d13c468ea292f1eb7d8feb36b10ff59
+dev.andrewbailey.difference	difference-ios-x64	1.1.1	metadata	216a1b385a0c0be11035038d9b6b7f65e5332972
 dev.scottpierce	kinject-viewmodel	0.1.10		bfd17a5e97d6ed04e0f941ad956b43c33f35253b
 dev.scottpierce	kinject-viewmodel	0.1.11		8577cfbdf3b67b309715ba4ccabffdd135d85ffa
 dev.scottpierce	kinject-viewmodel	0.1.2		N/A
@@ -1052,6 +1055,7 @@ dev.zio	zio-aws-clouddirectory_2.13	7.31.27.1		1273f142aa59bf7182029c74608d6ee97
 dev.zio	zio-aws-clouddirectory_2.13	7.31.28.1		2a1e1a63ff5d7b51e737c3a4323f3c8bcef1aa60
 dev.zio	zio-aws-clouddirectory_2.13	7.31.3.1		ba5ae0cdf445131ba083b201d7f79b11585156d5
 dev.zio	zio-aws-clouddirectory_2.13	7.31.30.1		4aac59fd53686e557089a04b9b1b0dbaa9ed8495
+dev.zio	zio-aws-clouddirectory_2.13	7.31.30.2		52f5e1edd4b4b2e92869307b184c817fb1d60550
 dev.zio	zio-aws-clouddirectory_2.13	7.31.4.1		91c7ba2add0945aa391991c74bccbbdd886f5afb
 dev.zio	zio-aws-clouddirectory_2.13	7.31.6.1		bb6f8015201c88390a9b706c272442afdb58fa69
 dev.zio	zio-aws-clouddirectory_2.13	7.31.6.2		0ceb621ceefcf0b33a6ae7d01fdddf9b5f29fdf8
@@ -1351,6 +1355,7 @@ org.apache.maven	maven-compat-modules	4.0.0-rc-2		N/A
 org.apache.maven	maven-compat-modules	4.0.0-rc-3		N/A
 org.apache.shenyu	shenyu-discovery-eureka	2.6.1		6dc0f419ae6dce2fc9b8a36df456f1aa57650a04
 org.apache.shenyu	shenyu-discovery-eureka	2.7.0		c3416f3cd1680ed3faec63ed56d680c3442414a5
+org.caoilte	sbt-import-scala-files_2.12_1.0	2.0.0		55dfc57fbf6e7cbd9a63c3c09b24f34d65ae62d5
 org.clapper	grizzled-slf4j_2.9.1	0.6.10		eea9dcc5b6f6001a69a24a9ced78d2b3d99b4350
 org.clapper	grizzled-slf4j_2.9.1	0.6.5		c3ca1b8ee06171f95cd9c8aa5f6696afe8f0fdbc
 org.clapper	grizzled-slf4j_2.9.1	0.6.6		0282f4564c2a0a3401f8fd80fa3cad31235bcd57
@@ -1818,10 +1823,17 @@ org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.8.0	
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.80.0		170ba68a0153dd64e038e363d4488c27391ba494
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.81.0		b76f71767434f79d0ab2e7003ed16ee710f42a06
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.82.0		32d3daa2b8f3de252b108b9250c0fd1faee12ece
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.82.1		a54a5920687dba563a15e2b8c85a1a07ead6caec
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.83.0		861d4820b6bbd3ebff3da48fb1bce50e6454899e
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.83.1		bcfd8453699fc24dad22d395ff1b048ecfaa5573
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.83.2		9ea5fc76662cd5b3ce21acf8b0cec366bf21c335
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.83.3		058a017913cffa850f828505c672f33e203be922
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.84.0		8b3662e02bdcad2bf18493730d3f5235df6c3fd1
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.84.1		b66bd3f4cb0d44757bafae5b27c36754126bd2eb
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.85.0		a13d7c48567f3373b011e1330156e55bb8f3536a
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.85.1		e4179f5ba9fde793855c2439908bc989064fdf48
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.85.2		2ca5280bab9ef574d183feace5e25df7569dd7df
+org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.85.3		e20eea9d388f8fd1f9973f74c16d8988b7df11da
 org.finos.legend.engine	legend-engine-language-pure-dsl-service-execution	4.9.0		3004cd9d3228bc8962ec4aff2f0ccafdbf525fbf
 org.jboss.arquillian.core	arquillian-core-api	1.0.0.Beta1		b48a0e286ea658a29fe8dfec9f6aec40d172aa4f
 org.jboss.arquillian.core	arquillian-core-api	1.0.0.Beta2		6a65befd5f2a16466d3f4e503142fbdacda1eb83

@@ -156,6 +156,7 @@ com.fasterxml.jackson.module	jackson-module-no-ctor-deser	2.18.0-rc1		cac59fa085
 com.fasterxml.jackson.module	jackson-module-no-ctor-deser	2.18.1		24484b875128c4c5079e019f2d857e70b1580089
 com.fasterxml.jackson.module	jackson-module-no-ctor-deser	2.18.2		bb1d165d2166464a5e7f3e47ac7bdffaeaa16148
 com.fasterxml.jackson.module	jackson-module-no-ctor-deser	2.18.3		a91c236a9ab9cc44faa5ff75389d3c3fa6dff504
+com.fasterxml.jackson.module	jackson-module-no-ctor-deser	2.18.4		4e5d7ff23c574d7b32b47c5e07909f70e11bd1b4
 com.fasterxml.jackson.module	jackson-module-no-ctor-deser	2.19.0		094fae1b9be481f52fbbd545a1c38461ddbf8a6c
 com.fasterxml.jackson.module	jackson-module-no-ctor-deser	2.19.0-rc2		396599d3421caa8b52ace0677e6f38a3657858f6
 com.github.j5ik2o	pekko-persistence-dynamodb-state-v1_2.12	1.0.10		ee2cdbb60f651be8e7fb21f834b5ffaba4b6bad0
@@ -334,6 +335,7 @@ com.powsybl	open-rao-crac-io-cim	6.2.1		dcf9e447f690555195708b5aa098e503bda92db1
 com.powsybl	open-rao-crac-io-cim	6.2.2		8295233db7381e657eb5519ef1eacce89032dc32
 com.powsybl	open-rao-crac-io-cim	6.3.0		a52b5cea712551bea1bc6c51227d3397c3d3f5ad
 com.powsybl	open-rao-crac-io-cim	6.4.0		ea60518e12dd781f84a3458ebb3d2ff8458d7e84
+com.powsybl	open-rao-crac-io-cim	6.5.0		245d7ffc2046ea34db255b67444d6cd1cb360a6b
 com.softwaremill.sttp.client4	core_sjs1_2.12	4.0.0		0d08f19d2ea016fe90f369aa44b5b17dbc8368ca
 com.softwaremill.sttp.client4	core_sjs1_2.12	4.0.0-M1		0f33c87e967c47d5f0f849f453e84f4b1e3e8654
 com.softwaremill.sttp.client4	core_sjs1_2.12	4.0.0-M10		15b5637f208258f45b3e529286a23c8dfa05e891
@@ -473,6 +475,8 @@ de.gematik.test	tiger-test-lib	3.7.4		d60f52d334daba2097442cf16e0dc23e92921080
 de.gematik.test	tiger-test-lib	3.7.5		7195cd9b575c5c25e35b27d6a3f04e74c4a06282
 de.gematik.test	tiger-test-lib	3.7.6		404a7f0c672f6b448a307e0db0ae0a2576c180be
 de.gematik.test	tiger-test-lib	3.7.7		6c78e64f79d1817e0aebe569e29e6bf6c9c8faa3
+de.gematik.test	tiger-test-lib	3.7.8		b3164cc2f268ed1a940c297442ca474a252795a6
+de.gematik.test	tiger-test-lib	3.7.9		628a6c3b5357a812cf83aedb0bdac6b944bb4bb4
 de.rub.nds.tlsdockerlib	TLS-Docker-Library	2.0.1-timing		6d824bfef47cd7bb1c9cf438485de8f41ea00d3b
 de.rub.nds.tlsdockerlib	TLS-Docker-Library	2.0.1-timing	docker-info	5fc8476bedc1855a643ef4171f3f32adaae5f6a4
 dev.programadorthi.routing	status-pages-js	0.0.10		N/A
@@ -1018,8 +1022,10 @@ org.apereo.cas	cas-server-support-openrewrite	7.2.0-RC6		98b71fbe3790fe32e2d2d9a
 org.apereo.cas	cas-server-support-openrewrite	7.2.0-RC6	resources	5fecb8417d9dc0617a929140fd08964cec3dda3d
 org.apereo.cas	cas-server-support-openrewrite	7.2.1		a5bbea59587940cdd54a0bc7c78bdb48cec942b8
 org.apereo.cas	cas-server-support-openrewrite	7.2.1	resources	3c0865bf07e44e7edfad6d0b9f50209329e97a6b
+org.apereo.cas	cas-server-support-openrewrite	7.2.2		ffde29d6e08a1d217e68df7caa58b419c3c63064
 org.apereo.cas	cas-server-support-openrewrite	7.3.0-RC1		abbf82af8de496de0c88ea216fc770dc3ff063b5
 org.apereo.cas	cas-server-support-openrewrite	7.3.0-RC1	resources	9de29118e3e94067ccf829e5f5d26968963f8a6d
+org.apereo.cas.support.cas-server-support-openid	5.0.0.RC2	support		efc2a0445fd30f049063642a4d6f088d78df2adf
 org.atmosphere.samples	atmosphere-play-jersey	1.0.0		42e2f59a3a1859422b0ab7a86ee7a2c41eaa4938
 org.atmosphere.samples	atmosphere-play-jersey	1.0.0.RC1		c000cdd7ae9b6d18b2bcf8a73a77470444f55b84
 org.atmosphere.samples	atmosphere-play-jersey	1.0.0.RC2		a5967f9aff000310af1b1b5f3ececc99cded0fa4
@@ -1185,6 +1191,7 @@ org.openjdk.jmh	jmh-samples	1.9		8370dd3e48ce1bc5665cd902850c9be64e11d373
 org.openjdk.jmh	jmh-samples	1.9.1		13acaf7d079ab404fed05e310dc336aaf523f5f5
 org.openjdk.jmh	jmh-samples	1.9.2		bc54d72488325734df6732283d814e9383233ef5
 org.openjdk.jmh	jmh-samples	1.9.3		431d6ec083c278ccbec2f5ccbb6928daecf803f7
+org.opensearch	opensearch-agent-policy	3.0.0		bbcae64d2af0bebd6a1d200e088709477f8682f3
 org.opensearch	opensearch-agent-policy	3.0.0-beta1		765db3e50f11cf7883ce66059452e9ab2e06b15a
 org.opensmarthouse.core.bundles	org.opensmarthouse.core.model.persistence.ide	0.10.0		95b6aa3a7a26b974aae90a156a51e416f0c9e0f7
 org.opensmarthouse.core.bundles	org.opensmarthouse.core.model.persistence.ide	0.10.1		bf9b769eb1355c68e867842c8b43ae8d38154927

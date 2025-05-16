@@ -40,6 +40,7 @@ com.google.cloud	google-cloud-aiplatform-spring-starter	4.10.6-preview		c3028ff5
 com.google.cloud	google-cloud-aiplatform-spring-starter	4.10.7-preview		a5abf34ca21736210dfd9a0ffcfa76cd87402bdc
 com.google.cloud	google-cloud-aiplatform-spring-starter	4.10.8-preview		a80927457156aa016037642ae4c8e3c6ee0d6ecd
 com.google.cloud	google-cloud-aiplatform-spring-starter	4.10.9-preview		8ce8ddcf26844962a0e22aac9aa427fd334a9c03
+com.google.cloud	google-cloud-aiplatform-spring-starter	4.11.0-preview		83872cab5c008cb9ee0096ad8246933a93a612c3
 com.google.cloud	google-cloud-aiplatform-spring-starter	4.2.0-preview		35a50857040c150a767a924ad404136ba8652f7a
 com.google.cloud	google-cloud-aiplatform-spring-starter	4.3.0-preview		3fdabe7594a03696d1cea3157316dcd159e1ce68
 com.google.cloud	google-cloud-aiplatform-spring-starter	4.3.1-preview		a9cd36c1eac249b2c84bf69cb9ba126c8fd1514f
@@ -71,6 +72,7 @@ com.google.cloud	google-cloud-aiplatform-spring-starter	5.11.0-preview		739bec6e
 com.google.cloud	google-cloud-aiplatform-spring-starter	5.11.1-preview		cec34315d648a091046e00a539c720698e77f435
 com.google.cloud	google-cloud-aiplatform-spring-starter	5.11.2-preview		75746f89d6b9c1bd428efd5e31a612a50843565e
 com.google.cloud	google-cloud-aiplatform-spring-starter	5.11.3-preview		9069150d78f0e450524773a6a069784842f02a71
+com.google.cloud	google-cloud-aiplatform-spring-starter	5.12.0-preview		9c541a37f8de71ed72c33d8bfe60553c18c7d9f9
 com.google.cloud	google-cloud-aiplatform-spring-starter	5.2.0-preview		d973e63bd79398806a857c9e6bd4b710cdc11977
 com.google.cloud	google-cloud-aiplatform-spring-starter	5.2.1-preview		ee472d4be7785cee79720486f924a686989383f7
 com.google.cloud	google-cloud-aiplatform-spring-starter	5.3.0-preview		f9b6e1618a32e993edb5f3ec02e7e1c7be885864
@@ -121,6 +123,7 @@ com.slack.circuit	circuit-sharedelements	0.26.0		c05fce247971b6e4ac5756899c81520
 com.slack.circuit	circuit-sharedelements	0.26.1		c05fce247971b6e4ac5756899c81520c789bfae7
 com.slack.circuit	circuit-sharedelements	0.27.0		c05fce247971b6e4ac5756899c81520c789bfae7
 com.slack.circuit	circuit-sharedelements	0.27.1		c05fce247971b6e4ac5756899c81520c789bfae7
+com.slack.circuit	circuit-sharedelements	0.28.0		2d312d4564a7d87d9b60921db1268d1070a2f1c3
 com.sonar-scala	sonar-scala_2.13	8.7.0		11ea317ee43efd0d5a0dbe3a0eec90e7a9148c76
 com.sonar-scala	sonar-scala_2.13	8.7.0	assembly	d220c5418caff2209a5c5f9bca561053c72dfa3e
 com.sonar-scala	sonar-scala_2.13	8.9.0		f378549892971329e6e2ffa1ac337a2788262071
@@ -475,6 +478,7 @@ dev.zio	zio-aws-dlm_2.13	7.31.27.1		6f50e673cd0815755526cb468a1ca10f74d2a543
 dev.zio	zio-aws-dlm_2.13	7.31.28.1		46155a8210a36cb222f6d6ece571e4fb09beb8d5
 dev.zio	zio-aws-dlm_2.13	7.31.3.1		0352696225a1101a6b447dd4027a2621762e4118
 dev.zio	zio-aws-dlm_2.13	7.31.30.1		1e3aace85d5cbb88ea1124a2bcff804aee85f860
+dev.zio	zio-aws-dlm_2.13	7.31.30.2		c548b9462ca1c642bd68c93e5fddaab01930d5fe
 dev.zio	zio-aws-dlm_2.13	7.31.4.1		dcb6e4d1a3e914e9f8c599966963cf8d7eb8f1e0
 dev.zio	zio-aws-dlm_2.13	7.31.6.1		bf7a2bb7ffe775c3eb4d65360ad7878ba044a535
 dev.zio	zio-aws-dlm_2.13	7.31.6.2		7785a24ad5f6779346cdd18353ca7246b902d365
@@ -657,6 +661,7 @@ io.github.flaxoos	ktor-server-task-scheduling-jvm	2.0.0		2ad14aed781c4a73ed4dbb4
 io.github.flaxoos	ktor-server-task-scheduling-jvm	2.1.0		2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.github.flaxoos	ktor-server-task-scheduling-jvm	2.1.1		2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.github.flaxoos	ktor-server-task-scheduling-jvm	2.1.2		2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.github.flaxoos	ktor-server-task-scheduling-jvm	2.2.1		2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.github.frawa	typed-json-parser_2.13	0.0.1		417050f7197c0ba72711e1d96ea0e7a294bf6241
 io.github.greycode	shardingsphere-sql-translator-core	5.3.1.1		a5f39a7fe554200b74546aa79183389c8851253c
 io.github.greycode	shardingsphere-sql-translator-core	5.3.1.2		ebac5856b87378fdd5dd040898ee11eae7b92d2f
@@ -830,6 +835,8 @@ io.jooby	jooby-conscrypt	3.5.5		949a59c8fc7e3efbec1566032cdfc67e394111e8
 io.jooby	jooby-conscrypt	3.6.0		273abb5f7e31bc4d412e4f75ebaa3324521460c5
 io.jooby	jooby-conscrypt	3.6.1		e155672a5746ecee3ba71773ea35c4e43071edf2
 io.jooby	jooby-conscrypt	3.7.0		6b1682c8ca8b099c67e86aeab9ae2955ecab8044
+io.jooby	jooby-conscrypt	3.8.0		accffbb5c922a6d2b6096ae6e6f26461e5e95e7c
+io.jooby	jooby-conscrypt	3.8.1		6970f3e7060cf379dffd5982ddde322535af7466
 io.mraa.upm	upm_rgbringcoder	0.8.0		f498a8f068a165a93b8ddf2bbcdfd36cf5a68918
 io.mraa.upm	upm_rgbringcoder	1.0.0		245a1a6878fd4510aedb443ac21a9ef4087d2d4c
 io.mraa.upm	upm_rgbringcoder	1.0.1		b70a53580eb30ce6b82ebeeb9c07e6f095bbf2de
@@ -1078,6 +1085,7 @@ org.apache.camel.quarkus	camel-quarkus-stream	3.2.1		e1d23cf5803a680632873c25ea7
 org.apache.camel.quarkus	camel-quarkus-stream	3.2.2		b5ed81b6f01d025afd98251be9063862c1fa07e4
 org.apache.camel.quarkus	camel-quarkus-stream	3.2.3		95f3d4637194d666a636875556e0658094e6ce8c
 org.apache.camel.quarkus	camel-quarkus-stream	3.20.0		0e6a8cb1386a6b67b5c35482f0f3a76907a4e3f8
+org.apache.camel.quarkus	camel-quarkus-stream	3.20.1		035419d47b51fde67962a12b7137a22b8d54f036
 org.apache.camel.quarkus	camel-quarkus-stream	3.22.0		b815f5e956bf3a6d4f01e11a67bf6c24c9d6f372
 org.apache.camel.quarkus	camel-quarkus-stream	3.4.0		ceb1b76d953cff73aa4541fcd445ad5a73431898
 org.apache.camel.quarkus	camel-quarkus-stream	3.5.0		7c51fffae5dec734a5cd0ab2bb1d3197a4f85a8b

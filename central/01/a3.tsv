@@ -351,6 +351,7 @@ com.linkedin.coral	src	2.2.5		b73a2f8ed94527067989beb1231ed67a3a70b25a
 com.linkedin.coral	src	2.2.50		ef145d48dd9f4d3c6b323488fef19d640343d188
 com.linkedin.coral	src	2.2.51		ee06fc059fa03c0b5ab6ae25c0b8b371bb90b350
 com.linkedin.coral	src	2.2.52		380140e3113664b69aeab178ca6553a98ceeadda
+com.linkedin.coral	src	2.2.53		373ef7173240368913e59cc0b1da21067b2c33f2
 com.linkedin.coral	src	2.2.6		5af6b92357d6de03c81f349ab54cd12c589e59f8
 com.linkedin.coral	src	2.2.7		2b7323db3d875c40427abab66f1c834c0ac55a64
 com.linkedin.coral	src	2.2.8		6dec5282f6a83c6cde14aa5b535675ba1198930d
@@ -497,6 +498,9 @@ com.tqdev.metrics	metrics-parent	0.9.6		N/A
 com.tqdev.metrics	metrics-parent	0.9.7		N/A
 com.tqdev.metrics	metrics-parent	0.9.8		N/A
 com.tqdev.metrics	metrics-parent	0.9.9		N/A
+com.volcengine	volcengine-java-sdk-tag	0.2.7		dc4a27da796ec315e55629c67caf1984ef634b33
+com.volcengine	volcengine-java-sdk-tag	0.2.8		2ee94ce3084bcd9e39624317dbdd833c57a23aaa
+com.volcengine	volcengine-java-sdk-tag	0.2.9		062326ecbb6a50eb2bf1ee7f953706a3abb26251
 de.sciss	fscapejobs_2.10.0-RC2	1.0.0		339ebd458057365f3d08e556cd3d7e8b0fffa92b
 dev.inmo	config_creator.features.json_builder-android	0.0.1		N/A
 dev.learning.xapi.samples	delete-states	1.0.7		5356cef8f7485cd8b64093c2eb95d628ce1cd5c5
@@ -988,6 +992,7 @@ io.quarkus	quarkus-vertx-graphql	3.15.2		543d0f84928a5fe2aafff7d479fc8c7a57110b8
 io.quarkus	quarkus-vertx-graphql	3.15.3		1e2e54fa72817728dac2344671d0be9f59f02a65
 io.quarkus	quarkus-vertx-graphql	3.15.3.1		4de51cad3baaef619ed903f5895537bef0ad63a1
 io.quarkus	quarkus-vertx-graphql	3.15.4		773132f4e9bbe38608a5a226f58c65980a48262b
+io.quarkus	quarkus-vertx-graphql	3.15.5		5c516a9849338cb0ca0f4973fbc7ca869ddf6802
 io.quarkus	quarkus-vertx-graphql	3.16.0		22bba0ab1be2c8c1eded3c6249e06b8051cdcf28
 io.quarkus	quarkus-vertx-graphql	3.16.0.CR1		343c02b3518582b9bb7f3f64095a7440d1fad6c8
 io.quarkus	quarkus-vertx-graphql	3.16.1		2b7c5eb84b0b955e05c10ee4e39da8ceebc0a753
@@ -1032,6 +1037,7 @@ io.quarkus	quarkus-vertx-graphql	3.2.8.Final		3a9b6524af6907d9f4a73ed341bfdb5bfd
 io.quarkus	quarkus-vertx-graphql	3.2.9.Final		ac779d919e551d19cdf3a7f41ab55e5869eddeb5
 io.quarkus	quarkus-vertx-graphql	3.20.0		ebcffdc21c0d9330dfdb6c0af6ef5f4d57a7f482
 io.quarkus	quarkus-vertx-graphql	3.20.0.CR1		afae3dc080fa331c6fbf7542bfd2027919af95cc
+io.quarkus	quarkus-vertx-graphql	3.20.1		3b65b0db0549ea5d02b743497da057ba361e1202
 io.quarkus	quarkus-vertx-graphql	3.21.0		bc72840c6344ab9b842b2d7afb48312c1ca877c3
 io.quarkus	quarkus-vertx-graphql	3.21.0.CR1		fd345b82a91f339530787f95a974922c40af3043
 io.quarkus	quarkus-vertx-graphql	3.21.1		ed3c14f38cb43a61c3a9eb9aea8213240ba2e0f4
@@ -1041,6 +1047,9 @@ io.quarkus	quarkus-vertx-graphql	3.21.4		c3619b74de4fef3aaf85876ceda485ec73cd21c
 io.quarkus	quarkus-vertx-graphql	3.22.0		9b24296b65eb589066b7e031c875221010277a86
 io.quarkus	quarkus-vertx-graphql	3.22.0.CR1		00a8edeed8e1958ce6bf2b16c5ec0eac21e43a7f
 io.quarkus	quarkus-vertx-graphql	3.22.1		04aa00b8c19158bc6b129cff49262cb1c10509d9
+io.quarkus	quarkus-vertx-graphql	3.22.2		bbfbf8f3661c2dabb01aa1fc917a1c8c42a06e2e
+io.quarkus	quarkus-vertx-graphql	3.22.3		e6f30203167df43893d6bdab35cb08affc7195aa
+io.quarkus	quarkus-vertx-graphql	3.23.0.CR1		ac4987c7a23d90e84235242b96f725ea4a7fbaeb
 io.quarkus	quarkus-vertx-graphql	3.3.0		cfb8a5351c6b5e9ec19ca534fe77d74302a83017
 io.quarkus	quarkus-vertx-graphql	3.3.0.CR1		d81318b356c347cced86dcb0fe46cb2e5bb2c20f
 io.quarkus	quarkus-vertx-graphql	3.3.1		9ffb22d09024e3ccd74b80da313a73b35d76570d
@@ -1289,6 +1298,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.41.1		bdbfe96
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.42.0		972c22c393ced796cf112063a577c069251075dd
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.43.0		a25b483c8356c6598c5b0d4d5f9d23a00e44560f
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.44.0		a91ed56e588df38c94bf6e492f4f0c8f2ca070c2
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.0		4310617480aafdec06dc1345a3d4470bcc0915f5
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.1		464a91cd2ad844ee405b1e34671e277f81c6d1b8
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.10		c14523c6b10ddbd3a221f045351cbd16bbf1c99e
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.11		d8fbb784ddab49c66b07e758fc8f41ba7ab80e2d
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.12		334ac8ae20cb995d86b0d7ca0f5f7c491ef2e5ed
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.13		0755e6dca12e0a5cf5c366c69cf87af30d79609f
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.3		46c2753bc4710c14eaac461f1366a48bbc23fd9f
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.4		e7d842d4f849b9dd3f81f03e906ca06240365ea3
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.5		d15858ea77ad9f2fd96d794ff9e2ea0331e44c7f
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.6		14e929107ab4e9e43befdf502430020a1b145570
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.7		5adb0665d5143b4480333bd077f83e96d1a55e53
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.8		90f9e1e444a29c6f72908a726b7a5845a5f27311
+org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.45.9		70d8e98038f26975d15b639fd6b0114e646bb063
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.5.0		068c8987f2d86beea16143d715a8c7d88c84738f
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.6.0		2d712d75a2bc90627f20e3ed81030e5f12ef24ae
 org.eclipse.dirigible	dirigible-components-ide-ui-bpm-workspace	11.6.1		6e35681562304dbca4ae46661cc86680d88278e5

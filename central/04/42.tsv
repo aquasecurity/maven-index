@@ -655,6 +655,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-schedu
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-scheduling-3.1	2.13.3-alpha		0318a6e90bb9d16e7ecd125610976a83d978d1ee
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-scheduling-3.1	2.14.0-alpha		5e3370ba19c59b6ae803fbde7f4913b226ab58f3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-scheduling-3.1	2.15.0-alpha		c9306c2822a28ea4c9ccfed8ddf9bf9be8cb7d4a
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-scheduling-3.1	2.16.0-alpha		491f282397718a71eb9fd23830d15bc3f933954b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-scheduling-3.1	2.2.0-alpha		22eebc36ed6bc40f559c06410bfa0193eaf6ab23
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-scheduling-3.1	2.3.0-alpha		da9c162da3cade1f463c8746ed8e774ed46fb88c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-scheduling-3.1	2.4.0-alpha		4efc605bdc360375d2a9e491436548fea31e4350
@@ -1366,6 +1367,7 @@ io.quarkus	quarkus-jdbc-mariadb	3.15.2		2e369eb343ce7378de64a7b9a043c338d410e56e
 io.quarkus	quarkus-jdbc-mariadb	3.15.3		98268dfcd8ba7f26a94740d1654e33abaf76698d
 io.quarkus	quarkus-jdbc-mariadb	3.15.3.1		1f2e4825b88a877c81bc19326091eee6b66ac285
 io.quarkus	quarkus-jdbc-mariadb	3.15.4		58493ff41c41e073f23d9a9147b60b08c94e884b
+io.quarkus	quarkus-jdbc-mariadb	3.15.5		6f58ad5beaef572894f4ba2e973183e1e5799008
 io.quarkus	quarkus-jdbc-mariadb	3.16.0		ce7a3cc3d3325293482c68ea0a0784824300d2cd
 io.quarkus	quarkus-jdbc-mariadb	3.16.0.CR1		72a6aa94cbc49e1f26326c0e0078d35f8f24040f
 io.quarkus	quarkus-jdbc-mariadb	3.16.1		2a9c0c7b40b41e7fef49c784a5a52dafce8e5e1b
@@ -1410,6 +1412,7 @@ io.quarkus	quarkus-jdbc-mariadb	3.2.8.Final		d68c8c03a6e3c5dd9ef41866e40588bc2bf
 io.quarkus	quarkus-jdbc-mariadb	3.2.9.Final		8e7793693e0707480ebb114daae5b6fd3716a0f2
 io.quarkus	quarkus-jdbc-mariadb	3.20.0		21cb30c75c2de90a9bb5fde61871ca22905b3980
 io.quarkus	quarkus-jdbc-mariadb	3.20.0.CR1		36a7bc226da363621011a06ab061d0540cc44c77
+io.quarkus	quarkus-jdbc-mariadb	3.20.1		55c8e45278faf4836256577c56e35c91fcb72868
 io.quarkus	quarkus-jdbc-mariadb	3.21.0		805463a9043f1b65357991439a251c23a5311e2d
 io.quarkus	quarkus-jdbc-mariadb	3.21.0.CR1		8c8b29d7a1e418f1c9a1bc12ba8ea59229d72112
 io.quarkus	quarkus-jdbc-mariadb	3.21.1		8e5dac719cbf50fedea9c3e6bfefa74141c4175c
@@ -1419,6 +1422,9 @@ io.quarkus	quarkus-jdbc-mariadb	3.21.4		6f18bc8a02d697ccbf780d341e94523762df3cbd
 io.quarkus	quarkus-jdbc-mariadb	3.22.0		e18a84d902c65207b85a9fb967ea66f7ed609af6
 io.quarkus	quarkus-jdbc-mariadb	3.22.0.CR1		5db2f63f3573dcf5dcd24304f504bcd4af1d092a
 io.quarkus	quarkus-jdbc-mariadb	3.22.1		55b107c0f06e6fef9961b780be6e6e4333d5f39f
+io.quarkus	quarkus-jdbc-mariadb	3.22.2		591d0c462eefdcb0119cb10947e79f3dc8424c0c
+io.quarkus	quarkus-jdbc-mariadb	3.22.3		3d2b9769a35f54df0ba568c416cdf14f8a590a9f
+io.quarkus	quarkus-jdbc-mariadb	3.23.0.CR1		35eab0cb6aad3c559bf94a8e658cd2ac4df155be
 io.quarkus	quarkus-jdbc-mariadb	3.3.0		d8337dfc230bd5958f47a9d88f027b5701a8bf41
 io.quarkus	quarkus-jdbc-mariadb	3.3.0.CR1		9ca43303204a512b3d63814c36e9ffb2a9815596
 io.quarkus	quarkus-jdbc-mariadb	3.3.1		451ca6ac19d67af817298a4372f06aff6b3883c0
@@ -1671,6 +1677,7 @@ org.apache.pekko	pekko-http-jackson_3	1.0.0		f8f01f162e71154491752b5f026e7869c23
 org.apache.pekko	pekko-http-jackson_3	1.0.1		f4a29d96f7130524ab089fad72ee85f1120e82b0
 org.apache.pekko	pekko-http-jackson_3	1.1.0		78a103597207ac28d7fbb2f188177f76e9dd8f0d
 org.apache.pekko	pekko-http-jackson_3	1.1.0-M1		8b3e496c5f7231addab812664dda3f36fa5c9016
+org.apache.pekko	pekko-http-jackson_3	1.2.0		49409c8c8066d444f4b1cb11aaee1b576d45558f
 org.apache.servicemix.camel	org.apache.servicemix.camel.component	4.0-m1		50429eb5b100cc88b7832e7257de083fa572bc13
 org.apache.servicemix.camel	org.apache.servicemix.camel.component	4.0.0		ee481697e16c876497807eaa686a50f28e47bd0d
 org.apache.servicemix.camel	org.apache.servicemix.camel.component	4.2.0		ac160e16b7fb48c68973875e20a3068b22778ab0
@@ -2551,6 +2558,7 @@ software.amazon.lastmile.kotlin.inject.anvil	runtime-optional	0.1.1		635a492cae5
 software.amazon.lastmile.kotlin.inject.anvil	runtime-optional	0.1.2		bee199b070e36f50a20abfcf693e0e393e5dbfe9
 software.amazon.lastmile.kotlin.inject.anvil	runtime-optional	0.1.3		81b88f30e4a921ee5a6a2350bce0e2a577f81c8a
 software.amazon.lastmile.kotlin.inject.anvil	runtime-optional	0.1.4		81b88f30e4a921ee5a6a2350bce0e2a577f81c8a
+software.amazon.lastmile.kotlin.inject.anvil	runtime-optional	0.1.5		1687e502ba5509c346b5678fedadccc1e7593ead
 tz.co.asoft	kotlinx-collections-interoperable-watchosx86	1.4.12		N/A
 tz.co.asoft	kotlinx-collections-interoperable-watchosx86	1.4.20		N/A
 tz.co.asoft	kotlinx-collections-interoperable-watchosx86	1.4.30		N/A

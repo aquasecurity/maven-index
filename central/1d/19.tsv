@@ -603,6 +603,8 @@ com.vmlens	api	1.1.1		497970723c1197ef72bbf125c84ecee43ddbbc4e
 com.vmlens	api	1.1.2		6c092835ad3562d2efe6c1a5b74fcbe3a51fea94
 com.vmlens	api	1.1.4		82e4076745284a9976802c3ada4a2c75afc6104f
 com.vmlens	api	1.1.5		50237acd471bdc20bedd9777b9f525252873874e
+com.vmlens	api	1.2.0		bd932c1c06f9fdd9043b515873e3b6820070995d
+com.vmlens	api	1.2.1		59a39c2f5c6104b36e3692606e97e08cfe0a256a
 com.yahoo.maha	maha-bigquery-executor	6.100		3d40097f3fd48015d48602eadedc2d8eb95fe55c
 com.yahoo.maha	maha-bigquery-executor	6.101		856f4fb0c5fc3f6b14d3fd62b0820fa0e0e5cdbd
 com.yahoo.maha	maha-bigquery-executor	6.102		bf79751dc22bde648e155a8c4a2e0919d867d172
@@ -1734,6 +1736,7 @@ dev.zio	zio-json-interop-scalaz7x_2.12	0.7.4		7c94a9d6dc5a3b9e4e11a37d1f51925537
 dev.zio	zio-json-interop-scalaz7x_2.12	0.7.40		74836ba7f69203ae56dedd8840b0b4386f271649
 dev.zio	zio-json-interop-scalaz7x_2.12	0.7.41		3c62a68d09d1118f2a3c992162d6bf2b7f61edc2
 dev.zio	zio-json-interop-scalaz7x_2.12	0.7.42		f3f824e075545b5190d0c82e954177cc4d96e273
+dev.zio	zio-json-interop-scalaz7x_2.12	0.7.43		d786b1e4ea7290e7084110e032496a7a54aae014
 dev.zio	zio-json-interop-scalaz7x_2.12	0.7.5		7f528702c17483c46e0f311c06269f9e89e766a1
 dev.zio	zio-json-interop-scalaz7x_2.12	0.7.6		b6c9f0a2933d8b55a90a6a79fc4564eacca71cf2
 dev.zio	zio-json-interop-scalaz7x_2.12	0.7.7		48f74b974b8367dbe4207d9719b95ff0423772af
@@ -2093,6 +2096,7 @@ io.ktor	ktor-server-servlet	3.0.3		82c9a593ab1120af6c51cefde7b4245965573b8b
 io.ktor	ktor-server-servlet	3.1.0		82c9a593ab1120af6c51cefde7b4245965573b8b
 io.ktor	ktor-server-servlet	3.1.1		82c9a593ab1120af6c51cefde7b4245965573b8b
 io.ktor	ktor-server-servlet	3.1.2		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+io.ktor	ktor-server-servlet	3.1.3		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.micronaut.fuzzing	micronaut-jazzer-plugin	0.1.10		454fc438637f49cceceaaaad27e2d59e94df95a4
 io.micronaut.fuzzing	micronaut-jazzer-plugin	0.1.11		bcd27be704e38a7eb55ac2c1549543399be71138
 io.micronaut.fuzzing	micronaut-jazzer-plugin	0.1.12		f86ae152af2f1841bfc972083a2920c3c4aa0af0
@@ -2169,6 +2173,7 @@ io.opentelemetry	opentelemetry-opencensus-shim	1.47.0-alpha		fda8ada9b62c6d3ad76
 io.opentelemetry	opentelemetry-opencensus-shim	1.48.0-alpha		55e4b6ab01dc2b5b02e930da0c7cb859922b866f
 io.opentelemetry	opentelemetry-opencensus-shim	1.49.0-alpha		831c62073bea680854f6291becc7b8d39e770f78
 io.opentelemetry	opentelemetry-opencensus-shim	1.5.0-alpha		5658906dd611b6a33fc781e33b3bbed70881edda
+io.opentelemetry	opentelemetry-opencensus-shim	1.50.0-alpha		a2b6f4ea8b0b2b75653b4cc4bd8c49cc5dd05ee5
 io.opentelemetry	opentelemetry-opencensus-shim	1.6.0-alpha		0905e590484108dc3fa62b4e06b0e827a4cfb3b1
 io.opentelemetry	opentelemetry-opencensus-shim	1.7.0-alpha		dbd5fd7cf30a0aa11fee61fe3de00422350be697
 io.opentelemetry	opentelemetry-opencensus-shim	1.7.1-alpha		ae92929d5ac4199e461d812fec31ba31866bbceb
@@ -2222,6 +2227,7 @@ io.quarkus	quarkus-azure-functions	3.15.2		529212fa63deaf088bb5398e25ffc1bd52fbb
 io.quarkus	quarkus-azure-functions	3.15.3		eed70537ec31d16a97220e55943bc46d8320bd34
 io.quarkus	quarkus-azure-functions	3.15.3.1		6a38557ed928ba41004e50ac0377461812330ee5
 io.quarkus	quarkus-azure-functions	3.15.4		c33a94b7461f7bc45a4a38007ffe4c9236bc2d42
+io.quarkus	quarkus-azure-functions	3.15.5		a6ec53f1f995e484d77f48d62f010fa5d5112b66
 io.quarkus	quarkus-azure-functions	3.16.0		1df904d80ad5c4f15e7fa05d5e8d40bc64f478d2
 io.quarkus	quarkus-azure-functions	3.16.0.CR1		84f85ad6696243c0d0d48dc4fadb1e1bfedf1d89
 io.quarkus	quarkus-azure-functions	3.16.1		87c3daa1e04d33f7bde9dcc677b6f6d61746b367
@@ -2266,6 +2272,7 @@ io.quarkus	quarkus-azure-functions	3.2.8.Final		66e5de49e05ebfb5d7c62906c6954be2
 io.quarkus	quarkus-azure-functions	3.2.9.Final		80a41eafcd690a07a55e6a4011557f741861c043
 io.quarkus	quarkus-azure-functions	3.20.0		00661be91c670e167df0c33996203fa11190f4d2
 io.quarkus	quarkus-azure-functions	3.20.0.CR1		8cf0aaf7550770c4a9f465694ec2cb776ed5b7e6
+io.quarkus	quarkus-azure-functions	3.20.1		30b9ae60386209c2f5d26afc0d318dc0dd45e8f2
 io.quarkus	quarkus-azure-functions	3.21.0		17ebcb7457b44a667b8c8060c29eec5b3dd84f66
 io.quarkus	quarkus-azure-functions	3.21.0.CR1		7bc4328eabe2ae55adb2669f6f2291a0ebeb1092
 io.quarkus	quarkus-azure-functions	3.21.1		4b4cdfd6b757b2bd084724b530d2bc797aabc3a1
@@ -2275,6 +2282,9 @@ io.quarkus	quarkus-azure-functions	3.21.4		04ecaf1642addff0d2c7e32461d4efe335a25
 io.quarkus	quarkus-azure-functions	3.22.0		6cf7a0af82364515f0d3c370f714029e8262b33e
 io.quarkus	quarkus-azure-functions	3.22.0.CR1		8a6c9a13579558152a2e83279a8d04936f5f9348
 io.quarkus	quarkus-azure-functions	3.22.1		caddf266f83a534ee3dedcc798ed7f655480c28c
+io.quarkus	quarkus-azure-functions	3.22.2		e91f3bc791c72a74a053094f440ff81cfcc501a6
+io.quarkus	quarkus-azure-functions	3.22.3		c52f37dac5601afa0fbdcc501d3ad6a860030967
+io.quarkus	quarkus-azure-functions	3.23.0.CR1		a1635cc81099ce4ae7e3b50d5d180860f9af64f9
 io.quarkus	quarkus-azure-functions	3.3.0		1efca343e1f686142a6a639b417353a3c413be76
 io.quarkus	quarkus-azure-functions	3.3.0.CR1		212deb0a135aad1cb580ca43002dec1082e93526
 io.quarkus	quarkus-azure-functions	3.3.1		0b5e7158f37f2b2d115382fd372f7d5b839ddd76
@@ -3231,6 +3241,8 @@ org.yakworks	boot-security-gorm	7.3.80		afc3d2bbce9aacde07743e847400128222ff7b10
 org.yakworks	boot-security-gorm	7.3.81		ab7c2134a780ce3bc3fd3e41f9449b9ee8bb5335
 org.yakworks	boot-security-gorm	7.3.82		35c339341deab7c80578ea98379d1c605170e21c
 org.yakworks	boot-security-gorm	7.3.83		e306b89d940b4c97e21306dac72542e9e63dc470
+org.yakworks	boot-security-gorm	7.3.84		24182e45871368bfa8a9a2d3fac7c549aa15ef60
+org.yakworks	boot-security-gorm	7.3.85		ca361f30a7a446c7721d8503fc4e84c7f1425ad1
 org.yamcs	yamcs-core	0.29.3		1446b5a7a97fdbbc473379345f539f99d0062ad9
 org.yamcs	yamcs-core	0.30.0		cd6c6d8b4480928e4c2e727943449595e27e4de4
 org.yamcs	yamcs-core	3.0.0		80168b44bee8c4bbbbcd98b9f598b81a0754145e
@@ -3309,6 +3321,7 @@ org.yamcs	yamcs-core	5.10.8		4c61e3ef32d0b4a89de5666bcb6aa49fac221359
 org.yamcs	yamcs-core	5.10.9		ffbc637b308e12e280f923ff440a7692d6c1c260
 org.yamcs	yamcs-core	5.11.0		4ec2a159b70ef61736728942119646bf45aa0061
 org.yamcs	yamcs-core	5.11.1		ed83ebcb5b93790907c041bbb48fa39ca0ae30d7
+org.yamcs	yamcs-core	5.11.10		8d1c10a03eebc2003a6d0426b75e5c40e551da58
 org.yamcs	yamcs-core	5.11.2		f6edcdb862b1c2c41547ca9f44c4777d564c90c7
 org.yamcs	yamcs-core	5.11.3		c954c309253a17ee98ceb87887ed73924d3953fe
 org.yamcs	yamcs-core	5.11.4		d2a0b7dfc3530b96ad3885bde5196fc070b1c3b0
@@ -3316,6 +3329,7 @@ org.yamcs	yamcs-core	5.11.5		b602f60f31bafc066a9a2f28d153ebc7ca1a24a7
 org.yamcs	yamcs-core	5.11.6		f29764e74f8cf9849a36609e2b15cb1c50d1ed90
 org.yamcs	yamcs-core	5.11.7		3cf969a756eb3a18304f6874c0c96e4a61fb9b36
 org.yamcs	yamcs-core	5.11.8		333e1b7fc4135ffed10b3ebd0b893e46b690d2dc
+org.yamcs	yamcs-core	5.11.9		f920059543a972318b16076c822a0b9ba20f4aa0
 org.yamcs	yamcs-core	5.2.0		00d0c1d34aa80ddc7d02f911d679dce0cc57c05e
 org.yamcs	yamcs-core	5.2.1		d234277712e580421642defe3e48b014c808bea8
 org.yamcs	yamcs-core	5.2.2		d03d058f878d6d15b742e548c6f0164081f7b05e
@@ -4724,7 +4738,18 @@ software.amazon.awssdk	sns	2.31.30		92f7e8547b51d29ab64560208695236901cec0ba
 software.amazon.awssdk	sns	2.31.31		ea09398122d55f72e6c3cd13d9426299634c73c0
 software.amazon.awssdk	sns	2.31.32		1eaddf7b2a619ae7eca2aab2e30307a095643ec3
 software.amazon.awssdk	sns	2.31.33		553297f44eb73251a6d565ba5286e41ab08702a1
+software.amazon.awssdk	sns	2.31.34		01793ad8c1e8e7ed1d3727075f5b554d9d21b096
+software.amazon.awssdk	sns	2.31.35		a72df3a1282113105931f626330d29f968264cbc
+software.amazon.awssdk	sns	2.31.36		7c2e05da17f5ff0e8e86ec21920caeb15e388fbc
+software.amazon.awssdk	sns	2.31.37		26fab7c77b31457e19fc5cbfcc128aed1ec8506d
+software.amazon.awssdk	sns	2.31.38		a2ac1658ba0f13b89b5c39210ec7b3b6192fadb6
+software.amazon.awssdk	sns	2.31.39		18cebd85c0df7bb7b916167e5315a61dedfd8afe
 software.amazon.awssdk	sns	2.31.4		0f545b29402234e0e9c61df00d012c98b3edd454
+software.amazon.awssdk	sns	2.31.40		eb5224697f79d6a7ddc812229ec4a3cffe8bf3b9
+software.amazon.awssdk	sns	2.31.41		5dd854d751a15351aace49518170c6d40722addd
+software.amazon.awssdk	sns	2.31.42		78ce9e0531ded2e7faa65d5ebb5c17494f41c1e8
+software.amazon.awssdk	sns	2.31.43		6da35ddddfca078b9d229bdc292af83cd8225622
+software.amazon.awssdk	sns	2.31.44		a51620fe31d21b7d3e6bf174fce332126ba5f306
 software.amazon.awssdk	sns	2.31.5		b8548a1d5ebd63a4fe8ada2839331f91f9e94eea
 software.amazon.awssdk	sns	2.31.6		1eb55f5288ca72524af421c401948016efcfb1d6
 software.amazon.awssdk	sns	2.31.7		baff8d7ce15b3e3c31eac3637d85da61aeb2230c

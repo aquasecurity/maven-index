@@ -17,6 +17,20 @@ com.caffinc	jaggr	0.2.2		24084fc79fd81135e3b255a3a12c2d3e0ed58d46
 com.caffinc	jaggr	0.3.0		eaed40e7ea0d6880406737917f022f9ed128a627
 com.caffinc	jaggr	0.4.0		3af6f917303e487858aa22ff8a5cf836a00260cf
 com.caffinc	jaggr	0.5.0		7f9f94d43ea896e71f3914b9319b79e90451fc5a
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.4.0		bb5325c71b9544e0ca4a58d04c073f10f1fac3e4
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.4.1		2098899e61422be837e06182eab3d95a57bfb31e
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.4.2		59150e4f42e6f32638d0532dbec97680293f9839
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.4.3		9275bd483362aedb9bd6f674182c527cfa5809df
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.5.0		a518aa27eb5266cee8fa7d416c962a4f1db6724f
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.5.1		36eae39d2785bfe203ccee8a01a45996611672fc
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.5.2		533efc40c2147be738dd2dfa2d14804f5daf2653
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	0.5.3		5834908703a607ad08e8c60f1206d5f42d975802
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	1.0.0		5d4552d6a2c6f78fe16100e66655c9ba77c64061
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	2.0.0		2a563f8f8ee37ee745a709ce87ec44639ddf6478
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	2.1.0		3ade2d1335446fa78c5169a88e79909aa8671f24
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	3.0.0		f4e3138a80260d3f722d5f0b8fe35c61a50fdbbb
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	3.1.0		464195c35499d45bdc9fda56f7042b5fd2177262
+com.etsy	sbt-checkstyle-plugin_2.10_0.13	3.1.1		1c7ddc8c6e22b59925b737e444a0a297fefe932d
 com.frontangle	iceberg-charts	1.1.1		e33e5ae586492d6bcdf46257bcb5472b1ad56d43
 com.frontangle	iceberg-charts	1.1.1.0.1		36b25ebe92c9f2cfe45965a061fb12da70af8b26
 com.frontangle	iceberg-charts	1.2.0		205e213d2d18b996411ad7d4e89225dd4b51380f
@@ -275,6 +289,9 @@ com.thesamet.scalapb	scalapb-runtime-grpc_2.13.0-M5	0.9.0-M3		d57ba792c989172d47
 com.tidal.androidx.media3	media3-datasource	1.1.1.1		N/A
 com.tidal.androidx.media3	media3-datasource	1.1.1.2		N/A
 com.tidal.androidx.media3	media3-datasource	1.2.1.1		N/A
+com.typesafe.dbuild	plugin_2.10_0.13	0.9.18		8f94fec64974d683901fb00ac036d92f196a2431
+com.typesafe.dbuild	plugin_2.10_0.13	0.9.19		82f418c55dd56f875d10c9813648b45f66fb2725
+com.typesafe.dbuild	plugin_2.10_0.13	0.9.20		0d6fe20290db9b4f0e902ca9c5a5f07b22a8e333
 de.egore911	libldt3	3.2.17.1		26f7aa9c11a4367fcf797277dc7fb3e2d3e0a389
 de.iip-ecosphere.platform	apps.AppInterfacesSimpleMesh3	0.3.0		8046b9aeb54eba09e03871e0438991ed54f9b87e
 de.iip-ecosphere.platform	apps.AppInterfacesSimpleMesh3	0.4.0		935df8810cd07ac677c1ae0648aea3a6fb1143e7
@@ -322,6 +339,7 @@ io.github.kitlangton	neotype-chimney_3	0.3.19		e4d43b2a33b933fbc38df40a5b24b04a1
 io.github.kitlangton	neotype-chimney_3	0.3.20		6079d480058c26a3693b2451bffe4fb8250b1089
 io.github.kitlangton	neotype-chimney_3	0.3.21		b8d0ab73a22edc917eb430620e57d9f98c8a0125
 io.github.kitlangton	neotype-chimney_3	0.3.23		f0ae343f64f56ce8e9f927f7c13d0450a16b510b
+io.github.kitlangton	neotype-chimney_3	0.3.24		a3a49387a9035f5aa6307fd8d399b840d2f491ed
 io.github.kitlangton	neotype-chimney_3	0.3.4		5499b77e3d2e442f90711561ce56a7391cbb3b06
 io.github.kitlangton	neotype-chimney_3	0.3.5		d8a2a28554b55004f51ae3594b34231bf4f5f7a1
 io.github.kitlangton	neotype-chimney_3	0.3.6		5f3d1b405b812426d8410702287f3e519413e973
@@ -1282,6 +1300,7 @@ org.scala-tools	subcut_2.9.0-1	0.9		04b1ed408c23422e5b7f482d2f0660e949514880
 org.scalikejdbc	scalikejdbc-streams_2.13.0-M5	3.3.1		eb023032e5506882e3b6a925a123f34d06286ba1
 org.scalikejdbc	scalikejdbc-streams_2.13.0-M5	3.3.2		6139bd4d8bb886822b649822135658276e7d6cd9
 org.scalikejdbc	scalikejdbc-streams_2.13.0-M5	3.3.3		c80875a95e6f4be0746cdf4d43c638d09ff063cc
+org.sweet-delights	sbt-delightful-edifact_2.12_1.0	0.0.1		4b38bc04dff03628387620f472ba31fdb7677d79
 org.talend.sdk.component	component-runtime-testing-spark	0.0.1		50c8bad9d6970fd9fdef2368c67939d6977ff236
 org.talend.sdk.component	component-runtime-testing-spark	0.0.10		e2f27d85d9be9b371c249837c7c499f8d80644ca
 org.talend.sdk.component	component-runtime-testing-spark	0.0.11		68958502c89d1c402fe465c94cbba778690786a1
@@ -1457,6 +1476,7 @@ org.talend.sdk.component	component-runtime-testing-spark	1.78.0		b87b29e5d7355e2
 org.talend.sdk.component	component-runtime-testing-spark	1.78.1		2d53124d7cf5a3a6677302905836354437f4b391
 org.talend.sdk.component	component-runtime-testing-spark	1.79.0		76b97a699dd7f284f30ba95afa3aeb50cbfc6803
 org.talend.sdk.component	component-runtime-testing-spark	1.80.0		337fb71fa89410d6a8a543a76a386ee227b878b0
+org.talend.sdk.component	component-runtime-testing-spark	1.80.1		6abebea0e164bf689ea44e074a840812b645554a
 org.talend.sdk.component	component-runtime-testing-spark	10.57.0		3826890da293370583d10868d599cb7e5b61255a
 org.typelevel	cats-effect_3.0.0-M1	2.3.0		1fe4fc275c76091317083a7f913054d991840f5f
 org.typelevel	cats-effect_3.0.0-M1	2.3.0-M1		1ef49cbe07052878cc6bee87310d19e536ff0ba4

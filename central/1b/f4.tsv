@@ -530,6 +530,8 @@ com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.101.0		dc4c5eb19ab53
 com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.102.0		e02a09c5018a8c2dc4b2abb53e1c87b3391e1568
 com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.103.0		c0e075c9222384d5780bfabc92f07fce8479b059
 com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.104.0		68f77624c4becdafc50474b00ae12c8262d62ba5
+com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.105.0		47ed700dbeffd21ae0b2efc29e244c4f95553e7e
+com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.106.0		d9a6a588690e14f2b7ab84d90c12043c717eaf1d
 com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.11.0-alpha		62dd10320157ab8ce17831528b494363459f6840
 com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.12.0-alpha		3e089014a2c2dc4c19ae3aab94a89978aeb713ac
 com.google.api.grpc	grpc-google-cloud-datacatalog-v1beta1	0.13.0-alpha		d5d251a28a852c2e8d8b8b6946b2e2223085bb7e
@@ -1305,6 +1307,7 @@ io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.15.2		6f47e246f
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.15.3		575d44ae5af1e78eab8b55b475975bd78ef7c376
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.15.3.1		bb881f3adb821ced2a80a8d06b1a278e64995cb7
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.15.4		f6e07e3c4adff6c7b84d27120c7c26b8d75997c4
+io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.15.5		6b96eea7791e3dcfb12a259e81fc9bfaccd2e91b
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.16.0		a1a5a2d77ada70a2e9f5cb7653880eca62e74ffb
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.16.0.CR1		29615c44dd158e5b57a2a730b40be0dc8e7a5c2a
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.16.1		4990da99ea65565f9e260f9b1c1d165b79888e9f
@@ -1349,6 +1352,7 @@ io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.2.8.Final		a27a
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.2.9.Final		405fd6c8dd304498eb8294883474d01b2c9815fc
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.20.0		19ef0656634bb61952dda6e8d667671c4e9a685e
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.20.0.CR1		b3c58ea505795062308e352e590d1aaab76f2176
+io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.20.1		94b8d7a11047c28aeade1757f3930ed782a79684
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.21.0		fcbb96a7000e306ba6bc2a898990ba5747bfbd18
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.21.0.CR1		3a5db2b0e9c7e6373dc72b6b9d2f882339bed4fa
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.21.1		bc776e81e887849fbebddead138379ffb195c15a
@@ -1358,6 +1362,9 @@ io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.21.4		f97c721c3
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.22.0		9ba1b572307a517a38e82100545305d78275ab70
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.22.0.CR1		9884479f8b44b5e86b2fb8447fbe8e77ea409d7b
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.22.1		e32bc00b2572bfcddb7f8714ee6077420dbb19d3
+io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.22.2		f7f3d40458357a5b5611a4dbf7aa3cd7480bff92
+io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.22.3		edf9082f79fdb09c8ee6d4872e53b2113e8c9e6f
+io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.23.0.CR1		f5ef59fb478514645d71ac14aae88e3cdb4bb413
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.3.0		f06afaca4835850c51417f9c998c80f2dc433df6
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.3.0.CR1		180f49103bcaaaa5af1812188b2085ab23be6367
 io.quarkus	quarkus-elasticsearch-rest-client-common-deployment	3.3.1		acda708d8c9e5365c66812812cd8a414ef15fa3f
@@ -2120,6 +2127,9 @@ org.http4k	http4k-server-apache	6.6.0.0		789bea49f8ebb702946d58160454edb7e82262a
 org.http4k	http4k-server-apache	6.6.0.1		3abf36538a3dddb8e39788c54ff656ddbf883eec
 org.http4k	http4k-server-apache	6.6.1.0		3c398e9e3cb8a9fb60c468660ddc317bc87fcd38
 org.http4k	http4k-server-apache	6.7.0.0		a2cbe4d72bb344d4af4b1d67e2e44f9b2bed3c79
+org.http4k	http4k-server-apache	6.8.0.0		7cf0a34d63e4b09d927298a72892997a3e0feb6e
+org.http4k	http4k-server-apache	6.8.1.0		5514f8cb8648de935dd57afdca152d0a5b03a1a7
+org.http4k	http4k-server-apache	6.9.0.0		49c868d4614372d9bf4e27a1dbb2880907cff0b6
 org.http4k	http4k-server-apache	v6.3.0.0		e24e361cffbbee875e1e09ee75755d2a06ea8858
 org.http4k	http4k-server-apache	v6.4.1.0		3ca7a110419806b15fea3ca5412808802d80bffd
 org.jboss.as	jboss-as-testsuite-integration-iiop	7.1.0.CR1		a812358c610d862e622b30adfa8632d149f0dd22

@@ -255,6 +255,9 @@ com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.30.8		ad4a45b52ccb15
 com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.30.9		74f86b39a92c6a9a85a2f1f577fedb34fdd14c34
 com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.31.0		6cdef3298300188454846f8e06a1f9264428408e
 com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.31.1		01c912f03e7c16093a7c60b15129c15ab56e9a44
+com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.31.2		2b38979148071065a8b3fe57fa0d0f35fb919e15
+com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.31.3		29cc324d537cb3844a5280f74f1328d1a88a1b34
+com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.31.4		1d0de9d396e6dc8cf373d4d489ea0e3af9d41ed6
 com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.4.0		d781ff0dbab6db29dfa23f842e1341d83f1d7648
 com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.4.1		d396e4931681aff0b8aa04928f3f4f233bd2d21e
 com.google.api.grpc	proto-google-cloud-firestore-admin-v1	3.4.2		58aefa354f365db329a4f45b92c91934aa638cdc
@@ -1042,6 +1045,7 @@ io.airlift	concurrent	330		b06efbea1c8d6410ff4072086d661f5b13a80bb6
 io.airlift	concurrent	331		8659d53958eb46d818b70c1f1a2c1f0d59b5fd3b
 io.airlift	concurrent	332		c24355c338bf5c42d152d4a23741272ab7f0f3dc
 io.airlift	concurrent	333		f8ebbef03073a52b8730891b611e68a701f33ea8
+io.airlift	concurrent	334		f7d1a06710f65557b674e4f1e1aca78c3520e138
 io.cordite.braid	braid-core	4.4.0		f7ff6457345bee7597c5ce17aace2cb40a3c9b05
 io.cordite.braid	braid-core	4.4.0-RC01		afef0a093000e874873910282ae7683cda93284c
 io.cordite.braid	braid-core	4.4.0-RC02		e89a9561806cd755fbaa26b83ae6abc80a82df23
@@ -1385,6 +1389,7 @@ io.quarkus	quarkus-resteasy-server-common-spi	3.15.2		ec3add8352f57b2656618daa3a
 io.quarkus	quarkus-resteasy-server-common-spi	3.15.3		3366661b79a1e8163754d8f6c5faa216be0b738a
 io.quarkus	quarkus-resteasy-server-common-spi	3.15.3.1		4740f36d844a2c0569c6f66ddaf6d8c9039cfb19
 io.quarkus	quarkus-resteasy-server-common-spi	3.15.4		9d3a3ff17ba74c8988f6573b8d503a22c6c4fcc9
+io.quarkus	quarkus-resteasy-server-common-spi	3.15.5		d1fc6cfd922c7e1f552106c4d1c99b711440831d
 io.quarkus	quarkus-resteasy-server-common-spi	3.16.0		0cf134a2aa677c0508a9ddf58622488cf6f3b577
 io.quarkus	quarkus-resteasy-server-common-spi	3.16.0.CR1		c7c8453d241244367c7295eae54961c152e7e8c2
 io.quarkus	quarkus-resteasy-server-common-spi	3.16.1		d7e666406b5e1415470209758adfd6a9825052b2
@@ -1429,6 +1434,7 @@ io.quarkus	quarkus-resteasy-server-common-spi	3.2.8.Final		5a9e765a76e896e13c846
 io.quarkus	quarkus-resteasy-server-common-spi	3.2.9.Final		82b6acb88ded7600cc3d6e57a9a50de29be651ae
 io.quarkus	quarkus-resteasy-server-common-spi	3.20.0		03d4c759e64274320b7718c010204f1bac25f003
 io.quarkus	quarkus-resteasy-server-common-spi	3.20.0.CR1		c4bff4a5f00926062a20bbeccd62eb8c7222eca2
+io.quarkus	quarkus-resteasy-server-common-spi	3.20.1		706bcac6d6a6da82ab1c24ff1baa160bb1292340
 io.quarkus	quarkus-resteasy-server-common-spi	3.21.0		a51fab4e9829f3b1e7df6bf714166fc9cf6ef208
 io.quarkus	quarkus-resteasy-server-common-spi	3.21.0.CR1		023b6468fcc07e4f50e9f41e2eea1b035339904d
 io.quarkus	quarkus-resteasy-server-common-spi	3.21.1		b6ef9af77a6bd8d77a2e9c2043a0976b9c7239bd
@@ -1438,6 +1444,9 @@ io.quarkus	quarkus-resteasy-server-common-spi	3.21.4		c50229729ff3a8bfdd05b2d553
 io.quarkus	quarkus-resteasy-server-common-spi	3.22.0		074a64616109e4a0e964b1231fd501515197950b
 io.quarkus	quarkus-resteasy-server-common-spi	3.22.0.CR1		8f707ff3233eec8637c415bfe72698b89470508a
 io.quarkus	quarkus-resteasy-server-common-spi	3.22.1		fdeb0594dbcb94579f8ac11717906071e2664337
+io.quarkus	quarkus-resteasy-server-common-spi	3.22.2		4d1265180427b105c7336d69fb4e8402989523b3
+io.quarkus	quarkus-resteasy-server-common-spi	3.22.3		5bdeb5e0b09678fecb4e63939cb199ba579dac5b
+io.quarkus	quarkus-resteasy-server-common-spi	3.23.0.CR1		122b62334b14cf48a106bf855d2354da916eec85
 io.quarkus	quarkus-resteasy-server-common-spi	3.3.0		62121e4b4684f5c2b69ca444be30f52d9de1adc1
 io.quarkus	quarkus-resteasy-server-common-spi	3.3.0.CR1		7537d270af999490ab0d83e16aa7cd1490bb6068
 io.quarkus	quarkus-resteasy-server-common-spi	3.3.1		5b48fce97c40b45819d89b34d6fc4d52d03c165c
@@ -1625,6 +1634,10 @@ net.quux00.simplecsv	simplecsv	2.0		1a911d401cbfc102118b32c790fc2100c95d539b
 net.quux00.simplecsv	simplecsv	2.1		3c479996622ac22d03916376b9b773360eb9cf01
 net.s_mach	s_mach-datadiff_2.11	1.1.0		3fc13a239ba738ac6479d6eeff721ccd7f9b8f88
 net.s_mach	s_mach-datadiff_2.11	1.1.1		9f720a06718bd49a5a4d023234eccf5909bb60b0
+net.sf.ij-plugins	sbt-imagej_2.10_0.13	1.0.0		b94952b3ac4807fc37dfef34b20c7811e551c365
+net.sf.ij-plugins	sbt-imagej_2.10_0.13	1.1.0		9d279389f978826c44c6d17c91820f936fa5d8eb
+net.sf.ij-plugins	sbt-imagej_2.10_0.13	2.0.0		3fe5b001ffbc0330948e489545c76aad918db82c
+net.sf.ij-plugins	sbt-imagej_2.10_0.13	2.0.1		b5c94cfbd5a4d63dc531ae1adf7365ff18757fe5
 net.sf.okapi.lib	okapi-lib-serialization	1.44.0		f3e532a0502bbdf32ebe50932fa11bce40315816
 net.sf.okapi.lib	okapi-lib-serialization	1.45.0		564aaa642b45a3d2dd169946a818effacef11334
 net.sf.okapi.lib	okapi-lib-serialization	1.46.0		1042df4e5cbac5e339172a5cfa661d38caecf776

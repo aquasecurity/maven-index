@@ -1602,6 +1602,7 @@ io.camunda.connector	element-template-generator-http-dsl	8.4.13		e8203fc2aff8a8e
 io.camunda.connector	element-template-generator-http-dsl	8.4.15		1896a86a206f633078a244e8c4b35764b6d01fa1
 io.camunda.connector	element-template-generator-http-dsl	8.4.16		da5da77f0522687c6c015d77cab8c8d3130e1332
 io.camunda.connector	element-template-generator-http-dsl	8.4.18		43b5548bf540d76c6bce99f170f7cdcfb720a669
+io.camunda.connector	element-template-generator-http-dsl	8.4.19		ff5ac7a6109d031e89eced5d561327d5b22ef886
 io.camunda.connector	element-template-generator-http-dsl	8.4.2		ec42cfeb0860d829342321883b2806eb58dbe5a4
 io.camunda.connector	element-template-generator-http-dsl	8.4.3		4294c9f857d89505a852566563c2ab4a42a43e01
 io.camunda.connector	element-template-generator-http-dsl	8.4.4		9f3328fac98927646abae40a381e4f22ed316db8
@@ -1635,6 +1636,7 @@ io.camunda.connector	element-template-generator-http-dsl	8.6.0-alpha5		926fd89e5
 io.camunda.connector	element-template-generator-http-dsl	8.6.1		c45b6eeb52658c72fa32290f2fd78b66df3f8d54
 io.camunda.connector	element-template-generator-http-dsl	8.6.10		12de257537ebef22c54a66d5abe3c0fc664856b2
 io.camunda.connector	element-template-generator-http-dsl	8.6.11		7a26bb39626bce17ec2c41cadcde89b116d3cf7b
+io.camunda.connector	element-template-generator-http-dsl	8.6.12		a7dcb390ac18f3f719e5e36c73b6cf5adff543f4
 io.camunda.connector	element-template-generator-http-dsl	8.6.2		8042fbc41da73cc2cfde104800f3466e40fa6d19
 io.camunda.connector	element-template-generator-http-dsl	8.6.5		593e848a14eb9b1f73481562059df95423106f64
 io.camunda.connector	element-template-generator-http-dsl	8.6.6		d2917f5351c82579dcf7b51c6a776ecb6ee0bb16
@@ -1646,8 +1648,12 @@ io.camunda.connector	element-template-generator-http-dsl	8.7.0-alpha3.1		1036567
 io.camunda.connector	element-template-generator-http-dsl	8.7.0-alpha3.2		ec168b8b2bf79529d6c11c74802e6b5cea1f4571
 io.camunda.connector	element-template-generator-http-dsl	8.7.0-alpha3.3		cf1a8d574d7c070c1a5bf21eeac4473e10146a35
 io.camunda.connector	element-template-generator-http-dsl	8.7.0-alpha4		ebf45c9b0b32fb25d5a94e0795d87208191c07c2
+io.camunda.connector	element-template-generator-http-dsl	8.7.1		9a60337d8ec3637512fc99293b39f800b4c48736
+io.camunda.connector	element-template-generator-http-dsl	8.7.2		a06a72fe40720171b0342ae3687f55a7499f39d0
 io.camunda.connector	element-template-generator-http-dsl	8.8.0-alpha3		fed40ed93c8181bf5588432a5a64beaad41b6b5c
 io.camunda.connector	element-template-generator-http-dsl	8.8.0-alpha3.1		14400e589889f095b3adbe9f516bc78eae31ab40
+io.camunda.connector	element-template-generator-http-dsl	8.8.0-alpha4		cd1cc6af5a4e02848257420fdb994c695a6f69ba
+io.camunda.connector	element-template-generator-http-dsl	8.8.0-alpha4.1		8e60fb7a4d44777a60389747e87d3c1af2b3442c
 io.fabric8.examples	fabric-activemq-demo	1.1.0.Beta1		cf27369b82f7f4d5eab4e108e900245b62375c08
 io.fabric8.examples	fabric-activemq-demo	1.1.0.Beta2		a12341d8f3126386fc47a5380f411030165a8d52
 io.fabric8.examples	fabric-activemq-demo	1.1.0.Beta3		b62fea1317435a5d553fddb0daadfed11f1b3a8e
@@ -1778,6 +1784,7 @@ io.liftwizard	liftwizard-servlet-logging	2.1.28		afb45f6fc0bfe027a7b9c3eba2ea784
 io.liftwizard	liftwizard-servlet-logging	2.1.29		91b6327304f56f3523f29f6dc21894daaada2bc1
 io.liftwizard	liftwizard-servlet-logging	2.1.3		d7d1a11d9c51f3e40edb70e9200028220b715af6
 io.liftwizard	liftwizard-servlet-logging	2.1.30		13579bfc1255c559844318dd88621f19133862b6
+io.liftwizard	liftwizard-servlet-logging	2.1.31		aa33dd01e31859cd7f1b89c2c30ef5d562afd443
 io.liftwizard	liftwizard-servlet-logging	2.1.4		ad8957c4d1295b06365451156112aa93aa0fa1f0
 io.liftwizard	liftwizard-servlet-logging	2.1.5		2775ad15bfdfa7d35b3f2df98bfaed863da36233
 io.liftwizard	liftwizard-servlet-logging	2.1.6		cff7d7c4c78ffe8022a4623a6232e7eecc494232
@@ -2378,6 +2385,7 @@ org.sonarsource.java	java-surefire	8.10.0.38194		b8dae136c22a10cc2eb11b7c802aa30
 org.sonarsource.java	java-surefire	8.11.0.38440		4aaef3ec004b5b8f5c7976031562c5dac2ec6178
 org.sonarsource.java	java-surefire	8.12.0.38599		ecd851ef0edf79d338320aeeb9d9dca023f43752
 org.sonarsource.java	java-surefire	8.13.0.38826		cefbd1228ce1703389bf6b0a3e1a3f13119a79e7
+org.sonarsource.java	java-surefire	8.14.0.39102		67f3724876266584863db44975c15c4f11bfc07f
 org.sonarsource.java	java-surefire	8.2.0.36672		60f326b13603409b42b3a736972c58234149b969
 org.sonarsource.java	java-surefire	8.3.0.36747		3d8356c86995a6dcc3b15e4c3e3461b4238f85c4
 org.sonarsource.java	java-surefire	8.4.0.37032		fdf1fadbf42ed1b7147b3cabede1ef1f65eae18d

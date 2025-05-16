@@ -218,6 +218,7 @@ com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.23		169f7a788398ae54edac3d1aa38b
 com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.24		18a3ddbc63d110b8fc73331d21d5bc834da40ba6
 com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.25		ee4b1ab951adae4c783b37d1fb6f51b79b423f01
 com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.26		c420be7abb9c8f1fa0a8676908b5f7b040010356
+com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.27		f619484710256387c2b4a8321e38267530675405
 com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.3		c311645e0004630030a477265629fbe41ce8f341
 com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.4		efd5557038cb35c0dcdbfd5b0ce77ff89adc9f9e
 com.github.checkmarx-ltd	cx-spring-boot-sdk	0.6.5		2e1d61854dc9db8b9d71e6a26aa35685e09ecf0a
@@ -814,6 +815,8 @@ io.camunda.connector	connector-sendgrid	8.4.16		a0539aba6902fdb387eaed65a242c177
 io.camunda.connector	connector-sendgrid	8.4.16	with-dependencies	6d402b4d79fb5b381e7d534e953d1b0d443a0376
 io.camunda.connector	connector-sendgrid	8.4.18		60484f7e2288fbd8baf26bf4ae16018a625aa533
 io.camunda.connector	connector-sendgrid	8.4.18	with-dependencies	4c019f602ad7bbac0a3816bd31a7c17da53117ac
+io.camunda.connector	connector-sendgrid	8.4.19		ff1914b00c97049f69a991e6720072e64eb16a8d
+io.camunda.connector	connector-sendgrid	8.4.19	with-dependencies	479422385c40b4068b1d84608d7eb777a06fac57
 io.camunda.connector	connector-sendgrid	8.4.2		f970dc29730803e3123299572beb49a490492481
 io.camunda.connector	connector-sendgrid	8.4.2	with-dependencies	d50a8d06304b22f4db5ec9b884dfd998907c1989
 io.camunda.connector	connector-sendgrid	8.4.3		5f4ea77f480f00e2de8146a189864e4451e32ee8
@@ -880,6 +883,8 @@ io.camunda.connector	connector-sendgrid	8.6.10		b223781308b5591b4f62abcdcc37f315
 io.camunda.connector	connector-sendgrid	8.6.10	with-dependencies	e5b0b11f5d529be9f29180109326556ccb07b6c6
 io.camunda.connector	connector-sendgrid	8.6.11		be30a8ed19c9e19c9ac42ab7ae60042c2c83afb0
 io.camunda.connector	connector-sendgrid	8.6.11	with-dependencies	e9834d87baeb1b09a05ff83a7af2d30d30bf421e
+io.camunda.connector	connector-sendgrid	8.6.12		90afb7c8d8dfd2cdfc876e59481fef7f2f9d79f6
+io.camunda.connector	connector-sendgrid	8.6.12	with-dependencies	5736400779dda9cc6b84d3ad93b463beb5820e6f
 io.camunda.connector	connector-sendgrid	8.6.2		bac42392803134304b99dd3775d1340e9ba21593
 io.camunda.connector	connector-sendgrid	8.6.2	with-dependencies	3c27b141d4189835235df9ac7fcb9d36ecd2c062
 io.camunda.connector	connector-sendgrid	8.6.5		13e72f6d9a7de64d0eeca48922a917bdc54ae0f1
@@ -902,10 +907,18 @@ io.camunda.connector	connector-sendgrid	8.7.0-alpha3.3		d0502ae075111ca52d68d478
 io.camunda.connector	connector-sendgrid	8.7.0-alpha3.3	with-dependencies	900b3bb53e8cf6cc4816da5aed9860bac9f2e85b
 io.camunda.connector	connector-sendgrid	8.7.0-alpha4		26e5330e1d19676a9e6446221579cded797991f8
 io.camunda.connector	connector-sendgrid	8.7.0-alpha4	with-dependencies	d14048d0eb65c96864ac2bd990624d647321d45d
+io.camunda.connector	connector-sendgrid	8.7.1		d7c1e407ae8216f33b6b3f4692474e00142e4066
+io.camunda.connector	connector-sendgrid	8.7.1	with-dependencies	ccda25eb08683e49b5d0680167d355dd1a5caf1f
+io.camunda.connector	connector-sendgrid	8.7.2		1f9ebb67cc7430e457cc1bdd1b9f034adf42ff1f
+io.camunda.connector	connector-sendgrid	8.7.2	with-dependencies	918cedd66255a6a03f13935251fffbd745e7ecc0
 io.camunda.connector	connector-sendgrid	8.8.0-alpha3		eb5fa00e3ce9046a0771a2431d283be07ffdc27b
 io.camunda.connector	connector-sendgrid	8.8.0-alpha3	with-dependencies	415fde20d47ae739f1ba6e62a4307d2caf7f990c
 io.camunda.connector	connector-sendgrid	8.8.0-alpha3.1		3c4153b5bb2a203aa1d9367502abb5960a2c8ea8
 io.camunda.connector	connector-sendgrid	8.8.0-alpha3.1	with-dependencies	dbde6c38e5cfa8a1f1db3f20ccd4524f02438938
+io.camunda.connector	connector-sendgrid	8.8.0-alpha4		8a19043a41986a0ef262c4b892caf85751633e0a
+io.camunda.connector	connector-sendgrid	8.8.0-alpha4	with-dependencies	fdd1108b34100e3aa2c64ad967e6d065698b4468
+io.camunda.connector	connector-sendgrid	8.8.0-alpha4.1		1b78a5ebbe47b3f7081f9785cc25973e80b5de7f
+io.camunda.connector	connector-sendgrid	8.8.0-alpha4.1	with-dependencies	7b0b69758bef1d40193ca6a1052f430888e5b6c4
 io.chrisdavenport	cormorant-generic_2.11	0.0.2		5103e93e709bd78a6380e1c66319bbb5e73c5e6e
 io.chrisdavenport	cormorant-generic_2.11	0.0.3		fe146932c7269d4a598a6b76565410c617470f78
 io.chrisdavenport	cormorant-generic_2.11	0.0.4		6af3193f045d8c473e2f42b6e17d863d6e4ceec7
@@ -1014,6 +1027,8 @@ io.ktor	ktor-client-call-id-tvosarm64	3.1.1		f33ccdf0da4339048613b312f5152ddbe99
 io.ktor	ktor-client-call-id-tvosarm64	3.1.1	metadata	902935ae40875a0f638770b7de59cbd2824c7d5d
 io.ktor	ktor-client-call-id-tvosarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-call-id-tvosarm64	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-client-call-id-tvosarm64	3.1.3		7740485bc4a2a71bab0db821c0a1d7073ce3d511
+io.ktor	ktor-client-call-id-tvosarm64	3.1.3	metadata	b78e96cfd7f21879f920e83b6f06d5ab1983cd8f
 io.mongock	mongock	5.0.17.RC		N/A
 io.mongock	mongock	5.0.18.RC		N/A
 io.mongock	mongock	5.0.19.RC		N/A
@@ -1628,6 +1643,7 @@ org.apereo.cas	cas-server-support-u2f-jpa	v6.4.0-RC5		e759ebff2a234df193f62b596b
 org.apereo.cas	cas-server-support-u2f-jpa	v6.4.0-RC5	resources	7ad168fae4c76565d5731d08a7079aade6cfcab9
 org.apereo.cas	cas-server-support-u2f-jpa	v6.4.0-RC6		fd737a6954379698021b4f6f461ac6b5f50d5d82
 org.apereo.cas	cas-server-support-u2f-jpa	v6.4.0-RC6	resources	5dc977e278a839396a7f5c1200ef36373077b32b
+org.apereo.cas.support.cas-server-support-ldap-monitor	5.0.0.RC2	support		349d0d93354435348fa479d05660ee46b6a9da9f
 org.commonjava.indy	indy-db-common	1.8.0		27ac7d3a659122bfef77e915005610b94c5fcc0d
 org.commonjava.indy	indy-db-common	1.8.0.1		6c9232726d0770dbd23f78afdb74b3050b794955
 org.commonjava.indy	indy-db-common	1.8.0.2		de523c3acc467a59724e6ecc7009eb26cea3bdb3

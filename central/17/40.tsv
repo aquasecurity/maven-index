@@ -137,6 +137,8 @@ com.google.api.grpc	proto-google-cloud-valkey-v1	0.4.0		d05148173fadc792521e84f8
 com.google.api.grpc	proto-google-cloud-valkey-v1	0.5.0		a1c9ef1138c5af3be3bbe2fddd77cc94865b96db
 com.google.api.grpc	proto-google-cloud-valkey-v1	0.6.0		b32566543d7be3d310354414c0137ead276ea471
 com.google.api.grpc	proto-google-cloud-valkey-v1	0.7.0		d1fc23d000244aa022c40c60a39bf44c590257db
+com.google.api.grpc	proto-google-cloud-valkey-v1	0.8.0		2921fe239584e9e7c53909c4482d6f0bd07b855f
+com.google.api.grpc	proto-google-cloud-valkey-v1	0.9.0		2994ab1930ac1ae3e887116d4e2fa61d4c258e61
 com.io7m.ervilla	com.io7m.ervilla.native_exec	0.0.1		c18ac2a58c6eb8fc0ae6fb79ce9e1679e10353ce
 com.io7m.ervilla	com.io7m.ervilla.native_exec	0.0.2		cc164dfe7b4e8b9c255355ad68f4b7b0b9e7088c
 com.io7m.ervilla	com.io7m.ervilla.native_exec	0.0.3		66fa3663cab51ff3351e98c50170efa406b3fa88
@@ -350,6 +352,7 @@ io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.13.2-alpha		6bed72
 io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.13.3-alpha		83820b009c4302006dedbdcc2b08adc12ae679d3
 io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.14.0-alpha		56ef393049a17b457d0dab89613cbb766bbeba78
 io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.15.0-alpha		9c32dfbc20e9b9446ba230286d84ec0872eca909
+io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.16.0-alpha		3607bc03232bd2f7e2f06e8e9691efca9136d1dc
 io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.2.0-alpha		56996f78ea3ee92e21ec4b50476112e0bf1a0069
 io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.3.0-alpha		5c56a69c9b4122393fb8000bc988748ee69c99b6
 io.opentelemetry.instrumentation	opentelemetry-aws-sdk-1.11	2.4.0-alpha		90701e9273e47aef78a3b9fa987c3354c4c55d4b
@@ -614,6 +617,7 @@ io.quarkus	quarkus-container-image-docker	3.15.2		08d251605f3fc82743ff84f6075a11
 io.quarkus	quarkus-container-image-docker	3.15.3		81276db5651cbc079d60f56cc2b4fc74fbed5b75
 io.quarkus	quarkus-container-image-docker	3.15.3.1		6e4bad3d2fbab7d43416dedebae158c5c53b5c06
 io.quarkus	quarkus-container-image-docker	3.15.4		343ddaad48de77406d2d0a11f707f7173ea45626
+io.quarkus	quarkus-container-image-docker	3.15.5		08c8bf89159e160d53835d533a7249c3c91155aa
 io.quarkus	quarkus-container-image-docker	3.16.0		adb781970982fd03aef16dd81fb4376f91ca464e
 io.quarkus	quarkus-container-image-docker	3.16.0.CR1		99490fee9b3e6d4d2ce0e54dcd1fe91d4f56213a
 io.quarkus	quarkus-container-image-docker	3.16.1		d187d9043c0014f1b5d93a3b73bf275f5257834f
@@ -658,6 +662,7 @@ io.quarkus	quarkus-container-image-docker	3.2.8.Final		0ef9f65605c6deb75e6401509
 io.quarkus	quarkus-container-image-docker	3.2.9.Final		35711a1ffc00a9a99339d235c62814a53637b854
 io.quarkus	quarkus-container-image-docker	3.20.0		00bff2b76e348ea59bd4f2a21e02796dceef7d62
 io.quarkus	quarkus-container-image-docker	3.20.0.CR1		070b55a4251cadf97123bfddbd73bcdf22b7ec7f
+io.quarkus	quarkus-container-image-docker	3.20.1		8edeb06ba6e1521bc2feeb0fb3c797b931b40748
 io.quarkus	quarkus-container-image-docker	3.21.0		5a2d2f7aff4dd0f86c8050b6b71cc285a8499420
 io.quarkus	quarkus-container-image-docker	3.21.0.CR1		fdb4d55e1352637b2f698a46e38f71344d5e925e
 io.quarkus	quarkus-container-image-docker	3.21.1		1d7b7384ab9dcc522ea1ddda8c5d272af4b1b2fb
@@ -667,6 +672,9 @@ io.quarkus	quarkus-container-image-docker	3.21.4		3f292d2eb56fc9d3b0544f742694da
 io.quarkus	quarkus-container-image-docker	3.22.0		187f3b8e5119cc7be2feb210ace461217fbc8120
 io.quarkus	quarkus-container-image-docker	3.22.0.CR1		5763367d683de537e6c91b2d97c27a240f6af28f
 io.quarkus	quarkus-container-image-docker	3.22.1		8100e61dd7b6d9bf342f1ed2250a2a672cb601cf
+io.quarkus	quarkus-container-image-docker	3.22.2		0bb5b99109ae388e1d1c251e26da7ed2eb9d1d2a
+io.quarkus	quarkus-container-image-docker	3.22.3		99ccc9b855af886e1a90d0f583c482303460f18c
+io.quarkus	quarkus-container-image-docker	3.23.0.CR1		fac7be1c1f4722dc4b9fd20606c4394ace2a24f0
 io.quarkus	quarkus-container-image-docker	3.3.0		5ff6b55170f361dc00d66c248cecc2aa6e7fbbf6
 io.quarkus	quarkus-container-image-docker	3.3.0.CR1		178cb3e63204a67e6a5e52909b230f684c6226d3
 io.quarkus	quarkus-container-image-docker	3.3.1		5e716359cf3cbfd4cd5bef42e5c5e3216e27cb0a
@@ -763,6 +771,7 @@ io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.15.2		76a70359e60c
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.15.3		dcfff8a60edc15024c61561c3426bce68db186d3
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.15.3.1		1734f679f084f32b451a91fdcf0f7ede4bb2026a
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.15.4		a766e0ca84c00a47f324cbf660651bb8a126906b
+io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.15.5		1ca90193a626f2d25720eafe1df46114c82c1373
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.9.0		099a8c7ace5b401121c95ef194fcedce7cf030c8
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.9.0.CR1		8f5f885e1743fc0dd6b8fe3c5341a60e38c58113
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.9.0.CR2		fb217693cb097cecd25c83a553ea1f3730f98c24
@@ -771,6 +780,7 @@ io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.9.2		20fd0c06f9eca
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.9.3		ebaf394b4be662e65acd76db00f651ec2631aa33
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.9.4		e2f133cc13bda5fa3b94d6795661ad4fb428fa8f
 io.quarkus	quarkus-resteasy-reactive-jaxb-common-deployment	3.9.5		9fccce1da10c4cf969bebf814124455d5a804b54
+io.telicent.jena.graphql	graphql-jena-core	0.10.0		99ca7f5ad2d95fada6ff567e147807956efbbd8e
 io.telicent.jena.graphql	graphql-jena-core	0.6.0		edd26cacfa147b7cb9ad6ed3713e2b966d67cd18
 io.telicent.jena.graphql	graphql-jena-core	0.7.0		a6f1a5254a92d7df240f84ac52b325f04cfcd732
 io.telicent.jena.graphql	graphql-jena-core	0.8.0		263a96e571cc46fef92dc242206fe40bf6f63071
@@ -779,6 +789,7 @@ io.telicent.jena.graphql	graphql-jena-core	0.8.2		c01dc19766c00a1fabcd7bca34ef38
 io.telicent.jena.graphql	graphql-jena-core	0.9.0		87db621965705d4c238fc46ff22bf4ed1cbaacab
 io.telicent.jena.graphql	graphql-jena-core	0.9.1		61b48725f4adeb783ca4ad1684db290f924297a0
 io.telicent.jena.graphql	graphql-jena-core	0.9.2		88f1424c6fe9877ddb1c62ca0091717790f2e65c
+io.telicent.jena.graphql	graphql-jena-core	0.9.3		b21bc155af994f18e667c40b75ce030aa6c1c252
 ltd.fdsa	monitor-spring-boot-starter	1.0.114		ba072ec26118053fc849913db72b685401f8520c
 ltd.fdsa	monitor-spring-boot-starter	1.0.118		e5610bff6c4b10ed8a61205744a567d3aab2e067
 ltd.fdsa	monitor-spring-boot-starter	1.0.120		6134af0a783e680122f29d58425d8fdc06e09c82
@@ -880,6 +891,8 @@ net.engawapg.lib	zoomable-iosarm64	2.5.0-beta02		N/A
 net.engawapg.lib	zoomable-iosarm64	2.5.0-beta02	metadata	4b41a7a545892d2b9f15df543e94af4b3347d65d
 net.engawapg.lib	zoomable-iosarm64	2.6.0		N/A
 net.engawapg.lib	zoomable-iosarm64	2.6.0	metadata	6fd1a200ddc6f2ad8dca95851f0c37fe620a19ec
+net.engawapg.lib	zoomable-iosarm64	2.7.0	metadata	d266ecd4afaab7b6ee14145d07f901a4d3c80d27
+net.engawapg.lib	zoomable-iosarm64	2.7.0-beta01	metadata	d0fb1a0a0e30972afa3ac66e2d72e6c94abeea15
 net.java.dev.jogl	jogl-parent	${env.VERSION}		N/A
 net.java.dev.jogl	jogl-parent	1.0		N/A
 net.java.dev.jogl	jogl-parent	1.1.1-rc6		N/A
@@ -1437,6 +1450,10 @@ tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.0.8		N/A
 tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.0.8	metadata	ee171a61dc31e7bbf5ceff6e04682cdc90c93daa
 tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.0.9		N/A
 tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.0.9	metadata	2dff36801d184dca4788ac40684591024662b39a
+tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.1.0	metadata	7136dab346396ce31a23704bf0daba880245c879
+tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.1.1	metadata	113099537798044d848e965181769da8f286f12a
+tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.1.11	metadata	acab1c75ce3a99ca84ad254462c4eaecc707489a
+tz.co.asoft	koncurrent-executors-coroutines-macosx64	3.1.12	metadata	d5ce2f60ef2df59b3f31ba16fa321fe1d9cc7191
 uk.org.retep.microkernel	bootstrap	10.1		f983173571b78dd89bab5d751466df5915869fb5
 uk.org.retep.microkernel	bootstrap	10.5		8039cb6317daa810b8cbc8853490726c7d33d10b
 uk.org.retep.microkernel	bootstrap	10.5.1		24b9aa985edea0ec9e66dae74263c8abf3792b8d

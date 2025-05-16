@@ -174,9 +174,11 @@ com.eygraber	gradle-conventions	0.0.78		db9f175839bb5040b23c2316434767165ed7be6e
 com.eygraber	gradle-conventions	0.0.79		943c34f2807d3b5b5bdedb1c406ad972827df5c6
 com.eygraber	gradle-conventions	0.0.81		23de31c414fd263a0b4494bef9140ee53d9f4aa9
 com.eygraber	gradle-conventions	0.0.82		e63d481eeb5ba692be4cfabc5d6336395ca4f5c9
+com.eygraber	gradle-conventions	0.0.83		34cce83af0e6cd703d3a62cf8fc8eb2dd5863713
 com.eygraber	gradle-conventions	unspecified		3bd47bd483fac790fdd6edae4b569f9c6771d534
 com.gitee.freakchicken	dbApi-spring-boot-starter	1.0		0d6360493d56188ffb3b5e41f9bdc6f04ab43fc5
 com.gitee.freakchicken	dbApi-spring-boot-starter	1.0.1		4cd516503010ebc629b0fb8b2b2d0ada9daef723
+com.github.btd	sbt-less-plugin_2.9.1_0.11.3	0.0.2		2a7dcc882769766e313354fa3af4006394c61f30
 com.github.houbb	common-segment-api	0.1.0		fd82011ce64cca6dc98c1290cf9c84bd4222d85c
 com.github.pjozsef	ComponentFX	0.2.0		adaee7114252e452f3b3feaecd87b12167f75a8a
 com.github.pjozsef	ComponentFX	0.3.0		ff571e781c1cd12cdf111a8430d251f0877406b7
@@ -808,6 +810,7 @@ org.apache.camel.springboot	camel-elasticsearch-rest-client-starter	4.8.3		9fb99
 org.apache.camel.springboot	camel-elasticsearch-rest-client-starter	4.8.4		9d13274f74d6f64461f13c4c2749ae900862be26
 org.apache.camel.springboot	camel-elasticsearch-rest-client-starter	4.8.5		e0347db9bf2acdf3ed45ec7e801a990d12e495ae
 org.apache.camel.springboot	camel-elasticsearch-rest-client-starter	4.8.6		293539e0ebb548a8900c842502312d570612885f
+org.apache.camel.springboot	camel-elasticsearch-rest-client-starter	4.8.7		8c7d0070d10222154424884ee6d533fecd8f92e2
 org.apache.camel.springboot	camel-elasticsearch-rest-client-starter	4.9.0		85f3d49f6d60f6cdb07ac72a441aa109abb73588
 org.apache.felix	org.apache.felix.ipojo.distribution.10mintutorial	1.11.0		N/A
 org.apache.felix	org.apache.felix.ipojo.distribution.10mintutorial	1.11.1		N/A
@@ -942,6 +945,19 @@ org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.41.1		0867d8f8011b5e9
 org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.42.0		425140e0a2935c3d9ae264fe33592e34085575ae
 org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.43.0		012d2ffdec895ba2a20fa61afd747cc0380a2a10
 org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.44.0		33579f812fbc79aa72e227706ad886c1e9e1a5f9
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.0		726c0b8690aeb85ddf4238b2faeb7b7f9ba11fc0
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.1		34fde202ad7645ce0e3ec31fbc0ed3856a6b33cb
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.10		41d22b1a7d94fe80041b2db12126e73ca7e68856
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.11		3b15ff723abbe0a6578aa6c6812d81196c2856a5
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.12		4cf92d7bc73c701ccc429e32ead776f8ed6ac8c1
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.13		d405094703bf6ea6221f50d39f4f2a0ccade1d35
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.3		e5e847008ca1ee8589207ea90131bc64c7255ccd
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.4		11adf607b8c5fdf2470e93ed8e850d8fc3bebfbe
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.5		48554c8b98bdcb21f8e300a118c4cb86340edce3
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.6		82e171e4a709ceeee4d0fa0158c719283255992e
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.7		411add7e3d614f7397b41a0cb20bcbb08e2693ea
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.8		56444ea3c936e5fc562901c825abb4b5293369df
+org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.45.9		a615d711bd6d63a733795e457e1458bdf8fdafe5
 org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.5.0		f39382ee8c6c531485666b6ed5bffff6da0f879b
 org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.6.0		5bcd1a2ed08d1bc5c3142f1e12c985cd172fbaeb
 org.eclipse.dirigible	dirigible-components-ui-menu-jobs	11.6.1		4bb5af851fa56c888553ecf96b0b9736064d209e
@@ -1265,7 +1281,9 @@ org.elasticsearch	elasticsearch-hadoop	8.17.2		32c6f969cc9bbc5fc92d57f3349867e04
 org.elasticsearch	elasticsearch-hadoop	8.17.3		277c66b1f6f1adacd72014476074db9c62bcddf3
 org.elasticsearch	elasticsearch-hadoop	8.17.4		5675f3008dec670b5fb83dbc0e7a59c22b2df09a
 org.elasticsearch	elasticsearch-hadoop	8.17.5		c77c05d10f51b090fe1294502e27950a3bb7d4fc
+org.elasticsearch	elasticsearch-hadoop	8.17.6		1a340cf8be128c56e629815e2a0d8ce2a8240601
 org.elasticsearch	elasticsearch-hadoop	8.18.0		8e13cbc58f12792a56350c7faca8cba713220ad2
+org.elasticsearch	elasticsearch-hadoop	8.18.1		9e93350de9117d93f0b14b9c3b6c40c19b44c764
 org.elasticsearch	elasticsearch-hadoop	8.2.0		4a46b06efe11e005343f45b96b31a3205d181780
 org.elasticsearch	elasticsearch-hadoop	8.2.1		63b9916000eefcf77c6feefc6a2a28f1c6396faf
 org.elasticsearch	elasticsearch-hadoop	8.2.2		5cfd83e28b78343ac37c52a2faf2f305de6c1aee
@@ -1296,6 +1314,7 @@ org.elasticsearch	elasticsearch-hadoop	8.9.2		f7c7e64af640426fade4cbf1b48ad33b33
 org.elasticsearch	elasticsearch-hadoop	9.0.0		4bcba68fb722825abedf7c7b30e09ca35b10420f
 org.elasticsearch	elasticsearch-hadoop	9.0.0-beta1		8b36fc9a660f581490e74de836a13dcab78e7ca2
 org.elasticsearch	elasticsearch-hadoop	9.0.0-rc1		8e97cd9f70b315fc1adecdcb2b311ff8e8174762
+org.elasticsearch	elasticsearch-hadoop	9.0.1		dbd83864bd8184d60dd6b0ad5770df5583606979
 org.finos.timebase-ce	timebase-computations-api	6.1.16		d330586bd532a9ad5d4298c623aa8b8fd183d662
 org.finos.timebase-ce	timebase-computations-api	6.1.17		2a3a4f6f5c0a8b1cb0ece7cd0283cefa4aee3bfa
 org.finos.timebase-ce	timebase-computations-api	6.1.21		37786b680939b4e30c16777aa968c4f97b301445

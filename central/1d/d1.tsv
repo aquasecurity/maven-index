@@ -18,6 +18,8 @@ ai.chronon	service_2.12	0.0.94		2a450dd337be4039418d5a1f6b22c35cd47409aa
 ai.chronon	service_2.12	0.0.94	assembly	bdae3255c354bc16f22a3010ab3b05abff40eb72
 ai.chronon	service_2.12	0.0.95		a05e37b2ce26ea270c6c32924e8f386c057363b0
 ai.chronon	service_2.12	0.0.95	assembly	851241ca30d7f1a5927b9006ebe25e2c4a2c0e4c
+ai.chronon	service_2.12	0.0.96		8b17aca1f428fe3ce9690493f9ff5e2453bdb9a4
+ai.chronon	service_2.12	0.0.96	assembly	968ae070bfa8fb22f59e9b2786770fbe92dfa96c
 ai.chronon	service_2.12	def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91		7be8d70b884c9519b0d80721ab49871e56bf26ec
 ai.chronon	service_2.12	def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91	assembly	bd0f9dd500ffb5666cf6ce16616ce05f8f15f01e
 ai.meson.sdk	meson-core	1.0.0		N/A
@@ -2387,6 +2389,7 @@ org.janusgraph	janusgraph-hbase	1.1.1-20241115-173143.8c78268		fc8a18946c716b9a2
 org.janusgraph	janusgraph-hbase	1.1.1-20241115-201642.8c78268		bd60a81e152c645f7c4af1d4738647258f5a6178
 org.janusgraph	janusgraph-hbase	1.1.1-20241116-021934.5be16ea		9802df6a72d7409ea7c38eecee39cb045f33088c
 org.janusgraph	janusgraph-hbase	1.1.1-20241118-163713.4b9d009		43faecced5dded6ca4dae11d22d838568fb3634f
+org.janusgraph	janusgraph-hbase	1.1.1-20250511-122520.43d05f8		63a8f40f95ad6ba9c13003907ab47a8c8e8d5296
 org.janusgraph	janusgraph-hbase	1.2.0-20241115-203411.9121dd8		a183b83160c712f8dc85ee35b103066e6e24c060
 org.janusgraph	janusgraph-hbase	1.2.0-20241116-110554.8064ac9		5b39a429d41de528104dab14f414576ea2f75158
 org.janusgraph	janusgraph-hbase	1.2.0-20241120-125614.80ef1d9		7675af5009baa3bc1753346555b4ccb8d2c505d1
@@ -2405,6 +2408,7 @@ org.janusgraph	janusgraph-hbase	1.2.0-20250216-125009.330bd38		999dcd6c50d04574a
 org.janusgraph	janusgraph-hbase	1.2.0-20250216-225746.b5e2f5d		3de8d78a5b782febdd613d9476b9753db4ad37c4
 org.janusgraph	janusgraph-hbase	1.2.0-20250216-225808.6db9d55		d2a5cddd90efecbe6db8b38bcbf6b7c62df7fd31
 org.janusgraph	janusgraph-hbase	1.2.0-20250219-143145.6c030f7		7c2cef8176fa49d1ee2c332271b7f0b01bc54c89
+org.janusgraph	janusgraph-hbase	1.2.0-20250509-104313.02c1bcb		7ec964b87ce523e60ff22f3e0235ee8faf4b39f7
 org.jvnet.hyperjaxb3	hyperjaxb3-ejb-schemas	0.1		ca1a52365fd706813d02f30ba20535c458478358
 org.jvnet.hyperjaxb3	hyperjaxb3-ejb-schemas	0.2.GA		N/A
 org.jvnet.hyperjaxb3	hyperjaxb3-ejb-schemas	0.2.RC1		N/A
@@ -2894,7 +2898,9 @@ ru.vyarus.guicey	guicey-spa	6.2.1		b37a0377a4cd62ff1407a285f8d0220a4bc4e774
 ru.vyarus.guicey	guicey-spa	6.2.2		039bf76c3e1f230cb5dd0ef012ad4edb106a1990
 ru.vyarus.guicey	guicey-spa	6.2.3		d9616fe2a2680d027b96a28a98fdf210a4e2ed99
 ru.vyarus.guicey	guicey-spa	6.2.4		2843c255d6877a1faed70d152c6b04c448feb6a7
+ru.vyarus.guicey	guicey-spa	6.3.0		9bf3b19405fa14b1a788808a51b2fc441ad15a5a
 ru.vyarus.guicey	guicey-spa	6.3.0-rc.1		dea2635241c8028cde2534821e332124a7639a05
+ru.vyarus.guicey	guicey-spa	6.3.1		5c88348f7148f5c760265fc3c89ac0310335e37d
 ru.vyarus.guicey	guicey-spa	7.0.0		45460e3519a2827c210beff85a4ab32c32a210ef
 ru.vyarus.guicey	guicey-spa	7.0.0-rc.1		a12e94dd7722edd8f3abdaada0989dd1d58cd9bd
 ru.vyarus.guicey	guicey-spa	7.0.0-rc.2		086d4cc4a573adb5ce92170e4ba8d4a64f63daac
@@ -2905,6 +2911,10 @@ ru.vyarus.guicey	guicey-spa	7.1.1		9fb5d9f57005d1790af8b920ec43aacf62e9b916
 ru.vyarus.guicey	guicey-spa	7.1.2		2ac032588d0d0acfd1523a6243f275515e99f6cc
 ru.vyarus.guicey	guicey-spa	7.1.3		871b72915819eb2b22407aaa53496d236b9334c1
 ru.vyarus.guicey	guicey-spa	7.1.4		bf3bfcf53845013aa82945b8c8d951cf570b3137
+ru.vyarus.guicey	guicey-spa	7.2.0		dd1e11e3b0df41a3d58322ff08f076c84e0f4762
 ru.vyarus.guicey	guicey-spa	7.2.0-rc.1		94ce15e5bdff7404f49a9a48be52b22c1bf5624e
+ru.vyarus.guicey	guicey-spa	7.2.1		fa7077c3b7a951ced46e261116977fc7a2abc048
 ru.vyarus.guicey	guicey-spa	8.0.0-rc.1		4632f482631fa5b3c1472c1407033484457397bf
 ru.vyarus.guicey	guicey-spa	8.0.0-rc.2		8c323125bfd53ee05495e3da723aeb9a97c5e67f
+ru.vyarus.guicey	guicey-spa	8.0.0-rc.3		9bdf79dba159f6254a261c80a7f82242ea928788
+ru.vyarus.guicey	guicey-spa	8.0.0-rc.4		ed95859e544b3f9d4e53c6b7a3da9127ae0ad013

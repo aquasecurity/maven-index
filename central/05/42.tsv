@@ -78,6 +78,7 @@ ch.exense.step	step-maven-plugin	3.26.5-customized-j		2a41bb04072a5d96a711093506
 ch.exense.step	step-maven-plugin	3.27.0		26419cb67829aa8588458203a5293fc6b592b325
 ch.exense.step	step-maven-plugin	3.27.1		bfc45eb877cdb466a67a0fd94b40b67a242cbcc1
 ch.exense.step	step-maven-plugin	3.27.2		a3df46a8ee8ee4a8975b92e974325d20ed0a4fe9
+ch.exense.step	step-maven-plugin	3.27.3		2a3fe7123a4bc548966516c1781b600f97caa8f5
 cloud.drakon	ktdiscord	5.1.0		8f3d211236cca294796fe05352ce1bf2e68a0212
 cloud.drakon	ktdiscord	5.1.1		96d62b077e5da5aadf90aee85f18614865b505a5
 cloud.drakon	ktdiscord	5.2.0		f3fe6567850673b6923b5b2d85f7cc2af8975773
@@ -397,6 +398,7 @@ com.dua3.meja	meja-poi	8.0.1		3fee5294e124b2f88c93d54bacd933cd127d5377
 com.dua3.meja	meja-poi	8.0.2		ce408d473223462dce1d0bb42f2fb0823f1e768f
 com.dua3.meja	meja-poi	8.0.3		4309bab1692589738e740de3c9df385fb4353eb9
 com.dua3.meja	meja-poi	8.0.4		cd93941158bd81f3e907f27ee00981f55783e55f
+com.dua3.meja	meja-poi	8.1.0		f5cd49bf237517352264d0498dbc7985a1a1f3fb
 com.fastjrun.codeg	mybatis-generator-plugin-ext	1.0		7654aa9ef8a1ac1d5d38a95c3251f6549da89915
 com.fastjrun.codeg	mybatis-generator-plugin-ext	1.1		1bdc60266550a077203f7747d2af3609ad00c4d5
 com.github.agourlay	cornichon_2.12	0.10.2		1313471f80f19b4b8f24072225bd9e4abbfee869
@@ -1276,6 +1278,7 @@ io.quarkus	quarkus-grpc	3.15.2		135e95404c058036d1aaf23b3aa9564cea39f67a
 io.quarkus	quarkus-grpc	3.15.3		fe3c16b9ab6af1f3208cb3ffd40be87fcc48a50a
 io.quarkus	quarkus-grpc	3.15.3.1		8eb365dac5a064fd0046d6c8f280369c4d5d9e12
 io.quarkus	quarkus-grpc	3.15.4		1e64f8da719abe93c36739ae7391e76b79325397
+io.quarkus	quarkus-grpc	3.15.5		be5a5387cf4db7e5407a6dd74af2e53351a4213a
 io.quarkus	quarkus-grpc	3.16.0		9cdf1b5bab8045abecacd7e1affdb8b4779611e7
 io.quarkus	quarkus-grpc	3.16.0.CR1		eb4f8f4f4131ae5e84da2e079ba4abd94a9559b5
 io.quarkus	quarkus-grpc	3.16.1		40eae7e123ca54e98e0ad03f72e1ff8465925d45
@@ -1320,6 +1323,7 @@ io.quarkus	quarkus-grpc	3.2.8.Final		2d2e74a4429d1d5881d89ebe7a2ef00934ad169c
 io.quarkus	quarkus-grpc	3.2.9.Final		3a84b6b72e9022eea3c50ba76026ae2f0de94e66
 io.quarkus	quarkus-grpc	3.20.0		3ed386b42f82d6973bf999538899351f5fd23717
 io.quarkus	quarkus-grpc	3.20.0.CR1		06a499553a5a03a263c36115fa8217b53d18dad1
+io.quarkus	quarkus-grpc	3.20.1		723158bd1135436a3848de147c035ff09d66a9f4
 io.quarkus	quarkus-grpc	3.21.0		669164a9fe5a4f5c102462e307574efc6cbdccef
 io.quarkus	quarkus-grpc	3.21.0.CR1		f1589787b0e34559066b0d32dfa8d31b54583b2f
 io.quarkus	quarkus-grpc	3.21.1		d91cbe190e81abf88960884dab771e4bd0b2c17e
@@ -1329,6 +1333,9 @@ io.quarkus	quarkus-grpc	3.21.4		5dd9e28975d4887fb8082f9c4d07cc51f6a9100d
 io.quarkus	quarkus-grpc	3.22.0		2c9327f1ed3b2388e89ea3785cefe6ecf744eabe
 io.quarkus	quarkus-grpc	3.22.0.CR1		07d7a6441f45221e3407f49777659d471c9682f0
 io.quarkus	quarkus-grpc	3.22.1		2b8c1dc1507dc6e7d569b07db95d6543e526b5ae
+io.quarkus	quarkus-grpc	3.22.2		6662f5d327dca71db19204486536378d1c4f4313
+io.quarkus	quarkus-grpc	3.22.3		09a8eb610e70e49182c4759f1a750b03bf84feeb
+io.quarkus	quarkus-grpc	3.23.0.CR1		2fa0c97ea8e406d1c4ce61efb87e0900e917c0c7
 io.quarkus	quarkus-grpc	3.3.0		c2f81f45d01ff1b4d44bb0a88403223d73d6ea96
 io.quarkus	quarkus-grpc	3.3.0.CR1		c70f6e9e4487481491e814f21e1c109985a12fab
 io.quarkus	quarkus-grpc	3.3.1		91b505aa59145fa6761bd37d35cbffa6b85e1245
@@ -3086,6 +3093,10 @@ tz.co.asoft	kase-possible-iossimulatorarm64	3.0.8		N/A
 tz.co.asoft	kase-possible-iossimulatorarm64	3.0.8	metadata	9119ba4b19ac60157de9c1ca302fae9d4a5f26d1
 tz.co.asoft	kase-possible-iossimulatorarm64	3.0.9		N/A
 tz.co.asoft	kase-possible-iossimulatorarm64	3.0.9	metadata	d6cda4f676fa600b9e8f0a59f04b92167cbebf6f
+tz.co.asoft	kase-possible-iossimulatorarm64	3.1.0	metadata	eb82fead3fcc59cff715391e6692f20cf1a97707
+tz.co.asoft	kase-possible-iossimulatorarm64	3.1.1	metadata	f22f78924755c80a94bb58b6f2257dfe0f8bcd60
+tz.co.asoft	kase-possible-iossimulatorarm64	3.1.11	metadata	31749772092795e1c38311ef85badd548991b19f
+tz.co.asoft	kase-possible-iossimulatorarm64	3.1.12	metadata	e9bf05744d92964af3b34a71e88a6fe2630fde4a
 tz.co.asoft	kotlinx-browser	1.4.0		N/A
 tz.co.asoft	kotlinx-browser	1.4.10		N/A
 tz.co.asoft	kotlinx-browser	1.4.11		N/A

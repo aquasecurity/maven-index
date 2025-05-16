@@ -184,6 +184,7 @@ com.aliyun	alibabacloud-ens20171110	6.0.3		0f517a3e94ee570a6b86b7cd0a96e0a22ab4a
 com.aliyun	alibabacloud-ens20171110	6.0.4		9a71a0d799ce4bc42f4034c4f66cdf8adf275465
 com.aliyun	alibabacloud-ens20171110	6.0.5		d66e472aaa457a65ad39f97289ac526129af204e
 com.aliyun	alibabacloud-ens20171110	6.0.6		0a9af716ac86c80e03879fdabdddc30e0658ec04
+com.aliyun	alibabacloud-ens20171110	6.0.7		1010478c027d6f2646ebc26d548a96d56262a40f
 com.blazebit	blaze-persistence-integration-hibernate-5.5-jakarta	1.6.10		af654116ee278cd13f31ea5500bc1c786785d655
 com.blazebit	blaze-persistence-integration-hibernate-5.5-jakarta	1.6.11		80a3ee809f400e878482da596c454931c13fb338
 com.blazebit	blaze-persistence-integration-hibernate-5.5-jakarta	1.6.12		a3902ce6065dafc9d5a045b064c77d5c72984761
@@ -851,6 +852,9 @@ io.kotzilla	kotzilla-client-ktor3-iossimulatorarm64	1.0.0		N/A
 io.kotzilla	kotzilla-client-ktor3-iossimulatorarm64	1.0.0	metadata	7a77ec1dd45b20cbac755b17ba7c348eb6bbd6a7
 io.kotzilla	kotzilla-client-ktor3-iossimulatorarm64	1.0.1		N/A
 io.kotzilla	kotzilla-client-ktor3-iossimulatorarm64	1.0.1	metadata	6a2fbadc7730b0a6a24d0bd8d93576281571aee5
+io.kotzilla	kotzilla-client-ktor3-iossimulatorarm64	1.0.2-RC2	metadata	f4a0dd97f709be773963c88e5dea2708bdcdbff8
+io.kotzilla	kotzilla-client-ktor3-iossimulatorarm64	1.0.2-RC3	metadata	9a1a7b90fdbe77743209e19aa7f706bcd589bbce
+io.kotzilla	kotzilla-client-ktor3-iossimulatorarm64	1.0.2-RC4	metadata	6d71dd20140bdef190c199688351eb2826169fb9
 io.spinnaker.kayenta	kayenta-s3	2.28.0		8890c6fe94fb5a8c50c792ccd0118729201233a0
 io.spinnaker.kayenta	kayenta-s3	2.28.1		e55fed4b5dee60e1d7785ac53cd34f6216021705
 io.spinnaker.kayenta	kayenta-s3	2.29.0		d7b1ecab38e9b1a3eb7121563bed191de299453b
@@ -911,11 +915,19 @@ io.spinnaker.kayenta	kayenta-s3	2.45.0		b65fe614e4c4573daf7a3fdd8f76839728dd446e
 io.spinnaker.kayenta	kayenta-s3	2.46.0		6bf0a6303a06cc04a349af94b0f0f3518ef49a5e
 io.spinnaker.kayenta	kayenta-s3	2025.0-0		79407d1f2ffd32abaa8a4596210b93af85d4376b
 io.spinnaker.kayenta	kayenta-s3	2025.0-1		a90f7eef0721c4a14a6231dfd22e240fd6b1e07a
+io.spinnaker.kayenta	kayenta-s3	2025.0-2		6e614be087c0db2544dc1ce31b61ea7c9cf4f693
+io.spinnaker.kayenta	kayenta-s3	2025.0-3		43414715735af98615849a9898fa92ac3751f184
+io.spinnaker.kayenta	kayenta-s3	2025.0-4		c327c532f1455a371db8cc26a7a3564c93a88c5e
 io.spinnaker.kayenta	kayenta-s3	2025.0.0		4135a27a8a19e085a3c9e46ff68e2af5b27208fc
+io.spinnaker.kayenta	kayenta-s3	2025.0.1		5371986fdf17efbb5106b57b7cafd4f9651ffaf7
+io.spinnaker.kayenta	kayenta-s3	main-10		62bbd31b58e192176fac52ddc12870095743262d
+io.spinnaker.kayenta	kayenta-s3	main-11		9d5419de7f71d11a5d2e96aca500b5def051694a
+io.spinnaker.kayenta	kayenta-s3	main-12		bbbfe8e4df6b3c8e4cf52b3d5336867005426a76
 io.spinnaker.kayenta	kayenta-s3	main-5		b4cf434dc9a1e1ce39ce369b1f36280748b1f18d
 io.spinnaker.kayenta	kayenta-s3	main-6		ccbd685572e7b5160189b3486c76f26124328345
 io.spinnaker.kayenta	kayenta-s3	main-7		184596172e5f12363cf41f3c82884968ab296876
 io.spinnaker.kayenta	kayenta-s3	main-8		599894bc6a67023799a335efbddf7914163f8b81
+io.spinnaker.kayenta	kayenta-s3	main-9		3ee86338080c7941a0015e0f0c19f2879eb234f1
 io.staminaframework.repo	io.staminaframework.repo	0.1.0		892462f2f51a2b11dda44545a5a9a671e8b870c3
 org.apache.camel	camel-vertx-kafka-parent	3.10.0		N/A
 org.apache.camel	camel-vertx-kafka-parent	3.11.0		N/A
@@ -1081,6 +1093,7 @@ org.foundationdb	fdb-record-layer-spatial	4.2.3.0		96fc69c8b97ef34f94cb5c9a82acf
 org.foundationdb	fdb-record-layer-spatial	4.2.4.0		0e5947875fc8158505d2cd4d8870b7a18df2430f
 org.foundationdb	fdb-record-layer-spatial	4.2.5.0		a1c527562c0b251b76b68f6b0b2572ea33553351
 org.foundationdb	fdb-record-layer-spatial	4.2.6.0		8e8e7925b2e0bd3fb2f5a79b186fd53a2f18d4e2
+org.foundationdb	fdb-record-layer-spatial	4.2.8.0		0857f05621a1f3c3012f01a46e45dbe7d8b2fe90
 org.fujion.webjars	webjar-jsbarcode	3.11.0		af0afeecde2aeb077b8773f5cb0ac09e1223cf1d
 org.fujion.webjars	webjar-jsbarcode	3.11.0-1		ccc8973ab7913a8113ae9e7389ca0b736c01a42a
 org.fujion.webjars	webjar-jsbarcode	3.11.3		3ff48533af20b6d2800042b125a80f0465131e25

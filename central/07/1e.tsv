@@ -179,6 +179,7 @@ com.mdsol	mauth-common	17.0.0		ef8f842176b02377d0a6d83babefef84342de420
 com.mdsol	mauth-common	17.1.0		716d64c5ed81f0bf98633b93ee022edb47cc58d6
 com.mdsol	mauth-common	18.0.0		bc302dc7efcbc02668f65cfebac4ac5d859ec4b9
 com.mdsol	mauth-common	18.1.0		ac87d666d44eedfa9d138adc16ef0a10bb16253a
+com.mdsol	mauth-common	19.0.0		3ee6809b3d9fdd92be2d7493a1533445c32e40a3
 com.mdsol	mauth-common	2.0.0		9d48380b276eeb478baad2fe3c873b7d513cf194
 com.mdsol	mauth-common	2.0.1		cf1fd70a72641154c3dfb3d2aa83baafd0344a03
 com.mdsol	mauth-common	2.0.2		3c4f4096e748842896992adae69a2d259ddbdbb1
@@ -254,6 +255,7 @@ com.microsoft.azure	azure-toolkit-containerregistry-lib	0.51.0		d500f4e74944bfeb
 com.microsoft.azure	azure-toolkit-containerregistry-lib	0.52.0		819c196f7e096e50c8d3451710185ec28296b47d
 com.microsoft.azure	azure-toolkit-containerregistry-lib	0.52.1		7fbbd02ebda1b95fa254fd9e40f517c35ec9743b
 com.microsoft.azure	azure-toolkit-containerregistry-lib	0.52.2		ddea8de7b75b44286ec9e82deaa39f547dfb47ad
+com.microsoft.azure	azure-toolkit-containerregistry-lib	0.53.0		83e9c8d0b8d974db6468760d8bebfcf2e62179b0
 com.mikepenz	multiplatform-markdown-renderer-m3-macosx64	0.13.0		N/A
 com.mikepenz	multiplatform-markdown-renderer-m3-macosx64	0.13.0	metadata	c1db36e4269ee0c6d241ed522ef9474fb77aad0f
 com.mikepenz	multiplatform-markdown-renderer-m3-macosx64	0.13.0-a01		N/A
@@ -727,6 +729,7 @@ io.github.the-best-is-best	kfirebase-storage-iossimulatorarm64	1.0.3		N/A
 io.github.the-best-is-best	kfirebase-storage-iossimulatorarm64	1.0.3	metadata	a30a6343eab6a0e270306b8fd1232ce472b80b45
 io.github.the-best-is-best	kfirebase-storage-iossimulatorarm64	1.0.4		N/A
 io.github.the-best-is-best	kfirebase-storage-iossimulatorarm64	1.0.4	metadata	f1ad361a91a0a9608d050d01596ba1dc232cf117
+io.github.the-best-is-best	kfirebase-storage-iossimulatorarm64	1.1.0	metadata	45a78bf1c2ae7a164d9e96fc0edc7d32c91c74b9
 io.github.xdmrwu	ez-hook-gradle-plugin	0.0.1		984abcdcc21769cdc6e7060e965423698d01e5b3
 io.github.xdmrwu	ez-hook-gradle-plugin	0.0.2		242a40d7a9244a097509b4c15ff691e272803feb
 io.github.zh-or	lotus-orm	2.0		998eeffac5facd6f81515c6130b4cf934009733a
@@ -987,6 +990,7 @@ org.apache.beam	beam-sdks-java-io-cassandra	2.61.0		01a87ef9ad9bbc80d0b047baf94e
 org.apache.beam	beam-sdks-java-io-cassandra	2.62.0		a36a2f94355c18901f4d5870f10c8b522dbe9847
 org.apache.beam	beam-sdks-java-io-cassandra	2.63.0		2847fde4424653d1b53f33fb9cd361f37fde18fe
 org.apache.beam	beam-sdks-java-io-cassandra	2.64.0		5cc9594178ef721783b12d833a5179864fb28390
+org.apache.beam	beam-sdks-java-io-cassandra	2.65.0		f4abafca80afbdb5a2382ee33eb5a6b089d3d165
 org.apache.beam	beam-sdks-java-io-cassandra	2.7.0		9eb4100c0f37f9be5017663c3b7e02fbfa6c62d2
 org.apache.beam	beam-sdks-java-io-cassandra	2.8.0		afe2f3700cc4a0f2fe7587a3b40a34077e643760
 org.apache.beam	beam-sdks-java-io-cassandra	2.9.0		3975ad30ba13e08574ff833b50d5041895980607
@@ -1491,6 +1495,8 @@ org.kodein.di	kodein-di-framework-ktor-server-jvm	7.23.1		f717c1c1b2722bc0932876
 org.kodein.di	kodein-di-framework-ktor-server-jvm	7.24.0		16ee6d53630f82e798ae8d30104137bd2f23a1a6
 org.kodein.di	kodein-di-framework-ktor-server-jvm	7.24.1		554a511ae5ad0bf443d700ca2da73e9010db7c0e
 org.kodein.di	kodein-di-framework-ktor-server-jvm	7.25.0		281a45b737a4c861db6a0b65def37e2949c97291
+org.kodein.di	kodein-di-framework-ktor-server-jvm	7.26.0		a42a77a3b5fd19bf7669e0092b984619f3d1ce4b
+org.kodein.di	kodein-di-framework-ktor-server-jvm	7.26.1		de34c2118374b5f3ccb43a60fb04b1ddfb18edc9
 org.kodein.di	kodein-di-framework-ktor-server-jvm	7.3.0		ab357c17f8b0864edc0b05b0bcc3fb5c19c0e0f7
 org.kodein.di	kodein-di-framework-ktor-server-jvm	7.3.1		9827323e96b9f28376edfba37cf153133ecac66c
 org.kodein.di	kodein-di-framework-ktor-server-jvm	7.4.0		bdcb8f7961a84cd1f0d375ece18534beb5bd924c
@@ -1637,6 +1643,8 @@ org.ossreviewtoolkit.plugins.scanners	askalono-scanner	55.3.0		85b0a128910842dea
 org.ossreviewtoolkit.plugins.scanners	askalono-scanner	56.0.0		4298151a27638fe3e8c2c8c05a5c2bd89aac733b
 org.ossreviewtoolkit.plugins.scanners	askalono-scanner	56.1.0		d15e05e3d71ccd162ef292b81973043a400eb0f1
 org.ossreviewtoolkit.plugins.scanners	askalono-scanner	57.0.0		7e1641203dcce08e3324550c2b11cea276d93518
+org.ossreviewtoolkit.plugins.scanners	askalono-scanner	58.0.0		30dc06af898cd8f77c3e0626f3f5857f775e5057
+org.ossreviewtoolkit.plugins.scanners	askalono-scanner	58.0.1		ed4b08c0f7b4582c81e96ee80f431f6fbac9513a
 org.ossreviewtoolkit.plugins.scanners	askalono-scanner	6.0.0		67baadca88528abf1083d75f014398dac166839c
 org.ossreviewtoolkit.plugins.scanners	askalono-scanner	6.1.0		ba7d3ce5d2f558612ac6566f46d46a54f2d601e4
 org.ossreviewtoolkit.plugins.scanners	askalono-scanner	6.1.1		1013776cdd8dc9fa34da699717bb44ff887bcfbc

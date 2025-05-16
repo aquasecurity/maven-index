@@ -245,7 +245,9 @@ com.google.api.grpc	proto-google-cloud-meet-v2	0.25.0		184669b9c2a58dea73f5f46b2
 com.google.api.grpc	proto-google-cloud-meet-v2	0.26.0		d6e2a8915617c2226b346451e4c680a7705bf854
 com.google.api.grpc	proto-google-cloud-meet-v2	0.27.0		01410fec5d5974e55331678b4370977fc668802c
 com.google.api.grpc	proto-google-cloud-meet-v2	0.28.0		77309d04ec5e5351dd11a0d3c7682324c339b80e
+com.google.api.grpc	proto-google-cloud-meet-v2	0.29.0		8de54a79ba5bcdf0a51f893e0c3ec8a388f7a7ff
 com.google.api.grpc	proto-google-cloud-meet-v2	0.3.0		75dd1cab2bb084c29d6d09dc2c9380de5fa1dfca
+com.google.api.grpc	proto-google-cloud-meet-v2	0.30.0		f8ff9a7746f806015bf523dd4f61e6d3a3539cf6
 com.google.api.grpc	proto-google-cloud-meet-v2	0.4.0		b859d98cb63e61fca19fa2c60a26a2847b1169ba
 com.google.api.grpc	proto-google-cloud-meet-v2	0.5.0		f123d2c01299d19867991780a55b0c01cf6870be
 com.google.api.grpc	proto-google-cloud-meet-v2	0.6.0		8ff480d12675362ca075bbb29416c3811180290e
@@ -336,6 +338,7 @@ com.lightbend	scala-fortify_2.12.7	1.0.21		5811d6a692a2b40941703ed0dcf689110c45e
 com.lightbend	scala-fortify_2.12.7	1.0.21-RC1		247ef923eaf87ec08848447568d27249ba8ccdad
 com.lightbend	scala-fortify_2.12.7	1.0.22		597fabdff61967f6f720ee1128684e3a917b0274
 com.lightbend	scala-fortify_2.12.7	1.0.22-RC1		17e0dcc9725281df1af204d3d87a74e69fb7e3a4
+com.outr	spice-client-netty_2.13	0.10.0		cd4eede2bd1b98282b16b8f10ea69a24f1e7e53d
 com.sap.prd.mobile.ios.ota	com.sap.prd.mobile.ios.ota.webapp	1.0.4		N/A
 com.sap.prd.mobile.ios.ota	com.sap.prd.mobile.ios.ota.webapp	1.0.5		N/A
 com.sap.prd.mobile.ios.ota	com.sap.prd.mobile.ios.ota.webapp	1.0.6		N/A
@@ -828,6 +831,7 @@ media.kamel	kamel-decoder-animated-image-macosarm64	1.0.2		N/A
 media.kamel	kamel-decoder-animated-image-macosarm64	1.0.2	metadata	47cab6ad6326cfc98e0703846031ce4a617e0ccb
 media.kamel	kamel-decoder-animated-image-macosarm64	1.0.3		N/A
 media.kamel	kamel-decoder-animated-image-macosarm64	1.0.3	metadata	dc3dbba59760fe2ce327e17d1d757ec52c373e9f
+media.kamel	kamel-decoder-animated-image-macosarm64	1.0.5	metadata	f2106caa102c2e524f3a9fc30b5fc94512576ad5
 net.exoego	aws-sdk-scalajs-facade-applicationdiscovery_sjs0.6_2.12	0.24.0-v2-473-0		2e088eeef2b671fa203af0e1349a21f949477211
 net.exoego	aws-sdk-scalajs-facade-applicationdiscovery_sjs0.6_2.12	0.24.1-v2-473-0		8d7d2e3b19c7fd0397aad14d94406150aa5b9a78
 net.exoego	aws-sdk-scalajs-facade-applicationdiscovery_sjs0.6_2.12	0.24.2-v2-437-0		01e95be14bd475f9f68e549990b946a80ed69c06
@@ -1099,10 +1103,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.8.0
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.80.0		bd54cfd00543cea772c63b366b5434da87bba66a
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.81.0		df8abdd6206070d035b260117e6bc5195699491e
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.82.0		f89be98462d4184fc7b3e5b629a8373efed9110e
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.82.1		a61c27e9ab571581bd98d751b831b1f713537990
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.83.0		b3c0af1bb0b5e2fd86bb3bd4d2a48bf710bc2431
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.83.1		6fff94dbf3579c42e121b1b31f4fd22d178f715c
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.83.2		427a00ecd42dfdcd3ea958eda384b67c44029558
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.83.3		d9bd0a0ccc8f87dc86191142ae2af8851931adb1
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.84.0		903dd02f6af9c00ada033274f4b85015f2e5024e
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.84.1		85aa7d9f8444ed9cdc136b0b986d9f7057be1070
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.85.0		bb01fa192cbd36634d41cb041b53b4a7f4fe6ff9
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.85.1		6e635c7a0399d458fbb06dbf0ce10f473fc0a692
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.85.2		9246313ba21ff5e8e1d048d462835f85f8624e7c
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.85.3		0c4cf5579b0c50efd33106098b367c178ac103ca
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-execution	4.9.0		c51cbad68701bebf287b8c30e0e4a27fb19b15f4
 org.fomkin	korolev-zio2-streams_3	1.16.0-M1		ef1b77286b6c2293f5334c27a673519610f8984f
 org.fomkin	korolev-zio2-streams_3	1.16.0-M4		99a7c33c6213f1b7188b2705d2dce47316eb2561

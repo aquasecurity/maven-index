@@ -27,6 +27,26 @@ be.valuya.winbooks	winbooks-domain	7.2.1		8ddb29dc8015aa8c19c91961d8c3369a818a6e
 br.com.objectos.oss-java17	objectos-collections-map	2.0.0		feb52470f230d3a52121de350aa153601c485e87
 br.com.objectos.oss-java17	objectos-collections-map	3.0.0		9b9763cfab776fef0892445b92187417317fbec2
 br.com.objectos.oss-java17	objectos-collections-map	3.1.0		7c011e525697706cced2ef59c84b82e2c479b291
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.1		41d0f70412a63f08e40bb109992f40f7fd5ffd4d
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.10.0		4c950ea35f41790fd808e2c032b7ebc611bc75c2
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.11.0		471bbbcdac649af5d7f706400ddaa0774062d519
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.12.0		7886e7a0f604c6dacab2d78878022bc4e4a367ac
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.13.0		5adc83999d64c97e6551dabe75e308a5ac02358c
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.13.0-RC1		915d9e733f5cec05108de2ffd078bdcfeb31d3c8
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.13.1		0b0fc58231f76b2d5e91002ccc68008392f90c43
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.14.0		014ecff0dd7913aff0563cbfc332838067171464
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.15.0		83ad8cee247ce1f18983f31c809b44c906628507
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.15.0-0.6		2a2746f2b22d01653e9e23697ede3a3350e9c31a
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.2		4a6e2afdf4c37b85f1bd6b3048b974b36a7c1d4c
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.2.1		606c40bb7ea5929cd8eebf2123ed58f61fa620b8
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.3.0		9467f20c21805022ca42643ba90a2dda2822079e
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.3.1		e60a32c4c89d581802dbac0d8f9c8a6f07518961
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.4.0		3808f26674597e6b87c44dbd9e5d8d275ad37612
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.5.0		b914cc4046deff725d451a74395a61f1b7f863ef
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.6.0		59310a008918113c39f0182626dc3da5d897381f
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.7.0		a5b581cd976bbd7e07c8b416e95b9db49756251c
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.8.0		50d2c53fddd805b2707ac97b53071fa3179a1a68
+ch.epfl.scala	sbt-web-scalajs-bundler_2.10_0.13	0.9.0		305e3f681ecae9771e42a9e46e4eaea3ba9c9ed5
 cn.lzgabel.jaxb.jaxb	jaxb-bom	3.0.2		N/A
 cn.vertxup	up-epimetheus	0.4.2		266e7e0da1a271ea98edc68e889197267738042d
 cn.vertxup	up-epimetheus	0.4.3		6eda8538a0f2222e56f6ec46992272f0d9ed860a
@@ -247,6 +267,8 @@ com.google.api.grpc	proto-google-common-protos	2.55.0		5007546c229cb34bf7f2a780c
 com.google.api.grpc	proto-google-common-protos	2.55.1		34e0e11b162ac93b9461a2fc79fe39fabf8fd64b
 com.google.api.grpc	proto-google-common-protos	2.55.2		023c87ba2e578128ae1a867c3a37cb1210677173
 com.google.api.grpc	proto-google-common-protos	2.55.3		94517d1620355ea87f2a8fd47de6d002b102b0be
+com.google.api.grpc	proto-google-common-protos	2.56.0		356dc9ad064e0ec5d8168b75ff00d6caae6a8111
+com.google.api.grpc	proto-google-common-protos	2.57.0		bf629e49cf9ab0c9e1a4ab069895517bcbdf2ffc
 com.google.api.grpc	proto-google-common-protos	2.6.0		2e09e13c067617ce195998969fd0e52635971f58
 com.google.api.grpc	proto-google-common-protos	2.7.0		b89a09270e6681417e7f6bede09fc006de0d977f
 com.google.api.grpc	proto-google-common-protos	2.7.1		f0f101045d738992ec8a3956f0cce9ce49a76fe1
@@ -538,6 +560,7 @@ de.jensklingenberg.ktorfit	ktorfit-converters-flow-iosarm64	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-converters-flow-iosarm64	2.5.0	metadata	81cbcc59937a94f2a12b61f4b577350b189f697b
 de.jensklingenberg.ktorfit	ktorfit-converters-flow-iosarm64	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-converters-flow-iosarm64	2.5.1	metadata	a58dc41a6bc090446e173b592ca7c4c04042482d
+de.jensklingenberg.ktorfit	ktorfit-converters-flow-iosarm64	2.5.2	metadata	6e485650b14827d1b1aae5e874eb95750345e377
 dev.nesk.akkurate	akkurate-arrow	0.10.0		3d610c954ef06754d6f03fa315a1ff339a279b0d
 dev.nesk.akkurate	akkurate-arrow	0.11.0		3d610c954ef06754d6f03fa315a1ff339a279b0d
 dev.nesk.akkurate	akkurate-arrow	0.6.0		b522941493738b1198d10b0540ec5dd637977180
@@ -593,6 +616,9 @@ edu.gemini	lucuma-odb-schema_3	0.19.3		1354d121d1614ae351775999b4243204c1d8dde8
 edu.gemini	lucuma-odb-schema_3	0.19.4		12bfbf985a83fb71f82955a87fc7b57062368950
 edu.gemini	lucuma-odb-schema_3	0.19.5		28448c96c9d96deba90f02c7b4665a10787aceff
 edu.gemini	lucuma-odb-schema_3	0.2.0		3f942eb53cbd88e02d20c7607e3d95a47da159fd
+edu.gemini	lucuma-odb-schema_3	0.20.0		d50ca5e623618d8ddae99ba2ae2dbbab2c608eae
+edu.gemini	lucuma-odb-schema_3	0.21.0		52155c24c9ae4cbdc463984c2fbc2c4e57c08fe1
+edu.gemini	lucuma-odb-schema_3	0.21.1		ed3aeb48c7cbcfae99cb1767d2a7798919fa4e3b
 edu.gemini	lucuma-odb-schema_3	0.3.0		316c454999005e582a5100cf8c341d3152d30acb
 edu.gemini	lucuma-odb-schema_3	0.3.1		1a454ff4135cc81046c1e8473d5c745304e494de
 edu.gemini	lucuma-odb-schema_3	0.3.2		14ae4fb4243c2b8c3bb67c71e4538a8219482ce4
@@ -896,6 +922,8 @@ io.github.jan-tennert.supabase	functions-kt	3.1.1		5f98fba91230748b77b83fca981f6
 io.github.jan-tennert.supabase	functions-kt	3.1.2		5f98fba91230748b77b83fca981f68f368330720
 io.github.jan-tennert.supabase	functions-kt	3.1.3		5f98fba91230748b77b83fca981f68f368330720
 io.github.jan-tennert.supabase	functions-kt	3.1.4		a6275779d659e98c68b36d1a92a987a6b9bda8ba
+io.github.jan-tennert.supabase	functions-kt	3.2.0-beta-1		a6275779d659e98c68b36d1a92a987a6b9bda8ba
+io.github.jan-tennert.supabase	functions-kt	3.2.0-beta-2		a6275779d659e98c68b36d1a92a987a6b9bda8ba
 io.github.jmecn	jme3-freetype-font	0.1.0		78cc52ab06f6933ae3d1afc055b47ac748790516
 io.github.jmecn	jme3-freetype-font	0.1.1		497d9918e315fbbed4fc666dbde1b7b45eb866ef
 io.github.jmecn	jme3-freetype-font	0.1.2		273c56a6947f23c5cef6e0967339a3c5afb9bd95
@@ -1019,6 +1047,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2.13.3-alpha		9901caf75d96ecea05151416c76f46a52bbc45e5
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2.14.0-alpha		57d925e400cfa3570c614e5f43fc60d50b76ec44
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2.15.0-alpha		61c09ebfbf9f944b8763a7db46f173e0c674b32c
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2.16.0-alpha		d6e32f736b51ef0150be4c92318d77ffae5f6cb2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2.2.0-alpha		ca3eee7870e0cbe8bd8eb7bb7003947cb75be296
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2.3.0-alpha		67630a70be2699af30accf38b28a1920d79ab84f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-2.2	2.4.0-alpha		c17ddef8d3b1d6ebed607bce2bf41f032eaf62aa
@@ -1054,6 +1083,7 @@ org.apache.directory.shared	shared-ldap-extras-parent	1.0.0-M7		N/A
 org.apache.directory.shared	shared-ldap-extras-parent	1.0.0-M8		N/A
 org.apache.directory.shared	shared-ldap-extras-parent	1.0.0-M9		N/A
 org.apache.gravitino	gravitino-server-common	0.8.0-incubating		63f5c99f1fc5cbacd5ff29b0fb2053bf4853e9a2
+org.apache.gravitino	gravitino-server-common	0.9.0-incubating		68a02550c32c8a1dad8f7efa500fc6b80029f62a
 org.atnos	eff-eval_native0.5_2.12	7.0.3		d8b0bc16034451dac084f3925a172b26dcd55923
 org.atnos	eff-eval_native0.5_2.12	7.0.4		92afb8567997c1fc9f031f50828bc8cd5a4bc952
 org.atnos	eff-eval_native0.5_2.12	7.0.5		977299412e239d3b2220531e0b7836ff95aa6df0

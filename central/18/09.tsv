@@ -133,6 +133,7 @@ com.buschmais.jqassistant.plugin	java	2.6.0-M1		05bae7dcd0be3eb8606cc56867c800b0
 com.buschmais.jqassistant.plugin	java	2.6.0-M2		20c9d8ffedf96f4eafe11d856595599e86681f18
 com.buschmais.jqassistant.plugin	java	2.6.0-M3		37255c5cdfda4235b71d07d9900b9b4d1643d125
 com.buschmais.jqassistant.plugin	java	2.6.0-RC1		b6e10b986444fc561b46ee3281c72cefb647e988
+com.buschmais.jqassistant.plugin	java	2.7.0		8be44ad948a4066d7fd10f825380ea3fde0e31e4
 com.buschmais.jqassistant.plugin	java	2.7.0-M1		1374ba7343dc346913c79f1c9eb32c3fb6aa16eb
 com.buschmais.jqassistant.plugin	java	2.7.0-RC1		29049d64afa26808883c3e34b36fc29df6ecf542
 com.capitaltg	jgroover	0.0.15		4607db704660b42f7704bd7b2b31b402a4ce6f3e
@@ -155,6 +156,12 @@ com.github.hijesse	magic-box	1.0.0		N/A
 com.github.hijesse	magic-box	1.1.0		N/A
 com.github.hijesse	magic-box	1.1.1		N/A
 com.github.huifer	entity-plugin	1.0.0-Releases		N/A
+com.github.kxbmap	sbt-jooq-core_2.12_1.0	0.5.0		dcb685f1401793e61aa90222900b8129e512ef0b
+com.github.kxbmap	sbt-jooq-core_2.12_1.0	0.5.1		8fe09eaaafd823ba783c977b6bd140aaf28f4c6d
+com.github.kxbmap	sbt-jooq-core_2.12_1.0	0.6.0		30ad45c38921188b8434f3ecaf297461164af769
+com.github.kxbmap	sbt-jooq-core_2.12_1.0	0.6.1		2d8fbdaacaad90afd06675f5d1c384804df772bc
+com.github.kxbmap	sbt-jooq-core_2.12_1.0	0.7.0		f9bd7239e1408f89e2390f2db2f311b3555ff67c
+com.github.kxbmap	sbt-jooq-core_2.12_1.0	0.7.1		a82b5e88cdc22f75cb9059abb570217454ce25f3
 com.github.paweladamski	HttpClientMock	0.1		8efe89017aed60d2f58d7b782e978097758b596a
 com.github.paweladamski	HttpClientMock	0.2		7487f2d1ad45b0d76a15e5188126af66cbcaab85
 com.github.paweladamski	HttpClientMock	0.2.1		0a4d52f2c4272767d1a2f085f25dd489d0ecd670
@@ -280,6 +287,8 @@ com.google.cloud	google-cloud-retail	2.60.0		90f235d1491ef462e5467ad3ebb660688c5
 com.google.cloud	google-cloud-retail	2.61.0		a306a3bef66ad40e189217649e4ab9398541c2d8
 com.google.cloud	google-cloud-retail	2.62.0		bf88a9e2014664b2df4eb6351fe88239a6a41ef3
 com.google.cloud	google-cloud-retail	2.63.0		c2b02bd40b437870efb7beeb5fd711bdccfca2ba
+com.google.cloud	google-cloud-retail	2.64.0		8b0bdfb027347a1cc0f633c618e8661b8dd37c89
+com.google.cloud	google-cloud-retail	2.65.0		da42948ba74f8b8d19fbe3f512417a328a4669a3
 com.google.cloud	google-cloud-retail	2.7.0		43335acda931adb6a5b084a867b11d0e352c32c1
 com.google.cloud	google-cloud-retail	2.8.0		b62fb5893b046856d07dcd0fdb00336c57fec143
 com.google.cloud	google-cloud-retail	2.9.0		17647b0daa6fea4b154d73b4a30d5a5bd0d71bda
@@ -322,6 +331,7 @@ com.google.cloud.bigtable	bigtable-hbase-mirroring-client-2.x-shaded	0.9.5		45eb
 com.google.cloud.bigtable	bigtable-hbase-mirroring-client-2.x-shaded	0.9.6		b80af96cc10ac8157ce5377d823ed6886395d91c
 com.google.cloud.bigtable	bigtable-hbase-mirroring-client-2.x-shaded	0.9.7		b8880f7968f87e9e5aec601774ddec6ee5380258
 com.google.cloud.bigtable	bigtable-hbase-mirroring-client-2.x-shaded	0.9.8		88763eb2316b0a072ef35cbe9d541e52765c300b
+com.google.cloud.bigtable	bigtable-hbase-mirroring-client-2.x-shaded	0.9.9		44b256362dfb3409e9dd1b052674254cf04bb9a5
 com.googlecode.i18n-maven-plugin	i18n-util	1.0.0		8acb2e4d699053e9f13c53b220b30026b298800f
 com.madgag	play-git-hub_2.13	5.0		37e4fe7a47747259447dd2f9d0b77791d20c9e3d
 com.madgag	play-git-hub_2.13	5.1		5ea26dcaa7ae123809f83ebcb643641c6644c21e
@@ -1630,7 +1640,16 @@ org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-419		426e95bbbf313829d4922bf
 org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-42		6813cfabf54c20fc58bcc496c2a4867d32f9a2a7
 org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-421		91e386749aaf20e9680992b3a2770083c9bd7a09
 org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-423		2332a5b9370336fcd6cc05f063da999e3189db9a
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-424		7af650025c2874e21954b83afd86dcca339154c6
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-426		84ce43c833ba6f64a6e6ab361b60a709fb9a7ac8
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-428		bdd8389feb8729dba4c68c3f8bc63c5c7a4e8c91
 org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-43		bbbc6a7f27db7416aaf0d97357ef343a921f5f2f
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-430		9e1f9386f1039432c37ffd22ec7e6a4f248b719c
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-435		667aee6041d4de7f842398ece85a497767ecde67
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-436		c4bb87a48fc7309eb38c282073c032d537712c42
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-437		1e2d3ee47e776236613c48c0ee23673f47c52d8e
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-438		151cd2eaf5a71ae2d75b1e58cdf6e7d535c25fb6
+org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-439		01dc2ad97a8d15c03fdfa17fe99e71c2f4a2c61c
 org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-44		9943e84a322505d596db522ff141fde04693b35a
 org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-46		2184bd9409313c94ce5b8499645ed1bf08164032
 org.jetbrains.kotlinx	kotlin-jupyter-lib-ext	0.12.0-47		9179ca82f6bf5ab727e365a019be8fa2ed9f6cb5
@@ -1980,6 +1999,7 @@ org.talend.sdk.component	slf4j-standard	1.78.0		1a92b3005676d3e2a6a429dd8ed959c1
 org.talend.sdk.component	slf4j-standard	1.78.1		ef1bb6110a472d5f8713a08aca3d6b024a50ac31
 org.talend.sdk.component	slf4j-standard	1.79.0		4cdcc5bc1032b1445a245e6bde7deeda6dab9a7e
 org.talend.sdk.component	slf4j-standard	1.80.0		ff3f4881a4810a05fec8b9185f10c0624081d5de
+org.talend.sdk.component	slf4j-standard	1.80.1		e7560fd075eb13655bedcc84e0ad4345f9745086
 org.talend.sdk.component	slf4j-standard	10.57.0		158e912194ed381559bcad4a4c9354c782d9db1d
 org.teiid.wildfly.connectors	cassandra	12.0.0		N/A
 org.teiid.wildfly.connectors	cassandra	12.0.1		N/A
@@ -2100,6 +2120,7 @@ ru.tinkoff.kora	http-client-async	1.1.22		ccc4dc48942bc2607fc4b2a2b3d9e58c1af157
 ru.tinkoff.kora	http-client-async	1.1.23		f18363b0dd0f45a5dbc000e74340dacfbf703546
 ru.tinkoff.kora	http-client-async	1.1.24		bb60e481fddbf0788025bae32cbdadf3797c5b0b
 ru.tinkoff.kora	http-client-async	1.1.25		94cea29904ea2fa2f7a15f4a2629b16b462bc8c7
+ru.tinkoff.kora	http-client-async	1.1.26		44b4b3e4c380695b7d7c3c3a21c7abf034391d84
 ru.tinkoff.kora	http-client-async	1.1.3		c47f68b7585502732b3ae4547ca6963762f3c2c4
 ru.tinkoff.kora	http-client-async	1.1.4		a1eded032f20b55663f4e328f494f110438972ac
 ru.tinkoff.kora	http-client-async	1.1.5		7d7c3ab3779d769675badf5acd608efd07f94bff
@@ -2144,4 +2165,7 @@ tz.co.asoft	cinematic-live-compose-iosarm64	3.0.8		N/A
 tz.co.asoft	cinematic-live-compose-iosarm64	3.0.8	metadata	6fe9f066182ba65c2648939b63b8646c176e07f3
 tz.co.asoft	cinematic-live-compose-iosarm64	3.0.9		N/A
 tz.co.asoft	cinematic-live-compose-iosarm64	3.0.9	metadata	318db7dbc4edb5ddc92baa535ab0ad4b97872ffd
+tz.co.asoft	cinematic-live-compose-iosarm64	3.1.1	metadata	8b014fba62970caa3d07b79d79fa471b96e77d02
+tz.co.asoft	cinematic-live-compose-iosarm64	3.1.11	metadata	f47cac9c261dc2840a1face85add943e561f8297
+tz.co.asoft	cinematic-live-compose-iosarm64	3.1.12	metadata	781050061a357f102073443530312b0d1371ebb5
 tz.co.asoft	symphony-input-finance-wasm-wasi	3.0.7		N/A

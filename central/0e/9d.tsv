@@ -32,6 +32,7 @@ com.aliyun.api.gateway	sdk-core-java	1.1.7		121bc4c9279d57cf19a17fb8ba3c3e231ff1
 com.aliyun.api.gateway	sdk-core-java	1.1.8		e69ce814d8464241d53fc30800472665e6384a5f
 com.aliyun.api.gateway	sdk-core-java	1.1.9		2df7a630d62c01510838198b095106df23918345
 com.aliyun.api.gateway	sdk-core-java	1.2.0		e2ca5425c7f21681e2448e3af520257ef9d8722e
+com.aliyun.api.gateway	sdk-core-java	1.2.1		78595ec5295fb55dd0dac0660986c1522d7b5d81
 com.authologic.client	authologic-client	0.1.17		24ac49005904c165a5dc33b257618797b9c6137a
 com.authologic.client	authologic-client	0.1.18		971e96bffcf8c2a846872f9f126a58ba1cd53f81
 com.authologic.client	authologic-client	0.2.11		10a9db090fc257f8d45ae75d56575cdca5df1028
@@ -464,6 +465,7 @@ com.daml	daml-lf-transaction_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		3e
 com.daml	daml-lf-transaction_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		3e663eb0e977ff469d0d81995f86003e1945c459
 com.daml	daml-lf-transaction_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		3e663eb0e977ff469d0d81995f86003e1945c459
 com.daml	daml-lf-transaction_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		3e663eb0e977ff469d0d81995f86003e1945c459
+com.daml	daml-lf-transaction_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		6fb5dfb38ab2b44fba18271c7a48081ae7ae452d
 com.daml	daml-lf-transaction_2.13	2.2.0		a61bff82f9fcca8e7864b5172d6bf571b094f1a2
 com.daml	daml-lf-transaction_2.13	2.2.0-snapshot.20220412.9721.0.b7c4bdab		b534bc12f63b738c4b911a7700afbfc6ebe8f42f
 com.daml	daml-lf-transaction_2.13	2.2.0-snapshot.20220413.9724.0.2dc1085b		b534bc12f63b738c4b911a7700afbfc6ebe8f42f
@@ -1503,6 +1505,9 @@ com.daml	daml-lf-transaction_2.13	3.3.0-snapshot.20250414.13754.0.v6f99815d		101
 com.daml	daml-lf-transaction_2.13	3.3.0-snapshot.20250415.13756.0.vafc5c867		1018518d6bca64d9d71aa9dc3047814c636c15b3
 com.daml	daml-lf-transaction_2.13	3.3.0-snapshot.20250424.13760.0.v90d51dbb		1018518d6bca64d9d71aa9dc3047814c636c15b3
 com.daml	daml-lf-transaction_2.13	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		1018518d6bca64d9d71aa9dc3047814c636c15b3
+com.daml	daml-lf-transaction_2.13	3.3.0-snapshot.20250507.13770.0.v8a383258		1018518d6bca64d9d71aa9dc3047814c636c15b3
+com.daml	daml-lf-transaction_2.13	3.3.0-snapshot.20250509.13773.0.v7f71343b		55d2f814c984f31264b2569884efce166bdf01a3
+com.daml	daml-lf-transaction_2.13	3.3.0-snapshot.20250515.13776.0.ved4899eb		55d2f814c984f31264b2569884efce166bdf01a3
 com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250415.13757.0.v8ac8af98		35d79e2907d733789c631f76e8be3f82a77eb0f2
 com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250415.13760.0.vea143716		35d79e2907d733789c631f76e8be3f82a77eb0f2
 com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		35d79e2907d733789c631f76e8be3f82a77eb0f2
@@ -1519,6 +1524,16 @@ com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250430.13801.0.v62e9a71a		f02
 com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250430.13804.0.vecb995a9		f02a4444a47a4fcfdb33dec2f70d85dbd2872bd8
 com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250501.13805.0.v6dcc9347		f02a4444a47a4fcfdb33dec2f70d85dbd2872bd8
 com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250502.13811.0.vc9342f2a		177df1b2e19934705047f97076b56ca48679218c
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250505.13814.0.v8f469e2a		177df1b2e19934705047f97076b56ca48679218c
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		177df1b2e19934705047f97076b56ca48679218c
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250505.13817.0.vf79dda6c		177df1b2e19934705047f97076b56ca48679218c
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250506.13820.0.vb449114c		f5abdecb36aac6bce990180b1b17454a467b25fa
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		f5abdecb36aac6bce990180b1b17454a467b25fa
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250508.13828.0.v6124cac0		a719219cad9f7244d699c4be1196378327f1eb7b
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		a719219cad9f7244d699c4be1196378327f1eb7b
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		a719219cad9f7244d699c4be1196378327f1eb7b
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250512.13837.0.v78d1b88c		a719219cad9f7244d699c4be1196378327f1eb7b
+com.daml	daml-lf-transaction_2.13	3.4.0-snapshot.20250513.13844.0.vbc99348c		a719219cad9f7244d699c4be1196378327f1eb7b
 com.eed3si9n.verify	verify_0.24	0.2.0		a8fe0d1a6141887bec18b34ab56ff2605c2269d3
 com.github.twogoods	hellorpc-consul	0.1		280f4c4f67d663470a4b45e29edc8ad3c9a5cd12
 com.ioki	lokalise-api-macosarm64	0.0.2		N/A
@@ -1735,12 +1750,14 @@ network.oxalis	oxalis-extension-testbed	6.4.0		24977282905117ee17460d58e68509c9e
 network.oxalis	oxalis-extension-testbed	6.5.0		30da6dbe79bfd8f6fbd55f7aab60a3b17f43eb05
 network.oxalis	oxalis-extension-testbed	6.6.0		fc76941538d10cf9d94ae698968a17056ea37d03
 network.oxalis	oxalis-extension-testbed	6.7.0		7365be76e67f2b82d17bea1f6bfacadecf36a374
+network.oxalis	oxalis-extension-testbed	6.8.0		3bd85497c57966d46daebd6cde1a498ab2880216
 network.oxalis	oxalis-extension-testbed	6.8.0-RC1		5bfec1b9c031bf23b9efe42d36bbfd95ae7cd722
 network.oxalis	oxalis-extension-testbed	6.8.0-RC3		ba5541874f6838cc0a0cc1c390ce9f1c4ae4c113
 network.oxalis	oxalis-extension-testbed	7.0.0		5b2bf033c033e0650c02cd50b93d4356c985ff13
 network.oxalis	oxalis-extension-testbed	7.0.0-RC1		1565e016067df5c6736dfc3afe17c20f6070a1bc
 network.oxalis	oxalis-extension-testbed	7.0.0-alpha		0e0bc0db9f9451f872f26563eced01bf0433d2ef
 network.oxalis	oxalis-extension-testbed	7.0.0-beta		fd621a2520dbbfbdb38c72e3a0ff36321cbb39ce
+network.oxalis	oxalis-extension-testbed	7.1.0		d3e83c7d6982ea04eea6441564def8d7fb387aee
 network.oxalis	oxalis-extension-testbed	7.1.0-RC1		89dadf39fd356f22133d067437b379975dc61134
 org.activiti	activiti-dmn-json-converter	6.0.0		3b9feca7cfb9ddb6f9b6855a609af1dcd49aa96c
 org.activiti	activiti-dmn-json-converter	6.0.0.Beta3		3c368565bcf6514eb3d5f8c511ade72615312605
@@ -2067,6 +2084,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-iossimulatorarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-iossimulatorarm64	0.6.1	metadata	9e7c671153e398adb24d6caeb928c234a4ddd9f9
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-iossimulatorarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-iossimulatorarm64	0.6.2	metadata	4a55f893a2d4192e22ddd16c4b50e6ff16104fc7
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-iossimulatorarm64	0.7.0	metadata	63f718bfd29e5cec11de155afa3b41118d5f0e44
 org.json4s	json4s-tests_2.9.0-1	3.0.0		274be6a64f98ce90f85d23ae566db63b7f89f944
 org.json4s	json4s-tests_2.9.0-1	3.1.0		63299321fa16c597c197fc601212b49e09afbe90
 org.json4s	json4s-tests_2.9.0-1	3.2.0		5d18564272ca071800e082cbc37460fd70bf47bf

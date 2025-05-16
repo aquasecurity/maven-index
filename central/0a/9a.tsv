@@ -270,6 +270,10 @@ com.twilio.sdk	twilio	10.7.1		e606bdae16385cde74953104a1f15e7fc524b1ca
 com.twilio.sdk	twilio	10.7.1	jar-with-dependencies	4284b008da574a5c398f09bb63b0b033e8be260c
 com.twilio.sdk	twilio	10.7.2		4d788fa52e790896cd26e8ea7fa820bb4b8d11a1
 com.twilio.sdk	twilio	10.7.2	jar-with-dependencies	b8d4866f9665afb094a967d43ac18a6fd61eb9a3
+com.twilio.sdk	twilio	10.8.0		b9c6b3d54f20b9f29c5762de3f32f1be42cf2639
+com.twilio.sdk	twilio	10.8.0	jar-with-dependencies	e1000326140b44fbbadab5f2357b31e68dd95ad1
+com.twilio.sdk	twilio	10.9.0		d04c849bdd9f3792362e420c5d453b620182a7d1
+com.twilio.sdk	twilio	10.9.0	jar-with-dependencies	2f15ec4291672a77b0a397521b9fcafaf9a7333e
 com.twilio.sdk	twilio	6.6.10		79606329bb952ec5b47eb095e1563fdcca8162fd
 com.twilio.sdk	twilio	6.6.10	jar-with-dependencies	de5eebef4dc86416fc86f678aaf6b16d0dcb9979
 com.twilio.sdk	twilio	6.6.9		aa4f0ea087d3e9f191350fa9668caf701d12ba42
@@ -1021,6 +1025,8 @@ io.ktor	ktor-http-cio-iosarm64	3.1.1		84d939c9c3492e1677c77f9275849bebb27ba8dd
 io.ktor	ktor-http-cio-iosarm64	3.1.1	metadata	1088f8eeb502584b8027645f641706a86a283ff1
 io.ktor	ktor-http-cio-iosarm64	3.1.2		01eedc9353d0ea742f05f53a18e5a0b018cf449a
 io.ktor	ktor-http-cio-iosarm64	3.1.2	metadata	c7f01f6ddf00b65016e4e5dbb02968160b4803bf
+io.ktor	ktor-http-cio-iosarm64	3.1.3		58eeda8be0c4447e39576c3e89608c90df5788d3
+io.ktor	ktor-http-cio-iosarm64	3.1.3	metadata	f742c87d6a81a079117a469016e1f509d4f431e2
 io.mraa.upm	upm_ecs1030	0.8.0		6dc779a3cd4f897779af6f7baa9182ec9d742ff6
 io.mraa.upm	upm_ecs1030	1.0.0		da5a8d0e2b99e07467f25decac9cfea576b3e217
 io.mraa.upm	upm_ecs1030	1.0.1		d263c99d479f97775a473013195cbfba231fca78
@@ -1278,6 +1284,7 @@ org.apache.camel	camel-test-infra-dispatch-router	4.8.3		ee4cacabbba21f158482c5f
 org.apache.camel	camel-test-infra-dispatch-router	4.8.4		052a881fb3ab18e0fca6cbed1fb5d7b7ec7da3fe
 org.apache.camel	camel-test-infra-dispatch-router	4.8.5		80aca80fde411d18ffec2e073e8192139082ab95
 org.apache.camel	camel-test-infra-dispatch-router	4.8.6		43b001b16b1da80bad0d774ef13962d42b671bf1
+org.apache.camel	camel-test-infra-dispatch-router	4.8.7		1d19bd28b8496659c82363aeddd5f53173517816
 org.apache.camel	camel-test-infra-dispatch-router	4.9.0		b3db7ac0b555c16e42e9dde5aeabbd9454d9b1fe
 org.apache.nifi.minifi	minifi-ssl-context-service-nar	0.1.0		N/A
 org.apache.nifi.minifi	minifi-ssl-context-service-nar	0.2.0		N/A
@@ -2313,6 +2320,7 @@ org.janusgraph	janusgraph-driver	1.1.1-20241115-173143.8c78268		353c622fbe0f37a0
 org.janusgraph	janusgraph-driver	1.1.1-20241115-201642.8c78268		1459e008487743a996ecc5196135c5e14b539850
 org.janusgraph	janusgraph-driver	1.1.1-20241116-021934.5be16ea		98447f74085912a9c1fe74ba7bd0c3046d077919
 org.janusgraph	janusgraph-driver	1.1.1-20241118-163713.4b9d009		de45398ba88ba59726f8c193030e79b32e8042e3
+org.janusgraph	janusgraph-driver	1.1.1-20250511-122520.43d05f8		d782be615aa09f4842881f62248f248e47bbd659
 org.janusgraph	janusgraph-driver	1.2.0-20241115-203411.9121dd8		129005866678ced54a2f19bea8d5acb35c32cc30
 org.janusgraph	janusgraph-driver	1.2.0-20241116-110554.8064ac9		9bef658d33b690c29f020e0f4cca31caa8eaa33e
 org.janusgraph	janusgraph-driver	1.2.0-20241120-125614.80ef1d9		ec1274c7767191a752548b614e92385637af26c7
@@ -2331,6 +2339,7 @@ org.janusgraph	janusgraph-driver	1.2.0-20250216-125009.330bd38		252ec06fe0b39732
 org.janusgraph	janusgraph-driver	1.2.0-20250216-225746.b5e2f5d		11645f6bc54c21042b2621ea99aa947dc8ba3699
 org.janusgraph	janusgraph-driver	1.2.0-20250216-225808.6db9d55		fcb4190175d1226adf7ec72bfd3bc703cd90aa68
 org.janusgraph	janusgraph-driver	1.2.0-20250219-143145.6c030f7		ef99fc780e8a4223300bfbfbb2e2a60e9deb52ff
+org.janusgraph	janusgraph-driver	1.2.0-20250509-104313.02c1bcb		6b3cb7f7ca8f94aa262e45ea2ba00059fe015a9a
 org.jasig.resource-aggregator	resource-aggregator-parent	1.0.2		N/A
 org.jasig.resource-aggregator	resource-aggregator-parent	1.0.3		N/A
 org.jasig.resource-aggregator	resource-aggregator-parent	1.0.4		N/A
@@ -2582,8 +2591,11 @@ org.springframework.osgi	spring-osgi-extender	1.1.3		5b36cde4aad5e2769c2db11a112
 org.springframework.osgi	spring-osgi-extender	1.2.0		5c01145f6788f4c7d8795b49aa3fcd1ef891a3da
 org.springframework.osgi	spring-osgi-extender	1.2.1		bf1f4269136ccdbdbfacc1dbb519b720c9d215a9
 org.testifyproject.local-resources	elasticsearch2	1.0.0		50d63c123983000dacb7d43050248d4679b3ec09
+org.testifyproject.local-resources	elasticsearch2	1.0.0	2.4.6	50d63c123983000dacb7d43050248d4679b3ec09
 org.testifyproject.local-resources	elasticsearch2	1.0.1		943afd54b7be901f352b2ad57ddd251cd1ba857d
+org.testifyproject.local-resources	elasticsearch2	1.0.1	2.4.6	943afd54b7be901f352b2ad57ddd251cd1ba857d
 org.testifyproject.local-resources	elasticsearch2	1.0.2		4b3ec55ba72d07e13bc4488a47a8ae51cb5bd809
+org.testifyproject.local-resources	elasticsearch2	1.0.2	2.4.6	4b3ec55ba72d07e13bc4488a47a8ae51cb5bd809
 org.typelevel	catalysts_2.13.0-M4	0.7		bba563eb8031afdfc15778cb199d189c2a0f96f0
 org.typelevel	cats-effect-testing-minitest_sjs1_3.0.0-RC3	1.1.0		a71572c6bd71035876da3fe72ec90ab5af148c86
 org.typelevel	spire-macros_sjs0.6_2.11	0.14.0		e45c7314508244d89e54b6b7f3bcfefc63a6f333

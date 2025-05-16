@@ -138,6 +138,7 @@ com.malliina	okclient-io_3	3.5.1		f7f9aa835cb5f00e4d40754fff4a071e09ede4ea
 com.malliina	okclient-io_3	3.5.2		7ad5f16647ce8738f0b189a9030b188c9dfdde9b
 com.malliina	okclient-io_3	3.6.0		7d28977dfaf07752f0c990bf676331ee8e17f4d5
 com.malliina	okclient-io_3	3.7.1		809cc36d7573b93a15bab1367decee8564bb295d
+com.malliina	okclient-io_3	3.7.10		4e9ac4a76a2e08d18ae88df69dec65d89421c67b
 com.malliina	okclient-io_3	3.7.3		d65a4adac7784937dc518d31c7e6d2bca2e21ef6
 com.malliina	okclient-io_3	3.7.4		d4e244ddf741227773659ea7c13ee09744624b03
 com.malliina	okclient-io_3	3.7.5		bb6f69d19bafc0cc6b9a7a408e6c8f9f71d36f13
@@ -170,6 +171,9 @@ com.sap.cloud.yaas.service-generator	service-generator-model	2.3.13		4ee7e41d096
 com.sap.cloud.yaas.service-generator	service-generator-model	2.3.14		4c283b3a2e88e600a66490303ac95fc3508e187c
 com.sap.cloud.yaas.service-generator	service-generator-model	2.3.3		573099b4764159cc134bab76822093f6483948f7
 com.sap.cloud.yaas.service-generator	service-generator-model	2.3.4		3885ae460905a30bad4fa2dc704ecabef54ce2e7
+com.turbomates	event-exposed	.1.1		2ba0a845a870742de11a0f45acf2d273a6d135cf
+com.turbomates	event-exposed	.1.2		bb322085ea55060d0917c3d9f3aacfbe10dc9dd7
+com.turbomates	event-exposed	.1.3		8c6976c4d86841fcd77b81f9320bb3d2645d4719
 com.turbomates	event-exposed	0.1.0		00e73960f194acfa31dd052198ab43785f681bad
 com.turbomates	event-exposed	0.1.10		bc362996cd9a174267e6b84787a0866684c625ca
 com.turbomates	event-exposed	0.1.11		e3fbb9be19311c550eb14d777ba75fb44e907d19
@@ -327,6 +331,7 @@ io.github.ermadmi78	kobby-gradle-plugin	4.0.3-beta.03		3c7b535d8af8d02fbc7ed808c
 io.github.ermadmi78	kobby-gradle-plugin	4.1.0		38e93cf84a3457c55c237c31aa9dab490af9987b
 io.github.ermadmi78	kobby-gradle-plugin	4.1.0-beta.01		c7fb181ae5a33cc7d05f5d9298ece27e8240f00c
 io.github.ermadmi78	kobby-gradle-plugin	4.1.1		f2959021b5ecc4bb5a83a9039056ed5e66b001d4
+io.github.ermadmi78	kobby-gradle-plugin	5.0.0-beta.01		851a9415fedfe94289cc851ad43ceb4ef75547eb
 io.github.handofgod94	jacoco-cov-badge-maven-plugin	1.0.0		35bbfc68f82cd3062df7e2554b7659b0b995a76c
 io.github.handofgod94	jacoco-cov-badge-maven-plugin	1.0.1		20bf87978ea0ed7dba43ece9be2d5e65745a19d2
 io.github.handofgod94	jacoco-cov-badge-maven-plugin	1.1.0		166458fb409001fc47fd349d4ad20e0aa349d837
@@ -722,10 +727,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.80.0		17aebf99c4b9ae80a773da3584250661257dd332
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.81.0		0d033c603cf8143544576c01fbcebf10c237b2a8
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.82.0		6bc8fc9ef92d74f528062cbd66c2199967d8a83f
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.82.1		125150168b5ebb9a260486860889853c600080da
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.83.0		806ad47a26c775d9b84d42f919a31b03eb266e43
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.83.1		17630690dcd7b8f9cd90f0c8541606367cb62dca
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.83.2		9b1823706c4ce4e738bae1b287900222f2de1744
 org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.83.3		c553d3cffd53659c45c540e9b7c4d1793ac6b412
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.84.0		4abdbe8f0a418fbd6d138bba1970013fa4310b63
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.84.1		04af0aeea75ea033952e429a30f352f4039b867e
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.85.0		7d0b146a96a5ddd2ef107d64d3bf6c9d7c7756e6
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.85.1		641b386dbf97601eafe430373d8b2de0d458db00
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.85.2		91c33c0c1ac2644d89aac359177afa631c2f7525
+org.finos.legend.engine	legend-engine-xt-relationalStore-postgresSqlModel-pure	4.85.3		9d48dc3b11c005b83b3f40ec7974d2179c1fd0a7
 org.flywaydb	flyway-commandline	10.0.0		52b59be3d9dddf30b7210c6dc7fa4cecafdb8f1e
 org.flywaydb	flyway-commandline	10.0.1		5028810835be0d054d03944c67764735d78411d5
 org.flywaydb	flyway-commandline	10.1.0		2ee0076eec64829e477d9f48399c7cf81999cd2b
@@ -781,6 +793,8 @@ org.flywaydb	flyway-commandline	11.7.0		c5de9a8e8571965c78232309da4b6f98ad63f38f
 org.flywaydb	flyway-commandline	11.7.1		d2dd1eb8121ef736c234c02fa1e1f1ba226b3c8d
 org.flywaydb	flyway-commandline	11.7.2		796a13e3de6441dbad7c0ffa8f4914507ae75ace
 org.flywaydb	flyway-commandline	11.8.0		8c83e72533f450433c28508898891c9eafb9a094
+org.flywaydb	flyway-commandline	11.8.1		60f46985507f827a0357e6c1210f41554bb63908
+org.flywaydb	flyway-commandline	11.8.2		571f2238168d314fa5c1572abc257d9e3761b393
 org.flywaydb	flyway-commandline	3.0		e23636cd6c9bbacd63486c77143ab1d30d2c90b7
 org.flywaydb	flyway-commandline	3.1		e10ef983685b51c83b314416834f9f9c3c1be523
 org.flywaydb	flyway-commandline	3.2		7b3d06cc4dedafb2e1ed9454b95f157c6548287d

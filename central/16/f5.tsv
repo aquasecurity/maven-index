@@ -880,6 +880,7 @@ com.larksuite.oapi	oapi-sdk	2.4.13-beta.2		785c1e8ceb3935fa47a3f054ceb024e969b1a
 com.larksuite.oapi	oapi-sdk	2.4.14		370047ef2c841ab94d5fb4820bde4503d9c24159
 com.larksuite.oapi	oapi-sdk	2.4.14-beta.1		52826f40ecc7bd1327f80479f3cf37e54567c24f
 com.larksuite.oapi	oapi-sdk	2.4.15		fa5e05f96129017b7fe09a9393e73036a29cc670
+com.larksuite.oapi	oapi-sdk	2.4.16		6217eccd7b7e11f7c538013c2e1d888979211c33
 com.larksuite.oapi	oapi-sdk	2.4.3		403446a02ee28a97c7fef1c16c2e0099e71b5948
 com.larksuite.oapi	oapi-sdk	2.4.4		79422442d01e5cfe3a066158b8a84bec55b3a438
 com.larksuite.oapi	oapi-sdk	2.4.5		3b06303b1852a2409c15398542199c478b1a266f
@@ -1353,6 +1354,7 @@ dev.zio	zio-aws-opsworks_3	7.31.27.1		5ab7954dc8469f9a577c04c3719bca92c7a84d56
 dev.zio	zio-aws-opsworks_3	7.31.28.1		8a3493a36e3eea05b168a4b2cce91a6f9e251655
 dev.zio	zio-aws-opsworks_3	7.31.3.1		9cd34b4c60d6502f48e0feb3dd8da8c1d0be7fbd
 dev.zio	zio-aws-opsworks_3	7.31.30.1		efb986950ac5ed768398f06c3d26d58f5930df8f
+dev.zio	zio-aws-opsworks_3	7.31.30.2		5dd938586a38e987f61f7f7c7d7b85387e3d9004
 dev.zio	zio-aws-opsworks_3	7.31.4.1		d134b83a478dbcadf530e58a4fc508fd67b21edd
 dev.zio	zio-aws-opsworks_3	7.31.6.1		b1ced1d4452d12780252c09317043338b4ea32da
 dev.zio	zio-aws-opsworks_3	7.31.6.2		a816cfefd7b19c036518f709e06d0332b79858ad
@@ -1632,6 +1634,7 @@ io.helidon.messaging.aq	helidon-messaging-aq	4.1.6		bced377a73e4348b5fe31966b6ad
 io.helidon.messaging.aq	helidon-messaging-aq	4.1.7		734e43dedb3df4e92173ad57fb833223b8e2cb92
 io.helidon.messaging.aq	helidon-messaging-aq	4.2.0		7fd043b1254b3746e67c2ad16c087bb1dd79a2f7
 io.helidon.messaging.aq	helidon-messaging-aq	4.2.1		eeeaae99c1e57e676d3699d3a88a00dac9bacc73
+io.helidon.messaging.aq	helidon-messaging-aq	4.2.2		ae186160ebae6c187c0aaefc8dbbaad36311c064
 io.monix	monix-execution_2.12.0-M5	2.0.0		db4eb1c8d565ae1f123c766fe268bf9e3e5dba6b
 io.openmessaging	openmessaging-connector	0.1.0-beta		8c6672c7fa9fdcb7427537884c377d82b5dc54ed
 io.openmessaging	openmessaging-connector	0.1.1		a37859a2c70c1af072dcaf14201a3b4f2bcfb2ff
@@ -2004,6 +2007,7 @@ org.apache.camel	camel-crypto	4.8.3		02edf573906b093293284e40cdea9072fc16e6d6
 org.apache.camel	camel-crypto	4.8.4		b69427c3fe799de67bbc14e96e9c1c5cf9f44d0b
 org.apache.camel	camel-crypto	4.8.5		38252787504c67acc9ff6be4b4803d0db49b1bab
 org.apache.camel	camel-crypto	4.8.6		c1627de88244e3ead5f740c2d779890efef9b136
+org.apache.camel	camel-crypto	4.8.7		bbec53c5428eaefd63423fa9677bd8689b8dbab8
 org.apache.camel	camel-crypto	4.9.0		6473dbe642099b9e2420f45ae20dd59dcf940b0d
 org.apache.cocoon	cocoon-web3	2.3.0		N/A
 org.apache.deltaspike.core	integration-test	0.1-incubating		4b0456cf8a0d77a70c92dcde0c0b73fed8c9cb86
@@ -2170,6 +2174,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-utils-watchosx64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-utils-watchosx64	0.6.1	metadata	e51b8fa64079419b40d978a9571dbbffa37160a3
 org.jetbrains.kotlinx	kotlinx-rpc-utils-watchosx64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-utils-watchosx64	0.6.2	metadata	f7165439f8ee1197323fb0b4776d2d2e9820fe22
+org.jetbrains.kotlinx	kotlinx-rpc-utils-watchosx64	0.7.0	metadata	63a51c91b4ed50e388777da5fd0fc96b93231bd0
 org.kie.kogito	kogito-addons-messaging	1.11.0.Final		28d1937cf96a380661c35e8b8d0efe5f644b25d0
 org.kie.kogito	kogito-addons-messaging	1.11.1.Final		4a97175904ba42e97d52e147e1237dc3daa07dc4
 org.kie.kogito	kogito-addons-messaging	1.12.0.Final		b50cf2552ee4a5ab7cb26a3a182bca2cafa16c74
@@ -4384,7 +4389,18 @@ software.amazon.awssdk	kinesis	2.31.30		d82c5f1062b8b56b1e03583beb928adf90cd3462
 software.amazon.awssdk	kinesis	2.31.31		73e078e92903c0d713fcad7bc390cbc2fe8083af
 software.amazon.awssdk	kinesis	2.31.32		f069afd6fcd5ac3be191088826c78850f8b2ebe7
 software.amazon.awssdk	kinesis	2.31.33		2081ffc89fef93623b0689e5bfe6892ab4bde336
+software.amazon.awssdk	kinesis	2.31.34		59817c96c458c7546ca9bf9303a849889f4d81d3
+software.amazon.awssdk	kinesis	2.31.35		7dace447107492d4768ae1c2d3df78a11aa3ac60
+software.amazon.awssdk	kinesis	2.31.36		f6322637ce06557b2deb2d9f9d137f9fe7309727
+software.amazon.awssdk	kinesis	2.31.37		a183d2686583c8b731683889d956b77b9761d066
+software.amazon.awssdk	kinesis	2.31.38		4a8c6dc66070c2d1a41110e9aa6deb62c0ca0f41
+software.amazon.awssdk	kinesis	2.31.39		8f138ba3347755859ad448b4158415273cc5be06
 software.amazon.awssdk	kinesis	2.31.4		6cb847df3873a05104d6fa5dbe528285d6ce96a7
+software.amazon.awssdk	kinesis	2.31.40		6268a30e8095a53cd512812ac74c82a4e5e5ed41
+software.amazon.awssdk	kinesis	2.31.41		e2a7a63246dc7866b84f24ef557611a745a2bbad
+software.amazon.awssdk	kinesis	2.31.42		493713c1195edad563f8a6912c09b4dd6ba87604
+software.amazon.awssdk	kinesis	2.31.43		254be0c010cc1499e5f665f3ca5c274a94df2fd8
+software.amazon.awssdk	kinesis	2.31.44		f50aa639883efd41aa2d17a83312958da6af08ca
 software.amazon.awssdk	kinesis	2.31.5		a10f02bdee7f5782b439a8ae0fe37a288d354d3a
 software.amazon.awssdk	kinesis	2.31.6		ec861ace372d501a0bc211cbfe1339ee279571c9
 software.amazon.awssdk	kinesis	2.31.7		831da1c030c9256db24b5be3dcba4bd181cb23ea

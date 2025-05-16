@@ -426,7 +426,11 @@ com.codbex.hyperion	codbex-hyperion-welcome	2.35.0		e114c4065adcdb79dd58261ffc29
 com.codbex.hyperion	codbex-hyperion-welcome	2.36.0		e82da3b8d2d0152885fc0b8e851d5b251945ddb8
 com.codbex.hyperion	codbex-hyperion-welcome	2.37.0		075ae17261e42903259cef70d970dc4c840ad6e4
 com.codbex.hyperion	codbex-hyperion-welcome	2.38.0		d7d3937f3c4765a779c01b2ec33e1aca6cd4c5f7
+com.codbex.hyperion	codbex-hyperion-welcome	2.39.0		f8aa3fc446c54090f33f47df4a55b95467720a0d
 com.codbex.hyperion	codbex-hyperion-welcome	2.4.0		ad859671b5146bdd2f44ee300ec94725e2c81c45
+com.codbex.hyperion	codbex-hyperion-welcome	2.40.0		395340774bd96e2b3954cde3b1a73136c334b7f7
+com.codbex.hyperion	codbex-hyperion-welcome	2.41.0		5b13841616ed947322188beb273885d97af40e18
+com.codbex.hyperion	codbex-hyperion-welcome	2.42.0		1f0aeeac5d25fc358ede2237f236970ac537044b
 com.codbex.hyperion	codbex-hyperion-welcome	2.5.0		ca236c2d70522555d9fc40f6b849b17856989266
 com.codbex.hyperion	codbex-hyperion-welcome	2.7.0		336bc193dc0e9c7c238e08fff5132894b6768c80
 com.codbex.hyperion	codbex-hyperion-welcome	2.8.0		1f818af623292f68dbc7dc484a11a883d903a313
@@ -842,6 +846,7 @@ dev.langchain4j	langchain4j-web-search-engine-searchapi	1.0.0-beta1		4af7749117d
 dev.langchain4j	langchain4j-web-search-engine-searchapi	1.0.0-beta2		6af719b8a6952fd8d83f20634f4cb9ff0c7862fb
 dev.langchain4j	langchain4j-web-search-engine-searchapi	1.0.0-beta3		5801b6ce6526c14aa84e84e532318ac86f9d8a36
 dev.langchain4j	langchain4j-web-search-engine-searchapi	1.0.0-beta4		941b8e8bac2301e9e8531f74513caad61a4e4f90
+dev.langchain4j	langchain4j-web-search-engine-searchapi	1.0.0-beta5		c3b5ee307be4b26b2472f79ee5a3a215b5b76e46
 dev.mokkery	mokkery-core-macosx64	1.0		N/A
 dev.mokkery	mokkery-core-macosx64	1.0	metadata	0af8a270858dc5e0eefbca5a1cdada2f378cc236
 dev.mokkery	mokkery-core-macosx64	1.8.20-1.0.1		N/A
@@ -1273,6 +1278,7 @@ dev.zio	zio-aws-ecs_2.12	7.31.27.1		0a370b38a7b6c6a7d52afc9a5cf7db9b8fdb6ddf
 dev.zio	zio-aws-ecs_2.12	7.31.28.1		3a893fbaacf01825644e113ebb5fceda43ccafae
 dev.zio	zio-aws-ecs_2.12	7.31.3.1		4b0682e2507b0214dc4f6a53d412e113303d67d5
 dev.zio	zio-aws-ecs_2.12	7.31.30.1		830cf4be35cfa2cfe8b4fb5c236e635946ebbe46
+dev.zio	zio-aws-ecs_2.12	7.31.30.2		3dc222241c7063d1baf2f70e3abaa60a4f239346
 dev.zio	zio-aws-ecs_2.12	7.31.4.1		cd4c8d9e3f2b405acf58451928ed23f13cad4903
 dev.zio	zio-aws-ecs_2.12	7.31.6.1		2d6cee942952d30cc266ce669f6f4453e750468e
 dev.zio	zio-aws-ecs_2.12	7.31.6.2		b648b33deb4a0d3f7a92460f4f65b5de0b3df2a8
@@ -1598,6 +1604,7 @@ dev.zio	zio-aws-marketplacecatalog_2.13	7.31.27.1		2b014c12e6b4c7a87b4a1745b235f
 dev.zio	zio-aws-marketplacecatalog_2.13	7.31.28.1		531b312db21de20e54aa3ed79ff7443e7a251c5b
 dev.zio	zio-aws-marketplacecatalog_2.13	7.31.3.1		ecb53c7e6b0e16d3bf7bb0d36b8b2474c63eed40
 dev.zio	zio-aws-marketplacecatalog_2.13	7.31.30.1		a113ac9bff9eb299c01081cd389cb426a1dc6681
+dev.zio	zio-aws-marketplacecatalog_2.13	7.31.30.2		6a5c4b55832b58cd17d1a130b6e3788d000ac4f0
 dev.zio	zio-aws-marketplacecatalog_2.13	7.31.4.1		6b8731e281e9b26d7aab8ad493a5773e5a5f0fbd
 dev.zio	zio-aws-marketplacecatalog_2.13	7.31.6.1		d9ad4a2cacc8b06ef0a66f2142fb029f73d23e36
 dev.zio	zio-aws-marketplacecatalog_2.13	7.31.6.2		92fa3790d7c8681e00bb92439f7d5ba7e40e795c
@@ -2867,6 +2874,7 @@ org.wildfly	wildfly-clustering-weld-web	35.0.0.Final		5845583c0d230462a61b3f9232
 org.wildfly	wildfly-clustering-weld-web	35.0.1.Final		b9ecacf06ebbb98980a50567a950ff34ae4918cc
 org.wildfly	wildfly-clustering-weld-web	36.0.0.Beta1		edd7c43a85acd4e6c8bf49ed0c1deaa0ef4abc64
 org.wildfly	wildfly-clustering-weld-web	36.0.0.Final		3446a421eb3d202142ff04bd0141eb810a20eff6
+org.wildfly	wildfly-clustering-weld-web	36.0.1.Final		05e68f6bcff3b4310affb8becdc46c5f6c265aa3
 pl.iterators	kebs-macro-utils_3	1.9.4		577c6ce19bdb712088e73d3c7696ebc665a330b6
 pl.iterators	kebs-macro-utils_3	1.9.5		a3e9726cc749e2c28f281a6bd5d5f041f2861dda
 pl.iterators	kebs-macro-utils_3	1.9.6		e3ef901a736daeb389a7ed6513b8684cbb90c127
@@ -4182,7 +4190,18 @@ software.amazon.awssdk	textract	2.31.30		a75c9e56cc081e49f6faa8d682366aaed3e63ef
 software.amazon.awssdk	textract	2.31.31		5f87958ba144fdb42a1c4bd8ff5e9b99465367bb
 software.amazon.awssdk	textract	2.31.32		608f00353a5025830869e042a1f70b89960bb001
 software.amazon.awssdk	textract	2.31.33		aea9d4a8c4334c51e5f089bd5a5cb647912c4220
+software.amazon.awssdk	textract	2.31.34		a4bbedeb17adc97826e10fadb83756f19235e198
+software.amazon.awssdk	textract	2.31.35		00f9cfca45eff7fa058bb2c7d3dd42a2ae085be6
+software.amazon.awssdk	textract	2.31.36		53f724bf1a85b42deab69b1f8289c1fdeda19092
+software.amazon.awssdk	textract	2.31.37		9fc2a4c5b884ddc5a6c270b59d4e332b37ce011b
+software.amazon.awssdk	textract	2.31.38		e53c6a926ceda9fadb66a112c49d99e9730b898e
+software.amazon.awssdk	textract	2.31.39		72899fc64e863b40f4815e5b7f8dc913d7e51742
 software.amazon.awssdk	textract	2.31.4		b9cbe814c20204d25d6c0b3c52c4744b65199b43
+software.amazon.awssdk	textract	2.31.40		491b50432a511458626bd9ef6aa17c0a520eeb5f
+software.amazon.awssdk	textract	2.31.41		9188aeae47e6482816e4cfcc7e34eb5cea8aee80
+software.amazon.awssdk	textract	2.31.42		9d6ea2512bbd8ff3ed471b785d65ef4a1658d669
+software.amazon.awssdk	textract	2.31.43		bcbc4dd164c8f5acba3de8b69a34d1d03c4e1139
+software.amazon.awssdk	textract	2.31.44		efa23f0e3e843c25dfc8a507de60c16a2d99dd03
 software.amazon.awssdk	textract	2.31.5		2d9ad80188e166004413169f3f5c4931a63bb813
 software.amazon.awssdk	textract	2.31.6		aae00c5d2bd932e3d4e474827a35aba9611dea3e
 software.amazon.awssdk	textract	2.31.7		ba60069aa85088b707b1326e28a7dfdf0ba2566c

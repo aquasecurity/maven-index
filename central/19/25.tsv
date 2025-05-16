@@ -243,6 +243,7 @@ com.openai	openai-java-core	1.4.1		dae4a1aca9b470a35039e257e204a9d5c21ca79a
 com.openai	openai-java-core	1.5.0		7e4880d1e2c7c16b6950123b039006dbd44fc371
 com.openai	openai-java-core	1.5.1		eb11e13fcf46f684a0044e565db29c918e10ed3d
 com.openai	openai-java-core	1.6.0		443cc294cc2c0885646c6b16c277cc7a2adb8c2f
+com.sensatus	sbt-backup_2.10_0.13	1.0.0		949cc9d8d6d7a03df10010db51ffaa8ad8a7729a
 com.synopsys.integration	integration-rest	1.0.0		ab28240156f6a9330ea0397cf2ae246a183c2813
 com.synopsys.integration	integration-rest	1.0.1		10788735e06cfc8e1b9c84fddcbcd0a41fe463f9
 com.synopsys.integration	integration-rest	1.0.2		eb9b84451ac069f8b9142e65fbbf28c825fa90de
@@ -751,7 +752,14 @@ com.zegreatrob.jsmints	wrapper-processor	6.4.21		28cbbd267e2cdbea0a637d71db8f57b
 com.zegreatrob.jsmints	wrapper-processor	6.4.22		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 com.zegreatrob.jsmints	wrapper-processor	6.4.23		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 com.zegreatrob.jsmints	wrapper-processor	6.4.24		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+com.zegreatrob.jsmints	wrapper-processor	6.4.25		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+com.zegreatrob.jsmints	wrapper-processor	6.4.26		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+com.zegreatrob.jsmints	wrapper-processor	6.4.27		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+com.zegreatrob.jsmints	wrapper-processor	6.4.28		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+com.zegreatrob.jsmints	wrapper-processor	6.4.29		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 com.zegreatrob.jsmints	wrapper-processor	6.4.3		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+com.zegreatrob.jsmints	wrapper-processor	6.4.31		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+com.zegreatrob.jsmints	wrapper-processor	6.4.32		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 com.zegreatrob.jsmints	wrapper-processor	6.4.4		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 com.zegreatrob.jsmints	wrapper-processor	6.4.5		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 com.zegreatrob.jsmints	wrapper-processor	6.4.6		28cbbd267e2cdbea0a637d71db8f57b788a419c0
@@ -884,6 +892,8 @@ io.ktor	ktor-server-csrf-tvosx64	3.1.1		01fcf5fa2ab3a6760456f674fdd9b54b203832cc
 io.ktor	ktor-server-csrf-tvosx64	3.1.1	metadata	289c249e17f0e3766bc50557b9c66d0ec5ebce60
 io.ktor	ktor-server-csrf-tvosx64	3.1.2		69dadeefcce7407ad9cab9164c00cd09324a2203
 io.ktor	ktor-server-csrf-tvosx64	3.1.2	metadata	06e95fef04001016105f67115e54e3be2a25c359
+io.ktor	ktor-server-csrf-tvosx64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-csrf-tvosx64	3.1.3	metadata	1177e9d20991acb0fcfdfdc82462870ac06d5c93
 io.neos.fusion4j	platform	0.9.0		N/A
 io.nosqlbench	adapter-tcp	4.17.17		0f222815c1013f2ac05ea5d55ea6cb1145dacee5
 io.nosqlbench	adapter-tcp	4.17.18		f51b427fcabec2a568c8ced935edb66dd54ea6c4
@@ -981,6 +991,7 @@ io.quarkus	quarkus-smallrye-context-propagation-spi	3.15.2		3dc1587ddd362db18202
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.15.3		dc6ab8282aa1985deea5b5a5015143e10563b234
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.15.3.1		9015066fcf5b4e2b1323232c163b43d9431ed5ef
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.15.4		c664376cb77ff97fc741f6b5e653ea44c828cb7c
+io.quarkus	quarkus-smallrye-context-propagation-spi	3.15.5		0593d13aac3befa5bf0634fd0a16e4fe23d285d0
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.16.0		7fdf402434775e52133d6904d4c6390d1dde5601
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.16.0.CR1		078441695a79e3eee9187b8345db1fed55885347
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.16.1		6f6a77c532d2c17362a12e91b81f6e2e3acae06f
@@ -1025,6 +1036,7 @@ io.quarkus	quarkus-smallrye-context-propagation-spi	3.2.8.Final		56e71d92e1179be
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.2.9.Final		9842593bbc4bab1e696f37441aee09ef834f20a7
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.20.0		27cfa5540aa8b7c25b14c1ba202ff7d5d50233cc
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.20.0.CR1		6b57b8c797de7367299bcb16ba3ab7816c452074
+io.quarkus	quarkus-smallrye-context-propagation-spi	3.20.1		f1b3ba5a970606017a197b9921d39d8b51ea78a9
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.21.0		7b6e23f06022a2efa4d2c749ea2e4ef011a35a04
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.21.0.CR1		4c9d727fbf38f10da941f5c35fc6b9cd7d9c5939
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.21.1		ed98be0969d8fbe2e5cdcf7541aa63e2fd5ee48d
@@ -1034,6 +1046,9 @@ io.quarkus	quarkus-smallrye-context-propagation-spi	3.21.4		7e9279df831df2b16e66
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.22.0		414dcfdc35973b17eda69421b4bf97faa623c68e
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.22.0.CR1		4fac4d5cffd9b2992619c80d35076a860e9328b4
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.22.1		da94e8aa49ccd367a9c9809bbd60e37cec81f9a8
+io.quarkus	quarkus-smallrye-context-propagation-spi	3.22.2		b6e89d198b20bad830dfa020b4697ea426f2b8d0
+io.quarkus	quarkus-smallrye-context-propagation-spi	3.22.3		5c25afd2f992f3f53cad7fb673b54756ea7de807
+io.quarkus	quarkus-smallrye-context-propagation-spi	3.23.0.CR1		aa1d6d65b57c956042c7f09afbd7730b5e2dd9b8
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.3.0		413cac095bf0724f025da325ef50bc5dbea277a3
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.3.0.CR1		69d5f481e9d80ee7d452bddfeb76ab67d9a80855
 io.quarkus	quarkus-smallrye-context-propagation-spi	3.3.1		a5c753dbfc3c5d8c805052db337d3ae7e8b0a77d
@@ -1235,6 +1250,9 @@ org.eclipse.tractusx.irs	irs-models	2.1.8		ff44d7ebbaef20badd77d9228144c0afa803e
 org.eclipse.tractusx.irs	irs-models	2.1.9		25fc149a733621e3e3b98ecf0912d4a5da3d67ce
 org.eclipse.tractusx.irs	irs-models	2.2.0		346b9c024026036827471103c5b21b66d2cea6f3
 org.eclipse.tractusx.irs	irs-models	2.2.1		452de876b9e57d67ca584e00d84ec6afe189d3ab
+org.eclipse.tractusx.irs	irs-models	3.0.0		99e9c8db8d00d459cd567ae123e32c945c79c118
+org.eclipse.tractusx.irs	irs-models	3.0.1		87009af8013b3e7e2133d76a43a2d8594d11dc99
+org.eclipse.tractusx.irs	irs-models	3.0.2		360afc36b6f2f4ab8b1abe2ee76679151a0a03d0
 org.fosslight	android-dependency-scanning	1.0.0		66fdf4a1cee8363a5c1141c1872cef28261c0336
 org.fosslight	android-dependency-scanning	1.0.0_pre		e8366e2f87447473c19e444ae62bb5cf5ee7ab6b
 org.http4s	http4s-session_native0.4_2.13	0.2.0		3a74a266351c4c647509ae9d7bac20d54393a9aa
@@ -1367,6 +1385,7 @@ org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.7.1		N/A
 org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.7.1	metadata	368cd9b611420ae3ca8271e6ec90432d35f28484
 org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.7.3		N/A
 org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.7.3	metadata	368cd9b611420ae3ca8271e6ec90432d35f28484
+org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.8.0	metadata	5fe69a5675f516fd1b6c51272446695d4ed853f9
 org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.8.0-alpha01	metadata	368cd9b611420ae3ca8271e6ec90432d35f28484
 org.jetbrains.compose.foundation	foundation-layout-uikitarm64	1.8.0-alpha02		N/A

@@ -266,6 +266,8 @@ com.faendir.awscdkkt	dsl	2.191.0-1.0.1		0b7daff7cbaa49f78a7fe747ceed991de1d6c7a3
 com.faendir.awscdkkt	dsl	2.192.0-1.0.1		62e5c9686298a7040fd438b09137c71f532f1532
 com.faendir.awscdkkt	dsl	2.193.0-1.0.1		fc52c35dc7b8de2435591212db0641e5529cd1f9
 com.faendir.awscdkkt	dsl	2.194.0-1.0.1		85c3a90b777d170fc4ea50084966c52ef8b8a8c7
+com.faendir.awscdkkt	dsl	2.195.0-1.0.1		6d6509cac1e4a3eb0f6bc3cb50d089316e7cdc19
+com.faendir.awscdkkt	dsl	2.196.0-1.0.1		b94dac3d0b3f4d7c39dbcfb7f4675eaaef3deb2a
 com.faendir.awscdkkt	dsl	2.79.1-0.0.2		3ad2f47d2304d7b3dd7f0630a45d91171597748a
 com.faendir.awscdkkt	dsl	2.79.1-0.0.3		dddc6061bb2e0be1f5d5199dbe2e2f2b2ded4349
 com.faendir.awscdkkt	dsl	2.80.0-0.0.2		17e38952b7efdcdd3cdb18ade0b34153fe01abf4
@@ -446,6 +448,8 @@ com.google.api.grpc	proto-google-cloud-datastream-v1	1.58.0		54d705c370c67be247f
 com.google.api.grpc	proto-google-cloud-datastream-v1	1.59.0		5d0567a50d722d6c0aac6ef062c6f28485fe4f71
 com.google.api.grpc	proto-google-cloud-datastream-v1	1.6.0		11adf6c254f6fbe5286d2135ee82b02a7d796629
 com.google.api.grpc	proto-google-cloud-datastream-v1	1.60.0		98ac4ad9f74c3fb3fdb148eef9238f721abb5f4a
+com.google.api.grpc	proto-google-cloud-datastream-v1	1.61.0		13699ee360786038920c049afc3c3e965228ead0
+com.google.api.grpc	proto-google-cloud-datastream-v1	1.62.0		df3cf386d0ad4928239565eb229b8b47a19dbde3
 com.google.api.grpc	proto-google-cloud-datastream-v1	1.7.0		4abbf3129123f6354561e9057821a5328c9f4684
 com.google.api.grpc	proto-google-cloud-datastream-v1	1.8.0		4bf9177981710adf4b1a79caba1d3d38eaf7bfff
 com.google.api.grpc	proto-google-cloud-datastream-v1	1.9.0		3462e4f4130f86776fcd5db3ac98bffff3756caa
@@ -470,6 +474,17 @@ com.karadzhov	scala-iso-country-i18n-zh_2.13	0.4.0		3cffa51dccc08c2e3d1ea7e65e14
 com.karadzhov	scala-iso-country-i18n-zh_2.13	0.5.0		ed10744401e65cf30cc0a98095c72f2a9acbeeaa
 com.koriit.kotlin	openapi-matcher	0.6.3		d49ceebf513285aa79341c30595ab57965b89aed
 com.koriit.kotlin	openapi-matcher	0.7.0		99ddb9478c0ab823cd95f63fb4be481ce0982ee8
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.14.8		b3ad153471b5e6fedba51d47c83c817bf695538a
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.14.9-20210601-df21aa5		73d03523acd1db8be60e665c77bd703e37952beb
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.1		8b7e3b66391040b891898a783d372562cdb7a9a0
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.1-20210421-f1bf198		ecfb80c5f95e1ae5969a379d2e18ea11e8a57040
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.2		cdf62aebf8975731d7bbd6ccad1deedbad36d8fc
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.2-20210507-8604f54		69169b5ea5e8f866235d488956e5380ca8d87512
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.3		e10c83d4e139628c0686ec7b319a34f9f1e08e7a
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.3-20211010-b64f49e		f25febdb22c48ad14e46ecf093365f0749f92127
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.3-20211010-fa26788		dee5fbb5574f9e17e5bb07ce93cfcb82a9f7a358
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.3-20211012-1fb4e83		9383ba69ead580a4148f2d677096d515a6ade5d5
+com.lightbend.cinnamon	sbt-cinnamon_2.10_0.13	2.15.4		7f7c2ebe123b6156759981d108e3094dc89e197f
 com.neko233	skilltree-memory-database	0.0.1		e15429fcbcf1aeccf3e66949c1a5a49f5fa1a731
 com.neko233	skilltree-memory-database	0.0.2		98589d3c3c2b131368e4f0352c224230d667eb5a
 com.neko233	skilltree-memory-database	0.0.3		b5a9a14093e621dc599e502a12acdfa9eb4bd48f
@@ -642,6 +657,8 @@ com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.10.5		9b12593b0a97
 com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.10.5.ee		9b12593b0a97bb1177dda8d7083b59fe6c8d5152
 com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.11.0		9b12593b0a97bb1177dda8d7083b59fe6c8d5152
 com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.11.0.ee		9b12593b0a97bb1177dda8d7083b59fe6c8d5152
+com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.11.1		9b12593b0a97bb1177dda8d7083b59fe6c8d5152
+com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.11.1.ee		9b12593b0a97bb1177dda8d7083b59fe6c8d5152
 com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.2.0		25ca9c035f8dd503a3d7558211ce0b950bebe5ed
 com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.2.0.ee		25ca9c035f8dd503a3d7558211ce0b950bebe5ed
 com.wavemaker.tools.apidocs	wavemaker-tools-apidocs-spring	11.2.1		25ca9c035f8dd503a3d7558211ce0b950bebe5ed
@@ -1534,6 +1551,7 @@ org.kiwiproject	dropwizard-config-providers	2.3.3		c6e4d6d943ff9e115eb3f9cc90594
 org.kiwiproject	dropwizard-config-providers	2.3.4		bdbfd7b64633881da4812ee02757dedb03d366c8
 org.kiwiproject	dropwizard-config-providers	2.3.5		7b0aaddf208d69de72f47c07000bb68ee5b35aab
 org.kiwiproject	dropwizard-config-providers	2.3.6		bbf91ce4ed19f0ae8f79e8e91c0f39eb048def02
+org.kiwiproject	dropwizard-config-providers	2.3.7		8a50d773fedddcb72cdb4be5a636f4093b69929f
 org.liquibase.ext	liquibase-db2i	1.0		d3e0aeba3076d24f4f544bb958a43e0951ba7ce1
 org.liquibase.ext	liquibase-db2i	3.10.0		2b8d28d21a4520f3c46093f7ab3cdc02d0da4232
 org.liquibase.ext	liquibase-db2i	3.10.1		1244a2884b6d0f17dc28c1f6f068707ff79ca682
@@ -1682,6 +1700,8 @@ org.ossreviewtoolkit.plugins.reporters	web-app-reporter	55.3.0		e6b5b91298c50fd7
 org.ossreviewtoolkit.plugins.reporters	web-app-reporter	56.0.0		3eb18ed957c1a40abf38f7e1e9934a7aaa31e9ef
 org.ossreviewtoolkit.plugins.reporters	web-app-reporter	56.1.0		f14b3e86f180ab2d65fe85d92fb0c75db79607a0
 org.ossreviewtoolkit.plugins.reporters	web-app-reporter	57.0.0		5268724bfb4cea4fb1e477804148d8b95ace11c1
+org.ossreviewtoolkit.plugins.reporters	web-app-reporter	58.0.0		0b111e9705fc346a03467d7a572a364e1551dfa2
+org.ossreviewtoolkit.plugins.reporters	web-app-reporter	58.0.1		90c2f77a432848ee4428466721c11f545c2ec6fc
 org.ossreviewtoolkit.plugins.reporters	web-app-reporter	6.0.0		2db157d6d10c6611af8dca127efd7d7cb1bf4c5f
 org.ossreviewtoolkit.plugins.reporters	web-app-reporter	6.1.0		9d1a7deb4a42eedc6c22233f7513243b9ee63e63
 org.ossreviewtoolkit.plugins.reporters	web-app-reporter	6.1.1		f85d42660fcfb4ffb3628e65a33088db360d3623

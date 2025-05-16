@@ -141,7 +141,9 @@ com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.35.0		7e2d4fd85949f8e29
 com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.36.0		64e9497fb3f886a83d8df94a14c22fb23505c8e3
 com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.37.0		874d1adb082d948d1e8249d4ad7bd800cd27311b
 com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.38.0		f113acdd71f168fe80d6de493f201bac0d0828ef
+com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.39.0		b1041c6dcf6ec51a105c302566259a4ed62c301d
 com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.4.0		60efa59ccfc9e4b63d1a04be8602854cf71bb99c
+com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.40.0		cee4f635250a40905083d613c1802ab04ade1e2b
 com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.5.0		9f34e51b280bab159e83337d8c33b1bbdd5afd0c
 com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.6.0		7e2cb7ed5d2e140f07006cc8d55a50dde35b08e8
 com.google.api.grpc	grpc-google-cloud-infra-manager-v1	0.7.0		de1b9e3621c6bd232a8c4be72356a85ea3f8af88
@@ -957,6 +959,7 @@ com.liferay	com.liferay.user.associated.data.web	6.0.8		3146574ca04dfeb72b8cb096
 com.liferay	com.liferay.user.associated.data.web	6.0.8	jspc	e348868bf228026738e6729765594fe0995802fc
 com.liferay	com.liferay.user.associated.data.web	6.0.9		c44cd0070c690036bf6b09b842176e907d6ae6a5
 com.liferay	com.liferay.user.associated.data.web	6.0.9	jspc	f422f4d2701350b1a68ed15be0f7b41db6c56683
+com.mantledillusion.metrics	trail-metrics-adaptor-jpa3	2.3.0		9a6bd6df06a8aa69694cc5c9435b7f804054f58a
 com.playtika.testcontainers	embedded-oracle-xe	1.54		b08998ce6aea99096b8baba2ecb9941e580bc18d
 com.playtika.testcontainers	embedded-oracle-xe	1.62		774f1f5019f457516c091e6445a068353633f531
 com.playtika.testcontainers	embedded-oracle-xe	1.63		02f15b69027af455aafcef41e529c14753f7f342
@@ -1052,6 +1055,8 @@ com.playtika.testcontainers	embedded-oracle-xe	3.1.0		1a9e4ca74cb764b1034bfab472
 com.playtika.testcontainers	embedded-oracle-xe	3.1.1		28d48e651c1b1bdd7460e5b399850795a4eaddb7
 com.playtika.testcontainers	embedded-oracle-xe	3.1.10		db56637f36a138663edcd97f1cf8cbdc29d8f10f
 com.playtika.testcontainers	embedded-oracle-xe	3.1.11		300dbd85cfc710f798bac0fb9e67cf445fab2375
+com.playtika.testcontainers	embedded-oracle-xe	3.1.12		178c3419e62adc0fbd47b4d5b87dd6f207e75240
+com.playtika.testcontainers	embedded-oracle-xe	3.1.13		f880f06eb1619a316412f56837fbfd333fa08d2c
 com.playtika.testcontainers	embedded-oracle-xe	3.1.2		bbb2ed7ef3a0d75b64101aeb9c77a428984aabe1
 com.playtika.testcontainers	embedded-oracle-xe	3.1.3		7c8c62687b2aae01f072dd459aa144dfd0c5d997
 com.playtika.testcontainers	embedded-oracle-xe	3.1.4		c0a32b8ee564d0209e031491db021f5b488738b6
@@ -1241,6 +1246,7 @@ io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosx64	0.2.2		N/A
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosx64	0.2.2	metadata	22fc149571fa2188184354d43c431e5e00c0c886
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosx64	0.2.3		N/A
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosx64	0.2.3	metadata	15a6636a1a73b5518a6525660f298a0aaff3f2e0
+io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-tvosx64	0.2.4	metadata	afdd599f23fde511dca9f7c8be0b956b0aec3365
 io.github.kezhenxu94	chatgpt-java-sdk	0.10.0		8f35dd1cb960341aad25f93dd692885fcfca2dda
 io.github.kezhenxu94	chatgpt-java-sdk	0.12.0		31c6d0b10ddace3a2a7e96c0ab293ef01242ec32
 io.github.kezhenxu94	chatgpt-java-sdk	0.14.0		92c722a080d81b8c41934af4f1a0b274df98cab4
@@ -1516,6 +1522,7 @@ io.quarkus	quarkus-resteasy-links	3.15.2		df1b560db24381afe90d0ea47642af96df2c85
 io.quarkus	quarkus-resteasy-links	3.15.3		9c80bc8f8f5bab4a84278157a0ec11bb3b7abbc8
 io.quarkus	quarkus-resteasy-links	3.15.3.1		1cd93d78302c9c0dc59e77570bf89f9fa9b4e698
 io.quarkus	quarkus-resteasy-links	3.15.4		07f671be57bfa8b3131dcf0946f7a2cdc01a078b
+io.quarkus	quarkus-resteasy-links	3.15.5		cf0f9a1af5749282418f575ccbd225a4d2a4f333
 io.quarkus	quarkus-resteasy-links	3.16.0		29562e26e16f7f8affbb1722d4e44c2c3d737ef9
 io.quarkus	quarkus-resteasy-links	3.16.0.CR1		aa53cdc5e8a9cb395627a8887fb74bdf30b2aac8
 io.quarkus	quarkus-resteasy-links	3.16.1		fce4303c4ee278f8896dcad3bf9515d2c700610e
@@ -1560,6 +1567,7 @@ io.quarkus	quarkus-resteasy-links	3.2.8.Final		af7a62f5585ff6f8d42ee0c72efac3283
 io.quarkus	quarkus-resteasy-links	3.2.9.Final		fa166bfa6acf97c523c5bac734be2ea14e6c915b
 io.quarkus	quarkus-resteasy-links	3.20.0		1b37986672c60645d499873e301164cb42394714
 io.quarkus	quarkus-resteasy-links	3.20.0.CR1		5d52a84c3c095da2581a41a27fa85079e7e1e6b0
+io.quarkus	quarkus-resteasy-links	3.20.1		4f870b416d97cbfdebca17728be4eb79a21eeff1
 io.quarkus	quarkus-resteasy-links	3.21.0		f629063d6d5050be154e91bffbcc5a78c72d9636
 io.quarkus	quarkus-resteasy-links	3.21.0.CR1		fee663cf3f2f3bd2e15138e0a6548367042e2536
 io.quarkus	quarkus-resteasy-links	3.21.1		3ec901948ed49fc63facc3b22379302e45a199e8
@@ -1569,6 +1577,9 @@ io.quarkus	quarkus-resteasy-links	3.21.4		092baf6a6b811f4adc1bacbe6ab76647c94228
 io.quarkus	quarkus-resteasy-links	3.22.0		b93537fd4a77e98318b1cfd6815994dd14f25f42
 io.quarkus	quarkus-resteasy-links	3.22.0.CR1		49155645bf3b843b0804b1b08cc6d32720802610
 io.quarkus	quarkus-resteasy-links	3.22.1		f3d890e978488bc99fbb7823b1023ae2b3f30280
+io.quarkus	quarkus-resteasy-links	3.22.2		dcb34334be6f52200c8b595f0f3ed913f8488671
+io.quarkus	quarkus-resteasy-links	3.22.3		d08a4a126b53bb5f7f43dae208f6bc1c6a0b6c5a
+io.quarkus	quarkus-resteasy-links	3.23.0.CR1		3aab4024829872041cd9bbbe3f5bce22f054a736
 io.quarkus	quarkus-resteasy-links	3.3.0		cc2023a554f7342e02faeb7cb58450a6755b2744
 io.quarkus	quarkus-resteasy-links	3.3.0.CR1		fa244b31f8b64293b6ac46e0c8430c491b8bd5bb
 io.quarkus	quarkus-resteasy-links	3.3.1		0e258a404c1e894aeb9a7d12f6d29f2e714567fc
@@ -1966,6 +1977,8 @@ org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.0		e4f9573a54654b5acfc
 org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.1		2263e0f211d5474c510c615810b5b5e3cd5278db
 org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.10		1496925df9cf29c43bcc9c820d9d799f208f9d63
 org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.10-jakarta		b0685d5eebc979c92d9075a6b62fb3a99c18137b
+org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.11		f9b68beb82d0a24cc4862f836e5a01ada39ae840
+org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.11-jakarta		6f303f589f607860c96222244a8ef7173570119e
 org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.2		2db4d05a2042db033dca76134e3c16dc4c3ac7c5
 org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.3		41dabc01ec48714d2ace112c8ef9019b68898825
 org.openl.rules	org.openl.rules.ruleservice.deployer	5.27.4		d8a27b6de331179054532956aa28cdd4999d187c

@@ -132,6 +132,8 @@ com.eygraber	vice-sources-iosarm64	0.9.0		N/A
 com.eygraber	vice-sources-iosarm64	0.9.0	metadata	d3bd5ccac5df18fedb4db876b5d8eac5fc1dddba
 com.eygraber	vice-sources-iosarm64	0.9.1		N/A
 com.eygraber	vice-sources-iosarm64	0.9.1	metadata	db52e2a4e8a5422ca7448e39f2f5a05e716a7479
+com.eygraber	vice-sources-iosarm64	0.9.10	metadata	e55e5af80444ca44b691794349c5c69eb5fcd0e6
+com.eygraber	vice-sources-iosarm64	0.9.11	metadata	8ca6eb8c8fed90a8cfab195cab9d96ecd45df085
 com.eygraber	vice-sources-iosarm64	0.9.2		N/A
 com.eygraber	vice-sources-iosarm64	0.9.2	metadata	1bc12662203b37ba1f538fe3b12226b425c9b740
 com.eygraber	vice-sources-iosarm64	0.9.3		N/A
@@ -540,6 +542,7 @@ com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.1-7-d8bbe5		ca6b81fc57d173c
 com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.10		443950fff745ba8b461c08990dd64797b71c9b7d
 com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.10-3-7afdee		272aa3f6b0e90186c5a7c09b808fcc58dd92132e
 com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.10-6-cb6954		f68de869e32b5e18344e8ce3199bb03bdd9b5b74
+com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.11		7f634ae35bec5b16adbd389baa1c32cda067b1f9
 com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.2		878559475cad6fd47626a0b4b888c484933ffef9
 com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.2-16-4a07b2		4ef2107d0806ff965a11a5d6f05b2ca3da6402f2
 com.lihaoyi	mill-contrib-scoverage-worker2_2.13	0.12.2-20-231ff6		e6bc5b4bbc812255280e77056490470d31aff682
@@ -616,6 +619,7 @@ com.pcloud.pcloud-networking-java	utils-reflection	2.7.0		9d258c14757d8fbab79ef9
 com.pcloud.pcloud-networking-java	utils-reflection	2.8.0		22be144b0859bfcc3411a37622e335de3926332e
 com.pcloud.pcloud-networking-java	utils-reflection	2.8.1		eaee26ead9f294656dd5b630bed7c278143215e4
 com.pcloud.pcloud-networking-java	utils-reflection	2.9.0		39c907bfabed922159d9965cd2431ac5571515b2
+com.pcloud.pcloud-networking-java	utils-reflection	2.9.1		4e10d026c8df81707aeeb7ba0914d896bad99683
 com.purbon.kafka.topology	julie-ops	edge		N/A
 com.samskivert	highchair-remote_2.10	0.0.5		24729809fafc72dd150cf97ddcbca41f766fb778
 com.seepine	json	0.0.1		14053de58f4efcf7e4e384ec91a931cb24a0ad4c
@@ -875,6 +879,7 @@ io.ktor	ktor-server-http-redirect-jvm	3.0.3		5bce63f26af4bb04bb4cbce4bb880641cf2
 io.ktor	ktor-server-http-redirect-jvm	3.1.0		296f9abdd029f3f889c3e898a6d0f72bd21d574e
 io.ktor	ktor-server-http-redirect-jvm	3.1.1		a618393e3f3f5f8f06a7f6cc734b78c1e80f7774
 io.ktor	ktor-server-http-redirect-jvm	3.1.2		d23f5b7442c99d788272e95cf36838981d3e019d
+io.ktor	ktor-server-http-redirect-jvm	3.1.3		d650e80b9eacfbba356a0ee991236bb4d5087c25
 io.lambdaworks	zio-elasticsearch_2.13	0.1.0		80f344ed252a78c1d708f2094d84e1ed0cef7a17
 io.lambdaworks	zio-elasticsearch_2.13	0.2.0		e5568d8265e15f3a08d2befc8267e418288925c2
 io.lambdaworks	zio-elasticsearch_2.13	0.3.0		51e6f1a2bce6d8d1d8d6f23cd31f148c529aafd9
@@ -924,6 +929,7 @@ io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.13.2-alpha		0a5f6d
 io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.13.3-alpha		2de20b91bcbd9947dda86ab3a943372cd8f3cacd
 io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.14.0-alpha		1a4a2b2472ed845c07a46347cb8270ed00262569
 io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.15.0-alpha		a30f135f20050bc835e3950e1e392872b8ce184f
+io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.16.0-alpha		af4e93a54f97b12cdbf6bd07b9b1f06ea2ab988f
 io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.2.0-alpha		8e67780a587f8e53661691514faa5113f6e1314a
 io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.3.0-alpha		fe17a4963c9eecd639fe88d16245e79910c29816
 io.opentelemetry.instrumentation	opentelemetry-hikaricp-3.0	2.4.0-alpha		9fbef8314523a3c9ede281f4d87e4429c1421211
@@ -1201,6 +1207,7 @@ io.quarkus	quarkus-hibernate-orm	3.15.2		276ff2789b2c5db6663cb424a6e4c841375bb69
 io.quarkus	quarkus-hibernate-orm	3.15.3		1697b592684d673ace5132cbb92e4aa26dbc1777
 io.quarkus	quarkus-hibernate-orm	3.15.3.1		3053c98750cc24404a02032513833820a363366b
 io.quarkus	quarkus-hibernate-orm	3.15.4		58b3d97c847e9bfbf930b3d9b700b1eff287a2d5
+io.quarkus	quarkus-hibernate-orm	3.15.5		865a714fc7cd633ac365a765a9ac5e071a0447ea
 io.quarkus	quarkus-hibernate-orm	3.16.0		98a651509e9ee7f8a522d72836a3340b0962218f
 io.quarkus	quarkus-hibernate-orm	3.16.0.CR1		f9191ebce754c271cf1bd577c3d3161a59c4dd45
 io.quarkus	quarkus-hibernate-orm	3.16.1		a745157167da50073456a2dffe05598bf0036399
@@ -1245,6 +1252,7 @@ io.quarkus	quarkus-hibernate-orm	3.2.8.Final		5f51e7f13eeddecbdfa49edb7f55abd9ea
 io.quarkus	quarkus-hibernate-orm	3.2.9.Final		4dcf286698c55e9373c05ef8405f7373864c90cd
 io.quarkus	quarkus-hibernate-orm	3.20.0		ff13633e1350abcb5d84f271ff60dcfdb051a945
 io.quarkus	quarkus-hibernate-orm	3.20.0.CR1		a573f3ff7f4014632755a261af25d7297ffa115a
+io.quarkus	quarkus-hibernate-orm	3.20.1		ec9148b5cc45521eada55919923a25eaecb35b70
 io.quarkus	quarkus-hibernate-orm	3.21.0		87c0d99065bf1f96b33618525539c65637f1c7ff
 io.quarkus	quarkus-hibernate-orm	3.21.0.CR1		2dbd0c9a198bc9196cd23d64f5c280fa0dacd8c5
 io.quarkus	quarkus-hibernate-orm	3.21.1		3658770cb46e20348ed79bb28a1429ca33b14ab7
@@ -1254,6 +1262,9 @@ io.quarkus	quarkus-hibernate-orm	3.21.4		d42917dc1c964a2979d2e29e28466b51d7a2fca
 io.quarkus	quarkus-hibernate-orm	3.22.0		ff9d07d130306f3b82a3d023c7a1f5e62238df57
 io.quarkus	quarkus-hibernate-orm	3.22.0.CR1		4f9486cc1a6fe8c70c8d099b80227d6e02460d45
 io.quarkus	quarkus-hibernate-orm	3.22.1		272eb4d7573a17ad9b48ba94d9c8da6979ac1bf5
+io.quarkus	quarkus-hibernate-orm	3.22.2		e6774a184d257847d4a848552975ae3239efa0d6
+io.quarkus	quarkus-hibernate-orm	3.22.3		f3172669963ff54431162ff73b3bf7b131d43eeb
+io.quarkus	quarkus-hibernate-orm	3.23.0.CR1		7dfcd9d0066727e8a2a85e3470140a87a0d68d60
 io.quarkus	quarkus-hibernate-orm	3.3.0		9464f967b6f0efe91526f1690a56971ec994b325
 io.quarkus	quarkus-hibernate-orm	3.3.0.CR1		0ae02638a6b83edc503d83a26190398064155db8
 io.quarkus	quarkus-hibernate-orm	3.3.1		ba4a68f4030f87b8b76d857c6feb85c692283ede

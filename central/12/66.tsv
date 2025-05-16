@@ -185,6 +185,7 @@ com.dua3.fx	fx-application	1.2.1		8e96353a7878560b9aee568cd794e776a861f439
 com.dua3.fx	fx-application	1.3.0		947d4ac17d034747282f67a7d961622af4df4146
 com.dua3.fx	fx-application	1.3.1		3c746c08efa637978450d132a08d45d7bb09f2c2
 com.dua3.fx	fx-application	1.3.2		d6f75cc46ec897423ee07699feb3eb08bae16384
+com.dua3.fx	fx-application	1.4.0		f02376a914940de013c8802da14e0e9c260b3015
 com.foursquare	placepicker	0.5.7		N/A
 com.foursquare	placepicker	0.6.0		N/A
 com.foursquare	placepicker	0.6.1		N/A
@@ -273,6 +274,7 @@ com.inkapplications.regolith	init-androidnativearm64	1.5.0		N/A
 com.inkapplications.regolith	init-androidnativearm64	1.6.0		N/A
 com.justtoplay.panda	panda-extension-queue-kafka	1.0.2		8db290d20fd28788d23c2ec00e2b68cc240b2a6d
 com.jwebmp.jre11	jwebmp-atmosphere	0.62.0.1		6e9c276ec106db667fbe802f2557aaaadd563a07
+com.liferay	org.osgi.service.http.whiteboard	1.1.1.JAKARTA-LIFERAY-PATCHED-1		b3337c15afee774384372fb0b12668475917f649
 com.manywho.sdk	sdk-test	1.15.0		db755dbaed7182c7140f1336342db259bf358457
 com.manywho.sdk	sdk-test	1.16.0		ed4fd7f2da2bcf8636eafbf94d91fdec12fd14b5
 com.manywho.sdk	sdk-test	1.17.0		a28a0f1dd54a519df468f454680007bf40dcfb8d
@@ -361,6 +363,7 @@ com.nablarch.archetype	nablarch-jaxrs-archetype	5u22		27b695d2bb2771b01b5a8e847c
 com.nablarch.archetype	nablarch-jaxrs-archetype	5u23		84dace95fe19097937aa35b1fde73258a3440cb8
 com.nablarch.archetype	nablarch-jaxrs-archetype	5u24		76aa017a55da8548cebc22ddc8be90861dc7bfbe
 com.nablarch.archetype	nablarch-jaxrs-archetype	5u25		32dd2a3c01203f68184124aced5a2b5ac5495186
+com.nablarch.archetype	nablarch-jaxrs-archetype	5u26		4684c8c4fa7d13c5ac5e34d19bb2e088088b85c4
 com.nablarch.archetype	nablarch-jaxrs-archetype	5u6		ba40695c4c57dfd831ab0fc11e56f26dff15c09a
 com.nablarch.archetype	nablarch-jaxrs-archetype	5u7		2dd6bce717ad3c74ffbd52a549fbfcd70094dc6c
 com.nablarch.archetype	nablarch-jaxrs-archetype	5u8		f3a732fa3e88a6638a72ffeb83404fc9df799188
@@ -549,6 +552,7 @@ io.ktor	ktor-server-csrf-androidnativearm32	3.0.3		236087ee15f55d590c390e85d9d16
 io.ktor	ktor-server-csrf-androidnativearm32	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-server-csrf-androidnativearm32	3.1.1		fede44b0f1487dd925915b259a422d3750f6e495
 io.ktor	ktor-server-csrf-androidnativearm32	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-server-csrf-androidnativearm32	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.openharmony.tpc.thirdlib	OhosAsyncLibrary	1.0.1		N/A
 io.openharmony.tpc.thirdlib	OhosAsyncLibrary	1.0.2		N/A
 io.openharmony.tpc.thirdlib	OhosAsyncLibrary	1.0.3		N/A
@@ -981,6 +985,7 @@ org.wildfly	wildfly-clustering-jgroups-api	35.0.0.Final		218323cde0d6bbec24c840c
 org.wildfly	wildfly-clustering-jgroups-api	35.0.1.Final		154af00cd71fef8d3faa8dbfb09ba6a864409f51
 org.wildfly	wildfly-clustering-jgroups-api	36.0.0.Beta1		ea9b1cdf8c22718ea94544c8a02ebb51703d3a7a
 org.wildfly	wildfly-clustering-jgroups-api	36.0.0.Final		76a46d6895b81a8daa045ba25f77f1da5e36e392
+org.wildfly	wildfly-clustering-jgroups-api	36.0.1.Final		1a36fd214e7e2c408f0065954f1bf501d7d61280
 org.wildfly	wildfly-clustering-jgroups-api	9.0.0.Beta1		8156bcab362f818b9943e494b0c7a7930f0effc6
 org.wildfly	wildfly-clustering-jgroups-api	9.0.0.Beta2		74ab6799abdac570fdb4017a98c6c01d7d247ff2
 org.wildfly	wildfly-clustering-jgroups-api	9.0.0.CR1		91a1ba444fabea79fe30627f9dcd98c13741490c
@@ -1836,7 +1841,18 @@ software.amazon.awssdk	internetmonitor	2.31.30		0321aa58d83dbbd55308abc131cc642d
 software.amazon.awssdk	internetmonitor	2.31.31		f9a6a38a6147194823799babe27879241a637fda
 software.amazon.awssdk	internetmonitor	2.31.32		ab2b3bc06cc7b1177a635812e9200c8b8f7f618b
 software.amazon.awssdk	internetmonitor	2.31.33		e5f361057fe2af8f5982a2d61aaa606cccadac55
+software.amazon.awssdk	internetmonitor	2.31.34		b91df005e4af7ba4a8786a26edae75c9d6e89607
+software.amazon.awssdk	internetmonitor	2.31.35		f6b54a3c77d42b20b94a22c214fcdeacaa4adacc
+software.amazon.awssdk	internetmonitor	2.31.36		c9b72bb19763fe6b8fb765468b84fb203bbbe3f9
+software.amazon.awssdk	internetmonitor	2.31.37		1fd6da62a42b4145bc3950b09e5c4b55c0457754
+software.amazon.awssdk	internetmonitor	2.31.38		8c499112cf79d7d87a20e2a6df6903de725a7562
+software.amazon.awssdk	internetmonitor	2.31.39		d2de34d279424b4d560faf81792b243034c5f0b5
 software.amazon.awssdk	internetmonitor	2.31.4		da4951c51d515a8d13a62ef07e31f131960acda1
+software.amazon.awssdk	internetmonitor	2.31.40		339cd086ad91151efdd74456f3968ff40d033312
+software.amazon.awssdk	internetmonitor	2.31.41		c24683b5589f215f53ca991937c0a2b9a8f4b4d4
+software.amazon.awssdk	internetmonitor	2.31.42		2b4a38686d1e2ad277377683ff4f7112e6615ac6
+software.amazon.awssdk	internetmonitor	2.31.43		5993b1d865fb8f1e0295087d5dbf887036cfdd59
+software.amazon.awssdk	internetmonitor	2.31.44		6fa29cab47d178f4d265d5f720408a73a2d7ee4d
 software.amazon.awssdk	internetmonitor	2.31.5		81ecb67b90c0421ace6fd1a64f9ae61191fc2807
 software.amazon.awssdk	internetmonitor	2.31.6		7836c90395ebd65e20ca0689b783aa4eeac9032f
 software.amazon.awssdk	internetmonitor	2.31.7		df4b522a53cf3dc5cef460ceae21ae97104c1565

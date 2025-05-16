@@ -98,6 +98,8 @@ ai.chronon	spark_embedded_2.13	0.0.94		e50e215bb6196067ab1c19ca719041e064b1009c
 ai.chronon	spark_embedded_2.13	0.0.94	assembly	4a3042afba90e78638e00536ea4c61e9d2e20ebc
 ai.chronon	spark_embedded_2.13	0.0.95		593984d76f1290d93d149a522f608cf7a114a08c
 ai.chronon	spark_embedded_2.13	0.0.95	assembly	7e2cd1791d861702ebb5d1adeee490a9ddf39af7
+ai.chronon	spark_embedded_2.13	0.0.96		8d4213332e536f5d97073d1b2833ee85f8809619
+ai.chronon	spark_embedded_2.13	0.0.96	assembly	4dbd7d32f1cb553c93716ebca4051b215cdb8c7a
 ai.chronon	spark_embedded_2.13	chaining-0.0.46-dev		54b67526687cd064f5c2ada366f9e827023caf2b
 ai.chronon	spark_embedded_2.13	chaining-0.0.46-dev	assembly	8a381b3caefeeb808c445e50d14d0a3e0333acbd
 ai.chronon	spark_embedded_2.13	def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91		ef01b89cef21963c74d7a8df7e7e3354707c8fef
@@ -935,6 +937,8 @@ com.vaadin	vaadin-cookie-consent-flow	23.5.12		790cd5ef07dc87294db718d39e9fe86f9
 com.vaadin	vaadin-cookie-consent-flow	23.5.13		3275dc051d9b301f80d536b76afdb9ba417ca77c
 com.vaadin	vaadin-cookie-consent-flow	23.5.14		6ab4f0bbf1faa845d6f6edd2cf1210330c21fae7
 com.vaadin	vaadin-cookie-consent-flow	23.5.15		ecc83f4e96609246e3404a33e634773fd22555ed
+com.vaadin	vaadin-cookie-consent-flow	23.5.16		219d50ebba8e8b17fcef0bf173cc87371d547edd
+com.vaadin	vaadin-cookie-consent-flow	23.5.17		b7c61c0eaaa00580fae3a8cfcf88c9cc114a3746
 com.vaadin	vaadin-cookie-consent-flow	23.5.2		7ad7b10aebec981713879cee596f10c41b3fa36d
 com.vaadin	vaadin-cookie-consent-flow	23.5.3		6458ef9a8c1157a6ab60c2d6322aca9ba694513e
 com.vaadin	vaadin-cookie-consent-flow	23.5.4		aa9fc0d5a367e82de45a844bd4e2eaddf3383b84
@@ -1049,6 +1053,7 @@ com.vaadin	vaadin-cookie-consent-flow	24.5.8		960d170e63d1b387ea6ee774de8434e1d8
 com.vaadin	vaadin-cookie-consent-flow	24.5.9		b90f3aee2724d5b9465fc588cab4c5d8c9f79a88
 com.vaadin	vaadin-cookie-consent-flow	24.6.0		d0752c933a787f693f13d524d979c50b3a29cec0
 com.vaadin	vaadin-cookie-consent-flow	24.6.1		b09342056080f63cc5f919c52fadeb2a8873d15a
+com.vaadin	vaadin-cookie-consent-flow	24.6.10		93d23722d4eb380cd085d26aeaad8e0e1fc28a62
 com.vaadin	vaadin-cookie-consent-flow	24.6.2		cc43c5a21cf5d409d0c0bee5f938b49a45ee9f17
 com.vaadin	vaadin-cookie-consent-flow	24.6.3		2b994a40c99142614b0de1cfe04f1d7c1ceb3056
 com.vaadin	vaadin-cookie-consent-flow	24.6.4		9b77779b3e8f92982d679b6f1aaa605fa03dcb6e
@@ -1061,6 +1066,7 @@ com.vaadin	vaadin-cookie-consent-flow	24.7.0		b093325e2e0efad77d893d64cc1c6feeaa
 com.vaadin	vaadin-cookie-consent-flow	24.7.1		fd3ddb57306fbce2228dff3647faccf2c31fa2dc
 com.vaadin	vaadin-cookie-consent-flow	24.7.2		68f31d75788cf992a3f7c0246ba8567bfcd4d148
 com.vaadin	vaadin-cookie-consent-flow	24.7.3		3897c5f521078f37f7f8beb1fbb4a6ea4b5c5c1f
+com.vaadin	vaadin-cookie-consent-flow	24.7.4		ef39e9516d71a35eb284d50f97e7ea6119a1c656
 com.vaadin	vaadin-cookie-consent-flow	3.0.0		fb2799e04fa708970810221ceee241751a07797a
 com.vaadin	vaadin-cookie-consent-flow	3.1.0		3956d2743e218e555e175ba61d2fc4bb9edd196d
 com.vaadin	vaadin-cookie-consent-flow	4.0.0		65705cc9cfb2cd9c78691d714ed88f3c52b574eb
@@ -1840,10 +1846,17 @@ org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.8.0		2297aa6bc23c3cc7432
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.80.0		9f14a71a03338448cc8cc64143d72e1e3d3b013b
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.81.0		5394668d8c34995279a5724097b3c8a6fb705602
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.82.0		3d7efc418d4f30b2ceb118bfc3231bed49b13fdd
+org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.82.1		29cb361d99a7394f4569c78ba48b301803a3e034
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.83.0		832ee5429adacd26c4d3653e95e185376ddbf565
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.83.1		62ea93dc8047c77a62393e474a558b37dc581503
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.83.2		4d616dc1b098310eaa2e60a4b97367ce552fef3c
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.83.3		e3f795b86b80a0d805e2b8965d87267345487826
+org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.84.0		b6cb647405ebab43859bfc4a6cd3349d41c0430e
+org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.84.1		0e36107b0c768c1112a6c1f2e16a8beb50d79699
+org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.85.0		269b5cde9b2461706cef874211fa61700cc53612
+org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.85.1		1866b5326ba284999e06115f50eb633927545105
+org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.85.2		cf402b5e44ace7fb1e5bbd80837af837e0bd62f0
+org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.85.3		92c0b0efae3cad62e06ceace8e93819fc7d567b0
 org.finos.legend.engine	legend-engine-xt-graphQL-pure	4.9.0		867184bd4579923c8769b2d08a18fed1cb9c859d
 org.glassfish.jersey.examples	bookmark-em	2.0		N/A
 org.glassfish.jersey.examples	bookmark-em	2.0-m05-2		N/A
@@ -2035,6 +2048,8 @@ org.graceframework	grace-plugin-converters	2023.2.0-M3		2f53bd5c62af7676911ce437
 org.graceframework	grace-plugin-converters	2023.2.0-RC1		439ce1c36eed676e1a93acfdc8e72c9113a8e33f
 org.graceframework	grace-plugin-converters	2023.3.0-M1		79cce9771e0fe3c671fedd5970ec86b81d5e0454
 org.graceframework	grace-plugin-converters	2023.3.0-M2		729aa6dabdc393f66df40076ca855663dbb8b505
+org.graceframework	grace-plugin-converters	2023.3.0-RC1		c71d59734c6264880598f22387c07b25fc7fe8fd
+org.graceframework	grace-plugin-converters	2023.3.0-RC2		415d759939e192c7f8bab0776027fbe1d1542cb9
 org.hravemzdy.legalios	kotlin-legalios	0.0.7		0b595472c165cb0b77cac1b0e2b7a47028b6cacb
 org.hravemzdy.legalios	kotlin-legalios	0.0.8		adf0ecd6e0af67880caffacb93157e792bcad791
 org.hravemzdy.legalios	kotlin-legalios	0.22.13		dfa0a1325681409e03e380de300315abdaa5069a
@@ -2599,6 +2614,7 @@ ru.tinkoff.kora	resilient-symbol-processor	1.1.22		f0ecf92d35db311a544bc7b44e6a5
 ru.tinkoff.kora	resilient-symbol-processor	1.1.23		88e6a221f909483a2cdfa19a7d50d3aa132cbbe9
 ru.tinkoff.kora	resilient-symbol-processor	1.1.24		22db6ef7c1186092f44ea0fa3591382881d84cc9
 ru.tinkoff.kora	resilient-symbol-processor	1.1.25		4fde0de38c2db0a56096f3c0e08bcd7f84f1f27e
+ru.tinkoff.kora	resilient-symbol-processor	1.1.26		3f647bae801c410874ea2431dc080b55ef671ceb
 ru.tinkoff.kora	resilient-symbol-processor	1.1.3		494d380a3bbb765846ea0bf6ef4f4da53dde4f1a
 ru.tinkoff.kora	resilient-symbol-processor	1.1.4		2a8436fce3067f4f9ee24fc2baed9cd4bfe7c721
 ru.tinkoff.kora	resilient-symbol-processor	1.1.5		62d2945b32486ae1ab11db9cfb06a1a36863fbc6

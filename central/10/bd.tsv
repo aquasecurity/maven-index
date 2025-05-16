@@ -124,6 +124,8 @@ ai.chronon	spark_uber_2.13	0.0.94		841bd5a980a704f7daf8e0640f1d79e1dd2caad9
 ai.chronon	spark_uber_2.13	0.0.94	assembly	fb410330849128441c8e795dc8f9d7b1a4eec17a
 ai.chronon	spark_uber_2.13	0.0.95		191bd17c134312eb6f89d244a0757933e064c499
 ai.chronon	spark_uber_2.13	0.0.95	assembly	130e113f4635890b68f963465c6b5f03ed35c33f
+ai.chronon	spark_uber_2.13	0.0.96		5d3bb090998b8dc6b98f7faeff6b7d878e20b3e9
+ai.chronon	spark_uber_2.13	0.0.96	assembly	15627e54e6b620470c220270fdb0b2aafc906a35
 ai.chronon	spark_uber_2.13	chaining-0.0.46-dev		caf1ddd8ddb0360eb40d824ec6b9168b9b95f289
 ai.chronon	spark_uber_2.13	chaining-0.0.46-dev	assembly	fe5bb8ee3ab74afade5c1f20a3dcdb8b96342d62
 ai.chronon	spark_uber_2.13	def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91		554976f1fc9f8e4f9f8e2fec8f9f5427e478be41
@@ -309,6 +311,7 @@ com.github.hal4j	hal4j-jackson	1.0.0		b7853f3b79c7e4da79c85c0517728fff388a3e7f
 com.github.hal4j	hal4j-jackson	1.0.1		1a71b864dfe8452977a7fabb85e02083cf83856c
 com.github.hal4j	hal4j-jackson	1.1.0		69d13afa319403cd7bd6d51819296aed089028b0
 com.github.hal4j	hal4j-jackson	1.2.0		eafb79789cadae975f4c6be2146c18c498ef003b
+com.github.hal4j	hal4j-jackson	1.3.0		28b04408607e36dcfae813bdd50cfb1e2db5ac15
 com.github.heideltime	heideltime	2.0.1		6a552c5c8c0cce036509b170cc25002b3359c2ba
 com.github.heideltime	heideltime	2.1		68c44d9d32be7aae988df182a7877776c4029975
 com.github.heideltime	heideltime	2.2.1		0209aac3ff20880267d9741dbeecee6b864e3195
@@ -605,6 +608,9 @@ com.vertispan.j2cl	j2cl-parent	0.11.0-9336533b6		N/A
 com.vertispan.j2cl	j2cl-parent	v20230718-1		N/A
 com.volcengine	volcengine-java-sdk-mlplatform20240701	0.2.5		b1a22015dda95781e22b8a013a40e8cfc85c3696
 com.volcengine	volcengine-java-sdk-mlplatform20240701	0.2.6		900ced5030b6b9d2e7b9fc1bfcdda183762edb07
+com.volcengine	volcengine-java-sdk-mlplatform20240701	0.2.7		1cabd3789993c3a8e66236c6fe8d54f2cd48b648
+com.volcengine	volcengine-java-sdk-mlplatform20240701	0.2.8		1b4af44900950b20ecbc77a00b93c7b2e2b05a7b
+com.volcengine	volcengine-java-sdk-mlplatform20240701	0.2.9		73d0e8f1dd229793b4e61ac592d79574eb0aad61
 com.yang-bo	htmlmountpoint_sjs0.6_2.13	0.0.0+313-70cfa964		cab881bd547ea7ed8f2a25f73b936a1e013a8e84
 com.yang-bo	htmlmountpoint_sjs0.6_2.13	0.0.0+315-144716d3		cbef564029a91aa44de9a620f61e0285d7bb7c9e
 com.yang-bo	htmlmountpoint_sjs0.6_2.13	0.0.0+316-6d5484d4		ecfa94cbecd7ab942d1e689ee4736b1d4eae7975
@@ -830,6 +836,7 @@ org.apache.beam	beam-sdks-java-maven-archetypes-gcp-bom-examples	2.61.0		91cf0ef
 org.apache.beam	beam-sdks-java-maven-archetypes-gcp-bom-examples	2.62.0		2040e5b58ed87b06bf965b21e087abfd8ca3b500
 org.apache.beam	beam-sdks-java-maven-archetypes-gcp-bom-examples	2.63.0		bf49dc97c79f92b12e0967afc2b76fd18f36ca03
 org.apache.beam	beam-sdks-java-maven-archetypes-gcp-bom-examples	2.64.0		89ce4456ce08247bb514311a2ac1bae6ff5a6689
+org.apache.beam	beam-sdks-java-maven-archetypes-gcp-bom-examples	2.65.0		d0f63e9fc6383a6969de58ace8ce36d4e2abfdfd
 org.apache.camel.kafkaconnector	camel-aws-ddb-experimental-sink-kafka-connector	3.19.0		52d049e8d82693c2fab45bc1ce9844a8a27ee7a3
 org.apache.camel.kafkaconnector	camel-aws-ddb-experimental-sink-kafka-connector	3.20.0		149f71eaac7c7fd18fffa6eee97e12a05ccf6188
 org.apache.camel.kafkaconnector	camel-aws-ddb-experimental-sink-kafka-connector	3.20.3		9d810850bd4d34da3009b1c4f1097e00d483e92d
@@ -1097,6 +1104,7 @@ org.scalameta	semanticdb-shared_sjs1_2.13	4.13.2		133c52fdcda56fbb2c4ed19fc12f2a
 org.scalameta	semanticdb-shared_sjs1_2.13	4.13.3		70e1e0738675040d8ba04b68626e3938c1779df2
 org.scalameta	semanticdb-shared_sjs1_2.13	4.13.4		0afb1161e5bce745f4327667e20cabbf057e689a
 org.scalameta	semanticdb-shared_sjs1_2.13	4.13.5		8758c9961aa78da5d49dacefdd3a2e67f4e2ca0b
+org.scalameta	semanticdb-shared_sjs1_2.13	4.13.6		ad0179befc5fe432af3170721b70836feb5d8140
 org.scalaz	scalaz-iteratee_sjs1_2.12	7.2.30		90ebb77467be3f4cd591479a5e16f8ec11562c17
 org.scalaz	scalaz-iteratee_sjs1_2.12	7.2.31		85c29d4eafb67c229ba64060c0d81cbb92ac44ec
 org.scalaz	scalaz-iteratee_sjs1_2.12	7.2.32		c3040348f765cfd0ce2d01466db7a491fce25d4b

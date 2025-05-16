@@ -429,7 +429,16 @@ aws.sdk.kotlin	ssooidc-jvm	1.4.73		2287e771ee9dda4eae6d006b04c21528c3b04402
 aws.sdk.kotlin	ssooidc-jvm	1.4.74		4ba3309dfed572108f6e8052988b75c3bc44383c
 aws.sdk.kotlin	ssooidc-jvm	1.4.75		370d36e1aba7317c26dedb52d76fd6e6252c6287
 aws.sdk.kotlin	ssooidc-jvm	1.4.76		df2486fffc55ca0ed39f8bffef8f1b33517b83da
+aws.sdk.kotlin	ssooidc-jvm	1.4.77		95b61a23a1470e4ad8e28837c077c983248701bc
+aws.sdk.kotlin	ssooidc-jvm	1.4.78		f3d212c0bc41d90e97dc299815947e2e3390b115
+aws.sdk.kotlin	ssooidc-jvm	1.4.79		89547cba5dafa76b143db42d7a0f518cd0b79eca
 aws.sdk.kotlin	ssooidc-jvm	1.4.8		078ab064ba5391a66543a93188edab8f2de4761d
+aws.sdk.kotlin	ssooidc-jvm	1.4.80		146bf538dd443dd518e2adf77fafb1d35e5e855e
+aws.sdk.kotlin	ssooidc-jvm	1.4.81		34c9b5dad3e7ca0c8e620c1e4d3fd2b8e8339261
+aws.sdk.kotlin	ssooidc-jvm	1.4.82		cb23422325f95834dc0db4d8be3fbaca7c570501
+aws.sdk.kotlin	ssooidc-jvm	1.4.83		40d4417602176cdd3a6451f8f0d3dc08f77da418
+aws.sdk.kotlin	ssooidc-jvm	1.4.84		e1997bd6fd40bb100583a31ff96e535aa289cf56
+aws.sdk.kotlin	ssooidc-jvm	1.4.85		80392b5a2c69a06830ea055d02f01a4b521a1e25
 aws.sdk.kotlin	ssooidc-jvm	1.4.9		d25afaf79814991f3737f0fb4bfa90e889ee8346
 biz.aQute.bnd	biz.aQute.resolve	3.2.0		991053ae861e90c223b1b251f090bc93301ec41f
 biz.aQute.bnd	biz.aQute.resolve	3.3.0		3091050004326920adeb79738e93813c1367e944
@@ -1203,6 +1212,7 @@ io.camunda	camunda-zeebe	8.4.15		43ba91b1eda7d7e78538513b9cb0dde864ce2751
 io.camunda	camunda-zeebe	8.4.16		baee90add5e00a112397806b9d2f146343b7c3f8
 io.camunda	camunda-zeebe	8.4.17		f301d40bdd88c7dce41bd10ec5ba04d2488224dd
 io.camunda	camunda-zeebe	8.4.18		6a439744746ee0a6c490d70a6f0e70a63fa3d3b9
+io.camunda	camunda-zeebe	8.4.19		0758d76f012bc2529f69a7ef2766793fe35bc779
 io.camunda	camunda-zeebe	8.4.2		d38e19b35be4b18de0fb10e86b350df075fd0383
 io.camunda	camunda-zeebe	8.4.3		6905d4c0b01e1e7f020d4003ab115a759e9909b8
 io.camunda	camunda-zeebe	8.4.4		2f815710a0e0c322136679675684a8a626c5017e
@@ -1225,6 +1235,7 @@ io.camunda	camunda-zeebe	8.5.14		681db980ba44308bb37a27225cc67405f7df790e
 io.camunda	camunda-zeebe	8.5.15		7078164ae6f00bdf7e5901ab91ea652f276e84d9
 io.camunda	camunda-zeebe	8.5.16		5cb1736a88c92d4758f3040bbf844e1132eb4277
 io.camunda	camunda-zeebe	8.5.17		8111bb36460ee76e822e37647da204324e125a29
+io.camunda	camunda-zeebe	8.5.18		5fda209474a18a059c3bb85496c4578cd1aa85ca
 io.camunda	camunda-zeebe	8.5.2		31052d78e16d043507311f6897e315721517164e
 io.camunda	camunda-zeebe	8.5.3		066a97eb47e0b989ee1b249d32b438c5433e962a
 io.camunda	camunda-zeebe	8.5.4		719724c2d0afecfe5a6b7b472a61e9130f4dfd8a
@@ -1262,6 +1273,8 @@ io.camunda	camunda-zeebe	8.6.12-rc1		82d4c98c9fd1fc4ff1343dd563dff779f0842cb5
 io.camunda	camunda-zeebe	8.6.13		74891291e91011495b2c0d647ebcdb0ae398f3fd
 io.camunda	camunda-zeebe	8.6.14		f2a179d87d1aaa20605418df24d4e6ae080b4886
 io.camunda	camunda-zeebe	8.6.14-rc1		aabfd4f14c4bcb8a47cd8b7c2074f16f18f24cf3
+io.camunda	camunda-zeebe	8.6.15		b3fee8735380c68c02e3eedfdc3a295a76bab04e
+io.camunda	camunda-zeebe	8.6.15-rc1		ef83356185511b85685a2b8077ec3f740afe580c
 io.camunda	camunda-zeebe	8.6.2		94acb6b080274a64b488c39835f168072d60e5eb
 io.camunda	camunda-zeebe	8.6.3		f53f9665a34e18931aa3c084fe84bfb6cb2f70dc
 io.camunda	camunda-zeebe	8.6.4		fe2182810fd786dc95447733dc7b0b68878457ba
@@ -1297,12 +1310,15 @@ io.camunda	camunda-zeebe	8.7.0-alpha5-rc1		ef64ef526813dbd6d0f216bd9aafc8e02a907
 io.camunda	camunda-zeebe	8.7.0-rc3		fcdb9b147eaca41256cc249f4293f420f9b178d7
 io.camunda	camunda-zeebe	8.7.1		9b9d085524cc3dcd29100364f7dbccbc9c51f834
 io.camunda	camunda-zeebe	8.7.1-rc1		a476a396017d303d9499654b2fbe28f19c9244a4
+io.camunda	camunda-zeebe	8.7.2		af9f468542ef098faa46498ff19b3875de812e5a
+io.camunda	camunda-zeebe	8.7.2-rc1		f0193beb2a01ffb4f314c76ab9432047e89a60d0
 io.camunda	camunda-zeebe	8.8.0-alpha1		67690f64e93ae2945eedcdf83ce297dcbeb9e942
 io.camunda	camunda-zeebe	8.8.0-alpha1-rc1		10e567a2016dc90e2689e53097dcacc0f1591c9b
 io.camunda	camunda-zeebe	8.8.0-alpha2		ad2c795f1fda7f50cb41b33f6a9027bfe82a8031
 io.camunda	camunda-zeebe	8.8.0-alpha2-rc1		9cb52318bafec2923e25e872448b56f6edf2ef3b
 io.camunda	camunda-zeebe	8.8.0-alpha3		d198ea02bbf101c03d297386c200a4cc8c11e410
 io.camunda	camunda-zeebe	8.8.0-alpha3-rc3		f4b85aa6c4dd75bfcc327e5413480ce9be1f7f10
+io.camunda	camunda-zeebe	8.8.0-alpha4		e491b23741e77db580bba92ec16f8bed4ad57ced
 io.camunda	camunda-zeebe	8.8.0-alpha4-rc1		628cee2027838ab45b57f406006aeb51ae1f5904
 io.continual	continualFlowControlGroup	0.3.17		N/A
 io.continual	continualFlowControlGroup	0.3.18		N/A
@@ -1671,6 +1687,7 @@ org.jetbrains.compose.foundation	foundation-macosx64	1.7.1		N/A
 org.jetbrains.compose.foundation	foundation-macosx64	1.7.1	metadata	7db759e2b55252f6f04b8627859ff73da6841276
 org.jetbrains.compose.foundation	foundation-macosx64	1.7.3		N/A
 org.jetbrains.compose.foundation	foundation-macosx64	1.7.3	metadata	7db759e2b55252f6f04b8627859ff73da6841276
+org.jetbrains.compose.foundation	foundation-macosx64	1.8.0	metadata	e25a6f1e1a8541ff9db8778f6a85bee1106916de
 org.jetbrains.compose.foundation	foundation-macosx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.foundation	foundation-macosx64	1.8.0-alpha01	metadata	7db759e2b55252f6f04b8627859ff73da6841276
 org.jetbrains.compose.foundation	foundation-macosx64	1.8.0-alpha02		N/A

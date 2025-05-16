@@ -331,6 +331,7 @@ com.tunjid.tiler	tiler-iosarm64	1.1.0-beta01		N/A
 com.tunjid.tiler	tiler-iosarm64	1.1.0-beta01	metadata	b8bda131f813411ca048190136caad7202c1c9d7
 com.tunjid.tiler	tiler-iosarm64	1.1.0-beta02		N/A
 com.tunjid.tiler	tiler-iosarm64	1.1.0-beta02	metadata	e6632c7300b7ed42c62290f6c71b155486e68ac7
+com.tunjid.tiler	tiler-iosarm64	1.2.0	metadata	7c20e584722543718d797fad7bf9bb0f621c3b72
 com.tunjid.tiler	tiler-iosarm64	1.2.0-alpha01		N/A
 com.tunjid.tiler	tiler-iosarm64	1.2.0-alpha01	metadata	ff6ae94b7a06dd8cd9dae69e47ec160c900af25d
 com.tunjid.tiler	tiler-iosarm64	1.2.0-beta01		N/A
@@ -629,6 +630,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-commo
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-common	2.13.3-alpha		0008c46cbb183bee570ff1810e969cada9634ab7
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-common	2.14.0-alpha		44590a9d81c100dc0ae4aa8cc54da86280b2fade
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-common	2.15.0-alpha		312de0e358e0f1fa28fcd0183ee9f20f72f18d72
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-common	2.16.0-alpha		e3bb5a5712f2e61695968fbcaf5a5a6c13f53bc0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-common	2.2.0-alpha		34742034758104acc604bfeeb52ea5d49dbbb8d9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-common	2.3.0-alpha		cd27c369ae6b4154f6a77f0c792e650592b7413a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-play-ws-common	2.4.0-alpha		e3092c485abf7c1c4ab87c54b861f81646643ded
@@ -920,6 +922,7 @@ org.apache.camel.springboot	camel-fhir-starter	4.8.3		ad88ac2b59e0b5ce702d119687
 org.apache.camel.springboot	camel-fhir-starter	4.8.4		f39ea6a2ebdc0cd6f407b8d845c7feb690196361
 org.apache.camel.springboot	camel-fhir-starter	4.8.5		51422f472259348904742bf28da62b10a2006c04
 org.apache.camel.springboot	camel-fhir-starter	4.8.6		e87f4ed02debe18271ab741996a50a45a4ec2118
+org.apache.camel.springboot	camel-fhir-starter	4.8.7		9500c565ef4b65abe28c9d9ee8382bc52ada87a1
 org.apache.camel.springboot	camel-fhir-starter	4.9.0		f6e29a8dafb052a6fc256d57fb0d74313ceb04a6
 org.apache.stratos	org.apache.stratos.tenant.register.stub	3.0.0-incubating		6d3a5c2cb950ce2b6326f264b0d849ee8f315424
 org.apache.stratos	org.apache.stratos.tenant.register.stub	4.0.0		2d49d5f6394d1542b5fc3213b9dec6892cba14d6
@@ -1440,6 +1443,12 @@ org.wicketstuff	wicketstuff-kendo-ui-theme-moonlight	10.2.0		77ca35e51f24ff0f6c2
 org.wicketstuff	wicketstuff-kendo-ui-theme-moonlight	10.3.0		5771a4cdf715ccac81e5ff6f2339306202bad05d
 org.wicketstuff	wicketstuff-kendo-ui-theme-moonlight	10.4.0		9ab5d325e3a5a1eee78837576fdbfe1e53668b20
 org.wicketstuff	wicketstuff-kendo-ui-theme-moonlight	10.5.0		7266fa88cc5716654818db5042ccd8b75d2e68d0
+org.zalando	sbt-stups_2.10_0.13	0.1.0		ebf4e908360fa6d6700349d7697b8131638aab37
+org.zalando	sbt-stups_2.10_0.13	0.1.1		f01acebeab182ce8a5b7468cf6cf32c79d69f496
+org.zalando	sbt-stups_2.10_0.13	0.1.2		8c1ed3cb1a2dc45d56f003b7e081ec0388a4271c
+org.zalando	sbt-stups_2.10_0.13	0.2.0		32a424e5c873c378e77423eba42f23e40a4853e3
+org.zalando	sbt-stups_2.10_0.13	0.3.0		76ab3415703dbe3bb6cea64be28778aa9c00224a
+org.zalando	sbt-stups_2.10_0.13	0.4.0		24602a237ac6ae2fdaef496de6534d21c24c7354
 se.kth.infosys.tomcat	tomcat-access-logging	1.0.0		82496184404fcd63bd19802b3a32030acfa6d18e
 tech.mgl	mgl-boot-modules-enum	2024.10.26		9c5d835b59d53529b91357a149ee3053034a2cdc
 tech.mgl	mgl-boot-modules-enum	2025.1.0		a5a956d2ef32d999f65d58a84a1cf631c5c34ac6

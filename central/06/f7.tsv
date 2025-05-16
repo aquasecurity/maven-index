@@ -28,6 +28,8 @@ bz.gsn.djinn	djinn-core	1.2.0		b8c687d1df5e549ab1b7c66fadae723e87569439
 bz.gsn.djinn	djinn-core	1.3.0		9358cd253a96bf7ba7cf481861ca4d9c79abc642
 bz.gsn.djinn	djinn-core	1.3.1		99fa9e3c746b772f349d746a4f6f592d93be5d08
 bz.gsn.djinn	djinn-core	1.4.0		592f146f0dcd8e78156947214b21e5c49dc78963
+com.alpinenow	junit_xml_listener_2.10_0.13	0.5.0		088a7083c97967f20377451a26ce1dfd55ec8ef1
+com.alpinenow	junit_xml_listener_2.10_0.13	0.5.1		5f776a4d09c3b08ac05c92cba28d0d44496a2f7d
 com.ascentstream.pulsar	pulsar-io-debezium-postgres	2.10.6.10		8c76871b8a467d23ff3179b83c512ee24322793b
 com.ascentstream.pulsar	pulsar-io-debezium-postgres	2.10.6.9		ef1aeca4d89c4e1694a805e607049ad0049596a3
 com.ascentstream.pulsar	pulsar-io-debezium-postgres	2.10.7.1		25ae26f12e8519d649d04aed2b6742989eba56b9
@@ -842,6 +844,7 @@ com.powsybl	powsybl-powerfactory-converter	6.6.0-RC1		95208aba883432230fbdae6d3e
 com.powsybl	powsybl-powerfactory-converter	6.6.1		9f50f8e4e17e98c5df413dcac1775bf1c93db970
 com.powsybl	powsybl-powerfactory-converter	6.7.0		589e0905ddcb98973bed512aaaf0233f2f9a3f8c
 com.powsybl	powsybl-powerfactory-converter	6.7.0-RC1		f60b11cc438d90c588381756bbaaf8dc7f765b7e
+com.powsybl	powsybl-powerfactory-converter	6.7.1		07a469efa7f00b4731a49669afbfaf5fc1dd9b69
 com.squareup.spoon	parent	1.0.0		N/A
 com.squareup.spoon	parent	1.0.1		N/A
 com.squareup.spoon	parent	1.0.2		N/A
@@ -926,6 +929,7 @@ dev.galasa	dev.galasa.cps.etcd	0.38.0		7581e008fb0630da93d960e4c5250de26dca4a07
 dev.galasa	dev.galasa.cps.etcd	0.39.0		a9e777eac4de073cf364cb3ecc9025c90dd6e5d7
 dev.galasa	dev.galasa.cps.etcd	0.4.0		0bfcf26d7c58236c982472d6a39c70a29850aa10
 dev.galasa	dev.galasa.cps.etcd	0.40.0		6259fd8a0cae69dfb09dc36387cfac7cc985a882
+dev.galasa	dev.galasa.cps.etcd	0.41.0		da12d52c91d689e0434b21b6a18a323ba58ce555
 dev.galasa	dev.galasa.cps.etcd	0.5.0		40d89941737a77fb47be077156b37fb24c5a89e1
 dev.galasa	dev.galasa.cps.etcd	0.6.0		a3709764041489265991358281e1931b5f792238
 dev.galasa	dev.galasa.cps.etcd	0.7.0		9657338c1b76e17daf3a5bcff2a49d3f12ded917
@@ -1298,6 +1302,7 @@ io.liftwizard	liftwizard-config-data-source	2.1.28		9fb196287beb56fc4eaf5de53a94
 io.liftwizard	liftwizard-config-data-source	2.1.29		e2ce5e01fbdd909a580b59651d5be46a722464d8
 io.liftwizard	liftwizard-config-data-source	2.1.3		09ed50e86c78a96c8fc3d4791ce2a4ac2c2c0aa8
 io.liftwizard	liftwizard-config-data-source	2.1.30		d7c6a3a8a478d259b6ab007523c4f2f959420170
+io.liftwizard	liftwizard-config-data-source	2.1.31		9bf1c711585240dfe8d88c9e5e6a04c164c677a4
 io.liftwizard	liftwizard-config-data-source	2.1.4		8c19c67066aa6ef5094fee8381ca454b877414c0
 io.liftwizard	liftwizard-config-data-source	2.1.5		e58b913ceca8e2becc21ff77a8c56827cb06e35f
 io.liftwizard	liftwizard-config-data-source	2.1.6		543157e995f75029c36fc4ebfcf4d9e9ece07c7b
@@ -1519,6 +1524,8 @@ net.folivo	trixnity-api-client-iosarm64	4.15.0		N/A
 net.folivo	trixnity-api-client-iosarm64	4.15.0	metadata	49763fe388cd5229842679c7c51192c7d0ab4a49
 net.folivo	trixnity-api-client-iosarm64	4.15.1		N/A
 net.folivo	trixnity-api-client-iosarm64	4.15.1	metadata	00879caf8ecd1716f709d1260a43f261b24e369d
+net.folivo	trixnity-api-client-iosarm64	4.15.2	metadata	e87c0ff8f2829fab124abc9459f93cb389d13957
+net.folivo	trixnity-api-client-iosarm64	4.15.3	metadata	0d2d4031807f7f2ce63c290a4ff0947f66e9ca42
 net.folivo	trixnity-api-client-iosarm64	4.2.0		N/A
 net.folivo	trixnity-api-client-iosarm64	4.2.0	metadata	38baaaf596262ea1f3164d4151bfb1d645edda97
 net.folivo	trixnity-api-client-iosarm64	4.2.1		N/A
@@ -1772,6 +1779,7 @@ org.apache.camel	camel-telegram	4.8.3		86d210ccf2e6cf144fbf925dd107f6b499e20ef9
 org.apache.camel	camel-telegram	4.8.4		ab13a604838a12ab114f41b315c89bb86d70775e
 org.apache.camel	camel-telegram	4.8.5		b5e3836dc66c3fb66bf421c98f6b13e840f8aac8
 org.apache.camel	camel-telegram	4.8.6		6368d784a56612745e3f4eae5c6cdf642df316c1
+org.apache.camel	camel-telegram	4.8.7		29c0c3e68879e7dc8c53b2b4ec466bdf38a7a849
 org.apache.camel	camel-telegram	4.9.0		9541c036f9cf57f951b30f52afbffda6fab63347
 org.apache.camel.quarkus	camel-quarkus-aws2-ec2-integration-test	1.0.0-CR2		0dd0be1f2693786e209d843a4a1d907cd920788e
 org.apache.camel.quarkus	camel-quarkus-aws2-ec2-integration-test	1.0.0-M6		29e97a48f97ec4ab62b0240ae25b84f50ea75fa5

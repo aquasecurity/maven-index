@@ -223,6 +223,8 @@ com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.162.0		f13f7ae522f8ae82
 com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.163.0		f95a32ae35100827c4bc586d0132fc55fe2e457a
 com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.164.0		1dbfcb6b766baf5647d75f11e92640ba9e52ffc9
 com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.165.0		d6b094e64a053b373b4cd1fb4f5392e74dc32f0f
+com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.166.0		b0797f307d7076694a66ae8b92212749fd0aaf6f
+com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.167.0		15bc6e4d96647f5ea9e523de2b629c573a91a545
 com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.90.0		9a148347663cbf940f257b23bb7724b6b3f25065
 com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.90.1		d55b01cf514f29493f2d6bd80e21dcce83a08a1e
 com.google.api.grpc	proto-google-cloud-asset-v1p5beta1	0.90.2		a97ba8daf329bf90d48269230cfe5a49246b5f51
@@ -442,6 +444,9 @@ com.ocient	ocient-jdbc4	3.3.1	jar-with-dependencies-except-slf4j	5310422008078b4
 com.ocient	ocient-jdbc4	3.4.0		f3177848e3bbc1a28e24da66402659acd1d40567
 com.ocient	ocient-jdbc4	3.4.0	jar-with-dependencies	c9609789d6b6bcc12193026b6e8081aa14554c01
 com.ocient	ocient-jdbc4	3.4.0	jar-with-dependencies-except-slf4j	1801db0bcfd6f9296ecc8d1535322c929ac1f355
+com.ocient	ocient-jdbc4	3.4.1		f313619d61d2cfd4e94c7f340a5401d093506fdf
+com.ocient	ocient-jdbc4	3.4.1	jar-with-dependencies	4d57e763dd00b8c259371c0950f7856e11b1539a
+com.ocient	ocient-jdbc4	3.4.1	jar-with-dependencies-except-slf4j	3990b05b9933dd39dfc6a533acb79a5a0cfce4fd
 com.shzcloud	log	1.0.0		0b781b77259b80063080ead2b467118e404147d2
 com.shzcloud	log	1.0.1		089b14d4d6bf5b455a6fe8649b91c223582d43d4
 com.shzcloud	log	1.0.2		5ac1184c26ccf69107ec0edafe157c3d9093dcfb
@@ -948,6 +953,7 @@ io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.15.2		1d3ec9e35977d60d59041
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.15.3		ac78b08b13e8ed16ef63d9d4510640257f32e08b
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.15.3.1		98bcffa6fde65e9f129549a8d5100f7cb5783a67
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.15.4		3aedc1ef7228038af722cc80482596f8b04629f1
+io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.15.5		b8a64419a6e496cc8021bb2eb1151dfc15247221
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.16.0		e660da510f912184e14bb1f30bce2104082450c5
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.16.0.CR1		e003aaa8f7a0ef89bf80d8ccc498a5d97ab3defc
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.16.1		5d531d949a05835dce125fbaa910ffbbe54db7a3
@@ -978,6 +984,7 @@ io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.19.3		f49e62c2273c2844ee416
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.19.4		28e818d56ebe1b464751a7db5274b8a963739665
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.20.0		1ac29d45b5172f6a716b063bcbc64918f665d66d
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.20.0.CR1		52fd6a132b63513f2df0cbe098f2ca23341026c5
+io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.20.1		65a0d3dcd7aad98717146070d91885b0ed0e44b3
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.21.0		cf5c532223013b2a5d28132749f1468a6f3631ba
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.21.0.CR1		f4b1ebcba25116e4312dd7df2b60a8c57fa029ee
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.21.1		07ee94e13d0e1e0399476f1637cc85468bbf7191
@@ -987,6 +994,9 @@ io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.21.4		da87381f45fe68edae13c
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.22.0		3bfefabb13100a2d8da68b2eb2c19c5339be5583
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.22.0.CR1		c4d98495acfdff7ad4c4a458e7f7e117136745f5
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.22.1		87fd6e04ed547f4d406c71b93e42c0a7524675e0
+io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.22.2		67f9ee4dede7a212ed7304d9233bfff755f8de9b
+io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.22.3		e287a98e0d20c7169a05a7f2e69dffa7fcaeac30
+io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.23.0.CR1		ee82143b4485fb6352d12806adcf524c5d890213
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.7.0		cd74a0949d433f660dccfd8911959f331433f999
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.7.0.CR1		67225f5f0feb2ebb95d494b8e50af76a5c19c4c5
 io.quarkus	quarkus-resteasy-client-jaxb-deployment	3.7.1		033fe774efb6ca5cd0fd6367006ab854302496bf

@@ -1,6 +1,7 @@
 ch.epfl.scala	scalafix-rules_3.5.2	0.14.0		adc10beb171d574bbeb5b7d164192d95c7eb6954
 ch.epfl.scala	scalafix-rules_3.5.2	0.14.1		ab0a035ae14212c16585a2a24a75fabb3ae0a119
 ch.epfl.scala	scalafix-rules_3.5.2	0.14.2		2e9dde8a8267994cfdd5f252b3b7fa95c095e22c
+ch.epfl.scala	scalafix-rules_3.5.2	0.14.3		b0cdc30597d0cb0f3f424206fd1d18d767e1a52a
 ch.exense.step	step-functions-plugins-selenium-controller-def	3.11.0		c39eee987f26b2253e9f4f994ca50606f72093fa
 ch.exense.step	step-functions-plugins-selenium-controller-def	3.11.1		f7b8296d21ec8e69d70b3bd1dd8251c8a06454e8
 ch.exense.step	step-functions-plugins-selenium-controller-def	3.12.0		1447e4641ff1af80cc0c3f23c33cfd416252d0eb
@@ -107,6 +108,7 @@ com.ibm.watson	common	12.0.0		cfe9ed489fbdc258e465f774b10fae91f581c990
 com.ibm.watson	common	12.0.1		ecdc7b8af1d0485cd2f9c17f82fe5ab741dc1e3b
 com.ibm.watson	common	13.0.0		0e67e0180a87f74089cc1503c461ace30e67e0a8
 com.ibm.watson	common	14.0.0		847facf693f379f7270cd2ffadac7ee024526f68
+com.ibm.watson	common	14.0.1		8814906128c8bac69b7b22bf24257c5e7b713cff
 com.ibm.watson	common	7.0.0		5f91563cb21abfa43069905cb2c36e68ee572322
 com.ibm.watson	common	7.0.0	jar-with-dependencies	ec71eae9e6d4bfb92fa6283fe1a03d8b77e1e25a
 com.ibm.watson	common	7.1.0		ddb4db3ed93990fb88e7e47e489332d73f2ae0f9
@@ -960,6 +962,7 @@ dev.zio	zio-aws-kinesis_2.12	7.31.27.1		eb80314f95eee18c0fba3c8a2f3477b508c2fc2f
 dev.zio	zio-aws-kinesis_2.12	7.31.28.1		e7a57999f36fc187e631e25a854d999eee143aaa
 dev.zio	zio-aws-kinesis_2.12	7.31.3.1		5d4cebb55694ed71a7ef4a0893278ebc7a7aedb7
 dev.zio	zio-aws-kinesis_2.12	7.31.30.1		1500241212b01397946f3fd6dce1b0cc63154af7
+dev.zio	zio-aws-kinesis_2.12	7.31.30.2		152d5bd0a4180738ba731c81f0d71314e9e10ecd
 dev.zio	zio-aws-kinesis_2.12	7.31.4.1		c8bb48fa9a9974d4684fdd8d0eb7c493369ede62
 dev.zio	zio-aws-kinesis_2.12	7.31.6.1		3979f965dcd7540ed86e9072f91529010a554a43
 dev.zio	zio-aws-kinesis_2.12	7.31.6.2		83ebc0873352f4940be992b1ffcae2cb61475cec
@@ -1212,6 +1215,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-watchossimulatorarm64	0.6.1		
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-watchossimulatorarm64	0.6.1	metadata	5bd31d9332193bea612d39fd971e952e7f7ba81c
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-watchossimulatorarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-watchossimulatorarm64	0.6.2	metadata	5f9a11987a6537482cd73152dc56a26895e8d460
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-client-watchossimulatorarm64	0.7.0	metadata	b14384bae2c6ad92b0f11b428dda1dab85894200
 org.mvnpm.at.picocss	pico	2.0.6		fd13ced2dd22788ecacdb636ddc87cab6c3ce322
 org.mvnpm.at.picocss	pico	2.1.1		91c7a47decfa968d4c6500a841449645ea873ecd
 org.opendaylight.genius	srm-shell	0.4.0		e543214a0f44bb0af6ccd22cf15190a6f6effca6
@@ -1459,6 +1463,7 @@ org.wildfly.clustering	wildfly-clustering-server-api	4.0.5.Final		aa1bf4b4e6a581
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.0.Beta1		75b92497c9d51b691c58d80eca6720f8492be19d
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.0.Final		95149007894a30d1aa5e862c2a885237f02da361
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.1.Final		14e282e3be38a4912bb6cdef15dc5e0d433ed2de
+org.wildfly.clustering	wildfly-clustering-server-api	5.0.10.Final		3a906efac5eadf134da8d5e11f887869156f86ee
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.2.Final		4591390582185dafe5ee40a43e358b0ed80df3af
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.3.Final		c450218a14ad96abd7903753a6de1c33edbd1648
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.4.Final		5921e5b29a2da074a1ca3f21780ac1c3dbcadc6d
@@ -1466,6 +1471,7 @@ org.wildfly.clustering	wildfly-clustering-server-api	5.0.5.Final		3783fa1a394d87
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.6.Final		3449e1797ddbd10ae2f01b462760c97b1971ab22
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.7.Final		27bc6cebdc3ec0df19edbc0e01e0a0d0600425b6
 org.wildfly.clustering	wildfly-clustering-server-api	5.0.8.Final		fdd097b9cf97aba7b8cb9be41e4cc4cf28a3fdc7
+org.wildfly.clustering	wildfly-clustering-server-api	5.0.9.Final		4f81e2b02a9132ac1101fca64e45be1ec5710860
 org.wildfly.clustering	wildfly-clustering-server-api	6.0.0.Beta1		cc9cc39927bfcde596350966cddf5c197e82d8e8
 org.wildfly.clustering	wildfly-clustering-server-api	6.0.0.Beta2		0067cf5249363cec4e632233116fc0310543cf8b
 org.wildfly.clustering	wildfly-clustering-server-api	6.0.0.Beta3		a1a4f070361d4e642defd43c19f400073fd5caf4
@@ -1473,7 +1479,10 @@ org.wildfly.clustering	wildfly-clustering-server-api	6.0.0.Final		cb3eee98c507c4
 org.wildfly.clustering	wildfly-clustering-server-api	6.0.1.Final		529bb99c739ab07e3c46d6a0ff79974b2d0ee05d
 org.wildfly.clustering	wildfly-clustering-server-api	6.0.2.Final		a2c8f959c6cceb5db58ed9b0d5c130619dafc878
 org.wildfly.clustering	wildfly-clustering-server-api	6.0.3.Final		d523fb8ab718c033cb46b2ac38152f945c88febe
+org.wildfly.clustering	wildfly-clustering-server-api	6.0.4.Final		b1280c2c436ecc0be94ee96a6367284d3e3e332e
 org.wildfly.clustering	wildfly-clustering-server-api	7.0.0.Beta1		5e7506d4e22090e17a92d95104e7a49158d79209
+org.wildfly.clustering	wildfly-clustering-server-api	7.0.0.Beta2		26896367ea402bdd2b5a9786530a4e4db7f444ff
+org.wildfly.clustering	wildfly-clustering-server-api	7.0.0.Final		8f8e07d47843395ae7dd41ded92f4b82a746234e
 org.wso2.ei	org.wso2.micro.integrator.dataservices.server.feature	1.1.0		N/A
 org.wso2.ei	org.wso2.micro.integrator.dataservices.server.feature	1.1.0-alpha		N/A
 org.wso2.ei	org.wso2.micro.integrator.dataservices.server.feature	1.1.0-beta		N/A

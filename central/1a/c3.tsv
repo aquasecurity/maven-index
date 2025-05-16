@@ -196,6 +196,8 @@ com.google.api.grpc	grpc-google-cloud-channel-v1	3.62.0		f2697cf1a814c82a19ecadd
 com.google.api.grpc	grpc-google-cloud-channel-v1	3.63.0		c22555477cb05d0491f88804587d02b7694a08a2
 com.google.api.grpc	grpc-google-cloud-channel-v1	3.64.0		2aa8080e92fb967be6386c50052781c537a05b47
 com.google.api.grpc	grpc-google-cloud-channel-v1	3.65.0		8d4f0a6f4cc60ea6058f6bf8e1d3489fc0ef0381
+com.google.api.grpc	grpc-google-cloud-channel-v1	3.66.0		4c5876b8f45445d86aaf9976468c230a1318ee03
+com.google.api.grpc	grpc-google-cloud-channel-v1	3.67.0		984cd58fe9cf2b7c21aa29f1fa404888139400b3
 com.google.api.grpc	grpc-google-cloud-channel-v1	3.7.0		be199e540cd30c054b854a9b11f5b7e471d21b42
 com.google.api.grpc	grpc-google-cloud-channel-v1	3.7.2		e33dafefeb5d5bad113963f7eaf5bf4f4982ca70
 com.google.api.grpc	grpc-google-cloud-channel-v1	3.7.4		711dcb65f9d6599ae28d1e6932911fa66ac622af
@@ -501,6 +503,7 @@ com.vaadin	flow-server	23.5.1		c034a3422ee0adda25ae2b93d2d51b64fbb9c377
 com.vaadin	flow-server	23.5.10		cd3832f66a68a923b782b778ecd018eb72fc6bfd
 com.vaadin	flow-server	23.5.11		39ae980a44358654f4ac901b2aa9e92d64fcfaca
 com.vaadin	flow-server	23.5.12		356d580ddbb9c4114de507b2cfb6201fe020fdb1
+com.vaadin	flow-server	23.5.13		9339f0c8e4a68296f1e6f132ed0bc0ade35b5bb3
 com.vaadin	flow-server	23.5.2		ef8c2dad1a89e262bcaf60f4326d300deb0ac3a1
 com.vaadin	flow-server	23.5.3		7d4a616415262dd8af9a6d3d43f7ed45e642c6f1
 com.vaadin	flow-server	23.5.4		632cb96382ba3a27421699f1142f7cb052f95ad9
@@ -621,6 +624,7 @@ com.vaadin	flow-server	24.6.0		168e491035a570021c1e8d21df4a6d33fa188376
 com.vaadin	flow-server	24.6.1		fe14f0dad9600e3e93b10e948537b05869e762ad
 com.vaadin	flow-server	24.6.10		37d0aa7eb1d8f3665625ebe19c0674cbf3a77755
 com.vaadin	flow-server	24.6.11		933434eda1d63da2feff34f8c5259471e19a07fc
+com.vaadin	flow-server	24.6.12		aee5525490a7b9afebd110a32208ea5e90dbfe2a
 com.vaadin	flow-server	24.6.2		6cd90a3057118c7d8ea1921e00bad9b55bdf6561
 com.vaadin	flow-server	24.6.3		abf9c1da81918adaf364bdb28fa54bf2704faad1
 com.vaadin	flow-server	24.6.4		1a05018ed2c7bbbaf74db019bfe1d1ebca9c0b4b
@@ -635,6 +639,7 @@ com.vaadin	flow-server	24.7.2		6933a2cb739bb1f0928ac7d0248fed5dee283b84
 com.vaadin	flow-server	24.7.3		5c58836f181baadb482cbb4ca093802b390d79b3
 com.vaadin	flow-server	24.7.4		1aa2d3470a78174272e65eea777668399fb4b18b
 com.vaadin	flow-server	24.7.5		ef84c2fd988a1e246165153305a356097beb337c
+com.vaadin	flow-server	24.7.6		7cdec76ddbd761c561d3aa852308729c9b32915b
 com.vaadin	flow-server	3.0.0		f01c6ab11b76e711b9de94bea341e5e90d01b798
 com.vaadin	flow-server	3.0.1		fb5724c3b92c3eae9aac669bc611642617f8d5c2
 com.vaadin	flow-server	3.0.2		70ed2e83cc0c0f7030b77e12d549836ec13146ca
@@ -1143,6 +1148,8 @@ io.ktor	ktor-client-ios-macosarm64	3.1.1		80af5410ac0eccadb87f6774d55a3a2e4f4bc4
 io.ktor	ktor-client-ios-macosarm64	3.1.1	metadata	7e3cd5debf3bf4d8b7f7db101d8daa65e83c6029
 io.ktor	ktor-client-ios-macosarm64	3.1.2		01eedc9353d0ea742f05f53a18e5a0b018cf449a
 io.ktor	ktor-client-ios-macosarm64	3.1.2	metadata	fe1a40532bdd1f8fe83c932fd8cb021529e76357
+io.ktor	ktor-client-ios-macosarm64	3.1.3		6a4965dfa311882be6367c6bc1bdd195d9c2408b
+io.ktor	ktor-client-ios-macosarm64	3.1.3	metadata	1df72649299198ef354428fe19c4b2e778f78d8d
 io.monaru	anymo	0.0.1		N/A
 io.monaru	anymo	0.0.2		N/A
 io.monaru	anymo	0.0.3		N/A
@@ -1218,6 +1225,7 @@ org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.2.1		9dce1f4
 org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.2.2		98b1a4f0b703c9fb157885e90d0e0efd4977ff65
 org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.2.3		2cf308e82ff628757686d806d579e8299b752819
 org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.20.0		30694bee922e4266d5f22616d09ce507d897d299
+org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.20.1		b0782449971c1fc0bd8b6adc81ff74d83ba9ab42
 org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.22.0		46857d5eca594bc4f3e2e6df7aba716fd516caed
 org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.4.0		3f285c11714ed7e73b5e62dc9bf5320d80c3d3b6
 org.apache.camel.quarkus	camel-quarkus-hashicorp-vault-deployment	3.5.0		1c86a1747c857956185348223b041502e33fbffe

@@ -687,6 +687,8 @@ io.camunda	operate-importer-common	8.6.12-rc1		fd423cf352f7e9094192726812ef063d3
 io.camunda	operate-importer-common	8.6.13		9938fc4d4848de010f99159efc3aa6af40e2f2a0
 io.camunda	operate-importer-common	8.6.14		b7e3de69987058f99bb6046462659b0cf98b3c3b
 io.camunda	operate-importer-common	8.6.14-rc1		bfbb0f6a0c00fef75ece64ad8f33e2f0e3377a63
+io.camunda	operate-importer-common	8.6.15		e2964590a8f8189d3fac5aa49f8ad7a4dd514e82
+io.camunda	operate-importer-common	8.6.15-rc1		c2690700f553e2b602f563c935bf4a9d3bd57b4f
 io.camunda	operate-importer-common	8.6.2		e4e843487b6f3bcb177a8ca954935c3d2ebd48d0
 io.camunda	operate-importer-common	8.6.3		1b06062bf4c29fc2a0f42d25f962b18d1ecb1dd2
 io.camunda	operate-importer-common	8.6.4		ef557d412d6e6d40e1857c1ab3efa2ab1f041741
@@ -722,12 +724,15 @@ io.camunda	operate-importer-common	8.7.0-alpha5-rc1		7a5a75987e86b61f7d812adfb0c
 io.camunda	operate-importer-common	8.7.0-rc3		6410f8bf7ff5f1ad90ac6e364d8d0350dc2a3d75
 io.camunda	operate-importer-common	8.7.1		ba1bcbfff5b7b773fc39298e34c8541e9479ef5b
 io.camunda	operate-importer-common	8.7.1-rc1		006fe3fdc9e124afe475d93bebf088ebf465ec61
+io.camunda	operate-importer-common	8.7.2		beba09b91b72a63bde2b99fb818809f242348a45
+io.camunda	operate-importer-common	8.7.2-rc1		98fb45025a8163f983e450ba9353694dcb5150d5
 io.camunda	operate-importer-common	8.8.0-alpha1		4574122a20c898f86aef8185db0612a97cfaee30
 io.camunda	operate-importer-common	8.8.0-alpha1-rc1		558df627c2175ef2f4a366cb0b6cda936c06ebfe
 io.camunda	operate-importer-common	8.8.0-alpha2		293e6ac5aa09381ef369a57afe2b3e03ec729aad
 io.camunda	operate-importer-common	8.8.0-alpha2-rc1		7a6cf263ffbf7ef6fca84b1918dce907cefcf5dd
 io.camunda	operate-importer-common	8.8.0-alpha3		ccca0ff4ce7e206ff731bba299151d81b67361ba
 io.camunda	operate-importer-common	8.8.0-alpha3-rc3		efc1f6cff35990020facabc905797becbd643a34
+io.camunda	operate-importer-common	8.8.0-alpha4		13abf162e92840b02bd91471192f4aef597a5098
 io.camunda	operate-importer-common	8.8.0-alpha4-rc1		3e67dd191f542e042d71ab3e5aef3648b32ca431
 io.crate	crate-jmx-exporter	0.6.0		06a4230fb3dc0fd76a2375e7723f4fd647ef8dfc
 io.crate	crate-jmx-exporter	1.0.0		613922d40b2263f8e51ec90516cf995d5546762e
@@ -1224,6 +1229,7 @@ org.apache.camel	camel-jpa	4.8.3		4118c5f55a94bd23f526e3f3f1cb60dd181bb2cf
 org.apache.camel	camel-jpa	4.8.4		c261d0f45e2d2415b80a8ed7c5d3d96ab4db9a02
 org.apache.camel	camel-jpa	4.8.5		b9efd3ba985b2e09d29a289ebd3683acbf531d8b
 org.apache.camel	camel-jpa	4.8.6		62126b5062d8d5f4925871f77804f6614318367b
+org.apache.camel	camel-jpa	4.8.7		7ef5672472ff7e7937656c39eff3d0d17a15e664
 org.apache.camel	camel-jpa	4.9.0		f2285574261093ca0cc145c5a223bcf9e4c81a5a
 org.apache.paimon	paimon-flink-1.16	0.4.0-incubating		38a5cace30cc1bef9c5c42d27ec7edb9630bfb05
 org.apache.paimon	paimon-flink-1.16	0.5.0-incubating		e15e26b709fc88dbc335aafcbc075c4e4b5a5c14
@@ -1237,6 +1243,7 @@ org.apache.paimon	paimon-flink-1.16	0.9.0		3b6b324fcbc6c477f35a6689b181de522cf0e
 org.apache.paimon	paimon-flink-1.16	1.0.0		a0fa5e2e5cc9ee0da3d266f4209efd06bc83fd19
 org.apache.paimon	paimon-flink-1.16	1.0.1		4b4443e36430bd3006fd970f984fbe8938a71e3d
 org.apache.paimon	paimon-flink-1.16	1.1.0		bee85eeb5cb9d28376958bb1a4e8ed1e9a7dca4f
+org.apache.paimon	paimon-flink-1.16	1.1.1		03d24256db808f1355f1ba70278360e6f37d4e9d
 org.apache.shale	shale-view	1.0.4		6f28cbd1f4a3055ff4789b4aa3cd8a04cc49cbc0
 org.apache.shale	shale-view	1.0.5		c6b9ec8048fd9e170440a5edc745bf6862c687e0
 org.bithon.agent	agent-core	1.0.0-RELEASE		0c8619abaae5daa44f3a078f09d02671aa3fc356
@@ -1480,6 +1487,7 @@ org.modelmapper.extensions	modelmapper-jackson	3.1.1		b2d6b68417c573ac7b9deee48c
 org.modelmapper.extensions	modelmapper-jackson	3.2.0		c79d195856624ea91ce36b0c755c10b5e8700872
 org.modelmapper.extensions	modelmapper-jackson	3.2.1		a5852cca608b5ba3aa4e7542281d8ea6db84fe54
 org.modelmapper.extensions	modelmapper-jackson	3.2.2		ee8da1d481cc2609c62b1dc634129336e3bac73c
+org.modelmapper.extensions	modelmapper-jackson	3.2.3		855308b619a79885dda0822b3bcd21e6ab58e029
 org.mvnpm	unicorn-magic	0.1.0		b044d837c29f2a1da290cf70d0a89598e015e401
 org.mvnpm	unicorn-magic	0.3.0		ddacc27c7e76b7da0eb1dac224dd91c47c438b39
 org.mvnpm.at.stdlib	assert-is-object-like	0.0.8		f024a4c1637cf399964da4f16fb51eb4b6981fc3

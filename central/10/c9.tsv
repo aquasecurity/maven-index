@@ -41,6 +41,7 @@ cn.itlym	shoulder-crypto	1.0.0-M3.2		fec74922299e51a45eacd27a468bd4a490eac5ca
 cn.itlym	shoulder-crypto	1.0.0-M3.3		9b8001d2056102a5c936f38157b545157dfa0e65
 cn.itlym	shoulder-crypto	1.0.0-M4		51940529603f238b57136982392c214745de51dd
 cn.itlym	shoulder-crypto	1.0.0-M4.1		aff0d1d096cf406296eadb939cb0b2548a669c03
+cn.itlym	shoulder-crypto	1.1.0		29da9e3385b442ef50ec1efe7e78f5065372a67a
 com.4dconcept.springframework.data	spring-data-marklogic	1.1.0.RELEASE		9cc7676c2ac961abf72be2bc8bd30f08e6cb0531
 com.4dconcept.springframework.data	spring-data-marklogic	1.1.1.RELEASE		50e13b03dd59e0fccc6450153b701ab015bb0c53
 com.4dconcept.springframework.data	spring-data-marklogic	1.1.2.RELEASE		dc3fc728e289e5682b1f2d16112c1ed6b6c9f33a
@@ -1087,6 +1088,7 @@ io.sundr	sundr-adapter-reflect	0.103.0		c487321be4bb3775b1f83e726c0f68171829ed4a
 io.sundr	sundr-adapter-reflect	0.103.1		840ec54b9f1043c9c84bb40fd0a1f476546b8e2a
 io.sundr	sundr-adapter-reflect	0.200.0		90697cb388c9e763e1f7f770964a5ce5f64282f4
 io.sundr	sundr-adapter-reflect	0.200.3		877f845313cc699914c6cece7a2099135812d17c
+io.sundr	sundr-adapter-reflect	0.200.4		93c25c41a61c035bb221bf6168da181be8e6f1b0
 io.sundr	sundr-adapter-reflect	0.40.0		638c09bb6d2c88e53b18cdc7c075a54a1f8588ac
 io.sundr	sundr-adapter-reflect	0.40.1		03dcde8aa18490b93008938b593eede57e0ecf2b
 io.sundr	sundr-adapter-reflect	0.50.0		918c28e2f04649eb0284165bb160e5a424a19e50
@@ -1504,6 +1506,7 @@ org.specs2	specs2-matcher_sjs1_2.13	4.9.3		83571e709d00b24810d19bb4e57d58e2069f3
 org.specs2	specs2-matcher_sjs1_2.13	4.9.4		0e0439fb686393574410284fa4c6b294fd9dc39c
 org.springframework.ai	spring-ai-autoconfigure-vector-store-cassandra	1.0.0-M7		ce92f355abebb0bce9386519f49bd2839d66be09
 org.springframework.ai	spring-ai-autoconfigure-vector-store-cassandra	1.0.0-M8		26f2a79e2f534a02324052f7042b58b5f870c1e4
+org.springframework.ai	spring-ai-autoconfigure-vector-store-cassandra	1.0.0-RC1		c467818447fc9353d560586d48f670bb5b5b8f59
 org.vectomatic	lib-gwt-svg	0.5.0		b46d0e5eb35a2b584769f841b8d5919393261945
 org.vectomatic	lib-gwt-svg	0.5.1		ba612af04aca79a52e2f43a4a4f869c4a61e3a13
 org.vectomatic	lib-gwt-svg	0.5.10		bc4d18119059e460aa726f79e97d793a6481067e
@@ -1803,6 +1806,8 @@ org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.10.3		60c907cb477d4f1e5bf
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.10.4		6a7c75a3be08607b2795174d2088477eca16e39c
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.10.5		1fd67e4793121e5e7d78c0a76e860a07747aa665
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.10.6		c40710bc59de6749fb62e977a6e739acd3a9d44f
+org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.10.7		63f01656554a243bfdac7cc2b3d7e9267638396c
+org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.10.8		643a7cb05df214cdd292c26c4bcb152f0c3df80d
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.2.0		a3fa9803bbdd6bb10a60fa7bb1dd3acdb8c8a364
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.2.0-rc-1		6cb6a2314559a5d183802c03379b8110dc4cdd16
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.3.0		1007e96351668f6ec8c2eb0a6ca86af7befa6c2d
@@ -1817,6 +1822,7 @@ org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.4.4		cd4dadb52ef186c6ae8d
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.4.5		eb7b68e029ee9de80a53972cbc6b4bc6dabe8eca
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.4.6		76e9151ab39d45ea2f54bc55ea75af20ea03d37c
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.4.7		3949c573036bd8c2e29b3fcc2e085368fc95a655
+org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.4.8		e52ed068943b96560b87593a8103ce03e5b762a7
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.5.0		762437925857f0b75b9116f8a0c041e7052d6b23
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.5.0-rc-1		a199791da92033cb0c3338b286888fbd83dceb82
 org.xwiki.rendering	xwiki-rendering-macro-footnotes	16.6.0		f4a75c87bd05c65efa235fc17e4150d658defe22
@@ -2081,6 +2087,8 @@ ru.yandex.qatools.matchers	collection-matchers	1.3		38eb3fbcb78b3a46345d65674941
 ru.yandex.qatools.matchers	collection-matchers	1.4.1		9932557199255e565f874d50e119af9fdc45f71a
 tk.jamun	language	0.0.1		N/A
 top.infra.maven.wagon	wagon-rsync-external	3.3.3		3120318bcb82f56fcc7f24ac1865beb36e323a57
+tz.co.asoft	kiota-file-test-watchosarm32	3.1.11	metadata	4a20b0b43f8bd52f4323f4ceecb1ac6249055d4c
+tz.co.asoft	kiota-file-test-watchosarm32	3.1.12	metadata	ac9608b4acfc3755b15625cea9cefffd2a6a0712
 uk.co.szmg.grafana	grafana-dashboard-generator	1.0.0		a6c89d921cda79451e4ba79f6e15ed3e742a5ca2
 uk.co.szmg.grafana	grafana-dashboard-generator	1.1.0		0f5dd980bc31d5f2ca6d1173440d733efb8c22b4
 uk.co.szmg.grafana	grafana-dashboard-generator	2.0.0		6146d09a3b48646c205c95c1cdfe14e03e52452b

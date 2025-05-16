@@ -38,6 +38,10 @@ at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.5.2		N/A
 at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.5.2	metadata	bfadc1abb742a4ac5fdb5e8e4e7256cc9d7c9b87
 at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.5.3		N/A
 at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.5.3	metadata	1bd40f56cdc5f56df5d40a7107388990092e543e
+at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.5.4	metadata	00852403180d3f242803a021a015a914584db8ab
+at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.6.0	metadata	eb585045b4bd56450abe663afa9fa4ffee95d56b
+at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.6.1	metadata	365adb325e63f300d2da463e35d6a3374867cd8d
+at.asitplus.wallet	openid-data-classes-iossimulatorarm64	5.6.2	metadata	3f86ad79b9b2ec3eee58fb05952c823dd225ae97
 aws.sdk.kotlin	backup-jvm	0.16.0		3029620398eca269ed6e4bc20ea17ce76c7a800c
 aws.sdk.kotlin	backup-jvm	0.16.1-beta		0b2d15b898fba0ee1156ef2243c456b511eaf4d5
 aws.sdk.kotlin	backup-jvm	0.16.2-beta		768215d6bb09f48b177059e8cde0ab6ef4509bec
@@ -469,7 +473,16 @@ aws.sdk.kotlin	backup-jvm	1.4.73		a9ec9a7afb46e3ae12ad0ca4fb30b1e95c6b57ae
 aws.sdk.kotlin	backup-jvm	1.4.74		b415c3cfe0b43ba563a7e6b3808c54dff6b922c1
 aws.sdk.kotlin	backup-jvm	1.4.75		88f9462d49ee8668c0114cb921f3e4a7d8e6a62e
 aws.sdk.kotlin	backup-jvm	1.4.76		e8af543ff4b58d8f68ffce44ab3d1d0db9ddb71b
+aws.sdk.kotlin	backup-jvm	1.4.77		c84467ece392fcdb5a09f96b7e979c41a41dd996
+aws.sdk.kotlin	backup-jvm	1.4.78		151ab0f161a00053270d591268ce5a37be94e70a
+aws.sdk.kotlin	backup-jvm	1.4.79		e0c9d7f6e9c006fb3fbf821ae9d3d82ce3f03f71
 aws.sdk.kotlin	backup-jvm	1.4.8		b6057a96370cd11620b9042a07df43b5e8db84ef
+aws.sdk.kotlin	backup-jvm	1.4.80		c54488304b475ae8653b3eac8b44f6c36693fc5b
+aws.sdk.kotlin	backup-jvm	1.4.81		bf540fe78d949939308405dbb857c9fd44c0c1d7
+aws.sdk.kotlin	backup-jvm	1.4.82		b8fca45c0284fb16032e34e31a22274b456b0534
+aws.sdk.kotlin	backup-jvm	1.4.83		53efe5a3ef4917ed70663ce14d06556559c935e6
+aws.sdk.kotlin	backup-jvm	1.4.84		abe751fc5b112df51e61b73610536c253f394ac7
+aws.sdk.kotlin	backup-jvm	1.4.85		5a84d5c1491d2ccdaf3c5a5222dcbbef652ffb13
 aws.sdk.kotlin	backup-jvm	1.4.9		c8da952a591c1c92ffd83dbec7342d22dc1d296a
 com.amazonaws	aws-java-sdk-fms	1.11.1000		7dfeae82a320495a21ae407cadc94e71cf47b8bc
 com.amazonaws	aws-java-sdk-fms	1.11.1001		b2b3b6a90b8dcca35bef28591dafc1b7537bdacc
@@ -2042,6 +2055,8 @@ com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.143.0		df51899adb9
 com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.144.0		3820aa9f8c38de5f786385d2149e82caf14a3a98
 com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.145.0		5cf483467da02e5c3910f14527ca89507f43b785
 com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.146.0		0ae53b2ccdee7e51f8290923c42858cb5c4ae55e
+com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.147.0		d585c58b64ac6a3b1fcf1d8d9a96b1ce6e59bc20
+com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.148.0		e51389afd6bc18f1cad44b7406002a49a56cc128
 com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.51.0		12b219e8da2873d59a1781d921da6d5fe866e785
 com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.52.0		c1e659ffacfaf7717020bfc4dd6a63e6bb64833f
 com.google.api.grpc	proto-google-cloud-datalabeling-v1beta1	0.53.0		f4ea5773024bb02b803d9fbe1f3f742e46b3d6cb
@@ -2558,6 +2573,7 @@ dev.zio	zio-aws-shield_2.13	7.31.27.1		780f62908bc6a72dd9a7b875e45f12e434bba375
 dev.zio	zio-aws-shield_2.13	7.31.28.1		ff832ef5bea1c0d29133df72209601cb92c5c357
 dev.zio	zio-aws-shield_2.13	7.31.3.1		185034c60f18fdcf1707a13103f8b6521f72e7ae
 dev.zio	zio-aws-shield_2.13	7.31.30.1		d5fe7a53f56883c26c8cc29f3ae30d1156a952a0
+dev.zio	zio-aws-shield_2.13	7.31.30.2		12c37b528913894d1195726923e68967a18480a4
 dev.zio	zio-aws-shield_2.13	7.31.4.1		e1f4d29dc8610136a0b15c2ec16f3bf0bafbbbca
 dev.zio	zio-aws-shield_2.13	7.31.6.1		c536d589401d59b7af52bd9b230a52f476cd6da8
 dev.zio	zio-aws-shield_2.13	7.31.6.2		b4b44ef8efee82119f755ceed82dd00f3280b877
@@ -2701,6 +2717,7 @@ io.github.chains-project	maven-lockfile	5.4.1		d53f9c36f809dbab9d2abd951013cd4be
 io.github.chains-project	maven-lockfile	5.4.2		be1226d41c6cb88ee56bd8536d474cad1022d16c
 io.github.chains-project	maven-lockfile	5.5.0		70df30d9596ed4bad371fd732944e34b938b910d
 io.github.chains-project	maven-lockfile	5.5.1		6ff03dbff567752347ea32475418ec326ba2c04d
+io.github.chains-project	maven-lockfile	5.5.2		65509f4ee8df89902d4cfd0e92f6e427a5e5297d
 io.github.john-tuesday	measure-iossimulatorarm64	2.0.0-alpha05		N/A
 io.github.john-tuesday	measure-iossimulatorarm64	2.0.0-alpha05	metadata	38a581527ff3d2cc3c458298fc7ec339057dddc0
 io.github.mjhaugsdal	felleskomponent1	1.0.0		18e340a46f9d8a7305b5629f45c3b0336936474d
@@ -2973,6 +2990,7 @@ org.apache.pekko	pekko-parsing_2.13	1.0.0		d336193cd76e7be9e9a0c78355bab599d49a9
 org.apache.pekko	pekko-parsing_2.13	1.0.1		c853f1b2ccedb999210b87dab7f0a8a71052f848
 org.apache.pekko	pekko-parsing_2.13	1.1.0		eff06871579987bdd3ad9cbad2708053c80a2d2a
 org.apache.pekko	pekko-parsing_2.13	1.1.0-M1		456ff554317b9c536a57177c8f16f11760edd495
+org.apache.pekko	pekko-parsing_2.13	1.2.0		0553a11c938026320fe8824a14627f158a8064de
 org.apache.portals.applications	apa-webcontent2	2.0		N/A
 org.apache.sedona	sedona-spark-common-3.5_2.13	1.5.1		396a703a36209edb9911ce5fd893962048299af0
 org.apache.sedona	sedona-spark-common-3.5_2.13	1.5.2		be80cfe7bdb4a9bd398609e723b705831e77894a

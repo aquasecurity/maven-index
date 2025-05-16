@@ -187,6 +187,7 @@ com.clovellytech	h4sm-testutil-common_2.12	0.0.42		163db5b18248d32eb5e9d1fb5ac53
 com.clovellytech	h4sm-testutil-common_2.12	0.0.43		427e2a8a2cf3f2b421258e72e7f818593be50c74
 com.clovellytech	h4sm-testutil-common_2.12	0.1.0		66bdd0d1d6bf8b46cb1956135e16ffc1b4091b16
 com.clovellytech	h4sm-testutil-common_2.12	0.1.0.1		dd351b0f01245d8607cac83e758071378a0e7aa8
+com.databaseflow	sbt-ebenezer_2.12_1.0	1.1.1		905cefc0a70c3b265ea5d260a0d640983b703a8a
 com.dell.cpsd	gateway-rackhd	1.0.0		5356c3e37b94b0ec2ae22eb4ae4d26773197a433
 com.dslplatform	dsl-client-core	0.4.13		de39c55bb06d39bcf49fcc845deadc8af92be4e5
 com.dslplatform	dsl-client-core	0.4.14		680b1ca0543a5e32ddba6bf18449e54484c38943
@@ -1197,6 +1198,8 @@ io.ktor	ktor-client-ios-iossimulatorarm64	3.1.1		80af5410ac0eccadb87f6774d55a3a2
 io.ktor	ktor-client-ios-iossimulatorarm64	3.1.1	metadata	c7ae2fb394b86b8754dd5925f301cf7cc5b1e078
 io.ktor	ktor-client-ios-iossimulatorarm64	3.1.2		01eedc9353d0ea742f05f53a18e5a0b018cf449a
 io.ktor	ktor-client-ios-iossimulatorarm64	3.1.2	metadata	fe1a40532bdd1f8fe83c932fd8cb021529e76357
+io.ktor	ktor-client-ios-iossimulatorarm64	3.1.3		6a4965dfa311882be6367c6bc1bdd195d9c2408b
+io.ktor	ktor-client-ios-iossimulatorarm64	3.1.3	metadata	1df72649299198ef354428fe19c4b2e778f78d8d
 io.ktor	ktor-server-data-conversion-macosx64	2.0.0		6a1b704a818895f5a3d7e88a89762ddaa4228916
 io.ktor	ktor-server-data-conversion-macosx64	2.0.0	metadata	55cb947250b368c4ef2d1838e32a95695d13863f
 io.ktor	ktor-server-data-conversion-macosx64	2.0.0-rc-1		f4c380222420b8f967c44a4807fffc2e600bf691
@@ -1275,6 +1278,8 @@ io.ktor	ktor-server-data-conversion-macosx64	3.1.1		c3b1b0a0a95659a3d627a1ff86e7
 io.ktor	ktor-server-data-conversion-macosx64	3.1.1	metadata	289c249e17f0e3766bc50557b9c66d0ec5ebce60
 io.ktor	ktor-server-data-conversion-macosx64	3.1.2		69dadeefcce7407ad9cab9164c00cd09324a2203
 io.ktor	ktor-server-data-conversion-macosx64	3.1.2	metadata	06e95fef04001016105f67115e54e3be2a25c359
+io.ktor	ktor-server-data-conversion-macosx64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-data-conversion-macosx64	3.1.3	metadata	1177e9d20991acb0fcfdfdc82462870ac06d5c93
 io.muenchendigital.digiwf	digiwf-spring-security-starter	0.18.0		ca7e5771d36d2f24e7a90daaa3c81e5d139efcc7
 io.openliberty.features	com.ibm.websphere.appserver.org.eclipse.microprofile.metrics-1.1	18.0.0.2		N/A
 io.openliberty.features	com.ibm.websphere.appserver.org.eclipse.microprofile.metrics-1.1	18.0.0.3		N/A
@@ -1539,6 +1544,7 @@ io.quarkus	quarkus-vertx-http-dev-console-spi	3.15.2		ee2730e38d5f56df4e7dae243c
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.15.3		ab6fa03de58c7e991d7938c17eb77c5820f73e25
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.15.3.1		79f1ad00fa6762d8f32c7dcd45b957bf7c61af0f
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.15.4		cd0d16a295e5be3ead2228babd4af56e9bcdac77
+io.quarkus	quarkus-vertx-http-dev-console-spi	3.15.5		253597952a15c311d532d4a3a39de81e80b667e3
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.16.0		1f9b75edaf03bb305ab5611fa632d298c22984a0
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.16.0.CR1		3ed787f00b3e73a888cf20da14ef426d9121094e
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.16.1		0894956298d538814d7915916b3b46268e86c126
@@ -1583,6 +1589,7 @@ io.quarkus	quarkus-vertx-http-dev-console-spi	3.2.8.Final		498f1b745c86f99bf5a16
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.2.9.Final		8f5f2df6752c00c379ca0812aa1c7877e7be145e
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.20.0		644e46fdd0a6023cf4de55f2b0af8566a5710f9e
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.20.0.CR1		2484a52cd971fb90b94dc845f093c6f757ce6d42
+io.quarkus	quarkus-vertx-http-dev-console-spi	3.20.1		11ec7bb9a0280863aecf8d49c2a11a081871d0e7
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.21.0		c9032137d771b3bc8c07bec0b6e6d90c2f773d3e
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.21.0.CR1		c3b410428a3d0eecf33fbea79ab05623a34ef61b
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.21.1		3e6b632bb6fdd8cb8b365aec4a6b0821cb50c5cd
@@ -1592,6 +1599,9 @@ io.quarkus	quarkus-vertx-http-dev-console-spi	3.21.4		96f220b68722313f671e6d97d3
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.22.0		975d06990dbb2c20bcf28b6c006e886dd6829182
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.22.0.CR1		24ae9917c1cc827afae27b00b4f449fb2e1898e1
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.22.1		97c02a964b13d3984ca44634ecd918a5549d0fd1
+io.quarkus	quarkus-vertx-http-dev-console-spi	3.22.2		674ebcb43594ef7680237aa80035316311f7a28c
+io.quarkus	quarkus-vertx-http-dev-console-spi	3.22.3		e31c2249ea1bf311f8982622852426d8fc15c154
+io.quarkus	quarkus-vertx-http-dev-console-spi	3.23.0.CR1		39bf752e95ec41e7862d91c24615225fec28a7c9
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.3.0		9451af81c3edb3fc6a3073c1519a0f2876259f57
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.3.0.CR1		bd25969978dccb90379dde1d0510cb35ea678c2c
 io.quarkus	quarkus-vertx-http-dev-console-spi	3.3.1		22e94a7861188523114fafccad9a2c54be8d6b68
@@ -1904,6 +1914,7 @@ org.apache.sling	org.apache.sling.resourceresolver	1.12.0		9e4fc40f03b75c9e6bec4
 org.apache.sling	org.apache.sling.resourceresolver	1.12.2		cdda6208fa6e340d70af65f1253d31bc19a733e1
 org.apache.sling	org.apache.sling.resourceresolver	1.12.4		8566984ef71377dcd5667da0e96225370fa5c01b
 org.apache.sling	org.apache.sling.resourceresolver	1.12.6		71623a92978b5f71b273c62e5e7a3f20f125e550
+org.apache.sling	org.apache.sling.resourceresolver	1.12.8		f91225ad2fda47b61f770031c6a32e44077ccbf5
 org.apache.sling	org.apache.sling.resourceresolver	1.2.0		c268311302344570e86407f6d6c7249e61c0b0e5
 org.apache.sling	org.apache.sling.resourceresolver	1.2.2		827f1e14c2fe15512fabe66940231d546dbd07e0
 org.apache.sling	org.apache.sling.resourceresolver	1.2.4		e98f15c71801a00ae10db2a09a63e85f92e251cb
@@ -2574,6 +2585,7 @@ org.wildfly.security	wildfly-elytron-x500-cert-util	2.1.0.Final		75ca96a7ea4a2f0
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.2.0.Final		e5152f2716e94948980c068d73ce625f09ff94e0
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.2.1.Final		728fad8f7dffd7d81fc73cbb80f37c5db9947774
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.2.10.Final		3c1f62f397023df20f4f2d00a9aca3840810be54
+org.wildfly.security	wildfly-elytron-x500-cert-util	2.2.11.Final		c2777a8d3e1f1637d53cca21f9120db51155e8d9
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.2.2.Final		60a78341dc0073d43823e938e06076e32e8f3c2c
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.2.3.Final		790ae3dd92800de078123ff02e769ac264f5488f
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.2.4.Final		f797afae81a901948696433de498c0a2908eb93b
@@ -2596,6 +2608,7 @@ org.wildfly.security	wildfly-elytron-x500-cert-util	2.6.0.Final		290bd5d30c71298
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.6.1.Final		bc5095e3f554e337c0e6d2564f8cb18b5ea59b34
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.6.2.Final		b0b6a883d0d1a711688650b963b8b3ea57dfc684
 org.wildfly.security	wildfly-elytron-x500-cert-util	2.6.3.Final		1e06a8ba77d38d17a757cdd845668058c656c9c0
+org.wildfly.security	wildfly-elytron-x500-cert-util	2.6.4.Final		a739ba7bf4d3323d3e6da8f5ffae16ab9d9801fc
 tech.iooo.maven.archetypes	iooo-spring-mvc-quickstart-archetype	0.0.1.RELEASE		b29442211194ca3c52a0e2e4c4315813458db726
 tech.iooo.maven.archetypes	iooo-spring-mvc-quickstart-archetype	0.0.2.RELEASE		3123c337319dfbb206317991798c1a92b91b3d23
 tech.iooo.maven.archetypes	iooo-spring-mvc-quickstart-archetype	0.0.3.RELEASE		59f818289f6d6f10eea2de91986c4cf0d899786c

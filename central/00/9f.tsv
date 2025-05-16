@@ -21,6 +21,7 @@ com.dataroid.android	gradle.plugin	3.14.1		c5746eb8b82d30dc387000af49ccac0a76ba8
 com.dataroid.android	gradle.plugin	3.14.2		0d20a6124e2e60ff119d8d826225f663d23c9447
 com.dataroid.android	gradle.plugin	3.14.3		df475a19f379c54cae75111d70feebb16fe09168
 com.dataroid.android	gradle.plugin	3.14.4		6c0bca92bcce03e5212323b0fcbae26ff6576a56
+com.dataroid.android	gradle.plugin	3.15.0		9788fb4ec511454161fe4358e9a964a8ffea3115
 com.dataroid.android	gradle.plugin	3.9.0		006bed9a04f587f1e13516fbf0d28efc9ba64021
 com.dataroid.android	gradle.plugin	3.9.1		f0fb825aefc0405fb51aa92233abb5199d21b0ce
 com.devives	devive-rst-doclet-jdk8-all	0.2.0		0e0a29d71d9bc917aceccf7da7a10b29a13ae5c1
@@ -130,6 +131,7 @@ com.google.cloud	google-cloud-security-private-ca-spring-starter	4.10.6-preview	
 com.google.cloud	google-cloud-security-private-ca-spring-starter	4.10.7-preview		459ca86df67ce52b57eaccab553cbf11710783eb
 com.google.cloud	google-cloud-security-private-ca-spring-starter	4.10.8-preview		3bea8940d9ce4272ae5f38fb186ae6dd88051a47
 com.google.cloud	google-cloud-security-private-ca-spring-starter	4.10.9-preview		959c78752525f06c63e5e2136a1d79bbedeb649f
+com.google.cloud	google-cloud-security-private-ca-spring-starter	4.11.0-preview		1ada0b347f9fb1a3b9c1dc145826f56bdc41e9a4
 com.google.cloud	google-cloud-security-private-ca-spring-starter	4.2.0-preview		c1f9bd78328d7418d3d69528a3bbc155c00904a0
 com.google.cloud	google-cloud-security-private-ca-spring-starter	4.3.0-preview		247fb71df9559a3ec87f7cb46f5cb3e0fd62312f
 com.google.cloud	google-cloud-security-private-ca-spring-starter	4.3.1-preview		a952bf0dc8ca68d7dbf1cf370c873afe2c4a2996
@@ -161,6 +163,7 @@ com.google.cloud	google-cloud-security-private-ca-spring-starter	5.11.0-preview	
 com.google.cloud	google-cloud-security-private-ca-spring-starter	5.11.1-preview		c4f6da154cf5db671c3456b0e8c027ff12fbca31
 com.google.cloud	google-cloud-security-private-ca-spring-starter	5.11.2-preview		82fb20c010bdd402f693b8d3feb42e927fc7d451
 com.google.cloud	google-cloud-security-private-ca-spring-starter	5.11.3-preview		069ff0938454da224534065db43fa17cc02bbfda
+com.google.cloud	google-cloud-security-private-ca-spring-starter	5.12.0-preview		76bc324e5d0755114eba53df0d798f629969ef3d
 com.google.cloud	google-cloud-security-private-ca-spring-starter	5.2.0-preview		3adb5866302d2a216fa43fee09957341008286dd
 com.google.cloud	google-cloud-security-private-ca-spring-starter	5.2.1-preview		563ab3667c7337d3bc7fc698ce401dacef3f01e3
 com.google.cloud	google-cloud-security-private-ca-spring-starter	5.3.0-preview		cff6fc8d029798df1be63d952b3c073abce73b34
@@ -1803,6 +1806,7 @@ io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.15.2		4aa380
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.15.3		3ae0ca9139ddfc6384825fd63e1c7af8d227695b
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.15.3.1		7863cf2f963acc5f12073df67fbf1df95bf828d7
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.15.4		f023e493ce09fb84806ecfd689fcacb5c7316080
+io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.15.5		2d182da5090a2c9eea36921f702e08d62898218b
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.16.0		31e0a022c865ff2cd6f38a40fcbedb7163cd4854
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.16.0.CR1		9c232c2b5f3cb56bfe2a34c151375f98ef5226a7
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.16.1		10244c638e09c44e0d58e7f14a20b0ba762944a1
@@ -1847,6 +1851,7 @@ io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.2.8.Final		1
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.2.9.Final		58ae2e2a45046154375a920aec1cc130bef28953
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.20.0		695e5b07b4cb2471e2ecad5f065e7b562c15e1d9
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.20.0.CR1		b1b09411d69a4d78c05f38c63c6383a1e21afb53
+io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.20.1		ef9d601cbf91163c828084bbf542b91ae1e24a54
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.21.0		a494c94ff642532bc94311cf41a851915ee6ead6
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.21.0.CR1		f0763c0655a68a36de0e3574a8092647c830e170
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.21.1		a47abf697dfc02af22a94eafa730e5922873ba19
@@ -1856,6 +1861,9 @@ io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.21.4		368a8f
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.22.0		4e448da9b4073f02e007d789c4a2a1c23fc98817
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.22.0.CR1		452d9ccb995a17b9fdd1eb419e370465d13e3e26
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.22.1		b8bab74028bd9041c3c2b22ae363ff64c84bd634
+io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.22.2		b069046cfe256904f79bf9f79fd72daacbcc3b06
+io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.22.3		4b67d63e4e8e9dcecdb2f1f6665355ba2f50d203
+io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.23.0.CR1		2b408626313da8fb61af6c6e44823b0d3b43f0ec
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.3.0		79e748c2634893c6973584065680ca06a8bc6888
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.3.0.CR1		5ca392e5a4307af809cab3ba1de0b1aa16f4bc18
 io.quarkus	quarkus-smallrye-reactive-streams-operators-deployment	3.3.1		71f68231e40d6b7c616e44f47e02af432273ec53
@@ -2863,6 +2871,19 @@ org.eclipse.dirigible	dirigible-components-ui-editor-report	11.41.1		9d5e51b3e3a
 org.eclipse.dirigible	dirigible-components-ui-editor-report	11.42.0		7d2ceb4fb0042dcc9612d49945dea2008cde25c3
 org.eclipse.dirigible	dirigible-components-ui-editor-report	11.43.0		a028c1921969bd6d6e3b4e4b881a0e44b86ad757
 org.eclipse.dirigible	dirigible-components-ui-editor-report	11.44.0		66176c03ac27523a4e1adc099538668cfb20208c
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.0		1831527a228784efdf59909695c121d7d7e2b59f
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.1		e94860a33c62775275bf1b80681107d141726a34
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.10		8d7a7ab99cf8d805749cbb5fdbaa35f0abd4f5d3
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.11		0057ee4b9f8949efd8348f1e4639db70feb8868c
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.12		65632bc62738f67446eb86581839bfe2f1ad0175
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.13		0e2d1af5d8d25aabfded731a4efae53df1e61e6a
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.3		a2522ba4e6c2674605782e1fa371d32b3517c6a2
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.4		79d3ebb0c7d6dc8fc54f22481e1f3437c0f6bd92
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.5		35ff3bf2d016c364271801d40d8e72a4cff2ffb6
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.6		0c576c5a0849e8afd76752f4a3c5147caa94f15e
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.7		9ba5cbc79793f3afc6cc8080a5f1f5229a811339
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.8		28ecf239daaf7880c86cd6092c9b092223b8cea3
+org.eclipse.dirigible	dirigible-components-ui-editor-report	11.45.9		010ac357b76e46029bb48cdc0817c4e2b2561415
 org.eclipse.dirigible	dirigible-components-ui-editor-report	11.5.0		01f2b1e5ed47df25fe98985ba73e838396499470
 org.eclipse.dirigible	dirigible-components-ui-editor-report	11.6.0		d0d2197bbd0ece9964c12450ae906acd1cf9ba5c
 org.eclipse.dirigible	dirigible-components-ui-editor-report	11.6.1		fc0219af58a32d8f76ade328bd51fc31245be5d2

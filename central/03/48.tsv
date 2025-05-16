@@ -278,6 +278,9 @@ com.google.maps.api.grpc	proto-google-maps-solar-v1	0.17.0		a620681c009cb9c2442d
 com.google.maps.api.grpc	proto-google-maps-solar-v1	0.18.0		9127a2821b6b1449e32721e9076795a125d0e10d
 com.google.maps.api.grpc	proto-google-maps-solar-v1	0.19.0		72fbc38935f77d2e5edb1246507c79d0e7ea5e7e
 com.google.maps.api.grpc	proto-google-maps-solar-v1	0.2.0		cf97ec9f4ab9cd02f9cb6377be59f9b73b4b51b2
+com.google.maps.api.grpc	proto-google-maps-solar-v1	0.20.0		5b0de54833196a938af25d39f2c1157f5b309496
+com.google.maps.api.grpc	proto-google-maps-solar-v1	0.21.0		a1b21697a047286e90ce2f840261251034acff7d
+com.google.maps.api.grpc	proto-google-maps-solar-v1	0.22.0		2e69761059e2ac788ee6d73a20377ee3084fa308
 com.google.maps.api.grpc	proto-google-maps-solar-v1	0.3.0		f536b4064f354f21f32986a54b37d2766a370d25
 com.google.maps.api.grpc	proto-google-maps-solar-v1	0.4.0		8f835f8e720faedb9c4fd0999aa9849f66ecba9b
 com.google.maps.api.grpc	proto-google-maps-solar-v1	0.5.0		51482ef5c3acda3b29662049a496c40e61e75766
@@ -906,6 +909,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-appl
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger	2.13.3-alpha		c7f2180146fd7e05d3c1ead8c834c322332e4df6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger	2.14.0-alpha		32fbf41279b5d6c71ce75573c081dbe079ad46d1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger	2.15.0-alpha		e55ca0527c3de6f51fef7d9ae798173e9d6b3eac
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger	2.16.0-alpha		31354cc62e15084efec76a67c16779e8cb42fa52
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger	2.2.0-alpha		9b6dbd98cfdc8d202a075e4e212349db4c7513a0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger	2.3.0-alpha		48fd5a6f25d7ec20b60289705970478ed10cb560
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger	2.4.0-alpha		7e63a879a7db20e5cc43e8d4206adeb958d80e54
@@ -1150,6 +1154,7 @@ io.quarkus	quarkus-spring-security-deployment	3.15.2		7e0afa82e81bdaf75a1ac33b90
 io.quarkus	quarkus-spring-security-deployment	3.15.3		a364553e9e2162305e30a4e211133bf5b642c6b4
 io.quarkus	quarkus-spring-security-deployment	3.15.3.1		bc4a2435242801e46f8137a4310c8cb7b59f5493
 io.quarkus	quarkus-spring-security-deployment	3.15.4		17eb3d3d7aa497c5d780b66f59e2159e713e2fb8
+io.quarkus	quarkus-spring-security-deployment	3.15.5		eb7aab214c1c49164c9f50d88f0bf91ffd9a1981
 io.quarkus	quarkus-spring-security-deployment	3.16.0		76f085adcf6465683e2b0f7bccbdd19801a6a88e
 io.quarkus	quarkus-spring-security-deployment	3.16.0.CR1		0d2ce4b30e163e654bace3980b81374105b0bb60
 io.quarkus	quarkus-spring-security-deployment	3.16.1		716ba00812941367d0c7f0423d94cb7396f66225
@@ -1194,6 +1199,7 @@ io.quarkus	quarkus-spring-security-deployment	3.2.8.Final		c0ffe77e974f3d90f0a74
 io.quarkus	quarkus-spring-security-deployment	3.2.9.Final		c51994597855f03d95d244ea608b92eb5474b5b8
 io.quarkus	quarkus-spring-security-deployment	3.20.0		82c334d496d55a55891ad045f9c342560bb82493
 io.quarkus	quarkus-spring-security-deployment	3.20.0.CR1		8367c73f593bf2f2af5dc98222142fe3193da065
+io.quarkus	quarkus-spring-security-deployment	3.20.1		4f153abf4ec47aa407e99ec3f52a750bf432e2d8
 io.quarkus	quarkus-spring-security-deployment	3.21.0		ad5bbef8c35047d248672540a55e9beb62723bb1
 io.quarkus	quarkus-spring-security-deployment	3.21.0.CR1		863812917b63e0e541f503aad98b058011ab8173
 io.quarkus	quarkus-spring-security-deployment	3.21.1		813fe860eef175baf114775dd2f2321794cd9f28
@@ -1203,6 +1209,9 @@ io.quarkus	quarkus-spring-security-deployment	3.21.4		35573437de2c4733469c320239
 io.quarkus	quarkus-spring-security-deployment	3.22.0		981a01d06d2928215b51a646cc2fb70a0db14a23
 io.quarkus	quarkus-spring-security-deployment	3.22.0.CR1		a4862aeeb0fae110b7882d3c5f2f0deea898cb58
 io.quarkus	quarkus-spring-security-deployment	3.22.1		02c971af7125dfd196d3fef47118e5758f6aaae4
+io.quarkus	quarkus-spring-security-deployment	3.22.2		0ddc4336f2b70376d0e49a747301f4443158831e
+io.quarkus	quarkus-spring-security-deployment	3.22.3		52cf914bfd3d2ad5cc281b016a71abc18c1c8293
+io.quarkus	quarkus-spring-security-deployment	3.23.0.CR1		15681b92320e76ac626c7a541788529f9966378d
 io.quarkus	quarkus-spring-security-deployment	3.3.0		02d4244753d4d08cb19bc5c84cb226f58205adfc
 io.quarkus	quarkus-spring-security-deployment	3.3.0.CR1		633792a8070cb11753250a1d1b090997133145a9
 io.quarkus	quarkus-spring-security-deployment	3.3.1		8e453d4ea6ef1af22f04c484893c9df4b3e538fb
@@ -1373,6 +1382,7 @@ org.gwtproject	gwt	2.12.0		N/A
 org.gwtproject	gwt	2.12.1		N/A
 org.gwtproject	gwt	2.12.2		N/A
 org.incenp	dicer-cli	0.1.0		4a07adcaa2dbff7c680cd8e5d49f6b611a2e77a2
+org.incenp	dicer-cli	0.2.0		4bd6586052d8e04f15ef8004d7287fef8639daa8
 org.jasig.ssp.service.persondir	person-directory-parent	1.0.0		N/A
 org.jasig.ssp.service.persondir	person-directory-parent	1.1.0		N/A
 org.jnosql.artemis	artemis-extension	0.0.2		N/A
@@ -1669,6 +1679,7 @@ org.webjars.npm	mute-stream	0.0.5		8bfc727a1df21a57622edd264c0ed0720825a2c0
 org.webjars.npm	mute-stream	0.0.7		877f5f16ad1e1cc2115ad2f98f34c9e4507725b3
 org.webjars.npm	mute-stream	0.0.8		97e8c6cdfeb2a465d276a3e5d2a89e7238629fcc
 org.webjars.npm	mute-stream	1.0.0		3e565047d577774b095ee0bbfcfa4df0d74489b1
+org.webjars.npm	mute-stream	2.0.0		fe7189329751adaed7cfd972025a55e3e40a9fec
 org.webjars.npm	y-codemirror	3.0.1		58d3dd2088e557332be94578b826e79b0b5a2b5a
 software.amazon.awssdk	archetype-app-quickstart	2.16.1		f9ff127a0e15728655a5d733456bcf2596574620
 software.amazon.awssdk	archetype-app-quickstart	2.16.10		d9489bb8ebc4f21585195a2d8e87fc6acd6d5080
@@ -2684,7 +2695,18 @@ software.amazon.awssdk	archetype-app-quickstart	2.31.30		91bae91e5d88721e612bd8c
 software.amazon.awssdk	archetype-app-quickstart	2.31.31		aeb287dfb0170adb194b93311a62ac009286ebbd
 software.amazon.awssdk	archetype-app-quickstart	2.31.32		19be03167b5a25dbf518c77ba636d1cda2477caf
 software.amazon.awssdk	archetype-app-quickstart	2.31.33		a88e526c480199484faa7754aa5a370316c084a5
+software.amazon.awssdk	archetype-app-quickstart	2.31.34		e12692b2e7fcaf0d78149ea322a782d0b04a1b1a
+software.amazon.awssdk	archetype-app-quickstart	2.31.35		2d565f4da484bb92f198a83c279036d8e1dc96cd
+software.amazon.awssdk	archetype-app-quickstart	2.31.36		0c9da78c36a75ae4dfcee4cd598cc284c3562cbe
+software.amazon.awssdk	archetype-app-quickstart	2.31.37		608a1ad4fdc2e5bae09c8122d428c77f11af39ae
+software.amazon.awssdk	archetype-app-quickstart	2.31.38		2b86494770bdedbc5089765a5c7bcd0f3a52fcfd
+software.amazon.awssdk	archetype-app-quickstart	2.31.39		dcd2969d65aa9f0e13370b3b7966792515e27536
 software.amazon.awssdk	archetype-app-quickstart	2.31.4		70c2c340a4f34509038a09ca6e85064e5312eb9b
+software.amazon.awssdk	archetype-app-quickstart	2.31.40		3528af1efdded56c20b554b8e85ec697c8d805cb
+software.amazon.awssdk	archetype-app-quickstart	2.31.41		e6f6162b5419c08921f9061730090872b236a624
+software.amazon.awssdk	archetype-app-quickstart	2.31.42		946ee26b6152b4fc634e68eeed1112147aa8dd9b
+software.amazon.awssdk	archetype-app-quickstart	2.31.43		07d69df8bed3778789473a9bdd55d6c9e74ec3a2
+software.amazon.awssdk	archetype-app-quickstart	2.31.44		bdce1ca6685fddbbe3f505fc23dc1d80daefde19
 software.amazon.awssdk	archetype-app-quickstart	2.31.5		bbb4130b91b9607d999d1a3e63b69e2438e87ea3
 software.amazon.awssdk	archetype-app-quickstart	2.31.6		052008f6dd8288b959c43d85fd9b380de052656d
 software.amazon.awssdk	archetype-app-quickstart	2.31.7		26f491375d54dec2f186b84ec5892d39fe4017bb

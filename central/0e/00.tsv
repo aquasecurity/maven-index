@@ -27,6 +27,7 @@ com.cyberark	conjur-sdk-java	4.0.0		bb66e055ac20f44bb20ae8347159fc14d6cfbc0f
 com.cyberark	conjur-sdk-java	4.0.0	jar-with-dependencies	0a24631e091fbebeddf048a3439f49754e0d3a45
 com.cyberark	conjur-sdk-java	4.1.0		fcfba2a2c51ebd2ec618e379ac30393dee41c388
 com.cyberark	conjur-sdk-java	4.1.0	jar-with-dependencies	09900eea032addad53ef195240bf0bfee5a81729
+com.dongxiguo	pttrt_2.10_0.12	0.1.0		f7109a5950d3dc7742c3c2a2e025e39c230a9ba9
 com.figtreelake	cor-bean-processor-spring-boot-autoconfiguration	0.0.3		N/A
 com.figtreelake	cor-bean-processor-spring-boot-autoconfiguration	0.0.4		N/A
 com.fresco-kitchenos	kitchenos-client-sdk-web-socket-implementation	0.0.3		01f3e88f0d60461e3bc461f266e2bccf8865bb83
@@ -573,6 +574,7 @@ io.github.marcinzh	turbolift-bindless_3	0.104.0		bba379199dd3941986a4911bb475920
 io.github.marcinzh	turbolift-bindless_3	0.106.0		cda6c91e624b2a1dfb6b254ef64db117417818bb
 io.github.marcinzh	turbolift-bindless_3	0.108.0		8bc7f900029c67ada7e56f51d37c9a6a17d3f781
 io.github.marcinzh	turbolift-bindless_3	0.110.0		35f99cf418498ae34db42d89cf12bfe741d8cd16
+io.github.marcinzh	turbolift-bindless_3	0.112.0		743b4206bb25012159d53870febbf44d3d3bac30
 io.github.marcinzh	turbolift-bindless_3	0.92.0		be96a43b64f6245357212412106ceeb9091e0c2f
 io.github.marcinzh	turbolift-bindless_3	0.94.0		f9f79aee034791d2c716ae45428b870554d7f422
 io.github.marcinzh	turbolift-bindless_3	0.96.0		1f53ce3e49969098b26a643e8f1b3b44bd7ccb64
@@ -900,6 +902,8 @@ org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.17		a12842ed3d51d8336bb2f
 org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.18		01780017aacc85e06be3fd7a7a6edcaa697910b9
 org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.19		0aa24c1b90e7ac7b635c5b67fd8e5833784af513
 org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.2		314bb7ab1aca62fa88894e89f8623f1d13b6008e
+org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.20		c1a3aed3240c9c65877abb81a19bf1ec0f02b64a
+org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.21		a48cf7405be441036294b12ae2299253656a28d8
 org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.3		c5cf1d85be1bb8622800b7af54a4929c9bf8b30c
 org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.4		fe1501f8799952ae96afa952af2e651132c7dbe4
 org.eclipse.jetty	jetty-infinispan-embedded-query	12.0.5		6fff7f1be52682f6e4379f472a197ab36234677f
@@ -1017,10 +1021,17 @@ org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.79.0	
 org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.80.0		3dee1a21c298210c877c26dfb3c7eb27fb0558f3
 org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.81.0		8a050efbc65a84427a73d4c39e5edac0289a7136
 org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.82.0		64b1899598fdfbce37edc7084bbb822c42721ad6
+org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.82.1		dab04c74288c38a999a82ecf16d4fd9471354e1e
 org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.83.0		b7f326b12449685e32f08f82f752f3a7e4861164
 org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.83.1		d4fced22cc582f25b5d226407a977c5b357c9843
 org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.83.2		a2b75072c3f33ca67d32dd7cf8d9217c5682f432
 org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.83.3		942db0ed91330c84554adff30c0590f2b447ac40
+org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.84.0		581c1921e2bfc3e51f2962ab3aaa58b12d4c0ffe
+org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.84.1		9186cd08f63eea3b5b6c8d0eeb03fcc2c374e459
+org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.85.0		2095436752ee3269ad857d1f57bb7572ed96523c
+org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.85.1		06db6567b06f6c83430bba84fd0d50830435e72c
+org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.85.2		2624ab1c0f61812041f1dd79e35bf96822999b7a
+org.finos.legend.engine	legend-engine-pure-functions-legendCompiler-pure	4.85.3		58339d0f3c4be07ed4286a331fef1a82965f6f86
 org.hammerlab	args4s_2.12	1.3.0		ef7ed816ecd78432ceccb5c592a14e284f6a06d6
 org.hammerlab	args4s_2.12	1.3.1		623a23c09b640b936b07a89b7c9d0840e11bf618
 org.iru.rts.classic.egis	egis-bo	2.10		29940b5632f3a53d4580dd5493f5c50bad86542c
@@ -1252,6 +1263,7 @@ org.refcodes	refcodes-archetype-alt-csv	3.3.6		c1f171a1f6061a18c99808cce59bdd39f
 org.refcodes	refcodes-archetype-alt-csv	3.3.7		5a3397eb0ae680a117546f141adb474dc3835ee3
 org.refcodes	refcodes-archetype-alt-csv	3.3.8		95181e62ed13f4268ef1bc1bda6a745e4a9029bb
 org.refcodes	refcodes-archetype-alt-csv	3.3.9		89733ad344a803d614f84b4ea121a5eb2a8c8bb1
+org.refcodes	refcodes-archetype-alt-csv	3.4.0		885cf376f3ebf629b0d3e6f29b8de4eb3a8e1303
 org.richfaces	richfaces-bom	4.0.0.20100715-M1		N/A
 org.richfaces	richfaces-bom	4.0.0.20100824-M2		N/A
 org.richfaces	richfaces-bom	4.0.0.20100826-M2		N/A

@@ -275,6 +275,7 @@ com.google.protobuf	protobuf-java-util	4.30.0-RC1		5ace21c63f8165ddf27fdc6513636
 com.google.protobuf	protobuf-java-util	4.30.0-RC2		bc596e0560bbaefede70d617e04c9f8c2bb1235c
 com.google.protobuf	protobuf-java-util	4.30.1		8d2238466b488df77ded2f3c06ec35720a716a70
 com.google.protobuf	protobuf-java-util	4.30.2		3826fa560563b05e03f9fe00fce31143e1e93dd8
+com.google.protobuf	protobuf-java-util	4.31.0		1be1966142b507a9fd20d84f9bd1be98d12befe6
 com.google.protobuf	protobuf-java-util	4.31.0-RC1		cf9aa4386d3a5f68f0bceec321ae3418aeacba1e
 com.google.protobuf	protobuf-java-util	4.31.0-RC2		bc94baee25ea071b84d38d05427ec32ff8a32a77
 com.growingio.giokit	giokit	1.0.0		N/A
@@ -1371,6 +1372,9 @@ com.volcengine	volcengine-java-sdk-clouddetect	0.2.3		abb8e7129b727a1b917833fdac
 com.volcengine	volcengine-java-sdk-clouddetect	0.2.4		b7934a8a6bb89cfd29054dee13cf6f0cdfc1f0a4
 com.volcengine	volcengine-java-sdk-clouddetect	0.2.5		b3f7e426173d9f8e3ced0f08a30da9e8bd410420
 com.volcengine	volcengine-java-sdk-clouddetect	0.2.6		9e7448db40a13147207d3112fabbad66696b12aa
+com.volcengine	volcengine-java-sdk-clouddetect	0.2.7		a951f6bd8593aa91352c4bf1723e8a571a296724
+com.volcengine	volcengine-java-sdk-clouddetect	0.2.8		0d707e5e5f5f043772d0929046bffc39808100fc
+com.volcengine	volcengine-java-sdk-clouddetect	0.2.9		119bafb60863739774cb00604857df49a92bda1d
 com.vwkit	matrix-boot-starter-based	1.0.0		fc6e3fa2c2b2eb14a5bfcfd6126aa8eee8b0f742
 com.vwkit	matrix-boot-starter-based	1.0.1		1b74d56d8886844b2c01facf2f54f7d835d82633
 com.vwkit	matrix-boot-starter-based	1.1.0		bc78949cb977718933df87d16ebd828095791208
@@ -1857,6 +1861,7 @@ io.liftwizard	liftwizard-config-logging-config	2.1.28		57c21341d796d99b418e94948
 io.liftwizard	liftwizard-config-logging-config	2.1.29		e1feb2aa0e18dff05ca5a7b4ae314f3d630a2838
 io.liftwizard	liftwizard-config-logging-config	2.1.3		1043d79dfecbe9d5b596e98e7e51e4a519aabb69
 io.liftwizard	liftwizard-config-logging-config	2.1.30		15ddf8985825451e3cbcf416901c542bbcde374d
+io.liftwizard	liftwizard-config-logging-config	2.1.31		e0a7f07cef44090df819f0ceabf465476b7a6c72
 io.liftwizard	liftwizard-config-logging-config	2.1.4		4ef5f698a83f4ba0c8182ac84889c3ac536137c7
 io.liftwizard	liftwizard-config-logging-config	2.1.5		f440b8a2ad73528e2c66847d8c3688ffe0b97fb4
 io.liftwizard	liftwizard-config-logging-config	2.1.6		deb7bdebec600c12ac6b26f3da976cbd92b36028
@@ -1987,6 +1992,7 @@ org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.2.1		905561083e0
 org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.2.2		d1a0cf1d60dab841688b614a831914bbd835d5a5
 org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.2.3		ba29cfb3e3948a9659ce779579e69ff4111fd344
 org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.20.0		8c8a57502a42a3ae3866e8b05df6f627350fbf69
+org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.20.1		33278da364152d2fcd54fbaff25513f89023f47e
 org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.22.0		61f34bacc68777df022694d63097fd0c6e61c3a9
 org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.4.0		2a68f1cf8d96a1f92f2dce3829a6fc4fee88200c
 org.apache.camel.quarkus	camel-quarkus-cloudevents-deployment	3.5.0		38be781653cbb24264f4657c2d514040f998cf55
@@ -2741,7 +2747,9 @@ org.wildfly.core	wildfly-security-manager	28.0.0.Beta4		642cf5e796aef242102381e9
 org.wildfly.core	wildfly-security-manager	28.0.0.Beta5		d9cb6d9b440e2a7729767d17e4bd5939dd290d23
 org.wildfly.core	wildfly-security-manager	28.0.0.Beta6		b22f186d27bef40bcb0f460c3ca0fb923d549bfe
 org.wildfly.core	wildfly-security-manager	28.0.0.Final		d364a1a9a086315623da169f4180f1846eb43e69
+org.wildfly.core	wildfly-security-manager	28.0.1.Final		38113b3e8be85329e1f21dd7f98cfb49c5e1fd46
 org.wildfly.core	wildfly-security-manager	29.0.0.Beta1		a20cc91bb9bff6f2caa7a14c17b789f556bdc6c3
+org.wildfly.core	wildfly-security-manager	29.0.0.Beta2		2cbb9f7cb5d0d3fd7953d3e694beea9b5a30f9f0
 org.wildfly.core	wildfly-security-manager	3.0.0.Alpha14		f20ff1e1ea4cc72bc4db6fcd25a36b6be735145f
 org.wildfly.core	wildfly-security-manager	3.0.0.Alpha15		65d9c6ad537596334cd0ce247ab9ba840266d499
 org.wildfly.core	wildfly-security-manager	3.0.0.Alpha16		9c95c52d9fc6284d481ed429e33ba1f2c8e1265f
@@ -4492,7 +4500,18 @@ software.amazon.awssdk	resourcegroups	2.31.30		f469ddd6c7c9ea5b4c0cd8d10f9e264da
 software.amazon.awssdk	resourcegroups	2.31.31		53c1381861ecc0e36fb8ae0af625fc8cb5fa54ad
 software.amazon.awssdk	resourcegroups	2.31.32		edfa78305ecd48e66012eda05e49c6710a466a41
 software.amazon.awssdk	resourcegroups	2.31.33		83222ad918d33aa783a9dee1f8fb77f810a30ae1
+software.amazon.awssdk	resourcegroups	2.31.34		2a51f1ceb1c6c7f0db5ad54165c83ad36fe0c0e0
+software.amazon.awssdk	resourcegroups	2.31.35		8121c9b52d023534f3d84d1e3c519e86aa1a268f
+software.amazon.awssdk	resourcegroups	2.31.36		32140cfd1906cac71323f7ccfcf72b43fd1d86b2
+software.amazon.awssdk	resourcegroups	2.31.37		27de02461a2df4bf17740f995a0cdf66b3585f77
+software.amazon.awssdk	resourcegroups	2.31.38		eab42fd269c2d3e7bb0a04a7cf9a61fd8b28f286
+software.amazon.awssdk	resourcegroups	2.31.39		1b94925dbc4c0f871172f0046b81fb9ff4a2a50b
 software.amazon.awssdk	resourcegroups	2.31.4		8929a4abcd039cc94d969456aedbd4669d200d01
+software.amazon.awssdk	resourcegroups	2.31.40		b023bf0245f75c07007010de133bd6d3c20f196d
+software.amazon.awssdk	resourcegroups	2.31.41		55b9a4c1a095c581e69b11ad52a9c83c7fd51fbb
+software.amazon.awssdk	resourcegroups	2.31.42		6c527bc2fc760e3c7578986a7cfaa309f8ea67ad
+software.amazon.awssdk	resourcegroups	2.31.43		f6cd240b256e7528c3f4de533597ba17350d4c46
+software.amazon.awssdk	resourcegroups	2.31.44		a0aa92b3c9e4e4c520368c0372ba4f4ffb69a412
 software.amazon.awssdk	resourcegroups	2.31.5		d53200f4e62350c1d67d82194624bd9c44f5f8e2
 software.amazon.awssdk	resourcegroups	2.31.6		eff9f55e8d122267671ebb983e1ad94d7a1087d5
 software.amazon.awssdk	resourcegroups	2.31.7		31b1c9043cc37e332d9e86bdd54100bd29b95c2e

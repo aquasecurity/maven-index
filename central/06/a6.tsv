@@ -840,6 +840,7 @@ io.airlift	http-client	330		0fd77e4b0eb4bf8c016e8e8aab1604d3048a1c7e
 io.airlift	http-client	331		0ee68ad51a63ee9c18982476469fbb75e69d59d5
 io.airlift	http-client	332		a03078ce9a07b68065c40f980615b421cdefa782
 io.airlift	http-client	333		38b8a1716a120f79d9082ed48873b74af9764d3b
+io.airlift	http-client	334		12d2deebd680c1dff21aedbb408bcc11937ec1bd
 io.arrow-kt	arrow-fx-resilience-macosarm64	1.1.6-alpha.1		N/A
 io.arrow-kt	arrow-fx-resilience-macosarm64	1.1.6-alpha.1	metadata	4fb7ee5f873a5acebe66ec0d6e588d4adfd4fc0e
 io.arrow-kt	arrow-fx-resilience-macosarm64	1.1.6-alpha.11		N/A
@@ -1074,6 +1075,7 @@ io.quarkus	quarkus-vertx-deployment-spi	3.15.2		277b96f6f6d95d5812c63c9c8c4b4dc1
 io.quarkus	quarkus-vertx-deployment-spi	3.15.3		2968d591e2dfcc3a1712c189449f0d341fcacaef
 io.quarkus	quarkus-vertx-deployment-spi	3.15.3.1		9c4d776916131b2860f098823ae385c6b752d72e
 io.quarkus	quarkus-vertx-deployment-spi	3.15.4		87f751b206842413ef9ee464b0bd84a2eb685fcc
+io.quarkus	quarkus-vertx-deployment-spi	3.15.5		f8a3eba5ecc26043c3ed049058a8da306787d90f
 io.quarkus	quarkus-vertx-deployment-spi	3.16.0		d8bb12cb9bebe0ebacad29545433fadada928689
 io.quarkus	quarkus-vertx-deployment-spi	3.16.0.CR1		904dc07edd908e5c11cc0d86f1efd6bbee80779f
 io.quarkus	quarkus-vertx-deployment-spi	3.16.1		9c9adf87bbca17f34b9259079f8011bf755bc389
@@ -1104,6 +1106,7 @@ io.quarkus	quarkus-vertx-deployment-spi	3.19.3		1c0e1f46257a45d5bd2d08357c29fea2
 io.quarkus	quarkus-vertx-deployment-spi	3.19.4		dfa1e43d32db72b55ee2e3b02584dc4a75c575e3
 io.quarkus	quarkus-vertx-deployment-spi	3.20.0		3d916901bfd1ca317c7f368832d18bd5f4b6aeb9
 io.quarkus	quarkus-vertx-deployment-spi	3.20.0.CR1		2e85d583cb49863129b5f4487b84e992bf1b6006
+io.quarkus	quarkus-vertx-deployment-spi	3.20.1		0281794517838b34a533ead288301c181e5153be
 io.quarkus	quarkus-vertx-deployment-spi	3.21.0		fda4ecde5e9d3a8eaa90ca69882bb9f0d3ca2c8c
 io.quarkus	quarkus-vertx-deployment-spi	3.21.0.CR1		614a92785be716915430effbdc0a44f8bf65e2bd
 io.quarkus	quarkus-vertx-deployment-spi	3.21.1		19d9461a74ea2b90d8e87e2e677706706794c90f
@@ -1113,6 +1116,9 @@ io.quarkus	quarkus-vertx-deployment-spi	3.21.4		6b162e9e5e880fe68e04c21fa7acfd00
 io.quarkus	quarkus-vertx-deployment-spi	3.22.0		3ade1775fda6a630032c74e61529388d6c64b065
 io.quarkus	quarkus-vertx-deployment-spi	3.22.0.CR1		a3404ed0dbe95ef212b9693da373bee96db76b9c
 io.quarkus	quarkus-vertx-deployment-spi	3.22.1		b23e1c766a76d0f8fbcdb241b3382b3f9b72035b
+io.quarkus	quarkus-vertx-deployment-spi	3.22.2		fa89f36011cff011a038c6e08ed29044b94b7f3c
+io.quarkus	quarkus-vertx-deployment-spi	3.22.3		0f5551d67c0e537dca4327b4343a9304f5c9dd90
+io.quarkus	quarkus-vertx-deployment-spi	3.23.0.CR1		c73df35ba85925853743fef87400cd28180a9c04
 ir.msob.jima.scheduler	scheduler-starter-quartz	1.1.2		N/A
 ir.msob.jima.scheduler	scheduler-starter-quartz	1.2.0		N/A
 ir.msob.jima.scheduler	scheduler-starter-quartz	1.3.0		N/A
@@ -1161,6 +1167,7 @@ net.codinux.i18n	k-i18n-iossimulatorarm64	0.7.0		N/A
 net.codinux.i18n	k-i18n-iossimulatorarm64	0.7.0	metadata	9bb1c287c5d58d0230a391f4d57b5fe5406bfa71
 net.codinux.i18n	k-i18n-iossimulatorarm64	0.7.1		N/A
 net.codinux.i18n	k-i18n-iossimulatorarm64	0.7.1	metadata	01a3293eac8893ecba9c7e498860a1d4fd52fab1
+net.codinux.log	log-formatter-tvosarm64	1.0.0	metadata	6bd8f14a9dc7f3a91862ee309a922ee50e18b256
 net.exoego	aws-sdk-scalajs-facade-eks_sjs0.6_2.13	0.24.0-v2-473-0		7bcea76472ce0654493f7016f3ce9ffeac11da95
 net.exoego	aws-sdk-scalajs-facade-eks_sjs0.6_2.13	0.24.1-v2-473-0		bac442c6f141b26b95d2bbbc3683db70c4769974
 net.exoego	aws-sdk-scalajs-facade-eks_sjs0.6_2.13	0.24.2-v2-437-0		5998a2834f8d4670721aa3effc169c03dce08da6
@@ -1386,6 +1393,7 @@ org.citrusframework	citrus-jms	4.4.0		a701fb7d0ee78084e103e80497e4264144508e15
 org.citrusframework	citrus-jms	4.5.0		be91cbc47b64b4361fb92893357ab7e4e842e62d
 org.citrusframework	citrus-jms	4.5.1		54b95c146b0f79aebf39acdd745d34bab8a00e24
 org.citrusframework	citrus-jms	4.5.2		a77ed7e48fe8e108ba6b4206ff0bc0d23ff14e4c
+org.citrusframework	citrus-jms	4.6.0		5da09d9d9aadadb2c125fc026816284381ba9a35
 org.codehaus.openxma	xmarwt	1.1		e14131746abb0896da4a961dd9652c57d568db84
 org.codehaus.openxma	xmarwt	1.2		5f55ec25be9ce70478b9d030f50a4fddd271f5cc
 org.danbrough.kotlinxtras.sqlite	sqliteLinuxArm32HfpBinaries	3.39.4		b435947eb0b5721ad69d07b7787a18ff2c44f054
@@ -1687,3 +1695,7 @@ tz.co.asoft	raven-sms-console	3.0.14		7d8e91b6d1b72fbb672eaac372b6ccff03908334
 tz.co.asoft	raven-sms-console	3.0.15		d977dc13074ddaaf429b48282dea199efcf6ddc3
 tz.co.asoft	raven-sms-console	3.0.8		70c9829a0b704f4d5ec691c4bb18f9c03a48aa3e
 tz.co.asoft	raven-sms-console	3.0.9		7d8e91b6d1b72fbb672eaac372b6ccff03908334
+tz.co.asoft	raven-sms-console	3.1.0		44de64cc0761f705cfeba2a83cec5cca2f3b561f
+tz.co.asoft	raven-sms-console	3.1.1		44de64cc0761f705cfeba2a83cec5cca2f3b561f
+tz.co.asoft	raven-sms-console	3.1.11		44de64cc0761f705cfeba2a83cec5cca2f3b561f
+tz.co.asoft	raven-sms-console	3.1.12		44de64cc0761f705cfeba2a83cec5cca2f3b561f

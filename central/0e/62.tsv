@@ -477,6 +477,9 @@ com.sipfront.sdk	call-analytics	1.0.5		696c7487c8855dbbb984822514a7ec220ac2f4d3
 com.sipfront.sdk	call-analytics	1.0.6		dbf07fef98c7830446e5401cc9f5efe9cc124284
 com.sipfront.sdk	call-analytics	1.0.7		3b1edde164a31c1b7563c2ddbb76a69eb19d9802
 com.sipfront.sdk	call-analytics	1.0.9		23c8718898d59509bb19bc2ad3728bc735d58ef5
+com.sksamuel.scribble	sbt-scribble_2.10_0.13	1.0.1		4255deaff1592dc15aec1bcc2a647cc6c443260f
+com.sksamuel.scribble	sbt-scribble_2.10_0.13	1.0.2		33d2fc2113ed2206988dac3a8068d3b71df54f8a
+com.sksamuel.scribble	sbt-scribble_2.10_0.13	1.0.3		dcb7ae697ca739fdb8c160909717356a986bea82
 com.soywiz	korlibs-textreader-android	6.0.0-alpha2		N/A
 com.tencent.tdfcore	embedder	0.0.4		N/A
 de.alpharogroup	jaulp.test.objects	3.10.0		3599524c58e7332b57e5c1f27dfb32f5082b0927
@@ -718,6 +721,7 @@ org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.2.1		0de755a6f3f050749
 org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.2.2		730802d32809564685c3a436ce9986dd388c1cf1
 org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.2.3		e02fd4dc74c91fcf96d78d85eb951d58ee55da26
 org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.20.0		fbb52cbf45b6fffdf2b3e2ad4e64b75f901b318e
+org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.20.1		c248ec17f828f2f797e5596e1af3a83bd1972774
 org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.22.0		1f2d38a5467a5f56c688f1ab6c652a156dffc640
 org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.4.0		5fda2125c5a583af1cf226553188b66c322f728f
 org.apache.camel.quarkus	camel-quarkus-drill-deployment	3.5.0		1e690d2268b490a55f3b9a9a643c09376a3de02f
@@ -975,6 +979,19 @@ org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.41.1		3149418ee4dfac7
 org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.42.0		2acee2b85f9b249abc70f248337a968946097218
 org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.43.0		755688d0c4cdd3ff42f006b6b4dda68af935fa84
 org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.44.0		f64d439af579c121c23f5b84aa9792e5a5608e03
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.0		ad448de12df21f187df2b9566dbbf114ddb5de2c
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.1		194b6bc06a934efcd6e1e7be5755132b75069123
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.10		ec26d951295bb017956556ef9ddd89ddfce76ac1
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.11		3d11c5709405bcd4e1e4875544eba45c5c63eac0
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.12		ef08d9d26e92d346ef370172f5ffb7fc3a78d263
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.13		760691a358c12b9549b5a45a7a2d522042649927
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.3		c54b2536629f315a32c9e2f7583ff8f87c9db2a9
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.4		6d9bd9a4179235f44c96759c24e46e9ad1457c86
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.5		9ca43c8f60ec7e083ec40a19431ea3823a04c0fd
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.6		0bd34e15c0b9ddfd91ae2198b2ff1e06f5c13754
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.7		bc9f3c7b1e3918d4437c79a737389bf0eb253652
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.8		3a7568cf09c10a75f5d31b55206efec3e6756a68
+org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.45.9		b5edf003a3f7e7935f8353c585f30c4f08b9991e
 org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.5.0		1f132993ac5465e61936fbd49bec46fcdb87aed6
 org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.6.0		7f09898e48ff9a5ab3bc6202fec760527202fb84
 org.eclipse.dirigible	dirigible-components-ui-shell-ide	11.6.1		1ee8e674353c6b1b114b8431a4414f53f3654abd
@@ -1023,6 +1040,7 @@ org.jetbrains.androidx.lifecycle	lifecycle-common-watchosx64	2.9.0-alpha06		N/A
 org.jetbrains.androidx.lifecycle	lifecycle-common-watchosx64	2.9.0-alpha06	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.androidx.lifecycle	lifecycle-common-watchosx64	2.9.0-alpha07		N/A
 org.jetbrains.androidx.lifecycle	lifecycle-common-watchosx64	2.9.0-alpha07	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.androidx.lifecycle	lifecycle-common-watchosx64	2.9.0-beta01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.kotlinx	kotlinx-coroutines-reactor	0.19		8e225c5e334d7a6d67360741a36a5a385e04e7b2
 org.jetbrains.kotlinx	kotlinx-coroutines-reactor	0.19-alpha-4		3e5a2ca61da3a897fc66d14dadb034dcb2f85a8b
 org.jetbrains.kotlinx	kotlinx-coroutines-reactor	0.19.1		4f74a54e1ce27c5a305d911d5fea4a07ee0ac45d

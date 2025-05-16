@@ -339,6 +339,8 @@ com.google.api.grpc	grpc-google-cloud-securitycenter-v2	2.66.0		1a6d07b9d5f722e7
 com.google.api.grpc	grpc-google-cloud-securitycenter-v2	2.67.0		08ba6431505f35ba72b912d3adcb78c690c51acf
 com.google.api.grpc	grpc-google-cloud-securitycenter-v2	2.68.0		51b5de7a1bb8bfcea60a0197b584c9635d08e8ed
 com.google.api.grpc	grpc-google-cloud-securitycenter-v2	2.69.0		2ee36b1cc75c8336a5b62428da1e108eeda469f3
+com.google.api.grpc	grpc-google-cloud-securitycenter-v2	2.70.0		7150ed847b99645d49f52e3f21aad2f14b57b180
+com.google.api.grpc	grpc-google-cloud-securitycenter-v2	2.71.0		3d594573cb8e63d3d3206db534ad7a42c3a7ab77
 com.jdroidframework	jdroid-java-http-core	0.13.0		fc24c412430768a093ea035328d288ebab067aad
 com.jdroidframework	jdroid-java-http-core	0.14.0		89ec90c7d2dab9bceb3cda6839f45149518d8105
 com.jdroidframework	jdroid-java-http-core	0.15.0		399c2071ad1befb4f8d51a80def4aa55ed2d67ff
@@ -435,6 +437,7 @@ com.oracle.database.jdbc	ucp11	23.4.0.24.05		eacebf2a63a742c3dffaf169e0f4b75bb66
 com.oracle.database.jdbc	ucp11	23.5.0.24.07		5ea8cd08e0a7f43255497a6ad332a20f463aa3b8
 com.oracle.database.jdbc	ucp11	23.6.0.24.10		2efcdbcc15be7becd7f82570e95f9f98b0558d96
 com.oracle.database.jdbc	ucp11	23.7.0.25.01		d4939f55f255628841fe8479985732481b686d83
+com.oracle.database.jdbc	ucp11	23.8.0.25.04		27bec6b29732067af587c9068267d6c06201030f
 com.sksamuel.elastic4s	elastic4s-testkit_2.10	1.5.12		0526755900e1810b418966429a22b275b81ef1ee
 com.sksamuel.elastic4s	elastic4s-testkit_2.10	1.5.13		c85cbe0af47c53889320dad564eb1ebbc6ea5de3
 com.sksamuel.elastic4s	elastic4s-testkit_2.10	1.5.14		f43611248d5d432f9bf4d0cd971136e07f14667b
@@ -546,6 +549,8 @@ com.yomahub	liteflow-script-groovy	2.13.1		1d0accdaf28da99bc98fa7bce8f365beee2c9
 com.yomahub	liteflow-script-groovy	2.13.1.1		f5a4e2911b4864f583a09603383b2bc5dafbfd0c
 com.yomahub	liteflow-script-groovy	2.13.1.2		171125ea52222e76b282aab99a4846595fb1a9eb
 com.yomahub	liteflow-script-groovy	2.13.1.3		18a71b02570961a8e0cf7face093b8d48b4bcb9f
+com.yomahub	liteflow-script-groovy	2.13.2		349c20aa4c13e68a3bde6ff48141c3a0e73ac401
+com.yomahub	liteflow-script-groovy	2.13.2.1		0f60bed439ffe2d4f3db34762d3f8f1cee3e0949
 com.yomahub	liteflow-script-groovy	2.6.0		1207c2ddf108979acf3d5531a3201cb5c4452652
 com.yomahub	liteflow-script-groovy	2.6.0-BETA1		f37f7fc3f40bf4a6b0ff85a826f26f7e3f96171e
 com.yomahub	liteflow-script-groovy	2.6.1		f482363fdb40e1723463fd26b248e0660feefcba
@@ -879,6 +884,8 @@ io.get-coursier.jvm.indices	index-linux-x86	0.0.4-103-a2e4b9		dc8bd569857ba51b89
 io.get-coursier.jvm.indices	index-linux-x86	0.0.4-107-cb7328		e4f70a79bc6dedd8ceb539d4004119797d331823
 io.get-coursier.jvm.indices	index-linux-x86	0.0.4-108-721e87		ec1d29a85ccddef7b9df86957cdd441b588b9c08
 io.get-coursier.jvm.indices	index-linux-x86	0.0.4-109-dd51ff		345a8dd0dc5ca8d15bd242017a36f9a370a02159
+io.get-coursier.jvm.indices	index-linux-x86	0.0.4-110-420833		5d2b09eb6299402f4efc81a6b46ed76451b18e3c
+io.get-coursier.jvm.indices	index-linux-x86	0.0.4-111-eb6e08		3e5dfaed0c9ff580b9216a5bcf6fca666e31997b
 io.get-coursier.jvm.indices	index-linux-x86	0.0.4-41-7a9754		e01969599434f96437d413961c793ccd8d083ad6
 io.get-coursier.jvm.indices	index-linux-x86	0.0.4-44-885bdf		165f4236e09d9dd5d068063854facd592c18b4df
 io.get-coursier.jvm.indices	index-linux-x86	0.0.4-55-a6b65a		2730e856de3c86b3d8c23d5f4bcf431371c03136
@@ -1390,6 +1397,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-search	11.41.1		459a536f4c99be
 org.eclipse.dirigible	dirigible-components-ide-ui-search	11.42.0		4b270c417a8bbc5a07d57063bc174801d25df8bd
 org.eclipse.dirigible	dirigible-components-ide-ui-search	11.43.0		bd57eec16416efd41a152c1a58f04a366b929b6e
 org.eclipse.dirigible	dirigible-components-ide-ui-search	11.44.0		f50f9cc10dedf80c7e6568bd1612a5c994e263e0
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.0		ca50dc37d5480796a3728aa5981f8e31095da1d7
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.1		5202adf35ea3b69416214a7fe53f2e4a4d094a50
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.10		a2dbd9f2f30930a35b4eda9851d18cdceed9d5f8
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.11		75912353d01f8a909c76384eb6945b93befffd71
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.12		3a702490aeb78ece683df6f76393dddefd147336
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.13		d5f3740f8017583b6f309000afd0b7226c106763
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.3		214ea68e2f0ef72f77af5fb79fc1581c2027d791
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.4		14ea6046d96d3e325bcdb6836f39c659f3dfc086
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.5		a1daddc3da1a4f9aafadd32695a93710de022ece
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.6		3eb8720762dcee720fd5c54a33a7deef4d1a32b1
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.7		ae1c57843db2ac8ab9070442204004a68469f447
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.8		d8d556869f44c695e847d0608c246c7a7e7f0b45
+org.eclipse.dirigible	dirigible-components-ide-ui-search	11.45.9		320a38ba37dfb9ae4841d3fadebef0d321dab64f
 org.eclipse.dirigible	dirigible-components-ide-ui-search	11.5.0		04174a23172f43558ab8ce5d0d3c2ff141268347
 org.eclipse.dirigible	dirigible-components-ide-ui-search	11.6.0		80d5783b242cfdd77a29dc414cacc968ed5eaace
 org.eclipse.dirigible	dirigible-components-ide-ui-search	11.6.1		4779837db80fc21fd1693252383a0083031adaa0
@@ -1605,6 +1625,8 @@ org.kodein.di	kodein-di-framework-compose	7.23.1		4f2f2bd44429b1e71347b38bc667c2
 org.kodein.di	kodein-di-framework-compose	7.24.0		238d39fb7e77674d3a787b1f1c656e240ef4a4c0
 org.kodein.di	kodein-di-framework-compose	7.24.1		238d39fb7e77674d3a787b1f1c656e240ef4a4c0
 org.kodein.di	kodein-di-framework-compose	7.25.0		ff6df7080a06b1a9609ce36d174aad18251423ac
+org.kodein.di	kodein-di-framework-compose	7.26.0		beaa208de8ec9f5c5f67da22fa5b46b23eac1313
+org.kodein.di	kodein-di-framework-compose	7.26.1		b16b71808dcbcf539892cff098633b10e911b701
 org.kodein.di	kodein-di-framework-compose	7.5.0		06b3377153693cf3230056315d276ec41df8e5af
 org.kodein.di	kodein-di-framework-compose	7.5.1		98ba1a8c1614bcf67add96a4effae564e6b88034
 org.kodein.di	kodein-di-framework-compose	7.6.0		97a157c14615f0088a7ae7b3dc512fe9ea060e83

@@ -307,6 +307,7 @@ com.google.appengine	shared-sdk	2.0.32		dc1258b8149c226001c334e3001b82496651e857
 com.google.appengine	shared-sdk	2.0.33		27a6ef238c111e86a81b110458fe597d8fd453df
 com.google.appengine	shared-sdk	2.0.34		cee63f4f617ca49d881376dd773b3736bef29787
 com.google.appengine	shared-sdk	2.0.35		4da605085c302621d1a755dd5628b08604557649
+com.google.appengine	shared-sdk	2.0.36		c7ec0e62ebae189a22881ec03610104c7e0a1682
 com.google.appengine	shared-sdk	2.0.7		ec42077e41857c30a6343578164fdf83890e2b42
 com.google.appengine	shared-sdk	2.0.8		3445f609314ecd81b60014db325630049d791aa4
 com.hexagonkt	serialization_jackson_json	1.6.0		f360c2adb4f12143831baf7ceeee738785ba0629
@@ -640,6 +641,9 @@ com.regnosys	ingest-test-framework	11.6.0		41691e7f53a487f36985fab74930a8337ef86
 com.regnosys	ingest-test-framework	11.6.1		07edda868c7f12957adc6d0e0cd3b7cbcd995c2b
 com.regnosys	ingest-test-framework	11.6.2		2e0ce6b2f283e48c57280b9cffe4f06fb91d5f2e
 com.regnosys	ingest-test-framework	11.60.0		ce3138fdf4dcb6eebe4e1061ec4e6582469dc397
+com.regnosys	ingest-test-framework	11.60.2		214ed4aeaa710f495c970f214b9c2d15a252895d
+com.regnosys	ingest-test-framework	11.61.1		8e1a27d86c825526891af349a171eac6e35378ae
+com.regnosys	ingest-test-framework	11.61.2		65216ae9176a8a772a4e9028f67269cc53038d2c
 com.regnosys	ingest-test-framework	11.7.0		aabfa8e82283b4d5254ac2a09b282e46835ea10a
 com.regnosys	ingest-test-framework	11.7.4		993da3c05711d736ec3ab35770da08d9c927716b
 com.regnosys	ingest-test-framework	11.7.5		ef20ba46f3ce9f5a41748ae3a07d93571a27dc99
@@ -771,6 +775,7 @@ com.tguzik	annotations	1.0.0		23d32c67d9b5b084b980f953eeb1dc4023981656
 com.tguzik	annotations	1.0.1		1ce238d19b3a40db4d194b63cd7a80662533367a
 com.traveltime	scala-slack-client_2.12	3.0.0		2990e623e106d501d048ece2b2c9eb3b7086499c
 com.traveltime	scala-slack-client_2.12	3.1.0		811f7bb8a3796814afbf455b41d54c80e4a7b146
+com.updateimpact	updateimpact-sbt-plugin_2.12_1.0	2.1.3		a5a69eef657319dbd8fe5cc0f526f2d0efb2d0b6
 com.vision4j	grpc-classifier	1.0.0		136654d904e787bd7e89c992b34e009eaae6d7a2
 com.vision4j	grpc-classifier	1.1.0		35d6216b5476c7f5026eab01f91eee8f1736f1c8
 com.vision4j	grpc-classifier	1.2.0		e9a92b3f1d295f1d96c4598795aafe85adb1cae2
@@ -1107,6 +1112,7 @@ dev.zio	zio-aws-greengrassv2_3	7.31.27.1		8aeb09e046da1cd9abf16449ba47533db32cb1
 dev.zio	zio-aws-greengrassv2_3	7.31.28.1		b8ecd0ff74c815a810782ac2f1e2f2243f3f8c53
 dev.zio	zio-aws-greengrassv2_3	7.31.3.1		3cfd0a6cefdf559f4592e3ec2f1e56949cec37c6
 dev.zio	zio-aws-greengrassv2_3	7.31.30.1		8f6f4785272582772a4301e5c1b01647bae97a6a
+dev.zio	zio-aws-greengrassv2_3	7.31.30.2		89f612fae3e1d92ad72712ba54b928e748c53fe3
 dev.zio	zio-aws-greengrassv2_3	7.31.4.1		b8ca9f80e8d373d4f3ef97f52b98add56aa98550
 dev.zio	zio-aws-greengrassv2_3	7.31.6.1		9030f7a96eddc3053e20ed34c9465ec2a7b85718
 dev.zio	zio-aws-greengrassv2_3	7.31.6.2		a3618c2de0a8aec860abc3f61532e39bd8246799
@@ -1176,6 +1182,8 @@ io.gitee.djhkemr	mapsforge-vtm	1.0.5		N/A
 io.gitee.djhkemr	mapsforge-vtm	1.0.51		N/A
 io.gitee.djhkemr	mapsforge-vtm	1.0.6		N/A
 io.gitee.djhkemr	mapsforge-vtm	1.0.7		N/A
+io.github.duttley	sbt-web3j-source-generate-plugin_2.12_1.0	0.1.2		1f7fbea73a4c9f6e06db2bb17498fb54d17c0af6
+io.github.duttley	sbt-web3j-source-generate-plugin_2.12_1.0	0.1.3		2a6d6f1f5e1217652e0de57c46c4cf3af410de68
 io.github.fuquanming	fqm-file-minio-spring-boot-starter	1.0.3		81b1ffe821c7d7be0ecba8e18ec7593238d76989
 io.github.open-accelerators	e-trading-workbench	1.0.2		N/A
 io.github.rohitjakhar.ratingdialog	compose	0.0.2		N/A
@@ -1381,6 +1389,10 @@ org.opencms	org.opencms.locale.it	13.0		3116a73b903396fd01dfef92c498df9e9a9ff558
 org.opencms	org.opencms.locale.it	14.0		11db900ad5aad14352c322de9e600e81c5cff672
 org.opencms	org.opencms.locale.it	15.0		80a0cc712ebbb510bdf00e0e1769cc8d282534ec
 org.opencms	org.opencms.locale.it	16.0		f4721d975bdc47923735e9bdc9b32847a1bad8e3
+org.portable-scala	sbt-scalajs-crossproject_2.12_1.0	1.1.0		9dab2dace95d1cfc6f91137fcec7469e64c95692
+org.portable-scala	sbt-scalajs-crossproject_2.12_1.0	1.2.0		d348b4a2002bd1742ce01dc54a563f1bf0dcc5fc
+org.portable-scala	sbt-scalajs-crossproject_2.12_1.0	1.3.0		821c3db47a970c267b1c562d4372e3db7d801964
+org.portable-scala	sbt-scalajs-crossproject_2.12_1.0	1.3.1		5fb2cbe520a596a15de6ad296d2b4cff9958830c
 org.portable-scala	sbt-scalajs-crossproject_2.12_1.0	1.3.2		9d8cf85d2809c4c98b7dd9168250501650102552
 org.scalatest	scalatest-funsuite_3.0.0-M1	3.2.3		f11508433f1ed254fc85a779d28b4376e579a999
 org.scalatestplus	junit-4-13_3.0.0-RC3	3.2.8.0		17f39536d3a139684baa13f536d083dd59b2a06e

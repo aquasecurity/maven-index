@@ -321,6 +321,7 @@ com.lapis.jsfexporter	export-type-xml	1.0.0.Final		9a9af838bbef9351321d805f74b8a
 com.lapis.jsfexporter	export-type-xml	1.0.1.Final		71f5434e5d829daee3e2d520d6e497c0e3142d70
 com.lapis.jsfexporter	export-type-xml	1.0.2.Final		2de6098e0f1260b6027da18d084e5335cd469a39
 com.lapis.jsfexporter	export-type-xml	1.0.3.Final		6de60f117789a1886c55c7bfed8c0050106c8242
+com.mchange	sbt-orchid_2.12_1.0	0.0.1		dfcfba135d3bbd4010eed469198c994d213a6b1b
 com.michael-bull.kotlin-itertools	kotlin-itertools-linuxx64	1.0.0		N/A
 com.michael-bull.kotlin-itertools	kotlin-itertools-linuxx64	1.0.1		N/A
 com.moriatsushi.kredux	kredux-side-effect	1.0.0-alpha01		2688df364e88f2e7fd012495038bc34107fe04e8
@@ -442,6 +443,7 @@ com.tencent.bk.devops.ci.dispatch	api-dispatch	3.2.0		547ea6b327d690d683e3e45c9f
 com.tencent.bk.devops.ci.dispatch	api-dispatch	3.2.0-rc.1		910b89cfdfe3e16655ef95276d6f6272b367a1ac
 com.tencent.bk.devops.ci.dispatch	api-dispatch	3.2.0-rc.2		7d19d4d2f3f010cbb14d994787d2874a46a8f185
 com.tencent.bk.devops.ci.dispatch	api-dispatch	3.2.0-rc.4		e91f2f562862f0b5a4fd7c8d42a606146a23a563
+com.tencent.bk.devops.ci.dispatch	api-dispatch	4.0.0-rc.1		1e7e8232298fb0938a739d6eeced7e96b19e23f1
 com.vmware.card-connectors	connectors-parent	1.0.0		N/A
 com.vmware.card-connectors	connectors-parent	2.0		N/A
 com.vmware.card-connectors	connectors-parent	2.1		N/A
@@ -646,6 +648,7 @@ de.jensklingenberg.ktorfit	ktorfit-lib-watchosx64	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-lib-watchosx64	2.5.0	metadata	a127372db663f4f0823ea89cee4f4adbb9a6b27e
 de.jensklingenberg.ktorfit	ktorfit-lib-watchosx64	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-lib-watchosx64	2.5.1	metadata	dc5c009a9d39cdde446a6e9c1e9d911bd6f2bcfc
+de.jensklingenberg.ktorfit	ktorfit-lib-watchosx64	2.5.2	metadata	ddde4de39e87c2b8a6e7f2967ea488a50786d4a8
 de.sayayi.lib	stage-runner	0.1		fad1210ecaaf9ecccdc002de1a6946bb65fd4e39
 de.sayayi.lib	stage-runner	0.2		bc90bf9605ffcf4057ae486acdc2b38f7e4d9d5e
 de.sayayi.lib	stage-runner	0.3.0		25860a2b3c536f2a34fa1fa563b72093d0563e96
@@ -1421,6 +1424,7 @@ org.anyline	anyline-data-jdbc-dm	8.7.2-20250312		743b1f5ffb97105edfb48aeda96ecea
 org.anyline	anyline-data-jdbc-dm	8.7.2-20250401		ffbe46e1168c05d3144479b95c6a7f4117282763
 org.anyline	anyline-data-jdbc-dm	8.7.2-20250404		a68833f3712df39b434d2be4cd6b7211462651f0
 org.anyline	anyline-data-jdbc-dm	8.7.2-20250502		a4a3b9cc38daeee356ab8bdfe32d41d961c92d25
+org.anyline	anyline-data-jdbc-dm	8.7.2-20250509		2f0f36b363d750c254e8a82ce94da46747ce106d
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20240816		7df80584a4e97263f88ae5736411678d49462d1b
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20240819		ef84e86ead05916b228ce3e9cef57ca6b7a5cefc
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20240826		108c6274b620040b7b651a360c8d9e0b4ccc3db2
@@ -1438,6 +1442,9 @@ org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20250108		c2fbbc5e51a3b699898fcc4d2
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20250212		e8a98080671f389838a1b6f2b0ef455ffeaf410b
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20250312		86a75b74fbae54ad9c02b5bc1dc2f6ac4c20938e
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20250404		3e0dffc40735dec4bab99d783dd40b5627af104a
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20250502		f7f9466178e1f45ac510d36f07c803527e2b2565
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20250509		a4b4af64d5c7709f1c82e0dd22dba53ab1807557
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk11-20250515		c441d5e0891c5793352b0c1ecca14c9d1fc1a8ce
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20240501		00894c66acaec5ea61d42ee5b5ffd688ba898159
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20240505		2b247daf920f9b07b47e2f17d429622458505192
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20240506		4e81076e6b7d32dfa9773eb4e2ce40abc44becc8
@@ -1511,6 +1518,9 @@ org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20250109		42e2fee307cbfb66dc8cb552a
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20250212		3bfd5471452970d972661be2cfb1951b8a0d2c59
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20250312		79f6e1a7eb2f6487bedaf785b985979e7ebdb3c3
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20250404		7bc9fd449eace9155835586b193d201eb0d59c25
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20250502		63298569a96f477144bd09e2f87737da07f2a7fb
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20250509		5de8cceca8e81f776c13afed808cc811f3a5fed2
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk17-20250515		8e6840838233865f1693d7997e39235e63ef3c46
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20240501		62462f30a85f3d4c52597395c817998fcda12e9c
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20240505		ac5687b3da44a02e6a6aecd14630eac9f15382ac
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20240515		7fa08eb42172574b42dda18ae6852be3f20f65a0
@@ -1587,6 +1597,8 @@ org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20250109		ba92c72b2d475d14170b9e6fb
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20250212		0b9bff8f22be784806de3759150d14cf2f6cafa9
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20250312		713b51bf9d7d47c3cd43c653710e10e805b5634f
 org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20250404		18506b0faec94ec316d95885b43000f6789a765e
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20250502		56d462dd9408942629d40664bf5e3ae146e7db6a
+org.anyline	anyline-data-jdbc-dm	8.7.2-jdk21-20250509		100743721e224ee04d4088f37c077dde7332c668
 org.apache.druid.extensions	druid-kafka-extraction-namespace	0.13.0-incubating		1467b96534f35311a2cc5a82bc886c642ccd3d6f
 org.apache.druid.extensions	druid-kafka-extraction-namespace	0.14.0-incubating		ad679e6ac02740d4c4106b8d787eaee7a7b14bcc
 org.apache.druid.extensions	druid-kafka-extraction-namespace	0.14.1-incubating		ac9dc2ba170746ba5356785eed797f43dbef0b8b
@@ -1983,10 +1995,17 @@ org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.8.0		a9a345adbbf1
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.80.0		3857ef96f7921e339453109b5ec3f9a0729aa2e6
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.81.0		233bf333912d8b5b12d8eb092a52fae92083db43
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.82.0		d2e8436d1a6c334788293377b53e4885598cbe52
+org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.82.1		663c433fee29e7785a052a645ef5bedebf1320a8
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.83.0		e8d273f5af776c706e441bc2220384420a787726
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.83.1		dec8880eb8dad15849b78109d2e8e967f40d05a6
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.83.2		34f857fc45be9097dbd71e1ef72dae8427b9135c
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.83.3		1424abc540e8d139df270ed54717aa1619a3dd86
+org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.84.0		d26193f9bc22b113609e20cffddcff36428089e6
+org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.84.1		3e43b5baa7d207609843a358d44e5c9e8be92049
+org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.85.0		97cfabdde5c1d0a57f3e2de07c369b622b24c288
+org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.85.1		abddc893c25e21d0562e9efb1112d2aa4376f29c
+org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.85.2		3a050d838c5b881a27f25735c8bc3158ac246318
+org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.85.3		bdb2e57f6ff46339211b7abdd27cee90d9722168
 org.finos.legend.engine	legend-engine-xt-javaGeneration-pure	4.9.0		612dbd9559717fe70cc7cda368abded645a7e664
 org.fitframework.plugin	fit-http-client-okhttp	3.5.0-M1		70574fbce7ac28ac9650449510ec83e10dd07fe3
 org.fitframework.plugin	fit-http-client-okhttp	3.5.0-M2		43ecde606af4b86dcfa7b8d488d0866727a3c271
@@ -2482,6 +2501,7 @@ org.webjars.npm	postcss-reduce-transforms	4.0.2		4cc40c36c89ba50f928c86500fbd650
 org.webjars.npm	postcss-reduce-transforms	5.1.0		9f79ba67f4678f0ced15b7baafcf7bd83d633149
 org.webjars.npm	radix-ui__react-use-escape-keydown	1.0.3		46aa67fdd8e851d6974550b2357f5f4d7ce2df1f
 org.webjars.npm	radix-ui__react-use-escape-keydown	1.1.0		165c363398547d43714b5cc11215b4c300f13356
+org.webjars.npm	radix-ui__react-use-escape-keydown	1.1.1		cd30230cde428dbf30e96936aad2f046123b89a7
 software.amazon.awssdk	support	2.0.0-preview-1		f6e69d57166f55f038dd215f5b7c9ffc5e3a3d9f
 software.amazon.awssdk	support	2.0.0-preview-10		9ce287f3f2fc5832a89df8829ac34bb42283225b
 software.amazon.awssdk	support	2.0.0-preview-11		e5b05d7feb501d4c8d8933d8498a0946105bb35a
@@ -3822,7 +3842,18 @@ software.amazon.awssdk	support	2.31.30		70ebfd862a324d0f16eedeee1554422e140c1fdf
 software.amazon.awssdk	support	2.31.31		25fd840a342971fb3d4f2c51928251e4aeeb37a3
 software.amazon.awssdk	support	2.31.32		82cad841f8a9f57c1db4e552d353f53ccffe0445
 software.amazon.awssdk	support	2.31.33		c98d6999d69bb236d32b85c921303953c6e0df42
+software.amazon.awssdk	support	2.31.34		6431aa8a05fb3e8ddf95ffed78d6619a6152a4b5
+software.amazon.awssdk	support	2.31.35		0f28ef2457825ca16c73b49e942b87f433fb8c68
+software.amazon.awssdk	support	2.31.36		372b22aa3dbaf2e8648bbb525f36ff13cfcb6f8e
+software.amazon.awssdk	support	2.31.37		2b608c6576a49a384db392703dbf92479674b000
+software.amazon.awssdk	support	2.31.38		58454c26ad9f034c1102956104ec8a34d6ce2617
+software.amazon.awssdk	support	2.31.39		b9a2eac8b86b8593e46e3ca7af16013149d2c0bd
 software.amazon.awssdk	support	2.31.4		59deb83bfd7591149eca201725c65bfb766fa9e8
+software.amazon.awssdk	support	2.31.40		705292dee04cedb82a50665e4bd9d1be0fb98c58
+software.amazon.awssdk	support	2.31.41		11daa34a3b8706fa6a87a345e3a17a4d2102a4d1
+software.amazon.awssdk	support	2.31.42		22c9f69d66c766cdc980b93231366d47b6e61124
+software.amazon.awssdk	support	2.31.43		9d3dcc8a37d53dcf1e65a0afda45d855743bfdc1
+software.amazon.awssdk	support	2.31.44		bf766851fdb7dd11e20d2a6057b9da8efba46704
 software.amazon.awssdk	support	2.31.5		6563628b91d1dc349d3d5c8b75b03aefcdb04fcd
 software.amazon.awssdk	support	2.31.6		d3f643fb9b244db742dd3b8560c35a3f961a6d95
 software.amazon.awssdk	support	2.31.7		9e100df31c9ad917f5935409913288f57305660a
@@ -3996,6 +4027,7 @@ software.amazon.awssdk	support	2.9.7		5d07ea79b646292c5f1014c86aedb1c447d77cd8
 software.amazon.awssdk	support	2.9.8		a616eb86a9710d6aecbe0cb3cc80d4c454ab186a
 software.amazon.awssdk	support	2.9.9		a89fedc0b8d28a95c4c02f8be9c833c80703590b
 software.visionary.archive	api	2025.02.27		N/A
+software.visionary.archive	api	2025.02.27	software.visionary.archive	259443211f39759e181d767f56fe4289eec18300
 top.qinbaowei	httptask	3.0		N/A
 top.qinbaowei	httptask	3.1		N/A
 uk.ac.starlink	jarrow	1.0		084577fec47f06988a6e69af7e46559936856e89

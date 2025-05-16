@@ -1005,6 +1005,8 @@ io.ktor	ktor-server-test-host-macosx64	3.1.1		6b11174b9242836767fcf026fb2e844799
 io.ktor	ktor-server-test-host-macosx64	3.1.1	metadata	cbfe3717b3c56791636d75a5a81549a26cb174b4
 io.ktor	ktor-server-test-host-macosx64	3.1.2		decf0ed0ad1dbeb447ce30b43061671b61c94d14
 io.ktor	ktor-server-test-host-macosx64	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-server-test-host-macosx64	3.1.3		cd1467628a3a1c0d88b919d3644b67d40b142e45
+io.ktor	ktor-server-test-host-macosx64	3.1.3	metadata	e3c503d3a5d998f17372e5468f16515ad9c38535
 io.openliberty.features	com.ibm.websphere.appserver.javax.servlet-4.0	18.0.0.2		N/A
 io.openliberty.features	com.ibm.websphere.appserver.javax.servlet-4.0	18.0.0.3		N/A
 io.openliberty.features	com.ibm.websphere.appserver.javax.servlet-4.0	18.0.0.4		N/A
@@ -1186,7 +1188,11 @@ io.quarkus	quarkus-spring-web-resteasy-classic-parent	3.8.6		N/A
 io.quarkus	quarkus-spring-web-resteasy-classic-parent	3.8.6.1		N/A
 io.spinnaker.clouddriver	clouddriver-tencentcloud	2025.0-0		dbd822fc9bf6490b5d54f05fc3595dfffb8acec6
 io.spinnaker.clouddriver	clouddriver-tencentcloud	2025.0-1		c182cc8b48c681a41b119af70dd5e8b3a943a992
+io.spinnaker.clouddriver	clouddriver-tencentcloud	2025.0-2		1c501866d3506fd552e126c962a7d62b6023297c
+io.spinnaker.clouddriver	clouddriver-tencentcloud	2025.0-3		9fcf0d3a7760ec38bf63c14c18e55278e57dd5df
+io.spinnaker.clouddriver	clouddriver-tencentcloud	2025.0-4		d609d40d6a8650421b6a79157113aa0ae922be9a
 io.spinnaker.clouddriver	clouddriver-tencentcloud	2025.0.0		d3f996910e1930479adae3198b4df26ea321cb94
+io.spinnaker.clouddriver	clouddriver-tencentcloud	2025.0.1		38d7ca6cbcd4931c7a4dc97ba813d811b329142b
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.74.0		27e64186556f0d3459e42dfdb3b4ed2e22a43c2d
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.74.2		ba021d6b16ec34c6e99a336829bd2e3c0d01ca04
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.74.3		51885adae368a8717282b0837c8cb982d9db5400
@@ -1267,14 +1273,19 @@ io.spinnaker.clouddriver	clouddriver-tencentcloud	5.91.3		10312937afa11aed224ca0
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.91.4		62c7cf837675f639683499eb1454c1ea901ad5fb
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.91.5		7311710fe55a8a7a1291976be36266011a4a1d9b
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.91.6		ab4e01f3ddcfeeaf77277ea34291d945b335aeed
+io.spinnaker.clouddriver	clouddriver-tencentcloud	5.91.7		6cf6486479aef7701ee8ff47f7112d56013bfad0
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.92.0		66f3e44145458fbb13cd9cf2bcca230b44e8c22e
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.93.0		0653faccc11366880007ad9cb2cac805025dc609
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.94.0		ca7666d58e5fb3ebd3537875c4cf414b7cd194a2
 io.spinnaker.clouddriver	clouddriver-tencentcloud	5.95.0		fcb21a8defa553427912f48ef0d009607aafa6d7
+io.spinnaker.clouddriver	clouddriver-tencentcloud	main-10		c80682c1c9aa4a901a8b4c00b63344bfcf6193ea
+io.spinnaker.clouddriver	clouddriver-tencentcloud	main-11		330329ed6223e2d79e91a3bd0a1e223e54941629
+io.spinnaker.clouddriver	clouddriver-tencentcloud	main-12		9e9ea8ca92ed2d3e79c3736db2fbbdcbb543136f
 io.spinnaker.clouddriver	clouddriver-tencentcloud	main-5		479369c8d9be0d3c4aae4e86df4f51979469826d
 io.spinnaker.clouddriver	clouddriver-tencentcloud	main-6		06cb247fe3cfea9b4d25a54a06700c59e439e35b
 io.spinnaker.clouddriver	clouddriver-tencentcloud	main-7		499205995323edf0e81d8ca97c4257e9c5701593
 io.spinnaker.clouddriver	clouddriver-tencentcloud	main-8		a332eab3e9d197ad7f743296a3dd5aa06b300cdc
+io.spinnaker.clouddriver	clouddriver-tencentcloud	main-9		360ba8bd55884a98d9c79e885bbc148a7467d359
 io.syndesis	salesforce-on-create-connector	0.5.2		78ec89d50dacfae736f6b95bf0aeb5efc511c537
 io.syndesis	salesforce-on-create-connector	0.5.3		53378393ce5a24b12674eaef08546493f15e7e37
 io.syndesis	salesforce-on-create-connector	0.5.4		f0b9cb90287291e81bf6912969ea02320813e0a2
@@ -1551,6 +1562,19 @@ org.eclipse.dirigible	dirigible-components-core-project	11.41.1		1a0f8061d98d6f3
 org.eclipse.dirigible	dirigible-components-core-project	11.42.0		071b39099e67eeafbda921d0ff33b2611ed66dd2
 org.eclipse.dirigible	dirigible-components-core-project	11.43.0		2052eeee5f33b7fe40c0520e539e79679dedb96f
 org.eclipse.dirigible	dirigible-components-core-project	11.44.0		b3ca84e2e80d6f1036a765ee95e3ef9d15346a3f
+org.eclipse.dirigible	dirigible-components-core-project	11.45.0		2f6f70f36f678a89fd74b33aca6f80b5f51fb648
+org.eclipse.dirigible	dirigible-components-core-project	11.45.1		7fa6043268862e4fb56cfa1de649ef77ba2339fb
+org.eclipse.dirigible	dirigible-components-core-project	11.45.10		09a66f4b45e6ab43dcafb1e6809d6d9388ed8681
+org.eclipse.dirigible	dirigible-components-core-project	11.45.11		c3dc37c4f66fec0e4b3503bbe8c360bf56b6e270
+org.eclipse.dirigible	dirigible-components-core-project	11.45.12		47476a96ac507a7d2b45bb2de6e4d2fb996a172d
+org.eclipse.dirigible	dirigible-components-core-project	11.45.13		95aaf1cb92a10fedf0d4beca91edf466126e1924
+org.eclipse.dirigible	dirigible-components-core-project	11.45.3		214d2fef092d1cfd3bf85fe640e7521e6abce47f
+org.eclipse.dirigible	dirigible-components-core-project	11.45.4		447207c6654997d5fc2322b9e51245a1795530ea
+org.eclipse.dirigible	dirigible-components-core-project	11.45.5		54ab2f204b57b7f44bf65854c0a0632bc8f667f6
+org.eclipse.dirigible	dirigible-components-core-project	11.45.6		f557a0f87ada1da4530180d7a21c840da22376e3
+org.eclipse.dirigible	dirigible-components-core-project	11.45.7		4caae899f35d7cf2955c2dd344d9ce278996fd48
+org.eclipse.dirigible	dirigible-components-core-project	11.45.8		6fb9d5db5013943ac500bb12d7e8787d8d73c062
+org.eclipse.dirigible	dirigible-components-core-project	11.45.9		b1b78ba58882ecf996cd71af754589dcb9ea6bd4
 org.eclipse.dirigible	dirigible-components-core-project	11.5.0		f389ef32b3dd178e71485dc5ea6cac530c83846f
 org.eclipse.dirigible	dirigible-components-core-project	11.6.0		ca3fae9f953e11c9846dbd013b19cb333f9e4e32
 org.eclipse.dirigible	dirigible-components-core-project	11.6.1		be9fe25431840e4f201f83b6a1a049c3ca16a2ae
@@ -1570,6 +1594,9 @@ org.eclipse.dirigible	dirigible-components-core-project	9.2.1		5bb7e410b9e9da0dd
 org.eclipse.dirigible	dirigible-components-core-project	9.2.2		ba4c32c5e57cb7994220f8f9683c8feb04c1c1f9
 org.ic4j	ic4j-websocket	0.6.19.6		aafeaf9ebac74be3a74933c4b71d7ca8ddea8dfd
 org.ic4j	ic4j-websocket	0.7.0		2790977ed825f1db0f09a1cca51ea19397a0587a
+org.jboss.man.jboss-managed	2.0.0.Beta15	lib		61b71c7e36071d88dbaaddc18b45bc23f025e7d8
+org.jboss.man.jboss-managed	2.0.0.Beta15	lib		82b4fa4c6eb72a64a993be62098e8dc51ace6b73
+org.jboss.man.jboss-managed	2.0.0.Beta15	lib		fa9b71310f3e720f6ce92338db4453b50bec26e3
 org.jclouds.cli	jclouds-cli-pom	1.5.0		N/A
 org.jclouds.cli	jclouds-cli-pom	1.5.0-beta.10		N/A
 org.jclouds.cli	jclouds-cli-pom	1.5.0-beta.6		N/A

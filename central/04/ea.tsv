@@ -71,6 +71,7 @@ cat.inspiracio	orange-servlet	4.0.2		6518bf0a1669763307f7b7dcafc254ea2c11d7c5
 cat.inspiracio	orange-servlet	4.0.3		18afaecc87bf328c8273d1d0fffe122332351d02
 cat.inspiracio	orange-servlet	4.0.4		fc21b1d151f2e4ff9c84b5adcdf5da4e370b112f
 cat.inspiracio	orange-servlet	5.0.0		1b5f41e763889bcc535a61491c63af0383a7c68a
+cat.inspiracio	orange-servlet	6.0.0		c69058ba41045a26fe157d10c1fa22be628fd9c1
 ch.epfl.scala	scripted-framework	0.13.17-sourcedeps		a5b1f26ec8414c4ad06e434a11945fe41e3a67ef
 cn.atimer	sdk	1.1.1		7140d22ddf12a3fac7673c073bd96dc0c295fcac
 cn.atimer	sdk	1.1.2		6543ea73131c3f8187fbbecee4dd248db26e3c38
@@ -779,6 +780,7 @@ com.walmartlabs.concord.server.plugins	kafka-event-sink	2.23.0		c6e7e621a204a757
 com.walmartlabs.concord.server.plugins	kafka-event-sink	2.24.0		041ddc702dec205c2c9e9305497945bf4561e149
 com.walmartlabs.concord.server.plugins	kafka-event-sink	2.25.0		58362b158f80902b4efd63d2c0f8e6ef5559dcb0
 com.walmartlabs.concord.server.plugins	kafka-event-sink	2.25.1		f4b724034ddc1bb90fca6c4dc323afdc706bd25e
+com.walmartlabs.concord.server.plugins	kafka-event-sink	2.26.0		4eb767ae819e26aa46568b5b07e837311fdda011
 com.walmartlabs.concord.server.plugins	kafka-event-sink	2.3.0		1e39995022e8c47dc054158cb9e9fd59d464d4ed
 com.walmartlabs.concord.server.plugins	kafka-event-sink	2.4.0		baa6d8f4450310d974cc16111c0cde0e076b2a45
 com.walmartlabs.concord.server.plugins	kafka-event-sink	2.5.0		61c0ea7166ee8d0a2ddafe96c59c28e30abec5da
@@ -1091,6 +1093,7 @@ io.deephaven	deephaven-engine-rowset-test-utils	0.37.5		e38d30f9ff0d89f501668b03
 io.deephaven	deephaven-engine-rowset-test-utils	0.37.6		3f1dc40a66540902dee42ceca82e9308b2a517af
 io.deephaven	deephaven-engine-rowset-test-utils	0.38.0		40b2e49587e432c64f462d02df65dacd0bf782ef
 io.deephaven	deephaven-engine-rowset-test-utils	0.39.0		40002c23b2a76331cd6af892c32961cd3adc5039
+io.deephaven	deephaven-engine-rowset-test-utils	0.39.1		cdd258f58c14adcc4b0ae79486093f41115b0390
 io.github.floatingpoint-mc	floatobfuscator-api	2.0		31ffeef3ed1eb8c61823ef86edf254a06cefdd03
 io.github.floatingpoint-mc	floatobfuscator-api	2.1		7d750dd9bf8d9a748ed8928880c7f61bcdb64309
 io.github.ljwlgl	common-util	1.0.1		1df5b97dafb60a8cbc5f6d32d54a34541fe26371
@@ -1413,6 +1416,7 @@ org.jboss.ws.cxf	jbossws-cxf-server	5.4.11.Final		ee25dd66d817c14988bc0da59e50d3
 org.jboss.ws.cxf	jbossws-cxf-server	5.4.12.Final		5766008d792dd494d2e15c4849975411fae9d81d
 org.jboss.ws.cxf	jbossws-cxf-server	5.4.13.Final		6c3ce8a864a7c64ba18581723db65af112335424
 org.jboss.ws.cxf	jbossws-cxf-server	5.4.14.Final		7742e25d97f0686eb7796fef605907a2d5111e4a
+org.jboss.ws.cxf	jbossws-cxf-server	5.4.15.Final		e7442de8f94095407a2b0636c03afbb886003463
 org.jboss.ws.cxf	jbossws-cxf-server	5.4.2.Final		793c073519a49d3cfca6068dda161cd71513be27
 org.jboss.ws.cxf	jbossws-cxf-server	5.4.3.Final		d6b540cdde8c041cd901b450ba6286c8fa510561
 org.jboss.ws.cxf	jbossws-cxf-server	5.4.4.Final		d9de8ca55f35c5591ef577071a58e4a26bf67e67
@@ -1430,6 +1434,8 @@ org.jboss.ws.cxf	jbossws-cxf-server	7.1.0.Final		990b4beee3508cc20d1416d51f9e548
 org.jboss.ws.cxf	jbossws-cxf-server	7.2.0.Final		e6c763ffe2a21bbffe2a41d3f5e335cd7f1e78e2
 org.jboss.ws.cxf	jbossws-cxf-server	7.3.0.Final		08e33b92731bb4e52169e85d82b417d00e1b5a6a
 org.jboss.ws.cxf	jbossws-cxf-server	7.3.1.Final		d4b23cf972d7f6c39d314c21a7220334de6a5763
+org.jboss.ws.cxf	jbossws-cxf-server	7.3.2.Final		dac3bfcf2559e4f7cf4fbaf699139fc97de4cd8d
+org.jboss.ws.cxf	jbossws-cxf-server	7.3.3.Final		550a43f7b96b6ce43130a0dd93258dee68a1a58c
 org.jetbrains.kotlinx	kotlinx-io-okio-linuxx64	0.7.0		N/A
 org.kinotic	vertx-stomp-lite	3.9.14		fdce4767001f8a8b606b30f4f2e336a519b91979
 org.kinotic	vertx-stomp-lite	3.9.15		6831780e744268d0983b195b0b49bf0065c85183
@@ -1782,6 +1788,7 @@ org.seleniumhq.selenium	selenium-manager	4.28.1		62127a5dc600ccb0561c65bc650c5e6
 org.seleniumhq.selenium	selenium-manager	4.29.0		1e1800e980690f6642a3b9f705302f03fd070374
 org.seleniumhq.selenium	selenium-manager	4.30.0		52bd5aac31ce8da79780f0740cf3dc0a64b224fb
 org.seleniumhq.selenium	selenium-manager	4.31.0		54968348b9a52daa380908a08e0d53962d8aefca
+org.seleniumhq.selenium	selenium-manager	4.32.0		ac65a1ec9d4e6a244f420a52571c2ab9188284db
 org.seleniumhq.selenium	selenium-manager	4.6.0		d18ae15e5b0dc1e5aa7df6d276fec0fd7251a756
 org.seleniumhq.selenium	selenium-manager	4.7.0		5497955cbab409d77b9ef93e9ba824f811a6a4ed
 org.seleniumhq.selenium	selenium-manager	4.7.1		5497955cbab409d77b9ef93e9ba824f811a6a4ed
@@ -1814,6 +1821,7 @@ org.webjars.npm	tag2link	2024.7.8		1b0845bf68d9bb6a61afccbe2f372b5764dcc95d
 org.webjars.npm	tag2link	2024.8.12		2f7a4a26dd650f7104b4aad3ea55696dcddc25aa
 org.webjars.npm	tag2link	2024.8.21		e38f4d00a8358de03266662f207219de9eaf2cc9
 org.webjars.npm	tag2link	2025.3.21		3f17a294c2022e61232f07b18b00fe57c7ad0c7b
+org.webjars.npm	types__markdown-escape	1.1.3		3b5886061408a866857aabec0b48d55071ca7628
 org.wicketstuff	jqplot4java	10.0.0		09d3e89f7f2ced6859ad6670939d1b854259a536
 org.wicketstuff	jqplot4java	10.0.0-M1		262a9cac05949ab7165fd77498f39c2058c2aa4f
 org.wicketstuff	jqplot4java	10.0.0-M2		bbc5126bcbd317cb4ca6a385b2b0df90688f83fd

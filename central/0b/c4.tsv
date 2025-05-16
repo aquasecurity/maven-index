@@ -168,6 +168,11 @@ com.hubspot	basepom	61.5		N/A
 com.hubspot	basepom	61.6		N/A
 com.hubspot	basepom	61.7		N/A
 com.hubspot	basepom	61.8		N/A
+com.kailuowang	sbt-catalysts_2.12_1.0	1.2.5		7269ee936e7a045b3162cd00cf3dd16be003d2f1
+com.kailuowang	sbt-catalysts_2.12_1.0	1.3.0		c62a2836489ba99757fc69a5c8cdbff5ecefc610
+com.kailuowang	sbt-catalysts_2.12_1.0	1.3.1		88a66257b5e4f431aae1833f94cca73afe53d939
+com.kailuowang	sbt-catalysts_2.12_1.0	1.3.2		d65fea359f6a45fc57400ac37885e93d1900c96d
+com.kailuowang	sbt-catalysts_2.12_1.0	1.3.3		abc92124e6c9acdc1f7d2ddc235b3452805adbc2
 com.kraftics	liberium-core	1.1.0		b036d4ceebeccd3a80495142c372bfd6cf9742a1
 com.kraftics	liberium-core	1.1.1		223cf3b12e5e626947c5a05513fddeef7edebe0a
 com.mastfrog	visual-library-jung	2.2		N/A
@@ -446,6 +451,7 @@ de.halfbit	csv	0.13		e7a364cc213861c1c5ac0f69f6afdd5735c67954
 de.halfbit	csv	0.14		3c1e130a6d007e3ba9e7c1d26be8782f7ce1fdf7
 de.halfbit	csv	0.15		bb5d400844ec02ba8d1a9f794307219dd904145e
 de.halfbit	csv	0.16		75b01227a668c4e7dbe45ffdc3ea90d0d65ddcca
+de.halfbit	csv	0.17		f20306ca5a1f31f60db11a40239ebea31addaf0d
 de.halfbit	csv	0.2		ab2506fbfc4ee0fd6e666d5f0312584aecd4ef74
 de.halfbit	csv	0.3		f665e92913564bc86c656bbb55cd2caf5b86474a
 de.halfbit	csv	0.4		f665e92913564bc86c656bbb55cd2caf5b86474a
@@ -514,6 +520,7 @@ io.github.almighty-satan.jaskl	jaskl-mongodb	1.4.1		53a108216757be0441347a5e3524
 io.github.almighty-satan.jaskl	jaskl-mongodb	1.5.0		0df66491dde627112768b0a1b6037abe71ef6d15
 io.github.almighty-satan.jaskl	jaskl-mongodb	1.6.0		cb2abf712b12173b64108ba3ce7f72de22f77a1e
 io.github.almighty-satan.jaskl	jaskl-mongodb	1.6.1		2f3b2ab25ee6b77902a3cbad9d15bed48f9ba330
+io.github.almighty-satan.jaskl	jaskl-mongodb	1.6.2		9833fc48b9f4cc8c38158783794de4c7292afc7b
 io.github.evgeneprytula	flex-update	0.1		N/A
 io.github.evgeneprytula	flex-update	0.1.2		N/A
 io.github.evgeneprytula	flex-update	0.2.0		N/A
@@ -615,6 +622,7 @@ io.helidon.integrations.micronaut	helidon-integrations-micronaut-data	4.1.6		e72
 io.helidon.integrations.micronaut	helidon-integrations-micronaut-data	4.1.7		f8b0ba4efd31221f16e28160c860a5f2ed229a40
 io.helidon.integrations.micronaut	helidon-integrations-micronaut-data	4.2.0		e4707bc1e99b2ecdde163c620ad4e0ddf3c9e799
 io.helidon.integrations.micronaut	helidon-integrations-micronaut-data	4.2.1		97dcabc9d3bb5ae07530954940026f6b1a0c4149
+io.helidon.integrations.micronaut	helidon-integrations-micronaut-data	4.2.2		e2a858b0e5e41772c0cd7d1f633c1c09e67961eb
 io.kaizen-solutions	trace4cats-zio-extras-fs2-kafka_2.12	6.1.0		81a71db764d6771ec535df35623bd6318e9260d0
 io.kaizen-solutions	trace4cats-zio-extras-fs2-kafka_2.12	6.2.0		6f030b7bae2315260c729d669f6655035ec35c2c
 io.kaizen-solutions	trace4cats-zio-extras-fs2-kafka_2.12	6.2.1		87fb2dba959c6361de5f0a61baf64c15e622d0cc
@@ -625,6 +633,7 @@ io.kaizen-solutions	trace4cats-zio-extras-fs2-kafka_2.12	7.0.1		d058406894df1330
 io.kroxylicious	kroxylicious-krpc-plugin	0.1.0		7dd2a0b8494bc19060765f8a006396f73c623abc
 io.kroxylicious	kroxylicious-krpc-plugin	0.10.0		d1bc1325637887818ec8e47c520d5ffa4261c41d
 io.kroxylicious	kroxylicious-krpc-plugin	0.11.0		a66d9b2fd3c6395fd3d624e561d29db5b49c2135
+io.kroxylicious	kroxylicious-krpc-plugin	0.12.0		bfff832813bdb3a035bdd0829aee8973781ad3b6
 io.kroxylicious	kroxylicious-krpc-plugin	0.2.0		a42bb647227ae434bd9b24d1e39257c16a1591ac
 io.kroxylicious	kroxylicious-krpc-plugin	0.3.0		5a1557498d9028c8a7d5f98905289f0ccb6f6f15
 io.kroxylicious	kroxylicious-krpc-plugin	0.4.0		028c65a5f1cfc8e2350a1a13aeb62891704e27ed
@@ -1223,6 +1232,7 @@ org.apereo.cas	cas-server-support-jpa-util	7.2.0-RC6		42d49548ca1531055226540416
 org.apereo.cas	cas-server-support-jpa-util	7.2.0-RC6	resources	0932d775fbf02f137f9e57acd8531ef7b79bd0db
 org.apereo.cas	cas-server-support-jpa-util	7.2.1		cc8b467fad0c1adf43f66d88dd3f7982037ab0c2
 org.apereo.cas	cas-server-support-jpa-util	7.2.1	resources	70550f7a0338752f0c6306761ec6fed7bfd31dae
+org.apereo.cas	cas-server-support-jpa-util	7.2.2		7da1ecb36a16ad5dbd4bb271c41f754adc82f773
 org.apereo.cas	cas-server-support-jpa-util	7.3.0-RC1		35191879c47801e40f099573cf59413c4438c99a
 org.apereo.cas	cas-server-support-jpa-util	7.3.0-RC1	resources	e6ad30315a7c0015e38ac797ce462530b0354621
 org.apereo.cas	cas-server-support-jpa-util	v6.4.0-RC5		f8a911a6f742a9c65e3325149a295c1822e20a73
@@ -2141,6 +2151,7 @@ systems.manifold	manifold-darkj	2025.1.10		9ca4dd01c464a69d8fd82fe2a1abfc07cca83
 systems.manifold	manifold-darkj	2025.1.11		44aaa57267bb8d0005c5bacd320c3bb5d0b91a52
 systems.manifold	manifold-darkj	2025.1.12		38cf5a96b817b774348fbdb87639f37378ac61dc
 systems.manifold	manifold-darkj	2025.1.13		748e64690635b2622ce37267f627c5c5b89d786b
+systems.manifold	manifold-darkj	2025.1.14		362f8aef5bdc140279e1c59f2bf26f4e354f709e
 systems.manifold	manifold-darkj	2025.1.2		caccceaae451b99d12f95d8a1f917f9826d12e09
 systems.manifold	manifold-darkj	2025.1.3		fb87034f02e15a146d90fd2f1ebabbcd59942f08
 systems.manifold	manifold-darkj	2025.1.4		7301692a4fc459de99256efc98b9d8e1dee1466c

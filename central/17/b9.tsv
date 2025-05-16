@@ -218,6 +218,9 @@ com.github.giiita	scaladia-http_2.12	0.0.5		cf6f0f28e8b95c6dd890d0b95788cedd9271
 com.github.giiita	scaladia-http_2.12	0.0.6		a9f9cde1b62f92bf96c200449209c36af3c75f98
 com.github.markash	components-i18n	0.3.1		3cf617c59882ec70230426536b15f3c144ab5df0
 com.github.markash	components-i18n	0.3.2		fe89013fe125988ce85b703fbdb9d37ae9928a65
+com.github.oheger.sbt	sbt-spifly_2.12_1.0	0.2.0		6b115171e3e5fd02419c8154e33615db952ac922
+com.github.oheger.sbt	sbt-spifly_2.12_1.0	0.3.0		f2d849cf562f826e3961c87c3963ca96b6f323d0
+com.github.oheger.sbt	sbt-spifly_2.12_1.0	0.4.0		58eff216f9f5a282ddf603778d68066c22a2bbf2
 com.github.rebue.common-pom	common-import	1.0.5		N/A
 com.github.rebue.common-pom	common-import	1.0.6		N/A
 com.github.rebue.common-pom	common-import	1.0.7		N/A
@@ -1800,6 +1803,7 @@ org.apache.beam	beam-it-elasticsearch	2.61.0		6b5616811cdd9b47c757aa735a4ae9f936
 org.apache.beam	beam-it-elasticsearch	2.62.0		0ab83e1bd7fe38b11f9a7b4f8a40127145028972
 org.apache.beam	beam-it-elasticsearch	2.63.0		f35317e30b4623c96be8c3c80cceb8ab5436ab77
 org.apache.beam	beam-it-elasticsearch	2.64.0		7906fed5b3aafddd7c24cde5a86f021176a161f3
+org.apache.beam	beam-it-elasticsearch	2.65.0		a7ef1f7dac1d7c8b52e4c6f97f25dd02b450152b
 org.apache.camel.karaf	camel-aws2-s3	4.10.3		1ed7af2b46779102b6e56026267ad5781fb63cb7
 org.apache.camel.karaf	camel-aws2-s3	4.7.0		908b8ed10e8d986b321d05466e41564b9e3e0642
 org.apache.camel.karaf	camel-aws2-s3	4.8.1		f06a471debfe52a9000bdd664aa40d60605a584e
@@ -1869,6 +1873,7 @@ org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.2.1		b7b99d52de9751afc0d84b57db
 org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.2.2		1ddc5774b61791c5c09676c361e0b2a4483a87ca
 org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.2.3		04a0d7e0b4496c5aa1f0cc9f33c66dfbd236df50
 org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.20.0		e3bfc5413ea2d571cc4219ea2248d4ac0dae545b
+org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.20.1		700b8ab047ddaff70647c5e196e64081cd35f2cc
 org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.22.0		de7d155fea243c256a2fc2e1fb879cc268c9b811
 org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.4.0		24e46f564d02b025a9d49307b6791bcd07c20a89
 org.apache.camel.quarkus	camel-quarkus-aws2-s3	3.5.0		78bc382c98ae09b73955f21fb29989f4e129b586
@@ -2047,6 +2052,7 @@ org.eclipse.pass	pass-core-policy-service	1.9.0		f03fd0b74b33de86d7f1a93290d8e99
 org.eclipse.pass	pass-core-policy-service	1.9.1		34d8d530a6a9003d4b7aec24f2ba1b665ff1bf7c
 org.eclipse.pass	pass-core-policy-service	2.0.0		ce6198cacd0777cc0b7126cb2a08ff893830ea76
 org.eclipse.pass	pass-core-policy-service	2.1.0		8c732f895233cc46b693a6c35a63b52696460cc7
+org.eclipse.pass	pass-core-policy-service	2.1.1		a1374b24571ceb9bc90782abae35fb0f7a963cd5
 org.eclipse.platform	org.eclipse.equinox.p2.ui	2.4.100		75274fbef432a61fc89048c52f85893d948efc7a
 org.eclipse.platform	org.eclipse.equinox.p2.ui	2.5.0		d4fa39929d70ccfeadc1d3e92cf678a4bf6ebdb2
 org.eclipse.platform	org.eclipse.equinox.p2.ui	2.5.1		07a3a1d51cbeaa0ac8be2a64660d1d09410e1314
@@ -2200,5 +2206,9 @@ tz.co.asoft	nation-countries-tvosarm64	3.0.14		N/A
 tz.co.asoft	nation-countries-tvosarm64	3.0.14	metadata	6deeacaf53424c6ccc955ff5d6bc74f84b2f466a
 tz.co.asoft	nation-countries-tvosarm64	3.0.15		N/A
 tz.co.asoft	nation-countries-tvosarm64	3.0.15	metadata	62abf48c9560c752abae185208a80f0933373a4b
+tz.co.asoft	nation-countries-tvosarm64	3.1.0	metadata	a3d5eb0d42218f69aa71359ac62acfb5f6551f22
+tz.co.asoft	nation-countries-tvosarm64	3.1.1	metadata	015ed552f116df8fbbbb49a0961dcd9bf0ca00d8
+tz.co.asoft	nation-countries-tvosarm64	3.1.11	metadata	4e301f6ed9f4a359e4b52d3e7d900e7092317c78
+tz.co.asoft	nation-countries-tvosarm64	3.1.12	metadata	7ae418defe12d59f755d04048d56efee80c2a5d5
 ws.unfiltered	unfiltered-jetty_2.13.0-RC2	0.10.0-M4		e66888ed84f5b50aba1f474380325f5fa402c05a
 xin.nic	sdk.registrar	1.0.5		5faaaeb74ae52c9e6312366e79e9674e4c5318b6

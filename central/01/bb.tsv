@@ -208,6 +208,7 @@ com.gitee.ts_ohos	exoplayer-playbacktests	1.0.0		N/A
 com.github.alexarchambault.play22sbt	console_2.10	2.2.6		a07a3076015664b596e58453bfb86b0c5f7e29ab
 com.github.fanzezhen	fun-framework-core-web	3.4.3.3		896a7007974c7a667aded0d390cd28acfbead6cf
 com.github.fanzezhen	fun-framework-core-web	3.4.3.4		cae8dd35180e322f93ad2f69e16df44fbdc32488
+com.github.fanzezhen	fun-framework-core-web	3.4.3.5		f3a9fe9ddace04dcd91006e694305b641cfb9740
 com.github.fmjsjx	libnetty-bom	1.0.1.Final		N/A
 com.github.fmjsjx	libnetty-bom	1.1.0.Final		N/A
 com.github.fmjsjx	libnetty-bom	1.1.1.Final		N/A
@@ -909,6 +910,7 @@ org.apache.beam	beam-sdks-java-harness	2.61.0		18004f0e5a5b75538e44e894a9caaa9d2
 org.apache.beam	beam-sdks-java-harness	2.62.0		9a65d1f9a5885449dcefb19a4eba3b9374751b67
 org.apache.beam	beam-sdks-java-harness	2.63.0		fb3e9b01246d151c4dd8fdc8a80ccc3c0b1e1d50
 org.apache.beam	beam-sdks-java-harness	2.64.0		e06598e41c10c3f7929eadbcf7bb91777ed1d79b
+org.apache.beam	beam-sdks-java-harness	2.65.0		be158abccd28cb4c0c9dadfbbef45612304586e6
 org.apache.beam	beam-sdks-java-harness	2.7.0		701042de2f833e89f3b90d0c1dde420e84fa258d
 org.apache.beam	beam-sdks-java-harness	2.8.0		2d2be87b6a131fcb0c5562423dd0a496ca3e532c
 org.apache.beam	beam-sdks-java-harness	2.9.0		0b51da506b85d60ce08038a5d5bc8e2ec2decd0b
@@ -975,6 +977,7 @@ org.entur.ror.helpers	storage-gcp-gcs	4.8		207ab0d5278c4bd16c05a1522cbfb70dc298e
 org.entur.ror.helpers	storage-gcp-gcs	4.9		5dc459d668d78d7863d4975deb124bad6eee0bbf
 org.entur.ror.helpers	storage-gcp-gcs	5.0		3399e3a7f093db58aa524d4ae85807a24cffed07
 org.entur.ror.helpers	storage-gcp-gcs	5.1		27366506f240183074a7151e5d8ad935c98d440d
+org.entur.ror.helpers	storage-gcp-gcs	5.10		b8d0d031d02ca4751c2c3a17df6a7626d3d60d88
 org.entur.ror.helpers	storage-gcp-gcs	5.2		3a710ebdef2b87718fce9a1e7d8b6fd33d87acc3
 org.entur.ror.helpers	storage-gcp-gcs	5.3		0328ecee7aeb410a330009761ee80dd47800ecb9
 org.entur.ror.helpers	storage-gcp-gcs	5.4		58fa7ab243b19ce61106957ab0ae24e7d2066c37
@@ -1189,10 +1192,17 @@ org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.8.0	
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.80.0		53cf668fa165d18e167046d426b9b1ea31f42c37
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.81.0		e5bf1b86759446db95f7c765f71c0e598c25799b
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.82.0		9b335f024096983b1d682c5100f6e5e7b18fe1da
+org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.82.1		db4b07ebbbba0967fdf82ffca5f249aa0a791a2e
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.83.0		c5184db21db397064be799152245899597261456
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.83.1		993ae5c9e2aa94106901f0b52b91134499da0c03
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.83.2		24ac81bca2a36a2d2e39434511941b128f1a2f1c
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.83.3		b2b395c979ab2e29383cb0bc14b16719901575eb
+org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.84.0		c70a327b481ed26ab23951e8cab6a68155cd1bb3
+org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.84.1		b0089f8dd05edee2fdb36a0393c5406b1e6d685e
+org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.85.0		9db9804075875033251bda5e4f7f26cadbfc4c30
+org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.85.1		31382a2871ee0ae9cb3aa0f407acf751e5ae018a
+org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.85.2		55d10137c28202e054463565ea90d0fea33c8c3c
+org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.85.3		2f6fe4a8878922f5b809fea00f96af73a76f2b9a
 org.finos.legend.engine	legend-engine-xt-elasticsearch-executionPlan-test	4.9.0		b5e7f1f6f14cf9c885f5cc4b63cfa14e3486c5f4
 org.hibernate	hibernate	3.0		93c7f08f930c3bccc693266e645b9e1426679857
 org.hibernate	hibernate	3.0.1		14d0a63b7799b2d310c75d1fc22ec69d12c7e73c
@@ -3932,6 +3942,7 @@ ru.surfstudio.android	easyadapter-pagination	7.0.1		N/A
 tools.jackson.jr	jackson-jr-all	3.0.0-rc1		d4a739f111542e82d33450564cece87a27f7236f
 tools.jackson.jr	jackson-jr-all	3.0.0-rc2		a73003157605af76c01cb3a67d42aa673c83cf97
 tools.jackson.jr	jackson-jr-all	3.0.0-rc3		6a16700764b9453f9fe5421d4ca1cb63c9ac9b6f
+tools.jackson.jr	jackson-jr-all	3.0.0-rc4		436962e4fe1fe75037f725cd7d32b7bd8680c6ba
 top.hendrixshen.magiclib	magiclib-minecraft-api-1.19.4-forge	0.6.52-beta		7077b00fa913b1dbc1cb624c23c9e8cad7bd0de3
 top.hendrixshen.magiclib	magiclib-minecraft-api-1.19.4-forge	0.6.53-beta		64efb34a645125d878ddbd406fd681e09737c8e6
 top.hendrixshen.magiclib	magiclib-minecraft-api-1.19.4-forge	0.6.57-beta		12b53b504fc7b6457233ff75581c31e15c43e981

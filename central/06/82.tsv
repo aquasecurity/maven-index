@@ -430,6 +430,8 @@ com.google.cloud	google-cloud-bigqueryreservation	2.6.0		9940b2a8efe0942f4eb2028
 com.google.cloud	google-cloud-bigqueryreservation	2.60.0		3ea15ac3612852e901c3fc5f123e9e78fa89164e
 com.google.cloud	google-cloud-bigqueryreservation	2.61.0		6704ce87a223029d8500be881c5f879a5e982e80
 com.google.cloud	google-cloud-bigqueryreservation	2.62.0		16e3dbc39679ff0913464888a54f836b90d21220
+com.google.cloud	google-cloud-bigqueryreservation	2.63.0		c4e25cb1a3ac4d9d68298e4ac11d6f968ff0a692
+com.google.cloud	google-cloud-bigqueryreservation	2.64.0		86bc3b0201640aa19d5ad1d8684f212dd3395bc4
 com.google.cloud	google-cloud-bigqueryreservation	2.7.0		6d5077b79747124b98084ab53714d405bea2cdd0
 com.google.cloud	google-cloud-bigqueryreservation	2.8.0		3a265e0f9c6c81b34696f483d8cc61707fe271c4
 com.google.cloud	google-cloud-bigqueryreservation	2.9.0		342dd89df69ec921da4d9dcd478fa32473190398
@@ -1048,6 +1050,7 @@ org.apache.skywalking	apm-jackson-2.x-plugin	9.3.0		9460cb020155ba3b4d015b27844d
 org.apache.skywalking	apm-jackson-2.x-plugin	9.4.0		ea6209f21389d50e90743e447ec3ea8b402a03c5
 org.apache.stratos	org.apache.stratos.manager.dashboard.stub	3.0.0-incubating		d52995c230c751f131a94bffa351c14a11f1bb2f
 org.apache.stratos	org.apache.stratos.manager.dashboard.stub	4.0.0		b9c6b13741920662cb2b08e65cc41332f6b249e2
+org.apereo.cas.support.cas-server-support-pac4j-webflow	5.0.0.RC2	support		6e987adb26c6c87aedda03d4464cd905c3178ee8
 org.dkpro.core	dkpro-core-io-tgrep-gpl	1.11.0		b657cb7179d0588396bd3b20a365cd789709d259
 org.dkpro.core	dkpro-core-io-tgrep-gpl	1.11.1		eb2dfb1e55a2dfeeae96e2af2e3b728af27af509
 org.dkpro.core	dkpro-core-io-tgrep-gpl	1.12.0		75d15305368c8c51e9500514357e10d8ab97556f
@@ -1276,10 +1279,17 @@ org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.79.0		16b4c
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.80.0		ed66772ba36b1d03aafb8e99d851a602e9c5a886
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.81.0		6f7c01d0b0cdd59496e5efe6846f06e9e42722bb
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.82.0		9b07434cf5ab5cae9b44d38b6e3aff06e47e3715
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.82.1		69dd86a5254ea3a8f1801605bcc23f865008c57c
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.83.0		ca9d0533a0637a8337be1e94e64fdfba7bd442f6
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.83.1		8be46593b951357eacf9c43644871973d276eaa4
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.83.2		ed4eb68e73a0d85726a1a4270a66a120c8d5be1b
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.83.3		1ab3171888fb0beb27e3d32ac7d9b993c1a92701
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.84.0		95717597ca136ddcb7ee4e24cd21f163cc1a6493
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.84.1		b5456bdee07a60fdbbf443be6145a6da861135ee
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.85.0		014c12a9cde67a53d82ecafa4f63d79379c2e8cb
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.85.1		410cb94a81bd72b05f00072561dc425c28e22023
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.85.2		10f4a1b6de23eab1f17f88b04cb475ffb427dd8b
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-protocol	4.85.3		9243faa0085b9347fb95f2009de53ba14550f4ad
 org.glassfish.main.deployment	nucleus-dtds	4.0		N/A
 org.glassfish.main.deployment	nucleus-dtds	4.0-b33		N/A
 org.glassfish.main.deployment	nucleus-dtds	4.0-b33	resources	f281eb66f9f5a2c1f8c58c42846341bd0ab0fafe
@@ -1479,7 +1489,10 @@ org.http4s	http4s-jetty-client_2.12	0.23.7		851cca567a0c7f894adc6b2df02fdac2dae6
 org.http4s	http4s-jetty-client_2.12	0.23.8		521ee36adb4a7408d01668f0b87dc9b8a261bb8e
 org.http4s	http4s-jetty-client_2.12	0.23.9		7524b27be5c9e67fbfdcfe94ad1b2fc8be6c30fc
 org.http4s	http4s-jetty-client_2.12	0.24.0-M1		bd2726aa3ffbbd9bc766049db4f6f590c5478454
+org.http4s	http4s-jetty-client_2.12	0.24.0-RC1		a08cc279908d55f2f933a7150a081636136580a2
 org.http4s	http4s-jetty-client_2.12	0.25.0-M1		eb58ff7bd6c0b0f989a2b491b71a52801ea14eec
+org.http4s	http4s-jetty-client_2.12	0.25.0-RC1		59e1dec803d422dd6ad485fdc407f34c6947365f
+org.http4s	http4s-jetty-client_2.12	0.26.0-M1		1da846880e699c55ef404aa737468789535bdc5d
 org.http4s	http4s-jetty-client_2.12	1.0-10-df008e1		e76ba842ded0da122f448bc2f7119c911f00caba
 org.http4s	http4s-jetty-client_2.12	1.0-103-5f6e845		8bacbcf8a3c30e9481fc83910e384048d4d9e250
 org.http4s	http4s-jetty-client_2.12	1.0-107-6676c1e		c4a3bc9f42d9b38abd82071f145e463b134d5cc9

@@ -172,6 +172,8 @@ com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.34.0
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.35.0		64fb0aa413ff3df2ab4baceb94a519017162a5b1
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.36.0		d4dda3f7d997b3247eff1c78e8731eb51d75ab8b
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.37.0		6f029f6b59af7f568f22b8fab45d9ab072090d5e
+com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.38.0		ea3e0e4418b5ed9ba7268b508a64a35994157c0b
+com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.39.0		8f3b6975a23ecd6072375cb6e64c21dbf1099c0d
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.4.0		d8c68054b39138f33f19b4729cc9d76fe9c590ac
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.5.0		31bf7507e0e980b6d2acd45001f9436780d0300b
 com.google.shopping.api.grpc	grpc-google-shopping-merchant-reports-v1beta	0.6.0		a02d8e279323b69114d977e38f8629340e784325
@@ -981,6 +983,8 @@ io.ktor	ktor-client-logging-macosarm64	3.1.1		7d51c97a2bf88394a64456626ecb7cbea3
 io.ktor	ktor-client-logging-macosarm64	3.1.1	metadata	1d5d0bea7a8fdb107e99d151ff1fcbf83d60fb81
 io.ktor	ktor-client-logging-macosarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-logging-macosarm64	3.1.2	metadata	e2b8bb2bee2cc18c1caef5aa99b8e8dcd67603d1
+io.ktor	ktor-client-logging-macosarm64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-client-logging-macosarm64	3.1.3	metadata	5de331115a5b96b3dfe43c4278354698af894b73
 io.mraa.at.upm	upm_servo	1.2.0		N/A
 io.mraa.at.upm	upm_servo	1.3.0		N/A
 io.mraa.at.upm	upm_servo	1.5.0		N/A
@@ -1167,6 +1171,7 @@ org.apache.tika	tika-parser-nlp-package	2.9.0		429fb6176bf49e487bc82122c9ce372fa
 org.apache.tika	tika-parser-nlp-package	2.9.1		d14b82742042fb2c2ab23ebeaa6814b71e0ebcc8
 org.apache.tika	tika-parser-nlp-package	2.9.2		57fe802f0348c8a75e722298dd46604c369a3a28
 org.apache.tika	tika-parser-nlp-package	2.9.3		a89cf6761f515e2d463d20ac13ca9811dddafe8c
+org.apache.tika	tika-parser-nlp-package	2.9.4		615b5bf7900979e6c1afe80fbd57409cc9eb29e8
 org.apache.tika	tika-parser-nlp-package	3.0.0		908ab07919dda9b436ac8b6964fd60df8bb4c4b7
 org.apache.tika	tika-parser-nlp-package	3.0.0-BETA		a25fddcb2f5995c4937dd3c2a3787b678074f3cd
 org.apache.tika	tika-parser-nlp-package	3.0.0-BETA2		5aaa1014576b85baf06e9ae0ca0883fb730ac351
@@ -1620,10 +1625,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.8.0		58
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.80.0		d0923c3b3b931cef10520d004ccdb0fc133220a9
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.81.0		36148dd7731083080e60d233993b786cb5dea91f
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.82.0		8f2006ad9dd79e4409cd5e5b0b8dcd2fde3a0f49
+org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.82.1		502f16ab25e27bcdea6bb6b925186dd99e757995
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.83.0		49ba631278b2f5c90cc2f3b8a7a5f6953789bf9d
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.83.1		c907bb8c3034a197105e185de718bb84667b8bf2
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.83.2		e664f984b97def296c94be5386fd2ea5f655e449
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.83.3		39dd0461e1a39ceb0f75e3faf4690a71fa90200b
+org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.84.0		033c8c8c4f3720cbfdf3f2adcb032d7ef4965b6f
+org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.84.1		7051ca3f2fea1c392da742b96079451795b72f3c
+org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.85.0		4033e1b16db6bf7fd51c7c83c5ca01a195c217e3
+org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.85.1		f0aeddb00424bb6b7740a61ce502daf97b5e81af
+org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.85.2		62f228cd1a54c885270a1e8dcd72f21b7d32b16f
+org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.85.3		d0ef9cf592520f2da0290b56988d7bf961997e17
 org.finos.legend.engine	legend-engine-xt-relationalStore-bigquery-pure	4.9.0		dc2c0691591ba0794cc85784be0a32b58f71ce57
 org.fujion	fujion-icons-fugue	2.0.0		4e69def3fd821ffeff7f0e5a377ba43dcd4ab7ae
 org.fujion	fujion-icons-fugue	2.0.0-RC6		ab82fc3b85c3d2f4850c8b6c74a70d2e7d654e80
@@ -1738,6 +1750,8 @@ org.ossreviewtoolkit.clients	bazel-module-registry-client	55.3.0		73dffd17532c4a
 org.ossreviewtoolkit.clients	bazel-module-registry-client	56.0.0		d97357b778b9cf3d1aa6369245546aeab36dd1e6
 org.ossreviewtoolkit.clients	bazel-module-registry-client	56.1.0		7e5609ccd96bc40a03aa7926beb9932bc95f8104
 org.ossreviewtoolkit.clients	bazel-module-registry-client	57.0.0		c6eeb173c5e559019de876f30fbda5b99ba023af
+org.ossreviewtoolkit.clients	bazel-module-registry-client	58.0.0		724a8b8ee661e8e138464085fd311534fe197a89
+org.ossreviewtoolkit.clients	bazel-module-registry-client	58.0.1		fba7c1085e8519db1820d7f1f643823d3745ad72
 org.ow2.easywsdl	easywsdl-tool-java2wsdl	1.3		8d0ca91a76e431c73844acaa72ca67decedcfb82
 org.ow2.easywsdl	easywsdl-tool-java2wsdl	2.0		4c2cf6d4f3f7ed96cd49ae477caa948894fb5e0d
 org.ow2.easywsdl	easywsdl-tool-java2wsdl	2.0.1		5b476c195fbc613831cc7e4695a40e4457fad36b

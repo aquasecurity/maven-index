@@ -1517,6 +1517,7 @@ dev.zio	zio-aws-comprehend_2.12	7.31.27.1		3f1d1bc586287f7dfb25f608aa961578f167c
 dev.zio	zio-aws-comprehend_2.12	7.31.28.1		8983c51e25fcb9b5d7c93de044472a64a2723a1d
 dev.zio	zio-aws-comprehend_2.12	7.31.3.1		4b9150ba3cce6c631dd8ac1b16c68ab4ae820467
 dev.zio	zio-aws-comprehend_2.12	7.31.30.1		a131d7ecbd22172362cba330486befdc1044d6d3
+dev.zio	zio-aws-comprehend_2.12	7.31.30.2		63873ce1ac29d0ffb3a363e9741df78ba8154548
 dev.zio	zio-aws-comprehend_2.12	7.31.4.1		73190d74e3320ecdd33283bc0ae8ce2f611fb503
 dev.zio	zio-aws-comprehend_2.12	7.31.6.1		4d58584851d8879ec1f411c8e49b26b56f896a59
 dev.zio	zio-aws-comprehend_2.12	7.31.6.2		8e1ed1973c65cb55d36ea2dba12652f20395bc8c
@@ -1608,6 +1609,7 @@ io.deephaven	deephaven-jpy-config	0.37.5		591b9f5630d1559fcd06bb67281309b8ce57cc
 io.deephaven	deephaven-jpy-config	0.37.6		819e4a62149a54c5dc9fab3478353056ea69f98a
 io.deephaven	deephaven-jpy-config	0.38.0		67a07ecc6b41149e722c3c30a88a6e8f21d04f0a
 io.deephaven	deephaven-jpy-config	0.39.0		3d75969d1a48094588dcddf10d45113e6be7bf6e
+io.deephaven	deephaven-jpy-config	0.39.1		9794c21982583dcd3ccc9bb715f04929f0ed34db
 io.get-coursier.scala-native	nir_2.11	0.3.0-coursier-1		130ddc0bcb601b79045ceae0b8bbcebb12343eef
 io.github.avivcarmis	trafficante	1.0.0		3742976a681e69686679c8010a3673152fcaf326
 io.github.avivcarmis	trafficante	1.0.1		d152cae8e04e6e8d233e211aa82bbccbb99d6b33
@@ -1876,6 +1878,7 @@ org.apache.geronimo.config	geronimo-config	1.2		N/A
 org.apache.geronimo.config	geronimo-config	1.2.1		N/A
 org.apache.geronimo.config	geronimo-config	1.2.2		N/A
 org.apache.geronimo.config	geronimo-config	1.2.3		N/A
+org.apereo.cas.support.cas-server-support-oauth-core	5.0.0.RC2	support		043854932c01ec01b2154b39c252b8f1ba9b2ab1
 org.bstats	bstats-bungeecord	2.0.1		49c6ded11bdf9ed03397fbb9914f1c95505c31dc
 org.bstats	bstats-bungeecord	2.1.0		eeb0c52367836870c8a63c9d620f935a34d76783
 org.bstats	bstats-bungeecord	2.2.0		8de0af60364f59d66994da611420c61ce561f2af
@@ -2365,6 +2368,8 @@ org.openrewrite	rewrite-json	8.50.0		e5c784c19763a161931a90de1cf014e0034d5708
 org.openrewrite	rewrite-json	8.50.1		8841c4e1d4757c72c63574c22b78d5cc5efcd27e
 org.openrewrite	rewrite-json	8.50.2		05e7cea922a0fa3cb90470fc02a6471f11409bae
 org.openrewrite	rewrite-json	8.51.0		9ccacac3569838d07e74c639ec72109015db39a0
+org.openrewrite	rewrite-json	8.52.0		7019571256e9cf958208c8ab13054a43b3cc25b8
+org.openrewrite	rewrite-json	8.52.1		6ceb02aca043e8d84e4b2860ea8ffbe49a18ec17
 org.openrewrite	rewrite-json	8.6.0		5cd56bb986fae120067aa6a08312a4391b68877a
 org.openrewrite	rewrite-json	8.6.1		e54b20673885441ec23c0c71a8c5fafd8530ffee
 org.openrewrite	rewrite-json	8.6.2		6e05971ecff891ba8a15c49b8b3612f861beca8f
@@ -2434,6 +2439,12 @@ org.projectlombok	lombok-maven-plugin	1.18.20.0		49483c43992b989e3ee0d2815ae7d25
 org.projectlombok	lombok-maven-plugin	1.18.4.0		65dc32c7e550335454ce39e2278c7710138ae3a8
 org.projectlombok	lombok-maven-plugin	1.18.6.0		aa01f24e76e1945eac261b63efd68688397b364d
 org.projectlombok	lombok-maven-plugin	1.18.8.1		f41c3e502a3c92306ad8f966329982ed41962aa8
+org.scala-js	sbt-scalajs_2.12_1.0	1.10.0		2da807f027ce99e67ca1a1799eca81483238e1fb
+org.scala-js	sbt-scalajs_2.12_1.0	1.10.1		81a58d9c3088f6ffbe56d16eb81fe18d6f22c0be
+org.scala-js	sbt-scalajs_2.12_1.0	1.11.0		47da8f738f27378d368e4cd0e5894276a5965f8b
+org.scala-js	sbt-scalajs_2.12_1.0	1.12.0		2d8a35b861a1a893852646f0eb153fcd29bf373a
+org.scala-js	sbt-scalajs_2.12_1.0	1.13.0		f6042b15cb5e0818cebddd681e290c5ec512b916
+org.scala-js	sbt-scalajs_2.12_1.0	1.13.1		6d2ca097c7fcbc742c4801fe94e463797732ab35
 org.scala-js	sbt-scalajs_2.12_1.0	1.13.2		54bdb73d61773edc16b353a9fd55528b36817c62
 org.scala-js	sbt-scalajs_2.12_1.0	1.14.0		f5c4e4577209734a57b18f596f956a4fd12bb6e9
 org.scala-js	sbt-scalajs_2.12_1.0	1.15.0		d814897fbaa55939f6faabc2da117f77c65c2e4d
@@ -2443,6 +2454,13 @@ org.scala-js	sbt-scalajs_2.12_1.0	1.18.0		d36e41b2b0bb0343daa45b99a9192004eb4bef
 org.scala-js	sbt-scalajs_2.12_1.0	1.18.1		2fb645a4bb513701eeb3fbbf3d7770f815ef257a
 org.scala-js	sbt-scalajs_2.12_1.0	1.18.2		36a19363f42f997c0b48e6db351f480583ec8586
 org.scala-js	sbt-scalajs_2.12_1.0	1.19.0		de7cc803aebfa654f015d04965e022c028d63c01
+org.scala-js	sbt-scalajs_2.12_1.0	1.5.0		1f7f02f7fa68cd93ef4501350121eaaded6e35f3
+org.scala-js	sbt-scalajs_2.12_1.0	1.5.1		f30461670bdfb7a88bfb33f5e0d299c43c470c29
+org.scala-js	sbt-scalajs_2.12_1.0	1.6.0		400c222e1002ba0625a334d1e9a2852c9b2ce79d
+org.scala-js	sbt-scalajs_2.12_1.0	1.7.0		05927f3ca580c96bf922e4300c1de31ce090bf7b
+org.scala-js	sbt-scalajs_2.12_1.0	1.7.1		8c8b06d00e545c40ae109c4ddd7dbfdb65bd3816
+org.scala-js	sbt-scalajs_2.12_1.0	1.8.0		a40b40bbde10571f9f37aa4b3c765371224a24a7
+org.scala-js	sbt-scalajs_2.12_1.0	1.9.0		fe76215ccc5c657dc32db115703892507db718ac
 org.scalanlp	epic-pos-pl_2.10	0.1		3df5e0e6652beabd6fb40003becaee55e31e3041
 org.scoverage	scalac-scoverage-runtime_2.13.0-RC1	1.4.0-RC1		a014364af2ed318baabbac5b3cca6462ff85c5c5
 org.specs2	specs2-html_2.13.0-M4	4.3.0		f19d7c62121efe4260d83d20c2f01713d1170f21
@@ -2698,6 +2716,10 @@ tz.co.asoft	raven-sms-kila-watchosx64	3.0.8		N/A
 tz.co.asoft	raven-sms-kila-watchosx64	3.0.8	metadata	82827433564bb313a95f5262b7f87f00f1c64e6e
 tz.co.asoft	raven-sms-kila-watchosx64	3.0.9		N/A
 tz.co.asoft	raven-sms-kila-watchosx64	3.0.9	metadata	a2d4efe85a7e0afa6ad0131ada42a70e358da380
+tz.co.asoft	raven-sms-kila-watchosx64	3.1.0	metadata	617414717a743816f0b9f7224b407f0ffb4c2154
+tz.co.asoft	raven-sms-kila-watchosx64	3.1.1	metadata	465cd2dc9b3eaa87f87fad6944a03d7f1e0e47c1
+tz.co.asoft	raven-sms-kila-watchosx64	3.1.11	metadata	591d892a77df34b965ddb656463da045427e0679
+tz.co.asoft	raven-sms-kila-watchosx64	3.1.12	metadata	402166960d4653e2c36b5204449ca1ff89a1a6ae
 xyz.cofe	text	0.1		67e7d3ea70419bd3d6809361606691deccc71be9
 xyz.cofe	text	1.0		b82d8e8aa36ffd6534b139b9c0d1eb7e6e8ca743
 xyz.cofe	text	1.1		7e80705951374652b9f67958e58d3b5bd01d1dcf

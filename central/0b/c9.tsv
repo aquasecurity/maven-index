@@ -835,6 +835,8 @@ com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.63.0		795594ccededcc659ddd443b05
 com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.63.1		81d8898674f50a146ce26b1dbe404d069c93636a
 com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.63.2		65571e5ee924ff44d9d173544ee19521e7652dca
 com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.63.3		6d7e3db205e676600e27b0868db3816adf29aa6e
+com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.64.0		9ecd0a9821ba00445de1f028ce0346b286f62629
+com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.65.0		9466c5fb311e7407af17c5eb9dc2a13e8bee23f4
 com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.7.0		fe18b476b572d4934ac580fb86cf1a14c1e3b13c
 com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.8.0		9d21731b85c021c893d5387ff260fcc732156399
 com.oracle.oci.sdk	oci-java-sdk-addons-apache	3.9.0		7ac9df8d3068762c9c00db7186fd3746f299d75f
@@ -1191,6 +1193,7 @@ io.get-coursier	coursier-install_2.13	2.1.25-M1		eeab0f1529be14acc22d246c4b35e11
 io.get-coursier	coursier-install_2.13	2.1.25-M10		581e5405b40a76e84dae7e8718aa920951b6bfe9
 io.get-coursier	coursier-install_2.13	2.1.25-M11		e148c87f30a906dc0765338505ce8f994bea505e
 io.get-coursier	coursier-install_2.13	2.1.25-M12		0ba4a14fb36655c8ebd1c29224e5902696730137
+io.get-coursier	coursier-install_2.13	2.1.25-M13		4ccf874a75a9866e587adfe97184e093ac465ef2
 io.get-coursier	coursier-install_2.13	2.1.25-M2		5bb498431a73fa346ad3a89c49b345f4ed97bd85
 io.get-coursier	coursier-install_2.13	2.1.25-M3		f9a7920184a26e3489d3e7a4c9f16cc30dfdc8e8
 io.get-coursier	coursier-install_2.13	2.1.25-M4		e204085c4c71aa790e80451c6dfda56d51c4eb3e
@@ -1227,6 +1230,7 @@ io.github.kevincianfarini.monarch	launch-darkly-integration	0.2.0		8dc9f3a047f9c
 io.github.kevincianfarini.monarch	launch-darkly-integration	0.2.1		8dc9f3a047f9ccf06a703ab339cb9df2af98ba04
 io.github.kevincianfarini.monarch	launch-darkly-integration	0.2.2		8dc9f3a047f9ccf06a703ab339cb9df2af98ba04
 io.github.kevincianfarini.monarch	launch-darkly-integration	0.2.3		8dc9f3a047f9ccf06a703ab339cb9df2af98ba04
+io.github.kevincianfarini.monarch	launch-darkly-integration	0.2.4		20d336beb20df0a2e8a241e20f42f318a8d33098
 io.github.lgatodu47	catconfig	0.1.0		6eb5a66eee9cac744ffafd4ae30630e9aa8b3fa1
 io.github.lgatodu47	catconfig	0.2.0		c0a01faf388d90a85b6433c03505dccffca2997b
 io.github.lgatodu47	catconfig	0.2.1		fedadbfd1ecfa5b1d32f5ca9f32c21d31c26a390
@@ -1320,6 +1324,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-rea
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-reactive-1.0	2.13.3-alpha		1094a3e271208fd99c29510e4193b1b20ea3522a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-reactive-1.0	2.14.0-alpha		97c58fa0cc9c430e487f0ab5d6ed5c826bdfa8e3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-reactive-1.0	2.15.0-alpha		cfc929fe46143a01e3a0136c4eceaf86f39b6187
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-reactive-1.0	2.16.0-alpha		e1a0368df72b971999fa4ca6792f60f757261ec2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-reactive-1.0	2.2.0-alpha		268bef8acda80e43d0165d00f2a9eea131f8a415
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-reactive-1.0	2.3.0-alpha		18eb015d67b6c2a1a7d4d600799b4aa5827de955
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-reactive-1.0	2.4.0-alpha		d6701a7b41f1ace264314f7cd5fefc3fc12b3b73
@@ -1573,6 +1578,7 @@ org.apache.camel	camel-avro-rpc-spi	4.8.3		24ce2400d85ee93556868971902d9d217f2e8
 org.apache.camel	camel-avro-rpc-spi	4.8.4		35f20e1de6076a54c7aee305a84f834cc8326877
 org.apache.camel	camel-avro-rpc-spi	4.8.5		c42f929a65754bf9e1e539fd7d10759860aeb501
 org.apache.camel	camel-avro-rpc-spi	4.8.6		5d8e3fab5f7d30adefea4da5f3fe3bae9cd64468
+org.apache.camel	camel-avro-rpc-spi	4.8.7		26abf128e4b6430e0dabdf76ff7b8cd5bf549a02
 org.apache.camel	camel-avro-rpc-spi	4.9.0		1e0d04c4579f18497ab56ffe1581bb46fba3abb7
 org.apache.geronimo.daytrader.assemblies	plans	2.2.1		902a21b3f2d1eb4fd83cc9e852c6a28f8965fcc6
 org.apache.isis.core	isis-core-applib	1.0.0		f0ab8d127f6bc076d4bf97227d7a404f38814c8c
@@ -1776,6 +1782,7 @@ org.wildfly	wildfly-weld-bean-validation	35.0.0.Final		8a7ac89c0b76d389651c83381
 org.wildfly	wildfly-weld-bean-validation	35.0.1.Final		943aeec8eb9fca9345ce595966bb77711bc2d6b0
 org.wildfly	wildfly-weld-bean-validation	36.0.0.Beta1		564e22314bd1b031bce86358305d51c808872c6a
 org.wildfly	wildfly-weld-bean-validation	36.0.0.Final		161846782925aa7841a4977e574990cf15125ae9
+org.wildfly	wildfly-weld-bean-validation	36.0.1.Final		fda223784d9fefc0ea00b566ec1c0fef68e32da0
 pl.touk.nussknacker	nussknacker-util_2.12	0.0.12		6577799264c19d60c6375cc17a01be82c6c1af68
 pl.touk.nussknacker	nussknacker-util_2.12	0.1.0		04ba23922c1d2307936e8b6384d5c10a870c19d1
 pl.touk.nussknacker	nussknacker-util_2.12	0.1.1		8e9aa658b95f598f8a8359597359654d146e83ee

@@ -101,6 +101,8 @@ com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.63.0		3d841d4806b960f4cf
 com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.64.0		a1e27dec9bb8723c720dbcb0c3ca1ab11e72ac8d
 com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.65.0		256bdaecfb965c76827becd28580e3b93d645835
 com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.66.0		0770d99b23aed463bafd9249c4ddd232f930bd8a
+com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.67.0		2b2bdca0286e395b6c79d1c6a75a0fd338eecc84
+com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.68.0		feac773d40d613442c3b3f6e9f4bd10abbe2c264
 com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.7.0		9bd02c800eea8ef12fdc90ca3272596f6bc84f0c
 com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.8.0		151cbe61a0961714e1fc10503566e3b312662ead
 com.google.api.grpc	grpc-google-cloud-domains-v1beta1	0.8.1		7ae1d9f670790e22daf8a3eae92b8d8125979290
@@ -167,6 +169,7 @@ com.liferay	com.liferay.project.templates.rest.builder	1.0.107		68c89712af55e060
 com.liferay	com.liferay.project.templates.rest.builder	1.0.108		9ab5ad4148c997367fe382c9401c2c1cc398c252
 com.liferay	com.liferay.project.templates.rest.builder	1.0.109		f70c205e74e41fa2b11a20190f0b419162a297c5
 com.liferay	com.liferay.project.templates.rest.builder	1.0.11		cd2ad8ccec5ddebbbea046e206e08bf36032670f
+com.liferay	com.liferay.project.templates.rest.builder	1.0.110		f0b6025d80498ef7484a65b1c7eecccfd54b470d
 com.liferay	com.liferay.project.templates.rest.builder	1.0.12		63d8b42a3a5371117aab4406312bb7a9c262e54a
 com.liferay	com.liferay.project.templates.rest.builder	1.0.13		7a85632d4bd95d7b61634f30e654740e78cd8059
 com.liferay	com.liferay.project.templates.rest.builder	1.0.14		cbeff4e0635edefd056ad66239aea31854583d79
@@ -493,6 +496,7 @@ io.camunda.connector	connector-core	8.4.13		1c199d1c3afd01e7ab4471b903f1f705c369
 io.camunda.connector	connector-core	8.4.15		b33736de53913739f8fe588b42404e8d040c045f
 io.camunda.connector	connector-core	8.4.16		464656b690b924e844e64cbab2442a6408ab5e73
 io.camunda.connector	connector-core	8.4.18		52cf5ab27dd1b203dea7a6758a839baa0e7fa18d
+io.camunda.connector	connector-core	8.4.19		6c6ece3c10e79675edf1b7ac946051dcc12a95b0
 io.camunda.connector	connector-core	8.4.2		59e0262333e1410d0e7ef91929f54d51fdfd3407
 io.camunda.connector	connector-core	8.4.3		4a663dbc2858703baff6a6ebc29d8673acd0493f
 io.camunda.connector	connector-core	8.4.4		cb2dacb0bb21fd3380522070a779a04fab38b87f
@@ -526,6 +530,7 @@ io.camunda.connector	connector-core	8.6.0-alpha5		d536ad3cd5ce5ec94127e7030137fb
 io.camunda.connector	connector-core	8.6.1		78185138630046bc875d045e8fbe6e34590c17b4
 io.camunda.connector	connector-core	8.6.10		86bc8a3984fce9d7be3566409d441b94bfba5270
 io.camunda.connector	connector-core	8.6.11		0fa3c86afebd8468237700e020e1ef2f6c3b0b90
+io.camunda.connector	connector-core	8.6.12		e9b628ba70417ce1750f8cfba4c96d02eecb04c7
 io.camunda.connector	connector-core	8.6.2		72f5a95198d0e43716f1a2dc4445c2a4c3c16a0e
 io.camunda.connector	connector-core	8.6.5		489dd6a753ae94929567f0d42e4645347a8c1f3a
 io.camunda.connector	connector-core	8.6.6		fb65a0db594263ffacd8cfc2e20a7712b9117a75
@@ -537,8 +542,12 @@ io.camunda.connector	connector-core	8.7.0-alpha3.1		65d05c7878c3d9ba43a596d76753
 io.camunda.connector	connector-core	8.7.0-alpha3.2		31443822a0f237810d29f18541beda49fd80953c
 io.camunda.connector	connector-core	8.7.0-alpha3.3		79bba7486cf3c021f02afacb11569e455e9443dd
 io.camunda.connector	connector-core	8.7.0-alpha4		90fa903118d7d8b76f57bfe3eb6ec627a97980a8
+io.camunda.connector	connector-core	8.7.1		352dece8ab37d1bb5f98c475410270861cab3480
+io.camunda.connector	connector-core	8.7.2		858cbcefac2703c3a4580a1c5d7e75006dfa0892
 io.camunda.connector	connector-core	8.8.0-alpha3		ccf676501e52a956af7411f2ef7565d94d3074a9
 io.camunda.connector	connector-core	8.8.0-alpha3.1		bd1473f4c228002fec8bc1cc14299529fa2cf85d
+io.camunda.connector	connector-core	8.8.0-alpha4		62eb620bcb61e00cbb6f8e018aed3b94f914f66f
+io.camunda.connector	connector-core	8.8.0-alpha4.1		2f6ab8d5c442cbb786c81aef820eb089f978699e
 io.dekorate	dekorate-doc	0.10.0		e61a93b77a4bfe4607971a68b6171cdd5bdef0c4
 io.dekorate	dekorate-doc	0.10.1		b0123a5cda645f9442b58201c7bedff12a0e054d
 io.dekorate	dekorate-doc	0.10.10		bfcf3a6900550b6094bb09572efdaf63b4ced008
@@ -791,6 +800,7 @@ io.matthewnelson.kmp-tor	runtime-ctrl-iossimulatorarm64	2.2.0		N/A
 io.matthewnelson.kmp-tor	runtime-ctrl-iossimulatorarm64	2.2.0	metadata	037a92c5590144f9fab6f9d071ba789361ac5209
 io.matthewnelson.kmp-tor	runtime-ctrl-iossimulatorarm64	2.2.1		N/A
 io.matthewnelson.kmp-tor	runtime-ctrl-iossimulatorarm64	2.2.1	metadata	037a92c5590144f9fab6f9d071ba789361ac5209
+io.matthewnelson.kmp-tor	runtime-ctrl-iossimulatorarm64	2.3.0	metadata	037a92c5590144f9fab6f9d071ba789361ac5209
 me.amermahsoub	youtube-player	0.0.2-alpha		N/A
 net.officefloor.tutorial	DynamicHttpServer	1.1.0		00537231049c4b39764f7130f4b85e1d3e8f05cc
 net.officefloor.tutorial	DynamicHttpServer	1.2.0		a4be02d8b154ff68c6da817d7338d7df83fc1db9
@@ -933,6 +943,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.2.1		d125815c
 org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.2.2		a1d812853b67aad1c9ea1fb3c0b23ea6f1c43941
 org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.2.3		63b9d79bce94edaf6c5fa4e5dea03f1254e5e44b
 org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.20.0		0f90179349c577c43bf45338cf0c26e13640b83c
+org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.20.1		82b45a2a661b9e28775d156cb83f4bedd9a01367
 org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.22.0		d702ed0b581604aa1595a8c76091dfdf6e4911e3
 org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.4.0		69e0ad62197117ff25a01bde737db838b9da1d9d
 org.apache.camel.quarkus	camel-quarkus-integration-test-jsonpath	3.5.0		073ac4e12016bbc6da2b2608b967a9704fb7eac3
@@ -1061,6 +1072,7 @@ org.apache.camel.springboot	camel-tika-starter	4.8.3		e0b385e44e10fb890658d0176d
 org.apache.camel.springboot	camel-tika-starter	4.8.4		16b2c3e61870c7c0dfa0399ceb8d531a7dd23120
 org.apache.camel.springboot	camel-tika-starter	4.8.5		e68eebceb0ca3b81c331a17c26d9b45a91d5769b
 org.apache.camel.springboot	camel-tika-starter	4.8.6		8481036fb1a1e93579d381008f96d849b78853fa
+org.apache.camel.springboot	camel-tika-starter	4.8.7		e35070ec8de01f88937d0c1a545b4e29cd27d083
 org.apache.camel.springboot	camel-tika-starter	4.9.0		16c8be4f673bcbb73450c4dbbaf9c58541e04194
 org.apache.linkis	linkis-gateway-core	1.0.3		1b7a815cb1e5f1c1f203440e0f7dcaf7c3943845
 org.apache.linkis	linkis-gateway-core	1.1.0		b3be69c26215ff3a9cc76ab2a8b347a079244ab6
@@ -1212,6 +1224,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-registry	11.41.1		d73dfccab4e
 org.eclipse.dirigible	dirigible-components-ui-view-registry	11.42.0		390aa8a5e820b7152c8697dd9592ad050efb7040
 org.eclipse.dirigible	dirigible-components-ui-view-registry	11.43.0		80ddf304c92d449610728a8c2748420fc17ef439
 org.eclipse.dirigible	dirigible-components-ui-view-registry	11.44.0		101b3713a8b16d99ba66e5b982f466ecab3f7c84
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.0		52bec0f6cf5f613116f6d723347d05495dab2274
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.1		f44f2a41826a44fc2b2ca176fd1709be70d7e48c
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.10		382234b298383930e00a3b74333d849c19a10f64
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.11		10876274ab88f0334257cda99cc611b3db2cd18d
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.12		6416bd5979fb0af5f0b0e6a93b5318ab77e753be
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.13		1d803a4611b6902f54e2d31b46e7d82009ea48bf
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.3		1ad031768026f18e35b7f29e61083b037ef6cea4
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.4		a31913874a6dce89bea4d3eb384dfd9763a4f9d2
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.5		9c44c0278f9ea827d650fae8a9a09ff02bf58339
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.6		c78daaa267ecffcad5cc9c3bc332c3cf5fd1fc14
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.7		41c692d9634d2a6b342525802e7de78c597176f9
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.8		7cea9627f5900fed5761e91ecb5879697dcf40b3
+org.eclipse.dirigible	dirigible-components-ui-view-registry	11.45.9		c842acf29c49bd8463d002e5ed85a121a6f8db02
 org.eclipse.dirigible	dirigible-components-ui-view-registry	11.5.0		61aceb47c3cb7b6ea1d1b3c89c02e1d9c2a457f9
 org.eclipse.dirigible	dirigible-components-ui-view-registry	11.6.0		92a5f92cb4dd49ae73da2865ceebed504cac7c59
 org.eclipse.dirigible	dirigible-components-ui-view-registry	11.6.1		8caaa03b77d1fb82faa098f0881e46dfbaeacb41

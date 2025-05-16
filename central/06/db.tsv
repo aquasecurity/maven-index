@@ -430,7 +430,16 @@ aws.sdk.kotlin	resourcegroups-jvm	1.4.73		2e4457d439b27b34171d7e3a84454c82a71d45
 aws.sdk.kotlin	resourcegroups-jvm	1.4.74		f8f06cad57294374f656541db34d34c2c1ab150e
 aws.sdk.kotlin	resourcegroups-jvm	1.4.75		01bfbe4908a88cdc1aec9f0e9d59ddb23d50eaa4
 aws.sdk.kotlin	resourcegroups-jvm	1.4.76		2ebfecef8136533df8489ceaebe80a9dea7e6af0
+aws.sdk.kotlin	resourcegroups-jvm	1.4.77		22f304ae3d4ff1ba141ef1b77d88d676dbbea97d
+aws.sdk.kotlin	resourcegroups-jvm	1.4.78		c34d9d7461162a3ff9c109fc060b3bb23b20001b
+aws.sdk.kotlin	resourcegroups-jvm	1.4.79		aa55163c40275ba01d2aea38b23a1bb4df31da42
 aws.sdk.kotlin	resourcegroups-jvm	1.4.8		68a055b039ed26ade075d4b7255316ee2f056573
+aws.sdk.kotlin	resourcegroups-jvm	1.4.80		fecaa3843b3ebf9e8c54d28badb727444566dccb
+aws.sdk.kotlin	resourcegroups-jvm	1.4.81		e22e2fd5b45bfdf80aeaaa56133a0009b542c7e9
+aws.sdk.kotlin	resourcegroups-jvm	1.4.82		53f28469b10542f18cab49cb2d0244b1a78baa36
+aws.sdk.kotlin	resourcegroups-jvm	1.4.83		b37aeae7cc56a2640f8d06319b4b6ee0a72b1c50
+aws.sdk.kotlin	resourcegroups-jvm	1.4.84		eba0b3294c49ee004ca0410cbfd7ea457ae685a7
+aws.sdk.kotlin	resourcegroups-jvm	1.4.85		fd91660422b83ca133a16537646e70727936a01c
 aws.sdk.kotlin	resourcegroups-jvm	1.4.9		ec70fb306cc161b893ff12f12548b92a2be65af8
 bayern.steinbrecher	jzlib	1.1.4		091cba3a1d0cba2af2577692a0d3cf704e3c14d2
 bayern.steinbrecher	jzlib	1.1.5		982692b6c7937b0e429a0fccc25b374d873cbb81
@@ -1426,6 +1435,7 @@ com.walmartlabs.concord.plugins.basic	throw-tasks	2.23.0		c03660c6f7ae6533e9ded7
 com.walmartlabs.concord.plugins.basic	throw-tasks	2.24.0		85210c0755040623be5bfe710b381dd77ede248c
 com.walmartlabs.concord.plugins.basic	throw-tasks	2.25.0		a6e3d08f56fd93a5b1a2d2cf9036dfbb04a579f2
 com.walmartlabs.concord.plugins.basic	throw-tasks	2.25.1		8a82f7f5840a5d88a48eea3fbbf2f40f28cfa5ba
+com.walmartlabs.concord.plugins.basic	throw-tasks	2.26.0		4f3f4a71e6ed2803e42c7e1a3186c697948a6c16
 com.walmartlabs.concord.plugins.basic	throw-tasks	2.3.0		659fb565c8205fb9c41c6357ad72261fe28389f4
 com.walmartlabs.concord.plugins.basic	throw-tasks	2.4.0		7abbec5dd2459866e15a417258d25c7437c8394d
 com.walmartlabs.concord.plugins.basic	throw-tasks	2.5.0		40bb3254b533af63c61dec939dbe57467130eba5
@@ -2044,6 +2054,7 @@ io.ktor	ktor-client-json-linuxarm64	3.0.3		29690be6c1cc18547c2fa78a58a0ac8e57ac5
 io.ktor	ktor-client-json-linuxarm64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-client-json-linuxarm64	3.1.1		482ab5f3c87fe74b6fe2f74562430124b26ffa8b
 io.ktor	ktor-client-json-linuxarm64	3.1.2		b5141a6ca75d01942d9837f14fcbe505968d503f
+io.ktor	ktor-client-json-linuxarm64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.micronaut.configuration	micrometer-registry-graphite	1.0.0.M4		74d09d29ee90e1e19204895ae80a3edced6a261f
 io.micronaut.configuration	micrometer-registry-graphite	1.0.0.RC2		0defbac7c3243ca656200cf3ceacbdd0d93f7af9
 io.mraa.at.upm	upm_enc03r	1.2.0		N/A
@@ -2432,6 +2443,7 @@ nl.vpro.media	media-odi	8.7.1		adc4090265dc05bedf1e7830e49e47922df30bf4
 nl.vpro.media	media-odi	8.7.2		bfefc6d6cf54196611a34abaf54f671c8d8712fa
 nl.vpro.media	media-odi	8.8.0		26b3aee2b3b3f0a6c6a752673dd970b9ecd93003
 nl.vpro.media	media-odi	8.8.1		d404d956d91b9a9b7e3d6daaeb71f40a6db19c3c
+nl.vpro.media	media-odi	8.8.2		a58defdd3dd1b71629c86188e9a02392246d5a18
 org.apache.batchee	batchee-commons-csv	0.3-incubating		3f661752efea039cf3d33557312de980444b94e8
 org.apache.batchee	batchee-commons-csv	0.4-incubating		3ec4d3a455a59fb42950a63b0e5a3d80f471c4ee
 org.apache.batchee	batchee-commons-csv	0.5-incubating		2e7f5fec8e9290c6190f4a556cdaaa59828f363a
@@ -2531,6 +2543,7 @@ org.apache.gravitino	gravitino-flink-1.18_2.12	0.6.0-incubating		075d79ba2cbd153
 org.apache.gravitino	gravitino-flink-1.18_2.12	0.6.1-incubating		1b3d2ff25ff759e8ae4576c4ba73dde6fa29f006
 org.apache.gravitino	gravitino-flink-1.18_2.12	0.7.0-incubating		70eaf3354306ea46f4d685b485f8da73c2e9d438
 org.apache.gravitino	gravitino-flink-1.18_2.12	0.8.0-incubating		328bd5896dad68ad8158f9f9932cd4ed26046684
+org.apache.gravitino	gravitino-flink-1.18_2.12	0.9.0-incubating		94e653c7f8f2f54c8f28b89c0d262cfe877ddfeb
 org.apache.uima	uima-ducc-user	2.0.0		a80baebfae7eb8e8dd54b30ad2ade97542c3d731
 org.apache.uima	uima-ducc-user	2.0.1		4c756aa17b7c2e4c46be909be7cfd3df47a5b560
 org.apache.uima	uima-ducc-user	2.1.0		9b3ff92df7383440098deda687d661a38db77a90
@@ -2854,6 +2867,7 @@ tech.ydb.yoj	yoj-util	2.6.12		5304b96cf6ad099e5956327c1eb201b6ada5d765
 tech.ydb.yoj	yoj-util	2.6.13		e8dd05c86b52fc2f6f711619723ec7d57b8aaacd
 tech.ydb.yoj	yoj-util	2.6.14		3017fc73a4c47471788d97f1cefc1183df2debdb
 tech.ydb.yoj	yoj-util	2.6.15		0097297e005e57182518662993730c435d95deb8
+tech.ydb.yoj	yoj-util	2.6.16		2cfea645cf5f653f5b0f8d88d7eb9a8ddd6a0a4f
 tech.ydb.yoj	yoj-util	2.6.2		f78e29646197c55d107b84f377cafcc131269925
 tech.ydb.yoj	yoj-util	2.6.3		3b978e721fd29033951257750ce64ea9acac2a09
 tech.ydb.yoj	yoj-util	2.6.4		c5574e0f9abca58a4a2bfe772a026f264f1d8f7c

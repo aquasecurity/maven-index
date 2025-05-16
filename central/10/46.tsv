@@ -39,6 +39,8 @@ cloud.thingslinker	onion-parent	1.0.9		N/A
 cloud.thingslinker	onion-parent	1.1.0		N/A
 cloud.thingslinker	onion-parent	1.1.1		N/A
 cloud.thingslinker	onion-parent	1.1.2		N/A
+com	indix	steve-core_2.10		9e92a133f598b3e40f57ccf0620442366d477b14
+com	indix	steve-core_2.11		f24d16749ccce6aaa899d277dd36b625a962e5e7
 com.clouway.security	jwt-java-client-google	0.0.2		4849f271c597b854eb2aeba97813026d53377978
 com.decathlon.vitamin	ratings	0.2.0		N/A
 com.decathlon.vitamin	ratings	0.2.0-beta01		N/A
@@ -60,6 +62,7 @@ com.foursoft.harness.navext	navext-xjc-plugin	5.4.0		df6ec5072eb3b46038e1c065669
 com.foursoft.harness.navext	navext-xjc-plugin	5.4.1		4d8f4fe2551adcd90dc18e0fdfe81fc6a1c8540c
 com.github.adedayo.eclipse.sdk	org.eclipse.ui.editors	3.9.100		0146f99e3c4032278c57f5d109e6a8ae8f6b9ac6
 com.github.alexarchambault.tmp.ammonite	ammonite-compiler-interface_2.13.5	2.3.8-125-0c2846b7		280073e5b81a11f38a1e73692a35b560a90645ac
+com.github.malliina	sbt-paas-deployer_2.9.2_0.12	0.102		2e12915b837b42620c07324b6c5b264b047bf1a9
 com.github.martinkoster	app-sample	0.0.1		e2ca30480bc1845e6145fa657597ba8b94352e70
 com.github.paveljakov	queryless-parent	1.0.0		N/A
 com.github.paveljakov	queryless-parent	1.0.1		N/A
@@ -896,6 +899,7 @@ dev.zio	zio-aws-savingsplans_3	7.31.27.1		d098fbf915c49080595abc8e24a5613c3cd721
 dev.zio	zio-aws-savingsplans_3	7.31.28.1		825c5bc1faad9fd9d16d54d855487300bef1d689
 dev.zio	zio-aws-savingsplans_3	7.31.3.1		f78e17bc87753f9daa12e6bef346623803226582
 dev.zio	zio-aws-savingsplans_3	7.31.30.1		b96b875101d3c3788bd29b6ba23362bfdf252101
+dev.zio	zio-aws-savingsplans_3	7.31.30.2		ab548b97c1184e5ee8c4641abad55f3f99f90a7f
 dev.zio	zio-aws-savingsplans_3	7.31.4.1		d4c2f562fde917d9e106ac5eea52dc4163fa61fa
 dev.zio	zio-aws-savingsplans_3	7.31.6.1		e01b56726b3b387a4c5f1de649ab1d0c2c4d8c5c
 dev.zio	zio-aws-savingsplans_3	7.31.6.2		7289804e35676b8e1ba52168d3e180d657168049
@@ -1272,6 +1276,7 @@ io.kestros.cms.archetypes	kestros-project-archetype	0.0.1		f43133d41f7edb0c260a4
 io.kestros.cms.archetypes	kestros-project-archetype	0.1.0		cf4603af0eff5772af659e19f5516679a664f0b5
 io.kestros.cms.archetypes	kestros-project-archetype	0.2.1		95dc2c4856af83999b1c7178bcac20109a9238a9
 io.kestros.cms.archetypes	kestros-project-archetype	0.3.0		f5a599a520d86189983c3a343be0cdb71290657e
+io.quarkus	quarkus-cache-dev	3.23.0.CR1		196dde3ff6acc46d08d528d96db70df02b9a5ed7
 io.snappydata	gradle-scalatest	0.13-1		568ea9ebdb633e3f2df65ef5c1b93a9c6bde283a
 io.snappydata	gradle-scalatest	0.13-1	groovydoc	ada0b2051ee9cb92f731963a94b09cdf6b24566b
 io.snappydata	gradle-scalatest	0.13.1		f1af3de7fceef7ea5de43ade5d177eaf3aabf7b0
@@ -1405,6 +1410,7 @@ org.apache.storm	storm-jms	2.6.4		e0f97c6cbf8e5c11f80d61a229772a7af09b5ade
 org.apache.storm	storm-jms	2.7.0		3f3164b2fb12b22c04f652d3fc6378b3e863093a
 org.apache.storm	storm-jms	2.7.1		3f80750765b0b38210d59492a9a0357bf3fc383a
 org.apache.storm	storm-jms	2.8.0		6500fe9f42aa8d3f36d8c9d3f2666cd872acbddc
+org.conductoross	java-sdk	.0.3		93eafe8e76e7680d6528c59fce0c6bec7f4ad4aa
 org.conductoross	java-sdk	4.0.0		efe29e3dc90000412d10278d1eb038a4621c8b96
 org.conductoross	java-sdk	4.0.1		5ff5055c01121d93377de8eb5657e5638022e272
 org.conductoross	java-sdk	4.0.2		08f2c8d8e9602d32840b1b901bb0c6be4d42caa8
@@ -1437,6 +1443,10 @@ org.metaborg	pie.api.test	0.2.2		6d761b80a71ece34aeaa28271aef22ffd4b1e5e5
 org.metaborg	pie.api.test	0.3.0		33d3010ec1effa51637fd3ffa3ebb8d91adb945b
 org.metaeffekt.core	ae-common-content	0.136.0		c9634ac9b831cb57f4a0f621b7456a920b6d8fc7
 org.metaeffekt.core	ae-common-content	0.136.0	doc	4da9e1850acdfae770b64328c2d3e32a22fe7d5c
+org.metaeffekt.core	ae-common-content	0.137.0		5d1b70d18e436a1cdf7125cdc293ae695eec47ba
+org.metaeffekt.core	ae-common-content	0.137.0	doc	cb1bc11fd4c1e6850b4dc78ecf16fe456f8e5db0
+org.metaeffekt.core	ae-common-content	0.138.0		ddfd627261f5686d1376191190e2c4d7d43ce776
+org.metaeffekt.core	ae-common-content	0.138.0	doc	c5f2fb27f7ab20b1d8bdc148d294565597a99730
 org.modelmapper.extensions	modelmapper-extensions	0.4.0		N/A
 org.modelmapper.extensions	modelmapper-extensions	0.5.0		N/A
 org.modelmapper.extensions	modelmapper-extensions	0.5.1		N/A

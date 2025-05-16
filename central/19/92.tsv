@@ -541,6 +541,9 @@ hu.bme.mit.theta	theta-core	6.12.2		73b04495a1720b2db1b92ceab81ee8d04966bc44
 hu.bme.mit.theta	theta-core	6.12.3		3db3cd9dca363aaa91ed91ab0a38e3deab5009af
 hu.bme.mit.theta	theta-core	6.13.0		2b109e0b60e6b41996fd564c3026075b3f0d2472
 hu.bme.mit.theta	theta-core	6.13.1		0ca1bb0696bfc53e9e197ede8aff0b96746cfce4
+hu.bme.mit.theta	theta-core	6.13.2		ff57170b9cb01c3cdeb28d60bd90d7d92d97258a
+hu.bme.mit.theta	theta-core	6.14.0		6d3f589945c7610b9632f78febe2aaa633e903d3
+hu.bme.mit.theta	theta-core	6.14.1		b3f269f0e03072832c4234207afa41c36c7a303e
 hu.bme.mit.theta	theta-core	6.2.0		2c46e13a783c5d1f6bbe8b57f9352844b49b0eed
 hu.bme.mit.theta	theta-core	6.3.3		fa4e9d0785d27cf525394742ac9a3469769d70d7
 hu.bme.mit.theta	theta-core	6.3.4		90ae919690ff94215802fbefd1fb0f0498c8ac8c
@@ -764,6 +767,7 @@ io.logz.log4j2	logzio-log4j2-appender	2.0.0		2480ee3dce1ff9ccc24d1d2e723e034995f
 io.logz.log4j2	logzio-log4j2-appender	2.0.1		6f915432b1ceb0228c0894594a91a53209b47750
 io.logz.log4j2	logzio-log4j2-appender	2.1.0		400f7f83ff2b6c2aa332f9321ca3069c73181eba
 io.logz.log4j2	logzio-log4j2-appender	2.2.0		c0c88d2a601e148747ebeeb39d08130c464fadfe
+io.micronaut.aws	micronaut-function-aws-test	.3.1.0		9e4351425f257973fe70db53abf9aae8ae9dfb84
 io.micronaut.aws	micronaut-function-aws-test	2.10.0		97b12b7129f9f0e78f6b24445d691377d4954b1b
 io.micronaut.aws	micronaut-function-aws-test	2.3.0		926fa7ddea3a2a006b354226a8ac9ea7f24a8518
 io.micronaut.aws	micronaut-function-aws-test	2.4.0		3a4fb111202e926fa2fabe76588e4af5b3b10229
@@ -1206,6 +1210,11 @@ it.unibo.collektive	collektive-stdlib-iosx64	24.0.2		N/A
 it.unibo.collektive	collektive-stdlib-iosx64	24.0.2	metadata	914c57fd0acd0fc292d4ef12911247c1b4f34c1b
 it.unibo.collektive	collektive-stdlib-iosx64	24.0.3		N/A
 it.unibo.collektive	collektive-stdlib-iosx64	24.0.3	metadata	7e863e3b3c93d9ee1f75438ced671c747bf9c117
+it.unibo.collektive	collektive-stdlib-iosx64	24.0.4	metadata	6694e840b03911a473c1b63217479071e0f579ab
+it.unibo.collektive	collektive-stdlib-iosx64	24.0.5	metadata	61d51872899945dc9f2dfdcb95b6917f9a855dc6
+it.unibo.collektive	collektive-stdlib-iosx64	24.0.6	metadata	972ca88e9ee0b8ca483c3c7388855dc50cd76aef
+it.unibo.collektive	collektive-stdlib-iosx64	24.0.7	metadata	96b0518a42b1e663f0c4b47f9cd796a27059be75
+it.unibo.collektive	collektive-stdlib-iosx64	24.0.8	metadata	92cd3fb61790d01b89bfcc8061c613ceedcf79ae
 live.lingting.components	component-redis	0.0.1		126badb2ffb586037bf138fc95e7467aa267369e
 live.lingting.components	component-redis	0.0.2		82e80ef6156a1d2245e0e98e50360393400390e6
 live.lingting.components	component-redis	0.0.3		519a74c2f10e87ff271f20d2ddf24f497b456d95
@@ -1331,6 +1340,7 @@ org.apache.camel	camel-debezium-mysql	4.8.3		1b7d68e972b26f044c0ea2f67afc82beba3
 org.apache.camel	camel-debezium-mysql	4.8.4		e380994d965dee8554fe5f50cf32453e7f167d64
 org.apache.camel	camel-debezium-mysql	4.8.5		c5491c59d60d55e59949eda081c920ca40ae3bff
 org.apache.camel	camel-debezium-mysql	4.8.6		0b8b5bc2268a313c89f47107a06ce80ef78de185
+org.apache.camel	camel-debezium-mysql	4.8.7		2cfb89652907c863a01771b39b5d643b130a1d1b
 org.apache.camel	camel-debezium-mysql	4.9.0		85b21b4f072d249a07dcdfda50592a7537a9b41d
 org.apache.hudi	hudi-metaserver-client	0.13.0		0b234cdd92b28015794cacaa4b83a530c61d85e9
 org.apache.hudi	hudi-metaserver-client	0.13.1		9f044b1c8678b7b2c29ea29125c56c5d077f0e80
@@ -1533,6 +1543,8 @@ org.geneweaver	gweaver-bulk-import	1.7.2		6792868fd1e59ba41ee262f1bd277d0bd3e454
 org.geneweaver	gweaver-bulk-import	1.7.2	jar-with-dependencies	538a52e20e2e974342a900a01e656742e2b493fd
 org.geneweaver	gweaver-bulk-import	1.7.3		6d11911370a12f067b8d3d8d848ca4e3a515538a
 org.geneweaver	gweaver-bulk-import	1.7.3	jar-with-dependencies	ba863bdf5145dfcbcc45874c6e73916b727ca713
+org.geneweaver	gweaver-bulk-import	1.7.4		8b8ddef2d6c3155b4ace15b640a62023792f50d1
+org.geneweaver	gweaver-bulk-import	1.7.4	jar-with-dependencies	884d0338d426baf018e271d289b13bda003ccb49
 org.gradoop	gradoop-examples-temporal	0.5.1		dbf7a597c670d47bb74c4af7cfe61850e4d6f3d3
 org.gradoop	gradoop-examples-temporal	0.5.2		42bf2bb5dc295d34ff099a794f08e12137fa6842
 org.gradoop	gradoop-examples-temporal	0.6.0		ef35f96dbab41b79e4be5c5580febfef8c0556fb
@@ -1596,10 +1608,12 @@ org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.1.20-Beta2		a5024c7edaf0
 org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.1.20-RC		e32a27a40a0bc241e7fc5326f4b807f12d4aeeea
 org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.1.20-RC2		72aabd72fee5c11e6335287d66302a7b5b76e6a9
 org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.1.20-RC3		7f1eb0f8508045c99059eafa07dc7b714a82d854
+org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.1.21		6b98a404e2891ee40b822db5003623ec72d64c37
 org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.1.21-RC		6e8c808f2ea92b1630cd140d170dd64643bbce40
 org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.1.21-RC2		01539de1d36dd52debf4c6120fc0ce8740b13822
 org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.2.0-Beta1		bf9de4bfb1ae915d07eb8d5e98bf65db1cbb0c1c
 org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.2.0-Beta2		12240bb55985c109725729f9c2a1a23d1c49e929
+org.jetbrains.kotlin	kotlin-gradle-plugin-annotations	2.2.0-RC		7f4ee512b5c04bca5653ca0232a7e6808ece79c7
 org.julienrf	play-json-derived-codecs_2.13	10.0.0		dc28e2f674895580e2e57355961b504014271bff
 org.julienrf	play-json-derived-codecs_2.13	10.0.1		e87654232d1d0c37d25c97d8865d06fc665a8fe0
 org.julienrf	play-json-derived-codecs_2.13	10.0.2		5828e5db346140422661c1f718d8b34d81214a7a

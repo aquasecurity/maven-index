@@ -1,6 +1,7 @@
 br.com.faroltech.vraptor	vraptor-email	0.0.2		66cd85d3761ff0a4f3e9499ec1b1bfbc9d3239a7
 ch.epfl.scala	bloop-cli_2.13	2.0.0		c1dfadf4e4e0e2f3999e15310c3fa19b236249ff
 ch.epfl.scala	bloop-cli_2.13	2.0.1		ba9ff3b0b5f078f85bff9f4d67fff2b0ae849629
+ch.epfl.scala	bloop-cli_2.13	2.0.10		48679ddb3bc6f908948b3723b230998e610dd5cb
 ch.epfl.scala	bloop-cli_2.13	2.0.2		a179c722aeaf5ef6ec2daaba9bf7591ea6e164bb
 ch.epfl.scala	bloop-cli_2.13	2.0.3		1a29eeb80b11dc1dc6845915971448298a017dd5
 ch.epfl.scala	bloop-cli_2.13	2.0.4		9d315f0e9f7d64c4adaeea8ca8680e1c1591ab93
@@ -739,6 +740,7 @@ dev.zio	zio-aws-efs_3	7.31.27.1		651466500ac9bfc24989ae2ebdd2b9caf1f8aacb
 dev.zio	zio-aws-efs_3	7.31.28.1		dbcbe7b4ab55aa0c475023b49438f8c6de97d9d7
 dev.zio	zio-aws-efs_3	7.31.3.1		a5b36430597ab6dafebf42ade28beecdef20c7d0
 dev.zio	zio-aws-efs_3	7.31.30.1		59c2535162009a967490e1b37ee7803edef398ee
+dev.zio	zio-aws-efs_3	7.31.30.2		82033d692f1308a3f434af37e01906b55646b0bd
 dev.zio	zio-aws-efs_3	7.31.4.1		5810ca070eb016c8af0ee584d3ef9db6c134a0f2
 dev.zio	zio-aws-efs_3	7.31.6.1		aea081e213fb6a3c646726def7dde311052fa968
 dev.zio	zio-aws-efs_3	7.31.6.2		35df9a8588f0ff5bd425c0a3d91eb67f88d241d1
@@ -1002,6 +1004,8 @@ net.folivo	trixnity-client-repository-room-jvm	4.14.3		91f2a2be3b0ebfa58bafa3180
 net.folivo	trixnity-client-repository-room-jvm	4.14.4		91f2a2be3b0ebfa58bafa3180474744515c31a25
 net.folivo	trixnity-client-repository-room-jvm	4.15.0		91f2a2be3b0ebfa58bafa3180474744515c31a25
 net.folivo	trixnity-client-repository-room-jvm	4.15.1		91f2a2be3b0ebfa58bafa3180474744515c31a25
+net.folivo	trixnity-client-repository-room-jvm	4.15.2		91f2a2be3b0ebfa58bafa3180474744515c31a25
+net.folivo	trixnity-client-repository-room-jvm	4.15.3		91f2a2be3b0ebfa58bafa3180474744515c31a25
 net.folivo	trixnity-client-repository-room-jvm	4.5.0		f00885d29da696407c3c666ad0b4112c9ec15b5c
 net.folivo	trixnity-client-repository-room-jvm	4.5.1		f00885d29da696407c3c666ad0b4112c9ec15b5c
 net.folivo	trixnity-client-repository-room-jvm	4.6.0		ef059d4d823ddadebb220780c058b38157c552b2
@@ -1338,6 +1342,7 @@ net.n2oapp.enginefactory	engine-factory	7.28.3		f631492e0f10eadddeb3c8446600bc71
 net.n2oapp.enginefactory	engine-factory	7.28.4		b5f11c8295b0cdaa714f33ebe002a5061faf9f05
 net.n2oapp.enginefactory	engine-factory	7.28.5		49514f20def311d7e579be6c3cb7d39bf6ccf4cb
 net.n2oapp.enginefactory	engine-factory	7.28.6		70f93a0dd700b9bed2c94469eb1f2946a1893317
+net.n2oapp.enginefactory	engine-factory	7.28.7		6b6169b320ed4db290231ad5b2b499fb7c8969fa
 net.n2oapp.enginefactory	engine-factory	7.3.1		29328c874206e0735e29824588ef9572169586c9
 net.n2oapp.enginefactory	engine-factory	7.3.10		9b40eaec62e29fc17ea43a1aa47cdb374d0a1399
 net.n2oapp.enginefactory	engine-factory	7.3.11		e15087696b84e1f2f6e24d65328297e1f808b5c8
@@ -1774,6 +1779,7 @@ org.eclipse.ditto	ditto-json	3.7.0		f25c59254cb56e08f277e65d721cbdd978159e82
 org.eclipse.ditto	ditto-json	3.7.1		a5639f1ae03a34d6c1076fda1c722a8ea89dcc4d
 org.eclipse.ditto	ditto-json	3.7.2		709c8d22aa1afd595098c4fe9d68c5ca313952fa
 org.eclipse.ditto	ditto-json	3.7.3		8cfe7b9b92ffa0f834cf28b15e492efa52fe3a3d
+org.eclipse.ditto	ditto-json	3.7.4		7c2693a41b7018db8699a936493051d67b46fb9e
 org.elder.sourcerer	sourcerer-kotlin	v5.1.0		77f96a77df772c0aeb553dfbad58521b726037c4
 org.elder.sourcerer	sourcerer-kotlin	v5.1.1		4eccad376f3a66d1e079835059b13b693b4d44f7
 org.elder.sourcerer	sourcerer-kotlin	v5.2.0		9c052ccd5aece468c6708ffbc0435f1b6f704152
@@ -2375,6 +2381,9 @@ tz.co.asoft	symphony-collections-macosx64	3.0.8		N/A
 tz.co.asoft	symphony-collections-macosx64	3.0.8	metadata	e5b64b1399305bf43268ee36cf5ffdb329d4258e
 tz.co.asoft	symphony-collections-macosx64	3.0.9		N/A
 tz.co.asoft	symphony-collections-macosx64	3.0.9	metadata	4429d09b83a31e368221d459b911f704918c0541
+tz.co.asoft	symphony-collections-macosx64	3.1.1	metadata	b641b0fd49e0f74ffb51d985353f2fecf954586a
+tz.co.asoft	symphony-collections-macosx64	3.1.11	metadata	54614005c84a253c73d5e161a9e8021bced10670
+tz.co.asoft	symphony-collections-macosx64	3.1.12	metadata	11c8b72736614bd97874cdc401ad2003c0f38cb1
 tz.co.asoft	theme-core-jvm	0.0.1		6fe592953949f348253c3b520b3770b0bda6b2f4
 tz.co.asoft	theme-core-jvm	0.0.2		5bc15bcb3fa53e8c0b09594317eb7bac93bec1dd
 tz.co.asoft	theme-core-jvm	0.0.3		7d0a4f6258384e7a1ce78639fa2b54e40b0da0d4

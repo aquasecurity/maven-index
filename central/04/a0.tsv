@@ -270,6 +270,7 @@ com.fasterxml.jackson.datatype	jackson-datatype-guava	2.18.0-rc1		d8bf938fd87daa
 com.fasterxml.jackson.datatype	jackson-datatype-guava	2.18.1		c14cc8860ed233ec996756b6d0c383fbe76c92da
 com.fasterxml.jackson.datatype	jackson-datatype-guava	2.18.2		7c3184a04f572adab9443e8ef17407f235ac5f4f
 com.fasterxml.jackson.datatype	jackson-datatype-guava	2.18.3		71e86ac25a8641aa3002201f0bc4d75a1e75d1ee
+com.fasterxml.jackson.datatype	jackson-datatype-guava	2.18.4		7c6f9c44318e0933cf63c29bca93d406db1832a9
 com.fasterxml.jackson.datatype	jackson-datatype-guava	2.19.0		a51cb153d23d37f0700cd6f3a4de1c3081a49b0c
 com.fasterxml.jackson.datatype	jackson-datatype-guava	2.19.0-rc2		1987207b8a242e2cb562fb8486e39178de5ba68f
 com.fasterxml.jackson.datatype	jackson-datatype-guava	2.2.0		a5cc7deaa5312c2138de37806d8dc52985a3f287
@@ -470,6 +471,8 @@ com.google.cloud	google-cloud-chat	0.22.0		6a8145b31485192cc33e4c56cf7643aeca26b
 com.google.cloud	google-cloud-chat	0.23.0		92ac33a36b984d49d918f69526c2b84d42ef6cbf
 com.google.cloud	google-cloud-chat	0.24.0		7eb1e82baa40aa4eb8e4ce48e58913f98ac5c3c7
 com.google.cloud	google-cloud-chat	0.25.0		d0a35276bf526bbcfc90ea3ddd70a806554d1540
+com.google.cloud	google-cloud-chat	0.26.0		b56b855f00651fe6a674de893e73c57bebe7b06a
+com.google.cloud	google-cloud-chat	0.27.0		bb922024bb147d5ea15c6c57b9e95af5cd0bd027
 com.google.cloud	google-cloud-chat	0.3.0		4ee65987d3061fdc4970778c11e63912cab5fbab
 com.google.cloud	google-cloud-chat	0.4.0		bfef80704e7963996aaa6f167a67e25fff773cb0
 com.google.cloud	google-cloud-chat	0.5.0		cb396c55fc3cf1f9b18fbd0579061742cfa0b881
@@ -484,6 +487,7 @@ com.hindog.spark	spark-mergejoin_2.10	1.6.1		4079a4ab4f4f0e63dd965fd0c98c0552f99
 com.hindog.spark	spark-mergejoin_2.10	2.0.0		751d83c16c40f91e1e80056d21f0639be00d67e0
 com.hindog.spark	spark-mergejoin_2.10	2.0.1		4f0d0b035a5f4642348ca0f2526a1ae290e2506f
 com.ibm.cloud.eventstreams	schemaregistry	1.3.1		4802eb77979b5d3c65fd04c8d8a06a32238edcc5
+com.ibm.cloud.eventstreams	schemaregistry	1.4.0		9365ffd753aa9c04ed9b4158c8e54c8ade68f0bd
 com.lihaoyi	ammonite-cross-3.1.1-repl_2.13.7	2.5.1-6-5fce97fb		07d2ce693adcf09b4df4330dca3e197773a5da42
 com.lihaoyi	ammonite-cross-3.1.1-repl_2.13.7	2.5.1-7-cd989427		b049bc81d4d0aeaf51e807161f156bd93bd5bf78
 com.lihaoyi	ammonite-cross-3.1.1-repl_2.13.7	2.5.11		a1d1b17b8c8835e47242815cd36136ee371bc158
@@ -1118,6 +1122,7 @@ dev.zio	zio-aws-cognitosync_2.13	7.31.27.1		51996c403c0cfdf760f8f672ac9e826667d7
 dev.zio	zio-aws-cognitosync_2.13	7.31.28.1		235db5e3aab521b88560d1dc514a78362cf823b8
 dev.zio	zio-aws-cognitosync_2.13	7.31.3.1		ea3c952142c0590413b93c5d471175789e32f77a
 dev.zio	zio-aws-cognitosync_2.13	7.31.30.1		56a51e97d7e83c3db8dd819c61e505eba399045d
+dev.zio	zio-aws-cognitosync_2.13	7.31.30.2		5a1a428f8de649ff2fa13e8da55ead09cf91a960
 dev.zio	zio-aws-cognitosync_2.13	7.31.4.1		bc589f23ff58b46998b4f9e2b841daef17e5139b
 dev.zio	zio-aws-cognitosync_2.13	7.31.6.1		588e0c6ece014fdb100cc6cb50434aa729c2cb9f
 dev.zio	zio-aws-cognitosync_2.13	7.31.6.2		6bf2d8858b6d8472d1d2be6c8192762e3d404a0c
@@ -1397,6 +1402,7 @@ io.airlift	log	330		015b49c92662415e4257c52daac753eb1d0b4f83
 io.airlift	log	331		ffe3ae1f71829817144279806c96fac3dbbc602a
 io.airlift	log	332		0aa8b909fb3556fcc1c7f95754d821c29e64cc73
 io.airlift	log	333		aa98c9e6cab5a01fa50fb7f44ead8a170a667959
+io.airlift	log	334		ee26c114f34e830593660dc91b03dbbbc2059be8
 io.dropwizard	dropwizard-servlets	0.7.0		07af37135230ddafeb92f41ba9f145a76077eb27
 io.dropwizard	dropwizard-servlets	0.7.0-rc1		1fcb9c538aa988f5eb0d728c6e6ba78805d6cf58
 io.dropwizard	dropwizard-servlets	0.7.0-rc2		b464e3542d597a0b7f15e59742be9b67377c725c
@@ -1840,6 +1846,7 @@ me.proton.core	challenge-domain	30.4.4		ddc97f660577b5ef8eb13dba3a539ac9eee7ac75
 me.proton.core	challenge-domain	31.0.0		bcd1c9a39387348bde4df35b9def7325c217f506
 me.proton.core	challenge-domain	32.0.0		218cd94f94304966233233a62e789c2d9d491e31
 me.proton.core	challenge-domain	32.0.1		82cc6cdac12f815f99e497ea4eb247603beb2b7a
+me.proton.core	challenge-domain	32.0.2		292022ab4edff582bfd1b83fc143678804d34db8
 me.proton.core	challenge-domain	7.1.10		07722e8a9c2dc9192b5350cc2554624c5692df83
 me.proton.core	challenge-domain	7.1.11		e3ae00783757827c529eb4cfde5a92d8aecdcc19
 me.proton.core	challenge-domain	7.1.6		e7d7ac3079ed715ca8069e61049204f293e7f375
@@ -2209,6 +2216,7 @@ org.apache.camel	camel-sql	4.8.3		857615d4154c1c31c350c1bdf35e1c9aa7f445dd
 org.apache.camel	camel-sql	4.8.4		3d47f8896a64a393e324d517e65ee77bd3b799f3
 org.apache.camel	camel-sql	4.8.5		f336bced00d492b8691ca286e97fd8f06d02e5e0
 org.apache.camel	camel-sql	4.8.6		cd09a7fd24af77561b5431ff1aee9944bd2db0a3
+org.apache.camel	camel-sql	4.8.7		438539665ec2513612acf7f277f87731bfccb584
 org.apache.camel	camel-sql	4.9.0		e7e0bddb75b4c4f9787f0f887e47553a9b7d8dfd
 org.apache.dubbo.extensions	dubbo-rpc-rmi	1.0.0		b077df891574e3a1c36170d4e32c1a341b1e47fd
 org.apache.dubbo.extensions	dubbo-rpc-rmi	1.0.1		483d5ad15bfe516b6116848e781cf90715854a88
@@ -2586,6 +2594,7 @@ org.springframework.ai	spring-ai-vertex-ai-gemini	1.0.0-M5		f445448ed2c5a862099b
 org.springframework.ai	spring-ai-vertex-ai-gemini	1.0.0-M6		fa0f8c091b2f92a29476ffcf1190f9865a83bfa5
 org.springframework.ai	spring-ai-vertex-ai-gemini	1.0.0-M7		aee83a1913cba6be90c838f6221fd848cb193e66
 org.springframework.ai	spring-ai-vertex-ai-gemini	1.0.0-M8		eed0a3bd567d348b474389ae4a83c1d586f1fc43
+org.springframework.ai	spring-ai-vertex-ai-gemini	1.0.0-RC1		f0749bcbf7de1da5c7f66f83f22f1607b647c3fc
 org.truenewx.tnxjeex	tnxjeex-openapi	2.2.0		N/A
 org.truenewx.tnxjeex	tnxjeex-openapi	2.2.1		N/A
 org.truenewx.tnxjeex	tnxjeex-openapi	2.3.1		N/A
@@ -2657,6 +2666,7 @@ org.webjars.npm	undeclared-identifiers	1.1.2		541b2587be7ae3b914459be81c291bf8c5
 org.webjars.npm	undeclared-identifiers	1.1.3		7e39ffab68ba2447ff40017e44787155e371c478
 org.wikimedia.search	opensearch-extra-common	1.3.19		629685183697e6147174d09b74f626d209586258
 org.wikimedia.search	opensearch-extra-common	1.3.20		eaad83373be23b3758e09afddf0f805c058cb19c
+org.wikimedia.search	opensearch-extra-common	1.3.20-wmf1		f436c387c06b9cbce61473d3af0cb50b59e68c46
 org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.server.userstore.common	1.0.100		bb8c3f7e77272d986d4a2d29d8451dd085d8528e
 org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.server.userstore.common	1.0.101		9241e4fd4799d289d8f27e80afe2942c451a95e0
 org.wso2.carbon.identity.server.api	org.wso2.carbon.identity.api.server.userstore.common	1.0.102		2c1fa184b451c767c05bceee88b3cf02c8a6b9f7

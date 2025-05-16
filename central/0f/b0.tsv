@@ -159,6 +159,7 @@ com.github.nruzic.org.apache.maven.shared	maven-filtering	3.1.2-patch1		ad5a9982
 com.gluonhq	robovm-dist	2.3.1-ios11		N/A
 com.gluonhq	robovm-dist	2.3.5-ios11		N/A
 com.gluonhq	robovm-dist	2.3.5-ios12		N/A
+com.gw2tb.gw2api	api-client-watchosarm64	0.10.0	metadata	4e8f1033938168d25df4a762efd83818d69d79ed
 com.gw2tb.gw2api	api-client-watchosarm64	0.5.0		N/A
 com.gw2tb.gw2api	api-client-watchosarm64	0.5.0	metadata	fdf8f1e8d208aa245749c31de7c76c3f9bd7c76f
 com.gw2tb.gw2api	api-client-watchosarm64	0.6.0		N/A
@@ -277,6 +278,7 @@ de.jensklingenberg.ktorfit	ktorfit-converters-call-watchosarm32	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-converters-call-watchosarm32	2.5.0	metadata	b02afabd5bf62871c62cac4a6badf088cca0bd4a
 de.jensklingenberg.ktorfit	ktorfit-converters-call-watchosarm32	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-converters-call-watchosarm32	2.5.1	metadata	61f274c3933c7776917eb82b27828a12c36c76fc
+de.jensklingenberg.ktorfit	ktorfit-converters-call-watchosarm32	2.5.2	metadata	77c909a720d0a75ee5e4e4cba465c7bebbea8d34
 de.schmizzolin	yogi	1.4.0		34209218e630de392cb744946584ff4eee94c468
 de.schmizzolin	yogi	1.4.0	springboot	da180c70f5e26d7571884e69f86934f8d732d27e
 eu.codlab	kotlin-preview-android	1.1.0		N/A
@@ -577,6 +579,7 @@ io.quarkus	quarkus-hibernate-reactive-deployment	3.15.2		e28c3de8ca2ffa0fac9b90a
 io.quarkus	quarkus-hibernate-reactive-deployment	3.15.3		b19ae94f3c1bfdb34da6f2aaaa95e3d3489df403
 io.quarkus	quarkus-hibernate-reactive-deployment	3.15.3.1		1c972e9bb07f269c5a4af69fc2c141874fa9f9b9
 io.quarkus	quarkus-hibernate-reactive-deployment	3.15.4		19c6ccef12d7f09666cf30aebf43ac87bc3eb307
+io.quarkus	quarkus-hibernate-reactive-deployment	3.15.5		59c5573e0feedb08610bb78c58ebddfd5f9e708a
 io.quarkus	quarkus-hibernate-reactive-deployment	3.16.0		4bb08cbdff151671d8b399d48052f86c7eb66973
 io.quarkus	quarkus-hibernate-reactive-deployment	3.16.0.CR1		b624d6b90cf77d457962f5b31be5e73a246e2a9c
 io.quarkus	quarkus-hibernate-reactive-deployment	3.16.1		3f49991a5177146710f83ed4a17b7c77e6f382d4
@@ -621,6 +624,7 @@ io.quarkus	quarkus-hibernate-reactive-deployment	3.2.8.Final		d0f78f39bc950a0fae
 io.quarkus	quarkus-hibernate-reactive-deployment	3.2.9.Final		527eafe1b25e12ce8a8efd6a0b1a3999d49bcf40
 io.quarkus	quarkus-hibernate-reactive-deployment	3.20.0		d987c4a19c7db8ce524e3b2d103417eaf13967cf
 io.quarkus	quarkus-hibernate-reactive-deployment	3.20.0.CR1		f03f6a5414500da85d9f6b3f3c28be404e9eff3c
+io.quarkus	quarkus-hibernate-reactive-deployment	3.20.1		3449822969d88e24f11bcb530e967a65a85cb458
 io.quarkus	quarkus-hibernate-reactive-deployment	3.21.0		aa9fa3ad1b58c672de3ed074393ac7c9d60713db
 io.quarkus	quarkus-hibernate-reactive-deployment	3.21.0.CR1		8c868b7e855e1c945c7863d35e6b45db18c37665
 io.quarkus	quarkus-hibernate-reactive-deployment	3.21.1		72e47906fc9594e34e8243622c28586280808299
@@ -630,6 +634,9 @@ io.quarkus	quarkus-hibernate-reactive-deployment	3.21.4		46d9838658e09082108cea1
 io.quarkus	quarkus-hibernate-reactive-deployment	3.22.0		08e7a10ea34417b6d013657fb6c6b6750294ab1c
 io.quarkus	quarkus-hibernate-reactive-deployment	3.22.0.CR1		455795ba8188157c031d4d0667dc945b2bcbd360
 io.quarkus	quarkus-hibernate-reactive-deployment	3.22.1		3aef17a0c682133c66fb8c75b78e89727019bc20
+io.quarkus	quarkus-hibernate-reactive-deployment	3.22.2		264cd17478c34a15f36918c3bd061493dd577650
+io.quarkus	quarkus-hibernate-reactive-deployment	3.22.3		5e190d5628b4cb72504d38a931a6baa345050ef6
+io.quarkus	quarkus-hibernate-reactive-deployment	3.23.0.CR1		9fe7df7c1f652d629c86b0b10c1cf982397b30bb
 io.quarkus	quarkus-hibernate-reactive-deployment	3.3.0		f0aa535f11f0fae683effe6575a39162bf942506
 io.quarkus	quarkus-hibernate-reactive-deployment	3.3.0.CR1		a87ff51916ff4d388977a75d080a0734abc85c0d
 io.quarkus	quarkus-hibernate-reactive-deployment	3.3.1		f1cef786a548e2fcbeca8c2871d74ad3cd1a34f0
@@ -800,6 +807,7 @@ org.apache.camel	camel-test-infra-messaging-common	4.8.3		7cc7ceccbd94b2a70fc920
 org.apache.camel	camel-test-infra-messaging-common	4.8.4		600d3857f52b34349b8138317e5f4992f169475d
 org.apache.camel	camel-test-infra-messaging-common	4.8.5		3ce1d752fa6c7fb759135169db03cc190a10c837
 org.apache.camel	camel-test-infra-messaging-common	4.8.6		8adda5ea8af5a2a1489e84789865d294ade3430d
+org.apache.camel	camel-test-infra-messaging-common	4.8.7		ade49ea9516d0b2578057292a6f38e867c794b8e
 org.apache.camel	camel-test-infra-messaging-common	4.9.0		9d43ffa083f30f673d527977bcad39e1eee32e0a
 org.apache.jackrabbit	jackrabbit-jca	1.0		N/A
 org.apache.jackrabbit	jackrabbit-jca	1.0.1		N/A
@@ -1532,6 +1540,9 @@ tz.co.asoft	symphony-list-macosarm64	3.0.8		N/A
 tz.co.asoft	symphony-list-macosarm64	3.0.8	metadata	5e13a9ffa959ac08d2d0ebfbbb86051fbaffd30f
 tz.co.asoft	symphony-list-macosarm64	3.0.9		N/A
 tz.co.asoft	symphony-list-macosarm64	3.0.9	metadata	893272814a688bca708d80a56f1c9df19567d869
+tz.co.asoft	symphony-list-macosarm64	3.1.1	metadata	dd416965e74fb67d4447d75848d341054d1549d2
+tz.co.asoft	symphony-list-macosarm64	3.1.11	metadata	c3c1b7d047d9fd3cba7487e40cdf8ff992d4d06b
+tz.co.asoft	symphony-list-macosarm64	3.1.12	metadata	d6833f0dc47a7578094c073ef74d46911bcf2aae
 uk.camsw.rx	rx-test-kafka	2.0-0-RC1		c182ec341b1773a0a321dd035d8dac67acd0d6f3
 uk.camsw.rx	rx-test-kafka	2.0.0		2d6ae8575e14489f30efb71dedcb285d9693f494
 uk.camsw.rx	rx-test-kafka	2.0.1		27c588e796dfa1ad304d05393779af8ae15b78bb

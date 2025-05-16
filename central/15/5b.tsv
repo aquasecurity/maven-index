@@ -14,6 +14,7 @@ cloud.piranha.extension	piranha-extension-omnifaces-omniservices	25.1.0		4f61c7f
 cloud.piranha.extension	piranha-extension-omnifaces-omniservices	25.2.0		2c6c50052316f641ceba860166a1c2d3721ac37d
 cloud.piranha.extension	piranha-extension-omnifaces-omniservices	25.3.0		186452c0a2973ffa1338e7ccd6e866d977b913a2
 cloud.piranha.extension	piranha-extension-omnifaces-omniservices	25.4.0		d0b7685e96d24eb16747dfd6ad0e8df62b062262
+cloud.piranha.extension	piranha-extension-omnifaces-omniservices	25.5.0		9838848d8a663e49dfe3fac92e459b1887d19d04
 cn.t	springboot-parent-pom	1.0.0.RELEASE		N/A
 cn.t	springboot-parent-pom	1.0.1.RELEASE		N/A
 cn.t	springboot-parent-pom	1.0.2.RELEASE		N/A
@@ -61,6 +62,7 @@ com.eygraber	compose-placeholder-iosx64	1.0.1		N/A
 com.eygraber	compose-placeholder-iosx64	1.0.1	metadata	9963a6bd0d7c1242b3ff97de2e103e1c5c04ff4a
 com.eygraber	compose-placeholder-iosx64	1.0.10		N/A
 com.eygraber	compose-placeholder-iosx64	1.0.10	metadata	d09d61b567e926f57191024a70393c20006231c5
+com.eygraber	compose-placeholder-iosx64	1.0.11	metadata	45a5b6b19105d29a548ec25d4b12733609bc25de
 com.eygraber	compose-placeholder-iosx64	1.0.2		N/A
 com.eygraber	compose-placeholder-iosx64	1.0.2	metadata	afcf917ac5abd3f6d731b68a6d687ba78e75b69c
 com.eygraber	compose-placeholder-iosx64	1.0.3		N/A
@@ -373,6 +375,9 @@ dev.inmo	micro_utils.coroutines-linuxx64	0.25.5		N/A
 dev.jorel	commandapi-bukkit-test-impl-1.20.5	10.0.0		c113744a709719d4ba0f6f2cc8955153836ddca8
 dev.jorel	commandapi-bukkit-test-impl-1.20.5	10.0.0	mojang-mapped	6dca5b755bc592486528b56f32b2337cc9754b51
 dev.jorel	commandapi-bukkit-test-impl-1.20.5	10.0.0	remapped-obf	ebc9ce890870007e2c83b34073bcd30f20fe55f8
+dev.jorel	commandapi-bukkit-test-impl-1.20.5	10.0.1		2a9364572a19e8034ebae210f3f7f03b6606cc5e
+dev.jorel	commandapi-bukkit-test-impl-1.20.5	10.0.1	mojang-mapped	19bc8b6b229cd82ae20b9c1876a4cf616b186934
+dev.jorel	commandapi-bukkit-test-impl-1.20.5	10.0.1	remapped-obf	af357539f2df4ea9311cf0ebb778983d5b6077ce
 dev.jorel	commandapi-bukkit-test-impl-1.20.5	9.4.0		a93605c3b859ea8c83b7cdb28c9ef4ca63b9b83e
 dev.jorel	commandapi-bukkit-test-impl-1.20.5	9.4.0	mojang-mapped	82c9e6ecaf249d5ff83e23a9cbef19de12ab5a95
 dev.jorel	commandapi-bukkit-test-impl-1.20.5	9.4.0	remapped-obf	065cbc3441001ded99bd17d9cca63c358cc35bb3
@@ -540,6 +545,7 @@ io.ktor	ktor-serialization-kotlinx-protobuf-linuxx64	3.0.3		830d9df5015c2b7baf24
 io.ktor	ktor-serialization-kotlinx-protobuf-linuxx64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-serialization-kotlinx-protobuf-linuxx64	3.1.1		472a9a69732ae927ff259fbbd5d5391045afd769
 io.ktor	ktor-serialization-kotlinx-protobuf-linuxx64	3.1.2		c7ea590251306e7d85065e7df32befb8f97b0096
+io.ktor	ktor-serialization-kotlinx-protobuf-linuxx64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.openscore	score-node-api	0.1.251		205957a1bacd1206243e07157daa64cf58cb6277
 io.openscore	score-node-api	0.1.264		704fef7510b5b8699d6e6096c568c5069e1574cc
 io.openscore	score-node-api	0.1.266		12a6a3bfa6413acdf6295354c868a38419c8eded
@@ -1331,6 +1337,7 @@ io.streamnative	pulsar-broker-common	4.0.1.2		0e5179bc9aa8b4a3ffc88b293d5b909b22
 io.streamnative	pulsar-broker-common	4.0.1.3		88ef516dbf49cfff38170a6169b9f91d509d9c6f
 io.streamnative	pulsar-broker-common	4.0.1.4		42f9ac4d7d20d2c3f1969f99d07971ced403f011
 io.streamnative	pulsar-broker-common	4.0.3.1		b74310ac97cd9067e932d489f1ddb813c26db15f
+io.streamnative	pulsar-broker-common	4.0.4.2		c5dc920360ddfdec112104431cb00098b1c058df
 io.streamnative	pulsar-broker-common	master-rc-daily		670b132677c81d9357d2876a009647302040d58a
 io.streamnative	pulsar-broker-common	v2.8.0-rc-202106091140		fce826067d0dd079017b5bbbc668f0203e7f36e7
 io.streamnative	pulsar-broker-common	v2.8.0-rc-202106121853		96ce0b6c661184292c2dfa243d4b003ce77da52a
@@ -2122,6 +2129,7 @@ io.streamnative	pulsar-io-batch-discovery-triggerers	4.0.1.2		b6c994557ce5b152d4
 io.streamnative	pulsar-io-batch-discovery-triggerers	4.0.1.3		3a11b89918f41f450bcace244a6fbf1578bd13e9
 io.streamnative	pulsar-io-batch-discovery-triggerers	4.0.1.4		a3eb1ac3682d5e09c265726a490cbe28437573c3
 io.streamnative	pulsar-io-batch-discovery-triggerers	4.0.3.1		374e0bedad5cdd66d132727c443cbbc9df3cc133
+io.streamnative	pulsar-io-batch-discovery-triggerers	4.0.4.2		d1164a779845e667ddcd9b5c9890cabdaf942d5b
 io.streamnative	pulsar-io-batch-discovery-triggerers	master-rc-daily		f168f3338f3a146e316f673592eead9c7014f56b
 io.streamnative	pulsar-io-batch-discovery-triggerers	v2.8.0-rc-202106091140		47e6cb263237f326ff065d8c830aca5656b14217
 io.streamnative	pulsar-io-batch-discovery-triggerers	v2.8.0-rc-202106121853		fac7d7458fa279810696fec0611eaab7afcaf06e

@@ -62,6 +62,7 @@ com.commercetools	sphere-mongo-derivation-magnolia_2.13	0.15.3		aa978b4e2d1aef16
 com.commercetools	sphere-mongo-derivation-magnolia_2.13	0.15.4		d44d65ce46a6a3d55783b612df53b1d1ae69b1f0
 com.commercetools	sphere-mongo-derivation-magnolia_2.13	0.15.5		7cbb35b0a7fa01a1537f82e906957a08b6d121e0
 com.commercetools	sphere-mongo-derivation-magnolia_2.13	0.15.6		f976255440b723f35f39a566ec2adc27067a0d95
+com.commercetools	sphere-mongo-derivation-magnolia_2.13	0.15.7		e653b3ba047643340f5027a0f33b96b5403063cd
 com.databricks	release-2.13	0.1.2		58918cd1976ac9aeb698f2231adb1be0e3f2793e
 com.databricks	release-2.13	0.1.3		ec8a2e2a93121b954a3a83da4e2b541faddea063
 com.databricks	release-2.13	0.1.4		3f52250c99a6fe4b1614dd36b2412a2025a0e82a
@@ -608,6 +609,7 @@ dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.27.1		a5a1651ebd05b4e33bafa13fe030b
 dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.28.1		fa0d7cacce4449055ce89b3863c5da8ccb01cb4d
 dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.3.1		044099373d63b32039d09bf52f9803cf172ed3b8
 dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.30.1		626eafa0387add3da59c8b54d0ab14adac9529bd
+dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.30.2		7414231d8bf5e8ed27102a647674a110673c7f69
 dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.4.1		f091d02f9bc057910822a427affa5ef84c4ca764
 dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.6.1		da1f62edaa7e602274b0b7d10461288b8e179a2a
 dev.zio	zio-aws-ec2instanceconnect_2.12	7.31.6.2		c35a2f30686452ff4f15787285010f362c6d084b
@@ -774,6 +776,7 @@ io.github.congcoi123	tenio-engine	0.2.0		a67fa18d7bbeea805ff30937520c589d6c697aa
 io.github.congcoi123	tenio-engine	0.5.0		2018c8855ad92579b89535640223a4720429a968
 io.github.congcoi123	tenio-engine	0.6.0		e15f1d38f9d3038697e52507577174d4601e2201
 io.github.congcoi123	tenio-engine	0.6.1		57488a305e5398f2600be81dd4efda0f450afcdf
+io.github.congcoi123	tenio-engine	0.6.2		ff25d73e48043596e51b4ccd5ad4db765fb951af
 io.github.dos65	make-core_2.13	0.0.1		4e90b510dce6c95aa6e96564f4be1774678b65b1
 io.github.jianjianghui	autolog-demo	1.2.1		d8b3814ed7e3e1c0a43b9c308c0b205d51503dc9
 io.github.jianjianghui	autolog-demo	1.2.2		3f396a39091baf0a1075a89d60118847281305dd
@@ -1200,6 +1203,8 @@ io.ktor	ktor-server-method-override-watchosx64	3.1.1		1f774fc09ecf882232ecf2cbc5
 io.ktor	ktor-server-method-override-watchosx64	3.1.1	metadata	c7c66775a46e9637ec2f2c912728a3980cdfaeea
 io.ktor	ktor-server-method-override-watchosx64	3.1.2		99301cb9aac7ecb741e7e1a77e3c9236a62562ab
 io.ktor	ktor-server-method-override-watchosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-method-override-watchosx64	3.1.3		8e3b8e5c48eeb7184b13bf09805ccae32166ab55
+io.ktor	ktor-server-method-override-watchosx64	3.1.3	metadata	e478cf76bb62c3266c6aa4af77724d1c951b96ac
 io.matthewnelson.kotlin-components	kmp-tor-manager-common-watchosarm64	0.1.0		N/A
 io.matthewnelson.kotlin-components	kmp-tor-manager-common-watchosarm64	0.1.0	metadata	a6b85a0b06e8ea2794643c44442b9b63d415d86d
 io.matthewnelson.kotlin-components	kmp-tor-manager-common-watchosarm64	0.1.0-beta1		N/A
@@ -1632,6 +1637,8 @@ org.eclipse.jetty	jetty-jmx	12.0.17		1360f56e9d979b96a8efaf715e72b7c669aa6605
 org.eclipse.jetty	jetty-jmx	12.0.18		31795255cd21881bb5683b8e806dd3eac625265f
 org.eclipse.jetty	jetty-jmx	12.0.19		0a27d57e6b19a94153ec1ee5e2cc243b065c7e72
 org.eclipse.jetty	jetty-jmx	12.0.2		01f56e24fd714a51ec5d8ed7f9fc08ae35e3cb97
+org.eclipse.jetty	jetty-jmx	12.0.20		375913fad8d8627b9945cd9f57515ced2a8668f5
+org.eclipse.jetty	jetty-jmx	12.0.21		93e36a4ad41f6adaddd6d180c457e9eccdfc18a6
 org.eclipse.jetty	jetty-jmx	12.0.3		610bc81a61adb8f6f8bbe33a74670974ab740e52
 org.eclipse.jetty	jetty-jmx	12.0.4		50bc4a2ce5f3480320a38a3ff221123cc7e8ed4b
 org.eclipse.jetty	jetty-jmx	12.0.5		cb0a92e66b3d06ea4bb49b9684fbfed869c9b2fd

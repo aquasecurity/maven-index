@@ -195,6 +195,8 @@ com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.
 com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.15.0		67cbb996157757b8a1450f5dd50f2daca349bc51
 com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.16.0		c0e70144c4aaba9a7faaf7c794e435a3feed8a45
 com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.17.0		89ca571fba0a39703dfcb21ed0c37897e4d247c2
+com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.18.0		a1c909c0a1210b448c87ae10e695cd8a10a0d9ca
+com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.19.0		ea176849a5aa55495b8f3a231794f1bbde272f6d
 com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.2.0		8220c7bb2298fd1f8879497855ab48c19361a058
 com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.3.0		ff597d6493f016f3517e981a6f897feaa21cc699
 com.google.shopping.api.grpc	proto-google-shopping-merchant-promotions-v1beta	0.4.0		de8ef45b4d03ee7f6b428f867f2cbaae85280a15
@@ -372,6 +374,7 @@ dev.continuously.libretto	libretto-lambda_3	0.3.1		39863ed4bf8831df810b6f86a979b
 dev.continuously.libretto	libretto-lambda_3	0.3.2		9fe510979280a7670185457330b107926abd25ef
 dev.continuously.libretto	libretto-lambda_3	0.3.3		915fc44c470e19fc722477589848fbd844e9d611
 dev.continuously.libretto	libretto-lambda_3	0.3.4		eeaa828efeed3824ec35b4720f63ff0c769dc77e
+dev.continuously.libretto	libretto-lambda_3	0.3.5		d32afb04a854085a42a6d27594f3f656fa2e6546
 dev.icerock.moko	permissions-location	0.19.0		13ba6e6b26f7a6ba9de19aacfc2e24d64e5e01cf
 dev.icerock.moko	permissions-location	0.19.1		13ba6e6b26f7a6ba9de19aacfc2e24d64e5e01cf
 dev.opensavvy.spine	typed-client-js	0.2.0		N/A
@@ -693,6 +696,7 @@ dev.zio	zio-aws-ebs_2.13	7.31.27.1		d7540a7bdf54e5336b584ee3290f2acbd74f8a78
 dev.zio	zio-aws-ebs_2.13	7.31.28.1		ded58f49d092b58c0987e56802ac17afafe828cd
 dev.zio	zio-aws-ebs_2.13	7.31.3.1		673f0e0478ad53d4a4f2f7221a79a06793099fcc
 dev.zio	zio-aws-ebs_2.13	7.31.30.1		e15ec05359ca1d7d19f5b1ea28c9cf2ab6a9536c
+dev.zio	zio-aws-ebs_2.13	7.31.30.2		c528a6ba779b15ea3574a89de7fab29c112e8f2d
 dev.zio	zio-aws-ebs_2.13	7.31.4.1		60e7384db1ee999e2cace848e31c73effcf1de90
 dev.zio	zio-aws-ebs_2.13	7.31.6.1		78c056b5f49bd2056ac700fa589c5ce9febe1305
 dev.zio	zio-aws-ebs_2.13	7.31.6.2		f4025b1d644faddfbda3a9d4060ec850e8edf261
@@ -725,12 +729,15 @@ io.camunda	tasklist-importer-870	8.7.0-alpha5-rc1		1a9d96f8b821cde20e453e9ca460e
 io.camunda	tasklist-importer-870	8.7.0-rc3		07cbc5c0295e1a79d2d3b351caba6e9f7d610bf1
 io.camunda	tasklist-importer-870	8.7.1		b96a00525dc6ead673e0a10cc541208e5887876c
 io.camunda	tasklist-importer-870	8.7.1-rc1		a62472915e6c79874004dd24c804ee322611ee48
+io.camunda	tasklist-importer-870	8.7.2		721b24382770b1067cfbbe5fd5df48f1e81fda9a
+io.camunda	tasklist-importer-870	8.7.2-rc1		6adf04151e475c215ce3173c86141a7d11a7c869
 io.camunda	tasklist-importer-870	8.8.0-alpha1		2030f4007af1205753130577f81b4c0ec1bac9ac
 io.camunda	tasklist-importer-870	8.8.0-alpha1-rc1		0f4e49a46716422a1c90d9dc8b1b2251128f51fc
 io.camunda	tasklist-importer-870	8.8.0-alpha2		e5e1c620b35f41295bda8d175e05c54725b73ac8
 io.camunda	tasklist-importer-870	8.8.0-alpha2-rc1		efa749a9a104085a4a98a7318974316c79f303f0
 io.camunda	tasklist-importer-870	8.8.0-alpha3		d3ee43b6f32ee0b447e921a39df1d1d7fd054456
 io.camunda	tasklist-importer-870	8.8.0-alpha3-rc3		41984d88a0ba71ae2b9f50d67d527b285f53ed2c
+io.camunda	tasklist-importer-870	8.8.0-alpha4		3537e13d0506645128c9f2463e300e2cf7bff7e5
 io.camunda	tasklist-importer-870	8.8.0-alpha4-rc1		e9e5b963a0424adbff50617fca5bcf349e8c93d4
 io.dialob	dialob-questionnaire-service-rest	2.1.10		88a8968ec91c6a8378bb206d06d1bc7d74d8a09a
 io.dialob	dialob-questionnaire-service-rest	2.1.11		37f7fefe230acc4835ffeadeacaff24ed6fc0bc0
@@ -806,6 +813,7 @@ io.github.liquibase-linter	liquibase-linter-core	0.11.0		110b9a5ebd158b04b51c728
 io.github.liquibase-linter	liquibase-linter-core	0.12.0		9dc1b931d174d220bb0d5ce79f2405082f4a502c
 io.github.liquibase-linter	liquibase-linter-core	0.12.1		d2c70407b7f38c5ecf52df0dd893e4e6a6a6adf4
 io.github.liquibase-linter	liquibase-linter-core	0.12.2		b4c3ad43e7fce36add538a9b42f2ed3d830ecb47
+io.github.liquibase-linter	liquibase-linter-core	0.13.0		ef342e06f8d8dfd2f74f04ea432075f788d827c2
 io.github.liquibase-linter	liquibase-linter-core	0.6.0		878c952222b20747a39100df57a77051098ee345
 io.github.liquibase-linter	liquibase-linter-core	0.7.0		24298eb0c9a2079c72f8b0364a15b0f4a2abfc7c
 io.github.liquibase-linter	liquibase-linter-core	0.8.0		79e9c5f5b6046fb5e200569c1c480bb0ed38e4d4
@@ -1034,6 +1042,7 @@ org.apache.camel	camel-iec60870	4.8.3		4c5d27d1b404f9799aefce00f7abdef5ca3fa935
 org.apache.camel	camel-iec60870	4.8.4		5ffa524f191097ac61ba2c1a3c68469cd49086d2
 org.apache.camel	camel-iec60870	4.8.5		e7af1fd6ed40b78da41dd9d073353bafde45e247
 org.apache.camel	camel-iec60870	4.8.6		8ede67506a761688fef5a7d6d4b4852d1a89b920
+org.apache.camel	camel-iec60870	4.8.7		bcfff8d31dcf105714b09c6278be7ecd30bfbeba
 org.apache.camel	camel-iec60870	4.9.0		a4be99cd60065ce919150cdeca8a193dbcbe8d7a
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	1.0.0		44bba6cedf4628f3ddbf7c76b5a73ab10694775c
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	1.0.0-CR2		abaa8af91c068b5f4750470821394f9a5ecb2ff4
@@ -1103,6 +1112,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.2.1		f27eb412d7
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.2.2		1cf38609a3a98a28199e281b685d368e88390e25
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.2.3		b26e804973b28cf0addf0b4f58426f24642e68d1
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.20.0		0dc7674aa34b2a8565f340927c0842fd17c558f6
+org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.20.1		6cb665318fb51ae08ce212125e0a7b4b1abeabdd
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.22.0		a26b6494e16e84c882be67b307f246697f311979
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.4.0		912d0be2c74e91a7a7f95ceaca4c47fc2484d378
 org.apache.camel.quarkus	camel-quarkus-integration-test-base64	3.5.0		b998d1aa8b508485661fd2f8e2dd9c67deff171b

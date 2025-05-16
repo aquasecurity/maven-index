@@ -209,6 +209,7 @@ com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.135.7		5ad0ab54d2e0f1
 com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.135.8		4f1870f81415cbfdd99e78125d57d122fe20f256
 com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.135.9		da847c5726478692dfcb918e54610f4704628d0e
 com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.136.0		73dcd3f85cd059e379e515d62cb24e35e09bf864
+com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.137.0		50c4d28cd1b61e33f7bc45777444c675270cae49
 com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.67.0		14cf47db0181d50ad21a8ee8956589daf25ff9d1
 com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.68.0		5039abcc14eb7471daeea20cf0e5ce3aa34d0124
 com.metaeffekt.artifact.analysis	ae-tmd-packaging-plugin	0.69.0		4ec7a130c083b565c3bb8ece0a31e8da0c2e0f53
@@ -450,6 +451,7 @@ dev.zio	zio-aws-ssmsap_2.12	7.31.27.1		495474cf09d1d9af115e604109e419738daae0cc
 dev.zio	zio-aws-ssmsap_2.12	7.31.28.1		496621b646cf68d1f3b82b9652ce5c13c7410307
 dev.zio	zio-aws-ssmsap_2.12	7.31.3.1		951769df8d28a4916886a7e0730397a07d662912
 dev.zio	zio-aws-ssmsap_2.12	7.31.30.1		fe7be9b85be52ad8f8942376e3c27791c7014b94
+dev.zio	zio-aws-ssmsap_2.12	7.31.30.2		a689f2a5d8efc45f50729ca3c809bd62ef972384
 dev.zio	zio-aws-ssmsap_2.12	7.31.4.1		e202150e975ce13f8d5d228725602773f4b00cb8
 dev.zio	zio-aws-ssmsap_2.12	7.31.6.1		e5a4ac8a1f693689bbe5f77b9c71013a5e2a175a
 dev.zio	zio-aws-ssmsap_2.12	7.31.6.2		1f8e255c8124c918a2c6019fa554db45f5a64ae2
@@ -547,6 +549,7 @@ dev.zio	zio-test-sbt_2.13	2.1.14		79ce21519eefcc1677273147f8f5f368599d6e00
 dev.zio	zio-test-sbt_2.13	2.1.15		5ab527085855f6bab17c38cee77f0999e14fe90b
 dev.zio	zio-test-sbt_2.13	2.1.16		6ba2d1bcf165b49f87bfbe232b0053402cf3372b
 dev.zio	zio-test-sbt_2.13	2.1.17		0842405a410bf7875020d1b0dcbf615503961988
+dev.zio	zio-test-sbt_2.13	2.1.18		bd3525a2d11363b637f4f6552d8fed9ffc3d5da1
 dev.zio	zio-test-sbt_2.13	2.1.2		abc99161bf16e611a8748c99e879380783a01bb7
 dev.zio	zio-test-sbt_2.13	2.1.3		b633cbe8a2d5e9c8c764df71f7bbc554727f836b
 dev.zio	zio-test-sbt_2.13	2.1.4		303aae0ed023c9b7b9494e2f6dae6048d45192d8
@@ -676,6 +679,7 @@ io.github.photoncoder	DocManager	1		89ccc508ab627d0dd03ef5127928dc3e34c5b0fa
 io.github.photoncoder	DocManager	1.0.1		d320da294ce862b06e78e267d1f9cb971326de8b
 io.github.photoncoder	DocManager	1.0.2		7145213bebe077d3b34ad4b5d220ebd78e4415e0
 io.github.photoncoder	DocManager	1.0.3		fb9e78b6ce7364dc5be12a4995f1cdd6b473a758
+io.github.piotrbosak	sbt-flaky-test_2.12_1.0	0.4.6		846182e212cc2b65df563373a719963a182d2b03
 io.github.shiraz990	shared	1.0.0		3bd17e1a7f2aa5d4c55ccfd26b8e186098b73603
 io.github.shiraz990	shared	1.0.1		55b5419f5b31009578b06b2e189d7637704fbc7e
 io.github.shiraz990	shared	1.0.2		314b5163217d872f53c404b9d3730bb0aa15ad86
@@ -925,6 +929,7 @@ io.netty	netty-codec-haproxy	4.2.0.RC1		7752ae75e22d9b324860a7948b521096070acaa0
 io.netty	netty-codec-haproxy	4.2.0.RC2		962d09b2e7b1c0487d442f1f9df54cf471ec5983
 io.netty	netty-codec-haproxy	4.2.0.RC3		2c3bd3b862910d0fa32b8a1c3f450cc06ea5b9c7
 io.netty	netty-codec-haproxy	4.2.0.RC4		444053078b450da8c851a48ccb194ed62e8b2ae7
+io.netty	netty-codec-haproxy	4.2.1.Final		881222aacc614d34110eecc3876a7e7e2a5c3622
 io.netty	netty-codec-haproxy	5.0.0.Alpha2		13cf4691902831030b11a35bbfbb83e79c743112
 io.sentry	sentry-graphql-22	8.0.0		7f88a4036b141d119108cd35e3510c63ff1e627a
 io.sentry	sentry-graphql-22	8.0.0-beta.1		9afd8f05b8db4266c9c3ecf890aca9a890015f04
@@ -940,6 +945,7 @@ io.sentry	sentry-graphql-22	8.10.0-alpha.1		c3f2081d3d04d528137a8e24f4fc143b739a
 io.sentry	sentry-graphql-22	8.11.0		8083f41df3cdab55490994578cf61b05608dcb44
 io.sentry	sentry-graphql-22	8.11.0-alpha.1		c27df6c82ffb4c2c241fda74453a37686fcb9203
 io.sentry	sentry-graphql-22	8.11.1		931163bfa542e35c72a5d4c0d3d1be6c06802138
+io.sentry	sentry-graphql-22	8.12.0		aed9f81754fd748d33922ad9bd0e9f152453d563
 io.sentry	sentry-graphql-22	8.2.0		9cc69426b11df30f9d70d5883deb0219b0a309d4
 io.sentry	sentry-graphql-22	8.3.0		9086165e9df0697f0594b2aa211ce6417f3e0bd2
 io.sentry	sentry-graphql-22	8.4.0		7118019f924108db4e7fbe5558b6918af7ba6ed5
@@ -1109,6 +1115,7 @@ org.citrusframework	citrus-testcontainers	4.4.0		0944dda13301d5dc4c5c864a51bea4d
 org.citrusframework	citrus-testcontainers	4.5.0		a7a96c2cf522d91f834c601cf660b2d5a79bdfe7
 org.citrusframework	citrus-testcontainers	4.5.1		08943e4d66808bfbbe3572ede71e2eed4e2c2337
 org.citrusframework	citrus-testcontainers	4.5.2		99083ec925c469faaf1afc6417e570a942f922ff
+org.citrusframework	citrus-testcontainers	4.6.0		0ba3b9b23a7ea38345b94ec026115e379ba588b1
 org.codehaus.enunciate	enunciate-jersey	1.10		437cf242ea260d762e418b7d7ba3ccc7d8304ade
 org.codehaus.enunciate	enunciate-jersey	1.10-RC1		8e6a4992140d879ead25784d88a0f2d88030cb6e
 org.codehaus.enunciate	enunciate-jersey	1.10-RC2		3d2e9568346cbfdc057a0b945e522ecdc172cd0c
@@ -1293,6 +1300,7 @@ org.jetbrains.skiko	skiko-tvossimulatorarm64	0.9.3		N/A
 org.jetbrains.skiko	skiko-tvossimulatorarm64	0.9.3	metadata	cf2557fd0f972f03a046321b0858b3927dbf8754
 org.jetbrains.skiko	skiko-tvossimulatorarm64	0.9.4		N/A
 org.jetbrains.skiko	skiko-tvossimulatorarm64	0.9.4	metadata	284d8f536a0578945fa5c207bf1b2fe4a894bfe0
+org.jetbrains.skiko	skiko-tvossimulatorarm64	0.9.4.2	metadata	76609e7ea3ff98f4c449d84c6234fdf2fc7a7629
 org.kasource.kaevent	ka-event-cdi	0.9		bc9f98755c6cc2faf00f276d89963a536b92dd5b
 org.odpi.egeria	information-view-server	0.1		7a350bc6b623b06b3018d0646601643844051e43
 org.odpi.egeria	information-view-server	0.2		6a5c409adf63cba42a2e72324c773e64a221f9dd
@@ -1606,6 +1614,7 @@ org.talend.sdk.component	component-form-core	1.78.0		057a3420152144ad0e4bdd063c6
 org.talend.sdk.component	component-form-core	1.78.1		80dc300bc52f334d975d85bae66b2d9fd1e50490
 org.talend.sdk.component	component-form-core	1.79.0		6b0f72305bbb53176c37b161c34b05fa5bcda705
 org.talend.sdk.component	component-form-core	1.80.0		58ce665db81b1faec5a463ba99937ff3bc6c1fd7
+org.talend.sdk.component	component-form-core	1.80.1		7a14813de138dc65af88b8361dd212dd77d9f61f
 org.talend.sdk.component	component-form-core	10.57.0		2a99052f41e9f4762bb3437859f550dd0629d04d
 org.visallo	visallo-dev-tomcat-server	3.1.0		43bfbcc3f06838604765d51ebf8d0c30c1859c0a
 org.visallo	visallo-dev-tomcat-server	3.1.0-RC1		252ec999849e5dc64e2a311eaa6c8f434577210e

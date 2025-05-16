@@ -263,6 +263,7 @@ com.github.skydoves	landscapist-palette-macosx64	2.4.6		N/A
 com.github.skydoves	landscapist-palette-macosx64	2.4.6	metadata	0a33a5ad802d7f94c2973facc874ff4f06da4c0e
 com.github.skydoves	landscapist-palette-macosx64	2.4.7		N/A
 com.github.skydoves	landscapist-palette-macosx64	2.4.7	metadata	fa5fc411839c38ad4115a009fc781d1cfb02e7e3
+com.github.skydoves	landscapist-palette-macosx64	2.4.8	metadata	d0b30470779a302ccfc5b4354711ad6d84a2046d
 com.github.thierrysquirrel	websocket-spring-boot	1.0.0-RELEASE		N/A
 com.github.thierrysquirrel	websocket-spring-boot	1.0.1-RELEASE		N/A
 com.github.thierrysquirrel	websocket-spring-boot	1.0.2-RELEASE		N/A
@@ -580,6 +581,7 @@ dev.zio	zio-macros_2.13	2.1.14		b306235007494bb8ba9d2f530a657d3de1893ee0
 dev.zio	zio-macros_2.13	2.1.15		c6b90044701a6817ea4412c9cb03379ef790c62c
 dev.zio	zio-macros_2.13	2.1.16		4bb7ad5b2205cae7f102d028938335d53da7180a
 dev.zio	zio-macros_2.13	2.1.17		5a95a1e009817911b13ae219da2bd31a52d32a02
+dev.zio	zio-macros_2.13	2.1.18		79ffb1cf5915990fd379081b86974206a9bfb726
 dev.zio	zio-macros_2.13	2.1.2		bfc086690bcdaa0a0885f5ce69174e5ab5f8cbf2
 dev.zio	zio-macros_2.13	2.1.3		9a567452729f108a1ac432a252b3fa344d693086
 dev.zio	zio-macros_2.13	2.1.4		2c38218837818760dbe4fa59df52e37dd74a99e5
@@ -1204,6 +1206,7 @@ io.kotest	kotest-assertions-core-iosx64	6.0.0.M2		N/A
 io.kotest	kotest-assertions-core-iosx64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-assertions-core-iosx64	6.0.0.M3		N/A
 io.kotest	kotest-assertions-core-iosx64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-assertions-core-iosx64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.qtjambi	qtjambi-webview	5.15		06eaf6b2822c3014f09843eec5a183d17fb831f4
 io.qtjambi	qtjambi-webview	5.15.10		1a9d9a14635b900e66f59b64ed74eddc501f7fde
 io.qtjambi	qtjambi-webview	5.15.11		ae3cbffe3de7328c0199509b73669d4009699b81
@@ -1689,6 +1692,7 @@ org.springframework	spring-context-indexer	6.1.17		ebfba9eb49efa99f7f09e58cec3a3
 org.springframework	spring-context-indexer	6.1.18		5a456c7135647af5822403a82b1097c5c7b89098
 org.springframework	spring-context-indexer	6.1.19		467fc8bdb07c807ef6b52f608bd76d40ce1efee1
 org.springframework	spring-context-indexer	6.1.2		aa73ac73c4c252e47e4fb38652456ecfdbe668a8
+org.springframework	spring-context-indexer	6.1.20		b8427fb7ce56d6777d77a9181eda5b73766e5b8c
 org.springframework	spring-context-indexer	6.1.3		53d4407bf72c5716ff9331f3c44deec86fdc6f27
 org.springframework	spring-context-indexer	6.1.4		ebff4df264381d8a70ddde461f388e9c6874ce9f
 org.springframework	spring-context-indexer	6.1.5		4c5f3a4212acfbf335a8303bdbf2d8f91d2d143a
@@ -1703,10 +1707,12 @@ org.springframework	spring-context-indexer	6.2.3		43acbba36797e8ab92a26996bc1950
 org.springframework	spring-context-indexer	6.2.4		e2499633f3a2111b31e8739bec5ec82fa52f3c02
 org.springframework	spring-context-indexer	6.2.5		b099a9772143702c713c7e7436177f1e1ef9f04f
 org.springframework	spring-context-indexer	6.2.6		0a39bd75063ad96268aaab182b9e81244255da6c
+org.springframework	spring-context-indexer	6.2.7		4ceac32901c17346a6a3aa482c4418b951a9981d
 org.springframework	spring-context-indexer	7.0.0-M1		161d7f696e35f0c9ea5ba1e1be0cede286d8d09f
 org.springframework	spring-context-indexer	7.0.0-M2		282875c7993012068d1c141e42e831684ff6d8e5
 org.springframework	spring-context-indexer	7.0.0-M3		c65e98d87f3ffcaa5a4e7946a7566468f8271589
 org.springframework	spring-context-indexer	7.0.0-M4		efb7090981fedf41b655f28d7c0a3ab6dbd55990
+org.springframework	spring-context-indexer	7.0.0-M5		186d0964d290962f5a4338eef5343290d6103819
 org.typelevel	otel4s-sdk-exporter-common_sjs1_3	0.10.0		050163c1ca24c9bcc9804270b7756d3ee7a1ead2
 org.typelevel	otel4s-sdk-exporter-common_sjs1_3	0.11.0		a3da7766816eba59686ebad15629925464621b4b
 org.typelevel	otel4s-sdk-exporter-common_sjs1_3	0.11.1		453e5ad0d99f1289d1a9d2da8fc88357da7bacb6
@@ -1806,6 +1812,8 @@ se.laz.casual	casual-jca-app	3.2.50		5f2bbc6562fbf8bf223842a40349f1a191a06364
 se.laz.casual	casual-jca-app	3.3.0		4a7bf010d4791bbc67b1c622c6ec88d9d49ab89a
 se.laz.casual	casual-jca-app	3.3.1		40b5f77133c293f32c762b5900774366914a2b0a
 se.laz.casual	casual-jca-app	3.3.4		6fe33e21ef3847381d345e8727c40f1ac80fcf88
+se.laz.casual	casual-jca-app	3.3.5		7a56f44ecb5bb908fb8fe996514bd531d37ec977
+se.laz.casual	casual-jca-app	3.3.6		ada29681f5ea678c7a8bea3d2c419dc1493c153e
 tech.skot	model	1.0.0		42a4a0d5fde2d42c660353eb8970ad07482b4701
 tech.skot	model	1.1.0		ab11dd0ac0f46ee92ee601c929554a214853df71
 tech.skot	model	1.1.1		710840f5ee3e5a19307e6109623a3a5d299f72ec

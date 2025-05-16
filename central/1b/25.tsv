@@ -850,6 +850,7 @@ dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.27.1		84b195a17639ee12077
 dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.28.1		076ac9f601621dfa57d95178c29e204065366b66
 dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.3.1		71674b8f75044b340c88f0f7d49d05f5458259a8
 dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.30.1		637603d65be1a02068ecd9861957c33664b61372
+dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.30.2		46820fe95f8c18b0d37fb66b64a674fd5777f18a
 dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.4.1		a8dc0f940d19fac6f30b03a27e1938ec34702099
 dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.6.1		c8aac7ad8bb228f41cafe66857ef1c3022cc86cf
 dev.zio	zio-aws-marketplacecommerceanalytics_2.12	7.31.6.2		d8d143dfdee67a6f9bbe96ec10b7cae66842a084
@@ -904,6 +905,7 @@ io.github.hylexus.xtream	xtream-codec-core	0.0.1-rc.0		d81daa689123146f5b94a3fd3
 io.github.hylexus.xtream	xtream-codec-core	0.0.1-rc.1		3545f66376fc025ad2ec70151db44d93109abc88
 io.github.hylexus.xtream	xtream-codec-core	0.0.1-rc.2		41cc000ad541aafcf15d8b4795cf099e20103862
 io.github.hylexus.xtream	xtream-codec-core	0.0.1-rc.3		1245a43172d9946dc9d588438b754aea7cec5d14
+io.github.hylexus.xtream	xtream-codec-core	0.0.1-rc.4		e0c98615fb5d4648d9e4dc32433eb9cedb6bd9ad
 io.github.jan-tennert.supabase	compose-auth-iosx64	1.3.0		N/A
 io.github.jan-tennert.supabase	compose-auth-iosx64	1.3.0	metadata	8b72ef0c69b8faa36efb0cb2c3373585a9e29dda
 io.github.jan-tennert.supabase	compose-auth-iosx64	1.3.0-alpha-2		N/A
@@ -1144,6 +1146,8 @@ io.github.jan-tennert.supabase	compose-auth-iosx64	3.1.3		N/A
 io.github.jan-tennert.supabase	compose-auth-iosx64	3.1.3	metadata	31483e5cca716a024cedb6e8d6364a0991cc9889
 io.github.jan-tennert.supabase	compose-auth-iosx64	3.1.4		N/A
 io.github.jan-tennert.supabase	compose-auth-iosx64	3.1.4	metadata	a418f1ee50bea63e0bf5fe7ad05f8a35c6f1721a
+io.github.jan-tennert.supabase	compose-auth-iosx64	3.2.0-beta-1	metadata	c90529f3567a7e661406b2ae084181d9c2a9c173
+io.github.jan-tennert.supabase	compose-auth-iosx64	3.2.0-beta-2	metadata	980c63cc93c88fb63c370fd922a969e3d851b4bb
 io.github.nov-moon	cache	1.0.0		N/A
 io.github.sergeivisotsky.metadata	metadata-provider-app	0.0.1		07cc9b4bc92d0ae79d79d75940858117b1ce8a6c
 io.github.sergeivisotsky.metadata	metadata-provider-app	0.0.2		8468c72ac78e487a93af3ceb7ff63fa72b17a7a3
@@ -1443,10 +1447,12 @@ org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.1.20-Beta2		
 org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.1.20-RC		b192e02e404c6adb05de5b1da51da6c04adf83bf
 org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.1.20-RC2		501ee8ec38555535546cc65144a8c52103a70206
 org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.1.20-RC3		65fcc7034c3b21bf652fbd9b972d368383736c8d
+org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.1.21		299030df0dcf626fd5ff9b64c9ada2c1bc0cc98f
 org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.1.21-RC		53cd87e43a6aef3919def3668651e59621ae2d9e
 org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.1.21-RC2		5a79201400d53145dd5d052e375bfd7378bc796f
 org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.2.0-Beta1		c1a9a7a8ebd864bd1a2cdd3857244d7c80ab9d8b
 org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.2.0-Beta2		36b791dc2e4b269d18663914d89b0ba9263aa496
+org.jetbrains.kotlin	kotlin-assignment-compiler-plugin-embeddable	2.2.0-RC		309f87588d0a671210f5c9e7af85e4c8702a4f7e
 org.jqassistant.tooling.common	parent	2.0.3		N/A
 org.jqassistant.tooling.common	parent	2.0.7		N/A
 org.jqassistant.tooling.common	parent	2.0.9		N/A
@@ -1720,6 +1726,7 @@ org.wildfly.security	wildfly-elytron-security-manager-action	2.1.0.Final		23fe85
 org.wildfly.security	wildfly-elytron-security-manager-action	2.2.0.Final		f32b3ac19c1e21a26a22fb4303759c105e48ba29
 org.wildfly.security	wildfly-elytron-security-manager-action	2.2.1.Final		b785cae0cb3a169d08d49944fc56c93ac4966107
 org.wildfly.security	wildfly-elytron-security-manager-action	2.2.10.Final		3b62a45b44bcb827b24272dfacc5d54355ee4af9
+org.wildfly.security	wildfly-elytron-security-manager-action	2.2.11.Final		829d80cb544178a4ac05f73ff5cd40d57bd75657
 org.wildfly.security	wildfly-elytron-security-manager-action	2.2.2.Final		0cf93ea4a9a41dcadb39bc2fde06b552dcb9f118
 org.wildfly.security	wildfly-elytron-security-manager-action	2.2.3.Final		129c7081873a719358428f6b2e7a8f56d2fd19ee
 org.wildfly.security	wildfly-elytron-security-manager-action	2.2.4.Final		4471a230ed1345de44073feeb743cf830321f7ab
@@ -1742,6 +1749,7 @@ org.wildfly.security	wildfly-elytron-security-manager-action	2.6.0.Final		1a8e2b
 org.wildfly.security	wildfly-elytron-security-manager-action	2.6.1.Final		f0b974794835669750c8224c257806eb26fe0c47
 org.wildfly.security	wildfly-elytron-security-manager-action	2.6.2.Final		5cc12f394b764a5bdefe3df462dfa21b4a3245f6
 org.wildfly.security	wildfly-elytron-security-manager-action	2.6.3.Final		4b71d51036d4b29b1bc5b1f1b13183c3330f44c5
+org.wildfly.security	wildfly-elytron-security-manager-action	2.6.4.Final		c52bb2a5df7fa81d79e56628c0b9ab60527e8772
 org.wso2.carbon.commons	org.wso2.carbon.cluster.mgt.feature	4.10.0		N/A
 org.wso2.carbon.commons	org.wso2.carbon.cluster.mgt.feature	4.10.1		N/A
 org.wso2.carbon.commons	org.wso2.carbon.cluster.mgt.feature	4.10.3		N/A

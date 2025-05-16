@@ -250,6 +250,7 @@ com.tunjid.composables	composables-jvm	0.0.13		7b69a30d071c880bb61249b0b1df52676
 com.tunjid.composables	composables-jvm	0.0.14		0bee197bf152ee71889ef430d47e6bd5728f636b
 com.tunjid.composables	composables-jvm	0.0.15		269a93a994d8d0de241c664105fb5830d3191b2e
 com.tunjid.composables	composables-jvm	0.0.16		4c43412ede7b65e4bc4f67890c2936fd0f767423
+com.tunjid.composables	composables-jvm	0.0.17		47b7a7b6abdb6003f98f5212d354cb17f02251fc
 com.tunjid.composables	composables-jvm	0.0.2		3c02d75a46285c0340fefc229461770a1fb9eccc
 com.tunjid.composables	composables-jvm	0.0.3		51c9c19030a002d8e5e8f92e3eb98dd57a80b4df
 com.tunjid.composables	composables-jvm	0.0.4		f02ec0b5ed8780b0acbb86bc4f132e67b4357bcb
@@ -568,6 +569,7 @@ dev.zio	zio-aws-observabilityadmin_2.13	7.31.27.1		721984a56adb37c34b0b1390708c3
 dev.zio	zio-aws-observabilityadmin_2.13	7.31.28.1		2484c0168913d5085d68bb243e95db98b4dd635e
 dev.zio	zio-aws-observabilityadmin_2.13	7.31.3.1		715bed49a176ba99193ca222ba88d169a3af6c37
 dev.zio	zio-aws-observabilityadmin_2.13	7.31.30.1		d7e5c2a9be9ddfd40c47719f642d298d1eaa628e
+dev.zio	zio-aws-observabilityadmin_2.13	7.31.30.2		bcf3349925ae0e5528d939afcc98b524084e2ef9
 dev.zio	zio-aws-observabilityadmin_2.13	7.31.4.1		c8c772cb9f5717c22aba84fb6601f2675c22fe0b
 dev.zio	zio-aws-observabilityadmin_2.13	7.31.6.1		68c3461220ab3da387d420b44692f4337f43af58
 dev.zio	zio-aws-observabilityadmin_2.13	7.31.6.2		25d2a7d01df1958455adec146d191829216a90fe
@@ -638,6 +640,7 @@ dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.20		9ab794da0b
 dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.21		4f341aff0000dae54ee6bce369be937abea18cd1
 dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.22		ffa63db196a9efaac50e10ede3bb50ce122462a8
 dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.23		fc877ba9ee2516f3f1f27c1c3bfc717602708784
+dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.24		e46df1a86f3e1365250c9d1d96a6cf1859b43cf3
 dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.3		f4d07ea9784028f5433a6f1b09833c6f8b02cc1d
 dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.4		470d3a7da5b4522322df50f83403772394aa42a5
 dk.cloudcreate.essentials.components	eventsourced-aggregates	0.40.5		d54faec5a40edadfe699d80aa4e1e1a6f26bfb73
@@ -828,6 +831,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf-3.2	2.13.3-alpha		7b55075e3ec05e5b3450a5eb55c471f2aea37828
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf-3.2	2.14.0-alpha		485ac8aeb7fa3af89f6a58ac5d8431b0b4b98a91
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf-3.2	2.15.0-alpha		7cacae919bf64475135acb15dc178a3e00b1ae45
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf-3.2	2.16.0-alpha		65b842285b62994db4a37918c7edff768502070d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf-3.2	2.2.0-alpha		ef08b91a35560de088d6d26150d92177b3574e5a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf-3.2	2.3.0-alpha		6fac489d85742dd8c8fd5b7ad5190b7eac8b1564
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-2.0-cxf-3.2	2.4.0-alpha		4a83d3e6db0f03e0eb54f8698aa811618109b505
@@ -886,6 +890,7 @@ org.apache.geronimo.specs	geronimo-jacc_1.1_spec	1.0-M2		6fadc5e5f24193999a80ead
 org.apache.geronimo.specs	geronimo-jacc_1.1_spec	1.0.1		fd266b0fde2b071370742a413fa77b61bebbfdff
 org.apache.geronimo.specs	geronimo-jacc_1.1_spec	1.0.2		a6ca66076df8c66597b736f85dad20a120a41e4a
 org.apache.paimon	paimon-gs	1.1.0		97d0036a549cdefbae7cd2cace8ce8e4a33fe818
+org.apache.paimon	paimon-gs	1.1.1		4b2243af24cfd1e3be3dddc21821870e07be9324
 org.apache.tuscany.sca.shades	tuscany-webservices-nodep	2.0-M5		1be6bc2cfaf0ace4cd5e5187ce9574d4ae78b2f2
 org.apache.tuscany.sca.shades	tuscany-webservices-nodep	2.0-M5.1		9c9f81bc169f3d04481e82b18568608dcc8a6321
 org.codetome	hexameter-core	1.0.0		8b3c6dcc1e244ec9b0674746776b3f58c6e89b5b

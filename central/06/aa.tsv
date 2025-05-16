@@ -10,10 +10,12 @@ be.wegenenverkeer	atomium-server-jdbc_2.11	0.8.3		f1313d08140dff29c95dec634c714c
 be.wegenenverkeer	atomium-server-jdbc_2.11	0.8.4		448e21fd2dca2d36a947cccb259dfb257d866bbd
 be.wegenenverkeer	atomium-server-jdbc_2.11	1.0.0		d72c9a206f4d52499717a918cdbd85c682f1ad6a
 be.wegenenverkeer	atomium-server-jdbc_2.11	1.1.0		800a3a0b0a969a9f55bae187e5cfaaf0b8f7dbaf
+ch.epfl.scala	sbt-bintray_2.12_1.0.0-M6	0.5.1		ab72c5ff42b078eb0f8fda94f53b9664f16877dd
 cn.com.jeeweb	common-quartz	1.0.1		9daa47cbbe5bd2d58bdd0a9f6a8bfc7788b2ea5e
 cn.com.jeeweb	common-quartz	3.0.2		bd68c8c40418d4f90549f048c35fc39ca6ab1a39
 cn.com.jeeweb	common-quartz	3.0.6		56c0a40a33e8a9a9cea56348d9a3a2050e877b87
 cn.com.jeeweb	common-quartz	3.0.8		7f42dad725169a69dffd205af62b09f8bec4b539
+cn.com.jeeweb	common-quartz	3.1.0		8c78fe388ba205f9ae05c10946e48b180bbb2a45
 cn.easyutil	easyproject-util	1.5.3		8582bbe6278f2e9939eeba04e33831b05cc656c2
 cn.ezeyc	ezeyc	1		N/A
 cn.ezeyc	ezeyc	1.1		N/A
@@ -455,6 +457,7 @@ com.github.crabs-hue.commons	commons-compress	0.9.0		2132d939ab8d8be83f89b5ff688
 com.github.crabs-hue.commons	commons-compress	1.0.0		2e45e72df099a0056a598eb50e98b1d5bef7a3e4
 com.github.crabs-hue.commons	commons-compress	1.1.0		b4b493d3521034e7c227de61d6930ab1874d21b2
 com.github.finagle	finatra-kafka-streams_2.13	22.4.0		c64e864e6f1f767bbe73226718e8f851cf211b7e
+com.github.seratch	testgen-sbt_2.9.1_0.11.3	1.0.0		7130fe34bcea0d7a93b2cb3a39e325138ea4af01
 com.google.summit	summit-ast	1.0.0		4c382b008ba9fbd2ecfbb6b06fd913a29f2d4ae2
 com.google.summit	summit-ast	2.0.0		4e7a596b978ff667e14988686eda497fc53bbb2a
 com.google.summit	summit-ast	2.1.0		a6bbbe9697e06d56c2affbe9fa9b0aaff8e3fe49
@@ -895,6 +898,7 @@ org.apache.camel.springboot	camel-soap-starter	4.8.3		448b2c0d5dd4f6e8c170493ecf
 org.apache.camel.springboot	camel-soap-starter	4.8.4		4ca4b3c9650c1936dfc110d40ffa929db189d38a
 org.apache.camel.springboot	camel-soap-starter	4.8.5		0887dec99eef0936b54ad5518ec9503d3d53f2bf
 org.apache.camel.springboot	camel-soap-starter	4.8.6		54e3347f11ba1439d94fbcb3685accdbb66b7ed7
+org.apache.camel.springboot	camel-soap-starter	4.8.7		b6d455740bf8f8546cd0d9f9651e4939298649e6
 org.apache.camel.springboot	camel-soap-starter	4.9.0		96d105ae8916bf03e6f8a57092de0c460ca42377
 org.apache.james	james-server-guice-mailet	3.0.0		9af9948cfde9660fb190b3cecfa2cc7f6579a767
 org.apache.james	james-server-guice-mailet	3.0.0-RC1		4ae4bdeab0ba585be5de0d46bedd5b238a4a664f
@@ -1234,7 +1238,9 @@ org.elasticsearch.test	framework	8.17.2		1ccc91f832bbe885e1090c93cc62d11131f7a79
 org.elasticsearch.test	framework	8.17.3		efc9cdee7b112cf91c2dc90958084cc2edce9b65
 org.elasticsearch.test	framework	8.17.4		9b2421b338f120287ba3353d14babee6048639ed
 org.elasticsearch.test	framework	8.17.5		080037dfc045edc0e5aa7c38d93e120019383d35
+org.elasticsearch.test	framework	8.17.6		79e37698fbe522f606fe4af3b6a02ea46ef57d6c
 org.elasticsearch.test	framework	8.18.0		74a608b9b99c7040d3946af7c5c26b614ba3d636
+org.elasticsearch.test	framework	8.18.1		dbaa7d7b270315fa440200d0a8808c904c14197b
 org.elasticsearch.test	framework	8.2.0		a3ac2a0555a7d5eea74e060322a26254dfc7cd91
 org.elasticsearch.test	framework	8.2.1		40ca9468af8acdbe1c1659ea6b92687b671bc759
 org.elasticsearch.test	framework	8.2.2		60965e00139b19ac867bce818122b3cb6976e31f
@@ -1265,6 +1271,7 @@ org.elasticsearch.test	framework	8.9.2		d5a97587d303bfcfd57c6da172d72eef9fba5f6e
 org.elasticsearch.test	framework	9.0.0		d4ef339d8afcffd5796ede6736c380cf7dde8a15
 org.elasticsearch.test	framework	9.0.0-beta1		b157b2dd82f8d9e2bdd8b49fdc92f33219732581
 org.elasticsearch.test	framework	9.0.0-rc1		912d4b2001a6142f010d285751832540573a9d89
+org.elasticsearch.test	framework	9.0.1		dc1e01cbb7f46afd0f29e4e2ee42894700413f73
 org.fusesource.coffeebar	brew	0.2.11		15426cce77ad3ee7a1ebaf9ef4daa90c81f90239
 org.graalvm.visualvm.modules	org-graalvm-visualvm-jvm	2.1		a57ca55a61569138b184848e9558724d1d77134c
 org.graalvm.visualvm.modules	org-graalvm-visualvm-jvm	2.1.1		d43ab180d13506002d9ef0758eebc9263a6859c6

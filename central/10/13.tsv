@@ -796,6 +796,7 @@ dev.zio	zio-aws-imagebuilder_3	7.31.27.1		6acea22f419fef849b04379e4351838ca43b46
 dev.zio	zio-aws-imagebuilder_3	7.31.28.1		8d7dc500c8c0079a9123e0959257ea6a1f39f657
 dev.zio	zio-aws-imagebuilder_3	7.31.3.1		8d6f234060a9fd8803e0187eafebb0e19b381ce6
 dev.zio	zio-aws-imagebuilder_3	7.31.30.1		5c3aeeaccfe0a9063e505c394d3ecb1f70326037
+dev.zio	zio-aws-imagebuilder_3	7.31.30.2		af0cd720847f543e83711e24e2b4f0542bc5ac78
 dev.zio	zio-aws-imagebuilder_3	7.31.4.1		8ec49a21ca0bd562d6379891bbbb65d1884a27dc
 dev.zio	zio-aws-imagebuilder_3	7.31.6.1		68aeed10043d98c26b0bf0aa59437812a464bd4c
 dev.zio	zio-aws-imagebuilder_3	7.31.6.2		dfc51ba177a4969ee4eacd8b3e996f0427082616
@@ -998,6 +999,7 @@ io.sentry	sentry-spring-boot-jakarta	8.10.0-alpha.1		ded3affaf768f58b0fa2b5049f2
 io.sentry	sentry-spring-boot-jakarta	8.11.0		d8fef952de7cbbd92d8b4999cb97bd2735fdfa9f
 io.sentry	sentry-spring-boot-jakarta	8.11.0-alpha.1		26d207c05d4f6e19dd7c0e5cb27cdc213526fe34
 io.sentry	sentry-spring-boot-jakarta	8.11.1		fd955f2ecd3853702e1825353d7503278831ae6c
+io.sentry	sentry-spring-boot-jakarta	8.12.0		b1e52f3b1c9ba70263c3118dbdd84d7027b19f49
 io.sentry	sentry-spring-boot-jakarta	8.2.0		9560eea282d86b3765367a11cbe71c6379047894
 io.sentry	sentry-spring-boot-jakarta	8.3.0		770b35d2bf7e89398d413805d3c595faf879d369
 io.sentry	sentry-spring-boot-jakarta	8.4.0		86f5697eb0701459be2685616514f94582d59826
@@ -1194,6 +1196,7 @@ org.apache.tika	tika-xmp	2.9.0		020a3f7d10b8766b0584f53589171c533f90b802
 org.apache.tika	tika-xmp	2.9.1		056999774a28e105e2fb5d26855ce62bc59da683
 org.apache.tika	tika-xmp	2.9.2		ca66fe7505503a3b0b237d414d1ea332a48a4484
 org.apache.tika	tika-xmp	2.9.3		c8e57908e8382ef429133ba3e8ac6b7a058eeb4a
+org.apache.tika	tika-xmp	2.9.4		90c8c5187658664ec5c766c348932f7279c8da56
 org.apache.tika	tika-xmp	3.0.0		4e715140cff1566d32e4bd384dd70410ea54feda
 org.apache.tika	tika-xmp	3.0.0-BETA		4e15d49f96ccf31e343b8f16a72ceb97164e0bf0
 org.apache.tika	tika-xmp	3.0.0-BETA2		dfae8f2bff970f2907c2b1de29c5f6a26cf7476b
@@ -1421,6 +1424,7 @@ org.opennms	opennms-dao-api	33.1.2		29e308091801754e88d2c5e9eb9d7cfbf08df73d
 org.opennms	opennms-dao-api	33.1.3		3fbcaacbc564623127813b8cc1795380c2e9ba13
 org.opennms	opennms-dao-api	33.1.4		234cc3442847726a738317be9cc0642ccd979611
 org.opennms	opennms-dao-api	33.1.5		36854197bc89d0440bf9cd5b4265269ebffc07c1
+org.opennms	opennms-dao-api	33.1.6		96c7e4610bb715febbdf7e639b02844ce98bf4d8
 org.sonarsource.sslr-squid-bridge	sslr-squid-bridge	2.6.1		803f924cf06f306026e18592390ede3325a47fd3
 org.sonarsource.sslr-squid-bridge	sslr-squid-bridge	2.7.0.377		e14c365894d16cac678c7633460c52502fc59d52
 org.sonarsource.sslr-squid-bridge	sslr-squid-bridge	2.7.1.392		f16125b79c5d28ba26a852fdb8ad7155ece01608
@@ -1522,6 +1526,8 @@ org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.10.3		0011fed
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.10.4		eabf283e9d6d33f7a503a5af64825fc257a92ce8
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.10.5		e539b29236a6b64e6afb20012d278a967fd89d27
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.10.6		4b0adde3480fd83cf6a2a1bc2b8f568b18dc7696
+org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.10.7		d5304568b33a825f7436e3b02dbafef2b845ae7a
+org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.10.8		0c496f01134331ff9a42b07f1383d215f4935395
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.2.0		0c91f7509709cd09fea34151120985ba8ce80c09
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.2.0-rc-1		c10c90ee5c5a0f17629b15ab5e3f016985a1aaf8
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.3.0		c11e6f876eb0e423d7afbae723f3090114540fbd
@@ -1536,6 +1542,7 @@ org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.4.4		ea73a6e4
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.4.5		fce619f7a33573203280d24f1c3775b46aee0f77
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.4.6		da708a82ee87f37eed57a8af48b56f1cc01b43f2
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.4.7		1c8f3c6af9c74e44d55863223283a3c4a3ecfd4a
+org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.4.8		27e7c1e9184fb863fe918a4e363266a501846041
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.5.0		978af5889b9c27475b09de383059c2821ca74c52
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.5.0-rc-1		9a87eb3e667b5a483667a038409b6d33ac0958db
 org.xwiki.rendering	xwiki-rendering-legacy-transformation-macro	16.6.0		93e2d72d3f895b9b1144755a8fbc52eafcde250c
@@ -1590,3 +1597,7 @@ tz.co.asoft	koncurrent-later-test-macosarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-later-test-macosarm64	3.0.8	metadata	ab0f4f0f307ceaf847e4c64874209ada1c322def
 tz.co.asoft	koncurrent-later-test-macosarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-later-test-macosarm64	3.0.9	metadata	6de4256f0bd8b5ae6744fb1c6f46d75fe15642e4
+tz.co.asoft	koncurrent-later-test-macosarm64	3.1.0	metadata	8084a47b1e78e9f522c69b4c834c4e1c6431faff
+tz.co.asoft	koncurrent-later-test-macosarm64	3.1.1	metadata	27c7aaeed8b8cf0af597d4404fea7590badf64cb
+tz.co.asoft	koncurrent-later-test-macosarm64	3.1.11	metadata	973c18dbad0fc6fbfaa0e81e8c0e24d54dea0ee4
+tz.co.asoft	koncurrent-later-test-macosarm64	3.1.12	metadata	709ad0d9c8f0fb891c8987a1b426c30ca8e163d9

@@ -227,6 +227,8 @@ com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.59.0		67464d969c6086651287
 com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.6.0		ff96a698d9f97b468c9aaf969ed84194c5c7902b
 com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.60.0		24b1a18675cb7af91c621d7658e63600f95226f2
 com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.61.0		562bb68238d7d41a01e97318d59131b60e583440
+com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.62.0		cf27db30fef3890ffd0524e4810d467e918c9a28
+com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.63.0		2ac3ed1491d1a7b5b4369d8e284fee7ff5948700
 com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.7.0		6d05ea8002ded682420b506fb80f5ab05b743c8c
 com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.8.0		67f5eab11c0fa9aa6345ae05c69e55a86dec5628
 com.google.api.grpc	grpc-google-cloud-batch-v1alpha	0.9.0		e0f90d5bfec70b4df379b09814fa37b52133ad4a
@@ -452,6 +454,7 @@ dev.zio	zio-concurrent_2.12	2.1.14		3e8060f86b3757b5ddd1d0cd9426f2126e2f1efe
 dev.zio	zio-concurrent_2.12	2.1.15		ce1f870b88ce2a8e1058e01397937de17c328f69
 dev.zio	zio-concurrent_2.12	2.1.16		518db988e8448dcef9bd3082a44d0cad844b0f50
 dev.zio	zio-concurrent_2.12	2.1.17		db087e5daca08e9f8772f9281b34db40ac12cce2
+dev.zio	zio-concurrent_2.12	2.1.18		53e3992a589c3e0ad023ddcb26785b5452b77809
 dev.zio	zio-concurrent_2.12	2.1.2		1c129dd325e796ad5e1ba828c753ddb4fdfb26e5
 dev.zio	zio-concurrent_2.12	2.1.3		621d5ebfeea726c09595cadb85052705fc9cc803
 dev.zio	zio-concurrent_2.12	2.1.4		d4b9736acbb01507ed83cdd4bbb7920a3ab1d854
@@ -630,6 +633,7 @@ io.helidon.microprofile.testing	helidon-microprofile-testing-mocking	4.1.6		97c2
 io.helidon.microprofile.testing	helidon-microprofile-testing-mocking	4.1.7		01c386592a40a1babb773113add31e0200ee53ad
 io.helidon.microprofile.testing	helidon-microprofile-testing-mocking	4.2.0		daacad092963f7f00e56f2b1cfaf7f4b59b8d4eb
 io.helidon.microprofile.testing	helidon-microprofile-testing-mocking	4.2.1		872ee05fec79cff473115fd0b0b8d73905f0650e
+io.helidon.microprofile.testing	helidon-microprofile-testing-mocking	4.2.2		2c593998d6f77620ea5d38209ee8907329b90c27
 io.konig	konig-java	1.12.0		75848dc7a5cccd0674bce3e271da2aae51a8461e
 io.konig	konig-java	2.0.0		0ec6b6a4a43b7e4474f39157a4278bf2852fa4c1
 io.konig	konig-java	2.0.0-1		9bde84298734c5ccba9cea2376b4015fbc881900
@@ -833,6 +837,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.13.
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.13.3-alpha		52841e8bbd2f5435aa4af734a2f4223ff21ff67e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.14.0-alpha		5a79e81fc9d5b7ff5cb70696c578f542d03cfd0c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.15.0-alpha		6ad969636f9caeeab41d3d618ba830b91a72b844
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.16.0-alpha		7f7467a883ffaba48e41f67d9f58017de352fad3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.2.0-alpha		74d83da0c887613f284e048ffbf5ac3e4840b2a0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.3.0-alpha		12ab993147f155291cdcf4ca8609e574713c8882
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-zio-2.0	2.4.0-alpha		9d46ea34484741f04e61c607f6f10a9c8da4235d
@@ -1317,6 +1322,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.41.1		11687ec452a
 org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.42.0		aec22b389b18e0c8bec3251583c1cf6349dd79b3
 org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.43.0		7a5bb79477a964c5bdbf19d9e0deaaf098766a6e
 org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.44.0		8d6697ddaae0c7a08dee544c7396634f3e954a2f
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.0		c735aba480886e7f8d411f4a3adfb71640775009
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.1		ff8104abd75fb740b497a842b6ef66747f0ed185
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.10		dd3098837503bddaa1aff21a3dac50c83c649388
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.11		4a9f0b4fcb751f6919ad63812a8efddb94dd3b13
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.12		4df1009761b8b4d7a82314941a54ea4eb6c89988
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.13		8035b0224e8fde6484af82328909806f28f57cef
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.3		a151784623e8b4f203ad819dd2b338e4adfb8957
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.4		78afcb5c9cc2c9f4076c1746b1a15504e0ddb65d
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.5		9cc039228de1e9bd8fb4f56813bcf1dade064569
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.6		0b0243d56e7cc883e798b839b626ba8247b3faff
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.7		a9497af091795d9995b3faec6806bdd4bb695a4c
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.8		386360e2da419cf00a2eb0d8eb798228c50992c3
+org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.45.9		4a15aff480dec5dc2068b6cd112c970208093da6
 org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.5.0		9d9e045422731e9f9226c02f43409891e2d6b075
 org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.6.0		1632964fc41f4e991e60272febfd9d91031c5d51
 org.eclipse.dirigible	dirigible-components-ui-view-debugger	11.6.1		4ff85992c123c303076e663ab03301eeb46f8521
@@ -1536,6 +1554,7 @@ ru.tinkoff.kora	cache-caffeine	1.1.22		077aee5f4cdede99eb16ba0a5a3344b6b05b5bb9
 ru.tinkoff.kora	cache-caffeine	1.1.23		7263cbdc4717a7b448f6c5ca5a9eeb618d9e5312
 ru.tinkoff.kora	cache-caffeine	1.1.24		367853184072dab5f98e0532c62fbaea5f841803
 ru.tinkoff.kora	cache-caffeine	1.1.25		ed3e90f418e45eb2cf75ca6cb9b7507ed5df3dd7
+ru.tinkoff.kora	cache-caffeine	1.1.26		d94009ec0d8d62bf9b1e182374a90dbc6ecf5582
 ru.tinkoff.kora	cache-caffeine	1.1.3		bdf0c38332ea7b1d0d9fdf3e8e2b1cfc230548a2
 ru.tinkoff.kora	cache-caffeine	1.1.4		2719438048c3e3067a4a7669b1af8789c82f4af0
 ru.tinkoff.kora	cache-caffeine	1.1.5		bf524a15107ec1e91f6ec35d0b2f6cc72b8487c7

@@ -95,6 +95,7 @@ com.disneystreaming.smithy4s	smithy4s-json_3	0.17.8		1536153701c1bf6e9c74fe86a80
 com.disneystreaming.smithy4s	smithy4s-json_3	0.17.9		2f317480eeec6b87f76cb8024ea2cf78e794a301
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.0		527db0cef6f0082408c42a9f0b9d4bb4979eca57
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.0-1-19acfb2		b826ac9ee56de41b8faaf20ffec05516a448a3c3
+com.disneystreaming.smithy4s	smithy4s-json_3	0.18.0-1-26737b4		f0af406fd0cd8d174e31901f9a2b94a5f95650de
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.0-1-5a26ba3		34f7df419d9b8f9a0ce11d6dbbacb8020fe5878a
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.0-1-8d943ab		6c1b0e3a6b2a261d5f6bd73d5045cb6ea177d027
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.0-1-b0aa866		69ee0177a6277c6902a4b7d4e1a3e267bac865bf
@@ -221,6 +222,7 @@ com.disneystreaming.smithy4s	smithy4s-json_3	0.18.31		bdf63752a6e4edbc474f74514f
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.32		848af406dbf77940c5fc2841c644f3692e8e86e9
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.33		53a0ae9c4a128c9f49a846351f7f84d5466a9a43
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.34		2ee331b8cacaee52bd694392d045e9aafebffbc8
+com.disneystreaming.smithy4s	smithy4s-json_3	0.18.35		6568853352e5e637f22c5694e5200e249fab5c9c
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.4		4b38b0a9256d39446395c9025747435a7e745099
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.5		e3b28fc98c1becb9388fbd8f5312e7c2716f31de
 com.disneystreaming.smithy4s	smithy4s-json_3	0.18.6		c8c63b4813c1a292db52872406b012964cf50794
@@ -322,6 +324,7 @@ com.github.ajalt.mordant	mordant-jvm	2.7.2		bc0f28249929c9e9aac93d3a24cbcc0530cb
 com.github.ajalt.mordant	mordant-jvm	3.0.0		ce34373aa2e8f4ab8c3f229615676e7da88de2ad
 com.github.ajalt.mordant	mordant-jvm	3.0.1		ce34373aa2e8f4ab8c3f229615676e7da88de2ad
 com.github.ajalt.mordant	mordant-jvm	3.0.2		ce34373aa2e8f4ab8c3f229615676e7da88de2ad
+com.github.battermann	sbt-json_2.12_1.0	0.5.0		d327f084fa7dcdcd34e1969dc919dd17dc6149de
 com.github.claremontqualitymanagement.seleniumextensions	VerificationsForSeleniumWebDriver	1.0.0		9a3facabee6803d8e3a14e0cabbe893528a5314b
 com.github.claremontqualitymanagement.seleniumextensions	VerificationsForSeleniumWebDriver	1.1.0		66a7318eb5987029deb05495b472534c6822b6cd
 com.github.claremontqualitymanagement.seleniumextensions	VerificationsForSeleniumWebDriver	1.1.1		638480673dc567b15c36b5d97555643e46501ad5
@@ -511,6 +514,8 @@ com.google.api.grpc	proto-google-cloud-redis-v1	2.61.0		71db81ad2fe142f8be9bc910
 com.google.api.grpc	proto-google-cloud-redis-v1	2.62.0		a45287c59fee7b75135b004537170fdcc7f60a7c
 com.google.api.grpc	proto-google-cloud-redis-v1	2.63.0		ba8806ffaf7745b892edcbe17a9e866020792c30
 com.google.api.grpc	proto-google-cloud-redis-v1	2.64.0		e981c0eb0cd3960005fbdcba022b90c7b812e524
+com.google.api.grpc	proto-google-cloud-redis-v1	2.65.0		c02099eb361cb4856bd8bbab0d93a387f4dbeb9a
+com.google.api.grpc	proto-google-cloud-redis-v1	2.66.0		982fe677e239164e342e5437434e1ba914c54bc4
 com.google.api.grpc	proto-google-cloud-redis-v1	2.7.0		124cc39d02db3264ffb0ec14251fcb0b89749c0b
 com.google.api.grpc	proto-google-cloud-redis-v1	2.8.0		86e6e46cfe211fe47331fdabca4b74035195dad0
 com.google.api.grpc	proto-google-cloud-redis-v1	2.9.0		02ac864106ccc1b6c533798a32f6e90a89316d7a
@@ -790,6 +795,8 @@ io.ktor	ktor-server-forwarded-header-tvossimulatorarm64	3.1.1		5761e5e690f92ccae
 io.ktor	ktor-server-forwarded-header-tvossimulatorarm64	3.1.1	metadata	123ae3bf55d2aa6712784e7cf0de2cbaba329e8a
 io.ktor	ktor-server-forwarded-header-tvossimulatorarm64	3.1.2		76c821031793c3fcc918c7b3fabce6a72140b33b
 io.ktor	ktor-server-forwarded-header-tvossimulatorarm64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-forwarded-header-tvossimulatorarm64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-forwarded-header-tvossimulatorarm64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.matthewnelson.kmp-tor	common-core-iosarm64	2.1.0		N/A
 io.matthewnelson.kmp-tor	common-core-iosarm64	2.1.0	metadata	0eb44bc41711475a68dcc1566dfde45ef8e6b795
 io.matthewnelson.kmp-tor	common-core-iosarm64	2.1.1		N/A
@@ -1250,4 +1257,7 @@ tz.co.asoft	krono-api-tvosx64	3.0.8		N/A
 tz.co.asoft	krono-api-tvosx64	3.0.8	metadata	2aaa927ce8414157b63b113fed0b25bb0f190f75
 tz.co.asoft	krono-api-tvosx64	3.0.9		N/A
 tz.co.asoft	krono-api-tvosx64	3.0.9	metadata	11f7c2c454d02bd4b60c1856a349606bb9147e00
+tz.co.asoft	krono-api-tvosx64	3.1.1	metadata	1e6b4b43e0217fffcb2a4fc36c01a42ec6c618ab
+tz.co.asoft	krono-api-tvosx64	3.1.11	metadata	be57fac91231ccf9d7a8ec5cb90df85bff088ded
+tz.co.asoft	krono-api-tvosx64	3.1.12	metadata	09e7a34be5446237b9163c987bf06546d7fabadf
 uk.gov.nationalarchives	fs2_3	0.0.1		b5b40221d4ac1d9d6adbb08caeecffd5b360a909

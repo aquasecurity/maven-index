@@ -180,6 +180,22 @@ com.bolyartech.forge.server	forge-server-jetty	9.2.1		2fb80796e8a3bf34c5209b10d7
 com.cldellow	manu-common	0.2.0		a9a96a6989403affe0064994ed9da6c737d7f577
 com.cldellow	manu-common	0.2.1		7820e2e7f5e40768491966d86be3bea5afd10151
 com.cldellow	manu-common	0.2.2		2e9d2d311246f428cf19135368fffde8f5c92e27
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.25.12		db49a1ab88b16f0a1eaaf1eb9e288352b98849d5
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.25.13		13e35abc07b85c316cbf673b63347e514324ed91
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.30.0		49b21960c75c20dfed782d690901e07481e4d08d
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.31.0		279f323939937af51a79a64ae205a22ae53b219f
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.31.1		4f6d45e50a6105efc8590212781607bacaccb910
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.31.2		a2ccde97cc2d559282912fb560d840a50cd3513d
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.31.3		01941d2c939b73f2fafc743c6915418204cfa090
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.32.0		af3c2c58facaff7d5c7eeaad4fbf6943e1489876
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.32.1		bbc2b88e3eb9b83fb6497a19d11d60fdf2f0ac29
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.32.2		d2845728a1f2fa6ef1c48d6451c12ef98828482a
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.33.0		56859119c15f6e5f3f225d7e699067e9b277da92
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.33.1		542f9d9928e20e70a392994b1e098645f2a08b98
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.33.3		19a0c8eb7525a6f8ebf6ca8921cd09269812ea01
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.33.4		4eab69799837737c9c2d3eb8c5d93d28c895afe7
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.33.5		f0bd671b9759e22371446630d3383b7ac6295636
+com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.40.0		5d9536c31e67874bd2437640525f0e74f3c936c6
 com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.40.1		b50aa2bcfab288a3043264421d4554b6d5fe0a1e
 com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.40.2		85e3925be84e7d3e5ea9b45abded7c2c19cfa730
 com.dispalt.relay	sbt-relay-compiler_2.12_1.0	0.41.0		8793cc4a56a60fe277d8e452f8396b30914c0a16
@@ -494,6 +510,7 @@ com.linked-planet.client	kotlin-atlassian-client-core-common	0.13.9		871ba77fd53
 com.linked-planet.client	kotlin-atlassian-client-core-common	0.14.0		849d4a9296e76f5703c8b983881e3e06d3526913
 com.linked-planet.client	kotlin-atlassian-client-core-common	0.14.1		1277b25876436c218c1fb43919b9df4f0864285b
 com.linked-planet.client	kotlin-atlassian-client-core-common	0.14.10		d6e6fbb8828e308a69d16dac6fa811026d5f69b1
+com.linked-planet.client	kotlin-atlassian-client-core-common	0.14.11		996916fb2cf45074e87e5de03a5ae63aae17686f
 com.linked-planet.client	kotlin-atlassian-client-core-common	0.14.2		39029f86f83a06aec462a8a4a4b776eb22d2fe60
 com.linked-planet.client	kotlin-atlassian-client-core-common	0.14.3		72a4f359b4f2e3090a071d0fd6626f536dbcd5d7
 com.linked-planet.client	kotlin-atlassian-client-core-common	0.14.5		180d15a5cf3c07f329158fedc96cf00694442665
@@ -941,6 +958,7 @@ io.deephaven	deephaven-grpc-mtls	0.37.5		c99ad7db68a76c39a29f33957132372f182936d
 io.deephaven	deephaven-grpc-mtls	0.37.6		c443abd5328f3b27e2abb399fce5a9fd9b386ef5
 io.deephaven	deephaven-grpc-mtls	0.38.0		edb5360b4659a1a430516961db66027d5d50db02
 io.deephaven	deephaven-grpc-mtls	0.39.0		84f9e2b4e2606cca89ec210046f37f93a987cc43
+io.deephaven	deephaven-grpc-mtls	0.39.1		8603e85b067d2b139331ab928a6862d580ab5e97
 io.dialob	dialob-config-parent	2.1.10		N/A
 io.dialob	dialob-config-parent	2.1.11		N/A
 io.dialob	dialob-config-parent	2.1.12		N/A
@@ -1760,7 +1778,21 @@ io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.769		176f
 io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.77		1ab409135c152a264c0f005066f543f2fc28955c
 io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.770		37f63a24c82ba657d534a67d752d7ab6d13ccf38
 io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.771		2629e662340a8dbdf8d673a84f7de32af64cbf50
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.772		280c728c8de272fab7c9c913c89d1ba30bdc9c85
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.773		f9193365426ec28f45f2ccfd225bbece810a43e3
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.774		b76f37eaeff170e4b1d0d0a246ff87901e21caa9
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.775		1c43e3855c9b7573ccc283d93965e124805354d4
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.776		9689cab7e0c836f6f8ca0bff8e9ca08041f65fd1
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.777		0619a04bdc45ff3b273b99c3cde6b2f51ed71866
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.778		63b436b56fd55cf4c20a7fb260af4b624da032a5
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.779		2692b8c18b0f354e9be7da6bb14a3be259091020
 io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.78		42e899f18588c025c3f52ee03cf93477972a8c76
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.780		f0aae2d12b7cc1ff0d5cf37b86d835b809cf6650
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.781		2ed5c000714eb9ceb31133882fd126017c0d4a91
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.782		6799122e86161910107f6460fe5e250ed24e79a3
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.783		6a70f528bfb07e23844970ff74c019bb58f26640
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.784		1d21852ee1145c6b37d7f2e9064f6418d7392d1b
+io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.785		b0b05d17a67cb0c4fa30f747a40ee3c61b88308e
 io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.79		d1aba13c4cd910709a7c5001fca05b7c25800b4a
 io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.8		28db88040169e4baeee2c6430f494c10b363fbfa
 io.github.hsiehshujeng	cdk-emrserverless-quickdemo-with-delta-lake	2.0.80		c41bb8b54ee153e33be16107cb337514599b0c52
@@ -2031,6 +2063,7 @@ org.apache.camel	camel-test-infra-mosquitto	4.8.3		beac1353cb2b049018a765cf86770
 org.apache.camel	camel-test-infra-mosquitto	4.8.4		e670fb6c23098140086d104b38a93362735e31e7
 org.apache.camel	camel-test-infra-mosquitto	4.8.5		6b5f5b808849b22731678791004c13a3639f8bc7
 org.apache.camel	camel-test-infra-mosquitto	4.8.6		919524eb1c4dc7e1e38655548be96a0768f1514d
+org.apache.camel	camel-test-infra-mosquitto	4.8.7		50e96766506e115b408a678660a9df19cc24405c
 org.apache.camel	camel-test-infra-mosquitto	4.9.0		e37c8af032b112a9d059dab4bbc800356e421739
 org.apache.camel	camel-webhook	3.0.0		722d8d437c20052bb800310177659e62e8f120ac
 org.apache.camel	camel-webhook	3.0.0-M3		4ce0a7555c1177454eb2ead3d7fb434c26c4ef72
@@ -2154,6 +2187,7 @@ org.apache.camel	camel-webhook	4.8.3		1b9d691a88a8cedd892c4b8be5134352d1788674
 org.apache.camel	camel-webhook	4.8.4		dbc537dc7c16285ff025ef2a6306f6f8db6daf4c
 org.apache.camel	camel-webhook	4.8.5		1fde84be544f035f268cacd6243ca35ce0cd3f85
 org.apache.camel	camel-webhook	4.8.6		5fdc43ea6016f3605e557faa4387b0aa5640ba84
+org.apache.camel	camel-webhook	4.8.7		ab75ed33c42624030e074f1def6d2f9eca7842fa
 org.apache.camel	camel-webhook	4.9.0		8b395818220565749cdc6a685dd718e0b31f8eef
 org.apache.camel.karaf	camel-commands-core	3.10.0		23bf1d72f536134bad1ffbee1be802355c74a65f
 org.apache.camel.karaf	camel-commands-core	3.11.0		95ecba1484765144ab781ca55c5a818442eca79a
@@ -2517,6 +2551,7 @@ org.apereo.cas	cas-server-support-jpa-eclipselink	7.2.0-RC6		f9a417b27779f6184ed
 org.apereo.cas	cas-server-support-jpa-eclipselink	7.2.0-RC6	resources	ac6dff41ade954d4ac536b1f937cb984e0262cf1
 org.apereo.cas	cas-server-support-jpa-eclipselink	7.2.1		eaf5c4497b88f2ead8894c6ffece597c123dba87
 org.apereo.cas	cas-server-support-jpa-eclipselink	7.2.1	resources	610c709db88b348f7ded1db7a30ffefc9ac5d7c0
+org.apereo.cas	cas-server-support-jpa-eclipselink	7.2.2		89c8189e41d60e9d1c4b51bd0ffe5500c7e5e5e9
 org.apereo.cas	cas-server-support-jpa-eclipselink	7.3.0-RC1		9506eb51ea564509c2d9c91d3556e3b2487bb888
 org.apereo.cas	cas-server-support-jpa-eclipselink	7.3.0-RC1	resources	87eb54c2e96b435d1a4dfbf7c70394c637329e33
 org.apereo.cas	cas-server-support-jpa-eclipselink	v6.4.0-RC5		29dbbda516098596622446cf68dcb9fd1ac8d21d
@@ -3174,6 +3209,7 @@ org.refcodes	refcodes-controlflow	3.3.6		3b3604b558ef4b9bf6c792038312a3720f5f0a7
 org.refcodes	refcodes-controlflow	3.3.7		05266fd2ef34c7cca881b7f0a6abf5d59c6d06f3
 org.refcodes	refcodes-controlflow	3.3.8		d239c191d61474fc32818913b975034413c5f479
 org.refcodes	refcodes-controlflow	3.3.9		64236c4a924c9a1732cc3d601c0c94b07443b2e1
+org.refcodes	refcodes-controlflow	3.4.0		943ad7a7a477529ae8cbeae88807b23e4c99ccb2
 org.scodec	core_sjs1_2.12	1.1.0-M1		57e968b6740ee3bc866331295cec4b0904db6ab2
 org.semanticweb.rulewerk	rulewerk-graal	0.6.0		51304e7e4b7fa4d53c8e7592891e6a173ae4fe14
 org.semanticweb.rulewerk	rulewerk-graal	0.7.0		daeb48599fdc4e18ba4ea31bd0d4abffca61ac4c

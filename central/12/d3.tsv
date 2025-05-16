@@ -86,6 +86,7 @@ app.cash.zipline	zipline-loader-macosarm64	1.8.0		N/A
 app.cash.zipline	zipline-loader-macosarm64	1.8.0	metadata	42913204c51cad0723c37c5830fe98f3d1387095
 app.cash.zipline	zipline-loader-macosarm64	1.9.0		N/A
 app.cash.zipline	zipline-loader-macosarm64	1.9.0	metadata	8b586375deaedda754333a050b310701e82c2328
+ch.sidorenko.scoverage	sbt-scoverage_2.10_0.13	1.0.5-JS		8362b82a8e5b2d1c9139db3881b872cc56228759
 city.smartb.ssm	ssm-sdk-json	0.1.0		68e87ddde4da30ee52b69e392fd5c67e4449b7fc
 city.smartb.ssm	ssm-sdk-json	0.10.0		eb632b173924f6b24fd153c583e31d86eda2af8d
 city.smartb.ssm	ssm-sdk-json	0.11.0		d6864f93f953052a608899574b8ebe43a6bee0c1
@@ -485,6 +486,7 @@ de.unruh	scala-isabelle_2.13	0.4.1-RC2		ff89a0ed93d2243a0dee0da0a1b6ff8e8678923f
 de.unruh	scala-isabelle_2.13	0.4.2		e5837b25c08f117a88c71388c1f2897adfaaae81
 de.unruh	scala-isabelle_2.13	0.4.2-RC1		a113022a75fc22244964949e90ff359feab936ac
 de.unruh	scala-isabelle_2.13	0.4.3-RC1		81ef14f240166d3105c1b4d2daef2b5928dff8fd
+de.unruh	scala-isabelle_2.13	0.4.3-RC2		061751deeefd53014fd85d057c41a50d6b1355af
 eu.michael-simons.neo4j	neo4j-migrations-parent	0.0.10		N/A
 eu.michael-simons.neo4j	neo4j-migrations-parent	0.0.11		N/A
 eu.michael-simons.neo4j	neo4j-migrations-parent	0.0.12		N/A
@@ -844,6 +846,8 @@ io.ktor	ktor-client-ios-iosarm64	3.1.1		80af5410ac0eccadb87f6774d55a3a2e4f4bc4be
 io.ktor	ktor-client-ios-iosarm64	3.1.1	metadata	a7a61d7010b650caa9427b0dd34d0fe484520984
 io.ktor	ktor-client-ios-iosarm64	3.1.2		01eedc9353d0ea742f05f53a18e5a0b018cf449a
 io.ktor	ktor-client-ios-iosarm64	3.1.2	metadata	fe1a40532bdd1f8fe83c932fd8cb021529e76357
+io.ktor	ktor-client-ios-iosarm64	3.1.3		6a4965dfa311882be6367c6bc1bdd195d9c2408b
+io.ktor	ktor-client-ios-iosarm64	3.1.3	metadata	1df72649299198ef354428fe19c4b2e778f78d8d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-camel-2.20	0.12.0		7304e63dbe16f6d6ec0233c352e31aa839da0032
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-camel-2.20	0.12.1		df223f08bf916ffbd0a92cc4a51cda1a6c430ebe
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-apache-camel-2.20	0.13.0		0350918979f09cfebd845447e71aaef922cd5b28
@@ -1148,6 +1152,7 @@ io.quarkus	quarkus-quartz-deployment	3.15.2		166cc98d989dc5a46aa845f7349cf3dc871
 io.quarkus	quarkus-quartz-deployment	3.15.3		c7f4d244bd3da27a997def2b6fc3e95e50b937a0
 io.quarkus	quarkus-quartz-deployment	3.15.3.1		750d38577b2b964af2c705471f145eb63d098f84
 io.quarkus	quarkus-quartz-deployment	3.15.4		427eb044d38a88357284e6638ee48e129b090f07
+io.quarkus	quarkus-quartz-deployment	3.15.5		c70eca5dbb4d71b9f4ac767c5ceab28c6ad7e698
 io.quarkus	quarkus-quartz-deployment	3.16.0		8728d0419acfcb40a82e99d4e7215b7f89c96249
 io.quarkus	quarkus-quartz-deployment	3.16.0.CR1		48a633c798fedc8aa37defb6a8ea95937779e41a
 io.quarkus	quarkus-quartz-deployment	3.16.1		7054511bbc52222f8df793a948416c3b5ae1612b
@@ -1192,6 +1197,7 @@ io.quarkus	quarkus-quartz-deployment	3.2.8.Final		fd240e8fd508f5314725c20b788bb2
 io.quarkus	quarkus-quartz-deployment	3.2.9.Final		84a878093f0a52b3f9c4e8a4d6d5f7cb260fba9a
 io.quarkus	quarkus-quartz-deployment	3.20.0		7c82e86c963ec020b78fce24b1c4440c56cc8673
 io.quarkus	quarkus-quartz-deployment	3.20.0.CR1		7c763b7a3215d35525993fe3c0991d084a59ff11
+io.quarkus	quarkus-quartz-deployment	3.20.1		73627119f286e6583b58053400af17eae0119e73
 io.quarkus	quarkus-quartz-deployment	3.21.0		a6247d9a83366c06f4eef72064ade380ebee36e2
 io.quarkus	quarkus-quartz-deployment	3.21.0.CR1		38f54bbf1e35ddf2face1b40cb855b25b56855f2
 io.quarkus	quarkus-quartz-deployment	3.21.1		c7dff455545b8ff903237a538955976e69a18cef
@@ -1201,6 +1207,9 @@ io.quarkus	quarkus-quartz-deployment	3.21.4		9e7fe64d944ff918334b77d01e8ddfc7a2c
 io.quarkus	quarkus-quartz-deployment	3.22.0		98cae5dc2df896bdccf6ebc9c5b60e22528e036e
 io.quarkus	quarkus-quartz-deployment	3.22.0.CR1		fc71a998408e767230a15d639d1c984f204f54d7
 io.quarkus	quarkus-quartz-deployment	3.22.1		f963124c076bd70973d6c39e22863bc016fdb8ce
+io.quarkus	quarkus-quartz-deployment	3.22.2		3860a232e6b0c8ad1f44a31af940a2adfa5a5c75
+io.quarkus	quarkus-quartz-deployment	3.22.3		e30e55917ec820c128a0485bd4a30fbcab45994a
+io.quarkus	quarkus-quartz-deployment	3.23.0.CR1		47d25ecfb79b403b4154955fc30d596e8e270278
 io.quarkus	quarkus-quartz-deployment	3.3.0		b32450ceddc4687f167832096edd9c230f374901
 io.quarkus	quarkus-quartz-deployment	3.3.0.CR1		5ac296f63db31bf959765c4aa9d0946e3dad5fe0
 io.quarkus	quarkus-quartz-deployment	3.3.1		691a17765e355f6026d5199515a33e65a5500008
@@ -1316,6 +1325,10 @@ name.nkonev.r2dbc-migrate	r2dbc-migrate-resource-reader-api	3.1.2		ac5ce20d39d36
 name.nkonev.r2dbc-migrate	r2dbc-migrate-resource-reader-api	3.2.0		5cf187de5479bd4af51ad6ed956f3356c3ef2311
 net.avcompris.commons	avc-examples-users3-api-tests	0.0.1		3b7f5763145d6bc5b475a11eb3076376ac3e16a8
 net.avcompris.commons	avc-examples-users3-api-tests	0.0.5		8d43b6e8af1cb417ab9f6862d4a6fddd10c602df
+net.kindleit	play2-native-packager-plugin_2.9.2_0.12	0.3		c4dbdd002f2e25f6f16d28634838bf03ca7b5d5a
+net.kindleit	play2-native-packager-plugin_2.9.2_0.12	0.4		7f2572b940947f9b3cae07105d19f7ca66243891
+net.kindleit	play2-native-packager-plugin_2.9.2_0.12	0.4.1		0180ba7167e2553ccb816c5887607ee0f7bac92a
+net.kindleit	play2-native-packager-plugin_2.9.2_0.12	0.5.0		2b7c6a0450495ae227354b7738db133a940768c5
 net.trajano.mojo	jaxws-maven-plugin	2.3.1		c48558eb378ad85b5305a0be23959f3e9f39b4aa
 net.trajano.mojo	jaxws-maven-plugin	2.3.6		5af0194e2739467107575c3c47d4b0b4ef105dca
 net.trajano.mojo	jaxws-maven-plugin	2.3.7		a2f7f2419ef6cf848ff015c9b7e2147904fc52ec
@@ -1339,6 +1352,7 @@ org.docx4j	docx4j-legacy-service	11.4.9		226a6cee5396f640d8eddc0ab86526a07777b72
 org.docx4j	docx4j-legacy-service	11.5.0		e9ae93b80687691ef1ca55c7edf8824b8ae13bda
 org.docx4j	docx4j-legacy-service	11.5.1		aae866f3627fdcefb8f12cbbab7beaf867699b27
 org.docx4j	docx4j-legacy-service	11.5.2		6d01aeb258c9f6a13f1b400a4368da26ae8c0a4c
+org.docx4j	docx4j-legacy-service	11.5.3		7f1c41f540bb3f479f7902d80753912176636c1a
 org.docx4j	docx4j-legacy-service	8.3.1		715e4a4982641694f05dd51c2cc303a93a568674
 org.docx4j	docx4j-legacy-service	8.3.10		cec0d8ce04f97fc86c56cd8b9ace230dbf6611e4
 org.docx4j	docx4j-legacy-service	8.3.11		dcbe081c6b57d55a46c19d185a0671db21d7db62

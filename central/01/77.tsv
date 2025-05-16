@@ -96,6 +96,7 @@ com.gccloud	dashboard	1.0.1.2023102601.Alpha		N/A
 com.gccloud	dashboard	1.0.1.2023110201.Alpha		N/A
 com.gccloud	dashboard	1.0.1.2023122801.Alpha		N/A
 com.gccloud	dashboard	1.0.1.2024062701		N/A
+com.genexus	gxxmlsignature	4.9.0		417585f64dc467de153a00494106105982100e14
 com.github.iotexproject	iotex-antenna-java-legacy	0.7.0		853c4e70950a4b5357a46b3b8581c14d32bdb7da
 com.github.j-mie6	parsley_sjs1_2.12	2.8.6		4204f99741693cb561e45f3080c1979f7a0d9ae5
 com.github.j-mie6	parsley_sjs1_2.12	2.8.7		f7e455d67cd3af255d17ef89c5143a38ffabceb3
@@ -452,6 +453,7 @@ com.ucasoft.komm	komm-plugins-exposed-jvm	0.10.3		a241b9fdaccbb86470affbf1203131
 com.ucasoft.komm	komm-plugins-exposed-jvm	0.20.2		7b5139a0579d62ca33c994b803a2586228cbba30
 com.ucasoft.komm	komm-plugins-exposed-jvm	0.22.8		7b5139a0579d62ca33c994b803a2586228cbba30
 com.ucasoft.komm	komm-plugins-exposed-jvm	0.24.3		7b5139a0579d62ca33c994b803a2586228cbba30
+com.ucasoft.komm	komm-plugins-exposed-jvm	0.25.0		7b5139a0579d62ca33c994b803a2586228cbba30
 com.ucasoft.komm	komm-plugins-exposed-jvm	0.7.4		1c8a30fbd11cb56157599f22e051e5b3cafbd560
 com.ucasoft.komm	komm-plugins-exposed-jvm	0.7.5		1c8a30fbd11cb56157599f22e051e5b3cafbd560
 com.ucasoft.komm	komm-plugins-exposed-jvm	0.9.10		1c8a30fbd11cb56157599f22e051e5b3cafbd560
@@ -588,6 +590,7 @@ io.deephaven	deephaven-ssl-kickstart	0.37.5		7a117c186f84bfef3bbbce1bc36edf276da
 io.deephaven	deephaven-ssl-kickstart	0.37.6		3f52c876af6cb7b32c9d53f7a5ca707212e153a7
 io.deephaven	deephaven-ssl-kickstart	0.38.0		18a0e72dc5b062e241888302bd4a0b60371c7773
 io.deephaven	deephaven-ssl-kickstart	0.39.0		f6c2ea3013e2c3a1b0fa291a9d45836acc13b00b
+io.deephaven	deephaven-ssl-kickstart	0.39.1		4ab5995d8b708c22c57e08421e1768068bf5752e
 io.eventuate.cdc	eventuate-local-java-cdc-connector-polling	0.10.0.RELEASE		55dae1df0be5e0a4d787281da892011428ee2650
 io.eventuate.cdc	eventuate-local-java-cdc-connector-polling	0.11.0.RELEASE		99db198308452c490cb120dd846749b9483a2e3a
 io.eventuate.cdc	eventuate-local-java-cdc-connector-polling	0.12.0.RELEASE		5b4d8d28da7d9793e8dba68d66bbbd237c6c42aa
@@ -701,6 +704,7 @@ io.helidon.http.encoding	helidon-http-encoding-deflate	4.1.6		0d8a81c7fd09d480bf
 io.helidon.http.encoding	helidon-http-encoding-deflate	4.1.7		805733db5fbdca6cceb85eb82026d114b9ec9b6b
 io.helidon.http.encoding	helidon-http-encoding-deflate	4.2.0		e60e776ad27d6c31655c052010e62644a1988ffe
 io.helidon.http.encoding	helidon-http-encoding-deflate	4.2.1		dfa3e27759ea399ce9ec292c8f0cc1db13cef27a
+io.helidon.http.encoding	helidon-http-encoding-deflate	4.2.2		6340b57f57ee6f8975862784bc555c9781f8c997
 io.muenchendigital.digiwf	digiwf-engine-task	0.10.0		e796fcfdd471c07ffd1541be65019e781f9ba803
 io.muenchendigital.digiwf	digiwf-engine-task	0.10.1		0af516e06da82c2c570f9e80937245d007955175
 io.muenchendigital.digiwf	digiwf-engine-task	0.10.2		aedc76c66c12cba59cef296cd3fad025c6076301
@@ -815,6 +819,7 @@ org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.2.1		5c61881c12a304212c
 org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.2.2		8eaec6a4e8b7ac5ac37b05c04a0ef3e34346db9d
 org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.2.3		766c4f48cbd2bf6243758aa3cbab67e16710aa72
 org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.20.0		1c9f541c527969e99a5556974f21302f75f4383c
+org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.20.1		97d50e138e88822950759d9f713fd455596a749d
 org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.22.0		57909e23176f3e15d566daa00aba16cf3429bf84
 org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.4.0		6a74bdd40d73880c162675fee15eb18efea31066
 org.apache.camel.quarkus	camel-quarkus-cbor-deployment	3.5.0		03b885b07a618c48c11d572171497a75858394d4
@@ -882,6 +887,8 @@ org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.17		5d
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.18		0367301346cb6c79e8c5683786a17186a444f668
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.19		caaa15b3beadd02cfbb118d477f6148de2b69f3a
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.2		5dde0624efc94658cf8bfad9e4c3f6fb3ef9bccb
+org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.20		22f171ca9ffc6ffcf9d86c0da95926b5d7d1b8fc
+org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.21		feb894ff332899139cea85f07132bb0752f13ae8
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.3		83dc853648763b2752911a1cebd9de06ec6cc104
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.4		00b8566d840dcd40edbd5497028dd341b33cc98b
 org.eclipse.jetty.ee10.websocket	jetty-ee10-websocket-jakarta-server	12.0.5		be243d9d70460fc2345ab31d035416a535ec0a85
@@ -1080,10 +1087,17 @@ org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.79.0		e958
 org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.80.0		3600d309ffdd22b8b0c677aa94f3d92065f997b8
 org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.81.0		325dbfbf6417066aa1529925474718854647fa89
 org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.82.0		43d3b6c80fcc764560f39801344f411b7ee48c93
+org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.82.1		675c4892a76a7d07dd8812cdcdcf37ca00d5fdca
 org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.83.0		72add65e394b15116894b27c65c81dc329c9ddea
 org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.83.1		c25f068e869b219e7881142a889f9c0f5b01553b
 org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.83.2		d0d8398fc2c757d5e7bbedf8e78b71a0566799b8
 org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.83.3		3a47298807105f84eec6d8a7e4bdb6e3ca068b77
+org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.84.0		3872e1687b333aa579ae73ae4f0980b13242b5ed
+org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.84.1		5342ca696bc206813ca76fad0c4b2d10d7d35074
+org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.85.0		496658b997bc0642ee9880738fa5ddc66c754f9d
+org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.85.1		d5f0a3def85d0f6b1d55c370ab856bb79ee86dc0
+org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.85.2		b862fa5a5db8be4710d1d51bdb249bb86cbab8b2
+org.finos.legend.engine	legend-engine-xt-functionActivator-protocol	4.85.3		241a6b554f02e989e4a0608fbde00f867d39d677
 org.hibernate.ogm	hibernate-ogm-jipijapa	5.0.1.Final		75ab982f48109d435cc1002e4ce5a565e978d7e7
 org.hibernate.ogm	hibernate-ogm-jipijapa	5.0.2.Final		0bd6b2d0f573ea5dc8c65bfb439ddeb5e19e9c32
 org.hibernate.ogm	hibernate-ogm-jipijapa	5.0.3.Final		7fae46110813eac114274109446187a269ecfe9f
@@ -2057,6 +2071,7 @@ org.openmole.scaladget	acediff_sjs1_2.13	1.3.4		0096a49b90ef81fefe3783251f10e1bd
 org.openmole.scaladget	acediff_sjs1_2.13	1.3.5		9684918c8bd7a439a1a3396f48a88399d5aa7a3d
 org.openmole.scaladget	acediff_sjs1_2.13	1.3.6		9ff38048f256ad31f51804022e961ba7363aaf2f
 org.openmole.scaladget	acediff_sjs1_2.13	1.3.7		66cebe0f774b2cdf5b8ab9349f574116c64c7078
+org.springframework.ai	spring-ai-starter-model-chat-memory-repository-neo4j	1.0.0-RC1		3cb952eeca1b5be95f56f8ddccf7a5972fc1c944
 org.springframework.cloud.stream.app	ftp-sink-rabbit	1.0.2.RELEASE		4fb6161209142a9171190f3b6ddcf4a41cdb9719
 org.springframework.cloud.stream.app	ftp-sink-rabbit	1.0.4.RELEASE		a7a038bc80b69fe2f0c3af12b59f55c768019cd2
 org.springframework.cloud.stream.app	ftp-sink-rabbit	1.1.0.RELEASE		3d7c8dfb700ca8f59a8aaafcf6ae052df0fc41b5

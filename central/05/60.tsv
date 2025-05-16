@@ -329,6 +329,9 @@ com.kubukoz	better-tostring_2.13.3	0.2.9		9dd88d293e6de0aea012764c5850a8873bf8aa
 com.kubukoz	better-tostring_2.13.3	0.3.0		e22fd3a264ef2abbad3eea1d7246d80b68689354
 com.kubukoz	better-tostring_2.13.3	0.3.1		3ca3693bd28330b3eb5977508d1452e7fb0a7702
 com.kubukoz	better-tostring_2.13.3	0.3.2		e30dfd94ec0443343583364eb7ed32a53530e221
+com.lightbend.paradox	sbt-paradox-lightbend-project-info_2.12_1.0	1.0.0		f8c4196eb574a028c693c077c5ec81a220d28f5d
+com.lightbend.paradox	sbt-paradox-lightbend-project-info_2.12_1.0	2.0.0		7db9fbb341906fb0805d7419d1376884c3a40700
+com.lightbend.paradox	sbt-paradox-lightbend-project-info_2.12_1.0	3.0.0		933c46c1268c3795f0a08d272cf3897eb69008b7
 com.lightbend.paradox	sbt-paradox-lightbend-project-info_2.12_1.0	3.0.1		7b708e0b4e9676c9590ae434eb49174bc938dca9
 com.microsoft.bing	bing-videosearch	1.0.0		34caecc2620b481c6a904eaa7f6a2fcdaf3f4760
 com.powersync	compose-jvm	1.0.0		f313d4f4603833e9e9d3fd7aef0e37bdad7b9d2e
@@ -434,6 +437,7 @@ com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.1217		d253b431d947670
 com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.1222		1bb8a0ad20407bc6804730d40750c3ec8579858f
 com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.1228		1d14e32b0bd8c6aa2f57f06795f4fb30f10c15b2
 com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.1233		3c8dc2b0323b6d578b71967c74b67b0865b81e99
+com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.1257		ef43d3ddcdef635e0c35ff2d7ac362ffa67b4851
 com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.179		09f5a05b9feb54aca6668aa159459a81b1f1d284
 com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.179	jar-with-dependencies	653234912603fbfceedb7242868f2e061a4e45af
 com.tencentcloudapi	tencentcloud-sdk-java-organization	3.1.180		957f7575024b159a2a2393311d48e332e50dbc98
@@ -1536,6 +1540,7 @@ io.github.tweener	passage-iosarm64	1.3.3		N/A
 io.github.tweener	passage-iosarm64	1.3.3	metadata	72a10e6d3046c2a9f8aa56e4de514c679e9272c9
 io.github.tweener	passage-iosarm64	1.3.4		N/A
 io.github.tweener	passage-iosarm64	1.3.4	metadata	1605e24dd9cd02ca7c7810e848eea0988a6bb29d
+io.github.tweener	passage-iosarm64	1.3.5	metadata	7aed764c982253877be2f0c24d62a70aded4eef2
 io.gravitee.policy	gravitee-policy-geoip-filtering	1.0.0		5449f0435b494306a218b44cc783fff7e92ea800
 io.gravitee.policy	gravitee-policy-geoip-filtering	1.0.1		61564ae02b68755fdf2efee7541e4f39fe63cfce
 io.gravitee.policy	gravitee-policy-geoip-filtering	1.1.0		e85aa12e38912b775b05aa3643e87aa739778307
@@ -2263,12 +2268,14 @@ org.apereo.cas	cas-server-support-audit-rest	7.2.0-RC6		e426983535bf2185760a8727
 org.apereo.cas	cas-server-support-audit-rest	7.2.0-RC6	resources	be1b3a84c9270bf2ff6edb4d8a68589e2fe43564
 org.apereo.cas	cas-server-support-audit-rest	7.2.1		0870598714bd895f96fef63302a873cd17c32462
 org.apereo.cas	cas-server-support-audit-rest	7.2.1	resources	0ec8f55355e680ff69240af9613ba425f8de3edb
+org.apereo.cas	cas-server-support-audit-rest	7.2.2		c896668498e6c3f8c4cbb37c8be05e6de8de3057
 org.apereo.cas	cas-server-support-audit-rest	7.3.0-RC1		17cf40802e2f75b79df83c73d9b3259cbc56edb9
 org.apereo.cas	cas-server-support-audit-rest	7.3.0-RC1	resources	09704073eb5285197add2958ea80ddc0858f80b0
 org.apereo.cas	cas-server-support-audit-rest	v6.4.0-RC5		43588d14f0460855f74783bbec7415c2b978c5b1
 org.apereo.cas	cas-server-support-audit-rest	v6.4.0-RC5	resources	b46090641094b7ff36757756683eec45f04e2a69
 org.apereo.cas	cas-server-support-audit-rest	v6.4.0-RC6		5c85ab1da283075de060d920b82737ee3ae3a4ba
 org.apereo.cas	cas-server-support-audit-rest	v6.4.0-RC6	resources	fa568759859382819983b28850350fd75e1cc4b9
+org.apereo.cas.core.cas-server-core-validation	5.0.0.RC2	core		92cfa3f25adbcf6a93962265c9c65729728341f0
 org.appops	appops-br-service-base	0.3.0		52c61cfa1ec8871f1c8862b568e778f17b874fb3
 org.appops	appops-br-service-base	0.4.0		9518dcef87f40b16209d8f10b2ee0ce11724b53d
 org.appops	appops-br-service-base	0.5.0		610c56aa86b6a161f4a0032f50faad7469a1ae19

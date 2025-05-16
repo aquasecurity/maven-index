@@ -23,6 +23,7 @@ ai.djl.tensorflow	tensorflow-model-zoo	0.30.0		66a605e3fce2b5069b4a4668ec60bea0c
 ai.djl.tensorflow	tensorflow-model-zoo	0.31.0		9d2ee4ae060b1b5b65464902f80b7b18ec217278
 ai.djl.tensorflow	tensorflow-model-zoo	0.31.1		d42b6461b452538f17ae1595298386e3f1549416
 ai.djl.tensorflow	tensorflow-model-zoo	0.32.0		193d8cdd17c49bad65d68567159b0512fbaa291b
+ai.djl.tensorflow	tensorflow-model-zoo	0.33.0		049ccbd7e96239c036c1f449c4d35724c2a95dc8
 ai.djl.tensorflow	tensorflow-model-zoo	0.5.0		e4feaaf16cf55359a61787511625355f1eb7f6e3
 ai.djl.tensorflow	tensorflow-model-zoo	0.6.0		ea10191e99adf916bd002cbbe2602ad81af3fe42
 ai.djl.tensorflow	tensorflow-model-zoo	0.7.0		78dd94a5bd9c042242c24268f597ea9528ac3377
@@ -52,6 +53,7 @@ com.akuleshov7	ktoml-source-iosx64	0.5.2		N/A
 com.akuleshov7	ktoml-source-iosx64	0.5.2	metadata	1632c0450635fac547efe4b08c0f5aecbfbf2ef5
 com.akuleshov7	ktoml-source-iosx64	0.6.0		N/A
 com.akuleshov7	ktoml-source-iosx64	0.6.0	metadata	8af95d0cb8525f2d4e0ebfd5365452f61cb9b740
+com.akuleshov7	ktoml-source-iosx64	0.7.0	metadata	7e14c05870ce00dc11c7d619de2dce3fdfeb1c57
 com.alibaba.fluss	fluss-client	0.5.0		10c0ad404d67f5c309a66aa49f7f9e0b82487f7f
 com.alibaba.fluss	fluss-client	0.6.0		8302676eaa73083259c2fe9f24faae21594016e4
 com.aliyun.calcite.avatica	ali-avatica	1.12.0		a4d22ffe93c76c0ae0d6587585f7785d9676c792
@@ -171,6 +173,7 @@ com.dwolla	dwolla-otel-natchez_2.13	0.2.0		0405f987edd6ab70dc0e60cb199c2bc45dd72
 com.dwolla	dwolla-otel-natchez_2.13	0.2.1		b567c923f65d5ae0f27b8aed94a9de9b31d94ab0
 com.dwolla	dwolla-otel-natchez_2.13	0.2.2		cf6b0acebfe80d906e6e0df19efdc633a836d41f
 com.dwolla	dwolla-otel-natchez_2.13	0.2.3		8ffc36bc32fbebca437a090aa6a12224926fa759
+com.dwolla	dwolla-otel-natchez_2.13	0.2.4		ff970312020dbdee4fce9ccbe3611c1e361b620f
 com.ensody.reactivestate	reactivestate-android-watchosarm64	6.0.0-preview.1		N/A
 com.ensody.reactivestate	reactivestate-android-watchosarm64	6.0.0-preview.1	metadata	3ff8a6ccbfe8e9f888e96d4a8f1dfb9570afd7ae
 com.ensody.reactivestate	reactivestate-android-watchosarm64	6.0.0-preview.2		N/A
@@ -851,6 +854,9 @@ io.arrow-kt	arrow-fx-coroutines-watchossimulatorarm64	2.1.0	metadata	a3fe375f615
 io.arrow-kt	arrow-fx-coroutines-watchossimulatorarm64	2.1.1		N/A
 io.arrow-kt	arrow-fx-coroutines-watchossimulatorarm64	2.1.1	metadata	d9e23ef426ab1f8e90c438c5b6df8ce815ea714d
 io.chrisdavenport	cats-effect-time_native0.4_3	0.2.1		dc968942d3374b31367855b2b884bbac4c0e5ad5
+io.dapr	durabletask-client	1.5.2		72a912539618dddb927bec9fdeb752cbeaf431af
+io.dapr	durabletask-client	1.5.3		60e5a695e36174dd21644d74bbf4dbb569bfa123
+io.dapr	durabletask-client	1.5.4		1bf34042c7df60cb0ed78f4df4e90ed92f0bdd2d
 io.deephaven	deephaven-Numerics	0.10.0		05f3e6847cf3e1b39ce806fe2dccbc01cfe6bff0
 io.deephaven	deephaven-Numerics	0.11.0		c051e52996a731a7480fdfbf2beecb54832f2c1a
 io.deephaven	deephaven-Numerics	0.12.0		b5c5e1d0df1f6a2990ae5360b42a02dcd6fb6d8e
@@ -921,6 +927,7 @@ io.deephaven	deephaven-Numerics	0.37.5		c4268904101ec62d0ed88d73e357fe7e498f8a64
 io.deephaven	deephaven-Numerics	0.37.6		1ebbc602c5474ddabe81676b0da506ac19369d75
 io.deephaven	deephaven-Numerics	0.38.0		cc1fbcadf9300217c53fe82d31aa1399cabe6966
 io.deephaven	deephaven-Numerics	0.39.0		f5e778f45fc602703bf03ddca5db86837f5765c7
+io.deephaven	deephaven-Numerics	0.39.1		e332274ba99b5d8926e3c621ea750ed419aa8b63
 io.eventuate.tram.core	eventuate-tram-reactive-consumer-common	0.30.0.RELEASE		f0f42d60338a24290312c2e6dde578005445cde9
 io.eventuate.tram.core	eventuate-tram-reactive-consumer-common	0.31.0.RELEASE		77aed7b0d16b8a32a7a6d12073a3873e694185f5
 io.eventuate.tram.core	eventuate-tram-reactive-consumer-common	0.32.0.RELEASE		37add59cd06a05f06f87cc2a6a599b252553a067
@@ -954,6 +961,7 @@ io.github.summercattle	cattle-commons-webflux	0.0.1.SP2		fea38c1ecfa52fd7ff0d8fd
 io.github.zqrferrari	logi-log-standard	1.0.0		2d799d2d0925fa92be35522b34bd9041f0b9a227
 io.kroxylicious	kroxylicious-kms-test-support	0.10.0		628b7a71e7071b60a894ec9220810e8b3bbc788b
 io.kroxylicious	kroxylicious-kms-test-support	0.11.0		6d67cf758623a79e560bc9334f0791abc8032c7c
+io.kroxylicious	kroxylicious-kms-test-support	0.12.0		7e6987082b3a2719edfc3d665f948a6bcd084a4b
 io.kroxylicious	kroxylicious-kms-test-support	0.4.0		8d1f5d2532040bcb8acc7196a50b1c89266486fc
 io.kroxylicious	kroxylicious-kms-test-support	0.4.1		6f65575776972c277fcd660f4a624c5b57798978
 io.kroxylicious	kroxylicious-kms-test-support	0.5.0		b67c48f32370413a031d79503abfe28eebfa9dbe

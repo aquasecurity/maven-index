@@ -26,6 +26,7 @@ ai.djl	api	0.30.0		7e77d64e8b771241e8d139c41f46ce1054048265
 ai.djl	api	0.31.0		c0f168e1b1c312dc9eaf04a1e5a29b79f414597a
 ai.djl	api	0.31.1		e2b58b05c3e9935abbf08b93d57040debbfd2a6b
 ai.djl	api	0.32.0		846dd405cbb8400ffbd348c2754ea1167da2d161
+ai.djl	api	0.33.0		27a1370a12444773b07d5f867bebd0fb60398b85
 ai.djl	api	0.4.0		6ac5cfacef07460f78a9f58c4de6afbb1414cb5d
 ai.djl	api	0.4.1		f303311a17294cf012f9bdfc8a3a8e13754826e7
 ai.djl	api	0.5.0		b2ae32841a832583bf91dfea0a96d2a9238f3e32
@@ -639,11 +640,15 @@ com.intuit.playerui	perf_tests	0.10.4-next.2		d2fb3db1ebdce1358e59ee254c74895b41
 com.intuit.playerui	perf_tests	0.10.5-next.0		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.10.5-next.1		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.10.5-next.2		d2fb3db1ebdce1358e59ee254c74895b412202bf
+com.intuit.playerui	perf_tests	0.11.0		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.11.0-next.0		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.11.0-next.1		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.11.0-next.2		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.11.0-next.3		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.11.0-next.4		d2fb3db1ebdce1358e59ee254c74895b412202bf
+com.intuit.playerui	perf_tests	0.11.0-next.5		d2fb3db1ebdce1358e59ee254c74895b412202bf
+com.intuit.playerui	perf_tests	0.11.1		d2fb3db1ebdce1358e59ee254c74895b412202bf
+com.intuit.playerui	perf_tests	0.11.1-next.0		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.7.0		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.7.1		d2fb3db1ebdce1358e59ee254c74895b412202bf
 com.intuit.playerui	perf_tests	0.7.2		d2fb3db1ebdce1358e59ee254c74895b412202bf
@@ -2730,6 +2735,8 @@ net.folivo	trixnity-clientserverapi-model	4.14.3		2ceb5e50ef4036471f5fefc12bae93
 net.folivo	trixnity-clientserverapi-model	4.14.4		2ceb5e50ef4036471f5fefc12bae9372d0a1e56b
 net.folivo	trixnity-clientserverapi-model	4.15.0		30d9c8c9dc162fed6005c9e0adb73a95a9025097
 net.folivo	trixnity-clientserverapi-model	4.15.1		30d9c8c9dc162fed6005c9e0adb73a95a9025097
+net.folivo	trixnity-clientserverapi-model	4.15.2		521070224e78d5f067b37173ad12c136d1f4bba8
+net.folivo	trixnity-clientserverapi-model	4.15.3		0159fc149233e688fc397cb94ab922a2230156ce
 net.folivo	trixnity-clientserverapi-model	4.2.0		4a3d5b715ff03fd445cb5706608d338b8f9a179d
 net.folivo	trixnity-clientserverapi-model	4.2.1		4a3d5b715ff03fd445cb5706608d338b8f9a179d
 net.folivo	trixnity-clientserverapi-model	4.2.2		9302a1dc179f8b3d5986477b78d7b044da4024bb
@@ -2778,6 +2785,7 @@ net.hamnaberg.googleapis	googleapis-http4s-bigquery_2.13	0.4.5-v2-20240905		326a
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_2.13	0.6.0-v2-20240919		5ff5caa9f0c15554d6121ddd84d13f147954f6cd
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_2.13	0.6.1-v2-20241111		974406bc2952ef53878940b824d896376a605d69
 net.hamnaberg.googleapis	googleapis-http4s-bigquery_2.13	0.6.2-v2-20250128		8826730c97d5f3b24ee5fc02b4430ef012a9d453
+net.hamnaberg.googleapis	googleapis-http4s-bigquery_2.13	0.6.4-v2-20250427		4b86d11326d5266984129763388f7e7eddfaf9e0
 net.kuujo.catalyst	catalyst-netty	1.0.0-beta1		54363036f622ef30263bafe3c2ec74d6bb0187f2
 net.sourceforge.openutils	openutils-dbmigration	0.1		0072481d75cda15b18b75f64b426a024e5e6e23d
 net.sourceforge.openutils	openutils-dbmigration	0.2		8a8073cca366f042771cb3b67b8b12d49441f7e8
@@ -2904,6 +2912,7 @@ no.priv.bang.authservice	authservice.web.security	2.1.1		a2d1fbaa4bb9f18599e04a0
 no.priv.bang.authservice	authservice.web.security	2.2.0		8db3076ce25f98c51c17081b45962563a35689b1
 no.priv.bang.authservice	authservice.web.security	2.3.0		18180914bd5a03853a4a2700935599340daf876d
 no.priv.bang.authservice	authservice.web.security	2.3.1		d0c06108e3d7fa96ec6854c2232d5c0194e5e1c5
+no.priv.bang.authservice	authservice.web.security	2.3.2		44cc4f25b6a808f3b17fdda72bb379c927c34597
 org.apache.cxf	cxf-codegen-plugin	2.0.10		35bd4fbef341a571a1f0be64a1ea2ab258898a8e
 org.apache.cxf	cxf-codegen-plugin	2.0.11		d90500eeb7b67f2b4546835ff93f84e4c5964cb4
 org.apache.cxf	cxf-codegen-plugin	2.0.12		aba3500c97acbbb0e9ebbef34877259f14a6c8e6

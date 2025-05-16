@@ -29,6 +29,7 @@ ch.epfl.scala	scalafix-core_2.13	0.13.0		99466d3ccfc731b142396ec1d15d359137c5a1b
 ch.epfl.scala	scalafix-core_2.13	0.14.0		59003e498c2875a613f7f1b6b122d8d4edbb1b9a
 ch.epfl.scala	scalafix-core_2.13	0.14.1		ad282ae2a41a01fffb404d14b69c21371a12bd2b
 ch.epfl.scala	scalafix-core_2.13	0.14.2		fbc675f6c2f5a853953f6dd41b1c3bead3008356
+ch.epfl.scala	scalafix-core_2.13	0.14.3		5e0fa827024c5f668ba2419f85d874d51492e340
 ch.epfl.scala	scalafix-core_2.13	0.9.16		6eb2c997649b52264830445430d75e76ce474f4a
 ch.epfl.scala	scalafix-core_2.13	0.9.17		c59c8ab9b44120001a55c201e7460b5b9e2f3e49
 ch.epfl.scala	scalafix-core_2.13	0.9.18		43d602744297fe8bb8b5ce66f57b55c13f6a3da3
@@ -1048,6 +1049,7 @@ media.kamel	kamel-image-default-iosx64	1.0.2		N/A
 media.kamel	kamel-image-default-iosx64	1.0.2	metadata	7acf19f174e162a35619d4d5add0577363473743
 media.kamel	kamel-image-default-iosx64	1.0.3		N/A
 media.kamel	kamel-image-default-iosx64	1.0.3	metadata	a6571ebb387221527a98bef46504b806061ab108
+media.kamel	kamel-image-default-iosx64	1.0.5	metadata	66b9248e6b7127c031cc41d638aa3d585e426d37
 net.exoego	aws-sdk-scalajs-facade-kinesis_sjs0.6_2.13	0.24.0-v2-473-0		33a615d4e06fd87d62d7fc72d44ea64cf14afd57
 net.exoego	aws-sdk-scalajs-facade-kinesis_sjs0.6_2.13	0.24.1-v2-473-0		c9949dfa82cd06749e5ba371c0622bd398a7ccd6
 net.exoego	aws-sdk-scalajs-facade-kinesis_sjs0.6_2.13	0.24.2-v2-437-0		2aeafedfa3344d64bbef68e81f3665670a9d82e7
@@ -1380,6 +1382,8 @@ org.anyline	anyline-data-jdbc-questdb	8.7.2-20250312		a892173614ccb1943385052110
 org.anyline	anyline-data-jdbc-questdb	8.7.2-20250401		c44d2a348d09a670d40384336fbf0572cc6788ad
 org.anyline	anyline-data-jdbc-questdb	8.7.2-20250404		61f56aa2963a94bca9741dce21ff49171f494620
 org.anyline	anyline-data-jdbc-questdb	8.7.2-20250502		66bdf1cbfb6e06bc8201d3c910a2176bb61b999d
+org.anyline	anyline-data-jdbc-questdb	8.7.2-20250509		6a1c58d2f2d7e66545754f1c04726f42768864ff
+org.anyline	anyline-data-jdbc-questdb	8.7.2-20250515		46d4e966c2ba4d091265d3a3f4444400086cc0f6
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20240816		326302bc28242bac2bc22f547ad3bdb0d5a169ec
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20240826		f2cde27076c46b9357521306413ce7d69f5bc432
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20240827		c4d2e6a46e1410dac2eb777aea4b97c087e11b28
@@ -1392,6 +1396,8 @@ org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20250102		1c3c4682a8eb227d1992
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20250108		058a190264f8c2bdc85b367773db37cf14e0093d
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20250312		7696f065ae5ebe5251de9cc1a9da2e6c5353fb35
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20250404		ccb47d1764d69b884995bcd8e8bf4a7830901ed0
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20250502		409d0e601f1daafeec41f58943e79bab93bf9f06
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk11-20250509		f0c8856d77c152363c68526ea0b0a5687124c938
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20240501		2dfe9cc63d69578acfe5145677860f11526a2327
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20240505		48098dbaabedce58345b0e3514686c925ccacb18
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20240506		e85fa77d4adde96daf612a94de214d1ff9c6a928
@@ -1463,6 +1469,9 @@ org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20250109		b493664e4ae5d21401df
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20250212		94200ed91958785c66b484c53b6f1964601ce7a5
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20250312		8df00c9debdb6ebb4bddf3444d900581ed6d1764
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20250404		1da0366c9c0227ae63f32c8354eed178e9b512c9
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20250502		d19b88a2ef0ec41291798e28ab6c472eadb30b95
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20250509		54f47f181dc3a5f4ef30c4c4fff9eabbee1007ff
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk17-20250515		7b8eda966051d393aecf2a7547d7b0e93f1dfd94
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20240501		fb16fb4c0334c2d74d50d3634e76dca651996c9c
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20240505		be27199899d7df7a6e472abe4294092eb0d32ba8
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20240506		1afe31ed8641672f073d7db5fbf86a42c39cb484
@@ -1542,6 +1551,9 @@ org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20250109		b021b868fd44cc8b9064
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20250212		e9c7d2d55edd87d41ed72ca219410aa46f470de3
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20250312		3377e719f5875737b0012f6a7119114542fbc5c2
 org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20250404		bc58d3dc502683ccdd17732b93c6be466cef4093
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20250502		c6b08d20e52ff4234476f4711766572b9a9fab3b
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20250509		dbd2e153d011fd7e349d82a95a18b85e67480e4f
+org.anyline	anyline-data-jdbc-questdb	8.7.2-jdk21-20250515		95c652060455a9efa93272f3377980f836b0d7b6
 org.apache.camel	camel-spring-jdbc	3.10.0		25674f8131467a76daf642aaf90c27ab6a71ee40
 org.apache.camel	camel-spring-jdbc	3.11.0		2b9e823ed3790dbcd09d27fd62646ad059378851
 org.apache.camel	camel-spring-jdbc	3.11.1		9037846f3484caa402a410d8160b21942ffc2c6a
@@ -1635,6 +1647,7 @@ org.apache.camel	camel-spring-jdbc	4.8.3		a7d8a683de6f47c625c6b7e99b724be519ef50
 org.apache.camel	camel-spring-jdbc	4.8.4		262f725c8830b23f95d297c9740a0b2d38da91cb
 org.apache.camel	camel-spring-jdbc	4.8.5		a65d01e7ec85c2a79da7886ad285d699ab57989f
 org.apache.camel	camel-spring-jdbc	4.8.6		13427642d7ab16d12eb65b6f0facbf935b70d081
+org.apache.camel	camel-spring-jdbc	4.8.7		083ecb150c266c6d517aaa98ed6ba94d387704ab
 org.apache.camel	camel-spring-jdbc	4.9.0		fead4f6877e49bb7961420da3fd1d4ab422944a3
 org.apache.camel.karaf	camel-jsonapi	4.10.3		005eb59374dae8395972356945ca4268b8e3e234
 org.apache.camel.karaf	camel-jsonapi	4.7.0		79d27e5b8494094ec2d253a64ba00c96c8e63dec
@@ -1700,6 +1713,7 @@ org.apache.camel.quarkus	camel-quarkus-jsonapi	3.2.1		8cb551a9d52bf106012d8558ed
 org.apache.camel.quarkus	camel-quarkus-jsonapi	3.2.2		3078dc73124fa14e9ce54c7225d47db510ffb346
 org.apache.camel.quarkus	camel-quarkus-jsonapi	3.2.3		180b8f36d17f284a1a512353d963c3ccbe0f7c9d
 org.apache.camel.quarkus	camel-quarkus-jsonapi	3.20.0		6c034b7f4afbda642379ff2fb46f33f2dc1c8abc
+org.apache.camel.quarkus	camel-quarkus-jsonapi	3.20.1		9f26780c435008d96caf073db73275e2c857c539
 org.apache.camel.quarkus	camel-quarkus-jsonapi	3.22.0		99558cd37c0b7365defbf3e2822db02496fcd2cf
 org.apache.camel.quarkus	camel-quarkus-jsonapi	3.4.0		a3a45ee4ee1074a5403e13563f266aa8a9a597cb
 org.apache.camel.quarkus	camel-quarkus-jsonapi	3.5.0		1650dd647daa8dd468eaf84be8fd6b64f2a1cd02
@@ -1826,10 +1840,13 @@ org.elasticsearch.plugin	x-pack-esql-compute	8.17.2		74dc02461a27d579fb75dd0712d
 org.elasticsearch.plugin	x-pack-esql-compute	8.17.3		36ed9921a1a3e91f6ee1342add3a14b1be1d9e6a
 org.elasticsearch.plugin	x-pack-esql-compute	8.17.4		55ca66e4c5fc2630abcf3bdbffa48d7dc72b11ed
 org.elasticsearch.plugin	x-pack-esql-compute	8.17.5		8b7474235622f52c5204b5f3739a9507aee6b165
+org.elasticsearch.plugin	x-pack-esql-compute	8.17.6		b6510436e52152c1541eaade8990e8663837520b
 org.elasticsearch.plugin	x-pack-esql-compute	8.18.0		297d7fcc669cb61f33ef6cf93451176b17a58b85
+org.elasticsearch.plugin	x-pack-esql-compute	8.18.1		fe1c47d846437347c5235de6d0e72f815b7cf9ff
 org.elasticsearch.plugin	x-pack-esql-compute	9.0.0		a8a519f73683c9bfe23a14cbe87cf2c626b049cb
 org.elasticsearch.plugin	x-pack-esql-compute	9.0.0-beta1		93c6f29e479be8da89837948aaf0530db2f7736b
 org.elasticsearch.plugin	x-pack-esql-compute	9.0.0-rc1		c6d1df893fe526b95d7b60ded4f6e6aed70790b6
+org.elasticsearch.plugin	x-pack-esql-compute	9.0.1		d16489db8972162be5700b26c339abb2e6a37888
 org.grouplens.lenskit	lenskit-eval-demo	0.10		N/A
 org.grouplens.lenskit	lenskit-eval-demo	0.11		N/A
 org.grouplens.lenskit	lenskit-eval-demo	0.8		N/A
@@ -2414,6 +2431,8 @@ org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.19		9d985a56cec
 org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.19	uber	a1f602fce74fc4724b0777cd1a7b209c6e9f0d6e
 org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.2		970abff404d25e5ccd659169aa806cd764c3e444
 org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.2	uber	ccf96b87085a5ccd80a9f5b09ad6e7d074b7c09a
+org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.21		ca6e2b7c9f362802477c7d9234f3b65db071030f
+org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.21	uber	3f02e92611fdaab5600bd949195bf65806e9d3a3
 org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.4		8ee9b1129700dd4c5bfabc6fd5b116caece1a2a8
 org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.4	uber	71f0dce2ea2b749361b06b7ff603b2cb79bb4d1f
 org.mortbay.jetty.loadgenerator	jetty-load-generator-starter	4.0.5		045c136c67d17626e16f7e816371ecb1d496e4e0

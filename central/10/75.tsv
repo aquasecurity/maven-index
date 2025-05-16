@@ -632,6 +632,7 @@ io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.12.0		0dd82657e534b67444b
 io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.12.1		0dd82657e534b67444badd31adbf665f39a190dc
 io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.12.2		0dd82657e534b67444badd31adbf665f39a190dc
 io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.12.3		0dd82657e534b67444badd31adbf665f39a190dc
+io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.12.4		0dd82657e534b67444badd31adbf665f39a190dc
 io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.5.0		0dd82657e534b67444badd31adbf665f39a190dc
 io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.5.1		0dd82657e534b67444badd31adbf665f39a190dc
 io.github.kalinjul.kotlin.multiplatform	oidc-okhttp4	0.5.2		0dd82657e534b67444badd31adbf665f39a190dc
@@ -767,6 +768,7 @@ io.ktor	ktor-events-androidnativearm32	3.0.3		0303d335ae93225c697628d39c9ee41308
 io.ktor	ktor-events-androidnativearm32	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-events-androidnativearm32	3.1.1		2edd153fe1d2d9c22912f420e6adb8d139d7ed7e
 io.ktor	ktor-events-androidnativearm32	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-events-androidnativearm32	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 io.ktor	ktor-server-tests-metadata	1.1.1		5c81a41f92f319e3ab68815a62868bc48ae12bcb
 io.ktor	ktor-server-tests-metadata	1.1.2		54546025333ad479f6be932aad6df3655327f9c5
 io.ktor	ktor-server-tests-metadata	1.1.3		f75796f172b5f4a9d6f511288872082c9253695c
@@ -1135,10 +1137,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.8.0		
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.80.0		07290974757c94f7632cdddd22c2ef1d65fb8c6e
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.81.0		ebd95da5df56ad515e2d7c92670f14089bfa4c4e
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.82.0		7d3b2ab107d41a5e5dcb6eeac2709b8be727976a
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.82.1		3547087c4c510a57d5ed503fa082a3100a233145
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.83.0		b8eaebbf5d34a84176a904068f1ab5467d6a2233
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.83.1		c2da4aa7c7d1863c42420e20d2b42e2ea19a02f5
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.83.2		15e4c483ee4df81336f9b5944ac5bf7ad6638e2d
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.83.3		bd1f499b4f4a77bce4f63d265e9d5e0319141933
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.84.0		81d4ca31bb389d5a63f63e7b652834a5f83813a3
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.84.1		b8c3a1b532b8ca018b3edfd4411f90ec624d708c
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.85.0		1ef6533d2a8dab1f3f140c93014f70008efe76f4
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.85.1		5ad27883bc149f8d84e5be713be5438cf1ebfdce
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.85.2		a98ec12358f5eb2f8c5edbab20c40e4dc56e0cdd
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.85.3		d0c114d2ef26c8dd0cb3b9b5b77edc6d1496caca
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-execution	4.9.0		9ce8aeba51e91bc55267a35b1bebec5e8b570584
 org.keycloak	keycloak-broker-saml	1.2.0.Beta1		11f6cf4798bc7bdee929e390502b80a01d7bfe45
 org.keycloak	keycloak-broker-saml	1.2.0.CR1		ae2a626166e295a6a8e1d0fe1acea502336c60ef
@@ -1382,6 +1391,7 @@ org.wildfly.security	wildfly-elytron-sasl-oauth2	2.1.0.Final		165d2e087eb9baf3b1
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.2.0.Final		1eb2d339fcc5b6079c2bbe06072c2d4b216c4744
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.2.1.Final		7f4fb6b9648da0788a697fc1a9d65b2de2bed8e4
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.2.10.Final		216806a9d2efefe7b1726705aa26f904299d23e6
+org.wildfly.security	wildfly-elytron-sasl-oauth2	2.2.11.Final		23ec68da3f57e25716895762b0731aa916d5281f
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.2.2.Final		296fa90e1bca046982ebab3f7d70b99ce3027e9e
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.2.3.Final		9e9bbced45436698a3154c2bbef77c9c255b9695
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.2.4.Final		64de9434e3ec5a4b91826b90cee165abe3be3f36
@@ -1404,6 +1414,7 @@ org.wildfly.security	wildfly-elytron-sasl-oauth2	2.6.0.Final		6a164439c03d688c42
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.6.1.Final		da1f85c54c9d686bfff96f9c82dbfb0aefe62b5e
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.6.2.Final		1f51c09cf770f9781759d7459a289b3062a8e9f2
 org.wildfly.security	wildfly-elytron-sasl-oauth2	2.6.3.Final		c6db92fddcb5e01c6b7d871d9783f7f90df89ea6
+org.wildfly.security	wildfly-elytron-sasl-oauth2	2.6.4.Final		51bb7d94bef98d3daf6f99bcfe2cb40712810b31
 org.wildfly.swarm	camel-other-tests	1.0.4		f818e717615e67ba726dc4df910259630e14b425
 org.wildfly.swarm	camel-other-tests	1.1.0		3a5c34e58e634d197a923d9e74df0c1d4934c2a8
 pro.respawn.flowmvi	savedstate-linuxx64	2.3.0-rc		N/A

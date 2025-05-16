@@ -106,6 +106,8 @@ com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.61.0		654f37d
 com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.62.0		87d4892f61d63132ba5bd7134cf2c4290476e439
 com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.63.0		1812658bd7ac9ef3c9a1a83c1982f2cc43462e0c
 com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.64.0		f2ad86da497224edfb6974766d90d34ed4a1fb1d
+com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.65.0		6081787907a93450861e0f451b54970d032fee78
+com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.66.0		3ad8570a3fd244174507cc7a79bb2fe4b092a782
 com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.7.0		3e81e722f9ca3690b31c2ee4b1aa3d8a0df81216
 com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.8.0		425602a6e28568e252d7ecdc6a82e179d42da685
 com.google.api.grpc	proto-google-cloud-bigquerymigration-v2alpha	0.9.0		7efd324889d2b98c268855775c3900dc9b14a26f
@@ -200,6 +202,11 @@ com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-33-c98221		1c4ea25abf88d38331ca74a504
 com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-39-4c3eb7		3711d3ad2757a8ca5e3884fd64685240ac2df660
 com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-41-b39ce4		eaaafa25617029213b74b8bce5d922e35e27e163
 com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-42-a720c3		055eaae8393f86a6ceec5e93ba58a05a806ad5a9
+com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-51-773072		cde03b5030f563d1dbac8cfec0512f2df5e7751f
+com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-56-51ca83		f3660f8eb7f48bdfd296c7fe57883ff960267e76
+com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-57-7578c2		0144fc9cd26bd6859aeb3b16d303903d47d81c23
+com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-59-17fa7b		72409b791cf649c0669e762b3941e1fc71b48339
+com.lihaoyi	mill-libs-init-sbt_3	0.13.0-M2-74-132761		a5479d593f37c9c1ae8d047d10b8dda9b2c7ffdc
 com.magicodex	jasmine-parent	1.0.0		N/A
 com.magicodex	jasmine-parent	1.1.0		N/A
 com.magicodex	jasmine-parent	1.1.1		N/A
@@ -281,6 +288,7 @@ com.tencent.bk.devops.ci.common	common-auth-api	3.2.0		ab6fd27e1cb43dc9545f2e3ef
 com.tencent.bk.devops.ci.common	common-auth-api	3.2.0-rc.1		06ed336bd765d45f417ea6e1a77162475f954657
 com.tencent.bk.devops.ci.common	common-auth-api	3.2.0-rc.2		5b89c8fe3d72fc2eced573ef34ab8d860e4cfd84
 com.tencent.bk.devops.ci.common	common-auth-api	3.2.0-rc.4		3dadca055ef15f497fd5c5201122c0640cfa2a9c
+com.tencent.bk.devops.ci.common	common-auth-api	4.0.0-rc.1		27399583d8236a3af5e3f905b47291c08f49f270
 com.thinkaurelius.titan	titan-hadoop-parent	0.5.0		N/A
 com.thinkaurelius.titan	titan-hadoop-parent	0.5.0-M1		N/A
 com.thinkaurelius.titan	titan-hadoop-parent	0.5.0-M2		N/A
@@ -752,6 +760,7 @@ dev.zio	zio-aws-iotthingsgraph_2.13	7.31.27.1		23248ddb2007f06694bb95ad58fc607d7
 dev.zio	zio-aws-iotthingsgraph_2.13	7.31.28.1		6a458373965978aeaf5d720843bbb977e0708304
 dev.zio	zio-aws-iotthingsgraph_2.13	7.31.3.1		f6c0d2558571bcf6ea3983192d9b344437828e7c
 dev.zio	zio-aws-iotthingsgraph_2.13	7.31.30.1		8b94e1f85978c72531975b896452d27a83e6be42
+dev.zio	zio-aws-iotthingsgraph_2.13	7.31.30.2		4ca8a23e7168a85b3a3e90a5da62a2b3314ec302
 dev.zio	zio-aws-iotthingsgraph_2.13	7.31.4.1		1b466211632bea35a9c500d37d2abb08a8a123a0
 dev.zio	zio-aws-iotthingsgraph_2.13	7.31.6.1		7c0d7fd0e778550250c3822fe6553a97d7c1b34a
 dev.zio	zio-aws-iotthingsgraph_2.13	7.31.6.2		3143b2c2bb988de94f20d73860818f88b5b63793
@@ -1030,6 +1039,7 @@ io.github.izzzgoy	event-thread-secure	1.0.0-alpha14		782c2d15053c8c48df22c871e9f
 io.github.marcinzh	enterprise-core_3	0.1.0		83195203018fe145a10a5c5135985b5385701a43
 io.github.marcinzh	enterprise-core_3	0.2.0		efde9228af9d92aa6db17a529d9a6d51b7b515ba
 io.github.marcinzh	enterprise-core_3	0.6.0		df313d0e3fe3ff456b2658f40399d8b1c3b50c15
+io.github.marcinzh	enterprise-core_3	0.8.0		d65616da80d5834d64894400401a9b0aca821822
 io.h8	borscht-jackson_3.0.0-RC3	1.0.0-RC2		184ea0fc06ade88aa48d1a0bc5c21ebfeff6f114
 io.nacular.measured	measured-js	0.1.0		a681f18204f354c7da269352713bf8c0fb975a4a
 io.nacular.measured	measured-js	0.2.0		7a2fccfe86f4098d822cf62bec32aba10dd112b9
@@ -1264,6 +1274,7 @@ net.andimiller	hedgehogs-core_sjs1_3	0.2.0		f4e5216bfc89f056931ab9b75b64eafb4cac
 net.andimiller	hedgehogs-core_sjs1_3	0.3.0		65e2608e0caa8334db2eef5f6c42f94c1b244d6f
 net.andimiller	hedgehogs-core_sjs1_3	0.4.1		31bc825607f39d20cdec78195ced896546462ded
 net.andimiller	hedgehogs-core_sjs1_3	0.4.2		bdec337a554e1460b46ce050b42d7a3d94e51a2b
+net.andimiller	hedgehogs-core_sjs1_3	0.4.3		6cd4351827f7d49f8134c9ae5496a013a1dabab7
 net.exoego	aws-sdk-scalajs-facade-comprehendmedical-nodejs-v8_sjs0.6_2.12	0.26.1-v2-524.0		44f0126ecc4f52867cce4a15b2c107413e3cf62c
 net.exoego	aws-sdk-scalajs-facade-comprehendmedical-nodejs-v8_sjs0.6_2.12	0.26.1-v2.524.0		be7a92dd9eb8ff520aa56fba383b485ec7e2ff9d
 net.exoego	aws-sdk-scalajs-facade-nodejs-v8_sjs0.6_2.13	0.26.1-v2-524.0		838f29048c17dee6132d3fd549b98479a5f4d3f1
@@ -1386,6 +1397,7 @@ org.apache.camel.springboot	camel-printer-starter	4.8.3		848678553899bf2aba2e0e1
 org.apache.camel.springboot	camel-printer-starter	4.8.4		524a8be3cced55e3b8261aedfaee9dd35a44e311
 org.apache.camel.springboot	camel-printer-starter	4.8.5		8f9ffdd4c8602a19beb4716b45b315c68aa85223
 org.apache.camel.springboot	camel-printer-starter	4.8.6		1b5041ebaf6886e13b1be7238116b1afa6c40c01
+org.apache.camel.springboot	camel-printer-starter	4.8.7		ecb4ff9f96f9e5c3e3511f593302d1f2c777e29e
 org.apache.camel.springboot	camel-printer-starter	4.9.0		f7f88bc1e3bd17ee35d4ca534d4fd001838c093a
 org.apache.causeway.extensions	causeway-extensions-excel-fixtures	2.0.0		7c1a649c23ed5f14553a1582db027f3a7318bb4e
 org.apache.causeway.extensions	causeway-extensions-excel-fixtures	2.0.0-RC1		6278852beed45d5ed9a1647234dff6af0dde5978
@@ -1492,6 +1504,7 @@ org.cxbox	cxbox-dictionary-links-engine	4.0.0-M13		0091514f5e092f7243a8882a8ad5f
 org.cxbox	cxbox-dictionary-links-engine	4.0.0-M14		ea6680493cc2d6c39b6eceb999b7bd320ed61b5f
 org.cxbox	cxbox-dictionary-links-engine	4.0.0-M15		6a6658d3278873cca08c90dd76f783cc63c7dcb0
 org.cxbox	cxbox-dictionary-links-engine	4.0.0-M16		e5d604a9318eb75dedcef5c9a5d79c680a391f54
+org.cxbox	cxbox-dictionary-links-engine	4.0.0-M17		3bcf510acc169ae733719c0705f218340a1baa09
 org.cxbox	cxbox-dictionary-links-engine	4.0.0-M2		e7ad6f84537c2ef2fee4b9b5126e125f90634779
 org.cxbox	cxbox-dictionary-links-engine	4.0.0-M3		c2e25b9a10bfc7b06c5304e08808b8d9163bb58e
 org.cxbox	cxbox-dictionary-links-engine	4.0.0-M4		f5e146c91be4983b5854c78938391ee6e61c7b4f
@@ -1691,6 +1704,7 @@ org.sonarsource.dotnet	sonar-dotnet-core	10.6.0.109712		86148ef8eae53fd28030c0aa
 org.sonarsource.dotnet	sonar-dotnet-core	10.7.0.110445		440f4bef8140aaab15f40077f4d5391f3ba12f80
 org.sonarsource.dotnet	sonar-dotnet-core	10.8.0.113526		77e3460efb7d8475462aff865ad2cc2de7fd801e
 org.sonarsource.dotnet	sonar-dotnet-core	10.9.0.115408		e22e051292c6f22b4da1b9cfd70d1ca190a22331
+org.sonarsource.dotnet	sonar-dotnet-core	10.9.1.115516		ccc79414ef5043a0dd2f12e25b7a76cebfbe44e8
 org.sonatype.flexmojos	flexmojos-unittest-support	3.0.0		N/A
 org.sonatype.flexmojos	flexmojos-unittest-support	3.1.0		N/A
 org.sonatype.flexmojos	flexmojos-unittest-support	3.2.0		N/A
@@ -1722,6 +1736,7 @@ org.sonatype.flexmojos	flexmojos-unittest-support	4.1-beta		N/A
 org.sonatype.flexmojos	flexmojos-unittest-support	4.2-beta		N/A
 org.springframework.ai	spring-ai-autoconfigure-model-ollama	1.0.0-M7		6010fe133c788a9882c7582d27d5927649f6a848
 org.springframework.ai	spring-ai-autoconfigure-model-ollama	1.0.0-M8		ef051748430e99192a07b23fef2f6a4f405a8eeb
+org.springframework.ai	spring-ai-autoconfigure-model-ollama	1.0.0-RC1		24e59ec659dbe6bde91eb7c1417999c1a8a3bfed
 org.webjars.npm	dicebear__bottts-neutral	6.0.4		76ec276767a67100ea92553131823d96a840dcf9
 org.webjars.npm	github-com-NikolayKhoroshevsky-grapesjs	0.4.5		200f4de6c6e12e76ee00e157fca9f4c0690938f6
 org.webjars.npm	github-com-NikolayKhoroshevsky-grapesjs	1.1.0		ca4b05f500979201492ce85d5421d2ab8729cbc9

@@ -10,6 +10,7 @@ br.com.objectos.parent	parent	0.7.0		N/A
 br.com.objectos.parent	parent	0.8.0		N/A
 br.com.objectos.parent	parent	0.9.0		N/A
 cn.com.antcloud.api	antcloud-api-collabinv	1.0.20		31e5a77add956f5b9aca7a24b10918aabbdc028f
+cn.com.antcloud.api	antcloud-api-collabinv	1.0.22		3adee0a9601ae07f2478aaa684e906c097a4c23d
 cn.iisme.cloud	iisme-framework-web	1.0.0		303924fac50c1fd1398eacbbb613c9589523834c
 cn.iisme.cloud	iisme-framework-web	1.0.1		f4b7bef8353e22a408fcb356dcf5a1a24c09e744
 cn.ocoop.framework.mybatis.plugin	mybatis-paging-spring-boot-starter	1.0		1da4356f48b8c4057e6eb75a16e80dc3f912287b
@@ -701,6 +702,19 @@ org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.41
 org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.42.0		0b7d24154c11156673436da5e2e0767ea36754d1
 org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.43.0		03a70ce2581bf29644bc43e16068e463172ff5a7
 org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.44.0		8e1fad5f07e63357f99c05258f642196ca1f8b47
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.0		1bbe364c1f5b306d92ed7940f19b07a235cf5604
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.1		5e5ff77f648e81eb755962ba82995a64bd9d35ae
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.10		bd86251bf6415fee84877d8890cf68e454b6220e
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.11		d39557994bd01c4a127855b9a01821a0c612d2c9
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.12		d0009de18a2ef90f1b0dcb6a57efe6c8f2f6b324
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.13		7bc86526069cd5345aaa669f028470a97ac5a8e8
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.3		9c547955c7a4b8d59b9ba9446d3f4b4597f9fc44
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.4		5c0b85aa9ce25eaecebf02f51d3d5a1edbce64d6
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.5		f064599bba8365b8d884f42d481712477cc94308
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.6		bae83f06f80efcdaa82e34ff6c2ab00f2f2f31f5
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.7		920d5f8e8b8731f6f258f927551dc8362c140daf
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.8		5d23fce55eafab8e4ca059d8ea8ae56dc4225ad7
+org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.45.9		93264c33f312fd96e53fadd4ff7f888c827e1189
 org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.5.0		ed6d8bd2f3a89bd940625925dcfa06fb0aa758cd
 org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.6.0		e659c4cdffb56da226f934ac2a24b2985f2f23c4
 org.eclipse.dirigible	dirigible-components-template-form-builder-angularjs	11.6.1		8c5fea8059c496245c49afe13e2d97e804d2e33a
@@ -1091,6 +1105,8 @@ org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relation
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.45.0		d533be3396089b5e2921b137a811f37d0fdf5362
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.46.0		13367e4eac370634688285347252e8dfa8262038
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.46.1		e490c11f8c5931f190c587a30ed0c3e5f7df43e9
+org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.46.2		8adc9d81e431567258bfd232dc252fcc4dcb003c
+org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.47.0		5217da67bbecf72f3e86af528e9a09790c7fa8f9
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.5.0		ab3a79060fd3417c9a81273e4d9e08e7784e1860
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.6.0		07094ae3ca8d9ddf2597ef38fd098445b0f08e2a
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-store-relational	5.6.1		c081793136cf32a621b58e024a088943fe21f989
@@ -1263,6 +1279,8 @@ org.keycloak	keycloak-core	26.1.5		9f6ad1d303d26c2b5448647965888f72329c1070
 org.keycloak	keycloak-core	26.2.0		873eee175087d01357a823cd1b1c41321b21a994
 org.keycloak	keycloak-core	26.2.1		2c6cbd4ccb0e9fc5e19b23ced463514a2ea24166
 org.keycloak	keycloak-core	26.2.2		7f39620139a71ef53632437e4b9ff1e6ae7c6856
+org.keycloak	keycloak-core	26.2.3		53cdd2cbc538b18f8d0a028a22e123f1567810c6
+org.keycloak	keycloak-core	26.2.4		f95b12d5b58d8d46f251b0ef755a0411f8135d47
 org.keycloak	keycloak-core	3.0.0.CR1		16a1d4c702985bd259e7c51dbe572f13d96f2d00
 org.keycloak	keycloak-core	3.0.0.Final		1d090a40a43a6ab6db2781df048cea5fa43b49d2
 org.keycloak	keycloak-core	3.1.0.CR1		34520801b08cea0ff1eccdbbdbe21d478286c319
@@ -1469,6 +1487,7 @@ org.scalatra	scalatra-test-javax_3	3.0.0-RC1		0e33ec22fe6fdf5370f3a05de16088f042
 org.scalatra	scalatra-test-javax_3	3.1.0		c6724e7d9d572c5c8f32593e900a1ed64ffec906
 org.scalatra	scalatra-test-javax_3	3.1.0-M1		8f31d10be24572639d560d3c72397b130fab1afc
 org.scalatra	scalatra-test-javax_3	3.1.1		1932c86ff409a1ebbfc17b6b7f4b9ccd92738171
+org.scalatra	scalatra-test-javax_3	3.1.2		e0dc6f18b3ccb768bae31dc0cd8342cf941aee41
 org.typelevel	squants_sjs0.6_2.12	1.0.0		ee4fa8dde5551250ecebf4f4dc0a2ee5d038d5c2
 org.typelevel	squants_sjs0.6_2.12	1.1.0		2a7dce5d965effcdc06f71a71167f7766652bdb7
 org.typelevel	squants_sjs0.6_2.12	1.2.0		c1bf8be6b61fed3330098865637d0d95de77a10a
@@ -1940,6 +1959,7 @@ software.amazon.awscdk	servicecatalog	1.97.0		4ab752e181d4466c4cd2a8dadd3946fc75
 software.amazon.awscdk	servicecatalog	1.98.0		14381619e312788619d85f89f8946569ad2049a0
 software.amazon.awscdk	servicecatalog	1.99.0		361d07257ae6aeadb88de6e2fb3648873ff590ca
 software.visionary.measurement	conversions	2025.03.28		N/A
+software.visionary.measurement	conversions	2025.03.28	software.visionary.measurement	66b1e264b94adc62f9e5bff84f0ac345120459e2
 tz.co.asoft	invoice-core-jvm	0.0.10		bf585f0c05263605537ebde4c6de98d9a1ee75cf
 tz.co.asoft	invoice-core-jvm	0.0.20		2a0d3811eef4e3d8c6b2c92a9ca0432396efe0b9
 tz.co.asoft	invoice-core-jvm	0.0.30		0e76360f459366bba37ceaba4417138c6ddd58f6

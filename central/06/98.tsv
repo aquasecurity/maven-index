@@ -141,6 +141,7 @@ com.daml	daml-lf-kv-transaction-support_2.12	1.18.3		d8305ee1ac44cb7f0563939c1fb
 com.daml	daml-lf-kv-transaction-support_2.12	1.18.3-snapshot.20220620.8442.0.c7424302		d8305ee1ac44cb7f0563939c1fb742b507d6efc4
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.0		aa35f63500b97bd20ad5181b0ec8b77656bd90d5
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.0-1-19acfb2		35ef3f6ea8d78f18800f91723b9dfb8e40f64303
+com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.0-1-26737b4		082946623bd39d3ff4fb594c3a41b22a76fedb76
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.0-1-5a26ba3		183eee9bd1acdd4ba5e19373fac4a5b7b7ce677d
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.0-1-8d943ab		b2c52a86c16881585f18927f5c34bbd06eeb4c9d
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.0-1-b0aa866		c8ee8933afb0b0f0c33fb992c0096d4e1ee4c477
@@ -250,6 +251,7 @@ com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.31		fdedaf5fba66b7ff8f6b5f
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.32		a489ec616a1148cb100a263ce1a4b1948ba091aa
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.33		e0d469608f9040b65bbea793315a31906fc73706
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.34		9543a8ad277384437f65b53d323fbeb4532a6e92
+com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.35		ee0f351adec74b23441fb50409bc3bb3b8b039a5
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.4		5672e2a0ef93d726aa8007d7432f6c8f8c73ceab
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.5		5e196424274e098fc8c7143d54e16609357a16d8
 com.disneystreaming.smithy4s	smithy4s-fs2_sjs1_3	0.18.6		5e340ce0a3a6278b71b65b59998a63cd031d13f7
@@ -269,6 +271,7 @@ com.exasol	virtual-schema-shared-integration-tests	2.2.4		5ae0e9b5356393fe0426b7
 com.exasol	virtual-schema-shared-integration-tests	2.2.5		61d80c6b5039117f641b36db74084863e3784f99
 com.exasol	virtual-schema-shared-integration-tests	2.2.6		ea86387e037f1c579be8977377b6b1fd4bb8d05d
 com.exasol	virtual-schema-shared-integration-tests	3.0.0		5347d47850a53872015f90c537eeba79ec0931b0
+com.exasol	virtual-schema-shared-integration-tests	3.0.1		5ea7469de33ab454149628515c2b2fe21ddd0493
 com.eyeofcloud.ab	core-api	3.1.0		607e97deda2fdf0fd8f1c29c6c94a4ec61eb26af
 com.eyeofcloud.ab	core-api	3.1.1		2023984aae4898450cbfc719049a582ec0eb15ff
 com.eyeofcloud.ab	core-api	3.1.2		a50899ab0359dcdb24a88984813afa43e01c579e
@@ -726,6 +729,8 @@ io.ktor	ktor-client-websockets-watchosarm64	3.1.1		d59a4364a7f5f3b323bb6b228bd94
 io.ktor	ktor-client-websockets-watchosarm64	3.1.1	metadata	29834986248e55521b24815890dda450d20a571d
 io.ktor	ktor-client-websockets-watchosarm64	3.1.2		d281f37618d2db79a27854a97ccf726c37445403
 io.ktor	ktor-client-websockets-watchosarm64	3.1.2	metadata	aea8972d7ca7aa2f8919d39e3e2f31f096e743d1
+io.ktor	ktor-client-websockets-watchosarm64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-client-websockets-watchosarm64	3.1.3	metadata	3054b7e117b80c5dd0af0d9592a57a95dc83adf5
 io.openliberty.features	io.openliberty.cdi3.0-batch2.0	21.0.0.12		N/A
 io.openliberty.features	io.openliberty.cdi3.0-batch2.0	22.0.0.1		N/A
 io.openliberty.features	io.openliberty.cdi3.0-batch2.0	22.0.0.10		N/A
@@ -1590,3 +1595,7 @@ tz.co.asoft	raven-outbox-core	3.0.14		d3f735e1f46cffecdba9a0a6c413c8885047308c
 tz.co.asoft	raven-outbox-core	3.0.15		fe49b11a0b48d0f9af5b60a3a7a24c19d148e865
 tz.co.asoft	raven-outbox-core	3.0.8		f7ba6945ab11d3cbb4b9b0e4ec64accaafa6faa1
 tz.co.asoft	raven-outbox-core	3.0.9		d3f735e1f46cffecdba9a0a6c413c8885047308c
+tz.co.asoft	raven-outbox-core	3.1.0		4b2d3afde1a53860a1976f5db873fb7210a29aa1
+tz.co.asoft	raven-outbox-core	3.1.1		4b2d3afde1a53860a1976f5db873fb7210a29aa1
+tz.co.asoft	raven-outbox-core	3.1.11		4b2d3afde1a53860a1976f5db873fb7210a29aa1
+tz.co.asoft	raven-outbox-core	3.1.12		4b2d3afde1a53860a1976f5db873fb7210a29aa1

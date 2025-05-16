@@ -985,6 +985,7 @@ io.micrometer	micrometer-core	1.13.10		579cc50a8511960d1977ffe447fc32c964029e05
 io.micrometer	micrometer-core	1.13.11		0ebe04b68926f325b855703d5f609404d9a47b9e
 io.micrometer	micrometer-core	1.13.12		7a0afbe21e95bcf100116f9a721fa39977ff53b8
 io.micrometer	micrometer-core	1.13.13		eda157824f408867af5bff18ee1efc1fcd80464e
+io.micrometer	micrometer-core	1.13.14		ca8054d3f27238b1b7f1de51b7318a1b87c9bea0
 io.micrometer	micrometer-core	1.13.2		1e2b777c3cf49f497b42371bd128678cbd732b83
 io.micrometer	micrometer-core	1.13.3		c3d676424063cea7a1825f57128bc9bf74672b3b
 io.micrometer	micrometer-core	1.13.4		6a333b0ac647afa33616e142797da950ff295b7b
@@ -1000,6 +1001,8 @@ io.micrometer	micrometer-core	1.14.3		8962714eb3a6bf97711765fbefe7f6ac28cae96f
 io.micrometer	micrometer-core	1.14.4		05686f90bba1d2f7ba0d3adb14f90b95659a6461
 io.micrometer	micrometer-core	1.14.5		219117417c2893a62bfe84ea70c4ef8d1ea2da5e
 io.micrometer	micrometer-core	1.14.6		c2378cc214ef7d8672f95d731e90212bd227ebcb
+io.micrometer	micrometer-core	1.14.7		8743fcff42005239e0acaf8fd56b509d5b2fd1d2
+io.micrometer	micrometer-core	1.15.0		76a8b4e49d97fc1fde06ec462d0819a62f6e1a38
 io.micrometer	micrometer-core	1.15.0-M2		bc3fb25b0209e1d48faab27ace852dcaea3d8496
 io.micrometer	micrometer-core	1.15.0-M3		b3e4be0e181d1d269a1cadfa1be22146026af369
 io.micrometer	micrometer-core	1.15.0-RC1		cb45693ab302ea603937b3c02e556207663d529a
@@ -1251,6 +1254,7 @@ io.netty	netty-handler-proxy	4.2.0.RC1		ef1ea4908cb3f019389d9333acd8a26c625c9f05
 io.netty	netty-handler-proxy	4.2.0.RC2		33c6d652b5a6f56fa5694bf2939d17c05b1ec5c2
 io.netty	netty-handler-proxy	4.2.0.RC3		62d66ceb5257c3c0a3e09c97affbf820cff30c6a
 io.netty	netty-handler-proxy	4.2.0.RC4		f2a33489ef6b0edc20086d972b57cb00e1e4d95b
+io.netty	netty-handler-proxy	4.2.1.Final		47aa321b1bd9b5bd6ffe5bee1a23cf240b879dd8
 io.netty	netty-handler-proxy	5.0.0.Alpha2		14e9af6ffe60e876f9445894ef6e065b5080cff9
 io.quee.ktx.radix	ktx-radix-port-logger	v1.0.0-RELEASE		86ed8f2c2bc366d7a8f494553669b6c0769e56e5
 io.quee.ktx.radix	ktx-radix-port-logger	v1.0.1-RELEASE		9573d76f9b58aaa0ee6c0de3ae7bb20dadd84e7e
@@ -3170,7 +3174,18 @@ software.amazon.awssdk	ebs	2.31.30		7446a17d01a5dd6e51e0de6e02d5f1ef8bde04e4
 software.amazon.awssdk	ebs	2.31.31		313a687db314e72ca14d842781a1fb85d005aa7f
 software.amazon.awssdk	ebs	2.31.32		eb3c210e7255eb0fab7d2e79da9361af09379a2a
 software.amazon.awssdk	ebs	2.31.33		8527f19e9851f2ca56bb676e819c45485e0dd20c
+software.amazon.awssdk	ebs	2.31.34		18dc0d9cd2fe6df8553902acc72b47f1145bf8a0
+software.amazon.awssdk	ebs	2.31.35		ce9d88615c9756a9466a5f510834f365506e2435
+software.amazon.awssdk	ebs	2.31.36		5467778f465feb810b02493e9fd9d1d1700188d2
+software.amazon.awssdk	ebs	2.31.37		988cfc5e6f729aa4fc0fda82e400602526b0a6ae
+software.amazon.awssdk	ebs	2.31.38		6a777d72d205aa7ace553d5f815ebc438e8c41c9
+software.amazon.awssdk	ebs	2.31.39		4c27752dbabdfb9b8b9cc7aab32216c6375da51f
 software.amazon.awssdk	ebs	2.31.4		f1bdc53049359d350f7a9f9f9d30225fd21286b5
+software.amazon.awssdk	ebs	2.31.40		0216e0f363094744ba5e2bd866377166051bb5c2
+software.amazon.awssdk	ebs	2.31.41		04623b3acbdcadfb01277387035d99f87ccbc93e
+software.amazon.awssdk	ebs	2.31.42		2a0db146b12ac25328b8d549b11835f61fe9aad8
+software.amazon.awssdk	ebs	2.31.43		4ec0c7778af5eae43a4b11441ffcdc7079a28a57
+software.amazon.awssdk	ebs	2.31.44		92458a4cf3260b47a535eebe6f58b3e8f79f8d82
 software.amazon.awssdk	ebs	2.31.5		7502b4e501f0696597070ce21adc6d86f2840e24
 software.amazon.awssdk	ebs	2.31.6		8c908019dbbf11ee55d395d803fd5585226dedfe
 software.amazon.awssdk	ebs	2.31.7		b5ddaf2268b8a2d4b651688ac815b4465148111e
@@ -3214,5 +3229,8 @@ tz.co.asoft	captain-router-compose-core-iosarm64	3.0.8		N/A
 tz.co.asoft	captain-router-compose-core-iosarm64	3.0.8	metadata	34805a2b7e7759f842fb6f3a44a4cadd526e77be
 tz.co.asoft	captain-router-compose-core-iosarm64	3.0.9		N/A
 tz.co.asoft	captain-router-compose-core-iosarm64	3.0.9	metadata	ad90dad9df1f19d826b5bdb302cc22644162caae
+tz.co.asoft	captain-router-compose-core-iosarm64	3.1.1	metadata	1021622a95a73b011fefcf85d1d698f051787ace
+tz.co.asoft	captain-router-compose-core-iosarm64	3.1.11	metadata	2243195b71fbd2df2f60e8c4af19d05f33abed46
+tz.co.asoft	captain-router-compose-core-iosarm64	3.1.12	metadata	6fde4740bdac4ba08a729dd59bfa87c63be33e54
 xyz.elemental.fork.org.exist-db	exist-exiftool	6.4.0		359ab8d78649c5b12bd1d055ccc56352bbbf29e5
 xyz.elemental.fork.org.exist-db	exist-exiftool	7.0.0		33657a3905636e5c05975185ff9b696ff91c8062

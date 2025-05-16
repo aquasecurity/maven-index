@@ -84,6 +84,7 @@ ai.promoted	deliveryclient	3.0.0		8349807a47037cbc76159cb6ee25ccd23fec7a65
 ai.promoted	deliveryclient	3.1.0		5ff7e05d8ec092260bffa287dfc378f49b6d39bf
 ai.promoted	deliveryclient	3.1.1		ca568e261e1acacaecc072a5a263fa44e9798ed4
 ai.promoted	deliveryclient	3.2.0		ec2dd6f8b3b0bd142dd2237a7e9d4e6e5a576138
+cn.com.antcloud.api	antcloud-api-corlab	1.0.12		ecc65d895c2b6f21fb967879a3404c079b745136
 cn.herodotus.artemis	dialect-module-s3	3.3.0.0		88430ca3db8a78a09feb818c6a47d2470fc6630d
 cn.herodotus.artemis	dialect-module-s3	3.3.0.1		7e330c496f40007b1dd2404c006fa402ce3069a7
 cn.herodotus.artemis	dialect-module-s3	3.3.0.3		5976e215b5488477c68f8a52e75daa777707dfde
@@ -368,6 +369,7 @@ com.daml	struct-circe-json_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		af0d
 com.daml	struct-circe-json_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		af0df97f5cb7deca9a8fdb5eb780523c2de43243
+com.daml	struct-circe-json_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	2.6.0		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	2.6.0-snapshot.20221216.11167.0.2893e268		68996bfaa2a45df1a12ff7415a96d14367fd9cf1
 com.daml	struct-circe-json_2.13	2.6.0-snapshot.20221217.11168.0.32f81c9a		68996bfaa2a45df1a12ff7415a96d14367fd9cf1
@@ -1162,6 +1164,9 @@ com.daml	struct-circe-json_2.13	3.3.0-snapshot.20250414.13754.0.v6f99815d		af0df
 com.daml	struct-circe-json_2.13	3.3.0-snapshot.20250415.13756.0.vafc5c867		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	3.3.0-snapshot.20250424.13760.0.v90d51dbb		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		af0df97f5cb7deca9a8fdb5eb780523c2de43243
+com.daml	struct-circe-json_2.13	3.3.0-snapshot.20250507.13770.0.v8a383258		af0df97f5cb7deca9a8fdb5eb780523c2de43243
+com.daml	struct-circe-json_2.13	3.3.0-snapshot.20250509.13773.0.v7f71343b		af0df97f5cb7deca9a8fdb5eb780523c2de43243
+com.daml	struct-circe-json_2.13	3.3.0-snapshot.20250515.13776.0.ved4899eb		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250415.13757.0.v8ac8af98		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250415.13760.0.vea143716		af0df97f5cb7deca9a8fdb5eb780523c2de43243
 com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		af0df97f5cb7deca9a8fdb5eb780523c2de43243
@@ -1178,6 +1183,16 @@ com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250430.13801.0.v62e9a71a		01168
 com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250430.13804.0.vecb995a9		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
 com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250501.13805.0.v6dcc9347		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
 com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250502.13811.0.vc9342f2a		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250505.13814.0.v8f469e2a		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250505.13817.0.vf79dda6c		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250506.13820.0.vb449114c		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250508.13828.0.v6124cac0		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250512.13837.0.v78d1b88c		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
+com.daml	struct-circe-json_2.13	3.4.0-snapshot.20250513.13844.0.vbc99348c		0116881c2b08b4f7b3ec64789778345b2fa2bd7d
 com.documaster.idp	oauth2-client-java	1.0.0		b6665a117eb70a0d49f979e809bb44050af2b640
 com.documaster.idp	oauth2-client-java	1.1.0		0858de1d81cc4acef92d2772b2b6df2c505bd739
 com.eed3si9n	sbt-assembly_sbt2.0.0-M2_3	2.3.0		fae5b9fff998a39bba41ec65e64c58c70f7954cd
@@ -1941,6 +1956,8 @@ com.vaadin	vaadin-custom-field-flow	23.5.12		0b88677cd0e010aecfcb1168439a085c176
 com.vaadin	vaadin-custom-field-flow	23.5.13		068b3670f95b23bb59cd5063d3a1276ada10a233
 com.vaadin	vaadin-custom-field-flow	23.5.14		50058fbfcc570ad7c867e6896cc2a470727ed500
 com.vaadin	vaadin-custom-field-flow	23.5.15		6c6bf2fdc11e6ef5e3f6205b219116ee8b04085f
+com.vaadin	vaadin-custom-field-flow	23.5.16		8a18c0572b600fe51e1a9c169f2a982fc5a23128
+com.vaadin	vaadin-custom-field-flow	23.5.17		6aa3ef637e8bc9204fc3ca78076a525996131e91
 com.vaadin	vaadin-custom-field-flow	23.5.2		0ed93a03c15287c50bf37ec52582abd421ba2b7c
 com.vaadin	vaadin-custom-field-flow	23.5.3		5316adacec838e2b5fb006f9be0a4a7f44eee2e0
 com.vaadin	vaadin-custom-field-flow	23.5.4		dbd48f870a824b68c5a529783baccca02db6e273
@@ -2055,6 +2072,7 @@ com.vaadin	vaadin-custom-field-flow	24.5.8		cb3be08bca6a81d7de2a89a5890cc9b70fe5
 com.vaadin	vaadin-custom-field-flow	24.5.9		3ae0d6cedd0ef05ab5527af44a0ab455b945a874
 com.vaadin	vaadin-custom-field-flow	24.6.0		83eaba8c7bd44c4258c6e7124c60cf477d37d38d
 com.vaadin	vaadin-custom-field-flow	24.6.1		06b061cf891ec2d272084b4353aee089d7204784
+com.vaadin	vaadin-custom-field-flow	24.6.10		da9422256ff06f65b0ad75ab0fc3f3e1ad71923c
 com.vaadin	vaadin-custom-field-flow	24.6.2		ba7bb5a1f6d2316e35c9108ee1ff48733d7b5d2c
 com.vaadin	vaadin-custom-field-flow	24.6.3		f7764829d5e4a32b73c2d505efb1749e84e5ca3b
 com.vaadin	vaadin-custom-field-flow	24.6.4		fa8f733a5617ea546df758ccbd8943c07325df04
@@ -2067,6 +2085,7 @@ com.vaadin	vaadin-custom-field-flow	24.7.0		5753b71fe7204f9633f3cf1e6565a40e30c5
 com.vaadin	vaadin-custom-field-flow	24.7.1		80126e052a16ae116672ac12b99a0f9151a7c5f4
 com.vaadin	vaadin-custom-field-flow	24.7.2		aebc53e8cae35d0305c94a7fddb9770464e070fe
 com.vaadin	vaadin-custom-field-flow	24.7.3		6f0b56797fb6e5f162695fe669275d4e471b44c8
+com.vaadin	vaadin-custom-field-flow	24.7.4		09da0593de8d84d33bacde7a947f26f6c824f19b
 com.vaadin	vaadin-custom-field-flow	3.0.0		786d8124ce1b9d0d66e8950c7d7a3b0c7cdd14fc
 com.vaadin	vaadin-custom-field-flow	3.0.1		269269d3c21f1ea4953cd6ad88c36f7727e07e24
 com.vaadin	vaadin-custom-field-flow	3.0.2		8a10f5f434cc8de4c27ed438339f2ec3ea50f503
@@ -2548,12 +2567,14 @@ io.liftwizard	liftwizard-jetty-admin-login-service	2.1.28		9bb30e92ad1c64746721c
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.29		a84016600905859535afd4fb59a284833040ef16
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.3		2dd70f9dc20d6753bc436648d32ae0221f7135c9
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.30		4fbf4a03ee8c6cf513a8bb4107eadf55e2385197
+io.liftwizard	liftwizard-jetty-admin-login-service	2.1.31		578dd4c40c05bfcc626e255e6d6efd2ce6745104
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.4		5948f341bc904e737bcba3cd3c4e2aa6f0030535
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.5		fb81e15c62b99e04c59e7adac8bb15bd2fced059
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.6		3cfcda5f0c237b4b1482af6d8e39e91293f5ef43
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.7		62dd4afb6ca30430620ab225a759d5cbd7f44046
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.8		7b1ab43054a9064889ee82ae74fad8ee9b52c77e
 io.liftwizard	liftwizard-jetty-admin-login-service	2.1.9		9b0bd516e5965d1a30f7f753d36e3c2554a4414c
+io.micronaut.controlpanel	micronaut-control-panel-ui	.0.1		4ba529e65c4d14920dbf23ac8377a7a0d7030e77
 io.micronaut.controlpanel	micronaut-control-panel-ui	1.0.0		bb83a711b9467f15ea172c0c437707a7a5e0e19f
 io.micronaut.controlpanel	micronaut-control-panel-ui	1.0.0-M1		887692c35fb41b4cacf2c1a6cf8a166861ca811d
 io.micronaut.controlpanel	micronaut-control-panel-ui	1.0.0-M2		9c0a04507a61d13d876aadc173357b6bce372f9c
@@ -2993,6 +3014,7 @@ org.webjars.npm	prop-types-extra	1.0.0		4124bf11ba81af5c52455b8df8a14f54f6b918d8
 org.webjars.npm	prop-types-extra	1.0.1		2b23e0f3be57479a5ca5eec37195ac1d37ebf4b0
 org.webjars.npm	prop-types-extra	1.1.0		5bf18101d8ba6341602efd2a3c51943ae356e2c5
 org.webjars.npm	prop-types-extra	1.1.1		3ba0c2c89000732e64884f69cc058d7165e8306d
+org.webjars.npm	stoplight__spectral-ruleset-bundler	1.6.3		f49189cc9c5275a7e226434cf6873e5c71934c0e
 org.webjars.npm	to-single-quotes	2.0.0		f3c5b590ed3934b7f15cccdc4daeb202e2734e1f
 org.webjars.npm	to-single-quotes	2.0.1		044c7caf7d25d57fb7794e5d6c4a3baa73f3df12
 org.wso2.carbon.data	org.wso2.carbon.dbconsole.ui.feature	4.3.0		N/A

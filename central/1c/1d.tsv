@@ -113,6 +113,15 @@ app.cash.backfila	client-dynamodb-v2	2025.04.22.001005-6591e0d		9af7ee13c19ccca8
 app.cash.backfila	client-dynamodb-v2	2025.04.22.144747-b61ec1a		b986de4f513a5b30c5dfbcbaa95b61077db5c8ea
 app.cash.backfila	client-dynamodb-v2	2025.05.01.181219-dd7ddc2		ea40fdeebe6239ee09340b4de97501be54790bdb
 app.cash.backfila	client-dynamodb-v2	2025.05.02.175838-8ccb0b0		d606043bd27c2cb4c6459afb5df4b4302e425088
+app.cash.backfila	client-dynamodb-v2	2025.05.05.145329-00d423e		a9823ea0bab946f55b87a5c2c46416c23b12111d
+app.cash.backfila	client-dynamodb-v2	2025.05.05.170806-d8196f9		e6c5a64de68f0286a4c021774f53bed1ee79669a
+app.cash.backfila	client-dynamodb-v2	2025.05.05.223811-8976292		998bfc6a335e63f974f9306c2ef327431d91aeb5
+app.cash.backfila	client-dynamodb-v2	2025.05.07.124932-399d45a		323f50c0f059e09b20537dfd8f45b8d93ff9bda8
+app.cash.backfila	client-dynamodb-v2	2025.05.08.174317-550dc7d		77501b8927843207ace4e8f3bbde2b16b6e201a9
+app.cash.backfila	client-dynamodb-v2	2025.05.08.185252-70a001c		61121e09a1d43b8229e2e61a6b8403bf805a813d
+app.cash.backfila	client-dynamodb-v2	2025.05.12.160240-6152e21		d8b0a85d3bac8c0c0714d75476117d1b62e32404
+app.cash.backfila	client-dynamodb-v2	2025.05.13.195510-03b951f		54c156fe3de8c161ec201f4bce5feef44c09804e
+app.cash.backfila	client-dynamodb-v2	2025.05.14.193213-4ef2090		0dcedc10dd02041b5c8072c82e38fafdde741b49
 at.favre.lib.hood	hood-extended	0.4.4		N/A
 at.favre.lib.hood	hood-extended	0.5.0		N/A
 at.favre.lib.hood	hood-extended	0.5.1		N/A
@@ -430,6 +439,9 @@ com.riskrieg	core	3.0.0-9.2206-alpha		eca0b89caa659c10f2499700bfae08cd663509fc
 com.spoton	nats-android	2.4.1		37d9c94fc785b0c86af2faec04c1d8866f8ad862
 com.spoton	nats-android	2.4.2		442a1bfe2750abbc7708846a8b05e3cfd689a3b6
 com.spoton	nats-android	2.4.6		fd23faeee4b2cbc5ecfa82853a7376e9cfb2797c
+com.turbomates	event-rabbit	.1.1		9f36ef54d0d7b4c2082377383315d4adaff86688
+com.turbomates	event-rabbit	.1.2		a97ef65fd6e4601edee99821940b48e4752d2a3c
+com.turbomates	event-rabbit	.1.3		bce4e1d34c2ba0b734558f3968f070ed1e039c4c
 com.turbomates	event-rabbit	0.1.0		968cc1a94b94759c9b996d2109566c35dbb7a185
 com.turbomates	event-rabbit	0.1.10		0073d12d0f70658c4afbba1d7eee298e60d3fc4e
 com.turbomates	event-rabbit	0.1.11		64d8ccd2bc212128d6c96c3a865fce1f81a978a6
@@ -542,6 +554,7 @@ dev.galasa	dev.galasa.windows.manager	0.21.0		a27859e202eb2c313ba2e094e1b63863a0
 dev.galasa	dev.galasa.windows.manager	0.38.0		b69e8b3ecf54cfa5f744eaa73b1b655c997432e1
 dev.galasa	dev.galasa.windows.manager	0.39.0		c444a29073db5044ac9a79786aa625fc6d8eedfc
 dev.galasa	dev.galasa.windows.manager	0.40.0		9b6a0ff988ee3224b00a9811795b86af506bbf98
+dev.galasa	dev.galasa.windows.manager	0.41.0		3099b27fd0057715acbe29625f2ecd473c834eaf
 dev.teogor.sudoklify	sudoklify-tokenizer-linuxarm64	1.0.0-beta04		N/A
 fi.metatavu.restful-ptv	restful-ptv-spec	1.2.10		5675f640f751c250a8d24d607af6fa507c7922d7
 fi.metatavu.restful-ptv	restful-ptv-spec	1.2.11		87596871f8aabef4c1671025e440bf89f876cdf5
@@ -1125,10 +1138,17 @@ org.finos.legend.engine	legend-engine-application-query	4.8.0		93e1882811de551a5
 org.finos.legend.engine	legend-engine-application-query	4.80.0		83bdd0371a903a31b31f8d53538e0ec4cba1485f
 org.finos.legend.engine	legend-engine-application-query	4.81.0		ddc3c7f12d885adb9e4f2ad9e6ec44029d437297
 org.finos.legend.engine	legend-engine-application-query	4.82.0		3e39864937e1286ba14e89df6ba0f98aa914bd15
+org.finos.legend.engine	legend-engine-application-query	4.82.1		779fa27504029069861b615e97c3ef128fa92090
 org.finos.legend.engine	legend-engine-application-query	4.83.0		0430a078d495d4fecb1aabb879af4265fc85fc7d
 org.finos.legend.engine	legend-engine-application-query	4.83.1		5ecd0efcc0305e6f49f1f66f029471420e9ea9c1
 org.finos.legend.engine	legend-engine-application-query	4.83.2		ea58942f0c00c3ce04bab730b1df8cc8b91eabab
 org.finos.legend.engine	legend-engine-application-query	4.83.3		e6651391d66ec21e2c190bf87694d82ca24eeac7
+org.finos.legend.engine	legend-engine-application-query	4.84.0		0b3a5ebbd1c60350b57360a59659780398182fd7
+org.finos.legend.engine	legend-engine-application-query	4.84.1		fe87fd1ec889d702877064d549bd23a4017307df
+org.finos.legend.engine	legend-engine-application-query	4.85.0		547597df436d6037a1f93dbfde264b47ea0a83ff
+org.finos.legend.engine	legend-engine-application-query	4.85.1		d06c459787870c03c715df5f872dacb1c36fd401
+org.finos.legend.engine	legend-engine-application-query	4.85.2		8c89ed88a8c95ba694f9d6dbcf689b50de79f242
+org.finos.legend.engine	legend-engine-application-query	4.85.3		108dabf16a5265a28fb15dd199ea659a52b83834
 org.finos.legend.engine	legend-engine-application-query	4.9.0		1a38a7d892366dd087285ca4d5f8924d7078c98a
 org.fugerit.java	fj-tool-util	0.1.0		d034e3ef093eed8f9413159ba0c675ec679894ae
 org.fugerit.java	fj-tool-util	1.0.0		6b2baec60a955afdcc56fa8bc9eb606d26e074b9
@@ -1229,6 +1249,7 @@ org.hildan.krossbow	krossbow-websocket-test-tvosarm64	3.6.0		N/A
 org.hildan.krossbow	krossbow-websocket-test-tvosarm64	3.6.0	metadata	2cb00a63a89201036b1b6ae2a9f0766613768365
 org.housecream.parent	parent-resources	1.19		dce8f9213abe61ae55bb5a1d201268a6a5290c1f
 org.http4s	parboiled_2.13	2.0.1		98d7e970642049ff9783461a6a655fd2c84eb691
+org.jetbrains.exposed	exposed-r2dbc	1.0.0-beta-1		bf1a5e38366b558cb85d707e47dca35c34929569
 org.jvnet.hudson.plugins	active-directory	1.0		bf79263bb53d51062c6f2f93a41347e8975b9d7a
 org.jvnet.hudson.plugins	active-directory	1.1		426013aac59a71573f6615e00c538ff26e445b8e
 org.jvnet.hudson.plugins	active-directory	1.10		a66226eb364419be31cbed1c3b9359432fbc746b

@@ -54,6 +54,8 @@ com.day.cq.workflow	workflow	5.2.8		N/A
 com.day.cq.workflow	workflow	6		N/A
 com.day.cq.workflow	workflow	7		N/A
 com.day.cq.workflow	workflow	8		N/A
+com.dragselectcompose	grid-jvm	3.0.0		be2c01112e5cd1316619a85f4714a640cb77ac65
+com.dragselectcompose	grid-jvm	3.0.1		be2c01112e5cd1316619a85f4714a640cb77ac65
 com.github.Raonitish	sampleone	0.0.2		96da18f83029cc2cdd5079ee466da4b9f337e33f
 com.github.alonsodomin.cron4s	cron4s-joda_2.13	0.6.0		fed5bd8e2c449d9c0a561ee2240f6721a938fdd4
 com.github.alonsodomin.cron4s	cron4s-joda_2.13	0.6.0-M2		8fc4f54cd9bb3f8787efef0c8fb0813a44a6e5f2
@@ -179,6 +181,7 @@ com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.135.7		94f3e61307
 com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.135.8		fb3cdc052e7cf02bc47f17bc5d92acbd9462f243
 com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.135.9		d3ff3cc523175d43355e2f708ac64ac6ad512367
 com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.136.0		c45256b00ca19e7bb008f3044cc2d1e54b06ba8d
+com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.137.0		7d464276d1ce5bee088a67bf6a225d5cee4f01ff
 com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.14.0		0302242a871c6c83c3dd0d78432f86888113afc0
 com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.15.0		2c252e09e9abdbecddf7caafd1e091bb72e0ca85
 com.metaeffekt.artifact.analysis	ae-artifact-analysis-plugin	0.16.0		426b72d7df3cca083a4a23e817285e43a6029a2f
@@ -465,6 +468,7 @@ io.github.kevincianfarini.monarch	environment-variable-integration-iosx64	0.2.2	
 io.github.kevincianfarini.monarch	environment-variable-integration-iosx64	0.2.2	metadata	f7a9e2fb5a79c537985e3acd1888012e333b89b0
 io.github.kevincianfarini.monarch	environment-variable-integration-iosx64	0.2.3		N/A
 io.github.kevincianfarini.monarch	environment-variable-integration-iosx64	0.2.3	metadata	caffd950463c9728bbfc2eda8d2189ffc76008f0
+io.github.kevincianfarini.monarch	environment-variable-integration-iosx64	0.2.4	metadata	fbd516deb372b3fcce774c1aaf358b2cfac7424e
 io.github.lubase	lubase-model	1.0.0		ecbe00155ae17dfee1ff2ed2239bbc354fffcbbb
 io.github.lubase	lubase-model	1.1.0		9950592c81d71a932ee8f9fc65e75e915118ba6a
 io.github.lubase	lubase-model	1.3.0		c767000cc0e5f53cdd58b23bfe93fa9c631651a6
@@ -512,6 +516,7 @@ io.github.openfeign	feign-soap	13.2.1		7be447b2db030e2072bc3b5d448fee86cb40e2a0
 io.github.openfeign	feign-soap	13.3		deda5958ba86f2a969196c4ebbaca5266e616c6e
 io.github.openfeign	feign-soap	13.4		fe76eb5a426b5aa79670511e8841c0d5a9e6a4cd
 io.github.openfeign	feign-soap	13.5		83617b8dc4cc7ab79ab62f4048d95b1a23f4453b
+io.github.openfeign	feign-soap	13.6		3f8f05bb5a23f7fe372ed6f29e6cc9845d1c051e
 io.github.pandulapeter.kubriko	plugin-serialization-android	0.0.1		N/A
 io.github.pandulapeter.kubriko	plugin-serialization-android	0.0.2		N/A
 io.github.pandulapeter.kubriko	plugin-serialization-android	unspecified		N/A
@@ -1042,6 +1047,8 @@ io.quarkus	quarkus-cli	3.15.3.1		d054d918b2bc30090b0df673041fef4a72066f00
 io.quarkus	quarkus-cli	3.15.3.1	runner	9f2804fc43286ff7b7183d99746008994474eaf6
 io.quarkus	quarkus-cli	3.15.4		f927cfd24c2bc4afd67504644cd697d5d3622eb9
 io.quarkus	quarkus-cli	3.15.4	runner	c226e0d4e7c8daf0abbea700f36dc148c14dc4d8
+io.quarkus	quarkus-cli	3.15.5		edf968d0b2220a3daf34ab67148f221f06c4557b
+io.quarkus	quarkus-cli	3.15.5	runner	b9f5b35c0b8602959e08c0ea7f8768fa738c8e80
 io.quarkus	quarkus-cli	3.16.0		ba289a08300622a6b0e2985a6cc826997f0fa691
 io.quarkus	quarkus-cli	3.16.0	runner	39ccd94bce3087355a3282e4674373baea825e37
 io.quarkus	quarkus-cli	3.16.0.CR1		2babc472e0bbae34f98e68bde05b6cabc511ddb0
@@ -1130,6 +1137,8 @@ io.quarkus	quarkus-cli	3.20.0		2a6541736c923bd969aba8830dffcd1ae0a1d1e3
 io.quarkus	quarkus-cli	3.20.0	runner	fc659e5a0e07faa8f55b53547086918b7c4cac74
 io.quarkus	quarkus-cli	3.20.0.CR1		ba2fbc443660d59e82af178b22b765213b2d232a
 io.quarkus	quarkus-cli	3.20.0.CR1	runner	7d08420c16d9be6738ba6a4a05026d4ed1bd98a2
+io.quarkus	quarkus-cli	3.20.1		37c361a17b5078211d97fb8225b158f6fee5d6c9
+io.quarkus	quarkus-cli	3.20.1	runner	6917be8d6dda8f8cb8469eb31352e9ff4fcabb30
 io.quarkus	quarkus-cli	3.21.0		c0201f02cb3344259bc05c9bb64719a6c5e5b5ba
 io.quarkus	quarkus-cli	3.21.0	runner	b7e90d3fab640d5ce4953163b1ad86f1beba5bd0
 io.quarkus	quarkus-cli	3.21.0.CR1		ae3e7fe5f408c85b8886e7975ed0047d5932e5c7
@@ -1148,6 +1157,12 @@ io.quarkus	quarkus-cli	3.22.0.CR1		81383772b5bbbdd003eab8303fe9e3dcdb982aa3
 io.quarkus	quarkus-cli	3.22.0.CR1	runner	8df1def631e7248b630e6088ccae045ed6b6fbc1
 io.quarkus	quarkus-cli	3.22.1		1bab1a5023e36b6e65bf68509104c021d8ca1f88
 io.quarkus	quarkus-cli	3.22.1	runner	5b1f78aa4e1888de20b5fed020eb0790c7686599
+io.quarkus	quarkus-cli	3.22.2		a180cf1ee15981886da2aee15150e2f96bb121a7
+io.quarkus	quarkus-cli	3.22.2	runner	9e4b837a11721768eddf2fbb861335b30e2f35b4
+io.quarkus	quarkus-cli	3.22.3		dcb20a4ee2c2fa73c5f4527eaafc06bbe74f6366
+io.quarkus	quarkus-cli	3.22.3	runner	eb9e5cac6ec43490cfa20b770fa87a05b6c59718
+io.quarkus	quarkus-cli	3.23.0.CR1		32bdd0249948d164841f41a0feb99c99d9367029
+io.quarkus	quarkus-cli	3.23.0.CR1	runner	6eb8a3b3242884bf4030286543f5e065c84246a7
 io.quarkus	quarkus-cli	3.3.0		ed47e84b2ab4ad81f19a1e8f4d81daad9e2da383
 io.quarkus	quarkus-cli	3.3.0	runner	df613fea4024032b3fd7c1c3c4d4322b7f36d23c
 io.quarkus	quarkus-cli	3.3.0.CR1		d9ece10d240f67498249365ee5c9b7e159c4c7b1
@@ -1331,11 +1346,19 @@ io.spinnaker.keel	keel-igor	1.2.1		0b098b26e3fcbbd1d198fc2beb3cf2d7dfeda0f6
 io.spinnaker.keel	keel-igor	1.4.1		761bd8d59937cdfbbc4f7c793bb6dcf68348fc99
 io.spinnaker.keel	keel-igor	2025.0-0		6ebda58fd964fd3a7dfc7e6d9b79060075f6a0b0
 io.spinnaker.keel	keel-igor	2025.0-1		e025998956c710fa8773bdd89e0104bad6f1b6ae
+io.spinnaker.keel	keel-igor	2025.0-2		ec21a900bc4844f494618a97e52439c53fd1c196
+io.spinnaker.keel	keel-igor	2025.0-3		e9f7d9d6d816cf5dbc3e456c905d4b93ce7d9e5a
+io.spinnaker.keel	keel-igor	2025.0-4		43c40bdf97f629d6fd004051f2d8957e4c105a20
 io.spinnaker.keel	keel-igor	2025.0.0		a66482d200e130e195a7dc3cbc2adaa3874cbf03
+io.spinnaker.keel	keel-igor	2025.0.1		7eb3a6c3129f9c94d0ec9a3fff0ac81e6c834b6b
+io.spinnaker.keel	keel-igor	main-10		2f7c6627ff9d62fb46f031aa5f1c337da1cef9e5
+io.spinnaker.keel	keel-igor	main-11		21701ac18e4e9b9c2a022d30cec68e9c19bf6dad
+io.spinnaker.keel	keel-igor	main-12		36ff3153a69062277229cd89a083a89758b6958a
 io.spinnaker.keel	keel-igor	main-5		da97aa7f68da925f5f0eb7703a170877df5551a0
 io.spinnaker.keel	keel-igor	main-6		536e7620ff0e236eb3cfa32bb2cc4632e87a6831
 io.spinnaker.keel	keel-igor	main-7		a4359a0d9e018291e9864fc625fe1521d262e4c2
 io.spinnaker.keel	keel-igor	main-8		9d51fa569ee9a6befc18af08746cfb3214ec919c
+io.spinnaker.keel	keel-igor	main-9		4eebf360441a21573c5d45eaabdd89077f308e3e
 io.toxicity.api-key	api-key-watchosx86	0.1.0-alpha01		N/A
 io.toxicity.api-key	api-key-watchosx86	0.1.0-alpha01	metadata	81dd78dfb940c28bb48981e0251019c473d93b90
 io.vertx	lang-nashorn	1.0.0-beta1		19cee951866a9000e913c8aed79c449690d56942

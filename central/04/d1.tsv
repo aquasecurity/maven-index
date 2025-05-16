@@ -533,6 +533,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2	2.13.3-alpha		4ccb0a2c0c3ce46ca469012e08f2a228f64e4f67
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2	2.14.0-alpha		0cff0958279d19438f66ea12e5f727b64c1ac5c9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2	2.15.0-alpha		5be9dbb50702e8fa1da54b2898831efa7c31a9ad
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2	2.16.0-alpha		596486ff05a6e389b1a04851f0384897c6285bfd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2	2.2.0-alpha		c777f3ee1ba1b210ead351aa5bb83b431bfbb0e4
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2	2.3.0-alpha		7caa7996ec532c5fbbf0996f0006b467b0819c94
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-xxl-job-2.1.2	2.4.0-alpha		017504512fd8a353b8ee69380d0b8b9a80490a81
@@ -755,6 +756,7 @@ org.apache.camel.springboot	camel-undertow-starter	4.8.3		b870d7a540d1d96b779ebd
 org.apache.camel.springboot	camel-undertow-starter	4.8.4		82dd34ae6b0a5c0889f2c86c3553d501b79cb576
 org.apache.camel.springboot	camel-undertow-starter	4.8.5		a177cc238ef908d109c8d3515acc222fbcc2a534
 org.apache.camel.springboot	camel-undertow-starter	4.8.6		c219036bb24c9d634ff5500fbaa642a1a00e0425
+org.apache.camel.springboot	camel-undertow-starter	4.8.7		6b5db1d151ad840ac39bc2b9650ec5730ec9f18d
 org.apache.camel.springboot	camel-undertow-starter	4.9.0		f39f8bd36986ad29e442e6068985868a88bbaf8f
 org.apache.cocoon	cocoon-container	2.3.0		5dddaf6e58049329d37f13c1cbc2452014ad3c19
 org.apache.oozie	oozie-sharelib-sqoop	4.1.0		0f781cc475e4d4186fe6eb842c7747e869fd9249
@@ -934,10 +936,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.79.0		c0972b
 org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.80.0		0e1e53e63e8e1c8681954707a70215421a5e488a
 org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.81.0		4f90407c3313b3ab74edbcc3a74b77246c259d73
 org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.82.0		cd11a4073e6272c3384a0abb742d348c97ff6184
+org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.82.1		f9b065dccaadff9b034be7bc601fe49e7a0695e8
 org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.83.0		63b279f693445b80f7dca0ab57ed03bef05d27c2
 org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.83.1		8f4c326a5554990415ded327cd01683e9bfc4623
 org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.83.2		79fc1faf9b264e1fe9ea0d569ea805e9d5fcbd46
 org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.83.3		f115354b52f65bb03681a20df807d83481a4c090
+org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.84.0		ba2b829df91c66f6f3bca68c591946e7bf590284
+org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.84.1		2ef5b02c9f1c2b3ce75e328a6f20ef77a94856f5
+org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.85.0		b5f56d7b1b6a889b6d5db75b6d8b81b00d7b77c7
+org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.85.1		037c5d6a4ae4d1566516fafb81bb7126f3c77627
+org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.85.2		bb2f8b5118c9ee347d02408642c30bbc8ede6fe2
+org.finos.legend.engine	legend-engine-xt-relationalStore-http-api	4.85.3		ee0979db7ef727ccc3b36c6d548a448a34cf6015
 org.flowable	flowable-json-converter	5.22.0		5bb09267ff7e72c098f84b1efdc1c38b89229a1b
 org.flowable	flowable-json-converter	5.23.0		e5fa0ff50933080f98c8cf8f3c55321d73d018c6
 org.flowable	flowable-json-converter	6.0.0		7ae73563a5c75d4b0c8f14ebdd02575a374a4c66
@@ -1076,6 +1085,7 @@ org.kill-bill.commons	killbill-config-magic	0.26.2		c865001850f441e80f03aa273844
 org.kill-bill.commons	killbill-config-magic	0.26.3		3655cc36ca7228906e5eca2c77577a3bf253d304
 org.kill-bill.commons	killbill-config-magic	0.26.4		01e4b5962b37a22e28856de91991767f8703278e
 org.kill-bill.commons	killbill-config-magic	0.26.5		df1b2f3bb2ef34d9d5c0e6fce65528d1a5c7189e
+org.kill-bill.commons	killbill-config-magic	0.26.6		3c141a607cc461360b1e55fe2b93608490dd15c1
 org.librarysimplified	org.librarysimplified.futures	4.0.0		N/A
 org.librarysimplified	org.librarysimplified.futures	5.0.0		37de471442f0e8134ef294ec0e67d440491b9051
 org.librarysimplified	org.librarysimplified.futures	5.1.0		05bcfd5ff7883976d95226fe4a50e093177a1f71

@@ -850,6 +850,8 @@ com.liferay	com.liferay.portal.search.admin.web	4.0.79	jspc	47ef048b34892ee3fc7f
 com.liferay	com.liferay.portal.search.admin.web	4.0.8		8883b169e70f671c354c56a8a82d0f3381fc916e
 com.liferay	com.liferay.portal.search.admin.web	4.0.8	jsdoc	92d61b621141faf60b76955e728a768b0cb69f98
 com.liferay	com.liferay.portal.search.admin.web	4.0.8	jspc	37f99e2e8c28d4f730b79127fa3b0ad289bc6a3a
+com.liferay	com.liferay.portal.search.admin.web	4.0.80		98dd68dd3dd9b306d71af065d0030162ac77a5cf
+com.liferay	com.liferay.portal.search.admin.web	4.0.80	jspc	4a5310cbf2fafc5748e5021c04ed7a99e98d59f9
 com.liferay	com.liferay.portal.search.admin.web	4.0.9		5b4bdc4e9abe81cde2dc71107759d40969ca4ed0
 com.liferay	com.liferay.portal.search.admin.web	4.0.9	jsdoc	3e18ff14f1c76ace5431e89fc0e39366bc5f008b
 com.liferay	com.liferay.portal.search.admin.web	4.0.9	jspc	11dac49a1e6e21b9ab23c58e40cb2ed5611884d7
@@ -1097,7 +1099,15 @@ dev.jeka	jeka-core	0.11.21		48a4736e16d96648a485363ab034a8e44e611490
 dev.jeka	jeka-core	0.11.22		adacd9d0a34cd9a18c9faf4f081c65c8357279a4
 dev.jeka	jeka-core	0.11.23		d58f98bb33f0f663846daa86379d0e1b39d31956
 dev.jeka	jeka-core	0.11.24		8e8ad8c57840f16aa9a039a47c87c4a56b7f07c1
+dev.jeka	jeka-core	0.11.25		e5c544f2e190b6ab55d1429e597caa8775368ace
+dev.jeka	jeka-core	0.11.26		a46c9964988815ca1f6d58449d1ad6774fda70b4
+dev.jeka	jeka-core	0.11.27		b1bbcafab75efc6cda4cb2f06bf0a090f976ae17
+dev.jeka	jeka-core	0.11.28		c0afcf8306d8797758aad47627c4f18162c40e83
+dev.jeka	jeka-core	0.11.29		405c662f4d1431ee5744483bca4e2418ea97b9c9
 dev.jeka	jeka-core	0.11.3		d58dcf84f5757f51120e337fa98c17518ca0813c
+dev.jeka	jeka-core	0.11.30		e8c6e239194b02c6fab05f4f2f42be1e6be7f1ff
+dev.jeka	jeka-core	0.11.31		c1226fd0f54c0f66afa572af795fa9274cf38660
+dev.jeka	jeka-core	0.11.32		c06f3d579c71270d108d5b401a491f32d2952a71
 dev.jeka	jeka-core	0.11.4		4f19624e0647e1db7a5881b04f2e08032f55471c
 dev.jeka	jeka-core	0.11.5		960369ce9d4b77b3a67cc6adb81e0029ed26ea8f
 dev.jeka	jeka-core	0.11.6		8940f1898c41071be5759443e76d297fa04b10ce
@@ -1626,6 +1636,7 @@ dev.zio	zio-aws-schemas_2.13	7.31.27.1		f340fcca0ce6f8cc3c76c9b6e2a77a179bd4a0c9
 dev.zio	zio-aws-schemas_2.13	7.31.28.1		97768836a6774bb08e99447c7843ca2c781f33a3
 dev.zio	zio-aws-schemas_2.13	7.31.3.1		050c2599188bd3ea4478ce9ed42dd0025de8bcf3
 dev.zio	zio-aws-schemas_2.13	7.31.30.1		ec84e867331a8139272c58c33504b27a4bd7a22c
+dev.zio	zio-aws-schemas_2.13	7.31.30.2		cadea33febe73ea3a640e717ca1dd4de0b87da3a
 dev.zio	zio-aws-schemas_2.13	7.31.4.1		8c33a62721e95e248f7f8690522667a422208762
 dev.zio	zio-aws-schemas_2.13	7.31.6.1		3d1f4c8456f2843f5ae18e71aa17e322550bb154
 dev.zio	zio-aws-schemas_2.13	7.31.6.2		e8bf6a78f5e2750b5b4115ebe625c3de801affd5
@@ -2064,6 +2075,7 @@ io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.4.25		9367a2ee4af43ec90a3bbc1e400b826201fbf7bf
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.4.26		3079c5e81e190f80e899b6c3310bffa1a4c4ce53
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.4.27		26fa7633914ef009c7daf97fedf2d206cbdbec2d
+io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.4.28		4465bde5b4fcb5b4db1d2bbe6ad51da8ca4ac454
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.4.3		ac4bd4c776dad5f728b659dabc426cd608eea641
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.4.4		b04c0b6d2d1b652c2dc359640b95397e61cdfd78
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.4.5		77306f9969a68cddefa56096033c0ce026aae577
@@ -2081,6 +2093,7 @@ io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.5.14		7f8d0c1c7dc18f224870e3894f4b730708e32ee0
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.5.15		6016cbae33ef9541bc4a3a3e012f75403465aef3
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.5.16		90912189576e5cf980725ea1f44b919f533f50cf
+io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.5.17		6b610b562047e6df75c03f48c06d9aafb58d2ef3
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.5.2		57252a1fec766522b8d554102c31db743c89fc0b
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.5.3		f27c4e60c51e54f4e01c1805f7c3ab14d3c4d2e0
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.5.4		5aab8fe3ba0627bda6c9f3c5e88ec0343b89c7f5
@@ -2093,6 +2106,7 @@ io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.6.0-alpha.3		effc99cda7f0db2806fec335336386eee1fa4ae0
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.6.1		01d5289fc56a3626cc2e995c3b5d455d15a185fa
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.6.10		d3a7e6462c45e891066c6c1701c36b736db82915
+io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.6.11		d0155a35b354b13017edb930d543b8f9408b4e72
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.6.2		f87a89508d0cf4fc87b1f931364eae97c4246e60
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.6.3		be354806a54c7991dce7c7f34889599964655c07
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.6.4		1d1e0d2d43911d4a3221aaae242c114afc667bb0
@@ -2109,6 +2123,7 @@ io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.7.2		d91b61923a1c1c2e0cef126bb4757d604edaafcf
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.7.3		46b3185a8288105fff3f82b7efbb387868f91fca
 io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.7.4		3ff8d7f043f18584e6b95e7d0f51690d4dd263bd
+io.gravitee.apim.rest.api.services	gravitee-apim-rest-api-services-v3-upgrader	4.7.5		e9ee22be2d80dbcb5748a59beecddef085d4739d
 io.ifar.datadog.metrics	metrics-datadog	0		b58d5909073785ae0bd541a507226bdd9e409687
 io.xianzhi.security	xianzhi-security-authorization-server	1.0.0-beta2		b47c4f31c7f4b2ace00f5050206df60afcad9757
 io.xianzhi.security	xianzhi-security-authorization-server	1.0.0-beta3		69b425a4762b2b0f13fafbbbde37640b83712216
@@ -2333,6 +2348,7 @@ org.apache.camel	camel-test-infra-ftp	4.8.3		75ed0eb3592c542661ee5beec1c2a5b960a
 org.apache.camel	camel-test-infra-ftp	4.8.4		475c64da4f51f9430c5ad55e0930a321ade6cffa
 org.apache.camel	camel-test-infra-ftp	4.8.5		e1bcb712767757ad9d42cd21463930674b512f3f
 org.apache.camel	camel-test-infra-ftp	4.8.6		0ee5d682d00243eacc69a9d6f734cd1a06f63ec9
+org.apache.camel	camel-test-infra-ftp	4.8.7		b3ec0cfa8c9fb09f65d2ce80c1e20de3bf57b765
 org.apache.camel	camel-test-infra-ftp	4.9.0		433020650185ec18db881b73181a56ee0a21d052
 org.apache.camel.quarkus	camel-quarkus-rest-openapi-integration-test	1.0.0-M6		f1a426ac57b389cb686eb2fd2d2566e53e0ce2ca
 org.apache.camel.quarkus	camel-quarkus-rest-openapi-integration-test	1.0.0-M7		36cc3983536b4e7a842bb03b28abc7198506c469

@@ -159,6 +159,7 @@ com.jd.live	joylive-transmission-httpclient4	1.5.0		d0bc2a6fff4ccfd6c14cd26a636a
 com.jd.live	joylive-transmission-httpclient4	1.5.1		bc12685b1a07f9191479964be8f32eb4c55d87c2
 com.jd.live	joylive-transmission-httpclient4	1.5.2		f4c30eb00114d75119f1751b538b1eb2e27ae320
 com.jd.live	joylive-transmission-httpclient4	1.6.0		5b8e70f3464c6479a8a2841bc21da26889868f98
+com.jd.live	joylive-transmission-httpclient4	1.7.0		60ab76a7b6b9e02990964d6647f2b11f8a420519
 com.jimbroze	kbus-koin	0.1.0		722688b8029fef2bb00f8585d909329202212adb
 com.jimbroze	kbus-koin	0.2.3		722688b8029fef2bb00f8585d909329202212adb
 com.jimbroze	kbus-koin	0.2.4		722688b8029fef2bb00f8585d909329202212adb
@@ -544,6 +545,7 @@ dev.zio	zio-aws-oam_2.13	7.31.27.1		4cd68383eba27ec987ade00f3edb7b9c0c19de34
 dev.zio	zio-aws-oam_2.13	7.31.28.1		397773f86eeed6e9197393056391d5ea9eef7c65
 dev.zio	zio-aws-oam_2.13	7.31.3.1		4e9b2be7f0e145e2a045b11cae081cc6727d6db3
 dev.zio	zio-aws-oam_2.13	7.31.30.1		d070187417a19f23be2adcc3c21467f93a2ba6be
+dev.zio	zio-aws-oam_2.13	7.31.30.2		88b3217c3eb84f92fe80e1883d1dfeb00c70a081
 dev.zio	zio-aws-oam_2.13	7.31.4.1		092281e5bed99eef8ab8ba7715f4f702fe9ff200
 dev.zio	zio-aws-oam_2.13	7.31.6.1		ca29dbced0861dc8ace9cdcff3932f7b7fa0344b
 dev.zio	zio-aws-oam_2.13	7.31.6.2		4a8712844c40c8b3fe095f09979de8659c4b6026
@@ -869,6 +871,7 @@ dev.zio	zio-aws-wellarchitected_2.12	7.31.27.1		818153d3d1a5b9c55ef37973a4c285ae
 dev.zio	zio-aws-wellarchitected_2.12	7.31.28.1		2c68eea7b6c19c01a205ed66312698b002b6937d
 dev.zio	zio-aws-wellarchitected_2.12	7.31.3.1		c0a1f32134b2dcc932e2dbec5cfcfdc440e0c177
 dev.zio	zio-aws-wellarchitected_2.12	7.31.30.1		25bdfda20e979c6dc0d501959d1bf0c1f3fdda7a
+dev.zio	zio-aws-wellarchitected_2.12	7.31.30.2		aad3c1de9a408e7b8b8ccf77e7e0ecefb54ef8cf
 dev.zio	zio-aws-wellarchitected_2.12	7.31.4.1		c5a728131c9b06a89bf3c65d208d442787d4f307
 dev.zio	zio-aws-wellarchitected_2.12	7.31.6.1		9fdc587887a6c64b0b559ae021b584dbdba31f68
 dev.zio	zio-aws-wellarchitected_2.12	7.31.6.2		6a3fae220d2b2de326712225630efc7e62dcf6f0
@@ -1019,6 +1022,7 @@ io.camunda	zeebe-process-test-api	8.4.15		86982e5968fbd89d3261c3ba38e0bb221737f1
 io.camunda	zeebe-process-test-api	8.4.16		c05a16edd44840545398c0d1bdbc8bb73d0ff060
 io.camunda	zeebe-process-test-api	8.4.17		61fea3bf9483ba226655702571d70b7549e31e35
 io.camunda	zeebe-process-test-api	8.4.18		bd846db8399a75876e6ef337ce892e32db4ba2f1
+io.camunda	zeebe-process-test-api	8.4.19		5679bc55358fcb43ab1ffc263f8b2da8a0152b26
 io.camunda	zeebe-process-test-api	8.4.2		38857fd0ba01be3b0fddb0aa574e8e3697e9b56f
 io.camunda	zeebe-process-test-api	8.4.3		1aaeff4d6517dabc8d0e1b510d7e21da37dd9327
 io.camunda	zeebe-process-test-api	8.4.4		17399cd5a9b9e67c506a3fc21821f937fe203c82
@@ -1039,6 +1043,7 @@ io.camunda	zeebe-process-test-api	8.5.14		642c2aa7cf5b3531f20ee5dd9eadd29e3787a2
 io.camunda	zeebe-process-test-api	8.5.15		3497e502f239620286cc04a49849d5256ef08124
 io.camunda	zeebe-process-test-api	8.5.16		e211310609b09dc51658cd03bf6e3e80054a875a
 io.camunda	zeebe-process-test-api	8.5.17		fe3ecdfeb37d6e60a7727bcb9acec44f5467f965
+io.camunda	zeebe-process-test-api	8.5.18		89bc59db2d06b084f0020816981ca63f82e76405
 io.camunda	zeebe-process-test-api	8.5.2		b0f3821a9f320919d0f8e025f7ac66c1a72826f3
 io.camunda	zeebe-process-test-api	8.5.3		fc8cdf17939997003faa6a7467d909692b97dff8
 io.camunda	zeebe-process-test-api	8.5.4		a55d13305c49e00bd7349dd1267c1bf3eaabe872
@@ -1073,6 +1078,8 @@ io.camunda	zeebe-process-test-api	8.6.12-rc1		ff8fd01f45be972f6defb737d02b5a197b
 io.camunda	zeebe-process-test-api	8.6.13		70accbe33020445453b9ac84eaef395614d90a7a
 io.camunda	zeebe-process-test-api	8.6.14		69b4c9e69781558db03c0b6a193145c031aaa985
 io.camunda	zeebe-process-test-api	8.6.14-rc1		df6208eb842a00a23bbed68e7e28e2434dcd95cb
+io.camunda	zeebe-process-test-api	8.6.15		e0ffdea1e9b57d223a43d4d26e8ea886d0f176bf
+io.camunda	zeebe-process-test-api	8.6.15-rc1		538043b32c5f36a3a55a2b4d35f8475b9f37dfdb
 io.camunda	zeebe-process-test-api	8.6.2		9251a1bcec2970d2cbc003789e0445f35a803b3d
 io.camunda	zeebe-process-test-api	8.6.3		0c8be2527d46b85e33064f5f854e17ddc100bd25
 io.camunda	zeebe-process-test-api	8.6.4		b51732ae8dbd8c83c50cc05df21249b82747e8b2
@@ -1107,11 +1114,14 @@ io.camunda	zeebe-process-test-api	8.7.0-alpha5-rc1		77cf935e4085fd37a9b45cfafdc8
 io.camunda	zeebe-process-test-api	8.7.0-rc3		93b0bc4e8711d0c1797f739a058d68a86fe0c13d
 io.camunda	zeebe-process-test-api	8.7.1		b754ef73bb982047800f62db737a5aeacb046a42
 io.camunda	zeebe-process-test-api	8.7.1-rc1		aa155c89d4a46fc7dc70061b192510c8c3bcbdcd
+io.camunda	zeebe-process-test-api	8.7.2		7216e8afff2619ee470db505f2eaa00bf3ab71b4
+io.camunda	zeebe-process-test-api	8.7.2-rc1		abffe92e17f494fcdd69bb3cbff1dece448aea99
 io.camunda	zeebe-process-test-api	8.8.0-alpha1-rc1		0a48a95de5f9a51b5d3852113c32d22c0dc2c0b8
 io.camunda	zeebe-process-test-api	8.8.0-alpha2		9488804bfdb3e0bf23b578b22f0fb12bfdfcb4d4
 io.camunda	zeebe-process-test-api	8.8.0-alpha2-rc1		1f2235fc6c0e2adb07791a7d7f9657df4f30785f
 io.camunda	zeebe-process-test-api	8.8.0-alpha3		337c9c7141f7843cb285796e64570aa823dce49e
 io.camunda	zeebe-process-test-api	8.8.0-alpha3-rc3		ace204b5c5ee263ae1740574b29d37e3e892bc54
+io.camunda	zeebe-process-test-api	8.8.0-alpha4		0e8ba8c11dcc32a820a6a65f41cea93685deecf7
 io.camunda	zeebe-process-test-api	8.8.0-alpha4-rc1		a7c7f476d97684a30cedc046993d2ce274278420
 io.cloudslang	runtime-management	0.3.100		N/A
 io.cloudslang	runtime-management	0.3.101		N/A
@@ -1785,6 +1795,7 @@ org.opennms.core.test-api	org.opennms.core.test-api.db	33.1.2		9c8b3ee8edd4c8459
 org.opennms.core.test-api	org.opennms.core.test-api.db	33.1.3		1d6ffe0c4c08d1911a347cdc2c2b7fe660ec62d9
 org.opennms.core.test-api	org.opennms.core.test-api.db	33.1.4		55bb746a08c79c1c15fd5b39ca2634a90ba2098b
 org.opennms.core.test-api	org.opennms.core.test-api.db	33.1.5		a360ccad9b6c9cc731f01be052451592b269ce1e
+org.opennms.core.test-api	org.opennms.core.test-api.db	33.1.6		f562b17d6e845050bf95fbc27c4f42299b84eee8
 org.typelevel	discipline-core_sjs1_3.0.0-M2	1.1.2		84771eb4ca9a2fdbfd14a4d0ed9173fd2d62087e
 org.typelevel	discipline-core_sjs1_3.0.0-M2	1.1.3		c1b46577a786d6719e82f51f145f916697a2bad5
 org.webjars.npm	d3-sankey	0.12.3		5f1ca676ebaf91d2cacd9bfc1b39983183d878fc

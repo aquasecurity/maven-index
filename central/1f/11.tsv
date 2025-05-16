@@ -431,6 +431,8 @@ com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.48.0		b799634b34c5272db7b1f2e
 com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.49.0		93d20dcceee6f1a89c492b04bf6a1d81c222800a
 com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.5.0		6e1905965138aea3234d51fe7651c72c5da6a6e2
 com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.50.0		f5d58e3f29d7163d8b57da639b963e2ecc529162
+com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.51.0		5b65065a1f2443d01d53584cff05d2f148919c48
+com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.52.0		174d4b8c7f0ab569c556a8c978176dc17f98f2e1
 com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.6.0		201044bb4c31fcf8d70640ff01bde089c7d69aa1
 com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.7.0		4100565b4452cf754bdf3354fb66ae1e7fae8de5
 com.google.api.grpc	grpc-google-cloud-alloydb-v1	0.8.0		9b1f07622e85a4d40edd5b1913058c6aba3daf51
@@ -956,6 +958,7 @@ dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.27.1		ebcb9043f61dc820d68ab26a64373
 dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.28.1		a7a88f160c53bc01bcaedbc7b1299852cb6ddcb1
 dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.3.1		8fdfbe088584389d7eab5380cc57deedde04e0a5
 dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.30.1		6f4ce3bfa0889141726decea240bad7af873e68a
+dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.30.2		9ebe2b60cea8263584c187cc9aae25c835055e0d
 dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.4.1		31a8a64932a966c4e25d0937d9870c37ea3c6f88
 dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.6.1		5df363be76669ebef6ce37fd2a87ef24e2fa4612
 dev.zio	zio-aws-connectcampaignsv2_2.13	7.31.6.2		216d8c4d4117cc7f798c0110ae50bdb952d7c622
@@ -1125,6 +1128,7 @@ io.github.licy5352.dagger	hilt-android-gradle-plugin	2.45-kim-rc1		4f48cb2c1e964
 io.github.lyxnx.v6	util	1.0.0		N/A
 io.github.lyxnx.v6	util	1.0.1		N/A
 io.github.mohamed-ie	eventbus-compose-android	0.0.1		N/A
+io.github.the-best-is-best	kfirebase-firestore-tvosarm64	1.1.0	metadata	3c057a42d42301fb6c731baad9c76bafc58f6dde
 io.idml	idmltutor_2.12	2.0.0		4d87d71c0bfaa981397e95e2db5343f35a775b36
 io.idml	idmltutor_2.12	2.0.0-RC1		18fba8df4a288eed82627157c9dfdbf8d80e2cc5
 io.idml	idmltutor_2.12	2.0.0-RC10		7ad2f613521712cc4b2e98d58175d7de644ff1fd
@@ -1185,6 +1189,7 @@ io.ktor	ktor-server-request-validation-jvm	3.0.3		05fc41e0cf276066347ded188d2439
 io.ktor	ktor-server-request-validation-jvm	3.1.0		9ed4f973bfddb86e39f4e73f86e966c5e7b13e05
 io.ktor	ktor-server-request-validation-jvm	3.1.1		470c4f15dffd98b3726b91c1be770bea5fe10ef0
 io.ktor	ktor-server-request-validation-jvm	3.1.2		6405c9b61c236a15398e9bd47cd0d09251e8340e
+io.ktor	ktor-server-request-validation-jvm	3.1.3		cb9fc937344c9aa9cba1f734fda48479f86dfef2
 io.matthewnelson.kotlin-components	kmp-tor-common-tvosarm64	0.1.0		N/A
 io.matthewnelson.kotlin-components	kmp-tor-common-tvosarm64	0.1.0	metadata	54c65569479ade389ab1f450f41f8d8a1511179a
 io.matthewnelson.kotlin-components	kmp-tor-common-tvosarm64	0.1.0-beta1		N/A
@@ -1453,7 +1458,11 @@ io.sentry	sentry-android-replay	8.9.0		N/A
 io.sentry	sentry-android-replay	8.9.0-alpha.1		N/A
 io.spinnaker.orca	orca-queue-sql	2025.0-0		de8dd9c5b6a4f032502b4b06f468b601d1094cb0
 io.spinnaker.orca	orca-queue-sql	2025.0-1		b600d20f874a407c57717fa46b921738703f658d
+io.spinnaker.orca	orca-queue-sql	2025.0-2		e1ca1a7b42de29ecb09d527cd6b4cf1ca19e152e
+io.spinnaker.orca	orca-queue-sql	2025.0-3		10cdeb2f7cbd720c9f67a410fdf35808e1fff5b8
+io.spinnaker.orca	orca-queue-sql	2025.0-4		d0c83999156cbbbceee4a4d00f3375b6e4d9f065
 io.spinnaker.orca	orca-queue-sql	2025.0.0		b26e016ba4722e8a4719ecab3de615764c017d89
+io.spinnaker.orca	orca-queue-sql	2025.0.1		6c7c3730dfa3dd83197e4867983ab5044c378dee
 io.spinnaker.orca	orca-queue-sql	8.15.0		acb3273b45d10b70d262adf3cf9b120f55891948
 io.spinnaker.orca	orca-queue-sql	8.16.0		590ee81da832c4ea08d7b3da882087fcfa60648d
 io.spinnaker.orca	orca-queue-sql	8.17.1		12d4d30299b30686bad5ee28bac426ace24b16df
@@ -1545,10 +1554,14 @@ io.spinnaker.orca	orca-queue-sql	8.61.2		e03baa81a493c98b4cc92f71301b74e5a500ca7
 io.spinnaker.orca	orca-queue-sql	8.62.0		85fb1cdf86265a6f5387349a2a9a39bb4cbdacf4
 io.spinnaker.orca	orca-queue-sql	8.63.0		72132e7f075fe89cbe0162138a16a854c37d0685
 io.spinnaker.orca	orca-queue-sql	8.64.0		d269e6b827af036192b248c6b80e23eb49f52118
+io.spinnaker.orca	orca-queue-sql	main-10		93c9c7fb7eb37d012742920f15bfa8dce24da221
+io.spinnaker.orca	orca-queue-sql	main-11		dac2c2fc48f233db77314ed4a9ff112a2aaf3c96
+io.spinnaker.orca	orca-queue-sql	main-12		d1f9213b534b016f190306dcbe84986e45a23541
 io.spinnaker.orca	orca-queue-sql	main-5		df541e889167e9a5e083b6e36bff16f5541fd8d7
 io.spinnaker.orca	orca-queue-sql	main-6		68c70f7fcf1c8dd97359d21b2e66e03d0532432c
 io.spinnaker.orca	orca-queue-sql	main-7		e9a71b46704c688875798921cf8f626e9b1e8d80
 io.spinnaker.orca	orca-queue-sql	main-8		32ae0847973dd9c798fc8e7ed3b2b7c1462ff40f
+io.spinnaker.orca	orca-queue-sql	main-9		a21f26613e7342f27f41ed3480e9aff803b8b921
 io.stargate.it	testing	0.0.10		188e354ab5d721b37b92dc3a4bb303f2376cc593
 io.stargate.it	testing	0.0.11		4013b725015c5f04742afae472639554ca8e9412
 io.stargate.it	testing	0.0.12		3f106478d575afa2d2f8b0dd7784d93114e8ef01
@@ -1739,6 +1752,8 @@ io.stargate.it	testing	2.0.29		4720b1332a0db8b2de3d8eefa690aee4bf39f475
 io.stargate.it	testing	2.0.3		345cda859b7aff41ed77341decfcc84c6b7eee1d
 io.stargate.it	testing	2.0.30		c328a6ae35ba5d7d9d00a083f9d2d02b762c1458
 io.stargate.it	testing	2.0.31		d4701c3d63cc8c55d98ed2485a85c064bb481e38
+io.stargate.it	testing	2.0.32		611c8a2ab7d90d25388d6e25d15d34511a7a56e7
+io.stargate.it	testing	2.0.33		296cd81f203bd63e4f8c6e43a694cf52f59abb80
 io.stargate.it	testing	2.0.4		904010c749742a1eaa98fdf3dfe92776eeead835
 io.stargate.it	testing	2.0.5		5ce58ae203ea13654b1c675bd5368c74d1a88a5a
 io.stargate.it	testing	2.0.6		a59f85afcce4b2441995e39382767ba036ed3cf4
@@ -1772,6 +1787,7 @@ io.stargate.it	testing	2.1.0-BETA-21		e9c11b241e3387ed04e32a65cfed2cf7baa3ca79
 io.stargate.it	testing	2.1.0-BETA-22		d4389937c60b20e9a882cdc3a3f11ac69efad783
 io.stargate.it	testing	2.1.0-BETA-23		e3d375b1d163ace6186a9f7a3f6038884473b0c3
 io.stargate.it	testing	2.1.0-BETA-24		49685cf480502870f57f447d62ae8882e33feca5
+io.stargate.it	testing	2.1.0-BETA-25		b47535d7a8e6143d33f82f461b6a796ffd27f757
 io.stargate.it	testing	2.1.0-BETA-3		0f086de562ae0490716ca30c63e66d40ee08a483
 io.stargate.it	testing	2.1.0-BETA-4		8a1f6520d1c6e7bdd93d76e696bc7f89600e974e
 io.stargate.it	testing	2.1.0-BETA-5		91adcbc9c1d41ea220d710f089befa842f4d58b0
@@ -1852,6 +1868,7 @@ org.apache.camel.quarkus	camel-quarkus-asterisk	3.2.1		888e95c530f38476d260918fc
 org.apache.camel.quarkus	camel-quarkus-asterisk	3.2.2		ec82eccc8d2be39659ae227ee883f001dc02d2fd
 org.apache.camel.quarkus	camel-quarkus-asterisk	3.2.3		fcfd418ef33e167bba9d2f05d68dd562ed68a5b5
 org.apache.camel.quarkus	camel-quarkus-asterisk	3.20.0		4fc60c42a2704b1206efc660393f247af42619e0
+org.apache.camel.quarkus	camel-quarkus-asterisk	3.20.1		33cdc6e36a1f615c511f180779c9da9e7805207a
 org.apache.camel.quarkus	camel-quarkus-asterisk	3.22.0		b208425fa4de1d09825811ef196b9077ac056ae5
 org.apache.camel.quarkus	camel-quarkus-asterisk	3.4.0		68b8a5764d78233656b487da3f9b3fa01d205cbd
 org.apache.camel.quarkus	camel-quarkus-asterisk	3.5.0		ff82cad48c6381695aea6549506dc5eaa99e1d84

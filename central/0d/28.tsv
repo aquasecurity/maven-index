@@ -95,6 +95,7 @@ com.adobe.aem.commons	assetshare.core	2.6.6		5e8f1af421765c0c59af668a8546a87330e
 com.adobe.aem.commons	assetshare.core	3.0.0		e5cf1c0f110056ce21ed4c7576785a2fe172a646
 com.adobe.aem.commons	assetshare.core	3.1.0.0		d64d9d9c6840aaf8d93599157f1c2a02627ce0ff
 com.adobe.aem.commons	assetshare.core	3.10.0		7809c71692a97d4699a19bbc66c75e6c04eb3da1
+com.adobe.aem.commons	assetshare.core	3.10.10		f3be3fda53b57987c38d0b85ce57c1f3df425e5b
 com.adobe.aem.commons	assetshare.core	3.10.2		e24d443728f28bc9a6632d7cd681be2e9755c38e
 com.adobe.aem.commons	assetshare.core	3.10.4		9779341852ce901dc54a037ee7cc80b39deb5b35
 com.adobe.aem.commons	assetshare.core	3.10.6		7ce6ed202b86acf71a9f319755c4176c95fbbaee
@@ -199,6 +200,7 @@ com.fasterxml.jackson.datatype	jackson-datatype-hibernate5-jakarta	2.18.0-rc1		7
 com.fasterxml.jackson.datatype	jackson-datatype-hibernate5-jakarta	2.18.1		7cb1cc91e8feb6004424f18c922f455385847523
 com.fasterxml.jackson.datatype	jackson-datatype-hibernate5-jakarta	2.18.2		cdd90909784250a3443550661c50077244ee5784
 com.fasterxml.jackson.datatype	jackson-datatype-hibernate5-jakarta	2.18.3		ea96641ec8aa74a3c71e0950a15ddb98cc1d0649
+com.fasterxml.jackson.datatype	jackson-datatype-hibernate5-jakarta	2.18.4		1749d38a50b3364512674223a2dd72f22fc303c1
 com.fasterxml.jackson.datatype	jackson-datatype-hibernate5-jakarta	2.19.0		3619341d16869861d84ab2be3bf84aa8be98f168
 com.fasterxml.jackson.datatype	jackson-datatype-hibernate5-jakarta	2.19.0-rc2		80f81d28271b2892448d4824b27800b9666e21a6
 com.github.chhorz	oas-generator	0.1.0		N/A
@@ -1072,10 +1074,17 @@ org.finos.legend.engine	legend-engine-xt-json-pure	4.8.0		9d0a6432b8711fbffc3a64
 org.finos.legend.engine	legend-engine-xt-json-pure	4.80.0		f69bf66dd8be2885fe0904ac8641e0bb785f82d1
 org.finos.legend.engine	legend-engine-xt-json-pure	4.81.0		3e0cf742686a4024fba877cfb3850d3e18abc329
 org.finos.legend.engine	legend-engine-xt-json-pure	4.82.0		8c0ee3381a368e5d91619b22c3ae3ab18f545ce6
+org.finos.legend.engine	legend-engine-xt-json-pure	4.82.1		00e24ee4e74fecf3b683bb07cf9bf998115b8ad0
 org.finos.legend.engine	legend-engine-xt-json-pure	4.83.0		c4422e4facd0f3999739bf3fb53654659aaf59c7
 org.finos.legend.engine	legend-engine-xt-json-pure	4.83.1		762c17cafa242aec3e3db428392d629cc2cb45d4
 org.finos.legend.engine	legend-engine-xt-json-pure	4.83.2		99f3a312470e31d75af66e43c515bedbee3f8ad3
 org.finos.legend.engine	legend-engine-xt-json-pure	4.83.3		655ec670807cdb8e2e96978f833ff551ebc24d29
+org.finos.legend.engine	legend-engine-xt-json-pure	4.84.0		13848093b7130fcb0fa35e3fdb621afc7d6a4d59
+org.finos.legend.engine	legend-engine-xt-json-pure	4.84.1		22d84ad30b98757acdbf8349294b4eb896f6a1a3
+org.finos.legend.engine	legend-engine-xt-json-pure	4.85.0		2c3ab1a2a5335c1e35d4fd847e926feaeebb824e
+org.finos.legend.engine	legend-engine-xt-json-pure	4.85.1		a6fe5d4a11d3d85d927da4229e7d5e64b0feedf4
+org.finos.legend.engine	legend-engine-xt-json-pure	4.85.2		74794238d9959e99081bf6544b7cb63d5fa46e7d
+org.finos.legend.engine	legend-engine-xt-json-pure	4.85.3		b7b4751206193c01ce6fc9cdf6c7ab9158a10ce2
 org.finos.legend.engine	legend-engine-xt-json-pure	4.9.0		860045b16e9bda75fb47835f3b35079b04830d44
 org.flowable	flowable-spring-boot-starter-actuator	5.22.0		ff35486d08395fffba8b9c86f4c65a300e87ec25
 org.flowable	flowable-spring-boot-starter-actuator	5.23.0		aae99aed766d145851f2bf71e5850aa3eeaa8e96
@@ -1717,7 +1726,9 @@ org.wildfly.core	wildfly-jmx	28.0.0.Beta4		9c22ca9477c842f4bb6c2577af305c06c3115
 org.wildfly.core	wildfly-jmx	28.0.0.Beta5		79776e51a0727ef87090f8972c9c9925bb0d311e
 org.wildfly.core	wildfly-jmx	28.0.0.Beta6		297fc3ad45a4407d5afd00b1f65bf6da98ed526d
 org.wildfly.core	wildfly-jmx	28.0.0.Final		0e0c7355530d13b57cc0f3e0f2ce21f3eff7423b
+org.wildfly.core	wildfly-jmx	28.0.1.Final		941e3418281c25562cdda80031549866612f4242
 org.wildfly.core	wildfly-jmx	29.0.0.Beta1		155d75af4ab41a8cd49631b466e36de32b11afc7
+org.wildfly.core	wildfly-jmx	29.0.0.Beta2		d110dacf0ed279f572ae42046154821e1da0abf0
 org.wildfly.core	wildfly-jmx	3.0.0.Alpha1		f94ff104863e1d3e84645036600cd1c693aafb88
 org.wildfly.core	wildfly-jmx	3.0.0.Alpha10		151b35abcb03a613b42924770b22996b6b1e3538
 org.wildfly.core	wildfly-jmx	3.0.0.Alpha11		f58937036d73d6654f5a2e6d60fa4e3585d1efc3
@@ -2044,6 +2055,10 @@ tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.0.8		N/A
 tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.0.8	metadata	396f071200d6d6195c75ba274204401295a7af7e
 tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.0.9		N/A
 tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.0.9	metadata	6f3918712fced702039d89f5ef8ae88fe395cf82
+tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.1.0	metadata	4660e205ace17cf2f584f4509f75fd85d48e22bf
+tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.1.1	metadata	906f5f1fe1754e731fc73f6c8be4c34d996e6b9a
+tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.1.11	metadata	98856d6b72522ce19bebeea153c153c5f2d40462
+tz.co.asoft	raven-email-markup-watchossimulatorarm64	3.1.12	metadata	ab6d99bc4e70192a15cf18ba9d80eabc16b82636
 ua.brander.core	beacon	1.0.0		N/A
 ua.brander.core	beacon	1.0.1		N/A
 ua.brander.core	beacon	1.0.2		N/A

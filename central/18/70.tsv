@@ -890,6 +890,7 @@ io.fabric8	kubernetes-examples	7.0.0		1ff78d9ca3ad089c1000d1c8a591b43d36754fd9
 io.fabric8	kubernetes-examples	7.0.1		670f0d05754e9efbcba8904eb1b2e619c04cfcd7
 io.fabric8	kubernetes-examples	7.1.0		bb86bbf03328fe5ed6b2fbc8f9d22da4549e9bfe
 io.fabric8	kubernetes-examples	7.2.0		71ebb6be66a2caa0229dbbb3dfb6337aae15c528
+io.fabric8	kubernetes-examples	7.3.0		1064ccad65370847fc0e86cfb6b6071cfee83746
 io.fluidsonic.country	fluid-country-iosx64	0.10.0		N/A
 io.fluidsonic.country	fluid-country-iosx64	0.10.0	metadata	3c706944de5466116acc44640c5c13a5f0420902
 io.fluidsonic.country	fluid-country-iosx64	0.11.0		N/A
@@ -1022,6 +1023,8 @@ io.ktor	ktor-http-cio-iossimulatorarm64	3.1.1		84d939c9c3492e1677c77f9275849bebb
 io.ktor	ktor-http-cio-iossimulatorarm64	3.1.1	metadata	1088f8eeb502584b8027645f641706a86a283ff1
 io.ktor	ktor-http-cio-iossimulatorarm64	3.1.2		01eedc9353d0ea742f05f53a18e5a0b018cf449a
 io.ktor	ktor-http-cio-iossimulatorarm64	3.1.2	metadata	c7f01f6ddf00b65016e4e5dbb02968160b4803bf
+io.ktor	ktor-http-cio-iossimulatorarm64	3.1.3		58eeda8be0c4447e39576c3e89608c90df5788d3
+io.ktor	ktor-http-cio-iossimulatorarm64	3.1.3	metadata	f742c87d6a81a079117a469016e1f509d4f431e2
 io.megl	zio-elasticsearch-enrich_2.12	2.0.0		be26276e784364fd94622012fee6e240b6e9e050
 io.megl	zio-elasticsearch-enrich_2.12	2.0.1		e4fa90550eec999cae480a97075f3b8917b8f2ff
 io.megl	zio-elasticsearch-enrich_2.12	2.0.2		28aeb79d9c0a72ce9acd707c0722decd77ce5a70
@@ -1446,6 +1449,8 @@ org.eclipse.jetty	jetty-jndi	12.0.17		0b6deee3c0322ea185a5cbe096223d22aa776e89
 org.eclipse.jetty	jetty-jndi	12.0.18		f2f52180b80c8f3d58bdab5859d4144ae32cbff2
 org.eclipse.jetty	jetty-jndi	12.0.19		472457d22d72913dfa574ad891bbf0058ade6c30
 org.eclipse.jetty	jetty-jndi	12.0.2		86ae7a54c1fbb55b75d34f28bd0ffd747785fb99
+org.eclipse.jetty	jetty-jndi	12.0.20		b3cbdde7c69d1b7083c6f0eb1fdfccd19420e230
+org.eclipse.jetty	jetty-jndi	12.0.21		aa186dc728ecdf4bbc2cd9993217afc7786953fe
 org.eclipse.jetty	jetty-jndi	12.0.3		23ca28d7e0336956ea680a682a8b3931358a2226
 org.eclipse.jetty	jetty-jndi	12.0.4		fecd6c63c302b28cb1cb83fb75f5fdb92e24cf4a
 org.eclipse.jetty	jetty-jndi	12.0.5		bc33964e756fc592978233a464606a9bcad8ec45
@@ -1869,10 +1874,17 @@ org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.79.0		22421dc65fd83
 org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.80.0		ef2debad5478780f7e20ee04cc805ab3076ae342
 org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.81.0		5afda4ae69f500746830d7cc36f0fc1508f298c0
 org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.82.0		55da1e2ee936d3d6678db5dc99b8c8efdbc50203
+org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.82.1		7d3d2153891ae3d2422ffd9849e0b619241b2a64
 org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.83.0		ad66ec43c66420662f11d8bff8668f9cc2e2c97e
 org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.83.1		bd6bd1d86cf55d3073adf6679e62a3a45611eecb
 org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.83.2		b9bec644777d8364a561e64179c9bb9932a1a4e5
 org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.83.3		8a12b4ef39a3aeec90a51d86e0455a321b21e49f
+org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.84.0		79597186c45ff2a7c0d9cc3fc70fdd3234274016
+org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.84.1		e176bc168fd23d80bfa8ff60a648e6b31da49a47
+org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.85.0		3fac918728a42e56a1f54c53d2e1ef065bd05f08
+org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.85.1		abe43e4c716f64f6ec2cf13dd1deaa8698d41665
+org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.85.2		0fe20025efb1ce29fc43da3e42816c4c4ec4a613
+org.finos.legend.engine	legend-engine-xt-protobuf-http-api	4.85.3		0f6cd1e8975fc407d1f02ae9bd75f58e9cc4e49e
 org.glassfish.metro	wsrm-api	2.1		b38a5805c6ac6a3a814827a1c13fe8dd185f7637
 org.glassfish.metro	wsrm-api	2.1-20		f4a46eaf6200efbfb89194acb806c613b3e20b6b
 org.glassfish.metro	wsrm-api	2.1-b16		96bdcda7dfcdd5dae753bbe22badcb6291e5d6ba
@@ -2129,6 +2141,8 @@ org.openidentityplatform.openidm	openidm-enhanced-config	6.2.5		1be19d783422bff4
 org.opensingular	p-server-core	1.5.4		9d66bd2f5ef3d6c52e0904a347e203bfcee7dbf9
 org.opensingular	p-server-core	1.5.5		6ef451e83a6dd58f7cbbf249330d56e67d3234e2
 org.opensingular	p-server-core	1.5.6		486d87621dd0554d1093480cf8f4f6b207b513f2
+org.scala-native	nscplugin_3.3.6-RC3	0.4.17		fb491c0eb269f88f4b87c4efc336ecbf55e21079
+org.scala-native	nscplugin_3.3.6-RC3	0.5.7		68b2537805ae08124785ec38f0941c7bb6b26dbc
 org.scoverage	scalac-scoverage-runtime_2.13.1	1.4.2		c6da7af8b7ac436b48f96a402f9830eb4dbc81c5
 org.scoverage	scalac-scoverage-runtime_2.13.1	1.4.3		bb69450fa0488aed079aea7e3a0fe1fcc5a3fb63
 org.scoverage	scalac-scoverage-runtime_2.13.1	1.4.4		df4cbcb51db5d9010b807100d76eb04e7de3a5ac

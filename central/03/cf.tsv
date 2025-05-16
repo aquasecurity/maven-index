@@ -79,6 +79,7 @@ com.jakewharton.rxbinding	rxbinding-leanback-v17	0.3.0		N/A
 com.jakewharton.rxbinding	rxbinding-leanback-v17	0.4.0		N/A
 com.jakewharton.rxbinding	rxbinding-leanback-v17	1.0.0		N/A
 com.jakewharton.rxbinding	rxbinding-leanback-v17	1.0.1		N/A
+com.jd.live	joylive-router-zuul	1.7.0		df4f3256139553c9178ec17f430f606042f96f22
 com.nhncorp.ntaf	ntaf-example	20090817		a301bbf9f3b1c6ae3a52ae1e0546d99985f4a211
 com.nixend	manny-springboot-starter	1.2.6		N/A
 com.sellware.quarkus-temporal	temporal-client-integration-tests	1.11.0.7		a317dd3bc0d7aa433b15873dfde158294055ba88
@@ -425,6 +426,7 @@ net.manub	scalatest-embedded-schema-registry_2.11	2.0.0		d07bf0b60b750bf1df64ea8
 org.apache.aries.typedevent	org.apache.aries.typedevent.bus	0.0.1-RC1		a6584039cbc39ce3c6db0162dcec5be7cdc74622
 org.apache.aries.typedevent	org.apache.aries.typedevent.bus	0.0.2		5bd000ad3939bc90f54122702c369d5c4d4c425e
 org.apache.aries.typedevent	org.apache.aries.typedevent.bus	1.0.0		b10a0f6ef0913bc13485c872ecc9629d9c1e3d26
+org.apache.aries.typedevent	org.apache.aries.typedevent.bus	1.0.1		010a81e7ffaa485a4d5dc227e866e5a29c06fa8e
 org.apache.camel.quarkus	camel-quarkus-platform-http-component	0.3.0		c8fb8af25054228f1996dcd62c51a0f850dfaa8c
 org.apache.camel.quarkus	camel-quarkus-platform-http-component	0.3.1		d7926c8bf653a42100d73b098f6e3599828dac51
 org.apache.camel.quarkus	camel-quarkus-platform-http-component	0.4.0		f99cd037357da8fa12a573547474cb1ffd429a02
@@ -1220,6 +1222,7 @@ org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.13		7d7c34b6c5c47e7e97
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.14		55b33d9c1f6f8f97af375adff3b12bc7b9d2ec4d
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.15		15f0855724b0b92e8ea18a0da5a0e4734f9356f7
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.16		aef125ca3b2f9ef635c08692095cd231ee268387
+org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.17		d57995816fe4ffae1633ee0081a312e9843e260e
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.2		09b1e47594ac8061ee7bec3e0797be8b0a7316b4
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.3		815f25e8960f7b2bee5057090d0d7a5f5f221a2d
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.4		b2aafb17a1aa27fade72b193db553fbd682b0b74
@@ -1228,6 +1231,10 @@ org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.6		4a5e4d0940ea9f43a16
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.7		93b3af0cf5db6117dcb5e685c7d28c67536af27d
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.8		29c0f140214b2e032d7801ae8d5d50a85d32e108
 org.sdase.commons	sda-commons-shared-wiremock-testing	7.3.9		114a02289dd636105ae9f50b6af4c276de6641cd
+org.sdase.commons	sda-commons-shared-wiremock-testing	7.4.0		ebe6f207bc374e97be900249d0a75cccdb83beec
+org.sdase.commons	sda-commons-shared-wiremock-testing	7.5.0		b4a8ac706ead4677030fbf06f17d7a6917139bc0
+org.sdase.commons	sda-commons-shared-wiremock-testing	7.5.1		22e4eb75f19ddca5788944bee86f6661fc277d7e
+org.sdase.commons	sda-commons-shared-wiremock-testing	7.5.2		8617df898834e125175584ada6351262860b092f
 org.teiid	spring-data-cassandra	1.5.0		bf86d734e3f540410c9d8e09460fb08522b98c98
 org.teiid	spring-data-cassandra	1.5.1		c1c8f609110e5158e46cb2f7f5fce96a63cdbe30
 org.teiid	spring-data-cassandra	1.6.0		28bb1e487a584f0b080c44e1c916c663ce4a9b3d
@@ -1374,6 +1381,7 @@ org.wildfly.security	wildfly-elytron-http-digest	2.1.0.Final		4c0c0d1236f564a959
 org.wildfly.security	wildfly-elytron-http-digest	2.2.0.Final		c6a130eab9dba2df64282c4f0495095726b57c26
 org.wildfly.security	wildfly-elytron-http-digest	2.2.1.Final		1e4b4c618930c55eabb24d998d7247f147c6e5ac
 org.wildfly.security	wildfly-elytron-http-digest	2.2.10.Final		4c2a89df962e1ec0e5444bf46b7baf3678b7d7da
+org.wildfly.security	wildfly-elytron-http-digest	2.2.11.Final		8a61e1b6d4d3fd80af9cac65d1d875838ea1022d
 org.wildfly.security	wildfly-elytron-http-digest	2.2.2.Final		93ae7a379e2bdd1f813a7261c620c6c4b84b246f
 org.wildfly.security	wildfly-elytron-http-digest	2.2.3.Final		c7c7cf198217b2a1d1c6f5627b14bdcc71e6136c
 org.wildfly.security	wildfly-elytron-http-digest	2.2.4.Final		e9518445f278be1305e86b04dd2449aea5d6c99e
@@ -1396,6 +1404,7 @@ org.wildfly.security	wildfly-elytron-http-digest	2.6.0.Final		2b2d7bbce0a077c2a7
 org.wildfly.security	wildfly-elytron-http-digest	2.6.1.Final		5d4bb7b715333c3e4da08698ad333c2798f31cf2
 org.wildfly.security	wildfly-elytron-http-digest	2.6.2.Final		8d08670d0bde0f89489fa538fcf9243258d5202f
 org.wildfly.security	wildfly-elytron-http-digest	2.6.3.Final		f247a947f2420c5652d64d21309e0cdd04731aed
+org.wildfly.security	wildfly-elytron-http-digest	2.6.4.Final		f4aa3bb0163fb07bdbf831beaaad5155bbab6aba
 org.wso2.bpel	ode-tools	1.3.5-wso2v12		5be75c62cf56f2075dc9adc8e478f21708e533f6
 org.wso2.bpel	ode-tools	1.3.5-wso2v13		5494373025b307f4777291acc6ecec49de33392e
 org.wso2.bpel	ode-tools	1.3.5-wso2v14		476f8bb8d7463e6f98311c265342e1ea6ca2a89e

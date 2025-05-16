@@ -315,6 +315,7 @@ dev.langchain4j	langchain4j-oracle	1.0.0-beta1		0a6eb27117b16205f1b521a1c4a9a6b0
 dev.langchain4j	langchain4j-oracle	1.0.0-beta2		ecd3c3e85454a1957734bc23c94b3e0828a91ffb
 dev.langchain4j	langchain4j-oracle	1.0.0-beta3		2e3a1016bfb8d15531e4d4f8a01e4da41c0d6a78
 dev.langchain4j	langchain4j-oracle	1.0.0-beta4		85c8e24e98cfa5dae899fb723fdcc965ba73c332
+dev.langchain4j	langchain4j-oracle	1.0.0-beta5		d91504fdc2e380dabbc7d703d6951bd5ff1e4b0f
 dev.nokee.c-language	dev.nokee.c-language.gradle.plugin	0.1.0		N/A
 dev.nokee.c-language	dev.nokee.c-language.gradle.plugin	0.2.0		N/A
 dev.nokee.c-language	dev.nokee.c-language.gradle.plugin	0.3.0		N/A
@@ -1038,6 +1039,7 @@ org.apache.camel.springboot	camel-leveldb-starter	4.8.3		228d036a3d4c995d8bacc74
 org.apache.camel.springboot	camel-leveldb-starter	4.8.4		de53bbb374fded4ba11ee6ac9a8ee76f73fa1900
 org.apache.camel.springboot	camel-leveldb-starter	4.8.5		5f80e079d8873c54e9f74e1dafb1a64b51a5ef41
 org.apache.camel.springboot	camel-leveldb-starter	4.8.6		46a000ec9083509af5be2a86d150d59525955086
+org.apache.camel.springboot	camel-leveldb-starter	4.8.7		0e2b5900db13fcee44e94a6d864a49fa69caaedf
 org.apache.camel.springboot	camel-leveldb-starter	4.9.0		a1226f043b0b70e14f10c0c21379d07aef2b21ae
 org.apache.commons	commons-weaver-privilizer	1.0		3f1fb70f0bcb29ba0a0c6ddeac936b3ad9842f0d
 org.apache.commons	commons-weaver-privilizer	1.1		e849467270971c12b8c82127d79833e13fac40a1
@@ -1261,6 +1263,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.41.1		efc1b
 org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.42.0		5db6431c98329d25a41d12f0cd14111ddbe9367d
 org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.43.0		1345dafccecbadaf6b3f8d6978a7c966703e0105
 org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.44.0		050541174560cf46e609f9cb39941d70d612a95a
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.0		e53fb49e52470bd0b1f2cac777f1f3c8c81310e4
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.1		c41d67c6b5b8ed87784169b2f4e49dc96666b5f6
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.10		6295851efbd796d38f820742a8839f3ad9785122
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.11		f7f47e27f59f1b6afaf2331d22ad16a2efe8e37b
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.12		4b8a1585dbcf5f32bd6db505fd3f5b7a5c2da700
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.13		0d33ed19592b68d77d2fee34e0b11ded3282a0bf
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.3		30a28d2609877ae8d019988d3bb4cde39ae760fb
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.4		74a2d3f01c79c458719a27b21a8fc30aafcc0fc1
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.5		4302c583fc3940cc4b8680d5917d11b12237dd7b
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.6		1e8e12308c324810202a0a7b38ea32822f5d51a8
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.7		b5a1fa145ab92cf7912e7180ff822bf65c272b38
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.8		02dfac7e10681e88a74d7b9786b48fe978aa6720
+org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.45.9		db442e1972ee2772b1a8b598bedc750cd97bbf94
 org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.5.0		8487892fabdb8ae586b8c6c53c708e5d591b206b
 org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.6.0		68f823fd07357629627900d52740f783f3cf6e50
 org.eclipse.dirigible	dirigible-components-ide-ui-data-structures	11.6.1		0837a8053d0521813942ace99af8cdda1275be09
@@ -1444,6 +1459,8 @@ org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.44.0		708c3bfe606ab81
 org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.45.0		584ae687c1adfe9f26d33fdcf108c6baf9ef3070
 org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.46.0		37b2304dc15482f372e0a0f3957f2ef021945052
 org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.46.1		545a3be55274b513d207802ef8c44a2de298dc8e
+org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.46.2		914b29a831c8770a933be1b70bffbc7cae8419fb
+org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.47.0		991c17b76b2783d5960f28b7bdb275512188c13e
 org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.5.0		9b451ea530c8741230ace92e0dc926e2a8906e70
 org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.6.0		d3edfe5893f0df8837ccbeef7265e722c7dbf65e
 org.finos.legend.pure	legend-pure-m2-dsl-diagram-grammar	5.6.1		55e943bfe852aedb6018efc6fa085d86c8791353
@@ -1648,4 +1665,8 @@ tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.0.8	metadata	82ef38a4fdf4d801f6f8dbda176462f1a5753f42
 tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.0.9	metadata	505333566beff8c071a1446a19a42c61ff279628
+tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.1.0	metadata	bcc5054f4b117b3c0d469965843e2b03d48c0630
+tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.1.1	metadata	30abd3ef296b0d149bbfebabaab6c07ab0cc3d29
+tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.1.11	metadata	e4d6e15ec4fcb4f2f2e32b4eefd16d1f473915c4
+tz.co.asoft	koncurrent-awaited-coroutines-watchosarm64	3.1.12	metadata	342999d859007ce95f715dea4c8a3885fe87b584
 us.oyanglul	http4s-finagle_0.24	0.21.3-20.4.1-0		919a8160408b172834fc546ccb50bd4336ac9bc4

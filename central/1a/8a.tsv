@@ -118,6 +118,7 @@ com.dropbox.mobile.store	store-rx3	4.0.3-KT15		7ffbcdb7767a4ef55cfd812d35c844f2c
 com.dropbox.mobile.store	store-rx3	4.0.4-KT15		79c5fa6ee80f401c7fdd276f77c7ee29b7399b8a
 com.dropbox.mobile.store	store-rx3	4.0.5		99535253cbff5f2935223d7318b02c6cbb638eb5
 com.dwolla	pgp-testkit-bcpg1.77_2.13	0.4.6		faa450d68a43b62ea5ae7c4377533ee3422fbbd0
+com.github.aloiscochard	xsbt-fmpp-plugin_2.9.0-1_0.11.3	0.2		304a1f7567339fdca1ef22dec0f5f23ac3bca420
 com.github.dynckathline	dialoglib	1.0		N/A
 com.github.dynckathline	dialoglib	1.0.4		N/A
 com.github.dynckathline	dialoglib	1.0.5		N/A
@@ -241,6 +242,7 @@ com.slack.circuit	circuit-runtime-tvosarm64	0.27.0		N/A
 com.slack.circuit	circuit-runtime-tvosarm64	0.27.0	metadata	bd95ecf648e7ed169206e642551ce2de8632f37f
 com.slack.circuit	circuit-runtime-tvosarm64	0.27.1		N/A
 com.slack.circuit	circuit-runtime-tvosarm64	0.27.1	metadata	bd95ecf648e7ed169206e642551ce2de8632f37f
+com.slack.circuit	circuit-runtime-tvosarm64	0.28.0	metadata	5a50f2fc8fd396e2887fefb85166c2b983fa0d14
 com.soterianetworks	spase-core	0.9.0		d0d134ceeb7399dbb622357f31f2a57aa49e5b1e
 com.soterianetworks	spase-core	0.9.1		7c8a9a3fd9ee9c714615c87cf3bca66d85bb30d6
 com.soterianetworks	spase-core	0.9.10		815691488f162ef5fe929210710111c0dab0f10d
@@ -314,6 +316,7 @@ dev.kastle.netty	netty-transport-raknet	1.2.0		d3b6492c3a110cd6e3739f9572fa809f8
 dev.opensavvy.ktmongo	driver-shared-official-jvm	0.13.0		305a3436465057b048f954f695e1b01b28a0572b
 dev.opensavvy.ktmongo	driver-shared-official-jvm	0.14.0		699a480ec42535ac046a9543be82567cb6d4329d
 dev.opensavvy.ktmongo	driver-shared-official-jvm	0.15.0		b50cdd4a9202e277457cf0908e838d1718de60b4
+dev.opensavvy.ktmongo	driver-shared-official-jvm	0.16.0		41aa5bfa949e25a0700dba0fcf0acdcb2ef46506
 fr.opensagres.xdocreport	fr.opensagres.xdocreport.remoting.api	0.9.6		e72dddf31e08bc5d8aae0f2534e8b356daa96a83
 fr.opensagres.xdocreport	fr.opensagres.xdocreport.remoting.api	0.9.7		e68f3ab6e46633504e26f8e4ddb8e3f27e8d9fba
 fr.skytasul	reflection-mappings-shrieker	1.0.0		4d8373b9a29236b25b1433a4b263365d17a88222
@@ -402,6 +405,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-20.0	2.13.3-alpha		9ce3e2deb28672d0eb52295ec337194dd48f582e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-20.0	2.14.0-alpha		4101e186428ac1c14f18eea1d68210a2e2586e67
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-20.0	2.15.0-alpha		a13e0e83534bd95aecee1cb05947e45cfb0562a7
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-20.0	2.16.0-alpha		d73e030a95a09d8ffc55d4387b44638590ebc43b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-20.0	2.2.0-alpha		c17f6a0ab3a9e9dc86dc7a16cbe3159f13ad6022
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-20.0	2.3.0-alpha		2f09ffe8942418b22f2b84b2a656646059a97606
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-graphql-java-20.0	2.4.0-alpha		29b176931d7c242999d9aef261de8a1969c5c145
@@ -575,6 +579,7 @@ org.apereo.cas	cas-server-support-tracing-zipkin	7.2.0-RC6		25ca9389b11ae515f602
 org.apereo.cas	cas-server-support-tracing-zipkin	7.2.0-RC6	resources	e02d6c4bdfd2c612951a73e2b67b4b1904731ab1
 org.apereo.cas	cas-server-support-tracing-zipkin	7.2.1		9b149285cc07b7bbfbd1a1d20c3198699e808fef
 org.apereo.cas	cas-server-support-tracing-zipkin	7.2.1	resources	a80f82aa068b26d5cffa624d3499ea3c632782f5
+org.apereo.cas	cas-server-support-tracing-zipkin	7.2.2		e6b4df6eb8f249e70d6738403cbc09bd6f7b8690
 org.apereo.cas	cas-server-support-tracing-zipkin	7.3.0-RC1		278a9c033e2c5b2412d82a74977878f0a7ef0dbf
 org.apereo.cas	cas-server-support-tracing-zipkin	7.3.0-RC1	resources	56da871ce82fb682032fd35d702c4a0bd069fa84
 org.atlanmod.neoemf	neoemf-data-hbase	1.0.3		069088b6f3fda56df338def07ebf40adc59e04a3

@@ -93,6 +93,7 @@ com.slack.circuit	circuit-runtime-screen-macosarm64	0.27.0		N/A
 com.slack.circuit	circuit-runtime-screen-macosarm64	0.27.0	metadata	76957ebbf855fe685fd3e59797130f5081c607a2
 com.slack.circuit	circuit-runtime-screen-macosarm64	0.27.1		N/A
 com.slack.circuit	circuit-runtime-screen-macosarm64	0.27.1	metadata	76957ebbf855fe685fd3e59797130f5081c607a2
+com.slack.circuit	circuit-runtime-screen-macosarm64	0.28.0	metadata	dfc3a1b8deb7f14248f92a2fc201782bef726b3e
 com.softwaremill.sttp.shared	fs2_native0.4_3	1.3.10		dc52822b4644d50a56523a7669e23f16a953655c
 com.softwaremill.sttp.shared	fs2_native0.4_3	1.3.11		079da1d5bff999cbdc9f8658db88d30d3d1ceab4
 com.softwaremill.sttp.shared	fs2_native0.4_3	1.3.12		471bd878d21535aa0cfff22ee1bfe3598b5c6823
@@ -291,6 +292,8 @@ io.ktor	ktor-client-json-macosarm64	3.1.1		8d6478240c8112872ce9cc8fa9d1f5139872c
 io.ktor	ktor-client-json-macosarm64	3.1.1	metadata	b0efd7a177a718a5b8decd5cb5b481d1accaef7a
 io.ktor	ktor-client-json-macosarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-json-macosarm64	3.1.2	metadata	e2b8bb2bee2cc18c1caef5aa99b8e8dcd67603d1
+io.ktor	ktor-client-json-macosarm64	3.1.3		42c1d46b57f6af51154300634c3d44166f9e96cf
+io.ktor	ktor-client-json-macosarm64	3.1.3	metadata	dad09fdf17ba096adcf77c7dcec8637c89ffdb6a
 io.mraa.upm	upm_hx711	0.8.0		8aafc78c716382557eeaca4a4f1ccef1b3775297
 io.mraa.upm	upm_hx711	1.0.0		5d064f3388797eb01cab79686cbadd061fc7d4c5
 io.mraa.upm	upm_hx711	1.0.1		be975678114045db65a721ba363f05592e64d913
@@ -303,7 +306,11 @@ io.mraa.upm	upm_hx711	1.6.0		1c5a723ee661b2eaa890c08007e344fd824c83d8
 io.mraa.upm	upm_hx711	1.7.1		c81161c9120c8f6eb9a479dc35c8fecc1d9760b9
 io.spinnaker.kork	kork-secrets	2025.0-0		d271594525e6bf488386d92320391d834fc8755f
 io.spinnaker.kork	kork-secrets	2025.0-1		c9a90d7864e05d8f472b6620d4fccfecd3fc0007
+io.spinnaker.kork	kork-secrets	2025.0-2		534a8f041b8f6d5d493714605c6cc142ca93166f
+io.spinnaker.kork	kork-secrets	2025.0-3		35e389558f142c69a1e9521746d5c90dcc769b9c
+io.spinnaker.kork	kork-secrets	2025.0-4		6c70c9d8c8a1ad38e9a7cbe06298ed138506be6a
 io.spinnaker.kork	kork-secrets	2025.0.0		66bf1a769158781601b09631eb9dad572a220fd0
+io.spinnaker.kork	kork-secrets	2025.0.1		e27f2d3020377287261e3ecfa3cf47a8b1066570
 io.spinnaker.kork	kork-secrets	7.105.0		4460d08205aef09d8d3187a09d8904dad4d89c80
 io.spinnaker.kork	kork-secrets	7.107.0		56437610389d3f60c6fe63f6c123771136186a31
 io.spinnaker.kork	kork-secrets	7.108.0		91878a0f4cf0c8fd7b5b68c48502c904416818d0
@@ -483,10 +490,14 @@ io.spinnaker.kork	kork-secrets	7.92.4		0693ade451fd60567c9df7d43b567ac5a5ed70e4
 io.spinnaker.kork	kork-secrets	7.92.5		f463835ad17648f45e4dfb86afd339dc99a3ace7
 io.spinnaker.kork	kork-secrets	7.92.6		7bc4113bdb7b2a2edeee289b9bdc68d883ace6cd
 io.spinnaker.kork	kork-secrets	7.92.7		b55aae54f0dcf45590bfebce46b9b746f62fa9d4
+io.spinnaker.kork	kork-secrets	main-10		f5e2197cd1960a0612e109c78fcfe578f909faef
+io.spinnaker.kork	kork-secrets	main-11		6da92232d46c06cc07de07f9c762312a0e024328
+io.spinnaker.kork	kork-secrets	main-12		b09c14b743eb4589ad348bb132bcbc915a1ee0d1
 io.spinnaker.kork	kork-secrets	main-5		a7444bdd561e60e5c9a95180af4e4fd898841465
 io.spinnaker.kork	kork-secrets	main-6		27d657d85c42b2f4549254386d9638757c34978a
 io.spinnaker.kork	kork-secrets	main-7		bb8513f8bf1c412374f187c3a2b33c8b6245cfcc
 io.spinnaker.kork	kork-secrets	main-8		0fb18902c766e2b5ce4558c3c286f5377ed6dcab
+io.spinnaker.kork	kork-secrets	main-9		48eb83ae28c6fc5611b0eef77508b21208386049
 io.syndesis	syndesis-documentation-maven-plugin	1.4.0-20180720		e20969010b0e6396c2e7bdce381a3c8a33ca0f0f
 io.syndesis	syndesis-documentation-maven-plugin	1.4.10		15704a97a9c7fc9d061255f6868a9b5cabd2e739
 io.syndesis	syndesis-documentation-maven-plugin	1.4.2		340842202f3f413cfa5fa19b3b068043e3b6dc2c
@@ -1042,6 +1053,7 @@ org.wildfly	wildfly-clustering-ejb-client	35.0.0.Final		653a1fec2257ba7ff4c6af94
 org.wildfly	wildfly-clustering-ejb-client	35.0.1.Final		866b27507e1d73d554d6803dcb7299f28c831992
 org.wildfly	wildfly-clustering-ejb-client	36.0.0.Beta1		71c0c033c6a76c86dd793c508c2d469bdbe9c643
 org.wildfly	wildfly-clustering-ejb-client	36.0.0.Final		1daef54add122a0f85c2c1f66d4ffc7854efea11
+org.wildfly	wildfly-clustering-ejb-client	36.0.1.Final		7e258529d0b7b2f4db840549c892d0d34cca02b0
 org.wso2.carbon.analytics	wso2sp-solutions.twitter-analytics.livetweets	2.0.395		N/A
 org.wso2.carbon.analytics	wso2sp-solutions.twitter-analytics.livetweets	2.0.396		N/A
 org.wso2.carbon.analytics	wso2sp-solutions.twitter-analytics.livetweets	2.0.397		N/A

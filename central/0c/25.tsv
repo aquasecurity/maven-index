@@ -549,6 +549,9 @@ io.insert-koin	koin-core-iosx64	4.0.4		N/A
 io.insert-koin	koin-core-iosx64	4.0.4	metadata	735696022b91c981bbaf33c85f88c7202477912b
 io.insert-koin	koin-core-iosx64	4.1.0-Beta1		N/A
 io.insert-koin	koin-core-iosx64	4.1.0-Beta1	metadata	124f277b4fc0f00666c5c746b08a109bb8c8a895
+io.insert-koin	koin-core-iosx64	4.1.0-Beta10	metadata	83c836498baf89d55f2b601281386138c4f7e2a4
+io.insert-koin	koin-core-iosx64	4.1.0-Beta11	metadata	6580ee4d887a7494db6d1ec796e516b3d9164051
+io.insert-koin	koin-core-iosx64	4.1.0-Beta13-KTOR-EAP	metadata	19830515467e418eee05db8cd75be558f6e5e358
 io.insert-koin	koin-core-iosx64	4.1.0-Beta3		N/A
 io.insert-koin	koin-core-iosx64	4.1.0-Beta3	metadata	c616a9f9b38982b14c7bbd5748d27cf30b3bd7f3
 io.insert-koin	koin-core-iosx64	4.1.0-Beta4		N/A
@@ -600,6 +603,7 @@ io.kotest	kotest-property-arrow-jvm	4.4.2		57491357aad039871d422a5af8e85e3a9206e
 io.kotest	kotest-property-arrow-jvm	4.4.3		84398c97ccc5ac0f15de1a7673418ad5cc57dc35
 io.kotest	kotest-property-arrow-jvm	6.0.0.M2		56509739d7662c9f7512e1d660ff1b78bbf19590
 io.kotest	kotest-property-arrow-jvm	6.0.0.M3		fdcebd2699fb3c8c0216648edc3e846979553fd5
+io.kotest	kotest-property-arrow-jvm	6.0.0.M4		fdcebd2699fb3c8c0216648edc3e846979553fd5
 io.ktor	ktor-server-test-host-metadata	1.1.1		5c81a41f92f319e3ab68815a62868bc48ae12bcb
 io.ktor	ktor-server-test-host-metadata	1.1.2		54546025333ad479f6be932aad6df3655327f9c5
 io.ktor	ktor-server-test-host-metadata	1.1.3		f75796f172b5f4a9d6f511288872082c9253695c
@@ -776,6 +780,7 @@ no.priv.bang.authservice	authservice.definitions	2.1.1		854f9a9fadcdfc1fec30919b
 no.priv.bang.authservice	authservice.definitions	2.2.0		69618d5d8e15ca8912b099f95cdff7ad1aa61730
 no.priv.bang.authservice	authservice.definitions	2.3.0		ab1e1bf736c536b7056c85eca2497c4d04d71c4c
 no.priv.bang.authservice	authservice.definitions	2.3.1		f74890513f0e864df9479039bfa419e3e119e590
+no.priv.bang.authservice	authservice.definitions	2.3.2		c76a2cc97d4f84722d76d63e8806b3a378976611
 nz.co.trademe.covert	Covert	2.0.0		N/A
 org.apache.camel.kafkaconnector	camel-redis-source-kafka-connector	1.0.0		b7828f724305c322756dc6fc8169e228d2cab681
 org.apache.camel.kafkaconnector	camel-redis-source-kafka-connector	3.18.1		0cf246056ae4f6a137666bce8c20021fd49eedcf
@@ -814,6 +819,7 @@ org.danilopianini	template-for-kotlin-multiplatform-applications-macosarm64	1.0.
 org.danilopianini	template-for-kotlin-multiplatform-applications-macosarm64	1.0.4	metadata	3164f5ea9af6d30c420aa80d401e1c021e04b14b
 org.danilopianini	template-for-kotlin-multiplatform-applications-macosarm64	1.0.5		N/A
 org.danilopianini	template-for-kotlin-multiplatform-applications-macosarm64	1.0.5	metadata	c6398cb2a3427fe1985c1cb11719a3ee5636768d
+org.danilopianini	template-for-kotlin-multiplatform-applications-macosarm64	1.0.6	metadata	ce807b74143b36fc785f8d1b03f23fdbfb8fcabb
 org.dromara.mybatis-jpa-extra	mybatis-jpa-extra-spring-boot-starter-test	3.0.1		98b46cbd66e94399e1a3fe644d97eff4a009d4b1
 org.dromara.mybatis-jpa-extra	mybatis-jpa-extra-spring-boot-starter-test	3.2		86b946ab0cdc9fda4ab199f67f56cce20c6552eb
 org.dromara.mybatis-jpa-extra	mybatis-jpa-extra-spring-boot-starter-test	3.2.1		b3930447cc3ba620e188a7ffc171672b7d7a466c
@@ -874,6 +880,7 @@ org.elasticsearch	elasticsearch-river-couchdb	2.6.0		16d5e8a73c7f11c67f1765e29f3
 org.hisrc.inspire	inspire-tn-ra-v_3_0	1.0.0		a056806a95b5622166376bab5dd37ec33f5bf774
 org.jitsi	jitsi-stats	1.0-15-ga3c317f		cd69b25f22532577835bc6d484008bd359410b88
 org.mockwire	mockwire-guice3-ws	1.1		fab1cf15fd619779d90d5a49149cd2f802fcf199
+org.neodatis	odb	1.9.21.672		bbd97f3037419882361e345c6b67412ababc9c2a
 org.ogc-schemas	wcs-crs-v_1_0	3.0.0		4e52195c33e85e554c2a891dfd763491e99df97b
 org.ogc-schemas	wcs-crs-v_1_0	4.0.0		4bcd27b8800225331316c8f4e360899ddd536d71
 org.ogc-schemas	wcs-crs-v_1_0	5.0.0		0b6753a8736ad97c86a1823db07198e347a7bad2
@@ -1680,6 +1687,7 @@ systems.manifold	manifold-csv-test	2025.1.10		302e1cd46456c4392d40cc598547db6339
 systems.manifold	manifold-csv-test	2025.1.11		9b91f0bdaeb1f4a5b9ab1997b1b744967b5da922
 systems.manifold	manifold-csv-test	2025.1.12		8b9322c70ffe0e87d6355f411cac3c0101bd25df
 systems.manifold	manifold-csv-test	2025.1.13		51961edcc84c2a57110ec9b6efe46dbae7d6e685
+systems.manifold	manifold-csv-test	2025.1.14		9dcc4c1d49c768cb7f9627c5574cc595ec0ffec8
 systems.manifold	manifold-csv-test	2025.1.2		9c85bad0e0fce8c57776a4fe9b0fddb9a3bac621
 systems.manifold	manifold-csv-test	2025.1.3		c6019f39e5032182e706de9045b6178b86686a31
 systems.manifold	manifold-csv-test	2025.1.4		7f6758fa989e381cf2193d3fd5cca9430807910e
@@ -1699,3 +1707,5 @@ uk.gov.nationalarchives	da-ssm-client_3	0.1.111		1c674c3616aeceff0928b23fa8a3a2c
 uk.gov.nationalarchives	da-ssm-client_3	0.1.112		2a6c9d18d7c930da9e5c2fddae9bde98e1fdb553
 uk.gov.nationalarchives	da-ssm-client_3	0.1.113		68126a92d5177780c0e9506b84e5ac2dba49ec97
 uk.gov.nationalarchives	da-ssm-client_3	0.1.114		2de69330d342c766e33a2a40ce2651bdf879ed14
+uk.gov.nationalarchives	da-ssm-client_3	0.1.115		f06eddba1786695d9a0c8f99a9cc8fb1e04a004f
+uk.gov.nationalarchives	da-ssm-client_3	0.1.116		c37ddec72686854ff36936fb11dd7f094e9c48fe

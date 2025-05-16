@@ -37,6 +37,7 @@ ch.exense.step	step-controller-plugins-raw-measurement	3.26.5-customized-j		f2f3
 ch.exense.step	step-controller-plugins-raw-measurement	3.27.0		0fbcbb126abe5f6a0ebc4e5c6ec8389b63d9f55e
 ch.exense.step	step-controller-plugins-raw-measurement	3.27.1		cf2a0b412520071af0f2b918b92678eeaec3cb7e
 ch.exense.step	step-controller-plugins-raw-measurement	3.27.2		4547f4728d94ab5b554f223eed5dc7951d8f5bac
+ch.exense.step	step-controller-plugins-raw-measurement	3.27.3		7001889151b80ec33149f21649c5a2820816a6f4
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.0.0		N/A
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.0.0	metadata	545dcd8ca4565370d867d9c3972e8d2c73b78091
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.0.0-beta.1		N/A
@@ -111,6 +112,7 @@ com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.18.4		N/A
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.18.4	metadata	c164d71e8556b7e8e96b98e7744929d647ec374d
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.18.5		N/A
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.18.5	metadata	95e18ce2e3292e64f85dddc2ef438d43e2406e1f
+com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.19.0	metadata	018bddfb8d3b92009e91b44c86834a4e8a276cb5
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.2.0		N/A
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.2.0	metadata	8a4e34f881b9eda28dfd0f26daf050e8c0deb383
 com.algolia	algoliasearch-client-kotlin-iossimulatorarm64	3.2.1		N/A
@@ -315,6 +317,8 @@ com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.101.0		a5f337a5cba4
 com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.102.0		fe7a2bbfaaa09922f13bc4d6220bb29c4b30dbe8
 com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.103.0		02c61007e460cf0f84e47862da1a2aa26f56265f
 com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.104.0		d73001ad06c46ab3a7b9d3cf35a6b79e371a7ec7
+com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.105.0		00bb02ae12d845a855197899f7bd6807ef9c2ce7
+com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.106.0		fec323964b6eac8a140f70b7b8a97c2d1598efe8
 com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.11.0-alpha		f42d582431ecd9457292a1fdc8387d5e89abbaa7
 com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.12.0-alpha		ff446baa7fb155953a7cdecb3b3fd6015148ad32
 com.google.api.grpc	proto-google-cloud-datacatalog-v1beta1	0.13.0-alpha		e3fe26fdd01852c63c380cd6fdafd82ddea966a7
@@ -682,6 +686,12 @@ com.pepperize	cdk-vpc	0.0.1143		7c5b7baf11fae249556bc52afb6f283af465f728
 com.pepperize	cdk-vpc	0.0.1144		51595b3c7e4ff8949a878481b617935c1c3deb1b
 com.pepperize	cdk-vpc	0.0.1145		0eb9c204ba0955f25d109a5e3b23bf8ad78f888b
 com.pepperize	cdk-vpc	0.0.1146		822677dc389d2d9eee575d90bd53d7d64c5d43e8
+com.pepperize	cdk-vpc	0.0.1147		278ff2350e178e517964c4134fad7d326903d9a6
+com.pepperize	cdk-vpc	0.0.1148		d8f8744e28b6e852d82f8b0a36bfe70bfe80fc79
+com.pepperize	cdk-vpc	0.0.1149		547c76ee593b660a85e40d7f575fea8eff9b66e5
+com.pepperize	cdk-vpc	0.0.1150		ed2bb5def905e61c0a242b29645e3068b224a46f
+com.pepperize	cdk-vpc	0.0.1151		542f6c27259c58c9b717458923572e40002db3e5
+com.pepperize	cdk-vpc	0.0.1152		49ad596c8c1c0b85ad565a7473edf71cb43dc335
 com.pepperize	cdk-vpc	0.0.174		3169bb5d1aa88485dabe26f65d90cd75a4e1815d
 com.pepperize	cdk-vpc	0.0.175		448d373d034d113368ab64b5325c832baa6a4718
 com.pepperize	cdk-vpc	0.0.176		8ffe995428614d86e203187aea9215d6511b503e
@@ -2453,6 +2463,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0	2.13.3-alpha		12182b139b473e3d064fd29440fc81fb7e00f921
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0	2.14.0-alpha		79130c8411971c155909336ea830005a8103e81b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0	2.15.0-alpha		264d03bedfddae5d2657e2d2cfbde54012d4943b
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0	2.16.0-alpha		eb5eec3199ab803071b3596844e42acf1ca51db6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0	2.2.0-alpha		906bf2b4b60ffd41633c9b5e918126eade69a18b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0	2.3.0-alpha		5d617e8951719f62c98f0da16b2d3c3667b0a4f3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-4.0	2.4.0-alpha		1d23185d89a9b3dda49ee66a97f4f6b0e63cd95e
@@ -2851,6 +2862,19 @@ org.ff4j	ff4j-spring-boot-starter	1.8.9		94a8a5604fc10f5913d209d295c83fcf227482b
 org.ff4j	ff4j-spring-boot-starter	1.9		2917e6d899f3a36b527c0b685b80d005b76a2c96
 org.filteredpush	rec_occur_qc	1.0.0		e06ba361b6bf112bdd3db0e5b3ef6a2efaac6a08
 org.filteredpush	rec_occur_qc	1.0.1		3baed8e75f7ca22fd21739232fd0c0387a4c18a6
+org.filteredpush	rec_occur_qc	1.1.0		4ac5b2bd73985298d8d740ed6019fba03622811f
+org.hammerlab.sbt	maven_2.12_1.0	1.0.0-M1		be70a581fcbaa8cddb668c360d33ed9c56d5ffd3
+org.hammerlab.sbt	maven_2.12_1.0	1.0.0-M2		7652d111d97fcd088c209b29483a8966bf71c13b
+org.hammerlab.sbt	maven_2.12_1.0	1.0.0-M3		b8d41e8813cd60ecf8683501f99b07093cf81021
+org.hammerlab.sbt	maven_2.12_1.0	1.0.0-M4		76eca94acfab0b50eaabd30262fe04751d29fcbe
+org.hammerlab.sbt	maven_2.12_1.0	1.0.0-M5		7bc416715c9e3b63eb288f19777fc0b52eba84e5
+org.hammerlab.sbt	maven_2.12_1.0	4.0.0		090769c5710bafa30d71ef35c8b1d4d3b00b1781
+org.hammerlab.sbt	maven_2.12_1.0	4.0.0-M1		2585fbea4116ad7cd675b88582623bf2b4603979
+org.hammerlab.sbt	maven_2.12_1.0	4.1.0		e285802fdd128c9036adb4b248bb245a86d51695
+org.hammerlab.sbt	maven_2.12_1.0	4.2.0		4b06ba4cc30a2ce7c56b04c6241a860ac477fa80
+org.hammerlab.sbt	maven_2.12_1.0	4.2.1		001768e796451bee5ae229063a8c3959005a34e8
+org.hammerlab.sbt	maven_2.12_1.0	4.2.2		096ed7f3f22ff1a32c547712c0d9bd83fb62fa0f
+org.hammerlab.sbt	maven_2.12_1.0	5.0.0		41b955cdf9c05a37ed55c5d7396dd57b95189957
 org.hawkular.titan	titan-hadoop-1	0.5.4-jboss-1		f1d363e3910d2d2e6d75a5150e14d6ad938c7686
 org.hswebframework.web	hsweb-system-file	3.0.0		N/A
 org.hswebframework.web	hsweb-system-file	3.0.1		N/A

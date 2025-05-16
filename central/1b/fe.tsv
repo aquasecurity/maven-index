@@ -32,6 +32,10 @@ at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.5.2		N/A
 at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.5.2	metadata	826c170778aca7d5c19a48d38586508eefff0e9f
 at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.5.3		N/A
 at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.5.3	metadata	33fe817e69b26cfde968a4e6332a93f6eff33336
+at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.5.4	metadata	5824604086b28c1556cfaef6f1f38a8e7040b8d3
+at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.6.0	metadata	c9706751fcdfcbe7d52454a10a650d08493eecc8
+at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.6.1	metadata	18565b71bde275648ed3eaa1d65f13a23e4a7ca0
+at.asitplus.wallet	vck-rqes-iossimulatorarm64	5.6.2	metadata	03bf38506e79e39e53c102b2be60e7d253f58bd5
 co.fs2	fs2-io_3	2.5-13-1a7ce3e		b30cb560487a08bbb35810c0fe92138e117dddc3
 co.fs2	fs2-io_3	2.5-14-d78ca55		362db6da92da52b0fa1db0bcbbf8e2868c97bf09
 co.fs2	fs2-io_3	2.5-15-fdcf03a		f2912ab0a7306ce18560dbd8394d35719f9a4797
@@ -242,6 +246,7 @@ co.fs2	fs2-io_3	3.12.0-RC1		94d604b587094ed417063a9e5184028ab64b96ac
 co.fs2	fs2-io_3	3.12.0-RC2		afec72f529595e107b2799ace1b9761c2afb18e0
 co.fs2	fs2-io_3	3.13.0-M1		63e76f12a26224432bef706c7efd0e5d996099f1
 co.fs2	fs2-io_3	3.13.0-M2		f81fae5ea8213e66b63363c481293ca04413df5b
+co.fs2	fs2-io_3	3.13.0-M3		d469e14b7cce953fdb2739d49fc8cded962ac90f
 co.fs2	fs2-io_3	3.2-10-421c242		58a33a5244d24a2559ff1e49436413e124bec159
 co.fs2	fs2-io_3	3.2-10-ea04dd1		309259e433b246f3bc7f71281e5103a49bc003f6
 co.fs2	fs2-io_3	3.2-100-c1910b5		01051c23538f635f669b6df3fc6c824edcd6a953
@@ -1055,7 +1060,10 @@ info.nino.jpatron	database-service	2.0.1		527a45569fc17117c9ae91140d41804b2c443c
 info.nino.jpatron	database-service	2.0.2		dc6bbb6386c64996ff15e0edd3e2a9369a355446
 info.nino.jpatron	database-service	2.0.3		efeaa46aa5631e1500f09447ff23bed7634b44c1
 info.nino.jpatron	database-service	2.0.4		f29d490f89293101c668b6d2245bad2361c7425e
+info.nino.jpatron	database-service	2.0.5		897b7050f128bbf73d92616eedb7fabf80841003
+info.nino.jpatron	database-service	2.0.6		d3f9d253b6e4e6114ba0cfe08a269ed64e24266d
 info.nino.jpatron	database-service	3.0.0		9d00135a5a9653660cfe087a6d14dfd4bfdf608b
+info.nino.jpatron	database-service	3.0.1		c070fb7e33f8a6d927c1d47bdeb0c443d2142cbc
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.0.0		N/A
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.0.0	metadata	b67465e141f3761b31871bd945191e50e49565e4
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.0.0-alpha03		N/A
@@ -1088,6 +1096,7 @@ io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.0.4		N/A
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.0.4	metadata	1c70ff3dd6349bfe92849eb323bb488d92fbfb73
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.1.0		N/A
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.1.0	metadata	7b8785e9fa305c2c32373b0bcb0eae928081c96d
+io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.2.0	metadata	81c1cc67932869ed8ae55cff941c531970eb5da5
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.2.0-rc01		N/A
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.2.0-rc01	metadata	b99206dd95ee36045455c2c911db3fb8158f084c
 io.coil-kt.coil3	coil-network-core-iossimulatorarm64	3.2.0-rc02		N/A
@@ -1474,6 +1483,7 @@ org.apache.tomcat	tomcat-juli	10.1.36		5f8d28e49989ac02b7695e4f24140933cc9ef9c9
 org.apache.tomcat	tomcat-juli	10.1.39		207c5d12b79cd3b5ab148a8ac45134bb76356061
 org.apache.tomcat	tomcat-juli	10.1.4		84c234b0dbc2ec7ebfe02a46057b43e7add38362
 org.apache.tomcat	tomcat-juli	10.1.40		cb75a8fe659c7b70d789b2dfa67f0e394f0a6a3b
+org.apache.tomcat	tomcat-juli	10.1.41		c623b61bddcface8b3a3d4c7b1ff122210f53862
 org.apache.tomcat	tomcat-juli	10.1.5		624bc5ab453b971308bd4cdf3c9331505f491fa7
 org.apache.tomcat	tomcat-juli	10.1.6		6f2a54553d43eb6f2d6530122e4d74d66f4219be
 org.apache.tomcat	tomcat-juli	10.1.7		6fa184da429fe8ea46b8d6f4a3c7955d914d76c5
@@ -1509,6 +1519,7 @@ org.apache.tomcat	tomcat-juli	11.0.3		8bb4d452a339b40b4b76b53356872a372be9f733
 org.apache.tomcat	tomcat-juli	11.0.4		ad690764f9bd16885c1ad499a20719d7cef52c9a
 org.apache.tomcat	tomcat-juli	11.0.5		5ee81be90a915549c8ebb76dab8e77718f5ab00f
 org.apache.tomcat	tomcat-juli	11.0.6		262250a4c9e740e9addd6c241beb0704b848948a
+org.apache.tomcat	tomcat-juli	11.0.7		8c9a7d879e9b52963ff995420b8058c849694158
 org.apache.tomcat	tomcat-juli	7.0.0		3529abfd033a70a95aa22e42a5ca051452b17e5e
 org.apache.tomcat	tomcat-juli	7.0.1		873ca72b3553123ab71f74e7b7c1451f27b28e15
 org.apache.tomcat	tomcat-juli	7.0.100		1f25b594981bb00d113ca67d3d4e6ad0be5d1de4
@@ -1740,6 +1751,7 @@ org.apache.tomcat	tomcat-juli	9.0.10		85c2214ee9fd3f4e3a38a8e5e5d288a9dfcf918d
 org.apache.tomcat	tomcat-juli	9.0.100		0b51f0c29648baf731c58a4967a6b240764c67ef
 org.apache.tomcat	tomcat-juli	9.0.102		6bfa38da1ea5e0b296b26bb669513159f97d4cfb
 org.apache.tomcat	tomcat-juli	9.0.104		e1412ff96df0220ab9502f373c48e3381fbc1db7
+org.apache.tomcat	tomcat-juli	9.0.105		60e0a87cf11c87d219787c5bc85bf7c76be1934c
 org.apache.tomcat	tomcat-juli	9.0.11		3be75edf68c96f38f365d042165b6a201b88201d
 org.apache.tomcat	tomcat-juli	9.0.12		42992b0ce1982997e797eb8ffdf8a387da117ffb
 org.apache.tomcat	tomcat-juli	9.0.13		ef9d2d6c33eafb5002b2d2a782b4adf767917e01
@@ -1985,6 +1997,8 @@ org.flywaydb	flyway-database-derby	11.7.0		13a3886c9a4c0bdbe1dd5e4164277ceefd228
 org.flywaydb	flyway-database-derby	11.7.1		4141e6d7224956947a8ebc34e1fe97860a8ce678
 org.flywaydb	flyway-database-derby	11.7.2		4af2d5559e48ba2402da1744e82c67071850e2d6
 org.flywaydb	flyway-database-derby	11.8.0		7fabd9023f2bff89894674cfb7341824bb325a61
+org.flywaydb	flyway-database-derby	11.8.1		d61c9f79a0420a8cf9140af687e00c8434d0ce3d
+org.flywaydb	flyway-database-derby	11.8.2		1ea177c64e3be542cb1c64f5ddddfd47d4cb2cd7
 org.jboss.as.galleon	jboss-galleon-patching-parent	1.0.0.Beta1		N/A
 org.jboss.as.galleon	jboss-galleon-patching-parent	1.0.0.Beta2		N/A
 org.jboss.integration.fuse	fuse-integration-karaf-tests-switchyard	1.0.0.redhat-620137		0ec6332847506655a20d72dd5d3300c284ceb9c0
@@ -3797,7 +3811,18 @@ software.amazon.awssdk	cloudtrail	2.31.30		8572ddfb24af41b6e70a5ea6897ff7184606b
 software.amazon.awssdk	cloudtrail	2.31.31		431d3ed306f5ed2ecd571af041125b117a45eba9
 software.amazon.awssdk	cloudtrail	2.31.32		c17d711a14e868ec970bdfa8a0ac78b93854ff4b
 software.amazon.awssdk	cloudtrail	2.31.33		7ef60b47a3d3784dcfe545945332ed864d287904
+software.amazon.awssdk	cloudtrail	2.31.34		48757d98f89add2573ed5853f7474d89bc4d5111
+software.amazon.awssdk	cloudtrail	2.31.35		a67e59662a685fe9ab3884ea0a7473c89c140046
+software.amazon.awssdk	cloudtrail	2.31.36		a9798f0b9ac9699f943551f87d6d0ccb1615d6f6
+software.amazon.awssdk	cloudtrail	2.31.37		ed1416849d947f681f106a76149efdcbde9e4fad
+software.amazon.awssdk	cloudtrail	2.31.38		16a5423ed33faf10f765b9397bca0225dd660652
+software.amazon.awssdk	cloudtrail	2.31.39		35c1c5b98105c1661c197fac23a2faee12749420
 software.amazon.awssdk	cloudtrail	2.31.4		8ade24f04ccce0fac5be46b16f71875922dbadae
+software.amazon.awssdk	cloudtrail	2.31.40		7145152754aa03a05ba4e96c4d89629c833941cf
+software.amazon.awssdk	cloudtrail	2.31.41		591364e413aa1c7a2d9d257c1b6768b9d71e7aab
+software.amazon.awssdk	cloudtrail	2.31.42		248f116b790c47c2e615ef85c3abc3b65664ec52
+software.amazon.awssdk	cloudtrail	2.31.43		258aee15768cb44dc36839c64ae911b90ac1f387
+software.amazon.awssdk	cloudtrail	2.31.44		716342986159bc2497d1ef5273b4ba1677352db7
 software.amazon.awssdk	cloudtrail	2.31.5		7f9e86f5685705e5951ecdfd08fadea840afda3a
 software.amazon.awssdk	cloudtrail	2.31.6		bdb9551b620a242ab0db98374a095ab1b517b68a
 software.amazon.awssdk	cloudtrail	2.31.7		6ef418a5f887a69626f0ee7b7787d48d7731a338

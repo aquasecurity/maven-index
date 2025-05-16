@@ -526,6 +526,7 @@ dev.opensavvy.prepared	runner-kotest-tvossimulatorarm64	2.0.0-alpha.2		N/A
 dev.opensavvy.prepared	runner-kotest-tvossimulatorarm64	2.0.0-alpha.2	metadata	e7c365414f6b3b82d09840ae1fd19e15528612b6
 dev.opensavvy.prepared	runner-kotest-tvossimulatorarm64	2.0.0-rc.1		N/A
 dev.opensavvy.prepared	runner-kotest-tvossimulatorarm64	2.0.0-rc.1	metadata	74e205d72c8dec447d6ca0520b558cf4a018dd2e
+dev.opensavvy.prepared	runner-kotest-tvossimulatorarm64	2.0.1	metadata	b51c5dc369b4d7e79ebbcfd1f7697e0212adf263
 dev.patrickgold.jetpref	jetpref-datastore-model	0.1.0		N/A
 dev.patrickgold.jetpref	jetpref-datastore-model	0.1.0-beta14		N/A
 dev.patrickgold.jetpref	jetpref-datastore-model	0.1.0-rc01		N/A
@@ -740,6 +741,8 @@ io.ktor	ktor-server-csrf-watchossimulatorarm64	3.1.1		01fcf5fa2ab3a6760456f674fd
 io.ktor	ktor-server-csrf-watchossimulatorarm64	3.1.1	metadata	289c249e17f0e3766bc50557b9c66d0ec5ebce60
 io.ktor	ktor-server-csrf-watchossimulatorarm64	3.1.2		69dadeefcce7407ad9cab9164c00cd09324a2203
 io.ktor	ktor-server-csrf-watchossimulatorarm64	3.1.2	metadata	06e95fef04001016105f67115e54e3be2a25c359
+io.ktor	ktor-server-csrf-watchossimulatorarm64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-csrf-watchossimulatorarm64	3.1.3	metadata	1177e9d20991acb0fcfdfdc82462870ac06d5c93
 io.mosip.preregistration	pre-registration-application-service-impl	1.0.6		6d35f671ad5a0f205207d32c8b078eb50fc4d371
 io.mosip.preregistration	pre-registration-application-service-impl	1.0.7		990303f3c814fbe6c8ecdcd725e1a11d00a269ab
 io.mosip.preregistration	pre-registration-application-service-impl	1.0.8		7ac98eb80d08c9b4c6263fbe433df5cd7052bb54
@@ -875,6 +878,7 @@ org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.2.1		9f39ab54869d35b7959b91d71
 org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.2.2		71fe86151d243fcf37dff8ba06233011e9e60397
 org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.2.3		384df9a09c8b0769b428e73f785348ad22b89dd4
 org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.20.0		f087a4d040f87edadff07fe50e9993b70d5f4886
+org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.20.1		0619882e052169fa4aa508f8fabfcf039c7613b7
 org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.22.0		59a8dc6cae755559236871ce1c10ca41beeda3f0
 org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.4.0		85c06bbbb3b61b64e3204e21c26f1a420e9b8d74
 org.apache.camel.quarkus	camel-quarkus-aws2-iam	3.5.0		c0610c4a37fa719698412d340b65e3d3b00ae6b5
@@ -1035,6 +1039,7 @@ org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.7.0-beta02		15b
 org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.7.0-rc01		a6538702f07e8421ac4955ba60b729002c95f569
 org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.7.1		0ea327da42109d0f88066fd6bb5e062dca3a7086
 org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.7.3		7627bc98c14c3879f6a5e9e667fd3c185dd9bc09
+org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.8.0		d767e48aaf527c373d6b3d37568bdfbac6a1e7b0
 org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.8.0-alpha01		70972a968b1474756b7c15da790e28605bbc6db4
 org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.8.0-alpha02		79265ce11770de97301ce6239d3e7d40a6099b48
 org.jetbrains.compose	gradle-plugin-internal-jdk-version-probe	1.8.0-alpha03		f88bf896982a696bf9bfd2706f08e7d807855cef
@@ -2504,7 +2509,18 @@ software.amazon.awssdk	finspace	2.31.30		0f9d3e522fc7dc68c0e0a7af22e4529bcd91150
 software.amazon.awssdk	finspace	2.31.31		67ae103d61fce57f003e9f615661bb108747d60b
 software.amazon.awssdk	finspace	2.31.32		5009b690e42ca599b0c8bd7ba31dcc8b0e080da6
 software.amazon.awssdk	finspace	2.31.33		e9aca29b34b66b03035ab40bdacb44d323a2006f
+software.amazon.awssdk	finspace	2.31.34		8710699b9392e3f6acc09df38320f4614b7649c9
+software.amazon.awssdk	finspace	2.31.35		d9245bcb7b7ff14b8e04ecb052cb7f9f753e388a
+software.amazon.awssdk	finspace	2.31.36		506d1478a90262656f68c707c4834919843dbf9b
+software.amazon.awssdk	finspace	2.31.37		40185cdfd4b42d5ebfcdd809a01b844e3058ef6f
+software.amazon.awssdk	finspace	2.31.38		f81202d1a61ec0d865f8bb0ff6e8cf6c5418eb79
+software.amazon.awssdk	finspace	2.31.39		bb76e98366ef0eaa78a79be88f3238ca2bfa0492
 software.amazon.awssdk	finspace	2.31.4		3b1096ec2a6547c88d9ccc1a2489de0ded34f83f
+software.amazon.awssdk	finspace	2.31.40		6a3fde90aab49cc55de54946cea5c8d9c1aa3806
+software.amazon.awssdk	finspace	2.31.41		37229b8b571335f4b4711453b6b92abc5dc0e752
+software.amazon.awssdk	finspace	2.31.42		371e3c5b04d7b30b0ace5f40cd39eea6d68c1457
+software.amazon.awssdk	finspace	2.31.43		5494295dcc2d76e66d0526fc086067d15407c59e
+software.amazon.awssdk	finspace	2.31.44		6e81ba553919163b3083f2325ebca62e965ba4f9
 software.amazon.awssdk	finspace	2.31.5		9ab92555ba5fb089aaebaf30a4ffff352c18993d
 software.amazon.awssdk	finspace	2.31.6		8a0f367e6f8b93459ae8e19e8753b825f8fe6052
 software.amazon.awssdk	finspace	2.31.7		1aaf2831423bea732a644081897fe7557285af2f

@@ -183,6 +183,8 @@ com.cobber.fta	cli	16.1.0		4bdc468347e54f5a9ed58b3c9a819dc5ddac10fd
 com.cobber.fta	cli	16.2.0		5baf19cc8128884c9923858f54f7145b06ac913b
 com.cobber.fta	cli	16.2.1		44516de70fc50d6a91371c2a374ad00af61b7d77
 com.cobber.fta	cli	16.2.2		1657af322583c2719569c6784041ef32cd4d9ff3
+com.cobber.fta	cli	16.2.3		e131e8bbe01a78c256900b35636491e3694a7642
+com.cobber.fta	cli	16.2.4		9580f91e4e721fb93eed6d663dbb1eb696386487
 com.cobber.fta	cli	8.0.27		0d6a395a52991bd180f5cee824c71af9f212c4aa
 com.cobber.fta	cli	8.0.28		ecc55942042e847c5ab65916319d3f84f5ea9404
 com.cobber.fta	cli	8.0.29		2bf5093a540d6333e4dd7d0e6e304884b4b46929
@@ -255,6 +257,7 @@ com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2.18.0-rc1		32a0bfc82cc
 com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2.18.1		33139517e6dd7089c610cb9f4c2100e7cfb9790b
 com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2.18.2		7c31abc580fe46907b78dbd79406b1e40fbb781d
 com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2.18.3		336d144daa471ab11a7672f68565b6afb6914ced
+com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2.18.4		9ee1f5aefe724fbfc30b60c2c5e36266cab22b17
 com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2.19.0		9b45a74a73ffec0febfa5e17f3424b5d1b45a8a6
 com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2.19.0-rc2		785a11a6e23be478f2fc98ed1b0d3d716a4587aa
 com.feingto	feingto-core	1.1		f47ba76dfc1b4aba1415998effea79364f12971e
@@ -1093,6 +1096,7 @@ dev.zio	zio-aws-servicediscovery_3	7.31.27.1		65994ce42ee32c8b7935f4e281313d9871
 dev.zio	zio-aws-servicediscovery_3	7.31.28.1		3bc4e5a1b63c43233e7c09307d06cb935b9ff235
 dev.zio	zio-aws-servicediscovery_3	7.31.3.1		b27c599bb07a0e97d6dad8224e4f8328a3f876fa
 dev.zio	zio-aws-servicediscovery_3	7.31.30.1		3a63e180a9362cf9993c57b0cf07c760798315df
+dev.zio	zio-aws-servicediscovery_3	7.31.30.2		56cb29756225a45af5a9339edd2d431a7c932f54
 dev.zio	zio-aws-servicediscovery_3	7.31.4.1		1c69c0ae2be7dc5e63759df6d2758be43e362584
 dev.zio	zio-aws-servicediscovery_3	7.31.6.1		db0da88886c6592f0fd589b8e62e64a61a23d103
 dev.zio	zio-aws-servicediscovery_3	7.31.6.2		a7eedd8c460cf2eae75980cc6616eb3c765fe419
@@ -1206,6 +1210,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-opentelemetry
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-opentelemetry-api-1.47	2.13.3-alpha		6f7240cd11cab3f68d99dffeddf5bdfdf7a74a62
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-opentelemetry-api-1.47	2.14.0-alpha		54cc2d6c9f8b8cf4ac19a397ccf9128fb07e601f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-opentelemetry-api-1.47	2.15.0-alpha		daa13c381a12a72e8c9ac0689d43ef1a14f8a1a7
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-opentelemetry-api-1.47	2.16.0-alpha		730c9b0f4b3ed6da56148b266d1fe9396dafbf39
 io.skodjob	test-frame-openshift	0.1.0		741c817441243d0ffa75d3e4ec547985f0ecb3ac
 io.skodjob	test-frame-openshift	0.1.0-alpha		9a3ddd4834615656ab8e41a5955ae95e11e1336e
 io.skodjob	test-frame-openshift	0.1.0-alpha2		ab03f4f0b04584ee7bfc5308569d582e2dd4b19c
@@ -1748,6 +1753,8 @@ org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.44.0		6d21fec2cac303842605
 org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.45.0		842764b0fb70da4ebadc9c8492100b89e5294a40
 org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.46.0		31b17657bbd842a33ebb8cbc22dab3a9b3815c47
 org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.46.1		7cd18f7932a1db1dec98cd40fdfd2f8fc8dd1cb9
+org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.46.2		15d76bea0d6af47efb1c436befa95decdb2a068f
+org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.47.0		c3dee4f196209bd69a07b42f43f41cf2883a9e61
 org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.5.0		19d08de0f6d8204dcd5d9b00843959af587c26ca
 org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.6.0		8bddafefa8dcd5054eff39dbd28dd6f9e8e8c4f7
 org.finos.legend.pure	legend-pure-m2-dsl-store-pure	5.6.1		1d0d0e11a0891d154a972882626b4ce1ad2e65c2

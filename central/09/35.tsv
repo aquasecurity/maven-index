@@ -105,6 +105,7 @@ com.google.cloud	google-cloud-video-transcoder-spring-starter	4.10.6-preview		53
 com.google.cloud	google-cloud-video-transcoder-spring-starter	4.10.7-preview		fa5e4ced863237a0e7892ec471876307c6b29b00
 com.google.cloud	google-cloud-video-transcoder-spring-starter	4.10.8-preview		69487f673dcb324ae7d9c27bd702e132c3a50202
 com.google.cloud	google-cloud-video-transcoder-spring-starter	4.10.9-preview		cf3f77b5fa38adde4c36629c564babe7e894ee04
+com.google.cloud	google-cloud-video-transcoder-spring-starter	4.11.0-preview		844b43c8cef0464ecf396393fee0464af22a7dc7
 com.google.cloud	google-cloud-video-transcoder-spring-starter	4.2.0-preview		c29e49cc1c44ce4cfef0a559091d1fd124b8401d
 com.google.cloud	google-cloud-video-transcoder-spring-starter	4.3.0-preview		597192af7905ce832ae74b23a2c05bfa99b3fae8
 com.google.cloud	google-cloud-video-transcoder-spring-starter	4.3.1-preview		d21577e84de6188f89eccec0cfc4151763280dee
@@ -136,6 +137,7 @@ com.google.cloud	google-cloud-video-transcoder-spring-starter	5.11.0-preview		96
 com.google.cloud	google-cloud-video-transcoder-spring-starter	5.11.1-preview		9b3305e566ef3b2ea040df638ea26966b2956770
 com.google.cloud	google-cloud-video-transcoder-spring-starter	5.11.2-preview		4da7498d206e1f663e2b04f75295a67f768f0bfe
 com.google.cloud	google-cloud-video-transcoder-spring-starter	5.11.3-preview		a55a872925da344e8510774824846fc68dc354f8
+com.google.cloud	google-cloud-video-transcoder-spring-starter	5.12.0-preview		e99450244d65186bf71c464070594decfe3b282b
 com.google.cloud	google-cloud-video-transcoder-spring-starter	5.2.0-preview		5a32a2742715602ab925fe225c07133f8070ab81
 com.google.cloud	google-cloud-video-transcoder-spring-starter	5.2.1-preview		88515f1234768585b075125a400f8c9fb3f6cd9e
 com.google.cloud	google-cloud-video-transcoder-spring-starter	5.3.0-preview		7cec34d806dcb0e5815ae1db28adf7388351c4ce
@@ -214,6 +216,7 @@ com.newrelic.agent.java	newrelic-scala-api_2.10	8.8.0		f4945a284dbf2d258950d137d
 com.newrelic.agent.java	newrelic-scala-api_2.10	8.8.1		37d25c00ef774bc2696de57f1516768bf5406dd8
 com.newrelic.agent.java	newrelic-scala-api_2.10	8.9.0		ea2ae66f400c14c483f74de70c7f3939df4ecc7c
 com.newrelic.agent.java	newrelic-scala-api_2.10	8.9.1		9274c38a4e36c6b1fdde56b9b0f26971611f8a38
+com.r3.corda	lib	ci		dfb67815fb3c489ba983f31e99eb4075e9e62f18
 com.recvani	java-recvani	0.0.1		a75c7ca5703fac13fdf9f06a534124c71b0a1470
 com.recvani	java-recvani	0.0.2		c6501855737d83644d9be6896ed6f972f2dfec1e
 com.recvani	java-recvani	0.0.3		5409e6a8daa76c3163897d0ef5f4e1dbe68a2797
@@ -568,6 +571,7 @@ dev.zio	zio-aws-ecr_2.12	7.31.27.1		a513f634255fcdc7211f9857a98c7ca778ed6944
 dev.zio	zio-aws-ecr_2.12	7.31.28.1		cfc392c0e35af3c21624d0ae5fc3551cdb0ef3a0
 dev.zio	zio-aws-ecr_2.12	7.31.3.1		d9d9bd99b230d963d8032e62b64721f87ebf1451
 dev.zio	zio-aws-ecr_2.12	7.31.30.1		9f723ce4c2abaf3547f46dd30cb74c42d573af4c
+dev.zio	zio-aws-ecr_2.12	7.31.30.2		e625736af32f6377b90fe2ba75e25454e1519bfa
 dev.zio	zio-aws-ecr_2.12	7.31.4.1		565764cc01cdc8e7d67c6a2abceb4c43c9e968c8
 dev.zio	zio-aws-ecr_2.12	7.31.6.1		45be17752768c46ab9e99e257eca9f2c05827564
 dev.zio	zio-aws-ecr_2.12	7.31.6.2		bc444a426a1763f9c3e45eea7d549a3c6876f135
@@ -700,6 +704,7 @@ io.aeron	aeron-samples	1.47.1		60e24c1d996dc903e23250b67df9fc5c03b3ec25
 io.aeron	aeron-samples	1.47.2		1217db48b5554318d88872cd0f6a059e11794a6a
 io.aeron	aeron-samples	1.47.3		2a1df4de15acee69663c98357ad658b7c125297c
 io.aeron	aeron-samples	1.47.4		b7a82c16250f2d148f0407efd2ce7b6817bcf2d9
+io.aeron	aeron-samples	1.47.5		238bccbe507b26f6eb0902c45b4e3c2d3c141797
 io.aeron	aeron-samples	1.5.0		9c8a1cd75efcc3bc91a0ed9a176f4be17d43be27
 io.aeron	aeron-samples	1.5.1		b053eb8bf049bccba8696c02b1cfa4fa99d9c4bf
 io.aeron	aeron-samples	1.5.2		e9024554329168d50612d942facd6671e72da29b
@@ -1056,6 +1061,13 @@ io.gravitee.node	gravitee-node-plugins-service	7.0.8		22c423598353a4405520186646
 io.gravitee.node	gravitee-node-plugins-service	7.1.0		450a3c240db3c07ad9460e35bf88847143970829
 io.gravitee.node	gravitee-node-plugins-service	7.1.1		290bbe5785759b4630a5bff3f65f65ecc4adc93f
 io.gravitee.node	gravitee-node-plugins-service	7.2.0		034ea453ce39465848b28faf06a390a3a0ae61c7
+io.gravitee.node	gravitee-node-plugins-service	7.3.0		7bf40c8b65f77621bfe62fe7a69caad34631bc86
+io.gravitee.node	gravitee-node-plugins-service	7.4.0		c91994d12f1fb05d4a4f6812025aeffe06627ef4
+io.gravitee.node	gravitee-node-plugins-service	7.4.1		704f7bb8ea5c956bbd79176ac161f1f0a886d878
+io.gravitee.node	gravitee-node-plugins-service	7.5.0		b8fb5943ad4639556a47708a9072e21867b2fa6d
+io.gravitee.node	gravitee-node-plugins-service	7.5.1		1d1f1e15371139eddfd55174e35a797f8892f02d
+io.gravitee.node	gravitee-node-plugins-service	7.6.0		0a37e0a3c626e7ea61709824df76a1fb2b8dcc4c
+io.gravitee.node	gravitee-node-plugins-service	7.7.0		ef16d655bbcb1102a4b3ebf17a34d0ddb5c97200
 io.mosn.layotto	examples	1.0.0		3d4c348700232f8b18716ca5c8d66c5f08ddfe4a
 io.mosn.layotto	examples	1.1.0		9229f3413ff627fff6b6626ab1f75f058957bf0e
 io.mosn.layotto	examples	1.2.0		N/A
@@ -1265,6 +1277,7 @@ me.ahoo.cosid	cosid-test	2.12.0		586a904a774c19d1da98b314ee7290a7e02bbce1
 me.ahoo.cosid	cosid-test	2.12.1		a762de49bbc257e2827380b480799b7dc01f3059
 me.ahoo.cosid	cosid-test	2.12.2		252e97f4156e9b0f3fed89221c2b77728b99903e
 me.ahoo.cosid	cosid-test	2.12.3		877e5fbc14dbb9092a4e1e3a88a13f552d66d7a0
+me.ahoo.cosid	cosid-test	2.12.5		15091309899dfabbdae1275d13e73bf9d8aa4eac
 me.ahoo.cosid	cosid-test	2.2.0		a76b5462002405fa80e43eeb8dbad1a8bb30c030
 me.ahoo.cosid	cosid-test	2.2.1		ef41e744090d109e0d1df1f4e1b6c9dad5ded5c0
 me.ahoo.cosid	cosid-test	2.2.2		ee856853f01efec2e446d6d5a22dd57af2615bb1

@@ -1074,6 +1074,7 @@ org.apache.beam	beam-runners-local-java-core	2.61.0		1eb82dd9e2218547fa33ef72f9c
 org.apache.beam	beam-runners-local-java-core	2.62.0		be9cfe0539df78659749f1125266180d99807ca4
 org.apache.beam	beam-runners-local-java-core	2.63.0		ef1bb6b34327b287ad2fce07c4cd951d0929e173
 org.apache.beam	beam-runners-local-java-core	2.64.0		81688f63a9479d71a40c43991d16187e81857b3b
+org.apache.beam	beam-runners-local-java-core	2.65.0		b74067dd5f2b59028698b81dc4ca60b06bdd7666
 org.apache.beam	beam-runners-local-java-core	2.7.0		4d10bf9d0591130e217e8da2d0b989a6b3ac1dab
 org.apache.beam	beam-runners-local-java-core	2.8.0		020be6f09459ff9c19a3f3225e091a76db491e20
 org.apache.beam	beam-runners-local-java-core	2.9.0		43aad124110bad3bdcd04b2bccb2cb2bd97bbe0a
@@ -1130,6 +1131,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.2.1		e0c612
 org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.2.2		6a9f866c4c10f1533a21882822f52812f6070326
 org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.2.3		a97528990907dddc10ab03d39b9bee2b95581215
 org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.20.0		5c70412ef597eb72a6236447d955308fe3faf115
+org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.20.1		5c7bb1f5e272467fbaf97b56de23cac845e47b17
 org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.22.0		3c3fed0f072fc9cdc1743dc55847004b53929e84
 org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.4.0		bbe7d3e7c1f6b793b476b6a8c7d51239592ffed5
 org.apache.camel.quarkus	camel-quarkus-integration-test-micrometer	3.5.0		1906c59b7123f804e7e3a72fedecd250915f7b95
@@ -1575,6 +1577,8 @@ org.graceframework	grace-cli	2023.2.0-M3		d0583c5e862b93736b6fe8178b7915c1efe70f
 org.graceframework	grace-cli	2023.2.0-RC1		b9c9ee4ce9eafc9656b8b691519cdbaf05172da3
 org.graceframework	grace-cli	2023.3.0-M1		86a60f4da289e686488ef68d024cb5b0ad3514dd
 org.graceframework	grace-cli	2023.3.0-M2		bb676ce1a664143bd8a16c29b55aa0a93e25459e
+org.graceframework	grace-cli	2023.3.0-RC1		a1295b8857d6a8c4fdfabb649b88e196af969ab0
+org.graceframework	grace-cli	2023.3.0-RC2		9a8542167bacec3e76984a21cf7f93c3461647d4
 org.icann.czds	czds-client	1.0		a4faeff4e0222b3081bfc2d3210e94fe24375a14
 org.icann.czds	czds-client	1.0.3		645db183572309a8f102bbd4fdcd58a8d7870338
 org.jasig.resourceserver	resource-server-core	1.0.14		469fc2508564ae7014c9fb67c8dcb5bbdbab216b
@@ -1719,6 +1723,7 @@ org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.7.1		N/A
 org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.7.3		N/A
 org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.animation	animation-graphics-uikitarm64	1.8.0-alpha02		N/A
@@ -1848,6 +1853,7 @@ org.wildfly.clustering	wildfly-clustering-server-local	4.0.5.Final		f1c732396647
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.0.Beta1		3446c04bc61dc2eab2e9fa712a56cc1f76bcded9
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.0.Final		d986bdabbfa46672803a571e2ee4464dca8bc641
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.1.Final		92d3a81ab7d969d4931f5be2b9b9b19c990e4581
+org.wildfly.clustering	wildfly-clustering-server-local	5.0.10.Final		bdf21f0e243194b2ab1ebd5325511d9def90dbdd
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.2.Final		d031f2ed7f77a11dea43e3c965289150bd19dbf0
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.3.Final		fae530c05de7ff795805d1f239d1b76648b5bf9a
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.4.Final		bd44dfb2ca14302d08a21dba26e4cd12faa6d8b7
@@ -1855,6 +1861,7 @@ org.wildfly.clustering	wildfly-clustering-server-local	5.0.5.Final		030d86efc940
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.6.Final		b385d0c97dc7b589bac4ef61eaff938e48fc3d44
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.7.Final		11ad86d48e25c6a6deffba14a4aaba59fab7e82b
 org.wildfly.clustering	wildfly-clustering-server-local	5.0.8.Final		393c0c98ff25925d48e5849076f58028dc9b73f3
+org.wildfly.clustering	wildfly-clustering-server-local	5.0.9.Final		9e1f1dfa1d86e2013a6d20e236e9b4618cd1c897
 org.wildfly.clustering	wildfly-clustering-server-local	6.0.0.Beta1		022f6113baabd9ff77c04624d324077aaa9bc390
 org.wildfly.clustering	wildfly-clustering-server-local	6.0.0.Beta2		76d1b22b9c5008693e0c75444d6859834a6fdfdf
 org.wildfly.clustering	wildfly-clustering-server-local	6.0.0.Beta3		f0432bdf5fbbcd50465d0379103c4e5b799ea2ba
@@ -1862,7 +1869,10 @@ org.wildfly.clustering	wildfly-clustering-server-local	6.0.0.Final		0f9e4470371a
 org.wildfly.clustering	wildfly-clustering-server-local	6.0.1.Final		dd0304c4c5c625ff3b9a8a48074304ae46ae84ed
 org.wildfly.clustering	wildfly-clustering-server-local	6.0.2.Final		809d8e25ea56a379412ed09978723b5ac491a975
 org.wildfly.clustering	wildfly-clustering-server-local	6.0.3.Final		3337dc8971aff7783cfdee79f5472d34ff653703
+org.wildfly.clustering	wildfly-clustering-server-local	6.0.4.Final		498d4cfc789d99cc716524890e7d74b3e56df216
 org.wildfly.clustering	wildfly-clustering-server-local	7.0.0.Beta1		c9cc602ac6beb58969182c8ec68ffea008ea3383
+org.wildfly.clustering	wildfly-clustering-server-local	7.0.0.Beta2		f7abf9fab537ac90707a7bc5fbd900b87f9c4a11
+org.wildfly.clustering	wildfly-clustering-server-local	7.0.0.Final		521252ce7af1d6053cc1f9fa768586e7b6ecab85
 org.wso2.carbon.identity.inbound.provisioning.scim2	identity-inbound-provisioning-scim2-coverage-report	2.0.19		789d5ee53fdbfca982954e259f68cfa06a3f0554
 tz.co.asoft	kida-brela-iosarm64	2.0.16		N/A
 tz.co.asoft	kida-brela-iosarm64	2.0.16	metadata	c8d6fd82dcbfbcce4346aaa59062ea9ed95b569e

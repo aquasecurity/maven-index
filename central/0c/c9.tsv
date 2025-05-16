@@ -896,6 +896,7 @@ dev.zio	zio-aws-proton_2.12	7.31.27.1		a4ab098709e7447747e8ccc6346896c7544747a1
 dev.zio	zio-aws-proton_2.12	7.31.28.1		b0880b4b3f4399ce7a084382bcacbab74e9c93b9
 dev.zio	zio-aws-proton_2.12	7.31.3.1		90f1ce1f31174d87d496514bd043d15a1831467f
 dev.zio	zio-aws-proton_2.12	7.31.30.1		ae1caa78c7fb72d75f6a2ecff4627cfbf89bfe5f
+dev.zio	zio-aws-proton_2.12	7.31.30.2		b8f23410512d246102a8b542769109306ad1e2c3
 dev.zio	zio-aws-proton_2.12	7.31.4.1		37f564ebfb9a7e4360ca7294076af19985ebb59a
 dev.zio	zio-aws-proton_2.12	7.31.6.1		0fafd296502f6baebc0e8682dcf8e4ff7969ed65
 dev.zio	zio-aws-proton_2.12	7.31.6.2		bcb140da0c874d9c930a650a35b658953ea08dbd
@@ -1566,6 +1567,7 @@ io.quarkus	quarkus-oidc-common-deployment	3.15.2		cb4ca02b298929041cef05c3eafcfa
 io.quarkus	quarkus-oidc-common-deployment	3.15.3		74f1773b15b271f29bf0a9702b10caf5b403e413
 io.quarkus	quarkus-oidc-common-deployment	3.15.3.1		204aeeafb19f7beebdf5bb5ef9d9cdc4b34844bd
 io.quarkus	quarkus-oidc-common-deployment	3.15.4		eafbf15044d772ef81e84ca5b7d91f5ed8652f2c
+io.quarkus	quarkus-oidc-common-deployment	3.15.5		8a60a8d869e533fe44476d0ce5d490c313d8fcf4
 io.quarkus	quarkus-oidc-common-deployment	3.16.0		6864f77ab2429816063228b29f3ba8b0ff9d3427
 io.quarkus	quarkus-oidc-common-deployment	3.16.0.CR1		d7af5d50bd8c0321e05cd24419573bda1adc3f27
 io.quarkus	quarkus-oidc-common-deployment	3.16.1		81cdad75f365802a432ed38d7689ee3408fb8cba
@@ -1610,6 +1612,7 @@ io.quarkus	quarkus-oidc-common-deployment	3.2.8.Final		2a5b615c7ea5fb202c2a95531
 io.quarkus	quarkus-oidc-common-deployment	3.2.9.Final		f9f614306ad15a376dcbca0e2061c2cf3124aa54
 io.quarkus	quarkus-oidc-common-deployment	3.20.0		dc4e0c8648103b0d1374e609c7cefc194da58ffd
 io.quarkus	quarkus-oidc-common-deployment	3.20.0.CR1		01864ec7eaa1dce65c7d9f2a20dd0030992dd0cc
+io.quarkus	quarkus-oidc-common-deployment	3.20.1		65f5f80615c09010a06f6751657cffebbbb8bf2f
 io.quarkus	quarkus-oidc-common-deployment	3.21.0		b6d4628608efc9f674954ec567d1107eae92fd6b
 io.quarkus	quarkus-oidc-common-deployment	3.21.0.CR1		7a439a16c92256e9ee789668cf45e0576d1fea41
 io.quarkus	quarkus-oidc-common-deployment	3.21.1		7122f97916ab52f46cf6fdd2e908a86c1cd2477b
@@ -1619,6 +1622,9 @@ io.quarkus	quarkus-oidc-common-deployment	3.21.4		b530284d4ac43bb5af3bfa54471b2e
 io.quarkus	quarkus-oidc-common-deployment	3.22.0		da0ae43100f4aaf8e041a023ee03443d1db26e6e
 io.quarkus	quarkus-oidc-common-deployment	3.22.0.CR1		b9c93d01a1b9e7079fbd86e9f8e7c4046562eea9
 io.quarkus	quarkus-oidc-common-deployment	3.22.1		a967efa0cb169f81dfc8bf57344a3eef87836c49
+io.quarkus	quarkus-oidc-common-deployment	3.22.2		e53157265cd98d4aa2b3cfd3d3be823975cd8cd6
+io.quarkus	quarkus-oidc-common-deployment	3.22.3		b7451e7765a547c419ff63628398a51dd0f47a04
+io.quarkus	quarkus-oidc-common-deployment	3.23.0.CR1		ed184d22b352fa676aaff169541a027acdc527ed
 io.quarkus	quarkus-oidc-common-deployment	3.3.0		9dafb57c4922abf818c329242b7b1d57ddc36b48
 io.quarkus	quarkus-oidc-common-deployment	3.3.0.CR1		8a07003ebdcd52eb73cfbcbc3a8c70e0ef6fa125
 io.quarkus	quarkus-oidc-common-deployment	3.3.1		79f0cab07755dcd585ec0ae6ca559147a4926847
@@ -3490,7 +3496,18 @@ software.amazon.awssdk	cloudwatch-metric-publisher	2.31.30		34565ed8ede2d202d492
 software.amazon.awssdk	cloudwatch-metric-publisher	2.31.31		7e9c3df140cefbd6c495464b88c4d2069a0e68dd
 software.amazon.awssdk	cloudwatch-metric-publisher	2.31.32		612987c27b7f0a22b3a879a76f60896855ff5558
 software.amazon.awssdk	cloudwatch-metric-publisher	2.31.33		7fb3771f9a42ad5ae22a764a040cb659ba96bff2
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.34		4da207897d983906073b5642afc69522bc7f7ee8
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.35		b459f5acd446f70586039a3ede8436f905b92e59
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.36		aa71536f57243e9f97dbc7866d58caa26865fe63
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.37		d60df4c079a19d54972e17f8cea47e46f1ada9b9
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.38		6323920f17d0c330cc151ebe9cb61384ac9ce84b
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.39		a5c0f76925240365b1ba550afaf63663c94391b5
 software.amazon.awssdk	cloudwatch-metric-publisher	2.31.4		c4cb0366ccf7a4d2b7002fcf7613f71afe054c98
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.40		f2b168f25b6775630c6b24e2bf89ff636249bb51
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.41		ec2c320d495836cf4532f0273ad6fa95e879930e
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.42		4ff27556327b4471f01cbd238f0386b1a280fc7e
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.43		2ffabc2d66e4999422d2f2f5fee1f1373e7c51c6
+software.amazon.awssdk	cloudwatch-metric-publisher	2.31.44		575fe2b2991d025d43f68f646dac915fc229f81e
 software.amazon.awssdk	cloudwatch-metric-publisher	2.31.5		2a01465e449bf7ea06d8083838702cd952ebe971
 software.amazon.awssdk	cloudwatch-metric-publisher	2.31.6		3aa7c88ea2003b73bc70b2fa8bf54c5384fb3d16
 software.amazon.awssdk	cloudwatch-metric-publisher	2.31.7		efee9fe891736557008465ed78cccb9ca8be1f66

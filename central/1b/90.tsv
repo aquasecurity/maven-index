@@ -371,6 +371,7 @@ com.jd.live	joylive-bootstrap-api	1.5.0		ebdd3677415f2c79cf22564614bc702f124192d
 com.jd.live	joylive-bootstrap-api	1.5.1		7ecd1843c972a9bc5575c6792a616a9ec51cf901
 com.jd.live	joylive-bootstrap-api	1.5.2		3eae56cb23d38ae6484439fdc6d89a876bb991b8
 com.jd.live	joylive-bootstrap-api	1.6.0		efea5c0d4132d5929e33ba1f6c144cd42acd9ac3
+com.jd.live	joylive-bootstrap-api	1.7.0		d80c14d03e4fe0f45efdc3969b8c5129d86ed412
 com.jiangsonglin	bootstrap-admin-spring-boot-autoconfigure	2.0.2		470e48053aade7d9427c736ea691b1531faef678
 com.jiangtj.micro	micro-auth-casdoor	0.0.10		704bd42535e095b99aa63f86968c267db4842ff7
 com.jiangtj.micro	micro-auth-casdoor	0.0.11		978d7621f81f2837aee6579b79b4480b8047eb0a
@@ -769,6 +770,7 @@ dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.27.1		246e83d2bad27d743295055
 dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.28.1		e97368ae0e9c0b08d19a20805c25f57ffbd348c3
 dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.3.1		66ed5aacaf1242848b85aa41c422527816c92681
 dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.30.1		99c8ae365108309d04db95476de759975f232be9
+dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.30.2		c825529e44caebbea201a4b802bad9b90e9a4c5a
 dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.4.1		160b17ef6ff6a5bf3eb87a6f987371b354047fef
 dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.6.1		57946a08d18c499581bba34f49b6735e51cfefa4
 dev.zio	zio-aws-route53recoveryreadiness_2.13	7.31.6.2		02cdb63bf5d574f94dac8ef13f091db3da21ddec
@@ -873,6 +875,8 @@ io.camunda	camunda-process-test-spring	8.6.12-rc1		38b54f4e2e8d16481c9f47e1b1c38
 io.camunda	camunda-process-test-spring	8.6.13		97a9568e27588139d261a063389c5996e064682d
 io.camunda	camunda-process-test-spring	8.6.14		50fda10bb30e303a427bb49ae03e12c10208ad74
 io.camunda	camunda-process-test-spring	8.6.14-rc1		ff7ae787a226f137702965b3c899da0a029bcc95
+io.camunda	camunda-process-test-spring	8.6.15		935a51aa5e7b8fc670457d506d2413d57e65a108
+io.camunda	camunda-process-test-spring	8.6.15-rc1		e7ebe15cdad6f4f7d7d89ab05c219bee9ef97062
 io.camunda	camunda-process-test-spring	8.6.2		465373a2955d7dd03cd021a3015a2e371e3724be
 io.camunda	camunda-process-test-spring	8.6.3		e27f2d8827fa74740cad60d5cd23acc4b7968e04
 io.camunda	camunda-process-test-spring	8.6.4		3cd3afd16eb9a26e834870e01d44ced71126e7ea
@@ -908,12 +912,15 @@ io.camunda	camunda-process-test-spring	8.7.0-alpha5-rc1		2f7edeebd1b848c222b95b5
 io.camunda	camunda-process-test-spring	8.7.0-rc3		00c5e0aed798cceac267fcb4f69db98d1989d395
 io.camunda	camunda-process-test-spring	8.7.1		3e020a1b8b619170fcface40b95b2f4ac39252c2
 io.camunda	camunda-process-test-spring	8.7.1-rc1		c8ed0a3fdbb1d61e3980a239caf43289ec0bca1d
+io.camunda	camunda-process-test-spring	8.7.2		1c8732431f0ea6c130735c0019ce0b15ce30734e
+io.camunda	camunda-process-test-spring	8.7.2-rc1		a24debfdc58f92b2966e97a2f89a059b8673e08b
 io.camunda	camunda-process-test-spring	8.8.0-alpha1		685a3f8a52582f1ffbeaeb6a197ca7dae61eef3a
 io.camunda	camunda-process-test-spring	8.8.0-alpha1-rc1		de53102b42754b960eaa77d66c5910a1981334af
 io.camunda	camunda-process-test-spring	8.8.0-alpha2		dbdae49b3f66461354c9d845e0f409d701ac2f99
 io.camunda	camunda-process-test-spring	8.8.0-alpha2-rc1		edf385491c98bcaddee94f666c1b53c9ec05e46f
 io.camunda	camunda-process-test-spring	8.8.0-alpha3		7120bef122a04780adb880ecdff4408fc0a32a8e
 io.camunda	camunda-process-test-spring	8.8.0-alpha3-rc3		5da7e93862da7537231df91c7d3a10b61e006569
+io.camunda	camunda-process-test-spring	8.8.0-alpha4		f7931ae5d0d874def8e07f07c80f9e2b651615a0
 io.camunda	camunda-process-test-spring	8.8.0-alpha4-rc1		8405e0c87b13a3125b483ff10c399754a95cbb6f
 io.cloudsoft.jclouds	jclouds	1.7.2-ea-brooklyn.1		N/A
 io.cloudsoft.jclouds	jclouds	1.7.2-ea-brooklyn.2		N/A
@@ -1039,6 +1046,8 @@ io.ktor	ktor-server-auto-head-response-macosarm64	3.1.1		c4211b913a50b4b0312980b
 io.ktor	ktor-server-auto-head-response-macosarm64	3.1.1	metadata	179f61a5c0cfea9f418cecfe9a671966904ff8f3
 io.ktor	ktor-server-auto-head-response-macosarm64	3.1.2		e442320f563d0f7cff9f8ef1dd98b32bf2afc8f1
 io.ktor	ktor-server-auto-head-response-macosarm64	3.1.2	metadata	ac3406f8fe120917309c57c8cdc242db37739097
+io.ktor	ktor-server-auto-head-response-macosarm64	3.1.3		1b1e82b771181786faf6965d9eccd1af2a3deb2f
+io.ktor	ktor-server-auto-head-response-macosarm64	3.1.3	metadata	2a5fea5e782691d1711cd6ebeae574a83e54928f
 io.micronaut.micrometer	micronaut-micrometer-registry-prometheus-pushgateway	5.10.0		5893f63883e00262b6113640913359143f49d00c
 io.micronaut.micrometer	micronaut-micrometer-registry-prometheus-pushgateway	5.10.1		98ec622d21a2ed0d6ebab5ac4727b4d2a94a532a
 io.micronaut.micrometer	micronaut-micrometer-registry-prometheus-pushgateway	5.9.0		0083ae85ab0ee3effb6ef59f7cf70055032f69c0
@@ -1356,6 +1365,9 @@ io.netty	netty-transport-native-kqueue	4.2.0.RC3	osx-x86_64	83fbbd1f4a7e67465590
 io.netty	netty-transport-native-kqueue	4.2.0.RC4		455e89ea21953ec8a1024bf7f743b7dc2ad445f0
 io.netty	netty-transport-native-kqueue	4.2.0.RC4	osx-aarch_64	7184394d12b7339264437061dafaabb0e62e7d34
 io.netty	netty-transport-native-kqueue	4.2.0.RC4	osx-x86_64	1dad4f94638d9b97b1e3735897638b1620a9ec90
+io.netty	netty-transport-native-kqueue	4.2.1.Final		58fa58eb140c212576ad2fe6b8285c2078e2bf91
+io.netty	netty-transport-native-kqueue	4.2.1.Final	osx-aarch_64	1c39d5c7293618d15c56ac28e434edc282cfdf43
+io.netty	netty-transport-native-kqueue	4.2.1.Final	osx-x86_64	f2d0424479f6613361a5c64095c260d34782411a
 io.qtjambi	qtjambi-multimediawidgets-debuginfo-linux-x64	5.15.17		acfeed724c26625faf6b17c9f5fbdc892569039f
 io.qtjambi	qtjambi-multimediawidgets-debuginfo-linux-x64	5.15.18		ce566d33338e13481a34eebc2129e93fa9c8ac05
 io.qtjambi	qtjambi-multimediawidgets-debuginfo-linux-x64	5.15.20		2e63ce06a603fe13df643d13afabe99a715d0cb1
@@ -1478,6 +1490,14 @@ io.scalecube	scalecube-services-gateway-benchmarks	2.9.1		8904195a8b544a78c40aee
 io.scalecube	scalecube-services-gateway-benchmarks	2.9.1	docker-info	d861a2404477627560c0f92f345307411192ded0
 io.scalecube	scalecube-services-gateway-benchmarks	2.9.2		0129f0e72bf700cc7cb05c004ce104eb93c28e5e
 io.scalecube	scalecube-services-gateway-benchmarks	2.9.2	docker-info	a6a642e566ec03a834aec2217c357d81ee602f4a
+io.taig	sbt-blowout-core_2.12_1.0	0.0.1		e5151d3fa4e5906ec0bee4c25a60d686f2681ef8
+io.taig	sbt-blowout-core_2.12_1.0	0.0.2		217ac990348a18b8b56801cbc3c3d312f5a19a4b
+io.taig	sbt-blowout-core_2.12_1.0	0.0.3		df97905e482881196578e9b9569293888a6ddd5d
+io.taig	sbt-blowout-core_2.12_1.0	0.0.4		56f2005cdef4b8bc770adf02e9089df380de5a9f
+io.taig	sbt-blowout-core_2.12_1.0	0.0.5		71b50b43ad2ff0574ccbe740ea4f545f843bdb06
+io.taig	sbt-blowout-core_2.12_1.0	0.0.6		540e860817aa695abdd784a0b9b7e9fa38259712
+io.taig	sbt-blowout-core_2.12_1.0	0.1.0		3caa59f0fb9f511738ca333dff0d0843fc2e6246
+io.taig	sbt-blowout-core_2.12_1.0	0.1.1		52d51870b29fc736893f5c28edabc98d6d80207d
 io.taig	sbt-blowout-core_2.12_1.0	0.1.2		76e2bfb4f72686ca97d95fa02e8ae2d677d5a6f8
 io.taig	sbt-blowout-core_2.12_1.0	0.2.0		5e03af468822e639e27925bd1e796dc026d98d23
 io.taig	sbt-blowout-core_2.12_1.0	0.2.1		1f066cd071ca47a03c4e520ad4673b70988218ec
@@ -1783,6 +1803,8 @@ org.eclipse.dirigible	dirigible-ide-ui-registry-service	7.1.4		47bb276bb59a5be5a
 org.eclipse.dirigible	dirigible-ide-ui-registry-service	7.1.5		4b9ffdb6a18c6240f0722513c1eca68e8751b2ac
 org.eclipse.dirigible	dirigible-ide-ui-registry-service	7.1.6		06185b09e5841ae39a4cb717cdbcc7918c4cb457
 org.eclipse.dirigible	dirigible-ide-ui-registry-service	7.2.0		080591407742e5b2a45024db8a9f2e3eb3e3ba70
+org.eclipse.tractusx.edc	federated-catalog	0.10.0-rc1		f2291060de8945cccdc3b28d9d24e1b96e6a04b5
+org.eclipse.tractusx.edc	federated-catalog	0.10.0-rc2		830ae85ce14e0a770380c3208fe2337b75933b7b
 org.eclipse.tractusx.edc	federated-catalog	0.8.0		0cab1e4b92b08f4ffd3c6960edcca37c10143ed9
 org.eclipse.tractusx.edc	federated-catalog	0.8.0-rc1		0cf023b0c107c3265f3724120cc275325bddafd8
 org.eclipse.tractusx.edc	federated-catalog	0.8.0-rc2		86ce80f5e9256375d938701bc3ca61dd8c50b6c8

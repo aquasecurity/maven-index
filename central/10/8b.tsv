@@ -75,6 +75,10 @@ at.asitplus.wallet	rqes-data-classes-iosx64	5.5.2		N/A
 at.asitplus.wallet	rqes-data-classes-iosx64	5.5.2	metadata	6c0899a90d1043cd09024f3bbc02b11889bc8b54
 at.asitplus.wallet	rqes-data-classes-iosx64	5.5.3		N/A
 at.asitplus.wallet	rqes-data-classes-iosx64	5.5.3	metadata	0550a05bd219ab3e17ba61110c5317d6f77003d1
+at.asitplus.wallet	rqes-data-classes-iosx64	5.5.4	metadata	1bce7d406ce325dbf96af4b75b681241ceb1e7e0
+at.asitplus.wallet	rqes-data-classes-iosx64	5.6.0	metadata	e52f2eff463c0eec721c122758deb16d3f50ab95
+at.asitplus.wallet	rqes-data-classes-iosx64	5.6.1	metadata	cb465bff7186ce8e840953ab5227442b8d342409
+at.asitplus.wallet	rqes-data-classes-iosx64	5.6.2	metadata	bcf17f77ac31f868f8cf205997e21161be9fb275
 com.alibaba.blink	flink-connector-wikiedits_2.11	1.5.1		da99f77a70e7ec60e18812365c71f9a00e2f12d6
 com.alibaba.blink	flink-connector-wikiedits_2.11	blink-3.2.0		86454eb18b94100231f5daebde891af20cbac8a3
 com.alibaba.blink	flink-connector-wikiedits_2.11	blink-3.2.1		fb89bac44d042f29e8f62d452b58e2ac75e97fdb
@@ -664,6 +668,7 @@ io.sundr	sundr-adapter-apt	0.103.0		da1da62741f3b0dd28be1137bc7fdec34a17c7d3
 io.sundr	sundr-adapter-apt	0.103.1		8623d2c428ec34eaacdf0835aaf9dfe9bbe0d47c
 io.sundr	sundr-adapter-apt	0.200.0		cf80f9e65f64f0eb42e37684491b295ab20877f5
 io.sundr	sundr-adapter-apt	0.200.3		6dd37939c55d4e2808eebca34283ada1265e8631
+io.sundr	sundr-adapter-apt	0.200.4		ee73e9e6dcdba6964ea2eec53d64a7c3ce234206
 io.sundr	sundr-adapter-apt	0.40.0		e6873ecaa6282bab1d580c9aa9377e9fc990b130
 io.sundr	sundr-adapter-apt	0.40.1		a624b43829e7f88d956ac55bb9037792a4bc3dfb
 io.sundr	sundr-adapter-apt	0.50.0		45f30c2524513441ab69d3418890f91447c38daf
@@ -757,10 +762,12 @@ me.proton.core	observability-tools	30.4.4		059077f8f90205441509b1986f20345f4f0b9
 me.proton.core	observability-tools	31.0.0		fe736843b926bab3e7efd40132b0f268963ad864
 me.proton.core	observability-tools	32.0.0		24664ef45545b478d59f5098f8591edce5bdbed0
 me.proton.core	observability-tools	32.0.1		c6a4e9ae56166ed2fad50c667124bc7f272ff97d
+me.proton.core	observability-tools	32.0.2		4bf0f60aac285bbb2dc3190c0be50c98cc0bbcf0
 net.deelam	graphtools-core	0.0.1		5152574a51b0d4f14eabc5eae1ee94756e7b0a71
 net.deelam	graphtools-core	0.0.2		3d7e7e52b721d87b39916754be3c748ee7cb4224
 net.deelam	graphtools-core	0.0.3		172a164ba5660da1bd2766a09d7c512b73e828fa
 net.neoforged.installertools	problems-api	3.0.3		4ae279e909a73e2968e6285a0730f668b81ffa9e
+net.neoforged.installertools	problems-api	3.0.4		e793526b23fe7b451f283aa73b425ce66d672e87
 net.sf.tweety.logics	translators	1.10		1075d8ebbfa6b10688164407dbfbd96d6073daf9
 net.sf.tweety.logics	translators	1.11		7b97e26af00b37f46e0e0723bbe13b03a44c3d57
 net.sf.tweety.logics	translators	1.12		98b5abd85da50a167ce8b10c6573295edd287777
@@ -1080,6 +1087,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-projects	11.41.1		a51d33a582c
 org.eclipse.dirigible	dirigible-components-ui-view-projects	11.42.0		2019d1ca6a47078fafa2cd370346f6583d06bfbc
 org.eclipse.dirigible	dirigible-components-ui-view-projects	11.43.0		1f31d3754e392a9501f85b4c46f55dc7277df9a8
 org.eclipse.dirigible	dirigible-components-ui-view-projects	11.44.0		a7f0c88352eed2642569954d33781d46263d72fa
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.0		b7f90b10890a6b58f78a41098f2159e320dd5fb9
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.1		42628ab8b08e1b09935d019d209f57bf5f3af1a9
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.10		f173252e1a2db3b61238452ac33bb1b5605e45e4
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.11		be6ee04377b852104b32ad08254986b345cdae59
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.12		80ab98539bb87b1d700348d07d054e82ad38646c
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.13		47e5f2cc75eab1183bf6375ac458aa9cbd3b7019
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.3		d5daab6ed2485c680f5d07657ea956c72a9d7be9
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.4		0c130c0a0a492db826abeec54cbc4acf7a8e82e1
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.5		8262de27cfecab0e081b87be285bed12d265f6d8
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.6		42ddbfd53faf4173d9da14abf09c8fdd8ea31c97
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.7		68816ce8f7c827c753cb19c9418c335316ed442f
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.8		ca2764cdfafd5087c283e16d5e1534e2fb1aad5b
+org.eclipse.dirigible	dirigible-components-ui-view-projects	11.45.9		545adda456963966bfe845fa126dbf6d4f60ace9
 org.eclipse.dirigible	dirigible-components-ui-view-projects	11.5.0		790664591870b799fefe39d77a567b2a0cbfda36
 org.eclipse.dirigible	dirigible-components-ui-view-projects	11.6.0		7b5efb9f109c67efb9ff41964231f17d4d1a023b
 org.eclipse.dirigible	dirigible-components-ui-view-projects	11.6.1		42b25c9c85e83f5c95219b52181bf8277e8182a6
@@ -1568,6 +1588,8 @@ org.ossreviewtoolkit.plugins.commands	downloader-command	55.3.0		052178094763c2f
 org.ossreviewtoolkit.plugins.commands	downloader-command	56.0.0		0b3c6b4afbbd724fa6e230b8e735dc603492637e
 org.ossreviewtoolkit.plugins.commands	downloader-command	56.1.0		e56fe4ee61542712aafb732559eeb45732370fa8
 org.ossreviewtoolkit.plugins.commands	downloader-command	57.0.0		e31dc49e745dd051d78592d8f5f991b463374d74
+org.ossreviewtoolkit.plugins.commands	downloader-command	58.0.0		4ee3d391a0a54e4fcc515f0c7a57e542ce6590c5
+org.ossreviewtoolkit.plugins.commands	downloader-command	58.0.1		4f9fa76650746151bacb9a9c483e340a384a66a1
 org.ossreviewtoolkit.plugins.commands	downloader-command	6.0.0		3c07d4418e2caa1c2b1ce1b0da9fbd000273ae62
 org.ossreviewtoolkit.plugins.commands	downloader-command	6.1.0		9ea5cee66c003b408460e6f9f88210e11531f279
 org.ossreviewtoolkit.plugins.commands	downloader-command	6.1.1		30201379a50470ede5d561e9341e4c2966b32303
@@ -1581,21 +1603,37 @@ org.rapidpm	testbench-ng-m-pageobject-vaadin-generic	00.07.05-RPM		f6a9fd4554be1
 org.rapidpm	testbench-ng-m-pageobject-vaadin-generic	00.07.06-RPM		234e9258ef070c5bdbe138f6d8c7c8a664ec77a1
 org.saatsch.framework	saatsch.framework.jmmo.core.data	0.1.7		6cf6cc0cfdd70f16a271ff8323c06f69f70be32b
 org.testifyproject.client	jersey-client	0.9.1		1bf746bc9e8051b66c7014eae9fdd630d524622a
+org.testifyproject.client	jersey-client	0.9.1	2.25.1	1bf746bc9e8051b66c7014eae9fdd630d524622a
 org.testifyproject.client	jersey-client	0.9.2		077efb4d55918f342a109f5935c18e8a0726b4bd
+org.testifyproject.client	jersey-client	0.9.2	2.25.1	077efb4d55918f342a109f5935c18e8a0726b4bd
 org.testifyproject.client	jersey-client	0.9.3		c34376584305ef951453a0e9e15de7279fde8ac3
+org.testifyproject.client	jersey-client	0.9.3	2.25.1	c34376584305ef951453a0e9e15de7279fde8ac3
 org.testifyproject.client	jersey-client	0.9.4		3b349b69840059f7505ea3b33e680aecfc0e6be7
+org.testifyproject.client	jersey-client	0.9.4	2.25.1	3b349b69840059f7505ea3b33e680aecfc0e6be7
 org.testifyproject.client	jersey-client	0.9.5		2bb46e610aa57cd74a1fbef4d0dcf7ebeaf7df84
+org.testifyproject.client	jersey-client	0.9.5	2.25.1	b5b59ee0763331ccf4b5dd6ff9703bfb0a5560a7
 org.testifyproject.client	jersey-client	0.9.6		5c65065908a17f54d4d7a1944365ffdc2c561327
+org.testifyproject.client	jersey-client	0.9.6	2.25.1	5b143368a6a72e375f6c9cc46ea23312fd56d380
 org.testifyproject.client	jersey-client	0.9.7		22afdb5013a5eadb79d8763c54b3e7eef31dbe91
+org.testifyproject.client	jersey-client	0.9.7	2.25.1	d7c6e0a8edd25e6e5c9a32ba4bf34218c86f8a59
 org.testifyproject.client	jersey-client	0.9.8		87e41b27f3ea61f8a64de1e144354eb42b01a60d
+org.testifyproject.client	jersey-client	0.9.8	2.25.1	381ed9fe20a75cdc6320fa17140a97d6a9523b2f
 org.testifyproject.client	jersey-client	0.9.9		33bbb1950a0075e1873a82ce1c6f5acff7fc9965
+org.testifyproject.client	jersey-client	0.9.9	2.25.1	33bbb1950a0075e1873a82ce1c6f5acff7fc9965
 org.testifyproject.client	jersey-client	1.0.0		5f8fb0e5a4d552062d55db92b556bdf4c164fd96
+org.testifyproject.client	jersey-client	1.0.0	2.26	5f8fb0e5a4d552062d55db92b556bdf4c164fd96
 org.testifyproject.client	jersey-client	1.0.1		45d885452989f7552c3c2b78ebdeacd1151296e3
+org.testifyproject.client	jersey-client	1.0.1	2.26	a2711c9bd149b7b250b80267898f5b1f53daad49
 org.testifyproject.client	jersey-client	1.0.2		23a563aebc77b07111c125db424e72c96f3b864d
+org.testifyproject.client	jersey-client	1.0.2	2.26	23a563aebc77b07111c125db424e72c96f3b864d
 org.testifyproject.client	jersey-client	1.0.3		011d99bdc799cedb9d14e98d9aaf754347b05e9f
+org.testifyproject.client	jersey-client	1.0.3	2.26	011d99bdc799cedb9d14e98d9aaf754347b05e9f
 org.testifyproject.client	jersey-client	1.0.4		c064a42f1197aa09282939f59ca335fb1869b677
+org.testifyproject.client	jersey-client	1.0.4	2.26	c064a42f1197aa09282939f59ca335fb1869b677
 org.testifyproject.client	jersey-client	1.0.5		26cd2ff894e2f41e96ac5d3dc51031258fa22897
+org.testifyproject.client	jersey-client	1.0.5	2.26	26cd2ff894e2f41e96ac5d3dc51031258fa22897
 org.testifyproject.client	jersey-client	1.0.6		718c453fdd09d134ea04ef6c1f2b36fc5b6952b6
+org.testifyproject.client	jersey-client	1.0.6	2.26	e7439b69efa889820ac627a7b446e24e75b7815e
 org.typelevel	otel4s-testkit_3	0.1.0		a896a7393032045a16d542c6213ba2f1e9880143
 org.typelevel	otel4s-testkit_3	0.2.1		d464243220f1f845382703bb6bc612514020bdbc
 org.typelevel	otel4s-testkit_3	0.3.0		674083fe48d261551bb604bad85f1568fb919051
@@ -3302,6 +3340,7 @@ systems.manifold	manifold-params-test	2025.1.10		ec5df721c90299e6e716dc70b8feb25
 systems.manifold	manifold-params-test	2025.1.11		6b95e856ff00b0545f6233227875481ef32f3756
 systems.manifold	manifold-params-test	2025.1.12		9f57d041186736456966d9f90912937be4abce55
 systems.manifold	manifold-params-test	2025.1.13		0ad77f571f193e082ea51989850b8b8ddc8f2f1b
+systems.manifold	manifold-params-test	2025.1.14		2e536786a0cfc2606a66da7655d43b286aa3eb53
 systems.manifold	manifold-params-test	2025.1.2		8c5fad1c3be4d1e1e59db22f593a8d9b78ee53fd
 systems.manifold	manifold-params-test	2025.1.3		aa23279ddcc6358b11f1db0ba92a31e2d4f5826d
 systems.manifold	manifold-params-test	2025.1.4		49f5baf9b91ce4c62e267d805b82af61966db73e
@@ -3357,6 +3396,10 @@ tz.co.asoft	kollections-atomic-watchosarm64	3.0.8		N/A
 tz.co.asoft	kollections-atomic-watchosarm64	3.0.8	metadata	93ce88045810db15c4b1c8ab68a862351fa50ab0
 tz.co.asoft	kollections-atomic-watchosarm64	3.0.9		N/A
 tz.co.asoft	kollections-atomic-watchosarm64	3.0.9	metadata	df3dbf2f8ee1fea9f45d8abca10087d2aebc3962
+tz.co.asoft	kollections-atomic-watchosarm64	3.1.0	metadata	14e29dae0f0bdde29e5f20cfd91634bdcd0f25df
+tz.co.asoft	kollections-atomic-watchosarm64	3.1.1	metadata	9054de85a44e76e227c4e417fae8c80a3453e788
+tz.co.asoft	kollections-atomic-watchosarm64	3.1.11	metadata	39bcf8125c546a9e89a739386e98d147826d9b51
+tz.co.asoft	kollections-atomic-watchosarm64	3.1.12	metadata	4c350f96037a7101c49b9391827ae5dbbe08c0be
 tz.co.asoft	sim-core-macosarm64	2.0.18		N/A
 tz.co.asoft	sim-core-macosarm64	2.0.18	metadata	8cb5dc660cf4453fa978b4c4cc0c584fee02266b
 tz.co.asoft	sim-core-macosarm64	3.0.13		N/A
@@ -3365,4 +3408,8 @@ tz.co.asoft	sim-core-macosarm64	3.0.14		N/A
 tz.co.asoft	sim-core-macosarm64	3.0.14	metadata	3b2fa4be72abbfa441edfc32ba4e700e57aa27de
 tz.co.asoft	sim-core-macosarm64	3.0.15		N/A
 tz.co.asoft	sim-core-macosarm64	3.0.15	metadata	1202ae6770b73c7890de98bb4d70ecab4aff2f9e
+tz.co.asoft	sim-core-macosarm64	3.1.0	metadata	99a8988bc45507c273d969944afbaa5f70f0c917
+tz.co.asoft	sim-core-macosarm64	3.1.1	metadata	44e8cdc7f08a5ed778a698d7e0ae1b1e3d362767
+tz.co.asoft	sim-core-macosarm64	3.1.11	metadata	bbfdd63a40227a3a02ec3eeec1236b7ba31f2d55
+tz.co.asoft	sim-core-macosarm64	3.1.12	metadata	a567ee8af68f09a8ec76a772c58e1aabe10a0d26
 uz.rsteam.coil-3	coil-test-jvm	3.1.1		e14a780409c95e2d7a024c475f32b870d87ae42b

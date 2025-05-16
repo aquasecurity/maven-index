@@ -141,7 +141,16 @@ aws.sdk.kotlin	socialmessaging-jvm	1.4.73		bb48ee614e458f93dc886056a4dd72d695694
 aws.sdk.kotlin	socialmessaging-jvm	1.4.74		063082b150ddbef1527eb512abd6d9abfc5edf12
 aws.sdk.kotlin	socialmessaging-jvm	1.4.75		273ac8d909916050671dff826acbdc829365004d
 aws.sdk.kotlin	socialmessaging-jvm	1.4.76		8620c6c7c5ffa0d6b46f4b61ef3d4f08f0b223f6
+aws.sdk.kotlin	socialmessaging-jvm	1.4.77		3e6caf0e212805e7900149d6902894d645f37a3c
+aws.sdk.kotlin	socialmessaging-jvm	1.4.78		d6dbc9b000abb4c46b6bffe3cf8e3c1a5cfaa319
+aws.sdk.kotlin	socialmessaging-jvm	1.4.79		22ed834b22338ccd56a4a7258dece13b69143e48
 aws.sdk.kotlin	socialmessaging-jvm	1.4.8		a684973d9e50d8c861119f5e680e39f8f385eb4b
+aws.sdk.kotlin	socialmessaging-jvm	1.4.80		5fa692a73353928cba74aa70f2c757cedfea4a69
+aws.sdk.kotlin	socialmessaging-jvm	1.4.81		f5948929a30b0b65b9a9805b36dc0a84063776da
+aws.sdk.kotlin	socialmessaging-jvm	1.4.82		f0c19e49f49b9d725490b856d2d7791aae8977da
+aws.sdk.kotlin	socialmessaging-jvm	1.4.83		32274647bb75d46663129b54a74f02f7d43404a6
+aws.sdk.kotlin	socialmessaging-jvm	1.4.84		caaab19e6df3dbd67aabf7f685cab50bb51ccb76
+aws.sdk.kotlin	socialmessaging-jvm	1.4.85		9398d685cdab0a378826fc8153543664d57b44d5
 aws.sdk.kotlin	socialmessaging-jvm	1.4.9		d929aaab24d1db065afc9df4d8acc598cabc1086
 br.com.ingenieux.launchify	launchify-launch4j	0.0.1		b898eb643f5d628a37d3774c685b84f0317a239a
 cc.scrambledbytes.sse	sse-event-source-macosx64	0.2.7		N/A
@@ -1251,6 +1260,7 @@ dev.zio	zio-aws-iotevents_2.12	7.31.27.1		6eb9e94dda4f5463b11ca4bbaeb39fec325a38
 dev.zio	zio-aws-iotevents_2.12	7.31.28.1		06d7720f0793b8ebeaaec22980e839e32b91e706
 dev.zio	zio-aws-iotevents_2.12	7.31.3.1		4bccb07733eb0d160dfe69a895415644be1dbbcc
 dev.zio	zio-aws-iotevents_2.12	7.31.30.1		f954756c7246ee3ce862949f3a03b759dea1ccee
+dev.zio	zio-aws-iotevents_2.12	7.31.30.2		86203956ed29939dad94c55c6dfca99f79ff6f80
 dev.zio	zio-aws-iotevents_2.12	7.31.4.1		014dc263674620de1258f56562a7193252619de4
 dev.zio	zio-aws-iotevents_2.12	7.31.6.1		0194908f97aa90e5f948fe7db20ba1353928974d
 dev.zio	zio-aws-iotevents_2.12	7.31.6.2		42e432cfd9e575206b725cc5a1bc3e6a2353a30f
@@ -1350,6 +1360,7 @@ io.deephaven	deephaven-test-configs	0.37.5		1110ee5dc8c9f57ca63036fcd3f29bfdd6c9
 io.deephaven	deephaven-test-configs	0.37.6		5db5c393f59cd639eecfb8ccf4d845c72a2629fe
 io.deephaven	deephaven-test-configs	0.38.0		672ceb01e619bad41127ddd4f12ed38600644686
 io.deephaven	deephaven-test-configs	0.39.0		037aeb16ac203ad838adb82a1340566576543636
+io.deephaven	deephaven-test-configs	0.39.1		863e2b6a9bf05e2281d40f642051281b1d679d88
 io.gitee.ground-gun	wutunan-java-jar	1.0.0		N/A
 io.gitee.ground-gun	wutunan-java-jar	1.0.1		N/A
 io.gitee.ground-gun	wutunan-java-jar	1.0.2		N/A
@@ -1932,6 +1943,7 @@ org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.2.1		59f6d6e4256a1df77e1b24
 org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.2.2		15d45346b6a773d37abe96364d9c56bc87d651b3
 org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.2.3		09a2ee977ced1171af03f17596218bb997c48a31
 org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.20.0		c373f215742c35c535e177fa907115f220955d84
+org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.20.1		d1e4e0fc1a6b44cb434674a6cd5f88aeef3f0460
 org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.22.0		55c165e8425556685e1b9841ba0cf60a1bfeef87
 org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.4.0		1720599f077b11198bb43ef83886eaf9bb71253e
 org.apache.camel.quarkus	camel-quarkus-xmlsecurity	3.5.0		011cd3add4445718750ffcb3bce4c3ba8bd64452
@@ -2057,6 +2069,7 @@ org.apache.camel.springboot	camel-aws2-lambda-starter	4.8.3		28ba87ae3ca4c9cbc18
 org.apache.camel.springboot	camel-aws2-lambda-starter	4.8.4		58c7c302cd086ff3351a314535c68a5881191a62
 org.apache.camel.springboot	camel-aws2-lambda-starter	4.8.5		62208fc1e5ba4678708db5da9f9473b77e2f8bb0
 org.apache.camel.springboot	camel-aws2-lambda-starter	4.8.6		042199cc920dc7218dd9950d9607687887de21e9
+org.apache.camel.springboot	camel-aws2-lambda-starter	4.8.7		ca66996f6ea02f8151fb0f59ce318547f023c7b2
 org.apache.camel.springboot	camel-aws2-lambda-starter	4.9.0		5af59107e771443e645f0727e532c8c49591bc5e
 org.apache.nifi	nifi-box-services	1.18.0		7b1a65440805165a830f0fdcedd6e0474c972ed2
 org.apache.nifi	nifi-box-services	1.19.0		86e0aeae0d8b7317f985716494810c30cd791c70

@@ -592,6 +592,7 @@ io.coil-kt.coil3	coil-test-jvm	3.0.2		8c8ccc9428785c4da21575b63c231a1bf0f51fb2
 io.coil-kt.coil3	coil-test-jvm	3.0.3		8c8ccc9428785c4da21575b63c231a1bf0f51fb2
 io.coil-kt.coil3	coil-test-jvm	3.0.4		4d7368a3bbe129ae497fca0e7bff485817d026ef
 io.coil-kt.coil3	coil-test-jvm	3.1.0		d58698780365712f66b0464f9c34142fe53bfa6c
+io.coil-kt.coil3	coil-test-jvm	3.2.0		4dd92fb7969e9e28e479b81398b159389d097fb1
 io.coil-kt.coil3	coil-test-jvm	3.2.0-rc01		4dd92fb7969e9e28e479b81398b159389d097fb1
 io.coil-kt.coil3	coil-test-jvm	3.2.0-rc02		4dd92fb7969e9e28e479b81398b159389d097fb1
 io.github.amayaframework	amaya-tokenize	1.0.0		37cd91706a3493531bca6fb15e53a70719acf756
@@ -644,6 +645,7 @@ io.github.mmdai	flood-spring-cloud-starter	2.7.8.0		N/A
 io.github.mmdai	flood-spring-cloud-starter	2.7.9.0		N/A
 io.github.pandulapeter.kubriko	plugin-particles-desktop	0.0.1		1bf585ad272130c3de7c0a803842d092c262a613
 io.github.pandulapeter.kubriko	plugin-particles-desktop	0.0.2		548d4864b896f867a68afa6318450ac514ef3618
+io.github.pandulapeter.kubriko	plugin-particles-desktop	0.0.3		548d4864b896f867a68afa6318450ac514ef3618
 io.github.pandulapeter.kubriko	plugin-particles-desktop	unspecified		1bf585ad272130c3de7c0a803842d092c262a613
 io.github.tkaczenko.auditor	auditor.outbound	0.0.2		f61f218ff6fdff8be878ddf16a5c48f95ded3be8
 io.mraa.at.upm	upm_lsm303agr	1.2.0		N/A
@@ -689,6 +691,7 @@ io.smartdatalake	sdl-jms_2.13	2.6.1		a01be7e43ae90d016dec12ec45cdd72d6c51beb6
 io.smartdatalake	sdl-jms_2.13	2.7.0		c1a6475f7cd867e7cba21c48733bd3bca114ab57
 io.smartdatalake	sdl-jms_2.13	2.7.1		3daf8210ba072d6fe2299ad11017624dccd0194b
 io.smartdatalake	sdl-jms_2.13	2.7.2		ef230281b7da70cb315f71451f29548b7c6d106b
+io.smartdatalake	sdl-jms_2.13	2.8.0		004c6760451c6f0d59628ad1c6510708235b34ea
 io.swagger	swagger-models	1.5.0		d2566bfc270073a559b342089f54086ee64ca5b1
 io.swagger	swagger-models	1.5.1		e5d89ed3faafe4dcea9acef197377f53c6998945
 io.swagger	swagger-models	1.5.10		da29e4f4f7cff80b1ef134b0f3805013be443e58
@@ -1218,6 +1221,7 @@ org.apereo.cas	cas-server-support-aup-redis	7.2.0-RC6		a8b8b958a437cee61108d888f
 org.apereo.cas	cas-server-support-aup-redis	7.2.0-RC6	resources	263532601deddcb2d1bd573371907f518d6b8b19
 org.apereo.cas	cas-server-support-aup-redis	7.2.1		538f471ae1b5508ba5e622980c0005e41517956f
 org.apereo.cas	cas-server-support-aup-redis	7.2.1	resources	e30d85631818274cb5af834bda4e43dd47dbaab3
+org.apereo.cas	cas-server-support-aup-redis	7.2.2		93ae72322777c03bffb12afac61ba51ab89698b5
 org.apereo.cas	cas-server-support-aup-redis	7.3.0-RC1		b4737fc4ce874ea81614ac67bbeb0de8645d8da5
 org.apereo.cas	cas-server-support-aup-redis	7.3.0-RC1	resources	43e1b8e0afb0f7c9cda5782f13cc2bdc672b66df
 org.apereo.cas	cas-server-support-aup-redis	v6.4.0-RC5		2841d9685f56eb119025d5ce61bbbb7ad5f30332
@@ -1348,10 +1352,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.79.0		72b01
 org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.80.0		04e1ad2a199a8759cea12ae16af54109d3b588f6
 org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.81.0		48930163fe484d5bf9b86a33eeada21043bca519
 org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.82.0		a051174ef5821594c963d84acc04638f42b15c62
+org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.82.1		60b92e253521e636027e871e21abf1c4c77dfc7c
 org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.83.0		cb3e3e38ebc2d035a07398867bf179f5fbab4380
 org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.83.1		ef80a8733b8dacd92ae418386b62b8e40508250c
 org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.83.2		af930267ee170fe62274b6b7f417191f7862301d
 org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.83.3		130e32bf405f5efcc4aec2accad4c6f9e839dd76
+org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.84.0		7100044bce2d19d447b682ea15db02febd816e4c
+org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.84.1		f70775bf29bb80a455fd5c6b08b75d32430b69e9
+org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.85.0		6e57ff8caab7d9ed5c21fd04b7a32cdd79302434
+org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.85.1		04d22e43e0e10597c53f0da029a8454bbc87ec75
+org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.85.2		16ed88341fc27ce80dc384f74612490d1582e653
+org.finos.legend.engine	legend-engine-xt-relationalStore-core-pure	4.85.3		6bb1bb5651bd65edcdb5c9ba5ea13226c07a6e85
 org.graalvm.llvm	llvm-language-managed-resources	23.1.0		221b119a83e5337214c5e1be707ed76a440e6c85
 org.graalvm.llvm	llvm-language-managed-resources	23.1.1		c732e6e84ecd6f3447934e5662a6e7e8cee41d77
 org.graalvm.llvm	llvm-language-managed-resources	23.1.2		b42eb9b59bc7c7f319646760f18d43562032e4b0
@@ -1438,6 +1449,8 @@ org.logging4s	logging4s-ce-3_3	0.8.0		0e54842f4468d8c4ecb4e3097535075419b2624d
 org.logging4s	logging4s-ce-3_3	0.8.1		88abd7faa18ea6cd9a1924e6fb4d7a4565ad5939
 org.logging4s	logging4s-ce-3_3	0.8.2		584afcfabd8df13ecd136681dd0c338f4d95de1a
 org.logging4s	logging4s-ce-3_3	0.8.3		608fdb6f725f894c798ea5732d7dd863135fd7ad
+org.logging4s	logging4s-ce-3_3	0.9.0		64a94df2971c107d39a5d97ac8bcadd7610f51c7
+org.logging4s	logging4s-ce-3_3	0.9.1		bd610891059e0a656cfbc5bad1e3a812a3e18587
 org.mvnpm	is-generator-fn	2.1.0		738518dbc3afbfbcdccba4404962c25f6cfa8a22
 org.openrdf.sesame	sesame-spin	2.9.0		63c24aff8430714aa51f93615b1d23d89c6776cf
 org.openrdf.sesame	sesame-spin	4.1.0		f32fa9ca4a4e2dd9342e2c65967804fb6e6acfdb
@@ -1654,4 +1667,7 @@ software.amazon.awscdk	pipes-enrichments-alpha	2.190.0-alpha.0		7524bfd48b29a5e0
 software.amazon.awscdk	pipes-enrichments-alpha	2.191.0-alpha.0		912a0462f627c7b9f237267749d765e708428359
 software.amazon.awscdk	pipes-enrichments-alpha	2.192.0-alpha.0		7b1eedf4d049c02fc1032605c507f4fe4a6cd9b9
 software.amazon.awscdk	pipes-enrichments-alpha	2.193.0-alpha.0		6682a6871b12cccc3bad61cbb50e1ab9e3e0a2d5
+software.amazon.awscdk	pipes-enrichments-alpha	2.194.0-alpha.0		deb166fb3a20f047fe20483e643eec8410700ecd
+software.amazon.awscdk	pipes-enrichments-alpha	2.195.0-alpha.0		c7f6a1f3e3403c93a6ea4cd389de9f6c42f870a5
+software.amazon.awscdk	pipes-enrichments-alpha	2.196.0-alpha.0		e0a91e604a18d4bbe060f9f0e23c54e0f38d35cf
 tech.aroma.banana	banana-java-client	1.0		48f234ba5c4c098c3d1f484a9d22392dc21bf281

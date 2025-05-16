@@ -146,6 +146,8 @@ com.cq1080	meta	0.0.7		1e4b17b325eae5b1cc7e3e09d1a91d88352b02b3
 com.cq1080	meta	0.0.8		911747daac044ff80b7181cb9e7b57a8b199f6ab
 com.cq1080	meta	0.0.8.1		32c5e61e91fe3bda34df3604c85a89fb3ab37fb7
 com.cq1080	meta	0.0.9-ssgc		dc7e317895c92732a21d7385a8b8249e4994cad9
+com.danieltrinh	sbt-scalariform_2.10_0.13	1.3.0		00fb9522993fd413412bd787602c3509a70fd650
+com.danieltrinh	sbt-scalariform_2.10_0.13	1.4.0		fdfe8b393d7a71a2b5d698b08313a1b45dc8258b
 com.gitee.ts_ohos	fenster	1.0.0		N/A
 com.gitee.ts_ohos	fenster	1.0.1		N/A
 com.github.ngyewch.fjage-sim-sentuator	fjage-sim-sentuator	0.1.0		028fb9c85f614467aa234df23a25e3103f7f4e7f
@@ -1298,6 +1300,7 @@ dev.opensavvy.ktmongo	annotations-iossimulatorarm64	0.14.0		N/A
 dev.opensavvy.ktmongo	annotations-iossimulatorarm64	0.14.0	metadata	faa6032b47ca6bae2052415fe97f3ac441d15431
 dev.opensavvy.ktmongo	annotations-iossimulatorarm64	0.15.0		N/A
 dev.opensavvy.ktmongo	annotations-iossimulatorarm64	0.15.0	metadata	a65fd485692e36573fc6ef762cad8a972d1d544b
+dev.opensavvy.ktmongo	annotations-iossimulatorarm64	0.16.0	metadata	5e0d54cbe0756f9ed6567f66b3a087410e12aff2
 io.airlift.tpch	tpch	0.1		a476c8abef892cad31de810e10e4b835427b6262
 io.airlift.tpch	tpch	0.10		f157282464ac4df9aa85c96bd33ffd4454e1f1b5
 io.airlift.tpch	tpch	0.2		5865af24bee7e6bf15ab026a7c0f97d6bde56331
@@ -1605,6 +1608,7 @@ io.github.vinceglb	confettikit-iossimulatorarm64	0.2.0		N/A
 io.github.vinceglb	confettikit-iossimulatorarm64	0.2.0	metadata	aa4725a53ecd1e53f5e715f4dc75c8c92046c5e3
 io.github.vinceglb	confettikit-iossimulatorarm64	0.3.0		N/A
 io.github.vinceglb	confettikit-iossimulatorarm64	0.3.0	metadata	cc456c47d033908d07156bc6f1bab68bc3181ec5
+io.github.vinceglb	confettikit-iossimulatorarm64	0.4.0	metadata	793556c793a137e357cabddc27f8505ff2e4b5d1
 io.kontainers	scala-jsonapi_2.12	0.7.0		e9c713d9cb91bef322f9a5b41a0bd915eaecfc55
 io.kontainers	scala-jsonapi_2.12	0.8.0		5f53e3443d2a77649c09aa141be2d857ce9e3cf6
 io.kontainers	scala-jsonapi_2.12	0.9.0		0bd239183e5d0eaab05f250700694b71b61d40fe
@@ -1674,6 +1678,7 @@ io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.28		8b4be46a83fba24a329c6
 io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.29		7af23ff80e849295cc2503b8c428299def3dffcc
 io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.3		6e08b19824619ebb75ca9b1f6bf493b0b9bfd9e3
 io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.30		f26a76c577451d1bfbd420140c654c11438e1b62
+io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.31		ca07ae504d2e2a0b617ea915018674ef80811f69
 io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.4		ff563d54520605c2f35bd1f70325e5caf247d8a7
 io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.5		a8928636ae989386be8d7e67baa5ddb3841d03c2
 io.liftwizard	liftwizard-task-reladomo-clear-cache	2.1.6		a0c29236b91031fb7ffc83c3c6b528482715bd76
@@ -1718,6 +1723,7 @@ io.openharmony.tpc.thirdlib	ion-core	1.0.0		d255cce7cdde19c8af824fa0e610f1ec5589
 io.openharmony.tpc.thirdlib	ion-core	1.0.1		87b510500b5485d3481a517d279f065f6f1e0350
 io.openharmony.tpc.thirdlib	ion-core	1.0.3		cbf8f444c58bbf056de9ba456eb1454ac3cb4040
 io.openharmony.tpc.thirdlib	ion-core	1.0.4		e46478ccd09901809ef9c22d444fbd4617f91b11
+io.quarkus	quarkus-kafka-streams-dev	3.23.0.CR1		3b65183dbef053dbe33a68773c4dbea2d6fa9cbb
 io.rapidw.utils	rapidw-wheel-timer	0.0.1		50a7b435e3697b6f7874d88b372df9d01a0ddc08
 io.sentry	sentry-kotlin-multiplatform	0.0.1-alpha.1		33cbe267c02f44342f8e751a09d96dc4e33c297f
 io.sentry	sentry-kotlin-multiplatform	0.0.1-alpha.1	all	0f932c48bfab8cb96f94bc2ac1726cd7f37da2db
@@ -2083,6 +2089,17 @@ org.ops4j.pax.exam.samples	pax-exam-sample4-model	4.9.0		3e1684eda9816209140922e
 org.ops4j.pax.exam.samples	pax-exam-sample4-model	4.9.1		533fe5eef1314ca8a1939a88044e12b8371e7bf6
 org.ops4j.pax.exam.samples	pax-exam-sample4-model	4.9.2		f34a8d7aa6567d537dd9015b5f52b1a51f0de654
 org.riversun	random-forest-codegen	1.0.0		7fdce67f3393c70a92c7ca01af2d9d399c31bef8
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta31		e4199f3610d68aeff2198dd80d2ef6ef5d72eed5
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta32		48108d45492092edabee957f9826126bed7458c2
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta33		624d9a8045e331b3bae95a1a09384cbc06a83492
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta34		3f58f7c7a8d2c29922bdbdf4b9b8eec85a157293
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta35		d0b536025e61aeeb67605bf56236ff4adec01da4
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta36		e82b1655d27737fddcaff32a5308ddbee186bc8f
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta37		c19409fa763c3bdd846a65d3cfd80ca3cb184778
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta38		892a17e99c4c464c5390743c6d10eff5ca8f86a5
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta39		42b95068077ba3d3ae16b03cde3c73d83e9f9ebb
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta40		11f3781a0414c4f23a1f06760f30efe5ddbca2fd
+org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta41		e5d44bd234e8d694116ed289a3cad92e762d85aa
 org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta42		d3490b586df247c5fdeb951f3ef2530f3c47aada
 org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta43		f4f54b4ab4cc842df06bcd5b3cf7cb4bd8435169
 org.scalablytyped.converter	sbt-converter_2.12_1.0	1.0.0-beta44		f69672c089e20aee90c2af7b1bee0e5beda0e117

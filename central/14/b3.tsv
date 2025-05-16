@@ -10,6 +10,7 @@ cc.catalysts	cdoclet	2.1.2		0738d466a920d7702a41444e915272b45a33a2ea
 cc.catalysts	cdoclet	2.1.3		82a23f7c30cd1e360b88fba6272195df6c89a69f
 cc.catalysts	cdoclet	2.1.4		229ade10aa2a361b7ae04ea3ff08b6d388275180
 cc.catalysts	cdoclet	2.2.0		67da96c8328e0e3c658017d39e2ddcec83f7a9d9
+ch.sidorenko.scoverage	sbt-scoverage-scalajs_2.10_0.13	1.0.5-JS		52837840f8f89dcea55f82bce6a0b340bc467db6
 com.akeyless-security	akeyless-java-sdk	0.0.1		9f00f7c6fe1d213902779f40ff198ed1b3c57cdf
 com.akeyless-security	akeyless-java-sdk	0.0.10		792ba497b1faae2c4af76086197b80fd5fa33fb4
 com.akeyless-security	akeyless-java-sdk	0.0.2		29aae93497f344a6a12fd3835b9e90d978c00373
@@ -318,6 +319,8 @@ com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.63.0		74520aa096e05930bd3221a8af3062
 com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.63.1		9e32f9dafe480571f7d93eeb130b9777aa661e62
 com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.63.2		ded59421496e41d2136d55d028870dc96a8848c9
 com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.63.3		ee9770ea3f89f529ee0c050f7118e7829c6ebc1a
+com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.64.0		d1c8767a7c5e6dba8c94e1f88736e1ddaafa142d
+com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.65.0		af276932a4592774934367fd197d14a08e7e81b3
 com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.7.0		5cd4b2fe99b3abbdbd3d07bf8b4a0153b4e36eee
 com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.8.0		ebc371e6de54b193ce031776d84e962cbc0ec5db
 com.oracle.oci.sdk	oci-java-sdk-apmtraces	3.9.0		f2fe404a26077b62e5daa581c0f76afe1156e97c
@@ -420,6 +423,8 @@ com.steamstreet	awskt-lambda-logging	2.0.28		51fdb09b9d683cb7d490bead03da9d6eff0
 com.steamstreet	awskt-lambda-logging	2.0.29		0350de1398ff32caca8964e9c20a0aebcba10b62
 com.steamstreet	awskt-lambda-logging	2.0.3		e17e93f26afa946915142a446f23d0d9ed6708c9
 com.steamstreet	awskt-lambda-logging	2.0.30		d70c807956314b80d4599e86790f15ab8b8fb28a
+com.steamstreet	awskt-lambda-logging	2.0.31		9a39af6ebfd543ecb761bc8df839348b10703255
+com.steamstreet	awskt-lambda-logging	2.0.33		cea16fd542fb6ede9764b861f14bb03c5715e2a5
 com.steamstreet	awskt-lambda-logging	2.0.4		a83f529f625b6ad54fc2419e1dd8125f04a77dbe
 com.steamstreet	awskt-lambda-logging	2.0.5		792081f75e7262c620af8f577e0582ab8116aa05
 com.steamstreet	awskt-lambda-logging	2.0.6		452539b3efcf8b6ce921102212402fc9a77346d8
@@ -477,6 +482,10 @@ edu.gemini	lucuma-catalog_sjs1_3	0.123.0		a5d114c807ba75343e59c7d8c4999dbab26505
 edu.gemini	lucuma-catalog_sjs1_3	0.124.0		13ee7557ca0c4d0b5fd3841e5502a166ba6d6db7
 edu.gemini	lucuma-catalog_sjs1_3	0.125.0		40ccd4ab31826d6decd14c6d270b65e3e893dbf3
 edu.gemini	lucuma-catalog_sjs1_3	0.126.0		b874d98dd9c232d1b03f707339cb32cb391ecda3
+edu.gemini	lucuma-catalog_sjs1_3	0.127.0		79f5dae6abf1609ee5ee101f09c181338741bc72
+edu.gemini	lucuma-catalog_sjs1_3	0.127.1		bfc6492cac4a5c6cee592a4ec21bcd1fad3b03f1
+edu.gemini	lucuma-catalog_sjs1_3	0.128.0		811daf991bd84ec8a6f552ca2e764fcd52d0f123
+edu.gemini	lucuma-catalog_sjs1_3	0.129.0		5a3d367cd4179a07b932d47ed88a74c5c8d18072
 edu.gemini	lucuma-catalog_sjs1_3	0.26.0		5b954a38632e97009cd492d09bcd8c8c54b67e4f
 edu.gemini	lucuma-catalog_sjs1_3	0.27.0		c40e14d697a9c4d1991fad73f4033f410db7c05f
 edu.gemini	lucuma-catalog_sjs1_3	0.27.1		e53e4b838c0dcf2101850d3f4e576e21a44e922b
@@ -1404,10 +1413,17 @@ org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.80.0		518b9ae87d965d9ee2a423ca95b01d586691b26e
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.81.0		ca7a7b9035c71471bcc92deeae5cb0d306a464b2
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.82.0		e0125053799ac1311920e914612db494989de90f
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.82.1		f8a3449a13f3b793a5b23937f8d121a674973c99
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.83.0		1d9546aa849704f9f5bde895d7c713b0a1f34805
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.83.1		20ca4d07b1394ca075b2119c20098e8ce08b85a9
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.83.2		b474c802eb68e29a2c5f53802c37ea4f316fd032
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.83.3		0260d26d7a16ea95b42afc24edb9269ef1c93e82
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.84.0		c8bf14465b02b2a33716cc06e32371f33759a883
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.84.1		8d03fd11785372d4ead2098ed39f58ca5af02492
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.85.0		faea3afebf6ccfaf9d49afd67fe09dccf9f3029c
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.85.1		507fee07a3544179bf2349e65db083a1b8c29653
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.85.2		718bbf7a94f5e1c5c494e8e72280bcbebe6c20fb
+org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.85.3		2fd881fb06d146a39df3afad5650e4eb60434400
 org.finos.legend.engine	legend-engine-xt-persistence-component-relational-test	4.9.0		44e3935d13be8f4247192bba1a0a97cca8799b2c
 org.iworkz	genesis-vertx-mutiny-sql-jdbc	1.0.44		9a3afb95ccb7c628c4cda6f31036963fac293d73
 org.iworkz	genesis-vertx-mutiny-sql-jdbc	1.0.45		085c4d3dae397d2b4da3eb2a712d142737a395a0

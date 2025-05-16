@@ -277,6 +277,7 @@ com.agorapulse	micronaut-aws-sdk-dynamodb-benchmarks	3.3.8		4323841d772ca12c60cf
 com.agorapulse	micronaut-aws-sdk-dynamodb-benchmarks	3.3.9		937687d65b967f6775d43f628ebd4de4e3822091
 com.agorapulse	micronaut-aws-sdk-dynamodb-benchmarks	3.4.0		2748f58833d04c94998100f49cf65e8662689acd
 com.agorapulse	micronaut-aws-sdk-dynamodb-benchmarks	3.4.1		e32a6986817c72911bb97474ba8a77fadd018243
+com.agorapulse	micronaut-aws-sdk-dynamodb-benchmarks	3.4.2		bb545bf5f2f44d5dba335535d3cfa67a34ee7fb9
 com.badlogicgames.gdx	gdx-lwjgl3-glfw-awt-macos	1.11.0		853f6c26c55b6a509c04b3c0378cdfbb37fbb269
 com.badlogicgames.gdx	gdx-lwjgl3-glfw-awt-macos	1.12.0		50998867998f78f8ec824072348a98e46b7e0cd3
 com.badlogicgames.gdx	gdx-lwjgl3-glfw-awt-macos	1.12.1		618fd31d227fed4e11c0840802dad248bb2f615f
@@ -1364,6 +1365,7 @@ org.apache.shenyu	shenyu-web	2.6.0		939a502e59dd97fec860f0d7e277a15aa0ed3d06
 org.apache.shenyu	shenyu-web	2.6.1		56a5010556848a6f7fb179caf470f2aec80f0589
 org.apache.shenyu	shenyu-web	2.7.0		277cef45fd867306177dbbb8499fa96146ed278f
 org.apache.shenyu	shenyu-web	2.7.0.1		9b44b79789e3f9f41ccd83c788dd01189643f479
+org.apereo.cas.support.cas-server-support-saml-idp	5.0.0.RC2	support		184d1300cc524b00afbb88e68733015d5f51c4bf
 org.atnos	eff-error_3	7.0.0		a88c169f381b4ed69b9d415236582ef5c0af6618
 org.atnos	eff-error_3	7.0.1		f7bd57daee4d14ecf83e0b4473bf0019dda8d3cb
 org.atnos	eff-error_3	7.0.3		8f847a62dca01ffc1d654a9e1109f0a4fdb87c28
@@ -1396,6 +1398,8 @@ org.eclipse.jetty	jetty-maven	12.0.16		b968ee01b31991490c99915998984161709a935a
 org.eclipse.jetty	jetty-maven	12.0.17		1d74a5671add03a2864f00b5448a1b10f571f53c
 org.eclipse.jetty	jetty-maven	12.0.18		213805b7a9a886f14dfd67ebc154df5408208786
 org.eclipse.jetty	jetty-maven	12.0.19		387f5fbced31f6e3c4d321a68508110719dfdb85
+org.eclipse.jetty	jetty-maven	12.0.20		90a1a8328872eed5a47fbf98da5b756147d9f05a
+org.eclipse.jetty	jetty-maven	12.0.21		50bb8283524152b5e8df6c3a1e34facc8538ba14
 org.eclipse.jetty	jetty-maven	12.0.9		f866033ef3edd7b3ab45dfeddbc225077689c732
 org.eclipse.jetty	jetty-maven	12.1.0.alpha0		f7b855d34773c5fd849a1c17337da006ed0c20bd
 org.eclipse.jetty	jetty-maven	12.1.0.alpha1		5993b0348b4437f4d04f5d3fa1c9c44aa30cedb0
@@ -1688,10 +1692,17 @@ org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.8.0		886409593d4
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.80.0		4e7985907c1873668acc56b949fbd96f6220086c
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.81.0		bb92c8f7bd91c708740c4c04d86453000003126a
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.82.0		33a232795ecbf1ed419d027c24d3e7111d3a49f6
+org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.82.1		c9802c8038992ab8723c0fecceada74885da0254
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.83.0		ce043a2945bfe78b9409200714eb9042ff9dba8e
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.83.1		18c81a97894516095a48d7f7ec773c75827059b4
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.83.2		3e4654838c64bcabf5e6e6cde432cd701ffd7255
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.83.3		fc5545ebc346f6a04ea2d0986f8a2498a1ba90f1
+org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.84.0		2401c69e65efd0ddb9910f74093ef59f51cee78c
+org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.84.1		f55bd1f7bd322073c3cedf0eb4de6fcb2d6a53ae
+org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.85.0		52a84b92c43587fbed7d0d4a058cd130df971221
+org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.85.1		36afae20afafad967253ddad56aae8d393bd7e17
+org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.85.2		3f311a7a8bf4e89d58f90c4473e017d770fbb524
+org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.85.3		34b10f1effca873c80e8ca344400dea54fdbf9a6
 org.finos.legend.engine	legend-engine-pure-code-compiled-core	4.9.0		791d163a3a48355c1ef80c74839e1c0d6e29bc43
 org.mini2Dx	tilepacker-core	3.0.1		a558d8a67610790e3e9e604010cf2329a600379b
 org.mini2Dx	tilepacker-core	4.0.0		44e16f444347a4c0ffcb1437261220a1f408b997

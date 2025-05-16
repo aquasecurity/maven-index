@@ -387,6 +387,7 @@ com.hashicorp	cdktf-provider-cloudflare	12.0.0		96a669ac8b2051d80873cb675933643e
 com.hashicorp	cdktf-provider-cloudflare	12.1.0		75a680127289cf9f505c22fe520942e6b21188c6
 com.hashicorp	cdktf-provider-cloudflare	12.2.0		05d4404c96fc4a43bcf791ce7368cd7d884d1fe5
 com.hashicorp	cdktf-provider-cloudflare	12.3.0		9d9aa8b8bfb4bd230b60a06e3989397edfa51e64
+com.hashicorp	cdktf-provider-cloudflare	12.4.0		561518b990c408ea73a8e5ba85495e10093facea
 com.hashicorp	cdktf-provider-cloudflare	2.0.0		d01f8442c255fd80b8953597a83e70580cf2c026
 com.hashicorp	cdktf-provider-cloudflare	2.0.1		1dea2184cdaee257408ec331c3e305904ab2a9c6
 com.hashicorp	cdktf-provider-cloudflare	2.0.10		f9bf05805d0e03662552c9a466c4ea9419130345
@@ -939,6 +940,7 @@ io.github.kevincianfarini.monarch	core-tvosarm64	0.2.2		N/A
 io.github.kevincianfarini.monarch	core-tvosarm64	0.2.2	metadata	0da91ad7ed1d59cf39eecc8f1a492d3fc8dfb64d
 io.github.kevincianfarini.monarch	core-tvosarm64	0.2.3		N/A
 io.github.kevincianfarini.monarch	core-tvosarm64	0.2.3	metadata	2bc024a0157d7dd7213ebf35177076d36912ba7d
+io.github.kevincianfarini.monarch	core-tvosarm64	0.2.4	metadata	310d3493a1f6260ae1bc4db7bba2c612b47f8070
 io.github.leheyue	mybatis-plus-join-boot-starter	1.4.6		207819443ca20183ccbd1fd43ac18b7b121a4cd2
 io.github.leheyue	mybatis-plus-join-boot-starter	1.4.6.101		b5af4b3bcdf6e04b2188c7f338c6d88c8d8e4823
 io.github.llh4github	jimmer-helper-ksp	0.4.0		c81a557359556e4dcecc12922bfe4dad0b1297b2
@@ -1083,6 +1085,8 @@ io.jooby	jooby-run	3.5.5		2934c8e4cdfbbaffda04f29e2b82498262869757
 io.jooby	jooby-run	3.6.0		757dec876e2428ed2bb182d9621b87b1ca2f2876
 io.jooby	jooby-run	3.6.1		d987650345d57bf76bfb1b82d6d71bef09805fd0
 io.jooby	jooby-run	3.7.0		2a92df122a33c16632f6109ed628ad8b9bf5fa9b
+io.jooby	jooby-run	3.8.0		d8ca5dcc338037660bf1245055322e7851b68f0b
+io.jooby	jooby-run	3.8.1		7fb524d7dfea177f58bbaaac8bf675e0d50bd476
 io.komune.im	im-organization-domain-jvm	0.15.0		cd75b4f5f1bfedb2f57a12b6cac36e255def9724
 io.komune.im	im-organization-domain-jvm	0.16.3		9648589cfca3c227ac21a7f9f35206e250f42645
 io.komune.im	im-organization-domain-jvm	0.16.4		56ea2b92ab5aa2387bbe6dbfff50dfb72e293ce6
@@ -1312,6 +1316,15 @@ me.ahoo.wow	wow-query	5.12.1		ed7b9f0173a6ad4afab4fba41302ffd4d24d0c33
 me.ahoo.wow	wow-query	5.12.2		b59455423ccf701ff5ddd1549d272aa95ed952fc
 me.ahoo.wow	wow-query	5.12.3		8a1afe67b975a93e0978c2dbf3e1f57a6a799513
 me.ahoo.wow	wow-query	5.12.5		b392661c438604874a719687a7e6e4863ec89b39
+me.ahoo.wow	wow-query	5.12.6		bce9b675b4a238eddd59fcd7a6773020e2d95072
+me.ahoo.wow	wow-query	5.12.8		da3a66999be15d865acb90d17293abc0d6289f9f
+me.ahoo.wow	wow-query	5.12.9		50bda7d2ce747f1498b3e56e0b2ce668814d83b8
+me.ahoo.wow	wow-query	5.13.0		e86930295e919f3a198ee2aa3fbc87c309a4d46d
+me.ahoo.wow	wow-query	5.13.1		f4ee380ce1d190caed7e62feacc25428f8c3ff40
+me.ahoo.wow	wow-query	5.13.2		1f6434129df0ae88b10c2d35b121a7f14147e668
+me.ahoo.wow	wow-query	5.13.3		70a5229a9e9cdbed9a1ec10206180c600e82d0b8
+me.ahoo.wow	wow-query	5.13.5		773dd31d7793dc9293aa31ee121534828d56aa86
+me.ahoo.wow	wow-query	5.13.6		c4f943d60049a52a68fc3f4bfe2ee7eba34fc84e
 me.ahoo.wow	wow-query	5.2.0		092d3009d748ae62b6528ec49955d2c3b22434e1
 me.ahoo.wow	wow-query	5.2.1		21d7735f1c026aa2c69337b603b33197a2bae8e3
 me.ahoo.wow	wow-query	5.2.2		06364cacbb6ab3daaeb207a3d87a3110852ac95e
@@ -1646,6 +1659,7 @@ org.apache.camel	camel-support	4.8.3		d5561583d63ad58f1e045fc2b5c19c487113a38a
 org.apache.camel	camel-support	4.8.4		3d8f9e84a5ae02dcd9de747d8ede48ca4ae10ead
 org.apache.camel	camel-support	4.8.5		46c01f83d403bcd4cbb4dc962b73c3ebba00b59b
 org.apache.camel	camel-support	4.8.6		4fd6b67c2604f2dd3f0b499bb70ea50840f489b7
+org.apache.camel	camel-support	4.8.7		dfbe13e91e4415ffde82fc001c395166fe56f620
 org.apache.camel	camel-support	4.9.0		c73b5059e43d26b046fe977251ebb0161b8355d9
 org.apache.dubbo	dubbo-plugin-loom	3.3.0		bd2f3dc6174fa7deabcc8b9b778b8bd41deb9a3b
 org.apache.dubbo	dubbo-plugin-loom	3.3.0-beta.1		c212f043c22a173e29601f23814c0f59eb13066e
@@ -1671,6 +1685,7 @@ org.apache.streams	streams-provider-sysomos	0.5.1		547e69d5b425cc71ad4beb4369fc5
 org.apache.streams	streams-provider-sysomos	0.6.0		6f48f179ff6f87fd9edbe227b3775c9ace8a87db
 org.apache.streams	streams-provider-sysomos	0.6.1		dc064ce735b0fe70c13e6a0a9ec53926185423ab
 org.apache.streams	streams-provider-sysomos	0.7.0		3e9b530f160bfa50f235531a16ebc82fcab4db60
+org.apereo.cas.support.cas-server-support-cookie	5.0.0.RC2	support		5f3d8842342a79a1ca005448e5b75dde31301620
 org.codehaus.wadi	wadi-webapp	2.0		N/A
 org.codehaus.wadi	wadi-webapp	2.0-M10		N/A
 org.codehaus.wadi	wadi-webapp	2.0-M4		N/A

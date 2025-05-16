@@ -943,6 +943,7 @@ io.airlift	packaging	330		48571cf197137e3dc191f597237a54f6c8865ef1
 io.airlift	packaging	331		cafff2b6047a085258a6b79edef7e17367dc03a9
 io.airlift	packaging	332		b76a102a6cbbfdf26553b72de1d1c942a58b7100
 io.airlift	packaging	333		03e6747f3709a6eb85a2ee3b26f9dc4e6f125b78
+io.airlift	packaging	334		ce23bbb0044c0a2bd1fcc2c7eb8577277e33524b
 io.burkard	aws-cdk-scala-lightsail_3	0.1.2		e90d6de0ec64cd9ebf844549764e4ff78a6a70cb
 io.burkard	aws-cdk-scala-lightsail_3	0.1.3		de740ff9a942fb74563174018ece3d2825ece6d8
 io.burkard	aws-cdk-scala-lightsail_3	0.1.4		912896aad622be62e1940ba040c90cf5d4e3b598
@@ -1030,6 +1031,8 @@ io.gravitee.am.dataplane	gravitee-am-dataplane-jdbc	4.7.0-alpha.3		bbfe88bd30f4c
 io.gravitee.am.dataplane	gravitee-am-dataplane-jdbc	4.7.0-alpha.4		d6a725ee9b2842ef5087318bc88b950fd358e386
 io.gravitee.am.dataplane	gravitee-am-dataplane-jdbc	4.7.1		6675dbddee740b34c67fa04658d75e80fb52d1b9
 io.gravitee.am.dataplane	gravitee-am-dataplane-jdbc	4.7.2		8a22d7a32df12cb0b108bb0253bf6535da39e044
+io.gravitee.am.dataplane	gravitee-am-dataplane-jdbc	4.7.3		0e0b4eadbe510080f00ed8fbad4c486bb6076b56
+io.gravitee.am.dataplane	gravitee-am-dataplane-jdbc	4.7.4		0ffcc80563fa80ad2255bb639c665aa316419501
 io.inugami.monitoring	inugami_monitoring_springboot_activemq	2.3.0		26a0dcff6aa86538847762c362bf13a97c3ccea7
 io.inugami.monitoring	inugami_monitoring_springboot_activemq	3.0.0		0c8f455fd1d2724a4463c1e08562aa5077e489ea
 io.inugami.monitoring	inugami_monitoring_springboot_activemq	3.1.0		8bacca4ef1fa3c6123a86202714cf24f3ea3e568
@@ -1393,6 +1396,7 @@ io.quarkus	quarkus-kubernetes-spi	3.15.2		d6c492de8a3201cbbc033d6c31ece9b4a9d747
 io.quarkus	quarkus-kubernetes-spi	3.15.3		8fe9ef171be4499d70818b7f32aed2ee731a7774
 io.quarkus	quarkus-kubernetes-spi	3.15.3.1		941d995b6e46b9096a52e14123056db4f921ba16
 io.quarkus	quarkus-kubernetes-spi	3.15.4		465a64bf40fedba9429470730638c147f077276a
+io.quarkus	quarkus-kubernetes-spi	3.15.5		dc56e80a62d51d637b19d52eca8cea2f02276b25
 io.quarkus	quarkus-kubernetes-spi	3.16.0		33ee91dd6b039200cdf88200c27a7e2a689845a3
 io.quarkus	quarkus-kubernetes-spi	3.16.0.CR1		4c0723450558c823b5c2e5d13ca92d45d0b5765d
 io.quarkus	quarkus-kubernetes-spi	3.16.1		010a45a82fb933dd9ad175177b837084bc2b1655
@@ -1437,6 +1441,7 @@ io.quarkus	quarkus-kubernetes-spi	3.2.8.Final		7eac027d3271dd434904c067995b79ba1
 io.quarkus	quarkus-kubernetes-spi	3.2.9.Final		1d6721aca023bf8f9d4dadc0d10ace2382f3e81b
 io.quarkus	quarkus-kubernetes-spi	3.20.0		2881ffd1a8b739d9ac7e3a1bc0d0d4699a7a33e1
 io.quarkus	quarkus-kubernetes-spi	3.20.0.CR1		c676d534e65f9b4574609fd603c4a54b14d40577
+io.quarkus	quarkus-kubernetes-spi	3.20.1		68cd349e77694765fc75606f28fafa3c05196b90
 io.quarkus	quarkus-kubernetes-spi	3.21.0		115725dafe1619b42894f44eeff64ae6d2c5bc2c
 io.quarkus	quarkus-kubernetes-spi	3.21.0.CR1		afcf64e6753103eb19b7aa9a656d2044c13591bd
 io.quarkus	quarkus-kubernetes-spi	3.21.1		d8aaffc5d9cc78b77cbe70fe74c4f3c0fe3ffe8d
@@ -1446,6 +1451,9 @@ io.quarkus	quarkus-kubernetes-spi	3.21.4		dad96c077f10bc67b383a27a895b45974f5187
 io.quarkus	quarkus-kubernetes-spi	3.22.0		3fa1b59f0282da4b7196be99a7e25c944292b61d
 io.quarkus	quarkus-kubernetes-spi	3.22.0.CR1		2f100a6e8d3fcafe4fac865d51e335013c1aad65
 io.quarkus	quarkus-kubernetes-spi	3.22.1		0823ce299eaef2f0f334f193fcab995cdf6d792e
+io.quarkus	quarkus-kubernetes-spi	3.22.2		229c64a75aa272c9352d1622f9ce123f822edee4
+io.quarkus	quarkus-kubernetes-spi	3.22.3		b0c15ca7f92beaf0d9344dad5a404a9ec2749599
+io.quarkus	quarkus-kubernetes-spi	3.23.0.CR1		f49d3429f5462daa0e02df46e4812e031645869b
 io.quarkus	quarkus-kubernetes-spi	3.3.0		5e15ddbb967cbfd1f84612923e93e8e81a358282
 io.quarkus	quarkus-kubernetes-spi	3.3.0.CR1		39d47884a39a06e85a277928bdd217a90ea70ede
 io.quarkus	quarkus-kubernetes-spi	3.3.1		d98d240d731459545145a5cb053acf361f99cb26
@@ -1696,6 +1704,7 @@ io.quarkus	quarkus-mongodb-panache-kotlin	3.15.2		852e4c6899ff20695a20cadba7e8c0
 io.quarkus	quarkus-mongodb-panache-kotlin	3.15.3		56c837926a983756627af45ff6bee6ec2e1c082e
 io.quarkus	quarkus-mongodb-panache-kotlin	3.15.3.1		da4a2fb8a7e9e3f007048419df29ea33497dc677
 io.quarkus	quarkus-mongodb-panache-kotlin	3.15.4		d2d9c9220e96b993784a52977a38e1e04d53316b
+io.quarkus	quarkus-mongodb-panache-kotlin	3.15.5		c40166f7816218b83ae58892cb2767a5925df94c
 io.quarkus	quarkus-mongodb-panache-kotlin	3.16.0		8ce4748f0c0a5f93a391aab66d935153966c2618
 io.quarkus	quarkus-mongodb-panache-kotlin	3.16.0.CR1		87b5fe4e9fabb39a5c28cdacf6e824a1cc43a9c2
 io.quarkus	quarkus-mongodb-panache-kotlin	3.16.1		26560a6d2ca6a885491341d0e40117a8df176874
@@ -1740,6 +1749,7 @@ io.quarkus	quarkus-mongodb-panache-kotlin	3.2.8.Final		c6c9ab5e21b9ed32633e6aba6
 io.quarkus	quarkus-mongodb-panache-kotlin	3.2.9.Final		4d5bd0e105c5978561fc716216a9d498680ab0e3
 io.quarkus	quarkus-mongodb-panache-kotlin	3.20.0		2338ab6d13d58dcc4be5405dc1854fa5afb0b164
 io.quarkus	quarkus-mongodb-panache-kotlin	3.20.0.CR1		3fef1cfb32818ba17040e0a62503eaa765c3be77
+io.quarkus	quarkus-mongodb-panache-kotlin	3.20.1		7d3358505dec2204153793840333a4565e98c6bf
 io.quarkus	quarkus-mongodb-panache-kotlin	3.21.0		75849c8d5b20474451a7cc558da063a4acc66710
 io.quarkus	quarkus-mongodb-panache-kotlin	3.21.0.CR1		7066b963bf3b0f00024dfdee9442b4761fb9af28
 io.quarkus	quarkus-mongodb-panache-kotlin	3.21.1		229c73753de3c1987d010dd0ea8c712aa28ef6d2
@@ -1749,6 +1759,9 @@ io.quarkus	quarkus-mongodb-panache-kotlin	3.21.4		b791a613df869433c41fba09e52f0b
 io.quarkus	quarkus-mongodb-panache-kotlin	3.22.0		fa67be9da926b54a36752e3fd47a6ea516253fe0
 io.quarkus	quarkus-mongodb-panache-kotlin	3.22.0.CR1		669f00c171aea25a7f3aae708e6207e5c33131df
 io.quarkus	quarkus-mongodb-panache-kotlin	3.22.1		038876ac1610f4359268b78283d96103afcce8e0
+io.quarkus	quarkus-mongodb-panache-kotlin	3.22.2		85b1810e0137ca9faa12b78272bcfe952e844b01
+io.quarkus	quarkus-mongodb-panache-kotlin	3.22.3		8542c8d8d54a592a3e6603f5f3dbe12ca03c4aab
+io.quarkus	quarkus-mongodb-panache-kotlin	3.23.0.CR1		a282144bd57bca564a3b296bb7ed89d07479ce3c
 io.quarkus	quarkus-mongodb-panache-kotlin	3.3.0		5a211c0a7f2b2a2314530e52381d44b1adf20e47
 io.quarkus	quarkus-mongodb-panache-kotlin	3.3.0.CR1		a40e7bcdaa0991332db6e46cd5fbf55f2f627a7b
 io.quarkus	quarkus-mongodb-panache-kotlin	3.3.1		c9ef5f7dbbd9ca24c9662f2cff7a7b59196d5996
@@ -2131,6 +2144,8 @@ it.unibo.alchemist	alchemist-incarnation-sapere	42.0.7		8b8b8ce719a232a6a960c3d1
 it.unibo.alchemist	alchemist-incarnation-sapere	42.0.8		b6765195198650dd6194981c921b7405a8886173
 it.unibo.alchemist	alchemist-incarnation-sapere	42.0.9		f13cf27e5dbdc5ef9f43b37a936d9b16a65ed27c
 it.unibo.alchemist	alchemist-incarnation-sapere	42.1.0		c16befad02c6c972a006b7bea08bc150e00cd233
+it.unibo.alchemist	alchemist-incarnation-sapere	42.1.1		14f521edf359dc4ebae2e9f9f6a93e04a3d4c06e
+it.unibo.alchemist	alchemist-incarnation-sapere	42.2.0		16c722f24563f5564dfb0c14dbb5f7bc8e07ca75
 it.unibo.alchemist	alchemist-incarnation-sapere	5.0.0		c111b2a08122f6fe43aaa4284809596553778c6b
 it.unibo.alchemist	alchemist-incarnation-sapere	5.1.0		865212cf01c39ff2a7b0435db4e299983ad2fe62
 it.unibo.alchemist	alchemist-incarnation-sapere	5.1.1		745bdd1de395adaa61251918465aa9dd0ced8921
@@ -2670,6 +2685,7 @@ org.anyline	anyline-data-jdbc-oracle	8.7.2-20250312		1744a81adc17b181f3790381b56
 org.anyline	anyline-data-jdbc-oracle	8.7.2-20250401		e09a2bad2093d6a55402f648bf4eba95381dc309
 org.anyline	anyline-data-jdbc-oracle	8.7.2-20250404		c0c76d235c5c5c280ec4cbfd0f3cf54680d6968e
 org.anyline	anyline-data-jdbc-oracle	8.7.2-20250502		099c12a35beeb5ebbb5976ded059cc16f5f76cdc
+org.anyline	anyline-data-jdbc-oracle	8.7.2-20250509		46f69bcf029f370dd6dc624f4921caa86a6fe569
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20240816		95a31c745a2aef9ef40107d2a66c872424d0ebec
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20240819		a4b43a3e34824ee76bedf10cb1bd44a6c85121eb
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20240826		bf49c5ab80da9b31c832205ec45bceb3f8c0918a
@@ -2687,6 +2703,9 @@ org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20250108		bf9cfda92105e837c6180
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20250212		254dee6d8b0aaa0f00bd94ab14acf85d0047807c
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20250312		f17867d278f4a902e9daa46360c0469444205e45
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20250404		f119d0af3db3eb317db304abede13daf25cad5ae
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20250502		947739df225b234442ddc6f4ccd971297dbf5ba3
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20250509		7539c990d2b6a714e318ec5d39dbdff699f57dc4
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk11-20250515		0c66b3258e6f54abb7aeac30770e7dd3b9691f7e
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20240501		0f9b8a3ad12a6b184341167ceea984c05c8cd31d
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20240505		df6fdaeda47b00a7faf8a5e008b0c4a81f26f564
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20240506		639930ba022a2e43715a2ee6e296a92831c848d3
@@ -2760,6 +2779,9 @@ org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20250109		4791cad31a82eb6aa79e3
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20250212		63cf092775b9680d1fed444284fd475697808179
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20250312		ebcb9a00357155a8a869396059a3ca4f671b257f
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20250404		845222c5e989fa904708ea4e3483413462949b9e
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20250502		fb9f26c18fd227b0a6a10beae742f8455f80da97
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20250509		68076a610ece35856a4a6ad74a1066134aea652f
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk17-20250515		0383c204e941d8a8699a98849b7be8146beb3f6d
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20240501		916d8196fc22c7e508151fda8ba21484a529d9dd
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20240505		0e5887626470ecc6b52d9b129b572f13d68a2586
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20240506		9c0a658a757a015c76c2c8c5c598eeb67488ed99
@@ -2841,6 +2863,8 @@ org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20250109		945590abbb5846c81225f
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20250212		85e0dc4b42e3d8a2d6ffa8190274f3b094dc6dd3
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20250312		76a3df16e479b26b53cef97485c753da031bcce6
 org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20250404		8a1e294c5e0174b0fe88675e7d737565b1181cb3
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20250502		f64dec1613edf9d7a978dcd851f3888a986e3fee
+org.anyline	anyline-data-jdbc-oracle	8.7.2-jdk21-20250509		2f8d253ef0b6a7cf94c6064bf6f41907f99eba64
 org.apache.camel	camel-gora-starter	2.18.0		749354372e0215f2692cb4fa01a3ba7dddaec7d0
 org.apache.camel	camel-gora-starter	2.18.1		d322166c29b6f135b57c1062477dda809cb63d9c
 org.apache.camel	camel-gora-starter	2.18.2		7d2c520b2d48d2592a139180cde2954ff0f09254
@@ -3560,6 +3584,8 @@ org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	55.3.0		1ed52
 org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	56.0.0		4f6b9c8bbd4036083c05baab5f1d7ed9c05e3428
 org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	56.1.0		1102c79038853b16cfca3c5c6b29a27f916e7e25
 org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	57.0.0		b8f8491b052ab7a444323653388d9645c7649a9b
+org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	58.0.0		7c2e9d55b5597a3ae1c92828601609a3ed495914
+org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	58.0.1		6a6ad30f513e5fcf06358879c02e2bb2d62e2141
 org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	6.0.0		e5bef6ef23ae1d53d8b00c670975c525b3770592
 org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	6.1.0		f636f2138b5ea1815556e8dfff877ce44915f007
 org.ossreviewtoolkit.plugins.packagemanagers	stack-package-manager	6.1.1		19a059b19e2e55a9a0dd8b1f7522ce602dc3150b

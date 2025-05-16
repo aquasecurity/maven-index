@@ -787,7 +787,15 @@ com.easy-query	sql-mssql	2.8.13		77ec342c8adf3fb7d29692b223906ea236325b01
 com.easy-query	sql-mssql	2.8.14		2b69c2a97a28a67255e8c66ba8c7b95e9dfd70d9
 com.easy-query	sql-mssql	2.8.16		2827b16a706a17e2578356b8792b28db86ed36ea
 com.easy-query	sql-mssql	2.8.17		9a8123e5db5ba5a8a8addb92d66e17f430866424
+com.easy-query	sql-mssql	2.8.18		be1dfa5d2a55a2cb87d14c96d8a9e16afde96e6c
+com.easy-query	sql-mssql	2.8.19		61b36512543850df4911d80e021103d3038d0da3
 com.easy-query	sql-mssql	2.8.2		31b2bfa8e2480ed0db7a98c32f74a593b6e5b08d
+com.easy-query	sql-mssql	2.8.20		8ec83d9c3c66591a95d9d09267ab015ce527dcdc
+com.easy-query	sql-mssql	2.8.21		51edd0fbfa04999119d81d1fd9786b05d4ee2a9f
+com.easy-query	sql-mssql	2.8.22		a5b838fc7cddfdbd9fc57da6a8fd6feb2f82dd50
+com.easy-query	sql-mssql	2.8.23		999a42ca88bd286685ab2b11b5b656904ba0a99b
+com.easy-query	sql-mssql	2.8.24		28f03648d4fb3a80652c4de7cef2478266a8a5d8
+com.easy-query	sql-mssql	2.8.25		1982f0a22610bb41c42d2bae39c7fb852f2188db
 com.easy-query	sql-mssql	2.8.3		5d4746ce978462cdd6bd7fa591ea209dbeaf08c6
 com.easy-query	sql-mssql	2.8.4		905095565cc80bd50ee373b82a82246f23017502
 com.easy-query	sql-mssql	2.8.5		f801dcd8171b85304b181789931faaa804755351
@@ -842,6 +850,8 @@ com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.22.0		674c761dbe6bc79
 com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.23.0		ad1db319b7b69effc3e3c253a8c32a938b57f035
 com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.24.0		3ccb424d6ccc5134ca6465eb592e5f9b039d5659
 com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.25.0		6ddcb3377f55d0c33f7a71814b841e73dc410962
+com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.26.0		5d1ea4b3507ef7a080feb59d9ce6adb94f73afb8
+com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.27.0		51b653b35b8fd34f8ce3bc92321a6b67369d5049
 com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.3.0		f513bd743f2220aac0b0f8cc0b6a87f1b24745a5
 com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.4.0		015a36a89d7d6b650a66ef2a7b3e0326b7984f8b
 com.google.api.grpc	grpc-google-cloud-workspaceevents-v1	0.5.0		d2333bf58e2302503b346f2d975e02cffa882d0b
@@ -1161,6 +1171,7 @@ io.camunda	zeebe-protocol-test-util	8.4.15		6179bfd28d19a0cc4a937c4fd013437e3456
 io.camunda	zeebe-protocol-test-util	8.4.16		435f561730bffe7662d921125d76a3bb61e3f519
 io.camunda	zeebe-protocol-test-util	8.4.17		e97265872a3042d6a4e415bcd9d2217527eb1b63
 io.camunda	zeebe-protocol-test-util	8.4.18		fa852ec97a786dda500bfa4816dfe8a637dff34a
+io.camunda	zeebe-protocol-test-util	8.4.19		df6826a0316fbaa68f1b011c47338bec6831b527
 io.camunda	zeebe-protocol-test-util	8.4.2		987d4b192064d8c4293efbb8a51df9f1acfce165
 io.camunda	zeebe-protocol-test-util	8.4.3		8f13aed30b8d28f4d6b3959f501e423d83b88060
 io.camunda	zeebe-protocol-test-util	8.4.4		cfc1d7ff164ab0f097f927ee439ec07ded995385
@@ -1183,6 +1194,7 @@ io.camunda	zeebe-protocol-test-util	8.5.14		e6d1ee50b1e6fec446da13a8a4a85f155fb0
 io.camunda	zeebe-protocol-test-util	8.5.15		72578944484dcf5245b1e3a5f195ac9689de68f9
 io.camunda	zeebe-protocol-test-util	8.5.16		9b05159ac04eff11177f9075131f600faa80256e
 io.camunda	zeebe-protocol-test-util	8.5.17		baaa95bf7ea8a31d09ca1d86d73610374da0aa88
+io.camunda	zeebe-protocol-test-util	8.5.18		21964280a0c76f4adc8f440494312ab7f7e2c2c8
 io.camunda	zeebe-protocol-test-util	8.5.2		917908cde0dcebaa0bd91888661a37df15bcba2f
 io.camunda	zeebe-protocol-test-util	8.5.3		4894db028ac5de754fcdd4e394b8e8e5c6b9a5e9
 io.camunda	zeebe-protocol-test-util	8.5.4		9cc6b9e726e0ba8776dce59ad63bc10ccf1fd924
@@ -1220,6 +1232,8 @@ io.camunda	zeebe-protocol-test-util	8.6.12-rc1		615f56bba65831ff8323ce1f34d71406
 io.camunda	zeebe-protocol-test-util	8.6.13		b623f8e48cd6093e2c72b573d53bb5e6826580cd
 io.camunda	zeebe-protocol-test-util	8.6.14		4a8987c4fbc0a0be05292b3612e0516e46c252f0
 io.camunda	zeebe-protocol-test-util	8.6.14-rc1		731179cda963ef56b50f9da6d394e3fd239b8457
+io.camunda	zeebe-protocol-test-util	8.6.15		f2893397e8e55c2cba22558e34bb2f7253a7c931
+io.camunda	zeebe-protocol-test-util	8.6.15-rc1		4dc440b96aee896c0e3599ff00fecd1746b9189c
 io.camunda	zeebe-protocol-test-util	8.6.2		263f7314995eb58491cc6ac96cc46f3451095546
 io.camunda	zeebe-protocol-test-util	8.6.3		5f26f9b25ea1965907ca961025cc294374c71bff
 io.camunda	zeebe-protocol-test-util	8.6.4		36252a220c8a1e176dcbbf81ce37b835561c3004
@@ -1255,12 +1269,15 @@ io.camunda	zeebe-protocol-test-util	8.7.0-alpha5-rc1		0d783e9e5000d3516992b9cfc6
 io.camunda	zeebe-protocol-test-util	8.7.0-rc3		fbc4a5e85c0400653cbb22a9000732fb3a4255cc
 io.camunda	zeebe-protocol-test-util	8.7.1		cf602ba2895fb747a086b8ec35cff2c558affa06
 io.camunda	zeebe-protocol-test-util	8.7.1-rc1		040433eb4d4534574846645c049ba0e5e81e3c1c
+io.camunda	zeebe-protocol-test-util	8.7.2		231b4de1bb83d0b7b357018dd548249b7da7d519
+io.camunda	zeebe-protocol-test-util	8.7.2-rc1		761e561533e122c2f4bea5fbb299a0a6794e6096
 io.camunda	zeebe-protocol-test-util	8.8.0-alpha1		f1690c7b9a280891f14f321882703b5e3be2ce75
 io.camunda	zeebe-protocol-test-util	8.8.0-alpha1-rc1		70a041e34c453e4090e7f18d72b6b19419c6555f
 io.camunda	zeebe-protocol-test-util	8.8.0-alpha2		3d4337c400c6feb388a320febcc5b7d6bb769f8c
 io.camunda	zeebe-protocol-test-util	8.8.0-alpha2-rc1		6d9517c2f6e16371459e6518afedbf7039a8a7eb
 io.camunda	zeebe-protocol-test-util	8.8.0-alpha3		7f15276b875afe1c4e7b02528ccd915f1b001b10
 io.camunda	zeebe-protocol-test-util	8.8.0-alpha3-rc3		d9f97a4f2d38239e95ed87e43827106892563d22
+io.camunda	zeebe-protocol-test-util	8.8.0-alpha4		e261fe420cd18c2c6fcc03cdf0dd562fc08b5587
 io.camunda	zeebe-protocol-test-util	8.8.0-alpha4-rc1		dc9f527383de60b75d448cf89db142c2b8559f1f
 io.gitee.zxing2021	orm	1.0		91176faa9c1072794ea51d0c5b5e189257c2c08c
 io.github.callcontrol	datashare	1.3.0		N/A
@@ -1381,6 +1398,7 @@ io.streamnative.pulsar.handlers	integration-tests	3.3.5.2		3a77af38a45479ba968eb
 io.streamnative.pulsar.handlers	integration-tests	3.3.5.3		772e0656ae556b724c33079bb1535f58b56e0172
 io.streamnative.pulsar.handlers	integration-tests	3.3.5.4		1c797f67d11ec98d433f27852c53610a1283abe5
 io.streamnative.pulsar.handlers	integration-tests	3.3.5.5		b323c28939fdcc6c704dbd4f053a42203c44bbdb
+io.streamnative.pulsar.handlers	integration-tests	3.3.5.6		3c02047ba1c0bdffd59b1ef707f03fe15ee4145e
 io.streamnative.pulsar.handlers	integration-tests	4.0.0.10		993e2b87d6653a19bf216c4718ce87653a2a153e
 io.streamnative.pulsar.handlers	integration-tests	4.0.0.5		d0ed20eedaacb21c71bd1cc8d4fed0f2584cbf70
 io.streamnative.pulsar.handlers	integration-tests	4.0.0.6		bc0061bef41e205ff9a571bb91630b6bb14d2fdf
@@ -1394,6 +1412,7 @@ io.streamnative.pulsar.handlers	integration-tests	4.0.1.4		ceaca308c75381ca832ca
 io.streamnative.pulsar.handlers	integration-tests	4.0.3.1		a649a9ce3a201a2f89f75ab17a13f36f11de1365
 io.streamnative.pulsar.handlers	integration-tests	4.0.3.2		1f89322bd9384e75f08047455d8858aad38ce2ec
 io.streamnative.pulsar.handlers	integration-tests	4.0.4.1		a20a184f49ca089b7914d61e42dd46478d7e9c3d
+io.streamnative.pulsar.handlers	integration-tests	4.0.4.2		d90356b30a5abf0b8c40c0afd77790d5e6912887
 io.udash	udash-core-frontend_sjs0.6_2.11	0.1.0		2d2d1bd6be8b199d2963fbc5d0e90e8f8b123dae
 io.udash	udash-core-frontend_sjs0.6_2.11	0.1.1		ca3b831ea75f1bf9215d45be453bda02f9b0ed4e
 io.udash	udash-core-frontend_sjs0.6_2.11	0.2.0		d3f87f49e8e10bc42afeed7f6f3f386610122246
@@ -1500,6 +1519,7 @@ org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.2.1		5587a8
 org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.2.2		3ea8983c0e6d308e44122c79000f15ae0b19f041
 org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.2.3		a20ddfe70e126a6357a8ea8a6d91ea123cf3de18
 org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.20.0		2953fce848254ffd4f8d98594fc7bdd5dc5f3ab5
+org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.20.1		601ca9246a44ef6d19061ffc7a598592b57d2059
 org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.22.0		b9de08eb8c6e1f6c0df532b106a4d6220d87eabf
 org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.4.0		412e41414c0c1b7c44fdb051810803c1f71ca1f9
 org.apache.camel.quarkus	camel-quarkus-knative-producer-deployment	3.5.0		3106c1a2a1832e5b73b4c503118b937e9155b335
@@ -1922,6 +1942,7 @@ org.kill-bill.commons	killbill-embeddeddb-h2	0.26.2		f367b760500ea2bd2593fb5fdfc
 org.kill-bill.commons	killbill-embeddeddb-h2	0.26.3		3778d0b8ae6282d9698372615e6475fff119d056
 org.kill-bill.commons	killbill-embeddeddb-h2	0.26.4		3ba465bd8554ef10837807bffd2988a69b3a32ec
 org.kill-bill.commons	killbill-embeddeddb-h2	0.26.5		4d96420b6db0e254aa877a66f4ef54637c240728
+org.kill-bill.commons	killbill-embeddeddb-h2	0.26.6		2ec0b06559d5f460f64dd921cbf8579ad075217f
 org.kill-bill.commons	killbill-embeddeddb-h2	0.3		34cda60d2d71a62922090120d01b3b38efbb0a3f
 org.kill-bill.commons	killbill-embeddeddb-h2	0.4		59f69175eae25bbefd6179f5f6d53f95be0ddecb
 org.kill-bill.commons	killbill-embeddeddb-h2	0.5		10eb5ef3f921cb4490dc495419f7c5eac9dbd065

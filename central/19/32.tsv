@@ -118,6 +118,8 @@ com.google.apis	google-api-services-merchantapi	accounts_v1beta-rev20250421-2.0.
 com.google.apis	google-api-services-merchantapi	accounts_v1beta-rev20250422-2.0.0		a81824ac7a5d0acf54bf4c49899dd690b4de8a22
 com.google.apis	google-api-services-merchantapi	accounts_v1beta-rev20250427-2.0.0		6ab677d9942a53861a04c3c203d10b80fe44eae7
 com.google.apis	google-api-services-merchantapi	accounts_v1beta-rev20250430-2.0.0		98238529b2212adbfe2c53c08e404b464e9cc5b9
+com.google.apis	google-api-services-merchantapi	accounts_v1beta-rev20250505-2.0.0		90ecf3373625e6f7306bcd73a103ef50cb8b7335
+com.google.apis	google-api-services-merchantapi	accounts_v1beta-rev20250507-2.0.0		8c1aacefd0a53cf913e2010c1f37e3a2b913b8d4
 com.google.apis	google-api-services-merchantapi	conversions_v1beta-rev20240611-2.0.0		04ab44fa056afd3d706130778f2e3f0f7911f42d
 com.google.apis	google-api-services-merchantapi	conversions_v1beta-rev20240827-2.0.0		63f974c23889a54509d879ac86acd4a2e0630cdc
 com.google.apis	google-api-services-merchantapi	conversions_v1beta-rev20241001-2.0.0		b765c4be657bdee4b06a133c1eec694c7690b3e0
@@ -143,6 +145,7 @@ com.google.apis	google-api-services-merchantapi	datasources_v1beta-rev20250301-2
 com.google.apis	google-api-services-merchantapi	datasources_v1beta-rev20250416-2.0.0		5d2e078aef816982254e53d3c87fd4dce676f955
 com.google.apis	google-api-services-merchantapi	datasources_v1beta-rev20250427-2.0.0		7c3e30096beeac57ec62d57762e68df6e52e7817
 com.google.apis	google-api-services-merchantapi	datasources_v1beta-rev20250430-2.0.0		0ba11b92082de34fae88e9f8e4b27d516cdda8b9
+com.google.apis	google-api-services-merchantapi	datasources_v1beta-rev20250507-2.0.0		d0f1e7a91c4c5d524df74363b42ee191f66caad8
 com.google.apis	google-api-services-merchantapi	inventories_v1beta-rev20240611-2.0.0		82bf085025ba59ebd21878f72da93a70d51f5a81
 com.google.apis	google-api-services-merchantapi	inventories_v1beta-rev20240827-2.0.0		8a29d5c76eaec75ff840ba2b8469d8e36c52505e
 com.google.apis	google-api-services-merchantapi	inventories_v1beta-rev20241022-2.0.0		bbff16207d5b3c1324789158df3c8bb4774acb39
@@ -153,6 +156,7 @@ com.google.apis	google-api-services-merchantapi	inventories_v1beta-rev20250203-2
 com.google.apis	google-api-services-merchantapi	inventories_v1beta-rev20250219-2.0.0		5d0ec65c11e2aa2e458f35b5caaccb048b3622aa
 com.google.apis	google-api-services-merchantapi	inventories_v1beta-rev20250301-2.0.0		242b7c8783b6a65f23cf6d237d35e25c56c8ea13
 com.google.apis	google-api-services-merchantapi	inventories_v1beta-rev20250412-2.0.0		e11994be1d27198a1f3a567791dfc7df07f8a597
+com.google.apis	google-api-services-merchantapi	issueresolution_v1beta-rev20250505-2.0.0		c635e4734cbb7172697b295daedc616bdad0715f
 com.google.apis	google-api-services-merchantapi	lfp_v1beta-rev20240611-2.0.0		02aa67480c653c3d718a45a79e612a46d95ae310
 com.google.apis	google-api-services-merchantapi	lfp_v1beta-rev20240827-2.0.0		f9884ad1e799fe9b8017dc10fc903ed0444e1112
 com.google.apis	google-api-services-merchantapi	lfp_v1beta-rev20241023-2.0.0		5ddf01fb960889c4e0b94a403ae5ccc5079e13a6
@@ -173,6 +177,7 @@ com.google.apis	google-api-services-merchantapi	notifications_v1beta-rev20250203
 com.google.apis	google-api-services-merchantapi	notifications_v1beta-rev20250219-2.0.0		a7e1570f425fad21f4942143f57723487bbe683f
 com.google.apis	google-api-services-merchantapi	notifications_v1beta-rev20250301-2.0.0		c9c3bb0a75d23144a9b84d3e9fe3917b65014ea0
 com.google.apis	google-api-services-merchantapi	notifications_v1beta-rev20250311-2.0.0		7f295ea15bfadd753f512de35c4c477c4627ebcd
+com.google.apis	google-api-services-merchantapi	ordertracking_v1beta-rev20250505-2.0.0		b5e09ddbc531bdee249f0d4381ed923a117791f4
 com.google.apis	google-api-services-merchantapi	products_v1beta-rev20240611-2.0.0		f5bb962a98c8dfccb9b24a00d105b3dc8f8c6aec
 com.google.apis	google-api-services-merchantapi	products_v1beta-rev20240719-2.0.0		7996fccb5db8e2aa4c014b9a04151dbe0cf741cf
 com.google.apis	google-api-services-merchantapi	products_v1beta-rev20240827-2.0.0		437a90364c453b3841e8578b6953db91d8674ae4
@@ -1537,7 +1542,11 @@ io.quarkus	quarkus-picocli-parent	3.9.4		N/A
 io.quarkus	quarkus-picocli-parent	3.9.5		N/A
 io.spinnaker.kork	kork-core	2025.0-0		488ebe83cf095b657d28102aa14b64d72b90bfc4
 io.spinnaker.kork	kork-core	2025.0-1		cab44b0f0c8441e321b87187b90f7567137ab7c4
+io.spinnaker.kork	kork-core	2025.0-2		e317f0cf2d62f0a2f5908ea1c920c12b93d624a4
+io.spinnaker.kork	kork-core	2025.0-3		e57deae81f90a787313e5ccf3025d456a20e5b40
+io.spinnaker.kork	kork-core	2025.0-4		993335d286d340dd1415a4ce9603a9c306f75053
 io.spinnaker.kork	kork-core	2025.0.0		d6b895ae0276d38e3fe84abc559b3731701322dc
+io.spinnaker.kork	kork-core	2025.0.1		7dbd248a10264509ddc6f5c11814fdabb5a2fd6c
 io.spinnaker.kork	kork-core	7.105.0		92d5169dce8da3c90b0ff2021758be985cd0ae2f
 io.spinnaker.kork	kork-core	7.107.0		33b0b4ea407e14dc41b8a79348b447c4dd93a366
 io.spinnaker.kork	kork-core	7.108.0		21d8eac94728e5113163106301a534b9f63928ca
@@ -1717,10 +1726,14 @@ io.spinnaker.kork	kork-core	7.92.4		8767866728d5c4c58791026520f8a8ea772abc48
 io.spinnaker.kork	kork-core	7.92.5		9801d4ba3664395931b4262bd75a75b10dd018e3
 io.spinnaker.kork	kork-core	7.92.6		b90a3f532d57eda757ac66e01e63f7a417ca668b
 io.spinnaker.kork	kork-core	7.92.7		35f81a730f1118cd9542b232b4b1986819336da3
+io.spinnaker.kork	kork-core	main-10		c544c5c11559251f04880021a21067ea83ad801e
+io.spinnaker.kork	kork-core	main-11		8f41c0276a4433fffcf640de5cb47d41ac750a85
+io.spinnaker.kork	kork-core	main-12		e0a7e0c435727f4f64cba9f097a6d20d1fb4c55f
 io.spinnaker.kork	kork-core	main-5		5738cb6a504afe94bb66b3521b7b7d4fd24c7473
 io.spinnaker.kork	kork-core	main-6		8020d74c5761a2e6bc2888215713c698276bf090
 io.spinnaker.kork	kork-core	main-7		bd188ce43b04d12ed85199508d0912da6c03ba96
 io.spinnaker.kork	kork-core	main-8		ad6a73a2c845cd72c2de3eea91754ca7e3a1efa4
+io.spinnaker.kork	kork-core	main-9		8ef3eb3c39d60e5031766ff49ce52312d35ddd5a
 io.suzaku	boopickle-shapeless_2.11	1.3.0		389d78ca38f16e17de734225272a19ecfadcd91e
 io.suzaku	boopickle-shapeless_2.11	1.3.1		92d8f67773446f376239b55074ec425d31886333
 io.wttech.markuply	markuply	0.10.0		13ca825f19408f8031b637d50b2b33fdef3e54fa
@@ -2334,16 +2347,28 @@ tz.co.asoft	kiota-sse-watchosarm64	3.0.8		N/A
 tz.co.asoft	kiota-sse-watchosarm64	3.0.8	metadata	46d18b7f69eabff7e95629aefd3a4c27a7dcd191
 tz.co.asoft	kiota-sse-watchosarm64	3.0.9		N/A
 tz.co.asoft	kiota-sse-watchosarm64	3.0.9	metadata	23077e33139a22d7352b8c557c95526383728c8d
+tz.co.asoft	kiota-sse-watchosarm64	3.1.11	metadata	91de32b7221e725ea30eab20e5a5a5825b0df320
+tz.co.asoft	kiota-sse-watchosarm64	3.1.12	metadata	0100b3dd7209e3d97778dc656fe1adcc952dae94
 tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.0.14		N/A
 tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.0.14	metadata	952ac2492298633c9401e6fe1abffe1e88f057bd
 tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.0.15		N/A
 tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.0.15	metadata	c6d46a6db20bc3040ebf027229978c13e14e6251
+tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.1.0	metadata	2734aa5757632e4f1e0817054ec6d97a7f7dfbf9
+tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.1.1	metadata	384bc8ec74c25f7c1d6016a76180bf571e2f4c4a
+tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.1.11	metadata	de57b7ab4a5f699576b1fd73843069f988e83808
+tz.co.asoft	raven-email-agent-config-iossimulatorarm64	3.1.12	metadata	0c63fe10d94af42122d7e6475df01eeff9d74ac5
 uk.ac.gate.plugins	lang-chinese	8.5		f72f84e424736e533638d52a0ce8eee826bb0df7
 uk.ac.gate.plugins	lang-chinese	8.5	creole	ed4470d79fb16ce72035990536ba204010380a9e
 uk.ac.gate.plugins	lang-chinese	8.5-alpha1		ff8ab59f85fe3f8de91b5c345cc372e7d0617491
 uk.ac.gate.plugins	lang-chinese	8.5-alpha1	creole	f59bc9172667ef640226aa0d86991ee8b59333e9
 uk.ac.gate.plugins	lang-chinese	8.6		485edb1f28844721af9091f6e74e5596429928cb
 uk.ac.gate.plugins	lang-chinese	8.6	creole	7b78cb3f78fcfa896cb3412b3df1fb3741015ac6
+uk.gov.hmrc	bobby_2.10_0.13	0.2.2		83a3d96b1c53c64b8f6a9db00d0f10bf2dc1ecbc
+uk.gov.hmrc	bobby_2.10_0.13	0.2.3		02b69b7afa250cd577ea08bd3e502714014f75d3
+uk.gov.hmrc	bobby_2.10_0.13	0.2.4		a67966954b32ea307bc4ac06f73ab57b3970bea7
+uk.gov.hmrc	bobby_2.10_0.13	0.2.5		4a96064e466a77a0b287ac268675f341544d4051
+uk.gov.hmrc	bobby_2.10_0.13	0.3.0		9fc74e9a0d47447b6d40200bea2013d45fb79cf3
+uk.gov.hmrc	bobby_2.10_0.13	0.4.0		f89d63f6c0518f26e7a5bf71d024fd6a4eef1682
 xyz.upperlevel.spigot.book	spigot-book-api	1.0		54ef73dcba6fb9451b3c32fbd2d5d4a670d20cfd
 xyz.upperlevel.spigot.book	spigot-book-api	1.0	example	2d4e6740f9b012bc2907692a77e13dd8a4fee39e
 xyz.upperlevel.spigot.book	spigot-book-api	1.1		dcf4ad59dd955587eef0bfdaa870127121628e4a

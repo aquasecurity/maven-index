@@ -183,6 +183,8 @@ com.google.cloud	google-cloud-document-ai	2.62.0		ff69015ea61b0f2a6ff0fe06b511e4
 com.google.cloud	google-cloud-document-ai	2.63.0		1057b8d6f9adc0c91ff22934cf359453c90887bd
 com.google.cloud	google-cloud-document-ai	2.64.0		06f48f2952c1bd3a2b452f1b43057f46860e8e37
 com.google.cloud	google-cloud-document-ai	2.65.0		3714ffaa810f00ce3d0ee6652cd2fe3657b3bd66
+com.google.cloud	google-cloud-document-ai	2.66.0		12042dbb3a354c6666fb916e02a68a4e0f88ec18
+com.google.cloud	google-cloud-document-ai	2.67.0		d716fe8d847b242e74f5665ce6f6fd1e3f3a7fa9
 com.google.cloud	google-cloud-document-ai	2.7.0		75106cb231d189ebe903c487e58ca2c39a3b34f8
 com.google.cloud	google-cloud-document-ai	2.7.1		5cc0145ae220a242b506f05dac755d34f55b27fa
 com.google.cloud	google-cloud-document-ai	2.7.2		a56ac51bbe734bbafd012982fcddb8c112d7d653
@@ -266,6 +268,7 @@ com.powsybl	open-rao-crac-loopflow-extension	6.2.1		898f396f02876826ac084b10898c
 com.powsybl	open-rao-crac-loopflow-extension	6.2.2		dc541ffe6e199372d98a57b76382d399f175aa37
 com.powsybl	open-rao-crac-loopflow-extension	6.3.0		3823622b5d8251dcda752445062d6deec189c444
 com.powsybl	open-rao-crac-loopflow-extension	6.4.0		627e24b8a4e831c8bdbb3bbd63c9e733ae3405f3
+com.powsybl	open-rao-crac-loopflow-extension	6.5.0		906b0c8a5c49b1981c6812774ab6f838b86cc553
 com.qubole	quark-fat-jdbc	5.0.0		3e06052fdc686051f6fa7786c4ddb0c8ced45620
 com.qubole	quark-fat-jdbc	5.1.0		3bc77b4d6a2ea2b0c8458474bb1b5badc6010aad
 com.qubole	quark-fat-jdbc	5.2.1		1c90396ad8ddff85ff959a91eaaa3414453a3329
@@ -581,6 +584,7 @@ dev.zio	zio-aws-freetier_2.13	7.31.27.1		ddef4837ef988b7c74b26c8dbc3a86b07545e56
 dev.zio	zio-aws-freetier_2.13	7.31.28.1		72943f67b426ccf6c73dd96df4b3e3a042bb00e0
 dev.zio	zio-aws-freetier_2.13	7.31.3.1		624cda12e73ff1bf604351fb41d0c6d28c230311
 dev.zio	zio-aws-freetier_2.13	7.31.30.1		3467d3c9f86ad6f52c910fbe8a8a014c3822dec7
+dev.zio	zio-aws-freetier_2.13	7.31.30.2		64a27e54552c3975d518966415f6fb537ae403e2
 dev.zio	zio-aws-freetier_2.13	7.31.4.1		00d66d98d9ab9e9c8c24ccf15b66018ccff03b3c
 dev.zio	zio-aws-freetier_2.13	7.31.6.1		3b990c13edda93fe40b2268b3e68c64d7294673d
 dev.zio	zio-aws-freetier_2.13	7.31.6.2		f04c6e57e7be1389dc9feda23409fad2b8e2b238
@@ -815,6 +819,7 @@ io.ktor	ktor-client-mock-metadata	1.4.1		34c23115f7385537b5ae7b3151d588b853401b2
 io.ktor	ktor-client-mock-metadata	1.4.1	all	3bec17a2bd3c26e5b5764d787a4d06ed3ae64975
 io.ktor	ktor-client-mock-metadata	1.4.2		4ea325fb34916f8cdbef5111ca0150ae4dc5ad2c
 io.ktor	ktor-client-mock-metadata	1.4.2	all	0e53329045738c7bfdbb9bba644c062a4967498d
+io.micronaut.reactor	micronaut-reactor	.2.0		d88425c4341552fca7add06dd203cbb182d48221
 io.micronaut.reactor	micronaut-reactor	1.0.0		f1128619a9460e3d7a3cdc2c88cfb85c05cfacd3
 io.micronaut.reactor	micronaut-reactor	1.0.0.RC1		43ac97d8694ec014d4b83261d50fa5c7eb63c543
 io.micronaut.reactor	micronaut-reactor	1.0.0.RC2		bea6261c692cc2759fd89be012b5ec89baa0e4de
@@ -882,6 +887,7 @@ kr.jmlab	jmlab-utils-java9	0.1.4		ca72a32ed1c48451a9df171fc25840be158767eb
 kr.jmlab	jmlab-utils-java9	0.1.5		574f5aa58bdb0bb77b545293a15ba10e592487ee
 kr.jmlab	jmlab-utils-java9	0.1.6		c7d14e550c39a39819285a1a40128c722b9d818d
 kr.jmlab	jmlab-utils-java9	0.1.6.1		de836328d4bcb059240e8b0cbba2a94cdddb6726
+me.scf37	sbt-overwatch_2.12_1.0	1.0.11		74615534c9e9722a59db6861fccfa26e5abd903a
 net.anwiba.commons	anwiba-commons-maven-swing-core	1.0.126		N/A
 net.anwiba.commons	anwiba-commons-maven-swing-core	1.0.140		N/A
 net.anwiba.commons	anwiba-commons-maven-swing-core	1.0.154		N/A
@@ -1117,6 +1123,7 @@ org.jetbrains.androidx.lifecycle	lifecycle-viewmodel-savedstate	2.9.0-alpha04		8
 org.jetbrains.androidx.lifecycle	lifecycle-viewmodel-savedstate	2.9.0-alpha05		c8298932531604e34cfafeac3c52ee1290cafe47
 org.jetbrains.androidx.lifecycle	lifecycle-viewmodel-savedstate	2.9.0-alpha06		8d67cce2a08466f99092eef619308ccb203bf2f1
 org.jetbrains.androidx.lifecycle	lifecycle-viewmodel-savedstate	2.9.0-alpha07		e36b7dcf534b12b3d334e011c59370ae500bde46
+org.jetbrains.androidx.lifecycle	lifecycle-viewmodel-savedstate	2.9.0-beta01		e36b7dcf534b12b3d334e011c59370ae500bde46
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.2.1		a97df3f90c27cee26e60859b9d3b58717f395319
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.2.2		bb967d7c601578187834457a7ed9a9350ee20b94
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.2.3		078130b7365d68c654e9dcb3b6e8720219d7a2f5
@@ -1128,6 +1135,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.5.1		23bb67c326fc959e6cc9b442c53
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.6.0		992f67ed8d8febc0f02f89acde99169b1b8014f5
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.6.1		8b41f0989c9abb8041eb75067aa86dcd218545fd
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.6.2		8b41f0989c9abb8041eb75067aa86dcd218545fd
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-client	0.7.0		0083f6ff95b4a9f1792fb8c92308e86e99975794
 org.jetbrains.kotlinx	multik-kotlin-js	0.2.0		N/A
 org.jetbrains.kotlinx	multik-kotlin-js	0.2.0-dev-1		N/A
 org.jetbrains.kotlinx	multik-kotlin-js	0.2.0-dev-2		N/A
@@ -1275,6 +1283,7 @@ org.opensearch	opensearch-cli	2.6.0		3e0411cc9ddc39e3bed49f99f47f4c386e999da4
 org.opensearch	opensearch-cli	2.7.0		d2e25c6f8d01db344259b942227d5b0f8dec120c
 org.opensearch	opensearch-cli	2.8.0		d4496d97681f4b3de9d200707561a7db9177402f
 org.opensearch	opensearch-cli	2.9.0		b49148d102f5bcbcc2f589a80e688a02b5b2adee
+org.opensearch	opensearch-cli	3.0.0		4fe8cc4e979364d1ee2180e44d34237522ea8a83
 org.opensearch	opensearch-cli	3.0.0-alpha1		22f5aeaf5c59e3d32c485850b29cadced384c918
 org.opensearch	opensearch-cli	3.0.0-beta1		4f30a453a2ed9b3d4cfb1344016ba4bbd88c0276
 org.robokind	org.robokind.modules.motion	0.8.2		N/A

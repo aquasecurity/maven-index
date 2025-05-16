@@ -1078,6 +1078,7 @@ dev.zio	zio-aws-personalizeruntime_2.13	7.31.27.1		3b543eefe4935a57edda6fd1a604b
 dev.zio	zio-aws-personalizeruntime_2.13	7.31.28.1		f9de8ff80ffa168728e9b5a87c04bac8c1d32526
 dev.zio	zio-aws-personalizeruntime_2.13	7.31.3.1		18f1e26d4852df4a2066eb19809ca3432fbc04ca
 dev.zio	zio-aws-personalizeruntime_2.13	7.31.30.1		7add96cb532094d012d162a1e1a5b42bd46dbf3d
+dev.zio	zio-aws-personalizeruntime_2.13	7.31.30.2		158c637a2011e16f050402c497ea575e6b9b857f
 dev.zio	zio-aws-personalizeruntime_2.13	7.31.4.1		119c2ccc427ea8a01793efca83a7c69f6b4398ca
 dev.zio	zio-aws-personalizeruntime_2.13	7.31.6.1		2f657c4d8f2099c8133695181e4fdf70ad2f09ca
 dev.zio	zio-aws-personalizeruntime_2.13	7.31.6.2		ac323aa431deaa913cff73ce02fb7eea6d8f0be2
@@ -1120,6 +1121,9 @@ io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.10		3d59e524a7e01
 io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.11		50759e216160c7bff8ae62246cd02f45c901c0f5
 io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.12		c83943d5c8397fa6f2bf966e1f0e6b0774b50fbe
 io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.13		bc7a4e9ad6ff4d3c9ead78b556a0ceaa7c8bb21b
+io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.14		39cbd26c90d606736c25f5def97c267bf6d31dee
+io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.15		7df14e28ed6a01117d5f6614349af3c694ce9ccb
+io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.16		7d37026adfaa661630a8dc0dea39256f0caeb648
 io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.2		dee8a88b5e7d8fffcb1c04cb762fdd018fff0222
 io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.3		926ceec418831e9298160f9bd931b7219b3d7430
 io.americanexpress.synapse	sample-data-mysql-reactive-book	0.4.4		8bcda8ae23b0665365d5543f6ab34b80bf739728
@@ -1388,6 +1392,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2.13.3-alpha		e5dc2213b300eb4b7072918ea04d48079ba0038c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2.14.0-alpha		62a7bb3d1fdbfee7f2c56bdf1a2f2f5ba4d66a7e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2.15.0-alpha		ecac958621afb621aae24d8f0d92534373f5caea
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2.16.0-alpha		62b8f8d2844323e3189a45e59be43d78b6428117
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2.2.0-alpha		1185f7f6f97855e27427478b2f1211d2863a8290
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2.3.0-alpha		70a2068d64182a08eedc0cbd2d8cce998791e6dd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-lettuce-4.0	2.4.0-alpha		5c368febadf655c54667e021738c8ff3083f19a1
@@ -1482,6 +1487,7 @@ io.quarkus	quarkus-info-runtime-spi	3.15.2		125699328dbc90d84f7266856b29a84e2c9d
 io.quarkus	quarkus-info-runtime-spi	3.15.3		f74541a799eef47ce31c28cc581506bddc09428b
 io.quarkus	quarkus-info-runtime-spi	3.15.3.1		d15b35c4c3bb255d101114b6a9900949004e3019
 io.quarkus	quarkus-info-runtime-spi	3.15.4		b8f3de5f4e4f12c2feabb106a849ec4433fc159a
+io.quarkus	quarkus-info-runtime-spi	3.15.5		34d0847cb6e00eea6071bdc6d45bd745dee638ce
 io.quarkus	quarkus-info-runtime-spi	3.16.0		92e4696b1a520c5fd9c1d13c698620d114010eec
 io.quarkus	quarkus-info-runtime-spi	3.16.0.CR1		5db60f42af3ccd038907d3f8da3f1614a890a4ec
 io.quarkus	quarkus-info-runtime-spi	3.16.1		1e58b9c0fbbe37cc3e56e5160a3baf251b688c51
@@ -1526,6 +1532,7 @@ io.quarkus	quarkus-info-runtime-spi	3.2.8.Final		e5e9f6ef1b0182456a104ed2208943d
 io.quarkus	quarkus-info-runtime-spi	3.2.9.Final		4d7a7f4b5594cbf8b135b2ef641de06aa2a91500
 io.quarkus	quarkus-info-runtime-spi	3.20.0		328de85e4941ecfa471bdddc5bfe2f97ffb728e6
 io.quarkus	quarkus-info-runtime-spi	3.20.0.CR1		60ba685aeb8b7d5cd9389a5695b43d7a43c028b6
+io.quarkus	quarkus-info-runtime-spi	3.20.1		545738d6df10e9ede13fb42338d5460f08bdf9ca
 io.quarkus	quarkus-info-runtime-spi	3.21.0		8c6a57d1ea7d30bd174d4d428a0952b4b4d502f6
 io.quarkus	quarkus-info-runtime-spi	3.21.0.CR1		cccf3078db08998eaedfb2ea2366826fceb749fd
 io.quarkus	quarkus-info-runtime-spi	3.21.1		945e9344804110aa4c7bb2b648dfa1d9a271b169
@@ -1535,6 +1542,9 @@ io.quarkus	quarkus-info-runtime-spi	3.21.4		e33f28cee5ce11247190762fcfdf7ec82801
 io.quarkus	quarkus-info-runtime-spi	3.22.0		ebfcd7615a11a326e645970e05f81b0b37c89616
 io.quarkus	quarkus-info-runtime-spi	3.22.0.CR1		f5b747306fa8e0df6131ba743d8ceee1cd9c6bcc
 io.quarkus	quarkus-info-runtime-spi	3.22.1		b4226b970ebb7d356d37939a413bf031fec2a203
+io.quarkus	quarkus-info-runtime-spi	3.22.2		93d1121810a3181985226b9ebbc99d8d6f608c06
+io.quarkus	quarkus-info-runtime-spi	3.22.3		8afaae2eefdce57c8dfc5055211d41771764bed3
+io.quarkus	quarkus-info-runtime-spi	3.23.0.CR1		b246ba07b9fdc625a2050a403eec06e76a6619c5
 io.quarkus	quarkus-info-runtime-spi	3.3.0		95402ec3049d420cae9dc477693e7c81a232082f
 io.quarkus	quarkus-info-runtime-spi	3.3.0.CR1		ea462b10b011c6e2fa4e452a64e3206965aae8cc
 io.quarkus	quarkus-info-runtime-spi	3.3.1		d49e4bf01014a8d5f7f03b5cf39d7218f335bdf8
@@ -2124,6 +2134,7 @@ org.apereo.cas	cas-server-support-jdbc-authentication	7.2.0-RC6		a096509eae75580
 org.apereo.cas	cas-server-support-jdbc-authentication	7.2.0-RC6	resources	41ccaaa5d73c4e84ab451c002189fee8a6c7466e
 org.apereo.cas	cas-server-support-jdbc-authentication	7.2.1		721138ed32ccce3084860b9f77cb1667e4d9c5eb
 org.apereo.cas	cas-server-support-jdbc-authentication	7.2.1	resources	bf5075c96ee5f4bd6e7f168eb7531fd051dfa9ef
+org.apereo.cas	cas-server-support-jdbc-authentication	7.2.2		aa6ccaec46e993fc18211d04bf0e4c2f0ec222ce
 org.apereo.cas	cas-server-support-jdbc-authentication	7.3.0-RC1		7fef51952ca434bfbd10f1815ccc4acac4183a6c
 org.apereo.cas	cas-server-support-jdbc-authentication	7.3.0-RC1	resources	de059c99a46eee6796c24b3e85e5c91c3b9c2a7d
 org.apereo.cas	cas-server-support-jdbc-authentication	v6.4.0-RC5		919506ccbed4f860899e6a4db1d447ff508809ce
@@ -4286,7 +4297,18 @@ software.amazon.awssdk	glue	2.31.30		8d435c9c103369e147668cf31d671e599363dd49
 software.amazon.awssdk	glue	2.31.31		e6533df968bcb752ec432a8fc676ff820e3b91d9
 software.amazon.awssdk	glue	2.31.32		4d9f3ec17a578cae35200171d9476f71d78f93f4
 software.amazon.awssdk	glue	2.31.33		0e1b7993b41b4a051dfe78b7f10391feb1184aa1
+software.amazon.awssdk	glue	2.31.34		7b13ae8681639d7c3bdb9419ba19cfaf96ca610a
+software.amazon.awssdk	glue	2.31.35		07d3249aec1eb066d8ba343812a509b0862470b1
+software.amazon.awssdk	glue	2.31.36		bbb46d432b15a3cafab3bd49d27f6a73995953b3
+software.amazon.awssdk	glue	2.31.37		a85886c3da45112d872c7e72ad6a257c56bbbcca
+software.amazon.awssdk	glue	2.31.38		540c9fad1f370307a56588bc83184feb65e4e471
+software.amazon.awssdk	glue	2.31.39		b507c9b3351bf627dd3a5495474c5d50d2a44f9f
 software.amazon.awssdk	glue	2.31.4		393cbc479754135a54019a7387677b618066b422
+software.amazon.awssdk	glue	2.31.40		31f5cbdd852bc2c0d32eac127e78f1a053166fea
+software.amazon.awssdk	glue	2.31.41		61244cb7d1c89e9544b6bde6c5e7920c29e09cf9
+software.amazon.awssdk	glue	2.31.42		8004cd4a66e7adaff6d8f1250f9de596219b68c1
+software.amazon.awssdk	glue	2.31.43		7008153e5b8558308491e6f635bc2849a638c308
+software.amazon.awssdk	glue	2.31.44		56bf4f7def4fbc6aa851b41cebd8d98f987510f5
 software.amazon.awssdk	glue	2.31.5		47578916e7b0ef275bfb1e05b7898eecb5fa7910
 software.amazon.awssdk	glue	2.31.6		f7989f6a910f191b8da74335d5faacf77c7340ca
 software.amazon.awssdk	glue	2.31.7		e917d22c9ee5c017bc34501209dba94b53e81c89

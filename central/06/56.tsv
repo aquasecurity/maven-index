@@ -332,6 +332,8 @@ com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta
 com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.19.0		1e42636890567a981660715904d9b1cd778633b7
 com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.2.0		de9f243ee1c5ceac811f9383cc45ea573be9b937
 com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.20.0		fc8f4b2f95fd58a661d4c5e9995cb393f24ca933
+com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.21.0		427b47530f98db0d4d06e7d30637c700aa454340
+com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.22.0		c8b4cdc848f3cca5bd3fb791388dcd5c3774d4ca
 com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.3.0		3f39c000a5b513420d937d0ac5e2cdaf3662fff1
 com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.4.0		9768b65547e762896bdb898afa9972ef1027b664
 com.google.shopping.api.grpc	proto-google-shopping-merchant-notifications-v1beta	0.5.0		6cf63035af7251e626d26969da419257b5e61777
@@ -1389,6 +1391,9 @@ io.streamnative	distributedlog-io	4.17.0.1		N/A
 io.streamnative	distributedlog-io	4.17.1.1		N/A
 io.streamnative	distributedlog-io	4.17.1.2		N/A
 io.streamnative	distributedlog-io	branch-4.14.7.1_d4		N/A
+io.youi	youi-plugin_2.10_0.13	1.0.0		0868f907982ad0296884b1897a38725d3017d3de
+io.youi	youi-plugin_2.10_0.13	1.0.1		641a362fce50dca9c05a2a7c5077f1d6ae1eb482
+io.youi	youi-plugin_2.10_0.13	1.0.2		9f7635514ad936bed0125a357acfdbb449762499
 it.vige	school-commons	1.3.1		d1c329b5c771bf2a52e6da278bc180d46d60e02c
 it.vige	school-commons	1.4.0		3f4ad935c150135d7d0d4c4d86ed6a8d53ba5af8
 net.javacrumbs.shedlock	shedlock-provider-opensearch-java	6.2.0		60019d213f1130e3fa6176634f267e69519dd4e0
@@ -1396,6 +1401,7 @@ net.javacrumbs.shedlock	shedlock-provider-opensearch-java	6.3.0		1326b46d77cfbab
 net.javacrumbs.shedlock	shedlock-provider-opensearch-java	6.3.1		e7bd596ffc63a4312940c7610e1e6105c2fd3c93
 net.javacrumbs.shedlock	shedlock-provider-opensearch-java	6.4.0		ff6ca2e9449b5abbd6bb2c97f9e09d67ce543eba
 net.javacrumbs.shedlock	shedlock-provider-opensearch-java	6.5.0		12725001ad611ebd063d18253c189a0356b494ac
+net.javacrumbs.shedlock	shedlock-provider-opensearch-java	6.6.0		faefaab2a0f21d031c724353a00a0c91c32b7ed3
 net.sf.docbook	docbook-xsl-webhelpindexer	1.0.0		31ebf442822082459e797ffe65ddb019bb39e670
 net.sf.docbook	docbook-xsl-webhelpindexer	1.0.0-9777		4b5a00df3f59f8e307c59cfe21e350facb09926b
 net.sf.docbook	docbook-xsl-webhelpindexer	1.0.1-pre		2e03d9698554b6414f0ca6be9fe258d004512542
@@ -1670,10 +1676,17 @@ org.finos.legend.engine	legend-engine-xt-json-runtime	4.8.0		2ffa9db4d08fc944732
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.80.0		57abed3562c76ca5486090533900a4ae83394bc0
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.81.0		6099c4a69b34d8c68e29bfec0dcf4d35547deef4
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.82.0		bb506f0ca3b5491f7a0fc94cd158075eda69cce9
+org.finos.legend.engine	legend-engine-xt-json-runtime	4.82.1		6c9340f854ca941e2063b33e893383612aba9caf
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.83.0		120825c71d9e3f2c143361e857796acd26da3114
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.83.1		d4a7e2600f3e3dc9d0ebdad8da1956c184207c18
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.83.2		a0dcbb4e98b3a3069771121536eecd27814030ac
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.83.3		bc8950738e66740ba153a6db9b67e1cda7b85542
+org.finos.legend.engine	legend-engine-xt-json-runtime	4.84.0		b3c6b8304380b42653d371d4734b3c2424a2d0a3
+org.finos.legend.engine	legend-engine-xt-json-runtime	4.84.1		2039695065282f16fd3526b2ac045a2e4974819f
+org.finos.legend.engine	legend-engine-xt-json-runtime	4.85.0		25397766f0c9ef661599c855805910d0065ee6d8
+org.finos.legend.engine	legend-engine-xt-json-runtime	4.85.1		b5e61a0338d425ac8e9d7a00b169bee8fdcd3f80
+org.finos.legend.engine	legend-engine-xt-json-runtime	4.85.2		ffd9db7fd6dc8f089c44b0323586ab17614c2032
+org.finos.legend.engine	legend-engine-xt-json-runtime	4.85.3		ae050b1f25323ff24ede445e0f3b35b4b49f02eb
 org.finos.legend.engine	legend-engine-xt-json-runtime	4.9.0		aa4e22b5cfe0f3412e63566b682e2819a73c854a
 org.fusesource.scalate	scalate-util	1.3.2		578dc9e37bf33ca5efb9e646a37e15f895c46263
 org.fusesource.scalate	scalate-util	1.4.0		5335d23f9508ec2944d57cf1a5f43973fbb58880

@@ -23,6 +23,7 @@ ai.djl.tensorflow	tensorflow-api	0.30.0		aa0ff956c5f2df0bffa969b1798f887d33e6b7f
 ai.djl.tensorflow	tensorflow-api	0.31.0		2cf61b2048de49d9e4e0a848cab84c18172d4124
 ai.djl.tensorflow	tensorflow-api	0.31.1		a6b36f9cc16524ec7edc73e287c3eda223430d6d
 ai.djl.tensorflow	tensorflow-api	0.32.0		5cb3e1435d02764e3f0f50c02ac8428dcac0c24d
+ai.djl.tensorflow	tensorflow-api	0.33.0		57b6b91914d68f4ea107f38e36bc6a32f895440b
 ai.djl.tensorflow	tensorflow-api	0.5.0		e4c16c066591a69b6ba4c76520000195677b8c1f
 ai.djl.tensorflow	tensorflow-api	0.6.0		ce7b17aa7bbf84e8f6b3a763405dc2691bfd39a4
 ai.djl.tensorflow	tensorflow-api	0.7.0		4e373833c29ded36d77419fc82f7728869dec52d
@@ -196,6 +197,7 @@ com.atlan	asset-import	5.0.4		4914054c9a0043778178545e79616acac9eb409a
 com.atlan	asset-import	5.0.5		2ec7f75552324ea6d48ee40cde346da0833ea4a9
 com.atlan	asset-import	5.1.0		0f6d9245adf93469963b419a0f653caf8145b4ec
 com.atlan	asset-import	5.1.1		2e5824f6500490441bf21fa23db54cb0cdfc5838
+com.atlan	asset-import	5.1.1-test-multiarch		1b5c6c5063df924422e46cd6da74d266bcfa6058
 com.bbossgroups.boot	bboot-starter-undertow	5.0.3.8.3		a9a68ceab89a0edaa445f5c56bb32aa7792035ef
 com.bbossgroups.boot	bboot-starter-undertow	5.0.3.9		6a67b92a4b6243303b962a78549004d69d9cdbdc
 com.bbossgroups.boot	bboot-starter-undertow	5.0.5.7		e6afe03c69219f18ca683b22caea2b75a37c2e23
@@ -456,6 +458,8 @@ com.outworkers	phantom-thrift_2.10	2.1.2		caaf3ddd9c196395263374ce92c03f76dbde7f
 com.outworkers	phantom-thrift_2.10	2.1.3		74ae7e43733fc726df49cc3e48456f755237d1dc
 com.outworkers	phantom-thrift_2.10	2.2.0		10fbf86b1169f6f0f52ef0643b97d12fc5446ab0
 com.outworkers	phantom-thrift_2.10	2.2.1		4d4cef117fef2dd90e0bf4972f747d6d9558563f
+com.playtika.testcontainers	embedded-temporal	3.1.12		c8f681df41d46f1817f4d8fc63761414abf15622
+com.playtika.testcontainers	embedded-temporal	3.1.13		9488d9b2e760cb7de1050826b0dec92f94d9229d
 com.plusmobileapps	auth-android	0.3		N/A
 com.plusmobileapps	auth-android	0.4		N/A
 com.qoreid	qoreid-android	1.0.0		N/A
@@ -527,6 +531,7 @@ com.slack.circuit	circuit-backstack-iosarm64	0.27.0		N/A
 com.slack.circuit	circuit-backstack-iosarm64	0.27.0	metadata	073771ca5d6416b014ef4e2114dec70c328b4349
 com.slack.circuit	circuit-backstack-iosarm64	0.27.1		N/A
 com.slack.circuit	circuit-backstack-iosarm64	0.27.1	metadata	073771ca5d6416b014ef4e2114dec70c328b4349
+com.slack.circuit	circuit-backstack-iosarm64	0.28.0	metadata	09e1c404224b5c27f62cc9f9643635dd79351355
 com.slack.circuit	circuit-backstack-iosarm64	0.9.0		N/A
 com.slack.circuit	circuit-backstack-iosarm64	0.9.0	metadata	5d65e1b752263a5f001568753d627abf63936741
 com.slack.circuit	circuit-backstack-iosarm64	0.9.1		N/A
@@ -909,6 +914,8 @@ io.ktor	ktor-utils-watchosarm32	3.1.1		7a4bb3f276354ff28556cc73587ded81d39bf701
 io.ktor	ktor-utils-watchosarm32	3.1.1	metadata	5f02fad6ee0402fabff4e259951d1ccac4cd9a6d
 io.ktor	ktor-utils-watchosarm32	3.1.2		125732ca49a1bf64f5e0ee27fe296d2a07583acc
 io.ktor	ktor-utils-watchosarm32	3.1.2	metadata	0b5f5d381492f3e724ba84b5a92c1130162f3837
+io.ktor	ktor-utils-watchosarm32	3.1.3		671504aa5f4b9b6558516480b13af9430011cc9b
+io.ktor	ktor-utils-watchosarm32	3.1.3	metadata	d564040b67ab8e91c166d0ab2606ed227fd583ed
 io.megl	zio-elasticsearch-client-sttp_2.12	0.0.12		200fc08c53327cd7692763a4d08fde2f02d1490a
 io.megl	zio-elasticsearch-client-sttp_2.12	2.0.0		3e14c0ee47415e65f9ca98687a0f5df4edfd3224
 io.megl	zio-elasticsearch-client-sttp_2.12	2.0.1		b9b13b9fd9ec136280784f11dee79e7f194e9fd4
@@ -1356,6 +1363,7 @@ org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.2.1		3ab3d8297c339a8a3
 org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.2.2		a441644bce1b27d48ca5243b667ab02df82606b4
 org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.2.3		b768fa94d6c4a41d9233f50913e09288327b0da4
 org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.20.0		db74659f6afb4232471655c9cbebb2b048462894
+org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.20.1		0d4c1149ae3adc87ef4f15f8c84a0e0c6d642dd8
 org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.22.0		f2c788adf6d680345ed0ceb8aaf818174ad9b3ae
 org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.4.0		fe651840845891cef5926cf8e23c9ee08e02a2b7
 org.apache.camel.quarkus	camel-quarkus-jackson-protobuf	3.5.0		25f1f69254efa36aed3bc577271a590f56809c44
@@ -1799,6 +1807,8 @@ org.eclipse.ditto	ditto-connectivity-service	3.7.2		b65afec8ebf3189f028f0efc75cc
 org.eclipse.ditto	ditto-connectivity-service	3.7.2	allinone	00421afe48cff036a4803d6b290ff2dfd2b4baca
 org.eclipse.ditto	ditto-connectivity-service	3.7.3		94f2afb509617e7b69f337fd58d3d2eb3b0ec6f5
 org.eclipse.ditto	ditto-connectivity-service	3.7.3	allinone	a4fa4d4eedda1cad0fc24b7f295e89bbd7e21633
+org.eclipse.ditto	ditto-connectivity-service	3.7.4		f33940d6e2b6fd69f629d73aa2f457347852eee0
+org.eclipse.ditto	ditto-connectivity-service	3.7.4	allinone	225e15321c7ff2747bc775e20dde280f320f6a19
 org.geckoprojects.emf	org.gecko.emf.osgi.annotation	1.0.7		AC74B92F20344798F2E57B7FB11317482978A4B0
 org.geckoprojects.emf	org.gecko.emf.osgi.annotation	2.0.0		B984B19A8360B47B7A72A320C266C33F0F5B25E8
 org.geckoprojects.emf	org.gecko.emf.osgi.annotation	3.3.7		48870B907A476ED1FC9FE164263EACB0C8553826

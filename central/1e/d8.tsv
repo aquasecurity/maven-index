@@ -365,6 +365,7 @@ com.ibeetl	sql-rewrite	3.30.7-RELEASE		1d0c9eaf44d3046476c520a8f9a18bdc7cfff4c7
 com.ibeetl	sql-rewrite	3.30.8-RELEASE		22722616705b7184faf34ba633a9ee1b01390252
 com.ibeetl	sql-rewrite	3.30.9-RELEASE		ff87b6fea8683207de58cdca4a222623846feca5
 com.ibeetl	sql-rewrite	3.31-RELEASE		3648b440ba7e7405159f6903edcfe6135075a12b
+com.ibeetl	sql-rewrite	3.32-RELEASE		17916db045c533ebec6975649196b3f8f0ed68bb
 com.insanityengine	ghia	1.0.0		cc41b27945334f29bdbf0977a83083c9411b402d
 com.karuslabs	elementary	2.0.0		d99477066484e4755cf4812de0d3e973844778b3
 com.karuslabs	elementary	2.0.0	shaded	cf22b1b67a513c182d9b6f79432f3ca3096e1dc9
@@ -1040,6 +1041,7 @@ io.ktor	ktor-server-content-negotiation-mingwx64	3.0.3		fb63d79e2b2f061ec11a1e69
 io.ktor	ktor-server-content-negotiation-mingwx64	3.1.0		b63b1830e38aa19ddf4c67690e636a7c449ec75e
 io.ktor	ktor-server-content-negotiation-mingwx64	3.1.1		347ab3e8f8a10b20dd7047eda6c86127f1446134
 io.ktor	ktor-server-content-negotiation-mingwx64	3.1.2		e69433418ff3135c9378ad1f305e2dca9f7dd6a0
+io.ktor	ktor-server-content-negotiation-mingwx64	3.1.3		5043d24c28c80e3eb45008d947b46814c892d309
 io.matthewnelson.kotlin-components	kmp-tor-binary-extract	0.4.6.10		273950f88b30d800dfa97a3cc957f0737694350a
 io.matthewnelson.kotlin-components	kmp-tor-binary-extract	0.4.6.10	all	9b11f80928ea49ef49ab3648cff5e90baec7d6b0
 io.matthewnelson.kotlin-components	kmp-tor-binary-extract	0.4.6.9		58654fa4321ee6b212875383b5c9adf7de71b81b
@@ -1204,6 +1206,7 @@ org.danilopianini	template-for-kotlin-multiplatform-applications-tvossimulatorar
 org.danilopianini	template-for-kotlin-multiplatform-applications-tvossimulatorarm64	1.0.4	metadata	32358fe248daf306b8d61b3ab0809e47e7ddbe5f
 org.danilopianini	template-for-kotlin-multiplatform-applications-tvossimulatorarm64	1.0.5		N/A
 org.danilopianini	template-for-kotlin-multiplatform-applications-tvossimulatorarm64	1.0.5	metadata	ac3447f36bed1e3f350f4dd6d7639e146c962542
+org.danilopianini	template-for-kotlin-multiplatform-applications-tvossimulatorarm64	1.0.6	metadata	f4ad168d02d2d948dfd583971cd6d66588e863ee
 org.deeplearning4j	deeplearning4j-cuda-7.5	0.4.0		ec361671fe8e4a022ee5e95aa42376be90a15bc5
 org.deeplearning4j	deeplearning4j-cuda-7.5	0.5.0		e1712bb5ffd9bfda45e2fec7c3a03fa3053eb19d
 org.deeplearning4j	deeplearning4j-cuda-7.5	0.6.0		0309860c9d895e911264ccb9c5dfa860fb725269
@@ -1477,10 +1480,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.8.0	
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.80.0		42ac2f009f5f805e0e57ef6011af6407ebb8ec06
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.81.0		a2f55d981d0b2bf8f31b3142db2a3111f7330074
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.82.0		7291805b0e212691995b82a25fbdb8b52e0bcbbb
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.82.1		c629a8b73e774909dddae800bcfe92f6adef1090
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.83.0		6e30b5856a8b5c3d8ecb617fe3f53f7f8e12aa3b
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.83.1		5937afe0bd01e9254a23c73d6a39d7c990c42e91
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.83.2		3e20590263d66b03668bfda07a0bb5c65467e618
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.83.3		07f0423c201064fc9db46c917df5b30ed497f919
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.84.0		0fb34f296a3a9206c3125951c6c34672fd5a854b
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.84.1		2169da3053d6fcfb4d6e9bddeb2f9be55d8a1981
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.85.0		d4acdd100eb8444639d852c136fedb374fb6e9ce
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.85.1		bc48fbe2190ff944ea28d4d836155c8608ebe63f
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.85.2		b4157195400980a8cf03302c7e2b9e8705e5b088
+org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.85.3		9d61727a63f7d0d7684b64f66d4c37e4ba425a1f
 org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-protocol	4.9.0		d67011e1abf4d0a8f5496b2a99ce6b1ea6ad9a50
 org.finos.symphony.toolkit	teamcity-symphony-integration	5.59.1		N/A
 org.finos.symphony.toolkit	teamcity-symphony-integration	5.59.2		N/A
@@ -2178,5 +2188,9 @@ tz.co.asoft	koncurrent-executors-coroutines-jvm	3.0.6		45a3276140f8f59d03ac2a899
 tz.co.asoft	koncurrent-executors-coroutines-jvm	3.0.7		96a5e9deb280eff0e38f40f791af96c0049574b1
 tz.co.asoft	koncurrent-executors-coroutines-jvm	3.0.8		96a5e9deb280eff0e38f40f791af96c0049574b1
 tz.co.asoft	koncurrent-executors-coroutines-jvm	3.0.9		96a5e9deb280eff0e38f40f791af96c0049574b1
+tz.co.asoft	koncurrent-executors-coroutines-jvm	3.1.0		ee15edaf9a6be306584f870b51168007456a3b45
+tz.co.asoft	koncurrent-executors-coroutines-jvm	3.1.1		ee15edaf9a6be306584f870b51168007456a3b45
+tz.co.asoft	koncurrent-executors-coroutines-jvm	3.1.11		ee15edaf9a6be306584f870b51168007456a3b45
+tz.co.asoft	koncurrent-executors-coroutines-jvm	3.1.12		ee15edaf9a6be306584f870b51168007456a3b45
 vn.com.unit.miragesql	miragesql	3.0.0		c3616247d301b0753c1c500f7e451b81b8b87b32
 wiki.kennisfabriek.tools	kennisfabriek-tools-github	1.0.3		01d42b488b2497687391f36e83464455c6e12200

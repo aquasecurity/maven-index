@@ -69,6 +69,7 @@ com.google.guava	guava	14.0-rc3	site	14e19daa95cef3a389b284389dc7d2290a48a822
 com.google.guava	guava	14.0.1		69e12f4c6aeac392555f1ea86fab82b5e5e31ad4
 com.google.guava	guava	14.0.1	site	e27705d6bdce0ba498df51c32050fea9bb7fb3a0
 com.google.guava	guava	15.0		ed727a8d9f247e2050281cb083f1c77b09dcb5cd
+com.google.guava	guava	15.0	cdi1.0	4e8edddcf60636ed1e11c9babb19da8f098c789e
 com.google.guava	guava	15.0	site	93cb89432fb7e17b334bc02fad9cba51785a7287
 com.google.guava	guava	15.0-rc1		e22ec7d9349f9dc12bec6f1b9792c8e9604e92aa
 com.google.guava	guava	15.0-rc1	site	317b68ac760848802ef56511e4ac4b4b4881b5e2
@@ -321,6 +322,7 @@ com.slack.circuit	circuit-runtime-presenter-watchosarm32	0.27.0		N/A
 com.slack.circuit	circuit-runtime-presenter-watchosarm32	0.27.0	metadata	5ec3e5b7ecf6f36fbdaa3d97f73a22d316e6d64d
 com.slack.circuit	circuit-runtime-presenter-watchosarm32	0.27.1		N/A
 com.slack.circuit	circuit-runtime-presenter-watchosarm32	0.27.1	metadata	5ec3e5b7ecf6f36fbdaa3d97f73a22d316e6d64d
+com.slack.circuit	circuit-runtime-presenter-watchosarm32	0.28.0	metadata	10932a7f22bb02601ebe128dcab128cd5fb29eb8
 com.tapstream	ga4j	0.1		c7a862e755823a9b88e453a11ce4ef43d82161ee
 com.tascape	reactor	1.2.0		f998b8ea45f501de7d68063c1987a2a1f2682ed8
 com.tascape	reactor	1.2.1		89b3097f52b8ea0b863ba9abb29d11105d92914d
@@ -547,6 +549,7 @@ io.opentelemetry	opentelemetry-exporter-sender-jdk	1.46.0		b4724791abd1efef67445
 io.opentelemetry	opentelemetry-exporter-sender-jdk	1.47.0		3d45e3d4d0f093a062dc8df72ce0f42085f6b330
 io.opentelemetry	opentelemetry-exporter-sender-jdk	1.48.0		e827fa15ea5e39e4fa7a62a7ae51b9631995d455
 io.opentelemetry	opentelemetry-exporter-sender-jdk	1.49.0		8fb8d007129dc1f7d87bc473952d1862013102bb
+io.opentelemetry	opentelemetry-exporter-sender-jdk	1.50.0		0c6290db03f3b8e029a0ade54447d008e3fcd018
 io.quarkus	quarkus-vertx-graphql-deployment	1.1.0.CR1		3aa796f237429813b729bf4c6f6b01c4234a25ec
 io.quarkus	quarkus-vertx-graphql-deployment	1.1.0.Final		f76cbeab45c3a12fef2161bd598ebd90535c1747
 io.quarkus	quarkus-vertx-graphql-deployment	1.1.1.Final		bb9843bef70a353f0592a0acf5a2410911eba10f
@@ -783,6 +786,7 @@ io.quarkus	quarkus-vertx-graphql-deployment	3.15.2		72259ef4c748d862086ac97ee075
 io.quarkus	quarkus-vertx-graphql-deployment	3.15.3		abf4ca2983c30bc3c73c19f52519be33c65e1536
 io.quarkus	quarkus-vertx-graphql-deployment	3.15.3.1		0f1361572845fdb151691b7c799dedc1d3969e8b
 io.quarkus	quarkus-vertx-graphql-deployment	3.15.4		4a563c041a7ebe0328f86267098e04dac760e68e
+io.quarkus	quarkus-vertx-graphql-deployment	3.15.5		665daa76f5b19ffc03ee4f88a7573ab878644c52
 io.quarkus	quarkus-vertx-graphql-deployment	3.16.0		a377145349e3f893848436fc404d7a6734a6d749
 io.quarkus	quarkus-vertx-graphql-deployment	3.16.0.CR1		008cd3ef9eaa9b0bf398973f7b1a2cf9b663f757
 io.quarkus	quarkus-vertx-graphql-deployment	3.16.1		d78d17745f00b126a285ec37ac31c9b734d5f3c6
@@ -827,6 +831,7 @@ io.quarkus	quarkus-vertx-graphql-deployment	3.2.8.Final		80fd733a18125564b8f2a87
 io.quarkus	quarkus-vertx-graphql-deployment	3.2.9.Final		be01567cfb3b4567a64b979b89c4216b7af18484
 io.quarkus	quarkus-vertx-graphql-deployment	3.20.0		7790da2c9d5da52e919b2c08927c9b39ffb80a0b
 io.quarkus	quarkus-vertx-graphql-deployment	3.20.0.CR1		81a85116986dbbe6e99e2bf48587b27f54558528
+io.quarkus	quarkus-vertx-graphql-deployment	3.20.1		3a94564ee378c915b82f4b110170c4ad77bbc558
 io.quarkus	quarkus-vertx-graphql-deployment	3.21.0		20a4bffdeb53767086f56bcd8aa2ce7831c4f19d
 io.quarkus	quarkus-vertx-graphql-deployment	3.21.0.CR1		6dd1347be1d381e9ff7d12416669b3baaaf14a3c
 io.quarkus	quarkus-vertx-graphql-deployment	3.21.1		e7592b4afaf385de84a2323eb265a39103bc6ad9
@@ -836,6 +841,9 @@ io.quarkus	quarkus-vertx-graphql-deployment	3.21.4		84fd798c4b7851146c4b71d77e5d
 io.quarkus	quarkus-vertx-graphql-deployment	3.22.0		fe7b0eee33031366bcc9c3081e520b3bf71de961
 io.quarkus	quarkus-vertx-graphql-deployment	3.22.0.CR1		88a1dccac1561aed03d4ba74bf39c65b736ace4a
 io.quarkus	quarkus-vertx-graphql-deployment	3.22.1		af59af1c4b13341a6633370c461af18f6252f23c
+io.quarkus	quarkus-vertx-graphql-deployment	3.22.2		4f9f8b0926b594587310de17341dfa599cdf8bac
+io.quarkus	quarkus-vertx-graphql-deployment	3.22.3		37533a100979dfd5479e03733c597cc9bc35477b
+io.quarkus	quarkus-vertx-graphql-deployment	3.23.0.CR1		6610ca251b27033fce6f9f0d7047af78b20f8553
 io.quarkus	quarkus-vertx-graphql-deployment	3.3.0		9abc5f925f2cdfe3cf102805d6abc2fb0c2c7d4e
 io.quarkus	quarkus-vertx-graphql-deployment	3.3.0.CR1		117a664250103a5578af0718436f237168aa99be
 io.quarkus	quarkus-vertx-graphql-deployment	3.3.1		c2b6b51210d477d5dcdee374a7a997d679b573a9

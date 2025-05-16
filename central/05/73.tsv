@@ -78,6 +78,9 @@ ai.platon.pulsar	pulsar-ql	2.2.1		21f595527103d5c005086b3766143d6c99d5653f
 ai.platon.pulsar	pulsar-ql	3.0.0		1d1e7fd09507d1c726116e16acbd2d91ba899bf9
 ai.platon.pulsar	pulsar-ql	3.0.2		a4937233e076a1c357e9c9c2c69e0775aa9f9a87
 ai.platon.pulsar	pulsar-ql	3.0.3		2751742b3f6d25b646faa1dcaa9bf77e8cefb291
+ai.platon.pulsar	pulsar-ql	3.0.4		38af324ba5c1bd207d6e1492efb862188355cd4b
+ai.platon.pulsar	pulsar-ql	3.0.5		e2e1b5c84b5e2aa7143c9a52446a378573c373a9
+ai.platon.pulsar	pulsar-ql	3.0.6		6e62183494533e8ad3b9e4d2d19b9009a2fcfcef
 ch.viascom.groundwork	foxhttp	1.0		56506d6aad91447ecc55d80c8522b6cd1db92e8a
 ch.viascom.groundwork	foxhttp	1.1		3b19977c7b4f6512a841e655adc912f47b5b44bb
 ch.viascom.groundwork	foxhttp	1.2		1b6c7d1be069641d66af0a29a9a77847f4cff954
@@ -691,6 +694,7 @@ dev.zio	zio-aws-cloudwatch_3	7.31.27.1		4f5459c613c1f67a25f94f332e326127d979b9b2
 dev.zio	zio-aws-cloudwatch_3	7.31.28.1		da82288f38e097307a63be8fbb63496d2d3737c0
 dev.zio	zio-aws-cloudwatch_3	7.31.3.1		97074f157b73a9518fbd3b22b68e008d17349571
 dev.zio	zio-aws-cloudwatch_3	7.31.30.1		17d4b629eaec64359ed14095d5584469192ebaf2
+dev.zio	zio-aws-cloudwatch_3	7.31.30.2		ca0c2301121925ee870612bc571ca4afefd69341
 dev.zio	zio-aws-cloudwatch_3	7.31.4.1		1625a3a05699f411f6379e18ec37ce5bbfb597a3
 dev.zio	zio-aws-cloudwatch_3	7.31.6.1		c6a0ffa356022cc37312c0e325d3ea27fab6794d
 dev.zio	zio-aws-cloudwatch_3	7.31.6.2		353f84a2e255040514918369fe5bf7961a7fa924
@@ -906,6 +910,7 @@ io.github.jsssk	bloom4j-base	1.0.RELEASE		3f2d1d4cc7678e630f1c64f2a8a9412e03ac2b
 io.github.kalist28	dayschedule-js	alpha-0.0.1		N/A
 io.github.nafg.scalajs-react-util	partial-renderer_sjs1_2.12	0.10.0		ab72bdc6ed36dda072bd5be657e0c80d8b8ae967
 io.github.reporting-solutions	org.eclipse.birt.report.data.oda.jdbc.dbprofile.ui	4.8.0		cc536c7c0e0f266035a98051dd0da162e6299009
+io.github.takapi327	ldbc-core_sjs1_3	0.3.0		4762a1c7b2265e741ddeaecde4998f7fc6f538e9
 io.github.takapi327	ldbc-core_sjs1_3	0.3.0-RC1		0c647bf2fd17edcd309a89310e4aa2736e9cf2dc
 io.github.takapi327	ldbc-core_sjs1_3	0.3.0-RC2		8ac0280eca7a51e3ad8b23843681374bcabdcb8e
 io.github.takapi327	ldbc-core_sjs1_3	0.3.0-alpha1		94c5d56b2dbd835f983b76922d8e2a0b4922a664
@@ -1063,6 +1068,7 @@ io.github.wimdeblauwe	vite-spring-boot	0.4.0		0fdfc3018addb8e0bebd0cd7ca9bc88e48
 io.github.wimdeblauwe	vite-spring-boot	0.5.0		ce6e909fadb01bbe577ea9053cd22a60b6d438eb
 io.github.wimdeblauwe	vite-spring-boot	0.6.0		357977aaab09ce74879d75ce2e8e7e55088c6a5e
 io.github.wimdeblauwe	vite-spring-boot	0.7.0		0fed2ac3903b21f85e4058da4cff6526d6942304
+io.github.wimdeblauwe	vite-spring-boot	0.8.0		f1d70a26bd751e49799c7706e55bdf3097289931
 io.joynr.java.messaging.bounceproxy	bounceproxy-standalone	0.6.0		56ff507c128bcc86ac5e955b516e1d1b7d86fa78
 io.stargate.graphql	sgv2-graphqlapi	2.0.0-ALPHA-10		59cadabe27d0d2fb5fa46d63926db26f877ef9fe
 io.stargate.graphql	sgv2-graphqlapi	2.0.0-ALPHA-11		979d0dcc75535a15d40018c080941343d11dc675
@@ -1810,7 +1816,18 @@ software.amazon.awssdk	backupsearch	2.31.30		3986df99a68374ad5c93422ec8b774b6a7f
 software.amazon.awssdk	backupsearch	2.31.31		5c1f57efc30dc3c1053960db5526254d43bd6d95
 software.amazon.awssdk	backupsearch	2.31.32		5aebce97a4de366df9f6602a94f678c568762c59
 software.amazon.awssdk	backupsearch	2.31.33		14e4216c57b73f5fdd235e838bc5a9e81b97bbb0
+software.amazon.awssdk	backupsearch	2.31.34		25806b419ee627277f806c6bc10a6627f20fc071
+software.amazon.awssdk	backupsearch	2.31.35		e145acee93e808b163363fc77420bd274e1a5736
+software.amazon.awssdk	backupsearch	2.31.36		a8889ab55912f51817d9d5f88d5ad363104d654e
+software.amazon.awssdk	backupsearch	2.31.37		caceed44bfe87583f0f2b8fb4a7098d2995c993b
+software.amazon.awssdk	backupsearch	2.31.38		8ec377f6fa0f63af85b256519124e7b3e2585512
+software.amazon.awssdk	backupsearch	2.31.39		b8048352de39e4b9aea4e5556e973ded47ed5f41
 software.amazon.awssdk	backupsearch	2.31.4		e3e4943239603da951ac549a5eae9197d78732e9
+software.amazon.awssdk	backupsearch	2.31.40		ea83963ecdcea3d80574b7d17ba3546ae969b2a1
+software.amazon.awssdk	backupsearch	2.31.41		a58f2ebd13efa33096d6c2abe10eb54d18a21561
+software.amazon.awssdk	backupsearch	2.31.42		24f1bf132f571c78e522b0acfa8d3750c7294810
+software.amazon.awssdk	backupsearch	2.31.43		9a59a0e9347b2ceac3c01821b884205d89c95af2
+software.amazon.awssdk	backupsearch	2.31.44		b1279afcea2c451abed79966c5db2e0519080960
 software.amazon.awssdk	backupsearch	2.31.5		e44fba9f0ca22c8836e40c5a0352a87d22554cf5
 software.amazon.awssdk	backupsearch	2.31.6		18d049d13cb0aa9a9ee13eaf432ec40f6121bfa8
 software.amazon.awssdk	backupsearch	2.31.7		16c9db560bfe215d7b722dab0a9079725112f7dd

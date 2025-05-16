@@ -184,6 +184,7 @@ com.google.appengine	appengine-apis-dev	2.0.32		04bd108a15ed8a1bfeab43bfdeb9a493
 com.google.appengine	appengine-apis-dev	2.0.33		949c3682e996a8a39cae904f19412d60f0ccaa1f
 com.google.appengine	appengine-apis-dev	2.0.34		0451aeeb428a10a7f33de7cc21da14c451c5dc92
 com.google.appengine	appengine-apis-dev	2.0.35		ec58becea8364e86f15a8881fb2f3ed484f0ff00
+com.google.appengine	appengine-apis-dev	2.0.36		402874c9737842eb713de1b3d35d63d6d82477a9
 com.google.appengine	appengine-apis-dev	2.0.7		0c467847648f23433e2dd153daedd111dd6239a5
 com.google.appengine	appengine-apis-dev	2.0.8		b4481a0411ff326303341c1cb65fc83a891e52a4
 com.guoshiyao.rely	rely-createconfig	10.1.4-RELEASE		2475749999ed9425d9af03ac5c1013a4bfe9d65f
@@ -1362,7 +1363,14 @@ com.zegreatrob.jsmints	plugins	6.4.21		50fe355f27636d4583012d7b23cb440f971e9929
 com.zegreatrob.jsmints	plugins	6.4.22		3eb3fe269cb3ea2b59fd19583047a10ecb46ff10
 com.zegreatrob.jsmints	plugins	6.4.23		297924cfc455f357973023109db32ebc65d9401d
 com.zegreatrob.jsmints	plugins	6.4.24		9e2baffa0355e2d79ee7ebe8f4f87b3b5ea753bd
+com.zegreatrob.jsmints	plugins	6.4.25		9ec4c700607d00ac674fd0e203ea65b2e7b8c01c
+com.zegreatrob.jsmints	plugins	6.4.26		4f450fa6c117f33301908386a3896bc26278fa94
+com.zegreatrob.jsmints	plugins	6.4.27		4a74c492a0f569326668c9fb773d71d880cec87e
+com.zegreatrob.jsmints	plugins	6.4.28		cec249423b50a57ea45ce8990b06b7d9d6278c65
+com.zegreatrob.jsmints	plugins	6.4.29		197d76edef19bfd47377bcb966a567b8e722c8b2
 com.zegreatrob.jsmints	plugins	6.4.3		277b342eb1074b3bad8d5aa114eb5e05af6baa20
+com.zegreatrob.jsmints	plugins	6.4.31		e9e86cb10cdc6f59ff7874592c8717c0d32f67f3
+com.zegreatrob.jsmints	plugins	6.4.32		bcde372bf86f89a0f03753e84b6115687b45e514
 com.zegreatrob.jsmints	plugins	6.4.4		cd0b5cfa7066d594f2ff4dab731eb245cff26cc9
 com.zegreatrob.jsmints	plugins	6.4.5		08c467683cccd70d8a63a234849ca03a6c6543f6
 com.zegreatrob.jsmints	plugins	6.4.6		c0cdf2f4ed403bc21076a1c864e3b824e4bd8619
@@ -1410,6 +1418,7 @@ io.github.pandulapeter.kubriko	tool-logger-iosarm64	0.0.1		N/A
 io.github.pandulapeter.kubriko	tool-logger-iosarm64	0.0.1	metadata	37b897438d0fbb89722a7f472f763d9f581217eb
 io.github.pandulapeter.kubriko	tool-logger-iosarm64	0.0.2		N/A
 io.github.pandulapeter.kubriko	tool-logger-iosarm64	0.0.2	metadata	479a33ae8dc221aae717ee8c553a8675919b2944
+io.github.pandulapeter.kubriko	tool-logger-iosarm64	0.0.3	metadata	c684757f777d0e42672653b349bfc5a5afa31e57
 io.github.pandulapeter.kubriko	tool-logger-iosarm64	unspecified		N/A
 io.github.pandulapeter.kubriko	tool-logger-iosarm64	unspecified	metadata	4ce93c9b16081afdcf92440546d7d5eda0d894e2
 io.github.spair	imgui-java-natives-windows-ft	1.82.1		0428335a7000bc24c7b10a4b11e14a8562150267
@@ -1459,6 +1468,7 @@ io.ktor	ktor-serialization-kotlinx-xml-mingwx64	3.0.3		af1f891ad43f50ea1dd0b6d66
 io.ktor	ktor-serialization-kotlinx-xml-mingwx64	3.1.0		e1b098c59f910fe972e406c092347d8f36c5b889
 io.ktor	ktor-serialization-kotlinx-xml-mingwx64	3.1.1		9494c28fa98d88dc1f0c3de21b10ed166b756a68
 io.ktor	ktor-serialization-kotlinx-xml-mingwx64	3.1.2		f76c797a31b4fbe7f0363cfb857fecfea90eec93
+io.ktor	ktor-serialization-kotlinx-xml-mingwx64	3.1.3		da8d295caabd7f8da696893404f45524114c3914
 io.maryk	maryk-testlib-watchosarm64	0.6.0		N/A
 io.maryk	maryk-testlib-watchosarm64	0.6.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.provenance.hdwallet	hdwallet-signer	0.1.10		1b46b5743c251361e9442f4ba655f22a04cbfe08
@@ -1529,11 +1539,19 @@ io.spinnaker.kayenta	kayenta-web	2.45.0		0c4cadcc618cb98da1505d1395680d463c50a7b
 io.spinnaker.kayenta	kayenta-web	2.46.0		3e779ddeb6ecd71bd7dd058b4fb2a882005f143a
 io.spinnaker.kayenta	kayenta-web	2025.0-0		c48ddeee7d2f178b4477369fcfbd5cdaa385381c
 io.spinnaker.kayenta	kayenta-web	2025.0-1		aee6522e921bfb431c5a33bb3f49d13b108d8f16
+io.spinnaker.kayenta	kayenta-web	2025.0-2		4f47cdcd8072a38452279de0270e7a7d1c23ebb3
+io.spinnaker.kayenta	kayenta-web	2025.0-3		8ad1885767a55616816848605d1815dfa5ecfd64
+io.spinnaker.kayenta	kayenta-web	2025.0-4		7cf89721c5232abf6692ac111a632247b2b9c8dd
 io.spinnaker.kayenta	kayenta-web	2025.0.0		c298c9d8f935d84ae43116e37e46f272ec08b262
+io.spinnaker.kayenta	kayenta-web	2025.0.1		890dee9500ef12ff489ea7fc8230b752eba01067
+io.spinnaker.kayenta	kayenta-web	main-10		cdd8915558171f05aff7467111aa9f65a814bbf3
+io.spinnaker.kayenta	kayenta-web	main-11		42487eadcd40c3fb7fc8b805bd295f884dfbc991
+io.spinnaker.kayenta	kayenta-web	main-12		acf936cf4fa253217c0d8b0defa317c96743e11a
 io.spinnaker.kayenta	kayenta-web	main-5		0fb134defc495996a99ee8b9355cbf497bd14dab
 io.spinnaker.kayenta	kayenta-web	main-6		aca83637068743f65455a0957a50fb8fe094adb1
 io.spinnaker.kayenta	kayenta-web	main-7		89f2fa4fa09f992f5c565f401c964f9ffff4675d
 io.spinnaker.kayenta	kayenta-web	main-8		fc27a291db984e973e8ef310cf9609d956ac1540
+io.spinnaker.kayenta	kayenta-web	main-9		b3feddbab0d6d148b0b9af17faac04bb9e982cdc
 io.sreworks	sreworks-plugin-server	1.0.0		21c815cc9b06830b38d502b3a7c8e6a38177756e
 io.sreworks	sreworks-plugin-server	1.0.2		e7c902f375241ccb227ed03e53a8b911c82f1f5a
 io.sreworks	sreworks-plugin-server	1.0.3		39514b1b346de255c9da88063d93229daaf95264

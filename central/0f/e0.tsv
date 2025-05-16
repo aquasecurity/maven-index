@@ -30,6 +30,7 @@ ch.exense.step	step-functions-package-controller	3.26.5-customized-j		0d3e2bda68
 ch.exense.step	step-functions-package-controller	3.27.0		e539418e3359f7314bd58e6d1e7f0cedae9624f7
 ch.exense.step	step-functions-package-controller	3.27.1		3f061ca58513203018018a1da68ea61b8d4a26f3
 ch.exense.step	step-functions-package-controller	3.27.2		39b6f32a73e8b1275f37fec4dff879c3dba6cdb3
+ch.exense.step	step-functions-package-controller	3.27.3		f04cf488ec5ae848556d6e971f44e2affd7b3a47
 cloud.thingslinker	onion-mqtt-client	1.0.2		eed6c50fb3d348ddb5d27ae3237c1cfbc75bda9c
 cloud.thingslinker	onion-mqtt-client	1.0.4		55a8130d54e615d1c176de9aae53527223f6fc23
 cloud.thingslinker	onion-mqtt-client	1.0.5		a43fd1c6638343c748da9e1f0fabdd9ad0c84712
@@ -111,6 +112,7 @@ com.algolia	algoliasearch-client-kotlin-macosx64	3.18.4		N/A
 com.algolia	algoliasearch-client-kotlin-macosx64	3.18.4	metadata	b1f8b01ef078473146ee79a83f59fe5856515497
 com.algolia	algoliasearch-client-kotlin-macosx64	3.18.5		N/A
 com.algolia	algoliasearch-client-kotlin-macosx64	3.18.5	metadata	5d579d8961a746102b387ff2ebf79a4954622baf
+com.algolia	algoliasearch-client-kotlin-macosx64	3.19.0	metadata	5c117a2e44c9bc6296170160f82b56e5ca7452cb
 com.algolia	algoliasearch-client-kotlin-macosx64	3.2.0		N/A
 com.algolia	algoliasearch-client-kotlin-macosx64	3.2.0	metadata	6dd70d2cdefc36fdb904821a4329470b8a89f556
 com.algolia	algoliasearch-client-kotlin-macosx64	3.2.1		N/A
@@ -894,6 +896,7 @@ io.helidon.common	helidon-common-buffers	4.1.6		260ab13ee010aca29fa9a20baace6739
 io.helidon.common	helidon-common-buffers	4.1.7		d3ab0b0e1b4012b0ee867fab3555e0e756d00edd
 io.helidon.common	helidon-common-buffers	4.2.0		93455ddeb301a180c209089c2fa8c62f03303f5a
 io.helidon.common	helidon-common-buffers	4.2.1		707e253c76764f46e78a8c22f7053696fe382ee8
+io.helidon.common	helidon-common-buffers	4.2.2		e2dc6321413cdb053be6067dcba4b0fb3370b8c3
 io.ktor	ktor-client-darwin-tvossimulatorarm64	2.0.0		b0b76ef99da30e2e95580334f5b634bed1cee359
 io.ktor	ktor-client-darwin-tvossimulatorarm64	2.0.0	metadata	fa5c0c9258f5330adecac53b9e778c69b2d0427e
 io.ktor	ktor-client-darwin-tvossimulatorarm64	2.0.0-beta-1		24eb31b4721d6e085ae968076aafba2d7a2dda36
@@ -974,6 +977,8 @@ io.ktor	ktor-client-darwin-tvossimulatorarm64	3.1.1		0a921f00fd9459c93a6ba7eb0ab
 io.ktor	ktor-client-darwin-tvossimulatorarm64	3.1.1	metadata	2cf7a16f01dbfd840f33bc66f0a8e1968e97fb26
 io.ktor	ktor-client-darwin-tvossimulatorarm64	3.1.2		c90a2b17c5d303dd49b9f8af3e47befdc7726def
 io.ktor	ktor-client-darwin-tvossimulatorarm64	3.1.2	metadata	a34a7326f57ee83a5bdaf83bce019e1833c298e2
+io.ktor	ktor-client-darwin-tvossimulatorarm64	3.1.3		8edb2ff96ab6163f15bfc3983c32674b55dbf50a
+io.ktor	ktor-client-darwin-tvossimulatorarm64	3.1.3	metadata	aa5dba8fdcc590eec254bfd9bc3d693d048804b6
 io.openharmony.tpc.thirdlib	RxScreenshotDetector	1.0.0		N/A
 io.openharmony.tpc.thirdlib	RxScreenshotDetector	1.0.1		N/A
 io.openharmony.tpc.thirdlib	RxScreenshotDetector	1.0.2		N/A
@@ -1126,6 +1131,7 @@ org.apache.tika	tika-eval-core	2.9.0		4e8fd85f9f78f29b746c0c61b8a17c6453323ade
 org.apache.tika	tika-eval-core	2.9.1		9d8525990b6d6b3e5ac52ca182028d48719afa0d
 org.apache.tika	tika-eval-core	2.9.2		b88666405bdb5e0f738d0014607f8bcc04c8c3bd
 org.apache.tika	tika-eval-core	2.9.3		bbc8645c73267ae5cdf1c46ae05418c637ef95e4
+org.apache.tika	tika-eval-core	2.9.4		8b6f284c4f1966c560c4cf8d222f99281d96e254
 org.apache.tika	tika-eval-core	3.0.0		40c3b3199aea5848add391bd9f98b32daf731a19
 org.apache.tika	tika-eval-core	3.0.0-BETA		349bf44358c3343173d6f6092a22a51258aa6531
 org.apache.tika	tika-eval-core	3.0.0-BETA2		8ca98f7783cc8e9b04630f55a7276adde35c8664
@@ -1508,6 +1514,7 @@ org.apereo.cas	cas-server-support-memcached-spy	7.2.0-RC6		0cc4a3b9fb0f8b88f703c
 org.apereo.cas	cas-server-support-memcached-spy	7.2.0-RC6	resources	f7b372b601bb89354c349e1eaf29d2678771f65e
 org.apereo.cas	cas-server-support-memcached-spy	7.2.1		3065eb771e4324e1cac2d0f382fd9b4ea689deee
 org.apereo.cas	cas-server-support-memcached-spy	7.2.1	resources	18629ccda332d75eff6672aef184f3ce715c8daa
+org.apereo.cas	cas-server-support-memcached-spy	7.2.2		61e791606fc1ad17023e9f37aaf5cca5168f8389
 org.apereo.cas	cas-server-support-memcached-spy	7.3.0-RC1		309454ff6cf73a7e9fcd26a184866cd925b526e5
 org.apereo.cas	cas-server-support-memcached-spy	7.3.0-RC1	resources	9de29118e3e94067ccf829e5f5d26968963f8a6d
 org.apereo.cas	cas-server-support-memcached-spy	v6.4.0-RC5		4575573e5a2859c3ddd97e75ff26d1a1e497b400
@@ -2096,6 +2103,7 @@ org.talend.sdk.component	urlvalidation-component	1.78.0		3d724a00890c9b20d99dd62
 org.talend.sdk.component	urlvalidation-component	1.78.1		f7ca1c72697e9433178cb8aec029bcdaddcf57bc
 org.talend.sdk.component	urlvalidation-component	1.79.0		e408e9304098020c36211e5faebd405498660ed3
 org.talend.sdk.component	urlvalidation-component	1.80.0		0acf192da89d4a81b0951fd9bb791390e18a5c1a
+org.talend.sdk.component	urlvalidation-component	1.80.1		1fd7442571e7be39ae8c4391101e3b2454b865a0
 org.talend.sdk.component	urlvalidation-component	10.57.0		2b1c945e29778f9d9c4056784178dc2235e1f1cb
 org.tinygroup	org.tinygroup.uiupload	2.0.19		e82f0793fa12c0f2d4211ec84a23bd8aad6b198e
 org.tinygroup	org.tinygroup.uiupload	2.0.26		d8434f6a9a07008f300b2a8aaea44fd87b18ce85
@@ -2201,6 +2209,7 @@ org.wildfly	wildfly-weld-ejb	35.0.0.Final		7f2e6c4ff39ce2836d7e727b484f1109bdcac
 org.wildfly	wildfly-weld-ejb	35.0.1.Final		423d3eb5c2a4af3b9d58389f380bfe4ad05275ce
 org.wildfly	wildfly-weld-ejb	36.0.0.Beta1		f145b58e8e71a4447ab4bad56868210d8652488b
 org.wildfly	wildfly-weld-ejb	36.0.0.Final		8e17c30edd34570a7488f7f08aa2acf52ce21cf7
+org.wildfly	wildfly-weld-ejb	36.0.1.Final		74256388f5a2b6cdbe0771bdfebc7ee024e95f74
 org.wiztools	commons-lib	0.4.2		1a2e7639c854b1aa2733b1c435be74e409fc8400
 software.xdev	sessionize-java-client	1.2.1		7ecbc978dca20c22baec013a7a99f9f68d0f3fc5
 software.xdev	sessionize-java-client	1.2.2		3707856f33376576f080ff90ce6a5406343ba421

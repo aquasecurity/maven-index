@@ -4,6 +4,7 @@ co.actioniq.thirdparty.com.twitter	scrooge-ostrich_2.10	3.17.0-fda97c3c64755e876
 com.antgroup.antchain.openapi	openapi-collabinv	1.0.12		fec8ce87f386a7ceed1121b481b5b3a3cae04bf0
 com.antgroup.antchain.openapi	openapi-collabinv	1.0.14		94d7f33d332e255d8356514a993fb4bdeb170d9a
 com.antgroup.antchain.openapi	openapi-collabinv	1.0.20		ebe3a474605ccff94325d793e72f8bdde46368e2
+com.antgroup.antchain.openapi	openapi-collabinv	1.0.22		08ab70766298d622c9b488e16cb926cb27a77a27
 com.antgroup.antchain.openapi	openapi-collabinv	1.0.9		8fcf805342896ab061400b66a98635554dd636dd
 com.apollographql.apollo	apollo-normalized-cache-js	4.0.0		N/A
 com.apollographql.apollo	apollo-normalized-cache-js	4.0.0-rc.1		N/A
@@ -161,6 +162,7 @@ com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.18.0-rc1		ebcc7c0
 com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.18.1		5ab62b82eae86fd838621bd44fc42e00742336a4
 com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.18.2		bbc7a28ad46032f862b13e825a873d8e584c29f2
 com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.18.3		e47bb91946f4b67bba14b7d5b24eb66ebc5e93f3
+com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.18.4		2b56b3738d5be766706bd905b90fc2cb6fa5459c
 com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.19.0		c0611d25556ec0b9540d90050738139e8ecd10c2
 com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.19.0-rc2		af2ed76eba079aa2f459d6a77ac7e099036246b1
 com.fasterxml.jackson.dataformat	jackson-dataformat-protobuf	2.6.0		cd67f98feebdea8c051f7aba4ece9489d5663b22
@@ -312,6 +314,7 @@ com.slack.circuit	circuitx-gesture-navigation-jvm	0.26.0		81e19c7fd050099ddbbf8f
 com.slack.circuit	circuitx-gesture-navigation-jvm	0.26.1		46bb5edde70c0090290a6e965be1f19a45fc418c
 com.slack.circuit	circuitx-gesture-navigation-jvm	0.27.0		240af0d0ea88339b31434102537082c81191978c
 com.slack.circuit	circuitx-gesture-navigation-jvm	0.27.1		d1b89a20c802d6468c709bf377accf6c3d8e301c
+com.slack.circuit	circuitx-gesture-navigation-jvm	0.28.0		ac205c1c26d4222c18bfbebac9ca37e8c39d5f16
 com.squareup.wire	wire-reflector-metadata	4.0.0-alpha.1		65efa06dfcc5b2f2017cd37deba5057de91a7f49
 com.squareup.wire	wire-reflector-metadata	4.0.0-alpha.2		e02aa596d9c7ea98592398ed6b9a82c4d81e86e5
 com.squareup.wire	wire-reflector-metadata	4.0.0-alpha.3		840b58e7cd38d97474cded583b47fa1866369ffc
@@ -1028,6 +1031,7 @@ io.quarkus	quarkus-container-image-jib-deployment	3.15.2		6db986b587f687793fb448
 io.quarkus	quarkus-container-image-jib-deployment	3.15.3		d0414b10d7c3cd1873872244b158629167d5e40a
 io.quarkus	quarkus-container-image-jib-deployment	3.15.3.1		efd0686ce17912f6074ed022b55fea165dc04723
 io.quarkus	quarkus-container-image-jib-deployment	3.15.4		e3d7686d8970ee9c01acaa4cd12be534b232d6ff
+io.quarkus	quarkus-container-image-jib-deployment	3.15.5		9aa644ab58d3f5b4fa6eeba073b991357fe05473
 io.quarkus	quarkus-container-image-jib-deployment	3.16.0		42c5b8248bdb2d2c876c448df0c3cecdc39bb3d3
 io.quarkus	quarkus-container-image-jib-deployment	3.16.0.CR1		e6e6968c2de484ec4b7a71e9ba86d783948ecea5
 io.quarkus	quarkus-container-image-jib-deployment	3.16.1		2b44814cd1aa08679db898f103d62b95bd73ea84
@@ -1072,6 +1076,7 @@ io.quarkus	quarkus-container-image-jib-deployment	3.2.8.Final		1606fdb3541636066
 io.quarkus	quarkus-container-image-jib-deployment	3.2.9.Final		b44113149180861c828cf2c4430bcec0e1c6a523
 io.quarkus	quarkus-container-image-jib-deployment	3.20.0		09fb67bfffaee5936c9f6083b3a59eba2f4a7174
 io.quarkus	quarkus-container-image-jib-deployment	3.20.0.CR1		ffd6c2758339a222032365d6e758a6c3db5f34e7
+io.quarkus	quarkus-container-image-jib-deployment	3.20.1		6b07d0f89f6754460441b99f3b60cb3c6809ce1b
 io.quarkus	quarkus-container-image-jib-deployment	3.21.0		8cd4fc859520a46b2b50c3acb313e58fa5b83378
 io.quarkus	quarkus-container-image-jib-deployment	3.21.0.CR1		aa8a6d9cb6dee403d4d97e852a7c92a42e37000c
 io.quarkus	quarkus-container-image-jib-deployment	3.21.1		ae0f9c791ee2bb19877c52820fd1c1b8bdb9c35b
@@ -1081,6 +1086,9 @@ io.quarkus	quarkus-container-image-jib-deployment	3.21.4		3cf2e49dc3d6a510423588
 io.quarkus	quarkus-container-image-jib-deployment	3.22.0		7689292874ccc959884b688f789c721ef8f16bfd
 io.quarkus	quarkus-container-image-jib-deployment	3.22.0.CR1		c2c654e6f3722a00c093b2af80ed27927a17bb2a
 io.quarkus	quarkus-container-image-jib-deployment	3.22.1		6d458342970d6610789c80d27cb27efe1f08175a
+io.quarkus	quarkus-container-image-jib-deployment	3.22.2		81d3161a0a9cf07b561da78dbf1185178f5e7f98
+io.quarkus	quarkus-container-image-jib-deployment	3.22.3		8e15189a0195b62cd4ac04a9d3b1cfae29efa249
+io.quarkus	quarkus-container-image-jib-deployment	3.23.0.CR1		07627f9f8791559f8bf053a6268073260b18be01
 io.quarkus	quarkus-container-image-jib-deployment	3.3.0		f3d58b28880aa8d3401b6694dc29519ec84c756d
 io.quarkus	quarkus-container-image-jib-deployment	3.3.0.CR1		046bbcc7fbe3573faf3e18ac4e239c4f3c405efa
 io.quarkus	quarkus-container-image-jib-deployment	3.3.1		40fd56e79ff40e88788de1c55985b7c0b6c5b7e7
@@ -2301,6 +2309,7 @@ org.jgroups	jgroups	5.4.3.Final		25507f3ea4be7ac4fbef79c6cb116743f039d4df
 org.jgroups	jgroups	5.4.4.Final		86b398eff6ae4b78c2793f88723a37de5d313ade
 org.jgroups	jgroups	5.4.5.Final		fe9e2f083d6f5559fd7c77a521bc21137762d7f6
 org.jgroups	jgroups	5.4.6.Final		adbe63b3e75df7614da65ccbeade4d3c8f1d1ef9
+org.jgroups	jgroups	5.4.7.Final		6ac6191e213a08a7a0981f5f4bb8e5f35da3ebc4
 org.jresearch.commons.base	org.jresearch.commons.base.util	1.0.1		e00327074ba4f2913a3b8ba8e33ebc326c3989a3
 org.jresearch.commons.base	org.jresearch.commons.base.util	1.0.10		981adf7e8a41e966522af0f04164d628fb5df6da
 org.jresearch.commons.base	org.jresearch.commons.base.util	1.0.11		ffdf6aca42e96963808ca0e0c6056196236b9602
@@ -2405,6 +2414,7 @@ org.opencadc	cadc-registry	1.7.4		f2be924ec287674b4ab68cef7f95221c94e85f6e
 org.opencadc	cadc-registry	1.7.5		8975c767c5fd9859806258c5fa68122c53ead0b4
 org.opencadc	cadc-registry	1.7.6		f24956bb2d35d39ee404eff51cc5bc57a19d784f
 org.opencadc	cadc-registry	1.7.7		a71c1bcdbcc7f90e91089d89112882cecbfb5815
+org.opencadc	cadc-registry	1.8.0		50729fd9e7ae17b314bf498dedb49bc499bd919a
 org.scalaz	scalaz-plugin_2.12.4	0.0.3		8d0fda18fcd9279ffdbaf323add260f0c38f021b
 org.scalaz	scalaz-plugin_2.12.4	0.0.4		d53b795d56e9e2ceb01875dea304276c6d11cc26
 org.scalaz	scalaz-plugin_2.12.4	0.0.5		8429c260d5aab77d19a0f67a33b0ef9e238feea2
@@ -2594,6 +2604,7 @@ org.wildfly.security	wildfly-elytron-sasl-anonymous	2.1.0.Final		a2303f680cbc867
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.2.0.Final		710d0759d4710df0a3cc488717bf57b4b69170fe
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.2.1.Final		ee982168f078b0376f1403509a941c42ea71bdb6
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.2.10.Final		b22e677d2495f21715a413e42e1a824b91f20d22
+org.wildfly.security	wildfly-elytron-sasl-anonymous	2.2.11.Final		d3bd00a589f98c93d7092dc09324d99d2c56647a
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.2.2.Final		cd4df46a612754f85219741cd44f7e5ffa7f551a
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.2.3.Final		eb58da939d5c66992604e0c511929bbad0a65ef7
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.2.4.Final		8ddae36dd17c6edb945eea1042d04a2b52351563
@@ -2616,6 +2627,7 @@ org.wildfly.security	wildfly-elytron-sasl-anonymous	2.6.0.Final		04af4d4fcdea2da
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.6.1.Final		1c9edae246c9914c147ce45c5c6835875de0ded8
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.6.2.Final		c823259f31c7630f22f7c4c21298a5c74ef1e00b
 org.wildfly.security	wildfly-elytron-sasl-anonymous	2.6.3.Final		a724696993b398bba28c48f6b6ab44dcc04a8bea
+org.wildfly.security	wildfly-elytron-sasl-anonymous	2.6.4.Final		b87a9e2edc8c897632c3e26a3cdc64ed7ad09d39
 tr.com.terrayazilim.tms	terrayazilim-tms	0.0.4		5734f2d6db85527193e7e478b5034f91c7923d6f
 tr.com.terrayazilim.tms	terrayazilim-tms	0.0.5		b4df178ddfc08bd135a4b188be559dc406242541
 tr.com.terrayazilim.tms	terrayazilim-tms	0.0.6		d8fe20c4e52d25aabea4262034c7fc9664c03906

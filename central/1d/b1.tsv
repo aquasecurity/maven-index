@@ -354,6 +354,9 @@ com.materialkolor	material-kolor-iossimulatorarm64	3.0.0-alpha01		N/A
 com.materialkolor	material-kolor-iossimulatorarm64	3.0.0-alpha01	metadata	664edac0feabf1917909c091ed03c7107fc631f8
 com.materialkolor	material-kolor-iossimulatorarm64	3.0.0-alpha02		N/A
 com.materialkolor	material-kolor-iossimulatorarm64	3.0.0-alpha02	metadata	c85103b8de3336e83ced2145fd59ae09b3270174
+com.materialkolor	material-kolor-iossimulatorarm64	3.0.0-alpha03	metadata	e95a7e549a1ed6a439ff88c4e1cc5485a89de5e1
+com.materialkolor	material-kolor-iossimulatorarm64	3.0.0-alpha04	metadata	c8ec30a4dd449b12998dce4ed464bf59acd1c44d
+com.materialkolor	material-kolor-iossimulatorarm64	3.0.0-beta01	metadata	8cad890ad2cf5a0433b899d5889a59d69f195432
 com.nablarch.framework	nablarch-common-idgenerator	1.0.1		79723dbf52733efd09429bdcfc33db41d26c1ec1
 com.nablarch.framework	nablarch-common-idgenerator	2.0.0		f3e0d0ac4a7e04ea74947121fc843b06b82330ad
 com.newrelic.labs.custom-log4j2-appender.0.0.8.com.newrelic.labs	custom-log4j2-appender	0.0.8		a0ad23ca86cc64d5ff88a8b3ea7cb6587854ffcb
@@ -823,6 +826,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-3.0	2.13.3-alpha		dd7efad14071bbb045dffba71c1a93d5e40b9433
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-3.0	2.14.0-alpha		da8a6a6451a6b5f100e6c17c26be9b404c0b486b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-3.0	2.15.0-alpha		1fa66894e7a65f6a07bb1bd0ac9ae903e0727f0a
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-3.0	2.16.0-alpha		81e0c093af7168350a799bdbbc2b6b762db4df07
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-3.0	2.2.0-alpha		d678eab7b0aa0626daa834af173f7238c22721ce
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-3.0	2.3.0-alpha		ee9a3b79b07e88a3a514d0742d0bef1c369f4413
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-spring-batch-3.0	2.4.0-alpha		5924f2a77b3242f9ad00bb36558e2e7f3a514009
@@ -843,6 +847,7 @@ io.sundr	sundr-codegen-velocity-nodeps	0.103.0		3a44dc5a8c90d14692a8f753c074e068
 io.sundr	sundr-codegen-velocity-nodeps	0.103.1		2fcb35ac58cdf766b921dcc4b403ff3c725febbc
 io.sundr	sundr-codegen-velocity-nodeps	0.200.0		efd4e4e386414b5b4fdabff0a3b5f03b7f66978b
 io.sundr	sundr-codegen-velocity-nodeps	0.200.3		3a55e170a888e0d86aa0d785b42dc244269b529c
+io.sundr	sundr-codegen-velocity-nodeps	0.200.4		c3bdc795fe24e686a3d36995af5c4ff79fc01857
 io.sundr	sundr-codegen-velocity-nodeps	0.50.0		8614d7c9a3d27c9b5984c30cb4b6dcf3a06d4250
 io.sundr	sundr-codegen-velocity-nodeps	0.50.1		b848a6a8d77de13e309c9087bf283b35435f3559
 io.sundr	sundr-codegen-velocity-nodeps	0.50.2		cfa21574be963e7a4a5dc566e571b40c96d4befb
@@ -1083,6 +1088,7 @@ org.jetbrains.compose.ui	ui	1.7.0-beta02		f4dac83edc8aadde8fdc6a04f3c123047124a4
 org.jetbrains.compose.ui	ui	1.7.0-rc01		718a60364503f7f245bdc748ee706d38f4e778ea
 org.jetbrains.compose.ui	ui	1.7.1		5ad9806654153faf72e892009c3a9b7811161765
 org.jetbrains.compose.ui	ui	1.7.3		dc711d00b93d3533da1b90857c1c78316c1779df
+org.jetbrains.compose.ui	ui	1.8.0		7f55731b400f9a22928ea788fb80df2393208926
 org.jetbrains.compose.ui	ui	1.8.0-alpha01		a7dca551ffd7775312d4c6251657c9f38053afd3
 org.jetbrains.compose.ui	ui	1.8.0-alpha02		d8931ae074fc436c5ffa4a8776fc568e0e5ad9bf
 org.jetbrains.compose.ui	ui	1.8.0-alpha03		7c1120dc57b819aa44e44a5813fac4915c21b998
@@ -1351,6 +1357,8 @@ org.logging4s	logging4s-argonaut_3	0.8.0		bb1ad35c5662ec9bb790d92516548b7e5c60c9
 org.logging4s	logging4s-argonaut_3	0.8.1		955e03e56224ce4e7505edf9f8cc84c8ff819bd4
 org.logging4s	logging4s-argonaut_3	0.8.2		15a9119f1e7fc8318e18b32819a64451317983e1
 org.logging4s	logging4s-argonaut_3	0.8.3		62e79c9e6e0414ec584a62eca1a75c2aab5ae9e9
+org.logging4s	logging4s-argonaut_3	0.9.0		0eb9e4e438ffd577509aee56c4b9c7a54f584410
+org.logging4s	logging4s-argonaut_3	0.9.1		b7c4739d889fa984d646d41ee6a7c4244c5612c2
 org.mobicents.resources	restcomm-slee-ra-diameter-rx-ra-DU	2.8.19		15b8e7be2789314849f12e09dd44be3446c01988
 org.mobicents.resources	restcomm-slee-ra-diameter-rx-ra-DU	2.8.20		70b948af52bfcb38d1a2598b945a8dc89575714b
 org.mobicents.resources	restcomm-slee-ra-diameter-rx-ra-DU	2.8.21		24014c559ad59726756eb5f90722d70f35bc2465

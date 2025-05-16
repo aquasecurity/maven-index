@@ -881,6 +881,7 @@ io.quarkus	quarkus-vertx	3.15.2		4078353c204174610f15f45357d13cb8194fbc5d
 io.quarkus	quarkus-vertx	3.15.3		50da9298021e13edf4a2839f99feac86da34fd08
 io.quarkus	quarkus-vertx	3.15.3.1		bd5647435b2dd4ce0b20c3cced04058d0a94544f
 io.quarkus	quarkus-vertx	3.15.4		a7c64bfacce7e1668d0a9ea8131bc04efe1d8464
+io.quarkus	quarkus-vertx	3.15.5		96cf724d1196d465a9a11a1961928fcb7b791319
 io.quarkus	quarkus-vertx	3.16.0		7edd5a85791fc654d2d5912edc0a48deb1a99c8e
 io.quarkus	quarkus-vertx	3.16.0.CR1		a1ab8b83f0f0159ed574f90da502c1f137a8af5b
 io.quarkus	quarkus-vertx	3.16.1		f394aa8cb9894a433bbbb7c5c574d8ce429fea5f
@@ -925,6 +926,7 @@ io.quarkus	quarkus-vertx	3.2.8.Final		4fc1b57b54f92e10249273a60bf5dd9efc6d72f6
 io.quarkus	quarkus-vertx	3.2.9.Final		d530a5156b16fdc247f1647d2fc40885ddfff4df
 io.quarkus	quarkus-vertx	3.20.0		d9ac3d8c5bc210d628d14342e2485827ea53e1b3
 io.quarkus	quarkus-vertx	3.20.0.CR1		9dcc22046a721c4a3c12592bfd2c1d3c25feebeb
+io.quarkus	quarkus-vertx	3.20.1		c97a5081194698629125db42528333f2db8d1682
 io.quarkus	quarkus-vertx	3.21.0		34062d801eb8738dd0e4483233fae6f2eb92294c
 io.quarkus	quarkus-vertx	3.21.0.CR1		c95610d9ecdf78fca4221a8696914dc7844e26a2
 io.quarkus	quarkus-vertx	3.21.1		3da48ed77c607c765573167210028ec8280ca583
@@ -934,6 +936,9 @@ io.quarkus	quarkus-vertx	3.21.4		2ff6fa3fa6a7dad876f011dda8bb015275eb049f
 io.quarkus	quarkus-vertx	3.22.0		0d9b6e4de13709f729564fc93a403d02e686886a
 io.quarkus	quarkus-vertx	3.22.0.CR1		f399e67a00a5d0a73f42fe2efc15e9b313d96893
 io.quarkus	quarkus-vertx	3.22.1		8f278e88f19176f9b7c3d0a691c818d810e5f743
+io.quarkus	quarkus-vertx	3.22.2		c8a82b8ad030f712527a2508729a71fd4c241987
+io.quarkus	quarkus-vertx	3.22.3		8b7577e9b7e9f8aeda12b9737ca11f65e75159cb
+io.quarkus	quarkus-vertx	3.23.0.CR1		f41f27cfa6e40fcfc9d1f2b7788decec03e3b30e
 io.quarkus	quarkus-vertx	3.3.0		199d3f3418c70a82d08a47609969671a269abb1e
 io.quarkus	quarkus-vertx	3.3.0.CR1		04e8c5919de90e2762d8d70c405890a9885c1cbc
 io.quarkus	quarkus-vertx	3.3.1		675f0e6fdb584dabe3197b90041971afd957e23f
@@ -1128,6 +1133,7 @@ org.apache.skywalking	collector-grpc-manager-define	5.0.0-RC2		6e03fcdf15153ce31
 org.apache.skywalking	collector-grpc-manager-define	5.0.0-alpha		ab30b970522dafcd0a916d12861b10c87fdc324c
 org.apache.skywalking	collector-grpc-manager-define	5.0.0-beta		9d3fdfc783293e15b409c1708721622b40643f3f
 org.apache.skywalking	collector-grpc-manager-define	5.0.0-beta2		f460395b54c5a0875cd82eef7323276f8c678e59
+org.apereo.cas.support.cas-server-support-memcached-monitor	5.0.0.RC2	support		59b54f1c06ef24174fbe40e923dbe3d177858b01
 org.bitcoin-s	bitcoin-s-dlc-wallet_2.12	1.7.0		0b2560ad48232071142d3932ed823e46e4eedb36
 org.bitcoin-s	bitcoin-s-dlc-wallet_2.12	1.8.0		5442d86b1cdbb25b46dc24307168d1067825da34
 org.bitcoin-s	bitcoin-s-dlc-wallet_2.12	1.9.0		b6fa746b2fce68a538cbac299231afc2d7a27595
@@ -1209,6 +1215,17 @@ org.jcoffee	elasticsearch-orm	0.1.2		69be0def110f0865a702cfd0871bc88fbf1da5fa
 org.jcoffee	elasticsearch-orm	1.0.0		d29f990c3f69ad2c476d75fe7d28ab437ca4a78f
 org.jcoffee	elasticsearch-orm	1.0.1		d731e3e2cac26a7b7df5aae7208ce0d67a5f4490
 org.jcoffee	elasticsearch-orm	1.0.2		02daa701e4bb3dbb05b8db0cdcf820f7fd70ba00
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2023.3.2		acbc91d0d7e5367a29f1812288aead491b74b778
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.1.0		d1b765d788ce1c1f48c464297ea99ae313ec432d
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.1.1		5ef937798a6ac7528d5254d2c16ff9a5398e3e91
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.1.2		87a817a4eff4faba3788a5f2a30008ee0fc29e22
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.2.1		79d9b79d6887b8e94efcce0df83fa37b0ef1f7c6
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.2.2		3af62131129617feb889f35ff932d6b1d5b32197
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.2.3		18c1be951266d1b96456766b4ecfaf5bd8fe7921
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.2.5		8abb420fc8f1b688921cbbe9b6e3bacfb462b73d
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2024.3.0		246bb5f13ded43b20378fcdc476551677c4c660b
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2025.1.0		064ffbba24984f11acb2a5cf96d89396bbbd55b8
+org.jetbrains.scala	sbt-structure-extractor_2.12_1.2	2025.1.1		2534d342a2d556172b599fdbba16150284f350b4
 org.mvnpm	merge2	1.3.0		45c1608a67a63df22097b498dca1eee01c8b6530
 org.mvnpm	merge2	1.4.0		6c028834de34092e6de8a4a143dfc7902cda883e
 org.mvnpm	merge2	1.4.1		1b01b4d47c5c5a40215fd18a70cea3110c6685e5
@@ -1315,6 +1332,7 @@ ru.tinkoff.kora	telemetry-common	1.1.22		7c255d6f96361b31c23b27fd6148ccbec392510
 ru.tinkoff.kora	telemetry-common	1.1.23		510cc059f491f8366eba28042d064d6c9ad47913
 ru.tinkoff.kora	telemetry-common	1.1.24		7bbc785064035bb064c8b3e9b26383b5b0895788
 ru.tinkoff.kora	telemetry-common	1.1.25		6a6b703d449bd1f2618a10446d01aad92f407087
+ru.tinkoff.kora	telemetry-common	1.1.26		f88c37296cd5c6dc726a92ad63d656972f5cb69d
 ru.tinkoff.kora	telemetry-common	1.1.3		1237309a8bd19ad292cd069d7327c4004bde5fed
 ru.tinkoff.kora	telemetry-common	1.1.4		8a263f8c65e99965b6b280eefaa6d8c5a16aa1c9
 ru.tinkoff.kora	telemetry-common	1.1.5		1db1f0dba3f0c44f2b8a670759e5a56319b264e4

@@ -560,6 +560,8 @@ com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.119.1		26eee658862904afbab9c6b
 com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.120.0		fdf1751737a6ebe309e36ed421456c531772b09e
 com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.121.0		170e081aa971d84714f70f7025d0f3cad9a3f272
 com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.121.1		63bb77fda53db9756bd920a9f33e25291714ce2c
+com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.121.2		80f6cdc50a17cb1beacee69ef74cdf1524adff55
+com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.121.3		15a02060c1d96c7ce70df5829a60395dddacf84f
 com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.13.0		de2d660fed3dab899062ab1581a3973d7a9c557a
 com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.14.0		457e1ed5933fac00b41687b60cef2b4c080c846f
 com.google.api.grpc	grpc-google-cloud-pubsub-v1	1.15.0		858a5900fe885c08df617e1d7db03a7fd8901270
@@ -894,6 +896,7 @@ io.automatiko.workflow	automatiko-workflow-serverless	0.41.0		6405ce560dc686f9ef
 io.automatiko.workflow	automatiko-workflow-serverless	0.42.0		ec49cf24058ae79ee54b6a4d4cb76be80ae346d6
 io.automatiko.workflow	automatiko-workflow-serverless	0.42.1		eef62f43d75bcb2bb025394b58c767afb3eebf8b
 io.automatiko.workflow	automatiko-workflow-serverless	0.42.2		8e09b00835724ad5902931fd50b23076bdeb0121
+io.automatiko.workflow	automatiko-workflow-serverless	0.43.0		756be6b2b96bf8c9e233e77f0392b394a0b3c6f9
 io.automatiko.workflow	automatiko-workflow-serverless	0.5.0		e0a2f28228e81fe819d65342a60018d60fc815bd
 io.automatiko.workflow	automatiko-workflow-serverless	0.6.0		249356d91b0500fcbbab33936837bf6e88c36414
 io.automatiko.workflow	automatiko-workflow-serverless	0.7.0		52bb81cd6efe7469159fd54805f3e5171bca39ae
@@ -1060,7 +1063,11 @@ io.smallrye.reactive	smallrye-reactive-messaging-connector-archetype	4.26.0-RC4	
 io.smallrye.reactive	smallrye-reactive-messaging-connector-archetype	4.27.0		af2e96a1b86cebdab6d32f5b1f73a4899754a896
 io.spinnaker.kork	kork-jedis-test	2025.0-0		c95e927aa2da4feb783488654ea19c701d359624
 io.spinnaker.kork	kork-jedis-test	2025.0-1		8a115f5d5c78a9f6b01d49323c09c0fcda8cea97
+io.spinnaker.kork	kork-jedis-test	2025.0-2		eed2adf35d1555f77b0e6a95d91e4216080aab86
+io.spinnaker.kork	kork-jedis-test	2025.0-3		97f90e16ee2e010e15bfa4c7d2a9ed983554ceb8
+io.spinnaker.kork	kork-jedis-test	2025.0-4		ced8dc4e5a1e36e9a2210cc1d51675ab3a169e87
 io.spinnaker.kork	kork-jedis-test	2025.0.0		29a8bd8868e4970e7efd0c640ac60b3f224e8342
+io.spinnaker.kork	kork-jedis-test	2025.0.1		5dc5420a7c93fd7e7eea24c4850faf39f4a2afc0
 io.spinnaker.kork	kork-jedis-test	7.105.0		825b6910291607f21f8d02c223f2ff64b4369200
 io.spinnaker.kork	kork-jedis-test	7.107.0		fb89799903017585bec27f423e193d2fa6cbb0c7
 io.spinnaker.kork	kork-jedis-test	7.108.0		8a089ed41cbba90db3de79a39ceabe633642e78b
@@ -1240,10 +1247,14 @@ io.spinnaker.kork	kork-jedis-test	7.92.4		c94b0820da8d6b621d8e9436649bb3993c0183
 io.spinnaker.kork	kork-jedis-test	7.92.5		e58f0b2bb2a03215ce891b40dba3a895b7818718
 io.spinnaker.kork	kork-jedis-test	7.92.6		4f80ace1ae37a9c7a3c7e0a085827041bc4ed9c7
 io.spinnaker.kork	kork-jedis-test	7.92.7		05abb6f06d58821da7291a1d4980612ef3c0d7be
+io.spinnaker.kork	kork-jedis-test	main-10		7080f2787c58919415e51b1dda3eba5e406a6d89
+io.spinnaker.kork	kork-jedis-test	main-11		cf724601ce44eb5dcd35ba0cc24e3f7e135b2bb3
+io.spinnaker.kork	kork-jedis-test	main-12		eb44121462b5fc5fb61c827c7f2a3d1f9712b269
 io.spinnaker.kork	kork-jedis-test	main-5		8d104e095cc65b7ea26efe92cccdc264fefeee83
 io.spinnaker.kork	kork-jedis-test	main-6		39cf8daeb3ef6fc521d015b62dd023714737dd53
 io.spinnaker.kork	kork-jedis-test	main-7		e6baa8c0db0c86f3c0101adfb6606995866f92f7
 io.spinnaker.kork	kork-jedis-test	main-8		18a5e0a150a153734daf6ec4ed9554fa18b42be4
+io.spinnaker.kork	kork-jedis-test	main-9		5b20642759f36369bfed0fc7004f84e29cdc2f1a
 io.thorntail.servers	swagger-ui	2.0.0.Final		00a22ab274a2b470c0640d84c31204dae066c4a7
 io.thorntail.servers	swagger-ui	2.0.0.Final	thorntail	ebef6da84b862e9c5f56232c99c15e5edfd4bb56
 io.thorntail.servers	swagger-ui	2.1.0.Final		0077f3622f88699aed950d06ae4e83e960689de3
@@ -1489,6 +1500,8 @@ net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.15.0		N/A
 net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.15.0	metadata	47f49aa6386da9343714c239b1f0f9b57d37a2ae
 net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.15.1		N/A
 net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.15.1	metadata	8cec6e3dfbd06b5a6b89e2757c18c6afccc1bded
+net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.15.2	metadata	afb25b9f78f7d98206a07dc5ceab5da212f4e717
+net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.15.3	metadata	d3c1feb081839aca560fd2e5fd935c7537da4d2b
 net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.2.0		N/A
 net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.2.0	metadata	24606ec7dd95c495b6c934eeec94db362f69c0c7
 net.folivo	trixnity-clientserverapi-client-iossimulatorarm64	4.2.1		N/A
@@ -1570,6 +1583,7 @@ net.nicholaswilliams.java.licensing	licensing-licensor-ui-cli	1.1.0		82643dc7752
 nz.ilbb.ag	nzilbb.annotator.patterntagger	2.0.5		4c8a12cda30fcef75ce24eb9dc5c647bd861b073
 org.apache.felix	org.apache.felix.httplite	0.1.2		d53cd7f95308dcb1753bc8b2267fadb52d1198d2
 org.apache.paimon	paimon-obs-impl	1.1.0		c1778be391b2b95e13c0b77da344a48f47b4e936
+org.apache.paimon	paimon-obs-impl	1.1.1		69a8b7463249d48d6f790ceea5b587345d63488e
 org.codeartisans.asadmin	multi-example-web	0.10		N/A
 org.codeartisans.asadmin	multi-example-web	0.11		N/A
 org.codeartisans.asadmin	multi-example-web	0.12		N/A
@@ -1614,11 +1628,33 @@ org.flowable	flowable-cmmn-json-converter	6.8.0		e605f97aabe90afa6f09cb4d18b8ca2
 org.flowable	flowable-cmmn-json-converter	6.8.1		08a066987e7e2dd2600fc3c153a9b6b1333ee6b0
 org.geomajas	geomajas-gwt-simple	1.7.1		N/A
 org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.0.0		0526d1d6e21f2f22980e73d271fc61c4e75dc3ce
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.0.0	v2.35.13	bf73648718cbf22d0626f058f4a67b815fa958e6
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.0.0	v2.36.11	bf73648718cbf22d0626f058f4a67b815fa958e6
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.0.0	v2.37.7	bf73648718cbf22d0626f058f4a67b815fa958e6
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.0.0	v2.38.1	bf73648718cbf22d0626f058f4a67b815fa958e6
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.0.0	v2.39.1	bf73648718cbf22d0626f058f4a67b815fa958e6
 org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.1.0		efe06cf5b30c8686b07cf4739d3e5abe429f8794
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.1.0	v2.35.13	c45c463a60555c00a672f505c4c9cd28e3f23f2d
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.1.0	v2.36.11	c45c463a60555c00a672f505c4c9cd28e3f23f2d
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.1.0	v2.37.7	c45c463a60555c00a672f505c4c9cd28e3f23f2d
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.1.0	v2.38.1	c45c463a60555c00a672f505c4c9cd28e3f23f2d
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.1.0	v2.39.1	c45c463a60555c00a672f505c4c9cd28e3f23f2d
 org.hisp.dhis.integration.sdk	android-jackson-resource-model	2.1.0	v40_0	c45c463a60555c00a672f505c4c9cd28e3f23f2d
 org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0		fa88848e4ffff74e62e5f2c065a5c5ba9429374d
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0	v2.35.13	116b7a05759c4d0490d5fce77118b1db74969e78
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0	v2.36.11	116b7a05759c4d0490d5fce77118b1db74969e78
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0	v2.37.7	116b7a05759c4d0490d5fce77118b1db74969e78
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0	v2.38.1	c52e3660665b651e9c60a74c679c23fda5e99ca1
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0	v2.39.1	c52e3660665b651e9c60a74c679c23fda5e99ca1
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0	v40.2.2	c52e3660665b651e9c60a74c679c23fda5e99ca1
 org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.0	v40_0	c52e3660665b651e9c60a74c679c23fda5e99ca1
 org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1		97814399f56ea6a1b349e336e5a610ea21efa508
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1	v2.35.13	def6ceb3821dcb9b3ee76b01b51e4942bb50bf65
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1	v2.36.11	cbc557faddb7e9d638a3ed5e6f11495b8611fda4
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1	v2.37.7	cbc557faddb7e9d638a3ed5e6f11495b8611fda4
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1	v2.38.1	cbc557faddb7e9d638a3ed5e6f11495b8611fda4
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1	v2.39.1	cbc557faddb7e9d638a3ed5e6f11495b8611fda4
+org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1	v40.2.2	cbc557faddb7e9d638a3ed5e6f11495b8611fda4
 org.hisp.dhis.integration.sdk	android-jackson-resource-model	3.0.1	v40_0	cbc557faddb7e9d638a3ed5e6f11495b8611fda4
 org.hisrc.w3c	xmlschema	1.0.3		N/A
 org.hisrc.w3c	xmlschema	1.0.4		N/A

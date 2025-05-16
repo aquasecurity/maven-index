@@ -398,6 +398,7 @@ com.github.skydoves	landscapist-animation-macosarm64	2.4.6		N/A
 com.github.skydoves	landscapist-animation-macosarm64	2.4.6	metadata	7d2d986841e8d76cf88215f0365c4346c1e55820
 com.github.skydoves	landscapist-animation-macosarm64	2.4.7		N/A
 com.github.skydoves	landscapist-animation-macosarm64	2.4.7	metadata	109c57af9b0625ec917f176ed3d74d3481122b32
+com.github.skydoves	landscapist-animation-macosarm64	2.4.8	metadata	b6bcbc8361ce7e70e1be9d6ec8957c0a09e93480
 com.github.yelzhasdev	etml	0.1.0		3c954fd25898ebdea5ea6b976538a764ef95b149
 com.github.yelzhasdev	etml	0.1.1		0c796c9af28662cf0281f67a14193a36f7d9e04a
 com.google.dagger	dagger-grpc-server	2.11		3d5b894b735545db8adebf705c7dea7892693c89
@@ -739,6 +740,7 @@ io.camunda	zeebe-protocol	8.4.15		8d3c7874be134fffcb27dd4ee85cc169d066079b
 io.camunda	zeebe-protocol	8.4.16		2934259a5724c2a113a20a5801c6baaf9ea23533
 io.camunda	zeebe-protocol	8.4.17		da994966a598305e01684569141b046f44b06bbf
 io.camunda	zeebe-protocol	8.4.18		200c5a79720bd9da0b057ee8c9c5b0c4c1fa1bf6
+io.camunda	zeebe-protocol	8.4.19		f40868e55f388374f83bf87e28d4364bca1a105a
 io.camunda	zeebe-protocol	8.4.2		ab34e3d81a865471ab2f25a8ca079ee72f92efe4
 io.camunda	zeebe-protocol	8.4.3		bf51e8cee9969a46eb9f1b88d27864ddcad83fd9
 io.camunda	zeebe-protocol	8.4.4		189067af695f6198e68eb3c51ec2ee27c93a618b
@@ -761,6 +763,7 @@ io.camunda	zeebe-protocol	8.5.14		d83496daad16bcd3a5f0c463bf1fae5bab5482dd
 io.camunda	zeebe-protocol	8.5.15		33b62684588f8f4a112077dcd1d6ea6d7898139c
 io.camunda	zeebe-protocol	8.5.16		16925fa4774688b767b00cfe9b5ad7e924334a91
 io.camunda	zeebe-protocol	8.5.17		911d7c09feb3d39920fa654d17dce67b68180f51
+io.camunda	zeebe-protocol	8.5.18		fe0c71b20a0f99a32bf58b20fcf62023ca84a5d7
 io.camunda	zeebe-protocol	8.5.2		a4f1e4c3c084f4ec52a5b3739a76dc3d887c70d2
 io.camunda	zeebe-protocol	8.5.3		e969c4dc3b100018407f6baa81b0d232e4c19b1d
 io.camunda	zeebe-protocol	8.5.4		91ac6e841b263ea824cc2f7ee944b6c46f99e84d
@@ -798,6 +801,8 @@ io.camunda	zeebe-protocol	8.6.12-rc1		86a1d361b33102f7a077768fe987ce980f1a9300
 io.camunda	zeebe-protocol	8.6.13		7182d147ba7834b72edde1adac30be45a0a8b17c
 io.camunda	zeebe-protocol	8.6.14		b81136d72283acb6ccdc68fba7edc99772c23012
 io.camunda	zeebe-protocol	8.6.14-rc1		8d91e0ca9c346a663925be13cb76629d248b7c06
+io.camunda	zeebe-protocol	8.6.15		258e752217ad6cfffa8b370430e1c8052e52527a
+io.camunda	zeebe-protocol	8.6.15-rc1		58b11685fcf2a9c6c4fd1fcb5ce6dcd884f9f2ff
 io.camunda	zeebe-protocol	8.6.2		eacd2e6cf62988562f42029c197a90fc001dd143
 io.camunda	zeebe-protocol	8.6.3		122265826df8eb1dbffce8728c01d2e977655e71
 io.camunda	zeebe-protocol	8.6.4		30470bffaf80693c435b1d29eec4edad75ae17db
@@ -833,12 +838,15 @@ io.camunda	zeebe-protocol	8.7.0-alpha5-rc1		5959eade37a0dc327d00c49f7988846f452f
 io.camunda	zeebe-protocol	8.7.0-rc3		beebead5d52c92394b20fba60a1d5c56f7f6bcca
 io.camunda	zeebe-protocol	8.7.1		f12d24be44cea93e3d0eeaccdf9f895c9a91f4ec
 io.camunda	zeebe-protocol	8.7.1-rc1		046ebcb970baef23ef2cd5dfa9f94bc5ed8fd338
+io.camunda	zeebe-protocol	8.7.2		800b05b51394308e258c82fdb6be7a72c91e088a
+io.camunda	zeebe-protocol	8.7.2-rc1		d5ce36ba3ec964098fb277fbeaca6561efe8733f
 io.camunda	zeebe-protocol	8.8.0-alpha1		023df199f16c9e4e2c8c5427c57dc4a75be29a6c
 io.camunda	zeebe-protocol	8.8.0-alpha1-rc1		53892e0a5ac0ec63ed0d5a43c62aa9ac1747dd25
 io.camunda	zeebe-protocol	8.8.0-alpha2		b5d7e87f407d3b444e312b1358b56a0c50dfdfee
 io.camunda	zeebe-protocol	8.8.0-alpha2-rc1		3fc45f312cefe3fbfbcafa69877a92f12c2170c4
 io.camunda	zeebe-protocol	8.8.0-alpha3		1e7df63c4176bfdc9f6060e8d903ae7edce460b4
 io.camunda	zeebe-protocol	8.8.0-alpha3-rc3		83b4d695b62ae55a25017bd09a0de7665c6eab83
+io.camunda	zeebe-protocol	8.8.0-alpha4		7973b749b7ed9c835632fa8348022e1efef5f73d
 io.camunda	zeebe-protocol	8.8.0-alpha4-rc1		e2d1c7552ff3f8e68c3bf29bbb724ea390645816
 io.github.dmitriy1892.kmp.libs.decompose	navigation-koin-compose-jvm	0.0.1		98094934fac43808cc93489d7e8abefa209808ab
 io.github.dmitriy1892.kmp.libs.decompose	navigation-koin-compose-jvm	0.0.2		98094934fac43808cc93489d7e8abefa209808ab
@@ -1171,6 +1179,7 @@ org.apache.camel.springboot	camel-xmlsecurity-starter	4.8.3		4fbd9223a34477a3005
 org.apache.camel.springboot	camel-xmlsecurity-starter	4.8.4		2d2146872d616853d42cf300bb099b0b2ff8055d
 org.apache.camel.springboot	camel-xmlsecurity-starter	4.8.5		be193797f4cdc39f8eaa4b17053e94957ef454f9
 org.apache.camel.springboot	camel-xmlsecurity-starter	4.8.6		6667dc616a386a05d42be1f7f044d9286a958411
+org.apache.camel.springboot	camel-xmlsecurity-starter	4.8.7		30f5bc08b7e3cabd286a0908e00785f87a026160
 org.apache.camel.springboot	camel-xmlsecurity-starter	4.9.0		b38bcd6243cf9cc5c235c879a28722e81b56f4ee
 org.apache.dolphinscheduler	dolphinscheduler-alert-plugin	2.0.0		N/A
 org.apache.dolphinscheduler	dolphinscheduler-alert-plugin	2.0.0-alpha		N/A
@@ -1824,6 +1833,11 @@ org.sdase.commons.spring.boot	sda-commons-error	4.4.5		4d7f911be52a8d3306b707b54
 org.sdase.commons.spring.boot	sda-commons-error	4.5.0		c9d913f3c24d77df3494fed80984ad47bb63d83b
 org.sdase.commons.spring.boot	sda-commons-error	4.5.1		97e3172f543ee4e7e16400605a1183e6b0b0b51e
 org.sdase.commons.spring.boot	sda-commons-error	4.5.10		0638654c31801c91004fddc1f54878ef47565389
+org.sdase.commons.spring.boot	sda-commons-error	4.5.100		a67508c164adee4886d2aa770115c9778f9d7727
+org.sdase.commons.spring.boot	sda-commons-error	4.5.101		07598561b99223e7a00a7661c637b2f2831c7c38
+org.sdase.commons.spring.boot	sda-commons-error	4.5.102		c037d1ba80037d80594cd252b867b90516da3d7b
+org.sdase.commons.spring.boot	sda-commons-error	4.5.103		ecfac4a53cd1a6e4a2d4858a7fea258f67760c85
+org.sdase.commons.spring.boot	sda-commons-error	4.5.104		83a6253ac97075630ae620a13497f8ed81a00faa
 org.sdase.commons.spring.boot	sda-commons-error	4.5.11		ee725f062bee43e3e4077577a295ae4c61bff20e
 org.sdase.commons.spring.boot	sda-commons-error	4.5.12		5552d3011405213ea5ba98d23de45f8e76ca2534
 org.sdase.commons.spring.boot	sda-commons-error	4.5.13		ab976d752d9d250f63fad6faed576fe3459a321f
@@ -1918,6 +1932,7 @@ org.sdase.commons.spring.boot	sda-commons-error	4.5.95		476c304464781aae196b6c22
 org.sdase.commons.spring.boot	sda-commons-error	4.5.96		562304764156ce90daf31c2a704968c83f651c1d
 org.sdase.commons.spring.boot	sda-commons-error	4.5.97		81fc7c33572617300f400d693702bc7988913ad2
 org.sdase.commons.spring.boot	sda-commons-error	4.5.98		8a94b54913661d5d267165733b4a165abf0369eb
+org.sdase.commons.spring.boot	sda-commons-error	4.5.99		e9223fba5224333565954d257416a44dd9cba3be
 org.seleniumhq.selenium	htmlunit-driver	2.20		ce4a08f0afa3b6d149cfe9bf865e278a94dd0b30
 org.seleniumhq.selenium	htmlunit-driver	2.21		4c19c164835580db1d46887b43392dae0c255d50
 org.seleniumhq.selenium	htmlunit-driver	2.22		8c130e18a0e9041080d85a1a4441d71b3e27e25d

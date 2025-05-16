@@ -475,6 +475,7 @@ com.daml	ledger-api-client_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		2504
 com.daml	ledger-api-client_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		2504c1db6c5eda92966c2282c0726cc42023540e
 com.daml	ledger-api-client_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		2504c1db6c5eda92966c2282c0726cc42023540e
 com.daml	ledger-api-client_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		2504c1db6c5eda92966c2282c0726cc42023540e
+com.daml	ledger-api-client_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		2504c1db6c5eda92966c2282c0726cc42023540e
 com.daml	ledger-api-client_2.13	2.2.0		ebd588490ee9ae85852e47cf36c1be07efdc227b
 com.daml	ledger-api-client_2.13	2.2.0-snapshot.20220412.9721.0.b7c4bdab		ebd588490ee9ae85852e47cf36c1be07efdc227b
 com.daml	ledger-api-client_2.13	2.2.0-snapshot.20220413.9724.0.2dc1085b		ebd588490ee9ae85852e47cf36c1be07efdc227b
@@ -1265,6 +1266,7 @@ com.lightbend	scala-fortify_2.12.20	1.1.2		a0f7c8fc5cee930a84150254b574989a44ea2
 com.lightbend	scala-fortify_2.12.20	1.1.3		75837350f83f31565a29f6bbb625b2da7b535165
 com.lightbend	scala-fortify_2.12.20	1.1.4		ab6a54d11f89f9211861c3636fc1df96baf8afc3
 com.lightbend	scala-fortify_2.12.20	1.1.5		01b6bf2f03ebd6af3ff31ab0897e7b24cce770b4
+com.lightbend	scala-fortify_2.12.20	1.1.6		cc454a5efeff784cf014212c7799c50c17ca6a30
 com.lightbend	scala-fortify_2.12.20	1.1.6-M1		2d7e81f1ccee0769dbe523769315c8bd434e1a0e
 com.lihaoyi	sourcecode_sjs1.0.0-M1_2.11	0.1.4		59ccc4ec5f35e0617da56228ea00d61da8d3e4ae
 com.lonelystorm.air	air-ui	0.1.0		N/A
@@ -1904,6 +1906,7 @@ io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.13.2-alpha		9f
 io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.13.3-alpha		207269e5202b5a3ec2c79b2dd4145dfe6fbf3e39
 io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.14.0-alpha		f0f80b499ee8d36631f8d57227a9d564d2b7118e
 io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.15.0-alpha		8d69b5a1de9464b4f8d332d423e47acd39395a5b
+io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.16.0-alpha		96cfc47a241634c4c4f54fac855af7323ff00922
 io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.2.0-alpha		85103fd7f853aeb68218eedd45002445cc0d3e64
 io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.3.0-alpha		d4596cb7cbfbad95b97672881857542d71b592dd
 io.opentelemetry.instrumentation	opentelemetry-java-http-client	2.4.0-alpha		ce9f6a6fad6baa051625d25512189708a9d9be18
@@ -1960,6 +1963,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.14	2.13.3-alpha		71ebcb5eb5d5097647c365d45d6434089b3099ee
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.14	2.14.0-alpha		f462fadb78ae9346bd2e0e8d8f5f0b4e18d23af4
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.14	2.15.0-alpha		55b37238fdf1af84fcb3c88fa5b4bc0e378bdc94
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.14	2.16.0-alpha		a5bc66d72f4a5853515dafdcd70aa6f48c9a9911
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.14	2.2.0-alpha		80ec5c6f9cdff2c7d5ddc332bac1e3cd180881f5
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.14	2.3.0-alpha		69a3d85fb7d2e17f96613ecfaec0063765c12cfe
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-azure-core-1.14	2.4.0-alpha		b1480fa36c2cc722d6c097e0ed0d632920a1ba42
@@ -2258,10 +2262,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.79
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.80.0		4424f50e70e75141bf0f17e0d22b0906cea1e6eb
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.81.0		f865d44dddaa627a39e02eeccca02e06d19ba138
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.82.0		9e0974664ed852b29c8209b03c930e43534616dd
+org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.82.1		d62472bc10c4b826c61ab3b9537354b20c16cd9e
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.83.0		781d46b4228cf42b6d0f7ef99354990925197e4f
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.83.1		3772fdba029ce6408678c84f1f843bdff9dfb4b5
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.83.2		faf2fdfba7b99ba337d0e1f93a78c39349169573
 org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.83.3		4f3dd3c9951203fa36b16e6074bd410d0dca8b6c
+org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.84.0		d4a437df96e747e6a082453e695b37aafc9bd5fb
+org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.84.1		474f6bf08a81392a0d34b65a1a0b9f9f2e04bff6
+org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.85.0		21f2b87bb20f4d0b21e2f5502e6ef7075efe46d6
+org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.85.1		4d010d1e759510aa5eaac1edf67ebcbab8995f1c
+org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.85.2		8447d3bf63bd7eb4b8638aff91a4df1a03049677
+org.finos.legend.engine	legend-engine-xt-relationalStore-snowflake-protocol	4.85.3		abc591849e4bca62293c53c738b95e0e2d35a7be
 org.glassfish.main.web.web-embed	web-embed-api	3.1.2		299a33f107252c26272dfc7bfb44dfed3d588385
 org.glassfish.main.web.web-embed	web-embed-api	3.1.2.2		dbb7664b1d79bb8afabdb1ec0bad1e107743eb81
 org.glassfish.mq	mq-direct	6.4.0		97c08e3d2aacd02930a976322baa1065818b001f

@@ -130,6 +130,7 @@ com.github.j5ik2o	reactive-redis-pool-scala_2.12	1.0.8		398831b3d7a86c109fbaed3d
 com.github.j5ik2o	reactive-redis-pool-scala_2.12	1.0.9		14e287e4450f923c48fb6f0246178076d57bfd30
 com.github.naoghuman	lib-tag-components	0.2.0		4b8cf1e465340bbf3c66093fc0c971d5e5c85dc9
 com.github.nicholasastuart	mule-mmc-rest-plugin	1.2.0		381007a0d03094bf4215d7ced50ac2385a6921a6
+com.github.philcali	sbt-lwjgl-plugin_2.9.1_0.11.1	3.1.1		39a4e53183d2920a33c16b1199c2edffe9d792c8
 com.github.woerry	WrBoot-Charts	1.0.0		e14dddc446a778d79e7e2069c789ffb4b6abd0f5
 com.github.ynfeng	atomix-primitive	3.2.0		07803378b15db4b2fe7b088856bf43918d081584
 com.github.ynfeng	atomix-primitive	3.2.0-RELEASE		6e3cdf46137bef4bea6afbb4db63af41bf6d5fd6
@@ -603,6 +604,7 @@ org.apache.tomcat.embed	tomcat-embed-jasper	10.1.36		aecf559ecd9ced1331dd7c06394
 org.apache.tomcat.embed	tomcat-embed-jasper	10.1.39		4741a85a5a65bc677bbf6bfdd4603010a3197620
 org.apache.tomcat.embed	tomcat-embed-jasper	10.1.4		b8c217f0046bb57d7f32ff7611291a054d39b099
 org.apache.tomcat.embed	tomcat-embed-jasper	10.1.40		0731c130b18dddbd43196d24df01bf28894366e9
+org.apache.tomcat.embed	tomcat-embed-jasper	10.1.41		d4c476dbde753fdf366634c727034dafe04970a8
 org.apache.tomcat.embed	tomcat-embed-jasper	10.1.5		65a4e10495e07aba87f1c69c90f87b97fd2bacc8
 org.apache.tomcat.embed	tomcat-embed-jasper	10.1.6		6fa9a0e396d0c65df0efb1e2346753202e1207ad
 org.apache.tomcat.embed	tomcat-embed-jasper	10.1.7		99f15f01c27a5fb9f976d8012fd53275f7f44c4a
@@ -638,6 +640,7 @@ org.apache.tomcat.embed	tomcat-embed-jasper	11.0.3		ee57eb892f1cf8cf35cf3d79c7fb
 org.apache.tomcat.embed	tomcat-embed-jasper	11.0.4		d089fcd8d334e377ed2d33fae91cc178712ced09
 org.apache.tomcat.embed	tomcat-embed-jasper	11.0.5		adf0a2566b4ad4b75889832247ed6a4343095389
 org.apache.tomcat.embed	tomcat-embed-jasper	11.0.6		fcc9c95b0945bb3682e83568f99288369591b25e
+org.apache.tomcat.embed	tomcat-embed-jasper	11.0.7		87a985bdf6966d181b0c92cbe47b0ec1c75e1b30
 org.apache.tomcat.embed	tomcat-embed-jasper	7.0.0		20c20bd535a4e19840856f913f826d9d3fe63c25
 org.apache.tomcat.embed	tomcat-embed-jasper	7.0.100		c9aa737e500ecf38c56aef472d9d840957955678
 org.apache.tomcat.embed	tomcat-embed-jasper	7.0.103		6af06af068881f99a9f657e10eaf5bb5e43db281
@@ -868,6 +871,7 @@ org.apache.tomcat.embed	tomcat-embed-jasper	9.0.10		761ea6f3b09c163f3710f5e81169
 org.apache.tomcat.embed	tomcat-embed-jasper	9.0.100		6e918b787eb1d99684f56ffc3917d2e36ad05d29
 org.apache.tomcat.embed	tomcat-embed-jasper	9.0.102		4c645ca510c45c40deaeb1086d5795b5dd650008
 org.apache.tomcat.embed	tomcat-embed-jasper	9.0.104		dcb5a71e2ae620e870c4b52a7046292683549178
+org.apache.tomcat.embed	tomcat-embed-jasper	9.0.105		cd36a1b0dfac4eb82f2c028488d92ee5879c3c76
 org.apache.tomcat.embed	tomcat-embed-jasper	9.0.11		f70864a4d6e96d92eb33138dc55fdc774e362e38
 org.apache.tomcat.embed	tomcat-embed-jasper	9.0.12		f81c352450b9695b73b90b3e5ef78d6f7fcb1a96
 org.apache.tomcat.embed	tomcat-embed-jasper	9.0.13		28fad13fb5a66696899596c2a91f9846058cce23
@@ -1001,6 +1005,8 @@ org.foundationdb	fdb-relational-jdbc	4.2.5.0		5f535d57be00f2b9c3944855a1ca607248
 org.foundationdb	fdb-relational-jdbc	4.2.5.0	driver	66c94dc58c7980923bb37af3b7dddb498b3105cb
 org.foundationdb	fdb-relational-jdbc	4.2.6.0		e37a0c387b096ea9bc1c71bcf91aacf8962dab9e
 org.foundationdb	fdb-relational-jdbc	4.2.6.0	driver	14b18979c771d3d0618aa36b103581090cee5041
+org.foundationdb	fdb-relational-jdbc	4.2.8.0		1a0a43f1e383180c2d708af2b733793904066608
+org.foundationdb	fdb-relational-jdbc	4.2.8.0	driver	643188a61a0226990088ba8663eed2d4b15fa222
 org.graalvm.truffle	truffle-nfi-panama	23.1.0		e2c7bd83475e27cec39cfbf4fe1892a3f448e7a2
 org.graalvm.truffle	truffle-nfi-panama	23.1.1		1bfe4daced0a684aea483b4ac812725facaaaede
 org.graalvm.truffle	truffle-nfi-panama	23.1.2		a1bd39745b30124609215d1a93b339a2626b7a27
@@ -1111,6 +1117,7 @@ org.tynamo.security	tapestry-security-jpa	0.2.0		98faac65270e5b5575997c90822fc70
 org.virtuslab	pulumi-slack-kotlin	0.3.1.1		7e5849f01bcc1db3d54dd8ac065bf943fead5fef
 org.virtuslab	pulumi-slack-kotlin	0.4.10.0		da044e69d733f5b2690af1b14c16c06cb383b9ae
 org.virtuslab	pulumi-slack-kotlin	0.4.11.0		309f04f8326eb9b959b8ecfd87f3fd646b387687
+org.virtuslab	pulumi-slack-kotlin	0.4.12.0		81fe4c32a02209c93171768bb2daf63dca5b1513
 org.virtuslab	pulumi-slack-kotlin	0.4.2.0		d8f9353ce8f477459b82f640af530953a853cff9
 org.virtuslab	pulumi-slack-kotlin	0.4.2.1		6d8a80ba09ef36cc87e41814b171c3b9cfb08517
 org.virtuslab	pulumi-slack-kotlin	0.4.4.0		2823f7a98f7cae4485a14298e25896cedcfcce84

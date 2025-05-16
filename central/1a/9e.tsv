@@ -457,6 +457,8 @@ com.github.houbb	jdbc-migrate	1.6.1		472893009c21231017f10607e699d138739761d4
 com.github.philcali	lmxml-markdown_2.8.2	0.1.2		b3d1e0bf2d1be8aeeadf7615b03bc27ebcc98a2f
 com.google.api.grpc	proto-google-cloud-modelarmor-v1	0.1.0		3df8e8d33e3f295da728d645784f1e92b428475e
 com.google.api.grpc	proto-google-cloud-modelarmor-v1	0.2.0		1863c6aa8eef596f558a4ef814d8db74a35ce366
+com.google.api.grpc	proto-google-cloud-modelarmor-v1	0.3.0		2f5dabed0ee725e06dbb6bf143ec6798f5ffa0e1
+com.google.api.grpc	proto-google-cloud-modelarmor-v1	0.4.0		aaf65d8d29496b367be4b31d100129a4dfcf4c87
 com.google.apis	google-api-services-authorizedbuyersmarketplace	v1-rev20211008-1.32.1		e23938b8b2ca1cd4870b06bb12b5af594e7bf012
 com.google.apis	google-api-services-authorizedbuyersmarketplace	v1-rev20211115-1.32.1		4b66a7c90048b5960e3dd5f976911b86c2c315c9
 com.google.apis	google-api-services-authorizedbuyersmarketplace	v1-rev20211123-1.32.1		13390095351112195bac8281c3d610769182246a
@@ -686,6 +688,7 @@ com.netflix.archaius	archaius-samplelibrary	0.7.7		d49bfae73cc19b338132ea5c00c0c
 com.netflix.archaius	archaius-samplelibrary	0.7.8		944c443fcf28b5af88011c7107a1f85b1747f325
 com.netflix.archaius	archaius-samplelibrary	0.7.9		ac1de24854eefe1fa1ab830674fe61ed22b86c87
 com.netgrif	nae-module-maven-plugin	1.0.0		5220f46f8bb2562fe0afb59818853870fc9737e3
+com.netgrif	nae-module-maven-plugin	1.0.1		9ef4a3415190f74d0ec7158460c8eb7ea8e040fc
 com.ning.billing	killbill-osgi-bundles-test-beatrix	0.1.59		35c42f807fcd891f07f7745a2f9245c642ee7513
 com.ning.billing	killbill-osgi-bundles-test-beatrix	0.1.59	jar-with-dependencies	806c6b549aec13a698eb54fd6ff8742fc900f072
 com.ning.billing	killbill-osgi-bundles-test-beatrix	0.1.60		bf801a8e800ad35b46d41b1cd877c5af4a1135ac
@@ -2131,7 +2134,20 @@ io.github.cdklabs	cdknag	2.35.83		65c60d25253da19bd77f8d90756fdca0abb9c870
 io.github.cdklabs	cdknag	2.35.84		df48d1334760cd9a965c92e35ddb8da0c2f2e597
 io.github.cdklabs	cdknag	2.35.85		de9bd34893c9cfee3f7c5204cef2768e6e3871ac
 io.github.cdklabs	cdknag	2.35.86		0dc775c4cae45648d639f2fc103dc90776f43b86
+io.github.cdklabs	cdknag	2.35.87		b9ed6cb2c75a9edd753ab864c366740750da791f
+io.github.cdklabs	cdknag	2.35.88		fe0fd48fe452a9b740beaaf02e33db4804e3eed7
+io.github.cdklabs	cdknag	2.35.89		461bcec764fd71a6d9c892dbb4b3e2e075621ccf
 io.github.cdklabs	cdknag	2.35.9		f92844025f5cd500b7ebf3ef76ec230eee53802a
+io.github.cdklabs	cdknag	2.35.90		cf59f7fb6ef7c232c516b85206b112fcd7e761c1
+io.github.cdklabs	cdknag	2.35.91		37a1eaf89df094357572d216fa88e2b6ea1df5cd
+io.github.cdklabs	cdknag	2.35.92		2f30b1c066c7a27c77591dc757984e311d9c9923
+io.github.cdklabs	cdknag	2.35.93		5d33bb58cdafc82cbab643405f4f4c6b7a547a54
+io.github.cdklabs	cdknag	2.35.94		674e7855b83d788c4a30e867ca5821e6258c2adb
+io.github.cdklabs	cdknag	2.35.95		7752f3e5ab34bd8aaa308b278eb288b865a0a5de
+io.github.cdklabs	cdknag	2.35.96		27a0deeebd4886052ef5855c97bd09cfc949f6aa
+io.github.cdklabs	cdknag	2.35.97		e3aa03368a21bdda38af2f59b0eef45afd8829a6
+io.github.cdklabs	cdknag	2.35.98		b9d43f43d18b5075fe030c9d8c8ac3c32d3ccb7b
+io.github.cdklabs	cdknag	2.35.99		14b5a1e98cea10de4540a7acace7ff12766003a6
 io.github.cdklabs	cdknag	2.8.0		26068b8cc2fb7d45a95044ad7814133ad083d5c0
 io.github.cdklabs	cdknag	2.8.1		68edde890d8fbbf95e012afb01214e9c67478b4d
 io.github.cdklabs	cdknag	2.9.0		2c0c6ab2a55e1230e5a17394513f68fa516c4d46
@@ -2414,6 +2430,7 @@ org.apache.camel.springboot	camel-seda-starter	4.8.3		9c70c14a1c9a3372404f023a21
 org.apache.camel.springboot	camel-seda-starter	4.8.4		1684022a44c6870b14b3982bc576c06ef3262b41
 org.apache.camel.springboot	camel-seda-starter	4.8.5		aabd825cc9713a6ae078d98ac120eab880566583
 org.apache.camel.springboot	camel-seda-starter	4.8.6		bee4c5147103f3505f41aa5959cf50a5fb512a37
+org.apache.camel.springboot	camel-seda-starter	4.8.7		4e2a845b4ab00dc500a68b6a6104486860fad26a
 org.apache.camel.springboot	camel-seda-starter	4.9.0		b2f40abfc731348f2260df27d772b3e85e868065
 org.apache.geronimo.bundles	sxc-jaxb	0.7.2_1		b280bd25283e7ad43db9d1342ebbb4d4d1bf3fdf
 org.apache.geronimo.bundles	sxc-jaxb	0.7.3_1		4bc1e13b69b29fa9ae94fbf45baded4afb3c5df0
@@ -2691,6 +2708,7 @@ org.wildfly	wildfly-galleon-pack-layer-tests	35.0.0.Final		4663ea3c65d1b3c4e86a3
 org.wildfly	wildfly-galleon-pack-layer-tests	35.0.1.Final		cd78b4a33809a01026eb376594fe0ed9439866c4
 org.wildfly	wildfly-galleon-pack-layer-tests	36.0.0.Beta1		6fa83c3d5e33d340e291dcf8ba40a0a7210dde10
 org.wildfly	wildfly-galleon-pack-layer-tests	36.0.0.Final		69d64886bed97a79052d5c113f80b375c773bb7f
+org.wildfly	wildfly-galleon-pack-layer-tests	36.0.1.Final		feab5154d03a3ea948239d8c1295e7e3794eedb3
 org.wso2.carbon.mediation	org.wso2.carbon.mediator.enqueue.ui	4.6.100		4bfa3a288e89c9da25c90c80c886bb9ea194b08d
 org.wso2.carbon.mediation	org.wso2.carbon.mediator.enqueue.ui	4.6.101		01864d3138deaa6b8694f2299acc8298244f8cfb
 org.wso2.carbon.mediation	org.wso2.carbon.mediator.enqueue.ui	4.6.102		19260fada5cdddb667240d3df2a072bf3306a5aa
@@ -2940,6 +2958,7 @@ software.visionary	traversal	2024.11.30	seqs	7a37704ff6682d859fca58bdf5d6ffd7ef3
 software.visionary	traversal	2025.02.27		N/A
 software.visionary	traversal	2025.02.27	traversal	a77b08aa581cbb00e02a32cdb7b59ff1cd8f7d1c
 software.visionary	traversal	2025.03.28		N/A
+software.visionary	traversal	2025.03.28	software.visionary	b5db26ed1ff1b30e38fb955a3a87ef36073d53a9
 space.iseki.executables	executables-share-jvm	0.0.13		b8b6f0024723c98df6c0bcc92b5c05a048050adf
 space.iseki.executables	executables-share-jvm	0.0.14		b8b6f0024723c98df6c0bcc92b5c05a048050adf
 space.iseki.executables	executables-share-jvm	0.0.16		b8b6f0024723c98df6c0bcc92b5c05a048050adf

@@ -118,6 +118,8 @@ com.lightbend.lagom	lagom-javadsl-pubsub_2.13	1.6.5-RC2		5b83bcd9aa770f35dd45d8f
 com.lightbend.lagom	lagom-javadsl-pubsub_2.13	1.6.6		a58ef17fd53c4d2cc4ce676f272e35060482bdd4
 com.lightbend.lagom	lagom-javadsl-pubsub_2.13	1.6.7		f621e9b85640f8337da8a7ee8b9d115b5ab000d5
 com.lightbend.lagom	lagom-javadsl-pubsub_2.13	1.6.8-RC1		7c5b496540b1dc6d57f2fba26aad4ae7b1a5e779
+com.sparkutils	dmn-4-spark_16.4.dbr_3.5_2.13	0.0.1-RC7		2c603fee1a08c114963a06bbf0fa50e411d86475
+com.sparkutils	dmn-4-spark_16.4.dbr_3.5_2.13	0.0.1-RC8		35879a7eaba6326b86ad5f5421a8af41f5a69399
 com.takashiharano	hello	1.0.0		88cf4738d2aa866b0508f551726b15251f273c54
 com.takashiharano	hello	1.1.0		1eb8be0c8f5a8f9d243e3777c1ce41166335e60b
 com.thesamet.scalapb	compilerplugin-shaded_2.11	0.10.0-M1		9a1ec5c11b381a1cb1c168440dbb41e7739cd793
@@ -729,6 +731,8 @@ com.vaadin	vaadin	23.5.12		9d492ea1205466b378fec2492d56616672f2220f
 com.vaadin	vaadin	23.5.13		b84a6e5cea864cec0e70362f6c25e1654dc4833b
 com.vaadin	vaadin	23.5.14		341c5f7c67d3eecea1763ede938112918f5265bf
 com.vaadin	vaadin	23.5.15		1bf18108cc4ed57ddd7b0951c334b87a6d600f20
+com.vaadin	vaadin	23.5.16		01fe955019c9ffddae77ba24eafd39ec76415679
+com.vaadin	vaadin	23.5.17		21df3f3cf80dc0043d716afcacb43ec661517b82
 com.vaadin	vaadin	23.5.2		b0cf355d6719e4ad6272e97d7ad88bc01f8f88e2
 com.vaadin	vaadin	23.5.3		b5f4aa4931d591d58e11b762e07b7b42e81e6408
 com.vaadin	vaadin	23.5.4		89b41370271efd60b57ca107f10462b775d39b4d
@@ -843,6 +847,7 @@ com.vaadin	vaadin	24.5.8		5481abddfaf092a40b652736720c77660d1c4ebc
 com.vaadin	vaadin	24.5.9		e0ca11beec3e8d97c36d38929922e320f37593ab
 com.vaadin	vaadin	24.6.0		ba2a3f832f93e0771dc20e43185a8688bf13efc7
 com.vaadin	vaadin	24.6.1		f5cd94ea308bdb4df974e98c2523a14a4a451682
+com.vaadin	vaadin	24.6.10		8d7bf4ebc111def8d559083e4fbde066b53ddfd2
 com.vaadin	vaadin	24.6.2		0efcb245dd414da01ca77466e6dbf46fa79c817a
 com.vaadin	vaadin	24.6.3		fc4b70668b5c37742e3d157c120146e0c908fa82
 com.vaadin	vaadin	24.6.4		9ef488e9eaf78f09f5c46b4639105775cc7d9679
@@ -855,6 +860,7 @@ com.vaadin	vaadin	24.7.0		c7756aa5757268259ea5c300b936eef4dac3cded
 com.vaadin	vaadin	24.7.1		f0e3a0fdf76bf364f15fc70a80047ccc70f53e89
 com.vaadin	vaadin	24.7.2		d57dbc793b771280c1403389d0f4fbb4450c3c49
 com.vaadin	vaadin	24.7.3		c528f42337ffeae48a7c94411349637606797294
+com.vaadin	vaadin	24.7.4		745f59f44e614df5901404fb11b7fb715a127e21
 com.vaadin	vaadin	6.0.0		7a52238eeabe3486ace8c87b543e259d766f8ead
 com.vaadin	vaadin	6.0.1		6b5b836ada0c9725033fa90458847ee8694a8d4a
 com.vaadin	vaadin	6.1.0		92fd59851b94d1b285e54191267546133c142321
@@ -1268,6 +1274,7 @@ io.leogenus	grape-common	0.0.4		9766ed7f69b80e0dc40fc219101b175e4940b2be
 io.leogenus	grape-common	0.0.5		61ebf936ea565f95a31e66854466f03e8c0ce407
 io.leogenus	grape-common	0.0.6		0f6e00c6e6235a13bc9e28d4c1fcad43097f6380
 io.leogenus	grape-common	0.0.7		b4f75eee668e923e21fb55423ed32c6e910243de
+io.micronaut.data	micronaut-data-model	.8.2		aca5645f85562a54d27c84ba18c7956a29b4cac5
 io.micronaut.data	micronaut-data-model	1.0.0		c35d82f2734102c06c2c9b92d571b3fb93749250
 io.micronaut.data	micronaut-data-model	1.0.0.M1		6927fe94ebf205d53d4b1bbdd79a1ae0c725576f
 io.micronaut.data	micronaut-data-model	1.0.0.M2		e4b16b368011bb9a6e5369d9083e81eb42b3809a
@@ -1373,6 +1380,7 @@ io.micronaut.data	micronaut-data-model	4.11.0		a8043ae254200e3fc1f9054bdb8c8fc18
 io.micronaut.data	micronaut-data-model	4.11.1		3bb0ee285bad95a9ebc3275d6f7a77df4338d54c
 io.micronaut.data	micronaut-data-model	4.11.2		2346f809ea8a0af1cca2ec7436c478efc56d9715
 io.micronaut.data	micronaut-data-model	4.12.0		65a14ebf97821a99f05c8d8be18c560daba78a44
+io.micronaut.data	micronaut-data-model	4.12.1		8b3ad3322d5de5d4a59b86ced1fdca691faa0c78
 io.micronaut.data	micronaut-data-model	4.2.0		bbc2a0ef242c14bfdd5b0f25acbbe0305d7e0e18
 io.micronaut.data	micronaut-data-model	4.3.0		7a80a205b6a2a71e0e5e8a6850cb66b3cba53dae
 io.micronaut.data	micronaut-data-model	4.3.1		fa4ac59d85ea2acbf572e4329d056ea3f705d81d
@@ -1646,6 +1654,7 @@ org.apache.xmlgraphics	batik-parser	1.15		900f1645ed3779359ab4543e879d80474948d3
 org.apache.xmlgraphics	batik-parser	1.16		8217bd068a48dc79c207c95821fe5c0d3d4c8b62
 org.apache.xmlgraphics	batik-parser	1.17		da9d3057be108e6ac8799cc8efed1e2b490ba37c
 org.apache.xmlgraphics	batik-parser	1.18		f931747352a96203bca03a19124e1004ad5c54fd
+org.apache.xmlgraphics	batik-parser	1.19		4f5f83767ab48fb5aa92c794f7eb3531cc946715
 org.apache.xmlgraphics	batik-parser	1.6.1		56edc29c6267fc7cac6ef2d9cfbbfaef0e683370
 org.apache.xmlgraphics	batik-parser	1.7		5d756cc4f6bf891793e6c7590773859c33a8609f
 org.apache.xmlgraphics	batik-parser	1.8		86ec4ab0c828b570d0ccbeba14f85ac011a333f2
@@ -1879,6 +1888,8 @@ org.eclipse.edc	verifiable-credential-mgmt-api	0.6.0		8fc19c2371ab4a28a3d6e09b89
 org.eclipse.edc	verifiable-credential-mgmt-api	0.6.1		b316aa0ad8fb4fe3fa1ade15b70377014c462d73
 org.eclipse.edc	verifiable-credential-mgmt-api	0.6.2		30d81fdfa33686b6ca5ba8784004a1bfebd566cc
 org.hibernate.ogm	hibernate-ogm-cassandra-parent	5.2.0.Alpha1		N/A
+org.http4s	http4s-jetty12-server_2.13	0.22.0-RC2		a1238e61ff10b556e8c6a15c17c61508cf12aed1
+org.http4s	http4s-jetty12-server_2.13	0.22.0-RC3		8651af767b8920dc05afbc4916d68a5f9683a840
 org.jboss.reddeer	jboss-reddeer-archetype	0.6.0		72551eb985611f5577901e37d5e8116f0bb44de3
 org.jboss.reddeer	jboss-reddeer-archetype	0.7.0		49f26b83ab045bc38b7ea252225149646b2ea627
 org.jboss.reddeer	jboss-reddeer-archetype	0.8.0.Final		4689edab3e2f7547fefbef10076417b164ae6a6b

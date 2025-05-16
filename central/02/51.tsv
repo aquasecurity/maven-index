@@ -77,6 +77,7 @@ com.apollographql.apollo3	apollo-mpp-utils-js	4.0.0-beta.7		N/A
 com.compilit	fuzzy-matching	0.1.1		c709eb7ba954b9f88931ce91c3d37efce0262b9e
 com.compilit	fuzzy-matching	0.1.2		8ab812c98ee1010c5943dfefb9a44e09189610c1
 com.compilit	fuzzy-matching	0.2.0		9d006a2b8412cc11e00bc65c6fd4229d9b19d962
+com.delprks	sbt-trace_2.10_0.13	1.0.0		fd5d79299ceb6fe6a3704c4713858517fbc95c91
 com.gitee.zodiacstack	zodiac-cert	1.7.0		48a2b55af4a5ca070d344966b8999b81d09274ce
 com.gitee.zodiacstack	zodiac-cert	1.7.1		b13b5a05d621edb116cb66ea3d7f07f5d648558b
 com.github.bordertech.wcomponents	wcomponents-addons-common	1.0.0		5cc8af1f9259c747c3c209f6c8fccccd0cf17bed
@@ -263,6 +264,8 @@ com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.58.0		6e5cf010c5edad
 com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.59.0		d4100a60b3c80a488884b98570412df65082c0f8
 com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.6.0		e4852f11089137f8f2144229243ff122a8cad389
 com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.60.0		4ead57919a26651e0c5145d60b102118f977a507
+com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.61.0		83a10528b51bdc468d8c7f5990a952413a143212
+com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.62.0		a5e8aa99c7c188451a29d166b879d7b1bd7e5860
 com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.7.0		3f0292ed1518eee12e3d10bc8031ff4ccc29da8f
 com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.8.0		7917bf76a3215099006b9f712e337ddc0aa52cbf
 com.google.api.grpc	proto-google-cloud-gke-multi-cloud-v1	0.9.0		2a55b1272ad4d6283c7d4a6693aa0e43c5a030e1
@@ -1065,6 +1068,8 @@ org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.17		8d16542e0ca6a07695
 org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.18		0e23bbd578e18d61538ed106eab5da120fd4d0a3
 org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.19		68d8b0f099070a5827d9e9fb54acc9421bcfbc80
 org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.2		25a4c7c9fc645321b097d3a4eb14102df7953334
+org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.20		15d08794addc418b3baa63c9d8bcfe720dd98ac7
+org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.21		b3b2d72d1cca5455403df781570d8a1f357a6da2
 org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.3		2b16eee8ca0ccfb2ce0d5cd7c41a0ab259a043c1
 org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.4		98c69b6376e73da03356f36516021d4c4c6175ef
 org.eclipse.jetty.http2	jetty-http2-client-transport	12.0.5		4303f676320463ac6a67b836f58a288576b40164
@@ -1163,6 +1168,8 @@ org.incenp	sssom-ext	1.1.2		0697f6cd378170db2c2e2250a669b6c6b7782018
 org.incenp	sssom-ext	1.2.0		ba08cd1b579e6c8304991a98323f7a8b2a2fa1dd
 org.incenp	sssom-ext	1.3.0		7c9f3ae236e5265af77db00ba0b83bc2a4cb4089
 org.incenp	sssom-ext	1.4.0		65a1e9d9067314c9acc71d43a8dbca343a407f58
+org.incenp	sssom-ext	1.5.0		97cfb8d4a3247f2ce04e9e92e57bddf5e6406d78
+org.incenp	sssom-ext	1.5.1		bd5f7c378ea86178ca40b55a21c81a845c271d11
 org.jqassistant.plugin	common-parent	2.0.0		N/A
 org.jqassistant.plugin	common-parent	2.0.0-M1		N/A
 org.jqassistant.plugin	common-parent	2.0.0-M2		N/A
@@ -1516,6 +1523,10 @@ tz.co.asoft	koncurrent-later-test	3.0.6		8e75fd713a6ed0f816ee981891a07a792502349
 tz.co.asoft	koncurrent-later-test	3.0.7		6cd6a555bd74c7c9978f62d0c92610d56cb6656a
 tz.co.asoft	koncurrent-later-test	3.0.8		b45f0d533aa6db56e422b9753646794062552da0
 tz.co.asoft	koncurrent-later-test	3.0.9		b45f0d533aa6db56e422b9753646794062552da0
+tz.co.asoft	koncurrent-later-test	3.1.0		b48c13b14c423d536e002f0b32eb0d1760718f06
+tz.co.asoft	koncurrent-later-test	3.1.1		b48c13b14c423d536e002f0b32eb0d1760718f06
+tz.co.asoft	koncurrent-later-test	3.1.11		b48c13b14c423d536e002f0b32eb0d1760718f06
+tz.co.asoft	koncurrent-later-test	3.1.12		b48c13b14c423d536e002f0b32eb0d1760718f06
 tz.co.asoft	symphony-input-file-watchosx64	2.0.17		N/A
 tz.co.asoft	symphony-input-file-watchosx64	2.0.17	metadata	dbb007ebfa6d3a8b17b7ba7352e898ac3f5135ec
 tz.co.asoft	symphony-input-file-watchosx64	2.0.18		N/A

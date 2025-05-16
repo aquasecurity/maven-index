@@ -288,6 +288,11 @@ com.blackducksoftware.integration	integration-rest	0.8.3		5bd13c43422a85796c5bbf
 com.blackducksoftware.integration	integration-rest	0.9.0		17e20642cc32ff98447c8f467c2f353a1b210bc0
 com.flaviofaria.catalog	catalog-gradle-plugin	0.1.0		fe2d64e2dea84e6dba8f188b5613d5bbc55ed090
 com.flaviofaria.catalog	catalog-gradle-plugin	0.2.1		1a29c76b67f48c12eb1ec738c9c6630acce95c7b
+com.gilt	sbt-dependency-graph-sugar_2.10_0.13	0.7.4		4638aa113beaf94e041c969694f6588c3b479459
+com.gilt	sbt-dependency-graph-sugar_2.10_0.13	0.7.5		ef598fb6cbba9404e621db5f67995fee15f33434
+com.gilt	sbt-dependency-graph-sugar_2.10_0.13	0.7.5-1		4f33e2c2129c10efd13fc642c1fbff15fba44082
+com.gilt	sbt-dependency-graph-sugar_2.10_0.13	0.8.2		2c2ad1c3c890dd7d0e4a18a161283d4d62dceed7
+com.gilt	sbt-dependency-graph-sugar_2.10_0.13	0.9.0		63243aa8ffc0345602ba41aba827634727bf3da7
 com.github.bohnman	jackson-squiggly-filter	1.0.0		aad89e7e39879dbec993ecb594310fdda7c478ab
 com.github.richardwilly98.elasticsearch	elasticsearch-river-mongodb	1.6.11		8eb15ee2b0922812829dfcc283e99ebd85b9c1c7
 com.github.richardwilly98.elasticsearch	elasticsearch-river-mongodb	1.6.3		0a0363f7c68f10ae1ba414573bcdf60de8575dd4
@@ -720,6 +725,7 @@ io.camunda	zeebe-db	8.4.15		b673bb565d667724b5e3822c1bb8cb3f505b2777
 io.camunda	zeebe-db	8.4.16		9c9edb8be2d4f3b488114a3f61e67ef9847b9c8d
 io.camunda	zeebe-db	8.4.17		deba1b11bedf449503a100749ca136e0f078de22
 io.camunda	zeebe-db	8.4.18		e23a6347868f5195c4a222ea67fb26719121a803
+io.camunda	zeebe-db	8.4.19		3243e29c8a195a43c0f85ead2249d795c622618a
 io.camunda	zeebe-db	8.4.2		a10f66e60597eedfccd71f5773834ef61426cd39
 io.camunda	zeebe-db	8.4.3		ef85d2e95bff2a428ddff977c8e5ce08b8016c21
 io.camunda	zeebe-db	8.4.4		3a2d51a3b2f2d35b82ee2ea9a9ba66f1c2239869
@@ -742,6 +748,7 @@ io.camunda	zeebe-db	8.5.14		a7ec79e8a70f4999312238fa1d80752fe383b1bf
 io.camunda	zeebe-db	8.5.15		cf139a17ab257e5e850eb351471ff0b160abdea4
 io.camunda	zeebe-db	8.5.16		104ef66586e7802decb4635b2300a2791d07f8b3
 io.camunda	zeebe-db	8.5.17		ea980c32af16b5eea38525cf364eefe3b7dd63da
+io.camunda	zeebe-db	8.5.18		166887e75ac8b2d84603839ecbacc2c6f39a57df
 io.camunda	zeebe-db	8.5.2		0014217059ada0192c0f9df1e511c70ae4ad4720
 io.camunda	zeebe-db	8.5.3		7de4d0d8bd96c43f9e68fe49f524c829ad9f6929
 io.camunda	zeebe-db	8.5.4		497ccbd2c6fb2fa7806fbba295ce500698d470a5
@@ -779,6 +786,8 @@ io.camunda	zeebe-db	8.6.12-rc1		524dcf455f3f88ff17f4fbbb8654aa56dcd78ed4
 io.camunda	zeebe-db	8.6.13		b8adfdb30f59353e7ac0a88d24176f3b76774d03
 io.camunda	zeebe-db	8.6.14		b7254d05cf6ce706d31a54a2f99e9a7f24d3a3af
 io.camunda	zeebe-db	8.6.14-rc1		548c6ae8fdac093c7e8b33bb0e0b19ec569318ae
+io.camunda	zeebe-db	8.6.15		31ea89024523432835eb382542234151ed1e6d27
+io.camunda	zeebe-db	8.6.15-rc1		0162242e3a27b9601d2dffc30fa704c40f8bd243
 io.camunda	zeebe-db	8.6.2		1baef4ab51cad5b17f90d4ddce526c2e212e812a
 io.camunda	zeebe-db	8.6.3		0511fd87cf597105daf0fd4a3dbe72131ddaaab8
 io.camunda	zeebe-db	8.6.4		df4528ee466c36177000ea8519667b99dad207ac
@@ -814,12 +823,15 @@ io.camunda	zeebe-db	8.7.0-alpha5-rc1		59db8df2a773bd274358d64e8960880237372b53
 io.camunda	zeebe-db	8.7.0-rc3		8307e3e6e870a63a964e7a6dbf4e31998fcc2e25
 io.camunda	zeebe-db	8.7.1		93298eba278a71e000bb56123c23eddb1a24da8a
 io.camunda	zeebe-db	8.7.1-rc1		1c1e2fd352e3551056dca8403f122a69df8a2569
+io.camunda	zeebe-db	8.7.2		1ca7cdb72b8b0a867ffa5c2b6adf4ce8034517b6
+io.camunda	zeebe-db	8.7.2-rc1		e6e3cad7537493b65c3ea71588a5d74865fca303
 io.camunda	zeebe-db	8.8.0-alpha1		5cda4958669dfa8f702cfb0b5e908379f1011fe2
 io.camunda	zeebe-db	8.8.0-alpha1-rc1		28aa2c51f41c4f462e3a0e32dcb94d58f5a8973a
 io.camunda	zeebe-db	8.8.0-alpha2		41c1287fd4112d9cc69e9ea9b780fe751716aba9
 io.camunda	zeebe-db	8.8.0-alpha2-rc1		4bd4f280c9b1ba8b5352918db67e7d737c0377e0
 io.camunda	zeebe-db	8.8.0-alpha3		c1032e0190d903da52cf092851865aab587104cf
 io.camunda	zeebe-db	8.8.0-alpha3-rc3		0471c7dbf25265b8c2be141fc57094941c9413d0
+io.camunda	zeebe-db	8.8.0-alpha4		3b21734137985dca96d5a1a8f1acca87fe6060b0
 io.camunda	zeebe-db	8.8.0-alpha4-rc1		7f97fdec32ab6b7e6ba4ad97befcb86361e53ef4
 io.cloudsoft.jclouds.labs	docker	1.7.2-ea-brooklyn.2		bee7755824230ad76050e8002f83598cc3e14506
 io.cloudsoft.jclouds.labs	docker	1.7.2-ea-brooklyn.3		05c80a98414e1577a785bbc5b67ea1ea92c5606b
@@ -1166,6 +1178,7 @@ org.apache.camel.springboot	camel-crypto-pgp-starter	4.8.3		e225a3b5eddbe9c4fb93
 org.apache.camel.springboot	camel-crypto-pgp-starter	4.8.4		3627ecb77fa33dfcb97b48ea522f6f6ff0eb740e
 org.apache.camel.springboot	camel-crypto-pgp-starter	4.8.5		7f1e56f9c5befd2332fd7c2890ab33810c348355
 org.apache.camel.springboot	camel-crypto-pgp-starter	4.8.6		6f7afc1f9e2e4b5f689845524af927a77e10275b
+org.apache.camel.springboot	camel-crypto-pgp-starter	4.8.7		f685c7702ae8be56e34fe1db407a9659544c7c95
 org.apache.camel.springboot	camel-crypto-pgp-starter	4.9.0		865b411f7d86532dbf81d70a5a094e145a929559
 org.apache.directory.studio	org.apache.directory.studio.openldap.syncrepl	2.0.0.v20150606-M9		b737ebd1eb18160eaec276d9a150c4453d8c871f
 org.apache.directory.studio	org.apache.directory.studio.openldap.syncrepl	2.0.0.v20151221-M10		2a2c296b957efe15e4f1f246d4eeea6bfcc7250a

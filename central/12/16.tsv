@@ -957,6 +957,7 @@ dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.27.1		390a0dffc58f2804bb372886c94
 dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.28.1		2552bc6d9503673d4731e43c7d20dfaaa66283eb
 dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.3.1		450c6d5a65f22f347ee4c213a3da02614bff5fb8
 dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.30.1		c89d677f657156d512ddb1045d16c621b6e1e881
+dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.30.2		097890635aa8fb92966e9c3cb9a7e3a6c7ec71aa
 dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.4.1		de0ac2fa7e98c9863804d1cb4c7f5e3984081608
 dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.6.1		e1a40147a55e061f3d9900096b2fc6c42930bccc
 dev.zio	zio-aws-bcmpricingcalculator_2.13	7.31.6.2		c77bd1e1f943ae3fc2d09bff5c37b1b08da3ab96
@@ -1003,6 +1004,7 @@ dk.cloudcreate.essentials	immutable-jackson	0.40.20		e35ae12ce40038fd4edf60a438c
 dk.cloudcreate.essentials	immutable-jackson	0.40.21		b95aa083eac9d7d6fcd76d2cabe2779f737d08d3
 dk.cloudcreate.essentials	immutable-jackson	0.40.22		5741252d4bb073403d01cd0a40f6266e77a52e91
 dk.cloudcreate.essentials	immutable-jackson	0.40.23		14718e2fcf2757f8073761a9ff9d002b03d3e32c
+dk.cloudcreate.essentials	immutable-jackson	0.40.24		f40d1f15cb145a167d7fc2ee16fbbc0cf1820509
 dk.cloudcreate.essentials	immutable-jackson	0.40.3		d32bd994454e9253d6b8c53ad360e6ee516bd594
 dk.cloudcreate.essentials	immutable-jackson	0.40.4		e03284beba4d87204c5f30b19b9136a69cbf5625
 dk.cloudcreate.essentials	immutable-jackson	0.40.5		35abfb27d47980702ef7772803e7ff80b48e0606
@@ -1157,6 +1159,9 @@ io.insert-koin	koin-test-junit5	4.0.3-Beta1		bbdc61d6aad10edaa16805f58b14afd6be6
 io.insert-koin	koin-test-junit5	4.0.3-RC1		6e9e25c9e6f5e42e0d03593204b8e4ae69828957
 io.insert-koin	koin-test-junit5	4.0.4		46a8b44c3a79a6929a589500d5257c0096a3957f
 io.insert-koin	koin-test-junit5	4.1.0-Beta1		50bcf5592af49a79ca78c54bf3575acde5d0dbca
+io.insert-koin	koin-test-junit5	4.1.0-Beta10		df9a2a0d4717f1294130e0d08105ab1d5bd71b19
+io.insert-koin	koin-test-junit5	4.1.0-Beta11		5c1877176cf877f0879bb3d243f91a5d75957897
+io.insert-koin	koin-test-junit5	4.1.0-Beta13-KTOR-EAP		8bf558a474ba8c53b4c742b91672e8cb73fee540
 io.insert-koin	koin-test-junit5	4.1.0-Beta3		399fbfdef7823999fc022450f7a54bc9939407fe
 io.insert-koin	koin-test-junit5	4.1.0-Beta4		6748e32234e782840a3b1480f78f9e8b32d58716
 io.insert-koin	koin-test-junit5	4.1.0-Beta5		05789f0f11324cb09cd11fd1f5197ca47f1a47a9
@@ -1786,6 +1791,7 @@ org.openrewrite.recipe	rewrite-testing-frameworks	3.5.1		2e86a6a421c6c139a8bf4d6
 org.openrewrite.recipe	rewrite-testing-frameworks	3.6.0		2d7b58d16282149deb32c448a8d771190782b82d
 org.openrewrite.recipe	rewrite-testing-frameworks	3.6.1		36cfe5c3fd8fd0207cf798db7e3f69d2143b2ff4
 org.openrewrite.recipe	rewrite-testing-frameworks	3.7.0		e6fbf42fe01dc954bc4408f1d31a15be8e1e451e
+org.openrewrite.recipe	rewrite-testing-frameworks	3.8.0		d058363ada829e0fe0df7e35ac7bd1939276ebe9
 org.ow2.jasmine.jade	jade	2.0.0.M2		13b9723273ff17b569e5a2b9862cadb0e79cb7d9
 org.ow2.jasmine.jade	jade	2.0.1		N/A
 org.ow2.jasmine.jade	jade	2.0.2		N/A
@@ -1850,6 +1856,7 @@ org.scalameta	io_2.12	4.13.2		5c8be98c0b879645a4ae9fffa868eaca22166e74
 org.scalameta	io_2.12	4.13.3		93008b0a45fac3db2de32c11853f9920f4e9df1d
 org.scalameta	io_2.12	4.13.4		5837fde010359f6f26e0459b4396aca772034f57
 org.scalameta	io_2.12	4.13.5		aa800e3ee5052efb2b034e143b8c5d923601cb2e
+org.scalameta	io_2.12	4.13.6		2887ca3fb1ffbf22ebc585128a899fd70fe4754c
 org.teiid.modeshape	build	1.0.0.Final		N/A
 org.teiid.modeshape	build	1.0.1.Final		N/A
 org.tpolecat	doobie-specs2_2.12	0.10.0		4ed2ce09fda0fc57b38788c2cba6c1f42c309d14
@@ -2056,6 +2063,7 @@ org.wildfly.security	wildfly-elytron-auth-server	2.1.0.Final		0704c6aa0030c2c36e
 org.wildfly.security	wildfly-elytron-auth-server	2.2.0.Final		c13d78073c61488c1c716487e49703a2898e1791
 org.wildfly.security	wildfly-elytron-auth-server	2.2.1.Final		e9e03161b34585b9af8358c5461906ede4652a20
 org.wildfly.security	wildfly-elytron-auth-server	2.2.10.Final		25bddca0378c5399903e4001839d8c46a87409d7
+org.wildfly.security	wildfly-elytron-auth-server	2.2.11.Final		ceb1cf5af708a1a568f5d9193f2c2e46d6613f92
 org.wildfly.security	wildfly-elytron-auth-server	2.2.2.Final		cb8d33d858078bcbb884f7cb569694e16ad259e4
 org.wildfly.security	wildfly-elytron-auth-server	2.2.3.Final		0e1eebe3db16ff1618b0590aa41f37d51a6823e1
 org.wildfly.security	wildfly-elytron-auth-server	2.2.4.Final		8cd352a08c4a4dce39b84476724e81dc43ed7211
@@ -2078,6 +2086,7 @@ org.wildfly.security	wildfly-elytron-auth-server	2.6.0.Final		2c52fd90ad7597ba60
 org.wildfly.security	wildfly-elytron-auth-server	2.6.1.Final		b6222277b1427903ecbba5c67aae3f4c48defb1f
 org.wildfly.security	wildfly-elytron-auth-server	2.6.2.Final		d19c5909606339d8f1dff226018918cf820fc06c
 org.wildfly.security	wildfly-elytron-auth-server	2.6.3.Final		fcf458909197b414b016a030a99d6debef7e19b8
+org.wildfly.security	wildfly-elytron-auth-server	2.6.4.Final		959760b2bdb12187b47c42282d3057ff9bcdeabe
 pro.respawn.flowmvi	debugger-client-mingwx64	2.5.0-alpha02		N/A
 pro.respawn.flowmvi	debugger-client-mingwx64	2.5.0-alpha03		N/A
 pro.respawn.flowmvi	debugger-client-mingwx64	2.5.0-alpha04		N/A
@@ -2141,5 +2150,9 @@ tz.co.asoft	nation-currencies-tvossimulatorarm64	3.0.14		N/A
 tz.co.asoft	nation-currencies-tvossimulatorarm64	3.0.14	metadata	7fd13a9aa9784364cc221b52dea76e3bc0f20602
 tz.co.asoft	nation-currencies-tvossimulatorarm64	3.0.15		N/A
 tz.co.asoft	nation-currencies-tvossimulatorarm64	3.0.15	metadata	0850d06d823560620504f02979c9085524aee72c
+tz.co.asoft	nation-currencies-tvossimulatorarm64	3.1.0	metadata	7b5dd08e560f70a1ac2309fa1c679a002170c362
+tz.co.asoft	nation-currencies-tvossimulatorarm64	3.1.1	metadata	b3d7d7967cc6ca9508cd6d2d18b3a799018fee4f
+tz.co.asoft	nation-currencies-tvossimulatorarm64	3.1.11	metadata	9edc46bff6280b2348929a6e47877ec63d70e0aa
+tz.co.asoft	nation-currencies-tvossimulatorarm64	3.1.12	metadata	06d82d36845791ad6410628d5681e22d38b30bc7
 ws.unfiltered	unfiltered-agents_2.13.0-RC1	0.10.0-M3		6c7f957dbdc1f6b969a3e35f708792817638d499
 ws.unfiltered	unfiltered-netty_3.0.0-M2	0.10.1		049a83b49b3cc45a27ee76b69312162ef31f54b7

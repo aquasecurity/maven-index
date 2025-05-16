@@ -27,6 +27,21 @@ ch.admin.bit.jeap	jeap-messaging-contract-annotation-processor	8.33.0		e211bcdec
 ch.admin.bit.jeap	jeap-messaging-contract-annotation-processor	8.34.0		96d64e7accf2fb713df8189e6ba90b9b9497b144
 ch.admin.bit.jeap	jeap-messaging-contract-annotation-processor	8.35.0		24c6b54d298e83c4c91be294c2f8f256e8e0539c
 ch.admin.bit.jeap	jeap-messaging-contract-annotation-processor	8.36.0		f2178a3d4908e624edd13970ebf07a2cff450347
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.0.4+39-fb36f946		1af6256714649ac9b5f2858cd88338325cbf89b1
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.0.4+51-9fd4853f		ae1dd4825b1f96fd4879f288bc680e04c4e2fb4e
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.0.4+8-2e879ede+20170721-1345		2aab4460caac3814772962f6483d1791d1b0302f
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.0.4+9-e1c7cb96		a0cc586c82bc6c963fad7b92aa56dc24758bdc60
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.0		1f9f361c41f7aa1053660bf34931d6c67bf36683
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.0+3-0f3efae0		9b25ab3ec0800f25ecaaa2098d49fa0939f87635
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.0+7-3cf6b877		68a725caa271bfa057aa6f2414d2c478cab6afdd
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.0+7-8aa17d23		5c4c4b65b08f76c7f2a56dbc362195e05b92565b
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.0+8-f98b5bf1		cfcb73a1d830915e862df30b5237a4ae0f95cf96
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.0+9-f9754379		eb385f2c7a14138f83e7f5f71645fbe1df7cc7d8
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.1		1b5599ce623794db4b6f50eda33cb9a2f6e7bbbe
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.1+2-f57ad913		78a4a1a77bd638ff4042ba10ba7d2fb6826ace3f
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.1.1+3-565b4ec6		ed35274108d63659acdc326b5a7f595824b1b6c6
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.2.0		a9e7e35eb56a06d90ed25b0db0138bcf73572e7b
+ch.epfl.scala	sbt-release-early_2.10_0.13	1.2.0+2-cf33131f		9ea95158eb63abe93e945faf14b53af08d015ec5
 cloud.oneentry	sdk-system-watchosarm32	1.1.1		N/A
 cloud.oneentry	sdk-system-watchosarm32	1.1.1	metadata	32cf59b78fb271ed0a98987dd223dee9141508cb
 cloud.oneentry	sdk-system-watchosarm32	1.2.0		N/A
@@ -423,6 +438,7 @@ com.daml	ledger-api-proto	2.10.0-snapshot.20250108.13162.0.v1ce7df14		3d39cc9e4a
 com.daml	ledger-api-proto	2.10.0-snapshot.20250114.13163.0.ve965e38d		3d39cc9e4a43408f04693edd04e8199802f69472
 com.daml	ledger-api-proto	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		3d39cc9e4a43408f04693edd04e8199802f69472
 com.daml	ledger-api-proto	2.10.0-snapshot.20250211.13169.0.vd812609c		3d39cc9e4a43408f04693edd04e8199802f69472
+com.daml	ledger-api-proto	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		3d39cc9e4a43408f04693edd04e8199802f69472
 com.daml	ledger-api-proto	2.2.0		cdb07b98a758804eca988b51ab1bf4fac7415af3
 com.daml	ledger-api-proto	2.2.0-snapshot.20220412.9721.0.b7c4bdab		0872ad41f70a6564cb85b055c1a2ba45da133e2c
 com.daml	ledger-api-proto	2.2.0-snapshot.20220413.9724.0.2dc1085b		0872ad41f70a6564cb85b055c1a2ba45da133e2c
@@ -1462,6 +1478,9 @@ com.daml	ledger-api-proto	3.3.0-snapshot.20250414.13754.0.v6f99815d		7317d01a37f
 com.daml	ledger-api-proto	3.3.0-snapshot.20250415.13756.0.vafc5c867		7317d01a37f4d3614906222539a313380c7054b5
 com.daml	ledger-api-proto	3.3.0-snapshot.20250424.13760.0.v90d51dbb		10ec2c041209c4ddb477c7a25663d6f44f87be93
 com.daml	ledger-api-proto	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		77e5fdffc9bb0010e52b4574ff8c47869669c83a
+com.daml	ledger-api-proto	3.3.0-snapshot.20250507.13770.0.v8a383258		77e5fdffc9bb0010e52b4574ff8c47869669c83a
+com.daml	ledger-api-proto	3.3.0-snapshot.20250509.13773.0.v7f71343b		337b8274bb6ac6b9d8c47e5c4b56ae80f3177ee3
+com.daml	ledger-api-proto	3.3.0-snapshot.20250515.13776.0.ved4899eb		337b8274bb6ac6b9d8c47e5c4b56ae80f3177ee3
 com.daml	ledger-api-proto	3.4.0-snapshot.20250415.13757.0.v8ac8af98		7317d01a37f4d3614906222539a313380c7054b5
 com.daml	ledger-api-proto	3.4.0-snapshot.20250415.13760.0.vea143716		7317d01a37f4d3614906222539a313380c7054b5
 com.daml	ledger-api-proto	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		b2fe0873604761799114354e45f6d78f66b70909
@@ -1478,6 +1497,16 @@ com.daml	ledger-api-proto	3.4.0-snapshot.20250430.13801.0.v62e9a71a		1666fa2040a
 com.daml	ledger-api-proto	3.4.0-snapshot.20250430.13804.0.vecb995a9		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
 com.daml	ledger-api-proto	3.4.0-snapshot.20250501.13805.0.v6dcc9347		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
 com.daml	ledger-api-proto	3.4.0-snapshot.20250502.13811.0.vc9342f2a		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250505.13814.0.v8f469e2a		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250505.13817.0.vf79dda6c		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250506.13820.0.vb449114c		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250508.13828.0.v6124cac0		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		1666fa2040addbfbe8290b6608ebbfb9f6f2b9c2
+com.daml	ledger-api-proto	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		cd659b2b323c679519e453afded3981f4442ecb6
+com.daml	ledger-api-proto	3.4.0-snapshot.20250512.13837.0.v78d1b88c		cd659b2b323c679519e453afded3981f4442ecb6
+com.daml	ledger-api-proto	3.4.0-snapshot.20250513.13844.0.vbc99348c		cd659b2b323c679519e453afded3981f4442ecb6
 com.data-artisans	flakka-sample-cluster-scala_2.10	2.3-custom		N/A
 com.distrimind.flexilogxml	DM-FlexiLogXML-Common	1.1.0-STABLE		78fcc96c9221f7dfcd87b52765064c8092b2fc56
 com.distrimind.flexilogxml	DM-FlexiLogXML-Common	1.2.1-STABLE		ad3f522fa6aa3bfcc206191d0bcd51dbcb174d37
@@ -2230,6 +2259,7 @@ io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.15.2		94d808de32cef
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.15.3		6299055a85bfc86cd14d1731c669f4147472b105
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.15.3.1		fe1411a5a74d3b6f132d4d6e7e09b06b6e50ddd4
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.15.4		2f14377293b734ea2e47e8cf6acb5670fa050d79
+io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.15.5		4010b0aa036121a7f2480fcf4f691f42e7fe4320
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.16.0		2383b6ccc227ae80d16e5785dc82b855ceabe043
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.16.0.CR1		40f90d65344e9788a317dc8ecfdcf27b8ac03f95
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.16.1		6ad22a61f6c331acae3cd875d07c087b10940454
@@ -2274,6 +2304,7 @@ io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.2.8.Final		cf105ea8
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.2.9.Final		f7b66ef04564a1d0b01ede5c92651fcaae850afc
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.20.0		ccead898459a1c28cea562e26cdb37e91b9e051d
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.20.0.CR1		dcab3cf747974f8b79b12dd8a8314b8f353c7aed
+io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.20.1		bafd880cddff2d7840d3e42397dd489476215e28
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.21.0		9b40927107aaf0956ef6443d841607f0d7fbfdf6
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.21.0.CR1		b78f330deba9a03ed50ba98e5c377458ff07369e
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.21.1		ab53949c6090ed9f0ddd0e3f947c187a3e929e05
@@ -2283,6 +2314,9 @@ io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.21.4		d3079ecbce4a4
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.22.0		ccc258d5a4d06cc8e0e53ea415df81eda8804610
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.22.0.CR1		54b6684a11e5c2544ca6294abd3cca3a2feaa01c
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.22.1		4963a969301d196e01f6f2b7e23eaef7ea021030
+io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.22.2		9bc50eaab31e9ee97df2761a2832de62c9bd518a
+io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.22.3		09f10b98744c48561b5b25e65ffbee52e1d4a912
+io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.23.0.CR1		1aa32dfefe28bc422e77d1a0759fcb1627b21a7f
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.3.0		ff686d3536c83acb11c3682278ac491813a92fc6
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.3.0.CR1		895866b63a5e089a6b5613db762a6451b34f9a1d
 io.quarkus	quarkus-funqy-google-cloud-functions-deployment	3.3.1		6c943f6540c826b4bbb7b1e37c6654e2d953808f
@@ -2700,6 +2734,7 @@ net.n2oapp.framework	n2o-autoconfigure	7.28.3		b69b08f7345cfd5416ed749ce686c88f0
 net.n2oapp.framework	n2o-autoconfigure	7.28.4		299f03e1c2d9397fb42c62f805075d1f3f9397e2
 net.n2oapp.framework	n2o-autoconfigure	7.28.5		34131c30748c600cafece0a073543515c4b8bed0
 net.n2oapp.framework	n2o-autoconfigure	7.28.6		7a2a235ec2780a30afa4df8415b6f243d9b561a9
+net.n2oapp.framework	n2o-autoconfigure	7.28.7		cc90e4f1a581793811b3270a4059d04161ca7872
 net.n2oapp.framework	n2o-autoconfigure	7.5.0		b6512c7cc40a0698e6c2c0b39329079db6eaae96
 net.n2oapp.framework	n2o-autoconfigure	7.5.1		f74a5ce0f92180556ca3daea04d6d4aafa5caa04
 net.n2oapp.framework	n2o-autoconfigure	7.5.3		5205248b55e785c0ac049cbdc548873e6db47492
@@ -3517,6 +3552,7 @@ org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.7.1	
 org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.7.3		N/A
 org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3	material3-window-size-class-uikitsimarm64	1.8.0-alpha02		N/A

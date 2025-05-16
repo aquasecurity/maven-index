@@ -314,6 +314,7 @@ com.qlangtech.tis	tis-config	1.0.0		b07252d7fed520d3e68a4427d76a7a0ce0e83846
 com.qlangtech.tis	tis-config	1.0.1		5539e68cd42f5c3e8c4ab8163e2b6dcc39c09265
 com.qlangtech.tis	tis-config	1.0.2		ea835f4eea441b08b5b77aa053d5311ffb5d4878
 com.sparkutils	shim_runtime_15.4.dbr_3.5_2.12	0.2.0-RC1		b12babc0ecf13c378836356d1c6efab58e771d64
+com.sparkutils	shim_runtime_15.4.dbr_3.5_2.12	0.2.0-RC2		56125fec156410314d72a6d42fd6bf3f42baba9f
 com.typesafe.play	cachecontrol_2.10	1.1.1		0397052723d7c8225ba99fbd2c0528f92c32c9ef
 com.typesafe.play	cachecontrol_2.10	1.1.2		efc2d38a22d9df2e532158ced0c91e56e86018ea
 com.typesafe.play	cachecontrol_2.10	1.1.3		059f4b0006ec80543b1cdc406e5465e1114b6cbf
@@ -369,6 +370,7 @@ de.sciss	lucre-expr_2.10	3.4.1		7d0fdb66d8770ed3b1c851f8f4d900fa5259a508
 dev.ikm.hybrid-reasoner	hybrid-reasoner-snomed	1.0.1		c391d07d463f5ec6b67ff2fd84059ed6a84df992
 dev.ikm.hybrid-reasoner	hybrid-reasoner-snomed	1.0.11		ec5d49bd584a775af71bee0e8c7cf51da50b08dd
 dev.ikm.hybrid-reasoner	hybrid-reasoner-snomed	1.0.12		be4ead126aedeb94e37e4bc43815894f20b96a3f
+dev.ikm.hybrid-reasoner	hybrid-reasoner-snomed	1.0.13		56004bd2a4eab5c2d01faa264af6175945f4d2ba
 dev.ikm.hybrid-reasoner	hybrid-reasoner-snomed	1.0.2		684713fd30877b01b822a0fbbbaa6673b8331d06
 dev.ikm.hybrid-reasoner	hybrid-reasoner-snomed	1.0.3		0558033c5785d10cb98238a2e827bbfa2d223d04
 dev.ikm.hybrid-reasoner	hybrid-reasoner-snomed	1.0.7		d0f98c246751561ceeabc32ae9d1e7af0c2618cd
@@ -726,6 +728,7 @@ io.ktor	ktor-events-mingwx64	3.0.3		b102ad2a39257e5bb20ca5256b65eae00184b8a0
 io.ktor	ktor-events-mingwx64	3.1.0		485afbf66ffcee0acd4d8a80b84c965ca35601ed
 io.ktor	ktor-events-mingwx64	3.1.1		24ac2ac40fcadce8dd8dd2a094163ee46c9a9b57
 io.ktor	ktor-events-mingwx64	3.1.2		dd47884d4f3bc44b686325a3bf5002f863de4f35
+io.ktor	ktor-events-mingwx64	3.1.3		aa68554b4b2ef1814de4401a83daaa87981bb722
 io.restx	restx-barbarywatch	0.2.9		9081ed3621ddd2b06639bd213285172646930702
 io.restx	restx-barbarywatch	0.2.9.1		8b576c674a3b6cf723da112093ec2eea6599ed3e
 io.restx	restx-barbarywatch	0.2.9.2		e193bd4e3dd929484614a54eeac310f6aff1726f
@@ -893,6 +896,7 @@ net.sf.tsl2nano	tsl2.nano.descriptor	2.5.2		6c2470d9746f1a68df6ab0d9f1a0c0b5b6f0
 net.sf.tsl2nano	tsl2.nano.descriptor	2.5.3		40699ed645f850faa00c546941e5f63542484964
 net.sf.tsl2nano	tsl2.nano.descriptor	2.5.4b		038d1aea17a8857a7abda2d5c224bf20f74db818
 net.sf.tsl2nano	tsl2.nano.descriptor	2.5.5		763268f66d2170c2755b9d18c3d90163ba6ee696
+net.sf.tsl2nano	tsl2.nano.descriptor	2.5.6		902b8c0314483878e11f564b87f9c543a742519a
 org.andromda.repositories	andromda-repositories	3.2		N/A
 org.andromda.repositories	andromda-repositories	3.3		N/A
 org.andromda.repositories	andromda-repositories	3.4		N/A
@@ -1077,6 +1081,7 @@ org.apache.camel	camel-http-common	4.8.3		fe42b188a09997dddc23de50a8452ce65ebe32
 org.apache.camel	camel-http-common	4.8.4		7f217717369537025a7c80f097eb11f42740b6ff
 org.apache.camel	camel-http-common	4.8.5		0430a928ed2a1a581fb37e91691124383fe8d382
 org.apache.camel	camel-http-common	4.8.6		cb730a24a6d3e1a63e4d76cc900ecb8962ee154c
+org.apache.camel	camel-http-common	4.8.7		5ae011d91676520c3aaa3351927e7a8900605eab
 org.apache.camel	camel-http-common	4.9.0		d90cd68ea7d445298f690d75388cbb1b88541519
 org.apache.camel.karaf	camel-rest-openapi	4.10.3		1654c369bf2ac16a1b6bead09bd9e092e69e84b2
 org.apache.camel.karaf	camel-rest-openapi	4.7.0		8f313f2503f914687087c9239a2b848038c1e1b1
@@ -1148,6 +1153,7 @@ org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.2.1		271219b552f60c09a8966
 org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.2.2		b390e08e437a1c1d7c7e67755f8305bd84cf757b
 org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.2.3		e7bcccdbb6488eb1396a5ce3b52d0b8313128dc7
 org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.20.0		8ed53e39b84be4155489c91051ce5212a68096de
+org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.20.1		d386c10c6005668175bc9b884012f81e31246e45
 org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.22.0		bc88974d3a4be231ad8cf4d3df8d5914f1c8d2fb
 org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.4.0		6882c5a360d001cf918bba7c9a635bc990915b56
 org.apache.camel.quarkus	camel-quarkus-rest-openapi	3.5.0		ec2d83e6dca3019a90166e768e7ae257f1c90332

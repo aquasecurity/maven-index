@@ -284,6 +284,7 @@ com.noumenadigital.platform	api-postprocessor	2025.1.1		ad0e98130b249dc5e4c729ca
 com.noumenadigital.platform	api-postprocessor	2025.1.2		d61a3b9700a36dd26838db55017a69c2d798c67a
 com.noumenadigital.platform	api-postprocessor	2025.1.3		62a678d2efbe5b204e5e1d82649daf3605b5bd5d
 com.noumenadigital.platform	api-postprocessor	2025.1.4		91c44d1bb0346374a06f505050f6e49f8d59a2cc
+com.noumenadigital.platform	api-postprocessor	2025.1.5		5485f6a5abf931eba89e80c5d233cd4dbf832178
 com.nrinaudo	kantan.xpath-cats_2.13	0.5.1		9fa38a30e115cbcf0f40b085220954b1bf90dca1
 com.nrinaudo	kantan.xpath-cats_2.13	0.5.2		b5101f5363935a8fa6337f4f155e10095adf59b8
 com.nrinaudo	kantan.xpath-cats_2.13	0.5.3		bf5dd13ff2fc789afe950b457fa8f8173bee9df5
@@ -452,6 +453,7 @@ dev.zio	zio-streams_2.13	2.1.14		a95e77a2b5bd10831d34b0889424b0125ce0ac4c
 dev.zio	zio-streams_2.13	2.1.15		3b0645e3920fb1b41c7ebf9f007bbacc331d9f57
 dev.zio	zio-streams_2.13	2.1.16		e0053c400a56748e6e7fafe778f8374ee9ad0c8a
 dev.zio	zio-streams_2.13	2.1.17		8ff544bfb4e68b9f2b0ca03e743337df97bd13a6
+dev.zio	zio-streams_2.13	2.1.18		323160c45875a5894f96634277a97bf2386ad569
 dev.zio	zio-streams_2.13	2.1.2		63baa0363f85030070de35a2432a165f57909b97
 dev.zio	zio-streams_2.13	2.1.3		ec5a9e6902b00d5669916bf1d00c89ec0db8da6a
 dev.zio	zio-streams_2.13	2.1.4		663c9bb3cac916af8ceecddcbf11261d084a7bfa
@@ -697,6 +699,7 @@ io.helidon.security.providers	helidon-security-providers-http-auth	4.1.6		c58131
 io.helidon.security.providers	helidon-security-providers-http-auth	4.1.7		e0d3177446cf90677a50ba6311c5dcc8b83e372b
 io.helidon.security.providers	helidon-security-providers-http-auth	4.2.0		e2026bae5e0c2b40b79cb5c5f393fd7b58c39eb3
 io.helidon.security.providers	helidon-security-providers-http-auth	4.2.1		63ba0490cdb5cad3993960dae8d77c41ffef22fc
+io.helidon.security.providers	helidon-security-providers-http-auth	4.2.2		8fe7fafc0bebd90b6a7fd287ebbbf42d34d895e4
 io.ktor	ktor-server-cio-js	3.1.0		N/A
 io.ktor	ktor-server-cio-js	3.1.1		N/A
 io.ktor	ktor-server-cio-js	3.1.2		N/A
@@ -767,6 +770,7 @@ io.opentelemetry	opentelemetry-extension-kotlin	1.47.0		d319edb5d6e1af65facd21a5
 io.opentelemetry	opentelemetry-extension-kotlin	1.48.0		eee5873e354805d489f99a200b42b03d2941ace9
 io.opentelemetry	opentelemetry-extension-kotlin	1.49.0		93c75c199ed2b790d5aefa436b4c2aa01ca39e58
 io.opentelemetry	opentelemetry-extension-kotlin	1.5.0		1629ae0deda7ce253d90dba6b7ab44d1b360c1b0
+io.opentelemetry	opentelemetry-extension-kotlin	1.50.0		4ceb176eaf45a1f5980d3500d2c909b53b2ee9db
 io.opentelemetry	opentelemetry-extension-kotlin	1.6.0		68755c44a4476a734ad9126abc8dc30bdf160efe
 io.opentelemetry	opentelemetry-extension-kotlin	1.7.0		93dda06339011d674eedf658cf1f6df41a9be8d1
 io.opentelemetry	opentelemetry-extension-kotlin	1.7.1		28715828d0bbb5e51c87f0fa8d385ff796ecfe4b
@@ -896,6 +900,8 @@ org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.16		3810bc204ee4037a1207
 org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.17		45dc06df80682430ee693b8c5b0fef8eb5fcb56f
 org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.18		d81faa3800973d80ec5aba70155b669de69cdcae
 org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.19		94cae3887834ad08e1387f17d32447e81eaf2451
+org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.20		5715c6082124d2dc6711df5c6f6cfb407f6a7be6
+org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.21		431cdf312f178934945a620f2afc4bb4916a9f0e
 org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.3		480876ba023b629f66bf66703b105548e1f4bada
 org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.4		8f431154227b63bba627601f6530aa7832594282
 org.eclipse.jetty.ee8.osgi	jetty-ee8-osgi-boot-jsp	12.0.5		43a1a0d2971c8785292dba853accdd70ddbe848c
@@ -1086,6 +1092,8 @@ ru.ldralighieri.composites	composites-fiberglass	0.3.1		N/A
 ru.ldralighieri.composites	composites-fiberglass	0.4.0		N/A
 ru.ldralighieri.composites	composites-fiberglass	0.4.1		N/A
 ru.ldralighieri.composites	composites-fiberglass	0.4.2		N/A
+ru.ldralighieri.composites	composites-fiberglass	0.5.0		f9899e3863ac785d88e594c89a007f656586b6ad
+ru.ldralighieri.composites	composites-fiberglass	0.5.1		3c8bce41c005184218dd4d22c1845008cc4a16b0
 sh.almond.tmp.ammonite	ammonite-compiler-interface_2.13.6	3.0.0-M0-36-8856669f		c5637579392de4450a92445c6ac702ef88012617
 sh.almond.tmp.ammonite	ammonite-compiler-interface_2.13.6	3.0.0-M0-38-dd60a0b5		669a5e93828cc3da9720732a8ac740eeed5f2ec9
 sh.almond.tmp.ammonite	ammonite-compiler-interface_2.13.6	3.0.0-M0-39-72f519a6		ea0f10aa15897f6babb99658db628dc80537803f

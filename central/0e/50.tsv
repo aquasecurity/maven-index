@@ -141,6 +141,7 @@ com.insidion.axon.microscope	axon-framework-microscope-extension-parent	0.0.1		N
 com.insidion.axon.microscope	axon-framework-microscope-extension-parent	0.0.2		N/A
 com.insidion.axon.microscope	axon-framework-microscope-extension-parent	0.0.3		N/A
 com.insidion.axon.microscope	axon-framework-microscope-extension-parent	0.0.4		N/A
+com.io7m.seltzer	com.io7m.seltzer.slf4j	1.2.0		5804cfc7af2f163fe5557edd95b24f6bc07462d5
 com.jwebmp.jre10	jwebmp-bootstrap-tags-input	0.58.0.21-RCTEST		e99a4c69ec69c2b21fae098c7b3892fa8784b8c1
 com.jwebmp.jre10	jwebmp-bootstrap-tags-input	0.59.0.14		1a1926a5f93ed5028dc1dab75407079e13197c3f
 com.mashape.unirest	unirest-java	1.3.0		c14ef055c963bfa00df4109775b24c2a08e6e6a8
@@ -213,6 +214,7 @@ com.powsybl	powsybl-dynawo-commons	2.6.0		7ea501b5bb3b196be2d14a91459c823e7d871e
 com.powsybl	powsybl-dynawo-commons	2.7.0		ad2880ecb1fb87c150ddfad14da099bb1f463bd8
 com.powsybl	powsybl-dynawo-commons	2.7.1		767d6d2c283322a4d2439ce19b22f5b6eec26528
 com.powsybl	powsybl-dynawo-commons	2.8.0		98b51c043a9449a486ec57c06ce48c4d7b6e7db3
+com.powsybl	powsybl-dynawo-commons	2.8.1		eb7679d3c53c8498da2439d28dd0b69a378657fb
 com.qinshift.linguine	linguine-generator	0.2.0		ff729303170ccf7ae02b47c2e18beec0faa3ba6a
 com.qinshift.linguine	linguine-generator	0.3.0		e84d815f5fb606a0ec406dac55cd08a0cbfe2fb5
 com.smarttransactions	network-lib	0.0.2		3b01669b61f0f1faf8c7fb16f3ddaec92cbf76cf
@@ -1117,6 +1119,7 @@ org.apache.beam	beam-sdks-java-io-contextualtextio	2.61.0		bca972b9808d561683722
 org.apache.beam	beam-sdks-java-io-contextualtextio	2.62.0		37cf9ce6e7fa1ed6af3d5848b38d12181a930990
 org.apache.beam	beam-sdks-java-io-contextualtextio	2.63.0		ffb48b58d3641021c167442407668e8e1e245b19
 org.apache.beam	beam-sdks-java-io-contextualtextio	2.64.0		2121fec75468143a0f89200c45db79fe8d8bb329
+org.apache.beam	beam-sdks-java-io-contextualtextio	2.65.0		4fb56df768b3509653857703cef38b4a92e0b0e8
 org.comtel2000	fx-parent	11.0.0		N/A
 org.comtel2000	fx-parent	11.0.1		N/A
 org.comtel2000	fx-parent	8.1.1		N/A
@@ -1397,10 +1400,17 @@ org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.8.0		bfa1b0d9050da2a
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.80.0		35bfb5f24170c4a23625def00dd4c42ad2419b8f
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.81.0		e4af2d00af8d54dec27f15bccef0293f1a2726f7
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.82.0		6dd3e8300a1071bf8f70da8364168d1d7c10d1cc
+org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.82.1		ec48452f44f6370d5a7107ba26ccc2a1f6e31b26
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.83.0		1cb6bf62382dfa900bca2f0b05eba999ff287040
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.83.1		9f18c6939a84c3d441c89d18d1a9245484000cb4
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.83.2		a802977c351f419769ddeb206df02c0ddc52dc2c
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.83.3		ba25fa6f56c8d145cf2e33f7150f712107fb0de4
+org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.84.0		c5d6f6d205a7da0b8f0b71c4daa9bc14997c0a82
+org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.84.1		974395898f600c6c9a2dfaf4045654acc8a20fed
+org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.85.0		1aa6ee0de4d28199fc8667a0b0f11d5bf5d8f349
+org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.85.1		c793a9099a82c8e3f196f1a054678f68ea32b384
+org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.85.2		741363b8920aea683d21a5df96d7c799fd83b566
+org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.85.3		7a1d33fad9d4f780a4c8596fa77a8782bf475b34
 org.finos.legend.engine	legend-engine-xt-graphQL-compiler	4.9.0		11efbd3a3c7f3f2b9fb4eceb0aee59712361e30f
 org.j3d	j3d-filter	3.0.0		8eb6bd4f44bec2c48799fd3c6e847dd22287838c
 org.j3d	j3d-filter	3.0.0-RC1		c7040bb4f737b9dffc77566acc535b8bf4270fea

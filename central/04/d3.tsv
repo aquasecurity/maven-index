@@ -429,7 +429,16 @@ aws.sdk.kotlin	ssmincidents-jvm	1.4.73		0a0f99f66ca51c641198ef292e3bf23caf730f66
 aws.sdk.kotlin	ssmincidents-jvm	1.4.74		92b9eff3894badce95ae7847f8dde006b2a2f6ee
 aws.sdk.kotlin	ssmincidents-jvm	1.4.75		81d6a198ef281f81cc48e8bb5534a9557d182772
 aws.sdk.kotlin	ssmincidents-jvm	1.4.76		08477af3fd35d756235ef15910531982bcef2308
+aws.sdk.kotlin	ssmincidents-jvm	1.4.77		2ad08b454ad5aa336ed8bd20ad97edc850fe5662
+aws.sdk.kotlin	ssmincidents-jvm	1.4.78		08fe9752bd9147498039789ad9e2cbffc6327a81
+aws.sdk.kotlin	ssmincidents-jvm	1.4.79		1c760d89a41d71af7455a7368f4623bf6f14b57d
 aws.sdk.kotlin	ssmincidents-jvm	1.4.8		d04372d17378f1a6adb973d1b55abf9a74f47ef3
+aws.sdk.kotlin	ssmincidents-jvm	1.4.80		64f6771a1d656243b6e0e2f93a068e039e23e313
+aws.sdk.kotlin	ssmincidents-jvm	1.4.81		bc67c37fa09e15b5375889d556f1f522e8037eb5
+aws.sdk.kotlin	ssmincidents-jvm	1.4.82		bfea94fb7513f60b9ad8424787cdaf9a10730c8a
+aws.sdk.kotlin	ssmincidents-jvm	1.4.83		f5411a968bc20643bccb987864b207573f88b58c
+aws.sdk.kotlin	ssmincidents-jvm	1.4.84		13f0a19948d8df54ac760208c59626ec289b5174
+aws.sdk.kotlin	ssmincidents-jvm	1.4.85		4e2b3f6b775266ebe96a30be2f10d9a7ae6c7c0b
 aws.sdk.kotlin	ssmincidents-jvm	1.4.9		5dd27d437fba3096cc7e869236254142f9147e4b
 ba.sake	kalem-core_sjs1_2.11	0.0.1		ebe63d6ab384b6f45d68da92dbd5ea07afe96d53
 br.usp.each.saeg	jaguar2-exporters	0.0.1		N/A
@@ -1110,6 +1119,8 @@ com.moz.fiji.rest	fiji-rest-standard-plugin-test-avro-lib	0.1.0		9ef327564aec498
 com.moz.fiji.rest	fiji-rest-standard-plugin-test-avro-lib	0.1.1		16cda411f59c71b1d6387be7f5a74916b1873d68
 com.qcloud	ofs-sdk-definition	1.0.4		4f7ce2403be687e27d4a14f71468d489619e7d29
 com.qcloud	ofs-sdk-definition	1.0.5		e2fd5a8135aec336526661044f1027d22418f17d
+com.sonar-scala	sbt-sonar_2.12_1.0	2.2.1		acb1c88713757a7bc64c383a6484506771f104da
+com.sonar-scala	sbt-sonar_2.12_1.0	2.3.0		e7ad1fd6fe1cc0c743b7d9c28c3819336c845464
 com.talk2object.plum	plum-client	0.0.4		N/A
 com.tencent.bk.base.datahub	debezium-testing-testcontainers	1.5.4-bkbase.1		a449199715358ddc99742f29d9af4ac6a46cf42a
 com.tencent.bk.base.datahub	debezium-testing-testcontainers	1.6.4-bkbase.1		0138b3c37a9b2911cb5704693c273cc470b1ad59
@@ -1417,6 +1428,7 @@ net.javacrumbs.shedlock	shedlock-provider-dynamodb2	6.3.0		1ff9f1883b70323cb3ad4
 net.javacrumbs.shedlock	shedlock-provider-dynamodb2	6.3.1		ee1610470a34e9b208c60f58762895f04e15895e
 net.javacrumbs.shedlock	shedlock-provider-dynamodb2	6.4.0		3cee3a896d30f8ded20b894aaafe9a5d3b5e5f55
 net.javacrumbs.shedlock	shedlock-provider-dynamodb2	6.5.0		74f5b27ab9dd4c19e0e023e1d0c593f2f8989daa
+net.javacrumbs.shedlock	shedlock-provider-dynamodb2	6.6.0		77cdb198aec1def0acb5645a64b9e47d8b5de765
 net.liftmodules	fobo-jquery_2.5_2.10	1.0		57b42bf086424c2e043ab467824e6cbfbf34ca3d
 net.liftmodules	fobo-jquery_2.5_2.10	1.1		7aa56bf412909b70230941b9c09d8d36c6e399b3
 net.liftmodules	fobo-jquery_2.5_2.10	1.2		40045466f5a4b0484d34c7a9a98753ba913abaea
@@ -1452,6 +1464,7 @@ org.apache.karaf.decanter.collector	org.apache.karaf.decanter.collector.camel-tr
 org.apache.karaf.decanter.collector	org.apache.karaf.decanter.collector.camel-tracer	1.3.0		6505bbff2499aa0e062a67834924d0fd5194c07b
 org.apache.plc4x	karaf-itest	0.5.0		169cf796e2e566a686a55f19300a17bf6558563b
 org.apache.plc4x	karaf-itest	0.6.0		fbcd548b11c4620961160cc8a373ec9fbd9a485d
+org.apereo.cas.core.cas-server-core-webflow	5.0.0.RC2	core		91d9bf68d82de448a0db3cab73f8b24dfcdc625e
 org.avaje	avaje-aws-appconfig	0.1		c69288226e0d5bac375a5748fa1da4c4eb0ee2a1
 org.avaje	avaje-aws-appconfig	0.2		b5011f030377eece31e1df5175a3bd93264337cc
 org.broadleafcommerce	broadleaf-open-admin-platform	1.5.0-GA		73509d993ac170887cb9158d87fd807046fad28e
@@ -1595,6 +1608,8 @@ org.eclipse.jetty	jetty-keystore	12.0.17		0625b87f533d39da580b6ed4d89c42aa563f34
 org.eclipse.jetty	jetty-keystore	12.0.18		d162b5bb1c26c5228dbdbe3fee96a235dc22b031
 org.eclipse.jetty	jetty-keystore	12.0.19		db490df176036646d36fffd499555bce6e02eddb
 org.eclipse.jetty	jetty-keystore	12.0.2		e483f1e110b63d187ca378ca70ff2579fa4cb482
+org.eclipse.jetty	jetty-keystore	12.0.20		46288738ba6166dbc66d81ffb806f74013d5fb29
+org.eclipse.jetty	jetty-keystore	12.0.21		3cb238f1e19f8cbc0ae50c2769335ab2724a1384
 org.eclipse.jetty	jetty-keystore	12.0.3		a08eb8e8604d1db7842c932b8aa2ec1be504f060
 org.eclipse.jetty	jetty-keystore	12.0.4		c312b440607db5480de8c306e57381842238acd0
 org.eclipse.jetty	jetty-keystore	12.0.5		7f7ea2a923589523a945259990a8b22137fa0135
@@ -1729,6 +1744,7 @@ org.opennms.features.geolocation	org.opennms.features.geolocation.api	33.1.2		d3
 org.opennms.features.geolocation	org.opennms.features.geolocation.api	33.1.3		42863fffb4597484d68dc46092ee05e7b56bb826
 org.opennms.features.geolocation	org.opennms.features.geolocation.api	33.1.4		d0d0a89dd33d22d0b41dfb3f387120963c9f2d7f
 org.opennms.features.geolocation	org.opennms.features.geolocation.api	33.1.5		bb737052a4e609045edd0b62fc9e352bfd7f3f29
+org.opennms.features.geolocation	org.opennms.features.geolocation.api	33.1.6		69dbd947d7d8f7deb22a29f6fd3985c79b9bce09
 org.ow2.jonas.jpaas.apache-manager	apache-manager	1.1.1		N/A
 org.reploop	protobuf-parser	0.19		0cf6f61cbb23bc24a250865ce32f9156b57e4ba5
 org.reploop	protobuf-parser	0.20		eeee1cc4cefbb4e6d27d4d2c058cd111735aef7e

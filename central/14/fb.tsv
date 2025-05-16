@@ -193,6 +193,8 @@ com.google.cloud	google-cloud-networkconnectivity	1.58.0		889e6317be5f0d611efbd7
 com.google.cloud	google-cloud-networkconnectivity	1.59.0		ee31d50113992d580e4ad883ceb620b042bd870c
 com.google.cloud	google-cloud-networkconnectivity	1.6.0		c42cf53773c4c31ee1c7912163d103c3a7fce4d0
 com.google.cloud	google-cloud-networkconnectivity	1.60.0		1c3bdc881840892879bc03f0939fd4bc45b623db
+com.google.cloud	google-cloud-networkconnectivity	1.61.0		632339b7f33fceab1fd47389a3e625009d326672
+com.google.cloud	google-cloud-networkconnectivity	1.62.0		9f8cfe8b0a10a4f5472cb60b1dd77e724e101036
 com.google.cloud	google-cloud-networkconnectivity	1.7.0		4a1ac07b8db13c556a73d3cfa1468bbe67df1bed
 com.google.cloud	google-cloud-networkconnectivity	1.8.0		b6e0fa1edfde93669a6d269878bd671047d8677c
 com.google.cloud	google-cloud-networkconnectivity	1.9.0		a798797203c5d4e1ce683d3d431749b8f6b7f28c
@@ -217,6 +219,9 @@ com.google.maps.api.grpc	grpc-google-maps-places-v1	0.28.0		094974fc5a14063e01bb
 com.google.maps.api.grpc	grpc-google-maps-places-v1	0.29.0		708757e6e382c0632a4e5abc53850080a3b2d7e4
 com.google.maps.api.grpc	grpc-google-maps-places-v1	0.30.0		7c8d7e78f3dad1ba1f84d039d90043fdf2dfef08
 com.google.maps.api.grpc	grpc-google-maps-places-v1	0.31.0		4fc8c880f1dea789f12deea4676158788042dbc6
+com.google.maps.api.grpc	grpc-google-maps-places-v1	0.32.0		c7b1508a3de969a8ccfec7feb8e755f73d19f6dc
+com.google.maps.api.grpc	grpc-google-maps-places-v1	0.33.0		0a2fb1ee7aff780402197e62ded57a32a3d30626
+com.google.maps.api.grpc	grpc-google-maps-places-v1	0.34.0		e029790773bd6f4e4dae7591ae74fda968a14a96
 com.google.maps.api.grpc	grpc-google-maps-places-v1	0.4.0		24753fbb849460bea1bd2deebbefcf5a9164864b
 com.google.maps.api.grpc	grpc-google-maps-places-v1	0.5.0		a7125000495ecb8e089cccddc679e71d29c4f2b6
 com.google.maps.api.grpc	grpc-google-maps-places-v1	0.6.0		56e03e6f1754e009b2f0d513f28dbdea43dce71c
@@ -778,6 +783,7 @@ com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-1		867e9084fa2105a3c
 com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-1-kotlin-2.0.0-RC2		80af078937576a53d2c0bbda51ff6a09e9f80448
 com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-10		2d6019c3db888e84356aca581136b533bc7c86f8
 com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-10-kotlin-2.1.21-RC		eb5db57ece463e9281bd8093747cd884e991e6cd
+com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-10-kotlin-2.1.21-RC2		ed0793fc19dc3206f6223888a2313a034ae6b53a
 com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-10-kotlin-2.2.0-Beta1		911109689ff04e24f4e3ed79489ef2d4dd1f35de
 com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-2		867e9084fa2105a3c64c10d10af73938387ef49e
 com.rickclephas.kmp	kmp-observableviewmodel-core	1.0.0-BETA-2-kotlin-2.0.0-RC3		3ae927d8fb26ab417a31e67221ce7de00ae532ed
@@ -902,6 +908,9 @@ edu.gemini	lucuma-schemas-testkit_3	0.130.0		dbc41dad5c657369e0b27ef3261fdf2996e
 edu.gemini	lucuma-schemas-testkit_3	0.130.1		6ee24abc8e85cf0594447fffa07fd1d0f2dbeb84
 edu.gemini	lucuma-schemas-testkit_3	0.131.0		30f1051bcd8fb693c51e8717352cad9a6d5a5d10
 edu.gemini	lucuma-schemas-testkit_3	0.131.1		c5b4a78f50eb587f55ddb90f1851ef1f85fdbde5
+edu.gemini	lucuma-schemas-testkit_3	0.132.0		58e95cb006a0bbd00ef5e47bf89655a26ec51beb
+edu.gemini	lucuma-schemas-testkit_3	0.133.0		3e54291d809ca39d4eea0c290d6a40edf60ae15e
+edu.gemini	lucuma-schemas-testkit_3	0.134.0		58063f4b20e374757bd5f1caa42a4b879c8c3318
 edu.gemini	lucuma-schemas-testkit_3	0.42.0		c537abd6415bcad43c981ff5b9a9c478c6108548
 edu.gemini	lucuma-schemas-testkit_3	0.42.1		3894cb5518120772f33843b3df95596156715eca
 edu.gemini	lucuma-schemas-testkit_3	0.42.2		7456b0dec25953fff84e16473e71a4f6d5aba2b0
@@ -2243,6 +2252,7 @@ org.scalatest	scalatest-flatspec_2.13	3.3.0-SNAP4		3049477e7264dd84ae2a83e39be22
 org.scalatest	scalatest-flatspec_2.13	3.3.0-alpha.1		e1fa06ac6776eb2adef316c6e9672e6ecfecf6f9
 org.springframework.ai	spring-ai-starter-model-azure-openai	1.0.0-M7		69b866b680dc64deba07734736f2d103ffe8369b
 org.springframework.ai	spring-ai-starter-model-azure-openai	1.0.0-M8		eeaf604e88340e8e855187fe3138e24a1c269e1a
+org.springframework.ai	spring-ai-starter-model-azure-openai	1.0.0-RC1		f7d42933ca6259b8e9c299b6497aff51e3ac7e13
 org.tinygroup	org.tinygroup.monitor	1.1.0		67cce9534b493c05cc61e6761a4fbd04962b3f6f
 org.tinygroup	org.tinygroup.monitor	1.2.0		bcff30bba0daa44871c9e802a976e21d43b1a9b7
 org.tinygroup	org.tinygroup.monitor	1.2.2		5c0520585d4ce7e14bd32f72dac735c72300c7a6

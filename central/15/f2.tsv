@@ -132,6 +132,8 @@ com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.59.0		93fde3f46b42ceb354b
 com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.6.0		613bf2aca9aa435109d237d9f81b8dca18b7e921
 com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.60.0		0f6feebe673c1d6753546138f7e750e038cbc117
 com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.61.0		8a688ed5de6ba58cdf601aac4905e9577e97bbf9
+com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.62.0		1a2da74e0d692231d6a3f33ee04e90308cc7fc13
+com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.63.0		1db56d3150d0b5be7af86484812119358d2f1aa6
 com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.7.0		f99b6ef2b5768ebf26ed1aef884059aacc8c8910
 com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.8.0		e7c7bc38995c4f1a878cbe835ad6449a007706f8
 com.google.api.grpc	proto-google-cloud-batch-v1alpha	0.9.0		b214a9a8a149cc612d1482c959df6f6604693688
@@ -301,6 +303,8 @@ com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.6.0		093d18e8ed519f9e3f
 com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.60.0		04edaf226b6764dba1396321d337d34c35136dfc
 com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.61.0		ad51b01bd68dfba810f08d887991ad6c0f4f7fe9
 com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.62.0		3862840cda32b34aa550b33afe8147a3c2c5c61d
+com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.63.0		ebc32d1994023029f431154fff5c458156bfc797
+com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.64.0		612585050cb01d3c7feeaedc4e186e82bb4aea25
 com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.7.0		4911c3bd9cdbd6720206e52a43dab6347ed30ca2
 com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.8.0		8fbabe2dc0f959d6ac43e5ea40862a85736c137c
 com.google.api.grpc	proto-google-cloud-texttospeech-v1	2.9.0		d11abd6976d66d6edcc1b2b290aac661a57049cf
@@ -442,6 +446,7 @@ com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.3		ef3a17f5719fc7698671a8a9af8381f
 com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.30		d8d7fa6a2711181fe249bf6226e6fbfd7e556092
 com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.31		c7b746cc701d7889c97644a030e2717f94a30f54
 com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.32		63c5713cd76c48a395adf0d712fa2b590ca1f9be
+com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.33		dc40bb274a48a8273a085e30d73f4f46a5b55dc8
 com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.4		9c5fd259e3e60cbc27769c28763650d29c15c01f
 com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.5		562e80acabd5ca31c17a7721f4b5b019408ffc21
 com.netflix.atlas_v1	atlas-json_2.13	1.8.0-rc.6		6156954b398dace627a2db4816a81b5844d7b651
@@ -518,6 +523,7 @@ com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.14
 com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.14.4		6f9cf6972396dd1e9c601ebd5215eac85755671c
 com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.15.0		f1aba89aa32dd2f879bbb33b9320bfe4fbf00918
 com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.15.1		d5d9fb2c4a1b9d12a7108268a163f92ad4d66c29
+com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.15.2		0400787fd067831c0fced10d8026643f0dd5871b
 com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.3.0		15a909c21a87f90ff0ba9ad38a3539b06bb15ae6
 com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.4.0		56820266f49eb9c6b117f898d80da0b36a6ef1c1
 com.solace.connector.core.jsonschema	jsonschema-module-pubsubplus-connector	2.4.1		ec2414d3548d4c34c4fa076fdccb08159966e6c4
@@ -2302,6 +2308,7 @@ io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.28		9d359314c46bd78ec
 io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.29		f92edd0917f45145a456bdbdac42929f9ea5497e
 io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.3		9eb72160c3538c39e18ba563a3e6ab31edc0c117
 io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.30		0ab1f7d99b9d940b3cf674b55b2c11c43156f4ea
+io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.31		6bb763dc6a4d97535a0e4d1a48a58b64efc62456
 io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.4		b15d00ac84bc63e7a4fa63117d88b6b83996c3ea
 io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.5		b82ff0372928babd63db44978c194b254ca68985
 io.liftwizard	liftwizard-config-metrics-reporter-slf4j	2.1.6		8bc7238b7a9048834329332063e8b7f68c41f272
@@ -2993,6 +3000,7 @@ org.scalameta	mtags_2.13.14	1.4.2		6228cbea703366daf278fc442e113eb1c02d31b0
 org.scalameta	mtags_2.13.14	1.5.0		90972b5ec60c6c5fa63aff19c0c4706b16b9701d
 org.scalameta	mtags_2.13.14	1.5.1		f69132776437b7d67e983c58acd8a170513f65bb
 org.scalameta	mtags_2.13.14	1.5.2		8ce41310a68ae7bd951658b87cf08bbcd9228205
+org.scalameta	mtags_2.13.14	1.5.3		09d20b1f2af45e2fa613b39ec8360bc4ac7d38d1
 org.scalariform	scalariform_2.11	0.1.6		8b2e8d646a91ffc6297e001937cb4ac43f295924
 org.scalariform	scalariform_2.11	0.1.7		7e542ae64556a0908fd04c0edceb4fe95cbccea4
 org.scalariform	scalariform_2.11	0.1.8		6b1564f69e3896f475b9465c1c6e3d06cf981fab
@@ -3162,6 +3170,7 @@ si.inova.tws	web-socket	0.3.2		N/A
 si.inova.tws	web-socket	0.3.3		N/A
 si.inova.tws	web-socket	0.4.0		N/A
 software.visionary.graphs	directed-mutable	2025.03.28		N/A
+software.visionary.graphs	directed-mutable	2025.03.28	software.visionary.graphs	4a2e3b83019c52bebb45d678a49415002a251213
 uk.co.developmentanddinosaurs	core	0.0.1		09cc02479216e2acb5fc26381021b156fe26c2df
 uk.gov.ida	verify-gradle	2.0.0-35		1214519400b9a30e2ab8fd7f70a5032fd97f1ddc
 uk.gov.ida	verify-gradle	2.0.0-36		edaf2f9f706ca9d119ca3022b746028a37a55ff8

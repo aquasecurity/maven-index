@@ -736,6 +736,7 @@ io.hackle	hackle-server-sdk	2.26.0		4309813f1141f887c7e8da3d1c91fd3c1b9221e3
 io.hackle	hackle-server-sdk	2.26.1		362d1aec52e55d895689831c93f5c9c092f98e96
 io.hackle	hackle-server-sdk	2.27.0		4734df7fa2680fc005c55a59d1d681df38373d5f
 io.hackle	hackle-server-sdk	2.27.1		06d200c92094674c67b8a42312762c415bf842e6
+io.hackle	hackle-server-sdk	2.28.0		24c9dd96f2684dbe71e22089aa342b24408fd940
 io.hackle	hackle-server-sdk	2.3.0		3a1a86612de9f78c8edf05c8f5f0fe20046bae68
 io.hackle	hackle-server-sdk	2.4.0		5421296290539368234c80aa0f211d158eee172f
 io.hackle	hackle-server-sdk	2.4.1		4d96ef9b599fee6b99546c4c136537c19597b7d7
@@ -752,6 +753,7 @@ io.hackle	hackle-server-sdk	2.9.0		fd3b0eeca5417f852b643cc8a83d3e898bf582ee
 io.hackle	hackle-server-sdk	2.9.1		8c8d828d0a379cc906f3547ef6118c4cd923cf38
 io.kroxylicious	kroxylicious-runtime	0.10.0		17ef35cd6006ac36e6a3f2bc057c728ebad4fac1
 io.kroxylicious	kroxylicious-runtime	0.11.0		61738b3ddf1397885b9c397b2ec5eb674d34e384
+io.kroxylicious	kroxylicious-runtime	0.12.0		13c66ad37c8c1b24d7f0b0aac837f7ba3c4e28f4
 io.kroxylicious	kroxylicious-runtime	0.4.0		db95429a310d5592eb13311fbc9e3f815f64b85e
 io.kroxylicious	kroxylicious-runtime	0.4.1		eb73d24f01573e0c86bdff7a108efe9770158dec
 io.kroxylicious	kroxylicious-runtime	0.5.0		d65534d1a6b17034c0070b97d132f91f9693bac9
@@ -827,6 +829,7 @@ io.micrometer	micrometer-registry-stackdriver	1.13.10		d0f139acaa1c213dc3a88b697
 io.micrometer	micrometer-registry-stackdriver	1.13.11		cc01089e7c9432e01d221bd2cb52ee753cead8ed
 io.micrometer	micrometer-registry-stackdriver	1.13.12		6683fbca9c80a6eb580f866b792c97ba5c917929
 io.micrometer	micrometer-registry-stackdriver	1.13.13		196d7019ddef987af1f74a7f9d449dece5582b79
+io.micrometer	micrometer-registry-stackdriver	1.13.14		b794a353f1d0cbcda13969e947553b92cc8ce425
 io.micrometer	micrometer-registry-stackdriver	1.13.2		73fba11ac6d3c40fe66b4c529981a3ae2f9c9e61
 io.micrometer	micrometer-registry-stackdriver	1.13.3		14b6fe4da900308cacd0931c8209b4b7ea5d01fb
 io.micrometer	micrometer-registry-stackdriver	1.13.4		9dcc0d02c61cac478ab8a1bccd60c0879e4c8bb1
@@ -842,6 +845,8 @@ io.micrometer	micrometer-registry-stackdriver	1.14.3		4df3e5a1de577cd94a7298c039
 io.micrometer	micrometer-registry-stackdriver	1.14.4		332fc2567a940f826422ea06634bef51930421d3
 io.micrometer	micrometer-registry-stackdriver	1.14.5		5952991149397be74271b8600bc14d726b7a237b
 io.micrometer	micrometer-registry-stackdriver	1.14.6		009b2e6c4fa5de782ed7ac736d2150df37402896
+io.micrometer	micrometer-registry-stackdriver	1.14.7		b0eab7b0fed125a2fd9d6557f38f33567427482f
+io.micrometer	micrometer-registry-stackdriver	1.15.0		9e2c5c9b39468d3835e9166648435848ff1debbc
 io.micrometer	micrometer-registry-stackdriver	1.15.0-M2		9d256b1a30e349ec39b0d8652b38bc56ed4b9f95
 io.micrometer	micrometer-registry-stackdriver	1.15.0-M3		7f470787edab08e091365aef7e079523d327765c
 io.micrometer	micrometer-registry-stackdriver	1.15.0-RC1		defc8096e3f5396cfb63dfd2830e1e8950662e82
@@ -1035,6 +1040,7 @@ org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.2.1		d7c8ddfa6bef19274ab5
 org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.2.2		f436c1a32d08530de53e5761fb8280c924f7e574
 org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.2.3		357c975d20ed84d674a1787648d8e37c7c3c309b
 org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.20.0		697207a8a7da13fc1ec94aef42da9693eb2828a8
+org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.20.1		fb2c65b8b95d41820d8f63fd591c02ec54c051d6
 org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.22.0		d3365b6e192e94b5a3b0ff9fa466d91a8c178e1d
 org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.4.0		72024102e10d6ec7d0234f6f742038fae350a177
 org.apache.camel.quarkus	camel-quarkus-jq-deployment	3.5.0		087898f144b15456e8db514c8d289ddf31c5efca
@@ -1194,6 +1200,8 @@ org.graceframework	grace-web-common	2023.2.0-M3		0680625e7345fe327c50c50f9655971
 org.graceframework	grace-web-common	2023.2.0-RC1		ca14d1a7addfb796f974341b485b6d43bfa95ed1
 org.graceframework	grace-web-common	2023.3.0-M1		5c98b443f0d7d2c1fa2d9a6e5b220592db6ea164
 org.graceframework	grace-web-common	2023.3.0-M2		2994965548314f21e367709c7b830df886f990ea
+org.graceframework	grace-web-common	2023.3.0-RC1		f9c0a704f264a72b06bf14da5fb0cd4d00d63557
+org.graceframework	grace-web-common	2023.3.0-RC2		2216cdb4645d7bd65df894e5f64b05030a1a3430
 org.http4k	http4k-client-apache4	3.252.0		8892c0481bc2da52d50537669b75e69834811911
 org.http4k	http4k-client-apache4	3.253.0		4bc4b57d44d6623309788d6ec695df8fde3414f2
 org.http4k	http4k-client-apache4	3.254.0		1452da5332154a8a978740e0c0c5d9f46bfff733
@@ -1571,6 +1579,9 @@ org.http4k	http4k-client-apache4	6.6.0.0		9de4da573e5d6f37a03dcc4e46edd3cdaa2286
 org.http4k	http4k-client-apache4	6.6.0.1		62ff3b43e5058cf99cfad6e58fedfbe0ce56b27d
 org.http4k	http4k-client-apache4	6.6.1.0		aef89042b4696b0e4049ef9ce2a209583177241b
 org.http4k	http4k-client-apache4	6.7.0.0		fc2216e06fcbb99921dd6ce02e3743e2250e8e68
+org.http4k	http4k-client-apache4	6.8.0.0		1aca8e6aeb56320b94bac1c7a150a0f1f61fa428
+org.http4k	http4k-client-apache4	6.8.1.0		bb2f0e9dceccfd6cf183459cd0e301e756ba8036
+org.http4k	http4k-client-apache4	6.9.0.0		cd038db4bd522ebc4ec612a7e899c47f1f1f22d1
 org.http4k	http4k-client-apache4	v6.3.0.0		1779a53cd3188f46cc8b73b1627e3e6502bab5e5
 org.http4k	http4k-client-apache4	v6.4.1.0		f854ac9609cdb2616efebd5ec438f736b4a27b21
 org.ifinal.finalframework	final-context	1.0.0		4801ae72212b23c9ce14bab86b7b11049fa01507

@@ -68,6 +68,7 @@ co.fs2	fs2-core_native0.4_3	3.12.0-RC1		d8801147de48120da80bcdfe4ecf87fb2a9cca92
 co.fs2	fs2-core_native0.4_3	3.12.0-RC2		5af2a2fe6b05d8ee8ee2cb00fb36b4f7ac731a75
 co.fs2	fs2-core_native0.4_3	3.13.0-M1		e44f12c8d106367ed10a470df70c03137a967086
 co.fs2	fs2-core_native0.4_3	3.13.0-M2		927cc96d3cf4cac431a52139c2751778937efede
+co.fs2	fs2-core_native0.4_3	3.13.0-M3		7a8f0a4d9bb78e54b28f9c3cce0d207572f98477
 co.fs2	fs2-core_native0.4_3	3.2.14-75-7902cbf		1ee1116016f3c6e47cda1db2aef3d4776dfc1c4b
 co.fs2	fs2-core_native0.4_3	3.3.0		4df2672873c53de39e5b45be653345932bb8b72d
 co.fs2	fs2-core_native0.4_3	3.4.0		796aca36e86c8212c6fc0e49862d4ad63af3f40d
@@ -459,6 +460,7 @@ com.daml	daml-lf-data_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		078f0dcd2
 com.daml	daml-lf-data_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		078f0dcd221afd9a6d91cbfa35f9f59bca04ede6
 com.daml	daml-lf-data_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		078f0dcd221afd9a6d91cbfa35f9f59bca04ede6
 com.daml	daml-lf-data_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		078f0dcd221afd9a6d91cbfa35f9f59bca04ede6
+com.daml	daml-lf-data_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		078f0dcd221afd9a6d91cbfa35f9f59bca04ede6
 com.daml	daml-lf-data_2.13	2.2.0		08eb91a5f74f00ba97794765a1faf7915e88641f
 com.daml	daml-lf-data_2.13	2.2.0-snapshot.20220412.9721.0.b7c4bdab		874b53418d98fcfc00976ee5959e2631f7ca8398
 com.daml	daml-lf-data_2.13	2.2.0-snapshot.20220413.9724.0.2dc1085b		874b53418d98fcfc00976ee5959e2631f7ca8398
@@ -1498,6 +1500,9 @@ com.daml	daml-lf-data_2.13	3.3.0-snapshot.20250414.13754.0.v6f99815d		59c9d1c226
 com.daml	daml-lf-data_2.13	3.3.0-snapshot.20250415.13756.0.vafc5c867		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
 com.daml	daml-lf-data_2.13	3.3.0-snapshot.20250424.13760.0.v90d51dbb		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
 com.daml	daml-lf-data_2.13	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
+com.daml	daml-lf-data_2.13	3.3.0-snapshot.20250507.13770.0.v8a383258		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
+com.daml	daml-lf-data_2.13	3.3.0-snapshot.20250509.13773.0.v7f71343b		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
+com.daml	daml-lf-data_2.13	3.3.0-snapshot.20250515.13776.0.ved4899eb		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
 com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250415.13757.0.v8ac8af98		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
 com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250415.13760.0.vea143716		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
 com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		59c9d1c226ea88652bfbcac9259a7e846fc9ea66
@@ -1514,6 +1519,16 @@ com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250430.13801.0.v62e9a71a		367f613c6e
 com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250430.13804.0.vecb995a9		367f613c6e254d0bb1d0945e611f6eed8d3805e3
 com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250501.13805.0.v6dcc9347		367f613c6e254d0bb1d0945e611f6eed8d3805e3
 com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250502.13811.0.vc9342f2a		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250505.13814.0.v8f469e2a		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250505.13817.0.vf79dda6c		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250506.13820.0.vb449114c		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250508.13828.0.v6124cac0		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250512.13837.0.v78d1b88c		6acabd087f33fd34c36f54f514e2b44c4e787c43
+com.daml	daml-lf-data_2.13	3.4.0-snapshot.20250513.13844.0.vbc99348c		6acabd087f33fd34c36f54f514e2b44c4e787c43
 com.github.ajalt.clikt	clikt-markdown	5.0.0		bd720e974801ed22e9a5aac2d331cae7a5d869b7
 com.github.ajalt.clikt	clikt-markdown	5.0.1		bd720e974801ed22e9a5aac2d331cae7a5d869b7
 com.github.ajalt.clikt	clikt-markdown	5.0.2		34773f3d6378dc0df630459ef70208e9c9af996a
@@ -2352,6 +2367,7 @@ dev.zio	zio-aws-sagemakerruntime_2.12	7.31.27.1		2e663e25fe478b45a20c405ff94dabc
 dev.zio	zio-aws-sagemakerruntime_2.12	7.31.28.1		89ed16546c09f5b621f5afa9a053f42b5d2b56e8
 dev.zio	zio-aws-sagemakerruntime_2.12	7.31.3.1		ca158ccba9df450525f76e0c21ee84d8a80819c8
 dev.zio	zio-aws-sagemakerruntime_2.12	7.31.30.1		bc245d088f90037dd0e918f0068180d0afde1e9a
+dev.zio	zio-aws-sagemakerruntime_2.12	7.31.30.2		d404ab9e4792e83934199fa2921eac370a604676
 dev.zio	zio-aws-sagemakerruntime_2.12	7.31.4.1		0bbd31ee2596271406b97ae952f0e2f3167f7d7d
 dev.zio	zio-aws-sagemakerruntime_2.12	7.31.6.1		ac1d58df40b8fb6f85032499611ae8cc780cdd81
 dev.zio	zio-aws-sagemakerruntime_2.12	7.31.6.2		16400db06d3944faa3a994e6280475000a995b41

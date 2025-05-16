@@ -671,6 +671,8 @@ io.sealights.on-premise.agents	sl-build-scanner	4.0.2606		f49604e9c113ebf67b4ebe
 io.sealights.on-premise.agents	sl-build-scanner	4.0.2610		65867aaf9368d14a0b435371f22d1dbe948ade20
 io.sealights.on-premise.agents	sl-build-scanner	4.0.2614		e7e2dffe3fa87794d45d09d1628ce433dfd3e1e3
 io.sealights.on-premise.agents	sl-build-scanner	4.0.2617		091717d93dce068824c2dbcf06cb54d850ef632f
+io.sealights.on-premise.agents	sl-build-scanner	4.0.2619		dee8b87a2e3ae0be8554cf77f2bd25cbdb17e4bc
+io.sealights.on-premise.agents	sl-build-scanner	4.0.2620		c9a11e52c3364a56b9d851f4fa7cf6a280c3739d
 io.vlingo.xoom	xoom-turbo	1.10.1		314bc1eececfa8737a61ec2c60ac7900a8c31db6
 io.vlingo.xoom	xoom-turbo	1.11.0		ba21ad4c96e90a5d21ca8ef344fb51b609661ffc
 io.vlingo.xoom	xoom-turbo	1.11.1		eaa384cba378d1f19813ce5b5c762c71e8f1163c
@@ -839,6 +841,7 @@ org.apache.tiles	tiles-velocity	3.0.4		8b1b70466287d1184ee602ce7ead7ec296f8c523
 org.apache.tiles	tiles-velocity	3.0.5		478300a3c6a2a0105223c488d3303dcc57dcaaa1
 org.apache.tiles	tiles-velocity	3.0.7		27b0d4a812a2568179f5a6eaf58383eecb432003
 org.apache.tiles	tiles-velocity	3.0.8		0f596ad41c8bdbf70ea35cba145a810968eeee4f
+org.apereo.cas.support.cas-server-support-infinispan-ticket-registry	5.0.0.RC2	support		db7e4407555d5c4835e5d829a6da52e69198b4aa
 org.cert.netsa	netsa-io-silk_2.13	1.6.0		caa71648ac7cf3625296583b9c091ace78604a56
 org.cert.netsa	netsa-io-silk_2.13	1.7.0		ea6c0e923f6c11d16e0991120c48a8bae3bae1e4
 org.dkpro.core	dkpro-core-io-conll-asl	1.11.0		c3459850f4ee62378cfba463f06235fb843c4a8e
@@ -1116,10 +1119,17 @@ org.finos.legend.engine	legend-engine-service-post-validation-runner	4.8.0		0cdb
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.80.0		c91c82d1d244afe6b0ab67317c8a7cf2cb5bb5c5
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.81.0		e1a8f056ebf5de5d8499f4bdc39363886e6eada3
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.82.0		529326b359b62481b6e8f405a33db1654400e631
+org.finos.legend.engine	legend-engine-service-post-validation-runner	4.82.1		5a296fe954ae9157b83c16390f3d36d2abb22ffa
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.83.0		56ecee2d2f142ea8ec5504358d31dd7b61ed1ca9
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.83.1		1389d7c9cc667961c588837a3a7c302c467fbc6d
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.83.2		86568465f5811545140a16f979ef9f5c1fdad921
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.83.3		6f1f6622a84bfd0722c83c4761c84e7ff088494e
+org.finos.legend.engine	legend-engine-service-post-validation-runner	4.84.0		25c15e74f9aae2702b9bce75256d93fe04c663e4
+org.finos.legend.engine	legend-engine-service-post-validation-runner	4.84.1		a6ef4721eecde68e16e9dd19da8f5b13dbf0ae4b
+org.finos.legend.engine	legend-engine-service-post-validation-runner	4.85.0		81edb81efa0496039792ef86a9a95b537a64d8c1
+org.finos.legend.engine	legend-engine-service-post-validation-runner	4.85.1		0e26ab31e2dc79d601dbffe12f1fe62d45cab85b
+org.finos.legend.engine	legend-engine-service-post-validation-runner	4.85.2		a9b246c2d6dd0cf4a9c6d34405476d3c92bc5a98
+org.finos.legend.engine	legend-engine-service-post-validation-runner	4.85.3		54d62d002f89d893323bc4fea64a1f7c9f93c3f9
 org.finos.legend.engine	legend-engine-service-post-validation-runner	4.9.0		1df25470c9e5cb6a48e056ab92dde330a87cba0c
 org.finos.legend.shared	legend-shared-pac4j-ping	0.17.0		c5d95b4cb1ddd975bbab00417d824a1a30286902
 org.finos.legend.shared	legend-shared-pac4j-ping	0.18.0		4a66fbb70b2b331d930ca5a8c15425e6b2d50635
@@ -1150,6 +1160,7 @@ org.finos.legend.shared	legend-shared-pac4j-ping	0.25.5		e88959c3c524b1d5bf92cc6
 org.finos.legend.shared	legend-shared-pac4j-ping	0.25.6		e77274a72f3953e27e4704a8c7d9c920a1e85884
 org.finos.legend.shared	legend-shared-pac4j-ping	0.25.7		d607f657cfef616d4c20a71ac0121cc541bff84c
 org.finos.legend.shared	legend-shared-pac4j-ping	0.25.7.1		cd13e52047ff8901c43e0b0c10b4181d84f081e0
+org.finos.legend.shared	legend-shared-pac4j-ping	0.26.0		eebeca1c0da13395f9378049788e92250b87a125
 org.kodein.db	kodein-leveldb-iosarm32	0.2.0-beta		N/A
 org.kodein.db	kodein-leveldb-iosarm32	0.3.0-beta		N/A
 org.kodein.db	kodein-leveldb-iosarm32	0.4.0-beta		N/A
@@ -1566,6 +1577,7 @@ org.wildfly	wildfly-jsr77	35.0.0.Final		2e6f2badda61823fe1c03e3d14bed36760823dec
 org.wildfly	wildfly-jsr77	35.0.1.Final		c82236336bc4f5d86327d026d3582c3fc6abad90
 org.wildfly	wildfly-jsr77	36.0.0.Beta1		fdf19db7ad9d0726dd80b263936502bf2fe12d93
 org.wildfly	wildfly-jsr77	36.0.0.Final		a93823f446f719d1af3e2ff251c5bfb06fa2cd62
+org.wildfly	wildfly-jsr77	36.0.1.Final		d32e293a6691bdeb90592ed4399c59f469770947
 org.wildfly	wildfly-jsr77	8.0.0.Alpha1		89423df6f520b62a141249284dc692e32fb3c31b
 org.wildfly	wildfly-jsr77	8.0.0.Alpha2		51dc6613dfb50a92f453d48867b58ea383a48ac9
 org.wildfly	wildfly-jsr77	8.0.0.Alpha3		ac9201ff08e02ba9a2e421603d18b2bf3acdadd5

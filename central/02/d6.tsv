@@ -1009,6 +1009,7 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.4.25		fe764442a8e2f715ca083788a124510a73a9673b
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.4.26		2753f47915386e86cb83c277e675072e5bd53e77
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.4.27		11832f462f8c2f68d3eb4ae2ad90575e45422d32
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.4.28		ea57d1d66283a70f8f82f57b33c7650dcea34960
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.4.3		28b4f78970b3248ba601a798faa30fc7c5691d19
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.4.4		64c2be5e809cd65f7fa5bf93125b048d244d52fc
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.4.5		7b61594f89b0443db0182c4b5e0a35d124d3c5ae
@@ -1026,6 +1027,7 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.5.14		6355a0b988e581c3f19489c4b65389563f1a514f
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.5.15		93b597b2cc518bdae7f99e8acaadcde7881fb4ff
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.5.16		239dd97533c02f378c4082ff81676f5493b86131
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.5.17		aaec53f8c2bd0491b1f0fe7c91a54afb9888497d
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.5.2		4856ba5da341559fe3a32860c26a2d5beac9e036
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.5.3		03ca18a6356c27e45c002de14b1e12762cb82c12
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.5.4		452caeb2d4a1b17afc71b5dc32881be6c37cd2e1
@@ -1038,6 +1040,7 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.6.0-alpha.3		7d4db2e6222a5d8f1f4a6b3d15099680fce6c101
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.6.1		325c5d384d63ff1845cc484e68c638dcda7b5d6d
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.6.10		7dd4cddf7a20e60fe0f3a42b0d24563535fde00c
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.6.11		77c9af95598813b433a170b87adefe0882ee0f87
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.6.2		947a6a01a200c2e21673624fb4652d67832d2ac1
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.6.3		ee775a916f0ab93a0ce0f10422bc33af86f442b9
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.6.4		3c18f29a5b0df083e1af8c47eae28c7bff875bd2
@@ -1054,6 +1057,7 @@ io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.7.2		1cd7f1a58f98e1abca752fe706a0c1912848e555
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.7.3		b6054b478bd5295d17a5e47d60dbef14c0a28bb6
 io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.7.4		595b4ac5cee618e4cfefa5de3ad847bd61f4f694
+io.gravitee.apim.rest.api.standalone	gravitee-apim-rest-api-standalone-bootstrap	4.7.5		e6e09f180a29649f597961d7defbe8fceec33cef
 io.higherkindness	mu-rpc-netty-ssl_2.11	0.16.0		b10dab3fdd83958279d952a9a17d1d8ea139466a
 io.higherkindness	mu-rpc-netty-ssl_2.11	0.17.0		51aa487865479ad8df2f0c77f3ee2aa9ff9889a4
 io.higherkindness	mu-rpc-netty-ssl_2.11	0.17.1		908f9be6d47508964411d8ad17101622c5d1287e
@@ -2570,6 +2574,7 @@ org.wildfly	wildfly-jaxrs	35.0.0.Final		d195f99565cf659c8e92cfcad1c5239922685a07
 org.wildfly	wildfly-jaxrs	35.0.1.Final		17026dd619bbff1131cd321ddf6f283c9c29b46b
 org.wildfly	wildfly-jaxrs	36.0.0.Beta1		f6a7a6362e22b3d7efdf587d631ffb2cd02d2b20
 org.wildfly	wildfly-jaxrs	36.0.0.Final		9f3063b86f5caa75214b500980b0823257261cd9
+org.wildfly	wildfly-jaxrs	36.0.1.Final		87c1f9ab9fef9dd8afefe9d80e02df99a5474d21
 org.wildfly	wildfly-jaxrs	8.0.0.Alpha1		b31899e1fe16fb007af63da98d65fc5488b0ca1e
 org.wildfly	wildfly-jaxrs	8.0.0.Alpha2		d9f375bb95f54d08aaf0a2ea82fa57b74722eddd
 org.wildfly	wildfly-jaxrs	8.0.0.Alpha3		1f6a729f7b332b056d3afae5c5f4cf857247ba51
@@ -3260,8 +3265,30 @@ software.amazon.awssdk	third-party-slf4j-api	2.31.32		85f53be133f6b29652572f829f
 software.amazon.awssdk	third-party-slf4j-api	2.31.32	optional	85f53be133f6b29652572f829f058c052c74187f
 software.amazon.awssdk	third-party-slf4j-api	2.31.33		434438b83d3c56f779a66ad0b256a7e99492466f
 software.amazon.awssdk	third-party-slf4j-api	2.31.33	optional	434438b83d3c56f779a66ad0b256a7e99492466f
+software.amazon.awssdk	third-party-slf4j-api	2.31.34		8ec3c4f0ff35435ca18e28c0bc8d68867f0c5017
+software.amazon.awssdk	third-party-slf4j-api	2.31.34	optional	8ec3c4f0ff35435ca18e28c0bc8d68867f0c5017
+software.amazon.awssdk	third-party-slf4j-api	2.31.35		f3c735259a0e6cad04bab1a513b671e3084bc4f3
+software.amazon.awssdk	third-party-slf4j-api	2.31.35	optional	f3c735259a0e6cad04bab1a513b671e3084bc4f3
+software.amazon.awssdk	third-party-slf4j-api	2.31.36		22a319851201713d384835f3293aba65cb34ce0f
+software.amazon.awssdk	third-party-slf4j-api	2.31.36	optional	22a319851201713d384835f3293aba65cb34ce0f
+software.amazon.awssdk	third-party-slf4j-api	2.31.37		09b84e21fcb2de6fe7c67bf7c7b119f7bd3bf601
+software.amazon.awssdk	third-party-slf4j-api	2.31.37	optional	09b84e21fcb2de6fe7c67bf7c7b119f7bd3bf601
+software.amazon.awssdk	third-party-slf4j-api	2.31.38		9bcbb2197b8aba4b8608afc7755ab2dcd7a55d42
+software.amazon.awssdk	third-party-slf4j-api	2.31.38	optional	9bcbb2197b8aba4b8608afc7755ab2dcd7a55d42
+software.amazon.awssdk	third-party-slf4j-api	2.31.39		0cb42e3f3b458c94fd5ac9802491ce84b4bdfeb1
+software.amazon.awssdk	third-party-slf4j-api	2.31.39	optional	0cb42e3f3b458c94fd5ac9802491ce84b4bdfeb1
 software.amazon.awssdk	third-party-slf4j-api	2.31.4		8101881808ddfae4c79bb45a8da4f4bb1bac7e86
 software.amazon.awssdk	third-party-slf4j-api	2.31.4	optional	8101881808ddfae4c79bb45a8da4f4bb1bac7e86
+software.amazon.awssdk	third-party-slf4j-api	2.31.40		ac6f3ff58233d96e064ab4f93407890b9603239e
+software.amazon.awssdk	third-party-slf4j-api	2.31.40	optional	ac6f3ff58233d96e064ab4f93407890b9603239e
+software.amazon.awssdk	third-party-slf4j-api	2.31.41		151facedb6ff018d29d7364f6c9ba92215cf54e0
+software.amazon.awssdk	third-party-slf4j-api	2.31.41	optional	151facedb6ff018d29d7364f6c9ba92215cf54e0
+software.amazon.awssdk	third-party-slf4j-api	2.31.42		476f9e24eb9d868d31109be97cd17f9880981d73
+software.amazon.awssdk	third-party-slf4j-api	2.31.42	optional	476f9e24eb9d868d31109be97cd17f9880981d73
+software.amazon.awssdk	third-party-slf4j-api	2.31.43		5cd5463ce2340b30f4bf92069c4f2ba40bbba1d5
+software.amazon.awssdk	third-party-slf4j-api	2.31.43	optional	5cd5463ce2340b30f4bf92069c4f2ba40bbba1d5
+software.amazon.awssdk	third-party-slf4j-api	2.31.44		4dc6a47445f62a39f28ab03e54647e01842159ad
+software.amazon.awssdk	third-party-slf4j-api	2.31.44	optional	4dc6a47445f62a39f28ab03e54647e01842159ad
 software.amazon.awssdk	third-party-slf4j-api	2.31.5		eb68f06a0030e7bf73414c935098d3b395b14f87
 software.amazon.awssdk	third-party-slf4j-api	2.31.5	optional	eb68f06a0030e7bf73414c935098d3b395b14f87
 software.amazon.awssdk	third-party-slf4j-api	2.31.6		1913aed0711a3bd85493e07a8b445698df998b0e

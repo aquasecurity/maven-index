@@ -344,6 +344,7 @@ com.couchbase.client	metrics-opentelemetry	0.7.7		429e135259651dc0fc589f318b3cc6
 com.couchbase.client	metrics-opentelemetry	0.7.8		ebd3523a72ee4c33cc81a29f9c6595ebd9f6176f
 com.couchbase.client	metrics-opentelemetry	0.7.9		05400125f0db1bfd3e8162667aab69cec1da735e
 com.couchbase.client	metrics-opentelemetry	0.8.0		7bddd55265c2f21371746c8f3c6209ba8fcaff39
+com.couchbase.client	metrics-opentelemetry	0.8.1		cda14650965b3dc4a89f5b9fb79db7b0cdeaa931
 com.danhaywood.isis.wicket	danhaywood-isis-wicket-fullcalendar2-ui	1.3.0		b9793d648e308f031ebcaedd163e6944a667f57d
 com.danhaywood.isis.wicket	danhaywood-isis-wicket-fullcalendar2-ui	1.4.0		10a62ebfb312568ff4d1d7c04508d3941104f27f
 com.databricks	dbutils-api_2.11	0.0.1		4cacbba7c23fb0e158a39cc94f2801fc1dd388d6
@@ -396,6 +397,7 @@ com.itv	bucky_2.12	0.1		ded82b1e0ba874273d5a05bb8262d6add7f6147d
 com.itv	bucky_2.12	0.2		d49df3980d944c75b5afabad1d6834ff14e98ef1
 com.itv	bucky_2.12	0.3		33acb686288f9acae53121dec21cd04b46828364
 com.itv	bucky_2.12	0.7		32a5609e51aed9aeaf97e70a751be415a79760f5
+com.mantledillusion.metrics	trail-metrics-adaptor-jaxb2	2.3.0		30b33f8d8e4b0d9ccb603d4ed4bb42e212575a98
 com.powsybl	powsybl-diagram-util	3.0.0		6244f7b49240338cd30df0bfadb80c37850635c5
 com.powsybl	powsybl-diagram-util	3.1.0		5d79cfaa9d0037e2f326468cc04582f0a30eac73
 com.powsybl	powsybl-diagram-util	3.2.0		eef158285445bd23bec1c18ec68d113f2b3e3cf0
@@ -1018,6 +1020,7 @@ dev.zio	zio-aws-appconfig_2.13	7.31.27.1		d1b9105fc3ba427afa3f12efe858b14c336009
 dev.zio	zio-aws-appconfig_2.13	7.31.28.1		c541e0e7b3a78dee29d7962184688af9d18c4e75
 dev.zio	zio-aws-appconfig_2.13	7.31.3.1		e0847cfcc7a9892c785d1ebc6fed24221f902b90
 dev.zio	zio-aws-appconfig_2.13	7.31.30.1		8883ad71074cb9a79d85829fcfb51ebb0755aeec
+dev.zio	zio-aws-appconfig_2.13	7.31.30.2		e073ebacbf4af3c254041aba82b3ef64efa4f4f4
 dev.zio	zio-aws-appconfig_2.13	7.31.4.1		9948e326f195cfe28b0d41a3359c93f2790656f6
 dev.zio	zio-aws-appconfig_2.13	7.31.6.1		0450e7d812e04b621b9c6ad9104f46379724b269
 dev.zio	zio-aws-appconfig_2.13	7.31.6.2		80739284834a48248e74971c9c4e68d3f5c6f848
@@ -1038,6 +1041,7 @@ eu.maveniverse.maven.nisse.sources	jgit-source	0.4.0		53dbcc345c014b057e0ac013e4
 eu.maveniverse.maven.nisse.sources	jgit-source	0.4.1		7e91926db5b5f8439da6ab0d480b4c44655c94d7
 eu.maveniverse.maven.nisse.sources	jgit-source	0.4.2		7ebf7a954e6496370614605e391ea3795eaf11cd
 eu.maveniverse.maven.nisse.sources	jgit-source	0.4.3		a4f386fd4e12dd62d36391b8a9b7db5199155437
+eu.maveniverse.maven.nisse.sources	jgit-source	0.4.4		5e38fdeb5298f6bb9c55fcebff517a8c7437ce3d
 eu.stamp-project	dspot-prettifier	2.0.0		5f79c47c925e59f17a92a32696133459876931c5
 eu.stamp-project	dspot-prettifier	2.1.0		bf4eeffa19445dc8248a6942b29ffb1d9e79c5a1
 eu.stamp-project	dspot-prettifier	2.1.0	jar-with-dependencies	d93c46a6dcad18a19e6c8d6fa98b7a5a02b00abe
@@ -1598,6 +1602,7 @@ net.dv8tion	JDA	5.3.1		19bb3ee2b67fa997b17238afceaaecb057e3524e
 net.dv8tion	JDA	5.3.2		98bbdd7e5089f6b1a0b0694c887bb46c7f872452
 net.dv8tion	JDA	5.4.0		23ba4071bba51cdf9022c40190cbef540fab681d
 net.dv8tion	JDA	5.5.0		43c96f361014852160c6aeb1b07e618dac9018e8
+net.dv8tion	JDA	5.5.1		dd5eb7714ab17ee49ba96126da9edd2e7046039f
 net.goui.flogger.next	logger	1.0.0		e03f28feb6f891a44966af9921effbb305ee8f61
 net.goui.flogger.next	logger	1.0.1		c44ef3cf724e98121149a2461c218a71fbfc08a4
 net.goui.flogger.next	logger	1.0.2		8d53c8f306906f62f7d726c908a1bc873bc7c2e6
@@ -1698,6 +1703,9 @@ org.daisy.pipeline.modules	daisy202-to-mp3	1.1.5	xprocdoc	5bf9f838f7a084da7396fd
 org.daisy.pipeline.modules	daisy202-to-mp3	1.1.6		9a7bba3de124839ff0b2732eed4d0476defe599d
 org.daisy.pipeline.modules	daisy202-to-mp3	1.1.6	doc	a731a63d41379b53a6dd7ef11884bbfe8af8ad89
 org.daisy.pipeline.modules	daisy202-to-mp3	1.1.6	xprocdoc	ba5238cf0d3e7d92ba901da3b88eebb085578778
+org.daisy.pipeline.modules	daisy202-to-mp3	1.1.7		8b86a466452fe2bc2acadb3e6962fb09bc572473
+org.daisy.pipeline.modules	daisy202-to-mp3	1.1.7	doc	73aea898bb34376a0abb90e8bcdf2c06851502d3
+org.daisy.pipeline.modules	daisy202-to-mp3	1.1.7	xprocdoc	4ce5efe0a7f74b70183a198da8c583d28dd93db6
 org.dromara.dynamictp	dynamic-tp-example-adapter-okhttp3	1.0.8-beta		2078165b6aa8f57a0cbc3cf5a2eda1860f671053
 org.dromara.dynamictp	dynamic-tp-example-adapter-okhttp3	1.0.9-beta		a7a204c5292a82c09ad02b2bfecbfad4fbb37291
 org.dromara.dynamictp	dynamic-tp-example-adapter-okhttp3	1.1.0-beta		6b027207ada1200cc69748494444d8cf37263834

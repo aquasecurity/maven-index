@@ -220,6 +220,7 @@ com.exasol	project-keeper-maven-plugin	4.4.0		9ca0edea8b80b327005981921567561386
 com.exasol	project-keeper-maven-plugin	4.5.0		c031026c9a7e127f6e8f891c0bb39aa0823145fe
 com.exasol	project-keeper-maven-plugin	5.0.0		70a9c042998a168709fe825eadecbbb6ddd58ecf
 com.exasol	project-keeper-maven-plugin	5.0.1		686337076165d8450ab89b75d11dc79c116f7951
+com.exasol	project-keeper-maven-plugin	5.1.0		72947ddcd114e472a38935eaae9948f10b9b81d7
 com.feingto	feingto-admin	2.3.3.RELEASE		7c8a6043e150a753766482ca389a74a7c0f2777d
 com.github.charlemaznable	char-httpclient	0.0.6		ecd1564c563bc71f1881de97e51c20edfed6bdd4
 com.github.charlemaznable	char-httpclient	0.0.7		cd7cf09034d18040112f67daa5e49d0b5aa5730a
@@ -330,6 +331,7 @@ com.octo.android.robospice	robospice-ui-spicelist	1.4.6		11167b5d18bb146587992c7
 com.octo.android.robospice	robospice-ui-spicelist	1.4.7		d5d294bd7e736a018007e3a8eee9676d8e8ed862
 com.octo.android.robospice	robospice-ui-spicelist	1.4.8		f0791251b26288ccb311da0fa6d435c7456a3d58
 com.octo.android.robospice	robospice-ui-spicelist	1.4.9		4c430075a0aabb642a94928e5081b79f440a969b
+com.rudderstack.sdk.kotlin	core	1.0.0		bbc5f8230aaf5a04bb7c190586a3f43c0a6ae9c5
 com.rudderstack.sdk.kotlin	core	1.0.0-alpha.1		b206a2b882ab9376ddd65e1eca2f93f16f9bf8c0
 com.shakelang.util	common-io-jvm	0.4.0		a4f3b67806871b4cf2b6ab9ca3497fc3f5313e6c
 com.shakelang.util	common-io-jvm	0.4.0	html-docs	bef66cfb00f67d2439e564426db037aab136ff2a
@@ -792,6 +794,7 @@ jaxme	jaxme-api	0.2		5f8b7d1e2efd38ee6a0ab9bebe85b06d75d13d11
 jaxme	jaxme-api	0.3		b7dc95e773a1aef0d84c8aaf656ddc9739f458b5
 jaxme	jaxme-api	0.3.1		fe572e623b49bb9767047e9376de21ce45721f0f
 net.andimiller	hedgehogs-dag-visitor_sjs1_2.13	0.4.2		e538af0ae60366af2669637bf9c8f34c326f9012
+net.andimiller	hedgehogs-dag-visitor_sjs1_2.13	0.4.3		6d0e1a6126420ec8c4bea9ece7772eaf0a4ce8d7
 net.exoego	aws-sdk-scalajs-facade-snowball-nodejs-v8_sjs0.6_2.13	0.26.1-v2-524.0		8cfd7ac3f2b9338a2ebc89577ab8ae841d9500e0
 net.exoego	aws-sdk-scalajs-facade-snowball-nodejs-v8_sjs0.6_2.13	0.26.1-v2.524.0		49bd9bb543d7f976786c0093282fdc5f3c56068b
 nl.cloudfarming.client	sensor-cropcircle	1.0.1		cd25dc65887bc479c44c10ca6801dd7b013697a1
@@ -951,6 +954,7 @@ org.apache.camel	camel-platform-http	4.8.3		6932c9132124f3256669a2bff89ac5d8896f
 org.apache.camel	camel-platform-http	4.8.4		b40e5d02b8e04404d7ba01be63b6e96f7326ad66
 org.apache.camel	camel-platform-http	4.8.5		d0afa3965141b72ee472dc8cdcaece387a75d778
 org.apache.camel	camel-platform-http	4.8.6		4e9613d2029750ee79d97ae92c2f4368a64c1a24
+org.apache.camel	camel-platform-http	4.8.7		989934dfe0efd504b47b2a795bd94fb2ab95bc1f
 org.apache.camel	camel-platform-http	4.9.0		f535b2968c19f90d838b184c5eb93215f43226a2
 org.apache.camel	camel-reactive-executor-tomcat	3.17.0		13d85e2b2e038a17f96372c173a8f8529c4a4586
 org.apache.camel	camel-reactive-executor-tomcat	3.18.0		97efc0f9948f4ab6874c5dccb4037d0a99acdb47
@@ -1021,6 +1025,7 @@ org.apache.camel	camel-reactive-executor-tomcat	4.8.3		230fe75a0a4f4fd04a99d15e5
 org.apache.camel	camel-reactive-executor-tomcat	4.8.4		30414a428a5a1d42e3f496d4714e8c8e109f0a8e
 org.apache.camel	camel-reactive-executor-tomcat	4.8.5		f9116d54e6b6614bf16669d43c7d0175becbfda1
 org.apache.camel	camel-reactive-executor-tomcat	4.8.6		bc800a99531da8ed41daeec540d660eb71aa9843
+org.apache.camel	camel-reactive-executor-tomcat	4.8.7		d9b3dc72235459536e26fb1b4a4a317276221795
 org.apache.camel	camel-reactive-executor-tomcat	4.9.0		ded1ba92031872ee7bfaf62121ac35a1a3bec031
 org.apache.geronimo.specs	geronimo-jpa_2.0_spec	1.0		5db1ae9b2de405fd9dcfa0af373cbe0183f65d58
 org.apache.geronimo.specs	geronimo-jpa_2.0_spec	1.0-PFD2		9f3aa3e8c35e833e40a19dc11d4151d5fc4a4f92
@@ -1803,6 +1808,13 @@ org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.4.8-2.11.8		a98214dc7a33
 org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.4.9-2.11.8		a98214dc7a33312e43b054394e27748233f9ce78
 org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.0-2.11.8		a98214dc7a33312e43b054394e27748233f9ce78
 org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.1-2.11.8		5002ceb2c2ada6dddfa0f1f1430228ad54e517a4
+org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.2-2.11.8		5002ceb2c2ada6dddfa0f1f1430228ad54e517a4
+org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.3-2.11.8		5002ceb2c2ada6dddfa0f1f1430228ad54e517a4
+org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.4-2.11.8		5002ceb2c2ada6dddfa0f1f1430228ad54e517a4
+org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.5-2.11.8		5002ceb2c2ada6dddfa0f1f1430228ad54e517a4
+org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.6-2.11.8		5002ceb2c2ada6dddfa0f1f1430228ad54e517a4
+org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.7-2.11.8		b4fd227c8b30db1fa94f65aace0ae08d5c0175af
+org.jetbrains.kotlin-wrappers	kotlin-popperjs-core	2025.5.8-2.11.8		b4fd227c8b30db1fa94f65aace0ae08d5c0175af
 org.kie.kogito	kogito-addons-quarkus-kubernetes	1.14.0.Final		8db2bdb739887b54399e49bfefee7a0e910e49c2
 org.kie.kogito	kogito-addons-quarkus-kubernetes	1.14.1.Final		b7350877c7ceb133ebead0a1e0790e055418be9e
 org.kie.kogito	kogito-addons-quarkus-kubernetes	1.15.0.Final		c97afff363152e495847464a6dcfe36086743fd6

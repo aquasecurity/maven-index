@@ -428,6 +428,7 @@ com.vaadin	flow-polymer-template	23.5.1		db64448447fdbe0aec3774a72c6deb1bc664348
 com.vaadin	flow-polymer-template	23.5.10		37e7d4da851f1e61e312cad75141e22da4952384
 com.vaadin	flow-polymer-template	23.5.11		1961502ffe255f586429b88b7b3498006bc27cc2
 com.vaadin	flow-polymer-template	23.5.12		3730c07b0dece12a49005d4795093cbfb49ce2d2
+com.vaadin	flow-polymer-template	23.5.13		ed35b74efa549c262b03d6e05fdec4d754e83ecb
 com.vaadin	flow-polymer-template	23.5.2		11c4eba1d227c55143c6ae027bc71338a37a87ce
 com.vaadin	flow-polymer-template	23.5.3		d19aba75fe6b87f16f4ce963888f57e9003f5d2d
 com.vaadin	flow-polymer-template	23.5.4		fcd1fafbac02341a450e2316a5264c4a87d840d9
@@ -548,6 +549,7 @@ com.vaadin	flow-polymer-template	24.6.0		c936224f0c85a2ec4b7df3f2f6ab40a40cd59dc
 com.vaadin	flow-polymer-template	24.6.1		b06c1d97c091d0d3411485637b85a5ff5dcfe95b
 com.vaadin	flow-polymer-template	24.6.10		dad34bc093aa202fd21817708a43ea7a87ccb140
 com.vaadin	flow-polymer-template	24.6.11		6154d5ac6490b6314b3c82d7d5ad2a4c9aa7c0f1
+com.vaadin	flow-polymer-template	24.6.12		d50dbd803f977fa3c3827c44adc55b31fdbc78cc
 com.vaadin	flow-polymer-template	24.6.2		691d4ddabdf5f75ea187efa865581fb7a1f2fcf4
 com.vaadin	flow-polymer-template	24.6.3		fa0568692cc997898166b3d4dc48f686fbd84832
 com.vaadin	flow-polymer-template	24.6.4		bae2b5be8986bda058764d77a7c19d198b254f6f
@@ -562,6 +564,7 @@ com.vaadin	flow-polymer-template	24.7.2		8f510002d63eae1f2c1cbbadeacb21e660e1f15
 com.vaadin	flow-polymer-template	24.7.3		2bc678cbb3abb877e9f1d35bee64a36d8240dbc3
 com.vaadin	flow-polymer-template	24.7.4		5e7e32e8bcebfba919457bb0e1068ce13e43700f
 com.vaadin	flow-polymer-template	24.7.5		8816b5927dd3631165e6bd644074ed8597597d23
+com.vaadin	flow-polymer-template	24.7.6		92c5270112dc163c38d1b109c556de548faa43c1
 com.vaadin	flow-polymer-template	5.0.0		d5394fda76807af5c363e1aa5be81c8e8849a8ae
 com.vaadin	flow-polymer-template	5.0.1		f27198862d9a90b4a3668a03386841edc182b5f5
 com.vaadin	flow-polymer-template	5.0.2		057670b8c657a013b0e5a99b393761f36f1e0e63
@@ -849,6 +852,8 @@ io.ktor	ktor-http-tvosarm64	3.1.1		47e4f73f1bfdfcef63086186825edce15f2e1025
 io.ktor	ktor-http-tvosarm64	3.1.1	metadata	c6dce091c158a9b8e918e8b8864db720fa562292
 io.ktor	ktor-http-tvosarm64	3.1.2		6add0f5718726b03166a72e98c12ca88388efbf2
 io.ktor	ktor-http-tvosarm64	3.1.2	metadata	e80c1ad15eabf67b306f0cb78a3f8a8e5fd4d061
+io.ktor	ktor-http-tvosarm64	3.1.3		225a9f775c8fcad6c904da945e4d3fe979fde47d
+io.ktor	ktor-http-tvosarm64	3.1.3	metadata	1349fcc1e03688b8a5962afb8f5b6b894587044d
 io.openliberty.features	com.ibm.websphere.appserver.optional.jaxb-2.2	18.0.0.4		N/A
 io.openliberty.features	com.ibm.websphere.appserver.optional.jaxb-2.2	19.0.0.1		N/A
 io.openliberty.features	com.ibm.websphere.appserver.optional.jaxb-2.2	19.0.0.10		N/A
@@ -1033,6 +1038,8 @@ org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.17		b6aab38d7c3c78d4de750428e798
 org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.18		72c8f21fdfd69e3f97e12ed160d8914595084095
 org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.19		628b7c7d00e04ada727729fa3f6b39ed4a4172cc
 org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.2		371c0d8faa0bc7fa96ac79adbe782eb084fc2230
+org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.20		efaef953e21423113048c6b77d808d15e9094a05
+org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.21		ee7ca51f086fa863451b3d5cdb8597d339dc85bb
 org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.3		e5d480d639948f819d3b6acfd97fe737d9baa544
 org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.4		f1df1b00c7a22f235738f3b56aaf2792c982ef8c
 org.eclipse.jetty.ee8	jetty-ee8-quickstart	12.0.5		21695a8021b049bde34e39203888d7f970a2ff06
@@ -1108,6 +1115,7 @@ org.semver	parent	0.9.7		N/A
 org.semver	parent	0.9.8		N/A
 org.springframework.ai	spring-ai-starter-model-bedrock-converse	1.0.0-M7		19b609b8ae20d3c12292c18ed495390d98b227af
 org.springframework.ai	spring-ai-starter-model-bedrock-converse	1.0.0-M8		b912fa2256393db722791e0958eca70b6f3d6cda
+org.springframework.ai	spring-ai-starter-model-bedrock-converse	1.0.0-RC1		0225457a5afd7600858e9d6e76bdb7694761f541
 org.whistlepost	whistlepost-console	0.1.0		98501152d8f28c849d4cbbf473e1d38366432bb5
 org.wso2.analytics.solutions	org.wso2.analytics.solutions.sp.twitter.analytics.widgets.tweetcounter	1.0.0		N/A
 org.wso2.analytics.solutions	org.wso2.analytics.solutions.sp.twitter.analytics.widgets.tweetcounter	1.0.1		N/A
@@ -1208,6 +1216,9 @@ tz.co.asoft	captain-router-compose-core-watchossimulatorarm64	3.0.8		N/A
 tz.co.asoft	captain-router-compose-core-watchossimulatorarm64	3.0.8	metadata	34805a2b7e7759f842fb6f3a44a4cadd526e77be
 tz.co.asoft	captain-router-compose-core-watchossimulatorarm64	3.0.9		N/A
 tz.co.asoft	captain-router-compose-core-watchossimulatorarm64	3.0.9	metadata	0dfadc42226a183802569e9afcfbdf81c7064051
+tz.co.asoft	captain-router-compose-core-watchossimulatorarm64	3.1.1	metadata	2c384ac4a192bef68184db0f1989c49705b2575a
+tz.co.asoft	captain-router-compose-core-watchossimulatorarm64	3.1.11	metadata	b1b5980687a36f81e841fadb3d3f057b48658000
+tz.co.asoft	captain-router-compose-core-watchossimulatorarm64	3.1.12	metadata	6fde4740bdac4ba08a729dd59bfa87c63be33e54
 tz.co.asoft	koncurrent-awaited-coroutines-js	3.0.1		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-js	3.0.11		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-js	3.0.12		N/A

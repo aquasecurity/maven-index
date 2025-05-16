@@ -626,6 +626,7 @@ com.lightbend.lagom	lagom-cassandra-server_2.11	1.5.1		9981a2d731da9e364b2858bd8
 com.lightbend.lagom	lagom-cassandra-server_2.11	1.5.3		c038345ea8db661d18a968558350a53cb7176125
 com.lightbend.lagom	lagom-cassandra-server_2.11	1.5.4		095f3f3f731e6d10211f1734af2d948676816fcd
 com.lightbend.lagom	lagom-cassandra-server_2.11	1.5.5		cdac8df431b64115967e6dd8f5c324bdea61003c
+com.lihaoyi	os-lib_2.12	0.0.0-1-5443f8		7f08b89e26a468fb1dc425d1cfa54d8cfc68ce17
 com.lihaoyi	os-lib_2.12	0.0.0-1-c9bcc9		e7c84b800e7955e85f3623fad74131f0f8277386
 com.lihaoyi	os-lib_2.12	0.1.0		ccc91ee2dea2793273f03373b73bc409a4f8a05f
 com.lihaoyi	os-lib_2.12	0.1.1		4cad418a48b8eb2184f7578d49286529e2fdb1e7
@@ -665,6 +666,8 @@ com.lihaoyi	os-lib_2.12	0.11.5-M2		a7abe18148f1afe661fcbd08b950d3e7b72aa183
 com.lihaoyi	os-lib_2.12	0.11.5-M3		7db8da78c1bb4850bcc9a34edef39c802ed7f558
 com.lihaoyi	os-lib_2.12	0.11.5-M5		9eca08e31b0354c7b05bb6568956a8b8d57cd58c
 com.lihaoyi	os-lib_2.12	0.11.5-M6		e839aed38c43ff33bdf11a1d18911317a776af00
+com.lihaoyi	os-lib_2.12	0.11.5-M7		1ac7e1edea19139ad4bd5ebdd7f33cc967fe2ee6
+com.lihaoyi	os-lib_2.12	0.11.5-M8		51141ca6459a22d6a916d3b3dcc79571391dc8e1
 com.lihaoyi	os-lib_2.12	0.2.0		8150b0f0e8ecb14a22b2a5cca54f2152afc2c7b8
 com.lihaoyi	os-lib_2.12	0.2.1		89c3288edc776ae58b12ad554401ba892a73f4bd
 com.lihaoyi	os-lib_2.12	0.2.2		2fd603a8d470d188651fbafe97f1a03f0972a975
@@ -1546,6 +1549,9 @@ io.insert-koin	koin-compose-viewmodel-macosx64	4.0.4		N/A
 io.insert-koin	koin-compose-viewmodel-macosx64	4.0.4	metadata	4cde529ba4667b6fedd4539c0b59d96030076304
 io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta1		N/A
 io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta1	metadata	205213a103d4eebf3a3f9ffd2fa671f621a01e3d
+io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta10	metadata	056cd496d3c2dc05c586b93585c1f312f8a6d03d
+io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta11	metadata	cc8a75577241969defbf3e40da635a4b4c1a86c9
+io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta13-KTOR-EAP	metadata	9643d72f6ea7953a448762e63b08d2e38905e601
 io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta3		N/A
 io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta3	metadata	0ad03bb5339738ae34a25ffdf0d7c2cd49077e6b
 io.insert-koin	koin-compose-viewmodel-macosx64	4.1.0-Beta4		N/A
@@ -2329,6 +2335,14 @@ org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.79		1504d9c7f114e52d79609b1b2097463
 org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.8		14f8ec08eb3306f1b26abadf445a4aac116bdedb
 org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.80		678453b8022c4dd7d0f7a1169c296d5cd3e1e6cd
 org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.81		d2190a8064d84ee1ab48ddca944b33154ede6840
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.82		448cc96a63671ea9f0efef1e801a8e6eb7239c5f
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.83		3662c93c16b94da3d7ff06be46e0d0445c8c95f6
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.84		fdb3fc26c483b9bcbf893cd5e06a473ff17972c3
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.85		f7815adba80860fa73e6a13534e3b3ac91f4498e
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.86		451ba23357998764986861864890f3051d15513e
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.87		c543ebd9d50034b10166f8d8e99f5a8d4ace8fa1
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.88		2830329c309cfbb02c432590d36e53c63054a5a5
+org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.89		4cf074807b9ddc9309ec3f1965a05ac55824130a
 org.babyfish.jimmer	jimmer-mapstruct-apt	0.9.9		29246f9414bf43f6e1035ac53c43c5f026101ef5
 org.brutusin	rpc-demo-security-jar	1.3.0		487ef3afed162f4b43a67a28b932559facd71253
 org.brutusin	rpc-demo-security-jar	1.4.0		e359bbb3e038b2008cec0e0b5cbfb400e1b8149d
@@ -2624,6 +2638,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-test-macosarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-test-macosarm64	0.6.1	metadata	41ac800dd5b2d2ddbbc6429059faea68c929b640
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-test-macosarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-test-macosarm64	0.6.2	metadata	bdf93b8c45ffd092331b57340084dba1bdd2ee4e
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-test-macosarm64	0.7.0	metadata	0570cbfa13dc9397381df7592256ca89eb6eb14a
 org.json4s	json4s-scalap_3.0.0-RC3	3.7.0-M16		aa3c718d50a786ad913de7388b125ffc973065e6
 org.ogema.messaging	remote-user-administration	2.2.1		8b1e673396035ead1445c476f5da18c19abaa044
 org.scalameta	trees_2.12	1.4.0		7e623ddc688579f8d9d40711ce15d6ad0b9ee9e1
@@ -2708,6 +2723,7 @@ org.scalameta	trees_2.12	4.13.2		75eadc53ce8dee572f4c391376cd3a0334c6e72f
 org.scalameta	trees_2.12	4.13.3		ce802b6705632c8ecba4864710aded0bb56c1a8f
 org.scalameta	trees_2.12	4.13.4		aa598ef6c2d8d0bdf4227f4582abcc6e0cba5636
 org.scalameta	trees_2.12	4.13.5		ee04e89181f7888cf9e726b26b6dd4b7a187bed8
+org.scalameta	trees_2.12	4.13.6		31c51491777c98f376758a1baabfdb08d64ff47b
 org.scalameta	trees_2.12	4.2.0		7d7f4fb61fde139cb3c99618b5935324b2e4c9ff
 org.scalameta	trees_2.12	4.2.1		bc40bbf2e4514f1ec05186f60296c61644d1bfe2
 org.scalameta	trees_2.12	4.2.2		3779d8f8887976ae9adad829bb65b19ade62983b

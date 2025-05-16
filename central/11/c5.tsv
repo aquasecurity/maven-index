@@ -263,6 +263,8 @@ com.google.api.grpc	proto-google-cloud-optimization-v1	1.57.0		a9ebc75506cc2933a
 com.google.api.grpc	proto-google-cloud-optimization-v1	1.58.0		29b357f96932179e463cd74b4f300d1295cff9cd
 com.google.api.grpc	proto-google-cloud-optimization-v1	1.59.0		b403ac79e29ff34c2e4892f4a74a7ed3cc526dfb
 com.google.api.grpc	proto-google-cloud-optimization-v1	1.6.0		e0bf069e52fb21cee8c0ccdca0ed5713d7c04644
+com.google.api.grpc	proto-google-cloud-optimization-v1	1.60.0		53470f0267611431e84053efc755f362a18e7675
+com.google.api.grpc	proto-google-cloud-optimization-v1	1.61.0		ab182208c7737c2a10fe9f3578a21c578dfcdcae
 com.google.api.grpc	proto-google-cloud-optimization-v1	1.7.0		f80254f1db265aace978e10106b3382cd8973637
 com.google.api.grpc	proto-google-cloud-optimization-v1	1.8.0		46cc4d20167baa4fea3fcb57f7daf8d1d1fe938d
 com.google.api.grpc	proto-google-cloud-optimization-v1	1.9.0		90eafb4e49a7bcc24a751a709981d7342fe84130
@@ -292,6 +294,7 @@ com.google.cloud	google-cloud-binary-authorization-spring-starter	4.10.6-preview
 com.google.cloud	google-cloud-binary-authorization-spring-starter	4.10.7-preview		5b6cdc961e1a763c2b9d05a7c1f7a75aa0e81278
 com.google.cloud	google-cloud-binary-authorization-spring-starter	4.10.8-preview		45a3b88180e32456e6215ed03fdee1d333c43833
 com.google.cloud	google-cloud-binary-authorization-spring-starter	4.10.9-preview		7de239386d63a69d46f694a244f8e427e01eadec
+com.google.cloud	google-cloud-binary-authorization-spring-starter	4.11.0-preview		1e990ce9bea4a900a5ea094a78b11cd7892b7809
 com.google.cloud	google-cloud-binary-authorization-spring-starter	4.2.0-preview		8089253064498ba32938ca84e13030a6b0a93667
 com.google.cloud	google-cloud-binary-authorization-spring-starter	4.3.0-preview		08cc98d0c5b3ea227a434eaa44d0f697f92860dd
 com.google.cloud	google-cloud-binary-authorization-spring-starter	4.3.1-preview		fda779a9e73647b723de93fd90d560e6e823bb1d
@@ -323,6 +326,7 @@ com.google.cloud	google-cloud-binary-authorization-spring-starter	5.11.0-preview
 com.google.cloud	google-cloud-binary-authorization-spring-starter	5.11.1-preview		25f153db66229d193bd719a3a939d5efa540d451
 com.google.cloud	google-cloud-binary-authorization-spring-starter	5.11.2-preview		44197d02b532581697de74e374948a229cc8db2c
 com.google.cloud	google-cloud-binary-authorization-spring-starter	5.11.3-preview		1ee7a310ae22b6de42fd0e8660b0b1814c82fb47
+com.google.cloud	google-cloud-binary-authorization-spring-starter	5.12.0-preview		8e0aa4b5c085989c01bbb4d113f24a77234c9c87
 com.google.cloud	google-cloud-binary-authorization-spring-starter	5.2.0-preview		c9a84e475bb9993a8ff722ba4234f94c30c10fb7
 com.google.cloud	google-cloud-binary-authorization-spring-starter	5.2.1-preview		fdc1da4d311adcf982a8b4d345db9ee222cca3b0
 com.google.cloud	google-cloud-binary-authorization-spring-starter	5.3.0-preview		3bb01b596e02bce6e84cc7ee0abeff5205d3b496
@@ -1221,6 +1225,7 @@ org.apache.sling	org.apache.sling.feature.io	1.1.0		42cd69d4d4c9a2e0772552e14b87
 org.apache.sling	org.apache.sling.feature.io	1.2.0		8431b4486e5cc64b7517bd7d7e18efcf3b3ac039
 org.apache.sling	org.apache.sling.feature.io	1.2.2		5fc948c162727e244273a711d40b4b676feadc2f
 org.apache.sling	org.apache.sling.feature.io	1.3.0		264bae0ac173ff3bd01095bb15c52e887ceb0e94
+org.apereo.cas.support.cas-server-support-captcha	5.0.0.RC2	support		8f493ba8e125b7c3dc50b54dfb04062828bd9357
 org.aposin.licensescout	org.aposin.licensescout.configuration.sample	1.0.0		N/A
 org.aposin.licensescout	org.aposin.licensescout.configuration.sample	1.3.1.005		N/A
 org.aposin.licensescout	org.aposin.licensescout.configuration.sample	1.3.1.007		N/A
@@ -1658,7 +1663,9 @@ org.elasticsearch	elasticsearch-hadoop-mr	8.17.2		d3c2315e07967b473c6225a8992bf8
 org.elasticsearch	elasticsearch-hadoop-mr	8.17.3		aaee6db781a8a8438b1d646fa5dfd03f500f7ff4
 org.elasticsearch	elasticsearch-hadoop-mr	8.17.4		fcc6e93bedfa57c343e36d4b8c67c71b2137f507
 org.elasticsearch	elasticsearch-hadoop-mr	8.17.5		2d98cf9ac4c9ac82907cb19aec848daaebf01fcc
+org.elasticsearch	elasticsearch-hadoop-mr	8.17.6		6c4aeb55d4088ec248412b22d3e750af47e89cbd
 org.elasticsearch	elasticsearch-hadoop-mr	8.18.0		7dd090d70bc69b8413d6e72014f8c6b76a37c221
+org.elasticsearch	elasticsearch-hadoop-mr	8.18.1		b544851be14e684922e82c48d01adaf245ae5422
 org.elasticsearch	elasticsearch-hadoop-mr	8.2.0		39806c426c05a878ac71e3b4bd585a4ac019359d
 org.elasticsearch	elasticsearch-hadoop-mr	8.2.1		e48000a19f66f776f55e3917801e16587b70939f
 org.elasticsearch	elasticsearch-hadoop-mr	8.2.2		5761bcea9ac4eccaf5ce7a90d20605eea0cd8ca2
@@ -1689,6 +1696,7 @@ org.elasticsearch	elasticsearch-hadoop-mr	8.9.2		2456e3d881d3cb6a969ce659dd33be8
 org.elasticsearch	elasticsearch-hadoop-mr	9.0.0		89ca931a2a88df7b2c1b541db7ddea50f8e3d7f4
 org.elasticsearch	elasticsearch-hadoop-mr	9.0.0-beta1		2b8e8bd10800e85070962e92756d24de2df381fe
 org.elasticsearch	elasticsearch-hadoop-mr	9.0.0-rc1		a328f8e1e7ee39d5998072f9fba81c0c23409288
+org.elasticsearch	elasticsearch-hadoop-mr	9.0.1		f55ff6787bc97b5fef5cb95fbea2577c95579b09
 org.features-runner	features-runner-core	0.1		942bd5f4875412733aa3a98b381dd8f30b75f6f7
 org.glassfish.fighterfish	sample.parent-pom	1.0.0		N/A
 org.glassfish.fighterfish	sample.parent-pom	1.0.1		N/A
@@ -1970,6 +1978,7 @@ org.opensearch	opensearch-grok	2.6.0		d8d308c3e005bb726a5db0bbac47b926855f517a
 org.opensearch	opensearch-grok	2.7.0		fa74dd9c940613e1b0a2e197534d3fa72d748da0
 org.opensearch	opensearch-grok	2.8.0		a5a7a9c48f6ede863bc91e0b6fcdc7ba222ef12a
 org.opensearch	opensearch-grok	2.9.0		c7b145f01263aff1645f20f188ba0ae4e64ee273
+org.opensearch	opensearch-grok	3.0.0		0974ddeed396afc0bfaa40d8ad5fde456a93691f
 org.opensearch	opensearch-grok	3.0.0-alpha1		97854ca6a89d34b02ae1a4bcdb20111e35f79fc5
 org.opensearch	opensearch-grok	3.0.0-beta1		a23d946fa6b27b1fe365ef905bde43fcec4fefb9
 org.openurp.prac.la	openurp-prac-la-webapp	0.0.2		N/A
@@ -2357,6 +2366,9 @@ tz.co.asoft	cinematic-live-compose-jvm	3.0.6		f4dcc89fb6c04cd03e216c2ea4dd4a1a18
 tz.co.asoft	cinematic-live-compose-jvm	3.0.7		27d168e01a0763c25ddf10fe3db2180cd18f6b9f
 tz.co.asoft	cinematic-live-compose-jvm	3.0.8		f1bfa34bfaa4601fbd2804ed4b7619caa0d40e86
 tz.co.asoft	cinematic-live-compose-jvm	3.0.9		f1bfa34bfaa4601fbd2804ed4b7619caa0d40e86
+tz.co.asoft	cinematic-live-compose-jvm	3.1.1		493d2ae5597dc486541c2d5e35910cd15688d48d
+tz.co.asoft	cinematic-live-compose-jvm	3.1.11		493d2ae5597dc486541c2d5e35910cd15688d48d
+tz.co.asoft	cinematic-live-compose-jvm	3.1.12		493d2ae5597dc486541c2d5e35910cd15688d48d
 tz.co.asoft	color-core-watchosx86	0.0.30		N/A
 tz.co.asoft	color-core-watchosx86	0.0.40		N/A
 tz.co.asoft	color-core-watchosx86	0.0.50		N/A

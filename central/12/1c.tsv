@@ -88,6 +88,7 @@ com.github.fmjsjx	libnetty	1.3.1.Final		N/A
 com.github.fmjsjx	libnetty	1.3.2.Final		N/A
 com.github.javachat	streems	0.1.0		72f4cfeaf5dd8ab26e60decad326c0543dbf02a8
 com.github.javachat	streems	0.2.0		2a9418388620dd253cc89a7639b00536d58d4cc1
+com.github.morgen-peschke	sbt-pack_2.12_1.0	0.9.1-EX2		3baeda92be57d8ca4e78a3722de3fb6300f474fe
 com.googlecode.fmpp-dataloaders	fmpp-dataloaders	1.0		f485c0b4f0581c3a8a742300f35f27818edabd70
 com.io7m.miscue	com.io7m.miscue.core	0.0.3		c6cc2157e746a7bd4791145e889d6b7e084f554c
 com.jwebmp	jwebmp-d3	0.58.0.21-RCTEST		9e4818c094334a6b2417b641938a7dbeaf017082
@@ -179,6 +180,8 @@ com.oracle.oci.sdk	oci-java-sdk-computecloudatcustomer	3.63.0		4d786531ef53b4ad1
 com.oracle.oci.sdk	oci-java-sdk-computecloudatcustomer	3.63.1		c5fb6ba80e2598248ae154d6a6b77cbd409f9759
 com.oracle.oci.sdk	oci-java-sdk-computecloudatcustomer	3.63.2		32731e3fe2ae5cb6b31ded67da475d4582f055e9
 com.oracle.oci.sdk	oci-java-sdk-computecloudatcustomer	3.63.3		fa7780ee20f1114d174ab07ebe00c01d84294531
+com.oracle.oci.sdk	oci-java-sdk-computecloudatcustomer	3.64.0		00b9b30bbbe1bbfd35d09bd6d805a7086fa4d980
+com.oracle.oci.sdk	oci-java-sdk-computecloudatcustomer	3.65.0		9f9d5a971b7864dba6d8ed9de35315747471db95
 com.palantir.atlasdb	atlasdb-container-test-utils	0.1000.0		274b962b5e4b7840f72e2f5a202043395171ac95
 com.palantir.atlasdb	atlasdb-container-test-utils	0.1001.0		ff9e68c1cb911c718c37cbcae02dc9045eda4c9f
 com.palantir.atlasdb	atlasdb-container-test-utils	0.1001.0-rc1		ba0e3da577c0bcb37366bf38e1f63eeb4b6f2566
@@ -1972,6 +1975,7 @@ io.mokamint	io-mokamint-nonce	0.0.1		ed4f366a3f29feeddaa2bde4944bd3a4ca8be4a8
 io.mokamint	io-mokamint-nonce	1.0.0		b5d486b756a7b2900353902be820b81bfa656395
 io.mokamint	io-mokamint-nonce	1.1.0		819f45b2dc32eb50f02772b608154833920a0963
 io.mokamint	io-mokamint-nonce	1.2.0		f45e2cddcdba10856fe6adc9bd8239d2f627fe4e
+io.mokamint	io-mokamint-nonce	1.2.1		baef98e29cc2f844b0f2c01b7d7604781a604be2
 io.mosip.authentication	authentication-keys-generator	1.0.10-rc1		2e4dcba9737d6fbceb02bc6385a6a64a5807ca75
 io.mosip.authentication	authentication-keys-generator	1.0.9		e93b257baa065960222a3503e8cca7ca3bffce91
 io.mosip.authentication	authentication-keys-generator	1.0.9-rc1		9d61328251ca0b23a7f72921f17e9c8055b362cb
@@ -1982,6 +1986,7 @@ io.mraa.at.upm	upm_htu21d	1.6.0		N/A
 it.micegroup	voila2runtime-mail	1.0		N/A
 it.micegroup	voila2runtime-mail	1.1		N/A
 it.micegroup	voila2runtime-mail	1.10		f7bd559dfd80f3dfa1c7cb72968a7e6f74b34780
+it.micegroup	voila2runtime-mail	1.11		88f2c525a9bf60804b55776ee4c608bf524488a9
 it.micegroup	voila2runtime-mail	1.4		N/A
 it.micegroup	voila2runtime-mail	1.5		N/A
 it.micegroup	voila2runtime-mail	1.6		N/A
@@ -2367,6 +2372,7 @@ org.apereo.cas	cas-server-support-throttle-hazelcast	7.2.0-RC6		02bce7e013fa7427
 org.apereo.cas	cas-server-support-throttle-hazelcast	7.2.0-RC6	resources	62e83fbdf345edda38c129ca786cbdfac355fb5b
 org.apereo.cas	cas-server-support-throttle-hazelcast	7.2.1		154e1196d10a3e8dd7a4ca0e21b965dc3f25b5ef
 org.apereo.cas	cas-server-support-throttle-hazelcast	7.2.1	resources	9c1bc4140f8474ef886eca33effa0c542fee5d14
+org.apereo.cas	cas-server-support-throttle-hazelcast	7.2.2		c9531b1fc6bea46003ae2e044e56e206779e890b
 org.apereo.cas	cas-server-support-throttle-hazelcast	7.3.0-RC1		7cd226792216a05ebaae80d7b4fbfba153e94341
 org.apereo.cas	cas-server-support-throttle-hazelcast	7.3.0-RC1	resources	f113595461a56d39a2d5394399a6668d582560dd
 org.apereo.cas	cas-server-support-throttle-hazelcast	v6.4.0-RC5		601f0ce3a0b8653187d55424b87c2714f52a4934
@@ -2467,6 +2473,7 @@ org.jetbrains.intellij.plugins	structure-teamcity-recipes	3.300		bbe6850a02b266c
 org.jetbrains.intellij.plugins	structure-teamcity-recipes	3.302		1aa9d0d92ab63a5572b4a6be50e4da7f92fd5ea5
 org.jetbrains.intellij.plugins	structure-teamcity-recipes	3.303		be4e62521f1f9dc9b918e1bc9b48cad16bcd6917
 org.jetbrains.intellij.plugins	structure-teamcity-recipes	3.304		edf91f835b528e842f2a4ad0379f68af06e7154d
+org.jetbrains.intellij.plugins	structure-teamcity-recipes	3.305		3a441fb9888c63781f84c7fc55238fc93287d61a
 org.mortbay.jetty	jetty-j2se6	6.1.21		08b3a528fbe247e3d44173266e5e64a3353cb5b2
 org.mortbay.jetty	jetty-j2se6	6.1.22		5edf5857c7422f6e9afa43600614711c34e72e9b
 org.mortbay.jetty	jetty-j2se6	6.1.23		1360fafd27d0cc1d7fd86165874964cc32df786d

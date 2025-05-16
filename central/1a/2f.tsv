@@ -147,6 +147,8 @@ com.atlassian.prosemirror	model	1.1.2		caea952b0ce2498afe6e772cc212c203cbdd9e45
 com.atlassian.prosemirror	model	1.1.3		462abaf02c15445bfa862bca8552532998ce3e7f
 com.atlassian.prosemirror	model	1.1.4		b8019c61237162aff785b900423e2ebf7ae27b14
 com.atlassian.prosemirror	model	1.1.5		412ce34ce1f548869e4413ea8dc337a6775e2564
+com.atlassian.prosemirror	model	1.1.8		c437b5b537573c9dda334fddf308a8d691d4b43a
+com.atlassian.prosemirror	model	1.1.9		c437b5b537573c9dda334fddf308a8d691d4b43a
 com.att.nsa	dmaapClient	0.2.12		527f6cb0d42d1e720b1607263d697a9704a854a7
 com.att.nsa	dmaapClient	0.2.12	jar-with-dependencies	117df94b73da6878036a3ec9e4df7e4aa7f71d77
 com.baynote	kafka-hadoop-consumer	0.8.0		132def5724b417b68640835d21f04275c314acff
@@ -728,6 +730,8 @@ com.oracle.oci.sdk	oci-java-sdk-mysql	3.63.0		b86797aacca51b13fb34d3a19554bf4beb
 com.oracle.oci.sdk	oci-java-sdk-mysql	3.63.1		4f3ad84b1c6c70fd60d63ba4ed442564cf4333d2
 com.oracle.oci.sdk	oci-java-sdk-mysql	3.63.2		a45a4e476fc3828850ca638529a6beef219266d3
 com.oracle.oci.sdk	oci-java-sdk-mysql	3.63.3		cc754a38839322907dfd6e0aaf1ab3b5ffbda7af
+com.oracle.oci.sdk	oci-java-sdk-mysql	3.64.0		1c9e5a9187dd144254cf9757e307fbcc5a8ddc98
+com.oracle.oci.sdk	oci-java-sdk-mysql	3.65.0		b383be5c9859aa719626267018020982843d9659
 com.oracle.oci.sdk	oci-java-sdk-mysql	3.7.0		f0ed7157c2f393577523263db18b5c6d1677c8b0
 com.oracle.oci.sdk	oci-java-sdk-mysql	3.8.0		de9a190e37c3c2765ad7fec15fe0739446201b4c
 com.oracle.oci.sdk	oci-java-sdk-mysql	3.9.0		437d0b9a6bc5f0830f390a2061e8bcfa0cc86212
@@ -1013,6 +1017,7 @@ io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-watchossimulatorar
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-watchossimulatorarm64	0.2.2	metadata	2665267a303eed3d4a9c4a2e9773b8233e29c745
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-watchossimulatorarm64	0.2.3		N/A
 io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-watchossimulatorarm64	0.2.3	metadata	fc5ea6e45421296d587769154e58ac35211ecbf4
+io.github.kevincianfarini.monarch	kotlinx-serialization-mixin-watchossimulatorarm64	0.2.4	metadata	fee54efc2cb569719529d7619b8a336b47e9cc9b
 io.github.nillerr	jooq-kotlin	1.0.0		67561faf2010c4e1b716d928622d8431995802e3
 io.github.rygeltang	bitmap-pool	1.0.0		N/A
 io.github.softartdev	theme-prefs-desktop	0.5.6		7205138fab79f38c4f1f654654c826a172a5d54c
@@ -1520,10 +1525,17 @@ org.finos.legend.engine	legend-engine-xt-data-space-generation	4.8.0		f11a5ca1f7
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.80.0		bf2eb7124a10e37e914daa1e2c1ccb03300df18a
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.81.0		7abd6ddd9db772f493371f2c7db42bb08728c59c
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.82.0		2e895164441ce3688332c9cdae3693398689f190
+org.finos.legend.engine	legend-engine-xt-data-space-generation	4.82.1		7ca4391f678731c0cb47c574d624d801ce170c6c
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.83.0		eabc3c321763ad4a10e948b940a26b9fccae65f0
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.83.1		5c7a6d71bcfb4d890cbed61b1167bcaa3780d318
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.83.2		4264b166dadae04597c9ff86767981281eec0cd1
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.83.3		bbd2b650eff18949be5b424905b57c2912f4920d
+org.finos.legend.engine	legend-engine-xt-data-space-generation	4.84.0		ecb2026d073d8d19296f4b5e99066cbb18e16b3a
+org.finos.legend.engine	legend-engine-xt-data-space-generation	4.84.1		af4aa748589b09d2b660f6e78f7ee1858756ffd6
+org.finos.legend.engine	legend-engine-xt-data-space-generation	4.85.0		41311eb6d6384832d151ccb9d0f1a2c39dd11d3b
+org.finos.legend.engine	legend-engine-xt-data-space-generation	4.85.1		1e33c7e190d52a552f761f5a7328357c20107e3b
+org.finos.legend.engine	legend-engine-xt-data-space-generation	4.85.2		f4098586dae6a973d5f548e8f4afe3d9ab024c15
+org.finos.legend.engine	legend-engine-xt-data-space-generation	4.85.3		4b1ce87765d18157938df95c733df61cd7feaa2e
 org.finos.legend.engine	legend-engine-xt-data-space-generation	4.9.0		60fb68b41b151269c861bcd69bf09f142400c505
 org.glassfish.jms	jms	3.0		N/A
 org.glassfish.jms	jms	3.0-Preview		N/A

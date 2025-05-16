@@ -24,6 +24,7 @@ co.fs2	fs2-protocols_3	3.12.0-RC1		95ddf60cf58147214b7b60ff6700339de69fcdc4
 co.fs2	fs2-protocols_3	3.12.0-RC2		1755c14968ddee02b3dc835a7802005c81ce5516
 co.fs2	fs2-protocols_3	3.13.0-M1		683e918778c6b246353da31b1f60314f7fafef32
 co.fs2	fs2-protocols_3	3.13.0-M2		85551f891d569dbb0a5efe136d5b60cd2f7cae96
+co.fs2	fs2-protocols_3	3.13.0-M3		f933035c957e7fd4a36cc17243f3214b5d96df89
 co.fs2	fs2-protocols_3	3.2-10-421c242		4542be81e35026e533e89c095f0fd03b391f95fd
 co.fs2	fs2-protocols_3	3.2-10-ea04dd1		8e8808bb26b1a701eeef0d1177bb1aa552b6f6fa
 co.fs2	fs2-protocols_3	3.2-100-c1910b5		435544ff9f80c43a3cd5f1844a8e70100a241f2c
@@ -2759,6 +2760,7 @@ com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.1228		ae4413d33f9ada56a111
 com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.1232		7ad40de1d46d93bdbf90a90f049f0666f5a929ad
 com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.1233		b954403518eb4cc9e825ff112a7932ab0616ce70
 com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.1246		3fbf17d6bd9b99088f68497ef7f4e63f23a7fb7d
+com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.1261		a0938cbba2a76521a4b79cb038b8867f8e74a9c1
 com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.179		5fdeefcf5693dbae5bb127f5b60dc9fd83ffd926
 com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.179	jar-with-dependencies	449186fdf5c70d9c775d2d63d2be11f9f56d55f7
 com.tencentcloudapi	tencentcloud-sdk-java-dbbrain	3.1.180		860d38466d8acb0f1e944c889f28e0281196780b
@@ -4702,6 +4704,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.41.1		8e0134be4
 org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.42.0		05db7a4f5e380c5398852073898cc32e8463ba32
 org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.43.0		5465fbfc598d32d9309233b02684d6d7c7a1fd60
 org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.44.0		816e8a9726184f9ae75014e9146204b4a27a3417
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.0		f5037d74facb07c9eaa45ca7bf743568ce32c2b9
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.1		f8117d5a8a810ec7eb358df82b1dedbf4aa588d9
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.10		9252ab54303c2f1eb4ba6327cb3d8d2bfa6958df
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.11		fc9ba10c71b7e3c88eae106fb4bd47ab75751cf2
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.12		876fdbe29c3a892fef263460fadabf31109c16bf
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.13		52aff702ab339f5b92d1635b4f2272581d8eade5
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.3		0086efc5b535cce1c0366c9aebfa909e6b5c7d1a
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.4		c0e2595d4ff0f9877b53e9abbb4abae04ef448db
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.5		eb6ab07f4a83ccbd0edd7fd3a903772646f3012c
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.6		2f087bb3082090543c6758974a8a3aec72cbb415
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.7		e3e00628cf3f8dcf0e23f11239edafaf4302a2d3
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.8		33482ca06e83672f90b01b9a06bdbc7f459219ce
+org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.45.9		bf06abe1e69d7fac92b00f4293e5318627559c03
 org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.5.0		9cc48e229794831c9f46f456b7f3302569217953
 org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.6.0		cbefad4307a6f7ddf87bf801fcf702fd2bd8d222
 org.eclipse.dirigible	dirigible-components-ui-view-extensions	11.6.1		71fe85c77e1d2fb24961f3b556edca47786e02c4
@@ -6415,7 +6430,18 @@ software.amazon.awssdk	servicecatalog	2.31.30		a66077bab85c1a51edf4c26f7fd8be21c
 software.amazon.awssdk	servicecatalog	2.31.31		ece2d5245dc8a6114a36683dad203db0c0ec8f07
 software.amazon.awssdk	servicecatalog	2.31.32		7a60ec64472d5ff17ffa9ff3d29b61865464f89f
 software.amazon.awssdk	servicecatalog	2.31.33		9ecf0f5232812f153332de3c9bd0ac03fa3b3ccd
+software.amazon.awssdk	servicecatalog	2.31.34		d79bf31aedcacf1f316abe5b735dc6eb2d61e5ba
+software.amazon.awssdk	servicecatalog	2.31.35		e259a24fee12df49f4a29e50b25da2625d00cd74
+software.amazon.awssdk	servicecatalog	2.31.36		96bb7bbb2b4dd44a1f83c8aa56a1866dfbd5569f
+software.amazon.awssdk	servicecatalog	2.31.37		b0292f604fa8033e0586a5ccfaf01638502c7efb
+software.amazon.awssdk	servicecatalog	2.31.38		0dfb735aad52821fb7946c591f1568ecc08f108a
+software.amazon.awssdk	servicecatalog	2.31.39		f130c45b4c1f5b7dc1fda96bbe04c2410f6d1c4c
 software.amazon.awssdk	servicecatalog	2.31.4		7b66c0d42393cc579567df719545cc7d3784f5c0
+software.amazon.awssdk	servicecatalog	2.31.40		914e973412dd001244f6038535cdd7df45b93602
+software.amazon.awssdk	servicecatalog	2.31.41		748dab34338c53c6ea4246455db9becbc7ff894d
+software.amazon.awssdk	servicecatalog	2.31.42		10373003db2c3b99d0b50467f93b9ce3e6f18426
+software.amazon.awssdk	servicecatalog	2.31.43		4f5336344f3a25c473db7bb8b00b58456103a8d0
+software.amazon.awssdk	servicecatalog	2.31.44		21c65ddd4c50c58693504cfd68d43ff29078abd9
 software.amazon.awssdk	servicecatalog	2.31.5		f8102b02387471b1ef02c342bc26fc6f83f7f3a1
 software.amazon.awssdk	servicecatalog	2.31.6		b2eb8d3bab4b33826c725be3c38b0a77a97dcb0d
 software.amazon.awssdk	servicecatalog	2.31.7		7edf5dc77bebaa47295ad0275101dd4e43360eaf
@@ -6598,6 +6624,10 @@ tz.co.asoft	habitat-core-watchosarm64	3.0.14		N/A
 tz.co.asoft	habitat-core-watchosarm64	3.0.14	metadata	6dbb6956d548b1e0a354c7fa5b597ca71f332f03
 tz.co.asoft	habitat-core-watchosarm64	3.0.15		N/A
 tz.co.asoft	habitat-core-watchosarm64	3.0.15	metadata	3b3d63265c2e10895c3ee2edb8fc5f4f436afe7b
+tz.co.asoft	habitat-core-watchosarm64	3.1.0	metadata	3801451d76c1444fb327e439b311cedfb8a05794
+tz.co.asoft	habitat-core-watchosarm64	3.1.1	metadata	610ccc2ccdd48c90c7bb410be731b9b79c746526
+tz.co.asoft	habitat-core-watchosarm64	3.1.11	metadata	0548e27350835d6f387f51f71f24aae829ae4cff
+tz.co.asoft	habitat-core-watchosarm64	3.1.12	metadata	46c75c7047da5905c19c2aae65ebeb002d6b012f
 uk.gov.nationalarchives	preservica-client-root_3	0.0.100		96df46136246863bd882a8bf5506f482bda53544
 uk.gov.nationalarchives	preservica-client-root_3	0.0.101		f283cfe63bac5fab55c92c0072f9fbb275cbda5c
 uk.gov.nationalarchives	preservica-client-root_3	0.0.102		35a8f521b7cd8b10cbb88328aa4c4f4ad28ec8a6
@@ -6628,6 +6658,7 @@ uk.gov.nationalarchives	preservica-client-root_3	0.0.126		4652c65175f0c639d99284
 uk.gov.nationalarchives	preservica-client-root_3	0.0.127		c7a1bd1a439e6a30c73e1279bd126d2836c7d5fb
 uk.gov.nationalarchives	preservica-client-root_3	0.0.128		04c6464b3504a44f477e2afd82ba70cfc9c340aa
 uk.gov.nationalarchives	preservica-client-root_3	0.0.129		c67f24fe679f2c0b5464b9d9dbefe68b5eb28d34
+uk.gov.nationalarchives	preservica-client-root_3	0.0.130		48fafdd776b7d8d76e341b94f91741166641a80b
 uk.gov.nationalarchives	preservica-client-root_3	0.0.2		56cbdf4849b2ffe56e50b6092f5f2d74a95d19c8
 uk.gov.nationalarchives	preservica-client-root_3	0.0.63		1abcfa4f29dfd90ea687c7610de15159dfb545a9
 uk.gov.nationalarchives	preservica-client-root_3	0.0.64		2822ce4a2085bd4dfeee59daefd800cee0a2098f

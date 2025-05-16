@@ -96,6 +96,10 @@ com.github.kristofa	brave-tracefilters	3.1.0		345b108c23ac31fe9f3abbabbb3c1f92fb
 com.github.kristofa	brave-tracefilters	3.2.0		0ffbf66ea5bc852d53ce9c5bfca4fcf4b4018f32
 com.github.kristofa	brave-tracefilters	3.3.0		c7f5a1923f529b326aec4cb81596a60e9a3009eb
 com.github.wheaties	twotails-annotations_2.12.0	0.3.1		5f2739178014788a8123dcbe0c773bc41b69c4de
+com.github.y-yu	sbt-swagger-meta_2.12_1.0	0.1.5		712c2e8b30cc35141ca47e1bcdfd4e33b98c2c83
+com.github.y-yu	sbt-swagger-meta_2.12_1.0	0.1.6		93ed31e2ea0573e5ca1c8687e91f708804cad38c
+com.github.y-yu	sbt-swagger-meta_2.12_1.0	0.1.7		14a3b1cd3b0195e0357fa98360e2c2e451f05cba
+com.github.y-yu	sbt-swagger-meta_2.12_1.0	0.2.0		aa45eb99b3f993f6a5e151b66ca644abff94cdfa
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.1.0		2db5a40d6bc0b00a490c12a9a73e918aeb61fb59
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.10.0		7dfb40b15bdc9db8411ee11255c66cb5d8b1461c
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.11.0		9bf669e34d798bf38138366ed6f1b8c4f69ad0fb
@@ -147,7 +151,9 @@ com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.55.0		01467b8fa
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.56.0		89749ba16013688d6325931d10648c9a59e4591c
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.57.0		4875cdad3a8e1110db48287c5c9ba108312eeba7
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.58.0		af4ec93f6770c002443c0979ebabce92439c3f0d
+com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.59.0		33ad963a1869d6a7fc4ffa80a866f1a591ddf95e
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.6.0		2bd1ea51d1423e3dc66b9c4afa83176fa94cbd4d
+com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.60.0		60103b044620c76528c6d7915f8eeb39f6f21299
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.7.0		7db0e6528dcda49e1fd27d63cbc29db543d6f614
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.8.0		b15fd911cba431b6c9c7c60bb28a352d97826f26
 com.google.api.grpc	proto-google-cloud-distributedcloudedge-v1	0.9.0		3e8bb7c6a5298df90364b24c57b31b1ae1030082
@@ -180,6 +186,11 @@ com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-33-c98221		d330b4129ec0d9a35ba75d
 com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-39-4c3eb7		a5867352cfb220d8ea2c14a5bd626a5b3747625d
 com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-41-b39ce4		70c5cbe9dd4722de95cad44928217fd35e56b222
 com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-42-a720c3		fb7eb21088e6073cffc7b951fc53ba484c9dafc4
+com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-51-773072		5c99539dea74a40c300b6477047852a47195f9d2
+com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-56-51ca83		28470fafbdcde75fc54a5a60805dfbfb09933453
+com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-57-7578c2		4a2ca7251f5f4a1b084eee8784a41d5013522be9
+com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-59-17fa7b		53be20a226ac9698d7728538924107327748f26b
+com.lihaoyi	mill-runner-bsp-worker_3	0.13.0-M2-74-132761		5361aa8cf5d586fa389cf42c50a2972592ce29a0
 com.milesight.beaveriot	notification-api	1.0.0		617f8e955d8d6140fbfcdccd9ac8dd24704cd5a8
 com.netflix.spectator	spectator-reg-atlas	0.101.0		5ba6fc94d5424f47ebf209991ac0a2c693f216f6
 com.netflix.spectator	spectator-reg-atlas	0.102.0		b44f70f9beb3d00c5c50353cf469d7997b76281a
@@ -370,6 +381,7 @@ com.netflix.spectator	spectator-reg-atlas	1.8.1		191993a6187a3499f09e45d934d5d53
 com.netflix.spectator	spectator-reg-atlas	1.8.10		e238bbc010e91eac5cd3cc43d5ba285420f4ce3f
 com.netflix.spectator	spectator-reg-atlas	1.8.11		4058149c65bd6a4c1ef0fdcdb004ea53297a7eba
 com.netflix.spectator	spectator-reg-atlas	1.8.12		d563efdd10344234df0402a43b7238627e81ffac
+com.netflix.spectator	spectator-reg-atlas	1.8.13		a3ca84dada4da275800c29bb21ea813b22800181
 com.netflix.spectator	spectator-reg-atlas	1.8.2		ed080fb9ca90dd1e2f5b8dd01c07156108af4dfc
 com.netflix.spectator	spectator-reg-atlas	1.8.3		34d636042d88ee81e949cdfafed34729306402c3
 com.netflix.spectator	spectator-reg-atlas	1.8.4		df87a73da460bba6ea35654e9354dddfd2a402be
@@ -1032,6 +1044,29 @@ com.squareup.misk	misk-prometheus	2025.05.02.170248-78d08e3		ae07bbf1f0b893ee04f
 com.squareup.misk	misk-prometheus	2025.05.02.190554-0cef185		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
 com.squareup.misk	misk-prometheus	2025.05.02.220048-fae57e8		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
 com.squareup.misk	misk-prometheus	2025.05.02.222809-f712db2		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.05.145425-c327194		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.05.153412-60aa451		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.05.192009-3b29aa5		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.06.132950-738ccb1		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.06.160528-ae61202		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.06.174739-4bf5568		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.07.021127-b2a4d11		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.07.150211-129b52d		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.07.163015-36c5fd5		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.07.175734-9a2b69c		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.07.212523-266231f		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.08.192753-98ced47		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.08.201840-de6826b		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.09.100938-c05fed2		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.09.142831-306a2e9		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.09.191522-295ad47		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.09.220158-c596073		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.11.033149-486251d		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.12.134151-fe3b2a9		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.14.004032-102a042		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.14.171253-56b3b95		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.14.204930-c18856f		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
+com.squareup.misk	misk-prometheus	2025.05.14.225818-a959497		ae07bbf1f0b893ee04f4ffcd0573b6743d90dab2
 com.thousandeyes.sdk	tags	1.0.0		b619e4f1e90c0bea448634fcbee6744584b076ef
 com.thousandeyes.sdk	tags	1.1.0		2bb100d11f714e24f55b6f08228455c03ab27ab1
 com.thousandeyes.sdk	tags	1.2.0		09ca73594c446f0571f02515c18b4f10ccd4930c
@@ -1377,6 +1412,7 @@ dev.zio	zio-aws-sagemaker_2.12	7.31.27.1		d02f4f29dfb07e9567684f8703f7294bf2e117
 dev.zio	zio-aws-sagemaker_2.12	7.31.28.1		1a54215d4241f14b98cfe1a9400766fe60492a77
 dev.zio	zio-aws-sagemaker_2.12	7.31.3.1		8df478a64864db5391b715ab5dff1f47bc163c6a
 dev.zio	zio-aws-sagemaker_2.12	7.31.30.1		1f2837bb4a2a5ed2ef03c5612a62798a64cb33d1
+dev.zio	zio-aws-sagemaker_2.12	7.31.30.2		e3bd4e226bea5ad91ac8ed068d64b8e562814f2f
 dev.zio	zio-aws-sagemaker_2.12	7.31.4.1		9e18d379a98606ceeeb3c999415ad3e9623cb63e
 dev.zio	zio-aws-sagemaker_2.12	7.31.6.1		88398b1dd095bc152793349388a06d6d6940ecfb
 dev.zio	zio-aws-sagemaker_2.12	7.31.6.2		d2412eff3d6ff6c6399d16d0c054937eba4260d4
@@ -1876,6 +1912,7 @@ org.apache.camel	camel-javascript	4.8.3		a77f094a82a33c4d1b6d6c73b509b9cafd8d488
 org.apache.camel	camel-javascript	4.8.4		88df35d90803e2a0eff9b68b0dddc272a0f3a057
 org.apache.camel	camel-javascript	4.8.5		4f41629c37a2dc83fd006429dd70661976fbedf0
 org.apache.camel	camel-javascript	4.8.6		c2356ca3b4bce42d1b872eb4d5ab66c91fd59c17
+org.apache.camel	camel-javascript	4.8.7		bf643754ce7c606d244b56c610603be5dcad0e06
 org.apache.camel	camel-javascript	4.9.0		34226df16bb6862adb931180b8c1d18de51c3b07
 org.apache.isis	applib	0.1.2-incubating		b9bebc3434446e6ec64748fafdf1f135888c439a
 org.apache.isis	applib	0.2.0-incubating		0ba118b551a66c113dedfae2c24aa424b8a796f8
@@ -1905,6 +1942,7 @@ org.eclipse.krazo	krazo-jersey	2.0.1		7931f0e3f269d2dd5af7e0fc280266026a5b8164
 org.eclipse.krazo	krazo-jersey	2.0.2		f873a005e58f29e3dc153a404a6ebfc51ad11c7b
 org.eclipse.krazo	krazo-jersey	3.0.0		84f94a07c514ddc680f9ff80c40cad70837ae6d2
 org.eclipse.krazo	krazo-jersey	3.0.1		1be89983bd775bcab6404f1b5d37e78f2f2a4787
+org.eclipse.krazo	krazo-jersey	4.0.0		dfcdc8290adff865273992ce54794c290797b7b7
 org.fabric3.gradle	test-api	2.5.0		dcdd4d5e426b846aaa4b8bbccbc61e859d3fd8b6
 org.fabric3.gradle	test-api	2.5.1		30feb16ab0da17d23efbce82371acc252ac93ceb
 org.fabric3.gradle	test-api	2.5.2		dbfe586d5cde316374100fc4508f6452454ce4df
@@ -2001,6 +2039,7 @@ org.kiwiproject	dropwizard-jakarta-xml-ws-example	1.1.2		0eb8e11a5f2661ab6ed4068
 org.kiwiproject	dropwizard-jakarta-xml-ws-example	1.1.3		c7f258dd0b883e35434d01a97c67b52a41c68175
 org.kiwiproject	dropwizard-jakarta-xml-ws-example	1.1.4		88a624a385e37da3ceb5226fef2df1c48c6b9ff2
 org.kiwiproject	dropwizard-jakarta-xml-ws-example	1.1.5		2a506933c625b7760f4cdbe9dd6b587a104425c5
+org.kiwiproject	dropwizard-jakarta-xml-ws-example	1.1.6		8d95784f54fd477524c5e269147f4fd48658a96d
 org.kotlincrypto.macs	hmac-sha1-tvossimulatorarm64	0.1.0		N/A
 org.kotlincrypto.macs	hmac-sha1-tvossimulatorarm64	0.1.0	metadata	52dc0dba5be7c80179cc89207fea25ee40f1ed87
 org.kotlincrypto.macs	hmac-sha1-tvossimulatorarm64	0.1.1		N/A

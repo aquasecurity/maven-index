@@ -212,6 +212,8 @@ com.google.shopping	google-shopping-merchant-reports	0.34.0		d51e92490218262e958
 com.google.shopping	google-shopping-merchant-reports	0.35.0		ab3fabf5f06c4fd7fef683584dac9719b2c4dfcc
 com.google.shopping	google-shopping-merchant-reports	0.36.0		908d8c6c3204c3c963d01c27e5d4642e91f3484c
 com.google.shopping	google-shopping-merchant-reports	0.37.0		7049ebbd21b5231928bf816ed9875247776cb1a9
+com.google.shopping	google-shopping-merchant-reports	0.38.0		cabbdbb5d7d41be772cfc83583d6e3c0210843f9
+com.google.shopping	google-shopping-merchant-reports	0.39.0		7f6425ab9ba964979f19d52b94ba5c2f73cf1c1d
 com.google.shopping	google-shopping-merchant-reports	0.4.0		c7477fcfb2abb941b45236797fd72b59a82bfb56
 com.google.shopping	google-shopping-merchant-reports	0.5.0		7ef1402518a2afda95300ed75ad2e9c22af42211
 com.google.shopping	google-shopping-merchant-reports	0.6.0		bd0c77d65b3efe240036282dd150f926a1b55992
@@ -464,6 +466,9 @@ io.americanexpress.synapse	synapse-service-rest	0.4.10		c11b6a936a2066963cc97786
 io.americanexpress.synapse	synapse-service-rest	0.4.11		f7b809dbbb1b7cf364c8e5e05adc9e09087ce013
 io.americanexpress.synapse	synapse-service-rest	0.4.12		b810cda2bf7ede07b870b9ea60e292c772784a64
 io.americanexpress.synapse	synapse-service-rest	0.4.13		80d595c08139da3259aa907353eaf8682aaf3378
+io.americanexpress.synapse	synapse-service-rest	0.4.14		11077f9842e7f8e8f9c2a72380424d34fbb8a66c
+io.americanexpress.synapse	synapse-service-rest	0.4.15		06fdb255f83063ab2c3ec000f8f92de36394e1db
+io.americanexpress.synapse	synapse-service-rest	0.4.16		e7906049592b42a49733710aae922b04e87472ce
 io.americanexpress.synapse	synapse-service-rest	0.4.2		94cde7bd6d05f673df800c51e31de348b5c6eff9
 io.americanexpress.synapse	synapse-service-rest	0.4.3		bc5a65a8c0dbf038b5283a3473b68e4ff0236f77
 io.americanexpress.synapse	synapse-service-rest	0.4.4		b1ecc407def9b09c832a09095aaa818264fc77fd
@@ -667,6 +672,9 @@ io.insert-koin	koin-test	4.0.3-Beta1		c945c9428b8b143199d568d0c19952e2b211e2cd
 io.insert-koin	koin-test	4.0.3-RC1		c945c9428b8b143199d568d0c19952e2b211e2cd
 io.insert-koin	koin-test	4.0.4		c945c9428b8b143199d568d0c19952e2b211e2cd
 io.insert-koin	koin-test	4.1.0-Beta1		c945c9428b8b143199d568d0c19952e2b211e2cd
+io.insert-koin	koin-test	4.1.0-Beta10		1c5b2e799f63e46b480a806102a607c5348801fb
+io.insert-koin	koin-test	4.1.0-Beta11		1c5b2e799f63e46b480a806102a607c5348801fb
+io.insert-koin	koin-test	4.1.0-Beta13-KTOR-EAP		1c5b2e799f63e46b480a806102a607c5348801fb
 io.insert-koin	koin-test	4.1.0-Beta3		c52cd4d6bf14cf5cbc40fc6e9e826c7e86b46711
 io.insert-koin	koin-test	4.1.0-Beta4		c52cd4d6bf14cf5cbc40fc6e9e826c7e86b46711
 io.insert-koin	koin-test	4.1.0-Beta5		c52cd4d6bf14cf5cbc40fc6e9e826c7e86b46711
@@ -772,6 +780,7 @@ org.apache.camel.springboot	camel-aws2-redshift-starter	4.8.3		375220beced3235a7
 org.apache.camel.springboot	camel-aws2-redshift-starter	4.8.4		0f0857f0ad0c18b929e85a0070c114e2c8f3a78c
 org.apache.camel.springboot	camel-aws2-redshift-starter	4.8.5		c11602841f0edd27e017c9085444577cd6fde866
 org.apache.camel.springboot	camel-aws2-redshift-starter	4.8.6		87b29a4c3d6ce824d472dbdf0f6e9ad5148d71ea
+org.apache.camel.springboot	camel-aws2-redshift-starter	4.8.7		8bbe653a3999a358029a317ee606ba1c427dcfe8
 org.apache.camel.springboot	camel-aws2-redshift-starter	4.9.0		d162c2df08df7d0890645f3c5fee1b69f7aeb16b
 org.apache.cocoon.servlet	cocoon-servlet	3.0.0-alpha-1		736c6ffeb537ace28d9c19ed19b99d374c738621
 org.apache.cocoon.servlet	cocoon-servlet	3.0.0-alpha-2		8a500ee612a50fb9f90c06eaaf818374eda7d6fe
@@ -3837,6 +3846,7 @@ org.yamcs	yamcs-api	5.10.8		65197946e4914110c5bbb92ae8733a10bca777cf
 org.yamcs	yamcs-api	5.10.9		e44ddecb72c2e096c686846f55bd68a06347218c
 org.yamcs	yamcs-api	5.11.0		94f5c4c0ca27eb099b731069c0a9e03d9e7572f3
 org.yamcs	yamcs-api	5.11.1		5f8579b8e620c5ef9ac0da7803e997ed27033cb0
+org.yamcs	yamcs-api	5.11.10		9dfcf8e50d8f125347e765bb6c9228e8ba26c07e
 org.yamcs	yamcs-api	5.11.2		bc474fc54b79e1c501f9b7bc4d8a021741a5849b
 org.yamcs	yamcs-api	5.11.3		d55fa9649c7a337376e94ab3b734d4e7050df06c
 org.yamcs	yamcs-api	5.11.4		6f1f5ebc03b3f5d1da946aaa27d70b855bd5e44c
@@ -3844,6 +3854,7 @@ org.yamcs	yamcs-api	5.11.5		31ed4bbd469239eeccb7dfa0f551dc0471c6f0a4
 org.yamcs	yamcs-api	5.11.6		3b8e35ed913ede4384b8c5f1049af51dc8927fd7
 org.yamcs	yamcs-api	5.11.7		485404a425fed8b15e248dc1f9fb6fb5ac4880f7
 org.yamcs	yamcs-api	5.11.8		89f5445065d49e8a4ebdde545393bedb680f37eb
+org.yamcs	yamcs-api	5.11.9		80dcac483b661eaafc842f4e0c45cb57f9f9407b
 org.yamcs	yamcs-api	5.2.0		5d11e35eb3e2dc7a419f2a5d74d10077f6e61213
 org.yamcs	yamcs-api	5.2.1		22a9c006487bfe49aac42168e766e7c4eb6cded3
 org.yamcs	yamcs-api	5.2.2		80cc570cc3aa8352adfe149c61202042f476102a

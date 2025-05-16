@@ -254,6 +254,7 @@ com.gw2tb.api-generator	api-generator	0.6.0		9961b9c82dd773cf57702ab08e75a3c7dbe
 com.gw2tb.api-generator	api-generator	0.7.0		ca8dbf756ed2d98119021dca1eae06c232d48ad9
 com.gw2tb.api-generator	api-generator	0.8.0		d541c66866dac9691eca86846cfdc665e958133f
 com.gw2tb.api-generator	api-generator	0.8.1		76e063cf561474712b925e16ca0eb79d262e53b3
+com.gw2tb.api-generator	api-generator	0.9.0		c1d3d786880bfeaec608c98ee48b089565faa39d
 com.heybcat	tightly-call-register	1.0.1		d83e91f52591911354abe002e4f43f01eff35069
 com.heybcat	tightly-call-register	1.0.2		041dce5381904dfc18767b9c0ed01938606f0d05
 com.ivianuu.essentials	essentials-android-data	0.0.1-dev1046		N/A
@@ -1257,6 +1258,9 @@ io.airlift	airbase-policy	254		2e3ebb5eee445e825d2cd9740a7e1d7ff9faa533
 io.airlift	airbase-policy	255		8a8a4b985b2a9d241b3a0d2899d7679f51ffd201
 io.airlift	airbase-policy	256		b660d82a60c2ca1c6b258c9e0935edaaa7bf89b4
 io.airlift	airbase-policy	257		565f99c78ef387945fbecbf8b57ac6d5d9066aa0
+io.airlift	airbase-policy	258		a1769756449c5e9cd94de785099a62165927dd65
+io.airlift	airbase-policy	259		88353ddf56452da560d66e4787f2b66c1909b649
+io.airlift	airbase-policy	260		d42d4cd02c2e08b469727e5b490609b9ff0d8e2a
 io.airlift	airbase-policy	79		d010b60fc016934e68ecae8e3d39d37799f0bd20
 io.airlift	airbase-policy	80		65e0f26271523d0118797546ff42cc3a174db4a2
 io.airlift	airbase-policy	81		1389c3f778e9772858000865cf49fcbdbb69c306
@@ -1484,6 +1488,7 @@ org.apache.karaf.jdbc	org.apache.karaf.jdbc.command	3.0.9		04f81d17ee6177f89d065
 org.apache.pekko	pekko-persistence-jdbc_2.13	1.0.0		cfc59cea1e40f1b96a8a7c4c99c37f405a5dfa25
 org.apache.pekko	pekko-persistence-jdbc_2.13	1.1.0		1460759c839808ed1ae9b5a294faf2df49837163
 org.apache.pekko	pekko-persistence-jdbc_2.13	1.1.0-M1		c2d6a7ca4161fd1c28211fb8eac5ddbbe5648386
+org.apache.pekko	pekko-persistence-jdbc_2.13	1.1.1		a15d87c994db4515ef67423a987f96a32a46e4cb
 org.apache.skywalking	apm-armeria-0.84.x-plugin	7.0.0		2c0cae4b3bf75e5826991bc49abe4f2325630e3a
 org.apache.skywalking	apm-armeria-0.84.x-plugin	8.0.0		25ed64ba61304e5156d2f0aedd80cbcb013096f2
 org.apache.skywalking	apm-armeria-0.84.x-plugin	8.0.1		d273e602e5d40c8d5ca27dd2da3482c33505ffea
@@ -2121,7 +2126,16 @@ org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-419		f3222a76
 org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-42		061699c324512a189f55b1f4522dbce4a154ec5b
 org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-421		736c78d5d6e41af133c97c3ba9b0d33e346082d3
 org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-423		8e674759ffa621340375c5205721fd802f908ff5
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-424		1d5c923e740390a584ef40b9aa4af41f5319e657
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-426		212a9065a4d092deac06eb93ab023119aad408ff
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-428		b07c1352a797626dc7c4b18938bf6747177c2908
 org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-43		b7382de1c38257d9148221ff62751fd11a70ce29
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-430		fac334525cf6e92966c33e599742211a3db6d8cf
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-435		939bcb7153f6d05fefcf9082d6988a8892fb7e66
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-436		c65bc29e1b8548072687921fa073b0dddbf67751
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-437		afd2292bd7b1ae1c3e5176bc0af345e4687e4cde
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-438		326f559217b2f613e781b7302033605895c8fa23
+org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-439		5f76bf4a2e30fa6237db322b74868ae48fbef462
 org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-44		f7061900d5f990e12e94bf6b20542bcc7290aaa4
 org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-46		e6b28b2c1b4b6fc681457255c8f23e0262a16239
 org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	0.12.0-47		79c45cf79c625453d410229bc8a588a40369aab5
@@ -2409,6 +2423,9 @@ org.scalanlp	breeze-natives_2.11	1.0		6f9a9245611329a41a8e41cf6237438fc5570838
 org.scalanlp	breeze-natives_2.11	1.0-RC1		ea1a7ca0093f67e8f2e5bedbdbd6b5de27c72e2e
 org.scalanlp	breeze-natives_2.11	1.0-RC2		5ae662adbe0ff11628cc14309d9d92d3a6699ba0
 org.scalanlp	breeze-natives_2.11	1.0-RC4		4a09eb620e535a02ac92eb020b8754e6e3b27a5d
+org.sisioh	sbt-aws-plugin_2.10_0.13	1.0.1		50b03de78d7f82087317d9d952fc17c74f7ba64b
+org.sisioh	sbt-aws-plugin_2.10_0.13	1.0.2		2741d1175ea6ba257289745fa4ce5c7d80e3b891
+org.sisioh	sbt-aws-plugin_2.10_0.13	1.0.3		b53bbfe683b3e84705b1159ec2cadd4d6e6f9f72
 org.skinny-framework	skinny-framework_2.11	1.1.0		2e7fb04cbc2f86bcd6d6db6eb9e68424331f04c0
 org.skinny-framework	skinny-framework_2.11	1.1.0.RC1		54c2c359e48c8a84ff43b03950fd4424d30110fe
 org.skinny-framework	skinny-framework_2.11	1.1.0.RC2		3e6fdaad9ba4ea19aaaf6ffc145909918e8901a3
@@ -2641,6 +2658,7 @@ ru.tinkoff.kora	opentelemetry-tracing	1.1.22		ffd516c5b3881fb064936d640c6c5a495e
 ru.tinkoff.kora	opentelemetry-tracing	1.1.23		1a11b73450c0070801ef25f56f2b19c4096cbf62
 ru.tinkoff.kora	opentelemetry-tracing	1.1.24		44d40de30a2424270761c7ab6cd61f26ab1f317c
 ru.tinkoff.kora	opentelemetry-tracing	1.1.25		da2b21d5a419cc80c5f42bef7c47b75bf727dc02
+ru.tinkoff.kora	opentelemetry-tracing	1.1.26		592bf9bca446807daf49bdf5aa1c4b94fbd24948
 ru.tinkoff.kora	opentelemetry-tracing	1.1.3		b74afc6fdc59574a57f371c8787a70db7f986136
 ru.tinkoff.kora	opentelemetry-tracing	1.1.4		8467671729adc16f16be1098485c6ab10be69027
 ru.tinkoff.kora	opentelemetry-tracing	1.1.5		2ae1fb8c7bbc9d10103b9dc0deaa3a2eb57649c3

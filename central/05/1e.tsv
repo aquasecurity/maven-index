@@ -1,4 +1,5 @@
 br.com.thiagomoreira.liferay.plugins.share-button-app	share-button-portlet	1.0.0		N/A
+ca.ibodrov.mica	mica-standalone	0.0.27		098326c0f43080ccd7ae88fa724baf125dfc656d
 cn.com.antcloud.api	antcloud-api-ak_df30b271632148128231f9b1bc2c04e1	1.0.0		d3aa1f583f3bc3b38e733eb3849158d48874b0c6
 cn.willingxyz.restdoc	RestDocBeanValidation	0.2.0.0		b6fa6e6bf931b63017d040aa1dbeadcf43eb39cf
 cn.willingxyz.restdoc	RestDocBeanValidation	0.2.0.0-beta		d513d761ee1972dc4d9e51b70c92057a111181dd
@@ -869,8 +870,10 @@ com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-42		
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-42	metadata	c852ac5fa300ef44a1063a945e00678a79d0843d
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.1.21-RC		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.1.21-RC	metadata	3cc3f4d00cf9b1d4e4780ffaa2314f5e0797dc90
+com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.1.21-RC2	metadata	81a3ad5c677b3e1fb3b52b7ed4199dbbaeacabb3
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1	metadata	9135563581d1e563a45a7ab0c692c2f4c1d8f9ed
+com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-43	metadata	ce4b872c041f43d85df6e4576a2312fa6727dd0a
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-5		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-5	metadata	bf6334cfc805c2bba368ed323f869ee77a024310
 com.rickclephas.kmp	kmp-nativecoroutines-core-iossimulatorarm64	1.0.0-ALPHA-5-kotlin-1.8.20-Beta		N/A
@@ -1422,6 +1425,8 @@ io.matthewnelson.kmp-tor	resource-exec-tor-macosx64	408.15.0		N/A
 io.matthewnelson.kmp-tor	resource-exec-tor-macosx64	408.15.0	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
 io.matthewnelson.kmp-tor	resource-exec-tor-macosx64	408.16.0		N/A
 io.matthewnelson.kmp-tor	resource-exec-tor-macosx64	408.16.0	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
+io.matthewnelson.kmp-tor	resource-exec-tor-macosx64	408.16.1	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
+io.matthewnelson.kmp-tor	resource-exec-tor-macosx64	408.16.2	metadata	8ac219ed6293ddecd4404d747f88d0c3d50fab65
 io.matthewnelson.kotlin-components	value-clazz-iossimulatorarm64	0.1.0		N/A
 io.matthewnelson.kotlin-components	value-clazz-iossimulatorarm64	0.1.0	metadata	7135d1acd92653f06ee21892c6fdf05d17c7fac1
 io.vertx	vertx-junit5-web-client	3.8.0		6e08ab85dc665706b713b7984de8795b0fbb9bfc
@@ -1770,6 +1775,7 @@ org.apache.camel.springboot	camel-rest-openapi-starter	4.8.3		2989662e6b076e8060
 org.apache.camel.springboot	camel-rest-openapi-starter	4.8.4		e5806b9ba9403330c8b6fbb5e53a4227884beaf3
 org.apache.camel.springboot	camel-rest-openapi-starter	4.8.5		1f2be8da0a4b3966187065b7ab0b99d8ac0caf26
 org.apache.camel.springboot	camel-rest-openapi-starter	4.8.6		1ec3f8ed8fe6d5784ec317e8efd7396d44b0e19c
+org.apache.camel.springboot	camel-rest-openapi-starter	4.8.7		d5f29263703da987207d6f388f0d3c7a758fb535
 org.apache.camel.springboot	camel-rest-openapi-starter	4.9.0		cbf9fd3270135f2f6da5f22709597c0c9df721aa
 org.apache.linkis	linkis-orchestrator-ecm-plugin	1.0.3		ada05f06465f33edca352de787e6b80139f7038b
 org.apache.linkis	linkis-orchestrator-ecm-plugin	1.1.0		94b44291f40c5d8db7d80630c0c21334f4ab7e5d
@@ -2138,5 +2144,6 @@ org.xdty.webdav	webdav	0.0.6		N/A
 org.xdty.webdav	webdav	0.0.7		N/A
 org.xipki.shells	dbtool-shell	4.0.0		aa3f335bfc50955dca4b09fc86f6d783efb351a2
 software.visionary.pump.up.the.volume	us	2025.03.28		N/A
+software.visionary.pump.up.the.volume	us	2025.03.28	pump.up.the.volume	e73a861bfc89dfd50e0c3750ac0622e3510b000f
 top.zenyoung	redis	3.0.0		b2c5e6cb0e348f14ea3514b964deab030b7c9cd7
 top.zenyoung	redis	3.0.1		5902c29d576e2428db4cb8e9d99a1a7745acebcc

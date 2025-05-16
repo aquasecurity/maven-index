@@ -298,7 +298,12 @@ com.hedera.hashgraph	hedera-protobuf-java-api	0.61.1		90b59d040e8ed1b033c30f248a
 com.hedera.hashgraph	hedera-protobuf-java-api	0.61.2		0bffa9588ef4d31b54f7a17c673bc2e9ea3eb2ef
 com.hedera.hashgraph	hedera-protobuf-java-api	0.61.3		64f227c88f096f53db6ed5a68ae40df7bfbac955
 com.hedera.hashgraph	hedera-protobuf-java-api	0.61.4		60ba74a106b6eeee935b185fff4ec0300a162e29
+com.hedera.hashgraph	hedera-protobuf-java-api	0.61.5		5754e7db96f25ce70bde6eadc782915d78c73ee8
+com.hedera.hashgraph	hedera-protobuf-java-api	0.61.6		6f55da0b88e5f024c8e9ac85d25c0ac93e3e35cc
+com.hedera.hashgraph	hedera-protobuf-java-api	0.61.7		9c91d96abc2e76085ca7d40ea7e0f607f0f3ff69
 com.hedera.hashgraph	hedera-protobuf-java-api	0.62.0		d0ff6756afbd60d882cedb6d8c82982ee2e6fbb6
+com.hedera.hashgraph	hedera-protobuf-java-api	0.62.1		234d67753f3739fad6591cb98137991c4ffc7b08
+com.hedera.hashgraph	hedera-protobuf-java-api	0.62.2		1aa68a3b1f400faa800becab9ecc1579bc1d2615
 com.hedera.hashgraph	hedera-protobuf-java-api	0.7.0		d9eea1ab8f237c15fea54d5cfdc56a54c3bc9291
 com.hedera.hashgraph	hedera-protobuf-java-api	0.7.0-rc1		016bc38998bc5ad8630b31412777d97662eebcbf
 com.hedera.hashgraph	hedera-protobuf-java-api	0.8.0-alpha1		bca69a8c20cfe96822839abbeb4f066f0e355bbf
@@ -1890,6 +1895,7 @@ dev.zio	zio-aws-quicksight_2.13	7.31.27.1		25822b381ab2a3144b5d5dd4ea5a03d89c1d6
 dev.zio	zio-aws-quicksight_2.13	7.31.28.1		85d251887ee56e26f5400d7d13e070336578fa2f
 dev.zio	zio-aws-quicksight_2.13	7.31.3.1		1ef1587026b89f1c965dc3a6e8f1c80069d43dd6
 dev.zio	zio-aws-quicksight_2.13	7.31.30.1		432c158c8dc942d1a186c8c5e1fc11fd06eff205
+dev.zio	zio-aws-quicksight_2.13	7.31.30.2		73d44f290e477b50e69bc7142469d338a187b570
 dev.zio	zio-aws-quicksight_2.13	7.31.4.1		77b4743c63bb4d2957d511f3263ffb67bdb2ee89
 dev.zio	zio-aws-quicksight_2.13	7.31.6.1		6a31e6da9dc5ea03b3f220908f420e46591d244b
 dev.zio	zio-aws-quicksight_2.13	7.31.6.2		7d0f02ac1a894b5c9bbc143951662be6a29cb5f5
@@ -3852,12 +3858,16 @@ org.hpccsystems	commons-hpcc	9.10.22-1		01a7821309088a7452af99437227738395906054
 org.hpccsystems	commons-hpcc	9.10.22-1	jar-with-dependencies	f12c55a7372154a586db2e94b921d4ee40f73f55
 org.hpccsystems	commons-hpcc	9.10.24-1		d7e61b5b58c950aa4ae98fc1a59739c99d7db92e
 org.hpccsystems	commons-hpcc	9.10.24-1	jar-with-dependencies	58ef153b05898785e512f15915bc203881e1e730
+org.hpccsystems	commons-hpcc	9.10.26-1		bfd709aa0775bb478077e1144c41280a7f2d64ed
+org.hpccsystems	commons-hpcc	9.10.26-1	jar-with-dependencies	b79dc5c2100116a5fa88e222714dfa5af2e58de8
 org.hpccsystems	commons-hpcc	9.10.4-1		030217108c5af14261a0c799d2e2af504e7bea6e
 org.hpccsystems	commons-hpcc	9.10.4-1	jar-with-dependencies	4a5f4153c53b6ed2aa5ba67f23cf7b7f2f861794
 org.hpccsystems	commons-hpcc	9.10.6-1		1023a8e92a858a2b09deb149ba2d7b750995f846
 org.hpccsystems	commons-hpcc	9.10.6-1	jar-with-dependencies	7e16e448708563da8df3e26b75e547c0c39105f6
 org.hpccsystems	commons-hpcc	9.10.8-1		acddb03144b6d5e510f73635acd0e157fe9ee022
 org.hpccsystems	commons-hpcc	9.10.8-1	jar-with-dependencies	6ee2029848e6a22610b42e20be14c6544ca710b0
+org.hpccsystems	commons-hpcc	9.12.0-1		f0ee2925af094a154a2e2942014d46d84ccfcb5d
+org.hpccsystems	commons-hpcc	9.12.0-1	jar-with-dependencies	309656a05e8348ea2c131e20ddf8dc464dad88d8
 org.hpccsystems	commons-hpcc	9.2.0-1		5220830d98170dea3db3e3c7ef4cc763886a4dc9
 org.hpccsystems	commons-hpcc	9.2.0-1	jar-with-dependencies	36ab819d550db75550d326b0bf650831f87bf0e3
 org.hpccsystems	commons-hpcc	9.2.10-1		032624627a2d441822c3a4af9bff3af38b5a4cee
@@ -4178,6 +4188,8 @@ org.hpccsystems	commons-hpcc	9.6.100-1		cf23ef9d576be997cf95417b5e7a501429e0568b
 org.hpccsystems	commons-hpcc	9.6.100-1	jar-with-dependencies	403a8f9db16044247b316def96b0f1b5a78e2af8
 org.hpccsystems	commons-hpcc	9.6.102-1		be977fbe844f722812d1b621883ed41cf934dd26
 org.hpccsystems	commons-hpcc	9.6.102-1	jar-with-dependencies	93c28826e6da3142211baadc6690f17dde9b59b6
+org.hpccsystems	commons-hpcc	9.6.104-1		fd5d6bdcaaa2198cef50d0a869e71e620b44f75a
+org.hpccsystems	commons-hpcc	9.6.104-1	jar-with-dependencies	15042c31400d0bd8c9c221b2e18a4707d611b62c
 org.hpccsystems	commons-hpcc	9.6.12-1		fcf4565eb96e6ee7e0a5310f9671cc99bc5e2924
 org.hpccsystems	commons-hpcc	9.6.12-1	jar-with-dependencies	80ebced263cee8f6e876ebe39a6a172b34d6642c
 org.hpccsystems	commons-hpcc	9.6.14-1		a2269d1e5989eb6cab8a84206321f0b55d56189d
@@ -4352,6 +4364,8 @@ org.hpccsystems	commons-hpcc	9.8.78-1		d12f8fc423e6229c0911db70fbfc1cd5a0e27ecb
 org.hpccsystems	commons-hpcc	9.8.78-1	jar-with-dependencies	d466f13aae8c6adea60062ac37930a734b8a0875
 org.hpccsystems	commons-hpcc	9.8.8-1		5cfe287bb3fa0dc80294e60e759dea40c86f3666
 org.hpccsystems	commons-hpcc	9.8.8-1	jar-with-dependencies	ea854dc48a169380bda1edc3babd404e85004938
+org.hpccsystems	commons-hpcc	9.8.80-1		aafcbdb4863c5ad9183d6e2b7eca1c00c10f3c38
+org.hpccsystems	commons-hpcc	9.8.80-1	jar-with-dependencies	f2514e9efe1f6169524e5a62ded0fa9f86325551
 org.jamgo	jamgo-snapshot-backoffice	8.4.0		2d1cd2806f718f5b5f67036b91a565667132aeac
 org.jamgo	jamgo-snapshot-backoffice	8.5.0		92ec5d4e4921067f3a5d8c40dfd91ca67416392c
 org.javaweb.rasp	javaweb-rasp	3.0.3		N/A

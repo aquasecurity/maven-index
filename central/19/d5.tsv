@@ -846,6 +846,12 @@ com.sun.jersey.contribs	jersey-apache-client4	1.9-ea04		d909e3bfb494492ebda14156
 com.sun.jersey.contribs	jersey-apache-client4	1.9-ea06		2fb70dc0b91ddf59af48fef5485c490402b595b1
 com.sun.jersey.contribs	jersey-apache-client4	1.9-ea07		9b62601b12aa3f3a2d7046228a4c7058dfd73724
 com.sun.jersey.contribs	jersey-apache-client4	1.9.1		6308c47a30e7ca59754275ef42b6174577dbe0b4
+com.swoval	sbt-clang-format_2.12_1.0	0.2.0		33565e067a6e0d314783a4d66950e67b06d29d3f
+com.swoval	sbt-clang-format_2.12_1.0	0.2.1		200a1507d52982106832dd121b4355954dbd5897
+com.swoval	sbt-clang-format_2.12_1.0	0.2.2		b47dd835b6860bddec0190c80a2b1a52e90e1d8f
+com.swoval	sbt-clang-format_2.12_1.0	0.2.3		0486b2e5a63d53b14359d5a492f091dfe823cd35
+com.swoval	sbt-clang-format_2.12_1.0	0.3.0		b546405cdd34db5927acbb2dba0fe8a1e8ad2f26
+com.swoval	sbt-clang-format_2.12_1.0	0.3.1		4d494d7769aad1b113b300311adf710a5372ab46
 com.yourmediashelf.fedora.client	fedora-client-messaging	0.1.8		3c20b81c69ab43f7f091f42631cdd6cd9345ce14
 com.yourmediashelf.fedora.client	fedora-client-messaging	0.1.8	with-dependencies	2825077ad80c7b91d46c214294324ebb5c29fcf3
 com.yourmediashelf.fedora.client	fedora-client-messaging	0.2		c1b7e7937adcc8d65efe19ec9c55fba0b4942a26
@@ -1113,6 +1119,7 @@ net.sf.tsl2nano	tsl2.nano.filter	2.5.2		38d047ef51989053f1bcb07459073f3e4094be2f
 net.sf.tsl2nano	tsl2.nano.filter	2.5.3		586103d9f9057e6bc3d67e866c1f5985a21f5428
 net.sf.tsl2nano	tsl2.nano.filter	2.5.4b		b34c4ea7648b8471204a25f558c1b1ebbcb21e15
 net.sf.tsl2nano	tsl2.nano.filter	2.5.5		1c8df485028f4df062a05e7e44cdf2a23a8a8ffd
+net.sf.tsl2nano	tsl2.nano.filter	2.5.6		e894200047086b8ccaaa6f6c4126dd179c6abc0f
 nl.rrd	rrd-utils	3.0.0		1575b461effb64adde997c1e6f5ce6c6b9c2277d
 nl.rrd	rrd-utils	3.0.1		5d7cbed36fb977a445bb89f2a174be8588f8420f
 nl.rrd	rrd-utils	3.0.2		dc0444f30e48f5865afc0847ca8c139a076a8dbb
@@ -1294,6 +1301,19 @@ org.eclipse.dirigible	dirigible-components-ide-terminal	11.41.1		ddce182b496dfe9
 org.eclipse.dirigible	dirigible-components-ide-terminal	11.42.0		5efbcc64ef5f02bc5df67d03a329deadcf898b1b
 org.eclipse.dirigible	dirigible-components-ide-terminal	11.43.0		134425a5975104d9f140683a18945db2f77f328a
 org.eclipse.dirigible	dirigible-components-ide-terminal	11.44.0		f2d4eb8148e1eeeb3e922a39c778008fc575139f
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.0		1184efb65d7ac8ba8ab2dddfb3e0be0ec21bb711
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.1		eb968b23b8a748dea7f0b408472c131c8a535f31
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.10		68dfd662c16dc97f49f366bac11f46fce713e8a3
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.11		bda5d27c094b1cec0bfd8bb8b9f4540b93d3fb0f
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.12		b0a0d101e59c43340c29b8a92d6788de9b17757c
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.13		8d720bc321f221d3e89a615c7388bbd43dc59af8
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.3		65f03cd3b5fbbfb35073c0dc23c71657d0a39f56
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.4		f4ea5ad7250ee608ba5e0292a6e6866d467a276b
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.5		ffae360c9f22412db2070dcd1a5c2e8faf180bee
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.6		6369bff7badcc93b9041379df57a42478eaf3262
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.7		4131fd246213c063ede5a6bbea030c987bd578ac
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.8		2b7b50c6334c132e9b79f6a8515a073ec64bafca
+org.eclipse.dirigible	dirigible-components-ide-terminal	11.45.9		76489e49fe90a14bf0f3fb5f3073b1db3b0ec632
 org.eclipse.dirigible	dirigible-components-ide-terminal	11.5.0		6816ce1487ff112319e041b5c1430698bd653739
 org.eclipse.dirigible	dirigible-components-ide-terminal	11.6.0		9373844dec658f212b90bac3ab2ba083c9b731e7
 org.eclipse.dirigible	dirigible-components-ide-terminal	11.6.1		b572d2a152908aec6d692349be353b1ae25fb26a
@@ -1594,10 +1614,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.8.0		0
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.80.0		71942099870ef9eb7247dcea08c95ca90c8a821e
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.81.0		1e4e98e64dab2108e4106d0cf6171451713ed6d0
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.82.0		161ed32340375d4a4d7974e4a469de4471995739
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.82.1		e0c1d51101ecfbf27849db2eb8337728c5ec5714
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.83.0		dec1ed466e9fd62c18ae71abcd1cbf651de0f605
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.83.1		9ac6d775d0383b7a6a5b64c4ca3fc92c7499d672
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.83.2		8c38c90bb6df4c0e22388e5de61b284a37299f3c
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.83.3		d684023a3c5494861d480855788af1d3181ba036
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.84.0		e1a4b941fe99e6678cccbc28908a6a111371c03a
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.84.1		f5f2084a0df7ca4897098107427f67526c955ad7
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.85.0		6a683c1177c3c923979f9cad298bcbb9f0617edd
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.85.1		5f4dd06b101801f3fa60a4787c36383c85bb6e02
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.85.2		5f5a01b1268d4246cc6415ea8298d3ddb6d45be5
+org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.85.3		386b36663bc861c919b9ce4e97e477db90a16f1c
 org.finos.legend.engine	legend-engine-xt-relationalStore-trino-protocol	4.9.0		e4b617161e1cb14022d93240bdc7cceaf0ad3db8
 org.geckoprojects.emf.utils	org.gecko.emf.exporter	1.0.0		A96503B986169D64F5924691A363072B30774059
 org.geckoprojects.emf.utils	org.gecko.emf.exporter	1.0.1		1CB878CF1E783ED889CC09DCBCD1524D749DFDED
@@ -1996,6 +2023,7 @@ org.opennms.features.topology	org.opennms.features.topology.api	33.1.2		36656d40
 org.opennms.features.topology	org.opennms.features.topology.api	33.1.3		dc112312e1e295820481afa7f7f4e1b5bb9dbd35
 org.opennms.features.topology	org.opennms.features.topology.api	33.1.4		f4c59f7c8c4f03b373f066fc67e5ada8638657c9
 org.opennms.features.topology	org.opennms.features.topology.api	33.1.5		04787856484daebc0c4361f4729f9f000f24dcbd
+org.opennms.features.topology	org.opennms.features.topology.api	33.1.6		a4f861de14314ffc38008094f046340fc8d85b7b
 org.polystat.odin	utils_2.13	0.1.0		2d257b6b14160604ba19b6c8e5d3ce6caa64dd82
 org.polystat.odin	utils_2.13	0.1.1		b7ecf8bd101cbc6aab643430d39c7de706d7d0b5
 org.polystat.odin	utils_2.13	0.1.2		f2485030181716bddf1dcdc83fd5b856cd587719

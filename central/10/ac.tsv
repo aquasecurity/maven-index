@@ -104,6 +104,18 @@ com.ibm.mfp	mfp-java-token-validator	8.0.2016082422		24a661fe8fae2b953fca1e8b72d
 com.ibm.mfp	mfp-java-token-validator	8.0.2017020112		d3f8a351a4dd9faa298e859028d0d18e8a97a18a
 com.javaguns.roses	customer-business	8.1.2.1		1fe2292998fb70b7f162ab04b543875d97071589
 com.kennycason	structural	1.0.0		234bfea456b56e6a63dd40152bf9beb567baa181
+com.leobenkel	soteria_2.12_1.0	0.3.0		de4f41bdf6ccb7793c0624f14ea4ad96c437779d
+com.leobenkel	soteria_2.12_1.0	0.3.1		eb04c4cb4b4f787b20061187a01c322ce00b2ef6
+com.leobenkel	soteria_2.12_1.0	0.3.2		703413239465f5132e1127eb57671dd8dc4db7bb
+com.leobenkel	soteria_2.12_1.0	0.3.3		93aa90258f46dc5393dc99023bbbce46d30f43d6
+com.leobenkel	soteria_2.12_1.0	0.4.3		8a3185e50c941d194b786a28bb810d4b99722a95
+com.leobenkel	soteria_2.12_1.0	0.4.4		3cd4d4b344f03ff6a64ef5a65b957d7864676f36
+com.leobenkel	soteria_2.12_1.0	0.4.5		0b79d61c0d467bd6858606102f9963515d4eee25
+com.leobenkel	soteria_2.12_1.0	0.4.6		262f8bc9b5a095dba7d402325d51ae79880ee460
+com.leobenkel	soteria_2.12_1.0	0.4.7		1f511c3b68cd4bf80e2b0c3e0d10bc1032ec13aa
+com.leobenkel	soteria_2.12_1.0	0.4.9		8e76af494440b7c2053157035ab888eb55bcc691
+com.leobenkel	soteria_2.12_1.0	0.5.0		24eb5c251f8b1b13e1ff268a4d758f0e85d9b005
+com.leobenkel	soteria_2.12_1.0	0.5.1		218dcc3da88fde690b1428c4987623bdcba85fa0
 com.liferay	com.liferay.portal.configuration.metatype	1.0.0		3c5933c5bf91f106e8ef6034d18f22314d034bc6
 com.liferay	com.liferay.portal.configuration.metatype	1.0.1		459299cebf7367c41f860348b798e2869a630670
 com.liferay	com.liferay.portal.configuration.metatype	2.0.0		99206c6fa2b5fa38cef10218798cb703c2aca14a
@@ -365,6 +377,8 @@ io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-103-a2e4b9		42ccde293731f6
 io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-107-cb7328		dd28db7ab06a70b9c37774edd42cdf9dfcda0ce4
 io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-108-721e87		1a5cf7d5fea7a44017428d2ab594972ca9766202
 io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-109-dd51ff		2e2e0394f271ed363e91637f1ef5d81f9091d24c
+io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-110-420833		80c5b972abb81084749bc3dbe80251c68ac8dce1
+io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-111-eb6e08		14d65dc44d8a722859dfe01915acfc30ff69dc08
 io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-41-7a9754		6b99b1165ec552fe84f4d5f63d873f088599ceb4
 io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-44-885bdf		c58df8300b2c1e5b21b7c46613372545ccfcba31
 io.get-coursier.jvm.indices	index-linux-ppc64le	0.0.4-55-a6b65a		420a706a3cefd2e85d2f7251fc903fab5717fc61
@@ -611,6 +625,7 @@ io.helidon.common	helidon-common-configurable	4.1.6		60b5ddac7c54ddd3b0fddcc3cb0
 io.helidon.common	helidon-common-configurable	4.1.7		cd34a54eeed3a43896b747df25bcadb0a7fc9452
 io.helidon.common	helidon-common-configurable	4.2.0		db3283ca2a57891f2b3934ded333b97884c639f7
 io.helidon.common	helidon-common-configurable	4.2.1		4814d6eac3c72a86fe8681c23dfc853a33568434
+io.helidon.common	helidon-common-configurable	4.2.2		c0a7b9bfeb79252f88cfb0756243d6c21be00a44
 io.holunda.polyflow	polyflow-taskpool-sender	3.0.0		6a8ce58d6db626ae033face76876224d77969685
 io.holunda.polyflow	polyflow-taskpool-sender	3.0.1		c759c06e04452269845f45c420b870d95c637ed0
 io.holunda.polyflow	polyflow-taskpool-sender	3.0.2		6055b93385f94b9117c70fa5d46cfac2e6cb45e9
@@ -762,6 +777,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3	2.13.3-alpha		8683f506913e6456f973998e4c660fc4bbea9ae1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3	2.14.0-alpha		4b8012f5f6c7ceee8699ec830df33e806f568a4e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3	2.15.0-alpha		f784eb70dd27b8fccba86fd25eca0b51a99a6091
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3	2.16.0-alpha		7125fb285c83fffc01272275d6f0a73043164e0d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3	2.2.0-alpha		77f8e94bf0173d672fd2dbc8b47861fef5c3c93a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3	2.3.0-alpha		401d31558c200d11ccc0b0c8de9ed096bb3f6bfb
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-hibernate-3.3	2.4.0-alpha		91419e6c3eebbccfbbe0b7b57a1aa0307be299ed
@@ -960,6 +976,7 @@ org.apache.camel.quarkus	camel-quarkus-syslog	3.2.1		6a5e5cb085bc389c917b8273433
 org.apache.camel.quarkus	camel-quarkus-syslog	3.2.2		2751c245c07eea7da416caa8292b1d7b4795b2cc
 org.apache.camel.quarkus	camel-quarkus-syslog	3.2.3		1839ae4bbd8a5d25b1fbc674d264172359ec4bb9
 org.apache.camel.quarkus	camel-quarkus-syslog	3.20.0		2706fa083447c8332198cd14b2f398071e1ec153
+org.apache.camel.quarkus	camel-quarkus-syslog	3.20.1		3af2d6f3635e4aae983a59e6c2abdad525496848
 org.apache.camel.quarkus	camel-quarkus-syslog	3.22.0		8ba3dd0afb3bf4aaaf3437af28d8012e20179996
 org.apache.camel.quarkus	camel-quarkus-syslog	3.4.0		dfc98ee75714bcf7769e4ead9d056532e486b17e
 org.apache.camel.quarkus	camel-quarkus-syslog	3.5.0		c90b043fddcaad5c49e3134fc10e5b6c38e9a8e1
@@ -1028,6 +1045,7 @@ org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.2.1		e342c4c6213b56c239c7d9e
 org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.2.2		d10c98598e348514e1550a549d30be5a76a8cb4c
 org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.2.3		87ae79fbcd3469d48a4c1220591d4494c204d1bd
 org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.20.0		70b47cbcd557460b22624d1718120162ed620050
+org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.20.1		c548610f54e6ccd928d0cb12d670424eb2ac6166
 org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.22.0		e22dd603f9e7ca8ec18fe5197f3e293cbc310186
 org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.4.0		95813aec36ea49c5273be7c60bf345457e441364
 org.apache.camel.quarkus	camel-quarkus-xslt-saxon	3.5.0		6928530d60638c3794d74310cb6d868c77d9bb30
@@ -1143,6 +1161,7 @@ org.apache.camel.springboot	camel-aws2-eventbridge-starter	4.8.3		7fd42b5f669422
 org.apache.camel.springboot	camel-aws2-eventbridge-starter	4.8.4		f29338139ecf879cd1dff90bfb1e889017e21090
 org.apache.camel.springboot	camel-aws2-eventbridge-starter	4.8.5		9271f97d92589a68b745caa4af1f63749bbe2099
 org.apache.camel.springboot	camel-aws2-eventbridge-starter	4.8.6		cd180ecf19dc7e38de4196f5f1dab7992391f509
+org.apache.camel.springboot	camel-aws2-eventbridge-starter	4.8.7		6ef3c6cf7a7b32ce68f165f2806f0f645a99225d
 org.apache.camel.springboot	camel-aws2-eventbridge-starter	4.9.0		bd7efa10f812c69d79f807d796bc66df748d0294
 org.apache.geronimo.applications.console	geronimo-console-framework	1.2-beta		N/A
 org.apache.geronimo.applications.console	geronimo-console-framework	2.0.1		N/A
@@ -1209,6 +1228,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.hapi-fhir-structures
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.hapi-fhir-structures-dstu2.1	7.0.0_1		8fdd9e6c9546aac3bf7c7a62baedd33ddb587bfb
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.hapi-fhir-structures-dstu2.1	7.4.3_1		9e921f591175a4095fe34cae710d26a84dc2a9fe
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.hapi-fhir-structures-dstu2.1	7.4.5_1		c3cf41fd419bd053148b66ca86819ecf9980868a
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.hapi-fhir-structures-dstu2.1	8.0.0_1		a82330fbdd1a7abab096151a291cdc14a237ef12
 org.apache.tika	tika-parsers-ml	2.0.0		N/A
 org.apache.tika	tika-parsers-ml	2.0.0-BETA		N/A
 org.apache.tika	tika-parsers-ml	2.1.0		N/A
@@ -1581,10 +1601,17 @@ org.finos.legend.engine	legend-engine-test-runner-mapping	4.8.0		19c4d70d577197a
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.80.0		72e4200e13681e15692b0e64bacdd2e826462b51
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.81.0		d515e73fb568f0a4a1e240d1d2b984c02608a161
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.82.0		7ac382938f2d1214a8b53aeadda663f95e2b89eb
+org.finos.legend.engine	legend-engine-test-runner-mapping	4.82.1		5ff432b4a40677df95476b5fde01b01a8ba97db0
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.83.0		eab96ccc8027b39636c2bc3fc3fc3ecd74ed091e
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.83.1		f88955d2553811dbb1f6c58523ac2bdc74b0f51f
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.83.2		f274bad95e4231fba0979b2e50391a1037ab2930
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.83.3		3737610881308b532c4fd3e6defafcb9d1529e41
+org.finos.legend.engine	legend-engine-test-runner-mapping	4.84.0		10e8968db95675e1c738e4a9910a7aed8479bfc4
+org.finos.legend.engine	legend-engine-test-runner-mapping	4.84.1		9740583c203765b046b502bdc842e871b37d44d1
+org.finos.legend.engine	legend-engine-test-runner-mapping	4.85.0		98e3d5fab32f58e4d5d9f4bca408424e0fe7f7c1
+org.finos.legend.engine	legend-engine-test-runner-mapping	4.85.1		da1225f446614da89e0081c836992ae745384287
+org.finos.legend.engine	legend-engine-test-runner-mapping	4.85.2		61aceb1730ad9e82dd5c146d0f9638e864919786
+org.finos.legend.engine	legend-engine-test-runner-mapping	4.85.3		a399427ea88ecd68a618d9a21d0b788e943ffbfa
 org.finos.legend.engine	legend-engine-test-runner-mapping	4.9.0		b3282092eb516678ed1abb440e7c66c8938bc974
 org.geckoprojects.messaging	org.gecko.adapter.eventadmin.tests	1.1.0		858B04ECCE3525A81361AE75BCD54DD9B45C6F90
 org.geckoprojects.messaging	org.gecko.adapter.eventadmin.tests	1.1.1		12AD16222A966F1832B4A7A0F3A229B89B8F1C22
@@ -2048,6 +2075,7 @@ org.tpolecat	natchez-lightstep-grpc_3	0.3.4		63ab01e7eb0cf6707cd974ddf2f7219bcde
 org.tpolecat	natchez-lightstep-grpc_3	0.3.5		9d4e6eb49bab64ae556772941780fc5f41bbe6e4
 org.tpolecat	natchez-lightstep-grpc_3	0.3.6		6692883f8f1a5af09a387d88bdd8ab223b657ba3
 org.tpolecat	natchez-lightstep-grpc_3	0.3.7		2bc48a67e192cafe16cac026ac4d97c62c3af148
+org.tpolecat	natchez-lightstep-grpc_3	0.3.8		cce5e855d2200267feca63923ba785890c7e9ece
 org.uberfire	uberfire-widgets-core-backend	0.1.1.Final		8b44746b79121d70eb44c7f31c54e3520fee8c34
 org.uberfire	uberfire-widgets-core-backend	0.1.2.Final		2d6f287df46a042404e15e4a43a09096173cde25
 org.uberfire	uberfire-widgets-core-backend	0.1.3.Final		1ce93aae8f03537ff3e4027f8154ef5ef0f679e4
@@ -2552,4 +2580,5 @@ software.amazon.awsconstructs	s3sqs	2.83.0		3f8b0b695fbdb15ca8fbb42102e69147015e
 software.amazon.awsconstructs	s3sqs	2.84.0		8fe29cb66f7a5d8016b99fd08c714717de431fdf
 software.amazon.awsconstructs	s3sqs	2.85.0		b3ff16d7b4523720eb823ac639fd6e69698dbcac
 software.amazon.awsconstructs	s3sqs	2.85.1		10693748d2192b628ef3a0221c801a494207be7e
+software.amazon.awsconstructs	s3sqs	2.85.2		446d882a7281959aa5b1c882ef69b4241ad57302
 software.amazon.awsconstructs	s3sqs	2.9.0		ef6dccdb2eee339ecfb8a22ae434c601f142d024

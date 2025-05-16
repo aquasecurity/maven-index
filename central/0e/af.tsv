@@ -668,6 +668,7 @@ dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.27.1		6bcfed889897c00aae302c46a
 dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.28.1		6028c89e12f689a6ba4d0aa082bc4aae12bc4baf
 dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.3.1		959e0f21c4d039ce8091c4f56e8ed86947fed04f
 dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.30.1		24014437edbe61a8dac8262053644544f78883fc
+dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.30.2		61e7cebb73745f8eca374b10d9d7118e8d7a8040
 dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.4.1		4ff178f601b6f71e0ce78991f90fc53755d6dcc1
 dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.6.1		ef2a81e5efbdf56021fcf1052fda273813ebd68e
 dev.zio	zio-aws-elasticloadbalancingv2_2.12	7.31.6.2		6604654f622e94fceabc7d544ff369a498e786de
@@ -818,6 +819,7 @@ io.getkyo	kyo-prelude_3	0.16.1		968816efddf73886e0563de5d76f4ccb1fe30205
 io.getkyo	kyo-prelude_3	0.16.2		7faab01ede677731cc9cba88d115998c2cc902bb
 io.getkyo	kyo-prelude_3	0.17.0		4510165b2f36b470f26da46f166dfebf353d3715
 io.getkyo	kyo-prelude_3	0.18.0		f91bb5611c0ca0f7994adf06ad49b1cd587ddfe7
+io.getkyo	kyo-prelude_3	0.19.0		85b6eb562f1bf12198ddf2ad969354ddd547ab4c
 io.github.ericsson-mts	mts-asn1-per	0.0.4		05fa39942cf662c6c29c49875ff67fff25623824
 io.github.ericsson-mts	mts-asn1-per	0.0.5		737e039224a0e9be864ee161c99075b35e3e5405
 io.github.ericsson-mts	mts-asn1-per	0.0.7		9ab4ec32f2bff7dd058c0d4cf21a1035c135072c
@@ -925,6 +927,7 @@ org.apache.camel	camel-cxf-spring-common	4.8.3		0f97674483f8a8064c1d3f21c9d0b5d5
 org.apache.camel	camel-cxf-spring-common	4.8.4		433df126d37eb6acd7a390995f04d889f388afaf
 org.apache.camel	camel-cxf-spring-common	4.8.5		a9afc7b0dee0b79b1c067cc1b881d804db377b7a
 org.apache.camel	camel-cxf-spring-common	4.8.6		2da79edb53466c6612e5bbbe9f22a5b71c0e0986
+org.apache.camel	camel-cxf-spring-common	4.8.7		cf19bbc5017f488062796f1b2169f9ab44fccbe6
 org.apache.camel	camel-cxf-spring-common	4.9.0		eff5879414aeb2dea5b6ca34347a09f403d960d6
 org.apache.camel.karaf	camel-elasticsearch-rest-client	4.10.3		55de9cb3c95cf4a062e7d6b8a638a37adaf05ce8
 org.apache.camel.karaf	camel-elasticsearch-rest-client	4.7.0		99c290bf7629ab554438db163f0ce0a1288547a0
@@ -947,6 +950,7 @@ org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.17.0		f175d3c
 org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.18.0		d6fe6dee38d05009e1f395ce95a10dd2ae419af3
 org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.19.0		7ef32d46a310dae7957db9c54b2d6edf7909fb65
 org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.20.0		6a80ba0cf23791398bd2ceb4226a110ce14aa75e
+org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.20.1		b78bbffa685ae8df0910c04ca800eb2b5a46fc9a
 org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.22.0		8d79a9f660089860ad647da99d066f191018ef5b
 org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.8.0		f8b93744a9bccbcdfc38b2537504e30ec6899d59
 org.apache.camel.quarkus	camel-quarkus-elasticsearch-rest-client	3.8.1		3171cfde703c19ff4d5f64f2000c229ffbd45cd5
@@ -1071,6 +1075,8 @@ org.bardframework.commons	common-sms	3.7.1		b316a07611861d1af2507e1e3eb65658ee81
 org.bardframework.commons	common-sms	3.8.1		dcf86489078b86b5d36fe5979e688386957eada0
 org.bardframework.commons	common-sms	3.9.1		11ed78bc4ac5901219b81e81fbe3c16f576649da
 org.bardframework.commons	common-sms	3.9.11		d4d155285e8c9c3025f57c753aa5ffd15eed382c
+org.bardframework.commons	common-sms	4.1.11		b0a9977e96a699b7b02a210610eca3411dace93a
+org.bitbucket.pshirshov	jacoco4sbt_2.10_0.13	2.1.7-AGG		f417563021949aafcabdab1e87ee9047599b7c20
 org.bytedeco	hyperscan-platform	5.2.1-1.5.3		9bb4f842789d32255da4d8e420fc8cf98fa4c667
 org.bytedeco	hyperscan-platform	5.3.0-1.5.4		9d05068c72fa9ff0bd74cae0ffb0d139a9e81932
 org.bytedeco	hyperscan-platform	5.4.0-1.5.5		8e010a9e2f107191352758f5a61c428380d55990
@@ -1454,6 +1460,7 @@ org.scala-lang	scala2-library-tasty-experimental_3	3.6.4-RC1-bin-20250112-ae980a
 org.scala-lang	scala2-library-tasty-experimental_3	3.6.4-RC1-bin-20250113-c10def4-NIGHTLY		78fc278b643db8d482c7feea5806d50225d39ab7
 org.scala-lang	scala2-library-tasty-experimental_3	3.6.4-RC1-bin-20250114-312c89a-NIGHTLY		c49a2f92a64b93add6bd8b47edc45034cf300d97
 org.scala-lang	scala2-library-tasty-experimental_3	3.6.4-RC2		ce8372614f90b35b76e383a56cc9f5846a95df5e
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.0		7b902ce63811e7c0a2e54c13eb8731cdd85ba3b8
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.0-RC1		58fd0ff8938af4544deb0a0a0e6638dfe6036d09
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.0-RC1-bin-20250116-0f9e502-NIGHTLY		b3f9bd9c9910fd55b6d22d40848401d26eb683e3
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.0-RC1-bin-20250116-8b27ecb-NIGHTLY		ccafa345999c715c276238565569cad32642cef2
@@ -1496,6 +1503,7 @@ org.scala-lang	scala2-library-tasty-experimental_3	3.7.0-RC1-bin-20250312-3fe930
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.0-RC2		fb5c807b3ef073485a2f55ee6c0561b4110776c1
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.0-RC3		a85b3b73c166fc60a3c3b4a4dffac5484e24b053
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.0-RC4		e63da59d6aef392ac163cbfb3572ceb48bd75e27
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1		c47a08a352d5243cc56cb919d2202a6d3a0d4029
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250313-596538b-NIGHTLY		3330d0a4f71e76e8280b7c3568e614267f17f99f
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250315-8734fbd-NIGHTLY		73c312d921a6e6d8bb0aa5559e7dde6f59d28a76
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250316-28072c5-NIGHTLY		dfb979c5899ee7528690be4d6bc7235f0e5b5542
@@ -1525,6 +1533,17 @@ org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250425-fb6cc9
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250428-08f2e4a-NIGHTLY		f41c54b270d37cbd4119bfc499d167d23f52ab2b
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250429-57807c6-NIGHTLY		4c9af5e426ff7f3d4897a904a027673d5911bc97
 org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250430-c4531d4-NIGHTLY		c93c569e425d965d12ace6c51f1f823ebb124043
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.1-RC1-bin-20250501-83ffe00-NIGHTLY		11df7bfb95b3eb6350d162aaa6ffbf9a098ad979
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250503-453f94d-NIGHTLY		dc709d92f0101bd0a57221eb763588d9511f2bd5
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY		84ada76f43097bd5840e61208f41ddbf22a6ee36
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250507-c49ff71-NIGHTLY		389d502b498e85924b44a1eb3416b790216a8bdd
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250507-c85982c-NIGHTLY		c9b8681f17a69fad51a4e7f4e5d02ec7ae1311cf
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250509-c3642c0-NIGHTLY		f23790859444b826945bd8bdd65f05dadb77479a
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250510-f784625-NIGHTLY		93c485bc938417597a5726e200315db676760426
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250512-e52986c-NIGHTLY		6130776ac29421215c9238cd86a29af6c98a789c
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250513-004579e-NIGHTLY		c7c231ac9f6c69997040e2f833e7293d53506223
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250514-a553986-NIGHTLY		ccfa1b54d54bda06b4d680d500b0778f2b8e931e
+org.scala-lang	scala2-library-tasty-experimental_3	3.7.2-RC1-bin-20250515-c481e91-NIGHTLY		0053e49265750404dce37151de3384290bb2254d
 org.spincast	spincast-plugins-undertow-tests	0.9.10		038d82129a2597069c45c3241f9165cb7afea9d7
 org.spincast	spincast-plugins-undertow-tests	0.9.11		8360cb6ca8398a73bb4564b01a4a66a4622f74b3
 org.spincast	spincast-plugins-undertow-tests	0.9.12		b304b9eb21e8a98e5498b6d6e6ed995b7f93a3b5

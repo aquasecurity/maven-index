@@ -224,6 +224,8 @@ com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.63.0		8401f4d0
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.64.0		8f02ebcfab3b49203a67b5e00d328af0665d2d57
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.65.0		42e3b423dcb2074ae782c0ef8f50bc37323d46bc
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.66.0		3637785d2f276d6d03d3882d993bd6a1cd1cbbc5
+com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.67.0		5e76df46af2409b1f53a3a3f88da7d0dbb314a1b
+com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.68.0		fdcac376ebf4477efe55b1d7cfef5574ec30fa7e
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.7.0		6d636c09bf912e058e7c0a446f52c02ec8cbb345
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.7.1		a952ee59f7a534795725e1eecd2fd5042f00ac0e
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1beta2	0.7.2		6a89c7c6afe00a2265cf9843a7bda414501d0d0a
@@ -690,6 +692,7 @@ dev.zio	zio-aws-neptunegraph_2.12	7.31.27.1		d32f72b8e5c3736b19423f58b7333fc9914
 dev.zio	zio-aws-neptunegraph_2.12	7.31.28.1		4c8b943ac952dfa96604cf3b7107aac8e389a0b3
 dev.zio	zio-aws-neptunegraph_2.12	7.31.3.1		66abf7a683fed937802a626f69818a4241c41ce7
 dev.zio	zio-aws-neptunegraph_2.12	7.31.30.1		242161993c833fdae65b236a980d7069bcd46302
+dev.zio	zio-aws-neptunegraph_2.12	7.31.30.2		852b107e891e14f95d351118a074306916d2f86b
 dev.zio	zio-aws-neptunegraph_2.12	7.31.4.1		f31b28a5af8560b45e15f1f2aa984bf61183fe57
 dev.zio	zio-aws-neptunegraph_2.12	7.31.6.1		201818c1348c03a76b47c580dba6faac9f557f8b
 dev.zio	zio-aws-neptunegraph_2.12	7.31.6.2		c8e94d6f5173fdc195500ab0bfe5bf77f2ca5d53
@@ -741,6 +744,7 @@ io.helidon.webclient.dns.resolver	helidon-webclient-dns-resolver-round-robin	4.1
 io.helidon.webclient.dns.resolver	helidon-webclient-dns-resolver-round-robin	4.1.7		1c22633c8e217b9f9a73673bb80d9cc0bacec2d9
 io.helidon.webclient.dns.resolver	helidon-webclient-dns-resolver-round-robin	4.2.0		63ac193698a0cfa217c9a9f7e484bce3f05d908c
 io.helidon.webclient.dns.resolver	helidon-webclient-dns-resolver-round-robin	4.2.1		60dabcb5d31e243ea1f8a38b4921ae352e3b879c
+io.helidon.webclient.dns.resolver	helidon-webclient-dns-resolver-round-robin	4.2.2		25cec741e2724289a9896a9494b7bf6924d00bea
 io.jooby	jooby-kafka	2.10.0		0336361ffc65626e5f8b5bbb5545cafdbfe38c6e
 io.jooby	jooby-kafka	2.11.0		fdf75e07987b63867c655f482679c1e533721517
 io.jooby	jooby-kafka	2.12.0		2cd80c62720e2abea74cd544590093f9337e4b3c
@@ -810,6 +814,8 @@ io.jooby	jooby-kafka	3.5.5		0356982ff433fa02498db11ac8a247aa347f09c3
 io.jooby	jooby-kafka	3.6.0		5a6b3056a1825155f013c2770930dd6d3e66ecfa
 io.jooby	jooby-kafka	3.6.1		4dc507dddd5e33a60bf60c81f3b2def42d63dc36
 io.jooby	jooby-kafka	3.7.0		e6a1c58d43bb353dd27e8a2904d855f28ea37f3a
+io.jooby	jooby-kafka	3.8.0		5afc74a0301fc27e98eebd1d59da962358cb0c79
+io.jooby	jooby-kafka	3.8.1		52eafe54e980bd3f76f1549d10b18fea982ecceb
 io.monix	newtypes-core_native0.5_2.12	0.3.0		0d44340ed955e7e9594e2eac1ad809c6fcd524b9
 io.resys.hdes	thena-docdb-pgsql	1.0.9		48583c3e931d494f16f9d047c1e941980ae110c6
 io.resys.hdes	thena-docdb-pgsql	1.010		ea5c0e07a71b107d5dfd075224f97a702c9bef49
@@ -829,6 +835,9 @@ io.resys.hdes	thena-docdb-pgsql	1.1.25		f797ca8bfa3fe2f3e3c5379c051de218be8f2240
 io.resys.hdes	thena-docdb-pgsql	1.1.26		b8235d0fd2b6c636685b00feb6a8e05bf6562baa
 io.resys.hdes	thena-docdb-pgsql	1.1.27		bfbe493461c2ab203ba4626106214ee8dfec7c6d
 io.shulie	tesla-sequence	1.0.1		75e040f591859151172a72a3a5400a75db1f2251
+io.sphere	sbt-modules_2.10_0.13	0.1		eae53c79a88f8dd49ca901abb4c20b6a460d93a2
+io.sphere	sbt-modules_2.10_0.13	0.1.1		4177e73e884575dbfae916ab039114923d652703
+io.sphere	sbt-modules_2.10_0.13	0.2		5f4048dd5559fa67777a4dc410babb91b6653bd9
 io.thorntail	camel-ejb	2.0.0.Final		dcd20a311f3c84ab76a78e3058a1fd42bc1041fd
 io.thorntail	camel-ejb	2.1.0.Final		1a4299b41009e92ce07de755b8e22ad45a9e46b0
 io.thorntail	camel-ejb	2.2.0.Final		4cfcf2ba44f86a333def681b8ec9c7945b2d9831

@@ -722,6 +722,7 @@ io.micrometer	micrometer-registry-datadog	1.13.10		6158219eb0f0fb540b39d4684d803
 io.micrometer	micrometer-registry-datadog	1.13.11		3476dc9c94311cec139b81e84ead4c0807f1e7b3
 io.micrometer	micrometer-registry-datadog	1.13.12		cb8cbeab5004426f921fb8855900268ac381c0ad
 io.micrometer	micrometer-registry-datadog	1.13.13		02ab3d02ca19f43f5ff9d48e7b15526c960218af
+io.micrometer	micrometer-registry-datadog	1.13.14		51be456f0f254018522ab1275a22ccf190cc2620
 io.micrometer	micrometer-registry-datadog	1.13.2		fed8b41e7fc38278a45feb8c1401770eee1ffe46
 io.micrometer	micrometer-registry-datadog	1.13.3		e0076a6799708d966998a12444ed1b453f05b25d
 io.micrometer	micrometer-registry-datadog	1.13.4		759d0f66a65819cbd2e359919471a77ac534fe33
@@ -737,6 +738,8 @@ io.micrometer	micrometer-registry-datadog	1.14.3		def664d35a48643651daf4ea84b252
 io.micrometer	micrometer-registry-datadog	1.14.4		44b80cd8907afe6c6dbb1084f418cbeb96eb7666
 io.micrometer	micrometer-registry-datadog	1.14.5		094b97caa119ee2c7b5096d3c3f27d2a58eb5d79
 io.micrometer	micrometer-registry-datadog	1.14.6		e491d1191bfb171969f941e334c9fd1c90bb393e
+io.micrometer	micrometer-registry-datadog	1.14.7		3094c78dbe145d15ba4806b39c7d2fded1d0b6ce
+io.micrometer	micrometer-registry-datadog	1.15.0		85286158460a92cfbc64d9b9a9ef272be9c3b95b
 io.micrometer	micrometer-registry-datadog	1.15.0-M2		e1b43466316260d359f26b39df0400fdb0363909
 io.micrometer	micrometer-registry-datadog	1.15.0-M3		a5d380ae8eb5bf498352ef777e3fae44c7f4ac5e
 io.micrometer	micrometer-registry-datadog	1.15.0-RC1		df9a0e49d9c3aeff600c796952a3fc6ee4d59b3c
@@ -1243,6 +1246,8 @@ it.unibo.alchemist	alchemist-test	42.0.7		f08882977aead326f8998caac18424cf21199a
 it.unibo.alchemist	alchemist-test	42.0.8		8518fabd10fec78211e8c3cf2d368120e4f8e1f7
 it.unibo.alchemist	alchemist-test	42.0.9		fdcd87a353021d325cb10f25ba552f83b527adb4
 it.unibo.alchemist	alchemist-test	42.1.0		eab3827883bfc41df92d563efac2ba337d515af2
+it.unibo.alchemist	alchemist-test	42.1.1		63de2b957a1f1d974f50f6cc7934b0ad16abe0bf
+it.unibo.alchemist	alchemist-test	42.2.0		e24b60e755a106daf0cbda276e308aac78b1b72b
 it.unibo.alchemist	alchemist-test	9.3.0-dev1z1+0f186c167		c2b551746449a0db411bc6491534119f961a5364
 it.unibo.alchemist	alchemist-test	9.3.0-dev1z1+0f186c167	all	4c52864e332540cffd26527f5ba66889e931e336
 it.unibo.alchemist	alchemist-test	9.3.0-dev1z1+6808faab9		531de735bf21fcb581fcf7de17eccee825094817
@@ -1511,6 +1516,7 @@ org.apereo.cas	cas-server-support-geolocation-azure	7.2.0-RC6		6072c3e486796f93b
 org.apereo.cas	cas-server-support-geolocation-azure	7.2.0-RC6	resources	2101c92e6db5033bfe24d34b03c3686dfe5201df
 org.apereo.cas	cas-server-support-geolocation-azure	7.2.1		f4bd8bbc17fef3203575fb72d70f1758bb0ebc3b
 org.apereo.cas	cas-server-support-geolocation-azure	7.2.1	resources	93c8dc25124e08e20cee048a5f66aabe98527537
+org.apereo.cas	cas-server-support-geolocation-azure	7.2.2		1fa29f29ce0afcac78a59fd072ff7a5a8c12a585
 org.apereo.cas	cas-server-support-geolocation-azure	7.3.0-RC1		9b1489b5a725a387a4d7643c2ea58d1e703deca8
 org.apereo.cas	cas-server-support-geolocation-azure	7.3.0-RC1	resources	e50686b4d7d8b4b27f44ac0580cbf97370a8ac0f
 org.bidib.com.neuronrobotics	nrjavaserial	3.12.0		06008b560c99ea500879f5e0ae4358b630ca1a93
@@ -1749,6 +1755,9 @@ org.http4k	http4k-connect-amazon-instancemetadata-fake	6.6.0.0		d3cf222a3ea6f296
 org.http4k	http4k-connect-amazon-instancemetadata-fake	6.6.0.1		262224687f473b0cf0fc31907ea71ced510408ef
 org.http4k	http4k-connect-amazon-instancemetadata-fake	6.6.1.0		b6135e3c479542b8c74b0a1754d507dcbeaef301
 org.http4k	http4k-connect-amazon-instancemetadata-fake	6.7.0.0		a57d9da8caaa8dfad525bac1873def70c267b6ef
+org.http4k	http4k-connect-amazon-instancemetadata-fake	6.8.0.0		ab3f62d7cce0c5fc129a1f6399e4cf17aaa57336
+org.http4k	http4k-connect-amazon-instancemetadata-fake	6.8.1.0		e4185a8440cbc6c023064680255ef35a141496be
+org.http4k	http4k-connect-amazon-instancemetadata-fake	6.9.0.0		8d98bae90c63729de0a2acf1a175cc5dfabee48d
 org.http4k	http4k-connect-amazon-instancemetadata-fake	v6.3.0.0		5e14a2bd72443be9c284657e8e91e3aab25f59dd
 org.http4k	http4k-connect-amazon-instancemetadata-fake	v6.4.1.0		2efbb5c07bc801c172d8c55c5f920040c3fca61d
 org.jbpt	jbpt-bp	0.3.0		49cb6d64b6eba30c8f1d3cd53f8d4923d71073f4
@@ -1924,4 +1933,8 @@ tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.0.8	metadata	ccc4bef545556f3e632b4873208ff082cd333b3a
 tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.0.9	metadata	6b10dfeafa153aac1a97fdaf7bb27e603ad0843e
+tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.1.0	metadata	c50b9bf65386648cedcca61e6ef19713d0e3b375
+tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.1.1	metadata	551a00a6a961829ab20a7e447187570f0dc43364
+tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.1.11	metadata	0fc399eb15ea9981e900dd2fa3b6850cb6bbd321
+tz.co.asoft	koncurrent-executors-coroutines-watchossimulatorarm64	3.1.12	metadata	c17b115c050a70bad6ca93be86045f1d597bdc58
 uz.rsteam.coil-3	coil-android	3.1.1		N/A

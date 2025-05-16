@@ -66,6 +66,7 @@ com.github.pjfanning	pekko-http-circe_2.13	2.8.0		05fe2f8f4fb7752ae1e613dce5a284
 com.github.pjfanning	pekko-http-circe_2.13	3.0.0		d9ce8ac9a3cec7335213efa635ee0be427320257
 com.github.pjfanning	pekko-http-circe_2.13	3.0.1		add348dedd31a61f17c951e240c1e6755bb577b5
 com.github.pjfanning	pekko-http-circe_2.13	3.1.0		db28253390eea1f089ee72d319f66eef1c0586e9
+com.github.pjfanning	pekko-http-circe_2.13	3.1.1		ae32c0a544936f38cd883a1448474fb8660d87d6
 com.github.smokestack	smokestack-common	0.1		e7ee2e4fa8021b1551e27cd6a8c581e541b1fb7c
 com.github.wmlynar	jy2-di-example	0.0.1		cb547bb72d9fea9319599ed03027bc3d986c19fc
 com.github.wmlynar	jy2-di-example	0.0.10		6aaf759b2168947c3644e184a2b52abb00ed6f81
@@ -203,6 +204,7 @@ de.adorsys.psd2.sandbox	consent-psu-rest-client	5.8.1		525a9d88acf09d638d1aaee0f
 de.adorsys.psd2.sandbox	consent-psu-rest-client	5.8.2		10b19e081a3d3850b58f8673dca389d1250ae281
 de.adorsys.psd2.sandbox	consent-psu-rest-client	5.9		9f9e49591078bd80758c5aaf0847b9c62d17828f
 dev.jorel	commandapi-bukkit-shade-mojang-mapped	10.0.0		1b727d5aabcfe41c1fc03900a0ee21e95f330214
+dev.jorel	commandapi-bukkit-shade-mojang-mapped	10.0.1		b5465bfd5f9bd19881389fb5d562a90a8f77f115
 dev.jorel	commandapi-bukkit-shade-mojang-mapped	9.4.0		d81849952100e807c1675476fb094a010aaa276c
 dev.jorel	commandapi-bukkit-shade-mojang-mapped	9.4.1		c9d470046664dba05b4fac2b5cf936decbe7a720
 dev.jorel	commandapi-bukkit-shade-mojang-mapped	9.4.2		2422ce99a0b4053bbddd23a427f288bcbfe6de42
@@ -402,6 +404,7 @@ io.camunda	zeebe-dmn	8.4.15		c4afeceafcaeb9fd0c7ac246a4c3aaea625f3000
 io.camunda	zeebe-dmn	8.4.16		9b07d8ae4e28bec8486ae2bd3a75a9a45f842a52
 io.camunda	zeebe-dmn	8.4.17		1bce2f43c1b9f2de3f74b3072a2bbe1b44f0d392
 io.camunda	zeebe-dmn	8.4.18		7be3b3fe1d8e4a49c2692ea46e0c1a2515f5907a
+io.camunda	zeebe-dmn	8.4.19		aff31c2760687b7ae31a6ebe5b748a275c85d7fd
 io.camunda	zeebe-dmn	8.4.2		d82960597e953b183bc3376ff20f4c57873e3235
 io.camunda	zeebe-dmn	8.4.3		558228febc07fed640672a81ce694f7e84573210
 io.camunda	zeebe-dmn	8.4.4		9007235dcc881f0b8f2ad1eb758fae8d854e4bd5
@@ -424,6 +427,7 @@ io.camunda	zeebe-dmn	8.5.14		c6f594e9bd651d0a7b0799897184ecdc9f073d8f
 io.camunda	zeebe-dmn	8.5.15		8caa75972e7064cd290a2cdf294d736e70e77cbc
 io.camunda	zeebe-dmn	8.5.16		fe7f6a799b8a64eded7c02b5f589d04b0cd578da
 io.camunda	zeebe-dmn	8.5.17		6f5a775f2be6e82e33322208f0bb8e99ea8ac54c
+io.camunda	zeebe-dmn	8.5.18		20517308637dfe266e5aa25e56a2131913443714
 io.camunda	zeebe-dmn	8.5.2		53ecbc4d0fdebcfce15a7e410f4049ac89d84a29
 io.camunda	zeebe-dmn	8.5.3		f07c953c25f8b0a952812a54e97ba7e8f328e131
 io.camunda	zeebe-dmn	8.5.4		b841720803388af37dc1ba60d1d96b79d4366c7f
@@ -461,6 +465,8 @@ io.camunda	zeebe-dmn	8.6.12-rc1		299954f49f0a602069f15d5d43c30049ef2bc283
 io.camunda	zeebe-dmn	8.6.13		1c63f3595df5daaf8dda08fed0a88da2906fc33e
 io.camunda	zeebe-dmn	8.6.14		85cc9a13e439375fbca4e8bd3ed496c7c31e919b
 io.camunda	zeebe-dmn	8.6.14-rc1		b41e64ca928eae376a5fce1a26781697da897e5b
+io.camunda	zeebe-dmn	8.6.15		34d21ee396e364c3bbec02e7d2cd13ea5151e276
+io.camunda	zeebe-dmn	8.6.15-rc1		6c3ab6453d9fb8618acec6240993ed942a577c2f
 io.camunda	zeebe-dmn	8.6.2		a160b6c84131a79ebd86aa313cbc2c87d5d9bf15
 io.camunda	zeebe-dmn	8.6.3		b01f384638360196248794980030073c9a2935cd
 io.camunda	zeebe-dmn	8.6.4		5263dd3505e8e2fec3b44b071c49778030c70d81
@@ -496,12 +502,15 @@ io.camunda	zeebe-dmn	8.7.0-alpha5-rc1		467c794b71e19c7c400f9bffb610974e6dccfb1b
 io.camunda	zeebe-dmn	8.7.0-rc3		efc2774ae8916e4a97a602acf873058cb79d7330
 io.camunda	zeebe-dmn	8.7.1		09b4db7ff0de44536366c100010f4b54006c8b87
 io.camunda	zeebe-dmn	8.7.1-rc1		046616148164f3c337f0b01f4202da0bff3c762e
+io.camunda	zeebe-dmn	8.7.2		44d318b49e4ae7ced4fef3d3e9892743833a99d6
+io.camunda	zeebe-dmn	8.7.2-rc1		568fd8b9924261237117cdf06c30891081a902ae
 io.camunda	zeebe-dmn	8.8.0-alpha1		793c24849a672ba87869555e1fbc488678827363
 io.camunda	zeebe-dmn	8.8.0-alpha1-rc1		53b1bacacaca0356d2a1153150635f1a79d10cd6
 io.camunda	zeebe-dmn	8.8.0-alpha2		7d3f2c1eb958df3fe42cc28983cb6a3eb54fbbe5
 io.camunda	zeebe-dmn	8.8.0-alpha2-rc1		9c9c20f9c65a6be50b9d2c37c49287e17dc898e6
 io.camunda	zeebe-dmn	8.8.0-alpha3		d41051821c6a9c57bf5fe347adb54c9d8fc61055
 io.camunda	zeebe-dmn	8.8.0-alpha3-rc3		b5671b2b47072b7a37d6efa629e60b5f9af5b389
+io.camunda	zeebe-dmn	8.8.0-alpha4		31c0af8c2b03d16794bf1aa64c4385dc9ad503c1
 io.camunda	zeebe-dmn	8.8.0-alpha4-rc1		2fc402d953c30bf508b236b5c2b4c71a39bcd27a
 io.cloudslang.content	cs-jClouds	0.0.6		7825f6fbdcc1224f5d287c7a4e75bcd43c666c1e
 io.fabric8	fabric-zookeeper-commands	1.0.0.redhat-394		3b86b00d615f10001258f1432e8f5ac3aba59538
@@ -625,6 +634,7 @@ io.helidon.webserver	helidon-webserver-grpc	4.1.6		04e93ed379defc92a40053cd6eb2f
 io.helidon.webserver	helidon-webserver-grpc	4.1.7		7639612b53b0fccda5cec6dc4bbb3682486cbcb8
 io.helidon.webserver	helidon-webserver-grpc	4.2.0		04b9ea0b3deaab9aa92dbe993d0829f73633239b
 io.helidon.webserver	helidon-webserver-grpc	4.2.1		d08cb5d013f570eb4bfc99ed68d79ef552f07627
+io.helidon.webserver	helidon-webserver-grpc	4.2.2		4fe4c25888a2c5875a8632c774c28f840efaf8f0
 io.openapiprocessor	openapi-parser-jackson	2022.1		f05146219c3d1b8334bb6afa6c629b283fe5df6e
 io.openapiprocessor	openapi-parser-jackson	2022.1.1		03a686c352675b13e62490bc8493c49c8f86c4ef
 io.openapiprocessor	openapi-parser-jackson	2023.1		ba683348d0447ad6df78b9395b898f93f03a7e2d
@@ -1169,6 +1179,7 @@ org.apereo.cas	cas-server-core-api-util	7.2.0-RC6		ec2e6f3e3c0db758d6744b88993b1
 org.apereo.cas	cas-server-core-api-util	7.2.0-RC6	resources	dc3188fc42921e3723f8e69e9d364f1a3a9cd22c
 org.apereo.cas	cas-server-core-api-util	7.2.1		f96417a902db957430d6fe921a967a5ed1b3df4e
 org.apereo.cas	cas-server-core-api-util	7.2.1	resources	ae3162b63052a90975cb7d1901f77b4eaab54d2b
+org.apereo.cas	cas-server-core-api-util	7.2.2		197eab14c0a3cfddabc54aef6f91e879e71ced97
 org.apereo.cas	cas-server-core-api-util	7.3.0-RC1		93f7c605efe966643693839797833149d7ccc64c
 org.apereo.cas	cas-server-core-api-util	7.3.0-RC1	resources	6f5caf03f14b006a7df09541d63252c3f5e1d7bc
 org.apereo.cas	cas-server-core-api-util	v6.4.0-RC5		e7489ae89b65561693073d21d9fa1641c5399ef5
@@ -1228,6 +1239,8 @@ org.eclipse.apoapsis.ortserver.api.v1	api-v1-model	0.1.0-RC9		4ea62037ff5c5a045a
 org.eclipse.apoapsis.ortserver.api.v1	api-v1-model	0.2.0		3777f3e96c85ce6c770caad7ac9455705a1c10d7
 org.eclipse.apoapsis.ortserver.api.v1	api-v1-model	0.3.0		d7880190176466d6137b7a83eab5979d8abd9046
 org.eclipse.apoapsis.ortserver.api.v1	api-v1-model	0.4.0		6ed1f7e8b06e92740748dfedc3d08543f3f706dc
+org.eclipse.apoapsis.ortserver.api.v1	api-v1-model	0.5.0		bfc016e7796b9d976164b25a289afcd3621075c9
+org.eclipse.apoapsis.ortserver.api.v1	api-v1-model	0.6.0		75da5fb91f76471113fe4c0e644c5445a41bb51e
 org.eclipse.rap	org.eclipse.rap.nebula.jface.gridviewer	3.1.0		383437815059ab85661c8bdcb19664554fd301db
 org.eclipse.rap	org.eclipse.rap.nebula.jface.gridviewer	3.1.0-RC1		383437815059ab85661c8bdcb19664554fd301db
 org.eclipse.rap	org.eclipse.rap.nebula.jface.gridviewer	3.1.0-RC2		383437815059ab85661c8bdcb19664554fd301db

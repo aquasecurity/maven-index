@@ -283,6 +283,7 @@ com.ibm.cloud	open-service-broker	0.62.0		3b5786b4ecb56af733285ad34b16cf4b0fbf05
 com.ibm.cloud	open-service-broker	0.63.0		7e7da9af4251e4a637edc57bd849249585bbb6eb
 com.ibm.cloud	open-service-broker	0.63.1		224d257831e35e45038352bae0342c51fb2ead96
 com.ibm.cloud	open-service-broker	0.64.0		bb8755fad01ba1bf61d1578d73fd66a7c80abe2f
+com.ibm.cloud	open-service-broker	0.65.0		274578d6375d231e4d60e66b7837446232aa37b5
 com.ibm.cloud	open-service-broker	0.9.0		565b26ff432eb1a53e38cb4f6dcf718c35f8c1e0
 com.ibm.cloud	open-service-broker	0.9.1		1458acd46325d7f1c4e641cd16a4fd79016ca359
 com.jwebmp.jre10	jwebmp-parent	0.58.0.10-RCTEST		N/A
@@ -421,6 +422,9 @@ com.regnosys.rosetta.code-generators	default-cdm-generators	11.6.0		4656b7e34bf5
 com.regnosys.rosetta.code-generators	default-cdm-generators	11.6.1		4455faba35fba2bce6a884768347c99526e2590e
 com.regnosys.rosetta.code-generators	default-cdm-generators	11.6.2		3e5d399d865dcf2c3e08d941e0ef84a4d534c57a
 com.regnosys.rosetta.code-generators	default-cdm-generators	11.60.0		9433981cb672d1b4a615125ee27f131fac34c8d2
+com.regnosys.rosetta.code-generators	default-cdm-generators	11.60.2		604c965776532e7705889396d4db60a36353ef21
+com.regnosys.rosetta.code-generators	default-cdm-generators	11.61.1		ad59a6a7641ab0c5380fa1e99e07d17b8e95017d
+com.regnosys.rosetta.code-generators	default-cdm-generators	11.61.2		44406d73b5aa3591cd415a53a81d0cf8fabdb28e
 com.regnosys.rosetta.code-generators	default-cdm-generators	11.7.0		702bfe67b4b831ab8faf79e6f9e10bccd6bd4d2c
 com.regnosys.rosetta.code-generators	default-cdm-generators	11.7.1		4591251015bceee5d23dada43cf6593c53f9907f
 com.regnosys.rosetta.code-generators	default-cdm-generators	11.7.4		ef4d6e1afcc5b7acdfc6bb0ccf80bc067b5fba58
@@ -1061,6 +1065,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.13.3-alpha		86ff401b3824a1b1196aa4045cdad68d80a09a96
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.14.0-alpha		e7af821daea9b25b7693d2c91fe685ef01df45c6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.15.0-alpha		08fd06a42609bf15c41ca305cfddfc5a82adef54
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.16.0-alpha		111243c4c30468c91ea8303ac040f4dd7563ea06
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.2.0-alpha		bcd68ee1d73c15300fde1a70e2d633f82255641f
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.3.0-alpha		89d2662a27db9dc4a62f002591df31cdb4cd14b3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-guava-10.0	2.4.0-alpha		f633f2c834613eb18d880706b06d1e8406b2c9eb
@@ -1282,6 +1287,7 @@ org.apache.beam	beam-sdks-java-io-debezium	2.61.0		bbea3d0407edf49bfe172d15f917a
 org.apache.beam	beam-sdks-java-io-debezium	2.62.0		12304700f51024b6060ce45b56d64e77f227276f
 org.apache.beam	beam-sdks-java-io-debezium	2.63.0		fa02cde81cd2b6b40f327ca4fca02a75f1334e06
 org.apache.beam	beam-sdks-java-io-debezium	2.64.0		d457d7e0d21543f211931ebbe7265997bd50bf68
+org.apache.beam	beam-sdks-java-io-debezium	2.65.0		2820ea42ea29bec96f2ed6075fa691de22bf5b1e
 org.apache.camel	camel-debezium	3.0.0-RC2		b4c8c6968eae99102a5a82f57b4176a851d7c443
 org.apache.camel	camel-debezium	3.0.0-RC3		808517b1c4db3474defd72e28fd4290568a8354d
 org.apache.camel.kafkaconnector	camel-seda-kafka-connector	0.1.0		9b810daf5e232d507166b94e3ecef8aa6d77edd1
@@ -1757,6 +1763,8 @@ org.hibernate.orm	hibernate-envers	6.6.10.Final		7c9478340eee6598b806e4b678e5a37
 org.hibernate.orm	hibernate-envers	6.6.11.Final		85dd7808ce4ec1ade632085bf0a0c15c1f0381c6
 org.hibernate.orm	hibernate-envers	6.6.12.Final		294db94f2a25b30edb2e54d796b9a3e0c3139e90
 org.hibernate.orm	hibernate-envers	6.6.13.Final		5b569ee1d9dfd05439833cb4e280b3baff554ed9
+org.hibernate.orm	hibernate-envers	6.6.14.Final		969919b96dbe8d8c83ba79f1dc91d13b9a451c39
+org.hibernate.orm	hibernate-envers	6.6.15.Final		6e24b50c009f2d5b29d3e2e260d772a050fc9c46
 org.hibernate.orm	hibernate-envers	6.6.2.Final		a6268d80229dff77b9a58dfd7e50e85909809e57
 org.hibernate.orm	hibernate-envers	6.6.3.Final		82ee203485afb6db102a9c772412d9875952f3bb
 org.hibernate.orm	hibernate-envers	6.6.4.Final		00b7b7ed4079d09452157faf4f0cd24144b789d7
@@ -1774,6 +1782,7 @@ org.hibernate.orm	hibernate-envers	7.0.0.Beta3		a438e9490208fab3f010add27a5dac45
 org.hibernate.orm	hibernate-envers	7.0.0.Beta4		8a9084a4d3d339f0a93f92c0de16a2021f8cc510
 org.hibernate.orm	hibernate-envers	7.0.0.Beta5		898b133ffc82fb9f9e15430fcffaf2a784773176
 org.hibernate.orm	hibernate-envers	7.0.0.CR1		9ed78b0aab9416b41214569473213d091bfe798d
+org.hibernate.orm	hibernate-envers	7.0.0.CR2		699bfde4a920bb3e241d4cf254b3556182838d60
 org.ifinal.finalframework.boot	final-boot-starter-mybatis	1.0.0		ca65f44797a080e3c60dca5ee0f946ade2986634
 org.ifinal.finalframework.boot	final-boot-starter-mybatis	1.0.1		20605b4ca18c57d5fab96ab53bb3188ec20ea3eb
 org.ifinal.finalframework.boot	final-boot-starter-mybatis	1.0.2		0dc16d31047885d35b88b42bd369b852e8150f7e

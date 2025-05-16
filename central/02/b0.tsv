@@ -177,6 +177,8 @@ com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.58.0		7d217b9d1bc03
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.59.0		774aa3f08d26c9377479cde682c25d518c4bceb5
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.6.0		39502a115bbd14b904d08dfda6ba5c8aa74af900
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.60.0		1d91854235232076ca4a4eff3606981c6e37b69d
+com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.61.0		0d31286c6407824993b21372acd6e5305d4464a8
+com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.62.0		fb34eb013ef799607dcef19ff4ac2cca71060fa0
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.7.0		934ecf1b2ff0d750dcab53ba0e3e8f39301c9755
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.8.0		d4aca42abe536cc56c6aa087999d9d69f081e63c
 com.google.api.grpc	grpc-google-cloud-artifact-registry-v1	1.9.0		3c66d704d362f263a4ba858f18374e5d787dc0d8
@@ -421,6 +423,7 @@ com.spotify	scio-extra_2.13	0.14.13		c69cf5d28551f1a1141a6b3f9095560eec4e79c8
 com.spotify	scio-extra_2.13	0.14.14		19635b2b85769ec4da27226ac56f1cf98dbb8755
 com.spotify	scio-extra_2.13	0.14.15		08df76a8cee90d50e31f9c4cf64d00c7f9bb1173
 com.spotify	scio-extra_2.13	0.14.16		a56c1d1715f39f670398da95fb1d7db06d4fcae9
+com.spotify	scio-extra_2.13	0.14.17		1d7b74ef02b7e2d6ac93a8a49498b87ec9f40056
 com.spotify	scio-extra_2.13	0.14.2		523c194a9b32cfdf954161cf93a069b67c6aea7f
 com.spotify	scio-extra_2.13	0.14.3		25272e316d1e8a33b9a048c1ecf4f13bd36ef110
 com.spotify	scio-extra_2.13	0.14.4		e4490bac0dda088e627b9549b9a0b3fb809e221e
@@ -1232,6 +1235,7 @@ io.quarkus	quarkus-container-image-openshift-deployment	3.15.2		c70da964ed429111
 io.quarkus	quarkus-container-image-openshift-deployment	3.15.3		8e32df1b68f30c82cd547d1c93e8772c006fb367
 io.quarkus	quarkus-container-image-openshift-deployment	3.15.3.1		151b078d1b703f6df7ac4fd6350a939502f02be1
 io.quarkus	quarkus-container-image-openshift-deployment	3.15.4		36c3f79ed894626d07e76b6fb6b995712f94be9a
+io.quarkus	quarkus-container-image-openshift-deployment	3.15.5		d172d0811eb7b90e2b453d8a87d3ad5ec308a12f
 io.quarkus	quarkus-container-image-openshift-deployment	3.16.0		40459286654ac3020af3c49cd3f27299f2d8cfdd
 io.quarkus	quarkus-container-image-openshift-deployment	3.16.0.CR1		0a6edb3e8b342c64213fe2e79a26c1f7eabb80e4
 io.quarkus	quarkus-container-image-openshift-deployment	3.16.1		d7e328a375d9eeac4f37d4466aef1697dc678aab
@@ -1276,6 +1280,7 @@ io.quarkus	quarkus-container-image-openshift-deployment	3.2.8.Final		88a73b4b163
 io.quarkus	quarkus-container-image-openshift-deployment	3.2.9.Final		2df65178e6f32c6709898e1e82c3e55640ca638e
 io.quarkus	quarkus-container-image-openshift-deployment	3.20.0		0c060ee1a519d7f3e2754d6a43d1549455e56a96
 io.quarkus	quarkus-container-image-openshift-deployment	3.20.0.CR1		e5de303633f7b3da04b2c63599295a9caefb7efe
+io.quarkus	quarkus-container-image-openshift-deployment	3.20.1		a51befb76b88dace1e5436e48a1de664e5b40600
 io.quarkus	quarkus-container-image-openshift-deployment	3.21.0		535d077abf1e10425cacfe4be78c714b7a8465e2
 io.quarkus	quarkus-container-image-openshift-deployment	3.21.0.CR1		ff5cec2c09d172acdb4970e98ac24d32add028d7
 io.quarkus	quarkus-container-image-openshift-deployment	3.21.1		dd5f9d95ad8c37e258dd6d20d6e7a52beb80c43f
@@ -1285,6 +1290,9 @@ io.quarkus	quarkus-container-image-openshift-deployment	3.21.4		6b3949ef143d76c8
 io.quarkus	quarkus-container-image-openshift-deployment	3.22.0		6f8f74f8fd2ed7e4a38f782a213c59a20403dbf7
 io.quarkus	quarkus-container-image-openshift-deployment	3.22.0.CR1		1a3d9af915d5f3a8faf07de1b798aa4519b1c15b
 io.quarkus	quarkus-container-image-openshift-deployment	3.22.1		88373f4c64deae939cacd77e2b99f21417796f3b
+io.quarkus	quarkus-container-image-openshift-deployment	3.22.2		cc2e281d4e4a36da18200548a39d407afa131a66
+io.quarkus	quarkus-container-image-openshift-deployment	3.22.3		9835c666e7aecf709b6324a4620bf538ea6fd246
+io.quarkus	quarkus-container-image-openshift-deployment	3.23.0.CR1		3db35f874417ce68baae3d2cc0e7ae64381345e1
 io.quarkus	quarkus-container-image-openshift-deployment	3.3.0		647d2cfdda6180d009ac35e035b016e93fac3fa0
 io.quarkus	quarkus-container-image-openshift-deployment	3.3.0.CR1		eacd29bc3d017777ab03063298a113c5f74bbde3
 io.quarkus	quarkus-container-image-openshift-deployment	3.3.1		5b794dd8ac20b235fa1158d6f5a83c4198c804a8
@@ -1978,3 +1986,7 @@ tz.co.asoft	koncurrent-awaited-test-macosx64	3.0.8		N/A
 tz.co.asoft	koncurrent-awaited-test-macosx64	3.0.8	metadata	d1ebd99bb208b53ac30c7668da8e87ed5c725730
 tz.co.asoft	koncurrent-awaited-test-macosx64	3.0.9		N/A
 tz.co.asoft	koncurrent-awaited-test-macosx64	3.0.9	metadata	93987e2b5f1741b6c4ef2dbb61ec9dfa6c9f807c
+tz.co.asoft	koncurrent-awaited-test-macosx64	3.1.0	metadata	a239450ed8c088cac9a94510ca9be2beb24d25f1
+tz.co.asoft	koncurrent-awaited-test-macosx64	3.1.1	metadata	31eee6b474cc1b4bbbd1faf5bfac99107418e280
+tz.co.asoft	koncurrent-awaited-test-macosx64	3.1.11	metadata	e4d6e15ec4fcb4f2f2e32b4eefd16d1f473915c4
+tz.co.asoft	koncurrent-awaited-test-macosx64	3.1.12	metadata	71d60573d28c2bb4fa5f7c86110e583432c60f58

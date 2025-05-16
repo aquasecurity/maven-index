@@ -495,6 +495,7 @@ com.orange.redis-protocol	redis	0.9		N/A
 com.thebhumilsoni.utest.analytics	com.thebhumilsoni.utest.analytics.gradle.plugin	1.1.1		N/A
 com.ubertob.kondor	kondor-jackson	3.5.0		46a9483bd7c84e0d5bec0c11cf5ecf744c315e0a
 com.ubertob.kondor	kondor-jackson	3.5.1		7fe18f2f11a863fd8f88736144835b96c5dd25d3
+com.ubertob.kondor	kondor-jackson	3.5.2		2eaa7909b3038bc8e156a219c6d4b3fb2e93fd02
 dev.atsushieno	compose-mpp-android	0.1		N/A
 dev.atsushieno	compose-mpp-android	0.1.1		N/A
 dev.atsushieno	compose-mpp-android	0.1.2		N/A
@@ -512,6 +513,14 @@ dev.zio	zio-prelude-magnolia_native0.5_2.13	1.0.0-RC39		f5d75aa7f2bd81b58122395f
 dev.zio	zio-prelude-magnolia_native0.5_2.13	1.0.0-RC40		8834416232a6e467bda0c07f509353df8a430206
 fr.compose-player	player-mdk-iosarm64	0.1.1		N/A
 fr.compose-player	player-mdk-iosarm64	0.1.1	metadata	0767ae55310f7885eec9d29a5df6a2c4ea352611
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.1		099450b89fdedaaf0e4f60a1327e54babc3f2c8d
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.2		6025206f5a20b80294a9b6125a78099904f3b8eb
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.3		3af803096b59e1f1b53cd5002842bc7bd9bf1189
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.4		4bebd0bfb8dbbe20640fd60a0932eb3af6838aa3
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.5		459b80ba1442eedd3061f940321338185e3a27d7
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.6		030100ee5b168093c21df172ba63ece8a54513ad
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.7		bc583a9790e9300ef2db0342d783c233e4896f81
+fr.iscpif	scalajs-execnpm_2.12_1.0	0.8		8633829b2e6e69a63138b070d284b37a96a72dad
 io.chrisdavenport	env_2.13	0.1.0		ce6979f7f78212f36a63fa0e923d42246b550fa0
 io.fabric8	zipkin-examples	0.0.2		N/A
 io.fabric8	zipkin-examples	0.0.4		N/A
@@ -716,6 +725,7 @@ org.apache.camel.springboot	camel-smooks-starter	4.8.3		e83994a4fababc16626e19bc
 org.apache.camel.springboot	camel-smooks-starter	4.8.4		2859302726a9ec8e352e0ced96600971b625da35
 org.apache.camel.springboot	camel-smooks-starter	4.8.5		d765488d5dd7b5a64a6725a3415f540c53d4bece
 org.apache.camel.springboot	camel-smooks-starter	4.8.6		e073908805e8bdb119ae7c0d18cb8e0b451bb6ed
+org.apache.camel.springboot	camel-smooks-starter	4.8.7		ad9e98ee49052f5da88311cc333782048c692e9a
 org.apache.camel.springboot	camel-smooks-starter	4.9.0		66b57afdc7d5ea33644828d612ee4bb4b80311a5
 org.apache.directory.studio	org.apache.directory.server.xdbm.partition	2.0.0-M10		edca4af0cc37e26a04489671ef6a20d51d5c9b16
 org.apache.directory.studio	org.apache.directory.server.xdbm.partition	2.0.0-M4		407eee1e2a0efa82afd7e8a7d83301fa8cbf3bc9
@@ -770,6 +780,9 @@ org.daisy.pipeline.modules	html-to-dtbook	2.0.6	xprocdoc	76099b1f396466a26acfaff
 org.daisy.pipeline.modules	html-to-dtbook	2.0.7		b875a850fda0c323a930607228504c7c9c9289ca
 org.daisy.pipeline.modules	html-to-dtbook	2.0.7	doc	c03c020660f28e4a4fffdfe5b21ead3da304ee1e
 org.daisy.pipeline.modules	html-to-dtbook	2.0.7	xprocdoc	1158c9f09872ddff6ead6ba9987e372224aff509
+org.daisy.pipeline.modules	html-to-dtbook	2.0.8		9d0be6e758754c9eb63a92637e8679484f80ac88
+org.daisy.pipeline.modules	html-to-dtbook	2.0.8	doc	30285b6096fe6be1d45f5ae1fe9fab4afc2b57ed
+org.daisy.pipeline.modules	html-to-dtbook	2.0.8	xprocdoc	caedff118fd08b1aa178603ba542d40e80a4281a
 org.danbrough.kotlinx	kotlinx-serialization-core-linuxarm64	1.3.3		N/A
 org.danbrough.kotlinx	kotlinx-serialization-core-linuxarm64	1.3.3a		N/A
 org.danbrough.kotlinx	kotlinx-serialization-core-linuxarm64	1.4.1		N/A
@@ -824,6 +837,19 @@ org.eclipse.dirigible	dirigible-components-ui-menu-security	11.41.1		9e0bab32ec1
 org.eclipse.dirigible	dirigible-components-ui-menu-security	11.42.0		ac0081e1fa56ad8414d5d00333b31302cd5b0704
 org.eclipse.dirigible	dirigible-components-ui-menu-security	11.43.0		ad42ff6d4eaac4c204e9cc4dd02f411157ce0865
 org.eclipse.dirigible	dirigible-components-ui-menu-security	11.44.0		8f9c4a920da77e58419e371ce7fb9f3b1a62cd8c
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.0		d1849829fb5f0958fc8f4775e832501bbd586013
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.1		d4b8d8cfde81f733b5aff5085a95ded1b73002c7
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.10		2226c49daf97935442ba80fcbe9af5b21e4d9ecb
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.11		dbf1f9b0b9a1ff7bc8f6bf07351d3caa836ee004
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.12		9b4920ee4f07226c4f0342fe4110ffd06718f675
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.13		dbef017a1be83e2210a5cb63f4218d51ac80b1ff
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.3		3a83988eb4cceef225ceeb224ee7a125474dd7c4
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.4		d3eb7e39a01252230a33824f455c0f754e3afe6c
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.5		8fffba5c01f430999bf8a936c15ed2fe48d32df6
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.6		228bbbf447c1e2cb9f4c8a5fb71cb7fc330c1226
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.7		1808f27a4347db7e561117cdc163340caed9b42d
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.8		88681a66e1a28713b78333fb2c9e62ca0a54f9fb
+org.eclipse.dirigible	dirigible-components-ui-menu-security	11.45.9		03510fd13a23469caaf5093bf33caf43b2122f7e
 org.eclipse.dirigible	dirigible-components-ui-menu-security	11.5.0		73e8f77c7494260a36bc69b3263666045504a5ae
 org.eclipse.dirigible	dirigible-components-ui-menu-security	11.6.0		75417a62cfd801240da51a57d8b1dbf7bcdf075d
 org.eclipse.dirigible	dirigible-components-ui-menu-security	11.6.1		6d209a61bab4229c00e109a19f98b9220112d388
@@ -933,6 +959,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-core-watchosarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-core-watchosarm64	0.6.1	metadata	76dc4302feadc57a7838948f1a30fbe16e47f976
 org.jetbrains.kotlinx	kotlinx-rpc-core-watchosarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-core-watchosarm64	0.6.2	metadata	c9fc9024060b3b7bf316973eedf4906b4a9df88f
+org.jetbrains.kotlinx	kotlinx-rpc-core-watchosarm64	0.7.0	metadata	516e75f337ef40e8b05a3843eebb7dfe853c9647
 org.jppf	jppf-server	3.3.0		9fdd67f9bdc00b2a373156584b79c47e313925a2
 org.jppf	jppf-server	3.3.1		6b216e8d07de75487dafd05dca46c98283df17b7
 org.jppf	jppf-server	3.3.2		ac82a19ac35c8bccedd442b8e6bd37e515326e24
@@ -1215,6 +1242,7 @@ org.webjars.npm	rsocket-core	0.0.16		21284fd3303a1dc0784c4011cc2e248ae0ba879a
 org.webjars.npm	rsocket-core	0.0.19		c64651ec05a50c5fea72cac1e2c1b7ca75073d76
 se.alipsa.matrix	matrix-tablesaw	0.2.0		d34a09cf0360c7177d75b9cb15e80fae3f0c077c
 software.amazon.app.platform	kotlin-inject-public	0.0.1		bcab26b27deac6df37ffa8f65870b16561326209
+software.amazon.app.platform	kotlin-inject-public	0.0.2		bcab26b27deac6df37ffa8f65870b16561326209
 tz.co.asoft	keep-mock-linuxx64	2.0.16		N/A
 tz.co.asoft	keep-mock-linuxx64	2.0.17		N/A
 tz.co.asoft	keep-mock-linuxx64	2.0.18		N/A

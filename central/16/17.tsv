@@ -180,6 +180,8 @@ com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.30.0		20899515475
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.31.0		71e2c5eb0d7c2fffb121cdcbf4ba25fa4fb724ff
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.32.0		967ca632fbc1118d2346b38cf478aa5ae60cb827
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.33.0		d158694318553625e0608504f395150518ddc380
+com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.34.0		4e7e33442e81134256fdb9356f67ea5c1be935a0
+com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.35.0		655ee055d671e680e9facf0d7cac4d35a9fdf3c4
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.4.0		c31c2bb4feee140d8777a6f1b7ed6a5666606a3d
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.5.0		fa27569b6402fe3c979c25c9f8d6651663f68618
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1beta1	0.6.0		14a03afac72535bbc76e0d5f2b54d72a440898f0
@@ -232,7 +234,12 @@ com.hedera.hashgraph	app-hapi-utils	0.61.1		8901156fada0745232132b95e5e007dac253
 com.hedera.hashgraph	app-hapi-utils	0.61.2		c6573a215de5d15a858de39218eadda920165bc3
 com.hedera.hashgraph	app-hapi-utils	0.61.3		aebac380c514c0e3571960bf845ea20c41ffd22a
 com.hedera.hashgraph	app-hapi-utils	0.61.4		e96e01885cac1449204a96368eace357ae75e285
+com.hedera.hashgraph	app-hapi-utils	0.61.5		9a35a9cbe8ff02c2cc76044aa57776530d56b987
+com.hedera.hashgraph	app-hapi-utils	0.61.6		725ec7dd3a9a1565439832e9c7ec2573ea214a9a
+com.hedera.hashgraph	app-hapi-utils	0.61.7		a912beeaac8c4a9d33a974b77cb5e5b9d21c150d
 com.hedera.hashgraph	app-hapi-utils	0.62.0		43a9f64a64cdc1e9b7fc6d29b3738d25c1631d0a
+com.hedera.hashgraph	app-hapi-utils	0.62.1		90cfd4d0948dab5cb1b830954bace6fcd6ef0ac5
+com.hedera.hashgraph	app-hapi-utils	0.62.2		4599ddac299fed0febb1a45f4ac9522ca9a1e03c
 com.holon-platform.jdbc	documentation-jdbc	5.0.0		d5c1f8f44eda7a9070863a3e3b4c2e36a855c927
 com.holon-platform.jdbc	documentation-jdbc	5.0.1		c0837061b30f5551b51032094884ca9eb4e63a0e
 com.holon-platform.jdbc	documentation-jdbc	5.0.2		b6b52c6541c749d0ac4817cdf10d6e4f4bf17a03
@@ -1000,6 +1007,7 @@ org.apache.camel	camel-langchain4j-web-search	4.8.3		431805ab8ded82404bff6baedc5
 org.apache.camel	camel-langchain4j-web-search	4.8.4		1be3389e541721427fc0d315d6267a3cfa738b2e
 org.apache.camel	camel-langchain4j-web-search	4.8.5		94e8f9293c4cbebf05d6f0b153eae310b78c440f
 org.apache.camel	camel-langchain4j-web-search	4.8.6		92e2e4bde874cba884e5a52d12bc8adfdfb4dca5
+org.apache.camel	camel-langchain4j-web-search	4.8.7		5072991f7e8357dcd517e99c684dc3bb01a65b6a
 org.apache.camel	camel-langchain4j-web-search	4.9.0		1988e12f54fb8333cf39ebc17e4668d625633ccc
 org.apache.nifi	nifi-kudu-nar	1.10.0		N/A
 org.apache.nifi	nifi-kudu-nar	1.11.0		N/A
@@ -1680,6 +1688,14 @@ org.babyfish.jimmer	jimmer-core	0.9.79		9214bcdf74110672bc15aca3e7d74e12821e314f
 org.babyfish.jimmer	jimmer-core	0.9.8		de0339c26eda5e0e83d543c82be9b893ad68d0cc
 org.babyfish.jimmer	jimmer-core	0.9.80		0115091b7a8eb8f7bc2fdc4e8314c9001bb85b0a
 org.babyfish.jimmer	jimmer-core	0.9.81		c199a9b77dc85ae7bd6ed16938e6fd4708d47bf9
+org.babyfish.jimmer	jimmer-core	0.9.82		0ae9bc99209ed110ccf1f7ec859ddcad45ac0325
+org.babyfish.jimmer	jimmer-core	0.9.83		02e4fe44ee856c87d36bfd7e6b187477324c1c90
+org.babyfish.jimmer	jimmer-core	0.9.84		7057d1d143828bcfea6c62c38a219661c58def15
+org.babyfish.jimmer	jimmer-core	0.9.85		6107050ffa4d767f191fdaa0c369fae0930d6584
+org.babyfish.jimmer	jimmer-core	0.9.86		38762f0373d2b98b00d78df68cc1a42c0c729144
+org.babyfish.jimmer	jimmer-core	0.9.87		1cc329b34d14ff31e0f5a725f40eaaaec53a5772
+org.babyfish.jimmer	jimmer-core	0.9.88		ea379cb0804bd6b8b935af2ecc484a30cf126a2b
+org.babyfish.jimmer	jimmer-core	0.9.89		cea59697ca8ff65364397cc4a885cf3c368d0603
 org.babyfish.jimmer	jimmer-core	0.9.9		14c8e43e701b39aecb589f6e4f006e20dd9530b2
 org.bitbucket.inkytonik.dsprofile	dsprofile_2.13	0.4.0		83c80ea20231d58cebefbb23435665a3394bb794
 org.camunda.community.batch	camunda-platform-7-custom-batch-spring	1.18.1		2a56089b210ded83059b37d7c0b8fefb6c8702ef
@@ -2205,6 +2221,10 @@ tz.co.asoft	lexi-api-iossimulatorarm64	3.0.8		N/A
 tz.co.asoft	lexi-api-iossimulatorarm64	3.0.8	metadata	aee435309b81a9e1c56b78b6e42595346653a99b
 tz.co.asoft	lexi-api-iossimulatorarm64	3.0.9		N/A
 tz.co.asoft	lexi-api-iossimulatorarm64	3.0.9	metadata	8b503598baac87c5d01b0a029aea5af7201413a6
+tz.co.asoft	lexi-api-iossimulatorarm64	3.1.0	metadata	819d3fc1681de4280590399556c87321605c7d7d
+tz.co.asoft	lexi-api-iossimulatorarm64	3.1.1	metadata	4e4d9b9520b915a9728d9b543d26b0da80e5f5b5
+tz.co.asoft	lexi-api-iossimulatorarm64	3.1.11	metadata	b9384da310ca9f8cc42792a264685f81d73eecd4
+tz.co.asoft	lexi-api-iossimulatorarm64	3.1.12	metadata	dfd1691271024fb06cd7096cdd770d763ed7bd6c
 uk.ac.ebi.ddi.api.readers	ddi-paxdb-reader	1.0		3a82ad12070d58e376036b65078307b83d51d46b
 uk.ac.ebi.ddi.api.readers	ddi-paxdb-reader	1.1		5799fab88f20e96cd411f666e0f2837993f90666
 uk.ac.ebi.ddi.api.readers	ddi-paxdb-reader	1.2		c20700811c3912462dbdd3626ac5bbc5ffd0adb3

@@ -524,6 +524,8 @@ com.squareup.workflow1	workflow-core-iossimulatorarm64	1.16.0		N/A
 com.squareup.workflow1	workflow-core-iossimulatorarm64	1.16.0	metadata	fa2957c9696c373a8f8aa6e2462f74ed31bb0203
 com.squareup.workflow1	workflow-core-iossimulatorarm64	1.16.1		N/A
 com.squareup.workflow1	workflow-core-iossimulatorarm64	1.16.1	metadata	c79a4ea9fe75682302c3ba531423385e539af68c
+com.squareup.workflow1	workflow-core-iossimulatorarm64	1.17.0	metadata	768a447f73cd12f28c15569213758b1b5d30e02a
+com.squareup.workflow1	workflow-core-iossimulatorarm64	1.18.0	metadata	b022e22ffd52845535bc9c63493dfb75d00ba4d0
 com.squareup.workflow1	workflow-core-iossimulatorarm64	1.8.0-beta09		N/A
 com.squareup.workflow1	workflow-core-iossimulatorarm64	1.8.0-beta09	metadata	5eb2b37b2d2fb1cacd906a32b5ce7f6917aa8258
 com.squareup.workflow1	workflow-core-iossimulatorarm64	1.8.0-beta10		N/A
@@ -910,6 +912,7 @@ dev.zio	zio-aws-sts_3	7.31.27.1		0d1d15ed87a9d9c7e208f80e5eea58f8a249b672
 dev.zio	zio-aws-sts_3	7.31.28.1		7bbbb24662dc9f3d1190515a09335aaa233c1cdd
 dev.zio	zio-aws-sts_3	7.31.3.1		1eaf66181e80bdb9e0bf807b8ccd30cc6aa0de40
 dev.zio	zio-aws-sts_3	7.31.30.1		60f6b7b87dc130df08ad9a2b9898e16ff277d5bb
+dev.zio	zio-aws-sts_3	7.31.30.2		64451a42a11e0a33e386ab06e102cb466d5f7792
 dev.zio	zio-aws-sts_3	7.31.4.1		7131e635deb1bc90d6fa5e4aceded1d29d2e8213
 dev.zio	zio-aws-sts_3	7.31.6.1		a88c91afe117e0aad80d2376277a773e1b846bef
 dev.zio	zio-aws-sts_3	7.31.6.2		812f7169d05a36a28138a1e9c787eb1007d9beac
@@ -1283,6 +1286,7 @@ org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-depl
 org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-deployment	3.2.2		b9608ed55c9be98086b1e4a6b182cf35a24503af
 org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-deployment	3.2.3		6a92f9d86a2529690a4f2d30870b0b26d3259cc9
 org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-deployment	3.20.0		632e0a8741796d59bb664e20001653503bed9445
+org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-deployment	3.20.1		f7bdc7aa573f03072dc242101b348224bb718bd3
 org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-deployment	3.22.0		b810575603c488fb071d41a887ff03488504ce1c
 org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-deployment	3.4.0		21e290c126944b18ed9d0ce06aced614a90d7005
 org.apache.camel.quarkus	camel-quarkus-support-azure-core-http-client-vertx-deployment	3.5.0		ff395cc2c3e360d258a0e8ae1e838bc4b5f3b6ef
@@ -1422,10 +1426,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.80.0		6017cf1e8819ad607df52a6fb86dc22bb13ba845
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.81.0		ec6de70b2263080e30283e9c5e856c4e6e74e2e3
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.82.0		07289c03cb1a54ef73b2d7409bdb2d8a7880a893
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.82.1		c5f6bb054e48fdea6d358bd485f97c33cc8b4a1b
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.83.0		be041fffe3d83a5cb50df0d42cad43fbcb1078d8
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.83.1		e3c2d73d1aed6ce47a78080fdda10b5f50f22464
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.83.2		c3ce385303a170ab49aee697e18e32a54b0f4fcd
 org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.83.3		934fbeb079df23e62d82ad7ac526d91a4bde98bd
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.84.0		1267ea6386ce887cd1c0dbba1c11ad57d6f66971
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.84.1		cc53b16e7760738eb1ce60090ece843771585fed
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.85.0		90b6e8e974d03464ae6244c5aabe35469d69c9c2
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.85.1		02f12334d06aabb2f0af00177e85008aa4c48997
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.85.2		dba6a5f72926283b8da1ec416350655a697c7524
+org.finos.legend.engine	legend-engine-xt-relationalStore-executionPlan-http-api	4.85.3		a1f4aaeb64b18eff37ce269edb487e4c1bf45163
 org.glassfish.main.admingui	console-jts-plugin-l10n	4.0-b33		5e7ecdd9b1aa31ae223e2769c968d99ad6aa938c
 org.jboss.arquillian.extension	arquillian-drone-webdriver	1.0.0.CR1		366c46f3bdf39081f12ffd222aa38461ddc383b5
 org.jboss.arquillian.extension	arquillian-drone-webdriver	1.0.0.CR2		4823f2b1d5a36fd4f9fe88e850cd0df021c557fc

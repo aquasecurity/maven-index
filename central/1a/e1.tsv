@@ -772,6 +772,7 @@ com.nedap.healthcare.archie	bmm	3.11.0		e17b0a83fc916d94e4ac4b99552c04e0bdc07c81
 com.nedap.healthcare.archie	bmm	3.12.0		24cca3f272d1b161c03a65b05712c84aeb8c96fe
 com.nedap.healthcare.archie	bmm	3.13.0		6d03405d572d8eb7840084d3ac74a8c963eb8d4b
 com.nedap.healthcare.archie	bmm	3.13.1		02ecb94326a3f6ad739f7b85e877ab528c99379f
+com.nedap.healthcare.archie	bmm	3.14.0		b70abdd6d251b544552cf1ba60b5ede6acbe549c
 com.nedap.healthcare.archie	bmm	3.2.0		772ccbb385f58e0c29bdd31adc6b7c1188a959d8
 com.nedap.healthcare.archie	bmm	3.3.0		7f02fea2e5d446044ac49448da5d7363dd6d55d9
 com.nedap.healthcare.archie	bmm	3.4.0		3d2549d032d1249b722a89b170e06b87bb4f2895
@@ -790,7 +791,9 @@ com.phasmidsoftware	number_2.13	1.0.17		ebabe2026b87e961b3e5a5d39cd13391372e7fbe
 com.phasmidsoftware	number_2.13	1.0.18		552cc8f5593d452562c589bda33a289c9abc8cb9
 com.phasmidsoftware	number_2.13	1.1.0		2c8af888e4d2eb59de68ff71d3f70c82c2539701
 com.phasmidsoftware	number_2.13	1.1.1		e880d9766832c496404d8a949928c41f6179f558
+com.phasmidsoftware	number_2.13	1.2.0		28cc22a1ee304ce410b5e9d7f616cee719910804
 com.pig4cloud.plugin	nacos-datasource-plugin-postgresql	0.0.5		99bfdca6a14baf4b4f812461281990019cfc9639
+com.pig4cloud.plugin	nacos-datasource-plugin-postgresql	0.0.6		4ab48d3f97829be5219c6fe1633b13a40f4f2518
 com.pontusvision	janusgraph-cassandra	100-3.0		c211f75f782e72ef59a04d78ea792664a4ab7c6e
 com.pontusvision	janusgraph-cassandra	100.3.2		e9744b280c4ef9caee5bf7ce5e25604670fcedab
 com.pontusvision	janusgraph-cassandra	100.3.2.1		fdedd957406b81b37274560295285c931b453536
@@ -1504,6 +1507,8 @@ io.ktor	ktor-client-call-id-watchosarm32	3.1.1		f33ccdf0da4339048613b312f5152ddb
 io.ktor	ktor-client-call-id-watchosarm32	3.1.1	metadata	b91d3fdeb216323eecbe5ae54886f2889d5d935d
 io.ktor	ktor-client-call-id-watchosarm32	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-call-id-watchosarm32	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-client-call-id-watchosarm32	3.1.3		7740485bc4a2a71bab0db821c0a1d7073ce3d511
+io.ktor	ktor-client-call-id-watchosarm32	3.1.3	metadata	b78e96cfd7f21879f920e83b6f06d5ab1983cd8f
 io.prometheus.client.utility	jvmstat	0.0.10		470b6b86edf6df3aab9cfdf121090cbb1aa4221e
 io.prometheus.client.utility	jvmstat	0.0.3		591c36e34af2b4634e409cc9d75a56c92af4cc3b
 io.prometheus.client.utility	jvmstat	0.0.4		5ec785c1829b01566273937c6ec491ccd97dc2d7
@@ -2001,6 +2006,8 @@ org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.17		7c480dd7
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.18		4a1d5a6219875788fc51473c3a2f7e539b14566a
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.19		96799b2a03f1c361822f24b9c7aaff2e0178591d
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.2		7a095a7ff78767c7ffb8d32ee13a30dc18da05aa
+org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.20		ea44625349afaf430c156ce169b8fdf0dfdcc1aa
+org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.21		96358782d55a791c491cd92d54da205af781f1dd
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.3		9e4c457996454e8b0e296420fad532586ce48559
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.4		8782a0cc60981a8aada173ca155e01685285a189
 org.eclipse.jetty.ee10.demos	jetty-ee10-demo-async-rest-server	12.0.5		534ad3ac98f328e592fea966158eac4d0da908a7
@@ -2266,10 +2273,17 @@ org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.8.0		33f14c294
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.80.0		a3e581d1a09e65398b1fa80c54308777efc93384
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.81.0		d8752e25dd8e5116c4724b1709f68e5054aa4c27
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.82.0		1c172603f0cabc5a1a7cff469ea5588d75cd13e7
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.82.1		3cd4df7db5a82c7f6cd873754503ba875cf44494
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.83.0		e176bc2b65d0f7319a42575a488666ea3e478e4d
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.83.1		99cc35ce8e9f7a905c5aad2e1fca0f4ad64fc052
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.83.2		20d4f2886e8ae3daa74ac5c0514d06afea1bce02
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.83.3		a0c533ad6ebdf55659fee408646b1315ae27da93
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.84.0		29b486a4da75cc37da634aad4d3a89a6b24e631e
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.84.1		af166092b1d6b10513294c01287530cae40a5176
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.85.0		97e136cb4fb5cb21236d5cd0e7290ff3c15b3f6a
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.85.1		fbff18b0bb9afd86c96c951d781ddb9d033db697
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.85.2		039f1444028ead0e24c87191836d8673b2625f60
+org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.85.3		f89cee99cc18d918d3a13c90635694cbaca3d099
 org.finos.legend.engine	legend-engine-xt-analytics-mapping-pure	4.9.0		7fc67d11be941fd7ec626bc64a8a77895eecee9b
 org.glassfish.cluster	cluster-admin	3.1		2dc34fc6dfc0773e01492ad400831d944e85024d
 org.glassfish.cluster	cluster-admin	3.1-b01		61f7381a0aee9fcf5db5a67594c1beff4df7816c
@@ -3286,7 +3300,18 @@ software.amazon.awssdk	emrserverless	2.31.30		da963cddb681c1b4f7c02f35a9e4ada509
 software.amazon.awssdk	emrserverless	2.31.31		c54a4d8ff6ac30de4dc844f7c7e965dbaa4dc48b
 software.amazon.awssdk	emrserverless	2.31.32		806b9e18e71af84667c0fbf1459e7a33a2ef7d95
 software.amazon.awssdk	emrserverless	2.31.33		4f3eb6e9feace622bf437d9fa47f812c55afa514
+software.amazon.awssdk	emrserverless	2.31.34		65f6c60f6011776f8bf0da7ce9b229b8d3d9932f
+software.amazon.awssdk	emrserverless	2.31.35		e6fdf008a09107033ab02b5f820880f8eafe76d9
+software.amazon.awssdk	emrserverless	2.31.36		2b289c2fd0b13f0c33ea9cd89af73e13649df3d7
+software.amazon.awssdk	emrserverless	2.31.37		d71d1d6e8fa7ae27042ca4aa3e1d49058d367550
+software.amazon.awssdk	emrserverless	2.31.38		4fc460a0851b1e81c3e0638814405409f3fd3ebd
+software.amazon.awssdk	emrserverless	2.31.39		6c17317bfa77702a0f439fcbb36faf395d9346e9
 software.amazon.awssdk	emrserverless	2.31.4		8cac331d5f63a189a5a12825f38c5fa11c559a13
+software.amazon.awssdk	emrserverless	2.31.40		edd95b2092ab25b9745038ce949f7df288355247
+software.amazon.awssdk	emrserverless	2.31.41		6597db0b791dd25b1c812276ced4a45180ac9af0
+software.amazon.awssdk	emrserverless	2.31.42		04351bc857a2092613be47709981e4011e2b26a6
+software.amazon.awssdk	emrserverless	2.31.43		5f3e356308499be507cfa766998636a635635631
+software.amazon.awssdk	emrserverless	2.31.44		70905407658c8868100e286bafbb0e5759811a50
 software.amazon.awssdk	emrserverless	2.31.5		77c2da7f170f559c602a1b589a6aedf126babd9e
 software.amazon.awssdk	emrserverless	2.31.6		74d71950a090f5170937f6f2a48f3b1e1bcaa45a
 software.amazon.awssdk	emrserverless	2.31.7		7be33946318d8f5a8a2099acb38a3b88c55757be

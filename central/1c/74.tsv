@@ -431,7 +431,16 @@ aws.sdk.kotlin	apprunner-jvm	1.4.73		b7fe742fbf33374c95d8cc5d8a4b29543ff565d8
 aws.sdk.kotlin	apprunner-jvm	1.4.74		cf9e71402fd1e83d6d52754fe8c3eaaa7f23cb60
 aws.sdk.kotlin	apprunner-jvm	1.4.75		9a23f20426083f53ab6572bab6c504664b70a9cf
 aws.sdk.kotlin	apprunner-jvm	1.4.76		b5569668d29f202b84c97d65b5dda750fb94fbc0
+aws.sdk.kotlin	apprunner-jvm	1.4.77		2579ea43efda3b4199e94f44951b517d547d804f
+aws.sdk.kotlin	apprunner-jvm	1.4.78		9a87ebc76052b1fd3be4f32566f6a435a5cd8584
+aws.sdk.kotlin	apprunner-jvm	1.4.79		5c2eafa7a18ba5c953a46dcdb31a5e77b97a125e
 aws.sdk.kotlin	apprunner-jvm	1.4.8		5a8cf4cd21c7f3be6b31e052d1ded97157313e2b
+aws.sdk.kotlin	apprunner-jvm	1.4.80		69d7683c2452e38c8f8867bd581814df40689a31
+aws.sdk.kotlin	apprunner-jvm	1.4.81		bad856a62419171380946aec5c4fd8946c2721d0
+aws.sdk.kotlin	apprunner-jvm	1.4.82		73ddf229710cea161134cbc01691952a6f86a27d
+aws.sdk.kotlin	apprunner-jvm	1.4.83		795d838f4872f7b18cfd19d8274a5f195c559775
+aws.sdk.kotlin	apprunner-jvm	1.4.84		4141a9464bfda445af58991aa873271112d38eb9
+aws.sdk.kotlin	apprunner-jvm	1.4.85		23aba628b0c6b268bba0c76b6c2c5c2dff7da5a6
 aws.sdk.kotlin	apprunner-jvm	1.4.9		3172d451aa35b9bfc2faa6fc5265ca220d4386c5
 ca.dvgi	healthful_2.12	0.1.0		b34ddb632230acff0d3dd8baed0c24098f5e3c00
 ca.dvgi	healthful_2.12	0.1.1		b0845cd5d7797170e76bea475a9e506212118926
@@ -617,6 +626,7 @@ com.google.cloud	google-cloud-os-login-spring-starter	4.10.6-preview		8ec03ed756
 com.google.cloud	google-cloud-os-login-spring-starter	4.10.7-preview		e9fe2caf38a4db709a9c928c823c96a98ab245d6
 com.google.cloud	google-cloud-os-login-spring-starter	4.10.8-preview		d81a1198f5cc1e16451306b1edeced0a2bbdbbfe
 com.google.cloud	google-cloud-os-login-spring-starter	4.10.9-preview		603f5b58c576f0a596d1e6e7a96d18cf10e0ecf5
+com.google.cloud	google-cloud-os-login-spring-starter	4.11.0-preview		3cb7ddfbbe0c86198773f99b5bf951ab7ce9d793
 com.google.cloud	google-cloud-os-login-spring-starter	4.2.0-preview		29c30237685946ab8e0fe6439f3cb677ec1d54c2
 com.google.cloud	google-cloud-os-login-spring-starter	4.3.0-preview		c0d950427b0f62854aacd72cbc1c088fd6403cb3
 com.google.cloud	google-cloud-os-login-spring-starter	4.3.1-preview		e2fbc064444fbd62907fd7d948683b05b95961a3
@@ -648,6 +658,7 @@ com.google.cloud	google-cloud-os-login-spring-starter	5.11.0-preview		30729a4a24
 com.google.cloud	google-cloud-os-login-spring-starter	5.11.1-preview		1dd529632b4c8c60538aec25549593d28ea0368d
 com.google.cloud	google-cloud-os-login-spring-starter	5.11.2-preview		1d2819dd9e7d37e90d2635156c83760c2bd4cc9a
 com.google.cloud	google-cloud-os-login-spring-starter	5.11.3-preview		c3f851a2dc84f1b7fd102ee841a998de61406ee6
+com.google.cloud	google-cloud-os-login-spring-starter	5.12.0-preview		543a74fc7fce98008fceff96b83881e02586d6b4
 com.google.cloud	google-cloud-os-login-spring-starter	5.2.0-preview		5552f63b58e7e82aac796faaa871e986cf1c284a
 com.google.cloud	google-cloud-os-login-spring-starter	5.2.1-preview		53a09075f8ef474596232219958722c305de9ea0
 com.google.cloud	google-cloud-os-login-spring-starter	5.3.0-preview		e99cd566488a536e662582dd1f25c7908b71007b
@@ -1135,6 +1146,8 @@ io.ktor	ktor-io-watchosx64	3.1.1		6b39eaa327612eb5af9f7c19142441e0ecd472fc
 io.ktor	ktor-io-watchosx64	3.1.1	metadata	57c32d9fee1e059a7d561b26bca9d25432a315da
 io.ktor	ktor-io-watchosx64	3.1.2		e80c1ad15eabf67b306f0cb78a3f8a8e5fd4d061
 io.ktor	ktor-io-watchosx64	3.1.2	metadata	31c54771484a3c943b566f53311d890c2d96aca7
+io.ktor	ktor-io-watchosx64	3.1.3		1f03092223914366d923027e4627ed1d12ee39df
+io.ktor	ktor-io-watchosx64	3.1.3	metadata	2b085ab360f346c3944e23b6da5f10b0d45c0529
 io.pixeloutlaw	plumbing-api	1.0.1		dc14f6174bff52801d3ee21e905c39f043c7283e
 io.pixeloutlaw	plumbing-api	1.0.2		8213c2a4593597545e1d149afcdf87e05e6288e8
 io.pixeloutlaw	plumbing-api	1.0.3		224fc6d9568f1f122c4b2ec12e8dd8e367be8e3d
@@ -1201,6 +1214,7 @@ io.smallrye.common	smallrye-common-annotation	2.8.0		8de8d236445b8ea143a4884fad9
 io.smallrye.common	smallrye-common-annotation	2.9.0		3a3fc648de420682bf553ce0b361252e0ae23683
 io.spring.javaformat	spring-javaformat-formatter-eclipse-jdt-jdk17	0.0.42		9f0aaafab0255d4667bd23181951e1908e665656
 io.spring.javaformat	spring-javaformat-formatter-eclipse-jdt-jdk17	0.0.43		1c47b8299f960c9356180e0316ffedf87d07672b
+io.spring.javaformat	spring-javaformat-formatter-eclipse-jdt-jdk17	0.0.44		d7480633c1a27abfca44509a83a5c3c96a175e56
 io.suger.sdk	suger-java-client	v3.127.466		3209914e9f62701a3f750c8ea83ddb8ea55b60b8
 io.suger.sdk	suger-java-client	v3.128.118		08f691cd58298a0457ecdbf90c132fc44f22bcfc
 io.suger.sdk	suger-java-client	v3.128.140		4b2a4f62e756e4535069431a9a589df2f9eb1796
@@ -1459,6 +1473,8 @@ it.unibo.alchemist	alchemist-api	42.0.7		557de0a3b318d7b9b512501dff31f576ff4e2d1
 it.unibo.alchemist	alchemist-api	42.0.8		6f11e5f2e1c7a76d6ee4731f5d598f76040b08cd
 it.unibo.alchemist	alchemist-api	42.0.9		3b687cc6338715d3bc6fe9f144578e715f682019
 it.unibo.alchemist	alchemist-api	42.1.0		bc1cf3e932f14cfe2971638da017ed683c7cbfd6
+it.unibo.alchemist	alchemist-api	42.1.1		54fd474021104c1c8aa892a4b71bea5c34717927
+it.unibo.alchemist	alchemist-api	42.2.0		10464c8483be0c4264ee6abb475d1064ce36a631
 love.forte.simbot.common	simbot-common-stage-loop	4.0.0		1fb8973353c81f0d6588c10eb25aba3350bddd6e
 love.forte.simbot.common	simbot-common-stage-loop	4.0.0-RC1		1fb8973353c81f0d6588c10eb25aba3350bddd6e
 love.forte.simbot.common	simbot-common-stage-loop	4.0.0-RC2		1fb8973353c81f0d6588c10eb25aba3350bddd6e
@@ -3197,7 +3213,18 @@ software.amazon.awssdk	dlm	2.31.30		ffe2cca7c019e0ce266b2c78a2c5a441ddb3b83f
 software.amazon.awssdk	dlm	2.31.31		bf48b6465f0f8e33a8ee2048c47750446e4bb802
 software.amazon.awssdk	dlm	2.31.32		5d67384216030fcb66682c987a00808c93453f0e
 software.amazon.awssdk	dlm	2.31.33		1c5b58d1712ee5a3f8252b8fbab3345584bff1e8
+software.amazon.awssdk	dlm	2.31.34		5a953b00b1fdc4635f9b75dada533e21d3e08d73
+software.amazon.awssdk	dlm	2.31.35		9e832fa283a59c09c5ab0f62e7b84b3e312e4f83
+software.amazon.awssdk	dlm	2.31.36		da36cf1638a85d14072bf3f28e1f99153cd69d3e
+software.amazon.awssdk	dlm	2.31.37		a997168beaaebd93caa61b1450bc6713756fe95e
+software.amazon.awssdk	dlm	2.31.38		71a9b704d6af941f0425f11e9ce34386eaad3373
+software.amazon.awssdk	dlm	2.31.39		0adf882e5a22ce1ca78f1720a38d74026c15893e
 software.amazon.awssdk	dlm	2.31.4		e899cb67d9b5f46a19ea2e13c9841a2a5c788c70
+software.amazon.awssdk	dlm	2.31.40		10761d54d4599e5ca53989d9be7455eda4c20c13
+software.amazon.awssdk	dlm	2.31.41		c42e5b4efa6d530496c6eda2f0099b514a8b6bb7
+software.amazon.awssdk	dlm	2.31.42		60aa683fff7439b44548c325ca886f50771a811e
+software.amazon.awssdk	dlm	2.31.43		d62af5340c20c01fb4c9771a61a270f506798517
+software.amazon.awssdk	dlm	2.31.44		e43e447410ff3e246f832bd925e13ab5cb0d29e3
 software.amazon.awssdk	dlm	2.31.5		ca8d02ea74c6ac1c4ebf01b8af861b954c90e7ca
 software.amazon.awssdk	dlm	2.31.6		0cab364786cc31dc2a3ecbdd0eb31aca453683a4
 software.amazon.awssdk	dlm	2.31.7		6d53965ad2f6b9d163d29fffcdd0f046a6d7bc24

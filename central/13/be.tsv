@@ -46,6 +46,8 @@ com.eygraber	vice-core-iossimulatorarm64	0.9.0		N/A
 com.eygraber	vice-core-iossimulatorarm64	0.9.0	metadata	4a0446ed8f93ab69e80af53ddacefe5d10d5a4d6
 com.eygraber	vice-core-iossimulatorarm64	0.9.1		N/A
 com.eygraber	vice-core-iossimulatorarm64	0.9.1	metadata	f57aac1478ba8f1dcec6bbde6eccf3c2b0ed282b
+com.eygraber	vice-core-iossimulatorarm64	0.9.10	metadata	929566fccb91cdd1173a4bc710f4b870ca8bc49f
+com.eygraber	vice-core-iossimulatorarm64	0.9.11	metadata	b35940d88652ebb13588a98b3ef9fadfae116b04
 com.eygraber	vice-core-iossimulatorarm64	0.9.2		N/A
 com.eygraber	vice-core-iossimulatorarm64	0.9.2	metadata	4823a4b61ea5af76b6983331467494306258abd9
 com.eygraber	vice-core-iossimulatorarm64	0.9.3		N/A
@@ -223,6 +225,10 @@ com.github.paulcwarren	spring-content-solr-boot-starter	3.0.8		2e1560f3616ea2947
 com.github.paulcwarren	spring-content-solr-boot-starter	3.0.9		41ed107132bdfb829e46dffa9bb781bc3e98990f
 com.github.paulcwarren	spring-content-solr-boot-starter	v1.2.0		ce824aa103d70621395b45336fb3f26977b867cf
 com.github.paulcwarren	spring-content-solr-boot-starter	v1.2.3		d7e9b27452b06500ac7d4cc94b5ebaedc9002492
+com.github.romanowski	hoarder_2.12_1.0	1.0.2		31b7088c73b94bf22aa944c7f5f60687a96b403e
+com.github.romanowski	hoarder_2.12_1.0	1.0.2-RC1		5ccf11dceefbef867730749261c9956fc6690267
+com.github.romanowski	hoarder_2.12_1.0	1.0.2-RC2		6a416ef1ae7934500caa89aa0b95ce41cccaec1e
+com.github.romanowski	hoarder_2.12_1.0	1.0.5		df15ebed524d776dd37804bfba1c4436e6b82029
 com.github.stephengold	Heart	5.2.0for32		2f2f21f37966d7ace347c6aad075f29df79a8a74
 com.github.stephengold	Heart	6.3.0		a07e553cd4238e495898161a52e798417ac989aa
 com.github.stephengold	Heart	6.4.0		a1e05a94d75b2756726d249b1928dc979fbe16d7
@@ -1621,6 +1627,7 @@ io.automatiko.quarkus	automatiko-operator	0.41.0		ca1f5c2892f6436c3b3bc0015ecd08
 io.automatiko.quarkus	automatiko-operator	0.42.0		545ea492bab365a6eb4d25a26a58787eab1a3480
 io.automatiko.quarkus	automatiko-operator	0.42.1		6581b6f06a2aa3fa1b390fa93e0ee0bb66f15bfa
 io.automatiko.quarkus	automatiko-operator	0.42.2		eb1a0a8194ea71b129c08c6aaf68ae0feefc1f91
+io.automatiko.quarkus	automatiko-operator	0.43.0		743325d581ecaf43fa808974d293cea804365de5
 io.automatiko.quarkus	automatiko-operator	0.5.0		6fba87ea9099bd62ec288f5651d523df0e12a314
 io.automatiko.quarkus	automatiko-operator	0.6.0		ea7580b298f1a90f2ae91e5936fdeb9ce6830936
 io.automatiko.quarkus	automatiko-operator	0.7.0		df9801055eff97bd9950fa6e7b76502a8f458515
@@ -2054,11 +2061,19 @@ io.spinnaker.echo	echo-scheduler	2.47.1		ed123ccd1d8c8772936ba2a7c3292002a3f6aa2
 io.spinnaker.echo	echo-scheduler	2.47.2		6f8a07adf01a262d2b4d2d07853d2c138937b257
 io.spinnaker.echo	echo-scheduler	2025.0-0		047eac89bf4d9cf0253be57c6666ef0c95c67bdc
 io.spinnaker.echo	echo-scheduler	2025.0-1		e7dd3cf9ebeccaf157a7fd3aabc1e89d48f83c5b
+io.spinnaker.echo	echo-scheduler	2025.0-2		b2c1e80ca627248f551f6052b0880ce26ae9276f
+io.spinnaker.echo	echo-scheduler	2025.0-3		a2d893a4ffa21157909d850565caf66a7f58895b
+io.spinnaker.echo	echo-scheduler	2025.0-4		dd1ed6c5530b280583d5307c73aebaa50490aab9
 io.spinnaker.echo	echo-scheduler	2025.0.0		f83c2398833d3241789a3115012335b9f73b3f3e
+io.spinnaker.echo	echo-scheduler	2025.0.1		47dc57ffedc6b8ee53830d1027d09350cd1f95f5
+io.spinnaker.echo	echo-scheduler	main-10		dd01042c80caea43b0bccb983747eda00bfdfa23
+io.spinnaker.echo	echo-scheduler	main-11		e8246638708fb1ea8faec357117534689c0ca29e
+io.spinnaker.echo	echo-scheduler	main-12		7d9b88ee1ee2a2ec3ac3503bab8ef4c724aa147c
 io.spinnaker.echo	echo-scheduler	main-5		72084a39b8fda230ecfc83567ba752ef26ea8a7c
 io.spinnaker.echo	echo-scheduler	main-6		b6fe0f79c58169b8d4c373ce49c953de12ca4fd3
 io.spinnaker.echo	echo-scheduler	main-7		d2b6be802b54b3326963fcf60d55713ae15b6bb6
 io.spinnaker.echo	echo-scheduler	main-8		c9aa13203eb9c3b190c61635a8e128a165b2930e
+io.spinnaker.echo	echo-scheduler	main-9		e9e189b11856d6974fc21cdb2f3162546814b1ed
 me.haroldmartin	objective-cli-jvm	0.1.0		a52b8905719d5fb5d2c64a989be66c847c746fa3
 merlin-tutorial	publisher-api	1.0		260bb55a167e5375c53526372c7e3495559de13c
 net.afanasev	kson-annotation	1.1		a2c45785ed2e665c09f13b43b2f157a8cd96cec6
@@ -2266,6 +2281,7 @@ org.apache.camel.springboot	camel-amqp-starter	4.8.3		6ab86394a5beb60a09ede8c5e1
 org.apache.camel.springboot	camel-amqp-starter	4.8.4		df869f2b5388a3ef0aa0c4de1b934baa5cff5cca
 org.apache.camel.springboot	camel-amqp-starter	4.8.5		85700d4a6be4c6eeeab3835a6eff481725de54b1
 org.apache.camel.springboot	camel-amqp-starter	4.8.6		ac40f09baa38380e26eb3cd065adc0b465d4f5c2
+org.apache.camel.springboot	camel-amqp-starter	4.8.7		a6cf52f678b4ee19b4a68a408d12c07550d7f76b
 org.apache.camel.springboot	camel-amqp-starter	4.9.0		8e512ee1e4e5ea85ed6c133123a90e33c1536c5f
 org.apache.directory.studio	org.apache.directory.studio.schemaeditor.help	2.0.0.v20150606-M9		6ee87c601b073f5d888aceee5ee62bcef63bd110
 org.apache.directory.studio	org.apache.directory.studio.schemaeditor.help	2.0.0.v20151221-M10		a15bf5202f26913c46dbe29ad4d9915418b4afcd
@@ -2361,6 +2377,7 @@ org.apache.nifi	nifi-security-utils	2.0.0-M1		e34fcadc6b4a9dbdbc223ec7189cda0900
 org.apache.nifi	nifi-security-utils	2.0.0-M2		5ef9d37b35ead9585c9a67f9b37fb8c934632f5f
 org.apache.nifi	nifi-security-utils	2.0.0-M3		4c778b5439176accec72b32f0e706a0ec9d00bbe
 org.apache.nifi	nifi-security-utils	2.0.0-M4		841041f4b41e5811dbdb82dcd8249c5e5a47dbf1
+org.apereo.cas.support.cas-server-support-rest-authentication	5.0.0.RC2	support		c9051967ae16c3dc3cfbdae829f6f3e32dc3b4bf
 org.coodex	coodex-jsonserializer-jackson2	0.5.1		f1b78a4d8c01465675b22355d782159cbb013e4f
 org.coodex	coodex-jsonserializer-jackson2	0.5.2-RC1		8e0628964a03cdb01d4aaa730adfff905d523481
 org.coodex	coodex-jsonserializer-jackson2	0.5.2-RC2		577bea920110c4e44310b53266162fde53ec458d
@@ -2473,6 +2490,8 @@ org.opensearch.migrations.trafficcapture	jenkinsTests	0.2.3.2		71786b7ed1fbc4956
 org.opensearch.migrations.trafficcapture	jenkinsTests	0.2.3.3		7ae644fa7ef7944fc5db7b4b34a8785782ca72cd
 org.opensearch.migrations.trafficcapture	jenkinsTests	0.2.3.4		64ca65a9389e38ea9793afe89d4c5a4ef755054e
 org.opensearch.migrations.trafficcapture	jenkinsTests	0.2.3.5		51c3006391b553392860067a41430fc97c0fe314
+org.opensearch.migrations.trafficcapture	jenkinsTests	0.2.3.6		845724e8f389d3ad506d60f2d6cefad89454dfd5
+org.opensearch.migrations.trafficcapture	jenkinsTests	0.2.3.7		a57ee801df7baf7be5a29289f906eb2d401e47b8
 org.ops4j.pax.web.samples	samples-jsf	8.0.0		N/A
 org.ops4j.pax.web.samples	samples-jsf	8.0.1		N/A
 org.ops4j.pax.web.samples	samples-jsf	8.0.10		N/A

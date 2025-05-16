@@ -122,7 +122,9 @@ com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.35.0		d8cd3c12e69ad4ef
 com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.36.0		78980453052b8ef3745099063a4548bd6e388bbb
 com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.37.0		8f53645a7a8978da357c6c5fbaee8a50424d2e14
 com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.38.0		433845cd60c26c396652f7d13b5f7d83aeacf890
+com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.39.0		b911bd7386581aca4088747cbed28c3a6413fe54
 com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.4.0		e5a368b20e63f131fc53c5d2795b119702202ca6
+com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.40.0		442c2c8341e7bb1a405d6464c13d6b33ecaf22c7
 com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.5.0		a2f15716e1bb6778bd4967974f3e4d23fb91da20
 com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.6.0		825a3518922a3d6229e5e6a8dae0a407b3dac1b5
 com.google.api.grpc	proto-google-cloud-infra-manager-v1	0.7.0		de317df7d5f83edd4c76ea687ddca9a2d0ec72b6
@@ -693,6 +695,7 @@ com.lihaoyi	mill-contrib-playlib-api	0.12.1-7-d8bbe5		e2e1654f904f821e3bda3d312a
 com.lihaoyi	mill-contrib-playlib-api	0.12.10		c85b843d33b97d83332f244eae09ea90b93bbcf3
 com.lihaoyi	mill-contrib-playlib-api	0.12.10-3-7afdee		f48206d04f9df14e6846cf814c3a691e79be237f
 com.lihaoyi	mill-contrib-playlib-api	0.12.10-6-cb6954		3d00120506efe1cecf47e7023c1e89fb871f841a
+com.lihaoyi	mill-contrib-playlib-api	0.12.11		c4e69b031baf990d0001644c5a02f84d968868fd
 com.lihaoyi	mill-contrib-playlib-api	0.12.2		d36855b90a1b696c8006e0899e3879e8fe6a3cfa
 com.lihaoyi	mill-contrib-playlib-api	0.12.2-16-4a07b2		7612b29e3f30ce3083bd62108f4516e85f97bba2
 com.lihaoyi	mill-contrib-playlib-api	0.12.2-20-231ff6		72d4afbc805e45a1b123162f1ede8c46f504d653
@@ -777,6 +780,11 @@ com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-33-c98221		5fb7b73420bce20eb23171
 com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-39-4c3eb7		4fb74033559f79fa239eac2a035b1017428eb3c1
 com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-41-b39ce4		276cb1c7d9336adf38657038b757f823f3e84e53
 com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-42-a720c3		1808af0467f90820d708e36d6861d226981e87b8
+com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-51-773072		e4b66b1e425281307129de24620401c68ffea876
+com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-56-51ca83		0d7af6ae8b5188c328ecedc96633a84d1ab937a9
+com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-57-7578c2		39fb5e18ed61ced60e8e3b9ed044ff35f4bd8ef3
+com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-59-17fa7b		28475ca6825f3d15d2c017d4307ce7c6574cfe1a
+com.lihaoyi	mill-contrib-playlib-api	0.13.0-M2-74-132761		aeed59a0d2959d693b42d8132b3116170df31632
 com.lihaoyi	mill-contrib-playlib-api	0.6.1-122-5be570		d6bcecad7832d40335ce27ce1131ad7d841b89f4
 com.lihaoyi	mill-contrib-playlib-api	0.6.1-123-6b987b		9b5aa63aa224223b6710ece2aa0676552fa9fb8a
 com.lihaoyi	mill-contrib-playlib-api	0.6.1-124-85aa6b		98f65ff5b2e91dd95e6b543aafcc7667110d5db6
@@ -1506,6 +1514,7 @@ me.ahoo.cosec	cosec-jwt	2.13.1		33d06de16486bc36c475152b5e602235736f80f8
 me.ahoo.cosec	cosec-jwt	2.13.2		aa6152066bd2c18463ed72638a2bd4eb7d1a7dde
 me.ahoo.cosec	cosec-jwt	2.13.3		b89d492a688efad76f6477bdf170f3cf416ecaf6
 me.ahoo.cosec	cosec-jwt	2.13.5		8634b7c79fd7f2a29f3f44cc5c0175b1d50c13b7
+me.ahoo.cosec	cosec-jwt	2.13.6		166aa9b8ab710641442c0c54ef90d17737860410
 me.ahoo.cosec	cosec-jwt	2.2.0		9904da30dc187b796b449044c060074afe6afe8a
 me.ahoo.cosec	cosec-jwt	2.2.2		7246069d22017c58df53461aef996ea09a110534
 me.ahoo.cosec	cosec-jwt	2.2.3		6d23d523706fa681b773d1d40a06d63e72781482
@@ -3671,7 +3680,18 @@ software.amazon.awssdk	sqs	2.31.30		490be84e8458952a1de0f7c1137e88f8e7d6bd7d
 software.amazon.awssdk	sqs	2.31.31		01d0a03ccb174219f4682dbc9196b7ad9bed9b27
 software.amazon.awssdk	sqs	2.31.32		3c80abcb5b29b285a87e578f5bff4fdf916d937f
 software.amazon.awssdk	sqs	2.31.33		ee579a8b65ca1792ffe64742d5837145ccebd1ee
+software.amazon.awssdk	sqs	2.31.34		433624dd226f99aeb2bffe70007de73dffd68a40
+software.amazon.awssdk	sqs	2.31.35		d4d8dafc3655a5fceaae6f60ead7514ea71f6182
+software.amazon.awssdk	sqs	2.31.36		2cb9614f322187b418110170628a97a151cba1fe
+software.amazon.awssdk	sqs	2.31.37		a757efe2cb3088ac60df7e64a20cbd8267e619d5
+software.amazon.awssdk	sqs	2.31.38		a3f82d3eee8bcf2c28253b68f7828be4d594453c
+software.amazon.awssdk	sqs	2.31.39		33226df0e6d1761482d2d83e77ed767c84f4cc2a
 software.amazon.awssdk	sqs	2.31.4		a89885749b23523bf58cb5475258f5f719213665
+software.amazon.awssdk	sqs	2.31.40		b8a5c00477c22fc6372bdeaf6b378b3edc47c3e1
+software.amazon.awssdk	sqs	2.31.41		3f983feb15870c132d0067904bdb2f6fda7b179d
+software.amazon.awssdk	sqs	2.31.42		7d45c15f8ac3c4883b313446e89d44b8742ebafc
+software.amazon.awssdk	sqs	2.31.43		f252c530d7aa798f87011aa11fb2edeb285c4399
+software.amazon.awssdk	sqs	2.31.44		a6e4c70bf2caa14dc21da1d147b0d6c9393a848a
 software.amazon.awssdk	sqs	2.31.5		af3d0ddf137b101a8c9a2bccc9c5a1e873ce8d45
 software.amazon.awssdk	sqs	2.31.6		753912503f1b54c22efc15fd7ff57f878e34dc7b
 software.amazon.awssdk	sqs	2.31.7		95c075ff3df2fa43c4b63a7e95e7f0a6e030e40e

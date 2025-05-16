@@ -40,6 +40,7 @@ com.github.dandelion	dandelion-extras	1.1.0		N/A
 com.github.dandelion	dandelion-extras	1.1.1		N/A
 com.github.fedorchuck	dnjson	0.1.0		6cb025d1403505de9ff1b473f5f6826ad25e2481
 com.github.lukaspili.autodagger2	autodagger2-compiler-utils	1.1		fd7702c3c461c49abc0b5ea4bdbbef8e60be17e8
+com.github.marcioos	bgg-clienẗ́	1.0		dfb75109d0f0bc721b98f06cd2d9db9633b5bf7e
 com.github.rssh	appcontext_sjs1_3	0.1.0		c6e5ed25cb8bb2998b5b6bf3e441b97332b7e2f1
 com.github.rssh	appcontext_sjs1_3	0.2.0		217e18b555155fa846aceeedcc9cee3330752e92
 com.github.scalaprops	scalaprops-shapeless_native0.5_2.12	0.6.0		3be60856c71c3ff0be976331f053473a7b39985f
@@ -254,6 +255,7 @@ com.slack.circuit	circuit-runtime-presenter-tvossimulatorarm64	0.27.0		N/A
 com.slack.circuit	circuit-runtime-presenter-tvossimulatorarm64	0.27.0	metadata	5ec3e5b7ecf6f36fbdaa3d97f73a22d316e6d64d
 com.slack.circuit	circuit-runtime-presenter-tvossimulatorarm64	0.27.1		N/A
 com.slack.circuit	circuit-runtime-presenter-tvossimulatorarm64	0.27.1	metadata	5ec3e5b7ecf6f36fbdaa3d97f73a22d316e6d64d
+com.slack.circuit	circuit-runtime-presenter-tvossimulatorarm64	0.28.0	metadata	10932a7f22bb02601ebe128dcab128cd5fb29eb8
 com.ucasoft.kcron	kcron-abstractions-iosarm64	0.10.5		N/A
 com.ucasoft.kcron	kcron-abstractions-iosarm64	0.10.5	metadata	62c4a1e9e47ac0b697c92eae9cc02cf6a731d23f
 com.ucasoft.kcron	kcron-abstractions-iosarm64	0.13.2		N/A
@@ -532,6 +534,8 @@ io.jooby	jooby-metrics	3.5.5		c978f01fa1e4caf37d0011e9a4f6105c9bc3e972
 io.jooby	jooby-metrics	3.6.0		d136088291bbad7db0393293e901ec71ddcf936f
 io.jooby	jooby-metrics	3.6.1		f889e199ca85f30a155910cd3b0d74a574e95240
 io.jooby	jooby-metrics	3.7.0		40fa017156bd7054d46c39a00f860b4de4dc45c8
+io.jooby	jooby-metrics	3.8.0		b8472773a12dec5d4d3a48c367d1ceb2b8c048c6
+io.jooby	jooby-metrics	3.8.1		1616037dc9872f7f692d263598437da7e7009032
 io.joshworks.snappy	snappy-loader	0.3		29cd32984d48183503c5ee913499d5afce040c73
 io.joshworks.snappy	snappy-loader	0.3.0		9ab2aa8b5b767bdfb1a71fedca009d5dddd66fd1
 io.joshworks.snappy	snappy-loader	0.5.0		5aaa5120893a0cc23c0ee014b679f48352841996
@@ -803,6 +807,7 @@ io.quarkus	quarkus-rest-client-jsonb-deployment	3.15.2		62bd6bdc68a48c192647b912
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.15.3		e88de130d0810235c07bed90ca75f1f97fb54c33
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.15.3.1		8c33c4fca8bee56a3a083e09b8ef5ebe0ae40253
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.15.4		039fc4cae045c176815971d1786226a15ac0139a
+io.quarkus	quarkus-rest-client-jsonb-deployment	3.15.5		88191116acb10c8d4e488da6e80d58795e03e6c1
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.16.0		a9c62f426b41e925f09dfec38750548fb98c499a
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.16.0.CR1		d0e29884eea98106289138d62bbebd6f7d5c7365
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.16.1		754c31a80fcb94df0621029496dda3cef7d603bb
@@ -847,6 +852,7 @@ io.quarkus	quarkus-rest-client-jsonb-deployment	3.2.8.Final		4f0d141ffae2fb86da5
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.2.9.Final		ec8d13ab269a14f6c6618cf01fab6a3e93e7c072
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.20.0		96349dc5bbb2ea9376f1a949befc311d324b979b
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.20.0.CR1		3d6086c99d52c8ed2eb9f1220b79d64f7b5cfd16
+io.quarkus	quarkus-rest-client-jsonb-deployment	3.20.1		b10e2a0399a5f87bfccec7d8320c4b7aa9d8b753
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.21.0		8cca885f71924b5be88617618137dc74ae15a733
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.21.0.CR1		628fb6c2e77e3076ca58f4fca9ade297dba151dc
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.21.1		611fbb7ad2e299c29bbe4e6019a7bed690fe40a5
@@ -856,6 +862,9 @@ io.quarkus	quarkus-rest-client-jsonb-deployment	3.21.4		607f6df6d24b4a247bc20fa5
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.22.0		1146f4eaa7ff84cf4399e579acdc4990e90cdfd5
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.22.0.CR1		84f7d97c7e7aa55b3f349ad2e8425cd0fac5f19f
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.22.1		96fbf3642bf8095070f2d3d9fa13d5cb92bd5c14
+io.quarkus	quarkus-rest-client-jsonb-deployment	3.22.2		91691507e713ba5217a2d48de4c67f203524f248
+io.quarkus	quarkus-rest-client-jsonb-deployment	3.22.3		04243530512df249a87d5afad531bffdbc5645c4
+io.quarkus	quarkus-rest-client-jsonb-deployment	3.23.0.CR1		58860b22ea67c058cd0e636c23f67b9dab3f93b8
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.3.0		13f6d19996dae2840e4f8c6dead5c0b81ec0fe07
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.3.0.CR1		d959432697c75c089fa0fed925471b8ad6c1be51
 io.quarkus	quarkus-rest-client-jsonb-deployment	3.3.1		ae7c20e6d24b81e003c6f4d59023990d8b668e57
@@ -917,6 +926,7 @@ io.toolisticon.aptk	aptk-integrationtest-java16	0.28.0		a4f27c76c70c26e9b0ad8fc0
 io.toolisticon.aptk	aptk-integrationtest-java16	0.29.0		8cf7049539f6f65b9b3f9dbd63fc4d4f9e97bb3a
 io.toolisticon.aptk	aptk-integrationtest-java16	0.30.0		8bf839d0fa6eaf9839e92d0735ee3dd785a15724
 io.toolisticon.aptk	aptk-integrationtest-java16	0.30.1		56ab8c86e2ebbf47608fcdb35b8f1c4930fba2ee
+io.toolisticon.aptk	aptk-integrationtest-java16	0.30.2		7fc4715e32ca9525c423d0cf1a1a703de4084d8a
 love.forte.simbot.component	simbot-component-onebot11-event-iosarm64	0.0.1		N/A
 love.forte.simbot.component	simbot-component-onebot11-event-iosarm64	0.0.1	metadata	0a09d424b61014703918b61e2020daee19c2265b
 net.avcompris.commons	avc-examples-users3-query	0.0.1		3626cab0e003588e4ceb44641d7b59f9fded8c08
@@ -1297,3 +1307,7 @@ tz.co.asoft	lexi-configuration-watchosx64	3.0.14		N/A
 tz.co.asoft	lexi-configuration-watchosx64	3.0.14	metadata	6f0a3e0dcb52cfd6820ee5d5d0aef5ba276f92b9
 tz.co.asoft	lexi-configuration-watchosx64	3.0.15		N/A
 tz.co.asoft	lexi-configuration-watchosx64	3.0.15	metadata	f06d0de49881a4930d9761b60ead17070adf13a1
+tz.co.asoft	lexi-configuration-watchosx64	3.1.0	metadata	2fcc3accb4c6e7de75a99ce4eddd0bafbf4d78b0
+tz.co.asoft	lexi-configuration-watchosx64	3.1.1	metadata	a901239e7ebc9418e9024ca4434738664d1810de
+tz.co.asoft	lexi-configuration-watchosx64	3.1.11	metadata	cf6ee6a3da8a8429abea017838eb4a67de677ae1
+tz.co.asoft	lexi-configuration-watchosx64	3.1.12	metadata	c88504766f0732b0fdc13e18e6ee5f080915b60c

@@ -87,6 +87,7 @@ ai.chronon	online_2.11	0.0.92		1b116720a0df1d126c557a9e3517e8897e3dade1
 ai.chronon	online_2.11	0.0.93		3836dbf87b4fbc0929215fd81903a1957963af5e
 ai.chronon	online_2.11	0.0.94		2c3abcef91a49d28437e043c50b55906ef51b214
 ai.chronon	online_2.11	0.0.95		a70093701e40602273aabc842e96ad689717e6c2
+ai.chronon	online_2.11	0.0.96		3743bd32e8554b39ecca25fe99f18c67656a926f
 ai.chronon	online_2.11	13_publish-0.0.12		b8c4ee32a82ba3bac62b282808a2ff4769c70433
 ai.chronon	online_2.11	chaining-0.0.46-dev		dc86bb675223403a92eabe3ba2680ea9441b2b49
 ai.chronon	online_2.11	def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91		4937248215e0ed6e8e97b24268d13f186155797a
@@ -287,6 +288,7 @@ com.google.cloud	google-cloud-network-management-spring-starter	4.10.6-preview		
 com.google.cloud	google-cloud-network-management-spring-starter	4.10.7-preview		05fb7a4b907ba4e7df984403b40ee0f0c46d74fd
 com.google.cloud	google-cloud-network-management-spring-starter	4.10.8-preview		e715cf6d6e40f8f9cc777a177aac41f69c260555
 com.google.cloud	google-cloud-network-management-spring-starter	4.10.9-preview		d4e0ce76e16b5884d13af62f1bbdd290a3fc205c
+com.google.cloud	google-cloud-network-management-spring-starter	4.11.0-preview		5df8f3bc7e227140bcbbaa2d0d800e0e68a37550
 com.google.cloud	google-cloud-network-management-spring-starter	4.2.0-preview		414379802f96fcaa2b4b918df4c5c4b6d7674262
 com.google.cloud	google-cloud-network-management-spring-starter	4.3.0-preview		b39b67597e4fa012fa7bb76bfc55cb554bf6bb9c
 com.google.cloud	google-cloud-network-management-spring-starter	4.3.1-preview		cc82a90c516a6c1f69b2b44be24f9236a6c98145
@@ -318,6 +320,7 @@ com.google.cloud	google-cloud-network-management-spring-starter	5.11.0-preview		
 com.google.cloud	google-cloud-network-management-spring-starter	5.11.1-preview		98f19f27a2e14386f6360e7001ea2c8087f53aa2
 com.google.cloud	google-cloud-network-management-spring-starter	5.11.2-preview		1167d82efd864ce7b937f819cd691a4710e54fcb
 com.google.cloud	google-cloud-network-management-spring-starter	5.11.3-preview		e406b53cd8ffeafb9af643f2b00e88e9e14fba5c
+com.google.cloud	google-cloud-network-management-spring-starter	5.12.0-preview		3f8ca53b36a9495a8360d8f08ca06c8291b641d0
 com.google.cloud	google-cloud-network-management-spring-starter	5.2.0-preview		aaef499d5342eae59d6401382e6072d0a95289bd
 com.google.cloud	google-cloud-network-management-spring-starter	5.2.1-preview		86b0e7b0a2603b335db3dd0c92707222ab55f835
 com.google.cloud	google-cloud-network-management-spring-starter	5.3.0-preview		2cabebef5492a3da8417b6ad3f359d357ec72d58
@@ -646,6 +649,8 @@ com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.63.0		ca473b865e73b6e8533349e72e0ef147
 com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.63.1		d9dc293358b68fe108bcf5d8cbdc90987bdea570
 com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.63.2		d90d2a2bd83d9a01b597fa06e3f7f9b6404424c2
 com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.63.3		dae6dcee221a572357f0d2beb2792f7e136dc054
+com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.64.0		cae75367f9ea2b8bc75e609941f31286465ba211
+com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.65.0		6172d37c760aaadfa8f09f37346b71740e3d1d6d
 com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.7.0		d9cecbc8c54b3af81dc0c6a63802dcff7b1e3af6
 com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.8.0		dc2ef152b33ff888040d080d573ff02ceae1b021
 com.oracle.oci.sdk	oci-java-sdk-vbsinst	3.9.0		53eecbc83cf6fbe6305e6de7a0338651a7d7dfa4
@@ -1260,10 +1265,17 @@ org.finos.legend.engine	legend-engine-extensions-collection-generation	4.8.0		35
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.80.0		ba8b038863b14d4ff3a0d54ce1554d9aae0158da
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.81.0		a2f6f4678a5b79ee0e2aec8c91c73cfaba37bc3f
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.82.0		56c08cafec8582f1df18f926aab9a9b59c3eb7e9
+org.finos.legend.engine	legend-engine-extensions-collection-generation	4.82.1		ddc9ae85f2228a722b24fe40374528b99721f5d6
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.83.0		31f3e3bb61573e9d27e7c3705c7d41916b838c8e
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.83.1		73a904dd5dbd4d5906bd3380849d93c85cdfd99b
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.83.2		2f972e66e8293c7efd35878d6ea62aec45258e0b
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.83.3		39555732c683e1d38e1c62473aab88e3ac96d8e0
+org.finos.legend.engine	legend-engine-extensions-collection-generation	4.84.0		ebc956afa33e5d82e2c7581ddb68e85040d0318c
+org.finos.legend.engine	legend-engine-extensions-collection-generation	4.84.1		0bfb1adcd0d62c5de0f2c68e1f8d7286afb082f1
+org.finos.legend.engine	legend-engine-extensions-collection-generation	4.85.0		f4d54d97aa406fe63e8e5586014cea96c5571b6f
+org.finos.legend.engine	legend-engine-extensions-collection-generation	4.85.1		040a0b3b89ebdf1e28a54341e8392c7fa9a8aa36
+org.finos.legend.engine	legend-engine-extensions-collection-generation	4.85.2		4a7ae8fa21d990e76ec8df74428841cd13b88653
+org.finos.legend.engine	legend-engine-extensions-collection-generation	4.85.3		c9fb2f617ae57e26a1e9442328e3d5d462a9bd43
 org.finos.legend.engine	legend-engine-extensions-collection-generation	4.9.0		14eee69dc7e364c1a6f8383bdc8684c91530c522
 org.foundationdb	fdb-relational-server	4.1.10.0		0034e00837ef7cbaf7b019305c6ceffb927106d0
 org.foundationdb	fdb-relational-server	4.1.10.0	all	ca3c66642a46eac4c33daefc82317ca658ac1072
@@ -1289,6 +1301,8 @@ org.foundationdb	fdb-relational-server	4.2.5.0		1d254ec6caf556f024e94ce44f60aaf1
 org.foundationdb	fdb-relational-server	4.2.5.0	all	c51b2c0044ff6a1b444128c5a76dbb37a0d4e474
 org.foundationdb	fdb-relational-server	4.2.6.0		ba093f5fa4129cde25581c19f65eb6d045b64faa
 org.foundationdb	fdb-relational-server	4.2.6.0	all	3c49d017010c6cfb76b073df55b6fdf283064ce1
+org.foundationdb	fdb-relational-server	4.2.8.0		bc64b267d59ee4464652f813b4ab12938698787e
+org.foundationdb	fdb-relational-server	4.2.8.0	all	e3531b504833524902ece70bef6c6b9ae12e0cc7
 org.jetbrains.kotlinx	kotlinx-serialization-properties-macosarm64	1.3.0		N/A
 org.jetbrains.kotlinx	kotlinx-serialization-properties-macosarm64	1.3.0	metadata	d12078e6c155740449c6e422ee2e5e8b81466a44
 org.jetbrains.kotlinx	kotlinx-serialization-properties-macosarm64	1.3.0-RC		N/A

@@ -439,7 +439,16 @@ aws.sdk.kotlin	devicefarm-jvm	1.4.73		ad2d51a0477bd873ed516460fc2e588f660ba479
 aws.sdk.kotlin	devicefarm-jvm	1.4.74		d970830a5c4cac8c37136079a1504c4fdf194c51
 aws.sdk.kotlin	devicefarm-jvm	1.4.75		69e4827d0ca3d17b60e48302e0578546340d4d95
 aws.sdk.kotlin	devicefarm-jvm	1.4.76		a2ec21d1378ea872f2fbfdf7c486fe72273cba84
+aws.sdk.kotlin	devicefarm-jvm	1.4.77		6226a0360971ed775ea7d6d0e861c8b4ecf27085
+aws.sdk.kotlin	devicefarm-jvm	1.4.78		6fdec5c0e2768d0a2011eef75ef2b8d1c45855f9
+aws.sdk.kotlin	devicefarm-jvm	1.4.79		90b7d477dd7bf8e806d17850c512586d22bfa075
 aws.sdk.kotlin	devicefarm-jvm	1.4.8		44dedbb1e217ffb939deb2faa7662205ba8d26a2
+aws.sdk.kotlin	devicefarm-jvm	1.4.80		0543c06c22aecdf38f3e7a228a91804849d891ed
+aws.sdk.kotlin	devicefarm-jvm	1.4.81		1e263f9e3d1afa0a4049bbd15b75aa6eabe683e4
+aws.sdk.kotlin	devicefarm-jvm	1.4.82		9757808026a0a5c74c66f5b6f95c515405218018
+aws.sdk.kotlin	devicefarm-jvm	1.4.83		5b13fe3c525945a838f08a3e1daafb32b4dfc530
+aws.sdk.kotlin	devicefarm-jvm	1.4.84		43b1926be45df20be676f15ee1ea070caeb0f5b7
+aws.sdk.kotlin	devicefarm-jvm	1.4.85		d0c3afbb37163d201c0f09694fba7efc9e0b2726
 aws.sdk.kotlin	devicefarm-jvm	1.4.9		eaab4fed149d59474ec842842575fa41d2038f28
 be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-ldes-client-connector	2.12.0		811c5c27eede0b82543712cdb5bcc0cb4b1b0435
 be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-ldes-client-connector	2.12.0	jar-with-dependencies	0c032bccfe276f91382e6a522d4383cf8d4cb312
@@ -1021,6 +1030,7 @@ co.fs2	fs2-io_2.13	3.12.0-RC1		b74aed0b437881aef17fe255e3a5166f25ab5612
 co.fs2	fs2-io_2.13	3.12.0-RC2		c1355a022c824a435e7056dfb838cf3635d8611c
 co.fs2	fs2-io_2.13	3.13.0-M1		dd8354c4d9741638fe9fd5c85b11c1679cc80a4b
 co.fs2	fs2-io_2.13	3.13.0-M2		0d1ba87ec69d9bbb8ddd7051986c0cc02d65a059
+co.fs2	fs2-io_2.13	3.13.0-M3		f6fad04f6f35d4aee36cc1ed1ba6c9bb50fb68ae
 co.fs2	fs2-io_2.13	3.2-10-421c242		0732e5d66be5df065eb3a51676edf0efb199810a
 co.fs2	fs2-io_2.13	3.2-10-ea04dd1		701cfa4e8cb6854a340e086cda9ec1184a67e802
 co.fs2	fs2-io_2.13	3.2-100-c1910b5		37d1d0705d83bee1b19dc0185f9c24d4bbbd11e1
@@ -1304,6 +1314,7 @@ com.fasterxml.jackson.module	jackson-module-android-record	2.18.0-rc1		2d376b252
 com.fasterxml.jackson.module	jackson-module-android-record	2.18.1		7480e218277bcaa9a8523b351a7393ee9f7d8563
 com.fasterxml.jackson.module	jackson-module-android-record	2.18.2		3e8783615d87611c94c65afe258a53c0a4c60678
 com.fasterxml.jackson.module	jackson-module-android-record	2.18.3		23d291fa3c36fb14de654af3c29f8487a3ff9647
+com.fasterxml.jackson.module	jackson-module-android-record	2.18.4		d75dbab8d6a18853dc246e1ddfd36179a5b23334
 com.fasterxml.jackson.module	jackson-module-android-record	2.19.0		2e78a8938e8b7c61c1d3f642a7da512d692d629c
 com.fasterxml.jackson.module	jackson-module-android-record	2.19.0-rc2		8b8afeca6aefe8d06eb2e08dcfda3f8f0d572e76
 com.geosiris	cloud-storage-api	1.0.0		d30c854b0e46007adb92ca3eaf133166fbe27c6c
@@ -1756,6 +1767,7 @@ io.helidon.archetypes	helidon-database-mp	4.1.6		8d54db852f3e971464ea03c8aee82df
 io.helidon.archetypes	helidon-database-mp	4.1.7		37845dbb40c38a36bda4c26e540ea70fedb87a2b
 io.helidon.archetypes	helidon-database-mp	4.2.0		e023cb5e149fc1e7663d3d7af3450583998a66b3
 io.helidon.archetypes	helidon-database-mp	4.2.1		b97884d7fe06d4891ef94343cf9087ac20b4e884
+io.helidon.archetypes	helidon-database-mp	4.2.2		08a42e35dca877d5ccfbcd4d6297d83d78252b07
 io.mosip.idrepository	id-repository-salt-generator	1.1.2		566a2c958c104ddf362331d75fea1bd73bcfe97d
 io.mosip.idrepository	id-repository-salt-generator	1.1.2-rc2		b5c0aa6321f5bdbb4f19039c14c67d3c0facd575
 io.mosip.idrepository	id-repository-salt-generator	1.1.2-rc3		def19ed41114d6cca62de99618104f1d52e9949a
@@ -1924,7 +1936,9 @@ org.apache.pekko	pekko-discovery-kubernetes-api_2.13	1.1.0-M1		9391e581ecf389ad8
 org.apache.pekko	pekko-discovery-kubernetes-api_2.13	1.1.1		afecf06197b4194e09b946a860d6f7c4dc5978b0
 org.daisy.libs	dotify-translator	1.0-alpha1		2c33aa849ea224a60b62d6de8f9a24d6a55d01b5
 org.eclipse.milo	milo-dtd-reader	1.0.0-M1		392e4ac7b6de06eda39ba96360793e1467f15033
+org.eclipse.milo	milo-dtd-reader	1.0.0-M2		bffd2d3b6abe211c5f18459776a503958a8bc9f0
 org.eclipse.milo	milo-sdk-core	1.0.0-M1		69710e51da9a318751d6de8101fe9e09de4da4ff
+org.eclipse.milo	milo-sdk-core	1.0.0-M2		be33ca916c73366a97ddcf4e4c205188a7b1abc8
 org.eclipse.scout.sdk.deps	org.eclipse.debug.core	3.10.0.v20150303-1130		bcbbfd42cef1e58c5e852f56532c6ccde0e8a2be
 org.eclipse.scout.sdk.deps	org.eclipse.debug.core	3.10.100.v20160419-1720		51fce68e1ba82d0eaf9a406f04866634456aa3c9
 org.fabric3	fabric3-weblogic-cluster	2.5.0		ef6f1c8e7c19b7769e71b5480596e82d92eeba07

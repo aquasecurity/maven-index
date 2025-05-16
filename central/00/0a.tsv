@@ -116,6 +116,7 @@ co.fs2	fs2-protocols_2.13	3.12.0-RC1		1cac41a267a4ccd2d2267f44d1902046608638ec
 co.fs2	fs2-protocols_2.13	3.12.0-RC2		6a28cd5a14dbe6be922150b8fa0ae5f67f246891
 co.fs2	fs2-protocols_2.13	3.13.0-M1		0faab4920c776035b7e1012d9db8f4ab259f73e5
 co.fs2	fs2-protocols_2.13	3.13.0-M2		3e4bc068afc82aa3e2c2847f70bfad5d94590f16
+co.fs2	fs2-protocols_2.13	3.13.0-M3		cbc25a983e34ad99c92b93b8a9a45ff13031f2d1
 co.fs2	fs2-protocols_2.13	3.2-10-421c242		9edbb9cb9d72160173eb90877a22fb9616f6b3e3
 co.fs2	fs2-protocols_2.13	3.2-10-ea04dd1		4c4989df78ce5d330053c25aa8eb1bbb7279f5d2
 co.fs2	fs2-protocols_2.13	3.2-100-c1910b5		fce7f3c030a866b242deb5dae5faf8dd6de75429
@@ -349,6 +350,7 @@ com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.10.6-previe
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.10.7-preview		9f9da4261457c2ab3b14687ec5df6acd8aa3fcb0
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.10.8-preview		9fe98f40aea8bc57d3c99c80c019610b0a784ebb
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.10.9-preview		b5719c15e4b8a17ed8fb7f23ac003dc263af266f
+com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.11.0-preview		2ee02e3fc289f7b31ede4ff1b13427887603713d
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.2.0-preview		1f99228a43cab3d0a9cf54c04800125c5bfbd078
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.3.0-preview		f4a53247ee5b74612c425eb3c5500500367a8e20
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	4.3.1-preview		83841a2928af71742dc524bfb6beb28424314ccf
@@ -380,6 +382,7 @@ com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.11.0-previe
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.11.1-preview		5baf4fac16aa694b18869e36ce33d79989fc4ef3
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.11.2-preview		2e026fafdd145df97ecd0adb0bec908a34d8c85d
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.11.3-preview		c3217d0471c310780107fa9887827c40db46064c
+com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.12.0-preview		ded6fe1ffc6bceaed3e584c4376d6e0592383f80
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.2.0-preview		bda20d61e301758ce308c121bab6a6bb7005c6cb
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.2.1-preview		adb4fdde878f8e599daeee6a8ed2f092597cc114
 com.google.cloud	google-cloud-policy-troubleshooter-spring-starter	5.3.0-preview		6f9d08b77a4a324ab45dc28e30abf79884d51247
@@ -708,6 +711,12 @@ com.soywiz	korlibs-ffi-wasm	5.5.0-alpha1		N/A
 com.soywiz	korlibs-ffi-wasm	5.5.0-alpha2		N/A
 com.soywiz	korlibs-ffi-wasm	5.5.0-alpha3		N/A
 com.soywiz	korlibs-ffi-wasm	6.0.0-alpha1		N/A
+com.swoval	sbt-make_2.12_1.0	0.0.1		beee553854b64dea1def1d8c53b7258f0be14c32
+com.swoval	sbt-make_2.12_1.0	0.1.0		7c468db84797c7183a9674cd2492077252691232
+com.swoval	sbt-make_2.12_1.0	0.1.1		c20c99e646621f1373372c98f959755e4f05a23a
+com.swoval	sbt-make_2.12_1.0	0.1.2		f81e86ec5c44cf1c24c689f761d1df38ed2bb170
+com.swoval	sbt-make_2.12_1.0	0.1.3		93d38c5ef0b1311236409222b7e79181ce205c05
+com.swoval	sbt-make_2.12_1.0	0.1.4		af3bdd96ef615fe36e9ca71dd7fbf4432414e133
 com.truthbean.logger	jdk9-system-logger	0.4.0-RELEASE		ec9c387aa3e17392fa46041120ee0ba96187c34c
 de.adorsys.oauth	oauth-test-saml-idp	0.10		N/A
 fr.ird.observe.toolkit	common-db	1.2		eeb03b91e8e4162333d74d910e573ff77434964a
@@ -787,6 +796,9 @@ io.github.studiousxiaoyu	spring-ai-hunyuan-autoconfigure	1.0.0-M6		7315ecb87f4eb
 io.github.studiousxiaoyu	spring-ai-hunyuan-autoconfigure	1.0.0-M6.1		81e7cbb50e440e7b211b72aa069e8fb29844dc67
 io.openharmony.tpc.thirdlib	MyLittleCanvas	1.0.0		N/A
 io.openharmony.tpc.thirdlib	MyLittleCanvas	1.0.2		N/A
+io.taig	sbt-scalariform_2.10_0.13	1.0.0		4e43aebbf21aa007702ad7e92e83203caf98f406
+io.taig	sbt-scalariform_2.10_0.13	1.7.0		2adc49cbc57da054ac5bb8744ff83f8c0350ed4e
+io.taig	sbt-scalariform_2.10_0.13	1.7.1		65ccde4b7d5427ae3dcbbb8ae98e2a67547bc474
 io.telereso.kmp	core-test-js	0.10.0-alpha.1		N/A
 io.telereso.kmp	core-test-js	0.20.0-wasm.1		N/A
 io.telereso.kmp	core-test-js	0.3.0		N/A
@@ -891,6 +903,7 @@ org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.2.1		df99e6402b8df6
 org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.2.2		ca0b0b8f4e6ee0156aeaeb7c3e811137f9bc2f4a
 org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.2.3		d595fbbc52d2bd0a5b36bd763b991c8936867e46
 org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.20.0		2c22dd70169e593465c8e79f8c36fcdc3f582266
+org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.20.1		898700bf8d6d3752f2fc95d69a6819ec1ff1e08d
 org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.22.0		57e9fd8dbf6c33533acc4e531aac5a240a0e228e
 org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.4.0		60c57198a08c17285936d709c89cdbd6c6679d8f
 org.apache.camel.quarkus	camel-quarkus-protobuf-deployment	3.5.0		c8a5748242cc39fae25e81f22fd90f9b30a245d4
@@ -1245,6 +1258,8 @@ org.finos.legend.sdlc	legend-sdlc-test-utils	0.188.3		3f8196103d9b3b867c2506083d
 org.finos.legend.sdlc	legend-sdlc-test-utils	0.189.2		7664686171d3aeacbc5a114b92f8cfb0c8c19ea2
 org.finos.legend.sdlc	legend-sdlc-test-utils	0.190.1		e7e9291542496198c2bc3864ca162f0d7480acd7
 org.finos.legend.sdlc	legend-sdlc-test-utils	0.190.3		b637c04a3ad3848a9f684ccbf1b5a8a93b1753d9
+org.finos.legend.sdlc	legend-sdlc-test-utils	0.191.0		15c0a353c0ca9c7f850d1e3da04b48db25af3dd1
+org.finos.legend.sdlc	legend-sdlc-test-utils	0.191.1		2dd153fe680e60fdfb23ecb1fc30b597cf0084e9
 org.finos.legend.sdlc	legend-sdlc-test-utils	0.34.0		63e9d159a8c716444e9ec249682ef878dd27a626
 org.finos.legend.sdlc	legend-sdlc-test-utils	0.35.0		88f3c693b0ea952c93a49ffcb4e94d7e20e67dc0
 org.finos.legend.sdlc	legend-sdlc-test-utils	0.36.0		671b56c5e0c609dabc385166da30dd748007a692
@@ -1647,6 +1662,9 @@ tz.co.asoft	response-core-tvossimulatorarm64	3.0.14		N/A
 tz.co.asoft	response-core-tvossimulatorarm64	3.0.14	metadata	fbe7d2a5a72eef7fa20ceab2b38f100826be9b79
 tz.co.asoft	response-core-tvossimulatorarm64	3.0.15		N/A
 tz.co.asoft	response-core-tvossimulatorarm64	3.0.15	metadata	9f17202ddb34a4d7a4b77bb48ece4f7a92bd2ed0
+tz.co.asoft	response-core-tvossimulatorarm64	3.1.1	metadata	bc86e5a033bc8b8724fdf54a2665d0e91b7aa74f
+tz.co.asoft	response-core-tvossimulatorarm64	3.1.11	metadata	694a7751a4134a0403c505b6927cc116368f7935
+tz.co.asoft	response-core-tvossimulatorarm64	3.1.12	metadata	65834114e93b8fadab84f3776f29d7db6bad14a6
 uk.gov.nationalarchives	preservica-client-root_2.13	0.0.10		5cc3ecf60aed3237626fa7b0b243218d7018f565
 uk.gov.nationalarchives	preservica-client-root_2.13	0.0.11		a742cf56a60ebb73544a11770aa668115cc04eb0
 uk.gov.nationalarchives	preservica-client-root_2.13	0.0.12		437514d8d863ad497e01c70b6d2ef3f670676484

@@ -451,6 +451,7 @@ com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.1221		c13917e60f9a8b9f1d93
 com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.1222		986313ce9ef1b5aad11c2ebd668285318405467f
 com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.1223		c47c53845b3a14be37396a2e5e3e15845b9570dd
 com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.1238		2be049f21375126a34c13b6f93332813d6fa5095
+com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.1260		c4e6224768a7ec062fb1ddd01b880e310dea941b
 com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.179		7c8cbcbce2cb92e43e240ffc46dd3f5ba7d50015
 com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.179	jar-with-dependencies	e119fc85b3093118a156e27c9f70fbdde3ac06b0
 com.tencentcloudapi	tencentcloud-sdk-java-billing	3.1.180		10a9d21b133c1e3567b9b34cff11f3d9402c6489
@@ -1508,6 +1509,7 @@ dev.ikm.owlapi	owlapi-parsers	4.7.6		4f40a30efb1ec4f57418833c5a819144419a8010
 dev.ikm.owlapi	owlapi-parsers	4.8.0		0f9e6e2669a0dad88b0b5ed37d189a106ae5f14d
 dev.ikm.owlapi	owlapi-parsers	4.8.1		a8035238474aec53a22ba807e9d59da621848c69
 dev.ikm.owlapi	owlapi-parsers	4.8.2		de3c214034ff8687f663d4586401d15bc63483d6
+dev.ikm.owlapi	owlapi-parsers	4.8.3		3d86f822c15907a2efdbb5e7e67731e19a72df05
 dev.opensavvy.prepared	compat-ktor-linuxx64	1.0.0		N/A
 dev.opensavvy.prepared	compat-ktor-linuxx64	1.0.0-rc.1		N/A
 dev.opensavvy.prepared	compat-ktor-linuxx64	1.0.0-rc.2		N/A
@@ -1588,7 +1590,11 @@ io.qtjambi	qtjambi-remoteobjects-native-linux-arm64	6.7.3		034dff61802be8eb0dfc6
 io.shulie	oshi-core	1.0.0		309d47822701ac1aa2b8382f76ac099ff953decd
 io.spinnaker.clouddriver	clouddriver-elasticsearch	2025.0-0		04927e7eb1f250d8c18845b97720a36020ac2eeb
 io.spinnaker.clouddriver	clouddriver-elasticsearch	2025.0-1		21776d33d901bb2ef476e592f2ffc3a1f080be50
+io.spinnaker.clouddriver	clouddriver-elasticsearch	2025.0-2		1fba1c8010cc6f792b19a5c4f2bf3b9e43e3e67b
+io.spinnaker.clouddriver	clouddriver-elasticsearch	2025.0-3		d7d32f21914b4ad0fdcf4fdabee725e47ae511c0
+io.spinnaker.clouddriver	clouddriver-elasticsearch	2025.0-4		e776ea232be19acf48a7370179e69e533601f36c
 io.spinnaker.clouddriver	clouddriver-elasticsearch	2025.0.0		a1fa945e590e69b153da64973cfe1ded31efb317
+io.spinnaker.clouddriver	clouddriver-elasticsearch	2025.0.1		189015e2d81928d58c27f146c461e2ed122bbd2b
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.74.0		5141908940ad95778bf1f9a404ed8a9d863f57f1
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.74.2		ba2f27b16ba9c7368a39dafc81912dbb27a327ca
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.74.3		29c6ded39eee90d6d0a5bd5cabe32a8f24bd7090
@@ -1669,14 +1675,19 @@ io.spinnaker.clouddriver	clouddriver-elasticsearch	5.91.3		2160b84312362b9f6fe4e
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.91.4		21ef6da3de8f98d83bbf67ea3d0e4fe75019db7c
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.91.5		0bfd1fb28316e20ae283e7f3dcb1a1ae74aa64b6
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.91.6		38832067fedbc15cbc2620a7664db0953148b94b
+io.spinnaker.clouddriver	clouddriver-elasticsearch	5.91.7		1141bb8de25bc8820f7aa2c5130402042411ae20
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.92.0		2e4ebe3de3c8770636202a2842a19dfe657d13b8
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.93.0		fd097ce2e8184b70a19bf8bba4b4642e12e1c1ab
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.94.0		0bbf71969bba00e5100af54b7c0412c4d8b77175
 io.spinnaker.clouddriver	clouddriver-elasticsearch	5.95.0		88fc43b6a4c3b396a21761a75b606d7a0818dc6e
+io.spinnaker.clouddriver	clouddriver-elasticsearch	main-10		5cdfa9a24c1f554a710aa57b4b689c4c139744e2
+io.spinnaker.clouddriver	clouddriver-elasticsearch	main-11		e68efd4f5c5edcdc7609cc3fce2f73ce50495cef
+io.spinnaker.clouddriver	clouddriver-elasticsearch	main-12		a49c401f6fd313a5448d21ec116d0a740f34236f
 io.spinnaker.clouddriver	clouddriver-elasticsearch	main-5		c6c9818ee2b5d95b242fbb762306ca3f4e109f04
 io.spinnaker.clouddriver	clouddriver-elasticsearch	main-6		8f81f27dae1b9b8cfb1db3f8b898806578c945ff
 io.spinnaker.clouddriver	clouddriver-elasticsearch	main-7		08e932ddb53d94272951aa0726de810a23327cd4
 io.spinnaker.clouddriver	clouddriver-elasticsearch	main-8		2e7e6751c3f63e4e30c6277e193f7b896187c130
+io.spinnaker.clouddriver	clouddriver-elasticsearch	main-9		50dd53e7a7fb954550f4fc6e8189997c66597f67
 love.forte.simbot.component	simbot-component-onebot-v11-message-linuxarm64	0.0.2		N/A
 love.forte.simbot.component	simbot-component-onebot-v11-message-linuxarm64	0.0.3		N/A
 love.forte.simbot.component	simbot-component-onebot-v11-message-linuxarm64	0.0.4		N/A
@@ -1715,6 +1726,8 @@ maven	maven-jdepend-plugin	1.5		ed53c651a8b0dc7a086906024b0c8b04d656cf89
 maven	maven-jdepend-plugin	1.5.1		ad4fb1d883dfb684c9cf3674bf8f88bed470b8ca
 maven	maven-jdepend-plugin	1.6		762e6aef1889dc4c71e274901c5a331466ee99ed
 maven	maven-jdepend-plugin	1.6.1		90454fa235fe4f09b706c882b61fbcddf66e2f3e
+net.kindleit	play2-native-packager-plugin_2.9.1_0.11.3	0.1		5d5c81003f199b6fc252c3880894d6a6b2686639
+net.kindleit	play2-native-packager-plugin_2.9.1_0.11.3	0.2		7d96a96cce3b814728093c83ddadb22397947a7a
 net.lachlanmckee	gsonpath-compiler	1.6.0		7ba376ffe48796799c8ae37dc689eb906bd6e979
 net.lachlanmckee	gsonpath-compiler	1.6.1		bef520bf5903d0924ebec76f32421cbd6bc4db81
 net.lachlanmckee	gsonpath-compiler	1.6.2		07529824389cea447eea4784552405d1e7156da9

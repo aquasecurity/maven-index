@@ -31,6 +31,7 @@ cn.xx996	wx-sdk	1.0.1		057c30e9c2bed2d23d73b59f0bc5c179d4af0df7
 cn.xx996	wx-sdk	1.0.2		N/A
 co.bird.skate	module-core	0.2.1		1a165f9d89b6c1f42fa58876675d454b34ac5bc1
 co.bird.skate	module-core	0.2.3		dcd23ad38eb55e9213bc69504d4d0cca5395ab9c
+com.47deg	interactive-training_2.12_1.0	0.0.1		75b5afe7e1dc2704a294ef6dd56eb7d97cd0d2cb
 com.acxiom	metalus-gcp_2.12-spark_3.1	1.8.1		0f62e5c898e440f99ea88cae49ceb2d097f23b59
 com.acxiom	metalus-gcp_2.12-spark_3.1	1.8.2		ff0cd5bea51e1a7e65dbba3ab04b9c4ab8b7b241
 com.acxiom	metalus-gcp_2.12-spark_3.1	1.8.3		116d547e5802dea8adc9e67bc91bfdb763171932
@@ -1313,7 +1314,14 @@ com.yahoo.vespa	container-search-and-docproc	8.511.14		6c5247d5e7b1d91f6ee2a0792
 com.yahoo.vespa	container-search-and-docproc	8.512.63		fcf346be737356082fc7818f3f18c52abd36e7d6
 com.yahoo.vespa	container-search-and-docproc	8.513.17		ffbb0c440633489be95b3e46e10863cda06b507f
 com.yahoo.vespa	container-search-and-docproc	8.514.24		ac3a45c75071372d9355b673e4407d0a69e5b3c8
+com.yahoo.vespa	container-search-and-docproc	8.515.40		3ce46695e020e42903172811597b1e6713cf5bcf
+com.yahoo.vespa	container-search-and-docproc	8.516.26		6a3d47f97df89cafb0bf0fdd124a30686fc55800
+com.yahoo.vespa	container-search-and-docproc	8.517.15		8687e77a5c9dae97e8c5592b11ae22cfd9dbe6fb
+com.yahoo.vespa	container-search-and-docproc	8.518.4		c97447680794c7999ed21f5d64ed9860ea381718
+com.yahoo.vespa	container-search-and-docproc	8.519.55		46214f09168a6d45ea682c76aeec90fa95329252
 com.yahoo.vespa	container-search-and-docproc	8.52.15		a9197f42459463e38612638c6eb2546f1781f12a
+com.yahoo.vespa	container-search-and-docproc	8.520.18		8b08c2d4945e53f7039e84824151fbbbc4dffe41
+com.yahoo.vespa	container-search-and-docproc	8.521.17		7b0cba861590d7d6ac50ee570c758dbfc27ed55d
 com.yahoo.vespa	container-search-and-docproc	8.53.21		cc2a29e311922c844354be232915c0ed649d9b37
 com.yahoo.vespa	container-search-and-docproc	8.54.61		565e831bddd509b0c9021ad088045e2b1c1fd505
 com.yahoo.vespa	container-search-and-docproc	8.56.20		0e8a7df2bc06239cd24f7f82a35ea247c3bfe4bc
@@ -2207,6 +2215,7 @@ io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.13.2-alpha		0b62
 io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.13.3-alpha		c2431a8f425d6948d2d8293174c6af171fe0d967
 io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.14.0-alpha		fbda6e33b40f91bbb9397f15750a9967c3d8573d
 io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.15.0-alpha		555d37790279a33c08bcf08c6152b969ee86bb67
+io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.16.0-alpha		8cc948b6ff7c9838fd52fad83989007c0cfdd9e8
 io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.2.0-alpha		14527b0f6f25351d973d63e5748e7fd30812345a
 io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.3.0-alpha		492c3b182c6208b51b7c9ef1bea693b5d7c2c291
 io.opentelemetry.instrumentation	opentelemetry-micrometer-1.5	2.4.0-alpha		2f219e60d9a3b6fee08e354a8a037138a6913937
@@ -2440,6 +2449,7 @@ no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.18		24d09fd7232302b4c
 no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.19		4ed2b9e88cdf92151db44d9c3b68f72a5cb20ead
 no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.20		fb7b755d9a637b722f0576f01193f12329cf757b
 no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.21		183e5f4654c31925aecd61762707ed20cd7f1646
+no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.22		7669633067e95af2676d793fb5756f89c2219af3
 no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.6		9b32aff794535f47f2ade2e96bb98c1c9c8c1b47
 no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.7		71635b0783fa465117a618fdb82b063dd16c068f
 no.mnemonic.services.triggers	triggers-pipeline-worker	0.0.8		08fccebebff454e65864f16c42defdec967237e9
@@ -2523,6 +2533,9 @@ org.http4k	http4k-platform-gcp	6.6.0.0		0b8e8ff12ecac1fa838c2f9ef0debcfcc36a8ef8
 org.http4k	http4k-platform-gcp	6.6.0.1		6a54a7becc773dc09b15841d81dd1dc55c780cc2
 org.http4k	http4k-platform-gcp	6.6.1.0		ed7a03e9a689ac085362e185beb82a9be51fe110
 org.http4k	http4k-platform-gcp	6.7.0.0		3da9516adcfc3b47c6ef57c6fbf800a227219c6b
+org.http4k	http4k-platform-gcp	6.8.0.0		8cec050b3955285e563fc8444d1648545ad30dd5
+org.http4k	http4k-platform-gcp	6.8.1.0		6ac54f3d8b26c9de20c5810a5f2f319dde59fd3e
+org.http4k	http4k-platform-gcp	6.9.0.0		2e1d5c1f2060a4ab71fe6973b7acd23acef357f8
 org.http4k	http4k-platform-gcp	v6.3.0.0		8cf4851e053632f81c6f53f5363204fea4deda81
 org.http4k	http4k-platform-gcp	v6.4.1.0		2008729696add97cc1a35afde697af6ee6a7bb6b
 org.kde.brooklyn	canaveral	0.1		b89836d57032f865d8b975a05147b872c411015f

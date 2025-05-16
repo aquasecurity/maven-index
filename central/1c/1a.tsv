@@ -133,6 +133,7 @@ com.approvaltests	CounterDisplay	24.19.0		c434d3409747a1b8fa0b37f0a1deae9e53624a
 com.approvaltests	CounterDisplay	24.2.0		9ec3f654da1f14e57139cd61555ae1e56261e9f9
 com.approvaltests	CounterDisplay	24.20.0		ed539323a098305b9a994db7b33cec18584863e8
 com.approvaltests	CounterDisplay	24.21.0		18726bb8ac45f5194fdbe93be91381fd6b10f847
+com.approvaltests	CounterDisplay	24.21.1		24f91857ec8e59282d572bd5dc6f949ab88413e5
 com.approvaltests	CounterDisplay	24.3.0		3345cebb36f466e639c43d3c1ccf4d9f34b5efce
 com.approvaltests	CounterDisplay	24.4.0		e5e7fa9abc6c5aa7844cab49eabd1bea1a0a8db8
 com.approvaltests	CounterDisplay	24.5.0		a3f48e8e554e91a1db788290bbfd5ecd561d3da5
@@ -402,6 +403,7 @@ com.jd.live	joylive-bytekit-bytebuddy	1.5.0		b3f3fa39ad85187b19a496b87e9a7720977
 com.jd.live	joylive-bytekit-bytebuddy	1.5.1		6dc52a857ccce96143a82b44459de625a922fd8e
 com.jd.live	joylive-bytekit-bytebuddy	1.5.2		008030de4996bdd180c23cc4ef9ee4ab6d2577ea
 com.jd.live	joylive-bytekit-bytebuddy	1.6.0		e08a70b1416a63731028d0c195ef97c4642da683
+com.jd.live	joylive-bytekit-bytebuddy	1.7.0		c57dfa417fb3319b3fec3d901a814b801e7cde29
 com.lihaoyi	ammonite-cross-3.1.0-interp_2.13.7	2.5.1-6-5fce97fb		4e336e4eb1d4a2e33b2249bff0fd55100f511049
 com.lihaoyi	ammonite-cross-3.1.0-interp_2.13.7	2.5.1-7-cd989427		7843a5b2824464539de5393a5aecea10ebf53525
 com.lihaoyi	ammonite-cross-3.1.0-interp_2.13.7	2.5.11		d9c7402e5c4998508a2239acaad8b52e96910f74
@@ -692,6 +694,7 @@ io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.0-alpha5		4590c08b64b3
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.1		e9479606fc1b8fca8a32276afe3f35dc72e3f1ef
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.10		d9bf278a0f54f306936c79373db5b778705f4dc1
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.11		a4b9a2401cb0fcd3cc0501ba34f49d75fe238840
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.12		9dd3efc7a593041732e8e973134c6c0631b79713
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.2		ab1b27b0b6ab7520a57f992f8dbeef238dbe377f
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.5		8cef1587041ff313073644bf732b987faf437c73
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.6.6		ae4eb9c276203900ec168329e02b14e0a1fd56ea
@@ -703,8 +706,12 @@ io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.7.0-alpha3.1		b72fcb80db
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.7.0-alpha3.2		060463facfa03528d50c1859ff45c7c6124d2d00
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.7.0-alpha3.3		d04bfa31b4f45d05d71e5477c18327a37c94b780
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.7.0-alpha4		bd8842df61daf980ede62a5fd41dc8076124ba9e
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.7.1		0b918b4ade57c38d2bea613ecf48d70cad8bf9cb
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.7.2		6c035a30e0486b7b8c27911a11ced8c17710199a
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.8.0-alpha3		9f11f97a9518bf7515fad5adefd21e5db9258d77
 io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.8.0-alpha3.1		a6c75a44d8a6fd2e72ad34c8f348dfc74f107bd8
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.8.0-alpha4		7d4e9505bd3b3271df32706c5b3dd48d761f578b
+io.camunda.connector	connectors-e2e-test-aws-dynamodb	8.8.0-alpha4.1		6d4d1a1cd33e479b9bb5945f326fb6594d89071d
 io.funkode	zio-arangodb_3	0.0.3		ea064f56eb8278dbba792cd0e3a2e1616c562b73
 io.funkode	zio-arangodb_3	0.0.4		4171961c7bf5fb45be7fb91ff9389f02bab24e60
 io.funkode	zio-arangodb_3	0.0.5		e2ed9f7dbca041abc842c42219b389ed05b8e102
@@ -2303,6 +2310,7 @@ org.scala-lang	scala3-interfaces	3.3.5-RC1-bin-20241204-5f2d7ef-NIGHTLY		3f20f37
 org.scala-lang	scala3-interfaces	3.3.5-RC1-bin-20241209-fa617ff-NIGHTLY		1589022eb211d5f2b3157440b92a6f196ed9454f
 org.scala-lang	scala3-interfaces	3.3.5-RC2		eedabcb571f2b257d35faa00b626ac98e1ecd0f7
 org.scala-lang	scala3-interfaces	3.3.5-RC3		7f7f4e612448ecefa61d597a1ba52c4a1db98931
+org.scala-lang	scala3-interfaces	3.3.6		5bfe446d1bb888ecce20dea236fb39965a828979
 org.scala-lang	scala3-interfaces	3.3.6-RC1		34a80faac0e2e2210a9efe79f6d9f7db376a7b8f
 org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250128-c189755-NIGHTLY		0d6ab7c0be3871f96791bc0dc246ef9827ed5047
 org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250219-7fb2a9d-NIGHTLY		d44ce00573b418b6b1e12be4a510d2d961f92b98
@@ -2314,6 +2322,7 @@ org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250318-daca114-NIGHTLY		fbdb24c
 org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250319-2b41273-NIGHTLY		92723ba6f20b625d9b978241edf9bf54e368092b
 org.scala-lang	scala3-interfaces	3.3.6-RC1-bin-20250326-98b374a-NIGHTLY		9e443abaff279a45dd36c7957035ae43bf1fd246
 org.scala-lang	scala3-interfaces	3.3.6-RC2		34e34d6b5c5373ae9633cc8608448caa6515806c
+org.scala-lang	scala3-interfaces	3.3.6-RC3		cddc6909e8dd8fd99c614583a7e8ec82530d9c5f
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250402-71aca20-NIGHTLY		4887617c7c1d887fbb05c4a257c933bc3ccee559
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250403-3c1ff9a-NIGHTLY		abbb5e92ed3b0bce61e6eb1f163dd5a53814f9c3
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250408-f8a1729-NIGHTLY		f7ee80d9fbc319be35d9bda8c07c2a4a23c52581
@@ -2326,6 +2335,11 @@ org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250427-e3c4028-NIGHTLY		e0d9587
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250428-84ea7eb-NIGHTLY		957d68c865c15ff98aef2d8aac4b05f6cd46da92
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250429-5df2a92-NIGHTLY		0ec77305849f09eb35f3e434594ca2d5eb2c93ab
 org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250430-bb278ed-NIGHTLY		e8d36ea46884a4701f81ecf2642ca917533e22bd
+org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250502-0c7c85c-NIGHTLY		932e8b56b98beef4a00847a840a3804ac0e073c4
+org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250506-875ba1d-NIGHTLY		d55e5d0015eefe4802775b46815cce2bdb92c669
+org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250508-d735cf4-NIGHTLY		5d7b3db1d0f69e93f9d36f2ebe1e661fcddfbbfb
+org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250509-ba7071d-NIGHTLY		e2a2f7bc2fec0360eb0335c9f6189fab6a4bc2ed
+org.scala-lang	scala3-interfaces	3.3.7-RC1-bin-20250513-a72362d-NIGHTLY		be59127516d8735debce064570051ce59d269402
 org.scala-lang	scala3-interfaces	3.4.0		1c6ceb786d5eb954edc171e8f3e10313247dd743
 org.scala-lang	scala3-interfaces	3.4.0-RC1		4a3784208b10a0a53ea51b11ede55f373714dda5
 org.scala-lang	scala3-interfaces	3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY		e3267dcb107c6c557d97bc6b30df9083c668e153
@@ -2711,6 +2725,7 @@ org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20250112-ae980a7-NIGHTLY		ee8ad60
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20250113-c10def4-NIGHTLY		16cd68c1f8b6dc7640059a10f7efe42e53855002
 org.scala-lang	scala3-interfaces	3.6.4-RC1-bin-20250114-312c89a-NIGHTLY		9ababc7881fe9fac5c85f793d936364db0ed7486
 org.scala-lang	scala3-interfaces	3.6.4-RC2		cfb7a0faf38de4bbf06ebc6038de93f17a0a6f9e
+org.scala-lang	scala3-interfaces	3.7.0		6f3b104f0d2b87533aedc2e1389178a5f49c87a1
 org.scala-lang	scala3-interfaces	3.7.0-RC1		fdce3e278a401826cba492321acfbecd1ad30136
 org.scala-lang	scala3-interfaces	3.7.0-RC1-bin-20250116-0f9e502-NIGHTLY		81cc4deae892d1de3d0ad4f5309d5a4b94734c19
 org.scala-lang	scala3-interfaces	3.7.0-RC1-bin-20250116-8b27ecb-NIGHTLY		f955dc505c445047dbbbeb4e451f51194c652c42
@@ -2753,6 +2768,7 @@ org.scala-lang	scala3-interfaces	3.7.0-RC1-bin-20250312-3fe9304-NIGHTLY		e8e4686
 org.scala-lang	scala3-interfaces	3.7.0-RC2		a94977c78e1c32de1076e2f00ab98375653acb99
 org.scala-lang	scala3-interfaces	3.7.0-RC3		d4680623bbc5d10ed546d4be4657e428d068bcb4
 org.scala-lang	scala3-interfaces	3.7.0-RC4		8908a8d609e68fe29abffe58eaed03e8e011502a
+org.scala-lang	scala3-interfaces	3.7.1-RC1		4d858a6cec972aad4fbfad4ee207495030ea97b7
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250313-596538b-NIGHTLY		1a4d6ef8e4b8e413a89bd8245ecc91a605ce5f65
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250315-8734fbd-NIGHTLY		ef5fac4ba1fcad1e543bf55fe5a21b2597677234
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250316-28072c5-NIGHTLY		1a73a399edba9881235c1c412f2f2239dec5cf8d
@@ -2782,6 +2798,17 @@ org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250425-fb6cc9b-NIGHTLY		3b7d79e
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250428-08f2e4a-NIGHTLY		37426638af26f3a06f5064160de5030085716aba
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250429-57807c6-NIGHTLY		f943cab7744dde0b0c17934edce7e94f6e80de37
 org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250430-c4531d4-NIGHTLY		bec59d9ff8d8e0dbd0e6ef15321fe5fa8415c468
+org.scala-lang	scala3-interfaces	3.7.1-RC1-bin-20250501-83ffe00-NIGHTLY		41d266708af5c7ffa554a946c59ce59d2bb53533
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250503-453f94d-NIGHTLY		8a7b865190a7a16dda44c616a4c40e5bc08828b1
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY		22281a5dbdec4310d28b55f091cdd1c4b2af28d1
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250507-c49ff71-NIGHTLY		c9d1b56fa469e07decfa0e0c2c462d33a4aec814
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250507-c85982c-NIGHTLY		22b396fea5d727a162c745e7cee4388a5b2fc6c7
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250509-c3642c0-NIGHTLY		01c095084b302b7ff877e06b2c0f9b53e7e3f15f
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250510-f784625-NIGHTLY		90758fb8c78f1b5147e9ac1d360ac81688c34822
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250512-e52986c-NIGHTLY		858f8684f49bf5f2db9031ced8620860e59be0ac
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250513-004579e-NIGHTLY		3318190c2b59ec5caee83160f6b817110a3960a3
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250514-a553986-NIGHTLY		c6859b24d381108ce08e36100adf47e853b386a2
+org.scala-lang	scala3-interfaces	3.7.2-RC1-bin-20250515-c481e91-NIGHTLY		fb8008adaca2d4cd41ec9884400200f710b0e3f0
 org.specs2	specs2-matcher_native0.4_2.12	4.14.0		9c5596e7a792e038d6b163ca796a2b223c21a738
 org.specs2	specs2-matcher_native0.4_2.12	4.14.1		a66bd45e3403578a76c6b7fc8ed4a937c15d8f27
 org.specs2	specs2-matcher_native0.4_2.12	4.15.0		ac2a7221d388ce85056cc28307d0928c5f39e1e1

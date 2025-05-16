@@ -1193,6 +1193,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.13.3-alpha		01a71b09f4d4210e6e71316118d346a4756de37e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.14.0-alpha		1f7ceff5ba263f9d8ff62334c82c5d1328579ed3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.15.0-alpha		7b23131de14586611aa4b9e009c08f140ae29676
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.16.0-alpha		9b8ac9b510b78609cb4adb0cb6943d5002f25ff7
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.2.0-alpha		a505006ab3188f78d060cb26d6359a23b5a74f24
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.3.0-alpha		4cead1cada6d91cdb9d9f1e3405c0be67e140ff2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxrs-1.0	2.4.0-alpha		3a58fb209d989d86b2f86767ff98ea030533c55e
@@ -1440,6 +1441,7 @@ io.quarkus	quarkus-funqy-server-common-deployment	3.15.2		54473fe3c74459889436b8
 io.quarkus	quarkus-funqy-server-common-deployment	3.15.3		754928fa7e4126759e6c95c2a9f0f51c4e91c824
 io.quarkus	quarkus-funqy-server-common-deployment	3.15.3.1		746a4d722b5879a1fc4e025b401daf8c7f9ced52
 io.quarkus	quarkus-funqy-server-common-deployment	3.15.4		8a2b4fa99fd84406d60506dbae8530c2fc12eac0
+io.quarkus	quarkus-funqy-server-common-deployment	3.15.5		40ced69c479d677f0c68c414530f61722b13b670
 io.quarkus	quarkus-funqy-server-common-deployment	3.16.0		d679382a5f2e1f2b018013128711855a8ef2d640
 io.quarkus	quarkus-funqy-server-common-deployment	3.16.0.CR1		ef48a147d073df7fb2eeb3cbd72c0a8b4dd351ef
 io.quarkus	quarkus-funqy-server-common-deployment	3.16.1		9edc44442d558ebe7f926ab2f789d94b8e32e1ef
@@ -1484,6 +1486,7 @@ io.quarkus	quarkus-funqy-server-common-deployment	3.2.8.Final		3006989810678e465
 io.quarkus	quarkus-funqy-server-common-deployment	3.2.9.Final		9ebc7ea1966ff4a138fcb344165a88b2cf2df046
 io.quarkus	quarkus-funqy-server-common-deployment	3.20.0		eefa032cd6d6a01e95df72c49106e0ae98c4bc0e
 io.quarkus	quarkus-funqy-server-common-deployment	3.20.0.CR1		96c16c448a2c75796ab8c50cdf4617eea3a8d245
+io.quarkus	quarkus-funqy-server-common-deployment	3.20.1		329a17439b3e25159badba8c93d6e89dcb6f1a88
 io.quarkus	quarkus-funqy-server-common-deployment	3.21.0		e38c0d6b669b832a5225a720b6353166eeea82a6
 io.quarkus	quarkus-funqy-server-common-deployment	3.21.0.CR1		97f7d13e450fd14b30c44e78e5bec0c7d7a415ba
 io.quarkus	quarkus-funqy-server-common-deployment	3.21.1		1ad2e8b9e732bc635f8fb911ab3abbbcb5e99a23
@@ -1493,6 +1496,9 @@ io.quarkus	quarkus-funqy-server-common-deployment	3.21.4		b0ddbbaf2f5696e8e740e6
 io.quarkus	quarkus-funqy-server-common-deployment	3.22.0		6b058989dde8f15fe9f0833ddd7a3195773c41e8
 io.quarkus	quarkus-funqy-server-common-deployment	3.22.0.CR1		d37ed9577993e432b2a42cf2f9d4fed9a945bad6
 io.quarkus	quarkus-funqy-server-common-deployment	3.22.1		0639dacc5b8d800a416061056a114cc3088a3764
+io.quarkus	quarkus-funqy-server-common-deployment	3.22.2		c3d4e380494f2776936849abb93f8d71a8c1f1e9
+io.quarkus	quarkus-funqy-server-common-deployment	3.22.3		991665c9c2eff1840a2ae62ded0dd53eb5e58a1b
+io.quarkus	quarkus-funqy-server-common-deployment	3.23.0.CR1		d12ca5d8932ad437b4b28d4286b1633537efd13a
 io.quarkus	quarkus-funqy-server-common-deployment	3.3.0		e0439e1fe4f445ae1ebdd3e65aec88310b6a8da6
 io.quarkus	quarkus-funqy-server-common-deployment	3.3.0.CR1		97512eee8d2eb0f3489f6625d9bde40fb8b00356
 io.quarkus	quarkus-funqy-server-common-deployment	3.3.1		480fb42b11500d1226034c9e998695c4c0fe514e
@@ -1618,6 +1624,7 @@ org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.2.1	
 org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.2.2		34f5e55df0943fdf17f7673621bbeb83638909f0
 org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.2.3		9865dd23d0aa9d536470f6a83dafb14a5f2bac2d
 org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.20.0		7f8c84486edc491bce7825acb7ab0ab30fe3fb48
+org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.20.1		3fb4422df49b117c4f16e3f709b75c6caa274030
 org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.22.0		821df0e0f4495fb623e42d8eb59707eeac64d0c1
 org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.4.0		d01bf1bf2b7350108b70a53ea6ddb959a4676542
 org.apache.camel.quarkus	camel-quarkus-threadpoolfactory-vertx-deployment	3.5.0		df1733145193b1406ee43b75c68313d7231d43ae
@@ -3380,7 +3387,18 @@ software.amazon.awssdk	synthetics	2.31.30		7adf57974fa246ee3154812c9ec0651ed49ed
 software.amazon.awssdk	synthetics	2.31.31		a7f673b5878b92650561d95e5d9ec2a18b43b767
 software.amazon.awssdk	synthetics	2.31.32		d2b0c1a4493c159aaf5c2962b3e83c5b571421f2
 software.amazon.awssdk	synthetics	2.31.33		65aa2fc99aad4397c42f44d161777564a8001c8d
+software.amazon.awssdk	synthetics	2.31.34		e0ed83b27950fc5fda08afee05514a3dc66b65a7
+software.amazon.awssdk	synthetics	2.31.35		22a1eabc7576d2d3b300c8e3f8f64fcc270b1bb6
+software.amazon.awssdk	synthetics	2.31.36		04e7c494d39ca12b5a116be994574e87562ae7ee
+software.amazon.awssdk	synthetics	2.31.37		d4912e9d872c6baa3c6e126efe4e3826839d7061
+software.amazon.awssdk	synthetics	2.31.38		56b2cea0beb24a7969b2b337fa61e774447880c5
+software.amazon.awssdk	synthetics	2.31.39		304f96733e38464f0e509186ea9dad14e09b4db9
 software.amazon.awssdk	synthetics	2.31.4		eff1459bb94be65a488beba244095a861c761cb2
+software.amazon.awssdk	synthetics	2.31.40		ca78a046f30e151d77400398bd6088398d64279d
+software.amazon.awssdk	synthetics	2.31.41		94356b4598c78ef3355ec02b6a413d7567865b77
+software.amazon.awssdk	synthetics	2.31.42		f9740cdc6681dd28b6174d180f26ba8593c42028
+software.amazon.awssdk	synthetics	2.31.43		5a6bd88574bf3ad807bf745b904b5aa6c5ec3061
+software.amazon.awssdk	synthetics	2.31.44		b6b2cf3b017d2ba00a53381f3080e44c492ed86d
 software.amazon.awssdk	synthetics	2.31.5		5b417abed1b16d633f37b9c4833b9c83a2afc529
 software.amazon.awssdk	synthetics	2.31.6		b6d794bacdad3482d5108fbcfba86004047c1d96
 software.amazon.awssdk	synthetics	2.31.7		1e37450ef66562884db046be47614dc1fbc9459d

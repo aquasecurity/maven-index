@@ -1020,6 +1020,13 @@ io.gravitee.node	gravitee-node-container	7.0.8		28e6ddd7120abce028c42d42084667b8
 io.gravitee.node	gravitee-node-container	7.1.0		2ec55dee259d68fab0dff3a9cf0a11eb9b91c5fd
 io.gravitee.node	gravitee-node-container	7.1.1		8a8da04ca81de1edf9fd83f57c55d30312fc4224
 io.gravitee.node	gravitee-node-container	7.2.0		70799b3ff668b37e0da0f776e76e2977cc2ba1b2
+io.gravitee.node	gravitee-node-container	7.3.0		afa51b41be817a1bedb0149a57d552e82ae7454d
+io.gravitee.node	gravitee-node-container	7.4.0		148f3792416ea9ad169095847ec61510035620ca
+io.gravitee.node	gravitee-node-container	7.4.1		f3965f63fc9899ad4e6a8f23094b3631359361c2
+io.gravitee.node	gravitee-node-container	7.5.0		c5b921398f770878a72bfb8e0d0e9f1d3f59fdd5
+io.gravitee.node	gravitee-node-container	7.5.1		9f1ec104e6d160776022f67c259f09ac83fd3cbb
+io.gravitee.node	gravitee-node-container	7.6.0		d704089c6e9849d443b5798bd8008d0bb8239a52
+io.gravitee.node	gravitee-node-container	7.7.0		3227df407d91b84516ee5c4cdad65b5baa843263
 io.imast	work4j-model	0.0.1.PREVIEW		c130799932bd9b2e7ad5f19c15c822a8b96e6f14
 io.imast	work4j-model	0.0.1.RC2		80c6e844b45fd330e5bc228041a19734fd2f0ab0
 io.nem	symbol-sdk-vertx-client	0.17.0		b2e99f794f26c1fe1e1bdc40128b7af49d8d395f
@@ -1578,6 +1585,8 @@ org.membrane-soa	service-proxy-maven-plugin	5.5.1		e29615c4fcbdc463538466560b039
 org.membrane-soa	service-proxy-maven-plugin	5.5.10		aa8fe587e2fdc895b1234cfe7e699451a7aebbf2
 org.membrane-soa	service-proxy-maven-plugin	5.5.11		3cf2c3cae0ceb847b32a53443441f9fe576f28af
 org.membrane-soa	service-proxy-maven-plugin	5.5.12		97cbdfa710bae783ee70162cae2f7ca484fa7814
+org.membrane-soa	service-proxy-maven-plugin	5.5.13		6232eebedbe250799805b8203584176632c11b8a
+org.membrane-soa	service-proxy-maven-plugin	5.5.14		bfa048fb55cb48a7afac8c9e643e350943a465a6
 org.membrane-soa	service-proxy-maven-plugin	5.5.2		bf5c2987d79b8ad9800ebd713566373019aaabc2
 org.membrane-soa	service-proxy-maven-plugin	5.5.3		f9f77bf7e112dc611bbfbd1f10e2df98705af328
 org.membrane-soa	service-proxy-maven-plugin	5.5.4		f1981ac9329aaa987261c820b96573486865ed11
@@ -1595,6 +1604,8 @@ org.membrane-soa	service-proxy-maven-plugin	5.8.2		682568736a2b630296f3936809742
 org.membrane-soa	service-proxy-maven-plugin	5.8.3		87633c4ed4a6a15ab5a660a3219b06ca20f6d901
 org.membrane-soa	service-proxy-maven-plugin	5.8.4		d14a425e707438fb608797756c000168f797577c
 org.membrane-soa	service-proxy-maven-plugin	5.8.5		cb8f9df66f817176c962f1a6fd347e16b7e7cec9
+org.membrane-soa	service-proxy-maven-plugin	5.8.6		b946385afe1cfda33ea40bb5a6227fa27d0a3332
+org.membrane-soa	service-proxy-maven-plugin	5.8.8		6c57a3b6b9a9f986eb1b376914f5af4372efb8f7
 org.membrane-soa	service-proxy-maven-plugin	6.0.0		ff3986c87bc4b72194eee92a34a4ecc601443283
 org.membrane-soa	service-proxy-maven-plugin	6.0.1		b7344bb2d8cbe235320a0f3b36cd0d2c617bbbee
 org.membrane-soa	service-proxy-maven-plugin	6.0.2		dedc4756291ab2c3b9e30a13f213ee70e20e348c
@@ -1704,6 +1715,7 @@ org.openrewrite.recipe	rewrite-openapi	0.16.1		c787e7d217b2abeca5fd893a523d465c9
 org.openrewrite.recipe	rewrite-openapi	0.17.0		ea534318d5a50f3122274f39526f731b4a6499c0
 org.openrewrite.recipe	rewrite-openapi	0.17.1		c4f889d15ee2cd4b450c62fcf88cbb168f104596
 org.openrewrite.recipe	rewrite-openapi	0.18.0		c6ecadb7ed668d3573eedfea71442e6dab5ae04b
+org.openrewrite.recipe	rewrite-openapi	0.19.0		4dbc4078a5192b168db632b6bb9226c31fe0df2c
 org.openrewrite.recipe	rewrite-openapi	0.2.0		cd510d17dfd3f1b3f48ed45aaf6ce844638bd939
 org.openrewrite.recipe	rewrite-openapi	0.3.0		707cb1fd279a9aaff6c7d6c1a37163b4da5437f4
 org.openrewrite.recipe	rewrite-openapi	0.3.1		1d8614863e0539807cc1104e4cef7cfe25b19884
@@ -1764,7 +1776,9 @@ org.prebid	prebid-mobile-sdk-gam-event-handlers	2.2.3		0f22aad59b7bc41d5792f9087
 org.prebid	prebid-mobile-sdk-gam-event-handlers	2.3.1		f44fde42263202a9414849846a4a9fbb7b7b3087
 org.prebid	prebid-mobile-sdk-gam-event-handlers	2.4.0		dc7aa9e8c730db428ba7ab61021725545fa261da
 org.prebid	prebid-mobile-sdk-gam-event-handlers	2.5.0		313c85393cfc894090dbdd410556e5165bfb2b84
+org.prebid	prebid-mobile-sdk-gam-event-handlers	2.5.1		f7a6a0fe302f092e450afc47fefd6725fe0036f2
 org.prebid	prebid-mobile-sdk-gam-event-handlers	3.0.0		7afdcc417c6d28b7486c6fa5f8cf46cfb1ecbcd7
+org.prebid	prebid-mobile-sdk-gam-event-handlers	3.0.1		564e6906748a96d7a566679f54716e89766af0dc
 org.rapidpm	testbench-ng-m-framework-v08	0.3.0		8b21733fbb203166835ed18cf44f3d2f4f99e229
 org.rapidpm	testbench-ng-m-framework-v08	00.07.04-RPM		6dde80477938161fa152e29390f8ecb552ccfbda
 org.rapidpm	testbench-ng-m-framework-v08	00.07.05-RPM		9b80298c8d2eab169370a5eab9819b3c2e0b1f0c
@@ -2013,6 +2027,7 @@ org.vrspace	server	0.7.7		d101c7625a964036ec6c3c7af0f21a9edfd399e0
 org.vrspace	server	0.7.8		cb12a66dc5b4ce2c1e6b7c2bec573c0e00c7e4e8
 org.vrspace	server	0.7.9		96dc8d461f5b44f86feac698fd4ac07d2452338e
 org.vrspace	server	0.8.0		20a59b668c9eb0a1c2f49c9319c4ee737212f65b
+org.vrspace	server	0.8.1		c79c928ec7761712f8b3c8c45ab3862acafd121c
 org.wartremover	wartremover_3.5.2	3.2.2		57ff2a0e5ac287b8f26e651f75863b9082593650
 org.wartremover	wartremover_3.5.2	3.2.3		9488ffaabedf5c863b4cc5b9baa409f8538bee3e
 org.wartremover	wartremover_3.5.2	3.2.4		b19a3c1763887ffc632f66f4b6d1a0b3f11cddfb
@@ -2226,3 +2241,4 @@ sk.annotation.library.jam	jam-root	0.9.18-jdk8		N/A
 sk.annotation.library.jam	jam-root	0.9.8		N/A
 sk.annotation.library.jam	jam-root	0.9.9		N/A
 software.visionary.archive	repositories	2025.03.28		N/A
+software.visionary.archive	repositories	2025.03.28	software.visionary.archive	3b27ee256595d06a30451ac8ca60845184019dd9

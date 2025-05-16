@@ -108,6 +108,7 @@ com.github.rebue.sbs	cache-spring-boot-starter	1.2.3		18e0aaec7399708f7790c10cac
 com.github.rebue.sbs	cache-spring-boot-starter	1.2.4		ad2e98050db819a2199d4409563d7fabf3e70df0
 com.github.rubens1287	OSSRH-49857	1.1		2c5a29a997ba0b561bc79f7a880442e8b52d72e6
 com.google.cloud	google-cloud-datastore-utils	2.28.0		6dde801cc514500c43a2e094dd5a5aa5d3f9ca8e
+com.google.cloud	google-cloud-datastore-utils	2.28.1		4e2697f53a3cb9e49f9df574380864ec2f2cb961
 com.icfolson.sling.objectmap	sling-object-map	1.0.0		N/A
 com.icfolson.sling.objectmap	sling-object-map	1.1.0		N/A
 com.icfolson.sling.objectmap	sling-object-map	1.2.0		N/A
@@ -443,6 +444,7 @@ io.helidon.integrations.db	helidon-integrations-db-pgsql	4.1.6		93ad495008315772
 io.helidon.integrations.db	helidon-integrations-db-pgsql	4.1.7		31391e2a5d26272fa15c6749cafc9765faf0ae56
 io.helidon.integrations.db	helidon-integrations-db-pgsql	4.2.0		0f6b9c7ab2c3e578fe4c62a4234b3195850f030b
 io.helidon.integrations.db	helidon-integrations-db-pgsql	4.2.1		be06588102d7db7a71942e95d68a9c0941497542
+io.helidon.integrations.db	helidon-integrations-db-pgsql	4.2.2		f88402d1c5c7853815ce84adc70a25e33bfd4341
 io.kevinlee	extras-fs2-v3-text_3	0.27.0		deecc92ffd8047f97178c1d9ca43bc64880c0990
 io.kevinlee	extras-fs2-v3-text_3	0.28.0		c8075827d1b6fc83f085d1c4bf843b0b32d9e126
 io.kevinlee	extras-fs2-v3-text_3	0.29.0		3b21aed49df3429dc3b8ef58ff577c6a9c798570
@@ -571,6 +573,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api-1.1	2.13.3-alpha		5f44823e15b8a96630d58e79aca2ce98d5e55a08
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api-1.1	2.14.0-alpha		e1d1a4b802c757b69b1d381c60b7618bde94ec37
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api-1.1	2.15.0-alpha		5a71ce834a2dd15474911f930ac4195728a5414e
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api-1.1	2.16.0-alpha		13261349241d84df36dd0bf7cc48ed7758cbcf05
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api-1.1	2.2.0-alpha		7cf286085c0d81d161f1188b05e916190895c791
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api-1.1	2.3.0-alpha		ae45c6def1a19fc6b86eb99f4ec36f0291afab09
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jaxws-jws-api-1.1	2.4.0-alpha		32264a5069dd7e73a43e4e0806abcbe718f4ac9b
@@ -764,6 +767,7 @@ me.dmdev.premo	premo-jvm	1.0.0-alpha.12		69330d07b62fcb2858bc9d0800d131353b46da8
 me.dmdev.premo	premo-jvm	1.0.0-alpha.13		d7bee8a7bdfdb8418e9225ac63e1b8dd876390ee
 me.dmdev.premo	premo-jvm	1.0.0-alpha.14		4df385fcea6b10ac2eb0e7b9cbee35fbfadd43a8
 me.dmdev.premo	premo-jvm	1.0.0-alpha.15		ea4aa40baa3cf93f280dd8629b636721d5fe2c48
+net.codinux.kotlin	kmp-base-text-iosX64	1.5.0	metadata	1645ad28ec4caeee175eadcb88b23b87e7f61ba9
 org.apache.odftoolkit	odfvalidator	1.1.5-incubating		N/A
 org.apache.odftoolkit	odfvalidator	1.1.5-incubating	jar-with-dependencies	e74288838ba78d0dc80e4119c3ef9cb30834d217
 org.apache.odftoolkit	odfvalidator	1.1.7-incubating		N/A
@@ -1064,9 +1068,12 @@ org.eclipse.ditto	ditto-thingsearch-service	3.7.2		e700535736219bbe45177ef22d4f8
 org.eclipse.ditto	ditto-thingsearch-service	3.7.2	allinone	3bda871b155ed52c929e373dbb326bc418829027
 org.eclipse.ditto	ditto-thingsearch-service	3.7.3		c58dae280cfa3bf92d220b9ee0dc70e2233f2770
 org.eclipse.ditto	ditto-thingsearch-service	3.7.3	allinone	4c2525d553f8bcc5c1df297418b8d9373cf7cf4a
+org.eclipse.ditto	ditto-thingsearch-service	3.7.4		ff2e0d146e98f3fe92ca5068dd12e96559bd31b1
+org.eclipse.ditto	ditto-thingsearch-service	3.7.4	allinone	17f417410fabafecb93d9d509c33dc7e340c5080
 org.eclipse.esmf	esmf-aspect-static-meta-model-java	2.10.0		f15ac4ce14bff9ce259519bd1b2ca006706aad52
 org.eclipse.esmf	esmf-aspect-static-meta-model-java	2.10.1		ae3408f7fd58f20f200a4c2f0808ecb6ffd2d08f
 org.eclipse.esmf	esmf-aspect-static-meta-model-java	2.10.2		200b81270f126ff364d3a2a03fb5919c9a3c46f6
+org.eclipse.esmf	esmf-aspect-static-meta-model-java	2.10.3		8909aa4b2bfb739bbe951ce5882b4516efa5df37
 org.eclipse.esmf	esmf-aspect-static-meta-model-java	2.2.0		0103083936284fe4161c11719cbc84a6643603de
 org.eclipse.esmf	esmf-aspect-static-meta-model-java	2.2.1		3a211112c65979193d6514bed31050776070d0f5
 org.eclipse.esmf	esmf-aspect-static-meta-model-java	2.2.2		73815e3ffd5bf108b5844d2426ebbeadf64fc92a

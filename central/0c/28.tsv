@@ -5,6 +5,7 @@ com.akuleshov7	ktoml-source	0.5.0		bf5920eddcd3b13c1a9df8c6cd85b193263efcb2
 com.akuleshov7	ktoml-source	0.5.1		912dfea7d75f8d6c17eff5ef7412eda20cd7befd
 com.akuleshov7	ktoml-source	0.5.2		5e3757b3cec9a7072dcb2573a3e350456362fb5f
 com.akuleshov7	ktoml-source	0.6.0		267a80f2a1d7f1b802d81575766386f7ee091d03
+com.akuleshov7	ktoml-source	0.7.0		cdf102667dc22e50247ad232dc524b07bb7b223b
 com.amazonaws	aws-java-sdk-resourceexplorer2	1.12.338		d2ca3850541be06648e8a46108a15650e1abd55d
 com.amazonaws	aws-java-sdk-resourceexplorer2	1.12.339		9a3a029f2e7e430f376647555647817ea15a0f37
 com.amazonaws	aws-java-sdk-resourceexplorer2	1.12.340		3676569552313a206bf7f4805f2f72b0686a76aa
@@ -968,6 +969,8 @@ com.sap.cds	cds-feature-k8s	3.0.1		d91f1d7fcb17738c0d9d18b77bb89831741652a3
 com.sap.cds	cds-feature-k8s	3.0.2		c3072cc53764dd8c5600995ef3279ffcd9e0ae72
 com.sap.cds	cds-feature-k8s	3.1.0		e9e12798ee3ffa10ebb33b5d72cf2f62c6461324
 com.sap.cds	cds-feature-k8s	3.1.1		09a76e5ac7c20c93b0ad037377c3faad9d9186bf
+com.sap.cds	cds-feature-k8s	3.10.0		afe74f4a654bd9b5a60347d15e2ff322158164ba
+com.sap.cds	cds-feature-k8s	3.10.1		4ea98e8dc535ae420f75f6eed1baca87dde84172
 com.sap.cds	cds-feature-k8s	3.2.0		abe66851fd3bdb3e70db6b635927ea6e224d83b2
 com.sap.cds	cds-feature-k8s	3.3.0		b9cc7db7283a6cc37b2d5d51415092df3992b7c0
 com.sap.cds	cds-feature-k8s	3.3.1		2ac83630676fb9c18729e9b1f7bee474c73658ce
@@ -1147,6 +1150,7 @@ de.jensklingenberg.ktorfit	ktorfit-gradle-plugin	2.4.0		9ba860babe9f95fb43064335
 de.jensklingenberg.ktorfit	ktorfit-gradle-plugin	2.4.1		24856bd98c1ba7f149e0bd45d884f61c2631a56f
 de.jensklingenberg.ktorfit	ktorfit-gradle-plugin	2.5.0		fb495535607b981ddf170723b614a14f3e2d72dd
 de.jensklingenberg.ktorfit	ktorfit-gradle-plugin	2.5.1		1a58935c6d1a208e3409d1c1669045f99a068ce2
+de.jensklingenberg.ktorfit	ktorfit-gradle-plugin	2.5.2		4b115382a70594b52cc0fec8cc57f7c41a055f32
 de.oglimmer.utils	common-utils	0.1		51e473c5480fa03d372144066d244b882a2ceaf9
 de.oglimmer.utils	common-utils	0.2		87c8cf48bcdac48ccd936735832803b7f36bf0cd
 de.oglimmer.utils	common-utils	0.3		4f145c7413c8e051363b0f878689bf67f2335788
@@ -1559,6 +1563,7 @@ io.quarkus	quarkus-resteasy-common	3.15.2		1ee67d4d6e96ec1a48e1a74afd47796848a59
 io.quarkus	quarkus-resteasy-common	3.15.3		a969f7632571a77f075004020b6b1ca34097e7c3
 io.quarkus	quarkus-resteasy-common	3.15.3.1		1fecff152141b7796e5a3d5befcb107efd3b5ff7
 io.quarkus	quarkus-resteasy-common	3.15.4		b4d8a475efb7242b1f465c4654b1dc97a900873c
+io.quarkus	quarkus-resteasy-common	3.15.5		6477f033ddfe654c3456b46edca1fa4661ff60f9
 io.quarkus	quarkus-resteasy-common	3.16.0		c575e72bd6e62799ed2331f4bbbd5c1e72919c3d
 io.quarkus	quarkus-resteasy-common	3.16.0.CR1		caadf454af71a7148457a18d19e94e345a1e866a
 io.quarkus	quarkus-resteasy-common	3.16.1		42b3ab3fc040a75bb8dbf8a41f55d339936844ef
@@ -1603,6 +1608,7 @@ io.quarkus	quarkus-resteasy-common	3.2.8.Final		41e84343aa87948a5fdbd3d3800d3db0
 io.quarkus	quarkus-resteasy-common	3.2.9.Final		5854567a87e1a027b3947472e9ce0079f103929f
 io.quarkus	quarkus-resteasy-common	3.20.0		40372a6b76093365eeb3e52d2e6769f49c36839e
 io.quarkus	quarkus-resteasy-common	3.20.0.CR1		12df099323ac16a924f60b86c190314b3490485b
+io.quarkus	quarkus-resteasy-common	3.20.1		516953e3cbcc65074cb610112c45363a3944491c
 io.quarkus	quarkus-resteasy-common	3.21.0		ab953eb5f772c54949f48f18749e0e730233c515
 io.quarkus	quarkus-resteasy-common	3.21.0.CR1		f45702967a7544ec35e9f3a235ccbc028739b135
 io.quarkus	quarkus-resteasy-common	3.21.1		bd3af15e745171c7a0f558e905a1f04e632932ab
@@ -1612,6 +1618,9 @@ io.quarkus	quarkus-resteasy-common	3.21.4		80bb16d12aaa817a71b0d129c91046fa63ed2
 io.quarkus	quarkus-resteasy-common	3.22.0		70188f0a0427f1ce90fb10a7d308dbca1740de9f
 io.quarkus	quarkus-resteasy-common	3.22.0.CR1		7b66c9141ed44ef4af5ce5b1d504fcbbcca584a3
 io.quarkus	quarkus-resteasy-common	3.22.1		8643e457ac123d123fd394f278f14afc410b8124
+io.quarkus	quarkus-resteasy-common	3.22.2		90eccdbd318214ad5e940308272236442585e709
+io.quarkus	quarkus-resteasy-common	3.22.3		5ce0bed76be061052990f1f0682dd04826caa047
+io.quarkus	quarkus-resteasy-common	3.23.0.CR1		fa51f6262798ebe8fc8e32b7532ee38a66ea2536
 io.quarkus	quarkus-resteasy-common	3.3.0		176bcd5a1cfa26c25ef61db8f6b8746d46e1fb4f
 io.quarkus	quarkus-resteasy-common	3.3.0.CR1		ba9d440d0c50a09c2299d0820db8267b5d45eb34
 io.quarkus	quarkus-resteasy-common	3.3.1		48c5382c8c28f22953ffbb65345a0e60ed4b5e83
@@ -1856,6 +1865,7 @@ org.apache.camel	camel-util	4.8.3		ab9d92ee7eeeacf07625499cb0c669ca9d8a072a
 org.apache.camel	camel-util	4.8.4		f75869b2d59b4edd8ccf5fa866359fafef6f5769
 org.apache.camel	camel-util	4.8.5		b67569c593d42a51cc975b7624e5918db231a87f
 org.apache.camel	camel-util	4.8.6		671d5ff5c8f46c17c9e0bf1937f6ade5b35f5e88
+org.apache.camel	camel-util	4.8.7		83b07ad069cbcb72614e0142df6b53e1b8c740dc
 org.apache.camel	camel-util	4.9.0		2f79bd219fa76906612d75c59f3632e704c7de17
 org.apache.directory.server	apacheds-server-main	1.0-RC1		3518a957666bd8988b9c47a65554925b80ce4619
 org.apache.directory.server	apacheds-server-main	1.0-RC2		ac1e562806ba9a83e2a5344012fa887d8b66c934
@@ -1974,6 +1984,8 @@ org.daisy.pipeline.modules	tts-adapter-osx	3.1.4		19600f756952ed4687e767fd0906d6
 org.daisy.pipeline.modules	tts-adapter-osx	3.1.4	doc	17b23f1e660e7cc3c3263f15fbc9ae9260dcda76
 org.daisy.pipeline.modules	tts-adapter-osx	3.1.5		53d4fa4998e85bc0c4b1165e1962997cbc1608a4
 org.daisy.pipeline.modules	tts-adapter-osx	3.1.5	doc	786eb05f60ca6ec9a2bbe8136f62466c4d025459
+org.daisy.pipeline.modules	tts-adapter-osx	3.1.6		432569a552fda9cea85da7ce65418acebe5eaee0
+org.daisy.pipeline.modules	tts-adapter-osx	3.1.6	doc	bb912c2ce64bc2b611f118a1f84c33e10715ff01
 org.docbook	docbook-xsl-java-saxon	1.2.0-94		f5e16d56cb658b34f16cc1b6951d1124779c3410
 org.docbook	docbook-xsl-java-saxon	1.2.0-96		a040b994d2fb658cc9bad70065c2edebbdab4a0b
 org.docbook	docbook-xsl-java-saxon	1.2.1-95		4d6979f5c91a7c0cc8584e86c232c7ef0df8cccb

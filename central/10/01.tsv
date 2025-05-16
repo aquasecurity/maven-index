@@ -390,6 +390,8 @@ com.google.api.grpc	grpc-google-cloud-notebooks-v2	1.56.0		a0c2a158f8cc0c4504f1d
 com.google.api.grpc	grpc-google-cloud-notebooks-v2	1.57.0		b20d4387d45ddd87d72502acdfb67e99559a6818
 com.google.api.grpc	grpc-google-cloud-notebooks-v2	1.58.0		5e973382ed6d9fbfe3f9c444a40342cefeabc57d
 com.google.api.grpc	grpc-google-cloud-notebooks-v2	1.59.0		dc1fa0c3830a06a0b3905ed4485506406745b789
+com.google.api.grpc	grpc-google-cloud-notebooks-v2	1.60.0		cad2f41ca4513019bd170bf521210ea007c5b1d8
+com.google.api.grpc	grpc-google-cloud-notebooks-v2	1.61.0		e05cd9834fa0484041278e38e344a4712f6235a7
 com.helger.font	ph-fonts-noto-sans-sc	4.1.2		ab0de1c3bd2053ef16186ce13422980b2e58f35c
 com.helger.font	ph-fonts-noto-sans-sc	4.2.0		1730383f4476f21507a51135ad1d242a10fcc12b
 com.helger.font	ph-fonts-noto-sans-sc	5.0.0		c50f346f12da41443d6a7b1e9d71b003d629459c
@@ -791,6 +793,7 @@ io.helidon.integrations.microstream	helidon-integrations-microstream-metrics	4.1
 io.helidon.integrations.microstream	helidon-integrations-microstream-metrics	4.1.7		d0c96bbaca62c9eea7e2f65680e66e35b5fc41b7
 io.helidon.integrations.microstream	helidon-integrations-microstream-metrics	4.2.0		94a141fcb7f6a1f55d2393116fb91ca87b7f38d4
 io.helidon.integrations.microstream	helidon-integrations-microstream-metrics	4.2.1		40fef16406e4da92f5d83779165e2f87739a74b1
+io.helidon.integrations.microstream	helidon-integrations-microstream-metrics	4.2.2		068dfe059b86fea714a3959c1dbd28becd5d93d9
 ltd.k1nd	pets-dog_2.11	0.0.6		891ce38ab6e0b33c7b1cad78f5d1352dd07a80bf
 ltd.k1nd	pets-dog_2.11	0.0.8		f5fe70dfee5cac04b381ad72ce0a006ce5a1f2f9
 ltd.k1nd	pets-dog_2.11	0.0.9		b986dae6870cbb1eb0c3c973c039bea117b1b5d9
@@ -1122,10 +1125,17 @@ org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.80.0		07153a5e3c96a8d21744a4b5ea6ade11c1b001ba
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.81.0		671e08b7204e845f37bfb609a8bf8c11eb790444
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.82.0		d8332004e5c3f4e9a248b7bc880e16b31ebb14a9
+org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.82.1		adc92df772aa8d0f4a7b8b17c9dadd53ef35b1ec
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.83.0		6d91ce8267232de75ea6d3d5d3427533cf16d89b
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.83.1		c209e1cb109b0efa0dc8385da22045a85289d329
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.83.2		be1c3b513a5690e027627392fd7292ee91b634be
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.83.3		8f51b066d75394180edfbe81da49046ef90f97e8
+org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.84.0		59159b04a6849f2333f13ac523e3bf3b695c56da
+org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.84.1		241421e1ce75e30cb4adb878a0cb6a0adeac835d
+org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.85.0		7aeb293ca11a3ba3a8af657a88675fae08ec74e4
+org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.85.1		0e4467a0c8777cce960dd58c7562420af334abe4
+org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.85.2		d7b335f958131de1b674372d23b5e94561154bb8
+org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.85.3		83679deba475f7eafdc914d129399b7d50156247
 org.finos.legend.engine	legend-engine-xt-serviceStore-javaPlatformBinding-pure	4.9.0		75f7a842d0cdc1a4ef9e8533e87a83cb7a4cfba7
 org.geomajas.plugin	geomajas-server-layer-wms-parent	1.14.0		N/A
 org.geomajas.plugin	geomajas-server-layer-wms-parent	1.15.0		N/A
@@ -1421,6 +1431,7 @@ org.opensearch	opensearch-core	2.6.0		f56ed2659af5557cebf6b537d31f510c54104dae
 org.opensearch	opensearch-core	2.7.0		e499913515876390a898e34f7f083279e129f10a
 org.opensearch	opensearch-core	2.8.0		b756ac91c66b37e38b939d80be47769c7d182121
 org.opensearch	opensearch-core	2.9.0		9f2a72d5662fa5da22fe19900edb904293387e6f
+org.opensearch	opensearch-core	3.0.0		ada333ca1031fa42ae4039a8a4d937fe9570892c
 org.opensearch	opensearch-core	3.0.0-alpha1		03a38ef368fe50008d2949c28eee6da911ab412f
 org.opensearch	opensearch-core	3.0.0-beta1		e95e52686c8f102dafafb20d868124815356754a
 org.semispace	semispace-google-webapp	1.1.0		N/A
@@ -1655,6 +1666,7 @@ org.webjars.bowergithub.datatables	colreorder	1.3.3		721c25aac42e01b5f2771d658ff
 org.webjars.bowergithub.datatables	colreorder	1.5.1		0ff31db9150584f4ce130b79c8f1b12444badafc
 org.webjars.bowergithub.datatables	colreorder	1.5.2		026ee3e6149fcf669829b220644f92a504640093
 org.webjars.npm	mdast-util-frontmatter	0.2.0		95810d5d52a5885d2b971fe9b5285409a3774a50
+org.webjars.npm	mdast-util-frontmatter	2.0.1		7f3b097925ad69ba79e8ee28dd8349b5e34d5214
 qa.hedgehog	hedgehog-runner_native0.5_3	0.11.0		0737b13b40a321d500e40283ba8dc96c6bdce58f
 qa.hedgehog	hedgehog-runner_native0.5_3	0.12.0		f94f5be2e7de01e9f89181e563a846340ef6b27c
 ru.astrainteractive.mobilex	mvi-jvm	2.1.0		ea812fde874debfbe67d4a01ce4f2de82e527c46

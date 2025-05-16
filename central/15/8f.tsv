@@ -203,7 +203,12 @@ com.hedera.hashgraph	app-service-addressbook-impl	0.61.1		ada6a0e892eb162f5c440c
 com.hedera.hashgraph	app-service-addressbook-impl	0.61.2		0f8618b65b618d957494c5fa665133899f276a76
 com.hedera.hashgraph	app-service-addressbook-impl	0.61.3		9d0a55b43d4b1508eb0605e9ce38c358a91f399e
 com.hedera.hashgraph	app-service-addressbook-impl	0.61.4		051aae7142865896246869c53599e9452bb03dbc
+com.hedera.hashgraph	app-service-addressbook-impl	0.61.5		78582ad2bbde0628bd0e1180d0f6fcf32cff9aba
+com.hedera.hashgraph	app-service-addressbook-impl	0.61.6		d0f3207d54d09f899f551196d449a7d2d9cd00a5
+com.hedera.hashgraph	app-service-addressbook-impl	0.61.7		6c994a18b744f702a5bf3c919806387190aad177
 com.hedera.hashgraph	app-service-addressbook-impl	0.62.0		591f873567a9e2e06d9c8dacefeb943328a0fffd
+com.hedera.hashgraph	app-service-addressbook-impl	0.62.1		59814cbd7b31c02493af96cbeee9c2939c935bb9
+com.hedera.hashgraph	app-service-addressbook-impl	0.62.2		89fc54a4172c0620d342486197e4661852c7c07a
 com.ibm.websphere.appserver.features	com.ibm.websphere.appserver.zosConnectLocalAdapters-1.0	18.0.0.2		N/A
 com.ibm.websphere.appserver.features	com.ibm.websphere.appserver.zosConnectLocalAdapters-1.0	18.0.0.3		N/A
 com.ibm.websphere.appserver.features	com.ibm.websphere.appserver.zosConnectLocalAdapters-1.0	18.0.0.4		N/A
@@ -605,6 +610,8 @@ io.ktor	ktor-serialization-kotlinx-cbor-watchosdevicearm64	3.1.1		e25e8125fce8c1
 io.ktor	ktor-serialization-kotlinx-cbor-watchosdevicearm64	3.1.1	metadata	f7af6c8a264cc2d7345988107eed3d958789fdd8
 io.ktor	ktor-serialization-kotlinx-cbor-watchosdevicearm64	3.1.2		6b73f35e9f032b8484d64ee18176009dcdf4ca8d
 io.ktor	ktor-serialization-kotlinx-cbor-watchosdevicearm64	3.1.2	metadata	f10d8eec6cb5518406f34ce69a1a1082d4c81d55
+io.ktor	ktor-serialization-kotlinx-cbor-watchosdevicearm64	3.1.3		1452db3e960848a6b85451f3f71ad7dd2aee123b
+io.ktor	ktor-serialization-kotlinx-cbor-watchosdevicearm64	3.1.3	metadata	3005325dfde022e9400ec6d1cacb36eb004ac9c7
 io.thorntail.testsuite	testsuite-jpa-postgresql	2.0.0.Final		83ce58bf5a646a6d126d860b1eb3d68b927f07d9
 io.thorntail.testsuite	testsuite-jpa-postgresql	2.1.0.Final		7e691fe344446f6969fad20185a8412094d0d98d
 io.thorntail.testsuite	testsuite-jpa-postgresql	2.2.0.Final		c68d15cdbf303ec0a5c7f8ae79b3ac1bdcba8f4f
@@ -859,7 +866,45 @@ org.typelevel	cats-effect-testing-utest_sjs1_3	1.3.0		af3c7a990c995cc1f9b3cbdce8
 org.typelevel	cats-effect-testing-utest_sjs1_3	1.4.0		7bab93eff9a4011715bf15a32a88028561256801
 org.typelevel	cats-effect-testing-utest_sjs1_3	1.5.0		ebf7addb886327eb8b3a195538aea7069029e793
 org.typelevel	cats-effect-testing-utest_sjs1_3	1.6.0		9a53f68e8f0c380046e404e90812b9494a86770d
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.0		2d31f5b8fbf170f7deff3ecaf5d35c608ee31b49
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.0-M1		b4fc9cfee84419ec6eee01913f88d5f37ec3961c
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.0-M2		ba78540feefb832d0f6bb3675f0bc0835d6d8624
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.0-M3		0945f33b4286b4db5c68094a4429e04f3c6c7806
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.0-M4		dfb2dd959f0e0729e4255fee6050d2fa3be0fa29
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.0-M5		4b9302d42111f16adfabe836e44c82c7c4370732
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.1		624c321e4ad872b95f149d68204880757a1931c2
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.10		7b3d9f63d0443b0947b9047b9f0a2d42135c9972
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.11		25f8c5036c19c9d7fe972a8352b9c44c9d17757c
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.12		b7af1d95155d75177d297ce75355608b301d1faa
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.13		eaf6468bfc51174afd7c54145c322c64270a333e
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.14		803c9c980fefed181c1e2a61b2052e34ac0fdfaa
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.15		2c98badf43dc68e4181523cb0c07ebfdcb87a074
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.16		f1f5f83af424cc67345929c0c9685c3eea68a403
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.17		eb989284efcb5bde6ed040ddabf0a098efe9f67c
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.18		6e23435c8de4f4414409dc86ae85dae87e7bdb37
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.19		b0d5e4694a39bcbb08cff58f6d2f4acb14ef20a8
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.2		711e02f8932c9262a77083f07686dd373fdbb572
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.20		e650568454dc09d4088ebac7ba8e400a427e32c9
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.21		70b060a588a8dcc1d2cae74bf2c254c63eaa72ee
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.22		6ff9b1c5f857cdae1b7e82b0344b521978e17055
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.3		91dc6bbba559cd331b97f522889243849ccb86dd
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.4		149fc70c921f761e9eb59944fad04d466b4e8add
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.5		023e2a54f182cc0dc8796533e05a0a4b76db7f82
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.6		5af6185370018d69e89091b21f1f8b69c8fe9937
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.7		df999e1f28e19e0c746ab3e4f8f419556a133122
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.8		c7f39ba488d4e7119cb8edc7d153bf0f1c1bd621
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.4.9		6eeaf768b4eadc9d5a364e103c6f93d699c9ecb6
 org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0		572a8049f9384aaa37e4b8e1df5de797cb145ed1
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M1		ce0245a545fc6a4cccc1ac8c23762be37317c367
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M10		dedf9df225fbba9d0fa3a9149e73cb895c8d45fc
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M2		569e6f5854e8193f3c09d0b1ac31c71443407e9b
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M3		a8cfd77f5a7299248d7b0605e73fabdbcba1f745
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M4		88a90e82498e87e8c8209e54db8323c93e692fde
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M5		f04abeeda81c25833ee17102bef10c4a9597606e
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M6		84efb16e89e6c75c03cf7cc0a8492774a04e481e
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M7		15c739f8531a95400d580748010b793d2371562d
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M8		8ed69e14fbabbea42e671516aa32e2b48a51a15e
+org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-M9		8c610b3bc61259f4854985ed5d79dc3506c4dc8c
 org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-RC1		c51e2c8f112e6406210907e7d9aab68176fce17b
 org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-RC10		1a368a949b57cd66bd67693b4b2672cca24227a2
 org.typelevel	sbt-typelevel-no-publish_2.12_1.0	0.5.0-RC11		33e0f3f26c89a67e7fffb748e385bbd7e1f1310e

@@ -112,9 +112,11 @@ com.51degrees	pipeline-aggregate	4.4.63		ec03ee62c5a3e2a7128ebcf90c4c3c4f25566aa
 com.51degrees	pipeline-aggregate	4.4.64		fcaae94d7d9ea73c1fa4b44a585477d020e7b3af
 com.51degrees	pipeline-aggregate	4.4.65		c0eb2061cfd81a0d2c2634d62a43c1e34f4de62c
 com.51degrees	pipeline-aggregate	4.4.66		8e2a9717152e22514f299073de785bb3acdaf3a0
+com.51degrees	pipeline-aggregate	4.4.67		2edeeded65f11b8a22c16de0dc38cefa150f4ba3
 com.51degrees	pipeline-aggregate	4.4.7		2013fe442051aaf5c07aea4638460fcb0e0a72e5
 com.51degrees	pipeline-aggregate	4.4.8		5059d23d4e65a8ae606d166d03add895496fe5ab
 com.51degrees	pipeline-aggregate	4.4.9		150601cfe925d531ae90db45db676f2d6257b101
+com.51degrees	pipeline-aggregate	4.5.0-alpha.1		469f24389b73166d3dc764185f61adc609d9ba0b
 com.aliyun	aliyun-java-sdk-nis	1.0.0		11ceed813f7537bfe38c1e58eb95576156dd4ff9
 com.aliyun	aliyun-java-sdk-nis	1.0.1		82053eaef4f86e3b2b06af8c8f981bcf47b7555a
 com.aliyun	aliyun-java-sdk-nis	1.0.2		5eaa2d55a39264af5712c0edc5e111a24c0c3c33
@@ -2071,6 +2073,7 @@ com.genexus	gxmaps	4.8.4		8b4f1082700ea61ec7df587da33a6d1dcd82f285
 com.genexus	gxmaps	4.8.5		4d1cdaa976dcc134cdba93f83dae8e73908ea01b
 com.genexus	gxmaps	4.8.6		41222e7a600160b8cd2b11a6cfa1f3057ac776ae
 com.genexus	gxmaps	4.8.7		da5a08029fe0481049cd03d2c59ff5f89506e3c2
+com.genexus	gxmaps	4.9.0		6e4878b610cfa40c4d100aa56a3ee1b6a50bd3dc
 com.gilt	scala-srv-dns_2.9.1	0.0.2		fc3a3ab22834a1e4b15bff7bf017b9359c47d098
 com.gilt	scala-srv-dns_2.9.1	0.0.3		534cd73413b89048cb832dd50ccd512a2d68dab3
 com.gilt	scala-srv-dns_2.9.1	0.0.4		8c3fedb0842c88a39b0ac714bdf6af9bbe88b8c9
@@ -2158,6 +2161,8 @@ com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.60.0		1e7e5f8736340c6
 com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.61.0		701318634fe537893aed22403e08efdf9f9dc6e8
 com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.62.0		da787f75a128134c73ed4d19f92cae8a6756e4ef
 com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.63.0		30d2e6de5b0888ffeb8553c1c945031d0da139c1
+com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.64.0		bdf344728fa982cacca76f1ab2e10398fa1e4f70
+com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.65.0		c158ebd3be5ce693b90f6a630da477954e9ac094
 com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.7.0		63335476cf41e97a4b0a34f758bf8a8f0df39060
 com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.8.0		bb5e7cfab38eddc7dbb6695239b68ffb5232df1b
 com.google.api.grpc	proto-google-cloud-os-config-v1alpha	2.9.0		c05aefc7fd93944d61daa7f5b6868d96f34fe418
@@ -2221,6 +2226,9 @@ com.google.inject	guice	7.0.0-rc1	classes	c40f104ea9e5c3c051192f721bf89ca59fab03
 com.google.maps	google-maps-area-insights	0.0.1		7445671d323f5e55c7f41605a6be97bc51647622
 com.google.maps	google-maps-area-insights	0.10.0		87a27453a49e1b6b90c806b73fe492e395b9181c
 com.google.maps	google-maps-area-insights	0.11.0		3e290072d53da601a3eca9a2106aa7030a4395dc
+com.google.maps	google-maps-area-insights	0.12.0		9018893de0421cf06ba7a40671d506f35301e7c8
+com.google.maps	google-maps-area-insights	0.13.0		0e52a930c6c496b5d963668ad11f7ffa50cdc972
+com.google.maps	google-maps-area-insights	0.14.0		6381226c135b778a59f9a5c9f01954de07e14194
 com.google.maps	google-maps-area-insights	0.2.0		a5923cf1619e62522515949c59feaa22c5b576c2
 com.google.maps	google-maps-area-insights	0.3.0		80ea29b1fb99a4bc6d206ee171f72d09e64f3696
 com.google.maps	google-maps-area-insights	0.5.0		e2474fa6e67d83ccc5f4a64a3d0e098ebf8610a6
@@ -2788,6 +2796,8 @@ io.github.jan-tennert.supabase	postgrest-kt-watchosarm64	3.1.3		N/A
 io.github.jan-tennert.supabase	postgrest-kt-watchosarm64	3.1.3	metadata	3a2c515cbf56b7307aa752cb369cbc854ad5d895
 io.github.jan-tennert.supabase	postgrest-kt-watchosarm64	3.1.4		N/A
 io.github.jan-tennert.supabase	postgrest-kt-watchosarm64	3.1.4	metadata	c91b33bd0c7c40519aef6329cc58336f0ffdbf8b
+io.github.jan-tennert.supabase	postgrest-kt-watchosarm64	3.2.0-beta-1	metadata	9b177c272814fad8e632221f10dc749cc876dae2
+io.github.jan-tennert.supabase	postgrest-kt-watchosarm64	3.2.0-beta-2	metadata	4ecacfda4ca0e00e891bf99edf36b538551ee3f9
 io.github.lhtforit	lhtrpc	0.0.1		N/A
 io.github.lhtforit	lhtrpc	0.0.2		N/A
 io.github.lhtforit	lhtrpc	0.0.3		N/A
@@ -3660,6 +3670,7 @@ org.tpolecat	natchez-testkit_native0.4_2.12	0.3.4		a52cec506aaadb43ee0adae5bc3f1
 org.tpolecat	natchez-testkit_native0.4_2.12	0.3.5		e44876d0f70c075f0a36f0f22d23e39c3e8f7a0f
 org.tpolecat	natchez-testkit_native0.4_2.12	0.3.6		62cf3b8379542821ea2ea52dc0de50e4259893cd
 org.tpolecat	natchez-testkit_native0.4_2.12	0.3.7		273c31ead01af12f50dde9a834df4025ab49df86
+org.tpolecat	natchez-testkit_native0.4_2.12	0.3.8		bd392193066a0e0536b1a579b870d7b0fac6eb1d
 org.wartremover	wartremover-contrib_3.1.2-RC3	2.0.0-RC2		51cbd2d43f16a365ef87ab7a8e6c406c79509b9b
 org.webjars.bower	angular-dialog-service	5.2.5		c7aa4bb1e79d2c71743ce99db24b30b18363244c
 org.webjars.bower	angular-dialog-service	5.2.6		e0d0883e0abfee727e4c5e7dc6d77342f068d550

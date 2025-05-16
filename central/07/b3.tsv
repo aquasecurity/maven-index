@@ -69,6 +69,10 @@ com.aliyun	elasticsearch20170613	2.0.9		028f03818e8a7a5ef9fb39dd040f8ed10c517e00
 com.aliyun	elasticsearch20170613	2.0.9	shaded	7f5eedc53a949bd14abe0cc9711a588ac528495c
 com.aliyun	elasticsearch20170613	3.0.0		5e77be35722b78a5daf678ae65f6812c31223db8
 com.aliyun	elasticsearch20170613	3.0.0	shaded	c18e935fa08c11967072b1a01019c66b59cedfef
+com.aliyun	elasticsearch20170613	3.0.1		95c7c1c36d259d8a7d55d91735e1f8109cd0ef0f
+com.aliyun	elasticsearch20170613	3.0.1	shaded	e28df6a162c814820af536aa9b9514e6e392e44a
+com.aliyun	elasticsearch20170613	3.0.2		42c2239764a5cf8a2e90e07a1a4feb981a6bc45c
+com.aliyun	elasticsearch20170613	3.0.2	shaded	b5bfde0ce0dc174b4f97d88d0e9fe5f6daa62810
 com.boozallen.aissemble	aissemble-invocation-lib-test-chart	1.10.0		N/A
 com.boozallen.aissemble	aissemble-invocation-lib-test-chart	1.10.0-rc2		N/A
 com.boozallen.aissemble	aissemble-invocation-lib-test-chart	1.11.1		N/A
@@ -272,6 +276,7 @@ com.linked-planet.client	kotlin-insight-client-test-ktor	0.13.9		15376afe8d8e65c
 com.linked-planet.client	kotlin-insight-client-test-ktor	0.14.0		74ba17e595d9cde9b9e895386fe4e25fd0f3b27b
 com.linked-planet.client	kotlin-insight-client-test-ktor	0.14.1		bd5e85e5382d16c1cddf2e40d88ff4309b145a13
 com.linked-planet.client	kotlin-insight-client-test-ktor	0.14.10		92b231098927b20c2ef1e1d08c70bccf866450f9
+com.linked-planet.client	kotlin-insight-client-test-ktor	0.14.11		448728098ff22ce074a7fe21e869d354d2725ee1
 com.linked-planet.client	kotlin-insight-client-test-ktor	0.14.2		67d0219d05c02f5ab7bfccb4d2a89390cda0c8ad
 com.linked-planet.client	kotlin-insight-client-test-ktor	0.14.3		201f2f8af396fe4b2099568bfac426c7502c6dfd
 com.linked-planet.client	kotlin-insight-client-test-ktor	0.14.5		30e6cd125e9e468b19d4bf8a4ed9cc540375c13d
@@ -1052,6 +1057,7 @@ io.ktor	ktor-client-core	3.0.3		b4426c85defd14bc629c73aa3c9cb65645182261
 io.ktor	ktor-client-core	3.1.0		5ca5f225999a698a5d35098a679b612d83da66c0
 io.ktor	ktor-client-core	3.1.1		d28f7b124c8eceee2b3fcf3133411d52c46c0796
 io.ktor	ktor-client-core	3.1.2		1ce81555e0b33a0492b3921f1fac6fe4033526d3
+io.ktor	ktor-client-core	3.1.3		12724b493358a730f09111f9a04540dc359faa80
 io.opencaesar.owl	owl-doc	2.0.0		18181f25f90424ec61100f26d846548c28776a34
 io.opencaesar.owl	owl-doc	2.1.0		895889174257b1451a9c6066ba4e5536126ce92a
 io.opencaesar.owl	owl-doc	2.10.0		3f06e0b850c43611b4160dda832d2e14fee4bf9f
@@ -1101,6 +1107,7 @@ io.sentry	sentry-graphql-core	8.10.0-alpha.1		37a587dadb1864497b83362c955f613ba0
 io.sentry	sentry-graphql-core	8.11.0		d5c4aaf54fbfcea72092efb1119880aa84909d84
 io.sentry	sentry-graphql-core	8.11.0-alpha.1		fd4d3070b54f7d4ff384212af07b80eb2d500b6b
 io.sentry	sentry-graphql-core	8.11.1		236c50ee1373965d96046eae6f712f611e276417
+io.sentry	sentry-graphql-core	8.12.0		432485a3d93649bebbabddbee89a677217114c8f
 io.sentry	sentry-graphql-core	8.2.0		ca0c89dca08cfaa08037e1c2f43f3eb4d945de7b
 io.sentry	sentry-graphql-core	8.3.0		f9adb7fa7c242825f04450140106e12aa6af4623
 io.sentry	sentry-graphql-core	8.4.0		a976853487ffa35a8c1e125aa625a66afe5c41b1
@@ -1255,6 +1262,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-tvosx64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-tvosx64	0.6.1	metadata	69ec258c74dcba221b1aee6ae7a91ea0a75c202f
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-tvosx64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-tvosx64	0.6.2	metadata	e8f2474cf9f5e6f0ffddb7fa7122d8c8e2a498c4
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-tvosx64	0.7.0	metadata	88d097aaf5f56c23281bd4263e91b52d2c20d6c5
 org.jooby	jooby-executor	0.16.0		250ec13bba572f8324b8e346016e08ad5f90632d
 org.jooby	jooby-executor	1.0.0		11682d45896a83a886b5758ed31a7c918d062ba2
 org.jooby	jooby-executor	1.0.0.CR1		04e8a07245204800c8df44fbe5f3d1f2057d96e9
@@ -1745,6 +1753,7 @@ org.scalatra	scalatra-auth-jakarta_3	3.0.0-RC1		06748ea87a8683b78596f6ae28397a38
 org.scalatra	scalatra-auth-jakarta_3	3.1.0		3d3f48bda797c1f495d6b0ab2404366f557cd002
 org.scalatra	scalatra-auth-jakarta_3	3.1.0-M1		df0683e28a02f8a38e07ca491abfeb45d7f18f78
 org.scalatra	scalatra-auth-jakarta_3	3.1.1		ade4dd472491989cb7eb39fa41556666362c5cf0
+org.scalatra	scalatra-auth-jakarta_3	3.1.2		8227a813849789079a8b4518dc1a1aa77f0f2c95
 org.scoverage	scalac-scoverage-plugin_2.12.17	2.0.10		ff737f2e5d65256516672757b9761e9bb7b53a06
 org.scoverage	scalac-scoverage-plugin_2.12.17	2.0.11		78c553b64feccea910672748f60faf9bdb778254
 org.scoverage	scalac-scoverage-plugin_2.12.17	2.0.3		a8380f07211603eb7d4cdc9dde794b89a7b0304a

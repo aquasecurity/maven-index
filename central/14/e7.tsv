@@ -514,6 +514,7 @@ com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.14.5		b3a6b9303d6df4c8549e
 com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.14.6		c95304faaaa5f579c8721b800b7619c077bf6faa
 com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.14.7		21b42667d28955bfacda342b9d1f88199219af2e
 com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.14.8		104ffeee96cf75e33d74931b2da19e86e53afb26
+com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.14.9		0b6e723999575756f204a7683c5f7087364b4305
 com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.15.0		91a3ad589ef701de5611018ccd5f87999e56a64b
 com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.15.1		d971d2e22218d973c6d944192db1fbbe11e65cfd
 com.google.cloud.bigtable	bigtable-hbase-2.x-hadoop	2.15.2		c75871440ee84ccf139ace586fb84f018e3d7df5
@@ -1583,6 +1584,7 @@ org.anyline	anyline-data-jdbc-ymatrix	8.7.2-20250312		e292a72334b693dfbb45ad3416
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-20250401		f1d81a88182c0955c30779258f1250a396d2ea47
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-20250404		30e5082d9d980c9f8134e11de32e2e577838fbd9
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-20250502		1a46cf3d15c6fd7e60415db78bc708ca327f611d
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-20250509		1c5286ce4ccd95fd2216c4a39dc34df5a5931cbf
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20240911		89b13e65e5088d91e69c2d9a47e714fd70fc4553
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20240912		308865c0870717d658f55557c83483025e010150
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20240919		7bede07750188b155e77b0a8a2535547f130e4d7
@@ -1595,6 +1597,9 @@ org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20250108		4fb70cc4fa93b7bc42e9
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20250212		5d5ca1416d3988438a4a3fe2f76e67aa872be914
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20250312		da070c394b78a5b2fb093e296e5e45b2c4efc043
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20250404		86d77730817e93071c53f7e53da01c077955974a
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20250502		68f5c1d8f6e1820e233fcb9917ba26e6b775fd5d
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20250509		014ee25ef4a1ff29ce7d14fb099b706fa01845ad
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk11-20250515		84452d6d28cf23fe73e96db0fe0318dc2f4f4a6f
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20240911		592555abce57cec4825ceb0c839f7366e6a7c080
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20240912		c25123938235ff0077b2525bf0f3b3e5b249eaa2
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20240919		d6b628899efd8573a15d4cf517fb823894002d80
@@ -1612,6 +1617,9 @@ org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20250109		05b522ff69cea46263d7
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20250212		fdb3d5d13a1b18a0f94ae7336704b5d18edbfcf3
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20250312		0967a5f3af7cc72ae2f72414d7b4b6ea5408ca03
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20250404		23193fcc220d3016556782a8b44a7cc8d119f4d2
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20250502		e50afcb41eb1db0147d525f3d9d70ec43b256d37
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20250509		d404d0d7aaaf09e08b5d63a88baf384853dc1b44
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk17-20250515		04910a9d3578e66a45395dfc92d4ed9cbe88b9c9
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20240911		c6602c1f8f7f7fabf0c6731c9dc31896863f68ba
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20240912		e37e063140ebe68a170eafc6b2f97ad74d28e997
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20240916		b0562096313ea827a759fa95f0e1b9e6b880c8bb
@@ -1634,6 +1642,8 @@ org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20250109		56d47b8baf474774b6dc
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20250212		1ba8d0892870c4b9fdc211c40d69fcea59899b92
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20250312		fa9807fa1d7c08435c5f5e178d46fb616b778189
 org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20250404		63a7ecbc0f6c1d786243e3edcff00bf1be8511c1
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20250502		a5ddf10d1ec15e9f5d6211760dedcd1b49606003
+org.anyline	anyline-data-jdbc-ymatrix	8.7.2-jdk21-20250509		225c08965a70fa29536d4661aad039be80809571
 org.apache.clerezza	platform.security.foafssl.ontologies	0.1-incubating		915d74e41e257335f6122478e8719edf0d156500
 org.apache.clerezza	platform.security.foafssl.ontologies	0.2		d1719e83a33654e2b2cf5fb96130bce2537d100a
 org.apache.myfaces.buildtools	myfaces-faces-plugin	1.0.0		74e15102990b714299b64f33c65bb0c58ceef2e1
@@ -1771,6 +1781,8 @@ org.kweny.carefree	carefree-mongodb-spring-boot-starter	1.0.1		f3302d4769688237f
 org.liquibase.ext	liquibase-hibernate4.2	3.3		fa8d533fa5d3759c0fedf540e7b9dfad63a1d166
 org.liquibase.ext	liquibase-hibernate4.2	3.4		435cf3dab3035995d78323f6bf638c7024804017
 org.liquibase.ext	liquibase-hibernate4.2	3.5		c05ee6349391d1edd3e3f187f3e8300c3b321fa2
+org.longevityframework	sbt-longevity-migrations_2.12_1.0	0.1.0		e3e3b1ff606b2702bf7aa177a566d6d93e6304f4
+org.longevityframework	sbt-longevity-migrations_2.12_1.0	0.2.0		d97fee671ed52e6f1b2709244dea2d3f85d01d61
 org.monifu	monifu-core_2.11.0-RC3	0.3		a93e5d51c58d122e6b23aa17e8922e0845e6e0cf
 org.monifu	monifu-core_2.11.0-RC3	0.4		066c08a40d2eacccf35b50b578cb899a221d1c21
 org.mvc-spec.ozark.ext	ozark-jade	1.0.0-m03		9c57896730d4d523522cf7ea3eacc7a62b753bd2

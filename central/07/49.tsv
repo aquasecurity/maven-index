@@ -611,6 +611,8 @@ com.composables	core-iosx64	1.28.0		N/A
 com.composables	core-iosx64	1.28.0	metadata	bab3457b150c7fae0133819a6ec3ca8de06a6edf
 com.composables	core-iosx64	1.29.0		N/A
 com.composables	core-iosx64	1.29.0	metadata	768ed8f2e71d8ae8f285caf0b5d224e8d4826abe
+com.composables	core-iosx64	1.30.0	metadata	70ed265f505ec09f55e0d76c69776a03bc067a2c
+com.composables	core-iosx64	1.31.0	metadata	1f7b2e70111f5444eee90300e17c1ed366a353ce
 com.composables	core-iosx64	1.5.0		N/A
 com.composables	core-iosx64	1.5.0	metadata	26eab9d2bb57ac1e356723c28f792d9ae5d216b2
 com.composables	core-iosx64	1.6.0		N/A
@@ -2040,6 +2042,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-common	2.13.3-alpha		3f851c2d4dc59e0e232ddd03af4229ab0cc12f5b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-common	2.14.0-alpha		0ab43448530518dc0235edf76eb1968b4cdf38f5
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-common	2.15.0-alpha		d3f03bdebc9b373fe29e51e75939573716e17537
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-common	2.16.0-alpha		13a44b78f815661e1ef1733666ee98ce29c22887
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-common	2.2.0-alpha		41c87cf88916a33b9e98e124fbae61b06fdf7b03
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-common	2.3.0-alpha		7c234089d9982d21263f02ab7c262371c238dad6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-couchbase-2-common	2.4.0-alpha		cf066cf8255ea12ce8c7ff407adff643cc3f7ee5
@@ -2205,6 +2208,8 @@ org.eclipse.jetty.quic	jetty-quic-common	12.0.17		f6d79db79c3de00f081aa99370e590
 org.eclipse.jetty.quic	jetty-quic-common	12.0.18		66d750c8d022b086b5b1063fa40324e59009e3d9
 org.eclipse.jetty.quic	jetty-quic-common	12.0.19		215e6d179826f2b8bfd2b5f476a4769d08395f19
 org.eclipse.jetty.quic	jetty-quic-common	12.0.2		f7576dec11d3bef20833d8c73a7111fd9c13e503
+org.eclipse.jetty.quic	jetty-quic-common	12.0.20		35604ca972a5683b0e1e2edc0dff3c0be19ebc36
+org.eclipse.jetty.quic	jetty-quic-common	12.0.21		2f18344fb4ffbf02a42cc23a4f0b2dc5e187f7a8
 org.eclipse.jetty.quic	jetty-quic-common	12.0.3		91ee120e5c81d59a90fd11a0fd3a4e80c25911ef
 org.eclipse.jetty.quic	jetty-quic-common	12.0.4		954eb0ff7e13681bbb3569fc973dbdbea15fdd60
 org.eclipse.jetty.quic	jetty-quic-common	12.0.5		f4ceba0c8eb52852c424d4148fed415b12489282
@@ -2346,6 +2351,7 @@ org.kiwiproject	dropwizard-application-errors	3.0.0		73b68e0613adc735511f6e368cb
 org.kiwiproject	dropwizard-application-errors	3.0.1		33788f961d254634e71deb0b6a6eccbd12bdc174
 org.kiwiproject	dropwizard-application-errors	3.0.2		7224c0a12a9e2b00b9960aa8deaf9122651071b7
 org.kiwiproject	dropwizard-application-errors	3.0.3		3172f51c4254a24c166c50d7a2911e3317feb6d5
+org.kiwiproject	dropwizard-application-errors	3.0.4		b2d686088a79e48514e3fadfa901675b385f9af4
 org.milyn.edi.unedifact	d08b-aggregator	1.4.1		N/A
 org.milyn.edi.unedifact	d08b-aggregator	1.4.2		N/A
 org.milyn.edi.unedifact	d08b-aggregator	1.5		N/A
@@ -2610,6 +2616,7 @@ org.seleniumhq.selenium	selenium-firefox-driver	4.29.0		84fd20244c819e3c43a6a60b
 org.seleniumhq.selenium	selenium-firefox-driver	4.3.0		b2043779aea6d29d474d711a2c4565793998822b
 org.seleniumhq.selenium	selenium-firefox-driver	4.30.0		84fd20244c819e3c43a6a60b91491f2fac67cbc1
 org.seleniumhq.selenium	selenium-firefox-driver	4.31.0		66d359c532f7ca620e1755461076f53b234db441
+org.seleniumhq.selenium	selenium-firefox-driver	4.32.0		c1ca14833d7cb241e01f854deb85ce234a7a4b82
 org.seleniumhq.selenium	selenium-firefox-driver	4.4.0		90afda786abc55b6423cc92e66ebf15b3436bd6d
 org.seleniumhq.selenium	selenium-firefox-driver	4.5.0		3a2539813d720a3ea362871e1997d50eebc4ede3
 org.seleniumhq.selenium	selenium-firefox-driver	4.5.1		903a14bc80efcd06aebf77a8909de1d9df1e49fc
@@ -2817,6 +2824,10 @@ tz.co.asoft	kollections-primitive-iosx64	3.0.8		N/A
 tz.co.asoft	kollections-primitive-iosx64	3.0.8	metadata	970839e77d35fc63815c7319d61715e1a2e6166e
 tz.co.asoft	kollections-primitive-iosx64	3.0.9		N/A
 tz.co.asoft	kollections-primitive-iosx64	3.0.9	metadata	93a23fb2a0f234ec07f0698c38c074f541f1910d
+tz.co.asoft	kollections-primitive-iosx64	3.1.0	metadata	9427c1200c514a33b728b7e09f5b951820662cbb
+tz.co.asoft	kollections-primitive-iosx64	3.1.1	metadata	9054de85a44e76e227c4e417fae8c80a3453e788
+tz.co.asoft	kollections-primitive-iosx64	3.1.11	metadata	a2b053696d0f095ebe03075a7a7d75799b6f6042
+tz.co.asoft	kollections-primitive-iosx64	3.1.12	metadata	4c350f96037a7101c49b9391827ae5dbbe08c0be
 tz.co.asoft	payments-requests-core-tvosarm64	0.2.0		N/A
 tz.co.asoft	payments-requests-core-tvosarm64	0.2.10		N/A
 tz.co.asoft	payments-requests-core-tvosarm64	0.2.20		N/A

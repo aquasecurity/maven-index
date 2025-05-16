@@ -30,6 +30,8 @@ cn.aio1024.common	domain-basic	1.0.0		fae64b254b571da9054e96ad701eb25c1e423e7e
 cn.aio1024.common	domain-basic	1.0.1		d1b3785f6b1841b3fd7d215a7e382c1a523c3994
 com.aliyun	dashdeviceconsole20250408	1.0.0		ad390faa367313ea20e7a8fe9493541434b44613
 com.aliyun	dashdeviceconsole20250408	1.0.0	shaded	a603139a636f6e7bd7adbca78bc2ef15805b6294
+com.aliyun	dashdeviceconsole20250408	1.1.0		78f367fe1fb1d5ef91e04a08d70263c3381a8cd2
+com.aliyun	dashdeviceconsole20250408	1.1.0	shaded	93219e6956fe54f2d6e840d70c395ad9cf6d55d1
 com.aliyun	gts_dayu20210207	1.0.0		241e7904b91f9211c8cb0b7c9d22d034ec34add7
 com.aliyun.rum	alibabacloud-android-rum-plugin	0.0.1-dev.1		558f40af2a140257ce15a21a5a1aaeec1624fd45
 com.aliyun.rum	alibabacloud-android-rum-plugin	0.0.1-dev.2		f2f8bbece42c17c9a244ccc31a65d5cd05318085
@@ -601,6 +603,7 @@ commons-beanutils	commons-beanutils-bean-collections	1.8.0-BETA		37bffd639ce1d7c
 commons-beanutils	commons-beanutils-bean-collections	1.8.1		aeff2ed5e78d8f60f44cf00d38dffb376cbb1b78
 commons-beanutils	commons-beanutils-bean-collections	1.8.2		f4048e83343113782dbf45f1055e4e70953bfdd3
 commons-beanutils	commons-beanutils-bean-collections	1.8.3		6f74b866fb9e744b6a4064ceeef5fb6803675435
+commons-beanutils	commons-beanutils-bean-collections	1.8.l		aeff2ed5e78d8f60f44cf00d38dffb376cbb1b78
 de.knutwalker	algebra-log_2.11	0.1.0		7d268494bbbe5aa21ac5f82075a2efcda823e890
 dev.mattramotar.storex	telemetry-jvm	0.0.1		668fc439f1ea939c769be8495ddd97d50cd4aacd
 eu.agrosense.client	io-dbf	14.01-beta		eb092e28f16dee4e968bb327be1fb5797a7218bd
@@ -689,6 +692,7 @@ io.getkyo	kyo-zio_sjs1_3	0.16.1		432b941b8571e5fbad874945f6e69f13d7174e9f
 io.getkyo	kyo-zio_sjs1_3	0.16.2		f6b31545d31f61e9a71a2ca3d886ca40be4ae386
 io.getkyo	kyo-zio_sjs1_3	0.17.0		de2cb12600990d8d1cad555c04cfabf11e52e428
 io.getkyo	kyo-zio_sjs1_3	0.18.0		680c508d489d246621f9e9a54ac1880fd7550547
+io.getkyo	kyo-zio_sjs1_3	0.19.0		73298b1879e5529e329eeac0f98655fe353c52ab
 io.getkyo	kyo-zio_sjs1_3	0.3.5		736009b1841ca339668fe9124a8e7980f9292616
 io.getkyo	kyo-zio_sjs1_3	0.3.8		a28224ede37400f3a7147fe81d4f033ca5fd1b67
 io.getkyo	kyo-zio_sjs1_3	0.3.9		0ce9749ed4f4d72a192ab9869186f73c514c5b49
@@ -1070,6 +1074,7 @@ org.apache.parquet	parquet-pig	1.14.3		bc3f1b70c1c0cae996156ae87dce8a6508ef33ab
 org.apache.parquet	parquet-pig	1.14.4		54e157760c6a145a5fd256a88fe0bb39201cbbb1
 org.apache.parquet	parquet-pig	1.15.0		c291823b6eabd911084109e3cfdc2c21f7022cd8
 org.apache.parquet	parquet-pig	1.15.1		394f2b3eda6771fdf7f21ec5d1a848eb1bb20969
+org.apache.parquet	parquet-pig	1.15.2		c716f0b9390d308aaba11d6360ee2620ae89942b
 org.apache.parquet	parquet-pig	1.7.0		00eb2232bdf569a37faa6c016c3bfce49f2e12d9
 org.apache.parquet	parquet-pig	1.8.0		22c6ed8df92f9e278571f5268feb0e018625a0dc
 org.apache.parquet	parquet-pig	1.8.1		4492ca21e68c1c92ab2c2336102ad80b13642797
@@ -1330,6 +1335,19 @@ org.eclipse.dirigible	dirigible-repository-cache	11.41.1		6db10dac84d3e14176f254
 org.eclipse.dirigible	dirigible-repository-cache	11.42.0		56b9d1c7a3640b762843f29e1a6e49d070baa82e
 org.eclipse.dirigible	dirigible-repository-cache	11.43.0		23c4446f42a26864af11a215997e4ac49214147c
 org.eclipse.dirigible	dirigible-repository-cache	11.44.0		a4f1a6487c7905f190d74c0f2f127db8eb652d95
+org.eclipse.dirigible	dirigible-repository-cache	11.45.0		1d0670d0e61113d23833294e5029e1e1370482bd
+org.eclipse.dirigible	dirigible-repository-cache	11.45.1		0613290750796e7d3d3a9c25b3f5a37704d547bd
+org.eclipse.dirigible	dirigible-repository-cache	11.45.10		c6e580ec25528d3cfa968cd2b408895a4e3765af
+org.eclipse.dirigible	dirigible-repository-cache	11.45.11		077c36ad3026b0786a8b40f96370e95081e393ab
+org.eclipse.dirigible	dirigible-repository-cache	11.45.12		577b301b2bcaa650c131ccd25b4e49cc298bca86
+org.eclipse.dirigible	dirigible-repository-cache	11.45.13		2b0532615170a07f2b9ef27753c1aa7c2156de36
+org.eclipse.dirigible	dirigible-repository-cache	11.45.3		423fff61d685b01e3b3f6cfb94503f0c1e1da0b3
+org.eclipse.dirigible	dirigible-repository-cache	11.45.4		b208ed3ec88a810c785cf28e287f47858ad957b8
+org.eclipse.dirigible	dirigible-repository-cache	11.45.5		386c7db86b922d22c7186ff17f72df729ee05a8c
+org.eclipse.dirigible	dirigible-repository-cache	11.45.6		6ee27b133d64567373f665d7afe6a34fe59c7267
+org.eclipse.dirigible	dirigible-repository-cache	11.45.7		9db21dc0b34ec299727c6511eb1c186aa509c3d3
+org.eclipse.dirigible	dirigible-repository-cache	11.45.8		8461c633bd107b85ad0ecae167752ae83ca5dc38
+org.eclipse.dirigible	dirigible-repository-cache	11.45.9		ecdaae1b49474fb2930c7577d038f6ec249d9ac7
 org.eclipse.dirigible	dirigible-repository-cache	11.5.0		0dda754f697cb3b4a0e845ffb9004a96ee995af7
 org.eclipse.dirigible	dirigible-repository-cache	11.6.0		286af90f571964d1cc61da6e2669650583a07ce0
 org.eclipse.dirigible	dirigible-repository-cache	11.6.1		c21a599779ee7667db60b760eac113bdbb8294e3
@@ -1532,6 +1550,8 @@ org.eclipse.jetty.ee8	jetty-ee8-runner	12.0.16		b06508d96558148ea75aadd26d578b91
 org.eclipse.jetty.ee8	jetty-ee8-runner	12.0.17		44a5e29721c9035d1b2702dc7468cf0f6a372722
 org.eclipse.jetty.ee8	jetty-ee8-runner	12.0.18		8ba20851c3f9dab5a7252c339164ada53cea6326
 org.eclipse.jetty.ee8	jetty-ee8-runner	12.0.19		2462b3154f0aa55bdca9f6b2c35b84256b7f37b7
+org.eclipse.jetty.ee8	jetty-ee8-runner	12.0.20		593f5be8d2f0f659deb3a246e3fb223dfd5f4b0a
+org.eclipse.jetty.ee8	jetty-ee8-runner	12.0.21		81a5d3f5a53a7d8288af61b1be79cc7ff31fc009
 org.eclipse.jetty.ee8	jetty-ee8-runner	12.0.9		1f31ac032739b0819fa88f9a64223643fa458bd5
 org.eclipse.jetty.ee8	jetty-ee8-runner	12.1.0.alpha0		b4dca5cf417e95e8706ae7b5dbae4095712579a2
 org.eclipse.jetty.ee8	jetty-ee8-runner	12.1.0.alpha1		fc10a35f85ca8e3e83ed2bc6a835d99834fb916c

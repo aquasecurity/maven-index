@@ -491,7 +491,16 @@ aws.sdk.kotlin	translate	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	translate	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	translate	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	translate	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	translate	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	translate	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	translate	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 codes.quine.labo	recheck_sjs1_2.13	2.0.0		5ac333527f6f751299d6a354d179bdc3511a22c4
 codes.quine.labo	recheck_sjs1_2.13	2.0.1		724363b25e827e58064636aa7fe5558b8b9b8a34
@@ -529,6 +538,7 @@ com.dwolla	dwolla-otel-natchez_2.12	0.2.0		b48ff98b25ee6e69307da47fe684cc1486b3f
 com.dwolla	dwolla-otel-natchez_2.12	0.2.1		0465abe4d5cbd9e3d8a4c614d5c09029eb130c31
 com.dwolla	dwolla-otel-natchez_2.12	0.2.2		3a00dc8fd1bb99f4d48af4b0680eb764fee3929c
 com.dwolla	dwolla-otel-natchez_2.12	0.2.3		6d307c2e69fad47f3a9277cbc7c109fc706887eb
+com.dwolla	dwolla-otel-natchez_2.12	0.2.4		6141f202e3834975893463eeee69c620ca592643
 com.eduworks	forge	2.10.0		ade3251dc5cf4ba4ec010fa614bd92f75c961998
 com.eduworks	forge	2.10.1		9df9fafcc88a58eb6ca188ed9edcf22a3d0b245e
 com.eduworks	forge	2.10.2		b6ae32ad7d90d169e45ec5e92fdb6c75b39ef747
@@ -735,6 +745,7 @@ com.google.devtools.ksp	symbol-processing-gradle-plugin	2.1.20-RC-1.0.30		3c36ff
 com.google.devtools.ksp	symbol-processing-gradle-plugin	2.1.20-RC-1.0.31		45f8e9c37336f7afa419be17b639bde85d9fb9ff
 com.google.devtools.ksp	symbol-processing-gradle-plugin	2.1.20-RC2-1.0.31		7f330a629fbb558f68d97df99ff15c1bf0aef4d4
 com.google.devtools.ksp	symbol-processing-gradle-plugin	2.1.20-RC3-1.0.31		c767a2597dc0e4d22a6212aef3d9c39170c7a4b2
+com.google.devtools.ksp	symbol-processing-gradle-plugin	2.1.21-2.0.1		7f0c212db29466a05f9f537a8c805fb87ecb08ed
 com.google.devtools.ksp	symbol-processing-gradle-plugin	2.1.21-RC-2.0.0		f0ae1c0167130f79448e3ee946202533ae886317
 com.google.devtools.ksp	symbol-processing-gradle-plugin	2.1.21-RC2-2.0.1		b29ba800361341f096989150e782344348f8205d
 com.google.devtools.ksp	symbol-processing-gradle-plugin	2.2.0-Beta1-2.0.0		15c4adf139b42f2f2cb0e34445b21f961bfd8f97
@@ -1617,6 +1628,8 @@ io.camunda	tasklist-common	8.6.12-rc1		42ea0214662cc2f49885a10db7f0fe455353fae0
 io.camunda	tasklist-common	8.6.13		e995be8287b6fa80411edc46ac6d5f41c235d647
 io.camunda	tasklist-common	8.6.14		d5142c8aa066654145444a5d3cd445d8d4b5c863
 io.camunda	tasklist-common	8.6.14-rc1		599af1bda4497cf47f6404febe122633388ed7e6
+io.camunda	tasklist-common	8.6.15		986aadd3736ec969412ef298bd1d26664d966bcc
+io.camunda	tasklist-common	8.6.15-rc1		e9f687e0230ba58e82b758f690adf56109c2c39c
 io.camunda	tasklist-common	8.6.2		c526ea7c42b8b85e932097a82c78dea90c547118
 io.camunda	tasklist-common	8.6.3		7432a39d244a269e48b161d603bcd568edc12d49
 io.camunda	tasklist-common	8.6.4		cdf0453d49447744c7caba7a118ca70c2008501e
@@ -1652,12 +1665,15 @@ io.camunda	tasklist-common	8.7.0-alpha5-rc1		7f34481b94d71db7362c8521d430d87f8c1
 io.camunda	tasklist-common	8.7.0-rc3		5457b60bf95b3b83d3a63cd3aeff13e2e632d85f
 io.camunda	tasklist-common	8.7.1		e01f725f8360bed13ee2687d6742f5df864dd8e5
 io.camunda	tasklist-common	8.7.1-rc1		ea463a76fd18d43294cefb8ec00a155e159783c1
+io.camunda	tasklist-common	8.7.2		61bf1b5d0e36bdfde55b6de6936eeae2eaa2644d
+io.camunda	tasklist-common	8.7.2-rc1		9c368f5e9f70270895fb23fc0c0b09a68af113a5
 io.camunda	tasklist-common	8.8.0-alpha1		293f6d0eba43dd5bad13030d4661d0e9c0ba9673
 io.camunda	tasklist-common	8.8.0-alpha1-rc1		bd4f90bc1105e36ea0301c1e39fba933be4631de
 io.camunda	tasklist-common	8.8.0-alpha2		de299e95260ea05287746ab9a257652c137aadf0
 io.camunda	tasklist-common	8.8.0-alpha2-rc1		52d1841f3b3f89241097a7534edcd05bdc95315f
 io.camunda	tasklist-common	8.8.0-alpha3		c1b7d3c75c8f76bda6f9be40934b2092c93aaaa8
 io.camunda	tasklist-common	8.8.0-alpha3-rc3		b785a700dac098ffee626b41e5748bf820b0f372
+io.camunda	tasklist-common	8.8.0-alpha4		8759d1e29d419ef375a3e8fbb104a5e0e7872d2e
 io.camunda	tasklist-common	8.8.0-alpha4-rc1		736a485ac3aff704ab3eaef244dcc9f7ab57789a
 io.data2viz.d2v	d2v-voronoi-iosSimulatorArm64	0.10.0		N/A
 io.data2viz.d2v	d2v-voronoi-iosSimulatorArm64	0.10.0	metadata	85c0f345a2559ddb889ef61da72c5561dc66ccbc
@@ -1916,11 +1932,19 @@ io.spinnaker.kayenta	kayenta-influxdb	2.45.0		428910946e39fe7a95f464ba901c56983f
 io.spinnaker.kayenta	kayenta-influxdb	2.46.0		1216b5cdedf287351890b2a4d92f0d219c624f14
 io.spinnaker.kayenta	kayenta-influxdb	2025.0-0		b4f17e21da3c71e727688123a608f774252f3330
 io.spinnaker.kayenta	kayenta-influxdb	2025.0-1		038582b7e93f0f9f3d509add1ce7d14b3d274797
+io.spinnaker.kayenta	kayenta-influxdb	2025.0-2		4313d2066ffbf828defc237f6be4a7551f342a04
+io.spinnaker.kayenta	kayenta-influxdb	2025.0-3		263b21f144719b363c6b3767c6573b2c8b6ef0d4
+io.spinnaker.kayenta	kayenta-influxdb	2025.0-4		be5ece261003a9f8a9ffc38f4920a7cf35693abf
 io.spinnaker.kayenta	kayenta-influxdb	2025.0.0		2288d6c4f749ffa40b644fa35b602241fb53fa7d
+io.spinnaker.kayenta	kayenta-influxdb	2025.0.1		92b16330df241f83fe625fecd34bdba2706af833
+io.spinnaker.kayenta	kayenta-influxdb	main-10		24f655a2c20614301368b2e88509026b5ae4826c
+io.spinnaker.kayenta	kayenta-influxdb	main-11		66b96eb44d7646d0f1253483c2f02a140afe9fe9
+io.spinnaker.kayenta	kayenta-influxdb	main-12		69136b8c28ed01a661f8e45aa482735c3a9921a0
 io.spinnaker.kayenta	kayenta-influxdb	main-5		88e4b8adc32d759bfe9c5a5d6d7092ad94f870cb
 io.spinnaker.kayenta	kayenta-influxdb	main-6		cab9f1214b6ad346f59c4438a867c360e44dc22a
 io.spinnaker.kayenta	kayenta-influxdb	main-7		2222059ca67785517765fa9cf62a81cbd17a860b
 io.spinnaker.kayenta	kayenta-influxdb	main-8		bb4b09175fb97973b6e6235b4428a4e708f24d66
+io.spinnaker.kayenta	kayenta-influxdb	main-9		a8ff5bf07eef12003ee2078682bd5548f432b18d
 io.springboot.ai	spring-ai-bedrock	1.0.0		aa93afdb20e0a52e551196d007a7653f8fca5635
 io.springboot.ai	spring-ai-bedrock	1.0.1		6297b4c3da22ab0f55eb03e8e256207db414fd1c
 io.springboot.ai	spring-ai-bedrock	1.0.2		bd07e12aa30a1332e0f8c2fa57b7aeed884a4107
@@ -2285,6 +2309,7 @@ org.anyline	anyline-data-jdbc-kingbase	8.7.2-20250312		fd9984907bdb64cf20eb985d5
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-20250401		fb828422cb65524a9a56c6b0f59e50b2bc617a50
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-20250404		0c559410d820c4d52b97751b4069f2d360d0aac1
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-20250502		55e551385499e985108162d980c83d6d8af20273
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-20250509		60b99dc1720a706268c0b4c52ae61383cbae04b3
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20240816		13609ecb721932297e4d18062c6691048543d96f
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20240819		da6cee05c78250175ded463079f903c40b0e05c3
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20240826		efb6f4c89cc9da8b8c50c4212845c60b087e819e
@@ -2302,6 +2327,9 @@ org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20250108		99a4cbfb8721da5505e
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20250212		f7c8f774dc18b284438c98c09f18c6a5c9d57861
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20250312		9fc1aa11459e394bab61b9ca60104b396692a37a
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20250404		e87ca08d19319b046a0aa09d93a34ef8ab09f93c
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20250502		b346d586850079e2ce24ede5b0ab284d0d3b25a4
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20250509		f27902ff6a0e4b2e380416e31ee3c8d4b6f354ca
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk11-20250515		c9f2e6a84ebb5543006683d2b98161539846025c
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20240501		0f2485c53a2f12c54d68e1f980eaf427615f0f3d
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20240505		cec2eead44ca753610f6ad74da5391cc913303ae
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20240506		f72d550ca1b3fb9ccb9bb3b56ce4e39bbbe2cb6c
@@ -2375,6 +2403,9 @@ org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20250109		5a319a1f31bc0eccfeb
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20250212		4e15257aa2997e5573ee232442f90f77917298e3
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20250312		c1e4d7a2efca4ff1b0442074ab3a0ffa7575a527
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20250404		13b5732f08730faf7637c5eab924002d0aefd0da
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20250502		5a4786f4ca949d432191f4d3e1f82341f2e8dc08
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20250509		02799ac7b76bbb450db5d0a7714ea945e3c332ed
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk17-20250515		e4b5fa2126659e73f7da0430952f3f4dc6f4966c
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20240501		54b3d87abeb51c3aff91793d2d9cb1049506bfdb
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20240505		b2898bb377eb83036f52ddd2fc0a7546aa7eb619
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20240506		b8f11a11d7573b73cb28edf53ec857dc9fec0544
@@ -2456,6 +2487,8 @@ org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20250109		b5efc1c8dde4fc5a105
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20250212		45eb56a5a8f7d7b1343660f716a1ef534812e15b
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20250312		3629122fcb43b53d4c7581a02b7d577a8f350106
 org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20250404		09ca2ec8504c83218098030e70c9445c9a87f09d
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20250502		cdead2c0a6dba89d83e1fb80a3ba411fc3258c22
+org.anyline	anyline-data-jdbc-kingbase	8.7.2-jdk21-20250509		43c21214b0178267220b54d9b7bd5d6c4ba47885
 org.apache.beam	beam-sdks-java-io-hbase	0.6.0		ad72c3d0bd4b4beaf4bcb2917b68c7098a3ed382
 org.apache.beam	beam-sdks-java-io-hbase	2.0.0		03d7a5377b57dc1bf12aa9d0ec1cd068d6d5d0fa
 org.apache.beam	beam-sdks-java-io-hbase	2.1.0		02f9e8bb2b24433851650d8e491e16e83d460279
@@ -2521,6 +2554,7 @@ org.apache.beam	beam-sdks-java-io-hbase	2.61.0		af4fec0e7059b3ea4d9e4d38391b8ea8
 org.apache.beam	beam-sdks-java-io-hbase	2.62.0		c9e0c83b8f48f28e1cb30666e0503438b715af0a
 org.apache.beam	beam-sdks-java-io-hbase	2.63.0		8793578399d6b000fc0cb775e7d4717ab7138635
 org.apache.beam	beam-sdks-java-io-hbase	2.64.0		631a9ee476673094138ca4056ffc33404a0b08c5
+org.apache.beam	beam-sdks-java-io-hbase	2.65.0		aa3b46f91aa07dde1ee909c3f550c83c96d5ccd4
 org.apache.beam	beam-sdks-java-io-hbase	2.7.0		e5c79860b5e33d1ee1b3eb2fc8ee1515af9b970b
 org.apache.beam	beam-sdks-java-io-hbase	2.8.0		54e5eaf49ce58c0cc8c8feb712d768171bf56d39
 org.apache.beam	beam-sdks-java-io-hbase	2.9.0		58da4c18365a67b2ba7dc2c538d4c5f22bd347e8
@@ -5675,3 +5709,7 @@ tz.co.asoft	lexi-test-android	3.0.6		5cf3cafb2b8316ad783da737060a14bbf0de33d9
 tz.co.asoft	lexi-test-android	3.0.7		802f1a0a50e8d201120e2681b03398276f000187
 tz.co.asoft	lexi-test-android	3.0.8		39641d5d588b9b2878dc60370891668072a01c68
 tz.co.asoft	lexi-test-android	3.0.9		9283a4e2581a8356579c16ccaeae519da81353e9
+tz.co.asoft	lexi-test-android	3.1.0		a6e92cd9dbb4ca5768c9c505e4f6c92473d81adc
+tz.co.asoft	lexi-test-android	3.1.1		5077a957b10bdc5e68beb05b61dbbc24c4b56086
+tz.co.asoft	lexi-test-android	3.1.11		56c9df9a8addb4898bd215643360f9de95a44643
+tz.co.asoft	lexi-test-android	3.1.12		07bd9cbc23d174b1d40e63f9d0568baa7a121c5b

@@ -385,6 +385,7 @@ com.slack.circuit	circuit-codegen-annotations-iossimulatorarm64	0.27.0		N/A
 com.slack.circuit	circuit-codegen-annotations-iossimulatorarm64	0.27.0	metadata	6a126021cf0fe8d5ae81ad3c1c44c153f2c86f39
 com.slack.circuit	circuit-codegen-annotations-iossimulatorarm64	0.27.1		N/A
 com.slack.circuit	circuit-codegen-annotations-iossimulatorarm64	0.27.1	metadata	6a126021cf0fe8d5ae81ad3c1c44c153f2c86f39
+com.slack.circuit	circuit-codegen-annotations-iossimulatorarm64	0.28.0	metadata	fc9216c7e4d7b4211861790a8d6a17c8eac3f95f
 com.softwaremill.sttp.tapir	tapir-redoc_2.13	0.19.0		e48ccd8af29b4a6d00bfc50ba867cb7cd3537421
 com.softwaremill.sttp.tapir	tapir-redoc_2.13	0.19.0-M10		6a4513cc83dc4779a5fc1ccf3b535ea338243f2b
 com.softwaremill.sttp.tapir	tapir-redoc_2.13	0.19.0-M11		22b58693795f36c60b7997860967200a5fcb0a44
@@ -663,6 +664,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-clie
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-client-5.0	2.13.3-alpha		9867a5cb2a15f2a5bb729c2b10ce8dd7e9ca9418
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-client-5.0	2.14.0-alpha		863c8846b39d6517e979152351b11310b38b93c7
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-client-5.0	2.15.0-alpha		fd9353bd43a80faf4305c6c02c34a32aef3a8f28
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-client-5.0	2.16.0-alpha		a67e3a2a0e96a73000d6bb368bfbdde5f44cbb2d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-client-5.0	2.2.0-alpha		60f7f720d3b84fc46ec058e418d875ce88e92e2c
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-client-5.0	2.3.0-alpha		6b48113927440f8bc22633835be18e17f3f69066
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-rocketmq-client-5.0	2.4.0-alpha		eb263db6057803c52c596cb7e858ff17cd791f9d
@@ -1076,6 +1078,19 @@ org.eclipse.dirigible	dirigible-odata-core-test	11.41.1		173dba0bcd66dab2c6c1248
 org.eclipse.dirigible	dirigible-odata-core-test	11.42.0		9e87c8d31cbf12afc50f915d66f52193291a252e
 org.eclipse.dirigible	dirigible-odata-core-test	11.43.0		e8b196f060a86efc9fd760a1906b3a66cc7811df
 org.eclipse.dirigible	dirigible-odata-core-test	11.44.0		78f757e6a81d9a9c2be401c70808f85ce1a22771
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.0		d4ee23323b49f6e1687fecccf3ee9ada9371826b
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.1		df834570664dcd546557b5a9940f9376d3b4c644
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.10		26fda98f736214ad0254d64ddc78a5732201af6d
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.11		396a579816be45762ec658ba908cf3b17e3a5ab7
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.12		3348b7122c0493bb2e4dfdf86a44ac4d07745f66
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.13		7ebe28ed89ce39066764156783aa392de79a5be5
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.3		e7c497c64a2cced944ebbcc5e8470ae775aea5e3
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.4		96b8d75e63edb4badf9218329d6efea2e9318f32
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.5		4718f22435997bfde34fb07345ed8175870fbe25
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.6		66a44db694478478a141b7daac3756eee8633ec0
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.7		d6d5e33cf07fb45fcc78af4cf4a0e4807d90bf25
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.8		771bc9bf5fda242cb13ec79830e55b12fe7575a3
+org.eclipse.dirigible	dirigible-odata-core-test	11.45.9		9fdbdb2d1d58c2c6b5fc156b5c0dbab78f9056f9
 org.eclipse.dirigible	dirigible-odata-core-test	11.5.0		d8aad61af2e12d1cdffc2a0dbe522a9d98364f97
 org.eclipse.dirigible	dirigible-odata-core-test	11.6.0		a05f25dc0e2b0b31a11fd87838b211b300e4813e
 org.eclipse.dirigible	dirigible-odata-core-test	11.6.1		c9bf94b52ca60ce15f89e784c4e0f886fd99b78b
@@ -1261,6 +1276,7 @@ org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.17.Final		224cf49d03ba5
 org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.18.Final		4fdcb5a78e768c6d34f5014e1d525939517af37b
 org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.19.Final		4dcaaef526b095fe1bffd949b66360e1ebb6a531
 org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.20.Final		dbb35fdfaa004e0e4d96df36c6f9fae34a4becea
+org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.21.Final		e91cc5f822ccd310074ee3668443523b1912f5fa
 org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.4.Final		bc0b731e52d689a0600d4df2b4414cd0217ab891
 org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.5.Final		9b36574be2b08e8d6563e5d156931204b88b7916
 org.jboss.ironjacamar	ironjacamar-common-descriptors	1.5.6.Final		12f2b55d996827fbf3b185e13c3b880011a20270

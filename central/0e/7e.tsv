@@ -227,6 +227,7 @@ com.kroegerama	magic-bom	1.1.6		N/A
 com.kroegerama	magic-bom	1.1.7		N/A
 com.kroegerama	magic-bom	1.1.8		N/A
 com.kroegerama	magic-bom	1.1.9		N/A
+com.mantledillusion.vaadin	cotton-component-checkbox	3.0.0		0de3c116b0602141450c282ff49ceede855a61c3
 com.netflix.rx-aws-java-sdk	rx-aws-java-sdk-route53	0.1.10		b78b6d738f69c6160f934658c4b520ff32fd475c
 com.netflix.rx-aws-java-sdk	rx-aws-java-sdk-route53	0.1.11		376859ad3a183913dea290fab4591add1c2e20ae
 com.netflix.rx-aws-java-sdk	rx-aws-java-sdk-route53	0.1.12		9571d75cfd83fe76f43516263a9945c2755de821
@@ -426,6 +427,8 @@ io.camunda.connector	connector-aws-eventbridge	8.4.16		f30f05eb4d98c0eb922b021ae
 io.camunda.connector	connector-aws-eventbridge	8.4.16	with-dependencies	b7b9a89488106c3343bc9037bc57bd76fbf569a7
 io.camunda.connector	connector-aws-eventbridge	8.4.18		22ca8061880c35d781aa631f7f52be0bde8f5a52
 io.camunda.connector	connector-aws-eventbridge	8.4.18	with-dependencies	01b494635911b675b88edbd2d340507a061c789c
+io.camunda.connector	connector-aws-eventbridge	8.4.19		3a19631dcada663cddf8b883da652dceac30c188
+io.camunda.connector	connector-aws-eventbridge	8.4.19	with-dependencies	fdeb473254e29443c468daf04249b729d29c367d
 io.camunda.connector	connector-aws-eventbridge	8.4.2		70cd3c53d04459239530e37e63c211fed8ab11a1
 io.camunda.connector	connector-aws-eventbridge	8.4.2	with-dependencies	005956c0ade93c466c8ef48e3574f05be93a378a
 io.camunda.connector	connector-aws-eventbridge	8.4.3		7394a192188b24ff4380c3081562bdb23539befb
@@ -492,6 +495,8 @@ io.camunda.connector	connector-aws-eventbridge	8.6.10		0d456300e92aadabd9c011665
 io.camunda.connector	connector-aws-eventbridge	8.6.10	with-dependencies	1b343af12dfda3ebdcd1915eb53f730bd6775366
 io.camunda.connector	connector-aws-eventbridge	8.6.11		1b22267ef3f769e1d874373512207c9f64e88ff2
 io.camunda.connector	connector-aws-eventbridge	8.6.11	with-dependencies	faf96a667af03dcb182a611166cfd06fe240ba3f
+io.camunda.connector	connector-aws-eventbridge	8.6.12		5058e0b09b0274d045cba0714659c43065d2d875
+io.camunda.connector	connector-aws-eventbridge	8.6.12	with-dependencies	8a63068e2e6b1d26104fb1f3b22fd65ce01ff85c
 io.camunda.connector	connector-aws-eventbridge	8.6.2		2bc4dac0a6a2dc4289c576a260f66bc9fcb5a40c
 io.camunda.connector	connector-aws-eventbridge	8.6.2	with-dependencies	ac8ec18e980af77087c1e8c48b476efbbb9186d9
 io.camunda.connector	connector-aws-eventbridge	8.6.5		9f8e01a4ffcbaffe1a60ada74ababd14d6f008be
@@ -514,10 +519,18 @@ io.camunda.connector	connector-aws-eventbridge	8.7.0-alpha3.3		de39255bf461fa3b1
 io.camunda.connector	connector-aws-eventbridge	8.7.0-alpha3.3	with-dependencies	42b981dc2d171ad125c453a5da34e691bdcb5012
 io.camunda.connector	connector-aws-eventbridge	8.7.0-alpha4		d557469cd5352baf22b9674aa19647be7a1e9702
 io.camunda.connector	connector-aws-eventbridge	8.7.0-alpha4	with-dependencies	83bf827dde1bae88c484a5977c5bb9f1c1126070
+io.camunda.connector	connector-aws-eventbridge	8.7.1		3947e7052d3460afdaf6ada5696df808bf85d09f
+io.camunda.connector	connector-aws-eventbridge	8.7.1	with-dependencies	42b9c44dee61f578194bfdf7ad29b7c0cbb7cdf9
+io.camunda.connector	connector-aws-eventbridge	8.7.2		199942693398191692f5e0cc7529f8058cab8dc8
+io.camunda.connector	connector-aws-eventbridge	8.7.2	with-dependencies	271319dd15d79e8df669f455d236118e126553c3
 io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha3		2e05feb27941625144a1c5a7008d0b436398d230
 io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha3	with-dependencies	d3674077adfe5156bd4e0ef7514bae5c2906d3a6
 io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha3.1		ae6319b8f7cf64b47993f288ea4b8597b7bbc1a7
 io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha3.1	with-dependencies	3e983d2eeb43720373c00e80b44d86c5473d5cc3
+io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha4		f4283ffd795b82db3b33168ff6dd1e6415ca4cad
+io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha4	with-dependencies	000c89560cf45b1ea7a0ab8798c8e0b17d8f0a9c
+io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha4.1		036ff08a153c72c5647ae0a8819ea3e11d269b77
+io.camunda.connector	connector-aws-eventbridge	8.8.0-alpha4.1	with-dependencies	beaad6ae969651057334d08a53b4edec9131f98c
 io.choerodon	choerodon-starter-actuator-processor	0.12.0.RELEASE		8ba83e239daad9f9df6dc69a3e0f2fcb2f42597d
 io.choerodon	choerodon-starter-actuator-processor	0.13.0.RELEASE		e93040ae133e42a2f66901c0bd080a33f7df6fef
 io.choerodon	choerodon-starter-actuator-processor	0.14.0.RELEASE		d59ae60d9b3cffa48066c82724d753a37c3f103d
@@ -601,6 +614,7 @@ io.ktor	ktor-client-resources-linuxarm64	3.0.3		29690be6c1cc18547c2fa78a58a0ac8e
 io.ktor	ktor-client-resources-linuxarm64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-client-resources-linuxarm64	3.1.1		482ab5f3c87fe74b6fe2f74562430124b26ffa8b
 io.ktor	ktor-client-resources-linuxarm64	3.1.2		b5141a6ca75d01942d9837f14fcbe505968d503f
+io.ktor	ktor-client-resources-linuxarm64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.matthewnelson.kmp-tor	resource-lib-tor-android	408.12.0		N/A
 io.matthewnelson.kmp-tor	resource-lib-tor-android	408.13.0		N/A
 io.matthewnelson.kmp-tor	resource-lib-tor-android	408.13.1		N/A
@@ -1198,6 +1212,7 @@ org.jmonkeyengine	jme3-testdata	3.8.0-alpha3		f309b789e3f0aab8c183b4f1e53056d85f
 org.jmonkeyengine	jme3-testdata	3.8.0-alpha4		49f2d51ee6fcba090ec0aa337bd970bbb7c2b201
 org.jmonkeyengine	jme3-testdata	3.8.0-beta1		11c6a2128658ea51e5d7a7de0051f42af7b912c6
 org.jmonkeyengine	jme3-testdata	3.8.0-stable		b34bc627a999d25c0828d7633c8ea8ea8c82acab
+org.jmonkeyengine	jme3-testdata	3.8.1-stable		7b0cd1208967c1ee851ffd3eda30e4efb5b17ea9
 org.mycore	mycore-viewer	2018.05		f0895c594e1ac6b1c24f6086e616f438c37d2010
 org.mycore	mycore-viewer	2018.06.0		85912e340e66b5f89284a3402cf95d519226aadd
 org.mycore	mycore-viewer	2018.06.0.1		5eb6f09e46925e46b6426affdc87a4f39e8faba4
@@ -1218,12 +1233,14 @@ org.mycore	mycore-viewer	2020.05		3547dbb2742a3e4f446b5be7a30807fcb320faaa
 org.mycore	mycore-viewer	2020.06.0		9f50c9c3ab8345a8309046e801d29aab9c1f3fe8
 org.mycore	mycore-viewer	2020.06.1		424d1aeab80246d51e4eca1f314101575ecaa8b5
 org.mycore	mycore-viewer	2020.06.2		7cc6ff25b2dab45e39f65f0307916a1a22aab652
+org.mycore	mycore-viewer	2020.06.3		d2586fbb888f65361ea48fff2e7187a3145d6107
 org.mycore	mycore-viewer	2020.08		dc9bb9602a317fd1cbccf0aaa3cd9cb29b0d070f
 org.mycore	mycore-viewer	2020.11		bd18181f66240496c2a3a059e330123ea4518213
 org.mycore	mycore-viewer	2021.02		713fdf818a3d44ebaf0ecb318ffe895839590cc7
 org.mycore	mycore-viewer	2021.05		e8e56476b2925b0ba6c82117b25ede1537b9af01
 org.mycore	mycore-viewer	2021.06.0		ff446c65101d749fbdb96506aae49ae180b8019a
 org.mycore	mycore-viewer	2021.06.1		7457b025526db61821b8e4f86c926af95abd6e76
+org.mycore	mycore-viewer	2021.06.2		4cf61b376bcd919fd7197a14735c57ea87102d32
 org.mycore	mycore-viewer	2021.08		8cb95f7c014c20fe1ca6176f9a57b794cc53439c
 org.mycore	mycore-viewer	2021.11		2b73abbb7396b1b0ef2cf2a82644b0272e522dcd
 org.mycore	mycore-viewer	2022.02		a891c27ed2722e6e269a6ed5b4b6ae14903a6e46
@@ -1231,6 +1248,7 @@ org.mycore	mycore-viewer	2022.05		50c0141a892344555c18197bbc66004578ed4f01
 org.mycore	mycore-viewer	2022.06.0		e2c5cca36ec9de15aa348c27fac74ee25a338f09
 org.mycore	mycore-viewer	2022.06.1		dfae6069afde0e7bdc5ce8e8ec9c61e4c430cd06
 org.mycore	mycore-viewer	2022.06.2		96e8ac73d56680ff5265998a9bec650f4660ba02
+org.mycore	mycore-viewer	2022.06.3		0c243a3f8700d4f942e5a430bc641d179bd9c92a
 org.mycore	mycore-viewer	2022.08		6e0996e9e416f14695ec903692e9aad3eb7984bd
 org.mycore	mycore-viewer	2023.05		7f0722e885414db5a3a8711a70a2cb0eec2d10fe
 org.mycore	mycore-viewer	2023.06.0		eb4069b429dcb83094632985630789bf435e65f4

@@ -447,6 +447,7 @@ com.xliic	cicd-core	5.8		121aa5c5643ff2d4f69c838b78f01ec88d713806
 com.xliic	cicd-core	5.9		b6f3eb002dfd7f5babe2522c566776f081e535a9
 com.xliic	cicd-core	6.0		dafef8ff58d450a1d7a256c2a5d8342f7a870305
 com.xliic	cicd-core	7.0		3e7194f12b5a64fdaa2b885d14b9d85e51df857a
+com.xliic	cicd-core	7.1		d45275a0b4c547d5c97aee025aafa21e1f102c5d
 de.dfki.cos.basys.common	compiled-bundle-settings	0.2.0		N/A
 de.dfki.cos.basys.common	compiled-bundle-settings	0.2.1		N/A
 de.dfki.cos.basys.common	compiled-bundle-settings	0.2.3		N/A
@@ -835,6 +836,7 @@ dev.zio	zio-aws-waf_2.13	7.31.27.1		5504f2102c8c122b4f783e150855b966b4894c69
 dev.zio	zio-aws-waf_2.13	7.31.28.1		7c67d37c780908cca79e518cd3b345c45dba98cb
 dev.zio	zio-aws-waf_2.13	7.31.3.1		ac9ea456c24a63faf35bf65441610bd9b8d3bc32
 dev.zio	zio-aws-waf_2.13	7.31.30.1		3b9b92a508bca53a99c10ebf8d9a84bc2f56fdec
+dev.zio	zio-aws-waf_2.13	7.31.30.2		b45ba76c9d081edc3d8c808af7a44bb95a787ef8
 dev.zio	zio-aws-waf_2.13	7.31.4.1		205e915161e8528fe2b3182c6b4a8c143952ef02
 dev.zio	zio-aws-waf_2.13	7.31.6.1		b165dfd033afa9fc5867d03251b010e37cef0f95
 dev.zio	zio-aws-waf_2.13	7.31.6.2		a6aa35bc47cd9304690d28e8761959c44b255e80
@@ -1432,6 +1434,7 @@ org.apache.camel	camel-validator	4.8.3		2b1f8107f74fb06372bf44a9f1d145f6c71f49d9
 org.apache.camel	camel-validator	4.8.4		49d5fe052f78ba46315058e0a62b7a398c6494d5
 org.apache.camel	camel-validator	4.8.5		20d8617bff593fc0a1319fc3d58b6e4c3f3e1496
 org.apache.camel	camel-validator	4.8.6		c92501cb4abb76ce6cdc82aea2b65f11027eea59
+org.apache.camel	camel-validator	4.8.7		e522445a77e6f3fb228605ab00d385ce80f7a7f8
 org.apache.camel	camel-validator	4.9.0		79a6e5505669906fd609140916d14a0defae2f94
 org.apache.camel.springboot	camel-metrics-starter	3.0.0		1def8bb6ef257d42f3896e327ce0155e178c3cc2
 org.apache.camel.springboot	camel-metrics-starter	3.0.1		d541ed6ad7c39c26f35335fe34877af4b347e8e7
@@ -1550,6 +1553,7 @@ org.apache.camel.springboot	camel-metrics-starter	4.8.3		04f22b1ee2be7604d793a19
 org.apache.camel.springboot	camel-metrics-starter	4.8.4		a01f6b405ce450cbace47946302ace18dde7f653
 org.apache.camel.springboot	camel-metrics-starter	4.8.5		428b1aa1d1d651df64146cb57d5e77b22ec880bc
 org.apache.camel.springboot	camel-metrics-starter	4.8.6		8e6985460a1efcfd831ec0958143c9234ac4dfc6
+org.apache.camel.springboot	camel-metrics-starter	4.8.7		461f12df617a192fc531b49c3bf1d39c6b2f3833
 org.apache.camel.springboot	camel-metrics-starter	4.9.0		096368315d52affeaa8afd6bb41fcec356618694
 org.apache.paimon	paimon-s3	0.4.0-incubating		0ff2878e06f44b95c685236e5b03836b04b2e16a
 org.apache.paimon	paimon-s3	0.5.0-incubating		7127c7aa1e25113ebe83482bdbb74bf0fdc1d5b5
@@ -1563,6 +1567,7 @@ org.apache.paimon	paimon-s3	0.9.0		0fd47a83bc1a29b0f58525d1347fe7b9999e1c74
 org.apache.paimon	paimon-s3	1.0.0		9777505d183d611a7e3f4b8150db5e09721a4cea
 org.apache.paimon	paimon-s3	1.0.1		5b56a9d1791280378e719a4255d58546f6f8aaa5
 org.apache.paimon	paimon-s3	1.1.0		84b277968353bc5ee4458b374e3cfcb419c389b6
+org.apache.paimon	paimon-s3	1.1.1		21e2c095f5a5d31fd1f65f75712e5dd6f12c980f
 org.commonjava.aprox	aprox-test-db	0.10.0		8639fcbcf525a522c5b826a89706fc37b3437f6c
 org.commonjava.aprox	aprox-test-db	0.11.0		5f6b845ad077d1d68bd74fe6fd34c491a4d0442d
 org.commonjava.aprox	aprox-test-db	0.11.1		8d9299463569d4a727699c96657cfde7c16566a0
@@ -1623,6 +1628,7 @@ org.commonjava.aprox	aprox-test-db	0.8.2		0a47dc9ff0a76f1218e130e1923274402f79cb
 org.commonjava.aprox	aprox-test-db	0.9.0		d6e745d357b1123a24b7defbaa3bdc27cbc7f063
 org.commonjava.aprox	aprox-test-db	0.9.1		9da58b80873fbc1eef3baf6c966a65b20210fe34
 org.danbrough.kotlinxtras.binaries	sqliteLinuxArm32Hfp	3.40.0		N/A
+org.dynamoframework	dynamo-export	4.0.0		2fb98bd71a98d6b75ac7c784aca356149acfe9b4
 org.dynamoframework	dynamo-export	4.0.0-RC1		6c8474f71253eaba2c606c19af7930b8d4d2cfd3
 org.dynamoframework	dynamo-export	4.0.0-RC2		2ca7043a8b022069ba41d7647b74e017c5c4254f
 org.dynamoframework	dynamo-export	4.0.0-RC4		37864c98a8d4f1f85ca27b33cf6670a8b8b1f30c
@@ -1772,11 +1778,17 @@ org.eclipse.store	integrations-spring-boot3	2.1.1		c3b39fe8da1c4da89e73ca5469339
 org.eclipse.store	integrations-spring-boot3	2.1.2		955c0621d3e7a98263263815fb50e59818b2454f
 org.eclipse.store	integrations-spring-boot3	2.1.3		6f09589df731ed40b8b1d5964a446ab851d3f82f
 org.exist-db.thirdparty.xerces	xercesImpl	2.12.0		f02c844149fd306601f20e0b34853a670bef7fa2
+org.exist-db.thirdparty.xerces	xercesImpl	2.12.0	xml-schema-1.1	418d3fbe2f040156a5a5251accd5b22e58d88ae1
 org.exist-db.thirdparty.xerces	xercesImpl	2.12.1		3a206b25679f598a03374afd4e0410d8849b088b
+org.exist-db.thirdparty.xerces	xercesImpl	2.12.1	xml-schema-1.1	d7a7117822d152cc713e463772ecfeafd27f13c0
 org.exist-db.thirdparty.xerces	xercesImpl	2.12.2		ec00e970b643ecae6f6e0e5f99039b19b4089564
 org.exist-db.thirdparty.xerces	xercesImpl	2.12.2	jdk14	1bdd2a205649815b968ed0cbc1a77b59b78d8913
 org.exist-db.thirdparty.xerces	xercesImpl	2.12.2	jdk14-debug	ee40b7e3de283c59302ab89b0b0dcc270418262c
 org.exist-db.thirdparty.xerces	xercesImpl	2.12.2	jdk14-sources	b938e821ddc84d2c1351bf5e7e7f6f4ad1ff0ea4
+org.exist-db.thirdparty.xerces	xercesImpl	2.12.2	jdk14-xml-schema-1.1	aee369791dfa4eba72133bda6490cac57e6f4301
+org.exist-db.thirdparty.xerces	xercesImpl	2.12.2	jdk14-xml-schema-1.1-debug	c8215836c0a6f8dd18299ab4e2ff0bcdd5e55a85
+org.exist-db.thirdparty.xerces	xercesImpl	2.12.2	xml-schema-1.1	a5ea630f4487f924ed81d4880f5b9b86b9a7add6
+org.exist-db.thirdparty.xerces	xercesImpl	2.12.2	xml-schema-1.1-debug	123f6b8ca8e93b101e0807edaf2f370fe6aaf1f6
 org.hudsonci.plugins	ansicolor	0.1.2-h-1		b7f8e65e784a4d59a3251ba1a6f87f420a07190c
 org.mvnpm	micromark-util-encode	2.0.0		89124a1aa848cbc5c05410ba2d7c955195c03f40
 org.mvnpm	micromark-util-encode	2.0.1		1639c6f7fe49d716a9c057e9707ab7179ef809ef
@@ -1837,3 +1849,7 @@ qa.hedgehog	hedgehog-sbt_sjs1_2.11	0.6.7		22e5fec574ef25f3f7d003924f9cd33ac6a44d
 qa.hedgehog	hedgehog-sbt_sjs1_2.11	0.7.0		4f27aa713167a6cf8395f4806276abd5dc3fc292
 qa.hedgehog	hedgehog-sbt_sjs1_2.11	0.8.0		985d122ca7de260a1df4c8812002f490940bad37
 qa.hedgehog	hedgehog-sbt_sjs1_2.11	0.9.0		30dd84fe33d4550d8c616bfdacb8d09d0735ff38
+tz.co.asoft	kiota-file-picker-core-watchosx64	3.1.11	metadata	c1274daf432fffa42f42a84cb290835967b7b488
+tz.co.asoft	kiota-file-picker-core-watchosx64	3.1.12	metadata	0e505aa849b5f3e141839344f8d4e1d6bd24ad85
+tz.co.asoft	kiota-file-picker-test-watchosarm32	3.1.11	metadata	b086f8376b575678ce16921890e1941509b5a438
+tz.co.asoft	kiota-file-picker-test-watchosarm32	3.1.12	metadata	db096076b86f333287bc0a0dafa398e52dde1a68

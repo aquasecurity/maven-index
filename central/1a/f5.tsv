@@ -106,7 +106,16 @@ aws.sdk.kotlin	notifications-jvm	1.4.73		ea74bf8167ab83fd45126e9ee627402ef2e573b
 aws.sdk.kotlin	notifications-jvm	1.4.74		a8cab0b418bd3d4022ce7bdabe6a4d4b132b0266
 aws.sdk.kotlin	notifications-jvm	1.4.75		4e374b9dc4ec31b37ff4d18131bac0d3c474d6ef
 aws.sdk.kotlin	notifications-jvm	1.4.76		27581683d3b338cca8355dfb4fcd6f0307af2fc7
+aws.sdk.kotlin	notifications-jvm	1.4.77		a2657253d742c159034740c3be1ebbb1c54076ce
+aws.sdk.kotlin	notifications-jvm	1.4.78		1bcbcef8bc7020eef170987e5dfaa0e91563aa39
+aws.sdk.kotlin	notifications-jvm	1.4.79		d88a301f8f2b071ab5bb9cbdc90d8b578f0c85f7
 aws.sdk.kotlin	notifications-jvm	1.4.8		a108f51eb526b75688e9a45c9e36a35981b4d748
+aws.sdk.kotlin	notifications-jvm	1.4.80		3245d1bb79754789609b569aee0edcb24a87b26b
+aws.sdk.kotlin	notifications-jvm	1.4.81		aca057288c71e4dcba119c700fe5a411d841d56e
+aws.sdk.kotlin	notifications-jvm	1.4.82		70257fe7129aac32d3dfdb25ade1301f7ecaa986
+aws.sdk.kotlin	notifications-jvm	1.4.83		6b78a2065f817f78276dc923f88f4ec997d63420
+aws.sdk.kotlin	notifications-jvm	1.4.84		8995cb47d27479e65ef930422d8d317424571d02
+aws.sdk.kotlin	notifications-jvm	1.4.85		3c5c7617c833e689470a9cac96154b59a8a7d5a5
 aws.sdk.kotlin	notifications-jvm	1.4.9		1d30be54cd60c9207f6fb460433e8c38f3bad06f
 be.yildiz-games	feature-city-shared	1.0.0		aa5a23d4deda8257a1525b3ce64b3e3cd5d4938a
 be.yildiz-games	feature-city-shared	1.0.1		ca791743ac4f0a5860272e2e1c91c6fbdeedcdf0
@@ -1606,6 +1615,8 @@ io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.21		2
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.22		97599694c582b00d9293789ec1d8b0c875487181
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.23		db7200cc5f878dbd0e0943fc702906f081c73a39
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.24		45a8abdd05729e9381e662971e2af5d43f91a168
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.25		9afa723cea0393a8c2b27853ea4ca284ba1a0df4
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.26		11642cc9e477494ce79e104806ea672820c54027
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.3		39266f39a542848672812a55162cf974179f00c5
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.4		4320ef98decfaf73f7fdb8fa9978cf01e4a22c0d
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.4.5		533f2e06b408fb8cef625f52f7751acd7b0acc57
@@ -1624,6 +1635,8 @@ io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.11		b
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.12		39e3d9782240d476307d9691cc720d99528dda3a
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.13		063229e5ec42e6335d902e39e76a715d0fac792d
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.14		4f7b7a2fafc3dd1917eed51b195b0b7c6e7f880f
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.15		2042d533cdc795bbef2f9f3a060858f8494030c0
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.16		584c27798bce7386ade64379f28145abf4316d5d
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.2		8064afa40e73beaf888142f0febd94f691303ab9
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.3		b277e26886b0629e306b1d16e6f659af1ab81c74
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.5.4		1e87df1a38dfef0495b9f8ab2ab29f6618f357e9
@@ -1637,6 +1650,7 @@ io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.0-alp
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.0-alpha.2		49ea9ec3167e28fdce5f0d24294e5e431517d9d7
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.0-alpha.3		2a3cd7b53b1c3bcf9355c876c672b50a93208d67
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.1		512e1f0a8dbf9a609b1b84b021086edec27a0ef2
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.10		2169bd6d1198f3a74fa678660e80535dff49c0ef
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.2		a38d4ab0b3f998cfd78134e64582a88a14be2c5d
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.3		2359147e63be4dff51c10780a22f4abebb62152e
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.4		9a18d78f0745f2464c7c8114674edc33451d2b21
@@ -1644,6 +1658,7 @@ io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.5		7e
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.6		c5fb4307657f13de4f824acabdb1c23478c307d5
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.7		925facc4d9c6915c57bfc35da556add3f944a2cc
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.8		98142ccd15446ea111e81917c16e58cf6eaaa185
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.6.9		22175405de03dfa59e8517462a57443833ecc188
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.0		b6472f2888d792e782590a93daf8c6055f725177
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.0-alpha.1		7c6eaa6c452cf95d0b89fa9851ccaae793f96be0
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.0-alpha.2		ead27153562d407bda0a568abd9470c911ee73a9
@@ -1651,6 +1666,8 @@ io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.0-alp
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.0-alpha.4		772ecd75e1744bb594c3bd1e0fe6be80ea345c48
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.1		e33e166ecc0dfc6db039bcd08bdaa34b05287a39
 io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.2		d8676db9fd6105101811d6e9c2f246fda22d9a5f
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.3		fa96778866dabfe2e3d3efda73e0324cb8e8448a
+io.gravitee.am.authdevice.notifier	gravitee-am-authdevice-notifier-api	4.7.4		079d48002cc7dc4df947b9c72b44932f198bf291
 io.hotmoka.marshalling	io-hotmoka-marshalling	1.4.1		85d84a319995516960c79f6674fee104e1e07601
 io.hotmoka.marshalling	io-hotmoka-marshalling	1.4.2		e0dcc54d4e3d431ec1345d1567bddd6f543d9aad
 io.hotmoka.marshalling	io-hotmoka-marshalling	1.4.3		3c7e373aa649c0114806c7bcf352ea01c85418ce
@@ -1726,6 +1743,7 @@ io.toolisticon.cute	integration-test-java9-regularModule	1.5.0		855549288860f09e
 io.toolisticon.cute	integration-test-java9-regularModule	1.5.1		582ab3eeba9acb94c3cb2ac17cb2b4eddef68bb1
 io.toolisticon.cute	integration-test-java9-regularModule	1.6.0		98cae3331b9098bb3a477abaf895a1d28e4fb96a
 io.toolisticon.cute	integration-test-java9-regularModule	1.7.0		396206d2ad2cd7737cbc83a8a06e05311760cd93
+io.toolisticon.cute	integration-test-java9-regularModule	1.8.0		60c1b35eb8b34974fc6310368ec5b2555315605c
 it.cnr.si.alfresco	iso-content	2.22		N/A
 it.cnr.si.alfresco	iso-content	2.23		N/A
 it.cnr.si.alfresco	iso-content	2.25		N/A
@@ -2129,6 +2147,7 @@ org.finos.legend.depot	legend-depot-metrics-query-services	2.6.1		d60467060da3b5
 org.finos.legend.depot	legend-depot-metrics-query-services	2.6.2		0012a7957cee4c3460d2ff5b94e811cef78d9ef1
 org.finos.legend.depot	legend-depot-metrics-query-services	2.60.0		7d8239f76810fc792b7d577c47ff95b9aec85ef1
 org.finos.legend.depot	legend-depot-metrics-query-services	2.61.0		3800d9b9c2cecdc0033c52317008148ea440e36e
+org.finos.legend.depot	legend-depot-metrics-query-services	2.62.0		137fc1e4b2b83e6dc82b29f5d624e0b4a1a5f8df
 org.finos.legend.depot	legend-depot-metrics-query-services	2.7.0		407aa716666123c1911c3adc0528d4b909a2b72e
 org.finos.legend.depot	legend-depot-metrics-query-services	2.8.0		4a674639325fd5345290276f76dcfa86ee67b440
 org.finos.legend.depot	legend-depot-metrics-query-services	2.9.0		63b37c52443db52aa21e043a20b630a7af9f8777
@@ -2298,6 +2317,7 @@ org.scalamock	scalamockjs_sjs0.6_2.10	3.6.0		N/A
 org.scalatra	scalatra-fileupload_2.9.1.RC4	2.0.0.RC1		87009a5c037b091f90d6440301554916ba39c7e1
 org.springframework.ai	spring-ai-rag	1.0.0-M7		37fceebc06538d2f08cb8861606870d6232cc901
 org.springframework.ai	spring-ai-rag	1.0.0-M8		5aaf2bea6af652b9ea060ff92323051c780688a1
+org.springframework.ai	spring-ai-rag	1.0.0-RC1		82537acf73b0eaad0f40d964ba2d5319713a0374
 org.tinygroup	org.tinygroup.ui.widget	2.1.0		51ee782cbb4a0a9ae2f39feb0ec0bf1f950be37b
 org.tinygroup	org.tinygroup.ui.widget	2.1.1		80dee131214e30de39842988d8ede0e49f86f171
 org.tinygroup	org.tinygroup.ui.widget	2.2.0		27e705bbf903d3e054fc09616b399907e3222bb3
@@ -2711,5 +2731,6 @@ software.amazon.awsconstructs	apigatewayiot	2.83.0		79156f425f984374abfb8004f2a9
 software.amazon.awsconstructs	apigatewayiot	2.84.0		d4e54019a9b3d768cb09c57bdc6dee0f7dba7d64
 software.amazon.awsconstructs	apigatewayiot	2.85.0		3886cbf5d431661adf14b5e53cedc9797aec6116
 software.amazon.awsconstructs	apigatewayiot	2.85.1		18b024f27703008d18f9a0f716c00f1afc96c512
+software.amazon.awsconstructs	apigatewayiot	2.85.2		236fa6d46476f73e70265476f0ade670ca91ee1d
 software.amazon.awsconstructs	apigatewayiot	2.9.0		ac661f2f7b695642951688daba8be79346291e5e
 top.yoohome	UTools-parent	1.0.0		N/A

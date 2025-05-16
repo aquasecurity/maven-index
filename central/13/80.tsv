@@ -527,7 +527,16 @@ aws.sdk.kotlin	sso	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sso	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sso	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sso	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sso	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sso	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sso	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 be.vito.rma.configtools	configtools-spring	2.2.1		6f404857715a218d5c868d6e048216004be73817
 be.vito.rma.configtools	configtools-spring	3.0.0		69886acdcb94c8e19501eaf135ded755090e63ac
@@ -643,6 +652,7 @@ com.gengoai	mango-swing-ui	1.0		a01db9514029ffc0d589bfe6a12ac36d2253f5eb
 com.gitee.wxtoos	weixin-java-open	3.5.0		033090be016e126121a0ddcd61c38b1944025b54
 com.github.fanzezhen	fun-framework-core-model	3.4.3.3		aba0705d22dad77e300fb7b9a9f2b86bd141e8b5
 com.github.fanzezhen	fun-framework-core-model	3.4.3.4		2b724931ce4c874d63623b280ed08234abbc730e
+com.github.fanzezhen	fun-framework-core-model	3.4.3.5		9134e62feca249c9ba3ec884ff110e66bbccedbe
 com.github.hengboy	spring-boot-micro-job	0.0.1.RELEASE		N/A
 com.github.hengboy	spring-boot-micro-job	0.0.2.RELEASE		N/A
 com.github.hengboy	spring-boot-micro-job	0.0.3.RELEASE		N/A
@@ -1162,6 +1172,7 @@ dev.zio	zio-aws-cloudhsm_3	7.31.27.1		8076620501bd6ccadea230b8df7613a24fa8d50b
 dev.zio	zio-aws-cloudhsm_3	7.31.28.1		83900a020c57f6e3f8cdfc5218d1232f53e59408
 dev.zio	zio-aws-cloudhsm_3	7.31.3.1		24e766ac7bc67ee74ea49b811c892b8bf1f939e3
 dev.zio	zio-aws-cloudhsm_3	7.31.30.1		c08ca9f4534cbadb48946b509a350de48f084d7a
+dev.zio	zio-aws-cloudhsm_3	7.31.30.2		7cf515ad90060d0da3b3ef93c1656cc9e1bd10d5
 dev.zio	zio-aws-cloudhsm_3	7.31.4.1		285cd00f90f16c230906435ab670383da54084fd
 dev.zio	zio-aws-cloudhsm_3	7.31.6.1		f7075b1f7c296d8e13ed652f79099f0d52eb6805
 dev.zio	zio-aws-cloudhsm_3	7.31.6.2		3c27dce570b2dd438f02ca2110b0bffaad535480
@@ -1441,7 +1452,11 @@ io.kestra.plugin	plugin-jdbc-trino	0.21.3		5f75595f3650bbbe9c83bdd1c96ce6e4320f3
 io.kestra.plugin	plugin-jdbc-trino	0.21.4		133661b416180271e764e04f23dfe4b7a79e8c5a
 io.kestra.plugin	plugin-jdbc-trino	0.21.5		da7024e59f5211ba5559f1cd87bb57e0794fe7fa
 io.kestra.plugin	plugin-jdbc-trino	0.21.6		eabd064af965300ae1c30eba0ab1e4a97cb0ca1b
+io.kestra.plugin	plugin-jdbc-trino	0.21.7		0b43cd17faab14d534e87c24e73a176ab88cfe33
 io.kestra.plugin	plugin-jdbc-trino	0.22.0		eb6e9e0d7bcd935aed599a823e11655cc70bc436
+io.kestra.plugin	plugin-jdbc-trino	0.22.1		b442c26ff1dd7749646b83ca127955d8ad03ce66
+io.kestra.plugin	plugin-jdbc-trino	0.22.2		729772ec40d89c4d2909176ebde253cdf09bb59a
+io.kestra.plugin	plugin-jdbc-trino	0.22.3		adfd913de29f02980769d463be6f9798f882c84f
 io.kestra.plugin	plugin-jdbc-trino	0.5.0		d8ca41e701fb98426374c65e0baf6b559cf5a972
 io.kestra.plugin	plugin-jdbc-trino	0.5.1		896942539d0221ace6040496b33b36d56ccb57b8
 io.kestra.plugin	plugin-jdbc-trino	0.5.2		ee5d06992985917811ce29e5aa77f0f74d62a22c
@@ -1678,6 +1693,7 @@ org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.2.1		825bd971c8e8860b
 org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.2.2		16d75d2b3c906cf82de2d70d30edf60acfa671b2
 org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.2.3		c311fcb17ff8d8983de8793ad5bf08c8b9abdd0e
 org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.20.0		2ee3c7a12ed3520deaca188631bb78832f58603e
+org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.20.1		edd73af7dde1a6b8efb74fdfb1174943b7cb3de0
 org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.22.0		86faec4411426ef8fe1a145b2a9fefe3ba3876ae
 org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.4.0		79aa8eecb8ad326e27131cbeaa9247cde3bfed3a
 org.apache.camel.quarkus	camel-quarkus-univocity-parsers	3.5.0		c55f4b3c47540fb144e530c561de4004ed1c01b2

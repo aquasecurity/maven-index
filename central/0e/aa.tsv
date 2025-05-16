@@ -161,6 +161,7 @@ com.adobe.aem	aem-prerelease-sdk-api	2025.3.20133.20250325T063357Z-250300		2bed6
 com.adobe.aem	aem-prerelease-sdk-api	2025.4.20476.20250414T214138Z-250300		4b326f2e58603c711d83f0921e8967c08f2ab977
 com.adobe.aem	aem-prerelease-sdk-api	2025.4.20476.20250414T214138Z-250400		0eb27c903836b03c7b0665d334a44a830ab257e0
 com.adobe.aem	aem-prerelease-sdk-api	2025.4.20626.20250425T133017Z-250400		7ee66b0b102660fc473b18ff3dea637f33d5add2
+com.adobe.aem	aem-prerelease-sdk-api	2025.5.20783.20250508T152852Z-250400		a077d444ce06c944c6a8acf34a127f813df6d6c1
 com.aeontronix.elogging	elogging-log4j2-json-layout	1.0.2		8f5116038e8b1af9a764ef65095e95305bd66a5b
 com.agifac.lib	dbmdl-framework	12.1.0		N/A
 com.agifac.lib	dbmdl-framework	12.1.0	nonregressiontest	a97787be52c25feeaefa17bcec4d087bde3b1618
@@ -490,6 +491,8 @@ com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.1232		1dbf0aa9f0535b4eb39
 com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.1238		c9fa854f86caff308a023cc402813f1ad7ef4659
 com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.1239		cf90be041ce31eba4450ead85cd2bf979a4c84b1
 com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.1240		23495c6f7e13d46b15610f3d3454b08f761028e6
+com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.1259		6426c7d0045406efea563cb16513a5cc7325ba48
+com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.1262		ff9680da66660d83bf38e2199558bf66f93d286c
 com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.358		fbdc416015d611636f19b9bcef6efd4c777609c8
 com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.358	jar-with-dependencies	9c382304346c125e64e3fb3868bff3e93d0f06e7
 com.tencentcloudapi	tencentcloud-sdk-java-essbasic	3.1.360		5626da201af61d569d98411194a686a953719044
@@ -1294,6 +1297,7 @@ de.adorsys.cryptoutils	storeconnection-impls	0.23.7		N/A
 de.adorsys.cryptoutils	storeconnection-impls	0.23.8		N/A
 de.adorsys.cryptoutils	storeconnection-impls	0.23.9		N/A
 de.oscillation.gwt	goda-time	0.0.1		8a9ad605cfe70b54e625c6af88fed719aad0d7dc
+dev.cheleb	laminar-form-derivation-ui5-nguyenyou_sjs1_3	1.1.0		7019fb4b40d5ed11c674ce306d666ff414835a1f
 dev.jordond.connectivity	connectivity-compose-wasm-js	1.1.0		N/A
 dev.jordond.connectivity	connectivity-compose-wasm-js	1.1.1		N/A
 dev.jordond.connectivity	connectivity-compose-wasm-js	1.1.2		N/A
@@ -1324,6 +1328,7 @@ eu.codlab	kotlin-weather-common-macosx64	0.1.0		N/A
 eu.codlab	kotlin-weather-common-macosx64	0.1.0	metadata	14be5fe83610aa801ede5c47abbe701e417baea6
 eu.codlab	kotlin-weather-common-macosx64	0.1.1		N/A
 eu.codlab	kotlin-weather-common-macosx64	0.1.1	metadata	62a301b1222a95f820aac7fb8215c0b724476539
+eu.codlab	kotlin-weather-common-macosx64	0.1.3	metadata	79f20a7d2a32531be4b87dec094175ed0de7a988
 eu.kratochvil	utils-test	1.1		c2a5ce4ad6d0934f3f37ef49902cbb345cec8b3a
 eu.kratochvil	utils-test	1.3		e4324928355bb48c1131e2cbd38542d5a7af55f2
 eu.kratochvil	utils-test	1.4		962f7a9b487d22ead2116cb5fea7b8fc2cef2002
@@ -1801,6 +1806,7 @@ org.apache.camel.quarkus	camel-quarkus-scheduler	3.2.1		3884ae236c2021bf3fa4a957
 org.apache.camel.quarkus	camel-quarkus-scheduler	3.2.2		a01cdd7c2a4b5b5dc6b42477abf6038eeb42797e
 org.apache.camel.quarkus	camel-quarkus-scheduler	3.2.3		dc193c5b1eeaab6a0f2bbf637960bea341f08814
 org.apache.camel.quarkus	camel-quarkus-scheduler	3.20.0		b3cdc3190693e83863ed750840c0ab6ee58f6233
+org.apache.camel.quarkus	camel-quarkus-scheduler	3.20.1		c49e2e22cbbb4ca6a2741600f8ef69efcec406a5
 org.apache.camel.quarkus	camel-quarkus-scheduler	3.22.0		2c6ba9e97c57ce53e8567cbc15ac37f03ecc8033
 org.apache.camel.quarkus	camel-quarkus-scheduler	3.4.0		9a1a0cdd01d15b7e9610ff1af10407df345dfb01
 org.apache.camel.quarkus	camel-quarkus-scheduler	3.5.0		0ec60fd511f597a7c50f76c69aa7c59e566ab123
@@ -1998,10 +2004,17 @@ org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.
 org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.80.0		63dd065fe41842ec9deec7b46d5d662ead6d3cb8
 org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.81.0		7a816c826339475a16d3f54b0913300d8abf0619
 org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.82.0		78e0aba183b5acf4c5a7409ead1da2c275a3acae
+org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.82.1		b2a8cf38bd21246f0da8a6ba318b743e9fce0146
 org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.83.0		8c3e9032dae9dc9e82ca8a26383f0e947a2924e6
 org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.83.1		6e7f98b6692dad82e051785051ff702d27082ab6
 org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.83.2		c9a6c9cb3fe95c2dd8b25ffb47531629b802bbae
 org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.83.3		79b7c4ecf6770b7c50e5dad1820b6ee7ceb100db
+org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.84.0		4f9e13f5350dd32c131609b2d14be68a25318222
+org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.84.1		06537be755fdcc801d4e5a41a859d9fe27c5bd9a
+org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.85.0		afcfb7d0d399c32bbe973476db68cdec02795a0a
+org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.85.1		1f9639fccc812b8f146e08ce4da114a871a9bad7
+org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.85.2		8ffa468646e8c3512f3681d405e097d4b65203d7
+org.finos.legend.engine	legend-engine-pure-functions-relationalStore-PCT-pure	4.85.3		83471268bd1044ddd6b904b2fcf1bf10a62385c4
 org.fuin.dsl.ddd	ddd-dsl	0.3.0		N/A
 org.grails	grails7-wrapper	5.0.0		1eb2c1bd115d2e1102d78f3ecb65c2ed5c538c31
 org.grails	grails7-wrapper	5.0.1		69120bf2223ae22705a56ab07cdad0441c8f4539

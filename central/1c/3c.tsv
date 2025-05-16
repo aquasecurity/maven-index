@@ -440,6 +440,7 @@ dev.langchain4j	langchain4j-community-dashscope-spring-boot-starter	1.0.0-beta1	
 dev.langchain4j	langchain4j-community-dashscope-spring-boot-starter	1.0.0-beta2		70db14aa77f8c57748e962f1d5ee476b9756c8a1
 dev.langchain4j	langchain4j-community-dashscope-spring-boot-starter	1.0.0-beta3		dbdb3c1505696398cc0557f0ad3db38e9e5178eb
 dev.langchain4j	langchain4j-community-dashscope-spring-boot-starter	1.0.0-beta4		6eab68cedee920c504a9a9a1319585192e48dc35
+dev.langchain4j	langchain4j-community-dashscope-spring-boot-starter	1.0.0-beta5		456b48816d2e66d8740f017cf8a0eff803d6aaea
 in.hocg.boot	cps-spring-boot-starter	1.0.48		6febbec0814d61d54f92d36a9e24c0525d40d78d
 in.hocg.boot	cps-spring-boot-starter	1.0.49		ce8206e2ab6ae19f55084558ff9b3e579a87f7aa
 in.hocg.boot	cps-spring-boot-starter	1.0.50		caf1b929400aa179e03b29b45fe0974c7b205854
@@ -973,6 +974,8 @@ org.anyline	anyline-data-jdbc-hotdb	8.7.2-20250312		0a1d9cf3e06d5da620831ceaad9d
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-20250401		3e1e1a57f626f49a5ae505235887f10eae84d7d9
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-20250404		8bb99280a7ed6ca4e86d7dc82cccafa44a0daa42
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-20250502		981ef07ec32c0b1689b93a4026f5e8f510a09f26
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-20250509		8078d7cbb6338e9aabb2b21b5f0f6198d6916784
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-20250515		01bde6f7457d74d459ea23799f854cb62f1a6abb
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20240816		708bcb626bf28bce803c2366685064aff5fc7b8d
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20240826		4cbab66b8ba982ae2d57452776d33d340e25fafa
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20240827		57dcb0d919307b55e06cf0d0968e52d2777084a0
@@ -985,6 +988,8 @@ org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20250102		e955da11ecaf72d0cef03f
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20250108		217d462e4dac4bbdc2f8355e7c6865f7c4cbab12
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20250312		c6905d86dc5911bf7dc5d4fa5dac20565d1355c6
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20250404		60a0336ec30d3b11b5523087aeb27555f942b88f
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20250502		7b0965a2416a03cf2ac88644bbd480a4ae05b908
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk11-20250509		5a10b5c2cab5233424346d7e1390b7e5a477a7dc
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20240501		7d1dfed115a0d5ca9690faad0984c0a5ab6db311
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20240505		e53d280e6288076d0ac173538ccb0bd46afa44bf
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20240506		5fa94c13ead66d0c67459975b0fcf3a07ae4e264
@@ -1057,6 +1062,9 @@ org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20250109		cc8bee5bffa9656426076d
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20250212		90a9a589ad3b60951f3faa58394981b92fb87d00
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20250312		7853a65fdceeb517db30a2195bc720fffbc37003
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20250404		d041cc4af4dd874e92e1365fa20727ef55b2f417
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20250502		d2af4b0824af46ce38c790bb8161dc236dbc4925
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20250509		689880899cdc6fd3d7c0cfa41355fe867b7e8ba8
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk17-20250515		de9aa749946f884c66e5ffc52f7aa47621bc9bc9
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20240501		e56dffe7b5ddefee4d3a7f5eb46ef166abaa279b
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20240505		3719f788806af9d5098fc053307ab8f53acb561e
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20240506		bf294b159e68b80c148de67665c32eba757743db
@@ -1137,6 +1145,9 @@ org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20250109		530f4b571d231cb5ffd4ad
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20250212		5f4cc025ca2a44a07b872efbcc8f35edf849f737
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20250312		a3fd4618e53ad4b80a4f8db5c078e864900b8d96
 org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20250404		f22ec732efc0c4313cf095ac9f69fc92ac28c0b3
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20250502		c14ca3e459b65e7a046e9e69f1b0418cf8e7962c
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20250509		6d251df67cdc2bf12018a02745700c34abe88fa0
+org.anyline	anyline-data-jdbc-hotdb	8.7.2-jdk21-20250515		f7c2bc627db52c108934728a4a12b80cf0b5e60e
 org.apache.archiva.redback.components.cache	spring-cache-api	2.0		e47ec70d2d855207631c3bbe236152db8db735ec
 org.apache.archiva.redback.components.cache	spring-cache-api	2.1		76c300bd5214d042a8dffef82fcf70df29e0a85f
 org.apache.archiva.redback.components.cache	spring-cache-api	2.2		0ae86838c1adc5463411b27759991cb40adfe372
@@ -2009,3 +2020,7 @@ tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.0.14		N/A
 tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.0.14	metadata	db333762f5b26ab8546689644f38e69a53f89331
 tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.0.15		N/A
 tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.0.15	metadata	f06d0de49881a4930d9761b60ead17070adf13a1
+tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.1.0	metadata	6ae34f099c58d7f6c046c27f969dc525c1f194dd
+tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.1.1	metadata	c56772b1a840581d4faa3ec672168cae3cfb60e4
+tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.1.11	metadata	c149cdad165015a22a4afba58949688293668cf6
+tz.co.asoft	lexi-configuration-tvossimulatorarm64	3.1.12	metadata	0480ae128b9c094de5d9c59c588e3b6b1e8ac793

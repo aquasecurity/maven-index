@@ -628,6 +628,7 @@ dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.27.1		3372abb4cab60382dab617b7
 dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.28.1		d73fee2f8d13b4828ee60f21e8373b7880f842a5
 dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.3.1		bb518971c9f5230b5f1628f23109dce60211feb4
 dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.30.1		893e0be194966a92e0f4db515ee5627e681f82a6
+dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.30.2		abf4820d8ac28e3e7dab4200b7e8e2c930103a70
 dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.4.1		8aee1c8b2a1a072b187ec4fb2c368e5fcb4ef645
 dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.6.1		6a00385d8adbdee65d015654dda7bd14b19db91b
 dev.zio	zio-aws-migrationhubrefactorspaces_3	7.31.6.2		421d4215e4e5d5b403cb52e303808df49c76f3c1
@@ -878,6 +879,8 @@ io.ktor	ktor-serialization-kotlinx-cbor-watchossimulatorarm64	3.1.1		e25e8125fce
 io.ktor	ktor-serialization-kotlinx-cbor-watchossimulatorarm64	3.1.1	metadata	66b0d87c8ee6f673f6b1323871919902b5430421
 io.ktor	ktor-serialization-kotlinx-cbor-watchossimulatorarm64	3.1.2		6b73f35e9f032b8484d64ee18176009dcdf4ca8d
 io.ktor	ktor-serialization-kotlinx-cbor-watchossimulatorarm64	3.1.2	metadata	f10d8eec6cb5518406f34ce69a1a1082d4c81d55
+io.ktor	ktor-serialization-kotlinx-cbor-watchossimulatorarm64	3.1.3		1452db3e960848a6b85451f3f71ad7dd2aee123b
+io.ktor	ktor-serialization-kotlinx-cbor-watchossimulatorarm64	3.1.3	metadata	3005325dfde022e9400ec6d1cacb36eb004ac9c7
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-redis	3.2.0		f9344bec7b809b1103c5304304b7453f11f4f674
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-redis	3.3.0		dd26942f5afebc203109f5320951912f8c4365f2
 io.micronaut.oraclecloud	micronaut-oraclecloud-bmc-redis	3.4.0		62afff46652201bb3683beed5ef7591a692d8df3
@@ -970,6 +973,7 @@ io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.13.2-alpha		5
 io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.13.3-alpha		cc3deb01f01c5937f6c283324fca67a335804713
 io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.14.0-alpha		c342dc7c756c13e1ea20844ea73999d772013f6d
 io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.15.0-alpha		6a1390bf1e34123768593a72b7d18df7d13467c7
+io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.16.0-alpha		e0ae9440632cbba44da814d8a06e46063a51e1d8
 io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.2.0-alpha		dddce9654e87b4b3eb06c50db5c95a526ad88e3d
 io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.3.0-alpha		2628c663746eb8fd9f52526b6a83dedb0dcb1a90
 io.opentelemetry.javaagent	opentelemetry-javaagent-tooling-java9	2.4.0-alpha		13f2d075840e372734b77308cba6017ae77bf8ee
@@ -1278,6 +1282,7 @@ org.apereo.cas	cas-server-support-thymeleaf	7.2.0-RC6		a9552e8d02af2d15accbee2a8
 org.apereo.cas	cas-server-support-thymeleaf	7.2.0-RC6	resources	7fc90262ccd81ec786671ec5d9657362d5655df6
 org.apereo.cas	cas-server-support-thymeleaf	7.2.1		0baaa307b940d102174dc4edef3362964ab39b6d
 org.apereo.cas	cas-server-support-thymeleaf	7.2.1	resources	923911ee24793829fc3ed78408461d2591d51793
+org.apereo.cas	cas-server-support-thymeleaf	7.2.2		8300a665838b720e1a85ba12cc3f61c31dba1247
 org.apereo.cas	cas-server-support-thymeleaf	7.3.0-RC1		12465b04c63816fe1726e568035c7567f120b81b
 org.apereo.cas	cas-server-support-thymeleaf	7.3.0-RC1	resources	e6909129e1f8b47c99f13cadf68ba4b1562306d9
 org.apereo.cas	cas-server-support-thymeleaf	v6.4.0-RC5		423b2235607779b1b4b9a13e47460c922633c1da
@@ -1309,6 +1314,12 @@ org.creativescala	doodle-golden_3	0.28.0		0fc67a2ab6f63a2e3424a1ed16be1b696a595f
 org.creativescala	doodle-golden_3	0.29.0		1cd7cc260473d515a18a23d245e080ab8910ddb2
 org.creativescala	doodle-golden_3	0.30.0		6cd447cb0d59ec493ed60e111dcbbe806314ec2e
 org.creativescala	doodle-golden_3	0.9.25		840c4b767f06642a0aeb3f1e0e644c98579b902a
+org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.14.0		7100663ef1e44b850ed5d37aa435202c7a5bd0b7
+org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.15.0		74bb96808fc706cb2422b1706000c1dc62941408
+org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.15.1		f6a586af6a1fb681b14fe7ce919f116360198b28
+org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.16.0		83cb9c2ce151bb36de33a6ca0551c7a04564785e
+org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.16.1		e05c7412651502026441a4c0fcc1c0e7dd2ebb31
+org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.16.2		f175a16b8034a5a1dbd76445afcdc61856d47b66
 org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.17.0		b27b47a9eb7b51616f4a5a11946884f7c0475f57
 org.foundweekends.giter8	sbt-giter8_2.12_1.0	0.17.0-RC1		01be9bd42215a8715087ec7eff1c8571b5dff256
 org.ikasan	sample-genericTechPriceSrc	0.9.0		44de762821cdc18aaa954ed567338d6424cb43d1
@@ -1581,6 +1592,9 @@ team.duckie.quack	quackquack-core-sugar-material-internal	0.1.0		ed4e29d46979e96
 team.duckie.quack	quackquack-core-sugar-material-internal	0.1.1		ae6d49e73d69332bbb5ea51cf8c0a5a3557083a3
 tools.jackson.datatype	jackson-datatype-javax-money	3.0.0-rc2		2d473822341ead131481c1cec68d5363e997dd58
 tools.jackson.datatype	jackson-datatype-javax-money	3.0.0-rc3		0e40b72905c94981794eb242b29b074d9375d231
+tools.jackson.datatype	jackson-datatype-javax-money	3.0.0-rc4		b17373b67812836e06dca5cd4c4aa07d16dcf748
+tz.co.asoft	kiota-file-manager-core-iosarm64	3.1.11	metadata	4ec85a57aa685213238b422466fdfeff90c7b0b0
+tz.co.asoft	kiota-file-manager-core-iosarm64	3.1.12	metadata	78600c4bb6feb515f7591159689d61be2f817e3a
 vip.justlive	easy-rabbitmq	1.0.0		e931e54945716e7523a43e9d13dd14adaac8265e
 vip.justlive	easy-rabbitmq	1.0.1		de2c240aa34d0c7b8efb0d15bf9be2a23399a8f7
 vip.justlive	easy-rabbitmq	1.0.2		becc1ce74da5faf2925e59fb863107698c636b3a
@@ -1591,3 +1605,4 @@ vip.justlive	easy-rabbitmq	1.1.2		41b3b0b9b85f89d681a8014bc1df044f42a6a1a4
 vip.justlive	easy-rabbitmq	2.0.0		09a5db5d2336fcc0b6f30b5cd59cbd8f02d1030d
 vip.justlive	easy-rabbitmq	2.0.1		62f8a8811626f5962ac7f6eae014f27986b4b3c1
 vip.justlive	easy-rabbitmq	2.0.2		f5fa8761b87c858c3d9836589510768291d3f227
+vip.justlive	easy-rabbitmq	2.0.3		6c0a7c29d8907e380e22ec460ec8a698d46338cf

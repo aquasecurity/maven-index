@@ -12,6 +12,7 @@ ca.gosyer	voyager-core-uikitarm64	1.0.0-rc06		N/A
 ca.gosyer	voyager-core-uikitarm64	1.0.0-rc06	metadata	8f7f49c15d9668a3d04087ebbbc5222597a59e31
 ca.gosyer	voyager-core-uikitarm64	1.0.0-rc07		N/A
 ca.gosyer	voyager-core-uikitarm64	1.0.0-rc07	metadata	b6b739b23506061ab20e8e0a25b5fd9ee597b2ba
+ch.epfl.scala	sbt-eviction-rules_2.12_1.0	1.0.0-RC1		688b14ccc7c90e941611692aed48f97b0a7bb8cb
 cn.herodotus.engine	rest-spring-boot-starter	2.7.0.0		10885d5cbb1a64edccc59722da3376973e48767c
 cn.herodotus.engine	rest-spring-boot-starter	2.7.0.10		47160866f6dc11371c5ab4fd667a3fad3ef2fdff
 cn.herodotus.engine	rest-spring-boot-starter	2.7.0.20		cef8d5e9122d869a45830dbf3e54f764153ca364
@@ -719,6 +720,7 @@ com.spotify	scio-tensorflow_2.12	0.14.13		3a609efb9d1957d5b6ae65852033a16acd364c
 com.spotify	scio-tensorflow_2.12	0.14.14		068408e2e244eea1ec3a5a7920303f877fcfd12a
 com.spotify	scio-tensorflow_2.12	0.14.15		322ed47e442446621a37ea754afb85b5a1a70f70
 com.spotify	scio-tensorflow_2.12	0.14.16		c4a5eedded2f72ac15c932f15ded1ea0fca61e57
+com.spotify	scio-tensorflow_2.12	0.14.17		9759edd1d007f6378113bc7e09381c0105192c40
 com.spotify	scio-tensorflow_2.12	0.14.2		e4adb7d1eca8f4255cc455449a095bdcf29eaa3b
 com.spotify	scio-tensorflow_2.12	0.14.3		af4870ee5bfd706b7703c30890c0b202afd85861
 com.spotify	scio-tensorflow_2.12	0.14.4		38bf3b37fe4ef54368fef90963aec949043f2352
@@ -1290,6 +1292,7 @@ dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.27.1		45504b02a37c4793802703eb533
 dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.28.1		59ed56d848b9e0f4fa23c8f38408929331b462de
 dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.3.1		fa5a7ac774a9e224b8a3bc7ecd0ad00672236b60
 dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.30.1		650e60c18d9f450876919aed1e9117d0d3863e8e
+dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.30.2		b97d2ef1a2c816e8aff13ceb2cf9a31c0807f461
 dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.4.1		163905e893635868a0dd871e425cd6a0e58e0f7d
 dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.6.1		bea41f656705175b9d67a942eb53e572c7290cfc
 dev.zio	zio-aws-migrationhubstrategy_2.13	7.31.6.2		4bc51c34bdfda33bf85c438e594d64bc8f5d444c
@@ -1373,6 +1376,7 @@ io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.12.2		N/A
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.12.2	metadata	4941f136d92dbed374a299a7d2c540c95b2c5a22
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.12.3		N/A
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.12.3	metadata	0c67822de6ffbafbd327c67c6bba0e2971f693fe
+io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.12.4	metadata	c82da791b7da741c4fb52b9d92d738e17bc44185
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.3.0		N/A
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.3.0	metadata	1b9b4f886637a34f927cf1ff2ed36c7186aab284
 io.github.kalinjul.kotlin.multiplatform	oidc-crypto-iosarm64	0.3.1		N/A
@@ -1766,6 +1770,7 @@ io.helidon.http.encoding	helidon-http-encoding-gzip	4.1.6		aff0eb2bc8b8ab1ebb6d8
 io.helidon.http.encoding	helidon-http-encoding-gzip	4.1.7		bb82eb1d1806f5fef76cb47402155dcf4c503d7e
 io.helidon.http.encoding	helidon-http-encoding-gzip	4.2.0		3223adc7d22b6e47fc7e3e0e1dd7c03c15326950
 io.helidon.http.encoding	helidon-http-encoding-gzip	4.2.1		7c9a50b03107cec11596208ed5fb511feb553946
+io.helidon.http.encoding	helidon-http-encoding-gzip	4.2.2		4b1c3632a2da2011623ddd61595e6ec569be293c
 io.matthewnelson.kotlin-components	kmp-tor-controller-common-tvosarm64	0.1.0		N/A
 io.matthewnelson.kotlin-components	kmp-tor-controller-common-tvosarm64	0.1.0	metadata	f06b568cc5bb7de963d4c83c0acc09ac27af7e21
 io.matthewnelson.kotlin-components	kmp-tor-controller-common-tvosarm64	0.1.0-beta1		N/A
@@ -1928,6 +1933,7 @@ org.apache.camel	camel-arangodb	4.8.3		0b954e8df6e74c9263a40f47d0027677efea145f
 org.apache.camel	camel-arangodb	4.8.4		b3ec2a4375435af1b53fa194fe238e43efb7ad37
 org.apache.camel	camel-arangodb	4.8.5		5062f2fa86feb3ddc0f856a26da7422234da9dbd
 org.apache.camel	camel-arangodb	4.8.6		50048f2872a05240aad69dd30d890857837220cc
+org.apache.camel	camel-arangodb	4.8.7		639821ac07a80e94198518944be1901c4ea681ee
 org.apache.camel	camel-arangodb	4.9.0		0d245feca7dddb116bff33c6b4ced75ed7c8030d
 org.apache.unomi	unomi-root	1.0.0-incubating		N/A
 org.apache.unomi	unomi-root	1.1.0-incubating		N/A
@@ -2056,6 +2062,8 @@ org.eclipse.jetty	jetty-http-spi	12.0.17		fe06fdc2e0c01abef2a20c9354e2e442b156f3
 org.eclipse.jetty	jetty-http-spi	12.0.18		351591df42f5a045137b24cf3de1bcf1842d4db0
 org.eclipse.jetty	jetty-http-spi	12.0.19		ef4441a101c522a1ad866e61d19b1b88b6c94b7a
 org.eclipse.jetty	jetty-http-spi	12.0.2		c4f227cdb2b4769682ed31443fd54f95d9c68834
+org.eclipse.jetty	jetty-http-spi	12.0.20		1362bdd5c2e3e1fb46906b6c68dfeb31a9bcc6af
+org.eclipse.jetty	jetty-http-spi	12.0.21		ca954a8bcf45be47429f65220a36f6e981954482
 org.eclipse.jetty	jetty-http-spi	12.0.3		31c70699d0c858c8d0772ad6fd6fd6e7682016f2
 org.eclipse.jetty	jetty-http-spi	12.0.4		6116b84b36bc8f83cab1021ed2ea9bfaee4ac7ab
 org.eclipse.jetty	jetty-http-spi	12.0.5		d28e98a64401011c93d2c736ad330a3dae61f511
@@ -3323,6 +3331,8 @@ org.xwiki.rendering	xwiki-rendering-wikimodel	16.10.3		6df1274c9ad84f853ea209150
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.10.4		f23876ded735506cb3fea218411ca7ab047d1201
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.10.5		6ed0f4ff67ce6e442e2798a54e9f9adce9f4f640
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.10.6		a300a9273becc504c8c8d443c7e7ef6ece66dc09
+org.xwiki.rendering	xwiki-rendering-wikimodel	16.10.7		819f4104db40cfcfee33aa2ce46c6dfc84be6017
+org.xwiki.rendering	xwiki-rendering-wikimodel	16.10.8		b5753dcaf93c9fd251d887c0892c46059cfc3b15
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.2.0		3d78b6339d5270241bda62df7cc366028d34e7b1
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.2.0-rc-1		2da526bb08eb1cdb94a79164b2025e44091c2c6e
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.3.0		946614b7cb74af97b8d89238c59e39a78b5cf82c
@@ -3337,6 +3347,7 @@ org.xwiki.rendering	xwiki-rendering-wikimodel	16.4.4		2a5429bea5940e0d66a915d23f
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.4.5		ba437b01cbc7df8ff3c50345418cd3262b90d86a
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.4.6		dbe58b389e7721b4ce48120b8dc39f8e2e52b9b8
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.4.7		c5ffc54b1a2c8d6b85ebd7b153022e91a68ecbb3
+org.xwiki.rendering	xwiki-rendering-wikimodel	16.4.8		1932655fa821885b8cdf2c8a25fdd28585c9d240
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.5.0		24607f909c4d4211182da6e18a560114118252c7
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.5.0-rc-1		e9353aef9aacfffd84d7d98be208483d65950255
 org.xwiki.rendering	xwiki-rendering-wikimodel	16.6.0		dfb4b535a9bddeab969f981331fddae8027975e2

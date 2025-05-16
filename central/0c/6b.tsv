@@ -36,6 +36,7 @@ ai.djl.pytorch	pytorch-jni	1.13.1-0.30.0		42a956d233b3c4ae460118a9a47c7c225eadfc
 ai.djl.pytorch	pytorch-jni	1.13.1-0.31.0		9efbf3fd394f4763b92805caa5c891cbb73d5d04
 ai.djl.pytorch	pytorch-jni	1.13.1-0.31.1		0105f83ec2c9093c652edc4a080f77105289312a
 ai.djl.pytorch	pytorch-jni	1.13.1-0.32.0		2b66b530573f3433e648b823c35808b7f6a355bd
+ai.djl.pytorch	pytorch-jni	1.13.1-0.33.0		7ce3dc863972bc914a1b2b6af4a5cc44443e1741
 ai.djl.pytorch	pytorch-jni	1.8.1-0.15.0		f18d42c77796a37640e24ef0b4e1b0512b09ab6c
 ai.djl.pytorch	pytorch-jni	1.8.1-0.16.0		934b4aabe0b6e232c212b582809428ac421f5a63
 ai.djl.pytorch	pytorch-jni	1.9.1-0.15.0		c3d8b5e688b6a68b144f1050b4c64af889e42ba7
@@ -56,6 +57,7 @@ ai.djl.pytorch	pytorch-jni	2.1.2-0.30.0		ee98f17cd5a2e70c778d2c3a91110aa60034834
 ai.djl.pytorch	pytorch-jni	2.1.2-0.31.0		5809d9e7471af707b5ef3613c1f8505f766bd503
 ai.djl.pytorch	pytorch-jni	2.1.2-0.31.1		7c4fc30a39295bf3ee6f356b589c3aa8fffd8ea1
 ai.djl.pytorch	pytorch-jni	2.1.2-0.32.0		c7521f339ded78b71e8abb1d5f81eb6afb098b47
+ai.djl.pytorch	pytorch-jni	2.1.2-0.33.0		bf919000f60e385ccfb51206b1d5ddf0ac7938fa
 ai.djl.pytorch	pytorch-jni	2.2.2-0.28.0		eaf5cce0f6241b110c24fb1b29b9dc8a288e79d7
 ai.djl.pytorch	pytorch-jni	2.2.2-0.29.0		04f3c22174d81b4879d30d416bf0a604e375d6a9
 ai.djl.pytorch	pytorch-jni	2.3.0-0.28.0		b72f5b161a0698bf616ea214570fb94a68caf063
@@ -64,12 +66,14 @@ ai.djl.pytorch	pytorch-jni	2.3.1-0.30.0		a6d06cf5d1b70d7090b8d11de0330dadc203fb4
 ai.djl.pytorch	pytorch-jni	2.3.1-0.31.0		cb0acbccc8bc7962737c91cb843e3f5b1ceda5ed
 ai.djl.pytorch	pytorch-jni	2.3.1-0.31.1		f24ea11e76a454cd9d789ae0d04ce01782c3d565
 ai.djl.pytorch	pytorch-jni	2.3.1-0.32.0		8ce1f1e2e4bea19378e0308a2d3a8356562312c2
+ai.djl.pytorch	pytorch-jni	2.3.1-0.33.0		3e7bf36ae6a5e9061dd92ee60150496c6c0437f3
 ai.djl.pytorch	pytorch-jni	2.4.0-0.30.0		ce624c95250cdc7c4329e72234e448dff39067f6
 ai.djl.pytorch	pytorch-jni	2.4.0-0.31.0		d2efa577dd9c13fa890d615989c860cb0ef94bdb
 ai.djl.pytorch	pytorch-jni	2.4.0-0.31.1		10a5bce7bd669614547696152a4c2b6ca6623b13
 ai.djl.pytorch	pytorch-jni	2.5.1-0.31.0		485104aaa5c35512ace900b9df5b373621b67ee9
 ai.djl.pytorch	pytorch-jni	2.5.1-0.31.1		9ee74efde54d2b76e42de1a1c0cb1a8ba0f5d934
 ai.djl.pytorch	pytorch-jni	2.5.1-0.32.0		5654a2b8bea7b096b561a4379b3576f707514782
+ai.djl.pytorch	pytorch-jni	2.5.1-0.33.0		2c8bf981f050c2f6aa0bcb059e297880e63dc0e3
 ai.konduit.serving	konduit-serving-tvm-config	0.0.2		3a7bbe405d8563ffcf23805d3e0947c7dfa1dcd1
 ai.konduit.serving	konduit-serving-tvm-config	0.3.0		8c9949298583eb6f90d283f501d4edb645f384b3
 cloud.altemista.fwk.amazon	cloud-altemistafwk-core-amazon-ses	3.0.0.RELEASE		5935324758cd3b9e3741140c2d5aead3d68a81af
@@ -466,6 +470,7 @@ com.spotify	scio-repl_2.13	0.14.13		6aca391a1377599408802de8e192568843a99907
 com.spotify	scio-repl_2.13	0.14.14		a8e2fdceb07edc5d67583e0c1ddd97c592fdce4d
 com.spotify	scio-repl_2.13	0.14.15		3d5ebd9f16df8a3e66e90e2c91018f0b22d09505
 com.spotify	scio-repl_2.13	0.14.16		f3734ac7d1ca03889b7d48d93150f1b2358cdd72
+com.spotify	scio-repl_2.13	0.14.17		3dc79bce7f69a339e0a6e1285db96d76b2bcf295
 com.spotify	scio-repl_2.13	0.14.2		721955dced93911339e4545b95c2e201b91ffefb
 com.spotify	scio-repl_2.13	0.14.3		2ef4e09d5a73d503181d8a4d5e79979613f26eec
 com.spotify	scio-repl_2.13	0.14.4		6717c9445aadacff67d213a9ab81240fa1703259
@@ -1007,6 +1012,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispa
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispatcher-20.0	2.13.3-alpha		ff06ce6648bb57711ab6543e9fa937acda62d2e0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispatcher-20.0	2.14.0-alpha		8b178179a496d9156b05b3d593af3baea0310897
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispatcher-20.0	2.15.0-alpha		1c7c1f2834216db67e2b2a2e552a53b933642dfe
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispatcher-20.0	2.16.0-alpha		3ac9a62fbd3f74f9384e7ea9aac1940d6ca8065b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispatcher-20.0	2.2.0-alpha		421165a381ede52b03734538e9a152371cfdd9e5
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispatcher-20.0	2.3.0-alpha		50a4ec6316ab299e4f4249f6f0d620535e0832dc
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-liberty-dispatcher-20.0	2.4.0-alpha		60389124e58400bac4febd113a58abc967342e90

@@ -1067,6 +1067,7 @@ dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.27.1		f974bc3baf628458411f963da024098
 dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.28.1		41d19eec4f3aa1c218153f54a63965e812be73c9
 dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.3.1		5e0bd67a8c646b7852da25e1af66dd8061500172
 dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.30.1		fd5a29f525eddb6b72ac52555abc041a8ac53e7c
+dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.30.2		159110a55034c3d74bc9fc81ed5c64599f3e16bd
 dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.4.1		d4fe9472b19b6f8f36cf30d94db903fca2a2f5f3
 dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.6.1		524d0b397f259b016268bccd43a4e611ef0cfed7
 dev.zio	zio-aws-pinpointsmsvoice_2.12	7.31.6.2		8c1457eea50ae14951036841bfd3d6e3e864c4eb
@@ -1082,6 +1083,7 @@ dev.zio	zio-concurrent_native0.5_2.12	2.1.14		512d9a72a11140b31f68c2a017610c6d0f
 dev.zio	zio-concurrent_native0.5_2.12	2.1.15		d8c5b6c8466f2034fccd887eedb3c29afffd49bf
 dev.zio	zio-concurrent_native0.5_2.12	2.1.16		8bc8800ce9ff2f8cb4a994f693b775dd1173ab39
 dev.zio	zio-concurrent_native0.5_2.12	2.1.17		845450923020e836f7696612c7e69884cf2db81d
+dev.zio	zio-concurrent_native0.5_2.12	2.1.18		37fedf7fb322f1c3045e0223ed65d684ad2e123f
 dev.zio	zio-concurrent_native0.5_2.12	2.1.7		24ab415484c42329ad20ae2e21886062936316d6
 dev.zio	zio-concurrent_native0.5_2.12	2.1.8		d50676a8d0a6406450a243a5de50cc655c7e6b36
 dev.zio	zio-concurrent_native0.5_2.12	2.1.9		dd268ea483b2f4e3463718e4841438d24fe47659
@@ -1552,6 +1554,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-con
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-converter-deployment	3.2.2		e4150f3ba24c2b72bebd5bf964b5e129482d94fa
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-converter-deployment	3.2.3		9ae019a7e8e3bb0c382a067ea80636c1c9e80640
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-converter-deployment	3.20.0		8372dc9a41c2b35f536065f6fe15ab5d38c7d82f
+org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-converter-deployment	3.20.1		ad92c18f274fe18f9b6deda0fc98baa9051d82ce
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-converter-deployment	3.22.0		b8c176963be85265bd9710c196e5be3f6e6e6334
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-converter-deployment	3.4.0		d19531914d781b1ad1128fc10f5b5e3db6b73532
 org.apache.camel.quarkus	camel-quarkus-integration-tests-support-custom-type-converter-deployment	3.5.0		6cde8f6c65c149c76b59d3f81e44c137ce86c696
@@ -1626,6 +1629,7 @@ org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.2
 org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.2.2		327bfa6659a5f8b263049223fbfe2cf75b1bb457
 org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.2.3		3a1997f6a770f793886a8d0c951f893a98568190
 org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.20.0		d4a27c55c06271c2bdbc6c4fe130cca4be9ccb61
+org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.20.1		52db6c28d3e324e4e80c46dbf0cd77a66a8417d3
 org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.22.0		5c8c0df61f231c6e804523ab4a1974d509f0450c
 org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.4.0		c88db316fb5853c72389dba839073c8b4c172400
 org.apache.camel.quarkus	camel-quarkus-support-google-http-client-deployment	3.5.0		9dc3c919756d8a63e05feaaff39751cfab929949
@@ -2567,4 +2571,7 @@ tz.co.asoft	cinematic-live-core-tvossimulatorarm64	3.0.8		N/A
 tz.co.asoft	cinematic-live-core-tvossimulatorarm64	3.0.8	metadata	7ff11c909934e9c110caea0b6a118245605fda76
 tz.co.asoft	cinematic-live-core-tvossimulatorarm64	3.0.9		N/A
 tz.co.asoft	cinematic-live-core-tvossimulatorarm64	3.0.9	metadata	fba20c915bc1c7c6a17fe73c6b3a6b06a18d1e35
+tz.co.asoft	cinematic-live-core-tvossimulatorarm64	3.1.1	metadata	d4cec25302b5c2331d11678d5d18ea10bc6c5cb2
+tz.co.asoft	cinematic-live-core-tvossimulatorarm64	3.1.11	metadata	cecf1c3d55917ca469c2d43c6d28ec023faef70a
+tz.co.asoft	cinematic-live-core-tvossimulatorarm64	3.1.12	metadata	89d939b7212402c7256e7882884aeecec3d2e86c
 uk.ac.liv.pgb	psi-utils	1.0.0		43663b4d258f1a0b895a60008ada2240acd779f6

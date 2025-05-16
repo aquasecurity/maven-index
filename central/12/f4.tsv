@@ -456,7 +456,16 @@ aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.73		44ba63c8980e086dab9cf
 aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.74		3fc23c57a593759d771803e1e63e6572fb8937a7
 aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.75		93aeaf3b2c1704b2ad414abc61d8c3c87014aa47
 aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.76		402023fb15910062fc28d8b59c6c799341a079b9
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.77		07a1dbcd1204af2ab1f5b5c49df5821542e2420b
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.78		664186e69cf2617669609976aab71bac276a3c15
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.79		7c0470480584bdcf2c7cc3c8d17e693bf183ca6c
 aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.8		c640a484eb44a8dbcbfee03f036da72525282027
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.80		59c3d3d36e198b5b9f7557f135f38c42b83dcd7a
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.81		e3e68ee52e6775ba77f0cb923e12a4a4471c4953
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.82		4bf8a3783ce11b748f7666380843578e65db38d1
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.83		3701ce4114b18a01ea646f4d16d397934b444143
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.84		14aa23cc5ca0ae50f2ed3d718199c1f0f49afa16
+aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.85		5568091bd51f44f38507515831eb9b23a39e5c57
 aws.sdk.kotlin	licensemanagerusersubscriptions-jvm	1.4.9		6bd16443b0be8963bdadf3b1ac0e4c699c4e80ad
 ch.sourcepond.io	checksum-impl	1.0.0		e727a465c81e428f7866bdec29c19d6cbfccd47a
 ch.sourcepond.io	checksum-impl	1.0.2		35c95622ec3cafa89246ec5bcf18425b67ce672a
@@ -677,6 +686,7 @@ com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	2.1.3		1ee5cbc
 com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	2.1.4		cd666d8b95b8e9e5fab5a2f1fa70d7d097ff1a75
 com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	3.0.0		b0d6b29015a7440219e97a9db6acf469e3b8ba28
 com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	3.0.1		121dad0941df3f1abcab04a105631c942b987a03
+com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	3.0.10		0b61d4c54459b4e306b571def333aad600085fa2
 com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	3.0.2		2d4f6322f22aed790ef8f1333cd46a053eda2f7e
 com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	3.0.3		cc4b7d507fd50a9f5b77e8311a2ab2555105a166
 com.github.skjolber.3d-bin-container-packing	visualizer-algorithm	3.0.4		0f5ffe8405cb0fbc927f78f8a94eba1e1efd2937
@@ -1621,6 +1631,10 @@ org.apache.hyracks	hyracks-dataflow-std	0.3.8		6d46f3273dd4c218ac3c3216715300c5a
 org.apache.hyracks	hyracks-dataflow-std	0.3.8.1		7bc73988c0f16136493914f626ddb5fdbd4e3733
 org.apache.hyracks	hyracks-dataflow-std	0.3.8.2		fa429a0670d8c7da7d6b22d9f4f0c408285f29ad
 org.apache.hyracks	hyracks-dataflow-std	0.3.9		2c4f7eb79f8e653ad1f238a24b8f36a8a6f03446
+org.bsc.langgraph4j	langgraph4j-lc4j-agent-handoff	1.5.10		668adb1a394a6a66eacad5a74594c2c053105256
+org.bsc.langgraph4j	langgraph4j-lc4j-agent-handoff	1.5.11		a040619362b28e0cb180e518edcca6cda90e2bf1
+org.bsc.langgraph4j	langgraph4j-lc4j-agent-handoff	1.5.12		6e6e9ec6f10e2265378059e40b92fb924fca477b
+org.bsc.langgraph4j	langgraph4j-lc4j-agent-handoff	1.5.9		d9f74d026a7423d9559d529a3382596a05e96091
 org.camunda.bpm.webapp	camunda-webapp-tomcat-standalone	7.2.0-alpha1		N/A
 org.camunda.bpm.webapp	camunda-webapp-tomcat-standalone	7.2.0-alpha2		N/A
 org.danilopianini	rrmxmx-kt-watchosarm64	1.0.0		N/A
@@ -1951,6 +1965,8 @@ top.thinkin.kitdb	store	0.2.5		42a441eae1241c7dcbd792280444ec61884c4400
 top.thinkin.kitdb	store	0.2.6		7c690439ad351d79f2aabf24ee74000dd6b7ba28
 tz.co.asoft	klip-system-macosarm64	3.0.15		N/A
 tz.co.asoft	klip-system-macosarm64	3.0.15	metadata	962e2349bed42a78f71a62aff0fe92e59ea24b3d
+tz.co.asoft	klip-system-macosarm64	3.1.1	metadata	f67dcf5114bdf8db4b6249c30e39a2f4c5e8681e
+tz.co.asoft	klip-system-macosarm64	3.1.11	metadata	c63ff7137960f755f205646a1a83b05cc319c9ff
 tz.co.asoft	lexi-api-androidnativearm64	2.0.16		N/A
 tz.co.asoft	lexi-api-androidnativearm64	2.0.17		N/A
 tz.co.asoft	lexi-api-androidnativearm64	2.0.18		N/A

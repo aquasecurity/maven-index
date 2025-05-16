@@ -758,6 +758,8 @@ io.github.kalin-rudnicki	oxygen-test_native0.5_3	0.0.3		11ee90e47f7e833810c9eeae
 io.github.kalin-rudnicki	oxygen-test_native0.5_3	0.0.4		5ef40d28019eb9e82a5fea9a782078f3f91b97a6
 io.github.kalin-rudnicki	oxygen-test_native0.5_3	0.0.5		e50cb928895b9feed99508045b302a85a2c3e6e4
 io.github.kalin-rudnicki	oxygen-test_native0.5_3	0.0.6		26b6c9beb5b9d739ccbca8de26e432db473429dd
+io.github.kalin-rudnicki	oxygen-test_native0.5_3	0.0.8		7590a67c8091158446a0551500fdd79e2ff8b3b3
+io.github.kalin-rudnicki	oxygen-test_native0.5_3	0.0.9		910570d18caa685c62eef8036bfc94ed01d34e97
 io.github.pavelannin	monadic-either-core-watchosx64	0.3.0		N/A
 io.github.pavelannin	monadic-either-core-watchosx64	0.3.0	metadata	018012ac0fce68b843aee77eed36434e65d09817
 io.github.pavelannin	monadic-either-core-watchosx64	0.3.1		N/A
@@ -1003,6 +1005,7 @@ org.apache.camel.quarkus	camel-quarkus-leveldb	3.2.1		fcc1679ee2c6a3bd2361d27c04
 org.apache.camel.quarkus	camel-quarkus-leveldb	3.2.2		d751171a3fc7997fc49fd203236b11b8174ba427
 org.apache.camel.quarkus	camel-quarkus-leveldb	3.2.3		bbc22bd3952b2dac40b1086455bd291c3d98b38e
 org.apache.camel.quarkus	camel-quarkus-leveldb	3.20.0		9652f6731be99c058b9b6acf48a11ab1a8b4482c
+org.apache.camel.quarkus	camel-quarkus-leveldb	3.20.1		7f825e7fab8b3b9f9f63617e3d12ce3809138cfb
 org.apache.camel.quarkus	camel-quarkus-leveldb	3.22.0		30a75e979394c2d4a2bc5172b8e3b8ebad37d9c7
 org.apache.camel.quarkus	camel-quarkus-leveldb	3.4.0		68fd38763f6d5b27d3fdf7dbfbe1d27ec2568d97
 org.apache.camel.quarkus	camel-quarkus-leveldb	3.5.0		b92ba5eccd0f9c0efab401dee958db57d5257d95
@@ -1198,6 +1201,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3.33_1		d021e7218c0e93a2c9bc1b696f93f6424df0ae52
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3.34_1		2be08009387df637822a2406ec4814ee3936936f
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3.39_1		898807e2c34ee7bde3a0fd39d75541716ff1b593
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3.39_2		ed1fb8e45d7b85a4eb7b0d95d0e46ffa6c866fba
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3.3_1		1a1a40bbd53e114e34445c23895cd0d7baa7e083
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3.4_1		f27a9a37f1caae2ec2484add17229a2ddfedac86
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	5.3.5_1		030ad5d846fb745abaaa0f40dcab8a7ee8572485
@@ -1212,6 +1216,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.18_1		84fd5fd0e7991ad3d3e3332424fccb556996bf23
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.19_1		214f6105b7311c3f264c35c9e9cf0ed50830e80d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.23_1		c45a6eaf26aba4043bec7eae84f1b770dd630cee
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.23_2		426ef4eb441ea84babb770cd610c1a9f011546ca
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.2_1		36d78f8871eacca66f380858c832f44b97fe161d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.3_1		fccba83e41f1176d02d389664c6bb96c00c96aa3
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.4_1		6dbf8939a749d8fcedd4ec2a1268047b6d2d2937
@@ -1220,9 +1225,11 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.0.8_1		56bba2334553e553817be61a967827617e0163a7
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.1.13_1		c8b030819996c433adfb1679b96b8ba74c826b01
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.1.14_1		4e864fc2392ce8558b67e03d2222fb66eeb25385
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.1.19_1		e905e84c75e345304c6ed789832370222180c1ea
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.1.2_1		995b6ef10beabcdd0538b44c82cd07bb253a7d11
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.1.5_1		570cf6b8fc99373ed337e3072e2c39c4c677494d
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.1.6_1		78ba1d1a43cb5e3fa8c5aaeb7b8cdf778329b804
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.spring-messaging	6.2.6_1		a7be3e4f8e6a9e88eecffb9c2520bdb2e86b5458
 org.apache.tuscany.sca	tuscany-policy	1.3		6d7280f980203ee7601a90b43bc4d06d7984ef61
 org.apache.tuscany.sca	tuscany-policy	1.3.1		ac12b432c48ef663c53b09948ab459250d39a1f5
 org.apache.tuscany.sca	tuscany-policy	1.3.2		f418ffe4713587c29a6ee6bd1a56390ecf7671c6
@@ -1408,6 +1415,7 @@ org.jetbrains.compose.ui	ui-graphics-macosarm64	1.7.1		N/A
 org.jetbrains.compose.ui	ui-graphics-macosarm64	1.7.1	metadata	30dd3b4c7cef79381057e8a17397b38c1d4d3055
 org.jetbrains.compose.ui	ui-graphics-macosarm64	1.7.3		N/A
 org.jetbrains.compose.ui	ui-graphics-macosarm64	1.7.3	metadata	30dd3b4c7cef79381057e8a17397b38c1d4d3055
+org.jetbrains.compose.ui	ui-graphics-macosarm64	1.8.0	metadata	098b595a0038aeeb166e2d8c7799110de8d2a1f8
 org.jetbrains.compose.ui	ui-graphics-macosarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.ui	ui-graphics-macosarm64	1.8.0-alpha01	metadata	30dd3b4c7cef79381057e8a17397b38c1d4d3055
 org.jetbrains.compose.ui	ui-graphics-macosarm64	1.8.0-alpha02		N/A

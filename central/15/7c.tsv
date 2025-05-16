@@ -796,6 +796,7 @@ dev.opensavvy.prepared	compat-parameterize-macosx64	2.0.0-alpha.2		N/A
 dev.opensavvy.prepared	compat-parameterize-macosx64	2.0.0-alpha.2	metadata	55d3b57211bc6b64432820e655ebde3ea8a6a64e
 dev.opensavvy.prepared	compat-parameterize-macosx64	2.0.0-rc.1		N/A
 dev.opensavvy.prepared	compat-parameterize-macosx64	2.0.0-rc.1	metadata	9f052afec1af6ea90695b6995f157f8efce4e2f6
+dev.opensavvy.prepared	compat-parameterize-macosx64	2.0.1	metadata	605d50ae31ee52f048288d3c161157aa92f57edc
 edu.jhuapl.ses	jsqrl	1.0.1		ccaf87148f3686e4080de0db56e0dda8ec5d664a
 fish.focus.uvms.plugins.ais	ais-ra-rar	3.1.11		N/A
 fish.focus.uvms.plugins.ais	ais-ra-rar	3.1.12		N/A
@@ -1320,6 +1321,7 @@ io.ktor	ktor-client-jetty	3.0.3		82c9a593ab1120af6c51cefde7b4245965573b8b
 io.ktor	ktor-client-jetty	3.1.0		82c9a593ab1120af6c51cefde7b4245965573b8b
 io.ktor	ktor-client-jetty	3.1.1		82c9a593ab1120af6c51cefde7b4245965573b8b
 io.ktor	ktor-client-jetty	3.1.2		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+io.ktor	ktor-client-jetty	3.1.3		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.leego	unique-mybatis-support	0.0.1		eac59f2c76f9cb116bdcb51a0f03786ce8c7faa8
 io.leego	unique-mybatis-support	0.1.0		94e30f34e63d8c3f54b3f6f649e3b2b6c0c727c9
 io.openliberty.features	io.openliberty.org.eclipse.microprofile.openapi-3.0	22.0.0.1		N/A
@@ -1413,6 +1415,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	2.13.3-alpha		a8d0ec0eb3ffb78cfd6ad262141424e2d30de4dd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	2.14.0-alpha		3e4a3ed143bb3d9388a0882ff7fa356bac7861be
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	2.15.0-alpha		774b48c8eeaf8fe473e49a835a9188b678fc90a4
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	2.16.0-alpha		f2ca8c5861e58c9fb72671195246e0d7ddfb8cf9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	2.2.0-alpha		ee6eb5fae04e23bcd2963423ef6ccb8c49e2087d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	2.3.0-alpha		4c9e5212e3e5fba79bed8485d556334e1d512522
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jedis-common	2.4.0-alpha		8ac50af4288b5711ae425d5dfd63ddd106472acd
@@ -1688,6 +1691,7 @@ io.quarkus	quarkus-panache-common	3.15.2		e6d5a66c3912b76e15c3257553c04d670d33a4
 io.quarkus	quarkus-panache-common	3.15.3		fb32080eb56923c1e6bbe4677be08377478c1d91
 io.quarkus	quarkus-panache-common	3.15.3.1		22364b74e4be20706359ffd9eb5c7b2ec060588e
 io.quarkus	quarkus-panache-common	3.15.4		d55dd0147d0ab0b9dd18be95d2a4eda1908d8e99
+io.quarkus	quarkus-panache-common	3.15.5		688c6d912f13da5820cb6b7ad6074504b64b0322
 io.quarkus	quarkus-panache-common	3.16.0		ebe90a00a43f63f95d23a212a52b3a51ce2b3d45
 io.quarkus	quarkus-panache-common	3.16.0.CR1		4a1c851a0f49a42660face94bb406eab4ab9e33d
 io.quarkus	quarkus-panache-common	3.16.1		8b7179b9cfe6431d642e27dba4c244bd1b2347b1
@@ -1732,6 +1736,7 @@ io.quarkus	quarkus-panache-common	3.2.8.Final		ec703eca2a746b376270a5b97e319b328
 io.quarkus	quarkus-panache-common	3.2.9.Final		f4850b39ff59108ee271f7d4bb8ccfa7f78f8939
 io.quarkus	quarkus-panache-common	3.20.0		2a3d5ebeec789568c1ba8a4c0e9814aa4d8b6ff8
 io.quarkus	quarkus-panache-common	3.20.0.CR1		fdb826fc7de9084c551eb474da74681ea5f667da
+io.quarkus	quarkus-panache-common	3.20.1		a020949284376f09f11cb5e4952379c7a1b0508a
 io.quarkus	quarkus-panache-common	3.21.0		2bcbd1213139041aaf2c09871b439daa8bda29ae
 io.quarkus	quarkus-panache-common	3.21.0.CR1		85daf3e41b505ba4ef1c6a3bd9f6463345e46ed6
 io.quarkus	quarkus-panache-common	3.21.1		09c19b397fa770d61307077b27feff4d4d165570
@@ -1741,6 +1746,9 @@ io.quarkus	quarkus-panache-common	3.21.4		0bb3d66fc508f5dd426ba430c14d9efb16066e
 io.quarkus	quarkus-panache-common	3.22.0		992fbb3875fde3e438fb166e8ab612618086c181
 io.quarkus	quarkus-panache-common	3.22.0.CR1		3891aefd0e2f2483fb1b1cff9edddd52a2e14748
 io.quarkus	quarkus-panache-common	3.22.1		dfe4ed716cae1b252bdc96d275d0e34ab365b01a
+io.quarkus	quarkus-panache-common	3.22.2		6248f7f359f339d6bb16f7b04b2f2d77cdbe6bde
+io.quarkus	quarkus-panache-common	3.22.3		bdf556edcb61cf8ad563a5f130ea7bafcf27da78
+io.quarkus	quarkus-panache-common	3.23.0.CR1		fb85ec3926797b674f221a41071a51626f305f25
 io.quarkus	quarkus-panache-common	3.3.0		705a6b68b0caf985deeb845e235e1a8bdef85f01
 io.quarkus	quarkus-panache-common	3.3.0.CR1		5bf57ef1420afa1cff6fc271520b9634516a42be
 io.quarkus	quarkus-panache-common	3.3.1		6041fc6c94950275ee74bf16e0b1ff815bccab58
@@ -1884,6 +1892,9 @@ jakarta.tck.arquillian	arquillian-protocol-common	11.0.2		2ac2392df44e0b4d0fcd90
 jakarta.tck.arquillian	arquillian-protocol-common	11.0.3		1d9fd53faddfc2aa04455b8fe8faf31830eb1256
 jakarta.tck.arquillian	arquillian-protocol-common	11.0.5		bd9d6968f8859298f479f36baf2adc4c28e69b93
 jakarta.tck.arquillian	arquillian-protocol-common	11.0.6		4f9d21ef66b15a7261c6b512d5a9e2c701ddc3fe
+jakarta.tck.arquillian	arquillian-protocol-common	11.0.7		eaaa835a85a04c9f42bc80c982f2357e290a0768
+jakarta.tck.arquillian	arquillian-protocol-common	11.0.8		79fa85a784923fc6cc23e6d28547b7432548ff4c
+jakarta.tck.arquillian	arquillian-protocol-common	11.0.9		95b814b3dbf3a3932733358c9e80a7b4ca93d874
 love.forte.simbot.component	simbot-component-onebot11-core-watchosarm64	0.0.1		N/A
 love.forte.simbot.component	simbot-component-onebot11-core-watchosarm64	0.0.1	metadata	478ea8fd7dcf7d94efd1ef0d0722e2dc2b178f97
 net.simonvt.menudrawer	menudrawer	3.0.0		N/A
@@ -2094,6 +2105,7 @@ org.apache.camel.archetypes	camel-archetype-api-component	4.8.3		6b8731f2ba664d9
 org.apache.camel.archetypes	camel-archetype-api-component	4.8.4		707bd7da84776a2204bab24a74b79c41e9e8d8fb
 org.apache.camel.archetypes	camel-archetype-api-component	4.8.5		412c44ae2dcf3d021c9b4d3cf0ec03592eed3980
 org.apache.camel.archetypes	camel-archetype-api-component	4.8.6		a1fbedb4080b9dcc0fa2d1420ae1ebe1eb666ea3
+org.apache.camel.archetypes	camel-archetype-api-component	4.8.7		80adaa3048224ee2db274c3641d72c6c594e4a6b
 org.apache.camel.archetypes	camel-archetype-api-component	4.9.0		222c165c3a497d67ba6621e09dd164c724702c20
 org.beangle.doc	beangle-doc-parent_2.13	0.0.1		N/A
 org.beangle.doc	beangle-doc-parent_2.13	0.0.2		N/A
@@ -2117,6 +2129,7 @@ org.codehaus.groovy	groovy-sql	2.0.0-rc-3	groovydoc	da316faaf8b7692ed3814186f15e
 org.codehaus.groovy	groovy-sql	2.0.0-rc-3	indy	b09b0b547f74e270debb6523c806d06d12666631
 org.codehaus.groovy	groovy-sql	2.0.0-rc-4		d27272eceb3e9beb67bb3539f7f090471859c1a7
 org.codehaus.groovy	groovy-sql	2.0.0-rc-4	groovydoc	a269a08efa4b3844b32633832bd483e6175e2321
+org.codehaus.groovy	groovy-sql	2.0.0-rc-4	indy	792d587a2e17a4506ab4656ffe479e3d05c2f26b
 org.codehaus.groovy	groovy-sql	2.0.1		c4039068a4cef2a1a80585683528b6765041b65a
 org.codehaus.groovy	groovy-sql	2.0.1	groovydoc	1b74279b1a89cb6f460be2ae2eb3503ad313ecdc
 org.codehaus.groovy	groovy-sql	2.0.1	indy	f15834d413c15fe43dd67432dc3d14ee54b01b8d

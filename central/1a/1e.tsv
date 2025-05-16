@@ -968,6 +968,7 @@ me.proton.core	util-kotlin	30.4.4		7f7325cf887298b71a92098d3d8edc1cf37e7e04
 me.proton.core	util-kotlin	31.0.0		ea190e2a55b022d21d0ff0c750439f191a16acb8
 me.proton.core	util-kotlin	32.0.0		4476923276c0e9877b6f310560f4d095b5d817c2
 me.proton.core	util-kotlin	32.0.1		5ea9d26b226e1a15961f60ef406b5e7f99a47c47
+me.proton.core	util-kotlin	32.0.2		38c4d2ad1bb4b1686311eb17826f2a294dd73747
 me.proton.core	util-kotlin	4.0.0		86ad4486d94950efbeadcfd42e08675e24b861b1
 me.proton.core	util-kotlin	4.1.0		026b4ffc41aadd20450b58dbdf8fc7941ee79cb2
 me.proton.core	util-kotlin	5.0.0		dab717dc1895a40378facf63b9c923a32db3c82c
@@ -1172,6 +1173,7 @@ org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka-clients	3.7.0_
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka-clients	3.7.1_1		d4cdfc539b1ad02705abeab5ede0e1018d5c3e39
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka-clients	3.8.0_1		b5b9712ecb894a0ebf8db093eb41571e46a1cc16
 org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka-clients	3.8.1_1		52ebe5db72e8fc472b9c9a287a1b325741a90770
+org.apache.servicemix.bundles	org.apache.servicemix.bundles.kafka-clients	4.0.0_1		728edf4130197e9af7521911f47d629262a3646f
 org.bsc.langgraph4j	langgraph4j-server-jetty	1.0-beta1		fce0f868f43911a52511b78c4381940619300e98
 org.bsc.langgraph4j	langgraph4j-server-jetty	1.0-beta2		fdcbd809d9b4566ed56926e451140626fcaf8a5a
 org.bsc.langgraph4j	langgraph4j-server-jetty	1.0-beta3		334545ca5e491ec15375421cf8bd576adf5c1e76
@@ -1356,6 +1358,7 @@ org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.7.1		N/A
 org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.7.3		N/A
 org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.runtime	runtime-saveable-tvosx64	1.8.0-alpha02		N/A
@@ -1499,6 +1502,8 @@ org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation
 org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.1		278daeec32947469763f1ce2497d506f4e152216
 org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.10		28cb2805370c7721503d5df31f381e192dfae800
 org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.10-jakarta		a8e2c1fa3afc065e8f1b59d04543978e46ad26c1
+org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.11		746e564c3c587ee38027021ea2d32566cc05283a
+org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.11-jakarta		6000f907a40c9618299920fb13aba6d200cda551
 org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.2		d8c168c12d939e18bf8cf01306adffa075e525f2
 org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.3		1db7ee6dbe624f731d1d63df866a365219ed75bc
 org.openl.rules	org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation	5.27.4		c7394760a82a622c2e9352dcd4596f4c3441a901
@@ -1646,6 +1651,8 @@ org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-prov
 org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	56.0.0		8a5a808e83c4cf754b37b5973b4ae68cb810ae74
 org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	56.1.0		c0ceb3d3a0bab2e5603d54ca2ee79ecf337b1849
 org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	57.0.0		1958f13b38e892637af68d0f47d5225b6faa08d4
+org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	58.0.0		c481293c60e3cf82ac63817acc524daa0c6b3481
+org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	58.0.1		ac20822986b306f0ff20b0826999f316a483d59f
 org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	6.0.0		7cf1d926ff4bae813f57f476a8ebc986e98ed4b5
 org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	6.1.0		90bb9ffadfa19304a541a681dcf1b27f173ed1a5
 org.ossreviewtoolkit.plugins.packagecurationproviders	file-package-curation-provider	6.1.1		d01993afad8604147e75209078aac4800d2787f2

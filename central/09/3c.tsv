@@ -34,6 +34,7 @@ app.lexilabs.basic	basic-sound-iossimulatorarm64	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-sound-iossimulatorarm64	0.2.5-beta01	metadata	4c909913daae1ad7b63a419ab25f151d73089dd8
 app.lexilabs.basic	basic-sound-iossimulatorarm64	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-sound-iossimulatorarm64	0.2.5-beta02	metadata	f22d3c3ad936a679a7f34e2944944121b40c895b
+app.lexilabs.basic	basic-sound-iossimulatorarm64	0.2.6-beta01	metadata	4cfeb9f334f0f6625f2d0db7234b3f73243c5d24
 cloud.oneentry	sdk-general-types-tvosarm64	1.1.1		N/A
 cloud.oneentry	sdk-general-types-tvosarm64	1.1.1	metadata	32cf59b78fb271ed0a98987dd223dee9141508cb
 cloud.oneentry	sdk-general-types-tvosarm64	1.2.0		N/A
@@ -81,6 +82,10 @@ com.github.jmodel	com.github.jmodel.validation.impl	0.0.1		70c60cae6b1431a810f42
 com.github.karasiq	scalajs-bootstrap_2.13	2.4.0		a03aab6a5c14a73436de490b0e45565819adc859
 com.github.karasiq	scalajs-bootstrap_2.13	2.4.1		64da4dc12df444707a3df36c68858f0aff7a9a8e
 com.github.karasiq	scalajs-bootstrap_2.13	2.4.2		4e6a17f67f09946c643a9e09da5a07505e5233f3
+com.github.mwegrz	sbt-logback_2.12_1.0	0.1.5		274c09f7712799c7255488a944a655c67746473b
+com.github.mwegrz	sbt-logback_2.12_1.0	0.1.6		53a0e1872bf99821e75f09b67dccfa1d80b1e69c
+com.github.mwegrz	sbt-logback_2.12_1.0	0.1.7		90024527821c8242a327a524f1003c18aadea9ae
+com.github.mwegrz	sbt-logback_2.12_1.0	0.1.8		6c320e07af04e768d291a99464a7115e6263f9e4
 com.github.szgabsz91	morpher-transformation-engine-api	1.0.0		a0edd9afc40f25174bcd2b2f14e32a324637dc48
 com.github.szgabsz91	morpher-transformation-engine-api	1.0.1		05f87e9175bba9d32718e87c89ebfcae5250af15
 com.github.szgabsz91	morpher-transformation-engine-api	1.1.0		3bbb0fedcbee7951f576346a402f22c9bfd0753b
@@ -568,6 +573,7 @@ dev.zio	zio-aws-costandusagereport_2.12	7.31.27.1		0599266b319ea39463c08c9271971
 dev.zio	zio-aws-costandusagereport_2.12	7.31.28.1		4251941520023b16cd9edac35e45d1d5d6d2aa66
 dev.zio	zio-aws-costandusagereport_2.12	7.31.3.1		47a6f6b57e287dbfa8318126c246d537509c06d9
 dev.zio	zio-aws-costandusagereport_2.12	7.31.30.1		6c89c4b29aa5cf68eca64822ed2010fbf7c2c1ee
+dev.zio	zio-aws-costandusagereport_2.12	7.31.30.2		f7ec6704b77a82b539d62f46577fda61e6c7814d
 dev.zio	zio-aws-costandusagereport_2.12	7.31.4.1		226779c0ad5d5a3e6496739703691306ad90450a
 dev.zio	zio-aws-costandusagereport_2.12	7.31.6.1		2d1cd75cb7ad3b56015a987d1f18b103ee0e83b0
 dev.zio	zio-aws-costandusagereport_2.12	7.31.6.2		48c5ed7db2835972a3658fec6f86df21fde1fc55
@@ -893,6 +899,7 @@ dev.zio	zio-aws-eventbridge_3	7.31.27.1		2a523381fa488191b86a5d1414eec51972ed3a2
 dev.zio	zio-aws-eventbridge_3	7.31.28.1		92a20c3a81c71ae9d612952cc27a1ca7b00d1364
 dev.zio	zio-aws-eventbridge_3	7.31.3.1		6e51f8a6895814d6de5f783db4bdd143bdccfde8
 dev.zio	zio-aws-eventbridge_3	7.31.30.1		9359811b88ae2224d1ba11a28bc135ff2a3c892f
+dev.zio	zio-aws-eventbridge_3	7.31.30.2		ee2eebca841a3bcc7b9e37131a32cde31cb0975a
 dev.zio	zio-aws-eventbridge_3	7.31.4.1		eddc9ffbb15f6f3dd8cb44d10e17506b80b5dced
 dev.zio	zio-aws-eventbridge_3	7.31.6.1		e8c3c6b244cd5921d7cff0409e9c37a9672718ba
 dev.zio	zio-aws-eventbridge_3	7.31.6.2		77802604a1bff71b242233a14f9c4a7209e1a0b2
@@ -1592,6 +1599,7 @@ io.quarkus	quarkus-google-cloud-functions-http	3.15.2		dac6a9b48e00b9bc7d51f1983
 io.quarkus	quarkus-google-cloud-functions-http	3.15.3		adaca7ce7896a6555f9ebc116f82d1874d0bbfa9
 io.quarkus	quarkus-google-cloud-functions-http	3.15.3.1		d2364392b8b24b45dac80aaa3d93de8966b218ce
 io.quarkus	quarkus-google-cloud-functions-http	3.15.4		80d96205635fa59963fdd0e0d683229578cc8754
+io.quarkus	quarkus-google-cloud-functions-http	3.15.5		2d21737671b57816918278c96ac4e39d14efa238
 io.quarkus	quarkus-google-cloud-functions-http	3.16.0		c050b8d297c109970460afaae8919a93e6a9e13a
 io.quarkus	quarkus-google-cloud-functions-http	3.16.0.CR1		13062805b93b683d2abc81e47cc1cd189ee184f8
 io.quarkus	quarkus-google-cloud-functions-http	3.16.1		f735bc5e2ffe4e11a47fc741ffdf9c46af5e6ffd
@@ -1636,6 +1644,7 @@ io.quarkus	quarkus-google-cloud-functions-http	3.2.8.Final		0389a3ffb9fa22fae987
 io.quarkus	quarkus-google-cloud-functions-http	3.2.9.Final		aad10b1685d6e538f6edeb879da1b8cf84df2e0f
 io.quarkus	quarkus-google-cloud-functions-http	3.20.0		117e32e934b3a2aa48d8a8621f523fd0226b571e
 io.quarkus	quarkus-google-cloud-functions-http	3.20.0.CR1		4739efb482bbfdb5f99cceb4c5d611947efc1e4b
+io.quarkus	quarkus-google-cloud-functions-http	3.20.1		d9027a436e3ad6266c98f5dd94e45b1bde611c55
 io.quarkus	quarkus-google-cloud-functions-http	3.21.0		5aa76d188175a25a8237e328127379b9f6c1afb0
 io.quarkus	quarkus-google-cloud-functions-http	3.21.0.CR1		76a85f2bff37e605da000064fa19ab642f4fb860
 io.quarkus	quarkus-google-cloud-functions-http	3.21.1		73864c2533f84e0841e5c3f35ce9c5725b936986
@@ -1645,6 +1654,9 @@ io.quarkus	quarkus-google-cloud-functions-http	3.21.4		c4c0bde26e9ff268e18e676e5
 io.quarkus	quarkus-google-cloud-functions-http	3.22.0		d9610488f087af798b7da9b88db774e49df72b76
 io.quarkus	quarkus-google-cloud-functions-http	3.22.0.CR1		acdcae36ead4308ab3bb7c55e15465df17b2aea1
 io.quarkus	quarkus-google-cloud-functions-http	3.22.1		528a34d5b5cc7cff9e38e7fa48abd67847a4327f
+io.quarkus	quarkus-google-cloud-functions-http	3.22.2		057d130f703dc34ceb1dfbf080dfb84f2626bfe8
+io.quarkus	quarkus-google-cloud-functions-http	3.22.3		6915b8c6830ab81804514c80443621ba8e26f9cd
+io.quarkus	quarkus-google-cloud-functions-http	3.23.0.CR1		a66b88480727751e6896a58bbc2fc5c039787cad
 io.quarkus	quarkus-google-cloud-functions-http	3.3.0		dec8f278d26bcb6e0c8cb586f625853aba045261
 io.quarkus	quarkus-google-cloud-functions-http	3.3.0.CR1		2c4628a60c60355684f4972994b5a96c8e5a96ec
 io.quarkus	quarkus-google-cloud-functions-http	3.3.1		7807c942b7338a3d441e2660e4ecdb4a1e5568cf
@@ -1696,7 +1708,11 @@ io.quarkus	quarkus-google-cloud-functions-http	3.9.4		2cfde9c91c64c7c6f009add00a
 io.quarkus	quarkus-google-cloud-functions-http	3.9.5		ef74f4f82470440efa2c5e8c06278b83435707b4
 io.spinnaker.orca	orca-api-tck	2025.0-0		3deb81eb377c41f75e6636a45ec333cd15a61d06
 io.spinnaker.orca	orca-api-tck	2025.0-1		da621aaaf7657943037e64d9f6258b67f74b4f1e
+io.spinnaker.orca	orca-api-tck	2025.0-2		faffb5c4126727fc446727b9f811968b3f47d01e
+io.spinnaker.orca	orca-api-tck	2025.0-3		92c90c4fc6952b4d0ccce4b06e5b700b6c844749
+io.spinnaker.orca	orca-api-tck	2025.0-4		39e94e5b4c61097a5f71060a2143d3831fe5b579
 io.spinnaker.orca	orca-api-tck	2025.0.0		b018414724b988d0de8c74b501641891d0f2a499
+io.spinnaker.orca	orca-api-tck	2025.0.1		a424a55199f681b05361c89abc804db910b1ce41
 io.spinnaker.orca	orca-api-tck	8.15.0		3d6296fb0a7b161c0fbdc830829a360d2d3f9609
 io.spinnaker.orca	orca-api-tck	8.16.0		daec602dbba12895eb55c13e2c6e7234e6da4c44
 io.spinnaker.orca	orca-api-tck	8.17.1		182ca391745cfdfca116586ca5e7117ecd88e642
@@ -1788,10 +1804,14 @@ io.spinnaker.orca	orca-api-tck	8.61.2		22801b654a6e5aefa42f7ca85363da92e2cba610
 io.spinnaker.orca	orca-api-tck	8.62.0		959209ea9496b278753fd9e5863250ab4d04e71b
 io.spinnaker.orca	orca-api-tck	8.63.0		e0921a624be977e763165e72b114cde39ffd5355
 io.spinnaker.orca	orca-api-tck	8.64.0		5d47eb7c327a1b116481dc1e3da5148b2c46e5a3
+io.spinnaker.orca	orca-api-tck	main-10		557f4dd668949bd1054c7bf84b5edd9f70423c16
+io.spinnaker.orca	orca-api-tck	main-11		d0638526c6f41b977875b8946f637bf15259d2ef
+io.spinnaker.orca	orca-api-tck	main-12		a6068669a1494234eb9077c76a86f27aeb47aecf
 io.spinnaker.orca	orca-api-tck	main-5		1bea2a7c569cec5a9166bc1cc5dc25ca9ae428dc
 io.spinnaker.orca	orca-api-tck	main-6		9c2ce4505cc33a9543812dd67e494c4d1344cdd3
 io.spinnaker.orca	orca-api-tck	main-7		62ca0e74ac63c26dc3af09610e388edbbe92b373
 io.spinnaker.orca	orca-api-tck	main-8		73212507d18e7072dcbe8f9b8b5f76243a4e564a
+io.spinnaker.orca	orca-api-tck	main-9		38911015e1055617d97751b73d078611c46a36cd
 io.toolisticon.cute	cute	0.10.0		2014f45ef3b9f19d064d1ca13e5027df96b519ba
 io.toolisticon.cute	cute	0.11.0		ec0b1bdb9a54fea61f490fd5ced41fdd71df88fb
 io.toolisticon.cute	cute	0.11.1		89fc7463376ef18e92eb1352b8d1f5cae1834fcb
@@ -1811,6 +1831,7 @@ io.toolisticon.cute	cute	1.5.0		3894fa0290be7b9f8bf598b77571f1c53df92f6f
 io.toolisticon.cute	cute	1.5.1		10ab4bf3febccad7f8f46fa539a048bbba48030b
 io.toolisticon.cute	cute	1.6.0		37d7f12e9e4812bfd4979b2beb8210b6edbb51f1
 io.toolisticon.cute	cute	1.7.0		fc3a4a7ef97777e468f51b372f47a1b39157af81
+io.toolisticon.cute	cute	1.8.0		66c24f18137543e3ffd0918634b287c3198706df
 it.swim	recon-java	0.1.0		6af66b6bcb7d7ebc1e9d5c077abb0ad5345fe8f6
 net.exoego	aws-sdk-scalajs-facade-comprehend_sjs1_2.12	0.29.0-v2.624.0		3181fe5f6d28fbc769f693a06dc2ae58d985f406
 net.exoego	aws-sdk-scalajs-facade-comprehend_sjs1_2.12	0.30.0-v2.715.0		bf60b6539e744eccd9b4ff09fe03b25e89bd5262
@@ -1971,10 +1992,17 @@ org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.79.0		c1fe0736d
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.80.0		c8b1764e94257dff2bb7b3d28f02d4daabc27c3b
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.81.0		b1310df71f9bab24f4c46f329f073ae865275749
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.82.0		b702b2aae319ae23be983be7bbfc589d592f406c
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.82.1		1e75e8a0ed82f40f00de6ebf8f509fe8d9964d7a
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.83.0		287fee3ce585bf7def495f34e4cbf633185700b1
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.83.1		d60476ca01f05da0cc70783b28c446129180c648
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.83.2		9f368405adf88c744881bc8e3b0f03ba87aef511
 org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.83.3		30d887828121edb95da18b8874ad941ad607ab18
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.84.0		da41ed7d9e68949fc90b8ffa7a4f05f6477c9b0e
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.84.1		5097858787dde3af3b41a6cb8cd252ceeab0ed05
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.85.0		74d75f4cd05b0399aab038999ee856245f07b1ea
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.85.1		9ed0183eb2be5307a11e1850496d164fdfd2c955
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.85.2		2154c9c9ea8c5ec1ebe03fe8c82cea2e4c38af05
+org.finos.legend.engine	legend-engine-xt-bigqueryFunction-pure	4.85.3		fa840bc293cad44ac258bb0725b9c3af1cfbc178
 org.hammerlab	paths_2.12	1.0.0		70b34ef2e6a3a4312581a06edb75cde34c417142
 org.hammerlab	paths_2.12	1.0.1		b5fd0a2a08172bb0d7e403aa0ea228d538d83920
 org.hammerlab	paths_2.12	1.0.2		e227a0517e00cf30deabea896623c0d5cedd0bc1
@@ -2010,6 +2038,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-iosarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-iosarm64	0.6.1	metadata	1de5430493b5b51ba0034058fec05886f52e7b1f
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-iosarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-iosarm64	0.6.2	metadata	8878f6c5bf5dcfdbf7bb557db309576aa950e9bc
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-iosarm64	0.7.0	metadata	381dc942b45d5fe5ff050bd85bbff69fbd95690a
 org.kie.server	kie-server-services-prometheus	7.18.0.Final		a0367c066eaeddff0213f7aa0154b4edff72168f
 org.kie.server	kie-server-services-prometheus	7.19.0.Final		b46ae198322c961ce1f93eba5bf76fb91f0586e6
 org.kie.server	kie-server-services-prometheus	7.20.0.Final		c321c23e8d927798161d48e6e9a961075058f0f5
@@ -3573,7 +3602,18 @@ software.amazon.awssdk	applicationinsights	2.31.30		be91c0e55b68d30fd93a3800b993
 software.amazon.awssdk	applicationinsights	2.31.31		1dde71f32f184caf7622730a7e677aae61a3602b
 software.amazon.awssdk	applicationinsights	2.31.32		78e84814b0f403f2edace03ed23dbcc9ed6e17c8
 software.amazon.awssdk	applicationinsights	2.31.33		e1cdfa2be9b993fdea1ef03b2349f23fced15918
+software.amazon.awssdk	applicationinsights	2.31.34		3b8e96c6f7249c0f7d3de95912d9c58929f4b3e1
+software.amazon.awssdk	applicationinsights	2.31.35		92b1fc4ae89d860dcd85759ce01b63d456c9af8c
+software.amazon.awssdk	applicationinsights	2.31.36		4e49a2c4ef938c1d97814143479eff56b63379d6
+software.amazon.awssdk	applicationinsights	2.31.37		9ce2e4fe1a48681ecbf146a1c29546c19c7ed468
+software.amazon.awssdk	applicationinsights	2.31.38		7d006a6ffa4dd18d6670429ec657e67fccf6bbc4
+software.amazon.awssdk	applicationinsights	2.31.39		dc7efc4a111be9964a03ceacd118bbc4c2b70632
 software.amazon.awssdk	applicationinsights	2.31.4		68c75a2ef3380e13ca6fa0339016ea56f871554c
+software.amazon.awssdk	applicationinsights	2.31.40		1dbac9578fb27a16616b49b9337a6709bca15562
+software.amazon.awssdk	applicationinsights	2.31.41		65b39dc3aba06df0b5a5d2df0b2edae16854596f
+software.amazon.awssdk	applicationinsights	2.31.42		a8a04d758d085541c3e429e08587f278f52c9bb5
+software.amazon.awssdk	applicationinsights	2.31.43		775d808c2d724c39b68ea05c1a3a84fdbd55f876
+software.amazon.awssdk	applicationinsights	2.31.44		d79a05f5fe66b4997343b07c76d39b4d1333ba96
 software.amazon.awssdk	applicationinsights	2.31.5		64be2d792600be13448af3b851ca2c00121547e4
 software.amazon.awssdk	applicationinsights	2.31.6		583d462c859324ce8f797f975b5beed1f6aae909
 software.amazon.awssdk	applicationinsights	2.31.7		1414552e301a5614d7ca77b813579f6abfc07166

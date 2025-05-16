@@ -113,6 +113,8 @@ com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.48.0		c1f176f7
 com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.49.0		0393eae429d6a8e3866dafe051d9e17e414308d2
 com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.5.0		9b5b852d37c8afc99260b66aa3027d2fd8a935bd
 com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.50.0		02bcbbf2facfbc05e11870ddc1ac3771dc2b9b69
+com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.51.0		0a9acbc28263f08c8a243af77906d90d267bccdf
+com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.52.0		c8d05ef9566e90ed632ad3ef1225b3e70eba7efd
 com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.6.0		e732eeb294fbf699927295f5ee466ea92c31e2e0
 com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.7.0		c82b04a6de03d4c3e70882380fe1006642519883
 com.google.api.grpc	proto-google-cloud-advisorynotifications-v1	0.8.0		0b2fbae6f1089f5904ea92415c4dde1e6d6fbc03
@@ -141,6 +143,8 @@ com.google.cloud	google-cloud-securesourcemanager	0.29.0		0794d5579bae857dd5d288
 com.google.cloud	google-cloud-securesourcemanager	0.3.0		b06bd905b362cede657a5b19ec44cdc528975c37
 com.google.cloud	google-cloud-securesourcemanager	0.30.0		ac7210092149f5491cb3aec51c4b99323667eab9
 com.google.cloud	google-cloud-securesourcemanager	0.31.0		89bfdeba203014bcf27abad525eccaedd9171196
+com.google.cloud	google-cloud-securesourcemanager	0.32.0		f91c7bafb4a0b0153c056ea33c1b2f14eb8a5a13
+com.google.cloud	google-cloud-securesourcemanager	0.33.0		4c8c1958dddbc688b81a4ea5875e82a0ca617676
 com.google.cloud	google-cloud-securesourcemanager	0.4.0		d252eda9d755d1ec16437268e8dc4d3de2ab0b31
 com.google.cloud	google-cloud-securesourcemanager	0.5.0		681d5adbdce9afbcb8933bb336391510767efc6e
 com.google.cloud	google-cloud-securesourcemanager	0.6.0		9256712e1f2a92c7ab17d0d811a6e8eb0b0c7a9e
@@ -242,6 +246,7 @@ dev.langchain4j	langchain4j-embeddings-bge-small-en-v15-q	1.0.0-beta1		2a9d8fed7
 dev.langchain4j	langchain4j-embeddings-bge-small-en-v15-q	1.0.0-beta2		504e4ca9e304eb8eac9f5b99a21450d21c1c009f
 dev.langchain4j	langchain4j-embeddings-bge-small-en-v15-q	1.0.0-beta3		8646e54ace104ac80a47b6e6e4b591cc6d651780
 dev.langchain4j	langchain4j-embeddings-bge-small-en-v15-q	1.0.0-beta4		afe7606dd248c392af453b9328a51590c6a44064
+dev.langchain4j	langchain4j-embeddings-bge-small-en-v15-q	1.0.0-beta5		c62d7ca8db45f1a843b59374a6be7e07b4ac46e2
 dev.paseto	jpaseto-coverage	0.1.0		N/A
 dev.paseto	jpaseto-coverage	0.2.0		N/A
 dev.paseto	jpaseto-coverage	0.3.0		N/A
@@ -303,6 +308,9 @@ io.americanexpress.synapse	sample-function-greeter-gcp	0.4.10		7ac98def41b2f5e11
 io.americanexpress.synapse	sample-function-greeter-gcp	0.4.11		34270a52f0a1aa734121dfc3f63e370b8c61fadd
 io.americanexpress.synapse	sample-function-greeter-gcp	0.4.12		8211e5f2e4a17a7c9c069367a0bf89357d279183
 io.americanexpress.synapse	sample-function-greeter-gcp	0.4.13		da0a09a6592376a608b31eb98ed4d436000449ce
+io.americanexpress.synapse	sample-function-greeter-gcp	0.4.14		92ac9a03e0a89dcee9f294f6198fc39359e24170
+io.americanexpress.synapse	sample-function-greeter-gcp	0.4.15		b95bc9f6bab5c6dd6fac0a60569488d0587aff93
+io.americanexpress.synapse	sample-function-greeter-gcp	0.4.16		4c7fd89882f82462d0d132e06455984837181c61
 io.americanexpress.synapse	sample-function-greeter-gcp	0.4.2		0edbf36d9bdb9cf525528e908754dae6d0d6fed2
 io.americanexpress.synapse	sample-function-greeter-gcp	0.4.3		69812c5b2397fddbe49220064a2c56d9a6d10d48
 io.americanexpress.synapse	sample-function-greeter-gcp	0.4.4		387e95d9360ae02d2d389db8baa01ae5f3647fed
@@ -786,6 +794,7 @@ org.projecthusky.communication	husky-communication-at	2.4.1		aa599263b37dc79a6d7
 org.projecthusky.communication	husky-communication-at	2.5.0		80fd412a0ddfb6349613282d7c91d75b15073057
 org.projecthusky.communication	husky-communication-at	2.5.1		88d9903b5d9073926591e3a2cfffae4f2b9d7cca
 org.projecthusky.communication	husky-communication-at	2.5.2		f794fa35bd5134d288f11ccd91cb2fecbf440f46
+org.projecthusky.communication	husky-communication-at	2.5.3		de3b3f7d41df42a1c5751e1eeecab5d94377fbed
 org.projecthusky.communication	husky-communication-at	3.0.2		3a97eb88fee453c3b0f676437735a43d714d9c0f
 org.reduxkotlin	redux-kotlin-linarm32	0.2		N/A
 org.reduxkotlin	redux-kotlin-linarm32	0.2.1		N/A

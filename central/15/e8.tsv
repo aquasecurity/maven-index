@@ -225,6 +225,8 @@ com.steamstreet	awskt-lambda-dynamo-streams	2.0.28		3a9329ac8080994f89aca6384203
 com.steamstreet	awskt-lambda-dynamo-streams	2.0.29		de0bd1fdac2b664bf5348cd38e0bae5a96b4643b
 com.steamstreet	awskt-lambda-dynamo-streams	2.0.3		441d553b2f4366c6153a9f9b65205dc48cb5c2f2
 com.steamstreet	awskt-lambda-dynamo-streams	2.0.30		be64bb83d1589a587f5967474a792cbaae0877df
+com.steamstreet	awskt-lambda-dynamo-streams	2.0.31		a6a2f8173abf597a5fcbd71c375ed259d4561acb
+com.steamstreet	awskt-lambda-dynamo-streams	2.0.33		15984e591375335c8e72c11c750e9280656623d1
 com.steamstreet	awskt-lambda-dynamo-streams	2.0.4		aa767af89273fb994bfd15ce2c286843215a68b3
 com.steamstreet	awskt-lambda-dynamo-streams	2.0.5		dde587738a42f729ad916e2eafd062a1c1731c0f
 com.steamstreet	awskt-lambda-dynamo-streams	2.0.6		21871c5a07d6976134fe943d311a37a72b365bbe
@@ -397,6 +399,7 @@ io.matthewnelson.kmp-tor	runtime-jvm	2.0.0-beta01		b978e343268019180c9501a83fe35
 io.matthewnelson.kmp-tor	runtime-jvm	2.1.0		7a5fe4205ca8d1517169685a655753902e34ed01
 io.matthewnelson.kmp-tor	runtime-jvm	2.2.0		7a5fe4205ca8d1517169685a655753902e34ed01
 io.matthewnelson.kmp-tor	runtime-jvm	2.2.1		75a190c5b86751df87d19bbd689abf2764247af6
+io.matthewnelson.kmp-tor	runtime-jvm	2.3.0		955572be8c43928032b6e184f5703f6cfbef866c
 io.quarkiverse.tekton	quarkus-tekton	0.0.1		5468325fbd1a0c8df1f3ba3f9f7c6957c25d3afa
 io.shiftleft	semanticcpg_3	1.3.455		71fd739d1019a845d13684a6ec88ff1bc403cf87
 io.shiftleft	semanticcpg_3	1.3.456		d7f9c39ed62ac46abd5ecd987997716f98776047
@@ -584,6 +587,7 @@ org.apache.camel	camel-test-infra-rocketmq	4.8.3		fad77c5bd4cefce3316ed74167420d
 org.apache.camel	camel-test-infra-rocketmq	4.8.4		c7523d8f0a3c36418b6e4274b7910f3f3b39ec24
 org.apache.camel	camel-test-infra-rocketmq	4.8.5		e58d1a8ad02e2d02bce9b6498eca01b5f7ba5e22
 org.apache.camel	camel-test-infra-rocketmq	4.8.6		6f745ff00c9492cb32b4cf95f26cad3958578ea3
+org.apache.camel	camel-test-infra-rocketmq	4.8.7		64cda34efa5860e02f9f82b2a2d1d430892c5c37
 org.apache.camel	camel-test-infra-rocketmq	4.9.0		70e6e6ccf4d4c3308e807d4751e0f34652388073
 org.apache.tiles	tiles-request-api	1.0.0		d625a85dad6f94c371268230d8a7677a6f25e6ac
 org.apache.tiles	tiles-request-api	1.0.1		ac444f7d599a6ae28c360cd10fdf2aafa3b87106
@@ -727,6 +731,19 @@ org.eclipse.dirigible	dirigible-components-template-application-rest	11.41.1		27
 org.eclipse.dirigible	dirigible-components-template-application-rest	11.42.0		fc8dd35bf1c29aa5db956d889da58c59530c3924
 org.eclipse.dirigible	dirigible-components-template-application-rest	11.43.0		83e9cab037f987458521ada8ff1b9925f7581791
 org.eclipse.dirigible	dirigible-components-template-application-rest	11.44.0		cfc36a0ae8181b10b70a3bec28fe00ac763468b2
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.0		589f350aafcf4884b0d98bb28dd8b6c4b11fa7b4
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.1		a47953dc7e3392ac3a947f32f18e467577985172
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.10		51da4da76039a760c322eb76e04336f4363bf46b
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.11		773216ec7534712368772fa00c0479140ff6353e
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.12		dc6c8789184386450519bebf308419a3c9417c23
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.13		b354a4e549fbe24966c99b87327edace099c13c8
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.3		6b62475d441d95c2774fff79c6d94cab3d3b8cc8
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.4		289243c38be750e1c613fb7cad57a1f5b3bf8a9d
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.5		60355b4768c96b6cd0d16aa5e4b829c08fc5bf60
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.6		08854a2f512578a5b36ee9ba6928d51c48b93ed6
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.7		a6d122835ab8eb5bad4ee6e32f034ef2e396d4a7
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.8		5e19992a22e9e73f8e2893377b6e7e976d2fb53e
+org.eclipse.dirigible	dirigible-components-template-application-rest	11.45.9		d414d96dd6d95be15e58d03502191b629d3ca893
 org.eclipse.dirigible	dirigible-components-template-application-rest	11.5.0		36cb630c6e3f5f0f3403ebafa180677865608260
 org.eclipse.dirigible	dirigible-components-template-application-rest	11.6.0		655fef9e390709d1bc6976953dccc3166816bf06
 org.eclipse.dirigible	dirigible-components-template-application-rest	11.6.1		9adbdae143a7f459ab9e3d25714a50d0f3b6a153

@@ -1049,6 +1049,7 @@ io.camunda	zeebe-broker	8.4.15		48257b18b93387a95cd7b3400065c087b3c2c284
 io.camunda	zeebe-broker	8.4.16		3ee4218b1608bc8f66f1b52a69a96caaccf3df1f
 io.camunda	zeebe-broker	8.4.17		b3619e444ec29568a455076d2f6e8e8694457621
 io.camunda	zeebe-broker	8.4.18		76eca109009a2b29fc245a560b82d1ec62106b42
+io.camunda	zeebe-broker	8.4.19		3af91a555fb064d97b43b25330b46927701f6e9d
 io.camunda	zeebe-broker	8.4.2		c5244a1d23ec27c229cd0e475f3dd18182a4fc1d
 io.camunda	zeebe-broker	8.4.3		2817e5561c708494c83ec13d2e597091fd8ce218
 io.camunda	zeebe-broker	8.4.4		6db6d6b18eb8b902e15ce4c57ce8f93a682e68fa
@@ -1071,6 +1072,7 @@ io.camunda	zeebe-broker	8.5.14		109a3d8e8115acb156b398c7300a52f28ce3fafd
 io.camunda	zeebe-broker	8.5.15		e0ace33a7ea06b205a378db1ad145ba7c828eba2
 io.camunda	zeebe-broker	8.5.16		1b465a9b241b2e80625a79300def720d145e793a
 io.camunda	zeebe-broker	8.5.17		819f4068ec79721276d6dc88ea68cddde73a7b1b
+io.camunda	zeebe-broker	8.5.18		ac3d46ccbd009306fbc4ed103666b5a2c271e00c
 io.camunda	zeebe-broker	8.5.2		892ce591479d233f22016973db0066e9020e1bc4
 io.camunda	zeebe-broker	8.5.3		d768d8e29e461f110f1dd9fd79e78aa1dd0f39d4
 io.camunda	zeebe-broker	8.5.4		e3afa18da1a6841b4a58f02aa25c397ad371757e
@@ -1108,6 +1110,8 @@ io.camunda	zeebe-broker	8.6.12-rc1		fd3e3f57a3931d289b8d8871128f4b2da52ae6bc
 io.camunda	zeebe-broker	8.6.13		8c6c85391f1fb35b9ff63b45770954ba52c2a43d
 io.camunda	zeebe-broker	8.6.14		ca53e02842bac10873ece181254ce6baede58df9
 io.camunda	zeebe-broker	8.6.14-rc1		8fe6dc3ff73f04d96b9531968051ad24666128ee
+io.camunda	zeebe-broker	8.6.15		d1da2b74b4df2cc67285259a9fb0a3c9450dd4b3
+io.camunda	zeebe-broker	8.6.15-rc1		98b27594d2643fda3b861f2a0ce4b9dbac85ea81
 io.camunda	zeebe-broker	8.6.2		b03a3643fd67176b56346ce54d9e1052872c4173
 io.camunda	zeebe-broker	8.6.3		68dd39bcdb8152372f25a3aad6921c4a276d862b
 io.camunda	zeebe-broker	8.6.4		8c97393fc4f41be7383b89c2588d462efe413ca3
@@ -1143,12 +1147,15 @@ io.camunda	zeebe-broker	8.7.0-alpha5-rc1		9839a15869cfceadc5db4fb35b953f0c963ef0
 io.camunda	zeebe-broker	8.7.0-rc3		f374951cd8e9e637892710e2b24c586ac48ea94a
 io.camunda	zeebe-broker	8.7.1		3f975591a4eb66454c124092ad7b4bd62c715371
 io.camunda	zeebe-broker	8.7.1-rc1		c92afc04c5225b9691587b3eee8f5ee8dced78c2
+io.camunda	zeebe-broker	8.7.2		85894db1206bf59f35ad7613ee7923734968f2b1
+io.camunda	zeebe-broker	8.7.2-rc1		f62548f7b3e813f9d9e55d94f0d5f30ba51ce57c
 io.camunda	zeebe-broker	8.8.0-alpha1		11c8398d644508474c5dcdbb9a05b6074722087e
 io.camunda	zeebe-broker	8.8.0-alpha1-rc1		53d455464681350c5ea8eb2c8a4e21c3cd0626ff
 io.camunda	zeebe-broker	8.8.0-alpha2		b3ff59798afbd75d88454f85e2981cdc1eda5de6
 io.camunda	zeebe-broker	8.8.0-alpha2-rc1		ecf3b7077e0cfd6a1b8f07b138cde84fb52903e4
 io.camunda	zeebe-broker	8.8.0-alpha3		d585662d97dddda8c9102aa92149bba0b2cd403d
 io.camunda	zeebe-broker	8.8.0-alpha3-rc3		9825366ca47d9ee3d12be53e023c2a2f14b591d8
+io.camunda	zeebe-broker	8.8.0-alpha4		12772654f25c345f57ddfd4df047098fa025f6dd
 io.camunda	zeebe-broker	8.8.0-alpha4-rc1		8827c05ad8177720de73fe82f955b06302bcb0a4
 io.github.liyuhaolol	BRVAH	4.1.6		N/A
 io.github.liyuhaolol	BRVAH	4.1.7		N/A
@@ -1518,6 +1525,7 @@ me.proton.core	crypto-common	30.4.4		32c882bbf2221f7a73feda8df8534c8ad1aadf58
 me.proton.core	crypto-common	31.0.0		b9cdf014b6efe0088540782d0fac8ad665a167a9
 me.proton.core	crypto-common	32.0.0		979477ee94c18d57de83f9143b9357a484845982
 me.proton.core	crypto-common	32.0.1		8fbc9bfc596c12cb78d507ba1d8354430132ddbe
+me.proton.core	crypto-common	32.0.2		6d72208efe93eb7aa4c660bb5ed01b4abf1caf81
 me.proton.core	crypto-common	4.0.0		a1dafdaf2698b3dc38f1ba761b0a9b55ef809f51
 me.proton.core	crypto-common	4.1.0		07a1bba7165ef025e874b37ce9c1a2751cc017d0
 me.proton.core	crypto-common	5.0.0		950766874ccc13afc7c956c69bdaa5343a966194
@@ -1954,6 +1962,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-iossimulatorarm64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-iossimulatorarm64	0.6.1	metadata	46ac1db4a1fb57ae411dafe20423d67fc8e80399
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-iossimulatorarm64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-iossimulatorarm64	0.6.2	metadata	6fe8433f288496508f5c687f68a6e59395ad8848
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-ktor-core-iossimulatorarm64	0.7.0	metadata	1310fe06ac38df441864fbd23f8102173db462e9
 org.kotlincrypto.hash	blake2-tvosx64	0.6.0		N/A
 org.kotlincrypto.hash	blake2-tvosx64	0.6.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.kotlincrypto.hash	blake2-tvosx64	0.6.1		N/A
@@ -2413,3 +2422,7 @@ tz.co.asoft	raven-config-macosarm64	3.0.8		N/A
 tz.co.asoft	raven-config-macosarm64	3.0.8	metadata	0941fcbd3e47d833c738d15bcf77cfa097b36748
 tz.co.asoft	raven-config-macosarm64	3.0.9		N/A
 tz.co.asoft	raven-config-macosarm64	3.0.9	metadata	4ba19d4eb3c20751c88fd40b7694177aa693f8b3
+tz.co.asoft	raven-config-macosarm64	3.1.0	metadata	68253c0e17cb0f115ecc2732c5effdc16e204899
+tz.co.asoft	raven-config-macosarm64	3.1.1	metadata	7f66e02ce5eb140df0f512555df7a57193965c28
+tz.co.asoft	raven-config-macosarm64	3.1.11	metadata	a04370d48fcbdc1efff15dd6dd4261cbf34cf6c1
+tz.co.asoft	raven-config-macosarm64	3.1.12	metadata	a36dd5b17625b52663311b329fdf7ba6a282f66b

@@ -577,6 +577,7 @@ com.walmartlabs.concord.plugins.basic	variables-tasks	2.23.0		3d2d2df8d8f8fdbe85
 com.walmartlabs.concord.plugins.basic	variables-tasks	2.24.0		86baa715816d8477673cf10b2afe9ec42ef1179c
 com.walmartlabs.concord.plugins.basic	variables-tasks	2.25.0		a7ab3b69c8cebb07a7fcbde40ee958a4a8ecc870
 com.walmartlabs.concord.plugins.basic	variables-tasks	2.25.1		a4f0e93bfb7246d542de28b12f842f6938f9d5d3
+com.walmartlabs.concord.plugins.basic	variables-tasks	2.26.0		4ef3b5e311da64cfefbeefa4a2b142b2e9afd9e4
 com.walmartlabs.concord.plugins.basic	variables-tasks	2.3.0		3d93f7d293ceceddbfae9c6bfd6c72a61edfee57
 com.walmartlabs.concord.plugins.basic	variables-tasks	2.4.0		9ef83d65017ad3b500bf52c06827e67f7858c8ad
 com.walmartlabs.concord.plugins.basic	variables-tasks	2.5.0		ef2f2775f66f73cfe5071825f940aa0a54661157
@@ -694,6 +695,7 @@ dk.cloudcreate.essentials	types-avro	0.40.20		a3f381d17d64e8bd86f1e222f1575f8a16
 dk.cloudcreate.essentials	types-avro	0.40.21		b10c0482b088f92bb7fcde07c9bdb113ef1e2510
 dk.cloudcreate.essentials	types-avro	0.40.22		ca9b446b8e629bc110aee7c1cc9ecc939176ad69
 dk.cloudcreate.essentials	types-avro	0.40.23		0f07b0abb1daa06dbe50559d0d7cd30d445e6bc5
+dk.cloudcreate.essentials	types-avro	0.40.24		b70a7c728ac6bcb34f6f092eaf7f20cc6d556f42
 dk.cloudcreate.essentials	types-avro	0.40.3		afe4f2fa95dbb850045aafc7f8f9991c2caecb6f
 dk.cloudcreate.essentials	types-avro	0.40.4		5cf2ca567b3ba66029aeb4321e68215be779d575
 dk.cloudcreate.essentials	types-avro	0.40.5		0eaea3c18f57f71c993480587eec59b0b7d71cee
@@ -754,6 +756,7 @@ es.sandbox.test	sandbox-test-support	1.0.1		27a26673ea10d4552cfe1698ff986ea8b812
 eu.unicore.uftp	uftp-datashare	0.20.0		9a7db634c8da83b4d9f30cf31850677d2b6dc58e
 eu.unicore.uftp	uftp-datashare	0.20.1		d832bab239ec5fb114d689fa3bd5eee3dd77bdf2
 eu.unicore.uftp	uftp-datashare	0.21.0		40993fb6b38b1b29bfadca09b25aaf29c081cbbf
+eu.unicore.uftp	uftp-datashare	0.21.1		13bd346eba323e4f835824e26c9f8504754ce131
 io.github.Rosemoe.sora-editor	editor-lsp	0.15.0		N/A
 io.github.Rosemoe.sora-editor	editor-lsp	0.15.0-dev-1		N/A
 io.github.Rosemoe.sora-editor	editor-lsp	0.15.1		N/A
@@ -883,6 +886,7 @@ io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-21		ad6f53085f607a
 io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-22		93d0cd4b53eb1a97b7c653cff9a864be44c10106
 io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-23		7c40e90f20dcc8c149c5b923ea6ef58c5671d474
 io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-24		262939058f98aa16d7a0a3c7b53832e2102b2569
+io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-25		7871e1ee3d05e103cadd35b706d99d78ea20ee9d
 io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-3		8c6652263aaf936762a0034ed6e711968ba43a28
 io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-4		b5b48a3abc7a7ef4d6069f4b7810dca7cde69acd
 io.stargate.db.cassandra	persistence-cassandra-4.1	2.1.0-BETA-5		8b585fb4209b2f360f363b94db5dbb455a963814
@@ -970,6 +974,7 @@ org.apache.camel	camel-aws2-step-functions	4.8.3		6b85885677422f85cb6c6c040bb1e9
 org.apache.camel	camel-aws2-step-functions	4.8.4		a790164b57040f4b648b587294fd016d81c35a9e
 org.apache.camel	camel-aws2-step-functions	4.8.5		eb2b45447c38e3a4963a4d8e41344c6e565e5730
 org.apache.camel	camel-aws2-step-functions	4.8.6		d0bcf0ba8c55529e5507b5698c6f7bc57bdc3d03
+org.apache.camel	camel-aws2-step-functions	4.8.7		4ccf1fd28e91c0d5dcdbf4ce3357e637f144f2d2
 org.apache.camel	camel-aws2-step-functions	4.9.0		cbbb53298cbb17c7e755c8e5209b557cb74238dd
 org.apache.camel.kafkaconnector	camel-aws-kinesis-firehose-kafka-connector	0.1.0		453f5624e6f5b82bc7b216990be6bccd96c607ca
 org.apache.camel.kafkaconnector	camel-aws-kinesis-firehose-kafka-connector	0.2.0		b4202ab8bcf2219e38029a14dc3f596dd3aed436
@@ -1393,6 +1398,8 @@ org.ossreviewtoolkit.plugins.reporters	fossid-reporter	55.3.0		3e0a96bdcc05153d3
 org.ossreviewtoolkit.plugins.reporters	fossid-reporter	56.0.0		1ff4cad633cd58a5d00e8ce4bdb528d3de79e198
 org.ossreviewtoolkit.plugins.reporters	fossid-reporter	56.1.0		65143e13ffef3a1edbd25770a66a11a640fdc695
 org.ossreviewtoolkit.plugins.reporters	fossid-reporter	57.0.0		5e0f47a358652de9bdeb2a34e5dd66b8a27ada79
+org.ossreviewtoolkit.plugins.reporters	fossid-reporter	58.0.0		4ddf90c11b8e826f6643a83f1b6cb6e2b70b0cce
+org.ossreviewtoolkit.plugins.reporters	fossid-reporter	58.0.1		9bb9fbf6026d18a10fad8720a84bf73fa0ae2ea3
 org.ossreviewtoolkit.plugins.reporters	fossid-reporter	6.0.0		5480359a420b3db23f81bdddef093a4ccb4d1844
 org.ossreviewtoolkit.plugins.reporters	fossid-reporter	6.1.0		f2caf3e994b94a46bca538873bd7c9e490d4d3a9
 org.ossreviewtoolkit.plugins.reporters	fossid-reporter	6.1.1		462fb318dfdb8c5dbb2cd0810c86c6dea56707ec
@@ -1470,6 +1477,7 @@ org.shoal	shoal-gms-api	1.6.51		c3f298920f9ea8c53d50f5677d264b141aae5c4e
 org.shoal	shoal-gms-api	1.6.52		3723666a0fab456f39f2e4b39bf6e04b7cf75eea
 org.springframework.ai	spring-ai-starter-model-mistral-ai	1.0.0-M7		64d69acb46b46f6a0e967432eb87a396240d1a0f
 org.springframework.ai	spring-ai-starter-model-mistral-ai	1.0.0-M8		a56059d3ff6619b041d92fe88316028aa2a7e88e
+org.springframework.ai	spring-ai-starter-model-mistral-ai	1.0.0-RC1		14a2cb55dfa6df1843c135455e3db3be40cb3b50
 org.teiid.connectors	swagger	10.0.0.Alpha2		N/A
 org.teiid.connectors	swagger	10.0.0.Beta1		N/A
 org.teiid.connectors	swagger	10.0.0.Beta2		N/A
@@ -1788,6 +1796,7 @@ ru.yoomoney.gradle.plugins	weblate-plugin	1.5.1		868da4f10dcc6b427c0bab41039eb40
 ru.yoomoney.gradle.plugins	weblate-plugin	1.6.0		4e4e4757aaa4b372cc11e6d16f6973b204c186b5
 software.amazon.app.platform	kotlin-inject-impl-iosarm64	0.0.1		N/A
 software.amazon.app.platform	kotlin-inject-impl-iosarm64	0.0.1	metadata	31ccec3a20eb6b63c9b2381cf61c384f8836ea99
+software.amazon.app.platform	kotlin-inject-impl-iosarm64	0.0.2	metadata	83521ebfbd25d87108c84b63411945d47af4bc38
 stream.spalla	spalla-android-sdk	1.0.0		N/A
 stream.spalla	spalla-android-sdk	1.1.0		N/A
 stream.spalla	spalla-android-sdk	1.2.0		N/A

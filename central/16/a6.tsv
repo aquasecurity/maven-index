@@ -156,6 +156,7 @@ com.soywiz.korge	korge-core-tvossimulatorarm64	5.3.2		N/A
 com.soywiz.korge	korge-core-tvossimulatorarm64	5.3.2	metadata	edf4a39d5165917506d9b3557a5e0ab1b04d375f
 com.soywiz.korge	korge-core-tvossimulatorarm64	5.4.0		N/A
 com.soywiz.korge	korge-core-tvossimulatorarm64	5.4.0	metadata	bd67c4d2f76e21befbc16107357d5e2ed39df52b
+com.soywiz.korge	korge-core-tvossimulatorarm64	6.0.0	metadata	f24cd911c400f3c6ba778f7c22a7d4946df67fdb
 com.soywiz.korge	korge-core-tvossimulatorarm64	6.0.0-alpha4		N/A
 com.soywiz.korge	korge-core-tvossimulatorarm64	6.0.0-alpha4	metadata	a418da5ca9a2f35534fc67ad44ce66e0bd64cccf
 com.soywiz.korge	korge-core-tvossimulatorarm64	6.0.0-alpha5		N/A
@@ -1227,6 +1228,7 @@ dev.galasa	dev.galasa.cicsts.manager.ivt	0.25.0		68b145d494ce92b85e702e10b2b057b
 dev.galasa	dev.galasa.cicsts.manager.ivt	0.38.0		ba68e92781cdac100a8d6a3efcfa8097e7d3b744
 dev.galasa	dev.galasa.cicsts.manager.ivt	0.39.0		cef9fde471bec7c6a60af13d71ae0c71b554662c
 dev.galasa	dev.galasa.cicsts.manager.ivt	0.40.0		06a61ee75e6d2f80579cfddab0057f70c9cad038
+dev.galasa	dev.galasa.cicsts.manager.ivt	0.41.0		eee2db6a0d2ae81c12fd9253c524cd9041f7439c
 dev.opensavvy.spine	typed-shared-js	0.2.0		N/A
 dev.zio	zio-aws-appfabric_2.13	7.21.15.1		79580ad6c8fd0a0e431ca6471c8efc53f566dffc
 dev.zio	zio-aws-appfabric_2.13	7.21.15.10		b1120f21e854a45b7062c43c56bd96079f329f9d
@@ -1319,6 +1321,7 @@ dev.zio	zio-aws-appfabric_2.13	7.31.27.1		4cd91ff087158bcc686e3d6c2776b017b9ed69
 dev.zio	zio-aws-appfabric_2.13	7.31.28.1		8ec0d9de90d7f3f27d8b4bb41d33f09550d05de4
 dev.zio	zio-aws-appfabric_2.13	7.31.3.1		91042fc9d6a2ebfb135a839d613b69218ed0d427
 dev.zio	zio-aws-appfabric_2.13	7.31.30.1		b5bcb6d69e719f22c8b03f186860fec4dcdc7601
+dev.zio	zio-aws-appfabric_2.13	7.31.30.2		dcad7a3bd925177f95bc577d4344a98cc7f7cf00
 dev.zio	zio-aws-appfabric_2.13	7.31.4.1		2398d1515540cbf9fe8a09e2768443789c08d892
 dev.zio	zio-aws-appfabric_2.13	7.31.6.1		3e75ecc18828bbaee650bccb85ad3b542227969f
 dev.zio	zio-aws-appfabric_2.13	7.31.6.2		21048586b2d2060085ac1f717d2d7fe9baa8a3f9
@@ -2191,6 +2194,8 @@ org.ossreviewtoolkit.plugins.reporters	static-html-reporter	55.3.0		449150a2b0e9
 org.ossreviewtoolkit.plugins.reporters	static-html-reporter	56.0.0		86b57cf61609210cab2f93b196bf860ae8d89086
 org.ossreviewtoolkit.plugins.reporters	static-html-reporter	56.1.0		043a7b5c5013c66fe5d287c0affb10610551112d
 org.ossreviewtoolkit.plugins.reporters	static-html-reporter	57.0.0		c42b73bf14c187551ebf9c554a4f2c4d51db66cf
+org.ossreviewtoolkit.plugins.reporters	static-html-reporter	58.0.0		2490219be254d86cbc0afa324a4da7992dda93a7
+org.ossreviewtoolkit.plugins.reporters	static-html-reporter	58.0.1		d23e2d2b3e191a33d198bc0f9d5a00a39baad255
 org.ossreviewtoolkit.plugins.reporters	static-html-reporter	6.0.0		66fcf5f09f2f1b5d31fc7bcd84efb91ccaca40bd
 org.ossreviewtoolkit.plugins.reporters	static-html-reporter	6.1.0		aee37c83149aee4c61d09c82841f054d26206b6d
 org.ossreviewtoolkit.plugins.reporters	static-html-reporter	6.1.1		0163e288fe138e65630e5e43c2e63a0aad4df920
@@ -2261,7 +2266,45 @@ org.ton	ton-kotlin-tonapi-tl-macosx64	0.4.2		N/A
 org.ton	ton-kotlin-tonapi-tl-macosx64	0.4.2	metadata	2f1102bab1d7c3cc2f2dfc8cf0d963b231f30b96
 org.ton	ton-kotlin-tonapi-tl-macosx64	0.4.3		N/A
 org.ton	ton-kotlin-tonapi-tl-macosx64	0.4.3	metadata	b0f9d25cadf4dc17fa4ed173ededdfa2cf9b4d89
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.0		563db76ffa0a446f2ac90f801e230e7e9b464d87
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.0-M1		397650a9e3776874cc6bb0a5baa695948cd377d8
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.0-M2		eca505fc34c01f6c29508e8e6546c4aa45bd3a37
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.0-M3		6dea45a39f22e831d0831b50d527a51919d58478
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.0-M4		897b3a8a896828d9ec0ed773a071849f364d050f
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.0-M5		ad452d90f3fc49822d8cb5282bcac5bf5261d343
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.1		af6076bfca93356c41e14d47b6af5c2b6e4c8dfd
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.10		8c7010538bd8dc02c684a1ff6b2ce31b468e59af
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.11		2d03cfb744ed9dc0cfbe2e0081b494d0fd229a14
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.12		bfc400ed71afefb1eeb38a4b7decb62b7e80c535
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.13		15da19ea579d2ded78b5e290ad52ec4ab7e27cec
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.14		f602a5bb8fcf7ddd126c85fe2e6a7588e5218754
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.15		9cab2e2ae85536e42b233cf5c0c7eb5de63c5a07
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.16		cb07882e92700a3b8f6d7acc779d4cf330c3d150
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.17		86ad73b3c128efcd63e7aad816023bdabf43b7b6
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.18		d22f39904b041f1dd761b7d8356dd42698452a45
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.19		a20fcfe4434a66eeeb8d84bb46a5c39293035256
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.2		c02e4fe45c44352efe5667f313d96cde6c5a4dd5
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.20		95b4aa6bdc483f0dd46d01c428872a33afa80088
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.21		dd24c37f0f746506efac49131062f293e609264a
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.22		a6d77e785fa66f72a557c444e2b4dfb428fd609b
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.3		dcb43a150fc0be0752c3db6d064ee7b40cea0303
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.4		ce822529771603b7c7e00c6643255a11117a8f1f
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.5		139ea004a22b68b1537a4b23c497269cf47472e6
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.6		0620855d192db8021915645807eaf5364a280b89
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.7		b68ac6855aa96e60c10d5539d0f043732a83dc28
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.8		e6be3ff330085bb6e5acdbee5ad362f30f8e7842
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.4.9		42d6b5cd8f7928954f9a4a44f47945b4a67beef1
 org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0		bd2c7af196bae80fe88518beb0331f7387aa9b7a
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M1		ef3d65c4542538fd83ca3974ed9bc1d60efc815b
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M10		c57e835126dd382f3dd47c025c7b2b9ae4679c31
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M2		81e3270ef8ab86df2f527d417a47172fe18582bf
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M3		629502f770e05cafc8dcd2469083e7a58080b07e
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M4		aec1482d7beb087ae2f8183861e2eaf5f8ec8924
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M5		87908a265911926fadd1fbbfd3104071e8c1e849
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M6		1983f5c851f979743bff39f79185d2199e6130c9
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M7		7d086fbb4fd36b8fc2d31f1ba914991cf46eb875
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M8		28af3d9528bc9d6267b2e92b6ea8219dda90d7dc
+org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-M9		38f08aed034ce8a05a48645ddab36dbc69dd07cb
 org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-RC1		333465e8351b68d7fd1b79946abd7c31e8fa974f
 org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-RC10		4d190669be282068ff639ba1ff76055f0df3d71e
 org.typelevel	sbt-typelevel-ci-signing_2.12_1.0	0.5.0-RC11		9c7a3214d5b260e3d6910efbbb3b46b93cb4c750

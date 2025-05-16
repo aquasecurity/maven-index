@@ -243,6 +243,8 @@ com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.62.0		493ed16274493
 com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.63.0		34cb68bd1af0d82191dcdd342e0765ea32304810
 com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.64.0		640a5ee9e4a5ef83a41ea00df735c2c7ed93330f
 com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.65.0		a22e10422f0dd51f3b1ea7188f15d04456d64e80
+com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.66.0		ea4f5ed2c991afee77f0511fa6cd14fcc1211d89
+com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.67.0		d533a12e42d05b63039243b03327e0bcae4335b8
 com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.7.0		96aefe4d0cf30d0586135e514bb35d3a25b167b2
 com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.7.1		e4f06cab51ec10fb2914968e4a5b0d4c32912f5b
 com.google.api.grpc	proto-google-cloud-datastream-v1alpha1	0.7.2		eb1ac9cd9de8b2f8483ca0c090b9a7ff8ac7b00c
@@ -331,6 +333,8 @@ com.google.cloud	google-cloud-security-private-ca	2.60.0		33fe18bf9e7a42754d3769
 com.google.cloud	google-cloud-security-private-ca	2.61.0		edd1ebb6659d35234b16084a650cfe7625cee25f
 com.google.cloud	google-cloud-security-private-ca	2.62.0		a11328a4c72a9bbaa33432188b0c85ceab036144
 com.google.cloud	google-cloud-security-private-ca	2.63.0		4dfb8edf05742749a96a8dcc5cee9d7604b3744c
+com.google.cloud	google-cloud-security-private-ca	2.64.0		f11f4b5b72705d1a018ba5e696f5767bc24c4ac1
+com.google.cloud	google-cloud-security-private-ca	2.65.0		c2a97fa85815a96167cc5fa95b689c86cf628c52
 com.google.cloud	google-cloud-security-private-ca	2.7.0		48005a3a6ce20118f3d1dccf57aba7a16da052fc
 com.google.cloud	google-cloud-security-private-ca	2.8.0		e3b8ba278720db84d46395c48e9591b355d2d898
 com.google.cloud	google-cloud-security-private-ca	2.9.0		3ba1958bd107d84952f9363a15b0e5d28b132419
@@ -1690,6 +1694,7 @@ net.wasdev.maven.tools.targets	liberty-target	24.0.0.9		N/A
 net.wasdev.maven.tools.targets	liberty-target	25.0.0.3		N/A
 net.wasdev.maven.tools.targets	liberty-target	8.5.5.8		N/A
 net.wasdev.maven.tools.targets	liberty-target	8.5.5.9		N/A
+org.apache.beam	beam-sdks-java-extensions-yaml	2.65.0		9e65b40a53f11c7669173fc1315c507818062c3f
 org.apache.beam	beam-sdks-java-io-singlestore	2.44.0		a68476244a8ed8e9c914b8c063f719a6f95c06bd
 org.apache.beam	beam-sdks-java-io-singlestore	2.45.0		5835b59cd72c6247151f797f439463c89f79f8f4
 org.apache.beam	beam-sdks-java-io-singlestore	2.46.0		2b2359a0206625d448b4551fd61c4feb75ceeeab
@@ -1713,6 +1718,7 @@ org.apache.beam	beam-sdks-java-io-singlestore	2.61.0		573468cc8a111c5e41b858c204
 org.apache.beam	beam-sdks-java-io-singlestore	2.62.0		2f7bc29b66f6aaa430faa01b9a4f9333b6560f32
 org.apache.beam	beam-sdks-java-io-singlestore	2.63.0		5fee27641efbb65f80d0dfe6d303d93ef1ab153f
 org.apache.beam	beam-sdks-java-io-singlestore	2.64.0		95fcb7089cfa2368e471517c38a0d82a9832d91b
+org.apache.beam	beam-sdks-java-io-singlestore	2.65.0		f925cbc9e484d3d27f5ddd560a8a1f4326fa1300
 org.apache.brooklyn	brooklyn-software-database	0.10.0		f244f5a47ec95684dcab812b766d611e0c20be5d
 org.apache.brooklyn	brooklyn-software-database	0.11.0		7c3aa748316e3de145482900c168067e731fa1cb
 org.apache.brooklyn	brooklyn-software-database	0.12.0		4d1a7fa85fe676e097195bb5d594f73d8129f237
@@ -2268,6 +2274,7 @@ org.wildfly	wildfly-iiop-openjdk	35.0.0.Final		a6161444b229326247d30267aa615c551
 org.wildfly	wildfly-iiop-openjdk	35.0.1.Final		d01ac5946161d5a06c1886e238c6920656530aaf
 org.wildfly	wildfly-iiop-openjdk	36.0.0.Beta1		c5c47bffa9b5d0fab497ff4f89f0d9c6893209f0
 org.wildfly	wildfly-iiop-openjdk	36.0.0.Final		586d91dcd8171c9f3b092b387d6ac4d4caaeff85
+org.wildfly	wildfly-iiop-openjdk	36.0.1.Final		ba1ca58ec0be78bf4d51b2d418f6be1ba4783c15
 org.wildfly	wildfly-iiop-openjdk	9.0.0.Beta1		b1fd4a0528ae4d393d7e7269b7e3a670ea783d29
 org.wildfly	wildfly-iiop-openjdk	9.0.0.Beta2		fb291bd21ad7537604a53312b4a6e6f4243fab7a
 org.wildfly	wildfly-iiop-openjdk	9.0.0.CR1		907278542f8889fd98e74a12af100d21443c41a8

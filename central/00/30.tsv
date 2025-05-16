@@ -826,11 +826,13 @@ de.tototec	de.tobiasroeser.mill.aspectj_mill0.7_2.13	0.4.0-6-d4c700		dbde5d3b05f
 de.tototec	de.tobiasroeser.mill.aspectj_mill0.7_2.13	0.4.0-9-a2ec81		8bd9c65b69b40b503a4026e93f45e68170018769
 de.voize	maui-kmp	0.1.0		d3734af30ea0447c07904a9a3bbae4211416c9f3
 de.voize	maui-kmp	0.1.1		d3734af30ea0447c07904a9a3bbae4211416c9f3
+de.voize	maui-kmp	0.1.10		d3734af30ea0447c07904a9a3bbae4211416c9f3
 de.voize	maui-kmp	0.1.2		d3734af30ea0447c07904a9a3bbae4211416c9f3
 de.voize	maui-kmp	0.1.3		d3734af30ea0447c07904a9a3bbae4211416c9f3
 de.voize	maui-kmp	0.1.4		d3734af30ea0447c07904a9a3bbae4211416c9f3
 de.voize	maui-kmp	0.1.7		d3734af30ea0447c07904a9a3bbae4211416c9f3
 de.voize	maui-kmp	0.1.8		d3734af30ea0447c07904a9a3bbae4211416c9f3
+de.voize	maui-kmp	0.1.9		d3734af30ea0447c07904a9a3bbae4211416c9f3
 de.weltraumschaf.commons	jcommander	1.0.1		242c035130f20bf30b630c773bd17d3449ede44c
 de.weltraumschaf.commons	jcommander	1.1.0		c6fb172e5434cdd272dd0e698247c91ec177182f
 de.weltraumschaf.commons	jcommander	1.1.1		c84376f71ffb6c9beeae7b4493a9756254dde37d
@@ -1251,6 +1253,7 @@ io.quarkus	quarkus-elytron-security-common	3.15.2		e0d855a332734754c9dfd119d5a92
 io.quarkus	quarkus-elytron-security-common	3.15.3		8f3dc33dd974dae1c39599458f234640936cf833
 io.quarkus	quarkus-elytron-security-common	3.15.3.1		6a2cc7a675ba169ecc62eca14358fa7e4c6ac1bd
 io.quarkus	quarkus-elytron-security-common	3.15.4		7417bd16e016c2adcf4aa49675e3deb032c0bbfe
+io.quarkus	quarkus-elytron-security-common	3.15.5		9e3b9e8f0d63b1714c277d39f6c6e89f38d8a51b
 io.quarkus	quarkus-elytron-security-common	3.16.0		a8a49811372df567416df82712ea20726cb8f122
 io.quarkus	quarkus-elytron-security-common	3.16.0.CR1		5f74de2110e5e294ca07255b38df96b3cb33601a
 io.quarkus	quarkus-elytron-security-common	3.16.1		861745ca5b27d012a5c684a8b54b05233a33dd29
@@ -1295,6 +1298,7 @@ io.quarkus	quarkus-elytron-security-common	3.2.8.Final		96cb9206dce51f91400b1376
 io.quarkus	quarkus-elytron-security-common	3.2.9.Final		8b88bd3d7546a08301d8ccfc951aca8b6f5a1f22
 io.quarkus	quarkus-elytron-security-common	3.20.0		2de5807523a961d3d5641e53562eeba2914b22b9
 io.quarkus	quarkus-elytron-security-common	3.20.0.CR1		4285bd579c36f818b5c8585b08f02fdece7c0bc2
+io.quarkus	quarkus-elytron-security-common	3.20.1		d26f8c890b09accd1e1fd0db049d1bd6fd7eb60d
 io.quarkus	quarkus-elytron-security-common	3.21.0		a4c66de66155bc494777ee6f65576f4d061f0697
 io.quarkus	quarkus-elytron-security-common	3.21.0.CR1		d3fcbeb5ac5f63af7aecee8e3748058d6b2c94b2
 io.quarkus	quarkus-elytron-security-common	3.21.1		aa84ce1b91bc0fc47298f6be9696932f5c7f58b3
@@ -1304,6 +1308,9 @@ io.quarkus	quarkus-elytron-security-common	3.21.4		f9b7e2ebd4b2140a3dcbedfce14a3
 io.quarkus	quarkus-elytron-security-common	3.22.0		a4bfd89b578c7fb0683b7a37ab49e541d0ba3cfb
 io.quarkus	quarkus-elytron-security-common	3.22.0.CR1		eb4faf998c9f633612795ffb1c21045f297c80e7
 io.quarkus	quarkus-elytron-security-common	3.22.1		5b972692cfa0631f918aa4c834ab4157bf01510d
+io.quarkus	quarkus-elytron-security-common	3.22.2		64a015a34052f6836283a96dc1b99c6b3fdad9a0
+io.quarkus	quarkus-elytron-security-common	3.22.3		3b491d6809895f4b61a6ea947dd6fb4579445651
+io.quarkus	quarkus-elytron-security-common	3.23.0.CR1		3185a7c2a299c9a56a745682669367e31dd6dc09
 io.quarkus	quarkus-elytron-security-common	3.3.0		e908bcfa6d2449e5ee37d5e03e6eda14612ad7e8
 io.quarkus	quarkus-elytron-security-common	3.3.0.CR1		6d32a84356096045771261732d4d5fa677b79782
 io.quarkus	quarkus-elytron-security-common	3.3.1		c0abbe6513587df21d77964595f4ff740b374a77
@@ -1645,6 +1652,7 @@ org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.2.1		c576e97439d67d425b3f0c14b
 org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.2.2		2e6d1127fd8f93a803fb2edec3fcade1c01b1ab2
 org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.2.3		2751e762a460b5a4a2f98a1c0ae8d0d8bd48f53f
 org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.20.0		f8e66d43a560808467e95bc53bb2fd21c78caa2b
+org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.20.1		c9fbc370a85627c8b2cfa2baee69fa2db1779d2f
 org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.22.0		4714656c1a34cdd2878d41b8b863a7ea92b1f398
 org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.4.0		0dc3a93c4a39ba85fa122bbfe151125bd559de84
 org.apache.camel.quarkus	camel-quarkus-aws2-msk	3.5.0		bd7bbebcb0f5b1d0129516a1603228c6229723a9

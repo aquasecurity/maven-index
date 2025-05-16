@@ -2071,6 +2071,7 @@ com.rickbusarow.kase	kase	0.1.0		716b3765e761c5c4b98c17cc025957920a003b42
 com.rickbusarow.kase	kase	0.10.0		5e0faa7812e65bd53d517c6153c1475d1d7230b9
 com.rickbusarow.kase	kase	0.11.0		51c38e871dd28dae5715aa99f92809a0ea12186c
 com.rickbusarow.kase	kase	0.11.1		c4ceb2e05adb8617521467849dacbd3e3758a274
+com.rickbusarow.kase	kase	0.12.0		13172086e40c42546aaf7207c94afffce33c19fe
 com.rickbusarow.kase	kase	0.2.0		fb6d96fc07465a8f8dc669e6e80ff85ca3f1b050
 com.rickbusarow.kase	kase	0.3.0		d61b0d2eaf105650ec8e416da80f96c9828f8e64
 com.rickbusarow.kase	kase	0.4.0		a301ae73b8aa143021a1cefbc1ad126e6c6aa55b
@@ -2803,6 +2804,7 @@ org.apache.xmlgraphics	batik-squiggle-ext	1.15		8f8fef73aaadbc07a52831318c296899
 org.apache.xmlgraphics	batik-squiggle-ext	1.16		ddba6c7c056544eaa77fce35737252117c5f2354
 org.apache.xmlgraphics	batik-squiggle-ext	1.17		a2f91557ac3f07260c543bd38890af5c2d09f794
 org.apache.xmlgraphics	batik-squiggle-ext	1.18		e488ba97934f8f39f835b33cfe1bd12763283205
+org.apache.xmlgraphics	batik-squiggle-ext	1.19		9ac0b1a86315c02fb83d41c4f5b235a5af820c9b
 org.apache.xmlgraphics	batik-squiggle-ext	1.7		fcd42c88e15a56b0dee8d6902f2eebd8a6080a42
 org.apache.xmlgraphics	batik-squiggle-ext	1.8		e6eb4d0a04525afa6f1847bc0fc1b567bb22c2ee
 org.apache.xmlgraphics	batik-squiggle-ext	1.9		b5315a78723321ff9df14b6b8ef64a5e39fcbe42
@@ -2890,6 +2892,7 @@ org.eclipse.pass	pass-core-user-service	1.9.0		6fad2e58818ad05b54d2e015fa6c3d97f
 org.eclipse.pass	pass-core-user-service	1.9.1		80540e78f4734d3ed441258389c06cbac0cbd23c
 org.eclipse.pass	pass-core-user-service	2.0.0		db6685008a9f6a8cbb5e19133f70a96a4a597139
 org.eclipse.pass	pass-core-user-service	2.1.0		170836f89cb3331600a57b60fa8aaeb669323631
+org.eclipse.pass	pass-core-user-service	2.1.1		ac3a3b92564bcc3fe9b7b5c04d8778f6700833f3
 org.eclipse.persistence	org.eclipse.persistence.extension	2.6.1		cd7a310e8bdbcce6825044437f42edf3389ab964
 org.eclipse.persistence	org.eclipse.persistence.extension	2.6.1-RC2		cd7a310e8bdbcce6825044437f42edf3389ab964
 org.eclipse.persistence	org.eclipse.persistence.extension	2.6.2		ab7391fd692f3d623c255cf52b8a6db135cfe64a
@@ -3351,10 +3354,17 @@ org.finos.legend.engine	legend-engine-executionPlan-execution	4.8.0		22d29fa241c
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.80.0		1fb8bbb365d29dd49c38b96b507721ba384065cc
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.81.0		11932977d301cd7e85539b712f3ed9b405285011
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.82.0		7f18e887bb16c1db1c689e46ac3a37593fa054e0
+org.finos.legend.engine	legend-engine-executionPlan-execution	4.82.1		806b1299f55ff959935b71a87147a0c7a43fff3f
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.83.0		5b593a47943c22e3ab58eb6e66e6d2a800db64cb
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.83.1		94aea7a4c8f4c83dca3bed2d2208a579b97b8096
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.83.2		0352d50cbf9359bb17747762f49cc0893fd3825d
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.83.3		8ed01a54897af685a0bf3108089c17ef2fafb179
+org.finos.legend.engine	legend-engine-executionPlan-execution	4.84.0		e21e43b50565cb3a6587ef1fee972a9c4c785a1d
+org.finos.legend.engine	legend-engine-executionPlan-execution	4.84.1		6fe3223dde876319ca1d765b88861e64430c0793
+org.finos.legend.engine	legend-engine-executionPlan-execution	4.85.0		4fed3aba05466959159748c3080cfa84d379ccdd
+org.finos.legend.engine	legend-engine-executionPlan-execution	4.85.1		7eb4715958a08fda453114db89d4020dfc3d3f90
+org.finos.legend.engine	legend-engine-executionPlan-execution	4.85.2		f2b0bc24713119053f7f94a8396f30854c609c38
+org.finos.legend.engine	legend-engine-executionPlan-execution	4.85.3		f76a034514fc2298a080d750ef185bd40219c65b
 org.finos.legend.engine	legend-engine-executionPlan-execution	4.9.0		ad4bd56b6bcec29c22ab527953207e751c944bfb
 org.glassfish.main.packager	glassfish-management-l10n	4.0		N/A
 org.glassfish.main.packager	glassfish-management-l10n	4.0-b33		N/A
@@ -3406,6 +3416,7 @@ org.openrewrite.recipe	rewrite-codemods-ng	0.8.0		256234a18b7c28648240463bbbb085
 org.openrewrite.recipe	rewrite-codemods-ng	0.8.1		37d4fbb16283f40193262a52246f0c546950100c
 org.openrewrite.recipe	rewrite-codemods-ng	0.8.2		f0315684cd2cc80cb760383007d45c8300ca7727
 org.openrewrite.recipe	rewrite-codemods-ng	0.8.3		45ebb539c34bdb4625bc361bb49264b776fda400
+org.openrewrite.recipe	rewrite-codemods-ng	0.9.0		23463b230c05dffd1eaeecb9453e630dd2f1ee7a
 org.ops4j.pax.web.samples	container-bundle-2	8.0.0		8e62dee90b38d14da953e57e2c8318051d5fcf82
 org.ops4j.pax.web.samples	container-bundle-2	8.0.1		a37df73a9d7f6f595d837207750c4c6d84f1685c
 org.ops4j.pax.web.samples	container-bundle-2	8.0.10		2e07174cfa12d60c6d14f045588a3bfad8c7e50a
@@ -3615,6 +3626,7 @@ org.wildfly.security	wildfly-elytron-http	2.1.0.Final		e4d2ffc5b64b9dd9b05971474
 org.wildfly.security	wildfly-elytron-http	2.2.0.Final		8b5a626d6d81d6fcfb29ea1a399e970c35200ae7
 org.wildfly.security	wildfly-elytron-http	2.2.1.Final		b696ac835507b72b7514a389e8a00e01230e4ea8
 org.wildfly.security	wildfly-elytron-http	2.2.10.Final		c3dd7b6a3fc81d8e1e9a19f2caeb597c9aac6ab7
+org.wildfly.security	wildfly-elytron-http	2.2.11.Final		2cc68ab887301838724054bf3d1179fd19865274
 org.wildfly.security	wildfly-elytron-http	2.2.2.Final		5235a2332f222ff59e1c37903a81214f619b4310
 org.wildfly.security	wildfly-elytron-http	2.2.3.Final		45d46da8e7cd5f9b593e645d41a1cfb622009de4
 org.wildfly.security	wildfly-elytron-http	2.2.4.Final		944839299e76898464b5ca4ec910919c2b17a38d
@@ -3637,6 +3649,7 @@ org.wildfly.security	wildfly-elytron-http	2.6.0.Final		98ee7d54bf7e9948f3bd521c0
 org.wildfly.security	wildfly-elytron-http	2.6.1.Final		4c40dab06826f18e8cafab90de8a6076aab2d882
 org.wildfly.security	wildfly-elytron-http	2.6.2.Final		b60bfe976de47f6dd242b92a962386390400585e
 org.wildfly.security	wildfly-elytron-http	2.6.3.Final		849d1bc5114dcd7c6df890de679e799167bd2976
+org.wildfly.security	wildfly-elytron-http	2.6.4.Final		9b4d7364c201baa8d4dd36082dfaf5dd1c18705c
 org.wso2.carbon.business-process	org.wso2.carbon.humantask.skeleton	4.3.0		49534c053736b8f7c0d2a7f885975a1bc2814b8f
 org.wso2.carbon.business-process	org.wso2.carbon.humantask.skeleton	4.3.1		006919b8f76e4aff825d7ca1fbf2b08988d1af23
 org.wso2.carbon.business-process	org.wso2.carbon.humantask.skeleton	4.4.0		243627b088224edd114010a187d10181c539c089

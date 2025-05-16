@@ -117,6 +117,7 @@ com.atlassian.bamboo	bamboo-specs-runner	10.2.2-m02-BAM-14706-3		e4206a5035a3489
 com.atlassian.bamboo	bamboo-specs-runner	10.2.3		08a55a2d11d920dc4b3102d431872aafd5c389cf
 com.atlassian.bamboo	bamboo-specs-runner	10.2.3-m01		870cd248a5c96526a7bb997996b136955ae279de
 com.atlassian.bamboo	bamboo-specs-runner	10.2.3-m03		72226f385b79f94f16006f1a81a2448c68fa60d8
+com.atlassian.bamboo	bamboo-specs-runner	10.2.4		12509933f3abdb8cac648dcb305e8b8cfbe550fb
 com.atlassian.bamboo	bamboo-specs-runner	10.2.4-m01		e7111b14731e2390b7c5f9b46b8a77c4a02d5d11
 com.atlassian.bamboo	bamboo-specs-runner	11.0.0		047be167fb47dcadb283fc3c7ca04e788a5bfdda
 com.atlassian.bamboo	bamboo-specs-runner	11.0.0-m01		a17312768c06b95501c3d67255290c43dd92cc3a
@@ -125,6 +126,7 @@ com.atlassian.bamboo	bamboo-specs-runner	11.0.0-rc1		eff4aa74baf21271d35f909609b
 com.atlassian.bamboo	bamboo-specs-runner	11.0.0-rc2		d3bcc40c06431a4ec852da01e4d0484655b5b5b9
 com.atlassian.bamboo	bamboo-specs-runner	11.0.0-rc3		11a84f8f898f3d26b5bdb830becff11f4688f0cf
 com.atlassian.bamboo	bamboo-specs-runner	11.0.0-rc4		abc13e649f579c4b3e7c063376f30bbb3a4d96a3
+com.atlassian.bamboo	bamboo-specs-runner	11.0.1		8db36269e30f53cc71d6d6f46ea8150c7f137b2b
 com.atlassian.bamboo	bamboo-specs-runner	6.0.0		83e8fc8125d13f7c15c6ed58e97b51caa0eaf3de
 com.atlassian.bamboo	bamboo-specs-runner	6.0.1		db32fd81255ecfb4471bea10272e3710daaa388e
 com.atlassian.bamboo	bamboo-specs-runner	6.0.2		1ffe49284551a0b5103f88628990be80a741bb1d
@@ -340,6 +342,7 @@ com.atlassian.bamboo	bamboo-specs-runner	9.6.10		0062b5b6e1dfbd9c9273aee5e509d8b
 com.atlassian.bamboo	bamboo-specs-runner	9.6.11		95d0116100a6894339f7c69530b788e6205e06ff
 com.atlassian.bamboo	bamboo-specs-runner	9.6.12		faef7e041917e93a1fa8466c2665b08bfa5df285
 com.atlassian.bamboo	bamboo-specs-runner	9.6.12-m01		594190206bf044236134d7a461f5e466679ddcb9
+com.atlassian.bamboo	bamboo-specs-runner	9.6.13		a469bfe9a4a41a422c2556d374913bc8b4d23d01
 com.atlassian.bamboo	bamboo-specs-runner	9.6.13-m01		9baa8062cebae2f5305bc0372ee1c035cbce930e
 com.atlassian.bamboo	bamboo-specs-runner	9.6.2		d5c37f7303fca45ac670d629ca787fb965736c42
 com.atlassian.bamboo	bamboo-specs-runner	9.6.3		3c576abdb15f6947f4e461d14cc9a6929a51d7ad
@@ -574,6 +577,12 @@ com.walmartlabs.concord.plugins	confluence-task	2.4.0		63f72fac68a2112d96d75ecae
 com.walmartlabs.concord.plugins	confluence-task	2.5.0		e8a0784b8970db2a3af4b5a3647881e54e2ca9c2
 com.walmartlabs.concord.plugins	confluence-task	2.6.0		14066fb24f694b0495a6e6e23750530fbeb94f74
 com.walmartlabs.concord.plugins	confluence-task	2.7.0		7d5e34d5fa8b2fa77486757f6e44e56b46a5360f
+eu.akkamo	sbt-akkamo_2.10_0.13	1.0.0		fbab2eb45a7e41caebea417a70ee6363ec11010a
+eu.akkamo	sbt-akkamo_2.10_0.13	1.0.1		7d2443abb1246d4498b8c14cc7f90dd307e9926e
+eu.akkamo	sbt-akkamo_2.10_0.13	1.0.2		7401a1859d7e65a057589257f1532c839f0f3aeb
+eu.akkamo	sbt-akkamo_2.10_0.13	1.0.3		3baebb768e696a710b06a2beee9562729bd8b34c
+eu.akkamo	sbt-akkamo_2.10_0.13	1.0.4		50ca487386745022e57e313e4df5f2fb7676b879
+eu.akkamo	sbt-akkamo_2.10_0.13	1.0.5		61b271ee5b784a2ca3b86ea27f5fac330021b00b
 eu.cedarsoft.commons	lookup	1.0		18b5a7ff994591b2a905edef156e0c6e20275606
 hk.jerry.spg	processor	1.0.4-rc1		668c8477cf82859f574d76f431a08e40c24d3c85
 hk.jerry.spg	processor	1.0.4-snapshot		f566bfac579a3661ba851571beb4c53a624821f4
@@ -610,6 +619,7 @@ io.aeron	aeron-test-support	1.47.1		6773b560d99ba268ab31af5001218f4f005be839
 io.aeron	aeron-test-support	1.47.2		9e439d3ffc4325a18934c560659c6fab60a5c18b
 io.aeron	aeron-test-support	1.47.3		deeead02baa592a3a1acda0b4d42fbce3cb26069
 io.aeron	aeron-test-support	1.47.4		08fdbeabe7eaa3fd0eda9c9be9fe5dc94da5955d
+io.aeron	aeron-test-support	1.47.5		8ae03660eb61782616a0c2117a9c137f3d3a743e
 io.github.ablearthy	td-tl-parser_2.13	1.0.2		e38432c6062f9d8bd62722ce62e97108d863ebbe
 io.github.ablearthy	td-tl-parser_2.13	1.0.3		c90dc4759eb76f25d03f27023196d2a91f06d0e9
 io.github.amonglang	among	0.4.0		a2f4aaf2fe164ea189a23fd58239fd5b187c83ac
@@ -639,6 +649,7 @@ io.github.davidwhitlock.cs410J.original	apptbook-web	2024.0.0		N/A
 io.github.davidwhitlock.cs410J.original	apptbook-web	2024.0.0	client	3245e29b952723c9a426827dbef9ad391a75118f
 io.github.davidwhitlock.cs410J.original	apptbook-web	2024.0.1		N/A
 io.github.davidwhitlock.cs410J.original	apptbook-web	2024.0.1	client	7eaa735d1fbb979a073ffa940d26d9086e431f27
+io.github.fp-flagellant	sbt-package-locker_2.12_1.0	0.0.1		be5480d2c38361db8fe8bddcdcf00a5566629c75
 io.github.gmazzo.codeowners	base-plugin	2.0.0		40b67051fc05830d5833a3bd492cd8d926d463a2
 io.github.gmazzo.codeowners	base-plugin	2.0.1		4c9950eca9f6805d69e669089f5563d2b86f6bf6
 io.github.gmazzo.codeowners	base-plugin	2.0.2		99f7c889e8a144a2e63fb3f25a0baa6db09745e3
@@ -688,6 +699,7 @@ io.ktor	ktor-server-cio-mingwx64	3.0.3		fc658a8be770fa93dfcc74d55d80a6be271bd25e
 io.ktor	ktor-server-cio-mingwx64	3.1.0		e8f8920a21711c6ca8ba59a35dc632cfbd783c7f
 io.ktor	ktor-server-cio-mingwx64	3.1.1		b1e1f52197d724e8860ea3d04d8ed4ff94c695c5
 io.ktor	ktor-server-cio-mingwx64	3.1.2		6639f2eac5713c7381079576df7e9710bd545d23
+io.ktor	ktor-server-cio-mingwx64	3.1.3		cf1916e64c497fec820572ca4c01b7c695b4997c
 io.mraa.at.upm	upm_adxl335	1.2.0		N/A
 io.mraa.at.upm	upm_adxl335	1.3.0		N/A
 io.mraa.at.upm	upm_adxl335	1.5.0		N/A
@@ -1107,6 +1119,8 @@ org.graceframework	grace-spring-boot	2023.2.0-M3		eb3ddd12341361527562370ce658c0
 org.graceframework	grace-spring-boot	2023.2.0-RC1		0d73553690dda750b2b445f1137776e2ab9a3a26
 org.graceframework	grace-spring-boot	2023.3.0-M1		0be2d8a131fc88c7ba131cfc9794580eaf3bc3c6
 org.graceframework	grace-spring-boot	2023.3.0-M2		0d8dd8d28dc5aa427c64c05ce32316fab93f54e0
+org.graceframework	grace-spring-boot	2023.3.0-RC1		3f0df5b00a8f33676029f431d79c64a01cf5b3ec
+org.graceframework	grace-spring-boot	2023.3.0-RC2		c70538903258e08bf15c2b23fd3bfb3d81786e6a
 org.j3d	aviatrix3d-extensions	3.0.0		ffa0d757fd6d71e226fff577c2d4137140667561
 org.j3d	aviatrix3d-extensions	3.0.0-		e15632ad04ffb2ce064828e70dcf24f329f7b482
 org.j3d	aviatrix3d-extensions	3.0.0--RC3		6a692133307315fabcbd82095b5c276eeb67cac8

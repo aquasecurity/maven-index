@@ -139,6 +139,11 @@ com.disneystreaming.smithy	aws-resource-explorer-2-spec	2023.23.06		438c691800e1
 com.disneystreaming.smithy	aws-resource-explorer-2-spec	2023.23.30		310e3fa42a2b2086e18c629adae05d38d9dae66e
 com.disneystreaming.smithy	aws-resource-explorer-2-spec	2025.03.31		87c40ba327eb905a8b8cb2d15c4c4de8fb8fbafc
 com.disneystreaming.smithy	aws-resource-explorer-2-spec	2025.04.08		f12c2513921dadf57909f8c477517b48d5bc1fb4
+com.enfore	sbt-openapi_2.12_1.0	1.3.2		bd79422f55bee4656254c784710aa1202b80d00c
+com.enfore	sbt-openapi_2.12_1.0	1.3.3		4a026b1c57a549c69ddf3e0a530974382671b322
+com.enfore	sbt-openapi_2.12_1.0	1.3.4		3983fb2e1bec27a09113dbd20c6051ff488cd26b
+com.enfore	sbt-openapi_2.12_1.0	1.3.5		d959085ff70a45c8cd2d156adf5cc1f60bfefc2a
+com.enfore	sbt-openapi_2.12_1.0	1.3.6		73e80ebe0211c42f852402df69d1d44aa0d886cd
 com.episode6.redux	store-flow-watchossimulatorarm64	1.0.0		N/A
 com.episode6.redux	store-flow-watchossimulatorarm64	1.0.0	metadata	ea977e9d667b14cbda0e07b953f8ddeb18a28299
 com.episode6.redux	store-flow-watchossimulatorarm64	1.0.0-alpha03		N/A
@@ -236,6 +241,7 @@ com.github.xuwei-k	play-twenty-three-generator_2.11	0.1.1		d0cf69f251a5b1d8367c6
 com.github.xuwei-k	play-twenty-three-generator_2.11	0.1.2		89f6cee1b478352054fccf4ad932a75476bfc8a4
 com.github.xuwei-k	play-twenty-three-generator_2.11	0.1.3		1c7260db04630fe4e7e017014688f597a00bcb50
 com.github.xuwei-k	play-twenty-three-generator_2.11	0.2.0		b709daeabaacfd2216f2df0c5970485da00b516d
+com.github.xuwei-k	sbt-warning-diff_2.12_1.0	0.1.0		77cf6232e18fd6e0ed939bd51ccf7e7809aacff3
 com.github.xuwei-k	sbt-warning-diff_2.12_1.0	0.1.1		f09d01d96f2060c9b9cfadfee555f518fc1b41cd
 com.github.xuwei-k	sbt-warning-diff_2.12_1.0	0.2.0		f01b6436767b53aa6c8782dae9038642c20b08aa
 com.github.xuwei-k	sbt-warning-diff_2.12_1.0	0.2.1		9f762ef1f10bd1f77bf9644502548cf40c5822c1
@@ -1191,8 +1197,10 @@ com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALP
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-42	metadata	ed8af6aad334d269ce1e1d140ef6e4f44df0fbf1
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.1.21-RC		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.1.21-RC	metadata	7c236ccf1d63c3bb2a80ca2dceaa7015af03fce1
+com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.1.21-RC2	metadata	8f1294882a45b2650130f38587f561b77806d97e
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-42-kotlin-2.2.0-Beta1	metadata	1439a48a5c5c02003a6d3ab6e5779fb8bc446974
+com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-43	metadata	dfa0a88c33735de2f9d840b61f582079e4470922
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-5		N/A
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-5	metadata	6ae66d39dd33a1426eac1338d2f48c4aac66fcde
 com.rickclephas.kmp	kmp-nativecoroutines-annotations-iossimulatorarm64	1.0.0-ALPHA-5-kotlin-1.8.20-Beta		N/A
@@ -1213,6 +1221,7 @@ com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-1		ce86ed317f84d
 com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-1-kotlin-2.0.0-RC2		cf11645c240e202453820d9cea81721f2e404283
 com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-10		6bcd47110a62bf97386c6e780bdc9d7dc22f1b14
 com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-10-kotlin-2.1.21-RC		6bcd47110a62bf97386c6e780bdc9d7dc22f1b14
+com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-10-kotlin-2.1.21-RC2		6bcd47110a62bf97386c6e780bdc9d7dc22f1b14
 com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-10-kotlin-2.2.0-Beta1		c149f543caaaa37f591472f7146de500b3d70012
 com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-2		ce86ed317f84dc8e0e3f6f7bd5ab993d9ef9d081
 com.rickclephas.kmp	kmp-observableviewmodel-core-jvm	1.0.0-BETA-2-kotlin-2.0.0-RC3		cf11645c240e202453820d9cea81721f2e404283
@@ -1629,6 +1638,7 @@ io.sentry	sentry	8.10.0-alpha.1		c513875a76cdcc44ac3794329789850ea150a351
 io.sentry	sentry	8.11.0		6e9c0be3a9e85c4061aebb36a015bdf9d0a3edc1
 io.sentry	sentry	8.11.0-alpha.1		d82705626d200dd59a989f76488481cb252b6c9d
 io.sentry	sentry	8.11.1		5a7ebd928ce73c4f8e3acc61e7e804af241c8f4c
+io.sentry	sentry	8.12.0		331ac8a729b07fa230b61858aee46c164a7e2ba0
 io.sentry	sentry	8.2.0		250ac42716a2d5cc89f4856eea587a38cc5810e8
 io.sentry	sentry	8.3.0		d405ee28d4fe000f2cc6cf46d45db53aa6a7cc02
 io.sentry	sentry	8.4.0		d40533c613e3b93fcbab945f7a41cfcba6599060
@@ -1939,6 +1949,7 @@ org.eclipse.ditto	ditto-internal-utils-tracing	3.7.0		dee9d3a667bbc9fdef5e179f19
 org.eclipse.ditto	ditto-internal-utils-tracing	3.7.1		b356f812adf2f13f449d2891f533446abe436e50
 org.eclipse.ditto	ditto-internal-utils-tracing	3.7.2		33e804fcbb0badebd442d10ed82014e13a4ec5f7
 org.eclipse.ditto	ditto-internal-utils-tracing	3.7.3		2ec23d6ef0683ae9b5c0588b00570ea82d2e78ce
+org.eclipse.ditto	ditto-internal-utils-tracing	3.7.4		f6e64b6166b6556452963a8d6ce914fa4012df77
 org.fcrepo	modeshape-connector-git	5.4.1.fcr		86f7c3dabad78c5e5afcfe0a55c43d0892ae39b2
 org.fcrepo	modeshape-connector-git	5.5.0.fcr		f53276f37bb61ee7f8ee0c1b40a2c357f9609d9a
 org.fcrepo	modeshape-connector-git	5.5.1.fcr		ebd4319de52a3371d5cf4771836520a7c13b7329
@@ -2230,6 +2241,7 @@ org.opennms.features.telemetry	org.opennms.features.telemetry.api	33.1.2		d49412
 org.opennms.features.telemetry	org.opennms.features.telemetry.api	33.1.3		f0f98afe01ee6e0af5e1e0165e5229b1e147d322
 org.opennms.features.telemetry	org.opennms.features.telemetry.api	33.1.4		1d7d59dbed19732891a361c8ce0fa9653837c8cf
 org.opennms.features.telemetry	org.opennms.features.telemetry.api	33.1.5		e54eb0352a23463696167b3f8963defe506c03e8
+org.opennms.features.telemetry	org.opennms.features.telemetry.api	33.1.6		54de742d69c0bddff3d29d154b674b5e3baaf3b0
 org.oxerr.seatgeek.client	seatgeek-client-rescu	0.0.10		23c919df11f2e039d2174a072621f6b532969a25
 org.oxerr.seatgeek.client	seatgeek-client-rescu	0.0.11		8fdfa9a6989b15daf74ecc8e5336f22b530125f4
 org.oxerr.seatgeek.client	seatgeek-client-rescu	0.0.8		05cf014575e65f05efe28365d217fa28074c24e3

@@ -429,7 +429,16 @@ aws.sdk.kotlin	mediaconvert-jvm	1.4.73		f7bca7893693ef16722cc718a48b0373796a0cf7
 aws.sdk.kotlin	mediaconvert-jvm	1.4.74		d619cdf94eb254e6d2861f4338fbcbfe4455239d
 aws.sdk.kotlin	mediaconvert-jvm	1.4.75		a397183a88b06ab92d5705f816b88a2b694dd33e
 aws.sdk.kotlin	mediaconvert-jvm	1.4.76		07c947de09af48f638ad92e9be2336c0415606c8
+aws.sdk.kotlin	mediaconvert-jvm	1.4.77		99084e74336094679270cf0485db247c48629c70
+aws.sdk.kotlin	mediaconvert-jvm	1.4.78		fcfbf5d8ba10ad79bb36de0cfb27d20d737d8148
+aws.sdk.kotlin	mediaconvert-jvm	1.4.79		05af46d00554cc1617543524d1ecd478e4733ac2
 aws.sdk.kotlin	mediaconvert-jvm	1.4.8		896d26f59d598487f5913e5ff726137096d7c562
+aws.sdk.kotlin	mediaconvert-jvm	1.4.80		25a14208acbc370ebab6a12a25e880862f4f0c11
+aws.sdk.kotlin	mediaconvert-jvm	1.4.81		c379949ddac9a3e3ca8dad16817b9d03eade660e
+aws.sdk.kotlin	mediaconvert-jvm	1.4.82		3bc25a136924d9b9eba9cc3327f4683313b778a6
+aws.sdk.kotlin	mediaconvert-jvm	1.4.83		c8e82ba15fd9186cfe62b8bc7fe6a40b28815cc5
+aws.sdk.kotlin	mediaconvert-jvm	1.4.84		0a2a8a879adcbc9d4764aae72019df80a0b11103
+aws.sdk.kotlin	mediaconvert-jvm	1.4.85		e177f717777e038f0583d224b3f4e8fa271600ea
 aws.sdk.kotlin	mediaconvert-jvm	1.4.9		5c2415383786c5061888ea1c795573d7a99efe19
 com.aallam.similarity	string-similarity-kotlin-androidnativearm32	0.1.0		N/A
 com.amazonaws	aws-android-sdk-apigateway-core	2.10.0		d5a342ebf5c16b3b12930ba1d6a5b325d3ddc740
@@ -766,6 +775,7 @@ com.google.cloud	google-cloud-valkey-spring-starter	5.11.0-preview		ce567ac61f2b
 com.google.cloud	google-cloud-valkey-spring-starter	5.11.1-preview		6b12f519688d34062001a816b2f6198ad71c14b5
 com.google.cloud	google-cloud-valkey-spring-starter	5.11.2-preview		0651a4a29b08ad7a40c10f4ec4165688d62d570e
 com.google.cloud	google-cloud-valkey-spring-starter	5.11.3-preview		c17668e72aa59d4f41632c2e06044408946d6f4a
+com.google.cloud	google-cloud-valkey-spring-starter	5.12.0-preview		4b6514a28352bfa88d471695619b11ebd404033b
 com.google.cloud	google-cloud-valkey-spring-starter	6.0.0-preview		acc595b0da0faf2efe5bf68479d38dea262d9423
 com.google.cloud	google-cloud-valkey-spring-starter	6.0.1-preview		cf7ef56491cf52bb3287f17d623e66e2811fdb3c
 com.google.cloud	google-cloud-valkey-spring-starter	6.1.0-preview		18e3daf37f31262f4d5b4e2e98cec45c79727708
@@ -1060,6 +1070,7 @@ community.flock.wirespec.plugin.arguments	arguments-jvm	0.12.9		57fb7455d8b0f626
 community.flock.wirespec.plugin.arguments	arguments-jvm	0.13.0		991288985c86fc48970e8a5c68bab411ed05bdf8
 community.flock.wirespec.plugin.arguments	arguments-jvm	0.13.1		991288985c86fc48970e8a5c68bab411ed05bdf8
 community.flock.wirespec.plugin.arguments	arguments-jvm	0.14.10		198b6bba7a225cd5453433b7b830e00e64676242
+community.flock.wirespec.plugin.arguments	arguments-jvm	0.14.11		198b6bba7a225cd5453433b7b830e00e64676242
 community.flock.wirespec.plugin.arguments	arguments-jvm	0.14.3		991288985c86fc48970e8a5c68bab411ed05bdf8
 community.flock.wirespec.plugin.arguments	arguments-jvm	0.9.10		687c4c5bb12fd18dcd61247c150b73fbe70c1db7
 community.flock.wirespec.plugin.arguments	arguments-jvm	0.9.15		721a1d4a54653622ca139017b4061f38113b57ea
@@ -1446,6 +1457,7 @@ io.inugami.monitoring.providers	inugami_monitoring_providers_els	3.3.2		0df922e5
 io.inugami.monitoring.providers	inugami_monitoring_providers_els	3.3.3		d96298c4ef848d0ca2bc0ea8896ac5cabac4c0b9
 io.inugami.monitoring.providers	inugami_monitoring_providers_els	3.3.4		bf83cb1acb3252e7ef7d87eaa88ba781e91edf9c
 io.inugami.monitoring.providers	inugami_monitoring_providers_els	3.3.5		87d49cec44cd03ae820bbabf0af7e213305bb1f7
+io.micronaut.servlet	micronaut-http-server-tomcat	.9.3		3592e22c1faa1e81f14f31374ad69b98a6d099b0
 io.micronaut.servlet	micronaut-http-server-tomcat	1.0.0		c1ab7b3eeada9cc19d94a8586071dbfbda39da83
 io.micronaut.servlet	micronaut-http-server-tomcat	1.0.0.M1		13ed0861124b853e9c9e3a28d762cfbfc8497ace
 io.micronaut.servlet	micronaut-http-server-tomcat	1.0.0.M2		5f1dafb339b8a979064bf8532892aa6fe4493a36
@@ -1622,6 +1634,7 @@ org.camunda.community.rest	camunda-platform-7-rest-client-spring-boot	7.22.1		99
 org.camunda.community.rest	camunda-platform-7-rest-client-spring-boot	7.22.2		2f6169432925ed3ddc60ea1de7d7e3422c08dec7
 org.camunda.community.rest	camunda-platform-7-rest-client-spring-boot	7.22.3		478e09acc8568655f29107573c60c8859d8e5219
 org.camunda.community.rest	camunda-platform-7-rest-client-spring-boot	7.22.4		ff412fb58de5849f49a7a81996f2107e04c38389
+org.camunda.community.rest	camunda-platform-7-rest-client-spring-boot	7.23.0		4eeee2c6d19d0e1e6bed6eb08158c6f70fa955ee
 org.coodex	concrete-apache-dubbo	0.4.0		e35d578c29605c1031da6507cdac38cf10f671a9
 org.coodex	concrete-apache-dubbo	0.4.0-RC3		023ec7f7435bd168934fe1ff0d50108f22cceb55
 org.coodex	concrete-apache-dubbo	0.4.1		131b71ce0131b61da8e72a9ff686abb59580d5c3

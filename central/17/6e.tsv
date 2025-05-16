@@ -756,7 +756,12 @@ com.swirlds	swirlds-fchashmap	0.61.1		962f31f435975c885e136a8b50f37bf78588f874
 com.swirlds	swirlds-fchashmap	0.61.2		7f50d5c73802a5b8c78802744416374a01018a85
 com.swirlds	swirlds-fchashmap	0.61.3		cd2fd369d061dd5c29c793ec309f2453a23c7756
 com.swirlds	swirlds-fchashmap	0.61.4		99cae023fddb5d009825b39981ce3a7999a69928
+com.swirlds	swirlds-fchashmap	0.61.5		cc157ca55fc7407bb9252dbd18a8de4035ba5ca3
+com.swirlds	swirlds-fchashmap	0.61.6		cea08874be3afc96f5748605d3554c48af254001
+com.swirlds	swirlds-fchashmap	0.61.7		ec62d64f8e64f6dfde31203019f4ae40b49dd05a
 com.swirlds	swirlds-fchashmap	0.62.0		0c49282a57d4249a58b61b3a89d9713ff030e3e0
+com.swirlds	swirlds-fchashmap	0.62.1		3d4be700884811f889f05b8b08f3d3b7cbebdb09
+com.swirlds	swirlds-fchashmap	0.62.2		eb2a4d9aecb1a1dc473d9073b3c18f4f11bc2400
 com.swirlds	swirlds-fchashmap	0.7.4		66c9533a71e5b3ef1f0470bfd9e0d1618b20d0ce
 com.swirlds	swirlds-fchashmap	0.7.4-alpha.1		f4a9f6457ef8024338c577eb1f60d49d12de5af0
 com.swirlds	swirlds-fchashmap	0.7.5		6d0d4e686abae52886ffb110755785b226b9afb3
@@ -1060,6 +1065,7 @@ io.helidon.integrations.cdi	helidon-integrations-cdi-hibernate	4.1.6		86be1fbdf1
 io.helidon.integrations.cdi	helidon-integrations-cdi-hibernate	4.1.7		f0e8be0142f672a9b968a68c30e53a9e0b5208e7
 io.helidon.integrations.cdi	helidon-integrations-cdi-hibernate	4.2.0		2e0a64e273cf75dbd18831439c021f15b5053d77
 io.helidon.integrations.cdi	helidon-integrations-cdi-hibernate	4.2.1		3b9d1792befed933e2ea9ec8301c9787224b8ed7
+io.helidon.integrations.cdi	helidon-integrations-cdi-hibernate	4.2.2		97c596e2840ee476479e2db8ca18976ff7d8891e
 io.komune.cccev	cccev-evidence-type-domain	0.15.0		f46d5399ff1cb14d4ebe62c90c4be4c754d65646
 io.komune.cccev	cccev-evidence-type-domain	0.16.3		dbf7dce2909045e01326fe0e6c42ae45487a36e3
 io.komune.cccev	cccev-evidence-type-domain	0.16.4		8015afe2bd0cabbeeab7b049e34ebadda0c7c9a7
@@ -1141,6 +1147,8 @@ net.folivo	client-repository-test-macosarm64	4.15.0		N/A
 net.folivo	client-repository-test-macosarm64	4.15.0	metadata	0fdcafbe274126a6f43fee4528fcdb6d0243c0a4
 net.folivo	client-repository-test-macosarm64	4.15.1		N/A
 net.folivo	client-repository-test-macosarm64	4.15.1	metadata	3c7ef0495a984032aa0ac5694d8f57d776b907ef
+net.folivo	client-repository-test-macosarm64	4.15.2	metadata	67f56ce6cf22993bce1760af2e631a7284adc04d
+net.folivo	client-repository-test-macosarm64	4.15.3	metadata	e1df9c63185fe2a749140215634c333987b22181
 net.folivo	client-repository-test-macosarm64	4.7.0		N/A
 net.folivo	client-repository-test-macosarm64	4.7.0	metadata	c2e489fbb69c4f925904e2b542f8d1694a28a045
 net.folivo	client-repository-test-macosarm64	4.7.1		N/A
@@ -1923,6 +1931,7 @@ org.apache.camel.springboot	camel-protobuf-starter	4.8.3		a20aa530a09df288858d23
 org.apache.camel.springboot	camel-protobuf-starter	4.8.4		c7f85d31f252b635d8551629de613037e9e2d48f
 org.apache.camel.springboot	camel-protobuf-starter	4.8.5		fdd6d2477d487a14e571bd4145255d8472267130
 org.apache.camel.springboot	camel-protobuf-starter	4.8.6		5cf7481a489c849b6e0f8b28e488b5c06b29e588
+org.apache.camel.springboot	camel-protobuf-starter	4.8.7		81ba241d8500b4ad327c83927d9ace3264110ae1
 org.apache.camel.springboot	camel-protobuf-starter	4.9.0		16b4d32ad11bedbfbcb90b1106ee0d5e2af52b41
 org.apache.geronimo.samples.javaee5	inventory-tomcat	3.0-beta-1		N/A
 org.apache.geronimo.samples.javaee5	inventory-tomcat	3.0.0		N/A
@@ -3008,7 +3017,18 @@ software.amazon.awssdk	partnercentralselling	2.31.30		b350d7c102b3dbc7903d4795d8
 software.amazon.awssdk	partnercentralselling	2.31.31		98ec33472833627d8da5f4d9fe32ff67a8ed60b6
 software.amazon.awssdk	partnercentralselling	2.31.32		04f6983b682ab6ef506aed3bab243c03a9814a69
 software.amazon.awssdk	partnercentralselling	2.31.33		9d907e96a0b8e26ea6bc2ebd7a382256b7116a02
+software.amazon.awssdk	partnercentralselling	2.31.34		5062e40a8f77e9703f237a0125528ba3d8cdea0e
+software.amazon.awssdk	partnercentralselling	2.31.35		6ec9c731728e5a9c2f891f18a80ea14b477ae44f
+software.amazon.awssdk	partnercentralselling	2.31.36		f3237ea883430aaf5499ef01ca69b199223c7e1f
+software.amazon.awssdk	partnercentralselling	2.31.37		5a89384b976ff1fbd90ecbed21ebfcfc5295d79c
+software.amazon.awssdk	partnercentralselling	2.31.38		90362d124f31627d909b69d34b318607f5a13a36
+software.amazon.awssdk	partnercentralselling	2.31.39		1d752de46517fa6d26f2c9f9fe35672b2b73c3e1
 software.amazon.awssdk	partnercentralselling	2.31.4		4d8394a992f95bce3448cc280508f9505201c530
+software.amazon.awssdk	partnercentralselling	2.31.40		faf6c183b6fc8f656d2531d3b44f9adf5988d849
+software.amazon.awssdk	partnercentralselling	2.31.41		60502156778a54ab943fd50eb679b759c4dc36f2
+software.amazon.awssdk	partnercentralselling	2.31.42		cda3893bc2293e36be47caee0b932dcfd96e617e
+software.amazon.awssdk	partnercentralselling	2.31.43		99c39c89ada3764df606e7a6cd019c3d705e1ae2
+software.amazon.awssdk	partnercentralselling	2.31.44		0be2a07171d29182f72a4af6e396c1162efd27c0
 software.amazon.awssdk	partnercentralselling	2.31.5		551bd42614cc5c01cc480ddafeb3b199ee69a93b
 software.amazon.awssdk	partnercentralselling	2.31.6		3071fea6530eb9354658f92fdd39bcee83f4b04d
 software.amazon.awssdk	partnercentralselling	2.31.7		30844e49745796788f86166f925c988c760cefd4

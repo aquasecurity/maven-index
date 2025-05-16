@@ -491,7 +491,16 @@ aws.sdk.kotlin	comprehend	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehend	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehend	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehend	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehend	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	comprehend	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	comprehend	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 cc.zhaoac	faith-core-boot	1.0.0		6e286913a81b12e0cef94e1f797e34f61a3da798
 cc.zhaoac	faith-core-boot	1.0.1		da6479ca8dd8f488ed2235aef7f61a40842416d0
@@ -1480,6 +1489,7 @@ dev.zio	zio-aws-appstream_2.12	7.31.27.1		ecf18932f856c58b842db5489afed82a97b804
 dev.zio	zio-aws-appstream_2.12	7.31.28.1		866b0991a9c64cfd436891c52b53cdc35e801cdc
 dev.zio	zio-aws-appstream_2.12	7.31.3.1		3d80abf732f111ecb730fa82c8a2005def0ebb54
 dev.zio	zio-aws-appstream_2.12	7.31.30.1		c53ac2ff4b91da22c53a596358aaaa63dd791c7f
+dev.zio	zio-aws-appstream_2.12	7.31.30.2		71f0a0fcbbc136a054731f5d77ac80f8342ec20a
 dev.zio	zio-aws-appstream_2.12	7.31.4.1		75576d0d11228e3f35323ddbb418899c726d2b68
 dev.zio	zio-aws-appstream_2.12	7.31.6.1		cdb6e8c332df59e2ea37b773731a0f7a1d93d1d5
 dev.zio	zio-aws-appstream_2.12	7.31.6.2		f96fdd250901540a34c1a17115a8a702cd34b07a
@@ -2256,6 +2266,7 @@ io.quarkus	quarkus-rest-kotlin-deployment	3.15.2		637bb5442d82be508099f3fe5c0e34
 io.quarkus	quarkus-rest-kotlin-deployment	3.15.3		660f92d63b41f643a20f425a1bf3849d45a3f4a4
 io.quarkus	quarkus-rest-kotlin-deployment	3.15.3.1		c013de6f54d75f551aac5d23c58bf1346e3feb41
 io.quarkus	quarkus-rest-kotlin-deployment	3.15.4		ac01e64b3a6a4f4fc0abbab944abeb1cbf83dfb0
+io.quarkus	quarkus-rest-kotlin-deployment	3.15.5		be2e35900d2e8654a8d8fdc1922eab6af86a66ab
 io.quarkus	quarkus-rest-kotlin-deployment	3.16.0		e7ec5379ee9538db9e8f8255580dadfd9a7ae772
 io.quarkus	quarkus-rest-kotlin-deployment	3.16.0.CR1		22678726097fa8f7dc9cf0801ff002848729b566
 io.quarkus	quarkus-rest-kotlin-deployment	3.16.1		220286c117fe325f5ff40d26fb4836ac2355abbc
@@ -2286,6 +2297,7 @@ io.quarkus	quarkus-rest-kotlin-deployment	3.19.3		ea48cdfe63d8277e28c6e538b3e2cd
 io.quarkus	quarkus-rest-kotlin-deployment	3.19.4		6dc25429f049d2db21ad5d76367d7feae90dfc40
 io.quarkus	quarkus-rest-kotlin-deployment	3.20.0		89490b74fc502af58e2d44d27ed9c158f1b7abf2
 io.quarkus	quarkus-rest-kotlin-deployment	3.20.0.CR1		d16e3daec75fd546b554737744939d53e4d140ca
+io.quarkus	quarkus-rest-kotlin-deployment	3.20.1		7212ddb7257c76a7067c19d4f1e0521ec09c1a42
 io.quarkus	quarkus-rest-kotlin-deployment	3.21.0		811126ca4a63b8ea394f85cbbc26c6d4e4528cac
 io.quarkus	quarkus-rest-kotlin-deployment	3.21.0.CR1		76cae6c9f3642273da9d953a4b9f2198977a6864
 io.quarkus	quarkus-rest-kotlin-deployment	3.21.1		710901dc9259559de37dc8207d7777cddd18ed30
@@ -2295,6 +2307,9 @@ io.quarkus	quarkus-rest-kotlin-deployment	3.21.4		11238a8672b94a9681115a830677f7
 io.quarkus	quarkus-rest-kotlin-deployment	3.22.0		67b6dc6d99b0b4c0fed159cc8218c29215d9e7ec
 io.quarkus	quarkus-rest-kotlin-deployment	3.22.0.CR1		1e2ab093117e78c78fe5488961214158e35ab22a
 io.quarkus	quarkus-rest-kotlin-deployment	3.22.1		b284467308ef991f9ae93827085dcf8a0fe3c8d2
+io.quarkus	quarkus-rest-kotlin-deployment	3.22.2		24bf7bfc550a61529c524b6acc7fb0951dbac5b3
+io.quarkus	quarkus-rest-kotlin-deployment	3.22.3		61b187e39f6250457acf0137084d972623657ef4
+io.quarkus	quarkus-rest-kotlin-deployment	3.23.0.CR1		8577c734acf38e5364df6d1db9bea7365dcf408c
 io.quarkus	quarkus-rest-kotlin-deployment	3.9.0		65ac30a0455d7dd58934d6323a53b25f74f3a832
 io.quarkus	quarkus-rest-kotlin-deployment	3.9.0.CR1		a018df31fa6cb92393a094c30aa0d3b7f72a8bff
 io.quarkus	quarkus-rest-kotlin-deployment	3.9.0.CR2		ef90c41859a679ad0c083a22933764a40c9bef35

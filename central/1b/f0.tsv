@@ -1178,6 +1178,9 @@ com.volcengine	volcengine-java-sdk-cv20240606	0.2.3		4e05a7b8739c8bd9ea84d9f739c
 com.volcengine	volcengine-java-sdk-cv20240606	0.2.4		39b07e8389f9e824d2d78e65adc2ea7aedd34d02
 com.volcengine	volcengine-java-sdk-cv20240606	0.2.5		93ef8de21ca03f0efea6212f57db67900d5ca907
 com.volcengine	volcengine-java-sdk-cv20240606	0.2.6		9e8acd54aa278a06d1c20a7b44d05e49a6975383
+com.volcengine	volcengine-java-sdk-cv20240606	0.2.7		119738451d6c28e9d4040c2a1c163cb204293697
+com.volcengine	volcengine-java-sdk-cv20240606	0.2.8		fddd8eee6ba858fd5d13ec7a3aba73fa6a3b86bb
+com.volcengine	volcengine-java-sdk-cv20240606	0.2.9		397b01d90f27150002ebfaf8dd290e3ef59aaf8f
 cz.cvut.kbss.jopa	jopa-api	0.10.0		daca4b5b4f98a02d68928fdfa119198d304dfce5
 cz.cvut.kbss.jopa	jopa-api	0.10.1		f598634e36b6138f9b15e0117fc94d394e5926a9
 cz.cvut.kbss.jopa	jopa-api	0.10.2		c9e42cdb791826b67fb7c2a68453d4efad9a6c03
@@ -1604,6 +1607,7 @@ dev.zio	zio-aws-cloudcontrol_2.13	7.31.27.1		0d9c7134f07cdac31e7e4e55a32c766095b
 dev.zio	zio-aws-cloudcontrol_2.13	7.31.28.1		f3a85b735eeca875dd13ecda97d3ebd31bd1428c
 dev.zio	zio-aws-cloudcontrol_2.13	7.31.3.1		933d308a31ede5fb79d3e87b7af95ffeca0d7ca9
 dev.zio	zio-aws-cloudcontrol_2.13	7.31.30.1		f634d1b097b5aa853ad80274d846cf325398cc39
+dev.zio	zio-aws-cloudcontrol_2.13	7.31.30.2		d1dae3c59012293a0915ef405a14fbce14cf9fb4
 dev.zio	zio-aws-cloudcontrol_2.13	7.31.4.1		e6c7b4b727a72509b8aee32ed9a6af7e7faff54f
 dev.zio	zio-aws-cloudcontrol_2.13	7.31.6.1		1b341fdb5b299d958a3a9b53d996500d0ccd12ac
 dev.zio	zio-aws-cloudcontrol_2.13	7.31.6.2		b5d1a5a38a27a4d703896ca4da0397fb8a195ed5
@@ -2259,6 +2263,8 @@ org.eclipse.epsilon	org.eclipse.epsilon.eunit.cmp.emf	2.6.0		59b35e67b7609b382da
 org.eclipse.epsilon	org.eclipse.epsilon.eunit.cmp.emf	2.7.0		7755e267ade5b927efca16620bb0b61893ac540d
 org.eclipse.epsilon	org.eclipse.epsilon.eunit.cmp.emf	2.8.0		d32649fd63e276b9a963be5058d5966b56fd0b85
 org.eclipse.neoscada.core	org.eclipse.scada.ae.server.syslog	0.2.0		80201f2054ea94552cae9fc8c2c540557fa71a34
+org.eclipse.tractusx.edc	edc-controlplane-base	0.10.0-rc1		717d66f7e721ba37cd7d95957f5ebff1e1fe9837
+org.eclipse.tractusx.edc	edc-controlplane-base	0.10.0-rc2		c3dea26c4367a8e6ea74dd5254c47f84ca2401cf
 org.eclipse.tractusx.edc	edc-controlplane-base	0.4.1		ce9dae8b9a1bce00bdff933016a9526dec34e809
 org.eclipse.tractusx.edc	edc-controlplane-base	0.5.0		e9a41b94a8d862d0f5a1c18db2a429bc7d0c825d
 org.eclipse.tractusx.edc	edc-controlplane-base	0.5.0-rc1		628328ed2608b555c9c00892efeca48b4046cc0b
@@ -3941,7 +3947,18 @@ software.amazon.awssdk	codebuild	2.31.30		cc291725f2f05d42d45eeca0a6017045e1b20f
 software.amazon.awssdk	codebuild	2.31.31		6099afe75e0191d12c022c52053f34dcd5890ada
 software.amazon.awssdk	codebuild	2.31.32		84de77722431222f11721aded81f4fb926c2afff
 software.amazon.awssdk	codebuild	2.31.33		a82ab30871bb01f89b7c7ae6c3ca4a0a3baa8df1
+software.amazon.awssdk	codebuild	2.31.34		1f37e673da922a6353571931d2940b2290ef68ef
+software.amazon.awssdk	codebuild	2.31.35		92e8f169e593c5349b8d091f1b8d49b81087fb70
+software.amazon.awssdk	codebuild	2.31.36		cd6cd6ac1b9adf1e5f0aab7884aca188f1f1df48
+software.amazon.awssdk	codebuild	2.31.37		ade573eacc65c330f20d92071f11c38f967817e7
+software.amazon.awssdk	codebuild	2.31.38		126a7e03dc139ff8c7e04c9e97aebb7228c5a50e
+software.amazon.awssdk	codebuild	2.31.39		2f8de6623cfcfe02e8e59bae209df93834e5131d
 software.amazon.awssdk	codebuild	2.31.4		5dfd8413c792b2c752b13e9bcd11f112d7d3e0f1
+software.amazon.awssdk	codebuild	2.31.40		534901a53c861bc1305dbc65628ce7ac68daff2a
+software.amazon.awssdk	codebuild	2.31.41		d270409c5c52e3487207aa025eab87c2a3d56338
+software.amazon.awssdk	codebuild	2.31.42		22c63e93354bf3414f7abd1ac3ba8b7d66a471e1
+software.amazon.awssdk	codebuild	2.31.43		f51f965a1fc5def81a862f656f7a57fde68312f3
+software.amazon.awssdk	codebuild	2.31.44		befc2301b75f3dde0c8003663eaa760085b04e90
 software.amazon.awssdk	codebuild	2.31.5		4568a71d488d3134c6aeca164b086b430d074c50
 software.amazon.awssdk	codebuild	2.31.6		029b1632e294c2de63b7f5f7c43d72427db89884
 software.amazon.awssdk	codebuild	2.31.7		b1aa3de7534caf4ac0651e00b6bf4cace1621e63

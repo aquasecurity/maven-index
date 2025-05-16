@@ -141,12 +141,15 @@ com.github.toolarium	toolarium-processing-unit	1.3.0		7837428b3ef6b35762c83fea27
 com.github.toolarium	toolarium-processing-unit	1.3.1		9b9e2bfa6f2a76750ab8845bc529e04b40c982e5
 com.github.toolarium	toolarium-processing-unit	1.3.2		9099966dd5c4a311ee5cf1cb7fab7aef36f536bc
 com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.1.0		401d082c3c2c3f26e66a3c3ada10e00fe640a8d9
+com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.10.0		95fa16f54673402d32ad30c3eac7a14c992a2499
 com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.2.0		04efbbce3de7d6cc5ad9083f28e68afb333cf66d
 com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.3.0		e408adaeb6333498d7dd84362bc719ec736e7d52
 com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.4.0		2f271e49557cf70390b5a90459bf2bb3573382cc
 com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.5.0		c9b16c24590fb1c2b7ff79193da83aae05a9ecaf
 com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.6.0		fde1571b0c042cbdda24e875658923d74334583c
 com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.7.0		af76f07950a14a674e854cffffe76d90cc1d020b
+com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.8.0		4a59f66e1ae3116a18adc95e6c6ac786e6104863
+com.google.maps.api.grpc	grpc-google-maps-fleetengine-delivery-v1	0.9.0		829a12d52bdcf90e8227c99182d0588c3a787f6b
 com.kroegerama.android-kaiteki	views	4.0.3		N/A
 com.kroegerama.android-kaiteki	views	4.0.4		N/A
 com.kroegerama.android-kaiteki	views	4.1.0		N/A
@@ -352,6 +355,7 @@ de.pentabyte	google-static-map-creator	2.3.0		af5f4ae62b7a1f992c1954cb75217610e0
 dev.andrewbailey.difference	difference-ios-arm64	1.0.0		N/A
 dev.andrewbailey.difference	difference-ios-arm64	1.1.0		N/A
 dev.andrewbailey.difference	difference-ios-arm64	1.1.0	metadata	20d15d5565a4c234633564641e140b14c6568ba7
+dev.andrewbailey.difference	difference-ios-arm64	1.1.1	metadata	c8d8eeb47e03bd42a2ca02770f7450657e85b01a
 dev.rsbat	chessboard	0.1.0		N/A
 dev.rsbat	chessboard	0.2.0		N/A
 io.eventuate.tram.core	eventuate-tram-spring-events-publisher-starter	0.27.0.RELEASE		c0f9db48ff176868652749e2fcfebd451e09dcd6
@@ -857,6 +861,7 @@ io.quarkus	quarkus-rest-client-jaxb	3.15.2		1eb9cc60730b1d0f65c37fb701d4f9aff1f5
 io.quarkus	quarkus-rest-client-jaxb	3.15.3		ae791aac5789ff064f854ea28d9178d51757e196
 io.quarkus	quarkus-rest-client-jaxb	3.15.3.1		87ac448c5ebcbd2678b108e272b2ded6874d4fbe
 io.quarkus	quarkus-rest-client-jaxb	3.15.4		fcdcbbf36193cb6624ca0fc8180225fed6f16717
+io.quarkus	quarkus-rest-client-jaxb	3.15.5		ccabba1057cb04af68bd76ac18fb1de4dad9a519
 io.quarkus	quarkus-rest-client-jaxb	3.16.0		159facdb9bd2599b153d448d6168deef26feda4b
 io.quarkus	quarkus-rest-client-jaxb	3.16.0.CR1		1bf47ca69db23601e3b9d8c978f83eeb25de3ffe
 io.quarkus	quarkus-rest-client-jaxb	3.16.1		4bc2e7bb7282e04e99972fa99b6faeab40f92f86
@@ -901,6 +906,7 @@ io.quarkus	quarkus-rest-client-jaxb	3.2.8.Final		25619888e4f7e8fffb49bbdaa7912df
 io.quarkus	quarkus-rest-client-jaxb	3.2.9.Final		f4bb31a4eaffc7178dc8cbe5fc1ee6bc78b0bb88
 io.quarkus	quarkus-rest-client-jaxb	3.20.0		59fb59dff413303e602e6c85d3aac22a89afc76b
 io.quarkus	quarkus-rest-client-jaxb	3.20.0.CR1		00749a504e4144e424a75e9440a5d5fc16366e23
+io.quarkus	quarkus-rest-client-jaxb	3.20.1		a0c28bf36e60457a36cce9ecaaa794dbba4ced2d
 io.quarkus	quarkus-rest-client-jaxb	3.21.0		686878847daeee4e8d5b53f6ff64a6d254782416
 io.quarkus	quarkus-rest-client-jaxb	3.21.0.CR1		8d457250ad9d0bc36660cdd57acc86ef9fbedd79
 io.quarkus	quarkus-rest-client-jaxb	3.21.1		ad0c0c9e87d9bd3cdfd4234df9be3d6e1d043ef9
@@ -910,6 +916,9 @@ io.quarkus	quarkus-rest-client-jaxb	3.21.4		0b725ece93a037b20dd8b8b0f16f60161ef8
 io.quarkus	quarkus-rest-client-jaxb	3.22.0		d540c0261e4f87681a8663c6f1e28385941c2188
 io.quarkus	quarkus-rest-client-jaxb	3.22.0.CR1		aa7af66d0d0d5eae6773c9193a60582870c03214
 io.quarkus	quarkus-rest-client-jaxb	3.22.1		f7b7e6c0228366ce4cf1dd563fe2a32509e3d3da
+io.quarkus	quarkus-rest-client-jaxb	3.22.2		74de5bc04b51f4aedff04ce9c1695fe663e595a5
+io.quarkus	quarkus-rest-client-jaxb	3.22.3		2b1b0031d9f42e84a3dc0435895cdb291ef0c92c
+io.quarkus	quarkus-rest-client-jaxb	3.23.0.CR1		f99746ace47162ca45ebdfd67a391d7c536e6734
 io.quarkus	quarkus-rest-client-jaxb	3.3.0		94397005bcae8677a5e1ad2faf1f8ae84b1819f3
 io.quarkus	quarkus-rest-client-jaxb	3.3.0.CR1		b69bfc8ae2242152106731fc7a41b9e72152bd9e
 io.quarkus	quarkus-rest-client-jaxb	3.3.1		ac22fecd8bcf15401533b885cf26afac64479d71
@@ -1132,6 +1141,7 @@ org.eclipse.jnosql.databases	jnosql-redis	1.1.3		e08a3f999c7ed2af39c6cfefcd394b8
 org.eclipse.jnosql.databases	jnosql-redis	1.1.4		ab00ff2718ad0727434185fad9eb71194badfa88
 org.eclipse.jnosql.databases	jnosql-redis	1.1.5		2592a64f62a326b91d1d5bf724d76f66406d80de
 org.eclipse.jnosql.databases	jnosql-redis	1.1.6		2ae45e00f3d767b9bbe69395c63036571d5d8218
+org.eclipse.jnosql.databases	jnosql-redis	1.1.7		3ea71b177c41868d3c6a6de9a05734f9dc3247d3
 org.endpoints4s	algebra-testkit_sjs1_2.13	1.0.0		d946929a3fbef1fda80abe5290d0cf9dd169a3a1
 org.endpoints4s	algebra-testkit_sjs1_2.13	2.0.0		12f399eeb63c3d40e78e6abc15edd988b377c921
 org.endpoints4s	algebra-testkit_sjs1_2.13	3.0.0		416a0bf5ebb72828b940d0f31062dc46402868ad

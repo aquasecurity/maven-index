@@ -243,6 +243,8 @@ com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.60.0		e898b2fb77
 com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.61.0		8efc1920bcb157225beb5bb29873449331383c02
 com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.62.0		110dead4db3b8d8b84236d7d82247e0e857c1477
 com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.63.0		ddbf9675bbdc376c70bd9aa1bb81c3b30ff399ca
+com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.64.0		a7d67232f5b8a5b2a5dd845357a746740523eb26
+com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.65.0		192ee73ad46d7d90d91d89d207a50c9df34862e4
 com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.7.0		ac35cfadddc7cee63c5568c0ef9356d171108b9d
 com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.8.0		2a6a4af2f2b08c594026aabb657724f65bf2175f
 com.google.api.grpc	grpc-google-cloud-monitoring-dashboard-v1	2.9.0		3b8a2ff735b7113ab858ab622c02c554f26d0264
@@ -939,6 +941,9 @@ io.kotzilla	kotzilla-common-iosx64	1.0.0		N/A
 io.kotzilla	kotzilla-common-iosx64	1.0.0	metadata	600e7041f94b3b7ab072b26dd92812a436398fec
 io.kotzilla	kotzilla-common-iosx64	1.0.1		N/A
 io.kotzilla	kotzilla-common-iosx64	1.0.1	metadata	d88122c4213f75565924ff71b8894b76ac847033
+io.kotzilla	kotzilla-common-iosx64	1.0.2-RC2	metadata	322d332c36eb0d0179806d2f1f8c6c2aedeacb8f
+io.kotzilla	kotzilla-common-iosx64	1.0.2-RC3	metadata	fff4776fd13bc3a4a6c0b46158138fadf3ba74f2
+io.kotzilla	kotzilla-common-iosx64	1.0.2-RC4	metadata	703f61cf6b4ebc5db4df4eca4b091c28f5b933d0
 io.openliberty.features	io.openliberty.org.eclipse.microprofile.metrics-5.0	23.0.0.10		N/A
 io.openliberty.features	io.openliberty.org.eclipse.microprofile.metrics-5.0	23.0.0.11		N/A
 io.openliberty.features	io.openliberty.org.eclipse.microprofile.metrics-5.0	23.0.0.12		N/A
@@ -1082,6 +1087,7 @@ org.apache.arrow	flight-sql	17.0.0		58774b67fb83117abbf7a7020870a3bc69a7ee3b
 org.apache.arrow	flight-sql	18.0.0		15fd0ca37c44f8b7591c7611c47c858e3226c5d4
 org.apache.arrow	flight-sql	18.1.0		0243d582656d61db61ff9a74529be5808b98d31d
 org.apache.arrow	flight-sql	18.2.0		a10ce2b8447ca529db6cdcaefdd930a7360ab500
+org.apache.arrow	flight-sql	18.3.0		c3ec457528d94574ed5190ba570712a1c1492fc6
 org.apache.arrow	flight-sql	7.0.0		4cc0fa6fad915353dfd64e2ce9b827a349625ce5
 org.apache.arrow	flight-sql	8.0.0		903603b843015cb9d77de7c06c2068dcb95eec76
 org.apache.arrow	flight-sql	9.0.0		adbeb70b9427400c2599a829c86adede0cb5050d
@@ -1180,6 +1186,7 @@ org.checkerframework	framework-test	3.48.4		a46cf72fb75cd6f311cf9380811eab5c37a4
 org.checkerframework	framework-test	3.49.0		2f5e1cb9c4f26abbe9b1f55ea8ff3947d6db9325
 org.checkerframework	framework-test	3.49.1		0bb1d2f4e424b534139bf631e95395b7c9acd2ef
 org.checkerframework	framework-test	3.49.2		5ecb0dc88e406cfa11a913138324da647992663a
+org.checkerframework	framework-test	3.49.3		ff3237343e2256ceb08857d3406ee23c27e1ca32
 org.checkerframework	framework-test	3.5.0		fcff25a425ec659ded131d72d4415f12b1a3fa09
 org.checkerframework	framework-test	3.6.0		299992616578d03716370b4398e9f5db45f9cd14
 org.checkerframework	framework-test	3.6.1		07d32db02b1cea726fdcfa5943a1821a5d94a9a5
@@ -1261,6 +1268,7 @@ org.jetbrains.kotlinx	kotlinx-collections-immutable-tvosarm64	0.3.7		N/A
 org.jetbrains.kotlinx	kotlinx-collections-immutable-tvosarm64	0.3.7	metadata	42b76f1ff2728f51e28df75e22d9f2247b99b77c
 org.jetbrains.kotlinx	kotlinx-collections-immutable-tvosarm64	0.3.8		N/A
 org.jetbrains.kotlinx	kotlinx-collections-immutable-tvosarm64	0.3.8	metadata	3702e45e08b153d28de6b5da4a287a9feec91bad
+org.jetbrains.kotlinx	kotlinx-collections-immutable-tvosarm64	0.4.0	metadata	48e689a9f6b336c89a7a5c1e35588e9980465d87
 org.kie.workbench.screens	kie-wb-common-datasource-mgmt-wildfly	7.0.0.Beta2		00ddd712c5f1274f32f26cdf606336a58b92929c
 org.kie.workbench.screens	kie-wb-common-datasource-mgmt-wildfly	7.0.0.Beta3		aac6214b3e2ee95431ff3ff362fa68644b772698
 org.kie.workbench.screens	kie-wb-common-datasource-mgmt-wildfly	7.0.0.Beta4		ac938152e7bf89ef3b58213642e26d2f312818e2

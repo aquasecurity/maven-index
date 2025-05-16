@@ -63,6 +63,7 @@ com.github.omarmiatello.kotlin-script-toolbox	twitter	0.1.2		d067087a2d1f224537e
 com.github.omarmiatello.kotlin-script-toolbox	twitter	0.1.3		c36aab3e69059b23bc4929c8262b088cefb5a104
 com.github.omarmiatello.kotlin-script-toolbox	twitter	0.1.4		6078e4472bc88fb48ac39cd85fa3b76b36bf8f4f
 com.github.omarmiatello.kotlin-script-toolbox	twitter	0.1.5		3466e901395f033f44d480062addc02724276d0c
+com.github.ratoshniuk	sbt-cassandra4s-deps_2.12_1.0	0.1.3		6045c075b6dd27d19dcd56a50959c564fb40c624
 com.github.rinoto.mongo	migramongo-parent	0.1		N/A
 com.github.rinoto.mongo	migramongo-parent	0.2		N/A
 com.github.rinoto.mongo	migramongo-parent	0.3		N/A
@@ -167,6 +168,7 @@ com.obsidiandynamics.fulcrum	fulcrum-random	0.37.0		b5e11465b5295b9c5c45b6764c31
 com.obsidiandynamics.fulcrum	fulcrum-random	0.38.0		24bc1012c3f3b50df1626ce54080c9e649b032b8
 com.obsidiandynamics.fulcrum	fulcrum-random	0.39.0		613cefe5e98db0ff5f4223603bb9d1bdc3dabd68
 com.optum.templ	templ-lib	1.0.20		3f4fc61acb9edefd15351d53b95e54292cfce539
+com.optum.templ	templ-lib	1.1.0		38a97181988f965bef074bf7b8cd262d4d3eb932
 com.sequoiadb	spark-sequoiadb_2.11.2	1.12		ace395c41dbefa9551cf2cacd962ad7ed845e16b
 com.softwaremill.sttp.shared	core_sjs1_2.13	0.4.1		9e164e53cfb49acb3fdafafc743a875e4399baa8
 com.softwaremill.sttp.shared	core_sjs1_2.13	0.4.2		10047ac306f1ba0d5168a9939e2ee88760df4ec0
@@ -421,6 +423,7 @@ edu.gemini	itac-channel	2024.1.0		dc507de1a1e91964e995f78b21d8765841c55f98
 edu.gemini	itac-channel	2024.1.1		7139c4e9c59b5693cebfd6861fe3a670a7ea9c9c
 edu.gemini	itac-channel	2024.2.0		3f065c7363cef1c8ae7c6bc48a239c66b560afc2
 edu.gemini	itac-channel	2025.1.0		aac880eaf2837c8caaafba1666c4e326a077438e
+edu.gemini	itac-channel	2025.2.0		bdf6fa9f665156fd28e575089949b08b9dc61143
 eu.getintheloop	lift-shiro-root_2.9.2	0.0.6		N/A
 eu.timepit	refined-scalacheck_native0.4_3	0.10.1		31502d8b996caae99ab4cca388f57c77e261af29
 eu.timepit	refined-scalacheck_native0.4_3	0.10.2		232c06109a4af2ab94d752193fa11417b9ffd86f
@@ -1048,6 +1051,7 @@ org.apache.camel	camel-cxf-transport	4.8.3		e2b9af4dd5b6f5337cd3b723557daaef5d1f
 org.apache.camel	camel-cxf-transport	4.8.4		8fdc8b8b3b7b34312bd11b4742ccb417d1614c41
 org.apache.camel	camel-cxf-transport	4.8.5		d5d94be319e27fe39ca9da9a8619b279266d966c
 org.apache.camel	camel-cxf-transport	4.8.6		2815ae6ff88580c009de2bbcf101c7e9837e5ec4
+org.apache.camel	camel-cxf-transport	4.8.7		de60ea495484ce3c757b4fbb21b28e7de1bdc912
 org.apache.camel	camel-cxf-transport	4.9.0		4fb6be2453fe8135d797c8829cdef783f0e47057
 org.apache.flume	flume-ng-tests	1.10.1		1e48cffb7a86fd0dbc1697c4dd7845467714ebeb
 org.apache.flume	flume-ng-tests	1.11.0		1202d69160f3e171e2f1609c1702bb8a28d47554
@@ -1396,6 +1400,7 @@ org.eolang	eo-maven-plugin	0.55.1		f45e50e7ccdcdfaede4c1fb4b21b19ba3ee33a9a
 org.eolang	eo-maven-plugin	0.55.2		a0b0f8d094de8ce3bcf692818b4346eef09aaf93
 org.eolang	eo-maven-plugin	0.56.0		eed6e67516ac94a6e77f7fb24e5bb730ec284bdb
 org.eolang	eo-maven-plugin	0.56.1		da6b7f57d769bfbc1569360768bd6ca51c98229c
+org.eolang	eo-maven-plugin	0.56.2		9a445d332b0e15dd777ddca39bccdcf1575f2571
 org.eolang	eo-maven-plugin	0.6.0		9dfc7d80d67f0107595010f91fc015739ce9c7ad
 org.eolang	eo-maven-plugin	0.6.1		03b6d342a910137524f778a43ed527a26dae4955
 org.eolang	eo-maven-plugin	0.6.2		4766fa34f4a3aacd266498b34ed302de2e6e0bd1
@@ -1500,6 +1505,10 @@ org.wiremock	wiremock-standalone	3.9.1		1f145fcea46db8d6672cb8bde4be67c1aa34db0d
 org.wiremock	wiremock-standalone	3.9.2		4e56b01022effe4a1bdff6912160ba7d66d6d41c
 org.wiremock	wiremock-standalone	4.0.0-beta.1		4dc44101b8aea14bd6915af8ea9a3c6a90be30b9
 org.wiremock	wiremock-standalone	4.0.0-beta.2		ea04d89428f004979d0dd9242c539e633214e95d
+org.wiremock	wiremock-standalone	4.0.0-beta.3		5bb8a71e52b6bfc2a418a1235b56ecd3f476efaa
+org.wiremock	wiremock-standalone	4.0.0-beta.4		c31aa71e65e6d5b4ac674560a790539b0b8f82fa
+org.wiremock	wiremock-standalone	4.0.0-beta.5		f8c06c29743bc1ebf0a9f4ffedff7a2a7350d308
+org.wiremock	wiremock-standalone	4.0.0-beta.6		bbc0c7cc239ca1765de9e1cbc496267309a22171
 org.wso2.choreo.connect	org.wso2.choreo.connect.enforcer.commons	1.0.0		9eec365dad0cdff993421a0a64f64067c3dd3cbf
 org.wso2.choreo.connect	org.wso2.choreo.connect.enforcer.commons	1.1.0		e023b147fc810f7b6cbe0c786df013855babb6d6
 org.wso2.choreo.connect	org.wso2.choreo.connect.enforcer.commons	1.1.0-alpha		f55d894ecd9096fc6c70d583c4d4cbc56f6ed207

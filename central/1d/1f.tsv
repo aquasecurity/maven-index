@@ -491,7 +491,16 @@ aws.sdk.kotlin	docdb	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	docdb	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	docdb	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	docdb	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	docdb	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	docdb	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	docdb	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 be.ac.umons.sgl	mom	1.6		b76bd7616988088605d75cc3a18b4eaed2209524
 be.ac.umons.sgl	mom	1.7.1		17cdd526005efb6c6d6d8edb6088caf5e0cdbff8
@@ -622,6 +631,7 @@ com.agorapulse	micronaut-worker-queues-redis	2.8.0		7a19d719357104e3d098f79f36cc
 com.agorapulse	micronaut-worker-queues-redis	2.8.1		ec4785f119a0fdcba198971adcbe6e8321759098
 com.agorapulse	micronaut-worker-queues-redis	2.8.2		383a8cc54feef0e5286b690c6e1954d82fc49446
 com.agorapulse	micronaut-worker-queues-redis	2.8.3		34408401018b6d9ac2ae8a228c3b429d9cde1728
+com.agorapulse	micronaut-worker-queues-redis	2.8.4		651cdd06ef560aed28e98c62888955781a7f67e4
 com.amazonaws	aws-java-sdk-opensdk	1.11.100		f42884003127b6bc41876e828a52c38594c5e3b5
 com.amazonaws	aws-java-sdk-opensdk	1.11.1000		f6913d8800bb575b13699ac3a5fd02a129c7e061
 com.amazonaws	aws-java-sdk-opensdk	1.11.1001		85bb293eda111f44cbcb11d6afb08ab2595fc85b
@@ -3741,6 +3751,7 @@ de.fraunhofer.iem	BouncyCastle	3.1.0		1b46034de951ac8bf0566251551dd913c6e7ff97
 de.fraunhofer.iem	BouncyCastle	3.1.1		a522eba873fcda602e917e1ca66180a36503073d
 de.fraunhofer.iem	BouncyCastle	3.1.2		3cd220e093c5265670e6bfbf82cbcf1741e1542c
 de.fraunhofer.iem	BouncyCastle	3.1.3		4dc236ee6e7916272c3f19dee75c352485c7189a
+de.fraunhofer.iem	BouncyCastle	3.1.4		adf19b4a4ef8d8f916766e37673d393d7eb56dd8
 de.twentyeleven.skysail	org.apache.poi-osgi	3.8		1182e2d705c7bda918a19126c6d37b23a0c9e904
 de.twentyeleven.unitprofiler	root	0.0.22		N/A
 de.twentyeleven.unitprofiler	root	0.0.23		N/A
@@ -4100,6 +4111,7 @@ dev.zio	zio-aws-amplify_2.12	7.31.27.1		d29fc3673f7d22fd6ce518154ef04d3e7237e96f
 dev.zio	zio-aws-amplify_2.12	7.31.28.1		9b9909b405642a80e0affb63d4f05a58aa9dcc86
 dev.zio	zio-aws-amplify_2.12	7.31.3.1		c977a7470a4de2c4f8c463495402d9674cd61b42
 dev.zio	zio-aws-amplify_2.12	7.31.30.1		9e0836c6832ccfc1ea852ad8acca0b16644dac21
+dev.zio	zio-aws-amplify_2.12	7.31.30.2		778cafcb34506d14a119d864b8fd7d8031962685
 dev.zio	zio-aws-amplify_2.12	7.31.4.1		c65d53d6ebec7b83d0f37a7d55bdeee83e0da38b
 dev.zio	zio-aws-amplify_2.12	7.31.6.1		515efe65fbad885408be77d1ad010f8825d9174f
 dev.zio	zio-aws-amplify_2.12	7.31.6.2		3e4d2a50957fd7899db0e323a1ccfb7480156596
@@ -4335,6 +4347,7 @@ io.quarkus	quarkus-flyway-mysql-deployment	3.15.2		20c0cc4af99c21c06dc9b2311f489
 io.quarkus	quarkus-flyway-mysql-deployment	3.15.3		b7d080ba7c0e4cc9cd32ef44a1311d335fdf2ea7
 io.quarkus	quarkus-flyway-mysql-deployment	3.15.3.1		530aacc4d41845cb70884ea27c4a198abfcb45c3
 io.quarkus	quarkus-flyway-mysql-deployment	3.15.4		fdbe7c592ca7f5d01bf7fcd9e348f5d01014fa6e
+io.quarkus	quarkus-flyway-mysql-deployment	3.15.5		b59d0d2cd95a8b996a141cc1992eaa153be3eec9
 io.quarkus	quarkus-flyway-mysql-deployment	3.16.0		301685298e422c9c84862d5250a05d939e8d1679
 io.quarkus	quarkus-flyway-mysql-deployment	3.16.0.CR1		c7754e0ecd1dec32062860bc5d19994e5723c406
 io.quarkus	quarkus-flyway-mysql-deployment	3.16.1		bcaa74219d53bd4141a8b3def8ea1934fea2cda9
@@ -4365,6 +4378,7 @@ io.quarkus	quarkus-flyway-mysql-deployment	3.19.3		b559892765413a47d6346923b462f
 io.quarkus	quarkus-flyway-mysql-deployment	3.19.4		dc67a8137c2860c0a3c08b00be9d935bae1f7ac4
 io.quarkus	quarkus-flyway-mysql-deployment	3.20.0		dd6f5662af1a45f072991ee30231be2d6c687275
 io.quarkus	quarkus-flyway-mysql-deployment	3.20.0.CR1		62a3018f15295a3ac191525a96e14358d0045914
+io.quarkus	quarkus-flyway-mysql-deployment	3.20.1		36ba2a426dd8c04d0792491b379dd4bd57adbb88
 io.quarkus	quarkus-flyway-mysql-deployment	3.21.0		2cce13faacd031a4987c276d4feecdfd18d7d542
 io.quarkus	quarkus-flyway-mysql-deployment	3.21.0.CR1		2fb56fa9673fdda7c503f2958a698f817beda595
 io.quarkus	quarkus-flyway-mysql-deployment	3.21.1		71efee9a4a831af845b1ec8ea90647109bdd7e8f
@@ -4374,6 +4388,9 @@ io.quarkus	quarkus-flyway-mysql-deployment	3.21.4		833f985d097d4332ef214fd0d306b
 io.quarkus	quarkus-flyway-mysql-deployment	3.22.0		3e26ea70f19f5dc557b5696ac3c719125e71287f
 io.quarkus	quarkus-flyway-mysql-deployment	3.22.0.CR1		93c80ae651a7f7b963d460505778c85fc0ff9b37
 io.quarkus	quarkus-flyway-mysql-deployment	3.22.1		0080a58aedfcf902873a03d183a183476058d2a6
+io.quarkus	quarkus-flyway-mysql-deployment	3.22.2		a6eb372e4921948ee5d690670ab827faf7637ac7
+io.quarkus	quarkus-flyway-mysql-deployment	3.22.3		970b944423cb3d20afd7afe7937b081916a036dc
+io.quarkus	quarkus-flyway-mysql-deployment	3.23.0.CR1		6f541553bf0b89657d31ccc2de250214badf1d6e
 io.rsocket.kotlin	rsocket-ktor-iosarm64	0.15.4		N/A
 io.rsocket.kotlin	rsocket-ktor-iosarm64	0.15.4	metadata	b4211b230876d71ad48c589d335be8b61b1a22a0
 io.rsocket.kotlin	rsocket-ktor-iosarm64	0.16.0		N/A
@@ -4408,6 +4425,7 @@ org.apache.beam	beam-runners-flink-1.18-job-server	2.61.0		21f461fc609c236600df5
 org.apache.beam	beam-runners-flink-1.18-job-server	2.62.0		83fec163ddc47e7a4cdddb38e45f781a1ce59e54
 org.apache.beam	beam-runners-flink-1.18-job-server	2.63.0		7f0bab917ab4c3065c85ac861793c3367a9e2173
 org.apache.beam	beam-runners-flink-1.18-job-server	2.64.0		f68c368a3b341ff9dcad1d5b89abf280687f3b87
+org.apache.beam	beam-runners-flink-1.18-job-server	2.65.0		c8d1b98b4d6d15f60b0977f9bfc14a5f9c79f5ac
 org.apache.nifi	nifi-kudu-processors	1.10.0		74568826f87ffb1e276c0b5a37da43eb0b2a4194
 org.apache.nifi	nifi-kudu-processors	1.11.0		43fc7660978ea27965c9f4d6f2bdb54512258202
 org.apache.nifi	nifi-kudu-processors	1.11.1		838f636e7b374519cd4490e199f513e8455e8c07
@@ -4499,6 +4517,7 @@ org.danilopianini	template-for-kotlin-multiplatform-projects-tvossimulatorarm64	
 org.danilopianini	template-for-kotlin-multiplatform-projects-tvossimulatorarm64	0.2.7	metadata	16fe0f807d30381a1c9ab77693b8107d54b1db28
 org.danilopianini	template-for-kotlin-multiplatform-projects-tvossimulatorarm64	0.2.8		N/A
 org.danilopianini	template-for-kotlin-multiplatform-projects-tvossimulatorarm64	0.2.8	metadata	08cc09de171468a0a757f0164b164085c889b2b8
+org.danilopianini	template-for-kotlin-multiplatform-projects-tvossimulatorarm64	0.2.9	metadata	9f937272f9f050a047b7d7c706c9990e9eceb4c5
 org.dromara.dynamictp	dynamic-tp-spring-cloud-starter-consul	1.0.8-beta		db6c788db232440cd84582dfd43ebadad02b393e
 org.dromara.dynamictp	dynamic-tp-spring-cloud-starter-consul	1.0.9-beta		d5e41b74d16b036dd1929bf9f4989f65b6cbd889
 org.dromara.dynamictp	dynamic-tp-spring-cloud-starter-consul	1.1.0-beta		374818041833a6f4290c5820a33ec5015423f5a8
@@ -4939,6 +4958,7 @@ org.talend.sdk.component	component-runtime-beam-junit	1.78.0		03b93a1b4163f01c5f
 org.talend.sdk.component	component-runtime-beam-junit	1.78.1		41bf544d1d9807ac23194eba15bf66ebb2ce7947
 org.talend.sdk.component	component-runtime-beam-junit	1.79.0		0565440dc3279b139cc7fa0c4253c55e367b8e3a
 org.talend.sdk.component	component-runtime-beam-junit	1.80.0		b7ad1958f32f2b85e9da3538141162585c15c9df
+org.talend.sdk.component	component-runtime-beam-junit	1.80.1		1674edd3209e110e2559cd08c8c4a065b9b1a939
 org.talend.sdk.component	component-runtime-beam-junit	10.57.0		e463b64ef36fbda217e82e5ef6dfe4ad250df4b0
 org.webjars.bower	resumable.js	2.11.2		5f84c1b977f2b2a4ad6ee3c9177a652a8744a20f
 org.webjars.npm	apollographql__apollo-tools	0.4.3		c8f17d3ce6b759498db3cce115ac5a316a7bc7df

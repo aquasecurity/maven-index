@@ -215,6 +215,8 @@ com.github.chubbard	gratum	1.1.13		54d757d08a119665f6db2491ce285967dea7cf9c
 com.github.chubbard	gratum	1.1.13	groovydoc	79c67b3fb3c0f61ce879d8194db903ec674d0545
 com.github.chubbard	gratum	1.1.14		6f33e2c77b0555a72bbe7854a983c54249638bd5
 com.github.chubbard	gratum	1.1.14	groovydoc	ae272ab3f4ef78954807b999dd2a44ec2174afd8
+com.github.chubbard	gratum	1.1.15		3f2d190fd8dc2a9e002347bfd7bfe080435018a4
+com.github.chubbard	gratum	1.1.15	groovydoc	216aef4fd83a07442b98ccac396c6148a6b0cfd8
 com.github.chubbard	gratum	1.1.2		04e5884ded4545338bc62ecf6ef59f95fadf9fe9
 com.github.chubbard	gratum	1.1.2	groovydoc	e0d626f5796e4e430907510f02513e9d3be11292
 com.github.chubbard	gratum	1.1.3		fe9d0399a20606a94cd44b3be621a0dd40c14929
@@ -494,6 +496,10 @@ de.gematik.test	tiger-testenv-mgr	3.7.6		b075626cd01babed6441a7edb70f636a1688915
 de.gematik.test	tiger-testenv-mgr	3.7.6	springboot	a4348e1bae14a6acff61b8c5892328a25035be68
 de.gematik.test	tiger-testenv-mgr	3.7.7		ab98f21236d5979b4c40f3c011a6dba5a94b471c
 de.gematik.test	tiger-testenv-mgr	3.7.7	springboot	a6f1f13021bcc5112cf32ef66ea739f2106d3bb2
+de.gematik.test	tiger-testenv-mgr	3.7.8		c76e72b101e7b12d49d504375535099524897897
+de.gematik.test	tiger-testenv-mgr	3.7.8	springboot	f29b5c5222b5888899be54e0365811fcf37ea71c
+de.gematik.test	tiger-testenv-mgr	3.7.9		efffad0d897970f0a53045869071c4f4022ac589
+de.gematik.test	tiger-testenv-mgr	3.7.9	springboot	a72fc9b42cdc0f2f7f93d68b7b2b2f7535a8e3a2
 de.schlichtherle.truezip	truezip-driver-file-jse7	7.2-beta-1		b276a951209712cf0f85a926a967dbfe178a94ee
 de.schlichtherle.truezip	truezip-driver-file-jse7	7.2-beta-3		e68205a3264fc7d53fc7b5abea31227ccaaf9169
 dev.ybrig.ck8s.cli	ck8s-cli	0.1.36		8f23328a0d44c353d178c573bed0ef2332f87c1b
@@ -1187,6 +1193,7 @@ io.ktor	ktor-server-status-pages-androidnativearm64	3.0.3		5b1b866d155c5bb4e1695
 io.ktor	ktor-server-status-pages-androidnativearm64	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-server-status-pages-androidnativearm64	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-server-status-pages-androidnativearm64	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-server-status-pages-androidnativearm64	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.openharmony.tpc.thirdlib	Matisse	0.6.0		N/A
 io.openharmony.tpc.thirdlib	Matisse	1.0.0		N/A
 io.openharmony.tpc.thirdlib	Matisse	1.0.2		N/A
@@ -1327,6 +1334,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.2.1		79de5e22b
 org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.2.2		e7e82b5c2971be15418d52f67b3a5bc030bc0238
 org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.2.3		98058dd2f1adbf357650652739df03c174400808
 org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.20.0		ca443c76d73b38d4ab0498296feac5e81817a70f
+org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.20.1		1eea3f0f6a77ec53242ecdbd65ba806d39d6124d
 org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.22.0		a4a812e630cf84ba085070d38cab5c492049dca3
 org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.4.0		0fe0ca9d6fa8c52d2eb4aac4205e065aa89fdd13
 org.apache.camel.quarkus	camel-quarkus-integration-test-pgevent	3.5.0		3215caeb7e4fb0217ee672c868a38b14fc2df153
@@ -1841,6 +1849,7 @@ org.apereo.cas	cas-server-support-captcha	7.2.0-RC6		4a216249150697f252ed5ec8ca8
 org.apereo.cas	cas-server-support-captcha	7.2.0-RC6	resources	034120884f68d36b496dbd593da5c3c3183c6e74
 org.apereo.cas	cas-server-support-captcha	7.2.1		a5fd61e55ceff17f740fec0a9cf9113bc658070b
 org.apereo.cas	cas-server-support-captcha	7.2.1	resources	6f8f4375796cfff88ca0c748899b00f2ca8ce2f3
+org.apereo.cas	cas-server-support-captcha	7.2.2		afdf4d97423de75d3eed53844c488323d19c35f1
 org.apereo.cas	cas-server-support-captcha	7.3.0-RC1		596161c14d7587aee83347c5b94499074ee96692
 org.apereo.cas	cas-server-support-captcha	7.3.0-RC1	resources	d76cbba1360289e45f9a8134498d08996d1b18e8
 org.apereo.cas	cas-server-support-captcha	v6.4.0-RC5		33ac8bcf799d1333b823c85690931795941be850
@@ -2175,6 +2184,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-watchosx64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-watchosx64	0.6.1	metadata	69ec258c74dcba221b1aee6ae7a91ea0a75c202f
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-watchosx64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-watchosx64	0.6.2	metadata	e8f2474cf9f5e6f0ffddb7fa7122d8c8e2a498c4
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-core-watchosx64	0.7.0	metadata	88d097aaf5f56c23281bd4263e91b52d2c20d6c5
 org.jolokia	jolokia-server-detector	2.0.0		0a12d8b640e96199eceec17fa1d254077a93ca06
 org.jolokia	jolokia-server-detector	2.0.0-M1		d79e0537581d5df43e6e6bfbad61f5f92b29983b
 org.jolokia	jolokia-server-detector	2.0.0-M2		55a9dbef920741c8bdb990ed44bd1527c7977251

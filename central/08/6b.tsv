@@ -485,7 +485,15 @@ com.easy-query	sql-kt-springboot-starter	2.8.13		d0522256189cb8eb1aa08bced4b075b
 com.easy-query	sql-kt-springboot-starter	2.8.14		ee87b78cc779a007280769f67b1c8fa427b593f0
 com.easy-query	sql-kt-springboot-starter	2.8.16		5450702f4ea278555bfd5266f1fd18bb27c29340
 com.easy-query	sql-kt-springboot-starter	2.8.17		c9fc650351776ff7dda8351f442acb8cde4a191b
+com.easy-query	sql-kt-springboot-starter	2.8.18		723285d2bbdc91f3f5c5ddd6f7f928c7ec58c14f
+com.easy-query	sql-kt-springboot-starter	2.8.19		308a140ee3d40101cc2742f009a145b75ba36d8c
 com.easy-query	sql-kt-springboot-starter	2.8.2		d1994dcc4decbe9381c7c9d2395f50738921f0a3
+com.easy-query	sql-kt-springboot-starter	2.8.20		32b0e4838e64421a6c582a6dc35e74445daf26b5
+com.easy-query	sql-kt-springboot-starter	2.8.21		9e3ae50655ed7d29b99f71b4379b5e48fe4d7ef5
+com.easy-query	sql-kt-springboot-starter	2.8.22		080e83e295dbc60f287caf075e84ade62fcc1e7e
+com.easy-query	sql-kt-springboot-starter	2.8.23		38962efe708d9e7737a2cebc10db2eef1fd9cb14
+com.easy-query	sql-kt-springboot-starter	2.8.24		708fdd736a261a12f0e0bf39247ade40a3158ff7
+com.easy-query	sql-kt-springboot-starter	2.8.25		ecaf1d4446a9737d9d3c3c2e32ee6294bf5da1fd
 com.easy-query	sql-kt-springboot-starter	2.8.3		bc9c49a8bd0a37a195bcfdb60cdf3c727bab16dd
 com.easy-query	sql-kt-springboot-starter	2.8.4		8523882c00083b6557da5692e28026e4ea4e997a
 com.easy-query	sql-kt-springboot-starter	2.8.5		f71e96391141996b0f117426f1d6cea404eee30b
@@ -664,6 +672,7 @@ com.soywiz.korge	korge-iosx64	5.3.2		N/A
 com.soywiz.korge	korge-iosx64	5.3.2	metadata	39e5ec46a92f886bb1dd1bacdc909cc88d14bc44
 com.soywiz.korge	korge-iosx64	5.4.0		N/A
 com.soywiz.korge	korge-iosx64	5.4.0	metadata	3bd3c4ddf55f700c14c6eaebada946826c98ccb3
+com.soywiz.korge	korge-iosx64	6.0.0	metadata	d5510fe26a67f5fa20e6cb1e2c42b4deed7e4399
 com.soywiz.korge	korge-iosx64	6.0.0-alpha2		N/A
 com.soywiz.korge	korge-iosx64	6.0.0-alpha2	metadata	57ce95156fa9c867badb6a0466e0149b907cee15
 com.soywiz.korge	korge-iosx64	6.0.0-alpha3		N/A
@@ -1049,6 +1058,7 @@ dev.zio	zio-aws-s3_2.12	7.31.27.1		2433673bf785319b0a72ab29965ef2eb52182e6b
 dev.zio	zio-aws-s3_2.12	7.31.28.1		06417ed5f44251cbe8a7e351bc954467dfe968bf
 dev.zio	zio-aws-s3_2.12	7.31.3.1		f8efc23ef0756d3747ac2e256ca48d6c7f43688c
 dev.zio	zio-aws-s3_2.12	7.31.30.1		c61fbe27f44c08f2651fe6cb7bd8f87366b210e3
+dev.zio	zio-aws-s3_2.12	7.31.30.2		0abe90383914ede2eb5d7bcf94e2b0f3df588108
 dev.zio	zio-aws-s3_2.12	7.31.4.1		1bf206a95e9f8128bf5c96deabb28aab01175a3b
 dev.zio	zio-aws-s3_2.12	7.31.6.1		60d969efc66a36c88ddc486c57a2a2fcac47f023
 dev.zio	zio-aws-s3_2.12	7.31.6.2		50bcfed2708339d30c0792e0809399def1b2b57c
@@ -1599,6 +1609,7 @@ org.flyte	flytekit-scala-tests_2.13	0.4.59		20dbccb8929aa732078658cf331f99fec03a
 org.flyte	flytekit-scala-tests_2.13	0.4.6		c11b4e5d58e87baa6f33f20785b6612aa199161d
 org.flyte	flytekit-scala-tests_2.13	0.4.60		fa686867f7db25e370957aad30c5faae877e7c78
 org.flyte	flytekit-scala-tests_2.13	0.4.61		1c21cec09b931d9080cd3ed83ae6d0d9adc1317d
+org.flyte	flytekit-scala-tests_2.13	0.4.62		0d73f27661715fc8800a7a7c16eab1a234b08129
 org.gnieh	diffson-testkit_2.13	4.0.0		998f19f1d5a4e30dc368b9fc9d80996ef5fbc145
 org.gnieh	diffson-testkit_2.13	4.0.0-M4		b0cf26985c2f18ac7559bc5ab115d8eb17b8327b
 org.gnieh	diffson-testkit_2.13	4.0.0-M5		6c0445133af23e554507aa60b47897cc8a492a7f
@@ -2228,11 +2239,19 @@ org.wso2.ei	org.wso2.carbon.mediator.cache	4.1.0-m3		4656219d612463fcf256023f753
 org.wso2.ei	org.wso2.carbon.mediator.cache	4.1.0-m4		bdaeae983db324c29d1fcb2763afdd548ea72873
 org.wso2.ei	org.wso2.carbon.mediator.cache	4.2.0-beta		a297d30eadb3cd03aa76ee933548cc9e509badc3
 org.wso2.ei	org.wso2.carbon.mediator.cache	4.2.0-m1		81ce00d51495039c7ec931ef3463a7926adaaa4b
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.10		bd3d941ad7bbb17723504c216a9baacaa78c94ae
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.11		08122888e2de460088fccd922235711028f7e332
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.12		f8d2029e8c097aa834ccc8a58e422716c4bed80b
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.13		cf14c6e3b30e80d0f8d8452a75a2a6f50b60ab97
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.14		98809fa321fd5d8c92406cecf6ceb70d80a24c8a
 org.xerial.sbt	sbt-sql-base_2.12_1.0	0.15		1c232ab8cdb17b7adbfba661522e6ca96fa9026c
 org.xerial.sbt	sbt-sql-base_2.12_1.0	0.16		5bb55e5bdddf4ed3a59672d5ad5aec3ca9a78ca3
 org.xerial.sbt	sbt-sql-base_2.12_1.0	0.17		bc8e7ad2b93f0670192971d56bad01a9226a4936
 org.xerial.sbt	sbt-sql-base_2.12_1.0	0.18		d8907bf0f23280a1bdeb9b027cb0a55567f2e7fd
 org.xerial.sbt	sbt-sql-base_2.12_1.0	0.19		a6600ccca1cd42c0ed4e2960eaa3439a5000b42d
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.7		a8492886beb0f1198a4722f8e179ac5aa29c5106
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.8		7fc611a53336e0980c6296dcc0190dfbcc9c568b
+org.xerial.sbt	sbt-sql-base_2.12_1.0	0.9		a16aef50ee7d5f4ec4a07a0827c61393f8d550d4
 ru.i-novus.ms.audit	audit-client	2.4.23		6c2694aad2f5e685840974f650a44a0d14a6355b
 ru.i-novus.ms.audit	audit-client	2.4.24		7284d54210d7dce01b462c1cb9c93c332a142c01
 ru.i-novus.ms.audit	audit-client	2.4.25		f5542e2d6049191848ea5d56384521bc6aeab480

@@ -429,7 +429,16 @@ aws.sdk.kotlin	accessanalyzer-jvm	1.4.73		11887aa4b9020a0a0e4e6588f8a00f99ebc919
 aws.sdk.kotlin	accessanalyzer-jvm	1.4.74		77d780ce8b7d355c60731cb90b8fd8e72f5455b9
 aws.sdk.kotlin	accessanalyzer-jvm	1.4.75		7467127f23533f1372b00be992cfa327201d2d1d
 aws.sdk.kotlin	accessanalyzer-jvm	1.4.76		f9d0048d090d205022a1089b10a44b78de8a18c3
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.77		09bc40149ed4051309a3740e663f94d20a9f31af
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.78		daec19cf1092ab9a39e9ccf015d935b853f4edef
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.79		f2f4e0b1006bbc9b424214a9097e6822672d31d7
 aws.sdk.kotlin	accessanalyzer-jvm	1.4.8		f96585274dd886affb0e2df446a392767119df2d
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.80		5ee205527e3f61c52884815f3dd1f1e5b83438ed
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.81		664bee8e8b310fef2bb689fc3bbf66923e97331c
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.82		392219387730297d043c2fab8faa49e9c2de8d48
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.83		2ba51a17c449e4cfef232f4699ae5adef0776052
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.84		72271c1b6301a2c49e5a94dcc87f3994dc60c159
+aws.sdk.kotlin	accessanalyzer-jvm	1.4.85		547c74f03a46f6e20fdfc986aaf5674cfeec427a
 aws.sdk.kotlin	accessanalyzer-jvm	1.4.9		c550504b9864310507571a984eaae10da22c48a3
 br.com.objectos	io-compiler	0.1.0		37313720bc65a49f1cfb079273ca4b1022f5d8ab
 br.com.objectos	io-compiler	0.1.0	jar-with-dependencies	faa47944283b5ff6bbfd78d565b3129bdae6029a
@@ -506,6 +515,7 @@ com.atlassian.bamboo	bamboo-specs	10.2.2-m02-BAM-14706-3		32928c9b74feef2d48fbc7
 com.atlassian.bamboo	bamboo-specs	10.2.3		bbc8bf042e89b04f8da5b8f04415c88d921d6af1
 com.atlassian.bamboo	bamboo-specs	10.2.3-m01		c61a279fd1b9418ab0eb7219c02d767d631bce41
 com.atlassian.bamboo	bamboo-specs	10.2.3-m03		85b4997cf9259e4ccefcf5735051b594dfb10209
+com.atlassian.bamboo	bamboo-specs	10.2.4		e893514748abf77abe314b7cdece937f249f7a94
 com.atlassian.bamboo	bamboo-specs	10.2.4-m01		09ec496e1d3d3bd9cf828cac0f1b4edfd3c1f538
 com.atlassian.bamboo	bamboo-specs	11.0.0		45701261004f4974a9d0719e81527ec8b4657485
 com.atlassian.bamboo	bamboo-specs	11.0.0-m01		8bf131c4390bc3a4fd14d3fccfe8afde3aba5220
@@ -514,6 +524,7 @@ com.atlassian.bamboo	bamboo-specs	11.0.0-rc1		711c5c86a95ef1d8d100779fe1af6ec9c2
 com.atlassian.bamboo	bamboo-specs	11.0.0-rc2		c132a1bb68424611f0759d7cc76524f08dca24db
 com.atlassian.bamboo	bamboo-specs	11.0.0-rc3		e21f73f4d223d259eed116f44b5e50b29188701f
 com.atlassian.bamboo	bamboo-specs	11.0.0-rc4		0bf7d56ef9badf9f1a188046d8a2ce5b38ab9b57
+com.atlassian.bamboo	bamboo-specs	11.0.1		5c68f00c5c559fb63b7ebe46c440bb0577e1590f
 com.atlassian.bamboo	bamboo-specs	2.0.145		40f52ca23c36327598d02f2226fb78054dc05d91
 com.atlassian.bamboo	bamboo-specs	5.16.33		83e3861138aaa83e7bad982abc7026fd0e9f76ba
 com.atlassian.bamboo	bamboo-specs	6.0.0		c05b7836a25e98f94253624290ca7f3fa1f01d58
@@ -725,6 +736,7 @@ com.atlassian.bamboo	bamboo-specs	9.6.10		4d1f4652e477f0559d31abfe71f7ddc4d645b1
 com.atlassian.bamboo	bamboo-specs	9.6.11		0f35f46293cd9e0c1b8282ec30eead85e67d79b7
 com.atlassian.bamboo	bamboo-specs	9.6.12		828b30ea2cacd4e1cc05879d576e032350e95404
 com.atlassian.bamboo	bamboo-specs	9.6.12-m01		a417f5006c156b12f0399dbd08f51ad842f696fb
+com.atlassian.bamboo	bamboo-specs	9.6.13		1769fcf14a81f087a16c94f4849c699c622b5b20
 com.atlassian.bamboo	bamboo-specs	9.6.13-m01		e235c6471661bc95f1cc6e3f6351ab5664ad032b
 com.atlassian.bamboo	bamboo-specs	9.6.2		c627c64d3569725c223a9f05dbd04118aae6295a
 com.atlassian.bamboo	bamboo-specs	9.6.3		6ae7145740d513757747c1e42abb83cd38fa8f10
@@ -922,6 +934,8 @@ com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.143		5db865a032c827cbcc217642a268c9
 com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.144		632e060e2c02c7eda4294474ff10cd954248934f
 com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.145		f32a19a23de43001fe0bae38e6ff810c680d7f1d
 com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.146		cd060921dc6f2ffb25a551d148aa335ab1859d25
+com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.147		d0cbeb46bbbb8c9203da21e3e4ab50d6493dfe44
+com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.148		0b9e4cc70e1ada65a43e7820511414be24640b1f
 com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.81		40779feab922563a5a0ac99ffa6fa8055da5957c
 com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.82		04aa84bcfad94e98929f895f9e00a38f5f118f74
 com.huaweicloud.sdk	huaweicloud-sdk-geip	3.1.83		5c3134f446615fc77ce533ed91db2e0f0b39130a
@@ -1009,6 +1023,8 @@ com.vaadin	hilla-dev	24.5.8		062df2ae0dfb62741faf4df61b7f5918855dba04
 com.vaadin	hilla-dev	24.5.9		c1c4bf8e357a32e38397f6af97ec99cb2d458664
 com.vaadin	hilla-dev	24.6.0		f948df3d0e8d5dbf202412153f3875f98d3837c7
 com.vaadin	hilla-dev	24.6.1		c77712e2dec0222f5804615ce88762fb4fa698f9
+com.vaadin	hilla-dev	24.6.10		c1838f076e40e4c6da65bc1e3331e3895ca4c6ec
+com.vaadin	hilla-dev	24.6.11		2e03b079949a59adf4f0322a2f82a3c63638257b
 com.vaadin	hilla-dev	24.6.2		67baea9591ce76dbe8d76a7806de08da6faabb18
 com.vaadin	hilla-dev	24.6.3		f53b95837c3c40a09935803dd5b30e0561b91c13
 com.vaadin	hilla-dev	24.6.4		5971ae16b3b6022d405255da61bcac61f6ef4b14
@@ -1021,6 +1037,7 @@ com.vaadin	hilla-dev	24.7.0		33f4170f0b9a33f4937adfffc6b3d2a74d351781
 com.vaadin	hilla-dev	24.7.1		fbb78277a0663fdfd9f839ca4097d0a25fb7b3bd
 com.vaadin	hilla-dev	24.7.2		f97ce9eecb3dce329c2fe1516248055b40d84617
 com.vaadin	hilla-dev	24.7.3		8c8f2397cda29c1fa4d3136bb9df0aa1dbad9111
+com.vaadin	hilla-dev	24.7.4		6f7defde3beeae2a978151883573cb560a755c6c
 com.websudos	phantom_2.10	0.9.11		f1c9e5fe6235f72cb90ea5ef3f1311b9a68b5064
 com.websudos	phantom_2.10	1.0.0		6cdf1f3fd3cd6d29e81b354711c38df930cf73bf
 com.websudos	phantom_2.10	1.1.0		c19b469b8e015d1e50d39fb21ebd8f3a8c982b48
@@ -1200,6 +1217,7 @@ io.ktor	ktor-server-content-negotiation-androidnativearm32	3.0.3		236087ee15f55d
 io.ktor	ktor-server-content-negotiation-androidnativearm32	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-server-content-negotiation-androidnativearm32	3.1.1		fede44b0f1487dd925915b259a422d3750f6e495
 io.ktor	ktor-server-content-negotiation-androidnativearm32	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-server-content-negotiation-androidnativearm32	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.sreworks	tesla-mybatis-spring-boot-starter	2.1.10		8ca2fca670de1153b1847e103e3de948c8c4a3c4
 io.sreworks	tesla-mybatis-spring-boot-starter	2.1.8		7eb679566cdae9c777ebf84bc16b78facfc15e4b
 io.sreworks	tesla-mybatis-spring-boot-starter	2.1.9		c6ca4463dc386343f1af3371b458f1529e1e2490
@@ -1668,6 +1686,8 @@ org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.17		c9cc490894900c7
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.18		4a2ffdf00cd22b9395f67c969541b63ab48c01fa
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.19		a6db7e6f3b13028bb07d37abe78ce43d3c69e975
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.2		c3f39b23dbc614147088992e07fcf6aeeb1fd34e
+org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.20		65f6daf77ef495506b0403f6d4ea8877ff641854
+org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.21		5dbb4778a78f88171198f00ff90d0c48f5ed1e53
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.3		216136b56f2e2e50124fba5b8761d7254f43bb61
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.4		1f257240af1123c7333e5062daa8c16f80164fe3
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-web-fragment	12.0.5		e1e6f12f57ebb791e5a6875e7b1a6d6f47f6083e
@@ -1706,6 +1726,7 @@ org.eclipse.pass	pass-core-usertoken	1.9.0		73c044d9420f596572f9e9af5750b145b73f
 org.eclipse.pass	pass-core-usertoken	1.9.1		8d1c1da96888f82da9b4124d41d046b2354909f3
 org.eclipse.pass	pass-core-usertoken	2.0.0		b8b6ce28ce17a97d6290625de9781030ea4f32c2
 org.eclipse.pass	pass-core-usertoken	2.1.0		2380c9bb5779b4c4d004b74cee21fd72116c687e
+org.eclipse.pass	pass-core-usertoken	2.1.1		8ffdbe7e1cabb297405ac0387bd009301d64252a
 org.friendularity	org.friendularity.bundle.demo.ccrk	1.0.0		e2e854fb85077dac4ff3a948e0147d5885a08993
 org.friendularity	org.friendularity.bundle.demo.ccrk	1.0.1		68a41a21614a35a4b2abd8ca134c1158b819fa6a
 org.glassfish.common	amx-j2ee	3.0		de93164c265fb9fc7527a8463c5dcb361e8c8937

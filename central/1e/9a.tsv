@@ -50,6 +50,7 @@ com.1gravity	bloc-redux	0.9.0		4abc4b79a57cb4616e23cb4587c106cc10035307
 com.1gravity	bloc-redux	0.9.1		984144f49a06c310b2b6bd2cb1b5fce328dedc2e
 com.1gravity	bloc-redux	0.9.2		325c3763a92e4dbd397adef1501afcc7b8371010
 com.1gravity	bloc-redux	0.9.3		325c3763a92e4dbd397adef1501afcc7b8371010
+com.47deg	energy-monitor-plugin_2.12_1.0	0.2.0		9492a98521964bd6dc5b011039522b839238b4b1
 com.anthonycr.mezzanine	core	2.0.0		e143558c3de1e0f39e257d12be4f5c295053d0a5
 com.anthonycr.mezzanine	core	2.0.1		bb2aa1fee1cf75446202f7be6573d3d68ace93f3
 com.anthonycr.mezzanine	core	2.0.2		8a288f9236927b1e0bec3bdbc83aecc907bf26a2
@@ -394,6 +395,10 @@ io.exoquery	exoquery-engine-jvm	2.1.0-1.1.0.PL		27c22206757187e8afffb25c2fcaa298
 io.exoquery	exoquery-engine-jvm	2.1.0-1.1.1.PL		4703d94701e11a4897929a87c6ec2f15c1bb847a
 io.exoquery	exoquery-engine-jvm	2.1.0-1.1.2.PL		1187418f2e96fc0fe0a7cca1f9a25a33bd3fbec3
 io.exoquery	exoquery-engine-jvm	2.1.20-1.1.2.PL		7b7224223c53d106b7eb924d0726bfdaf1aa45d0
+io.exoquery	exoquery-engine-jvm	2.1.20-1.2.0.PL		210340f2c41b71ac04ac073e3f3524b4c26a65f9
+io.exoquery	exoquery-engine-jvm	2.1.20-1.2.1.PL		36ab71932f92816b037cb125c61ef872b71099f1
+io.exoquery	exoquery-engine-jvm	2.1.20-1.2.2.PL		166357bf06b7af671ac8a1c3b39db8954ee780e0
+io.exoquery	exoquery-engine-jvm	2.1.20-1.2.3.PL		202fff56c54cd12330c193bf40a3b9a4c9531d3e
 io.fabric8.insight	insight-kibana3	1.1.0.Beta1		d8a30e7542331ce143f013739c39450a44377aff
 io.fabric8.insight	insight-kibana3	1.1.0.Beta2		1bdce6125fd866fdff1b3669c38943611b99d28c
 io.fabric8.insight	insight-kibana3	1.1.0.Beta3		493815182f62213bef8e881956571d281d6c233f
@@ -548,6 +553,7 @@ io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.28		67a6f50bafabee
 io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.29		a18292d2184d721901d637da09cbbbb366828a63
 io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.3		7baf806f7d8975bd7fed96a89a6e3aff4e73caa1
 io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.30		fccf3f2e2f2669829d5f6150ec48cbb502bd5205
+io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.31		dd9ce0ef0d5c748290bc82009b597e9c6a2249b2
 io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.4		aa7b315b63603bc7e01e53cd178ffdee79c7531d
 io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.5		5153c1b6eaa3904afaf6696e6fa1583e51406153
 io.liftwizard	liftwizard-config-logging-filter-requesturl	2.1.6		0bf448b1faf7408168268700c3bd7aa78c34bbd4
@@ -667,6 +673,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.2
 org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.2.2		c4bcb747a08dee3be22b14031e81bab0ce1d0a83
 org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.2.3		eb77d777ca695c2a44c0cc172fe553344dabe02c
 org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.20.0		0acd7362e2c444e1397412865ea775fa955bc937
+org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.20.1		48eda41435b0c5f36f0c470391c02ae319e7095d
 org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.22.0		65ba83fdcbff937a7e0183a9474f00270139f03b
 org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.4.0		2cc39c8dfc12bcd1e44301395be1961b18c1c143
 org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.5.0		74455d0ef9ac01a42fe975f845c48a07b05583b8
@@ -681,6 +688,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-jms-qpid-amqp-client	3.9
 org.apache.maven.scm	maven-scm-provider-starteam	1.0		4cd940529154e36386ddeab9ebd365eafd130c7f
 org.apache.maven.scm	maven-scm-provider-starteam	1.0-alpha-1		49b0e943817872d298a18197af0d62c29187f03c
 org.apache.maven.scm	maven-scm-provider-starteam	1.0-alpha-2		67e29af70b771d9c258263c4650d5ed9ef9d291e
+org.apache.maven.scm	maven-scm-provider-starteam	1.0-alpha-2-20050712.153836-2		c68b242a67242cfca4c4279f6e16c55e0fe475ab
 org.apache.maven.scm	maven-scm-provider-starteam	1.0-alpha-2-SNAPSHOT		c68b242a67242cfca4c4279f6e16c55e0fe475ab
 org.apache.maven.scm	maven-scm-provider-starteam	1.0-alpha-3		c7d42d1e074bb7821c0f81a7adfda3a1bb9cf25b
 org.apache.maven.scm	maven-scm-provider-starteam	1.0-alpha-4		ed0ad391e0bfa05db209fe25f9a5be8bc7474fce
@@ -1231,6 +1239,7 @@ org.scalatra	scalatra-swagger-javax_2.13	3.0.0-RC1		a33a4d9b576e68b85ffc2a00e5f2
 org.scalatra	scalatra-swagger-javax_2.13	3.1.0		6e21dd3895a48de7a4b152c46958d254f86f1768
 org.scalatra	scalatra-swagger-javax_2.13	3.1.0-M1		0c69eec6bc5cbc5f23a1872e2ed2a3e85fa48a33
 org.scalatra	scalatra-swagger-javax_2.13	3.1.1		49dabf4d96d1d63a86603ea3a3be4ce9649d4295
+org.scalatra	scalatra-swagger-javax_2.13	3.1.2		ff4d48a3417ce2f5ab3ef361b5cf87152100ae15
 org.scalaz	deriving-plugin_2.13.6	3.0.0-M3		ff55670e594184ce30c875afe06302278f7df563
 org.scalaz	deriving-plugin_2.13.6	3.0.0-M4		3f52b2cccbb6ecb2051fe3b88b6e175b9e9a949e
 org.scalaz	deriving-plugin_2.13.6	3.0.0-M5		1b96296708b6ee5dea9b32e04c18c59af0fbb4e4

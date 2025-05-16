@@ -457,6 +457,7 @@ com.google.appengine	appengine-resources	2.0.32		d4ca4c6bf6a93b47e85105694e68627
 com.google.appengine	appengine-resources	2.0.33		eaa61508d43ff1a413f9b3652f6d3220fcbc455b
 com.google.appengine	appengine-resources	2.0.34		418f5857dcb1e64817450efa77da32a79b738f86
 com.google.appengine	appengine-resources	2.0.35		4e499f68fda5d09f1f373e912e2f0419b32d48e3
+com.google.appengine	appengine-resources	2.0.36		197c09a25710a5a004a27e9a3e766783caf00d56
 com.google.appengine	appengine-resources	2.0.7		ff5b3be5a90679863f884017f6f1b36242094778
 com.google.appengine	appengine-resources	2.0.8		eb553749a9b0ee52801ff16d496ab8eaa858a89f
 com.gravitondigital.app	azureadidprovider	1.1.0		ab6d7e6b08bf5e24584ecda041662cd0e08e1b86
@@ -781,6 +782,7 @@ com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-11		N/A
 com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-11	metadata	7f537d5eb9b3f636ff9a72c59b7cb3ad4b8fb434
 com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-11-kotlin-2.1.21-RC		N/A
 com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-11-kotlin-2.1.21-RC	metadata	e4f453e8e93e3132a03d635096427c40716c182a
+com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-11-kotlin-2.1.21-RC2	metadata	17f6a8a21504085956ca2bdb64e92b4a15a15179
 com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-11-kotlin-2.2.0-Beta1		N/A
 com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-11-kotlin-2.2.0-Beta1	metadata	509c7c344d4b15f6c07d5002ff27a67c1d18f85e
 com.rickclephas.kmp	nsexception-kt-bugsnag-iosx64	1.0.0-BETA-2		N/A
@@ -1094,6 +1096,7 @@ io.spring.javaformat	spring-javaformat-formatter	0.0.40		788ce6042b32d27506ded3d
 io.spring.javaformat	spring-javaformat-formatter	0.0.41		bd07a6b5479e7d83447c668680c203c672adaa61
 io.spring.javaformat	spring-javaformat-formatter	0.0.42		ac87e4bee267d30e64ffef4810ef380937c47e5b
 io.spring.javaformat	spring-javaformat-formatter	0.0.43		5da92e2af2e7a5d6aa7671cbf2caed8d0af42f5b
+io.spring.javaformat	spring-javaformat-formatter	0.0.44		c2c3f5f7ea2f14f0f4d580dae2f3813c773002e0
 io.spring.javaformat	spring-javaformat-formatter	0.0.5		e4b1b8e5ef15633125d990617f12e738cccd760f
 io.spring.javaformat	spring-javaformat-formatter	0.0.6		113748d6fb995aa84019e81af03f85b82b576d86
 io.spring.javaformat	spring-javaformat-formatter	0.0.7		795f58bacd250d14c13d278ab168c60712ab06b5
@@ -1289,10 +1292,17 @@ org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.79.0		370
 org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.80.0		d2c64c0f07058bfb2e33b0cb6b557ad081dd1278
 org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.81.0		42e74d974b0a414d632b8580e7e72e20221c4a16
 org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.82.0		0b76aaf3be8a6b5d4a68660d5231af2f8470cf85
+org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.82.1		83ae2f70933d6ffcede34fcd9c610233d452a785
 org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.83.0		ae16f5aaf55b6b40dc7e0d16636bff764d695aef
 org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.83.1		4cef856d22c4c4307e426aeb622ae48122ed1476
 org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.83.2		154d6d5f319136ca40357c647681778f620d5636
 org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.83.3		31779772f3b78886d378eaf0026c93360092e38d
+org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.84.0		e6ec58f706d427673c6351b64464d3661cc32b70
+org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.84.1		73de6cdce696928b57c999e203364575eb56b3ca
+org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.85.0		4fd69434b9f5c8f2bc6e1b67d6f19fac011d87c4
+org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.85.1		436ce2eb2c8da5a58eb0d83f1d0acdb05f8bdeed
+org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.85.2		ce67eff3cfca44f771b6b14a9f5f23f426d8c3f2
+org.finos.legend.engine	legend-engine-language-pure-grammar-http-api	4.85.3		1b2e38f141b52794aeee01f0eea476504fa9791e
 org.grails	grails-web-sitemesh	2.4.0		cfe8ebafb63e105993b318506b6099ca16f8b5d5
 org.grails	grails-web-sitemesh	2.4.0.M2		7048120cf90b25901712766344d2b594f26b137e
 org.grails	grails-web-sitemesh	2.4.0.RC1		1821a5a2e9fce79b58d31aa9b70547b9d9eaff78
@@ -1799,6 +1809,7 @@ org.wildfly	wildfly-weld-webservices	35.0.0.Final		69a6d0bb6ea48780d37d5d1f50f81
 org.wildfly	wildfly-weld-webservices	35.0.1.Final		e9f8da4c64b1a59ef1adbe9846821cc2bb693086
 org.wildfly	wildfly-weld-webservices	36.0.0.Beta1		82d3763d5b2cb97211edffededb779c2a46c3b9e
 org.wildfly	wildfly-weld-webservices	36.0.0.Final		933b8fe5cc393cc29e4c1a4fd3065a8f446b88b1
+org.wildfly	wildfly-weld-webservices	36.0.1.Final		670470a2a9f566a439a498d32a30cb380df600c5
 pl.touk.nussknacker	nussknacker-flink-base-components-tests_2.13	1.13-RC1		0964e17ee709d49fe3691667da78395d9856784b
 pl.touk.nussknacker	nussknacker-flink-base-components-tests_2.13	1.13.0		36221a7dd7cfbc86866d3a3b1b0deb27001fbefa
 pl.touk.nussknacker	nussknacker-flink-base-components-tests_2.13	1.13.0-RC1		02cd5a5e1228140c7d85f0c3af91153f68401129

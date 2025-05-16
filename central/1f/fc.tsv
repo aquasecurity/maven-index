@@ -20,6 +20,7 @@ com.c0x12c.featureflag	core	0.2.0		db315025c86525e35bcd239a463c57ed3ed046bf
 com.c0x12c.featureflag	core	0.3.0		4a6ecdaf00db0e2cefee2f1656a9b644f1418177
 com.c0x12c.featureflag	core	0.4.1		b1d839c154b4939ec0f541ad4097e9eddedc2390
 com.c0x12c.featureflag	core	0.4.2		ba0baf806c1d8ff43561ee1881e43c002f674472
+com.c0x12c.featureflag	core	0.4.3		435aac914d8587ed1a49154ffec0a83a0b6e0c7a
 com.c0x12c.featureflag	core	0.5.1		f56ea0f2a56f20a08e323b3edbb8f946974a5acb
 com.cesarferreira.rxpeople	rxpeople	0.1.0		N/A
 com.cesarferreira.rxpeople	rxpeople	0.2.1		N/A
@@ -35,6 +36,10 @@ com.dlsc.pickerfx	pickerfx	1.2.0		4b470caff40e07661600ace0165ec68e053792b2
 com.dlsc.pickerfx	pickerfx	1.2.1		e229a5bea7e6400a9d05f59c9a631261d53f9683
 com.dlsc.pickerfx	pickerfx	1.3.0		bd7c90cfe9072dfb6e52d10fc6cc953fe71dc746
 com.dlsc.pickerfx	pickerfx	1.3.1		689c2043514f3a0893945ec1de097daa0fb8bab5
+com.dwolla	scrooge-importer_2.12_1.0	0.1.0		cadf34d88fc3a8f006258d859a40daba64ed502c
+com.dwolla	scrooge-importer_2.12_1.0	0.2.0		fecdccffbd67d55e419c57363535762224a51a8b
+com.dwolla	scrooge-importer_2.12_1.0	0.2.1		e01f04c9fb88396f1cfd63979d285e82da149e60
+com.dwolla	scrooge-importer_2.12_1.0	0.3.0		e30ab81b12ee8584a210f45f56a9980fec21305d
 com.github.EmergentOrder	onnx-scala_0.23	0.3.0		05d1569df919ab9f63538291753bc651e4ce161c
 com.github.EmergentOrder	onnx-scala_0.23	0.4.0		786508cbb3b9684e7566bda90c9b401abf8478b4
 com.github.EmergentOrder	onnx-scala_0.23	0.5.0		fc9e751272e20b8f4448306b3fa2667a496e86b3
@@ -260,6 +265,7 @@ com.zaxxer	nuprocess	2.0.4		a3a4d5ec948a8c71e4885c607d603392b027fc98
 com.zaxxer	nuprocess	2.0.5		d98f476eb858a64d8bad10abfa320b5d04b4d707
 com.zaxxer	nuprocess	2.0.6		383d9b3062047c394123d2ac9cd5a020067f05b9
 com.zaxxer	nuprocess	3.0.0		2d3dd54e5f7d9a9768ac20c4f30e7898f02adda6
+de.otto	jetty-ldap_2.12_1.0	0.1.2		e549d2ceed6b0d895ac22abb5821d4d5adb71d07
 de.wayofquality.blended	blended-karaf-parent	1.1.2		N/A
 de.wayofquality.blended	blended-karaf-parent	1.1.3		N/A
 de.wayofquality.blended	blended-karaf-parent	1.1.4		N/A
@@ -267,6 +273,7 @@ dev.opensavvy.ktmongo	bson-multiplatform-tvosx64	0.14.0		N/A
 dev.opensavvy.ktmongo	bson-multiplatform-tvosx64	0.14.0	metadata	9566527b12f638b815ce005f6680dd17f0a72007
 dev.opensavvy.ktmongo	bson-multiplatform-tvosx64	0.15.0		N/A
 dev.opensavvy.ktmongo	bson-multiplatform-tvosx64	0.15.0	metadata	e9f321833dd39f74467ad79139d22cf4f77b2071
+dev.opensavvy.ktmongo	bson-multiplatform-tvosx64	0.16.0	metadata	d4e0cc244455ad0b50ef41e5da2f78c9f9982ea6
 dev.vality	org-management-proto	1.10-f433223		79917adebdf6534b59e6a918a8a301d333c355cb
 dev.vality	org-management-proto	1.10-f433223	v10	f4b43d9ad80ccf42be3fc3d29bc178d8ea0a26c4
 dev.vality	org-management-proto	1.11-03a269d		a618ee73e784b72e4cdc952f9f74975f6135d69e
@@ -798,11 +805,45 @@ org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.79.0		73efcf7908f6d6
 org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.80.0		7ed3194a5d167abf32e47034c08ef3a5ca3b64ab
 org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.81.0		455e5cfc083aaef4349273c258c1ea535f37ec68
 org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.82.0		4942d8abc73ee1d633f6eed0c4c77669aab73848
+org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.82.1		78ef41bd3287346139d6e7dff8edee8119f980fc
 org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.83.0		b288019318e55bb2abd8f6ab4373baaeb4a9d2c1
 org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.83.1		11a6f7ed2e2079d03484da5e2b38f5954631bbf2
 org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.83.2		fcc1ea6375c96b03a5a37e9b98481da1bde2ff54
 org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.83.3		3ee539001e26f05c43f963c18094dea0b4aa0b91
+org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.84.0		f30bb0c2b4424ad7d6641fbb0d8aa7ff1ba7c77e
+org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.84.1		e5c7777fb5fc353ebbd9651bf0539998baaaed7c
+org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.85.0		958b2d85275465b642e1f99d2333aa0ab8481767
+org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.85.1		5d1ec80f713d7ced8a17345f62b12bd6676c2287
+org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.85.2		65706a81314a7e0ab9ebe70e7725c3d275ab5dfc
+org.finos.legend.engine	legend-engine-xt-graphQL-http-api	4.85.3		8ea158599bac20cbc2867b22b7779f0c9a5b1172
 org.fosstrak.capturingapp	capturingapp	0.1.1		N/A
+org.hammerlab.sbt	base_2.12_1.0	1.0.0-M1		46b4a5354ff50f331a440cd0096c6550df7d3ef6
+org.hammerlab.sbt	base_2.12_1.0	1.0.0-M2		a9be6cec2d7f1a06c3260842dd1e89f726101212
+org.hammerlab.sbt	base_2.12_1.0	1.0.0-M3		3e0fe56a9b44e78ef486521e3c0ee5d3a49b176f
+org.hammerlab.sbt	base_2.12_1.0	1.0.0-M4		8a3b9b83018bf0326414ac48ba35c5d40bc1a3b0
+org.hammerlab.sbt	base_2.12_1.0	1.0.0-M5		d490dcfca3fe9a3bdba08c70df9397d1bab1bcc5
+org.hammerlab.sbt	base_2.12_1.0	4.0.0		d8a0fd857aa5bc0176e00ed0d81caa309a96ca9d
+org.hammerlab.sbt	base_2.12_1.0	4.0.0-M1		be7bd50955983928cf49d9a1106d181452f25ed6
+org.hammerlab.sbt	base_2.12_1.0	4.0.1		01653a6a893799788347b38a996972619e932166
+org.hammerlab.sbt	base_2.12_1.0	4.1.0		d2df58fef98cbeb2a72ebad23d1b493a3c83a0f1
+org.hammerlab.sbt	base_2.12_1.0	4.1.1		07f6c375de8e0224b8a051b2f09ad657c7427732
+org.hammerlab.sbt	base_2.12_1.0	4.2.0		0749fe45b8dc0e5dfd0558edb08727f1fbe8af2b
+org.hammerlab.sbt	base_2.12_1.0	4.3.0		983508873e42fc4eaa2f32b6a1726d989e2a3c39
+org.hammerlab.sbt	base_2.12_1.0	4.4.0		52cc668336a8fbfc15a13b6e0d3bb2ebb2e26923
+org.hammerlab.sbt	base_2.12_1.0	4.4.1		5a80fa56c809c8a18eb120e113a2a7c34a608c4d
+org.hammerlab.sbt	base_2.12_1.0	4.4.2		80c46e2b42539e11f5e6378e33c629aac2d89eb1
+org.hammerlab.sbt	base_2.12_1.0	4.5.0		de94fc111bf31e89ab091edcd6ce8e4ce4d2aac2
+org.hammerlab.sbt	base_2.12_1.0	4.5.1		71f6a472ebb43fa48c5a9194ee2cf7d43ad35527
+org.hammerlab.sbt	base_2.12_1.0	4.6.0		1856d0911231e3613588d4458bd05d011ace45a0
+org.hammerlab.sbt	base_2.12_1.0	4.6.1		f35c7349a2b1fb2aac9f8dbbdbbc1b7975b26160
+org.hammerlab.sbt	base_2.12_1.0	4.6.2		4b49e06807d19975783d782ae007d4bfe2da29e3
+org.hammerlab.sbt	base_2.12_1.0	4.6.3		023953107c81a1b8db2d125ce408677dbea0c36c
+org.hammerlab.sbt	base_2.12_1.0	4.6.4		beb4587f02d36e3f9cef2b4891768c740fbf6943
+org.hammerlab.sbt	base_2.12_1.0	4.6.5		7b81beedf26494a94d8e89ab606f2a903c4cf7a7
+org.hammerlab.sbt	base_2.12_1.0	4.6.6		a5b02a380e557ce9a3789f73dc17f92d02f580d7
+org.hammerlab.sbt	base_2.12_1.0	4.6.7		e890825a0131896c278042749dfdbd2d06a0887c
+org.hammerlab.sbt	base_2.12_1.0	4.6.8		bad12a87dcb97b60d89cce393c29826202f7edbd
+org.hammerlab.sbt	base_2.12_1.0	5.0.0		b45c809fb18bc2ce8c6594f75175a432757bf915
 org.kordamp.ikonli	ikonli-icomoon-pack	1.9.0		f1432bd2893a1f9137c7cb744c2f63ab0514f170
 org.kordamp.ikonli	ikonli-icomoon-pack	11.0.0		49e32af23c838296856e4a0d32f13898a79ffb00
 org.kordamp.ikonli	ikonli-icomoon-pack	11.0.1		67425e463e8dc4e9e8d2f07992ad4a8c4f184823

@@ -433,7 +433,16 @@ aws.sdk.kotlin	macie2-jvm	1.4.73		96f60a105ea4e2a188075f763e75b6aa4c62cb37
 aws.sdk.kotlin	macie2-jvm	1.4.74		7976436c4c308248104a098fc4e59de699da65b9
 aws.sdk.kotlin	macie2-jvm	1.4.75		343bf0283e3b791fb495a87289a6a905cf56762b
 aws.sdk.kotlin	macie2-jvm	1.4.76		bcd99507acb709a19dc5d704b3af6c2a8691a1a8
+aws.sdk.kotlin	macie2-jvm	1.4.77		3e53e10defa58ee6059ef7696883aa93498c2a61
+aws.sdk.kotlin	macie2-jvm	1.4.78		42791fd5f28b007f673d7cca433b1ca6fc33b44b
+aws.sdk.kotlin	macie2-jvm	1.4.79		b2202018354e3ba17c9fd26a37dbd45b2441686e
 aws.sdk.kotlin	macie2-jvm	1.4.8		08a0c5725f81011e8ba9cbf0a2bd912b2254288e
+aws.sdk.kotlin	macie2-jvm	1.4.80		f84953eb4917a3cf9c98587996d149993832037c
+aws.sdk.kotlin	macie2-jvm	1.4.81		c98e8613fdefa6a73946b8ef02624164077a16ee
+aws.sdk.kotlin	macie2-jvm	1.4.82		c3942ca477b5d427f1b5bd19f4852f80d6a16620
+aws.sdk.kotlin	macie2-jvm	1.4.83		6c6c812e20ed40876c6c8b3bd2b98e5d47828337
+aws.sdk.kotlin	macie2-jvm	1.4.84		d626dd1ee3b047d4eaa0316444e18dbb8baf5a1a
+aws.sdk.kotlin	macie2-jvm	1.4.85		a5fac174620e526d0d632bcc4ae1547c28fde4eb
 aws.sdk.kotlin	macie2-jvm	1.4.9		1b198bd0a76032f493d4084a405a5beaa2ca34d1
 ch.epfl.scala	scalafix-cli_2.13.13	0.12.0		a61f7e4c2c70b00b0ef66a375e4577bbeb818c70
 cn.herodotus.stirrup	access-core	3.3.0.0		f41c70943026c07611c6a49dc2f0c8b93f0fdfc3
@@ -597,6 +606,7 @@ com.cognitect.aws	chatbot	871.2.29.35		0edbadcb8cde5093a14e3ceed0f2fdc963eed922
 com.datastax	remote-junit-runner	0.1.2		7904d0846b1a6315ffe3abcb45d38ef41cda807a
 com.empyr	android	0.1.6		N/A
 com.g2forge.bulldozer	bd-build	0.0.1		eb63ac518f06de474eaed678c2f6e37929b590c2
+com.gatournament	gat-java	0.0.1		b3ab3620e9f19efd6f1ab3cbb82934b478d2b1ec
 com.github.arucard21.simplyrestful	simplyrestful	0.2		d209f415ff512ec73bc2c3c847c1e96a5fd15271
 com.github.arucard21.simplyrestful	simplyrestful	0.3		beb3b836d3161bf203f990e3ee6e60d402c86611
 com.github.arucard21.simplyrestful	simplyrestful	0.4		a9b334d788bdcbf96f025e61632e81503d291c7f
@@ -1104,6 +1114,7 @@ io.automatiko.workflow	automatiko-workflow-bpmn2	0.41.0		444f8ba3fc8200db52ad890
 io.automatiko.workflow	automatiko-workflow-bpmn2	0.42.0		2fe0ba4f5b5611cd48636e421090216a19b2e3a6
 io.automatiko.workflow	automatiko-workflow-bpmn2	0.42.1		b83816dd5294be07535a98860c9f74cfcc4914c7
 io.automatiko.workflow	automatiko-workflow-bpmn2	0.42.2		64d162faec357d505bc2c70155886038829b9ca8
+io.automatiko.workflow	automatiko-workflow-bpmn2	0.43.0		e88f0ce857de667536d0f558c1fd43f607cca93d
 io.automatiko.workflow	automatiko-workflow-bpmn2	0.5.0		3db1c718b8c587bbc4f9e78b926da7ff2ac05b1b
 io.automatiko.workflow	automatiko-workflow-bpmn2	0.6.0		44f7728ed4f79c26cfbe902833d30d63c44edaf4
 io.automatiko.workflow	automatiko-workflow-bpmn2	0.7.0		de8253462b92555e2226b9940177b3274ba12d74
@@ -1544,6 +1555,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.2.1		c572db9
 org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.2.2		7e429ae98d22f3443cc5a5fd39a8e67a50c5b79e
 org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.2.3		982ef715b53b17c797a8035d379db6664ad62b09
 org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.20.0		c864b620ff2792e13b3b87914b5c911d558898d5
+org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.20.1		5e0008d00ea8c163d655ec0156525d874cb4004d
 org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.22.0		1c05b35648582728320ec2e2ea17d096309e3f29
 org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.4.0		102b78f54c5e66e56a046d1f60fddf2cecb6f0a0
 org.apache.camel.quarkus	camel-quarkus-integration-test-main-yaml	3.5.0		eae2833f85cedd6780410d2c201ceb13ee1ae2d6
@@ -5564,6 +5576,10 @@ tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.0.8		N/A
 tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.0.8	metadata	3a6cfeaa584d764054a7358f741158b0a2926d36
 tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.0.9		N/A
 tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.0.9	metadata	c5a2b19b7110fd55078f740956fd6f13626d7ae6
+tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.1.0	metadata	7acad5b0a6df99966c4adb4ab99ab8b016f8c71c
+tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.1.1	metadata	b96487f1d83efcbf4d36967c123887cb13f2f9a6
+tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.1.11	metadata	4a5826e8b6df964016fd7c92cb8a1a9f398ac0c4
+tz.co.asoft	raven-outbox-server-watchossimulatorarm64	3.1.12	metadata	0142fc4e2254aa0017414f4725e746491d2d491b
 uk.co.unclealex	play-json-discriminator_2.12	1.0.0		021df129adce9aed675e76f00294fe6a79b6cc58
 uk.co.unclealex	play-json-discriminator_2.12	1.0.1		d6fd22d007a00fdb6b99e87c396347eba880db3a
 uk.co.unclealex	play-json-discriminator_2.12	1.1.0		93d3dbc1afbf2f25ac968f97ebede710da9c56ae

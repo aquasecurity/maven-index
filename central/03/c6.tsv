@@ -238,6 +238,14 @@ com.jd.live	joylive-router-springgateway2	1.5.2		fedf1cc6580066e652d331181e73e85
 com.jd.live	joylive-router-springgateway2	1.6.0		a75b50024be7d2505be85ee95bdbcd969c8efc75
 com.leobenkel	zparkio-config-scallop_2.13	3.2.3_1.1.0		de26442a94277b3e96d7c11410dd8697805d5ef9
 com.leobenkel	zparkio-config-scallop_2.13	3.3.1_1.1.0		fe7c22315180bc1b902a41d83314bad75e076c50
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.10		c6a53fdef894759338ed3943c54355ebef903f69
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.11		dc506c680032bc1203d20c99315a68613ed0f812
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.12		b16f6f49ce36416a6ccfc3b701c9f779b1742afc
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.13		32fe944935701832d1f5965260c5ce583cdbbe72
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.14		47cdb8a7137462cab244e6688182d24b97cf7e2a
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.15		5f8a38863e77e08135c94b59ad96dcb7d1c10c02
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.16		aabba9445ea8b08160233a8bed00b9ea7534f26b
+com.lucidchart	sbt-scalafmt_2.12_1.0	1.9		211e0511280d806f9884bdb13823966eb5264b1b
 com.mchange	danburkert-continuum_2.10	0.3.99		76b20750f17f7fe632ca7db70e53d1a780fca239
 com.nativelibs4java	anarres-jnaerator	1.2.7		1c0af1641a615719182cb133c8c5dd045149c6ab
 com.nativelibs4java	anarres-jnaerator	1.2.8		20355aa8fce0807a49ba988ed67ec42452a86bf6
@@ -319,6 +327,7 @@ com.slack.circuit	circuitx-overlays-iossimulatorarm64	0.27.0		N/A
 com.slack.circuit	circuitx-overlays-iossimulatorarm64	0.27.0	metadata	889001ac3c722d80a2b71acee80475be207afbe1
 com.slack.circuit	circuitx-overlays-iossimulatorarm64	0.27.1		N/A
 com.slack.circuit	circuitx-overlays-iossimulatorarm64	0.27.1	metadata	889001ac3c722d80a2b71acee80475be207afbe1
+com.slack.circuit	circuitx-overlays-iossimulatorarm64	0.28.0	metadata	23324cf27001b3dbc387ca0b3301d502ceba1de3
 com.snowplowanalytics	kafka_2.13	0.1.0		f52dc7e67491f72ca7d22b99c7752a9fc3a297c2
 com.snowplowanalytics	kafka_2.13	0.1.0-M1		b595c49a021feeb9daba2b6565a23a4182fb7bb0
 com.snowplowanalytics	kafka_2.13	0.1.0-M10		27246618ec80b8954d69e32b1e9f79db0b2391bc
@@ -345,6 +354,9 @@ com.snowplowanalytics	kafka_2.13	0.11.0-M1		6a0ccd5b61e940499743659113d5071b017d
 com.snowplowanalytics	kafka_2.13	0.11.1-M1		403f19d2f04e03fd8502fbb09dd2f90be189389b
 com.snowplowanalytics	kafka_2.13	0.12.0		d89bcd0771c5dd4a59ae36603df18b012eb469e0
 com.snowplowanalytics	kafka_2.13	0.12.0-M1		e52b438fcdfda717a51d069c394909052444f7d3
+com.snowplowanalytics	kafka_2.13	0.13.0-M1		76123c4e14a614409d20ed69edae318954f497b7
+com.snowplowanalytics	kafka_2.13	0.13.0-M2		86157f0b4162e1ca33a7a67497687c2392eb2ad7
+com.snowplowanalytics	kafka_2.13	0.13.0-M3		2cb5622061c569fcb41dc0c755982315c3192b25
 com.snowplowanalytics	kafka_2.13	0.2.0		e60e33c4374332f25a34d1d6015c4727ecb208b2
 com.snowplowanalytics	kafka_2.13	0.2.0-M1		2797e991359be4c4778fc3e546005306fb5ae52d
 com.snowplowanalytics	kafka_2.13	0.2.0-M2		e7fcab5b78122124a5494106969e1181b1d7b7d9
@@ -658,6 +670,8 @@ io.camunda	tasklist-importer	8.6.12-rc1		1cbcd17c0cbafbff1ad249de867d6d01f5961af
 io.camunda	tasklist-importer	8.6.13		971c34052e19f2110b8c4e7c0fff0c00445d3e24
 io.camunda	tasklist-importer	8.6.14		ba5ba52b115261546ca61d5c1207a8d48d955211
 io.camunda	tasklist-importer	8.6.14-rc1		3e935de0ad3ab18b722c25d94927ce84a940d12e
+io.camunda	tasklist-importer	8.6.15		310339c265c5d9c13ee6267fe890d0a364b904c3
+io.camunda	tasklist-importer	8.6.15-rc1		90796020235422293ea9b4a0ef55d2497aea2531
 io.camunda	tasklist-importer	8.6.2		8eb81dbf29f21dde161d63aa91b66d9bd873636a
 io.camunda	tasklist-importer	8.6.3		cc0dc7874ca81ec94cf946d69f0002093496714b
 io.camunda	tasklist-importer	8.6.4		f1ee74d084be13620ba1bff94fe7bb7417a63864
@@ -693,12 +707,15 @@ io.camunda	tasklist-importer	8.7.0-alpha5-rc1		1b577883b6838ecfae09fcd831f4be025
 io.camunda	tasklist-importer	8.7.0-rc3		b22d7cb79d8a3402b0a3b15a206b0492a059711d
 io.camunda	tasklist-importer	8.7.1		19ce1fa306f547985d1330c9997c2ebc920c9b32
 io.camunda	tasklist-importer	8.7.1-rc1		7afa3134dad1fcc3836c26f290b52758bf5b31cf
+io.camunda	tasklist-importer	8.7.2		0e29465b9c8ef0ca90d4522b683101aa4dfd0569
+io.camunda	tasklist-importer	8.7.2-rc1		f85b9e1528761f97c0d78bcb6da1613136ce047a
 io.camunda	tasklist-importer	8.8.0-alpha1		30c0f6056a41d0620a9e3a84a4fc33292d1df31e
 io.camunda	tasklist-importer	8.8.0-alpha1-rc1		726b4c5b2ce5db71fe0dd87d89d8ae64b2419ebd
 io.camunda	tasklist-importer	8.8.0-alpha2		ee69714794523e8a1a59ed3c6da2db7fa6c30a2b
 io.camunda	tasklist-importer	8.8.0-alpha2-rc1		71783bf490ae939dea542ee8908cd92fed157d56
 io.camunda	tasklist-importer	8.8.0-alpha3		6ddda0e9e31e3d3b0c63eb5213607746c953ebb7
 io.camunda	tasklist-importer	8.8.0-alpha3-rc3		666cb021591de1d304944535d963ea0ae60dd5ef
+io.camunda	tasklist-importer	8.8.0-alpha4		e3007029c2e3b9c5defa5e98aeefa0675bfe03bc
 io.camunda	tasklist-importer	8.8.0-alpha4-rc1		f0e78186517d3a4899c0738c310efa4aae10c71d
 io.edurt.datacap	datacap-http	1.10.0		a934f1cd4dcf65c70593bc2581371968917cbd58
 io.edurt.datacap	datacap-http	1.11.0		466c82d5870a699a30dd31f92df0507489ee8b8a
@@ -1090,6 +1107,7 @@ io.kotest	kotest-extensions-koin-macosarm64	6.0.0.M2		N/A
 io.kotest	kotest-extensions-koin-macosarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-extensions-koin-macosarm64	6.0.0.M3		N/A
 io.kotest	kotest-extensions-koin-macosarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-extensions-koin-macosarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.openmessaging	registry-server	0.0.1		4259b105620e891cd7ba6f799b41effd4f9e2cc6
 io.quarkiverse.jnosql	quarkus-jnosql-column-cassandra	1.0.4		c07c2aa3ac1c52d675ff9c0ddb5d8c72d94ed647
 io.quarkiverse.jnosql	quarkus-jnosql-column-cassandra	1.0.5		637ef997385e3c474b77296f7f82a7e41d0c48e2
@@ -1392,6 +1410,7 @@ org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.14.0		1a0fce22e68
 org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.15.0		2c8290a0c0f8b9f13ee82b8278916fbf740e7880
 org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.16.0		9b543065a8c7abe78e1c4a7cc8a4a156cf506546
 org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.17.0		648690474160a5406d35951c830a9f164fecf22d
+org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.18.0		3691eff98c2a548a5faded57cc1569fe9f075bac
 org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.2.0		aa2482e01714e4954d2a529b419d45ac46878ed1
 org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.3.0		d3612ecdf9cfb11d441503746294eeb47890b22b
 org.apache.arrow.adbc	adbc-driver-jdbc-validation-postgresql	0.4.0		6b8369ec3005ac373d2d7d36765fee733572c795

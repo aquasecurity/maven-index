@@ -252,6 +252,8 @@ com.netflix.graphql.dgs.codegen	graphql-dgs-codegen-gradle	7.0.2		30a1cd493da4fb
 com.netflix.graphql.dgs.codegen	graphql-dgs-codegen-gradle	7.0.3		08c1dd8f1e1b6e964344a870b6bd1bba6764a3e7
 com.netflix.graphql.dgs.codegen	graphql-dgs-codegen-gradle	8.0.1		a0ede9a7a3247ad85869a47ab6788f625fb88ba5
 com.netflix.graphql.dgs.codegen	graphql-dgs-codegen-gradle	8.0.2		ddfddcc4803ef03b47f760312c68499333758f82
+com.netflix.graphql.dgs.codegen	graphql-dgs-codegen-gradle	8.0.3		eb8869e88f1c49db903dbbb0247569545be890e3
+com.netflix.graphql.dgs.codegen	graphql-dgs-codegen-gradle	8.0.4		30c23f063f8701bb783971c905998d8dc466e016
 com.propensive	rapture-i18n_sjs0.6_2.12	2.0.0-M8		42a0822ff6b3dd5cce013d2e77417c83965c9304
 com.propensive	rapture-i18n_sjs0.6_2.12	2.0.0-M9		6e619cfe9e5e61c93cb951295a0e21c240359baa
 com.softwaremill.sttp.client3	catsce2_sjs1_2.13	3.10.0		052358a61ba4da9ce0b5c426b2dc1b6eebd50ea1
@@ -731,6 +733,7 @@ dev.zio	zio-aws-imagebuilder_2.13	7.31.27.1		311154a3d72493f1041e85865de0e7fdfab
 dev.zio	zio-aws-imagebuilder_2.13	7.31.28.1		80a55280cbb596dd229da7c597180a43018f23c2
 dev.zio	zio-aws-imagebuilder_2.13	7.31.3.1		1f9f59540dfaf43ffd3c2f42ac1dec5050e5a7d0
 dev.zio	zio-aws-imagebuilder_2.13	7.31.30.1		cdcf8112726fc26af13cfcbbe5346f589a53379e
+dev.zio	zio-aws-imagebuilder_2.13	7.31.30.2		c4d298f1d57a52f6043ef79576b22bd4da0332da
 dev.zio	zio-aws-imagebuilder_2.13	7.31.4.1		a99e3e82c9dfb1faf4dcf21ecaf9b94c42000343
 dev.zio	zio-aws-imagebuilder_2.13	7.31.6.1		66fb7a74d9c697cc65787d440e6d1b08a4d24c8c
 dev.zio	zio-aws-imagebuilder_2.13	7.31.6.2		75328ddd80a425df9a1e62b1f38f901e329a7e98
@@ -1048,6 +1051,7 @@ io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.15.2		0cd49746
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.15.3		19f8e7372d3eaafad1092a7bfa29849f857e91cb
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.15.3.1		ebfab535abc506ae70098b9f65932736354f257b
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.15.4		6df83ae7b3c692b7219ea795034a4b5114830f2b
+io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.15.5		8deeaa676ded73da43a98cc68eab14c68ab5f6e4
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.16.0		f662baff05afa539a6f3a2cdee3dd6ecab105b0b
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.16.0.CR1		6cf4debea8ec24283c76e998792dd3c6476350ae
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.16.1		791b2dfc9837291502957283a08d36a07aa6f738
@@ -1092,6 +1096,7 @@ io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.2.8.Final		d10
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.2.9.Final		acb7a8605923cd3243040503529a8c91c9dff84c
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.20.0		15b468e81717ab2454828587c5a7b5dfa00447f7
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.20.0.CR1		a9641f93277117a162341efa07c8a7a8d83090d3
+io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.20.1		6bf439e88e24b6d7fe495948fb5b19d6c782dff1
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.21.0		ec9f9783528ab727ccf8b2b214c98b09bbdca46e
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.21.0.CR1		5320a6f8937d28b071bf1e25274ee15a87de5802
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.21.1		3a88401cdcc8e65ea84c243db7013b0f8cf801f6
@@ -1101,6 +1106,9 @@ io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.21.4		4a1cec83
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.22.0		89e1023a06a3ff9bb7e3ec79d3de839afffeb6af
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.22.0.CR1		4be9d848ec1af06621fb5d00799b73cdc8d09baa
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.22.1		0107a1ffe2753268b8216de3aa130ab628f1855a
+io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.22.2		ee37791a7c375327dbb6df9d60d77ecd05bded90
+io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.22.3		5ad0159a3f3e6dc505303ab2a4c403f1b1affef7
+io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.23.0.CR1		db506bc39e0ad3f376c2cfb501dc17423a9680a4
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.3.0		81be281e683786016ab54f1ba25096a0f9e6a91d
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.3.0.CR1		6dcdbf0ea28bca742bfbea3633dc387d47be9aba
 io.quarkus	quarkus-smallrye-reactive-type-converters-deployment	3.3.1		1c689e2530db0ccd0cf5ae07c62c914d4a6c9fe9

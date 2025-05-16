@@ -159,6 +159,7 @@ com.squareup.retrofit2	converter-gson	2.0.2		f8d87f15b94b8d74e7ccf61d7eedb558811
 com.squareup.retrofit2	converter-gson	2.1.0		aa557d71ead91cbf26e0c316a0f593d168303309
 com.squareup.retrofit2	converter-gson	2.10.0		e67f81a4a7a7b125fc600e003cc2f601902b28e2
 com.squareup.retrofit2	converter-gson	2.11.0		9d1fe9d1662de0548e08e293041140a8e4026f81
+com.squareup.retrofit2	converter-gson	2.12.0		83cde37b3a7b27a3f7fd6f0778188b1865508b08
 com.squareup.retrofit2	converter-gson	2.2.0		a09926806199499a20b2f5168779499abfa33342
 com.squareup.retrofit2	converter-gson	2.3.0		9e09011e9767bb76b5e27c9b8223476b93b14631
 com.squareup.retrofit2	converter-gson	2.4.0		15d7790ee311d961379c51b00aba12d5967cb7ea
@@ -175,6 +176,7 @@ com.squareup.retrofit2	converter-gson	2.8.0		0447cdf45d13b07f1d4981bdda10f087a94
 com.squareup.retrofit2	converter-gson	2.8.1		3dd6788fe5568b15df62735d7d16f09276989e9a
 com.squareup.retrofit2	converter-gson	2.8.2		7604192d2c6d9002139a322a6a582cf19fb5f7b7
 com.squareup.retrofit2	converter-gson	2.9.0		fc93484fc67ab52b1e0ccbdaa3922d8a6678e097
+com.squareup.retrofit2	converter-gson	3.0.0		f267e39336e822e2abb835818606986a96b4d5aa
 com.thoughtworks.binding	binding_sjs0.6_2.11	10.0.0		371cd47e8b54f07a3a77b96fee6731bec030c6f2
 com.thoughtworks.binding	binding_sjs0.6_2.11	10.0.0-M0		b39b4674d7f64a1e7abb7f120f368563360e4b82
 com.thoughtworks.binding	binding_sjs0.6_2.11	10.0.0-M1		4bf19e0edf3708c5ceb7a45dd38e12cc1a70d93c
@@ -1193,6 +1195,7 @@ io.ktor	ktor-client-darwin-legacy	3.0.3		9b80e851ecbbcc10337787f83842ce762761576
 io.ktor	ktor-client-darwin-legacy	3.1.0		f4c3e3c58a94750ccb3c01fc751fb1726116aeff
 io.ktor	ktor-client-darwin-legacy	3.1.1		f4c3e3c58a94750ccb3c01fc751fb1726116aeff
 io.ktor	ktor-client-darwin-legacy	3.1.2		93ebdc590f8850f91384b3a92456d1fd72da3613
+io.ktor	ktor-client-darwin-legacy	3.1.3		93ebdc590f8850f91384b3a92456d1fd72da3613
 io.ktor	ktor-resources-watchosarm64	2.0.0		b0b76ef99da30e2e95580334f5b634bed1cee359
 io.ktor	ktor-resources-watchosarm64	2.0.0	metadata	04943302cc17c754ce8830afac3da940cc9df383
 io.ktor	ktor-resources-watchosarm64	2.0.0-beta-1		4860db50dc4ef767a2be11ff780bd3dded259e3a
@@ -1273,6 +1276,8 @@ io.ktor	ktor-resources-watchosarm64	3.1.1		0b5e406f01a0f29ddf85a6ecaf29765b882fd
 io.ktor	ktor-resources-watchosarm64	3.1.1	metadata	327427cc33c9962dac991878bcef0ef91223ab6e
 io.ktor	ktor-resources-watchosarm64	3.1.2		a4fd982cd1e084a4c1e088594e46b2b04873e092
 io.ktor	ktor-resources-watchosarm64	3.1.2	metadata	458cf0f7eeac9b22113a75d1785a7bb284f33423
+io.ktor	ktor-resources-watchosarm64	3.1.3		8883a19eac52477e19e84fc4657340aa2f62fd1a
+io.ktor	ktor-resources-watchosarm64	3.1.3	metadata	e5a25c4fdfa20de0c9f77f1a7c70b20deb1fc842
 io.maryk	maryk-generator-macosarm64	0.2		N/A
 io.maryk	maryk-generator-macosarm64	0.2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.maryk	maryk-generator-macosarm64	0.3		N/A
@@ -1474,6 +1479,7 @@ org.apereo.cas	cas-server-support-oidc-jpa	7.2.0-RC6		d2fc188d55a74b6223f88ae1dc
 org.apereo.cas	cas-server-support-oidc-jpa	7.2.0-RC6	resources	a07bfba5dd9fcf9ae4aa848033b34e79ff4164bc
 org.apereo.cas	cas-server-support-oidc-jpa	7.2.1		90f3b52ef985769bab47aa979683ce4dc672c759
 org.apereo.cas	cas-server-support-oidc-jpa	7.2.1	resources	ed1047f305d895add4e4274c7d44f01866180de3
+org.apereo.cas	cas-server-support-oidc-jpa	7.2.2		0842b50899cfb2096c27d72a2447086f23d69392
 org.apereo.cas	cas-server-support-oidc-jpa	7.3.0-RC1		136030266b716379b14c40383655c1e1fe4634e8
 org.apereo.cas	cas-server-support-oidc-jpa	7.3.0-RC1	resources	887759e5a5f33b20d39e2c921b6b9d6f5f150064
 org.bigraphs.framework	bigraph-visualization	1.0.0		fd29bfbd9e2465d9700b0e4a40de63129844dc8d
@@ -1892,6 +1898,7 @@ org.refcodes	refcodes-decoupling-ext-application	3.3.6		c93581f72557b2f36a419ee3
 org.refcodes	refcodes-decoupling-ext-application	3.3.7		da9b0c419fa3e00a5f125224acaa20a6177894d9
 org.refcodes	refcodes-decoupling-ext-application	3.3.8		dfcdb49a9a3f561ce1cd0895e662e8a04c5443d5
 org.refcodes	refcodes-decoupling-ext-application	3.3.9		6976b96ce6ce3d8bfeddf304786ccc2e1574d238
+org.refcodes	refcodes-decoupling-ext-application	3.4.0		85af6b73c2504b5911f042ac7711ded7dbd57482
 org.scalaz	scalaz-full_2.8.1	6.0.2		2c5988234a59deae5d62cdedc39f855dd4046156
 org.scalaz	scalaz-full_2.8.1	6.0.3		ec1b17566b24a32a3d0a7271f3733e8438c5ddbe
 org.scalaz	scalaz-full_2.8.1	6.0.4		3ade3eb1c6e14f99b7ba339dd7433fbe4449f29e

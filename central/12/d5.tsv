@@ -131,6 +131,8 @@ com.google.shopping.api.grpc	proto-google-shopping-merchant-reviews-v1beta	0.4.0
 com.google.shopping.api.grpc	proto-google-shopping-merchant-reviews-v1beta	0.5.0		04b1afed82608aa99e0c555bd7e9c04b7b9b0f04
 com.google.shopping.api.grpc	proto-google-shopping-merchant-reviews-v1beta	0.6.0		9e01137ad65c3651f1863edab6cad039a94db162
 com.google.shopping.api.grpc	proto-google-shopping-merchant-reviews-v1beta	0.7.0		b1571567af01dcba0a8346cb592c73c7ac1b1ca5
+com.google.shopping.api.grpc	proto-google-shopping-merchant-reviews-v1beta	0.8.0		fc96436035fdaa323b5f8703f9cd1cf6ad0e9c85
+com.google.shopping.api.grpc	proto-google-shopping-merchant-reviews-v1beta	0.9.0		d2317236e30fd5ebb90f67d1d55945422a75757a
 com.hotels.road	road-user-agent-maven	6.0.1		36e53d422a5a5b0cf2e57b80dc4cb3f366801e1b
 com.hotels.road	road-user-agent-maven	6.0.10		6ac0a2c7069db1cac518ab21dee790e49b3bfbef
 com.hotels.road	road-user-agent-maven	6.0.11		4ee13f45f62d568cabb2d618e2f5c17b46303657
@@ -247,6 +249,7 @@ com.propensive	rapture-json-argonaut_2.10	2.0.0-M7		db976b0721bbd84aa0fb057b91c5
 com.propensive	rapture-json-argonaut_2.10	2.0.0-M8		211cbb747ca8025d08fd3103e6a2580d3834f40b
 com.propensive	rapture-json-argonaut_2.10	2.0.0-M9		7594269a690fe56d2b02a745da7af0439256720c
 com.rubiconproject.oss	valkyrie	1.0.4		9d134e7aae00a6406a62574bdbf539970d5a6589
+com.slidingautonomy.sbt	sbt-html-minifier_2.10_0.13	1.0.0		ddd93db4cac430b36408e6efbf886a2e0b161e73
 com.softwaremill.ox	core_3	0.0.10		fc71f0ba83568669cd7fce70fb51609f2e65216a
 com.softwaremill.ox	core_3	0.0.11		1b756ec711945a406c4fe46e74766891eeeaa54b
 com.softwaremill.ox	core_3	0.0.12		d8b887bd742756382ef908bf36ddd349e0362693
@@ -732,6 +735,12 @@ io.nextflow	nextflow	25.03.0-edge		8d0f92493e20762eed361da49bc5111af7a7054c
 io.nextflow	nextflow	25.03.0-edge	one	d28acd0aa3f14f2b39cf0d807612e5404c323e7d
 io.nextflow	nextflow	25.03.1-edge		2427bf82d03439c469224efffad0d34566f9f95f
 io.nextflow	nextflow	25.03.1-edge	one	4c5544bd5d9210081bd418cb19a2a8674b5d42db
+io.nextflow	nextflow	25.04.0		99f421d10506abf0a5f9e21ecb2b39467a201153
+io.nextflow	nextflow	25.04.0	one	ffab63d320a4fb97ab89f6f7b648b76ee61e61fd
+io.nextflow	nextflow	25.04.1		d0e0ce228ac5e5a61a763681a5736f1d879bde83
+io.nextflow	nextflow	25.04.1	one	8e82d978d0772e6db0573c6492fd4a05e97e9983
+io.nextflow	nextflow	25.04.2		e5877e334257cbe6ae6b0bad0a4b24722ad27981
+io.nextflow	nextflow	25.04.2	one	a9607cebe9e3ce34ad8e97c2375857c8726cd9b2
 io.siddhi.extension.map.avro	siddhi-map-avro-parent	2.0.2		N/A
 io.siddhi.extension.map.avro	siddhi-map-avro-parent	2.0.3		N/A
 io.siddhi.extension.map.avro	siddhi-map-avro-parent	2.0.4		N/A
@@ -1057,6 +1066,7 @@ org.apache.camel	camel-azure-servicebus	4.8.3		52cee179885770692e6bd305b093f2ec7
 org.apache.camel	camel-azure-servicebus	4.8.4		c3840d7f889cf93075cf3a9c2db2d8cf06944645
 org.apache.camel	camel-azure-servicebus	4.8.5		993ef1a3a6fce944923b817e6d2357c7f83f8718
 org.apache.camel	camel-azure-servicebus	4.8.6		80c418e77e1cff75f826fbcd1735bd5cfd2d06ba
+org.apache.camel	camel-azure-servicebus	4.8.7		2d9192710ea79c3da0bb8e992cf87ca2a85efbc2
 org.apache.camel	camel-azure-servicebus	4.9.0		445984d32d2cb6b1938d67b95f17249d4aff3919
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	1.1.0		4c5ebf3c54fce948361a6920c290a10ef5f5a8df
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	1.2.0		45e767ee9984da838e5d13e9d1716dad66bc644d
@@ -1115,6 +1125,7 @@ org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.2.1		1c459e7b272b93d
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.2.2		81dc3e0d15900cd32dce6c30322cb2a4a334b1f5
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.2.3		24038150ed297289ef41f21567c50dd5edae6fd2
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.20.0		323e1725580d342f83107d60c78b669fd88cc19e
+org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.20.1		aa602696416c13a342c1d88cb7f46f74711e88d8
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.22.0		aeaf40256a7addc80ca325e4ce6e51b99dc9d8cb
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.4.0		382d1c3e0f16c520b43193287d1c01c03b807292
 org.apache.camel.quarkus	camel-quarkus-barcode-deployment	3.5.0		690888bb09b9099de9ec9800171d3365ce4217f3
@@ -1757,6 +1768,7 @@ org.springframework.data	spring-data-cassandra	4.3.0		c29a62d9030b6d6237f3b6a5c3
 org.springframework.data	spring-data-cassandra	4.3.1		1bf66028994a26606827931d7710f092891c4d07
 org.springframework.data	spring-data-cassandra	4.3.10		9dc8171ae8dc25f3aa85cfe6d41ee9d9bcc58a89
 org.springframework.data	spring-data-cassandra	4.3.11		5946baca03f4833f775576c8628fea2156eceddd
+org.springframework.data	spring-data-cassandra	4.3.12		bb716b6d481f1808910b9ecd64f6cb0a30d9112c
 org.springframework.data	spring-data-cassandra	4.3.2		87f84e40e447bc3dab1b934cd4adbe83487e7a65
 org.springframework.data	spring-data-cassandra	4.3.3		a48637b4a7ba8615e382d1af1988bcfa33200e19
 org.springframework.data	spring-data-cassandra	4.3.4		e9471274a445fe339e29b6aa0223f030fc71a39b
@@ -1771,6 +1783,8 @@ org.springframework.data	spring-data-cassandra	4.4.2		dddad63b35753464cafc479e7e
 org.springframework.data	spring-data-cassandra	4.4.3		99e32f029d5177800ef6242905bbfbd65d15d8ae
 org.springframework.data	spring-data-cassandra	4.4.4		e50675ba17f0ee45e64e009df5a6e71f51b8b2db
 org.springframework.data	spring-data-cassandra	4.4.5		eaa2d09c56d70a52d0c4e20b93002f90c0498e4b
+org.springframework.data	spring-data-cassandra	4.4.6		e5f2f2c5d8ceb4d5041e2c897cbaceb03f295433
+org.springframework.data	spring-data-cassandra	4.5.0		e3d9b337746ab8308852d389094f72594eaee3ac
 org.springframework.data	spring-data-cassandra	5.0.0-M1		1491d5870e7f9ae116b4ce28adad7b5f9bdddc3e
 org.springframework.data	spring-data-cassandra	5.0.0-M2		538ac4b24000f96a813bd8c0a26d07cb712dfe7b
 org.typelevel	log4cats-testing_native0.4_2.12	2.5-a595fcf		0fc41e8feed792fe5241a675f78a518a79aa3cbc
@@ -3165,7 +3179,18 @@ software.amazon.awssdk	apache-client	2.31.30		6cbd8965583ce122f03a10709b345841f5
 software.amazon.awssdk	apache-client	2.31.31		af2855092dabe583d506f9628df1687499ef5087
 software.amazon.awssdk	apache-client	2.31.32		5f3d330511900a97f6e253879a49e3da7ea90b4d
 software.amazon.awssdk	apache-client	2.31.33		eb933ec8138f023b3a6b6223655b268cb04cd758
+software.amazon.awssdk	apache-client	2.31.34		e6e602cf1b1e1a0e087337e86f4be38c7d28963d
+software.amazon.awssdk	apache-client	2.31.35		2200af7df452c0504bbd7112201fc2d9bc5c3984
+software.amazon.awssdk	apache-client	2.31.36		9b213b4d919d161dbb89220a0830a6d1cfbb3683
+software.amazon.awssdk	apache-client	2.31.37		bd47c7655b083aaaa8b7c6156d58bed417aff959
+software.amazon.awssdk	apache-client	2.31.38		40bbf807e7ba06adb6b12dcfc930901844c8f156
+software.amazon.awssdk	apache-client	2.31.39		6c4af348e2cc99ebfd3ece911eca69b95e31136b
 software.amazon.awssdk	apache-client	2.31.4		cc01b265e845dfe4d809e259a70ed5a11fb8c637
+software.amazon.awssdk	apache-client	2.31.40		fb3d938013e096e063a098b7790eea5f48d618d7
+software.amazon.awssdk	apache-client	2.31.41		02ed549b4ac54a0482eb8b23d702b1b219f50e16
+software.amazon.awssdk	apache-client	2.31.42		f0329f9b8c0e9727eb0e0a67af1aae743e26a82d
+software.amazon.awssdk	apache-client	2.31.43		6b78fddfffc013068494677d12a0c2389eeb56ed
+software.amazon.awssdk	apache-client	2.31.44		d229b440543b0ae10b4d83fd683f523fbcd6fde9
 software.amazon.awssdk	apache-client	2.31.5		19f3c333796842ddf099ddc4499480203e2984d1
 software.amazon.awssdk	apache-client	2.31.6		ced7fe8586680fe8323a3e84ddead497ea3d29de
 software.amazon.awssdk	apache-client	2.31.7		4f2d06626a303b1a06a1c92222f6703e0d2e66ec
@@ -3363,3 +3388,5 @@ works.bosk	bosk-jackson	0.1.123		47b6bed2d1e5d72b64f913e2c743a4f9067effdb
 works.bosk	bosk-jackson	0.1.124		c2ca5a2a74b9b466570990a4d457f3459b35ddd0
 works.bosk	bosk-jackson	0.1.125		07dfef6dfc929dcd0c5adf4f1bc41762cfe7009e
 works.bosk	bosk-jackson	0.1.126		cd09651678c66866c6a05cef2a036bd90c36b763
+works.bosk	bosk-jackson	0.1.127		bec5d6972909bd385203b992935b5e9a2c13a6fb
+works.bosk	bosk-jackson	0.1.128		380e465574fd58247b73a0964c7a5a7209e59085

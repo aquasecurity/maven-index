@@ -195,6 +195,7 @@ com.mantledillusion.metrics	trail-metrics-support-spring5-security	2.1.0		c28e7c
 com.mantledillusion.metrics	trail-metrics-support-spring5-security	2.2.0		c96ef0e0e8ef4b4bbd03cb2d8bdcec8c5c0e9b39
 com.mantledillusion.metrics	trail-metrics-support-spring5-security	2.2.1		2f8355131392750f4d253dc40a9ab57a08e92f94
 com.mantledillusion.metrics	trail-metrics-support-spring5-security	2.2.2		26244febec1c3e459e0b37117581755f99129e87
+com.mantledillusion.metrics	trail-metrics-support-spring5-security	2.3.0		0ff6a26d6c5bdd1025f53123402b4dc77caf11e8
 com.nrinaudo	kantan.codecs-java8-laws_2.12	0.1.10		e60cfcbdaa3ca301b74cd61ec37ef54322bf5b61
 com.nrinaudo	kantan.codecs-java8-laws_2.12	0.1.11		b75761caf6f0594c70ebb563b4b3c5cc494ba699
 com.nrinaudo	kantan.codecs-java8-laws_2.12	0.1.12		4eb25e0717e1b3c23a38754f984354c7e2b5acb7
@@ -447,6 +448,8 @@ com.oracle.oci.sdk	oci-java-sdk-sch	3.63.0		702189aa5a1aeb44fc354276d09e30665c50
 com.oracle.oci.sdk	oci-java-sdk-sch	3.63.1		1e1d61c82a4fed63caf4c6f872e462d74f82f8ae
 com.oracle.oci.sdk	oci-java-sdk-sch	3.63.2		95ff995e1679c868eaaa643f6d3051c818c29718
 com.oracle.oci.sdk	oci-java-sdk-sch	3.63.3		08bf49165773c000d997461f74442a8d1411c8c5
+com.oracle.oci.sdk	oci-java-sdk-sch	3.64.0		245ebf2a46696e0c2e30028bb43fcbea29d18937
+com.oracle.oci.sdk	oci-java-sdk-sch	3.65.0		de922ea2d08b53311b6c7b6c13f3ad01d58a0268
 com.oracle.oci.sdk	oci-java-sdk-sch	3.7.0		da5e38f347e5801cbb42ae6755251d8082d41aa7
 com.oracle.oci.sdk	oci-java-sdk-sch	3.8.0		94a63d8617ab37d56d448966f7f6293b5cbf5228
 com.oracle.oci.sdk	oci-java-sdk-sch	3.9.0		af78ffc8ce0abcfa269475e054a29c60615f1241
@@ -844,6 +847,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2.13.3-alpha		c4bfc4fdb72395c7445941bbb7b05185fa0419b8
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2.14.0-alpha		bdcdb73043aef8dfbbdefe0c571d83d3d093a14b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2.15.0-alpha		39ae2b861db881d691735437de3bef714f5ddb6e
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2.16.0-alpha		ec7bcb9d6521ccd6fc4336f0b71f30243372a567
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2.2.0-alpha		8dc7ae74461cd3d2d39271c0cc3c750d431f69ac
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2.3.0-alpha		e4954a4160ac92399d8f40a42de10c807f3e9a22
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-restlet-2.0	2.4.0-alpha		7bc044fdfc11e9ac7b20b919816e5ae0ad2202e7
@@ -1022,6 +1026,7 @@ org.apache.rocketmq	rocketmq-tools	5.2.0		a3e6a8101b83b00e554bd98bdd3d9e3a3fe0fa
 org.apache.rocketmq	rocketmq-tools	5.3.0		2027aa62e20bd506f83c08f909e05b1098f6f8fd
 org.apache.rocketmq	rocketmq-tools	5.3.1		fb16f6ee939fe8b6aba3fe5a91b2e556419bc19d
 org.apache.rocketmq	rocketmq-tools	5.3.2		62535cacb980f5ceaa1d46317db1adeff0ed28da
+org.apache.rocketmq	rocketmq-tools	5.3.3		c6c0a8e563d907ddb56568da9a8eca7fb55f1cac
 org.arkecosystem	arkecosystem-crypto	0.1.0		de64c04ca963d20be05468c97aa3e952b11452a3
 org.eclipse.edc	provision-blob	0.0.1-20230220.patch1		c21bcdbb425ddab13153b9be73bffbcf4e318cbf
 org.eclipse.edc	provision-blob	0.0.1-milestone-7		f88ea50646d9fa9ebe9997e6d61c24f6d3615592
@@ -1549,5 +1554,9 @@ tz.co.asoft	kase-core-tvosx64	3.0.8		N/A
 tz.co.asoft	kase-core-tvosx64	3.0.8	metadata	c897d280f3bc65880d265dac1438ee5b19111f3b
 tz.co.asoft	kase-core-tvosx64	3.0.9		N/A
 tz.co.asoft	kase-core-tvosx64	3.0.9	metadata	785dc294ae7aba6a7bf582e3432a210825fa4595
+tz.co.asoft	kase-core-tvosx64	3.1.0	metadata	93d0fac3c6ec00fc4e21e948a140c24665ecab66
+tz.co.asoft	kase-core-tvosx64	3.1.1	metadata	8394c3a6aa273e743232761dd3c6bf92c7f645ad
+tz.co.asoft	kase-core-tvosx64	3.1.11	metadata	f72f8b7fe1f63ef8f2f3626a36992e9808cfc1e9
+tz.co.asoft	kase-core-tvosx64	3.1.12	metadata	82af60e9b941414dde590a9702afebb27bc1fa22
 xyz.kotlinw	kotlinw-objectstore-platform-js	0.0.6		N/A
 xyz.kotlinw	kotlinw-objectstore-platform-js	0.0.7		N/A

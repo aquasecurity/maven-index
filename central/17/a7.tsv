@@ -94,6 +94,7 @@ com.github.japgolly.test-state	ext-nyaya_sjs1_3	2.5.0-RC1		f4deb96ec89e7ffe0c527
 com.github.japgolly.test-state	ext-nyaya_sjs1_3	3.0.0		b4eb570eb531f4348c0a169ef4842523122e6e3a
 com.github.japgolly.test-state	ext-nyaya_sjs1_3	3.1.0		d9f8c782ec8eb4d2d7577fec99c3c098e2952ee5
 com.github.max-leuthaeuser	scrollcompilerplugin_2.11	0.0.1		b1956298d56a1cfdacaae56e7b7f23ff72f7dc70
+com.github.max-leuthaeuser	scrollcompilerplugin_2.11	0.0.1	SCROLLCompilerPlugin.jar	5614d967ccc9540b114955c5aa9a95ec2e76cef0
 com.github.max-leuthaeuser	scrollcompilerplugin_2.11	0.0.1	assembly	e2b68d47116da336abe54a3dcada178ca18b3461
 com.github.max-leuthaeuser	scrollcompilerplugin_2.11	0.0.2		d35d626d9f9de69b12957e0e182f6cf4c74a990e
 com.github.max-leuthaeuser	scrollcompilerplugin_2.11	0.0.2	assembly	fc5177a4e783815525d391b36b7a97f6d0b26849
@@ -166,6 +167,7 @@ com.google.appengine	runtime-test	2.0.32		72d460b3bdfa22c5e90041afedd6fd831b4e40
 com.google.appengine	runtime-test	2.0.33		bc09aa6f33a7649fdc913ff3b36ee815790254e4
 com.google.appengine	runtime-test	2.0.34		9d19119bcfcc6e89996cdf854b72011c8fab0069
 com.google.appengine	runtime-test	2.0.35		be2d2ce37113eda8197c7a7771b1f8a4197e4ed6
+com.google.appengine	runtime-test	2.0.36		a3ec81d8c4523b29ca5f7f82fa966d0123b150bb
 com.google.appengine	runtime-test	2.0.7		0f58b5d4f640b7ce5d09cd61caf76f64ffbb1758
 com.google.appengine	runtime-test	2.0.8		ba189ca0eacfd499b4ba0a97972c6a5ce85ddc89
 com.google.java.contract	cofoja	1.1-r150		3a941ba06c38c5853696fb48bb19fb9ed60e7079
@@ -388,6 +390,7 @@ io.github.pdvrieze.xmlutil	core-compat-tvosx64	0.91.0		N/A
 io.github.pdvrieze.xmlutil	core-compat-tvosx64	0.91.0	metadata	b1f509f01a73aaf17e2976468538f6b0887b66da
 io.github.pdvrieze.xmlutil	core-compat-tvosx64	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	core-compat-tvosx64	0.91.0-RC1	metadata	f8aad4e9ac9422576405fc4102c448c76f9c8cd9
+io.github.pdvrieze.xmlutil	core-compat-tvosx64	0.91.1	metadata	df5c702439219e13ebd16b4eee6398bd1459c134
 io.github.tzfun.jvmm	jvmm-server	1.0.0		5986a9491729a7eb60d8cb6e3526bb8fa8590815
 io.github.tzfun.jvmm	jvmm-server	1.1.0		46977ec311ff5bc7fb80c6e9d1bc64b3de98dd53
 io.github.tzfun.jvmm	jvmm-server	1.2.0		1c853652907d00d7fe23f5b3de50cff42ba72a46
@@ -486,7 +489,11 @@ io.quarkus.http	quarkus-http-vertx-backend	5.3.3		8adebafa209127529feaffe0c0d2bc
 io.quarkus.http	quarkus-http-vertx-backend	5.3.4		7b872578aa3646be2f69a8071c08dd93e9ee84bc
 io.spinnaker.gate	gate-proxy	2025.0-0		9167c2f4cafcf804abc251f6942da58afa284433
 io.spinnaker.gate	gate-proxy	2025.0-1		91664afda80861a7da6b3a4cad1aa6da29e22120
+io.spinnaker.gate	gate-proxy	2025.0-2		8fb1ab526509299f1448d8465a8cae802f6a1d60
+io.spinnaker.gate	gate-proxy	2025.0-3		2432eefda5541e8a6cbc18337cc94ebdd0b29872
+io.spinnaker.gate	gate-proxy	2025.0-4		034ecf849d85e7d1d60ee52dadd2ee10948272e6
 io.spinnaker.gate	gate-proxy	2025.0.0		969f8e8be2328db8b5a12628f70db4760fbd6de4
+io.spinnaker.gate	gate-proxy	2025.0.1		aa14d84f23a87ab6b121f464fdf77bcb4d1e9af6
 io.spinnaker.gate	gate-proxy	6.52.0		a8b6c3f86d7c271cbf175e3ec3416d03996fb439
 io.spinnaker.gate	gate-proxy	6.53.0		d93e7270182684c81b6dca7a5acf8e9d1a1ed39c
 io.spinnaker.gate	gate-proxy	6.54.0		a14a41287c3cdb9a32b6857c349d663443c89d32
@@ -540,10 +547,14 @@ io.spinnaker.gate	gate-proxy	6.66.6		25f1eff6844fc70b828758c6fcc75496800211cb
 io.spinnaker.gate	gate-proxy	6.67.0		29cb596d3f52e2a84d1717e158372af88fb51513
 io.spinnaker.gate	gate-proxy	6.68.0		6a2a678e422ee597d1d455a8da86391f8d9f1325
 io.spinnaker.gate	gate-proxy	6.69.0		ae44eab5889824e8cd554e8bc5c23845c8126899
+io.spinnaker.gate	gate-proxy	main-10		2d97976d6bbcef66e4ae56686c7b22f16dffc74d
+io.spinnaker.gate	gate-proxy	main-11		7c3139fa9b39f731109a24fa56946b2ffc935198
+io.spinnaker.gate	gate-proxy	main-12		95a5372d0ebebb26a4ea5d44edeca37cc3be72fe
 io.spinnaker.gate	gate-proxy	main-5		b05d8e90b6008d0f472abe05a7dd2b9ba5a459a5
 io.spinnaker.gate	gate-proxy	main-6		4d162bd1d808eea0afc5a17e61335ff63059bf51
 io.spinnaker.gate	gate-proxy	main-7		1ae043e967482cc5616701a6d3a2b32e5627f806
 io.spinnaker.gate	gate-proxy	main-8		162e41f349a1447623277d82eda3400d6204ab37
+io.spinnaker.gate	gate-proxy	main-9		89a0153a80d1d47d72b50c6aabc25505918afffe
 io.stoys	stoys-spark-db_2.11	0.1		27aa79d2d6662cc9b5655459821a7bdd3d10179a
 io.stoys	stoys-spark-db_2.11	0.1	spark-shaded	f50f2be86b3d98ee07a0f7c9b86d4825dcf7b220
 io.stoys	stoys-spark-db_2.11	0.2		9234f2e57e0f92ae739eb0282b06e9a6dad761dc
@@ -663,6 +674,19 @@ org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.41.1		fd170da0fa12
 org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.42.0		6f37c1bc79de70cd5ea2fc57c5c9f7ed7bb9050d
 org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.43.0		c9bc089a55ddd19d15086c4c107217d4446672fb
 org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.44.0		c96027b3a373fcdcad592a466e40e6852029fada
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.0		f1afe1e7fc3ec814e793008027ff08a7c36ddce3
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.1		21fd607618eebdb7cb81090455c1924f980c057f
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.10		ca242151d9713c6a07f82e4a8c6a9cc6d1bc8241
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.11		043b0b1ffc7f796b21b00c186ee6c66560b5843c
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.12		7de249fd1f3199ddda3d4dd7ea6f9fb7f4356ea6
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.13		25112e3acc3f37ec2f1e30540a1d3c1fd91abea3
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.3		ef3b5c2c133cf7ce092cf5a8fa129f4b361d7b28
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.4		ffb5bacc31ac3b9e928714f7d43c9fc51d8d216a
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.5		3b29cc3cc3e87843cd626d11e7c02508b05bda90
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.6		f1c02b3fa9305ebf65d3ddf30be1c4c7767a3937
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.7		bc111019a26e6e6640f2fc69f642edc948f443b7
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.8		a6afdccfe52e4841d29f35a67e85573916e7f0ba
+org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.45.9		5ae4bad6fe224efd76e1dbcf96c4e58e52f113b2
 org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.5.0		f34afdbd01e9ab78e63c6795547bc6e52a922ed8
 org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.6.0		a76c7185b5392dc77daf3ce8abe0c5670328d238
 org.eclipse.dirigible	dirigible-components-ui-view-welcome	11.6.1		37d949379a7f2b1f5edb5aebae9bbfea34fa2d8a

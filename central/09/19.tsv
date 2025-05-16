@@ -89,6 +89,7 @@ com.google.cloud	google-cloud-trace-spring-starter	4.10.6-preview		c69b88c6a775e
 com.google.cloud	google-cloud-trace-spring-starter	4.10.7-preview		3d9c4697af4866f53ba1ba6f362e3951654210e4
 com.google.cloud	google-cloud-trace-spring-starter	4.10.8-preview		40922fb9db2c265c671f4b6dbcfa8539d0aa2901
 com.google.cloud	google-cloud-trace-spring-starter	4.10.9-preview		808a3fa98bd6befc5237297871eecd81108ed8e2
+com.google.cloud	google-cloud-trace-spring-starter	4.11.0-preview		8b87515aa944a78b2d5b7486904e83a75abad2de
 com.google.cloud	google-cloud-trace-spring-starter	4.2.0-preview		fba36a2358a20f1e784b813437ad509b2192f9bc
 com.google.cloud	google-cloud-trace-spring-starter	4.3.0-preview		4d476e4758438d1430ab814281c55f4fcfb39764
 com.google.cloud	google-cloud-trace-spring-starter	4.3.1-preview		c9f1d259ede62d67a882386393919207923e121e
@@ -120,6 +121,7 @@ com.google.cloud	google-cloud-trace-spring-starter	5.11.0-preview		be83bc590ee91
 com.google.cloud	google-cloud-trace-spring-starter	5.11.1-preview		bec7e5035849e74d865d864e40f0c6f6a3e62cdc
 com.google.cloud	google-cloud-trace-spring-starter	5.11.2-preview		76b2e9fa791d06254308e9a711445f8109e1d266
 com.google.cloud	google-cloud-trace-spring-starter	5.11.3-preview		4968146c25a422210815d5f2408b0f9c2c2cb0c6
+com.google.cloud	google-cloud-trace-spring-starter	5.12.0-preview		ef8f085af7fdc114e18031037cae5988cc34f675
 com.google.cloud	google-cloud-trace-spring-starter	5.2.0-preview		a3868b3674841a56df13011cca4770405d5088cf
 com.google.cloud	google-cloud-trace-spring-starter	5.2.1-preview		3c054afc60c578aaaf994b050f7384dba31759b3
 com.google.cloud	google-cloud-trace-spring-starter	5.3.0-preview		5f9c06cbc75c4484870817290c7f96df6bf304c5
@@ -807,6 +809,7 @@ no.nav.security	token-validation-ktor-demo	5.0.21		e8ef8136f0e5cf0c0afb99c563ebd
 no.nav.security	token-validation-ktor-demo	5.0.22		b6242799e0e7e030274627e0b1563919f89adf61
 no.nav.security	token-validation-ktor-demo	5.0.24		701fd3acc0f2c6efad7197b5b28c7a7177b78806
 no.nav.security	token-validation-ktor-demo	5.0.25		f38688eb436f544c9be09560ae61c3970c257288
+no.nav.security	token-validation-ktor-demo	5.0.27		ea5157cc2688bd1ab791953b61231aedd909ae00
 no.nav.security	token-validation-ktor-demo	5.0.3		efa4cf365487ce77ac2b7f7c6a1b92f1b31ce4d5
 no.nav.security	token-validation-ktor-demo	5.0.4		e78eecd5d0acaea019c0ee360cd9499e70403935
 no.nav.security	token-validation-ktor-demo	5.0.5		418bdac543fe4b05c374ad0838b2a59df3f9d06c
@@ -1098,10 +1101,17 @@ org.finos.legend.engine	legend-engine-external-format-core	4.79.0		705c5aaa11bf1
 org.finos.legend.engine	legend-engine-external-format-core	4.80.0		574ac1343de92c09ae47145b35d77942383773f1
 org.finos.legend.engine	legend-engine-external-format-core	4.81.0		985a7e22d992a2f9670b6c69bd0ebbc8e6902d98
 org.finos.legend.engine	legend-engine-external-format-core	4.82.0		71217ad096f5ffd96a586f5ea2f0148471c4ade7
+org.finos.legend.engine	legend-engine-external-format-core	4.82.1		cc4c24353aa579c6379a7682a29631b505e999a1
 org.finos.legend.engine	legend-engine-external-format-core	4.83.0		a053595f5283395231dfeb82e55d270104ca943f
 org.finos.legend.engine	legend-engine-external-format-core	4.83.1		64bf5edaf5e672f98ab8aaee3b36ba4db91ccd56
 org.finos.legend.engine	legend-engine-external-format-core	4.83.2		9cdf1364b6dbaabc597f9ec28b75c7557d277b0d
 org.finos.legend.engine	legend-engine-external-format-core	4.83.3		f2065dac06e6f836d91d5b0fae013fd97af86833
+org.finos.legend.engine	legend-engine-external-format-core	4.84.0		a55ca33a982ec456863b2ec8597bf6556d8953e9
+org.finos.legend.engine	legend-engine-external-format-core	4.84.1		d4015762c24fd4d505c3944b41aafb69139daacc
+org.finos.legend.engine	legend-engine-external-format-core	4.85.0		28e4e210f30ef2fd884447e6e233a10f94274853
+org.finos.legend.engine	legend-engine-external-format-core	4.85.1		49a5b2f5eebb7ede9289ae77b3e3e6f9b7b53a71
+org.finos.legend.engine	legend-engine-external-format-core	4.85.2		2dfdc1a3d3a1539cd849b52183497dd68e7dd5fa
+org.finos.legend.engine	legend-engine-external-format-core	4.85.3		f3dc2c08943145410ef8839a808400b2e637bafd
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.42.3		2b70864c4ed299383cd49657db01ce803d6aea3f
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.42.4		e39dc530a11ed84389cfe77450f3e42b400999a4
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.42.5		ac03ea07a299beecc1504f1dfdc86b9bc47ebc2f
@@ -1206,10 +1216,17 @@ org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.79.0		01
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.80.0		0e26958aa11686fe263fcced954d3cdeee87fc6f
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.81.0		d279ef346bb2295dd04a2e39cc299eb92a5a3f0d
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.82.0		4792a81366835a3cf53d9427526f53f524e8aa52
+org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.82.1		fd8a17a49d49f214b9ec06fa450640d89a9a65e4
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.83.0		c4a7e0e22dc816b3e0cef2f194bdbc0dc045dc24
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.83.1		ac7b5a31b5bc11f165233e43751d2f1b471ccbdb
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.83.2		59d8e15ebb57ee239492b328879d48a04dd21c47
 org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.83.3		d88464ec9a76a8b0f0e6194ab6aed4290c9e25f3
+org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.84.0		7206d5c7cee6278e2c181e8afd09ed7138357c65
+org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.84.1		7cbd3c83fd703a1add128ed20ed722fba8d08577
+org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.85.0		3b39991d2ed1d4d402b1ae9d9ccf8351d49f2fc0
+org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.85.1		b8812212bc4d574e7bc6a0be8ce124b59eb539b7
+org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.85.2		b99a2755d3c2ff7d876ef7c918a4adff3cfd279b
+org.finos.legend.engine	legend-engine-language-pure-compiler-http-api	4.85.3		9e7156ab2fc6b2795256212d7f32a792a35e87ba
 org.jfrog.buildinfo	build-info-extractor-npm	2.25.4		2d34c92bdb3a67206ff31903e577ef7e8405f9fe
 org.jfrog.buildinfo	build-info-extractor-npm	2.25.4	uber	b783ad1141b757298e7958c5a052dc4d7446c364
 org.jfrog.buildinfo	build-info-extractor-npm	2.26.0		f0982c07d6468fe3ecec8cdb5feef2fcf2b532fd

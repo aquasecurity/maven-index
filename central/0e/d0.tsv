@@ -472,6 +472,7 @@ com.slack.foundry	foundry-common	0.25.4		bfe3b18c3b93cded7463d32bce410c19dafeae0
 com.slack.foundry	foundry-common	0.26.0		45fb6d071eb7688ef9b84f1b830b8c172fb72c08
 com.slack.foundry	foundry-common	0.27.0		256ddf91d9aab45f07aa378049731f174b2255c5
 com.slack.foundry	foundry-common	0.27.1		2944f99312e747ca5797ac410ca6dbb2f8375264
+com.slack.foundry	foundry-common	0.27.2		fc6e7b5be609bde6a670eeb84a24b023713d642f
 com.spotify	scio-smb_2.13	0.10.0		c14b8fce4201bb1580f87847a3046f31eb1341a3
 com.spotify	scio-smb_2.13	0.10.0-alpha1		d79cff7e6dad481e633bb86ee12cdc47c116d38b
 com.spotify	scio-smb_2.13	0.10.0-beta1		eb76d8ecafce439a39f277d7aa74efe33f6945cf
@@ -529,6 +530,7 @@ com.spotify	scio-smb_2.13	0.14.13		66ecc20d99dfccfa1d3eb33779e3247f5b9816d9
 com.spotify	scio-smb_2.13	0.14.14		7b2725efbf7969221bb05b4fdbc80cde15152d75
 com.spotify	scio-smb_2.13	0.14.15		4301fa1dc1ae5a7cfa787a97d89e0d0910a7295c
 com.spotify	scio-smb_2.13	0.14.16		c68fb8dbf884490653ec0d0ba9ed5b85a7e54e3b
+com.spotify	scio-smb_2.13	0.14.17		cf3b789e2b8131ab1749f5e6ef842e9ba1e2da81
 com.spotify	scio-smb_2.13	0.14.2		8e4b74a95329994186fe06fce7cf7dc6bef099b7
 com.spotify	scio-smb_2.13	0.14.3		04c02f0c7779c23fe7e4e73d3abe8b4f7023b3f3
 com.spotify	scio-smb_2.13	0.14.4		401b36b8b0fafda209a8582e175fc80706bc13e0
@@ -579,6 +581,7 @@ io.getkyo	kyonative_3	0.16.1		08b4477b0a2bb92778582dbcd6a04df47f66f2ad
 io.getkyo	kyonative_3	0.16.2		be6178cc29df48c9915230bd5dbd5319ce793670
 io.getkyo	kyonative_3	0.17.0		8b8c31497a4003ae8a11c055ce65f980aebe3a79
 io.getkyo	kyonative_3	0.18.0		fca1bcc228a9ceba47c879d0d16db6525558a7c6
+io.getkyo	kyonative_3	0.19.0		a3aaa5171f0ecfb2b673a9cf9706e9d4116aab9d
 io.github.afsalthaj	safe-string-macros_2.13	2.1.3		cc404c0342f909bfc9c0557afba69a9ee25dcfc4
 io.github.ajacquierbret	kotlinphoenix-client-android	1.0.3		N/A
 io.github.edmondantes	simple-kotlinx-serialization-multipart-iosarm64	0.1.0		N/A
@@ -809,6 +812,7 @@ io.quarkus	quarkus-apache-httpclient	3.15.2		372fd21f27c2a640bc381bfcf256033aa52
 io.quarkus	quarkus-apache-httpclient	3.15.3		67c0e379ad13a0397853640f97331ef5263df1b0
 io.quarkus	quarkus-apache-httpclient	3.15.3.1		cd01fbbdb75398cf6aa119f121e0a9377f138879
 io.quarkus	quarkus-apache-httpclient	3.15.4		abe943dfc6d00129de4b6891e9bcccc2f0a02a83
+io.quarkus	quarkus-apache-httpclient	3.15.5		061f0cc7f21ec03829b7165f337a9a679a6e1b8e
 io.quarkus	quarkus-apache-httpclient	3.16.0		3b74e223aa214761dac8c6a8b17639793a91f981
 io.quarkus	quarkus-apache-httpclient	3.16.0.CR1		c37ba4aacade6e270d7f63570750447511a7542a
 io.quarkus	quarkus-apache-httpclient	3.16.1		142eadc7c55868a1b0c067dd21a7a41764f1c3f1
@@ -853,6 +857,7 @@ io.quarkus	quarkus-apache-httpclient	3.2.8.Final		d52906b86b2f451949e78a1827fa58
 io.quarkus	quarkus-apache-httpclient	3.2.9.Final		3d4a7df0a722b738d8e0e0991b9dcecf6325fb71
 io.quarkus	quarkus-apache-httpclient	3.20.0		ef9313706e142bafe2e03945348c061861c10957
 io.quarkus	quarkus-apache-httpclient	3.20.0.CR1		46482b924de29fd1d9efc76a33a36e2dc9caba11
+io.quarkus	quarkus-apache-httpclient	3.20.1		f8f1b74e8c1b7111fd07e106a5087bc194fd058e
 io.quarkus	quarkus-apache-httpclient	3.21.0		f7c5ef5dee88d3bf3661111d05bf86de67cbc289
 io.quarkus	quarkus-apache-httpclient	3.21.0.CR1		cf0b8bdf34587c2b61d3cb186f3e3201c173f6e3
 io.quarkus	quarkus-apache-httpclient	3.21.1		63adde8cf02d8ff2898c44baf57aef22becace60
@@ -862,6 +867,9 @@ io.quarkus	quarkus-apache-httpclient	3.21.4		5e8152dd71a74096904f71d2bbd0d8b3623
 io.quarkus	quarkus-apache-httpclient	3.22.0		ddb12f665d57da9f03058e26767a31d8d945f6d0
 io.quarkus	quarkus-apache-httpclient	3.22.0.CR1		617e7d9c9dd9372dcfccdd1c1b9957916203f5c0
 io.quarkus	quarkus-apache-httpclient	3.22.1		b5ce1249c154ed5aea49d52c31f7781db9577ed0
+io.quarkus	quarkus-apache-httpclient	3.22.2		b4830bf46e7ec1983c28c93d5d390c0bae1e29c3
+io.quarkus	quarkus-apache-httpclient	3.22.3		c5a0242f7bcd51151a2c0144cc7e57313b1dc54d
+io.quarkus	quarkus-apache-httpclient	3.23.0.CR1		244f24549ade547e9cda08aa8d0c137d3dd93d97
 io.quarkus	quarkus-apache-httpclient	3.3.0		e1486d32dd6fa620ed78982ac99aadf68a951bb0
 io.quarkus	quarkus-apache-httpclient	3.3.0.CR1		37fc9e61e3dcf3ea868359cc0c6286dfaed1bda5
 io.quarkus	quarkus-apache-httpclient	3.3.1		4b8a9e79f4d5e3f5b26e2f18f085f8f4e14e3082

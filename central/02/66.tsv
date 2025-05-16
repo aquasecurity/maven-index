@@ -96,7 +96,9 @@ com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.55.0		38720418273
 com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.56.0		1439cd064f22967b5a0ce3ee7215b3c668d80596
 com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.57.0		d16562f0f95def35cc7873bfe8d7eba88dee0594
 com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.58.0		de03d4864819534676687e1d89ed5c7fbbbc40c9
+com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.59.0		591f55cab581e396b098acab9a4979e10ef275d7
 com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.6.0		8c025e9ad9924a79aaf644e2fcda1ebfe6ba0d61
+com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.60.0		846acb00b1f1f4828aed05e4d019dfd0af9ed84c
 com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.7.0		316da143bdb74aaeeaf60f0fee14178182cc3c76
 com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.8.0		91ac2b4fb37643aca6a36025b9180ecf4925e1e1
 com.google.api.grpc	proto-google-cloud-bigquerydatapolicy-v1	0.9.0		77052e9706f91f9e5072ef76a993b50252110548
@@ -348,6 +350,7 @@ com.google.apis	google-api-services-dataflow	v1b3-rev20250131-2.0.0		095d180d5b0
 com.google.apis	google-api-services-dataflow	v1b3-rev20250310-2.0.0		a80161760c9e002472a84a28f96805590a10c98a
 com.google.apis	google-api-services-dataflow	v1b3-rev20250421-2.0.0		d53bf958836c19b45cac1ef78c64a895c11f28c7
 com.google.apis	google-api-services-dataflow	v1b3-rev20250428-2.0.0		ec92a611a35105a1f2a25b299bb77f2b001a1048
+com.google.apis	google-api-services-dataflow	v1b3-rev20250505-2.0.0		65585b3dd4439acf6ffd6b0211e0dc6053843eaf
 com.google.apis	google-api-services-dataflow	v1b3-rev203-1.18.0-rc		a86f4c0de6ab8cb226d226dfb3df3112ee496dad
 com.google.apis	google-api-services-dataflow	v1b3-rev203-1.20.0		0deb23057c8360d746dc6a4f8c48187590b54afb
 com.google.apis	google-api-services-dataflow	v1b3-rev203-1.21.0		13b6e1209134521065af94056990c9b0a498ef79
@@ -1249,6 +1252,8 @@ com.liferay.commerce	com.liferay.commerce.address.content.web	4.0.8	jspc	b4adcfb
 com.liferay.commerce	com.liferay.commerce.address.content.web	4.0.9		b02e900a6625f83d8db0f71c5b95f418a070b1f5
 com.liferay.commerce	com.liferay.commerce.address.content.web	4.0.9	jspc	f6877a072e1551d2aca75928e0e4ce6765631d39
 com.sandinh	ammonite-repl_2.12.3	1.0.1-sh		b34a5c511415296f007173362ea8a6e66972c5b7
+com.sap.cds	cds-feature-event-hub	3.10.0		1b87af32350db4c0d3323fae709d7f0ec0904a58
+com.sap.cds	cds-feature-event-hub	3.10.1		c434b744b68dba9a755fb30ca9d7878e64cae839
 com.sap.cds	cds-feature-event-hub	3.6.0		c776841d64812a61be56945a6f0a2fdfd6b7ba69
 com.sap.cds	cds-feature-event-hub	3.7.0		184445f37bc164d3f87f6e13b33700593362ecef
 com.sap.cds	cds-feature-event-hub	3.7.1		9f24ae58074117c5401222e4980461fc214f5872
@@ -1698,6 +1703,10 @@ org.apache.portals.pluto.templating	templating	3.1.2		N/A
 org.danbrough.kotlinxtras	iconv-androidnativex64	0.0.1-beta05		N/A
 org.danbrough.kotlinxtras	iconv-androidnativex64	1.17		N/A
 org.danbrough.kotlinxtras	iconv-androidnativex64	1.17a		N/A
+org.danielnixon	sbt-slickwarts_2.10_0.13	0.1.0		b2525d5fa6540145ac929a0c7f0ac5deeab56fa6
+org.danielnixon	sbt-slickwarts_2.10_0.13	0.2.0		b53679705e2eeede4973ce53e2097a5c37bed6e2
+org.danielnixon	sbt-slickwarts_2.10_0.13	0.3.0		528e3d4e87001faedbdb28a91426e25668d1422d
+org.danielnixon	sbt-slickwarts_2.10_0.13	1.0.0		0c4f4e4f7dcca23fcb57c32ac0f3b27b6e0717bf
 org.dblock.log4jna	log4jna	2.0		N/A
 org.dblock.log4jna	log4jna	2.1.0		N/A
 org.eclipse.apoapsis.ortserver.cli	cli-jvm	0.1.0		9c7e080e9c7a031b4ad99991279757b94f62ab34
@@ -1708,6 +1717,7 @@ org.eclipse.apoapsis.ortserver.cli	cli-jvm	0.1.0-RC18		282c710e0a46b3f404b16a19d
 org.eclipse.apoapsis.ortserver.cli	cli-jvm	0.2.0		4d22616ae9e789ff6aa84f4e459e0e613258042d
 org.eclipse.apoapsis.ortserver.cli	cli-jvm	0.3.0		cd7992e7357099c2004647cab80ebd8d3947a17c
 org.eclipse.apoapsis.ortserver.cli	cli-jvm	0.4.0		06a54b552102f7db42c738f149ba96a961b48ea8
+org.eclipse.apoapsis.ortserver.cli	cli-jvm	0.5.0		58a4bfab504becb0047c23bc48a1590e12874b57
 org.eclipse.ditto	ditto-services-concierge-config	2.0.0-M1		1d4f4a06d85f468929928f39c029a0da79a4cf93
 org.eclipse.ditto	ditto-services-concierge-config	2.0.0-M2		846614f5d75818a44383e41c72dfbee7e2a891a2
 org.eclipse.platform	org.eclipse.e4.core.commands	0.11.100		bcb3f96c6bd1bd2e40ade6a1a5ebb2dd032223de

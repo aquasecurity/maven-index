@@ -429,7 +429,16 @@ aws.sdk.kotlin	autoscalingplans-jvm	1.4.73		76f5f915870ead90c7eaa656365ff0cc0e70
 aws.sdk.kotlin	autoscalingplans-jvm	1.4.74		75b8d7729eb5b3f35791c944dbc057418362990d
 aws.sdk.kotlin	autoscalingplans-jvm	1.4.75		45f94b98ecd66565d8c2c09881e66a6ec1c34cf3
 aws.sdk.kotlin	autoscalingplans-jvm	1.4.76		5b6cf98cd9282084229f7e4dff096dd5bc5a3665
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.77		ee765e2f61265159930cea983a7a18265f8da511
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.78		1c05505b605e8390f7527559186b07a08a2fe1e5
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.79		ea3a81233eec3f4ab4d5e6e16d2222359a1754ae
 aws.sdk.kotlin	autoscalingplans-jvm	1.4.8		a9884431e8a6dc214fe68ef6d7be060146ef6596
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.80		5823a5d7a815dff3907f6d1cdab8b6c4e037c358
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.81		1a9b00da97074b95365e6ea9420c843867ddb4fa
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.82		c5d7a662d5f1cc2f8f9cd97e18f89d22eec96f07
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.83		3020613d72ea5cf1cc8b932c49a1a5e76803a534
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.84		6dadce62b01e992298ea2cd5a960a29a95b65c5d
+aws.sdk.kotlin	autoscalingplans-jvm	1.4.85		44dc797ce06c87410aaf8bce04fdfb02af03aada
 aws.sdk.kotlin	autoscalingplans-jvm	1.4.9		97675176a1a294ef3ef23f4596a3f3bd575aafe4
 be.orbinson.osgi	opentelemetry-osgi-wrappers	1.0.0		N/A
 be.orbinson.osgi	opentelemetry-osgi-wrappers	1.0.1		N/A
@@ -1228,6 +1237,7 @@ io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.2.8		87833c9f908746c
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.2.9		f111fc528b08717df7a7157965617034b7d6c361
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.3.0-M2		d8ca3219015a711c8c2c67139e21d9b196e2a5cd
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.3.10		784b9e280c80c2ce0535eb69c6311d585d141950
+io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.3.11		a9767bf04c0d839cce0aa11926314dd6ed7a7fe5
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.3.2		c7bcef0b5ed94dff52c1d4f99f3e46b364623b9a
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.3.3		40928bf9d5f9cd73161b822f64cd99d550ba36b1
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.3.4		c5827933838cf20a5692d63fe30d5826f7d67dde
@@ -1241,8 +1251,10 @@ io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.4.0-rc1		374698bb665
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.4.1		829fe9e924d227919d1d25d5a7afb3c6c35dae64
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.4.2		7e43239fb0ec87d9f50d160c4efce2a214273fdf
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.4.4		9148c46b0cfeb7c376f82969d044ae4ebe575e79
+io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.4.5		185ddf59caaa9cd3f6b27292d0f59579e119b90c
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.5.0-m1		0ff3f481c9a839f8eda116208c0245fd16bc6786
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.5.0-m3		13e3fb56962a118153c0e0d1fb4120861b949374
+io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	3.5.0-rc1		945b1afcc6955407d36faeb4f072d424ca3397bf
 io.freefair.okhttp-spring-boot	okhttp-spring-boot-starter	unspecified		a2592bb188a6fda3788faad8d1cd391a6b8d7174
 io.gitee.litong	config-business	1.0.4		44bc4f1925f748a3d1442a581eec726057ab3adf
 io.gitee.litong	config-business	1.0.5		c6ff3a04c1dc93582f13f2bd71570577c162d401
@@ -1782,6 +1794,9 @@ org.daisy.pipeline.modules	html-to-epub3	2.4.1	xprocdoc	5c0236ca4e71513b29482132
 org.daisy.pipeline.modules	html-to-epub3	2.4.2		f48f933b30939bbbbeb5ec12a97868c79f8307ba
 org.daisy.pipeline.modules	html-to-epub3	2.4.2	doc	a0f82fad0e3ff6b892e4fd218096d38af5af0b5a
 org.daisy.pipeline.modules	html-to-epub3	2.4.2	xprocdoc	2105b742cd5348d604e127e9c3343e0eebc49410
+org.daisy.pipeline.modules	html-to-epub3	2.5.0		ca45ede29197525c8b176704420361478790092d
+org.daisy.pipeline.modules	html-to-epub3	2.5.0	doc	5f2a88cb431b1e8165fdffd80ca89033d6da0389
+org.daisy.pipeline.modules	html-to-epub3	2.5.0	xprocdoc	92ecf3040c85828e312cc9f43a0526333169caff
 org.eclipse.hudson.main	hudson-gwt-theme-chrome	3.0.0		ebc17873d85f8f00631eca827a4b6e0c5aae43de
 org.eclipse.hudson.main	hudson-gwt-theme-chrome	3.0.0-1		3c8f7d5ec290941ce1389b1f26d1de31109d56d8
 org.eclipse.hudson.main	hudson-gwt-theme-chrome	3.0.1		1d9214565a4b364d3a61a6d3936debd2e6cb3ea3
@@ -2007,6 +2022,15 @@ org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-418		4d41b8a205b48afd
 org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-419		4e5e114c9bd2ebf6e42373c1f20a6cac6c2ec7b3
 org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-421		b4a4dd7ef7cf3f76fd0bfa3cfc2c7803f2705acb
 org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-423		0029fa07c1cf972619b0347ce2eb11e53a3055ed
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-424		059642d5e0a6f0a72bb4fe9a7a41a7b1466e4866
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-426		fa36ccf1247ec183221cde5b9af62d488d122017
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-428		3935fe089de2f70043609328a4767d0487e5e4f8
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-430		1213b804a23027cdaf7cf100d5243ca6ba88db9b
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-435		ba4027b0863067cc5a9e16e9f6cb79615116ac0c
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-436		d18a004deca49b9390556f5a9bcb92503e254735
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-437		eca365546e66d9c92dee8ab1ea99403221667449
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-438		08278710ea63352669b5fcafa7e4828212b1aa01
+org.jetbrains.kotlinx	kotlin-jupyter-spring-starter	0.12.0-439		6b00c62eebd9d3a85553ae299df4c3b8cd654180
 org.jruby.joni	joni	1.0		426a9745f061a7c8cfb17989d01ea9cf168fd7d4
 org.jruby.joni	joni	1.0.1		c54f9dddfb0800e3aa592071c4a66c82f25d3a6d
 org.jruby.joni	joni	1.0.2		c6c0e93408af00c2e027237258bcb4c4343d9367

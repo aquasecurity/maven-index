@@ -802,6 +802,7 @@ dev.zio	zio-aws-networkmanager_2.13	7.31.27.1		77ef9f5f3ce8c0a76044b1db8b89af335
 dev.zio	zio-aws-networkmanager_2.13	7.31.28.1		ab0ac771d7df2a86e18d9772ff419c8bac29ebb6
 dev.zio	zio-aws-networkmanager_2.13	7.31.3.1		1b3d20c716c9bbb64a694284940fb98d4d42d1e2
 dev.zio	zio-aws-networkmanager_2.13	7.31.30.1		88467dc90e54c1ea025e62864bf90072bc16f034
+dev.zio	zio-aws-networkmanager_2.13	7.31.30.2		79a3d33642c194da51ef1ffec7f5ea5d084b538e
 dev.zio	zio-aws-networkmanager_2.13	7.31.4.1		98bf4bf7bb329c9b144e0ca368e2c18341d68a8c
 dev.zio	zio-aws-networkmanager_2.13	7.31.6.1		095a852ad09ca4c61635baff0729b1077f130463
 dev.zio	zio-aws-networkmanager_2.13	7.31.6.2		fb75c79124c81407916e7deb5883d0e7d9cc6b95
@@ -938,6 +939,7 @@ io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.13.2-alpha		7
 io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.13.3-alpha		4459fc243b44e2bde4dfc797e5adca44b66d6549
 io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.14.0-alpha		9d84b16742ef7e70fd11330ae6803db0932bdb9d
 io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.15.0-alpha		1018548ec5bbb7fbc8f2eb9c659c6406fb92111e
+io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.16.0-alpha		d759e468031f3c73fa53363aa8332e703d2e6b06
 io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.2.0-alpha		39c02501daa4365d85380603d31303e98b2a6e63
 io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.3.0-alpha		eaeb3fd97cb0e0883190867ab858fee233011128
 io.opentelemetry.instrumentation	opentelemetry-graphql-java-20.0	2.4.0-alpha		6c241659d164e8dfa827d2cb63d8f39d4dc7a24a
@@ -1074,6 +1076,7 @@ org.apache.camel.springboot	camel-smpp-starter	4.8.3		53996f6164fb846f05de775478
 org.apache.camel.springboot	camel-smpp-starter	4.8.4		6e4f9ffa7a83715dce8c7e0602f807db2821c118
 org.apache.camel.springboot	camel-smpp-starter	4.8.5		d152b4267bfb2917f05fba4bde424e0a0e40c219
 org.apache.camel.springboot	camel-smpp-starter	4.8.6		2ea22daae291b31ec35f1ff864ca48d6ed9f22b9
+org.apache.camel.springboot	camel-smpp-starter	4.8.7		c8970febf67c2c98f6c8e58e8cf2f296e8510367
 org.apache.camel.springboot	camel-smpp-starter	4.9.0		a60f47406cdb63b5eb8729ed1f320c23580abd5f
 org.apache.dubbo	dubbo-metrics-metadata	3.2.0		fdf1cc65df109a77e3f506782fdc2ba41fa6a169
 org.apache.dubbo	dubbo-metrics-metadata	3.2.0-beta.6		d1bad017678adc51fe5cbdc7b8d099b45ad17930
@@ -1105,6 +1108,7 @@ org.apache.dubbo	dubbo-metrics-metadata	3.3.2		0c98799a61dd97542996b3e0c2a1f4d4d
 org.apache.dubbo	dubbo-metrics-metadata	3.3.3		33a96e999585951d67926c18965846c5054add4d
 org.apache.dubbo	dubbo-metrics-metadata	3.3.4		3722273ce167c38e9486d011bac48dac3bc9ff9b
 org.apache.gravitino	gravitino-common	0.8.0-incubating		7a334debb19c9552b1c8d7bcaa05f8f036c7a8d5
+org.apache.gravitino	gravitino-common	0.9.0-incubating		718a1f451bc67d0166454a7a894bc78c41687a7e
 org.apache.syncope.common.am	syncope-common-am-rest-api	3.0.0		d085c62b4d3e9b2634e244195c63d4522b0c847e
 org.apache.syncope.common.am	syncope-common-am-rest-api	3.0.0-M0		644aa0a1a0a0e6fb59bac7565cf0bc918c4d6d05
 org.apache.syncope.common.am	syncope-common-am-rest-api	3.0.0-M1		daf7b3a93fc44bd9f19f2bf97c8b231082f736c6
@@ -1194,6 +1198,8 @@ org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.44.0
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.45.0		225d11e79e3d9d03b0cb89f69841dfa7100f94cb
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.46.0		3e19b4015a98f9d1dbacdb36ba747aed0c5ebbaf
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.46.1		4936c7f9840f6e9e5d65c890161969f6d48fe8b6
+org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.46.2		5786d78fa82e909d3c8d7607ea0cff318eec8810
+org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.47.0		99eb154b62fb16f1c10a23fe6af0d70f448aae28
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.5.0		6e7d380612ecf5436e748282fc6b200d8abdcaa7
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.6.0		4ddeb9d3e4a8c149883a13a7f5d2241bbe639308
 org.finos.legend.pure	legend-pure-runtime-java-extension-compiled-dsl-tds	5.6.1		5a2dd47343c117b217a89a694833122257b77bbe
@@ -1222,6 +1228,7 @@ org.hibernate.search	hibernate-search-mapper-orm-jakarta-batch-core	7.2.3.Final	
 org.hibernate.search	hibernate-search-mapper-orm-jakarta-batch-core	8.0.0.Alpha1		481b91eaf7b49b42ee48896dd742a39e031a2c9e
 org.hibernate.search	hibernate-search-mapper-orm-jakarta-batch-core	8.0.0.Alpha2		af7e28bfbad8738f29f0ca1f250734e8ceae3dda
 org.hibernate.search	hibernate-search-mapper-orm-jakarta-batch-core	8.0.0.Alpha3		e377277565b9abc71ee9b2d1d1e4cad7de968165
+org.hibernate.search	hibernate-search-mapper-orm-jakarta-batch-core	8.0.0.Beta1		aa73ad685798922c283e8dbfffa1ce1072609e9e
 org.jboss.forge.addon	templates-parent	2.0.0.Alpha13		N/A
 org.jboss.forge.addon	templates-parent	2.0.0.Alpha14		N/A
 org.jboss.forge.addon	templates-parent	2.0.0.Beta1		N/A

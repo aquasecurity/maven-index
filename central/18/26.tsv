@@ -466,6 +466,7 @@ com.gonitro	avro-codegen-runtime_2.11	0.3.1		71a1408a03e8c531cbdd7997994507d8480
 com.gonitro	avro-codegen-runtime_2.11	0.3.2		45eec2d4d0482ef154dfcf72a980c8fcb39d58db
 com.gonitro	avro-codegen-runtime_2.11	0.3.3		6634a11f09f363f1e1c3fe84b18966cb5e957cbc
 com.gonitro	avro-codegen-runtime_2.11	0.3.4		bb8d2c273a826b622c5430f867139d5e6a947506
+com.gw2tb.gw2api	api-client-iosx64	0.10.0	metadata	4e8f1033938168d25df4a762efd83818d69d79ed
 com.gw2tb.gw2api	api-client-iosx64	0.5.0		N/A
 com.gw2tb.gw2api	api-client-iosx64	0.5.0	metadata	fdf8f1e8d208aa245749c31de7c76c3f9bd7c76f
 com.gw2tb.gw2api	api-client-iosx64	0.6.0		N/A
@@ -1294,6 +1295,7 @@ org.anyline	anyline-data-jdbc-sinodb	8.7.2-20250312		d1d14bdd1e06413ae712f2b248f
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-20250401		2bd3eeb46123195e09bd2ec065b24262145e3499
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-20250404		92827cca38af549c7ce77b483fff5f62acd950f7
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-20250502		a9401d1ae31969e13e00f47c6a5e4ffe5a45556a
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-20250509		9d8186107deb4cd5246ef9e1d20d2b09bc39cf3c
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20240816		69b2a7125c39d649522540f4b4ee6ed0240424f2
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20240819		174c69254d167c774673f9d5db37616c6ce68f94
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20240826		986558ede101e4b5a1e089bc2a238c1a596e3d3c
@@ -1311,6 +1313,9 @@ org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20250108		556190dc25b3aaf49ed34
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20250212		d0c222d315b6483fcd04d41e6884541e5e808e91
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20250312		681e7b72ac26d13a1efd7857d650966392b01ddf
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20250404		b9d72162407aa30e36671772310af1adc9a71d55
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20250502		3428dda7cfe172930ee68ff7ace940405b5da71f
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20250509		519e0e4221f25fbf39868c8c896e682e5a7c8b92
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk11-20250515		98cba6e727df6b2ee76455c559bcf84f0e0a4f83
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20240501		6e8bebebb915a1bee224908589fdab71a19a547a
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20240505		526954f8626ffb014de4affca302b0b49c3e7d8b
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20240506		b377cd0eeae5f488973cd57ac0385c44ad36e26c
@@ -1384,6 +1389,9 @@ org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20250109		6e8f7aa4c344c6faf2f50
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20250212		ecb7b9ca38bd5a468ac7a72e7bd8714449160f20
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20250312		20d415ab07c675b4a70d71ca4c9b359d3b969824
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20250404		0492709855574e4416e6776e6fff92598bf5df0a
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20250502		0d4730d527fb2ed6ff8d459b6355b2f8f278bf0d
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20250509		46c1b8329f04a25412783625285cf8ecbe314540
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk17-20250515		570898a326a1eab704a191cb06bc79ddc3937670
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20240501		dc357e16a371cb02642570ed92bcd9aea98072b5
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20240505		df32af1d186b19179d1cc0552cbaab8a784b25cb
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20240506		0678267bd0f8aaa41673619b020d74a5c5dd6dbe
@@ -1465,6 +1473,8 @@ org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20250109		ee91f2dff9721c379d3d2
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20250212		bb03c49078f0cf1e7288b161219f40812b9584fc
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20250312		18664ec6edacc782cbb5a3b6dd283c7c5e629142
 org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20250404		631c64fc5685400b42e67c5d95cc17cbc567c5ef
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20250502		c0400a036b257735281c7da023ed9456f30d2ce6
+org.anyline	anyline-data-jdbc-sinodb	8.7.2-jdk21-20250509		49d3c9cea5c962b81e4f128128d78c90231831d8
 org.apache-extras.camel-extra	camel-wmq	2.17.7		7512f99dddaf3f0c76216415035ab26d10cc1b88
 org.apache-extras.camel-extra	camel-wmq	2.23.1		ebf14c1fba22b7149828784069c326802d8f1215
 org.apache-extras.camel-extra	camel-wmq	2.23.1.1		512604257cf18202d3b6b525652dbcffb038ff81
@@ -1537,6 +1547,7 @@ org.apache.beam	beam-sdks-java-io-rabbitmq	2.61.0		252ccf256dec181d8a562649ed448
 org.apache.beam	beam-sdks-java-io-rabbitmq	2.62.0		b3e290e5d73b865620301320d0e61cfd58b2b45c
 org.apache.beam	beam-sdks-java-io-rabbitmq	2.63.0		307bf31dbdfdbf42d4b62bccca014058e4dfa5ec
 org.apache.beam	beam-sdks-java-io-rabbitmq	2.64.0		db13de58213fb954ed60cd093435efa219f7ea97
+org.apache.beam	beam-sdks-java-io-rabbitmq	2.65.0		6ce1c576848a6f0bbe4aa2e6fa6ac75d29f700cd
 org.apache.beam	beam-sdks-java-io-rabbitmq	2.9.0		062282636653e91530ea45b47417b6975c4ea69c
 org.apache.camel	camel-rabbitmq	2.12.0		6352aae4fd785506f6ade6dbadbc45e38fd6d307
 org.apache.camel	camel-rabbitmq	2.12.1		04b0bf907a3c27b88d3743d0d9d56eafbb49c3b1
@@ -1774,6 +1785,7 @@ org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.2.1		81ce674d70df
 org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.2.2		6eed1610141fca433fa397cbc6b1b0309badd562
 org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.2.3		95b541915279add65ef4d0059025a24ed8abfece
 org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.20.0		c66e87e240d1d3b2dba222699a1608e7e673881a
+org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.20.1		52667aed12013bf7a66d61f6956959f593c423cc
 org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.22.0		5f7c6b07983e5b1476649ae82fcb1ec7d7878677
 org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.4.0		f38ad07c9d6a62b65613f988d3ef4e0611b930ab
 org.apache.camel.quarkus	camel-quarkus-dataformat-deployment	3.5.0		cd3d1ac917a806d8c543ca07375274c284fa2c99
@@ -1835,6 +1847,7 @@ org.avaje.ebeanorm	avaje-ebeanorm-agent	4.9.2		2bcf1474308a4abe35331d187a000649f
 org.avaje.ebeanorm	avaje-ebeanorm-agent	8.1.1		82e36b20b2171a9ea11584115b2ee1cb22f07c5d
 org.business4s	decisions4s_3	0.0.1		39de2797e9d84d4e83dfc325dbf96b3c988f5e95
 org.business4s	decisions4s_3	0.0.2		26b38f6271d169e2ebe275315d7d9412d6c4fa61
+org.business4s	decisions4s_3	0.1.0		8c777abaff2b5e86d212bd19c012e35bba6b561d
 org.codehaus.sonar-plugins	sonar-forms-plsql-extractor	1.0		03354a8f0415cd4acbfa2d29d05473c4ac82ef71
 org.codehaus.sonar-plugins	sonar-forms-plsql-extractor	1.0	jar-with-dependencies	35291cf96ff43b1973a807673469e6a916404df0
 org.codehaus.sonar-plugins	sonar-forms-plsql-extractor	1.1		3b6345b077db65e152b1c5769ad6895969e22c20
@@ -3028,3 +3041,4 @@ tech.annexflow.compose	constraintlayout-compose-multiplatform	0.5.1-shaded-core	
 tools.jackson.module	jackson-module-jakarta-xmlbind-annotations	3.0.0-rc1		ce1f5a7f42ff5a1f99760e2d09579b6976e73acc
 tools.jackson.module	jackson-module-jakarta-xmlbind-annotations	3.0.0-rc2		ffbbbe770560e9bd463fd39ecc2acf3f56dda8cb
 tools.jackson.module	jackson-module-jakarta-xmlbind-annotations	3.0.0-rc3		f4f3d44803c75aa13634c6aa1502b822496a17bd
+tools.jackson.module	jackson-module-jakarta-xmlbind-annotations	3.0.0-rc4		cac4f959fd5ca55c6ed6bd857ed31fff85523ffe

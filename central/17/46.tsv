@@ -659,6 +659,7 @@ org.apereo.cas	cas-server-support-gcp-logging	7.2.0-RC6		07b745a7fc6f37a7b8ba12e
 org.apereo.cas	cas-server-support-gcp-logging	7.2.0-RC6	resources	aed97b1593ab2e72c19db63e1e57bf260e5381e1
 org.apereo.cas	cas-server-support-gcp-logging	7.2.1		82aade481ffa55e1ac10cbd47cabda57000e9796
 org.apereo.cas	cas-server-support-gcp-logging	7.2.1	resources	d6930be39b4eabf84d59b3d9ac789a207d3b6dc2
+org.apereo.cas	cas-server-support-gcp-logging	7.2.2		0fd297ab78b0d78995bd803e31cce0b1e237dd51
 org.apereo.cas	cas-server-support-gcp-logging	7.3.0-RC1		84eb48c28b80a3aae3f2c6d80fd17868a57f320c
 org.apereo.cas	cas-server-support-gcp-logging	7.3.0-RC1	resources	7f88f551217a3d9fbe84ba4139ee0d5dff9fbdd1
 org.cloudfoundry	tomcat-lifecycle-support	3.4.0.RELEASE		72f45894482d0c1b04d78a3ce68b96376ae8e58b
@@ -863,6 +864,7 @@ org.eclipse.xtend	xtend-maven-plugin	2.38.0.M1		c382fe0198ab7643773b801fb8785fbc
 org.eclipse.xtend	xtend-maven-plugin	2.38.0.M2		f7eec92a3be9cbf3bd615e43d3b23a19b78132bd
 org.eclipse.xtend	xtend-maven-plugin	2.38.0.M3		a233cd776477479267b7454ea4bbe8a350d1bf6d
 org.eclipse.xtend	xtend-maven-plugin	2.39.0.M1		a465a219acc196fab4a8369a7790097fc8488c5f
+org.eclipse.xtend	xtend-maven-plugin	2.39.0.M2		295ec5f2f1f77c59489968e1c04538ccc2890f00
 org.eclipse.xtend	xtend-maven-plugin	2.4.1		d6dc1aebcee9e0b0e497e22cc751336bc95719be
 org.eclipse.xtend	xtend-maven-plugin	2.4.2		be2e6d45a1f5f9545a435c1b3db3d986cf4b93a6
 org.eclipse.xtend	xtend-maven-plugin	2.4.3		302c79969004284118a32fec2301ed438c509ad7
@@ -941,10 +943,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.79.0		432134
 org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.80.0		59ef22c26316838b9295504c36e716c9c595da80
 org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.81.0		2fb26afdcaa238d3d85b185f6954dacb85566bec
 org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.82.0		7f1c016c85b72e0ab7883085409cf4c7e28331ba
+org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.82.1		c6a0dafb86b6f01f619d1d9c0b0c649ce19dcd79
 org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.83.0		9e68c06bf57bb7c762d141e30f0f9ec99cf410f1
 org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.83.1		9f8976052bc5873b857a86bdcd77f0d1ff2d55ec
 org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.83.2		e985e404910082c5f810c160d802c6ae808d12cc
 org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.83.3		61d4cbc6f6a30ffb40ae0c0a6ec53ab004257376
+org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.84.0		98a3126d100ca1bd15e2de5600a3a7dfbf2ffc16
+org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.84.1		7dabcf70c4a952882e9afd42241967c15688fd12
+org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.85.0		19de58dc564d4d7301d6cc97858f74bcf0bf9291
+org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.85.1		4d9766c1ead1ecc111dee19e063f72b1d1967db2
+org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.85.2		96b07cb8eb341f99174b33300b29f300416e4c29
+org.finos.legend.engine	legend-engine-xt-relationalStore-SDT-pure	4.85.3		b22ba6823365fc40867956209881c9cc377cd117
 org.jetbrains.xodus	dnq-transient-store	0.0.151		162bdc5c463b7c6923f4bd2050ddc7e7bb142cb9
 org.jetbrains.xodus	dnq-transient-store	1.0.154		d7f07a1b5e3bb2284b24db8c2de8d1a7c51c7b77
 org.jetbrains.xodus	dnq-transient-store	1.0.156		1a18cc0713f1920055fe4dba0053dbd7e12a7880
@@ -1724,7 +1733,18 @@ software.amazon.awssdk	simspaceweaver	2.31.30		1d1ecfc4ce779e9bab97d839c4b93da19
 software.amazon.awssdk	simspaceweaver	2.31.31		555d90f155b0184ee1848353f53daf8e0f4c70db
 software.amazon.awssdk	simspaceweaver	2.31.32		7cb67560d2d5be323318910a96cd62237470d201
 software.amazon.awssdk	simspaceweaver	2.31.33		c51d0c7dd8be2a9eb9777357482799268770fa3c
+software.amazon.awssdk	simspaceweaver	2.31.34		84b4a1a7dc9b4cf1cd5d1a8b0ecc93cfbe3b8550
+software.amazon.awssdk	simspaceweaver	2.31.35		cc81726f316c363a8ede0476cd81764b825529d4
+software.amazon.awssdk	simspaceweaver	2.31.36		186ae7e9b63ebb0b330bddfbbfd60f4944cc0477
+software.amazon.awssdk	simspaceweaver	2.31.37		e4e991a8c64fa01206d8654599744cdcf83c636f
+software.amazon.awssdk	simspaceweaver	2.31.38		2e235d577673fefd32f73fa503d26047faff8693
+software.amazon.awssdk	simspaceweaver	2.31.39		505949d83f437fdbeefbb271ccdabec1f5fc90e7
 software.amazon.awssdk	simspaceweaver	2.31.4		2eb3be40acdad21c5d50ab5e17d407212bc38fb5
+software.amazon.awssdk	simspaceweaver	2.31.40		9448847cde84c3943ccb8eb0c6ceb8bcdcdf2e24
+software.amazon.awssdk	simspaceweaver	2.31.41		5f71d0cda51a1a718d0415471ad563641da006a9
+software.amazon.awssdk	simspaceweaver	2.31.42		7a3ca01726ffc02873a27f4a62da3d76b1750326
+software.amazon.awssdk	simspaceweaver	2.31.43		0d1b0fb800392b0d88b4f2b03b361979e944d503
+software.amazon.awssdk	simspaceweaver	2.31.44		0dbd0f5e9276565c12ee2ec553b5751c499c0274
 software.amazon.awssdk	simspaceweaver	2.31.5		ca16e459fb9a2df9f69697ddc6c8bb4cb5572d1c
 software.amazon.awssdk	simspaceweaver	2.31.6		64ff94c19b1a13965edd35d253d44ade0de7c702
 software.amazon.awssdk	simspaceweaver	2.31.7		8d59ed9426ad3d658742376f4d1a9557b5807af3

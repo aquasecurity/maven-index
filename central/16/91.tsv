@@ -429,7 +429,16 @@ aws.sdk.kotlin	iotwireless-jvm	1.4.73		18af32deca36fa0ba529ea60065527e80168e8c2
 aws.sdk.kotlin	iotwireless-jvm	1.4.74		cb49b79f814962f380a754456b40d9710e821158
 aws.sdk.kotlin	iotwireless-jvm	1.4.75		14ebca12e2fa4733295b546aed12b121a7ec9e24
 aws.sdk.kotlin	iotwireless-jvm	1.4.76		4c546a24949fb34ab2d79e6984616fbb5789840e
+aws.sdk.kotlin	iotwireless-jvm	1.4.77		ba312bcc02b28427dcae8898d538a1a043c8b606
+aws.sdk.kotlin	iotwireless-jvm	1.4.78		3a82fc70a9274352c6055b8ae87341f16317d84b
+aws.sdk.kotlin	iotwireless-jvm	1.4.79		790292028c6dfac127fc5731695da91a1e20b7b6
 aws.sdk.kotlin	iotwireless-jvm	1.4.8		95c77ab5906106660a1345871f71d097048c74de
+aws.sdk.kotlin	iotwireless-jvm	1.4.80		68a5b40af713aca37dc0af29a7e511b30727cfa0
+aws.sdk.kotlin	iotwireless-jvm	1.4.81		178861b401276c0e017bf9c1072afc251e744efe
+aws.sdk.kotlin	iotwireless-jvm	1.4.82		7c4328b542aa1551519e870767cb48a78b0f7e72
+aws.sdk.kotlin	iotwireless-jvm	1.4.83		e3478d9b8ee1f97d4576679fb2e38b287c1b88a1
+aws.sdk.kotlin	iotwireless-jvm	1.4.84		5a6ada72b7f20de0664b7c76f94670fa8d777daf
+aws.sdk.kotlin	iotwireless-jvm	1.4.85		693400e5891739a44ba512b7854b7930629f9ffc
 aws.sdk.kotlin	iotwireless-jvm	1.4.9		510caaf38576bd6c6df325cce50679c47ab92694
 br.usp.each.saeg	jaguar2-api	0.0.1		928dcec13881a3fd676e96f6bcca62aedd8bf4f2
 br.usp.each.saeg	jaguar2-api	0.0.1-jdk6		ea4f91280eb70d33e5ab64136004ba25adf051cb
@@ -652,6 +661,8 @@ com.google.cloud	google-cloud-securitycenter-settings	0.61.0		7b2effc8cf57d623f3
 com.google.cloud	google-cloud-securitycenter-settings	0.62.0		7cf1e071081cb0664b0ea17032490a48906d52cc
 com.google.cloud	google-cloud-securitycenter-settings	0.63.0		c6aadf51f242f0e23e2d5747a1dc360627fbd523
 com.google.cloud	google-cloud-securitycenter-settings	0.64.0		a8cb0da7acf3fc21577f83fbe2574553f30a9bcd
+com.google.cloud	google-cloud-securitycenter-settings	0.65.0		c71728b3b66b4e40b6e95830786c4f368e485e42
+com.google.cloud	google-cloud-securitycenter-settings	0.66.0		ed9808b927dd52df6b81a0107b712268bacdca32
 com.google.cloud	google-cloud-securitycenter-settings	0.7.0		bb6073e501ae593787028a9806a11fa9d2585e6a
 com.google.cloud	google-cloud-securitycenter-settings	0.8.0		ce13813d7a6d17a364864b97efd84187f56f14bf
 com.google.cloud	google-cloud-securitycenter-settings	0.9.0		c104d97a550e391f9dbf737139a396a72d524814
@@ -1474,6 +1485,7 @@ org.imixs.workflow	imixs-office-workflow-oidc	5.0.3		5a39e34600ac624c42b982afb6f
 org.imixs.workflow	imixs-office-workflow-oidc	5.0.4		718b73adb5356e6e1c44bd427474317d7569a932
 org.imixs.workflow	imixs-office-workflow-oidc	5.1.0		32e0cf9eb5d6fbd6d28870cfcc87d673c376227c
 org.imixs.workflow	imixs-office-workflow-oidc	5.1.1		9efe696f8057eb6ba5acc7c94ae5cd1c9775af10
+org.imixs.workflow	imixs-office-workflow-oidc	5.1.2		3cdd6692002bc1a4a98b62db9c32e30450996266
 org.into-cps.maestro.frameworks	fmi2api-test	2.2.1		e32f08fcc72e060edae8c652f8a20ff622985eaf
 org.into-cps.maestro.frameworks	fmi2api-test	2.2.2		7d1d1d0f701e22b5bc0f6dc99ccb1c108805f6bf
 org.into-cps.maestro.frameworks	fmi2api-test	2.2.3		5d7daac2a33eff96e818fe4af14636a7b57d7dcc
@@ -1558,6 +1570,7 @@ org.jetbrains.compose.runtime	runtime-saveable	1.7.0-beta02		024d8ff0cbad0bbdb26
 org.jetbrains.compose.runtime	runtime-saveable	1.7.0-rc01		024d8ff0cbad0bbdb2608fac8854858121615285
 org.jetbrains.compose.runtime	runtime-saveable	1.7.1		024d8ff0cbad0bbdb2608fac8854858121615285
 org.jetbrains.compose.runtime	runtime-saveable	1.7.3		024d8ff0cbad0bbdb2608fac8854858121615285
+org.jetbrains.compose.runtime	runtime-saveable	1.8.0		1ca5b5e046906a4b4cb30bc9f6182dd10e4639ae
 org.jetbrains.compose.runtime	runtime-saveable	1.8.0-alpha01		fba184241b8bb7c5917ea97eb5acbf9e5ecce7fa
 org.jetbrains.compose.runtime	runtime-saveable	1.8.0-alpha02		fba184241b8bb7c5917ea97eb5acbf9e5ecce7fa
 org.jetbrains.compose.runtime	runtime-saveable	1.8.0-alpha03		6895b6e537d0c8e31553fbfd2cd577cc81a4d039
@@ -1881,6 +1894,7 @@ ru.tinkoff.kora	symbol-processor-common	1.1.22		d57c8381bb524f98c5b6cabafbe124f6
 ru.tinkoff.kora	symbol-processor-common	1.1.23		7b31a1f39d5a3618e0154f4c4aac014fa18d0e93
 ru.tinkoff.kora	symbol-processor-common	1.1.24		4346ba74f03c7c26ef15b9d253cdb0e17be2f4c5
 ru.tinkoff.kora	symbol-processor-common	1.1.25		2ce693e696d0b794f78b49d9b0b1f1ff34290e2a
+ru.tinkoff.kora	symbol-processor-common	1.1.26		fc8fac9fec26a305902eb7588375910c25c8200f
 ru.tinkoff.kora	symbol-processor-common	1.1.3		bfc689992b501c193cbc1d64d27419a8d453ddf2
 ru.tinkoff.kora	symbol-processor-common	1.1.4		b9ccc767bdd49c8193da8436546a986405c2b7ce
 ru.tinkoff.kora	symbol-processor-common	1.1.5		7d28a91be5e32f97e5fd61e2295bb9be9e5daca2

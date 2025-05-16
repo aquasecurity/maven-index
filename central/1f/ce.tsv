@@ -406,6 +406,8 @@ com.teamscale	teamscale-wia	2025.2.0-rc2		7f605b1c9ac59a0e941cecc4f30a8d6a1c7f0d
 com.teamscale	teamscale-wia	2025.2.0-rc3		3f8800a09a6545b0e822692b8b9760c764d5e67e
 com.teamscale	teamscale-wia	2025.2.1		82513a5d8af9a366e1410f6b3b0b4bb63d5d5be5
 com.teamscale	teamscale-wia	2025.2.10		9d1ca0f4e8cf748b7932f4baa205ea5343d70a96
+com.teamscale	teamscale-wia	2025.2.11		14f2ac35883d3c5d133441b2a7ed1cd902d3f94b
+com.teamscale	teamscale-wia	2025.2.12		e43fb3fb6722b53fcd72e8239a040c83a6977dba
 com.teamscale	teamscale-wia	2025.2.2		5689ab54936677f5918b3c5a568bfc0b05d75689
 com.teamscale	teamscale-wia	2025.2.3		ffcafff93d71652699a1a8c183ac214af86d1031
 com.teamscale	teamscale-wia	2025.2.4		9f98bcd1501ce1bf876f079c356e398963cc40c0
@@ -422,8 +424,12 @@ com.teamscale	teamscale-wia	2025.3.1		834dcad2c3eccf21282f1e9d5f431ad0be58b7e0
 com.teamscale	teamscale-wia	2025.3.2		50433b4a8a4b55c088fdf757757d436cac79a1be
 com.teamscale	teamscale-wia	2025.3.3		31229f616bf6c8ef83d8a161cc7cbf326834ef59
 com.teamscale	teamscale-wia	2025.3.4		821fd91aeb74033275e47021e35150416acbd68f
+com.teamscale	teamscale-wia	2025.3.5		ce8694d1b4207d7c8d9a198ee931f62508a57a9a
+com.teamscale	teamscale-wia	2025.3.6		4372f5d6c69dabd5a7d0b80413310c74fabc8af0
+com.teamscale	teamscale-wia	2025.4.0		60fb3d900302ad76174a03395c17795ce0f6f5ce
 com.teamscale	teamscale-wia	2025.4.0-rc1		88425938a9aad03db90b3c4e22e8cd2aadae870c
 com.teamscale	teamscale-wia	2025.4.0-rc2		c2bc2a80f38df000f282adc5860234128a810924
+com.teamscale	teamscale-wia	2025.4.0-rc3		ed78dfdafb273a5a124c536dbfbc44c9e198054b
 com.teamscale	teamscale-wia	8.5.0		cffcc12fa97d9f087790fe76d215a4f7b279bf47
 com.teamscale	teamscale-wia	8.5.1		8749893f47eec241fb828dcf47c44b5b7175d9c0
 com.teamscale	teamscale-wia	8.5.10		64c9a9878280321ca73f684d93bd08d71110f276
@@ -1144,6 +1150,7 @@ io.fabric8	kubernetes-model-common	7.0.0		cb74f1b2a349b5df657bdfe9c55decfc704feb
 io.fabric8	kubernetes-model-common	7.0.1		05961108b473f40f9151ca9ac54015f8f9b3cd33
 io.fabric8	kubernetes-model-common	7.1.0		f81d5e4842aba1197b975d04133952a79dd15484
 io.fabric8	kubernetes-model-common	7.2.0		c53776e0c31f88e038fbb41abfcd5f998d2477b0
+io.fabric8	kubernetes-model-common	7.3.0		19d472680f37d55c8082d58eba4e00f871324031
 io.github.hippah	LWJPS	1.0.0		de60f6138c9c6944c078cc21c5b56de0a6b3f091
 io.github.hippah	LWJPS	1.1.0		2bd85439b7c41b955d19f0fb04ccdc02c3ab910b
 io.github.hippah	LWJPS	1.1.1		f822bdedbe34045edbaac4bceb7eb879ed887087
@@ -1164,6 +1171,7 @@ io.github.kitlangton	neotype-doobie_3	0.3.19		44ac21428aad7c3d2508d792d76b6772c3
 io.github.kitlangton	neotype-doobie_3	0.3.20		e8f627976a0ddd14a64700598c511e57de09e6dc
 io.github.kitlangton	neotype-doobie_3	0.3.21		0c8165046cd6f6ddfc018ef4850c1bccae8386d3
 io.github.kitlangton	neotype-doobie_3	0.3.23		1e7d485103c288db58343ca32d6c11af0e92c07d
+io.github.kitlangton	neotype-doobie_3	0.3.24		1b50d484f8a55032935975f137e1d6a07f55f374
 io.github.kitlangton	neotype-doobie_3	0.3.4		d48e51b743cb1bb959826749f5bf491a77fbf7e1
 io.github.kitlangton	neotype-doobie_3	0.3.5		dcfd3c2fd80f459150924b56f024e21558240a44
 io.github.kitlangton	neotype-doobie_3	0.3.6		699d65f5d451ab948d85e956b8402fdf49c13730
@@ -1177,6 +1185,10 @@ io.github.mictaege	spoon-gradle-plugin	2024.2-rc1		262272ad0755de21ad9da4ebe1454
 io.github.mictaege	spoon-gradle-plugin	2024.2-rc2		e673839e8ffcaecc162d4ca07b1a82965abdc354
 io.github.mictaege	spoon-gradle-plugin	2024.2-rc3		fed72c240a8f777a1dc41de2c856083a8b933641
 io.github.mictaege	spoon-gradle-plugin	2024.3		cca9f082c8d58d2b95a1888de5f6f159e9b8df8b
+io.github.mictaege	spoon-gradle-plugin	2025.1		d048ce34f846954c67373f56cddf14a1df01732c
+io.github.mictaege	spoon-gradle-plugin	2025.2-rc1		5691b37f57247e32dd5320a2c7a1deec389b6ce5
+io.github.mictaege	spoon-gradle-plugin	2025.2-rc2		97dbb177c35b1f903add24d61b91c44d8108420d
+io.github.mictaege	spoon-gradle-plugin	2025.2-rc3		04dba674c7d28e933807c1d42c4270154e099197
 io.github.toquery	clever-framework-swagger	1.0.6		c5c7c2011998f294017478b40a4feba2f01f61ea
 io.github.vigoo	zio-aws-rds_2.12	2.14.3.0		5cf8c08af28062c075659fab97dabc03b5ed6ffa
 io.github.vigoo	zio-aws-rds_2.12	2.14.7.0		e08209ab43e2ec0c2dd0dd48d93bc04ef0cf74ce
@@ -3111,7 +3123,18 @@ software.amazon.awssdk	sms	2.31.30		480f16b123600f6b6085430dae62e9d5922c7f50
 software.amazon.awssdk	sms	2.31.31		8bb36039285254f513b29fd9802f8637645cbeba
 software.amazon.awssdk	sms	2.31.32		89c716491afcbe945d2439584881eae50d5f56c4
 software.amazon.awssdk	sms	2.31.33		a4ba19c2bb7a9dbe79ecfe0a4f79e0a432f1ec07
+software.amazon.awssdk	sms	2.31.34		fd512197376bb02ea6c14b11085e45fc459b7aa3
+software.amazon.awssdk	sms	2.31.35		580e05d864da520b87b18bd8ae33743ed5e3a779
+software.amazon.awssdk	sms	2.31.36		5b53e854e367b26cc7b724a3274bc9820af0bacd
+software.amazon.awssdk	sms	2.31.37		f26357722b88a1dc8f8362862f41d242dc0e5e14
+software.amazon.awssdk	sms	2.31.38		f332911023af0d144e16d5ad10b4ab964e83f20b
+software.amazon.awssdk	sms	2.31.39		69cf67de7b365001fe4702c21030358d0192ea7d
 software.amazon.awssdk	sms	2.31.4		a559430b2fca5a2ebd9a625f34d5e720f21c80d0
+software.amazon.awssdk	sms	2.31.40		65a97b7acf419485395b04484b3d7d4a857a312c
+software.amazon.awssdk	sms	2.31.41		9b908e80dde8dec973ef02b49b9cfea83c7aa519
+software.amazon.awssdk	sms	2.31.42		50431679f0940c4724b714b4207b2a2831d29b7a
+software.amazon.awssdk	sms	2.31.43		acf6056bf3be740818896df5e197bec706e7c3a2
+software.amazon.awssdk	sms	2.31.44		59ffd8095be95d0f7218e69f063e3dac6a62e06f
 software.amazon.awssdk	sms	2.31.5		2b2d308f430e386765ef6216ce29156938cc9a08
 software.amazon.awssdk	sms	2.31.6		d3d09334de5da55808b7e605f31eee0e5199b3ed
 software.amazon.awssdk	sms	2.31.7		afae39659236814ee0e2b7418eddc07400fad767

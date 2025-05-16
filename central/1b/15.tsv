@@ -242,6 +242,13 @@ com.github.czyzby	ktx-collections	1.9.4-b1		dae31e3f36e560799741bf622ab5ec79cfb5
 com.github.czyzby	ktx-collections	1.9.4-b2		9a0031124e27c3559cbfadb23138ac7a8f99ac64
 com.github.czyzby	ktx-collections	1.9.5-b1		fa9eb5775612afc0567821783ce3cafdac5f908f
 com.github.czyzby	ktx-collections	1.9.6-b1		7b5737f3e9bd052387303cb6945da235f0067014
+com.github.mpeltonen	sbt-idea_2.9.1_0.11.3	1.0.0		c14f2ce52cf02130e082f7a0affbc43a408f83a1
+com.github.mpeltonen	sbt-idea_2.9.1_0.11.3	1.1.0		ac0850606d00978dfc450dd9a11eb13fef7867ef
+com.github.mpeltonen	sbt-idea_2.9.1_0.11.3	1.2.0		bea87523b7536f914e3c0809a33721cec1fcc86a
+com.github.mpeltonen	sbt-idea_2.9.1_0.11.3	1.3.0		65f232321fbd42b1571a9dfa01f94783e26ac4ce
+com.github.mpeltonen	sbt-idea_2.9.1_0.11.3	1.4.0		458b5556d8ac8755c6a96fd77b26312ef2fad756
+com.github.mpeltonen	sbt-idea_2.9.1_0.11.3	1.5.0		584ee8e59cfe5c1e63f542b89ef64590eba4624e
+com.github.mpeltonen	sbt-idea_2.9.1_0.11.3	1.5.1		aede3d3b49d3740c64951854d41585e97f3a2240
 com.github.squirrelgrip	drainer	1.0.0		b16aa059305a95648533e908e1a508fd9654bde1
 com.github.thorbenkuck	NetCom2-Auto	1.0		579021802981af07754adb07350abdf0317cae58
 com.gregmarut.querybuilder	query-builder-jpa	1.0		1768150d5d49478b2db24038063e142d9ff81db7
@@ -352,6 +359,7 @@ com.soywiz.korge	korge-jvm	5.3.0		73c5622c2d5884f22cb62623d982b3eabd5290d5
 com.soywiz.korge	korge-jvm	5.3.1		4d1967a64d1b49a23d68ab4fe44bb6c9de11ee6e
 com.soywiz.korge	korge-jvm	5.3.2		1258785ac973afea774fc557f970ab59af4413c0
 com.soywiz.korge	korge-jvm	5.4.0		782f25bf609751d69f42aa0dcf5435316adfd1d9
+com.soywiz.korge	korge-jvm	6.0.0		5574e8648f6d08b514284540c945703f65f74a74
 com.soywiz.korge	korge-jvm	6.0.0-alpha2		cce759a89795e42c2b2bd58545c3dc79148eaf98
 com.soywiz.korge	korge-jvm	6.0.0-alpha3		e34a02e9b7b514fef9dcdcba7f5f3226b162e7a9
 com.soywiz.korge	korge-jvm	6.0.0-alpha4		7e76860dec1201e78c6645f34e88a6e861f28af9
@@ -512,6 +520,7 @@ edu.gemini	lucuma-react-font-awesome_sjs1_3	0.80.0		0d5e47d20ce93858cb0c758da51e
 edu.gemini	lucuma-react-font-awesome_sjs1_3	0.81.0		783ad90295cde22969e6ff92df2de3937d9d91e3
 edu.gemini	lucuma-react-font-awesome_sjs1_3	0.81.1		9ac986609e02ea6919009cb5b214816f987087c4
 edu.gemini	lucuma-react-font-awesome_sjs1_3	0.82.0		298a1af45a47c02bbe01ccf87f0ffe40e072f821
+edu.gemini	lucuma-react-font-awesome_sjs1_3	0.83.0		b45180c7b0c7aacb5376573698c11b0153d824f6
 edu.gemini	lucuma-react-font-awesome_sjs1_3	0.9.0		e0baa223b554b5590ad235dd8f309c32aefcb178
 io.bdrc	mcouch-ektorp	1.0.0		3a2d767804b6b7b25afbc3874beb397a69c1d110
 io.bdrc	mcouch-ektorp	1.1.0		29f74e64f00f3b82de9e0fdbb05b742ca441b0f3
@@ -519,15 +528,19 @@ io.exoquery	exoquery-jdbc-jvm	0.1.0.PL-0.1.0		7a7f516da07cfe3dcd38535cba94e2b6bd
 io.exoquery	exoquery-jdbc-jvm	1.0.0.PL-1.0.0		7a7f516da07cfe3dcd38535cba94e2b6bdfcba56
 io.exoquery	exoquery-jdbc-jvm	1.0.1.PL-1.0.1		2bfe6d3e37edce216e12d2fdf14c058f32d47b1f
 io.getlime.core	http-common	1.10.0		d394a6beea8ed7cda7ab6effcb2e50ef2945ec8d
+io.getlime.core	http-common	1.10.1		e7f785d3dd18c3aafa71304f83f80c905bfeee20
 io.getlime.core	http-common	1.11.0		bc1fca050e59473ce558a53a730e7a292be34dbe
+io.getlime.core	http-common	1.11.1		d7c98fa155cead7510d22f2a70d32ee00df4604e
 io.getlime.core	http-common	1.7.0		6a6a769b76a5ddac612741c2027dce0c4c8a1f0b
 io.getlime.core	http-common	1.8.0		7c709bb6330671e34e5f94dda72d46baa77c5865
 io.getlime.core	http-common	1.9.0		333e52f31e6df6c661df3ebc67cdd63d5cce071b
+io.getlime.core	http-common	1.9.1		f44f270a4530342eb35c9e08961398c74668f335
 io.github.iamthevoid.reactivebinding	rx2-design	1.0.0-beta08		N/A
 io.github.iamthevoid.reactivebinding	rx2-design	1.0.0-beta09		N/A
 io.github.iamthevoid.reactivebinding	rx2-design	1.0.0-beta10		N/A
 io.github.iamthevoid.reactivebinding	rx2-design	1.0.0-beta11		N/A
 io.github.iamthevoid.reactivebinding	rx2-design	1.0.0-beta12		N/A
+io.github.kevincianfarini.monarch	launch-darkly-integration-watchosdevicearm64	0.2.4	metadata	af6fb523994edb31f65819d1a4e92231e4a931c7
 io.github.qdsfdhvh	image-loader-extension-compose-resources-wasm-js	1.10.0		N/A
 io.github.qdsfdhvh	image-loader-extension-compose-resources-wasm-js	1.7.8		N/A
 io.github.qdsfdhvh	image-loader-extension-compose-resources-wasm-js	1.8.0		N/A
@@ -913,6 +926,7 @@ org.apache.camel.quarkus	camel-quarkus-google-sheets	3.2.1		c95ea1afc7f1250fc2a7
 org.apache.camel.quarkus	camel-quarkus-google-sheets	3.2.2		c32024263f3b1788e50fb8b190465445d9d4b31c
 org.apache.camel.quarkus	camel-quarkus-google-sheets	3.2.3		12967ae9c3d85d3542bcfd3ff8ea30f703246e07
 org.apache.camel.quarkus	camel-quarkus-google-sheets	3.20.0		d6d8f1665a3110e3e4509a28518e9d348f9986eb
+org.apache.camel.quarkus	camel-quarkus-google-sheets	3.20.1		3801425aeb99eb6cebca0e09c29b7c62ee34d09f
 org.apache.camel.quarkus	camel-quarkus-google-sheets	3.22.0		0aee90a5c68046d39c5b7cd7b6ec27cb1db5e069
 org.apache.camel.quarkus	camel-quarkus-google-sheets	3.4.0		af2fc4448cd7e55de597c0e251cabf84eb24548f
 org.apache.camel.quarkus	camel-quarkus-google-sheets	3.5.0		2c9ac658f6d5d0cd15bc31459dce96657a4c9861
@@ -981,6 +995,7 @@ org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.2.1		9d8e449e0cade0a15835
 org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.2.2		3c4bca22ed090519aa14b013ebb7babfc26b3c76
 org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.2.3		d63f08af7d23b0be9864c828762d6eeb71381b9f
 org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.20.0		b01802bcd36f92cd4faa3fbe689df919bfc8b265
+org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.20.1		7746718180fdf9025229c3e25d0b1b6d8f8c3a61
 org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.22.0		bec9e8fbdd9cde1b4f47b8a8bcd0095ce4b55b2d
 org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.4.0		a7168779da2e1050d105bca1ac1595fcbdfcfb75
 org.apache.camel.quarkus	camel-quarkus-xj-deployment	3.5.0		922ebb165c2a6f9f0337a988240dcaddad2bc137

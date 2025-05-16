@@ -136,6 +136,8 @@ com.google.cloud	google-cloud-monitoring-dashboard	2.60.0		e147d89e03ce26e666d6c
 com.google.cloud	google-cloud-monitoring-dashboard	2.61.0		ef83c903efbe3ceaa3a5098d153b89f04aea734f
 com.google.cloud	google-cloud-monitoring-dashboard	2.62.0		ca5abe2ea7086ec52e31240871e4b3cd39df82c0
 com.google.cloud	google-cloud-monitoring-dashboard	2.63.0		394ddf37217cc1d45337dc576dcb2737879b6710
+com.google.cloud	google-cloud-monitoring-dashboard	2.64.0		291df6d271979f31df1afea8d612b0e11a84c621
+com.google.cloud	google-cloud-monitoring-dashboard	2.65.0		13a7c0c28f6115bd43503474266214a6719cc058
 com.google.cloud	google-cloud-monitoring-dashboard	2.7.0		a77864239ef77e70b65728d40064e590ae871eae
 com.google.cloud	google-cloud-monitoring-dashboard	2.8.0		7d18860508fb1df5cd7af9a6683de2107faa19b1
 com.google.cloud	google-cloud-monitoring-dashboard	2.9.0		33aadd7834ba7f0dd73c477498eeb54642e68d67
@@ -184,7 +186,12 @@ com.hedera.hashgraph	app-service-consensus-impl	0.61.1		77c65ea4925ff77064a6a66a
 com.hedera.hashgraph	app-service-consensus-impl	0.61.2		5a67ffa394b75ff4b216406807c123ec337724eb
 com.hedera.hashgraph	app-service-consensus-impl	0.61.3		ed55b2ff0dcbadf8a36ea68e0b0310ae978874c4
 com.hedera.hashgraph	app-service-consensus-impl	0.61.4		20a0ab0400c1fec9bd0754d0fbbd41ce266e49f1
+com.hedera.hashgraph	app-service-consensus-impl	0.61.5		0fc48d3801522d2b56f4c6de16cf8215388f2729
+com.hedera.hashgraph	app-service-consensus-impl	0.61.6		6e947054b6be4360be2002e732bf1c710a4d64d9
+com.hedera.hashgraph	app-service-consensus-impl	0.61.7		5f5c396418e0ae7e5fe8c68e763d6bb1c424cf22
 com.hedera.hashgraph	app-service-consensus-impl	0.62.0		cd4cee1bfb8445cdc84133f0d78c012354bac214
+com.hedera.hashgraph	app-service-consensus-impl	0.62.1		c1b41031e46bd3259ca1fc3b8c9203e49966c6cc
+com.hedera.hashgraph	app-service-consensus-impl	0.62.2		33eca637f995fc3afb008a0bb883ecf2b42c5599
 com.joanzapata.iconify	android-iconify-entypo	2.0.1		N/A
 com.joanzapata.iconify	android-iconify-entypo	2.0.2		N/A
 com.joanzapata.iconify	android-iconify-entypo	2.0.3		N/A
@@ -524,6 +531,7 @@ de.jensklingenberg.ktorfit	ktorfit-annotations-iosarm64	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-annotations-iosarm64	2.5.0	metadata	b9c40c7d73e93e75c8e279acd338bea4676b29bf
 de.jensklingenberg.ktorfit	ktorfit-annotations-iosarm64	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-annotations-iosarm64	2.5.1	metadata	1f60d0942d1e1eaa61752ec141b7dfd32aafcb5e
+de.jensklingenberg.ktorfit	ktorfit-annotations-iosarm64	2.5.2	metadata	5b494ad1d247e3f0121032580d2741103392dddc
 dev.adamko.kxstsgen	kxs-ts-gen-core	0.1.1		a5e2a2da93c00a1e0b09fc5d5b1cd618e8f3e224
 dev.adamko.kxstsgen	kxs-ts-gen-core	0.1.2		675403f3dd4d686f4c8daaa63434525e78626ca8
 dev.adamko.kxstsgen	kxs-ts-gen-core	0.1.3		9e902726d442935e4854d3709c0aca4eddaaef9e
@@ -549,6 +557,7 @@ dev.opensavvy.prepared	runner-kotest-watchosarm64	2.0.0-alpha.2		N/A
 dev.opensavvy.prepared	runner-kotest-watchosarm64	2.0.0-alpha.2	metadata	3051637802de065910397a5471a8958913442ae3
 dev.opensavvy.prepared	runner-kotest-watchosarm64	2.0.0-rc.1		N/A
 dev.opensavvy.prepared	runner-kotest-watchosarm64	2.0.0-rc.1	metadata	0f38c17f3e62c07b375c8be79ce4ef1b170fd968
+dev.opensavvy.prepared	runner-kotest-watchosarm64	2.0.1	metadata	6a5ebea650b108c6186ac8e295aaa747b312edd7
 dev.zio	zio-test-sbt_0.23	1.0.0-RC19		c7ad9e6aa475385a16bb3c1581018748e7825985
 dev.zio	zio-test-sbt_0.23	1.0.0-RC19-1		bc392d8bf49a5c2bb6d386e7c21f6d6e2c5d421a
 dev.zio	zio-test-sbt_0.23	1.0.0-RC19-2		ad697fe1cae634a1f32e9d6b31c4673558813800
@@ -2454,7 +2463,18 @@ software.amazon.awssdk	sdk-core	2.31.30		9436b06315f8b175788c643e4a13224144d4894
 software.amazon.awssdk	sdk-core	2.31.31		12bd4201a14894a0a0e3fb6b82c8f616082c0515
 software.amazon.awssdk	sdk-core	2.31.32		39a5e07249786c339ee610d8da23a77c96d5a0fd
 software.amazon.awssdk	sdk-core	2.31.33		1239413d6b4f87a6ca5dcd7a7389345ee4d2562a
+software.amazon.awssdk	sdk-core	2.31.34		d6a885f2234a3dd0ab0fc4f8a5817a09973e2bf2
+software.amazon.awssdk	sdk-core	2.31.35		07d34a934de64bc1bc04e5ffae67965ab3ae88c2
+software.amazon.awssdk	sdk-core	2.31.36		e7a7bd4dfa400921fe1cc632f6738aa5e255be6e
+software.amazon.awssdk	sdk-core	2.31.37		313fb0b37df509823b36d55968a8d3dcf7859b65
+software.amazon.awssdk	sdk-core	2.31.38		59466b8fc829a8cec2ed4fa727b6e19c5b278622
+software.amazon.awssdk	sdk-core	2.31.39		88da38424712e62f4cf1b909a92a60c7df289280
 software.amazon.awssdk	sdk-core	2.31.4		ea087e4876d28ef71b8beb3dc200d5a0a3b5dd23
+software.amazon.awssdk	sdk-core	2.31.40		a2a7c61e0c2bc0c51bfd116020c592627bcd5559
+software.amazon.awssdk	sdk-core	2.31.41		864a6d5e083cd109bcd068728d2342ddca0c47db
+software.amazon.awssdk	sdk-core	2.31.42		185011fa176d4bba1bcc488e5231accaec57be23
+software.amazon.awssdk	sdk-core	2.31.43		b0d7d49c516426ce01ef3932f7f80a21073a1671
+software.amazon.awssdk	sdk-core	2.31.44		ef97aa1603060f740b4945616a6d8c59414e3423
 software.amazon.awssdk	sdk-core	2.31.5		3fe6c140c0ae3ba016d99a6bd23918dd18b2b259
 software.amazon.awssdk	sdk-core	2.31.6		587bf8a43a21ce0ee7b3d179f5772a83f6219ef5
 software.amazon.awssdk	sdk-core	2.31.7		ebdc5bd40a3ce2d3ef65021481dcb7bf6fb34c20

@@ -127,6 +127,7 @@ com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.27.0		23f7ab502e8daf9
 com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.27.1		4ca55e3d0c9e19b9efd6e40a57637bf7564db38b
 com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.27.2		ce521847b20699b1a46deb6d85aa0c95870f8707
 com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.28.0		d9f06a7b4a94e8c76473aa64f51c659be4b3baf0
+com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.28.1		41ca5a7868602b2db38acc3fed68f2588a7bb0c5
 com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.6.0		a47e2f3c985c735d22f87c180dc9e44c8cfc96a7
 com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.7.0		fc72245c899670f9ba8d52637dee1410e2d3ad8a
 com.google.api.grpc	grpc-google-cloud-datastore-admin-v1	2.8.0		4d7930673d449334950f1c51792a5a19f1663eab
@@ -840,6 +841,7 @@ dev.zio	zio-aws-cognitoidentity_2.13	7.31.27.1		afaba26541101f4cdfb356f61f3565fa
 dev.zio	zio-aws-cognitoidentity_2.13	7.31.28.1		559b451a87f5a118a3dba36c9b9c126cda17add7
 dev.zio	zio-aws-cognitoidentity_2.13	7.31.3.1		e051d2975af254db31833ae21115cda689f9e19e
 dev.zio	zio-aws-cognitoidentity_2.13	7.31.30.1		3af9a3704d188d2367c74126a8d258fbde035e12
+dev.zio	zio-aws-cognitoidentity_2.13	7.31.30.2		ceb17aae8b83dd080e6565652b6a6648ffe132d8
 dev.zio	zio-aws-cognitoidentity_2.13	7.31.4.1		8a716cc49937459514b9d799c8ce1f67fe920f21
 dev.zio	zio-aws-cognitoidentity_2.13	7.31.6.1		61b503f13bfee06faedd1d04d9404bda66b5d622
 dev.zio	zio-aws-cognitoidentity_2.13	7.31.6.2		a630fdbe551ac78f0fe9c4a9be56908dde7a77f9
@@ -901,10 +903,18 @@ io.camunda.connector	connector-aws-s3	8.7.0-alpha3.3		e245192209f24691e13efa4541
 io.camunda.connector	connector-aws-s3	8.7.0-alpha3.3	with-dependencies	00e21fa2acdf79bfa9a3d99963c79ec3f20aa66a
 io.camunda.connector	connector-aws-s3	8.7.0-alpha4		40f3ab1a57f0febd4408fae12e68c225f24edf80
 io.camunda.connector	connector-aws-s3	8.7.0-alpha4	with-dependencies	4a67fca6c0370df2054c58c7e2e4ed02d30cc031
+io.camunda.connector	connector-aws-s3	8.7.1		a965a204bb16a814d8c5aa1bf83b922267a95e37
+io.camunda.connector	connector-aws-s3	8.7.1	with-dependencies	5bea011051b2cec1c5359c37cf747c7fcced7087
+io.camunda.connector	connector-aws-s3	8.7.2		d9705d8d9cdf74a3e6aea864be74a73b4efb8560
+io.camunda.connector	connector-aws-s3	8.7.2	with-dependencies	54d00d202923eb95636dcf5ee53dedeef2f4d0dd
 io.camunda.connector	connector-aws-s3	8.8.0-alpha3		cff80a223fbddd9a0f4488f7585bb8026eb08224
 io.camunda.connector	connector-aws-s3	8.8.0-alpha3	with-dependencies	5db1484c3368f9a1d16e9517442e7d09197e13bb
 io.camunda.connector	connector-aws-s3	8.8.0-alpha3.1		f62cce9f30342f817693ba5807be756566441d1e
 io.camunda.connector	connector-aws-s3	8.8.0-alpha3.1	with-dependencies	8e83a527d7209ec17848568effad442a0dd791cb
+io.camunda.connector	connector-aws-s3	8.8.0-alpha4		182bdee7543c56b98146f4b4817639f7792a4dcb
+io.camunda.connector	connector-aws-s3	8.8.0-alpha4	with-dependencies	09fe3120f4381c6072ca09f0d2dbeb6694066e2b
+io.camunda.connector	connector-aws-s3	8.8.0-alpha4.1		885907d7302893c265c1060c2d4f962588d9ff4f
+io.camunda.connector	connector-aws-s3	8.8.0-alpha4.1	with-dependencies	38121fbc64f73f5ae7e95b51f05de66a7564c132
 io.chrisdavenport	single-fibered_2.12	0.1.0		326dc5249a4b963fcc4aa19fa037e68cdedd4d52
 io.chrisdavenport	single-fibered_2.12	0.1.1		6bceba53490cebc5a9ad1d78d09c2f7e8bf65367
 io.github.GameDevTurbo	facebook-adapter	6.5.0.30		N/A
@@ -1017,10 +1027,12 @@ io.kotest	kotest-framework-engine-macosx64	6.0.0.M2		N/A
 io.kotest	kotest-framework-engine-macosx64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-framework-engine-macosx64	6.0.0.M3		N/A
 io.kotest	kotest-framework-engine-macosx64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-framework-engine-macosx64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-permutations-watchosdevicearm64	6.0.0.M2		N/A
 io.kotest	kotest-property-permutations-watchosdevicearm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-permutations-watchosdevicearm64	6.0.0.M3		N/A
 io.kotest	kotest-property-permutations-watchosdevicearm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-property-permutations-watchosdevicearm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.ktor	ktor-websocket-serialization-iosarm32	2.0.0		b0b76ef99da30e2e95580334f5b634bed1cee359
 io.ktor	ktor-websocket-serialization-iosarm32	2.0.0	metadata	a6e35fd33de8288fe8648ba6c7999aae5e596cc8
 io.ktor	ktor-websocket-serialization-iosarm32	2.0.0-beta-1		22490c8972a39d343524078abcf2925ec02fe03a
@@ -1452,6 +1464,7 @@ org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.2.1		85c2a5c4093b3885e1
 org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.2.2		9c7d7baffb45fab211b9df98c838107caf491ffe
 org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.2.3		f41dea0d681efd6e4bf94680c42cd522e37c3329
 org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.20.0		55e19c36ac881eac0cabb15e1ec61b08ce174bab
+org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.20.1		07054a614ea4dd0aaa79eafc2a8f624f88a0b02d
 org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.22.0		3db8fc4b65dc97373dbf841f07ebfea4e02bdd8d
 org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.4.0		9bda72ac5ee3617d7732382279577f47202d8b9a
 org.apache.camel.quarkus	camel-quarkus-cron-deployment	3.5.0		016a6739d241bb9a0486bb45e20c84212045ea7e

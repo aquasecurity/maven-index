@@ -152,6 +152,7 @@ com.likethesalad.tools	plugin-tools	3.0.0		656e9bf27e359f7063840d7519629274e1d0e
 com.likethesalad.tools	plugin-tools	3.0.1		b1f1ed0633f3be3f7c56394cb41104bd94735499
 com.likethesalad.tools	plugin-tools	3.0.2		687ec79c0392ff515f7e16e63bba07f1388df4b6
 com.likethesalad.tools	plugin-tools	3.1.0		01c444b42df3f7488e60298a6428d349a4914a0b
+com.mantledillusion.metrics	trail-metrics-support-spring6-boot-scheduling	2.3.0		66a18001f0e96c83bc10178ded798de812ebdd58
 com.mypos	mobilepaymentssdk	1.0.6		N/A
 com.mypos	mobilepaymentssdk	1.0.7		N/A
 com.mypos	mobilepaymentssdk	1.0.9		N/A
@@ -376,6 +377,7 @@ com.softwaremill.sttp.tapir	tapir-redoc_sjs1_2.13	1.9.9		efbed135f1b43c3cc99ac7a
 com.thoughtworks.enableIf	enableif_2.13.0-M5	1.1.6+100-6beab9c4		0288b1977b6043494241b0974db766c27e3c3ddf
 com.thoughtworks.enableIf	enableif_2.13.0-M5	1.1.6+100-c83b3961		065bc47b7b367bff38363c49f3d7e838b8312b4c
 com.thoughtworks.enableIf	enableif_2.13.0-M5	1.1.6+101-da054c1e		b8f62e7138693cebe8e89730c7a4413bcb004618
+com.thoughtworks.sbt-best-practice	scala-organization_2.12_1.0	3.1.0		6057b45b9e415e86b664865f54ab5875e520cfe1
 com.vaadin	vaadin-context-menu-flow	1.0.0		63b0e567b670f7457bf3a3fe3b8dc92819610d47
 com.vaadin	vaadin-context-menu-flow	1.0.0	demo	f9202fc8fd2a3849c3584b3a4277401795620122
 com.vaadin	vaadin-context-menu-flow	1.1.0		8cbbf6ed94efeb59b7abd3843c6b368492e43993
@@ -657,6 +659,8 @@ com.vaadin	vaadin-context-menu-flow	23.5.12		37d8cac9854149ef36f4156899732992cf6
 com.vaadin	vaadin-context-menu-flow	23.5.13		fa651b130e9597bc02f3be359722de6d307ebcaf
 com.vaadin	vaadin-context-menu-flow	23.5.14		5a6f1e6445f5641dc2aeceeea1718ea295431c2d
 com.vaadin	vaadin-context-menu-flow	23.5.15		038028e12e16e13991fdff1271c611f94d85065f
+com.vaadin	vaadin-context-menu-flow	23.5.16		fe17f0924d46eae62010028ca80d0fef48446b13
+com.vaadin	vaadin-context-menu-flow	23.5.17		a5a2f245df9db924bdb25e18d10e69063d3753af
 com.vaadin	vaadin-context-menu-flow	23.5.2		8b95150210dc3d51cca6747d709e1c0c290ed368
 com.vaadin	vaadin-context-menu-flow	23.5.3		4743191c0e218890ed78d3a735fb7c25ce8cd5bc
 com.vaadin	vaadin-context-menu-flow	23.5.4		a7ca5544e4c6fc5d69deba154a3033948e58dbbe
@@ -771,6 +775,7 @@ com.vaadin	vaadin-context-menu-flow	24.5.8		9259e310abdac6205c755d78934135a95db6
 com.vaadin	vaadin-context-menu-flow	24.5.9		6c0652a4ddbc6fffcd1b168b0910f17a647d214b
 com.vaadin	vaadin-context-menu-flow	24.6.0		ba16c7e51c654aca60dc1359ae52d27fadc6659f
 com.vaadin	vaadin-context-menu-flow	24.6.1		37841c5f314792897abde4bfeb6ff11013701f00
+com.vaadin	vaadin-context-menu-flow	24.6.10		2a060a8be41739ba01e578e6ee1c378708f30100
 com.vaadin	vaadin-context-menu-flow	24.6.2		29600dfb288ac362b8ed47983a4fba20b9465d4e
 com.vaadin	vaadin-context-menu-flow	24.6.3		86077fe740c671160b3589661874d30008d4c92c
 com.vaadin	vaadin-context-menu-flow	24.6.4		56477d9d68e14500db11ea2ff335be5c50a07a07
@@ -783,6 +788,7 @@ com.vaadin	vaadin-context-menu-flow	24.7.0		593aad4e59f8cdbfeea9a0b3744629213d97
 com.vaadin	vaadin-context-menu-flow	24.7.1		c557ee8a7ed04aa805ba1ca3b1a32168eceb14e5
 com.vaadin	vaadin-context-menu-flow	24.7.2		35217e3fb9d95c1945502a5116c246984871bff2
 com.vaadin	vaadin-context-menu-flow	24.7.3		e21fe91732258f6d6601af2d41cbbbc550f25154
+com.vaadin	vaadin-context-menu-flow	24.7.4		2a29c0569c74587724c7f8bdd0a7ae2170d8c526
 com.vaadin	vaadin-context-menu-flow	3.0.0		2a8de5fab095d6593a78d34b43e2664985510642
 com.vaadin	vaadin-context-menu-flow	3.0.1		3f933bed7c272a2112028b7254cc718d89d55805
 com.vaadin	vaadin-context-menu-flow	3.0.2		a2461e87979f3f766453e468f382cb5e93d95ad5
@@ -1093,6 +1099,7 @@ io.github.panpf.sketch3	sketch-extensions-view	3.3.0-rc02		N/A
 io.github.panpf.sketch3	sketch-extensions-view	3.3.1		N/A
 io.github.panpf.sketch3	sketch-extensions-view	3.3.2		N/A
 io.github.sealordsliu	detection-boot-starter	0.1.0		54f7e91fc5171cc295bb3990328ab6b42a0bc29c
+io.github.the-best-is-best	kfirebase-firestore-tvosx64	1.1.0	metadata	077ee4f4b15ec4ceda9e41fb57c1fffff6c69f10
 io.github.wywuzh	commons-build-tools	2.7.11.RELEASE		5f20296c1c68f33d95ac9a8b4550dd373a869d17
 io.github.wywuzh	commons-build-tools	2.7.12.RELEASE		c834eff86260d74b0c0d9ade90784ed2b05f65db
 io.github.wywuzh	commons-build-tools	2.7.13.RELEASE		6000265c7bef401698e64c485edeccd9c8d98e39
@@ -1997,6 +2004,7 @@ io.streamnative	pulsar-io-debezium-mysql	4.0.1.2		77bf8e3852bcf80959dd34584ea2b3
 io.streamnative	pulsar-io-debezium-mysql	4.0.1.3		b05bac399853e9feda9594bdc0172389d37ed8ec
 io.streamnative	pulsar-io-debezium-mysql	4.0.1.4		6004933f49e6984ec218f6a1b5e67c4ef54d3875
 io.streamnative	pulsar-io-debezium-mysql	4.0.3.1		f906cc1e5c17477b40699e376edd14fd58521ada
+io.streamnative	pulsar-io-debezium-mysql	4.0.4.2		43c84b910949968ff21ee7258970687733837fce
 io.streamnative	pulsar-io-debezium-mysql	master-rc-daily		b15791a0f22b97a4df6ab1a4c4cc159b08f118c5
 io.streamnative	pulsar-io-debezium-mysql	v2.8.0-rc-202106091140		8c05ee988128e98c1c8539ee1b96998d2cddda97
 io.streamnative	pulsar-io-debezium-mysql	v2.8.0-rc-202106121853		35b36367a821d5d265bde8d8b8063067aef482c2
@@ -2035,6 +2043,9 @@ it.agilelab	wasp-plugin-kafka-spark_2.12	2.35.0-emr212		29949ab03bb14850b2beb511
 it.agilelab	wasp-plugin-kafka-spark_2.12	2.35.0-emr613		c70ac3ae6b1647f3db40bb8e7f8a9767b703a526
 it.agilelab	wasp-plugin-kafka-spark_2.12	2.36.0		1f5fdc854890347bd56abf0f2f8a62e7b91590b2
 it.agilelab	wasp-plugin-kafka-spark_2.12	2.36.0-emr613		75e72afd4850eb25a7f688731dae6289bc9b9435
+it.agilelab	wasp-plugin-kafka-spark_2.12	3.0.0		c2299c25b17960e24d71aba434be85ea67812e95
+it.agilelab	wasp-plugin-kafka-spark_2.12	3.0.0-3_3		1f6b3e7621047e1fe7ce28350afceaa0e6bf700e
+it.agilelab	wasp-plugin-kafka-spark_2.12	3.0.0-3_5		40a34935eec5e5a84a5357fc5410b099a55eedbf
 me.proton.core	mail-settings	0.0.1-alpha01		N/A
 me.proton.core	mail-settings	0.2.1		N/A
 me.proton.core	mail-settings	1.15		N/A
@@ -2357,6 +2368,7 @@ org.apache.pekko	pekko-slf4j_3	1.1.2		1a619134ac8a2cd735b9017fb3958f646824c985
 org.apache.pekko	pekko-slf4j_3	1.1.3		599331ee8614c5434041ff6e2aae3dd1d604a3a4
 org.apache.pekko	pekko-slf4j_3	1.2.0-M1		5a004bc453de3dfc66e5172ec8588998f425b499
 org.apache.xmlgraphics	fop-transcoder-allinone	2.10		d783330fd2ef9fa85c4db85531643d869a7cb1be
+org.apache.xmlgraphics	fop-transcoder-allinone	2.11		7e1cdf2eabee690734b77109e6c7b547e95623bc
 org.apache.xmlgraphics	fop-transcoder-allinone	2.4		e7b5810a60681903fe951b34f967ffb1fa1151e5
 org.apache.xmlgraphics	fop-transcoder-allinone	2.5		64b8a07d136d8b24c0c94a6d50f9c95940691bca
 org.apache.xmlgraphics	fop-transcoder-allinone	2.6		980055c9fed59223487c4bb87c9e3fe3e66af26c
@@ -2791,6 +2803,7 @@ xyz.muses.framework	muses-bom	1.0.1		N/A
 xyz.muses.framework	muses-bom	1.0.8		N/A
 xyz.muses.framework	muses-bom	1.0.9		N/A
 zw.co.paynow	java-sdk	1.0.0		aec1aa5998c7cc66d21e825b0a558e1815067090
+zw.co.paynow	java-sdk	1.0.0-RELEASE		5f4bd22d7521acdf85c797fa76c31c97ec978983
 zw.co.paynow	java-sdk	1.1.0		be53bdf248d35b0a0b460f9949898c0d3c0b9bb8
 zw.co.paynow	java-sdk	1.1.1		9ffaa34c05d434757059e87223500fa58ee16990
 zw.co.paynow	java-sdk	1.1.2		a8970900b087a10ed10fdd425251f59f81575cbf

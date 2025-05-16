@@ -1401,6 +1401,8 @@ io.openliberty.features	opentracing-1.2	25.0.0.4		N/A
 io.parapet	messaging-zmq_2.12	0.0.1-RC1		1bfaf7ae615f849ad46164044a1624e851d7a52c
 io.parapet	messaging-zmq_2.12	0.0.1-RC2		b2715320f7ce334bccfc4af38e01b5e09fc4c726
 io.parapet	messaging-zmq_2.12	0.0.1-RC3		3b01e3a78409753b1c33e9f750a7cabeab6b4b96
+io.reactors	sbt-checkstyle-plugin_2.12_1.0	3.2		c540d48b1d10e4a77c087def1d3e6495345d4f47
+io.reactors	sbt-checkstyle-plugin_2.12_1.0	3.3		779f27a870c93c7c97da8b862493ee099b29bb19
 io.regadas	sbt-socco_2.12_1.0	0.1.5		65324953bd018dd80fce16dfb394501fbab33bba
 it.unibo.tuprolog	serialize-core-jvm	0.11.0		059b9c39f23985414341a4ad22cf36f6ebc61101
 it.unibo.tuprolog	serialize-core-jvm	0.11.1		a044e3eeb922a5b8e238da78fdf92bf42969cb7a
@@ -1636,6 +1638,7 @@ org.apache.camel	camel-cxf-spring-soap	4.8.3		92d23f534289318306f010be5a76293e83
 org.apache.camel	camel-cxf-spring-soap	4.8.4		f3eae9d410fc2e3595bcae279071dda03857d53e
 org.apache.camel	camel-cxf-spring-soap	4.8.5		1969b5490d04641136198dc6b36ae974343e0282
 org.apache.camel	camel-cxf-spring-soap	4.8.6		a6c2b2237d0094aeeee48967591d0390831bfd5b
+org.apache.camel	camel-cxf-spring-soap	4.8.7		5edb474eaf124962365d4ae2f5ed7a2fd131c33b
 org.apache.camel	camel-cxf-spring-soap	4.9.0		474942ed7a89a59194236bcadfb0c1a4e85af50b
 org.apache.camel.karaf	camel-avro	4.10.3		8d2ac9b6abf1110e8f494683f19ff41f2c5d3ba4
 org.apache.camel.karaf	camel-avro	4.7.0		524f8440a6e433bdb502b5ea2ee0ac568157600c
@@ -1707,6 +1710,7 @@ org.apache.camel.quarkus	camel-quarkus-avro	3.2.1		571e81b287d0f13d3564f90ce41dc
 org.apache.camel.quarkus	camel-quarkus-avro	3.2.2		15fa849f4b9a106a35ac295bd33d87a7de0c0691
 org.apache.camel.quarkus	camel-quarkus-avro	3.2.3		96310c0c81cf881fef0c65ed0c887f4c1e9c03a1
 org.apache.camel.quarkus	camel-quarkus-avro	3.20.0		f238446fb7b684bd128dc7c41d022cecc8f14ca9
+org.apache.camel.quarkus	camel-quarkus-avro	3.20.1		77d14a27f71958cf4ccb4501f6b527857d9e6fe0
 org.apache.camel.quarkus	camel-quarkus-avro	3.22.0		7c60b8ba9a2056cf57c3fbc47d5b43c66d817872
 org.apache.camel.quarkus	camel-quarkus-avro	3.4.0		3038614beb208563e7b14cd298d411b2ca56e473
 org.apache.camel.quarkus	camel-quarkus-avro	3.5.0		ad5c200eff71bcc65526ebbf802bed7385833d48
@@ -1781,9 +1785,12 @@ org.apache.camel.springboot	camel-debezium-db2-starter	4.8.3		ae06a85413c7d42406
 org.apache.camel.springboot	camel-debezium-db2-starter	4.8.4		a3537cbe14038112c66c188fbb4ee5fa890b6251
 org.apache.camel.springboot	camel-debezium-db2-starter	4.8.5		b6a0fc9cbac57cfb0c436cac185a74eb4ba72fc6
 org.apache.camel.springboot	camel-debezium-db2-starter	4.8.6		3c85d1d9b04ae36f9155b84e03a311ea2c748837
+org.apache.camel.springboot	camel-debezium-db2-starter	4.8.7		abaf13df28c096ffff43edc182fb860ec7142775
 org.apache.camel.springboot	camel-debezium-db2-starter	4.9.0		ace8b7a0507dffd64d39e31666b915c18434eb09
 org.apache.gravitino	gravitino-gcp-bundle	0.8.0-incubating		91ac55261b84b4ed1686b172c86bf431a2581c17
 org.apache.gravitino	gravitino-gcp-bundle	0.8.0-incubating	empty	b7bbdc14aa31899325f4ce7ce9551083e3e7ada9
+org.apache.gravitino	gravitino-gcp-bundle	0.9.0-incubating		8879c1e1d380e3c9a4463f03dc67eec4661035d0
+org.apache.gravitino	gravitino-gcp-bundle	0.9.0-incubating	empty	59b997a228af2e1ea00ca4aa330acf2c6f361c6a
 org.apache.isis.testing	isis-testing-fakedata-integtests	2.0.0-M3		1116abb48c0ce2781edb9f75b270528429f36a93
 org.apache.isis.testing	isis-testing-fakedata-integtests	2.0.0-M4		2ba9fd5d828fff4ffb531f28304aef3d3fedcd6b
 org.apache.isis.testing	isis-testing-fakedata-integtests	2.0.0-M5		7fe2bf50ec36a72a4e3682432bccb9014e5058fb

@@ -452,6 +452,7 @@ de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.24		a10f5f20bb8d91c28a2b5d1f647238
 de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.25		5f81caf533ca18820d455871fc9e99bb4f66fb81
 de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.26		72ebdb620a98c9b488d96be52b755ca12a4714ab
 de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.27		b211363a29390e08b3ac250f351e77119d33c811
+de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.28		f1c115fc77954a12eee6466cd4c52f2cdb5ded5f
 de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.3		892456edbc9f16cf377edc61b650f6957278d48c
 de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.4		a894bf54d681681512d3763db02a6f522c6e5b85
 de.fraunhofer.iosb.ilt	FROST-Client-Dynamic	2.5		73bb04c1c9c1882ebff5a1a4890ec420e5e43644
@@ -607,6 +608,7 @@ io.github.kitlangton	neotype-tapir_3	0.3.19		01cdc101a14791ac39836b074d358bb4e61
 io.github.kitlangton	neotype-tapir_3	0.3.20		38ff69133750bfa677fd87cee2a2d4cc33f979eb
 io.github.kitlangton	neotype-tapir_3	0.3.21		de700b9403ffbe56e5cbc74c9cbf1351eaebda67
 io.github.kitlangton	neotype-tapir_3	0.3.23		337fdff49f12241920aaff32350c721ce76fb13c
+io.github.kitlangton	neotype-tapir_3	0.3.24		058ded0bbfe1d20fb1723534cedc1e28226217af
 io.github.kitlangton	neotype-tapir_3	0.3.4		f2c194e76f983e9621f6228604e1b5513214ca95
 io.github.kitlangton	neotype-tapir_3	0.3.5		9c0175ce2506000e45711c5ba134bc1929bb6b90
 io.github.kitlangton	neotype-tapir_3	0.3.6		07ac908663c663afb3f9b78083a397370d12ddf1
@@ -1133,6 +1135,7 @@ org.apache.camel	camel-as2	4.8.3		004b950ef32a447a126a6bc6dd0b415ecf5b64fa
 org.apache.camel	camel-as2	4.8.4		f6ab033c62650a8a0c306a6b632079a0efcdf35f
 org.apache.camel	camel-as2	4.8.5		c4fe4067ffdc70a5694f92d504b81b42d3b64449
 org.apache.camel	camel-as2	4.8.6		4016bee8ff8862ebb1fbc239b4c5188c94040c86
+org.apache.camel	camel-as2	4.8.7		85cdab3ed9dd03e467791df514e874b6f136ce61
 org.apache.camel	camel-as2	4.9.0		00973f261d739d75a1ac3fda0f1fb35411b44708
 org.apache.camel.k	camel-k-master-parent	1.10.0		N/A
 org.apache.camel.k	camel-k-master-parent	1.11.0		N/A
@@ -1637,6 +1640,7 @@ org.apereo.cas	cas-server-support-mongo-service-registry	7.2.0-RC6		dab9811e3ea8
 org.apereo.cas	cas-server-support-mongo-service-registry	7.2.0-RC6	resources	561da3c5a91d6b0ffa07d0266084012c52f71368
 org.apereo.cas	cas-server-support-mongo-service-registry	7.2.1		50958e25fab0ba953ee2d8197f74bcf2c891dbf2
 org.apereo.cas	cas-server-support-mongo-service-registry	7.2.1	resources	69dcec63bdacc32ba62035392dcaffae7d8f0698
+org.apereo.cas	cas-server-support-mongo-service-registry	7.2.2		324110733aeebee9ec9a273cbc7d15c5db52297d
 org.apereo.cas	cas-server-support-mongo-service-registry	7.3.0-RC1		e1691677feffeced0f24cbe3c981d2ac17a7236a
 org.apereo.cas	cas-server-support-mongo-service-registry	7.3.0-RC1	resources	653bbffa9772cd3bedf95d78fc76e814e979e2af
 org.apereo.cas	cas-server-support-mongo-service-registry	v6.4.0-RC5		4d1b01db8eee9b777c4f32c94d7b2baff4ccc002
@@ -1867,6 +1871,8 @@ org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	55.3.0		f
 org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	56.0.0		f92b10a5308ab1af43283fe4c3f3998437d8e238
 org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	56.1.0		17927076b4d4eca27c48e5f71eb18146d51c4b0a
 org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	57.0.0		0af6e9f8d7f3b62d0e2091c915db40600a6167b2
+org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	58.0.0		d08cd7410d88b41d712e2f8ee674d746dbd11588
+org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	58.0.1		51e2d6fde7743bc0b2ffc9292c391d73ea219900
 org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	6.0.0		56cc417a3be4503a8716a00fbc205646d7ec75f2
 org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	6.1.0		17feff5ff3145da13a00abc0bb8c51d6aa8f679e
 org.ossreviewtoolkit.plugins.packagemanagers	cocoapods-package-manager	6.1.1		0304d0c4ae972b858d3e54bdf0ed362fa376addd

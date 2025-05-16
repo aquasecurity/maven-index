@@ -476,6 +476,7 @@ io.camunda	zeebe-protocol-jackson	8.4.15		1e8b095bcfb03b9db1245ebafaff57c352bebf
 io.camunda	zeebe-protocol-jackson	8.4.16		7fa89890c4a8eecdf60f36614ac0d8f1a2429c68
 io.camunda	zeebe-protocol-jackson	8.4.17		e6a8cdb4214653155ce2dcc93f162064f2ddb5bd
 io.camunda	zeebe-protocol-jackson	8.4.18		cc6abc2e967ecd5534a174bb00d4106bab298399
+io.camunda	zeebe-protocol-jackson	8.4.19		93d61b4e1e6e328f3dff98ef352ea6fc6ff02cbb
 io.camunda	zeebe-protocol-jackson	8.4.2		077b2adff3b5f4dc35aa3cb18d9a2279a47183e4
 io.camunda	zeebe-protocol-jackson	8.4.3		122bd5f8d66a96f1d83f673ce96aaf78be74ad1e
 io.camunda	zeebe-protocol-jackson	8.4.4		0158185578d078ffe1a8e909abcc43b7ec685be9
@@ -498,6 +499,7 @@ io.camunda	zeebe-protocol-jackson	8.5.14		4ede880c73b0984f98c852e30068242d8d7c69
 io.camunda	zeebe-protocol-jackson	8.5.15		17c89878891f9dfb48a574f245275c11bdd13c49
 io.camunda	zeebe-protocol-jackson	8.5.16		4bc4264881f0279b4c7926d2f7ce6ff3c973c325
 io.camunda	zeebe-protocol-jackson	8.5.17		7acfc7c431268c54a505cf547670e9d83889dcb4
+io.camunda	zeebe-protocol-jackson	8.5.18		e80f37ab628e58a5d0da412f1623440eb4ec24e5
 io.camunda	zeebe-protocol-jackson	8.5.2		76c5dc319129b56434222d09c1804858063d21b8
 io.camunda	zeebe-protocol-jackson	8.5.3		5b008e7b842238a8474152c3df9fde71435454fe
 io.camunda	zeebe-protocol-jackson	8.5.4		ea1310e3832693e52f29f9b14ca6ceda9204c67a
@@ -535,6 +537,8 @@ io.camunda	zeebe-protocol-jackson	8.6.12-rc1		1c9cf9f883ef003796a250927dcc262427
 io.camunda	zeebe-protocol-jackson	8.6.13		1abb03a803cdba64d5b1a8c7de9ad70dc2a70e6d
 io.camunda	zeebe-protocol-jackson	8.6.14		1f7000688278db1a885d02ccb1d56e39cc5c848d
 io.camunda	zeebe-protocol-jackson	8.6.14-rc1		e026b642119e9b75126aac60f8311c9f7b4f1cab
+io.camunda	zeebe-protocol-jackson	8.6.15		4aa1dc158f60e5d7a2affd294c94aee77462097c
+io.camunda	zeebe-protocol-jackson	8.6.15-rc1		2017ee9dc046858724c274fd83ac9e336e543f9f
 io.camunda	zeebe-protocol-jackson	8.6.2		47008192f315f3683dc54a311faadf504e1de843
 io.camunda	zeebe-protocol-jackson	8.6.3		50f5f712ef66096f7a7b9f2f43e89b720e8092f6
 io.camunda	zeebe-protocol-jackson	8.6.4		15757e30666375f8174ebbe3650eac1c34108329
@@ -570,12 +574,15 @@ io.camunda	zeebe-protocol-jackson	8.7.0-alpha5-rc1		aca8cb6e424550337300cb3dd7ba
 io.camunda	zeebe-protocol-jackson	8.7.0-rc3		4bb93a893db255ec5b14622641887e0efd5fb50b
 io.camunda	zeebe-protocol-jackson	8.7.1		fca3f09c43783adc50f553fe33859e3cf470ce5a
 io.camunda	zeebe-protocol-jackson	8.7.1-rc1		4b74c8a38eb4eb0533ff181fd2e9e8adcd9d9faf
+io.camunda	zeebe-protocol-jackson	8.7.2		a2b305b07f4e06f8c08a69d5f5b6f4494aae3c14
+io.camunda	zeebe-protocol-jackson	8.7.2-rc1		9e2e52cb3704453df7ab07b52db0bc224a88b7f7
 io.camunda	zeebe-protocol-jackson	8.8.0-alpha1		8bc3f2f9dca4ce71cb723dc19b923cbb41b12123
 io.camunda	zeebe-protocol-jackson	8.8.0-alpha1-rc1		503b9852c9ffab3d33d4037e65179f1a215e6b5d
 io.camunda	zeebe-protocol-jackson	8.8.0-alpha2		97ae2fed3b6020996621aaab006d3ad680871d96
 io.camunda	zeebe-protocol-jackson	8.8.0-alpha2-rc1		9a5a53e9b71c4e946bf785973361f72971e7cbe3
 io.camunda	zeebe-protocol-jackson	8.8.0-alpha3		a9b41f19421e091255bf9af0d2d4174b397b0534
 io.camunda	zeebe-protocol-jackson	8.8.0-alpha3-rc3		ca3ab26a2e431bff21f09367a07a511568d819c7
+io.camunda	zeebe-protocol-jackson	8.8.0-alpha4		2ada39183207c79a3eb92a184f17599175f959e8
 io.camunda	zeebe-protocol-jackson	8.8.0-alpha4-rc1		c62886d1ddbb864c576726b17634b4b0002eac57
 io.csaf	csaf-retrieval	0.3.0		23d978be16f13ff2cb5c265fd9b24bfb7c69ca46
 io.csaf	csaf-retrieval	0.3.1		23d978be16f13ff2cb5c265fd9b24bfb7c69ca46
@@ -1447,6 +1454,7 @@ org.apache.camel	camel-xml-jaxp-util	4.8.3		b090f51076136600efe2efcfc8461cee830c
 org.apache.camel	camel-xml-jaxp-util	4.8.4		62d09c30113f88db15994713e9706109ae616e65
 org.apache.camel	camel-xml-jaxp-util	4.8.5		0328a51d87716e26929eb28a664a72ccc8ca9bab
 org.apache.camel	camel-xml-jaxp-util	4.8.6		e30a4580a2a3f03c552908a299e4d35ba521546b
+org.apache.camel	camel-xml-jaxp-util	4.8.7		c17a5a9a6de1024c970fe9a777f083346b2eecad
 org.apache.camel	camel-xml-jaxp-util	4.9.0		9d2bc732446fa1ad85d7bee005ef0463d2ef3aab
 org.apache.directory.studio	jars	1.3.0.v20081014		a551e7680134592b84150fcb5e79888edf1724ee
 org.apache.directory.studio	jars	1.3.0.v20081020		8ddc120bf45f2de6d7bd512b1beb39dcbcd12025
@@ -1583,6 +1591,7 @@ org.jetbrains.compose.animation	animation-uikitx64	1.7.1		N/A
 org.jetbrains.compose.animation	animation-uikitx64	1.7.1	metadata	c4b19e087fdcb76cff574f6b2753fd11e66466dd
 org.jetbrains.compose.animation	animation-uikitx64	1.7.3		N/A
 org.jetbrains.compose.animation	animation-uikitx64	1.7.3	metadata	c4b19e087fdcb76cff574f6b2753fd11e66466dd
+org.jetbrains.compose.animation	animation-uikitx64	1.8.0	metadata	9490be6d0d40f972c3377f5d31aff5dc5e45c5b8
 org.jetbrains.compose.animation	animation-uikitx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.animation	animation-uikitx64	1.8.0-alpha01	metadata	c4b19e087fdcb76cff574f6b2753fd11e66466dd
 org.jetbrains.compose.animation	animation-uikitx64	1.8.0-alpha02		N/A

@@ -27,6 +27,7 @@ cn.zhuoluodada.opensource	smartdb	1.1.0		531ac40893856d7fbff9b30136b5c628e863f2d
 cn.zhuoluodada.opensource	smartdb	1.2.0		01c2016738833912569c82efa6beb336a6ef42ca
 co.early.n8	n8-core-iosarm64	2.0.0-rc.1		N/A
 co.early.n8	n8-core-iosarm64	2.0.0-rc.1	metadata	e1de4a16a8d04ba1202fd8aadf9ac3bf65c877c7
+co.early.n8	n8-core-iosarm64	2.0.0-rc.2	metadata	006a3fefd8f4a9eb12b2c7c90276a3c99e106b90
 co.touchlab.compose	compose-swift-bridge-mingwx64	0.1.0		N/A
 co.touchlab.compose	compose-swift-bridge-mingwx64	0.1.1		N/A
 com.akkaserverless	akkaserverless-scala-sdk-testkit_2.13	0.10.0		048e75f33ec74445e9a13fd415f38e6ec0261ff9
@@ -724,6 +725,7 @@ org.apache.beam	beam-sdks-java-io-csv	2.61.0		2a1e1e3b4b23b32521a6a2b25adc1fbeb9
 org.apache.beam	beam-sdks-java-io-csv	2.62.0		9ffbac96ca421b51975f3808eb017ac6ca2b5417
 org.apache.beam	beam-sdks-java-io-csv	2.63.0		9ee1dfa9fb8b8d65d8b47689e1ddfa3707730eb4
 org.apache.beam	beam-sdks-java-io-csv	2.64.0		4848406d97b9cef5bda59a96d43d74f1ad3249ed
+org.apache.beam	beam-sdks-java-io-csv	2.65.0		cfdabc21265812822e37b9590853e6a1ecc1a65e
 org.apache.camel	camel-csv	1.3.0		e025938247230019c563b7762cd6ec8bbb6eff32
 org.apache.camel	camel-csv	1.4.0		0182e8644f684727239d96608f57389a06278b87
 org.apache.camel	camel-csv	1.5.0		f8eee5bf2d9dbb5398d5fdaf021e5bed570cad85
@@ -982,6 +984,7 @@ org.apache.camel	camel-csv	4.8.3		3674627a56aab6285ce2f7ba48c4355eed5d594d
 org.apache.camel	camel-csv	4.8.4		592e7ce43daa1627a956fcc51282ae965ef5c362
 org.apache.camel	camel-csv	4.8.5		ee2b59164e643db043f49fddd874591a3c235da8
 org.apache.camel	camel-csv	4.8.6		cdc7e164d0ac0639b525aa706fbc3dfdeaa0a4af
+org.apache.camel	camel-csv	4.8.7		bdcdb12e8dad053af46668f8adc96a2be63a55c0
 org.apache.camel	camel-csv	4.9.0		6941569ffa33ea16dd2645320153b177a5155e8a
 org.apache.camel	camel-kotlin-api	4.4.0		2a673f6c9a74627432c2c35335e2a156a2c37e32
 org.apache.camel	camel-kotlin-api	4.4.1		6ab9a2aba3d66ef2bfa67deef4fe0c7575ebbfdc
@@ -999,6 +1002,7 @@ org.apache.camel	camel-kotlin-api	4.8.3		158a0b38e9694e61d8fcd88f755eb853d56f875
 org.apache.camel	camel-kotlin-api	4.8.4		f42b7f756eed816ad42cd17b05981035f282f00f
 org.apache.camel	camel-kotlin-api	4.8.5		b2272244b3c65d92c458baf0bfbf5ac1c0dbcaea
 org.apache.camel	camel-kotlin-api	4.8.6		cfa60f15e3e25033b8623600ac22d176bf01b724
+org.apache.camel	camel-kotlin-api	4.8.7		69e8a27a8db9c0cf5f8c250c8c279ae3ce510d36
 org.apache.camel.springboot	camel-xml-jaxp-starter	3.1.0		a92bfc490d1d10b2bd06f8798760d903b8d386cc
 org.apache.camel.springboot	camel-xml-jaxp-starter	3.10.0		ba8ae8c45fae221ba1716b45d75d39d7c26859da
 org.apache.camel.springboot	camel-xml-jaxp-starter	3.11.0		0a13d2d381f7c2432db33dfeda0d7728c64855ff
@@ -1114,6 +1118,7 @@ org.apache.camel.springboot	camel-xml-jaxp-starter	4.8.3		9faa0449f36601b211064d
 org.apache.camel.springboot	camel-xml-jaxp-starter	4.8.4		501b72b8ab0e4f08829fdf17fe942bd327d3ba7d
 org.apache.camel.springboot	camel-xml-jaxp-starter	4.8.5		a420c88cdcc31fc0905703b8ae97e85fd149ac92
 org.apache.camel.springboot	camel-xml-jaxp-starter	4.8.6		97633f6bead581486e6989c85699367cfad9935d
+org.apache.camel.springboot	camel-xml-jaxp-starter	4.8.7		088adf9bc631cdb59fb3cd34d9c8532038becc1a
 org.apache.camel.springboot	camel-xml-jaxp-starter	4.9.0		ead12c1f3a4915af9c3bbfa2f780ce50df95185c
 org.apache.sentry	sentry-policy	1.7.0		N/A
 org.apache.sentry	sentry-policy	1.7.1		N/A
@@ -1333,6 +1338,7 @@ org.jetbrains.exposed	exposed-json	0.58.0		5579383422daac81a87bdcc3c3e3c5f5e4b0b
 org.jetbrains.exposed	exposed-json	0.59.0		9266014adcbf23f4a30880c8b539f592aff63bf3
 org.jetbrains.exposed	exposed-json	0.60.0		da30ecb00d00afc1baa8aca9383c6468d2605baf
 org.jetbrains.exposed	exposed-json	0.61.0		cd566f86fa396025759a759713e092159f5e910d
+org.jetbrains.exposed	exposed-json	1.0.0-beta-1		76bbcfa607943538ac6f203218ef67b6f35bcba6
 org.joyrest	joyrest-unit-tests	1.0		758a2d667b9b670d40b787e4aabcbdc2e87d17bb
 org.joyrest	joyrest-unit-tests	1.1		8b7e2c892993386cfb9f1212a2dbb165f638e23d
 org.jugs.webdav	addressbook	2.3		21a7104d0c33dec410716f82bbff1063c2ac1751

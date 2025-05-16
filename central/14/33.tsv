@@ -108,6 +108,7 @@ com.codbex.kronos	kronos-modules-engines-core	0.1.0		038ea01ad3b20e3981cf1b86cc2
 com.codbex.kronos	kronos-modules-engines-core	0.1.1		4fd4f25d07f9b4d7e502a5a248aeae35045b64f6
 com.codbex.kronos	kronos-modules-engines-core	0.1.2		cba3f586887f2b2b8cacf9333bbdf8668b15246d
 com.codbex.kronos	kronos-modules-engines-core	0.1.3		97814d3febf94dc6ecaae8a3274e7557e30f6220
+com.dbvis	redis-jdbc	1.5		449bf09f251380a057482d2d6f900c5a30b55632
 com.eworkcloud	ework-cloud-starter-mybatis	1.0.0		4962ddb61fd2892b9bb53d3ea876cd6217302bbe
 com.eworkcloud	ework-cloud-starter-mybatis	1.0.1		007fa69700d6025b2d8434597c4d941b9e333e6b
 com.eworkcloud	ework-cloud-starter-mybatis	1.0.2		003a92f9af8b941a1d1f943ef104f27b7d2badff
@@ -678,6 +679,7 @@ com.sshtools	vfs-dropbox	4.1.0		4d21e11907eb8c0eb2e7a31b5f2931f6748bcce8
 com.tiktok.lynx	lynx-service-log	3.1.0-alpha.1		N/A
 com.tiktok.lynx	lynx-service-log	3.1.0-alpha.2		N/A
 com.tiktok.lynx	lynx-service-log	3.1.0-alpha.3		N/A
+com.timgroup	sbt-utc_2.12_1.0	0.1.0		5407e82aaf72d4713d745641d1bb547fa2f85d31
 com.typesafe.akka	akka-sample-hello_2.10	2.1.0		N/A
 com.typesafe.akka	akka-sample-hello_2.10	2.1.1		N/A
 com.typesafe.akka	akka-sample-hello_2.10	2.1.2		N/A
@@ -872,6 +874,7 @@ dev.inmo	tgbotapi-jvm	23.2.0		636f8236deb45632747a5a2f9209ad40b140b38b
 dev.inmo	tgbotapi-jvm	24.0.0		636f8236deb45632747a5a2f9209ad40b140b38b
 dev.inmo	tgbotapi-jvm	24.0.1		636f8236deb45632747a5a2f9209ad40b140b38b
 dev.inmo	tgbotapi-jvm	24.0.2		636f8236deb45632747a5a2f9209ad40b140b38b
+dev.inmo	tgbotapi-jvm	25.0.0-rc		636f8236deb45632747a5a2f9209ad40b140b38b
 dev.inmo	tgbotapi-jvm	3.0.0		01ca2a295a144c52f77ec96a46cc71f912ee9dfa
 dev.inmo	tgbotapi-jvm	3.0.1		8c4a63b8b7dc7000a4ebfb40ed36429928e304b0
 dev.inmo	tgbotapi-jvm	3.0.2		1051e2a8480cb3093533343db08aeebc7933367b
@@ -1171,6 +1174,7 @@ io.quarkus	quarkus-smallrye-graphql-client-deployment	3.15.2		49e7721e7c65a1913c
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.15.3		55b17950d0bce7344581e2cddb7356e5464d60e7
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.15.3.1		ce33d377b0749fdc38e9758fa4a42966b67220e9
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.15.4		540cbcf6d145b053e88cc8a2b441d63e817758a0
+io.quarkus	quarkus-smallrye-graphql-client-deployment	3.15.5		caba030a8e4a1aa962ab28e3b2e9372ff38b930d
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.16.0		fa9a280b589ebdd4ea82e1dd78583dedbaee614b
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.16.0.CR1		8c6347c5fe7fab05afe5167c609135b1b2383fad
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.16.1		76874240d83e431f186f9bfa2f0058aaf2877083
@@ -1215,6 +1219,7 @@ io.quarkus	quarkus-smallrye-graphql-client-deployment	3.2.8.Final		1dbce1bc59824
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.2.9.Final		e19c7b3d1db15c2f6706bdc0bc17911c8eab069a
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.20.0		afac8863516e6b4f33658f3e469408f76c439313
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.20.0.CR1		6246de2c0a84282e1dcf22e4233fb03b719f7bdf
+io.quarkus	quarkus-smallrye-graphql-client-deployment	3.20.1		7b61b1118b361c94b27cb35c9729d8a7c35b0f85
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.21.0		ca68b46e1fdf667174eaf48f48a08b94afaeda26
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.21.0.CR1		a1fe8c856cfa2733922074083f78a6b4a4459b15
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.21.1		a9e1491c89fc9c1543e55637160f42615ebea1ed
@@ -1224,6 +1229,9 @@ io.quarkus	quarkus-smallrye-graphql-client-deployment	3.21.4		b5a95d8dc65c2526ba
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.22.0		bc6448f18ee78503960fdf5a0e35d4b1d0480e88
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.22.0.CR1		d2e846b46abb454146abd2d553dc2981576161ca
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.22.1		cc5f1aced71bfc666ce8efb00d84575999b9fc26
+io.quarkus	quarkus-smallrye-graphql-client-deployment	3.22.2		82335e8a8f79581214d3e7f22a0cbae05483fe8e
+io.quarkus	quarkus-smallrye-graphql-client-deployment	3.22.3		be6b291c2b46b17a692b0b46e9f85616aec42543
+io.quarkus	quarkus-smallrye-graphql-client-deployment	3.23.0.CR1		f5e577a9d368da7c0308022e5440c1d309978161
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.3.0		faff82a776d9eb4a24979a25d6e2bb0452550726
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.3.0.CR1		f397ac54f28a02762f4c8fd876716add7efc7b71
 io.quarkus	quarkus-smallrye-graphql-client-deployment	3.3.1		4279da3b5e737ada75d7fec0256bddd6bb51cec7
@@ -1454,10 +1462,12 @@ org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.1.20-Beta2		a3876d6b9b86
 org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.1.20-RC		99cc99cd404c7d0a6b5ea45fbde417e54e5e706e
 org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.1.20-RC2		1b91c32660ebb582f45fdd64d6466cef3be98ba3
 org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.1.20-RC3		73dace285e12419d0aba53b2090f1abbdecae4ea
+org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.1.21		432a877502ead12dffa83abb5147d6716f972918
 org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.1.21-RC		7c632f614dd7fedc80e78744b558cb7b171e370b
 org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.1.21-RC2		bbbd2c7947b8d31624751dab60472d02b090137a
 org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.2.0-Beta1		a6692d3ea61aaedc656ed2817464cbbeada42f95
 org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.2.0-Beta2		4fe8b90624dbb68c10ac948d5aa71d983759d0e6
+org.jetbrains.kotlin	kotlin-scripting-jsr223-unshaded	2.2.0-RC		04e4b21c6ee0ca5dde268f56e9547ff4f00b1613
 org.mvnpm	pbf	3.2.1		360ec316d38b5a70b59c4c065027fbde08fcb441
 org.mvnpm	pbf	3.3.0		25eb9f82a4b3efe0ee4d910b06e6df35c3bf1424
 org.mvnpm	pbf	4.0.1		133ea76d4c126ca1551dc706ec64d16cfd3621cd
@@ -2924,7 +2934,18 @@ software.amazon.awssdk	apigateway	2.31.30		6a00de291198fd61dc7997c7a0db09e3ccb77
 software.amazon.awssdk	apigateway	2.31.31		54441ebd5e2480f92f6ccedf3d7b681c5e39894f
 software.amazon.awssdk	apigateway	2.31.32		4566e10c08c63a618c3f3d349faf949c95c38183
 software.amazon.awssdk	apigateway	2.31.33		798c94ca86c6f71589e6209efec4d481ac30f0ea
+software.amazon.awssdk	apigateway	2.31.34		bf4e723c0a0cb0aa6c8aeb4f559d9cee12084065
+software.amazon.awssdk	apigateway	2.31.35		e1bd9f4bff02e88a60913ea5af45c11ff620cae0
+software.amazon.awssdk	apigateway	2.31.36		1750449b1e2cc640b220525985f494362f47ffa6
+software.amazon.awssdk	apigateway	2.31.37		f81592f224fad8a585c693a40d0148d350f55fe6
+software.amazon.awssdk	apigateway	2.31.38		c1ee92965eb3fa594885d7f68332be28229c6aa2
+software.amazon.awssdk	apigateway	2.31.39		7ba1ac0aa2e221594636d5fde3e3e1a52f58fac7
 software.amazon.awssdk	apigateway	2.31.4		93070c912f420a7d058d27cc7d1f72451ce79094
+software.amazon.awssdk	apigateway	2.31.40		5b52edc0b7af82cb9f9b5902c4f754aa05477e7d
+software.amazon.awssdk	apigateway	2.31.41		a5d821470e80678da868bf03e7502ba2853e1bf4
+software.amazon.awssdk	apigateway	2.31.42		ec8e147a3c8f37af0934e952844ba88234bb0faa
+software.amazon.awssdk	apigateway	2.31.43		ea35a4eae83cefc54bb130eac9fc3cabc89251de
+software.amazon.awssdk	apigateway	2.31.44		0472d5cce0059e7ae3099d144e1813ed6e03ca24
 software.amazon.awssdk	apigateway	2.31.5		d7f444cc111096c29c6a5cf3ce8c431c57afa176
 software.amazon.awssdk	apigateway	2.31.6		d63367f30fbfd21498b6322fadb40daac959b3a4
 software.amazon.awssdk	apigateway	2.31.7		afa9ce7b0f6ed29a831e2cb31d0ee15673b3aaf5
@@ -3123,3 +3144,7 @@ tz.co.asoft	koncurrent-utils-watchosarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-utils-watchosarm64	3.0.8	metadata	b377520f860bfb103e3160bf80a1286beba655e4
 tz.co.asoft	koncurrent-utils-watchosarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-utils-watchosarm64	3.0.9	metadata	50cd666895fe13dd3fa0cf2ace283e69e68e353c
+tz.co.asoft	koncurrent-utils-watchosarm64	3.1.0	metadata	10eb819b01de14303fd94ee53ecbd1646fed7954
+tz.co.asoft	koncurrent-utils-watchosarm64	3.1.1	metadata	a9eaa40ad679842deaea54c0ca109611a2d08238
+tz.co.asoft	koncurrent-utils-watchosarm64	3.1.11	metadata	8c93b7672f8eda3922fda691ae29a0f897bc5428
+tz.co.asoft	koncurrent-utils-watchosarm64	3.1.12	metadata	72ab3d20439d32f028572fa4dd7f936161393ff2

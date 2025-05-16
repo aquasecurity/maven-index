@@ -754,6 +754,7 @@ dev.zio	zio-aws-machinelearning_3	7.31.27.1		e4fe35648243d0ab49b2777a06cb3c17c1b
 dev.zio	zio-aws-machinelearning_3	7.31.28.1		c56271080e40d99bc10ca0876aacda006feec9e1
 dev.zio	zio-aws-machinelearning_3	7.31.3.1		90ec76fd91a3ba26a3ab6daa3c07520992e3444d
 dev.zio	zio-aws-machinelearning_3	7.31.30.1		dbdb1a4eefa4b94547f69049058d9fdbd77c79de
+dev.zio	zio-aws-machinelearning_3	7.31.30.2		1a4d65e52a9390e108b123d0440bddf5cfd89584
 dev.zio	zio-aws-machinelearning_3	7.31.4.1		8380369901eb71cba2188d83c1daea0ae124e320
 dev.zio	zio-aws-machinelearning_3	7.31.6.1		24a6979f53d8dece6283c352ab01f49f47a8d5a7
 dev.zio	zio-aws-machinelearning_3	7.31.6.2		549ab7a609788a6e746fac69ff8adeb794f0b260
@@ -1636,6 +1637,7 @@ org.apache.camel	camel-microprofile-config	4.8.3		44c5fb018d063c2ec0019fae6d0ed9
 org.apache.camel	camel-microprofile-config	4.8.4		b0c5f63f582751dc87562097203c6c77a27f3084
 org.apache.camel	camel-microprofile-config	4.8.5		aea63d138891a3676d11ad3b6d142f52b9d7da46
 org.apache.camel	camel-microprofile-config	4.8.6		9ad978a3c9dec2c4bae284b5d2904121ed186afd
+org.apache.camel	camel-microprofile-config	4.8.7		77307b495a9ef8f400ba24bad4bfc80c0a04e435
 org.apache.camel	camel-microprofile-config	4.9.0		168f1f1405234ced25fe28516660edd1e0e314f0
 org.apache.camel.kafkaconnector	camel-jira-source-kafka-connector	1.0.0		f2636bc4cfcfd8cc86ed5f975820e137adb791ea
 org.apache.camel.kafkaconnector	camel-jira-source-kafka-connector	3.18.1		8a0364f8f9053956a39d865bab5b7f4216af8c64
@@ -1718,6 +1720,7 @@ org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.2.1		aa7e27f0ca1a56f
 org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.2.2		062773089d5d2528ba2df0acb3642c43e898470e
 org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.2.3		8949ebaeb16afddddc7724750af037d5da241a4b
 org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.20.0		2efea5b56b024101a287220e375191a2d3478b43
+org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.20.1		ddfacd51877793e8ca5fd7084b7787c50dcb309a
 org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.22.0		0ca306892b6aa70d076682d13615ccb1dfb7f40e
 org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.4.0		11bdebba560c3d81256879d84ddd99726624a345
 org.apache.camel.quarkus	camel-quarkus-tarfile-deployment	3.5.0		b68d00ea4a9ac47756b90ed58d3296241d1e48f2
@@ -1823,6 +1826,19 @@ org.eclipse.dirigible	dirigible-components-security-client-registration	11.41.1	
 org.eclipse.dirigible	dirigible-components-security-client-registration	11.42.0		adc301d922add475ab40dc32c03dae7c21b05da6
 org.eclipse.dirigible	dirigible-components-security-client-registration	11.43.0		a1f512703f38b0bb7a5dad3517acb7e9b482a88d
 org.eclipse.dirigible	dirigible-components-security-client-registration	11.44.0		6e2e9cc55a0bfa73f65ab70ac4df7c2e2819dfba
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.0		0a48b414b51d14d827ea05dd21c22cce811d444c
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.1		4c46d120d2affc0224cb88a8c728e7810fa01f96
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.10		cd5d724e9f1d0167b5e834a7096f930eef27aae9
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.11		2233998d733c2905a5065cd58eddbe8f3e83d2f5
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.12		95b9a30ec95db95480dcb823a1515c29d82017b4
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.13		c3fc59623a2386891f0946a754b25a9503c3915b
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.3		0dfaa364b5b9969201e03dd94bcda44cf7f1cf64
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.4		33a27f98919ef58d50fb0d5063243eb6b00a184a
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.5		705c3f15473e4722865ba0ad9aec75c77f84ecd0
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.6		39e7027483d47d9d172e3089d61bcb87747bd6e5
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.7		d3618392483731b5835011d13b16b2576a3ee7f9
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.8		c735d5d64b0a36a4092febdcacae0d49c36ab743
+org.eclipse.dirigible	dirigible-components-security-client-registration	11.45.9		e82c9792f60840161ce985602a039fe3a1a59670
 org.eclipse.dirigible	dirigible-components-security-client-registration	11.5.0		6120be06afdbf1cb1ca2a4f1cb0d387bfc9a1846
 org.eclipse.dirigible	dirigible-components-security-client-registration	11.6.0		b6b0882fe08b9ef17ddfa48e09688490bc62b8d1
 org.eclipse.dirigible	dirigible-components-security-client-registration	11.6.1		72c96de33260a26bb779b854f463da2c2b8438d7

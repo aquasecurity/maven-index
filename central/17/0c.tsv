@@ -92,6 +92,7 @@ com.linecorp.decaton	decaton-client	8.0.1		b6b1cc115e51ff3707059867f4d48f51a2ec3
 com.linecorp.decaton	decaton-client	9.0.0		c591cfa5e74e83e2756ece893c389f2be6e30aff
 com.linecorp.decaton	decaton-client	9.0.1		d1130e25fc5d746b55e653155a5cdfa8fd7f8154
 com.linecorp.decaton	decaton-client	9.1.0		049476a07a516c08bd606cfe8a0a9bd7fdd90dba
+com.linecorp.decaton	decaton-client	9.1.1		27e761df2f824ae7c7cc45f3fa7162a53dd93a57
 com.mclarkdev.tools	libobjectcache	1.1		3b24248612dfe15d172e2adddb32ce1aea7f800d
 com.mclarkdev.tools	libobjectcache	1.5.1		f85486071baa6b6b41213c82183a25e94fe41db7
 com.object0r.monitor.tools	object0r-monitor-tools	1.0.0		2f84b73bd0206c4d74ee6aa5d4136c5e721acf67
@@ -232,6 +233,7 @@ io.deephaven	deephaven-java-client-flight-dagger	0.37.5		8824fa7747514e2f8b79349
 io.deephaven	deephaven-java-client-flight-dagger	0.37.6		20e1a425113e999ae3bf87e77985e7185760595a
 io.deephaven	deephaven-java-client-flight-dagger	0.38.0		c3c203f5f67fb6088421e260f0f7305cada675c4
 io.deephaven	deephaven-java-client-flight-dagger	0.39.0		9edcf0c24501147884f67b11b864719e28f3481e
+io.deephaven	deephaven-java-client-flight-dagger	0.39.1		8b2ced68c1a0148c9ad9a1cb2f2d837cf0b45cab
 io.deephaven	deephaven-java-client-flight-dagger	0.6.0		b9b2b27e64c7ee4014ad1e888288cb95bc800f36
 io.deephaven	deephaven-java-client-flight-dagger	0.6.1		1a5735d43609e37e92d323197ced7e757e07955a
 io.deephaven	deephaven-java-client-flight-dagger	0.7.0		e90d9bc20edf713440a41a631dcdd1828e1ed844
@@ -762,6 +764,8 @@ io.ktor	ktor-client-darwin-legacy-tvosarm64	3.1.1		ba583a193bf48437704297061f662
 io.ktor	ktor-client-darwin-legacy-tvosarm64	3.1.1	metadata	43a24323f30f6e35cb2e9c6b7c974c521e6da9df
 io.ktor	ktor-client-darwin-legacy-tvosarm64	3.1.2		97ac25e860f1e498c97407ecccbc6d1734ae837b
 io.ktor	ktor-client-darwin-legacy-tvosarm64	3.1.2	metadata	b9338faf0fd6b2b2cbc2c46e68b6133f008166a1
+io.ktor	ktor-client-darwin-legacy-tvosarm64	3.1.3		6a4965dfa311882be6367c6bc1bdd195d9c2408b
+io.ktor	ktor-client-darwin-legacy-tvosarm64	3.1.3	metadata	04cb6952c745735c8861ccf5b1bcadbe3dc00903
 io.micronaut.cache	micronaut-cache-core	2.0.0		27aa9184d7dd35e96c3f90d79d373a19a3b261fe
 io.micronaut.cache	micronaut-cache-core	2.0.0.M1		60fc38680efb07e2a48b44e04ff37b445359c7ca
 io.micronaut.cache	micronaut-cache-core	2.0.0.M2		80d2d5ba1d190d53c8f56652032c8566c2ff201f
@@ -905,11 +909,19 @@ io.spinnaker.kayenta	kayenta-newrelic-insights	2.45.0		73cab33178751eef02d2ee08e
 io.spinnaker.kayenta	kayenta-newrelic-insights	2.46.0		b004eea2fc3e4352b6e36c9dffe05f7ff52b4f75
 io.spinnaker.kayenta	kayenta-newrelic-insights	2025.0-0		f577146d451baff36fb0e3d253f865be6fe97048
 io.spinnaker.kayenta	kayenta-newrelic-insights	2025.0-1		b8440643fe795134e39a203cd091f035b03a5781
+io.spinnaker.kayenta	kayenta-newrelic-insights	2025.0-2		7e9c21e16aa4cebc21902178799074ab7fb2f94a
+io.spinnaker.kayenta	kayenta-newrelic-insights	2025.0-3		97aaa5f290b049f319c048252dd2b90568224617
+io.spinnaker.kayenta	kayenta-newrelic-insights	2025.0-4		0dfe710d27fc6ba2ca68d1746ddfc6e5f5a9df3c
 io.spinnaker.kayenta	kayenta-newrelic-insights	2025.0.0		6e5ae4572931fd9de69567de176b2c65cf113e4b
+io.spinnaker.kayenta	kayenta-newrelic-insights	2025.0.1		212bc4072170c93f865b3cef0a78f3533594cb4e
+io.spinnaker.kayenta	kayenta-newrelic-insights	main-10		ee0c0616d653c738719fba2d443d5071f3bf08f1
+io.spinnaker.kayenta	kayenta-newrelic-insights	main-11		864cfeaa8b31e7d6918040000cc5d08ce060c934
+io.spinnaker.kayenta	kayenta-newrelic-insights	main-12		9f22391ce953343e7cd769a3925ee39203bde22d
 io.spinnaker.kayenta	kayenta-newrelic-insights	main-5		128bebb8eb3b45aa9afdbf3663ad85e8bb8d45ff
 io.spinnaker.kayenta	kayenta-newrelic-insights	main-6		e1b932dc5480dc705b2bbd181b128fa7c33a9048
 io.spinnaker.kayenta	kayenta-newrelic-insights	main-7		de68a5ca536755e9ff66c0f8f0d28fad658cc221
 io.spinnaker.kayenta	kayenta-newrelic-insights	main-8		c211eec9858229ae1e330c53111ad86d1b8a05ce
+io.spinnaker.kayenta	kayenta-newrelic-insights	main-9		f318de92fa1e6691069ffd774c7909cd397b124f
 it.nicolasfarabegoli	mktt-mingwx64	1.0.0		N/A
 net.arnx	nashorn-promise	0.1.0		cb45cb3c336c88b516ca58420aa773730690fb74
 net.arnx	nashorn-promise	0.1.1		3bae6bc4b167e0866dfb29aa9ff09ba55c6f0a52
@@ -1171,6 +1183,8 @@ org.wildfly.nosql	wildfly-neo4j-feature-pack	1.0.0.Beta1		N/A
 org.wildfly.nosql	wildfly-neo4j-feature-pack	1.0.0.Final		N/A
 org.wildfly.nosql	wildfly-neo4j-feature-pack	1.0.1.Final		N/A
 org.wildfly.nosql	wildfly-neo4j-feature-pack	1.0.2.Final		N/A
+org.xerial.sbt	sbt-sql-presto_2.10_0.13	0.4		c6b6fe7875ea4199153a396f20e52c83838bb5f2
+org.xerial.sbt	sbt-sql-presto_2.10_0.13	0.5		f6ac0e74126a3717674e10a7fead3d1b9a3a96c5
 pl.iterators	kebs-instances_3	1.9.4		ee12779eae224a4dbf94e3d6ada60a71ce7e81a9
 pl.iterators	kebs-instances_3	1.9.5		35ef834945d06e97ba92673cdb57dc6ed7001bb2
 pl.iterators	kebs-instances_3	1.9.6		129cc281a2fc062cd4cf072ee81a97cf28b36a29
@@ -1222,5 +1236,6 @@ tf.tofu	tofu-zio-logging_2.12	0.13.7		f8b63f1120bb297090256656a63adaec9198164e
 tools.jackson.module	jackson-module-blackbird	3.0.0-rc1		d0e78876a96cb447e93229d8dae45e88fc5123ea
 tools.jackson.module	jackson-module-blackbird	3.0.0-rc2		6b62fc5ffc170c9a0dc30e50fc9b99e33718145e
 tools.jackson.module	jackson-module-blackbird	3.0.0-rc3		8ee59ea18d6d6bed026c53ade20ae1eaf6e9bfc2
+tools.jackson.module	jackson-module-blackbird	3.0.0-rc4		29561524e967defe6e3ab40c8c0b21675e0063bd
 tz.co.asoft	kash-symphony-tvossimulatorarm64	2.0.16		N/A
 tz.co.asoft	kash-symphony-tvossimulatorarm64	2.0.16	metadata	6e52caddb0bfde912798f9d77be852c780fb5c61

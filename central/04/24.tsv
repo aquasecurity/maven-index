@@ -31,6 +31,7 @@ com.bakdata.kafka	streams-bootstrap-core	4.0.1		a146a58da810c0dd9e605c0a77a91caf
 com.bakdata.kafka	streams-bootstrap-core	4.1.0		bb870af6fe395298f7d1d8c573dc8d09b7bb0e62
 com.bakdata.kafka	streams-bootstrap-core	4.1.1		38b10867c4504866968ea382f0dbc6d55dc8e393
 com.bakdata.kafka	streams-bootstrap-core	4.1.2		ae5c495caed99a6b0672225df969446a4c2cc725
+com.bakdata.kafka	streams-bootstrap-core	4.1.3		0b5e0100f42c93c372f3611c44a92b63d5a64ad9
 com.bennyhuo	activity-stack	1.0		N/A
 com.bennyhuo	activity-stack	1.1		N/A
 com.bennyhuo	activity-stack	1.2.0		N/A
@@ -89,6 +90,7 @@ com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.17.8		b8a3a1d9d94
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.17.9		5d3cfb6a8c668bc5a164d927271c4ce0f3f24987
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.0		a4d25cabcbf2159ab11e7083f06b7c0c77ea1b92
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.0-1-19acfb2		1676a5a5be5369a5d35de68bdadbf9632adf68ad
+com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.0-1-26737b4		75397dd5b8152a82f3b732e5f18d8351ee74c9bd
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.0-1-5a26ba3		fe2c642ae9a98f11b086483904abfc32f826f6ae
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.0-1-8d943ab		e846baaf715d4f052b29226811aa223f6ae3183f
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.0-1-b0aa866		900466218c795649bade03951ef34baacf53f033
@@ -215,6 +217,7 @@ com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.31		81942559fc
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.32		08abb31bca4c0782530db7712d9df787f4a9e6d6
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.33		13e1f835f568ea2a1a1cddf55621a6825976aa7a
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.34		e7384783dee7580e16a7f48ee81e1491339d296a
+com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.35		642f4ff9a798ce968e649a3aa7c665d11d75ed5b
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.4		929436874cc55c55836f4b090be26d3abedddcc7
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.5		d98b2c3bf41f6ad9554d5be9f742da8312f24d91
 com.disneystreaming.smithy4s	smithy4s-aws-http4s_native0.4_3	0.18.6		94a137fd3170d635d74aac53a2f8efdad6bf616d
@@ -275,6 +278,8 @@ com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.145.0		a195181e5ccb0f0f
 com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.146.0		d0050889591bbc17e4819d97b269702257c64b41
 com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.147.0		2040cee6ec1a24a846b65e195df6a1314ba36d52
 com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.148.0		f56097f2a4377f04dfde289181b9e72d8c5df91b
+com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.149.0		690c66f748bc7b79a6ad48d42b24e76b4bfdce09
+com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.150.0		6215976ed0bf8b4ab0a6af62458b76b3992cb75d
 com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.20.0		919de3254a24534f041c5c2e9485bde1eb7f232d
 com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.20.1		354868c7749998557d732b3d5d74497ee11f149f
 com.google.api.grpc	grpc-google-cloud-vision-v1p3beta1	0.21.0		b45f92954b459d3bcfb7ca5b9ff5e6a807a674c5
@@ -1039,6 +1044,7 @@ org.eclipse.ditto	ditto-internal-utils-cache-loaders	3.7.0		bf0071669f75d6636bb0
 org.eclipse.ditto	ditto-internal-utils-cache-loaders	3.7.1		706702b58c6a0109cba2bcb906ddba46a5883fbf
 org.eclipse.ditto	ditto-internal-utils-cache-loaders	3.7.2		4602153c89b7154cdc0d6bc9ffa2b775cdaf29b0
 org.eclipse.ditto	ditto-internal-utils-cache-loaders	3.7.3		11eae20786537339392d1f83a56ef5b9a85dc2b6
+org.eclipse.ditto	ditto-internal-utils-cache-loaders	3.7.4		40d48d66787947e9eac79f382646f5a030a3a512
 org.eclipse.neoscada.ide	org.eclipse.scada.configuration.component.edit	0.3.0		17332dab59a02a652ebb28a0022bc16d99244b4c
 org.eclipse.platform	org.eclipse.core.databinding	1.10.0		5bda45481f8b59592411729486a74bf56eed3eac
 org.eclipse.platform	org.eclipse.core.databinding	1.10.100		c38f215cc207771d3f180cb08ac32b3c7b93c4f8
@@ -1272,10 +1278,12 @@ org.jetbrains.kotlin	kotlin-daemon-client	2.1.20-Beta2		7c7b6cd4ca779e608dd2cfad
 org.jetbrains.kotlin	kotlin-daemon-client	2.1.20-RC		c844a19d6ade45031661eea1bb18ba30003706e6
 org.jetbrains.kotlin	kotlin-daemon-client	2.1.20-RC2		ebb3befd0d948bc1acbb11205e5be53cabec6141
 org.jetbrains.kotlin	kotlin-daemon-client	2.1.20-RC3		199fa5dcf34417abd67357b3b6fe31a42e8a8a0d
+org.jetbrains.kotlin	kotlin-daemon-client	2.1.21		6aceba39e571421a1f3ae5e697a4832d6fea36a8
 org.jetbrains.kotlin	kotlin-daemon-client	2.1.21-RC		82daa67b318b2f80f699d7a85ac9dd3085ea7d79
 org.jetbrains.kotlin	kotlin-daemon-client	2.1.21-RC2		2f3f62db3529b4c1302813b7b8cc27284a6e9d27
 org.jetbrains.kotlin	kotlin-daemon-client	2.2.0-Beta1		6b4ff58ac1818db34a65f5efe21fe663a6de8719
 org.jetbrains.kotlin	kotlin-daemon-client	2.2.0-Beta2		1d2b3a1aac3f36e25dc11d02855187639c08ff2a
+org.jetbrains.kotlin	kotlin-daemon-client	2.2.0-RC		06765e9e155d3be819c57ce8ed46de8cfe34683b
 org.keycloak	keycloak-proxy-server	1.1.0.Beta2		673b97bfc2f26c2fbdcddf946fc13e2cfab03f48
 org.keycloak	keycloak-proxy-server	1.1.0.Final		a2dbb0b6b61a01cc8b025357cb924d3510f156a6
 org.keycloak	keycloak-proxy-server	1.1.1.Final		e2ab68e40db1fbe44b2f59cf14b6b08805dcdec5
@@ -2031,6 +2039,10 @@ tz.co.asoft	kollections-atomic-watchosarm32	3.0.8		N/A
 tz.co.asoft	kollections-atomic-watchosarm32	3.0.8	metadata	93ce88045810db15c4b1c8ab68a862351fa50ab0
 tz.co.asoft	kollections-atomic-watchosarm32	3.0.9		N/A
 tz.co.asoft	kollections-atomic-watchosarm32	3.0.9	metadata	22466ea3f4043f2e6d37a9c0c517bc4cfc5c5f41
+tz.co.asoft	kollections-atomic-watchosarm32	3.1.0	metadata	14e29dae0f0bdde29e5f20cfd91634bdcd0f25df
+tz.co.asoft	kollections-atomic-watchosarm32	3.1.1	metadata	9054de85a44e76e227c4e417fae8c80a3453e788
+tz.co.asoft	kollections-atomic-watchosarm32	3.1.11	metadata	39bcf8125c546a9e89a739386e98d147826d9b51
+tz.co.asoft	kollections-atomic-watchosarm32	3.1.12	metadata	4c350f96037a7101c49b9391827ae5dbbe08c0be
 uk.co.gresearch.siembol	siembol-monitoring	2.5.0		c6fd4ceb8b8f15561dba04474af0ab49ecab7ae7
 uk.co.gresearch.siembol	siembol-monitoring	2.6.0		63e173eba9fccfad7d5f723d42add1b4760d4e88
 vn.innotech.archetype	spring-rest-archetype	0.1.1		0e1256c6ac60607b7eb75f712543062182910750

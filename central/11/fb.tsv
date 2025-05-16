@@ -102,6 +102,7 @@ com.github.gnni	scala-stochastic-outlier-selection_2.12	0.2.0		69dec3e607c1ba45c
 com.github.hnishar.konstruk	eventsrulelambda	0.8.0		32d984219c4f17a6a40293d94406c7f08f976cbf
 com.github.rostislav-maslov.rcore	rcore-domain-file	1.0.27		021d426fce69ef6eebeb55f29d7405ed0f2c842e
 com.github.scopt	scopt_sjs1_3.0.0-RC2	4.0.1		0bba6920a49d13388a40a0f143cb68dce553ab8f
+com.github.seratch	scalikejdbc-mapper-generator_2.9.1_0.12	1.3.5		0f230a61d3cd247ff78b863a19645e7f6098078f
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.10.0		e49466b38fb7ca93ca972ec11f803c754a4bb0aa
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.10.1		d6cc5be526718e77ae10f82d4b4646d9bd6c422a
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.11.0		9bd8323d886a6259e21bab6587d8377fe1b9667b
@@ -181,6 +182,7 @@ com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.27.0		7624b83b94fa89
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.27.1		304e90851b88df44bffb4200235cabe15a73e283
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.27.2		59a2a54b2dfa332f754b9b04852bf304c9e91f3c
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.28.0		805cb32e7ac5f1931cf1a53bc7b025a8b1e0a82b
+com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.28.1		89e2ab78eba22f762dc9a53dbb9ad9198779bb0b
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.6.0		7e12481f186a77f4bff74d195fa420c81d664899
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.7.0		c1e0db9e7a1a3efa32e9ede8e56067d481d24941
 com.google.api.grpc	proto-google-cloud-datastore-admin-v1	2.8.0		e09ac5efcb6812714454c9bc72f4eb3bfd252529
@@ -437,6 +439,7 @@ com.typesafe.slick	slick-hikaricp_2.12	3.5.0-RC1		d44e42648ce8249ccca1547ab3d60a
 com.typesafe.slick	slick-hikaricp_2.12	3.5.1		670616d6746e3f96e897e43cbb7fcb45c8c68282
 com.typesafe.slick	slick-hikaricp_2.12	3.5.2		f2a99943bb1f514f504a5ee477b5f8731ececf6c
 com.typesafe.slick	slick-hikaricp_2.12	3.6.0		7fa3717b96658fa45b84dc78094c491e8ae18d73
+com.typesafe.slick	slick-hikaricp_2.12	3.6.1		b44f81a63e70b57400796855a17249adc12c92dc
 com.walterjwhite.java.modules.workflow	examples	0.0.17		N/A
 com.walterjwhite.java.modules.workflow	examples	0.0.18		N/A
 dev.zt64	dearrow-kt-linuxarm64	1.1.0		N/A
@@ -2452,7 +2455,18 @@ software.amazon.awssdk	elasticache	2.31.30		4d4e6dc78486331ca3846f524620339dd3d7
 software.amazon.awssdk	elasticache	2.31.31		8a3c6f3104df58c8043fae34bf6f023da77e55a4
 software.amazon.awssdk	elasticache	2.31.32		547e823707312ace1a5c5618adfe2d4cd1f307e8
 software.amazon.awssdk	elasticache	2.31.33		99b8821eebff5364287be17f0d92a693981bfb20
+software.amazon.awssdk	elasticache	2.31.34		ffb0efe7f916b18c988af34bf42c36bc07d4b630
+software.amazon.awssdk	elasticache	2.31.35		e554469012a52e52094987224844d67aa69aeae6
+software.amazon.awssdk	elasticache	2.31.36		1a27a605fc86fb8c30067e816310ad00bad74330
+software.amazon.awssdk	elasticache	2.31.37		0a09502a1b41c84b8a39c7897f492d4a354b4a7f
+software.amazon.awssdk	elasticache	2.31.38		60693a3457fd0f396386a98675afd6c27b74ffda
+software.amazon.awssdk	elasticache	2.31.39		ffc7ed56ed0c7f3bffa9a91819e142b8c212f7a2
 software.amazon.awssdk	elasticache	2.31.4		8cb640c08906812b6a465efacacac1cc5cf78687
+software.amazon.awssdk	elasticache	2.31.40		675b0dad03c3f86d8b47428b5f1248c5f046143a
+software.amazon.awssdk	elasticache	2.31.41		fcd3f55c1e012811495734251111a6ff87297ecf
+software.amazon.awssdk	elasticache	2.31.42		0ca9473096ebc57e4601bbac0457dc197273670a
+software.amazon.awssdk	elasticache	2.31.43		43e80ca1d6b9ec347e863f8e27d3fbdcbe70d35d
+software.amazon.awssdk	elasticache	2.31.44		bebd132c6550385e4e32c74660e48e10b1b75e3f
 software.amazon.awssdk	elasticache	2.31.5		8c84e4fde9f9080e1afd480a303ab217f46f2d13
 software.amazon.awssdk	elasticache	2.31.6		46bd7a0ddb5526434ebb2f5b7776645673b1a56e
 software.amazon.awssdk	elasticache	2.31.7		78a6bb9e792788ef01df0d0d29cf671427d2db1d

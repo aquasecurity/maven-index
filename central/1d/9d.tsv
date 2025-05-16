@@ -1272,6 +1272,7 @@ io.quarkus	quarkus-builder	3.15.2		7e7c29708e9599b51dae79adb44f51202e8d6d7a
 io.quarkus	quarkus-builder	3.15.3		1d1ce5f0337762c275b3aa38eb46c36482a94017
 io.quarkus	quarkus-builder	3.15.3.1		4eb9e6bc81a6bbd534746840a81012f285d58c07
 io.quarkus	quarkus-builder	3.15.4		dc769f47c49c90f4a323f33d09e4cddc8399b8a2
+io.quarkus	quarkus-builder	3.15.5		a3bd2d9858cdbf25c0216595e96cfe754790e4c6
 io.quarkus	quarkus-builder	3.16.0		b2bb302723b52aadc4478b34648af8e6b0fb40c7
 io.quarkus	quarkus-builder	3.16.0.CR1		f4eea9f427dc09f953c1439e6c64792d1a510664
 io.quarkus	quarkus-builder	3.16.1		8384dc625c37a9300743b672e10d024db16c1bcb
@@ -1316,6 +1317,7 @@ io.quarkus	quarkus-builder	3.2.8.Final		cfb07a8a9a0b020f4b109a057c9387fc3ca7e34a
 io.quarkus	quarkus-builder	3.2.9.Final		175f3b16040b87d9de742fac016a7bca8a918f3c
 io.quarkus	quarkus-builder	3.20.0		6ece45da923d80271df4f21b238f30d8c864c823
 io.quarkus	quarkus-builder	3.20.0.CR1		276ec70bc8d0f14d971cd9f868ea69782e213afc
+io.quarkus	quarkus-builder	3.20.1		eb1eeb97dde69d6a2fbd7232d28e8c052397452a
 io.quarkus	quarkus-builder	3.21.0		e04958ccbe3bbe89919733a42ba15186a4d95701
 io.quarkus	quarkus-builder	3.21.0.CR1		b9355c6496173a8b864ee69c3347869d2deb1227
 io.quarkus	quarkus-builder	3.21.1		3261d0c89b646e5c4c6b286a7d5014af510cc74a
@@ -1325,6 +1327,9 @@ io.quarkus	quarkus-builder	3.21.4		7b7158fa1730bfc554099bb3d97769b44b92ffd4
 io.quarkus	quarkus-builder	3.22.0		80f1560e4a22ba8651b216afe32c2b4838752794
 io.quarkus	quarkus-builder	3.22.0.CR1		4217c2b73486a7f54b0d8162e7024461c546493b
 io.quarkus	quarkus-builder	3.22.1		4c254683c04678b92bcfffb1cb4fede215bbcb4d
+io.quarkus	quarkus-builder	3.22.2		99b4f8e457263472d9eeb7f0aff149bdd80d78dc
+io.quarkus	quarkus-builder	3.22.3		46014bcba601e7078f84b4f010813d53836bc3ee
+io.quarkus	quarkus-builder	3.23.0.CR1		4d8ebe826adbb00eba99deaa5cd64bd85f6c697a
 io.quarkus	quarkus-builder	3.3.0		cea554926ae904863da0d5f7a7d6e43b3504c7b4
 io.quarkus	quarkus-builder	3.3.0.CR1		887eba1401ba87f4edbc9c747194fef3a052fcd7
 io.quarkus	quarkus-builder	3.3.1		88ca0c58c547e1bb111149e4684080d81d0a961a
@@ -1387,7 +1392,11 @@ io.rsocket.kotlin	rsocket-ktor-client-iosarm64	0.20.0		N/A
 io.rsocket.kotlin	rsocket-ktor-client-iosarm64	0.20.0	metadata	40d44ce535ff087f0f1cc00c397f8e01909e9e64
 io.spinnaker.clouddriver	clouddriver-oracle	2025.0-0		8030dba0ae2eccb32c64f37871113fbbdbee8586
 io.spinnaker.clouddriver	clouddriver-oracle	2025.0-1		bdb48c01e99c04f50250e9a126c2163ab04a82a6
+io.spinnaker.clouddriver	clouddriver-oracle	2025.0-2		516644e20084d8e8a510cb4df03c03a1b8141e5d
+io.spinnaker.clouddriver	clouddriver-oracle	2025.0-3		af88a40bb271da1d0d78d4fee3afc0179458ee14
+io.spinnaker.clouddriver	clouddriver-oracle	2025.0-4		d9f41abcbbd8d91638ea3352e0a35ae6bdb02f86
 io.spinnaker.clouddriver	clouddriver-oracle	2025.0.0		f2d21dc07d10755ea113450f4a6f81796a0c378d
+io.spinnaker.clouddriver	clouddriver-oracle	2025.0.1		ae03a5d33e9c4eb681c2f581b62ba1030ea4f2ce
 io.spinnaker.clouddriver	clouddriver-oracle	5.74.0		5c53f19a0f0513bc7e153cca610d14cacc68d554
 io.spinnaker.clouddriver	clouddriver-oracle	5.74.2		5cf348bbd73f5ef563abc1c2b4ddd1b9ca1883f1
 io.spinnaker.clouddriver	clouddriver-oracle	5.74.3		102759383b920ad1bbb8e86dad7a99cfa2edbcd8
@@ -1468,14 +1477,19 @@ io.spinnaker.clouddriver	clouddriver-oracle	5.91.3		8afd2df8dd0c03e75591acd0adbb
 io.spinnaker.clouddriver	clouddriver-oracle	5.91.4		0ad3103acb7eabea96aef71d071ae02bfeb2f76b
 io.spinnaker.clouddriver	clouddriver-oracle	5.91.5		8c38c277493521483ef97ce23a4327b526fc2b27
 io.spinnaker.clouddriver	clouddriver-oracle	5.91.6		b36f0c33e2d8e11825b9e33035633ba29797eaa2
+io.spinnaker.clouddriver	clouddriver-oracle	5.91.7		a479882c8fd8cc3a0749f8c8de25ab8444150677
 io.spinnaker.clouddriver	clouddriver-oracle	5.92.0		e75aa4280426fb212b4fb0346cc1aa29e1ce2d76
 io.spinnaker.clouddriver	clouddriver-oracle	5.93.0		d12dece2944b16d075237ce4e0a3f36b13dfe571
 io.spinnaker.clouddriver	clouddriver-oracle	5.94.0		9f5c541d71c478caf3f87ff4dfa4fc92cc15a232
 io.spinnaker.clouddriver	clouddriver-oracle	5.95.0		350770c1161eceb3ec817beb0de62f5add1f4c3a
+io.spinnaker.clouddriver	clouddriver-oracle	main-10		48646a79e5c01584ec9d15b34bb00629c595cfbc
+io.spinnaker.clouddriver	clouddriver-oracle	main-11		d2a01be28113b34f9dc59292c7a5e6dce17d0257
+io.spinnaker.clouddriver	clouddriver-oracle	main-12		f498f24737cb1971ba862749b458b2a43892ba9c
 io.spinnaker.clouddriver	clouddriver-oracle	main-5		f556caf4db50eecc4b77d516768b84bd07b42304
 io.spinnaker.clouddriver	clouddriver-oracle	main-6		4d4360926ec4398d2278df4576502def8820a6b0
 io.spinnaker.clouddriver	clouddriver-oracle	main-7		607f75b4b93998297a74a218be53994558ede984
 io.spinnaker.clouddriver	clouddriver-oracle	main-8		887e678f8925da98686ec67617a6866327d673ff
+io.spinnaker.clouddriver	clouddriver-oracle	main-9		35d01786e6b886ff6ce55820d57ab9242a659779
 io.stargate.db.cassandra	persistence-cassandra-4.0	0.0.14		ed07be9f46cd6dd908d1b93bf35c8d50ca2fd021
 io.stargate.db.cassandra	persistence-cassandra-4.0	0.0.15		a39518185f709157cb35226e4e79e34835861608
 io.stargate.db.cassandra	persistence-cassandra-4.0	0.0.16		4ae1a35062ff93ecce03a25fad852eb948476087
@@ -1633,6 +1647,8 @@ io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.29		a1d8b9c1f432c6c24c8aa
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.3		6875944237fad405c4ae62780248db937bc24b80
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.30		98e90be08f2d64a0a918c20072e485bb0d5da1f7
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.31		68b207e4a7f8e9e43a8cb7f3022eae7d1f9ee061
+io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.32		474291dc640499dab66a75efa28f17f6b18ad0a6
+io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.33		2df5ba2d0c6a4b3bdbd4972c4ccf04d15f28f834
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.4		6503469d891c84b9315417f5b897b8435c9e5139
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.5		afa3fe9cde232831b077f7b6a16a7a8855cb98fa
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.0.6		ea4893cbb3c9dd1c5aed6c58e1e0e512c9b63da0
@@ -1666,6 +1682,7 @@ io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-21		b2b97a6df50109
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-22		5edce91eb74a86a2b2a0c92f4874369bd272da27
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-23		87ad27a452077610b2bc71c4858190963df7460f
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-24		87134bba70dfd5829359c0f2314648dc37e2f274
+io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-25		0f0ac256dd3fd48f36aa12d89b5417ce3052693d
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-3		7e860eef439ca90dfd250ccf4d949d0583241a9d
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-4		8da207ef29ced0623cd7a8b1d334dfa2a0045f81
 io.stargate.db.cassandra	persistence-cassandra-4.0	2.1.0-BETA-5		d080ecf8b73bd97dcdcd5fe899281fe51d6943fa
@@ -1754,6 +1771,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.2.1		58c56fb79
 org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.2.2		b2d0ac1eb712984ce110154e79836c10a22d2395
 org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.2.3		bd62129acb85f819df365a0aa6b99fd7582eb45a
 org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.20.0		30b713d33d767b960b085f59ce4a0713e772a784
+org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.20.1		338a5f0f327b0df2a49ee5baaa92920197ed2c39
 org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.22.0		5bebc7c004bcc67c5f8ad846cf2a42888fa12f30
 org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.4.0		e736327468d2b77b54c1029c351d6fe2dff5a4b8
 org.apache.camel.quarkus	camel-quarkus-integration-test-zendesk	3.5.0		7bab11c47caa18122d76140d3822f1835d9fe496
@@ -1829,6 +1847,7 @@ org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.2.1		697b3204984b3b
 org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.2.2		cd3a493033e2c4a0bde4a6ae675f17ba192334ab
 org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.2.3		fa7e2263e015afe09b5c7728fe061fd9361cc9a4
 org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.20.0		3cb8890c221add078dca5503589305ce3f5d46c9
+org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.20.1		72a3466243ebcf19b76b06e55e8a12cf56444e0c
 org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.22.0		0265c7445c881258b7f3fae9883a7ef07794fc33
 org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.4.0		0dca584d93e7ab6b8a2235cd1ea71536388325ff
 org.apache.camel.quarkus	camel-quarkus-mustache-deployment	3.5.0		390e6e25af6f379fb7cb0033c3cf62b992ba1469
@@ -2686,3 +2705,7 @@ pro.respawn.kmmutils	apiresult-iosx64	1.1.2		N/A
 pro.respawn.kmmutils	apiresult-iosx64	1.1.2	metadata	9780207863a6c09610772ef3008d4db63b116aca
 tz.co.asoft	raven-email-resources-core	3.0.14		f1281ab6a1ce69b0566f482a9047d948d772a57c
 tz.co.asoft	raven-email-resources-core	3.0.15		2b135ecc8049352b17238d9f1bd87bae80db55d2
+tz.co.asoft	raven-email-resources-core	3.1.0		394d8ad8db3941cab4de6521ef75d98550a112ca
+tz.co.asoft	raven-email-resources-core	3.1.1		394d8ad8db3941cab4de6521ef75d98550a112ca
+tz.co.asoft	raven-email-resources-core	3.1.11		394d8ad8db3941cab4de6521ef75d98550a112ca
+tz.co.asoft	raven-email-resources-core	3.1.12		394d8ad8db3941cab4de6521ef75d98550a112ca

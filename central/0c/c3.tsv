@@ -86,6 +86,10 @@ com.codbex.phoebe	codbex-phoebe-branding	2.35.0		4ced53b230029c6538ca1a13a9e6ac6
 com.codbex.phoebe	codbex-phoebe-branding	2.36.0		7fa96a31f42a75146a563a6c82bca23561257859
 com.codbex.phoebe	codbex-phoebe-branding	2.37.0		8f639022fb2f5ce8f626fba34a42a437068ea82e
 com.codbex.phoebe	codbex-phoebe-branding	2.38.0		851bd51e22a5ecd62b72f6ce4da8586a1716653a
+com.codbex.phoebe	codbex-phoebe-branding	2.39.0		dbc39ed87c526399e2300ec4d8ad3bc52cd1bc84
+com.codbex.phoebe	codbex-phoebe-branding	2.40.0		dad4e4a38b25a8548d1283228416b6113419cac9
+com.codbex.phoebe	codbex-phoebe-branding	2.41.0		d1600c715693783d086920c19d9217366c919d62
+com.codbex.phoebe	codbex-phoebe-branding	2.42.0		8cbece8e1b83bf97ccf99a6a0d69f5f5cfb1a44a
 com.codbex.phoebe	codbex-phoebe-branding	2.5.0		93aaefe17687300742cb773c97bd6d484b4337a0
 com.codbex.phoebe	codbex-phoebe-branding	2.6.0		834c8a78ec2bc6e57883d5fc723b67802cbbb0c0
 com.codbex.phoebe	codbex-phoebe-branding	2.7.0		4e24233408c4442655eed0730ead70fb4ce9b59d
@@ -146,6 +150,7 @@ com.jd.live	joylive-transmission-nettyhttp1	1.5.0		0435de5f0a87dd36e0f0cafb3c69e
 com.jd.live	joylive-transmission-nettyhttp1	1.5.1		3a1a9f6ee6f6bfb4576e0cc51dd4c87e2bd313d7
 com.jd.live	joylive-transmission-nettyhttp1	1.5.2		1f762a397f0fb97ea4f34c22ef9968a220ccd152
 com.jd.live	joylive-transmission-nettyhttp1	1.6.0		f632121a081792523c3af0ab40ae4c5cfeafbc88
+com.jd.live	joylive-transmission-nettyhttp1	1.7.0		3d353478ffe8a87803ae9e6b2c9b35585a6c6029
 com.magine	http4s-karapace_native0.4_3	2.0-98dda6e		f288faecaa0454b3a9e94d7b7f2f8d52a8d1c9eb
 com.magine	http4s-karapace_native0.4_3	2.0.1		8c5734e8ea8b58dba5c3a34f76dd23fe5ed5655e
 com.magine	http4s-karapace_native0.4_3	2.0.1-2-b296e02		732e86235cbe5f2d271e532f83b0af7dac971da7
@@ -746,10 +751,17 @@ org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.79.0		
 org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.80.0		3888a4e8daab2b835d8cfd30b7a1600c19a10da9
 org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.81.0		c86a2c7d27a4b37c6ce4d00737d2ea3698f46c1b
 org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.82.0		46d3ce5a47d9e5c0472fdb3f2e06a6feec562808
+org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.82.1		4c63d50f3789cd2ca3984d91e4dd6f85372d3d4c
 org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.83.0		3416ead4435cd241bb40114ce99cd6b36773be3d
 org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.83.1		e75a35cab677ceb04023d82e0bbf46e5bb52550b
 org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.83.2		747dc217f5f9d662b4e0d117b8a70da56890cbb7
 org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.83.3		e80510a7b9e7ff443d94167966dc35e0afa4194d
+org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.84.0		37c61409cb1293910c4abe5b850641dad83be2c6
+org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.84.1		e46d9c2ad234299b254141ea0c3a08ecef334a21
+org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.85.0		f8d431c9c4d70ae64be266ae33fb9985d5e6bb3f
+org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.85.1		ec131d3990282b60a7397a15122746d7e6412a65
+org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.85.2		225089bf7c1da8e7bba8b636d8fcc780b0cecf60
+org.finos.legend.engine	legend-engine-xt-identity-plainTextUserPassword	4.85.3		48dd92d834dfc53548e91cb51018bf98139e5f1c
 org.glassfish.jaxb	txw2	2.2.10		12129e286bff19a1872f5ee6d6580d0b8dba5e73
 org.glassfish.jaxb	txw2	2.2.10-b140310.1920		1a6ddba2bacf83219bdf5fa9e265fc81278ec89e
 org.glassfish.jaxb	txw2	2.2.10-b140802.1033		52df4c544d9d385681d003add7b420fab1974770
@@ -1363,6 +1375,8 @@ org.xwiki.commons	xwiki-commons-tool-license-resources	16.10.3		5b7621c47e7247a5
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.10.4		0551b443170ae851d3051fc8d1ec1b0d1de0df2a
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.10.5		2c1cc57ccc65dbb91ff50a1848579ba83b5c9507
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.10.6		8e596039e6918c18c700da46a98cb9a662067ec9
+org.xwiki.commons	xwiki-commons-tool-license-resources	16.10.7		fc38b51c1fdac4bc07f0688657420d84fab89229
+org.xwiki.commons	xwiki-commons-tool-license-resources	16.10.8		ef60a3e818fe8ed38c70bfa472a14d4e4480190d
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.2.0		d66f5e771239ab91fcd9d78f5cbe8d59cdd93ae1
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.2.0-rc-1		1c50667a688d85ecd64f819849b7979d226b55cd
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.3.0		11827a8b37aa38d8f13e1a3fbfae287e6e84f325
@@ -1377,6 +1391,7 @@ org.xwiki.commons	xwiki-commons-tool-license-resources	16.4.4		59549fa3bd411317f
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.4.5		6e84a5bc50ccd562004f70222c187811d70ac27c
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.4.6		c9bac85b36e6a0feda9c37d446019c66768c1337
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.4.7		171fb14d53d8845754b5d465c1998c0aecf2c387
+org.xwiki.commons	xwiki-commons-tool-license-resources	16.4.8		3370691995edc77882e089864bd87df5e51bce22
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.5.0		f4706346bc0a97892cbe4e40cfc674adbecdb7a7
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.5.0-rc-1		ec7ed4e9b8c1a37ba4e69388c402c77f90338d5b
 org.xwiki.commons	xwiki-commons-tool-license-resources	16.6.0		66e9c97f4ca1956ae5434a2ede08d0b3fd7a2e0d

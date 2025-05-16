@@ -528,6 +528,7 @@ com.lihaoyi	mill-idea_2.13	0.12.1-7-d8bbe5		8fe46a5579f58e528851c56ca2f10de177f0
 com.lihaoyi	mill-idea_2.13	0.12.10		739780e0a095537abbb95ce176ae4c5677d355de
 com.lihaoyi	mill-idea_2.13	0.12.10-3-7afdee		aa1fa66c6ec72bf52eda78684708905ba48bb695
 com.lihaoyi	mill-idea_2.13	0.12.10-6-cb6954		34c3f71b88380f7d49c375c085186e41ddd41951
+com.lihaoyi	mill-idea_2.13	0.12.11		8465038bad239ff8dd81208f1badacab6917b0ee
 com.lihaoyi	mill-idea_2.13	0.12.2		6a0a16295d9b6243835d674af445504945ead685
 com.lihaoyi	mill-idea_2.13	0.12.2-16-4a07b2		bc77a51f190e5ef1e3f7a46c367f9f52cfec1ca6
 com.lihaoyi	mill-idea_2.13	0.12.2-20-231ff6		682096c81ca57adca9be02954b8016f917581add
@@ -590,6 +591,13 @@ com.lihaoyi	mill-idea_2.13	0.12.9		6c78e06523bf99feceb5977829671fb948ba2b5c
 com.lihaoyi	mill-idea_2.13	0.12.9-10-0530ab		5b4080823a9bb2a0b79a13e67fe66edd1bde134d
 com.lihaoyi	mill-idea_2.13	0.12.9-19-92b741		521b54a16398e517cccd6a2a784bd92e9f7ad2b9
 com.lihaoyi	mill-idea_2.13	0.12.9-3-a942e8		d866a0abda72f3d420c8c8517158a9359ec686e2
+com.lucidchart	sbt-cross_2.10_0.13	1.0		b249875bdeb7fd3d5bba473cd1e589967a183d50
+com.lucidchart	sbt-cross_2.10_0.13	1.1		ec18692ae9321fb39ac59b68e091bd151f75c0b7
+com.lucidchart	sbt-cross_2.10_0.13	2.0		6bac7a7b40dee9a0b9721a4676488ac39e0bd232
+com.lucidchart	sbt-cross_2.10_0.13	3.0		d3f0aef73cc4347c0a216bde647640c48007a658
+com.lucidchart	sbt-cross_2.10_0.13	3.1		378b9d718ea85a51b406419ae8bfa7465883d70d
+com.lucidchart	sbt-cross_2.10_0.13	3.2		c8049afff05bc6ddb0a7f5a5ef118c0a31ea97e0
+com.lucidchart	sbt-cross_2.10_0.13	v1.3		694e3814e852792ec6bf1c97047f0feb7694df73
 com.memority.api.maia	maia-amcp-schema	3.30.1-MC		d7a53de56a261ddc34b4575d8196ded6d52afe0c
 com.memority.api.maia	maia-amcp-schema	3.30.1-MC2		6e606abddc03368129cd8f3c596844509cc737de
 com.memority.api.maia	maia-amcp-schema	3.31.0		3c309bdaba0a23c5283735e5409269bee8c79118
@@ -1081,6 +1089,7 @@ dev.zio	zio-aws-iotfleethub_2.12	7.31.27.1		9c81de6583dada02368c5febe8bfc5ac599b
 dev.zio	zio-aws-iotfleethub_2.12	7.31.28.1		96ca5baea607f2bd545ccf0a983ff0e26fafec18
 dev.zio	zio-aws-iotfleethub_2.12	7.31.3.1		69c540d41ba920858481e52fce0c1a8c4267bad0
 dev.zio	zio-aws-iotfleethub_2.12	7.31.30.1		60ea47b6e42f484e6287fc7889ceb8a35438d151
+dev.zio	zio-aws-iotfleethub_2.12	7.31.30.2		2053a0735b32e2c42f93ca50842b87eb3f71ea92
 dev.zio	zio-aws-iotfleethub_2.12	7.31.4.1		2674b2a8a6bdcde4debfdd5383dd824811aeb7b4
 dev.zio	zio-aws-iotfleethub_2.12	7.31.6.1		63a0704dd8b46887e141cad4812cae599816d14f
 dev.zio	zio-aws-iotfleethub_2.12	7.31.6.2		92963391e7bd1a70e19c4a94dd80a3a38f052359
@@ -1612,6 +1621,8 @@ io.ktor	ktor-server-csrf-macosarm64	3.1.1		01fcf5fa2ab3a6760456f674fdd9b54b20383
 io.ktor	ktor-server-csrf-macosarm64	3.1.1	metadata	289c249e17f0e3766bc50557b9c66d0ec5ebce60
 io.ktor	ktor-server-csrf-macosarm64	3.1.2		69dadeefcce7407ad9cab9164c00cd09324a2203
 io.ktor	ktor-server-csrf-macosarm64	3.1.2	metadata	06e95fef04001016105f67115e54e3be2a25c359
+io.ktor	ktor-server-csrf-macosarm64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-csrf-macosarm64	3.1.3	metadata	1177e9d20991acb0fcfdfdc82462870ac06d5c93
 io.matthewnelson.kmp-tor	core-resource-watchosx64	2.0.0		N/A
 io.matthewnelson.kmp-tor	core-resource-watchosx64	2.0.0	metadata	8174ca062a30226ccc4b830844d13db345408ea8
 io.matthewnelson.kmp-tor	core-resource-watchosx64	2.0.0-alpha01		N/A
@@ -1821,6 +1832,7 @@ io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.15.2		1b5f54faef87c60ad9d
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.15.3		3ea420ff6bcd21aeb36ef95cd7ed1b0b1b170de0
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.15.3.1		4634823fbb4f4a9b2d3ae3b153db1cb6d29eaf7b
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.15.4		d12692d441cbfeb21f480dc20c089b22f40d1816
+io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.15.5		a26492e840c5617ace40b168d3d60d7be3ecb819
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.16.0		425dd634e60f6d6953ca5ba2e94f85a92da7d71e
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.16.0.CR1		56fa492ff74f93a172a2490b4318f4a8e38872c2
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.16.1		40d61dd625e8602569c7eddef295152a4590a5b3
@@ -1865,6 +1877,7 @@ io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.2.8.Final		fa2fd7811ff54f
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.2.9.Final		341b8a3e497bb211e418cd111ca998c7764ea8ed
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.20.0		c91d8cec647825ef87dc3117d655ab005c2f4937
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.20.0.CR1		6633830ec375183858f90242035f27cb136a983d
+io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.20.1		aadbdcf35ccd7fc1a992cc0bdb537b615369aa65
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.21.0		03081a34aa728007d7346b11719eb320328ec4d8
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.21.0.CR1		ed4a89b56bcc908f89f3b158894c3301da4cc76a
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.21.1		a5e96555c59ae77be955a171546a2ee3502bc723
@@ -1874,6 +1887,9 @@ io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.21.4		a2092c106fd491db308
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.22.0		aecabd3bea993c3c56a2b76b297ceec8ea8f5569
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.22.0.CR1		632d6b173ae69358f0e4b0f070e265a08aceecae
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.22.1		b8930f55c56cfc3767c9388b81d64f38e5061e17
+io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.22.2		e8b0f81be9636d5cefe8d0125e67b9108aa419da
+io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.22.3		ba27f8d93865621ff1653f812c52e30f36dc30e7
+io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.23.0.CR1		e717a383a5b0701e0bb7d667da6a4ca06c76460d
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.3.0		dbc4687ec8f96cb128b11cb1635d2ce6a3adf27e
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.3.0.CR1		01deaad8770bb7e2277a81b7c7e203514783c789
 io.quarkus.resteasy.reactive	resteasy-reactive-vertx	3.3.1		19eee3254da21c830b96625f5b04a4bcc91152dc
@@ -2402,6 +2418,7 @@ org.apache.camel.springboot	camel-base64-starter	4.8.3		7c9b0a0fd2f7eaec2e81af8c
 org.apache.camel.springboot	camel-base64-starter	4.8.4		6aee1c7d53671d9a0c99ae9f2c22e58826514ef8
 org.apache.camel.springboot	camel-base64-starter	4.8.5		13a38d1cc611dcb616479012a8eff5751566cd75
 org.apache.camel.springboot	camel-base64-starter	4.8.6		329dc8c24e40720f2d2163565b347c7bb97f4fc6
+org.apache.camel.springboot	camel-base64-starter	4.8.7		22baeea7120315d5b4e65554b7b77798b79e28de
 org.apache.camel.springboot	camel-base64-starter	4.9.0		f46c61e5d2ba4955d0153bb3438c9b53e84c2211
 org.apache.karaf.jaas	org.apache.karaf.jaas.jasypt	2.1.0		fb55a61e1fd70da71ac61636eae759094bbe70a6
 org.apache.karaf.jaas	org.apache.karaf.jaas.jasypt	2.1.1		70cf02ce114ed494d871ec65f564c469f81e6073
@@ -3054,4 +3071,5 @@ software.amazon.awsconstructs	fargatessmstringparameter	2.83.0		361d3c080ed1368f
 software.amazon.awsconstructs	fargatessmstringparameter	2.84.0		d817494037a5af85623e34acdcd03963f0f829db
 software.amazon.awsconstructs	fargatessmstringparameter	2.85.0		c7ad9832c2c296ff3fed3ed3788722edd2358472
 software.amazon.awsconstructs	fargatessmstringparameter	2.85.1		ad9f09d273b694bddd9650131c4d787cec3eda1b
+software.amazon.awsconstructs	fargatessmstringparameter	2.85.2		d5d4a7de21814e9cf9015eb32734f212f9f7fed9
 software.amazon.awsconstructs	fargatessmstringparameter	2.9.0		fbea8ded21af1087e842e0553805129ec538f3df

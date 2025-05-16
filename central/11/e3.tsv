@@ -86,6 +86,8 @@ com.eygraber	vice-sources	0.0.4		66742188048cc3c3bf24ea4246efe85e86c1157b
 com.eygraber	vice-sources	0.0.5		c00d59c9a7b03e86480895da3780e53b98e822da
 com.eygraber	vice-sources	0.9.0		ac2f5ffc80597ddabd33658dd95ab3f7902694c8
 com.eygraber	vice-sources	0.9.1		ac2f5ffc80597ddabd33658dd95ab3f7902694c8
+com.eygraber	vice-sources	0.9.10		dce9edfa2cc2fa6514afac1757c7f3edc96f1007
+com.eygraber	vice-sources	0.9.11		dce9edfa2cc2fa6514afac1757c7f3edc96f1007
 com.eygraber	vice-sources	0.9.2		ac2f5ffc80597ddabd33658dd95ab3f7902694c8
 com.eygraber	vice-sources	0.9.3		ac2f5ffc80597ddabd33658dd95ab3f7902694c8
 com.eygraber	vice-sources	0.9.4		ac2f5ffc80597ddabd33658dd95ab3f7902694c8
@@ -1409,7 +1411,14 @@ com.yahoo.vespa	cloud-tenant-cd	8.511.14		c02b0ec4a094696f83125b3bef8671aef150c2
 com.yahoo.vespa	cloud-tenant-cd	8.512.63		450ec94c6f74f1b071d3615831cd7dc021ea92cd
 com.yahoo.vespa	cloud-tenant-cd	8.513.17		3608b503455db1fa8f29af92b9a2a1c1dbb494dd
 com.yahoo.vespa	cloud-tenant-cd	8.514.24		498338c4c93ed002591e101afa3f6b9d7f6d9dc5
+com.yahoo.vespa	cloud-tenant-cd	8.515.40		cd0f585037c3d9ee23bab9597b41ca192ef81daa
+com.yahoo.vespa	cloud-tenant-cd	8.516.26		923c15047e068b1d04e8271bd63f0298606cb298
+com.yahoo.vespa	cloud-tenant-cd	8.517.15		682190121ef9b7c2401336cb0016dcbd7468f5bf
+com.yahoo.vespa	cloud-tenant-cd	8.518.4		2272a102e931c1b9ee600726dfdf33d7f8079381
+com.yahoo.vespa	cloud-tenant-cd	8.519.55		09a658a844da9255cfd1ff7b29cd718a46b301f1
 com.yahoo.vespa	cloud-tenant-cd	8.52.15		13aadbe3b32f1f76a2be91da5a210025977e4609
+com.yahoo.vespa	cloud-tenant-cd	8.520.18		6493a4cfe8798815ae2cda2a9af7c70d059c85d6
+com.yahoo.vespa	cloud-tenant-cd	8.521.17		b8f18714c1179c8ee1a8eb669411d6f7fee1b22d
 com.yahoo.vespa	cloud-tenant-cd	8.53.21		22496e08a64e0011a2a3e68809582e6c30c42875
 com.yahoo.vespa	cloud-tenant-cd	8.54.61		c903e05c3277dc4147df57cc984a52c79d914fb3
 com.yahoo.vespa	cloud-tenant-cd	8.56.20		342a3a106c45a04ccf51b4c0ecff60cb5eb813d6
@@ -1623,6 +1632,7 @@ dev.zio	zio-aws-ssmsap_2.13	7.31.27.1		2a5daadbf0b517150663355e9d7090e0227403b0
 dev.zio	zio-aws-ssmsap_2.13	7.31.28.1		82fd6632ca16e7bd246aa50bcb1d47ec0b1c28eb
 dev.zio	zio-aws-ssmsap_2.13	7.31.3.1		82a3b4bd4414b461c8419ee9c9454822f1339caf
 dev.zio	zio-aws-ssmsap_2.13	7.31.30.1		fbb1d1ab8f57ca7f82a65acef2996c88175c8edb
+dev.zio	zio-aws-ssmsap_2.13	7.31.30.2		f8ac2a7887f54134055b03371587167581c11ced
 dev.zio	zio-aws-ssmsap_2.13	7.31.4.1		5a4b31fbfb5d595aa3dc3ec70b78cc75145d349c
 dev.zio	zio-aws-ssmsap_2.13	7.31.6.1		a3cfd34c76ff286608db1f2010f0f3728773d6f3
 dev.zio	zio-aws-ssmsap_2.13	7.31.6.2		c7b1adf1a93ffa09664967c3da0d167c26905d25
@@ -1720,6 +1730,7 @@ dev.zio	zio-test-sbt_2.12	2.1.14		37fe28834cf7fbd0a15491ee02e1bfb47a77c7b9
 dev.zio	zio-test-sbt_2.12	2.1.15		015ae9c0b27339df094ec4204a5e0d724d132acb
 dev.zio	zio-test-sbt_2.12	2.1.16		ac6b913408fbafe3ae3cd849a30632ad347e88b6
 dev.zio	zio-test-sbt_2.12	2.1.17		c2ce911d8499fdec7c46d6d01545cab50b688f24
+dev.zio	zio-test-sbt_2.12	2.1.18		fe7a3bd39fe98df08c23ebfdf62407f4ab6ffa12
 dev.zio	zio-test-sbt_2.12	2.1.2		8816ad4c939c8693567a046c630e1c5f49301c18
 dev.zio	zio-test-sbt_2.12	2.1.3		4bca57933bb0effd3136836b362ddba51273ea0c
 dev.zio	zio-test-sbt_2.12	2.1.4		f41e436764ef4ed2b07d9ac257b58a386b1200f6
@@ -1789,6 +1800,9 @@ io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.10		c0da7ce42729
 io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.11		f2a91d5f250f35f7a8e810f44efde1685e10be01
 io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.12		da6f06134e10728cf1befaa982cd82dc56fb8122
 io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.13		e3fe187811cc0ab9c92726fad6f58cec1d8a2552
+io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.14		66d96a31a99880f5694fd6e8ead3c61ce4ef6480
+io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.15		a0f046c5fa3e0f8161b18ae81887d59ad592a6a4
+io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.16		e491de4f7a94c86e10de7b6659334197e98bf34e
 io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.2		41d8f0195ab3eec0114bece7b994524409e68afd
 io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.3		ed7ae0c143f9691100288c479e85e8764e4ce669
 io.americanexpress.synapse	synapse-archetype-client-graphql	0.4.4		a15c537762c97a0d97bd7349a8d793d7c7c65c3e
@@ -2070,6 +2084,7 @@ io.helidon.security.integration	helidon-security-integration-common	4.1.6		34780
 io.helidon.security.integration	helidon-security-integration-common	4.1.7		5207225342c49889d4d1cdc2f57683042a4ec33c
 io.helidon.security.integration	helidon-security-integration-common	4.2.0		8006bc51592b84988c45d59120bb3e79fe62face
 io.helidon.security.integration	helidon-security-integration-common	4.2.1		3b499b482c0492d0f2e02f9a96709e66eff6c04a
+io.helidon.security.integration	helidon-security-integration-common	4.2.2		2d01995519dba40efd079c03deee4a9db4473ddf
 io.honnix	kheos-client	0.0.3		7cd72f901224df55739424064720dc9f539b2e19
 io.honnix	kheos-client	0.0.4		f782391bd25ad948ff541aeb2b9c8dbefdec061e
 io.honnix	kheos-client	0.0.5		a9feebea9f0e33f8d4b9282738a251e4692e6758
@@ -2537,6 +2552,7 @@ org.apache.camel	camel-quartz	4.8.3		aad0abfa9f953b8ea3681e1c7ee597fa1d8f8c4f
 org.apache.camel	camel-quartz	4.8.4		e801f05a8a0088cb3b88f74b2711c4147cd662dc
 org.apache.camel	camel-quartz	4.8.5		4818a18f60e3582bba74d55f96fcd1ed1fcf2139
 org.apache.camel	camel-quartz	4.8.6		1786aeb0bd1849e96591265ffedc03eddef4603c
+org.apache.camel	camel-quartz	4.8.7		85e0ed2ad9bcacde5462df35fc1a0d8893bcf3d2
 org.apache.camel	camel-quartz	4.9.0		cac960ba40b48db4deaf94769d4cb6a1bc7600c5
 org.apache.juddi	juddi-site-style	1.0		43db58d8f3029340afddf2f53864c705738f4024
 org.apache.juddi	juddi-site-style	1.0.1		93803082a85131f1425b4baa2fa87589569786c2
@@ -2648,6 +2664,9 @@ org.daisy.pipeline.modules	zedai-to-epub3	2.5.2	xprocdoc	1ac2cf2eeec9f850f1d5c96
 org.daisy.pipeline.modules	zedai-to-epub3	2.5.3		a9453bc536a4cf508f0a6ff187a361de0d746bd5
 org.daisy.pipeline.modules	zedai-to-epub3	2.5.3	doc	85089677fae3ac8d3a4b97fedeefbe370805d469
 org.daisy.pipeline.modules	zedai-to-epub3	2.5.3	xprocdoc	1ffcc0692936fab90671e266a2e6ec9a28a4ea2c
+org.daisy.pipeline.modules	zedai-to-epub3	2.6.0		93a53e9fc510595e74e87cb13b2c8aee5f0b8950
+org.daisy.pipeline.modules	zedai-to-epub3	2.6.0	doc	05dac8ab05896f8ec2fd91279a40a0b9e4d51669
+org.daisy.pipeline.modules	zedai-to-epub3	2.6.0	xprocdoc	03b2e671f00a0b9d346e478d63978e6585923cbe
 org.geomajas.plugin	geomajas-plugin-geocoder-gwt-example	1.0.0		N/A
 org.geomajas.plugin	geomajas-plugin-geocoder-gwt-example	1.1.0		N/A
 org.geomajas.plugin	geomajas-plugin-geocoder-gwt-example	1.15.0-M1		N/A
@@ -2961,6 +2980,7 @@ org.webjars.npm	font-awesome	4.7.0		309276dbcb8afe0482a1698a78b081b918e0e445
 org.webjars.npm	opentelemetry__api	0.8.3		67a7e5e0be8aa1cd40b2dbe5ba786d73f07eaf59
 org.webjars.npm	opentelemetry__api	1.0.3		9889f97cfe1d439296e2c9e8d2e5d30ce22a0f57
 org.webjars.npm	opentelemetry__api	1.1.0		411143c54981f78f98f7ae3e61500321f74f3fa2
+org.webjars.npm	opentelemetry__api	1.9.0		5bd8d29a867dcb97b15a5ba48d029f79bc502c29
 org.wildfly.plugins	wildfly-maven-plugin-standalone-tests	4.1.1.Final		971ba4900163abcd1d6b3d6135f67edeaa50e73f
 org.wildfly.plugins	wildfly-maven-plugin-standalone-tests	4.2.0.Alpha1		a26abc7dd02c92c73382ae899317bff7cf50ca59
 org.wildfly.plugins	wildfly-maven-plugin-standalone-tests	4.2.0.Final		3c836ac60c78060a6f5c447a7c21b9749821b5dc

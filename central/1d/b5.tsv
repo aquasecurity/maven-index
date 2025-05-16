@@ -121,6 +121,9 @@ com.github.ifrugal	just-schedule-it-core	1.0.20		ac4b461764e49c4b46b498ad206f99c
 com.github.ifrugal	just-schedule-it-core	1.0.21		56b83c1c603c60281bcc67a97ed9eb7a4e78af79
 com.github.ifrugal	just-schedule-it-core	1.0.22		0a0a3a4f318bb8075532940e1121ce25eea29c58
 com.github.ifrugal	just-schedule-it-core	1.0.23		ee4f781a7c4a6872e4e4743590c8da296fe89ab3
+com.github.ifrugal	just-schedule-it-core	1.0.24		46dbbb3b9b640ed753db88f08820fbc50e80c8b3
+com.github.ifrugal	just-schedule-it-core	1.0.25		8aeca58631d46c025f9db42e2bc69021af065656
+com.github.ifrugal	just-schedule-it-core	1.0.26		bfda0098cb7966a9edbeb9b533a6e72787e3ea2e
 com.github.ifrugal	just-schedule-it-core	1.0.5		d7a51aa3a09686c86a406ba7beea47147ba2460e
 com.github.ifrugal	just-schedule-it-core	1.0.7		1878d7ea449f8b13fe257841ece297e522b009b7
 com.github.ifrugal	just-schedule-it-core	1.0.8		8e4d070f13bcfe573197263c9b1e723e2a421136
@@ -1035,6 +1038,7 @@ io.hotmoka.cli	io-hotmoka-cli	1.2.3		1626f2eab8a7a0c85b86ee16351c461776fbe225
 io.hotmoka.cli	io-hotmoka-cli	1.2.4		407f8d8f3b009b23d5f23a295770c7acbbab9574
 io.hotmoka.cli	io-hotmoka-cli	1.3.0		fbb13ddb94b3b10d457902f38c9ba0963f088654
 io.hotmoka.cli	io-hotmoka-cli	1.3.1		ca3460e12ee12837ebc5deb40d6cf09490417a2f
+io.hotmoka.cli	io-hotmoka-cli	1.4.0		a99ce502584d74d91f7dac1321f9f3dc6973cb07
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	1.10.0-alpha		a1d73b73f5f9bb5d7b7c433221b0fe68d323eb22
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	1.10.1-alpha		65d0d06f00dae3c2058db8b2d6f431307d5307f3
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	1.11.0-alpha		2d09381a0e40d709ab9faf34427973c418b2daf2
@@ -1087,6 +1091,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-commo
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	2.13.3-alpha		8200de505fac7aa5784fb43167d409f17561aab1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	2.14.0-alpha		b253f4b8a7eb51f3cb4b23b781aa9c6ff83f75fb
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	2.15.0-alpha		15a400f5f00bc551baebe32fc27900ca1b751878
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	2.16.0-alpha		6982e8b470b1a393db9e9a7c9464f4b31d1dc560
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	2.2.0-alpha		bf9a1dc42de7d6d1ba6449a137a89e9c48a003f6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	2.3.0-alpha		140859bb2598bbf366af619b2aa677cb91f95416
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-common-bootstrap	2.4.0-alpha		3f6c0b709476f776f787e8890b3349ea80764ed8
@@ -1262,6 +1267,7 @@ org.apache.camel.springboot	camel-platform-http-starter	4.8.3		6ac209621affdf1d7
 org.apache.camel.springboot	camel-platform-http-starter	4.8.4		71868ca11ff379ecc2d23d6cae1c3f93d114341e
 org.apache.camel.springboot	camel-platform-http-starter	4.8.5		be50df2c32a1dd84b8c02eed86a515eb387c3aac
 org.apache.camel.springboot	camel-platform-http-starter	4.8.6		764e3495b066bd8fba126fd42c2efc963e32dfcc
+org.apache.camel.springboot	camel-platform-http-starter	4.8.7		638fed6f2515194cf0d903a1a94c9c56b17daf1f
 org.apache.camel.springboot	camel-platform-http-starter	4.9.0		5e37d300b6efc5c051dce46049ec7675bd21f498
 org.apache.hbase	hbase-logging	2.3.0		b1dc3c42235301fadcec318305feacc3490b5221
 org.apache.hbase	hbase-logging	2.3.1		45ba2be0d49830895ca59d7797c47be474a56726
@@ -1608,6 +1614,7 @@ org.opennms.features.enlinkd	org.opennms.features.enlinkd.api	33.1.2		a4613396c6
 org.opennms.features.enlinkd	org.opennms.features.enlinkd.api	33.1.3		870a4914714a3256eb6c2887e7d0c4c86b710861
 org.opennms.features.enlinkd	org.opennms.features.enlinkd.api	33.1.4		576cf28210932c0ba2be4e46c32af7a1e7b0e2bc
 org.opennms.features.enlinkd	org.opennms.features.enlinkd.api	33.1.5		52225ce84c25bc4ce48bcb00f11655bb48527832
+org.opennms.features.enlinkd	org.opennms.features.enlinkd.api	33.1.6		778c82b35f4478736c675206c6b6446cc8fc26d0
 org.polyvariant	better-tostring_3.3.0-RC5	0.3.17		fe5745faa4bbbaf7d03a926decd736d976bf3c58
 org.tomitribe	swagger2markup-extensions	2.0.0		970abdebdca07fef757bce4093b4b14a415a70ae
 org.vivoweb	vitro-languages-home-core	1.13.0		N/A

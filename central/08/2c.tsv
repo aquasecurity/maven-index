@@ -808,6 +808,7 @@ io.camunda	zeebe-msgpack-core	8.4.15		b0ddc3f214f052ddfecc13c4645ab1c8a7948081
 io.camunda	zeebe-msgpack-core	8.4.16		a50ef98748cf58022bd87b58f34e4d19bf5957f6
 io.camunda	zeebe-msgpack-core	8.4.17		90f9c6f852f52955dcdfee11e6658fb5094657e6
 io.camunda	zeebe-msgpack-core	8.4.18		3971a99e1201aab715fe19ee582eee0d70c1b5a2
+io.camunda	zeebe-msgpack-core	8.4.19		cb63e0144676be84c0c5b7f43f22ef5cfbbffe00
 io.camunda	zeebe-msgpack-core	8.4.2		c475eb2bb1963b27e6670484b05731e045973af7
 io.camunda	zeebe-msgpack-core	8.4.3		9f4f624ca1ddbcc8ed9c9fe52657b8899c08e92e
 io.camunda	zeebe-msgpack-core	8.4.4		71d96e79be43c2b8b739965fa642577418131925
@@ -830,6 +831,7 @@ io.camunda	zeebe-msgpack-core	8.5.14		b194a074b6b3cef1e7abe9abb5ae7828cdd71467
 io.camunda	zeebe-msgpack-core	8.5.15		1f6316295b5d432003e21879c123071e22418bd5
 io.camunda	zeebe-msgpack-core	8.5.16		add5fe80d4f4904c59f9c358418e2888f8fe6e3a
 io.camunda	zeebe-msgpack-core	8.5.17		e9cbd54869659782b69cfcdcfc31e660e72d6d59
+io.camunda	zeebe-msgpack-core	8.5.18		7845c39007d2a34e8d42f26d88c8883dad644684
 io.camunda	zeebe-msgpack-core	8.5.2		889af5835e68faf68c0cf517ac5c93aa355fd2ca
 io.camunda	zeebe-msgpack-core	8.5.3		e8a5c8f9221fd345d689465b908fc841069960da
 io.camunda	zeebe-msgpack-core	8.5.4		6a075adf6c302fb9551e5019005ff0c8ed78c4e6
@@ -867,6 +869,8 @@ io.camunda	zeebe-msgpack-core	8.6.12-rc1		65aa116847c5198542d22720817c8cbfae4ef3
 io.camunda	zeebe-msgpack-core	8.6.13		5dfd8acf5f6cdc9ce56e8e78950be62aa7d28c42
 io.camunda	zeebe-msgpack-core	8.6.14		56d6d789939a5a1364c2ca4a740d9bb896837e44
 io.camunda	zeebe-msgpack-core	8.6.14-rc1		67c1140416dc2f59ff09388324a828e6521b84ca
+io.camunda	zeebe-msgpack-core	8.6.15		d900e7830e830e94359f9dcac26a7e974eb67569
+io.camunda	zeebe-msgpack-core	8.6.15-rc1		d574f3007327ee07333fa0fe8115c4e0c882fbce
 io.camunda	zeebe-msgpack-core	8.6.2		561ebaa52c46fb4fdb4f6dea789b4cda64646dd6
 io.camunda	zeebe-msgpack-core	8.6.3		1cd7f41b6afb806a3521e3e25463a71cb2233976
 io.camunda	zeebe-msgpack-core	8.6.4		79c578ab8282746b09924c61f1d7c0d237fdebdd
@@ -902,12 +906,15 @@ io.camunda	zeebe-msgpack-core	8.7.0-alpha5-rc1		2c65c9a2f1ad9b2c074157ae5882285b
 io.camunda	zeebe-msgpack-core	8.7.0-rc3		332c9fb98a24a0bc3735285b468f127064e5b553
 io.camunda	zeebe-msgpack-core	8.7.1		155a1f292aa0c6cf09436afc54db4bc747537fb4
 io.camunda	zeebe-msgpack-core	8.7.1-rc1		d9a995af115da6e64899580b790fdb20808756b9
+io.camunda	zeebe-msgpack-core	8.7.2		6988fa4f898f0aab49b9ac06a6da0f196a6dfdfd
+io.camunda	zeebe-msgpack-core	8.7.2-rc1		aab5aae5680038870d04aaf7672f0ad8e41d68b2
 io.camunda	zeebe-msgpack-core	8.8.0-alpha1		b8a0e1746c4988672fbb2099aa3b5e9321074380
 io.camunda	zeebe-msgpack-core	8.8.0-alpha1-rc1		e19c127459f5990fa5a58580bbc136b8963579db
 io.camunda	zeebe-msgpack-core	8.8.0-alpha2		aee68e3c4dca591b5642fc21bae57a78b026e6e5
 io.camunda	zeebe-msgpack-core	8.8.0-alpha2-rc1		183eab136bde57e77326f4c57a1cf311fb1ab9bd
 io.camunda	zeebe-msgpack-core	8.8.0-alpha3		26cb4edfee55e4a3aef59a29046570680dfe3e6a
 io.camunda	zeebe-msgpack-core	8.8.0-alpha3-rc3		a05e589a13963a3d92d23c1ce1e8023eeed3f410
+io.camunda	zeebe-msgpack-core	8.8.0-alpha4		798576846023e3359f80e09dbcea9b39f2b8b8bc
 io.camunda	zeebe-msgpack-core	8.8.0-alpha4-rc1		b62dbf33fe7de7693a2abb5318988eb22bc3f7a7
 io.cardell	openfeature-provider-flipt_3	0.2.0		259baaa9a587ad5982366f80042c45d6f2196fc2
 io.cardell	openfeature-provider-flipt_3	0.2.0-RC1		e8fb76324bbb859b8f6b48aa130c303ab2190b80
@@ -1349,6 +1356,7 @@ org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.0.0
 org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.0.0-rc01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.0.1		N/A
 org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.0.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.1.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.1.0-alpha01		N/A
 org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.1.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.material3.adaptive	adaptive-navigation-uikitsimarm64	1.1.0-alpha02		N/A
@@ -1997,6 +2005,9 @@ tech.sparse	trail_sjs1_2.13	0.3.0		a7f2e41f9a2c15be8c330674e87735a2a9501ea6
 tech.sparse	trail_sjs1_2.13	0.3.1		79f749be6699d1d15f4d137f5e255be918418a3a
 tz.co.asoft	cinematic-live-kollections-iossimulatorarm64	3.0.15		N/A
 tz.co.asoft	cinematic-live-kollections-iossimulatorarm64	3.0.15	metadata	b041d84253c6c8f19c3f6380b0acfd8b4268fe89
+tz.co.asoft	cinematic-live-kollections-iossimulatorarm64	3.1.1	metadata	5ecd0b09d4b92e17a269fde8645e1cae42a01e85
+tz.co.asoft	cinematic-live-kollections-iossimulatorarm64	3.1.11	metadata	2472322bcc41be6500b7d7dfa093610e9fd72298
+tz.co.asoft	cinematic-live-kollections-iossimulatorarm64	3.1.12	metadata	3af616920be17e73d68e9742268e2433b96ea540
 uk.co.blackpepper.common	bp-common-query	1.1.0		83b51836a006b196d8dae4d68c838460aa1711bd
 uk.co.codera	codera-ci-tooling-service-api	0.0.1		250978274045c8159e42311aef953123ddc72733
 uk.co.codera	codera-ci-tooling-service-api	0.0.2		03c1e7e4db176649138a92dc96ade3370c01c7e6

@@ -650,6 +650,7 @@ dev.zio	zio-aws-databasemigration_2.13	7.31.27.1		86a940572812e8167b1cdd02a6db51
 dev.zio	zio-aws-databasemigration_2.13	7.31.28.1		4a7aa85eaa92cf25a256fb2bf7b87a9eac3dff33
 dev.zio	zio-aws-databasemigration_2.13	7.31.3.1		ea42d5b4c691ab2ab22f58eb2fbd6ce437e0cf24
 dev.zio	zio-aws-databasemigration_2.13	7.31.30.1		6f3d1a18edf76a792e5ebce2bd3d1cd2d1d94938
+dev.zio	zio-aws-databasemigration_2.13	7.31.30.2		97d89b3664a9830dc2ade0d0a6d8b5c688c0ec64
 dev.zio	zio-aws-databasemigration_2.13	7.31.4.1		257a0a4c9c871ff786777986a39eed405e039415
 dev.zio	zio-aws-databasemigration_2.13	7.31.6.1		2bfbddd9a0320175777d29b7efd883b8ac802419
 dev.zio	zio-aws-databasemigration_2.13	7.31.6.2		f075e54d155d9ebe8e7d1702e284ddbb3ac8b3f1
@@ -744,6 +745,7 @@ io.quarkus	quarkus-rest-jsonb-common	3.15.2		ea55184728126df4773c99164e62b76c9e4
 io.quarkus	quarkus-rest-jsonb-common	3.15.3		8572530da684f6a1d3edd85b987c7527d99d3593
 io.quarkus	quarkus-rest-jsonb-common	3.15.3.1		a1dee2271055a33d3dc9c5af187afe91108572fa
 io.quarkus	quarkus-rest-jsonb-common	3.15.4		8b50b1c5c76145e52cb1a9cea06379e05c3f523b
+io.quarkus	quarkus-rest-jsonb-common	3.15.5		c3bc753c1e5c76620cc1cdeab38a1a7884d6393a
 io.quarkus	quarkus-rest-jsonb-common	3.16.0		9769a02671d6abbf3205d138090321a7ff5672c8
 io.quarkus	quarkus-rest-jsonb-common	3.16.0.CR1		5201e641bd13db91db1c2f3fe5d67b0720fc22cf
 io.quarkus	quarkus-rest-jsonb-common	3.16.1		7f85962e1c1a8ebc288ff3759c9afc5460a28eae
@@ -774,6 +776,7 @@ io.quarkus	quarkus-rest-jsonb-common	3.19.3		a30ecb2ba5cc94449f035c02f459707dad7
 io.quarkus	quarkus-rest-jsonb-common	3.19.4		b8545aa1eaae51d99110318813ed363c993e7759
 io.quarkus	quarkus-rest-jsonb-common	3.20.0		f79387b6ef9adfe58ed79e1f18929e3a5a0b0a13
 io.quarkus	quarkus-rest-jsonb-common	3.20.0.CR1		769788d8b46c97b0e0dd2b1b39e80fc7ec85a3cc
+io.quarkus	quarkus-rest-jsonb-common	3.20.1		9bf8df1833f03a3dee71cb71f93797c16a1bc998
 io.quarkus	quarkus-rest-jsonb-common	3.21.0		9c132c1d071d02c35ba7a28cef5ad8048d76b95c
 io.quarkus	quarkus-rest-jsonb-common	3.21.0.CR1		d10b5c36f066d2a2a8a997a660c76d8cc0dd35bd
 io.quarkus	quarkus-rest-jsonb-common	3.21.1		b96ba70d7b14a5c059ede0bc03e9099c28bb4187
@@ -783,6 +786,9 @@ io.quarkus	quarkus-rest-jsonb-common	3.21.4		9a4b74d1910729b7763a4df84947fa46281
 io.quarkus	quarkus-rest-jsonb-common	3.22.0		94291c56d4f1f21ebdf6ec86a26beb64830e97ae
 io.quarkus	quarkus-rest-jsonb-common	3.22.0.CR1		d4e1170bf72dbdcf31e2a3951e9c1ceb2925c649
 io.quarkus	quarkus-rest-jsonb-common	3.22.1		4f8169e23156f16e4e9ef2b79b2bd1e21b35585e
+io.quarkus	quarkus-rest-jsonb-common	3.22.2		9e88b018b4fe33ed3233d6d80615383fc184da66
+io.quarkus	quarkus-rest-jsonb-common	3.22.3		1078ffd655e3c5c4d1f7a994a5e35c56e3bad4c8
+io.quarkus	quarkus-rest-jsonb-common	3.23.0.CR1		a2415f8fd1e5c38d2231e87fa2a9654ac6be320a
 io.quarkus	quarkus-rest-jsonb-common	3.9.0		0849d243f55e86d4b81ba1793ba85ae4ecf8ab71
 io.quarkus	quarkus-rest-jsonb-common	3.9.0.CR1		58703b7ca79873f896f2f33e10c4db5eae4a24fd
 io.quarkus	quarkus-rest-jsonb-common	3.9.0.CR2		0282959f2a95480bbf1abee98cec4fb95756c5ba
@@ -939,6 +945,7 @@ org.apache.camel.karaf	camel-itest-osgi	3.9.0		b9ecfdc0cb9f8b6a0a87e7940b07c971a
 org.apache.jcs	jcs	1.3		a57f28046697e7a8effacbc6378ff0a210b21f93
 org.apache.tuscany.sca.samples	helloworld-jsonp	2.0		4d49b81709ae82379a3dd87917becdeb0a4edbd7
 org.apache.tuscany.sca.samples	helloworld-jsonp	2.0-Beta3		e7eb7fa73a3aa11ff4c2aaa1c54c9ccc11b3c8b2
+org.apereo.cas.api.cas-server-core-api-web	5.0.0.RC2	api		107a2040eca8095d6cf03453e5c3964d623ea4ed
 org.easyrules	easyrules-samples	1.1.0		c2a43c45d1ccb52997ac68b8b0e8fecfd98dabdb
 org.easyrules	easyrules-samples	1.2.0		15aa96fabd6d3659261635ca727f51ffed50bb2b
 org.easyrules	easyrules-samples	1.3.0		e830db1de046901ba19a8f0f89c81c139625664b

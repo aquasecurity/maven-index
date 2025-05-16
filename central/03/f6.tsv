@@ -221,6 +221,8 @@ com.aliyun	aiccs20191015	2.2.1		bfe1608dfe1bf0fd87c1667b7fdeb21e22f54f65
 com.aliyun	aiccs20191015	2.2.1	shaded	d652a6cd808a2a50eaa56cdc8f20732a56bd7022
 com.aliyun	aiccs20191015	2.2.2		c7ed7dcc846aaad964fa0d69c598849dfefe0e03
 com.aliyun	aiccs20191015	2.2.2	shaded	d564ab98a7b952efa64b0ae4fa43cc76e33df849
+com.aliyun	aiccs20191015	2.2.3		2a99531c1c4e359bd779e1c45b98bad8b095bb30
+com.aliyun	aiccs20191015	2.2.3	shaded	9426064f9e7ab5f887f7857e5197c67ec85d114c
 com.anaptecs.jeaf.services	jeaf-system-management-services	1.5.0		07e42c6f577ad45c69815c73f7a48b0bf5c131c8
 com.anaptecs.jeaf.services	jeaf-system-management-services	1.5.1		10227499233add9b2af6bc7a4914faf42f7a55bb
 com.anaptecs.jeaf.services	jeaf-system-management-services	1.5.2		2a446689c43083962cfa984587752b77c49791bf
@@ -1360,6 +1362,7 @@ dev.holt	cats-js-clipboard_sjs1_2.13	0.5.0		d804ed59858540d687967d908ca0a86cbe72
 dev.opensavvy.ktmongo	bson-tests-jvm	0.13.0		2261438c16cbaf2fa8a5d0215d9b900946b18225
 dev.opensavvy.ktmongo	bson-tests-jvm	0.14.0		c0ffb32b3b97d33a7fcb390e16fd59f427b5711f
 dev.opensavvy.ktmongo	bson-tests-jvm	0.15.0		3872f88f02501fc4bc424fb860a57ecbdc765492
+dev.opensavvy.ktmongo	bson-tests-jvm	0.16.0		b29706a7bef6ae8f797efc13e16ce78d2beac0ad
 dev.whyoleg.cryptography	cryptography-random-wasm-js	0.3.0		N/A
 dev.whyoleg.cryptography	cryptography-random-wasm-js	0.3.1		N/A
 dev.whyoleg.cryptography	cryptography-random-wasm-js	0.4.0		N/A
@@ -1853,6 +1856,7 @@ org.apache.tika	tika-serialization	2.9.0		81291ec83af4e2388305cf0f88da401230a7f1
 org.apache.tika	tika-serialization	2.9.1		05f7e12205c958e025b9106eb5f9f7627baf6194
 org.apache.tika	tika-serialization	2.9.2		bb042b458ed065c0421b1d6ace25d1611ab8c6fe
 org.apache.tika	tika-serialization	2.9.3		76fc31e9aca05852e49487ea0de7416c576b15e0
+org.apache.tika	tika-serialization	2.9.4		abbc96d284335e6b842fe7c8b41c03dd9608b980
 org.apache.tika	tika-serialization	3.0.0		c71aefd8ab8647cb8872701eba6e05862f7ddb8e
 org.apache.tika	tika-serialization	3.0.0-BETA		8115f972382f36d76c5775a5cd3778e8dca1c648
 org.apache.tika	tika-serialization	3.0.0-BETA2		25d1e9c1632da8102f976b87af796633318d98da
@@ -3556,7 +3560,18 @@ software.amazon.awssdk	kms	2.31.30		4c86674ea67e76499590d1b3ff00efe3ee4c434e
 software.amazon.awssdk	kms	2.31.31		3ede9a162a3507bcdae8652844bc5efced57818a
 software.amazon.awssdk	kms	2.31.32		3edb2cd342d4ba45583289cc5d35a2e9c646486a
 software.amazon.awssdk	kms	2.31.33		d5423e95793dcb27d7726dbcf054ffdacff822ad
+software.amazon.awssdk	kms	2.31.34		ae7cb1b7ff93d2cf3e54f33b417656b5e9ce75b0
+software.amazon.awssdk	kms	2.31.35		b4dc5ff5ed8b47db444e9493ee08e49d2e848b77
+software.amazon.awssdk	kms	2.31.36		7d2242477e012f32fc252075775cdbca54bb76b3
+software.amazon.awssdk	kms	2.31.37		eb16d1dd1e72cf83e3c190a00635f6b4d0e10e96
+software.amazon.awssdk	kms	2.31.38		8e30ce8557bd5a672fb0567898507fb9fd4d3a1d
+software.amazon.awssdk	kms	2.31.39		ea477313d65468a38c1c4cf349c0654db42c8f29
 software.amazon.awssdk	kms	2.31.4		df481f31ee7ff37eae325b06501e11d826744735
+software.amazon.awssdk	kms	2.31.40		3b6822edd1efbd14cb90c940e86f6e432ee02107
+software.amazon.awssdk	kms	2.31.41		43f34fa37635668b6b8f1978e84edeb6cf8b56a9
+software.amazon.awssdk	kms	2.31.42		bc6de867a1cd3e21f63b4e71f510b7d117f774e2
+software.amazon.awssdk	kms	2.31.43		7eb0f0790bac804dd02051af5541506a224b7308
+software.amazon.awssdk	kms	2.31.44		6ca87983ab02e44ab188543a8a1ab3b418c59eba
 software.amazon.awssdk	kms	2.31.5		6f6df80c70183616a255eb256497bef0da8ac6e4
 software.amazon.awssdk	kms	2.31.6		fa82c0198ad48c5a69f7400140ff233f8d066ff9
 software.amazon.awssdk	kms	2.31.7		3090c666f9c17effeb84589767f8e24bce9557f3
@@ -3748,3 +3763,6 @@ tz.co.asoft	response-ktor-client-macosx64	3.0.14		N/A
 tz.co.asoft	response-ktor-client-macosx64	3.0.14	metadata	6c14080eaa777f11d1f57ea5373dceefbe621dca
 tz.co.asoft	response-ktor-client-macosx64	3.0.15		N/A
 tz.co.asoft	response-ktor-client-macosx64	3.0.15	metadata	5eaff8d584cb00b21195fbbf58ecb018a861d034
+tz.co.asoft	response-ktor-client-macosx64	3.1.1	metadata	2e1fbb8907503edf3c8875da9b045ed630d3b225
+tz.co.asoft	response-ktor-client-macosx64	3.1.11	metadata	3c2b55410ac09a4ac2844bf32bfab4986591246b
+tz.co.asoft	response-ktor-client-macosx64	3.1.12	metadata	327e9f2ad37ffd397a85e7af7bd51367614dd50b

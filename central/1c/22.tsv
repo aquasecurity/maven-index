@@ -9,6 +9,7 @@ cn.futuai.open	spring-boot-api-encrypt-example	1.1.0		4f88828c2bbf6bdea7ad5d1cbb
 cn.t	sms-util	1.0.7-RELEASE		1380ad61ba1e463d2d13880ec9e3a69aeb567781
 co.early.n8	n8-core-watchosx64	2.0.0-rc.1		N/A
 co.early.n8	n8-core-watchosx64	2.0.0-rc.1	metadata	884780eb51f92ec639ffbb81ef891687c296e128
+co.early.n8	n8-core-watchosx64	2.0.0-rc.2	metadata	3e7ec662285793ca2df6f683cfdec9e13c6bc5f2
 com.aoindustries	aoserv-credit-cards	1.0.0		f8f46911e0f0e651146c588495324b3ad600200a
 com.aoindustries	aoserv-credit-cards	1.0.1		95523c601d1d8e4d1244e4785df748012c8de7e1
 com.aoindustries	aoserv-credit-cards	1.0.2		dcb318fe5bc6fc3b87a1088651b6021c240f806e
@@ -191,6 +192,11 @@ com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-33-c98221		b4aa12c3f447e9f
 com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-39-4c3eb7		3e00f53068056cc89a9da91349e8858651a60444
 com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-41-b39ce4		7e54b74b8c6eb33484b6f5b821e2fc4d4041351e
 com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-42-a720c3		f309793b654a93bdba60ccae6af90486dbbe3ffe
+com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-51-773072		8c3896dd151418f00149ddf3e7979dfcfba911a1
+com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-56-51ca83		edf7c84d4ea60d09a6bb9ec1c6052a4b42b746bc
+com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-57-7578c2		efcf16d8ef044d3c081a491c924de50c748885b5
+com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-59-17fa7b		3aa78e8b685ae1d4e1cc94cdd17e4f9f3de015b9
+com.lihaoyi	mill-libs-scalajslib-worker-1_3	0.13.0-M2-74-132761		74117692383781e61f25a6b6a42e6b40a9157854
 com.manyangled	coulomb-physical-constants_2.13	0.5.5		5ce7f2e7bc55adca114ee26321516e9fb26a250e
 com.manyangled	coulomb-physical-constants_2.13	0.5.6		93284cbd4ac5b02c24247fbb5212d3b78c48c22d
 com.manyangled	coulomb-physical-constants_2.13	0.5.7		9d3a0816015c369229d8b944bca29e805d0248bc
@@ -1591,6 +1597,7 @@ org.apache.camel.springboot	camel-xmpp-starter	4.8.3		5462a31773811399ea4c609d5a
 org.apache.camel.springboot	camel-xmpp-starter	4.8.4		42db1903adff5fd7225de1190f45c1efa64af322
 org.apache.camel.springboot	camel-xmpp-starter	4.8.5		347fe65ebcd8837220e5128949fefe54c1f17fe8
 org.apache.camel.springboot	camel-xmpp-starter	4.8.6		ef433bb46df166f10974ccd4117f7c4af32d2d22
+org.apache.camel.springboot	camel-xmpp-starter	4.8.7		a363935bce97b3b709f20fa084872132e54a40d2
 org.apache.camel.springboot	camel-xmpp-starter	4.9.0		5b879d0ba489f9dac6d2527378355ab303bfca3e
 org.apache.directory.server	apacheds-installers-maven-plugin	2.0.0-M10		fcc4a48b4b45695f790116d378aacde71a4f0522
 org.apache.directory.server	apacheds-installers-maven-plugin	2.0.0-M11		bef03bb3da745a167eac3780b56781c824463134
@@ -1744,6 +1751,18 @@ org.erlang.otp	jinterface	1.6.1		1e92c78781b580b30ac3eb560d347c0d14b58148
 org.everit.http	org.everit.http.client.parent	1.0.0		N/A
 org.geckoprojects.messaging	org.gecko.adapter.mqtt	1.1.0		DD5499587AFD4BFDAC4E968E569B82CA2803A5D1
 org.geckoprojects.messaging	org.gecko.adapter.mqtt	1.1.1		E3C05F5F22DDF86ACBE028C16A2DF543F58EF142
+org.hammerlab.sbt	js_2.12_1.0	1.0.0		92c2cfdbd31232999ea30b3d111d033f8c8f58a8
+org.hammerlab.sbt	js_2.12_1.0	1.1.0		2cb8366ec71e9bc4c27653e9c1ab7548bb31f68c
+org.hammerlab.sbt	js_2.12_1.0	1.1.1		aa9eb4d36743df20c510c87621b5a47408c14d5f
+org.hammerlab.sbt	js_2.12_1.0	1.1.2		660efa1ad10773df998d7ba760eb574814ecf055
+org.hammerlab.sbt	js_2.12_1.0	1.2.0		cf4a43d4bfd32ff576584984750a961e897b0d0b
+org.hammerlab.sbt	js_2.12_1.0	1.2.1		5e1037d1b5a11c752647246ead72d895e95e9099
+org.hammerlab.sbt	js_2.12_1.0	1.2.2		24b7ab06387154cf96dbb8420f98477f150d8ac9
+org.hammerlab.sbt	js_2.12_1.0	1.3.0		e1db0f1aec5b94f070ebe676b9fe18e1b0b98baf
+org.hammerlab.sbt	js_2.12_1.0	1.3.1		a754dca495cb9fdf9e94e89173248596ecda868c
+org.hammerlab.sbt	js_2.12_1.0	1.3.2		96b4d9db20cd9060d8b82e0fe80717e190b1ad4b
+org.hammerlab.sbt	js_2.12_1.0	1.3.3		1ae57c96f818f37c7d4c0dd1ddafa978c1c3f7bf
+org.hammerlab.sbt	js_2.12_1.0	2.0.0		2509bbf9ab2489136708be1236ff33be58fdd2b7
 org.icefaces.samples	chat-portlet	4.0.0		N/A
 org.icefaces.samples	chat-portlet	4.1.0		N/A
 org.icefaces.samples	chat-portlet	4.1.1		N/A
@@ -1874,6 +1893,7 @@ org.scala-js	scalajs-dom_sjs1.0.0-M1_2.10	0.9.3		5f839814e7409d82c7273a10de4fcfe
 org.scala-js	scalajs-dom_sjs1.0.0-M1_2.10	0.9.4		03080715d3ca5b275bb7c0bd4435853ce669a44b
 org.scalameta	mtags_3.1.3-RC1-bin-20220317-17e46ad-NIGHTLY	0.11.8		9c4b408eeeb3a1f043f1be426453f126448451a3
 org.scodec	scodec-testkit_sjs1_2.12	1.11.10		75c7fdeb7828b212eca336584e05b34dcefa0b7e
+org.scodec	scodec-testkit_sjs1_2.12	1.11.11		223479052114bc7659ec26d46194a27f9edf8a81
 org.scodec	scodec-testkit_sjs1_2.12	1.11.5		56703a84873c8660c0b2258e83af9b88306443a6
 org.scodec	scodec-testkit_sjs1_2.12	1.11.6		0d0980c80596c8d7e5499b35c47cb71d11d94218
 org.scodec	scodec-testkit_sjs1_2.12	1.11.7		7f4bc437b11b89ad71a5c6f5b893cf39e245bd9f
@@ -2087,6 +2107,9 @@ software.amazon.awscdk	amplify-alpha	2.190.0-alpha.0		a148133e31d9ff83bf9fe0722d
 software.amazon.awscdk	amplify-alpha	2.191.0-alpha.0		60128645349d1aa6bc3bea2a4923128146ee5da7
 software.amazon.awscdk	amplify-alpha	2.192.0-alpha.0		dbc8156f541d622c9563f003b3ab1e1b696a0281
 software.amazon.awscdk	amplify-alpha	2.193.0-alpha.0		38cbbe94f0fd1d469a9845ead08df8b23832ae1e
+software.amazon.awscdk	amplify-alpha	2.194.0-alpha.0		4094d0e750443ac4e5037f9c2f439cc744ce2ec6
+software.amazon.awscdk	amplify-alpha	2.195.0-alpha.0		f59abef96b7c48db72b01c0c8bb6df929b081b56
+software.amazon.awscdk	amplify-alpha	2.196.0-alpha.0		4766b3856855482cc77c4106d9404068b25a9e72
 software.amazon.awscdk	amplify-alpha	2.2.0-alpha.0		56a470d974210715f847ff6f083892203bc2743f
 software.amazon.awscdk	amplify-alpha	2.20.0-alpha.0		3341d02fa1e2cc037bf3d124f9e02841d1e0d8af
 software.amazon.awscdk	amplify-alpha	2.21.0-alpha.0		deec8b0cc77ecd8a09c1cd05898eef8637e205e0
@@ -2216,6 +2239,8 @@ tz.co.asoft	captain-url-watchossimulatorarm64	2.0.18		N/A
 tz.co.asoft	captain-url-watchossimulatorarm64	2.0.18	metadata	8dc5d0e6a462ab89f55e7541d3903e7392adb6bb
 tz.co.asoft	klip-system-iossimulatorarm64	3.0.15		N/A
 tz.co.asoft	klip-system-iossimulatorarm64	3.0.15	metadata	962e2349bed42a78f71a62aff0fe92e59ea24b3d
+tz.co.asoft	klip-system-iossimulatorarm64	3.1.1	metadata	f67dcf5114bdf8db4b6249c30e39a2f4c5e8681e
+tz.co.asoft	klip-system-iossimulatorarm64	3.1.11	metadata	c63ff7137960f755f205646a1a83b05cc319c9ff
 tz.co.asoft	koncurrent-executors-core	2.0.16		69123a2ad7a8977d4bb99bbb24160e264aa54ed7
 tz.co.asoft	koncurrent-executors-core	2.0.17		904ef1a794e5ce5110e4272e2537731210dca673
 tz.co.asoft	koncurrent-executors-core	2.0.18		904ef1a794e5ce5110e4272e2537731210dca673
@@ -2233,3 +2258,7 @@ tz.co.asoft	koncurrent-executors-core	3.0.6		0b58225106315f3ed9975d264ce032d15da
 tz.co.asoft	koncurrent-executors-core	3.0.7		7991dd0d9cec48633e9f3a4da8e6bdf0c56fe04e
 tz.co.asoft	koncurrent-executors-core	3.0.8		e60c29ef5af99947b5f1f22f90b35527975d908b
 tz.co.asoft	koncurrent-executors-core	3.0.9		e60c29ef5af99947b5f1f22f90b35527975d908b
+tz.co.asoft	koncurrent-executors-core	3.1.0		d8c9eaf9074fd761bc502a72a411227822e5364b
+tz.co.asoft	koncurrent-executors-core	3.1.1		d8c9eaf9074fd761bc502a72a411227822e5364b
+tz.co.asoft	koncurrent-executors-core	3.1.11		d8c9eaf9074fd761bc502a72a411227822e5364b
+tz.co.asoft	koncurrent-executors-core	3.1.12		d8c9eaf9074fd761bc502a72a411227822e5364b

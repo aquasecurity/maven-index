@@ -23,6 +23,7 @@ ai.djl.sentencepiece	sentencepiece	0.30.0		b9d809c4cfd2f445c7232cf8d4d65d4520248
 ai.djl.sentencepiece	sentencepiece	0.31.0		69903ddf19abc098153fcfcadb70546880871473
 ai.djl.sentencepiece	sentencepiece	0.31.1		9c36fd405d1fd201b4a48800dfad650a576d38d3
 ai.djl.sentencepiece	sentencepiece	0.32.0		24b02841b8e3e3edd7f9b3a79551eabb6535acb4
+ai.djl.sentencepiece	sentencepiece	0.33.0		2796bbdb0cc4cd75c6e1e8f7b59978c54c3f33e2
 ai.djl.sentencepiece	sentencepiece	0.7.0		45956ea63e6193af274463bcc52d876b08322495
 ai.djl.sentencepiece	sentencepiece	0.8.0		a641d6ea22f3238c862d5a829ae005ed1fc96b76
 ai.djl.sentencepiece	sentencepiece	0.9.0		d36b55980d25aa2fa63caef1d29d48f0e431604c
@@ -230,6 +231,7 @@ com.github.docker-java	docker-java	3.4.0		74afcd1d3ca458e8adfc9fa910cd8467187230
 com.github.docker-java	docker-java	3.4.1		cb24a6465c0049d7e349c7a3543c6480beb6d2b1
 com.github.docker-java	docker-java	3.4.2		4f57ed3d8aec49f3fc0e294b37f79dfc30fc5479
 com.github.docker-java	docker-java	3.5.0		8dffe9792c9820a08ca04e718faa0c54cbba5848
+com.github.docker-java	docker-java	3.5.1		b6964b42f6aaa0e032213a7bf470c08a76bbcace
 com.github.hburgmeier.jerseyoauth2	jersey-oauth2-api	0.7		330845362f6e9decd5670eb61a8f280a424450c0
 com.github.hburgmeier.jerseyoauth2	jersey-oauth2-api	0.8		8dffef5551629b54fd01fd1f5bc261f4bf583433
 com.github.kutzilla	marlin-commons	1.0.0		e22582ac7988d1487988f0950344b2c2a7461835
@@ -574,6 +576,7 @@ de.jensklingenberg.ktorfit	ktorfit-lib-tvosx64	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-lib-tvosx64	2.5.0	metadata	a63a071aaffc15900e9be9b45d970ce83454e06b
 de.jensklingenberg.ktorfit	ktorfit-lib-tvosx64	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-lib-tvosx64	2.5.1	metadata	4730530ff8439b44c5f9db2e97207d9873731dd8
+de.jensklingenberg.ktorfit	ktorfit-lib-tvosx64	2.5.2	metadata	de692d6c0eefbb4f74ecfc2eba67056086c6c226
 dev.hnaderi	lepus-data_3	0.0.0		6a5c6d8616ef6f073c5b858dc44e59c66ea98e2e
 dev.resteasy.grpc	gRPCtoJakartaREST-archetype	1.0.0.Alpha5		2d3595b962bb564856699d1b84333679f1cdee94
 dev.resteasy.grpc	gRPCtoJakartaREST-archetype	1.0.0.Alpha7		264127946b14bed32c96b682f69566f46d0455f3
@@ -917,12 +920,17 @@ io.fabric8	kubernetes-openshift-uberjar	7.1.0		f3ce54689a9ae9a310b941f69c54e1dd9
 io.fabric8	kubernetes-openshift-uberjar	7.1.0	versioned	9b020d561ba05d463ff3e4a34f670310c982de5f
 io.fabric8	kubernetes-openshift-uberjar	7.2.0		757f0a1787d7a14c97521e912100e1b5fdf6a9d7
 io.fabric8	kubernetes-openshift-uberjar	7.2.0	versioned	f3c34a946d368bd59c28cce5658e34f32b8816c2
+io.fabric8	kubernetes-openshift-uberjar	7.3.0		d36271467b97a3ef6a89cc996bb2d2fc67d17817
+io.fabric8	kubernetes-openshift-uberjar	7.3.0	versioned	50493beb5d256c968a7b7a8c45248f00b6782c37
 io.github.jiaonliao	cavatar-spring-boot-starter	0.0.1		159ed5b542ff70a591ebbe314f68514b746b04cc
 io.greptime	ingester-rpc	0.11.0		3395f1e9de7ad4891beca3dd77a3ebb83271c858
 io.greptime	ingester-rpc	0.12.0		add1c82885b3b1e2463c4048aefe177d9761e45a
 io.greptime	ingester-rpc	0.12.1		f00e2e48bef3f781eae2ad40717da726c15f3e50
 io.greptime	ingester-rpc	0.12.2		43c322ecd1e4a0b5e1767699ed60065ad28ea6ea
 io.greptime	ingester-rpc	0.14.0		57519d0e39073f8e23666e5df1dc400a1e7f8058
+io.greptime	ingester-rpc	0.14.2		c83dc1a4470aef6fa96658a70811f8e49fae0f45
+io.greptime	ingester-rpc	0.14.3		994cb4f647bb3442c73047f1960a589d5a5a096c
+io.greptime	ingester-rpc	0.14.4		af0676f6cc6f5846c7bb1685e159e382811a0962
 io.greptime	ingester-rpc	0.5.0		b414da6c3a517ad948d86f895b45c7bda586d881
 io.greptime	ingester-rpc	0.5.1		f2c8a0d04d8f771b0930c4249b155a5e58688504
 io.greptime	ingester-rpc	0.7.0		ff7824fbf9ac5d817350e872cf7e0e0ea443bd5a
@@ -1093,6 +1101,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.13
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.13.3-alpha		7367d2962a6e4c8c5b1a7a89f5f2a85cef507ad0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.14.0-alpha		df9f482fdcefd29c1a5cb8237778138673f89ca2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.15.0-alpha		71e65ed82b8275e18ad3191104e650f11ba31b16
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.16.0-alpha		3491b7285032bae833e002b0c5c8863cf459f376
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.2.0-alpha		69d6c4896635ec6ae020868b94db90ee00d2920d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.3.0-alpha		735881feaa31fb1a7bd068caffca6a8695b4f4e0
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-c3p0-0.9	2.4.0-alpha		08aa47de7c3e26b8780ee9e2414f1ef70ccb9fc9
@@ -1366,6 +1375,7 @@ org.cxbox	cxbox-model-core	4.0.0-M13		9c0e6081a6a1c12acc3814ecd8cb3b5641460f49
 org.cxbox	cxbox-model-core	4.0.0-M14		443a020c359a52b0195088bca45555ea1bcabc05
 org.cxbox	cxbox-model-core	4.0.0-M15		9865072bcd3869dc07e14e4b00e03d6b557a5d5a
 org.cxbox	cxbox-model-core	4.0.0-M16		24354b52a2b75fd2e262d92bd4fa810b37208992
+org.cxbox	cxbox-model-core	4.0.0-M17		736c4f9aec553a03165f48465d96003b8c1e9e6c
 org.cxbox	cxbox-model-core	4.0.0-M2		c96b332ce66b04c03dac12057858089e1a11f0ce
 org.cxbox	cxbox-model-core	4.0.0-M3		40e798420d49aece6289d8097eb06b4105ef32ca
 org.cxbox	cxbox-model-core	4.0.0-M4		196fe68408936cb10ddf4b7ba5233b4091863acf
@@ -1433,6 +1443,8 @@ org.graceframework	grace-plugin-core	2023.2.0-M3		2106026b4d9c84bc633e6a86fff8fc
 org.graceframework	grace-plugin-core	2023.2.0-RC1		b1ca6028f2f8d57f761f448c61385c93b2bc7f76
 org.graceframework	grace-plugin-core	2023.3.0-M1		076ac12e34ba7d6798d0e1af57c08707186fd506
 org.graceframework	grace-plugin-core	2023.3.0-M2		870179b16fac8ef0bf8f5cfdeacd7fd891861236
+org.graceframework	grace-plugin-core	2023.3.0-RC1		5f5f224f624474e4442b514e1acc35d18c11ce54
+org.graceframework	grace-plugin-core	2023.3.0-RC2		d2c89bf15b27992556b0007f7e516b581bf72c71
 org.hawkular.apm	hawkular-apm-dist	0.10.0.Final		N/A
 org.hawkular.apm	hawkular-apm-dist	0.11.0.Final		N/A
 org.hawkular.apm	hawkular-apm-dist	0.12.0.Final		N/A

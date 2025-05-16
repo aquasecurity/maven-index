@@ -434,7 +434,16 @@ aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.73		6451bda8144ffb9ac8241ec91152c7f49bf36e
 aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.74		f71bf1624d94d18bc0f8cc869074826a60710d5f
 aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.75		cb9c3b1a5df16f4455b4ece50fa77c7dbf0f7427
 aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.76		3b2e9a86f209da1b24a998d33ca44683037e1071
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.77		e24d1a716ff5e1a430127c05a7c49f6818e453fd
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.78		ce444d6d088d5f189632244284c1a8e244d1da50
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.79		ff260efb450369cb0a3e215a80b2a77eede4fd06
 aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.8		2d64c3dde8f5715b50a3392c2d2d8c8d22c41adb
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.80		05d8c9de4c0fc2031da493026f85baa65ab34c02
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.81		d3b0467bc4b3bc27ae7240457ae84206935dff1c
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.82		d62882a95070f2aaba4e82a955c71fe59035c5e6
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.83		af3cb0ba28d606b7ac41745cf317ab475ca674e0
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.84		bf48d9057cf0dbf7799e86ac4a2960d50586bbf2
+aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.85		ce7445c90cda5220df1b4a163f86877c0febcbd7
 aws.sdk.kotlin	cloudwatchlogs-jvm	1.4.9		56cfb11ad0baa9efb3e3510b77094d61a87ba75c
 br.com.softplan.security.zap	zap-client-api	1.0.1-0		6a3dd2209fc4314c6db5e430222fcd3a32462ff2
 br.com.softplan.security.zap	zap-client-api	1.2.0-0		cdf4c6386a3b9d099003def8e54ab2b75f3a601f
@@ -1332,6 +1341,7 @@ com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.17.8		b78dce6e38ea9368e7c307
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.17.9		33f776812b1f18f9b6db21a0c7b51bb3faa1f7dc
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.0		5a0a4e5772de39075387d7d94fc48cbda99d4ab0
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.0-1-19acfb2		639165cefdf230686bc78c1c3179992614e6dae9
+com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.0-1-26737b4		849458eec3a49abdbd8c9efa4b569279957e21c9
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.0-1-5a26ba3		8e91029295acdd30bf7440aaa3a327d4f49c18c7
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.0-1-8d943ab		1d6f5aca6030aeac06fc762c29ad5e11c50088b7
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.0-1-b0aa866		2fca1f88b745c9a5a46057b63612a8e1f1ba4691
@@ -1458,6 +1468,7 @@ com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.31		e668cbd66587572e2f020
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.32		7cd1a428b71ab8931aa09a3977cf65d323bf53cf
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.33		90f36fee13dda8f3b927e0c2f680a3b604219628
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.34		d71fa987c702aa5e09716509ec407583de846914
+com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.35		219754cd0e410b9971b03b96417b32f97393ae8a
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.4		7b20f53a27f8326b350397429f851bb9b2adbb93
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.5		372f2f67ecfcf18bf65f8cd4b50943d90a103122
 com.disneystreaming.smithy4s	smithy4s-http4s_2.12	0.18.6		9dd56445a1edb2b9ee351e59f0a08a4402ba9699
@@ -1754,6 +1765,8 @@ com.launchdarkly	launchdarkly-java-server-sdk	7.6.0		9dff3521681ad50bb3bbb4eef18
 com.launchdarkly	launchdarkly-java-server-sdk	7.6.0	thin	528296cfb0fc0db8e67b97ce1853cae877ed121c
 com.launchdarkly	launchdarkly-java-server-sdk	7.7.0		549556bb861251b3f49cee77551a172aa9643945
 com.launchdarkly	launchdarkly-java-server-sdk	7.7.0	thin	87fbfbaf4f034e51aa5c3c029db9926b2010cf44
+com.launchdarkly	launchdarkly-java-server-sdk	7.8.0		8b91d7d3fc4426feb767d543936f02bec8deacb5
+com.launchdarkly	launchdarkly-java-server-sdk	7.8.0	thin	ce1575bd4c869e7e3478318a54bb657598d22b9f
 com.nryanov.genkai	genkai-aerospike-zio_2.12	0.3.0		ee4c7cfa97e9adf6f620c6fd0341ddbcd54c9089
 com.nryanov.genkai	genkai-aerospike-zio_2.12	0.3.1		6afd52d71d654fdd198d1f11f7834de7bd245fd9
 com.nryanov.genkai	genkai-aerospike-zio_2.12	0.4.0		3325375b65e07fe4dcd4128b73712147bf0ccd4a
@@ -2365,6 +2378,7 @@ org.openforis.collect	collect-base	3.26.36		4bf212215a6f0337945c0525bdd931f9518d
 org.openforis.collect	collect-base	4.0.0		e228cd2d5623dc48d915901099a334db3c1e38ef
 org.openforis.collect	collect-base	4.0.1		b555e62da8ea2f61f4c0fec70367e4730bacea64
 org.openforis.collect	collect-base	4.0.10		543897fbfe7e4ff632f1f5cb50f8b9007b8dbebc
+org.openforis.collect	collect-base	4.0.100		2649a4e5ba8b14f8a4b8a249c8a64baaa7170918
 org.openforis.collect	collect-base	4.0.11		e6c6646d70984242dc37996a688797a024c75cf2
 org.openforis.collect	collect-base	4.0.12		d1e686bcd5c9fd71e21c6b0dd737bcc167b2387e
 org.openforis.collect	collect-base	4.0.13		cfd9db71b090c010b9af234b6f70852b7d73c55a
@@ -2460,6 +2474,7 @@ org.openforis.collect	collect-base	4.0.95		acbf443b7150aeef18bd1a5d85225087f2dc9
 org.openforis.collect	collect-base	4.0.96		50c0119f742870d631a24636dfe505a24be3c2ad
 org.openforis.collect	collect-base	4.0.97		8cec1e4c30220321f442b67a4643983fc42b49cf
 org.openforis.collect	collect-base	4.0.98		923dfa734ae72129e2dc388790f7c16eeab7188d
+org.openforis.collect	collect-base	4.0.99		e13097d7e883c690636aab791b1c5c2b188acd9a
 org.openmole.gridscale	example-qarnot_3	2.50		100488e25bb25626ed978e9fb2af4c6fcf8438d6
 org.openmole.gridscale	example-qarnot_3	2.51		929b4cdb2c8990bbd6263e7de76a29a9e2ed2d7b
 org.openmole.gridscale	example-qarnot_3	2.52		303df2a0492a9a630ecd6eb7a71d3f5d57917bf7

@@ -144,6 +144,7 @@ com.agorapulse	micronaut-aws-sdk-kinesis	3.3.8		f9eb5ef8797892bd593a7875f67e5089
 com.agorapulse	micronaut-aws-sdk-kinesis	3.3.9		5991fe3dc69224d1536a750f01c4b23980cb8c7b
 com.agorapulse	micronaut-aws-sdk-kinesis	3.4.0		5c251f295d40953a23aea50a393060dca1d305a2
 com.agorapulse	micronaut-aws-sdk-kinesis	3.4.1		dd80d77697fe0f0a12b9a028efda9df751ef8351
+com.agorapulse	micronaut-aws-sdk-kinesis	3.4.2		9becf3bfcdabbbf11fb4a7aa26d8c560ebea3c84
 com.audienceproject	crossbow_3	0.2.0		d9ca44dde2b0dcc92f637d3ac53c234eb0b3a3c2
 com.audienceproject	crossbow_3	0.2.1		edefec7a248c59790b5fbae86cdf4486683238e7
 com.azure	azure-maps-geolocation	1.0.0-beta.1		6ce5d747a819ac5bcfd19e744f85400f40cf2c15
@@ -222,6 +223,7 @@ com.google.cloud	google-cloud-vmmigration-spring-starter	4.10.6-preview		d32bd92
 com.google.cloud	google-cloud-vmmigration-spring-starter	4.10.7-preview		bc60f93ae21e6ed6f013b2c5ea248465c1e97d25
 com.google.cloud	google-cloud-vmmigration-spring-starter	4.10.8-preview		d1e8b3e8efb7adc7f6e3aa77365da836e42dfbab
 com.google.cloud	google-cloud-vmmigration-spring-starter	4.10.9-preview		0b29bde203963b5702994ecafcec4b405d8e64c1
+com.google.cloud	google-cloud-vmmigration-spring-starter	4.11.0-preview		14cd33e35f117f9c9acf3ec0c9484a595bc98e1b
 com.google.cloud	google-cloud-vmmigration-spring-starter	4.2.0-preview		72dd8982c17231cda6952f18ec60caf29092b7da
 com.google.cloud	google-cloud-vmmigration-spring-starter	4.3.0-preview		992f76a1a82a8206a568594cf44232d8e06fe249
 com.google.cloud	google-cloud-vmmigration-spring-starter	4.3.1-preview		e3d5988de54912a8ea8e1aeb22df47c93dffa807
@@ -253,6 +255,7 @@ com.google.cloud	google-cloud-vmmigration-spring-starter	5.11.0-preview		cb4b004
 com.google.cloud	google-cloud-vmmigration-spring-starter	5.11.1-preview		9394dfc94efa9ccf9971d36b23b923872b3bd9fe
 com.google.cloud	google-cloud-vmmigration-spring-starter	5.11.2-preview		0f054581682d8ce96c66397737f00a50fac0aeef
 com.google.cloud	google-cloud-vmmigration-spring-starter	5.11.3-preview		8c4c8a35699154422cf18a4ef070c50724ea0c91
+com.google.cloud	google-cloud-vmmigration-spring-starter	5.12.0-preview		7f73d674062607e228203c444cd28704b4e6f10e
 com.google.cloud	google-cloud-vmmigration-spring-starter	5.2.0-preview		44bce4b1cc124c4ce4a965dc6a40d7fd0d6cea55
 com.google.cloud	google-cloud-vmmigration-spring-starter	5.2.1-preview		d353d397f3abcc33368b97b8f49533b809a0674f
 com.google.cloud	google-cloud-vmmigration-spring-starter	5.3.0-preview		935adcf523baef007e8394a4e81771bbab2399be
@@ -807,6 +810,7 @@ io.swagger.parser.v3	swagger-parser-v2-converter	2.1.23		3515d3f1709395fb1dee4e5
 io.swagger.parser.v3	swagger-parser-v2-converter	2.1.24		044427792f08592cf5c2330b764a6bc8dbb5e22b
 io.swagger.parser.v3	swagger-parser-v2-converter	2.1.25		0c9e18786cf9aa1d22625c3bab2f4d6e211209eb
 io.swagger.parser.v3	swagger-parser-v2-converter	2.1.26		1072aff38e714dfade56b606d77812fb061f345b
+io.swagger.parser.v3	swagger-parser-v2-converter	2.1.27		65b0dd3a84edec95c419345949c3fe5ab1d48b16
 io.swagger.parser.v3	swagger-parser-v2-converter	2.1.3		05dfda2bbf35b9ddac2bd04f44b2691682a0d12e
 io.swagger.parser.v3	swagger-parser-v2-converter	2.1.4		25def63e909666533ae61d6fee39daf0736dc889
 io.swagger.parser.v3	swagger-parser-v2-converter	2.1.5		1bf5fe287fee0b75025a72e476418ef1c0e042b0
@@ -1004,6 +1008,7 @@ org.apache.camel.springboot	camel-minio-starter	4.8.3		269b2482181ece054b8175187
 org.apache.camel.springboot	camel-minio-starter	4.8.4		ee9df39ad7192e04656d196a4860ffefa4eddf45
 org.apache.camel.springboot	camel-minio-starter	4.8.5		cee131fade29430e449b318ff83fba353b084873
 org.apache.camel.springboot	camel-minio-starter	4.8.6		20008fc765804b9dbdc0c2f938fc8dbb83afc97e
+org.apache.camel.springboot	camel-minio-starter	4.8.7		f78f3240b9c1396edc4020d750fde3570b6ecd05
 org.apache.camel.springboot	camel-minio-starter	4.9.0		6bd6502a589ffb86639425d698cae282206eade1
 org.apache.geronimo.configs	jaxws-tools	2.1		97dd75f5665fc2e02e2e38a5c49bea1d54041e49
 org.apache.geronimo.configs	jaxws-tools	2.1.1		9a70eba5997997da42fdd5f4a269dc82ae2ce658
@@ -1086,6 +1091,19 @@ org.eclipse.dirigible	dirigible-components-ui-editor-security	11.41.1		d3698d22e
 org.eclipse.dirigible	dirigible-components-ui-editor-security	11.42.0		f8578ea696c90d9e269879b58dad0a14c341d286
 org.eclipse.dirigible	dirigible-components-ui-editor-security	11.43.0		7d7b95bcf70d0e6d647fcaa5b856b8d212c9be41
 org.eclipse.dirigible	dirigible-components-ui-editor-security	11.44.0		b4cacbde1a07e6adb0c88a10455c0d0bb3c7941b
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.0		b7d4afaf4e5dcdb102fb69527e5b16cdb428ea1d
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.1		2568463d5710f8f634c8a1b0c92b2f47c7d7b726
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.10		474dc27dbf64e4426e95033f0552640ad0b25de4
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.11		07229671990edb669fe7a279daf1e24059d954fb
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.12		b982d557e657851eac27a69b5ad3fe9c15e9c9d0
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.13		1c351e981af3860ebb46aa70f3406deeea3cdd03
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.3		e8656e46fd1672e9dcfa587e059274d440ff7fa1
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.4		2f54321e17e8cf5fecab35b85d4401c9c1e84092
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.5		ca46f03849dae37a9097b6a558d3bb55e967b043
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.6		ef83b7f06628c313a0b14b7b071933a678a075ce
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.7		8be5925fcd8fd5d8704503a38f0c5c394894e9a3
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.8		1bc161d08b09b0596da0fe94bb8d8fea53304d0c
+org.eclipse.dirigible	dirigible-components-ui-editor-security	11.45.9		aae92e5e46dca4b7d54a79def1adf02f510b23af
 org.eclipse.dirigible	dirigible-components-ui-editor-security	11.5.0		2c5efc85f6bd0445e9f162753ce83a1625278187
 org.eclipse.dirigible	dirigible-components-ui-editor-security	11.6.0		8699f93534b5c7f16a901d3199f42184b8901c35
 org.eclipse.dirigible	dirigible-components-ui-editor-security	11.6.1		5d8572d97ba41909f30e80365bcfb1be79e67fe8
@@ -1136,6 +1154,8 @@ org.graceframework	grace-web-gsp-taglib	2023.2.0-M3		a86d90a67747ede6b84bd9cb01b
 org.graceframework	grace-web-gsp-taglib	2023.2.0-RC1		0ac3f62e7e9a64c8160d1761202e7854a9a58321
 org.graceframework	grace-web-gsp-taglib	2023.3.0-M1		078b09689efdad2665dd2e50f1df64584f7d20e4
 org.graceframework	grace-web-gsp-taglib	2023.3.0-M2		6f1e15664b715e306209cecba0f5e7a490a8d8b0
+org.graceframework	grace-web-gsp-taglib	2023.3.0-RC1		cc3180f17d4d1b38cc05edffb5f6b566afb4c354
+org.graceframework	grace-web-gsp-taglib	2023.3.0-RC2		83013c76f9b497ba718dab4afa65cefe4ab0cc76
 org.http4s	http4s-blaze-client_2.11	0.10.0		e4770747c0728d64a59ace18866e202b0ea8ff3d
 org.http4s	http4s-blaze-client_2.11	0.10.1		5e26ffadc63d3908eaa70b052fb3cf6735a77e6a
 org.http4s	http4s-blaze-client_2.11	0.11.0		864d146c4b5092158826f711f8f73b2bc6ea9b7b
@@ -1362,6 +1382,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-tvosx64	0.6.1		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-tvosx64	0.6.1	metadata	1de5430493b5b51ba0034058fec05886f52e7b1f
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-tvosx64	0.6.2		N/A
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-tvosx64	0.6.2	metadata	8878f6c5bf5dcfdbf7bb557db309576aa950e9bc
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-logging-tvosx64	0.7.0	metadata	381dc942b45d5fe5ff050bd85bbff69fbd95690a
 org.kie.modules	org-jboss-as-clustering-common-main	6.1.0.Beta1		N/A
 org.kie.modules	org-jboss-as-clustering-common-main	6.1.0.Beta2		N/A
 org.kie.modules	org-jboss-as-clustering-common-main	6.1.0.Beta3		N/A
@@ -1760,6 +1781,7 @@ org.talend.sdk.component	checkbox-component	1.78.0		f59c024626cde7a2251b51b40a8c
 org.talend.sdk.component	checkbox-component	1.78.1		d58d6a58cc2fa4ab68fa4c721602f2cc9662ecf6
 org.talend.sdk.component	checkbox-component	1.79.0		1f08f33cd389abe5e82bc05c61ef65718e61025a
 org.talend.sdk.component	checkbox-component	1.80.0		917b390ccc7d2735f54340fb6648081b49b7c777
+org.talend.sdk.component	checkbox-component	1.80.1		42785644e9a97abcdf110d66718c5d3d75448bc0
 org.talend.sdk.component	checkbox-component	10.57.0		674e2f52a5bf7c0afb8f126de59472b5b90d13a6
 org.typelevel	cats-effect-testkit_sjs1_3.0.0-RC2	3.0.1		d185cef0694c54d396b131772999c233a7b1b287
 org.typelevel	cats-effect-testkit_sjs1_3.0.0-RC2	3.0.2		64d4ba702c86c56634b9c0f861c414db57ee0600
@@ -2635,7 +2657,18 @@ software.amazon.awssdk	evidently	2.31.30		50d6b4cc06950173ea7c475a0b931714889b86
 software.amazon.awssdk	evidently	2.31.31		9ac634c721fdd2758fdfab70f36b35327dc0d2e2
 software.amazon.awssdk	evidently	2.31.32		3c478516b21a03fb82ee1ebf43c608e0d49370af
 software.amazon.awssdk	evidently	2.31.33		eaab8c2f3114dd8ef7d282c5a43d0dff4c6fa717
+software.amazon.awssdk	evidently	2.31.34		cbdcc5e6c07914bc30b007d9fc1c309898d6b74c
+software.amazon.awssdk	evidently	2.31.35		4a50690d2c185652c2d1b5061ec72d0bf652257d
+software.amazon.awssdk	evidently	2.31.36		9dc20540fa7312ab787cb92353d8a498039fabb5
+software.amazon.awssdk	evidently	2.31.37		39b855b3684123eeee6bb4bba60b0e0a793cdbbc
+software.amazon.awssdk	evidently	2.31.38		444c102ddff32b5b10a9340eec7ab36c264e0081
+software.amazon.awssdk	evidently	2.31.39		62d295210793724f0ac5746bd45fd504e2cda297
 software.amazon.awssdk	evidently	2.31.4		36edac26ce3d6bbbb68d3b4eade893717ea863e6
+software.amazon.awssdk	evidently	2.31.40		f8e70003889f23f200cb359916accf40c4d7da79
+software.amazon.awssdk	evidently	2.31.41		d0336b5b2580dd869f2aee559f43994c3d800f01
+software.amazon.awssdk	evidently	2.31.42		9b61a7616bcda54f2b2a80ef76e3743330b633d6
+software.amazon.awssdk	evidently	2.31.43		e1a109bae79aecf8ce455e58a61fb7be79435905
+software.amazon.awssdk	evidently	2.31.44		e6b56828778274b5263030c85ff83f5168fa4d2b
 software.amazon.awssdk	evidently	2.31.5		d00bc401208a829bb331ecd824b3ae6db59b5bca
 software.amazon.awssdk	evidently	2.31.6		f22ee2fee41d6b864591e726e5d4e42ddb89a6a2
 software.amazon.awssdk	evidently	2.31.7		15d352a95843d95c7c48ead52c214430b49536d8

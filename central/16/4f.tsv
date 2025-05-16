@@ -79,6 +79,7 @@ com.basistech	adm-json	3.0.1		5eb67506af512517f99ef80bd50e5ab913116110
 com.basistech	adm-json	3.0.2		3d00f4d1870e076488a801ad20cddc21db9b4c38
 com.basistech	adm-json	3.0.3		781dc5fb35769bf07b142c21d1d1ea1ffa56c766
 com.basistech	adm-json	3.0.4		cb16b2ddfb1544b99eaeb99c42250de2f3865fb2
+com.basistech	adm-json	3.0.5		43d00e693ca2be4b42f7949e818057fedd1c0b42
 com.blazebit	blaze-notify	1.0.0-Alpha1		N/A
 com.blazebit	blaze-notify	1.0.0-Alpha2		N/A
 com.blazebit	blaze-notify	1.0.0-Alpha3		N/A
@@ -1006,6 +1007,8 @@ com.vaadin	vaadin-jandex	23.5.12		c186e87c14a15b225eeec581d2fe3c04138c6656
 com.vaadin	vaadin-jandex	23.5.13		3170410605df2aa072cc9968483fc08f027b1ee5
 com.vaadin	vaadin-jandex	23.5.14		3fa4cf4bf29a3b8594214bcad55997c4da4d073d
 com.vaadin	vaadin-jandex	23.5.15		0dbd8b0769d67a2c4f47f20e5c1efefddaed61aa
+com.vaadin	vaadin-jandex	23.5.16		11fe465ff9ac08a79d3e69d9dc9e397c731ae44a
+com.vaadin	vaadin-jandex	23.5.17		c5f95a869aa38b081d533214d822ccb140e8201a
 com.vaadin	vaadin-jandex	23.5.2		b1c9f082739c9cfc3914f6b3eae7a69fbf0e0d46
 com.vaadin	vaadin-jandex	23.5.3		b89a4523ac681ab2e6ab18c2be74b3279b0eea0a
 com.vaadin	vaadin-jandex	23.5.4		b23beb1f16291f4cae439179cfd1c406e812e58a
@@ -1120,6 +1123,7 @@ com.vaadin	vaadin-jandex	24.5.8		5e74e8789e0c99611781b1812794d3a32b58a364
 com.vaadin	vaadin-jandex	24.5.9		d58a4be07089a05728da8401999b19a7b60159c5
 com.vaadin	vaadin-jandex	24.6.0		43f7f753d132b50ea736b6177fea87ee1d5ef35e
 com.vaadin	vaadin-jandex	24.6.1		d67409f4135c7fb26667c218101c5bc491397c1d
+com.vaadin	vaadin-jandex	24.6.10		9c27d3ed457192cea7a2f12c8aef858a793e02e1
 com.vaadin	vaadin-jandex	24.6.2		968728cdb4fd19ee3694d3fc1522526b863d6371
 com.vaadin	vaadin-jandex	24.6.3		873eee51fb6152ed96a594bd7ce312a0e7b1d0aa
 com.vaadin	vaadin-jandex	24.6.4		d7ebb66548abf8d1574fd08427ab379062599b3a
@@ -1132,6 +1136,7 @@ com.vaadin	vaadin-jandex	24.7.0		b9dc29389267671e3d4a1820f91c145aea2035fa
 com.vaadin	vaadin-jandex	24.7.1		426094576be14954f9edc5881cfbb2da1ffc14db
 com.vaadin	vaadin-jandex	24.7.2		65ac0e99d1c8405a5b84519a204b8a35f371f5e8
 com.vaadin	vaadin-jandex	24.7.3		04eb14611f0624abaa5366a2376a7e65946d51e1
+com.vaadin	vaadin-jandex	24.7.4		14a43bbb9a25bec4552ba106f6f2d7b48a0e6458
 com.vladimirlichonos.rxactions	rxactions	0.1.0		N/A
 com.vladimirlichonos.rxactions	rxactions	0.1.1		N/A
 com.yodo1.common	sensor	1.0.4		N/A
@@ -1678,6 +1683,7 @@ io.ktor	ktor-client-call-id-androidnativex86	3.0.3		0303d335ae93225c697628d39c9e
 io.ktor	ktor-client-call-id-androidnativex86	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-client-call-id-androidnativex86	3.1.1		fede44b0f1487dd925915b259a422d3750f6e495
 io.ktor	ktor-client-call-id-androidnativex86	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-client-call-id-androidnativex86	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 io.micronaut.micrometer	micronaut-micrometer-registry-new-relic-telemetry	3.3.0		fbf5eb5cfe2719197da00f0525c1066443022189
 io.micronaut.micrometer	micronaut-micrometer-registry-new-relic-telemetry	3.3.0-TEST		2cf8145de04e24cf6e328d1c44449a8c83390930
 io.micronaut.micrometer	micronaut-micrometer-registry-new-relic-telemetry	3.4.0		f3da055a495eb2bae59d36cbf0db31c96d1d3a32
@@ -1902,6 +1908,7 @@ org.apache.camel.quarkus	camel-quarkus-asn1-parent	3.9.0		N/A
 org.apache.pekko	pekko-persistence-jdbc_2.12	1.0.0		15ef45ba2c1e1562886ef17dcddef44740677395
 org.apache.pekko	pekko-persistence-jdbc_2.12	1.1.0		c22a37b7fb42dee8f974a296306c11ee0ef7998f
 org.apache.pekko	pekko-persistence-jdbc_2.12	1.1.0-M1		ca7c43836273986aee756149949bcfe37739c41b
+org.apache.pekko	pekko-persistence-jdbc_2.12	1.1.1		054470ef7d87ead03dd75c2658c734770d4dbcc7
 org.eclipse.debug	ui	3.2.1-v20060823		c6ddec3de1ce5ed5edc4f7cf96f6e5b736e97c2c
 org.eclipse.debug	ui	3.3.0-v20070607-1800		277881a0220a3c9ff812d615e5eea9eb2ea67209
 org.fusesource.fabric.fabric-examples.fabric-camel-dosgi	features	1.0		3a6e52031ca2ba1206d3b8895ca3f5c6226e74b1
@@ -2517,6 +2524,7 @@ systems.manifold	manifold-image	2025.1.10		5cb76543d0487c49afc89262bb0b1f8ee1961
 systems.manifold	manifold-image	2025.1.11		242ed35808d1dcd5e827346ce21bf09ccb0eaf5b
 systems.manifold	manifold-image	2025.1.12		9a0f7ccf95f7e1e5ac10e1b9cc756df67f986614
 systems.manifold	manifold-image	2025.1.13		f149bea19433ead53dcffda85d762598ba60649e
+systems.manifold	manifold-image	2025.1.14		569e80cc1b28a6df55b78a41526cf231769103e4
 systems.manifold	manifold-image	2025.1.2		a045b686d4ff21c230a127a41732e43b5dd2bf7b
 systems.manifold	manifold-image	2025.1.3		2cb2d43b4864e334b6a639fe3f29796d02781533
 systems.manifold	manifold-image	2025.1.4		2bc08141c4afa1f2c5e217d4c1be6156b82878a3

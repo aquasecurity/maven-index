@@ -95,6 +95,7 @@ app.lexilabs.basic	basic-logging-watchosarm32	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-logging-watchosarm32	0.2.5-beta01	metadata	5108732b08a7d5826f73bd02ec04c9dac4f75df7
 app.lexilabs.basic	basic-logging-watchosarm32	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-logging-watchosarm32	0.2.5-beta02	metadata	d1b95308aaa79bd1555cd48dac0adfbe3eba3c4b
+app.lexilabs.basic	basic-logging-watchosarm32	0.2.6	metadata	c65727592f33a3b3adc9b028c5f22fbbc8e82e98
 app.lexilabs.basic	basic-logging-watchosarm32	0.2.6-beta01		N/A
 app.lexilabs.basic	basic-logging-watchosarm32	0.2.6-beta01	metadata	ea1446d256afc0e8679c3edc1a04b2a585b4b648
 app.lexilabs.basic	basic-logging-watchosarm32	0.2.6-beta02		N/A
@@ -348,6 +349,7 @@ dev.zio	zio-aws-medicalimaging_2.13	7.31.27.1		a7970d546f048b9caf262d2851a6448ac
 dev.zio	zio-aws-medicalimaging_2.13	7.31.28.1		9bd4a007e02e03ef1bfe9630a1e304575906a552
 dev.zio	zio-aws-medicalimaging_2.13	7.31.3.1		94a49056fbebc4255156f8f30185429c3f9d6999
 dev.zio	zio-aws-medicalimaging_2.13	7.31.30.1		c2a16628c53f0c31808e1765574373cdbc8b8b3f
+dev.zio	zio-aws-medicalimaging_2.13	7.31.30.2		123c25739acac04337451dd87ce7e3811e9bb18d
 dev.zio	zio-aws-medicalimaging_2.13	7.31.4.1		4ab8b9ce71383962fdd08f0cc1e4f68d9437ceb8
 dev.zio	zio-aws-medicalimaging_2.13	7.31.6.1		35232f3bff50c3e6554a27eca517a4b9f8060b66
 dev.zio	zio-aws-medicalimaging_2.13	7.31.6.2		218f4938218eb00211ba5b6276a0062c19902166
@@ -796,6 +798,9 @@ io.insert-koin	koin-test-tvossimulatorarm64	4.0.4		N/A
 io.insert-koin	koin-test-tvossimulatorarm64	4.0.4	metadata	4655a4cb14b501c2511dc65707ff8cf83106cf46
 io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta1		N/A
 io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta1	metadata	a069e4b7279511c1d1105d329fca98197114c856
+io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta10	metadata	4e359c7828108df6d573259e537db55df66a063b
+io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta11	metadata	089ae87033aa310de0d639fecefc188d9590f8ab
+io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta13-KTOR-EAP	metadata	851a8c07695e57a178523bb1e0d65447d598c8f3
 io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta3		N/A
 io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta3	metadata	e4361c73e0d22fc21612e8c3d4d0f449cfdbfc86
 io.insert-koin	koin-test-tvossimulatorarm64	4.1.0-Beta4		N/A
@@ -869,6 +874,7 @@ io.ktor	ktor-server-cors-jvm	3.0.3		976804c8ba61ebecf306b5fe123ee4e8b3c5407f
 io.ktor	ktor-server-cors-jvm	3.1.0		621471e2de33cecdc1eb9ab7cd5b66db9a258836
 io.ktor	ktor-server-cors-jvm	3.1.1		3dc6fc88e9865c5251559fba1b198627fd493430
 io.ktor	ktor-server-cors-jvm	3.1.2		c5da1fa1c1873655c5f305856d42852de752a7e6
+io.ktor	ktor-server-cors-jvm	3.1.3		bd23c7275a7a721f2455946d5ed4d903a289fbf3
 io.mosip.kernel	kernel-notification-service	1.0.7		12a479bc26717b3fd5875fed01e1e6b6c0c98fde
 io.mosip.kernel	kernel-notification-service	1.0.7-rc1		b286dabaddf766fed771dba035098b1b1bef2737
 io.mosip.kernel	kernel-notification-service	1.1.2		d44240ffef8df04368deeb1664c63432717e87b4
@@ -1110,6 +1116,7 @@ nl.vpro.pages	pages-rs-services	8.7.1		d602e9a795155694f6d52246f418c4967e09c0ee
 nl.vpro.pages	pages-rs-services	8.7.2		af8462e74cfd614b451695d26858a77c66402bcd
 nl.vpro.pages	pages-rs-services	8.8.0		e2efe14ce4aca0d7f6538d74efc7c53f581fd535
 nl.vpro.pages	pages-rs-services	8.8.1		1beda99b076a10faa5b42b5e7f29ad2956711537
+nl.vpro.pages	pages-rs-services	8.8.2		528253454e70c80b4dfcf398ad614ae23d0d07b3
 org.apache.beam	beam-sdks-java-io-hcatalog	2.1.0		9eff460a3420d3fc2e65cdff0e815e194aaaf70f
 org.apache.beam	beam-sdks-java-io-hcatalog	2.10.0		d3389ed46fa650cd48c7ea6c2b28534a07480af4
 org.apache.beam	beam-sdks-java-io-hcatalog	2.11.0		c5dfb22c243bbb60fa230c0b128b5607c3296b16
@@ -1173,6 +1180,7 @@ org.apache.beam	beam-sdks-java-io-hcatalog	2.61.0		4044ba628b42584245100827fe773
 org.apache.beam	beam-sdks-java-io-hcatalog	2.62.0		c78ee11b1684ed771b11192deadd058581629534
 org.apache.beam	beam-sdks-java-io-hcatalog	2.63.0		de5f468e0670ab330be357fee856fee23d10fd0d
 org.apache.beam	beam-sdks-java-io-hcatalog	2.64.0		005ab4d7177c11eb63c633e3df07bfc7ff1216c3
+org.apache.beam	beam-sdks-java-io-hcatalog	2.65.0		8c238a9ee9f19f583d46d1202331da5017592c2b
 org.apache.beam	beam-sdks-java-io-hcatalog	2.7.0		2fb7b5e456e5f4f8ba92cdadc68114b065ea0de2
 org.apache.beam	beam-sdks-java-io-hcatalog	2.8.0		d4b6bc0a08767da7e8a4c750665d767330d1223e
 org.apache.beam	beam-sdks-java-io-hcatalog	2.9.0		7e34074a3e34015e49e41b4ec9b84046259ab7bf
@@ -1364,6 +1372,7 @@ org.apache.camel	camel-pgevent	4.8.3		becebac70f8c50fad4343d29ca151e635df58a99
 org.apache.camel	camel-pgevent	4.8.4		c6c078b0089fde5ce07c4f2e46b24bef693387f4
 org.apache.camel	camel-pgevent	4.8.5		4c3296ab5b1625ff4c1a009a1c201392356367b9
 org.apache.camel	camel-pgevent	4.8.6		36c1e065e28f6ec3b570928a86d6c992ff638f4d
+org.apache.camel	camel-pgevent	4.8.7		731fd4ff84815e3ffc3446c7913d85d8eaed1fd7
 org.apache.camel	camel-pgevent	4.9.0		71d4ac63f64c31e2c72b163335ff460e5e09dce2
 org.apache.iotdb	pulsar-example	0.12.0		ff2b1f4526902021acb6c3d2e4dc3ced0ef80572
 org.apache.iotdb	pulsar-example	0.12.1		b719a399b4d7770a116171cef6a2f6fd2c6e7de1
@@ -1692,10 +1701,17 @@ org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	
 org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.80.0		22afec47d8ed1b2a4ad9980a1f28bb6d7c6a5839
 org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.81.0		d329c477acaca9989ce5b15406a00690b23aaf37
 org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.82.0		50e8a90b26681c10de8e5b25cf8838c80a9220b7
+org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.82.1		a75b5cb0e163e7d94004181c2c00559079693a4c
 org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.83.0		c03dcaef2b0b869d088cc5bfd0f80a3d473aa065
 org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.83.1		a60496fee6c655466daa1263f1ef3d5d75cdcea6
 org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.83.2		d08d1cdb878abd6b808b188f5bad7cd0510ec182
 org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.83.3		87e150002fa096d6bc030fd2939e7723a307cc19
+org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.84.0		d82bfcb26e6d81ff37e8fc6f02d7921e820d3f0d
+org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.84.1		3175e4176da380db3b317fc58ced2602513826fc
+org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.85.0		9174fe79ae737a4bf42dff83cf4c4a133c91a6ae
+org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.85.1		c65b516764cf7cf37236f3bd6ea1efba0345545e
+org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.85.2		1839e43b07386241a38301271a906614b985571c
+org.finos.legend.engine	legend-engine-xt-persistence-target-relational-protocol	4.85.3		089be6f06ad765e031f32e899e62e56daf4691f9
 org.glassfish.exousia	exousia.spi.tomcat	1.0.0		a8276754e83a68a0cfe2f18e270f5f4c78df281b
 org.glassfish.exousia	exousia.spi.tomcat	1.0.1		2058fcee69df09c341a26999bfef3a3f70079d20
 org.glassfish.exousia	exousia.spi.tomcat	2.1.0		9d640cb7ce30112f051c01052368299b3f3dab57
@@ -1884,6 +1900,9 @@ tz.co.asoft	symphony-selector-macosarm64	3.0.8		N/A
 tz.co.asoft	symphony-selector-macosarm64	3.0.8	metadata	77ebbfd57f52e0c81a70b22e8524c90c18c78646
 tz.co.asoft	symphony-selector-macosarm64	3.0.9		N/A
 tz.co.asoft	symphony-selector-macosarm64	3.0.9	metadata	a4a7ecde9127762330fd4505e8e087cc7047db1c
+tz.co.asoft	symphony-selector-macosarm64	3.1.1	metadata	eafa8b955c8a46602264244d69d0a4e1a331d300
+tz.co.asoft	symphony-selector-macosarm64	3.1.11	metadata	cbcd986b7363327ca0cc52cf2009ef4a8b4e3678
+tz.co.asoft	symphony-selector-macosarm64	3.1.12	metadata	666253b269dde599ab30947653437754fb83801c
 xyz.kotlinw	kotlinw-util-serialization-json-jvm	0.0.6		13a0a8cb494df9be6da3211819dd46fb500c5271
 xyz.kotlinw	kotlinw-util-serialization-json-jvm	0.0.7		84a3ef7cc9401f9060ca65e44022a7d2e611ac86
 zone.gryphon.do	digitalocean-java-feign-api	0.1.4-293d32e		7437de79b2cac1d56aca9a3baa572d283d24c1f6

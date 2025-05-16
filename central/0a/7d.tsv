@@ -396,6 +396,8 @@ com.teamscale	teamscale-simulink	2025.2.0-rc2		f316df76429d3655890bfb2988a6de177
 com.teamscale	teamscale-simulink	2025.2.0-rc3		d323c2ddd680bdf10d037d59c8316d2e2b9490e3
 com.teamscale	teamscale-simulink	2025.2.1		7dd2124d2e02e45400fc209e3f7607085f52fc99
 com.teamscale	teamscale-simulink	2025.2.10		b0b2e99dc5cd245d8f0de5643edce2998861402c
+com.teamscale	teamscale-simulink	2025.2.11		9c32ab82ba3c619806de12448d01cc8008bc98ad
+com.teamscale	teamscale-simulink	2025.2.12		0930147be1bbbebf5c16ce080ab0fb261a412c0e
 com.teamscale	teamscale-simulink	2025.2.2		2490a1ecf89f744240bceb0caa4173bcbd08bffd
 com.teamscale	teamscale-simulink	2025.2.3		5b08055658d17991d25ed7bb36eda566fac044a2
 com.teamscale	teamscale-simulink	2025.2.4		926c3c18523275dfc0953c34aa9f4f9db5b9c83c
@@ -412,8 +414,12 @@ com.teamscale	teamscale-simulink	2025.3.1		0379c31b1bec358fc749c86f282c408838a38
 com.teamscale	teamscale-simulink	2025.3.2		517287fa30ed43183a4c7e6c98aa6cd41bc3c81d
 com.teamscale	teamscale-simulink	2025.3.3		374259a48017f5bb882dbee41b0fc05384198aa5
 com.teamscale	teamscale-simulink	2025.3.4		94b35b777319f27cd5f7c416120ce249c50c89cb
+com.teamscale	teamscale-simulink	2025.3.5		08d2d19aef1dcd42eb2f623ecc36ed4d8d6d1de8
+com.teamscale	teamscale-simulink	2025.3.6		f19740e3f0679ab9ae4d21998b70b84aa05c2478
+com.teamscale	teamscale-simulink	2025.4.0		dbbbaa424e241ee0037773f21b7d4614f5c419d6
 com.teamscale	teamscale-simulink	2025.4.0-rc1		be36a9067129dfefd7d3bac9f3d6bcf84bc53492
 com.teamscale	teamscale-simulink	2025.4.0-rc2		9679d66b0b0e1a8bee6d3e8441cd00ad907c42ad
+com.teamscale	teamscale-simulink	2025.4.0-rc3		ce6c2832057cee6ddc1ae72ad0f60f371854f54e
 com.teamscale	teamscale-simulink	6.1.0		7f12a188d069dbd708773fd78075b6cc7101df9d
 com.teamscale	teamscale-simulink	6.1.0-rc1		0a4ce82fb016b993bbf5005bc45efa312400cfa9
 com.teamscale	teamscale-simulink	6.1.0-rc2		2c4dda7542fe73c2aee0f7c4afe7bd4198db7017
@@ -1194,6 +1200,10 @@ io.fluidsonic.json	fluid-json-coding-jdk8	1.3.0		0ba98da498d61bc93a1155e3960d810
 io.fluidsonic.json	fluid-json-coding-jdk8	1.3.0	all	ef518b9a1de39f2f70c02d6a9cc830d0035d655e
 io.fluidsonic.json	fluid-json-coding-jdk8	1.4.0		0d2f25b9b5fc98f19e50e13166e96c0032f0999b
 io.fluidsonic.json	fluid-json-coding-jdk8	1.5.0		e4b74fd7153bc8c9070db85e13ba152d6dba447d
+io.github.cake-lier	sbt-remote-deploy_2.12_1.0	1.0.0		bf839f609be85368132c025e24dc3348dd91a5e8
+io.github.cake-lier	sbt-remote-deploy_2.12_1.0	1.0.1		4c1d8d2b9e88055b1f1370d9251f217e8c526df2
+io.github.cake-lier	sbt-remote-deploy_2.12_1.0	1.0.2		65e3f76fd7e442237f1be4b4af692b6a9c354439
+io.github.cake-lier	sbt-remote-deploy_2.12_1.0	2.0.0		3f716a5431342898e3be319b21440508039a2ee9
 io.github.goquati	kotlin-coroutine-util	1.1.0		0f2cb5bdc7ae3ce1cbdfc0e2bb4858fded44d6a6
 io.github.goquati	kotlin-coroutine-util	1.1.1		8cc42a02e940a13834367bb72c7005c19428347c
 io.github.goquati	kotlin-coroutine-util	1.1.2		005d8a788e98aeb16ba5a90a6761b712498a267e
@@ -2090,6 +2100,7 @@ io.streamnative	pulsar-broker-auth-athenz	4.0.1.2		086c5c10a3c9d0ac8e6aa4d362661
 io.streamnative	pulsar-broker-auth-athenz	4.0.1.3		bb1efef2a532ae6fbbbbc67ea6cec379babd760e
 io.streamnative	pulsar-broker-auth-athenz	4.0.1.4		3213c72390d30881306b013ca7bf76daf4893663
 io.streamnative	pulsar-broker-auth-athenz	4.0.3.1		76a0ef5821687a4fcf394b5aa2be3fb000b29035
+io.streamnative	pulsar-broker-auth-athenz	4.0.4.2		2f8c99a48b11db5eb8e829fb18c15e1a40773eb9
 io.streamnative	pulsar-broker-auth-athenz	master-rc-daily		79201d43d8471b8cfa6feef4fe95bfd3bd982c95
 io.streamnative	pulsar-broker-auth-athenz	v2.8.0-rc-202106091140		d487483b5404c6e68c07b41f81449bef62794bc7
 io.streamnative	pulsar-broker-auth-athenz	v2.8.0-rc-202106121853		5ec7d876edbeb0a6b72791d3c41311d4dffaf638
@@ -2224,6 +2235,9 @@ it.cnr.si.cool.jconon	cool-jconon-pagopa	5.5.7		f6056036a32856ce5f63034d1797cfb0
 it.cnr.si.cool.jconon	cool-jconon-pagopa	5.5.8		06ba16fb0bdc42de130886d859b23016fa91f037
 it.cnr.si.cool.jconon	cool-jconon-pagopa	5.5.9		3d036998983ae678a01b916a9317952b91900ef4
 it.cnr.si.cool.jconon	cool-jconon-pagopa	5.6.0		86b41ae585d7073ce652176e29f4efa81c0df94f
+it.cnr.si.cool.jconon	cool-jconon-pagopa	5.7.0		4cb122de9f5db5fd75d8f72151bd7260bcf41a57
+it.cnr.si.cool.jconon	cool-jconon-pagopa	5.7.1		bd47ec01843843973a951ee538b297274ba27615
+it.cnr.si.cool.jconon	cool-jconon-pagopa	5.7.2		5ecf555e1198cd111ee754c804e7701c2f4d4bc0
 jaxb	jsr173_api	1.0		c79b8431c3104315c0aeaed7bf23d0ab0edbaa09
 me.nathanfallet.makth	Makth-native	1.1.2		N/A
 me.nathanfallet.makth	Makth-native	1.1.2	metadata	50f1392e9a6218b477341ade02c29fedd4645a8a
@@ -2381,6 +2395,8 @@ org.jeecgframework	minidao-spring-boot-starter	1.10.2		acd67249441bf370ba90e858b
 org.jeecgframework	minidao-spring-boot-starter	1.10.3		b08b2c1ff19fed904deb85ab853ed28abec11063
 org.jeecgframework	minidao-spring-boot-starter	1.10.4		31ab02afd5b69d31e45d130538bdba5b0d1b19db
 org.jeecgframework	minidao-spring-boot-starter	1.10.5		c65cbde340caeee6a0683bfc4493cc0839c79888
+org.jeecgframework	minidao-spring-boot-starter	1.10.7		43466ef9013a0f5281fd1acf7506842f91c2e476
+org.jeecgframework	minidao-spring-boot-starter	1.10.8		6276534d4c4a1e1f33a5090aa58ae24ffae34125
 org.jeecgframework	minidao-spring-boot-starter	1.6.7		3cf584163d637360c5702db40837194c7d4a5231
 org.jeecgframework	minidao-spring-boot-starter	1.6.7.RELEASE		f80ac48f895189fbaaf4885f19c5092e4c7f4798
 org.jeecgframework	minidao-spring-boot-starter	1.7.0		72fd079a3ba2192b8d2690be453a6c3b4a5cba5d
@@ -2509,6 +2525,7 @@ org.jetbrains.compose.ui	ui-unit-uikitx64	1.7.1		N/A
 org.jetbrains.compose.ui	ui-unit-uikitx64	1.7.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.ui	ui-unit-uikitx64	1.7.3		N/A
 org.jetbrains.compose.ui	ui-unit-uikitx64	1.7.3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+org.jetbrains.compose.ui	ui-unit-uikitx64	1.8.0	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.ui	ui-unit-uikitx64	1.8.0-alpha01		N/A
 org.jetbrains.compose.ui	ui-unit-uikitx64	1.8.0-alpha01	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 org.jetbrains.compose.ui	ui-unit-uikitx64	1.8.0-alpha02		N/A
@@ -2631,3 +2648,5 @@ org.webjars.bower	twitter	3.3.4		4614692f94484663b6c8b5c12588c3b4ad40de93
 org.webjars.bower	twitter	4.0.0-alpha		5ca30fc1279251d845199ee575ea7e5d2ec0b5ff
 org.webjars.npm	peerjs-client	0.3.15		93b49908145d822cec953bb54e3d230a95dd00c0
 space.kscience	visionforge-compose-multiplatform	0.5.0		28cbbd267e2cdbea0a637d71db8f57b788a419c0
+tz.co.asoft	kiota-file-picker-test-watchosarm64	3.1.11	metadata	b086f8376b575678ce16921890e1941509b5a438
+tz.co.asoft	kiota-file-picker-test-watchosarm64	3.1.12	metadata	2786fb69d2755edcc21a7d93bdeee57ece496021

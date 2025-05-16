@@ -663,11 +663,15 @@ com.intuit.playerui.plugins	java-logger	0.10.4-next.2		3a35d633852fceaa1a09079be
 com.intuit.playerui.plugins	java-logger	0.10.5-next.0		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.10.5-next.1		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.10.5-next.2		3a35d633852fceaa1a09079bec64289039b81d61
+com.intuit.playerui.plugins	java-logger	0.11.0		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.11.0-next.0		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.11.0-next.1		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.11.0-next.2		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.11.0-next.3		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.11.0-next.4		3a35d633852fceaa1a09079bec64289039b81d61
+com.intuit.playerui.plugins	java-logger	0.11.0-next.5		3a35d633852fceaa1a09079bec64289039b81d61
+com.intuit.playerui.plugins	java-logger	0.11.1		3a35d633852fceaa1a09079bec64289039b81d61
+com.intuit.playerui.plugins	java-logger	0.11.1-next.0		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.7.0		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.7.1		3a35d633852fceaa1a09079bec64289039b81d61
 com.intuit.playerui.plugins	java-logger	0.7.2		3a35d633852fceaa1a09079bec64289039b81d61
@@ -991,6 +995,7 @@ com.pulumi	okta	4.14.1		12d1719eb18cfca2c8931d3a07d42fc7de62a700
 com.pulumi	okta	4.15.0		e96e43a3ee73cb1afb27fbc03bc3b571fece2444
 com.pulumi	okta	4.16.0		52932f96318b490a254efbee32e4a9b687b5fb12
 com.pulumi	okta	4.17.0		d068243e79ab7e117b49ca067f1cd9ab947a9d26
+com.pulumi	okta	4.18.0		5e4f73c04bbb81a0c5cb562bd88d1186cdfb856b
 com.pulumi	okta	4.2.0		ccdeddd924edba262057ae5ed7f7d5c085cc3867
 com.pulumi	okta	4.2.0-alpha.1689314511+4a9e9b32		b9fdbbebe8013c9a27c3473514c3667476d1ff5c
 com.pulumi	okta	4.2.0-alpha.1690263967+397230a9		86829a0c070313d3b1daf6d2497043c94f661f97
@@ -1481,6 +1486,7 @@ io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.13.2-alpha		705
 io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.13.3-alpha		009a33b11b63f79551aabd9145bec55801e3b70a
 io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.14.0-alpha		3c91d817efe1b83207ca1ded166b732c6fb948af
 io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.15.0-alpha		0b1efd903ba2d20193cd04107ba19636a240c625
+io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.16.0-alpha		0562cc5da662d308b46d2b9e820e603650f0d22f
 io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.2.0-alpha		7c8808756966af663cb46ba5a489044e7af3ae81
 io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.3.0-alpha		064a16d534d2e7155001ffa1af53c1c18382401d
 io.opentelemetry.instrumentation	opentelemetry-apache-dbcp-2.0	2.4.0-alpha		46494e94e4d7f4e7d2a1679d8b01160f33df1192
@@ -1795,6 +1801,7 @@ org.apache.beam	beam-sdks-java-extensions-arrow	2.61.0		1b1966ac55ad832f88caac22
 org.apache.beam	beam-sdks-java-extensions-arrow	2.62.0		9bfabfa63f4a44ee098523b1124be1042ae61e2d
 org.apache.beam	beam-sdks-java-extensions-arrow	2.63.0		da424e9948a99db9e3827e8982de3974ece91975
 org.apache.beam	beam-sdks-java-extensions-arrow	2.64.0		20e6398e2f363cf3cb5acfb28ea2fff4e9b9fe71
+org.apache.beam	beam-sdks-java-extensions-arrow	2.65.0		d722ebd185618c45085faaee8e52f3468df0d974
 org.apache.flex.utilities.converter	flash-converter	1.0.0		06b303b33cdda8b9d0ec66fa5512541a52a94505
 org.apache.flex.utilities.converter	flash-converter	1.1.0		38c1dbb33f9758a5c4de8c873a7e86f3f7ae62c5
 org.apache.livy	minicluster-dependencies-parent	0.4.0-incubating		N/A
@@ -1808,6 +1815,7 @@ org.codehaus.plexus	plexus-spring	1.2		3b81c51438e5c0a8bc5461041202d5647d13f8aa
 org.eclipse.esmf	esmf-aspect-model-urn	2.10.0		4617d5a5f734c6a9e4d444522c63592ab3b1e785
 org.eclipse.esmf	esmf-aspect-model-urn	2.10.1		223a06fc374970c55786f9bbb9bae2b9b9f99ca0
 org.eclipse.esmf	esmf-aspect-model-urn	2.10.2		d72217bcc82eebfca7bfe0f29ced74a84726812a
+org.eclipse.esmf	esmf-aspect-model-urn	2.10.3		bda04f03e8fa970cc1bf4eaf60a5733ac368d71a
 org.eclipse.esmf	esmf-aspect-model-urn	2.2.0		c76b5b2a2064e9a504fc5b62b8305b18ab2f5d42
 org.eclipse.esmf	esmf-aspect-model-urn	2.2.1		3348c0675378e1b3ccbff08a7756e0a2732dfd8d
 org.eclipse.esmf	esmf-aspect-model-urn	2.2.2		23d219320a9647a2b02eac15e83619bae84713a1
@@ -2019,10 +2027,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-fu
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.80.0		092518517aef070bb023edc58fa430b96b3aef9e
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.81.0		de580eb4114831c14d4722c9243e04aba5d79a89
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.82.0		2f0d7f87543ebe73173e559b0081a56b151ad098
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.82.1		16c9baf847c1a66816388753bd41ce39d16fbfcc
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.83.0		abcdcfcb3ac02759d2ab7b28e36a1d5279b0de78
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.83.1		a089fef03d662f5f6629689032b80a01612888de
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.83.2		fe61fa02cb21053662097240adbe9a4684a7408f
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.83.3		46e1711fe909031eccf5d3dc2625af048c9ba646
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.84.0		ff4d3411e2b80fe3d38951bb701118b810090486
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.84.1		1ffbd76b65127d9662eac7ada16fba11dd6320f3
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.85.0		b1b5ea6c3d13bd74e92e157211c96d706163111e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.85.1		e3b336e765bcad898ee8afb0cee6f747e7ef3a9e
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.85.2		ef076843039efca06ba203ec6b17d349d0be54a5
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-interpreted-functions-planExecution	4.85.3		a43202364b3ce787f174ec701b3ec671742f91f6
 org.isarnproject	isarn-algebird-algebra-api_2.12	0.0.4		864ebb616a61c09a2647b02c840eebbccb028f66
 org.iternine	jeppetto-test-functional	0.5		4c4abcbf8e7d501bcfd96f9ed085c5694910752a
 org.iternine	jeppetto-test-functional	0.6		916d3161a9bcbff4cd66ac75d92ea918c8a5a780

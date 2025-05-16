@@ -284,6 +284,7 @@ com.ibeetl	sql-solon-plugin	3.30.7-RELEASE		46765855fb98cae037daad538a0812c255cb
 com.ibeetl	sql-solon-plugin	3.30.8-RELEASE		fc06e4d54aec3cf0f0b02f6c0baeee4c55072563
 com.ibeetl	sql-solon-plugin	3.30.9-RELEASE		959f15da4ccae6714c53905cd57618447719f2c0
 com.ibeetl	sql-solon-plugin	3.31-RELEASE		2aa6c54955f3690ca4746da27f3bd7ebaf502dc4
+com.ibeetl	sql-solon-plugin	3.32-RELEASE		7586f18f5427b86c2fab81f99ab7f9977326ca25
 com.ibeetl	sql-solon-plugin	3.4.0-RELEASE		cf874597ef84f650836b5d2207e26eaa9ace1a2a
 com.ibeetl	sql-solon-plugin	3.4.1-RELEASE		3c479af68bd4e9c3ac6d45446eae63c882a9dc92
 com.ibeetl	sql-solon-plugin	3.4.2-RELEASE		81c4952065bdbc2c11db1199e7c74f8c3b4e5673
@@ -860,6 +861,7 @@ io.github.flaxoos	ktor-server-rate-limiting	2.0.0		3c5eb2dcddc46a4170cc8213e571e
 io.github.flaxoos	ktor-server-rate-limiting	2.1.0		165a2d9b6f8c1ce831a7bfb59b615c73b5dfafab
 io.github.flaxoos	ktor-server-rate-limiting	2.1.1		165a2d9b6f8c1ce831a7bfb59b615c73b5dfafab
 io.github.flaxoos	ktor-server-rate-limiting	2.1.2		165a2d9b6f8c1ce831a7bfb59b615c73b5dfafab
+io.github.flaxoos	ktor-server-rate-limiting	2.2.1		73eabd9b77793eda34c39c1ad2bfb9f80c897c7d
 io.github.karthyks	composed	0.1.0		N/A
 io.github.karthyks	composed	0.2.0		N/A
 io.github.karthyks	composed	0.3.0		N/A
@@ -903,6 +905,7 @@ io.github.pdvrieze.xmlutil	serialutil-tvosarm64	0.91.0		N/A
 io.github.pdvrieze.xmlutil	serialutil-tvosarm64	0.91.0	metadata	8e3a2ec4c5a894c29c29302ecec5eba4ade86d0f
 io.github.pdvrieze.xmlutil	serialutil-tvosarm64	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	serialutil-tvosarm64	0.91.0-RC1	metadata	f3f27eeb346949a684eec0dd2adf1e572d59f0fd
+io.github.pdvrieze.xmlutil	serialutil-tvosarm64	0.91.1	metadata	62ffaa00535fd8c931e166f6bb02c035e3da2a72
 io.github.yongzheng7	saop-core	1.0.0		N/A
 io.github.yongzheng7	saop-core	3.0.0		N/A
 io.pileworx	rebound-client-java	0.2.0		209c1306a8f0347041316884191a9aa253d5bb35
@@ -1006,6 +1009,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.17.0		8b0
 org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.18.0		5a171d77abd6e8d0ece9dafb13c5bc4aa9bec744
 org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.19.0		7292fe3cc09000d95a73d28b136a5f5fa4c60bd6
 org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.20.0		9252076c91c837e945c52daf19657fc9d78e7c09
+org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.20.1		34c0142544c19abf868e685b6fc58f294a948553
 org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.22.0		7470547639166053d21f80a59e01ee65d6584de2
 org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.8.2		6402c75161833ee433acd8f162e25b47f51a5b9f
 org.apache.camel.quarkus	camel-quarkus-integration-test-jt400-mocked	3.8.3		98683933e8065c8529a51199e2c4dc761fb77960
@@ -1168,6 +1172,19 @@ org.eclipse.dirigible	dirigible-components-core-initializers	11.41.1		e4ae1b4484
 org.eclipse.dirigible	dirigible-components-core-initializers	11.42.0		0fa6187aae534c7ce425b19f342fa6d51526c7c4
 org.eclipse.dirigible	dirigible-components-core-initializers	11.43.0		5ef0794145c8c0a87005a88c0a5c1e0b91542aab
 org.eclipse.dirigible	dirigible-components-core-initializers	11.44.0		6766bdb9dde6572bdc39aa98330c2342a8c8bb22
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.0		91d0310fd37025ebed4c66eaa830cad2a0a4d758
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.1		9ff702cd3b5901988fcb365d5bd64013c68b679a
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.10		ca117f8aa29c1314189cb35d2431e7b152d06811
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.11		f3dbefacbc6c48515f98f624189f08188601c16a
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.12		344b243212ee1105dfa5673add6a692c2d6e6bb1
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.13		4c20d0dec864674d458466e5b93d5aea938494f2
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.3		ea6d4b737c972d73f76abee6fbbc4ecb9817d46a
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.4		efc90cf8a3ae01fc2096688dbd5263d3a905da12
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.5		f298a3c815f079d9e575b92c1ae9fad69df75374
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.6		0434a39feddc69c6adcb5314770a429720e59dd7
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.7		9fd3f898077711849eb5a7c6224a804bb27a81ea
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.8		a50538ae3075f82b155735d338d764a1f1189567
+org.eclipse.dirigible	dirigible-components-core-initializers	11.45.9		a311f9d3d55bebdcde4a167c5f5ee69d6d0dd49b
 org.eclipse.dirigible	dirigible-components-core-initializers	11.5.0		acbaa4735b11da39b5eb539fd2e6cf7c15836731
 org.eclipse.dirigible	dirigible-components-core-initializers	11.6.0		d6aa72541cc8dff3cff1ba98d561c2d021a48687
 org.eclipse.dirigible	dirigible-components-core-initializers	11.6.1		fef94c80e149885cff3d95a958aa8a5618017818

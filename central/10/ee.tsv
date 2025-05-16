@@ -316,6 +316,7 @@ com.slack.circuit	circuit-runtime-ui-jvm	0.26.0		bbd6dabdf03c8839a3a3491ecd29003
 com.slack.circuit	circuit-runtime-ui-jvm	0.26.1		bbd6dabdf03c8839a3a3491ecd29003e1aaaaddb
 com.slack.circuit	circuit-runtime-ui-jvm	0.27.0		bbd6dabdf03c8839a3a3491ecd29003e1aaaaddb
 com.slack.circuit	circuit-runtime-ui-jvm	0.27.1		bbd6dabdf03c8839a3a3491ecd29003e1aaaaddb
+com.slack.circuit	circuit-runtime-ui-jvm	0.28.0		25c1870afb1153246d1178e2f202292811392a75
 com.slack.circuit	circuit-runtime-ui-jvm	0.8.0		c540005a7d171d84048411a13d374435d254cbbc
 com.slack.circuit	circuit-runtime-ui-jvm	0.9.0		c540005a7d171d84048411a13d374435d254cbbc
 com.slack.circuit	circuit-runtime-ui-jvm	0.9.1		c540005a7d171d84048411a13d374435d254cbbc
@@ -457,6 +458,7 @@ dev.zio	zio-aws-kendraranking_2.12	7.31.27.1		bb67c1d1f521b58a8078e46f3c8a4d1e7c
 dev.zio	zio-aws-kendraranking_2.12	7.31.28.1		03daa4f7a78052658ad164fd6cebaf49e0dc5d5f
 dev.zio	zio-aws-kendraranking_2.12	7.31.3.1		882b33dfb7e1834775968e0257bec805f9ccdd9f
 dev.zio	zio-aws-kendraranking_2.12	7.31.30.1		bae20f025329153440368833fbc9f35b41d78f39
+dev.zio	zio-aws-kendraranking_2.12	7.31.30.2		dadf14a865d4015af1898c61ec7f9696daa38576
 dev.zio	zio-aws-kendraranking_2.12	7.31.4.1		1a36f0b869a223d8d1b2a3dcd9ea72d374b70ad6
 dev.zio	zio-aws-kendraranking_2.12	7.31.6.1		063df531ec997cb26c2009d240ffeb8c74c2ac8c
 dev.zio	zio-aws-kendraranking_2.12	7.31.6.2		945f2549a5ddb5980a9b08b3a40408d0195a0bb9
@@ -1157,6 +1159,8 @@ net.folivo	trixnity-applicationservice-jvm	4.14.3		9f21ca5c2c1e04e1ed646618db5d8
 net.folivo	trixnity-applicationservice-jvm	4.14.4		9f21ca5c2c1e04e1ed646618db5d8ab7c7a42ddb
 net.folivo	trixnity-applicationservice-jvm	4.15.0		9f21ca5c2c1e04e1ed646618db5d8ab7c7a42ddb
 net.folivo	trixnity-applicationservice-jvm	4.15.1		9f21ca5c2c1e04e1ed646618db5d8ab7c7a42ddb
+net.folivo	trixnity-applicationservice-jvm	4.15.2		72fe920fc2e74e69c6eb3d7aa1f85adabbccea43
+net.folivo	trixnity-applicationservice-jvm	4.15.3		72fe920fc2e74e69c6eb3d7aa1f85adabbccea43
 net.folivo	trixnity-applicationservice-jvm	4.2.0		6b38530b59eb3afbce73ecdef66ebfdb45d2e879
 net.folivo	trixnity-applicationservice-jvm	4.2.1		6b38530b59eb3afbce73ecdef66ebfdb45d2e879
 net.folivo	trixnity-applicationservice-jvm	4.2.2		6b38530b59eb3afbce73ecdef66ebfdb45d2e879
@@ -1370,6 +1374,7 @@ org.ehrbase.openehr	rm-db-format	2.14.0		f614b17e85c432c6642833a79607de7803e0e29
 org.ehrbase.openehr	rm-db-format	2.15.0		059fa68af5d1bc1144be6ad9b7a400490a770ce5
 org.ehrbase.openehr	rm-db-format	2.15.1		7c10b6b511a6958274458872ffb101b1833d9527
 org.ehrbase.openehr	rm-db-format	2.16.0		cee597349a33758619f949369b8c80987fe28a21
+org.ehrbase.openehr	rm-db-format	2.17.0		9ec72c8524970cdb45edcb0be7b28ba465a2a9e4
 org.ehrbase.openehr	rm-db-format	2.2.0		e9fee25396342373f209951645d45a6ef9546c65
 org.ehrbase.openehr	rm-db-format	2.3.0		54f90265898bf36c4011d931d0110537e0692f2d
 org.ehrbase.openehr	rm-db-format	2.4.0		71750385ee58f331bd34f8f5f82b3104dd158e61
@@ -2850,7 +2855,18 @@ software.amazon.awssdk	workmailmessageflow	2.31.30		4af6a384a1099a57154b3398d046
 software.amazon.awssdk	workmailmessageflow	2.31.31		161fbeec97ecbc604d5b3ae2e34cfd94f6818f71
 software.amazon.awssdk	workmailmessageflow	2.31.32		8175c857138b63cf05483594e9898c1a45fb578b
 software.amazon.awssdk	workmailmessageflow	2.31.33		26425121932cc9b20e620c08ab62b17427336315
+software.amazon.awssdk	workmailmessageflow	2.31.34		f4817b7e9a164ed7234457058ea35860db830987
+software.amazon.awssdk	workmailmessageflow	2.31.35		6c9eee797554fb069c0e4973437a109b6b9d555d
+software.amazon.awssdk	workmailmessageflow	2.31.36		1772608902a2f090b964c8d3e1cf8631a9863f6d
+software.amazon.awssdk	workmailmessageflow	2.31.37		d36359c029044cb66e5d3192a480b5fb8c24bf77
+software.amazon.awssdk	workmailmessageflow	2.31.38		04f6eecf1a8aa3b6deda03de3c7ea0e3961e9e0c
+software.amazon.awssdk	workmailmessageflow	2.31.39		a15306e6f70a55bb20855390ffd3ba166ac20f53
 software.amazon.awssdk	workmailmessageflow	2.31.4		0ec39db69072a5ca93b9ceb246c35e61b1744a8f
+software.amazon.awssdk	workmailmessageflow	2.31.40		1224378baacb08b564cdda2222f84f720cacf95b
+software.amazon.awssdk	workmailmessageflow	2.31.41		3c9138b3c5838c72d94a42e299291c6f00092ef6
+software.amazon.awssdk	workmailmessageflow	2.31.42		48bc1c8e819852f127abf4859c6fe352d41bfd38
+software.amazon.awssdk	workmailmessageflow	2.31.43		77de7afbd339cb4d021528d8f29789b220b81215
+software.amazon.awssdk	workmailmessageflow	2.31.44		e4e752da4a8824accf04b30ea83682323f225006
 software.amazon.awssdk	workmailmessageflow	2.31.5		ccf4a3866f3d1482a151720981e338b84a3adeea
 software.amazon.awssdk	workmailmessageflow	2.31.6		50c83fd33f1e6816b773b4b633309c160a32b12e
 software.amazon.awssdk	workmailmessageflow	2.31.7		b491e59885a032af4a0557edd879735983a633d5

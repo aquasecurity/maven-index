@@ -403,6 +403,8 @@ com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.64.0		cd3ac4aa1127b7813d74
 com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.65.0		f33da371e2ca6bc425b4e709799bef855a862367
 com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.66.0		33bff25c9cc42dbf2bfcd2b90d13447302afc897
 com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.67.0		8d8bcffb2d9905b12adf18550d49744fc8700fc3
+com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.68.0		3077d03261817906c4c90c377575bb2a111d4152
+com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.69.0		0528f2daa4846039a26b911565170dda80433bb4
 com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.7.0		c8f519a759ea4cca907247319819cde1b85cf981
 com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.7.1		0ac7b1e258559503fcb0f2aa97bee3dc3c072aa1
 com.google.api.grpc	grpc-google-cloud-dialogflow-v2	4.7.2		b9336298f4dbae99816564f87212aeae8ff48935
@@ -1119,6 +1121,7 @@ com.walmartlabs.concord.plugins.basic	ansible-tasks	2.23.0		7902c115defb8149dc22
 com.walmartlabs.concord.plugins.basic	ansible-tasks	2.24.0		86adff04a488ba24344546047a26a77abd9b0a46
 com.walmartlabs.concord.plugins.basic	ansible-tasks	2.25.0		164f998240520dbbdcb8688c9a32e1b320e40c7b
 com.walmartlabs.concord.plugins.basic	ansible-tasks	2.25.1		3d18699e9acc6666ce81bc9fc5549166efc6d206
+com.walmartlabs.concord.plugins.basic	ansible-tasks	2.26.0		a827a83488a5385fc705c82f7af7e3bbff7ddc5f
 com.walmartlabs.concord.plugins.basic	ansible-tasks	2.3.0		cf883daf43c1f3b980bba92e9e44d51e267aaa97
 com.walmartlabs.concord.plugins.basic	ansible-tasks	2.4.0		685972280e493d30c29606a6c0d238f5cdc0e521
 com.walmartlabs.concord.plugins.basic	ansible-tasks	2.5.0		0c3009c7fdfe14ddcfc4435da750860939615c47
@@ -1920,7 +1923,14 @@ com.yahoo.vespa	security-utils	8.511.14		4c51919eaa745c4e252cad86dd61a73f5f77c24
 com.yahoo.vespa	security-utils	8.512.63		467dcf3ebe863d5a339bb68c5b8a7b3307a9f619
 com.yahoo.vespa	security-utils	8.513.17		d7a2c863c872b899f9adec2d5c6da87bd85c0cb5
 com.yahoo.vespa	security-utils	8.514.24		32f45586eecef7b63b1ef0b092ef2db9f8fba61b
+com.yahoo.vespa	security-utils	8.515.40		3cd2492c559bbcf92caf606daa9b04e63d88f17c
+com.yahoo.vespa	security-utils	8.516.26		f9a61760992e1a1dd09fcca23686e6b33f43bbd0
+com.yahoo.vespa	security-utils	8.517.15		b99173182f0dc42024d4f843dc70c7fc89a6808b
+com.yahoo.vespa	security-utils	8.518.4		8b86a1cf5dad08698321002ac0d71ce24812bdd0
+com.yahoo.vespa	security-utils	8.519.55		c44da7d9730bfaf5392ad68fbbb64f269dcd54fb
 com.yahoo.vespa	security-utils	8.52.15		caae2e1ac961d7caea34bb9a7d2edab252d9889a
+com.yahoo.vespa	security-utils	8.520.18		3cf56aa4e50ced6c5f85bc3a839f30ea2d607e4c
+com.yahoo.vespa	security-utils	8.521.17		31385802a3dbb169c3727e08a7dd7583ed4a2204
 com.yahoo.vespa	security-utils	8.53.21		0575cd16f6880c53e29e2de50c98dd6a6a97afec
 com.yahoo.vespa	security-utils	8.54.61		68dc3e1392deb201dfaa33fc19f9024924c93467
 com.yahoo.vespa	security-utils	8.56.20		9ddceab44919fcf6242d0012ab32d51b5f461c8a
@@ -2480,12 +2490,14 @@ org.mycore	mycore-user2	2020.05		51ab5670d215e351176dbfe864e2080168e461dc
 org.mycore	mycore-user2	2020.06.0		c39cac324bb9d6a55da1296cd5be89ea9deccbc7
 org.mycore	mycore-user2	2020.06.1		ee4f5aa17694f4091b3da3ece02225cb9c3dc19e
 org.mycore	mycore-user2	2020.06.2		7b0fabdc9829fe5b323562b36cedeca7b8917983
+org.mycore	mycore-user2	2020.06.3		6ec1dba8e8d3d442be5c90639caa9d59808a2804
 org.mycore	mycore-user2	2020.08		ea3ea4598992e92a72785c6c044e130b4a3c9e5e
 org.mycore	mycore-user2	2020.11		454ef748201029fb9682a0e0d7cb22e13aafc5ca
 org.mycore	mycore-user2	2021.02		57efa464ce623e26aa6bd950381d1696b00254ef
 org.mycore	mycore-user2	2021.05		e803b845bb51c5f93ba7f44904a3c7961c340643
 org.mycore	mycore-user2	2021.06.0		07ddee9ad004a75690a45495c68a6904bd945231
 org.mycore	mycore-user2	2021.06.1		824e1abbb220eb93f2994379c4a980d1f5fd3cdf
+org.mycore	mycore-user2	2021.06.2		77006525859bc3cb0ad6927cebfbbc9d40358f67
 org.mycore	mycore-user2	2021.08		09f22f6edeec0e34abcc4a509f9ee41decf0aa40
 org.mycore	mycore-user2	2021.11		d398ed70965876683697d9fbb49393db70122b42
 org.mycore	mycore-user2	2022.02		5e0656888bf8750c3cb0ac9c98c335629268caa0
@@ -2493,6 +2505,7 @@ org.mycore	mycore-user2	2022.05		4604659aed5fc4912168ce39cb6d1daf34169caf
 org.mycore	mycore-user2	2022.06.0		151da5646149fd5bc7f6e71cbd502d313eaa02b4
 org.mycore	mycore-user2	2022.06.1		e0e8bf00e9e3b01148341f592ffcf180094e6fe2
 org.mycore	mycore-user2	2022.06.2		f7a952ba271017c8f420addb5a7a72a82642d617
+org.mycore	mycore-user2	2022.06.3		2f55d6ed5cd9c073cf9ce7ef46a8b9c43a2cf95e
 org.mycore	mycore-user2	2022.08		e12328df95f4bfb7a2cdba7b9d7bf1a384378b20
 org.mycore	mycore-user2	2023.05		a19cecc69cb036a59a2914794520eb5aff7c0da1
 org.mycore	mycore-user2	2023.06.0		8a9fde82f3daff0e3d499259c81c33754011d5f9

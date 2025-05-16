@@ -104,6 +104,7 @@ cloud.piranha.feature	piranha-feature-api	25.1.0		ff7c6fb1bdca929b0bdfabbc5a5d59
 cloud.piranha.feature	piranha-feature-api	25.2.0		ddd0bcd376e8c1767bae13d5f9f29dcfc4b00e37
 cloud.piranha.feature	piranha-feature-api	25.3.0		ce96f20e9f6cc4e26bacbf0bc1c5027b1f5778c9
 cloud.piranha.feature	piranha-feature-api	25.4.0		2608139569b5c3f7a47b61d277075dffba7729e4
+cloud.piranha.feature	piranha-feature-api	25.5.0		4bfd79ace2278514203b2a44cd2c3331e3c87102
 cn.bestwu	fastdfs-client-java	1.27		371b1c9d19e2cddac695bba304e49a4ddca351ff
 cn.zhangfusheng	zfs-api-administrator-core	1.0.0		35ad5d872a9b9e06627c3d1ca21d29fdcd130141
 cn.zhangfusheng	zfs-api-administrator-core	1.0.1		3ec8dfb1452071882ed8578f4bb516dbfa521719
@@ -928,19 +929,23 @@ io.fabric8	volumesnapshot-client	7.0.0		406e57662c15c4a169f5e3b695d0a5f2f3263c1a
 io.fabric8	volumesnapshot-client	7.0.1		727bf184bf2633898f472558eb265b37ff92218d
 io.fabric8	volumesnapshot-client	7.1.0		58c6faf2aca588b2d19a40e15ffcad02872fa4e3
 io.fabric8	volumesnapshot-client	7.2.0		2faef02441df2d533895e85c892aa4f0f71f9dea
+io.fabric8	volumesnapshot-client	7.3.0		c9e8784ab4c986457d3d41dfba797a018761ae67
 io.getlime.security	powerauth-fido2	1.7.0		d271e704a5c49dae7dded4c72fd9b1cb6cc63d60
 io.getlime.security	powerauth-fido2	1.7.1		d6cbdc62640c6cb94765f3813784c46d2198c50d
 io.getlime.security	powerauth-fido2	1.7.2		80acd44f2efb09b111214d0a9e7737e5c985af25
 io.getlime.security	powerauth-fido2	1.7.3		aea84727ce7f8a5cb9c5e4b32e09d450ef39cf4a
 io.getlime.security	powerauth-fido2	1.7.4		7d43ea6849c83ec4db811def2d1145c97b5ba2b6
 io.getlime.security	powerauth-fido2	1.7.5		720cece41ec90a007ee3855f52e2f10e60b33e74
+io.getlime.security	powerauth-fido2	1.7.6		9af07f7b9c44f8d7e8122ef7afde756e8a0fe28c
 io.getlime.security	powerauth-fido2	1.8.0		c1b024333e5dd963b9d79239c5487dbf2de41f00
 io.getlime.security	powerauth-fido2	1.8.1		cf26ee08d76ad21968fb2c6281c1a273c44cc08d
 io.getlime.security	powerauth-fido2	1.8.2		b221977029726268bfef80b25fffe25fb7780a59
 io.getlime.security	powerauth-fido2	1.8.3		8de02a773c7e7305000e08748e7de73fab3b5c55
 io.getlime.security	powerauth-fido2	1.8.4		d8ef3a7f381fa519e88c2dcff2d66cdc5203bcde
+io.getlime.security	powerauth-fido2	1.8.6		0932d904f83cab65017f2e9278d70a6f9ef0873d
 io.getlime.security	powerauth-fido2	1.9.0		d93789953f33ff6b2d20640ae7ce3da9e82426b0
 io.getlime.security	powerauth-fido2	1.9.1		0ce54844ecb066ba344b398ed67814e6dc5426e1
+io.getlime.security	powerauth-fido2	1.9.2		c34c3bf1a8ae276cddec0f2af78f9df954e5ebb9
 io.github.copycaty	data-modeling	2.0.1		N/A
 io.github.cvb941.measured	measured-linuxarm64	0.4.1		N/A
 io.github.cvb941.measured	measured-linuxarm64	0.4.2		N/A
@@ -1090,6 +1095,9 @@ io.insert-koin	koin-core-coroutines-tvosarm64	4.0.4		N/A
 io.insert-koin	koin-core-coroutines-tvosarm64	4.0.4	metadata	8c1e07c7a6f69d8e12ca5ab280e3808e1090c864
 io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta1		N/A
 io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta1	metadata	517a9794d37338d2fb921d873a8dd32d55292d07
+io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta10	metadata	4411f056e9b436d68fed33dd114d4d4982cb252f
+io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta11	metadata	efca14268b99f6e90980dad26762f08f3b58dd1f
+io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta13-KTOR-EAP	metadata	2c16a095d56536223c5d56801a311a876d799d11
 io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta3		N/A
 io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta3	metadata	919be5df91d3f3c8f78d2e9245ddcc51b4979832
 io.insert-koin	koin-core-coroutines-tvosarm64	4.1.0-Beta4		N/A
@@ -1670,6 +1678,7 @@ org.apache.kudu	kudu-backup-tools	1.17.1	unshaded	6963b3e557d149b457f017560a38ff
 org.apache.maven.scm	maven-scm-client	1.0		a130438763bdff240e97a1dfb9659f34ef294874
 org.apache.maven.scm	maven-scm-client	1.0-alpha-1		ae0b1221fcef11268c5e23e445193a8b65e4ffb4
 org.apache.maven.scm	maven-scm-client	1.0-alpha-2		5b375034df2012f5a283b6f34c92824d07250664
+org.apache.maven.scm	maven-scm-client	1.0-alpha-2-20050712.155255-1		45d55f5b2ca545b939033d33c73f71bb9b0d6ff0
 org.apache.maven.scm	maven-scm-client	1.0-alpha-2-SNAPSHOT		45d55f5b2ca545b939033d33c73f71bb9b0d6ff0
 org.apache.maven.scm	maven-scm-client	1.0-alpha-3		fb1c820ff401fcb4418abbfc2fd6dce408a614b2
 org.apache.maven.scm	maven-scm-client	1.0-alpha-4		c02ff16039f761571f93775aaf7e8f59afd44e37
@@ -1968,6 +1977,8 @@ org.opensearch.migrations.trafficcapture	coreUtilities	0.2.3.2		9e7e08798f34c135
 org.opensearch.migrations.trafficcapture	coreUtilities	0.2.3.3		9664262076ea32f71f7d50b09ae33558ea0a96df
 org.opensearch.migrations.trafficcapture	coreUtilities	0.2.3.4		dfd2f16de4f30f0d0f46f226771f7eb85d7001c9
 org.opensearch.migrations.trafficcapture	coreUtilities	0.2.3.5		c2064e6a7c3e51d307ed4295699a4d31f1723b0b
+org.opensearch.migrations.trafficcapture	coreUtilities	0.2.3.6		2a7be0ae4b0e03e7ccfb786976c52cd390b4a3a6
+org.opensearch.migrations.trafficcapture	coreUtilities	0.2.3.7		bcad17befb0fd538ccb68bb3abb92b8afd62009f
 org.switchyard	switchyard-forge-bean-plugin	0.4.0.CR1		e85de8db4cee664723614d350df711259bad90c6
 org.switchyard	switchyard-forge-bean-plugin	0.4.0.Final		00b9777018e33acf7e7914f343fe18908cd8c04b
 org.switchyard	switchyard-forge-bean-plugin	0.4.0.OS1		098ae8192b996e291a65690c5d654db0611b19e4

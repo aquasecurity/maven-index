@@ -751,6 +751,8 @@ io.ktor	ktor-server-config-yaml-watchossimulatorarm64	3.1.1		8f4932be5f63255ef86
 io.ktor	ktor-server-config-yaml-watchossimulatorarm64	3.1.1	metadata	6a72c38f5bf0d524986aa4a9253f8625d21c0561
 io.ktor	ktor-server-config-yaml-watchossimulatorarm64	3.1.2		3a233e1a2b0a583c05196e586292afd1c71e1201
 io.ktor	ktor-server-config-yaml-watchossimulatorarm64	3.1.2	metadata	2b8a2b4f664d196f5430db1b418a2f11fd815ba9
+io.ktor	ktor-server-config-yaml-watchossimulatorarm64	3.1.3		58eeda8be0c4447e39576c3e89608c90df5788d3
+io.ktor	ktor-server-config-yaml-watchossimulatorarm64	3.1.3	metadata	6159559e258ba153a14971158a6552f00d24c62f
 io.matthewnelson.kotlin-components	request-concept-jvm	1.0.0		32209fa58a178f6b4d731cf81bc8d669e84ee9b4
 io.matthewnelson.kotlin-components	request-concept-jvm	2		6fa1f687afd41a4007923841772e8507e7d6796d
 io.matthewnelson.kotlin-components	request-concept-jvm	3.0.0		8e7b46a7ab7ce7045b17010b87c94be19e8d4cdc
@@ -1058,6 +1060,7 @@ org.apache.tomcat	tomcat-jsp-api	10.1.36		9dbb43abbc098176171598355c0d48a294c4f2
 org.apache.tomcat	tomcat-jsp-api	10.1.39		3ec54b1d4ac5f612cfbf84065fab87adc1942a81
 org.apache.tomcat	tomcat-jsp-api	10.1.4		2550e115b057d585481a99469ebdcee5ef780c19
 org.apache.tomcat	tomcat-jsp-api	10.1.40		e110727e97032e8ffad5b716316c47588e83ec8e
+org.apache.tomcat	tomcat-jsp-api	10.1.41		914791ed4d1cb3e9ea8a0dec6068ac6df2ae5e4a
 org.apache.tomcat	tomcat-jsp-api	10.1.5		0bcd16a4977a9f68387c13149b95eecd1b1963f9
 org.apache.tomcat	tomcat-jsp-api	10.1.6		e254247a010b6b425567733ad30ef1104732d3e6
 org.apache.tomcat	tomcat-jsp-api	10.1.7		d3157c4fc2d92b7029e63a8b9f47f04940e8e684
@@ -1093,6 +1096,7 @@ org.apache.tomcat	tomcat-jsp-api	11.0.3		7a81a43e4cef34fe25276a4a7929bcf8ee87e3b
 org.apache.tomcat	tomcat-jsp-api	11.0.4		a7689b44512c0171bc563a373c4a527f1cb0d68c
 org.apache.tomcat	tomcat-jsp-api	11.0.5		19c77a4d4be4bcdd417ed458c7d027e86ab9c2d5
 org.apache.tomcat	tomcat-jsp-api	11.0.6		1d190627cbb2df5c5dbc5bd78b38afbf184026d2
+org.apache.tomcat	tomcat-jsp-api	11.0.7		f184139e62f20f6d64e118ec77b7c98dde1e9ed4
 org.apache.tomcat	tomcat-jsp-api	7.0.0		cb732b48e0b0d8cd0abb5d6749b37b3fd49f5122
 org.apache.tomcat	tomcat-jsp-api	7.0.100		efd930b2c3dd91cdfd83e6a94951d75fbc888ead
 org.apache.tomcat	tomcat-jsp-api	7.0.103		df026b7a4daa37540b3cdaff3c8ae7335bf5108b
@@ -1323,6 +1327,7 @@ org.apache.tomcat	tomcat-jsp-api	9.0.10		cca43cbe5434bf5f97bedcfafd99dd928b0f1cb
 org.apache.tomcat	tomcat-jsp-api	9.0.100		b422449c80176744cfe239726559136a26b8f8d3
 org.apache.tomcat	tomcat-jsp-api	9.0.102		a336b416ece5e34cafaebea96d6d304b1c9743d1
 org.apache.tomcat	tomcat-jsp-api	9.0.104		12d1c5885fe4e3c860fcf2813fde33c4ebf7a75a
+org.apache.tomcat	tomcat-jsp-api	9.0.105		749a36e102ebc5023dc1dc37e3c592df38821dd7
 org.apache.tomcat	tomcat-jsp-api	9.0.11		dbce516935b84bf7012d006e6796d6d4a0c30d46
 org.apache.tomcat	tomcat-jsp-api	9.0.12		d0fc6b34599b6f919006420606a711385e0f6bb1
 org.apache.tomcat	tomcat-jsp-api	9.0.13		2478355eecbc3892c8b492a1d147ed0809fd8bf3
@@ -1517,10 +1522,17 @@ org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functio
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.80.0		01a4cd9801acbc698f79ab410e05316f8b9fe333
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.81.0		045755f1319b40999b6a6604d4493d8773aff32e
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.82.0		62e3005c131ce5b941dcfb740168dce2b889a70d
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.82.1		26f5d743df535303d010b94c21aabbbd187a3b30
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.83.0		bcac43c66617f356275079863a2b1c768c5a488d
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.83.1		9e1d88cd260530929b1b76e689869b4477002f34
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.83.2		59cd98380889b5ce1a020de709fd546764077d3c
 org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.83.3		bbe2b70747fbf05b00cd7e13387720ec2cffa911
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.84.0		703982f5d57467801df7001ad166f5fec04918c8
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.84.1		5bd9fc62ee076d377acf6879f294ffb183f0601c
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.85.0		7a1b4b6adc2f4dac9b6e766c6ef120049d6820b1
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.85.1		e3fc5e59a99f91f1ef12982f5fabcc29b49a63fb
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.85.2		b3e112fe29bc4c425e92f74ca6ed1c95194d51b4
+org.finos.legend.engine	legend-engine-pure-runtime-java-extension-shared-functions-javaCompiler	4.85.3		1678ef031c449ae15f796a41807cecc0831d4bfc
 org.glassfish.docs.help	console-common-help	4.0-b02		3c67a329bcac52a76b02fe4bfb2b9892ff54e8a8
 org.glassfish.docs.help	console-common-help	4.0-b03		715f0975a7a79879ee425940c9730aea89d27c77
 org.glassfish.docs.help	console-common-help	4.0-b04		94528ba0194a00d0d4f4c8f6c48ba8e70d04dfee
@@ -2672,6 +2684,8 @@ se.laz.casual	casual-event-api	3.2.50		def0ef6391c085fc6fcf786dadb3de21327752f3
 se.laz.casual	casual-event-api	3.3.0		d57f756dd907c8508fe83edad078e28c45eab0f3
 se.laz.casual	casual-event-api	3.3.1		a9a191356a344c37c7fe95b58dacb95362dd554f
 se.laz.casual	casual-event-api	3.3.4		1841c7dfbef2618e85132a80730245ef7d27c9b4
+se.laz.casual	casual-event-api	3.3.5		c2bd370dcf3b1692daef5a4f2e25c94ee613b77c
+se.laz.casual	casual-event-api	3.3.6		794b01058ac9c741d800d8628f659ee1d4cfe2a3
 tech.cassandre.trading.bot	cassandre-trading-bot-spring-boot-starter	0.0.1		a5a6ca33c4a100976555552a309245d38a7a2304
 tech.cassandre.trading.bot	cassandre-trading-bot-spring-boot-starter	0.0.10		5d81580654a6086c7fc352d694e4c983a4bdf2c3
 tech.cassandre.trading.bot	cassandre-trading-bot-spring-boot-starter	0.0.11		ac7a253615cf4dd15ad28dd64b1f120b94fa39e5

@@ -32,6 +32,7 @@ com.doist.x.normalize	doistx-normalize-iosarm64	1.0.0	metadata	31dcacfc4b2ed5c7a
 com.exmertec.dummie	dummie	0.0.1		a08fec0a7f2ac5acb14471c472f3c7c33cd53219
 com.exmertec.dummie	dummie	0.1.0		03bbe3d986acc8b417de64bf2505a84944d11c92
 com.exmertec.dummie	dummie	0.2.0		5e1d2c0476e5cf704053f52838273ba84ceec189
+com.geeoz.sbt	sbt-pawl_2.12_1.0	0.2.4		d7f729f7ab358c54a5dc8c823688df61e3b068b2
 com.gitee.chinasoft_ohos	circleprogressindicator	1.0.0		N/A
 com.github.cafaudit	caf-audit-service-ui	3.1.0-50		N/A
 com.github.cafaudit	caf-audit-service-ui	3.10.0-936		N/A
@@ -565,8 +566,17 @@ de.dentrassi.eclipse.neoscada.core	org.eclipse.scada.ae.server.info	0.1.0		61a9b
 de.plushnikov.lombok-intellij-plugin	processor-core	0.1		96caffe898686c3830a8da7fc0cbcbbd8844fd76
 de.plushnikov.lombok-intellij-plugin	processor-core	0.2		3e79a13d5408d8f086b973d62edf06ba396f4875
 de.plushnikov.lombok-intellij-plugin	processor-core	0.3		5a725fb0d5d2156ec32fee681bb96d110ebdd16d
+de.plushnikov.lombok-intellij-plugin	processor-core	0.3	10.5.4	bb96aad266d5eb0946c86b7c9d0551110a94845b
+de.plushnikov.lombok-intellij-plugin	processor-core	0.3	11.0.1	78b616b27f2746089040d2e065a2f991408c356a
+de.plushnikov.lombok-intellij-plugin	processor-core	0.3	9.0.4	5d4be5c25046902a4bf59dff9d57a34f97fc01e9
 de.plushnikov.lombok-intellij-plugin	processor-core	0.4		e9dc48a1f1ecb10dd86e6d41e79794e6cc36a26e
+de.plushnikov.lombok-intellij-plugin	processor-core	0.4	10.5.4	efb838ddddcf0512a4cbb59f14943aee2c85ad71
+de.plushnikov.lombok-intellij-plugin	processor-core	0.4	11.0.1	ca35f5a9f19aa97d1adf0dc0ac7262f0884a7e83
+de.plushnikov.lombok-intellij-plugin	processor-core	0.4	9.0.4	c22ef1c85695897c4058be99e61621cbf9b8f3d7
 de.plushnikov.lombok-intellij-plugin	processor-core	0.5		b4473cc5f1f64fd81a6ed21f6171ee130f2525db
+de.plushnikov.lombok-intellij-plugin	processor-core	0.5	10.5.4	96b529c5945f9421adc9c14570eb03c76730d584
+de.plushnikov.lombok-intellij-plugin	processor-core	0.5	11.1.3	b4473cc5f1f64fd81a6ed21f6171ee130f2525db
+de.plushnikov.lombok-intellij-plugin	processor-core	0.5	9.0.4	31755bfb0ac07f001d2a6a6e42e4e39cdf579344
 de.saumya.mojo	ruby-tools	0.1		0c20ecbed65da183ab055d91c8cdbdde7323f6f2
 de.saumya.mojo	ruby-tools	0.2		502046989255db6402212c05a0112453593cd320
 de.saumya.mojo	ruby-tools	0.25.0		080787999ccaa190bfab3539e8358f5f55d1bf77
@@ -849,6 +859,19 @@ org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.41.1		37f0f560c4b2fc8cd
 org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.42.0		50c72a8f102eeee86749000b203529813c8b25b9
 org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.43.0		c1bd8c3206d86956799058dbdc3f5fa8124e01bc
 org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.44.0		4a17f71bb80102558bb3c001eba48e770a4fc9c7
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.0		f5fcee13cdddc422cc9345fae8c04565433876d3
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.1		54a5df8925695811a7ee473a3a59baa6d8a38e4d
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.10		69f942f73e89bea06445e4ad675d91bad4419ce4
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.11		d255d035afd3c92499498daa0857761ed60425d0
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.12		13f2e34d0c2f5e1eeb8eb709b948d475059a6c0c
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.13		9c7b1d6811f22f87b850dcb4b3e84a3ebda8b993
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.3		2b255e360716408386aa71be9446d127254e6984
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.4		d90cba90b4982b36f33b91b1986267c174a811b4
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.5		ccf52ad7644fcb74e6df98839970e9e23910305a
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.6		17ccdf0ba1b2a4f96ce22206b96d25413b001c4e
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.7		a1c561ae39abc05cf9fd00ffaddbba79508ec045
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.8		a054efebe17deb30e06a4e3c732b763435628c61
+org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.45.9		060bf0e027932521c14d78ac51f43d7b8b3e1051
 org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.5.0		36ff21d58b5d614e580b79cf993805b29f8919aa
 org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.6.0		9e7d42db954e600e2dbbe843844efeb5acbc11c6
 org.eclipse.dirigible	dirigible-database-mongodb-jdbc	11.6.1		318e578fd21f05f5cd37a8d62a54fbc67e3a4e50

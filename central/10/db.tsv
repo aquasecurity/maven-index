@@ -46,6 +46,7 @@ app.cash.redwood	redwood-widget-compose	0.6.0		b163e3e23b9d957d9e5e688c1c0a7069f
 app.cash.redwood	redwood-widget-compose	0.7.0		1195f34c1e14b729ca41aebaf33bc0f40be269bc
 app.cash.redwood	redwood-widget-compose	0.8.0		9a94f0149eb2bb7306eb6bbaa7858043ae77dae2
 app.cash.redwood	redwood-widget-compose	0.9.0		2d8a9aa920ddf7b61dd5fb4f9bf54241b678224e
+ch.epfl.scala	sbt-compatibility_2.12_1.0	0.0.9		928b0203ad06e677f57cb79df0affd19223b2112
 com.daugeldauge.kinzhal	kinzhal-annotations-iossimulatorarm64	0.0.4		N/A
 com.daugeldauge.kinzhal	kinzhal-annotations-iossimulatorarm64	0.0.4	metadata	7c5ba0250c49e5b80b0ac2641f6320ba5d23fee4
 com.daugeldauge.kinzhal	kinzhal-annotations-iossimulatorarm64	0.0.5		N/A
@@ -253,6 +254,7 @@ com.iohao.game	light-game-room	21.23		c7c981052ef8e30de3d4a6c91732986026a40bc7
 com.iohao.game	light-game-room	21.24		76de74519f3cd6dcc79acff8660e81aa855dea02
 com.iohao.game	light-game-room	21.25		ed1607652d3fb77e28da569c642d00874900342e
 com.iohao.game	light-game-room	21.26		0b672c5351f95b6ef99702094b40ceec13baa560
+com.iohao.game	light-game-room	21.27		7138fb3c8cf5b59424e91787e13d9cf763b1f3b5
 com.iohao.game	light-game-room	21.3		38d8805ea74edd8fe34c11b40069f2cbcc14c0eb
 com.iohao.game	light-game-room	21.4		c7029977839528228e4f0874cbdd4a43b4f15e97
 com.iohao.game	light-game-room	21.5		0df688a3c7d504a3c99b8e996a8d6887f06fb293
@@ -680,6 +682,7 @@ fr.insee.lunatic	lunatic-model	5.0.0-SNAPSHOT.1		0f406e202d29be311e74ec0faf6643e
 fr.insee.lunatic	lunatic-model	5.0.1		4890c19adc27f835a8836a7e173413ad3c20b270
 fr.insee.lunatic	lunatic-model	5.1.0		cef51d61bf461cd1492c329cad9fa635d3ebe100
 fr.insee.lunatic	lunatic-model	5.2.0		c53f70bfc13bf2701b1e65999549d0a26b3e3635
+fr.insee.lunatic	lunatic-model	5.2.1		992dc925bf61e784544b641949c9d6c571cf53a9
 fr.jetoile.hadoop	hadoop-unit-zookeeper	1.2		ab85e853370b4fb3aa5807c1e29202773be92295
 fr.jetoile.hadoop	hadoop-unit-zookeeper	1.3		4683ae50d8ce55fdcb84e5ea60a4c6e308eb2ffc
 fr.jetoile.hadoop	hadoop-unit-zookeeper	1.4		1707e4342b3359f687de711354a61028cf62d8a8
@@ -791,6 +794,7 @@ io.github.hansanto	kault-iosarm64	1.5.0		N/A
 io.github.hansanto	kault-iosarm64	1.5.0	metadata	189c55eb4c8ffcfa4d30aaaaf2a6c9e33de43423
 io.github.hansanto	kault-iosarm64	1.5.1		N/A
 io.github.hansanto	kault-iosarm64	1.5.1	metadata	b8272ed4699c0c62d8a713deebd71f4bce0ba91d
+io.github.hansanto	kault-iosarm64	1.5.2	metadata	213b35209c2f84363c0a75b72edb98500a30d9a7
 io.github.jan-tennert.supabase	coil3-integration	2.7.0-beta-1		4d91ebc1a6a146994e13736c59ef1a4ef7562e32
 io.github.jan-tennert.supabase	coil3-integration	3.0.0		4d91ebc1a6a146994e13736c59ef1a4ef7562e32
 io.github.jan-tennert.supabase	coil3-integration	3.0.0-beta-1		4d91ebc1a6a146994e13736c59ef1a4ef7562e32
@@ -807,6 +811,8 @@ io.github.jan-tennert.supabase	coil3-integration	3.1.1		4063e594886a0e0344ecae3f
 io.github.jan-tennert.supabase	coil3-integration	3.1.2		4063e594886a0e0344ecae3f325a5a0d8c795c22
 io.github.jan-tennert.supabase	coil3-integration	3.1.3		4063e594886a0e0344ecae3f325a5a0d8c795c22
 io.github.jan-tennert.supabase	coil3-integration	3.1.4		04b604a72f1f5931af76de7fcc785a38198be932
+io.github.jan-tennert.supabase	coil3-integration	3.2.0-beta-1		04b604a72f1f5931af76de7fcc785a38198be932
+io.github.jan-tennert.supabase	coil3-integration	3.2.0-beta-2		04b604a72f1f5931af76de7fcc785a38198be932
 io.github.kalin-rudnicki	harness-zio-test_3	2.2.1		5f257cd708eb11dd4e35c524ec8267af49aba7f4
 io.github.kalin-rudnicki	harness-zio-test_3	2.2.2		3a74a2d1a3a95a0186224fdb0dc47f11bcfea6c6
 io.github.kalin-rudnicki	harness-zio-test_3	3.1.10		9c1c9a955cb6f1d1ff7f315702d62023321b4c54
@@ -889,6 +895,7 @@ io.github.openfeign	feign-dropwizard-metrics4	13.2.1		5e2ff9c5b606b765fa8f4507cb
 io.github.openfeign	feign-dropwizard-metrics4	13.3		a4ef153369445799a2f53a7cb6cc98dcf221f290
 io.github.openfeign	feign-dropwizard-metrics4	13.4		a1a3850fd2d307cef5e269460311dae29a38497d
 io.github.openfeign	feign-dropwizard-metrics4	13.5		715da9366734dc072d5d17b0e1ef8b8b9d020152
+io.github.openfeign	feign-dropwizard-metrics4	13.6		5ac47825da110671150b8fd0b672d116e698a33a
 io.github.rejeq	ktobs-ktor-androidnativearm32	0.1.0		N/A
 io.github.rejeq	ktobs-ktor-androidnativearm32	0.2.0		N/A
 io.github.rejeq	ktobs-ktor-androidnativearm32	0.3.0		N/A
@@ -1126,6 +1133,8 @@ io.gravitee.am	gravitee-am-monitoring	4.4.21		c126a500134bba73980f5fea7ab7657acd
 io.gravitee.am	gravitee-am-monitoring	4.4.22		6769e20b8d54aeaede63c1994f1d3ecc78a2d3ee
 io.gravitee.am	gravitee-am-monitoring	4.4.23		ebda9073a352dde7026d1680e34b8e0fb337e4d2
 io.gravitee.am	gravitee-am-monitoring	4.4.24		6f19e31bc9ba96b0411006b30de9a03a4918d7dc
+io.gravitee.am	gravitee-am-monitoring	4.4.25		e7c8580660dcf46e62232295aa906e23e873f839
+io.gravitee.am	gravitee-am-monitoring	4.4.26		33bfabf3211f7dd733e0dd870ed716657665592b
 io.gravitee.am	gravitee-am-monitoring	4.4.3		4d8cb86aec65a7a84a1bc0ff33b15698bc313ce6
 io.gravitee.am	gravitee-am-monitoring	4.4.4		d314c543bf29df0f05f3806ff9544f1879daf788
 io.gravitee.am	gravitee-am-monitoring	4.4.5		d4b3f8ad90da62b77e5a8e63586b4ed6d8dbb683
@@ -1144,6 +1153,8 @@ io.gravitee.am	gravitee-am-monitoring	4.5.11		7a4b5a0e3b01fec2b8e0f12af66411600c
 io.gravitee.am	gravitee-am-monitoring	4.5.12		0a084838accd1a9513fedc83724251a02bcb43b1
 io.gravitee.am	gravitee-am-monitoring	4.5.13		eaf1aa6cea471cde37bdb108fef76206500704ba
 io.gravitee.am	gravitee-am-monitoring	4.5.14		184c48f5d08c1f9bf4722cf2abb4eb180e92dc8e
+io.gravitee.am	gravitee-am-monitoring	4.5.15		2376508d7583bcffbabd523d857f08fa1103dfd0
+io.gravitee.am	gravitee-am-monitoring	4.5.16		09540fa88f7548f5d16e20b6345d91dec7d109c2
 io.gravitee.am	gravitee-am-monitoring	4.5.2		ad37ddd09bbb40057b00a841325a70cec437c862
 io.gravitee.am	gravitee-am-monitoring	4.5.3		ce245e22be2a5404e0c3dfc438d02702e3753eb9
 io.gravitee.am	gravitee-am-monitoring	4.5.4		b5cee280024041dc907abe4dfbe486d6fff096e2
@@ -1157,6 +1168,7 @@ io.gravitee.am	gravitee-am-monitoring	4.6.0-alpha.1		6647210644d3b4535608e9a8e33
 io.gravitee.am	gravitee-am-monitoring	4.6.0-alpha.2		eb7ababd07df85fe3f048947dd0f9dbdc9ad7059
 io.gravitee.am	gravitee-am-monitoring	4.6.0-alpha.3		20dcd0c59b128bbcd2ccaa04bd030814fbca9f98
 io.gravitee.am	gravitee-am-monitoring	4.6.1		e996b188a8ca310a5ebe747eea2b9a619af36d18
+io.gravitee.am	gravitee-am-monitoring	4.6.10		e7ccd34edc57a4d9841a1473dda63e04699e8652
 io.gravitee.am	gravitee-am-monitoring	4.6.2		b40393eddcb1be433fcdb2feace7493596107a92
 io.gravitee.am	gravitee-am-monitoring	4.6.3		d5b8e6f50df5ee5e95a2769047879923d3ced497
 io.gravitee.am	gravitee-am-monitoring	4.6.4		1146c77366cf2cd65f35b85f674e942b71d5345c
@@ -1164,6 +1176,7 @@ io.gravitee.am	gravitee-am-monitoring	4.6.5		be6befc2500297bc9f9c00a188dd7381d2d
 io.gravitee.am	gravitee-am-monitoring	4.6.6		3bd90d0641d83cfaa7032afe28b46982b08c15a0
 io.gravitee.am	gravitee-am-monitoring	4.6.7		a84176ed5996a148e1421bf42aa2015824c1f7a2
 io.gravitee.am	gravitee-am-monitoring	4.6.8		13b5b1ce06a47bb158b121cdf5532167e19233bf
+io.gravitee.am	gravitee-am-monitoring	4.6.9		d235a3377ab3c1fb62c102a3cdc3566dea69e4e7
 io.gravitee.am	gravitee-am-monitoring	4.7.0		6729738872336b433ea1702a6e908f7a40228213
 io.gravitee.am	gravitee-am-monitoring	4.7.0-alpha.1		4c2ec7ae428febd25b122599c6427b8690531c7c
 io.gravitee.am	gravitee-am-monitoring	4.7.0-alpha.2		91e39f9d2ccecf7f6699e426021329a840c142fb
@@ -1171,11 +1184,16 @@ io.gravitee.am	gravitee-am-monitoring	4.7.0-alpha.3		10117eaa96a28b50459f8face73
 io.gravitee.am	gravitee-am-monitoring	4.7.0-alpha.4		8e70f12da0979e8762929b329d3f6c1e88da97e1
 io.gravitee.am	gravitee-am-monitoring	4.7.1		a9153ab80dee0ca263e4dfb16a360d3d47ab7692
 io.gravitee.am	gravitee-am-monitoring	4.7.2		7f18d664b0327991606f572d0b82ec6cb65ce7fc
+io.gravitee.am	gravitee-am-monitoring	4.7.3		4ddd7560d7ce6227bcadf4628b77e26a6b051e16
+io.gravitee.am	gravitee-am-monitoring	4.7.4		6d8e534630792ef6cf3a61477b53c26d1e2fb7d9
 io.greptime	ingester-common	0.11.0		190f4dac753cee24c346832d0828480a6bbd8ba5
 io.greptime	ingester-common	0.12.0		8984844e37c780f2a97548043280588144280958
 io.greptime	ingester-common	0.12.1		d477ea84eebc195e4d2f0f5cb93bca72be74ee33
 io.greptime	ingester-common	0.12.2		6dfc478316a48a81d247d2dd81a9d196c7757897
 io.greptime	ingester-common	0.14.0		56727fd78f20539a6ecc489a42d5d71df5f55987
+io.greptime	ingester-common	0.14.2		81b254ff3fef5bb916718333ca6eb90f4a9bdbcf
+io.greptime	ingester-common	0.14.3		9619334500ac3d0d3a58658ddee290e0b8906b44
+io.greptime	ingester-common	0.14.4		35e7574dd8646cb30774b5b7625a78c90f5fbdc4
 io.greptime	ingester-common	0.5.0		0bc7e157d6f004d21ff91281e0312be5d76fc15e
 io.greptime	ingester-common	0.5.1		3e7e2b050c191df82440882dc333dbf4773d1619
 io.greptime	ingester-common	0.7.0		b4a935379f0955cad87921db31c760751a738144
@@ -1185,6 +1203,42 @@ io.greptime	ingester-common	0.7.3		5ff43d40882f75ca5f7d27f850036b12affe6d28
 io.greptime	ingester-common	0.9.1		a98f238686bd4cd4e464f80580de553238231807
 io.joynr.javascript.apps	radio	0.9.3		N/A
 io.sreworks	nacos-common	1.1.4		f02196fb7c0da281c1c34afb865b07472767275f
+io.takari.nexus.components	takari-nexus-jetty-connector	1.0.2		53c59159cc0fc6af66164a1b75b77b8bbfabdeb1
+io.takari.nexus.components	takari-nexus-jetty-connector	1.0.3		22795657ea52b5fbd799850b608b80f6444f8601
+io.takari.nexus.components	takari-nexus-jetty-connector	1.0.4		07b58ad0375b8ca967f43210af819fa5545b322a
+io.takari.nexus.components	takari-nexus-jetty-connector	1.0.5		abf7bb436b51bb43727a2d1092434021845eb33a
+io.takari.nexus.components	takari-nexus-jetty-connector	1.0.6		d7779026b2146bcb4e500cb37348120a94407008
+io.takari.nexus.components	takari-nexus-jetty-connector	1.1.0		1d9f288bbeb6ea818d90de68cfccc438ec7f876d
+io.takari.nexus.components	takari-nexus-jetty-connector	1.1.1		3958ba20ea0a22aae7884caf2159e192b7a1f823
+io.takari.nexus.components	takari-nexus-jetty-connector	1.1.2		cb1bc03d6aeb867d8554a6e105d03650d6ab1b66
+io.takari.nexus.components	takari-nexus-jetty-connector	1.1.3		6c05eb9dd846b561edd9452b5536d7e6da27ca51
+io.takari.nexus.components	takari-nexus-jetty-connector	1.1.4		3557f8c172175118c394bdda252091197a967067
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.0		e86c2d70ca86b45435aa2ceae4f47026efeebcd7
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.1		ece0fbe00b6d406b5f4658bde4c6595e3deccc79
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.10		73d06bf0214308d082985a337be4e44f4a24850d
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.11		5fe0bc0494d054b7a857e7d5d815f6989509cecb
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.12		a4c2d3bfb4da8eabf1b469c3ee5a876875bc4db3
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.13		c27f44658c25d7d5c8565826c9c92dd244394a19
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.13.1		385984fab05ced0d28b29d4c86bff29a35271004
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.14		19921f036bc126e1e861e7f1bff7139ad43f0afb
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.15		3fdfcf664dced869e8d7cd31fd93b81305190e98
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.16		8dfdd02f806224e53610239225c62c5f34cc43f6
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.2		032f9bbc5ce006bc6c140560ec7d17d4fd0e9c6d
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.3		b615511eb2fd525f6eedd8e87192d016c95c2eb0
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.4		b1753cec56c6cd3c83d638e26eea180af6675007
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.5		ebd925acdfbc037e9c9ad21b8d3ca3a6f04d9931
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.6		4ca54b174e809dd15bdb5fc1ca6f4b927d29b70f
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.7		53ccb09c0b1d9624a53a3e22b6449a36314180c4
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.8		986fbaf49964dc2719ec693864fd42554eaa1f93
+io.takari.nexus.components	takari-nexus-jetty-connector	1.2.9		5c9b43c7adc77d228a50583da6eb9b59ee497562
+io.takari.nexus.components	takari-nexus-jetty-connector	1.3.0		4c0c30abacb46b7e76337352b2393b8297652037
+io.takari.nexus.components	takari-nexus-jetty-connector	1.4.0		60204906085f495de27fcec3d7da59978dc79a9d
+io.takari.nexus.components	takari-nexus-jetty-connector	1.5.0		c8abab2dee62885ac3998c8b571ad46683f486dd
+io.takari.nexus.components	takari-nexus-jetty-connector	1.6.0		33a383fa371dabc11a2ab2bd44dda70c6163b023
+io.takari.nexus.components	takari-nexus-jetty-connector	1.6.1		14e1198b72b438d91709f23b882f895194f630c1
+io.takari.nexus.components	takari-nexus-jetty-connector	1.7.0		87c67791bf089bdaf4290e7644283dae9f041e79
+io.takari.nexus.components	takari-nexus-jetty-connector	1.7.1		8fa55bb065c1ee923232405507e3fba4d14b4325
+io.takari.nexus.components	takari-nexus-jetty-connector	1.7.2		38299faf4ba89e03c9a403958d3db9e1e271e239
 ir.king-app	photoPicker	1.0.0		N/A
 ir.king-app	photoPicker	1.0.1		N/A
 ir.king-app	photoPicker	1.0.2		N/A
@@ -1480,6 +1534,19 @@ org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.41.1		a67f8d3
 org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.42.0		e8424cd986931842bb30979a5e9f1f077253ac5f
 org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.43.0		3725edb3611060ca11ccc3e0b3c7ecaa5de33aab
 org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.44.0		5871c74cb17e965eefd5c0217873c5d2324ffc88
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.0		dbddadfea0944ff1e8514b8f9a7767a711005055
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.1		e9149898085788b0c2126ff4f2f906de4afd502c
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.10		ddcedb2ae9e663a574303c9de48285c46780a58a
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.11		6ce6318b1aade2a30ca9c31bc5b9ee61b5c53de3
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.12		38c712ccbc252514fe669b947cdb86e56f81bd6b
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.13		9c14bd65d54896bf3b43c838b9bb3526d2f78267
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.3		94eeb8577050197e5e8adb742830d9ac056bb0d4
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.4		15f01d43c0fa04fbc624758b8cfe4ec892dd9aa6
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.5		0ac646a81f23c2de7992c2bb865c252e0ea516a1
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.6		734eaec1543b3615c28d469a409c3e3130f0f832
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.7		e00f8df4643ed72d104df896282606a5d72efe71
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.8		283e9d846b340850bf44eae9d78271626576f72a
+org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.45.9		5dc093b0c29bd2c900f47b8c8266b52995ecd24a
 org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.5.0		5c24262c2b93648f0ee44481e31fad812178ed77
 org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.6.0		3a32c26361ec9e90f4455801d567d1f645bf2586
 org.eclipse.dirigible	dirigible-components-ui-menu-form-builder	11.6.1		0ef3d2e3603fb3f29c3109effecc9065d85c6984

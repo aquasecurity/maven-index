@@ -290,6 +290,11 @@ com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-33-c98221		209fc64884ff52d8357f6bb
 com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-39-4c3eb7		e68e9779cd13da1a6781eb1222a2e8afba1b9146
 com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-41-b39ce4		5b18d1bde3be188f86f80111f8d3d297439056b7
 com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-42-a720c3		5e9b4aa565a38b1368dc0f9f36bd181d73957ced
+com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-51-773072		780cd522de80f52c12eba5558df66916177a1b26
+com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-56-51ca83		1aedad31d3e0ac0e33e6bd7d2c8fcafd61eceb35
+com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-57-7578c2		9015756efebe1aa4698100af1d02ce3c5f503bb0
+com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-59-17fa7b		a3a8e59e3390de3e27e7e15e47b2265b2a47bdd7
+com.lihaoyi	mill-libs-init-gradle_3	0.13.0-M2-74-132761		f287f7c694628643698fc9e08deefb2e8538cbe8
 com.m3	octoparts-auth-plugin-api_2.10	2.0		244d0988f71b286f00b18a6a73c23825416d9a3a
 com.m3	octoparts-auth-plugin-api_2.10	2.2		da7340fd7ba28879c87ac4186aa842bdfdcca4c8
 com.m3	octoparts-auth-plugin-api_2.10	2.3.1		502b889c12d3e2d1074c0a675f4f8b9c86e0ff57
@@ -1032,6 +1037,8 @@ io.camunda.connector	connector-slack	8.4.16		2f48d7bf55716f033fbeb8c52367ffa95ec
 io.camunda.connector	connector-slack	8.4.16	with-dependencies	331fc731fea240dc8901fab6104b421dae650387
 io.camunda.connector	connector-slack	8.4.18		64647bb10b117739490c8726cc5f5eedab05e0cc
 io.camunda.connector	connector-slack	8.4.18	with-dependencies	5657274f4c6ac7ffde1e5c13da81906e6ad2ba8c
+io.camunda.connector	connector-slack	8.4.19		772e2cd53fb51d386bd9cdcba87eeecd7282e7a2
+io.camunda.connector	connector-slack	8.4.19	with-dependencies	0fda999bbe77bee259ac4102b841ab628f6064bf
 io.camunda.connector	connector-slack	8.4.2		363fc0e28b6bbe45b20a15eac96772203b90442e
 io.camunda.connector	connector-slack	8.4.2	with-dependencies	9e8c24ee3ccccf161cab2ab3cbbc7df9ec0efbec
 io.camunda.connector	connector-slack	8.4.3		ddca7e18432a55783d6e982786d35411b2e92c36
@@ -1098,6 +1105,8 @@ io.camunda.connector	connector-slack	8.6.10		0a73cb3fd19ae706631cc5317bdd302ec30
 io.camunda.connector	connector-slack	8.6.10	with-dependencies	5abfcb77d2f7ac1f99b799c3ee83e9e0a231feb5
 io.camunda.connector	connector-slack	8.6.11		562468b2ff5687215541b0ea6d582bb1df22a002
 io.camunda.connector	connector-slack	8.6.11	with-dependencies	61352f38a5366ce97166585bbe68a3021549507d
+io.camunda.connector	connector-slack	8.6.12		682afde35bc67678f645afb5f9493c8334c22a14
+io.camunda.connector	connector-slack	8.6.12	with-dependencies	3afc97c1465055234bf4aabc8790243ec6e81e1b
 io.camunda.connector	connector-slack	8.6.2		e0b71fd04c8ea083111fbf43d08be0f7ed232f55
 io.camunda.connector	connector-slack	8.6.2	with-dependencies	551a7a5ef1c9a2919542cf181ca2d47ff2546afd
 io.camunda.connector	connector-slack	8.6.5		0efd10b583c423a43fe278fafa15696c8d4c4300
@@ -1120,10 +1129,18 @@ io.camunda.connector	connector-slack	8.7.0-alpha3.3		b973d2695c5a329459ff4314a86
 io.camunda.connector	connector-slack	8.7.0-alpha3.3	with-dependencies	5b0b5cbf7ba742a3e5b97ec7c2df48c489994566
 io.camunda.connector	connector-slack	8.7.0-alpha4		d26cbe1c541869c63c2269407be26ea5a65b5e12
 io.camunda.connector	connector-slack	8.7.0-alpha4	with-dependencies	8f77c9b182ef7b29132c97a5c5bae4025deb0a03
+io.camunda.connector	connector-slack	8.7.1		f0a53a78fedd96766350c6ef5eb87ae6237ed387
+io.camunda.connector	connector-slack	8.7.1	with-dependencies	81ee48da35908bc29ff630850be1ed8b1fae35af
+io.camunda.connector	connector-slack	8.7.2		e3f63056a6d9b38dd0d263f77bc9b056e112ead9
+io.camunda.connector	connector-slack	8.7.2	with-dependencies	261522613d7c7382f2fab9536366069dd1f35fb6
 io.camunda.connector	connector-slack	8.8.0-alpha3		1420ec2b662946e4c11c113cff9199f6c4d47505
 io.camunda.connector	connector-slack	8.8.0-alpha3	with-dependencies	d3d1553bc0a926d1c91fcd9200c25817c14d77ae
 io.camunda.connector	connector-slack	8.8.0-alpha3.1		a65e1a6a68eefa9ff2104a584a6e38053df4118f
 io.camunda.connector	connector-slack	8.8.0-alpha3.1	with-dependencies	24afdda09c648bedcb52046ce7040da72fa9a1af
+io.camunda.connector	connector-slack	8.8.0-alpha4		d34b45106187e4591fd8e8b5040329ae68945d6a
+io.camunda.connector	connector-slack	8.8.0-alpha4	with-dependencies	dc99c920977073dfe9dfbfe8ba1610bebc16c911
+io.camunda.connector	connector-slack	8.8.0-alpha4.1		139f82563419ae5ee0dd55a3f767716d9b9813da
+io.camunda.connector	connector-slack	8.8.0-alpha4.1	with-dependencies	c04fdfcac6d9e68d3160dbb61e94e85bd5c38e60
 io.corbel	webfs	1.21.0		f216c74a3793245bc5182fcb889f7a858b909aaf
 io.corbel	webfs	1.22.0		2d1aeff216804dae1d78ec977dd783e725b820c7
 io.corbel	webfs	1.23.0		48ca9aa5c82c3840193bbe9e07ac2be063fb52e8
@@ -1400,6 +1417,7 @@ io.toolisticon.aptk	aptk-example-annotationprocessor	0.28.0		de8506604eb4792e5fb
 io.toolisticon.aptk	aptk-example-annotationprocessor	0.29.0		31473c37e62994e856a992651de4821c8a42ee03
 io.toolisticon.aptk	aptk-example-annotationprocessor	0.30.0		c8d8f8245f695864824295d37b5599d4bbfa67e6
 io.toolisticon.aptk	aptk-example-annotationprocessor	0.30.1		560015dfd81c0b98c6fb396d56d976c4c03dd350
+io.toolisticon.aptk	aptk-example-annotationprocessor	0.30.2		0313aa251d1961975e2adedd12a4a921b4c4a87a
 io.uhndata.cards	cards-vocabularies	0.9.22		a3b58d3907ab1835fcfc704aa87df44cbe29e517
 io.uhndata.cards	cards-vocabularies	0.9.23		85d6201850f27b26e77c13e3c995a16f29673033
 io.uhndata.cards	cards-vocabularies	0.9.23.1		5e087f372d1c14082ab28ac52380a5f8833baafc
@@ -1607,6 +1625,7 @@ org.apache.tomcat	tomcat-jaspic-api	10.1.36		7aa159356bcffc84923798bd34f30f826be
 org.apache.tomcat	tomcat-jaspic-api	10.1.39		308fcee8e21cc27e174193bea20dcb7020dd8ced
 org.apache.tomcat	tomcat-jaspic-api	10.1.4		0f71b96ee27b5883db6faefb923ead61013e5415
 org.apache.tomcat	tomcat-jaspic-api	10.1.40		8f1432f11ab963e7c34e8f37606ba444515fff96
+org.apache.tomcat	tomcat-jaspic-api	10.1.41		fafe870fa8dee3fd302ec3437606bb84bf0fac1b
 org.apache.tomcat	tomcat-jaspic-api	10.1.5		b7e323e1675dae55a2ffaba56236236abdfec617
 org.apache.tomcat	tomcat-jaspic-api	10.1.6		f1e0e753c7381bd1e594c1ad7428590e58f82503
 org.apache.tomcat	tomcat-jaspic-api	10.1.7		062222a04f6c7df49d4aa077761f3fb96bf664b0
@@ -1642,6 +1661,7 @@ org.apache.tomcat	tomcat-jaspic-api	11.0.3		ecc98d4456c967a701413a0bbab5d4965b72
 org.apache.tomcat	tomcat-jaspic-api	11.0.4		d41b278ae1cc26f9dba35bde1ddedae592215d1f
 org.apache.tomcat	tomcat-jaspic-api	11.0.5		8d8f116fb70ba1158402fb590dca3b4c665b6fd0
 org.apache.tomcat	tomcat-jaspic-api	11.0.6		1217005a5e02cdc17ee5922de45b7b01cb5ae408
+org.apache.tomcat	tomcat-jaspic-api	11.0.7		742c0e01e2c485c7d7426c24802c2baaa813b92e
 org.apache.tomcat	tomcat-jaspic-api	8.5.100		07c5566e0fb3a1d926b4500da6d98221fa79e88a
 org.apache.tomcat	tomcat-jaspic-api	8.5.11		747c60bef2143f23f7f1115d72bca81a3ffd54a4
 org.apache.tomcat	tomcat-jaspic-api	8.5.12		d8144ab792960e7c33e94d3c6252801af57d3219
@@ -1737,6 +1757,7 @@ org.apache.tomcat	tomcat-jaspic-api	9.0.10		e76cec950eeb2d30324d497e17310e47fb89
 org.apache.tomcat	tomcat-jaspic-api	9.0.100		9b9bfec4c0520a59213b7f7bdb7d67f9af97c17b
 org.apache.tomcat	tomcat-jaspic-api	9.0.102		077369f9bbfb2bdf2838a001b4639d1fd18a1710
 org.apache.tomcat	tomcat-jaspic-api	9.0.104		f809e5fc39c9cd4a029a56973a71fd2de6a2cb3c
+org.apache.tomcat	tomcat-jaspic-api	9.0.105		caeae94bc8177e4fb85a0fc55fe90bb6a073502c
 org.apache.tomcat	tomcat-jaspic-api	9.0.11		03a9a42baa99c86226518b316e3f933f1863630d
 org.apache.tomcat	tomcat-jaspic-api	9.0.12		05d6d2aab1b9db1002e8f0355e31b12202c019f9
 org.apache.tomcat	tomcat-jaspic-api	9.0.13		3698c12a1ae962552b65f7ca1414af5b2ba63935

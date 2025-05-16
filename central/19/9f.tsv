@@ -200,6 +200,8 @@ com.google.apis	google-api-services-networkconnectivity	v1-rev20250122-2.0.0		89
 com.google.apis	google-api-services-networkconnectivity	v1-rev20250226-2.0.0		95da1a40903d3a387fc2559a97a69eee86eef2c6
 com.google.apis	google-api-services-networkconnectivity	v1-rev20250318-2.0.0		d65ac97cc870d3a333d602014d5ad1781fd9ca54
 com.google.apis	google-api-services-networkconnectivity	v1-rev20250414-2.0.0		23f2e05c7b4cbd1582709a86925b184455574e18
+com.google.apis	google-api-services-networkconnectivity	v1-rev20250502-2.0.0		3ca145446df6086aa7c7967fc12491d6b199c5a3
+com.google.apis	google-api-services-networkconnectivity	v1-rev20250512-2.0.0		a09b4974ef2bac570377a719f56034635011a4c0
 com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20210129-1.31.0		3be8326f4d1d919692ad1fdea1889302dbf5f2c8
 com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20210303-1.31.0		dc5aed782d53d49e1a165d848531666702bc8790
 com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20210324-1.31.0		b4f22b48079a8643fce33ae4489da229d7b21ef4
@@ -240,6 +242,7 @@ com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20250122-2.0
 com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20250219-2.0.0		89f0f48a53f14a4d1cbdeeb5f6eabffd860311d1
 com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20250318-2.0.0		3e4ba34009eb775a4bc1d7ba5707d059e6d084fe
 com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20250414-2.0.0		734a61d6089f2bad6c9b2aaf18a9ed8377874fdd
+com.google.apis	google-api-services-networkconnectivity	v1alpha1-rev20250502-2.0.0		563eca1dba7d0687e42ce8548f9af8a7f6c0d4ab
 com.kailuowang	scanamo-cats-effect_2.13	1.0.0-M15+111-7b9e8b0b		bd5b1b8177f724ffa53b44708de1b7d4ffd5bdd7
 com.kodypay.api	kody-clientsdk-java6	0.0.1		d79584731fe7ac2867ee9f6a1790ec18405c12fa
 com.kodypay.api	kody-clientsdk-java6	0.0.2		69af4dc889a8eebace02564cba7341784cc1923b
@@ -281,6 +284,7 @@ com.oracle.database.jdbc.debug	ojdbc8dms_g	19.23.0.0		3e204f6406fc682e3248fec9c3
 com.oracle.database.jdbc.debug	ojdbc8dms_g	19.24.0.0		a961b8cf2a1c18205c49f751b585ff2377328d81
 com.oracle.database.jdbc.debug	ojdbc8dms_g	19.25.0.0		4b652e723d5e829296dc1baecaa2f6f3825cb771
 com.oracle.database.jdbc.debug	ojdbc8dms_g	19.26.0.0		953d1c86f8b3e4a4c0114f2d0825ab83b9a8762f
+com.oracle.database.jdbc.debug	ojdbc8dms_g	19.27.0.0		0bc82dc8af53f402ba6dbff108c17fb474c4a8f3
 com.oracle.database.jdbc.debug	ojdbc8dms_g	19.3.0.0		2b927dca8791a4bca9de7adb813bd118f7c94459
 com.oracle.database.jdbc.debug	ojdbc8dms_g	19.6.0.0		af8e5fcd8c1968709e253304656286e01429d95f
 com.oracle.database.jdbc.debug	ojdbc8dms_g	19.7.0.0		018b3e0c17a76cc2cd5fe149f2a674c89f8d105c
@@ -428,6 +432,8 @@ com.playtika.testcontainers	embedded-elasticsearch	3.1.0		ba1ba1c32b7076170344e5
 com.playtika.testcontainers	embedded-elasticsearch	3.1.1		a4cb4038602d6eb92c8e4219d2856ba888c62a63
 com.playtika.testcontainers	embedded-elasticsearch	3.1.10		5bdb5786624d11a09d3c1ba8a4965857004acb99
 com.playtika.testcontainers	embedded-elasticsearch	3.1.11		ac990ccb833e5ed78c1fb34783b57bfd40ec976f
+com.playtika.testcontainers	embedded-elasticsearch	3.1.12		6f5d3e5d2cf0f2953d445ea90366a3aa9d0f8eda
+com.playtika.testcontainers	embedded-elasticsearch	3.1.13		ff6a86049d1196f9d069496cb7146c6451c4a1af
 com.playtika.testcontainers	embedded-elasticsearch	3.1.2		491c6b466091908dbf9acba4438f606ab80ac662
 com.playtika.testcontainers	embedded-elasticsearch	3.1.3		4e9eb984c4cc6b6ae259f79db74da29aa56a639d
 com.playtika.testcontainers	embedded-elasticsearch	3.1.4		11760ba932dabf2590350fdd7abc2439eb362e25
@@ -807,6 +813,7 @@ dev.zio	zio-aws-ebs_2.12	7.31.27.1		6a88e836481d5798c2f37edf6c4999c8809bd33c
 dev.zio	zio-aws-ebs_2.12	7.31.28.1		f80a1ecea0a393d05bde6806c0480a6e3d8ac70e
 dev.zio	zio-aws-ebs_2.12	7.31.3.1		16e4a29e417d0f307d5e219299f3e28a3cdebe7c
 dev.zio	zio-aws-ebs_2.12	7.31.30.1		faea99a0aa6d9e519a37f331943c8721f871026d
+dev.zio	zio-aws-ebs_2.12	7.31.30.2		d0d23654abce21d492023b32a846ee79e127fcab
 dev.zio	zio-aws-ebs_2.12	7.31.4.1		bacbb60160a186881d16c6ead522f9fb0398fd81
 dev.zio	zio-aws-ebs_2.12	7.31.6.1		7d3b2b4d6c07bc4c2ae93bd4b148d4900a63b1ca
 dev.zio	zio-aws-ebs_2.12	7.31.6.2		fab39c4521d60e0033a91e2e5ef164b1f0a59bab
@@ -899,6 +906,7 @@ io.eqoty.kryptools	bech32-watchossimulatorarm64	0.6.1	metadata	cceb0eac3a960bcfc
 io.fruitful	ecomerce	1.0		811499eaeb2f6afa8c196cd5c067fa467be1f73f
 io.fruitful	ecomerce	1.1		1e3fea1124222aac5ad60d4263c0731ae4d415a4
 io.fruitful	ecomerce	1.2		48af24252360a776ad13cd0160f7945901e007df
+io.fruitful	ecomerce	1.3		a36a8eedb884b2b08c84c0133170294f1b9f861b
 io.fruitful	ecomerce	1.4		1d1d72cc4dd569a719e4d1485da4069427030ac9
 io.fruitful	ecomerce	1.5		588415fd921f6b03d050585490af33b609f9805d
 io.fruitful	ecomerce	1.6		4ad421398756bcab3ce0bbc331c09bba66cbafdf
@@ -1026,6 +1034,7 @@ io.ktor	ktor-utils	3.0.3		ffaaf6138ac040b1c2ec6053b596abd9651fd887
 io.ktor	ktor-utils	3.1.0		648f56cac79777b3bdeca69f9b0c35a371c1b4f3
 io.ktor	ktor-utils	3.1.1		648f56cac79777b3bdeca69f9b0c35a371c1b4f3
 io.ktor	ktor-utils	3.1.2		7d8a2e104c1bb4359fc98f955baeca4238c26f3e
+io.ktor	ktor-utils	3.1.3		7d8a2e104c1bb4359fc98f955baeca4238c26f3e
 io.leopard	myjetty-test	0.9.11		7ccaca57116f790a7f8b3f7029acd11bcd5fb482
 io.leopard	myjetty-test	0.9.12		2f80dce643d9fd64e796b6454cfcb25ceb696a7b
 io.mailguru	gradle-config	1.0.1		031a9c7e7e500416fe60956437894d5000c96deb
@@ -1307,10 +1316,12 @@ org.jetbrains.kotlin	analysis-api-test-framework	2.1.20-Beta2		b3c2c39ab5f4052ec
 org.jetbrains.kotlin	analysis-api-test-framework	2.1.20-RC		c37f997a7335351d5356b2872244c093392cd651
 org.jetbrains.kotlin	analysis-api-test-framework	2.1.20-RC2		72b44597db31f78e6c261bb18b33b8bd87d3dcc3
 org.jetbrains.kotlin	analysis-api-test-framework	2.1.20-RC3		8c6a7cabb29a057b0ab0907e9903cc7af3a043d4
+org.jetbrains.kotlin	analysis-api-test-framework	2.1.21		194d7eb25787d2808dc23e1b60c0c1f568699a5b
 org.jetbrains.kotlin	analysis-api-test-framework	2.1.21-RC		0baef309fba5bc7e07ea957256509b7404534544
 org.jetbrains.kotlin	analysis-api-test-framework	2.1.21-RC2		f993a26bb8fbbb4cf6d05516a116b8e19adc2f87
 org.jetbrains.kotlin	analysis-api-test-framework	2.2.0-Beta1		f44d2895068a59f3a4b57e2a64ff5dbedf53335b
 org.jetbrains.kotlin	analysis-api-test-framework	2.2.0-Beta2		28bb8f9e2f905276ac5fc71df007276cee18bc28
+org.jetbrains.kotlin	analysis-api-test-framework	2.2.0-RC		a65a604d9df5d4c30cd16aeeb1f4f164655c3fea
 org.jibx.schema.org.opentravel._2013A	org.jibx.schema.org.opentravel._2013A.base.touractivity	1.1.1		b4efaa87c2a463e5f4d26ada93e0af291ca9f06b
 org.jibx.schema.org.opentravel._2013A	org.jibx.schema.org.opentravel._2013A.base.touractivity	1.1.4		2f1d8df90bd5a78f868977902d0ce433f0af9355
 org.jibx.schema.org.opentravel._2013A	org.jibx.schema.org.opentravel._2013A.base.touractivity	1.2.0		14523bf57caa7174ec9761ce2c1ae4d24395c852

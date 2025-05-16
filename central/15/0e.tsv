@@ -242,6 +242,8 @@ com.google.api.grpc	grpc-google-analytics-admin-v1beta	0.68.0		58bbdf7c39d411222
 com.google.api.grpc	grpc-google-analytics-admin-v1beta	0.69.0		4c0a92488bffc11db6d50e07b11595f6e26f4f82
 com.google.api.grpc	grpc-google-analytics-admin-v1beta	0.70.0		2323e319a02b51614daa11c7d82f1feed3cbb38a
 com.google.api.grpc	grpc-google-analytics-admin-v1beta	0.71.0		f0e29273abac6a44f61df0d5d232375cb9887bf4
+com.google.api.grpc	grpc-google-analytics-admin-v1beta	0.72.0		998e6b2014bb98bc60da9b17d810bc2bda188372
+com.google.api.grpc	grpc-google-analytics-admin-v1beta	0.73.0		8f6fe8ba4da39e03d292b3dd199e379ab7f4de79
 com.googlecode.refit.eg	refit-eg-glassfish	1.6.0		7a36936239c98ee6260fba7144e1f77f8ff2b612
 com.googlecode.refit.eg	refit-eg-glassfish	1.7.0		03904992993843e51a363923957e6b0384928464
 com.googlecode.refit.eg	refit-eg-glassfish	1.7.1		66e622a6d5d82dbf8917378460cb72bfd243004d
@@ -719,6 +721,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context-data-2.7	2.13.3-alpha		9ea7a98e52661112859e569962f8251538650336
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context-data-2.7	2.14.0-alpha		dec540dfcf2250b8f51d08fe5eee6c2499b7a80b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context-data-2.7	2.15.0-alpha		b67c4d0c9a7ffc13d65acc5cde756702904358d2
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context-data-2.7	2.16.0-alpha		8090d06ac025848e45080703500db05357c9b50e
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context-data-2.7	2.2.0-alpha		9f1d5cb12592bdd8c4186218d132b39e0a628362
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context-data-2.7	2.3.0-alpha		319f5df0d2afb286295eba3dede34407b7c9b47b
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-log4j-context-data-2.7	2.4.0-alpha		c8194e5f70d6defab99aca58c886181e601d31cb
@@ -1303,6 +1306,7 @@ org.virtuslab.scala-cli	scala3-graal-processor_3	1.6.1		5f55aa8ebe6aa7f908e6fd89
 org.virtuslab.scala-cli	scala3-graal-processor_3	1.6.2		b7c82ff9f96afeab28f87b5aeeb945e87bc0adb0
 org.virtuslab.scala-cli	scala3-graal-processor_3	1.7.0		23c81b4cdde5daba4c1d8fea54dc57286438547a
 org.virtuslab.scala-cli	scala3-graal-processor_3	1.7.1		0be826177697047e4df826a3bcfbd0400c6b6b0f
+org.virtuslab.scala-cli	scala3-graal-processor_3	1.8.0		095b90c34161a564a560669cc94358cb16bace53
 org.webjars.bower	angular-plupload	0.1.6		86eaae2613e907d32850320863a6614d5b2abed9
 org.webjars.bower	bootstrap-treeview	1.2.0		a61e796b6190cd6f296c92711fe2e3d7dddf1f88
 org.webjars.bower	moment-recur	1.0.5		dfe591f3563e1574f4921d0ef4b8e897f94d54b4
@@ -1920,7 +1924,18 @@ software.amazon.awssdk	scheduler	2.31.30		35561dda8d02cdb4f56f12880940513af8f8dc
 software.amazon.awssdk	scheduler	2.31.31		ec743886c56d358884ca60120d38d513918ff44f
 software.amazon.awssdk	scheduler	2.31.32		5feaf68227b16a01a611dd75c1a3357f4ab6ff5d
 software.amazon.awssdk	scheduler	2.31.33		df99bed1e8c2fef64347180b3c4fc8d09135e77c
+software.amazon.awssdk	scheduler	2.31.34		f027d16f2802e4075285be352adf5e4f6d44094d
+software.amazon.awssdk	scheduler	2.31.35		ff99631ba8cbb51c9cfe4bec4464d84126f7dac2
+software.amazon.awssdk	scheduler	2.31.36		8a011f90e943c85e81fd07b0b1fbe05abf41a965
+software.amazon.awssdk	scheduler	2.31.37		651c949114cfe42b77bbd613729482c37a22b95c
+software.amazon.awssdk	scheduler	2.31.38		996463b346bc9b91fd417f92f339336ead86bf9c
+software.amazon.awssdk	scheduler	2.31.39		feba9a75e1b24a28a71d1b588f86c07cff1bf4ad
 software.amazon.awssdk	scheduler	2.31.4		234247ba0c2ae59efe2183b3621859e7b77e6440
+software.amazon.awssdk	scheduler	2.31.40		e00000fbe956fd7c65d6855bdef185ef4bd8de62
+software.amazon.awssdk	scheduler	2.31.41		b1e652808c5dc41b9e934f5eb9dca0bc0d6a1510
+software.amazon.awssdk	scheduler	2.31.42		60c44a7803264dadc57003cee787940f0c1b6e47
+software.amazon.awssdk	scheduler	2.31.43		a6b4b225bfe76b6fad6f28c6c630d623fc02cdc1
+software.amazon.awssdk	scheduler	2.31.44		b07025d6bd9cf713955c74005a3718e9e0ce5784
 software.amazon.awssdk	scheduler	2.31.5		94068448522faeab1bc2c4daf79a2a7f115615dc
 software.amazon.awssdk	scheduler	2.31.6		7d118ab8b52c65589ebb4d537f10316f63e43b54
 software.amazon.awssdk	scheduler	2.31.7		b6991c73f9edf3addc2ddfcd1d579324089665af

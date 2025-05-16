@@ -77,6 +77,9 @@ ai.platon.pulsar	pulsar-filter	2.2.1		8b2254ee07230c6215170e1a873f3f473afee652
 ai.platon.pulsar	pulsar-filter	3.0.0		0dc076947ed2141900e6d6f6f51b1aa6cd0bb225
 ai.platon.pulsar	pulsar-filter	3.0.2		6b693dbead263c62b93ca8e1edb2100011780ffa
 ai.platon.pulsar	pulsar-filter	3.0.3		1f2339e45def3d83b1e70ac331fe962b2a8628af
+ai.platon.pulsar	pulsar-filter	3.0.4		e7254e6ccd04c96a721d35e0f6d0d452ea729878
+ai.platon.pulsar	pulsar-filter	3.0.5		84630f25e85e87960820d8875ce821996bc1a0fe
+ai.platon.pulsar	pulsar-filter	3.0.6		9a58a4db2c21344e00bfc79f35f034266a300a6c
 cn.detachment	detachment-frame	1.0.0-RELEASE		N/A
 cn.detachment	detachment-frame	1.0.2-RELEASE		N/A
 cn.detachment	detachment-frame	1.0.5-RELEASE		N/A
@@ -473,6 +476,7 @@ com.daml	ledger-resources_2.13	2.10.0-snapshot.20250108.13162.0.v1ce7df14		fda08
 com.daml	ledger-resources_2.13	2.10.0-snapshot.20250114.13163.0.ve965e38d		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	2.10.0-snapshot.20250120.13164.0.vd2e3ddc6		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	2.10.0-snapshot.20250211.13169.0.vd812609c		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	2.10.1-snapshot.20250513.13174.0.vfd3eadaf		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	2.2.0		45a17716c5831a842a54d24ad158214ce22e0683
 com.daml	ledger-resources_2.13	2.2.0-snapshot.20220412.9721.0.b7c4bdab		45a17716c5831a842a54d24ad158214ce22e0683
 com.daml	ledger-resources_2.13	2.2.0-snapshot.20220413.9724.0.2dc1085b		45a17716c5831a842a54d24ad158214ce22e0683
@@ -1512,6 +1516,9 @@ com.daml	ledger-resources_2.13	3.3.0-snapshot.20250414.13754.0.v6f99815d		fda08c
 com.daml	ledger-resources_2.13	3.3.0-snapshot.20250415.13756.0.vafc5c867		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	3.3.0-snapshot.20250424.13760.0.v90d51dbb		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	3.3.0-snapshot.20250502.13767.0.v2fc6c7e2		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.3.0-snapshot.20250507.13770.0.v8a383258		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.3.0-snapshot.20250509.13773.0.v7f71343b		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.3.0-snapshot.20250515.13776.0.ved4899eb		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	3.4.0-snapshot.20250415.13757.0.v8ac8af98		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	3.4.0-snapshot.20250415.13760.0.vea143716		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	3.4.0-snapshot.20250416.13764.0.vee0fc5b1		fda08c354c7c425494c97117302c3861fbaecd11
@@ -1528,6 +1535,16 @@ com.daml	ledger-resources_2.13	3.4.0-snapshot.20250430.13801.0.v62e9a71a		fda08c
 com.daml	ledger-resources_2.13	3.4.0-snapshot.20250430.13804.0.vecb995a9		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	3.4.0-snapshot.20250501.13805.0.v6dcc9347		fda08c354c7c425494c97117302c3861fbaecd11
 com.daml	ledger-resources_2.13	3.4.0-snapshot.20250502.13811.0.vc9342f2a		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250505.13814.0.v8f469e2a		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250505.13816.0.v6ffb8da8		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250505.13817.0.vf79dda6c		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250506.13820.0.vb449114c		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250507.13824.0.v7bf1a9f8		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250508.13828.0.v6124cac0		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250509.13829.0.vc24ce1fd		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250509.13832.0.vcfc1ba78		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250512.13837.0.v78d1b88c		fda08c354c7c425494c97117302c3861fbaecd11
+com.daml	ledger-resources_2.13	3.4.0-snapshot.20250513.13844.0.vbc99348c		fda08c354c7c425494c97117302c3861fbaecd11
 com.gitee.fubluesky.kernel	auth-api	1.0.0		5ab759cc04856d02e36be59cc7d0f499a72c1a74
 com.gitee.fubluesky.kernel	auth-api	1.1.0		a1d85a53d34e836fcfc73796a86c24d8f92fa118
 com.gitee.fubluesky.kernel	auth-api	1.2.0		1243f76494601a357ee5e6d5e8aa2c222cd23316
@@ -1903,6 +1920,7 @@ io.sundr	sundr-adapter-testing	0.103.0		5a03082179a86eaa5b40a3d080be817c960b1994
 io.sundr	sundr-adapter-testing	0.103.1		e58cb501a15238a441f2ef826f80ba847aefe639
 io.sundr	sundr-adapter-testing	0.200.0		bfe4bc4447e9939ca22b613a6bc5ac241d34edae
 io.sundr	sundr-adapter-testing	0.200.3		7fd9cd510fb5c33604ed4f77951e55dd9660e5d4
+io.sundr	sundr-adapter-testing	0.200.4		71b6e14c28d314bd74c75e4ce2a5c1d7965afdcf
 io.treeverse	core-301_2.12	0.1.0-RC.0		03645404cd460d0937252fd89cc0a0101bd24a1a
 it.tidalwave.bluemarine2	bluemarine2-application-javafx-linux	1.0-ALPHA-10		N/A
 it.tidalwave.bluemarine2	bluemarine2-application-javafx-linux	1.0-ALPHA-11		N/A
@@ -2076,6 +2094,7 @@ net.serenity-bdd	serenity-bitbar	4.2.2		2ddc9d1e1fca35d8e79bd64c636b525f7e6426e3
 net.serenity-bdd	serenity-bitbar	4.2.20		0c3024f8c322d9daa9317057caa4661222cf25fa
 net.serenity-bdd	serenity-bitbar	4.2.21		7bc75f9cc78896bfd9768424f55e2d6c521463d9
 net.serenity-bdd	serenity-bitbar	4.2.22		df91554449c61626dde6cc18c16299399b175b34
+net.serenity-bdd	serenity-bitbar	4.2.23		86ed9d78997f379704f967f0dea7553741239d09
 net.serenity-bdd	serenity-bitbar	4.2.3		e6e13d169986ca82cfc06cc833586da970d3614a
 net.serenity-bdd	serenity-bitbar	4.2.4		cbb14dcea6ac825b4435e685cff5fdab2595f306
 net.serenity-bdd	serenity-bitbar	4.2.5		a17acb124165013015974bba1e207c9be2e413f9
@@ -2552,7 +2571,11 @@ se.laz.casual	casual-inbound	3.2.50		8a31effaa500a0770690bba605f83421f3e51d88
 se.laz.casual	casual-inbound	3.3.0		eb81c5454a3578efe2987c40e70240646a821352
 se.laz.casual	casual-inbound	3.3.1		ef727e1888f95e8681921a8fc771f1ea25633499
 se.laz.casual	casual-inbound	3.3.4		2014219cc34392fa2c2f389a5519abd4d16b506b
+se.laz.casual	casual-inbound	3.3.5		889611fdcadea0d3eff4667f4aaa4073ec1f953d
+se.laz.casual	casual-inbound	3.3.6		96c402d415bb3dbd1ba5855203d5f768e10b3e93
 top.chaser	common-web	B-1.0.3.RELEASE		5de9479dced2e417c46bdce50b0787ced01cbf64
+tv.cntt	xitrum-package_2.12_1.0	1.9		38606e7cb259a714c7e43be8f323efb370a00b13
+tv.cntt	xitrum-package_2.12_1.0	2.0.0		d7ddbfdb5f8673713dcbcf0bce02f140de415ee6
 work.socialhub	khttpclient-macosx64	0.0.2		N/A
 work.socialhub	khttpclient-macosx64	0.0.2	metadata	6a024ca346053a404ba9812ab3fcb29414de21c6
 work.socialhub	khttpclient-macosx64	0.0.3		N/A

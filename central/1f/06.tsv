@@ -34,6 +34,7 @@ app.lexilabs.basic	basic-sound-iosarm64	0.2.5-beta01		N/A
 app.lexilabs.basic	basic-sound-iosarm64	0.2.5-beta01	metadata	4c909913daae1ad7b63a419ab25f151d73089dd8
 app.lexilabs.basic	basic-sound-iosarm64	0.2.5-beta02		N/A
 app.lexilabs.basic	basic-sound-iosarm64	0.2.5-beta02	metadata	54d668bf6e1cda97d6e3898602be45aad880381f
+app.lexilabs.basic	basic-sound-iosarm64	0.2.6-beta01	metadata	4cfeb9f334f0f6625f2d0db7234b3f73243c5d24
 aws.sdk.kotlin	apptest-jvm	1.2.32		6518e781af2578382df6bfc3e2b3e84f8deb68f7
 aws.sdk.kotlin	apptest-jvm	1.2.33		33df130db31091eada2ecf8c1b423cf8164994d9
 aws.sdk.kotlin	apptest-jvm	1.2.34		430ed4302b29a745279ccb8f88f978df88d4c9c2
@@ -247,7 +248,16 @@ aws.sdk.kotlin	apptest-jvm	1.4.73		92eb8e3240161c31528ac929d93014f2f368f32a
 aws.sdk.kotlin	apptest-jvm	1.4.74		d22ccb57ffe495a8d7910b8f8a27a2574c0daf52
 aws.sdk.kotlin	apptest-jvm	1.4.75		23b82f82b651de6a47077e47b2965d1e2b430e03
 aws.sdk.kotlin	apptest-jvm	1.4.76		02e966ed4d5deabb9cee693996ce45cb8acb4f66
+aws.sdk.kotlin	apptest-jvm	1.4.77		c7c845f5d4140c7c4366c8bb891a5937e1e4ac02
+aws.sdk.kotlin	apptest-jvm	1.4.78		e5deb76166203a437b6bedacd609e77daf799bd1
+aws.sdk.kotlin	apptest-jvm	1.4.79		305392bccb841f962f38a33a2691378bdfa9b294
 aws.sdk.kotlin	apptest-jvm	1.4.8		9fec2e2cc671614ba0fed7e36d2e387ebc3bd3b9
+aws.sdk.kotlin	apptest-jvm	1.4.80		30ceabe7cc250942d41b32d20129fdb1cb10a998
+aws.sdk.kotlin	apptest-jvm	1.4.81		98f0c137c6fe60813acb2f5fa01a0c5819fad35a
+aws.sdk.kotlin	apptest-jvm	1.4.82		9dc7f7a6e22c605fcb4792d8dfbf053829b3bc88
+aws.sdk.kotlin	apptest-jvm	1.4.83		24d8ed2cac3528271080d247fb7b2e718562bfa7
+aws.sdk.kotlin	apptest-jvm	1.4.84		6a0f5ce88cfa298461f12431c9a5c4086185566f
+aws.sdk.kotlin	apptest-jvm	1.4.85		73c0cf6222da6559cc8dbfeeaed23607fcb0b341
 aws.sdk.kotlin	apptest-jvm	1.4.9		a04d4cb4cbbed17a599fe298ff816489d51a8a35
 aws.sdk.kotlin	route53profiles-jvm	1.1.23		01956222491f7013667451e1d3b2c0d4a9e89807
 aws.sdk.kotlin	route53profiles-jvm	1.1.24		1155cad5d02e570899dbc98927a25fea3c57418e
@@ -499,7 +509,16 @@ aws.sdk.kotlin	route53profiles-jvm	1.4.73		921dda2e4f1a1c03ea0156b7a38b47cd40094
 aws.sdk.kotlin	route53profiles-jvm	1.4.74		de6889c5a6ad64e91c157d62f53cf506024948d1
 aws.sdk.kotlin	route53profiles-jvm	1.4.75		f6c55b59ce5394080a929b8d118e950da4addf4e
 aws.sdk.kotlin	route53profiles-jvm	1.4.76		c8cfe01ac4214fa9d3eb49a4ec1ddf57bfd6043f
+aws.sdk.kotlin	route53profiles-jvm	1.4.77		accf54248bd7645f5a719f9fceff1e8db6123605
+aws.sdk.kotlin	route53profiles-jvm	1.4.78		db73893a44e52bffded61b060a02b7d0d51fca4a
+aws.sdk.kotlin	route53profiles-jvm	1.4.79		80f35718b1b12e180a5b2556510bfd81958ea6e4
 aws.sdk.kotlin	route53profiles-jvm	1.4.8		4b99f66f316a068131f266f337a6fe2d6e5c70ed
+aws.sdk.kotlin	route53profiles-jvm	1.4.80		62aeab3382519278d619bf510b5b39b974985380
+aws.sdk.kotlin	route53profiles-jvm	1.4.81		491a1e3fa7121f68d3e7e208f143a28aac4e5caf
+aws.sdk.kotlin	route53profiles-jvm	1.4.82		152ed3eebafdea89f2d10df966f1c387d40c8241
+aws.sdk.kotlin	route53profiles-jvm	1.4.83		b4eff40319a7ec6233176edd258eced581a3f855
+aws.sdk.kotlin	route53profiles-jvm	1.4.84		af9d569e59135156116ce694794163d1db0b57ab
+aws.sdk.kotlin	route53profiles-jvm	1.4.85		0586c84936a56a356b2ec95e803ede9aab0966a9
 aws.sdk.kotlin	route53profiles-jvm	1.4.9		e4e3147ebf67514a9b33c4825481144c09d44a1e
 club.told	told-remote	2.0.1		b94fe605ea8ff0f68f3feab065ae0b7d67860964
 club.told	told-remote	2.0.2		b94fe605ea8ff0f68f3feab065ae0b7d67860964
@@ -1482,6 +1501,7 @@ io.github.pdvrieze.xmlutil	testutil-iosx64	0.91.0		N/A
 io.github.pdvrieze.xmlutil	testutil-iosx64	0.91.0	metadata	204c1f5abe3a264119d84bb5a335a0bdbc3e3c00
 io.github.pdvrieze.xmlutil	testutil-iosx64	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	testutil-iosx64	0.91.0-RC1	metadata	23ecf0d71df429e978f72f742db1d407f0f7e1be
+io.github.pdvrieze.xmlutil	testutil-iosx64	0.91.1	metadata	53668129486865dbffa1411d729499a289027924
 io.github.uratera	time_dialog	1.0.0		N/A
 io.github.uratera	time_dialog	1.0.1		N/A
 io.github.yunjeongbaek	OpendraftService	1.0		578c223df1453b004adb72f456c12aa707c41f1a

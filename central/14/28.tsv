@@ -247,6 +247,7 @@ com.smartling.api	smartling-glossary-api	1.14.0		0eef0736d0055e4889b882a5e8925a6
 com.smartling.api	smartling-glossary-api	1.15.0		40b737998714437738ee76cd4f6a46fde5d85da1
 com.smartling.api	smartling-glossary-api	1.16.0		1a38809529688a0a9574cb1c6fb156f97fef1a7b
 com.smartling.api	smartling-glossary-api	1.17.0		826caa3406cbf8ddb5b360f8533ae980ce2d8908
+com.smartling.api	smartling-glossary-api	1.18.0		d589629cded84d5963de7cdc29b9b200a89b8025
 com.smartling.api	smartling-glossary-api	1.7.0		e5fee43c1912dc9e6d99d8192a980be297e069df
 com.smartling.api	smartling-glossary-api	1.8.0		ea85d43eeb8a8ed4a3bee4b35839faef315fee62
 com.smartling.api	smartling-glossary-api	1.8.2		6a4b8da0e4e53c0c6a8fdfc563056e51d6d90237
@@ -285,6 +286,7 @@ dev.opensavvy.prepared	compat-arrow-watchosx64	2.0.0-alpha.2		N/A
 dev.opensavvy.prepared	compat-arrow-watchosx64	2.0.0-alpha.2	metadata	60dd876055fc6674a67d626726e2df4809ab75ce
 dev.opensavvy.prepared	compat-arrow-watchosx64	2.0.0-rc.1		N/A
 dev.opensavvy.prepared	compat-arrow-watchosx64	2.0.0-rc.1	metadata	a860dd736d2391f4edb4d1e04dd6bdd3ffacd44b
+dev.opensavvy.prepared	compat-arrow-watchosx64	2.0.1	metadata	c8784852e81165cae7ec6276a4191b65dc50fc54
 dev.petuska	kmdc-touch-target-js	0.0.4		N/A
 dev.petuska	kmdc-touch-target-js	0.0.5		N/A
 dev.petuska	kmdc-touch-target-js	0.1.0		N/A
@@ -2260,6 +2262,7 @@ io.quarkus	quarkus-smallrye-fault-tolerance	3.15.2		175004f40f4f0241b5bed5e248ba
 io.quarkus	quarkus-smallrye-fault-tolerance	3.15.3		7e0a88e8d8e615a71991e6ddf4eb231cee8ad070
 io.quarkus	quarkus-smallrye-fault-tolerance	3.15.3.1		bbba6ceca212dc7d4cecbd4aed3b8b891ef14b15
 io.quarkus	quarkus-smallrye-fault-tolerance	3.15.4		068684474f11b8fe45a9e5335429af1be474820d
+io.quarkus	quarkus-smallrye-fault-tolerance	3.15.5		cb0c3725c02ea61f6565fd95bd61b68839c13bd4
 io.quarkus	quarkus-smallrye-fault-tolerance	3.16.0		5b73abad45bd6470a83c3a8ea0ed986fa4293059
 io.quarkus	quarkus-smallrye-fault-tolerance	3.16.0.CR1		c2fdf51915449f519b285bf55f8a1dff6226ee3c
 io.quarkus	quarkus-smallrye-fault-tolerance	3.16.1		27aa17b5e5168bfb1ac787a58a8487dba9520b12
@@ -2304,6 +2307,7 @@ io.quarkus	quarkus-smallrye-fault-tolerance	3.2.8.Final		bb6150f91f4b8a2ac17b97d
 io.quarkus	quarkus-smallrye-fault-tolerance	3.2.9.Final		75a51df420976bb71112472425cd93f6cd7e0543
 io.quarkus	quarkus-smallrye-fault-tolerance	3.20.0		cf8d2c176066bca778d9979dcd2f662311908b45
 io.quarkus	quarkus-smallrye-fault-tolerance	3.20.0.CR1		7e8ae9d2c7a2441a01d05a967c065f46fde819b6
+io.quarkus	quarkus-smallrye-fault-tolerance	3.20.1		84fe56565dffd3e74a70341f9bdf4035f09cb1f1
 io.quarkus	quarkus-smallrye-fault-tolerance	3.21.0		df630a3bb7e310fecdb2ea555f7e20c6ce388de2
 io.quarkus	quarkus-smallrye-fault-tolerance	3.21.0.CR1		44ac96f05e9027cf6223e24314d0aaf79ff5856e
 io.quarkus	quarkus-smallrye-fault-tolerance	3.21.1		343a58c2c24fb58b99d8187d7865a0df9d7d1bc4
@@ -2313,6 +2317,9 @@ io.quarkus	quarkus-smallrye-fault-tolerance	3.21.4		efdb4b21ea261eeeab07d1803344
 io.quarkus	quarkus-smallrye-fault-tolerance	3.22.0		68327976c810f14423bfc149183bbb24dc109101
 io.quarkus	quarkus-smallrye-fault-tolerance	3.22.0.CR1		dbe2a04d1040d571b817ffcde5c182a50132aa4b
 io.quarkus	quarkus-smallrye-fault-tolerance	3.22.1		77c9a931a651dffb14a181c6338a00c8f8827acc
+io.quarkus	quarkus-smallrye-fault-tolerance	3.22.2		0d80de6722267340fe5379993f02e5269ec21320
+io.quarkus	quarkus-smallrye-fault-tolerance	3.22.3		e7f5b31f66432f230e1fbb78673285ad9734f17a
+io.quarkus	quarkus-smallrye-fault-tolerance	3.23.0.CR1		6ebf734077128a7a68585764dc5d858ce37e2c47
 io.quarkus	quarkus-smallrye-fault-tolerance	3.3.0		ad4756258b5aa0d774c70efc938013fcbf9de68a
 io.quarkus	quarkus-smallrye-fault-tolerance	3.3.0.CR1		a33329836fab31117cd07aaf4b39acbb972b59bf
 io.quarkus	quarkus-smallrye-fault-tolerance	3.3.1		3e653242c2a0c17567a0775480ec81ae6431d0fd
@@ -2458,6 +2465,7 @@ io.strimzi	crd-generator	0.42.0		2eea9bf21c6d5a2e440db418bec9d6c1e0a2afb9
 io.strimzi	crd-generator	0.43.0		b26e99f7a89161e292de4ccfc7fd7030b38b49d1
 io.strimzi	crd-generator	0.44.0		a38b9cb5fe447e4301a882f06e204449864613ec
 io.strimzi	crd-generator	0.45.0		37b38d039f41f522863ec2e049cfed1dc2847aef
+io.strimzi	crd-generator	0.46.0		9879d6516fb82ef06553bd774cb5fe263b0dc6e1
 io.strimzi	crd-generator	0.9.0		12064787ebb9c5d91effe387d79eb097a7ae873f
 io.youi	youi-ui_sjs0.6_2.13	0.11.11		a902f2533289f72f9b989d431dc18c1deca3b8e0
 io.youi	youi-ui_sjs0.6_2.13	0.11.12		188d8fd97b00c0e87a8bdf016b5cae73d051155c

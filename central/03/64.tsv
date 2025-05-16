@@ -1325,6 +1325,9 @@ io.americanexpress.synapse	sample-data-oracle-book	0.4.10		975bfe35db26c3980ae09
 io.americanexpress.synapse	sample-data-oracle-book	0.4.11		e439fcec64aa724bfab253f02fe10b6bf2dfee4f
 io.americanexpress.synapse	sample-data-oracle-book	0.4.12		c05b0a1809095a43703630973558fb396a5d8127
 io.americanexpress.synapse	sample-data-oracle-book	0.4.13		7974ebc7c2dfa5125b0b4ff043ae2c861a06a4e2
+io.americanexpress.synapse	sample-data-oracle-book	0.4.14		09072d7587ed7362551fa3acc008785963a9af99
+io.americanexpress.synapse	sample-data-oracle-book	0.4.15		ec18548362e3f53c8f1b0fcab8e721449ad20b2e
+io.americanexpress.synapse	sample-data-oracle-book	0.4.16		c66130e2e0cccc7aca25e37b06bd3398d3952ab5
 io.americanexpress.synapse	sample-data-oracle-book	0.4.2		9f07fd84c2347b9cafb62c07c5f5eba2f6031a8a
 io.americanexpress.synapse	sample-data-oracle-book	0.4.3		aa361b5df3bef526e4efb030127ab1171526af91
 io.americanexpress.synapse	sample-data-oracle-book	0.4.4		3ce3dcb8b411752745f3ab2473d0c4129733ab39
@@ -1604,6 +1607,7 @@ io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.15.2		0232066c72
 io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.15.3		fd25be44bf1434c8c74e4abb6fd9aa277b1d1195
 io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.15.3.1		8664306923e7b20d78bc21e488bdfc81d8c42428
 io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.15.4		3aac8ebfb389c09b885f0c0d2774e3670b9bcc3d
+io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.15.5		daf7eb76fa4081afe672067a62291e9ebb9c4a63
 io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.2.0.CR1		b6db4a5fd55fc88717193a9e2a76febfe6754fbe
 io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.2.0.Final		7bf4ac8cbe8a7da30db949ac3f84b2029790c289
 io.quarkus	quarkus-oidc-token-propagation-reactive-deployment	3.2.1.Final		82a12da0c226dd48a61c67cbfbd66f6686621ffc
@@ -2365,10 +2369,17 @@ org.finos.legend.engine	legend-engine-xt-daml-pure	4.8.0		ee7fca8c936d07d770e7a8
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.80.0		e360d96d49e2ca6943cbb450ccc2c585aeb76899
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.81.0		28d7df41119c394eb339aff50a80ca46655f9be9
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.82.0		7b60cfaca9a5274f0f99a90bdcc02de1763cff7c
+org.finos.legend.engine	legend-engine-xt-daml-pure	4.82.1		940d60ec9b9f98438e340e0474ad58fb8fcc8bda
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.83.0		14f71883372ab446c7a08fc5ea7f3bc953262f55
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.83.1		9d2d8678eb04117b1183553ea0feb291c5e2eacd
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.83.2		ab64ca80077b6e515530cb214f6acc587215580f
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.83.3		ce91b3ecc7f669771141b8139bbeb09cd3863d4b
+org.finos.legend.engine	legend-engine-xt-daml-pure	4.84.0		8bfc7e7a90315a5c988e3fed3021d6f28ef1bae5
+org.finos.legend.engine	legend-engine-xt-daml-pure	4.84.1		7058aeba72849f35f34127ee953bf1bf7a707fa3
+org.finos.legend.engine	legend-engine-xt-daml-pure	4.85.0		5d1bae0dee1e1e964d849d63ebce917ee5c8851e
+org.finos.legend.engine	legend-engine-xt-daml-pure	4.85.1		eb7decf3b300aae0cc446954a40ac6150de0ff98
+org.finos.legend.engine	legend-engine-xt-daml-pure	4.85.2		6c7e8270c9a774626cb416f64be1c42910c05841
+org.finos.legend.engine	legend-engine-xt-daml-pure	4.85.3		c6e113b8090bdd6f0af6aa00f02f70c94a98caaa
 org.finos.legend.engine	legend-engine-xt-daml-pure	4.9.0		dac3fa896c2c9cddc06b458d2bf0f9d25a749081
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.10.0		f84868af8a98a2198e91580470461d322d314310
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.11.0		d8aee977a96018b18d5ce1cb297c03ef1c0609eb
@@ -2420,6 +2431,8 @@ org.finos.legend.pure	legend-pure-maven-generation-pct	5.44.0		dec86771c87ff1cf8
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.45.0		165896b5cd834c7c1425ac7745f461cd5fb3e785
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.46.0		9c3499ef8b3957f05df01fd4703d8ab63c26d0f1
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.46.1		0ff31b2c04b3715300c611f0a1e1dff7fc8c1b2e
+org.finos.legend.pure	legend-pure-maven-generation-pct	5.46.2		23494bbaafa896e7cf05a12ef02c2548ede59dda
+org.finos.legend.pure	legend-pure-maven-generation-pct	5.47.0		27ddc6059f9862849251ae971e617f3f41eb13d2
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.8.0		a668ac47ffd03c76ae1444991143c330dac4882d
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.8.1		fce9a024cf42fd94646af755af5b23d410e8f042
 org.finos.legend.pure	legend-pure-maven-generation-pct	5.8.2		bb2d56e00b73d93f2e3d0afa6f5e9ec0050d5b01

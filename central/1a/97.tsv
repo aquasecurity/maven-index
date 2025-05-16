@@ -103,6 +103,7 @@ com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.18.0-rc1		c036b7793fd5a1b
 com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.18.1		e80c1eb88ef6fcdf08363ce67696be98e2213435
 com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.18.2		4e6e08ebdce0c1b6d6bc25eb00dadae37e56f636
 com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.18.3		c7493f8a26ddd9cd33fee83fd8027e85a1e7d3ea
+com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.18.4		ad7bde4518086a7790d570f21ee45f66b77d974c
 com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.19.0		403f790790cd6b73e9eab6c59809c29f94266b2f
 com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.19.0-rc2		4a2adc8c0a41cf3791f98ad27e3740e6b95e1bb6
 com.fasterxml.jackson.datatype	jackson-datatype-hppc	2.2.0		d39d1f8dd7eba2938536dedc3ebf22f642b39fe5
@@ -576,6 +577,7 @@ com.getyourguide.openapi.validation	metrics-reporter-datadog-spring-boot	2.2.1		
 com.getyourguide.openapi.validation	metrics-reporter-datadog-spring-boot	2.2.2		697d6317fa2e40d6431fb271fb7259c31b3d5af1
 com.getyourguide.openapi.validation	metrics-reporter-datadog-spring-boot	3.0.0		e335c969f2d42fef61ebd825fb250e7198e43ca0
 com.getyourguide.openapi.validation	metrics-reporter-datadog-spring-boot	3.1.0		bc239023d5d251e8ffad15a868ec6adcf85c4475
+com.getyourguide.openapi.validation	metrics-reporter-datadog-spring-boot	3.1.1		fae040c5c5bcf113259b50d47fdf755dae602663
 com.github.asilvestre	jxmltojson	0.10		29a1533fc77b4b34cf90e441707189b36dc4ab07
 com.github.asilvestre	jxmltojson	0.11		5bbe3648bd9c426ce1426b8bf7320b46fe2f4ad0
 com.github.asilvestre	jxmltojson	0.9		6b6c828a00c793990279b0c3ff14c29a5ab26698
@@ -641,7 +643,9 @@ com.google.cloud	google-cloud-publicca	0.55.0		274a2b1354e427cd0f1b6ebb8ffedd47b
 com.google.cloud	google-cloud-publicca	0.56.0		d1227d7bd73fb00d4ca875513a10ac0c56e7c9f5
 com.google.cloud	google-cloud-publicca	0.57.0		539c9eb3b2c5906b0c3dc4b04de078702ae293ad
 com.google.cloud	google-cloud-publicca	0.58.0		6135491ba75e2cbabf6742fddf81745954df2639
+com.google.cloud	google-cloud-publicca	0.59.0		3f96064b2e127ccac5f56d48aaefecd1dca10f8f
 com.google.cloud	google-cloud-publicca	0.6.0		062f158bbe188b72379a2f4858be9613c05f6b97
+com.google.cloud	google-cloud-publicca	0.60.0		5761cf9f667da91c5a2d68038933868f8c6ec64f
 com.google.cloud	google-cloud-publicca	0.7.0		d4cc3b650cc51bd37dccc1db2f8d5ce54c47591c
 com.google.cloud	google-cloud-publicca	0.8.0		ab1d08a897b033b62c0137f1cb8775c8672e49b7
 com.google.cloud	google-cloud-publicca	0.9.0		3198b4e49e72c15861db83e8b11e5069913e3cc3
@@ -2050,6 +2054,10 @@ io.gitee.javakiller	wxz-common-web-tenant-server	2025.4.5		bd7a061159bb3792aa5f9
 io.gitee.javakiller	wxz-common-web-tenant-server	2025.4.7		e176548a22565b33723f281c20516ec82a32932d
 io.gitee.javakiller	wxz-common-web-tenant-server	2025.4.8		26e1f1678431e1c73e38bff0877cf4c1050c8875
 io.gitee.javakiller	wxz-common-web-tenant-server	2025.4.9		ce3745281d457ddef51c94eff61ec3f6466bbb5c
+io.gitee.javakiller	wxz-common-web-tenant-server	2025.5.10-jdk8		d3f04d9dbfef917bb7d55a83d437c2810aca6704
+io.gitee.javakiller	wxz-common-web-tenant-server	2025.5.6-jdk17		1ef538ed33691bb4c9d0070dc6bfbc4b263f4414
+io.gitee.javakiller	wxz-common-web-tenant-server	2025.5.6-jdk8		0c59c77323d46c03d29cd7105883a91b1d133d89
+io.gitee.javakiller	wxz-common-web-tenant-server	2025.5.7-jdk8		0885f7afb84eeceeef475c28e169b4d5252465f7
 io.github.bes2008.solution.langx	langx-java8tojava6	5.4.2		14a6e64e7f12a769bd7945fcac102b7b3b10a3c4
 io.github.bes2008.solution.langx	langx-java8tojava6	5.4.3		e2ec3cf20629305e8dbffdc8f0cff139b6b10d21
 io.github.bes2008.solution.langx	langx-java8tojava6	5.4.4		06eac74a81dcd9e62a1c270c47159f7073cdf857
@@ -2467,6 +2475,7 @@ io.quarkus	quarkus-amazon-lambda-http-deployment	3.15.2		1c30e2b6da57070953e133d
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.15.3		3156375e45f5f23b207d4a3b0aba447ef7cfd957
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.15.3.1		8b93937800ce12f4b9a67d8817f8cade9dacdb1c
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.15.4		1dfbd360a306843de17ad3b8edf31cdb79ec27ef
+io.quarkus	quarkus-amazon-lambda-http-deployment	3.15.5		ef4e89e8d1bf952a2b6529b756a34c1fe95ef57c
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.16.0		303362dd3d7e1028a1de8c92a71e45e9520b6203
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.16.0.CR1		e50c91961e95ef906f862e9d87b86944a4ff094a
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.16.1		e23deff7bdd62c652b3fa2d7bc15599c69e65c96
@@ -2511,6 +2520,7 @@ io.quarkus	quarkus-amazon-lambda-http-deployment	3.2.8.Final		4628e199e297b5df93
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.2.9.Final		4259dd10076588303aaad7954f13e37d9bdf57c6
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.20.0		b536ff3535d6b04d1f8c8a719dc26fe0f7a6c5dc
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.20.0.CR1		a3513c9a1a70e36b1e453b7486c5ce7316d7efec
+io.quarkus	quarkus-amazon-lambda-http-deployment	3.20.1		376d9366bf6b5398fc7f020ee3e38bbb90af23eb
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.21.0		8c682cd6267e9db25be86892b16377d668170e10
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.21.0.CR1		fbfaa5312c05ab26a059e60e8d7e1240bc81dde6
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.21.1		e9350a0300db7efa76fa8d49e26b203cb2ad6636
@@ -2520,6 +2530,9 @@ io.quarkus	quarkus-amazon-lambda-http-deployment	3.21.4		6d9a6cc0b865c27f51bd02a
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.22.0		968b05f2b882fc75d18174320489eb0323ab55bd
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.22.0.CR1		6447468e4021b0d816664f7440ffe1a341352396
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.22.1		f39911b9a41b14ddb7017627a63736d7a9fef939
+io.quarkus	quarkus-amazon-lambda-http-deployment	3.22.2		06a1de6e3e7817ff776816815d86177f9a41b052
+io.quarkus	quarkus-amazon-lambda-http-deployment	3.22.3		69b37eed200551c4a38364cd5e6150033c6d232f
+io.quarkus	quarkus-amazon-lambda-http-deployment	3.23.0.CR1		d609f052f5073ed83d128d5b8c4bcf2c7a7ffdc1
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.3.0		24de023bedcca681677f0ac3f08ad4b9ea5dcf43
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.3.0.CR1		bae0c708389ae1e1051587a0001d90245163af5a
 io.quarkus	quarkus-amazon-lambda-http-deployment	3.3.1		ccb17f79a515e3ca979b967e36cbc40db8bd4f85

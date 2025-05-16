@@ -356,6 +356,7 @@ com.svix.kotlin	svix-kotlin	1.63.1		cf67c578cd5e339266a773195859c3aaab804a88
 com.svix.kotlin	svix-kotlin	1.63.2		507341ebfdf670e321481b8729741c7796fe1605
 com.svix.kotlin	svix-kotlin	1.64.0		385452afac0e2d4326598869ff9e9a3d470e11c8
 com.svix.kotlin	svix-kotlin	1.64.1		ae6635acd77e63edc03dae0a3cbb00e1630646e9
+com.svix.kotlin	svix-kotlin	1.65.0		9a4dfcd619c0a3eccbef00250eabd5425368ce35
 com.svix.kotlin	svix-kotlin	1.7.0		fe5dee5b2ffae34af26efb9ec254aedf5a7aed3a
 com.svix.kotlin	svix-kotlin	1.8.0		aff94197eda99b6d52920097975a8aa6d095d72e
 com.svix.kotlin	svix-kotlin	1.8.1		34c40915c7d1c9365c84f0dcf68c51361c2997c2
@@ -580,6 +581,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax-common	2.13.3-alpha		f9075255f185c743616a8da67c1616f0b00a81dd
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax-common	2.14.0-alpha		5b723f1aa0b1ecbc86ebb63b0ba514b0df006078
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax-common	2.15.0-alpha		9d8a7a618fe40deb7e0dd145a8432a557291960e
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax-common	2.16.0-alpha		ddcdd54788a6a7648dbf342072d9372c5a8de6fa
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax-common	2.2.0-alpha		91bb84a21b22805bf024a42e70006b9d5eca869d
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax-common	2.3.0-alpha		4dfec20a446a038ac4fdbb38713b60630ba49feb
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-servlet-javax-common	2.4.0-alpha		2a9285f827d419967cc2058d581d80849cc832bf
@@ -986,6 +988,15 @@ me.ahoo.wow	wow-kafka	5.12.1		fd46629e1247bc29f7c54e17c123047253b5eab3
 me.ahoo.wow	wow-kafka	5.12.2		5a8d322d8fb294c33afc67ef964f6e2da3260dff
 me.ahoo.wow	wow-kafka	5.12.3		2ca7c6f8bab1b44180414ea3dd9a16556f83d723
 me.ahoo.wow	wow-kafka	5.12.5		ad7d31b66f36892a19b3f2eb8901c47cfb9a0d93
+me.ahoo.wow	wow-kafka	5.12.6		810a370d14d9af41b583dfd4fd3332891e34174a
+me.ahoo.wow	wow-kafka	5.12.8		d855e62ffd8dddefa790dfdfcf91f6030485622e
+me.ahoo.wow	wow-kafka	5.12.9		2514bb498aef4d2a700059e87500ed4b12a3d450
+me.ahoo.wow	wow-kafka	5.13.0		9a279c579128f84f49b8b0c24ae9e556c622a6b9
+me.ahoo.wow	wow-kafka	5.13.1		ade9c8661b4a2486b06946f9461f9cb618624096
+me.ahoo.wow	wow-kafka	5.13.2		122cfe608ad865a6e121625d5aa947bdfebae3a4
+me.ahoo.wow	wow-kafka	5.13.3		c344bf729c04463eb3a80c7becff93faa5e86a26
+me.ahoo.wow	wow-kafka	5.13.5		f02e0522842cef16a292fb1d097ae038cf0fe28f
+me.ahoo.wow	wow-kafka	5.13.6		82f54fd6d48648fae91b8da06fd8056cef969b9a
 me.ahoo.wow	wow-kafka	5.2.0		28b90c8a35cc506c92a11410438a60e61047655f
 me.ahoo.wow	wow-kafka	5.2.1		4c417c667f9e4ff084083d56c24323ae3833e166
 me.ahoo.wow	wow-kafka	5.2.2		ec538ec6b264510f2ef72691b9e98bcfe35bad91
@@ -1808,7 +1819,9 @@ org.wildfly.core	wildfly-core-model-test-tests	28.0.0.Beta4		b83387d52bc4dbeeac5
 org.wildfly.core	wildfly-core-model-test-tests	28.0.0.Beta5		3842e96c2ecb61dc424a19a56ffef581a80a16a2
 org.wildfly.core	wildfly-core-model-test-tests	28.0.0.Beta6		0cf2c187f728a34ef01476915a02e685ad71b5c7
 org.wildfly.core	wildfly-core-model-test-tests	28.0.0.Final		e36c4ee862c83c7576187dd3858644c32ddea103
+org.wildfly.core	wildfly-core-model-test-tests	28.0.1.Final		7af08293d0ee3c72d3fe684350b1607443c02d94
 org.wildfly.core	wildfly-core-model-test-tests	29.0.0.Beta1		448b28506824e5ead959f1c4b54ef03df1f65db0
+org.wildfly.core	wildfly-core-model-test-tests	29.0.0.Beta2		b123c0e8a0757ae18f9c9358cb6c18d2917506b9
 org.wildfly.core	wildfly-core-model-test-tests	3.0.0.Alpha1		83a00bfa5a31ca0cc3113b1b96eb472fdc07c62a
 org.wildfly.core	wildfly-core-model-test-tests	3.0.0.Alpha10		9f3f626f5260bdb5ed8c3bc359c14ca68fcf5e76
 org.wildfly.core	wildfly-core-model-test-tests	3.0.0.Alpha11		645fc699296dc07d1186959be3f63903c7d43b6a

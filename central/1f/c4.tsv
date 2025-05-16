@@ -58,6 +58,12 @@ com.factset.sdk	irnnotes	3.1.0		61529eeeaebac7ce4f12cb17315bd6b50a87f669
 com.factset.sdk	irnnotes	4.0.0		8db1718c9efeba191749df0682a05ca91c7174f9
 com.factset.sdk	irnnotes	4.0.1		cda3b6664c8b8d754d911e109289873a52a1955a
 com.factset.sdk	irnnotes	4.0.2		6ff3514950a8be5460e6a9dbde02a1ada40cfcc1
+com.fommil	sbt-neojmh_2.10_0.13	1.0.0		54e84ee45928e0e7371d1174bfc356ed099af75c
+com.fommil	sbt-neojmh_2.10_0.13	1.0.1		010149578d0cccdbb811ba2fa16dc6210aa570b8
+com.fommil	sbt-neojmh_2.10_0.13	1.0.2		6b766e61301d2acc49510d76080f8f5d1dd114af
+com.fommil	sbt-neojmh_2.10_0.13	1.0.3		51b0ae239b16d3d2b52a07abac78567004076f8d
+com.fommil	sbt-neojmh_2.10_0.13	1.1.0		a67e14a859fe1bb5e79dc7ca100b883c67d90851
+com.fommil	sbt-neojmh_2.10_0.13	1.1.1		3e78f8d4979fc88b612fd277313d9bdf517a3672
 com.gitee.ice_king	iceframework	1.0.6		N/A
 com.gitee.ice_king	iceframework	1.0.7		N/A
 com.gitee.ice_king	iceframework	1.0.8		N/A
@@ -313,6 +319,8 @@ de.codecentric.mule.modules	loop-module	1.2.2		N/A
 de.codecentric.mule.modules	loop-module	1.2.2	mule-plugin	03de12968cd07adec62101d13a7f28b1cfcd647c
 de.codecentric.mule.modules	loop-module	1.2.3		N/A
 de.codecentric.mule.modules	loop-module	1.2.3	mule-plugin	41734de27a24db189b7bac6079fecbf99d9be2e9
+de.codecentric.mule.modules	loop-module	1.2.4	mule-plugin	4c2193c88f47e05a59505cf44ce339c05079d520
+de.codecentric.mule.modules	loop-module	1.2.5	mule-plugin	3f58d8055646ab61925538717c16f312768f8d53
 de.eldoria.util	commands	2.0.1		0c844bc9deb986935eeefed879b53a264751b1a4
 de.eldoria.util	commands	2.0.10		eebf357dd366ed8dd7f5449e45796fe391759531
 de.eldoria.util	commands	2.0.11		eebf357dd366ed8dd7f5449e45796fe391759531
@@ -525,6 +533,7 @@ org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.2.1		bdcf79814
 org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.2.2		6f57652d544c99fdb8d62601b32f292e049f1f81
 org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.2.3		1f0db03b8bce28ec5e48e1d29f4a8b5603ab9f1c
 org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.20.0		57c4247b417ebffdc8533b139f739e5bb088347c
+org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.20.1		b75ef591fdb62a84b8f7f0e2fb1b5e7552796cc8
 org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.22.0		6f94c6782346ec24d38eef1beee0cf759299f877
 org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.4.0		d02f739fd6d91843af492eaa1c44d8386150ae7d
 org.apache.camel.quarkus	camel-quarkus-java-joor-dsl-deployment	3.5.0		6f4908ef18cea4a52874f44e0dae25cb46a2f94a
@@ -688,10 +697,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.79.0		07c
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.80.0		fb765029f88039545fb4f15a032e754fab7f8e09
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.81.0		8c0669e87d97ace6e6b61afa53fb0f1d50ab9ed0
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.82.0		f7dabe77e19a696b902ead2a04ed2f09e060db36
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.82.1		3cc10cd658e1cd58c08e6112db5e0152895d72dc
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.83.0		94209af713246163ea724c646801d85e1ba824e2
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.83.1		11705202ef063b9a35809dd5baa167809fa32125
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.83.2		a7bf07fb03fa83d263dfafd621a1d8b85a08cb05
 org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.83.3		4947422fdc9e667d6f179da784a0ca03fbdaa43e
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.84.0		0ce0732bc203bfb8ea3af2319af67c8abbb6f8b5
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.84.1		d8da9d515f0bad2ce6b15ac67a0f6f52d24ddbbc
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.85.0		892726b6ab32b5cee31e62eb68a92873939e29e7
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.85.1		a8b5f051ca52df3c81c59cc6d90b809ec2ada53d
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.85.2		c4d3d61c9308b24526f4cea575c8308e06380669
+org.finos.legend.engine	legend-engine-xt-relationalStore-duckdb-pure	4.85.3		bcde96292e677f82f7b48a7f6f1df40b3d04af8a
 org.fudaa.framework.ctulu	ctulu-common	1.0		7d09c9a166e53e26339cac453bfae273f139568b
 org.fudaa.framework.ctulu	ctulu-common	1.0.1		252ff44fc56b82cfee962920f3ac3cabfff1aed1
 org.fudaa.framework.ctulu	ctulu-common	2.0		32aaf7ca236cc5a9519a990fbbcfd33a23d0ceda

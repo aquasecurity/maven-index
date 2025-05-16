@@ -72,6 +72,7 @@ cloud.piranha.extension	piranha-extension-weld	25.1.0		9085baf3e0d4f1a5666d32323
 cloud.piranha.extension	piranha-extension-weld	25.2.0		bab2be0faabe3e07b771492e62e405f10c226cf5
 cloud.piranha.extension	piranha-extension-weld	25.3.0		3782a2ae8fb5d15f35051bc25d4741d327e27006
 cloud.piranha.extension	piranha-extension-weld	25.4.0		3618b8624d9753c70016155eb56f3e0a61a4f717
+cloud.piranha.extension	piranha-extension-weld	25.5.0		513c845a7f3e3105fa134740c1af5cec10e87e99
 com.alibaba.blink	flink-connector-kafka-base_2.11	1.5.1		c02f04afa6f7d281c5df11e0d8ec33c13d203b8f
 com.alibaba.blink	flink-connector-kafka-base_2.11	blink-3.2.0		a540dd2ee9dcf2b6f633f97041d7928039586ab8
 com.alibaba.blink	flink-connector-kafka-base_2.11	blink-3.2.1		81c0877fee5314ee0068aa825031779ffa5faa34
@@ -525,6 +526,8 @@ com.ibm.bluemix.deploymenttracker	cf-java-app-tracker-client	0.1.0		e0c52ef669ef
 com.ibm.bluemix.deploymenttracker	cf-java-app-tracker-client	0.2.0		1b65253e066528ea8c0205615040b9cd7cde0882
 com.ibm.bluemix.deploymenttracker	cf-java-app-tracker-client	0.3.0		e249dcbdc283a379e9e299d6a30db0bcc7b1cad5
 com.ibm.bluemix.deploymenttracker	cf-java-app-tracker-client	0.3.1		795dfc1a78054428d77b67d786411c58492d9c14
+com.kubukoz	sbts3_2.12_1.0	0.10.5		6b19a3169994445a9b3f9e49443dbd69f3ee482c
+com.kubukoz	sbts3_2.12_1.0	0.10.6		ecdd41f39d30316ec2fcc59d84ac29cd7d993e39
 com.luhuiguo.fabric-sdk-java	fabric-sdk-java	2.2.11		10ce2ae936e36d4e75b4db407b8e4ad5a20bace7
 com.luhuiguo.fabric-sdk-java	fabric-sdk-java	2.2.11	jar-with-dependencies	1689d4449fd0fcfe8e98327c0074c8d9c36fd606
 com.luhuiguo.fabric-sdk-java	fabric-sdk-java	2.2.11.GM		3a6b68f7008802b38a4eb42d9edc3697e3e69faa
@@ -1955,6 +1958,7 @@ dev.zio	zio-aws-billingconductor_2.13	7.31.27.1		2bec84f21032b6e5bed701ab9455d11
 dev.zio	zio-aws-billingconductor_2.13	7.31.28.1		8eb1f35e2075fc06d7f14b0da1f6f47da47b28ee
 dev.zio	zio-aws-billingconductor_2.13	7.31.3.1		9b0146b0522bf6175fffc25000ad3b0870465de7
 dev.zio	zio-aws-billingconductor_2.13	7.31.30.1		6e9939322ed90772c51c55108fe0e927adf5a6a2
+dev.zio	zio-aws-billingconductor_2.13	7.31.30.2		6e6a195114e2165797e3b52e2d05e654059c09f0
 dev.zio	zio-aws-billingconductor_2.13	7.31.4.1		655069f4925ac94713bd323cc9688124981a9f07
 dev.zio	zio-aws-billingconductor_2.13	7.31.6.1		4419922b26ac1f12f5b24d5943af3fd4d5e7af69
 dev.zio	zio-aws-billingconductor_2.13	7.31.6.2		165a27118c8ef06075a43b454141017963ad118d
@@ -2501,6 +2505,7 @@ io.growthbook.sdk	NetworkDispatcherKtor-jvm	1.0.2		bb84fdff7808ff8a01661d29e37dd
 io.growthbook.sdk	NetworkDispatcherKtor-jvm	1.0.3		56f66eec2421f44018a85caffa7b386354cd8454
 io.growthbook.sdk	NetworkDispatcherKtor-jvm	1.0.4		c9d4e3b949d160e910c1a60cfa295eabaa8a29a1
 io.growthbook.sdk	NetworkDispatcherKtor-jvm	1.0.5		7fa0879901b904f73ea16c2ab7120721a6970f0c
+io.growthbook.sdk	NetworkDispatcherKtor-jvm	1.0.6		97fab2b5a2645e8430054c3e0c1909379cdb00fd
 io.kotest	kotest-assertions-core-tvossimulatorarm64	5.0.0		N/A
 io.kotest	kotest-assertions-core-tvossimulatorarm64	5.0.0	metadata	6a8a1759463af6854cb8a6f40dc77efa1c194287
 io.kotest	kotest-assertions-core-tvossimulatorarm64	5.0.0.M1		N/A
@@ -2581,6 +2586,7 @@ io.kotest	kotest-assertions-core-tvossimulatorarm64	6.0.0.M2		N/A
 io.kotest	kotest-assertions-core-tvossimulatorarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-assertions-core-tvossimulatorarm64	6.0.0.M3		N/A
 io.kotest	kotest-assertions-core-tvossimulatorarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-assertions-core-tvossimulatorarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.quarkus	quarkus-smallrye-metrics-parent	0.11.0		N/A
 io.quarkus	quarkus-smallrye-metrics-parent	0.12.0		N/A
 io.quarkus	quarkus-smallrye-metrics-parent	0.13.0		N/A
@@ -2968,6 +2974,8 @@ it.unibo.alchemist	alchemist-composeui	42.0.7		4a7cf2e96e4c4d7a41a91f282ef0b7196
 it.unibo.alchemist	alchemist-composeui	42.0.8		4a7cf2e96e4c4d7a41a91f282ef0b719645c2576
 it.unibo.alchemist	alchemist-composeui	42.0.9		4a7cf2e96e4c4d7a41a91f282ef0b719645c2576
 it.unibo.alchemist	alchemist-composeui	42.1.0		4a7cf2e96e4c4d7a41a91f282ef0b719645c2576
+it.unibo.alchemist	alchemist-composeui	42.1.1		5dfccbe3180a1aadf17250decb84995acd8e1c78
+it.unibo.alchemist	alchemist-composeui	42.2.0		5dfccbe3180a1aadf17250decb84995acd8e1c78
 it.unibo.pulvreakt	core-watchossimulatorarm64	0.10.0		N/A
 it.unibo.pulvreakt	core-watchossimulatorarm64	0.10.0	metadata	79d45faeb66f4eb23cac5bb11d7059a07327ac41
 it.unibo.pulvreakt	core-watchossimulatorarm64	0.9.0		N/A
@@ -3070,6 +3078,7 @@ me.proton.core	notification-domain	30.4.4		cdb4fbbebaef60ad374a44ac747add79f2f3a
 me.proton.core	notification-domain	31.0.0		883f2e5d8a1be1404957bd470a8cd0ed739b7d08
 me.proton.core	notification-domain	32.0.0		68cfbe0ca0877689876406a8171207aa7ae117ea
 me.proton.core	notification-domain	32.0.1		886506fda374d8808bcf11928cb3eeeda51829ab
+me.proton.core	notification-domain	32.0.2		b50422e3f32138a220fbd06a369950fb1fdba59a
 moe.tlaster	mfm-multiplatform-jvm	0.0.3		82c07e8954b6370eb8cd036c5462f2d871c04b23
 moe.tlaster	mfm-multiplatform-jvm	0.0.4		47b5bdd7b8ec17ef9a20eda2c394adecaa693528
 moe.tlaster	mfm-multiplatform-jvm	0.0.5		3dfce37b0bb306268aee2b705033eeb98260ca44
@@ -3430,6 +3439,13 @@ org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.4.8-5.17.1		4a2b0530c6748
 org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.4.9-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.0-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.1-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.2-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.3-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.4-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.5-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.6-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.7-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
+org.jetbrains.kotlin-wrappers	kotlin-mui-material	2025.5.8-5.17.1		4a2b0530c6748a26507ba65dad6b356852a4267b
 org.jetbrains.kotlin-wrappers	kotlin-mui-material	5.14.12-pre.639		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
 org.jetbrains.kotlin-wrappers	kotlin-mui-material	5.14.12-pre.640		b3b8bf147a210c2f0912cf8f759f1daa4e93153b
 org.jetbrains.kotlin-wrappers	kotlin-mui-material	5.14.12-pre.641		b3b8bf147a210c2f0912cf8f759f1daa4e93153b

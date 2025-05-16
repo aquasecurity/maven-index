@@ -63,6 +63,7 @@ com.disneystreaming.smithy	aws-sns-spec	2025.03.31		0a9c46706de90f969c6d2db966fe
 com.disneystreaming.smithy	aws-sns-spec	2025.04.08		828e2f949d042a6b69a64a75e420d0d3642b82c2
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.0		b7e5f79ad3fd7cb41cda21200c10c120dc9cfb23
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.0-1-19acfb2		9158bd6cd3d1b49af255db0d68579aadd7c9a076
+com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.0-1-26737b4		fe261b7bf6b1ba84edb1196ad913e8e28304a6d6
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.0-1-5a26ba3		55a374f8eabb7e37748d7bbd0169972f173886ed
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.0-1-8d943ab		f8e4c004020268b0f0647169d26310c2ea35bd60
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.0-1-b0aa866		812087aa656f07565104a241aaead9dbc6d235da
@@ -189,6 +190,7 @@ com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.31		8fcfc1bb824d25561
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.32		b848156660c6a8396312c36d30132009638e8176
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.33		57a071ba3942c6f0ddd137cfeb22ff39d0027b50
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.34		47e87281760ce7657e9d08c445bea00fd0817426
+com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.35		83eabe35be37ff52b3ee7e2fb42b37c0f8bc0a73
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.4		8a1e4cabd83c39de2b0d8f99e66aef0937ee168b
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.5		6ad50d806840ecbc2d7e87dda18897365076ce5a
 com.disneystreaming.smithy4s	smithy4s-xml_native0.4_3	0.18.6		04966602fd602a6f71c21b122085e615ae248886
@@ -412,6 +414,7 @@ com.github.bibsysdev	auth	2.2.1		3e88c3c7c31ccaf2296b71c66c103c679dc8ff06
 com.github.bibsysdev	auth	2.2.2		24bf2aa1e08205742c55445f1f541eb70ec083f1
 com.github.bibsysdev	auth	2.2.3		c9424ac660e7a84fe850e5fb66d52307f8b60b5c
 com.github.bibsysdev	auth	2.2.4		3123b5e5656eb3e8f12df1a706a2aeb8b79b1750
+com.github.bibsysdev	auth	2.2.5		6eba5436293a5ecefa6704f7ea84b86c53f04ff2
 com.github.danslapman	morphling-tapir_2.13	3.1.0		fb319c0e8dff3cbdb563b84daeaaa01906d1a561
 com.github.danslapman	morphling-tapir_2.13	3.2.0		5fa1e1629650d0c8ca70ab68e33f4982a6af24fe
 com.github.danslapman	morphling-tapir_2.13	4.0.0		0610275d65d0a36b39c461389016b0d3121e5858
@@ -523,6 +526,7 @@ com.hotels	waggle-dance-core	3.13.1		6ac1f687875c5a2a155b4e9ac1034c4bbef0813a
 com.hotels	waggle-dance-core	3.13.2		432ce9a9852df7d3e6d1e92db666aed4d659c3ad
 com.hotels	waggle-dance-core	3.13.3		e5880f13ee967561b70fca8e12950cafdb64484a
 com.hotels	waggle-dance-core	3.13.4		c2e9fe63b92ad159ed654d30e003ed331427b1b6
+com.hotels	waggle-dance-core	3.13.5		d18fca2be7d1b5b6a12b2f6b7de2c87523967e44
 com.hotels	waggle-dance-core	3.2.0		8cb27f0f7e3feed1995454d6550318e99f9a3f7f
 com.hotels	waggle-dance-core	3.2.0	exec	588bb1a45a1fcdad5a8ef8df12771142dc537542
 com.hotels	waggle-dance-core	3.3.0		204960e526889684a9238e3ba9f74809d3e01c09
@@ -1983,6 +1987,19 @@ org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.41.1		11
 org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.42.0		2048d3dfb44e480ca626b39297678759d1a400f5
 org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.43.0		8eb45c634d7efda6d80d81129e2bfa5be39c05c0
 org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.44.0		5c0aa6479c60cac768f297e0e9a722aa3de64329
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.0		34588c7ee3d2e9d30e2d1110b15671e03421bd64
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.1		6192585ccd320359398253229692a7bf7f72abe6
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.10		b41b9f8f1cecc6ee2c99e68bcc902f4f11e73754
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.11		25ed9d452015fb3ae5ec7258a4757bef51b404ca
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.12		2a686a6a3204e0c3ae318653f5ea7ca26024f201
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.13		7aac0b07c0fb19b04c452b71862a00868775f6ed
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.3		a351051e3545d9f9691da1d2171681387cc0121f
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.4		ebff7756ed264fac7a05884a93a890bc668d537f
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.5		18e62dae3b885bf91011e0acab4866bbda84c787
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.6		851a0828c6dc9856e3b17fc591d54d1c7ca7c025
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.7		a334bbcc63495efb12a7eea1135c3dbbaa4791f3
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.8		6d1b7b7e597b61ce62e6abf92cd2f7bcc40fe505
+org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.45.9		f01d1909463a0d808a2839ceb1b0920ce7bd0fc3
 org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.5.0		929283a6cace1ef08ae25e17eca74ea8e109214c
 org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.6.0		2ae9fb66e608a4f2c3502b249ac77c2b7f627358
 org.eclipse.dirigible	dirigible-components-ui-editor-data-structures	11.6.1		71105c051ce91db77f66be68318b84055ce0aef0
@@ -2305,6 +2322,7 @@ org.wildfly	wildfly-undertow	35.0.0.Final		e643c70676e0d37d508eea6a2d0e0b0d51706
 org.wildfly	wildfly-undertow	35.0.1.Final		8a09d9d5657ea5b4fa5c915ab34725c927240235
 org.wildfly	wildfly-undertow	36.0.0.Beta1		22ab12b314a54df0ad85badfb694da935be16ba5
 org.wildfly	wildfly-undertow	36.0.0.Final		60bc256dac5cb8ceb069497a9f715e3f1906d8c6
+org.wildfly	wildfly-undertow	36.0.1.Final		e46954712a137c52176a358a9d7f10fbc5ce51ba
 org.wildfly	wildfly-undertow	8.0.0.Alpha1		ae78ca0fc77a1341b11fdc9a17f6ee1ec9fad913
 org.wildfly	wildfly-undertow	8.0.0.Alpha2		6e2897c48d07417bb4882259ca0820b9064263c1
 org.wildfly	wildfly-undertow	8.0.0.Alpha3		845b431a8e5d3d8c106fa87832002d3827629ead

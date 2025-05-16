@@ -449,6 +449,7 @@ io.ktor	ktor-serialization-kotlinx-json-androidnativex86	3.0.3		5b1b866d155c5bb4
 io.ktor	ktor-serialization-kotlinx-json-androidnativex86	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-serialization-kotlinx-json-androidnativex86	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-serialization-kotlinx-json-androidnativex86	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-serialization-kotlinx-json-androidnativex86	3.1.3		757091c83620341448204fe54900ba92d9ea1e5e
 io.mongock	test-domain-project	1.0		23a4e21da3c393268e836cde721736e34ffb8f8f
 io.quarkiverse.amazonservices	quarkus-amazon-services-integration-tests	1.0.0		fa4c0eec998eff38356b74fb004b49b464cfe9b1
 io.quarkiverse.amazonservices	quarkus-amazon-services-integration-tests	1.0.1		88bfd1a55da72298023fc54ef76b31406a709f55
@@ -959,6 +960,7 @@ org.anyline	anyline-web-ext	8.7.2-20250312		c7ba416ddd60741b99a09aab5198faf46a50
 org.anyline	anyline-web-ext	8.7.2-20250401		d7b789df4d91bc890cfa9201453feb13735c20b9
 org.anyline	anyline-web-ext	8.7.2-20250404		bd756ac72a51f30806f6191b3be9e64a1a24327e
 org.anyline	anyline-web-ext	8.7.2-20250502		c9974d90e1a64f0bb8c2b942d9555c04a0ecd5a1
+org.anyline	anyline-web-ext	8.7.2-20250509		951210a5f3e40f4b0ab7c362ec5a27aaa076e160
 org.anyline	anyline-web-ext	8.7.2-jdk11-20240816		d1dea4c656091bd123013c56893954b4874453b9
 org.anyline	anyline-web-ext	8.7.2-jdk11-20240820		b33efc6d80ea79e8b423e1cf7b1e274bf3d94089
 org.anyline	anyline-web-ext	8.7.2-jdk11-20240826		9f0db91be995cce6f113393115d4c0e660053181
@@ -976,6 +978,9 @@ org.anyline	anyline-web-ext	8.7.2-jdk11-20250108		363104cfaf4d1f71355067625da555
 org.anyline	anyline-web-ext	8.7.2-jdk11-20250212		d0d2536b6a57386b2ac0175167b1ec597df596fc
 org.anyline	anyline-web-ext	8.7.2-jdk11-20250312		943b402a182318517ba9b6dda565e81277fac1ad
 org.anyline	anyline-web-ext	8.7.2-jdk11-20250404		3868f07d9e01506a7b7e56f8b85d2c2872950081
+org.anyline	anyline-web-ext	8.7.2-jdk11-20250502		f128a927b4894674b6436f9be332089e2038ce89
+org.anyline	anyline-web-ext	8.7.2-jdk11-20250509		aead85a1ebcefff28bbcb4043503ec6f265eaabd
+org.anyline	anyline-web-ext	8.7.2-jdk11-20250515		5f27d1672821de56601f7718bdb5be6e1e8ea014
 org.anyline	anyline-web-ext	8.7.2-jdk17-20240501		993505a58178d6c079c03fcffd70c65d943f0a86
 org.anyline	anyline-web-ext	8.7.2-jdk17-20240505		b5616c75aeb2ad5e8c9ffa036fe2ceb074c688d9
 org.anyline	anyline-web-ext	8.7.2-jdk17-20240506		10f6d68aaea5d6a62714a502c0ef5e0f724a6aa4
@@ -1046,6 +1051,9 @@ org.anyline	anyline-web-ext	8.7.2-jdk17-20250109		54403f6e40b9d82d5febc011e4216e
 org.anyline	anyline-web-ext	8.7.2-jdk17-20250212		e6c3c1e7d78b223085ba66258dca32db3d662f2f
 org.anyline	anyline-web-ext	8.7.2-jdk17-20250312		b54263c79a0400e597b42ea3cfd6ceaeb6216f6e
 org.anyline	anyline-web-ext	8.7.2-jdk17-20250404		adc7ed19d480dd3afe032abe7ec80ecf7729c169
+org.anyline	anyline-web-ext	8.7.2-jdk17-20250502		c66eb0c10d5c3a03d518e2a38d62504d35163999
+org.anyline	anyline-web-ext	8.7.2-jdk17-20250509		45fc5fa49beeb9212ee323abcd6164014fd5001e
+org.anyline	anyline-web-ext	8.7.2-jdk17-20250515		0c97557ae7fa84b046c2292fc9f8a60d4a99b1a1
 org.anyline	anyline-web-ext	8.7.2-jdk21-20240501		76dc9e5e3f9865bbc76b72b24edd0190f3beac35
 org.anyline	anyline-web-ext	8.7.2-jdk21-20240505		c05b96409ba42237cd7f54ef71879d342010ead2
 org.anyline	anyline-web-ext	8.7.2-jdk21-20240506		2ff851728c20877324d13a58e9f73dbeb15e1ae2
@@ -1120,6 +1128,9 @@ org.anyline	anyline-web-ext	8.7.2-jdk21-20250212		4f26454fe4e7746babae380ea435d4
 org.anyline	anyline-web-ext	8.7.2-jdk21-20250225		fa46bd0e720d2f75c173bf7f7d0fef3e69d46346
 org.anyline	anyline-web-ext	8.7.2-jdk21-20250312		665bb74a83fe1cec45a9d37e41793d699207007c
 org.anyline	anyline-web-ext	8.7.2-jdk21-20250404		5f8975e5c440e10156f3ac2f9d107c91bf44afcd
+org.anyline	anyline-web-ext	8.7.2-jdk21-20250502		05d754de5ed3ce2ec5c4e0e02021b4052e9f4e89
+org.anyline	anyline-web-ext	8.7.2-jdk21-20250509		5c06016c898a3d1604e3285161998694786c89ca
+org.anyline	anyline-web-ext	8.7.2-jdk21-20250515		7c9d0ce54e926c80e6fc4f48378d3f6e7e23e224
 org.apache.geronimo.plugins	javamail	2.1		N/A
 org.apache.geronimo.plugins	javamail	2.1.1		N/A
 org.apache.geronimo.plugins	javamail	2.1.2		N/A
@@ -1494,6 +1505,13 @@ org.webjars.npm	graphiql	3.1.1		7590fb0901bb246f53a4d8cc9f8c5f3d7457f1a6
 org.webjars.npm	graphiql	3.1.1-1		fc5da71b0d181074b771694ca803a78c0ac13df8
 org.webjars.npm	graphiql	3.7.0		ec5e600e80f449f8899343b881db1627ff305509
 org.webjars.npm	graphiql	3.8.3		01abb90316b76fd2fa8ac2dfd6c73ee6b34bba53
+org.webjars.npm	graphiql	3.9.0		8f911d4f1ba8b6c9d454437f1db11601926ed99d
+org.webjars.npm	graphiql	4.0.0		bebd3aa778e6f42f6e019b93bd200499d2f7a75d
+org.webjars.npm	graphiql	4.0.1		1d400bb79b3d38e07f2ef92bbca0b56087c95eed
+org.webjars.npm	graphiql	4.0.2		c5b19ceb3df6863459d6af54df3d27c84dbe065c
+org.webjars.npm	graphiql	4.0.3		764112924481b6d28f17f1d544abf1b3d981f231
+org.webjars.npm	graphiql	4.0.4		f4d3e63e8b4c9070f247653096c197a0ed92fedc
+org.webjars.npm	graphiql	4.0.5		72735c9cf63d88113f683e4646abdedf5e91408e
 sk.seges.acris	acris-os-build	1.0.2		N/A
 sk.seges.acris	acris-os-build	1.1.0		N/A
 sk.seges.acris	acris-os-build	1.1.1		N/A
@@ -1519,3 +1537,5 @@ studio.lunabee.compose	lbcpresenter	1.2.0		N/A
 studio.lunabee.compose	lbcpresenter	1.3.0		N/A
 studio.lunabee.compose	lbcpresenter	1.4.0		N/A
 top.yuuma	easy-word-common	1.0.4		N/A
+xyz.kamyar	sbt-jni_2.12_1.0	1.4.2		1053d2be9b324401ff672c9e2bfffc439fc2e3ee
+xyz.kamyar	sbt-jni_2.12_1.0	1.4.3		3faf45b1d0bbc7cee7464884abde78d9f596d425

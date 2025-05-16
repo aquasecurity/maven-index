@@ -465,6 +465,9 @@ de.lhns	scala-trustmanager-utils_3	0.3.4		094c3fdc0bc9016c77d4809c9095e275a157eb
 de.lhns	scala-trustmanager-utils_3	0.3.5		e204ca7f4d22725e5f125e3156912b2820ed4a52
 de.lhns	scala-trustmanager-utils_3	1.0.0		b7ed573bd79abe69afb490971fd4d2e236b72fe6
 de.lhns	scala-trustmanager-utils_3	1.1.0		a582f2329dbbda5e26eb2f5b173c75d92bcb395b
+de.otto	jetty-ldap_2.10_0.13	0.1.0		8947513809ba3af85b5d7a2402d4044bb5aad9e4
+de.otto	jetty-ldap_2.10_0.13	0.1.1		64c8ca1def2530bac67d5efd97d4054a0cad9374
+de.otto	jetty-ldap_2.10_0.13	0.1.2		bbfc7c6076691ace4bf3b656438a0b5fa9db68e7
 de.samply	mdrfaces	4.0.0		b0a3fa40482468e74ed894bb9738300b9c80b4c2
 io.cdap.cdap	cdap-event-reader-spi	6.10.0		10f15fba1fb10381e038b0645545d7311e7cf133
 io.cdap.cdap	cdap-event-reader-spi	6.10.1		400f821aab75711fdb7397e7f785757e7b5ed535
@@ -601,6 +604,7 @@ io.fabric8	fabric8-karaf	3.0.8		N/A
 io.github.aleonq.kmp	common	1.0		93d4c3e0f955923637b368f505f07204163a73e8
 io.github.aleonq.kmp	common	1.0	all	1382ae5b238e6bc8fcceb3e7904f3132604f8800
 io.github.bullet-tooth	logback-kafka-appender	0.3.0		403bc21ff22752b83105073cb8e6d5f83b8dbef4
+io.github.edadma	texish_3	0.0.1		cf747b702c58081c985738d046483081c60edf35
 io.github.farimarwat	primeutil	1.0		N/A
 io.github.farimarwat	primeutil	1.1		N/A
 io.github.farimarwat	primeutil	1.2		N/A
@@ -883,6 +887,7 @@ io.ktor	ktor-client-resources-androidnativearm32	3.0.3		236087ee15f55d590c390e85
 io.ktor	ktor-client-resources-androidnativearm32	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-client-resources-androidnativearm32	3.1.1		fede44b0f1487dd925915b259a422d3750f6e495
 io.ktor	ktor-client-resources-androidnativearm32	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-client-resources-androidnativearm32	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.scalecube	scalecube-configuration-benchmarks	2.1.0		67b502f37c97f303ca2def8c3b20e677b8a9f313
 io.scalecube	scalecube-configuration-benchmarks	2.1.0	docker-info	666b8d4ec749a239d4063dd6757ac454eb313cbf
 io.scalecube	scalecube-configuration-benchmarks	2.1.1		4a05848f1bbfcc85db122d265fdc84bce0dc40a0
@@ -1721,6 +1726,7 @@ io.streamnative	pulsar-io-netty	4.0.1.2		30979460963a56b46d9923d93b61a35c3612915
 io.streamnative	pulsar-io-netty	4.0.1.3		8be04e7f98912fcdc39c29cd6e63c419a4168b57
 io.streamnative	pulsar-io-netty	4.0.1.4		e39826c21c27c0e6f7e1e6a47cecf157bd0069a0
 io.streamnative	pulsar-io-netty	4.0.3.1		bc8da785c1f678942809fd22f2d7668fe4608bf2
+io.streamnative	pulsar-io-netty	4.0.4.2		663b512f4fb2fa288afa75734e1635ca0c8264a0
 io.streamnative	pulsar-io-netty	master-rc-daily		b8f9a3ebb74bf665d51d4e40420603edaf2fdebe
 io.streamnative	pulsar-io-netty	v2.8.0-rc-202106091140		ed266c32d687a3e9ac4a747a62fcd67d46e06192
 io.streamnative	pulsar-io-netty	v2.8.0-rc-202106121853		5563fbb60cc859159caf388d725381767e6ca5a3
@@ -2086,6 +2092,8 @@ org.metaeffekt.core	ae-test-common	0.135.7		39e2c44b4a8c7223fd4306b9ccaa52300e44
 org.metaeffekt.core	ae-test-common	0.135.8		e15f30500f04b35daecb455a19a10d442fb94b29
 org.metaeffekt.core	ae-test-common	0.135.9		c4bb7665505300ca96800005729c6d818b6fd84e
 org.metaeffekt.core	ae-test-common	0.136.0		7456dafeb4288e017a3ea17d84cd9fa105f82f55
+org.metaeffekt.core	ae-test-common	0.137.0		33250965f7094f0c2137eab87530b8d5e3424c36
+org.metaeffekt.core	ae-test-common	0.138.0		9d6b56bf64d4b59b53d5328132d28736891ba58e
 org.ow2.jonas	jonas-jsf-mojarra-2.0	5.3.0		N/A
 org.ow2.jonas	jonas-jsf-mojarra-2.0	5.3.0-M1		63faac6825418c0f0ec57e7e7d6da70236576d3c
 org.ow2.jonas	jonas-jsf-mojarra-2.0	5.3.0-M1	ipojo	aa92d3e3fd39011e3772897882d561e6de60cdcf
@@ -3729,7 +3737,18 @@ software.amazon.awssdk	iot	2.31.30		ddee20012ef4e939793cd4b6c06a0c4166621077
 software.amazon.awssdk	iot	2.31.31		c100302fbe3d71243b6328d3e7a31decd86476ea
 software.amazon.awssdk	iot	2.31.32		c3ee7d6a252f30bdf6e6ef0d1d8912ef57b914eb
 software.amazon.awssdk	iot	2.31.33		0c993e01c26b3df7058ef9f781f234d95d27d98d
+software.amazon.awssdk	iot	2.31.34		a267c96b09dc15233726d5c8e5a3c1ee1942793c
+software.amazon.awssdk	iot	2.31.35		99ecba57b1cdc4148c8ecd1793fd58dbc4a19bc5
+software.amazon.awssdk	iot	2.31.36		4af7f5f8f4e46f1581f2610346671e652c506eed
+software.amazon.awssdk	iot	2.31.37		f1eee13e3f348d63be82bdd0b24fa546e487d73c
+software.amazon.awssdk	iot	2.31.38		cb3f3697b3b1797dc0b03b1d9733095a9e2177f6
+software.amazon.awssdk	iot	2.31.39		07027ad3a6207453f6afdd2f8867f67d2777f493
 software.amazon.awssdk	iot	2.31.4		98c74e92e48ff23884a50e6f5564fd18f3e8bb77
+software.amazon.awssdk	iot	2.31.40		f2a6ab19f21fc2afc9ae07d7322816b347618734
+software.amazon.awssdk	iot	2.31.41		9b8d2d3493947c61e6fc6d619a315ec39adaff3f
+software.amazon.awssdk	iot	2.31.42		cf5031929edabc292f8733e798bc245d0a67164b
+software.amazon.awssdk	iot	2.31.43		ba8eeea107bb5d552528eb56aea985c880312414
+software.amazon.awssdk	iot	2.31.44		a108c856fb8ba4fc319d48968e7bf52fd0afb4bb
 software.amazon.awssdk	iot	2.31.5		fa83a176a6213fd6ef5143655bbd8245e7b90877
 software.amazon.awssdk	iot	2.31.6		c8ee9c22e6f4168ef27ca6d257d73d9fb2ec0677
 software.amazon.awssdk	iot	2.31.7		75defacc410d8be899fbd0809eca366d8a00fe89
@@ -5199,7 +5218,18 @@ software.amazon.awssdk	marketplacecatalog	2.31.30		32f4c2b69933446a5306090cefb29
 software.amazon.awssdk	marketplacecatalog	2.31.31		32817926c5dcf0ba81ddd6e3a2db075ab563b722
 software.amazon.awssdk	marketplacecatalog	2.31.32		190ac28cf6a2319e9b60c60f120f41ee0525f542
 software.amazon.awssdk	marketplacecatalog	2.31.33		beb3de3e7472406d9802cf2fd2efa1ba964f3b70
+software.amazon.awssdk	marketplacecatalog	2.31.34		0e17ab1f0a720e1340df129fa0f94f6bb4b56f2c
+software.amazon.awssdk	marketplacecatalog	2.31.35		935d2d7d0656838bf3e79aafce4a214babac8ddd
+software.amazon.awssdk	marketplacecatalog	2.31.36		1b50ce984e48e8ccb424d7486372c80dfc3f54c1
+software.amazon.awssdk	marketplacecatalog	2.31.37		1f960d4c5025ebe7b303879a9992fc284a32700c
+software.amazon.awssdk	marketplacecatalog	2.31.38		88a0ba426923c342320d92116319d5291d9ec490
+software.amazon.awssdk	marketplacecatalog	2.31.39		7060f1b429ca31bce0fd71a58228784b0616d731
 software.amazon.awssdk	marketplacecatalog	2.31.4		49a3f03ae1ca735bc67132fba4c5404d9bb0f626
+software.amazon.awssdk	marketplacecatalog	2.31.40		e39933e7cf2a145e5dedee139668942c2a952d47
+software.amazon.awssdk	marketplacecatalog	2.31.41		789dd96461a994a4ecea9222c2f4ef46b1ab3e27
+software.amazon.awssdk	marketplacecatalog	2.31.42		28885fb710db43c6b5aafed1d0d63406889695c4
+software.amazon.awssdk	marketplacecatalog	2.31.43		4541c0e8f05b77a7086231b3278bfdbf555a60f8
+software.amazon.awssdk	marketplacecatalog	2.31.44		799e5f0271976902e81b4a9a1bca926794758485
 software.amazon.awssdk	marketplacecatalog	2.31.5		f1ad04e2f4f78ba52fef011837b8d2cdd8175e41
 software.amazon.awssdk	marketplacecatalog	2.31.6		90bb5eec9d9235772084f2dc138aac6e9530360c
 software.amazon.awssdk	marketplacecatalog	2.31.7		389684eb2c40ff73fab8c0d3d4ecff12ee6de39e

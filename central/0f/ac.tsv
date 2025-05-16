@@ -315,6 +315,7 @@ com.pulumi	archive	0.3.0-alpha.1732684242		71bf40da3a5a2a57cb9483931c3fbde1dbd56
 com.pulumi	archive	0.3.0-alpha.1732770649		87538a7f4eb95aa41072c3c54b1680252d3bc1a6
 com.pulumi	archive	0.3.1		a6911e62f06d3bab2276b47d4fe958261955cfbc
 com.pulumi	archive	0.3.2		7c788c1a025bfe7b93c8aba9ed9efe9abde1a302
+com.pulumi	archive	0.3.3		860b3be2faf3d054a07538ad3dc5dccdfc98973d
 com.squareup.affected.paths	tooling-support-android	0.1.0		3b6d7e42b754a1823092226202f4aeee124c1bcf
 com.squareup.affected.paths	tooling-support-android	0.1.1		d85d7e2cb541fd8fcff8e099acced163dd0b0a78
 com.squareup.affected.paths	tooling-support-android	0.1.2		aad2f7a585a6c586a3155d0fcdf339cd694f6ec1
@@ -1361,6 +1362,27 @@ com.tencentcloudapi	tencentcloud-sdk-java-dcdb	3.1.894		7ab7951735a78680c70b28d7
 com.tencentcloudapi	tencentcloud-sdk-java-dcdb	3.1.896		396bf4dba5d80aace5d57b223a5ebd49c50e5927
 com.tencentcloudapi	tencentcloud-sdk-java-dcdb	3.1.976		88ec991d44532625aa0e75d5ea416126ed080162
 com.tencentcloudapi	tencentcloud-sdk-java-dcdb	3.1.977		4c1f30936d7e48535389c6200972f43d6086e501
+dev.andrewbailey.difference	difference-macos-arm64	1.1.1	metadata	6694de2df6cb821a1f6ca29adf944a9e78a42c03
+dev.guardrail	sbt-guardrail_2.12_1.0	0.64.4		a41f38ca033b4945ff8d7dd3852ca4abdae43169
+dev.guardrail	sbt-guardrail_2.12_1.0	0.65.0		105fc12e8dc54aab125afe421a2293bb041dfef8
+dev.guardrail	sbt-guardrail_2.12_1.0	0.65.3		7eaf58fae4168a57c4d85f4ea5f0520f41e6c75f
+dev.guardrail	sbt-guardrail_2.12_1.0	0.65.4		312f423a4c541c9f09e6fbffe445074d489bd518
+dev.guardrail	sbt-guardrail_2.12_1.0	0.65.5		63ceb191699f9aa90402cc00609141e840887202
+dev.guardrail	sbt-guardrail_2.12_1.0	0.66.0		c59d6db4fbc1fddd4e15e3f3f68e7cc701238fae
+dev.guardrail	sbt-guardrail_2.12_1.0	0.68.1		c65ba360b6e52fde3ef25e2ed05d4109aff0ff18
+dev.guardrail	sbt-guardrail_2.12_1.0	0.69.0		2d3b2471c7bb14c94f283b99ac61910fd17e6980
+dev.guardrail	sbt-guardrail_2.12_1.0	0.69.0.1		9708e03e5bc13c7e328e36cee23095e33d3687bd
+dev.guardrail	sbt-guardrail_2.12_1.0	0.70.0		12c4e79ec42a68d31a211c1625453a05594765e7
+dev.guardrail	sbt-guardrail_2.12_1.0	0.70.0.1		e0aef1a4748c06301ba532fbe6827da2850a1476
+dev.guardrail	sbt-guardrail_2.12_1.0	0.70.0.2		f5e55af359eda7d3d8d0135304abda6ce7dffdc8
+dev.guardrail	sbt-guardrail_2.12_1.0	0.71.0		df9012de108a9246f9d97c9746473155f506a5c8
+dev.guardrail	sbt-guardrail_2.12_1.0	0.72.0		b338eb33becfa81d564c0e52fe358646d53e8e12
+dev.guardrail	sbt-guardrail_2.12_1.0	0.73.0		fceb9f21380c023e72494e301fe3ce6ae41efe7e
+dev.guardrail	sbt-guardrail_2.12_1.0	0.74.0		247729bedc2190081466298c952618165187306f
+dev.guardrail	sbt-guardrail_2.12_1.0	0.74.1		816ba824f6b2a1e4ef1c853baf1cddb4dfc6b9a9
+dev.guardrail	sbt-guardrail_2.12_1.0	0.75.0		577fd994c35c2a48593dbdc5c9417d80e29e7988
+dev.guardrail	sbt-guardrail_2.12_1.0	0.75.1		195f54d9e8faf3a04ec5bfc55f2738e5eaa6c603
+dev.guardrail	sbt-guardrail_2.12_1.0	0.75.2		c0cd5f2d4c6ca00129dfe871811eb22573e803d5
 dev.guardrail	sbt-guardrail_2.12_1.0	1.0.0-M1		b2a54ef5d8e5a0bd923e3473f657995bb5f38a7d
 dev.zio	zio-aws-autoscaling_2.13	5.17.102.7		726fab028111a66e254a73e41126407dc3908bd1
 dev.zio	zio-aws-autoscaling_2.13	5.17.102.8		95077dad7e1c7852f234b1ec5c8e019cd8b5189e
@@ -1680,6 +1702,7 @@ dev.zio	zio-aws-autoscaling_2.13	7.31.27.1		3f8bbfcdcb09342462ed5fe09dbb68b1ccb2
 dev.zio	zio-aws-autoscaling_2.13	7.31.28.1		f22a400ae4a0751b379734366960c6a9dbb276ba
 dev.zio	zio-aws-autoscaling_2.13	7.31.3.1		ecaad833d2ffe03745e77cc15c59dc47b4369379
 dev.zio	zio-aws-autoscaling_2.13	7.31.30.1		872986356b9420b63473d43ca3a49fc8d334b40c
+dev.zio	zio-aws-autoscaling_2.13	7.31.30.2		b70a8fbc75e65b1ed51a3a761965507563fea931
 dev.zio	zio-aws-autoscaling_2.13	7.31.4.1		1c1cb2f9e4df4de0d706ac9a900da0b595284b69
 dev.zio	zio-aws-autoscaling_2.13	7.31.6.1		81ad97e05689576e1c806e975ded9c4763815fa9
 dev.zio	zio-aws-autoscaling_2.13	7.31.6.2		d41a2e4527cccd51ff92c6575f39b3c8185899c7

@@ -147,6 +147,7 @@ com.disneystreaming.smithy4s	smithy4s-json_2.13	0.17.8		e8a9506b40892ddbb810f8da
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.17.9		74e8756e5ef9d4e1d1d57fc476799764c8e54ffa
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.0		7e9be2a99fe1f3c038d66106ded1de24ce8c66c9
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.0-1-19acfb2		c4662833895c0a42dae7d550d2fcf64bf675c1da
+com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.0-1-26737b4		937aef0d9d4e1ba9bd630339564da4cccc6e8cb7
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.0-1-5a26ba3		198a54c86e01f18d5bbf7504ec72088b7792ccf0
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.0-1-8d943ab		3155dee884a044786d0bdf06271670e2aa37d102
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.0-1-b0aa866		7701e8abd8c16a1106506a41405216dbe233fc04
@@ -273,6 +274,7 @@ com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.31		d957f2a7fb9ddd804fd1e9f
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.32		f50420754bc60385aa343a3873a270c922216997
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.33		a0eb2eba000647a08cf9b38c3fd0682a18b935e5
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.34		718af1b8fed53c7e574a4729442adecb621c0396
+com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.35		2d806dd42d7ce81681cdff0000a2b52a6a757fec
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.4		8fe1d93e52f15d7730a09f9ab6b9a0df959561ea
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.5		82639918420b68a2f07c4ed1ae6958ba12623d93
 com.disneystreaming.smithy4s	smithy4s-json_2.13	0.18.6		9a227a361cd15fcbc67e172aaafbbf4721908cf2
@@ -498,9 +500,11 @@ com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.65.0		e875009
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.66.0		a229d00fcf18af02524b44b0f72af3146702b83c
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.67.0		7bdbd6b963edf9b554a714f75c7d3ce3aca55e3b
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.68.0		33b2aed56907fb440e6f489b50729e076023b832
+com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.69.0		a79cb491343988dba76b48456a1da5a171b0d024
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.7.0		974adba2cf3c4aba7c2c90a51c39ebe95f729c69
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.7.1		30dc97dd171966d64f4d81b554c4cd350625ea04
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.7.2		307a6207ddc54bd97f5ad7cae8cba40324485b45
+com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.70.0		553a5253f17e4e01a3bb2f078d44117847085841
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.8.0		51a2e82053e99671628c21d31c5e068c79c02d91
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.8.1		f15d375aa94d3c8bc391f9b69dd86b49949d510b
 com.google.api.grpc	grpc-google-cloud-recommendations-ai-v1beta1	0.8.10		afca61ddc8a35860fa41b2448b7a259fd611c910
@@ -2209,6 +2213,19 @@ org.eclipse.dirigible	dirigible-components-ui-service-generate	11.41.1		06c69ae7
 org.eclipse.dirigible	dirigible-components-ui-service-generate	11.42.0		8079e910513c805349a7e5adade032fd1d1d3be7
 org.eclipse.dirigible	dirigible-components-ui-service-generate	11.43.0		7e5880c3081d18e9439692186d6f8114e3d3c595
 org.eclipse.dirigible	dirigible-components-ui-service-generate	11.44.0		4f438c6a5c166df8fd6e3d2653faf8d3781271c6
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.0		487ac47714eedf4ff01bf517caff720239874fff
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.1		65a12fd139db76583036d1ffacadf6c0bc30f605
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.10		390d8d7b115078b2eca8b5b9ff29f2754cd6f8a7
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.11		cade49d0c91a27aa9c3b260d14bb5f1011d75be2
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.12		a5e74ebd565e4af2762093763adfc905118cf924
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.13		6e63281f40c48bccb6edbeed713c14e805377453
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.3		d1950fb3467d136f054a2435be86fac1621a8b7e
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.4		da53aa775438e4c10a3a044664bf372a2d06eb20
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.5		01ad8aa6146799edeefe29a1c84d27ff1880ca2f
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.6		1ad7a6c6dc00b885d3ec626581ab8b6ae3053553
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.7		6834027a8dccc77483b361a909f13f40409c4d41
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.8		ade0bb0903570b31fde84e04de89e3c6ac58e039
+org.eclipse.dirigible	dirigible-components-ui-service-generate	11.45.9		bd78b414b27c536bc30dc4d563440b01da91d98e
 org.eclipse.dirigible	dirigible-components-ui-service-generate	11.5.0		20697807e4f53ffb8016e8417202872ab761bfd6
 org.eclipse.dirigible	dirigible-components-ui-service-generate	11.6.0		d47e1e4536619f707f961f74a6927023deb5e356
 org.eclipse.dirigible	dirigible-components-ui-service-generate	11.6.1		bc640a0d1fd7b7d4f217b2854463f0ec4bf62dfe

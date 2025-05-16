@@ -677,6 +677,7 @@ dev.zio	zio-aws-workdocs_2.12	7.31.27.1		b4c17ef6ad5985b14b3001857d457cc88931036
 dev.zio	zio-aws-workdocs_2.12	7.31.28.1		c0798f93ef983853e09deea52b18b901649c8f5c
 dev.zio	zio-aws-workdocs_2.12	7.31.3.1		6d81ea98ec8c374b25d4376d14c471253ca0eb33
 dev.zio	zio-aws-workdocs_2.12	7.31.30.1		a144a262912f2c302027b100c9a137b23a55756d
+dev.zio	zio-aws-workdocs_2.12	7.31.30.2		a29939c8940b58024061e027fedb9832a2e49da9
 dev.zio	zio-aws-workdocs_2.12	7.31.4.1		e0c25ceafb1d69742e44cb32a26052391468a3a8
 dev.zio	zio-aws-workdocs_2.12	7.31.6.1		fb69187818d0ffd0b1748f7197cb620f066b60f5
 dev.zio	zio-aws-workdocs_2.12	7.31.6.2		9dba4a9037ee9aa56f90bce8bad374da0c8d6dfa
@@ -785,6 +786,7 @@ io.deephaven	deephaven-psk-authentication-provider	0.37.5		8d683709f6d1232dfaf15
 io.deephaven	deephaven-psk-authentication-provider	0.37.6		a1827e7398db3975dac4fa523197af64a300d722
 io.deephaven	deephaven-psk-authentication-provider	0.38.0		3fdefec8d21e323875a4c2e0a14aef55bf55fd71
 io.deephaven	deephaven-psk-authentication-provider	0.39.0		166a0db28dde4650e45344e2a4c733ee8b2c694f
+io.deephaven	deephaven-psk-authentication-provider	0.39.1		a1c8fe891efcb8306daa0595a60af4eac5f22be2
 io.digiexpress	quarkus-stencil-composer-pg-parent	4.278.119		N/A
 io.digiexpress	quarkus-stencil-composer-pg-parent	4.278.120		N/A
 io.digiexpress	quarkus-stencil-composer-pg-parent	4.278.121		N/A
@@ -1107,6 +1109,7 @@ io.ktor	ktor-client-auth-androidnativex64	3.0.3		0303d335ae93225c697628d39c9ee41
 io.ktor	ktor-client-auth-androidnativex64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-client-auth-androidnativex64	3.1.1		2edd153fe1d2d9c22912f420e6adb8d139d7ed7e
 io.ktor	ktor-client-auth-androidnativex64	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-client-auth-androidnativex64	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 me.lessis	base64_2.10	0.1.1		c2ec2586b8088dfad265b23b9127fba92e3c0007
 me.lessis	base64_2.10	0.2.0		8837aaabc39d1a6123f989c79f2b9c4275d0b80e
 net.optionfactory.spring	upstream-interceptor-jjwt	10.0		376337c0edcce7097e724d1877df6f6bd2256a0c
@@ -1449,6 +1452,9 @@ org.http4k	http4k-server-helidon	6.6.0.0		8b9523eb459a36cf694e5106fc36e3da8da50a
 org.http4k	http4k-server-helidon	6.6.0.1		12534f4f5055754aa9b6bc66587d99d7e538a32b
 org.http4k	http4k-server-helidon	6.6.1.0		b4ac791096d0b2137dae75acf0af351b6e6fd62e
 org.http4k	http4k-server-helidon	6.7.0.0		45e94ebaa45325101590724d8641549c1d7bd51e
+org.http4k	http4k-server-helidon	6.8.0.0		f4c9551dda23b2841d0254479b65070f07573b6b
+org.http4k	http4k-server-helidon	6.8.1.0		02b7b94fa1228ae0a6add0e67558665b54de8043
+org.http4k	http4k-server-helidon	6.9.0.0		67cc5d4ce4553807af77aac5a476551876caece3
 org.http4k	http4k-server-helidon	v6.3.0.0		a69212597aab0bf1983a3a95b969dccae7aeb535
 org.http4k	http4k-server-helidon	v6.4.1.0		c23a79b9c96cea46963c12dbdfa533a7a096960f
 org.infrastructurebuilder.util.auth	ibauth-factory	0.9.0		654e28415db4f671bf9ddc68305f523907c956ab
@@ -1501,6 +1507,7 @@ org.jetbrains.exposed	exposed-kotlin-datetime	0.58.0		79026c2a318b8bed4c4a0be6a0
 org.jetbrains.exposed	exposed-kotlin-datetime	0.59.0		44ed0840df1356f76d1278820e9153a590b547e4
 org.jetbrains.exposed	exposed-kotlin-datetime	0.60.0		0035993cc5ce67a73ae75c6b70f3c65d01c456f5
 org.jetbrains.exposed	exposed-kotlin-datetime	0.61.0		e667d8659831d63050891e4a198a3a565680e474
+org.jetbrains.exposed	exposed-kotlin-datetime	1.0.0-beta-1		79fc33c3932b17dac16f24c59164e33f3e2daf0e
 org.mobicents.slee.media	media-rtp	1.0		628039a03da5ed4d69238deef39000d97cf91284
 org.mortbay.jetty	jetty-project	7.0.0.0		N/A
 org.mortbay.jetty	jetty-project	7.0.0.1beta0		N/A
@@ -1576,6 +1583,7 @@ org.scalatra	scalatra-cache-jakarta_3	3.0.0-RC1		c65e180c407f2a0a46d5c3fce92d57b
 org.scalatra	scalatra-cache-jakarta_3	3.1.0		2c3bde49e5e5a6b091b875bd5d025864fbeca1ce
 org.scalatra	scalatra-cache-jakarta_3	3.1.0-M1		abab26e5c10238df6c3845bc2fe89d97e04759f5
 org.scalatra	scalatra-cache-jakarta_3	3.1.1		e79717574f031b18be9f54988bc16997e2ceac25
+org.scalatra	scalatra-cache-jakarta_3	3.1.2		a78679fe6ac77e6178b386cb76ab1b2de6d0b3d7
 org.sonatype.nexus.plugins	nexus-default-role-plugin	3.22.0-01		01e0cae5754d1be7918e4c5b29d3ceae59e9bf1f
 org.sonatype.nexus.plugins	nexus-default-role-plugin	3.22.0-02		b3e33734344fd8df1204b2b849301cde10b6ff67
 org.sonatype.nexus.plugins	nexus-default-role-plugin	3.22.1-01		95361adc0a94fb65317ebd26aa723383207856f6
@@ -1994,7 +2002,9 @@ org.wildfly.core	wildfly-core-testsuite-shared	28.0.0.Beta4		062b7c0f15e468a2ebc
 org.wildfly.core	wildfly-core-testsuite-shared	28.0.0.Beta5		4ceb9f8d0020a7652f3f09cfd183a3198619b13c
 org.wildfly.core	wildfly-core-testsuite-shared	28.0.0.Beta6		b3f58500fe9796cbdea0247c25c3f0047af5472e
 org.wildfly.core	wildfly-core-testsuite-shared	28.0.0.Final		3448af0ef9679494873a79b9bc99b45694d9c013
+org.wildfly.core	wildfly-core-testsuite-shared	28.0.1.Final		42fd1feb8b0d61f61e3562d3f731cb894c4d772d
 org.wildfly.core	wildfly-core-testsuite-shared	29.0.0.Beta1		703c4f8de2f61df8e0d388acd607291acbdee1ba
+org.wildfly.core	wildfly-core-testsuite-shared	29.0.0.Beta2		f31371120f7ea74a4411cf19af56d9f402fe37fd
 org.wildfly.core	wildfly-core-testsuite-shared	3.0.0.Alpha1		ac41e710cb0bef79c6e21c99df4139a23c13167c
 org.wildfly.core	wildfly-core-testsuite-shared	3.0.0.Alpha10		e6a41f1a9670c0cdc770828def37b6b6dff86399
 org.wildfly.core	wildfly-core-testsuite-shared	3.0.0.Alpha11		2af4e3d6404e2c7495fa427308a1729872d6e246

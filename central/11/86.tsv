@@ -193,6 +193,8 @@ com.github.jobservice	job-service-postgres-container	9.2.1-577		N/A
 com.github.jobservice	job-service-postgres-container	9.2.2-581		N/A
 com.google.api.grpc	grpc-google-cloud-modelarmor-v1	0.1.0		15f02bfd986a413012efc713d22cf4f051731eb1
 com.google.api.grpc	grpc-google-cloud-modelarmor-v1	0.2.0		9a04aefa838936a3c942e0db8aaec26d9677d746
+com.google.api.grpc	grpc-google-cloud-modelarmor-v1	0.3.0		12287ce8a0376524730a1060f6e0dd8d9b747927
+com.google.api.grpc	grpc-google-cloud-modelarmor-v1	0.4.0		05d8702786400ba1ce09a368ce8ed2e1c7dad750
 com.indeed	vw-wrapper	1.0.0		c15845e7c3e6ca206f46a2743cba503d431f1be8
 com.indeed	vw-wrapper	1.0.1		116cd1ab6c4b793461a1826d93a5645a98126609
 com.indeed	vw-wrapper	1.0.2		91dcedad74f78b1ec184d546047a7b717b98ddcb
@@ -1100,6 +1102,7 @@ io.sentry	sentry-log4j2	8.10.0-alpha.1		284e8dc3ac02588e08ce53c1eba24ae180d62a45
 io.sentry	sentry-log4j2	8.11.0		f81b8e17cf252b355b84e9759b7f94c019e9fcc8
 io.sentry	sentry-log4j2	8.11.0-alpha.1		c01708721edc1ce516f4420a964ce3c6bef76975
 io.sentry	sentry-log4j2	8.11.1		1578e0bd774dfd7c0c7fe6dd0ca4c29d801a194d
+io.sentry	sentry-log4j2	8.12.0		d2922d9c5b8d8165875021e4b601f1c42366fe47
 io.sentry	sentry-log4j2	8.2.0		dfb5e194b9ac8a1b36821c2bad164b68fe799282
 io.sentry	sentry-log4j2	8.3.0		45d1266b481cdf1f7c769d4d37b918b9ff47ed86
 io.sentry	sentry-log4j2	8.4.0		60f3175b1dd9a5dd6b8e744112a53402ee98963d
@@ -1226,6 +1229,7 @@ org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.2.1		f9e7dcb632
 org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.2.2		2998a8326a6c9602dc6944b5949b89e88ddfd8fb
 org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.2.3		dc134a2634612f2436194d60564b4c9f1b90ec6b
 org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.20.0		c2e64039368a9413679d6a5213fe59459a045c30
+org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.20.1		91eb497637d9627cb92e4f114d7688cac56042b7
 org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.22.0		c6bf74485ad05ec157e9a39d6403eb38105f3725
 org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.4.0		7bdcf72f331de1d59d1a6b427902f5d1b334ef64
 org.apache.camel.quarkus	camel-quarkus-integration-test-jasypt	3.5.0		63ceed5eab4d921db356b77fc71641e35f825a09
@@ -1355,6 +1359,9 @@ org.http4k	http4k-ops-opentelemetry	6.6.0.0		87501a069b8eca3555ded6040ac9c16290b
 org.http4k	http4k-ops-opentelemetry	6.6.0.1		ea20dfec957c82c1ea6f71ffedddbeb67d9e1e4b
 org.http4k	http4k-ops-opentelemetry	6.6.1.0		cd6558b91c6933bdb8f90be1c4c543551b5251d8
 org.http4k	http4k-ops-opentelemetry	6.7.0.0		ea69be4e04c61babe421396c3fdd2d527495044e
+org.http4k	http4k-ops-opentelemetry	6.8.0.0		0a097d099d601cb6b93728bd6a4a46ce3f96ea4b
+org.http4k	http4k-ops-opentelemetry	6.8.1.0		8605136f3d555320e036a3431ad51468f4af97ac
+org.http4k	http4k-ops-opentelemetry	6.9.0.0		761c8083590fcbeeee11bf7381e0ee9adb2697db
 org.http4k	http4k-ops-opentelemetry	v6.3.0.0		84c95ac7b5edd46f6e1f0c0911ab17721396d2b1
 org.http4k	http4k-ops-opentelemetry	v6.4.1.0		fcc5635b6bc76512bc3337c7ff4eba3ce8c8ff71
 org.ikasan	ikasan-wiretap	0.9.0		40cc69d9ef683dee78f2a6c69fea59cf1ee68454
@@ -1524,6 +1531,7 @@ org.scalamacros	paradise_2.11.0-RC4	2.0.0-M7		e28f89463c291c17f038384ce3f03389af
 org.scalamacros	paradise_2.11.0-RC4	2.0.0-M8		0e4eaaa8987137ac13721bcb7620873a91645e5d
 org.seleniumhq.selenium	selenium-devtools-v134	4.30.0		5bf12714250d620bd4996ddea96b4d1a7dc5b4e6
 org.seleniumhq.selenium	selenium-devtools-v134	4.31.0		5bf12714250d620bd4996ddea96b4d1a7dc5b4e6
+org.seleniumhq.selenium	selenium-devtools-v134	4.32.0		a48a2fc63ae8740c832e9a4a533f5cb0cdae816e
 org.spire-math	jawn-spray_2.12.0-RC1	0.10.1		c07eb8e4d6f7b8d2e1b4a04ff35d0aaa910f897d
 org.typelevel	otel4s-oteljava-metrics-testkit_3	0.10.0		5f01b9a809d45459b5b416d71c8c91516e15093e
 org.typelevel	otel4s-oteljava-metrics-testkit_3	0.11.0		379dab77c9ac7ee1d96c26170e58bdc59e979008

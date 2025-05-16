@@ -31,6 +31,15 @@ app.cash.backfila	client-sqldelight	2025.04.22.001005-6591e0d		9001a60fe0d65616f
 app.cash.backfila	client-sqldelight	2025.04.22.144747-b61ec1a		099ffcea586e5aa5a32d2d7c9f60691266227137
 app.cash.backfila	client-sqldelight	2025.05.01.181219-dd7ddc2		8ce39166f6388a1a8bacf18af11ab393089904ba
 app.cash.backfila	client-sqldelight	2025.05.02.175838-8ccb0b0		bc338d84b0bc0521edb408ab3f1470fdec67c8bb
+app.cash.backfila	client-sqldelight	2025.05.05.145329-00d423e		3db9cb257f8e69bb51eac81ceec10cbd666b8352
+app.cash.backfila	client-sqldelight	2025.05.05.170806-d8196f9		5a71fe46cd37819a2d65e3a5e106086a3a077af4
+app.cash.backfila	client-sqldelight	2025.05.05.223811-8976292		381b18275d85eb19fb94fb7e666649b5eb872ae4
+app.cash.backfila	client-sqldelight	2025.05.07.124932-399d45a		dd5885dfcbb99f4f6f12b432661d47cbb57e0803
+app.cash.backfila	client-sqldelight	2025.05.08.174317-550dc7d		b3adb395ef63569a12ba6620022d4aa47ab38320
+app.cash.backfila	client-sqldelight	2025.05.08.185252-70a001c		b2b028cf0e5d00e010e8f0cb78079a8f738a6db5
+app.cash.backfila	client-sqldelight	2025.05.12.160240-6152e21		bdc68817abc60c9c35b75270f0f6a181e39138ea
+app.cash.backfila	client-sqldelight	2025.05.13.195510-03b951f		a13c3427d33022d3556d5ddd05c5dee126e6f4e2
+app.cash.backfila	client-sqldelight	2025.05.14.193213-4ef2090		5e5d48ffee074943c2494421dbc6b6f07fcab7f1
 app.cash.zipline	zipline-loader-jvm	0.9.0		a93a0483cf5c333be131d690ce51355295097bf3
 app.cash.zipline	zipline-loader-jvm	0.9.1		f270510351be3f3c95c25e979fd94aa28481ee86
 app.cash.zipline	zipline-loader-jvm	0.9.10		63ef56d6a7732c031b447001d10b75b9d0172452
@@ -1640,6 +1649,14 @@ com.tvd12	ezyfox-util	1.2.7		07b93fcf09e1f921397a77cad2b74e03c1491d9b
 com.tvd12	ezyfox-util	1.2.8		fd9db2949c43521b5fb4be5a40f83674e32c52ec
 com.tvd12	ezyfox-util	1.2.9		837fc5703512ea50efe8e74dc3a2466aac2fe2bf
 com.upcwangying.cloud.see	spring-cloud-see-core	1.0.3		e4b1e6ad62fe6ff2ef4b63b73b2e606e497d76a9
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.3.0		6f6ea2944a1f37519f6ae065508f5915491d1444
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.3.1		03209d16f8a9f1597f354802879770558522ab73
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.3.2		a1b04a31918dd2615c0501903f9a82105ab90d94
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.3.3		79bfc34c75cc9a478542684d01f3e1313676ccf1
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.3.4		bfca98475b23f702d72488569bf1104bdbf608f9
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.3.5		5490a51718e180d4bcbf516e207d78180478477a
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.4.0		e52afa6bb30d6e7953178c1369af13623299782f
+de.lolhens	sbt-scalajs-bundler-webjar_2.12_1.0	0.5.0		84d3fffa3d842bc816ece2e9b33b6eea24119763
 dev.hathora	cloud-sdk	2.10.0		af008758b2b0863dc3796bc50804132a3e7ad39e
 dev.hathora	cloud-sdk	2.10.1		d8b499bba84eb8c8a409d4398102f9061c1ed0a5
 dev.hathora	cloud-sdk	2.10.10		3bdb0de8fc834e027a2be03e274388b58913c0b7
@@ -1771,6 +1788,7 @@ io.gitlab.izabellamconigliaro	LearningAndroidSdk	0.1		N/A
 io.gitlab.izabellamconigliaro	LearningAndroidSdk	0.2		N/A
 io.kroxylicious	kroxylicious-record-validation	0.10.0		6262c1e40a011ff3cea2dea11eae26d8032cb11a
 io.kroxylicious	kroxylicious-record-validation	0.11.0		4caa8c49b55c252fd30a584f525f70a0f254769e
+io.kroxylicious	kroxylicious-record-validation	0.12.0		2af7c34f86cce5ecd6d749733547651225e1098f
 io.kroxylicious	kroxylicious-record-validation	0.4.0		d8250ff8f9154de2d8e41b32e20bcce5736aa9cc
 io.kroxylicious	kroxylicious-record-validation	0.4.1		323f7c969be079724aaac6877ddebf77f31f042b
 io.kroxylicious	kroxylicious-record-validation	0.5.0		65472dfc47c73e4805270ed9f9812dbe3759dbac
@@ -1819,6 +1837,7 @@ io.ktor	ktor-websocket-serialization-linuxx64	3.0.3		29690be6c1cc18547c2fa78a58a
 io.ktor	ktor-websocket-serialization-linuxx64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-websocket-serialization-linuxx64	3.1.1		482ab5f3c87fe74b6fe2f74562430124b26ffa8b
 io.ktor	ktor-websocket-serialization-linuxx64	3.1.2		b5141a6ca75d01942d9837f14fcbe505968d503f
+io.ktor	ktor-websocket-serialization-linuxx64	3.1.3		5cbd04d9c56ebd11631e9656ba910e2c2249b991
 io.oss84.geotools	extension	24.2		N/A
 io.oss84.geotools	extension	24.2-oss84-1		N/A
 io.qtjambi	qtjambi-httpserver-native-macos	6.4.0		1527dbd07c418eff32f6632b4e85688a090f0b56
@@ -1843,6 +1862,7 @@ io.sourceforge.github.components	javax-servlet-api	1.1.1		4bd6366e60ee607d4a630b
 io.sourceforge.github.components	javax-servlet-api	1.2.1		4587dcff3a663a70cc0339c768aa7bc9e7831b05
 io.sourceforge.github.components	javax-servlet-api	1.2.2		237d05209f46bf946e8b356a13fdbd6fd1f5ac4e
 net.avalara	avalara-sdk	24.12.0		375f37f37004f5d79e044b9d0054e6428a5fcf54
+net.avalara	avalara-sdk	24.12.1		48393109cb5a81b7bb37a87222079ca004d9d427
 net.avalara	avalara-sdk	24.2.29		28512e868c2d945fc3975db98d9024cf33efda20
 net.exoego	aws-sdk-scalajs-facade-kinesis_sjs1_2.12	0.29.0-v2.624.0		09ae856b9743cd0a63003f78e96b57eddac672b8
 net.exoego	aws-sdk-scalajs-facade-kinesis_sjs1_2.12	0.30.0-v2.715.0		4bc63fc0e0ab178411bd346eb6f70e5d2dd4bc4f
@@ -1947,6 +1967,8 @@ org.apache.orc	orc-examples	1.8.7		5bf8cbc2f73d17b5e17bf934d439b0da12573ecf
 org.apache.orc	orc-examples	1.8.7	uber	049e21b809f17bec8c85cff0e1149d012796f373
 org.apache.orc	orc-examples	1.8.8		946c6e0c19ac1bdbe9a604c73c3860a988775b7c
 org.apache.orc	orc-examples	1.8.8	uber	4cbc0aae72f60db9fbe820c4fd4014ecf91a7f27
+org.apache.orc	orc-examples	1.8.9		fbef978b8a1abf374e85a4e1ad36d448068e4cc9
+org.apache.orc	orc-examples	1.8.9	uber	6fa98f36449eb61145d8a2af29264e148902cda6
 org.apache.orc	orc-examples	1.9.0		608f3852c80a8dd5bcf5d920f7a0ce5dfac9ae44
 org.apache.orc	orc-examples	1.9.0	uber	ea1ad20c44957514b5dcba12b186133b989f3bf9
 org.apache.orc	orc-examples	1.9.1		4c3f25e2c27c17e6f67b280d6f544f075b1b3f7c
@@ -1959,6 +1981,8 @@ org.apache.orc	orc-examples	1.9.4		b7745a66f582d1bb90586cbd08bb140efe1ba1e6
 org.apache.orc	orc-examples	1.9.4	uber	781155b396d879a3e93e2af1c0cf2f0c4fc332fb
 org.apache.orc	orc-examples	1.9.5		51f692994424f652a3ef0d1200ff9ec17b20b531
 org.apache.orc	orc-examples	1.9.5	uber	ed0e866b2035435a1fa97365780207410728ade2
+org.apache.orc	orc-examples	1.9.6		38d7d8374cc103c37210c9a6fc87603390ff11d1
+org.apache.orc	orc-examples	1.9.6	uber	88789924637db567694d7e12d1def4e99fbfaccc
 org.camunda.bpm.extension.rest	camunda-rest-client-spring-boot-starter	0.0.2		c06e18b98fa5b040fc84f802b8e2f2d48467adaa
 org.camunda.bpm.extension.rest	camunda-rest-client-spring-boot-starter	0.0.3		ddaa8d653ade211f6324d311040107e7b5d01cff
 org.camunda.bpm.extension.rest	camunda-rest-client-spring-boot-starter	0.0.4		70c798a53ad04f2114d0e0f10da2a50aee7232db
@@ -1970,6 +1994,7 @@ org.eclipse.dataspaceconnector	contractnegotiation-api	0.0.1-milestone-5.1		9bff
 org.eclipse.dataspaceconnector	contractnegotiation-api	0.0.1-milestone-6		bbb7cfbe03acdae4c2e3adace36d206b6b0a80eb
 org.eclipse.krazo	krazo-jakartaee-archetype	3.0.0		26c2632f9c96701ea2a26d49470da933c8b7d4ca
 org.eclipse.krazo	krazo-jakartaee-archetype	3.0.1		bed21b2157c8ee238eb757e18afe0c6b79d7ccfa
+org.eclipse.krazo	krazo-jakartaee-archetype	4.0.0		21a054525ef3ff280e7cf798c3ef7507083089c3
 org.eolang	eo-threads	0.0.1		257f04d53ded3f9d7dc8d7cf1aaf0b0b11856035
 org.eolang	eo-threads	0.0.2		4891c76e1f6adb3c6ee03c99657ece71ddedb680
 org.eolang	eo-threads	0.0.3		2e9db2dd0842f255f3ba57b0417ec73acda8c0dd

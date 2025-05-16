@@ -45,6 +45,7 @@ com.chinagoods.framework.thinkcloud	think-cloud-commons	4.0.5		93d9bdb3705c41d12
 com.chinagoods.framework.thinkcloud	think-cloud-commons	4.1.5		92fe343ab11046eedc14592b7cef9bc57de962a9
 com.chinagoods.framework.thinkcloud	think-cloud-commons	4.2.3		c906a5f36d08da2f2ffd0a32bc005f1a53c31e78
 com.chinagoods.framework.thinkcloud	think-cloud-commons	4.2.5		bb4224f430ff3f7bffdb7ec9e772501334c63c37
+com.chinagoods.framework.thinkcloud	think-cloud-commons	4.2.6		bd86560084c0a268258185e9ff68c72fca9c784a
 com.dongxiguo	zero-log_2.12	0.4.0		36a0fc18020a725174f50556583828f8b12684d9
 com.dongxiguo	zero-log_2.12	0.4.1		9e4bdc02ed97a93bd4a92f0c264f7963e481bc6d
 com.eharmony	spotz-vw	1.0.0		8e93f47c7a99817e71d0b36ca34e022a266d4df1
@@ -1109,7 +1110,14 @@ com.yahoo.vespa	config-provisioning	8.511.14		596bfaa059e99666146d4df1c0a2198861
 com.yahoo.vespa	config-provisioning	8.512.63		ac5dfebf575d9c34e31d59528a9c858ae16fefb8
 com.yahoo.vespa	config-provisioning	8.513.17		3fde3d9977e25d00878f468bb6d8cfe637e5ed61
 com.yahoo.vespa	config-provisioning	8.514.24		d0211f05574f34bb49431bc7d6fd9d6f4b1a7ab0
+com.yahoo.vespa	config-provisioning	8.515.40		9e8a136f8763fa69874c17431ab48b304f75e604
+com.yahoo.vespa	config-provisioning	8.516.26		64fcacdfa411bac820b9fb04b03e9b73392397d7
+com.yahoo.vespa	config-provisioning	8.517.15		6431c901f65d92c11848126bb17ce04e19050879
+com.yahoo.vespa	config-provisioning	8.518.4		b49210dacef17c602152bf392b4726655a79e94d
+com.yahoo.vespa	config-provisioning	8.519.55		4892d32da21001f197821119fdb3d2ebee84f784
 com.yahoo.vespa	config-provisioning	8.52.15		008d6ed8cd2b1e5e4146528b836ecde9b02261e7
+com.yahoo.vespa	config-provisioning	8.520.18		5218f3e20d678f3183faa7e57ebda7b9885ec173
+com.yahoo.vespa	config-provisioning	8.521.17		6b1b7d917a5a8fbff5a4ab87dd6b610793b17761
 com.yahoo.vespa	config-provisioning	8.53.21		405331a4b34369ac326ab03bc6f6d5fba9962fdd
 com.yahoo.vespa	config-provisioning	8.54.61		56b72c647b9e6c344ef8a8718e6c97a0d799349c
 com.yahoo.vespa	config-provisioning	8.56.20		7b5cb7411e383af1cdd60c087405e856fd54fc2a
@@ -1656,6 +1664,7 @@ io.helidon.metrics.providers	helidon-metrics-providers-micrometer	4.1.6		7aa1dc1
 io.helidon.metrics.providers	helidon-metrics-providers-micrometer	4.1.7		253e939d8b88937dd8c08a49c8dfd2b5e64d4310
 io.helidon.metrics.providers	helidon-metrics-providers-micrometer	4.2.0		fd6a3022f32d2d1310c514309a19d9f48728945b
 io.helidon.metrics.providers	helidon-metrics-providers-micrometer	4.2.1		6d2293188e5e61b33afbf78bfb1d83cd5a680943
+io.helidon.metrics.providers	helidon-metrics-providers-micrometer	4.2.2		aa0dfcf048d232b11d1f72d9fd37caab9de80900
 io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	2.0.0		b0b76ef99da30e2e95580334f5b634bed1cee359
 io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	2.0.0	metadata	9ba57be0e09f0a7db00676c16f95db7032790647
 io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	2.0.0-beta-1		6e2802a002cf41e6af9e1aead2e5549448c52391
@@ -1736,6 +1745,8 @@ io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	3.1.1		02826e74d54
 io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	3.1.1	metadata	43adf853a3b1efbd38d4a43dea1edcba68e3613f
 io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	3.1.3		42c1d46b57f6af51154300634c3d44166f9e96cf
+io.ktor	ktor-client-content-negotiation-watchossimulatorarm64	3.1.3	metadata	dad09fdf17ba096adcf77c7dcec8637c89ffdb6a
 io.openliberty.features	io.openliberty.appclient.appClient-2.0	21.0.0.12		N/A
 io.openliberty.features	io.openliberty.appclient.appClient-2.0	22.0.0.1		N/A
 io.openliberty.features	io.openliberty.appclient.appClient-2.0	22.0.0.10		N/A
@@ -2314,6 +2325,8 @@ org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.17		bdff280349ce68e9e6
 org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.18		395f54a811cc4b3b0c58c8d021ddeb90e9235fbb
 org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.19		1f1af41604b48ef1f976a0586b89d11acaaff9d3
 org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.2		c264a7276527f18990410f9597edbfd97118d734
+org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.20		82147a77fb0a7b6a2942e816a5491abe2fd8f868
+org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.21		bd410af6522462bb29cd6d0a8f56fffaaa0deb12
 org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.3		7a5ede85cd14cdc4e4a7d526a58fbe2483474f12
 org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.4		10897d35bb9b0d7f8ad7e415bb8e9aa323283efa
 org.eclipse.jetty.memcached	jetty-memcached-sessions	12.0.5		cffca656ebdfe1420541bf017f0afeb5207ad68e
@@ -2707,6 +2720,8 @@ org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configura
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	56.0.0		ec8180d585af0ae83409c2d25d650362da2bedd6
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	56.1.0		7c164533fb73994bdcb297a8f18eb6569e59a790
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	57.0.0		2262d74f709decae8a2904d760e88c0cc7507fb3
+org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	58.0.0		6ea9f2bc54e6635140749d855e6c01534f81b77f
+org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	58.0.1		b7f6a7db48f93ed9e9739f0234cf479bd22b3dcb
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	6.0.0		94c3ab1fcd33e538f64397a266d9b8119ceeb403
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	6.1.0		4f79dc9985bf048a9558cbbdf8d3ddca85dbcf86
 org.ossreviewtoolkit.plugins.packageconfigurationproviders	dir-package-configuration-provider	6.1.1		c5719c2c37cf0ec54740353a192dbbf454723f77

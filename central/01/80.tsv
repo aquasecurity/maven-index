@@ -52,6 +52,18 @@ com.abiquo	virtualfactory-model-transport	2.1.1		eec7da02b1faab6f96d51b90966ab85
 com.abiquo	virtualfactory-model-transport	2.2.0		b99c842bf0d329acab571a06994b6b942d1ad7c8
 com.abiquo	virtualfactory-model-transport	2.2.1		3b01c021bddbbebdc3a481a069165bcff5bf3d4f
 com.apurebase	DeferredJsonBuilder	1.0.0		66ec90eb1694c48a7f02e44afa3441a0c9cffc01
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-00218f9		288f494fead58e183f1d3ec397a0fe04659c411f
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-02972dd		28512394d9d06647178e99309164ba6f743bee16
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-49d5d54		27ea03f53cbdffa83484f9c0ba320539aed8309e
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-53f42e4		20124607e1073e6c97a7cab9c26e917db39b52b0
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-6c3d633		7d7d20df0a9cbd0facb10b9f20f97216ae6f478f
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-6c42f5b		3641480ca14a9048a62beafd3574b0b97ff80331
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-775c4c8		f2f46e9a3ff20a775adfa19bedc851d0c1a62f92
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-95ee54d		62fd9b67ccfb69f939c4748dadca886327004956
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-b3e236a		9d6953ae40146d913726a664e2e60b37290317c5
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-bedf652		a25389985cc4d19bd9c109aa20b4afa8cb0c4e07
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-ddf26e7		ef658968642f6250e42742154e5349256c6bc564
+com.armanbilge	sbt-typelevel_2.12_1.0	0.4-f277ca9		c1f607125b6b39c1e253851ed74a9e31939642df
 com.avast	slog4s-api_2.12	0.0.11		073a886ad1613e1c856c3fa46e1d26347e78960e
 com.avast	slog4s-api_2.12	0.1.0		e057828a890d1836cc8c2f3aa8512abd7c5ab159
 com.avast	slog4s-api_2.12	0.2.0		eb884cfa545b29643369fc79fc7ec3c1f79de0c8
@@ -257,6 +269,8 @@ com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.62.0		98b8f0db74edb2cb7
 com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.63.0		3ccd8b33553b6baf0c1c32ec81026c480cd38f48
 com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.64.0		b624577b1a21959085815d051935361b4f30d698
 com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.65.0		2a9fb13db3d24cfaaef56784b89e19487af3b2ee
+com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.66.0		09cd4d55a839b7eac34becd286a1005f18159296
+com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.67.0		e636077c1d37068e4fb91970d3711f14702fc6d7
 com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.7.0		5e140601a1aae2a852a1ece1ce420c3b16a8c316
 com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.7.1		24311ddcacdced757e0ba7a3cd174723ba9194fd
 com.google.api.grpc	proto-google-cloud-asset-v1p7beta1	3.8.0		f772c57428f1217cb011463ff68858440d69917e
@@ -717,6 +731,7 @@ dev.zio	zio-aws-datasync_2.12	7.31.27.1		93b6bad05518f574d4274bdfd2e8787077bca4b
 dev.zio	zio-aws-datasync_2.12	7.31.28.1		749a44d0794852f559e6adbefb927f7aa4f67948
 dev.zio	zio-aws-datasync_2.12	7.31.3.1		a860a9af0fab133f7df43df6da35108b0f837373
 dev.zio	zio-aws-datasync_2.12	7.31.30.1		bba8c7396d1df0eec007c7094323880c2839cc58
+dev.zio	zio-aws-datasync_2.12	7.31.30.2		4aea4514b3dfb5040da4798746108c7167107420
 dev.zio	zio-aws-datasync_2.12	7.31.4.1		5c5f588b04fd18968bb0e574456d1997643d4ea9
 dev.zio	zio-aws-datasync_2.12	7.31.6.1		8b112c8851c6e7ea24e58defa47c036c0ddc6c3e
 dev.zio	zio-aws-datasync_2.12	7.31.6.2		10d22c7ee977f1b176b1ee0c9c38cd2fd7292cf1
@@ -813,6 +828,7 @@ io.github.suppierk	spring-boot-multilevel-cache-starter	3.4.1.0		b1f7d68111d5a67
 io.github.suppierk	spring-boot-multilevel-cache-starter	3.4.1.1		d83bde227eb1875aa9a271c3522f5a47c92f65d1
 io.github.suppierk	spring-boot-multilevel-cache-starter	3.4.2.0		6863711e45453516bd0dee95b9d459f19d3949ca
 io.github.suppierk	spring-boot-multilevel-cache-starter	3.4.3.0		7c5bc4cb18f1f3c087ff92308c53f1554dded830
+io.github.suppierk	spring-boot-multilevel-cache-starter	3.4.5.0		fd7e9d8d690bf7f4b328eac317b2e57663a395b9
 io.naviar	vps-sdk	0.7.0		N/A
 io.naviar	vps-sdk	0.7.1		N/A
 io.openharmony.tpc.thirdlib	ButtonProgressBar	1.0.0		N/A
@@ -1567,6 +1583,7 @@ pl.newicom.dddd	akka-ddd-core_2.12	1.7.6		2338cc730a03a3c5ce5d7dff0d151053777de5
 pl.newicom.dddd	akka-ddd-core_2.12	1.7.8		0382bb386bafc56fe92f738b345800df7e5002b5
 ru.i-novus.config	config-backend	1.10.1		3fd42bd7c4fb88a84a29ed1d5f8f4f152e71f821
 ru.i-novus.config	config-backend	1.10.2		5f00c677b9f156327099f57c7958daa6872ae5bf
+ru.i-novus.config	config-backend	1.10.3		4443df1fbe6c800294166a18d74511d1596c4d4d
 ru.i-novus.config	config-backend	2.0.0		1944bee8f89cfd203215010d8407a3ad5062faf2
 site.sorghum.anno	anno-admin-plugins	1.2.0		N/A
 site.sorghum.anno	anno-admin-plugins	1.2.1		N/A

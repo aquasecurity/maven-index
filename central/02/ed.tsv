@@ -195,6 +195,7 @@ com.github.nondeterministic	roshttp_2.13	3.0.0		c64160e87599bd1ad0697d19a30ddc7f
 com.github.vertical-blank	scala-sql-formatter_2.11	1.0.0		6763bac64bcc7d3490bfeafad0da8e6765fa979c
 com.github.vertical-blank	scala-sql-formatter_2.11	1.0.1		4e16063c8ecdb9ea4c6ae9023fa0bfe59b28a676
 com.github.zhixiangyuan	boostpoi	0.0.1		bb924bca33004463d772c2bbdcb9dca1801c7dff
+com.mantledillusion.metrics	trail-metrics-support-spring6-boot-jms	2.3.0		80e08ad7b1d8863591f1643f42d9bab26328fb46
 com.redhat.lightblue.mongo	lightblue-mongo-common	1.3.0		4a78b89e18441f4dcaa3eed3d81d94e80d7f8512
 com.redhat.lightblue.mongo	lightblue-mongo-common	1.4.0		ba50fea8eb141c054de852a57ce12d7ecbe5b704
 com.redhat.lightblue.mongo	lightblue-mongo-common	1.5.0		3514c2dfaa926f3a36a9d2060d7b9172425ed6f3
@@ -353,10 +354,13 @@ io.enoa	enoa-db-beetlsql	1.7.0-beta		774af0e15a5b973706fd09ca8686b3731214b42d
 io.enoa	enoa-db-beetlsql	1.7.2-rc		965253962d5e0cce009329980ec1186b46929c33
 io.featurehub.composites	composite-common	1.1		1eb77fc28598fc5880dffd8e83ddd3dd04a50f5e
 io.getlime.core	annotations	1.10.0		2bb338ffbe6c7d68e034de4daf088b9e48f5e2f7
+io.getlime.core	annotations	1.10.1		5043f262d535afca283f146b5c1cd11c36f7375d
 io.getlime.core	annotations	1.11.0		dcb0c82d8c33d09c6c61c009c3f1034f8e0f4d72
+io.getlime.core	annotations	1.11.1		f9f8bcd6769490a728d293f9f6bd06c902c38c86
 io.getlime.core	annotations	1.7.0		60aa20a69af194c5c9f5eb8300f14d4fb06bc13c
 io.getlime.core	annotations	1.8.0		54ff519f305b77ab4e86f7bfc5781ec3f1be6d22
 io.getlime.core	annotations	1.9.0		bc5e3931bd8e04569b59651ff17dc22a0b31d419
+io.getlime.core	annotations	1.9.1		9fe4d057d0b6cf9baaf6a0075776d33bef423d3c
 io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	1.2.0		c2ccbbb44645a8ea437141e9b8c8d6870286fa66
 io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	1.2.1		440781ed3ad46c3f7a2e2b1d7b6bdfa86750ebde
 io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	1.3.0		8c672196467a42e29d5d0791488ee4714e3f72db
@@ -473,6 +477,7 @@ io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	4.1.6		9cde71dfd
 io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	4.1.7		348349b594731e161295cd6f56c268adb96525b1
 io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	4.2.0		d7c93f2a87a748bae8d1558a1d8f1b2a739367c4
 io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	4.2.1		350a96dc6a1d0998f9d11499096468cb13442297
+io.helidon.integrations.cdi	helidon-integrations-cdi-datasource	4.2.2		0177bbf9dfdb5ccf50453bea07c70f6fcc3da590
 io.ktor	ktor-client-core-macosarm64	1.6.5		9594f9f6f8e69a28be153a4bace04d0ce77f007f
 io.ktor	ktor-client-core-macosarm64	1.6.5	metadata	acf0afd80e91b66e2911325c3c89362d9d362d45
 io.ktor	ktor-client-core-macosarm64	1.6.6		1e870c0a8e1cc5704722b6b98a390cf61286f287
@@ -561,6 +566,8 @@ io.ktor	ktor-client-core-macosarm64	3.1.1		d43bba6b918d3e6a06725f3cc58858edd7f03
 io.ktor	ktor-client-core-macosarm64	3.1.1	metadata	ef749bb76e9c51e440c0218853b177cec397dd77
 io.ktor	ktor-client-core-macosarm64	3.1.2		fbf1172c6cad5b8616ce12557baab4c70b620e32
 io.ktor	ktor-client-core-macosarm64	3.1.2	metadata	23b1c100245c2f3262613506fd819b61975ceb50
+io.ktor	ktor-client-core-macosarm64	3.1.3		1f6de6f1afa234ec5c37c59c2b167f8740697a13
+io.ktor	ktor-client-core-macosarm64	3.1.3	metadata	b092f54e7ed11067861c85cb7fd73496bc51c0d9
 io.ktor	ktor-server-jetty-test-http2-jakarta-jvm	2.3.0		37fcb812be8ea00f18000cf08c28c2a5a80a0910
 io.ktor	ktor-server-jetty-test-http2-jakarta-jvm	2.3.1		e301342f1d5d1fdda5e71139ae7cf8400ba620be
 io.ktor	ktor-server-jetty-test-http2-jakarta-jvm	2.3.10		06ce363edce5bdc266abaf5cf7bc716a76d41419
@@ -649,6 +656,7 @@ io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.28		ba293babac48276062e
 io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.29		6dc974a805ebe7fc366e7dec2e455b71efc23cb6
 io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.3		f76d8240a3ca9bbbbb9e855a47f23e39d10e2b87
 io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.30		3be13ca9b3527dcad454c08b2fd73db20a62b09b
+io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.31		3983504ea7f806222bd840183ebae72fe8329865
 io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.4		6e7fcd8ef04d76221e70dcdd72b9dd066274d866
 io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.5		305f65c82aad37f75254168fb44a953921e46f35
 io.liftwizard	liftwizard-reladomo-operation-compiler	2.1.6		3a302330748d77ebc45370ead2165f86157727bf
@@ -819,6 +827,7 @@ org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-jvm	0.5.1		b85ab7a4bcc
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-jvm	0.6.0		ba7eab8150b65aa8d8c647e1bbeb1fc30a095988
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-jvm	0.6.1		9d9a81195ce05b564fc1f444a355c8575ed078c2
 org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-jvm	0.6.2		901b0088cc3b0326d68781b5510325197daef740
+org.jetbrains.kotlinx	kotlinx-rpc-krpc-serialization-core-jvm	0.7.0		074e19339c7a4fff4c20bce0fd0d8ab0f3fa7b17
 org.kotlincrypto.hash	sha3-tvosarm64	0.2.2		N/A
 org.kotlincrypto.hash	sha3-tvosarm64	0.2.2	metadata	0dcdbe3266859d7f081084b1f1295ff9a8d71456
 org.kotlincrypto.hash	sha3-tvosarm64	0.2.3		N/A
@@ -907,6 +916,7 @@ org.scalameta	scalafmt-macros_2.12	3.9.2		b1de4510eaddf014c72974075fd04a31939222
 org.scalameta	scalafmt-macros_2.12	3.9.3		16e3aaaf18037c432ed7322d139e5f1326c1d9dc
 org.scalameta	scalafmt-macros_2.12	3.9.4		21ca24c1263fe9c2858e57abb638a1203957ffe5
 org.scalameta	scalafmt-macros_2.12	3.9.5		2359f0e4c8d389c25c55401d30dcb4849a6a3bd6
+org.scalameta	scalafmt-macros_2.12	3.9.6		3c17bf416037945ba805d339c9624e0c45e99567
 org.springframework	framework-api	6.1.0		N/A
 org.springframework	framework-api	6.1.1		N/A
 org.springframework	framework-api	6.1.10		N/A

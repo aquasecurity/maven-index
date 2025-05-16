@@ -7,6 +7,7 @@ cloud.piranha.extension	piranha-extension-declared	25.1.0		b2d10229f17f7d8586594
 cloud.piranha.extension	piranha-extension-declared	25.2.0		1895b42b7fec45aa2dde6a7cfeb8e7ae210a29cd
 cloud.piranha.extension	piranha-extension-declared	25.3.0		8d7a3dac2f24229127ac2a3e3f8ca750beda8ac5
 cloud.piranha.extension	piranha-extension-declared	25.4.0		e201d58e0dcdd414bdfd0843b8f1338482df61ca
+cloud.piranha.extension	piranha-extension-declared	25.5.0		342234c670bd25ea87c6f434d53163530f838c76
 com.eworkcloud	ework-cloud-starter-disconf	1.0.0		05ed1ee5cf0daa8633a6325e4b97d45c9525075c
 com.eworkcloud	ework-cloud-starter-disconf	1.0.1		a413053578be163c1ee966dbb5925688af5fa2fa
 com.eworkcloud	ework-cloud-starter-disconf	1.0.2		5fe6920507eba404177d24f80f6331eeb16980aa
@@ -400,6 +401,7 @@ io.exoquery	terpal-sql-jdbc-jvm	2.0.0.PL-2.0.0		18e522ee7bef98f4ad37a9ec4f75ffb7
 io.exoquery	terpal-sql-jdbc-jvm	2.0.0.PL-3.0.0		2c9ee78365bf5f77fab564ef17890d78cf57a6ba
 io.exoquery	terpal-sql-jdbc-jvm	2.0.0.PL-3.1.0		2c9ee78365bf5f77fab564ef17890d78cf57a6ba
 io.exoquery	terpal-sql-jdbc-jvm	2.0.0.PL-3.2.0		e0afb343a95b49b78c4cd65fdc8c0e2b417be2f8
+io.exoquery	terpal-sql-jdbc-jvm	2.0.0.PL-3.2.1		e0afb343a95b49b78c4cd65fdc8c0e2b417be2f8
 io.gitee.litong	socket-business-websocket	1.0.4		49b132bab8c14f80133fa907e50ba4984d110881
 io.gitee.litong	socket-business-websocket	1.0.5		ae2a7b21b007a9ef12a6f777322c5d5111eec768
 io.gitee.litong	socket-business-websocket	1.0.6		160af2cffed13ea26986a83f3573679755e00050
@@ -482,6 +484,7 @@ io.ktor	ktor-serialization-kotlinx-androidnativearm32	3.0.3		5b1b866d155c5bb4e16
 io.ktor	ktor-serialization-kotlinx-androidnativearm32	3.1.0		c8666aa89a12755e26ce632038d9c1eaa56582d8
 io.ktor	ktor-serialization-kotlinx-androidnativearm32	3.1.1		a6f73a701c686f4f0b3deb741386afd457f1c987
 io.ktor	ktor-serialization-kotlinx-androidnativearm32	3.1.2		172e44830bfeb3f400ad7e966c8eaff6a24e4c3b
+io.ktor	ktor-serialization-kotlinx-androidnativearm32	3.1.3		06411b97e7eebc7e475a912a0b2c7849b4a58883
 io.netty	netty-buffer	4.0.0.Alpha1		789d520486202cdcb042c958b5f66227e909f454
 io.netty	netty-buffer	4.0.0.Alpha2		def867280c286b618b8b1c6e77bebc764d552205
 io.netty	netty-buffer	4.0.0.Alpha3		c817f2b78c3b407274369d79b6ecf62cf50d6ca9
@@ -708,6 +711,7 @@ io.netty	netty-buffer	4.2.0.RC1		f1f008759ace7c891a53f5ac660be7d459946a8b
 io.netty	netty-buffer	4.2.0.RC2		ef6f3359dd97b1b184302c107e061bf5c4fa321f
 io.netty	netty-buffer	4.2.0.RC3		2a172a0c255d7c1d86c27838e5850f6883525d94
 io.netty	netty-buffer	4.2.0.RC4		80e87018612a461335d696c5b32007675049206e
+io.netty	netty-buffer	4.2.1.Final		095e48c931eb31614c06adf775a2118f4297fd97
 io.netty	netty-buffer	5.0.0.Alpha1		27e91dd2b5d13791b056fb1ce489476700beff8c
 io.netty	netty-buffer	5.0.0.Alpha2		3468ac1b15b4037afaac36933c4f8513b013514f
 io.quarkiverse.opensearch	quarkus-opensearch-client-common	1.10.0		14dbd11fb35489d8b1ff0aa67c632b2351cbdb9b
@@ -1580,6 +1584,8 @@ org.xwiki.commons	xwiki-commons-velocity	16.10.3		dec6313c60c77741f0b1ba77dc44e3
 org.xwiki.commons	xwiki-commons-velocity	16.10.4		a2b0f32e742070d141c1418040fd65ba61bf1199
 org.xwiki.commons	xwiki-commons-velocity	16.10.5		d5e4e15fe5ff05db1da422fcd6cda3eb7942efb9
 org.xwiki.commons	xwiki-commons-velocity	16.10.6		892e9976d74debb204a2ef0e718e6539673ad15c
+org.xwiki.commons	xwiki-commons-velocity	16.10.7		5e112fe01f6d8a358e57dee01b22acc757580fb6
+org.xwiki.commons	xwiki-commons-velocity	16.10.8		4f0563089cb387a2238476da0859d77300130056
 org.xwiki.commons	xwiki-commons-velocity	16.2.0		e047d79ce493f611fd37f3dfe26eea96cb072b95
 org.xwiki.commons	xwiki-commons-velocity	16.2.0-rc-1		79809fe4b9a05c7cf342f0c7bad1ba44fba43b38
 org.xwiki.commons	xwiki-commons-velocity	16.3.0		0cdb9ee2d67e0f00e6f421295f2897eef0ec525b
@@ -1594,6 +1600,7 @@ org.xwiki.commons	xwiki-commons-velocity	16.4.4		02f2111d82cf81328bae0eb929e24aa
 org.xwiki.commons	xwiki-commons-velocity	16.4.5		c14bb99a9b470c1ddc59b5c11b70bc72ce67fc5e
 org.xwiki.commons	xwiki-commons-velocity	16.4.6		81b15a04b5749f2d4a167601775eafeed5b20b0a
 org.xwiki.commons	xwiki-commons-velocity	16.4.7		85d2badc227c92a4c781a76459f6a66a296ede36
+org.xwiki.commons	xwiki-commons-velocity	16.4.8		fc54dd8ae5a091d885eae2b01dfb9bf743628b7d
 org.xwiki.commons	xwiki-commons-velocity	16.5.0		3abc8b8fe613085bf022a0c2cb5716336074a9b2
 org.xwiki.commons	xwiki-commons-velocity	16.5.0-rc-1		06a7183f9c75a0384fa45b67fbca8bdacb06fc59
 org.xwiki.commons	xwiki-commons-velocity	16.6.0		6fd53c81d2baaaedb250f5a73fc293f28a6d55cb

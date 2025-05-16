@@ -347,6 +347,8 @@ com.google.cloud	google-cloud-alloydb	0.48.0		020ba5151a98411278eb439b274d6502d2
 com.google.cloud	google-cloud-alloydb	0.49.0		1f2764b79a77befcec1fc46a5850105e95cc4761
 com.google.cloud	google-cloud-alloydb	0.5.0		1aad3e1fa0103ae9de212dc0d7984bf75ce0dff6
 com.google.cloud	google-cloud-alloydb	0.50.0		2f582757926a36c51cee62745a44ab8991cca113
+com.google.cloud	google-cloud-alloydb	0.51.0		4677871b36bbd155e6bb9dd532c05a21c444f6be
+com.google.cloud	google-cloud-alloydb	0.52.0		b36507bdec6fc725903a9aeb9efe24e9a405f663
 com.google.cloud	google-cloud-alloydb	0.6.0		b384d45563e37079931d2a0a5ccd64748a74edf1
 com.google.cloud	google-cloud-alloydb	0.7.0		833841a2c567a32d173cb88016bd861358a5b70c
 com.google.cloud	google-cloud-alloydb	0.8.0		ee41fb5c9424d715d94088aa504fc2b240594a36
@@ -805,6 +807,10 @@ io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.4.5		8ac56105fcbf64
 io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.4.7		a8e0679685f26a73becead04e46763ef5bc144d7
 io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.4.8		2b84e7cabd971e042eed684f0700284dc71437f5
 io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.4.9		19888b1afc793ce5ff179cd65b1182dc12d8cbfb
+io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.5.10-jdk8		63e6c3f5885ee2c5b9df761d2ff1a4b4a177882e
+io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.5.6-jdk17		b29e1eaf6eed5cf6fc6cc65b05dbc49e696968d8
+io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.5.6-jdk8		ddf8ee8987aead638ec8bc6f6c776f3aae25376d
+io.gitee.javakiller	wxz-common-web-landlord-server-demo	2025.5.7-jdk8		436186c80d58ad178ae1daccc4ad7116bd5366f2
 io.github.leheyue	magic-api	2.1.1		5c844edef8a961b181edd985f72c8043106cc2c2
 io.github.leheyue	magic-api	2.1.1.1		dd13a64f2d40ee8e68f226d9935162761a4844c3
 io.github.leheyue	magic-api	2.1.1.2		6434cb47c01b5f58a625fe6b133bef6140b9a628
@@ -1316,10 +1322,17 @@ org.finos.legend.engine	legend-engine-xt-json-http-api	4.79.0		844b91f45457a25d5
 org.finos.legend.engine	legend-engine-xt-json-http-api	4.80.0		f06c57f31f67f20e59de1c1fb8b515f956c63355
 org.finos.legend.engine	legend-engine-xt-json-http-api	4.81.0		4005d684d333ea16143454d67f190a7daf019981
 org.finos.legend.engine	legend-engine-xt-json-http-api	4.82.0		e76e3e890c574278111a22d90f01a2e51e038e00
+org.finos.legend.engine	legend-engine-xt-json-http-api	4.82.1		dbdfead835a83552662e4d10f895a3076a51ad88
 org.finos.legend.engine	legend-engine-xt-json-http-api	4.83.0		b416c8eb32c7dacaca4c934ae9be0a201e3c6d29
 org.finos.legend.engine	legend-engine-xt-json-http-api	4.83.1		d8505fd86668d2c32d32a4c23a4b5831a529e263
 org.finos.legend.engine	legend-engine-xt-json-http-api	4.83.2		709f129e598fcc7ba1d2cd17a5193358ad4306ca
 org.finos.legend.engine	legend-engine-xt-json-http-api	4.83.3		90af06eafbdd5a3e77a26828f0c2b49feab97a0d
+org.finos.legend.engine	legend-engine-xt-json-http-api	4.84.0		059bac845250a49caabd902dd9c25e6d810590cc
+org.finos.legend.engine	legend-engine-xt-json-http-api	4.84.1		02bdb5b79b127a2deeb7234fbd907bd5692031a1
+org.finos.legend.engine	legend-engine-xt-json-http-api	4.85.0		cac1794b3268a050379ad1d20295ba6f92de2cc1
+org.finos.legend.engine	legend-engine-xt-json-http-api	4.85.1		e16c098472e46f7328137578691cb1dd12306bac
+org.finos.legend.engine	legend-engine-xt-json-http-api	4.85.2		d9c13faed4e79b056fba26baab5842287736cba6
+org.finos.legend.engine	legend-engine-xt-json-http-api	4.85.3		5bd9aef2f0ab9f6c64c73016c0448e21541cc31d
 org.hibernate.validator	hibernate-validator-integrationtest-wildfly	6.2.1.Final		1db0e6a4c5e91175b6d127ab64c54077db537b0e
 org.hibernate.validator	hibernate-validator-integrationtest-wildfly	6.2.2.Final		50da872cb295d19d8d0c9572e2b430406ddaea67
 org.hibernate.validator	hibernate-validator-integrationtest-wildfly	6.2.3.Final		24df892a530f08a5e7f8efa8b610f85cc0293d6b
@@ -1468,3 +1481,7 @@ tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.0.8		N/A
 tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.0.8	metadata	3c320825b19bb006840fb6fd3feb8b6d8623ae0c
 tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.0.9		N/A
 tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.0.9	metadata	f350024308ce95bf23964a19cd7dee9ea61c4ee7
+tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.1.0	metadata	3c5984469054d23da61a0ce1474c1fb3a8a439d4
+tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.1.1	metadata	1dd4252ef44747b8ff4d4dafad617cadad7b1024
+tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.1.11	metadata	e72a54dd7faafca6508783eea8640f963f51135f
+tz.co.asoft	koncurrent-executors-core-tvossimulatorarm64	3.1.12	metadata	efb112a104ae50114e7ba9453a844f8dab39f3a0

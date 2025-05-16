@@ -97,6 +97,8 @@ com.google.shopping	google-shopping-merchant-accounts	0.14.0		874d4da5c173f03565
 com.google.shopping	google-shopping-merchant-accounts	0.15.0		dcbb26568bb03442efe95158ad49b0c785a3c89f
 com.google.shopping	google-shopping-merchant-accounts	0.16.0		edd9ec013e310a6f1742e48a29f79eb56b73c570
 com.google.shopping	google-shopping-merchant-accounts	0.17.0		cc6a94ed1692eef1d1e9053e80da8cc53f19d650
+com.google.shopping	google-shopping-merchant-accounts	0.18.0		468486544e247c1317e07ec09876a0167a7baebb
+com.google.shopping	google-shopping-merchant-accounts	0.19.0		ad2152fc9c98dc94f051fe3aa39c47e6a62d208c
 com.google.shopping	google-shopping-merchant-accounts	0.2.0		14126f84c3ad10be52826e504b48da96f6502fd5
 com.google.shopping	google-shopping-merchant-accounts	0.3.0		c2958fc8d6d7df2c112755bfc1deb4c2d55aedd8
 com.google.shopping	google-shopping-merchant-accounts	0.4.0		1994ef3c91d3cac1786485cff60e786e50d59d54
@@ -345,6 +347,7 @@ io.fabric8	openshift-model-tuned	7.0.0		4d4a9529feefd397802ded6dce9d2ccf54088516
 io.fabric8	openshift-model-tuned	7.0.1		4418455e8075c214a857e0c1b7c5816c942f761a
 io.fabric8	openshift-model-tuned	7.1.0		f5ba0d00043ab6ceb0f2c9f4458d736b97056154
 io.fabric8	openshift-model-tuned	7.2.0		aaa2e8acb5ba609b4c9cde4756ae24203adfe913
+io.fabric8	openshift-model-tuned	7.3.0		a0ce654acba8f0ffe3b4b146a246470a93d3cab4
 io.fabric8.platform.apps	ingress-nginx	4.0.100		7d7882db673fa165498e0fc212875cc2afb68f82
 io.fabric8.platform.apps	ingress-nginx	4.0.101		23838d57fa9431186c87173e5b7ee9da763cf851
 io.fabric8.platform.apps	ingress-nginx	4.0.102		eb3b6ca955dfb65dc9872cf92f285c379073fcbd
@@ -624,6 +627,7 @@ io.kotest	kotest-assertions-json-tvosx64	6.0.0.M2		N/A
 io.kotest	kotest-assertions-json-tvosx64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-assertions-json-tvosx64	6.0.0.M3		N/A
 io.kotest	kotest-assertions-json-tvosx64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-assertions-json-tvosx64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.ktor	ktor-websockets-androidnativex64	3.0.0		dacde2f68c95295dac1b0a870735a6804eb7a84b
 io.ktor	ktor-websockets-androidnativex64	3.0.1		fd9be7e9b074fd987877a90b7262c02789deec26
 io.ktor	ktor-websockets-androidnativex64	3.0.2		5ea7352abbaca748ddaa9c076353b93d162adc00
@@ -631,6 +635,7 @@ io.ktor	ktor-websockets-androidnativex64	3.0.3		0303d335ae93225c697628d39c9ee413
 io.ktor	ktor-websockets-androidnativex64	3.1.0		9c7456da174d38dc8cfa227d13bfbbe79543366f
 io.ktor	ktor-websockets-androidnativex64	3.1.1		2edd153fe1d2d9c22912f420e6adb8d139d7ed7e
 io.ktor	ktor-websockets-androidnativex64	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-websockets-androidnativex64	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 io.mantisrx	mql-core	3.1.0		ecff4e6489e15d1cc01868167d3a2a6da2e3d192
 io.mantisrx	mql-core	3.1.1		e6fd83c06fc08277b0da2d7424f799d28faa8233
 io.mantisrx	mql-core	3.1.2		9f7690e0dc6cd0345ea135dcf9ef0802401d971a
@@ -662,6 +667,7 @@ io.mokamint	io-mokamint-node-local	0.0.1		524629b6c0e9e323c9264158adf77f6a180c20
 io.mokamint	io-mokamint-node-local	1.0.0		930e702056920a7091fecd4b27a0dbbb5cc0eec2
 io.mokamint	io-mokamint-node-local	1.1.0		ed1d96fda4a60f38cf0ece96a96ea680facbd445
 io.mokamint	io-mokamint-node-local	1.2.0		f49c979f12e8748d2ad30fbf6d07575d87c4571d
+io.mokamint	io-mokamint-node-local	1.2.1		ead4929cbf7390621bd322b50c8f3ac0d2e03b75
 io.rbricks	itemized_2.11	0.1.0		1d8eeb1a0a41250e721e6c436359116e359f1000
 io.rbricks	itemized_2.11	0.2.0		9ae395c1f0c974f8649fbf4247d393e73f7a9f9b
 io.sphere.sdk.jvm	sphere-java-client-apache-async	1.0.0-M13		c822cce1260ede22eaff1a51a6b21dac94ebd5d2
@@ -716,11 +722,19 @@ io.spinnaker.keel	keel-artifact	1.2.1		548bb69f73fdbc8221544ee9721e09a7bc649e79
 io.spinnaker.keel	keel-artifact	1.4.1		d5b55aee0b0bc20f6819ac6d4cc71b72d6e63bf1
 io.spinnaker.keel	keel-artifact	2025.0-0		be32547727b15b194c6dd5028d898cffe8ae7a77
 io.spinnaker.keel	keel-artifact	2025.0-1		6381d6f43c05c77d5727ac3f4ddf835e66413ddf
+io.spinnaker.keel	keel-artifact	2025.0-2		193aca5717c6dc068e11f7b385fa646ca9c74736
+io.spinnaker.keel	keel-artifact	2025.0-3		cb447516a5769d11076c90fcfe84d1b073ec43da
+io.spinnaker.keel	keel-artifact	2025.0-4		8b95880e4c757d0e36a868a18a9bed477a0e3457
 io.spinnaker.keel	keel-artifact	2025.0.0		20e4b6bd21bd2016844c484ad7e1ad59d603c826
+io.spinnaker.keel	keel-artifact	2025.0.1		5a190d6d4cf0b95c5b035d8dfd7be276def38e2c
+io.spinnaker.keel	keel-artifact	main-10		5a814af5db2d48dd01045d744fb1ce8ade201464
+io.spinnaker.keel	keel-artifact	main-11		11d7e9ef332e4e4746d031a9683e4a6d7535371a
+io.spinnaker.keel	keel-artifact	main-12		b989ad8a7ee13c326fb15d7a911be76d83db1440
 io.spinnaker.keel	keel-artifact	main-5		aefad083110a5668b4d3f904aa7ec12900e745e3
 io.spinnaker.keel	keel-artifact	main-6		aa67eb47ce9d6899691792247037418cd88f34cd
 io.spinnaker.keel	keel-artifact	main-7		949d13ba77c0a4e1f671163dd8dd9e75a974e909
 io.spinnaker.keel	keel-artifact	main-8		59ecc2f370bd81987e7b8e2c3c531526d1777256
+io.spinnaker.keel	keel-artifact	main-9		870882bb0e61cd8e3549c39d093bfe68781193e5
 io.thorntail	teiid-salesforce-41	2.0.0.Final		b2f20ec49ab61722499a88bcd54390c19db52e99
 io.thorntail	teiid-salesforce-41	2.1.0.Final		3adb4021ebfded1943d8b480d2a61804835b1085
 io.thorntail	teiid-salesforce-41	2.2.0.Final		ac31a9f163c4366e5d45350ea751e62bbd09bf07
@@ -1601,6 +1615,7 @@ org.owasp.antisamy	antisamy	1.7.4		86267d6fd01416b51a8137df36c106233796ab07
 org.owasp.antisamy	antisamy	1.7.5		5fc1f19ca28f11e1e561e02d5f6e1a3709cd3e08
 org.owasp.antisamy	antisamy	1.7.6		a7c2164fa2bf1cf7f49c4fbeaae73f3bbca00325
 org.owasp.antisamy	antisamy	1.7.7		12a1b24f55171b334e1980dd8c6a40a33db0c400
+org.owasp.antisamy	antisamy	1.7.8		ceac842c56731ee331763360b1cfe1368eaaa6a3
 org.scala-js	scalajs-junit-test-plugin_2.13.13	1.11.0		85d19f2d53e4557b64501e0d5b0b8723300c83e2
 org.scala-js	scalajs-junit-test-plugin_2.13.13	1.12.0		9d288dbf93241f7ffe92e2c357d2445ae92a1547
 org.scala-js	scalajs-junit-test-plugin_2.13.13	1.13.0		dbdc75fdc40325e949bb01e98b65e6d22d464b72
@@ -1896,6 +1911,8 @@ org.xwiki.rendering	xwiki-rendering-integration-tests	16.10.3		635d93af662337c1a
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.10.4		ff30954a8d35162e760ca957bb252175ad5ca34f
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.10.5		d5bbe67af270687a4deb2fda486939c7d88ed63a
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.10.6		7e4d3e0d2f34769bd04e32d4218a2dc422714a3c
+org.xwiki.rendering	xwiki-rendering-integration-tests	16.10.7		875423654a85cc3717b0dc405128d7634f52e56f
+org.xwiki.rendering	xwiki-rendering-integration-tests	16.10.8		62c0f47bbbbcc50eeaa649ae01e5a99da7ef2c65
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.2.0		9049cbe898c2a3b9f2c3ae1953fed5ff35c80332
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.2.0-rc-1		a3ae78b3091cc4004c1d5f6825e842ca83aa5d30
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.3.0		c729d5b1423b9717216fb5265a4dad80a0fd1eff
@@ -1910,6 +1927,7 @@ org.xwiki.rendering	xwiki-rendering-integration-tests	16.4.4		7aa9d2a52e6b6d2e62
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.4.5		c009051d8fa356b801b563ef62bc58aeb953b6b3
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.4.6		44752ec3270eb427cced99cd43515d8a01cb99cb
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.4.7		5206c069bc7e07a52daccd2f2f42951f955f23b6
+org.xwiki.rendering	xwiki-rendering-integration-tests	16.4.8		4cb5c96b8b7119fa5dd3a48083ed99f5e2867b74
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.5.0		c459258dc8f3828b556df2417c377f5aae06816a
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.5.0-rc-1		4fd3d768a21ad233d2262727ae1211880e664f89
 org.xwiki.rendering	xwiki-rendering-integration-tests	16.6.0		58f5cbe0625c7b3b0f5832f7b3acf8e34693336b

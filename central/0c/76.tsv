@@ -157,6 +157,7 @@ com.buschmais.jqassistant.cli	test	2.6.0-M1		ab5260794536484bceafb6b41989e5a4e1e
 com.buschmais.jqassistant.cli	test	2.6.0-M2		c3c179a7f1dbdf64aa1d2ae40aaeaea0de078047
 com.buschmais.jqassistant.cli	test	2.6.0-M3		5435ae6eef16f04d12847ba4ad966cac06658fa8
 com.buschmais.jqassistant.cli	test	2.6.0-RC1		4fec27db27893c352fde3168cabed337ee87872a
+com.buschmais.jqassistant.cli	test	2.7.0		60525a9a3df6878367896b5aa7c747ef9c210eb1
 com.buschmais.jqassistant.cli	test	2.7.0-M1		310395c8e37e3a4183067051bbe8d6a14617ecb8
 com.buschmais.jqassistant.cli	test	2.7.0-RC1		f2da66661c96f9d8bc9e5157b5c1686009e0787f
 com.documents4j	documents4j-transformer	0.2		27ba08022c1596312ec73788f4e5339eac1c178f
@@ -1107,6 +1108,19 @@ org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.41.1		70e
 org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.42.0		be9030eba14545481db9d82939ebeb51045c7b50
 org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.43.0		8868619e77bd8ac3cf8720d1229cf92e424fc8e4
 org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.44.0		15a7b499e3b5d15e250bdf96a837cfafb4db0da1
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.0		30f178db1db89a70c09085c80e7934a6c03e715e
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.1		831b3db8ec490e455ee05e3498af8e679c24e33f
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.10		595c5c13c6e9625cd296c26dc6d56af2e6237da5
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.11		faae0b0a53098a2c8214e4e1882675f35ec47016
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.12		8396a290af77c956ae552b0631f2ba193f957920
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.13		8de4e45c1e08816b9f7ca2f40b9849ac4050b57c
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.3		e0962a93eeb6d93e1833966579977a68139e8000
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.4		621993a9c1c76bc27e6c2ff961590698005b7218
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.5		bea904ef7fc8634511622cdd2e7dca95243de62a
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.6		89b4f2afd5f13d0491639eaa539b89b70f9f6a8e
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.7		a7be2708e896ae98fb04b630131b7ad11283fa8d
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.8		c9669fc0aaa56f638a94cc20193f1657d0884c5b
+org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.45.9		b8480ac2b414b4771aebe624ec751bb086018910
 org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.5.0		68f199bbfb0961e6740ca32d099b4f15d6537e50
 org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.6.0		9034618eb01f83208e46259e18ae5d4f2052528b
 org.eclipse.dirigible	dirigible-components-ide-ui-monaco-extensions	11.6.1		be51ee3cf028f61d33566cb04e5d0613134516af
@@ -1289,10 +1303,17 @@ org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.79.0	
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.80.0		9aa28125705e2b11b5f1e5a84513298a4dd5d45e
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.81.0		8a121a68bf5b3641b132b9540edbf5e528ea6902
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.82.0		c6d3593ae27bc9b2bec7d196e0433097573d61b9
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.82.1		977479a8ae5ec2c400f8f776c6d3dcd7b7594d30
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.83.0		1918330e5607da02540ebb20dba48fba19fae73e
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.83.1		452d79c7c18c1837e754729ef3a02dcba63eb5b6
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.83.2		f98366cdb26c67ee3b83cc662c444706c6ad3448
 org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.83.3		85df087da306a4bb902fe15edda20d1ebe4bb1fb
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.84.0		60a3861193a4da600bd7b0b557916e37af8eaec0
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.84.1		949fc6a8c61b1b1aa7242e73552d3905d2be611c
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.85.0		f8a15ec206ebc8084aa77db902186e6a4cd5ea42
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.85.1		f5c26cb73c3e1b37caac19f3e45f8ba4137bff38
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.85.2		87e16b6355dc62492abafe75a65644add921ad32
+org.finos.legend.engine	legend-engine-xt-relationalStore-memsql-protocol	4.85.3		754182972f3152be8ebf6697a408c670c64ae798
 org.jetbrains.kotlinx	kotlinx-io-core-watchosarm64	0.2.0		N/A
 org.jetbrains.kotlinx	kotlinx-io-core-watchosarm64	0.2.0	metadata	37c06f5a0cdcbf0a8005df9f72786ac552e3e77f
 org.jetbrains.kotlinx	kotlinx-io-core-watchosarm64	0.2.0-preview-dev2		N/A
@@ -1382,6 +1403,7 @@ org.jmonkeyengine	jme3-vr	3.8.0-alpha3		808b73aa24730c37e8b6c8f94964392f27c93700
 org.jmonkeyengine	jme3-vr	3.8.0-alpha4		96f892c463c06c8474ccb1a972749c7df320005b
 org.jmonkeyengine	jme3-vr	3.8.0-beta1		631601f782217f2189e6d74001e882454beeb8c2
 org.jmonkeyengine	jme3-vr	3.8.0-stable		2a4deaa57580c9e0024a0dd0fc0fc4b88390807b
+org.jmonkeyengine	jme3-vr	3.8.1-stable		e130da5a3831d77fb04c8754e780c95ebb6079c1
 org.metaeffekt.dita	ae-dita-branding_de	0.25.0		3f2b67ea2db95efb2348d0d2da7914f516aa0427
 org.metaeffekt.dita	ae-dita-branding_de	0.26.0		4f87dfcf65f435cfabfe54415ce1d827f829fbd4
 org.metaeffekt.dita	ae-dita-branding_de	0.27.0		736c6b14d72fcaeaa2ff2a3821f941b70a87469e
@@ -1477,6 +1499,9 @@ tz.co.asoft	krono-api-watchosx64	3.0.8		N/A
 tz.co.asoft	krono-api-watchosx64	3.0.8	metadata	36b5e3c5b2c9c34f9609e59f6936c44cc13eb6ee
 tz.co.asoft	krono-api-watchosx64	3.0.9		N/A
 tz.co.asoft	krono-api-watchosx64	3.0.9	metadata	fd6d3d4ec2c12c11aeb25a1703e5061204ca5647
+tz.co.asoft	krono-api-watchosx64	3.1.1	metadata	1e6b4b43e0217fffcb2a4fc36c01a42ec6c618ab
+tz.co.asoft	krono-api-watchosx64	3.1.11	metadata	0b49387552b49b37e5f33875debbb9079c1c55b1
+tz.co.asoft	krono-api-watchosx64	3.1.12	metadata	4c063c2364577c5f484f15a7bcc26894f5f54a1a
 xdoclet	xdoclet-solarmetric-module	1.2.3		888d3328cc6af0d4e48ba473019e7c3c0d0d2b55
 xdoclet	xdoclet-solarmetric-module	1.2b2		402da260d6c1a8deb339a3defe08c434c34ebae9
 xdoclet	xdoclet-solarmetric-module	1.2b4		5b5e2f9ca79d6160b300cb4ac42ee40f53ab1978

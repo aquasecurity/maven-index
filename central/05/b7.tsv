@@ -121,6 +121,7 @@ com.exonum.binding	exonum-java-binding-parent	0.8.0		N/A
 com.exonum.binding	exonum-java-binding-parent	0.9.0-rc1		N/A
 com.exonum.binding	exonum-java-binding-parent	0.9.0-rc2		N/A
 com.flagstonesoftware	transform-swf	2.1.5		6eedf6bded0865e6e34b413a06e4ba34456f01e7
+com.geeoz	sbt-frontend_2.10_0.13	0.1.0		e73ebda78c1defdb01a981734967e89aefaecb45
 com.github.atais	cassandra-scala_2.11	0.1.0		fa79beb7c03af297ca6c5b6eab6c79aca55492d7
 com.github.batmanwannab	subtract2numbers	0.0.1		7407c1324bc4bb8240ea3e473cc252af5e71e19f
 com.github.batmanwannab	subtract2numbers	0.0.3		e18d81015d3aab42d0cd440a1e742523924b4aea
@@ -1315,6 +1316,7 @@ com.sap.cloud	neo-java-web-maven-plugin	3.225.4		485a264b4c0ef8342ad2a1100772560
 com.sap.cloud	neo-java-web-maven-plugin	3.226.3		869ed795fbe08065dd5383db68a996b36e2481e9
 com.sap.cloud	neo-java-web-maven-plugin	3.227.4		e292a9f7959c344ae5e4e92e11c6549b663450cc
 com.sap.cloud	neo-java-web-maven-plugin	3.228.4		c983d8808b980e166c42d56ef617d444cfd3a925
+com.sap.cloud	neo-java-web-maven-plugin	3.229.0		821c33491a72b0180bd2dad38cf8ef865e442b17
 com.sap.cloud	neo-java-web-maven-plugin	3.23.8.2		b494980e3623a2b151b69840eb3dab1c8c542e7d
 com.sap.cloud	neo-java-web-maven-plugin	3.24.13		26df93316e789c00648899b0af3708ef93a459ae
 com.sap.cloud	neo-java-web-maven-plugin	3.25.12		9cf6ae5e96a87c4b1836f9aaabbddeca85bfca52
@@ -1402,6 +1404,7 @@ com.sap.cloud	neo-java-web-maven-plugin	4.1.9		030ab2be8bfa276fbcb7ab75b11196ec7
 com.sap.cloud	neo-java-web-maven-plugin	4.10.3		800b1651d9d4e1275bc87966b21b9018fb8339a4
 com.sap.cloud	neo-java-web-maven-plugin	4.100.10		9f51f3b664a2e4bf300d8a2558e2139e5599deea
 com.sap.cloud	neo-java-web-maven-plugin	4.101.7		89bace7cf9253a81cc8da72ee97f835cac9b6553
+com.sap.cloud	neo-java-web-maven-plugin	4.102.2		fbbfa5acb1abf14e1a40455cb38f60ec58ec381e
 com.sap.cloud	neo-java-web-maven-plugin	4.11.4		9566b8c9edf98f7a9807dff0899dd073d19a5248
 com.sap.cloud	neo-java-web-maven-plugin	4.12.2		d24ee9972a62e82034ca9a754a8f0831c39a954a
 com.sap.cloud	neo-java-web-maven-plugin	4.13.8		aea5518c4b08055ca3031da7ecf38dd42e56b701
@@ -1509,6 +1512,7 @@ com.sap.cloud	neo-java-web-maven-plugin	5.18.5		9a0688bcaeb2f5c8361253651ad1a18d
 com.sap.cloud	neo-java-web-maven-plugin	5.19.4		215c3b929755b63f5355eec926661d4e2d329bac
 com.sap.cloud	neo-java-web-maven-plugin	5.20.6		a8d4463c8abb64d58b7e0d078fd2457c84783a7a
 com.sap.cloud	neo-java-web-maven-plugin	5.21.4		f48eab22f083883d11c62814bf232b9abaec8696
+com.sap.cloud	neo-java-web-maven-plugin	5.22.0		f0b82dbad5ebe5332a009158b16b93f24e1d3189
 com.sap.cloud	neo-java-web-maven-plugin	5.7.14		5ab6f6b1bfa60f6c4149bf9a488338e8a913292e
 com.sap.cloud	neo-java-web-maven-plugin	5.9.5		46547c8c6b9ace4402fb8412018fe3033271b423
 com.xdev-software	xapi-db-db2	6.0.0		21fcd814056f8095ea3af58b9e0717d4092b097e
@@ -1597,6 +1601,7 @@ io.ktor	ktor-server-cio-androidnativearm32	3.0.3		0303d335ae93225c697628d39c9ee4
 io.ktor	ktor-server-cio-androidnativearm32	3.1.0		09fcdd848f4992fb3e300fc99a86501049499b11
 io.ktor	ktor-server-cio-androidnativearm32	3.1.1		2edd153fe1d2d9c22912f420e6adb8d139d7ed7e
 io.ktor	ktor-server-cio-androidnativearm32	3.1.2		96baa8d8e5bd64f6760e60ff62a99ccc85264647
+io.ktor	ktor-server-cio-androidnativearm32	3.1.3		9a040bc0af6e6f986861d98f7bf1dc6ba9e646dc
 io.quarkus	quarkus-rest-client-oidc-filter	3.10.0		b4a50696c80c718da59c45f03d28017ffe184373
 io.quarkus	quarkus-rest-client-oidc-filter	3.10.0.CR1		3330b3e9acb1aa34b5ea8edfdd7b2e0ef8adc708
 io.quarkus	quarkus-rest-client-oidc-filter	3.10.1		10b55289e58fe43026315ca4465b0373a417be3f
@@ -1629,6 +1634,7 @@ io.quarkus	quarkus-rest-client-oidc-filter	3.15.2		76a1e5b3d3bc24cd619f633367339
 io.quarkus	quarkus-rest-client-oidc-filter	3.15.3		21738bca1cfafd892f68db8cae89cd862f7d2259
 io.quarkus	quarkus-rest-client-oidc-filter	3.15.3.1		58daa5f36a9cbfa10176280d70fd43a90d1e3a16
 io.quarkus	quarkus-rest-client-oidc-filter	3.15.4		38ea7406834c1b950b989561a14b4c419917bdcd
+io.quarkus	quarkus-rest-client-oidc-filter	3.15.5		fade04299214ae18f64efe53b23ef1ffc234f900
 io.quarkus	quarkus-rest-client-oidc-filter	3.16.0		2676eff27980f77105cc2c4d4494d1a30acce858
 io.quarkus	quarkus-rest-client-oidc-filter	3.16.0.CR1		bb8045d02153aa4304688c8d991e1ad04a2da36e
 io.quarkus	quarkus-rest-client-oidc-filter	3.16.1		a470a9d6b2a1ccaf2fe704ec7c11aa138846ca7c
@@ -1659,6 +1665,7 @@ io.quarkus	quarkus-rest-client-oidc-filter	3.19.3		db10bc4a0637a66caa71b8608f045
 io.quarkus	quarkus-rest-client-oidc-filter	3.19.4		5885b2cb5e2e0f6b12d24c802faaa7ab40cfcc79
 io.quarkus	quarkus-rest-client-oidc-filter	3.20.0		5a599fc731465ed234458018c89479c2b996a4b2
 io.quarkus	quarkus-rest-client-oidc-filter	3.20.0.CR1		3c67b94c43ae3df948e2dfff3cd8fff2ea7c9b94
+io.quarkus	quarkus-rest-client-oidc-filter	3.20.1		7922f8a9f0dca626f3c87b4218a10e44970a249d
 io.quarkus	quarkus-rest-client-oidc-filter	3.21.0		67bc4de3078d8c276cc6bee087f8c756748019d2
 io.quarkus	quarkus-rest-client-oidc-filter	3.21.0.CR1		4e9f96f019080dd4f054d6859c74d9b876b287ce
 io.quarkus	quarkus-rest-client-oidc-filter	3.21.1		0d61a8e1e3bc85d89f5bcb4e303a1ec7e8f8c6d7
@@ -1668,6 +1675,9 @@ io.quarkus	quarkus-rest-client-oidc-filter	3.21.4		a1594890c90c89d8ed69ef07fb64e
 io.quarkus	quarkus-rest-client-oidc-filter	3.22.0		a85ff144c07a451286c2a275a668a9dc0d10cddb
 io.quarkus	quarkus-rest-client-oidc-filter	3.22.0.CR1		676612e9adbf2f56e60ddd2fd3fabeaa5e9ba28c
 io.quarkus	quarkus-rest-client-oidc-filter	3.22.1		9766f0f0080e4845e1b122c3dcf2f089b3926399
+io.quarkus	quarkus-rest-client-oidc-filter	3.22.2		d4247c64768efe086b4da9d604de9e0fa8275c09
+io.quarkus	quarkus-rest-client-oidc-filter	3.22.3		c22ca4ce89b36c9238ba5627d5344adfd42fd21d
+io.quarkus	quarkus-rest-client-oidc-filter	3.23.0.CR1		22564a4fce5ab1fada39e9f3e77bd59a4ee9f641
 io.quarkus	quarkus-rest-client-oidc-filter	3.9.0		674315e61641e97f00e84c7d4e8820eab0b48455
 io.quarkus	quarkus-rest-client-oidc-filter	3.9.0.CR1		85a423c4075dc5a1877d0c246f84b1adc30aa44a
 io.quarkus	quarkus-rest-client-oidc-filter	3.9.0.CR2		596177c3a32afa84059a78dd2cb4484be302d92c
@@ -1793,6 +1803,19 @@ org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.41.1		3bcc60
 org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.42.0		9b20d7e34c247106098b5758b251b0c1a2b69130
 org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.43.0		dc90508a2d234c5bde4d76a1c3880585bdd6b6e8
 org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.44.0		fbe03d99c9875569e33775f21949753c7e83df24
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.0		4039fa1a104e2da6af4f91236d60ea98f8dab025
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.1		d1890196c19fcfe9325312340f3e6608c45c7f6f
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.10		b7d4adf27f25d718792424bf2143b5b46053a9d5
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.11		d46426214cfe2b3becd92676161c34f20a8ff1e2
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.12		c66761bb4a0216227c73400b076e6236a75a096d
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.13		1863a15ad26da6c7fcecd96737cfce44f1108ccb
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.3		7c92c6cfd95aeae7c74627856d8c7dcdecc1297a
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.4		20722127470d3763710784035ea0d65d8b626306
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.5		0f63c090e1635912cc1a6d16187b1ea332c2967e
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.6		bfaf964808d608fba1c7efa71655183f183dccdd
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.7		ecfcaa3e8b57027c074060a82ac87d78f954f782
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.8		f67025218a2cf7bc47d1651d9edab137439b54bb
+org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.45.9		6ea320fdeb099f308eb5abc50347a983d9e20e92
 org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.5.0		5c476e44885c5925ef79782906bba3bd800b25d0
 org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.6.0		c3cb418a9e365b5b6fee8b57ffc84b39e6e456fc
 org.eclipse.dirigible	dirigible-components-ui-service-extensions	11.6.1		48646d0711da8cbdf4ca8d16a571e4226467e6a9
@@ -1818,10 +1841,17 @@ org.finos.legend.engine	legend-engine-xt-functionJar-api	4.79.0		9d3a64c6cbadc33
 org.finos.legend.engine	legend-engine-xt-functionJar-api	4.80.0		a0ec088b7faa7a0bc1e0766d9e9b02375d74036c
 org.finos.legend.engine	legend-engine-xt-functionJar-api	4.81.0		e41cb7280748e504926ea9d7a3f8bdf1fbd05c82
 org.finos.legend.engine	legend-engine-xt-functionJar-api	4.82.0		aaa9b45260adb7d4560b1e5da877380224cc859c
+org.finos.legend.engine	legend-engine-xt-functionJar-api	4.82.1		45a94a9ae2df3bb798535bb0ebffd3819ecd1433
 org.finos.legend.engine	legend-engine-xt-functionJar-api	4.83.0		4eaf77729e2241251552ed674c82ee8b0b5662fa
 org.finos.legend.engine	legend-engine-xt-functionJar-api	4.83.1		0ed0738ce153ac4e6f30a0dfe69d08e840394364
 org.finos.legend.engine	legend-engine-xt-functionJar-api	4.83.2		54bca9724b655dbc85334522b5550dbd969a5ea1
 org.finos.legend.engine	legend-engine-xt-functionJar-api	4.83.3		6b487cc841088b9513812cc2ced9ba8b3c22ac5a
+org.finos.legend.engine	legend-engine-xt-functionJar-api	4.84.0		56296a91a857ac725823fdd5ba61833e74d71bac
+org.finos.legend.engine	legend-engine-xt-functionJar-api	4.84.1		60e97f245956a47de60aa86c72d7d10f2484e552
+org.finos.legend.engine	legend-engine-xt-functionJar-api	4.85.0		0ba69b6b5556479e5508c79b0d8ce7446fbb9c48
+org.finos.legend.engine	legend-engine-xt-functionJar-api	4.85.1		9f76b9930e40f50f5913cd15320b6dac3050a043
+org.finos.legend.engine	legend-engine-xt-functionJar-api	4.85.2		2b9e6dfdc2e36288f2c84dcdc0a83c87fa6ee757
+org.finos.legend.engine	legend-engine-xt-functionJar-api	4.85.3		9c3a6438b841aafb29fd5b05849574b4b9ecfcc3
 org.flinkextended	flink-scala-api-common_2.13	1.2.6		3b1cceca57d141402c3a603d99ef72aed09f86ba
 org.jboss.pnc	demo-data	0.10		2adaf721f3a8db3ca674e2c33ed6a4da24370411
 org.jboss.pnc	demo-data	0.10.1		5feeb76a11be4c6480e6d6ee47dbf4952a67010f
@@ -1931,6 +1961,7 @@ org.jetbrains.androidx.navigation	navigation-common-watchosarm32	2.9.0-alpha16		
 org.jetbrains.androidx.navigation	navigation-common-watchosarm32	2.9.0-alpha16	metadata	1fd92ecf4295f57ea1735a43d9c945ed20409cc6
 org.jetbrains.androidx.navigation	navigation-common-watchosarm32	2.9.0-alpha17		N/A
 org.jetbrains.androidx.navigation	navigation-common-watchosarm32	2.9.0-alpha17	metadata	c7945858f8162b0d3de5f36b90a962464f79b040
+org.jetbrains.androidx.navigation	navigation-common-watchosarm32	2.9.0-beta01	metadata	c7945858f8162b0d3de5f36b90a962464f79b040
 org.jetbrains.kotlin-wrappers	kotlin-popper-js	2.11.6-pre.493		7b55bf1618a49962fcc1716f8e540b854084ae29
 org.jetbrains.kotlin-wrappers	kotlin-popper-js	2.11.6-pre.493-compat		N/A
 org.jetbrains.kotlin-wrappers	kotlin-popper-js	2.11.6-pre.494		6d2f96ce52ca98166b3d82486df27403d4479265

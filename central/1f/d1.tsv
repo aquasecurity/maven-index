@@ -340,6 +340,11 @@ com.networknt	tram-event	2.0.8		875d9f51ff5af14f9113a0d0526c1f74fce519f6
 com.networknt	tram-event	2.0.9		1bd16bea9373b17f065f6be865e4e474297193d1
 com.networknt	tram-event	2.1.0		b1e87b6486402bee715da58a850d42a7fd95ba87
 com.nhaarman.failfast	lib	0.0.1		N/A
+com.rea-group	simple-sbt-aws-lambda_2.10_0.13	0.1		996d5f56797d013ff966a7f2405c8738b52452aa
+com.rea-group	simple-sbt-aws-lambda_2.10_0.13	0.2		7184f65b97960981eb895f31bc7867e4fddff8ad
+com.rea-group	simple-sbt-aws-lambda_2.10_0.13	0.3		105c60818300bf40c21b2d85a894af81f0305938
+com.rea-group	simple-sbt-aws-lambda_2.10_0.13	0.4		1f619f99fe16b2fab456d9965a710d06d3953b04
+com.sparkutils	shim_runtime_16.4.dbr_3.5_2.12	0.2.0-RC2		3757975dd174461fdb6abed4f92cb8071dd4f2b1
 com.stimulsoft	stimulsoft-reports-web	2017.1.0.3e		fe49d7bf2deb2199ccccd478d5aca1d4ccdd750e
 com.stimulsoft	stimulsoft-reports-web	2017.1.0.3f		5e8733d6244f0473529c9511d6ba5d6c265c4f75
 com.stimulsoft	stimulsoft-reports-web	2017.1.0.5		04ff8d084fba787e22a66892238fd8d6fef41598
@@ -692,6 +697,7 @@ io.ktor	ktor-utils-jvm	3.0.3		08938221fdf8253200824443515b7a2bef4d09d3
 io.ktor	ktor-utils-jvm	3.1.0		40b74c4148904f82450ae903c001a8856c850b1f
 io.ktor	ktor-utils-jvm	3.1.1		d2d27d54bd684f2bf6fcba83f5db4aebc64a2bb1
 io.ktor	ktor-utils-jvm	3.1.2		dc9045defc237cdcf1c442119e95234189cf6cf0
+io.ktor	ktor-utils-jvm	3.1.3		d2e56dca809c965fa498df86a570fc9ed5b9551f
 io.liftwizard	liftwizard-config-clock-incrementing	0.1.0		fa9dacd2e8f8803695f39484065bc2cb75e03599
 io.liftwizard	liftwizard-config-clock-incrementing	0.10.0		cd701b0b0b3d8d121637e85f8312abbf6ed4365e
 io.liftwizard	liftwizard-config-clock-incrementing	0.11.0		5e7cbcf7f5f59a44d5edfcb61338e33a4420f02a
@@ -758,6 +764,7 @@ io.liftwizard	liftwizard-config-clock-incrementing	2.1.28		3660ab8b5cb2ab1f39e8e
 io.liftwizard	liftwizard-config-clock-incrementing	2.1.29		120040384072648514eb6c10cfeb427bf959d421
 io.liftwizard	liftwizard-config-clock-incrementing	2.1.3		a5b2ca42750b76514cf1daf6116311e50420c07e
 io.liftwizard	liftwizard-config-clock-incrementing	2.1.30		25bd10dd32930f35ed6ee0d259c6db864ca98f47
+io.liftwizard	liftwizard-config-clock-incrementing	2.1.31		479f3b0be374e54dec33dc6c7040d0a5da42bc45
 io.liftwizard	liftwizard-config-clock-incrementing	2.1.4		09aaf64176ac6aabd36b40aec444cce556fc937c
 io.liftwizard	liftwizard-config-clock-incrementing	2.1.5		f53100f4b6e4f865669c0d840e1860a593c329b8
 io.liftwizard	liftwizard-config-clock-incrementing	2.1.6		9cc5a13f4bf1435ac6a0e35db1aa0407ecc3aa01
@@ -881,6 +888,7 @@ nl.mirila.drivers	mirila-drivers-etcd	2.3.0		86ca5c87aa5787e86cda631a6611fffa85b
 nl.mirila.drivers	mirila-drivers-etcd	2.3.1		51b2f99b3f6ac277612b2a62d7aaa82942b8f6f9
 org.apache.amoro	amoro-optimizer-standalone	0.7.0-incubating		8430aa3b13ec9ba33e391bcd4bc8f41f9c5690af
 org.apache.amoro	amoro-optimizer-standalone	0.7.1-incubating		f089a176f3579e51ef8f6be7025c0c4a07ad622a
+org.apache.amoro	amoro-optimizer-standalone	0.8.0-incubating		a0fa96ed64a4e134493a57081391a668c632907b
 org.apache.hyracks	hyracks-storage-am-btree	0.2.16-incubating		5971f4862cffed998d835a485c58e1c09cbdbadb
 org.apache.hyracks	hyracks-storage-am-btree	0.2.17-incubating		b49237f85563cb9e53cd23f4c807e36ea7250e20
 org.apache.hyracks	hyracks-storage-am-btree	0.3.0		daa2474fda398d9f80cd3b3231581f60a168aff6
@@ -1105,7 +1113,16 @@ org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-419		02cd03fb9700e92
 org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-42		13e5890c3b6b7622aab9463989ecf3b34f4199ca
 org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-421		e3ec78572d9394e49adf2b10f297754def8be4f0
 org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-423		ccff15fa2066c1bfc5d81417dfe9b73481d734ce
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-424		e24e7ecc7a395b7930736fd641fb7445abf344ed
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-426		bf2e8e007108d26a8827f3e5db25d68eba8fda2e
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-428		988f7adf0c2d20672b047cf7ffdd3eb0c049ea77
 org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-43		15bb83b415bbde8da36a3257095c47057d2b98ea
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-430		d1ebb92a91027f68fd1b75eb74d3ab13e13d26a3
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-435		7909308ccc8ba877a0ea533c28369d029f08b721
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-436		e5e0da7ceac7a780b43691fe9575362cf47b9ff9
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-437		9d3966b5287d2185162de53fb7392b86d5eb1072
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-438		4de618e91c14e60b693bbd5fb919e554dfa669c7
+org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-439		5efbda71d0fa572c12dc1505eab754409b358b80
 org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-44		7dce63aecda4fc958c6afb92463630dfe9843a0d
 org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-46		6ee6ab91b1e9463238dad4912d6792533149372f
 org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	0.12.0-47		237a1f48afb681f3641d89550512a55cd9effcd2

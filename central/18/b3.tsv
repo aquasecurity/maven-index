@@ -607,6 +607,7 @@ com.vaadin	copilot	24.5.8		7c4f0dc7bc72ae7a2e377313d1a1977c35510e22
 com.vaadin	copilot	24.5.9		474b71604a15e5d6c046e929d2d5777ed78a8897
 com.vaadin	copilot	24.6.0		304fe39f9acb2af7bf5cf673539a9e34dd880902
 com.vaadin	copilot	24.6.1		10561325e077c8ca93ffc47a957cc8557366fc79
+com.vaadin	copilot	24.6.10		6c18a7c01e6188b4c85fe560fc59c548c6a3359d
 com.vaadin	copilot	24.6.2		af74673b4a318fb27658e93833d48b7af7cdf52b
 com.vaadin	copilot	24.6.3		b127e845578cc227d0a47598d58627b6f3a1aca4
 com.vaadin	copilot	24.6.4		af6782e2a6a9b9b14d1b9c2f09f87c06ae7ba889
@@ -619,6 +620,7 @@ com.vaadin	copilot	24.7.0		33bda10b191eb55946f280c371f269a753d5a2ec
 com.vaadin	copilot	24.7.1		8ed7b14276e7fadc62ae9bd40ced30e980c899cf
 com.vaadin	copilot	24.7.2		d164600fc2dcbdcb4d0f523af3f658878065912a
 com.vaadin	copilot	24.7.3		aea6d2427c6f8915b81e41094505ca03037defb0
+com.vaadin	copilot	24.7.4		1e885241355322dc5c00c03ea341aabdc3acecf6
 com.viliussutkus89.ndk.thirdparty	libxml2-ndk26-static	2.11.5-beta-1		N/A
 com.viliussutkus89.ndk.thirdparty	libxml2-ndk26-static	2.11.5-beta-2		N/A
 com.viliussutkus89.ndk.thirdparty	libxml2-ndk26-static	2.11.5-beta-3		N/A
@@ -826,6 +828,8 @@ io.ktor	ktor-client-encoding-macosarm64	3.1.1		65c1de9edb3794cc8315ff044fd76b608
 io.ktor	ktor-client-encoding-macosarm64	3.1.1	metadata	b64d0923ee20804bfd7ea184f0ce5d3cb6314eca
 io.ktor	ktor-client-encoding-macosarm64	3.1.2		62a3ea7f24df41d092098b11a10e9040ff01d300
 io.ktor	ktor-client-encoding-macosarm64	3.1.2	metadata	d281f37618d2db79a27854a97ccf726c37445403
+io.ktor	ktor-client-encoding-macosarm64	3.1.3		42c1d46b57f6af51154300634c3d44166f9e96cf
+io.ktor	ktor-client-encoding-macosarm64	3.1.3	metadata	b78e96cfd7f21879f920e83b6f06d5ab1983cd8f
 io.megl	zio-json-exception_2.12	0.4.2		9083751b27d11aff312137735a246707ce10ce13
 io.megl	zio-json-exception_2.12	0.5.0		fe95a0732fa0f31c45d156cf3661ff3e104a6b7c
 io.megl	zio-json-exception_2.12	0.6.2		4af00395964a4a8cf3505394d0093930618f7156
@@ -862,6 +866,7 @@ io.quarkus	quarkus-spring-web-rest-deployment	3.15.2		13770e49e43cb85990f1501094
 io.quarkus	quarkus-spring-web-rest-deployment	3.15.3		0c2666e8a1742b36be9af39504cbeecc32049f4b
 io.quarkus	quarkus-spring-web-rest-deployment	3.15.3.1		b6047552b008f354caad5d8e0b192e7c72c6f860
 io.quarkus	quarkus-spring-web-rest-deployment	3.15.4		f5b283b203cc5876dc8c401e5c3c94de5b7aec87
+io.quarkus	quarkus-spring-web-rest-deployment	3.15.5		0c9680b87973acad9b0ab66fdb8f843f5b5e6507
 io.quarkus	quarkus-spring-web-rest-deployment	3.16.0		e2017891fbe0b10f12d2d66672b86cd6312f658d
 io.quarkus	quarkus-spring-web-rest-deployment	3.16.0.CR1		b2f2baf7f4d93d80ba0657936341d0294c2bb848
 io.quarkus	quarkus-spring-web-rest-deployment	3.16.1		56f25b376fd4c67b6ee03d8da73789ddc4619ead
@@ -892,6 +897,7 @@ io.quarkus	quarkus-spring-web-rest-deployment	3.19.3		532a7987f7709701bb1513ff7d
 io.quarkus	quarkus-spring-web-rest-deployment	3.19.4		833ef49d497b8932b9488c77e6b897a17d31fd1a
 io.quarkus	quarkus-spring-web-rest-deployment	3.20.0		d7d3e028a978be5adb4893ea02e69c66609104e3
 io.quarkus	quarkus-spring-web-rest-deployment	3.20.0.CR1		5cf6bedcef2566b4131455abd198fcbf1e3bfd5b
+io.quarkus	quarkus-spring-web-rest-deployment	3.20.1		9a36fadc65eaa336b0e175be8b5624d0990dd976
 io.quarkus	quarkus-spring-web-rest-deployment	3.21.0		4baa5f461a5d119b3890481e6f85afeadb958f9c
 io.quarkus	quarkus-spring-web-rest-deployment	3.21.0.CR1		afdb7be0bacdc5dad36ce478b42c875dee982f65
 io.quarkus	quarkus-spring-web-rest-deployment	3.21.1		3dbfd5242acba6bf833dc2cc39acbf768c1d9c6e
@@ -901,6 +907,9 @@ io.quarkus	quarkus-spring-web-rest-deployment	3.21.4		525705775d629ca6ad52dbd0da
 io.quarkus	quarkus-spring-web-rest-deployment	3.22.0		7863ddceddb9675f1a31d6f75a38a6d3145e0323
 io.quarkus	quarkus-spring-web-rest-deployment	3.22.0.CR1		719a2c89e1ecaeb6b89719bca54c729670b574a6
 io.quarkus	quarkus-spring-web-rest-deployment	3.22.1		e5c1905952336fed9188941e8a52a8df55141c1c
+io.quarkus	quarkus-spring-web-rest-deployment	3.22.2		24587440b9d55a712c180311e0daa5d31f3f11f3
+io.quarkus	quarkus-spring-web-rest-deployment	3.22.3		3a474e002821d6de5c88e40453d0ab611e7256a1
+io.quarkus	quarkus-spring-web-rest-deployment	3.23.0.CR1		094d6db19550749ff5c0a857e1c154d1e0567709
 io.quarkus	quarkus-spring-web-rest-deployment	3.9.0		5b2d952e5d1c7b9f2824ba7a1730787208e0b50b
 io.quarkus	quarkus-spring-web-rest-deployment	3.9.0.CR1		4d5cb297c88c597b3ec555bcce6cc90d6a11895f
 io.quarkus	quarkus-spring-web-rest-deployment	3.9.0.CR2		581806125d262339d47ce516b2e044d9ecc5c6a6
@@ -929,6 +938,38 @@ io.toolisticon.cute	extension-parent	1.5.1		N/A
 io.toolisticon.cute	extension-parent	1.6.0		N/A
 io.toolisticon.cute	extension-parent	1.7.0		N/A
 it.ozimov	assertj-guava	2.0.0		e782710c9c7b52038481e94b67a581b09ffbdf5d
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.10		8cda2a7e13c4819d6ea3c72c098c5e51ab2c2a8b
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.2		7b586dde8036ce2f847eedf7f8e771fc6f1b6f9f
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.3		b3cbe4f49b35a1a602d21e84747b646cf234ddc1
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.4		9708f2044a4fff7efd660515f1e8d2c77ce34590
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.5		b639f88c1e5d782afbd5b3f8b3669803aab09ecd
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.6		8e07edcbe16b53b05297ae90e6fee5882bbed557
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.7		629c8080b63a3dfbd3edfc6879cc430899f3f832
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.8		97000dda8454f1d27d7ce15037e8cd6c75360e82
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.1.9		7cf1f6f6c4eca2d6e312adcf28ae279b36115f47
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.0		5f9eeeee8e35369fac6f05c0d033443d1011ecf3
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.1		e3ab6e8589e5c0e36a5ab213da08cf9afeab7647
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.10		66035ece29df0b5d28836d6ea6776998b97efc31
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.2		70a9aa8acb5ad895934264f5dd0d9b552ee1b518
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.3		b9390401a5cbd9b5e7b518bce6a2fbf6a379deb3
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.4		6c29661771e4e6f788d37b2fe965d928b745c32d
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.5		6740cdaa36f99a95afe7b57b53bfc894da5191cc
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.6		fea0cff23071113ca6afff4d6c1f29e2e4c11678
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.7		5090239bb8a466133c6f412328439bc02df1915b
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.8		ac9c34499259b2ac105232b20868a2a434d31813
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.2.9		a1dc0f694f6abef89c2e9b9b9a42d748c7926316
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.0		88baffb835d39d3becc78f75599851fea417192e
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.1		23d3f46461d8d55a0dddc3a13f091c3f06e34d4c
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.2		c8ec799ccd321aa55d990b560cd040e1b1be08b8
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.3		90e91b52eb99ec698ab7005262107cc858e0eaee
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.4		889f7e2c13ae10dc09b1b98de83b01bb727fbbf9
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.5		bcc7a315cd6f072c15659b58396862e7f35464aa
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.6		215df8c6f92de0b8f7de2ff139abba75b9c2c596
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.7		d214a48bb3969e7847bda3a2372f3fb27a3c3f09
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.8		c3cafcc96d5cff26cc2b102f9178de290afa4847
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.3.9		c4d6e26b05dc38bb4d07adccf7bebb1fc34a041d
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.4.0		50fb01d418bc9516b80fd93c2edf34b3ed03e4c2
+me.tfeng.play-plugins	dust-plugin_2.10_0.13	0.4.1		4736e960bdf9478d443f7919c53c1d66ff397b5d
 net.contentobjects.jnotify	jnotify	0.94		2ad292af75ab62613f2826ccabcab0400245e5bd
 net.java.dev.jogl	jogl-macosx-universal	1.1.1-rc6		1b87eeef721d906ef28222043d7e69deb9d56714
 net.morimekta.providence	providence-core-jackson	0.0.1		1e9ac710de7965a6a8fd96db0a20ab8887542a63

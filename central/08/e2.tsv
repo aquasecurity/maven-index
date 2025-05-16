@@ -205,6 +205,7 @@ com.github.niupengyu	ahead-frame-generate	1.2.3-RELEASE		ead6a072a8f89352c3e5b46
 com.github.niupengyu	ahead-frame-generate	1.2.4-RELEASE		756952177e42e7fbe35c66c0766184e60c2fe05e
 com.github.niupengyu	ahead-frame-generate	1.2.5-RELEASE		1d40118ef34af8d964bebc6b41d904860f7e5b2b
 com.github.niupengyu	ahead-frame-generate	1.2.7-RELEASE		072ad7cbdf87296f82f2f7334e6c75484c18a171
+com.github.seratch	testgen-sbt_2.9.2_0.11.2	1.0.0		ea291d1cbae8a765ad782339a0b9784fe95bc576
 com.google.appengine	libxmlvalidator	2.0.0		32b8787c685a15a88366e7a1e361976c616b4cb0
 com.google.appengine	libxmlvalidator	2.0.1		35c8fcb857669627f864da0df4fe4ec17894e179
 com.google.appengine	libxmlvalidator	2.0.10		79d662f2f639d147ea27ff601349a42401307c7b
@@ -234,6 +235,7 @@ com.google.appengine	libxmlvalidator	2.0.32		cfd33c5c9a6b3f6cfaa8a959bc1a3903b82
 com.google.appengine	libxmlvalidator	2.0.33		8f57ead12a384a5d916774b30c1dbeb1fa2efebc
 com.google.appengine	libxmlvalidator	2.0.34		f245741230fa1ae5f0141a28a93e2c54fd718822
 com.google.appengine	libxmlvalidator	2.0.35		cb08987647999cf762395100f5458e11485b6953
+com.google.appengine	libxmlvalidator	2.0.36		a94db51b364f57b7e0cdbd0b89554bb17a9166db
 com.google.appengine	libxmlvalidator	2.0.4		152ea070aa38e535d42d030bd6dc62f037226556
 com.google.appengine	libxmlvalidator	2.0.5		0beb96bd5c40409547f415598dc38ddd4c526f2a
 com.google.appengine	libxmlvalidator	2.0.6		ea5508a9a93b63bd808c4d299435235eeb61b760
@@ -574,6 +576,8 @@ com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.63.0		2f2b0307c592f1743d88a7fa8b60
 com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.63.1		5d0832d3095aa5e0dc9c617ac82bfb22adc5b303
 com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.63.2		1a8ddf3d861a03689e43b8131699f884ec177400
 com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.63.3		06d70158d104a07f5dab40cba6113d15c8d9e8aa
+com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.64.0		0395f6a374f19c02d28e01a3be3501aafeec7e07
+com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.65.0		c242e4a095597f5d4e5a5ccfef03276decfd7ae5
 com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.7.0		189342bb3d262e74b318a21880b6ace78cbef987
 com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.8.0		e0484e9b4c2d525ad5c53ac7484921fe5b638253
 com.oracle.oci.sdk	oci-java-sdk-datacatalog	3.9.0		755da5566009c080dd2eb0f0f9a2a8cb95ca0106
@@ -805,6 +809,7 @@ dev.zio	zio-aws-repostspace_3	7.31.27.1		606ee9e352fb82fe8abbf3b6f5e03143a12c904
 dev.zio	zio-aws-repostspace_3	7.31.28.1		317e5edd4cc4226164a50ab7224dc9f194d56753
 dev.zio	zio-aws-repostspace_3	7.31.3.1		5a364a6f21a7adea965d6390e05a88427618626f
 dev.zio	zio-aws-repostspace_3	7.31.30.1		c170e879a538f9cb1b485923b76d5e542fbdbbcb
+dev.zio	zio-aws-repostspace_3	7.31.30.2		54dd589372b8a1fd1782d83e8c89dc7ffcc8bbfc
 dev.zio	zio-aws-repostspace_3	7.31.4.1		7d7a83ef63458c678cfed654a3ec6c6be4dace0e
 dev.zio	zio-aws-repostspace_3	7.31.6.1		2c1bcfa33ca885a26f71d1329ea9cea2cc5459c5
 dev.zio	zio-aws-repostspace_3	7.31.6.2		b291a289e144e0eb5f5c67e38f5d79aa85c4fd4e
@@ -898,7 +903,11 @@ io.pixeloutlaw	plumbing-1_20_R1	8.0.1		defb66ab01d3766da263d82a1ccfdbdc816dbfdf
 io.pixeloutlaw	plumbing-1_20_R1	8.0.2		02f77528e6eb47158b585c13450333540be68e2c
 io.spinnaker.orca	orca-test-groovy	2025.0-0		c499f76c9cc1fa0aec674741832a5987918c8525
 io.spinnaker.orca	orca-test-groovy	2025.0-1		a3cfa9d68904b4f9dd1c06119696917665394fa5
+io.spinnaker.orca	orca-test-groovy	2025.0-2		d4a3c66385d6068ac9906e9a6705c105d10fab46
+io.spinnaker.orca	orca-test-groovy	2025.0-3		1ade27f902951e3c48081c0f384041ccdda10770
+io.spinnaker.orca	orca-test-groovy	2025.0-4		50a337af788f6f6ea54873c69fed8e8d12033990
 io.spinnaker.orca	orca-test-groovy	2025.0.0		e97be16f2609bfff219c7dd7bc92404281c51aa4
+io.spinnaker.orca	orca-test-groovy	2025.0.1		d523a1fc990ad9a84bd9c6f7e350a82c892c2ef8
 io.spinnaker.orca	orca-test-groovy	8.15.0		4a21c228983597a614588f36cd00ab5ccc9efae7
 io.spinnaker.orca	orca-test-groovy	8.16.0		3157823f39193d353f4682e52785251ca1ebe7e1
 io.spinnaker.orca	orca-test-groovy	8.17.1		c3c60aad5f87baba5536f420a2de86a6b826ae83
@@ -990,10 +999,14 @@ io.spinnaker.orca	orca-test-groovy	8.61.2		2edcbfde7d1f53d8c0288c7cceb42c106eec5
 io.spinnaker.orca	orca-test-groovy	8.62.0		3b5106bdea6026ab7a579235b7f3cb615325f908
 io.spinnaker.orca	orca-test-groovy	8.63.0		99d2b2b4444d7022f2320881d84d14ec3a4681ce
 io.spinnaker.orca	orca-test-groovy	8.64.0		76ce89ed43e1e54e9955c394b260f6f33a544ae7
+io.spinnaker.orca	orca-test-groovy	main-10		6cb1ed204a30398917beab6b00d5640dc2e45741
+io.spinnaker.orca	orca-test-groovy	main-11		08595cb9bafd0aa224449faaa03c7d6438d6f0a0
+io.spinnaker.orca	orca-test-groovy	main-12		9bd662039af056a498b9507b7aed22c4a4b676c6
 io.spinnaker.orca	orca-test-groovy	main-5		05520576b95f960c5aa838eaa9ddfd96de07fcee
 io.spinnaker.orca	orca-test-groovy	main-6		42149f578bb60afa5af0116c6da7da4f01c3e37c
 io.spinnaker.orca	orca-test-groovy	main-7		0a4656a11d1e701fc70f0a25246a25d454491ecf
 io.spinnaker.orca	orca-test-groovy	main-8		2473085ad9871996454b9bd1ee3e3820883dd856
+io.spinnaker.orca	orca-test-groovy	main-9		d6932c2d95d1404ee96fac0f2bca5ef121b8d797
 io.wizzie.enricher	service	0.5.2		ea6df9b9cb2df35f333c11165bd2bada56017942
 io.wizzie.enricher	service	0.6.0		40a731ff9f89a4e4e7bf1b36491b7e62dc578741
 io.wizzie.enricher	service	0.6.1		632797a83c9676c41f800cbee3c46a622e964ef9
@@ -1423,6 +1436,8 @@ org.ossreviewtoolkit.plugins.advisors	osv-advisor	55.3.0		0e0260e12659d677c28dee
 org.ossreviewtoolkit.plugins.advisors	osv-advisor	56.0.0		fefae2464efb0740e02150ab74ebc8aa15af30bd
 org.ossreviewtoolkit.plugins.advisors	osv-advisor	56.1.0		8906215b31034274b28a8ac0bbad175e2da28e49
 org.ossreviewtoolkit.plugins.advisors	osv-advisor	57.0.0		2bb58fff526da2eac0ec6e679ff0d8c45178cf01
+org.ossreviewtoolkit.plugins.advisors	osv-advisor	58.0.0		4b35a444ffc6509c9a5321f737ad3532c42444b5
+org.ossreviewtoolkit.plugins.advisors	osv-advisor	58.0.1		ff129364c07313c57bcf8cc1265869425d41e919
 org.ossreviewtoolkit.plugins.advisors	osv-advisor	6.1.0		65fd8db6825c53613210b07adfe6696508ee9d4c
 org.ossreviewtoolkit.plugins.advisors	osv-advisor	6.1.1		8f1594518a173068a292bd5c96f079f4edd66171
 org.ossreviewtoolkit.plugins.advisors	osv-advisor	7.0.0		179d078015d7aa96c36d1f1925989527d1b202ec

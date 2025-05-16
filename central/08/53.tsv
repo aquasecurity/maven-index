@@ -592,6 +592,7 @@ io.github.yozyazici	common-package	1.0.1		9d77444186b57e6788e0154253f6ad24611aff
 io.gravitee.inference.onnx	gravitee-inference-onnx	1.0.0		208c69243dfa5c36f566e404b04be86243a90a36
 io.gravitee.inference.onnx	gravitee-inference-onnx	1.1.0		fb083aecc53e830e7989f82e6f788f9035ba27b2
 io.gravitee.inference.onnx	gravitee-inference-onnx	1.1.1		79b88f4f42c5ed778d579ca406e31a2fa608b608
+io.gravitee.inference.onnx	gravitee-inference-onnx	1.1.2		4ed96b5fb39eee4eec1c29b154b2e79fa21b16b3
 io.iteratee	iteratee-core_2.12.0-RC2	0.7.0		b829cd4473d44c899c215fe376c83d0d92dda4f9
 io.kestra.plugin	plugin-modal	0.13.0		c186c7784e3e22eb068d0e367973451407e89be9
 io.kestra.plugin	plugin-modal	0.14.0		204ab59e63158149d8fa6bf4d16fa5928b290f13
@@ -715,6 +716,7 @@ net.codinux.kotlin	kmp-base-macosarm64	1.0.1		N/A
 net.codinux.kotlin	kmp-base-macosarm64	1.0.1	metadata	9f8ac17ba6b8f432e1bb657c6b3d112587395919
 net.codinux.kotlin	kmp-base-macosarm64	1.1.0		N/A
 net.codinux.kotlin	kmp-base-macosarm64	1.1.0	metadata	66c5fe3188262aa035d2e8c7047dbac1bb1d922e
+net.codinux.kotlin	kmp-base-macosarm64	1.5.0	metadata	d08708e1a9002fa0c04417bff27ae3eeffdbc3d9
 org.apache.geronimo.ext.tomcat	tomcat-parent-7.0.39	7.0.39.1		N/A
 org.apache.geronimo.ext.tomcat	tomcat-parent-7.0.39	7.0.39.2		N/A
 org.apache.skywalking	fetcher-proto	10.1.0		68d316bd3a973ee24cd5bac3c7d899bbfb5cb803
@@ -968,6 +970,8 @@ org.keycloak.testframework	keycloak-test-framework-db-mysql	26.1.5		121cc4046b04
 org.keycloak.testframework	keycloak-test-framework-db-mysql	26.2.0		811c268a251695caf44d073b70b28799956055af
 org.keycloak.testframework	keycloak-test-framework-db-mysql	26.2.1		2543c3a7dc071aa9aaeff9a07941b8b8c31fae23
 org.keycloak.testframework	keycloak-test-framework-db-mysql	26.2.2		846cdf657980c0c3ff06a8be0bbc28d20f97fca4
+org.keycloak.testframework	keycloak-test-framework-db-mysql	26.2.3		a2a0398d5395ff90fc4d6a532d7d83a1a7bf7f62
+org.keycloak.testframework	keycloak-test-framework-db-mysql	26.2.4		33928a0164688370e3f28205fa38d1596310adc4
 org.kie.workbench.services	kie-wb-common-workingset-api	6.0.0.Beta3		62a3031e9a951148146d4e18dac8e7feeec2dd63
 org.kie.workbench.services	kie-wb-common-workingset-api	6.0.0.Beta4		d2ccd12ce578e2c2ed24696133f6d6151e7a6964
 org.kotlincrypto.endians	endians-macosx64	0.1.0		N/A
@@ -3206,7 +3210,18 @@ software.amazon.awssdk	costexplorer	2.31.30		f0752130b0a282efd7320ac01bec80bc10e
 software.amazon.awssdk	costexplorer	2.31.31		b05246c56dd070506f1d54c7b428047233602fd1
 software.amazon.awssdk	costexplorer	2.31.32		1db14c221a8a346b6e53a021d2d1f3465bac9c44
 software.amazon.awssdk	costexplorer	2.31.33		1d9e86d4487cfd7bdd26999f4569a9bf3bc90265
+software.amazon.awssdk	costexplorer	2.31.34		d591f373969ecce5e88d07a7204983bd47c176b7
+software.amazon.awssdk	costexplorer	2.31.35		59c2456562c1cfc1bb63b7ffc0f362f446cc1d03
+software.amazon.awssdk	costexplorer	2.31.36		e3cf77f27a9f0a52c82e6ee043d30029459204fa
+software.amazon.awssdk	costexplorer	2.31.37		389ad020ba77bc8f0aba1e95062ceb066ad83c1e
+software.amazon.awssdk	costexplorer	2.31.38		d4d366d64954e976947b53bf112129ce82ffe37b
+software.amazon.awssdk	costexplorer	2.31.39		f02685d0ffbe7958db225852c8bc4f2e33b1f904
 software.amazon.awssdk	costexplorer	2.31.4		75cc246bad46c6c2f2d2b981bd1f3f1437986eab
+software.amazon.awssdk	costexplorer	2.31.40		587d781d42e65a742977202c85f750ac53b9963b
+software.amazon.awssdk	costexplorer	2.31.41		ca622f3f5d2e0ef228a0c34c9250825798a4dc27
+software.amazon.awssdk	costexplorer	2.31.42		bf16f4ab5a63ee82e204811e6ee600b7eafd0e85
+software.amazon.awssdk	costexplorer	2.31.43		e191ccc12e82706380b5e8dd1773385eabcdef78
+software.amazon.awssdk	costexplorer	2.31.44		0c954cf2892ae2ef8730ff618e93e6299ca73c0c
 software.amazon.awssdk	costexplorer	2.31.5		b0e17f89cfca468d3b9c571afda95d450e443aeb
 software.amazon.awssdk	costexplorer	2.31.6		a72d2a2491cb1a0d13d436467234be5679bb1211
 software.amazon.awssdk	costexplorer	2.31.7		3a76c04aa6023d96ab65d72433f8da72fe926186

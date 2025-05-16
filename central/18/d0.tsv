@@ -175,6 +175,8 @@ com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.54.0		042e0245d74
 com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.55.0		336ebf33ca65b8c3ebfe5fa0ce062ef86643ef52
 com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.56.0		f033f52bd7fee3e8f29f6f650119261bd0293aa7
 com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.57.0		c722b28f519ff5bb8dadc2fbb2ec8640ab15b292
+com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.58.0		4abc4fa6c7ddfce6a8e94d1664c63653ddb4dfc5
+com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.59.0		d2db93dbbf9a1bec7bf4ee84cd360ec31df13ef0
 com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.6.0		56a941967abf9ac30fc3c2f212f5c2a3c6a5739e
 com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.7.0		a2df83bd0db4bae815cc97faaab5c9eded633e05
 com.google.api.grpc	grpc-google-cloud-discoveryengine-v1beta	0.8.0		96766e1647714a5139fc2e23f030831a97440f15
@@ -587,6 +589,21 @@ com.splout.db	splout-resources	0.2.3		d7bf1805151d7265f8b3c8b7a79df260b94e8729
 com.splout.db	splout-resources	0.2.4		1f6e3fadefe95796d474600c0903d12aea1473f5
 com.splout.db	splout-resources	0.2.5		86e2b32434644efa0f43237c2511f2aaad16317c
 com.splout.db	splout-resources	0.3.0		6f733f28900d26b9842e6a83465481abd7019748
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	0.1.10		0af53fc7ac06cffb0bcd341ed2c2e90a38781322
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	0.1.11		6ab9655dc20b9342e277cc09ec08d3d5c5da6d8b
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	0.1.7		a2475637e3c93d9a05a787e4d81f01132c76e281
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	0.1.8		9bf7c6a8a6638bea16bf6a24a29ca45657669e24
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	0.1.9		35ab0c4e76bb97ca62bf3a5a2a657ab160ef36c3
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.0.0		8084d44798ead9dd51f67b44d7dd77f4391db32c
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.0.1		b120682f963fe45756cb1f53f08299674f45d178
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.1.0		57bb2bcfa22df858322af4cbfd48ae446cc85d42
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.2.0		873ad980c74f05bfb2ff9b48d12ed73d28b582b3
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.3.0		3e038e9af9a4290ff71e8463a66b1d06d3f9d52c
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.3.1		0b548b45715f114211ca0535539d893bb20dcae6
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.3.2		a34a9950c2f277e2faa4b5eb81caffb457cfa73e
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.3.3		c0e6d76211c23b662328ab11a95c7a4c21b3b1ca
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.3.4		eefe3fc744d5e7ce784fb4b890d85aab3df4cb90
+com.thoughtworks.sbt-best-practice	secret_2.10_0.13	1.4.0		d3936cebaee0ea88e72f7bb59e3302f8405fd737
 com.woowla.compose.icon.collections	ionicons-wasm-js	7.4.0		N/A
 com.zengularity	benji-s3_2.11	2.0.5		a321fd65ad11cef5f86d1ca7ab3af822f2a44e74
 com.zengularity	benji-s3_2.11	2.1.0		9a3716fb6ed34357c11724d6ce2bcf9b92cbf353
@@ -770,6 +787,7 @@ dev.zio	zio-aws-cleanrooms_3	7.31.27.1		1dba6e26f6451599d3407bfbeb9128b13031db3e
 dev.zio	zio-aws-cleanrooms_3	7.31.28.1		ec372e1276be32445f20f9b4dd2caf596c4db41c
 dev.zio	zio-aws-cleanrooms_3	7.31.3.1		c883ac7c3368e5899df6f3021a67c33828794279
 dev.zio	zio-aws-cleanrooms_3	7.31.30.1		fa1f1b40b7d6677aa18f37e69838dc954ed6c1a1
+dev.zio	zio-aws-cleanrooms_3	7.31.30.2		30f7898448210df5830e13986867bb687d98d943
 dev.zio	zio-aws-cleanrooms_3	7.31.4.1		2e07e2f447f82ce4977e00b702c0062874ada966
 dev.zio	zio-aws-cleanrooms_3	7.31.6.1		b2bb7e222293d346354d13745117cf1914460475
 dev.zio	zio-aws-cleanrooms_3	7.31.6.2		56606b67ceb130ff599319eda4dec72d9edc739a
@@ -817,6 +835,10 @@ foundation.metaplex	base58-iossimulatorarm64	0.3.0-beta1	metadata	5e5546bc59682c
 io.exoquery	exoquery-runner-core	1.1.0.PL-1.1.0		9b1a7ee89efb60a2bf03b18bb5373c81890d5f1d
 io.exoquery	exoquery-runner-core	1.1.1.PL-1.1.1		26b57aad01bddd78de89b7b9ef504dac468d9e37
 io.exoquery	exoquery-runner-core	1.1.2.PL-1.1.2		26b57aad01bddd78de89b7b9ef504dac468d9e37
+io.exoquery	exoquery-runner-core	1.2.0.PL-1.2.0		ed848bd725baabe0c2f6213aacdb928b8d7b6cc2
+io.exoquery	exoquery-runner-core	1.2.1.PL-1.2.1		ed848bd725baabe0c2f6213aacdb928b8d7b6cc2
+io.exoquery	exoquery-runner-core	1.2.2.PL-1.2.2		ed848bd725baabe0c2f6213aacdb928b8d7b6cc2
+io.exoquery	exoquery-runner-core	1.2.3.PL-1.2.3		ed848bd725baabe0c2f6213aacdb928b8d7b6cc2
 io.fastjson	boon-bundle	0.29		N/A
 io.fastjson	boon-bundle	0.30		N/A
 io.fastjson	boon-bundle	0.31		N/A
@@ -1169,6 +1191,7 @@ org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.2.1		006fa6b4df8f
 org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.2.2		65cd8f5a177e8e4b368e2e582e62636b9ab72a02
 org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.2.3		3658f89b710eb0f656a8a5e3583b57ae70a33718
 org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.20.0		edaa6bc195367b5ddea6ac5552a74ed181128b76
+org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.20.1		b6635db624fe06fc8b3079dfcf8c9adf3110b0c2
 org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.22.0		77fecb57c44139726478a492a228ed0e6fd58752
 org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.4.0		3e63f2635fa9b0b7ed75760073030a33e504a8ed
 org.apache.camel.quarkus	camel-quarkus-controlbus-deployment	3.5.0		c3407a46500afa7c4e9d5889c7aca9f039fc1db7
@@ -1481,6 +1504,7 @@ org.scalameta	mtags-shared_3.3.1	1.5.0		828215291a2eb58d459bb0f926cc1cf3bd852135
 org.scalameta	mtags-shared_3.3.1	1.5.1		16ad00c35a7ac4f6302620eab67015fc8e21111c
 org.springframework.ai	spring-ai-advisors-vector-store	1.0.0-M7		c349395140837111fbae0eb2479b40b1dea53cf1
 org.springframework.ai	spring-ai-advisors-vector-store	1.0.0-M8		97316b5ac22377c4cfd727205e0359274b1e79e6
+org.springframework.ai	spring-ai-advisors-vector-store	1.0.0-RC1		ae8722836e7670455815f858282ad00750db4aa4
 org.springframework.cloud.stream.app	grpc-app-protos	2.0.0.RELEASE		ae1db69915b52bb04fbf6b891029d39bddb73108
 org.springframework.cloud.stream.app	grpc-app-protos	2.0.1.RELEASE		e849504e75d7e9b2c11ea8cbc0e7b1a03326f7ca
 org.springframework.cloud.stream.app	grpc-app-protos	2.1.0.RELEASE		0c35c46b77c456eba486ebf9fada6a25a7d377a7

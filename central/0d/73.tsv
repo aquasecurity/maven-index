@@ -100,6 +100,7 @@ com.eygraber	compose-material3-navigation-iossimulatorarm64	0.0.6		N/A
 com.eygraber	compose-material3-navigation-iossimulatorarm64	0.0.6	metadata	30e4a31b7e18a19638ff1dde2989b65961584b70
 com.eygraber	compose-material3-navigation-iossimulatorarm64	0.0.7		N/A
 com.eygraber	compose-material3-navigation-iossimulatorarm64	0.0.7	metadata	6c43035d45b75e30c1aac2a659394f4a1c9c53ff
+com.eygraber	compose-material3-navigation-iossimulatorarm64	0.0.8	metadata	a05ebd5ed2267b9d7cecd181214ba6e5156739a5
 com.github.billybichon	rx-livegql	1.0		f24b4bb371f197576bbcbd6d1226a6a683b052d0
 com.github.damage-control.report	damage-control-maven-plugin	1.0.0		4a166dc5c77c8f7dcf8a7599e0a96f64497cfaaa
 com.github.damage-control.report	damage-control-maven-plugin	1.1.0		90c1eb231849143eb52de9d27059e887eb0a24f8
@@ -1610,7 +1611,14 @@ com.yahoo.vespa	configgen	8.511.14		e9e5be7c0eb231d60df2f1e06f4b2c029385980a
 com.yahoo.vespa	configgen	8.512.63		226be9bda3b71fa52cb3691369e5921c9988162b
 com.yahoo.vespa	configgen	8.513.17		fb6d3ef80d23d44201b039989f8e451685ec89a2
 com.yahoo.vespa	configgen	8.514.24		f85852d55432b2cc177692371545b32357c5b51c
+com.yahoo.vespa	configgen	8.515.40		24da7f99140ef9c77e80c5b932b411ff4bc4364f
+com.yahoo.vespa	configgen	8.516.26		5f30a029fa9f3b88cdaea7bd9baa81e0eefbfbfe
+com.yahoo.vespa	configgen	8.517.15		f86b5b886b01c667a52dfc80049a65e8cdb573d4
+com.yahoo.vespa	configgen	8.518.4		f842429389d0c6780898f1dff0c24c6372678d40
+com.yahoo.vespa	configgen	8.519.55		ebab507966b78aeb72bf99638b4a308fd8c4b0bc
 com.yahoo.vespa	configgen	8.52.15		5bd89c0531af6eed84449c93a403a3e500bf5364
+com.yahoo.vespa	configgen	8.520.18		37b57093e82824e018b870cf1df83890d4f723c7
+com.yahoo.vespa	configgen	8.521.17		21bc50ebdea3a8231df4d00714bcc26914d8519d
 com.yahoo.vespa	configgen	8.53.21		baa1f132cf6124fc767ed8fc19d1c36dfda74120
 com.yahoo.vespa	configgen	8.54.61		cabcc8b96d048548a75421ade9c8690247dedaa0
 com.yahoo.vespa	configgen	8.56.20		f073ce410e8084b6feda80fcc40f3413cd23c38b
@@ -1845,6 +1853,8 @@ io.ktor	ktor-io-tvossimulatorarm64	3.1.1		6b39eaa327612eb5af9f7c19142441e0ecd472
 io.ktor	ktor-io-tvossimulatorarm64	3.1.1	metadata	70dadba535d9ca628688588dbcb983e09179426d
 io.ktor	ktor-io-tvossimulatorarm64	3.1.2		e80c1ad15eabf67b306f0cb78a3f8a8e5fd4d061
 io.ktor	ktor-io-tvossimulatorarm64	3.1.2	metadata	31c54771484a3c943b566f53311d890c2d96aca7
+io.ktor	ktor-io-tvossimulatorarm64	3.1.3		1f03092223914366d923027e4627ed1d12ee39df
+io.ktor	ktor-io-tvossimulatorarm64	3.1.3	metadata	2b085ab360f346c3944e23b6da5f10b0d45c0529
 io.mraa.upm	upm_xbee	0.8.0		a695137365a0812722f659441227d466b61c3289
 io.mraa.upm	upm_xbee	1.0.0		fe96ed72e65353c322faf21f93b73e9ee4fc305e
 io.mraa.upm	upm_xbee	1.0.1		af7b9a78f060b3b95d48cb63dca3c965cb13b990
@@ -1882,6 +1892,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-appl
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger-bootstrap	2.13.3-alpha		8a0eee6fbe3dd127f0cb09a0aa8da4d688d5a0a1
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger-bootstrap	2.14.0-alpha		17170eed84b3e86e92380691b4ba11adfc2b24e9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger-bootstrap	2.15.0-alpha		451fd47eb11f441a6c13717f6a6fcfea43f3683f
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger-bootstrap	2.16.0-alpha		c9da1d00d4ae26d9cc048373b0ac5bc8609245e5
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger-bootstrap	2.2.0-alpha		4b76726f8104734781969580bbb67cafa6f5ad3a
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger-bootstrap	2.3.0-alpha		7ab5dd998ffce6bb49cc8a6ada958a23f6a33b46
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-application-logger-bootstrap	2.4.0-alpha		7364346c63dd9d16298898ddbca662a9e79705b2
@@ -2068,6 +2079,7 @@ org.apache.camel	camel-ldif	4.8.3		26ed13645c7f17f767f8b09df56f2aa37b51bd73
 org.apache.camel	camel-ldif	4.8.4		9a89b6d2573b60bdf25ecb411a0d67bb90675496
 org.apache.camel	camel-ldif	4.8.5		574b78f0cd62259d85b8493291f4a1b42c549373
 org.apache.camel	camel-ldif	4.8.6		622d2b1bb91dc8ae245623f02085509e477141d2
+org.apache.camel	camel-ldif	4.8.7		14be3bc08a0b177c0be461d33db2155077a81ba5
 org.apache.camel	camel-ldif	4.9.0		aa4898d55cde6cada28c13b83f13a973a744059d
 org.apache.flink	flink-streaming-contrib_2.11	0.10.0		703f156a9a605bceda2f843508359f65adfbe528
 org.apache.flink	flink-streaming-contrib_2.11	0.10.1		22e5fd8aa2ec49ed2a85a5f6dbbfcd99027377ba
@@ -2301,6 +2313,8 @@ org.keycloak	keycloak-saml-core-public	26.1.5		331d605636d64b397f47fdfc33db9e2ba
 org.keycloak	keycloak-saml-core-public	26.2.0		072103c9bd83797b617c0c492366f3fed6cd3648
 org.keycloak	keycloak-saml-core-public	26.2.1		f4348687c942cfbadc33cb7373062a247e5b8166
 org.keycloak	keycloak-saml-core-public	26.2.2		067f6de4f3436cce1027a9469499436526fdfef1
+org.keycloak	keycloak-saml-core-public	26.2.3		455cf8a1dabd26a4311039573fdca3c41222afe3
+org.keycloak	keycloak-saml-core-public	26.2.4		c12a5e827c0749d623ee685c6ba5d160b85c8cef
 org.keycloak	keycloak-saml-core-public	3.0.0.CR1		9e098da44443dd48ee3bb3ea308b32f01bfe9e16
 org.keycloak	keycloak-saml-core-public	3.0.0.Final		3ad61bf10cb43fa29e2e7e65e363ee29ca8ef9fc
 org.keycloak	keycloak-saml-core-public	3.1.0.CR1		8cabaa4353d5b606df63a4bc2dacc4f30a8ff022
@@ -2857,6 +2871,7 @@ org.scalameta	mtags_2.13.13	1.4.2		d1f606a7864dc92a255af913739278436b4ab58f
 org.scalameta	mtags_2.13.13	1.5.0		d53f3fbd88a3f10f14e29b102e394140f6d88ac2
 org.scalameta	mtags_2.13.13	1.5.1		cc6a4dda200af27a1b66fe20ddad39f8d1b8d2b2
 org.scalameta	mtags_2.13.13	1.5.2		3bc9c70aa624919733fb9034a42ffb9f4c3fc364
+org.scalameta	mtags_2.13.13	1.5.3		ad18890c6c0931a17ec75e2920bff894054b3829
 org.sonarsource.java	java-jsp	6.10.0.24201		cb4c263f8136481692e39e56d59be1b8feb4f736
 org.sonarsource.java	java-jsp	6.11.0.24617		17bc4c3e0052f26eea1a67cc5cba04d9bc0bc073
 org.sonarsource.java	java-jsp	6.12.0.24852		54565dc3eef01ff7eb8db5c862dc15738a48a077
@@ -2920,6 +2935,7 @@ org.sonarsource.java	java-jsp	8.10.0.38194		65edbc3b13e3ab16ceadd7707b46c6300455
 org.sonarsource.java	java-jsp	8.11.0.38440		f5890b92b525c85a5a5f8e5c24bbd6bb452a7a6b
 org.sonarsource.java	java-jsp	8.12.0.38599		451f3e910e48abae2f7013cf14fd97bd480cefa8
 org.sonarsource.java	java-jsp	8.13.0.38826		fa0a19f6bb2d612820ac0969c7c0da6422340cb6
+org.sonarsource.java	java-jsp	8.14.0.39102		23c25d5492fec6f43a62bd146ed0c962120ab316
 org.sonarsource.java	java-jsp	8.2.0.36672		7311423289441a0a89b11268a173e17c92dcdfc8
 org.sonarsource.java	java-jsp	8.3.0.36747		22f31f0cf2cc7ea9485681aa1fa531a728588351
 org.sonarsource.java	java-jsp	8.4.0.37032		2a4916db89327e22e37877b797e277314e72175f
@@ -2991,6 +3007,10 @@ tz.co.asoft	lexi-file-jvm	3.0.6		eab41f0d80eb3f039a4a0080693bdca32a43c1b3
 tz.co.asoft	lexi-file-jvm	3.0.7		c0dde06aec04a327be23696bb9e82129c449a4ad
 tz.co.asoft	lexi-file-jvm	3.0.8		c0dde06aec04a327be23696bb9e82129c449a4ad
 tz.co.asoft	lexi-file-jvm	3.0.9		c0dde06aec04a327be23696bb9e82129c449a4ad
+tz.co.asoft	lexi-file-jvm	3.1.0		26ce477ec03e90c0908f2d3cc4e20b3fabac6d44
+tz.co.asoft	lexi-file-jvm	3.1.1		26ce477ec03e90c0908f2d3cc4e20b3fabac6d44
+tz.co.asoft	lexi-file-jvm	3.1.11		26ce477ec03e90c0908f2d3cc4e20b3fabac6d44
+tz.co.asoft	lexi-file-jvm	3.1.12		26ce477ec03e90c0908f2d3cc4e20b3fabac6d44
 xyz.entangled	scotty_2.11	0.1.0		4e125da500da214be669d937c3772e6a3f67a5cf
 xyz.entangled	scotty_2.11	0.2.0		89f78ec11d0f71acedc19a6f968e590b1c0533a8
 xyz.entangled	scotty_2.11	0.3.0		6708e1020a31b1092a29efdba3040ee92b0eb235

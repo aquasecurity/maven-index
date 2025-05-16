@@ -396,6 +396,8 @@ com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.59.0		dd47f7d31487d6
 com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.6.0		61be6e38b12dd7d449277e0bdc8a950bc51281d7
 com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.60.0		ea13f8790aeb102f132ad4da180a706c70711ef3
 com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.61.0		4753119a7b79148079c131b27aa9ddef71dffe84
+com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.62.0		eed95a5a262f2d59c6ea37d2d4cef8ea6fa4cddd
+com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.63.0		c10697fc4e228e342452ef7d2d502c518a1ddb2e
 com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.7.0		06d5d2d91cc9dcbbf23a8502326b791a40582e8b
 com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.8.0		7839ecb200789434db9b8c05e22463fb9eaad991
 com.google.api.grpc	proto-google-cloud-apigee-registry-v1	0.9.0		678273e31366b422edcdbc46c37ea286459c94a8
@@ -639,6 +641,7 @@ io.github.panpf.sketch4	sketch-compose-desktop	4.0.2		fc6451c0e317593c92de2c7a67
 io.github.panpf.sketch4	sketch-compose-desktop	4.0.3		fc6451c0e317593c92de2c7a67ed844477e57331
 io.github.panpf.sketch4	sketch-compose-desktop	4.0.4		fc6451c0e317593c92de2c7a67ed844477e57331
 io.github.panpf.sketch4	sketch-compose-desktop	4.0.5		fc6451c0e317593c92de2c7a67ed844477e57331
+io.github.panpf.sketch4	sketch-compose-desktop	4.0.6		fc6451c0e317593c92de2c7a67ed844477e57331
 io.github.wolray	seq	1.0.0		446d06e58232f5cfcc05df1899b4aac3911ab4f4
 io.github.wolray	seq	1.0.1		4bd86b2385ace68e71d636a4f5cb407fa965fe67
 io.github.wolray	seq	1.0.2		256532f48cf63ea4459b2ee2861f37ee1ef0f575
@@ -713,11 +716,19 @@ io.spinnaker.kayenta	kayenta-wavefront	2.45.0		e98af4a174f871357325856a80f0a6420
 io.spinnaker.kayenta	kayenta-wavefront	2.46.0		b26be0c433d9dc8164ca41e29ff9097818aaa7b8
 io.spinnaker.kayenta	kayenta-wavefront	2025.0-0		5eeb1dc31f71203b60dc4dce1968b343a6264ba4
 io.spinnaker.kayenta	kayenta-wavefront	2025.0-1		5de1f7b59736c112575fdb50b678fecc3e88413f
+io.spinnaker.kayenta	kayenta-wavefront	2025.0-2		3cf2b8da62e38801af1623b785bba6f8cbd069c6
+io.spinnaker.kayenta	kayenta-wavefront	2025.0-3		33ec9c45f62eb2173a8af38724e97885db2435de
+io.spinnaker.kayenta	kayenta-wavefront	2025.0-4		26b06aae1d4f1ca636ea0723181b74c6eb2c239e
 io.spinnaker.kayenta	kayenta-wavefront	2025.0.0		ec9d74cd3b2b307612ff7a8a16ffd880dff72d23
+io.spinnaker.kayenta	kayenta-wavefront	2025.0.1		f9fbedb76d7c6f84a1057b264889c42e40d367fd
+io.spinnaker.kayenta	kayenta-wavefront	main-10		c59aa3588b4403d6098e37f2a1645fa5d3887d64
+io.spinnaker.kayenta	kayenta-wavefront	main-11		70e4397cb94ab38cc0d7b7bc693517b4a7095de7
+io.spinnaker.kayenta	kayenta-wavefront	main-12		6559506ac58d93bf441ec94007d0f5821055b3a0
 io.spinnaker.kayenta	kayenta-wavefront	main-5		225fbf630025085cf164e71be5078d4294f251d4
 io.spinnaker.kayenta	kayenta-wavefront	main-6		a85e417c8a4ca3a05bacbee49a1a52254d1eb109
 io.spinnaker.kayenta	kayenta-wavefront	main-7		f8c717b1777e482da2bb4f0bc2080659e82c53bb
 io.spinnaker.kayenta	kayenta-wavefront	main-8		4881c626fa68b17eb7bb1ab5e61026268aa300c6
+io.spinnaker.kayenta	kayenta-wavefront	main-9		e630a1de5749a33790e4f4771a7cfee4e758746c
 it.tidalwave.blueargyle	it-tidalwave-blueargyle-test-commons	1.0.0		8b5b2f28e4accdab0af421a9ac92292fbf8d206c
 it.tidalwave.blueargyle	it-tidalwave-blueargyle-test-commons	1.0.1		b3e5eb3a3149790ea00c42d80621bddea63fc43d
 it.unibo.collektive	test-tooling-linuxx64	10.10.0		N/A
@@ -1387,6 +1398,9 @@ org.http4k	http4k-template-freemarker	6.6.0.0		ec703d94ab02622a8a8b4b797c65c15b3
 org.http4k	http4k-template-freemarker	6.6.0.1		944db9748a9857b0ee3f1ebd704b65e2b8935b96
 org.http4k	http4k-template-freemarker	6.6.1.0		516c47861e8f8d480afe43f27294b576528d9802
 org.http4k	http4k-template-freemarker	6.7.0.0		f0be96b4b94da4555c256c8a0621540eb89b3b7f
+org.http4k	http4k-template-freemarker	6.8.0.0		38a418c8a6223e34c43dc2a6f1db9c4702d8a023
+org.http4k	http4k-template-freemarker	6.8.1.0		10298c61756d53ffc19308e240c8d1f163081f96
+org.http4k	http4k-template-freemarker	6.9.0.0		8baecf511aa33ef3eaedb836ba9fbfacc376d80a
 org.http4k	http4k-template-freemarker	v6.3.0.0		a32c16f73b2bb2ea94da8569f2addfce2dcc1b1f
 org.http4k	http4k-template-freemarker	v6.4.1.0		c7217ea7568a4805ddc3a516948b231a976e8c8b
 org.incode.module.minio	incode-module-minio-docclient	1.17.0		394a305be80f88524056f691922f98428d865cea

@@ -491,7 +491,16 @@ aws.sdk.kotlin	sms	1.4.73		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sms	1.4.74		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sms	1.4.75		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sms	1.4.76		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.77		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.78		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.79		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sms	1.4.8		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.80		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.81		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.82		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.83		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.84		a4f3606ab94d4513ab9375bc390cd84d5c65af32
+aws.sdk.kotlin	sms	1.4.85		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 aws.sdk.kotlin	sms	1.4.9		a4f3606ab94d4513ab9375bc390cd84d5c65af32
 city.smartb.f2	f2-spring-boot-starter-function-http	0.1.0		a3816a96bab36e4d16c2238373b5674861c93a26
 city.smartb.f2	f2-spring-boot-starter-function-http	0.10.0		65b90e713213159e331616d6f85a23e8c3858492
@@ -875,6 +884,7 @@ dev.zio	zio-aws-qapps_2.12	7.31.27.1		ed70b6176f88ae0624258d7f567dd14ab46d1913
 dev.zio	zio-aws-qapps_2.12	7.31.28.1		22296e7ab4d6106dd6f26d71d696682e0c0f2e77
 dev.zio	zio-aws-qapps_2.12	7.31.3.1		b364db95520bc3efaf42840c6a24d1829c821867
 dev.zio	zio-aws-qapps_2.12	7.31.30.1		de351aac572907263d97aa7254ab840eda969afa
+dev.zio	zio-aws-qapps_2.12	7.31.30.2		b7e47a3880660e7f56e51e865b026a62e48c1f6c
 dev.zio	zio-aws-qapps_2.12	7.31.4.1		066863a58a2315e0d52cbb06e6382e62492ddef8
 dev.zio	zio-aws-qapps_2.12	7.31.6.1		a40209ee133f0ac1dc42f738a43ae8bb0cafacb5
 dev.zio	zio-aws-qapps_2.12	7.31.6.2		1b2ab4f9c918cd32bed2f36ab088563191f6550b
@@ -1074,6 +1084,7 @@ io.sentry	sentry-opentelemetry-agentless	8.10.0-alpha.1		27cdb13f144d99b9204f704
 io.sentry	sentry-opentelemetry-agentless	8.11.0		bc2f88c40fd6920a1f4d0f1584805c444633edd3
 io.sentry	sentry-opentelemetry-agentless	8.11.0-alpha.1		a6868b4673126251cb1a7b383b619a66177c729d
 io.sentry	sentry-opentelemetry-agentless	8.11.1		623ec2546ab8c69a3c3092b42e9176086862687b
+io.sentry	sentry-opentelemetry-agentless	8.12.0		e9c3b4c42eefd9637c4ce0fe7ff62fceae12ae35
 io.sentry	sentry-opentelemetry-agentless	8.2.0		495f8f50419166e51be39f3a19b69d2a6873b7f6
 io.sentry	sentry-opentelemetry-agentless	8.3.0		7ef524c71c8bac84e593624fba507f1c6a823d85
 io.sentry	sentry-opentelemetry-agentless	8.4.0		7231708f47a37abf3f53d67b108f792f29c72f19
@@ -1361,6 +1372,7 @@ org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.2.1		b89082a741b673c501
 org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.2.2		5f186b5e11174e5ab3a5b8afd4c409bc96c12822
 org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.2.3		63f6640ccd427bf83fecb5cb0ca6159055aeb685
 org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.20.0		88f2c394832534de897f17de2bdcc7cf3284cf75
+org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.20.1		bf3f9bb9c6ffab0050688e7d67f66e5a68b08138
 org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.22.0		07aa4c6d0e8adf87f730410b4d1e9708d33a85c7
 org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.4.0		d315cf7d0207dfdeefabe53c9af6f26cb4781839
 org.apache.camel.quarkus	camel-quarkus-jaxb-deployment	3.5.0		769e17e6f6f3e1de0150c7dde430c16eed77ce97
@@ -1557,6 +1569,7 @@ org.apache.camel.springboot	camel-core-starter	4.8.3		db467b7a9f1739bd0b46f48e53
 org.apache.camel.springboot	camel-core-starter	4.8.4		726f4af63b5c86c1ad2dc95e402096c7864dc7a5
 org.apache.camel.springboot	camel-core-starter	4.8.5		88224e71c6f38fc1f096d295acf525d54ccafc3c
 org.apache.camel.springboot	camel-core-starter	4.8.6		9bd4c236bc3d7b4f828b87f1d06160225a21e351
+org.apache.camel.springboot	camel-core-starter	4.8.7		a294ea5eb975a75a9d066b7119ba4f8e9fd016e6
 org.apache.camel.springboot	camel-core-starter	4.9.0		363242440e4f5c74ae0221719f6ebc6311f6a81a
 org.apache.pekko	pekko-cluster-sharding_2.13	1.0.0		65cdb040a4eb0b0ffb6d30fc97504ef79149214e
 org.apache.pekko	pekko-cluster-sharding_2.13	1.0.1		03623cca0ce18fc67d234a6e5182d60c475824c9
@@ -1574,6 +1587,7 @@ org.apache.tuweni	tuweni-progpow	0.8.2		12b76930c9366aed559890a3f25adf4fea7d8b4b
 org.apache.tuweni	tuweni-progpow	0.9.0		f39cf6f14c37f2855f1806d77436ca07e66c0592
 org.apache.tuweni	tuweni-progpow	1.0.0		2cd3f036372ac01958233e8c08f488016734abff
 org.apache.tuweni	tuweni-progpow	1.1.0		54d3a570d9f7dfec67a183712cfe42afbc2e1a2c
+org.apereo.cas.support.cas-server-support-validation	5.0.0.RC2	support		9d382287881d747b069e8f92f29257b1b5efc4d6
 org.bremersee	common-base-servlet	1.3.0		7b87300b87eae40e8a9527012fabb728fae9dcc6
 org.bremersee	common-base-servlet	1.3.1		d6eff67f2e50c63d1f4affc72c5400f4844c05b8
 org.bremersee	common-base-servlet	1.3.2		c817ba9fcef291c75abb297c2c0c7038dca780a0
@@ -1627,6 +1641,8 @@ org.intermine	bio-postprocess-summarise-objectstore	5.0.7		ef1bc8e5899a45feed9bf
 org.intermine	bio-postprocess-summarise-objectstore	5.0.8		2ffdcf9adf47ac55bdd8d1dea80c9fb2fd5022ca
 org.intermine	bio-postprocess-summarise-objectstore	5.1.0		90411d0ad54fb4577e666247f78ad6e7ee918fac
 org.jboss.as	jboss-as-process-manager	7.0.0.Alpha1		f053727e15609aed47041651a91a6df6dd705305
+org.jboss.man.jboss-man	2.1.0.SP1-brew	lib		7a88a749bf24906bf0313fa50668103c5d9e87cd
+org.jboss.man.jboss-man	2.1.0.SP1-brew	lib		7d17293beded6eb5aa8e1b1432ef5f809f2ad84a
 org.jbundle.thin.base.screen	org.jbundle.thin.base.screen.activator	1.0.1		b5bbe438e3100b2d9bd9b176bd865c103a9e0222
 org.jbundle.thin.base.screen	org.jbundle.thin.base.screen.activator	1.0.10		0494646947979174fe14bf4f669033fecc05ea49
 org.jbundle.thin.base.screen	org.jbundle.thin.base.screen.activator	1.0.11		c30b6bf4233e460e9f132bf700d92a7bbf0d1c2e
@@ -2101,6 +2117,10 @@ org.jetbrains.kotlinx.dataframe	compiler-plugin-all	0.16.0-dev-6363		2c3d8514651
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	0.16.0-dev-6363	all	7ffdfacf1ba5b342d1237c9dd71961b9820b86b2
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	0.16.0-dev-6396		ff1f53303d82b7df8ba72482e2052685d2fb2bff
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	0.16.0-dev-6396	all	b64f0bad5123fcc49a41f44f9feb8b5c78535e0e
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-Beta1		869b6c74cb8161c98060a91784c477b8bc8c91e1
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-Beta1	all	5d66f9e158b0aa82a29c6a936f51a5e6af56364a
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-Beta2		813382d3ff8457e697bade6e35c241c67f25cd10
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-Beta2	all	364ad191073bc321b5195566bf1810980ae3d60d
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6428		b1258b1243ffd310c17e3e7b0e9daae52c3e3d5e
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6428	all	0e0ab258d7af018e844a8c1d70a11041af542128
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6444		2396c4effb4492a5c31d4c8bc35f275757e29778
@@ -2163,6 +2183,40 @@ org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6946		de61bc0bb65a
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6946	all	89201f5eb3593bc8881b82f64bf5498deb01b330
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6948		fb2b8fc15906a83dae8c3639ed8d8d7d485aa76c
 org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6948	all	2c946bb4883198bbc0c970e895103e4f50fd5a4d
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6971		41429377713702decf9690a7847783214328dafd
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6971	all	9c958f905d4a9813b896d91e418a8314569ae61d
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6984		c371cba25be777046d81f9afa312bb196751bc05
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-6984	all	a3987c887a13334927cbac99decadbc20512ad3e
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7011		95a87f6dc3369d62ca72842d9ffc3884745f36d6
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7011	all	3b1087a497c691938b464e05da818d8b530d20ac
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7018		b5c641d65b652a5d11da73c77d4a75ab084df642
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7018	all	76c1a9914eefb8ca6e69022050b077a89c69a6e4
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7072		70919ee6edddb57c77a2c0549972eacf9df657a8
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7072	all	c04e2eefe0ae5dfc55e9ecacaf814999a88b29fc
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7077		22ce8702c62860c5947bc48a6d2274926a4a3dd6
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7077	all	e382b5b2282d5d73b39daf3135ab337d0adfc268
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7080		08891f510eae08398fcd555ba0f424d032937779
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7080	all	0d1c73fece8c67fdc0d68a9700f6364f90ded70d
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7089		8fadd20728880a93b64966f39fbc0519b5129aef
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7089	all	5ba9d44e42f40a21bea6301b4a4c1c2c57067586
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7095		915a5e508663c2cac3c83321de5255ce79ca244b
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7095	all	06b2754f706dc5d36d55b3db73b93dd9a0ff591b
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7098		b154245c693c69c61a4f1e7a354ac25782d4a3a3
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7098	all	535761ab4a0778f23ff37e35459c9e975dae28ef
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7100		1760818e706743046c4c62ab8a2501a1905443d8
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7100	all	50310f5419b13a17b395c7a94e87a36807eced0a
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7127		8be31ff9d2ec828f2e4850bcbe5f2016616ea394
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7127	all	f0b9f6288d89c94f127c378f8c192dd62d4fd6c5
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7128		d57f572b2903abd822529ea2204316f6ec6f65bd
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7128	all	36221d8904787bd55582f0debec5e5650fe9156d
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7164		727d928691b9f226946c2ed3d5c74310a342e26e
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7164	all	e514ccd5fd15fd3a7b667b2e0a0d3dd11b1c37d0
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7185		08dd59accba639c5a191aebd92d2b6d7178bfadc
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7185	all	eccbbc9139fd2f0c82cd8c357ba314b97049276c
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7194		437605bdef82d2aa8b1ea81712f7c2a9b35ffed0
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7194	all	3f020dd98b303c7666979a8b6a79f49ea112d1d0
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7196		c8a3053cf36304a90c8efe0da22ca6ac3ebb1d5e
+org.jetbrains.kotlinx.dataframe	compiler-plugin-all	1.0.0-dev-7196	all	45033e2e5f622f347a0de447882386067f4cda84
 org.ktorm	ktorm-support-mysql	3.2.0		95c6d71f3ee74dc227b08e338d349f782a572337
 org.ktorm	ktorm-support-mysql	3.2.0-RC1		76087a70f9d3a168bd8481bfa72d4178e71c347b
 org.ktorm	ktorm-support-mysql	3.2.0-RC2		5714ea91dd89bf020f4262e30877c2a649293a0c

@@ -11,6 +11,7 @@ ai.konduit.serving	konduit-serving-models	0.0.2		N/A
 ai.konduit.serving	konduit-serving-models	0.1.0		N/A
 ai.konduit.serving	konduit-serving-models	0.3.0		N/A
 app.cash.sql-psi	environment	0.5.0		1800f2912821c893c920036d11fcf5972b5ea5ab
+app.cash.sql-psi	environment	0.5.1		f58d69c22d447f95325b62e359ee1cd7c4adfbe2
 app.simplecloud.controller	controller-shared	0.0.27-EXPERIMENTAL		056043968da1392aa0e1a1ec7071b731e1a4132d
 app.simplecloud.controller	controller-shared	0.0.28-EXPERIMENTAL		9d013e71665de1f2e190a5f8f7f3434df4cd702b
 app.simplecloud.controller	controller-shared	0.0.29-EXPERIMENTAL		3172ff97010b97c72778e08a55846cdba746c98c
@@ -218,6 +219,8 @@ com.google.cloud	google-cloud-certificate-manager	0.61.0		62aeb12beb949bbfcfdd9e
 com.google.cloud	google-cloud-certificate-manager	0.62.0		28ef3e6e67b33717fa87849eff548a97cf628d55
 com.google.cloud	google-cloud-certificate-manager	0.63.0		83065cd134bc231dc7206f6d4a449d8bebae4e0e
 com.google.cloud	google-cloud-certificate-manager	0.64.0		4d001db3cd51c38ab71c8bd099ffa4cb5db5d7b9
+com.google.cloud	google-cloud-certificate-manager	0.65.0		74a24e3a296232040527e59420bcaa826e22f69b
+com.google.cloud	google-cloud-certificate-manager	0.66.0		99b0e2acd47968e71663d870d34f749b6c20f8d0
 com.google.cloud	google-cloud-certificate-manager	0.7.0		fd8edc40f99de5aa1c0b6e297eec1915b83336fd
 com.google.cloud	google-cloud-certificate-manager	0.8.0		0f6fa8e0b4d931950866587cb8e7c34032b2ad6f
 com.google.cloud	google-cloud-certificate-manager	0.9.0		feef91e06b271e6f93cf261de5170fc0a0dbdfda
@@ -945,6 +948,7 @@ org.jboss.narayana.jts	narayana-jts-idlj	7.0.2.Final		a7676826167c15eb5d5100aae9
 org.jboss.narayana.jts	narayana-jts-idlj	7.1.0.Final		4d5ca2df17a5a23f85ade91acb0572694cc6a81f
 org.jboss.narayana.jts	narayana-jts-idlj	7.2.0.Final		168c469e2df23c0b41e3dec1cb63c02fc983dbb1
 org.jboss.narayana.jts	narayana-jts-idlj	7.2.1.Final		4d9f9c0b7feff1608510e3c41eacbc8e55c6ee6f
+org.jboss.narayana.jts	narayana-jts-idlj	7.2.2.Final		25e4bcdf15e18b1ff0176e58dc563ab025bfafad
 org.jbundle.app.contact	jbundle-app-contact-project	0.7.7		N/A
 org.jetbrains.kotlin	kotlin-util-io	1.3.50		6fdca94477606c2aa9e46cc6114d01b90b1282ff
 org.jetbrains.kotlin	kotlin-util-io	1.3.60		9bdde4dcd3abc782d7ff89ff49698bae3672b583
@@ -1060,10 +1064,12 @@ org.jetbrains.kotlin	kotlin-util-io	2.1.20-Beta2		585f19c4f02ae03c32f0480b7a8774
 org.jetbrains.kotlin	kotlin-util-io	2.1.20-RC		959340b63e6ef83bcd34ce3dd4a7d857a1c5dc5a
 org.jetbrains.kotlin	kotlin-util-io	2.1.20-RC2		921b8a808e4ab2cc5d0215db6bbf4f0f04c1a90c
 org.jetbrains.kotlin	kotlin-util-io	2.1.20-RC3		8be4600121319412a9f6b7e41dee14bd70d96a53
+org.jetbrains.kotlin	kotlin-util-io	2.1.21		80c19246623ef906226e22a9618d1b2e1048cfe6
 org.jetbrains.kotlin	kotlin-util-io	2.1.21-RC		602b55ee65c996f6f29d28ce6460687791fc2f4c
 org.jetbrains.kotlin	kotlin-util-io	2.1.21-RC2		fbc49186a74e2e3393e0761d6443fd7f85509534
 org.jetbrains.kotlin	kotlin-util-io	2.2.0-Beta1		b0ea9f02b6a6b2c740af4227e59f627884383660
 org.jetbrains.kotlin	kotlin-util-io	2.2.0-Beta2		e9caabef0d55c4bdd83ad380f29b4e8583d4f7aa
+org.jetbrains.kotlin	kotlin-util-io	2.2.0-RC		582139f6f1acbcca806f4859a4c577aeaf396c1d
 org.kie.kogito	data-index-storage-postgresql	1.10.0.Final		f70c6901ef452068bd145c7ef9674837cb1ff117
 org.kie.kogito	data-index-storage-postgresql	1.11.0.Final		55707a3f7fcf2c5802032854701c5e2844c234be
 org.kie.kogito	data-index-storage-postgresql	1.11.1.Final		5d2b07243c88a23bdfcc1c24a0923a782fea7cf7

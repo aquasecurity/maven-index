@@ -178,6 +178,10 @@ com.expediagroup.apiary	apiary-gluesync-listener	8.1.2		63c8e8a460c20b75a2267866
 com.expediagroup.apiary	apiary-gluesync-listener	8.1.2	all	c4bd24f74874b639f290d6b39af2da9c857545e1
 com.expediagroup.apiary	apiary-gluesync-listener	8.1.3		036f529317e9b995eff7f1db22a6348ebbc714ad
 com.expediagroup.apiary	apiary-gluesync-listener	8.1.3	all	ca5b9a6acee77e8996eb346fa0f504d9bc6e99e9
+com.expediagroup.apiary	apiary-gluesync-listener	8.1.4		9834e612c32273b9bb0b5c486ae8c909ff7f47cc
+com.expediagroup.apiary	apiary-gluesync-listener	8.1.4	all	c3761f0ac180e19d46d53b415d4519194f1429bc
+com.expediagroup.apiary	apiary-gluesync-listener	8.1.5		ff7584f5ca6e3ef3b0eaf0cd438e0d81b712cbe3
+com.expediagroup.apiary	apiary-gluesync-listener	8.1.5	all	c0704a83d0864e9029920f221e72c9a7fa8abfe8
 com.floragunn	ldaptive-webapp	1.1.0-fg-fork1		N/A
 com.github.adedayo.eclipse.sdk	org.eclipse.jdt.ui.tests.refactoring	3.12.0		5382e834549f79cf0023cfdbdfa40babff0df051
 com.github.criccomini	ezdb-api	0.1.5		d51333977a4d462143905e9cd1d8c0316d6f9d18
@@ -1099,6 +1103,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-class-loader	2.13.3-alpha		7f85ebcf57e648585d23b851983ff64eaff735d6
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-class-loader	2.14.0-alpha		13ed68d6cda9fc94781586cb9e2666813e51e2cf
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-class-loader	2.15.0-alpha		4bffe7d71464ae0799c57c3299807e5eb493f8cf
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-class-loader	2.16.0-alpha		ea72c0dda757f7b2900dccba0ed5d64d93ad6cb2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-class-loader	2.2.0-alpha		43dcca5010c99751e97f04b30850a9f540c867d9
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-class-loader	2.3.0-alpha		12a953825100929c7e4e13a12575ab08de184153
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-internal-url-class-loader	2.4.0-alpha		c4a20ed8b98e7f01baa9776ab90a763844961210
@@ -1514,6 +1519,7 @@ org.jesperancinha.plugins	omni-coveragereporter-maven-plugin	0.4.1		e02aac94cbc0
 org.jesperancinha.plugins	omni-coveragereporter-maven-plugin	0.4.2		678fee693cdc355ee693073271a2b83af0c7eaaf
 org.jesperancinha.plugins	omni-coveragereporter-maven-plugin	0.4.3		a21809af55a768321825c2ec1072307e0ae5baa2
 org.jesperancinha.plugins	omni-coveragereporter-maven-plugin	0.4.4		ad082a579e68d6bf360f1e7fc1a20acc7febfea1
+org.jesperancinha.plugins	omni-coveragereporter-maven-plugin	0.4.5		beb024e914c06a484915507eaa6e2492801514e4
 org.keycloak	keycloak-saml-wf9-adapter-dist	1.6.0.Final		N/A
 org.keycloak	keycloak-saml-wf9-adapter-dist	1.6.1.Final		N/A
 org.kobjects.parserlib	core-iosx64	0.6.0		N/A
@@ -1588,6 +1594,7 @@ org.teavm	teavm-metaprogramming-api	0.10.0		0b4b8eab8bb8c18fd0940dcca4463f21700b
 org.teavm	teavm-metaprogramming-api	0.10.1		0b4b8eab8bb8c18fd0940dcca4463f21700bf607
 org.teavm	teavm-metaprogramming-api	0.10.2		0b4b8eab8bb8c18fd0940dcca4463f21700bf607
 org.teavm	teavm-metaprogramming-api	0.11.0		5f91e45a5c59936428af5d9e99856298aac21654
+org.teavm	teavm-metaprogramming-api	0.12.0		5f91e45a5c59936428af5d9e99856298aac21654
 org.teavm	teavm-metaprogramming-api	0.5.0		d6dd790580aed024c9e115dd097123667b7e8aab
 org.teavm	teavm-metaprogramming-api	0.5.1		778271a76080d2d1fe3c33767ebb520bce464596
 org.teavm	teavm-metaprogramming-api	0.6.0		a45f1fc6cb07dbf93d928eb4b26613d39d39b520
@@ -1655,6 +1662,8 @@ tools.jackson.jaxrs	jackson-jaxrs-xml-provider	3.0.0-rc2		18adf9480dcdb97c430432
 tools.jackson.jaxrs	jackson-jaxrs-xml-provider	3.0.0-rc2	no-metainf-services	f519299abf791364d6f01acf20264e9ee9ff11b9
 tools.jackson.jaxrs	jackson-jaxrs-xml-provider	3.0.0-rc3		ca47e0f30346ecff3a4e89707006d0254553144a
 tools.jackson.jaxrs	jackson-jaxrs-xml-provider	3.0.0-rc3	no-metainf-services	55a3a6c30a59631f5e761bfaf2c4aa52d7e7b8cb
+tools.jackson.jaxrs	jackson-jaxrs-xml-provider	3.0.0-rc4		dc7494513aa321359ffb153fa44c3e3a9027ccf0
+tools.jackson.jaxrs	jackson-jaxrs-xml-provider	3.0.0-rc4	no-metainf-services	8df75d011809473e1ffd86d7725b752bb65a0ab2
 top.uhyils.usher	usher-common-hot-spot	2.1.0.3.usher		831439e7a172aab1a02982326768060873637225
 top.uhyils.usher	usher-common-hot-spot	2.1.0.4.usher		725e322a72f6bfc3f42b1cc0207a9946464497ee
 top.uhyils.usher	usher-common-hot-spot	2.1.0.5.usher		cea308f616b703c3c3a21952fe5c9f4795911bb5

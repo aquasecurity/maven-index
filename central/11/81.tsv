@@ -60,6 +60,8 @@ com.expediagroup.apiary	apiary-receiver-sqs	8.0.2		3ad08745a18f87d4451cf75ff68de
 com.expediagroup.apiary	apiary-receiver-sqs	8.1.0		bb5d70fe39a8356ed7e9fa978f1911f10c1c38eb
 com.expediagroup.apiary	apiary-receiver-sqs	8.1.2		53726722d25da407a3c825f90e2d966bf5a0b4e2
 com.expediagroup.apiary	apiary-receiver-sqs	8.1.3		e9c8d83d49e54e2460680536ede261fcf48f89ac
+com.expediagroup.apiary	apiary-receiver-sqs	8.1.4		c822aaa2ce0f9b8d6ad1db6ec6915fef44b26619
+com.expediagroup.apiary	apiary-receiver-sqs	8.1.5		0f68da10d0c00074498a4ee1824bfb6f18f9a8d2
 com.facebook.airlift	configuration	0.185		1914a23bbfa8dd5cc6060624b6da0e889dea810f
 com.facebook.airlift	configuration	0.186		816107191599c1df04f92f9c3734ab9c67e2094c
 com.facebook.airlift	configuration	0.187		324f365701452abab00d6e656717d41f74d74e39
@@ -436,6 +438,7 @@ community.flock.wirespec.compiler	core	0.12.9		1955bde65fb2fd6b30eb320b711c47677
 community.flock.wirespec.compiler	core	0.13.0		769ef87d2ab766e9cc57342fadb85a794902997b
 community.flock.wirespec.compiler	core	0.13.1		769ef87d2ab766e9cc57342fadb85a794902997b
 community.flock.wirespec.compiler	core	0.14.10		64666c531234aabc6b02ec76b63988d184574179
+community.flock.wirespec.compiler	core	0.14.11		5f8bd6df9193cb5e805f6eb485396fb99c66a754
 community.flock.wirespec.compiler	core	0.14.3		de0121f65ca8eeb9eb4ce8e8b216cb7bd2d34e1c
 community.flock.wirespec.compiler	core	0.8.10		c981736dfb0627ecf39fa10f0c3055b9ae02ddaa
 community.flock.wirespec.compiler	core	0.8.11		8eeae87f01788f23ae3d783c0903f9b5c553a1d1
@@ -504,6 +507,7 @@ de.jensklingenberg.ktorfit	ktorfit-converters-flow	2.4.0		e11dbdf8ccfff9004ee84a
 de.jensklingenberg.ktorfit	ktorfit-converters-flow	2.4.1		e11dbdf8ccfff9004ee84a3a8a368caf4ce4bb3d
 de.jensklingenberg.ktorfit	ktorfit-converters-flow	2.5.0		e11dbdf8ccfff9004ee84a3a8a368caf4ce4bb3d
 de.jensklingenberg.ktorfit	ktorfit-converters-flow	2.5.1		e11dbdf8ccfff9004ee84a3a8a368caf4ce4bb3d
+de.jensklingenberg.ktorfit	ktorfit-converters-flow	2.5.2		e11dbdf8ccfff9004ee84a3a8a368caf4ce4bb3d
 de.musichin.ktlint.reporter	ktlint-reporter-jsonlines	1.0.0		92d5e081d61eb172f4abf386df3ac52062b45150
 de.musichin.ktlint.reporter	ktlint-reporter-jsonlines	1.0.1		9a4de7adf09dcef444675dfe92ee7cdb0138e7f6
 de.musichin.ktlint.reporter	ktlint-reporter-jsonlines	1.1.0		caa3a3bb431886e85d0172fcae2a08fc8066a67f
@@ -1123,6 +1127,7 @@ org.eclipse.jetty.ee9.demos	jetty-ee9-demo-jndi-webapp	12.0.7		N/A
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-jndi-webapp	12.0.8		N/A
 org.eclipse.jetty.ee9.demos	jetty-ee9-demo-jndi-webapp	12.0.9		N/A
 org.eclipse.milo	milo-sdk-client	1.0.0-M1		8159c050ac7923b36f99c64f57ffec3ba0d55a09
+org.eclipse.milo	milo-sdk-client	1.0.0-M2		d1f05a9805cede0f91741586ef2b50a5987205a3
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.0.1.21		882e0a7ab2eb2112bcfa5b5fed04e3e58b1e19f1
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.0.1.24		8df50c8122d79d6f108edf1d91c10716d6609471
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.0.1.25		992d9219977f844b06bc5308102765d15a3020ba
@@ -1655,7 +1660,16 @@ org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-419		ec5cc16b1a8cb8d
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-42		7c4c5bcfa885c82fc6f5e84138129afb67f90208
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-421		6fbc67fd2d5f281c0d382371a5c919aef32e115c
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-423		bf68dc8624651bc1a23fdd6a20cd385416a0ef03
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-424		b8b398bb351050c38610f1d1ebbbc9b6d22a69d5
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-426		0c08036575ac9df67ab4c6510d85b8f9f051302a
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-428		8304311d4978ab9312b35da904bbffeb6eef4713
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-43		ecd36c3d6158d7da9aee1eda7ae2880331f53a94
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-430		eb3de08c387b93358896b13ebd888ee13157c77a
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-435		90913fad69ab440d7f72400682c59a8be67cbd8d
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-436		e6d1ae24149a65c0d00a8a5f9be91a20e4ab73fc
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-437		6dfdaafa1a1aea6e9bb9f9286c24e718ce2989fa
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-438		508d2247efa161bcede371540df2a05443c78960
+org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-439		4f7118ea960fa969fc6bea6685ce7f00aec64da8
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-44		a3557da38b4a77866eb18ecc13dcf1de4815990c
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-46		289ec56ac6f7d4404a1528b8c4d240eef800fbdb
 org.jetbrains.kotlinx	kotlin-jupyter-shared-compiler	0.12.0-47		6ef16d9f3542e896894767079d4c2e0ed98d1bfd

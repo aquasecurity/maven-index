@@ -233,7 +233,15 @@ com.easy-query	sql-cache	2.8.13		b3bd2ce80b0e4d7e7c6ea17734aee4aca388c528
 com.easy-query	sql-cache	2.8.14		c0af38b7c77611939f068b5dc37cc17eefc71c35
 com.easy-query	sql-cache	2.8.16		850f8a880be971df4ad07e03c3ca9ccc96edf153
 com.easy-query	sql-cache	2.8.17		1787a948e5cdd92a00e59e3f9d101b435d342d1a
+com.easy-query	sql-cache	2.8.18		5c04a87351982a1a704dcbfa11db846315308077
+com.easy-query	sql-cache	2.8.19		9db2324a44b84dd30e0bcbc26364ff1cfce3065a
 com.easy-query	sql-cache	2.8.2		5f0e2ed4e29552c09f5d6ab1ece561a73778579a
+com.easy-query	sql-cache	2.8.20		1222cf1df769d188916d5536f8e836559b1cb2fd
+com.easy-query	sql-cache	2.8.21		6e9183dabec95a34caa797c6b7da308e24ac9a5e
+com.easy-query	sql-cache	2.8.22		55c062c1839ce0dc1906d18ede64e6bf20cff84f
+com.easy-query	sql-cache	2.8.23		80cbe6e603978f87499ee3c5f696ff99380397fb
+com.easy-query	sql-cache	2.8.24		2157bb0f19e4cdb648aa2ff4863986fd393a0241
+com.easy-query	sql-cache	2.8.25		89ea50218b82c2251618cd7a4d2a16e084bd88a2
 com.easy-query	sql-cache	2.8.3		e800f61d7afaa159128f4d6706442ad52d610d65
 com.easy-query	sql-cache	2.8.4		af0e13497c8aede058ba73654e5a32636154b35f
 com.easy-query	sql-cache	2.8.5		dc19328f94e246391135fae89511e8dc08c3c97b
@@ -1555,6 +1563,7 @@ com.trasier	trasier-client-opentracing-spring-interceptor-boot-legacy	2.2.4		c60
 com.trasier	trasier-client-opentracing-spring-interceptor-boot-legacy	2.2.5		e52aa2d6109c4cb512447cbd82ce843ce5f79e4f
 com.trasier	trasier-client-opentracing-spring-interceptor-boot-legacy	2.2.7		1330a18faa017964a2be9d7ac31da7037bbfea66
 com.trasier	trasier-client-opentracing-spring-interceptor-boot-legacy	2.2.8		56db6d11b246886883d6ccc83eefcca69926a780
+com.unhandledexpression	sbt-clojure_2.10_0.13	0.1		4a20d2554a443b75cdb52f84e2f16693bfe463fa
 de.alpharogroup	message-system-data	3.11.0		N/A
 de.alpharogroup	message-system-data	3.6.0		N/A
 de.dentrassi.eclipse.neoscada.hmi	org.eclipse.scada.ui.chart.model.edit	0.2.0		6fe8b2d53926b3072a534e3aa1942235ca081095
@@ -1832,6 +1841,7 @@ org.codehaus.sonar-plugins.dotnet.csharp	sonar-csharp-squid-plugin	1.4		14722c89
 org.eclipse.esmf	esmf-aspect-model-java-generator	2.10.0		abecf09fb163eb6ed843086f5d5ef88460ebfd8c
 org.eclipse.esmf	esmf-aspect-model-java-generator	2.10.1		68fc13a0d4f7f5b2b2022387582830fa947b5625
 org.eclipse.esmf	esmf-aspect-model-java-generator	2.10.2		b1222928c876237c5770d91cfb53ff7701062820
+org.eclipse.esmf	esmf-aspect-model-java-generator	2.10.3		51d4bd413d82ff87ed90ead9f87ea08367aafde4
 org.eclipse.esmf	esmf-aspect-model-java-generator	2.2.0		e6c11645e3ee3950b6bbf8802fbd75a74b5eb42a
 org.eclipse.esmf	esmf-aspect-model-java-generator	2.2.1		8ab8374640757649d5d323552007c74f25ed001a
 org.eclipse.esmf	esmf-aspect-model-java-generator	2.2.2		49a3b715d502830407079a071b49f25dae0df249
@@ -2258,6 +2268,8 @@ org.jetbrains.kotlin	kotlin-stdlib	2.1.20-RC2	common-sources	cdd8e131e06dc6d9433
 org.jetbrains.kotlin	kotlin-stdlib	2.1.20-RC3		48da717885e7805075cb2428d76417ad1a76cd01
 org.jetbrains.kotlin	kotlin-stdlib	2.1.20-RC3	all	919751264e79f13e6ec79f4eef1d5222e6520d31
 org.jetbrains.kotlin	kotlin-stdlib	2.1.20-RC3	common-sources	cdd8e131e06dc6d9433c36e99105df81138b01f4
+org.jetbrains.kotlin	kotlin-stdlib	2.1.21		97a0975aa19d925e109537af60eb46902920015c
+org.jetbrains.kotlin	kotlin-stdlib	2.1.21	all	919751264e79f13e6ec79f4eef1d5222e6520d31
 org.jetbrains.kotlin	kotlin-stdlib	2.1.21-RC		cf594ffd06d28fb461196daf2db7d4cc973ea071
 org.jetbrains.kotlin	kotlin-stdlib	2.1.21-RC	all	919751264e79f13e6ec79f4eef1d5222e6520d31
 org.jetbrains.kotlin	kotlin-stdlib	2.1.21-RC	common-sources	b317c7ad3f67cb3aae97f2eff17207fc6c88d4b0
@@ -2270,6 +2282,8 @@ org.jetbrains.kotlin	kotlin-stdlib	2.2.0-Beta1	common-sources	1728c0c9ac99b83a84
 org.jetbrains.kotlin	kotlin-stdlib	2.2.0-Beta2		b9559e83bffad2cd9df84cf69fadee98f27ccc1f
 org.jetbrains.kotlin	kotlin-stdlib	2.2.0-Beta2	all	522665abb46d1db80e7ba31fa64bdc9173876ca8
 org.jetbrains.kotlin	kotlin-stdlib	2.2.0-Beta2	common-sources	4d664044722a6a05bf264be1a6c5b0e099070a12
+org.jetbrains.kotlin	kotlin-stdlib	2.2.0-RC		39c885685409c691458cc261ea8708e62adb2b43
+org.jetbrains.kotlin	kotlin-stdlib	2.2.0-RC	all	522665abb46d1db80e7ba31fa64bdc9173876ca8
 org.kaazing	specification.x-kaazing-idle-timeout	1.0.7		e4b50990670d06003bf19d57c6afbff63e5a846a
 org.kaazing	specification.x-kaazing-idle-timeout	1.0.7-RC001		3d07b22bca5d51b6969c4c80d48beb524a86dd26
 org.kaazing	specification.x-kaazing-idle-timeout	2.2.0		b2312b1905a022afa2214b1b084f79ddccbf58b6
@@ -2715,4 +2729,8 @@ tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.0.8		N/A
 tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.0.8	metadata	1d735a51a7ae6accd5efdad83e84f80cb4412812
 tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.0.9		N/A
 tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.0.9	metadata	f1d7bbacbf4fd20eb094ecf043412dc9c969856e
+tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.1.0	metadata	131fa569916f14aef54237c99a3e1f244f873a29
+tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.1.1	metadata	d95f578161498c1ab716b8a691eafa76a13d83f7
+tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.1.11	metadata	4286229f60195bec77fe941356d1373c8aba7971
+tz.co.asoft	kommander-coroutines-iossimulatorarm64	3.1.12	metadata	474f27d31b6c6ed36f4227666429315be7768b4a
 wiki.hadoop	bigdata-kafka-log4j-appender	1.0.0		c0a4429ca69182966db6e07863769dfc70661fc6

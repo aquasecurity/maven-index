@@ -667,6 +667,7 @@ com.kedauis	framework	1.0.6		N/A
 com.kedauis	framework	1.0.7		N/A
 com.kedauis	framework	1.0.8		N/A
 com.kedauis	framework	1.0.9		N/A
+com.liferay	javax.ccpp	1.0.JAKARTA-LIFERAY-PATCHED-1		ac6ada9d2b71e98672171727e61d22ed652ba991
 com.maciejwalkowiak.spring	wiremock-spring-boot	1.0.0		9289047474e7871632e1adbb0059ec986fc5e2b0
 com.maciejwalkowiak.spring	wiremock-spring-boot	1.0.1		15b3f9719803a785d5f6bf787dd4e071c7bb52f0
 com.maciejwalkowiak.spring	wiremock-spring-boot	1.0.2		72ea94f11d156fe97bcaed60d18ebe613abe547c
@@ -731,6 +732,7 @@ com.solace.connector.core.transform	pubsubplus-connector-transform-expression-ge
 com.solace.connector.core.transform	pubsubplus-connector-transform-expression-generator	2.14.4		24748a4aac8e09307c6923aa8391105a22fd30e4
 com.solace.connector.core.transform	pubsubplus-connector-transform-expression-generator	2.15.0		c7afd7ee51c6eae9d8040d6c905076ef2756ef6e
 com.solace.connector.core.transform	pubsubplus-connector-transform-expression-generator	2.15.1		50eaee0b6761ef6ab6c3703106d1c6f282dd3c5f
+com.solace.connector.core.transform	pubsubplus-connector-transform-expression-generator	2.15.2		8920595d543e85b949dc6a6d47c82d118942e732
 com.solace.connector.core.transform	pubsubplus-connector-transform-expression-generator	2.9.0		808ea072ba2b4ee262d7b24d134676cc777e2531
 com.soundcloud	twinagle-codegen_2.13	1.4.3		3485bc5b4951d18b5b0ba143f52030bdaa46cd47
 com.sparkjava	spark-template-mustache	1.0.0		4ec9af139064124fc8d1b65524262bfb124b0422
@@ -887,6 +889,7 @@ io.deephaven	deephaven-extensions-jdbc	0.37.5		07bf1887dc73b2008371d4812b71296ef
 io.deephaven	deephaven-extensions-jdbc	0.37.6		e7511227522358bae1ca6b01e6d2ba148bce1e29
 io.deephaven	deephaven-extensions-jdbc	0.38.0		e4b0ffca8fe40caea01dc0302144a030541eae66
 io.deephaven	deephaven-extensions-jdbc	0.39.0		4cc5813627c81b9d582cff76eb9003dd6ce28466
+io.deephaven	deephaven-extensions-jdbc	0.39.1		3d5139583b14766508f35b0011c33aa7273f8918
 io.gitee.mcolley	swak-mybatis	2.3.1		104716f8f183a7bb9339ea2372abd2943760cbb8
 io.github.cactacea	utils_2.12	19.11.0		c08310e4a50262c78291f874d67956220d9a596b
 io.github.cactacea	utils_2.12	19.3.3		5638ca5330d533d0b5cf62145ed86b18a16c3a38
@@ -1099,6 +1102,7 @@ io.quarkus	quarkus-container-image-docker-common-deployment	3.15.2		a5d47666f1e4
 io.quarkus	quarkus-container-image-docker-common-deployment	3.15.3		9df4ca5bbb15c94ab3a21d32cc67384774c4abe2
 io.quarkus	quarkus-container-image-docker-common-deployment	3.15.3.1		15b193be7ca5d4f4bd978dcf54fab6d6a8df76b2
 io.quarkus	quarkus-container-image-docker-common-deployment	3.15.4		783d47b35e8066aae8698b22318fa3db27242e97
+io.quarkus	quarkus-container-image-docker-common-deployment	3.15.5		e49edc61f111c8a5ef495be9490a830ae5f9a201
 io.quarkus	quarkus-container-image-docker-common-deployment	3.16.0		778b9e3aeb20ec94930923f38bba81a3eede0fa1
 io.quarkus	quarkus-container-image-docker-common-deployment	3.16.0.CR1		ba61b36b9a42b0b6ae8aa5d31f6283b173cf341e
 io.quarkus	quarkus-container-image-docker-common-deployment	3.16.1		b35500a9212f0c7d360dbe6d2e125d67b42177ae
@@ -1129,6 +1133,7 @@ io.quarkus	quarkus-container-image-docker-common-deployment	3.19.3		6ecc1605d9cd
 io.quarkus	quarkus-container-image-docker-common-deployment	3.19.4		fd7181799fc1e1ebddbbfe29d5605eeceb205c33
 io.quarkus	quarkus-container-image-docker-common-deployment	3.20.0		bd1c9467274e421dd8dd46b2a3365c43eba5e5fb
 io.quarkus	quarkus-container-image-docker-common-deployment	3.20.0.CR1		d309b4953a8c98c02fd3d6fde9226fb498951805
+io.quarkus	quarkus-container-image-docker-common-deployment	3.20.1		c6daad16ac03aed9b409a13c06b4eb34e53d8467
 io.quarkus	quarkus-container-image-docker-common-deployment	3.21.0		403e622473e0b97a20e791e8316f2c34e4421db7
 io.quarkus	quarkus-container-image-docker-common-deployment	3.21.0.CR1		74800946e6150996b99ef91257d9f4cd0148d882
 io.quarkus	quarkus-container-image-docker-common-deployment	3.21.1		f6147466d2e12341fe5d1a415721852da7eaf95b
@@ -1138,6 +1143,9 @@ io.quarkus	quarkus-container-image-docker-common-deployment	3.21.4		8223200c6368
 io.quarkus	quarkus-container-image-docker-common-deployment	3.22.0		a48d7ef339156a4ccfa61610af86db130335c828
 io.quarkus	quarkus-container-image-docker-common-deployment	3.22.0.CR1		570fde32b8325601824f6c8022025cb9cf808e69
 io.quarkus	quarkus-container-image-docker-common-deployment	3.22.1		2800916653b60d5f03ad244137cfa7dabb0392c2
+io.quarkus	quarkus-container-image-docker-common-deployment	3.22.2		ab2322e3e5ca2d10a65598580594845438ec18a4
+io.quarkus	quarkus-container-image-docker-common-deployment	3.22.3		de29c22657edfda17b2281d7e431cc834edc13d6
+io.quarkus	quarkus-container-image-docker-common-deployment	3.23.0.CR1		eab08220baf3aa361e755854471a5a51d8457e6c
 mule	mule-extras-jotm	1.0		1557885af20ef18d2ab96eed0392b22cc12c27b5
 mule	mule-extras-jotm	1.0-rc3		f098e7283821e66647359cc5667d775ed01f9bfa
 mule	mule-extras-jotm	1.1		16fa5ce1655a32c9e9f682915c40536cd89a8852
@@ -1159,6 +1167,7 @@ org.apache.flink	flink-cdc-pipeline-connector-paimon	3.1.1		d7bbc8bd27c3cdd2af90
 org.apache.flink	flink-cdc-pipeline-connector-paimon	3.2.0		10847e6c8bfc141271d5f4adcf56f51ef33818c9
 org.apache.flink	flink-cdc-pipeline-connector-paimon	3.2.1		efaf4fcbae041e2aff5b02f978e3de8379298454
 org.apache.flink	flink-cdc-pipeline-connector-paimon	3.3.0		b6dc0adf676b911f700967b99bc1747b2b6fea1f
+org.apache.flink	flink-cdc-pipeline-connector-paimon	3.4.0		fc23bc8fe1bad63a94d34dfca416706363b3f8f5
 org.apache.fluo	fluo-recipes-test	1.0.0-incubating		b9bdc35694621463c9bdf12530aa791d89fe0db4
 org.apache.fluo	fluo-recipes-test	1.1.0-incubating		e13a0543b87b3108962cecf93c6f4e70b65d2c60
 org.apache.fluo	fluo-recipes-test	1.2.0		b688aaf63b87bee98fc2a6fdec9b3c99d7e6c28d
@@ -1450,6 +1459,9 @@ org.http4k	http4k-connect-gitlab	6.6.0.0		3d8ab5c2c7e4ceb01905126ef8ac78136d6df9
 org.http4k	http4k-connect-gitlab	6.6.0.1		091f844e8bde37a722967bcd66cc5f2e2635717a
 org.http4k	http4k-connect-gitlab	6.6.1.0		f552f992dd6d8852fe487216d59ac187cd9a7a45
 org.http4k	http4k-connect-gitlab	6.7.0.0		45716e270d40f1cfcdaa90c57689fae8f8aeeaff
+org.http4k	http4k-connect-gitlab	6.8.0.0		013d3b26e88c6e70462703e144456d94da22d5ea
+org.http4k	http4k-connect-gitlab	6.8.1.0		a06c213c20fd00be2f32bd7efe58c4ca7917db4e
+org.http4k	http4k-connect-gitlab	6.9.0.0		68e751b2b9e8b0078cd4783da58603f30c44bffd
 org.http4k	http4k-connect-gitlab	v6.3.0.0		52aacc38aca8e7025432043dcba009b67b37f7b7
 org.http4k	http4k-connect-gitlab	v6.4.1.0		a4139fce3fed0573520d65f66812fedf18777293
 org.jboss.as	jboss-as-jsf-injection	7.2.0.Final		8753f8b4de9f66c5008a7c3c1cb2c9b3767ac3c3

@@ -343,6 +343,7 @@ dev.mbo	kotlin-encryption	2025.4.1		c667bf9bcfafe164e0f6d31da5fdb8f81cf5b89c
 dev.mbo	kotlin-encryption	2025.4.2		0e41e12679631aea4b84f3d9a9dae0d4516efb68
 dev.mbo	kotlin-encryption	2025.4.3		50c2b17d574bd094c97b90928de0436771d2b758
 dev.mbo	kotlin-encryption	2025.5.1		cdf2a9ee9d633ba4ee57de7dc0898ce98b63c80e
+dev.mbo	kotlin-encryption	2025.5.2		46b6cd6d6e5807e4efc518f185391a326fb95ef2
 hu.webarticum.holodb	values	0.2.0		16e21fc0422b07391ffeee0a38fb00b5e2ff97f6
 hu.webarticum.holodb	values	0.3.0		2249a42f6c446a60ec4a4ae7010ab4082cf7903a
 hu.webarticum.holodb	values	0.3.1		d487f873489e8dd6afae1de05ea85caae9b15b08
@@ -686,6 +687,7 @@ io.quarkus	quarkus-datasource	3.15.2		5da192f58eaea9340e3eec15cb27a14dc76ed021
 io.quarkus	quarkus-datasource	3.15.3		ae13f1edab4bf33922235b0fd978b0af116a2798
 io.quarkus	quarkus-datasource	3.15.3.1		45b1eda96713de65dd42c2c9a64f9803e11af7f0
 io.quarkus	quarkus-datasource	3.15.4		e72375f72256a66bb6c8bd4c31a41f6755ba821c
+io.quarkus	quarkus-datasource	3.15.5		dcb3b640d26ff4beb69edc21e4ca3fa8f72c6226
 io.quarkus	quarkus-datasource	3.16.0		913796cbccbf339317ac57e6bc1a37a4497efe66
 io.quarkus	quarkus-datasource	3.16.0.CR1		cbf2c4bf76dec2e05e045e1a1692635ab94f72b7
 io.quarkus	quarkus-datasource	3.16.1		3c3db62a63f5631ac260e5ad1506e4b9105b6819
@@ -730,6 +732,7 @@ io.quarkus	quarkus-datasource	3.2.8.Final		b07d7f8aed4b8250e700fe525712754f1439f
 io.quarkus	quarkus-datasource	3.2.9.Final		a92dfffb05b3a82e54a7b5fddfe0d1089342f677
 io.quarkus	quarkus-datasource	3.20.0		1e4f1f3e4680a592a963aa8391c5f82784a4f246
 io.quarkus	quarkus-datasource	3.20.0.CR1		1c02cf8c81931b797065393e3e31080a04f10437
+io.quarkus	quarkus-datasource	3.20.1		ee516226e6ebeecaaad208bd4c9dc6832733c327
 io.quarkus	quarkus-datasource	3.21.0		db5fe23d3a1feaf79699ac191bb74205c259d112
 io.quarkus	quarkus-datasource	3.21.0.CR1		2511ae0f7debe0a3a9eddadd581e5f88c0dcd047
 io.quarkus	quarkus-datasource	3.21.1		5acbf3e00486cf76629478efa02fdf6559fa74be
@@ -739,6 +742,9 @@ io.quarkus	quarkus-datasource	3.21.4		601a13e61d2335b9e184ecb2129a04eb838fd747
 io.quarkus	quarkus-datasource	3.22.0		18c31936a3326abe60e6d39405f03ce08c117448
 io.quarkus	quarkus-datasource	3.22.0.CR1		cb19210c380eb64bfa15eb5b3fb47e6ffbc187fc
 io.quarkus	quarkus-datasource	3.22.1		5b2970add703e074f836e35472bbb438f71f75e8
+io.quarkus	quarkus-datasource	3.22.2		fd22fcb2718bf8739472a1cce864db6a8f717c1d
+io.quarkus	quarkus-datasource	3.22.3		c635460a2726e2e28db5c386689e66b52f790790
+io.quarkus	quarkus-datasource	3.23.0.CR1		b5b818eb9c70952f135691a3e2c4d4c748b2258c
 io.quarkus	quarkus-datasource	3.3.0		6ee4602ee9cf5a20228540fb562044e3b16d1252
 io.quarkus	quarkus-datasource	3.3.0.CR1		3ef08480c839ee7a7854c1c71dcddae33a615702
 io.quarkus	quarkus-datasource	3.3.1		375c4807c04955e453da558d833865e388e46354
@@ -947,6 +953,7 @@ org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.2.1		11bf526c138114
 org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.2.2		2767dcf905b6932ed9025deba46238515205314f
 org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.2.3		787ebe0f6daaf03894d0769bbd680d4934da614c
 org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.20.0		52051184c80b2a82a0eaa1a46ab3416d6e490637
+org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.20.1		f59926eebcc03f5b0418b6674534a0ed83d62000
 org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.22.0		2f07c90773ef88dc9735a2cd303b4339e4f4f45d
 org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.4.0		0ae49e14cd26b1ef47b2552f32ab87eeb15dd77f
 org.apache.camel.quarkus	camel-quarkus-aws-xray-deployment	3.5.0		18748f81d220c6842f41b3eed82b88ff33ae8d64
@@ -1134,6 +1141,7 @@ org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.19.0.80932		387adbce
 org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.19.1.80951		867eb07c19071de9b4382eaf3bc3cb1657860059
 org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.2.0.78029		3442fd7a39d689d25bb01271dbb5eef9b662e3e0
 org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.20.0.81055		cfb4c184426e47774eb2d8b18957796b87aae81d
+org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.21.0.81131		9707c3ac59eb20bcdf3c52ffade6f4daead06056
 org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.3.0.78427		ed30754a9908e3b348cc5a5ad220992a17265ab5
 org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.3.1.78456		ca6d746b04122fbada6c0815f26a4b4e82259cb2
 org.sonarsource.sonarlint.core	sonarlint-rpc-java-client	10.3.2.78498		edaae5d45d5eccd215a5ca5904bef25fe81fc972

@@ -402,6 +402,9 @@ com.nimbusds	oauth2-oidc-sdk	11.23	jdk8	7926da3339a05290624a44ce5a718779bef228de
 com.nimbusds	oauth2-oidc-sdk	11.23.1		17facb3e3fa9e048f87b34c706e1163cad660e6d
 com.nimbusds	oauth2-oidc-sdk	11.23.1	jdk11	673bf1d3748edd927155bce7b0498ccfa2582245
 com.nimbusds	oauth2-oidc-sdk	11.23.1	jdk8	657b065bbfafa1d741f726e08dbac33931eaf240
+com.nimbusds	oauth2-oidc-sdk	11.24		ab39d1cf1549ba10de4eaa8d724ab945f01e9da8
+com.nimbusds	oauth2-oidc-sdk	11.24	jdk11	f0140b1a38e1702844cbd445c246ac6b674f9fc2
+com.nimbusds	oauth2-oidc-sdk	11.24	jdk8	4fc4c74983a65f15ab5e8d00d6a1067beb1c970d
 com.nimbusds	oauth2-oidc-sdk	11.3		c5dbe3f2fe685ee270d91c14fa1236d0a5d57d43
 com.nimbusds	oauth2-oidc-sdk	11.3	jdk11	703a13362134f0f9a8d9d84cb00e2ad9775263b6
 com.nimbusds	oauth2-oidc-sdk	11.3	jdk8	fdeaf382beff5853f62f7dae9edbe1be25dabd4e
@@ -1602,6 +1605,8 @@ com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.63.0		ff82
 com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.63.1		f05c7ee2ffba04d9ea8b313d735237690e19c421
 com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.63.2		e934d543a87d5cccffb31c2ee2601342d82cf3b5
 com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.63.3		4348bb8ebed636ff4291caa804c2bb26a0e8ead4
+com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.64.0		2f2814fea633ae9c82b50e821c72fbb0489436f6
+com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.65.0		0d54536aebd6c109c93badd74d70b0fef07c43ca
 com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.7.0		7af19bf5ef883735680cd314255843c2257393d7
 com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.8.0		57ca0ea780259afe650945d5be97e70920144c75
 com.oracle.oci.sdk	oci-java-sdk-addons-resteasy-client-configurator	3.9.0		82dde0e0feee6cf37701bdd38b429ecbebfa3cf9
@@ -1720,6 +1725,7 @@ de.jensklingenberg.ktorfit	ktorfit-annotations-watchossimulatorarm64	2.5.0		N/A
 de.jensklingenberg.ktorfit	ktorfit-annotations-watchossimulatorarm64	2.5.0	metadata	71f4aeb35224f747d4c7b10cc8286eb2424ca5ad
 de.jensklingenberg.ktorfit	ktorfit-annotations-watchossimulatorarm64	2.5.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-annotations-watchossimulatorarm64	2.5.1	metadata	36a9a77cb209a224ac913eb1be21537d2bd344fa
+de.jensklingenberg.ktorfit	ktorfit-annotations-watchossimulatorarm64	2.5.2	metadata	e743b2aca39d84414269db89a815a233e6463b64
 de.jensklingenberg.ktorfit	ktorfit-converters-flow-ktor-3.0.0-beta-2-tvossimulatorarm64	2.0.1		N/A
 de.jensklingenberg.ktorfit	ktorfit-converters-flow-ktor-3.0.0-beta-2-tvossimulatorarm64	2.0.1	metadata	5d24afb8b9d7ea9cb443c92381ed05b1b4ff2efc
 de.jensklingenberg.ktorfit	ktorfit-converters-flow-ktor-3.0.0-beta-2-tvossimulatorarm64	2.1.0		N/A
@@ -2015,6 +2021,7 @@ io.quarkus.qute	qute-generator	3.15.2		fcb36d085fe839db36fa9545b69742c3f88d0ce9
 io.quarkus.qute	qute-generator	3.15.3		7c248265c9d6890497571ad19510c7929b73b6a6
 io.quarkus.qute	qute-generator	3.15.3.1		e7756b16824bd55f5a9d2ad6bb115a76c5ef40e8
 io.quarkus.qute	qute-generator	3.15.4		767798d94c0a637f7f26c213a95b0ff86464e3e0
+io.quarkus.qute	qute-generator	3.15.5		51c3d7bedbbab0f57c1c5b30ea89a1e0c8185ee1
 io.quarkus.qute	qute-generator	3.16.0		59899192a867e894b7c9cb397eb10570695e6ce1
 io.quarkus.qute	qute-generator	3.16.0.CR1		75558ce3da5613033017b1c871ede99f990e8842
 io.quarkus.qute	qute-generator	3.16.1		a0b6ab3118e6eef4f8e46f3eb8b01155f71f2ff7
@@ -2059,6 +2066,7 @@ io.quarkus.qute	qute-generator	3.2.8.Final		4dfe2de37b73806a92b09d7c76c96eb2de3c
 io.quarkus.qute	qute-generator	3.2.9.Final		78601f8da727b08c896e34e19779c95c795994e4
 io.quarkus.qute	qute-generator	3.20.0		ac4bd3986db4c1cd44f01c9dbf6c02382e5d15c5
 io.quarkus.qute	qute-generator	3.20.0.CR1		9e30a0be6af402fa2c4199b1f9cadce8c6ebadd3
+io.quarkus.qute	qute-generator	3.20.1		30dad4600a6d10869f55683b891b7c2f0dabc340
 io.quarkus.qute	qute-generator	3.21.0		e80f7d8cc83572bbb20db2d0cd29cceda05f0962
 io.quarkus.qute	qute-generator	3.21.0.CR1		fa6195fbe066b7da4f5a2fc0406a43dccb60b489
 io.quarkus.qute	qute-generator	3.21.1		b14756019072e24a00ef06506860bc3eb0016881
@@ -2068,6 +2076,9 @@ io.quarkus.qute	qute-generator	3.21.4		9e88a08da238bb51f07162c8b579bb827e5aca45
 io.quarkus.qute	qute-generator	3.22.0		3756b8bc55f5bd143a1b44a10496e2b0783f80e4
 io.quarkus.qute	qute-generator	3.22.0.CR1		78b5c905ffc366dbfe29c9da3106c5ce54bbb2d8
 io.quarkus.qute	qute-generator	3.22.1		126a5a222136711e16a4a4b844205a91fdde908b
+io.quarkus.qute	qute-generator	3.22.2		b8c322e6cbf8cc7402340401d4f9830460618d93
+io.quarkus.qute	qute-generator	3.22.3		0a1fd704b471792a9196494b7b55f54743aff548
+io.quarkus.qute	qute-generator	3.23.0.CR1		10367f2d488595c378a90bfc97571ef805267847
 io.quarkus.qute	qute-generator	3.3.0		1bc89daeef9d9f136b2aa2b9d6ec935489d55368
 io.quarkus.qute	qute-generator	3.3.0.CR1		7ece988711847bc2a23235d41b043b86bb5e3b18
 io.quarkus.qute	qute-generator	3.3.1		d35f07624431696a3259699bc37b210a0e97d4a5
@@ -2239,6 +2250,7 @@ org.apache.camel	camel-yaml-dsl-common	4.8.3		16162b5f217d0b0326dc95d7977ad97ba5
 org.apache.camel	camel-yaml-dsl-common	4.8.4		482cedc306a867cacdfa720543e752a3fd723c93
 org.apache.camel	camel-yaml-dsl-common	4.8.5		4e21a3741187260d103077a6fe595c00fac74ac9
 org.apache.camel	camel-yaml-dsl-common	4.8.6		72f6d25935914c2f7aeabebfcf49ac04992d570f
+org.apache.camel	camel-yaml-dsl-common	4.8.7		3464b02a8a5a92f7d505cf2ca86249936562846b
 org.apache.camel	camel-yaml-dsl-common	4.9.0		b7c7bc161a6463054eedf5a13d2624a5bce7d21a
 org.apache.commons	commons-rng-sampling	1.0		9dfbd4b22a1beebf363d15e5bd2415d925ce2651
 org.apache.commons	commons-rng-sampling	1.1		921ccf3c38b04f0a3b25d9a8ec6fab89f2b95fb5

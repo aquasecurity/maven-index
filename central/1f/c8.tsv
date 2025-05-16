@@ -232,6 +232,12 @@ com.aliyun.odps	odps-jdbc	3.8.5		42b3517b8453fc65f846bacae7851fef1d9d2fa3
 com.aliyun.odps	odps-jdbc	3.8.5	jar-with-dependencies	b37e9ddd815beed7e70e6c91f452b09f0782e8d4
 com.aliyun.odps	odps-jdbc	3.8.6		ac83048bc20426100964db757dd1e376c06dd593
 com.aliyun.odps	odps-jdbc	3.8.6	jar-with-dependencies	673d2577885bc19394c9c60e1d132d949506a33a
+com.aliyun.odps	odps-jdbc	3.8.7		1ba8c5a50e8ccdb21892050b47689dc05880583c
+com.aliyun.odps	odps-jdbc	3.8.7	jar-with-dependencies	1fca5df015fb0653ecf68ce615bda2d49babf644
+com.aliyun.odps	odps-jdbc	3.8.8		7d2a1b548028349ec4c63c8f46fb756e24b3921c
+com.aliyun.odps	odps-jdbc	3.8.8	jar-with-dependencies	b43cadb74dccb40b3dba46fcef0fd9118cd3cbdd
+com.aliyun.odps	odps-jdbc	3.8.9		c8d0033587bae3ce9a3701dc60aa447ccf20189b
+com.aliyun.odps	odps-jdbc	3.8.9	jar-with-dependencies	287121f0403853fc6e8b8d6ebefb033eecbf50e7
 com.aliyun.odps	odps-jdbc	3.9.0		640c1a4d35349019d70d571b6cd7af1aeb6c7342
 com.aliyun.odps	odps-jdbc	3.9.0	jar-with-dependencies	7f3ad3b9df655915f834b4b8d0c1da1db4a9e7a1
 com.aliyun.odps	odps-jdbc	3.9.0-rc0		caa46d13d1e9f14fd517d9ed1b9a28ef8363b939
@@ -246,6 +252,8 @@ com.aliyun.odps	odps-jdbc	3.9.0-rc4		f68ae3787d1081e4539e29a8ccb3c34dba7c4f40
 com.aliyun.odps	odps-jdbc	3.9.0-rc4	jar-with-dependencies	a9a24f10367ec5d7ad95f39ac4f7165757b2bd19
 com.aliyun.odps	odps-jdbc	3.9.1		512d1678b9ee10a6ad0acda424acdffc22b9921b
 com.aliyun.odps	odps-jdbc	3.9.1	jar-with-dependencies	7e3e0988b0babebc0eaf92524aec16789f241caa
+com.aliyun.odps	odps-jdbc	3.9.2		fbaff0b787846315bba66c5d92f37640c2b5af58
+com.aliyun.odps	odps-jdbc	3.9.2	jar-with-dependencies	e898f9a5a6a42527ffea3c591e02676046c96d79
 com.github.cornerman	mycelium-pekko_2.12	0.4.0		2819061868038ce8128852fb35424c087ec6523e
 com.github.developframework	develop-toolkit-base	1.0.0		2868842b08871e8edd6bb03d8b7bc9c8757f3f96
 com.github.developframework	develop-toolkit-base	1.0.1		a379cfd808d67cd37cce1b4d4651dbc977d3e38d
@@ -1167,6 +1175,7 @@ io.helidon.common	helidon-common-crypto	4.1.6		ce76aebeafbdc79f352ac23c28f1e41a0
 io.helidon.common	helidon-common-crypto	4.1.7		9ac7324ca126af1abe305839ddf6ec86b81e32de
 io.helidon.common	helidon-common-crypto	4.2.0		435e9b3049fff2dcd89ae74123b121e14d8a2cfb
 io.helidon.common	helidon-common-crypto	4.2.1		65cff2b57f01998e7d46181171eaa48d5dbb782c
+io.helidon.common	helidon-common-crypto	4.2.2		6a0a7418b7a831b2e4fa453e647e5e0ac23b33a5
 io.ktor	ktor-server-partial-content-mingwx64	3.0.0		20937d6b49bfc42bc48a8f05450701de52fec6e3
 io.ktor	ktor-server-partial-content-mingwx64	3.0.0-rc-1		bc344eb54fd62c91f05dc42c3bb70e57567a2d32
 io.ktor	ktor-server-partial-content-mingwx64	3.0.0-rc-2		df268650b27c9f77a42df6828ca819f1df00ccaf
@@ -1176,6 +1185,7 @@ io.ktor	ktor-server-partial-content-mingwx64	3.0.3		e1920a4326917092a6be82257f6c
 io.ktor	ktor-server-partial-content-mingwx64	3.1.0		bb0dbee56b52b35d2d13503dd74097e73bb577b6
 io.ktor	ktor-server-partial-content-mingwx64	3.1.1		9fa7e3e5846241a00295470a70a956438bf553dd
 io.ktor	ktor-server-partial-content-mingwx64	3.1.2		d3d38c7784ff80ec0d510b7f4665a2105a6e9c97
+io.ktor	ktor-server-partial-content-mingwx64	3.1.3		db55e9776739d1fd7bf029ab3ee8c9f60813b081
 io.mongock	mongock-jdk17-parent	5.1.6		50252396be67482bde650aafe646f7706202bcd1
 io.mongock	mongock-jdk17-parent	5.2.0		N/A
 io.mongock	mongock-jdk17-parent	5.2.1		N/A
@@ -1273,6 +1283,7 @@ net.sourceforge.openutils	openutils-testing-junit	2.2.3		24e50d420756208a7f7aefd
 nl.littlerobots.cupboard-tools	requery-sqlite	0.3.0		N/A
 nl.littlerobots.cupboard-tools	requery-sqlite	0.3.1		N/A
 org.apache.openejb	org.apache.openejb.devtools.core	1.0.0.alpha		819cfffbd4c2cbb1ddbf57fc28d7e5bf38b3ea0f
+org.apereo.cas.support.cas-server-support-digest-authentication	5.0.0.RC2	support		5b03cd5aab8e81dbf39b7e2cac8a56948709fe4a
 org.blufin	blufin-blank	0.0.1		effb85318b68dae75d33ac49cbf4f1b9947c1e88
 org.codehaus.sonar-plugins	sonar-cas-plugin	0.1		e35ad123b344fe8802a6f06e058733cbe332780b
 org.crazyyak.embedded	yak-embedded-jaxrs	2.0.0		b1768e114f47e3fb0f26ee51116ad33e03d9ae72

@@ -93,7 +93,9 @@ com.google.cloud	google-cloud-servicehealth	0.25.0		a310e3a80c31a41a396e1e5f8652
 com.google.cloud	google-cloud-servicehealth	0.26.0		b382aa838376cc8e0c53a410f5a35362cd964fa8
 com.google.cloud	google-cloud-servicehealth	0.27.0		47f69e6758cfc37bb6cf3cff72d340097b9e8f7b
 com.google.cloud	google-cloud-servicehealth	0.28.0		bf59517233a40c5b849c51ccfa27f65127dff006
+com.google.cloud	google-cloud-servicehealth	0.29.0		50e193fb7fe85d208a69cf281c2d9a2b1638f467
 com.google.cloud	google-cloud-servicehealth	0.3.0		92025408687a9b30429480412f8a87b9b3abeec3
+com.google.cloud	google-cloud-servicehealth	0.30.0		ee606ad102e6e2dc444fbc0e5929a696b430cd0c
 com.google.cloud	google-cloud-servicehealth	0.4.0		e45b682d56d587d3b595fc5d080e2ad0fca67a3d
 com.google.cloud	google-cloud-servicehealth	0.5.0		717321a43452924a662d06e8a333f92ec1a109ab
 com.google.cloud	google-cloud-servicehealth	0.6.0		1a754cefcea2e5110eb8d3dd0098ef236dd44a7b
@@ -289,6 +291,14 @@ com.salesforce.datacloud	jdbc-core	0.25.5		51c4f588a7a231a2ea67d80a475e30779e488
 com.salesforce.datacloud	jdbc-core	0.25.6		96893b455c8d61cfd06a343118758e478da7f7fc
 com.salesforce.datacloud	jdbc-core	0.25.7		2e42f9756e57225d2a8ab2e7e23b5204c49cc76a
 com.salesforce.datacloud	jdbc-core	0.26.0		9bfa65461fe0cb2a4e574851b9c524165cb6c361
+com.salesforce.datacloud	jdbc-core	0.26.1		aab4d504a12411a6abe3d67ef0407c101ed1af53
+com.salesforce.datacloud	jdbc-core	0.26.2		09ba784ef59632c476e56859dcf528c22fdf50cc
+com.salesforce.datacloud	jdbc-core	0.26.3		694f65e8d1825eb72745610a67e4dccb48f2171b
+com.salesforce.datacloud	jdbc-core	0.26.4		c1aaca46a03df960a562e49f9ff52674737b9478
+com.salesforce.datacloud	jdbc-core	0.27.0		d3cef6f1c80a60ecb843ee1b5b2567da3e42b2f6
+com.salesforce.datacloud	jdbc-core	0.28.0		49c3ee6b255bfa09463362d8ec42d7c16a4db71d
+com.salesforce.datacloud	jdbc-core	0.28.1		5d5bd099fbe1c02c8867d3503e3fe4a53ee71661
+com.salesforce.datacloud	jdbc-core	0.28.2		14cc68f25eb6707d74ac7eeaa8dedda242921a51
 com.saucelabs	sauce_bindings_testng	0.1.0		745dd9cebc112e39433daa98abbfbf71a426d65f
 com.saucelabs	sauce_bindings_testng	0.9.0		46a6665257c8777c5bcc536ea2db1078a8327f10
 com.squareup.wire	wire-moshi-adapter	3.0.0		2967acf2ed1669fe534e2e4fa5a1cca907d11d86
@@ -918,6 +928,7 @@ dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.27.1		e422533625c4c3b2
 dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.28.1		5e7065b6755d83f2c43c2168c25b32f358429355
 dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.3.1		55ec280612f37154b65664abb3f7687944bfe396
 dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.30.1		dcf832625291ef3105299428a62cc0c7dbf00f22
+dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.30.2		cb6c56ffdf4518feee65cdf0d24b52d0b57447d8
 dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.4.1		a55acc475b6ff3214c523128ebdba865e8276f95
 dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.6.1		52cffde42fa6a5b85067addf7be223938f78de49
 dev.zio	zio-aws-serverlessapplicationrepository_2.12	7.31.6.2		9d098d1fdfc6e3c79e049662ec7157e27c93b800
@@ -946,6 +957,7 @@ io.continual	continualIamExamples	0.3.27		169fb690bb1c36f74a76585bed3c483d442412
 io.continual	continualIamExamples	0.3.28		27dcf3edcb85d74f072c0c1aa65271056519feab
 io.continual	continualIamExamples	0.3.29		18a4a811777149c7b2c0061abc18db5266914805
 io.continual	continualIamExamples	0.3.30		00bf9bd04ab6a2cee5e05e25bc11638daf9c774b
+io.continual	continualIamExamples	0.3.31		7265340ff44e52858c0adafcf1e0a7a51b10db57
 io.cordite.braid	braid-client	4.4.0		5ea0edfcf14c9eb93052b8eb12b18bbeeb28ce7b
 io.cordite.braid	braid-client	4.4.0-RC01		7b4466d207ec11e5200d7c630f5550fff0435739
 io.cordite.braid	braid-client	4.4.0-RC02		8d53e3151b2e0df0dd408118cf392f73a502010c
@@ -975,11 +987,26 @@ io.github.dfianthdl	dfhdl-plugin_3.3.0	0.3.4		a6a650ce5f9b697ec8aafca4ed3a4ad8f2
 io.github.dfianthdl	dfhdl-plugin_3.3.0	0.3.5		7465e4a3cab5c3078dbd17469d410370cd14b136
 io.github.dfianthdl	dfhdl-plugin_3.3.0	0.3.6		4a61b19d739c4a60744b53fe133ea0e7a445c1eb
 io.github.edadma	markdown_sjs1_3	0.0.1		38e30dbbcee53fb8cb470c7ac954e23f20b377d4
+io.github.edadma	markdown_sjs1_3	0.0.10		1905bf0dc02ef50e6cc655e7f9f6f7fe613914c8
+io.github.edadma	markdown_sjs1_3	0.0.11		70a14ab0e2ea086f9835f58a73e46d6f81070e99
+io.github.edadma	markdown_sjs1_3	0.0.12		ea1caaaae067cf503e108bc051e28c9d55d0f02b
+io.github.edadma	markdown_sjs1_3	0.0.13		135571a934891e6bb913951305b22ca4b2b4f284
+io.github.edadma	markdown_sjs1_3	0.0.14		427e63bb7ee448bcbd625132448c7079f1b164d4
+io.github.edadma	markdown_sjs1_3	0.0.15		2ac3bc87d59fd624c8a713f8a09d4d818029ff9c
+io.github.edadma	markdown_sjs1_3	0.0.16		ceb1b3e7346076a12a86acc33d5de655162d5746
+io.github.edadma	markdown_sjs1_3	0.0.17		9dda46e93c17f3e23164fdb74f2a83b6b1190231
+io.github.edadma	markdown_sjs1_3	0.0.18		981fda871f55d5e14ebc6cfc4720f84707f3de95
+io.github.edadma	markdown_sjs1_3	0.0.19		fd0116dcd73ea301f181595c76689822533ea29f
 io.github.edadma	markdown_sjs1_3	0.0.2		fa4596ea9863c51d71e754e1f6f4bd2ba6f7c540
+io.github.edadma	markdown_sjs1_3	0.0.20		254e5fa782f2c5e24284d5cd9a4292818188abd7
+io.github.edadma	markdown_sjs1_3	0.0.21		c7f89f3701adf09de71b2e80a0c219e53ea7ac04
 io.github.edadma	markdown_sjs1_3	0.0.3		75ff662f1bd5e918f3c4c5c9a2d0f62bfd47dfbb
 io.github.edadma	markdown_sjs1_3	0.0.4		884dfa06635d194c9041fe8cfcf5668f7756fe5c
 io.github.edadma	markdown_sjs1_3	0.0.5		392304102c03155a89f4070f151dfb6343759493
 io.github.edadma	markdown_sjs1_3	0.0.6		7bf64bd70c5cfb99be229d4bf474b194bc37b7ee
+io.github.edadma	markdown_sjs1_3	0.0.7		7ae108c8fd945c56fe3f958e1985d4c4dc8647c1
+io.github.edadma	markdown_sjs1_3	0.0.8		515415cb9e5cb60d95d7caae3bbc7cc420a97f16
+io.github.edadma	markdown_sjs1_3	0.0.9		ce8a6d43f5b2f5d746dc50806519d7d19219fd4e
 io.github.ivanmachno67	math-lib	1.0.0		62e74941622686c73635f683e3089eff54b6558e
 io.github.kostaskougios	terminal21-spark_3	0.11		6e74012a625f81570a12b9fb63f11f8de61f7f7c
 io.github.kostaskougios	terminal21-spark_3	0.20		5207f380a9da8ec940d3e2b08c83a9982b409fda
@@ -995,6 +1022,7 @@ io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.0		36ed89031644
 io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.1		1b753daf3cb15075ae7775555ec28b681c683d20
 io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.10		2fb81ac87c453fdea78c6b3d9346280d0a691448
 io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.11		ef59d097e7f1dfb8be81190d8f7cc9ea77c9e34a
+io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.12		c28d518717ad123c121bfae65556452f78a747ac
 io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.2		4e0038c9035aa38dd03b756157f9e226fe180d0c
 io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.3		3fb04be43f889de4dfdeb5f1569b9a312ed6f33f
 io.github.lsd-consulting	lsd-distributed-firestore-connector	1.2.4		42abfdda93d2ca2e7480efe66c3b9fde18cf52ab
@@ -1086,6 +1114,7 @@ io.kotest	kotest-property-watchosdevicearm64	6.0.0.M2		N/A
 io.kotest	kotest-property-watchosdevicearm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-watchosdevicearm64	6.0.0.M3		N/A
 io.kotest	kotest-property-watchosdevicearm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-property-watchosdevicearm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.maryk	json-iosx64	0.1		N/A
 io.maryk	json-iosx64	0.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.qtjambi	qtjambi-script-native-macos	5.15		08a3721af8931d8e2f9e33585f66a20a72d302ef
@@ -1166,6 +1195,7 @@ org.apache.camel.quarkus	camel-quarkus-langchain4j-chat-deployment	3.17.0		3caac
 org.apache.camel.quarkus	camel-quarkus-langchain4j-chat-deployment	3.18.0		ba9b8491872e46e1ebf4ed9be132d820a17e8a8e
 org.apache.camel.quarkus	camel-quarkus-langchain4j-chat-deployment	3.19.0		90f724610c1bd8563ff7fb5c9fc2efa3bbb07a88
 org.apache.camel.quarkus	camel-quarkus-langchain4j-chat-deployment	3.20.0		d2712df070850525b7ef1e8797263abd6c2804b7
+org.apache.camel.quarkus	camel-quarkus-langchain4j-chat-deployment	3.20.1		9855dcec805644d460ff7fe97b473a0dd8049092
 org.apache.camel.quarkus	camel-quarkus-langchain4j-chat-deployment	3.22.0		662c6b44ebf73a536f5e3556047c537b39036924
 org.apache.karaf.cellar	org.apache.karaf.cellar.kubernetes	3.0.1		23d27006e1f438e571fa2aa9cce5f99921d589b3
 org.apache.karaf.cellar	org.apache.karaf.cellar.kubernetes	3.0.2		71f613266aff77eed0a21b0e9b7ef55dfba8556f

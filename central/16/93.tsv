@@ -443,6 +443,7 @@ com.buschmais.jqassistant.core	report	2.6.0-M1		ad0a5fa64febc2807cd74b0208325571
 com.buschmais.jqassistant.core	report	2.6.0-M2		5ae3bfdaf70df9b955b4a43871c72fa36efcb656
 com.buschmais.jqassistant.core	report	2.6.0-M3		1f89443d0b455aa48a37d2f630a8302eb5619478
 com.buschmais.jqassistant.core	report	2.6.0-RC1		1a97e6c0bf6ed5d1fbe5bb008c1dcbd2354fb6de
+com.buschmais.jqassistant.core	report	2.7.0		d16a87be84c1fc0625b64e15d93f38643f1c0309
 com.buschmais.jqassistant.core	report	2.7.0-M1		6377dd33acf1364650ba3cf2f21681f85b1fcb13
 com.buschmais.jqassistant.core	report	2.7.0-RC1		df37568d886e9184c22332f6a905bb283ad04059
 com.catify.bpmn	integration-spi-camel	1.1		f64a2e17524343a7f3708a4344d111effe85f025
@@ -969,6 +970,7 @@ io.helidon.messaging.wls-jms	helidon-messaging-wls-jms	4.1.6		12bcdbdf894fe95367
 io.helidon.messaging.wls-jms	helidon-messaging-wls-jms	4.1.7		ba150b5a349a40b8404f675fa5d74aa742b2bab9
 io.helidon.messaging.wls-jms	helidon-messaging-wls-jms	4.2.0		54b6b3edcc60952b2572a6ad38b9d079012e779e
 io.helidon.messaging.wls-jms	helidon-messaging-wls-jms	4.2.1		43bed10894740e0bf5fa5ad399764d480525bb3a
+io.helidon.messaging.wls-jms	helidon-messaging-wls-jms	4.2.2		329a08995e3958b4bdc58124a543adfc88da8c91
 io.jooby	jooby-maven-plugin	2.0.0		07b6fb9471c6d5466f5d020401ad150daaee2abb
 io.jooby	jooby-maven-plugin	2.0.0.RC2		91ed039eb9180ef2d7ffad8bac01c94842e1df53
 io.jooby	jooby-maven-plugin	2.0.0.RC3		0ae280f5bd11c15e7f35fc445c0781fc1d0f385d
@@ -1076,6 +1078,8 @@ io.jooby	jooby-maven-plugin	3.5.5		9e4f4b59e40503f399e44af3f244b6dbfb875c9c
 io.jooby	jooby-maven-plugin	3.6.0		5da88732309838f2d1d2858725eb33fe6a86345b
 io.jooby	jooby-maven-plugin	3.6.1		0303b3e3ef470f2ec3ed8f300364e171a3bac2e0
 io.jooby	jooby-maven-plugin	3.7.0		88c57fdbe4db3c705259a3e4394c43dc5bcf9c9b
+io.jooby	jooby-maven-plugin	3.8.0		e852898da666b7dadc764d22b4284d95fad75e39
+io.jooby	jooby-maven-plugin	3.8.1		9a50f6176f56b18e5545fc5e61ae215580895b3c
 io.ktor	ktor-utils-metadata	1.3.2-1.4.0-rc		0c6381f0fec4154fee29da3a2ea1d41af4fe4da9
 io.ktor	ktor-utils-metadata	1.3.2-1.4.0-rc	all	cbf7e2cf81f5509bfc5e2608e59d4a721e2e3234
 io.ktor	ktor-utils-metadata	1.4.0		6095ee080adba077cf033f273a6cf6faae54c745
@@ -1570,10 +1574,12 @@ org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.1.20-Beta2		5b1
 org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.1.20-RC		a0d7acbc370880d8733196dce60416f93ed099e1
 org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.1.20-RC2		c78bbbcd8e9a3008a9bc2a70702eeadab3dbd068
 org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.1.20-RC3		88334e6bceb01f8ec9cbdef65ecb3655358d6173
+org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.1.21		f4c0968e8b39522eac2b8eea7665dd13fef12c58
 org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.1.21-RC		1c915b335f5b01fc6d3945468faff43c4052d2f7
 org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.1.21-RC2		0fcbae99ed5e564826e2bef3479bffa2aad29c45
 org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.2.0-Beta1		59c9b76a529cfe6d46ac0abf7c117f396f7fa1fe
 org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.2.0-Beta2		2702fa058a5ab8277d0e40072927d220ff9b7dc5
+org.jetbrains.kotlin	kotlin-allopen-compiler-plugin-embeddable	2.2.0-RC		631295227f9be2fcbb726bca88439d0ac81b4ab9
 org.jetbrains.kotlinx	kotlinx-io-core-tvossimulatorarm64	0.2.0		N/A
 org.jetbrains.kotlinx	kotlinx-io-core-tvossimulatorarm64	0.2.0	metadata	e5507eedc4dfc1d276e1eaa58330b3cf7742a94f
 org.jetbrains.kotlinx	kotlinx-io-core-tvossimulatorarm64	0.2.0-preview-dev2		N/A
@@ -2173,6 +2179,8 @@ org.xwiki.commons	xwiki-commons-legacy-configuration	16.10.3		1c11fb7d3bff61231d
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.10.4		40bb6b8e41e3d1de61be0182222ae791ebe4b7c7
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.10.5		3c8365bfc1263adec5a15940529f107808a6cddf
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.10.6		89178a8a3f7f8e1663e7532082a4dfdae4a53204
+org.xwiki.commons	xwiki-commons-legacy-configuration	16.10.7		ecc4f70db7707848154a82bd9961fe63ccc9da98
+org.xwiki.commons	xwiki-commons-legacy-configuration	16.10.8		bc672d51e50818ca8acfb873e90a0ad7dda70798
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.2.0		f3aae0bce004c1a02407cb6fe6cc59eb68400188
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.2.0-rc-1		3ad06823bebef0ef854b8da2acce1915cfa73816
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.3.0		934897ac1cfcdb1a827b59c89d4b71b540a28e0c
@@ -2187,6 +2195,7 @@ org.xwiki.commons	xwiki-commons-legacy-configuration	16.4.4		1cbad46a0f4a5c6ebc8
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.4.5		09061348942756125bd0bafaeaf1165254f560b9
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.4.6		a6ed8dc4a654c5608096507c5848871bab7e82bc
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.4.7		8d1ab08c68b0f808f3ddf2730e934aefb769d0f3
+org.xwiki.commons	xwiki-commons-legacy-configuration	16.4.8		7733be20675fc52b8225e1ed83a03c84a80eb58a
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.5.0		99b19287107091ebc01730590249d6ad56281d44
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.5.0-rc-1		50c638416d9c1f7f3289f3c395b784cfd5f33431
 org.xwiki.commons	xwiki-commons-legacy-configuration	16.6.0		986487944e08fa566d156458d1958719f9300273

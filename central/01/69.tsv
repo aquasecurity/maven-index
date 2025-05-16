@@ -396,6 +396,7 @@ com.liferay	org.hibernate.core	3.6.10.LIFERAY-PATCHED-6		17479a0eab11be1a0f08e3d
 com.liferay	org.hibernate.core	3.6.10.LIFERAY-PATCHED-7		4ddcc1b5b169497288424cc06566c7be1f18964d
 com.liferay	org.hibernate.core	5.6.7.LIFERAY-PATCHED-1		6da173f66f2edda3906d960050efa541701f042f
 com.liferay	org.hibernate.core	5.6.7.LIFERAY-PATCHED-2		be220b7d5ede9de324544e37ba59c2ba895ceb00
+com.liferay	org.hibernate.core	5.6.7.LIFERAY-PATCHED-2.JAKARTA-LIFERAY-PATCHED-1		38602466fa4bb4c8fa6be6fdd721842e259218ef
 com.microsoft.azure	azure-mgmt-containerservice	1.10.0		93fa7e6a38f8cd89b68443946688a5011debcaf7
 com.microsoft.azure	azure-mgmt-containerservice	1.11.0		86616f3bc2e3e63b6f441ff66bda1ea0374c66d1
 com.microsoft.azure	azure-mgmt-containerservice	1.11.1		e218ec2fa64bc0c137524bf62569f3c338a9a020
@@ -558,6 +559,14 @@ dev.voidframework	voidframework-healthcheck	1.7.0		99478c21f885e7eb5da69b2f44586
 dev.voidframework	voidframework-healthcheck	1.8.0		fa74e464705eda7f8ab6aadd23ac960ff4ea440e
 dev.voidframework	voidframework-healthcheck	1.8.1		18d7b2ca0283407046036e16924ba5e89ea8ec2d
 dev.voidframework	voidframework-healthcheck	1.9.0		2b9df14912ccd689de5ef35029fa2d147f1750c4
+edu.gemini	sbt-clue_2.12_1.0	0.27.0		beb9a28c5683391c67e7dfff59970775e595eee9
+edu.gemini	sbt-clue_2.12_1.0	0.28.0		764753488959343b2141eb7f1ed1196a04eef714
+edu.gemini	sbt-clue_2.12_1.0	0.28.1		3c2d65fcbca96f7b312fd08961aa2fd65f9a0abc
+edu.gemini	sbt-clue_2.12_1.0	0.28.2		101a18f08a899b44847c35a67b1740896ef5716b
+edu.gemini	sbt-clue_2.12_1.0	0.28.3		96f227eb1ce996d65877f83f2deb70caa5e18a7e
+edu.gemini	sbt-clue_2.12_1.0	0.29.0		557f72cb859b211a671b4dfa8fb55d4a1f7bec9a
+edu.gemini	sbt-clue_2.12_1.0	0.30.0		31b6a6e0c29b94cebdf2faa1de4bc3d09ee4aa4b
+edu.gemini	sbt-clue_2.12_1.0	0.31.0		51c74f9abe0b85cecb2b634793266b68ad6961e3
 edu.gemini	sbt-clue_2.12_1.0	0.31.1		2bffe585143165584cc9a69c3218f4f51783a9ba
 edu.gemini	sbt-clue_2.12_1.0	0.32.0		7f7b844413dfafedf1d541e09a35bcecfa741ef9
 edu.gemini	sbt-clue_2.12_1.0	0.33.0		601b268a68d936e68035f86ab90b870da26e1a4c
@@ -853,6 +862,7 @@ io.kotest	kotest-property-arrow-iosarm64	6.0.0.M2		N/A
 io.kotest	kotest-property-arrow-iosarm64	6.0.0.M2	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.kotest	kotest-property-arrow-iosarm64	6.0.0.M3		N/A
 io.kotest	kotest-property-arrow-iosarm64	6.0.0.M3	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.kotest	kotest-property-arrow-iosarm64	6.0.0.M4	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.matthewnelson.kotlin-components	kmp-tor-controller-common-watchosx86	0.1.3		N/A
 io.matthewnelson.kotlin-components	kmp-tor-controller-common-watchosx86	0.1.3	metadata	0cafbe3871e3a3caf1a005837e6007a9b1a4e24d
 io.matthewnelson.kotlin-components	kmp-tor-controller-common-watchosx86	0.2.0		N/A
@@ -1197,6 +1207,7 @@ org.apache.flink	flink-hbase_2.12	1.9.2		f4d6c73095a57c500eb8e59de52486a1d88d3c2
 org.apache.flink	flink-hbase_2.12	1.9.3		fc5d2cdaf9c03020ab9d4316f5c868bd27f3e85b
 org.apache.flume.flume-ng-configfilters	flume-ng-config-filter-api	1.9.0		54bdf6a82e9cc8a55d16f3b8c715a35c9df31ed7
 org.apache.paimon	paimon-flink1-common	1.1.0		b2ab2dee0349dd5c24c9035c36bd820ec054fe97
+org.apache.paimon	paimon-flink1-common	1.1.1		2072cca7cb06db20241472e31c6a3f65f525f504
 org.apache.pekko	pekko-connectors-influxdb_2.12	1.0.0		25fe260c3bc135dbec0fec7b6b10b018644a328e
 org.apache.pekko	pekko-connectors-influxdb_2.12	1.0.1		a3ed1627b982ebdb65124b6d9acbfc803f8c748a
 org.apache.pekko	pekko-connectors-influxdb_2.12	1.0.2		2b9c99d1c6f3c0ca7d2cdbcc3e457a24fa8e5531
@@ -1267,10 +1278,12 @@ org.apache.tika	tika-app	2.9.0		a6761033b3742f09949ba06c94df7ff229052953
 org.apache.tika	tika-app	2.9.1		e694e0618e4c06bd2ca04e19bc67f850e6eb29b8
 org.apache.tika	tika-app	2.9.2		5b685f50714f83068eb1ed4780eb6b29db4efc84
 org.apache.tika	tika-app	2.9.3		384738488c68d3965a7d05d03ee912a2ef9abfdf
+org.apache.tika	tika-app	2.9.4		62089f3a00068c8926deb6b2930c3f7d301fd6a8
 org.apache.tika	tika-app	3.0.0		e420975e822727311786413ed0caf9e620f1230d
 org.apache.tika	tika-app	3.0.0-BETA		fdcf398c211f8ea5ccce89548a0acd5b1904386e
 org.apache.tika	tika-app	3.0.0-BETA2		65737bdf8efc77d71ac0035b4f0b2fb023dca9e3
 org.apache.tika	tika-app	3.1.0		b54bcee3ad5e119b52183c2701a20a6cf13b1f46
+org.apereo.cas.support.cas-server-support-events-mongo	5.0.0.RC2	support		b1e4f83ac572a25d0c66da2e1e3d0ecaca6bc9d1
 org.codehaus.griffon.plugins	griffon-tangoicons-javafx-groovy	2.0.0		f9abe1e6610791bca5c05f5504f4f786720237ba
 org.cogchar	org.cogchar.bundle.demo.convo	1.0.5		6d1fcbaedf75e0e96c5fb65926bc47bcb778bc1d
 org.cogchar	org.cogchar.bundle.demo.convo	1.0.6.0		71eb405e7cdd63abeead73e985ae3f9da5a448c2
@@ -1287,6 +1300,7 @@ org.cogchar	org.cogchar.bundle.demo.convo	1.1.1		2beb5491ec8ea94713340215d76b8a1
 org.cogchar	org.cogchar.bundle.demo.convo	1.1.2		51a73fc5d406888e732edd137768b4787d97b529
 org.cogchar	org.cogchar.bundle.demo.convo	1.1.3		033277c4422b52f3ac95107a5ea2d379fec35274
 org.cogchar	org.cogchar.bundle.demo.convo	1.1.4		b84812601dfc7c822aa10bda47463229cde1e0d2
+org.eclipse.apoapsis.ortserver.shared	ktor-utils	0.6.0		13f251b2106c2d2d299dca4f171c3ef3bd5459c1
 org.finos.legend.sdlc	legend-sdlc-server	0.10.0		4defd7a48f99159ae769457b6488e5ca785f4556
 org.finos.legend.sdlc	legend-sdlc-server	0.10.0	shaded	392b30042b54f428d708a6d057431d2b8ceb6013
 org.finos.legend.sdlc	legend-sdlc-server	0.100.0		d22aff6246e5ee8e8ccca3a143cdbdfdda36e71b
@@ -1655,6 +1669,10 @@ org.finos.legend.sdlc	legend-sdlc-server	0.190.1		9dc6a5a9b18ddd6c342269b68daf0d
 org.finos.legend.sdlc	legend-sdlc-server	0.190.1	shaded	86a0843f59390e253b456641eadddbca40d33080
 org.finos.legend.sdlc	legend-sdlc-server	0.190.3		9e4050313d42209fe582a1f205ae36e03198d5fa
 org.finos.legend.sdlc	legend-sdlc-server	0.190.3	shaded	4263cbabee5c70166bd331d2f0e83cdaa6d5ab5f
+org.finos.legend.sdlc	legend-sdlc-server	0.191.0		97c24c17c9c8fa48185ab1e7a9fc339dfd21fd46
+org.finos.legend.sdlc	legend-sdlc-server	0.191.0	shaded	1d127bffc809157f44a05d0d2910001273bca2f6
+org.finos.legend.sdlc	legend-sdlc-server	0.191.1		235aeb8c450733909032d65a199eacdd4223a69f
+org.finos.legend.sdlc	legend-sdlc-server	0.191.1	shaded	6fd25d28f1a626c44d012ac1b1ca270e3a4e7cac
 org.finos.legend.sdlc	legend-sdlc-server	0.20.0		b61a6ff65dd32c9569c763fab2597126d5c830c6
 org.finos.legend.sdlc	legend-sdlc-server	0.20.0	shaded	55167a5c5655875c3795fdb97613c1d5478421b1
 org.finos.legend.sdlc	legend-sdlc-server	0.21.0		2a084126ece9ce0806b1614d0c3f2e16fad6752d
@@ -2308,7 +2326,18 @@ software.amazon.awssdk	observabilityadmin	2.31.30		d1b3e2b62bbcf756dcb517e32e3ec
 software.amazon.awssdk	observabilityadmin	2.31.31		3945ec110eed6b7bf8f1dd036be33212610ef03e
 software.amazon.awssdk	observabilityadmin	2.31.32		75fcf94a9f55dba15640919a8e332e6ab57313b9
 software.amazon.awssdk	observabilityadmin	2.31.33		d3c61d0b69cb291568a7d32722736d7b7df86a4e
+software.amazon.awssdk	observabilityadmin	2.31.34		5757a31232eaed6128e4c8b0679d76f699bd238e
+software.amazon.awssdk	observabilityadmin	2.31.35		6b306e9abd9f52ef46bd0c4de95a5e5a700bf39e
+software.amazon.awssdk	observabilityadmin	2.31.36		d96e59969ad77fffa6dbec94bd1be3078c86d5fe
+software.amazon.awssdk	observabilityadmin	2.31.37		334857e37678efab963416ece4172b9b0a7282dc
+software.amazon.awssdk	observabilityadmin	2.31.38		1f49e1004e13621a116ca0c9f1a1984976c20163
+software.amazon.awssdk	observabilityadmin	2.31.39		edc54dd022c3fecf51277a614a3c663a77d6cc64
 software.amazon.awssdk	observabilityadmin	2.31.4		547415a56a5e2cd79c9579cdf6a17d7a5fa03420
+software.amazon.awssdk	observabilityadmin	2.31.40		f068b06dbd8bc309654c84ccbfd4b95ff19f632f
+software.amazon.awssdk	observabilityadmin	2.31.41		17e3fd61cdc64616c59a4be466a841ceb1344688
+software.amazon.awssdk	observabilityadmin	2.31.42		4a0d792742708c211df0fab45d7ce5b540a7ab7d
+software.amazon.awssdk	observabilityadmin	2.31.43		79f8f618428411a07da6929ba4da30d08c570923
+software.amazon.awssdk	observabilityadmin	2.31.44		49b292273194f6366e618dae073c39b67a6bfe73
 software.amazon.awssdk	observabilityadmin	2.31.5		eceb80286dcd95e127633d68ebbc43b5a0365721
 software.amazon.awssdk	observabilityadmin	2.31.6		37b66ad6514ba55702c2180d59478c4eb87f3ef1
 software.amazon.awssdk	observabilityadmin	2.31.7		d1a6c46250411a00d2a3ae757b964bf45c724bec

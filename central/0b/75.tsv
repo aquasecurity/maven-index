@@ -98,6 +98,7 @@ com.github.ontio	ontology-sdk-java	1.10.6		3e4bb09f23afc94ab9e05ee29775a7beb1db1
 com.github.ontio	ontology-sdk-java	1.10.7		f812327976df6b73ab4bddfaba0d5464cb47a9d9
 com.github.ontio	ontology-sdk-java	1.10.8		976a6051c0cb42d4d6df9d56e63e23bcae080eb9
 com.github.ontio	ontology-sdk-java	1.10.9		4aa18f27990653815993a4d5ac6a4a2391c26f0b
+com.github.praneethpuligundla	sbt-filter_2.12_1.0	1.0.2		d0105b1b7b5db2c1c78432bfe5054bba572da665
 com.github.sviperll	chicory-time	0.1		49b0418ed6aa50676527a3828ab31f302ad27826
 com.github.sviperll	chicory-time	0.10		ffa15dbc2e3eea8ee7eeb8ad8aae1ee732920631
 com.github.sviperll	chicory-time	0.11		12030ac0dd23b28eb8cb1289cea1a77ea1dd721b
@@ -166,6 +167,10 @@ com.nhl.bootique.jersey	bootique-jersey	0.16		454d3180daa80ac07c24f42f173b865dca
 com.nhl.bootique.jersey	bootique-jersey	0.17		3e34d88d97747061b17f2f502ef5f3f773fbd3b5
 com.nhl.bootique.jersey	bootique-jersey	0.8		ac04806d3e284dea4aaeb97ec162241a4042b389
 com.nhl.bootique.jersey	bootique-jersey	0.9		8985130bb2e0731a73cf9b0d45d178eaf7365713
+com.orrsella	sbt-stats_2.9.0_0.12	1.0		4c54253ba22de9838f72d0d50f786c67598b6c7e
+com.orrsella	sbt-stats_2.9.0_0.12	1.0.1		5b87c9e2b67368b88acb1e80ac48bb7bbceb7955
+com.orrsella	sbt-stats_2.9.0_0.12	1.0.2		c251c6f971df6af91ba0ced226a76b0f7354de94
+com.orrsella	sbt-stats_2.9.0_0.12	1.0.5		1fe053a29d0de19bfe44acda9720c7dd7a790b0f
 com.sinvay	oakenshield	0.0.1		N/A
 com.sinvay	oakenshield	0.0.10		N/A
 com.sinvay	oakenshield	0.0.11		N/A
@@ -1000,6 +1005,7 @@ me.proton.core	network-domain	30.4.4		d50ca3221d64068d7e869baf2e684249cce37edb
 me.proton.core	network-domain	31.0.0		3e5225564aeaaf93537de3b8807effeb8a6d5b3e
 me.proton.core	network-domain	32.0.0		96b6c63a39485a23d0c58afb90ddd188ddebadcd
 me.proton.core	network-domain	32.0.1		f5dc481228b22bf9db41b6e2e5d50e04c93a269b
+me.proton.core	network-domain	32.0.2		47f646c9a5d1c04e919c6a535d276c45c7c1c766
 me.proton.core	network-domain	4.0.0		fa436ecb6b9867c6153ba085083ddb41ccbf86e2
 me.proton.core	network-domain	4.1.0		b618e51b65e4bfcb26880adf9a477d646213d458
 me.proton.core	network-domain	5.0.0		324f0e9852c62bed2edce32c73f5908bcb1960ab
@@ -1209,6 +1215,7 @@ org.apache.camel	camel-timer	4.8.3		5ecbee446c9baae0f51190ca574afaf257a36535
 org.apache.camel	camel-timer	4.8.4		03b773f93ee809e7c3119b553186183c63208130
 org.apache.camel	camel-timer	4.8.5		265746d8582c04f2af2c8f91566b563fae933ffa
 org.apache.camel	camel-timer	4.8.6		c1f02a668c9ddba23c81df7d3d3168c167e417f5
+org.apache.camel	camel-timer	4.8.7		1ca051ed54e66ba5516a83487d80ebde23b60d9e
 org.apache.camel	camel-timer	4.9.0		b9402b8c8e294ebe45fb1d5ee5e06852666403fe
 org.apache.camel.springboot	camel-docker-starter	3.0.0		e73040423a800ad4495c2cdfdece34c3fe144317
 org.apache.camel.springboot	camel-docker-starter	3.0.1		2eb2502f86aeb18903ccff5ca892a4fd302a83a4
@@ -1327,6 +1334,7 @@ org.apache.camel.springboot	camel-docker-starter	4.8.3		adf6a2d8147535bf5e4b0f4d
 org.apache.camel.springboot	camel-docker-starter	4.8.4		88eaf2e510f1029c194b949ff52e61ccd713dd36
 org.apache.camel.springboot	camel-docker-starter	4.8.5		67b0a1701c41e917b7f1195cc8be3d75c6cd0367
 org.apache.camel.springboot	camel-docker-starter	4.8.6		40626aa5e308644c190a73e941fc0ce31bbd24b5
+org.apache.camel.springboot	camel-docker-starter	4.8.7		6d774853537e7aa7f7456dd2a2c964f2fdf97dce
 org.apache.camel.springboot	camel-docker-starter	4.9.0		2f6fb2e31e8a40d4a830df9cc033fe36959fc999
 org.apache.flink	flink-ml-tests	2.1.0		71a848d4532623367bd1396c678569e5ecf15011
 org.apache.flink	flink-ml-tests	2.2.0		f2b936bf968f84a015708a3c7df3f063668d519b
@@ -1969,6 +1977,7 @@ org.tpolecat	natchez-core_2.13	0.3.4		639a5fbe8b40b055fc3b89c183471943acfd9d97
 org.tpolecat	natchez-core_2.13	0.3.5		c8616b07885b6b574a3d241f81f3e524ebcc536c
 org.tpolecat	natchez-core_2.13	0.3.6		3c9b427684f1ce9aefec3132677de31089b43504
 org.tpolecat	natchez-core_2.13	0.3.7		593d890614467ca4e29f0bfd70e70a65ae414dae
+org.tpolecat	natchez-core_2.13	0.3.8		c3b5b9b622cf70192af9a1c4e4a9260f6b916cbd
 org.webjars.bower	angular-checklist-model	0.10.0		f1899af92e89b50df060de2ab0c52f372b1e2aba
 org.webjars.bower	angular-checklist-model	0.2.4		3e06acd10f9aacdf7a0e2ade4a92c9538c5fb217
 org.webjars.bower	angular-checklist-model	0.5.0		d00e86cfa63f76feffb85e9caa5f6ea461de073a

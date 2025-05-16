@@ -65,6 +65,10 @@ com.aliyun	mts20140618	5.0.1		9212d8c9e382f5ecaa5d63c9d608cf8075a2f425
 com.aliyun	mts20140618	5.0.1	shaded	65c35106099543fb7d687ac49ab35ac5182621cf
 com.aliyun	mts20140618	5.0.2		b7c94fb1bfb061b7df0c7313c7c9670712834f66
 com.aliyun	mts20140618	5.0.2	shaded	dcc15da37ef65d50c0722190376f39e779ef7064
+com.aliyun	mts20140618	5.0.3		77228033e60d147a87ac2650cf1792264cbcd6df
+com.aliyun	mts20140618	5.0.3	shaded	61048f3d44c060044897be0be96d0b6c04ea5105
+com.aliyun	mts20140618	6.0.0		47695552eb446c92edcd5b5182e239b9ab0c36f6
+com.aliyun	mts20140618	6.0.0	shaded	5bf485bf5a536bc347d0d2b5e9c0641336b28d79
 com.antgroup.antchain.openapi	openapi-ak_e957506fce1c4ad9afdbd49151ee5a24	1.0.0		fe761bf101309808ba438dfc32ad46b16661dfbb
 com.arcticicestudio	northem-dark-java	0.2.0		a787c7979c10f3e5f355e6e417fb823cd6069c89
 com.azure.resourcemanager	azure-resourcemanager-sql	2.0.0-beta.1		47d13540e6e907473c55cc37daaa4cad2490daa0
@@ -410,6 +414,7 @@ dev.galasa	dev.galasa.framework.log4j2.bridge	0.25.0		0f9a3bf83c3283095b886ecbeb
 dev.galasa	dev.galasa.framework.log4j2.bridge	0.38.0		3a89def5d611e41db19b86ebba44b35255e50299
 dev.galasa	dev.galasa.framework.log4j2.bridge	0.39.0		d327555bf449ed1007cfdec224b1adca32232fb7
 dev.galasa	dev.galasa.framework.log4j2.bridge	0.40.0		f6b306df8b177032f7f5dacf2f700960c889aa81
+dev.galasa	dev.galasa.framework.log4j2.bridge	0.41.0		aadaf2b3fd6dce7cca03a1fa594240e3121acd2a
 dev.teapot	teapotextensions	0.10.0		b1c901d94bc5c60fb895c3c2826b52476c7750b4
 dev.zio	zio-aws-inspector2_3	5.17.104.10		c851e9932a3fa92c76200b32a4d05d3a73097227
 dev.zio	zio-aws-inspector2_3	5.17.104.11		3b8c5ffcbada94221526550930849f1eb2f53f6a
@@ -724,6 +729,7 @@ dev.zio	zio-aws-inspector2_3	7.31.27.1		d351e05143bf8caa7a6dee5e9cdc4560c8c5f0ee
 dev.zio	zio-aws-inspector2_3	7.31.28.1		bd45466e538f14c75952c528465753abdbcd1a2d
 dev.zio	zio-aws-inspector2_3	7.31.3.1		4eefc03808d0a3b7373d7513ee5efac5a3364c42
 dev.zio	zio-aws-inspector2_3	7.31.30.1		471c9c0099ddae81aa88a266089c16ba1638aad9
+dev.zio	zio-aws-inspector2_3	7.31.30.2		708397beb67a04dd9421536cbe3fc5ac8adf3967
 dev.zio	zio-aws-inspector2_3	7.31.4.1		760abe333f10a453fdaaaa235cc24cc34d75f08a
 dev.zio	zio-aws-inspector2_3	7.31.6.1		23c7870e0769b2841227a3096e857e7d02dc8c16
 dev.zio	zio-aws-inspector2_3	7.31.6.2		8f100043fd0e244bdbfe40f602355f9f1fdbd130
@@ -853,6 +859,8 @@ io.github.lorenzobettini.edelta	edelta.refactorings.lib	3.5.0		3f3ea4a6b4414caac
 io.github.lorenzobettini.edelta	edelta.refactorings.lib	3.6.0		ff15cda4d53a0fa32fe571cf8f6cb69cf7f40ee5
 io.github.lorenzobettini.edelta	edelta.refactorings.lib	3.7.0		ff8d8b38204030182cb4f5ab4346bbefdbe5f207
 io.github.lorenzobettini.edelta	edelta.refactorings.lib	3.8.0		c15b698fc4b45219943acca9b97ef895c488b7a9
+io.github.lorenzobettini.edelta	edelta.refactorings.lib	3.8.1		20e3d5e2d502509ab8424139032f12b0f26142ae
+io.github.lorenzobettini.edelta	edelta.refactorings.lib	3.8.2		c085eff662f850ac9a11af62e76567632782ac6c
 io.github.minkainc	webwallet-sdk-seven	0.1.23		784d0d3fd02dfc8f1334bab81cfe397cab39b50d
 io.github.minkainc	webwallet-sdk-seven	0.1.23	jar-with-dependencies	df58db6aeecdc77f4881c8071e2bd7ce97d30e56
 io.github.minkainc	webwallet-sdk-seven	0.1.24		82a4d5aafb6335d1d528289f3e22f0d5b36fe726
@@ -1021,6 +1029,8 @@ io.ktor	ktor-server-hsts-iosx64	3.1.1		da8c25b4c9a0272c4d11dd05ac1e86c5a191827f
 io.ktor	ktor-server-hsts-iosx64	3.1.1	metadata	c7c66775a46e9637ec2f2c912728a3980cdfaeea
 io.ktor	ktor-server-hsts-iosx64	3.1.2		76c821031793c3fcc918c7b3fabce6a72140b33b
 io.ktor	ktor-server-hsts-iosx64	3.1.2	metadata	06ef932773994e19bf6df5cfdbd7343b5f541fa9
+io.ktor	ktor-server-hsts-iosx64	3.1.3		96d9b31bdb68947ff954fc28e505f3450c0c3e42
+io.ktor	ktor-server-hsts-iosx64	3.1.3	metadata	fad921680eea80d8a969cff4207ee2c518296c4e
 io.sellmair	evas-watchosarm32	1.0.0		N/A
 io.sellmair	evas-watchosarm32	1.0.0	metadata	c28969484c712624fc73ae44e4e88faf536353c5
 io.sellmair	evas-watchosarm32	1.0.0-RC		N/A
@@ -1295,6 +1305,7 @@ org.opensearch	opensearch-x-content	2.6.0		34075e3811d35e5a6ab26b4356b96a1983cbb
 org.opensearch	opensearch-x-content	2.7.0		df1ded66293c4c901993f7baf87d33c3f239f277
 org.opensearch	opensearch-x-content	2.8.0		769673ed33479e8c93c616efe70e990f02894b9a
 org.opensearch	opensearch-x-content	2.9.0		8ca690b069360e9b0540fb201aed3a12def6b812
+org.opensearch	opensearch-x-content	3.0.0		c61988de78a8d227a7daa949a956ea71368ed257
 org.opensearch	opensearch-x-content	3.0.0-alpha1		0e033d647b9cb327b6f450a18b48b8e883eb90f1
 org.opensearch	opensearch-x-content	3.0.0-beta1		29bae8940d7613226ef4c8daff12870611bcb4b9
 org.redfx	strange	0.0.14		1890f82203be95b84c37c46df8f502506ac109b9
@@ -1486,6 +1497,10 @@ tz.co.asoft	kase-core-iossimulatorarm64	3.0.8		N/A
 tz.co.asoft	kase-core-iossimulatorarm64	3.0.8	metadata	993b073522f8a56a3f6236f70c50414a40811ad1
 tz.co.asoft	kase-core-iossimulatorarm64	3.0.9		N/A
 tz.co.asoft	kase-core-iossimulatorarm64	3.0.9	metadata	785dc294ae7aba6a7bf582e3432a210825fa4595
+tz.co.asoft	kase-core-iossimulatorarm64	3.1.0	metadata	61de1d05ba0950ba916d8f25452c27679371d55c
+tz.co.asoft	kase-core-iossimulatorarm64	3.1.1	metadata	384bc8ec74c25f7c1d6016a76180bf571e2f4c4a
+tz.co.asoft	kase-core-iossimulatorarm64	3.1.11	metadata	2ec80afc620700e0edc34e3c57d2650bcc69a937
+tz.co.asoft	kase-core-iossimulatorarm64	3.1.12	metadata	d0346d5fa10e41ba970d13e87dd5caeb53c71bf2
 tz.co.asoft	raven-email-config-macosx64	3.0.11		N/A
 tz.co.asoft	raven-email-config-macosx64	3.0.11	metadata	fa2c7b58a452f18ba37943a8a3c4c85b2b2b068e
 tz.co.asoft	raven-email-config-macosx64	3.0.12		N/A

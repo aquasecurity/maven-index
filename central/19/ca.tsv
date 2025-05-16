@@ -105,6 +105,7 @@ com.booleworks	kjobs	1.0.0-RC2		e6a8738f547b6d85da7bfd9cd13d0b8acc938a57
 com.booleworks	kjobs	1.0.0-RC20		2aa9d7af7e6426427ee182b73888287d61aad716
 com.booleworks	kjobs	1.0.0-RC21		7d4dd8109d5f4e89d9b0a42b24c3891b4ad77242
 com.booleworks	kjobs	1.0.0-RC22		76ce4c8454e5754ff7a3b52e6607cd527305fe7c
+com.booleworks	kjobs	1.0.0-RC23		6254d26e31e0db9183fa8f83854c49c4e8fe421b
 com.booleworks	kjobs	1.0.0-RC3		a49b758d5c8593d120c37e53b2569ca2466477d0
 com.booleworks	kjobs	1.0.0-RC4		b27c8fb849b53568b2ef54b4ec2bed2e8e58ccac
 com.booleworks	kjobs	1.0.0-RC5		1e1fa13a956a78afbca18c29eb0e33bb1a7e19ef
@@ -383,6 +384,8 @@ com.google.cloud	google-cloud-contentwarehouse	0.54.0		05b5af021b0b71d4522b3ee4b
 com.google.cloud	google-cloud-contentwarehouse	0.55.0		abd8e7e43223d629e084d15b729113889040706a
 com.google.cloud	google-cloud-contentwarehouse	0.56.0		f3fe68ca4f7f75f09f3dbd03e61608a0fc45e95c
 com.google.cloud	google-cloud-contentwarehouse	0.57.0		809a547a3613dbf2343dec64d2e8d87b6591686c
+com.google.cloud	google-cloud-contentwarehouse	0.58.0		b38b70d75ae3407a94e14d4fd3a9e0070ab35cb4
+com.google.cloud	google-cloud-contentwarehouse	0.59.0		6edef2dc97db72269663506a6fd7072c318ee7d4
 com.google.cloud	google-cloud-contentwarehouse	0.6.0		4263945eaaa1546cb32dee14031d33e3dd71d9cc
 com.google.cloud	google-cloud-contentwarehouse	0.7.0		0c234c313cd71e6e023c754582b2660630ebacb2
 com.google.cloud	google-cloud-contentwarehouse	0.8.0		7a6cb5c66652a45aa4c54f352575c20af019a0e5
@@ -454,6 +457,7 @@ com.symphony.oss.fugue	fugue-store	0.1.0		f9775c3bf94b274aad21250a461b1597a3bb5d
 com.symphony.oss.fugue	fugue-store	0.2.0		b42248d4a2fd1c43b432b76256fdbfb11702fb9d
 com.symphony.oss.fugue	fugue-store	0.3.0		7cb6be6ab3f5374186b0da3601be40b688bbfb0b
 com.thoughtworks.dsl	delimitedcontinuation-annotations_2.11	0.1.0		80db4e60f8b4a9f08e2d23da01d22c8b1d371f9b
+com.tresscommerce	build-env-plugin_2.12_1.0	0.1.0		1593b197744bea6cf8ee698baa98b73427a95be5
 com.xeiam.xchange	xchange-huobi	3.1.0		ea041dbce92f207a39d97ccb2d3fbb53fcf7248b
 com.yookue.springstarter	multiple-rabbit-spring-boot-starter	2.7.18		d91987b6687b3a729b9928204696fdeaf9728bf3
 com.yookue.springstarter	multiple-rabbit-spring-boot-starter	3.3.5		2aae11213120b6057f3e2aa1a98855b513c0e2b2
@@ -747,6 +751,7 @@ io.micronaut.configuration	micronaut-neo4j-gorm	1.1.3		d3bca6bb9e1d8806625bdb3f7
 io.micronaut.configuration	micronaut-neo4j-gorm	2.0.0.M1		c4a8c2ebc5b3d49a97e2b25bb2b23c48070be2c7
 io.micronaut.configuration	micronaut-neo4j-gorm	2.0.0.M2		c9b0dd03eb229b46cbd52f4f2fc68f0593861f24
 io.micronaut.configuration	micronaut-neo4j-gorm	2.0.0.M3		bad4ac85e3f2e5369cec196cc70f6ed7bc991061
+io.netty	netty-codec-classes-quic	4.2.1.Final		b4da59936d93a0af2064c5e08b336a03f2426fef
 io.quarkiverse.helm	quarkus-helm-integration-tests-openshift-minimal	0.0.5		f3c74d3a6b9f64d52006b11121cddafaae28b765
 io.quarkiverse.helm	quarkus-helm-integration-tests-openshift-minimal	0.0.6		26f73c44bfcc86a049c7305b34783dc341a2281e
 io.quarkiverse.helm	quarkus-helm-integration-tests-openshift-minimal	0.0.7		4b7642c346428739c545d372b16f1d30ea4dcf9f
@@ -916,6 +921,7 @@ io.quarkus	quarkus-amazon-lambda-rest-event-server	3.15.2		4c62c2f2879e5bd77b267
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.15.3		947359e2b7b681d7a5804bffcd137f8edfa28e36
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.15.3.1		538fff080367561fdee78f4384807c8a915a5737
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.15.4		30b188e341ad1ecebb769334ddd57591108e8bdd
+io.quarkus	quarkus-amazon-lambda-rest-event-server	3.15.5		4de44d9256d48e59e5ac4e9f5ae07a60d6d45682
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.16.0		0d2763871e268d2357c16640db748526d189d7d7
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.16.0.CR1		f9f4a09a0dd83f982ce625d251a985e4b881a752
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.16.1		03b33b3e20c4ab7eee03f92db79e71d7e7678e01
@@ -960,6 +966,7 @@ io.quarkus	quarkus-amazon-lambda-rest-event-server	3.2.8.Final		eee0171b7283219d
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.2.9.Final		f686cdff149a69c045ae999de009c0b748bc05eb
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.20.0		f5db348cdb47784ff6468764c072a106dd541e0b
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.20.0.CR1		c30d34f87edcb647e7523724eb4c878aaa8d75ff
+io.quarkus	quarkus-amazon-lambda-rest-event-server	3.20.1		edfd191177cfc41be8706701cc0107941049cbf0
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.21.0		61cf9526f2ba1b12b12c2c0a9f08554150ee3753
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.21.0.CR1		3049c44dd4214b86c3cc085cc468a2385bd1eaea
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.21.1		e58d26f1245035739ad072c546e54dbb2b6ff0b8
@@ -969,6 +976,9 @@ io.quarkus	quarkus-amazon-lambda-rest-event-server	3.21.4		43a5397145382af25758b
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.22.0		3036a4c0eb1aeafcfd2e9ce7bedb4698254c547c
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.22.0.CR1		fff256ce0c6b7bf5bc7e86619b6154d57c30bfba
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.22.1		3458762a4c00b2b6c07a9e2e4941e8012116f900
+io.quarkus	quarkus-amazon-lambda-rest-event-server	3.22.2		1812e2cf6a8b98f47d056c66dc92dcef175fb93a
+io.quarkus	quarkus-amazon-lambda-rest-event-server	3.22.3		7e51d598534add407fcdbb67edd4df18d077d570
+io.quarkus	quarkus-amazon-lambda-rest-event-server	3.23.0.CR1		13e8660128c291c82b33b8836f48e581e098f5a0
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.3.0		f4f53faba387aa1078de45142b6f108e92299cd3
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.3.0.CR1		2be89448dbef749b718ffae41bcbdb062ca0fdd9
 io.quarkus	quarkus-amazon-lambda-rest-event-server	3.3.1		20e86de4b82ee0a9f1faedbe67b83595b02f21b5

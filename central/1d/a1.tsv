@@ -228,6 +228,7 @@ com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.34.1		7ae7
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.35.0		40ca747cff2faab7ce864faabfbd27f440b49cb4
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.35.1		9fa4e4307463b13db6aa494f09fa1b11115c8b1e
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.35.2		23c16bea894f25a6895699a01c27f7964b9424f4
+com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.35.3		f2f47325a90d2ced446c7e9be85c4f3a4dd5247b
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.4.0		6ad7c4bf33d02d7e37d5837c00ba52f0208f2df7
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.4.1		f38bbdb75a3fa4aff006d01ed1882c8936c6241e
 com.github.plokhotnyuk.jsoniter-scala	jsoniter-scala-core_sjs1_2.12	2.4.2		d1d35f0f7535e8d652d9a2924ce83a645ffd08d0
@@ -1184,6 +1185,7 @@ org.interledger.connector	connector-service-impl	0.3.2		2e17fee9ecb8e5d89980f7cf
 org.interledger.connector	connector-service-impl	0.4.0		9a6ff5cdff23108016e9bc8d544e4eaf8d724853
 org.interledger.connector	connector-service-impl	0.5.0		1cc42820c69fd541e37966d14bdf133c11fdc463
 org.interledger.connector	connector-service-impl	0.5.1		3b76d82387cff421915c576b9d4eb89cfec0615f
+org.mdedetrich	sbt-grunt-plugin_2.10_0.13	0.1		f83b0eedc0053315467954b4e015be582ebdb6dd
 org.minidns	minidns-client	0.3.0		b918c7644e4fa401da7436877954bed5914c0965
 org.minidns	minidns-client	0.3.0-alpha1		061645d8885b244af9b19c696270301dc216157d
 org.minidns	minidns-client	0.3.1		d280af9db9537447c5659fc7d10da022eb798f6e
@@ -1592,6 +1594,9 @@ software.amazon.awscdk	iotevents-actions-alpha	2.190.0-alpha.0		ebe6258f57feb983
 software.amazon.awscdk	iotevents-actions-alpha	2.191.0-alpha.0		33eb1b99dd86301cd02809df63961cb8e5307b10
 software.amazon.awscdk	iotevents-actions-alpha	2.192.0-alpha.0		854ec44a1c4e1d8eb2ea1913ba5bd8cb8f96dbcb
 software.amazon.awscdk	iotevents-actions-alpha	2.193.0-alpha.0		fa180d2f1fabd5a9799e60743fe9800a90cba77e
+software.amazon.awscdk	iotevents-actions-alpha	2.194.0-alpha.0		4e11d6939e6245dbb236e18fb7204c653b39ef0e
+software.amazon.awscdk	iotevents-actions-alpha	2.195.0-alpha.0		b40ea7aa63cdc56c0222ce69b70efeb4da3e24cd
+software.amazon.awscdk	iotevents-actions-alpha	2.196.0-alpha.0		1426fb12eee7ed6c67416ec752211d01b1ce5bac
 software.amazon.awscdk	iotevents-actions-alpha	2.20.0-alpha.0		3291b3932f0d9fb71ce84f09a1b7511f0f70ce85
 software.amazon.awscdk	iotevents-actions-alpha	2.21.0-alpha.0		83608273e3ea6525a5e537ae5be03aa31df4fce6
 software.amazon.awscdk	iotevents-actions-alpha	2.21.1-alpha.0		81a59090a3f7013f6670621ce814cce9b13e9958
@@ -2660,7 +2665,18 @@ software.amazon.awssdk	ssmincidents	2.31.30		7dede8693f6e38178b9e1e5437735b0fadb
 software.amazon.awssdk	ssmincidents	2.31.31		6911c02a516816571c42f33772d1056065b16f09
 software.amazon.awssdk	ssmincidents	2.31.32		70275d2d8740cd446ba0ad059e25ca99697ecf9f
 software.amazon.awssdk	ssmincidents	2.31.33		3af9d1e49d88c11d5d9fd8a13eb12df512d011d5
+software.amazon.awssdk	ssmincidents	2.31.34		17a55a6e279f8229347b23e68ac78cb71358564b
+software.amazon.awssdk	ssmincidents	2.31.35		b5a152d5c4039149169e59b0a3672e8edd8750cb
+software.amazon.awssdk	ssmincidents	2.31.36		5fd30c27b8f07d04b7ebe4cb4dd008966261c4a3
+software.amazon.awssdk	ssmincidents	2.31.37		90ceee232564f901d3c43f052037979cf8e6dc67
+software.amazon.awssdk	ssmincidents	2.31.38		7c0404ac5f490dd0d5d79cb03bc825993b620f40
+software.amazon.awssdk	ssmincidents	2.31.39		a41e261d8450581c993cc2e10f56c38ca756d140
 software.amazon.awssdk	ssmincidents	2.31.4		b4d9893946af3082d469d0bfe4984fb41be15edd
+software.amazon.awssdk	ssmincidents	2.31.40		0f122e2ac6d0241a575cdb8582252077e2debb31
+software.amazon.awssdk	ssmincidents	2.31.41		7a2c5fcc737e83c8b16f1d6a4cd96ce9ad47d0b6
+software.amazon.awssdk	ssmincidents	2.31.42		ae557d0f9bc4d55547b5294653e8eee99b7f817f
+software.amazon.awssdk	ssmincidents	2.31.43		353eb25262eca2276fca0e3a7605522f74de12de
+software.amazon.awssdk	ssmincidents	2.31.44		ba21d160f6e96a86faefd210690bb1ba5308ddba
 software.amazon.awssdk	ssmincidents	2.31.5		7da7da22507515031b72541efddfe94dc886b93f
 software.amazon.awssdk	ssmincidents	2.31.6		3222e4198796e427263ae07622423c8a8e81ed94
 software.amazon.awssdk	ssmincidents	2.31.7		4d473484b3b0172b2eb3f2c9711c38e3415f766b

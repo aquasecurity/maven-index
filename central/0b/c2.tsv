@@ -82,6 +82,7 @@ com.avsystem.commons	commons-analyzer_2.13	2.2.8		293be20c06408cb98d125c8ae26226
 com.avsystem.commons	commons-analyzer_2.13	2.2.9		feee2c40e9d6faee850b1230ea60a4cb8c5b0efa
 com.avsystem.commons	commons-analyzer_2.13	2.20.0		d62ab4bb10e4d89094dbc445d723664a8b59cc5b
 com.avsystem.commons	commons-analyzer_2.13	2.21.0		b761955864e3db15920f35994656b6fe8b359359
+com.avsystem.commons	commons-analyzer_2.13	2.22.0		7adfc01ee2ead96f7cb01a9ceca2260e70a32f5b
 com.avsystem.commons	commons-analyzer_2.13	2.3.0		2fb48f6caa2e10518312bbb6ac2671cad364cc5c
 com.avsystem.commons	commons-analyzer_2.13	2.4.0		602858bca06b76dc5f4b5013e02dfb3f599ce485
 com.avsystem.commons	commons-analyzer_2.13	2.5.0		851bafc527e2f6133a57cc4141b0b3176375a082
@@ -441,6 +442,7 @@ com.seeq.test-categories	common-test-categories	65.1.12-v202503250325		2ad14aed7
 com.seeq.test-categories	common-test-categories	65.1.13-v202504290922		2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.seeq.test-categories	common-test-categories	65.1.13-v202504291030		2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.seeq.test-categories	common-test-categories	65.1.13-v202505020024		2ad14aed781c4a73ed4dbb421966d408a0a06686
+com.seeq.test-categories	common-test-categories	65.1.13-v202505070109		2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.seeq.test-categories	common-test-categories	65.1.2-v202407230215		2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.seeq.test-categories	common-test-categories	65.1.3-v202408082312		2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.seeq.test-categories	common-test-categories	65.1.4-v202408220008		2ad14aed781c4a73ed4dbb421966d408a0a06686
@@ -1598,8 +1600,15 @@ com.yahoo.vespa	zookeeper-command-line-client	8.511.14		595fcddc6e180de2716bc16e
 com.yahoo.vespa	zookeeper-command-line-client	8.512.63		b0dbb4144e3247fad940f4b48c006d33e0944917
 com.yahoo.vespa	zookeeper-command-line-client	8.513.17		c65c4471b4c6b7490cff35f61b44fade1c30ebf3
 com.yahoo.vespa	zookeeper-command-line-client	8.514.24		6e82dec329440e9edf998b34256265f35ea0ebf0
+com.yahoo.vespa	zookeeper-command-line-client	8.515.40		4347750e206e2cbe9541dc94d9b4ac935eb59013
+com.yahoo.vespa	zookeeper-command-line-client	8.516.26		97c264e3a08b4a8ff03cdb9250ec9d1e6f7d8e7d
+com.yahoo.vespa	zookeeper-command-line-client	8.517.15		5aec8a4badcb6ec304bfa14560369577c7d45075
+com.yahoo.vespa	zookeeper-command-line-client	8.518.4		6cc47aacae9b6b884ff1149fc0a9ef4760128a49
+com.yahoo.vespa	zookeeper-command-line-client	8.519.55		88c53522dd49b7803eb492da778fa95bbb61cf09
 com.yahoo.vespa	zookeeper-command-line-client	8.52.15		30f632c97b03319547cc28acbdf4a0bc3f5b844c
 com.yahoo.vespa	zookeeper-command-line-client	8.52.15	jar-with-dependencies	91947e27ad7d74e20cd3678cf0c21caac76e98aa
+com.yahoo.vespa	zookeeper-command-line-client	8.520.18		0716536b8d2295679cac877276f56e193d0e4828
+com.yahoo.vespa	zookeeper-command-line-client	8.521.17		adaeb64c97f675c21daad59f06478fae4237d432
 com.yahoo.vespa	zookeeper-command-line-client	8.53.21		0f7730728c1fdc235b2701f7aa7df929e5865261
 com.yahoo.vespa	zookeeper-command-line-client	8.53.21	jar-with-dependencies	76c3a149315f1767f518889dde8326555bfc1cc4
 com.yahoo.vespa	zookeeper-command-line-client	8.54.61		e84f96b75e771100ad471c10f787e7fa62a667b4
@@ -1814,6 +1823,10 @@ io.fabric8.ipaas.distro	distro	2.2.96		N/A
 io.fabric8.ipaas.distro	distro	2.2.97		N/A
 io.fabric8.ipaas.distro	distro	2.2.98		N/A
 io.fabric8.ipaas.distro	distro	2.2.99		N/A
+io.get-coursier	sbt-coursier_2.12_1.0.0-M6	1.0.0-RC4		70497202c3a65a82be82ad0406c6735cb0c322b7
+io.get-coursier	sbt-coursier_2.12_1.0.0-M6	1.0.0-RC5		90c01aff3712d8a61b5259180a67662d15bd10ff
+io.get-coursier	sbt-coursier_2.12_1.0.0-M6	1.0.0-RC6		e7e863812feb4b45acfd9c47fd0fcd6d69d084be
+io.get-coursier	sbt-coursier_2.12_1.0.0-M6	1.0.0-RC7		af6238bf3dc302ec8bc3d2b043ab28f5d7a46a88
 io.github.awsjavakit	logutils	0.10.0		b230fd573aa7f31c0423be41f96951bb14737e70
 io.github.awsjavakit	logutils	0.10.2		922cf20a25b72f8956ad03074fd742ec6c1b9ea8
 io.github.awsjavakit	logutils	0.10.3		a9ad36076a6437f506e36768db685d77b05f977f
@@ -2089,6 +2102,7 @@ io.liftwizard	liftwizard-bundle-graphql	2.1.28		2f65db517de60e0458bc386153641c27
 io.liftwizard	liftwizard-bundle-graphql	2.1.29		cf0e924868de5366fbff547991c775d5328eb118
 io.liftwizard	liftwizard-bundle-graphql	2.1.3		0646123a0a3285b98d1f2bb1a76c68f7232ebf60
 io.liftwizard	liftwizard-bundle-graphql	2.1.30		5381ecc7c935865224e1621b9517e170f92ae135
+io.liftwizard	liftwizard-bundle-graphql	2.1.31		1295c8f0cb1f510d0581e243268df08044395035
 io.liftwizard	liftwizard-bundle-graphql	2.1.4		4b2742a4db792db2c927f18dc219ae4cc697b55b
 io.liftwizard	liftwizard-bundle-graphql	2.1.5		0ed60039e19591006f6f01c03f975b11ab45b648
 io.liftwizard	liftwizard-bundle-graphql	2.1.6		ade07da6ba157aad5a0c10e55498759f05ec791e

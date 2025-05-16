@@ -101,6 +101,7 @@ com.expediagroup	graphql-kotlin-dataloader	6.1.0		70846dd0edd9c2c516f721ce57adad
 com.expediagroup	graphql-kotlin-dataloader	6.10.0		96e87cc65cc2eaf98d7d02c2a48cc202414caccf
 com.expediagroup	graphql-kotlin-dataloader	6.10.1		b011df6d6cb7918bbd5f796ed066295ebe69b12b
 com.expediagroup	graphql-kotlin-dataloader	6.10.2		36b165492809403a0740c7676f7af177b4a3c046
+com.expediagroup	graphql-kotlin-dataloader	6.11.0		afb86d859c9e8fc089609663170f81118d9939f3
 com.expediagroup	graphql-kotlin-dataloader	6.2.0		fe195746c37954ea8720605cb39c6cb3066b970a
 com.expediagroup	graphql-kotlin-dataloader	6.2.1		752146f04442609e6ce4927f9189591fea0c0678
 com.expediagroup	graphql-kotlin-dataloader	6.2.2		7ff589add069ce831f3f6aec6a68ae84f73ac34d
@@ -173,6 +174,7 @@ com.expediagroup	graphql-kotlin-dataloader	9.0.0-alpha.4		f8fe2d8e28810166755600
 com.expediagroup	graphql-kotlin-dataloader	9.0.0-alpha.5		a1a19eecdee2489cebbbf1f31272f605e497d0de
 com.expediagroup	graphql-kotlin-dataloader	9.0.0-alpha.6		067882a6bd7b5d711af0340befce76fd306fd339
 com.expediagroup	graphql-kotlin-dataloader	9.0.0-alpha.7		58f86f4e5de58f747e557bd0c588de4678fb1d49
+com.expediagroup	graphql-kotlin-dataloader	9.0.0-alpha.8		71964890bc5104df93b37b4083ee897199d9037e
 com.fleeksoft.ksoup	ksoup-engine-kotlinx-iossimulatorarm64	0.1.5		N/A
 com.fleeksoft.ksoup	ksoup-engine-kotlinx-iossimulatorarm64	0.1.5	metadata	21d536bac16b55452f704231f42470d6d4b9d17a
 com.fleeksoft.ksoup	ksoup-engine-kotlinx-iossimulatorarm64	0.1.6		N/A
@@ -242,6 +244,7 @@ com.github.docker-java	docker-java-transport-jersey	3.4.0		18862570681580f70f61c
 com.github.docker-java	docker-java-transport-jersey	3.4.1		c4fd79b25d1346ffb578d7840489bdb61a932536
 com.github.docker-java	docker-java-transport-jersey	3.4.2		f2461edcea5ae08b7ebcbd3034ee6d13262c25cd
 com.github.docker-java	docker-java-transport-jersey	3.5.0		beda76bdb437cd637d5a590f1d1abe84664061d4
+com.github.docker-java	docker-java-transport-jersey	3.5.1		a8aab240cafc5619ecdb33d59529f7643683f852
 com.github.mizosoft.methanol	methanol	1.0.0		d2c782a1d9d8bc52f6b251cdf438aaf2af003659
 com.github.mizosoft.methanol	methanol	1.1.0		9920a43c48fb2f5dff72eb6b19c40af4876c1c58
 com.github.mizosoft.methanol	methanol	1.2.0		4fa29f31effaf4a7cdc5c054ed068d8ff3ce7760
@@ -566,6 +569,7 @@ io.github.kdroidfilter	kosherkotlin-iosx64	2.5.2		N/A
 io.github.kdroidfilter	kosherkotlin-iosx64	2.5.2	metadata	b9ccd633cb4d9bc4c8e4cfafeb1774eaf180a54a
 io.github.kdroidfilter	kosherkotlin-iosx64	2.5.3		N/A
 io.github.kdroidfilter	kosherkotlin-iosx64	2.5.3	metadata	cabc3c444a8056e3989c175e2a83b3fea4faa970
+io.github.kevincianfarini.monarch	launch-darkly-integration-tvosarm64	0.2.4	metadata	815614c72b4e1cd29c8d3a3f75820091a117af5f
 io.github.lizhian	easier-framework-starter-doc	2.7.2023.1		46c368bf3ce58a683d1b7113dae49831f8e1ebd7
 io.github.mjcro	maskid	1.0.0		38ed5549c98acf29975d895dc12ba9cfc1a8265b
 io.github.offlinebrain	khexagon-native	0.1.2		N/A
@@ -588,6 +592,9 @@ io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.0.3-Beta1		d7884ffd81c159
 io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.0.3-RC1		d7884ffd81c1597ce58137e6090bb6715623c07c
 io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.0.4		d7884ffd81c1597ce58137e6090bb6715623c07c
 io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.1.0-Beta1		0ed32f6fad531d7f1ab9fdeaf2ed608da7edf08c
+io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.1.0-Beta10		02aa38ec0a32125545820136da4db16e43556043
+io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.1.0-Beta11		02aa38ec0a32125545820136da4db16e43556043
+io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.1.0-Beta13-KTOR-EAP		02aa38ec0a32125545820136da4db16e43556043
 io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.1.0-Beta3		d9cdf0e9288b3ef9600616ee938bb7668a93b594
 io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.1.0-Beta4		d9cdf0e9288b3ef9600616ee938bb7668a93b594
 io.insert-koin	koin-compose-viewmodel-navigation-jvm	4.1.0-Beta5		d9cdf0e9288b3ef9600616ee938bb7668a93b594
@@ -700,6 +707,8 @@ io.jooby	jooby-graphiql	3.5.5		f87b2b61c0b172561064ef64827df67e59d23fbf
 io.jooby	jooby-graphiql	3.6.0		4b481e70d7de30148e07fbffb42c6a7787043edb
 io.jooby	jooby-graphiql	3.6.1		e701ba7184b4c599203089dec0d5f4f5279c4143
 io.jooby	jooby-graphiql	3.7.0		fd2b1349e69e15c82ca333961f69f5c6fc686ba5
+io.jooby	jooby-graphiql	3.8.0		d5b1596abdd745ea0c44be4b755ab086d9c80b9a
+io.jooby	jooby-graphiql	3.8.1		1bd7d6f81fa1bbf7e2b76800f92c137654ce7d91
 net.guerlab.sms	guerlab-sms-aliyun	1.10.0		4a9b1d9d23ec994f0437f434fe9710e9cb6ae953
 net.guerlab.sms	guerlab-sms-aliyun	1.11.0		ae0a13d477dcdef6e38032d6510f697a08dd44d7
 net.guerlab.sms	guerlab-sms-aliyun	1.12.0		e19429cbf09c46785bce8e9513689f330eecc0e3
@@ -786,6 +795,7 @@ org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.2.1		839165d274507fa9be2cb1
 org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.2.2		9d7b18314e410e50a381278ebd623732077c95d4
 org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.2.3		3ccc7ff7e73e5221253e5cd6daaa17299c86504a
 org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.20.0		8571b3112494ab0562dd4d33fe22972ba88beaef
+org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.20.1		b50a6e830a2e9bd647b16807f05e1b8905ceb992
 org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.22.0		ea9891d9532df51c1f8a5fd40454538d6a1d5f62
 org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.4.0		925a4dad9bb1b58eb934fee0a9c9de8057bafce8
 org.apache.camel.quarkus	camel-quarkus-aws2-lambda	3.5.0		3451d5d7d177ba5defa34d714e700788ceab89b6
@@ -824,6 +834,7 @@ org.atlanmod.zoo	emf.trace	1.0.1		65fa2c622f422057d1c8e1d8592fb1de7dbabdf8
 org.atlanmod.zoo	emf.trace	1.0.2		edb0171497689262d150beb12ca46aacdd09c065
 org.atlanmod.zoo	emf.trace	1.0.4		16e1faa752d04b776bbc00933098801d88be64e8
 org.atlanmod.zoo	emf.trace	1.0.5		f0f4005cbc41ef4d2206a996a3c0cde96c65dd00
+org.bitlap	sbt-kotlin-plugin_2.12_1.0	4.0.0		c830617eb34ebf5faaccd7777447c0b808ea4b05
 org.deeplearning4j	deeplearning4j-ui_2.10	0.7.0		c0888a48d26048e1f5ad2f83d2ec420290efa2b4
 org.deeplearning4j	deeplearning4j-ui_2.10	0.7.1		6d60b1f392db8bc8c5ca354e563ce0febf905c3f
 org.deeplearning4j	deeplearning4j-ui_2.10	0.7.2		4e47a6d9711445abd3fdbca45470174ef0b9bf38

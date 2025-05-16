@@ -1358,7 +1358,14 @@ com.yahoo.vespa	config-bundle	8.511.14		e46d6141ac198f4a3d7ff8fe47bad6a9a8840be0
 com.yahoo.vespa	config-bundle	8.512.63		672749822368098c8ffb912533c06cd3233477f4
 com.yahoo.vespa	config-bundle	8.513.17		a27ab43e1b35d289111d6bb385c6a5b60cbd5ed1
 com.yahoo.vespa	config-bundle	8.514.24		4aa0961f20441bfa8c92ae55eaaef5803b067f45
+com.yahoo.vespa	config-bundle	8.515.40		e211cdeeb25bc734082f94bb572f730101e88609
+com.yahoo.vespa	config-bundle	8.516.26		1559930ced0aebcb568050228ab21533af8a6c08
+com.yahoo.vespa	config-bundle	8.517.15		b427d9d83c6f7497c1cf6d696062cffcc478161e
+com.yahoo.vespa	config-bundle	8.518.4		f7eb82081c38d20c761ad9ac49b07c7916b34f70
+com.yahoo.vespa	config-bundle	8.519.55		9711f53c68127138e2f53443d7a15939c720197b
 com.yahoo.vespa	config-bundle	8.52.15		3f63bbb6f1e5b874b316e6d6904cff3110008392
+com.yahoo.vespa	config-bundle	8.520.18		4eda2d29b15f240a3204fb82abfca6e72ab747fe
+com.yahoo.vespa	config-bundle	8.521.17		5932317f7a1983e985f6fbfa1c531621488390c5
 com.yahoo.vespa	config-bundle	8.53.21		d9c6916f76ef7ffce3f4204e3d1dc2a850f62510
 com.yahoo.vespa	config-bundle	8.54.61		f3cbd71f724515dcb82ed15da8fe2b2ba8443112
 com.yahoo.vespa	config-bundle	8.56.20		150628a8a71e6afd5bd1dc97b9702b72e707fad1
@@ -1618,6 +1625,8 @@ io.ktor	ktor-serialization-kotlinx-iosx64	3.1.1		dfccb55ca0ee27182a8a7af147423b2
 io.ktor	ktor-serialization-kotlinx-iosx64	3.1.1	metadata	54e7103147d53575acacdeb729dfe14dfb8c2b7c
 io.ktor	ktor-serialization-kotlinx-iosx64	3.1.2		71ba439aca77c03915c0a440b169f1ec2a2a99f5
 io.ktor	ktor-serialization-kotlinx-iosx64	3.1.2	metadata	41b04b7a03e178e42fa21db4cae2665eb83fd792
+io.ktor	ktor-serialization-kotlinx-iosx64	3.1.3		1452db3e960848a6b85451f3f71ad7dd2aee123b
+io.ktor	ktor-serialization-kotlinx-iosx64	3.1.3	metadata	889cfb5552fc97488dc37097bcd8ebeaad8b379b
 io.quarkiverse.microprofile	quarkus-microprofile-tck-jsonb	3.1.0		d4443c77a8005d0a56a81277f5067eb460f5c995
 io.quarkiverse.microprofile	quarkus-microprofile-tck-jsonb	3.2.0		5403d00827a5afab68a8c1bc5cd32d60e69ceb69
 io.quarkiverse.microprofile	quarkus-microprofile-tck-jsonb	3.3.0		86979ab0afd2e9db7e8164a9fe0c2f6b8cbfce78
@@ -1715,6 +1724,7 @@ org.apache.arrow	arrow-compression	17.0.0		3130a237c80ec64f6e0c4e8d26bd76f771b44
 org.apache.arrow	arrow-compression	18.0.0		206c6dff9e423f7bc1ee9771574097d0a2c60ef7
 org.apache.arrow	arrow-compression	18.1.0		38a0adae27a4a9c0c66918c70b0b2b98eea9523e
 org.apache.arrow	arrow-compression	18.2.0		eedadc2c2d83c21e5ebfde1b62a09940df6e86b2
+org.apache.arrow	arrow-compression	18.3.0		f7c0b9cadf829e5e75ca651a984e8278e316f31b
 org.apache.arrow	arrow-compression	4.0.0		8ca995d3a5d87fb1a9f584f9453c5c28ace42972
 org.apache.arrow	arrow-compression	4.0.1		186afdaa0704008033edfe848220e9e1837804ee
 org.apache.arrow	arrow-compression	5.0.0		710cf22bd5dfbc0a6a74c7ecf6fead4f532ef95d
@@ -1840,6 +1850,7 @@ org.apache.camel.springboot	camel-pg-replication-slot-starter	4.8.3		d2a09226987
 org.apache.camel.springboot	camel-pg-replication-slot-starter	4.8.4		df8eecc72bfc0a27491d08f0907def1ac9deeace
 org.apache.camel.springboot	camel-pg-replication-slot-starter	4.8.5		6dbb96bd44e9007f25003d39c151dcb3993d50b1
 org.apache.camel.springboot	camel-pg-replication-slot-starter	4.8.6		caa1834bb97275d0b931bde0052f019943ab19bb
+org.apache.camel.springboot	camel-pg-replication-slot-starter	4.8.7		cdf18872bdae7a735da13a171dc3e26ea03c2fb6
 org.apache.camel.springboot	camel-pg-replication-slot-starter	4.9.0		ce944bdd333aa283ce551891aa30dbae3dd3cfae
 org.apache.linkis	linkis-engineconn-common	1.0.3		d738ccf2d73a7305802f803ffbad401da38d1258
 org.apache.linkis	linkis-engineconn-common	1.1.0		3dff785f5a42988e5da26257a61af646bf3d91bb
@@ -2413,6 +2424,12 @@ org.scommons.api	scommons-api-joda-time_2.13	0.7.0		32d4898207800c633186318a63d7
 org.scommons.api	scommons-api-joda-time_2.13	0.8.1		9adfa9f31a298b4e929f1168e4a1ff2f33279221
 org.scommons.api	scommons-api-joda-time_2.13	0.9.0		bd9109a282e54b206885eebbeed2dda08711f092
 org.scommons.api	scommons-api-joda-time_2.13	1.0.0		d1e63b584835aec38bfa8cd03908487d0335b4bb
+org.scrupal	scrupal-sbt_2.10_0.13	0.2.6		9ccd07606509cad4abaab2131e5414b07a47cfbd
+org.scrupal	scrupal-sbt_2.10_0.13	0.2.7		2150b8beb94bb77febcdcaabd01cdbe611111652
+org.scrupal	scrupal-sbt_2.10_0.13	0.2.8		28617c836e3ae1dbd397feef49a2e2547d03d1f8
+org.scrupal	scrupal-sbt_2.10_0.13	0.3.0		326311c0eac79bf74924b1341ad18630769464a0
+org.scrupal	scrupal-sbt_2.10_0.13	0.4.0		c5e97fde7c6015c680e0e2adee8bfe77e692a049
+org.scrupal	scrupal-sbt_2.10_0.13	0.4.1		630cec7887929fde548fc9f67f0fb8cfc218e3e9
 org.spongepowered	configurate-yaml	3.7		2c3b914d3a9ab37d5746da14dbea82d8e6b210e5
 org.spongepowered	configurate-yaml	3.7.1		a0c3eec370aa9bdec3f450f842edcb03f6d42be2
 org.spongepowered	configurate-yaml	3.7.2		a0c3eec370aa9bdec3f450f842edcb03f6d42be2

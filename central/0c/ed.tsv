@@ -927,6 +927,7 @@ io.fabric8	kubernetes-junit-jupiter	7.0.0		ca77a9030175a21214aadbb72ca771d364d9d
 io.fabric8	kubernetes-junit-jupiter	7.0.1		f9a985759cbf57911a02a8da6b72e8742a67b155
 io.fabric8	kubernetes-junit-jupiter	7.1.0		0dba9ef003596b747555021b697a9833c995546d
 io.fabric8	kubernetes-junit-jupiter	7.2.0		f2a5369498c5a0a9c58f8b8be92ec174cd75dfec
+io.fabric8	kubernetes-junit-jupiter	7.3.0		adcb36dd2b6fef6a837aa564d9c601f594cc577e
 io.github.770grappenmaker	mappings-util	0.1		e343fe4f9c855231d1b4fd7f726c32995bcd67ee
 io.github.770grappenmaker	mappings-util	0.1.1		d527916ff3463de6f86498261ff0069a1a115a4e
 io.github.770grappenmaker	mappings-util	0.1.2		fbddd90b6858702eb2a099a4750daea6c939cf11
@@ -1045,6 +1046,13 @@ io.github.gitbucket	gitbucket_2.13	4.40.0		09e8f29c667c8f4af47c82b1f453eb2143cc8
 io.github.gitbucket	gitbucket_2.13	4.41.0		2a9a252e611e70110e7e7d86ad633164db6b19cc
 io.github.gitbucket	gitbucket_2.13	4.42.0		96adfd3a8de1964f5c381f95b68964711ea75605
 io.github.gitbucket	gitbucket_2.13	4.42.1		0130e669f0197621af189bb09cfff2419d977a8f
+io.github.knoldus	codesquad-sbt-plugin_2.12_1.0	0.0.2		88a26ace9ae44a3ed458128cf19f6368f0622c86
+io.github.knoldus	codesquad-sbt-plugin_2.12_1.0	0.0.3		bcc718ac2cebfb956fddc0f5ca5cfac9184b3df6
+io.github.knoldus	codesquad-sbt-plugin_2.12_1.0	0.0.4		6786617708e2fec4b326439b88394133c3e30a02
+io.github.knoldus	codesquad-sbt-plugin_2.12_1.0	0.0.5		658f76cd70c61541358f075445ed72e2fea151a8
+io.github.knoldus	codesquad-sbt-plugin_2.12_1.0	0.0.6		07f39f5bb9deb5e9a8d5a5c026635df096e9877c
+io.github.knoldus	codesquad-sbt-plugin_2.12_1.0	0.2.0		a0b7928857f295c83a02e10c4aaf4419618c1a44
+io.github.knoldus	codesquad-sbt-plugin_2.12_1.0	0.2.1		96449ccc0150a3ff434416c56ad3c34c06b9d14e
 io.github.kotlingeekdev	ballast-iossimulatorarm64	1.0-beta-07		N/A
 io.github.kotlingeekdev	ballast-iossimulatorarm64	1.0-beta-07	metadata	574b64a73f06494812fcb65e847d6aded503ea72
 io.github.lyxnx.compose	compodals-android	1.2.0		N/A
@@ -1568,6 +1576,7 @@ io.quarkus	quarkus-rest-client-jsonb	3.15.2		46ad42f4d2624f43b6f030f204a82bb0786
 io.quarkus	quarkus-rest-client-jsonb	3.15.3		7aa522aa2064d7c94fcae07a958b6159db654a6c
 io.quarkus	quarkus-rest-client-jsonb	3.15.3.1		7e92f5e7e41f6a5fbd8d5ebda03c46a51f978f6f
 io.quarkus	quarkus-rest-client-jsonb	3.15.4		92b728a93291896df495a7edf51bcc7738d6787c
+io.quarkus	quarkus-rest-client-jsonb	3.15.5		98cf7004020eee31db39bc93c5a8404593c0c344
 io.quarkus	quarkus-rest-client-jsonb	3.16.0		c52cbbd3c61bccd1aebab02f8f0580d41421f036
 io.quarkus	quarkus-rest-client-jsonb	3.16.0.CR1		e3e6896c39272d229e16d136cdde43bdd0ec579d
 io.quarkus	quarkus-rest-client-jsonb	3.16.1		37ce26a8cdd12e452a931716c5b9842361e790d0
@@ -1612,6 +1621,7 @@ io.quarkus	quarkus-rest-client-jsonb	3.2.8.Final		32c1ab01645a2a84121c323625adbd
 io.quarkus	quarkus-rest-client-jsonb	3.2.9.Final		dc78b19288dbaffde79da3bf23b1306fd0f4adb1
 io.quarkus	quarkus-rest-client-jsonb	3.20.0		0b98fa1b066f061ded0addbd1c440ee836bbf789
 io.quarkus	quarkus-rest-client-jsonb	3.20.0.CR1		494afd4a4beaf51003e8b7a5591022ff883c81e0
+io.quarkus	quarkus-rest-client-jsonb	3.20.1		78ec2596b8723c263db1ed2f1c1c11820e8dffaf
 io.quarkus	quarkus-rest-client-jsonb	3.21.0		ff542d4784117e611211f3ed470b6a917c3328e2
 io.quarkus	quarkus-rest-client-jsonb	3.21.0.CR1		71efd665a1090b8715c7afc9091eee60898a2f88
 io.quarkus	quarkus-rest-client-jsonb	3.21.1		0689a7d3e000237421a89e33ebfe0ee4f9cab2ef
@@ -1621,6 +1631,9 @@ io.quarkus	quarkus-rest-client-jsonb	3.21.4		22b532f248ddbc1913291c7af1fcaef392d
 io.quarkus	quarkus-rest-client-jsonb	3.22.0		875f6e7060b0aa3c9945833d2e8bcbe41e52be79
 io.quarkus	quarkus-rest-client-jsonb	3.22.0.CR1		0de14caa23ed1fb875e542143abe5fb3f3b44a25
 io.quarkus	quarkus-rest-client-jsonb	3.22.1		157e0311ce54e5fb763f37086a9a6f7ff786498e
+io.quarkus	quarkus-rest-client-jsonb	3.22.2		79e6d8ba0811aa814a53257eb0a1d7f7be8f2782
+io.quarkus	quarkus-rest-client-jsonb	3.22.3		0c63990f48d0707c783056851b27f5698c14c0c4
+io.quarkus	quarkus-rest-client-jsonb	3.23.0.CR1		afa58bcb40d204cc6637ea4ed24a7a5e815a53ac
 io.quarkus	quarkus-rest-client-jsonb	3.3.0		0db6349704f818bed16f83ed7ee887132ceed4e7
 io.quarkus	quarkus-rest-client-jsonb	3.3.0.CR1		5a57a51d130bf92cfc980242ab3d84d3d8081078
 io.quarkus	quarkus-rest-client-jsonb	3.3.1		fae2c3d14a4603a43d5b614f056e61d42a3ed6c9
@@ -2094,6 +2107,7 @@ org.mongodb	bson-kotlin	5.3.0-beta0		18aa57689b2444b7e552f2fe06037fced3fe7c68
 org.mongodb	bson-kotlin	5.3.1		cea9f0e66f7ffbe01764e0824491d237cc3c2051
 org.mongodb	bson-kotlin	5.4.0		7afc4b14d45651b1c1ddea835347e05332191354
 org.mongodb	bson-kotlin	5.4.0-alpha0		3d3b203d5bf294388031d35995c737ae4dd695e1
+org.mongodb	bson-kotlin	5.5.0		497f3834f2c1a1e035653b085336820f032c87d2
 org.mvnpm	make-dir	2.1.0		fb2fc22a2c27739cd890af974431d85acaf45081
 org.mvnpm	make-dir	3.1.0		82fd70f7be9fa07ec93978f060499287463d2d21
 org.mvnpm	make-dir	4.0.0		fd5b805978a6bb0ee7db54be6b1da472aeae5f7a
@@ -2600,7 +2614,18 @@ software.amazon.awssdk	http-auth-spi	2.31.30		7085d15f830ecbb719e5dd850d4cb08056
 software.amazon.awssdk	http-auth-spi	2.31.31		5df13b7356239a42f189df59c7cfa8157c569964
 software.amazon.awssdk	http-auth-spi	2.31.32		64871770b4140ba61267e4ba22f62b55fc2118cc
 software.amazon.awssdk	http-auth-spi	2.31.33		bdb5037d31183f44f71aba771abab85284f34f7a
+software.amazon.awssdk	http-auth-spi	2.31.34		509f0e0d975f50c6072589b27dc32828fb1eb15a
+software.amazon.awssdk	http-auth-spi	2.31.35		3f42768bc3a8de839ae24c21b7aaf5690e6a5685
+software.amazon.awssdk	http-auth-spi	2.31.36		7d832075a2bfcdd15bc841f0ea0a917ef60116d0
+software.amazon.awssdk	http-auth-spi	2.31.37		04ba09d032c8aef2bd2d0b897a331dcbe6106c1d
+software.amazon.awssdk	http-auth-spi	2.31.38		67a68c49d0747faf54a5d27c4258c2fb123d4de7
+software.amazon.awssdk	http-auth-spi	2.31.39		6a90f2c43e34c5f2d76b0c078d2b661b3e0769f0
 software.amazon.awssdk	http-auth-spi	2.31.4		efc794cf896dcec6b65e346b01a6b88a89437e02
+software.amazon.awssdk	http-auth-spi	2.31.40		f8addb4ff0b43470145a50d6611146c0d67535c5
+software.amazon.awssdk	http-auth-spi	2.31.41		a6fa997b2ce921f7e71cd41019fadb6b84bc4f92
+software.amazon.awssdk	http-auth-spi	2.31.42		69fb7436b8d9beac81f72cb2c873340184b96d3c
+software.amazon.awssdk	http-auth-spi	2.31.43		417e1a4991007a908b10c9b4476d2e51316f250a
+software.amazon.awssdk	http-auth-spi	2.31.44		8b4207028c3331122834a54c3269814a3d56e359
 software.amazon.awssdk	http-auth-spi	2.31.5		7624c92f2156ca0802fdbebc8e5ebb73c021d365
 software.amazon.awssdk	http-auth-spi	2.31.6		154eb335098c2263cc4893867e0926b9755deac1
 software.amazon.awssdk	http-auth-spi	2.31.7		b0959b5ff8daf85b12a76c6dfea7a39d71918750

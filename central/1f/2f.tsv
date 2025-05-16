@@ -70,6 +70,7 @@ com.chuusai	shapeless_2.11	2.4.0-M1		db069e95f88c36c5480d460255926756b92e0026
 com.eygraber	compose-color-picker-desktop	0.0.1		6843f931fbbd396045b61f8b59bee8433163e912
 com.eygraber	compose-color-picker-desktop	0.0.2		b31bede5d02e3d03bef67f9cb9e90e625c48c3b2
 com.github.albfernandez.richfaces.cdk	cmdln-generator	10.0.0		c74fbd1934b35649dc79787e3ef6094a0bfaf7af
+com.github.albfernandez.richfaces.cdk	cmdln-generator	10.0.1		c2f8b8d6932e3e3ba580c9e2030f2dae09bf21e0
 com.github.albfernandez.richfaces.cdk	cmdln-generator	4.6.0.ayg		25dd2222db78000629142e35f125e2da58b48337
 com.github.albfernandez.richfaces.cdk	cmdln-generator	4.6.1.ayg		8e6aab511f003e3c5a8395ab0051822f8e62b93c
 com.github.jmicrostack	karaf-python	2.0		N/A
@@ -777,6 +778,7 @@ io.quarkus	quarkus-qute	3.15.2		34148c7432f08c3ee8ef07e39cae6678534f6416
 io.quarkus	quarkus-qute	3.15.3		5cb6b66adc6b437b066e6a65e66f6daedfdc975d
 io.quarkus	quarkus-qute	3.15.3.1		89f50a03158fc31a0c3c8cfcba4d3ee98a5500e6
 io.quarkus	quarkus-qute	3.15.4		604f27106063c201214ae6b15c8d1b2d34f5925a
+io.quarkus	quarkus-qute	3.15.5		fee5d90cdd1c467891337e6e95da0625cc17c0bb
 io.quarkus	quarkus-qute	3.16.0		12f64cd7fb2bf830db29bf4d7e51de2d1298ffad
 io.quarkus	quarkus-qute	3.16.0.CR1		7e94745fe9774bf1c43e5a2907de3fbe045994e2
 io.quarkus	quarkus-qute	3.16.1		249fca67104765b13462a82b51ca05393d5e45a9
@@ -821,6 +823,7 @@ io.quarkus	quarkus-qute	3.2.8.Final		4ccede31613233c173a0345e230ce916c946b177
 io.quarkus	quarkus-qute	3.2.9.Final		cb74b4ab336070859f074083ae669c4585918a32
 io.quarkus	quarkus-qute	3.20.0		282471e6712c25a31d2221b875c83c0554f76c73
 io.quarkus	quarkus-qute	3.20.0.CR1		b69b00cf0e346249d082dabd9531a9c9171306f4
+io.quarkus	quarkus-qute	3.20.1		4d1d404a7d4495b5798a566096688a43eb20d625
 io.quarkus	quarkus-qute	3.21.0		a3ed757d1f553baa08daec2648f0eef8f8bf6371
 io.quarkus	quarkus-qute	3.21.0.CR1		fe33587f5519fe4bb00bb3357d73ec44455d6cb6
 io.quarkus	quarkus-qute	3.21.1		99dcb38e0ad89ec166fb25e50d835f28317f7cc4
@@ -830,6 +833,9 @@ io.quarkus	quarkus-qute	3.21.4		f5755ed53909636e545c24a02943ec7df391dda7
 io.quarkus	quarkus-qute	3.22.0		d154a6f94eb6d0655ac97fd42f44e4118fdf9658
 io.quarkus	quarkus-qute	3.22.0.CR1		a48802335f7271cf4de4d01f2960ce16ef303044
 io.quarkus	quarkus-qute	3.22.1		6ce32fc37715e7136e08cb08568d8ecad3f01f29
+io.quarkus	quarkus-qute	3.22.2		79162b12ff0fc9d468d09fe897f2689e431ad66a
+io.quarkus	quarkus-qute	3.22.3		0c847df6c656c7e0164a5d69ad67ce81e12f8efd
+io.quarkus	quarkus-qute	3.23.0.CR1		9935b32dd0528bf0ede234f1ae309db0291155e9
 io.quarkus	quarkus-qute	3.3.0		2324d0ab023abdb1e7b2ce5c7867b51eae04fc1c
 io.quarkus	quarkus-qute	3.3.0.CR1		374bc42959ff9b1e560558e0da44c7ebafdbb2e6
 io.quarkus	quarkus-qute	3.3.1		c143e475de97fb08dfa1dcb94708fe086665bbda
@@ -944,6 +950,7 @@ org.apache.camel	camel-mapstruct	4.8.3		73e31a6d4fa99b3dc0e02c0f59f4bf2817dc675f
 org.apache.camel	camel-mapstruct	4.8.4		bb8e4044b50c864843fb869ce6b2e61ecf3fe026
 org.apache.camel	camel-mapstruct	4.8.5		92da78ac53a76dda4562c4f1f5ff179397d43d7d
 org.apache.camel	camel-mapstruct	4.8.6		7b2d8079cb2388ad2eb346ee41e518c324b0d7f9
+org.apache.camel	camel-mapstruct	4.8.7		6182d0aa77d5ed68e500e0d265e5a9078360f14a
 org.apache.camel	camel-mapstruct	4.9.0		501f3771db7c7ec79bd4167f288032aebd06ebd4
 org.apache.causeway.extensions	causeway-extensions-executionoutbox-applib	2.0.0		a9e25dd2d6d04d0ae9868f0260e75cffb99d7b48
 org.apache.causeway.extensions	causeway-extensions-executionoutbox-applib	2.0.0-RC1		d527578c4c88fae0654ce4b378572f6f5a5e1631
@@ -1397,6 +1404,32 @@ org.eclipse.dirigible	dirigible-application	11.43.0		078e1533b8e6e7d231035417bcb
 org.eclipse.dirigible	dirigible-application	11.43.0	executable	4425a8a654fbef3be44ee802592386225004ff16
 org.eclipse.dirigible	dirigible-application	11.44.0		203835e9e1917e77ccba2b2c0dac7b6c2420c16c
 org.eclipse.dirigible	dirigible-application	11.44.0	executable	99cf03697b2d31cc42112e7aeb8dc1b702beee98
+org.eclipse.dirigible	dirigible-application	11.45.0		cece35bb8f4644d21bba5071e61d7306506f335f
+org.eclipse.dirigible	dirigible-application	11.45.0	executable	39b7901ca3512e1e6ade69fc44f5ccb9ca9af8fc
+org.eclipse.dirigible	dirigible-application	11.45.1		443378a8563fa3f322f90a0a07207c7355c5d6b1
+org.eclipse.dirigible	dirigible-application	11.45.1	executable	b1ec7fb393c26b96dcb060fe5f55bf78181aafdd
+org.eclipse.dirigible	dirigible-application	11.45.10		bdfa083f7f8a278373e524cd993b0e73aaecc35d
+org.eclipse.dirigible	dirigible-application	11.45.10	executable	84feb5bccbc6b0305122ed28e63e53bc8daceaa9
+org.eclipse.dirigible	dirigible-application	11.45.11		ccd6139cbafb5e648896b9868d51d4c6cd234694
+org.eclipse.dirigible	dirigible-application	11.45.11	executable	29867084b0c82fb72d14f99ffc36b2ce5f6f9391
+org.eclipse.dirigible	dirigible-application	11.45.12		a5547ae0d53a1cb151609c274f2387a77299361e
+org.eclipse.dirigible	dirigible-application	11.45.12	executable	4e83c19e82614176163147ceea6617b2ab817c41
+org.eclipse.dirigible	dirigible-application	11.45.13		a753e0da50ef04fba90799280d08fed227a7aa38
+org.eclipse.dirigible	dirigible-application	11.45.13	executable	da9d0621965609a03f5c64c4782f222c8c7f30f5
+org.eclipse.dirigible	dirigible-application	11.45.3		15af867d1ec45b0cb89220b4a75f5c7c85c8c9a7
+org.eclipse.dirigible	dirigible-application	11.45.3	executable	d77752d25e297308461a99b6388ef43490c7d2c0
+org.eclipse.dirigible	dirigible-application	11.45.4		075147ef34c20a0aad8c125aa5f1fbf67c57a19f
+org.eclipse.dirigible	dirigible-application	11.45.4	executable	3c096a77ee3ba29dc9994291aa2f7c894689f217
+org.eclipse.dirigible	dirigible-application	11.45.5		6c9ae66dc319c25072ceb3d1086b5bdab009edc7
+org.eclipse.dirigible	dirigible-application	11.45.5	executable	52ac22f9bd42dc0f49a74c952ce92a6404896640
+org.eclipse.dirigible	dirigible-application	11.45.6		3712c8dc7e534ffb277862d2c8a8c7f7791d9f2a
+org.eclipse.dirigible	dirigible-application	11.45.6	executable	bf0507176527b1d7018da8812d59e0efc070e194
+org.eclipse.dirigible	dirigible-application	11.45.7		8d425a91080bd89a74a4b41a98b721d7402da18f
+org.eclipse.dirigible	dirigible-application	11.45.7	executable	e9828532d12eac556b08692918f0b2becba86946
+org.eclipse.dirigible	dirigible-application	11.45.8		b4c88304cdfd5f0937e93caabde0de974ebfd3d2
+org.eclipse.dirigible	dirigible-application	11.45.8	executable	d3f74fb98224b26a110a9ac34491bc226968d286
+org.eclipse.dirigible	dirigible-application	11.45.9		a1b450e86f348cf2f162e416f36255e6cac22616
+org.eclipse.dirigible	dirigible-application	11.45.9	executable	a04f781b9553e2ec462e980def7909128e3287cd
 org.eclipse.dirigible	dirigible-application	11.5.0		a8ef8dd913b371a27256922e82c80db36a025ac2
 org.eclipse.dirigible	dirigible-application	11.5.0	executable	d5c1616554299b16c335ec9774142cbe99f8db3f
 org.eclipse.dirigible	dirigible-application	11.6.0		93e1867a325a9a558e28f566d1f14290f1ade039
@@ -1594,6 +1627,7 @@ org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-desktop	2.9.0-alpha04
 org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-desktop	2.9.0-alpha05		c7a74d2151039a5f24fff01ac311618ee13448bd
 org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-desktop	2.9.0-alpha06		c7a74d2151039a5f24fff01ac311618ee13448bd
 org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-desktop	2.9.0-alpha07		71032e8bc88003c9073eba177bb7bf5764bee5b8
+org.jetbrains.androidx.lifecycle	lifecycle-runtime-compose-desktop	2.9.0-beta01		71032e8bc88003c9073eba177bb7bf5764bee5b8
 org.keycloak	keycloak-proxy-dist	1.1.0.Beta2		N/A
 org.keycloak	keycloak-proxy-dist	1.1.0.Final		N/A
 org.keycloak	keycloak-proxy-dist	1.1.1.Final		N/A
@@ -1868,6 +1902,7 @@ org.openl.rules	org.openl.rules.constrainer	5.26.9.1		16c7dab0f5b9ebd7756b8efce4
 org.openl.rules	org.openl.rules.constrainer	5.27.0		450f4346222e13529854205a80e813d066df1a2c
 org.openl.rules	org.openl.rules.constrainer	5.27.1		c2dfc389fb7f25a012ed193f150980864d257bff
 org.openl.rules	org.openl.rules.constrainer	5.27.10		162d2f3cffe7d441e1a3e8a1fd6ef4d403bbdf33
+org.openl.rules	org.openl.rules.constrainer	5.27.11		05a7e1890bb2ebd5f55b2bc93738bc7f7b621a35
 org.openl.rules	org.openl.rules.constrainer	5.27.2		c95bc9a8e61ca460c6c8ac2b4bdc8b4c8914dfd9
 org.openl.rules	org.openl.rules.constrainer	5.27.3		b65241c24b49220cd9d144d83bf94e57defba0e7
 org.openl.rules	org.openl.rules.constrainer	5.27.4		3416b50e09982b4708547c02a82945b80aa5782e
@@ -1928,6 +1963,7 @@ org.opennms.features.reporting	org.opennms.features.reporting.api	33.1.2		43d091
 org.opennms.features.reporting	org.opennms.features.reporting.api	33.1.3		44273572ba9efef7b95699b85a551496da75ebfa
 org.opennms.features.reporting	org.opennms.features.reporting.api	33.1.4		5d1e15c01c510fc9a6f9680b1eacebdbc0188b51
 org.opennms.features.reporting	org.opennms.features.reporting.api	33.1.5		d62150dbb989fdff750d6de9096275b4f52352cd
+org.opennms.features.reporting	org.opennms.features.reporting.api	33.1.6		7ec457e06993d6c3bdf7d3981ac4df95f44acebc
 org.ow2.fractal.juliac	juliac-ultra-merge-parent	2.5		N/A
 org.ow2.fractal.juliac	juliac-ultra-merge-parent	2.5.1		N/A
 org.ow2.fractal.juliac	juliac-ultra-merge-parent	2.6		N/A
@@ -2325,7 +2361,9 @@ org.wildfly.core	wildfly-domain-management	28.0.0.Beta4		aae74ecc11a2175f561320d
 org.wildfly.core	wildfly-domain-management	28.0.0.Beta5		79f567c41a3296e9ed6d21607895945d818d77d9
 org.wildfly.core	wildfly-domain-management	28.0.0.Beta6		405310d5e85151018e1edba84c464eb17baff710
 org.wildfly.core	wildfly-domain-management	28.0.0.Final		74ba94ec560d67e57a0bf5d0ddc34ba3275a313e
+org.wildfly.core	wildfly-domain-management	28.0.1.Final		19207514ebf7721c84679ed39742cedaec252106
 org.wildfly.core	wildfly-domain-management	29.0.0.Beta1		f9e056fa967a08891e0cc15c67fed0b32cb30bd3
+org.wildfly.core	wildfly-domain-management	29.0.0.Beta2		5a96e85d9c8c333641145f656de0d00268045392
 org.wildfly.core	wildfly-domain-management	3.0.0.Alpha1		b8187ec950db99773b38f5ec1d749254aa5f2a04
 org.wildfly.core	wildfly-domain-management	3.0.0.Alpha10		df7636899dca5e5da8b4337a6deea62dfab59932
 org.wildfly.core	wildfly-domain-management	3.0.0.Alpha11		bf293ae9b64f56c5fd27a9cca8e512c84397c874

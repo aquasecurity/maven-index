@@ -134,6 +134,8 @@ com.google.apis	google-api-services-datacatalog	v1-rev20241202-2.0.0		2c3a5dc864
 com.google.apis	google-api-services-datacatalog	v1-rev20250212-2.0.0		22aeb37bdad062af226b00d6365da9bb7eb473fb
 com.google.apis	google-api-services-datacatalog	v1-rev20250314-2.0.0		58dc650effacca99ea56cfed2c2202c0af57fb9d
 com.google.apis	google-api-services-datacatalog	v1-rev20250411-2.0.0		e2d8478846cb95f26df8c7f2bba3f8d087f77a42
+com.google.apis	google-api-services-datacatalog	v1-rev20250429-2.0.0		a5999632e025a470713eab332068ef1f67c5619d
+com.google.apis	google-api-services-datacatalog	v1-rev20250502-2.0.0		364c81b7b4430ec296739c315516ebf927629a11
 com.google.apis	google-api-services-datacatalog	v1beta1-rev1-1.18.0-rc		0141c2d42a1f8cb7923bc9c859d46706911a662b
 com.google.apis	google-api-services-datacatalog	v1beta1-rev1-1.25.0		0a691000705f9ed1b8c35594aac019c22f014633
 com.google.apis	google-api-services-datacatalog	v1beta1-rev10-1.18.0-rc		51c4666a53eed34f5c28078ec164911b8ff6a4aa
@@ -224,6 +226,7 @@ com.google.apis	google-api-services-datacatalog	v1beta1-rev20240614-2.0.0		c8603
 com.google.apis	google-api-services-datacatalog	v1beta1-rev20241021-2.0.0		7c2fee7776a6e7b4f4a657b74a87f396e1140fee
 com.google.apis	google-api-services-datacatalog	v1beta1-rev20250212-2.0.0		5f85dc63aa8303cf5a34a896e3393f0a9b7e85e2
 com.google.apis	google-api-services-datacatalog	v1beta1-rev20250314-2.0.0		288b5b2ef39e96fc9a4087e722bb899e3f4b9a1f
+com.google.apis	google-api-services-datacatalog	v1beta1-rev20250502-2.0.0		0ad08b42ca27abfd7ae89ad96a50e758fee5def5
 com.google.apis	google-api-services-datacatalog	v1beta1-rev3-1.18.0-rc		ef7bb6cf843996b0849004a923df039444dd21c5
 com.google.apis	google-api-services-datacatalog	v1beta1-rev3-1.25.0		1adf9d7c6daaa24cc2c2dc0092ad8d40e7454253
 com.google.apis	google-api-services-datacatalog	v1beta1-rev4-1.18.0-rc		ec578bc2c1e32c6c35d94d8b8a06547de27f8c98
@@ -740,7 +743,12 @@ com.swirlds	swirlds-merkle	0.61.1		869519b81101311fc2b8a8f2a26194107a69124c
 com.swirlds	swirlds-merkle	0.61.2		2f660664495cd59e3d632c6438fec94995bc29b5
 com.swirlds	swirlds-merkle	0.61.3		911eb1c021c897f3d25805d8eaac03cb2e274715
 com.swirlds	swirlds-merkle	0.61.4		07ca73ede3e696b6e49f7725b00bcef3498edeb9
+com.swirlds	swirlds-merkle	0.61.5		6def0df62d8480bbec753a5587274040341e939c
+com.swirlds	swirlds-merkle	0.61.6		28244869e17043fc3713f24bf90010aae0e0db4d
+com.swirlds	swirlds-merkle	0.61.7		25d6c74b3bea8842031e486c1d3dc003296f96a4
 com.swirlds	swirlds-merkle	0.62.0		bbe8e0d74fb056339672a76da2c1d94323e58f91
+com.swirlds	swirlds-merkle	0.62.1		bfc7c67517e0e7c196a6ebe4ff38b90e34cfd9a8
+com.swirlds	swirlds-merkle	0.62.2		1bde7996e56754f270dd931d0755a87a9e0e6307
 com.teragrep	aer_02	1.0.2		c5bf04ac1073c3ae5ac12484429a0a509f6fd768
 com.teragrep	aer_02	1.0.2	jar-with-dependencies	ef7a9aa1606a34bbafed674202c279c34a794766
 com.teragrep	aer_02	1.1.0		d5b7432e661348ee47cbf9f457b438a4ef77825d
@@ -972,11 +980,13 @@ io.github.orionlibs	local-mock-server	1.0.0		117991151a35fb492638ab6e38ce112b935
 io.github.orionlibs	local-mock-server	1.0.1		26a15f7a195dce401f85982cc710a291012e78fe
 io.github.pandulapeter.kubriko	plugin-sprites-desktop	0.0.1		c382b6ba3f9ef995e2ac46b133ffd2a9cd1d777e
 io.github.pandulapeter.kubriko	plugin-sprites-desktop	0.0.2		e3db4157471f3ff818b129a36cc12421b0a8f32e
+io.github.pandulapeter.kubriko	plugin-sprites-desktop	0.0.3		cb9eace77ddec347d23fcb8be4dc5c3fe54cdcc0
 io.github.pandulapeter.kubriko	plugin-sprites-desktop	unspecified		c382b6ba3f9ef995e2ac46b133ffd2a9cd1d777e
 io.github.pdvrieze.xmlutil	core-io-watchosarm32	0.91.0		N/A
 io.github.pdvrieze.xmlutil	core-io-watchosarm32	0.91.0	metadata	a7bfa75968950b20f3cf2f448b7949496166b13a
 io.github.pdvrieze.xmlutil	core-io-watchosarm32	0.91.0-RC1		N/A
 io.github.pdvrieze.xmlutil	core-io-watchosarm32	0.91.0-RC1	metadata	c488cfec896de81c87e0370533d30cfbf41cba1c
+io.github.pdvrieze.xmlutil	core-io-watchosarm32	0.91.1	metadata	d668825ce1df16a2243cb0380dc0681161b4170c
 io.github.pwszpl	mongodb-search-query-translator	0.1.0		cbaed6de706ab8066161382c22ce96a9ef151693
 io.github.pwszpl	mongodb-search-query-translator	0.1.0-1		531c8293225165565e77858ca94895cb2fc461ec
 io.github.pwszpl	mongodb-search-query-translator	0.2.0		9f300f470c218f604cc09490df5158d945d1317a
@@ -1583,3 +1593,7 @@ tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.0.8		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.0.8	metadata	82ef38a4fdf4d801f6f8dbda176462f1a5753f42
 tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.0.9		N/A
 tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.0.9	metadata	8443bab36ccb2dd5ec7c178a93649386c7965f54
+tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.1.0	metadata	f6faff200e00d302c6db41514e5222cf0a10f65e
+tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.1.1	metadata	31eee6b474cc1b4bbbd1faf5bfac99107418e280
+tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.1.11	metadata	600192f3882c81de7486075999f6ce439947b0e9
+tz.co.asoft	koncurrent-awaited-coroutines-watchosx64	3.1.12	metadata	f3d69c835ea47a27da946cdcc7a9c813268a3f53

@@ -5,6 +5,18 @@ cn.ziyicloud.framework.boot	ziyi-boot-starter-fastjson	1.0.3		7a5fa8713d85574e8b
 cn.ziyicloud.framework.boot	ziyi-boot-starter-fastjson	1.0.4		05326d95261ed61d718809652b8bf9a0c2764db7
 cn.ziyicloud.framework.boot	ziyi-boot-starter-fastjson	1.0.7		abba10d5ae86567f678f978365459f037897f357
 com.adobe.aem	core-forms-print-components-reactor	1.0.6		N/A
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-00218f9		4cc9eca1a06a5bac7a90209524312bbba4c11c35
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-02972dd		e28c5f8b9b5b5a832450cbc40da001b1ae517a6d
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-49d5d54		5b76337c9451bfc6f9451f09a7f8d4b1a02fe24f
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-53f42e4		13cb0a06e2744c9929d6a315fe63c50c194d6deb
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-6c3d633		d1fe2f851bc8cd1d663158776e49f47b7f641d16
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-6c42f5b		6020cbc249da369e48364b27ebf8300e1862fa57
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-775c4c8		191d1aae6721fede9d932e17bf33b1e6e593b7ba
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-95ee54d		3d63b0e3bcabc2af09bdb09143d124512408fa0c
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-b3e236a		298816c0b572829b28e17e185351e910182edc94
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-bedf652		643b70a8a267ef9ebc08f83f6341d21dc350112b
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-ddf26e7		6bc40330c061ac51e061be022966f9376663249c
+com.armanbilge	sbt-typelevel-ci-release_2.12_1.0	0.4-f277ca9		5542aa9914afe666297b8b61626ef0aff7c78a8a
 com.diglol.crypto	cipher	0.1.0		fd9c1359e913834e14095bff72d99974ac939abd
 com.diglol.crypto	cipher	0.1.0	all	ef7aae1872363ed3b02c169e16d93bb7233f54d0
 com.diglol.crypto	cipher	0.1.1		db9ff8f6e0bc04042b4707920cb67a4e152f8251
@@ -202,6 +214,7 @@ com.spotify	scio-cassandra3_2.13	0.14.13		3598385417b6c6011cad29fb449e3714cba933
 com.spotify	scio-cassandra3_2.13	0.14.14		83ec7c1fe1bd68cab343f70bbeeef3e1b3db9cc5
 com.spotify	scio-cassandra3_2.13	0.14.15		953eea567036e025e69766702698d8b9b1bc4f85
 com.spotify	scio-cassandra3_2.13	0.14.16		304acc5af5f26ccd39cc5787d8b7e47390023be6
+com.spotify	scio-cassandra3_2.13	0.14.17		e57dbd9a0aa952cf04c4297d678b0b2f57657271
 com.spotify	scio-cassandra3_2.13	0.14.2		b1d3dd231eb8ac70f12f57cec46c2f8e49a15d38
 com.spotify	scio-cassandra3_2.13	0.14.3		1ac93c1aff99494c21e908cd8183cc58d4fd2310
 com.spotify	scio-cassandra3_2.13	0.14.4		1248c62a15a51937f24330e29a79daac26474ff1
@@ -448,6 +461,8 @@ com.zepben.protobuf	evolve-grpc	0.35.0-SNAPSHOT1		b83881f9ca395740cdfcb715dac1c3
 com.zepben.protobuf	evolve-grpc	0.35.0-SNAPSHOT2		8b04fef499d5eddfb94e428b001f5b19cf7b9d00
 com.zepben.protobuf	evolve-grpc	0.36.0		c56a4ae37a93f6866b5c9dd7e3a9ed3789494f92
 com.zepben.protobuf	evolve-grpc	0.36.0-SNAPSHOT1		88404b8153054d0a193c497a67ec744bd660eebc
+com.zepben.protobuf	evolve-grpc	0.37.0		de6d9155c24f59ecbcca355faea5b10076112d43
+com.zepben.protobuf	evolve-grpc	0.37.0-SNAPSHOT1		62ea38513139285cb5db8da1b8899e9cad2856ef
 com.zepben.protobuf	evolve-grpc	0.4.0		c3dda1ebb014935c9c821a4c43b04be0c1d209e0
 com.zepben.protobuf	evolve-grpc	0.5.0		b86dbd24582f278f7eba98e6836ca90978521a9c
 com.zepben.protobuf	evolve-grpc	0.6.0		3dbe7675900410bcaa0121120ffeab1113f10815
@@ -1084,6 +1099,7 @@ org.apereo.cas	cas-server-support-account-mgmt-core	7.2.0-RC6		167bafa81fb65687b
 org.apereo.cas	cas-server-support-account-mgmt-core	7.2.0-RC6	resources	855b8c6a379197e0872f635212051e3a7e54182a
 org.apereo.cas	cas-server-support-account-mgmt-core	7.2.1		e5ddb599cad1440be4203039418d1ebc56520f4d
 org.apereo.cas	cas-server-support-account-mgmt-core	7.2.1	resources	c47f33236af9a543afeb153c020c6b3169a077db
+org.apereo.cas	cas-server-support-account-mgmt-core	7.2.2		3cf89844bee11d9d28e1be979dbd232a9564bf9a
 org.apereo.cas	cas-server-support-account-mgmt-core	7.3.0-RC1		2e6c4637883d7bfd58dd6b45431c0a2bb615ec21
 org.apereo.cas	cas-server-support-account-mgmt-core	7.3.0-RC1	resources	6cb383c3b3300fdaca23acccbe163ee0ae77a0ce
 org.bedework.deploy	bw-wfmodules-database-jpa	1.0.10		N/A
@@ -1350,6 +1366,7 @@ org.kill-bill.commons	killbill-locker	0.26.2		d0931b4659b7e095037220b932bc8ba825
 org.kill-bill.commons	killbill-locker	0.26.3		6cf92b8ade5f622a237b686352bd8426c1bfc930
 org.kill-bill.commons	killbill-locker	0.26.4		820a4f12c9fe4fdc92fb8acf1566b5398542da64
 org.kill-bill.commons	killbill-locker	0.26.5		e16430afea4aa8f0208f8476bc430c69cf47884b
+org.kill-bill.commons	killbill-locker	0.26.6		a794311c03c9e2eb137ef9ce17944e7b2a73abf9
 org.kill-bill.commons	killbill-locker	0.3		82f794e82e75edf53beb3f97f2ced98c23f26284
 org.kill-bill.commons	killbill-locker	0.4		f683d62551d559cf1c762b7a9ceb39a1e050625c
 org.kill-bill.commons	killbill-locker	0.5		a1dbf90de9872f48c01fda615c25bc82fc9edd05

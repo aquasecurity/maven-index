@@ -48,6 +48,7 @@ ai.ancf.lmos	arc-reader-pdf	0.99.0		ea2e1c049cb0d1d756f289bd627be9de51a2112f
 ai.ancf.lmos	arc-reader-pdf	0.99.1		be15df99eb7ebf17e164656edc50b4b7e8bb7eef
 cn.com.antcloud.api	antcloud-api-provider-media_sms	1.0.1		5a7ab979ae21831062b5f253c4ce1a993b8fa9bd
 cn.com.antcloud.api	antcloud-api-provider-media_sms	1.0.15		b1a8f0b63f6ddaabb896b3ef1fa4963b085aa17c
+cn.com.antcloud.api	antcloud-api-provider-media_sms	1.1.1		7d6fb51000dbdf74c3e00e16638444b9080b1708
 com.acecounter.ace	ACE	02.02.03		N/A
 com.acecounter.ace	ACE	02.04.01		N/A
 com.acecounter.ace	ACE	02.06.01		N/A
@@ -2017,6 +2018,7 @@ com.contentgrid.helm.integrationtesting	contentgrid-testcontainers-registry	0.0.
 com.contentgrid.helm.integrationtesting	contentgrid-testcontainers-registry	0.0.3		1c212227239686bb4aa1b26dca707595b2f2f3c1
 com.contentgrid.helm.integrationtesting	contentgrid-testcontainers-registry	0.0.4		a9dd5b87bab9bd71a41ca690ed9c8067ce213184
 com.contentgrid.helm.integrationtesting	contentgrid-testcontainers-registry	0.0.5		0b9c077d696309727e083973ba01e437ee1bbade
+com.contentgrid.helm.integrationtesting	contentgrid-testcontainers-registry	0.0.6		b8278499157dd8020486d3d089d13a374fad2e36
 com.github.XDean	deannotation-checker	0.1.1		5760d2aadf677a97115d1f64908e1c2787d90bac
 com.github.XDean	deannotation-checker	0.2.1		ee4728e724ac63cede1eb1e1322d6892d5871783
 com.github.XDean	deannotation-checker	HEAD		aa2953a0a24f7fe44dbe5fc4d34ce1e1d3cc735e
@@ -2336,6 +2338,7 @@ io.kotest	kotest-assertions-core-jvm	5.9.1		d6f96b394f62aca42516da97f7d1c63927d8
 io.kotest	kotest-assertions-core-jvm	6.0.0.M1		b26d1de2b97ca992a818d7c33cfb67112c597aa4
 io.kotest	kotest-assertions-core-jvm	6.0.0.M2		f81989e57d18a0d00f286b31c43287d9d25f89ab
 io.kotest	kotest-assertions-core-jvm	6.0.0.M3		a75b98d113216ba9711f29ab312e9b0551762def
+io.kotest	kotest-assertions-core-jvm	6.0.0.M4		8220b2b31868893ac75ccd7c4eb4b98ff4b06994
 io.openvalidation	openvalidation-rest-api	0.0.4		ec601b8cb17e883880c3fc94ffd200dc8c85f5c6
 io.swagger	swagger-servlet	1.5.10		50b374f857a64ce628f3abacd8cd32fad4cec874
 io.swagger	swagger-servlet	1.5.11		13b647b200f142ba010ba4b8cac4cbfb5a6e5a11
@@ -2780,6 +2783,8 @@ org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.17		5a1719777789f42
 org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.18		c94c08172c4d391ef0f38c6ec5d716493fd9f971
 org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.19		27d651a88dd0f9fe7ea14b765a532d070c02484c
 org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.2		3a8786ca33270c08fb8da397b2c00940351756ba
+org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.20		377a6cb9d46fc510228ec2dfc2d1cd26f69a9344
+org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.21		f36ebca93107131d083e03fcc3f78e9a828b03c4
 org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.3		e10383648a7cd6f9e39d3a1363a9126d2a4043ea
 org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.4		1d40657b29a5e1eaa10cc7c900fb869fec53a473
 org.eclipse.jetty.websocket	jetty-websocket-core-server	12.0.5		db3c73d99ba18739309fa86dc1bbd824670f42f8
@@ -2955,6 +2960,7 @@ org.jetbrains.compose.ui	ui-macosarm64	1.7.1		N/A
 org.jetbrains.compose.ui	ui-macosarm64	1.7.1	metadata	0ce71590ba97f960fcf4a7bb691f30e9dc8582fb
 org.jetbrains.compose.ui	ui-macosarm64	1.7.3		N/A
 org.jetbrains.compose.ui	ui-macosarm64	1.7.3	metadata	0ce71590ba97f960fcf4a7bb691f30e9dc8582fb
+org.jetbrains.compose.ui	ui-macosarm64	1.8.0	metadata	53fd8b32b561c9cda431114fe03bc53a7c81f8d0
 org.jetbrains.compose.ui	ui-macosarm64	1.8.0-alpha01		N/A
 org.jetbrains.compose.ui	ui-macosarm64	1.8.0-alpha01	metadata	f3c0e6e19f22cde4ca69dee8ca107e89c210a98f
 org.jetbrains.compose.ui	ui-macosarm64	1.8.0-alpha02		N/A
@@ -3248,6 +3254,7 @@ org.talend.sdk.component	multiselect-component	1.78.0		0b0c71385f198daf40fb4735e
 org.talend.sdk.component	multiselect-component	1.78.1		1f270c65372662aaf62e7aa08d3ea946b9979e0a
 org.talend.sdk.component	multiselect-component	1.79.0		ea398af66edbeadb7e8bb46544714f8950668c19
 org.talend.sdk.component	multiselect-component	1.80.0		5dc739d6bff301062ce2e386c8e0577074becf1b
+org.talend.sdk.component	multiselect-component	1.80.1		e980e0e8222ddcce4aade5ff9449fbb19fe00026
 org.talend.sdk.component	multiselect-component	10.57.0		5d7404b65802095c7fa580f2e35bf6e1ffbd6389
 org.webjars.bower	ng-scrollbars	0.0.10		cc6d65051dca92fd6da45f7ecad563ad642b0d5d
 org.webjars.bower	ng-scrollbars	0.0.11		478ff2261647461e77ea1aaf88f67a4bbee388c9

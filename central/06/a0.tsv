@@ -246,6 +246,17 @@ net.corda.kotlin	kotlin-stdlib-jdk7-osgi	1.7.21		54e9b278c23efd87f4c0c138b1ea488
 net.ifok.mail	mail-spring-boot-starter	1.0.0		34b5f67d622555d4d08c37690e31d787ad843d72
 net.ifok.mail	mail-spring-boot-starter	1.0.1		064f296bb21d11061f9e19f315e64520a92a47f0
 org.anyline	anyline-data-vald	8.7.2-20250502		c0df97332bf5a71d0c59a1a68a50dca92afd1282
+org.anyline	anyline-data-vald	8.7.2-20250509		3c246ff7f2eb565fc05f8fac7ddc785940f9beb2
+org.anyline	anyline-data-vald	8.7.2-20250515		6fcc421bed7566c0da8b0bee3a371b05fcf1709f
+org.anyline	anyline-data-vald	8.7.2-jdk11-20250502		7be24a693ee47e57618483bf52625b83785bda1d
+org.anyline	anyline-data-vald	8.7.2-jdk11-20250509		f52024bb341fbe860ef9ffccbaef2e40a4b9c604
+org.anyline	anyline-data-vald	8.7.2-jdk11-20250515		90d513102452d0a358cbf829c802b2605ed9051b
+org.anyline	anyline-data-vald	8.7.2-jdk17-20250502		0f87e0fbeecca100367c3e3c2d29a03963286481
+org.anyline	anyline-data-vald	8.7.2-jdk17-20250509		996b788c53b39c64f8f73a19a9d0a38dc9619b0b
+org.anyline	anyline-data-vald	8.7.2-jdk17-20250515		98ec1f65c1e5472c4f8d6705a4ffb396a753a86e
+org.anyline	anyline-data-vald	8.7.2-jdk21-20250502		a89c7a04fe949a82fa4df4514c74a700b1fafaed
+org.anyline	anyline-data-vald	8.7.2-jdk21-20250509		18bf64422207d51ee381776d4ffd6f38577fe7b2
+org.anyline	anyline-data-vald	8.7.2-jdk21-20250515		0f21d24980a1243d34d9bd567444ab09f60b5c9d
 org.apache.activemq	apollo-openwire	1.0		602d8e70520c3187e79df639113a818246e63682
 org.apache.activemq	apollo-openwire	1.0	scaladoc	e99c5c5fa281f76c2fa7996bab5daad510b1414d
 org.apache.activemq	apollo-openwire	1.1		9f1ec6aa419dd8a456312351099ccd2cfefe55c4
@@ -424,6 +435,9 @@ org.daisy.pipeline.modules	dtbook-to-rtf	2.0.10	xprocdoc	1b52668bffe823e8b588103
 org.daisy.pipeline.modules	dtbook-to-rtf	2.0.11		745fb7b4a80db5ee08590431d5a4ebb3d5d14b57
 org.daisy.pipeline.modules	dtbook-to-rtf	2.0.11	doc	940baa7068de3703f42ed56b2c44b18c8d01e858
 org.daisy.pipeline.modules	dtbook-to-rtf	2.0.11	xprocdoc	e7acd772c5d79027209e900e3214fff9b8af39c7
+org.daisy.pipeline.modules	dtbook-to-rtf	2.0.12		4730cf96636352513b9ddf9f261d00cb66cf38fd
+org.daisy.pipeline.modules	dtbook-to-rtf	2.0.12	doc	0e718012c04acc0179d69829eaafb743edb29e2e
+org.daisy.pipeline.modules	dtbook-to-rtf	2.0.12	xprocdoc	94f4086f6857846d0c6c5fc2e5e3e6420f53eb79
 org.daisy.pipeline.modules	dtbook-to-rtf	2.0.2		57345566ebcc313affbb091c96c8c1590c0902d8
 org.daisy.pipeline.modules	dtbook-to-rtf	2.0.2	doc	4e6deaf1aeb8ffa811e6b83623bcce2bb0bad05b
 org.daisy.pipeline.modules	dtbook-to-rtf	2.0.2	xprocdoc	baa8fdafebbbba4da5c8fd852b228d3a8cf113fe
@@ -854,6 +868,8 @@ org.openrewrite.maven	rewrite-maven-plugin	6.5.0		c0397ce34380254d5f178765a37c28
 org.openrewrite.maven	rewrite-maven-plugin	6.6.0		0d6c2fc9bc0251c39adebc7e6e7566b0689f763c
 org.openrewrite.maven	rewrite-maven-plugin	6.6.1		b14bbffc4cd15ac786a0ea7345dce359d80f4e51
 org.openrewrite.maven	rewrite-maven-plugin	6.7.0		8a90cc0268ec38a124a6ca0a84674f4694f3c2bf
+org.openrewrite.maven	rewrite-maven-plugin	6.8.0		5b5c59d2d4597da7358a0d9ee5f60b9952a6ee39
+org.openrewrite.maven	rewrite-maven-plugin	6.8.1		24623bb50292a683b1f0cae5d66070c82828532b
 org.ow2.bundles	ow2-util-protocol-ssh-api	1.0.28		6a1084730c998450a1c6f04605618d73b1c819b0
 org.ow2.bundles	ow2-util-protocol-ssh-api	1.0.29		3536156b730b08a72ebd8ff2cdc08c6a11c0a65a
 org.ow2.bundles	ow2-util-protocol-ssh-api	1.0.30		1bf4e450f2e62e0ecbdc29342046984c1bd7541d
@@ -981,6 +997,8 @@ org.rdlinux	ez-mybatis-spring	0.8.9.RS		df46686c12830477a36d9d13e121b4d98fe5bfc0
 org.rdlinux	ez-mybatis-spring	0.9.0.RS		2d9f5bf2507f73183f10813eae51048412b82316
 org.rdlinux	ez-mybatis-spring	0.9.1.RS		da236c6a982c500705135cf53dfc1669d6af25ac
 org.rdlinux	ez-mybatis-spring	0.9.2.RS		9d8db5f7329c04286cf0c56b15743c4f2b741943
+org.rdlinux	ez-mybatis-spring	0.9.3.RS		03ed0b91cf12be9a6e9732d0c6bcbf251c33139f
+org.rdlinux	ez-mybatis-spring	0.9.4.RS		e4dcfe6e18823f79c986752b7681a07568a5b675
 org.scala-native	nscplugin_3.5.0-RC3	0.4.17		5a2a0250b0942af3c7520cb0e16c7065b5fe0926
 org.scala-native	nscplugin_3.5.0-RC3	0.5.2		0baf78e5273eda06fccb3dbc0837208f3737ec92
 org.scala-native	nscplugin_3.5.0-RC3	0.5.3		e057ab0179474ae9c2fefce38dc139018b2bd012

@@ -116,6 +116,8 @@ com.okta.sdk	okta-sdk-integration-tests	20.0.1		1851a4b9ebfed66c5b64d6ed96a01591
 com.okta.sdk	okta-sdk-integration-tests	21.0.0		6e8bb1a15e4abf9b04b7ebf0d00b4629adfdbc3b
 com.okta.sdk	okta-sdk-integration-tests	22.0.0		b812485aaff43d99258f7d149f212fa8e686e026
 com.okta.sdk	okta-sdk-integration-tests	22.0.1		a22fb5963e859b9233fa5d79e8eab4796a2f85d0
+com.okta.sdk	okta-sdk-integration-tests	23.0.0		ff95133bcbda7cd50d91496e76d0e246fed2e30b
+com.okta.sdk	okta-sdk-integration-tests	23.0.1		3bfaf85fe2d72b7673b425f2107f16f6df3fc020
 com.okta.sdk	okta-sdk-integration-tests	3.0.0		e0671d6a1f4d6a0e36a392c74a396fbee305dcdd
 com.okta.sdk	okta-sdk-integration-tests	3.0.1		875047048034acc37078bcb26d33250a35de8c15
 com.okta.sdk	okta-sdk-integration-tests	3.0.2		788eba23165fc5926bf9808eea1edd69a9281dfc
@@ -1230,6 +1232,23 @@ com.tencent.polaris	dubbo-router-polaris	0.3.2-3.2.7		ef4c1bdb9ee863987fb1564f6a
 com.tencent.polaris	dubbo-router-polaris	0.3.3-3.2.7		6450316af881f10ab28ff1b49c56eb77b15f05e4
 com.tencent.polaris	dubbo-router-polaris	0.3.4-3.2.7		28f21fb5f37734c2d01a371a45c9a9cf22bd86f2
 com.tencent.polaris	dubbo-router-polaris	2.0.1.0-3.2.7-RC1		ec9856f24ad28931b73ad1fdaa820f303bfa954c
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.10		fee454630b1d16de287d49af46be10c0e537c0de
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.11		e16c9623384f4644ed241d9f30cae7b86523d636
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.12		a68ae95debe8efd52c5b4365b9e86966835509b5
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.13		e105b4cc9ffd7110a351f418a532fbba2ab409bd
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.14		9ad9ed9f7cd4bdc3fef0281028943c635c19d700
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.15		5f203df89b86b21545197fb4b40e4f28e7717265
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.16		30e3b23830b7cdf2df61a44e04ea704ac35618a0
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.17		2c7d3a61f130e4125c3bdb97298f3eb8146679c0
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.18		0adda76e9049a5e33ef066e4714e4fb839022b38
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.19		0e8f7ed9b750c83e666b4cd7c0d231407234ce3b
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.20		9a455f893e555ebb65a2e13a230ec2872801933f
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.21		20356f73b46fcbdf9ae0d5a8b6f2a1378ab23d93
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.22		34523c73dcbd397506a0a20e4dc13ff9385f8568
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.8		8739d8db1450fdf666375a00b613789ab921cf90
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.8-RC1		0caf82baf70e948524e1b2bb4afd46b9afef71fe
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.9		aa08c84a15a7504786942923206224fe56c665a0
+com.typesafe.play	play-docs-sbt-plugin_2.10_0.13	2.8.9-RC1		e9426d825de494d504388436c15d9309145bb94e
 com.typesafe.play	twirl-api_sjs0.6_2.13.0-M2	1.3.13		2da5ac2397f7df5bb1fa3973cf33698de927f0d0
 com.typesafe.play	twirl-api_sjs0.6_2.13.0-M2	1.3.13	playdoc	af027bb601add28f3730d3e2cd57196d8d272b78
 com.typesafe.play	twirl-api_sjs0.6_2.13.0-M2	1.3.14		e0721300ab227c3f3aafd15e011ef3d3bbdd41ea
@@ -1597,6 +1616,7 @@ dev.zio	zio-aws-elasticsearch_2.12	7.31.27.1		3746cdfb5268d9c1529134701a946a89c9
 dev.zio	zio-aws-elasticsearch_2.12	7.31.28.1		9f2c1cd3888289738a0f1d8da5475b3b0035705e
 dev.zio	zio-aws-elasticsearch_2.12	7.31.3.1		84701531a59cef74e19a5b6110d33966c0da6ced
 dev.zio	zio-aws-elasticsearch_2.12	7.31.30.1		a790a00192db286a0b5e4a96c762b1a93f3544f9
+dev.zio	zio-aws-elasticsearch_2.12	7.31.30.2		7a72f78cad27b5dc0cba4851fde7ff121354bc78
 dev.zio	zio-aws-elasticsearch_2.12	7.31.4.1		3ff2fbc183d486383a6e2d431d6a555eb34c3456
 dev.zio	zio-aws-elasticsearch_2.12	7.31.6.1		3c80312691e879ef8be8b97bec32eb4bb6a75c66
 dev.zio	zio-aws-elasticsearch_2.12	7.31.6.2		09c3b2de22d9c6ff018572f305d7b09d4dfbd0b0
@@ -2067,6 +2087,7 @@ org.apache.camel.springboot	camel-aws-cloudtrail-starter	4.8.3		096e4348b3da1628
 org.apache.camel.springboot	camel-aws-cloudtrail-starter	4.8.4		428f77ad7303b8b8aa8ce506c9e3e61092b92cf8
 org.apache.camel.springboot	camel-aws-cloudtrail-starter	4.8.5		4c806d36037ec7752db6d9dbbaa583da848232f6
 org.apache.camel.springboot	camel-aws-cloudtrail-starter	4.8.6		75323e5ded09f5f8e4bbcc107478d09486f8100f
+org.apache.camel.springboot	camel-aws-cloudtrail-starter	4.8.7		8eb486c56e32cd56720576f6b7d68a4147bdc24a
 org.apache.camel.springboot	camel-aws-cloudtrail-starter	4.9.0		a61803b5e58479a68922ed91f59ba85f7821d135
 org.apache.jspwiki.wikipages	jspwiki-wikipages-de	2.10.0		8b6cce8d165282687ea81e2768060f11342a1edb
 org.apache.jspwiki.wikipages	jspwiki-wikipages-de	2.10.1		9ecb295f834df1bb8422db6873a339cac8e65462

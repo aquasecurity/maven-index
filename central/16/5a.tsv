@@ -124,6 +124,7 @@ com.fasterxml.jackson.module	jackson-module-scala_3	2.18.0-rc1		90f4296d802f8ff0
 com.fasterxml.jackson.module	jackson-module-scala_3	2.18.1		cb83ccb99121a3be60f62cd4596a71a7037f6441
 com.fasterxml.jackson.module	jackson-module-scala_3	2.18.2		010ffbd4562a44be43b3dc5cd6c696cb9e6b8535
 com.fasterxml.jackson.module	jackson-module-scala_3	2.18.3		84dc8c7fdbf3c7e99bb5b26eb6682b1b1c3207cb
+com.fasterxml.jackson.module	jackson-module-scala_3	2.18.4		1a5593193d611f1934fc3092a805c9bb791aa6b2
 com.fasterxml.jackson.module	jackson-module-scala_3	2.19.0		c5df418da26cf50cf39515757244141cb75794a2
 com.fasterxml.jackson.module	jackson-module-scala_3	2.19.0-rc2		cd0cf4331291c4142ca99ba258ec1f1e353c1695
 com.github.hwrdprkns	paymentkit	1.0.0		N/A
@@ -240,6 +241,8 @@ com.google.cloud	google-cloud-policy-troubleshooter	1.58.0		b17ab4d771921ff5a90c
 com.google.cloud	google-cloud-policy-troubleshooter	1.59.0		433f86c748559655150dbd24ae83555436a2b2a3
 com.google.cloud	google-cloud-policy-troubleshooter	1.6.0		fd4a6122c41769a4442fcb4ad2be52a541f242b2
 com.google.cloud	google-cloud-policy-troubleshooter	1.60.0		cb5df255e65f9779742951befb59572febae8eca
+com.google.cloud	google-cloud-policy-troubleshooter	1.61.0		6e1c6fb1057bbb3c9e3f9ff082cf9bebd559b6d8
+com.google.cloud	google-cloud-policy-troubleshooter	1.62.0		9870e16b5bf31aa129085b963d7bf2316df1c5b9
 com.google.cloud	google-cloud-policy-troubleshooter	1.7.0		b2890f118b78257e8e0455abcd23569ed3b03010
 com.google.cloud	google-cloud-policy-troubleshooter	1.8.0		5baf69e6e81053eddc513169ed27d8865517ae52
 com.google.cloud	google-cloud-policy-troubleshooter	1.9.0		99e7a7a31a823df0194529e9adc160123ab48057
@@ -715,6 +718,7 @@ global.hh	biostime-openapi-sdk	1.5.9.4-RELEASE		a680b63c21c581c7507f412fce84e57a
 global.hh	biostime-openapi-sdk	1.5.9.6-RELEASE		2b04ae1df544615efef35a7115e59ac17a105ec5
 global.hh	biostime-openapi-sdk	1.7.8-RELEASE		b48b025cdf638775a4559c905f9e1259cbd2b283
 global.hh	biostime-openapi-sdk	1.7.8.1-RELEASE		b8ec880fdf7439785892c3a0107a56b6cdcf23a7
+global.hh	biostime-openapi-sdk	1.7.9-RELEASE		1872aeb51d33a5851d90c882f32b1ac249d80aa6
 host.anzo	exp4j	0.5		8a9a2e119aa0eca7c38f8b3ac1a58c6251225aab
 io.alauda	devops-client	0.2.10		b8f182c8ea65c91dbf3c21ddf1b9f423247aa36c
 io.alauda	devops-client	0.2.4		ec82f59552fd4794b41a0a20b96dff41d763403a
@@ -1239,6 +1243,7 @@ net.codinux.log.kubernetes	fabric8-kubernetes-info-retriever	0.5.4		dfa097de5e9b
 net.codinux.log.kubernetes	fabric8-kubernetes-info-retriever	0.5.5		a62ecc91fdff88ddc6a8160495eab0763231bb92
 net.codinux.log.kubernetes	fabric8-kubernetes-info-retriever	0.6.0		2d8d588ddd804852d35adae794b86fab2ef1b572
 net.codinux.log.kubernetes	fabric8-kubernetes-info-retriever	0.6.1		f3e62e54e9537a02fe4ff22af77fecee23688f6e
+net.codinux.log.kubernetes	fabric8-kubernetes-info-retriever	0.7.0		7f187dcc47f6c130ff2d915378e5c9aa9417d9c7
 net.playq	tk-health_2.13	0.1.0		97831643856c86f2e33a1aa9d0e5cd6c4100623b
 net.playq	tk-health_2.13	1.1.0		378df0ffefdc88bf301ccf1083fe98ea3e2c79ca
 net.playq	tk-health_2.13	1.1.1		8847e99f9d60bf35b1d990cecb9cd3cc2b808476
@@ -1432,6 +1437,8 @@ org.codehaus.sonar.archetypes	sonar-basic-plugin-archetype	2.8		a85765fe1dbd6cd0
 org.codehaus.sonar.archetypes	sonar-basic-plugin-archetype	2.8-RC2		edc8f765f8fd5ce9ad64d85cb8942d99aca097bf
 org.codehaus.sonar.archetypes	sonar-basic-plugin-archetype	2.9		7de252816c2de7e77820b0e1b04d79f436a7cef5
 org.codehaus.sonar.archetypes	sonar-basic-plugin-archetype	2.9-RC1		e73f67909f30fa09b38eb916c80d2d7bf02690fa
+org.cvogt	sbt-scalaparse_2.10_0.13	0.1		faf0ceb653000dac010a10cd44cd441090537d8a
+org.cvogt	sbt-scalaparse_2.10_0.13	0.2		f7223acd50cb2edf385f74d26e63106ab54c9b7f
 org.easylauncher.mods.elfeatures	elfeatures-neoforge	1.0.0		513d2e596687247c9e9cf7ce4dd44ae1902fc42b
 org.easylauncher.mods.elfeatures	elfeatures-neoforge	1.1.0		N/A
 org.easylauncher.mods.elfeatures	elfeatures-neoforge	1.1.0	all	989cf8dd826e7be42cb068095cc7b9dcd5ad967e
@@ -1938,3 +1945,6 @@ org.wso2.ei	org.wso2.carbon.ei.tests.service	6.5.0-m1		8b65a4dfd32c8012524886ebb
 org.wso2.ei	org.wso2.carbon.ei.tests.service	6.5.0-m2		3a79f0048d76c4259e2874ecb74f9d46109f5a7b
 org.wso2.ei	org.wso2.carbon.ei.tests.service	6.5.0-m3		a00a7c9e1d446f0f75c4c33d349700c7ab6efd3f
 software.amazon.app.platform	presenter-molecule-testing	0.0.1		8bddd456586d236dabaccf2b0925da3f0b5673ce
+software.amazon.app.platform	presenter-molecule-testing	0.0.2		8bddd456586d236dabaccf2b0925da3f0b5673ce
+tz.co.asoft	kiota-file-picker-system-iosarm64	3.1.11	metadata	076b62354911e738079c3149880edda7d35414ce
+tz.co.asoft	kiota-file-picker-system-iosarm64	3.1.12	metadata	bb363fc92b35d61233481672920eed883f74a852

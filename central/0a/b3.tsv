@@ -183,6 +183,8 @@ com.facebook.business.sdk	facebook-java-business-sdk	22.0.1		ff117dd83ae8f80c205
 com.facebook.business.sdk	facebook-java-business-sdk	22.0.1	jar-with-dependencies	6c1697a9ddbeb60719f74a337ad79d84e6684fc3
 com.facebook.business.sdk	facebook-java-business-sdk	22.0.2		bee20d0651fd3dc38d81219fe3977f1fbbc65f2f
 com.facebook.business.sdk	facebook-java-business-sdk	22.0.2	jar-with-dependencies	13549fca80434be781c9274a0ed5557a89b2e96a
+com.facebook.business.sdk	facebook-java-business-sdk	22.0.3		e8f92c723e98db51f8606d00ed5bda33395042e6
+com.facebook.business.sdk	facebook-java-business-sdk	22.0.3	jar-with-dependencies	0696589004550e468d077bbc40fa1a1094a402b4
 com.facebook.business.sdk	facebook-java-business-sdk	3.0.0		a9149fe56457b56b3f12517585b69044ddd49c76
 com.facebook.business.sdk	facebook-java-business-sdk	3.0.0	jar-with-dependencies	bda35b035a1426917df023fdc0a5837fc840ef22
 com.facebook.business.sdk	facebook-java-business-sdk	3.0.1		fb18c0fa963a96953249e910cbb1adf28c8e698b
@@ -921,6 +923,7 @@ dev.zio	zio-aws-ses_2.13	7.31.27.1		b5e7a61bc6bce30aa9ea4fa8d788e0213a0f9ea3
 dev.zio	zio-aws-ses_2.13	7.31.28.1		1820335a411be1cb91453fb7bf7b9ebabbb48ae0
 dev.zio	zio-aws-ses_2.13	7.31.3.1		ee6248e691a51c4589aaf90e0e5791c929e27e15
 dev.zio	zio-aws-ses_2.13	7.31.30.1		ea1f058575fd30afb420660cb22980a907f040cb
+dev.zio	zio-aws-ses_2.13	7.31.30.2		8931697ba8f177a446cbccb8806c3312756db174
 dev.zio	zio-aws-ses_2.13	7.31.4.1		8f54e87b8b5fab50193339a9c899491b33388d9f
 dev.zio	zio-aws-ses_2.13	7.31.6.1		073a0793aa2d79a6262cd46dbc156cb3e3db297d
 dev.zio	zio-aws-ses_2.13	7.31.6.2		590aa4b377eaed54cb753e7006a107e5d1d5a72e
@@ -1068,6 +1071,7 @@ io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-com
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-common	2.13.3-alpha		80cfcbe364a93a9b37031effc0e8d9649a5c1bdc
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-common	2.14.0-alpha		c28da9a39107ea0ed1cc0c4c5bcf94a9bddcd378
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-common	2.15.0-alpha		c203ad6b7105fb4a0d3ff707e639372836d45780
+io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-common	2.16.0-alpha		a28464c50ca5e0c9573bfdd044d1f8b37efcc4ac
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-common	2.2.0-alpha		3a834c9d77823892e8ff5b956534746ef7f4a958
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-common	2.3.0-alpha		99e7e2dae837bf381d8bd83bf4b9fb15da66f7f2
 io.opentelemetry.javaagent.instrumentation	opentelemetry-javaagent-jsf-javax-common	2.4.0-alpha		8c77ea51659a93506db398e0d8d1f32dc5b4c107
@@ -1152,6 +1156,7 @@ org.apache.camel.quarkus	camel-quarkus-dataset	3.2.1		51050cda97cddecad2c5da66e8
 org.apache.camel.quarkus	camel-quarkus-dataset	3.2.2		493c51a27dc3e31a45de021916a502c88746d494
 org.apache.camel.quarkus	camel-quarkus-dataset	3.2.3		9f496a08a77d5af16d290b7d32823ac15ab179a8
 org.apache.camel.quarkus	camel-quarkus-dataset	3.20.0		efa00de2cf2a3e04a5ce69f04d370d516a9c331a
+org.apache.camel.quarkus	camel-quarkus-dataset	3.20.1		b7a73423414bbfdd4fcc8cc1a6446fa1b545d8fa
 org.apache.camel.quarkus	camel-quarkus-dataset	3.22.0		43bc665b713db9fb9226d7e5464166ed0ce44d40
 org.apache.camel.quarkus	camel-quarkus-dataset	3.4.0		758835b24054ad19cd84b73837a3481c82bece30
 org.apache.camel.quarkus	camel-quarkus-dataset	3.5.0		fbabd5c1b0007dc6314cb0545683a58791f5563d
@@ -1543,7 +1548,9 @@ org.elasticsearch.gradle	build-tools	8.17.2		269e8ab2e34e68559d86286938241c701d4
 org.elasticsearch.gradle	build-tools	8.17.3		34cbae0a7f69533d1a6c4c588968c16c5ac484d7
 org.elasticsearch.gradle	build-tools	8.17.4		e0a0d43f5de8011257b42cc78c54fe4e9bf97e43
 org.elasticsearch.gradle	build-tools	8.17.5		e8b3f9dc283ffc432ebf7ebe94fdf08e8c401d35
+org.elasticsearch.gradle	build-tools	8.17.6		3ba38eae05852b8f9820baa970dc9a916411bcd3
 org.elasticsearch.gradle	build-tools	8.18.0		4ede084bcd730016a1233350d49484447af5d816
+org.elasticsearch.gradle	build-tools	8.18.1		ebde4be0ce48fefb6fa9580caa8daf9c6c15818d
 org.elasticsearch.gradle	build-tools	8.2.0		25794e879a71b093b074b8a4cba154e96dfa9ff7
 org.elasticsearch.gradle	build-tools	8.2.1		53117883a9c8e1dd4ed1bd094877e8e09f7e6010
 org.elasticsearch.gradle	build-tools	8.2.2		26b9f8371f4cfad1d523e7d68468b03c8858a564
@@ -1574,6 +1581,7 @@ org.elasticsearch.gradle	build-tools	8.9.2		ff342a0a68f050980b9bc98d05f99aecae2c
 org.elasticsearch.gradle	build-tools	9.0.0		8a975bc55411f334460341b306ab380bd9feb6f9
 org.elasticsearch.gradle	build-tools	9.0.0-beta1		3799504f2f6fae0d7185b9afcc2fb0da7e42a889
 org.elasticsearch.gradle	build-tools	9.0.0-rc1		8f36c519bb1607bb58c9e39f8181e7520fba9f85
+org.elasticsearch.gradle	build-tools	9.0.1		0cfb348c631aa896ec3cb20fb895cb61943addf6
 org.fabric3	fabric3-fabric	2.5.0		547a0d864127d02632813706f40dfbb68ce28664
 org.fabric3	fabric3-fabric	2.5.1		d1bdd589ef42d845ecc3156cd5e286c454cc14c6
 org.fabric3	fabric3-fabric	2.5.2		45b96e6dacdb3645ee30d0383d0e979885312301
@@ -2343,6 +2351,7 @@ org.seleniumhq.selenium	selenium-edge-driver	4.29.0		a332f0a9452efe144ee8d79816f
 org.seleniumhq.selenium	selenium-edge-driver	4.3.0		daceb51bee91b43c75e1d7531e6cf72e6489a5b1
 org.seleniumhq.selenium	selenium-edge-driver	4.30.0		a332f0a9452efe144ee8d79816f9e19fe39e58b4
 org.seleniumhq.selenium	selenium-edge-driver	4.31.0		a332f0a9452efe144ee8d79816f9e19fe39e58b4
+org.seleniumhq.selenium	selenium-edge-driver	4.32.0		857a5156af7d592457a682ceefd726d562d7ccb3
 org.seleniumhq.selenium	selenium-edge-driver	4.4.0		4695bdcdf44c73987115763f64edfa043c2d5035
 org.seleniumhq.selenium	selenium-edge-driver	4.5.0		cda189a357832cef14f64403c7e8aa3c293d6428
 org.seleniumhq.selenium	selenium-edge-driver	4.5.1		d43704e2ed4c9763e6b2b22b0c4c297e6adcf86d
