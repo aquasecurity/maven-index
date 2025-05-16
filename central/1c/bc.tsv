@@ -1,3 +1,4 @@
+app.keyconnect	keyconnect	1.0.0		N/A
 avalon-meta	avalon-meta-impl	1.1		6610f4433cc3a960bf5861560c3b1b637c09c145
 avalon-meta	avalon-meta-impl	1.1-RC1		ca853c8ecbfbec87217081a41206a8e565725095
 avalon-meta	avalon-meta-impl	1.3		5155fdf4f80526e03c572249ba7ac035f9de178f
@@ -38,6 +39,22 @@ com.exactpro.th2	codec-sailfish	5.0.0-dev		f5a391183e67de1685fc1fae8f2fc5c9f813a
 com.exactpro.th2	codec-sailfish	5.1.0-dev		9e7e3610875427e4e6af7e38ff83cb14c8a5a68b
 com.exactpro.th2	codec-sailfish	5.2.0-dev		515c823c9708e31cb2592af948f7f89f6b58636a
 com.forceai.glide	volley-integration	4.11.0.10		ce12e9bf6f2195c05b1e5f27de1d19320d594f0e
+com.github.fangjinuo.esmvc	esmvc	1.0.0		N/A
+com.github.fangjinuo.esmvc	esmvc	1.1.0		N/A
+com.github.fangjinuo.esmvc	esmvc	1.1.1		N/A
+com.github.fangjinuo.esmvc	esmvc	1.1.2		N/A
+com.github.fangjinuo.esmvc	esmvc	1.1.3		N/A
+com.github.fangjinuo.esmvc	esmvc	1.2.0		N/A
+com.github.fangjinuo.esmvc	esmvc	1.2.1		N/A
+com.github.fangjinuo.esmvc	esmvc	1.2.2		N/A
+com.github.fangjinuo.esmvc	esmvc	1.2.3		N/A
+com.github.fangjinuo.esmvc	esmvc	1.2.4		N/A
+com.github.fangjinuo.esmvc	esmvc	1.3.0		N/A
+com.github.fangjinuo.esmvc	esmvc	1.3.1		N/A
+com.github.fangjinuo.esmvc	esmvc	1.3.2		N/A
+com.github.fangjinuo.esmvc	esmvc	1.3.3		N/A
+com.github.fangjinuo.esmvc	esmvc	1.3.4		N/A
+com.github.fangjinuo.esmvc	esmvc	1.3.5		N/A
 com.github.ghik	silencer-plugin_2.12.14	1.17.13		1ea6d4b631063485a8d845efb1c0762574c09b1a
 com.github.ghik	silencer-plugin_2.12.14	1.7.10		98ec53bd67a6589aee972856836d463de1d9c027
 com.github.ghik	silencer-plugin_2.12.14	1.7.11		5f4c00ab8969177ca9655dc65c3b134ba55180cd
@@ -714,6 +731,16 @@ com.netease.nim	camellia-delay-queue-sdk	1.3.2		3a8ae850065f7a59760ec3c1b11f7a1f
 com.netease.nim	camellia-delay-queue-sdk	1.3.3		839ad83abcbbbca09eb3e9a9e757c13f84e2b327
 com.netease.nim	camellia-delay-queue-sdk	1.3.4		054011bc1891f87d184c6b0f2584e8adf473ee82
 com.netease.nim	camellia-delay-queue-sdk	1.3.5		dabfcce7e1e14039c56b774a9668a41f2fb4021c
+com.networknt	undertow	0.1.0		N/A
+com.networknt	undertow	0.1.1		N/A
+com.networknt	undertow	0.1.2		N/A
+com.networknt	undertow	0.1.3		N/A
+com.networknt	undertow	0.1.4		N/A
+com.networknt	undertow	0.1.5		N/A
+com.networknt	undertow	0.1.6		N/A
+com.networknt	undertow	0.1.7		N/A
+com.networknt	undertow	0.1.8		N/A
+com.networknt	undertow	0.1.9		N/A
 com.outr	iconsole-core_2.12	1.0.0		fc7d282a04dd7d674766c171d29ef72122349691
 com.outr	iconsole-core_2.12	1.0.1		18d6329e3c8b6f392c1f0e3bc78522da13d503ed
 com.paypal	cascade-http_2.10	0.2.0		4a36d867058c543a293bc01d4326f1f3ec5b7dfe
@@ -1062,6 +1089,8 @@ net.codetreats	kotlin-rest-client	1.0.0		f64665f73533e01edc220abe21a59f3422d9fdc
 net.codetreats	kotlin-rest-client	1.1.0		bb29f42747df3f731b8a28fe0d39f29e53ae6aaf
 net.markenwerk	utils-lrucache	1.0.0		460c41b888eae5fe5b3f18fd5f1e1958f8c8e7c7
 net.markenwerk	utils-lrucache	1.0.1		0e4c9d53b0dcb15293899c86609150a4f1a8dbf3
+net.risesoft	y9-digitalbase-example	v9.6.6.2		N/A
+net.risesoft	y9-digitalbase-example	v9.6.7		N/A
 org.apache.camel	camel-cometd	2.0-M1		3324e7fb0755d1885e6d5f9500609048218fe158
 org.apache.camel	camel-cometd	2.0-M2		9e47b56596f6d6fa84731297d47ffd8d8d104f4f
 org.apache.camel	camel-cometd	2.0-M3		d0ddcdc307223620d89b300f4a1551a88458abdb
@@ -1366,6 +1395,38 @@ org.apache.camel	camel-test-karaf	3.0.0-RC2		61fe29c15c51fc9169863e45decfd4019b3
 org.apache.camel	camel-test-karaf	3.0.0-RC3		eb8ef80c748bc3e0ad771b83db0df0b7d04ce2f0
 org.apache.camel	camel-test-karaf	3.0.1		13283c25172794560042fba3a0526ffc3b45410a
 org.apache.camel	camel-test-karaf	3.1.0		7c8f056f8bee377b288bdc7ef56c27f0eeb0da20
+org.apache.wicket.experimental.wicket9	wicket-http2	0.10		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.11		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.12		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.13		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.14		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.15		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.16		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.17		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.18		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.19		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.20		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.21		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.22		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.23		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.24		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.25		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.26		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.27		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.28		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.29		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.30		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.31		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.32		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.6		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.7		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.8		N/A
+org.apache.wicket.experimental.wicket9	wicket-http2	0.9		N/A
+org.bedework.deploy	bw-wfmodules-synch-ear	1.0.0		N/A
+org.bedework.deploy	bw-wfmodules-synch-ear	1.0.1		N/A
+org.bedework.deploy	bw-wfmodules-synch-ear	1.0.2		N/A
+org.bedework.deploy	bw-wfmodules-synch-ear	1.0.3		N/A
+org.bedework.deploy	bw-wfmodules-synch-ear	1.0.4		N/A
 org.bremersee	common-exception-feign	0.0.1		8a4693d002d5df32b6bdddd289ca2dceae8854c0
 org.bremersee	common-exception-feign	1.0.0		f3a82821ecc7698e87e6bda06ebbe6b2a89dbf46
 org.bremersee	common-exception-feign	1.0.1		68e76f9f43363dc7f4a2cf8f48ef16d120fbd6a1
@@ -1426,6 +1487,12 @@ org.lwes	lwes-java	2.2.0		83f4ff737504b9abe5305e350e32ff9ef3b8f966
 org.lwes	lwes-java	2.2.0	jar-with-dependencies	a4a885e53f581c2da9ad6090f64faf737e6fc8d6
 org.lwes	lwes-java	2.2.1		22d52613a4476f537025a3343ff57abe67cc8c73
 org.lwes	lwes-java	2.2.1	jar-with-dependencies	2414b50b657c63cb72dc6e3628126cceca0f8b28
+org.opendaylight.persistence	persistence-root	1.0.0-Lithium		N/A
+org.opendaylight.persistence	persistence-root	1.0.1-Lithium-SR1		N/A
+org.opendaylight.persistence	persistence-root	1.0.2-Lithium-SR2		N/A
+org.opendaylight.persistence	persistence-root	1.0.3-Lithium-SR3		N/A
+org.opendaylight.persistence	persistence-root	1.0.4-Lithium-SR4		N/A
+org.peekmoon.webp	webp-parent	1.0.0		N/A
 org.scala-lang.modules	scala-collection-compat_sjs1.0-RC2_2.13	2.1.3		912eb8b5b3e8e47e9df83611377af7e54d0e9f7a
 org.scalaz	scalaz-scalacheck-binding_2.12.0-M2	7.0.8		1f02c564ec4e4a8723a23fe1b2980e2c2420104b
 org.scalaz	scalaz-scalacheck-binding_2.12.0-M2	7.1.3		b88b59f154838275c7bb5a9d955d973933469bf1
@@ -3339,6 +3406,16 @@ ug.co.intelworld	HmacAuth	2.0		b75644bbc18c14c77e6819fb005e4990de48666f
 xdoclet	xdoclet-xjavadoc	1.0		81c89058030d7d3df6330197362dc58e2423632f
 xdoclet	xdoclet-xjavadoc	1.2b1		4722d1fbe15da65a6a89bf545e7a9db7594962e7
 xdoclet	xdoclet-xjavadoc	1.2b2		9d5a63a4056b4a2ce0933c5cda985c76fefc085c
+xyz.block	tbdex	0.10.0-beta		beb5d1bae0a192a09ab24b283a9dd7be1c925950
+xyz.block	tbdex	0.11.0-beta		4760d3df8b9632c04fdfdcaca60276710ceb3c5c
+xyz.block	tbdex	0.12.0-beta		522a74e036dc3e836da02110c820cb04f17851ad
+xyz.block	tbdex	0.13.0		421e455b43a09a28c9e450481e1c80b3087aa505
+xyz.block	tbdex	0.8.0-beta		c630ef1b72135235669603de7dbfebb7566e6054
+xyz.block	tbdex	0.9.0-beta		3b9b006132dd9371f50d9d0a8313aba4806c8b1b
+xyz.block	tbdex	1.0.0		N/A
+xyz.block	tbdex	1.1.0		N/A
+xyz.block	tbdex	2.0.0		N/A
+xyz.block	tbdex	2.0.1		N/A
 xyz.block	tbdex	3.0.0		9b040e43191f8b85d82b7c54a2569b1e79281069
 xyz.block	tbdex	3.0.0	jar-with-dependencies	3c9019a2d8658457cbc9c22ac7bda00413a64082
 xyz.block	tbdex	3.0.0-alpha-1		e7b7d08d3cb15f3661bc2f5d02dad2cf2d001c1a
@@ -3351,3 +3428,4 @@ xyz.block	tbdex	4.0.0		58dab199df7cd763fed7595aafc0cfdfd63a3a64
 xyz.block	tbdex	4.0.0	jar-with-dependencies	92b5cd57ee165798b3734317831df13c183293fe
 xyz.block	tbdex	4.0.0-alpha-1		fe4bc035d46b33270017ecbe54a46c8e42551480
 xyz.block	tbdex	4.0.0-alpha-1	jar-with-dependencies	767f571c3eca32468153704334acccd63a7a3b89
+xyz.block	tbdex	v2.0.1		N/A

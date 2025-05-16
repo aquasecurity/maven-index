@@ -75,6 +75,7 @@ cn.leancloud	mixpush-vivo	8.2.9		5e1292acdbafb52e568645328e710399c8182e99
 cn.leancloud	mixpush-vivo	8.2.9.1		59dcc183ce380b8279e4e3c06e73780228d843a5
 cn.orionsec.kit	orion-http	2.0.0		5ceb6abc3b627a92e09bb5a7719d2853935bfaf2
 cn.orionsec.kit	orion-http	2.0.1		ef77845d8672aa0dbd0455954cc3be331759761f
+com.att.aft	dme2-base	3.1.200-oss		N/A
 com.bazaarvoice.emodb	emodb-common-zookeeper	1.0.1-migration		871942be5e54c3871b068ac075d336050f2437ea
 com.bazaarvoice.emodb	emodb-common-zookeeper	5.4.1		60d73142cd3a408521cc606eba5cc7dd2c6e6a7c
 com.bazaarvoice.emodb	emodb-common-zookeeper	5.4.10		8dee53276c69390bfcda380b6ee21ff329095f5f
@@ -368,7 +369,14 @@ com.devsisters	shardcake-entities_2.12	2.4.2		2c3d38652109781350134fac320b698d12
 com.devsisters	shardcake-entities_2.12	2.4.3		ab592ea47c1c056d70978185d48c879902ff7717
 com.devsisters	shardcake-entities_2.12	2.5.0		a0ec48f3278edac71d9d62a80b2e6796053d3c7c
 com.devsisters	shardcake-entities_2.12	2.5.1		cc3bd820cdc07503dac52d681f46e78144fa50af
+com.gitee.l0km	nanohttpd-project	2.3.2		N/A
+com.gitee.l0km	nanohttpd-project	2.3.3		N/A
+com.gitee.l0km	nanohttpd-project	2.3.4		N/A
 com.github.crabime	nf-console	19.03.0-edge		de2b0de65e27a7a61a5752bca3121cb5af913762
+com.github.davidmoten	dummy	0.4.2		N/A
+com.github.davidmoten	dummy	0.4.3		N/A
+com.github.davidmoten	dummy	0.5		N/A
+com.github.davidmoten	dummy	0.6		N/A
 com.github.frank5380	candy-redis	0.0.1		1dcba3bc8dc29ee3ec7d3d5f734a9c18aebe65b8
 com.github.frank5380	candy-redis	0.0.2		f81ff915e6e49233c055cd207e1c8a18f7b2e11d
 com.github.frank5380	candy-redis	0.0.3		57a4adb252bb1cb415799b6a89b2a839a2e15c81
@@ -548,10 +556,14 @@ com.nineoldandroids	library	2.2.0		4a7387277ff213d56208446fd8cbd8efbb99e3e4
 com.nineoldandroids	library	2.3.0		3a45e678a73182d75aea240e4c3a1b84352eb154
 com.nineoldandroids	library	2.4.0		e9b63380f3a242dbdbf103a2355ad7e43bad17cb
 com.rafambn	KMaP-jvm	0.1.0		def5e2eef4645a57be27487365cfd2677cec97f2
+com.starmcc	starmcc-dependencies	1.0.0-RELEASE		N/A
 com.vladkopanev	cats-saga_2.11	0.2.0+4-86161339		39046474158ffd8516a4003c2795eca96eecb3b6
 com.vladkopanev	cats-saga_2.11	0.2.2		fd65e8c1b0c48ab15bff81cbf35408acfbd21d7b
 com.vladkopanev	cats-saga_2.11	0.2.3		2b0ca7e89d7bec70cf71427f71ff9b0e23791be7
 de.dentrassi.eclipse.neoscada.core	org.eclipse.scada.hd.client.connection.service	0.1.0		70bfcde127eca04dffbce496a28275d24cb19412
+de.larmic	larmic-maven-plugin	1.0		N/A
+de.larmic	larmic-maven-plugin	1.1		N/A
+de.larmic	larmic-maven-plugin	1.2		N/A
 de.otto	hmac-auth-client	1.0.0		4c156c29865cc74cd6eb73279b551b88b924d98f
 de.otto	hmac-auth-client	1.1.0		776d3e51628ec0ca933b3537e8370e70c6797436
 de.otto	hmac-auth-client	1.2.0		d1d97c1c74ea6f814612b4bba4f649874ffc21cf
@@ -702,6 +714,7 @@ dev.jordond.compass	autocomplete-jvm	2.0.0		2bb02b157f901dae3c064bed66b88921bfdd
 dev.jordond.compass	autocomplete-jvm	2.0.1		671bb55ebf4a88e509a7f74b5063e18ad70038b5
 dev.teogor.sudoklify	sudoklify-seeds-wasm-js	1.0.0-beta03		N/A
 eu.cdevreeze.coursier-extra	coursier-trees_sjs1_2.13	0.1.0		3dd3ca468f53b6b056342d239c9eecfaef2630f1
+eu.nets.oss.maven	nets-oss-parent	1		N/A
 fr.norad.visuwall	visuwall-plugin-continuum	0.3.4		9013cc31aad338eccf574d477fa749e94a825fcc
 fr.norad.visuwall	visuwall-plugin-continuum	0.3.5		32eab5ec32ad51407b0e72f476697921eccebc30
 io.arkitik.radix	radix-development-usecase-validation	v1.0.0		629d8a778980f08cb50b9df5a605c08cb437e225
@@ -798,6 +811,25 @@ io.deephaven	deephaven-TableLogger	0.37.6		1a7fc3823b1221e45ab85441f3202277cbd40
 io.deephaven	deephaven-TableLogger	0.38.0		b7b9caca4df0bcebd78144db42419f843751ef3f
 io.deephaven	deephaven-TableLogger	0.39.0		85e633903f29a46f63303cb11fc8ba3610189a75
 io.github.cloudiator.sword	remote-overthere	0.1.0		69e45f569f8524b7f07e3a315ee5b8287d60c069
+io.github.epi155	recfm	0.5.1		N/A
+io.github.epi155	recfm	0.5.2		N/A
+io.github.epi155	recfm	0.5.3		N/A
+io.github.epi155	recfm	0.5.4		N/A
+io.github.epi155	recfm	0.5.5		N/A
+io.github.epi155	recfm	0.6.0		N/A
+io.pubstar.mobile	ads	1.0.0		N/A
+io.pubstar.mobile	ads	1.0.0-alpha		N/A
+io.pubstar.mobile	ads	1.0.0-beta		N/A
+io.pubstar.mobile	ads	1.1.1		N/A
+io.pubstar.mobile	ads	1.1.2		N/A
+io.pubstar.mobile	ads	1.1.3		N/A
+io.pubstar.mobile	ads	1.1.4		N/A
+io.pubstar.mobile	ads	1.1.5		N/A
+io.pubstar.mobile	ads	1.1.6		N/A
+io.pubstar.mobile	ads	1.1.7		N/A
+io.pubstar.mobile	ads	1.1.7-1		N/A
+io.pubstar.mobile	ads	1.1.7-2		N/A
+io.pubstar.mobile	ads	1.1.8		N/A
 io.shiftleft	cpg2overflowdb_2.12	0.10.101		9158be8525d31fc0d9827bc35fa5c7c139e352ab
 io.shiftleft	cpg2overflowdb_2.12	0.10.102		8bc0c8c26df5a55b91cfeb4147380f935e7dce82
 io.shiftleft	cpg2overflowdb_2.12	0.10.103		7d7747d6e0aa7ba7de8bb9dc95f949a605d1a582
@@ -884,6 +916,7 @@ io.shiftleft	cpg2overflowdb_2.12	0.10.97		707d1f48079af7b5cde58eccf00c77b02730b9
 io.shiftleft	cpg2overflowdb_2.12	0.10.98		ac282330c2b04f8317bf54222a5cda36b7aa5d8d
 john-test	batik-css	1.5		52a702270af249e69e6c40aa5407e4a4f857202d
 john-test	batik-css	1.6		9433ba160f0b7ca6640f750decebd99fe98dacd3
+jruby	jruby-java4-bin	0.9.2		N/A
 li.rudin.core	core-db-impl	1.2		796b3284666f9b86a67e3a2360f2969250245839
 li.rudin.core	core-db-impl	1.3		92211a7c6d66e4458ac4d8e60f9310100c89fb33
 li.rudin.core	core-db-impl	1.4		b82933e7e67b53da64a18de3476eeff7edac4121
@@ -998,6 +1031,9 @@ net.orandja.ktm	core-jvm	1.0.0		f13283e82558be2b92daf87ad3417aaccd40a90f
 net.orandja.ktm	core-jvm	1.0.1		f256452052b6c716dcf4770bdf88e8c4c33ee48a
 net.orandja.ktm	core-jvm	1.0.2		a32a9b0225bf8fd2cf8d3ec68db7989501f92f31
 net.orandja.ktm	core-jvm	1.0.3		0b7fc53ccbd3d986a10cb77f90edf2d30aaa9364
+nz.ac.auckland.aem	contentgraph	1.2		N/A
+nz.ac.auckland.aem	contentgraph	1.3		N/A
+nz.ac.auckland.aem	contentgraph	1.5		N/A
 org.apache.accumulo	cloudtrace	1.3.5-incubating		04c2aec74bcac56e6d65b5b31d4780a3c02d288b
 org.apache.accumulo	cloudtrace	1.3.6		3d8c93a8143c02d48c0d9fc61186e2e5419097aa
 org.apache.accumulo	cloudtrace	1.4.0		7fbdfd3f733364ca1519c61d19a92dce13b8e48b
@@ -1209,6 +1245,9 @@ org.brightify.hyperdrive	plugin-debug-iossimulatorarm64	0.1.147	metadata	2fc5df3
 org.brightify.hyperdrive	plugin-debug-iossimulatorarm64	0.1.148		N/A
 org.brightify.hyperdrive	plugin-debug-iossimulatorarm64	0.1.148	metadata	0c3d637b5367eb319fa2aeb6b0ec572fa58e74ad
 org.etby	butterknife	10.1.0		N/A
+org.ferris	ferris-yahoo-finance-jmce-parent	0.0.3		N/A
+org.ferris	ferris-yahoo-finance-jmce-parent	0.0.4		N/A
+org.ferris	ferris-yahoo-finance-jmce-parent	0.0.5		N/A
 org.keycloak.example.demo	customer-portal-filter-example	12.0.0		N/A
 org.keycloak.example.demo	customer-portal-filter-example	12.0.1		N/A
 org.keycloak.example.demo	customer-portal-filter-example	12.0.2		N/A
@@ -1220,6 +1259,9 @@ org.keycloak.example.demo	customer-portal-filter-example	14.0.0		N/A
 org.keycloak.example.demo	customer-portal-filter-example	15.0.0		N/A
 org.keycloak.example.demo	customer-portal-filter-example	15.0.1		N/A
 org.keycloak.example.demo	customer-portal-filter-example	15.0.2		N/A
+org.kie.j2cl.tools	backend-kotlin	v20240622-1		N/A
+org.kie.j2cl.tools	backend-kotlin	v20240622-2		N/A
+org.kie.j2cl.tools	backend-kotlin	v20241110-1		N/A
 org.kodein.log	canard-iosarm64	0.14.0		N/A
 org.kodein.log	canard-iosarm64	0.14.0	metadata	d70d7b237a767304646d0e454427875832926985
 org.kodein.log	canard-iosarm64	0.15.0		N/A
@@ -1558,6 +1600,10 @@ org.netbeans.api	org-netbeans-libs-git	RELEASE230		d586e5e91a41d5e6e1c8ee5b541a7
 org.netbeans.api	org-netbeans-libs-git	RELEASE240		27031367028fd5282de3ea064d8694c445b4108e
 org.netbeans.api	org-netbeans-libs-git	RELEASE250		324007bfc04b1f82f2318cc481148d40337ef2e3
 org.netbeans.api	org-netbeans-libs-git	RELEASE90		2089e2636d6e5ea84d13a0e7f190397d399ce958
+org.noear.bundle	solonx-projects	1.0.0		N/A
+org.noear.bundle	solonx-projects	1.0.0-M1		N/A
+org.noear.bundle	solonx-projects	1.0.2		N/A
+org.ow2.bonita	bonita-build	4.1		N/A
 org.ow2.monolog	monolog-wrapper-log4j	2.2.1-RC1		1de9c8b740674e97f66fc43fc222717935f8a883
 org.phenoscape	sparql-utils-owlapi_2.13	1.3		2d7be0e30caff1612bd4a6f740fc96d066d4d641
 org.phenoscape	sparql-utils-owlapi_2.13	1.3.1		d5df7d741b26d43e4ed1ac56524c2195f5b3c0a0
@@ -1828,6 +1874,16 @@ org.typelevel	otel4s-core-trace_3	0.8.1		52060aa4c876b507210ebbf1b98b9d34b5202ce
 org.typelevel	otel4s-core-trace_3	0.9.0		3f753416390a17f52ea59d8dfabf94a03f638b23
 org.webjars	furatto	3.1.0		018c522a919e80f5ff0622acd54f8d814c4e1ef9
 org.webjars.bower	jquery-locationpicker-plugin	0.1.15		1dea7d773783e1800f88de823c14a2c8546f4645
+org.wildfly.bom.builder	wildfly-tools-builder	34.0.0.Beta1		N/A
+org.wildfly.bom.builder	wildfly-tools-builder	34.0.0.Final		N/A
+org.wildfly.bom.builder	wildfly-tools-builder	34.0.1.Final		N/A
+org.wildfly.bom.builder	wildfly-tools-builder	35.0.0.Beta1		N/A
+org.wildfly.bom.builder	wildfly-tools-builder	35.0.0.Final		N/A
+org.wildfly.bom.builder	wildfly-tools-builder	35.0.1.Final		N/A
+org.wildfly.bom.builder	wildfly-tools-builder	36.0.0.Beta1		N/A
+org.wildfly.bom.builder	wildfly-tools-builder	36.0.0.Final		N/A
+org.wildfly.swarm	wildfly-swarm-jca-parent	1.0.0.Alpha4		N/A
+org.wildfly.swarm	wildfly-swarm-jca-parent	1.0.0.Alpha5		N/A
 qa.hedgehog	hedgehog-minitest_3.0.0-RC3	0.6.7		96f99211c836fe70a69a64c03396371a2e2e3288
 se.natusoft.tools.codelicmgr	CodeLicenseManager-source-updater-html-xml	2.1.1		0271cecd214cb5885a8aaea102c024568519fa74
 tz.co.asoft	cinematic-live-coroutines-watchosarm64	2.0.16		N/A

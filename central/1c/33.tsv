@@ -35,6 +35,10 @@ cn.workde	workde-starter-boot	1.2.3-RELEASE		17985aae6bb476cabbdc8619e63220043e8
 cn.workde	workde-starter-boot	1.2.4-RELEASE		79de978fb9c96418725de320517a49e293645c98
 cn.workde	workde-starter-boot	1.2.5-RELEASE		208a88493bfd8f21d01f8e277112b7ad097442c5
 cn.workde	workde-starter-boot	1.2.6-RELEASE		7b62a554c1782dbf08533d00142550b7341db0c3
+com.aeontronix.anypoint-tools	anypoint-tools	0.9.40		N/A
+com.aeontronix.anypoint-tools	anypoint-tools	0.9.41		N/A
+com.aeontronix.anypoint-tools	anypoint-tools	0.9.42		N/A
+com.aeontronix.anypoint-tools	anypoint-tools	0.9.43		N/A
 com.alejandrohdezma	scala-steward-core_2.13	0.11.0		a5cf5f99d998d73f8ba3a88c0af65b2532891870
 com.alejandrohdezma	scala-steward-core_2.13	0.11.1		ca49a8ea44650adf904f4125eb1aef4109b6ccab
 com.aliyun	alibabacloud-polardb20170801	1.0.0		2f87817530c8cb2aca52379ed0b093b746e2fc5f
@@ -374,6 +378,7 @@ com.github.biyusir	wxapi	1.1		315346a8f789dffadda5869bb86cd9cd297be586
 com.github.biyusir	wxapi	2.0		a6920f5354240ed2211e1d15b389be67863c1a45
 com.github.cafdataprocessing.workers.document	worker-document-validator	7.0.0-1496		db4213690e2ed57db0bc7f4c959cf14d550d76ce
 com.github.cafdataprocessing.workers.document	worker-document-validator	7.1.0-1518		ac11bf286d7892660caf1671578ed7c662ba735c
+com.github.fangjinuo.sqlhelper.examples	sqlhelper-examples	3.0.5		N/A
 com.github.geoladris.plugins	auth	7.0.0		4847d0e095055edbc9ecea5ff7b7e790400d6de3
 com.github.phantomthief	buffer-trigger	0.1.0		3a5ac6cdb39e1838f3b24fd146327d73165db2d6
 com.github.phantomthief	buffer-trigger	0.2.0		ea0478ef78b1d77c3ff492e0342796ac052bc1ad
@@ -411,6 +416,8 @@ com.github.xiaojoin	activa-api	1.0.1		de0d4120ad7cbf7b09413dd4b0ace46e42062a75
 com.google.code.flex-iframe.examples	Dashboard	1.4.6		N/A
 com.google.code.flex-iframe.examples	Dashboard	1.5		N/A
 com.google.code.flex-iframe.examples	Dashboard	1.5.1		N/A
+com.jdroidframework	jdroid-parent	0.5.0		N/A
+com.jdroidframework	jdroid-parent	0.6.0		N/A
 com.jsmartframework	jsmart-web	2.0.0		25a7645746798c1adc4cc6f2a87e7b647c83132f
 com.jsmartframework	jsmart-web	2.1.0		85b368a70b1bac956c162dfda845154ae1777621
 com.jsmartframework	jsmart-web	2.1.1		aed4ce909df2c085136be90cd4485a285d2bd32c
@@ -872,6 +879,7 @@ dev.inmo	micro_utils.serialization.encapsulator-linuxarm64	0.25.2		N/A
 dev.inmo	micro_utils.serialization.encapsulator-linuxarm64	0.25.3		N/A
 dev.inmo	micro_utils.serialization.encapsulator-linuxarm64	0.25.4		N/A
 dev.inmo	micro_utils.serialization.encapsulator-linuxarm64	0.25.5		N/A
+dev.resteasy.jetty	resteasy-jetty-test-bom	1.0.0.Alpha1		N/A
 dev.zio	zio-morphir-ir_sjs1_2.13	0.1.0-M01		61398cb8d48cfabfcd589701750ee40ef82d0798
 dev.zio	zio-morphir-ir_sjs1_2.13	0.2.0-M01		0486a9cd6742fb6a12ce7f5249ad65fad8259cf1
 eu.michael-simons	wro4j-spring-boot-starter	0.0.10		e927c539f9ce45b29599df7115dbd85e1972b744
@@ -991,6 +999,7 @@ info.cukes	cucumber-picocontainer	1.2.2		e12f0b96b5fdb8bea87119835cd4435140ecbac
 info.cukes	cucumber-picocontainer	1.2.3		64988fe9790165f05497879d44e1d8a4a52f4343
 info.cukes	cucumber-picocontainer	1.2.4		0415ef48ddc2409272f383f2ea844cb821b657cf
 info.cukes	cucumber-picocontainer	1.2.5		1b1eab642518986203e9af7196c7ee1af43918ba
+info.cukes	cucumber-picocontainer	1.2.6		N/A
 info.downdetector.bigdatascanner	datascanner-jvm	1.0.0		f635e744d91b66de5da139273a0dc7ac663057c1
 info.downdetector.bigdatascanner	datascanner-jvm	1.0.1		5256507d73f5fd927ab3617662818d42af696ca8
 info.downdetector.bigdatascanner	datascanner-jvm	1.0.2		9abc2e3fb497cf1003d3247bd79e0b832f54e8d8
@@ -1058,6 +1067,21 @@ io.github.vvk78.perceptnet.commons	json-io	1.5.0		8b6eaa2d04623763a3d3657f9f750d
 io.github.vvk78.perceptnet.commons	json-io	1.6.0		cd2a070fb40dfc0ce093f90f5c8d977ca60a4fd9
 io.helidon.pico	helidon-pico-processor	4.0.0-ALPHA6		e713a36478bb51c155947b3e50163a0df1dd2101
 io.kevinlee	just-semver-decver_native0.4_3	1.0.0		f93254c1b7e32a7f622c06fbf58fc498f425a583
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.0		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.1		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.2		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.3		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.4		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.5		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.6		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.7		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.8		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.0.9		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.1.0		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.1.1		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.1.2		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.1.3		N/A
+io.quarkiverse.azureservices	quarkus-azure-core-parent	1.1.4		N/A
 io.quarkiverse.cxf	quarkus-cxf-santuario	1.5.0		2a5c0932e4aeeb6f73e32993f4d28a5a60e7e004
 ir.msob.jima.report	report-api-restful-service	1.2.0		d1047d75d1e602d23396e9e0281feaf896aae055
 ir.msob.jima.report	report-api-restful-service	1.3.0		7fc603e39668f1d910109cfa5ce52494afa3a3ae

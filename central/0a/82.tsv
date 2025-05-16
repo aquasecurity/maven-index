@@ -18,6 +18,7 @@ com.codacy	op-rabbit-airbrake_2.13	0.1.4		c853d9616fcbf6ccfbb693388eef0ad65cc499
 com.crobox	reactive-consul_2.13	0.5.2		da74f15564c08f98b3058e0e0e3caf9302ea9db6
 com.crobox	reactive-consul_2.13	0.6.0		1b3f8e194af3c4767b2a4856c4a0e1251f66650e
 com.davegurnell	unindent_3.0.0-RC2	1.5.0		5f52d24170270ad26ab6c417e24020139219777c
+com.future94	alarm-log-starter	1.0.0.RELEASE		N/A
 com.ganshane	nirvana-support_2.10	1.0.2		0a018d2ddb33139948b82ef75a9ace9f4c08b1d9
 com.github.epabst.scala-android-crud	scala-android-crud	0.3-alpha1		ddf387c2a807adbdbd5f2a3445b14f00a694e2a9
 com.github.epabst.scala-android-crud	scala-android-crud	0.3-alpha2		ab775aff33097f1ee75e7ba4a4ea04cf3ba2b653
@@ -48,6 +49,7 @@ com.github.monkeysintown	jdbc-ssh	1.0.10		8c82ab3e24b7b4239afccb28055f08f3e79316
 com.github.monkeysintown	jdbc-ssh	1.0.7		e248fa51840a105c7c8b6f64241bd80d2cfe038c
 com.github.monkeysintown	jdbc-ssh	1.0.8		38f431be1da38da05b10fed8ac4e49385ea60416
 com.github.monkeysintown	jdbc-ssh	1.0.9		aefeb5d357491ed434a366ee7669032b8fe1f98d
+com.github.paganini2008.springworld	springdessert	2.0-RC5		N/A
 com.google.api.grpc	grpc-google-cloud-bigquery-data-exchange-v1beta1	0.1.0		99a9c661f99a14c82c195f6b36fc37549c1a73a0
 com.google.api.grpc	grpc-google-cloud-bigquery-data-exchange-v1beta1	0.2.0		fbec957d82c0ff845e927b59f9e61ceeae8caa18
 com.google.api.grpc	grpc-google-cloud-bigquery-data-exchange-v1beta1	0.2.1		54b76ec74b5d50fe5f8237a9e6928d718f39d6cc
@@ -339,6 +341,7 @@ io.github.hoaucommon	auth-common	1.0.8		deff7a8503fa18bd1be4977c3991436c50692116
 io.github.hoaucommon	auth-common	1.0.9		a3e4ef34f4c86e7ae889b744c944594e5af009a4
 io.github.hoaucommon	auth-common	1.1.0		e8def7b1349a812ed3ac4994db97dbe86f5e4a9c
 io.github.hoaucommon	auth-common	1.1.1		6354cce3af00c42407d6aba5765fa75ae0ccdc96
+io.github.open-accelerators	payment-execution	1.0.2		N/A
 io.github.vardemin	hels-full	0.1.0		N/A
 io.github.vardemin	hels-full	0.1.1		N/A
 io.github.vardemin	hels-full	0.2.0		N/A
@@ -1139,6 +1142,7 @@ org.apache.livy	livy-client-http	0.5.0-incubating		31d0a5a697f55a8b35bd136c73ed1
 org.apache.livy	livy-client-http	0.6.0-incubating		b2537bc9d8df0e6746d7fe1712765cf0dc3d7f5e
 org.apache.livy	livy-client-http	0.7.0-incubating		8a439ea5f91364f6484dbd7a6858d66ee72561f7
 org.apache.livy	livy-client-http	0.7.1-incubating		742f705a892d3440d56db626d067105ec5e5071d
+org.apache.livy	livy-client-http	0.8.0-incubating		N/A
 org.boofcv	calibration	0.16		308db2a2ef30af32b1ee1b22c9d70d1593cd5379
 org.boofcv	calibration	0.17		24e0b2e3db9bfbab570a2bc2c1c535f30de04d27
 org.boofcv	calibration	0.18		9beb619549ef31c8f6a58d5a37756a485dca53c4
@@ -1214,6 +1218,14 @@ org.chtijbug.drools	kie-drools-framework-rest-backend	2.0.6		391975db9cde36a8b65
 org.chtijbug.drools	kie-drools-framework-rest-backend	2.0.7		3ad01391f626c15d0427316b4a9cd58d4707654d
 org.chtijbug.drools	kie-drools-framework-rest-backend	2.0.8		570b5909748d9eed2c49584ffa29f51042e9592a
 org.chtijbug.drools	kie-drools-framework-rest-backend	2.0.9		24e6e654801c29a257c5b2091f2a85a5fcf2c3ee
+org.citrusframework	citrus-simulator	2.0.0		N/A
+org.citrusframework	citrus-simulator	2.0.1		N/A
+org.citrusframework	citrus-simulator	2.1.0		N/A
+org.citrusframework	citrus-simulator	2.1.1		N/A
+org.citrusframework	citrus-simulator	3.0.0		N/A
+org.citrusframework	citrus-simulator	3.0.0-M1		N/A
+org.citrusframework	citrus-simulator	3.0.1		N/A
+org.citrusframework	citrus-simulator	3.0.2		N/A
 org.cloudburstmc.fastutil.commons	boolean-common	8.5.13		e037d2c359a81c9e165b12f70a1402cf50fc8a76
 org.cloudburstmc.fastutil.commons	boolean-common	8.5.15		26c511dd0f4ff80f87e351792c9da6cac3ab8cd6
 org.commonjava.indy	indy-repo-proxy-common	2.2.0		68a4c80c1f9c1bb9629d2e96b733e018b8c5287e
@@ -1497,6 +1509,7 @@ org.eclipse.scout.rt	org.eclipse.scout.rt.svg.ui.html	9.0.0.032_Simrel_2019_12_R
 org.eclipse.scout.rt	org.eclipse.scout.rt.svg.ui.html	9.0.0.033_Simrel_2019_12		715932f8a42cf19c2011663f2ceb0689e34750cf
 org.eclipse.scout.rt	org.eclipse.scout.rt.svg.ui.html	9.0.0.034		2410af857cb258279461922158fe516a96ea2e02
 org.eclipse.scout.rt	org.eclipse.scout.rt.svg.ui.html	9.0.0.039		8cf04a84e3387d6fe08087db4ee3932e7ce21fba
+org.elasticsearch.distribution.oss-zip	elasticsearch-oss	6.3.1		N/A
 org.finos.legend	legend-shared-opentracing-servlet-filter	0.0.6		0c83d145e0687c048df3443164039b9eb9ff0865
 org.finos.legend	legend-shared-opentracing-servlet-filter	0.0.7		e7cb84a6b488f7591d9c7b86a77d5e19cc798497
 org.joyqueue	openmessaging-spring	4.2.0		a5b9b23e40d6b0cff7383e3248fa51799f16211b

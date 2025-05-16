@@ -86,6 +86,15 @@ cn.gmlee.tools	tools-mail	5.7.2		4908de1f99b648cc1112d6fd2553786839a8e479
 co.baiku.boot	ajavaer-web	0.0.1-RELEASE		65e05f306ad01678e8b4779252d8711a5c0fab2b
 co.baiku.boot	ajavaer-web	0.0.2-RELEASE		6fac5b8d607bd560ba0370a76477fd7cb317ed7b
 co.baiku.boot	ajavaer-web	0.3.0-RELEASES		0a21f7831e6b61a5e18f44663291b0e589770a78
+com.arcmutate.gradle	github-plugin	1.1.0		35cb94b274f1c3351a598ba62087804c8e8abab0
+com.arcmutate.gradle	github-plugin	1.1.1		f7be268fff495939a191ae2b2e15d08184d0963d
+com.arcmutate.gradle	github-plugin	1.2.0		6706cdd8ace70e8d06d34c68f00a1254b262b1d3
+com.arcmutate.gradle	github-plugin	1.2.1		848b1aae125182d8ea294ce3bb7f2b165beef2ba
+com.arcmutate.gradle	github-plugin	1.2.2		65ca6e5377774a912a0f3e0c54ef42cbd8b73c89
+com.arcmutate.gradle	github-plugin	2.0.0		ac66dba69cf99cccbad9e83cbbd9f72a15d6067d
+com.arcmutate.gradle	github-plugin	2.1.0		d675f2b8f2039fc63d6a5cbc688a6d00d2ecc85c
+com.arcmutate.gradle	github-plugin	2.2.0		692efef04ac45c9b6adf65aa20320a42c4d06c1c
+com.arcmutate.gradle	github-plugin	2.2.1		1ebcb65302271eb57c59efdb609203c8bea5ed65
 com.codacy	simple-akka-downing_2.13	0.9.3		fa09f9e13c5c4cd3282b70efc8a63602b3f21ec8
 com.digitalasset	daml-lf-interpreter_2.12	100.13.35		614c699c041dc4fce8b42ac3eff6acbd035098f7
 com.digitalasset	daml-lf-interpreter_2.12	100.13.36		614c699c041dc4fce8b42ac3eff6acbd035098f7
@@ -155,6 +164,7 @@ com.ecommpay	msdk-core-android	0.8.9		N/A
 com.ecommpay	msdk-core-android	0.9.0		N/A
 com.ecommpay	msdk-core-android	0.9.1		N/A
 com.ecommpay	msdk-core-android	0.9.2		N/A
+com.elihullc.rwsplitter.2.0.3.com.elihullc	rwsplitter	2.0.3		N/A
 com.eurodyn.qlack2.fuse	qlack2-fuse-crypto-test	2.2.3		2dc063f1b0434ccb87b87124ccb5f80fa5e5b744
 com.eurodyn.qlack2.fuse	qlack2-fuse-crypto-test	2.2.4		3a83e876aad50dee55a5e7f7bd94eca7f3be2286
 com.eurodyn.qlack2.fuse	qlack2-fuse-event-publisher-api	2.2.1		ef79c9e909ba5a68c5ef260ac654ba91fa6ece45
@@ -211,6 +221,8 @@ com.github.bancolombia	vault-sync	4.4.5		e4b6f8c67091b75a77e8364ef5e001b66b0bb02
 com.github.bancolombia	vault-sync	4.4.6		6881d9b3bdb1863cafeb63ea189fc6b6bce03843
 com.github.bancolombia	vault-sync	4.4.7		1ed93e1e6d6ce4800173b90ae916f066abced01d
 com.github.chuanzh	eop	1.0.1		afbdc9d430f6a37e2d1fa78b965760a059eaaf47
+com.github.leeyazhou	crpc-codec	1.0.1.RELEASE		N/A
+com.github.leeyazhou	crpc-codec	1.0.2.RELEASE		N/A
 com.github.lmslone	lone-flowable	1.0.0		faf544a228827f1e80332fb69de0a3ca0b60e980
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1	0.1.0		aff622375b1d4fcf83d549e90442306729eaa37a
 com.google.api.grpc	proto-google-cloud-redis-cluster-v1	0.10.0		8357db07b9e4cb3a6cff1b45e2ad7de9f05dffd8
@@ -654,6 +666,7 @@ com.mastfrog	util-strings	2.9.4.1		3a73261a2786c554cd5eb17a18d5fae8f8fa7845
 com.mastfrog	util-strings	2.9.5		4ebe66289d82539305488ff8d55ba6a5a48d96bb
 com.mastfrog	util-strings	2.9.6		9f31f62f1337212f40c83657a7eb38275cb917c7
 com.mastfrog	util-strings	2.9.7		556d3cef11427bb7c2b7c0b2cc05f16c6059783f
+com.mi.ads	xout	2.0		N/A
 com.netflix.graphql.dgs	graphql-dgs-subscriptions-graphql-sse-autoconfigure	6.0.5		e824d12a0f8e1b03954ceaeccbd4ea6455e721e1
 com.netflix.graphql.dgs	graphql-dgs-subscriptions-graphql-sse-autoconfigure	7.0.0		8fe987951694215f8bc04f14173495c7fc870f63
 com.netflix.graphql.dgs	graphql-dgs-subscriptions-graphql-sse-autoconfigure	7.1.0		f88d6d92f9853ee49b15bff21054545497c75283
@@ -720,6 +733,19 @@ com.oracle.tools	oracle-tools-coherence	2.0.0-RC1		f8ac69d7a42e3bc3db660dee70487
 com.oracle.tools	oracle-tools-coherence	2.0.0-RC2		2f3af34010c231c73369d29a1b9b6141714a7eb9
 com.oracle.tools	oracle-tools-coherence	2.0.0-RC3		c6d0a6aeeb4fb4aba647025ede5117d0652dd996
 com.oracle.tools	oracle-tools-coherence	2.0.0-RC9		eda72b5bf41adc2cf0965e0aa7040f6b80afe6a4
+com.randomnoun.build	parent-pom	1.14		N/A
+com.randomnoun.build	parent-pom	1.22		N/A
+com.randomnoun.build	parent-pom	1.23		N/A
+com.randomnoun.build	parent-pom	1.25		N/A
+com.randomnoun.build	parent-pom	1.26		N/A
+com.randomnoun.build	parent-pom	1.27		N/A
+com.randomnoun.build	parent-pom	1.28		N/A
+com.randomnoun.build	parent-pom	1.29		N/A
+com.randomnoun.build	parent-pom	1.30		N/A
+com.randomnoun.build	parent-pom	1.31		N/A
+com.randomnoun.build	parent-pom	1.32		N/A
+com.randomnoun.build	parent-pom	1.33		N/A
+com.randomnoun.build	parent-pom	1.35		N/A
 com.sonatype.nexus	nexus-platform-api	1.2.0-01		359e8654f07cc764802b13c2c85880647fa39133
 com.sonatype.nexus	nexus-platform-api	1.2.0-01	internal	183c3ca96e036a5ee7742815da6bf0b7b421f4e3
 com.sonatype.nexus	nexus-platform-api	1.3.0-02		84faf20c265daafd2e1faa91507e250f53dbd7a2
@@ -2203,6 +2229,8 @@ org.mockito	mockito-scala_2.13.0-RC3	1.5.4		fb667be48d25755ef366406c70147ebd050f
 org.mockito	mockito-scala_2.13.0-RC3	1.5.6		36f9c6fa9f156a2f395155a3835790dd900e1df5
 org.mockito	mockito-scala_2.13.0-RC3	1.5.7		bf420f63a5664b72be9eb7601df357cd0d9e5dc4
 org.mockito	mockito-scala_2.13.0-RC3	1.5.8		28a687b88fa684aefcf80fc23a2f36dfe9a642d2
+org.objectweb.think.minus.applications.xstreamUnix	xstreamUnix-parent	1.1		N/A
+org.objectweb.think.minus.applications.xstreamUnix	xstreamUnix-parent	1.1-alpha-5		N/A
 org.tinylog	slf4j-binding	1.0		b13174faa2564ed27f1bdf1e95d32e8c0362de76
 org.tinylog	slf4j-binding	1.0-rc-2		0a4840642f02ae9d7f95a4c83a87601758c71c92
 org.tinylog	slf4j-binding	1.0-rc-3		0567b0216c36eb8d39a1bcd6f4dc26ec1696be16
@@ -2272,6 +2300,8 @@ top.wu2020	wu-smart-acw-client	1.2.1-JDK17		2126d24a244c16854b742281396acc71b465
 top.wu2020	wu-smart-acw-client	1.2.2-JDK17		a49ad5003b88bfd030f900a212f5446ef4d77ba8
 top.wu2020	wu-smart-acw-client	1.2.3-JDK17		26bae3e6821aef758c209ca645c447994724efe7
 top.wu2020	wu-smart-acw-client	1.2.5-JDK17		1e28677a744f3bd14d68cd62510280f6f530a976
+uk.co.baconi.substeps	substeps-cli-runner-parent	0.0.2		N/A
+uk.co.baconi.substeps	substeps-cli-runner-parent	0.0.3		N/A
 uy.klutter	klutter-core-jdk7	0.1.0		bc6c03cf9235ec3f7be75672480c3359029683de
 uy.klutter	klutter-core-jdk7	0.1.1		b7501cea33ab037b0d074e02cbc0e7290c753683
 uy.klutter	klutter-core-jdk7	0.10.0		4efc4cb51cb9d8307d945121f07695fa256d97e3

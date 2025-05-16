@@ -1,4 +1,9 @@
 br.com.caelum.vraptor	vraptor-routes	4.1.0-RC3		e1674dd6022abd04cffdd7141a3c924afe08934d
+ca.uhn.hapi.fhir.karaf	hapi-fhir	3.3.0		N/A
+ca.uhn.hapi.fhir.karaf	hapi-fhir	3.4.0		N/A
+ca.uhn.hapi.fhir.karaf	hapi-fhir	3.5.0		N/A
+ca.uhn.hapi.fhir.karaf	hapi-fhir	3.6.0		N/A
+ca.uhn.hapi.fhir.karaf	hapi-fhir	3.7.0		N/A
 co.cask.cdap	cdap-notifications	2.7.0		66661ec85f0fa35696c9a7a9115832afdae678bf
 co.cask.cdap	cdap-notifications	2.7.1		dcdb2fd60a8260322d30b14173a39514ac731afa
 co.cask.cdap	cdap-notifications	2.8.0		0a784cdc2c02cd62fdecc04fc52f362dce29e493
@@ -464,6 +469,18 @@ com.lodsve	lodsve-mybatis	2.7.4-RELEASE		571a3e485ebb6733602dee36f1dd5c5995c0eb8
 com.lodsve	lodsve-mybatis	2.7.5-RELEASE		425280afc144d9ea59c12cb3377c0237088bc41b
 com.lodsve	lodsve-mybatis	2.7.6-RELEASE		aabf6964a8822a32191c3a3a1085b23c26af2d6f
 com.netflix.iep-shadow	iepshadow-karyon2-eureka	2.2.00-ALPHA7		6abd009edaa9f90d27d955644bdf4d34d1d341ac
+com.projectdarkstar	sgs	10		N/A
+com.projectdarkstar	sgs	11		N/A
+com.projectdarkstar	sgs	12		N/A
+com.projectdarkstar	sgs	13		N/A
+com.projectdarkstar	sgs	14		N/A
+com.projectdarkstar	sgs	15		N/A
+com.projectdarkstar	sgs	16		N/A
+com.projectdarkstar	sgs	5		N/A
+com.projectdarkstar	sgs	6		N/A
+com.projectdarkstar	sgs	7		N/A
+com.projectdarkstar	sgs	8		N/A
+com.projectdarkstar	sgs	9		N/A
 com.pwinckles.jdbcgen	jdbc-gen-processor	1.0.0		372de585f67748ae58a9b3ec8d0f6e17e0a17d56
 com.pwinckles.jdbcgen	jdbc-gen-processor	1.0.1		3c6287427e126cc792f59085e07c713080c6e677
 com.pwinckles.jdbcgen	jdbc-gen-processor	1.1.0		fde2168c437395672e19900c07e327c8133f44bd
@@ -678,6 +695,19 @@ de.micromata.tpsb	de.micromata.tpsb.common	2.7.0		22d3801c89e40f687e0dd1f5d3e9d5
 de.sciss	rating-scala_2.11	0.1.1		afbfc8f309cbf316ac08833c4b51820c14bc64bd
 directory-naming	naming-factory	0.8		3184f01b289b254305233c4aaadf6efeb2bf0932
 es.edn	nomad-client-java	1.7.6		fbbd1553576de56aef0d30b822f435cb1c98f8b3
+io.agora.rtc	full-jnd	12-15-ci-test		N/A
+io.agora.rtc	full-jnd	3.6.2		N/A
+io.agora.rtc	full-jnd	3.6.2.2		N/A
+io.agora.rtc	full-jnd	3.6.2.214		N/A
+io.agora.rtc	full-jnd	3.6.2.3		N/A
+io.agora.rtc	full-jnd	3.6.3		N/A
+io.agora.rtc	full-jnd	3.7.0		N/A
+io.agora.rtc	full-jnd	3.7.0.1		N/A
+io.agora.rtc	full-jnd	3.7.0.2		N/A
+io.agora.rtc	full-jnd	3.7.0.3		N/A
+io.agora.rtc	full-jnd	3.7.1		N/A
+io.agora.rtc	full-jnd	3.7.2		N/A
+io.agora.rtc	full-jnd	3.7.2.1		N/A
 io.fabric8.platform.apps	funktion-operator	2.4.15		f9e2df01e0b2650710798e8f0040c4f41c296cd3
 io.fabric8.platform.apps	funktion-operator	2.4.16		5faaa5dfe398a82848fca3630c62e0f5bfe46345
 io.fabric8.platform.apps	funktion-operator	2.4.17		5880756736f6404f476b4a82871190ae17b3cfad
@@ -725,6 +755,8 @@ io.github.shiraz990	shared-iosx64	1.0.9		N/A
 io.github.shiraz990	shared-iosx64	1.0.9	metadata	f3589b45ff190bf5e9f44bd366841e1671ed00e1
 io.github.shiraz990	shared-iosx64	1.1.0		N/A
 io.github.shiraz990	shared-iosx64	1.1.0	metadata	f3589b45ff190bf5e9f44bd366841e1671ed00e1
+io.netty.contrib	netty-codec-haproxy-parent	5.0.0.Alpha1		N/A
+io.netty.contrib	netty-codec-haproxy-parent	5.0.0.Alpha2		N/A
 io.quarkus	quarkus-smallrye-reactive-messaging-pulsar-deployment	3.10.0		d42127fa0f95d9ed02d046bf4173199c3fdd4bf6
 io.quarkus	quarkus-smallrye-reactive-messaging-pulsar-deployment	3.10.0.CR1		e77681a2d8ade129218b675aa9d80a1580369f16
 io.quarkus	quarkus-smallrye-reactive-messaging-pulsar-deployment	3.10.1		f3c001068e84dc676713c5999690f61e72b5fdbd
@@ -980,6 +1012,9 @@ org.glassfish.admin	backup	3.2-b03		8a6299bc0cb9de48265604721c0530fb17e75c0f
 org.glassfish.admin	backup	3.2-b04		cfdc5209618de81e525810ae3f1e80cf80bb3808
 org.glassfish.admin	backup	3.2-b05		102097f95b3fcfa604119888578b5eb3f64afbdb
 org.glassfish.admin	backup	3.2-b06		e7c63a418986b35f1f6fecc7abe5e5a9d7a48a88
+org.kurento	kurento-tree	6.3.0		N/A
+org.kurento	kurento-tree	6.5.0		N/A
+org.kurento	kurento-tree	6.6.0		N/A
 org.mule.transports	mule-transport-file	1.3		0f892252f0bb974f14d2c8b2525ee8c601ff7581
 org.mule.transports	mule-transport-file	1.3-rc5		df7fa17a2060c0b9b73ad63579d7bcc8b2679010
 org.mule.transports	mule-transport-file	1.3.1		48c275c2ad780dd1a3a15bd16eb1f061e0c1224f

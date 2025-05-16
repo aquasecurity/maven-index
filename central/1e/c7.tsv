@@ -99,6 +99,7 @@ com.eygraber	vice-portal-android	0.9.7		N/A
 com.eygraber	vice-portal-android	0.9.8		N/A
 com.eygraber	vice-portal-android	0.9.9		N/A
 com.gilt	handlebars-scala-play-json_2.10	2.1.1		f4705a292e11406805ad957ad0e4a72c31d106f7
+com.github.alei121	rawsocketspi-jni	1.0.0		N/A
 com.github.eborgbjerg	chessshell-logger	1.0.0		38c567a2c196e8197f862c9d7942380fee2f1662
 com.github.mjakubowski84	parquet4s-scalapb_2.13	2.13.0		5a96352d28768448fda3f6f973c35c5467e0dc30
 com.github.mjakubowski84	parquet4s-scalapb_2.13	2.14.2		ba3c3debed233b536c5182dd259ca99f68096b9c
@@ -297,6 +298,7 @@ com.helger.phase4	phase4-server-webapp	2.9.3		N/A
 com.helger.phase4	phase4-server-webapp	3.0.0		N/A
 com.helger.phase4	phase4-server-webapp	3.0.0-beta1		N/A
 com.helger.phase4	phase4-server-webapp	3.0.0-beta2		N/A
+com.helger.phase4	phase4-server-webapp	3.0.0-beta3		N/A
 com.helger.phase4	phase4-server-webapp	3.0.0-beta4		N/A
 com.helger.phase4	phase4-server-webapp	3.0.0-beta5		N/A
 com.helger.phase4	phase4-server-webapp	3.0.0-beta6		N/A
@@ -455,6 +457,11 @@ com.squareup.okio	okio-fakefilesystem-watchosarm64	3.9.0	metadata	2ad14aed781c4a
 com.squareup.okio	okio-fakefilesystem-watchosarm64	3.9.1		N/A
 com.squareup.okio	okio-fakefilesystem-watchosarm64	3.9.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 com.stetel	floppy	1.1.0		N/A
+com.sunmi	PosUiLib	1.0.11		N/A
+com.sunmi	PosUiLib	1.0.12		N/A
+com.sunmi	PosUiLib	1.0.13		N/A
+com.sunmi	PosUiLib	1.0.15		N/A
+com.sunmi	PosUiLib	1.0.16		N/A
 com.weicoder	gson	3.3.6		c87f9c6fc95623d27d5cc53fa445fa9508309b79
 com.weicoder	gson	3.3.7		0990ec18d5b7d21115b8e94a763b7a7d2f0c4ffe
 com.weicoder	gson	3.3.8		a22646701539e220b92c9b9258ac82e2aa6ae13f
@@ -597,8 +604,15 @@ io.apiman	apiman-manager-ui-hawtio-wildfly8	1.2.0.Beta3		N/A
 io.apiman	apiman-manager-ui-hawtio-wildfly8	1.2.0.Final		N/A
 io.apiman	apiman-manager-ui-hawtio-wildfly8	1.2.1.Final		N/A
 io.fabric8.jube.images.examples	cxf-cdi	2.0.0		abaa6ae863952140438743009a078f0dd5d3c579
+io.github	appmaticsdk	1.0.0		N/A
+io.github	appmaticsdk	1.1.0		N/A
+io.github	appmaticsdk	1.5.0		N/A
+io.github	appmaticsdk	2.0.0		N/A
+io.github	appmaticsdk	2.1.0		N/A
 io.github.alexanderschuetz97	luajlpath	1.0		af384b7e539cef6a83e7f7eb3aa40afa92c3d615
 io.github.anioutkazharkova	shared-android	1.0.1		N/A
+io.github.artemptushkin.proxy.image	proxy-image-parent	1.0.3		N/A
+io.github.artemptushkin.proxy.image	proxy-image-parent	1.0.4		N/A
 io.github.ismai117	KSend	1.0.0		41aef1fdc12d74f23fdb1d0f9d23ecc80ac1bc52
 io.github.ismai117	KSend	1.0.1		41aef1fdc12d74f23fdb1d0f9d23ecc80ac1bc52
 io.github.ismai117	KSend	1.0.2		2ebac2bb8efb26e97b19b5f3f51d65ce821a33b7
@@ -748,6 +762,8 @@ me.nathanfallet.usecases	usecases-iosx64	1.7.0		N/A
 me.nathanfallet.usecases	usecases-iosx64	1.7.0	metadata	d3a4ec3f8bb7cb2e924d50d304cd6d98192b1acd
 me.nathanfallet.usecases	usecases-iosx64	1.8.0		N/A
 me.nathanfallet.usecases	usecases-iosx64	1.8.0	metadata	3f44a9f755493d44e8f4ccec6514f1882801dd29
+net.mbonnin.sqldelight	net.mbonnin.sqldelight.gradle.plugin	1.5.5		N/A
+net.mbonnin.sqldelight	net.mbonnin.sqldelight.gradle.plugin	1.5.6		N/A
 org.apache.activemq.examples.jms	artemis-jms-expiry-example	1.0.0		2321696492e42c557b71b78442967767387c7977
 org.apache.camel	camel-salesforce	2.12.0		0586b7edb161ba3bf6533f3b57075f89e27f1490
 org.apache.camel	camel-salesforce	2.12.1		1ccb402e0d6b22c8e63c1320b902962503d7ccdc
@@ -954,6 +970,16 @@ org.apache.camel	camel-salesforce	4.8.4		815a12f96dd795d54f2278f9aedd2e88ba82cab
 org.apache.camel	camel-salesforce	4.8.5		8af9aaaf7b1bb46029b51d7ccc8a988f9d997440
 org.apache.camel	camel-salesforce	4.8.6		202e70a55532a2d53453b3cbbf2891aa07fca5aa
 org.apache.camel	camel-salesforce	4.9.0		36c53f18ceb4278566f48f56cf3d8a03871e6c99
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.0		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.1		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.2		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.3		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.3.1		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.4.0		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.5.0		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.6.0		N/A
+org.apache.cxf.dosgi	cxf-dosgi-ri-felix	1.7.0		N/A
+org.apache.geronimo.plugins	directory-parent	1.0		N/A
 org.apache.pekko	pekko-connectors-ironmq_2.12	1.0.0		c7a78a09d7dd2e2a98b9a90bb05519eb3434cac1
 org.apache.pekko	pekko-connectors-ironmq_2.12	1.0.1		b9335ec4c0b86c5e8b45ddb50b61910b3bd249ac
 org.apache.pekko	pekko-connectors-ironmq_2.12	1.0.2		8e180b5925741aec6152652468855d4ad0a01d57
@@ -1050,6 +1076,26 @@ org.apache.pulsar	pulsar-client-admin	4.0.1		f6bf7a07d8c270ba5efee493fd63f49de89
 org.apache.pulsar	pulsar-client-admin	4.0.2		de0dea2672931564c6f6cc41258407bb382f5f29
 org.apache.pulsar	pulsar-client-admin	4.0.3		dca759f2ee44cc266e17e79d02af31c504a80ce7
 org.apache.pulsar	pulsar-client-admin	4.0.4		5e83fa95f531350747d252b8cc40e1f46b03cf2f
+org.apache.tika	tika-pipes	2.0.0		N/A
+org.apache.tika	tika-pipes	2.0.0-BETA		N/A
+org.apache.tika	tika-pipes	2.1.0		N/A
+org.apache.tika	tika-pipes	2.2.0		N/A
+org.apache.tika	tika-pipes	2.2.1		N/A
+org.apache.tika	tika-pipes	2.3.0		N/A
+org.apache.tika	tika-pipes	2.4.0		N/A
+org.apache.tika	tika-pipes	2.4.1		N/A
+org.apache.tika	tika-pipes	2.5.0		N/A
+org.apache.tika	tika-pipes	2.6.0		N/A
+org.apache.tika	tika-pipes	2.7.0		N/A
+org.apache.tika	tika-pipes	2.8.0		N/A
+org.apache.tika	tika-pipes	2.9.0		N/A
+org.apache.tika	tika-pipes	2.9.1		N/A
+org.apache.tika	tika-pipes	2.9.2		N/A
+org.apache.tika	tika-pipes	2.9.3		N/A
+org.apache.tika	tika-pipes	3.0.0		N/A
+org.apache.tika	tika-pipes	3.0.0-BETA		N/A
+org.apache.tika	tika-pipes	3.0.0-BETA2		N/A
+org.apache.tika	tika-pipes	3.1.0		N/A
 org.archguard.codedb	runner	0.1.0		5951ff694cf46e0b1a81cbefad83dddea46510ed
 org.archguard.codedb	runner	0.1.0	all	f95ad4b22209531d423e4ca381b219c4b1ab7605
 org.archguard.codedb	runner	0.1.2		5fe09820e8551625fcfece66965b69becfc80042
@@ -1093,6 +1139,7 @@ org.kotlincrypto.macs	hmac-sha2-linuxarm32hfp	0.2.5		N/A
 org.kotlincrypto.macs	hmac-sha2-linuxarm32hfp	0.2.6		N/A
 org.kotlincrypto.macs	hmac-sha2-linuxarm32hfp	0.2.7		N/A
 org.kotlincrypto.macs	hmac-sha2-linuxarm32hfp	0.3.0		N/A
+org.mobicents.servlet.sip.example	chatroom-servlet	1.0		N/A
 org.ojalgo	ojalgo-mosek	2.47.2		37df1786e59e7e1255b7afea012b97e7f2ef41ca
 org.ojalgo	ojalgo-mosek	3.0.0		e8cbccc60223a7527c3ab6a001e1e343f6b485bc
 org.ojalgo	ojalgo-mosek	3.1.0		09cc7895b696bc1ecc68b95507c11bcace5001ae
@@ -1487,10 +1534,15 @@ space.kscience	dataforge-workspace-iosx64	0.10.1		N/A
 space.kscience	dataforge-workspace-iosx64	0.10.1	metadata	2a1400626217a97f10c01e57bb33d79486581b1b
 xfire	xfire-loom	1.0		N/A
 xfire	xfire-loom	1.0	M6a	93771b8641aa50126b3b93fd213659a0307c8c2c
+xfire	xfire-loom	1.0-20050913.004937		N/A
 xfire	xfire-loom	1.0-20050913.004946		d385003994dfd6afb754fc7fa8c605ae38e22cba
+xfire	xfire-loom	1.0-20050917.230911		N/A
 xfire	xfire-loom	1.0-20050917.230925		b5f2f6c6f8514aebb18e3c04a6a2e29f0963e10b
+xfire	xfire-loom	1.0-20050920.032234		N/A
 xfire	xfire-loom	1.0-20050920.032248		1d5d3c9e8c1672d1939958c63d041925e3dc1b70
+xfire	xfire-loom	1.0-20050920.034658		N/A
 xfire	xfire-loom	1.0-20050920.034713		1d5d3c9e8c1672d1939958c63d041925e3dc1b70
+xfire	xfire-loom	1.0-20051009.195948		N/A
 xfire	xfire-loom	1.0-20051009.200017		1d5d3c9e8c1672d1939958c63d041925e3dc1b70
 xfire	xfire-loom	1.0-M4		cd4f92b4ba59da7827c6771ca76460c260d72679
 xfire	xfire-loom	1.0-M5		32d1ffdf83bda12dd1da279769d87bb929e7d53d

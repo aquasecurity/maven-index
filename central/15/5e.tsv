@@ -46,6 +46,11 @@ com.apollographql.adapters	apollo-adapters-kotlinx-datetime-macosx64	0.0.6		N/A
 com.apollographql.adapters	apollo-adapters-kotlinx-datetime-macosx64	0.0.6	metadata	23629e1f3a3a5986f2c5c4802f0f51b0f59e2d5e
 com.beyondconstraint.sqlking	SQLKing	1.0		N/A
 com.beyondconstraint.sqlking	SQLKing	1.0.2		N/A
+com.bluetrainsoftware.parent	groovy-parent	1.1		N/A
+com.bluetrainsoftware.parent	groovy-parent	1.2		N/A
+com.bluetrainsoftware.parent	groovy-parent	1.3		N/A
+com.bluetrainsoftware.parent	groovy-parent	1.4		N/A
+com.bluetrainsoftware.parent	groovy-parent	1.5		N/A
 com.cldellow	gzip	0.0.1		545edfc5f29b106dcbb8882ffb0aa097b4880066
 com.cldellow	gzip	0.0.2		74eca52586830a64c6f8be482408789bd010db16
 com.cldellow	gzip	0.0.3		1eba47bc69038ea360fb255d5d8d76cad849c27c
@@ -95,11 +100,25 @@ com.devcycle	java-server-sdk	2.4.0		bf3291eb77811435c249b078bbe306f9b93b2c19
 com.devcycle	java-server-sdk	2.5.0		7fe247274fdc6cebf433a4bfb50f905ee0d13a76
 com.devcycle	java-server-sdk	2.6.0		8e758552209d154ab7f1502df2ce618ac1d940a0
 com.devcycle	java-server-sdk	2.6.1		c630c8fdd371b758474077e96c358b0deabe1656
+com.estmob.android	sendanywhere-core	10.12.1		N/A
+com.estmob.android	sendanywhere-core	10.12.2		N/A
+com.estmob.android	sendanywhere-core	10.12.3		N/A
+com.estmob.android	sendanywhere-core	11.1.21		N/A
+com.estmob.android	sendanywhere-core	6.10.21		N/A
 com.estmob.android	sendanywhere-core	6.5.30		N/A
 com.estmob.android	sendanywhere-core	6.6.10		N/A
 com.estmob.android	sendanywhere-core	6.7.11		N/A
 com.estmob.android	sendanywhere-core	6.7.20		N/A
 com.estmob.android	sendanywhere-core	6.7.21		N/A
+com.estmob.android	sendanywhere-core	7.1.23		N/A
+com.estmob.android	sendanywhere-core	7.2.20		N/A
+com.estmob.android	sendanywhere-core	7.3.20		N/A
+com.estmob.android	sendanywhere-core	7.3.24		N/A
+com.estmob.android	sendanywhere-core	7.4.12		N/A
+com.estmob.android	sendanywhere-core	7.5.12		N/A
+com.estmob.android	sendanywhere-core	7.6.21		N/A
+com.estmob.android	sendanywhere-core	7.9.7		N/A
+com.estmob.android	sendanywhere-core	8.7.23		N/A
 com.github.dimovelev	metrics-sampler-extension-exec	0.7.1		96e40e717a1efa6c807d22ee6d8c53fc577a43e7
 com.github.dimovelev	metrics-sampler-extension-exec	0.7.2		f6cd1af68436b6e5dcdfc33355539bded436ac3f
 com.github.dimovelev	metrics-sampler-extension-exec	0.7.3		b0892a4455bfc6a63349004631732c452a2cd3a5
@@ -565,6 +584,7 @@ io.circe	circe-magnolia-derivation_sjs0.6_2.13	0.6.1		8ae08c03ccc55482c503e01c2f
 io.github.chenhanhui	security-api-spring-boot3-starter	1.0.0		2fa268425938519f3205a45641a9fb03ae8db0d2
 io.github.chenhanhui	security-api-spring-boot3-starter	1.0.1		adec7e7e8f19e6d1025f02bb63cb48e4ddf4ebf2
 io.github.chenhanhui	security-api-spring-boot3-starter	1.0.2		a2a1a9c777ef8a521f08d09907e43d93b632b10f
+io.github.vram-voskanyan	PreviewGenerator	0.0.2		1f27cc0f5fa0c3d5fb2e0965031d2241f7852959
 io.github.vram-voskanyan	PreviewGenerator	0.0.4		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.github.vram-voskanyan	PreviewGenerator	0.0.5		28cbbd267e2cdbea0a637d71db8f57b788a419c0
 io.matthewnelson.kmp-tor	core-api-watchosx64	2.0.0		N/A
@@ -591,6 +611,7 @@ io.matthewnelson.kmp-tor	core-api-watchosx64	2.0.0-alpha10		N/A
 io.matthewnelson.kmp-tor	core-api-watchosx64	2.0.0-alpha10	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
 io.matthewnelson.kmp-tor	core-api-watchosx64	2.0.1		N/A
 io.matthewnelson.kmp-tor	core-api-watchosx64	2.0.1	metadata	2ad14aed781c4a73ed4dbb421966d408a0a06686
+io.qtjambi	qtjambi-insighttracker-debuginfo-linux-arm64	6.7.3		ed18c2e1eece28b2a5693af05bd7665a5831cd3d
 love.forte.simbot.util	simbot-util-api-requestor-core-watchossimulatorarm64	3.0.0		N/A
 love.forte.simbot.util	simbot-util-api-requestor-core-watchossimulatorarm64	3.0.0	metadata	bc5206eacac651c998771ead8e5cc2e467ffec80
 love.forte.simbot.util	simbot-util-api-requestor-core-watchossimulatorarm64	3.0.0-RC		N/A
@@ -649,6 +670,19 @@ org.aksw.jenax	jenax-reprogen-shacl	4.8.0-2		e567d59ff877e042e273e7edb62e6390d54
 org.aksw.jenax	jenax-reprogen-shacl	4.9.0-1		8bd2d0e0a0d1c249ac0c3c05d20aa1c292abe234
 org.aksw.jenax	jenax-reprogen-shacl	5.0.0-1		0b913bc979c77bd848f20b92322bd2e725de03f1
 org.aksw.jenax	jenax-reprogen-shacl	5.2.0-1		146a535f20c4b198e85d3dacb0c3f5a99ae68191
+org.apache.beam	beam-model-parent	2.3.0		N/A
+org.apache.beam	beam-model-parent	2.4.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	0.7.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	0.7.1		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	0.7.2		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	0.7.3		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	0.7.4		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.0.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.0.0-BETA		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.0.1		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.1.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.1.1		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.1.2		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.10.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.11.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.11.1		N/A
@@ -673,12 +707,21 @@ org.apache.nifi	nifi-site-to-site-reporting-nar	1.17.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.18.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.19.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.19.1		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.2.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.20.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.21.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.22.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.23.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.23.1		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.23.2		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.24.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.25.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.26.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.27.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.28.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.28.1		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.3.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	1.4.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.5.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.6.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.7.0		N/A
@@ -687,6 +730,15 @@ org.apache.nifi	nifi-site-to-site-reporting-nar	1.8.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.9.0		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.9.1		N/A
 org.apache.nifi	nifi-site-to-site-reporting-nar	1.9.2		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.0.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.0.0-M1		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.0.0-M2		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.0.0-M3		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.0.0-M4		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.1.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.2.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.3.0		N/A
+org.apache.nifi	nifi-site-to-site-reporting-nar	2.4.0		N/A
 org.apache.sling	org.apache.sling.auth.oauth-client	0.1.0		2a472ca24a8c2dcc6c418fffce12dea88780fcf5
 org.apache.unomi	cxs-lists-extension-services	1.0.0-incubating		266c2fe726b65c8f38815bae24c62c62e84fc2f0
 org.apache.unomi	cxs-lists-extension-services	1.1.0-incubating		91e587166e125045310333a8484be29d20f44074
@@ -761,6 +813,25 @@ org.glassfish.docs.man	admin-cli-manpage	3.1-b11		4bc1f3c84cfd618a6d48138a146e99
 org.glassfish.docs.man	admin-cli-manpage	3.2-b01		c4aeea47dc25fc78020b002948395fdf7e8c35d2
 org.glassfish.docs.man	admin-cli-manpage	3.2-b02		769d4ea47f05ade17902ebe797648702537fa36f
 org.glassfish.docs.man	admin-cli-manpage	3.2-b03		24d6ba85a9a95add77d6d0138894af96ec524e21
+org.glassfish.docs.man	admin-cli-manpage	4.0-b01		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b02		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b03		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b04		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b05		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b06		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b07		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b08		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b09		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b11		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b13		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b15		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b16		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b21		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b24		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b26		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b27		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.0-b28		N/A
+org.glassfish.docs.man	admin-cli-manpage	4.1		N/A
 org.jgrapes	org.jgrapes.portal.themes.overcast	0.9.3		0adaa57d5cbdbd14bed334167e7b296a62b83447
 org.jgrapes	org.jgrapes.portal.themes.overcast	0.9.4		b950f678174c08208d762cddac6e01af5b467d26
 org.jgrapes	org.jgrapes.portal.themes.overcast	0.9.5		d2ff12ba05b6a20f4b381adcdcd3a05ba1884b84
@@ -783,6 +854,8 @@ org.mortbay.jetty	jetty-rewrite	7.0.0pre1		6ac643330f826416f7b5c02657f3e8a98cb52
 org.mortbay.jetty	jetty-rewrite	7.0.0pre2		c634be74d7ad6530ba06b187263b56f6ccd190f6
 org.mortbay.jetty	jetty-rewrite	7.0.0pre3		c63193eb0e0064213ae84e36fbd9d53bedc1d2f0
 org.openengsb.domain	org.openengsb.domain.appointment	2.0.0		ad7665d994ee6835e767d0d660f2f5848a8cb310
+org.ow2.petals.samples.xslt	petals-xslt-parent	2.10.0-1.0.0		N/A
+org.ow2.petals.samples.xslt	petals-xslt-parent	2.9.0-1.0.0		N/A
 org.projectnessie.nessie-integrations	nessie-spark-extensions-3.5_2.13	0.100.0		a350fd7c928c9f5af54d856239368e60113fbd8c
 org.projectnessie.nessie-integrations	nessie-spark-extensions-3.5_2.13	0.100.0	scaladoc	839ac9a0b806ff7746f97de1d3a0ae09fbb7675e
 org.projectnessie.nessie-integrations	nessie-spark-extensions-3.5_2.13	0.100.1		ee4e62c6bcc6c5d66ec84308d84221af9a34dadf
@@ -919,6 +992,24 @@ org.projectnessie.nessie-integrations	nessie-spark-extensions-3.5_2.13	0.98.0		e
 org.projectnessie.nessie-integrations	nessie-spark-extensions-3.5_2.13	0.98.0	scaladoc	5d210dc8f1e3bbbb2975a9310c9aae7dee909fda
 org.projectnessie.nessie-integrations	nessie-spark-extensions-3.5_2.13	0.99.0		07831dfdccc5d65936c88c9e3d629b332db7f92b
 org.projectnessie.nessie-integrations	nessie-spark-extensions-3.5_2.13	0.99.0	scaladoc	ab596ec135d6ca8c75135b77b9586786874ca46d
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.0		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.1		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.2		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.2.1		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.3		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.4		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.5		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.0		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.1		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.2		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.3		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.4		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.4.1		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.5		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	1.6.6		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	2.0.0		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	2.1.0		N/A
+org.sonatype.appbooter.plexus-platforms	plexus-platforms	2.1.1		N/A
 org.ton.kotlin	ton-kotlin-liteclient-macosarm64	0.4.0		N/A
 org.ton.kotlin	ton-kotlin-liteclient-macosarm64	0.4.0	metadata	390ceb0b1f3871ce660bd592a69242870cc2a3c6
 org.typelevel	cats-tagless-laws_native0.4_2.12	0.13-1-15db980		ab37f451b5f75e4e1fd0237f552f96ed8d72f027
